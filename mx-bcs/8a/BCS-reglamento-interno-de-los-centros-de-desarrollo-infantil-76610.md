@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-de-los-centros-de-desarrollo-infantil-76610"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-10"
-last_updated: "2010-08-10"
+last_updated: "2011-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERNO DE LOS CENTROS DE DESARROLLO INFANTIL PARA POBLACION ABIERTA EN BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DE LOS CENTROS DE DESARROLLO INFANTIL PARA POBLACION ABIERTA EN BAJA CALIFORNIA SUR
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL EL 20 DE MARZO DE 2011.</small>
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de agosto de 2010.
 
@@ -40,15 +40,15 @@ Reglamento Interno de los Centros de Desarrollo Infantil para Población Abierta
 
 El presente Reglamento regula a la institución Centros de Desarrollo Infantil para población abierta, como parte del Sistema Educativo Estatal, dependiente de la Secretaría de Educación Pública del Estado, en sus modalidades de educación inicial y preescolar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entenderá por:
 
 I.- Autoridad Educativa Estatal: Al Secretario de Educación Pública del Estado y a las autoridades dependientes de la Secretaría de Educación Pública que resulten competentes, en los términos del Artículo 2° del Reglamento Interior de la Secretaría de Educación Pública del Estado.
 
-II.- CENDIS para población abierta: a los Centros de Desarrollo Infantil para población abierta, dirigidos a la atención de hijos de madres trabajadoras de los 5 meses a los 6 años de edad.
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+II.- CENDIS para población abierta: a los Centros de Desarrollo Infantil para población abierta, dirigidos a la atención de hijos de madres trabajadoras de los 45 días de nacidos a los 6 años de edad.
 
 III.- Directora General: Directora de todos los Centros de Desarrollo Infantil para Población Abierta del Estado de Baja California Sur.
 
@@ -80,8 +80,6 @@ DE LA DIRECCIÓN GENERAL DE LOS CENTROS DE DESARROLLO INFANTIL
 
 La Dirección General estará integrada, por una Directora General; una Unidad Administrativa; una Unidad Académica, una Unidad de Programas Extraescolares; una Unidad de Investigación, Calidad e Innovación en Educación Temprana; una Unidad de difusión y Comunicación Social, un área de sistemas, supervisoras internas y el personal administrativo correspondiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### Artículo 8.
 
 Son facultades y obligaciones de la Directora General de los Centros de Desarrollo Infantil para Población Abierta, además de las que le otorga el Decreto que integra a los CENDIS al sistema educativo estatal, las siguientes:: (sic)
@@ -110,19 +108,23 @@ k. Coordinar la evaluación de los alumnos y de acuerdo al desempeño de todo el
 
 l. Representar oficialmente a los CENDls en los eventos y actividades que se desarrollen dentro y fuera del plantel.
 
-m. Otorgar las facilidades para que la Secretaría de Educación Pública ejerza flas (sic) tareas de supervisión, indicada en artículo (sic) sexto del Acuerdo del Ejecutivo Estatal, en la forma y términos en que lo determine la Autoridad Educativa Estatal.
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+m. Otorgar las facilidades para que la Secretaría de Educación Pública ejerza las tareas de supervisión, indicadas en el Artículo Sexto del Acuerdo del Ejecutivo Estatal, en la forma y términos en que lo determine la Autoridad Educativa Estatal.
 
 n. Mantener actualizados los expedientes del personal directivo, docente, técnico administrativo y de servicios generales en los cuales se reúnan y compruebe fehacientemente el perfil profesiográfico requerido en la plaza que se ocupa, así como las constancias que acrediten la actualización que en cada caso se requiera.
 
-o. Representar a los CENDls ante los tribunales estatales y federales, Órganos Jurisdiccionales; Contenciosos Administrativos, antes el tribunal de Arbitraje del Estado, en los procesos o procedimientos de toda índole y ante las autoridades Municipales Estatales y Federales, para la resolución de los asuntos de su competencia, así como para abrir, operar y cerrar cuentas bancarias y tendrá o (sic) poder cambiario. Dichas facultades de representación podrá delegarlas, sustituirlas o revocarlas mediante mandato expreso.
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+o. Representar legalmente a los CENDls ante cualquier autoridad judicial o administrativa, ya sea federal, estatal o municipal, en los procesos o procedimientos de toda índole, así como para abrir, operar y cerrar cuentas bancarias. Dichas facultades de representación podrá delegarlas, sustituirlas o revocarlas mediante mandato expreso.
 
 p. Nombrar a los titulares de la Unidad Administrativa; de la Unidad Académica, de la Unidad de Programas Extraescolares; de la Unidad de Investigación, Calidad e Innovación en Educación Temprana; de la Unidad de difusión y Comunicación Social, del área de sistemas, supervisoras internas, jefas de área y demas personal administrativo correspondiente Personal de la Dirección General, en categorías de empleados de confianza; así como nombrar a las Directoras de los Cendis.
 
 ### Capítulo IV. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
 
-Artículo 10 (SIC).- La Unidad de Investigación, Calidad e Innovación e (sic) Educación IniCentro (sic) contará con un titular, además de profesionistas, personal técnico, administrativo y de servicios generales necesarios para el desempeño de sus funciones.
+Artículo 10 (SIC).- La Unidad de Investigación, Calidad e Innovación en Educación Temprana contará con un titular, además de profesionistas, personal técnico, administrativo y de servicios generales necesarios para el desempeño de sus funciones.
 
 ###### Artículo 11.
 
@@ -144,17 +146,17 @@ g. Impulsar una cultura de calidad en todas las actividades de los CENDls.
 
 h. Realizar y coadyuvar en la elaboración de todo tipo de proyectos de calidad y en los materiales, documentos y estudios necesarios, para participar en toda clase de concursos, eventos académicos y actividades de educación en el ámbito nacional en (sic) internacional.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE CAPITULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+### Capítulo V
 
-### Capítulo V. DEL CONSEJO TÉCNICO CONSULTIVO GENERAL
+> <small>(F. DE E. B.O. 20 DE MARZO DE 2011)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+DEL CONSEJO TÉCNICO GENERAL
+
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
 
 ###### Artículo 12.
 
-El Consejo Técnico General está integrado por la Directora General, las Directoras de los CENDI, por las Directoras de los Centros, un representante por cada Consejo Técnico de los Centros que operen en el Estado; así como, un representante de la Secretaría de Educación Pública, de conformidad como lo establece el Decreto de creación de esta modalidad educativa.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+El Consejo Técnico General está integrado por la Directora General, las Directoras de los CENDIs, un representante por cada Consejo Técnico de los Centros que operen en el Estado; así como, un representante de la Secretaría de Educación Pública, de conformidad como lo establece el Decreto de creación de esta modalidad educativa.
 
 ###### Artículo 13.
 
@@ -162,7 +164,9 @@ Son responsabilidades y funciones del Consejo Técnico Consultivo:
 
 a. Discutir, analizar y aprobar los asuntos técnicos pedagógicos más relevantes de los CENDls;
 
-b. Elaborar y aprobar el pan (sic) anual de trabajo de los CENDls;
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+b. Elaborar y aprobar el plan anual de trabajo de los CENDls;
 
 c. Previa consulta y auscultación, proponer al Secretario de Educación del Estado, a la Directora General de los CENDls, con el propósito de se (sic) extienda su nombramiento respectivo;
 
@@ -174,7 +178,9 @@ f. Funcionar como órgano de propuestas, análisis y consulta de la Dirección G
 
 g. Dar seguimiento y realizar reuniones de control y evaluación de los programas, proyectos y de las actividades pedagógicas y asistenciales de los CENDls;
 
-h. Convertirse en un espacio de análisis, debate ya (sic) probación (sic) de los cursos, seminarios, diplomados, congresos, encuentros, foros, eventos y propuestas educativas para la actualización, capacitación y desarrollo del personal de los CENDls. Así como, aprobar las propuestas del personal que participará en estos eventos;
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+h. Convertirse en un espacio de análisis, debate y aprobación de los cursos, seminarios, diplomados, congresos, encuentros, foros, eventos y propuestas educativas para la actualización, capacitación y desarrollo del personal de los CENDls. Así como, aprobar las propuestas del personal que participará en estos eventos
 
 i. Estudiar los programas, proyectos y procesos de trabajo y las iniciativas que presenten las comisiones que se establezcan y, en su caso, recomendar su implementación en los CENDls;
 
@@ -272,13 +278,13 @@ La creación de nuevas plazas, estará sujeta a la apertura de nuevos CENDls, al
 
 Los trabajadores de los CENDls podrán ser sancionados en caso de la violación de la normatividad aplicable en el desempeño de sus funciones, conforme a lo establecido en la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, y demás disposiciones aplicables en la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTOS ARTICULOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## Transitorios
 
 PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-SEGUNDO.- El personal que actualmente se encuentra laborando en los CENDIS de referencia, contará con un plazo perentorio establecido de común acuerdo, entre el Secretario de Educación Pública y las (sic) Directora General de los Centros de Desarrollo Infantil, a partir de que entre en vigencia el presente Reglamento, para reunir los requisitos de su perfil profesiográfico, establecidos para la posición laboral que actualmente ocupan. El personal que cumpla con su perfil laboral y rebase la edad de 50 años, que establece la Secretaría Como edad límite para asignar plazas, podrá continuar laborando a través de contratos de trabajo.
+> <small>(F. DE E., B.O. 20 DE MARZO DE 2011)</small>
+
+SEGUNDO.- El personal que actualmente se encuentra laborando en los CENDIs de referencia, contará con un plazo perentorio establecido de común acuerdo, entre el Secretario de Educación Pública y la Directora General de los Centros de Desarrollo Infantil, a partir de que entre en vigencia el presente Reglamento, para reunir los requisitos de su perfil profesiográfico, establecidos para la posición laboral y rebase la edad de 50 años, que establece la Secretaría como edad límite para asignar plazas, podrá continuar laborando a través de contratos de trabajo.
 
 TERCERO.- La antigüedad del personal que sea contratado, para laborar como miembro de los CENDls, empezará a contar a partir de la fecha que le sea otorgado el nombramiento de adscripción a la misma por la autoridad educativa. El actual personal que no continúe laborando en los CENDls de referencia, serán indemnizados de común acuerdo con la Secretaría de Educación Pública.
 
