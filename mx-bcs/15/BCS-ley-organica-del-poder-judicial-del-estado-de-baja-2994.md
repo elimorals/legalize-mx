@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2010-12-20"
+last_updated: "2011-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 1883 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2010.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -2209,7 +2209,7 @@ La resolución de no responsabilidad administrativa, deberá ser publicada en ex
 
 ###### ARTICULO 165.
 
-Cuando se trate faltas (sic) que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
+Cuando se trate (sic) faltas que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
 
 Se levantará acta circunstanciada de la (sic) diligencias que se practiquen, misma que suscribirán quienes en ellas intervengan, apercibidos de las sanciones en que incurren quienes falten a la verdad.
 
