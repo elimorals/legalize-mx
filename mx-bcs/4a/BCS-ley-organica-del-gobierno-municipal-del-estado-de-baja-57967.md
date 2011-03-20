@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2009-03-03"
+last_updated: "2011-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -443,7 +443,9 @@ d) Crear y reglamentar los Consejos Municipales de Giros Restringidos de acuerdo
 
 e) Fijar las bases para la elaboración del plan de desarrollo municipal y participar en la formulación de planes y proyectos de desarrollo regional, cuando los elabore la Federación o el Estado, los cuales deberán estar en concordancia con los planes generales de la materia.
 
-f) Aprobar la convocatoria para la designación de delegados municipales;
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2011)</small>
+
+f) Aprobar la convocatoria para la designación de delegados municipales, la que podrá ser mediante consulta ciudadana o mediante elección por parte del Honorable Cabildo;
 
 g) Remover a los delegados municipales, en los términos que señala esta Ley;
 
@@ -911,11 +913,13 @@ Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al 
 
 Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial asignada a la delegación, quienes deberán de acreditar fehacientemente su residencia y garantizar su residencia en ella.
 
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2011)</small>
+
 ###### Artículo 84.
 
-Para la designación de Delegados deberá hacerse una consulta ciudadana, de acuerdo a las bases que establezca la convocatoria que para tal efecto expida el Ayuntamiento. Dicha convocatoria se expedirá con quince días naturales de anticipación a la celebración de la consulta, misma que se efectuará el segundo domingo del mes de junio del primer año de Gobierno Municipal.
+La designación de Delegados podrá hacerse mediante consulta ciudadana o elección por parte del Cabildo en los términos establecidos en el artículo 51 fracción I Inciso f) de esta ley, de acuerdo a las bases que establezca la convocatoria que para tal efecto expida el Ayuntamiento. Dicha convocatoria se expedirá con quince días naturales de anticipación a la celebración de la elección o designación, misma que se efectuará el segundo domingo del mes de junio del primer año de Gobierno Municipal.
 
-El Ayuntamiento calificará los resultados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos a mas tardar siete días después de la celebración de la consulta ciudadana.
+El Ayuntamiento calificará los resultados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, debiendo tomar posesión de su cargo los Delegados electos o designación a más tardar siete días después de la celebración de dicho proceso.
 
 ###### Artículo 85.
 
@@ -2338,3 +2342,11 @@ B.O. 3 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Por única ocasión los Delegados municipales electos en el mes de junio del año 2011, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
+
+TERCERO.- Por única ocasión los Subdelegados municipales designados en términos del artículo 85 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur, duraran en su encargo el mismo lapso de tiempo que duraran en su encargo los Ayuntamientos electos el día 06 de febrero de 2011, salvo los casos previstos por la ley en que estos servidores públicos sean removidos de sus cargos.
