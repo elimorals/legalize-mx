@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-rural-y-7953
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2011-01-31"
+last_updated: "2011-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,7 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL, DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL Y
-
-AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
 
@@ -63,15 +59,15 @@ VI. Secretaría: la Secretaría de Desarrollo Rural y Agroempresarial; y
 
 VII. Secretario: el Secretario de Desarrollo Rural y Agroempresarial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 4°.
 
 Al frente de la Secretaría habrá un Secretario, que para el despacho de los asuntos encomendados a la Secretaría, se auxiliará de las siguientes unidades administrativas:
 
 I. Dirección General de Desarrollo Rural;
 
-II. Dirección General de Fomento Empresarial;
+> <small>(F. DE E., P.O. 21 DE MARZO DE 2011)</small>
+
+II. Dirección General de Fomento Agroempresarial;
 
 III. Dirección General de Planeación y Proyectos Estratégicos;
 
@@ -143,8 +139,6 @@ Los Directores Generales tendrán las atribuciones comunes conferidas en el art�
 
 En el ejercicio de las facultades conferidas en el artículo 28 de la Ley y en este Reglamento a las unidades administrativas que integran la Secretaría, se observarán los principios estratégicos establecidos en el artículo 12 de la Ley, así como las prescripciones previstas en las leyes y demás ordenamientos que resulten aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 12.
 
 Al Director General de Desarrollo Rural le corresponden las siguientes facultades específicas:
@@ -183,7 +177,9 @@ XVI. Diseñar los programas y proyectos enfocados al desarrollo pecuario, sanida
 
 XVII. Participar, conjuntamente con la Secretaría de Medio Ambiente, en la elaboración, promoción y ejecución de programas de desarrollo forestal, cambios de uso de suelo forestal, reforestación, aprovechamiento cinegético, protección, conservación y aprovechamiento sustentable de la flora y la fauna silvestre;
 
-XVIII. Identificar, promover y coordinar el establecimiento y manejo de áreas de reproducción y desarrollo de especies silvestres, y recomendar la utilización de especies nativas para forestación y reforestación; (Atribución probable de la Secretaría de Medio Ambiente);
+> <small>(F. DE E., P.O. 21 DE MARZO DE 2011)</small>
+
+XVIII. Identificar, promover y coordinar el establecimiento y manejo de áreas de reproducción y desarrollo de especies silvestres, y recomendar la utilización de especies nativas para forestación y reforestación;
 
 XIX. Promover la participación de las instancias dedicadas a la investigación científica y tecnológica para el desarrollo de proyectos en materia agrícola, forestal y ganadera;
 
