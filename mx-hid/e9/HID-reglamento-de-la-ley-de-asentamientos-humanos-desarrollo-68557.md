@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-asentamientos-humanos-desarrollo-68557"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-18"
-last_updated: "2010-05-31"
+last_updated: "2011-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de mayo de 2009.
 
@@ -55,15 +55,15 @@ III.- Autoridad Municipal Competente: La autoridad que conforme a las disposicio
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
-IV.-· C. O. S.: Coeficiente de Ocupación del Suelo, es la relación de la superficie ocupada (construcción en planta) con el total de la superficie del terreno;
+IV.- C. O. S.: Coeficiente de Ocupación del Suelo, es la relación de la superficie ocupada (construcción en planta) con el total de la superficie del terreno;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
 V.- C. U. S.: Coeficiente de Utilización del Suelo, es la relación entre la superficie total de construcción (planta y alzado) de un terreno y la superficie total del mismo;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-VI.- Comité de Admisión: El Comité de Admisión de Especialistas Responsables de la Acción Urbana;
+VI.- Comité de Admisión: El Comité de Admisión de Directores Responsables y Corresponsables;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
@@ -1641,7 +1641,9 @@ IV.- Conjuntos urbanos habitacionales: el diecisiete por ciento del área total 
 
 V.- Conjuntos urbanos no habitacionales: el siete por ciento del área total del predio a desarrollar descontando las vías públicas y privadas, así como las afectaciones;
 
-VI.- Conjuntos funerarios o cementerios: el quince por ciento del área total del predio a. desarrollar, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+VI.- Conjuntos funerarios o cementerios: el quince por ciento del área total del predio a desarrollar, sin descontar tanto vías públicas y privadas como afectaciones;
 
 VII.- Subdivisiones, edificaciones o condominios en predios que no forman parte de fraccionamiento autorizado: se aplicará la correspondiente al tipo de fraccionamiento o conjunto mencionado en las fracciones anteriores.
 
@@ -1857,11 +1859,11 @@ II.- Turístico, y
 
 III.- Agropecuarios (Granjas Familiares).
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 116.
 
-En los fraccionamientos habitacionales de urbanización inmediata podrán existir lotes con usos del suelo distintos al habitacional pero compatibles con éste, evitándose los contaminantes, molestos o peligrosos para la población independientemente de su uso; todo lo anterior, siempre que el programa de desarrollo urbano no prohíba tales usos, de acuerdo con la tabla de compatibilidad, la cual se incluirá en las Normas Técnicas Complementarias para la zonificación del territorio del Estado de Hidalgo, así como en los respectivos Programas que integran el Sistema.
+En los fraccionamientos habitacionales de urbanización inmediata podrán existir lotes con usos del suelo distintos al habitacional pero compatibles con éste, evitándose los contaminantes, molestos o peligrosos para la población independientemente de su uso, todo lo anterior, siempre que el programa de desarrollo urbano no prohíba tales usos, de acuerdo con la tabla de compatibilidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
@@ -1871,7 +1873,9 @@ Los fraccionadores además de lo dispuesto en el Artículo 156 de la Ley y si fu
 
 I.- La red de distribución de agua potable y sus tomas domiciliarias e hidrantes, conectada a la red municipal o la construcción de un sistema autónomo con capacidad suficiente para el suministro total del líquido, que cuente con la aprobación de la autoridad competente;
 
-II.- La red de drenaje sanitario, descargas domiciliarias, subcolectores y colectores, conectados a la red municipal o sistema autónomo, que cuente con la aprobación de la autoridad competente y que incluya el sistema de tratamiento (planta de tratamiento), reuso y disposición final de las aguas servidas;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+II.- La red de drenaje sanitario, descargas domiciliarias, subcolectores y colectores, conectados a la red Municipal o sistema autónomo, que cuente con la aprobación de la autoridad competente y que incluya el sistema de tratamiento (planta de tratamiento), reuso y disposición final de las aguas servidas;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
 
@@ -1917,9 +1921,9 @@ Los fraccionamientos habitacionales de urbanización progresiva serán promovido
 
 Los organismos promotores oficiales podrán asociarse con otras entidades públicas federales o locales, o bien, particulares, para la adquisición de terrenos para estos fines y el desarrollo del fraccionamiento. El desarrollo de un fraccionamiento habitacional progresivo deberá preverse en su totalidad, incluidas las obras de infraestructura y urbanización necesarios, en un término que no deberá exceder de diez años.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-Sólo podrán ubicarse en las zonas urbanas o de reserva para el crecimiento urbano de los centros de población cuyos programas de desarrollo urbano las consideren permitidas o condicionadas y que cuenten o se prevea puedan contar con servicios de transporte público. Por lo demás se sujetarán a las normas técnicas para fraccionamientos habitacionales de urbanización progresiva, y a los criterios mínimos de diseño contenidos en el presente Reglamento.
+Sólo podrán ubicarse en las zonas urbanas o de reserva para el crecimiento urbano de los centros de población cuyos programas de desarrollo urbano las consideren permitidas o condicionadas y que cuenten o se prevea puedan contar con servicios de transporte público. Por lo demás, se sujetarán a los criterios mínimos de diseño contenidos en el presente Reglamento.
 
 Estos fraccionamientos podrán ser ocupados una vez que cuenten cuando menos con trazo y nivelación de vialidades, alineamiento de predios, agua potable domiciliaria o colectiva, drenaje y alumbrado público.
 
@@ -1997,11 +2001,13 @@ a).- En predios con pendientes de 0% hasta el 35% se permitirán hasta 5 viviend
 
 b).- En predios con pendientes mayores al 35% y hasta el 45% solo se permitirá una vivienda por hectárea bruta;
 
-c).- En predios con pendientes mayores al 45%, se prohíbe fraccionar, únicamente se aprobarán subdivisiones de las superficies que autorice el Municipio conforme a la Ley y este Reglamento, solamente podrá construirse una casa de montaña en cada parcela resultante; los accesos serán senderos de terracería de 6 metros de ancho como máximo;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2010)</small>
+c).- En predios con pendientes mayores al 45% se prohíbe fraccionar, únicamente se aprobarán subdivisiones de las superficies que autorice el Municipio conforme a la Ley y este Reglamento, se podrá construir una casa de montaña por cada parcela resultante, los accesos serán senderos de terracería de 8 metros de ancho como máximo;
 
-d).- Las vialidades internas tendrán las características que indica y señalan las normas complementarias.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+d).- Las vialidades internas tendrán como mínimo 8 metros de ancho.
 
 e).- (DEROGADO, P.O. 31 DE MAYO DE 2010)
 
@@ -2577,13 +2583,23 @@ j).- Calendario de obras de urbanización.
 
 X.- Efectuar el pago de los derechos correspondientes;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-XI.- Comparecer ante el Notario Público que elijan, antes de que termine la vigencia de la autorización correspondiente, a fin de proceder a la protocolización; y
+XI.- Estudio de Impacto Vial y Urbano conforme a lo establecido en el Artículo 139 de la Ley en la materia.
 
-XII.- Estudio de Impacto Vial y Urbano conforme a lo establecido en el artículo 139 de la Ley.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+XII.- Copia del poder notarial y copia de identificación oficial del solicitante o representante legal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2011)</small>
+
+XIII.- Efectuar el pago de los derechos correspondientes.
 
 Los planos, cálculos y memorias descriptivas, deberán estar firmadas por el Director Responsable. El proyecto aprobado deberá llevarse a cabo en sus términos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2011)</small>
+
+Comparecer ante el Notario Público que elijan, antes de que termine la vigencia de la autorización correspondiente, a fin de proceder a la protocolización.
 
 ###### ARTÍCULO 128.
 
@@ -2625,9 +2641,11 @@ El proyecto de fraccionamiento formulado por el interesado se revisará, aprobar
 
 La autorización de proyecto de fraccionamiento se hará constar con sello y firma en el plano de aprobación y el acuerdo correspondiente.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 130.
 
-Para la protocolización de dicha autorización el interesado inscribirá en el Registro Público de la Propiedad y del Comercio el acuerdo de aprobación del proyecto de fraccionamiento y los planos correspondientes firmados y sellados en un plazo no mayor a 60 días naturales a partir de la fecha de expedición. Con este acto se tendrá por transmitido el suelo destinado para vialidad y área municipal, debiendo el fraccionador terminar las obras correspondientes. Las vialidades deberán encontrarse libres.
+Para la protocolización de dicha autorización el interesado inscribirá en el Registro Público de la Propiedad y del Comercio el acuerdo de aprobación del proyecto de fraccionamiento y los planos correspondientes firmados y sellados en un plazo no mayor de 90 días naturales a partir de la fecha de expedición. Con este acto se tendrá por transmitido el suelo destinado para vialidad y área municipal, debiendo el fraccionador terminar las obras correspondientes. Las vialidades deberán encontrarse libres.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
 
@@ -2703,11 +2721,11 @@ El municipio supervisará el proceso de ejecución de las obras de urbanización
 
 Las garantías deberán ser presentadas conforme a las etapas establecidas en la licencia de construcción de fraccionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 135.
 
-Para efectuar la municipalización de un fraccionamiento en términos de lo establecido en la Ley, el interesado para transferir los derechos y obligaciones del fraccionamiento, deberá contar previamente con la autorización de la autoridad competente.
+La municipalización de un fraccionamiento se hará conforme a lo establecido en el artículo 159 de la Ley.
 
 Para la municipalización será necesario que el interesado acredite:
 
@@ -3307,15 +3325,21 @@ Los reglamentos de construcciones que expidan los municipios, establecerán los 
 
 ### CAPÍTULO IX. DE LOS ESPECIALISTAS EN MATERIA DE ACCIÓN URBANA
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 157.
 
-En términos del Artículo 179 de la Ley, la regulación de los especialistas en materia de acción urbana, tiene el objeto de asegurar a la sociedad que, la prestación de sus servicios, reúna los estándares de calidad apegados a las leyes, y reglamentos aplicables.
+En términos del Artículo 179 de la Ley en la materia, la regulación de los especialistas en materia de acción urbana, que se denominarán Directores Responsables y Corresponsables, tiene el objeto de asegurar a la sociedad, que la prestación de sus servicios reúna los estándares de calidad apegados a las Leyes y Reglamentos aplicables;
 
-Toda obra requerirá de un Proyecto Ejecutivo avalado por un Director Responsable en Planeación y Proyecto; de una Licencia de Construcción avalada por un Director Responsable de obra y; en su caso, de los corresponsables; salvo los casos de excepción señalados en este reglamento.
+Toda obra urbana arquitectónica debe cumplir con las normas y reglamentos correspondientes. Además, requerirá de un proyecto ejecutivo, mismo que será avalado por un profesionista autorizado y registrado como Director Responsable o Corresponsable, según las categorías integradas en dicha obra. El ejercicio profesional se respaldará a través del Título Profesional y Cédula Profesional registradas en la Dirección General de Profesiones del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 158.
 
-Los especialistas en materia de acción urbana, se regirán en los términos del presente Reglamento, para cuyos efectos, se conformarán categorías.
+Los Directores Responsables y Corresponsables, se regirán en los términos del presente Reglamento, para cuyos efectos, se conformarán categorías.
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO SIN NÚMERO, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
 
 ###### ARTÍCULO 159.
 
@@ -3323,35 +3347,73 @@ Las categorías a que se refiere el Artículo anterior son:
 
 I.- Director Responsable en Planeación y Proyecto;
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
 a).- En Planeación Urbana;
+
+Tipo 1
+
+Tipo 2
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 b).- En Diseño Urbano;
 
+Tipo 1
+
+Tipo 2
+
 c).- En Diseño Arquitectónico, y
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 d).- En Diseño de Infraestructura y Comunicaciones.
 
+Tipo 1
+
+Tipo 2
+
 II.- Director Responsable de Obra;
 
-a).- De Edificaciones Tipo 1;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- De Edificaciones Tipo 2, y
+a).- En Edificaciones
 
-c).- De Infraestructura y Comunicaciones, y
+Tipo 0
+
+Tipo 1
+
+Tipo 2
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+b).- En construcción de infraestructura y comunicaciones.
+
+Tipo 1
+
+Tipo 2
 
 III.- Corresponsable;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE MARZO DE 2011)</small>
+
 a).- En Seguridad Estructural, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE MARZO DE 2011)</small>
 
 b).- En Instalaciones.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 160.
 
-Para la regulación del Especialista en Materia de acción urbana se llevará un registro inicial, refrendable cada año.
+Para el control de Directores Responsables y Corresponsables, se llevará un registro inicial, renovable cada dos años previa comprobación de que dichos profesionistas se actualicen anualmente dentro de los programas de capacitación de los Colegios de Profesionistas que el Comité avale.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 161.
 
-Para obtener el registro, o renovación el aspirante, deberá presentar anualmente una solicitud dirigida al titular de la Secretaría, señalando las categorías en lasque pretenda obtenerlo acreditar que es miembro activo del Colegio de Profesionistas respectivo y cumplir en cuatro áreas los siguientes requisitos:
+Para obtener el registro o renovación, el aspirante deberá presentar una solicitud dirigida al titular de la Secretaría del Medio ambiente y Ordenamiento Territorial, señalando dirección, domicilio y dirección electrónica, indicando la categoría o categorías que pretenda obtener, para cuyos efectos deberá cumplir con los siguientes requisitos:
 
 I.- Área de Conocimientos;
 
@@ -3365,85 +3427,171 @@ a).- Curriculum Vitae y otros documentos que a juicio del Comité, demuestren la
 
 III.- Área de Actualización;
 
-a).- Constancia de haber cursado el seminario de inicio para los aspirantes de nuevo ingreso, y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- Constancia de haber acreditado los cursos y conferencias que instrumenten los Colegios de Profesionistas, para el refrendo anual del registro; y
+a).- Constancia de haber acreditado el programa anual de actualización profesional, instrumentado por los Colegios de Profesionistas y avalado por el Comité; dirigidos a la actualización en las categorías de los Directores Responsables y Corresponsables.
 
-IV.- Área de Servicio Social Profesional;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-a).- Constancia anual de haber cumplido con el servicio social profesional, en las modalidades que instrumente el Comité.
+b).- Constancia de Diplomado, Especialidad, Maestría o Doctorado con REVOE relacionados con las categorías a obtener, la cual servirá para validar su actuación profesional durante un período similar a la duración de los estudios efectuados, contando a partir de la fecha de expedición de la constancia.
+
+IV.- (DEROGADA, P.O. 21 DE MARZO DE 2011)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 162.
 
-El registro lo podrá obtener el Especialista en la Materia, en las categorías establecidas, de acuerdo a su experiencia y profesión, con forme (sic) a lo siguiente:
+El registro o la renovación lo podrá obtener el Director Responsable o Corresponsable, en las categorías establecidas, de acuerdo a su formación profesional y experiencia, conforme a lo siguiente:
 
 I.- Director Responsable en Planeación y Proyecto;
 
-a).- En Planeación Urbana. Acreditar tres años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Licenciado en Planeación Territorial, Diseñador de Asentamientos Humanos o Urbanista o los profesionistas que acrediten la especialidad con los documentos correspondientes en la materia;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- En Diseño Urbano. Acreditar tres años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, o Urbanista;
+a).- En Planeación Urbana.
 
-c).- En Diseño Arquitectónico, Acreditar tres años de experiencia en alguna de las siguientes profesiones: Arquitecto o Ingeniero Arquitecto, y
+Tipo 1: Acreditar dos años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Licenciado en Planeación Territorial, Diseñador de Asentamientos Humanos, Urbanista o los profesionistas que acrediten la especialización con los documentos correspondientes en la materia.
 
-d).- En Diseño de Infraestructura y Comunicaciones, Acreditar tres años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Mecánico Electricista, Ingeniero Mecánico o Ingeniero Electricista., según corresponda.
+Tipo 2: Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Licenciado en Planeación Territorial, Diseñador de Asentamientos Humanos, Urbanista o los profesionistas que acrediten la especialización con los documentos correspondientes en la materia.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+b).- En Diseño Urbano.
+
+Tipo 1: Acreditar dos años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Urbanista o los profesionistas que acrediten la especialización con los documentos correspondientes en la materia.
+
+Tipo 2: Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Urbanista o los profesionistas que acrediten la especialización con los documentos correspondientes en la materia.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+c).- En Diseño arquitectónico. Poseer título en alguna de las siguientes profesiones: Arquitectura o Ingeniero Arquitecto.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+d).- En Diseño de Infraestructura y Comunicaciones.
+
+Tipo 1: Acreditar dos años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Mecánico, Ingeniero Eléctrico, según corresponda.
+
+Tipo 2: Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Mecánico, Ingeniero Eléctrico, según corresponda.
 
 II.- Director Responsable de Obra;
 
-a).- De Edificaciones Tipo 1. Acreditar tres años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- De Edificaciones Tipo 2. Acreditar siete años de experiencia como constructor o Director Responsable Tipo 1 en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil o Ingeniero Constructor Militar, y
+a).- En Edificaciones :
 
-c).- De Infraestructura y Comunicaciones. Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil o Ingeniero Constructor Militar; y
+Tipo 0. Acreditar formación académica en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar;
+
+Tipo 1. Acreditar dos años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar;
+
+Tipo 2. Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Constructor Militar;
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+b).- En Infraestructura y Comunicaciones.
+
+Tipo 1: Acreditar dos años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil o Ingeniero Constructor Militar.
+
+Tipo 2: Acreditar cinco años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil o Ingeniero Constructor Militar.
 
 III.- Corresponsables;
 
-a).- En Seguridad Estructural. Acreditar cinco años de experiencia en su especialidad en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Arquitecto o Ingeniero Constructor Militar, y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- En Instalaciones. Acreditar cinco años de experiencia en su especialidad en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Mecánico Electricista, Ingeniero Mecánico o Ingeniero Electricista.
+a).- En Seguridad Estructural. Poseer el grado de Maestría en estructuras o demostrar cinco años de experiencia en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Arquitecto o Ingeniero Constructor Militar.
 
-El registro lo podrá obtener los Arquitectos, Ingenieros Arquitectos o Ingenieros Civiles, podrán obtener registro de una categoría distinta a su profesión, siempre y cuando lo acrediten con estudios de posgrado afines y experiencia comprobable a dicha categoría.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-Asimismo, quienes inicien su ejercicio profesional, podrán hacerlo y adquirir la experiencia requerida y comprobarla, con el aval de un Especialista Responsable de Acciones Urbanas, en la materia que pretenda su registro de inicio.
+b).- En instalaciones. Acreditar cinco años de experiencia en su especialidad en alguna de las siguientes profesiones: Ingeniero Civil, Ingeniero Mecánico, Ingeniero Electricista.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+El registro lo podrá (sic) obtener los Arquitectos, Ingenieros Arquitectos o Ingenieros Civiles, pudiendo obtener registro de una categoría distinta a su profesión, siempre y cuando lo acrediten con estudios de posgrado afines y experiencia comprobable a dicha categoría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
-Los Especialistas en Materia de Acción Urbana, cuando se responsabilicen en el ámbito de su categoría de una acción urbana de las señaladas en la Ley tendrán las siguientes funciones:
+Los Directores Responsables o Corresponsables, cuando se responsabilicen en el ámbito de su categoría de una acción urbana de las señaladas en la Ley tendrán las siguientes funciones:
 
 I.- Director Responsable en Planeación y Proyecto;
 
-a).- En Planeación Urbana: Tendrán bajo su encargo y responsabilidad, la elaboración de planes y programas de desarrollo urbano, la formulación de las manifestaciones de impacto urbano, la emisión de dictámenes de régimen de propiedad en condominio, así como la supervisión y seguimiento en la ejecución de los dictámenes favorables en la materia;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- En Diseño Urbano: Tendrán bajo su encargo y responsabilidad, el diseño de fraccionamientos y cualquier tipo de espacio urbano;
+a).- Planeación Urbana:
 
-c).- En Diseño Arquitectónico: Tendrán bajo su encargo y responsabilidad, el diseño de cualquier edificación o espacios abiertos habitables, y
+Tipo 1: Tendrá bajo su encargo y responsabilidad, la elaboración de programas parciales de desarrollo urbano, la formulación de las manifestaciones de Impacto Urbano, así como, la supervisión y seguimiento en la ejecución de los dictámenes favorables en la materia.
 
-d).- En Diseño de Infraestructura y Comunicaciones: Tendrán bajo su encargo y responsabilidad, el diseño de obras hidráulicas, redes de energía eléctrica, redes de telecomunicaciones, así como el diseño de puentes, carreteras y caminos.
+Tipo 2: Tendrá bajo su encargo y responsabilidad, la elaboración de planes y programas de desarrollo urbano, la formulación de las manifestaciones de impacto urbano, la emisión de dictámenes de Régimen de Propiedad en Condominio, así como, la supervisión y seguimiento en la ejecución de los dictámenes favorables en la materia.
 
-Los especialistas en materia responsables de la acción urbana en, las categorías b, c y d; deberán suscribir los proyectos que bajo su responsabilidad fueron realizados; tomar a su cargo la coordinación del trabajo interdisciplinario para la realización de un proyecto ejecutivo, vigilando que cumpla con las normas y reglamentos correspondientes; aclarar en planos o en memorias técnicas y en la bitácora de obra, las dudas de proyecto que tenga el Director Responsable Obra, acotar en los planos de proyecto ejecutivo, las áreas de donación que señale la normatividad aplicable y; las demás que establezcan las disposiciones legales y administrativas aplicables en la materia;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+b).- En Diseño Urbano:
+
+Tipo 1: Tendrá bajo su encargo y responsabilidad, el diseño de subdivisiones y fraccionamientos de hasta 50 lotes y de los espacios urbanos abiertos.
+
+Tipo 2: Tendrá bajo su encargo y responsabilidad, el diseño de los fraccionamientos, de los espacios Urbanos abiertos, de los centros y subcentros Urbanos y de las redes de Comunicación de incidencia a nivel Urbano.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+c).- En Diseño Arquitectónico: Tendrán bajo su encargo y responsabilidad, el Diseño de cualquier edificación, y
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+d).- En Diseño de Infraestructura y Comunicaciones:
+
+Tipo 1: Tendrán bajo su encargo y responsabilidad, el Diseño de redes hidráulicas, redes de energía eléctrica, redes de telecomunicaciones, así como, el Diseño de caminos.
+
+Tipo 2: Tendrán bajo su encargo y responsabilidad, el Diseño de redes hidráulicas, de generación de energía eléctrica, obras de telecomunicaciones, así como, el Diseño de puentes y carreteras.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Los Directores Responsables en Planeación y Proyecto, deberán suscribir los proyectos que bajo su responsabilidad fueron realizados; tomar a su cargo la coordinación del trabajo interdisciplinario para la realización de un proyecto ejecutivo, vigilando que cumpla con las normas y reglamentos correspondientes; aclarar en planos o en memorias técnicas y en la bitácora de obra, las dudas de proyecto que presente el Director Responsable (sic) Obra, acotar en los planos de proyecto ejecutivo, las áreas de donación que señale la normatividad aplicable y; las demás que establezcan las disposiciones legales y administrativas aplicables en la materia;
 
 II.- Director Responsable de Obra; y
 
-a).- De Edificaciones Tipo 1: Tendrán bajo su encargo y responsabilidad, la dirección en la construcción de edificaciones comunes destinadas a viviendas, oficinas y locales comerciales, hoteles y construcciones comerciales e industriales no reservadas al Tipo 2;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- De Edificaciones Tipo 2: Tendrán bajo su encargo y responsabilidad, la dirección en la construcción de cualquier edificación, y le están reservadas aquellas cuyo funcionamiento es esencial a raíz de una emergencia urbana, como: hospitales, escuelas, terminales de transporte, estaciones de bomberos, centrales eléctricas y de telecomunicaciones, estadios, depósitos de sustancias inflamables o tóxicas, museos y edificios que alojen archivos y registros públicos de particular importancia, edificaciones de más de 15 m. de altura o con más de 3,000 m2 de área total construida, y otras edificaciones a juicio del Comité, y
+a).- Tipo 0: Tendrán bajo su encargo y responsabilidad, la dirección, control y supervisión de la construcción destinada a vivienda, con superficie total igual a la superficie del predio destinado para ese fin;
 
-c).- De Infraestructura y Comunicaciones: Tendrán bajo su encargo y responsabilidad, la dirección en la construcción de obras hidráulicas, redes de energía eléctrica, redes de telecomunicaciones, así como en la construcción de puentes, carreteras y caminos.
+En el caso de oficinas y locales comerciales, la superficie máxima será igual al lote promedio de uso habitacional en la Zona;
 
-Los especialistas en materia de acción urbana, en dichas categorías deberán presentar ante la autoridad que corresponda, la solicitud de licencias, permisos o autorizaciones contempladas por las disposiciones reglamentarias entre otras aplicables en la materia; vigilar que la ejecución de la obra, cumplan con lo establecido en los ordenamientos aplicables; comunicar a la autoridad que corresponda de cualquier violación a las disposiciones jurídicas, técnicas o administrativas aplicables; planear y supervisar el cumplimiento de las medidas de seguridad en la obra relativas al personal, terceras personas, sus colindancias y la vía pública; llevar en la obra un libro de bitácora foliado, el cual se entregará, al finalizar la obra, una copia al propietario o poseedor y otra a la autoridad municipal correspondiente; y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+b).- Tipo 1: Tendrán bajo su encargo y responsabilidad, la dirección, control y supervisión de la construcción destinada a viviendas, oficinas, locales comerciales, hoteles y conjuntos comerciales e industriales no reservados para el Tipo 2; de hasta 3,000 m2 totales de construcción y 20 m de altura sobre el nivel medio de banqueta;
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+c).- Tipo 2: Tendrán bajo su encargo y responsabilidad, la dirección en la construcción de cualquier edificación, y le están reservadas aquellas cuyo funcionamiento es esencial a raíz de una emergencia urbana, como: hospitales, escuelas, terminales de transporte, estaciones de bomberos, centrales eléctricas y de comunicaciones, estadios, depósitos de sustancias tóxicas o inflamables, museos y edificios que alojen archivos y registros públicos de particular importancia y otras edificaciones a juicio del Comité, y
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+d).- De Infraestructura y Comunicaciones: Tendrán bajo su encargo y responsabilidad, la dirección, control y supervisión de la construcción de obras hidráulicas, redes de energía eléctrica, redes de comunicaciones, así como, en la construcción de puentes, carreteras y caminos, y en aquellas que determine el Comité.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Los Directores Responsables de Obra deberán presentar, ante la autoridad que corresponda, la solicitud de licencias, permisos o autorizaciones contempladas por las disposiciones aplicables en la materia; vigilar que la ejecución de la obra, cumplan con lo establecido en los ordenamientos aplicables; comunicar a la autoridad que corresponda de cualquier violación a las disposiciones jurídicas, técnicas o administrativas aplicables; planear y supervisar el cumplimiento de las medidas de seguridad en la obra relativas al personal, terceras personas, sus colindancias y la vía pública; llevar en la obra un libro de bitácora foliado, el cual se entregará, al finalizar la obra, una copia al propietario o poseedor y otra a la autoridad Municipal correspondiente; y
 
 III.- Corresponsable;
 
-a).- En Estructuras: Se requerirá la responsiva de un corresponsable en Seguridad Estructural, aquellas obras reservadas para la categoría II Tipo B;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-b).- En Instalaciones: Se requerirá la responsiva de un corresponsable en Instalaciones, las siguientes obras: Habitación plurifamiliar de más de 50 viviendas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, centrales telegráficas, telefónicas y de comunicación, estaciones de radio y televisión, estaciones repetidoras de comunicación celular e inalámbrica, estudios cinematográficos, industria pesada y mediana; plantas, estaciones y subestaciones eléctricas; estaciones de bombeo, albercas con iluminación subacuática, circos, ferias de cualquier magnitud, estaciones de servicio para el expendio de combustible y carburantes, y
+a).- En Estructuras: Requerirán la responsiva de un corresponsable en Seguridad Estructural, aquellas obras reservadas para la categoría edificación Tipo 2;
 
-c).- Transferencia de basura. También lo requerirán las edificaciones que tengan más de 2,000 m2 cubiertos, o más de 15 m. de altura sobre nivel medio de banqueta o más de 250 concurrentes y; toda edificación que cuente con elevadores de pasajeros, de carga, industriales, residenciales, escaleras o rampas electromecánicas.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-Además, éstas categorías deberán suscribir los proyectos que bajo su responsabilidad fueron realizados; suscribir conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción; anotar en la bitácora de obra, las aclaraciones y ajustes, del trabajo profesional bajo su responsabilidad; suscribir la memoria de diseño y los planos del proyecto estructural o de instalaciones y; suscribir el dictamen técnico de seguridad estructural de una edificación.
+b).- En Instalaciones: Requerirán la responsiva de un corresponsable en Instalaciones, las siguientes obras: Desarrollos Habitacionales plurifamiliares de más de 50 viviendas, baños públicos, lavanderías, tintorerías, lavado y lubricación de vehículos, hospitales, clínicas y centros de salud, instalaciones para exhibiciones, crematorios, aeropuertos, centrales telegráficas, telefónicas y de comunicación, estaciones de radio y televisión, estaciones repetidoras de comunicación celular e inalámbrica, estudios cinematográficos, industria pesada y mediana; plantas, estaciones y subestaciones eléctricas; estaciones de bombeo, albercas con iluminación subacuática, circos, ferias de cualquier magnitud, estaciones de servicio para el expendio de combustible y carburantes; y toda edificación que cuente con elevadores de pasajeros, de carga e industriales, residenciales o escaleras y rampas electromecánicas; las estaciones de transferencia y manejo de residuos sólidos y las citadas en la categoría de Edificaciones Tipo 2; y
+
+c).- (DEROGADO, P.O. 21 DE MARZO DE 2011)
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Además, para estas categorías deberá suscribir los proyectos que bajo su responsabilidad fueron realizados; suscribiendo conjuntamente con el Director Responsable de Obra, la solicitud de licencia de construcción; anotar en la bitácora de obra, las aclaraciones y ajustes, del trabajo profesional bajo su responsabilidad; suscribir la memoria de diseño y los planos del proyecto estructural o de instalaciones y; suscribir el dictamen técnico de seguridad estructural de una edificación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
-Las funciones de los Especialistas en la Materia se terminarán:
+Las Responsabilidades de los Directores responsables o Corresponsables se terminarán:
 
 I.- En el caso del Director Responsable en Planeación y Proyecto, cuando la ejecución de la obra no corresponda al proyecto ejecutivo que suscribió o cuyas modificaciones no haya avalado por medio de memorias técnicas y en bitácora de obra;
 
@@ -3453,9 +3601,11 @@ III.- Doce meses después de que se de el aviso de terminación de obra y se exp
 
 La obra no podrá reanudarse cuando la Secretaría o el municipio en su caso, ordene la suspensión de la obra y el Director Responsable de Obra no sea sustituido en forma inmediata.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 165.
 
-La Secretaría aplicará sanciones a los Especialistas en Materia de acción urbana, que determine, en los siguientes casos:
+La Secretaría del Medio ambiente y Ordenamiento Territorial, aplicará sanciones a los Directores Responsables de Obra o Corresponsables, que determine, en los siguientes casos:
 
 I.- Suspensión temporal;
 
@@ -3463,11 +3613,17 @@ a).- Incumplir con sus obligaciones en los casos en que haya dado su responsiva;
 
 b).- Incurrir en violaciones a las leyes, acuerdos y demás disposiciones aplicables en la materia;
 
-c).- Abandonar la obra o proyecto en el que esté participando como Especialista en la Materia y haya emitido su responsiva correspondiente, y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-d).- Actuar como Especialista en materia distinta para la que le fue otorgado el registro.
+c).- Abandonar la obra o proyecto en el que esté participando como Director Responsable o Corresponsable, y que haya emitido su responsiva correspondiente, y
 
-La Secretaría en el dictamen que emita declarando la suspensión temporal, por incurrir en alguna de las fracciones anteriores determinará el tiempo de la sanción; y
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+d).- Actuar como Director Responsable o Corresponsable, en categoría distinta para la que le fue otorgado el registro.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+La Secretaría del Medio Ambiente y Ordenamiento Territorial, en el dictamen que emita declarando la suspensión temporal, por incurrir en alguna de las fracciones anteriores determinará el tiempo de la sanción; y
 
 II.- Suspensión definitiva, con independencia de la reparación del daño, así como de la responsabilidad derivada de procesos de índole civil o penal, en los siguientes casos:
 
@@ -3479,39 +3635,49 @@ c).- Ser condenado por la autoridad competente con motivo de su ejercicio profes
 
 d).- Poner en riesgo la vida de los trabajadores, moradores o de terceros por negligencia en la ejecución de una obra.
 
-El registro no lo otorgará nuevamente la Secretaría al infractor en los casos de suspensión definitiva.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
-Los especialistas en materia de acción urbana, que hayan sido sancionados, serán boletinados a las autoridades municipales competentes para que éstas procedan conforme al presente Reglamento. Adicionalmente se notificará a la Dirección General de Profesiones de la Secretaría de Educación Pública de Gobierno del Estado y al Colegio de Profesionistas al que pertenezca el infractor, para los efectos conducentes.
+El registro no lo otorgará nuevamente la Secretaría del Medio Ambiente y Ordenamiento Territorial, al infractor en los casos de suspensión definitiva.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Los Directores Responsables o Corresponsables, que hayan sido sancionados, serán boletinados a las autoridades municipales competentes para que éstas procedan conforme al presente Reglamento. Adicionalmente se notificará a la Dirección General de Profesiones de la Secretaría de Educación Pública de Gobierno del Estado y al Colegio de Profesionistas al que pertenezca el infractor, para los efectos conducentes.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 166.
 
-Corresponde a la Secretaría: Implementar los mecanismos idóneos para la debida autorización, operación, administración y control del registro de los Especialistas en la Materia, para lo cual deberá:
+Corresponde a la Secretaría del Medio Ambiente y Ordenamiento Territorial, implementar los mecanismos idóneos para la debida autorización, operación, administración y control del registro de los Directores Responsables y Corresponsables, para lo cual deberá:
 
-I.- Tener a su cargo los libros de registro de cada una de las categorías y tipos de Especialistas en la Materia;
+I.- Tener a su cargo los libros de registro de cada una de las categorías y tipos de Directores Responsables y Corresponsables;
 
-II.- Supervisar a través de sus inspectores, las obras en las que participen los Especialistas en la Materia;
+II.- Supervisar a través de sus inspectores, las obras en las que participen los Directores Responsables y Corresponsables;
 
-III.- Suspender el registro a los especialistas en la materia de acción urbana, cuando incurran en el incumplimiento que le imponen las leyes y reglamentos en la materia;
+III.- Suspender el registro a los Directores Responsables y Corresponsables, cuando incurran en el incumplimiento que le imponen las Leyes y Reglamentos en la materia;
 
-IV.- Expedir las credenciales a los especialistas en materia de acción urbana;
+IV.- Expedir las credenciales a los Directores Responsables y Corresponsables;
 
-V.- Expedir las convocatorias en los meses de enero y julio para que los aspirantes a obtener el registro de especialista en la materia de acción urbana, se inscriban en los seminarios correspondientes, y (sic)
+V.- Expedir las convocatorias en los meses de enero y julio para que los aspirantes a obtener el registro o el refrendo de Directores Responsables y Corresponsables; se inscriban en los seminarios correspondientes;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+VI.- Presentar semestralmente al Comité, los programas propuestos por cada uno de los Colegios de Profesionistas de los cursos de formación y actualización a impartir para obtener el registro inicial y el refrendo como Directores Responsables y Corresponsables; Así como supervisar en todo momento el desarrollo de los mismos;
 
-VI.- Proponer al Comité los cursos ha (sic) impartir para obtener el registro inicial y el refrendo como Especialista en Materia de Acción Urbana, en forma semestral durante los meses de enero y julio. Así como supervisaren todo momento el desarrollo de los mismos;
+VII.- Tener bajo resguardo los expedientes de cada uno de los solicitantes del registro de Directores Responsables y Corresponsables; y
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2010)</small>
+VIII.- Proponer los convenios de colaboración con los Municipios a través de las autoridades encargadas de la operatividad de los Directores Responsables y Corresponsables para el cumplimiento del presente Reglamento.
 
-VII.- Tener bajo su resguardo los expedientes de cada uno de los solicitantes del registro de Especialistas en la Materia, y los expedientes de los Directores Responsables de Obra que funjan como avales de aquellos que inicien su ejercicio profesional.
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 2011)</small>
 
-### CAPÍTULO X. DEL COMITÉ DE ADMISIÓN DE ESPECIALISTAS EN MATERIA DE ACCIÓN URBANA
+### CAPÍTULO X. DEL COMITÉ DE ADMISIÓN DE DIRECTORES RESPONSABLES Y CORRESPONSABLES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 167.
 
-Para dar cumplimiento a lo dispuesto en este Reglamento se creará un Comité de Admisión de Especialistas en la Materia de Acción Urbana, Integrado de la siguiente manera:
+Para dar cumplimiento a lo dispuesto en este Reglamento se creará un Comité de Admisión de Directores Responsables y Corresponsables, integrado de la siguiente manera:
 
-I.- El Titular de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos del Gobierno del Estado de Hidalgo, en calidad de Presidente;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+I.- El Titular de la Secretaría del Medio Ambiente y Ordenamiento Territorial, en calidad de Presidente;
 
 II.- El titular de la Subsecretaría de Asentamientos Humanos Desarrollo Urbano y Ecología, quien se desempeñará como Secretario Técnico;
 
@@ -3531,23 +3697,33 @@ Todos los miembros del Comité tendrán voz y voto, teniendo el Presidente, voto
 
 Todos los miembros del Comité deben contar con un suplente, que darán a conocer oficialmente en el seno del propio Comité.
 
-Los representantes de los Colegios y Cámara ó sus suplentes, deben tener registro vigente de Especialista de Materia de Acción Urbana.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Los representantes de los Colegios y Cámara, y al menos uno de los representantes de la Secretaría, y sus suplentes, deberán tener registro vigente de Directores Responsables o Corresponsables.
 
 ###### ARTÍCULO 168.
 
 El Comité tiene las siguientes atribuciones:
 
-I.- Constatar que los aspirantes a obtener el registro de los especialistas en materia de acción urbana, cumplan con los requisitos establecidos en este Reglamento;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-II.- Admitir con el carácter de especialistas en materia de acción urbana, a las personas físicas que hayan cumplido con los requisitos señalados en la fracción anterior;
+I.- Constatar que los aspirantes a obtener el registro de Director Responsable de Obra o de Corresponsable, cumplan con los requisitos establecidos en este Reglamento;
 
-III.- Emitir opinión sobre la actuación de los especialistas en materia de acción urbana cuando le sea solicitada por la Autoridad Administrativa en Obras Públicas de Gobierno del Estado o de un Municipio, según el caso;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-IV.- Vigilar la actuación de los especialistas en materia de acción urbana, durante el proceso de ejecución de las obras para las cuales se haya expedido su responsiva o dictámenes, con el auxilio de las unidades técnico administrativo del Gobierno y de los municipios según sea el caso;
+II.- Admitir con el carácter de Director Responsable de Obra o Corresponsable, a las personas físicas que hayan cumplido con los requisitos señalados en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-V.- Realizar invitaciones a otro tipo de profesionistas en donde el orden del día lo requiera, teniendo únicamente voz.
+III.- Emitir opinión sobre la actuación de los Directores Responsables de Obra o Corresponsables cuando le sea solicitada por la Autoridad Administrativa en Obras Públicas de Gobierno del Estado o de un Municipio, según sea el caso;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+IV.- Vigilar la actuación de los Directores Responsables de Obra o Corresponsables, durante el proceso de ejecución de las obras para las cuales se haya expedido su responsiva o dictámenes, con el auxilio de las unidades técnico administrativo (sic) del Gobierno y de los Municipios según sea el caso; y
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
+
+V.- Emitir el aval, previo análisis y aprobación, los programas semestrales que cada Colegio de Profesionistas implementen para la formación, actualización y capacitación de los aspirantes a obtener el registro o refrendo de Director Responsable o Corresponsable, a tramitar en el mes de enero, así como, supervisar en cualquier momento el desarrollo de los mismos.
 
 VI.- (DEROGADA, P.O. 31 DE MAYO DE 2010)
 
@@ -3732,6 +3908,12 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 31 DE MAYO DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Reglamento.
+
+P.O. 21 DE MARZO DE 2011.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
