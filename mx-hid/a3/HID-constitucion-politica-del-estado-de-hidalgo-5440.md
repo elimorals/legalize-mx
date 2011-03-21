@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2011-02-14"
+last_updated: "2011-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -703,6 +703,30 @@ Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará prefe
 
 El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, siga su curso.
 
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Si al inicio del año no estuviere aprobada la Ley de Ingresos del Estado y/o las leyes de ingresos de los municipios, continuarán vigentes aquellas aprobadas para el año anterior, respectivamente, en tanto, el Congreso del Estado apruebe las Leyes para el año correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+En la aprobación del Presupuesto de Egresos del Estado, el Congreso no podrá dejar de prever las asignaciones presupuestales necesarias para cubrir los siguientes gastos ineludibles, sujeto a la disponibilidad presupuestaria anual de:
+
+l.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
+
+II.- Proyectos de infraestructura productiva y deuda pública, hasta que sean pagados en su totalidad;
+
+III.- Contratos de obra pública, adquisiciones, arrendamientos y servicios, hasta que sean pagados en su totalidad;
+
+IV.- Las remuneraciones de los servidores públicos y el demás gasto corriente aprobado para el año anterior distinto al gasto corriente contemplado, según sea el caso, en las fracciones anteriores;
+
+V.- Los adeudos de ejercicios fiscales anteriores que no estén contemplados en las fracciones anteriores; y
+
+VI.- Las erogaciones determinadas en cantidad específica, porcentajes o fórmulas en las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Las obligaciones de pago que se establecen en las fracciones I, II y III anteriores que no sean cubiertas en un ejercicio fiscal, tendrán preferencia respecto de otras previsiones de gasto público para ser incluidos en los presupuestos de egresos del Estado, de los ejercicios fiscales siguientes, hasta que sean pagados en su totalidad.
+
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 43.
@@ -961,9 +985,13 @@ Las Entidades fiscalizadas, deberán presentar su Cuenta Pública ante la Audito
 
 El Congreso concluirá la revisión de las Cuentas Públicas a más tardar el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas de los Informes del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior, siga su curso;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2011)</small>
 
-XXXII. Las demás que le sean concedidas por esta Constitución.
+XXXII. Aprobar la afectación de los ingresos del Estado y, en su caso, el derecho a percibirlos, derivados de participaciones que en ingresos Federales le correspondan; contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, como fuente de pago, garantía o ambos, del cumplimiento de todo tipo de obligaciones de pago a cargo del Estado, los Municipios, las entidades Paraestatales o las Entidades Paramunicipales. Igualmente, corresponderá al Congreso del Estado, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos, previo consentimiento de los acreedores respectivos, en términos de la Legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2011)</small>
+
+XXXIII. Las demás facultades que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1321,13 +1349,17 @@ XXXV. Ejercer actos de dominio sobre el patrimonio del Estado, en los términos 
 
 > <small>(REFORMADA, P.O. 15 DE MARZO DE 2007)</small>
 
-XXXVI.- Contratar empréstitos con aprobación del Congreso del Estado para destinarlos a inversiones públicas productivas conforme a las bases o en los términos que determine dicho Congreso mediante una ley o decreto;
+XXXVI. Contratar empréstitos con aprobación del Congreso del Estado para destinarlos a inversiones públicas productivas conforme a las bases o en los términos que determine dicho Congreso mediante una ley o decreto;
 
 XXXVII. Ejercer el presupuesto de egresos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 XXXVIII. Presentar al Congreso del Estado para su aprobación, a más tardar el 15 de diciembre de cada año, la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, que deberán regir en el año inmediato. Asimismo para su autorización en dicho presupuesto, presentar las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la Ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Asimismo, para la autorización de dicho presupuesto, presentar las erogaciones plurianuales para contratos de prestación de servicios de largo plazo, proyectos de inversión en infraestructura, contratos de obra pública, adquisiciones, arrendamientos, servicios y adeudos de ejercicios fiscales anteriores, conforme a lo dispuesto en las Leyes respectivas; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 XXXIX. Presentar al Congreso, al término del período constitucional del Gobernador, una memoria sobre el estado que guardan los asuntos públicos;
 
@@ -1365,11 +1397,11 @@ LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
 
-LII. Designar al Consejero de la Judicatura; y (sic)
+LII. Designar al Consejero del Consejo de la Judicatura; y (sic)
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2007)</small>
 
-LIII.- Realizar, promover y alentar los programas de prevención, erradicación, defensa, representación jurídica, asistencia, protección, previsión, participación y atención en materia de lucha contra la discriminación en el Estado de Hidalgo;
+LIII. Realizar, promover y alentar los programas de prevención, erradicación, defensa, representación jurídica, asistencia, protección, previsión, participación y atención en materia de lucha contra la discriminación en el Estado de Hidalgo;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE JULIO DE 2006)</small>
 
@@ -1937,11 +1969,11 @@ Los servidores públicos serán responsables del cumplimiento de estas bases en 
 
 Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que se establezcan, con objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los Artículos 56 fracción XXXI y 71 fracción XXXVIII.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### Artículo 109.
 
-Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, en tanto se expida éste, continuará vigente el del año inmediato anterior.
+Si al inicio del año no estuviere aprobado el Presupuesto de Egresos del Estado, continuará vigente aquél aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos ineludibles a que se refiere el Artículo 42 de la Constitución Política del Estado de Hidalgo, en tanto se apruebe el Presupuesto de Egresos para el año correspondiente.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2103,11 +2135,13 @@ Hay falta absoluta de Ayuntamiento cuando no se hubieren efectuado las eleccione
 
 Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2011)</small>
 
 ###### Artículo 127.
 
-Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de julio del año que corresponda. Durarán en su encargo tres años y tomarán posesión el cinco de septiembre del año de la elección.
+Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de julio del año que corresponda. Durarán en su encargo cuatro años y tomarán posesión el cinco de septiembre del año de la elección.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2232,6 +2266,28 @@ Al presentar la Ley de Ingresos Municipal, los Ayuntamientos propondrán a la Le
 La Legislatura del Estado analizará y en su caso aprobará la Ley de Ingresos de los Municipios; asimismo revisará y fiscalizará sus cuentas públicas.
 
 Los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas, conforme a las bases, conceptos y montos anuales que fije la Legislatura del Estado a través de una Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+En la aprobación del Presupuesto de Egresos, los Municipios no podrán dejar de prever las asignaciones presupuestales necesarias para cubrir los siguientes gastos ineludibles, sujeto a la disponibilidad presupuestaria anual:
+
+l.- Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;
+
+II.- Proyectos de infraestructura productiva, deuda pública y adeudos de ejercicios anteriores, hasta que sean pagados en su totalidad;
+
+III.- Contratos de obra pública, adquisiciones, arrendamientos y servicios, hasta que sean pagados en su totalidad;
+
+IV.- Las remuneraciones de los servidores públicos y demás gasto corriente aprobado para el año anterior, distinto al gasto corriente a que se refieran las fracciones anteriores, según sea el caso; y
+
+V.- Las erogaciones determinadas en cantidad específica, porcentajes o fórmulas en las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Las obligaciones de pago que se establecen en las fracciones I, II y III anteriores que no sean cubiertas en un ejercicio fiscal, tendrán preferencia respecto de otras previsiones de gasto público para ser incluidos en los Decretos de Presupuestos de Egresos de los Municipios para los ejercicios fiscales siguientes, hasta que sean pagados en su totalidad, de conformidad con lo que establezcan las Leyes.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
+
+Si al inicio del año no estuviere aprobado el Presupuesto de Egresos de los Municipios, continuará vigente aquél aprobado para el ejercicio fiscal anterior, únicamente respecto de los gastos a que se refiere este Artículo, en tanto se apruebe el Decreto de Presupuesto de Egresos para el año correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -3099,7 +3155,7 @@ P.O. 15 DE MARZO DE 2007.
 
 DECRETO NUM. 347 QUE ADICIONA EL ARTICULO 4 TER DE LA CONSTITUCION.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE MARZO DE 2007.
 
@@ -3228,3 +3284,23 @@ P.O. 14 DE FEBRERO DE 2011.
 DECRETO NUMERO 578, POR EL QUE SE REFORMA LA FRACCION XXX DEL ARTICULO 71 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE MARZO DE 2011.
+
+DECRETO NUMERO 589, POR EL QUE SE REFORMA EL ARTICULO 127 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado y entrará en vigor el día diecisiete de enero de 2012.
+
+Segundo.- Las presentes reformas se aplicarán a partir del inicio del proceso electoral que se celebre en el año de 2016 para renovar Ayuntamientos.
+
+Tercero.- En tanto no se apliquen las presentes reformas, queda vigente el transitorio noveno del Decreto Número 209, de fecha primero de octubre del 2009, Publicado el 6 de octubre del mismo año en el Periódico Oficial del Estado.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2011.
+
+DECRETO NUMERO 590, POR EL QUE SE REFORMAN LOS ARTICULOS 56 FRACCION XXXII Y 109; SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO Y SEXTO DEL ARTICULO 42, LA FRACCION XXXIII DEL ARTICULO 56, UN SEGUNDO PARRAFO A LA FRACCION XXXVIII DEL ARTICULO 71, LOS PARRAFOS SEXTO, SEPTIMO Y OCTAVO DEL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
