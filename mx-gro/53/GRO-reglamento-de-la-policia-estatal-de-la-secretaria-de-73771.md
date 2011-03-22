@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-la-policia-estatal-de-la-secretaria-de-73771"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-05"
-last_updated: "2010-02-05"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO DE LA POLICIA ESTATAL DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIVIL, DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-REGLAMENTO DE LA POLICIA ESTATAL DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIVIL, DEL GOBIERNO DEL ESTADO DE GUERRERO
+REGLAMENTO DE LA POLICÍA ESTATAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL, DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2011.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 2010.
-
-REGLAMENTO DE LA POLICÍA ESTATAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL, DEL GOBIERNO DEL ESTADO DE GUERRERO.
 
 Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado Libre y Soberano de Guerrero.- Poder Ejecutivo.
 
@@ -301,7 +299,15 @@ XLIII.- Colaborar y prestar auxilio a otras instituciones policiales, en el ámb
 
 XLIV.- Desarrollar cualquier tipo de actividad o servicio que fortalezca, propicie o complemente el cumplimiento de las atribuciones y funciones que tenga encomendadas la institución, valiéndose al efecto de los avances tecnológicos y científicos conducentes.
 
-XLV.- Las demás que le confieran ésta y otras leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MARZO DE 2011)</small>
+
+XLV.- Prestar el servicio de seguridad y protección policial a los ex servidores públicos siguientes: Gobernador del Estado, Secretario de Seguridad Pública y Protección Civil, Procurador General de Justicia del Estado, Secretario General de Gobierno y a otros que se determinen, en función de la naturaleza de riesgo por las funciones desempeñadas.
+
+Para efecto de lo anterior, la Secretaría de Finanzas y Administración proveerá los mecanismos presupuestales necesarios que garanticen la prestación de este servicio, sin que ello afecte la función operativa de la Policía Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2011)</small>
+
+XLVI.- Las demás, que le confieran otras disposiciones normativas.
 
 ###### ARTÍCULO 19.
 
@@ -383,7 +389,9 @@ XII.- Vigilar que las operaciones encubiertas y de usuarios simulados para la ge
 
 XIII.- Informar al Secretario, con la periodicidad que le instruya, sobre el desempeño de sus atribuciones y de los resultados alcanzados;
 
-XIV.- Integrar el Consejo de Honor y Justicia;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XIV.- Coordinarse con el Consejo de Honor y Justicia, para efectos del otorgamiento de estímulos y reconocimientos a los elementos de la Policía Estatal;
 
 XV.- Proponer un sistema de gratificaciones para la función policial, conforme a la disponibilidad presupuestal y la obtención de resultados;
 
@@ -496,3 +504,17 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
 GRAL. JUAN H. SALINAS ALTÉS.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE LA POLICÍA ESTATAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL DEL GOBIERNO DEL ESTADO DE GUERRERO Y DEL REGLAMENTO DE LA POLICÍA ESTATAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL, DEL GOBIERNO DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Dentro de los cinco días hábiles siguientes a la publicación de este Decreto, deberá procederse a la designación del Consejero representante de la Unidad de Prevención Social del Delito.
+
+TERCERO. Una vez que haya sido designado el representante de la Unidad de Prevención Social del Delito, deberá procederse de inmediato a la toma de protesta del Consejero Presidente y del Consejero representante de la Unidad de Prevención Social del Delito del Consejo de Honor y Justicia.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
