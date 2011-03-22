@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-propiedad-en-condominio-de-inmuebles-del-estado-de-77618
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-30"
-last_updated: "2010-11-30"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 2010.
 
@@ -91,7 +91,9 @@ Los derechos y obligaciones de los condóminos se regirán por las disposiciones
 
 La constitución del régimen de propiedad en condominio es el acto jurídico formal mediante el cual el propietario o propietarios de un inmueble, formalizan ante Notario Público declarando su voluntad de establecer esa modalidad de propiedad para su mejor aprovechamiento, y en el que, dos o más personas teniendo un derecho privado, utilizan, comparten y tienen acceso a las áreas o espacios de uso y propiedad común, asumiendo condiciones que les permiten satisfacer sus necesidades de acuerdo al uso del inmueble, en forma conveniente y adecuada para todos y cada uno, sin demérito de su propiedad exclusiva.
 
-Para su inscripción en el Registro Público de la Propiedad y el Comercio, previamente los propietarios deberán obtener una declaración de compatibilidad urbanística que en su caso expedirán las autoridades competentes del Gobierno del Estado, a efecto de que se garantice el respeto al Plan de Desarrollo Urbano del Estado. Para ello, deberán presentar los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
+Para su inscripción en el Registro Público de la Propiedad y el Comercio, previamente los propietarios deberán obtener una constancia de compatibilidad urbanística que en su caso expedirá el Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Urbano, a efecto de que se garantice el respeto al Plan Estatal de Desarrollo Urbano. Para ello, deberán presentar los siguientes documentos:
 
 I.- Original de solicitud suscrita por el representante legal o propietario dirigida a la autoridad competente;
 
@@ -107,9 +109,21 @@ VI.- Documento de autorización del régimen de propiedad en condominio expedido
 
 VII.- Terminación de obra expedida por la autoridad municipal competente o en su caso, copia de la fianza que la garantice a nombre de la autoridad municipal competente;
 
-VIII.- Copia del recibo del pago de impuesto predial correspondiente; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-IX.- Certificación de medidas y colindancias del inmueble expedida por la autoridad municipal correspondiente.
+VIII.- Copia del recibo del pago de impuesto predial correspondiente;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IX.- Certificación de medidas y colindancias del inmueble expedida por la autoridad municipal correspondiente; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+X.- Cédula Catastral.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Lo anterior, sin perjuicio de otros requisitos que a juicio de la Secretaría de Desarrollo Urbano estime y señale necesarios.
 
 ###### ARTÍCULO 5.
 
@@ -135,35 +149,21 @@ c) Industrial.- Son aquellos en donde las unidades de propiedad exclusiva se des
 
 d) Mixtos.- Son aquellos en donde las unidades de propiedad exclusiva se destinan a dos o más de los usos señalados en los incisos anteriores.
 
-III.- Por sus características sociales:
-
-a) Vecinal.- Es un régimen dirigido a la vivienda social, con carácter también de transformación de vivienda múltiple de arrendamiento a régimen de propiedad en Condominio;
-
-b) Habitacional Turístico.- Son Condominios cuyas Unidades de Propiedad Exclusiva, de manera preponderante, fueron adquiridas en propiedad por nacionales y extranjeros o que por cualquier título jurídico son acreedores al uso, goce y disfrute de las mismas, y que las utilizan preferentemente para fines de descanso y turismo en nuestro Estado, esos derechos de uso, goce y disfrute para fines vacacionales.
-
-c) De interés social.- Son aquellos construidos, desarrollados o financiados por instituciones oficiales de vivienda, federales, estatales y municipales, o por particulares, cuando las características de construcción y dimensiones de las Unidades de Propiedad Exclusiva coincidan con las de las instituciones oficiales de vivienda anteriormente señaladas.
+III.- (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 6.
 
-Son condominios que por sus características sociales están sujetos a las disposiciones establecidas en el Título Quinto de esta Ley:
-
-I.- Los condominios destinados predominantemente a la vivienda de interés social y/o popular clasificadas como tales de acuerdo con la legislación federal y local en la materia; y
-
-II.- Aquellos que por las características socioeconómicas de sus condóminos sean reconocidos como de interés social y/o popular por la autoridad correspondiente, de acuerdo con los criterios que para este efecto expida.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 7.
 
-En el Régimen de Propiedad en Condominio, cada titular disfrutará de sus derechos en calidad de propietario, en los términos previstos en el Código Civil. Por tal razón, podrá venderlo, darlo en arrendamiento, hipotecarlo, gravarlo y celebrar, respecto de la unidad de propiedad exclusiva, todos los contratos a los que se refiere el derecho común, con las limitaciones y modalidades que establecen las Leyes.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
-El derecho de copropiedad sobre los elementos comunes del inmueble es accesorio e indivisible del derecho de propiedad privativo sobre la unidad de propiedad exclusiva, por lo que no podrá ser enajenable, gravable o embargable separadamente de la misma unidad.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 8.
 
-El régimen de propiedad en condominio puede constituirse en construcciones nuevas o en proyecto, así como en inmuebles construidos con anterioridad siempre que:
-
-I.- El inmueble cumpla con lo establecido en el artículo 3 de esta ley;
-
-II.- En caso de que el proyecto original sufra modificaciones, en cuanto al número de unidades privativas o ampliación o reducción o destino de áreas comunes, quien constituyó el Régimen de Propiedad en Condominio tendrá la obligación de modificar la escritura constitutiva ante Notario Público, o la Asamblea a través de la persona que la misma designe, en un término no mayor de seis meses contados a partir del término de la vigencia de la licencia de construcción o de su prórroga.
+El régimen de propiedad en condominio puede constituirse en construcciones nuevas o en proyecto, así como en inmuebles construidos con anterioridad siempre que el inmueble cumpla con lo establecido en el artículo 4 de esta Ley.
 
 ###### ARTÍCULO 9.
 
@@ -179,19 +179,33 @@ IV. La descripción de cada unidad de propiedad exclusiva, número, ubicación, 
 
 V. El establecimiento de zonas, instalaciones o las adecuaciones para el cumplimiento de las normas establecidas para facilitar a las personas con discapacidad el uso del inmueble;
 
-VI.- El valor nominal asignado a cada unidad de propiedad exclusiva y su porcentaje de indiviso en relación al valor nominal total del inmueble;
+VI. El valor nominal asignado a cada unidad de propiedad exclusiva y su porcentaje de indiviso en relación al valor nominal total del inmueble;
 
-VII.- Las características del condominio, de acuerdo a lo establecido en los artículos 5 y 6 de esta Ley, así como el destino de cada una de las unidades de propiedad exclusiva;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-VIII.- La descripción de los bienes de propiedad común, destino, especificaciones, ubicación, medidas, componentes y todos aquellos datos que permitan su fácil identificación;
+VII. Las características del condominio, de acuerdo a lo establecido en el artículo 5 de esta Ley, así como el destino de cada una de las unidades de propiedad exclusiva;
 
-IX.- Los casos y condiciones en que pueda ser modificada la escritura constitutiva del régimen y el reglamento;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-X.- Fianza equivalente al 20 por ciento del valor nominal total del condominio para garantizar en su caso la terminación de obra y fianza equivalente al 10 por ciento del valor total nominal del condominio, esta última será de un año a partir de la entrega total del condominio y servirá para responder de la calidad de la construcción y los vicios de ésta, ante el Comité de Vigilancia de Propietarios del condominio;
+VIII. La descripción de los bienes de propiedad común, destino, especificaciones, ubicación, medidas, componentes y todos aquellos datos que permitan su fácil identificación;
 
-XI.- La obligación de los condóminos de contratar póliza de seguro, con compañía legalmente autorizada para ello, contra terremoto, inundación, explosión, incendio y con cobertura contra daños a terceros, cubriéndose el importe de la prima en proporción del indiviso que corresponda a cada uno de ellos;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XII.- La obligación de los condóminos de garantizar el pago de las cuotas correspondientes al fondo de mantenimiento y administración y al fondo de reserva, se garantizará con la Unidad de Propiedad Exclusiva correspondiente.
+IX. Los casos y condiciones en que pueda ser modificada la escritura constitutiva del régimen y el reglamento;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+X. La constancia de terminación de obra expedida por la autoridad municipal competente o en su caso, la fianza equivalente al 15% del valor total del condominio, para garantizar la terminación de obra y fianza equivalente al 10% del valor total del condominio, para responder de la calidad de la construcción y los vicios de ésta, la cual tendrá una vigencia de dos años a partir de la entrega total del condominio.
+
+Ambas fianzas serán emitidas a favor de la tesorería municipal correspondiente;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XI. Nombramiento del administrador, sus remuneraciones en su caso, facultades y poderes;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XII. La obligación de los condóminos de garantizar el pago de las cuotas correspondientes al fondo de mantenimiento y administración y al fondo de reserva.
 
 Al apéndice de la escritura se agregarán, debidamente certificados, el plano general, memoria técnica y los planos correspondientes a cada una de las unidades de propiedad exclusiva, planos de instalaciones hidráulicas, eléctricas, estructurales, gas y áreas comunes con medidas y colindancias; el reglamento interno del condominio certificado también por fedatario público, así como copia de todos los planos autorizados por la autoridad municipal competente en la Constitución del Régimen de Propiedad en Condominio.
 
@@ -199,9 +213,11 @@ Al apéndice de la escritura se agregarán, debidamente certificados, el plano g
 
 La escritura constitutiva del régimen de propiedad en condominio de inmuebles, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta ley, deberán inscribirse en el Registro Público de la Propiedad y el Comercio.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 11.
 
-Cualquier modificación a la escritura constitutiva y su reglamento, se acordará en asamblea general extraordinaria, a la que deberá de asistir por lo menos la mayoría simple de los condóminos y sus resoluciones requerirán de un mínimo de votos que representen el 75% del valor total del condominio y la mayoría simple del total de condóminos.
+Cualquier modificación a la escritura constitutiva y su reglamento, se acordará en asamblea general extraordinaria, a la que deberá de asistir por lo menos el 75 por ciento del proindiviso del condominio y sus resoluciones se tomarán por mayoría de votos.
 
 ###### ARTÍCULO 12.
 
@@ -249,9 +265,11 @@ Ambos harán oportunamente las notificaciones correspondientes al Administrador 
 
 En todo contrato de arrendamiento, comodato o cualquier otro instrumento jurídico, sin importar su denominación, mediante el cual se otorgue a un tercero el uso de una Unidad de Propiedad Exclusiva, se deberá incluir la obligación a cargo de éste de cumplir y respetar las disposiciones del Reglamento del Condominio, debiéndose de anexar una copia del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-El derecho del tanto de los copropietarios tendrá prioridad sobre el derecho de preferencia del arrendatario excepto en los condominios destinados a vivienda de interés social y/o popular.
+El derecho del tanto de los copropietarios tendrá prioridad sobre el derecho de preferencia del arrendatario.
 
 Tratándose de la venta de una unidad de propiedad exclusiva, se estará a lo siguiente:
 
@@ -307,9 +325,13 @@ VIII.- Poseer animales que por su número, tamaño o naturaleza afecten las cond
 
 IX.- Realizar obras en la propiedad exclusiva que puedan poner en peligro la seguridad y estabilidad física del edificio ocasionando peligro o riesgo a los habitantes del condominio o que no permitan la conservación de zonas comunes o su flora, así como las que realicen los condóminos en áreas comunes que afecten la comodidad de tránsito del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, y las que demeriten cualquier parte exclusiva de una unidad condominal.
 
-En el caso de las obras establecidas en la Fracción IX de este numeral, estas podrán llevarse a cabo solamente si en Asamblea General existe acuerdo unánime de los condóminos, excepto en las áreas verdes, y en el último caso, además, se indemnizará al afectado a su plena satisfacción.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-En los últimos casos, las obras podrán llevarse a cabo solamente si en asamblea general existe acuerdo unánime de los condóminos y en el último, además, se indemniza al afectado a su plena satisfacción.
+La realización de obras podrán llevarse a cabo solamente si en Asamblea General existe acuerdo unánime de los condóminos, excepto en las áreas verdes, y en el último caso, además, se indemnizará al afectado a su plena satisfacción.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar las instalaciones o restablecer los servicios de que se trate, estará obligado a dejar de hacer las acciones mencionadas, así mismo responderá de los daños y perjuicios que resulten, lo anterior con independencia de la sanción que se aplique.
 
 ###### ARTÍCULO 22.
 
@@ -319,9 +341,11 @@ En los condominios de construcción vertical, las obras que requieran los techos
 
 ### CAPÍTULO II. De los Bienes Considerados de Propiedad Común
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 23.
 
-Son objeto de propiedad común en el condominio, por lo que no podrán enajenarse, grabarse o embargarse, los siguientes bienes:
+Son objeto de propiedad común en el condominio, por lo que no podrán enajenarse, gravarse o embargarse, los siguientes bienes:
 
 I.- El terreno, sótanos, puertas de entrada, fachada, vestíbulos, galerías, bardas perimetrales, corredores, escaleras, patios, jardines, plazas, senderos, calles interiores, instalaciones deportivas, de recreo, de recepción o reunión social y los espacios señalados para cajones de estacionamiento de vehículos excedentes de los reglamentarios, siempre que dichas áreas sean de uso general;
 
@@ -383,7 +407,7 @@ Las Asambleas se regirán por las siguientes disposiciones:
 
 I.- Se celebrarán obligatoriamente por lo menos una vez cada seis meses las ordinarias, y las extraordinarias y las de grupo, cuantas veces sean convocadas conforme a lo dispuesto por esta Ley, la Escritura Constitutiva y el Reglamento del Condominio;
 
-a) Se exceptúa de lo anterior, las Asambleas ordinarias de Condóminos en donde participen extranjeros en porcentaje superior al 30 por ciento, a que se refiere el artículo 5º fracción III inciso b) de esta Ley, cuya residencia no sea fija y permanentemente en nuestro país, las cuales se celebrarán por lo menos una vez al año, y las Asambleas Extraordinarias y las de grupo cuantas veces sean convocadas conforme a los (sic) dispuesto por esta Ley, la Escritura Constitutiva y el Reglamento del Condominio.
+a) (DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 b) Las Asambleas extraordinarias, serán convocadas con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento interior del Condominio.
 
@@ -391,13 +415,17 @@ II.- El valor del voto de cada condómino será igual al porcentaje del indiviso
 
 En los casos de elección, reelección o remoción del Administrador, de los integrantes de la administración o del Comité de Vigilancia, a cada Unidad de Propiedad Exclusiva habitacional corresponderá un sólo voto, inclusive aquellos de uso mixto que cuenten con Unidades para su uso habitacional o habitacional-turístico. Se exceptúan los Condominios por uso comercial, de oficinas, de almacenamiento, industrial y estacionamiento, en donde la votación será de acuerdo a lo dispuesto en el párrafo anterior.
 
-III.- La votación será nominal y directa, pero el Reglamento del Condominio podrá facultar la representación mediante simple carta poder firmada ante dos testigos, sin que en ningún caso una sola persona pueda representar a más del 30% de los Condóminos, así como tampoco en ningún caso, el Administrador podrá representar a condómino alguno, lo que quedará debidamente especificado en el Reglamento del Condominio;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+III.- La votación será nominal y directa, pero el Reglamento del Condominio podrá facultar la representación mediante simple carta poder firmada ante dos testigos, sin que en ningún caso una sola persona pueda representar a más del 30% de los Condóminos, así como tampoco en ningún caso, el Administrador o los miembros del Comité (sic) Vigilancia, podrán representar a condómino alguno, lo que quedará debidamente especificado en el Reglamento del Condominio;
 
 IV.- Las resoluciones de la asamblea se tomaran por mayoría simple de votos de los presentes, excepto en los casos en que la presente Ley y el Reglamento del Condominio, sin contravenir a esta, prescriban una mayoría especial;
 
 V.- Los nombramientos del Administrador, del comité de administración, en su caso, y del Comité de Vigilancia, serán hasta por un año y sólo podrán ser reelectos hasta por dos veces consecutivas para el periodo inmediato, salvo que exista la unanimidad de los Condóminos en Condominios que no excedan de 20 Unidades de Propiedad Exclusiva. Se exceptúa de lo anterior los casos de administración externa;
 
-VI.- En los casos de que solo un condómino represente más del 50% del indiviso del Condominio y los Condóminos restantes no asistan a la asamblea, previa notificación de la convocatoria de acuerdo a esta Ley, la asamblea podrá celebrarse en los términos del artículo 36, fracción XI;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VI.- En los casos de que solo un condómino represente más del 50% del indiviso del Condominio y los Condóminos restantes no asistan a la asamblea, previa notificación de la convocatoria de acuerdo a esta Ley, la asamblea podrá celebrarse en los términos de los artículos 29 y 30;
 
 VII.- Cuando un solo condómino represente más del 30% del indiviso del Condominio, se requerirá para que sean válidos los acuerdos cuando menos, la mitad de los votos que representen el restante de dicho indiviso. Cuando no se llegue a acuerdo válido, el condómino mayoritario o el grupo minoritario podrán recurrir a la mediación, o someter la discrepancia a resolución arbitral o judicial. Se exceptúan los casos de elección de Administrador o miembros de comités de administración y vigilancia, en donde se tomarán los acuerdos por simple mayoría de votos en la asamblea;
 
@@ -417,13 +445,17 @@ Para efectos de votos de los Condóminos y comunicaciones diversas que se contem
 
 XI.- Cuando por la importancia del o los asuntos a tratar en la asamblea se considere necesario, el Administrador, el comité de vigilancia o cuando menos el 25% de los Condóminos, podrán solicitar la presencia de un notario público; y,
 
-XII.- Los Condóminos o sus representantes, podrán asistir a las Asambleas, acompañados por abogados, contadores públicos y/o intérpretes traductores, quienes podrán hacer uso de la voz.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XII.- Los Condóminos o sus representantes, podrán asistir a las Asambleas, acompañados por abogados, contadores públicos y/o intérpretes traductores, pero solo uno de ellos podrá hacer uso de la voz ante la Asamblea, por lo que en el momento del pase de lista de asistencia, el condómino deberá hacer la designación respectiva.
 
 ###### ARTÍCULO 29.
 
 En el procedimiento para la celebración de las Asambleas según sea el caso, deberán cumplirse las siguientes disposiciones:
 
-Cuando la asamblea se celebre en virtud de primera convocatoria, se requerirá de un quórum de 75% de Condóminos; cuando se realice por segunda convocatoria, el quórum será por lo menos del 51 % de Condóminos.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Cuando la asamblea se celebre en virtud de primera convocatoria, se requerirá de un quórum de 75% del proindiviso del condominio; cuando se realice por segunda convocatoria, el quórum será por lo menos del 51 % del proindiviso del condominio.
 
 En caso de tercera o ulterior convocatoria, la asamblea se declarará legalmente instalada con los Condóminos que asistan y las resoluciones se tomarán por mayoría de los presentes.
 
@@ -435,9 +467,11 @@ I.- La Convocatoria deberá indicar el tipo de Asamblea de que se trate, lugar e
 
 II.- Entre la primera Convocatoria y la celebración de la Asamblea, deberá mediar el plazo mínimo que al efecto fije el Reglamento del Condominio o en su defecto, dicho plazo no será menor de quince días naturales. Entre la segunda convocatoria y la celebración de la asamblea respectiva, deberá mediar un plazo mínimo de 24 horas y entre la tercera o ulterior convocatoria, diez minutos de anticipación.
 
-En caso de así solicitarlo el Administrador o cuando menos el 25% de los Condóminos, se podrá requerir la presencia de un notario público, para constatar el quórum y el resultado de la elección del Administrador y del comité de vigilancia y, en su caso, la entrega de la documentación legal, administrativa y contable respectiva de la administración saliente.
+> <small>(DEROGADO, P.O. 22 DE MARZO DE 2011)</small>
 
-Cuando un grupo de Condóminos que detente por lo menos el 25% del indiviso del condominio hubiesen solicitado por escrito al Administrador la celebración de una Asamblea dejando claramente especificados los temas y puntos a tratar, en el caso de que éste no la hubiera convocado en los siguientes diez días hábiles, podrán acreditar el anterior extremo ante el Juez Civil de Primera Instancia a efecto de que éste publique la Convocatoria mencionada, la cual no podrá variar en los puntos previamente solicitados.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Cuando un grupo de Condóminos que detente por lo menos el 25% del indiviso del condominio hubiesen solicitado por escrito al Administrador la celebración de una Asamblea dejando claramente especificados los temas y puntos a tratar, en el caso de que éste no la hubiera convocado en los siguientes diez días hábiles, podrán acreditar el anterior extremo ante el Juez Civil de Primera Instancia o al Centro de Justicia Alternativa, a efecto de que éste publique la Convocatoria mencionada, la cual no podrá variar en los puntos previamente solicitados.
 
 También el Comité de Vigilancia podrá convocar a Asamblea, según lo previene el Artículo 40, fracción IX.
 
@@ -591,13 +625,17 @@ En la segunda Junta General de Administradores, que no podrá celebrarse en un l
 
 ### CAPÍTULO IV. Del Comité de Vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 40.
 
-El Comité de Vigilancia será electo por tres años, con posibilidad de reelección si ésta lo acuerda y sus miembros deberán acreditar estar al corriente en el pago de sus cuotas de mantenimiento y administración y las de reserva, desde el inicio y durante la totalidad de su gestión.
+El Comité de Vigilancia será electo por la asamblea y durarán en su encargo hasta un año con posibilidad de ser reelegidos, desempeñándose en forma honorífica, y sus miembros deberán acreditar estar al corriente en el pago de sus cuotas de mantenimiento y administración y las de reserva, desde el inicio y durante la totalidad de su gestión.
 
 La elección del Comité de Vigilancia General del Condominio Maestro, se regulará en los mismos términos del párrafo anterior. Este tipo de organización para la administración condominal puede ser aplicado también a cualquier Condominio cuando así lo determine la Asamblea del Condominio respectivo.
 
-El Comité de Vigilancia, podrá constituirse con el número impar de personas que determine la Asamblea del Condominio dependiendo del número de Unidades de Propiedad Exclusiva, y se designarán un presidente, un primer vocal, un segundo vocal y así sucesivamente, mismos que actuarán en forma colegiada. En este último caso, una minoría que represente por lo menos el 25% del número total de Condóminos tendrá derecho a designar a uno de los miembros del comité.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El Comité de Vigilancia, podrá constituirse por un presidente, un secretario y los vocales que estime determinar la Asamblea del Condominio. En este último caso, una minoría que represente por lo menos el 25% del número total de Condóminos tendrá derecho a designar a uno de los miembros del comité.
 
 El Comité de Vigilancia tendrá las siguientes funciones y obligaciones;
 
@@ -617,7 +655,9 @@ VII.- Dar cuenta a la Asamblea de sus observaciones sobre la administración del
 
 VIII.- Coadyuvar con el Administrador en observaciones a los Condóminos sobre el cumplimiento de sus obligaciones;
 
-IX.- Convocar a Asamblea de Condóminos, cuando éstos lo hayan requerido al Administrador y él no lo haga dentro de los tres días siguientes a la petición;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IX.- Convocar a Asamblea de Condóminos, cuando éstos lo hayan requerido al Administrador y él no lo haga dentro de los diez días siguientes a la petición;
 
 Asimismo, cuando a su juicio sea necesario informar a la Asamblea de irregularidades en que haya incurrido el Administrador, con notificación a éste para que comparezca a la asamblea relativa;
 
@@ -647,7 +687,9 @@ V.- Forma de convocar a asamblea de Condóminos y persona que la presidirá;
 
 VI.- Forma de designación y obligaciones del Administrador y comités de administración y de vigilancia;
 
-VII.- Requisitos que debe reunir el Administrador, los miembros del Comité de Administración y los de Vigilancia;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VII.- Requisitos que deben reunir el Administrador, los miembros del Comité de Administración y los de Vigilancia, así como sus facultades;
 
 VIII.- Bases de remuneración, en su caso, del Administrador, así como lo relativo a la fianza que debe otorgar éste, en su caso;
 
@@ -659,9 +701,11 @@ XI.- El establecimiento de medidas provisionales en los casos de ausencia tempor
 
 XII.- La determinación de criterios para el uso de las Áreas Comunes, especialmente para aquéllas que deban destinarse exclusivamente a personas con discapacidad, ya sean Condóminos o cualquier ocupante;
 
-XIII.- Determinar, en su caso, las medidas y limitaciones para poseer animales tanto en las Unidades de Propiedad Exclusiva como en los elementos comunes, así como las sanciones a quienes contravengan dichas medidas;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XIV.- Las causas por las cuales podrán acudir ante un tercero para someter a arbitraje la solución de los conflictos que se generen entre Condóminos, en la interpretación y aplicación de esta Ley y el Reglamento del Condominio;
+XIII.- Determinar, en su caso, las medidas y limitaciones para poseer animales tanto en las Unidades de Propiedad Exclusiva como en los elementos comunes;
+
+XIV.- (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
 XV.- La determinación de criterios para asuntos que requieran una mayoría especial en caso de votación;
 
@@ -671,7 +715,9 @@ XVII.- Las previsiones conducentes para otorgar a terceros las Áreas Comunes qu
 
 XVIII.- Las materias que le reserven la Escritura Constitutiva y la presente Ley.
 
-El Reglamento podrá establecer la obligación a cargo de cada uno de los Condóminos de contratar un seguro con compañía legalmente autorizada para ello y a su elección, contra terremoto, inundación, explosión, incendio y con cobertura contra daños a terceros.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+El Reglamento podrá establecer la obligación a cargo de cada uno de los Condóminos de contratar un seguro con compañía legalmente autorizada para ello y a su elección, contra fenómenos hidrometereológicos, terremoto, inundación, explosión o incendio y con cobertura contra daños a terceros.
 
 El Reglamento del Condominio y sus modificaciones deberán formar parte de la Escritura Constitutiva o estar agregada a su legajo e inscribirse en el Registro Público de la Propiedad.
 
@@ -691,9 +737,11 @@ IV.- La Asamblea de Condóminos, en el caso de áreas de propiedad común, que s
 
 En el caso de las fracciones III y IV, la asamblea determinará anualmente el porcentaje de los frutos o utilidades obtenidas que deberán aplicarse a cada uno de los fondos del Condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 43.
 
-Las cuotas para gastos comunes que se generen a cargo de cada condómino y que no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea o en el Reglamento del Condominio de que se trate, causaran intereses al tipo que fije el mismo Reglamento, y no serán capitalizables; independientemente de las sanciones a que se hagan acreedores los Condóminos por motivo de su incumplimiento en el pago.
+Las cuotas para gastos comunes que se generen a cargo de cada condómino y que no cubran oportunamente en las fechas y bajo las formalidades establecidas en Asamblea o en el Reglamento del Condominio de que se trate, causaran intereses al tipo que fije el mismo Reglamento o en su caso la Asamblea, y no serán capitalizables; independientemente de las sanciones a que se hagan acreedores los Condóminos por motivo de su incumplimiento en el pago.
 
 Trae aparejada ejecución en la vía ejecutiva civil, el estado de cuenta que refleje los adeudos existentes, intereses moratorios y/o pena convencional que estipule el Reglamento del Condominio, si va suscrita por el Administrador y el presidente del comité de vigilancia, acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por notario público del acta de asamblea relativa y/o del Reglamento del Condominio en su caso, en que se hayan determinado las cuotas a cargo de los Condóminos para el fondo de mantenimiento y administración y para el fondo de reserva. Esta acción sólo podrá ejercerse cuando existan tres cuotas ordinarias o una extraordinaria pendientes de pago.
 
@@ -725,7 +773,9 @@ Los Condóminos pagarán las contribuciones municipal, estatal y federal que les
 
 Los gravámenes del Condominio son divisibles entre las diferentes Unidades de Propiedad Exclusiva que lo conforman.
 
-Cada uno de los Condóminos responderá sólo por el gravamen que corresponda a su Unidad de Propiedad Exclusiva, y respecto de la propiedad común de manera proporcional a su parte alícuota en términos de lo dispuesto en el artículo 15 de esta Ley. Toda cláusula o prevención que establezca la obligación solidaria de los propietarios de los bienes comunes, para responder de un gravamen, se tendrá por no puesta.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Cada uno de los Condóminos responderá sólo por el gravamen que corresponda a su Unidad de Propiedad Exclusiva, y respecto de la propiedad común de manera proporcional en términos de lo dispuesto en el artículo 15 de esta Ley. Toda cláusula o prevención que establezca la obligación solidaria de los propietarios de los bienes comunes, para responder de un gravamen, se tendrá por no puesta.
 
 ###### ARTÍCULO 49.
 
@@ -741,51 +791,27 @@ Para proceder legalmente se estará a lo dispuesto en el segundo párrafo del ar
 
 ###### ARTÍCULO 50.
 
-Se declara de orden público e interés social la constitución del régimen de propiedad en condominio destinado, total o mayoritariamente a la vivienda de interés social o popular, el cual se regirá por las disposiciones de esta Ley, las que lo autoricen, las de las escrituras en que se hubiere establecido dicho régimen, las del Reglamento del Condominio y las demás disposiciones jurídicas aplicables.
-
-Se consideran que tienen también ese carácter la transformación de viviendas múltiples y edificios multifamiliares sujetos al régimen de arrendamiento que, por acuerdo entre propietarios y arrendatarios, cambien al régimen de propiedad en Condominio, conforme a este capítulo.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 51.
 
-El régimen de propiedad en Condominio destinado a viviendas de interés social y/o popular podrá constituirse:
-
-I.- En inmuebles que enajenen para ese fin la Administración Pública del Estado, los Municipios y las dependencias o entidades de la Administración Pública Federal, dedicadas al fomento de la vivienda;
-
-II.- En inmuebles cuya adquisición participen las entidades paraestatales federales o locales, así como de organismos privados;
-
-III.- En inmuebles que sean adquiridos por sus Ocupantes o arrendatarios y en cuya adquisición o enajenación intervengan las autoridades o dependencias mencionadas;
-
-IV.- En inmuebles y predios incluidos en los programas habitacionales de los gobiernos federal o local, que oportunamente y en forma separada o coordinada aprueben; y
-
-V.- En inmuebles dedicados a vivienda que cambien, por voluntad de los propietarios o copropietarios y en su caso con la conformidad de los inquilinos que las habiten, al régimen a que se refiere este capítulo.
-
-El régimen de propiedad en Condominio destinados a la vivienda de interés social y/o popular deberá ser oficialmente reconocido por las autoridades competentes.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 52.
 
-Estos condominios podrán por medio de su administrador y sin menoscabo de su propiedad:
-
-I.- Solicitar a la Dirección de Desarrollo Urbano Municipal y la instancia del Poder Ejecutivo Estatal competente, la emisión de la constancia oficial que lo acredite dentro de la clasificación de vivienda de interés social y popular para el pago de cualquier servicio o impuesto cuya cuota esté sujeta a una clasificación económica. La autoridad estará obligada a responder sobre la procedencia o no de la solicitud en un plazo máximo de 30 días; de no ser contestada en dicho plazo será considerada con resultado en sentido afirmativo.
-
-II.- Solicitar su incorporación y aprovechamiento de los presupuestos y subsidios previstos en los programas que la Administración Pública tenga para apoyar la construcción de infraestructura urbana en las colonias, con el fin de obtener recursos para el mejoramiento y reparaciones mayores de las áreas comunes del condominio, exceptuando los de gasto corriente; y
-
-III.- Establecer convenios con la administración pública municipal, de conformidad con los criterios generales que al efecto expida ésta, para recibir en las áreas comunes servicios públicos básicos como: recolección de basura, seguridad pública, protección civil, balizamiento, renovación del mobiliario urbano, bacheo, pintura de fachadas, cambio e instalación de luminarias.
-
-Para ser sujetos de los beneficios determinados en las fracciones anteriores, se deberá acreditar estar constituido en régimen de propiedad en condominio y contar con la organización interna establecida en esta Ley y su reglamento, presentando para ello copia de la escritura constitutiva, reglamento y el libro de actas de asamblea.
-
-En las asambleas de condóminos, cada condómino gozará de un voto por la unidad de propiedad exclusiva de la que sea propietario, de igual manera las cuotas se fijarán en base al número de unidades de propiedad exclusiva de que se componga el condominio, con independencia de los indivisos.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 53.
 
-La administración pública del gobierno municipal, podrá adoptar las medidas administrativas que faciliten y estimulen la constitución en este régimen de las unidades habitacionales de interés social y popular.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 54.
 
-En el supuesto de que exista desacuerdo entre los Condóminos de este régimen para la elección del Administrador, las autoridades municipales tendrán facultad para designar de manera provisional, a una persona física o moral que fungirá como Administrador externo durante un periodo que no deberá exceder de 180 días. Este Administrador, además de cumplir con lo que dispone el artículo 36 de esta Ley, estará obligado a sentar las bases de una sana administración y a promover las acciones correspondientes para celebrar la elección del nuevo Administrador.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 55.
 
-Para el cumplimiento de las funciones encomendadas en el artículo anterior, los Administradores inmobiliarios, en su caso, se apegarán estrictamente a las disposiciones administrativas que para tal efecto expidan las autoridades competentes.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ## TÍTULO SEXTO. DE LA CULTURA CONDOMINAL
 
@@ -795,9 +821,11 @@ Para el cumplimiento de las funciones encomendadas en el artículo anterior, los
 
 Se entiende por cultura condominal, todo aquello que contribuya a generar las acciones y actitudes que permitan en sana convivencia, el cumplimiento del objetivo del régimen de propiedad en Condominio. Entendiéndose como elementos necesarios, el respeto y la tolerancia; la responsabilidad y cumplimiento; la corresponsabilidad y participación; la solidaridad y la aceptación mutua.
 
-Las autoridades municipales y el Poder Ejecutivo del Estado, en coordinación con los organismos de vivienda, proporcionarán a los habitantes y Administradores de inmuebles bajo el régimen de propiedad en Condominio, cuando éstos sean Condóminos, orientación y capacitación a través de diversos cursos y talleres en materia condominal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-Para los efectos del párrafo anterior, la Secretaría de Desarrollo Económico del Estado podrá brindar la asesoría necesaria a los Condóminos referidos en el artículo 5° fracción III, si lo solicitaren o a iniciativa de la propia Secretaría.
+Las autoridades municipales y el Poder Ejecutivo del Estado, en coordinación con los organismos de vivienda, a petición de los habitantes y Administradores de inmuebles bajo el régimen de propiedad en Condominio, cuando éstos sean Condóminos, proporcionarán orientación y capacitación a través de diversos cursos y talleres en materia condominal.
+
+> <small>(DEROGADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 57.
 
@@ -835,13 +863,11 @@ De conformidad con las disposiciones de este Título si se optare por la extinci
 
 ###### ARTÍCULO 62.
 
-En los Condominios que colinden con zona federal marítimo terrestre, terrenos ganados al mar o a cualquier otro depósito de aguas marinas, los Condóminos, Ocupantes, familiares de unos y otros, Administradores y empleados, se encuentran obligados a permitir a la generalidad de las personas, cuando no existan vías públicas u otros accesos a ellos, el libre tránsito y la accesibilidad a dichos bienes de dominio público.
-
-Los accesos a las Playas Publicas del Estado, son servidumbres legales de paso, los Ayuntamientos del Estado tienen la obligación de exigir el que se respete este derecho, mismo que se regirá por los Reglamentos Municipales respectivos.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 63.
 
-En caso de existir varios Condominios por donde pueda darse el paso a dichos bienes de dominio público, el obligado a la servidumbre será aquél por donde fuere más corta la distancia. Si la distancia fuere igual, a petición del Municipio correspondiente, el Juez designará cual de los Condominios ha de dar el paso o bien, si la servidumbre se prestará de manera compartida y proporcional.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
 ## TÍTULO NOVENO. DE LAS CONTROVERSIAS Y PROCEDIMIENTOS ANTE EL CENTRO DE JUSTICIA ALTERNATIVA
 
@@ -855,7 +881,33 @@ El procedimiento alternativo se sustanciará de conformidad a lo previsto en el 
 
 ###### ARTÍCULO 66.
 
-Por la frecuencia con que pudieran ser extranjeros los ocupantes de los condominios, éstos de estar involucrados en algún tipo de procedimiento de esta índole, de no encontrarse presentes en el Estado durante el seguimiento del mismo, podrán seguir conociendo del caso, por cualquiera de los medios electrónicos conocidos.
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+
+## TÍTULO DÉCIMO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 67.
+
+Los condóminos que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento del Condominio o la escritura constitutiva del condominio, podrán ser sancionados con:
+
+l.- Las multas aplicables por la inobservancia de lo establecido en las fracciones I, IV, V, VII y VIII del artículo 21 de esta Ley, serán de 20 a 40 días de salario mínimo general vigente en el Estado;
+
+II.- Multa de 15 a 100 días de salario mínimo general vigente en el Estado a los condóminos o residentes que incumplan con las obligaciones señaladas en las fracciones II, III, VI y IX del artículo 21;
+
+III.- Multa de hasta 100 días de salario mínimo general vigente en el Estado y cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común que se hubiesen dañado por un mal uso o negligencia; y
+
+IV.- Multa de 10 a 150 días de salario mínimo general vigente en el Estado, el pago de intereses moratorios en los términos que establezca el Reglamento o en su caso la Asamblea y la restricción del derecho de voto en las asambleas, por no cumplir en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 68.
+
+Las sanciones señaladas en el artículo que antecede, serán impuestas y valoradas por la Asamblea General, la cual como órgano supremo, las harán valer mediante la vía ejecutiva civil y seguirá el procedimiento a que se refiere el artículo 43 de esta Ley. A dicha Asamblea también será convocado el condómino infractor, a fin de que exprese lo que a su derecho convenga.
+
+Dicha resolución deberá ser aprobada mediante el voto de más del 50% del proindiviso del condominio y será debidamente notificada dentro de los cinco días siguientes.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -892,3 +944,9 @@ EL SECRETARIO ESTATAL DE HACIENDA
 DEL ESTADO DE QUINTANA ROO.
 
 C.P. GONZALO ABELARDO HERRERA CASTILLA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
