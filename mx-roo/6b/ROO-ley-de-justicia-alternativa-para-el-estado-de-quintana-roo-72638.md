@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-para-el-estado-de-quintana-roo-7263
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,614 +21,556 @@ state: "ROO"
 ---
 # LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GENERAL TREVIÑO, NUEVO LEON
+LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de noviembre de 2004.
+Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2009.
 
-LA C. RAQUEL VILLAREAL CADENA PRESIDENTA MUNICIPAL DE GENERAL TREVIÑO A TODOS LOS HABITANTES DE ESTE MUNICIPIO HACE SABER:
+DECRETO NÚMERO: 205
 
-QUE EL REPUBLICANO AYUNTAMIENTO DE GENERAL TREVIÑO, NUEVO LEÓN EN SESIÓN EXTRAORDINARIA CELEBRADA EL DIA 27 DEL MES DE OCTUBRE DEL 2004 CON FUNDAMENTO EN LOS ARTÍCULOS 26 INCISO A FRACCIÓN VII, INCISO C FRACCIÓN VI 27 Y DEL 160 AL 167 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEÓN, ACORDÓ LA APROBACIÓN Y EXPEDICIÓN DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PUBLICA MUNICIPAL.
+QUE CONTIENE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
-I N D I C E
+LA HONORABLE XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+SOBERANO DE QUINTANA ROO,
 
-###### ARTÍCULO 1.
+D E C R E T A:
 
-Este reglamento tiene por objeto establecer las normas de organización, funcionamiento, atribuciones, funciones, responsabilidades y estructura de las diversas Dependencias de la Administración Públicas del Municipio de General Treviño, Nuevo León y se expide de conformidad a lo dispuesto en el artículo 74, 160 y 161 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+PRIMERO: SE APRUEBA LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO, PARA QUEDAR COMO SIGUE:
 
-###### ARTÍCULO 2.
+LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE QUINTANA ROO
 
-La Administración Pública Municipal será dirigida por el o la Presidente Municipal, quien tendrá las facultades y obligaciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León y los demás ordenamientos legales aplicables le confieren, además de las que le otorgan el presente Reglamento.
+### CAPÍTULO I. Disposiciones Generales
 
-###### ARTÍCULO 3.
+###### Artículo 1.
 
-Para la prestación eficaz y expedita de los servicios públicos municipales, la atención de los asuntos de orden administrativo, así como para la realización de las diversas funciones del orden municipal, el o la Presidente Municipal, previa aprobación del Ayuntamiento, y en los términos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, podrá crear, modificar o suprimir las Dependencias Administrativas que estarán bajo las ordenes de ella, de acuerdo con las necesidades o capacidad financiera de Gobierno Municipal, así como asignar las funciones de las mismas, suprimiendo las que resulten innecesarias.
+La presente ley es de orden público e interés social y de observancia en todo el Estado y sus prescripciones son irrenunciables. Se aplicará a petición de todo ciudadano o visitante del Estado, dado su carácter alterno y optativo.
 
-###### ARTÍCULO 4.
+###### Artículo 2.
 
-Cada Dependencia que integra la Administración Pública Municipal tendrá un Titular, que se denominara Secretario (o), Director (a) o Jefatura según sea el caso, que estará a cargo de la dirección y representación de la misma así como la facultad de ejercer las atribuciones que en este Reglamento se le confieren. La ausencia de un titular será suplida por quien así decida el o la Presidente Municipal. Cada Secretario(a), Director (a) y/o la Jefatura están obligados a proporcionar la información oportuna, clara, veraz y concisa, de las labores realizadas por semana, mes anual, para entre otros aspectos, la elaboración del informe anual de labores y/o para la Entrega - Recepción de sus titularidades de le (s) sea solicitada por la Secretaria del Ayuntamiento, o por la Contraloría para efectos de auditoria.
+Es objeto de esta ley establecer medios alternativos a la justicia ordinaria a fin de que los particulares resuelvan sus controversias de carácter jurídico, privado o simplemente de interrelación personal mediante un procedimiento ágil y sencillo bajo el principio de voluntariedad llamado procedimiento alternativo de conciliación, mediación, amigable composición o negociación como métodos alternativos de solución de conflictos.
 
-###### ARTÍCULO 5.
+###### Artículo 3.
 
-El o la Presidente Municipal nombrara y removerá libremente a los Titulares de las Dependencias que integran esta Administración Pública Municipal con excepción del o la Secretario(a) del Ayuntamiento, y del o la Titular de la Tesorería Municipal. La designación y remoción de estos últimos deberán aprobarse e en sesión extraordinaria celebrada por el Ayuntamiento a propuesta del o la Presidente Municipal.
+El procedimiento que se refiere en el artículo anterior, dentro del cual operan los medios no jurisdiccionales para la resolución de controversias jurídicas o de relación interpersonal que establece la presente ley, constituye en sí mismo una vía distinta e independiente de la vía jurisdiccional ordinaria y al fuero de los jueces y magistrados del orden común, jurisdicción que siempre estará expedita en los términos y condiciones que establecen la Constitución General de la República, la Constitución Política del Estado y las leyes ordinarias que las reglamentan, según la voluntad optativa del ciudadano, no pudiendo hacer uso simultáneo de ambas vías.
 
-###### ARTÍCULO 6.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
-Para el despacho de los de de su competencia, previo acuerdo con el o la Presidente Municipal, podrá renombrar el personal necesario para el buen y eficaz desempeño de sus respectivas labores.
+###### Artículo 4.
 
-### CAPÍTULO SEGUNDO. DE LAS DEPENDENCIAS ADMINISTRATIVA
+Para los efectos de esta Ley, los medios no jurisdiccionales que se abordan en el procedimiento autónomo y alterno de resolución pacífica de conflictos, deberán entenderse en base a los conceptos siguientes:
 
-###### ARTÍCULO 7.
+I. Conciliación: Facilita la comunicación entre las partes vinculadas en el conflicto, en la búsqueda de soluciones adecuadas con la ayuda de un tercero que mediante sugerencias indirectas, justas y equitativas propicie la formulación de propuestas concretas de solución.
 
-Los Titulares de cada Dependencia que integran esta Administración Pública Municipal, así como el personal técnico, profesional, secretarial y demás personal administrativo, a excepción del personal de base, serán considerados trabajadores de confianza de acuerdo a lo depuesto por la artículos 4, 5, 7 y demás relativos de le Ley del Servicio Civil del Estado.
+II. Amigable Composición: Favorece el intercambio amable de experiencias conflictuadas, buscando restablecer en lo posible la armonía entre las partes, generando igualdad de posibilidades respecto de un mismo plano de intereses, basado principalmente en la moral, justicia y conciencia humana, pudiendo someter sus diferencias a la consideración del amigable componedor que como tercero neutral interviene en el conflicto.
 
-###### ARTÍCULO 8.
+III. Negociación: Genera condiciones favorables para que las partes en el manejo de su conflicto y revestidas de autonomía discutan sus diferencias particulares en búsqueda de una solución pacífica que satisfaga los intereses de ambas.
 
-Los Titulares de cada Dependencia, según su rango, tendrán igual jerarquía entre ellos, por lo que habrá preeminencia alguna, salvo en los caos que así lo señale la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+IV. Mediación: Facilita la comunicación entre las partes de un conflicto con la intervención de un tercero neutral, a fin de ayudarlos a esclarecer sus intereses, objetivos y necesidades intrínsecas, para que revestidos de autoridad en su conflicto puedan arribar a soluciones efectivas.
 
-### CAPÍTULO TERCERO. DE LA SECRETARIA DEL R. AYUNTAMIENTO
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 9.
+V. Mediación Penal: Medio intraprocesal, cuyo campo de acción se define a partir del delito, interviene en conflictos tipificados penalmente, y tiene como finalidad resolver conflictos, asumir responsabilidades a través del diálogo entre víctima y victimario, que se acota en el acuerdo reparatorio.
 
-Los Titulares de más alto rango (Secretarios(as) dentro de la Administración Pública Municipal, representaran directamente al o la Presidente Municipal y ejercerán la funciones de su competencia de acuerdo a lo dispuesto en este Reglamento, manuales de operación y organización, así como por las atribuciones que gire el o la Presidenta Municipal. Así mismo, auxiliaran al Ayuntamiento en la elaboración de Reglamentos o acuerdos cuyas materias correspondan a sus atribuciones.
+Para los efectos del manejo de los medios alternativos de solución de conflictos, el prestador de dicho servicio podrá fungir como negociador, amigable componedor, mediador o conciliador, según la voluntad y necesidad de los usuarios del servicio, interviniendo como un conductor o facilitador de la comunicación entre partes.
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-Los funcionarios a que se hace referencia en el artículo anterior en el presente Reglamento, podrán además, ejercer las facultades concedidas por la Ley Orgánica de la Administración Publica Municipal del Estado de Nuevo León y en los diversos ordenamientos legales aplicables, celebran convenios y aplicar las sanciones que correspondan en el ámbito de su competencia, conforme a las disposiciones legales.
+Por Justicia Restaurativa, debe entenderse todo proceso alternativo al procedimiento penal en el que participa la víctima o el ofendido, o probable responsable o imputado, y, cuando así proceda, miembros de la comunidad afectados por el delito, para que se repare el daño provocado en búsqueda de una solución acordada para poner fin a sus controversias mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas, atendiendo a las necesidades de las partes con el fin de lograr resultados restaurativos.
 
-###### ARTÍCULO 11.
+Se entiende por resultado restaurativo, la satisfación de las necesidades y responsabilidades individuales y colectivas de los involucrados y afectados por el delito, así como el cumplimiento de compromisos y obligaciones contraídas tendientes a lograr la reintegración y restructuración del tejido social.
 
-Corresponde al o la Presidente Municipal resolver los casos de duda sobre el ámbito de competencia que tengan los servidores públicos de esta administración Publica Municipal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-### CAPÍTULO SEGUNDO.
+###### Artículo 5.
 
-DE LAS DEPENDENCIAS ADMINISTRATIVAS.
+El resultado de la aplicación de los procedimientos alternativos antes referidos para la solución pacífica de conflictos, puede culminar en un acuerdo verbal de cumplimiento cierto, en un acuerdo escrito, en un convenio satisfactorio con valor legal propio, en un convenio reparatorio, en un acta de negativa de los usuarios para continuar en esa vía, o por acuerdo interno de cambio de circunstancias que vulneren el ánimo de las partes tornándose éste de pacífico a rijoso e impidan la prosecución de causa.
 
-###### ARTÍCULO 12.
+###### Artículo 6.
 
-La Dependencias municipales deberán conducir sus actividades con base en los programas y políticas establecidas en el Plan Municipal de Desarrollo en forma programada y coordinada, con el fin de evitar duplicidad de funciones, y a las políticas internas de la administración que, para el alcance de los objetivos y metas de los planes de gobierno, establezca el o la Presidente Municipal.
+Los principios rectores de las disposiciones sustanciales de la presente ley, son la neutralidad, la imparcialidad y la confidencialidad que aunados a la voluntariedad y legalidad propia de la misma, brindan seguridad moral y jurídica al procedimiento alterno de resolución pacífica de conflictos con todas sus fases y técnicas de manejo, razón por la cual los principios fundamentales deberán entenderse y aplicarse en los siguientes términos:
 
-###### ARTÍCULO 13.
+I.- Neutralidad: Actitud encaminada a mantener bajo cualquier circunstancia una postura y mentalidad de autodominio de las propias inclinaciones o preferencias respecto del conflicto sometido a manejo.
 
-Los Titulares de las Dependencias de la Administración Pública Municipal, así como de sus subordinados, deberán desempeñar sus funciones con el debido esmero, eficacia, prontitud y honradez y vigilar que se cumpla con el adecuado mantenimiento que necesiten los bienes muebles e inmuebles que estén a su cago para el desempeño y funcionamiento de sus actividades.
+II.- Imparcialidad: Actitud libre de favoritismos, prejuicios o posturas particulares que beneficien o perjudiquen a una de las partes del conflicto en manejo.
 
-### CAPÍTULO CUARTO.-DE LA SECRETARIA DE FINANZAS Y TESORERÍA
+III.- Confidencialidad: Requisito indispensable para el manejo del conflicto con el compromiso de las partes de que todo lo actuado en el procedimiento alterno no pueda ser divulgado, ni utilizado en otras vías legales, salvo en los casos graves que pongan en peligro la integridad física de alguna de las partes y en los casos de violencia doméstica.
 
-###### ARTÍCULO 14.
+Este principio de confidencialidad es imperante tanto para las partes del conflicto, como para los servidores públicos encargados de la aplicación de la presente ley frente a terceros o cualquier autoridad, en función del sigilo profesional que la materia exige, no pudiendo fungir como testigos en ningún tipo de procedimiento jurisdiccional, ni revelar la información obtenida en la aplicación de los procedimientos alternativos de solución de conflictos.
 
-Los Titulares de las Dependencias de la Administración Pública Municipal, llevaran un control diario de asistencia e inasistencia de sus subordinados emitiendo el reporte al finalizar la jornada diaria de trabajo a la Secretaria del Ayuntamiento, para los efectos correspondientes; además de la que se establece en el artículo 4 del presente Reglamento, rendirán por escrito mensualmente al o la Presidente Municipal un informe de sus actividades, así como del avance y cumplimiento de las metas propuestas en los planes y programas que pera tal efecto se tengan.
+### CAPÍTULO II. Del Centro Estatal de Justicia Alternativa
 
-###### ARTÍCULO 15.
+###### Artículo 7.
 
-Los Titulares de las Dependencia de la Administración Pública Municipal, estarán obligados a proporcionar la información que otras Dependencias o Entidades del Gobierno Federal o Estatal lo soliciten, cuando así estén facultadas para ello.
+Se crea el Centro Estatal de Justicia Alternativa, como Órgano Desconcentrado del Poder Judicial del Estado, encargado de la aplicación de la presente ley con funciones no jurisdiccionales dado su carácter alterno a los medios ordinarios de justicia, caracterizado principalmente como un área específica para el manejo y resolución pacífica de los conflictos interpersonales en el ámbito socio-jurídico, bajo el principio de autonomía de voluntad, a través de los siguientes servicios:
 
-### CAPÍTULO QUINTO. DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO
+I.- Substanciación del procedimiento alterno voluntario contemplando todos los medios alternativos referidos en la presente ley según la naturaleza del conflicto de que se trate en función de la voluntariedad de las partes, que puede concluir en un acuerdo o convenio verbal o escrito o con el archivo del caso por alguna de las causas previstas.
 
-###### ARTÍCULO 16.
+II.- Proporcionar asistencia técnica y legal a aquellas personas que carecen de recursos para contratar abogados particulares, solo en aquellos casos de estricta necesidad que no impliquen litigio o controversia de derechos.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el Ayuntamiento se exiliará, por lo menos, de la Dependencia de la Administración Pública Municipal, siguientes:
+III.- Orientación Jurídica y Asesoría Verbal, a toda persona que lo solicite a fin de indicarle los derechos que le asiste y las instancias y autoridades ante las cuales puede ejercitar sus derechos o excepciones.
 
-Secretaría del R. Ayuntamiento.
+Para la prestación de los servicios antes descritos el Centro de Justicia Alternativa contará con tres áreas de atención específica, llamadas “de recepción de asuntos” encargada de radicar los expedientes, “de análisis y manejo de conflicto” encargada de ventilar lo establecido en la Fracción I, la “de ejecución y trámite administrativo” encargada de lo previsto en las Fracciones II y III, incluyendo la vía de apremio para el cumplimiento forzoso de los convenios realizados ante el Centro.
 
-Secretaría de Fianza y Tesorería.
+###### Artículo 8.
 
-Secretaría de Desarrollo Social y Humano.
+El Centro de Justicia Alternativa, tendrá su sede en la Capital del Estado con una Dirección Estatal como órgano rector de la misma y funcionará en los Municipios por medio de Delegaciones dependientes de aquella, mismas que se establecerán conforme lo demanden las necesidades de la población.
 
-Secretaría Particular deis Presidencia Municipal.
+El Centro de Justicia Alternativa atenderá gratuitamente los casos que le remitan los Jueces y tribunales o los Agentes del Ministerio Público en los términos previstos por esta ley, así como los conflictos que planteen directamente las partes en cualquier momento, siempre que se trate de bienes disponibles y no se afecten derechos de terceros.
 
-Dirección de Desarrollo Urbano y Ecología.
+### CAPÍTULO III. Integración y Funcionamiento
 
-Dirección de Obras Públicas.
+###### Artículo 9.
 
-Dirección de Policía y Tránsito.
+El Centro de Justicia Alternativa estará a cargo de un Director, quien se auxiliará del personal que designe el Consejo de la Judicatura del Poder Judicial del Estado, de conformidad con los requerimientos para su buen funcionamiento.
 
-Jefatura de Servicios Públicos Básicos y Alumbrados.
+Las Delegaciones del Centro de Justicia Alternativa habilitadas en los Municipios del Estado, tendrán una misma organización interna, con las facultades y atribuciones que la ley, su reglamento y lo que el propio órgano rector determine.
 
-Dirección de Asuntos Jurídicos.
+###### Artículo 10.
 
-Sistema Municipal pera el Desarrollo Integral de la Familia (DIF).
+La organización y funcionamiento del Centro de Justicia Alternativa, se regulará por lo que disponga la presente Ley, su reglamento interior, el manual procedimental y lo que en lo particular disponga el Pleno del Consejo de la Judicatura del Poder Judicial.
 
-### CAPÍTULO SEXTO. DE LA SECRETARÍA PARTICULAR DE LA PRESIDENCIA MUNICIPAL
+###### Artículo 11.
 
-###### ARTÍCULO 17.
+El Pleno del Consejo de la Judicatura designará al Director Estatal del Centro de Justicia Alternativa, quien deberá satisfacer los siguientes requisitos debidamente probados:
 
-Son Organismos Auxiliares de la Administración Pública Municipal, que dependen directamente del o la Presidente Municipal, las Unidades Municipales de Plantación, las Comisiones. Consejos, Fidecomisos y demás Unidades Administrativas que establezca el Ayuntamiento o el o la Presidente Municipal conforme a las leyes o los Reglamentos respectivos.
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-### CAPÍTULO TERCERO.
+II.- Tener cuando menos 30 años cumplidos el día de su designación.
 
-DE LA SECRETARIA DEL AYUNTAMIENTO.
+III.- Ser licenciado en Derecho con título y cédula debidamente registrados.
 
-###### ARTÍCULO 18.
+IV.- Tener estudios en la materia de métodos alternos de resolución pacífica de conflictos.
 
-El Ayuntamiento contará con una Secretaria que estará a cargo de un o una Titular denominado(a) Secretario(a) del Ayuntamiento quien será nombrado(a) conforme a lo establecido en el artículo 76 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+V.- Haber ejercido en el campo de la justicia alterna por un período no menor de tres años.
 
-###### ARTÍCULO 19.
+VI.- Ser de reconocida buena conducta y solvencia moral.
 
-La Secretaría del Ayuntamiento tendrá como atribuciones además de las establecidas en la Ley Orgánica de la Administración Pública Municipal, las siguientes:
+VII.- No Haber sido condenado por delito intencional.
 
-I.- Recibir, ordenar y turnar la correspondencia oficial del Gobierno Municipal, así como contestar y emitir la de su competencia y aquella que así lo disponga el o la Presidente Municipal.
+VIII.- Residencia mínima de 5 años en el Estado.
 
-II.- Coordinar y administrar la función de los Jueces Auxiliares en los términos de las leyes y reglamentos aplicables.
+IX.- (SIC)
 
-III.- Expedir las autorizaciones y permisos de conformidad con los Reglamentos vigentes.
+###### Artículo 12.
 
-IV.- Vigilar la correcta utilización de los espacios destinados a espectáculos, comercio ambulante, mercados sobre ruedas y el respeto a los reglamentos que regulan estas actividades a través de los Inspectores Municipales; y notificar a los interesados las resoluciones de carácter administrativo que se dicten con motivo de violaciones a las disposiciones de orden legal.
+Para los efectos jurídicos de estructura orgánica y presupuestal, que prevé la presente ley, el Centro de Justicia Alternativa como órgano desconcentrado dependerá estrictamente en términos administrativos del Pleno del Consejo de la Judicatura con independencia técnica y operativa en el ejercicio de sus funciones.
 
-V.- Administrar el o los panteón(es) municipal(es) y otorgar servicios de inhumación y exhumación gratuita a los habitantes del Municipio que por su precaria situación económica lo requieran.
+###### Artículo 13.
 
-VI.- Disponer la edición y publicación de la Gaceta Municipal.
+En el ejercicio de sus funciones, las autoridades del Centro de Justicia Alternativa, se auxiliarán de las autoridades estatales y municipales que pertenezcan al Sistema Estatal de Seguridad Pública.
 
-VII.- Compilar los documentos de archivo de los diferentes Secretarias, siendo la responsable del archivo municipal.
+### CAPÍTULO IV. De las Funciones del Centro
 
-VIII.- Expedir a través de la Junta Municipal de Reclutamiento, en coordinación con la Secretaría de la Defensa Nacional, las cartillas del servicio militar, así como realizar programas para exhortar a aquellas personas que no lo hayan realizado a que cumplan con tal obligación.
+###### Artículo 14.
 
-IX.- Recopilar los datos e informes necesarios para la preparación del Informe Anual del R. Ayuntamiento.
+El Centro de Justicia Alternativa, tiene como función principal, la resolución pacífica de los conflictos entre los particulares a través del diálogo asistido, a fin de que los vinculados al mismo reconozcan y valoren la importancia del entendimiento mutuo con miras al empoderamiento de sus decisiones, valiéndose de los siguientes medios:
 
-X- Supervisar y vigilar de común acuerdo con el o la Presidente Municipal, las funciones que realicen tanto el Comandante designado por la Dirección Estatal de la Policía Rural, como al Director de Policía y Tránsito municipal las aplicaciones del Reglamento de Policía y Buen Gobierno y demás disposiciones aplicables.
+I.- Personal Especializado en el manejo de los métodos alternativos de solución de conflictos llamados terceros facilitadores de la comunicación en el manejo del conflicto según la necesidad de los usuarios, asistiéndolos para que ambas partes formulen una solución adecuada a su conflicto;
 
-XI.- Expedir certificaciones, constancias, copias y credenciales.
+II.- Credibilidad de sus servicios basada en la confidencialidad a fin de evitar que lo actuado en esta materia pueda ser utilizado como medio de prueba en perjuicio de los propios interesados una vez concluida esta vía alterna salvo los casos de violencia intrafamiliar y aquellos que pongan en peligro la seguridad física de los implicados o menores o se trate de canalizaciones de juzgados;
 
-XII.- Vigilar que los establecimientos cumplan con los Reglamentos Municipales en materia de expendio de bebidas alcohólicas y demás disposiciones que sean competencia de esta Secretaría, aplicando en su caso las sanciones correspondientes.
+III.- Orientación y asistencia legal a aquellas personas que carecen de recursos para contratar abogados particulares, siempre y cuando se trate de asuntos que no impliquen contienda judicial;
 
-XIII.- Dirigir y coordinar los trabajos relativos al ordenamiento de los Asentamientos Humanos Irregulares en el Municipio.
+IV.- Promoción de los métodos alternativos de solución de conflictos para crear conciencia en el foro ciudadano y fomentar la cultura del diálogo en pro de la vida armónica y justa;
 
-XIV.- Dirigir y coordinar los trabajos y actividades que realice el Ayuntamiento con la Secretaria de Relaciones Exteriores.
+V.- Coordinación, organización y preparación del personal adscrito a dicho Centro en el área específica de su encargo, como especialistas y asistentes de ejecución y trámite encargados de la prestación de los servicios;
 
-### CAPÍTULO CUARTO.
+VI.- Desarrollo y administración del sistema de métodos alternativos de funcionamiento homogéneo en las Delegaciones habilitadas en el Estado, incluyendo la formación, capacitación, evaluación y monitoreo de las personas encargadas de la prestación de los servicios de la justicia alterna, de los cuales se llevara una estricta supervisión y un record anual de evaluación para mantener activa su habilitación; y
 
-DE LA SECRETARIA DE FINANZAS Y TESORERÍA.
+VII.- Difusión permanente de los métodos alternativos de solución de conflictos para su conocimiento y sensibilización institucional académica.
 
-###### ARTÍCULO 20.
+###### Artículo 15.
 
-La Secretaria de Finanzas y Tesorería estará a cargo de un o una Titular denominado(a) Secretario(a) de Finanzas y Tesorero(a), quien será nombrado(a) conforme a lo establecido en el artículo 76 de la Ley Orgánica de la Administración Pública Municipal, y que tendrá además de las facultades y obligaciones establecidas en dicho ordenamiento, las siguientes:
+El Centro de Justicia Alternativa, en el ejercicio de sus funciones tendrá legitimación para representar a las personas que asista, así como grupos de diversos sectores de la población, únicamente tratándose del procedimiento de ejecución de los acuerdos, convenios y trámites no jurisdiccionales.
 
-I. Recaudar o administrar conforme a lo autorizado por el Ayuntamiento y al Congreso del Estado, los ingresos que corresponden al Municipio de conformidad con la Ley de ingresos y la de Hacienda para los Municipios del Estado y demás normativas aplicables, así como los recursos provenientes de las participaciones que por Ley o convenio le correspondan al Municipio de los fondos Federales y Estatales.
+### CAPÍTULO V. Facultades y Obligaciones del Director Estatal
 
-II.- Vigilar el cumplimiento de las leyes, reglamentos y demás ordenamientos y disposiciones de carácter fiscal.
+###### Artículo 16.
 
-III.- Elaborar los proyectos de leyes, de reglamentos y demás disposiciones que se requieran para el manejo de los asuntos fiscales del Municipio, sometiéndolos a la consideración del o la Presidente municipal para su trámite.
+Son facultades y obligaciones del Director Estatal de Justicia Alternativa:
 
-IV.- Integrar y mantener actualizado el padrón municipal de contribuyentes.
+I.- Representar legalmente al Centro de Justicia Alternativa y ejercer sus facultades;
 
-V.- Mantener y fomentar las buenas relaciones entre la hacienda municipal y los contribuyentes, proporcionándoles la información que soliciten, así como la orientación y asesoría en cuanto al cumplimiento de sus obligaciones fiscales y resolver sus consultas.
+II.- Coordinar a los Delegados, especialistas, asistentes de ejecución y trámite, y demás personal que labore en el Centro de Justicia Alternativa;
 
-VI.- Celebrar convenios con los contribuyentes para el pago de las diversas contribuciones o para la celebración de obras conjuntas ya sea de carácter público o que por la naturaleza de la misma, sean de interés general, así como ejercer las atribuciones que le señalan las leyes fiscales del Estado.
+III.- Conducir el funcionamiento del Centro, vigilando el cumplimiento de sus objetivos; así como operar los programas de selección, ingreso, formación, capacitación, profesionalización y actualización de los servidores públicos adscritos al mismo;
 
-VII.- Celebrar convenios de coordinación con autoridades de los diversos niveles gubernamentales, así como con los particulares según lo prevenga la ley de la materia.
+IV.- Coordinar, de conformidad con el Reglamento Interno, las unidades de servicio, de apoyo y asesoría necesarias para el desarrollo de las funciones del Centro en el Estado;
 
-VIII.- Ejercer las atribuciones que le señalen las leyes fiscales vigentes en el Estado bajo un régimen de simplificación administrativa.
+V.- Celebrar toda clase de actos jurídicos que permitan al Centro el cumplimiento de sus objetivos;
 
-IX.- Planear e integrar, coordinadamente con las Dependencias y Órganos auxiliares de la Administración Municipal, los proyectos de presupuestos anuales de ingresos y egresos, a fin de presentarlos al ayuntamiento para su aprobación.
+VI.- Solicitar ante el Juez competente, a petición de la parte cumplidora, la ejecución de los acuerdos y convenios derivados de los procedimientos alternativos a efecto de garantizar la necesidad probada, así como la determinación de inejecución por causa probada;
 
-X.- Elaborar los estados financieros que de acuerdo a las leyes y reglamentos deben presentarse al Ayuntamiento, al Congreso del Estado, a la Comunidad o a cualquier Dependencia Oficial facultada para ello que lo requiera.
+VII.- Determinar la inejecución de los acuerdos y convenios por causa probada, cuando se trate de abuso de procedimiento alterno, violación de alguno de los principios rectores de la justicia alterna, cambio de circunstancias, incumplimiento doloso de compromisos y obligaciones, ánimo rijoso o causa análoga.
 
-XI.- Presentar mensual y trimestralmente al ayuntamiento para su aprobación los estados financieros que correspondan.
+VIII.- Informar trimestralmente al H. Consejo de la Judicatura del Poder Judicial sobre las actividades del Centro de Justicia Alternativa con cifras y datos incluyentes de las Delegaciones Municipales;
 
-XII.- Someter oportunamente a la revisión y aprobación del Congreso del Estado, los presupuestos de ingresos y egresos municipal en los términos de la Ley Orgánica de la Administración Pública para los Municipios del Estado.
+IX.- Supervisar los servicios que presten los Delegados, terceros facilitadores de la comunicación y asistentes técnico-legales en el desempeño de sus funciones, en la aplicación de los procedimientos alternos de solución de conflictos, así como el trato al público en general mediante encuestas de salida;
 
-XIII.- Administrar los egresos correspondientes a cada una de las diferentes partidas que afectan el presupuesto, así como la administración financiera de los programas de inversiones municipales, verificando el cumplimiento de las políticas de gasto y normatividad vigentes.
+X.- Emitir los acuerdos generales o de directriz necesarios en los asuntos de la competencia del Centro de Justicia Alternativa en el Estado, así como vigilar su cumplimiento;
 
-XIV.- Organizar y llevar la contabilidad del municipio y las estadísticas financieras del mismo, así como las de los órganos auxiliares, cuando los haya, cuya administración financiera recaerá en la autoridad municipal.
+XI.- Designar y coordinar al personal del Centro de Justicia Alternativa, sometiendo los nombramientos de los cargos de Delegación, departamentos o equivalentes a la aprobación del Consejo.
 
-XV.- Llevar el registro contable de la deuda pública municipal.
+XII.- Imponer las correcciones disciplinarias previstas en el Reglamento Interno y las que fueren necesarias para el buen funcionamiento del Centro;
 
-XVI.- Contratar e (sic) forma directa, las operaciones requeridas por el propio Municipio, referentes a contratos de crédito, y validar todos aquellos actos de (sic) comprometan financieramente a la Administración Municipal, apegándose a las políticas, normas y procedimientos de la Administración Municipal y a la legislación correspondiente.
+XIII.- Celebrar convenios con organismos públicos con características y funciones similares propias para coordinar y concertar acciones que le permitan cumplir con sus funciones con la anuencia del H. Consejo de la Judicatura del Poder Judicial;
 
-XVII.- Representar a la Administración Municipal ante fideicomisos y organismos de la administración pública dependientes del Estado de Nuevo León o de la Federación, donde se tramitan operaciones o en las que financieramente se puede beneficiar o afectar el patrimonio municipal.
+XIV.- Celebrar convenios con Asociaciones o Instituciones Académicas que permitan la captación de los futuros aspirantes al campo de la resolución pacífica de conflictos para su adiestramiento, como servicio social, previa la autorización del H. Consejo de la Judicatura del Poder Judicial;
 
-XVIII.- Coordinarse con la Comisión de Hacienda así como con otras comisiones del Ayuntamiento, apegándose a las disposiciones legales que establezcan las leyes y reglamentos.
+XV.- Proponer ante el Consejo de la Judicatura del Poder Judicial, el establecimiento de Delegaciones Municipales o Módulos de éstas del Centro de Justicia Alternativa en el interior del Estado;
 
-XIX.- Vigilar el estado que guardan los bienes patrimoniales del Municipio.
+XVI.- Establecer los mecanismos de difusión que permitan a la sociedad en general clarificar la diferencia existente entre la justicia ordinaria y la justicia alternativa;
 
-XX.- Participar en la celebración de los contratos de venta, permuta, donación, usufructo, así como de los de comodato y arrendamiento, mediante los cuales se otorgue a terceros el uso o goce de bienes inmuebles del dominio municipal, y administrar los mismos mediante el registro, para su control y cobro.
+XVII.- Representar al Estado ante los Organismos establecidos en relación con los métodos alternativos de solución de conflictos en donde esa representación se requiera; y
 
-XXI.- Custodiar los fondos, garantías de terceros y valores financieros del municipio.
+XVIII.- Las demás que le confieran las Leyes.
 
-XXII.- Supervisar el ejercicio de los presupuestos municipales aprobados.
+### CAPÍTULO VI. De las Delegaciones Municipales
 
-XXIII.- Cuidar que los empleados que manejan fondos y valores del municipio, caucionen debidamente su manejo, conforme a las leyes y reglamentos inherentes, o cuando así lo disponga el o la Presidente Municipal.
+###### Artículo 17.
 
-XXIV.- Establecer medidas de control respecto de los ingresos y egresos de los organismos, patronatos, juntas, comités o consejos que manejen recursos municipales.
+Atendiendo a la situación geográfica y poblacional del Estado, se establecen como Delegaciones Municipales del Centro de Justicia Alternativa, las ubicadas en los Municipios de Othón P. Blanco, Benito Juárez, Cozumel, Solidaridad, y las demás que según el requerimiento poblacional fueren necesarias.
 
-XXV.- Intervenir en coordinación con el Síndico Primero, en los juicios de carácter fiscal que se ventilen ante cualquier tribunal, en representación del erario, cuando tengan interés la Hacienda Pública Municipal, y (sic);
+###### Artículo 18.
 
-XXVI.- Manejar las cuentas bancarias del Municipio, tendiendo facultad en forma mancomunada con El o la Presidente Municipal para emitir los títulos de crédito necesarios para el ejercicio del gasto municipal, con apego a lo dispuesto en el presupuesto de egresos y en las demás leyes de la materia.
+El Consejo de la Judicatura mediante propuesta del Director del Centro de Justicia Alternativa, determinará la habilitación e instalación de las Delegaciones Municipales según la justificación y soporte correspondiente, existiendo la posibilidad de establecer módulos de atención en las poblaciones o instituciones que así lo requieran.
 
-XXVII.- Elaborar con la debida anticipación la nómina quincenal del personal de la planta administrativa y de base, aplicando demás los ajustes de incrementos salariales, en base a la determinación establecida por el Ayuntamiento.
+###### Artículo 19.
 
-### CAPÍTULO QUINTO.
+El Delegado Municipal, deberá cubrir los mismos requisitos que el Director Estatal, con excepción de la edad y la experiencia, que para el caso concreto deberá ser de 28 años cumplidos al día de su designación, con experiencia mínima de dos años en el manejo de los métodos alternativos de solución de conflictos.
 
-DESARROLLO SOCIAL Y HUMANO.
+###### Artículo 20.
 
-### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE DESARROLLO URBANO Y ECOLOGÍA
+Son facultades y obligaciones del Delegado Municipal del Centro de Justicia Alternativa, las siguientes:
 
-###### ARTÍCULO 21.
+I.- Atender y diligenciar todo lo relativo al desempeño de su función;
 
-La Secretaria de Desarrollo Social y Humano Municipal, será dirigida por un titular denominado Secretario de Desarrollo Social y Humano, quien será nombrado por el o la Presidente Municipal, y es la Dependencia encargada de planear y dirigir las actividades educativas, actos cívicos, culturales, recreativos, deportivos, los relacionados con la salud y aquellas que propicien el desarrollo social y humano, así como administrar los programas de Infraestructura Social y Fortalecimiento Municipal, teniendo las funciones siguientes:
+II.- Vigilar el debido cumplimiento de los objetivos del programa de Justicia Alternativa a través de la coordinación del personal asignado a su cargo dentro de su competencia;
 
-I.- Participar en coordinación con las dependencias competentes en materia de salud, en campañas nacionales y estatales de prevención de enfermedades.
+III.- Realizar los actos jurídicos necesarios que permitan el cumplimiento de los objetivos del Centro de Justicia Alternativa en el área de su competencia;
 
-II.- Dirigir el servicio que proporcione la Cruz Verde, el Centro Antirrábico y coordinar los esfuerzos que en conjunto realice el Departamento de Salud Municipal con el sector de Salud del Estado.
+IV.- Solicitar ante el Juez competente, a petición de la parte cumplidora, la ejecución de los acuerdos y convenios derivados de sus funciones;
 
-III.- Atender las situaciones que pongan en riesgo la salud de la comunidad cuando así le corresponda.
+V.- Informar al Director Estatal de Justicia Alternativa de las actividades de su jurisdicción en forma mensual dentro los primeros cinco días de cada mes;
 
-IV.- Promover y realizar distintas actividades educativas, culturales, cívicas y recreativas.
+VI.- Llevar a cabo los procedimientos alternativos bajo la forma de mediación, conciliación, por si mismo o por delegación en algún subalterno, de conformidad con el Reglamento Interno;
 
-V.- Organizar actividades artísticas, ferias, certámenes, concursos, representaciones teatrales y eventos científicos de interés general.
+VII.- Emitir las determinaciones necesarias en los asuntos de su competencia, así como vigilar su cumplimiento;
 
-VI.- Coordinar y organizar desfiles cívicos, atléticos y eventos municipales de índole deportivo y organizar las actividades tendientes a elevar el nivel deportivo de la comunidad.
+VIII.- Plantear a la Dirección Estatal los requerimientos del personal y demás necesidades internas en su adscripción;
 
-VII.- Administrar los programas de otorgamiento de becas a los estudiantes de escasos recursos, con el fin de apoya su educación y superación.
+IX.- Llevar a cabo las funciones encomendadas por el Director Estatal, asumiendo los compromisos inherentes a su competencia;
 
-VIII.- Apoyar y promover la Participación de la juventud en actividades propias para ella.
+X.- Poner en conocimiento del Director Estatal, cualquier eventualidad surgida en relación con el desempeño de sus funciones con la finalidad de mantener la unificación de criterios y servicio de calidad homogéneo;
 
-IX.- Administrar los programas de Infraestructura Social y Fortalecimiento Municipal en materia de obra pública. Así como los destinados al estimulo a la educación básica.
+XI.- Participar activamente en las reuniones de trabajo calendarizadas por la Dirección; y
 
-X. La demás que las leyes y reglamentos le confieran.
+XII.- Las demás que les confiera la Ley.
 
-### CAPÍTULO SEXTO.
+### CAPÍTULO VII. Del Procedimiento Alternativo
 
-SECRETARÍA PARTICULAR DE LA PRESIDENCIA MUNICIPAL.
+###### Artículo 21.
 
-###### ARTÍCULO 22.
+El procedimiento alternativo iniciará por determinación de autoridad o a solicitud del interesado, con citación de personas por él referidas siempre y cuando tengan relación con el conflicto planteado y capacidad para obligarse, propiciándose una audiencia conjunta en salvaguarda de la garantía de audiencia e igualdad de oportunidades. En el supuesto de que la solicitud sea formulada simultáneamente por los involucrados en el conflicto en ese mismo acto, será llevada la audiencia correspondiente con la aplicación del procedimiento alternativo según el caso con miras a la resolución del conflicto.
 
-El o la Presidente Municipal, designará al o la Jefe de su Oficina y tendrá como funciones la de coordinar las actividades de comunicación e imagen de la Administración Pública Municipal, así como atender al público en general, teniendo además como facultades, las siguientes
+###### Artículo 22.
 
-I.- Auxiliar al o la Presidente Municipal en la audiencia pública.
+En caso de inasistencia de la persona citada o negativa de ésta para someterse al procedimiento interno previsto en la presente ley, se le brindará orientación jurídica a la parte que acudió o que se sometió voluntariamente a los procedimientos del Centro, respecto de las acciones que pudiere promover ante la autoridad o tribunales competentes, siempre que se trate de personas que carezcan de recursos para contratar abogados particulares, sin que ello implique obligación para el Centro de tramitar procedimiento jurisdiccional contencioso alguno por ser incompatible con la naturaleza pacífica de la vía alterna.
 
-II.- Diseñar la estrategia de comunicación social y difundir las actividades del Gobierno Municipal.
+###### Artículo 23.
 
-III.- Fortalecer los vínculos del Gobierno Municipal con la comunidad editando y publicando los programas de gobierno, sus avances y resultados.
+Todas las diligencias realizadas ante el Centro serán agregadas al expediente único en original de control interno con anuencia de los interesados, del cual el personal del Centro que en él intervenga no está facultado para revelar bajo secreto profesional, y está impedido para fungir como testigo a favor de alguna de las partes, salvo tratándose de violencia intrafamiliar o delito grave.
 
-IV.- Recabar la información publicada por todos los medios de comunicación, elaborando un análisis de la misma y haciendo las aclaraciones cuando se considere pertinente.
+#### SECCIÓN I. De la Audiencia y sus Efectos
 
-V.- Mantener relaciones con los medios masivos de comunicación, coordinando las ruedas de prensa y canalizando los boletines del Gobierno Municipal.
+###### Artículo 24.
 
-VI.- Auxiliar a la Secretaria del Ayuntamiento en le preparación del Informe Anual.
+En caso de asistencia de ambas partes y previa la firma del compromiso voluntario de sometimiento a la presente ley de naturaleza alternativa con conocimiento cierto de lo que ello implica, se llevará a cabo la audiencia correspondiente pudiendo ser diferida o efectuada en dos o más sesiones según la voluntad de las partes y la necesidad del caso.
 
-VII.- Las demás atribuciones que le designe el o la Presidente Municipal.
+En la tramitación de los asuntos regirá siempre el principio de flexibilidad, que permite establecer reglas particulares para cada caso, llevándose cuenta en el expediente del avance y naturaleza del mismo.
 
-### CAPÍTULO SÉPTIMO.
+###### Artículo 25.
 
-DESARROLLO URBANO Y ECOLOGÍA.
+Clarificadas las partes en el rol del servidor público que como facilitador de la comunicación interviene en el manejo de su conflicto y entendidas las bases y principios del procedimiento, iniciará la narrativa del conflicto con la validación de emociones correspondientes a fin de que el servidor público identifique las necesidades de los interesados y pueda asistirlos mediante la aplicación de procedimiento específico.
 
-###### ARTÍCULO 23.
+###### Artículo 26.
 
-Esta Dependencia Municipal estará a cargo de un titular nombrado por el o la Presidente Municipal, formando parte de la Secretaria de Obras públicas, y tendrá como encargo regular y ordenar el crecimiento urbano del municipio, la protección al medio ambiente, y tendrá, además de las que le señalen las diversas disposiciones legales, las facultades y obligaciones siguientes:
+El convenio o el acuerdo al que en su caso lleguen los interesados deberá contener la manifestación personal de sus declaraciones y clausulado correspondiente, con cláusula de ejecución dado el carácter definitivo que le otorga la presente ley con valor de cosa juzgada, firmándolo como resolutores ante la presencia del funcionario y del servidor público habilitado para el caso.
 
-A.- En materia de Desarrollo Urbano:
+###### Artículo 27.
 
-I.- Atender como eje del desarrollo urbano, los lineamientos generales contenidos en el Plan Municipal de Desarrollo Urbano vigente en el municipio, así como lo establecido en los reglamentos aplicables en esta materia.
+Cuando se sostenga cada uno en su postura, habiéndose agotado ya las etapas del procedimiento alternativo de solución de conflictos según sea el caso, se declarará la imposibilidad de continuar con el mismo dada la ausencia de voluntad conjunta archivándose el expediente por negativa de partes, sin perjuicio de la reapertura del mismo para el caso de que los interesados por voluntad propia regresaren a solicitarlo.
 
-II.- Aplicar las normas técnicas de desarrollo urbano, para el adecuado aprovechamiento del suelo, construcciones, de seguridad y la Infraestructura, determinando las características, densidades y requerimientos de construcción.
+###### Artículo 28.
 
-III.- Identificar, declara y conservar zonas, edificaciones o elementos con valor histórico o cultural, de acuerdo con las leyes y reglamentos vigentes en la materia.
+Los convenios y acuerdos celebrados ante el Centro de Justicia Alternativa serán definitivos, no admitirán recurso alguno por provenir de la propia voluntad de las partes sin resolución de autoridad alguna por lo que tendrán la categoría de cosa juzgada por ministerio de Ley, con valor equiparado al de una sentencia ejecutoriada. Su cumplimiento se solicitará, en caso necesario, ante el Juez competente en la vía de apremio o ejecución de sentencia.
 
-IV.- Proponer al Ayuntamiento los convenios de construcción y asistencia técnica con las entidades y organismos e instituciones federales, estatales o municipales que apoyen los planes de desarrollo urbano; de vialidad y de transporte, ecológico y de protección ambiental; de regulación de la tenencia de la tierra urbana, así como ejecutar las acciones derivadas de ellos.
+###### Artículo 29.
 
-V.- Participar en la promoción de las reservas territoriales públicas para vivienda popular, infraestructura áreas verdes, cuidado del ambiente, así como la ordenación y regularización de los asentamientos humanos irregulares en coordinación con le Secretada del Ayuntamiento.
+Las controversias que admitan conciliación, iniciadas con la demanda ante el juez competente, podrán ventilarse ante el Centro de Justicia Alternativa, por determinación judicial o a petición del demandado, remitiendo el juez de la causa al titular del Centro, el oficio indicativo para que dentro del término de quince días hábiles intente la conciliación o mediación del caso correspondiente y remita el informe así como el convenio en caso de que lo hubiera, para los efectos de lo dispuesto en el artículo 258 del Código de Procedimientos Civiles vigente en el Estado. Sin que el juez remisor pueda alterar o modificar el convenio celebrado dado el carácter de definitivo que le confiere el artículo 28 de la presente ley en base al procedimiento alternativo aplicado.
 
-VI.- Realizar los levantamientos necesarios, para la cartografía del municipio, mantenerla actualizada y difundirla.- Realizar los censos necesarios para la obtención y registro de los recursos naturales e infraestructura.
+Los conflictos del orden penal que puedan someterse a algún procedimiento alternativo, podrán ventilarse ante el Centro de Justicia Alternativa en términos de lo dispuesto en los párrafos segundo y tercero del Artículo 84 del Código de Procedimientos Penales del Estado, debiendo el Titular de dicho Órgano enviar el informe de resultados o el convenio en su caso, al órgano remisor en un plazo no mayor a quince días.
 
-VII.- Ejecutar las atribuciones que en materia de planificación, control, ordenamiento, vigilancia y regulación del desarrollo urbano y de preservación del equilibrio ecológico y de protección ambiental, consignan a favor de los municipios, la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 132 de la Constitución Política del Estado de Nuevo León, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado y la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley Estatal de Protección al Medio Ambiente y Equilibrio Ecológico y demás disposiciones legales.
+En caso de que acepten dirimir su conflicto mediante algún procedimiento alternativo con la comparecencia de las partes ante el centro, deberá aplicarse el enfoque de la justicia restaurativa en la amplitud de sus beneficios.
 
-VIII.- Aplicar y vigilar los reglamentos y demás disposiciones municipales sobre uso de suelo, construcciones, fraccionamientos, subdivisiones, parcelaciones, fusiones, estacionamientos y demás materias que regulan.
+#### SECCIÓN II. De la Ejecución
 
-IX.- Autorizar y dar seguimiento al desarrollo de proyectos municipales de edificaciones, obras públicas y de espacios urbanos.
+###### Artículo 30.
 
-X.- Recibir y tramitar la expedición de todo tipo de licencias en materia de desarrollo urbano.
+Cuando las partes han suscrito convenio satisfactorio a sus intereses y uno de los dos incumpliera con algunos de los compromisos adquiridos u obligaciones pactadas, la parte cumplidora solicitará mediante comparecencia ante el Centro, se inicien los trámites de ejecución de convenio, manifestando el incumplimiento, enviándose citatorio único para audiencia de esclarecimiento de causas.
 
-XI.- Realizar inspecciones a obras públicas o privadas.
+En ningún caso podrá el interesado ejecutar por sí mismo el convenio celebrado ante el centro y sí en el ejercicio libre de su derecho, acciona la justicia ordinaria no podrá hacer uso del convenio referido por implicar la renuncia tácita a la ejecución que como garantía de efectividad, le otorga el proceso alterno.
 
-XII.- Previa revisión da la Comisión respectiva y aprobación del R.- Ayuntamiento podrá autorizar y recibir todo tipo de fraccionamientos por parte del municipio, de acuerdo con lo establecido con le Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, el Plan Municipal de Desarrollo y demás disposiciones legales aplicables.
+###### Artículo 31.
 
-XIII.- Dictar las resoluciones administrativas, autorizando o negando las licencias a que se refieren las fracciones XVI, XVII Y XVIII del artículo 12 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.- Contestar en coordinación con la Dirección de Asuntos Jurídicos, toda demanda en la cual se le señale coma autoridad emisora del acto administrativo impugnado.
+En caso de que la parte incumplidora no se apersone a la audiencia programada por incumplimiento, el expediente relativo será turnado al área de ejecución y trámite administrativo para que previa citación específica en salvaguarda de la garantía de audiencia, se formule la demanda de ejecución de convenio y se presente ante Juez competente para el cumplimiento forzoso del mismo.
 
-XIV.- Realizar inspecciones de fallas técnicas de obras, con el propósito de dictar medidas de seguridad.
+Para el caso de que ambos interesados comparecieran a la audiencia programada y atendiendo a la clarificación de razones de incumplimiento, podrá generarse la modificación o confirmación de los compromisos adquiridos para continuar con el cumplimiento de los mismos.
 
-XV.- Atender todo tipo de denuncias sobre uso de suelo, construcciones, fraccionamientos, daños al medio ambiente y otros asuntos de esta competencia.
+#### SECCIÓN III. De los Turistas y Adolescentes
 
-XVI.- Asignar los números oficiales a predios y edificaciones.
+###### Artículo 32.
 
-XVII.- Fijar los alineamientos viales en todas las autorizaciones que se expidan en esta dependencia.
+Atendiendo a la región natural geográfica del Estado, cuya esencia es de proyección turística, se establece que el término de visitante a que se refiere el Artículo Primero de la presente ley, se aplique a todo turista sea nacional o extranjero que durante su estadía en esta Entidad pudiera resultar involucrado en algún tipo de conflicto que no transgreda normas superiores, bien sea con otro turista o con un ciudadano quintanarroense.
 
-XVIII.- Revisar y dictaminar el impacto vial de nuevas edificaciones y desarrollos, señalando las obras viales requeridas.
+###### Artículo 33.
 
-XIX.- Incorporar al uso del suelo urbano, así como fijar las reservas de crecimiento, en las tierras de las copropiedades rurales colindantes con la cabecera municipal.
+Para los efectos del artículo anterior, el Centro de Justicia Alternativa como órgano aplicador de la presente ley, brindará en igualdad de oportunidades los servicios y beneficios de la misma a favor de aquellos, con la simple solicitud del turista que así acredite con identificación básica, dicho carácter.
 
-B.- En Materia de Equilibrio Ecológico y Protección al Ambiente:
+###### Artículo 34.
 
-I.- Coadyuvar en la preservación de los recursos naturales y la calidad del medio ambiente en el municipio, a través de una política ambiental que asegure un desarrollo sustentable.
+Para el caso de que la estadía en esta Entidad no coincida con los términos mínimos fijados por la presente ley para el manejo de los conflictos, se establece que podrá seguirse conociendo el caso por cualquiera de los medios electrónicos de comunicación conocidos, pudiendo verificarse las audiencias de mediación, conciliación o lo que resulte, a distancia siempre y cuando se mantenga el vinculo voluntario entre las partes en conflicto, debiendo los implicados proporcionar los datos de localización, cuentas de correo electrónico u otro análogo en satisfacción de los fines aquí establecidos.
 
-II.- Elaborar el diagnóstico ambiental del municipio, defendiendo la problemática y sus cansas, proponiendo y aplicando las acciones correctivas pertinentes.
+###### Artículo 35.
 
-III.- Vigilar, prevenir, controlar y aplicar las medidas de seguridad y sanciones que sean necesarias en lo concerniente e la ecología y protección al ambiente del municipio, de acuerda a las leyes, lineamientos y reglamentos vigentes.
+Dada la extrema flexibilidad del caso especial que se plantea, el contenido de los acuerdos y convenios deberá ser de cumplimiento inmediato o a corto plazo, a fin de no desvirtuar la seguridad jurídica que otorga a los firmantes del mismo la propia naturaleza de cosa juzgada, cuidándose en todo momento la debida interpretación, entendimiento y traducción de perito correspondiente para la satisfacción mutua de los firmantes.
 
-IV.- Elaborar, coordinar y difundir planes, programas y reglamentaciones ecológicas, de protección y cultura ecológica, tales como la reforestación, manejo adecuado de residuos sólidos, administración y vigilancia de áreas naturales protegida promoviendo la participación ciudadana.
+###### Artículo 36.
 
-V.- Vigilar que se cumplen las normas ambientales ecológicas en relación con el desarrollo urbano, tanto en las obras públicas o privadas, establecidas en las leyes decretos y reglamentos de la materia.
+Cuando en el conflicto planteado intervengan adolescentes extranjeros, el manejo del mismo deberá ser por conducto de los padres, tutores o representantes legales con quienes se encuentren de visita en esta Entidad, pero si se tratare de un adolescente nacional o quintanarroense, éste será escuchado en la audiencia correspondiente independientemente de la responsabilidad que por cuanto a la reparación de daños asumieran sus progenitores, tutor o quien legalmente lo represente.
 
-VI.- Promover y realizar estudios que conduzcan al conocimiento de las características ecológicas del municipio para implementar modelos adecuados para el manejo de los recursos naturales.
+###### Artículo 37.
 
-VII.- Revisión de estudios de impacto ambiental para nuevos desarrollos o edificaciones.
+Para los efectos de aplicación de la presente ley, en función de las faltas o conflictos en que se vean involucrados adolescentes, el Centro de Justicia Alternativa habilitará días y horas, a fin de no retrasar los procedimientos específicos de la Ley que rigen los procedimientos especiales en esa materia, aplicando los procedimientos alternativos de solución de conflictos con audiencias separadas, escuchando primero al que haya solicitado o aceptado estos métodos con citación de la otra parte o audiencia posterior con la misma para el manejo de emociones y clarificación de posiciones.
 
-VIII.- Autorizar la licencia y llevar el control de todo tipo de anuncios y carteleras panorámicas y similares, apegándose a la reglamentación vigente.
+###### Artículo 38.
 
-### CAPÍTULO OCTAVO.
+Realizado lo anterior, el Centro de Justicia Alternativa deberá realizar audiencia con los familiares tanto de quien recibió el impacto de la falta, como de quien la cometió, con intervalo de momentos para los mismos efectos, a fin de reunirlos en una sola audiencia conjunta en la que se intente respetando las necesidades e intereses de cada parte, encontrar el común acuerdo por consenso de los participantes que construyan una solución en forma incluyente en el que se alcance no sólo el resarcimiento de los daños causados sino la revalorización del sentido humano tanto de unos como de otros.
 
-OBRAS PÚBLICAS.
+###### Artículo 39.
 
-###### ARTÍCULO 24.
+Para el tratamiento de este tipo de casos, el Director o el Delegado del Centro de Justicia Alternativa en su caso, deberá abordar personalmente en su primera etapa el procedimiento alternativo de solución de conflictos para cerciorarse de la clarificación de la información y la manifestación libre de la anuencia de voluntad de los participantes, pudiendo para la segunda etapa asistirse de cualquiera de los especialistas de su adscripción, firmando en éste y en todos los casos los documentos legales pertinentes en cumplimiento de lo que así le exigiere la ley de justicia para adolescentes vigente en el Estado.
 
-Obras Públicas Municipales será dirigida por un titular, nombrado por el o la Presidente Municipal, encargado de planear, presupuestar, contratar, ejecutar y controlar las obras públicas, ya sean promovidas por la Administración Municipal, por los vecinos, por cooperación o con apoyo del gobierno del Estado o la Federación, así como de la prestación de los servicios públicos municipales asignados y tendrá, además de las que le señalen las diversas disposiciones legales, las facultades y obligaciones siguientes:
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
 
-I.- Planear, promover y ejecutar la obra pública municipal, así como la asignada por el Estado o la Federación, previa autorización del Ayuntamiento.
+### CAPÍTULO VIII. DE LOS MECANISMOS DE LA JUSTICIA RESTAURATIVA ANTE EL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
-II.- Elaborar diseños conceptuales, ingeniería básica, anteproyectos, estudios de ingeniería, de detalle, proyectos ejecutivos, presupuestos.- así como la licitación y contratación de la obra pública.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-III.- Participar en le elaboración o coordinación de los proyectos de ampliación, rehabilitación, mantenimiento o introducción de agua potable, drenaje sanitario y pluvial, gas, energía eléctrica, alumbrado, telefonía y otros.
+###### Artículo 40.
 
-IV.- Promocionar y coordinar la realización de obras por cooperación de vecinos interesados de acuerdo a lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Humano del Estado.
+La justicia penal restaurativa, tendrá como finalidad la salida alternativa al proceso penal en virtud del cual se puede extinguir la acción penal tratándose de delitos culposos, aquellos perseguibles por querella, los de contenido patrimonial cometidos sin violencia y aquellos en los que admitan la sustitución de sanciones o condena condicional, procederá la conciliación entre víctima e imputado cuando exista el interés de someter el conflicto a un procedimiento alternativo o modo simplificado de terminación del proceso, que culmine en un acuerdo reparatorio prestado en forma libre y voluntaria y sea aprobado por el Juez de Control. Serán aplicables en lo conducente, las disposiciones previstas en el Título Séptimo del Código Procesal Penal del Estado.
 
-V.- Planear, promocionar, ejecutar, controlar y evaluar la aplicación de los programas de Infraestructura Social y Municipal y demás programas federales o estatales en materia de obra pública.
+Se exceptúan de esta disposición, los homicidios culposos y los delitos en donde su comisión implique violencia familiar.
 
-VI.- Diseñar, presupuestar y programar la ejecución de las obras de:
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-a). Pavimentación o recarpeteo de calles y avenidas.
+###### Artículo 41.
 
-b). Puentes e Infraestructura vial.
+El procedimiento ante el Centro dará comienzo con la canalización inicial documentada por la autoridad remisora. Esta contendrá: una descripción breve de los datos esenciales del hecho planteado, los nombres, domicilios y en su caso teléfonos de los involucrados en el asunto.
 
-c). Pasos peatonales.
+Durante la etapa preliminar o de averiguación previa y hasta antes de la resolución de apertura a juicio, las partes implicadas en el delito podrán optar por la conciliación, como forma anticipada de terminación del conflicto.
 
-d). Drenaje pluvial.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-e). Servicios de agua, gas, drenaje sanitario, energía eléctrica y alumbrado.
+###### Artículo 42.
 
-f). Edificaciones en sus diferentes géneros tanto públicos, habitacionales, salud o de cualquier otra naturaleza.
+El funcionario público asignado procederá de inmediato a elaborar la citación a la persona o personas contra quien o quienes se presenta la denuncia o querella, a efecto de que comparezcan a la audiencia inicial correspondiente, informándole la fecha, lugar, y hora señaladas.
 
-g). Plazas parques, jardines y áreas abiertas.
+Si quien haya sido citado manifiesta su negativa para participar en el medio alternativo, se informará de inmediato a la autoridad competente que corresponda, y se mandará el asunto al archivo de reserva. Después de archivado el caso por la causa señalada, si posteriormente persiste el interés de las partes involucradas, se reabrirá y se señalará día y hora para la audiencia.
 
-VII.- Supervisar las obras que se realicen, constatando la calidad de los de materiales, normas y procedimientos de construcción e impacto, establecidos en los contratos respectivos.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-VIII.- Controlar el costo y desarrollo de las obras, dando seguimiento a los programas de construcción y erogaciones presupuestales establecidos en los contratos respectivos.
+###### Artículo 43.
 
-IX.- Dar seguimiento y finiquitar los contratos de obra pública que se celebren con los contratistas o con otras dependencias.
+En las audiencias estarán presentes e intervendrán únicamente los interesados; cuando éstos sean personas morales, comparecerán a través de su legítimo representante.
 
-X.- Vigilar y controlar los presupuestos de obra con apego a las asignaciones de recursos aprobados.
+Tratándose de menores, éstos deberán ser representados por quien ejerza la patria potestad, tutor, curador o en su defecto, por el Oficial de Menores de Edad, dependiente de la Procuraduría de la Defensa del Menor y la Familia del Estado; así como el personal del Centro.
 
-XI.- Aplicar y vigilar el apego a lo dispuesto por la Ley de Obras Públicas para el Estado y Municipios del Restado (sic) de Nuevo León y su reglamento, así como la Ley Federal de Adquisiciones y Obras Públicas en el caso de que esta sea aplicable, en lo referente a las bases de contratación de las obras a ejecutar.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
 
-XII.- Llevar el control de archivo técnico y estadístico de planos y obras, y en general de todas las actividades relacionadas con las obras públicas del Municipio, incluyendo las concentraciones que se realicen con otras instituciones, remitiendo copia de dichos archivos a la Dirección de Patrimonio o en su caso a la Secretaría de Finanzas y Tesorería Municipal.
+#### SECCIÓN I. DE LOS ACUERDOS O CONVENIOS
 
-XIII.- Brindar apoyo técnico en materia de obra pública a aquellas dependencias municipales que así lo requieran.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-XIV.- Elaborar programas de diseño y construcción para la operación de proyectos municipales, normas de edificación, parques, jardines y estacionamientos.
+###### Artículo 44.
 
-XV.- Brindar apoyo pera la planeación y administración de áreas y espacios ocupados por la Administración Municipal.
+El acuerdo o convenio con el que concluya el procedimiento alternativo, se redactará por el personal especializado designado y deberá contener los siguientes requisitos:
 
-XVI.- Participar en la determinación de valores catastrales de los predios ubicados en el Municipio.
+l. El lugar y la fecha de su celebración;
 
-### CAPÍTULO NOVENO.
+II. Los nombres y generales de los interesados. Tratándose de representación legal de alguna persona física o moral, se harán constar los documentos con los cuales se haya acreditado tal carácter;
 
-SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD.
+III. El nombre del funcionario Público que intervino en el mecanismo implementado;
 
-###### ARTÍCULO 25.
+IV. Un capítulo de declaraciones, si se considera necesario;
 
-Seguridad Pública, Tránsito y Vialidad, estará a cargo de un Director, nombrado por el o la Presidente Municipal, encargado de mantener y vigilar el orden publico dentro del Municipio, así como de instrumentar el adecuado y permanente flujo vehicular con el propósito fundamental de proporcionar seguridad y tranquilidad a la población que habite o transite en el Municipio, y tendrá como funciones, además de las que sean otorgadas por la diversas leyes y reglamentos de la materia las siguientes
+V. Una descripción precisa, ordenada y clara del convenio celebrado por los interesados, estableciendo las condiciones, términos, fecha y lugar de cumplimiento;
 
-I.- Administrar y dirigir el estado de fuerza de los cuerpos de seguridad pública y los de tránsito y vialidad del municipio y emitir los manuales de procedimientos y disposiciones relacionadas con la operación y funcionamiento de los mismos.
+VI. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar,
 
-II.- Vigilar la correcta observancia cumplimiento de los reglamentos de Policía y Buen Gobierno, de Tránsito y los que dispongan las demás leyes federales y estatales en materia de protección y seguridad para la población que habite o transite en el Municipio.
+VII. La firma del funcionario público que intervino;
 
-III.- Aplicar las sanciones que correspondan en caso de incumplimiento o violaciones a los reglamentos de tránsito y el de policía y buen gobierno.
+VIII. El señalamiento expreso de los efectos del incumplimiento; y
 
-IV.- Implementar programas preventivos y correctivos y adoptar las medidas necesarias para la exposición del orden público, que garantice la tranquilidad y paz de los habitantes del Municipio, así como de las personas que en el transite, debiendo proteger su integridad física y patrimonio, auxiliándose para ello quien los casos que así lo requieran, de los servicios de vigilancia organizada y contratada por los vecinos del municipio, quienes deberán desarrollar sus actividades con apego a las políticas establecidas por esta dirección
+IX. El convenio deberá ser aprobado por la Dirección Estatal, reconociéndolo legalmente, si no ha habido la denuncia o querella respectiva, una vez que inició el procedimiento penal, por el Juez de Control.
 
-V.- Administrar y difundir los sistemas de auxilio en casos de emergencias, así como la dirección y administración de la unidad responsable de protección civil municipal.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-VI.- Cuando exista, dirigir y administrar la academia de Policía y Tránsito Municipal.
+###### Artículo 45.
 
-VII.- Auxiliar todo lo referente a seguridad pública, a las autoridades federales, estatales responsables de la procuración de justicia y seguridad pública.
+El trámite de los mecanismos alternativos ante el personal del Centro concluirá:
 
-VIII.- Mantenerse al día en cuanto a tecnología destinada a la prevención y erradicación del crimen y aplicarla en la medida de las posibilidades
+I. Por convenio en donde se establezca la forma de resolver el conflicto;
 
-IX.- Aplicar las disposiciones y sanciones contenidas en el Reglamento Interno de esta Dirección.
+II. En caso de que alguno de los interesados realice un comportamiento irrespetuoso o agresivo y no pueda superarse esa situación;
 
-### CAPÍTULO DÉCIMO.
+III. Por decisión de uno de los interesados;
 
-SERVICIOS PÚBLICOS PRIMARIOS Y ALUMBRADO PÚBLICO.
+IV. Por dos inasistencias de los interesados;
 
-###### ARTÍCULO 26.
+V. Por la negativa de los interesados para la suscripción del acuerdo en los términos de la presente Ley; con salvedad de lo previsto en el segundo párrafo parte in fine del artículo 42 de esta ley;
 
-La Jefatura de Servicios Públicos Básicos (primarios), estará e cargo de un titular, quién será nombrado por el o la Presidente Municipal, y tendrá les siguientes facultades y atribuciones:
+VI. Por resolución del director o de los delegados habilitados en los Municipios del Estado, cuando de la conducta de los interesados se desprenda que no hay voluntad para llegar a un arreglo; y
 
-I.- Llevar a cabo el servicio de limpieza y conservación de las plazas, parques y jardines, así como la limpieza de avenidas, calles, pasos peatonales, pasos a desnivel, acotamientos y callejones.
+VII. Por perdón del ofendido una vez que se haya reparado el daño.
 
-II.- Realizar la recolección de la basura domiciliaria, programando rutas y horarios para un servicio adecuado, así como el confinamiento de los desechos.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
 
-III.- Recoger animales muertos en las vías públicas, parques y jardines, así mismo realizar la limpieza en predios particulares, mediante el cobro del servicio.
+#### SECCIÓN II. DE LOS INTERESADOS
 
-IV.- Distribuir el agua potable a zonas y colonias marginadas.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-V.- Operar y mantener en buen estado los circuitos de alumbrado público, así como las instalaciones eléctricas de edificios municipales.
+###### Artículo 46.
 
-VI.- Mantener limpios los ductos de drenaje pluvial.
+Los interesados en los mecanismos alternativos, son las probables victimas u ofendidos y el imputado. Cuando aquellas sean personas morales, comparecerán a través de su legítimo representante. Tratándose de menores, éstos deberán ser representados por quien ejerza la patria potestad, tutor, curador o en su defecto, por el Oficial de Menores de Edad, dependiente de la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo.
 
-VII.- Brindar el servicio de mantenimiento preventivo y correctivo menor a los vehículos municipales para el correcto desempeño de sus actividades.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-VIII.- Coordinar los trabajos de recolección de basura con el concesionario, particulares o empresas, si los hay, que se dediquen a esta actividad.
+###### Artículo 47.
 
-IX.- Administrar y decorar la iluminación y decorado de las calles y edificios públicos municipales, en las fiestas patrias, las del pueblo, navideñas, y demás actos que por su solemnidad lo requieran.
+Los interesados tendrán los siguientes derechos:
 
-X.- Administrar y conservar en buen estado con apego a los reglamentos respectivos, el Rastro y Panteón municipales.
+l. Solicitar los mecanismos alternativos en los términos de esta Ley, su reglamento y demás leyes aplicables;
 
-XI.- Realizar las acciones encaminadas a permitir y promover la participación de la población en el mantenimiento de las plazas y jardines, el ahorro del agua, la cooperación en el sistema de limpia y recolección de desechos sólidos y en general en el embellecimiento y conservación del Municipio.
+Il. Ser atendidos por el servidor público que como facilitador de la comunicación sea designado para intervenir en el trámite solicitado;
 
-XII.- Arborizar las áreas municipales.
+III. Pedir al director, o en su caso, al delegado del Municipio correspondiente, la sustitución del tercero facilitador cuando exista causa justificada para ello, o bien, recusarlo;
 
-XIII.- Preparar la información relativa a la entrega - recepción en lo correspondiente a esta jefatura.
+IV. De ser procedente, solicitar la intervención de auxiliares; y
 
-XIV.- Las demás que en la materia de su competencia le atribuyan al Municipio las Leyes y Reglamentos vigentes o le asigne el o la Presidente Municipal.
+V. Los demás que establezca esta Ley, su reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO DÉCIMO PRIMERO.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-ASUNTOS JURÍDICOS.
+###### Artículo 48.
 
-###### ARTÍCULO 27.
+Son obligaciones de los interesados:
 
-La Dirección de Asuntos Jurídicos, estará a cargo de un titular nombrado por el o la Presidente Municipal, siendo responsable del estudio, planeación y despacho de los asuntos, de orden jurídico y tendrá las facultades y obligaciones siguientes:
+l. Acudir a las audiencias de mediación y conciliación;
 
-I.- Asesorar y representar ante las autoridades judiciales y administrativas, al Ayuntamiento y a los funcionarios de la Administración Municipal.
+II. Conducirse con respeto y observar buen comportamiento durante el desarrollo de las audiencias,
 
-II.- Proporcionar la asesoría legal en la elaboración de proyectos y reformas a los reglamentos municipales.
+III. Signar, o en su caso, estampar la huella dactilar en el convenio celebrado;
 
-III.- Auxiliar en la regulación de la tenencia de la tierra en el municipio, gestionando lo conducente ante las autoridades.
+IV. Cumplir con las obligaciones de dar, hacer o no hacer, establecidas en el convenio;
 
-IV.- Vigilar que los convenios en los cuales intervenga el municipio, ya sea con particulares, la Federación o el Estado, se ajusten a los ordenamientos legales vigentes.
+V. Acudir, ante la Dirección del Centro, en un plazo de treinta días contados a partir de la fecha de cumplimiento del convenio, a manifestar en forma expresa que se ha dado cumplimiento al mismo; y
 
-V.- Procurar que los actos de la Autoridad Municipal se ajusten a los ordenamientos legales vigentes.
+VI. Las demás que establezca esta ley, su reglamento y demás disposiciones aplicables.
 
-VI.- Vigilar el estricto cumplimiento de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
 
-VII.- Brindar asesoría jurídica gratuita a particulares que por su condición económica así lo requieran.
+#### SECCIÓN III. DEL CONTROL JUDICIAL DE LOS MECANISMOS EN LA JUSTICIA PENAL RESTAURATIVA
 
-VIII.- Coadyuvar en la elaboración de las resoluciones administrativas.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-IX.- Auxiliar a los Titulares de las Dependencias que integran al (sic) Administración Municipal, en la interpretación y aplicación de los ordenamientos legales.
+###### Artículo 49.
 
-X.- Representar los intereses del Municipio en los procedimientos judiciales y administrativos.
+Los convenios que hayan sido resultado de la aplicación de mecanismos alternativos de solución de controversia en materia penal por parte de la Dirección del Centro de Justicia Alternativa, sea que establezcan obligaciones a futuro para cumplir con la reparación, restitución o resarcimiento del daño ocasionado a la víctima u ofendido, o bien dichos conceptos se encuentren satisfechos en el acto mismo de la suscripción del convenio, deberán ser sometidos a control y aprobación judicial.
 
-XI.- Auxiliar a la Secretaria del Ayuntamiento en la preparación y formulación del Informe Anual.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-XII.- Las demás que disponga el o la Presidente Municipal.
+###### Artículo 50.
 
-### CAPÍTULO DÉCIMO SEGUNDO.
+El control judicial de los mecanismos alternativos de solución de conflictos en la justicia penal, tendrá como finalidad verificar que se trata de derechos susceptibles de someterse a dichos mecanismos y que se cubra la reparación del daño.
 
-INSTITUTO PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DlF).
+En la conciliación como modo simplificado de terminación del proceso penal, prevalece la voluntad de las partes; sin embargo, el Juez de Control deberá vigilar en todos los casos que en el convenio suscrito no se violen derechos fundamentales, ni de la víctima ni del imputado.
 
-###### ARTÍCULO 28.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-El Instituto para el Desarrollo Integral de la Familia (DIF), es una Dependencia de la Administración Pública Municipal dependiente del o la Presidente Municipal, y será presidido(a) por un(a) Titular denominado(a) Presidente(a) del Instituto para el Desarrollo Integral de te Familia, cuyo cargo tiene el carácter de honorífico, teniendo como misión la promoción del desarrollo integral de las familias del municipio, y el de canalizar las ayudas asistenciales que el Ayuntamiento destine para ese efecto, y que además que le otorgan otras leyes y reglamentos, tendrá las facultades y obligaciones siguientes:
+###### Artículo 51.
 
-I.- Fomentar y promover el sano e integral desarrollo de la familia y la comunidad en general.
+El control judicial estará a cargo del Juez de Control, para lo cual el Centro Estatal de Justicia Alternativa deberá remitir dentro de los tres días siguientes o la celebración del convenio respectivo, un ejemplar del mismo al citado Juez de Control, quien lo aprobará o no, y en su caso lo registrará en un libro y medios electrónicos que para tal efecto se lleven, para lo cual implementará todas las medidas necesarias para verificar el cumplimiento o incumplimiento de los convenios, a efecto de observar lo previsto en el artículo 208 del Código Procesal Penal del Estado.
 
-II.- Realizar en coordinación con las instituciones competentes, estudios e investigaciones relativos a los problemas y necesidades de la familia y de la sociedad, con el fin de planear y ejecutar acciones tendientes a la solución y satisfacción da los mismos.
+Si la conciliación se produce antes de que se judicialice la investigación, el Ministerio Público siempre deberá auxiliarse de un tercero facilitador adscrito a la Dirección Estatal del Centro de Justicia Alternativa. En este caso, el Ministerio Público solicitará la audiencia respectiva para llevarla al Juez de Control o de Garantía, quien la aprobará o no.
 
-III.- Prestar servicios de asistencia social a la comunidad en general.
+El Juez de Control deberá vigilar que en el convenio que al efecto se lleve a cabo, no se violen derechos fundamentales ni de la víctima ni del imputado, que existan condiciones de igualdad entre ellos, y que no hayan sido obligados a negociar bajo coacción o amenaza, debido a que esa conciliación genera la extinción de la acción penal y el consecuente sobreseimiento de la causa. Estas determinaciones sólo puede decretarlas el Juez.
 
-IV.- Realizar acciones tendientes a la integración social, de superación personal, capacitación para el trabajo, prevención de enfermedades, planificación familiar y desarrollo integral del individuo y la familia.
+El debido cumplimiento del acuerdo o convenio extinguirá la acción penal.
 
-V.- Colaborar en apoyo a las víctimas de desastres naturales y accidentes.
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
 
-VI.- Establecer programas de apoyo físico y psicológico a las víctimas de maltrato familiar, abuso sexual y otros delitos.
+###### Artículo 52.
 
-VII.- Establecer programas para combatir la desintegración familiar, pandillerismo, la drogadicción, alcoholismo y demás conductas antisociales.
+En caso de que el Juez de control advierta que el convenio sujeto a supervisión judicial no se ha cumplido en la forma y plazo establecidos, se procederá conforme a lo siguiente: si el imputado incumple las obligaciones pactadas dentro del término que las partes hayan establecido y, de no fijar plazo las partes, dentro de un año contado a partir del día siguiente de la suscripción del convenio ante la Dirección, el Ministerio Público o el Juez de Control, dependiendo del inicio del procedimiento o proceso, la parte interesada podrá presentar su denuncia o querella o continuar con el primero, según la etapa en que se encuentre como si no se hubiera conciliado.
 
-VIII.- Proporcionar los servicios funerarios indispensables a persona sin recursos.
+## ARTÍCULOS TRANSITORIOS
 
-IX.- Coordinarse Con las Dependencia Estatales para proporcionar los desayunos escolares y los beneficios de los programas sociales asistenciales.
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-X.- Con la aprobación del ayuntamiento sostener la cocina para brindar alimentos, tanto las personas de la tercera edad como a las familias de muy escasos recursos.
+SEGUNDO.- Queda abrogada la Ley de Justicia Alternativa, emitida por la IX Legislatura del Estado, mediante Decreto Número 80 y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
-XI.- En coordinación con los centros de salud, brindar a la población en general los servicios de revisión preventivos para detectar la diabetes, hipertensión arterial, así como demás programas de prevención de las enfermedades comunes, canalizando a aquellas personas que resulten con alguna afección.
+TERCERO.- El Centro de Justicia Alternativa del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de la entrada en vigor de la presente ley, deberá presentar para su aprobación ante el H. Consejo de la Judicatura del Poder Judicial del Estado, el reglamento interno y manual de procedimiento operativo del Centro de Justicia Alternativa del Estado de Quintana Roo. Documentos estos, que deberá aprobar el Consejo a más tardar, dentro del término de 30 días hábiles siguientes a las de su presentación.
 
-### CAPÍTULO DÉCIMO TERCERO.
+CUARTO.- Se derogan las disposiciones que se opongan a la presente ley.
 
-DE LA DELEGACIÓN DE FACULTADES.
+.
 
-###### ARTÍCULO 29.
+ARTÍCULOS TRANSITORIOS:
 
-Las facultades y obligaciones conferidas en al presente Reglamento al o la Presidente Municipal, excepto aquellas consideradas como no delegables, podrán ser ejercidas en forma directa o delegadas al Titular del ramos (sic) a que se refiere la materia correspondiente.
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-###### ARTÍCULO 30.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-Los Titulares de las Dependencias a que se refiere el presente Reglamento podrán delegar en sus subalternos, mediante escrito debidamente fundado y motivado, cualquiera de sus facultades, salvo aquellas que la Ley Orgánica de la Administración Pública Municipal del Estado u otros ordenamientos dispongan que deban ser ejercidas directamente por ellos.
+SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
 
-###### ARTÍCULO 31.
+DIPUTADO PRESIDENTE:
 
-Corresponde originalmente a cada uno de los Titulares de cada dependencia conocer y tratar los asuntos de su competencia por razón de la materia, pudiendo para la mejor organización del trabajo, delegar el ejercicio de ciertas facultades y obligaciones a los auxiliares que considere necesarios.
+ING. MARIO ALBERTO CASTRO BASTO.
 
-###### ARTÍCULO 32.
+DIPUTADA SECRETARIA:
 
-Los actos jurídicos que requieran la firma mancomunada del o la Presidente Municipal, deberán ser acompañados de la firma del Secretario, Director o Jefe del ramos correspondiente, según sea el caso.
+LIC. MARIA HADAD CASTILLO.
 
-###### ARTÍCULO 33.
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DECRETO NÚMERO: 205 QUE CONTIENE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EXPEDIDO POR LA HONORABLE XII LEGISLATURA DEL ESTADO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
 
-Las ausencias temporales del Titular de alguna Dependencia, serán suplidas por el funcionario que el o la Presiente Municipal designe con excepción de los Secretarios(as) del Ayuntamiento y de Finanzas y Tesorería.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
 
-### CAPÍTULO DÉCIMO CUARTO.
+LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 
-DE LA MODIFICACIÓN Y CUMPLIMIENTO.
+EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-###### ARTÍCULO 34.
+LIC. EDUARDO OVANDO MARTINEZ
 
-El o la Presidente Municipal podrá proponer al Ayuntamiento que se amplíen, reduzcan, o modifiquen las atribuciones de cualquier Titular de las Dependencias que integran esta Administración Pública Municipal. Deberán hacerlo por escrito con la firma mancomunada del o la Secretario(a) del Ayuntamiento y adjuntando un ejemplar del proyecto de reforma de este Reglamento. En caso de aprobarse la propuesta, deberá observarse el procedimiento previsto en la Ley Orgánica de la Administración Pública Municipal del Estado.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-###### ARTÍCULO 35.
+P.O. 22 DE MARZO DE 2011.
 
-La vigilancia del cumplimiento del presente Reglamento es competencia del o la Presidente Municipal, quien podrá delegarlo en el o la Secretario(a) del Ayuntamiento. En caso de observar violaciones a lo establecido en este Reglamento, el o la Presidente Municipal podrá amonestar a quien cometió la falta, suspenderlo separarlo del cargo o comisión que desempeñe, sin perjuicio de la responsabilidad administrativa, penal o civil que se derive.
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-###### ARTÍCULO 36.
+SEGUNDO.- El Centro Estatal de Justicia Alternativa del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de la entrada en vigor de la presente ley, deberá realizar las adecuaciones normativas previstas en el reglamento interno y manual de procedimiento operativo del Centro Estatal de Justicia Alternativa del Estado de Quintana (sic), para la implementación de los mecanismos en la Justicia Penal Restaurativa. Dentro del mismo plazo deberán ser presentados para su aprobación ante el Consejo de la Judicatura del Estado. Documentos que el Consejo deberá aprobar, a más tardar, dentro del término de 30 días hábiles siguientes a las de su presentación.
 
-Lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado de Nuevo León, la Ley Orgánica de la Administración Pública Municipal y por las leyes y reglamentos aplicables a cada materia del área de responsabilidad de cada una de las Dependencia que integran esta Administración Pública Municipal.
-
-### CAPÍTULO DÉCIMO QUINTO.
-
-DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA.
-
-###### ARTÍCULO 37.
-
-En la medida en que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico social y desarrollo de actividades y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado, tomando en cuenta la opinión de le propia comunidad.
-
-###### ARTÍCULO 38.
-
-Para garantizar la participación ciudadana en la revisión, para la modificación o actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al o la Secretario(a) del Ayuntamiento, a fin de que, previo análisis, el o la Presiente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del Ayuntamiento, para que dicho Cuerpo Colegiado, tome la decisión correspondiente.
-
-T R A N S I T O R I O S.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Reglamento Interior de la Administración para el Municipio de General Treviño. Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-ARTÍCULO SEGUNDO Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
-
-###### ARTÍCULO TERCERO.
-
-Se otorga al o la Presidente Municipal un plazo de 15 -quince días posteriores a la publicación del (sic) este Reglamento para que expida los nombramientos de los Titulares de las Dependencias que integran esta Administración pública Municipal conforme a las disposiciones del mismo.
-
-Es dado en la Sala de Juntas del R. Ayuntamiento del Municipio de General Treviño, Nuevo León, por lo que mando se imprima, publique, circule y se le de el debido cumplimiento a los 27 días del mes de Octubre del 2004.
-
-C. RAQUEL VILLARREAL CADENA
-
-PRESIDENTE MUNICIPAL
-
-C. PROFRA., SILVIA GARZA RAMOS
-
-SECRETARIA DEL AYUNTAMIENTO
-
-### CAPÍTULO OCTAVO. DIRECCIÓN DE OBRAS PÚBLICAS
-
-### CAPÍTULO NOVENO. DIRECCIÓN DE POLICÍA Y TRANSITO
-
-### CAPÍTULO DÉCIMO. JEFATURA DE SERVICIOS PÚBLICOS BÁSICOS Y ALUMBRADO
-
-### CAPÍTULO DÉCIMO PRIMERO.-DIRECCIÓN DE ASUNTOS JURÍDICOS
-
-### CAPÍTULO DÉCIMO SEGUNDO. SISTEMA MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
-
-### CAPÍTULO DÉCIMO TERCERO. DE LA DELEGACIÓN DE FACULTADES
-
-### CAPÍTULO DÉCIMO CUARTO. DE LA MODIFICACIÓN Y CUMPLIMIENTO
-
-### CAPÍTULO DÉCIMO QUINTO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
-
-## TRANSITORIOS
-
-REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GENERAL TREVIÑO, NUEVO LEÓN.
-
-### CAPÍTULO PRIMERO.
-
-DISPOSICIONES GENERALES.
+TERCERO.- Se derogan las disposiciones que se opongan a la presente ley.
