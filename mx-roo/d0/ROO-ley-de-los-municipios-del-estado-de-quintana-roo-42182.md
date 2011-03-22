@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2011-03-02"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -161,7 +161,7 @@ Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del pe
 
 En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
 
-(NOTA: EL 14 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS APARTIR DE LA FECHA EN QUE SE NOTIFIQUE LA PRESENTE SENTENCIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 14 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE LA FECHA EN QUE SE NOTIFIQUE LA PRESENTE SENTENCIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 EN TODO CASO, el Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, CON EXCEPCIÓN DE LO PREVISTO EN LA FRACCIÓN III DEL ARTÍCULO 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y LA FRACCIÓN III DEL ARTÍCULO 10 DEL PRESENTE ORDENAMIENTO.
 
@@ -171,7 +171,7 @@ De la División Territorial, Administrativa y Política.
 
 ### Capítulo I. De la división territorial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
@@ -301,7 +301,7 @@ XVII. Las demás que se señalen en el reglamento interior que les apruebe el Ay
 
 Las Alcaldías contratarán, para el mejor desempeño de su gestión, los apoyos y la asesoría jurídica, contable y administrativa que requieran, en los términos que apruebe el Ayuntamiento, así como el personal indispensable que el propio Ayuntamiento les apruebe en el presupuesto de egresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 25.
 
@@ -529,7 +529,7 @@ II. Aprobar la supresión de los Municipios y sus Ayuntamientos solicitantes y l
 
 ### Capítulo Único. Formalidades de la Instalación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 48.
 
@@ -577,11 +577,17 @@ Cuando el suplente respectivo, no pueda entrar al desempeño del cargo, el Ayunt
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 54.
 
-Al término de la sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
+Al término de la Sesión de Instalación, el Ayuntamiento procederá en sesión ordinaria a lo siguiente:
 
-I. Nombrar al Secretario General, Tesorero, Contralor Municipal y al Director de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+l. Nombrar por mayoría de votos de sus integrantes al Secretario General, Tesorero, Contralor Municipal, Director de Seguridad Pública Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal;
+
+El nombramiento de los cargos indicados con antelación se hará, inicialmente, a propuesta del Presidente Municipal; en caso de que se rechazara una o más de éstas, el Ayuntamiento procederá a designar los faltantes de entre las propuestas que formulen, tanto el Presidente Municipal como los Regidores;
 
 II. Aprobar la integración de las Comisiones a que se refiere esta Ley; y
 
@@ -687,7 +693,9 @@ f) Expedir las declaratorias que contengan la división municipal en Cabeceras M
 
 g) Convocar, por conducto del Presidente Municipal, a la elección de los integrantes de las Alcaldías, así como de los Delegados y Subdelegados Municipales que establezca el Ayuntamiento, en los términos dispuestos en la presente Ley y convocar también a elecciones extraordinarias cuando se trate de cubrir las vacantes de Alcalde, Delegados y Subdelegados;
 
-h) Nombrar y remover al Secretario, al Tesorero, al Contralor Municipal y al Director de Seguridad Pública y Tránsito, a propuesta del Presidente Municipal;
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+h) Nombrar y remover por mayoría de votos de sus integrantes al Secretario General, al Tesorero, al Contralor Municipal, al Director de Seguridad Pública y Tránsito y los Directores de Ingresos y Egresos de la Tesorería Municipal, a propuesta del Presidente Municipal o de los Regidores, en los términos previstos en la presente Ley;
 
 i) Crear las unidades administrativas que conforman la Administración Pública Municipal y reglamentar su funcionamiento;
 
@@ -973,7 +981,9 @@ VII. Promulgar y ordenar la publicación en el Periódico Oficial del Gobierno d
 
 VIII. Tomar la protesta de Ley a los Regidores y Síndico del Ayuntamiento;
 
-IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayuntamiento, Tesorero Municipal, Contralor Municipal y Director de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayuntamiento, Tesorero Municipal, Contralor Municipal, Director de Seguridad Pública y Tránsito Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal;
 
 X. Nombrar y remover a los servidores públicos municipales cuya designación no sea facultad exclusiva del Ayuntamiento;
 
@@ -1087,6 +1097,10 @@ VI. Vigilar los ramos de la administración que le encomiende el Ayuntamiento, l
 
 VII. Presentar al Ayuntamiento, Iniciativas de Reglamentos, Bando de Policía y Gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos;
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Presentar propuestas para los cargos de Secretario General, Tesorero, Contralor Municipal, Director de Seguridad Pública Municipal y los Directores de Ingresos y Egresos de la Tesorería Municipal, cuando el Ayuntamiento haya rechazado una o más de las propuestas presentadas por el Presidente Municipal;
+
 VIII. Solicitar al Síndico, informes relativos a su gestión, referente a la Hacienda, Presupuesto y Patrimonio Municipales; y
 
 IX. Las demás que les atribuyan la presente Ley, los reglamentos y acuerdos del Ayuntamiento.
@@ -1195,7 +1209,7 @@ Cuando la Legislatura decrete la suspensión de uno o varios de los miembros pro
 
 I.- Si la suspensión recae en uno o varios en un numero inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos;
 
-II.- Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
+II. Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
 
 Si con los miembros propietarios del Ayuntamiento que subsigan y los suplentes electos originalmente que asuman el cargo, no se reúne la mayoría necesaria para que pueda funcionar el Ayuntamiento, la Legislatura designará un Concejo Municipal Provisional que funcionará entre tanto quede en firme la resolución que recaiga en el procedimiento que dio origen a la suspensión.
 
@@ -1333,9 +1347,11 @@ De la Secretaría General del Ayuntamiento.
 
 Cada Ayuntamiento contará con una Secretaría General, encargada del despacho de los asuntos de carácter político-administrativo del propio Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 118.
 
-El Secretario General será designado por la mayoría de los miembros del Ayuntamiento, a propuesta del Presidente Municipal.
+El Secretario General será designado por la mayoría de los miembros del Ayuntamiento.
 
 ###### ARTÍCULO 119.
 
@@ -1409,9 +1425,11 @@ Para el desempeño de sus funciones y el desahogo de los asuntos legales, el Sec
 
 ### Capítulo III. De la Tesorería Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 122.
 
-La Tesorería Municipal estará a cargo de una persona distinta de los integrantes del Ayuntamiento, denominada Tesorero Municipal, que será nombrado o removido por la mayoría de los integrantes del Ayuntamiento a propuesta del Presidente Municipal.
+La Tesorería Municipal estará a cargo de una persona distinta de los integrantes del Ayuntamiento, denominada Tesorero Municipal, que será nombrado o removido por la mayoría de los integrantes del Ayuntamiento.
 
 El Tesorero será responsable del manejo de los valores a su cuidado y deberá otorgar caución igual que todos los funcionarios y empleados que manejen fondos o valores de propiedad municipal.
 
@@ -1471,6 +1489,10 @@ XIII. Organizar y llevar la contabilidad del Municipio y las estadísticas finan
 
 XIV. Proponer al Presidente Municipal, el nombramiento o remoción de los empleados a su cargo;
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Lo anterior con excepción de los Directores de Ingresos y Egresos de la Tesorería Municipal;
+
 XV. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del mes anterior para su glosa y hacerlo del conocimiento de los habitantes del Municipio;
 
 XVI. Llevar un registro de todos los bienes inmuebles afectados a un servicio público, y de los propios del Municipio;
@@ -1487,9 +1509,11 @@ El Tesorero será responsable civil y penalmente de los cobros que se hicieren p
 
 ### Capítulo IV. De la Contraloría Municipal
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 127.
 
-Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a propuesta del Presidente Municipal, un Contralor Municipal.
+Los Ayuntamientos por el acuerdo de la mayoría de sus integrantes deberán designar a un Contralor Municipal.
 
 ###### ARTÍCULO 128.
 
@@ -1557,9 +1581,11 @@ La Policía Preventiva Municipal estará al mando del Presidente Municipal en lo
 
 El Ejecutivo Federal tendrá el mando de la Fuerza Pública en los Municipios donde resida habitual o transitoriamente.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 134.
 
-Al frente de la Policía Preventiva Municipal estará un servidor público designado por el Ayuntamiento a propuesta del Presidente Municipal, con las funciones que señale el reglamento respectivo, y éste podrá ser removido cuando medie causa justificada.
+Al frente de la Policía Preventiva Municipal estará un servidor público designado por el acuerdo de la mayoría de los integrantes del Ayuntamiento, con las funciones que señale el reglamento respectivo, y éste podrá ser removido cuando medie causa justificada.
 
 ###### ARTÍCULO 135.
 
@@ -2703,7 +2729,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 PEDRO JOSÉ FLOTA ALCOCER.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE JULIO DE 2008.
 
@@ -2769,7 +2795,7 @@ P.O. 24 DE FEBRERO DE 2011.
 
 P.O. 25 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 426 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 426 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2777,7 +2803,7 @@ SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en o
 
 P.O. 25 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 431 POR EL QUE SE REFORMAN LOS ARTICULOS 25 Y 34 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 431 POR EL QUE SE REFORMAN LOS ARTÍCULOS 25 Y 34 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2785,7 +2811,7 @@ SEGUNDO.- Los Ayuntamientos del Estado de Quintana Roo, cuya división administr
 
 P.O. 2 DE MARZO DE 2011.
 
-DECRETO No. 427, POR EL QUE SE REFORMA EL ARTICULO 8, FRACCIONES I Y II DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO No. 427, POR EL QUE SE REFORMA EL ARTÍCULO 8, FRACCIONES I Y II DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa entrada en vigor de la reforma Constitucional a los artículos 134, fracciones I y II, y 135, fracción I, párrafo segundo de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -2793,6 +2819,12 @@ Artículo Segundo.- La siguiente integración del Ayuntamiento de Solidaridad, e
 
 P.O. 2 DE MARZO DE 2011.
 
-DECRETO No. 433, POR EL QUE SE APRUEBA ADICIONAR UN PARRAFO ULTIMO AL ARTICULO 10 Y SE REFORMA EL ARTICULO 11, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO No. 433, POR EL QUE SE APRUEBA ADICIONAR UN PÁRRAFO ÚLTIMO AL ARTÍCULO 10 Y SE REFORMA EL ARTÍCULO 11, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
