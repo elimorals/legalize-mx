@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-4786"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-08"
-last_updated: "2009-05-29"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO ESTATAL DE LOS TRABAJADORES DE LA EDUCACION PARA SU SEGURIDAD SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE FECHA 22 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el sábado 8 de febrero de 1969.
 
@@ -556,3 +558,35 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Quienes ocupen los cargos de Presidente, Secretario, Tesorero, Primer Vocal y, en su caso, Segundo Vocal de los Consejos de Administración que rijan el funcionamiento de la Sección 38 del S.N.T.E., durarán en su encargo, hasta en tanto se expidan los nuevos nombramientos directivos, por el Comité Ejecutivo Seccional.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 22 DE MARZO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abrogan la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 429 del 19 de Noviembre de 1999; La Ley del Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado número 63 del 29 de Abril de 1986; La Ley del Seguro de los Trabajadores de la Educación, publicada en el Periódico Oficial del Gobierno del Estado número 188 del 22 de Marzo de 1969; y la Ley del Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 173 del 8 de Febrero de 1969 y demás disposiciones que se opongan a esta nueva ley, salvo los casos transitorios en que las leyes anteriores se apliquen.
+
+TERCERO.- Se determina la extinción de los organismos públicos descentralizados denominados Dirección de Pensiones de los Trabajadores de la Educación, Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios, Seguro de los Trabajadores de la Educación y Servicio Médico de los Trabajadores de la Educación para dar lugar al Instituto Estatal de los Trabajadores de la Educación para su Seguridad Social. Los activos y reservas territoriales de los organismos descentralizados mencionados anteriormente, pasan a formar parte del patrimonio del nuevo Instituto.
+
+CUARTO.- Los trámites y procedimientos pendientes, de resolución, que se vieran afectados por las disposiciones contenidas en la presente ley, se resolverán conforme a las, disposiciones contenidas en las leyes que se abrogan.
+
+QUINTO.- Para los trabajadores que al momento de entrar en vigor la presente ley se encuentren en activo se mantendrá (sic) el concepto de percepción de la ley que se abroga.
+
+SEXTO.- Los trabajadores que al momento de entrar en vigor esta ley presenten adeudos en virtud de créditos obtenidos con los organismos que se disuelven, los cubrirán conforme a las disposiciones previstas en las leyes que se abrogan.
+
+SÉPTIMO.- En la transferencia de los recursos humanos, materiales y financieros de los organismos que mediante la presente Ley se declaran disueltos, deberán intervenir la Tesorería del Estado y la Secretaría de la Función Pública, para que lleven a cabo las funciones de su competencia.
+
+La Secretaría de la Función Pública deberá llevar a cabo las acciones tendientes al proceso de entrega recepción de los organismos que se disuelven en atención a lo dispuesto por la ley en la materia.
+
+Todos los convenios, acuerdos y manuales que fueron realizados por las instituciones que la presente ley extingue continuarán vigentes hasta en tanto sean sustituidos o modificados por el Consejo General, una vez emitido el nuevo reglamento.
+
+OCTAVO.- Las obligaciones contraídas por el Gobierno del Estado, la Universidad Autónoma de Coahuila y la Universidad Autónoma Agraria Antonio Narro con los organismos públicos descentralizados que se disuelven a la entrada en vigor de la presente Ley, continuarán vigentes hasta en tanto sean finiquitados en su totalidad.
+
+NOVENO.- Treinta días después de la entrada en vigor de la presente ley, deberá instalarse el Consejo General del Instituto. El Presidente Honorario del Consejo General deberá llamar a aquellos que el Secretario General designe como vocales, así como al comisario, para que acrediten su personalidad y celebren la sesión constitutiva del nuevo organismo.
+
+Para la integración inicial del Consejo General y por única vez, los vocales serán designados en forma escalonada: Dos vocales durarán en su encargo dos años, tres vocales durarán tres años y los otros dos durarán cinco años. Lo anterior con el objeto de que al momento de la renovación de los mismos siempre sea posible contar con una adecuada combinación de experiencia, conocimiento y prestigio profesional.
+
+DÉCIMO.- Las remuneraciones que se otorgarán a quienes a partir de la entrada en vigor de la presente Ley ingresen a laborar al Instituto deberán homologarse al tabulador oficial del Gobierno del Estado; para tal efecto, el Consejo General previa propuesta de cada área, analizará la procedencia de las categorizaciones para su aplicación correspondiente.
+
+Por lo que respecta a los trabajadores de los organismos públicos descentralizados cuya disolución da lugar a la conformación del Instituto, se respetará el salario o compensaciones que a la fecha vengan percibiendo, hasta en tanto resulte presupuestalmente posible llevar a cabo las acciones necesarias para la homologación de salarios.
+
+DÉCIMO PRIMERO.- El Reglamento Interior del Instituto deberá expedirse por el Consejo General del Instituto y publicarse en el Periódico Oficial del Gobierno Estado, a más tardar ciento ochenta días hábiles contados a partir de que la presente ley entre en vigor.
