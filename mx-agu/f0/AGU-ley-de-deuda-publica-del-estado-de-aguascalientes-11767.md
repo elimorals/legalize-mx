@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-deuda-publica-del-estado-de-aguascalientes-11767"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2010-07-19"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -68,6 +68,12 @@ V.- Los fideicomisos en los que el fideicomitente sea alguna de las entidades se
 ###### Artículo 3o.
 
 Se entiende por Deuda Pública del Estado los financiamientos o empréstitos contratados con o a través de instituciones del sistema financiero, a cargo de alguna de las Entidades señaladas en el Artículo anterior, así como las que contraiga el Gobierno del Estado o el Gobierno Municipal en el ámbito de su competencia como avalista o deudor solidario de dichos sujetos.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 4°.
+
+Para efectos de esta Ley, no se considerará Deuda Pública las obligaciones pasivas directas de corto plazo que contraigan los sujetos señalados en el Artículo 2° de la presente Ley, para solventar necesidades temporales de liquidez que se amorticen en el mismo ejercicio fiscal, de las cuales no será necesario obtener la autorización de la H. Legislatura y deberán incluirse en la Cuenta Pública.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2003)</small>
 
@@ -117,11 +123,15 @@ IX.- Líneas de Crédito.- Los contratos de apertura de crédito o de apertura d
 
 XII.- Obligaciones Contingentes.- Los financiamientos que contraten los organismos descentralizados estatales o municipales, las empresas de participación mayoritaria estatal o municipal y los fideicomisos cuando se otorgue aval por el Gobierno del Estado o de los municipios. Dichos financiamientos se incluirán en la Ley de Ingresos respectiva bajo el rubro de Cuentas de Orden y no formará parte del Programa de Financiamiento Neto;
 
-XIII.- Obligaciones de Pasivo Directas.- Los financiamientos que contrate el Gobierno del Estado o los gobiernos municipales; y
+XIII.- Obligaciones de Pasivo Directas.- Los financiamientos que contrate el Gobierno del Estado o los gobiernos municipales; y (sic)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2007)</small>
 
 XIV.- Programa de Financiamiento Neto. La cantidad total estimada que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos, las cuales deberán incluirse en el Presupuesto de Egresos correspondiente.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XV.- Esquemas Globales de Financiamiento. Las operaciones de Deuda Pública que autorice la Legislatura, mediante un solo decreto, a dos o más municipios, o bien, al Estado y uno o más de sus municipios, para la instrumentación de estructuras para la obtención de mejores condiciones de financiamiento a su favor, con la afectación de los derechos e ingresos que les correspondan de las aportaciones o participaciones federales, o cualquier otro ingreso que puedan afectar para ese fin, de acuerdo con lo que dispone la legislación aplicable, pudiendo utilizar como mecanismo de captación, administración y fuente de pago un fideicomiso público constituido para tales efectos, en el entendido de que cada entidad responderá por las obligaciones de deuda que, en su caso, considere conveniente contraer; asimismo se deberán establecer las condiciones, los montos y las obligaciones de cada parte que comprenda el esquema.
 
 El pago de intereses no formará parte del Financiamiento Neto pero deberá incluirse en el Presupuesto de Egresos correspondiente e informarse en la Cuenta Pública para su revisión.
 
@@ -163,11 +173,11 @@ VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obt
 
 VII.- Integrar los documentos necesarios en materia de control interno, a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
-###### Artículo 9o.
+###### Artículo 9°.
 
-Se entienden como inversiones públicas productivas o responsables:
+Se entiende como inversiones públicas productivas o responsables, las destinadas a la ejecución de aquellas obras, acciones o erogaciones que de forma directa, indirecta o mediata incrementen el bienestar social, incluyendo sin limitar todas aquellas erogaciones que tengan como finalidad promover el bienestar social de la población a través de la adquisición de bienes muebles e inmuebles, equipamiento institucional, realización de proyectos ejecutivos, estudios técnicos previos para obra y edificaciones públicas, obras públicas y de infraestructura, así como:
 
 I.- Las que se destinen a la realización de obras públicas mediante el sistema de aportación a los programas de mejoras;
 
@@ -175,21 +185,29 @@ II.- La adquisición de bienes inmuebles destinados a la integración de áreas 
 
 III.- Proyectos relacionados con los servicios de agua potable, alcantarillado y saneamiento, alumbrado público, limpia, mercados, centrales de abastos, panteones, calles, parques y jardines, seguridad pública y tránsito, rastros y otros proyectos cuyos planes de operación garanticen su carácter recuperable o eleven el nivel de vida de la población de conformidad con lo dispuesto en el Artículo 8o. fracción IV de este Ordenamiento;
 
-IV.- Las destinadas a la instalación, ampliación o mejoramiento de los servicios públicos que produzcan un ingreso fiscal rentable, directo o indirecto para las entidades;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-V.- La reestructuración o conversión de la Deuda Pública; y
+IV.- El refinanciamiento de créditos, gastos y comisiones inherentes a la contratación de los financiamientos o emisiones de deuda;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-VI.- Los análisis, estudios, para la sustitución de equipo de transporte destinado para el servicio público, obsoleto o de incosteable mantenimiento; adquisición de muebles de consumo duradero; o inmuebles de proyectos públicos, así como las demás obras que sean necesarias para elevar el nivel de vida de la población, mismos que se incluirán en los presupuestos de egresos respectivos, bajo los rubros de Gasto de Inversión y/o Capital.
+V.- La novación, modificación, reestructuración o conversión de la deuda pública vigente a cargo de las entidades, siempre y cuando se mejoren las condiciones de la deuda;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-VII.- Las destinadas a realizar proyectos, actividades y empresas de participación estatal mayoritaria que apoyen los planes de desarrollo económico y social, y que generen ingresos directos o indirectos; y
+VI.- Deberá buscarse las alternativas o modalidades de mercado que permitan obtener las condiciones mejores en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-VIII.- Las destinadas a disminuir los gastos de operación del Estado mediante inversiones que posibiliten una mejora tecnológica, administrativa y operativa, que libere recursos aplicables a necesidades sociales.
+VII.- Integrar los documentos necesarios en materia de control interno a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2011)</small>
+
+VIII.- Las destinadas para la ampliación o mejoramiento de los servicios públicos con alta rentabilidad social y/o produzcan de manera directa o indirecta un incremento de los ingresos o, en su caso, una disminución en los gastos de operación; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IX.- Los financiamientos que tengan por objeto cubrir, la aportación estatal al fondo de desastres naturales.
 
 ###### Artículo 10.
 
@@ -219,25 +237,49 @@ Corresponde a la H. Legislatura:
 
 I.- Examinar, discutir y en su caso formular observaciones o ajustes necesarios para aprobar los Programas de Financiamiento Neto de las entidades, mismos que deberán quedar contemplados en las Leyes de Ingresos y Presupuestos de Egresos del ejercicio de que se trate;
 
-II.- Autorizar al Gobierno del Estado o Municipal para intervenir como aval o deudor solidario de los financiamientos que contraten las demás entidades;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+II.- Autorizar al Gobierno del Estado o municipal para intervenir como aval o deudor solidario de los financiamientos que contraten las demás entidades y para que con uno u otro carácter afecten como garantía o fuente de pago, o ambas, las participaciones que en ingresos federales les correspondan o cualquier otro ingreso del que legalmente puedan disponer y destinar para ese fin; estableciendo las condiciones de contratación y obligaciones de las partes.
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
 III.- Ejercer las facultades de vigilancia que tiene conferidas en la Constitución Política del Estado de Aguascalientes a través del Órgano Superior de Fiscalización y de la Comisión de Vigilancia del Congreso del Estado;
 
-IV.- Aprobar montos adicionales al Programa de Financiamiento Neto del ejercicio fiscal de que se trate, previa solicitud del Gobierno Estatal o Municipal, cuando se presenten circunstancias extraordinarias que así lo ameriten; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-V.- Las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes y otras disposiciones aplicables.
+IV.- Aprobar montos adicionales al Programa de Financiamiento Neto del ejercicio fiscal del que se trate, previa solicitud del Gobierno Estatal o Municipal, cuando se presenten circunstancias extraordinarias que así lo ameriten;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V.- Autorizar al Estado y/o a los Municipios a contratar créditos o empréstitos para destinarlos a financiar inversiones públicas productivas, así como a afectar como garantía o fuente de pago, o ambas, o destinar al servicio de la deuda que contraigan directamente, los derechos e ingresos derivados de las participaciones y/o aportaciones federales que le correspondan al Estado o a los Municipios y que puedan utilizar para ese fin , de conformidad con lo que dispone la legislación aplicable, en el entendido de que cada Municipio deberá obtener, de manera previa a la contratación del o los financiamientos a su cargo, la autorización de su Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VI.- Autorizar Esquemas Globales de Financiamiento incluyendo sus términos y condiciones a dos o más municipios del Estado, o bien, al Estado y uno o más de sus municipios, mediante un solo decreto, para la instrumentación de estructuras para la obtención de mejores condiciones de financiamiento a su favor, con la afectación de los derechos e ingresos que les correspondan de las aportaciones o participaciones en ingresos federales que puedan destinar para ese fin , en términos de lo que dispone la legislación aplicable, utilizando como mecanismo de captación, administración y fuente de pago un fideicomiso público constituido para tales efectos, en el entendido de que cada entidad responderá por las obligaciones de deuda que, en su caso, contraiga. Los Municipios que así lo consideren conveniente podrán adherirse a los Esquemas Globales de Financiamiento que sean autorizados por la Legislatura, siempre que previamente a la formalización de los contratos cuenten con la aprobación de sus Ayuntamientos, en la inteligencia de que los municipios que, en su caso, promuevan la iniciativa de decreto deberán contar con autorización de sus Ayuntamientos en forma previa a la presentación del proyecto de decreto;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VII.- Autorizar al Estado y/o a los Municipios a celebrar instrumentos legales para formalizar los mecanismos para afectar los derechos e ingresos derivados de las participaciones y/o aportaciones federales que le correspondan al Estado o a los Municipios y que puedan utilizar para ese fin, de conformidad con lo dispuesto por la legislación aplicable, en el entendido que cuando los mecanismos se formalicen a través de fideicomisos públicos podrán ser utilizados, además, como medio de captación y distribución de las aportaciones federales que les correspondan al Estado y/o a los Municipios, los cuales no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal. Los Municipios que así lo consideren conveniente podrán adherirse a los fideicomisos que formalice el Estado, siempre que cuenten con la aprobación de sus Ayuntamientos; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VIII.- Las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes y otras disposiciones aplicables.
 
 ###### Artículo 13.
 
 Corresponde al Gobierno del Estado:
 
-I.- Otorgar en su caso, previa autorización de la H. Legislatura, el aval para los financiamientos en favor de las entidades; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
+I.- Otorgar en su caso, previa autorización de la H. Legislatura, el aval o constituirse en deudor solidario, para los financiamientos en favor de las demás entidades y con uno u otro carácter afectar como garantía o fuente de pago, o ambas, las participaciones que en ingresos federales les correspondan o cualquier otro ingreso del que legalmente puedan disponer y destinar para ese fin, en términos de lo que dispone la legislación aplicable;
 
-II.- Autorizar a las entidades, dentro del ámbito de su competencia, previo el cumplimiento de los requisitos previstos en el artículo 31 de la Ley de Control de Entidades Paraestatales, a fin de que lleven a cabo la contratación de Financiamientos.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+II.- Autorizar a las entidades, dentro del ámbito de su competencia, previo el cumplimiento de los requisitos previstos en el Artículo 31 de la Ley de Control de Entidades Paraestatales, a fin de que lleven a cabo la contratación de Financiamientos; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+III.- Presentar a solicitud de, o conjuntamente con, uno o más de sus municipios, la iniciativa de decreto que se requiera para que la Legislatura autorice Esquemas Globales de Financiamiento, para su posterior aprobación por los Ayuntamientos de los municipios que decidan adherirse a los esquemas que se autoricen.
 
 ###### Artículo 14.
 
@@ -253,15 +295,31 @@ III.- Informar bimestralmente a la H. Legislatura y publicar en el Periódico Of
 
 IV.- Solicitar a la H. Legislatura la aprobación de montos adicionales al Programa de Financiamiento Neto, cuando se presenten circunstancias extraordinarias que así lo requieran, debiendo dar cuenta de la contratación de los mismos en los informes a que se refiere la fracción III de este artículo;
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Asimismo, previa autorización de la Legislatura, contratar créditos o empréstitos para destinarlos a financiar inversiones públicas productivas, así como afectar como garantía o fuente de pago, o ambas, o destinar al servicio de la deuda que contraiga directamente, los derechos e ingresos derivados de las participaciones y/o aportaciones federales que le correspondan al Estado y que pueda utilizar para ese fin, de conformidad con lo que dispone la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El Estado no podrá destinar para el pago de créditos o empréstitos cuya garantía o fuente de pago la constituyan las participaciones federales, más del 25% de los recursos que anualmente le correspondan por concepto de éstas.
+
 V.- Cuidar que los recursos procedentes de financiamientos constitutivos de la Deuda Pública se destinen a la realización de proyectos, actividades o empresas que apoyen los planes de desarrollo económico y social y que generen ingresos directos o indirectos;
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 VI.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de Financiamientos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos; así como para las operaciones de reestructuración o de conversión de financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Asimismo, previa autorización de la Legislatura, celebrar fideicomisos públicos mediante los cuales se afecten los derechos e ingresos derivados de las participaciones y/o aportaciones federales que le correspondan al Estado y que puedan utilizar para ese fin, de conformidad con lo dispuesto por la legislación aplicable, en el entendido de que los fideicomisos podrán ser utilizados, además, como medio de captación y distribución de las aportaciones federales que les correspondan al Estado y/o a los Municipios y no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal. Los Municipios que así lo consideren conveniente podrán adherirse a los fideicomisos públicos que formalice el Estado, siempre que cuenten con la aprobación de sus Ayuntamientos.
+
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2003)</small>
 
 VII.- Amortizar obligaciones contraídas directamente o como aval, con los ingresos estatales o las participaciones federales que le correspondan, al sujeto pasivo respectivo, en ejercicio del mandato otorgado por éste a tal efecto;
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Asimismo realizar, previa instrucción de los ayuntamientos, pagos por cuenta y orden de los Municipios, con cargo a los derechos e ingresos que obtenga por las participaciones y/o aportaciones federales que le correspondan y que puedan utilizar para ese fin, de conformidad con lo dispuesto en la legislación aplicable.
 
 VIII.- Verificar, en caso de reclamo de algún acreedor, que se hayan cumplido oportunamente con las amortizaciones de capital y pago de intereses derivados de financiamientos, que constituyan la Deuda Pública;
 
@@ -285,17 +343,31 @@ I.- Solicitar a la H. Legislatura la aprobación de sus Programas de Financiamie
 
 II.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de Financiamientos, suscribiendo los documentos y títulos de crédito requeridos para tales efectos; así como para las operaciones de reestructuración o de conversión de Financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Asimismo, presentar con al menos otro municipio, por si mismos o a través del Poder Ejecutivo del Estado, la propuesta de iniciativa de decreto para que la Legislatura autorice Esquemas Globales de Financiamiento, en el entendido de que los municipios que promuevan la iniciativa de decreto requerirán previamente la autorización de sus Ayuntamientos. En caso de que la Legislatura apruebe el proyecto de iniciativa y emita el decreto de autorización, cada municipio que decida adherirse deberá obtener la autorización de su Ayuntamiento, previamente a la celebración de los contratos con los que hayan de formalizarse los créditos o empréstitos autorizados. Cuando las operaciones que se pretendan formalizar comprometan al municipio de que se trate por un plazo mayor al término constitucional de la gestión municipal para la que fue electo, la autorización deberá otorgarse con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento.
+
 III.- Presentar mensualmente al Registro Estatal de Deuda Pública los informes en relación al estado de su Deuda Pública, con la finalidad de que dicho Registro cumpla con lo dispuesto en la fracción III del Artículo 14 de la presente Ley;
 
 IV.- Vigilar que el importe a contratar se encuentre dentro del monto del Programa de Financiamiento Neto incluido en la Ley de Ingresos Municipal para el ejercicio correspondiente, así como llevar cuenta y registro de las operaciones derivadas de su Deuda Pública de acuerdo a los procedimientos que éstos establezcan;
 
-V.- Autorizar la afectación de ingresos municipales o de sus participaciones federales para garantizar las obligaciones de deuda;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V.- Afectar, previa autorización de la Legislatura, como garantía y/o fuente de pago, o ambas, de las obligaciones de deuda directa a su cargo, los derechos e ingresos derivados de las participaciones y/o aportaciones que en ingresos federales que le correspondan y pueda destinar para ese fin, de acuerdo con lo que dispone la legislación aplicable.
+
+Asimismo, otorgar en su caso, previa autorización de la H. Legislatura, el aval para los financiamientos en favor de las entidades paramunicipales y con tal carácter afectar como garantía o fuente de pago, o ambas, las participaciones que en ingresos federales les correspondan o cualquier otro ingreso del que legalmente puedan disponer y destinar para ese fin.
+
+Los municipios no podrán destinar para el pago de créditos o empréstitos cuya garantía o fuente de pago la constituyan las participaciones federales, más del 25% de los recursos que anualmente les correspondan por concepto de éstas.
 
 VI.- Incluir en su Presupuesto de Egresos las partidas destinadas al servicio de su deuda;
 
 VII.- Solicitar a la Secretaría la inscripción en el Registro Estatal de Deuda Pública de sus operaciones de financiamiento, para lo cual deberá cumplir con las obligaciones de información para efectos del Registro Estatal de Deuda Pública, de conformidad con lo dispuesto en el Artículo 34 de esta Ley;
 
-VIII.- Solicitar a la H. Legislatura la aprobación de montos adicionales al Programa de Financiamiento Neto, cuando se presenten circunstancias extraordinarias que así lo requieran; y
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VIII.- Solicitar a la H. Legislatura la aprobación de montos adicionales al Programa de Financiamiento Neto, cuando se presenten circunstancias extraordinarias que así lo requieran.
+
+Asimismo, previa autorización de la Legislatura, contratar créditos o empréstitos para destinarlos a financiar inversiones públicas productivas, así como afectar como garantía o fuente de pago, o ambas, o destinar al servicio de la deuda que contraigan directamente, los derechos e ingresos que obtengan por las participaciones y/o aportaciones federales que les correspondan y que puedan utilizar para ese fin, de conformidad con lo que dispone la legislación aplicable; y
 
 IX.- Las demás facultades que le confieren la Constitución Política del Estado de Aguascalientes y otras disposiciones aplicables.
 
@@ -313,9 +385,11 @@ IV.- Inscribir en el Registro Estatal de Deuda Pública sus operaciones de finan
 
 ### CAPITULO IV. De la Contratación de Deuda
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 17.
 
-El Gobierno del Estado por conducto de la Secretaría, o el Ayuntamiento por conducto del Primer Regidor, de acuerdo al ámbito de su competencia, concertará y formalizará los Financiamientos del Estado o del Municipio, de los organismos públicos descentralizados, de las empresas de participación estatal o municipal mayoritaria y de los demás organismos de naturaleza estatal o municipal a que se refiere el Artículo 2o. de esta Ley.
+El Gobierno del Estado por conducto de la Secretaría, o el Ayuntamiento por conducto del Presidente Municipal, de acuerdo al ámbito de su competencia, concertará y formalizará los Financiamientos del Estado o del Municipio. Los organismos públicos descentralizados, las empresas de participación estatal o municipal mayoritaria y los demás organismos de naturaleza estatal o municipal a que se refiere el Artículo 2° de esta Ley, lo harán a través de sus representantes legales.
 
 ###### Artículo 18.
 
@@ -333,9 +407,11 @@ II.- Todos los elementos de juicio y datos técnicos que justifiquen los requisi
 
 Los montos de financiamiento que se contraten y que constituyan Deuda Pública, se sujetarán a lo aprobado para tal efecto por la H. Legislatura en el Programa de Financiamiento Neto para el ejercicio fiscal de que se trate.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 21.
 
-Cuando las entidades señaladas en las fracciones III, IV y V del Artículo 2o. de esta Ley requieran contar con recursos provenientes del financiamiento, deberán formular solicitud al Ejecutivo del Estado a través de la Secretaría o, en su caso, al Ayuntamiento por conducto de su Primer Regidor, proporcionando la información que éstos requieran a efecto de determinar la necesidad del tipo de inversión que se pretenda financiar y su capacidad de pago.
+Cuando las entidades señaladas en las Fracciones III, IV y V del Artículo 2° de esta Ley requieran contar con recursos provenientes del financiamiento, deberán formular solicitud al Ejecutivo del Estado a través de la Secretaría o, en su caso, al Ayuntamiento por conducto del Presidente Municipal, proporcionando la información que éstos requieran a efecto de determinar la necesidad del tipo de inversión que se pretenda financiar y su capacidad de pago.
 
 ###### Artículo 22.
 
@@ -371,11 +447,13 @@ Tanto los bonos como las obligaciones que emita el Estado, deberán sujetarse a 
 
 ### CAPITULO V. De las Garantías y Avales
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 25.
 
-Las entidades podrán afectar como garantía de pago de los financiamientos el producto de la cobranza de sus cuotas, cooperaciones, derechos, aprovechamientos, multas o en su defecto las participaciones federales, en los términos del Artículo 12 de la Ley de Coordinación Fiscal Estatal u otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, sin perjuicio de su responsabilidad de atender a sus demás obligaciones.
+Las entidades podrán, previa autorización de la Legislatura, afectar como garantía o fuente de pago de los financiamientos a su cargo el producto de la cobranza de sus cuotas, cooperaciones, derechos, aprovechamientos, impuestos, multas o, en su defecto, las participaciones o las aportaciones federales que pueda utilizar para este fin u otros ingresos de los que puedan disponer y destinar a este propósito, en términos de lo previsto en la legislación aplicable, sin perjuicio de su responsabilidad de atender a sus demás obligaciones.
 
-Previa aprobación de la H. Legislatura, el Gobierno del Estado por conducto de la Secretaría, o el de los Municipios por conducto del titular del Ayuntamiento, podrán, en el ámbito de su competencia, constituirse como avales o deudores solidarios de las entidades restantes, afectando cualesquiera de sus ingresos incluyendo sus participaciones federales, de igual forma el Estado podrá constituirse como aval del Municipio, sujeto a los requisitos del artículo siguiente.
+Previa aprobación de la H. Legislatura, el Gobierno del Estado por conducto de la Secretaría, o el de los Municipios por conducto de los representantes legalmente facultados del Ayuntamiento, podrán, en el ámbito de su competencia, constituirse como avales o deudores solidarios de las entidades restantes, afectando cualesquiera de sus ingresos incluyendo sus participaciones o aportaciones federales que en términos de la legislación aplicable sean susceptibles de afectación, de igual forma el Estado podrá constituirse como aval del Municipio, sujeto a los requisitos del Artículo siguiente.
 
 ###### Artículo 26.
 
@@ -397,9 +475,11 @@ b).- Estar al corriente en sus compromisos de financiamiento; y
 
 c).- Estar al corriente en el cumplimiento de sus obligaciones de información al Registro Estatal de Deuda Pública.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 27.
 
-Cuando el Estado o el Municipio hayan otorgado su aval, las entidades avaladas tendrán la responsabilidad de llevar un registro, controlar internamente su Deuda Pública y rendir los informes que les solicite el Ejecutivo Estatal por medio de la Secretaría o el Gobierno Municipal a través del Primer Regidor del Ayuntamiento.
+Cuando el Estado o el Municipio hayan otorgado su aval, las entidades avaladas tendrán la responsabilidad de llevar un registro, controlar internamente su Deuda Pública y rendir los informes que les solicite el Ejecutivo Estatal por medio de la Secretaría o el Gobierno Municipal a través del Presidente Municipal.
 
 ###### Artículo 28.
 
@@ -588,3 +668,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 22 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
