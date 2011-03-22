@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2008-08-18"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -227,11 +227,11 @@ La Junta de Gobierno será el Organo Rector de la Procuraduría y se integrará 
 
 I. El Gobernador del Estado o por el servidor público que él designe;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-II. Los titulares de cada una de las Secretarías de Seguridad Pública, de Obras Públicas, de Desarrollo Económico y de Planeación y Desarrollo Regional;
+II. El Titular de la Coordinación Estatal de Planeación y Proyectos, así como de las Secretarías de Medio Ambiente, Seguridad Pública, de Infraestructura y Comunicaciones y de Desarrollo Económico;
 
-III. Un diputado integrante de la Comisión del Medio Ambiente, a propuesta de esta Comisión y designado por el Pleno.
+III. Un diputado integrante de la Comisión del Medio Ambiente, a propuesta de esta Comisión y designado por el Pleno;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -520,3 +520,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los ciudadanos a que se refiere el Artículo 12, Fracción IV de la Ley de la Procuraduría Estatal de Protección al Ambiente, terminaron su período de cuatro años el doce de abril del dos mil ocho, por lo que deberán designarse nuevos ciudadanos integrantes de la Junta de Gobierno a que se refiere dicha Fracción, en un período máximo de treinta días contados a partir de su publicación, en términos del presente Decreto.
+
+P.O. 22 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
