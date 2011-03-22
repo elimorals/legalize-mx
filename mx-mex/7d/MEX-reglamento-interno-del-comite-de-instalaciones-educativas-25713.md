@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-instalaciones-educativas-25713
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-02"
-last_updated: "2002-08-02"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL COMITE DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA, PUBLICADO EN LA G.G. DE 22 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 2 de agosto de 2002.
 
@@ -392,3 +394,17 @@ ARQ. MIGUEL ANGEL GARCIABELTRAN GONZALEZ
 DIRECTOR GENERAL DEL COMITE DE INSTALACIONES EDUCATIVAS DEL ESTADO DE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 22 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Comité de Instalaciones Educativas del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el dos de agosto de dos mil dos.
+
+CUARTO.- Con la entrada en vigor del presente Reglamento, cuando en otros ordenamientos jurídicos y administrativos y demás documentos se haga referencia a la Dirección de Programación y Proyectos, se entenderá a la Dirección de Programación de Obras; asimismo, cuando se refieran a la Dirección de Construcción de Obras, se entenderá a la Dirección Técnica.
+
+QUINTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a las establecidas en el presente Reglamento.
