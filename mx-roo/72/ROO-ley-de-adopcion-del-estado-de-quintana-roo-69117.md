@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adopcion-del-estado-de-quintana-roo-69117"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-30"
-last_updated: "2009-06-30"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ADOPCION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de junio de 2009.
 
@@ -103,7 +103,9 @@ III. Buscar su desarrollo Integral dentro de su familia de origen, manteniendo l
 
 IV. Buscar una opción familiar externa a la familia de origen cuando ésta incumpla con sus obligaciones de protección, cuidado y atención del niño, niña o adolescente, lo cual, deberá ser acreditado por vía judicial y cuando no pueda encontrar una familia adecuada en su lugar de origen;
 
-V. Propiciar que los niños, niñas y adolescentes sean dados en adopción dentro de su lugar de origen y del territorio nacional;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V. Propiciar que los niños, niñas y adolescentes sean dados en adopción preferentemente dentro de su lugar de origen y del territorio nacional;
 
 VI. Garantizarles una vida libre de cualquier forma de violencia;
 
@@ -147,9 +149,9 @@ VI. A la madre y/o al padre adoptivos entregar en matrimonio al menor de edad ad
 
 VII. La adopción legal, la adopción independiente y la adopción privada, de acuerdo a los términos del artículo 2 de la presente Ley y del Código Penal del Estado de Quintana Roo;
 
-VIII. A las personas que solicitan la adopción tener relación de cualquier clase con las entidades públicas o privadas dedicadas al acogimiento temporal y con los organismos acreditados extranjeros que se dedican al cuidado de niños, niñas y adolescentes declarados en estado de adoptabilidad;
+VIII. (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
-IX. A los potenciales madres y/o padres adoptivos tener cualquier tipo de contacto con las madres y/o padres biológicos del niño, niña o adolescentes o cualquier persona que pueda tener influencia en el consentimiento de la persona, autoridad o entidad involucrada en el proceso de adopción. Se exceptúan los casos en que las adoptantes sean familiares biológicos o de la familia ampliada;
+IX. (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
 X. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por su familia biológica y ampliada o cualquier persona, así como por entidades públicas o privados y autoridades involucradas en el proceso de adopción;
 
@@ -181,9 +183,11 @@ En todos los casos de adopción, los niños, niñas y adolescentes que vayan a a
 
 El niño, niña o adolescente adoptado gozará de todos los derechos reconocidos en la Convención de los Derechos de la Niñez, sus Protocolos facultativos y demás tratados de derechos humanos ratificados por México, así como aquellos derechos y garantías reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Quintana Roo, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes y la Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-El niño, niña o adolescente adoptado tiene derecho a saber que es adoptado desde el inicio de su adopción. Dicha información le será proporcionada de la manera más comprensible y adecuada posible conforme a su edad y madurez.
+El niño, niña o adolescente adoptado tiene derecho a saber que es adoptado desde el inicio de su adopción. Igualmente a conocer cuando él lo desee sus antecedentes familiares, para lo cual podrá acceder al expediente de adopción, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes. Dicha información le será proporcionada de la manera más comprensible y adecuada posible conforme a su edad y madurez.
 
 ###### ARTÍCULO 14.
 
@@ -197,25 +201,39 @@ Todas las adopciones se considerarán plenas.
 
 ### Capítulo Único. De la Capacidad y Requisitos para Adoptar
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 16.
 
-Tienen capacidad para adoptar los hombres y mujeres casados, en concubinato o de manera individual mayores de edad, en pleno ejercicio de sus derechos, y que cumplan con los requisitos de adopción que establece esta ley.
+Tienen capacidad para adoptar los hombres y mujeres casados, en concubinato, o solteros mayores de edad, en pleno ejercicio de sus derechos, y que cumplan con los requisitos de adopción que establece esta Ley. Para el caso de personas casadas o en concubinato, bastará con que solo uno de ellos cumpla con el requisito de la edad.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 17.
 
-En todos los casos de adopción, se procurará dar preferencia a las personas que deseen adoptar que cumplan con los requisitos del artículo siguiente y que además tengan su domicilio en el Estado de Quintana Roo.
+En todos los casos de adopción, se procurará dar preferencia a las personas que tengan su domicilio en el Estado de Quintana Roo.
 
 ###### ARTÍCULO 18.
 
 El adoptante deberá acreditar:
 
-I. Que tiene capacidad según el artículo 16 de esta Ley, y ha sido declarado idóneo, es decir, adecuado y apto para adoptar por la autoridad competente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+l. Que tiene capacidad según el artículo 16 de esta Ley;
 
 II. Que al menos uno de los que pretenden adoptar en un matrimonio o concubinato, tiene 15 años más que la persona que se pretende adoptar;
 
 III. Que tiene medios suficientes para proveer debidamente la subsistencia y educación del niño, niña o adolescente que se pretende adoptar;
 
 IV. Que la adopción está fundada en el interés superior del niño, niña o adolescente.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V. Que cuenta con el informe de idoneidad para adoptar, elaborado por el Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VI. Cuando sea extranjero, además de cumplir con los requisitos que establecen los artículos anteriores, deberá acreditar su legal estancia en el país; y si no residiera en éste, deberá contar además con la autorización de la autoridad central de adopciones de su país de origen para adoptar a un menor de edad mexicano.
 
 ###### ARTÍCULO 19.
 
@@ -227,15 +245,43 @@ Se procurará que los hermanos y/o hermanas susceptibles de ser adoptados no sea
 
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más menores de edad que no son hermanos simultáneamente, siempre que se cumplan los requisitos previos en el artículo 18 de esta ley, y sea escuchada la opinión de los adoptantes y de todos los niños, niñas y adolescentes que se pretende adoptar al respecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 21.
 
-Para que la adopción pueda tener lugar, deberán consentir en ella:
+Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
-I. El mayor de 12 años de edad previo a su adopción, cuya opinión deberá ser escuchada en todo caso. Para ello, el juez recurrirá a todos los medios técnicos y humanos necesarios para que el niño, niña o adolescente pueda expresar su opinión, de manera acorde a su edad, sin causarle ningún perjuicio y que ésta sea interpretada correctamente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-II. Los padres biológicos o tutor de la persona que se pretendo adoptar, en caso de que existan y que no hayan perdido la patria potestad judicialmente;
+l. El mayor de 12 años de edad que se va a adoptar; si es menor de esa edad el Juez lo oirá personalmente, y en su caso, deberá tomar en cuenta sus deseos y opiniones según su madurez. Para ello, el Juez recurrirá a todos los medios técnicos y humanos necesarios para que el niño, niña o adolescente pueda expresar su opinión, de manera acorde a su edad, sin causarle ningún perjuicio y para que ésta pueda ser interpretada correctamente;
 
-III. En caso de que los progenitores hayan fallecido o perdido lo patria potestad, el tutor, y en su defecto, el Sistema para el Desarrollo Integral de la Familia del domicilio del menor de edad, el Ministerio Público y el Juez de Primera Instancia que conozca en materia familiar, quien considerará el beneficio superior del niño, niña o adolescente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+II. Los que ejercen la patria potestad sobre el menor de edad que se pretenda adoptar;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+III. El tutor del menor de edad que se va adoptar;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IV. El Ministerio Público adscrito al juzgado del conocimiento, cuando el menor de edad que se pretende adoptar no tenga padres conocidos o teniéndolos se desconozca su paradero o hubieran perdido la patria potestad, o no exista algún titular de la patria potestad respecto del menor de edad que se pretende adoptar;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V. El tutor o los que ejercen la patria potestad, en el caso de que, quien ejerza la patria potestad del menor de edad que se va a adoptar, esté sujeto a su vez al ejercicio de la misma; debiendo en todo caso tener también el consentimiento del menor de edad progenitor.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El consentimiento para la adopción puede ser expresado ante el titular de la Procuraduría de la Defensa del menor y la Familia del Estado, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentaran el certificado de nacido vivo o certificación del acta de nacimiento del menor de edad.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarles sobre los efectos de la adopción y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento del menor de edad. Respecto del menor de edad, éste será instruido e informado sobre los efectos de la adopción, y se tomaran en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Igual obligación tendrá el Juez que conozca de la adopción, respecto del consentimiento que sea manifestado ante él.
 
 El juez deberá, siempre y en todo caso, escuchar:
 
@@ -243,7 +289,9 @@ I. A quienes van a prestar el consentimiento;
 
 II. A los niños, niñas o adolescentes que se pretenden adoptar, independientemente de su edad, utilizando para ello los recursos técnicos y humanos más apropiados;
 
-III. A los Sistemas Estatal o Municipales para el Desarrollo Integral de la familia que haya elaborado el informe de idoneidad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+III. Al Sistema Estatal para el Desarrollo Integral de la Familia del Estado con respecto al informe de idoneidad;
 
 IV. A las instituciones de guarda y custodia con las que los sistemas estatal y municipales para el Desarrollo Integral de la Familia tengan convenio de colaboración, o personas que acogieron al niño, niña o adolescente en ausencia de sus progenitores.
 
@@ -259,9 +307,13 @@ VII. Han dado su consentimiento libremente, en la forma legalmente prevista, dad
 
 VIII. Los consentimientos no se han obtenido mediante pago o compensación de clase alguna y que tales consentimientos no han sido revocados;
 
-IX. El consentimiento de la madre se ha dado únicamente después del nacimiento del niño, o niña y que dicho consentimiento ha sido considerado únicamente tras las seis semanas de nacido;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-Además el juez deberá recibir y analizar cautelosamente el informe de idoneidad presentado por el Sistema para el Desarrollo Integral de la Familia y entrevistar a quienes estime oportuno para sustentar las conclusiones del Informe o desechar las mismas.
+IX. El consentimiento de la madre se ha dado únicamente después del nacimiento del niño o niña.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Además el Juez deberá recibir y analizar cautelosamente el informe de idoneidad presentado por el Sistema para el Desarrollo Integral de la Familia del Estado y entrevistar a quienes estime oportuno para sustentar las conclusiones del informe o desechar las mismas.
 
 ###### ARTÍCULO 22.
 
@@ -277,17 +329,23 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido aprob
 
 ###### ARTÍCULO 24.
 
-En materia de adopción, corresponde a los Sistemas Estatal y Municipales·para el Desarrollo Integral de la Familia de acuerdo a la legislación estatal:
+En materia de adopción, corresponde a los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia de acuerdo a la legislación estatal:
 
 I. Fomentar y promover la estabilidad y el bienestar de las familias, así como proporcionar los servicios de Asistencia Social requeridos por las familias en desventaja social y/o económica, teniendo como prioridad la unidad familiar, siempre que no se haya cometido un delito doloso en contra de alguno o varios de los miembros de la familia,
 
 II. Realizar acciones de prevención y protección física y jurídica de los menores de edad cuyos derechos hayan sido vulnerados;
 
-III. Proporcionar de forma gratuita los servicios de asistencia jurídica y orientación a las niñas, niños y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado. Patrocinar y representar por medio de la Procuraduría de la Defensa del Menor y la Familia, a las niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con éstos;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-IV. Realizar, a través de la Procuraduría de la Defensa del Menor y la Familia, la denuncia ante el Ministerio Público en los casos de violencia familiar, abuso sexual y demás atentados contra los derechos de la niñez que puedan constituir delito. Coadyuvar con el Ministerio Público y los órganos del Poder Judicial para la rápida resolución de los procedimientos;
+III. Proporcionar de forma gratuita los servicios de asistencia jurídica y orientación a los niños, niñas y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado. Patrocinar y representar por medio de la Procuraduría de la Defensa del Menor y la Familia y sus delegaciones municipales, a los niños, niñas y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con éstos;
 
-V. Realizar, a través de la Procuraduría de la Defensa del Menor y la Familia, la demanda de pérdida de patria potestad ante el Juez Familiar de Primer Instancia. Coadyuvar con el Juez Familiar para la rápida resolución del procedimiento de pérdida de la patria potestad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IV. Realizar, a través de la Procuraduría de la Defensa del Menor y la Familia y sus delegaciones municipales, la denuncia ante el Ministerio Público en los casos de violencia familiar, abuso sexual y demás atentados contra los derechos de la niñez que puedan constituir delito. Coadyuvar con el Ministerio Público y los órganos del Poder Judicial para la rápida resolución de los procedimientos;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V. Realizar, a través de la Procuraduría de la Defensa del Menor y la Familia y sus delegaciones municipales, la demanda de pérdida de patria potestad ante el Juez Familiar de Primera Instancia. Coadyuvar con el Juez Familiar para la rápida resolución del procedimiento de pérdida de la patria potestad;
 
 VI. Promover, a través de la Procuraduría de la Defensa del Menor y la Familia, la denuncia ante el Ministerio Público para la Declaración de abandono de los niños, niñas o adolescentes que presuntamente se encuentren en esta situación. Coadyuvar con el Ministerio Público y los órganos del Poder Judicial para la rápida resolución de los procedimientos de declaración de abandono;
 
@@ -315,11 +373,11 @@ XVII. Intervenir como órgano de consulta en los juicios de adopción en los té
 
 XVIII. Dar seguimiento a las adopciones, una vez concluido el proceso judicial, mediante visitas periódicas a la familia adoptante, entrevistas con el adoptado sin la presencia de sus padres adoptivos. Dichas visitas y entrevistas no podrán demorarse más de seis meses entre sí ni ser más de tres al año, salvo que la familia lo solicite o pida asesoramiento psicológico;
 
-XIX. En caso de detectar posibles causas de revocación o impugnación, informar a los participantes de la adopción sobre la posibilidad de revocar o impugnar la adopción y el procedimiento respectivo;
+XIX. (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
-XX. Si existiera voluntad del adoptado de impugnar la adopción, a través de la Procuraduría de la Defensa del Menor y la Familia, apoyar al adoptado para que formule la demanda de impugnación ante el Juez Familiar y asesorarle durante todo el procedimiento. También podrá formular la demanda de impugnación directamente;
+XX. (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
-XXI. Si existieran causas de revocación de la adopción, a través de la Procuraduría de la Defensa del Menor y la Familia, formular la demanda correspondiente ante el Juez Familiar.
+XXI. (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
 ###### ARTÍCULO 25.
 
@@ -329,15 +387,17 @@ En caso de delegación, los Sistemas Estatal y Municipales para el desarrollo In
 
 ### Capítulo II. De la Competencia Judicial
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-Los procedimientos de declaración de la adoptabilidad y de adopción se iniciarán por vía de jurisdicción voluntaria, ante el Juez Familiar de Primer Instancia del domicilio del niño, niña, o adolescente.
+Los procedimientos de declaración de la adoptabilidad y de adopción se iniciarán por vía de jurisdicción voluntaria, ante el Juez Familiar de Primera Instancia del domicilio del menor de edad que se pretende adoptar.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
-Todas las adopciones son plenas e irrevocables, salvo juicio seguido ante el Juzgado Familiar de Primera Instancia del domicilio de la persona adoptada.
-
-La impugnación de la adopción y su revocación no pueden promoverse en diligencias de jurisdicción voluntaria.
+Todas las adopciones son plenas e irrevocables.
 
 ## TÍTULO QUINTO
 
@@ -377,9 +437,11 @@ VII. No existe una solución mejor para el niño, niña o adolescentes sin separ
 
 En caso de duda, el juez podrá valerse del apoyo de un terapeuta o psicólogo poro realzar la entrevista, y podrá solicitar la realización de estudios psicológicos y socio-económicos para comprobar los enunciados del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 31.
 
-El consentimiento de la madre y el padre, o de aquél de los dos que lo haya otorgado, será revocable ante el juez en un plazo de 30 días. Si transcurrido ese periodo el consentimiento no es revocado por ellos, entonces puede iniciar la adoptabilidad, siendo ésta irrevocable una vez que se haya consumado, siempre y cuando concurran todos los requisitos de la Ley.
+El consentimiento de la madre y el padre, o de aquél de los dos que lo haya otorgado, será revocable ante el Juez hasta antes que la sentencia que declare la adoptabilidad cause ejecutoria. Si transcurrido ese período el consentimiento no es revocado por ellos, entonces puede iniciar el procedimiento de adopción.
 
 ###### ARTÍCULO 32.
 
@@ -391,15 +453,19 @@ En caso de encontrarse alguna de las circunstancias descritas en el artículo 30
 
 En caso de detectarse que son victimas de un delito, el Juez dará vista al Ministerio Público adscrito al juzgado correspondiente, quien abrirá un incidente criminal.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 34.
 
-Una vez hecha la entrevista y comprobaciones necesarias, y sí no se interpusiere oposición por parte legitima, el juez tendrá un plazo de 30 días naturales para dictar sentencia.
+Una vez hecha la entrevista y comprobaciones necesarias, y si no se interpusiere oposición por parte legítima, el Juez tendrá un plazo de 15 días naturales para dictar sentencia.
 
 ###### ARTÍCULO 35.
 
 El Sistema para el Desarrollo integral de la Familia podrá solicitar al Juez Familiar la custodia provisional del niño, niña o adolescente desde el inicio del procedimiento o en cualquier momento durante el mismo.
 
-El Juez Familiar se pronunciará en un plazo no mayor de tres días sobre dicha solicitud. Si no se solicitara al inicio o durante el procedimiento, el juez determinará en su sentencia declaratoria de quién quedará a cargo del niño, niña o adolescente de manera provisional, hasta que se sentencie su adopción a su custodia definitiva.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
+El Juez Familiar se pronunciará en un plazo no mayor de tres días sobre dicha solicitud. Si no se solicitara al inicio o durante el procedimiento, el Juez determinará en su sentencia declaratoria quién quedará a cargo del niño, niña o adolescente de manera provisional, hasta que se sentencie su adopción o su custodia definitiva.
 
 Para dictaminar la custodia provisional, el Juez deberá consultar al Sistema para el Desarrollo Integral de la Familia si existe, en primera instancia, la posibilidad de ubicar al niño, niña o adolescente con una familia sustituta, con voluntad de adoptarlo, que cumpla con todos los requisitos para poder adoptar y que ya ha sido preseleccionada y declarada, como idónea para adoptar al menor de edad, en base a todos los estudios psicológicos, médicos socio-económicos y jurídicos. Si ello no fuera posible, se buscara una familia sustituta previamente registrada y capacitada; y en última instancia, una institución pública o privada de asistencia social.
 
@@ -445,9 +511,11 @@ En las actas del Registro Civil que se levanten en estos casos, se expresarán l
 
 Por respeto a su dignidad y su derecho a la intimidad, el Acta no hará referencia a las circunstancias en las que el niño, niña o adolescente fue encontrado.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 42.
 
-Una vez dictaminada la averiguación previa, el juez dispondrá de un plazo de 3 días para emitir la Declaración de abandono del menor de edad.
+Una vez dictaminada la averiguación previa, y presentada ante el Juez, éste dispondrá de un plazo de ocho días para emitir la declaración de adoptabilidad por abandono del menor de edad.
 
 ### Capítulo III
 
@@ -457,9 +525,11 @@ De la Declaración de Adoptabilidad por pérdida de la Patria Potestad.
 
 Cuando sin causa justificada se deje de atender las necesidades de manutención y afecto de un hijo, hija, nieto o nieta por más de seis meses, si éste quedó a cargo de una persona o institución, también se considerará abandono y causal de pérdida de patria potestad de acuerdo al Artículo 1018-Bis del Código Civil. Las visitas ocasionales o intermitentes, no interrumpen el término de seis meses si no tienen el firme propósito de que el menor de edad sea reintegrado a la familia, o de proveer su bienestar emocional y económico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 44.
 
-Cuando concurran alguna o varias de las posibles causas de pérdida de la patria potestad establecidas en el Artículo 1018-Bis del Código Civil el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor y la Familia, formulará la demanda de pérdida de patria potestad lo antes posible ante el Juez Familiar de Primera Instancia del domicilio del menor de edad. El juez de la causa deberá, en beneficio de los menores de edad internos en una institución de asistencia social pública o privada, decretar, dentro de un mismo juicio, o pérdida de la patria potestad tanto o los progenitores como o los abuelos paternos y maternos, cuando éstos últimos, aun conociendo la situación, no quisieron evitar los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor de edad, así como cuando quede acreditada alguna de las causas señaladas en el Artículo 1018-Bis del Código Civil.
+Cuando concurran alguna o varias de las posibles causas de pérdida de la patria potestad establecidas en el Artículo 1018-Bis del Código Civil, el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor y la Familia, formulará la demanda de pérdida de patria potestad y la demanda de declaratoria de adoptabilidad, lo antes posible ante el Juez Familiar de Primera Instancia del domicilio del menor de edad. El Juez de la causa deberá, en beneficio de los menores de edad internos en una institución de asistencia social pública o privada, decretar, dentro de un mismo juicio, la pérdida de la patria potestad tanto a los progenitores como a los abuelos paternos y maternos, cuando éstos últimos, aún conociendo la situación, no quisieron evitar los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor de edad, así como cuando quede acreditada alguna de las causas señaladas en el Artículo 1018-Bis del Código Civil.
 
 Lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad.
 
@@ -469,9 +539,9 @@ En el caso de personas en reclusión que no hayan perdido la patria potestad ni 
 
 El artículo 35 de esta ley referido a la custodia provisional será aplicable en sus mismos términos respecto del procedimiento de pérdida de patria potestad y declaración de adoptabilidad.
 
-### Capítulo II (sic)
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 2011)</small>
 
-Del Juicio de Adopción y de la Revocación.
+### Capítulo IV. Del Juicio de Adopción
 
 ###### ARTÍCULO 46.
 
@@ -487,13 +557,17 @@ Previamente a que el Sistema para el Desarrollo Integral de la Familia asigne un
 
 El Sistema para el Desarrollo Integral de la Familia presentará ante el juez tanto el informe del niño, niña o adolescente como de los candidatos adoptantes, acompañado de toda la documentación necesaria establecida en esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 49.
 
-Una vez recibida la solicitud de adopción, el Juez tendrá un plazo de 15 días para citar en audiencia a todas las personas que deban prestar consentimiento y que deban ser escuchadas, de acuerdo al artículo 21 de esta ley. Durante la audiencia se desahogarán también todas las pruebas pertinentes.
+Una vez recibida la solicitud de adopción, el Juez tendrá un plazo de 15 días para citar en audiencia a todas las personas que deban prestar consentimiento y aún no lo hubieran otorgado y a las que deban ser escuchadas, de acuerdo al artículo 21 de esta Ley. Durante la audiencia se desahogarán también todas las pruebas pertinentes.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 50.
 
-Durante el juicio de adopción, el juez deberá verificar que las personas que deseen adoptar al niño, niña o adolescente cumplen con todos los requisitos establecidos en el artículo 18 de esta ley, que la asignación ha sido realizada por el Sistema para el Desarrollo Integral de la Familia y que son las personas idóneas y adecuadas para adoptar al niño, niña o adolescente en cuestión, debiendo en todo momento escuchar a todas las partes, incluyendo al menor de edad, conforme al artículo 11 de esta ley.
+Durante el juicio de adopción, el Juez deberá verificar que las personas que deseen adoptar al niño, niña o adolescente cumplen con todos los requisitos establecidos en los artículos 16 y 18 de esta Ley, que la asignación ha sido realizada por el Sistema para el Desarrollo Integral de la Familia y que son las personas idóneas y adecuadas para adoptar al niño, niña o adolescente en cuestión.
 
 ###### ARTÍCULO 51.
 
@@ -507,33 +581,13 @@ En caso de que los individuos o las instituciones públicas correspondientes no 
 
 ###### ARTÍCULO 53.
 
-La adopción es irrevocable salvo cuando en casos excepcionales y por sentencia judicial se declare:
+(DEROGADO, P.O. 22 DE MARZO DE 2011)
 
-I. Que el o los adoptantes vulneren los derechos del adoptado;
-
-II. Que exista incumplimiento de los adoptantes en sus obligaciones de patria potestad;
-
-III. Que se demuestre que los fines de la adopción hayan sido contrarios al interés superior del niño, niña o adolescente, o que fueran la explotación laboral o sexual, el matrimonio servil o forzado, o la comisión de algún delito en el cual la víctima sea la persona adoptada o sus parientes;
-
-IV. Si el adoptado comete algún delito Intencional contra la persona, la honra o bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-V. Que se demuestre que los adoptantes cometieron un delito tipificado por el Código Penal para el Estado Libre y Soberano de Quintana Roo en contra del adoptado;
-
-VI. Cuando el Estado, a través de los organismos facultados para ello, justifique que existe causa grave que ponga en peligro la integridad o el bienestar del niño, niña o adolescente adoptado.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 54.
 
-La persona adoptada, independientemente de su edad, podrá solicitar la revocación de la adopción en cualquier momento, siempre que exista presuntamente alguna de las causales de revocación previstas en el artículo anterior.
-
-Los Sistemas Estatal o Municipales de Desarrollo Integral de la Familia también podrán promover la revocación de la adopción según los plazos establecidos, en interés superior del niño, niña o adolescente adoptado, siempre que éste esté conforme e informado de acuerdo a su edad y madurez.
-
-Asimismo, los adoptantes podrán solicitar al juez la revocación de la adopción en cualquier momento, cuando se acrediten los supuestos contemplados en el artículo 53 de esta ley.
-
-Podrá solicitarse la pérdida de la patria potestad de los padres adoptivos sin la revocación de la adopción, cuando se incurra en alguna de las causales del Artículo 1018-Bis del Código Civil y se considere que es más benéfico para el niño, niña o adolescente la conservación de la identidad otorgada por la adopción, independientemente de la demanda penal que puada también iniciarse por la comisión de presuntos delitos en su contra.
-
-La resolución judicial que apruebe la revocación, deja sin efecto la adopción restituyendo las cosas al estado que tenían antes de que ésta se efectuara, en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil que autorizó el acta de adopción para que la cancele.
-
-El Juez acordará lo conducente respecto a la guarda y custodia del menor de edad, atendiendo al orden de preferencia establecido por el artículo 35 de esta ley.
+Podrá solicitarse la pérdida de la patria potestad de los padres adoptivos sin la revocación de la adopción, cuando se incurra en alguna de las causales del Artículo 1018-Bis del Código Civil y se considere que es más benéfico para el niño, niña o adolescente la conservación de la identidad otorgada por la adopción, independientemente de la demanda penal que pueda también iniciarse por la comisión de presuntos delitos en su contra.
 
 ## TRANSITORIOS
 
@@ -572,3 +626,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. CORA AMALIA CASTILLA MADRID
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo, para los efectos legales correspondientes.
