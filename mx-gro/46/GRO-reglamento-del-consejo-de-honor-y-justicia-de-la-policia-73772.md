@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-consejo-de-honor-y-justicia-de-la-policia-73772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-05"
-last_updated: "2010-02-05"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE LA POLICIA ESTATAL DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIVIL DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Reglamento publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 2010.
 
@@ -81,9 +81,13 @@ VII. Consejero, a los representantes de las diversas funciones y especialidades 
 
 Integrarán el Consejo de Honor y Justicia:
 
-I. Un Presidente, que será el Comandante General de la Policía Estatal;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-II. Un representante de la Unidad de Asuntos Jurídicos y Derechos Humanos de la Secretaría;
+I. Un Presidente, que será el representante de la Unidad de Asuntos Jurídicos y Derechos Humanos de la Secretaría de Seguridad Pública y Protección Civil;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+II. Un representante de la Unidad de Prevención Social del Delito;
 
 III. Un representante de la Unidad de la Policia Estatal Preventiva;
 
@@ -328,3 +332,15 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
 GRAL. JUAN HERIBERTO SALINAS ALTES
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Dentro de los cinco días hábiles siguientes a la publicación de este Decreto, deberá procederse a la designación del Consejero representante de la Unidad de Prevención Social del Delito.
+
+TERCERO. Una vez que haya sido designado el representante de la Unidad de Prevención Social del Delito, deberá procederse de inmediato a la toma de protesta del Consejero Presidente y del Consejero representante de la Unidad de Prevención Social del Delito del Consejo de Honor y Justicia.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
