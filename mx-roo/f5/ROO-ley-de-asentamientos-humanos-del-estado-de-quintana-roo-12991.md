@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-del-estado-de-quintana-roo-12991"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "2010-12-21"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial el 15 de junio de 1998.
 
@@ -1099,9 +1099,7 @@ Las licencias, permisos, autorizaciones o concesiones que se expidan en contrave
 
 Los actos, contratos o convenios relativos a la propiedad, posesión, uso o cualquier otra forma jurídica de tenencia de la tierra, que no contenga las cláusulas relativas a la utilización que le determinen los programas de desarrollo urbano aplicables, ni las correspondientes constancias de compatibilidad urbanística, no serán inscritos en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
-
-Tratándose de lotes o predios en fraccionamientos o condominios autorizados conforme a la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo, no se requerirá para la inscripción de los actos en el Registro Público de la Propiedad y del Comercio de las constancias de compatibilidad urbanística.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
 > <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -1446,3 +1444,7 @@ P.O. 21 DE DICIEMBRE DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE MARZO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
