@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-planeacion-y-73904"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2010-03-15"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION URBANISTICA Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de marzo de 2010.
 
@@ -704,3 +706,19 @@ SECRETARIO GENERAL DE GOBIERNO.
 Arq. Ricardo de Alba Obregón.,
 
 SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la Secretaría de Gestión Urbanística y Ordenamiento Territorial, le corresponderán además, todas aquellas atribuciones que por disposición legal o reglamentaria, le correspondan a la Secretaría de Planeación y Desarrollo Regional del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional del Estado, publicado en el Periódico Oficial del Estado de fecha quince de marzo del año dos mil diez.
