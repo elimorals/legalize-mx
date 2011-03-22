@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-para-el-estado-de-quintana-roo-7263
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2009.
 
@@ -55,9 +55,11 @@ Es objeto de esta ley establecer medios alternativos a la justicia ordinaria a f
 
 El procedimiento que se refiere en el artículo anterior, dentro del cual operan los medios no jurisdiccionales para la resolución de controversias jurídicas o de relación interpersonal que establece la presente ley, constituye en sí mismo una vía distinta e independiente de la vía jurisdiccional ordinaria y al fuero de los jueces y magistrados del orden común, jurisdicción que siempre estará expedita en los términos y condiciones que establecen la Constitución General de la República, la Constitución Política del Estado y las leyes ordinarias que las reglamentan, según la voluntad optativa del ciudadano, no pudiendo hacer uso simultáneo de ambas vías.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta ley, los medios no jurisdiccionales que se abordan en el procedimiento autónomo y alterno de resolución pacífica de conflictos, deberán entenderse en base a los conceptos siguientes:
+Para los efectos de esta Ley, los medios no jurisdiccionales que se abordan en el procedimiento autónomo y alterno de resolución pacífica de conflictos, deberán entenderse en base a los conceptos siguientes:
 
 I. Conciliación: Facilita la comunicación entre las partes vinculadas en el conflicto, en la búsqueda de soluciones adecuadas con la ayuda de un tercero que mediante sugerencias indirectas, justas y equitativas propicie la formulación de propuestas concretas de solución.
 
@@ -67,15 +69,23 @@ III. Negociación: Genera condiciones favorables para que las partes en el manej
 
 IV. Mediación: Facilita la comunicación entre las partes de un conflicto con la intervención de un tercero neutral, a fin de ayudarlos a esclarecer sus intereses, objetivos y necesidades intrínsecas, para que revestidos de autoridad en su conflicto puedan arribar a soluciones efectivas.
 
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+V. Mediación Penal: Medio intraprocesal, cuyo campo de acción se define a partir del delito, interviene en conflictos tipificados penalmente, y tiene como finalidad resolver conflictos, asumir responsabilidades a través del diálogo entre víctima y victimario, que se acota en el acuerdo reparatorio.
+
 Para los efectos del manejo de los medios alternativos de solución de conflictos, el prestador de dicho servicio podrá fungir como negociador, amigable componedor, mediador o conciliador, según la voluntad y necesidad de los usuarios del servicio, interviniendo como un conductor o facilitador de la comunicación entre partes.
 
-Por Justicia Restaurativa, debe entenderse todo proceso alternativo al procedimiento penal en el que participa la víctima o el ofendido, o probable responsable o delincuente, y, cuando así proceda, miembros de la comunidad afectados por el delito, para que se repare el daño provocado y se atiendan las necesidades de las partes con el fin de lograr resultados restaurativos.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-Se entiende por resultado restaurativo, la satisfacción de las necesidades y responsabilidades individuales y colectivas de los involucrados y afectados por el delito, así como el cumplimiento de compromisos y obligaciones contraídas tendientes a lograr la reintegración y restructuración del tejido social.
+Por Justicia Restaurativa, debe entenderse todo proceso alternativo al procedimiento penal en el que participa la víctima o el ofendido, o probable responsable o imputado, y, cuando así proceda, miembros de la comunidad afectados por el delito, para que se repare el daño provocado en búsqueda de una solución acordada para poner fin a sus controversias mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas, atendiendo a las necesidades de las partes con el fin de lograr resultados restaurativos.
+
+Se entiende por resultado restaurativo, la satisfación de las necesidades y responsabilidades individuales y colectivas de los involucrados y afectados por el delito, así como el cumplimiento de compromisos y obligaciones contraídas tendientes a lograr la reintegración y restructuración del tejido social.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### Artículo 5.
 
-El resultado de la aplicación de los procedimientos alternativos antes referidos para la solución pacífica de conflictos, puede culminar en un acuerdo verbal de cumplimiento cierto, en un acuerdo escrito, en un convenio satisfactorio con valor legal propio, en un acta de negativa de los usuarios para continuar en esa vía, o por acuerdo interno de cambio de circunstancias que vulneren el ánimo de las partes tornándose éste de pacífico a rijoso e impidan la prosecución de causa.
+El resultado de la aplicación de los procedimientos alternativos antes referidos para la solución pacífica de conflictos, puede culminar en un acuerdo verbal de cumplimiento cierto, en un acuerdo escrito, en un convenio satisfactorio con valor legal propio, en un convenio reparatorio, en un acta de negativa de los usuarios para continuar en esa vía, o por acuerdo interno de cambio de circunstancias que vulneren el ánimo de las partes tornándose éste de pacífico a rijoso e impidan la prosecución de causa.
 
 ###### Artículo 6.
 
@@ -353,6 +363,170 @@ Realizado lo anterior, el Centro de Justicia Alternativa deberá realizar audien
 
 Para el tratamiento de este tipo de casos, el Director o el Delegado del Centro de Justicia Alternativa en su caso, deberá abordar personalmente en su primera etapa el procedimiento alternativo de solución de conflictos para cerciorarse de la clarificación de la información y la manifestación libre de la anuencia de voluntad de los participantes, pudiendo para la segunda etapa asistirse de cualquiera de los especialistas de su adscripción, firmando en éste y en todos los casos los documentos legales pertinentes en cumplimiento de lo que así le exigiere la ley de justicia para adolescentes vigente en el Estado.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+
+### CAPÍTULO VIII. DE LOS MECANISMOS DE LA JUSTICIA RESTAURATIVA ANTE EL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 40.
+
+La justicia penal restaurativa, tendrá como finalidad la salida alternativa al proceso penal en virtud del cual se puede extinguir la acción penal tratándose de delitos culposos, aquellos perseguibles por querella, los de contenido patrimonial cometidos sin violencia y aquellos en los que admitan la sustitución de sanciones o condena condicional, procederá la conciliación entre víctima e imputado cuando exista el interés de someter el conflicto a un procedimiento alternativo o modo simplificado de terminación del proceso, que culmine en un acuerdo reparatorio prestado en forma libre y voluntaria y sea aprobado por el Juez de Control. Serán aplicables en lo conducente, las disposiciones previstas en el Título Séptimo del Código Procesal Penal del Estado.
+
+Se exceptúan de esta disposición, los homicidios culposos y los delitos en donde su comisión implique violencia familiar.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 41.
+
+El procedimiento ante el Centro dará comienzo con la canalización inicial documentada por la autoridad remisora. Esta contendrá: una descripción breve de los datos esenciales del hecho planteado, los nombres, domicilios y en su caso teléfonos de los involucrados en el asunto.
+
+Durante la etapa preliminar o de averiguación previa y hasta antes de la resolución de apertura a juicio, las partes implicadas en el delito podrán optar por la conciliación, como forma anticipada de terminación del conflicto.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 42.
+
+El funcionario público asignado procederá de inmediato a elaborar la citación a la persona o personas contra quien o quienes se presenta la denuncia o querella, a efecto de que comparezcan a la audiencia inicial correspondiente, informándole la fecha, lugar, y hora señaladas.
+
+Si quien haya sido citado manifiesta su negativa para participar en el medio alternativo, se informará de inmediato a la autoridad competente que corresponda, y se mandará el asunto al archivo de reserva. Después de archivado el caso por la causa señalada, si posteriormente persiste el interés de las partes involucradas, se reabrirá y se señalará día y hora para la audiencia.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 43.
+
+En las audiencias estarán presentes e intervendrán únicamente los interesados; cuando éstos sean personas morales, comparecerán a través de su legítimo representante.
+
+Tratándose de menores, éstos deberán ser representados por quien ejerza la patria potestad, tutor, curador o en su defecto, por el Oficial de Menores de Edad, dependiente de la Procuraduría de la Defensa del Menor y la Familia del Estado; así como el personal del Centro.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+
+#### SECCIÓN I. DE LOS ACUERDOS O CONVENIOS
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 44.
+
+El acuerdo o convenio con el que concluya el procedimiento alternativo, se redactará por el personal especializado designado y deberá contener los siguientes requisitos:
+
+l. El lugar y la fecha de su celebración;
+
+II. Los nombres y generales de los interesados. Tratándose de representación legal de alguna persona física o moral, se harán constar los documentos con los cuales se haya acreditado tal carácter;
+
+III. El nombre del funcionario Público que intervino en el mecanismo implementado;
+
+IV. Un capítulo de declaraciones, si se considera necesario;
+
+V. Una descripción precisa, ordenada y clara del convenio celebrado por los interesados, estableciendo las condiciones, términos, fecha y lugar de cumplimiento;
+
+VI. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar,
+
+VII. La firma del funcionario público que intervino;
+
+VIII. El señalamiento expreso de los efectos del incumplimiento; y
+
+IX. El convenio deberá ser aprobado por la Dirección Estatal, reconociéndolo legalmente, si no ha habido la denuncia o querella respectiva, una vez que inició el procedimiento penal, por el Juez de Control.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 45.
+
+El trámite de los mecanismos alternativos ante el personal del Centro concluirá:
+
+I. Por convenio en donde se establezca la forma de resolver el conflicto;
+
+II. En caso de que alguno de los interesados realice un comportamiento irrespetuoso o agresivo y no pueda superarse esa situación;
+
+III. Por decisión de uno de los interesados;
+
+IV. Por dos inasistencias de los interesados;
+
+V. Por la negativa de los interesados para la suscripción del acuerdo en los términos de la presente Ley; con salvedad de lo previsto en el segundo párrafo parte in fine del artículo 42 de esta ley;
+
+VI. Por resolución del director o de los delegados habilitados en los Municipios del Estado, cuando de la conducta de los interesados se desprenda que no hay voluntad para llegar a un arreglo; y
+
+VII. Por perdón del ofendido una vez que se haya reparado el daño.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+
+#### SECCIÓN II. DE LOS INTERESADOS
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 46.
+
+Los interesados en los mecanismos alternativos, son las probables victimas u ofendidos y el imputado. Cuando aquellas sean personas morales, comparecerán a través de su legítimo representante. Tratándose de menores, éstos deberán ser representados por quien ejerza la patria potestad, tutor, curador o en su defecto, por el Oficial de Menores de Edad, dependiente de la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 47.
+
+Los interesados tendrán los siguientes derechos:
+
+l. Solicitar los mecanismos alternativos en los términos de esta Ley, su reglamento y demás leyes aplicables;
+
+Il. Ser atendidos por el servidor público que como facilitador de la comunicación sea designado para intervenir en el trámite solicitado;
+
+III. Pedir al director, o en su caso, al delegado del Municipio correspondiente, la sustitución del tercero facilitador cuando exista causa justificada para ello, o bien, recusarlo;
+
+IV. De ser procedente, solicitar la intervención de auxiliares; y
+
+V. Los demás que establezca esta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 48.
+
+Son obligaciones de los interesados:
+
+l. Acudir a las audiencias de mediación y conciliación;
+
+II. Conducirse con respeto y observar buen comportamiento durante el desarrollo de las audiencias,
+
+III. Signar, o en su caso, estampar la huella dactilar en el convenio celebrado;
+
+IV. Cumplir con las obligaciones de dar, hacer o no hacer, establecidas en el convenio;
+
+V. Acudir, ante la Dirección del Centro, en un plazo de treinta días contados a partir de la fecha de cumplimiento del convenio, a manifestar en forma expresa que se ha dado cumplimiento al mismo; y
+
+VI. Las demás que establezca esta ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+
+#### SECCIÓN III. DEL CONTROL JUDICIAL DE LOS MECANISMOS EN LA JUSTICIA PENAL RESTAURATIVA
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 49.
+
+Los convenios que hayan sido resultado de la aplicación de mecanismos alternativos de solución de controversia en materia penal por parte de la Dirección del Centro de Justicia Alternativa, sea que establezcan obligaciones a futuro para cumplir con la reparación, restitución o resarcimiento del daño ocasionado a la víctima u ofendido, o bien dichos conceptos se encuentren satisfechos en el acto mismo de la suscripción del convenio, deberán ser sometidos a control y aprobación judicial.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 50.
+
+El control judicial de los mecanismos alternativos de solución de conflictos en la justicia penal, tendrá como finalidad verificar que se trata de derechos susceptibles de someterse a dichos mecanismos y que se cubra la reparación del daño.
+
+En la conciliación como modo simplificado de terminación del proceso penal, prevalece la voluntad de las partes; sin embargo, el Juez de Control deberá vigilar en todos los casos que en el convenio suscrito no se violen derechos fundamentales, ni de la víctima ni del imputado.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 51.
+
+El control judicial estará a cargo del Juez de Control, para lo cual el Centro Estatal de Justicia Alternativa deberá remitir dentro de los tres días siguientes o la celebración del convenio respectivo, un ejemplar del mismo al citado Juez de Control, quien lo aprobará o no, y en su caso lo registrará en un libro y medios electrónicos que para tal efecto se lleven, para lo cual implementará todas las medidas necesarias para verificar el cumplimiento o incumplimiento de los convenios, a efecto de observar lo previsto en el artículo 208 del Código Procesal Penal del Estado.
+
+Si la conciliación se produce antes de que se judicialice la investigación, el Ministerio Público siempre deberá auxiliarse de un tercero facilitador adscrito a la Dirección Estatal del Centro de Justicia Alternativa. En este caso, el Ministerio Público solicitará la audiencia respectiva para llevarla al Juez de Control o de Garantía, quien la aprobará o no.
+
+El Juez de Control deberá vigilar que en el convenio que al efecto se lleve a cabo, no se violen derechos fundamentales ni de la víctima ni del imputado, que existan condiciones de igualdad entre ellos, y que no hayan sido obligados a negociar bajo coacción o amenaza, debido a que esa conciliación genera la extinción de la acción penal y el consecuente sobreseimiento de la causa. Estas determinaciones sólo puede decretarlas el Juez.
+
+El debido cumplimiento del acuerdo o convenio extinguirá la acción penal.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+###### Artículo 52.
+
+En caso de que el Juez de control advierta que el convenio sujeto a supervisión judicial no se ha cumplido en la forma y plazo establecidos, se procederá conforme a lo siguiente: si el imputado incumple las obligaciones pactadas dentro del término que las partes hayan establecido y, de no fijar plazo las partes, dentro de un año contado a partir del día siguiente de la suscripción del convenio ante la Dirección, el Ministerio Público o el Juez de Control, dependiendo del inicio del procedimiento o proceso, la parte interesada podrá presentar su denuncia o querella o continuar con el primero, según la etapa en que se encuentre como si no se hubiera conciliado.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
@@ -390,3 +564,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- El Centro Estatal de Justicia Alternativa del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de la entrada en vigor de la presente ley, deberá realizar las adecuaciones normativas previstas en el reglamento interno y manual de procedimiento operativo del Centro Estatal de Justicia Alternativa del Estado de Quintana (sic), para la implementación de los mecanismos en la Justicia Penal Restaurativa. Dentro del mismo plazo deberán ser presentados para su aprobación ante el Consejo de la Judicatura del Estado. Documentos que el Consejo deberá aprobar, a más tardar, dentro del término de 30 días hábiles siguientes a las de su presentación.
+
+TERCERO.- Se derogan las disposiciones que se opongan a la presente ley.
