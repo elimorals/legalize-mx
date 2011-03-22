@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transito-transporte-y-explotacion-de-vias-y-11769"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "1996-12-16"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSITO, TRANSPORTE Y EXPLOTACION DE VIAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial de Estado de Quintana Roo, el 16 de diciembre de 1996.
 
@@ -277,6 +277,30 @@ VIII.- Evitar que personas carentes de licencia o permiso para manejar o sin cap
 
 IX.- En el caso de los vehículos sujetos a concesión mostrar los documentos que lo acreditan o los permisos correspondientes, así como la póliza vigente del Seguro del Viajero, por los montos que marcan las Leyes y Reglamentos que inciden en la materia y que son aplicables; más los correspondientes a los de inspección de seguridad y sanidad prescritos por los Reglamentos de la presente Ley.
 
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+X. Usar cinturón de seguridad, esta medida también la deberán atender todos los ocupantes de automóviles de uso público o privado;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XI. Usar sillas portainfantes cuando a bordo del vehículo se encuentran uno o varios menores de cinco años de edad;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XII. Ubicar a los menores en el asiento posterior del vehículo;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XIII. Utilizar casco protector para los ocupantes de motocicletas de uso público o privado;
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XIV. Abstenerse de conducir vehículos automotores cuando se encuentren bajo la influencia de bebidas alcohólicas, estupefacientes u otras sustancias tóxicas; y
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XV. Abstenerse de utilizar dispositivos de comunicación móvil, tales como radios, teléfonos y otros, que disminuyan la habilidad y capacidad de reacción al conductor de un vehículo.
+
 ###### ARTICULO 21.
 
 Para conducir vehículos con placas del Estado de Quintana Roo, es necesario tener licencia o permiso de las Autoridades de esta Entidad. Sin embargo, los conductores con licencia expedida por el Distrito Federal, otra entidad Federativa o en el Extranjero, podrán manejar los vehículos matriculados en este propio Estado o en los lugares en donde se originan sus licencias o permisos, las cuales deberán estar registradas en la Dependencia de Tránsito, cuando su permanencia sea de treinta en el Estado.
@@ -491,7 +515,7 @@ La justa retribución económica que los concesionarios obtengan por la prestaci
 
 SERVICIO PUBLICO DE TRANSPORTES DE PASAJEROS
 
-ARTICULO 56 (sic).- EI servicio público de transporte de pasajeros se divide en:
+ARTICULO 56 (sic).- El servicio público de transporte de pasajeros se divide en:
 
 I.- Servicio Público de Autobuses Urbanos.
 
@@ -736,3 +760,13 @@ DR. HECTOR ESQUILIANO SOLIS.
 EL C. SECRETARIO DE INFRAESTRUCTURA, MEDIO AMBIENTE Y PESCA.
 
 ARQ. SERGIO PEREZ ERALES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.-· El Ejecutivo del Estado y los Municipios realizarán las adecuaciones correspondientes en el Reglamento de Tránsito del Estado de Quintana Roo, y en los Reglamentos Municipales, respectivamente, para establecer las infracciones y sanciones a los conductores de vehículos en los mismos términos del presente decreto, en un plazo no mayor de 60 días naturales contados a partir de su entrada en vigor.
+
+Artículo Tercero.- El Ejecutivo del Estado y los Municipios deberán implementar una campaña para dar a conocer a la ciudadanía en general, las obligaciones que se derivan por la entrada en vigor del presente decreto.
