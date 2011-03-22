@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "2009-10-30"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -1107,7 +1107,7 @@ El Presidente del Tribunal y de las Salas será sustituido en sus faltas tempora
 
 El Presidente del Tribunal y de las Salas durará en su cargo seis años; los Representantes del Gobierno Estatal y de los Trabajadores al Servicio del Estado, de los Ayuntamientos y del Sistema Educativo Quintanarroense, podrán ser renovados libremente por quienes los designaron.
 
-Los cargos de los integrantes del Tribunal serán honoríficos y no percibirán emolumentos por su desempeño.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 129.
 
@@ -1127,11 +1127,13 @@ IV.- El representante de los trabajadores, deberán (sic) haber servido a las de
 
 El Tribunal Estatal de Conciliación y Arbitraje se ajustará a las siguientes bases:
 
-I.- El Secretario General de Acuerdos, Actuarios, y el personal que sea necesario actuarán a título honorífico y serán los mismos que ocupen esos cargos en la junta Local de Conciliación y Arbitraje.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-II.- Todas las audiencias y demás actos procesales que deban llevarse a cabo en el Seno del Tribunal Estatal de Conciliación y Arbitraje, se llevarán a cabo en el local e instalaciones de la junta de Conciliación y Arbitraje.
+l.- Contará con un Secretario General de Acuerdos, Secretarios Proyectistas, Auxiliares de Acuerdos, Actuarios y el personal que sea necesario;
 
-III.- Los actos procesales dentro y fuera del Tribunal serán llevados a cabo por el personal a que se hace referencia en el inciso I de este Artículo.
+II.- (DEROGADA, P.O. 22 DE MARZO DE 2011)
+
+III.- (DEROGADA, P.O. 22 DE MARZO DE 2011)
 
 IV.- Las autoridades que sean parte, absolverán posiciones por medio de oficio en que se insertarán las preguntas que quiera hacerles la contraparte para que, por vía de informe, sean contestadas dentro del término que señale el Tribunal.
 
@@ -1155,11 +1157,11 @@ V.- Efectuar el registro de las condiciones generales de trabajo; y
 
 VI.- Conocer de todos los demás casos que se susciten por la aplicación de esta Ley.
 
-###### ARTICULO 132.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
-La primera promoción o demanda relativa a un conflicto individual, colectivo o sindical, deberá presentarse ante la Junta Local de Conciliación y Arbitraje con sede en la capital del Estado, quien exclusivamente se limitará a recibirla y remitirla al Presidente del Tribunal de Conciliación y Arbitraje durante el término de cuarenta y ocho horas.
+###### Artículo 132.
 
-El Presidente del Tribunal citará a las partes, dentro del término de veinticuatro horas siguientes, a una audiencia de conciliación, que deberá llevarse a cabo dentro de los cinco días a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, turnará el expediente al secretario general de acuerdos del Tribunal para que proceda al arbitraje de conformidad con el procedimiento que establece este capítulo.
+El presidente del Tribunal citará a las partes, dentro del término de veinticuatro horas siguientes, a una audiencia de conciliación, que deberá de llevarse a cabo dentro de los cinco días a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen tunará el expediente al Secretario General de Acuerdos del Tribunal para que proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
 
 ###### ARTICULO 133.
 
@@ -1502,3 +1504,9 @@ P.O. 11 DE MARZO DE 2008.
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2011.
+
+PRIMERO.-·El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
