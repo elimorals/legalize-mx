@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2009-12-18"
+last_updated: "2011-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -208,6 +208,10 @@ La prestación y administración de los servicios públicos previstos en la pres
 ###### Artículo 7.
 
 El monto de las cuotas y tarifas que se establecen en este ordenamiento, se actualizarán mensualmente en la misma proporción en que lo haga el índice Nacional de Precios al Consumidor que publique el Banco de México en el Diario Oficial de la Federación, dicho factor se obtendrá dividiendo el índice nacional de precios al consumidor del mes anterior, al más reciente del período entre el citado índice correspondiente al mes anterior, al más antiguo de dicho período, salvo las relacionadas con el uso doméstico para las cuales se considerarán los incrementos al salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2011)</small>
+
+Adicionalmente, las tarifas de consumo doméstico, comercial, industrial, hotelero, de servicios generales a la sociedad y parques acuáticos, podrán ser actualizadas cada vez que exista un incremento en el costo de la energía eléctrica, aplicándoles el porcentaje resultante de multiplicar un factor del 30% al incremento porcentual de la energía eléctrica.
 
 ###### Artículo 8.
 
@@ -415,25 +419,67 @@ El prestador de los servicios podrá cobrar una sanción equivalente hasta dos s
 
 #### Sección Primera. Servicios de Agua Potable y Alcantarillado
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 39.
 
 Las tarifas base para el cobro de los servicios de agua potable para el uso doméstico, sobre la base del consumo determinado mediante la lectura del medidor, serán las siguientes:
 
-RANGO DE CONSUMO CUOTA BASE CUOTA
+Rango de Consumo, M3 Cuota Base Cuota Adicional
 
-LIM. INFER. LIM. SUPER. (PESOS) ADIC.x M3
+Límite Límite (Pesos) M3 (Pesos)
 
-(PESOS)
+Inferior Superior
 
-0 10 43.48 0.00
+0 10 150.90 0.00
 
-11 20 47.82 4.35
+11 20 157.35 15.09
 
-21 40 108.86 6.47
+21 40 358.17 21.30
 
-41 60 237.83 12.98
+41 60 782.53 42.84
 
-61 999,999 492.45 32.46
+61 999,999 1,620.20 106.80
+
+A esta tarifa se le aplicará el siguiente subsidio:
+
+Rango de Consumo, M3 Cuota Base Cuota Adicional
+
+Límite Límite (Pesos) M3 (Pesos)
+
+Inferior Superior
+
+0 10 60% 0.00%
+
+11 20 55% 50.00%
+
+21 40 50% 45.00%
+
+41 60 45% 40.00%
+
+61 999,999 40% 35.00%
+
+Que aplicándolo a la tarifa base, se traduce en:
+
+Rango de Consumo, M3 Cuota Base Cuota Adicional
+
+Límite Límite (Pesos) M3 (Pesos)
+
+Inferior Superior
+
+0 10 60.36 0
+
+11 20 70.81 7.55
+
+21 40 179.09 11.72
+
+41 60 430.39 25.70
+
+61 999,999 972.14 69.42
+
+La Comisión de Agua Potable y Alcantarillado, de acuerdo a los usos de suelo establecidos en los Programas de Desarrollo Urbano vigentes y al nivel de ingresos de los usuarios, podrá establecer diversas clasificaciones de tipos de vivienda a los cuales aplicará los subsidios correspondientes.
+
+A petición del usuario la Comisión de Agua Potable y Alcantarillado podrá realizar un estudio socioeconómico para efecto de reclasificar la vivienda a otra tarifa. En dicho estudio se considerarán los servicios hidráulicos con que cuente la vivienda, la superficie construida, la superficie del terreno, la propiedad del predio y el ingreso de la familia, buscando siempre la relación equitativa entre mayor consumo mayor pago y viceversa.
 
 En tanto se carezca de medidor en tomas de uso doméstico se establece como tarifa de consumo mínimo, la correspondiente al rango de consumo de 0 a 10 M3.
 
@@ -447,27 +493,69 @@ Número de Usuarios
 
 La suma de ambas cuotas es lo que deberá pagar cada usuario.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 41.
 
 Las tarifas base para el cobro de los servicios de agua potable para el uso comercial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
-RANGO DE CONSUMO CUOTA BASE CUOTA
+Rango de Consumo, M3 Cuota Base Cuota Adicional
 
-LIM. INFER. LIM. SUPER. (PESOS) ADIC.x M3
+Límite Límite (Pesos) M3 (Pesos)
 
-(PESOS)
+Inferior Superior
 
-0 10 44.15 0.00
+0 10 153.23 0.00
 
-11 20 72.93 13.23
+11 20 239.82 34.66
 
-21 50 195.37 18.98
+21 50 602.80 49.72
 
-51 100 774.51 23.99
+51 100 2,148.36 61.00
 
-101 200 1,368.05 30.43
+101 200 3,800.99 80.49
 
-201 999,999 3,800.39 30.43
+201 999,999 9,903.59 80.49
+
+Tabla de Subsidio:
+
+Rango de Consumo, M3 Cuota Base Cuota Adicional
+
+Límite Límite (Pesos) M3 (Pesos)
+
+Inferior Superior
+
+0 10 60% 0.00%
+
+11 20 60% 60%
+
+21 50 60% 60%
+
+51 100 60% 60%
+
+101 200 60% 60%
+
+201 999,999 60% 60%
+
+Que aplicándolo a la tarifa base, se traduce en:
+
+Rango de Consumo, M3 Cuota Base Cuota Adicional
+
+Límite Límite (Pesos) M3 (Pesos)
+
+Inferior Superior
+
+0 10 61.29 0.00
+
+11 20 95.93 13.86
+
+21 50 241.12 19.89
+
+51 100 859.34 24.40
+
+101 200 1,520.40 32.20
+
+201 999,999 3,961.44 32.20
 
 ###### Artículo 42.
 
@@ -563,15 +651,21 @@ IV. La cantidad que corresponda a “los metros cúbicos consumidos adicionales�
 
 V. Se sumará la “cuota base a pagar” a la “cuota adicional a pagar”, con lo que se obtendrá la cantidad total a pagar.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 46.
 
-Los usuarios deberán de pagar por los servicios de alcantarillado una cuota adicional igual al 20% del importe del cobro del consumo de agua potable.
+Los usuarios deberán de pagar por los servicios de alcantarillado una cuota adicional igual al 35% del importe del cobro del consumo de agua potable.
 
 #### Sección Segunda. Servicios de Alcantarillado por Descargas en Exceso
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MARZO DE 2011)</small>
+
 ###### Artículo 47.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 2009)
+(Cuando los usuarios hagan sólo uso del alcantarillado o descarguen en la red de alcantarillado una cantidad de agua residual mayor a la cantidad consumida de la red de agua potable, deberán de pagar por cada metro cúbico descargado en exceso la cantidad de $10.45 por M3.
+
+El prestador del servicio podrá llevar a cabo la instalación de medidores de descarga, en los casos que considere que la descarga a la red de alcantarillado es superior al agua potable consumida de la red.
 
 ### CAPÍTULO SEXTO. DE LAS TARIFAS POR OTROS CONCEPTOS
 
@@ -706,3 +800,13 @@ P.O. 18 DE DICIEMBRE DE 2009.
 ARTÍCULO TRANSITORIO:
 
 UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE MARZO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El cobro de las cuotas por consumo doméstico que incluyen el subsidio de acuerdo al artículo 39 de esta ley, iniciará a partir del mes de abril del 2011.
+
+TERCERO. Los usuarios que tengan sistemas propios de potabilización a la fecha de la publicación de presente decreto y que descarguen sus aguas residuales a los sistemas de alcantarillado públicos, gozarán, durante el Ejercicio Fiscal 2011, de un subsidio equivalente al 70% de la tarita establecida en el artículo 47 del presente ordenamiento.
+
+CUARTO. Los usuarios que estén efectivamente conectados a la red de alcantarillado gozarán de un subsidio equivalente al 20% de la cuota resultante de aplicar la tarifa establecida en el artículo 46 del presente ordenamiento.
