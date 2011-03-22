@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-03-15"
+last_updated: "2011-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MARZO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MARZO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -643,8 +643,6 @@ XXII.- Proporcionar a los Ayuntamientos y a las Asociaciones en general, asesor�
 
 XXIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MARZO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2011)</small>
 
 ARTICULO 34·TER.- A la Secretaría de Ecología y Medio Ambiente le corresponde el despacho de los siguientes asuntos:
@@ -695,7 +693,9 @@ XXII. Aprobar la estructura orgánica de la Procuraduría de Protección al Ambi
 
 XXIII. Aprobar y expedir el Reglamento Interior de la Procuraduría de Protección al Ambiente del Estado y los Manuales y demás ordenamientos, normas y disposiciones generales de carácter interno, orientadas a mejorar la organización y funcionamiento técnico y administrativo del órgano desconcentrado;
 
-XXIV. Nombrar y remover, a propuesta del Procurador, en todo aquello que no contravenga el Reglamento Interior de la Procuraduría de Protección al Ambiente y las demás leyes aplicables, a los servidores públicos de la Procuraduría que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sueldos y prestaciones, así como el concederles licencias;
+> <small>(F. DE E., P.O. 22 DE MARZO DE 2011)</small>
+
+XXIV. Nombrar y remover, a propuesta del Procurador, en todo aquello que no contravenga el Reglamento Interior de la Procuraduría de Protección al Ambiente y las demás leyes aplicables, a los servidores públicos de la Procuraduría que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, así como el concederles licencias;
 
 XXV. Delegar en los Titulares de sus órganos desconcentrados, las facultades que por acuerdo se determinen expresamente;
 
@@ -841,29 +841,43 @@ XXIV.- Las demás que le atribuyen expresamente las leyes y reglamentos.
 
 A la Secretaría de Desarrollo Agropecuario, Rural e Indígena, corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia de agricultura, fruticultura, horticultura, apicultura, ganadería, agroindustria, desarrollo rural, de aprovechamiento forestal, de desarrollo indígena y para los grupos marginados, con base en la Legislación Estatal y Federal aplicable y las normas y lineamientos que determine el Gobernador del Estado, en vinculación con el Sistema Estatal de Planeación de la Entidad, y tomando en cuenta la opinión del sector productor en lo conducente;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-II. Promover, conforme a la naturaleza de sus atribuciones, las relaciones de equidad entre las comunidades indígenas, los sectores de la sociedad y el Estado, en los términos de los artículos 3o y 4o de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre Soberano de Quintana Roo;
+I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico, en materia de agricultura, fruticultura, horticultura, apicultura, ganadería, agroindustria, desarrollo rural y de aprovechamiento forestal, con base en la Legislación Estatal y Federal aplicable y las normas y lineamientos que determine el Gobernador del Estado, en vinculación con el Sistema Estatal de Planeación de la Entidad, y tomando en cuenta la opinión del sector productor en lo conducente;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+II. Coordinar con la Comisión para el Desarrollo de los Pueblos Indígenas la formulación, instrumentación y evaluación de las políticas y programas sectoriales en materia de desarrollo indígena, promoviendo las relaciones de equidad entre las comunidades indígenas, los sectores de la sociedad y el Estado, en los términos de los artículos 3o y 4o de la Constitución Política de los Estados Unidos Mexicanos y 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
 III. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
 
-IV. Ejercer, por delegación del Ejecutivo del Estado, las atribuciones y funciones que en materia agrícola, ganadera, forestal, aprovechamiento racional de los cuerpos de agua, acuacultura, agroindustria, de desarrollo rural e indígena y para los grupos marginados, contengan los convenios firmados entre el Titular del Poder Ejecutivo del Estado y la Administración Pública Federal; y proponer al Gobernador del Estado la instrumentación de nuevos convenios en los rubros mencionados;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IV. Ejercer, por delegación del Ejecutivo del Estado y de manera coordinada con las Dependencias y Entidades de la Administración Pública Estatal, las atribuciones y funciones que en materia agrícola, ganadera, forestal, aprovechamiento racional de los cuerpos de agua, acuacultura, agroindustria, de desarrollo rural e indígena y para los grupos marginados, contengan los convenios firmados entre el Titular del Poder Ejecutivo del Estado y la Administración Pública Federal; y proponer al Gobernador del Estado la instrumentación de nuevos convenios en los rubros mencionados;
 
 V. Intervenir en la formulación y conducción, en coordinación con las dependencias competentes del Gobierno Federal y Estatal, en las políticas estatales en materia de producción agrícola, ganadera, así como de aprovechamiento forestal y desarrollo hidráulico y agroindustrial;
 
-VI. Regular, promover y vigilar los servicios agropecuarios, de desarrollo rural y de desarrollo indígena y para los grupos marginados de la entidad, conforme a la legislación aplicable; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad, en un contexto de competitividad y adecuado desarrollo agropecuario, rural e indígena; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional, que incentiven el desarrollo y la inversión productiva en los ámbitos de su competencia;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-VII. Establecer, en coordinación con las dependencias federales y locales competentes, programas y acciones que tiendan a fomentar la productividad y la rentabilidad de las actividades agrícolas, ganaderas, forestales, agroindustriales, de desarrollo rural y para el desarrollo indígena y de los grupos marginados; así como integrar e impulsar proyectos de inversión en esas actividades;
+VI. Regular, promover y vigilar en coordinación con las Dependencias y Entidades competentes, los servicios agropecuarios, de desarrollo rural y de desarrollo indígena de la entidad, conforme a la legislación aplicable; así como, difundir técnicas, sistemas y procedimientos eficaces que permitan el mejoramiento de la producción y la productividad en un contexto de competitividad y adecuado desarrollo agropecuario, rural e indígena; asimismo, proponer al Titular del Poder Ejecutivo del Estado, los mecanismos de coordinación interinstitucional, que incentiven el desarrollo y la inversión productiva en los ámbitos de su competencia;
 
-VIII. Establecer, en coordinación con las dependencias de la Administración Pública de la Entidad, los programas prioritarios de desarrollo agrícola, ganadero, aprovechamiento de los mantos acuíferos, acuícola, agroindustrial, forestal, y de desarrollo rural, indígena, y para los grupos marginados hacia los cuales se canalicen los apoyos presupuestales, financieros y las brigadas de apoyo técnico necesarios para el cumplimiento de esos programas;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-IX. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera, agroindustrial, forestal, y de desarrollo rural, indígena y para los grupos marginados en la Entidad, así como aquellas que permitan clasificar y evaluar los suelos para lograr su aprovechamiento racional, y su conservación y mejoramiento, en una perspectiva de desarrollo económico sustentable;
+VII. Establecer, en coordinación con las dependencias y entidades federales, estatales y municipales competentes, programas y acciones que tiendan a fomentar la productividad y la rentabilidad de las actividades agrícolas, ganaderas, forestales, agroindustriales, de desarrollo rural e indígena; así como integrar e impulsar proyectos de inversión en esas actividades;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+VIII. Establecer, en coordinación con las dependencias y entidades de la Administración Pública Estatal, los programas prioritarios de desarrollo agrícola, ganadero, aprovechamiento de los mantos acuíferos, acuícola, agroindustrial, forestal, y de desarrollo rural, indígena, y para los grupos marginados hacia los cuales se canalicen los apoyos presupuestales, financieros y las brigadas de apoyo técnico necesarios para el cumplimiento de esos programas;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+IX. Planear la expansión, mejoramiento y tecnificación de las actividades relacionadas con la producción e industrialización agrícola, ganadera, agroindustrial y forestal, así como aquellas que permitan clasificar y evaluar los suelos para lograr su aprovechamiento racional, y su conservación y mejoramiento, en una perspectiva de desarrollo económico sustentable;
 
 X. Elaborar y ejecutar, en coordinación con las autoridades competentes, estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados al sector primario, a fin de asegurar un desarrollo sustentable y sostenido para satisfacer las necesidades en el Estado;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XI. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal y rural vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Desarrollo Social, y con la participación de las etnias y de los grupos involucrados;
+XI. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal y rural vinculados con la transformación socioeconómica de las comunidades indígenas, en coordinación con las Dependencias y Entidades competentes de la Administración Pública Estatal;
 
 XII. Instrumentar, ejecutar, evaluar y supervisar acciones tendientes a propiciar el desarrollo rural, de las zonas cañeras y de los grupos marginados;
 
@@ -873,7 +887,9 @@ XIV. Instrumentar los programas y acciones para la capacitación de los producto
 
 XV. Intervenir, con las autoridades competentes Federales y Estatales, en la emisión de lineamientos jurídicos para la ejecución de programas y proyectos de operación, conservación y construcción de obras de riego y para el mejoramiento y rehabilitación de suelos, agrícolas, suelo forestal y ganadero;
 
-XVI. Participar en la construcción, operación y mantenimiento, en su caso, directamente o por adjudicación a particulares en las obras públicas destinadas al fomento, distribución, abasto o comercialización de productos agrícolas, ganaderos, agroindustriales y otros de la actividad rural e indígena; asimismo, promover con las autoridades competentes, el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, forestal, rural y de las actividades de las comunidades indígenas de la entidad;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XVI. Participar en la construcción, operación y mantenimiento, en su caso, directamente o por adjudicación a particulares, en las obras públicas destinadas al fomento, distribución, abasto y comercialización de productos agrícolas, ganaderos, agroindustriales o cualquier otro que se derive de las actividades económicas rurales; asimismo, promover con las autoridades competentes, el desarrollo de la infraestructura industrial y comercial de la producción agropecuaria, forestal y rural;
 
 XVII. Realizar estudios y proyectos, en coordinación con las autoridades competentes federales y locales, para la construcción y reconstrucción de la infraestructura agropecuaria e hidroagrícola, necesarias para el desarrollo de estas actividades;
 
@@ -883,7 +899,9 @@ XIX. Coordinar, supervisar y atender la observancia obligatoria de la normativid
 
 XX. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos de origen agrícola, ganadero y forestal; así como, instrumentar y ejecutar, en coordinación con las autoridades competentes, acciones y programas de industrialización, distribución, abastecimiento, comercialización y consumo de dichos productos. Además proponer a la Secretaría de Hacienda y otras instancias correspondientes, el establecimiento de estímulos fiscales y facilidades administrativas para fomentar las actividades de comercialización de los productos y aprovechamiento forestal en el Estado;
 
-XXI. Instrumentar esquemas de financiamiento mediante la creación de fondos de fomento y garantía, así como, otras instancias similares que permitan la participación de la banca comercial y de desarrollo en los proyectos de desarrollo agropecuario, rural, indígena y de los grupos marginados;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XXI. Coordinar con las Dependencias y Entidades de la Administración Pública Estatal competentes, la instrumentación de esquemas de financiamiento mediante la creación de fondos de fomento y garantía, así como, otras instancias similares que permitan la participación de las instituciones bancarias en los proyectos de desarrollo agropecuario, rural, indígena y de los grupos marginados;
 
 XXII. Fomentar y controlar los servicios agropecuarios y de desarrollo rural que establezca el Estado, tales como distribución de semillas, mejoras, fertilizantes; árboles frutales y centrales de maquinaria entre otros;
 
@@ -903,19 +921,23 @@ XXVII. Coordinar, supervisar y orientar a los Centros de Investigación Agropecu
 
 XXVIII. Colaborar en la elaboración, instrumentación y evaluación de los programas de desarrollo urbano vinculados con las comunidades indígenas y grupos marginados, con la participación de las Dependencias, Entidades y Sectores involucrados y atendiendo a criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de recursos, con la finalidad de incrementar y mejorar los niveles de bienestar de la población;
 
-XXIX. Investigar los problemas relativos a los núcleos indígenas y marginados del Estado, así como estudiar y promover las medidas de mejoramiento que requieran dichos grupos y coadyuvar con la Secretaría de Gobierno en la adecuada atención política de su problemática;
+XXIX. (DEROGADA P.O. 22 DE MARZO DE 2011)
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XXX. Formular e instrumentar de manera coordinada con la Secretaría de Desarrollo Social, el programa estatal para el desarrollo indígena y de los grupos marginados y concertar con la Secretaría de Planeación y Desarrollo Regional los recursos presupuestales para la ejecución del mismo;
+XXX. Formular e instrumentar de manera conjunta con la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas el programa estatal para el desarrollo indígena y concertar con la Secretaría de Planeación y Desarrollo Regional los recursos presupuestales para la ejecución del mismo;
 
-XXXI. Asegurar y fortalecer la participación de los Sectores Social y Privado en los programas destinados al desarrollo de las comunidades indígenas y grupos marginados;
+XXXI. (DEROGADA P.O. 22 DE MARZO DE 2011)
 
 XXXII. Fungir como cuerpo consultivo de las Instituciones Oficiales y Privadas en la materia de su competencia, de conformidad con las disposiciones Jurídicas aplicables;
 
-XXXIII. Emprender aquellas acciones de mejoramiento de las comunidades indígenas y de los grupos marginados en coordinación con los sectores competentes;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XXXIV. Participar en los Programas para la Preservación de la Cultura y Costumbres Indígena y Bilingüe para Apoyar a las Comunidades Indígenas; así como intervenir cuando así le competa en la administración de fondos Mixtos Nacionales o Internacionales para Apoyar el Desarrollo de las Comunidades Indígenas y de los Grupos Marginados;
+XXXIII. Emprender acciones de mejoramiento de las comunidades indígenas en coordinación con la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XXXIV. Intervenir cuando así le competa y en coordinación con la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas; en la administración de fondos mixtos nacionales o internacionales para apoyar el desarrollo de las comunidades indígenas;
 
 XXXV. Cooperar y opinar, en coordinación con la Secretaría de Educación y Cultura, en la elaboración de los convenios de coordinación que en materia de educación indígena y para los grupos marginados, celebre el Estado con el Gobierno Federal y los Municipios;
 
@@ -1013,9 +1035,9 @@ XXIX. Instrumentar la elaboración de programas de carácter educativo, orientad
 
 XXX. (DEROGADA, P.O. 14 DE JUNIO DE 2007)
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
 
-XXXI. Administrar los Fondos Mixtos, nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas, en coordinación con la Secretaría de Cultura; y
+XXXI. Administrar los Fondos Mixtos, nacionales o internacionales, para apoyar el desarrollo de las comunidades indígenas y de los grupos marginados y los programas para la preservación de las lenguas y culturas indígenas del Estado, y para apoyar la educación bilingüe en las comunidades indígenas, en coordinación con la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas; y
 
 XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -1161,7 +1183,9 @@ XIX. Realizar visitas de verificación a los prestadores de servicios turístico
 
 XX. Instrumentar los mejores esquemas de beneficio turístico para la difusión de la cultura Maya;
 
-XXI. En coordinación con las Secretarías de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Rural e Indígena, y con la participación de las etnias, implementar programas de promoción turística que propicien la integración directa de los grupos marginados y de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas:
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+
+XXI. Implementar programas de promoción turística que propicien la integración directa de las comunidades indígenas al desarrollo del Estado, sin afectar los usos, costumbres y tradiciones de estas últimas, en coordinación con las Secretarías de Desarrollo Social y la Secretaría de Desarrollo Agropecuario, Rural e Indígena, así como con la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas;
 
 XXII. Consolidar al Consejo Estatal de Promoción y Desarrollo Turístico del Estado de Quintana Roo, como un foro especializado para la promoción, la concertación y la difusión de programas de desarrollo turístico, con los sectores, público, social y privado;
 
@@ -1638,3 +1662,7 @@ SÉPTIMO.- Se faculta al Gobernador del Estado a través de la Secretaría de Ha
 OCTAVO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto se transfiera de una Dependencia a otra, se respetarán conforme a las leyes en la materia.
 
 NOVENO.- Las menciones contenidas en otras Leyes, Reglamentos, Decretos, Acuerdos y en general en cualquier otra disposición o instrumento legal o administrativo, en que se haga referencia a la Secretaría de Planeación y Desarrollo Regional y a la Secretaría de Desarrollo Urbano y Medio Ambiente, se entenderán referidas a la Dependencia que corresponda de acuerdo al ámbito de competencia definida en el presente Decreto.
+
+P.O. 22 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
