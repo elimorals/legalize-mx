@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2009-08-14"
+last_updated: "2011-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -619,13 +619,11 @@ Cuando el bien inmueble, sea adquirido por herencia o legados, por el cónyuge s
 
 Tratándose de adquisición de casa-habitación tipo interés social, de nueva construcción cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 10% de la base gravable. En las que el valor sea de 5,501 a 9,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 46.
 
-No se pagará el impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan la federación, las Entidades Federativas y los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
-
-Tampoco se pagará el impuesto establecido en este Capítulo en las Adquisiciones de Inmuebles que hagan los Arrendatarios Financieros al ejercer la opción de compra en los términos del Contrato de Arrendamiento Financiero.
+No se pagara el impuesto establecido en este Capítulo en las adquisiciones de bienes inmuebles que hagan la Federación, el Estado o los Municipios, para formar parte del dominio público, de acuerdo a lo establecido con el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3342,3 +3340,9 @@ P.O. 14 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
