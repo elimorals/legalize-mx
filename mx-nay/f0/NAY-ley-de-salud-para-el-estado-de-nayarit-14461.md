@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2007-11-14"
+last_updated: "2011-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1323,6 +1323,8 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 124.
 
 Para los efectos de esta Ley, se entiende por accidente el hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles
@@ -1513,17 +1515,23 @@ El organismo del gobierno estatal previsto en el artículo 131 de esta ley, tend
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 150.
 
-El gobierno del Estado se coordinará con las autoridades sanitarias federales para el ejercicio en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para el ejercicio en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de alcoholismo y, en su caso, la rehabilitación de los alcohólicos.
 
-II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2011)</small>
+
+II.- Impulsar campañas de información orientadas a inhibir y combatir el alcoholismo especialmente en obreros, campesinos y sectores de población vulnerables a padecer estas enfermedades utilizando métodos individuales, sociales o de comunicación masiva en su caso.
 
 III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+IV.- En colaboración con las autoridades educativas de la entidad, realizar acciones permanentes en los centros escolares con el propósito de informar y educar a los alumnos, sobre los efectos dañinos del alcohol en la salud y en las relaciones sociales.
 
 ###### ARTICULO 151.
 
@@ -1555,11 +1563,17 @@ El Gobierno del Estado se coordinará con las autoridades de salud para la ejecu
 
 I.- La prevención y el tratamiento de padecimiento originados por el tabaquismo, y
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la prohibición de fumar en espacios cerrados de edificios públicos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+
+II.- Proporcionar enseñanza y orientación, a la familia así como a los sectores de la población más vulnerables de padecer esta adicción, utilizando para el efecto métodos individuales, colectivos o de comunicación masiva, incluyendo la prohibición de fumar en espacios cerrados de edificios públicos.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 Para llevar a cabo dicho programa se implementarán a la brevedad las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+III.- En colaboración con las autoridades educativas del Estado garantizar que en los centros escolares de la entidad se reciba educación sobre los efectos nocivos del tabaquismo en la salud humana, con el propósito de inhibir estas conductas en los alumnos.
 
 ###### ARTICULO 153.
 
@@ -1573,11 +1587,13 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ###### ARTICULO 154.
 
-El Gobierno por conducto de los Servicios de Salud de Nayarit, llevará a efecto un programa contra la farmacodependencia, a través de las siguientes acciones:
+El Gobierno por conducto de los Servicios de Salud de Nayarit, llevará a efecto un programa contra la fármacodependencia, a través de las siguientes acciones:
 
 I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
 
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2011)</small>
+
+II.- En colaboración con las autoridades educativas competentes realizar en los centros escolares programas y acciones tendientes a educar a los alumnos y la población vulnerable del Estado sobre los efectos del uso y abuso de estupefacientes, psicotrópicos y cualquier sustancia que altere el comportamiento de las personas y produzca dependencia física o psicológica, señalando los detrimentos a la salud y la afectación a las relaciones sociales que traen consigo, y
 
 III.- La educación e instrucción de la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
@@ -2774,5 +2790,9 @@ P.O. 28 DE SEPTIEMBRE DE 2002
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 P.O. 14 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MARZO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
