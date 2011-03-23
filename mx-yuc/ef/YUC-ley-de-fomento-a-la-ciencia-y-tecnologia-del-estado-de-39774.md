@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fomento-a-la-ciencia-y-tecnologia-del-estado-de-39774"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-04"
-last_updated: "2004-06-04"
+last_updated: "2011-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE FOMENTO A LA CIENCIA Y TECNOLOGIA DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO AL DESARROLLO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN DEL ESTADO DE YUCATÁN, PUBLICADA EN EL SUPLEMENTO DEL D.O. DE FECHA 23 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 4 de junio de 2004.
 
@@ -706,3 +708,49 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 23 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Para efecto del artículo 52 de esta Ley, serán aplicables dichas disposiciones para el Decreto de Presupuesto de Egresos del Gobierno del Estado de Yucatán para el Ejercicio Fiscal del año 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento a la Ciencia y Tecnología del Estado de Yucatán, contenida en el Decreto número 517 publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el día 4 de junio de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto número 86 del Poder Ejecutivo del Estado, mediante el cual se crea el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día 26 de mayo 2008.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se contrapongan a la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno, deberá expedir el Reglamento Interno del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todos los recursos materiales y presupuestales asignados al Consejo de Ciencia y Tecnología del Estado de Yucatán, a partir de la entrada en vigor de esta Ley, pasarán a formar parte del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor de esta Ley, el personal adscrito al Consejo de Ciencia y Tecnología del Estado de Yucatán, pasará a formar parte del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán.
+
+###### ARTÍCULO NOVENO.
+
+Los asuntos que a la entrada en vigor de esta Ley estén a cargo del Consejo de Ciencia y Tecnología del Estado de Yucatán, quedarán a cargo del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+Las disposiciones legales y reglamentarias, y en general los documentos en que se haga alusión al Consejo de Ciencia y Tecnología del Estado de Yucatán, se entenderán referidos al Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, a partir de la entrada en vigor de esta Ley.
