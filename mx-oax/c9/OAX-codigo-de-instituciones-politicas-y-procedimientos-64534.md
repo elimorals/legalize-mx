@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2011-03-16"
+last_updated: "2011-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -1267,11 +1267,11 @@ Los Consejeros Electorales, serán electos conforme a las bases siguientes:
 
 La comisión correspondiente del Congreso del Estado integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios; anexando carta de aceptación.
 
-2. De esta lista, la Comisión correspondiente examinará si cumplen los requisitos de elegibilidad y elaborarán dictamen individual.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+2. De esta lista, la Comisión correspondiente examinará si cumplen los requisitos de elegibilidad, y una vez entrevistados cada uno de los candidatos, elaborará dictamen individual.
 
-El Congreso del Estado elegirá a los Consejeros Electorales propietarios y suplentes, de manera individual y sucesiva por el voto de las dos terceras partes de sus miembros presentes.
+El Congreso del Estado elegirá a los Consejeros Electorales, de manera individual y sucesiva por el voto de las dos terceras partes de sus integrantes.
 
 3. Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. Los que serán electos por mayoría simple.
 
@@ -2447,7 +2447,7 @@ Artículo 159
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2009)</small>
 
-2. Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, de notificará de inmediato al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 157 de este Código.
+2. Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 157 de este Código.
 
 3. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 157 de este Código, será desechada de plano y, en su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
@@ -4040,3 +4040,17 @@ b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cu
 c) Elegirá tres nuevos Consejeros Electorales propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2018.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE MARZO DE 2011.
+
+PRIMERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- Para los efectos de la renovación escalonada del Consejo General del Instituto a que se refiere el artículo 86 párrafo 2 de este Código, los Consejeros Electorales y el Consejero Presidente del Instituto designados mediante decreto número 177 publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca, de fecha 16 de febrero del año 2008, continuarán en sus cargos hasta el 08 de abril del 2011, para lo cual el Congreso del Estado procederá a designar a los nuevos consejeros electorales que integrarán el Consejo General, a más tardar el día 8 de abril de 2011, bajo las reglas y el procedimiento que establecerá la Legislatura, mismos que tomarán posesión del cargo el día 09 de abril del presente año, conforme a las siguientes bases:
+
+a) Elegirá a un nuevo Consejero Presidente cuyo mandato concluirá el 08 de abril de 2014, llegado el caso, el así nombrado podrá ser ratificado por una sola vez, en los términos establecidos en el citado artículo 86, párrafo 2 de este Código.
+
+b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2017.
+
+c) Elegirá tres nuevos Consejeros Electorales propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2018.
+
+TERCERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
