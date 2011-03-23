@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-tesoreria-municipal-del-56087"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2011-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA TESORERIA MUNICIPAL DEL AYUNTAMIENTO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA TESORERIA MUNICIPAL DEL AYTUNTAMIENTO DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. DE FECHA 23 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -524,3 +526,17 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo que edita el Gobierno del Estado de Morelos, debiendo de publicar a demás en la Gaceta Municipal.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Tesorería Municipal del Ayuntamiento de Cuernavaca, Morelos, publicado en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado de Morelos, número 4540, el veintidós de junio del año dos mil siete.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+CUARTO.- En tanto se expiden los Manuales a que hace referencia el presente Reglamento, el Tesorero queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento.
+
+QUINTO.- Para lo no previsto en el presente Reglamento, se estará a lo dispuesto por el Cabildo.
