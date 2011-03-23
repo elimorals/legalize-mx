@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2010-11-17"
+last_updated: "2011-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-CODIGO PENAL PARA EL ESTADO DE CHIAPAS
+CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -627,7 +627,9 @@ La extensión de la jornada de trabajo, será fijada por el Juez tomando en cuen
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el condenado.
 
-Tratándose de delitos de violencia familiar, el trabajo a favor de la comunidad deberá de llevarse a cabo en lugares destinados a atender casos de víctimas a este delito.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
+Tratándose de delitos de violencia familiar, el trabajo a favor de la comunidad deberá de llevarse a cabo en lugares destinados a atender casos de víctimas a este delito. Asimismo, deberá aplicarse, de forma conjunta, por lo que corresponde a dicho delito, el trabajo a favor de la comunidad y la multa a que se haga acreedor.
 
 ### Capítulo XIV. Tratamiento de Inimputables o de Personas con Imputabilidad Disminuida
 
@@ -693,7 +695,7 @@ Los tratamientos señalados en el presente artículo, no podrán exceder en su d
 
 ### Capítulo IV. Punibilidad en el Caso de Tentativa
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 71.
 
@@ -757,7 +759,7 @@ Cuando un servidor o ex servidor público de una institución de procuración o 
 
 ### Capítulo V. Punibilidad de los Delitos Culposos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 78.
 
@@ -963,7 +965,9 @@ II. Que el procesado haya observado buena conducta antes y después de la comisi
 
 III. Que el sujeto activo tenga un modo honesto y lícito de vida.
 
-IV. Que la pena impuesta, en caso de ser privativa de libertad, no exceda de cuatro años.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2011)</small>
+
+IV. Que la pena impuesta, en caso de ser privativa de libertad, no exceda de cuatro años, con excepción de los casos de violencia familiar.
 
 V. Que el sentenciado haya pagado la reparación del daño.
 
@@ -1443,6 +1447,8 @@ Al responsable del delito de lesiones en estado de emoción violenta, se le impo
 
 ### Capítulo II. Violencia Familiar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 173.
 
 La ventaja sólo será considerada como calificativa de los delitos de homicidio, muerte cerebral y lesiones cuando sea tal que el agente no corra riesgo alguno de ser muerto o lesionado por el ofendido y no obre en legítima defensa.
@@ -1621,7 +1627,7 @@ Esta agravación de la pena, no tendrá lugar cuando se haya decretado la extinc
 
 ###### Artículo 198.
 
-Comete el delito de violencia familiar el cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de las personas señaladas, con el fin de dominarla, someterla, controlarla, denostarla, denigrarla, mediante el maltrato físico, verbal, psicoemocional o sexual, independientemente de que se produzcan o no lesiones o se actualice cualquier otro delito.
+Comete el delito de violencia familiar el o la cónyuge, concubina o concubinario, el pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el tutor, el curador, el adoptante o el adoptado que lleve a cabo cualquier acto u omisión, mediante el uso de medios físicos o emocionales, en contra de la integridad de cualquiera de los integrantes de la familia, con el fin de dominarla, someterla, controlarla, denostarla, denigrarla, mediante el maltrato físico, verbal, psicoemocional o sexual, independientemente de que se produzcan o no lesiones o se realice cualquier otro delito, sin que dicha conducta deba ser consecutiva o reiterada.
 
 El mismo delito será imputable también a quien omita impedirlo o denunciarlo.
 
@@ -1633,11 +1639,15 @@ Maltrato psicoemocional: Cualquier conducta, activa u omisiva que mediante prohi
 
 Maltrato sexual: La utilización, imposición o abstención de prácticas sexuales como instrumento para el control, manipulación o dominio del sujeto pasivo, que le generen un daño físico o moral.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 199.
 
-Al que cometa el delito de violencia familiar, se le impondrá de tres a siete años de prisión, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio del juzgador, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con el sujeto pasivo y el Juez estime oportuna esta medida y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
+Al que cometa el delito de violencia familiar, se le impondrá de tres a siete años de prisión, una multa de sesenta a ciento cincuenta días de salario mínimo, la pérdida o suspensión de los derechos de familia respecto de la víctima; a juicio del juzgador, atendiendo a las circunstancias del hecho, la prohibición de ir a lugar determinado o de residir en él, la separación del sujeto activo del domicilio en caso de que lo cohabite con el sujeto pasivo y el Juez estime oportuna esta medida y el apercibimiento para que se abstenga de molestar a la víctima o a otros miembros de la familia.
 
-En cualquier caso el Juez ordenará la sujeción del sujeto activo del delito a un tratamiento psicológico especializado.
+En cualquier caso el Juez ordenará la sujeción obligatoria del sujeto activo del delito, a tratamiento psicológico especializado, a través de instituciones públicas. En caso de no cumplir con ésta disposición, se ordenará su reaprehensión.
+
+Además, será obligatorio para la parte agresora, realizar trabajo comunitario por un período de veinte a ciento ochenta días, tomando en cuenta para ello las circunstancias del caso concreto.
 
 ###### Artículo 200.
 
@@ -1983,7 +1993,7 @@ Comete el delito de abuso sexual, la persona que sin consentimiento de otra, eje
 
 Este delito se perseguirá por querella de parte ofendida, salvo que concurra violencia física o moral, o que el sujeto pasivo sea niña, niño o adolescente y que por otras circunstancias no pueda comprender el significado del hecho.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 242.
 
@@ -1993,9 +2003,9 @@ Al que cometa el delito de abuso sexual, se le impondrá pena de tres a siete a�
 
 Si para cometer el delito se hiciere uso de violencia física o moral o cuando el sujeto pasivo haya otorgado su consentimiento si éste es niña, niño o adolescente o que por otras circunstancias no puede comprender el significado del hecho, la pena prevista se aumentará en una mitad más.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 243.
 
@@ -2765,7 +2775,7 @@ I.- Si el fraccionamiento o división de un lote se hace en consecuencia de adju
 
 II.- Cuando se trate de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, entre cónyuges, concubinos o entre hermanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2009)</small>
 
 ### Capítulo IV. Atentados Contra la Paz y la Integridad Corporal y Patrimonial de la Colectividad y del Estado
 
@@ -3209,7 +3219,7 @@ b) Se utilice a menores o incapaces para cometer cualquiera de los delitos de de
 
 Los plazos para la prescripción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad correspondientes, se duplicarán respecto de los delitos que se refiere el artículo 376 del Código Penal cometidos por miembros de la delincuencia organizada.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2008)</small>
 
 ### Capítulo V. Abuso de Autoridad
 
@@ -3219,7 +3229,7 @@ A quien por cualquier medio de manera pública o privada incite a la violencia o
 
 Si el responsable de la conducta delictuosa, es o ha sido servidor público, la pena a la que se refiere el primer párrafo, se aumentará en una mitad más y se impondrá además en su caso, la destitución del empleo, cargo o comisión e inhabilitación por el término de la sanción privativa de libertad impuesta para desempeñar otro.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2010)</small>
 
 ### Capítulo VI. Delitos Cometidos Contra la Procuración de Justicia
 
@@ -3521,7 +3531,7 @@ Las disposiciones contenidas en este título, sólo se aplicarán en lo que no e
 
 ### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 414.
 
@@ -4067,7 +4077,7 @@ Las sanciones dispuestas en el presente artículo se aplicarán, independienteme
 
 Al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que se haya concebido, desmonte o destruya la vegetación forestal, corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o cambio de uso de suelo en terreno forestal o preferentemente forestal, se le impondrá pena de prisión de cinco a doce años y multa de cien a dos mil días de salario mínimo vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 457 Ter.
 
@@ -4509,7 +4519,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
@@ -4594,3 +4604,9 @@ P.O. 17 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
