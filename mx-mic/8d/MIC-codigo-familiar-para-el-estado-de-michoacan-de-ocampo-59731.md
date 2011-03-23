@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2011-03-01"
+last_updated: "2011-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -55,9 +55,17 @@ El hombre y la mujer son iguales ante la Ley.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos.
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
-La Ley determinará los apoyos a la protección de los menores o incapacitados, a cargo de las instituciones públicas.
+Es deber de los padres preservar el derecho de los menores de edad a la satisfacción de sus necesidades y a la salud física y mental.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
+La Ley determinará los apoyos a la protección de los menores de edad o incapacitados, a cargo de las instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2011)</small>
+
+Es deber de los que ejerzan la patria potestad, la tutela o custodia, garantizar el derecho de los menores de edad a alimentos y sano esparcimiento.
 
 ###### Artículo 3°.
 
@@ -67,9 +75,11 @@ Se reconoce a la familia como la base en la integración de la sociedad y del Es
 
 El Estado garantizará y protegerá la constitución, organización y el funcionamiento armónico de la familia como el mejor medio para lograr el orden y la paz sociales.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 5°.
 
-Las disposiciones de este Código tienen por objeto proteger la organización de la familia y el desarrollo integral de sus miembros, basados en el respeto a la dignidad.
+Las disposiciones de este Código tienen por objeto proteger la organización de la familia y el desarrollo integral de sus miembros, basados en el respeto a la dignidad y a los derechos humanos.
 
 ###### Artículo 6°.
 
@@ -93,9 +103,11 @@ Este Código regirá en el Estado de Michoacán de Ocampo; pero podrá aplicarse
 
 Los extranjeros casados o que contraigan matrimonio o vivan en concubinato, domiciliados en el estado, quedan sujetos a las disposiciones de esta Ley por lo que toca a los bienes que posean y a los efectos que en relación con los mismos producen el matrimonio y el concubinato.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 11.
 
-En todas las medidas concernientes a los niños que tomen las instituciones públicas o privadas de bienestar social, los jueces, las autoridades administrativas o el órgano legislativo, una consideración primordial a que se atenderá será el interés superior del niño.
+En todas las medidas concernientes a los menores de edad que tomen las instituciones públicas o privadas de bienestar social, los jueces, las autoridades administrativas o el órgano legislativo, debiendo atender al interés superior de la infancia.
 
 ## Título Segundo. Del Registro Civil
 
@@ -315,11 +327,15 @@ En los casos de los artículos 51 y 63 de este Código, el Oficial del Registro 
 
 Cuando el nacido fuere presentado como hijo de matrimonio se asentarán los nombres, apellidos, domicilio y nacionalidad de los progenitores, de los abuelos paternos y maternos y de las personas que hubieren hecho la presentación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 51.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 25, haciéndose constar la petición.
+Un hijo nacido fuera del matrimonio tiene derecho a ser reconocido tanto por su madre como por su padre.
 
-La madre no tiene derecho a dejar de reconocer a su hijo, si al hacer la presentación no se da el nombre de la madre se procederá a testar el espacio, pudiendo hacerse la investigación de maternidad ante el Juez competente de acuerdo a las disposiciones relativas de este Código.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
+Para que se haga constar en el acta de nacimiento el nombre de sus progenitores, es necesario que lo pidan por sí o por apoderado especial, haciéndose constar tal petición. Sí al hacer la presentación no se da el nombre de alguno de ellos se procederá a testar el espacio, pudiendo hacer la investigación de su origen ante el Juez competente de acuerdo a las disposiciones relativas a este Código.
 
 Además de los nombres y apellidos de los progenitores, se hará constar en el acta de nacimiento, el origen, nacionalidad y domicilio de los mismos.
 
@@ -797,9 +813,11 @@ II. Que ambos contrayentes sean mayores de edad, salvo dispensa y autorización 
 
 III. Expresar su voluntad de unirse en matrimonio.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 132.
 
-Los menores de edad podrán contraer matrimonio, siempre que el varón haya cumplido dieciséis años y la mujer catorce. Para tal efecto se requerirá del consentimiento de su padre y de su madre, o del progenitor que viva o que esté presente, de quienes ejerzan la patria potestad o en su defecto la tutela.
+Las personas menores de edad podrán contraer matrimonio, siempre que hayan cumplido los 16 años, expresando su voluntad para hacerlo y tengan el consentimiento de sus padres y madres o de sus tutores o custodios o de quienes ejerzan la patria potestad o tutela.
 
 ###### Artículo 133.
 
@@ -875,9 +893,7 @@ IV. Padecer enfermedad crónica, incurable, contagiosa o hereditaria, siempre qu
 
 ###### Artículo 143.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo.
-
-En los casos de nulidad o de divorcio, dicho plazo se contará desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 23 DE MARZO DE 2011)
 
 ###### Artículo 144.
 
@@ -945,11 +961,11 @@ Los cónyuges tendrán en el hogar autoridad y consideraciones iguales, por lo t
 
 En caso de desacuerdo, el Juez de Primera Instancia resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 156.
 
-Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta.
-
-Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia resolverá sobre la oposición.
+Los cónyuges podrán desempeñar cualquier actividad o empleo, ejercer una profesión, industria, comercio u oficio que elijan, siempre y cuando sean lícitos.
 
 ###### Artículo 157.
 
@@ -1329,7 +1345,11 @@ VII. Padecer alguno de los estados de incapacidad previsto en el artículo 17 de
 
 VIII. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer; y,
 
-IX. El parentesco entre adoptante y adoptado o sus descendientes.
+IX. El parentesco entre adoptante y adoptado o sus descendientes;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+X. Cuando alguno de los contrayentes manifieste que el matrimonio fue celebrado como consecuencia de un intercambio o trueque de tipo material, económico o de cualquier tipo.
 
 ###### Artículo 224.
 
@@ -1497,9 +1517,11 @@ El Juez determinará atendiendo al interés superior de los menores, la situaci�
 
 El Juez, de oficio o a petición de parte interesada, durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar al Ministerio Público, a ambos progenitores y a los menores, siempre que esto último sea posible, en atención a sus condiciones personales.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 257.
 
-Durante el procedimiento respectivo, el o los menores habidos en el matrimonio cuya nulidad se reclame, contarán con un tutor especial que para ello se designe.
+Durante el procedimiento respectivo, el menor de edad habido en el matrimonio cuya nulidad se reclame, permanecerán (sic), preferentemente con su madre, hasta que el Juez resuelva la custodia y la patria potestad, así como la provisión de sus alimentos.
 
 ## Título Cuarto. Del divorcio
 
@@ -1691,7 +1713,7 @@ Procede el divorcio voluntario administrativo cuando concurran las siguientes ci
 
 I. Que haya transcurrido un año o más de la celebración del matrimonio;
 
-II. Que los cónyuges sean mayores de edad;
+II. (DEROGADA, P.O. 23 DE MARZO DE 2011)
 
 III. Que hayan liquidado la sociedad conyugal de bienes si están casados bajo ese régimen patrimonial;
 
@@ -1787,23 +1809,27 @@ El derecho que otorga este artículo podrá ejercitarse sólo durante el año si
 
 Los integrantes de la familia están obligados a evitar conductas de violencia familiar.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 296.
 
-Se considera violencia familiar el uso intencional de la fuerza física o moral, económica, patrimonial y sexual, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas.
+Se considera violencia familiar todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, patrimonial o económicamente a cualquier integrante de la familia, dentro o fuera del domicilio familiar, realizado por personas con quien tengan relación de parentesco por consanguinidad y tengan o hayan tenido relación por matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-La educación y formación del menor no será en ningún caso considerada justificación para alguna forma de maltrato.
+En ningún caso, la educación o formación de los menores de edad deberá discriminar, denigrar, dañar, maltratar o ejercer cualquier tipo de violencia.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### Artículo 297.
 
-Los integrantes de la familia tienen derecho a que entre sus miembros se respeten su integridad física o psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social.
+Los integrantes de la familia tienen derecho a que entre sus miembros respeten su integridad física, psicoemocional, sexual y económica, con el objeto de contribuir a su desarrollo y, plena incorporación y participación en el núcleo social.
 
-Al efecto contará con la asistencia y protección de las instituciones públicas.
+Se considera de interés público la asistencia médica y psicológica, para lo cual el Estado la prestará a través de dependencias públicas, pudiendo realizar convenios con instituciones privadas u organismos no gubernamentales.
 
-Se considera de interés público la asistencia médica y psicológica, para lo cual el Estado prestará asistencia a través de dependencias oficiales, pudiendo realizar convenios con instituciones privadas u organismos no gubernamentales.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### Artículo 298.
 
-También se considera violencia familiar la conducta descrita en el artículo 296, llevada a cabo contra el concubino o concubinaria, la persona con quien su autor se encuentra unido fuera de matrimonio o de los parientes de aquella, o de cualquier otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado, siempre y cuando el agresor y el agredido convivan en el mismo domicilio.
+También se considera violencia familiar la conducta descrita en el artículo 296, llevada a cabo contra el concubino o concubinaria, la persona con quien su autor se encuentra unido fuera de matrimonio o de los parientes de aquella, o de cualquier otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
 ###### Artículo 299.
 
@@ -4099,17 +4125,11 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 718.
 
-Tienen derecho a constituir "patrimonio de familia":
-
-I. El marido sobre el bien propio;
-
-II. El padre de familia o ascendiente que esté en el ejercicio de la patria potestad;
-
-III. La mujer casada en bien propio; y,
-
-IV. El pariente de cualquier grado que, aun sin obligación legal de dar alimentos, los suministre a sus ascendientes, descendientes o colaterales con quienes viva formando familia o a quienes tenga a su cargo.
+Tienen derecho a constituir patrimonio de familia cualquier persona, sobre el bien propio, que sin tener la obligación legal de dar alimentos, los suministre a sus ascendientes, descendientes o colaterales con quienes viva formando familia o a quienes tenga a su cargo.
 
 ###### Artículo 719.
 
@@ -4279,17 +4299,27 @@ Las disposiciones contenidas en el Código de Procedimientos Civiles del Estado,
 
 Para ocurrir al ejercicio de las acciones contenidas en este Libro no se requerirá de autorización de abogado, patrono o persona autorizada para el ejercicio de la licenciatura en derecho.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 747.
 
-La autoridad judicial estará facultada para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de niños, niñas, adolescentes o incapaces, de alimentos o de cuestiones relacionadas con la violencia familiar, decretando las medidas que tiendan a proteger a sus miembros.
+La autoridad judicial estará facultada para intervenir de oficio en los asuntos de familia, especialmente tratándose de:
 
-En todo momento deberá tomar en cuenta el interés superior del menor.
+I. Menores de edad o personas que no tienen capacidad para comprender el significado del hecho;
+
+II. Alimentos; y,
+
+III. Cuestiones relacionadas con violencia.
+
+Deberá decretar las medidas que tiendan a proteger a sus integrantes, tomando en cuenta el interés superior del menor.
 
 En todos los asuntos del orden familiar, los jueces y tribunales están obligados a suplir la deficiencia de los planteamientos de las partes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
+
 ###### Artículo 748.
 
-En los asuntos de carácter familiar, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+En los asuntos de carácter familiar, con la salvedad de las prohibiciones legales relativas a alimentos y violencia, el Juez podrá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
 ###### Artículo 749.
 
@@ -4301,7 +4331,9 @@ II. El principio preclusivo en cuanto signifique un obstáculo para el logro de 
 
 III. La confesión de hechos y el allanamiento no vinculan al juzgador;
 
-IV. El juzgador podrá auxiliarse, en el desempeño de su función o en la ejecución de sus fallos, de trabajadores sociales o profesionales de otras disciplinas, así como de cualquier otra autoridad o dependencia de la administración pública; y,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2011)</small>
+
+IV. El juzgador podrá auxiliarse, en el desempeño de su función o en la ejecución de sus fallos, de trabajadores sociales, peritos, traductores o cualquier otro profesional especialista en la materia, así como de autoridades o dependencias de la administración pública; y,
 
 V. La Ley podrá ser interpretada atendiendo a los siguientes métodos: gramatical; sistemático; y, funcional.
 
@@ -6302,3 +6334,9 @@ TERCERO. El Sistema para el Desarrollo Integral de la Familia, Michoacán, dispo
 CUARTO. El informe que deberán rendir las instituciones públicas y privadas, contendrán los datos que determine al efecto el Sistema para el Desarrollo Integral de la Familia, Michoacán.
 
 QUINTO. El Titular del Poder Ejecutivo del Estado, deberá emitir los reglamentos correspondientes en un término de noventa días, contados a partir de la publicación del presente Decreto.
+
+P.O. 23 DE MARZO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
