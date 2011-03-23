@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2011-03-09"
+last_updated: "2011-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -94,6 +94,22 @@ VII.- Fortalecer la conciencia de la Nación y la Soberanía, formar el aprecio 
 VIII.- Difundir el espíritu y la conciencia democrática como forma de convivencia que permita participar en la toma de decisiones encauzadas al mejoramiento y desarrollo de la comunidad, y
 
 IX.- Practicar la solidaridad, la justicia y la paz universal, basadas en el reconocimiento y defensa de los derechos humanos, políticos, económicos y sociales.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+X.- Implementar estrategias de prevención de adicciones partiendo de la educación, involucrando a los alumnos, docentes, padres de familia y a la sociedad en general;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+XI.- Coadyuvar a prevenir, combatir y erradicar el alcoholismo, tabaquismo, drogadicción o cualquier otro tipo de conducta adictiva que perturbe la percepción y comportamiento de las personas, señalando los detrimentos a la salud física así como a la integridad emocional, social y económica que conlleva el uso de sustancias dañinas independientemente de que su consumo se encuentre regulado por la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+XII.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+
+XIII.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente norma y demás ordenamientos legales que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -722,3 +738,7 @@ P.O. 9 DE MARZO DE 2011.
 Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo segundo.- Tratándose de las disposiciones contenidas en los artículos 4, 5, 19 fracción I, 22, 49 fracción I y 50 fracción I, deberán ser observadas y aplicadas por las autoridades en materia educativa para el inicio del próximo año lectivo.
+
+P.O. 23 DE MARZO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
