@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2011-02-03"
+last_updated: "2011-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 23486/LIX/11 PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
