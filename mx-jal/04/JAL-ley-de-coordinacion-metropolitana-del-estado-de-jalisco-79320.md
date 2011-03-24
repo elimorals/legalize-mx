@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2011-02-03"
+last_updated: "2011-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE COORDINACION METROPOLITANA DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011, EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPODIENTE A DICHA FECHA EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-LEY DE COORDINACION METROPOLITANA DEL ESTADO DE JALISCO
+LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011.</small>
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -263,11 +263,13 @@ Suspensión de procedimiento
 
 Contenido de la declaración
 
-1. La declaratoria de área o región metropolitana expedida por el Congreso del Estado debe contener:
+I. La declaratoria de área o región metropolitana expedida por el Congreso del Estado debe contener:
 
 I. La denominación del área o región metropolitana correspondiente en el caso de la segunda; preferentemente alusiva al área respectiva;
 
-II. La relación de los municipios que la integran en orden alfabético, y en el caso de la región metropolitano, que precise los que previamente integraban el área metropolitana respectiva;
+> <small>(F. DE E., P.O. 24 DE MARZO DE 2011)</small>
+
+II. La relación de los municipios que la integran en orden alfabético, y en el caso de la región metropolitana, que precise los que previamente integraban el área metropolitana respectiva;
 
 III. La delimitación geográfica del área o región metropolitana, que precise, en su caso, si comprende la totalidad o una parte del territorio de los municipios que la integran, y
 
@@ -275,7 +277,7 @@ IV. La enunciación de los efectos de la declaratoria.
 
 2. La declaratoria de área o región metropolitana no debe incluir algún o algunos de los municipios propuestos cuando no se demuestre:
 
-I. En el caso del área metropolitana, la continuidad física del centro de población constitutivo del área metropolitana dentro del territorio de algún municipio solicitante, o
+l. En el caso del área metropolitana, la continuidad física del centro de población constitutivo del área metropolitana dentro del territorio de algún municipio solicitante, o
 
 II. En el caso de la región metropolitana, la cercanía geográfica y tendencias de crecimiento del centro de población con respecto al área metropolitana correspondiente.
 
