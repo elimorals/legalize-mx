@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-de-validacion-para-el-80258"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-01"
-last_updated: "2011-03-01"
+last_updated: "2011-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE VALIDACION PARA EL OTORGAMIENTO DE AYUDAS FUNCIONALES PARA PERSONAS CON DISCAPACIDAD DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN LA G.G. DEL ESTADO DE MEXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DEL COMITE DE VALIDACION PARA EL OTORGAMIENTO DE AYUDAS FUNCIONALES PARA PERSONAS CON DISCAPACIDAD DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE MARZO DE 2011.</small>
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el martes 1° de marzo de 2011.
 
@@ -57,8 +57,6 @@ El Comité es un cuerpo colegiado cuyo objetivo es revisar, analizar, discutir y
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL COMITÉ
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN LA G.G. DEL ESTADO DE MEXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 4.
 
 El Comité estará integrado por:
@@ -69,15 +67,25 @@ II. Un Secretario Técnico, que será designado por el Presidente;
 
 III. Cinco vocales, que serán:
 
-1° Un representante de la Dirección de Finanzas, Planeación y Administración;
+> <small>(F. DE E., G.G. 24 DE MARZO DE 2011)</small>
 
-2° Un representante de la Dirección de Servicios Jurídico Asistenciales; y (sic)
+1° Una Trabajadora Social de la Dirección de Atención a la Discapacidad;
 
-3° Un representante del Órgano de Control Interno;
+> <small>(F. DE E., G.G. 24 DE MARZO DE 2011)</small>
 
-4° Un Médico Especialista en Rehabilitación de la Dirección de Atención a la Discapacidad;
+2° Un Médico Especialista en Rehabilitación de la Dirección de Atención a la Discapacidad;
 
-5° Una Trabajadora Social de la Dirección de Atención a la Discapacidad.
+> <small>(F. DE E., G.G. 24 DE MARZO DE 2011)</small>
+
+3° Un representante de la Dirección de Finanzas, Planeación y Administración;
+
+> <small>(F. DE E., G.G. 24 DE MARZO DE 2011)</small>
+
+4° Un representante de la Dirección de Servicios Jurídico Asistenciales; y
+
+> <small>(F. DE E., G.G. 24 DE MARZO DE 2011)</small>
+
+5° Un representante del Organo de Control Interno.
 
 ###### Artículo 5.
 
