@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-los-servicios-educativos-y-culturales-40
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS SERVICIOS EDUCATIVOS DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 27 de agosto de 2004.
 
@@ -1370,3 +1372,19 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 MC. CECILIA ROSALIA LORIA MARIN
 
 SECRETARIA DE EDUCACION Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Organismo Descentralizado de la Administración Pública Paraestatal denominado Servicios Educativos y Culturales, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el día 27 de agosto de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efecto todas las disposiciones legales que (sic) igual o menor jerarquía que se opongan al presente reglamento.
