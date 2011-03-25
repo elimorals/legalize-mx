@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4203
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-02"
-last_updated: "2007-04-27"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 27 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta de Gobierno del Estado de México, el jueves 2 de diciembre de 2004.
 
@@ -121,41 +121,43 @@ IX. Gestionar la publicación en el órgano informativo del Tecnológico o en el
 
 X. Las demás que le confieran las disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 12.
 
 Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
 
 I. Subdirección Académica.
 
-II. Subdirección de Planeación y Administración.
+II. Subdirección de Vinculación y Extensión.
 
-III. División de Ingeniería en Sistemas Computacionales.
+III. Subdirección de Planeación y Administración.
 
-IV. División de Licenciatura en Informática.
+IV. División de Ingeniería en Sistemas Computacionales.
 
-> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+V. División de Licenciatura en Informática.
 
-V. División de Ingeniería Electrónica.
+VI. División de Ingeniería Electrónica.
 
-> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2007)</small>
+VII. División de Licenciatura en Administración.
 
-VI. Departamento de Vinculación.
+El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y lineas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
-> <small>(ADICIONADA, G.G. 27 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 25 DE MARZO DE 2011)</small>
 
-VII. Departamento de Actividades Culturales y Deportivas.
+### CAPITULO IV. DE LOS SUBDIRECTORES Y JEFESDE DIVISION
 
-El Tecnológico contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización, así mismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
-
-### CAPITULO IV. DE LOS SUBDIRECTORES Y DE LOS JEFES DE DIVISION Y DE DEPARTAMENTO
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 13.
 
-Al frente de cada Subdirección, División y Departamento habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+Al frente de cada Subdirección y División habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 14.
 
-Corresponde a los subdirectores, jefes de división y jefes de departamento:
+Corresponde a los Subdirectores y Jefes de División:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -191,13 +193,15 @@ XIV. Proponer a su superior jerárquico programas, proyectos y acciones orientad
 
 XV. Las demás que les confieren otras disposiciones aplicables y aquellas que les encomiende el Director.
 
-### CAPITULO V. DE LAS SUBDIRECCIONES, DIVISIONES Y DEPARTAMENTOS
+> <small>(REFORMADA SU DENOMINACION, G.G. 25 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2007)</small>
+### CAPITULO V. DE LAS SUBDIRECCIONES Y DIVISIONES
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 15.
 
-A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de Ingeniería en Sistemas Computacionales y de Ingeniería Electrónica, así como de la Licenciatura en Informática y coordinar las funciones de control escolar del Tecnológico.
+A la Subdirección Académica le corresponde planear, programar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería en sistemas computacionales, licenciatura en informática, ingeniería electrónica y licenciatura en administración, así como coordinar las actividades de control escolar y desarrollo académico del Tecnológico.
 
 Quedan adscritas a la Subdirección Académica:
 
@@ -206,6 +210,8 @@ I. División de Ingeniería en Sistemas Computacionales.
 II. División de Licenciatura en Informática.
 
 III. División de Ingeniería Electrónica.
+
+IV. División de Licenciatura en Administración.
 
 ###### Artículo 16.
 
@@ -307,51 +313,47 @@ XVI. Promover y vigilar la conservación y el funcionamiento de los talleres y l
 
 XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Subdirector Académico y el Director.
 
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 20.
 
-Corresponde al Departamento de Vinculación:
+Corresponde a la Subdirección de Vinculación y Extensión:
 
-I. Integrar, coordinar y evaluar los programas y proyectos de vinculación del Tecnológico.
+I. Elaborar, coordinar, ejecutar y evaluar el Programa de Vinculación y Extensión Académica, atendiendo los objetivos y prioridades del Tecnológico.
 
-II. Proponer mecanismos de vinculación entre el Tecnológico y los sectores público, social y privado para el cumplimiento de los programas académicos y el beneficio comunitario.
+II. Establecer mecanismos de vinculación entre el Tecnológico y el sector productivo, los cuales favorezcan el cumplimiento de los programas académicos y el beneficio comunitario.
 
-III. Diseñar el Programa de Vinculación y Extensión Académica y someterlo a la consideración del Director.
+III. Realizar estudios orientados a detectar las necesidades de actualización y capacitación tecnológica del sector productivo y proponer modificaciones a los programas académicos y de investigación que contribuyan a su atención.
 
-IV. Formular proyectos para que los programas académicos del Tecnológico se orienten a atender las necesidades básicas del sector productivo.
+IV. Proporcionar asesorías al sector productivo sobre la actualización permanente de tecnologías industriales.
 
-V. Promover, en coordinación con la Subdirección Académica, la colocación de egresados en el Tecnológico en el mercado laboral.
+V. Programar, organizar, dirigir y controlar las actividades culturales, recreativas y deportivas del Tecnológico.
 
-VI. Coordinar la promoción y realización de eventos, conferencias, seminarios, exposiciones, concursos y demás actividades que contribuyan a la formación profesional de los estudiantes del Tecnológico.
+VI. Proponer y ejecutar programas que contribuyan a la integración de los estudiantes en brigadas multidisciplinarias.
 
-VII. Impulsar y difundir programas académicos y los servicios que ofrece el Tecnológico.
+VII. Coordinar y prestar el servicio de bolsa de trabajo para los alumnos y egresados del Tecnológico.
 
-VIII. Asesorar a los alumnos del Tecnológico en la realización de residencias profesionales y sobre la bolsa de trabajo.
+VIII. Promover entre la comunidad del Tecnológico, actividades de extensión educativa, gestión técnica y vinculación con el sector productivo.
 
-IX. Formar en los educandos una conciencia de responsabilidad y compromiso con la sociedad y de identidad con el Tecnológico.
+IX. Establecer mecanismos de coordinación y cooperación con instituciones análogas al Tecnológico, que coadyuven al cumplimiento de los programas y proyectos educativos del Organismo.
 
-X. Someter a la consideración del Director la celebración de convenios de intercambio académico que requiera el Tecnológico para el cumplimiento de su objeto.
+X. Proponer, organizar y controlar las actividades extraescolares vinculadas con la formación académica de los alumnos del Tecnológico.
 
-XI. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el Director.
+XI. Difundir los programas académicos, la oferta educativa y los servicios que ofrece el Tecnológico.
+
+XII. Impulsar y coordinar el servicio social y las residencias profesionales de los alumnos del Tecnológico.
+
+XIII. Proponer mecanismos y estrategias que permitan obtener recursos adicionales para la ejecución de los programas institucionales del Tecnológico.
+
+XIV. Coordinar las actividades relacionadas con el intercambio académico y profesional de los integrantes de la comunidad tecnológica del Organismo.
+
+XV. Recopilar, procesar y disponer para su consulta material bibliográfico relacionado con las materias que atiende el Tecnológico, así como estudios y documentos de carácter institucional.
+
+XVI. Las demás que le señalan otras disposiciones legales y aquellas que le encomiende el Director.
 
 ###### Artículo 21.
 
-Corresponde al Departamento de Actividades Culturales y Deportivas:
-
-I. Desarrollar los programas y las actividades culturales y deportivas del Tecnológico.
-
-II. Promover la celebración de convenios de intercambio cultural y deportivo con instituciones educativas, organismos estatales, nacionales e internacionales.
-
-III. Organizar la realización de las actividades culturales y deportivas del Tecnológico.
-
-IV. Promover la participación de las demás unidades administrativas del Tecnológico, en el diseño, ejecución y evaluación de la política cultural y deportiva del Organismo.
-
-V. Impulsar la celebración de competencias deportivas o encuentros culturales con instituciones educativas y organismos promotores de estas actividades.
-
-VI. Proponer al Director la realización de eventos culturales y deportivos que complementen los programas de estudio del Tecnológico.
-
-VII. Fomentar entre el alumnado del Tecnológico valores culturales que apoyen su ejercicio profesional.
-
-VIII. Las demás que le confieran las disposiciones aplicables y aquellas que le encomiende el Director.
+(DEROGADO, G.G. 25 DE MARZO DE 2011)
 
 ### CAPITULO VI. DEL CONSEJO CONSULTIVO ACADEMICO
 
@@ -438,5 +440,13 @@ G.G. 27 DE ABRIL DE 2007.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 25 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periodico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
