@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transporte-para-el-estado-de-sonora-24567"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-08"
-last_updated: "2010-07-08"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE MARZO DE 2011.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 8 de marzo de 2002.
 
@@ -85,6 +85,8 @@ En los procedimientos establecidos en esta Ley, se aplicará supletoriamente el 
 
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 7.
 
 Son autoridades de transporte, las siguientes:
@@ -93,21 +95,21 @@ I.- En el ámbito estatal:
 
 a).- El Titular del Poder Ejecutivo;
 
-b).- El Congreso del Estado, para la autorización de tarifas;
+b).- El Secretario de Infraestructura Urbana y Ecología;
 
-c).- El Secretario de Infraestructura Urbana y Ecología;
+c).- El Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
 
-d).- El Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
+d).- Los Delegados Regionales de Transporte; y
 
-e).- Los Delegados Regionales de Transporte; y
-
-f).- Los Inspectores de Transporte del Estado.
+e).- Los Inspectores de Transporte del Estado.
 
 II.- En el ámbito municipal:
 
 a).- Los ayuntamientos de los Municipios del Estado o la Dependencia que los mismos determinen; y
 
 b).- Los Inspectores de Transporte Municipal.
+
+III.- Las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano donde se integren.
 
 ### CAPITULO III. DE LA COMPETENCIA ESTATAL Y MUNICIPAL
 
@@ -153,15 +155,21 @@ XV.- Las demás que le confieran esta Ley y sus reglamentos.
 
 Son atribuciones del Secretario de Infraestructura Urbana y Ecología en materia de Transporte, las siguientes:
 
-I.- Proponer al Titular del Poder Ejecutivo del Estado, el proyecto de Programa Estatal del Transporte donde se especifiquen los objetivos, prioridades, políticas, metas, estrategias y líneas de acción en materia de transporte público, con la participación que esta Ley otorga a los ayuntamientos y de conformidad con la Ley de Planeación del Estado de Sonora;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+I.- Proponer al Titular del Poder Ejecutivo del Estado, el proyecto de Programa Estatal del Transporte donde se especifiquen los objetivos, prioridades, políticas, metas, estrategias y líneas de acción en materia de transporte público, con la participación que esta Ley otorga a los ayuntamientos y de conformidad con la Ley de Planeación del Estado de Sonora y con la participación de la Comisión Municipal Reguladora del Transporte Colectivo Urbano en los municipios que exista;
 
 II.- Formular y conducir, de acuerdo al Programa Estatal del Transporte, la política del sector en la entidad;
 
-III.- Coordinar, la evaluación anual del Programa Estatal del Transporte con la participación de los ayuntamientos del Estado, proponiendo al Titular del Ejecutivo Estatal, las modificaciones de conformidad con los datos que arroje la misma;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+III.- Coordinar, la evaluación anual del Programa Estatal del Transporte con la participación de los ayuntamientos del Estado, proponiendo al Titular del Ejecutivo Estatal, las modificaciones de conformidad con los datos que arroje la misma y con la participación de la Comisión Municipal Reguladora del Transporte Colectivo Urbano en los municipios que exista;
 
 IV.- Promover e impulsar la constitución de figuras asociativas entre los concesionarios de acuerdo con las leyes de la materia, siempre que no implique actos de monopolio o concentración, para optimizar y eficientar el servicio público de transporte concesionado, así como abaratar su costo de operación;
 
-V.- Celebrar convenios con ayuntamientos, organismos públicos y privados, y concesionarios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+V.- Celebrar convenios con ayuntamientos, organismos públicos y privados, y concesionarios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte, con excepción de los municipios en donde exista Comisión Municipal Reguladora del Transporte Colectivo Urbano que realizará estas funciones en el ámbito de su municipio para este tipo de transporte;
 
 VI.- Resolver la suspensión del servicio público de transporte, previa observancia del procedimiento establecido en esta Ley;
 
@@ -171,7 +179,9 @@ VIII.- Resolver sobre las solicitudes de los concesionarios relativas a la cesi�
 
 IX.- Hacer cumplir sus decisiones y resoluciones que conforme a esta Ley emita, por sí o por conducto de la Delegación Regional que corresponda, quién podrá solicitar, cuando el caso lo amerite, el auxilio de la fuerza pública;
 
-X.- Aplicar sanciones y medidas de seguridad de conformidad a lo establecido en esta Ley;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+X.- Aplicar sanciones y medidas de seguridad de conformidad a lo establecido en esta Ley, por si o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano;
 
 XI.- Expedir los lineamientos y normas técnicas de la materia;
 
@@ -189,6 +199,8 @@ II.- Otorgar permisos del servicio privado o particular de transporte, con la de
 
 III.- Substanciar, hasta ponerlo en estado de resolución, el procedimiento para otorgar concesiones con arreglo a lo que esta Ley dispone y la convocatoria pública lanzada para tal efecto;
 
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
 IV.- Substanciar, de oficio o a petición de las Delegaciones Regionales, de los ayuntamientos o de parte interesada, hasta ponerlo en estado de resolución, el procedimiento administrativo, respecto a:
 
 a) Los asuntos relacionados con la prestación del servicio público de transporte y del servicio privado o particular de transporte;
@@ -199,13 +211,19 @@ c) El cumplimiento y modificación de horarios;
 
 d) El cambio y sustitución de unidades; y
 
-e) La cesión o gravamen de las concesiones;
+e) La cesión o gravamen de las concesiones.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan;
 
 V.- Substanciar, hasta ponerlos en estado de resolución, los recursos o medios de defensa promovidos por las partes interesadas;
 
 VI.- Coordinar y proveer de apoyo técnico a los Delegados Regionales y vigilar el buen desempeño de sus funciones;
 
-VII.- Realizar conjuntamente con los ayuntamientos, de oficio o a petición de éstos, los estudios técnicos y socioeconómicos de necesidades de servicio público de transporte, para ser sometidos a la aprobación, o en su caso, rechazo por parte del Ayuntamiento que corresponda, en razón de la demarcación territorial;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+VII.- Realizar conjuntamente con los ayuntamientos, de oficio o a petición de éstos, los estudios técnicos y socioeconómicos de necesidades de servicio público de transporte, para ser sometidos a la aprobación, o en su caso, rechazo por parte del Ayuntamiento que corresponda, en razón de la demarcación territorial.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
 VIII.- Formular el anteproyecto de Programa Estatal de Transporte con la participación de los ayuntamientos, donde se establezcan los objetivos, metas, estrategias y líneas de acción en materia de transporte público, previéndose los sistemas integrales de rutas de transporte de carácter municipal, intermunicipal y estatal, debiendo considerar por lo menos, que los itinerarios mejoren el servicio, abaraten los costos, den mayor fluidez al tránsito y preserven el medio ambiente, la ecología y el patrimonio cultural e histórico de la entidad;
 
@@ -243,21 +261,41 @@ IV.- Expedir a los operadores del Servicio Público de Transporte Estatal, const
 
 V.- Expedir los permisos emergentes, del servicio público de transporte, en los términos y condiciones que establece esta Ley y sus reglamentos;
 
-VI.- Acordar con los concesionarios, dando la debida participación a los ayuntamientos que afecte su ámbito territorial, el establecimiento de cobertizos en los lugares de ascenso y descenso de pasaje y demás medidas que mejoren la calidad y eficiencia del servicio público de transporte estatal;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+VI.- Acordar con los concesionarios, dando la debida participación a los ayuntamientos que afecte su ámbito territorial, el establecimiento de cobertizos en los lugares de ascenso y descenso de pasaje y demás medidas que mejoren la calidad y eficiencia del servicio público de transporte estatal.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan;
 
 VII.- Intervenir y conciliar en los conflictos que, con motivo de la prestación del servicio público de transporte estatal se susciten, cuando la naturaleza de los mismos lo requiera;
 
-VIII.- Vigilar, en el servicio público de transporte, que los concesionarios cumplan con las condiciones de legalidad, así como de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-IX.- Fijar plazo razonable, para que los concesionarios mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio;
+VIII.- Vigilar, en el servicio público de transporte, que los concesionarios cumplan con las condiciones de legalidad, así como de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión.
 
-X.- Suspender la circulación de los vehículos autorizados cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte; asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio;
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+IX.- Fijar plazo razonable, para que los concesionarios mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+X.- Suspender la circulación de los vehículos autorizados cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte; asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
 XI.- Impedir la circulación de los vehículos que se encuentren prestando el servicio público de transporte, si éste o su operador, no se encuentran inscritos en el Registro Público de Transporte del Estado;
 
 XII.- Inspeccionar y vigilar, la prestación del servicio público y privado de transporte, de conformidad con los procedimientos que esta Ley establece;
 
-XIII.- Aplicar medidas e imponer las sanciones por las infracciones que se cometan a la presente Ley, previa la observancia del procedimiento respectivo;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+XIII.- Aplicar medidas e imponer las sanciones por las infracciones que se cometan a la presente Ley, previa la observancia del procedimiento respectivo.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para este tipo de transporte;
 
 XIV.- Hacer cumplir las decisiones y resoluciones que conforme a esta Ley se emita, pudiendo solicitar, cuando el caso lo amerite, el auxilio de la fuerza pública; y
 
@@ -269,13 +307,25 @@ Los ayuntamientos del Estado, en el servicio público y privado de transporte en
 
 I.- Aprobar o rechazar, en su caso, dentro de un plazo que no exceda de treinta días hábiles, los estudios técnicos y socioeconómicos que le sean turnados por la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, para determinar las necesidades de transporte en su municipio, para los efectos que establecen las fracciones VIII y IX del artículo 9 de esta Ley, si transcurrido dicho plazo no se emite el acuerdo respectivo, se entenderá que se rechazan los estudios turnados;
 
-II.- Solicitar a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, realice los estudios técnicos y socioeconómicos para determinar las necesidades de servicio público de transporte dentro de su territorio, y participar en la elaboración de los mismos, o en su caso, en aquellos estudios que la propia Unidad inicie de oficio;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-III.- Ejecutar, en coordinación con el Consejo Consultivo Municipal, el programa anual de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del Servicio Público de Transporte Municipal, en su caso, a los concesionarios con objeto de mejorar la prestación del mismo, de acuerdo con los lineamientos aprobados en el programa estatal de capacitación, actualización y adiestramiento del año de su ejecución;
+II.- Solicitar a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, realice los estudios técnicos y socioeconómicos para determinar las necesidades de servicio público de transporte dentro de su territorio, y participar en la elaboración de los mismos, o en su caso, en aquellos estudios que la propia Unidad inicie de oficio.
+
+Cuando existan Comisiones Municipales Reguladoras del Transporte Colectivo Urbano estas realizarán los estudios para el tipo de transporte correspondiente;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+III.- Ejecutar, en coordinación con el Consejo Consultivo Municipal, el programa anual de capacitación, actualización y adiestramiento para los operadores y demás personal que participa en la prestación del Servicio Público de Transporte Municipal, en su caso, a los concesionarios con objeto de mejorar la prestación del mismo, de acuerdo con los lineamientos aprobados en el programa estatal de capacitación, actualización y adiestramiento del año de su ejecución.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
 IV.- Verificar que se hayan inscrito en el Registro Público de Transporte del Estado, respecto de su municipio: concesiones, concesionarios, permisos, permisionarios, operadores y unidades del servicio de transporte público, en general, los actos, resoluciones, medidas y sanciones que afecten, extingan o modifiquen los derechos y obligaciones de los actores del transporte de conformidad con esta Ley y sus reglamentos;
 
-V.- Expedir a los operadores del Servicio Público de Transporte Municipal, constancias previa aprobación de los cursos de capacitación y exámenes físicos, psíquicos y de pericia que establezca esta Ley y sus reglamentos, para adquirir el derecho de ser inscritos en el Registro Público de Transporte del Estado;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+V.- Expedir a los operadores del Servicio Público de Transporte Municipal, constancias previa aprobación de los cursos de capacitación y exámenes físicos, psíquicos y de pericia que establezca esta Ley y sus reglamentos, para adquirir el derecho de ser inscritos en el Registro Público de Transporte del Estado.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
 VI.- Acordar con los concesionarios el establecimiento de cobertizos en los lugares de ascenso y descenso de pasaje y demás medidas que mejoren la calidad y eficiencia del servicio publico de transporte municipal;
 
@@ -283,27 +333,49 @@ VII.- Intervenir y conciliar en los conflictos que, con motivo de la prestación
 
 VIII.- Vigilar, en el servicio público de transporte, que los concesionarios cumplan con las condiciones de legalidad, así como de higiene, comodidad y seguridad que correspondan a la categoría del servicio, de acuerdo con los términos de su concesión;
 
-IX.- Fijar plazo razonable, para que los concesionarios del servicio público de transporte, mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-X.- Suspender la circulación de las unidades autorizadas cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte, notificando de inmediato a la Delegación Regional o a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología. Asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio;
+IX.- Fijar plazo razonable, para que los concesionarios del servicio público de transporte, mejoren las condiciones de higiene, comodidad, seguridad, calidad y eficiencia de acuerdo con los términos de la concesión, cuando de la inspección que se realice conforme a esta Ley, se constate el deterioro en la prestación del servicio.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+X.- Suspender la circulación de las unidades autorizadas cuando no reúnan las condiciones mínimas de comodidad, seguridad, higiene o vida útil que se requieran para la prestación del servicio público de transporte, notificando de inmediato a la Delegación Regional o a la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología. Asimismo, autorizar la reanudación de la circulación, una vez que se cumplan las condiciones que requiere el servicio.
+
+La suspensión se realizará por solicitud o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
 XI.- Impedir la circulación de los vehículos que se encuentren prestando el servicio público de transporte, si éste o su operador, no se encuentran inscritos en el Registro Público de Transporte del Estado;
 
 XII.- Inspeccionar y vigilar, la prestación del servicio público y privado de transporte, a través de la dependencia que designe, observando los procedimientos que esta Ley establece;
 
-XIII.- Aplicar, por conducto de la dependencia que designe, previa observancia del procedimiento, las medidas y sanciones que establece la presente Ley;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+XIII.- Aplicar, por conducto de la dependencia que designe, previa observancia del procedimiento, las medidas y sanciones que establece la presente Ley.
+
+La aplicación se hará a solicitud de, o a través de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
 XIV.- Brindar en el momento que lo solicite el auxilio de la fuerza pública a la Autoridad de Transporte que se lo solicite, con la finalidad de hacer cumplir las decisiones y resoluciones que conforme a esta Ley se emitan;
 
 XV.- Hacer uso de la fuerza pública, cuando el caso lo amerite, para aplicar las medidas de seguridad y hacer efectivas las sanciones que conforme a esta Ley se apliquen;
 
-XVI.- Opinar sobre la determinación y modificación de las tarifas de los servicios públicos de transporte que se presten dentro de su demarcación territorial;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+XVI.- Opinar sobre la determinación y modificación de las tarifas de los servicios públicos de transporte que se presten dentro de su demarcación territorial.
+
+Esta facultad se asigna a las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan para ese tipo de transporte;
 
 XVII.- Intervenir en la formulación y aplicación de los programas estatales de transporte público, cuando afecten su ámbito territorial, en los términos que lo previene esta Ley;
 
-XVIII.- Instituir el consejo consultivo municipal, el cual que (sic) funcionará como órgano de investigación, análisis y discusión de problemas relacionados con el servicio público de transporte y de emisión de propuestas para el mejoramiento del mismo;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-XIX.- Celebrar con el Ejecutivo Estatal, convenios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte;
+XVIII.- Establecer mediante convenio con el Gobierno del Estado la constitución de una Comisión Municipal Reguladora del Transporte Colectivo Urbano, cuando así lo consideren conveniente ambas partes. Para delegar en ella las facultades de estudio, investigación, establecimiento de rutas, horarios y estándares de calidad del transporte colectivo urbano;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+XIX.- Celebrar con el Ejecutivo Estatal, convenios, a fin de definir y acordar acciones de inspección, vigilancia y mejoramiento de los servicios públicos de transporte.
+
+En el convenio de creación de las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en donde existan se acordarán las acciones de inspección, vigilancia y mejoramiento para ese tipo de transporte;
 
 XX.- Coordinarse, anualmente con la Secretaría de Infraestructura Urbana y Ecología y la Unidad Administrativa competente, para participar en la evaluación del Programa Estatal de Transporte, proponiendo al Titular del Poder Ejecutivo del Estado, los ajustes necesarios en los términos de la Ley de Planeación del Estado de Sonora; y
 
@@ -357,169 +429,105 @@ El Ejecutivo Estatal, podrá convenir con el Ejecutivo Federal o con los ayuntam
 
 El Ejecutivo Estatal ordenará la publicación, en el Boletín Oficial del Gobierno del Estado, de los convenios que suscriba con el Gobierno Federal o con los ayuntamientos.
 
-### CAPITULO V. DE LA PARTICIPACION SOCIAL
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE MARZO DE 2011)</small>
+
+### CAPITULO V. DE LAS COMISIONES MUNICIPALES REGULADORAS DEL TRANSPORTE COLECTIVO URBANO Y DE LA PARTICIPACION SOCIAL
+
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 24.
 
-El Consejo Consultivo de Transporte del Estado de Sonora es una instancia permanente de participación social y de consulta que tiene por objeto diagnosticar, estudiar y analizar la problemática en materia de transporte en el Estado, así como emitir las recomendaciones que, para su mejoramiento, estime pertinentes. Estará integrado por:
+Los Ayuntamientos y el Gobierno del Estado, de mutuo acuerdo, podrán celebrar convenios para el establecimiento de Comisiones Municipales Reguladoras del Transporte Colectivo Urbano en su Municipio que estarán integrados por:
 
-I.- Un Presidente, que será el Titular del Poder Ejecutivo del Estado;
+I.- Tres representantes designados por el Gobierno del Estado, entre ellos uno designado como presidente;
 
-II.- Un Vicepresidente que será el Secretario de Infraestructura Urbana y Ecología;
+II.- Tres representantes designados por el Gobierno municipal;
 
-III.- Un Secretario Técnico, que será el Titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología;
+III.- Tres representantes electos por los cocesionarios y en caso de existir una empresa integradora participarán el Presidente, el Vicepresidente y el primer comisario de la empresa que presta el servicio;
 
-IV.- El Congreso del Estado que estará representado por la Comisión de Transporte;
+IV.- Un representante designado por la Cámara de Comercio del Municipio;
 
-V.- Un representante de la Coordinación Estatal de Seguridad Pública y Tránsito;
+V.- Un representante designado por la Cámara de la Industria de la Transformación del Municipio;
 
-VI.- Los Presidentes Municipales o la persona que el Ayuntamiento respectivo designe;
+VI.- Un representante de la Asociación o Unión de Usuarios en caso de existir en el Municipio; y
 
-VII.- Un representante de cada uno de los Consejos Consultivos Municipales constituidos en el Estado;
+VII.- Un Secretario Técnico designado de común acuerdo entre el Municipio y el Gobierno del Estado, con voz sin derecho a voto.
 
-VIII.- Un representante de las cámaras de servicios constituidas en el Estado;
+El Convenio establecerá específicamente los funcionarios que integrarán por parte del Municipio y el Gobierno del Estado buscando que la Comisión tenga la mayor permanencia y estabilidad posible.
 
-IX.- Un representante de las instituciones de Educación Media, Media Superior y Superior;
+Podrán participar como invitados permanentes sin derecho a voto el titular de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología y el Presidente Municipal.
 
-X.- Un representante de los estudiantes de las instituciones referidas en la fracción anterior;
+La Comisión tomará sus decisiones por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad, deberá sesionar al menos una vez cada tres meses.
 
-XI.- Un representante de los sindicatos y asociaciones de trabajadores que tengan relación directa con el desarrollo del transporte público; y
-
-XII.- Un representante de los concesionarios por cada modalidad del transporte público en el Estado;
-
-A invitación expresa del Presidente, podrá formar parte del Consejo, el Delegado en el Estado de la Secretaría de Comunicaciones y Transportes.
-
-Asimismo, a invitación del Presidente podrán participar en las sesiones del Consejo, las personas que por su experiencia o conocimientos, puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
-
-Los procedimientos para designar a los representantes a que se refieren las fracciones VIII, IX, X, XI y XII de este artículo, se señalarán en el reglamento de la presente Ley.
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 25.
 
-El Consejo Consultivo de Transporte del Estado tendrá las siguientes funciones:
+La Comisión Municipal Reguladora del Transporte Colectivo Urbano tendrá las siguientes funciones:
 
-I.- Dar su opinión sobre las necesidades de transporte público en el Estado;
+I.- La realización de los estudios e investigaciones que permitan implementar decisiones que mejoren la prestación del servicio público de transporte en su modalidad de pasaje urbano en el Municipio;
 
-II.- Promover la interrelación de los servicios públicos de transporte concesionados por la Federación y el Estado;
+II.- Establecimiento, modificación, ampliación o cancelación de rutas;
 
-III.- Orientar y sugerir modificaciones en la prestación de los servicios públicos de transporte, a fin de optimizarlos;
+III.- Definición de los estándares de calidad a los que se deberán ajustar los concesionarios en la prestación del servicio, tales como horarios, tiempos de espera por ruta y horario, limpieza, uso de aire acondicionado y condiciones del vehículo, entre otros;
 
-IV.- Opinar sobre el establecimiento y modificación de las tarifas del servicio público de transporte;
+IV.- Realización de estudios técnicos en el Municipio para conocer sobre los costos del transporte, sus ingresos y tarifas de equilibrio;
 
-V.- Promover, entre los concesionarios del servicio público de transporte, fórmulas económicas y administrativas que permitan rentabilidad, eficiencia y seguridad, en la prestación de dichos servicios;
+V.- Inspección y vigilancia de la prestación del servicio público de transporte en su modalidad de pasaje urbano;
 
-VI.- Opinar sobre el establecimiento de centrales y terminales de pasaje y carga en el Estado;
+VI.- Emitir opinión en torno a la modificación de tarifas y solicitar adecuaciones cuando sus estudios así lo indiquen;
 
-VII.- Promover la participación de los concesionarios del servicio público de transporte en la apertura y mejoramiento de calles, caminos y carreteras por donde transiten los vehículos autorizados para la prestación del servicio público concesionado;
+VII.- Aplicación de Sanciones dentro del marco de la normatividad correspondiente;
 
-VIII.- Promover la integración de Consejos Consultivos Municipales de Transporte;
+VIII.- Hacer propuestas al Ayuntamiento y al Gobierno del Estado en torno a modificaciones viales y obras de pavimentación y vialidad;
 
-IX.- Promover programas de capacitación y actualización para los concesionarios y operadores del servicio público de transporte, con el objeto de mejorar la prestación del mismo hacia la comunidad;
+IX.- Establecer las paradas autorizadas para el servicio público de transporte en su modalidad de pasaje urbano; y
 
-X.- Coadyuvar a la formulación de los programas estatal y regionales en materia de transporte público.
-
-XI.- Llevar un registro de los principales indicadores y estadísticas en materia de transporte que permita medir el impacto de la problemática para facilitar la toma de decisiones; y
-
-XII.- Sugerir el establecimiento de medidas y normas para la protección de la integridad física de los usuarios.
+X.- Las demás que establezca esta ley.
 
 ###### Artículo 26.
 
-El Consejo Consultivo Estatal sesionará en forma ordinaria cada seis meses y, de manera extraordinaria, cuando así lo convoque el Presidente del mismo o lo soliciten la mayoría de sus miembros.
-
-El quórum se integrará con la mitad más uno de los miembros del Consejo y los acuerdos se tomarán por mayoría. En caso de empate el presidente tendrá voto de calidad.
-
-En la convocatoria que al efecto se expida, se especificará hora, lugar y día de la sesión, de no integrarse el quórum para sesionar validamente, esta se llevará acabo (sic) en segunda convocatoria dos horas después con los integrantes que se encuentren presentes.
-
-El secretario técnico levantará el acta que corresponda en cada sesión. Los cargos conferidos a los miembros del Consejo serán de carácter honorífico.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 27.
 
-Para el desarrollo de las actividades y el cumplimiento de sus funciones, el Consejo Consultivo Estatal de Transporte recibirá aportaciones del Gobierno del Estado.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 28.
 
-El Consejo Consultivo Estatal rendirá al Congreso del Estado un informe cada seis meses sobre el estado y situación del servicio público de transporte, así como los informes parciales que estime necesarios.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 29.
 
-Las resoluciones emitidas por el Consejo Consultivo Estatal de Transporte tendrán carácter de recomendación.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 30.
 
-Los Consejos Consultivos Municipales de Transporte, se integrarán por:
-
-I.- Un Presidente, que será el Presidente Municipal o la persona que designe el Ayuntamiento respectivo;
-
-II.- Un Secretario Técnico, que será el titular de la dependencia encargada del ramo o de no existir ésta, será el Secretario del Ayuntamiento;
-
-III.- Un Regidor del Ayuntamiento que será el Presidente de la Comisión de Transporte si la hubiere, o quien designe el Ayuntamiento;
-
-IV.- Un Regidor de primera minoría;
-
-V.- Un representante de la Jefatura de Policía Preventiva y Tránsito Municipal;
-
-VI.- El Delegado Regional de Transporte o la persona que designe;
-
-VII.- Un representante de los usuarios del transporte, por cada sistema y modalidad;
-
-VIII.- Un representante de los concesionarios por cada ruta, sistema y modalidad;
-
-IX.- Un representante por cada cámara de servicios y de la producción constituidas en el Municipio;
-
-X.- Un representante de los estudiantes de las instituciones Media, Media Superior y Superior;
-
-XI.- Un representante de las instituciones de Educación Media, Media Superior y Superior;
-
-XII.- Un representante de los sindicatos y asociaciones de trabajadores que tengan relación directa con el desarrollo del transporte público; y
-
-> <small>(ADICIONADA, B.O. 26 DE JUNIO DE 2003)</small>
-
-XIII.- Un representante de los operadores del servicio público de transporte por cada sistema y modalidad.
-
-A invitación expresa del Presidente, podrán participar en las sesiones del Consejo, cuando tengan relación con los asuntos a tratar, los representantes de los sectores públicos, estatal y municipal, y las personas que por su experiencia o conocimientos, puedan aportar importante colaboración al desarrollo de los trabajos del Consejo.
-
-> <small>(REFORMADO, B.O. 26 DE JUNIO DE 2003)</small>
-
-Los procedimientos para designar a los representantes a que se refieren las fracciones VII, VIII, IX, X, XI, XII y XIII de este artículo, se señalarán en el reglamento de la presente Ley.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 31.
 
-Los Consejos Consultivos Municipales tendrán las siguientes funciones:
-
-I.- Orientar y sugerir modificaciones en la prestación de los servicios públicos de transporte concesionados, a fin de optimizarlos;
-
-II.- Promover, entre los concesionarios del servicio público de transporte, fórmulas económicas y administrativas que permitan rentabilidad, eficiencia y seguridad, en la prestación de dichos servicios;
-
-III.- Promover la participación de los concesionarios del servicio público de transporte, en la apertura y mejoramiento de calles, caminos y carreteras por donde transiten los vehículos autorizados para la prestación del servicio público concesionado;
-
-IV.- Promover programas de capacitación y actualización para los concesionarios y operadores del servicio público de transporte, con el objeto de mejorar la prestación del mismo hacia la comunidad; y
-
-V.- Integrar el Consejo Consultivo Estatal, por medio de su presidente o por la persona que designe la Asamblea.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 32.
 
-Los Consejos Consultivos Municipales sesionarán en forma ordinaria cada tres meses y de manera extraordinaria cuando así lo convoque el Presidente de los mismos o lo soliciten la mayoría de sus miembros.
-
-El quórum se integrará con la mitad más uno de los miembros del Consejo y los acuerdos se tomarán por mayoría. En caso de empate el presidente tendrá voto de calidad.
-
-En la convocatoria que al efecto se expida, se especificará hora, lugar y día de la sesión, de no integrarse el quórum para sesionar validamente, esta se llevará acabo (sic) en segunda convocatoria dos horas después con los integrantes que se encuentren presentes.
-
-El secretario técnico levantará el acta que corresponda en cada sesión. Los cargos conferidos a los miembros de los Consejos serán de carácter honorífico.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 33.
 
-Para el desarrollo de las actividades y el cumplimiento de sus funciones, los Consejos Consultivos Municipales de Transporte recibirán aportaciones de sus respectivos Municipios.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 34.
 
-Los Consejos Consultivos Municipales rendirán al Ayuntamiento un informe trimestral sobre el estado y situación del servicio público de transporte de personas dentro de sus demarcaciones territoriales, así como los informes parciales que estimen necesarios.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 35.
 
-Las resoluciones emitidas por los Consejos Consultivos Municipales de Transporte tendrán carácter de recomendación y serán presentadas al Ayuntamiento para que resuelva lo conducente.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ###### Artículo 36.
 
-El Ejecutivo del Estado, a través de la Secretaría de Infraestructura Urbana y Ecología, y los ayuntamientos promoverán la participación de la sociedad en la formulación, ejecución y evaluación de los programas estatal y regionales de transporte público, así como la integración de las organizaciones sociales en los consejos consultivos de transporte que se constituyan.
+(DEROGADO, B.O. 25 DE MARZO DE 2011)
 
 ### CAPITULO VI. DEL FOMENTO DE LAS EMPRESAS Y ASOCIACIONES DEL TRANSPORTE Y DE LOS ESTIMULOS Y APOYOS
 
@@ -1065,21 +1073,31 @@ Tarifa es la contraprestación a cargo del usuario por el uso de los diferentes 
 
 Las tarifas y sus reglas de aplicación se determinarán procurando que respondan siempre a un criterio técnico uniforme, igual para casos similares y diversificados de acuerdo con la zona o región donde habrán de prestarse los servicios, por la diferenciación de la situación económica y las condiciones de comodidad, seguridad e higiene en que se presta el servicio en los lugares respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 88.
 
-El Congreso del Estado autorizará las tarifas que correspondan al servicio público de transporte, debiendo establecer tarifas especiales para estudiantes, personas con discapacidad y de la tercera edad que utilicen el servicio público de transporte público en zonas urbanas y suburbanas, mismas que se aplicarán siempre que se identifiquen con la credencial correspondiente, expedida por la institución educativa o pública competente.
+El Ejecutivo del Estado autorizará las tarifas que correspondan al servicio público de transporte, debiendo establecer tarifas especiales para estudiantes, personas con discapacidad y adultos mayores que utilicen el servicio público de transporte en zonas urbanas y suburbanas, mismas que se aplicarán siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto.
+
+> <small>(ADICIONADO, B.O. 25 DE MARZO DE 2011)</small>
+
+El Ejecutivo Estatal deberá realizar los estudios que sean necesarios para conocer el nivel socioeconómico de los usuarios del servicio público de transporte, en su modalidad de pasaje en los sistemas urbano y suburbano y, en caso de que los estudios técnicos referidos determinen que estos usuarios no pueden pagar la totalidad o una parte de la tarifa por el servicio, establecida de acuerdo a lo que instruyen los artículos 89 y 90 de esta Ley, el Ejecutivo Estatal deberá establecer los procedimientos adecuados y asignar los recursos necesarios, a fin de cubrir a los prestadores del servicio, vía subsidio, esa diferencia, exclusivamente para los usuarios del servicio público de transporte referido en este párrafo.
 
 La tarifa autorizada para el sistema de automóvil de alquiler podrá ser cubierta en forma individual o colectiva por los usuarios.
 
 En el caso de la tarifa del automóvil de alquiler colectivo será cubierta en forma individual.
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 89.
 
-Para determinar las tarifas del servicio público de transporte, la Secretaría de Infraestructura Urbana y Ecología realizará los estudios técnicos necesarios, debiendo considerar: el tipo de servicio, el salario mínimo general vigente en la región, el precio unitario del energético que se utilice y los costos directos e indirectos que incidan en la prestación del servicio; asimismo, deberán tomar en cuenta los estudios relativos de los concesionarios, si los hubiere, así como la opinión del Consejo Consultivo Estatal de Transporte.
+Para determinar las tarifas del servicio público de transporte, el Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura Urbana y Ecología, por lo menos una vez al año, así como cada vez que varíen sustancialmente las condiciones socioeconómicas que les dieron origen, o a solicitud de Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, elaborará los estudios técnicos necesarios, debiendo considerar en éstos los siguientes indicadores: el tipo, modalidad, sistema y características de servicio, los incrementos al salario mínimo general vigente en la región, los incrementos al precio unitario del energético que se utilice, los incrementos en los costos directos e indirectos que incidan en la prestación del servicio, los ingresos que perciben los concesionarios por la prestación del servicio público de transporte, así como cualquier otro concepto de ingreso. En la elaboración de los estudios técnicos deberán tomarse en cuenta los estudios técnicos de los concesionarios, si los hubiere.
+
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 90.
 
-El Congreso del Estado revisará las tarifas del servicio público de transporte, cada vez que varíen sustancialmente las condiciones socioeconómicas que le dieron origen, debiendo observarse para ese efecto, lo dispuesto en el artículo anterior.
+El Ejecutivo del Estado, una vez realizados los estudios técnicos a que se refiere el artículo anterior, deberá resolver sobre el incremento de las tarifas del servicio público de transporte, en sus distintas modalidades. El Ejecutivo del Estado, de manera anual, podrá realizar ajustes a las tarifas en función del porcentaje que resulte del acumulado del año anterior del indicador oficial para medir la inflación en el país (Índice Nacional de Precios al Consumidor).
 
 ###### Artículo 91.
 
@@ -1309,9 +1327,13 @@ VI.- Iniciar la marcha de la unidad cuando el usuario se encuentre sentado o hay
 
 VII.- No transportar mayor número de personas que las que expresamente autoriza para cada servicio la presente Ley y sus reglamentos;
 
-VIII.- Entregar al usuario el boleto una vez cubierta la tarifa correspondiente;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-IX.- Aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en tratándose del servicio público de transporte urbano y suburbano de pasaje, siempre y cuando se identifiquen con credencial;
+VIII.- Entregar al usuario el boleto una vez cubierta la tarifa correspondiente, con excepción del uso de tarjetas de prepago;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+IX.- Aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en tratándose del servicio público de transporte urbano y suburbano de pasaje, siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto;
 
 X.- Mantener en buen estado y limpia la unidad con la que se presta el servicio público de transporte e informar oportunamente al concesionario las deficiencias de la misma;
 
@@ -1537,9 +1559,11 @@ El objeto del presente capítulo consiste en atender y comprobar el exacto cumpl
 
 Las Delegaciones Regionales de Transporte, así como los ayuntamientos y la Dependencia que hayan designado, deberán contar con un cuerpo de inspectores que tendrá a su cargo la vigilancia y (sic) inspección del debido cumplimiento de las disposiciones de la presente Ley y sus reglamentos.
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 135.
 
-En materia de inspección y vigilancia, concurrirán las Delegaciones Regionales y los Ayuntamientos en el servicio público y privado de transporte, los ayuntamientos, serán competentes dentro de su ámbito territorial.
+En materia de inspección y vigilancia, concurrirán las Delegaciones Regionales y los Ayuntamientos en el servicio público y privado de transporte, los ayuntamientos, serán competentes dentro de su ámbito territorial. Para el servicio público de transporte en su modalidad de pasaje urbano concurrirán las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, cuando existan.
 
 ###### Artículo 136.
 
@@ -1575,9 +1599,11 @@ XIII.- Las demás que señale esta Ley y sus Reglamentos.
 
 Los concesionarios, permisionarios, así como los operadores de los vehículos afectos al servicio público de transporte, deberán permitir a las autoridades de transporte correspondiente, el acceso a las instalaciones, terminales y vehículos, asimismo deberán proporcionar los informes, documentos y demás datos necesarios para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 138.
 
-Las Delegaciones Regionales de Transporte y los ayuntamientos, a través de sus cuerpos de inspectores, debidamente acreditado, podrán, en cualquier momento y las veces que sea necesario, realizar visitas de inspección y verificación a los concesionarios y permisionarios, a fin de dar cumplimiento a lo prescrito por el artículo 133 de esta Ley.
+Las Delegaciones Regionales de Transporte, los ayuntamientos y las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, a través de sus cuerpos de inspectores, debidamente acreditado, podrán, en cualquier momento y las veces que sea necesario, realizar visitas de inspección y verificación a los concesionarios y permisionarios, a fin de dar cumplimiento a lo prescrito por el artículo 133 de esta Ley.
 
 ###### Artículo 139.
 
@@ -1591,7 +1617,9 @@ En caso de que manifiesten desobediencia o negativa a un requerimiento de la aut
 
 Todo acto de visita de inspección y vigilancia que realicen los inspectores a los concesionarios y permisionarios del servicio público y privado de transporte se sujetará a las siguientes formalidades:
 
-I.- Los actos de inspecciones, visitas y vigilancia deberán cumplirse en el lugar o lugares indicados en la orden expedida por la autoridad competente, cuyo objeto será el estipulado en la misma;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+I.- Los actos de inspecciones, visitas y vigilancia deberán cumplirse en el lugar o lugares indicados en la orden expedida por la autoridad competente, cuyo objeto será el estipulado en la misma, Cuando existan centros de monitoreo satelital de las unidades de transporte urbano, éstos se constituirán en lugares permanentes de inspección y vigilancia, deberá tener acceso permanente un representante de los concesionarios y podrá utilizarse la evidencia electrónica para el establecimiento de sanciones;
 
 II.- Si las personas físicas o los representantes legales de las morales concesionarias o permisionarias no se encontraran presentes en el lugar indicado para ello, se dejará citatorio a la persona que se encuentre, para que la persona que se pretende visitar espere a la hora determinada del día siguiente, con el objeto de efectuar la orden de visita que se trate y en caso de inasistencia, se realizará con quien se encuentre en ese lugar;
 
@@ -1629,9 +1657,11 @@ VIII.- En su caso, las expresiones de la o las persona que se refiere (sic) en l
 
 IX.- Un apartado de lectura y cierre del acta en la que se haga constar que se dio lectura y se explicó el alcance y contenido del acta a los sujetos de la diligencia; además de que los concesionarios o permisionarios disponen de cinco días hábiles para formular observaciones y presentar pruebas relacionadas con el contenido de la diligencia de que se trate.
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 143.
 
-Cuando los inspectores del transporte, por motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o sus reglamentos, asentarán dichas circunstancias en las actas respectivas para el conocimiento de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, o en su caso a la autoridad municipal competente, a fin de que, según corresponda, se dicten las medidas y apliquen las sanciones establecidas en esta Ley.
+Cuando los inspectores del transporte, por motivo del ejercicio de sus atribuciones, tengan conocimiento de una infracción a las disposiciones de la presente Ley o sus reglamentos, asentarán dichas circunstancias en las actas respectivas para el conocimiento de la Unidad Administrativa competente de la Secretaría de Infraestructura Urbana y Ecología, o en su caso a la autoridad municipal competente, o de la Comisión Municipal Reguladora del Transporte Colectivo Urbano correspondiente, a fin de que, según corresponda, se dicten las medidas y apliquen las sanciones establecidas en esta Ley.
 
 ###### Artículo 144.
 
@@ -1655,7 +1685,9 @@ II.- Continuar ejerciendo los derechos derivados de una concesión o permiso hab
 
 III.- Dañar, destruir u obstruir las vías públicas del Estado o de los municipios;
 
-IV.- Establecer rutas diversas a las autorizadas, sitios, itinerarios, horarios y tarifas diversas a las autorizadas en la concesión; y
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+IV.- Establecer rutas, sitios, itinerarios y horarios diversos a los autorizados en la concesión o por la Comisión Municipal Reguladora del Transporte Colectivo Urbano; asimismo, establecer tarifas diversas a las autorizadas conforme a lo dispuesto en los artículo 88, 89 y 90 de esta Ley;
 
 V.- No dar o no exigir a su personal, el trato correcto, respetuoso y considerado a los usuarios del servicio público, particularmente a las personas con discapacidad y de la tercera edad;
 
@@ -1687,7 +1719,9 @@ XVIII.- No cubrir los derechos que al efecto establezcan los ordenamientos munic
 
 XIX.- Fijar o permitir publicidad de productos comerciales o cualquier clase de propaganda en los vehículos destinados a la prestación el servicio público de transporte, sin autorización de la Secretaría de Infraestructura Urbana y Ecología;
 
-XX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en tratándose del servicio público de transporte urbano y suburbano de pasaje, cuando se hayan identificado con credencial; y
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+XX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y adultos mayores, en tratándose del servicio público de transporte urbano y suburbano de pasaje, cuando se hayan identificado con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto; y
 
 XXI.- Las demás previstas en la presente Ley.
 
@@ -1707,9 +1741,13 @@ VI.- Iniciar la marcha de la unidad sin que el usuario se encuentre sentado o ha
 
 VII.- Transportar mayor número de personas que las que expresamente autoriza para cada servicio la presente Ley y sus reglamentos;
 
-VIII.- No entregar al usuario el boleto un (sic) vez cubierta la tarifa correspondiente;
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
 
-IX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y de la tercera edad, en tratándose del servicio público de transporte urbano y suburbano de pasaje, cuando se acredite con la credencial correspondiente;
+VIII.- No entregar al usuario el boleto una vez cubierta la tarifa correspondiente con excepción del uso de tarjetas de prepago;
+
+> <small>(REFORMADA, B.O. 25 DE MARZO DE 2011)</small>
+
+IX.- No aceptar el pago de la tarifa especial para estudiantes, personas con discapacidad y adultos mayores, en tratándose del servicio público de transporte urbano y suburbano de pasaje, siempre que se identifiquen con la credencial correspondiente, expedida por la autoridad que designe el Ejecutivo Estatal para tal efecto;
 
 X.- No mantener en buen estado y limpia la unidad con la que se presta el servicio público de transporte;
 
@@ -1759,13 +1797,17 @@ IV.- Suspensión de la prestación del servicio público de transporte; y
 
 V.- Revocación de concesiones y permisos para los servicios público y privado de transporte.
 
+> <small>(REFORMADO, B.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 149.
 
-Las sanciones establecidas en el artículo anterior serán aplicadas conforme a su competencia, por la Secretaría de Infraestructura Urbana y Ecología, las Delegaciones Regionales y los ayuntamientos, en los términos que esta Ley establece.
+Las sanciones establecidas en el artículo anterior serán aplicadas conforme a su competencia, por la Secretaría de Infraestructura Urbana y Ecología, las Delegaciones Regionales, los ayuntamientos y en su caso por las Comisiones Municipales Reguladoras del Transporte Colectivo Urbano, en los términos que esta Ley establece.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 150.
 
-Las Delegaciones Regionales y los ayuntamientos, en sus (sic) respectiva competencia, podrán aplicar las sanciones establecidas en las fracciones I, II y III del artículo 148 de esta Ley, en los siguientes supuestos:
+Las Delegaciones Regionales, los ayuntamientos y las Comisiones Municipales Reguladoras del Transporte Colectivo, en sus respectivas competencias, podrán aplicar las sanciones establecidas en las fracciones l, II y III del artículo 148 de esta Ley, en los siguientes supuestos:
 
 a) Amonestación:
 
@@ -2068,3 +2110,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes al reglamento de la Ley de Transporte para el Estado de Sonora, en un plazo no mayor a 60 días hábiles, contado a partir de la entrada en vigor del presente decreto.
+
+B.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
