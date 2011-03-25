@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88970"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-29"
-last_updated: "2010-06-02"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88970&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-11-20"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 25 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de diciembre de 2009.
 
@@ -722,3 +724,13 @@ D.O.F. 2 DE JUNIO DE 2010.
 ###### ARTICULO UNICO.
 
 Las presentes adecuaciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE MARZO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo 1443, tomado en la sesión ordinaria número 96 de la H. Asamblea General, celebrada el 28 de abril de 2009, y sus modificaciones aprobadas mediante Acuerdo 1485, tomado en la sesión ordinaria número 98 de la H. Asamblea General, celebrada el 23 de abril de 2010, publicados en el Diario Oficial de la Federación los días 29 de diciembre de 2009 y 2 de junio de 2010, respectivamente.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
