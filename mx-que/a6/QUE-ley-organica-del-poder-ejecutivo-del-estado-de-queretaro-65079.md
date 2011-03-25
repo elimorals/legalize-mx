@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2010-11-26"
+last_updated: "2011-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -153,9 +153,11 @@ Como titular de cada dependencia habrá un Secretario, salvo el caso de la Ofici
 
 Los titulares de las dependencias formularán proyectos de ley, reglamentos, decretos y acuerdos de observancia general en las materias que correspondan a su competencia y las remitirán al Gobernador del Estado, a través de la Secretaría de Gobierno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 19.
 
-Para el estudio, planeación, despacho y ejecución de los asuntos de la administración pública del Estado, auxiliarán al Gobernador del Estado las siguientes dependencias:
+Para el estudio, planeación, despacho y ejecución de los asuntos de la administración pública del Estado, auxiliarán al titular del Poder Ejecutivo las siguientes dependencias:
 
 I. La Secretaría de Gobierno;
 
@@ -179,9 +181,13 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-XII. La Procuraduría General de Justicia, y
+XII. La Procuraduría General de Justicia, y (sic)
 
-XIII. La Secretaría de Seguridad Ciudadana.
+XIII. La Secretaría de Seguridad Ciudadana;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2011)</small>
+
+XIV. La Secretaría de la Juventud.
 
 ###### Artículo 20.
 
@@ -853,6 +859,56 @@ XXIII. Proponer los reglamentos necesarios en las materias de su competencia; y
 
 XXIV. Las demás facultades y obligaciones que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Cuarto. De la Secretaría de la Juventud
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+
+###### Artículo 34.
+
+La Secretaría de la Juventud es la dependencia encargada de planear, formular, instrumentar, coordinar y evaluar políticas públicas trasversales orientadas al desarrollo armónico de la juventud, en un marco de inclusión y equidad de oportunidades sociales, económicas y culturales. Le corresponde el despacho de los siguientes asuntos:
+
+I. Representar al titular del Poder Ejecutivo, en el ámbito de su competencia, ante las diversas instancias del gobierno y de la sociedad civil;
+
+II. En materia de equidad de género, diseñar y ejecutar políticas públicas que consideren la diversidad juvenil, tendientes a lograr su incorporación al desarrollo del Estado;
+
+III. Elaborar planes y programas relacionados con el sector juvenil, en el marco de los Planes Nacional y Estatal de Desarrollo;
+
+IV. En materia de autoempleo, diseñar y ejecutar políticas públicas que promuevan una cultura emprendedora, que eleve la productividad y el poder adquisitivo del sector juvenil;
+
+V. En materia de salud, realizar acciones en las que los jóvenes participen y les permita el conocimiento de esta temática, con el fin de disminuir su problemática y propiciar el aprovechamiento de mejores oportunidades de desarrollo;
+
+VI. En materia de trabajo comunitario y participación social, apoyar a las organizaciones juveniles existentes, así como fomentar la creación de organizaciones juveniles con cultura de liderazgo, con el fin de que desarrollen proyectos en beneficio de este sector;
+
+VII. Elaborar programas tendientes a la integración de los jóvenes al desarrollo familiar, con apoyo en acciones de rescate de principios y valores que les permita desplegar plenamente sus potencialidades;
+
+VIII. Elaborar estudios e investigaciones relacionadas con el sector juvenil, así como actualizarlas, promoverlas y difundirlas, de manera permanente, a fin de obtener un conocimiento sistemático;
+
+IX. Llevar a cabo talleres de planeación social dirigidos al sector juvenil, que promuevan su participación, tanto en localidades rurales como urbanas, que permitan conocer los problemas de la juventud, así como las alternativas de solución;
+
+X. Elaborar mecanismos e instrumentos que establezcan las condiciones adecuadas para incrementar el poder adquisitivo del ingreso de los jóvenes;
+
+XI. En coordinación con las dependencias y entidades de la Administración Pública de los tres órdenes de gobierno y de la sociedad civil, promover el trabajo y el diseño de acciones en beneficio del sector juvenil;
+
+XII. Gestionar apoyos económicos y materiales dirigidos al sector juvenil, que permitan la promoción de la oferta educativa, coadyuvando con ello a la superación académica;
+
+XIII. Impulsar al sector juvenil en la realización de propuestas, sugerencias, expectativas, necesidades e inquietudes y, en su caso, ser el conducto para presentarlas a los organismos públicos, privados y sociales que correspondan;
+
+XIV. Promover la creación de instancias municipales de la juventud, así como de espacios físicos acordes a la diversidad del sector juvenil en que pueda desarrollarse su participación, recreación, expresión y entretenimiento;
+
+XV. Propiciar y difundir la oferta gubernamental y de la iniciativa privada, en materia de empleo, educación, salud, medio ambiente, cultura, recreación y uso adecuado del tiempo libre, para atender las demandas y necesidades del sector juvenil;
+
+XVI. Promover la creación de espacios en los medios de comunicación, que permitan la expresión e interlocución del sector juvenil;
+
+XVII. Proponer al titular del Poder Ejecutivo del Estado, el otorgamiento de reconocimientos y estímulos a jóvenes que realicen un trabajo sobresaliente en los distintos ámbitos de participación social;
+
+XVIII. En coordinación con la dependencia gubernamental que corresponda, proponer, elaborar, dar seguimiento y evaluar las actividades y políticas públicas transversales a favor del sector juvenil, en materia de salud, educación, desarrollo sustentable, desarrollo agropecuario, desarrollo urbano, trabajo, turismo, seguridad ciudadana, asistencia social y, en general, todas aquellas que estén orientadas a su desarrollo integral;
+
+XIX. Generar la información estadística desagregada del sector juvenil, correspondiente a Poder Ejecutivo del Estado; y
+
+XX. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
+
 ## TRANSITORIOS
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -914,3 +970,27 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 Artículo Tercero. Para efecto de lo dispuesto en el artículo 100 fracción VIII de la Ley de Salud del Estado de Querétaro, la Secretaría de Salud contará con el plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para emitir la normatividad que corresponda.
 
 Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios técnicos correspondientes a la Etapa I de Implementación del "Acuerdo mediante el cual se establecen los Lineamientos Generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica", contenidos en el Cuadro 3 denominado "Criterios nutrimentales de aplicación obligatoria en alimentos y gradualidad de implementación durante tres ciclos escolares a partir del Ciclo Escolar 2010-2011" del Anexo Único del Acuerdo en cita, publicado en el Diario Oficial de la Federación el 23 de Agosto de 2010.
+
+P.O. 25 DE MARZO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley por la que se crea el Instituto Queretano de la Juventud, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" con fecha 17 de septiembre de 1999, quedando extinto el Organismo Público Descentralizado denominado "Instituto Queretano de la Juventud".
+
+Artículo Tercero. Los servidores públicos del Instituto Queretano de la Juventud, pasarán a formar parte de la plantilla de personal de la Secretaría de la Juventud, respetándose todos sus derechos laborales en términos de la ley aplicable, tanto individuales como colectivos.
+
+De igual manera, los bienes muebles e inmuebles y los recursos financieros con que actualmente cuenta el Instituto Queretano de la Juventud, pasarán a formar parte del patrimonio del Poder Ejecutivo del Estado de Querétaro, a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. Para los efectos legales a que haya lugar, la Secretaría de la Juventud sustituirá al Instituto Queretano de la Juventud, en el cumplimiento de las obligaciones y el ejercicio de los derechos derivados y que se deriven en forma posterior a la entrada en vigor de la presente Ley, de los convenios, contratos y demás actos jurídicos celebrados por éste último, lo que operará de pleno derecho, sin necesidad de ratificaciones o suscripciones por parte de la Secretaría, para tales efectos.
+
+Artículo Quinto. Hasta en tanto sea expedida la normatividad interna de la Secretaría de la Juventud, seguirá en vigor, en lo que no contravenga a la presente Ley, aquella que ha regido hasta el momento al Instituto Queretano de la Juventud.
+
+Artículo Sexto. Para la atención y el seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva, que estén vinculados de cualquier manera con el Instituto Queretano de la Juventud, la representación de éste se entenderá efectuada a través de la Secretaría de la Juventud.
+
+Las responsabilidades derivadas de procedimientos administrativos, judiciales o de cualquier otra índole que se hayan iniciado o se inicien sobre el manejo de recursos públicos por parte de los servidores públicos del Instituto Queretano de la Juventud o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de la modificación a que se refiere la presente Ley.
+
+Artículo Séptimo. Las referencias al Instituto Queretano de la Juventud que hagan las leyes y demás disposiciones administrativas, en adelante se entenderán realizadas a la Secretaría de la Juventud.
+
+Artículo Octavo. El presupuesto vigente aprobado para el Instituto Queretano de la Juventud, será asignado a la Secretaría de la Juventud, quedando autorizada la Secretaría de Planeación y Finanzas para que en términos de los artículos 68, 70, 71 y demás relativos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, realice las transferencias que resulten necesarias, a efecto de que la Secretaría de la Juventud cuente con los recursos suficientes para el desarrollo de sus objetivos y programas, sin necesidad de tramitar la modificación al Presupuesto aprobado por la Quincuagésima Sexta Legislatura del Estado de Querétaro.
+
+Artículo Noveno. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
