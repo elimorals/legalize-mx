@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2011-03-02"
+last_updated: "2011-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -715,7 +715,7 @@ La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dict
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelelo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -1671,6 +1671,10 @@ II.- Estar en pleno ejercicio de sus derechos políticos, y
 
 III.- Tener modo honesto de vivir.
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+
+Tratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
+
 ### CAPITULO IV. Del Poder Judicial
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
@@ -2345,7 +2349,7 @@ REFORMADA, P.O. 9 DE MARZO DE 2010)
 
 VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
 
-(VÉASE ARCHIVO ANEXO)
+(VEASE ARCHIVO ANEXO)
 
 Al Sur, el Municipio de Solidaridad y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
 
@@ -4220,3 +4224,9 @@ TRANSITORIOS:
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
