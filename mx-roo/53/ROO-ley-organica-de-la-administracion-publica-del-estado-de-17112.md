@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-03-22"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2011 EN EL NUMERO EXTRAORDINARIO DEL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE MARZO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -212,6 +212,10 @@ II.- Ser nativo o nativa de la entidad o tener residencia efectiva no menos de c
 III.- Tener un modo honesto de vivir.
 
 Para ser titular de la Procuraduría General de Justicia, se deberán cumplir los requisitos que establece el Artículo 96 de la Constitución Política del Estado y lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+
+Tratándose de lo dispuesto en la fracción II del presente artículo, podrá ser dispensable únicamente para el cargo de Secretario de Seguridad Pública.
 
 ###### ARTICULO 21.
 
@@ -1666,3 +1670,9 @@ NOVENO.- Las menciones contenidas en otras Leyes, Reglamentos, Decretos, Acuerdo
 P.O. 22 DE MARZO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
