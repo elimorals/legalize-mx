@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-44028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-18"
-last_updated: "2010-02-17"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA, PUBLICADA EN EL NUMERO 29 EXTRAORDINARIO DEL P.O. DE FECHA 25 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE FEBRERO DE 2010 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL NUMERO 5 EXTRAORDINARIO DEL P.O. DE 28 DE ENERO DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado, el viernes 18 de febrero de 2005.
 
@@ -1672,3 +1672,41 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 P.O. 28 DE ENERO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría, publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el 18 de febrero de 2005.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones reglamentarias de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los manuales que este Reglamento menciona, el Secretario resolverá las cuestiones que conforme a dichos manuales se deban regular.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos pendientes al entrar en vigor el presente Reglamento y que conforme al mismo correspondían a otras unidades, deberán pasar de una unidad a otra y se resolverán y tramitarán por aquella unidad a la que se le haya atribuido la competencia conforme al presente instrumento y se harán cargo de los mismos hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Cuando las facultades y obligaciones de alguna Unidad Administrativa a que se refiere este Reglamento deban de ser ejercidas por otra Unidad Administrativa conforme a lo estipulado en el mismo, los recursos humanos, financieros materiales con que contaba pasarán a esta última, de conformidad con el ámbito de sus facultades que a cada una corresponda.
+
+###### ARTÍCULO SEPTIMO.
+
+Los lineamientos, criterios, acuerdos, convenios, guías y demás instrumentos de carácter jurídico o administrativo que hayan sido expedidos con anterioridad al presente Reglamento, continuarán en vigor hasta en cuanto no se opongan a las disposiciones del presente ordenamiento o hasta en tanto no se modifiquen o deje sin efectos.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos, procedimientos administrativos y recursos, que al inicio de la vigencia del presente Reglamento Interior estuvieren en trámite, se continuarán conforme a las disposiciones del Reglamento Interior que se abroga, hasta la conclusión de los mismos.
+
+###### ARTÍCULO NOVENO.
+
+Cuando en este Reglamento Interior se dé una denominación nueva o distinta a alguna Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquélla atenderá los asuntos a que se refiere este ordenamiento.
