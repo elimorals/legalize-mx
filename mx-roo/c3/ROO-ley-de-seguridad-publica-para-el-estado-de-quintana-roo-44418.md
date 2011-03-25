@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-para-el-estado-de-quintana-roo-44418"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2010-12-23"
+last_updated: "2011-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de marzo de 2005.
 
@@ -211,9 +213,15 @@ III. Tener modo honesto de vivir;
 
 IV. Tener más de 35 años de edad al momento de su designación;
 
-V. Contar preferentemente con Título de Licenciado en Derecho debidamente registrado o estudios equivalentes;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+V. Contar preferentemente con título de Licenciado en Derecho debidamente registrado o estudios afines en materia de seguridad pública;
 
 VI. Ser de reconocida capacidad y probidad, además de contar con al menos 5 años de experiencia en el área de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+
+Tratándose de lo dispuesto en la Fracción I del presente artículo, podrá ser dispensable.
 
 ###### Artículo 14.
 
@@ -1382,3 +1390,9 @@ P.O. 23 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, observando las disposiciones contenidas en el artículo siguiente.
 
 SEGUNDO.- El reglamento del servicio público de escolta deberá emitirse en un plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
