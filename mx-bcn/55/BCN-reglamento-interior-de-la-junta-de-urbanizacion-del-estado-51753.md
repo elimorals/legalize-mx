@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-de-urbanizacion-del-estado-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2006-09-01"
+last_updated: "2011-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -155,9 +155,15 @@ V. Cuidar que circulen con oportunidad entre los miembros de la Junta Directiva,
 
 VI. Asistir puntualmente las sesiones de la Junta Directiva;
 
-VII. Redactar las comunicaciones oficiales cuando así se acuerde en el pleno de la Junta Directiva; y,
+VII. Redactar las comunicaciones oficiales cuando así se acuerde en el pleno de la Junta Directiva; y, (sic)
 
-VIII. Las demás que le señale la Junta Directiva, para el adecuado desarrollo de las sesiones.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+VIII. Convocar a sesiones ordinarias o extraordinarias, previa instrucción del Presidente de la Junta Directiva; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+IX. Las demás que le señale la Junta Directiva, para el adecuado desarrollo de las sesiones.
 
 #### SECCIÓN IV. DE LOS INTEGRANTES
 
@@ -185,11 +191,15 @@ Para el estudio, planeación, despacho de los asuntos y el adecuado cumplimiento
 
 I. Dirección General:
 
-a. Coordinación de Planeación;
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+
+a. Unidad de Planeación;
 
 b. Departamento Jurídico; y,
 
-c. Unidad de Control Interno;
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+
+c. Unidad de Contraloría Interna.
 
 II. Subdirección de Obras y Proyectos:
 
@@ -205,9 +215,13 @@ III. Subdirección de Recaudación:
 
 a. Coordinación de Participación Ciudadana;
 
-b. Coordinación de Padrones; y,
+b. Coordinación de Padrones; y, (sic)
 
 c. Coordinación de Recuperación de Cartera;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2011)</small>
+
+d. Coordinación de Recaudación Zona Costa;
 
 IV. Subdirección Financiera y Administrativa:
 
@@ -217,23 +231,31 @@ Se adscriben directamente a la Dirección General, la Subdirección de Obras y P
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 20.
 
-La Dirección General estará a cargo de un Director General, quien tendrá las facultades y obligaciones que expresamente le señala la Ley, y las demás disposiciones aplicables.
+La Dirección General estará a cargo de un Director General, quien ejercerá las facultades y obligaciones que expresamente señalan los artículos 19 y 29 de la Ley, y demás disposiciones aplicables.
 
 ###### Artículo 21.
 
 La Dirección General, para el apoyo, asesoría y trámite de los asuntos de su competencia, contará con las siguientes unidades administrativas:
 
-a. Coordinación de Planeación;
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+
+a. Unidad de Planeación;
 
 b. Departamento Jurídico; y
 
-c. Unidad de Control Interno.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2011)</small>
+
+c. Unidad de Contraloría Interna.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 22.
 
-Corresponde a la Coordinación de Planeación la atención y trámite de las siguientes atribuciones:
+Corresponde a la Unidad de Planeación la atención y trámite de las siguientes atribuciones:
 
 I. Coordinar y controlar las actividades relativas a la planeación y programación de la Junta, recomendando las prioridades de ejecución de acuerdo a los resultados obtenidos;
 
@@ -279,9 +301,11 @@ XI. Promover la protocolización notarial de actos relativos a las facultades de
 
 XII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Unidad de Control Interno la atención y trámite de las siguientes atribuciones:
+Corresponde a la Unidad de Contraloría Interna la atención y trámite de las siguientes atribuciones:
 
 I. Efectuar revisiones directas y selectivas a las unidades administrativas de la Junta, tendientes a comprobar la veracidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación;
 
@@ -409,7 +433,9 @@ Corresponde a la Coordinación Técnica Zona Costa la atención y trámite de la
 
 I. Ser el enlace con la Coordinación de Obras, la Coordinación de Proyectos y Seguimiento y la Coordinación de Derramas, para la atención directa de asuntos inherentes a la realización de las obras que realice la Junta en los municipios de Ensenada, Tijuana, Tecate y Playas de Rosarito, según lo determine el superior inmediato;
 
-II. Revisar las prederramas y derramas de obras de urbanización para que cumplan con los criterios de ejecución y que se incluyan en el programa de obras de zona costa;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+II. Revisar las prederramas y derramas de obras de urbanización elaborados por la Coordinación de Derramas, para que cumplan con los criterios de ejecución y que se incluyan en el programa de obras de zona costa;
 
 III. Realizar los trabajos concernientes a las estimaciones, desde su recepción hasta la revisión y validación de la estimación finiquito con la verificación física que amparen los trabajos ejecutados en las obras que realice la Junta en la zona costa;
 
@@ -443,9 +469,15 @@ VIII. Vigilar que funcionen adecuadamente los sistemas de control, evaluando su 
 
 IX. Optimizar el aprovechamiento de los recursos asignados para cumplir con el programa a su cargo;
 
-X. Coordinar la elaboración de las tablas comparativas de recaudación que contengan: las gráficas de plazos en cuentas, gráficas de plazos en monto, tablas de cuentas activas, gráficas comparativas de ingresos, presupuestos comparativos de ingresos, reporte de seguimiento del Procedimiento Administrativo de Ejecución por año de obra, y reporte de cuentas notificadas por obra; y,
+X. Coordinar la elaboración de las tablas comparativas de recaudación que contengan: las gráficas de plazos en cuentas, gráficas de plazos en monto, tablas de cuentas activas, gráficas comparativas de ingresos, presupuestos comparativos de ingresos, reporte de seguimiento del Procedimiento Administrativo de Ejecución por año de obra, y reporte de cuentas notificadas por obra; y, (sic)
 
-XI. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+XI. Coordinar la elaboración, revisión y validación de los padrones de beneficiarios de las obras de urbanización que se ejecuten; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+XII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
 ###### Artículo 32.
 
@@ -453,9 +485,13 @@ Para el debido cumplimiento de sus atribuciones, la Subdirección de Recaudació
 
 a. Coordinación de Participación Ciudadana;
 
-b. Coordinación de Padrones; y,
+b. Coordinación de Padrones; y, (sic)
 
-c. Coordinación de Recuperación de Cartera.
+c. Coordinación de Recuperación de Cartera;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2011)</small>
+
+d. Coordinación de Recaudación Zona Costa.
 
 ###### Artículo 33.
 
@@ -501,9 +537,63 @@ III. Proporcionar a la Subrecaudación de Rentas Adscrita a la Junta, la documen
 
 IV. Vigilar diariamente los ingresos, que por los conceptos correspondientes, entren a las Subrecaudaciones de Rentas adscritas a la Junta;
 
-V. Proponer la contratación de notificadores, así como supervisar y evaluar su desempeño; y,
+V. Proponer la contratación de notificadores, así como supervisar y evaluar su desempeño; y, (sic)
 
-VI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+VI. Ejecutar los sistemas de control de recaudación de los créditos fiscales por concepto de obras de urbanización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+VII. Integrar los reportes de seguimiento del procedimiento administrativo de ejecución y de cuentas notificadas por obra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+VIII. Intervenir en todos los actos tendientes a la expedición y firma de certificados de libertad de gravámenes, que acredite que el inmueble de que se trata no está afecto al pago de las contribuciones de mejoras, o que está al corriente en los pagos del crédito fiscal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+IX. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2011)</small>
+
+###### Artículo 35 Bis.
+
+Corresponde a la Coordinación de Recaudación Zona Costa la atención y trámite de las siguientes atribuciones:
+
+I. Coordinar la distribución de las notificaciones y procedimientos administrativos de ejecución entre los ejecutores de la zona costa;
+
+II. Actualizar la información del Recaudador Auxiliar y los Analistas de Recaudación para el seguimiento oportuno del control de los créditos fiscales de la (sic) obras;
+
+III. Turnar las actividades y documentos relativos a la elaboración de estudios socioeconómicos;
+
+IV. Ejecutar las notificaciones, procedimientos administrativos de ejecución, así como supervisar el comportamiento de la recaudación en la zona costa;
+
+V. Aplicar los beneficios fiscales que determine el Ejecutivo del Estado, a través de disposiciones de carácter general y en apego a las disposiciones aplicables; así como formalizar convenios de pagos a parcialidades con los ciudadanos respecto a los créditos fiscales generados por las obras de urbanización;
+
+VI. Informar al Subdirector de Recaudación sobre los resultados de las estrategias y operativos implementados con el fin de incentivar la recaudación;
+
+VII. Aplicar las políticas y estrategias de recaudación de los créditos fiscales establecidas, en coordinación con las demás unidades coordinadoras del área;
+
+VIII. Supervisar que las actividades del personal a su cargo, relativas a las notificaciones, procedimientos administrativos de ejecución y, servicio al público, se realicen con oportunidad;
+
+IX. Vigilar el cumplimiento de las normas y políticas para el desempeño del Sistema de Gestión de la Calidad en la zona costa;
+
+X. Analizar y validar las notificaciones de cuotas de cooperación y plusvalía emitidas en su área;
+
+XI. Supervisar la entrega de los documentos y diligencias realizadas por los notificadores hacia los ciudadanos beneficiados con las obras;
+
+XII. Proponer y definir estrategias para optimizar el procedimiento administrativo de ejecución;
+
+XIII. Dar seguimiento a los actos de notificación que se revocan, para que sean nuevamente diligenciados;
+
+XIV. Mantener actualizada la información de los ciudadanos beneficiados con las obras, así como el resultado de los documentos emitidos;
+
+XV. Proporcionar atención a los usuarios y canalizar sus asuntos referentes a los créditos de las obras, dudas, aclaraciones o información de obra, a quien corresponda;
+
+XVI. Intervenir en todos los actos tendientes a la expedición y firma de certificados de libertad de gravámenes, que acredite que el inmueble de que se trata no está a efecto (sic) al pago de las contribuciones de mejoras, o que está al corriente en los pagos del crédito fiscal; y,
+
+XVII. Las demás atribuciones que le confiera el superior inmediato y las disposiciones aplicables.
 
 #### SECCIÓN IV. DE LA SUBDIRECCIÓN FINANCIERA Y ADMINISTRATIVA
 
@@ -537,9 +627,19 @@ XII. Orientar y coordinar la planeación, programación, presupuestación, contr
 
 XIII. Proporcionar la información y asesoría financiera y administrativa que le sea requerida por el Director General y las diferentes unidades administrativas de la Junta, de acuerdo con las políticas establecidas al respecto;
 
-XIV. Coordinar el ejercicio del gasto público asignado a la Junta, que comprenda el manejo y aplicación de los recursos, justificación, comprobación y trámite de pago; así como la evaluación e información del avance de los programas, sujetándose a los ordenamientos legales y disposiciones de las dependencias normativas competentes; y,
+XIV. Coordinar el ejercicio del gasto público asignado a la Junta, que comprenda el manejo y aplicación de los recursos, justificación, comprobación y trámite de pago; así como la evaluación e información del avance de los programas, sujetándose a los ordenamientos legales y disposiciones de las dependencias normativas competentes; y, (sic)
 
-XV. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+XV. Elaborar y actualizar manuales administrativos, en apego a normatividad (sic) aplicable, con apoyo del Departamento Jurídico de la Junta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+XVI. Promover procesos de prácticas gestoras orientadas a resultado (sic); y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2011)</small>
+
+XVII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
 ###### Artículo 37.
 
@@ -577,7 +677,9 @@ Se consideran indelegables las siguientes facultades y obligaciones del Director
 
 I. Representar legalmente a la Junta ante terceros y ante toda clase de autoridades civiles, administrativas y judiciales, con facultades amplias para pleitos y cobranzas y actos de administración, en los términos del mandato que para el efecto le otorgue la Junta Directiva, sin perjuicio de que ésta pueda designar apoderados generales o especiales que estime convenientes;
 
-II. Presentar anualmente ante la Junta Directiva para su análisis, discusión y aprobación, en su caso, el programa operativo anual del organismo;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2011)</small>
+
+II. Presentar anualmente ante la Junta Directiva para su análisis, discusión y aprobación, en su caso, el programa operativo anual de la Junta;
 
 III. Presentar anualmente ante la Junta Directiva para su análisis, discusión y aprobación, en su caso, el proyecto del presupuesto de ingresos y egresos, para el ejercicio fiscal siguiente, así como sus modificaciones;
 
@@ -682,3 +784,11 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 ARTURO ESPINOZA JARAMILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Decreto, el Director General de la Junta de Urbanización del Estado de Baja California, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
