@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-unidad-de-programas-y-proyectos-62068
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-09"
-last_updated: "2008-07-09"
+last_updated: "2011-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA UNIDAD DE PROGRAMAS Y PROYECTOS ESTRATEGICOS Y EVALUACION DE POLITICAS PUBLICAS DEL GOBIERNO DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA UNIDAD DE PROGRAMAS Y PROYECTOS ESTRATEGICOS Y EVALUACION DE POLITICAS PUBLICAS DEL GOBIERNO DEL ESTADO
+REGLAMENTO INTERIOR DE LA UNIDAD DE PROGRAMAS Y PROYECTOS ESTRATÉGICOS Y EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO QUE CREA LA COORDINACIÓN ESTRATÉGICA PARA EL DESARROLLO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 9 de julio de 2008.
 
@@ -63,7 +65,7 @@ I. Área de Programas y Proyectos Estratégicos;
 
 II. Área de Evaluación de las Políticas Públicas; y
 
-lII. Área de Prospectiva y Desarrollo Metropolitano.
+III. Área de Prospectiva y Desarrollo Metropolitano.
 
 ###### Artículo 5.
 
@@ -332,3 +334,17 @@ CARLOS PINTO NÚNEZ.
 EL GOBERNADOR GENERAL DE LA UPPEEPP
 
 FRANCISCO GARCÍA GONZÁLEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MARZO DE 2011.
+
+Primero.- El presente Decreto que Crea la Coordinación Estratégica para el desarrollo del Estado de Zacatecas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Decreto que crea la Unidad de Programas y Proyectos Estratégicos y Evaluación de Políticas Públicas del Gobierno del Estado, publicado en el Suplemento 3 al No. 9 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día treinta de enero de dos mil ocho.
+
+Tercero.- Se abroga el Reglamento Interior de la Unidad de Programas y Proyectos Estratégicos y Evaluación de Políticas Públicas del Gobierno del Estado, publicado en Suplemento 2 al No. 55, en el Periódico Oficial, Órgano del Gobierno del Estado, de fecha 9 de julio del 2008.
+
+Cuarto.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, a propuesta del Titular de la Coordinación Estratégica que se crea, se expedirá el Reglamento Interno.
+
+Quinto.- En atención a los criterios de racionalidad y austeridad que deben regir la actividad gubernamental, la creación de la Coordinación Estratégica de Programas y Proyectos, no incide en un incremento de la burocracia, ya que los recursos humanos, materiales y financieros asignados a la Unidad de Programas y Proyectos Estratégicos y Evaluación de Políticas Públicas, pasarán a formar parte de la Coordinación Estratégica que ahora se Crea.
