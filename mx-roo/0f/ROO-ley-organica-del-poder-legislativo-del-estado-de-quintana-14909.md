@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2011-02-10"
+last_updated: "2011-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -471,13 +471,13 @@ Las Comisiones ordinarias, se elegirán en la primera sesión que se verifique d
 
 Las Comisiones transitorias se integrarán conforme a lo dispuesto por los artículos 40 y 41 de la presente ley, y sus miembros durarán el tiempo que requiera el asunto o asuntos para las que fueron constituidas.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Las Comisiones ordinarias tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y las que de manera específica les señale el Reglamento de esta Ley y, conjuntamente con la Comisión de Puntos Legislativos, el análisis y dictamen de las iniciativas de Leyes y Decretos de su competencia.
+Las Comisiones ordinarias tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación y las que de manera específica les señale el Reglamento de esta Ley y, conjuntamente con la Comisión de Puntos Legislativos y Técnica Parlamentaria, el análisis y dictamen de las iniciativas de Leyes y Decretos de su competencia.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 35.
 
@@ -485,7 +485,7 @@ Las Comisiones ordinarias serán:
 
 1.- Comisión de Puntos Constitucionales.
 
-2.- Comisión de Puntos Legislativos.
+2.- Comisión de Puntos Legislativos y Técnica Parlamentaria.
 
 3.- Comisión de Justicia.
 
@@ -493,33 +493,47 @@ Las Comisiones ordinarias serán:
 
 5.- Comisión de Asuntos Municipales.
 
-6.- Comisión de Reglamentos.
+6.- Comisión de Desarrollo Humano y Poblacional.
 
-7.- Comisión de Estudios de la Administración Pública.
+7.- Comisión de Desarrollo Juvenil con Igualdad de Oportunidades.
 
-8.- Comisión de Industria, Comercio y Desarrollo Social.
+8.- Comisión de Desarrollo Familiar y Grupos Vulnerables.
 
-9.- Comisión de Asuntos Indígenas.
+9.- Comisión de Desarrollo Indígena.
 
-10.- Comisión de Infraestructura y Asentamientos Humanos.
+10.- Comisión de Desarrollo Rural y Pesquero.
 
-11.- Comisión de Salud, Educación, Cultura y Deportes.
+11.- Comisión de Desarrollo Urbano y Asuntos Metropolitanos.
 
-12.- Comisión de Ecología y de Asuntos Agropecuarios, Forestales y Pesqueros.
+12.- Comisión de Planeación y Desarrollo Económico.
 
-13.- Comisión de Derechos Humanos.
+13.- Comisión de Trabajo y Previsión Social.
 
-14.- Comisión de Turismo, Monumentos y Zonas Arqueológicas.
+14.- Comisión de Salud y Asistencia Social.
 
-15.- Comisión de Equidad y Género.
+15.- Comisión de Derechos Humanos.
 
-16.- Comisión de Asuntos Migratorios y Fronterizos.
+16.- Comisión de Equidad y Género.
 
-17.- Comisión de Asuntos de la Juventud.
+17.- Comisión de Educación, Ciencia y Tecnología.
 
-18.- Comisión de Concertación y Prácticas Parlamentarias.
+18.- Comisión de Medio Ambiente y Cambio Climático.
 
-19.- Comisión de Corrección y Estilo.
+19.- Comisión de Cultura.
+
+20.- Comisión de Turismo.
+
+21.- Comisión de Deporte.
+
+22.- Comisión de Comunicaciones y Transportes.
+
+23.- Comisión de Seguridad Pública y Protección Civil.
+
+24.- Comisión de Participación Ciudadana y Órganos Autónomos.
+
+25.- Comisión de Defensa de los Límites de Quintana Roo y Asuntos Fronterizos.
+
+26.- Comisión de Concertación y Prácticas Parlamentarias.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -581,11 +595,11 @@ Cuando alguno de los miembros de una Comisión disienta de la resolución adopta
 
 ### CAPITULO II. DE LA GRAN COMISION
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 44.
 
-La Gran Comisión será integrada por los Presidentes de las Comisiones ordinarias de Puntos Constitucionales, Puntos Legislativos, Justicia, Hacienda, Presupuesto y Cuenta y Asuntos Municipales.
+La Gran Comisión será integrada por los Presidentes de las Comisiones Ordinarias de Puntos Constitucionales, Puntos Legislativos y Técnica Parlamentaria, Justicia, Hacienda, Presupuesto y Cuenta y Asuntos Municipales.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1521,11 +1535,11 @@ No se votarán separadamente las Iniciativas que hayan sido discutidas en térmi
 
 Podrá votarse en forma simultánea un proyecto de ley o decreto en lo general y en la totalidad o parte de sus artículos que no hayan sido impugnados. Lo mismo se observará si durante el debate ningún Diputado hiciere uso de la palabra o solamente lo hiciere en favor del Dictamen.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 133.
 
-Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, se turnarán de inmediato a la Comisión de Corrección y Estilo para la elaboración de la Minuta, corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La Minuta podrá ser dispensada de su lectura si así lo aprueba el Pleno a propuesta de algún Diputado.
+Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobadas, se turnarán de inmediato a la Comisión de Puntos Legislativos y Ténica Parlamentaria para la elaboración de la Minuta, corregida conforme al buen uso del lenguaje y con la claridad que amerite para su inequívoca interpretación, sin que se altere su contenido esencial en lo más mínimo. La Minuta podrá ser dispensada de su lectura si así lo aprueba el Pleno a propuesta de algún Diputado.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1657,7 +1671,7 @@ El Secretario de la Legislatura dará fe e instruirá las resoluciones de trámi
 
 ###### ARTICULO 148.
 
-En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Mesa Directiva de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público sujeto a juicio.
+En la sesión de audiencia de conclusiones, alegatos y resolución definitiva, el Presidente de la Legislatura, luego de declarar abierta la sesión, procederá a informar al Pleno del estado en que se encuentra el expediente y acto seguido concederá el uso de la palabra al Presidente de la Comisión Instructora o a alguno de sus miembros que lo solicite y al servidor público al que se le instruye el Juicio Político, en forma alternada. Podrán hacer uso de la palabra una sola vez hasta tres miembros de la Comisión y hasta dos veces su Presidente, concediendo la palabra por cada vez al servidor público encausado.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1946,3 +1960,13 @@ P.O. 10 DE FEBRERO DE 2011.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 26 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Las Comisiones Ordinarias señaladas en el presente Decreto se integrarán en Sesión Ordinaria de la Honorable XIII Legislatura del Estado de Quintana Roo, a celebrarse el día 29 de marzo de 2011.
+
+TERCERO.- Aquellas disposiciones legales establecidas en el Estado que refieran a las Comisiones que ahora cambian de denominación, se entenderán aplicables a las Comisiones ahora determinadas por el presente Decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
