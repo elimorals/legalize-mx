@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2010-09-15"
+last_updated: "2011-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2011.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -439,7 +439,7 @@ Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera 
 
 El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
 
-I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o (sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
+I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o(sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
 II.- El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Gobernador del Estado, diputados al Congreso del Estado y miembros de los ayuntamientos, equivaldrá al setenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y miembros de los ayuntamientos, equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias.
 
@@ -935,13 +935,13 @@ D.- El procedimiento y condiciones para que el Gobierno Estatal asuma una funci�
 
 E.- Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2011)</small>
 
-VI.- Examinar, discutir y aprobar anualmente el presupuesto de egresos del Estado, discutiendo y aprobando primero las contribuciones que a su juicio deben decretarse para cubrirlo.
+VI.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, discutiendo y aprobando primero las contribuciones que a su juicio deben decretarse para cubrirlo.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los proyectos de inversión pública a largo plazo que haya aprobado, de acuerdo con lo dispuesto en la fracción IX, inciso G), del presente artículo.
 
-El Ejecutivo del Estado hará llegar al Congreso la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
+El Ejecutivo del Estado hará llegar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas.
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -972,6 +972,10 @@ E.- Para que, bajo las condiciones que el Congreso le imponga, represente al Est
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 F.- Para que arme y ponga en servicio la Guardia Nacional.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2011)</small>
+
+G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de inversión pública a largo plazo. Las obligaciones derivadas de los citados proyectos de inversión no constituyen deuda pública.
 
 X.- Fijar y modificar la división territorial, política, administrativa, judicial y electoral del Estado.
 
@@ -1083,9 +1087,13 @@ XXIX.- Reconocer la deuda pública del Estado y decretar la manera de hacer su p
 
 XXX.- Resolver acerca de la enajenación o gravamen de los bienes inmuebles del Estado, estableciendo la forma de su enajenación.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2011)</small>
 
-XXXI.- Autorizar a los ayuntamientos para que se asocien y se coordinen con los de otros Estados para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
+XXXI.- Autorizar a los ayuntamientos para que:
+
+A) Se asocien y se coordinen con los de otros Estados para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
+
+B) De conformidad con la ley de la materia, celebren contratos sobre Proyectos de Inversión Pública a Largo Plazo.
 
 XXXII.- Recabar de quien corresponda y por los conductos debidos, informes sobre todos los ramos de Administración Pública del Estado y de los Municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
@@ -2297,11 +2305,13 @@ Los municipios podrán celebrar convenios con el Estado para que éste se haga c
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2011)</small>
 
 ###### Art. 133.
 
-Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley.
+Los Presupuestos de Egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, en la forma y términos que establezca la ley.
+
+Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo aprobados en los términos del artículo 137.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -2335,9 +2345,13 @@ Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este ar
 
 Los integrantes de los Ayuntamientos correspondientes serán responsables, personal y pecuniariamente, de la contravención de este precepto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2011)</small>
+
 ###### Art. 137.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2007)
+Los ayuntamientos, mediante el voto de las dos terceras partes de sus miembros, podrán aprobar la celebración de contratos para Proyectos de Inversión Pública a Largo Plazo, en los términos de la ley de la materia. Una vez aprobados, se remitirán al Congreso del Estado para su autorización.
+
+Los compromisos asumidos por los municipios en los términos del presente artículo, no se considerarán como contratación de créditos o empréstitos, por lo cual no constituyen deuda pública.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -3656,3 +3670,17 @@ P.O. 15 DE SEPTIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 Conforme lo dispone el artículo 202 de la Constitución Política Estatal, y por lo que hace al Artículo Único del presente Decreto, que contiene la reforma constitucional, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local.
+
+P.O. 26 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el Artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua y su aplicación estará sujeta a lo dispuesto por la legislación secundaria.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones a la legislación secundaria deberán realizarse dentro de un periodo no mayor a un año, contado a partir del día siguiente en que surta vigencia el presente Decreto.
