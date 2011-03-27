@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2006-12-17"
+last_updated: "2011-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACION DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -129,11 +129,11 @@ Todos los habitantes del Estado de Durango tienen la obligación de cursar la Ed
 
 En el Estado de Durango se impartirá Educación Básica, en las modalidades y adaptaciones pertinentes, así como la normal y demás para la formación de Maestros de Educación Básica. Estos servicios se prestarán en el marco del federalismo educativo instituido en la Constitución Política de los Estados Unidos Mexicanos y de acuerdo a la distribución de la función social educativa establecida en la Ley General de Educación.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 5.
 
-Además de impartir la Educación Básica, el Gobierno del Estado de Durango promoverá y atenderá todos los tipos del servicio educativo, incluida la Educación Superior, apoyará la investigación científica y tecnológica, fomentará y difundirá la cultura y el deporte.
+Además de impartir la Educación Básica, el Gobierno del Estado de Durango promoverá y atenderá todos los tipos del servicio educativo, incluida la Educación Superior, apoyará la investigación científica y tecnológica, fomentará y difundirá la cultura e impulsará el deporte y la actividad física para la salud.
 
 ###### ARTICULO 6.
 
@@ -155,11 +155,11 @@ Podrán aceptarse donativos voluntarios que proporcionen los padres de familia p
 
 La educación que impartan el Estado y los Municipios será laica, y por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 9.
 
-La educación que impartan el Estado de Durango y los Municipios, así como la que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, incluyendo las escuelas libres de educación superior, se basará y tendrá los fines establecidos en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, en el Artículo 4º de la Constitución Política del Estado y en el Artículo 7º de la Ley General de Educación.
-
-Además de los fines establecidos en la normatividad referida en el párrafo anterior, la educación que se imparta en el Estado de Durango, tendrá los siguientes objetivos:
+La educación que impartan el Estado de Durango y los Municipios, así como la que impartan los particulares con autorización o reconocimiento de validez oficial de estudios, incluyendo las escuelas libres de educación superior, se basará y tendrá los fines establecidos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, en el Artículo 4° de la Constitución Política del Estado y en el Artículo 7° de la Ley General de Educación. Además de los fines establecidos en la normatividad referida en el párrafo anterior, la educación que se imparta en el Estado de Durango, tendrá los siguientes objetivos:
 
 I.- Crear conciencia de la necesidad de preservar la institución de la familia, manteniendo su integridad y sus valores;
 
@@ -197,13 +197,17 @@ XVI.- Fomentar una educación humanista a fin de crear una sociedad centrada en 
 
 XVII.- Responder a un proyecto democrático, de respeto a la pluralidad política y a las decisiones individuales y colectivas de los ciudadanos mexicanos; de compromiso con la participación social en la vida de la nación; que preserve la paz social y la unidad como pueblo y como nación para mantener nuestra identidad histórica como mexicanos, respetuosos y solidarios con todos lo (sic) pueblos y culturas del mundo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2011)</small>
 
-XVIII.- Crear conciencia sobre la importancia de una alimentación completa, equilibrada, inocua, suficiente y variada, para el desarrollo pleno del individuo en todas las etapas de la vida, y
+XVIII.- Crear conciencia sobre la importancia de una alimentación completa, equilibrada, inocua, suficiente y variada, para el desarrollo pleno del individuo de todas las etapas de la vida; así como promover la adopción de hábitos alimenticios saludables y su relación con la desnutrición, el sobrepeso, la obesidad, los trastornos de la conducta alimentaria y los padecimientos crónico-degenerativos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2011)</small>
 
-XIX.- Desarrollar en la conciencia del educando la idea que sobre la base de la justicia, del respeto de los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales; contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida.
+XIX.- Estimular la educación física y la práctica del deporte, así como inculcar la importancia de la actividad física en la salud, y
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2011)</small>
+
+XX - Desarrollar en la conciencia del educando la idea que sobre la base de la justicia, del respeto de los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales, contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -391,15 +395,31 @@ XXXIV.- Otorgar en concesión la operación de centros de distribución de alime
 
 XXXV.- Formular, expedir, publicar y modificar, en su caso, las disposiciones reglamentarias y administrativas de carácter general que regulen la organización, funcionamiento, operación, supervisión y vigilancia de los centros de distribución de alimentos que funcionen en los centros escolares de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE MARZO DE 2011)</small>
 
-XXXVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado de Durango, atendiendo a sus respectivos ámbitos de competencia, las disposiciones reglamentarias y administrativas de carácter general aplicables a los centros de distribución que funcionen en los centros escolares de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo en las siguientes materias:
+XXXVI.- Establecer en coordinación con la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del. Estado de Durango, atendiendo a sus respectivos ámbitos de competencia, las disposiciones reglamentarias y administrativas de carácter general aplicables en los centros de distribución que funcionen en los centros escolares de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo en las siguientes materias:
 
 a) Contenido nutricional de los alimentos que se expendan en los centros de distribución de alimentos aludidos en el párrafo anterior de esta fracción;
 
 b) Vigilancia, verificación y control de las condiciones de higiene en el manejo y procesamiento de los alimentos que se expendan en los mismos centros y planteles incorporados; y
 
 c) Fomento de buenas prácticas nutricionales y hábitos saludables de la alimentación en docentes, padres de familia y educandos del Sistema Estatal de Educación y en los planteles incorporados al mismo.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2011)</small>
+
+d) Desarrollar programas que promuevan la alimentación correcta e informen sobre la desnutrición, el sobrepeso, la obesidad y los trastornos de la conducta alimentaria.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2011)</small>
+
+e) Tratándose de la elaboración, comercialización y consumo de alimentos y bebidas en escuelas de educación básica públicas o particulares se limitara el consumo de alimentos de bajo contenido nutrimental y alto contenido en calorías, azúcares y sales; y quienes elaboren o comercialicen alimentos o bebidas deberán cumplir con la normatividad de salubridad que para tal efecto expida la autoridad correspondiente y con las disposiciones que emita la autoridad educativa Federal.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2011)</small>
+
+f) Garantizar que los planteles de educación básica y media superior o equivalente, cuenten con depósitos equipados con filtros de agua v bebederos públicos.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2011)</small>
+
+g) La Secretaría deberá coordinarse con la Secretaría de Salud, con la finalidad de detectar los cambios epidemiológicos de la obesidad, el sobrepeso y trastornos de la conducta alimentaria de los educandos de la entidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -1617,6 +1637,10 @@ V.- Colaborar con las autoridades escolares, para la superación de los educando
 
 VI.- Vigilar que los planteles escolares de educación pública, con todos sus anexos y demás servicios, sean usados en toda su capacidad instalada, así como para los fines específicos a que están destinados.
 
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2011)</small>
+
+VII.- Promover en sus hijas, hijos o pupilos hábitos alimenticios saludables y actividades físicas para la salud y el deporte.
+
 #### Sección 2. De las Asociaciones de Padres de Familia
 
 ###### ARTICULO 172.
@@ -1657,7 +1681,9 @@ I.- Un Consejo Estatal de Participación Social en la Educación, que funcionar�
 
 II.- En cada Municipio, un Consejo Municipal de Participación Social en la Educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos por su profesionalismo y directivos de escuelas establecidas en el Municipio, representantes de la organización sindical de los maestros, representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación, que realizará las actividades a que se refiere el Artículo 70 de la Ley General de Educación; y
 
-III.- En cada escuela pública de Educación Básica operará un Consejo Escolar de Participación Social en la Educación, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de escuela, exalumnos, así como con aquellos miembros de la comunidad interesados en el desarrollo de la propia escuela, que realizará las actividades señaladas en el Artículo 69 de la Ley General de Educación.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2011)</small>
+
+III - En cada escuela pública de Educación Básica operará un Consejo Escolar de Participación Social en la Educación, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de escuela, exalumnos, así como con aquellos miembros de la comunidad interesados en el desarrollo de la propia escuela, que realizará las actividades señaladas en el Artículo 69 de la Ley General de Educación, además vigilará y denunciará ante la autoridad correspondiente, el incumplimiento a lo dispuesto por el artículo 9 fracción XVIII Y XIX, Artículo 21 fracción XXVI incisos d), e) y f) del presente ordenamiento.
 
 Los Consejos de Participación Social, en sus niveles de Escolar, Municipal y Estatal, tienen como propósito, establecer y fortalecer los vínculos entre escuela y comunidad, para lograrlo, podrán implementar proyectos escolares, fundamentados en la experiencia diaria, el criterio y la vocación de servicio de sus integrantes.
 
@@ -1707,7 +1733,11 @@ X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente
 
 XI.- Oponerse a las actividades de evaluación, inspección y vigilancia; así como no proporcionar información veraz y oportuna a las autoridades educativas competentes; y
 
-XII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2011)</small>
+
+XII.- Incumplir las disposiciones normativas de carácter general y las aplicables a centros escolares respecto de la elaboración y comercialización de alimentos y bebidas.
+
+XIII.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamente (sic) en ella.
 
 Las disposiciones de este artículo no son aplicables a los Trabajadores de la Educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ello.
 
@@ -1830,3 +1860,9 @@ QUINTO. El Gobernador del Estado, celebrará con el gobierno federal convenios d
 SEXTO. La Secretaría, el Sistema para el Desarrollo Integral de la Familia del Estado de Durango y la Secretaría de Salud, de manera concurrente, deberán elaborar, aprobar y publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los lineamientos sobre el contenido nutricional de los alimentos que se expendan en los centros escolares del nivel básico del Sistema Estatal de Ecuación y en los planteles incorporados al mismo, a través de los centros de distribución respectivos, dentro de un plazo no mayor de sesenta días posteriores a la fecha de entrada en vigor del presente decreto.
 
 SÉPTIMO. El Titilar del Poder Ejecutivo del Estado, deberá formular, expedir y publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el Reglamento para la organización y funcionamiento de los centros de distribución de alimentos ubicados en los centros escolares del nivel básico del Sistema Estatal de Educación y en los planteles incorporados al mismo, dentro de los treinta días siguientes a la entrada en vigor de los lineamientos a los que hace referencia el artículo transitorio anterior.
+
+P.O. 27 DE MARZO DE 2011
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del gobierno del estado.
