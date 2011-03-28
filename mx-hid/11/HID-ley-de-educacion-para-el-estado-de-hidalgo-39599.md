@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-39599"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-10"
-last_updated: "2010-12-13"
+last_updated: "2011-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE FECHA 28 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -1488,3 +1490,23 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 28 DE MARZO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Educación para el Estado de Hidalgo, Publicada en el Periódico Oficial del Estado el 10 de mayo de 2004. Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+TERCERO.- En tanto se expidan los Reglamentos que se deriven de esta Ley, quedan vigentes, en lo que no se opongan, los ordenamientos y disposiciones legales expedidos por el Poder Ejecutivo del Estado.
+
+CUARTO.- El Ejecutivo del Estado por conducto de la autoridad educativa local, tomará las medidas necesarias a efecto de que los educadores que prestan servicios en la Entidad sin el perfil correspondiente, regularicen su situación académica de conformidad con la presente Ley y demás disposiciones legales aplicables.
+
+QUINTO. - Las Autoridades competentes respetarán los derechos de los trabajadores de la educación y reconocerán la titularidad de las relaciones laborales colectivas con la Sección 15 del Sindicato Nacional de Trabajadores de la Educación o, en su caso, la organización sindical que los represente, en los términos de su registro vigente, de acuerdo con las disposiciones legales correspondientes.
+
+SEXTO.- Las relaciones laborales entre los organismos públicos descentralizados y desconcentrados que forman parte del Sistema Educativo Estatal con sus respectivos trabajadores, no sufrirán cambio alguno en sus derechos adquiridos y continuarán rigiéndose por la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
+
+SÉPTlMO.- La educación preescolar será obligatoria en los términos y plazos marcados en la Constitución Política de los Estados Unidos Mexicanos y demás normatividad aplicable.
+
+OCTAVO.- En cuanto a lo que dispone la fracción X del Artículo 14 de la presente ley, los recursos para implementar y operar el sistema al que hace referencia serán los dispuestos en el Presupuesto de Egresos del Estado para el año correspondiente; dicho sistema se operará a partir de que exista la disposición de infraestructura, recurso humano y financiero que le de funcionalidad, como lo dispone la reforma a la Ley General de Educación, Publicada en el Diario Oficial de la Federación, el día 28 de enero de 2011 en su Artículo Tercero transitorio.
+
+NOVENO.- El ejecutivo del Estado dentro de un plazo de 180 días naturales, contados a partir de la entrada en vigor de la presente ley, expedirá los reglamentos que sean necesarios.
