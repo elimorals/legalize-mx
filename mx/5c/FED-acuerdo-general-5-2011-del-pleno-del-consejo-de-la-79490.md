@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2011-del-pleno-del-consejo-de-la-79490"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-02-14"
-last_updated: "2011-02-14"
+last_updated: "2011-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-02-03"
 
 ACUERDO GENERAL 5/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO EN EL ESTADO DE BAJA CALIFORNIA SUR, CON RESIDENCIA EN LA PAZ; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION, REGISTRO Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA SEDE REFERIDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MARZO DE 2011.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 14 de febrero de 2011.
 
@@ -67,9 +67,11 @@ Se faculta a la Comisión de Creación de Nuevos Organos para concluir de manera
 
 QUINTO. Al finalizar el periodo de exclusión de turno indicado en el punto anterior, los titulares de los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, deberán informar a la Comisión de Creación de Nuevos Organos, a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y a la Dirección General de Estadística y Planeación Judicial sobre la productividad obtenida, dentro de los tres días hábiles siguientes.
 
-SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, para recibir asuntos en días y horas inhábiles, para quedar como sigue: la semana del siete al trece de marzo de dos mil once, estará de guardia el Juzgado Primero de Distrito en el Estado de Baja California Sur, con residencia en La Paz; la semana del catorce al veinte de marzo de dos mil once, estará de guardia el Juzgado Segundo de Distrito en el Estado de Baja California Sur, con residencia en La Paz; la semana del veintiuno al veintisiete de marzo de dos mil once, estará de guardia el Juzgado Tercero de Distrito en el Estado de Baja California Sur, con residencia en La Paz, y así sucesivamente en ese orden.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MARZO DE 2011)</small>
 
-El juzgado de Distrito que se encuentre de guardia deberá informar sobre las demandas recibidas a la oficina de correspondencia común que les presta servicio, a fin de que, cuando ésta reanude sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
+SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, para recibir asuntos en días y horas inhábiles, para quedar como sigue: del veintiocho de marzo al diez de abril de dos mil once, estará de guardia el Juzgado Primero de Distrito en el Estado de Baja California Sur, con residencia en La Paz; del once de abril al veinticuatro de abril de dos mil once, estará de guardia el Juzgado Segundo de Distrito en el Estado de Baja California Sur, con residencia en La Paz; del veinticinco de abril al ocho de mayo de dos mil once, estará de guardia el Juzgado Tercero de Distrito en el Estado de Baja California Sur, con residencia en La Paz, y así sucesivamente en ese orden.
+
+El juzgado de Distrito que se encuentre de guardia deberá informar sobre las demandas recibidas a la oficina de correspondencia común que les presta servicio, a fin de que, cuando ésta reanude sus labores, realice los registros y la compensación correspondiente para que se equilibren las cargas de trabajo.
 
 SEPTIMO. Se modifica el Acuerdo General número 57/2006 del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto SEGUNDO, apartado XXVI.- VIGESIMO SEXTO CIRCUITO, número 3, para quedar como sigue:
 
@@ -98,3 +100,13 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 5/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Jurisdicción Territorial, Domicilio y Fecha de Inicio de Funciones del Juzgado Tercero de Distrito en el Estado de Baja California Sur, con Residencia en La Paz; así como a las Reglas de Turno, Sistema de Recepción, Registro y Distribución de Asuntos entre los Juzgados de Distrito de la Sede Referida, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dos de febrero de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a tres de febrero de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE MARZO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 5/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Jurisdicción Territorial, Domicilio y Fecha de Inicio de Funciones del Juzgado Tercero de Distrito en el Estado de Baja California Sur, con Residencia en La Paz; así como a las Reglas de Turno, Sistema de Recepción, Registro y Distribución de Asuntos entre los Juzgados de Distrito de la Sede Referida.
