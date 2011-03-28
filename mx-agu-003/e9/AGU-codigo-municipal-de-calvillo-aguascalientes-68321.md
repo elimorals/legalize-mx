@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2010-08-09"
+last_updated: "2011-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -483,7 +483,7 @@ L (SIC).- Aprobar el programa para prevenir, atender, sancionar y erradicar la v
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-LI.- Construir el mecanismo municipal de adelanto a efavor de las mujeres, a fecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
+LI.- Construir el mecanismo municipal de adelanto a favor de las mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo; y
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -881,7 +881,7 @@ XVI.- Ejecutar el plan de desarrollo municipal y sus programas, directamente o a
 
 XVII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
 
-XVIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para si o para sus parientes;
+XVIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar, o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación a su favor, en precio notoriamente inferior al que el bien de que se trate, tenga en el mercado ordinario o cualquier donación, empleo, cargo o comisión para sí o para sus parientes;
 
 XIX.- Representar al Municipio y al Ayuntamiento en todo acto público, ceremonias, actos cívicos y protocolarios, así como cuando se lleven a cabo, sin constituir sesión, eventos de trabajo del gobierno municipal;
 
@@ -945,7 +945,7 @@ x) Integrar la Comisión representativa del Ayuntamiento en caso de fallecimient
 
 y) Comisionar ediles para que visiten a integrantes del cabildo, en estado de enfermedad o de postración;
 
-z) Llamar a los ediles suplentes cuando proceda, para que asuman el cargo de propietarios, en el evento de que no se hayan presentado a asumirlo o no lo hayan asumido por si mismos y, en su caso, atestiguar la protesta respectiva; y (sic)
+z) Llamar a los ediles suplentes cuando proceda, para que asuman el cargo de propietarios, en el evento de que no se hayan presentado a asumirlo o no lo hayan asumido por sí mismos y, en su caso, atestiguar la protesta respectiva; y (sic)
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -2515,7 +2515,7 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Pre
 
 I.- Secretaría del H. Ayuntamiento;
 
-II.- Secretaría de Finanzas y Administración;
+II.- Secretaría del Finanzas y Administración;
 
 III.- Secretaría de Contraloría Interna;
 
@@ -2523,17 +2523,23 @@ IV.- Secretaría de Seguridad Pública y Vialidad;
 
 V.- Secretaría de Planeación y Desarrollo Municipal;
 
-VI.- Secretaría de Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
-VII.- Secretaría de Desarrollo Social;
+VI.- Secretaría de Obras Públicas;
 
-VIII.- Secretaría de Desarrollo Económico;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2011)</small>
 
-IX.- Secretaría de Desarrollo Rural Sustentable;
+VII.- Secretaría de Servicios Públicos;
 
-X.- Secretaría de Desarrollo Integral de la Familia; y
+VIII.- Secretaría de Desarrollo Social;
 
-XI.- Secretaría Particular.
+IX.- Secretaría de Desarrollo Económico;
+
+X.- Secretaría de Desarrollo Rural Sustentable;
+
+XI.- Secretaría de Desarrollo Integral de la Familia; y
+
+XII.- Secretaría Particular.
 
 ###### Artículo 296.
 
@@ -2563,117 +2569,129 @@ Los manuales de organización y procedimientos serán elaborados por cada depend
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes unidades administrativas:
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 I.- Secretaría del H. Ayuntamiento:
 
-a) Coordinación de Comunicación Social;
+a).- Coordinación de Comunicación Social;
 
-b) Departamento de giras y Eventos;
+b).- Departamento de Giras, Eventos y Vinculo con la Educación;
 
-c) Departamento Jurídico y de Gobernación;
+c).- Departamento Jurídico y de Gobernación;
 
-d) Departamento de Reglamento y Regulación Sanitaria; y
+d).- Departamento de Reglamentos y Regulación Sanitaria; y
 
-e) Departamento de Enlace con Relaciones Exteriores.
+e).- Departamento de Enlace con Relaciones Exteriores.
 
-II.- Secretaría de Finanzas y Administración:
+II.- Secretaría del Finanzas y Administración:
 
-a) Departamento de Programación y Control Presupuestal;
+a).- Departamento de Programación y Control Presupuestal;
 
-b) Departamento de Contabilidad;
+b).- Departamento de Contabilidad;
 
-c) Departamento de Ingresos;
+c).- Departamento de Ingresos;
 
-d) Departamento de Recursos Humanos;
+d).- Departamento de Recursos Humanos;
 
-e) Departamento de Recursos Materiales; y
+e).- Departamento de Recursos Materiales; y
 
-f) Departamento de Parque de maquinaria.
+f).- Departamento de Parque de Maquinaria.
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 III.- Secretaría de Contraloría Interna:
 
-a) Departamento de Auditoria Financiera;
+a).- Departamento de Auditoría Financiera;
 
-b) Departamento de Supervisión de Obras; y
+b).- Departamento de Supervisión de Obras;
 
-c) Departamento de Sistemas integrales de control, gestión y quejas ciudadanas.
+c).- Departamento de Sistemas Integrales de Control, Gestión y Quejas ciudadanas; y
+
+d).- Departamento Jurídico de la Contraloría Interna.
 
 IV.- Secretaría de Seguridad Pública y Vialidad:
 
-a) Dirección de Seguridad Pública;
+a).- Dirección de Seguridad Pública;
 
-b) Departamento Operativo; y
+b).- Departamento Operativo; y
 
-c) Unidad de Protección Civil.
+c).- Unidad de Protección Civil.
 
 V.- Secretaría de Planeación y Desarrollo Municipal:
 
-a) Departamento de Desarrollo y Control Urbano;
+a).- Departamento de Desarrollo y Control Urbano;
 
-b) Departamento de Gestión Ambiental; y
+b).- Departamento de Gestión Ambiental; y
 
-c) Departamento de Planeación e Información.
+c).- Departamento de Planeación e Información.
 
-VI.- Secretaría de Obras y Servicios Públicos:
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
-a) Subsecretaría de Obras Públicas;
+VI.- Secretaría de Obras Públicas:
 
-b) Departamento de Proyectos;
+a).- Departamento de Proyectos;
 
-c) Departamento de Costos y Presupuestos;
+b).- Departamento de Costos y Presupuestos;
 
-d) Departamento de Supervisión de Obra;
+c).- Departamento de Supervisión de Obra; y
 
-e) Departamento de calidad de obra;
+d).- Departamento de Calidad de Obra.
 
-f) Departamento de aseo público;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2011)</small>
 
-g) Departamento de parques, jardines y cementerios; y
+VII.- Secretaría de Servicios Públicos:
 
-h) Departamento de Administración y mantenimiento de edificios.
+a).- Departamento de Aseo Público;
 
-VII.- Secretaría de Desarrollo Social:
+b).- Departamento de Parques, Jardines y Cementerios;
 
-a) Coordinación Médica;
+c).- Departamento de Administración y Mantenimiento de Edificios; y
 
-b) Departamento de Desarrollo Social;
+d).- Rastro Municipal.
 
-c) Departamento de Participación Ciudadana; y
+VIII.- Secretaría de Desarrollo Social:
 
-d) Departamento de Desarrollo Humano.
+a).- Coordinación Médica;
 
-VIII.- Secretaría de Desarrollo Económico:
+b).- Departamento de Desarrollo Social;
 
-a) Departamento de Fomento a la Industria y el Comercio;
+c).- Departamento de Participación Ciudadana; y
 
-b) Departamento de Turismo; y
+d).- Departamento de Desarrollo Humano.
 
-c) Departamento de Promoción Municipal.
+IX.- Secretaría de Desarrollo Económico:
 
-IX.- Secretaría de Desarrollo Rural Sustentable:
+a).- Departamento de Fomento a la Industria y el Comercio;
 
-a) Departamento de Proyectos Productivos; y
+b).- Departamento de Turismo; y
 
-b) Departamento de Desarrollo Agropecuario.
+c).- Departamento de Promoción Municipal.
 
-X.- Secretaría de Desarrollo Integral de la Familia:
+X.- Secretaría de Desarrollo Rural Sustentable:
 
-a) Comité de Desarrollo Integral de la Familia, con facultades de instrucción y de decisión, que será integrado, ocupando la presidencia del mismo, por quien tenga el carácter de cónyuge del Presidente Municipal o en su defecto, quien éste designe y por dos personas más, que no serán funcionarios públicos, designados por quien ocupe la presidencia del propio Comité;
+a).- Departamento de Proyectos Productivos; y
 
-b) Departamento de Desarrollo Comunitario y Nutrición;
+b).- Departamento de Desarrollo Agropecuario.
 
-c) Departamento de Atención Social; y
+XI.- Secretaría de Desarrollo Integral de la Familia:
 
-d) Departamento de Fortalecimiento Social.
+a).- Comité de Desarrollo Integral de la Familia, con facultades de instrucción y decisión, que será integrado, ocupando la presidencia del mismo, por quien tenga el carácter de cónyuge del Presidente Municipal o en su defecto, quien este designe y por dos personas más, que no serán funcionarios públicos, designados por quien ocupe la presidencia del propio Comité;
 
-XI.- Secretaría Particular:
+b).- Departamento de Desarrollo Comunitario y Nutrición;
 
-a) Secretaría Privada
+c).- Departamento de Atención Social; y
 
-b) Coordinación de Asesores;
+d).- Departamento de Fortalecimiento Social.
 
-c) Coordinación de Comunidades y Colonias; y
+XII.- Secretaría Particular:
 
-d) Departamento de Atención Ciudadana.
+a).- Secretaría Privada;
+
+b).- Coordinación de Asesores;
+
+c).- Coordinación de Comunidades y Colonias; y
+
+d).- Departamento de Atención Ciudadana.
 
 ###### Artículo 303.
 
@@ -4229,7 +4247,7 @@ VII.- Diseñar, elaborar y proponer a las dependencias de la administración pú
 
 a) Programas tendientes a prevenir conductas delictivas en el ámbito familiar para promover medidas de prevención, rehabilitación e implementación de programas y acciones en apoyo a la plena integración familiar;
 
-b) Programas de apoyo a favor de las victimas de los delitos que se susciten en el entorno familiar, considerando las medidas necesarias para evitar su victimización;
+b) Programas de apoyo a favor de las víctimas de los delitos que se susciten en el entorno familiar, considerando las medidas necesarias para evitar su victimización;
 
 c) Programas para la formación integral de los adolescentes y jóvenes, proyectando estrategias que permitan mayores oportunidades de estudio y de empleo, capacitación y asesoría para el trabajo, cuidado de la salud y la lucha en contra del vandalismo, las adicciones y el alcoholismo;
 
@@ -5337,7 +5355,7 @@ XXIX.- Rotulación: Proceso último de la ordenación. Implica el poner a las ca
 
 XXX.- Sección: Primera división en que se ordena un fondo, la cual se lleva a cabo conforme al principio de procedencia y orden original. Las secciones se organizan conforme a la estructura orgánica o por la función de la institución u organismo.
 
-XXXI.- Selección: Proceso archivistico destinado a determinar cuál será la documentación que ha de ser eliminada o conservada en un archivo histórico conforme a sus valores primarios y secundarios.
+XXXI.- Selección: Proceso archivístico destinado a determinar cuál será la documentación que ha de ser eliminada o conservada en un archivo histórico conforme a sus valores primarios y secundarios.
 
 XXXII.- Series: División de una sección, que corresponde al conjunto de documentos producidos en el desarrollo de una misma función o actividad administrativa regulados por la misma norma de procedimiento, se refiere a un tema específico.
 
@@ -7797,7 +7815,7 @@ Instalada la toma y hechas las conexiones respectivas, la OOSAC comunicará al p
 
 Cualquier modificación que se pretenda hacer al inmueble o establecimiento, que afecte las instalaciones correspondientes a los servicios públicos, requerirá de la presentación previa de la solicitud respectiva por los usuarios al prestador de los servicios.
 
-En ningún caso el propietario o poseedor del predio o establecimiento podrá operar por si mismo el cambio del sistema, instalación, supresión o conexión de los servicios públicos.
+En ningún caso el propietario o poseedor del predio o establecimiento podrá operar por sí mismo el cambio del sistema, instalación, supresión o conexión de los servicios públicos.
 
 ###### Artículo 852.
 
@@ -8257,7 +8275,7 @@ IX.- La falta de veracidad en toda clase de informes; y
 
 X.- No denunciar los delitos respecto de los cuales tenga conocimiento en razón de su encargo.
 
-La denuncia de cualquiera de las causas de remoción puede ser presentada ante el presidente municipal por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que el presidente municipal estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoria externa de OOSAC, sin perjuicio de las practicadas por el contralor municipal y/o el Comisario.
+La denuncia de cualquiera de las causas de remoción puede ser presentada ante el presidente municipal por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que el presidente municipal estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoría externa de OOSAC, sin perjuicio de las practicadas por el contralor municipal y/o el Comisario.
 
 Para la remoción de cualquiera de los integrantes del consejo directivo que incurra en cualquiera de las causas antes señaladas, bastara con la verificación hecha por el presidente municipal, y dictamen sobre la denuncia, debiendo convocar al H. Ayuntamiento para que dictamine y en su caso nombre a quien deba sustituirlo.
 
@@ -8575,7 +8593,7 @@ d).- Que el gasto público comprenda las erogaciones por concepto de gasto corri
 
 e).- La distribución equitativa y proporcional del presupuesto de egresos, entre las delegaciones municipales que requieran de mayor dotación de servicios públicos;
 
-IV.- Otorgar todas las facilidades para la práctica de auditorias cuando el H. ayuntamiento lo determine;
+IV.- Otorgar todas las facilidades para la práctica de auditorías cuando el H. ayuntamiento lo determine;
 
 V.- Las demás atribuciones que se deriven del presente Código y las que le encomiende el consejo directivo Coordinarse con los Directores Técnico y Administrativo para brindar el apoyo necesario en ambas áreas;
 
@@ -9387,7 +9405,7 @@ IX. Acudir con diligencia y aplicar las medidas de seguridad y de orden necesari
 
 X. Portar pluma o lápiz, libreta de notas y formatos de actas de infracción, remisiones y formatos de partes informativos, indispensables para el desempeño de su servicio;
 
-XI. Acudir en auxilio de las autoridades Federales, del Estado de Aguascalientes, y de los Municipios y Estados vecinos, cuando sean requeridos para ello, mediante solicitud debidamente fundada y motivada, autorizada por el Presidente, excepción hecha de los casos de extrema urgencia en que deberá participar hasta el limite de sus atribuciones;
+XI. Acudir en auxilio de las autoridades Federales, del Estado de Aguascalientes, y de los Municipios y Estados vecinos, cuando sean requeridos para ello, mediante solicitud debidamente fundada y motivada, autorizada por el Presidente, excepción hecha de los casos de extrema urgencia en que deberá participar hasta el límite de sus atribuciones;
 
 XII. Detener a los presuntos responsables de la comisión de delitos o faltas cívicas que sorprendan en flagrancia, a los que remitirán a la autoridad competente en forma inmediata;
 
@@ -9461,7 +9479,7 @@ XLV. Conocer la normatividad relacionada con sus funciones, para que no ignoren 
 
 XLVI. Prestar en todo momento ayuda moral y material hasta donde sus posibilidades alcancen a sus subalternos y compañeros que la necesiten;
 
-XLVII. Usar su vestuario y equipo sin mezclar las prendas de los diferentes uniformes entre si, ni con las de civil, conservándolas siempre limpias, en buen estado y sin roturas; tampoco usarán alhajas, con excepción de la argolla matrimonial o el anillo de graduación y el reloj de pulso común y corriente;
+XLVII. Usar su vestuario y equipo sin mezclar las prendas de los diferentes uniformes entre sí, ni con las de civil, conservándolas siempre limpias, en buen estado y sin roturas; tampoco usarán alhajas, con excepción de la argolla matrimonial o el anillo de graduación y el reloj de pulso común y corriente;
 
 XLVIII. Presentarse a sus servicios perfectamente aseados, tanto en su persona como en su vestuario, armamento y equipo. El personal masculino usará el cabello corto, la barba rasurada, sin patillas y el bigote recortado sin que sobresalga o descienda de las comisuras de los labios; el personal femenino usará el cabello recogido, maquillaje discreto y en caso de vestir falda de uniforme, usarán un corte discreto;
 
@@ -9657,7 +9675,7 @@ XLII.- Por no atender con prontitud y diligencia los requerimientos, acuerdos y 
 
 XLIII.- Por no informar a sus superiores de la perdida, extravío, robo o desperfectos que sufran los bienes o valores que tengan bajo su guarda o custodia, para deslindar responsabilidades;
 
-XLlV.- Por no proporcionar al superior jerárquico de quien dependan, el domicilio, número telefónico y demás datos del lugar en donde se encontrarán para casos de emergencia, cuando vayan a disfrutar de vacaciones, permisos o que por algún motivo se encuentren fuera del lugar de su adscripción; y
+XLIV.- Por no proporcionar al superior jerárquico de quien dependan, el domicilio, número telefónico y demás datos del lugar en donde se encontrarán para casos de emergencia, cuando vayan a disfrutar de vacaciones, permisos o que por algún motivo se encuentren fuera del lugar de su adscripción; y
 
 XLV.- Por las demás infracciones a la Ley o el presente Código que no ameriten la imposición de otro correctivo disciplinario.
 
@@ -9673,7 +9691,7 @@ a) Por no portar las insignias correspondientes a su grado jerárquico;
 
 b) Por asistir desaseado a sus servicios;
 
-c) Por usar su vestuario y equipo mezclando las prendas de los diferentes uniformes entre si, o con las de civil o con roturas;
+c) Por usar su vestuario y equipo mezclando las prendas de los diferentes uniformes entre sí, o con las de civil o con roturas;
 
 d) Por traer alhajas, con excepción de la argolla matrimonial o el anillo de graduación y el reloj de pulso común y corriente;
 
@@ -10241,7 +10259,7 @@ La audiencia iniciará dándole el uso de la voz al Fiscal, a fin de que pueda e
 
 ###### Artículo 1042.
 
-En caso de haberse presentado el elemento operativo, se le dará el uso de la voz, y dará contestación por escrito o en forma verbal a la denuncia presentada en su contra por si o por conducto de su Defensor.
+En caso de haberse presentado el elemento operativo, se le dará el uso de la voz, y dará contestación por escrito o en forma verbal a la denuncia presentada en su contra por sí o por conducto de su Defensor.
 
 ###### Artículo 1043.
 
@@ -10577,7 +10595,7 @@ VI. No deberán asirse o sujetarse a otro vehículo cualquiera en movimiento;
 
 VII. No podrán transitar por vialidades o carriles en donde lo prohíba el señalamiento o el presente Código;
 
-VIII. No podrán llevar carga que les dificulte su visibilidad, equilibrio, adecuada operación, o constituya un peligro para si o para otros usuarios de la vía pública;
+VIII. No podrán llevar carga que les dificulte su visibilidad, equilibrio, adecuada operación, o constituya un peligro para sí o para otros usuarios de la vía pública;
 
 IX. No podrán transitar entre los carriles de tránsito o entre hileras adyacentes de vehículos estacionados o en movimiento; y
 
@@ -12470,6 +12488,50 @@ b) Se requerirá la autorización del proyecto por parte de la Secretaria de Pla
 c) Cuando el proyecto considere ventilación o refrigeración artificial, deberá presentar planos y constancia de la empresa proveedora que indique la capacidad de ventilación y extracción del equipo conforme al proyecto arquitectónico y a lo estipulado en este Título de construcción;
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2011)</small>
+
+Artículo 1271 BIS.- Para solicitar el trámite de licencia de construcción para instalación de estaciones terrenas y estructuras de telecomunicación para soportar antenas de telecomunicaciones, se deberá presentar los documentos siguientes:
+
+I.- Solicitud de licencia de construcción;
+
+II.- Acta constitutiva, comprobante de identidad (Representante legal o apoderado), permiso de operación;
+
+III.- Comprobante de propiedad, pago de predial actualizado, croquis de ubicación y localización;
+
+IV.- Informe de no afectación humana;
+
+V.- Constancias de consulta ciudadana;
+
+VI.- Manifiesto de impacto ambiental, mitigación del impacto urbano, factibilidad CFE, Vo.Bo. de la CFE, Vo.Bo. de Aeronáutica Civil, Vo.Bo. Protección Civil;
+
+VII.- Seguro de daños a terceros;
+
+VIII.- Informe del Estudio Técnico de emisión electromagnética (calculo de densidad de potencia);
+
+IX.- Memoria descriptiva general del proyecto (eléctrica, de obra civil, toma de tierra, plan de mantenimiento);
+
+X.- Memoria de cálculo estructural, estudio de mecánica de suelos, proyecto arquitectónico;
+
+XI.- Pianos de proyecto:
+
+a).- Arquitectónico.
+
+b).- De conjunto.
+
+c).- De mecánica de suelos.
+
+d).- Estructural.
+
+e).- Eléctrico.
+
+f).- Cortes y detalles; y
+
+g).- De protección civil.
+
+XII.- Anexo fotográfico; y
+
+XIII.- En caso de instalarse en zona habitacional tendrá que contar con firmas de colindantes.
 
 ###### Artículo 1272.
 
@@ -15999,7 +16061,7 @@ El método simplificado de análisis, será aplicable al análisis de edificacio
 
 I.- En cada planta, al menos el setenta y cinco por ciento de las cargas verticales serán soportadas por muros de cargas ligados entre sí mediante losas monolíticas u otros sistemas de pisos suficientemente resistentes y rígidos al corte;
 
-Dichos muros tendrán una distribución sensiblemente simétrica en ambas direcciones y deberán satisfacer las Normas Técnicas Complementarias correspondientes. Será admisible cierta asimetría cuando existan en todos los niveles al menos dos muros perimetrales paralelos entre si, cada uno con longitud no menor que la mitad de la dimensión mayor en planta del edificio. Los muros podrán ser de mampostería, concreto o madera;
+Dichos muros tendrán una distribución sensiblemente simétrica en ambas direcciones y deberán satisfacer las Normas Técnicas Complementarias correspondientes. Será admisible cierta asimetría cuando existan en todos los niveles al menos dos muros perimetrales paralelos entre sí, cada uno con longitud no menor que la mitad de la dimensión mayor en planta del edificio. Los muros podrán ser de mampostería, concreto o madera;
 
 II.- La relación entre la longitud y el ancho de la planta del edificio no excederá de dos punto cero, a menos que se tengan estructuras independientes separadas por medio de juntas constructivas que satisfagan dicho requisito;
 
@@ -16771,7 +16833,7 @@ Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que
 
 ###### Artículo 1590.
 
-los tapiales fijos serán de madera, lámina, concreto, mamposteria o de otro material que ofrezca las mismas garantías de seguridad. Tendrán una altura mínima de dos metros cuarenta centímetros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas y los tapiales de paso cubiertos tendrán cuando menos, una altura de dos metros cuarenta centímetros y una anchura libre de un metro veinte centímetros.
+los tapiales fijos serán de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad. Tendrán una altura mínima de dos metros cuarenta centímetros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas y los tapiales de paso cubiertos tendrán cuando menos, una altura de dos metros cuarenta centímetros y una anchura libre de un metro veinte centímetros.
 
 Ningún elemento de los tapiales quedará a menos de cincuenta centímetros de la vertical sobre la guarnición de la banqueta.
 
@@ -17121,7 +17183,7 @@ I.- El montaje deberá efectuarse con el equipo apropiado. Durante la carga, tra
 
 II.- Anclajes.- Antes de iniciar la colocación de la estructura, el Perito Responsable de obra, revisará la posición de las anclas colocadas a las posiciones mostradas en los planos, se tomarán las providencias necesarias para corregirlas, en su caso;
 
-III.- Conexiones Provisionales.- Durante el montaje, los diversos elementos que constituyen la estructura deberán sostenerse individualmente o ligarse entre si por medio de tomillos, pernos o soldaduras provisionales, que proporcionen la resistencia requerida ante la acción de cargas muertas y esfuerzos de montaje, viento o sismo. Asimismo, deberán tenerse encuentra (sic) los efectos de cargas producidas por materiales y equipo de montaje. Cuando sea necesario, se colocará en la estructura el contraventeo provisional requerido para resistir los efectos mencionados;
+III.- Conexiones Provisionales.- Durante el montaje, los diversos elementos que constituyen la estructura deberán sostenerse individualmente o ligarse entre sí por medio de tomillos, pernos o soldaduras provisionales, que proporcionen la resistencia requerida ante la acción de cargas muertas y esfuerzos de montaje, viento o sismo. Asimismo, deberán tenerse encuentra (sic) los efectos de cargas producidas por materiales y equipo de montaje. Cuando sea necesario, se colocará en la estructura el contraventeo provisional requerido para resistir los efectos mencionados;
 
 IV.- Alineado y plomeado.- No se colocarán remaches, pernos o tornillos, ni soldadura definitiva hasta que la parte de la estructura que quede rigidizada por ellos esté alineada y plomeada; y
 
@@ -17145,7 +17207,7 @@ Las conexiones soldadas en las estructuras deberán cumplir con las Normas Técn
 
 I.- Preparación del material.- Las superficies que vayan a soldarse deberán estar libres de costras, escoria, óxido, grasa, pintura o cualquier otro material extraño;
 
-II.- Armado.- Las piezas que se vayan a unir con soldadura de filete deberán estar en contacto; cuando esto no sea posible, se permitirá una separación máxima de cinco milímetros, si la separación es de uno punto cinco milímetros o mayor, se aumentará el tamaño del filete en una cantidad igual a ella. Las partes que se vayan a soldar a tope deberán alinearse cuidadosamente, no se permitirá una desviación mayor de tres milímetros. Al armar y unir partes de una estructura o de miembros compuestos, se seguirán procedimientos y secuencias en la colocación de las soldaduras que eliminen distorsiones innecesarias y minimicen los esfuerzos de contracción. Al fabricar vigas con cubre placas y miembros compuestos, deberán hacerse las uniones de taller de cada una de las partes que la componen, antes de unir esas partes entre si; y
+II.- Armado.- Las piezas que se vayan a unir con soldadura de filete deberán estar en contacto; cuando esto no sea posible, se permitirá una separación máxima de cinco milímetros, si la separación es de uno punto cinco milímetros o mayor, se aumentará el tamaño del filete en una cantidad igual a ella. Las partes que se vayan a soldar a tope deberán alinearse cuidadosamente, no se permitirá una desviación mayor de tres milímetros. Al armar y unir partes de una estructura o de miembros compuestos, se seguirán procedimientos y secuencias en la colocación de las soldaduras que eliminen distorsiones innecesarias y minimicen los esfuerzos de contracción. Al fabricar vigas con cubre placas y miembros compuestos, deberán hacerse las uniones de taller de cada una de las partes que la componen, antes de unir esas partes entre sí; y
 
 III.- Inspección: El Perito Responsable de Obra tomará las medidas necesarias para efectuar la debida revisión de los bordes de las piezas en los que se colocará la soldadura, y para cerciorarse de que los biseles, holguras y otras características sean las correctas y estén de acuerdo con los planos.
 
@@ -17879,7 +17941,7 @@ Para los efectos del presente libro se considera:
 
 I.- COMERCIANTE: Las personas y/o sociedades que ejercen actos de comercio y hacen de él su ocupación ordinaria;
 
-II.- COMERCIO: Es el intercambio organizado de mercancías o servicios, con fines lucrativos ejercido por personas que se dedican a él por profesión;
+II.- COMERCIO: Es el intercambio organizado de mercancías o servicios, con fines lucrativos ejercido por personas que se dedican a el por profesión;
 
 III.- INDUSTRIA: Conjunto de operaciones materiales ejecutadas para la obtención, transformación o transporte de uno o varios productos naturales;
 
@@ -17891,51 +17953,55 @@ VI.- COMERCIANTE TEMPORAL: Quien obtenga el permiso correspondiente de la presid
 
 VII.- COMERCIANTE FIJO: Persona que realice en la vía pública en un local, puesto o estructura anclado o adherido al suelo o construcción permanente. Se considera dentro de esta modalidad la comercialización de cualquier producto realizado mediante maquinas expendedoras;
 
-VIII.- COMERCIANTE SEMI FIJO: Persona que realice toda actividad comercial en la vía pública, valiéndose de la instalación y retiro al término de su jornada de cualquier tipo de estructura, vehículo, remolque, instrumento, charola, artefacto u otro bien mueble, sin estar anclado o adherido al suelo o construcción alguna;
+VIII.- COMERCIANTE SEMI FIJO: Persona que realice toda actividad comercial en la vía pública, valiéndose de la instalación y retiro al termino de su jomada de cualquier tipo de estructura, vehículo, remolque, instrumento, charola, artefacto u otro bien mueble, sin estar anclado o adherido al suelo o construcción alguna;
 
 IX.- COMERCIANTE AMBULANTE: Persona física dedicada a la actividad comercial o de servicios en la vía pública, transportando la mercancía sobre su propio cuerpo o valiéndose de cualquier tipo de instrumento o vehículo, sin tener un lugar específico en la vía pública;
 
-X.- COMERCIANTE DOMICILIARIO: Persona que ofrece sus productos de casa en casa o circulando por las calles, ya sea a pie o en algún tipo de vehículo;
+X.- COMERCIANTE DOMICILIARIO: Persona que ofrece sus· productos de casa en casa o circulando por las calles, ya sea a pie o en algún tipo de vehículo;
 
-XI.- TIANGUISTA: Persona física, sea el titular o sus suplentes, que ha adquirido el permiso correspondiente, del Ayuntamiento, para realizar el comercio dentro del tianguis, sea regular o eventual, en los días y horas determinadas y en una ubicación y superficie autorizada;
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2011)</small>
 
-XII.- TIANGUIS: Lugar o espacio determinado en la vía pública, o terreno especifico en el que se ejerce una actividad de comercio, con el fin de atender las necesidades de las colonias aledañas, una o dos veces por semana y con número mínimo de veinticinco puestos;
+XI.- TIENDA DE CONVENIENCIA: Se entiende por tienda de conveniencia a los establecimientos con menos de 500 metros cuadrados, con un horario de veinticuatro horas y un periodo de apertura de 365 días al año, con un amplio surtido de productos, centrado en bebidas, alimentación y productos de estanco;
 
-XIII.- CREDENCIAL O GAFETE: Es el documento que da derecho exclusivo para ejercer el comercio en la vía pública, con una duración máxima de un año calendario. El titular de este documento podrá designar hasta dos suplentes, los que serán acreditados por la autoridad;
+XII.- TIANGUISTA: Persona física, sea el titular o sus suplentes, que ha adquirido el permiso correspondiente, del Ayuntamiento, para realizar el comercio dentro del tianguis, sea regular o eventual, en los días y horas determinadas y en una ubicación y superficie autorizada;
 
-XIV.- ESTACIONAMIENTO PÚBLICO: Predio o inmueble de propiedad privada o pública, destinada a guardar temporalmente vehículos, mediante el pago de cuota diaria, por hora o fracción;
+XIII.- TIANGUIS: Lugar o espacio determinado en la vía pública, o terreno especifico en el que se ejerce una actividad de comercio, con el fin de atender las necesidades de las colonias aledañas, una o dos veces por semana y con número mínimo de veinticinco puestos;
 
-XV.- CÁMARA: Órgano colectivo de deliberación formado por dos o más asociaciones de profesionistas o actividades comerciales, que se ocupan de tratar y acordar asuntos comunes. Constituidas y registradas ante las instancias competentes;
+XIV.- CREDENCIAL O GAFETE: Es el documento que da derecho exclusivo para ejercer el comercio en la vía pública, con una duración máxima de un año calendario. El titular de este documento podrá designar hasta dos suplentes, los que serán acreditados por la autoridad;
 
-XVI.- ASOCIACIÓN: Conjunto de establecimientos integrados para realizar un fin común a sus intereses comerciales ó industriales, debiendo ser un mínimo de 20 personas formalmente constituidas ante Notario Público;
+XV.- ESTACIONAMIENTO PÚBLICO: Predio o inmueble de propiedad privada o pública, destinada a guardar temporalmente vehículos, mediante el pago de cuota diaria, por hora o fracción;
 
-XVII.- UNIÓN: Agrupación de dos o más personas que se constituyen para tender intereses, problemas y fines comerciales o industriales comunes;
+XVI.- CÁMARA: Órgano colectivo de deliberación formado por dos o más asociaciones de profesionistas o actividades comerciales, que se ocupan de tratar y acordar asuntos comunes. Constituidas y registradas ante las instancias competentes;
 
-XVIII.- AGRUPACIÓN: Conjunto de personas que se unen con fines industriales o comerciales de manera eventual;
+XVII.- ASOCIACIÓN: Conjunto de establecimientos integrados para realizar un fin común a sus intereses comerciales o industriales, debiendo ser un mínimo de 20 personas formalmente constituidas ante Notario Público;
 
-XIX.- LEY DE SALUD: La Ley de Salud del Estado de Aguascalientes;
+XVIII.- UNIÓN: Agrupación de dos o más personas que se constituyen para tender intereses, problemas y fines comerciales o industriales comunes;
 
-XX.- REGLAMENTOS: El Departamento de Reglamentos y Regulación Sanitaria del Municipio de Calvillo;
+XIX.- AGRUPACIÓN: Conjunto de personas que se unen con fines industriales o comerciales de manera eventual;
 
-XXI.- REGULACIÓN SANITARIA: El Departamento (sic) Reglamentos y Regulación Sanitaria del Municipio de Calvillo;
+XX.- LEY DE SALUD: La Ley de Salud del Estado de Aguascalientes;
 
-XXII.- PROSTITUCIÓN: Realización de un acto erótico sexual con o sin llegar a la cópula, con persona de cualquier sexo y obtener con ello un lucro o beneficio de cualquier tipo;
+XXI.- REGLAMENTOS: El Departamento de Reglamentos y Regulación Sanitaria del Municipio de Calvillo;
 
-XXIII.- PROSTITUTA: Toda persona que ejerza la Prostitución;
+XXII.- REGULACIÓN SANITARIA: El Departamento (sic) Reglamentos y Regulación Sanitaria del Municipio de Calvillo;
 
-XXIV.- PROSTÍBULO: Establecimiento donde se autoriza el ejercicio de la Prostitución;
+XXIII.- PROSTITUCIÓN: Realización de un acto erótico sexual con o sin llegar a la copula, con persona de cualquier sexo y obtener con ello un lucro o beneficio de cualquier tipo;
 
-XXV.- SERVICIOS DE SALUD: A todas aquellas acciones que se realizan en beneficio de los sujetos y de la sociedad en general, dirigidas a proteger, a promover y a restaurar la salud individual y de la colectividad;
+XXIV.- PROSTITUTA: Toda persona que ejerza la Prostitución;
 
-XXVI.- ESTABLO: Al lugar destinado a la explotación de ganado;
+XXV.- PROSTÍBULO: Establecimiento donde se autoriza el ejercicio de la Prostitución;
 
-XXVII.- ZAHÚRDA: Al sitio en donde se realiza la cría o engorda de cerdos, también se denomina chiquero o porqueriza;
+XXVI.- SERVICIOS DE SALUD: A todas aquellas acciones que se realizan en beneficio de los sujetos y de la sociedad en general, dirigidas a proteger, a promover y a restaurar la salud individual y de la colectividad;
 
-XXVIII.- GRANJA: Al establecimiento destinado a la cría y explotación de aves, conejos y otras especies menores;
+XXVII.- ESTABLO: Al lugar destinado a la explotación de ganado;
 
-XXIX.- REGULACIÓN Y CONTROL SANITARIO: A todos los actos que el Municipio lleve a cabo a través de Reglamentos y Regulación Sanitaria, lleve a cabo para ordenar o controlar el funcionamiento sanitario de los diferentes giros, comerciales, industriales y de servicios; y
+XXVIII.- ZAHÚRDA: Al sitio en donde se realiza la cría o engorda de cerdos, también se denomina chiquero o porqueriza;
 
-XXX.- GIRO REGLAMENTADO: Actividad comercial, industrial o de prestación de servicios sujeta a una reglamentación especial prevista por el presente Código, que no puede ser ejercida en el municipio sin contar previamente con la licencia, autorización, permiso o concesión correspondiente y haber cumplido con las obligaciones fiscales, técnicas y jurídicas que se establecen en las leyes y reglamentos aplicables a la materia, y en el presente Código.
+XXIX.- GRANJA: Al establecimiento destinado a la cría y explotación de aves, conejos y otras especies menores;
+
+XXX.- REGULACIÓN Y CONTROL SANITARIO: A todos los actos que el Municipio lleve a cabo a través de Reglamentos y Regulación Sanitaria, lleve a cabo para ordenar o controlar el funcionamiento sanitaria de los diferentes giros, comerciales, industriales y de servicios; y
+
+XXXI.- GIRO REGLAMENTADO: Actividad comercial, industrial o de prestación de servicios sujeta a una reglamentación especial prevista por el presente Código, que no puede ser ejercida en el municipio sin contar previamente con la licencia, autorización, permiso o concesión correspondiente y haber cumplido con las obligaciones fiscales, técnicas y jurídicas que se establecen en las leyes y reglamentos aplicables a la materia, y en el presente Código.
 
 ###### Artículo 1758.
 
@@ -18081,7 +18147,7 @@ Si el dictamen técnico determina que se cubren la totalidad de los requisitos s
 
 ###### Artículo 1775.
 
-Se podrá expedir licencias múltiples, que consiste en que una sola licencia ampare varios giros, cuando la persona física o moral desarrolle en un solo predio varias actividades, siempre y cuando éstas sean compatibles entre si, y previo pago de los derechos por cada giro y/o tipo de licencia.
+Se podrá expedir licencias múltiples, que consiste en que una sola licencia ampare varios giros, cuando la persona física o moral desarrolle en un solo predio varias actividades, siempre y cuando éstas sean compatibles entre sí, y previo pago de los derechos por cada giro y/o tipo de licencia.
 
 ###### Artículo 1776.
 
@@ -18141,9 +18207,11 @@ En general los establecimientos comerciales, industriales y de servicios podrán
 
 Se establecen los siguientes horarios:
 
-I.- De las 0:00 a las 24:00 horas: Hoteles, casas de huéspedes, sanatorios, clínicas, hospitales, agencias de inhumaciones, farmacias en turno, gasolineras, gaseras, bancos de sangre, servicios de emergencia para auxilio de automovilistas, servicios de ambulancias particulares, vulcanizadoras, refaccionarias de guardia y bases de taxi;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MARZO DE 2011)</small>
 
-II.- De las 6:00 a las 21:00 horas: Expendios de productos alimenticios naturales sin preparar, de legumbres, tortillerías, molinos de nixtamal, carnicerías, pollerías, rosticerías, pescaderías y venta de mariscos sin preparar, expendio de semillas y forrajes, agencias de reparación de bicicletas y accesorios, talleres de reparación de vehículos, eléctricos y establecimiento de venta de partes automotrices usadas, servicio y limpieza de vehículos, rectificadoras, carpinterías y balconerías;
+I.- De las 0:00 a las 24:00 horas: Hoteles, casas de huéspedes, sanatorios, clínicas, hospitales, agencias de inhumaciones, farmacias en turno, gasolineras, gaseras, bancos de sangre, servicios de emergencia para auxilio de automovilistas, servicios de ambulancias particulares, vulcanizadoras, refaccionarias de guardia, bases de taxi y tiendas de conveniencia;
+
+II.- De las 6:00 a las 21:00 horas: Expendios de productos alimenticios naturales sin preparar, de legumbres, tortillerías, molinos de nixtamal, carnicerías, pollerías, rosticerías, pescaderías y venta de mariscos sin preparar, expendio de semillas y forrajes, agencias de reparación de bicicletas y accesorios, talleres de reparación de vehículos, eléctricos y establecimiento de venta de partes automotrices usadas, servicio y limpieza de vehículos, rectificadoras, carpinterías y balconearías;
 
 III.- De las 6:00 a las 22:00 horas: Expendios de jugos de frutas, panaderías, pastelerías, misceláneas, abarrotes sin venta de bebidas embriagantes, cremerías, neverías, refresquerías, peleterías, balnearios, gimnasios, imprentas, jarcerías, expendios de periódicos y publicaciones y fotocopiadoras;
 
@@ -18157,7 +18225,7 @@ VII.- De las 9:00 a las 22:00 horas: Farmacias que no estén en turno, estableci
 
 VIII.- De las 9:00 a las 23:00 horas: Establecimientos cuyo giro es la renta de mesas de billar y líneas de boliche sin venta de bebidas alcohólicas;
 
-IX.- De las 9:00 a las 21:00 horas: Giros dedicados a la renta de máquinas de juegos de video o electrónicas;
+IX.- De las 9:00 a las 21:00 horas: Giros dedicados a la renta de maquinas de juegos de video o electrónicas;
 
 X.- De las 8:00 a las 22:00 horas: Salones de fiestas infantiles y jardines para fiestas, eventos o banquetes; y
 
@@ -18725,9 +18793,11 @@ I.- Establecimientos específicos para la venta y consumo de bebidas alcohólica
 
 II.- Establecimientos no específicos en los que en forma accesoria se puedan vender y consumir bebidas alcohólicas: restaurantes, restaurantes bar, centros turísticos, clubes sociales, fondas, pizzerías, loncherías, taquerías, cenadurías, balnearios, salones de baile, clubes deportivos o de servicio, salones de eventos y banquetes, cafés, rosticerías, establecimientos dedicados a la venta de mariscos, biliares, peñas y similares;
 
-III.- Lugares en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: kermeses, ferias, centro de espectáculos culturales, artísticos y deportivos, y bailes públicos;
+III.- lugares en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: kermeses, ferias, centro de espectáculos culturales, artísticos y deportivos, y bailes públicos;
 
-IV.- Establecimientos en donde puedan venderse bebidas alcohólicas, sólo en botella cerrada: depósitos o expendios, tiendas de abarrotes, supermercados, de licores y misceláneas; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MARZO DE 2011)</small>
+
+IV.- Establecimientos en donde puedan venderse bebidas alcohólicas, solo en botella cerrada: depósitos o expendios, tiendas de abarrotes, tiendas de conveniencia, supermercados y misceláneas; y
 
 V.- Comercios en donde puede venderse alcohol, pero no a granel ni para consumir: boticas, droguerías, farmacias y similares.
 
@@ -18823,9 +18893,11 @@ En las cantinas, bares, merenderos y cervecerías tendrán libre acceso los trov
 
 En las ferias y fiestas patronales o populares que se celebren con autorización de (sic) Ayuntamiento, se podrán extender los horarios y los giros a criterio del propio ayuntamiento, pero únicamente en el perímetro de la celebración previamente determinado.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE MARZO DE 2011)</small>
+
 ###### Artículo 1879.
 
-Las tiendas de abarrotes, misceláneas, ultramarinos, mini súper y supermercados, depósitos de cerveza, expendios de vinos y licores, y otros establecimientos similares, podrán vender bebidas alcohólicas, previa licencia que expida la Presidencia Municipal, únicamente en botella cerrada, estando prohibido el consumo dentro del establecimiento y la venta de bebidas preparada, con un horario de venta de bebidas alcohólicas de las 09:00 a las 23:00 horas durante la el periodo del horario de verano y de las 9:00 a las 22:00 horas durante el periodo del horario de invierno, pudiendo continuar con la venta de otros productos hasta el horario autorizado para ellos, con excepción de los depósitos de cerveza y depósitos de vinos y licores o similares, los cuales forzosamente deben apegarse a dichos horarios, independientemente de que expendan otros productos.
+Las tiendas de abarrotes, misceláneas, ultramarinos, mini súper, tiendas de conveniencia, supermercados, depósitos de cerveza, expendios de vinos y licores, y otros establecimientos similares, podrán vender bebidas alcohólicas, previa licencia que expida la Presidencia Municipal, únicamente en botella cerrada, estando prohibido el consumo dentro del establecimiento y la venta de bebidas preparada, con un horario de venta de bebidas alcohólicas de las 09:00 a las 23:00 horas durante el periodo del horario de verano y de las 9:00 a las 22:00 horas durante el periodo del horario de invierno, pudiendo continuar con la venta de otros productos hasta el horario autorizado para ellos, con excepción de los depósitos de cerveza y depósitos de vinos y licores o similares, los cuales forzosamente deben apegarse a dichos horarios, independientemente de que expendan otros productos.
 
 ###### Artículo 1880.
 
@@ -20445,7 +20517,7 @@ Los comités deberán ser renovados cada año y podrán ser ratificados sus inte
 
 ###### Artículo 2127.
 
-Los comités serán independientes entre si y estarán bajo la coordinación de la Presidencia Municipal representada por el Patronato.
+Los comités serán independientes entre sí y estarán bajo la coordinación de la Presidencia Municipal representada por el Patronato.
 
 ###### Artículo 2128.
 
@@ -21213,7 +21285,7 @@ V.- Cualquier otra prevista en el presente Código.
 
 ###### Artículo 2275.
 
-Los particulares con capacidad jurídica podrán promover por si o por interpósita persona.
+Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
 
 ###### Artículo 2276.
 
@@ -23676,3 +23748,9 @@ P.O. 9 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El Presente acuerdo entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
