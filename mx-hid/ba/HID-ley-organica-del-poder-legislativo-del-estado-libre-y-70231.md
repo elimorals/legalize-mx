@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2010-05-24"
+last_updated: "2011-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -93,9 +93,9 @@ I.- Recibir de los Diputados, electos las constancias que los acrediten como tal
 
 II.- Recibir la notificación de las resoluciones firmes que dicte el Tribunal Electoral del Estado, respecto de los medios de impugnación que haya conocido, de conformidad con lo dispuesto por la Ley de la materia;
 
-III.- Entregar a la Directiva de la Junta Preparatoria, los registros y en general, la documentación relativa al funcionamiento y ejercicio de la Legislatura saliente;
+III.- Entregar a la Directiva de la Junta Preparatoria, los registros y en general, la documentación relativa al funcionamiento y ejercicio de la Legislatura saliente; y
 
-IV.- Citar dentro de los ocho días naturales, previos al inicio de la Legislatura entrante a los Diputados Electos, quienes con la asistencia de la mayoria absoluta de los mismos se constituirán en Junta Preparatoria y bajo la conducción de la Comisión Instaladora procederán, mediante votación por cédulas, a la elección de los miembros que conformarán su Directiva, misma que se integrará por un Presidente, un Vicepresidente y dos Secretarios, los que una vez electos, de inmediato rendirán protesta. El Presidente de la Comisión Instaladora preguntará: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?". Los interrogados contestarán: "Si protesto". El Presidente de la Comisión Instaladora, dirá: "Si así no lo hicieren, que la sociedad se los demande". Acto continuo, el Presidente de la Comisión Instaladora, solicitará a los Diputados electos que pasen a ocupar los lugares correspondientes en las curules;
+IV.- Citar dentro de los ocho días naturales, previos al inicio de la Legislatura entrante a los Diputados Electos, quienes con la asistencia de la mayoría absoluta de los mismos se constituirán en Junta Preparatoria y bajo la conducción de la Comisión Instaladora procederán, mediante votación por cédulas, a la elección de los miembros que conformarán su Directiva, misma que se integrará por un Presidente, un Vicepresidente y dos Secretarios, los que una vez electos, de inmediato rendirán protesta. El Presidente de la Comisión Instaladora preguntará: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?". Los interrogados contestarán: "Si protesto". El Presidente de la Comisión Instaladora, dirá: "Si así no lo hicieren, que la sociedad se los demande". Acto continuo, el Presidente de la Comisión Instaladora, solicitará a los Diputados electos que pasen a ocupar los lugares correspondientes en las curules;
 
 V.- Citar de nueva cuenta, en caso de no existir Quórum, para que se presenten en la fecha y hora que se les señale, apercibiéndolos que de no asistir con causa justificada, se llamará en definitiva a sus respectivos suplentes; y
 
@@ -141,7 +141,7 @@ VI.- Una vez instalada la Legislatura y elegida la primera Directiva, deberá co
 
 Lo anterior, también deberá hacerse del conocimiento mediante oficio, a los Poderes Ejecutivo, Legislativo y Judicial de la Nación, así como a las Legislaturas de los Estados de la Federación y a la Asamblea Legislativa del Distrito Federal.
 
-Asimismo, se remitirá al Poder Ejecutivo del Estado, a efecto de que la elección de la Directiva se dé a conocer en el Peri6dico Oficial del Estado.
+Asimismo, se remitirá al Poder Ejecutivo del Estado, a efecto de que la elección de la Directiva se dé a conocer en el Periódico Oficial del Estado.
 
 ### CAPÍTULO II. DEL RECINTO OFICIAL DEL CONGRESO DEL ESTADO
 
@@ -475,7 +475,7 @@ La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno
 
 La Directiva del Congreso, estará integrada tanto en los periodos Ordinarios de Sesiones, como en las Sesiones Extraordinarias, por un Presidente, un Vicepresidente, dos Secretarios Propietarios y dos Secretarios Suplentes, electos por mayoría de votos de los Diputados presentes en la Sesión correspondiente.
 
-> <small>(F. DE E., P.O.15 DE FEBRERO DE 2010)</small>
+> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
 
 La Directiva de la Diputación Permanente se compondrá de un Presidente, un Vicepresidente, un secretario propietario y dos suplentes comunes.
 
@@ -551,7 +551,7 @@ Son atribuciones del Presidente de la Directiva del Congreso:
 
 I.- Presidir las Sesiones y coordinar las acciones de la Directiva del Congreso;
 
-II.- Presidir, citar, abrir, suspender, levantar y clausurar las S8siones del Congreso;
+II.- Presidir, citar, abrir, suspender, levantar y clausurar las Sesiones del Congreso;
 
 III.- Dar curso reglamentario, a los planteamientos y dictar los trámites que deban recaer en los asuntos con que se dé cuenta al Congreso;
 
@@ -591,9 +591,17 @@ XX.- Ordenar el descuento a la dieta de los Diputados, por las inasistencias o r
 
 XXI.- Llamar al Diputado Suplente que ejercerá el cargo, en los casos establecidos por la Constitución Política del Estado de Hidalgo y la presente Ley;
 
-XXII.- Representar legalmente al Congreso en los asuntos en que éste sea parte, pudiendo delegar tal representación, por conducto de los servidores públicos a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la presente Ley; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
-XXIII.- Las demás que le otorguen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento y Acuerdos que emita el Congreso del Estado.
+XXII.- Representar legalmente al Congreso en los asuntos en que éste sea parte, pudiendo delegar tal representación, por conducto de los servidores públicos a quienes en cada caso corresponda el asunto, según la distribución de competencias establecidas en la presente Ley;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
+XXIII.- Someter a consideración del Pleno la dispensa de la lectura de los Dictámenes emitidos por las Comisiones Legislativas, cuando ya sean conocidos por los integrantes del Pleno; y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2011)</small>
+
+XXIV.- Las demás que le otorguen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento y Acuerdos que emita el Congreso del Estado.
 
 ###### ARTÍCULO 64.
 
@@ -873,13 +881,13 @@ b).- Será Secretario, el Diputado Coordinador del Grupo Legislativo que represe
 
 c).- Serán Vocales, los demás Diputados integrantes de la Junta.
 
-II.- Cuando ningún Grupo Legislativo tenga mayoría absoluta en el Congreso, el Grupo Legislativo que represente la mayoría simple, entendiéndose por ésta, el grupo de Diputados que tiene un mayor número de integrantes que el resto de los demás, elegirá el año de ejercicio constitucional en que presidirá la Junta de Gobierno; correspondiendo al Grupo Legislativo que represente la primera minoría (sic) escoger en segundo término, el año de ejercicio constitucional en que presidirá; quedando el tercer año no seleccionado, para que lo presida el Grupo que represente la segunda minoría.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
-El tercer año lo podrá ocupar la segunda minoría, siempre que se integre con un treinta por ciento del total de Diputados que conforman la Legislatura, de lo contrario, ocupará la Presidencia de la Junta de Gobierno, el Grupo Legislativo que obtuvo la mayoría simple.
+II.- Cuando un Grupo Legislativo no tenga mayoría absoluta en el Congreso, quien presida la Junta de Gobierno será electo por la mayoría de los votos de los Diputados.
 
-El Secretario será el Diputado que por acuerdo de la Junta de Grupos legislativos; se determine.
+Será Secretario el Diputado Coordinador del Grupo Legislativo que representa la primera minoría.
 
-En este supuesto, los integrantes de la Junta de Grupos Legislativos, durarán en su encargo un año, con excepción de los vocales, quienes podrán volver a ocupar dicho encargo; y
+Serán vocales los demás Diputados integrantes de la Junta.
 
 III.- Cuando dos o más Grupos legislativos tengan el mismo número de Diputados para elegir al Presidente de la Junta de Gobierno, en turno, se tomará como base, el porcentaje de votación electoral, que haya obtenido cada Partido Político en los comicios respectivos, siguiéndose con el criterio de la fracción anterior.
 
@@ -1103,21 +1111,21 @@ Igualmente podrán ser citados en los mismos términos del párrafo anterior, lo
 
 ###### ARTÍCULO 120.
 
-El día señalado para la apertura del primer Periodo Ordinario de Sesiones, después del pase de lista y leída, discutida y aprobada el Acta de la Sesión constitutiva de la Legislatura o de la Junta Previa, según sea el caso, el Presidente de la Directiva, puesto de pie hará la siguiente declaratoria: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy .... (día, mes y año) el primer Periodo Ordinario de Sesiones, correspondiente al (número de orden) año de ejercicio Constitucional". En seguida, el Gobernador del Estado, presentará al Congreso un informe por escrito sobre el estado que guarda la Administración Pública; el Presidente del Congreso contestará brevemente dicho informe; posteriormente se levantará la Sesión y se citará a los Diputados para la próxima. Lo anterior, sin perjuicio de lo dispuesto en la fracción XXV del Artículo 71 de la Constitución Política del Estado de Hidalgo.
+El día señalado para la apertura del primer Periodo Ordinario de Sesiones, después del pase de lista y leída, discutida y aprobada el Acta de la Sesión constitutiva de la Legislatura o de la Junta Previa, según sea el caso, el Presidente de la Directiva, puesto de pie hará la siguiente declaratoria: "La... (número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy... (día, mes y año) el primer Periodo Ordinario de Sesiones, correspondiente al (número de orden) año de ejercicio Constitucional". En seguida, el Gobernador del Estado, presentará al Congreso un informe por escrito sobre el estado que guarda la Administración Pública; el Presidente del Congreso contestará brevemente dicho informe; posteriormente se levantará la Sesión y se citará a los Diputados para la próxima. Lo anterior, sin perjuicio de lo dispuesto en la fracción XXV del Artículo 71 de la Constitución Política del Estado de Hidalgo.
 
-En los demás periodos, en la primera Sesión el Presidente de la Directiva declarará formalmente la iniciación de los trabajos de la siguiente manera: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy ....(día, mes y año) el (número de orden) periodo de Sesiones (Ordinario o Extraordinario), correspondiente al (número de orden) año de Ejercicio Constitucional".
+En los demás periodos, en la primera Sesión el Presidente de la Directiva declarará formalmente la iniciación de los trabajos de la siguiente manera: "La... (número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy... (día, mes y año) el (número de orden) periodo de Sesiones (Ordinario o Extraordinario), correspondiente al (número de orden) año de Ejercicio Constitucional".
 
 ###### ARTÍCULO 121.
 
-Terminados los trabajos ordinarios y extraordinarios, el día de la clausura, el Presidente de la Directiva hará la siguiente declaratoria: "La ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, cierra hoy …(día, mes y año) el (primero, segundo ...) período de Sesiones (ordinarias o extraordinarias), correspondiente al (primer, segundo o tercer) año de Ejercicio Constitucional".
+Terminados los trabajos ordinarios y extraordinarios, el día de la clausura, el Presidente de la Directiva hará la siguiente declaratoria: "La... (número de orden) Legislatura del Congreso del Estado de Hidalgo, cierra hoy… (día, mes y año) el (primero, segundo...) período de Sesiones (ordinarias o extraordinarias), correspondiente al (primer, segundo o tercer) año de Ejercicio Constitucional".
 
 ###### ARTÍCULO 122.
 
-Una vez designada la Directiva de la Diputación Permanente, el día de la Apertura de Sesiones, el Presidente de la misma, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ....(número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy (día, mes y año), sus Sesiones correspondientes al (primero o segundo) receso del (primer, segundo o tercer) año de Ejercicio Constitucional".
+Una vez designada la Directiva de la Diputación Permanente, el día de la Apertura de Sesiones, el Presidente de la misma, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ... (número de orden) Legislatura del Congreso del Estado de Hidalgo, abre hoy (día, mes y año), sus Sesiones correspondientes al (primero o segundo) receso del (primer, segundo o tercer) año de Ejercicio Constitucional".
 
 ###### ARTÍCULO 123.
 
-Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto ...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
+Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la... (número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
 
 ### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
 
@@ -1249,6 +1257,10 @@ Las Comisiones podrán citar a las personas que se presuma tengan conocimiento d
 
 Presentados los Dictámenes, se les dará lectura y concluida la misma, el Pleno o la Diputación Permanente, en su caso, acordarán si se procede a la discusión y votación o si se produce una segunda lectura. Las discusiones y los trámites se sujetarán a lo dispuesto por esta Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2011)</small>
+
+La lectura del párrafo que antecede puede ser dispensada a solicitud del Presidente de la Directiva, cuando sea del conocimiento de los integrantes del Pleno.
+
 ### CAPÍTULO VIII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
 
 ###### ARTÍCULO 143.
@@ -1321,7 +1333,7 @@ II.- Por falta de Quórum;
 
 III.- Por desórdenes en el Recinto Legislativo; y
 
-IV.- Por acuerdo de las dos terceras partes de los Diputados presentes en la Sesión, en cuyo caso, se deberá fijar de inmediato la fecha y hora en que la discusi6n deberá continuar.
+IV.- Por acuerdo de las dos terceras partes de los Diputados presentes en la Sesión, en cuyo caso, se deberá fijar de inmediato la fecha y hora en que la discusión deberá continuar.
 
 ###### ARTÍCULO 158.
 
@@ -1447,7 +1459,7 @@ En los casos de elección de los Servidores Públicos, cuyo nombramiento deba ap
 
 Las Leyes ó Decretos, se expedirán mediante la fórmula siguiente:
 
-"El Congreso del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente Decreto Número.."
+"El Congreso del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente Decreto Número..."
 
 (Texto de la Ley o Decreto)
 
@@ -1493,9 +1505,11 @@ III.- Coordinación de Asesoría;
 
 IV.- Dirección General de Servicios Administrativos;
 
-V.- Instituto de Estudios legislativos;
+V.- Instituto de Estudios Legislativos;
 
-VI.- Centro de Desarrollo y Estudios Municipales; y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
+VI.- Instituto para el Desarrollo y Fortalecimiento Municipal; y
 
 VII.- Dirección de Comunicación Social,
 
@@ -1623,7 +1637,9 @@ XIII.- Apoyar en la integración de los expedientes respectivos, cuando el Congr
 
 XIV.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-### CAPÍTULO VI. DEL CENTRO DE DESARROLLO Y ESTUDIOS MUNICIPALES
+### CAPÍTULO VI. INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 195.
 
@@ -1699,45 +1715,85 @@ VI.- Apoyar en el análisis de Iniciativas de Leyes y Decretos, así como en la 
 
 VII.- Editar y difundir la Gaceta Legislativa y demás publicaciones que contribuyan a la divulgación de estudios y asuntos legislativos;
 
-VIII.- Organizar y dirigir actividades académicas en materia de capacitación, actualización y operación de planes de estudio para cursos, seminarios, diplomados, especialidades y cualquier otra afin; y
+VIII.- Organizar y dirigir actividades académicas en materia de capacitación, actualización y operación de planes de estudio para cursos, seminarios, diplomados, especialidades y cualquier otra afín; y
 
 IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ###### ARTÍCULO 199.
 
-El Centro de Desarrollo y Estudios Municipales, es el Órgano Encargado de la Investigación y Análisis de los temas relacionados con el Fortalecimiento y el Desarrollo Municipal, con el propósito de atender las necesidades de información de los Diputados, Comisiones legislativas y de los demás órganos del Poder legislativo, así como el de brindar la asesoría a los Ayuntamientos, que así lo requieran, para coadyuvar al desempeño de sus atribuciones.
+El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, es el Órgano Técnico que tiene por objeto desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan la capacidad administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
+
+El Instituto orientará el cumplimiento de sus objetivos bajo los siguientes principios rectores:
+
+I.- Respeto pleno a la autonomía Municipal;
+
+II.- Desarrollo integral de los Municipios a través de la articulación de políticas públicas, programas y acciones de los Gobiernos Federal, Estatal y Municipal, a fin de favorecer el adecuado aprovechamiento de los recursos, así como su racionalización, optimización y rendición de cuentas;
+
+III.- Fortalecimiento y modernización de la Administración Pública Municipal;
+
+IV.- Atención a las políticas públicas con perspectiva de género y con respeto a los derechos humanos;
+
+V.- Coadyuvar en la promoción de la participación ciudadana, para procurar la intervención de la sociedad en la toma de decisiones, seguimiento y evaluación de las políticas públicas, programas y acciones Municipales, Estatales y Federales; y
+
+VI.- Fomento de la cultura de la transparencia y acceso a la información.
+
+El Instituto proporcionará información a los Diputados, Comisiones Legislativas y de los demás órganos del Poder Legislativo, respecto a los temas relacionados con el Fortalecimiento y el Desarrollo Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 200.
 
-El Centro de Desarrollo y Estudios Municipales, estará a cargo de un Director General, que será nombrado por el Presidente de la Junta de Gobierno, el cual contará con las áreas administrativas y personal, que se le asigne en el Presupuesto de Egresos correspondiente.
+El titular del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, el Instituto contará con las Unidades Administrativas que señale su Ley.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 201.
 
-El Centro de Desarrollo y Estudios Municipales, tendrá las siguientes funciones:
+El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, tendrá las siguientes atribuciones:
 
-I.- Realizar investigaciones, estudios, análisis y proyectos, relacionados con el desarrollo municipal, a fin de que los Diputados, Comisiones Legislativas y demás Órganos del Poder Legislativo, cuenten con la información oportuna y actualizada en el momento de tomar decisiones, en el marco de las atribuciones que en esta materia, le otorga la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Hidalgo y otras Leyes relacionadas;
+I.- Coadyuvar, a solicitud de los Ayuntamientos, en el diseño de políticas públicas, a fin de fortalecer su capacidad de propuesta y gestión ante los órdenes de Gobierno Federal y Estatal, en el marco de la coordinación y colaboración intergubernamental y con visión municipalita;
 
-II.- Brindar la asesoría necesaria a los Ayuntamientos y a sus integrantes, en materia jurídica a fin de que actualicen de manera permanente el marco legal, en el que se rigen sus decisiones reglamentarias;
+II.- Elaborar los lineamientos generales y estratégicos para el desarrollo Municipal y los contenidos de los programas y servicios que ofrecerá a los Gobiernos Municipales;
 
-III.- Intervenir en el estudio de los Proyectos o Iniciativas, cuando se trate de reformar o modificar las leyes que inciden en el marco legal municipal y que son atribución del Congreso del Estado;
+III.- Contribuir, a solicitud de los Ayuntamientos, en la elaboración de programas específicos para el fortalecimiento de su desarrollo, en la gestión de recursos y acciones concretas con distintas instituciones públicas, privadas y sociales;
 
-IV.- Promover la realización de acciones conjuntas para el desarrollo y la colaboración municipal, que prevean una mayor participación de la comunidad, de las Asociaciones de Municipios, así como de las distintas organizaciones sociales y privadas en la materia;
+IV.- Coordinarse y colaborar interinstitucionalmente con los organismos afines para el desarrollo Municipal nacional y de las Entidades Federativas, para realizar y ejecutar acciones y programas de fortalecimiento Municipal;
 
-V.- Integrar un Sistema Estatal de Informática sobre Desarrollo y Fortalecimiento Municipal, que contenga un banco de datos sobre los distintos aspectos relativos a esas materias;
+V.- Propiciar con las instancias gubernamentales y las organizaciones sociales y privadas la cultura de la participación ciudadana como elemento del desarrollo Municipal;
 
-VI.- Promover y difundir, por si o mediante Convenio con las Dependencias y Entidades de la Administración Pública Estatal y con los Gobiernos de los Municipios, con Instituciones Académicas o de Investigación del Estado o del país, con Asociaciones de Municipios, así como con los Sectores Social y Privado, los resultados de trabajos, estudios, investigaciones o eventos en aquellas materias que sean del interés del Centro;
+VI.- Diseñar y promover programas para la formación, capacitación y profesionalización de los integrantes de los Ayuntamientos y demás servidores públicos Municipales;
 
-VII.- Diseñar, proponer e impulsar, coordinadamente con las Instancias competentes, mecanismos de reinscripción de cuentas que permitan en el marco de las atribuciones de la Auditoria Superior, una mayor transparencia y participación de la ciudadanía en la Gestión Pública Municipal;
+VII.- Celebrar acuerdos, contratos y convenios con Dependencias Federales, Estatales y Municipales e instituciones académicas, Organismos Estatales, Nacionales e Internacionales, para la consecución de sus objetivos, bajo los lineamientos que establecen las Leyes del Estado;
 
-VIII.- Coadyuvar con las Instancias que correspondan, en el diseño de mecanismos efectivos de control y fiscalización sobre las Aportaciones Federales y Estatales a los Gobiernos Municipales, así como convenir, en coordinación con las Dependencias competentes, la elaboración de Programas de Capacitación y Desarrollo Administrativo para Servidores Públicos de los Ayuntamientos;
+VIII.- Establecer y operar mecanismos para la obtención, programación, presupuestarían (sic), aplicación y administración en general de los recursos financieros, humanos y materiales que permitan la operación y logro de los objetivos y metas del Instituto;
 
-IX.- Proponer un Sistema de Profesionalización y Capacitación para los Servidores Públicos y empleados en general de los Ayuntamientos;
+IX.- Desarrollar programas de investigación y difusión a través de estudios, análisis, encuestas, mesas redondas, conferencias, entre otras actividades;
 
-X.- Organizar y participar en Reuniones Nacionales y Estatales, sobre Federalismo y Municipio, a efecto de analizar temas prioritarios, problemas comunes e identificar experiencias exitosas; y
+X.- Consolidar un Sistema Estatal de Información Municipal que comprenda la investigación, documentación e intercambio de experiencias;
 
-XI.- Las demás que le confieran esta ley, su Reglamento y los ordenamientos legales aplicables.
+XI.- Difundir y estimular las experiencias de los Gobiernos Municipales que cumplan con sus objetivos y planes de desarrollo;
+
+XII.- Contribuir al desarrollo de una política de coordinación y colaboración institucional entre los tres órdenes de Gobierno y, en particular, entre los Municipios para el fortalecimiento del desarrollo Municipal;
+
+XIII.- Promover el intercambio de experiencias y la participación de los Ayuntamientos con las asociaciones de Municipios, en el ámbito Nacional e Internacional;
+
+XIV.- Investigar, promover, diseñar y aplicar, en su caso, en forma coordinada con las instituciones públicas o privadas Estatales, Nacionales o Internacionales los programas para la modernización de la administración, la gestión y los servicios públicos Municipales;
+
+XV.- Promover en los Ayuntamientos la recuperación y conservación de los archivos históricos Municipales y, en general, lo relativo al acervo documental Municipal;
+
+XVI.- Promover, incorporar y sistematizar propuestas para la participación en la planeación democrática del Estado de Hidalgo, de conformidad con la legislación aplicable;
+
+XVII.- Con respeto a la autonomía municipal, fomentar la participación de los representantes de los sectores público, privado y social en el diseño de políticas públicas municipalitas;
+
+XVIII.-Impartir cursos de capacitación, actualización, talleres y asesorías a los integrantes de Ayuntamientos y demás servidores públicos en las materias de Gobierno Municipal;
+
+XIX.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestramiento, gestión y similares en forma gratuita u onerosa a través del cobro de derechos de conformidad con la legislación aplicable; y
+
+XX.- Las demás las (sic) facultades que señalen otras disposiciones legales aplicables.
 
 ### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
@@ -1868,3 +1924,13 @@ P.O. 19 DE ABRIL DE 2010.
 P.O. 24 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE MARZO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Las atribuciones del Instituto darán inicio cuando se hayan efectuado las reasignaciones presupuestarias y reestructura logística y financiera, así lo permitan.
+
+CUARTO.- En tanto se expidan la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo y disposiciones administrativas que se deriven de la presente Ley y de otras disposiciones legales que resulten aplicables, seguirá en vigor las que han regido hasta ahora para el Centro de Desarrollo y Estudios Municipales, en lo que no la contravengan.
