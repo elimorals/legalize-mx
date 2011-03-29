@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2010-de-la-sala-superior-del-tribunal-77205"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-11-17"
-last_updated: "2010-11-17"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-11-04"
 
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION NUMERO 5/2010, DE VEINTISIETE DE OCTUBRE DE DOS MIL DIEZ, POR EL QUE SE APRUEBAN LAS PRACTICAS DE CERTIFICACION DE LA UNIDAD DE CERTIFICACION ELECTRONICA Y EL MANUAL DE OPERACION DE LAS NOTIFICACIONES POR CORREO ELECTRONICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2011.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 17 de noviembre de 2010.
 
@@ -1973,8 +1973,18 @@ Acuerdo General número 5/2010
 
 Anexo 2
 
-> <small>N. DE E. VEASE ANEXO 2 EN LA TERCERA SECCION DEL D.O.F. DE 17 DE NOVIEMBRE DE 2010, PAGINAS DE LA 65 A LA 112</small>
+> <small>N. DE E. VEASE ANEXO 2 EN LA TERCERA SECCION DEL D.O.F. DE 17 DE NOVIEMBRE DE 2010, PAGINAS DE LA 65 A LA 112.</small>
+
+> <small>N. DE E. VEASE REFORMAS AL ANEXO 2 DEL MANUAL EN LA SEGUNDA SECCION DEL D.O.F. DE 29 DE MARZO DE 2011, PAGINAS DE LA 48 A LA 89.</small>
 
 EL SUSCRITO, RAFAEL ELIZONDO GASPERIN, SUBSECRETARIO GENERAL DE ACUERDOS DE LAS SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, CERTIFICA: Que la presente copia, en ciento catorce folios, debidamente cotejados y sellados, son copia fiel y exacta del Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 5/2010, de veintisiete de octubre de dos mil diez, por lo que se aprueban las Prácticas de Certificación de la Unidad de Certificación Electrónica y el Manual de Operación de las Notificaciones por correo Electrónico, y de sus anexos.
 
 Lo que certifico en ejercicio de las facultades previstas en los artículos 202, de la Ley Orgánica del Poder Judicial de la Federación, así como 14, fracción IV, del Reglamento Interno de este Tribunal Electoral, para los efectos legales procedentes.- DOY FE.- México, Distrito Federal, a cuatro de noviembre de dos mil diez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE MARZO DE 2011.
+
+PRIMERO. Este acuerdo entrará en vigor en la fecha de su aprobación.
+
+SEGUNDO. Para su debido conocimiento y cumplimiento, publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis Relevantes en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de las Salas Superior y Regionales, y en las páginas que tiene este órgano judicial en Internet e Intranet.
