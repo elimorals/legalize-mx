@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-los-servicios-de-seguridad-privada-22513
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-13"
-last_updated: "2003-09-19"
+last_updated: "2011-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de noviembre de 2001.
 
@@ -768,3 +770,19 @@ Rúbrica.
 P.O. 19 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 29 DE MARZO DE 2011.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Reglamento Interior de los Servicios de Seguridad Privada en el Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado de Guerrero N° 91, el martes 13 de Noviembre de 2001.
+
+Tercero. Las personas físicas o morales que a la fecha de entrada en vigor del Reglamento, presten servicios o realicen actividades de seguridad privada en el Estado de Guerrero y tengan vigente su respectiva autorización, constancia del aviso de registro, continuarán en ejercicio de los mismos hasta el vencimiento del plazo respectivo.
+
+Al concluir la vigencia de su autorización o revalidación sólo podrán prestar servicios o realizar actividades con la autorización o constancia del aviso de registro que se otorgue de conformidad con la Ley 281 y este Reglamento.
+
+Cuarto. Los procedimientos administrativos, supervisiones o verificaciones iniciados bajo la vigencia, de los ordenamientos abrogados, continúan hasta su conclusión bajo las reglas que ellos les imponen.
+
+Quinto. La Secretaría, por conducto de la Dirección General, expedirá el Manual de Normas Técnicas y Trámites Administrativos en un término de noventa días contados a partir de la entrada en vigor de este Reglamento.
+
+Sexto. Los lineamientos, trámites y servicios al público, que establece el presente Reglamento, contarán con su formato correspondiente, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Guerrero e incorporados (sic) al Manual de Trámites y Servicios al Público del Estado de Guerrero, en un término de noventa días contados a partir de la entrada en vigor de este Reglamento.
