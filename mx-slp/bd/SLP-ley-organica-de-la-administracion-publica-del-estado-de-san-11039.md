@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2010-12-21"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -943,9 +943,25 @@ XXII. Ejercer el presupuesto autorizado, así como vigilar su ejercicio de conta
 
 XXIII. Celebrar contratos, convenios y todos aquellos actos jurídicos que se requieran para el debido cumplimiento de las funciones y objetivos del Programa Estatal de Turismo;
 
-XXIV. Someter a la consideración del titular del Ejecutivo, la creación de los organismos necesarios para coadyuvar con el desarrollo económico del Estado en materia de turismo, y cumplir con los objetivos y funciones que tiene encomendados, y
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
-XXV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXIV. Someter a la consideración del titular del Ejecutivo, la creación de los organismos necesarios para coadyuvar con el desarrollo económico del Estado en materia de turismo, y cumplir con los objetivos y funciones que tiene encomendados;
+
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XXV. Proyectar y promover el desarrollo de la infraestructura turística;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XXVI. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XXVII. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico local, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XXVIII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1187,7 +1203,9 @@ XVIII. Fomentar la participación ciudadana en la formulación de planes y progr
 
 XIX. Emitir conforme a los lineamientos federales las normas técnicas que regirán en el Estado, en cuanto a las características que deban reunir el personal de seguridad pública, así como de su desarrollo permanente, y de los instrumentos, equipos, instalaciones y recursos en general, que se apliquen para el desempeño de sus funciones;
 
-XX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación;
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación, y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez;
 
 XXI. Proponer al titular del Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de ética, legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos; además de fomentar la participación ciudadana, y combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
 
@@ -1207,13 +1225,17 @@ XXVII. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de su
 
 XXVIII. Fungir, a través de su titular como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, con las funciones que determine el Reglamento respectivo;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
-XXIX. Las demás que le sean encomendadas por el titular del Poder Ejecutivo; le confiera esta Ley, y otras disposiciones legales aplicables, y
+XXIX. Elaborar el protocolo de revisión, evaluación y control para el cumplimiento de los elementos de seguridad pública estatal, y municipal, en la garantía, respeto y protección de los derechos humanos;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
-XXX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación, y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez.
+XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2011)</small>
+
+XXXI. Las demás que le sean encomendadas por el titular del Poder Ejecutivo, le confiera esta Ley, y otras disposiciones legales aplicables.
 
 ###### ARTICULO 42.
 
@@ -1570,3 +1592,19 @@ P.O. 21 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
+
+P.O. 29 DE MARZO DE 2011.
+
+DECRETO NUMERO 536, POR EL QUE SE REFORMA EL ARTICULO 40 BIS EN SUS FRACCIONES XXIV Y XXV; Y ADICIONA AL MISMO ARTICULO 40 BIS LAS FRACCIONES XXVI, XXVII, Y XXVIII, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2011.
+
+DECRETO NUMERO 537, POR EL QUE SE REFORMA EL ARTICULO 41 QUATER EN SUS FRACCIONES XX, XXIX Y XXX; Y ADICIONA AL MISMO ARTICULO 41 QUATER LA FRACCION XXXI, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
