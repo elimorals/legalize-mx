@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-para-las-personas-con-discapacidad-52405"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-16"
-last_updated: "2009-07-04"
+last_updated: "2011-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 16 de marzo de 2006.
 
@@ -221,17 +221,25 @@ XXXVI. Trabajo protegido: aquél que realizan las personas con discapacidad, que
 
 XXXVI (SIC). Vía pública: son las avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso y sus banquetas, así como los caminos vecinales, carreteras; brechas, desviaciones, veredas, senderos, sus acotamientos, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2011)</small>
 
-XXXVII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear las condicione, favorables de funcionalidad, para satisfacer las necesidades de accesibilidad de sus ocupantes.
+XXXVII. Vivienda adaptable: aquélla que se proyecta y edifica con base en un diseño que no implica grandes obras de construcción, a fin de crear las condiciones favorables de funcionalidad, para satisfacer las necesidades de accesibilidad de sus ocupantes.
 
 La vivienda adaptable se generará desde el origen del proyecto arquitectónico y requiere ubicarse en la planta baja, contar con un baño y un espacio adaptable como recámara, así como tener al mismo nivel los accesos de entrada y al patio de servicio, criterios de diseño y construcción que permitirán evitar costos adicionales de obra.
 
-En los casos de vivienda usada, la adaptación de la vivienda podrá llevarse a cabo con la aplicación de los criterios de diseño, mismos que no implican considerables obras de modificación, y
+En los casos de vivienda usada, la adaptación de la vivienda podrá llevarse a cabo con la aplicación de los criterios de diseño, mismos que no implican considerables obras de modificación;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2011)</small>
 
-XXXVIII. Atención preferente: es la obligación de las instituciones estatales y municipales de gobierno, así como a los sectores social y privado, a implementar los programas acordes a las diferentes etapas, características y circunstancias de las personas con discapacidad.
+XXXVIII. Atención preferente: es la obligación de las instituciones estatales y municipales de gobierno, así como de los sectores social y privado, a implementar los programas acordes a las diferentes etapas, características y circunstancias de las personas con discapacidad;
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2011)</small>
+
+XXXIX. Trabajador con discapacidad: es aquélla persona que presenta una disminución de sus facultades físicas, mentales o sensoriales; no obstante, puede realizar o desarrollar una actividad laboral, y
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2011)</small>
+
+XL. Trabajo protegido: todos aquéllos ajustes necesarios realizados en el lugar de trabajo por la persona empleadora, con la finalidad de que la persona con discapacidad desarrolle factiblemente su actividad laboral.
 
 ###### ARTICULO 6°.
 
@@ -867,6 +875,10 @@ Los cargos de los integrantes de la Red son honoríficos y no recibirán retribu
 
 Todo patrón del sector público y privado deberá en todo momento, respetar la igualdad de oportunidades de las personas con discapacidad; las medidas encaminadas a lograr dicha igualdad entre trabajadores con discapacidad y los demás trabajadores, no deberán considerarse discriminatorias respecto a éstos últimos.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2011)</small>
+
+ARTICULO 49 BIS. Por ningún motivo se podrá pagar menos sueldo por la realización de un mismo trabajo, a una persona con discapacidad, que el destinado a un trabajador sin discapacidad.
+
 ###### ARTICULO 50.
 
 El Ejecutivo del Estado, a través de la Secretaría de Finanzas, otorgará incentivos fiscales a aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o de rediseño de sus áreas de trabajo.
@@ -1230,3 +1242,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las instituciones públicas y privadas que proporcionen servicios públicos y brinden atención al público, tendrán un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que adecuen su infraestructura, con la finalidad de brindar atención preferente a las personas beneficiarias por éste.
 
 TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
+
+P.O. 29 DE MARZO DE 2011.
+
+DECRETO 538, SE ADICIONA EL ARTICULO 49 BIS A LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2011
+
+DECRETO No. 539, SE REFORMA EL ARTICULO 5° EN SUS FRACCIONES XXXVII Y XXXVIII; Y ADICIONA AL MISMO ARTICULO 5° LAS FRACCIONES XXXIX Y XL, DE LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
