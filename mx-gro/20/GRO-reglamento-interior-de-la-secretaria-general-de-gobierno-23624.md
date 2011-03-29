@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-general-de-gobierno-23624"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-01"
-last_updated: "2005-05-10"
+last_updated: "2011-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 1o. de marzo de 2002.
 
@@ -1330,3 +1332,15 @@ Rúbrica.
 P.O. 10 DE MAYO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MARZO DE 2011.
+
+Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial del Gobierno del Estado número 18, de fecha 1º. de marzo de 2002.
+
+Tercero. En tanto se expida el Manual de Organización de la Secretaría General de Gobierno, el titular de la misma, queda facultado para resolver las cuestiones de operación que se origine por la aplicación del presente Reglamento.
+
+Cuarto. Se abrogan los Decretos que crean las Delegación Generales del Gobierno del Estado, publicados en los Periódicos Oficiales del Gobierno del Estado números 34 de fecha 23 de abril de 1999 y el número 53 de fecha 3 de julio de 2001, así como todas aquellas disposiciones que se opongan a este Reglamento.
+
+Quinto. En caso de suscitarse cambios de adscripción de algunos servidores públicos dentro de la Secretaría General de Gobierno, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de una nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la institución, quedan garantizados los derechos laborales de los trabajadores de la misma.
