@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2010-07-22"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -433,6 +433,10 @@ El Sistema Estatal deberá aprobar al inicio de cada periodo de la administraci�
 
 El Programa Estatal será el instrumento rector de la política de desarrollo social de la Entidad, y tendrá por objeto, concretar los objetivos establecidos en la materia en el Plan Estatal de Desarrollo.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2011)</small>
+
+ARTICULO 25 BIS. El presupuesto para el desarrollo social, programas sociales, y combate a la pobreza, no podrá ser inferior, en términos reales, al del año fiscal anterior.
+
 ###### ARTICULO 26.
 
 La Secretaría Ejecutiva, previa consulta con las dependencias y entidades competentes, deberá formular el proyecto de Programa Estatal, y presentarlo al Sistema Estatal durante el segundo semestre del primer año de ejercicio legal de la administración correspondiente, para su discusión, en su caso, modificación, y aprobación.
@@ -668,6 +672,12 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
