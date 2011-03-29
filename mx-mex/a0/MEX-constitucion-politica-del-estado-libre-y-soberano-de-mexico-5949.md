@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-02-24"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MARZO DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1505,7 +1505,9 @@ b) Cuando menos el treinta y tres por ciento de los miembros de la Legislatura;
 
 c) El equivalente al treinta y tres por ciento de los integrantes de un Ayuntamiento del Estado;
 
-d) El Comisionado de los Derechos Humanos del Estado de México, en materia de derechos humanos.
+> <small>(REFORMADO, G.G. 29 DE MARZO DE 2011)</small>
+
+d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
 Las resoluciones dictadas en los procesos a que se refiere este artículo, que declaren la invalidez de disposiciones generales del Poder Ejecutivo, del Poder Legislativo o de los Municipios, tendrán efectos generales cuando sean aprobados cuando menos por cuatro votos de los integrantes de la Sala Constitucional.
 
@@ -3444,3 +3446,15 @@ DECRETO NO. 261, POR LO QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 17 DE LA 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 29 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el período para el que fue electo.
+
+CUARTO.- Toda disposición u ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
