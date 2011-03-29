@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2010-10-12"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -2751,9 +2751,11 @@ Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado p
 
 La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución de la o el Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 478.
 
-Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles a la o el Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+Los vicios o defectos que por error u omisión existan en las actas y que sean atribuibles a la o el Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo, y su tramitación no deberá exceder de quince días hábiles. Cuando tales correcciones no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
 Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante la o el propio Oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y, en su caso, de los demás actos del Registro Civil relacionados, previa revisión y autorización de la Dirección del Registro Civil, para la anotación marginal respectiva en el acta de que se trate.
 
@@ -3278,6 +3280,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 12 DE OCTUBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
