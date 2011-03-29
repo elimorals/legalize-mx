@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-14-2010-del-pleno-de-la-suprema-76971"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-10-19"
-last_updated: "2010-10-19"
+last_updated: "2011-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76971&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-10-07"
 
 ACUERDO GENERAL NUMERO 14/2010, DE SIETE DE OCTUBRE DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 109, FRACCION III, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS MISMOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO GENERAL 3/2011 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, ORDENA A LOS JUZGADOS DE DISTRITO LA SUSPENSION DEL ENVIO DIRECTO A ESE ALTO TRIBUNAL DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 109, FRACCION III, DE LA LEY DEL IMPUESTO SOBRE LA RENTA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de octubre de 2010.
 
@@ -72,3 +74,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 14/2010, DE SIETE DE OCTUBRE DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DEL ARTICULO 109, FRACCION III, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION DE LOS MISMOS, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de los señores Ministros Sergio Salvador Aguirre Anguiano, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a siete de octubre de dos mil diez.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de nueve fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 14/2010, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a once de octubre de dos mil diez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE MARZO DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
