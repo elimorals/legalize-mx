@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-fomento-turistico-44734
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-22"
-last_updated: "2005-04-22"
+last_updated: "2011-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO TURISTICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO TURISTICO DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 29 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 22 de abril de 2005.
 
@@ -898,3 +900,17 @@ El Secretario de Fomento Turístico.
 C. ERNESTO RODRIGUEZ ESCALONA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE MARZO DE 2011.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. En caso de autorizarse por la Contraloría General del Estado, la Secretaría de Finanzas. y Administración y el Comité de Organización y Remuneraciones del Gobierno del Estado, la creación de nuevas unidades administrativas o cualquier otro movimiento a la estructura orgánica que implique además cambios de denominación, cambio de rango jerárquico o de adscripción de unidades administrativas, e incluso que se determine la extinción, fusión o redefinición de funciones en las mismas dentro del organograma de la Secretaría de Fomento Turístico, el titular de la misma, formulará el proyecto de decreto de reformas y adiciones al presente Reglamento Interior para ser sometido a consideración del titular del Poder Ejecutivo.
+
+Tercero. No obstante los cambios de adscripción de diversos servidores públicos dentro de la Secretaría de Fomento Turístico, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la Secretaría, quedan garantizados los derechos laborales de los trabajadores de la misma.
+
+Cuarto. En tanto se expiden los manuales de organización, de procedimientos y servicios al público, el Secretario de Fomento Turístico, resolverá las cuestiones de procedimiento una (sic) operación que se originen por la aplicación de este Reglamento.
+
+Quinto. Se abroga el Reglamento Interior de la Secretaría de Fomento Turístico, publicado en el Periódico Oficial del Gobierno del Estado número 33 de fecha 22 de abril de 2005.
