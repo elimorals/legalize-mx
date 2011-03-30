@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-del-articulo-88-bis-de-la-constitucion-40969"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-09"
-last_updated: "2010-01-25"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DEL ARTICULO 88 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 9 de septiembre de 2004.
 
@@ -135,7 +135,9 @@ La demanda deberá contener los siguientes requisitos:
 
 I. La Sala ante la que se promueve;
 
-II. Nombre del estado, poder, municipio o Comisionado de los Derechos Humanos actor, domicilio parar oír y recibir notificaciones y, en su caso, el cargo del servidor público que los representa;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+II. Nombre del estado, poder, municipio o la o el Presidente de la Comisión de Derechos Humanos del Estado de México, actor, domicilio parar oír y recibir notificaciones y, en su caso, el cargo del servidor público que los representa;
 
 III. El acto o disposición general cuya invalidez se demande, así como en su caso el medio oficial en que se hubiere publicado;
 
@@ -399,7 +401,9 @@ II. Los diputados integrantes de la Legislatura Estatal, cuando estén de acuerd
 
 III. Los Ayuntamientos del Estado, cuando tengan la aprobación de cuando menos el equivalente al treinta y tres por ciento de los integrantes del cabildo;
 
-IV. El Comisionado de los Derechos Humanos del Estado de México, en materia de derechos humanos.
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+IV. La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
 
 ###### Artículo 51.
 
@@ -512,3 +516,15 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+
+G.G. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
