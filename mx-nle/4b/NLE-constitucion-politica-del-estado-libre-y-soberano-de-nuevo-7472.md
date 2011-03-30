@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2011-03-25"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2011 EN EL P. O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 30 DE MARZO DE 2011.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -451,8 +451,6 @@ Siguiendo el mismo procedimiento, el Congreso podrá citar a cualquiera de dicho
 
 Los Magistrados del Tribunal Superior de Justicia del Estado únicamente ocurrirán para los casos a que se refieren las fracciones XVI y XXVIII del artículo 63 de esta Constitución.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MARZO DE 2011 EN EL P. O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 63.
@@ -641,7 +639,7 @@ XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas
 
 XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan las relaciones de trabajo entre el Estado, los Municipios o las entidades paraestatales y sus trabajadores, así como las prestaciones de seguridad social de dichos trabajadores.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2011)</small>
+(ADICIONADO, P.O. 25 DE MARZO DE 2011) (F. DE E., P.O. 30 DE MARZO DE 2011)
 
 El trabajo exige respeto para las libertades y dignidad de quien lo presta y debe de efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
 
@@ -1103,7 +1101,7 @@ Si la licencia fuere por más de treinta días o en caso de impedimento del Gobe
 
 ###### Art. 90.
 
-En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero, si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
+En caso de falta absoluta o imposibilidad perpetua del Gobernador dentro de los tres primeros años del período respectivo, si el Congreso estuviere reunido, será este cuerpo quien nombre, por escrutinio secreto y a mayoría absoluta de votos, un Gobernador Interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados a dicho Congreso, siempre que estén próximas. Pero si el Legislativo estuviere en receso, la Diputación permanente nombrará un Gobernador Interino y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1557,7 +1555,7 @@ Si el delito que se impute a algún funcionario se hubiere cometido antes de que
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
-Art.- 114.-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Art.- 114.-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su cargo.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -3297,15 +3295,15 @@ P.O. 27 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-P.O. 26 DE SEPTIEMBRE DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
-
 P.O. 28 DE SEPTIEMBRE DE 2007.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los sujetos obligados, en los términos de la legislación aplicable, deberán implementar los medios tecnológicos y electrónicos necesarios para que las personas puedan ejercer el derecho de acceso a la información pública, así como de los procedimientos de revisión a los que se refiere este Decreto, en un plazo no mayor al que establece el Decreto Federal por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 20 de julio del 2007. Lo anterior con excepción de los municipios con población menor a los setenta mil habitantes.
+
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE OCTUBRE DE 2007.
 
