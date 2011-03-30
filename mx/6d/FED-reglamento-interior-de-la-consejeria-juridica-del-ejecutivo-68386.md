@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-683
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-15"
-last_updated: "2009-05-15"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68386&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-13"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2009.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO FEDERAL
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 1.
 
-La Consejería Jurídica del Ejecutivo Federal, en adelante la Consejería, es la dependencia de la Administración Pública Federal Centralizada que tiene a su cargo la función prevista en el apartado A del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, consistente en brindar asesoría y apoyo técnico jurídico al Presidente de la República, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
+La Consejería Jurídica del Ejecutivo Federal, en adelante la Consejería, es la dependencia de la Administración Pública Federal Centralizada que tiene a su cargo las funciones previstas en el apartado A del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Orgánica de la Administración Pública Federal, consistentes en brindar asesoría y apoyo técnico jurídico al Presidente de la República, representarlo en todo tipo de procedimientos administrativos, electorales y jurisdiccionales, así como las demás atribuciones que le confieren los ordenamientos jurídicos aplicables.
 
 Corresponde igualmente a la Consejería, coordinar los programas de normatividad jurídica de la Administración Pública Federal que apruebe el Presidente de la República y procurar la congruencia de los criterios jurídicos entre dependencias y entidades, así como prestar apoyo y asesoría en materias jurídicas a las entidades federativas que lo soliciten.
 
@@ -115,7 +117,9 @@ IX. Someter a consideración del Presidente de la República, por instrucción d
 
 X. Opinar previamente sobre el nombramiento y, en su caso, solicitar la remoción de los titulares de las áreas responsables del apoyo jurídico de las dependencias y entidades de la Administración Pública Federal;
 
-XI. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 constitucional, así como en los demás juicios en que el Titular del Ejecutivo Federal intervenga con cualquier carácter;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XI. Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XII. Aprobar y expedir el Manual de Organización General y el de Procedimientos de la Consejería;
 
@@ -313,9 +317,15 @@ II. Coordinar los trabajos de las distintas dependencias y entidades de la Admin
 
 III. Asesorar a las unidades administrativas de la Consejería, para que éstas cumplan adecuadamente con las resoluciones de juicios y procedimientos contenciosos que les vinculen y, en su caso, con las recomendaciones que sean procedentes de la Comisión Nacional de los Derechos Humanos, prestando la asesoría requerida para tales efectos;
 
-IV. Representar al Presidente de la República, con excepción de las acciones de inconstitucionalidad y controversias constitucionales, ante los tribunales federales y del fuero común y ante toda autoridad en los asuntos y trámites jurisdiccionales y en cualquier asunto de carácter jurídico en que tenga interés o injerencia, cuando esta representación no corresponda a otra dependencia del gobierno federal. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-En materia laboral, esta facultad podrá ser delegada a favor del o los servidores públicos de la Administración Pública Federal que autorice el Consejero;
+IV. Representar al Presidente de la República, con excepción de las acciones de inconstitucionalidad y controversias constitucionales, ante los tribunales federales y del fuero común, institutos y tribunales electorales, federal y locales, ante toda autoridad en los asuntos y procedimientos jurisdiccionales y administrativos, así como en cualquier asunto y procedimiento de carácter jurídico en que tenga interés o injerencia, cuando esta representación no corresponda a otra dependencia del gobierno federal. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes.
+
+En la materia laboral, esta facultad podrá ser delegada a favor del o los servidores públicos de la Administración Pública Federal que autorice el Consejero;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+IV bis. Ejercer las facultades que le confieran a la Consejería los acuerdos generales a los que se hace referencia en el artículo 19 de Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Representar a la Consejería y a sus unidades administrativas ante los tribunales federales y del fuero común y ante toda autoridad del ámbito federal, local o municipal, en los asuntos y trámites jurisdiccionales y en cualquier asunto de carácter jurídico en que tenga interés o injerencia. Esta facultad incluye todos los derechos procesales que las leyes reconocen a las partes;
 
@@ -335,7 +345,9 @@ XII. Coordinar y supervisar las labores de control y seguimiento procesal de los
 
 XIII. Formular las denuncias y querellas que correspondan ante el Ministerio Público, dar seguimiento a las averiguaciones previas e interponer los medios de defensa que procedan en esta materia;
 
-XIV. Atender los trámites, los juicios y los procedimientos contenciosos que competan al Consejero, durante la (sic) ausencias de éste, suscribiendo y presentando escritos de ofrecimiento de pruebas, desahogo de prevenciones, promoción de incidentes, interposición de recursos y alegatos, rendición de informes previos, justificados y de ejecución; promover y realizar todos los actos o acciones permitidos por las leyes, que favorezcan los derechos e intereses de la Presidencia de la República y de la Consejería del Ejecutivo Federal, así como recibir de toda clase de notificaciones y documentos;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XIV. Atender los trámites, los juicios y los procedimientos jurisdiccionales, administrativos, electorales y, en general, en todo tipo de materias, que competan al Consejero, durante las ausencias de éste, suscribiendo y presentando escritos de ofrecimiento de pruebas, desahogo de prevenciones, promoción de incidentes, interposición de recursos y alegatos, rendición de informes previos, justificados y de ejecución; promover y realizar todos los actos o acciones permitidos por las leyes, que favorezcan los derechos e intereses de la Presidencia de la República y de la Consejería Jurídica del Ejecutivo Federal, así como recibir de toda clase de notificaciones y documentos;
 
 XV. Establecer comunicación directa con los tribunales federales y del fuero común, el Ministerio Público y demás autoridades de la administración pública federal, estatal y municipal, para el adecuado despacho de los asuntos de la Consejería;
 
@@ -359,7 +371,9 @@ Compete a la Dirección General de Administración y de Finanzas:
 
 I. Determinar las políticas, normas y procedimientos para la eficiente administración de los recursos humanos, materiales y financieros de la Consejería;
 
-II. Conducir en apego a las disposiciones jurídicas aplicables la política de administración que apruebe el Consejero, así como fijar las bases, lineamientos, criterios, sistemas, procedimientos y demás normas de carácter administrativo que observarán las unidades administrativas de la Consejería para la eficiente administración de los recursos humanos, materiales, financieros, informáticos y de comunicación asignados a la Dependencia;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+II. Conducir, con apego a las disposiciones jurídicas aplicables, la política de administración que apruebe el Consejero, así como fijar las bases, lineamientos, criterios, sistemas, procedimientos y demás normas de carácter administrativo que observarán las unidades administrativas de la Consejería para la eficiente administración de los recursos humanos, materiales, financieros, informáticos y de comunicación asignados a ésta;
 
 III. Tramitar ante la Secretaría de Hacienda y Crédito Público las solicitudes y consultas en materia presupuestaria y contable, y ante la Secretaría de la Función Pública en materia organizacional y de administración de personal de la Consejería, así como Coordinar al interior de la Consejería la aplicación de las disposiciones que rigen a la Administración Pública Federal en las materias de recursos humanos, presupuesto, contabilidad, gasto público, obra pública, adquisiciones, arrendamientos y servicios;
 
@@ -369,7 +383,9 @@ V. Coordinar el proceso interno de planeación, programación, presupuestación,
 
 VI. Establecer y administrar los servicios de apoyo en materia de programación, presupuesto, informática y telecomunicaciones, recursos humanos, recursos materiales, contabilidad, archivos y los demás que sean necesarios para el cumplimiento de los objetivos de la Consejería;
 
-VII. Someter a consideración del Consejero, el Programa Operativo Anual, el anteproyecto de presupuesto anual y los demás programas que se le encomienden;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+VII. Someter a consideración del Consejero, el anteproyecto de presupuesto anual y los demás programas que se le encomienden;
 
 VIII. Integrar y remitir la información relativa a la Cuenta de la Hacienda Pública en lo que compete a la Consejería y atender los requerimientos de información periódica que requiera la Secretaría de Hacienda y Crédito Público, así como la demás información que requieran las instancias fiscalizadoras;
 
@@ -383,7 +399,9 @@ XII. Suscribir conjuntamente con el Director de Desarrollo Humano y Organizació
 
 XIII. Autorizar y someter a consideración del Consejero el proyecto de Manual de Organización General de la Consejería, para su expedición y, en su caso, remitirlo a la Secretaría de Gobernación para su publicación en el Diario Oficial de la Federación;
 
-XIV. Dirigir y coordinar los procesos de elaboración, actualización y divulgación del manual de organización general de la Consejería, así como los manuales de procedimientos de las unidades administrativas y, en su caso, autorizar y expedir estos últimos;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XIV. Dirigir y coordinar los procesos de elaboración, actualización y divulgación del Manual de Organización General de la Consejería, así como los manuales de procedimientos de las unidades administrativas y, en su caso, autorizar y expedir estos últimos;
 
 XV. Coordinar la formulación y ejecución de los programas anuales de obra pública, adquisiciones, conservación y mantenimiento de bienes muebles e inmuebles de la Consejería;
 
@@ -401,29 +419,41 @@ XXI. Autorizar los programas institucionales de capacitación, establecer las po
 
 XXII. Establecer, de acuerdo con las disposiciones jurídicas y administrativas aplicables, las directrices, normas y criterios técnicos, para el proceso interno de programación, presupuestación, operación, contabilidad y evaluación de la Consejería;
 
-XXIII. Revisar y autorizar los convenios y contratos que afecten los recursos presupuestales de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XXIII. Autorizar los convenios y contratos que afecten los recursos presupuestarios de la Consejería;
 
 XXIV. Autorizar, conducir y resolver los trámites administrativos relacionados con licitaciones públicas, concursos y adjudicaciones, así como suscribir los contratos, convenios, pedidos y demás instrumentos jurídicos relacionados con servicios, arrendamientos, adquisiciones, obras públicas, bienes muebles e inmuebles en los que intervenga la Consejería;
 
-XXV. Rescindir, suspender, dar por terminados los contratos, convenios y operaciones a que se refiere la fracción anterior, así como aplicar penas convencionales, solicitar la ejecución de garantías, emitir finiquitos, hacer efectivas las sanciones administrativas procedentes, en términos de la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XXV. Rescindir, suspender, dar por terminados los contratos, convenios y operaciones a que se refiere la fracción anterior, así como solicitar la ejecución de garantías, emitir finiquitos, hacer efectivas las sanciones administrativas procedentes, en términos de la legislación aplicable;
 
 XXVI. Autorizar el programa anual para el destino final de bienes muebles de la Consejería y sus modificaciones, así como la destrucción de los mismos, y aprobar los manuales, formatos e instructivos para la administración de bienes muebles y el manejo de almacenes, y
 
 XXVII. Las demás que le confiera el Consejero y las que deriven de otras disposiciones normativas aplicables.
 
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 17.
 
-La Dirección General de Administración y de Finanzas, para el mejor despacho de los asuntos de su competencia, se auxiliará de la Dirección de Informática y Telecomunicaciones; de la Dirección de Presupuesto y Finanzas; de la Dirección de Desarrollo Humano y Organización, y de la Dirección de Recursos Materiales y Servicios Generales.
+La Dirección General de Administración y de Finanzas, para el mejor despacho de los asuntos de su competencia, se auxiliará de la Dirección de Tecnologías de la Información y Comunicaciones; de la Dirección de Presupuesto, Finanzas y Contabilidad; de la Dirección de Desarrollo Humano y Organización, y de la Dirección de Recursos Materiales y Servicios Generales.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 18.
 
-Compete a la Dirección de Informática y Telecomunicaciones:
+Compete a la Dirección de Tecnologías de la Información y Comunicaciones:
 
-I. Establecer lineamientos de observancia interna en materia de informática y telecomunicaciones, así como integrar e instrumentar el Plan Estratégico de Tecnologías de Información y Telecomunicaciones en función de lo requerido por las unidades administrativas de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+I. Proponer directrices y criterios técnicos en materia de informática y telecomunicaciones, así como integrar e instrumentar el Plan Estratégico de Tecnologías de Información y Telecomunicaciones en función de lo requerido por las unidades administrativas de la Consejería;
 
 II. Proponer, conforme a los requerimientos de las unidades administrativas competentes de la Consejería, los sistemas, bases de datos de información, procedimientos y estrategias en materia de tecnología informática y de telecomunicaciones para el servicio de la Consejería;
 
-III. Diseñar y establecer políticas, lineamientos y programas para mantener actualizada la infraestructura de cómputo, telecomunicaciones y equipos auxiliares de la dependencia y evaluar su funcionamiento en congruencia con los requerimientos de las unidades administrativas de la Consejería, así como brindar el soporte técnico correspondiente;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+III. Proponer directrices, criterios técnicos y programas para mantener actualizada la infraestructura de cómputo, telecomunicaciones y equipos auxiliares de la Consejería y evaluar su funcionamiento en congruencia con los requerimientos de las unidades administrativas de ésta, así como brindar el soporte técnico correspondiente;
 
 IV. Dictaminar la adquisición, servicios, instalación, operación y mantenimiento de los equipos informáticos y de telecomunicaciones, incluyendo sus programas, licenciamiento, servicios en internet, equipos auxiliares y de transmisión, destinados a las unidades administrativas de la Consejería, de acuerdo con las políticas que en la materia se expidan;
 
@@ -439,15 +469,21 @@ IX. Establecer y dar seguimiento al cumplimiento de las normas y procedimientos 
 
 X. Poner a disposición del público en general, a través de medios remotos o locales de comunicación electrónica, la información pública que generen las Unidades Administrativas de la Consejería, en los términos de la legislación aplicable, aplicando los procedimientos que para ese efecto dicte la Coordinación de Asesores;
 
-XI. Diseñar, desarrollar e implementar las políticas, normas y procedimientos con respecto a la asignación de bienes informáticos, conforme a la normatividad aplicable; así como promover el buen uso y la utilización de telefonía analógica, digital, celular, satelital, radiocomunicación y radiolocalización, red internet, red intranet y los sistemas informáticos, equipos de computo y correos institucionales, y
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XI. Proponer directrices, criterios técnicos y procedimientos con respecto a la asignación de bienes informáticos, conforme a la normativa aplicable; así como promover el buen uso y la utilización de telefonía analógica, digital, celular, satelital, radiocomunicación y radiolocalización, red Internet, red intranet y los sistemas informáticos, equipos de cómputo y correos institucionales, y
 
 XII. Las demás que le señalen las disposiciones legales y normatividad aplicables a las áreas encargadas de la informática y telecomunicaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 19.
 
-La Dirección de Presupuesto y Finanzas tendrá las atribuciones y obligaciones siguientes:
+La Dirección de Presupuesto, Finanzas y Contabilidad tendrá las atribuciones y obligaciones siguientes:
 
-I. Elaborar las políticas, lineamientos, directrices y criterios técnicos para la programación y el presupuesto;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+I. Proponer directrices y criterios técnicos para la programación y el presupuesto;
 
 II. Evaluar el ejercicio presupuestal de la Consejería, así como proponer las medidas correctivas pertinentes;
 
@@ -461,31 +497,69 @@ VI. Analizar, validar y gestionar las solicitudes de radicación de recursos pre
 
 VII. Realizar la operación financiera de la Consejería, mediante el registro y pago vía cuentas por liquidar certificadas u otros instrumentos establecidos para tal fin, de conformidad con las disposiciones legales aplicables;
 
-VIII. Registrar la contabilidad de las operaciones financieras y presupuestarias para efectos de seguimiento y operación del sistema integral de contabilidad gubernamental de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+VIII. Verificar las operaciones contables y presupuestarias de la Consejería registradas en el Sistema Integral de Contabilidad y Presupuesto, en el Sistema Integral de Administración Financiera Federal, así como en el Portal Aplicativo de la Secretaría de Hacienda y Crédito Público, y en el Sistema de Contabilidad Gubernamental de la Consejería, de conformidad con las disposiciones jurídicas aplicables;
 
 IX. Elaborar e integrar la Cuenta de la Hacienda Pública Federal de la Consejería;
 
 X. Gestionar ante la Secretaría de Hacienda y Crédito Público, la autorización del programa de inversiones de la Consejería;
 
-XI. Formular los informes de evaluación programático-presupuestales que presenta la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-XII. Participar en la constitución, registro, control y gestoría financiera de los fideicomisos, mandatos, actos y contratos análogos que celebre la Consejería de conformidad con las disposiciones legales aplicables, y
+XI. Formular los informes de evaluación programática, presupuestaria y contable de la Consejería que conforme a las disposiciones aplicables deban rendirse;
 
-XIII. Las demás que le señalen las disposiciones legales y normatividad aplicables a las áreas encargadas de la programación y presupuestación.
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XII. Participar en la constitución, registro, control y gestoría financiera de los fideicomisos, mandatos, actos y contratos análogos que celebre la Consejería de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XIII. Gestionar la autorización de recursos para la constitución del fondo rotatorio de la Consejería y administrar su distribución, ejercicio y comprobación, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XIV. Certificar la disponibilidad presupuestaria para la celebración de contratos, pedidos y trámites de pagos, conforme a la normativa aplicable en la materia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XV. Administrar las cuentas bancarias que opere la Consejería, así como gestionar, en el ámbito de su competencia, la apertura, registro, modificación o cancelación de cuentas bancarias ante la Tesorería de la Federación, y ante las instituciones bancarias, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XVI. Presentar las declaraciones de carácter fiscal y efectuar el entero de las retenciones que la Consejería deba realizar por concepto de impuestos, derechos, cuotas de seguridad social y demás contribuciones, de conformidad con la normativa aplicable en la materia;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XVII. Proporcionar, en el ámbito de su competencia, los viáticos y/o pasajes autorizados para el desempeño de comisiones oficiales, conforme a las leyes y disposiciones aplicables en la materia, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XVIII. Las demás que le señalen las disposiciones legales y normativa aplicable a las áreas encargadas de la programación y presupuestación.
 
 ###### Artículo 20.
 
 La Dirección de Desarrollo Humano y Organización tendrá las atribuciones y obligaciones siguientes:
 
-I. Proponer, implantar y operar políticas, lineamientos y normatividad en materia de desarrollo y administración de personal;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-II. Participar en la formulación del Programa Operativo Anual del anteproyecto de presupuesto anual y de la Cuenta de la Hacienda Pública Federal en el capítulo de servicios personales;
+I. Proponer, implantar y aplicar criterios técnicos y directrices en materia de desarrollo y administración de personal;
 
-III. Emitir, con la aprobación del Director General de Administración y de Finanzas, normas y procedimientos para el pago de las remuneraciones al personal de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+II. Participar en la formulación del anteproyecto de presupuesto anual y de la Cuenta Pública Federal en el capítulo de servicios personales;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+III. Operar normas y procedimientos aplicables para el pago de las remuneraciones al personal de la Consejería;
 
 IV. Determinar la emisión o suspensión de pagos y la aplicación de descuentos y retenciones autorizados conforme a la ley y en su caso, gestionar la recuperación de las cantidades correspondientes a salarios no devengados;
 
 V. Operar, normar y coordinar el sistema de pago al personal de acuerdo con las normas emitidas por la Tesorería de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+V bis. Publicar y mantener actualizados en la página web de la Consejería, los contratos de prestación de servicios profesionales por honorarios;
 
 VI. Definir, elaborar, emitir y promover, en términos de las disposiciones legales aplicables, sistemas y procedimientos en materia de reclutamiento, selección, contratación, nombramientos, inducción, evaluación, remuneraciones, prestaciones, servicios sociales, motivación, capacitación, actualización y movimientos del personal, así como de medios y formas de identificación de los servidores públicos de la Consejería;
 
@@ -519,9 +593,13 @@ XX. Participar en la formulación, instrumentación y evaluación, en materia de
 
 XXI. Proponer lineamientos y criterios técnicos en materia de organización, funcionamiento, modernización, innovación y simplificación administrativa de la Consejería;
 
-XXII. Predictaminar y tramitar ante las autoridades competentes las reestructuraciones, creaciones, modificaciones o eliminaciones orgánico-funcionales de las unidades administrativas de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-XXIII. Difundir las estructuras ocupacionales y salariales de la Consejería, así como establecer y aplicar las políticas y lineamientos de productividad y normatividad de recursos humanos;
+XXII. Tramitar ante las autoridades competentes las reestructuraciones, creaciones, modificaciones o eliminaciones orgánico-funcionales de las unidades administrativas de la Consejería;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XXIII. Difundir las estructuras ocupacionales y salariales de la Consejería, así como aplicar las políticas y lineamientos de productividad y normativa de recursos humanos;
 
 XXIV. Normar, integrar y mantener actualizado el Manual de Organización General de la Consejería, así como normar y dictaminar los proyectos de manuales de organización y de procedimientos específicos de las unidades administrativas;
 
@@ -535,33 +613,57 @@ XXVII. Las demás que le señalen las disposiciones legales y normatividad aplic
 
 La Dirección de Recursos Materiales y Servicios Generales tendrá las atribuciones y obligaciones siguientes:
 
-I. Proponer políticas a la instancia competente y, en su caso, aplicarlas en la administración de recursos materiales y la prestación de servicios generales de la Consejería;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-II. Participar en la formulación del Programa Operativo Anual, del anteproyecto de presupuesto y de la Cuenta de la Hacienda Pública Federal;
+I. Proponer políticas a la instancia competente y, en su caso, aplicarlas en la administración de recursos materiales y la prestación de servicios generales de la Consejería, incluyendo las relativas a la instalación y funcionamiento de los comités que establece la normativa aplicable;
 
-III. Establecer lineamientos para la formulación de los programas anuales de la Consejería en materia de adquisiciones de bienes y de servicios y de obra pública, así como coordinar su integración y dar seguimiento a su ejecución conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+II. Participar en la formulación del anteproyecto de presupuesto y de la Cuenta Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+III. Proponer directrices y criterios técnicos para la formulación de los programas anuales de la Consejería en materia de adquisiciones de bienes y de servicios y de obra pública, así como coordinar su integración y dar seguimiento a su ejecución conforme a las disposiciones aplicables;
 
 IV. Realizar las adquisiciones, arrendamientos y prestación de servicios autorizados por las instancias y órganos colegiados competentes, así como normar, dictaminar, vigilar y supervisar las que efectúen las unidades administrativas de la Consejería de acuerdo con la legislación y reglamentos aplicables;
 
-V. Proponer lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de la Consejería, así como mantener regularizada su posesión;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-VI. Atender las necesidades de las unidades administrativas, en materia de espacio físico, adaptaciones, instalaciones y mantenimiento de inmuebles, en los términos de las disposiciones aplicables;
+V. Proponer directrices y criterios técnicos para la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de la Consejería, así como mantener regularizada su posesión;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+VI. Atender las necesidades de las unidades administrativas, en materia de espacio físico, adaptaciones, instalaciones, mantenimiento, arrendamiento y administración de inmuebles, en los términos de las disposiciones aplicables;
 
 VII. Realizar la contratación y supervisión de la construcción, reparación, mantenimiento y rehabilitación de los inmuebles al servicio de la Consejería, de acuerdo con las normas aplicables;
 
-VIII. Proponer las directrices generales en materia de asesoramiento y supervisión de obras de construcción, remodelación o remozamiento, en los aspectos técnicos y administrativos que competan a la Consejería, así como los dictámenes correspondientes a las licitaciones públicas;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+VIII. Proponer las directrices generales en materia de asesoramiento, supervisión de obras de construcción, remodelación o remozamiento, aspectos técnicos y administrativos que competan a la Consejería, así como para los dictámenes correspondientes a las licitaciones públicas;
 
 IX. Supervisar los sistemas de control de inventarios de bienes, dictaminar y vigilar su afectación, baja y destino final;
 
-X. Formular y proponer al Director General de Administración y de Finanzas lineamientos para la operación, registro y sistematización de la información de adquisiciones, servicios, inventarios, almacenes y obra pública;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
 
-XI. Vigilar el cumplimiento de los requisitos establecidos para el pago de las adquisiciones, arrendamientos, servicios en materia de bienes muebles, así como de obra pública y verificar el cumplimiento de las condiciones contractuales y garantías que deban otorgar los proveedores;
+X. Formular y proponer al Director General de Administración y de Finanzas lineamientos para la administración, operación, registro y sistematización de la información de adquisiciones, servicios, inventarios, almacenes, arrendamiento de inmuebles y obra pública, para el adecuado cumplimiento de la legislación vigente;
 
-XII. Elaborar el Programa de Aseguramiento de bienes muebles e inmuebles propiedad de la Consejería del ejercicio fiscal que corresponda, así como vigilar la adecuada y correcta contratación de la compañía aseguradora;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XI. Vigilar el cumplimiento de los requisitos establecidos para el pago de las adquisiciones, arrendamientos, servicios en materia de bienes muebles, así como de obra pública y verificar el cumplimiento de las condiciones contractuales, trámite de obtención de garantías que deban otorgar los proveedores, así como la liberación de las mismas y la aplicación de penas convencionales y deductivas que en su caso procedan;
+
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XI bis. Gestionar con apego a la normativa aplicable, la terminación anticipada, suspensión o rescisión de contratos, así como el finiquito correspondiente en aquellos casos que resulte procedente;
+
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XII. Elaborar y administrar el Programa de Aseguramiento de bienes muebles e inmuebles de la Consejería del ejercicio fiscal que corresponda, así como vigilar la adecuada y correcta contratación de la compañía aseguradora;
 
 XIII. Proponer y vigilar la aplicación de normas y lineamientos para la prestación de los servicios de administración y distribución de documentos oficiales y el sistema de archivo de la Consejería de conformidad con las disposiciones aplicables en la materia;
 
-XIV. Dirigir, controlar y evaluar los servicios generales de apoyo;
+> <small>(REFORMADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+XIV. Administrar y evaluar los servicios generales de apoyo;
 
 XV. Controlar el uso, mantenimiento y reparación del equipo de transporte de la Consejería, así como el consumo de los combustibles e insumos que requiera dicho equipo;
 
@@ -599,7 +701,9 @@ Los Consejeros Adjuntos y el Coordinador de Asesores, serán suplidos, durante s
 
 Las ausencias temporales o la falta de designación de los titulares de las direcciones generales, de los Consultores Jurídicos, subdirecciones de área y jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-El Director General de Administración y de Finanzas será suplido, durante sus ausencias temporales o por falta de designación de éste, por el Director de Informática y Telecomunicaciones; el Director de Presupuesto y Finanzas; el Director de Desarrollo Humano y Organización, el Director de Recursos Materiales y Servicios Generales, en los asuntos de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2011)</small>
+
+El Director General de Administración y de Finanzas será suplido, durante sus ausencias temporales o por falta de designación de éste, por el Director de Tecnologías de la Información y Comunicaciones; el Director de Presupuesto, Finanzas y Contabilidad; el Director de Desarrollo Humano y Organización; el Director de Recursos Materiales y Servicios Generales, en los asuntos de sus respectivas competencias.
 
 Las ausencias del Titular del Órgano Interno de Control serán suplidas por el servidor público que determine el Reglamento Interior de la Secretaría de la Función Pública.
 
@@ -624,3 +728,15 @@ c) Dirección de Recursos Humanos, se entenderán hechas a la Dirección de Desa
 d) Dirección de Recursos Materiales, Servicios Generales y Apoyo Técnico, se entenderán hechas a la Dirección de Recursos Materiales y Servicios Generales.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE MARZO DE 2011.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Al entrar en vigor el presente Reglamento, las menciones que se hagan en cualesquier disposición administrativa a la:
+
+a) Dirección de Informática y Telecomunicaciones, se entenderán hechas a la Dirección de Tecnologías de la Información y Comunicaciones, y
+
+b) Dirección de Presupuesto y Finanzas, se entenderán hechas a la Dirección de Presupuesto, Finanzas y Contabilidad.
