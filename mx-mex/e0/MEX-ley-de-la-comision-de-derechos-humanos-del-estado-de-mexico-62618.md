@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2010-03-06"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -67,7 +67,9 @@ l. Ley: la Ley de la Comisión de Derechos Humanos del Estado de México;
 
 II. Comisión u Organismo: la Comisión de Derechos Humanos del Estado de México;
 
-III. Comisionado: el Comisionado de los Derechos Humanos del Estado de México;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+III. Presidente: La o el Presidente de la Comisión de Derechos Humanos del Estado de México;
 
 IV. Reglamento Interno: el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México;
 
@@ -199,7 +201,9 @@ La Comisión no es competente para conocer de asuntos electorales, laborales y j
 
 La Comisión se integra por:
 
-l. El Comisionado de los Derechos Humanos;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+I. La o el Presidente;
 
 II. El Secretario; y
 
@@ -207,13 +211,17 @@ III. Los Visitadores que sean necesarios.
 
 La Comisión se auxiliará del personal profesional, técnico y administrativo indispensable para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
-El Comisionado es el representante legal y la autoridad ejecutiva responsable del Organismo.
+El Presidente es el representante legal y la autoridad ejecutiva responsable del Organismo.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
-El Comisionado debe reunir los requisitos siguientes:
+La o el Presidente debe reunir los requisitos siguientes:
 
 l. Ser mexicano por nacimiento en pleno goce y ejercicio de sus derechos políticos y civiles;
 
@@ -233,19 +241,25 @@ VIII. No haber sido sancionado en el desempeño de empleo, cargo o comisión en 
 
 IX. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 18.
 
-El Comisionado debe ser electo por el Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los diputados presentes.
+La o el Presidente debe ser electo por el Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los diputados presentes.
 
 Para los efectos de lo previsto en el párrafo anterior, la Legislatura Estatal deberá establecer mecanismos de consulta, con la sociedad civil organizada.
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 19.
 
-El Comisionado durará en su encargo cuatro años, pudiendo ser reelecto por la Legislatura del Estado, por una sola vez y por igual periodo, en términos de lo dispuesto por el artículo anterior.
+La o el Presidente durará en su encargo cuatro años, pudiendo ser reelecto por la Legislatura del Estado, por una sola vez y por igual periodo, en términos de lo dispuesto por el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 20.
 
-El Comisionado dejará de ejercer su encargo por alguna de las causas siguientes:
+La o el Presidente dejará de ejercer su encargo por alguna de las causas siguientes:
 
 l. Por concluir el período para el que fue electo o reelecto;
 
@@ -259,13 +273,19 @@ V. Por haber sido condenado mediante sentencia ejecutoriada por delito doloso; y
 
 VI. Por desempeñar actividades incompatibles con su cargo, en términos de esta Ley.
 
-En los supuestos a que se refieren las fracciones IV, V y VI, la Legislatura del Estado, previa garantía de audiencia que se otorgue al Comisionado, resolverá lo procedente.
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
-En todos los supuestos y durante el procedimiento de nueva elección, el Comisionado será sustituido por el Primer Visitador General, quien asumirá las facultades y obligaciones de éste, de manera plena.
+En los supuestos a que se refieren las fracciones IV, V y VI, la Legislatura del Estado, previa garantía de audiencia que se otorgue al Presidente, resolverá lo procedente.
+
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
+En todos los supuestos y durante el procedimiento de nueva elección, el Presidente será sustituido por el Primer Visitador General, quien asumirá las facultades y obligaciones de éste, de manera plena.
+
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 21.
 
-Las ausencias temporales del Comisionado, mayores de quince días pero menores de sesenta días, deben suplirse por el Primer Visitador General.
+Las ausencias temporales de la o el Presidente, mayores de quince días pero menores de sesenta días, deben suplirse por el Primer Visitador General.
 
 ###### Artículo 22.
 
@@ -319,15 +339,19 @@ IX. No haber sido objeto de sanción de inhabilitación o destitución administr
 
 Los demás Visitadores deben reunir los requisitos establecidos en el artículo anterior, con excepción del señalado en la fracción III.
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 27.
 
-El Comisionado, el Secretario y los Visitadores, no deben desempeñar ningún otro empleo, cargo o comisión en el servicio público, salvo los relacionados con la docencia, y no pueden ejercer acción política militante, ni desempeñar actividades electorales.
+La o el Presidente, la o el Secretario y las o los Visitadores, no deben desempeñar ningún otro empleo, cargo o comisión en el servicio público, salvo los relacionados con la docencia, y no pueden ejercer acción política militante, ni desempeñar actividades electorales.
 
 ### Capítulo III. De las facultades y obligaciones de los Órganos de la Comisión
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 28.
 
-El Comisionado tiene las facultades y obligaciones siguientes:
+La o el Presidente tiene las facultades y obligaciones siguientes:
 
 I. Ejercer la representación legal de la Comisión y fungir como su apoderado legal con las más amplias facultades, para actos de administración, pleitos y cobranzas; pudiendo delegar, sustituir o revocar poderes en uno o más apoderados;
 
@@ -369,7 +393,9 @@ XIX. Elaborar y remitir el anteproyecto de Presupuesto Anual de Egresos de la Co
 
 XX. Formular y presentar informes sobre el ejercicio del presupuesto anual de egresos de la Comisión, de los cuales debe dar cuenta al Consejo Consultivo;
 
-XXI. Convocar y presidir las sesiones del Consejo Consultivo;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+XXI. Fungir como la o el Presidente del Consejo Consultivo;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -381,19 +407,25 @@ XXIII. Las demás que le confiera esta Ley y otras disposiciones legales.
 
 El Secretario de la Comisión tiene las facultades y obligaciones siguientes:
 
-l. Presentar al Consejo Consultivo, por acuerdo del Comisionado, las propuestas de planes de trabajo y programas del Organismo;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+l. Presentar al Consejo Consultivo, por acuerdo de la o el Presidente, las propuestas de planes de trabajo y programas del Organismo;
 
 II. Promover y fortalecer las relaciones de la Comisión con autoridades e instituciones públicas; así como con organismos públicos, sociales y privados, estatales, nacionales e internacionales;
 
 III. Elaborar y ejecutar programas de capacitación, enseñanza, promoción y difusión de los derechos humanos;
 
-IV. Colaborar con el Comisionado, en la elaboración de los informes anuales, así como de los especiales;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+IV. Colaborar con la o el Presidente, en la elaboración de los informes anuales, así como de los especiales;
 
 V. Mantener y resguardar el archivo de la Comisión;
 
 VI. Realizar las funciones de Secretaría Técnica del Consejo Consultivo, en términos de esta Ley y del Reglamento Interno; y
 
-VII. Las demás que le confiera esta Ley, otras disposiciones legales y el Comisionado.
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+VII. Las demás que le confiera esta Ley, otras disposiciones legales y la o el Presidente.
 
 ###### Artículo 30.
 
@@ -401,13 +433,17 @@ Los Visitadores Generales, tienen las facultades y obligaciones siguientes:
 
 l. Coordinar y supervisar a los Visitadores en términos del Reglamento Interno;
 
-II. Proponer al Comisionado los proyectos de Acuerdos, Criterios Generales, Resoluciones de no Responsabilidad, Recomendaciones y Resoluciones de los Recursos de Reconsideración;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+II. Proponer a la o el Presidente los proyectos de Acuerdos, Criterios Generales, Resoluciones de no Responsabilidad, Recomendaciones y Resoluciones de los Recursos de Reconsideración;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
 
 III. Vincular, orientar, supervisar y evaluar las acciones que realicen los Defensores Municipales de Derechos Humanos, en términos de la Ley Orgánica Municipal del Estado de México; y
 
-IV. Las demás que les confiera esta Ley, otras disposiciones legales y el Comisionado.
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+IV. Las demás que les confiera esta Ley, otras disposiciones legales y la o el Presidente.
 
 ###### Artículo 31.
 
@@ -433,25 +469,33 @@ IX. Citar, a su prudente arbitrio, peritos, testigos y personas que tengan relac
 
 X. Elaborar los proyectos de Acuerdos, Resoluciones de no Responsabilidad, Recomendaciones y Resoluciones de los Recursos de Reconsideración; y
 
-XI. Las demás que les confiera esta Ley, otras disposiciones legales y el Comisionado.
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+XI. Las demás que les confiera esta Ley, otras disposiciones legales y la o el Presidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 32.
 
-El Comisionado y los Visitadores tienen fe pública en sus actuaciones.
+La o el Presidente y las o los Visitadores tienen fe pública en sus actuaciones.
 
 Para los efectos de esta Ley, fe pública es la facultad de certificar la veracidad de los hechos, acontecimientos, circunstancias, objetos, documentos, lugares; así como entrevistas, declaraciones y testimonios, que se relacionen con el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 33.
 
-El Comisionado y los Visitadores no pueden ser reconvenidos, detenidos o sujetos a responsabilidad civil, penal o administrativa, por las opiniones y Recomendaciones que formulen, o por los actos que realicen, en ejercicio de las facultades u obligaciones que les confiera la ley.
+La o el Presidente y las o los Visitadores no pueden ser reconvenidos, detenidos o sujetos a responsabilidad civil, penal o administrativa, por las opiniones y Recomendaciones que formulen, o por los actos que realicen, en ejercicio de las facultades u obligaciones que les confiera la ley.
 
 La Legislatura del Estado velará por el respeto de lo establecido en el presente artículo.
 
 ### Capítulo IV. De los informes anuales del Comisionado
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 34.
 
-Los informes anuales del Comisionado, se deben presentar dentro de los tres primeros meses del año.
+Los informes anuales de la o el Presidente, se deben presentar dentro de los tres primeros meses del año.
 
 ###### Artículo 35.
 
@@ -461,9 +505,11 @@ Los informes deben contener una descripción resumida del número y característ
 
 Los informes deben ser difundidos para conocimiento de la sociedad.
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 37.
 
-Los integrantes de la Legislatura del Estado, en relación con los informes que presente el Comisionado respecto de las Recomendaciones dictadas y del cumplimiento que a ellas se hubiese dado, pueden formular comentarios y observaciones a los mismos, pero no están facultados para dirigirle instrucciones específicas.
+Los integrantes de la Legislatura del Estado, en relación con los informes que presente la o el Presidente respecto de las Recomendaciones dictadas y del cumplimiento que a ellas se hubiese dado, pueden formular comentarios y observaciones a los mismos, pero no están facultados para dirigirle instrucciones específicas.
 
 ### Capítulo V. Del Consejo Consultivo
 
@@ -475,9 +521,13 @@ El Consejo Consultivo es un órgano colegiado de opinión sobre el desempeño de
 
 El Consejo Consultivo esta integrado por:
 
-l. Un Presidente, que es el Comisionado;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
-II. Un Secretario Técnico, que es el Secretario de la Comisión; y
+l. Un Presidente;
+
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+II. Un Secretario Técnico; y
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -535,25 +585,39 @@ El Consejo Consultivo tiene las facultades y obligaciones siguientes:
 
 l. Establecer las políticas y criterios que orienten al cumplimiento de los objetivos de la Comisión;
 
-II. Someter a consideración del Comisionado, mecanismos y programas que contribuyan al respeto, defensa, protección, promoción, estudio, investigación y divulgación de los derechos humanos;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+II. Someter a consideración de la o el Presidente, mecanismos y programas que contribuyan al respeto, defensa, protección, promoción, estudio, investigación y divulgación de los derechos humanos;
 
 III. Aprobar el Reglamento Interno y demás disposiciones tendentes a regular la organización y funcionamiento del Organismo;
 
 IV. Transmitir a la Comisión la percepción social sobre las actividades de la misma;
 
-V. Opinar sobre el proyecto de informe anual del Comisionado;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
-VI. Solicitar al Comisionado información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
+V. Opinar sobre el proyecto de informe anual de la o el Presidente;
 
-VII. Requerir, a propuesta del Comisionado, la participación con derecho a voz, pero sin voto, de invitados especiales y servidores públicos del Organismo, para coadyuvar en el ejercicio de sus funciones;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
 
-VIII. Analizar y, en su caso, aprobar las propuestas generales que le formule el Comisionado, para una mejor protección de los derechos humanos;
+VI. Solicitar a la o el Presidente información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
 
-IX. Opinar sobre los actos de dominio que pretenda realizar el Comisionado, en representación de la Comisión;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+VII. Requerir, a propuesta de la o el Presidente, la participación con derecho a voz, pero sin voto, de invitados especiales y servidores públicos del Organismo, para coadyuvar en el ejercicio de sus funciones;
+
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+VIII. Analizar y, en su caso, aprobar las propuestas generales que le formule la o el Presidente, para una mejor protección de los derechos humanos;
+
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+IX. Opinar sobre los actos de dominio que pretenda realizar la o el Presidente, en representación de la Comisión;
 
 X. Conocer el Presupuesto Anual de Egresos autorizado a la Comisión;
 
-XI. Conocer el informe del Comisionado, en relación al ejercicio anual del presupuesto;
+> <small>(REFORMADA, G.G. 30 DE MARZO DE 2011)</small>
+
+XI. Conocer el informe de la o el Presidente, en relación al ejercicio anual del presupuesto;
 
 XII. Conocer sobre la ampliación presupuestal no líquida de los recursos no ejercidos en el periodo de que se trate; y
 
@@ -565,17 +629,23 @@ Los Consejeros Ciudadanos recibirán una gratificación de asistencia, en funci�
 
 ### Capítulo VI. De las sesiones del Consejo Consultivo
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 48.
 
-El Consejo Consultivo, como órgano colegiado, debe celebrar cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias, cuando las convoque el Comisionado o por lo menos tres de sus miembros.
+El Consejo Consultivo, como órgano colegiado, debe celebrar cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias, cuando las convoque la o el Presidente o por lo menos tres de sus miembros.
+
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 49.
 
-Para que el Consejo Consultivo pueda sesionar válidamente, es necesaria la asistencia de la mayoría de sus integrantes, entre los que debe estar el Comisionado o quien legalmente deba suplirlo.
+Para que el Consejo Consultivo pueda sesionar válidamente, es necesaria la asistencia de la mayoría de sus integrantes, entre los que debe estar la o el Presidente o quien legalmente deba suplirlo.
+
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 50.
 
-El Consejo Consultivo debe tomar sus resoluciones por mayoría de votos, y en caso de empate, el Comisionado tiene voto de calidad.
+El Consejo Consultivo debe tomar sus resoluciones por mayoría de votos y, en caso de empate, la o el Presidente tiene voto de calidad.
 
 ## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS
 
@@ -829,9 +899,11 @@ Las Recomendaciones y las Resoluciones de no Responsabilidad, deben contener los
 
 En las Recomendaciones debe señalarse las medidas que procedan para la efectiva conservación y restitución a los afectados en sus derechos fundamentales y, en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 102.
 
-Los proyectos de Recomendación y las Resoluciones de no Responsabilidad deben ser turnados al Comisionado para su consideración final.
+Los proyectos de Recomendación y las Resoluciones de no Responsabilidad deben ser turnados a la o el Presidente para su consideración final.
 
 ###### Artículo 103.
 
@@ -1056,3 +1128,15 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
