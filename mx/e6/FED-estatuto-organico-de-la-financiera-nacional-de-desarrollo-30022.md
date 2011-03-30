@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-12-22"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2011.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -747,33 +747,17 @@ IV. Dirigir las funciones de análisis y evaluación del impacto de los diferent
 
 V. Dirigir las funciones vinculadas con la planeación estratégica de la institución;
 
+> <small>(ADICIONADA, D.O.F. 30 DE MARZO DE 2011)</small>
+
+V BIS. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados;
+
 VI. Dirigir los trabajos de evaluación interna y externa de los programas de apoyo sujetos a reglas de operación que se determinen en el Presupuesto de Egresos de la Federación y dar seguimiento a las recomendaciones que de dicha evaluación emanen, así como a la normatividad que en materia de evaluación de estos programas resulte aplicable; y
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
 VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
-
-ARTICULO 27 BIS.- Corresponde a la Subdirección Corporativa de Análisis Sectorial:
-
-I. Realizar el análisis del mercado objetivo de la Financiera Rural, o coordinar su elaboración a través de prestadores de servicios especializados, identificando áreas de oportunidad que permitan a la institución colaborar en el desarrollo del sector rural;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-II. Realizar el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural, o coordinar su elaboración a través de prestadores de servicios especializados;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-III. Realizar los trabajos de investigación que le sean encomendados en el ámbito de su competencia, o coordinar su elaboración a través de prestadores de servicios especializados;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-IV. Contribuir en las tareas relativas a la planeación estratégica de la institución o coadyuvar en la coordinación de la elaboración a través de prestadores de servicios especializados en la materia; y
-
-> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-V. Las demás funciones que le encomiende el Director Ejecutivo de Análisis Sectorial en el ámbito de su competencia.
+ARTICULO 27 BIS.- (DEROGADO, D.O.F. 30 DE MARZO DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -866,6 +850,40 @@ XVII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de 
 ###### ARTICULO 30.
 
 (DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
+
+> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 2011)</small>
+
+ARTICULO 30 BIS.- Corresponde a la Subdirección Corporativa de Comunicación Social y Enlace Institucional:
+
+I. Dirigir estrategias de comunicación externa e interna que promuevan los productos y servicios de la Financiera;
+
+II. Establecer políticas de comunicación interna;
+
+III. Dirigir el diseño y producción de los materiales gráficos que se requieran para los eventos en los que participe la Financiera;
+
+IV. Dirigir el diseño de aplicaciones gráficas que requieran las distintas direcciones de la Financiera;
+
+V. Dirigir la elaboración de campañas de comunicación en las que se promuevan los servicios y productos de la Financiera;
+
+VI. Informar al personal de Financiera (sic) sobre las campañas internas y externas;
+
+VII. Coordinar la elaboración y emisión de boletines y comunicados para medios de comunicación;
+
+VIII. Dirigir la relación con medios de comunicación para proveerles de información sobre los eventos, programas y servicios de la Financiera;
+
+IX. Coordinar la contratación de medios de comunicación para la difusión de campañas;
+
+X. Dar seguimiento a la información publicada en los medios de comunicación referente a la Financiera, así como al sector rural;
+
+XI. Elaborar un análisis diario que dé seguimiento a las notas informativas que se refieran a la Financiera en medios de comunicación;
+
+XII. Coordinar el seguimiento de la atención de las peticiones de información y aclaraciones solicitadas a la Financiera, por parte de los medios de comunicación sobre sus actividades;
+
+XIII. Dirigir la administración de los contenidos de la página de Internet e Intranet de la institución y coordinar su actualización con todas las áreas responsables de la información;
+
+XIV. Dirigir y supervisar la labor del Call Center Institucional; y
+
+XV. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2620,5 +2638,9 @@ D.O.F. 14 DE OCTUBRE DE 2010.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 22 DE DICIEMBRE DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MARZO DE 2011.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
