@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-74847
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2010-05-07"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACION Y USOS DEL SUELO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 7 de mayo de 2010.
 
@@ -2629,11 +2629,19 @@ h. Área de estacionamiento a razón de 1 cajón por cada 100 metros cuadrados d
 
 ### CAPÍTULO IV. DE LAS LICENCIAS DE CONSTRUCCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2011)</small>
+
 ###### Artículo 143.
 
-Para iniciar una construcción se requerirá previamente la obtención de una licencia de construcción que será expedida por la Secretaría.
+El inicio de toda construcción requiere el otorgamiento, por la autoridad competente, de la licencia correspondiente en los términos del artículo 135 de este Reglamento.
 
-Para confirmar el cumplimiento de la realización de la construcción conforme al proyecto autorizado, el titular de la licencia deberá tramitar ante la Secretaría, la terminación de la obra, antes de que esta sea utilizada.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2011)</small>
+
+Dentro de los treinta días naturales siguientes al de la terminación de la construcción, el titular de la licencia deberá tramitar la constancia de terminación correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2011)</small>
+
+La constancia de terminación de obra se expedirá por la autoridad competente, previa comprobación del cumplimiento total de las especificaciones contenidas en la licencia de construcción; satisfecho lo anterior, la constancia deberá entregarse por la autoridad competente al peticionario en un término que no exceda de 10 días hábiles.
 
 En el caso de obras que no constituyan edificaciones deberá hacerlo dentro del término de treinta días naturales después de su conclusión.
 
@@ -4512,3 +4520,17 @@ C. PRESIDENTE MUNICIPAL
 LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por modificación y adición al Reglamento de Zonificación y Usos del Suelo del municipio de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga
+
+el presente reglamento.
