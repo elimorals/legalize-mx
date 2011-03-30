@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2010-09-03"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -555,7 +555,9 @@ h) Tres Diputados de la H. Legislatura del Estado de México, integrantes de las
 
 i) El Procurador General de Justicia del Estado de México;
 
-j) El Comisionado de Derechos Humanos del Estado de México;
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
+j) La o el Presidente de la Comisión de Derechos Humanos del Estado de México;
 
 k) El Rector de la Universidad Autónoma del Estado de México;
 
@@ -794,3 +796,15 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
+
+G.G. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
