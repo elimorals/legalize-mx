@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-a-victimas-del-delito-para-el-estado-de-67704
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-23"
-last_updated: "2009-02-23"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 23 de febrero de 2009.
 
@@ -125,7 +125,7 @@ Para los efectos de la reparación del daño, cuando el ofendido del hecho delic
 
 ###### Artículo 9.
 
-La viíctima y ofendido tendrán, conforme a la presente Ley y sin perjuicio de lo dispuesto en otros ordenamientos legales, los derechos siguientes:
+La víctima y ofendido tendrán, conforme a la presente Ley y sin perjuicio de lo dispuesto en otros ordenamientos legales, los derechos siguientes:
 
 I. Recibir un trato comprensivo y de respeto a su dignidad, por parte de los servidores públicos de las instituciones responsables del cumplimiento de esta Ley;
 
@@ -399,7 +399,9 @@ c). El titular de la Procuraduría;
 
 d). El titular de la Dirección General del DIF Estatal; y
 
-e). El Comisionado de los Derechos Humanos del Estado.
+> <small>(REFORMADO, G.O. 30 DE MARZO DE 2011)</small>
+
+e). La o el Presidente de la Comisión de los Derechos Humanos del Estado de México.
 
 III. Un Secretario Técnico, que ejercerá las funciones que se determinen en esta Ley y la reglamentación respectiva, por un período de tres años.
 
@@ -622,3 +624,17 @@ SÉPTIMO.- Se abroga la Ley sobre Auxilio a las Víctimas del Delito publicada e
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
 Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México a los veintiséis días del mes de enero del año dos mil nueve.- Presidente.- Dip. Oscar Guillermo Ceballos González.- Secretarios.- Dip. Karla Leticia Fiesco García.- Dip. Carla Bianca Grieger Escudero.- Dip. Luis Antonio Guadarrama Sánchez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
