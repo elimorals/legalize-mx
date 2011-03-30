@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-civil-del-estado-de-chiapas-10341"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-05"
-last_updated: "1997-02-05"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION CIVIL PARA EL MANEJO INTEGRAL DE RIESGOS DE DESASTRES DEL ESTADO DE CHIAPAS, PUBLICADA EN LA TERCERA SECCION DEL P.O. DE 30 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 5 de febrero de 1997.
 
@@ -980,3 +982,19 @@ DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, EN LA CIUDAD DE TUXTLA 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS; A LOS CINCO DIAS DEL MES DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
 JULIO CESAR RUIZ FERRO.- GOBERNADOR DEL ESTADO.- ERACLIO ZEPEDA RAMOS.- SECRETARIO DE GOBIERNO.- GIOVANNI ZENTENO MIJANGOS.- SECRETARIO DE HACIENDA DEL ESTADO.- FROILAN ESQUINCA CANO.- SECRETARIO DE ECOLOGIA, RECURSOS NATURALES Y PESCA.- OSCAR CASTAÑON MORELL.- SECRETARIO DE DESARROLLO ECONOMICO.- PEDRO GONZALEZ VERA.- SECRETARIO DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.- MERCEDES CERDIO DE GUTIERREZ.- SECRETARIA DE DESARROLLO TURISTICO.- ISMAEL DE LEON ROBLERO.- SECRETARIO DE EDUCACION, ENCARGADO DE DESPACHO.- JACINTO ARIAS PEREZ.- SECRETARIO PARA LA ATENCION DE LOS PUEBLOS INDIGENAS.- ROBERTO COUTIÑO COUTIÑO.- SECRETARIO DE AGRICULTURA Y GANADERIA.- JUAN CARLOS GOMEZ ARANDA.- OFICIAL MAYOR DE GOBIERNO.- JOSE ALBERTO CANCINO GAMBOA.- SECRETARIO DE SALUD.- LUIS ENRIQUE PEREZ MOTA.- SECRETARIO DE DESARROLLO AGRARIO.- LIC. JORGE ENRIQUE HERNANDEZ AGUILAR.- PROCURADOR GENERAL DE JUSTICIA.- LIC. JUAN JOSE ZEPEDA BERMUDEZ.- CONTRALOR GENERAL DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2011.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los municipios dispondrán de un plazo de seis meses, a partir de la entrada en vigencia de esta Ley, para expedir el Reglamento Municipal correspondiente.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto.- Se abroga la Ley de Protección Civil del Estado de Chiapas, emitida mediante decreto número 146 y publicada en el Periódico Oficial número 0072 de fecha 5 de febrero de 1997.
+
+Artículo Quinto.- El Consejo Estatal de Protección Civil del Estado de Chiapas, deberá quedar instalado en un plazo no mayor a noventa días hábiles a la entrada en vigor de la presente Ley.
+
+Artículo Sexto.- El Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, deberá someter a consideración y aprobación del Consejo Estatal de Protección Civil, el reglamento de esta Ley en un plazo no mayor a sesenta días hábiles siguientes a la instalación de dicho órgano.
