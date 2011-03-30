@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-de-cultura-del-estado-18340"
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-10-04"
-last_updated: "2000-10-04"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE CULTURA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ORGANICO DEL INSTITUTO DE CULTURA DE MORELOS, PUBLICADA EN EL P.O. DE FECHA 30 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Estatuto publicado en el Periódico Oficial "Tierra y Libertad", el 04 de octubre de 2000.
 
@@ -426,3 +428,17 @@ VOCAL
 C. RAFAEL CAUDURO ALCANTARA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2011.
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Inscríbase el presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+TERCERO. Las dudas que se susciten sobre la interpretación, para efectos administrativos, presente Estatuto Orgánico, se resolverán por la Junta de Gobierno, de conformidad con lo dispuesto en los ordenamientos legales aplicables.
+
+CUARTO. Se abroga el Estatuto Orgánico del Instituto de Cultura del Estado de Morelos público en el Periódico Oficial "Tierra y Libertad" número 4080 de fecha cuatro de Octubre del año dos mil.
+
+QUINTO. Dentro del término de 60 días hábiles, siguientes a la entrada en vigor del presente Estatuto Orgánico, se deberán realizar y emitir las adecuaciones a los Manuales del Instituto.
