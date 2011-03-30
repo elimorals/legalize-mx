@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-02-09"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -829,7 +829,13 @@ XI.- Dictar leyes encaminadas a combatir el alcoholismo en cumplimiento de lo di
 
 XII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos y fijar las contribuciones con que haya de ser cubierto, en vista de los proyectos que el Ejecutivo presente. Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo establecido por la Ley, y en caso de que por cualquier circunstancia se omita fijar la remuneración, se entenderá señalada la que hubiere tenido el Presupuesto anterior o en la Ley que estableció el empleo;
 
-XIII.- Aprobar o desaprobar las solicitudes de empréstitos que gestione el Ejecutivo del Estado o los Municipios, y en su caso, autorizar o negar la contratación definitiva de dichos créditos, siempre y cuando sean para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos, salvo casos de emergencia previamente declarada;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2011)</small>
+
+XIII.- En materia de obligaciones y empréstitos:
+
+a) Legislar y establecer, observando las prohibiciones y limitaciones previstas por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, las bases conforme a las cuales el Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal, podrán contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas, así como fijar en las Leyes de Ingresos del Estado y de los Municipios los conceptos y montos respectivos.
+
+b) Autorizar, conforme a las bases establecidas en la legislación a que se refiere el párrafo anterior, al Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal, para la contratación de empréstitos o créditos; para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones o empréstitos; y para las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma lo requieran.
 
 XIV.- Aprobar o desaprobar cualquier otro compromiso por el que se afecte el Patrimonio del Estado o de los Municipios, siempre y cuando sea de notorio beneficio a la colectividad;
 
@@ -2889,7 +2895,7 @@ I.- Respetar y cumplir las Leyes;
 
 II.- Acrecentar el espíritu de solidaridad humana, respetar los valores cívicos y culturales y coadyuvar en las tareas de superación material y espiritual del pueblo chiapaneco;
 
-III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes.
+III.- Contribuir para los gastos públicos del Estado, de manera proporcional y equitativa que dispongan las leyes;
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
 
@@ -3926,3 +3932,9 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- La Comisión de Fiscalización Electoral deberá quedar integrada a más tardar el quince de enero de dos mil once y sesionar conforme a su nueva integración a más tardar al 31 de enero del mismo año.
 
 De la misma forma deberá adecuar sus estatutos y demás normatividad a los términos de este Decreto y las reformas a la ley de la materia.
+
+P.O. 30 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
