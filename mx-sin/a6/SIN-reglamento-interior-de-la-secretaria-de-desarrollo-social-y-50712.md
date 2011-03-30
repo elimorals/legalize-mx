@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-507
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2011-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y SUSTENTABLE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 31 de mayo de de 2006.
 
@@ -986,3 +988,13 @@ EL SECRETARIO DE LA CONTRALORÍA Y DESARROLLO ADMINISTRATIVO
 LIC. FLORENTINO CASTRO LÓPEZ
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y SUSTENTABLE, DEL GOBIERNO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE MARZO DE 2011.
+
+Artículo Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Articulo Segundo. Se deroga el Reglamento Interior de la Secretaría de Desarrollo Social y Sustentable, de fecha 12 de mayo de 2006, publicado en el Periódico Oficial "El Estado de Sinaloa", número 065, de fecha 31 del mismo mes y año, con excepción de lo relativo a la materia de Desarrollo Urbano.
+
+Artículo Tercero. Cada Director formulará dentro de un plazo de sesenta días contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, mismos que deberán ser sometidos a la consideración del Secretario.
