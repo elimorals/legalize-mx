@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-03-18"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2201,11 +2201,15 @@ Los puntos no previstos en la convocatoria respectiva, serán resueltos conjunta
 
 Artículo 147 G.- La Comisión de Derechos Humanos del Estado de México notificará al ayuntamiento la declaratoria de Terna y éste lo comunicará a los aspirantes propuestos, a fin de que en la siguiente sesión ordinaria de cabildo, expongan su propuesta de plan de trabajo. Serán los integrantes del ayuntamiento quienes en cabildo decidan la designación del Defensor Municipal de Derechos Humanos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+
+Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente la o el Presidente de la Comisión de Derechos Humanos del Estado de México o quien lo represente.
+
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
-Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente el Comisionado de los Derechos Humanos o quien lo represente.
-
 La Secretaría del ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión de Derechos Humanos del Estado de México copia certificada del acta de la sesión de cabildo correspondiente al nombramiento.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
 El Defensor Municipal de Derechos Humanos estará sujeto al régimen de responsabilidades de los servidores públicos, previsto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
 
@@ -2309,11 +2313,9 @@ Artículo 147 M.- El Defensor Municipal de Derechos Humanos ejercerá el presupu
 
 Para tal efecto, el ayuntamiento anualmente deberá incluir en su presupuesto de egresos, las partidas correspondientes a la operatividad de la Defensoría Municipal de Derechos Humanos.
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
 
-Artículo 147 N.- El Defensor Municipal de Derechos Humanos, rendirá un informe anual de actividades al ayuntamiento reunido en Sesión Solemne de Cabildo, debiendo asistir el Comisionado de Derechos Humanos de la entidad o quien lo represente.
-
-El Defensor Municipal de Derechos Humanos deberá entregar en dicha reunión el informe respectivo al Comisionado de Derechos Humanos del Estado de México, o en su caso a quien lo represente en la misma.
+Artículo 147 N.- El Defensor Municipal de Derechos Humanos presentará por escrito al ayuntamiento, un informe anual sobre las actividades que haya realizado en el periodo inmediato anterior, del que turnará copia a la Comisión de Derechos Humanos de la entidad.
 
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3174,3 +3176,15 @@ QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la c
 SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días contados a partir de la publicación del presente Decreto.
 
 SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
