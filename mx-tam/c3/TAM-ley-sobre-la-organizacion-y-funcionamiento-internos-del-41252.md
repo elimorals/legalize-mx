@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-03-16"
+last_updated: "2011-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -553,11 +553,15 @@ Para el desarrollo de tareas específicas de la competencia constitucional del C
 
 a) De Puntos Constitucionales, a cargo de los asuntos que impliquen adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado.
 
-b) De Patrimonio Estatal y Municipal, a cargo de los asuntos que entraña solicitud de autorización para disponer del patrimonio inmueble y mueble de las haciendas del Estado y de los Municipios.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2011)</small>
+
+b) De Patrimonio Estatal y Municipal, a cargo de los asuntos que entrañan solicitud de autorización para disponer del patrimonio inmueble de las haciendas del Estado y de los Municipios.
 
 c) De Asuntos Municipales, a cargo de analizar las iniciativas y propuestas inherentes a las funciones constitucionales de los Ayuntamientos, actuando por sí o de consuno con otras comisiones, según se acuerde por el presidente de la Mesa Directiva.
 
-d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo, de consuno con la o las comisiones que por su denominación tengan competencia en la materia.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2011)</small>
+
+d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo.
 
 e) De Vigilancia de la Auditoría Superior del Estado, a cargo de las tareas que derivan de la Constitución Política del Estado y de la Ley de Fiscalización Superior del Estado en torno a dicho órgano técnico.
 
@@ -2370,3 +2374,9 @@ P.O. 16 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
