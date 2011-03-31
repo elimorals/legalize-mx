@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-12-31"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -642,7 +642,9 @@ XIX. A la Secretaría de Desarrollo Rural y Equidad para las Comunidades:
 
 1.- Dirección General de Desarrollo Rural; y
 
-2.- Dirección General de Equidad para los Pueblos Indígenas y Comunidades Étnicas.
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2011)</small>
+
+2.- Dirección General de Equidad para los Pueblos y Comunidades;
 
 ###### Artículo 8º.
 
@@ -9264,13 +9266,17 @@ DE LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES.
 
 Artículo 119 Decimus.- Corresponde a la Dirección General de Desarrollo Rural:
 
-I. Proponer las políticas y programas en materia de promoción y fomento agrícola, agropecuario y de turismo alternativo en el ámbito rural, con apego a los criterios, lineamientos y demás disposiciones aplicables en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2011)</small>
+
+I. Proponer las políticas y programas en materia de promoción y fomento agrícola, pecuario y piscícola en el ámbito rural, con apego a los criterios, lineamientos y demás disposiciones aplicables en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente;
 
 II. Promover y conducir los programas de capacitación y desarrollo tecnológico para el sector rural;
 
 III. Promover el empleo en el medio rural de la Ciudad de México, en coordinación con la Secretaría de Trabajo y Fomento al Empleo;
 
-IV. Promover y ejecutar los programas y acciones que tiendan a fomentar la productividad y rentabilidad de las actividades que se desarrollen en el medio rural;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2011)</small>
+
+IV. Promover y ejecutar los programas y acciones que tiendan a fomentar la productividad y rentabilidad de las actividades agrícolas, pecuarias, piscícolas y agroindustriales que se desarrollen en el medio rural, así como para el rescate y producción sustentable de cultivos nativos, particularmente el maíz, nopal y amaranto;
 
 V. Promover la integración de asociaciones rurales de la Ciudad de México;
 
@@ -9292,9 +9298,11 @@ XIII. Realizar, con la participación de la Secretaría del Medio Ambiente del D
 
 XIV. Coordinar la operación y aprovechamiento de los fondos que, en materia agropecuaria, se constituyan;
 
-XV. Promover y fomentar la vinculación entre el productor rural y el sector comercial, comercio al detalle, así como la venta directa del productor rural al consumidor;
+XV. (DEROGADA, G.O. 31 DE MARZO DE 2011)
 
-XVI. Promover y fomentar la creación de empresas agroindustriales, de turismo alternativo, artesanales, comerciales y de servicios en el Distrito Federal, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XVI. Promover y fomentar la creación de empresas agroindustriales, así como el desarrollo de nuevas tecnologías de producción agropecuaria en el Distrito Federal, con apego a las disposiciones ambientales y demás aplicables;
 
 XVII. Promover, en coordinación con la Secretaría del Medio Ambiente del Distrito Federal y las demás autoridades competentes, actividades productivas sustentables en la zona rural del Distrito Federal;
 
@@ -9306,33 +9314,55 @@ XX. Promover obras de infraestructura en el ámbito rural con apego a la legisla
 
 XXI. Formular, evaluar y ejecutar políticas vinculadas a la actividad agropecuaria y piscícola en el Distrito Federal; y
 
-XXII. Participar en la formulación de políticas y programas para el desarrollo, promoción y fomento del turismo alternativo en suelo de conservación del Distrito Federal, de conformidad con lo que establezcan las Secretarías de Turismo y de Desarrollo Rural y Equidad para las Comunidades;
+XXII. (DEROGADA, G.O. 31 DE MARZO DE 2011)
 
 El ejercicio de las atribuciones conferidas a la Dirección General de Desarrollo Rural, se llevará a cabo atendiendo a las disposiciones ambientales y demás que resulten aplicables.
 
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2011)</small>
 
-Artículo 119 Undecimus.- Corresponde a la Dirección General de Equidad para los Pueblos Indígenas y Comunidades Étnicas:
+Artículo 119 Undecimus.- Corresponde a la Dirección General de Equidad para los Pueblos y Comunidades:
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 I. Promover la adecuación de los planes, programas y proyectos que lleven a cabo las dependencias y entidades de la administración pública del Distrito Federal, para que atiendan a la población indígena y las comunidades étnicas del Distrito Federal;
 
-II. Desarrollar planes, programas y proyectos que promuevan el ejercicio de los derechos específicos de los pueblos y comunidades indígenas del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2011)</small>
+
+II. Desarrollar políticas, programas y proyectos que promuevan el ejercicio de los derechos de los pueblos y comunidades indígenas y originarios en el Distrito Federal, y que fomenten especialmente la interculturalidad, la medicina tradicional y herbolaria, los derechos lingüísticos y el patrimonio cultural;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 III. Desarrollar programas que promuevan la educación cívica y de cultura de la legalidad, enfocados a prevenir y erradicar conductas discriminatorias por razones étnicas;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 IV. Participar, desarrollar y organizar foros, seminarios y congresos nacionales e internacionales e impartir cursos y programas de capacitación sobre asuntos indígenas, étnicos, de diversidad cultural e interculturalidad del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 V. Concertar acciones con los sectores social y privado y a las organizaciones nacionales e internacionales, para que coadyuven en la realización de acciones en beneficio de los indígenas;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 VI. Promover la participación, coordinación, colaboración e información entre las instituciones públicas y privadas en acciones que la Administración Pública del Distrito Federal ejecute en materia de pueblos indígenas y comunidades étnicas;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 VII. Promover la realización de estudios, investigaciones y diagnósticos relacionados con la presencia y derechos de la población indígena y las comunidades étnicas en la Ciudad de México, así como brindar asesoría a las dependencias en materia indígena y étnica;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 VIII. Promover la elaboración, publicación y distribución de material informativo y formativo sobre temas indígenas y étnicos;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 IX. Proponer la celebración de acuerdos, convenios y acciones de concertación con los sectores público, social y privado, que contribuyan a la realización de acciones dirigidas a mejorar la calidad de vida de los indígenas en el Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
+
 X. Establecer los canales para fomentar el intercambio económico y cultural con las comunidades étnicas del Distrito Federa;
+
+> <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
 XI. Promover la difusión de las distintas manifestaciones artísticas y culturales de las comunidades étnicas.
 
@@ -14355,3 +14385,11 @@ G.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO.-Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
