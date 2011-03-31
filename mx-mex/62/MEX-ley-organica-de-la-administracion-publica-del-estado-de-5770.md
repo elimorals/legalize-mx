@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2011-03-08"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -677,7 +677,7 @@ XXVII. Adquirir, con sujeción a las bases y procedimientos relativos, el equipo
 
 XXVIII. Participar en el establecimiento y expedición, en coordinación con las dependencias competentes del Ejecutivo Estatal, de las bases y normas a las que deben sujetarse los concursos para la ejecución de obras del sector salud; y
 
-Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
+XXIX. Las demás que señalen las leyes, reglamentos y disposiciones en la materia.
 
 > <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -919,41 +919,43 @@ La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y ad
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y ejecutar los programas de infraestructura vial primaria;
+I.- Formular y ejecutar los programas de infraestructura vial primaria;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 II.- Formular y ejecutar los planes y programas de comunicaciones de jurisdicción local, en los que se incluyen los relativos a sistemas de transporte masivo o de alta capacidad;
 
-III. Emitir el dictamen de incorporación e impacto vial tratándose de las autorizaciones de impacto regional;
+III.- Emitir el dictamen de incorporación e impacto vial tratándose de las autorizaciones de impacto regional;
 
-IV. Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
+IV.- Expedir normas técnicas a que debe sujetarse el establecimiento y operación de la infraestructura vial primaria y las comunicaciones de jurisdicción local;
 
-V. Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
+V.- Vigilar el cumplimiento de las disposiciones legales en materia de infraestructura vial primaria y de comunicaciones de jurisdicción local, con la intervención que corresponda a otras autoridades;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 VI.- Operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial primaria y a las comunicaciones de jurisdicción local de su competencia, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos;
 
-VII. Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
+VII.- Ejecutar acciones técnicas de seguimiento, evaluación y control de avance, calidad y demás características de las obras a que se refiere la fracción anterior, sin perjuicio de la intervención que en tales materias corresponda a otras dependencias;
 
-VIII. Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota, ejerciendo los derechos de rescate y reversión;
+VIII.- Otorgar, modificar, revocar o dar por terminadas las concesiones, permisos o autorizaciones para la construcción, ampliación, rehabilitación, mantenimiento, administración y operación de la infraestructura vial primaria de cuota, ejerciendo los derechos de rescate y reversión;
 
-IX. Administrar las vías de cuota a cargo del Estado de México;
+IX.- Administrar las vías de cuota a cargo del Estado de México;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
 X.- Establecer disposiciones de carácter general para el uso de la infraestructura vial primaria y de las comunicaciones de jurisdicción local;
 
-XI. Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
+XI.- Realizar por sí o a través de particulares la construcción, ampliación, mantenimiento, administración y operación de paradores para facilitar el uso de la infraestructura vial primaria por los servicios de carga;
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
-XII. Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
+XII.- Sancionar el incumplimiento de obligaciones por parte de los titulares de concesiones, permisos o autorizaciones en materia de infraestructura vial primaria, paradores y de comunicaciones de jurisdicción local;
 
-XIII. Realizar las tareas relativas a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
+XIII.- Realizar las tareas relativas a la ingeniería vial y señalamiento de la infraestructura vial primaria, coordinándose con las autoridades municipales respecto de la integración de la infraestructura vial local con la infraestructura vial primaria;
 
-XIV. Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XIV.- Planear, supervisar, controlar y evaluar las funciones de la Junta de Caminos del Estado de México, del Sistema de Transporte Masivo del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -961,7 +963,7 @@ XV.- Expedir las bases a que deben sujetarse los concursos públicos para el oto
 
 > <small>(F. DE E., P.O. 18 DE SEPTIEMBRE DE 2002)</small>
 
-XVI. Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
+XVI.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -969,7 +971,7 @@ XVII.- Promover y organizar la capacitación, investigación y el desarrollo tec
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Comunicaciones,
+XVIII.- Normar, organizar, integrar, operar y actualizar el Registro Estatal de Comunicaciones;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -979,9 +981,13 @@ XIX.- Participar con los gobiernos federal y de otras entidades federativas, en 
 
 XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a estaciones de transferencia modal para los sistemas de transporte masivo o de alta capacidad, directamente o a través de particulares, mediante el otorgamiento de concesiones o contratos;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-XXI.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XXI.- Determinar el uso restringido de la infraestructura vial;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XXII.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1053,7 +1059,13 @@ XXIV. Emitir dictámenes técnicos para cuantificar el daño causado al ambiente
 
 XXV. Aplicar las sanciones previstas en las disposiciones legales de la materia y promover la aplicación de las que corresponda a otras autoridades.
 
-XXVI. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XXVI. Determinar el uso restringido de la infraestructura vial.
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
@@ -1065,13 +1077,13 @@ A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
 I. Formular y ejecutar programas y acciones para el desarrollo del transporte y sus servicios conexos;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-II. Otorgar, modificar, revocar, rescatar, revertir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
+II. Otorgar, modificar, revocar, rescatar, sustituir o dar por terminadas las concesiones para la prestación del servicio público de pasajeros colectivo, individual, mixto, y el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento, con excepción del transporte masivo o de alta capacidad. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma; con excepción del transporte masivo o de alta capacidad;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-III. Otorgar, modificar, cancelar, revocar, rescatar, revertir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
+III. Otorgar, modificar, cancelar, revocar, rescatar, sustituir o dar por terminados los permisos para la prestación de servicios de transporte de pasajeros, de carga y de arrastre y traslado; de servicios conexos; y para la instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos; con excepción del transporte masivo o de alta capacidad;
 
 IV. Autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos afectos al servicio público de transporte;
 
@@ -1115,15 +1127,19 @@ XVI. Expedir las placas de matriculación, calcomanías, tarjetas de circulació
 
 XVII. Otorgar las licencias, permisos y autorizaciones que le correspondan para conducir vehículos automotores destinados al transporte en sus diversas clases y modalidades;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-XVIII. Concesionar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento; así como modificar, revocar, rescatar, revertir o dar por terminadas las mismas. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+XVIII. Aprobar la implementación y operación del servicio de pago tarifario anticipado para el acceso de la población al servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
 
-XIX. Concesionar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la (sic) modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su otorgamiento; así como modificar, revocar, rescatar, revertir o dar por terminadas las mismas. El proceso de otorgamiento será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
+XIX. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la (sic) modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE MARZO DE 2011)</small>
+
+XX. Definir, en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 XX. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
@@ -1962,3 +1978,37 @@ G.G. 8 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
