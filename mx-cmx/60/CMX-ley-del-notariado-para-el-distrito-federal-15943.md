@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-notariado-para-el-distrito-federal-15943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-28"
-last_updated: "2007-05-15"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-02-14"
 
 LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 28 de marzo de 2000.
 
@@ -98,11 +98,25 @@ XVII. "Ley Orgánica": La Ley Orgánica de la Administración Pública del Distr
 
 XVIII. "Notariado": El Notariado del Distrito Federal o Notariado de la Ciudad de México bajo el sistema del Notariado Latino;
 
-XIX. "Registro Público": El Registro Público de la Propiedad y de Comercio del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XIX. “Registro Público”: El Registro Público de la propiedad Inmueble; y el Registro Público de las Personas Morales ambos del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 25 DE ENERO DE 2006)</small>
 
-XX. “Registro Nacional de Testamentos”.- A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación.
+XX. “Registro Nacional de Testamentos”: A la Dirección del Registro Nacional de Avisos de Testamento, dependiente de la Dirección General de Compilación y Consulta del Orden Jurídico Nacional de la Secretaría de Gobernación;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XXI. “Entes Públicos”: Los órganos Ejecutivo, Legislativo, Judicial y autónomos del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XXII. “Certificado Electrónico”: el documento firmado electrónicamente por un prestador de servicios de certificación que vincula los datos de firma de su autor y confirma su identidad;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XXIII. “Firma Electrónica Notarial”: “Firma Electrónica Notarial”: (sic) La firma electrónica en términos de la Ley de la Firma Electrónica del Distrito Federal, asignada a un notario de esta entidad con motivo de sus funciones, con igual valor jurídico que su firma autógrafa y su sello de autorizar, en términos de la normatividad aplicable.
 
 ###### Artículo 3.
 
@@ -118,9 +132,11 @@ Su imparcialidad y probidad debe extenderse a todos los actos en los que interve
 
 Corresponde al Jefe de Gobierno la facultad de expedir las patentes de notario y de aspirante a notario, conforme a las disposiciones contenidas en la presente ley.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 5.
 
-A las autoridades competentes del Distrito Federal les corresponde aplicar la presente ley y vigilar su debido cumplimiento.
+A las autoridades competentes del Distrito Federal les corresponde aplicar la presente ley y vigilar su debido cumplimiento. Las citadas autoridades se auxiliarán de la Unidad de Firma Electrónica de la Contraloría General del Distrito Federal únicamente tratándose del uso de la firma electrónica notarial en términos del Código Civil para el Distrito Federal, de esta Ley, de la Ley de Firma Electrónica del Distrito Federal y de las demás disposiciones aplicables
 
 ###### Artículo 6.
 
@@ -704,9 +720,13 @@ II. Proveerse a su costa de protocolo y sello, registrar su firma y rúbrica, an
 
 III. Establecer una oficina para el desempeño de su función dentro del territorio del Distrito Federal e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
 
-IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y
+IV. Dar aviso de lo anterior a las autoridades competentes y al Colegio; señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo, y (sic)
 
-V. Ser miembro del Colegio.
+V. Ser miembro del Colegio;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+VI. Obtener y mantener vigente un certificado de firma electrónica notarial en términos de la Ley de Firma Electrónica del Distrito Federal y las demás disposiciones aplicables.
 
 La autoridad competente publicará la iniciación de funciones de los notarios en la Gaceta sin costo para el notario.
 
@@ -1236,7 +1256,9 @@ Para la práctica de cualquier diligencia de las previstas en el artículo 128 d
 
 Aunque el requirente original deje de tener interés en los hechos para cuya constancia solicitó la intervención del notario, este deberá permanecer en el lugar, y hacer constar los mismos, si otro interesado presente se lo solicita expresamente, y le cubre o acuerdan previamente el pago de los honorarios correspondientes.
 
-C. TESTIMONIOS, COPIAS CERTIFICADAS Y CERTIFICACIONES
+> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE MARZO DE 2011)</small>
+
+C. TESTIMONIOS, COPIAS CERTIFICADAS, COPIAS CERTIFICADAS ELECTRÓNICAS Y CERTIFICACIONES
 
 ###### Artículo 143.
 
@@ -1268,9 +1290,11 @@ Los Notarios al expedir los testimonios deberán tomar las medidas de seguridad 
 
 Al final de cada testimonio se hará constar si es el primero, segundo o ulterior ordinal; el número que le corresponde de los expedidos al solicitante, el nombre de éste y el título por el que se le expide, así como las páginas de que se compone el testimonio. El notario lo autorizará con su firma y sello.
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 150.
 
-El Notario tramitará el registro de cualquiera de los testimonios que expida ante el Registro Público, cuando el acto sea inscribible y el Notario hubiere sido requerido y expensado para ello, tomando en cuenta al respecto el artículo 16 de esta Ley.
+El notario tramitará el registro de cualquiera de los testimonios que expida o de una copia certificada electrónica ante el Registro Público, cuando el acto sea inscribible y el Notario hubiere sido requerido y expensado para ello, tomando en cuenta el artículo 16 de esta Ley.
 
 ###### Artículo 151.
 
@@ -1306,6 +1330,64 @@ III. Para remitirlas a la autoridad judicial que ordene dicha expedición.
 
 IV. Para entregar al otorgante que la solicite, la reprodución (sic) de alguno o algunos de los documentos que obren en el apéndice.
 
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Bis.
+
+Copia certificada electrónica es la reproducción total o parcial de una escritura o acta, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno de estos, que el Notario expide únicamente en soporte electrónico y que autoriza mediante la utilización de su firma electrónica notarial. La copia certificada electrónica que el notario autorice será un documento notarial válido jurídicamente y se considerará con valor equivalente a los testimonios previstos en esta Ley para efectos de inscripción en las instituciones registrales.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Ter.
+
+Las copias certificadas electrónicas de las escrituras o actas ya autorizadas en el protocolo de un notario podrán remitirse de manera telemática únicamente con la firma electrónica notarial del mismo notario que las autorizó o del que legalmente lo sustituya en los instrumentos originales que constan en el protocolo.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Quáter.
+
+El notario expedirá las copias certificadas electrónicas sólo para lo siguiente:
+
+I. Para acompañar declaraciones, manifestaciones o avisos de carácter administrativo o fiscal, si las leyes o reglamentos aplicables lo disponen;
+
+II. Para obtener la inscripción de escrituras y actas que se otorguen ante su fe con sus respectivos apéndices en el Registro Público o en otros Registros o en cualquier otro caso en los que su presentación sea obligatoria;
+
+III. Para acompañar informes solicitados por autoridad legalmente facultada para requerirlos;
+
+IV. Para remitir copias auténticas de instrumentos públicos autorizados por el notario y solicitadas u ordenadas por la autoridad judicial;
+
+En los casos a que se refiere la fracción II de este artículo el notario asentará una nota complementaria que contendrá la fecha de expedición, el número de páginas de que conste la copia, así como para quién se expide y a qué título. Las constancias sobre los asientos de inscripción puestas por los Registros Públicos en el acuse electrónico, serán relacionadas por el notario en una nota complementaria del instrumento con rúbrica del notario. En los casos a que se refieren las fracciones III y IV de este artículo, el notario deberá hacer constar, tanto en una nota complementaria como en la razón de certificación respectiva, la autoridad que ordenó la expedición de la copia certificada electrónica, así como el número del expediente en que ella actúa y el número y fecha del oficio correspondiente.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Quinquies.
+
+Las copias certificadas electrónicas sólo serán válidas para la concreta finalidad para la que fueron expedidas, lo que deberá hacerse constar expresamente en cada copia emitida. Se considera que el notario no viola el secreto profesional al expedir una copia certificada electrónica para alguno de los destinatarios mencionados en esta Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Sexies.
+
+Los Entes Públicos están obligados a aceptar las copias certificadas electrónicas como si se tratase de copias certificadas en soporte papel autorizadas con firma autógrafa y sello de autorizar del notario del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Septies.
+
+Los notarios no podrán expedir copias simples en soporte electrónico.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Octies.
+
+La coincidencia de la copia certificada electrónica con el original matriz y los documentos agregados al apéndice, será responsabilidad del notario que la expide electrónicamente.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 154 Nonies.
+
+Los registradores del Registro Público y de otros Registros, los servidores públicos, así como los jueces y magistrados de los órganos jurisdiccionales, podrán, bajo su responsabilidad, imprimir en papel las copias certificadas electrónicas que hubiesen recibido, con la única finalidad de incorporarlas a los expedientes o archivos que correspondan por razón de su oficio en el ámbito de su respectiva competencia y harán constar igualmente en una certificación ese hecho.
+
 ###### Artículo 155.
 
 Certificación notarial es la relación que hace el Notario de un acto o hecho que obra en su protocolo, en un documento que él mismo expide o en un documento preexistente, así como la afirmación de que una transcripción o reproducción coincide fielmente con su original; comprendiéndose dentro de dichas certificaciones las siguientes:
@@ -1320,9 +1402,11 @@ IV. La razón de existencia de uno o varios documentos que se le exhiban, para a
 
 ### CAPÍTULO III. DE LOS EFECTOS, VALOR Y DE LA PROTECCIÓN DE EFECTOS DEL INSTRUMENTO PÚBLICO NOTARIAL
 
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 156.
 
-En tanto no se declare judicialmente la falsedad o nulidad de un instrumento, registro, testimonio o certificación notariales, estos serán prueba plena de que los otorgantes manifestaron su voluntad de celebrar el acto consignado en el instrumento de que se trate, que hicieron las declaraciones que se narran como suyas, así como de la verdad y realidad de los hechos de los que el Notario dio fe tal como los refirió y de que observó las formalidades correspondientes.
+En tanto no se declare judicialmente la falsedad o nulidad de un instrumento, registro, testimonio, copia certificada, copia certificada electrónica o certificación notariales, estos serán prueba plena de que los otorgantes manifestaron su voluntad de celebrar el acto consignado en el instrumento de que se trate, que hicieron las declaraciones que se narran como suyas, así como de la verdad y realidad de los hechos de los que el Notario dio fe tal como los refirió y de que observó las formalidades correspondientes.
 
 ###### Artículo 157.
 
@@ -1379,6 +1463,12 @@ I. Cuando el original correspondiente lo sea;
 II. Si el Notario no se encuentra en ejercicio de sus funciones al expedir la reproducción de que se trate o la expida fuera del Distrito Federal, y
 
 III. Cuando dicha reproducción no tenga la firma o sello del notario.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 163 Bis.
+
+La copia certificada electrónica será nula en los dos primeros supuestos del artículo 163 o si al momento de expedición el notario no tiene vigente el registro de su firma electrónica notarial en términos del Código Civil para el Distrito Federal, esta Ley y de la Ley de firma electrónica para el Distrito Federal.
 
 ###### Artículo 164.
 
@@ -1896,11 +1986,11 @@ III. Reconocer la validez del acto impugnado.
 
 Disposiciones Generales
 
-> <small>(REFORMADO, G.O. 25 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 235.
 
-El Registro Público, el Archivo, el Colegio, el Decanato y el Registro Nacional de Testamentos, son instituciones que apoyan al notariado del Distrito Federal en beneficio de la seguridad y certeza jurídicas que impone el correcto ejercicio de la fe pública.
+El Registro Público, el Archivo, el Colegio, el Decanato y el Registro Nacional de Avisos de Testamento, la Coordinación Especializada en Materia de Voluntad Anticipada, son instituciones que apoyan al Notariado del Distrito Federal en beneficio de la seguridad y certeza jurídicas que impone el correcto ejercicio de la fe pública. Los notarios del Distrito Federal podrán comunicarse oficialmente de manera ordinaria con estas instituciones haciendo uso de su firma electrónica notarial en términos de esta ley, la cual tendrá equivalencia a la firma autógrafa y al sello de autorizar del notario. El uso de la firma electrónica notarial podrá extenderse a las dependencias federales y locales en los casos y términos que así lo determinen las leyes correspondientes.
 
 ### CAPÍTULO I. DEL ARCHIVO GENERAL DE NOTARÍAS DEL DISTRITO FEDERAL
 
@@ -2118,7 +2208,11 @@ XXXII. Organizar y vigilar el cumplimiento de los turnos de operaciones que indi
 
 XXXIII. Recibir los avisos, realizar internamente los registros y desempeñar las funciones que directamente le atribuya esta ley;
 
-XXXIV. Las demás que prevenga esta ley y demás disposiciones relativas, así como las que prevengan los estatutos del Colegio.
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XXXIV. Promover entre sus agremiados el uso de las nuevas tecnologías en materia informática, especialmente, la utilización de la firma electrónica notarial;
+
+XXXV. Las demás que prevenga esta ley y demás disposiciones relativas, así como las que prevengan los estatutos del Colegio.
 
 ###### Artículo 250.
 
@@ -2349,3 +2443,11 @@ SEGUNDO.- Las presentes reformas entrarán en vigor a los treinta días naturale
 G.O. 15 DE MAYO DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los entes públicos, adoptarán las medidas administrativas necesarias para dar cumplimiento a lo dispuesto en el artículo 154 Sexies y 235 del presente Decreto, conforme a su disponibilidad de recursos humanos, materiales, económicos y tecnológicos.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
