@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2010-12-16"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "TAM"
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+
+N DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -3083,7 +3085,7 @@ Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segund
 
 ###### ARTICULO 389.
 
-Cuando el juez no cumpliere con lo prevenido en el Artículo anterior, el interesado podrá ocurrir por escrito dentro de un plazo de cinco días al Supremo Tribunal, haciendo relación del auto de que hubiere apelado, expresando la fecha en que se le hubiere hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción hubiere recaído, solicitando que se libre la orden al Juez para que proceda como lo manda el Artículo anterior.
+Cuando el juez no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito dentro de un plazo de cinco días al Supremo Tribunal, haciendo relación del auto de que hubiere apelado, expresando la fecha en que se le hubiere hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción hubiere recaído, solicitando que se libre la orden al Juez para que proceda como lo manda el Artículo anterior.
 
 ###### ARTICULO 390.
 
