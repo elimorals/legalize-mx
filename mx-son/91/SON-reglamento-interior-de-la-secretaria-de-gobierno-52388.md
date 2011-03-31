@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-gobierno-52388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-03"
-last_updated: "2010-10-25"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, PUBLICADO EN EL B.O. DE 31 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I al Boletín Oficial del Estado de Sonora, el viernes 3 de noviembre de 2006.
 
@@ -1010,3 +1012,17 @@ El presente Reglamento Interior entrará en vigor al día siguiente de su public
 ###### ARTÍCULO SEGUNDO.
 
 Los manuales de organización, de procedimientos y, en su caso, de servicios al público de la Secretaría, deberán actualizarse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, asimismo el titular de la dependencia queda facultado para resolver las cuestiones que se presenten, en tanto se expidan los mencionados manuales administrativos.
+
+B.O. 31 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Gobierno publicado en el Boletín Oficial del Gobierno del Estado, número 36, Sección I del día 3 de noviembre de 2006, así como sus reformas publicadas en los ejemplares del Boletín Oficial del Gobierno del Estado identificados con número 24, Sección I del 20 de septiembre de 2007, número 17, Sección VII del 28 de agosto de 2008, número 9, Sección IV del 29 de enero de 2009, número 34, Sección III del 25 de Octubre de 2010 y demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público, deberán expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, asimismo el titular de la dependencia queda facultado para resolver las cuestiones que se presenten, en tanto se expidan los mencionados manuales administrativos.
