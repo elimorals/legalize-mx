@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2011-03-25"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -359,7 +359,17 @@ XXXVIII. Interpretar y aplicar en el ámbito de su competencia las disposiciones
 
 XXXIX. Nombrar a los titulares de las direcciones y unidades administrativas de la Secretaría, así como al Procurador Fiscal del Estado; y
 
-XL. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XL. Dar contestación a las solicitudes de colaboración al titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tengan por objeto realizar las investigaciones para determinar el domicilio de quien ejerza la patria potestad de un menor puesto a disposición de aquélla o acogido por una institución de asistencia pública o privada; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XLI. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
 
 ### Capítulo Cuarto. De la Secretaría de la Contraloría
 
@@ -994,3 +1004,19 @@ Artículo Séptimo. Las referencias al Instituto Queretano de la Juventud que ha
 Artículo Octavo. El presupuesto vigente aprobado para el Instituto Queretano de la Juventud, será asignado a la Secretaría de la Juventud, quedando autorizada la Secretaría de Planeación y Finanzas para que en términos de los artículos 68, 70, 71 y demás relativos de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, realice las transferencias que resulten necesarias, a efecto de que la Secretaría de la Juventud cuente con los recursos suficientes para el desarrollo de sus objetivos y programas, sin necesidad de tramitar la modificación al Presupuesto aprobado por la Quincuagésima Sexta Legislatura del Estado de Querétaro.
 
 Artículo Noveno. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 31 DE MARZO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor, sesenta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, contará con sesenta días naturales, contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", para crear o, en su caso, modificar y publicar las disposiciones reglamentarias necesarias para el cumplimiento de la presente Ley.
+
+Artículo Tercero. Las adopciones que se encuentren en trámite a la fecha de inicio de vigencia de esta Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la presente Ley.
+
+No obstante lo anterior, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del adoptante de obtener la adopción en los términos de la presente Ley, podrá seguirse el procedimiento previsto para ello en este cuerpo legal.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a la adopción en los términos de la presente Ley, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+
+Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
