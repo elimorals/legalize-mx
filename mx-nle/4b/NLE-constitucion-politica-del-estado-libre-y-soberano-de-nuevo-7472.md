@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2011-03-30"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 30 DE MARZO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1765,7 +1763,9 @@ f) Rastro;
 
 g) Calles, parques y jardines y su equipamiento;
 
-h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito. La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público; e
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía municipal y tránsito. La policía municipal estará al mando del Presidente Municipal, en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; e
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -2259,13 +2259,17 @@ A ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna. Nad
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado, que la Ley señale como delito, sancionado cuando menos con pena privativa de libertad, y existan datos que acrediten los elementos que integran el cuerpo del delito y la probable responsabilidad del indiciado.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad, y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
 La autoridad que ejecute una orden judicial de aprehensión, deberá poner al indiciado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la Ley Penal.
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta, con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
 
 Sólo en casos urgentes, cuando se trate del delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
@@ -2273,9 +2277,19 @@ En casos de urgencia o flagrancia, el Juez que reciba la consignación del deten
 
 Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la Ley Penal.
 
-En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose, al concluirla, una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
-Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales.
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose, al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales y cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+El Poder Judicial contará con jueces de control que resolverán, en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
 La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
 
@@ -2287,33 +2301,45 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Cuando el Estado o sus Municipios, con motivo de su actividad administrativa pública, causen un daño o perjuicio en los bienes de los particulares o afecten sus derechos, su responsabilidad será objetiva y directa, por lo que la persona afectada tendrá derecho a recibir una indemnización, la cual se establecerá conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 16.
 
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley, Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En la materia penal las leyes reglarán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2004)</small>
-
-Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de conflictos, en la forma y términos establecidos por la Ley.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 17.
 
-Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
+Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-El Ejecutivo del Estado organizará el régimen penitenciario sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus sentencias en lugares separados de los destinados a los hombres para tal efecto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Se faculta al Gobernador del Estado para celebrar con la Federación convenios de carácter general, para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+El Ejecutivo del Estado organizará el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Se faculta al Gobernador del Estado para celebrar convenios con otros ordenes de gobierno, para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2331,103 +2357,111 @@ Las formas alternativas de justicia deberán observarse en la aplicación de est
 
 El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Para la reclusión preventiva y la ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 18.
 
-Ninguna detención ante la autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito que se impute al detenido y hagan probable la responsabilidad de éste. La prolongación de la detención en perjuicio del inculpado será sancionada por la Ley Penal. Los custodios que no reciban copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes pondrán al inculpado en libertad.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso, en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos suficientes que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delincuencia organizada, delitos cometidos con medios violentos como armas o explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+La ley determinará los casos en los cuales el Juez podrá revocar la libertad de los individuos vinculados a proceso.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso y del que decrete la prisión preventiva, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez de control sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
+Todo proceso se seguirá forzosamente por el hecho o hechos señalados en el auto de vinculación a proceso o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos, que serán corregidos por las leyes y reprimidos por las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 19.
 
-En todo procedimiento del orden penal, el inculpado, la víctima o el ofendido tendrán las siguientes garantías:
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+A. De los principios generales:
 
-A.- Del inculpado:
+I. El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+II. Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
 
-I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley, o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+III. Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
 
-El monto y la forma de caución que se fije, deberán ser asequibles para el indiciado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del indiciado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al indiciado.
+IV. El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
 
-La Ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional.
+V. La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+VI. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución;
 
-II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la Ley Penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos, sin la asistencia de su defensor carecerá de todo valor probatorio.
+VII. Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
 
-III.- Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre del acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
+VIII. El Juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+IX. Cualquier prueba obtenida con violación de derechos fundamentales será nula; y
 
-IV.- Cuando así lo solicite, será careado, en presencia del juez, con quienes depongan en su contra, salvo lo dispuesto en la fracción V del apartado B de este Artículo;
+X. Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
 
-V.- Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto, y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso.
+B. De los derechos de toda persona imputada:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
 
-VI. Será juzgado en audiencia pública por un juez o jurado de ciudadanos que sepan leer y escribir, vecinos del lugar y del distrito en que se cometiere el delito, siempre que éste pueda ser castigado con una pena mayor de un año de prisión.
+II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
 
-VII.- Le serán facilitados todos los datos que solicite para su defensa, y que consten en el proceso.
+III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten. Tratándose de delincuencia organizada, la autoridad judicial podrá autorizar que se mantenga en reserva el nombre y datos del acusador.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+La ley establecerá beneficios a favor del inculpado, procesado o sentenciado que preste ayuda eficaz para la investigación y persecución de delitos en materia de delincuencia organizada;
 
-VIII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese tiempo, salvo que solicite mayor plazo para su defensa.
+IV. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+V. Será juzgado en audiencia pública por un Juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
 
-IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consignan la Constitución Federal y esta Constitución, teniendo derecho a una defensa adecuada, por sí, por abogado, o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le designará un Defensor de Oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y,
+En delincuencia organizada, las actuaciones realizadas en la fase de investigación podrán tener valor probatorio, cuando no puedan ser reproducidas en juicio o exista riesgo para testigos o víctimas. Lo anterior sin perjuicio del derecho del inculpado de objetarlas o impugnarlas y sin aportar pruebas en contra.
 
-X.- En ningún caso podrá prolongarse la prisión o detención por falta de pago de honorarios de defensores, o por cualquiera otra prestación de dinero, por causa de responsabilidad civil, o de cualquiera otro motivo análogo.
+VI Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
-Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fija la ley al delito que motivare el proceso. En toda pena de prisión que imponga una sentencia se computara el tiempo de la detención.
+El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante el juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
-Las garantías previstas en las fracciones I, V, VII y IX también serán observadas durante la averiguación previa, en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en la fracción II no estará sujeto a condición alguna.
+VIII. Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+IX. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquier otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
-B.- De la víctima o del ofendido:
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-I.- Recibir asesoría jurídica, ser informado de los derechos que en su favor establece la Constitución Federal y esta Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+C. De los derechos de la víctima o del ofendido:
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
-II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, y a que se desahoguen las diligencias correspondientes.
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
 
-Cuando el Ministerio Público considere que no es necesario el desahogo de determinada diligencia, deberá fundar y motivar su negativa;
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
 
-III.- Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
-
-IV.- Que se le repare el daño, en los casos que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
 
 La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, delincuencia organizada o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
-V.- Tratándose de menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de delitos de violación o secuestro. En estos casos, se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2002)</small>
+VI. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; e
 
-VI.- Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
+VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
 
 ###### Art. 20.
 
@@ -2531,19 +2565,45 @@ No constituyen monopolios las asociaciones de trabajadores formadas para protege
 
 Tampoco constituyen monopolio las asociaciones o sociedades cooperativas de productos que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan y que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo la vigilancia o amparo del Gobierno Federal o del Estado, y en este caso, previa autorización especial del Congreso. El mismo Congreso podrá derogar, cuando las necesidades públicas así lo exijan, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 25.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe de manera exclusiva al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato, sin perjuicio de que también pueda auxiliarse con cualquier otro cuerpo de seguridad pública estatal o municipal. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por trabajo a favor de la comunidad o por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos o de policía, no excederá del equivalente a un día de su ingreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+El Estado, en ejercicio de la función de seguridad pública, deberá en todo momento salvaguardar la integridad y derechos de las personas, e igualmente preservará las libertades, el orden y la paz públicos.
+
+La seguridad pública es una función a cargo de la Federación, el Estado y los Municipios, que comprende la prevención de los delitos, la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que la Constitución Política de los Estados Unidos Mexicanos señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública, que estarán sujetos a las siguientes bases mínimas:
+
+a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, el Estado y los Municipios en el ámbito de sus respectivas atribuciones.
+
+b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema.
+
+c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos.
+
+d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
+
+e) Los fondos de ayuda federal para la seguridad pública, serán aportados al Estado y Municipios, y destinados exclusivamente a estos fines.
 
 ###### Art. 26.
 
@@ -2745,7 +2805,7 @@ P.O. 1 DE ENERO DE 1979.
 
 DECRETO NÚMERO 205.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE ENERO DE 1979.
 
@@ -2769,7 +2829,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -2849,7 +2909,7 @@ UNICO:- ESTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL P
 
 P.O. 28 DE DICIEMBRE DE 1984.
 
-PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
+PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigente para el Gobierno Interior del Honorable Congreso del Estado, aprobado por el Decreto No. 101 de fecha 29 de mayo de 1958, tendrá carácter de Ley Orgánica del Poder Legislativo y expresamente se aprueba la modificación del título.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
 
@@ -3295,15 +3355,15 @@ P.O. 27 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
+P.O. 26 DE SEPTIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
 P.O. 28 DE SEPTIEMBRE DE 2007.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los sujetos obligados, en los términos de la legislación aplicable, deberán implementar los medios tecnológicos y electrónicos necesarios para que las personas puedan ejercer el derecho de acceso a la información pública, así como de los procedimientos de revisión a los que se refiere este Decreto, en un plazo no mayor al que establece el Decreto Federal por el que se adiciona un segundo párrafo con siete fracciones al artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 20 de julio del 2007. Lo anterior con excepción de los municipios con población menor a los setenta mil habitantes.
-
-P.O. 26 DE SEPTIEMBRE DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE OCTUBRE DE 2007.
 
@@ -3370,3 +3430,15 @@ P.O. 28 DE FEBRERO DE 2011.
 P.O. 25 DE MARZO DE 2011.
 
 Único.- El presente Decreto entrara en vigor al día siguiente a de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de lo dispuesto en los artículos transitorios siguientes.
+
+Segundo.- El sistema procesal penal acusatorio previsto en los artículos 15, párrafos segundo y décimo; 16, párrafos tercero, cuarto y sexto; 17, último párrafo; 18; 19 y 25, párrafos segundo y séptimo de la Constitución Política del Estado Libre y Soberano de Nuevo León, entrará en vigor cuando lo establezca el Decreto que expida la nueva Ley penal adjetiva del Estado de Nuevo León y solo en cuanto los delitos que sean seguidos a través de este sistema.
+
+Tercero.- Los hechos que se atribuyan delictuosos cometidos sin que se hubiere iniciado procedimiento, así como los procedimientos penales iniciados, con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio, previsto en los artículos 15, párrafos segundo y décimo; 16, párrafos tercero, cuarto y sexto; 17, último párrafo; 18; 19 y 25, párrafos segundo y séptimo de la Constitución Política del Estado Libre y Soberano de Nuevo León, serán conocidos y concluidos conforme a las disposiciones vigentes anteriores a la entrada en vigor del nuevo sistema procesal penal acusatorio.
+
+Cuarto.- El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 17, así como el régimen modificación y duración de penas establecido en el párrafo tercero del artículo 25 de la Constitución Política del Estado Libre y Soberano de Nuevo León, entrará en vigor cuando lo establezca el Decreto que expida la ley de la materia en la entidad.
+
+Quinto.- Las disposiciones relacionadas en la materia de delincuencia organizada continuarán en vigor hasta en tanto el Congreso de la Unión ejerza la facultad conferida en el artículo 73, fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos.
