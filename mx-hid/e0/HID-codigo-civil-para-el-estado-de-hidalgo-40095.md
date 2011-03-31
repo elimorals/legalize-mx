@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2009-12-31"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -7753,7 +7753,9 @@ Si el testador dispone legalmente sólo de una parte de sus bienes el resto de e
 
 Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, y en ciertos casos la concubina;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado, la concubina o el concubinario, éstos últimos si satisfacen los requisitos señalados en la Ley para la Familia del Estado de Hidalgo;
 
 II.- A falta de los anteriores, la Beneficencia Pública.
 
@@ -7853,29 +7855,39 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 De la Sucesión del Cónyuge.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Art. 1605.
 
-El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene no igualan la porción que a cada hijo debe corresponder, pues en este caso deberá recibir lo que baste para igualar sus bienes con la porción mencionada.
+
+Si el cónyuge que sobrevive tiene derecho al cincuenta por ciento por concepto de gananciales, no tendrá derecho a heredar del cincuenta por ciento restante.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 1606.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
+Si el autor de la herencia no deja descendientes, el cónyuge supérstite tendrá derecho al cien por ciento de los bienes del autor de la sucesión, siempre que éstos se hayan adquirido durante la vigencia del matrimonio, se hayan adquirido por herencia, legado o donación provenientes de persona ajena a la familia de aquel, o pertenezcan a la sociedad conyugal o legal.
+
+Si existen bienes adquiridos por el autor de la sucesión fuera de la vigencia del matrimonio, o por herencia, legado o donación provenientes de su propia familia, tiene derecho a heredarlos en una tercera parte el cónyuge supérstite, y la porción restante sus ascendientes inmediatos en partes iguales y, a falta de éstos, el 50% para el cónyuge y el 50% para los hermanos del autor de la sucesión en igual porción.
+
+El cónyuge supérstite tendrá derecho a heredar el cien por ciento de los bienes adquiridos por el autor de la sucesión fuera de la vigencia del matrimonio y los adquiridos por herencia, legado o donación provenientes de la familia de éste, cuando no sobrevivieren sus ascendientes inmediatos o hermanos.
 
 ###### Art. 1607.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
 
 ###### Art. 1608.
 
-Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá aquél dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
+(DEROGADO, P.O. 31 DE MARZO DE 2011
 
 ###### Art. 1609.
 
-El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
 
 ###### Art. 1610.
 
-A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
 
 ### CAPITULO V.
 
@@ -7909,17 +7921,13 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 De la Sucesión de los Concubinos.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 1616.
 
-El hombre y la mujer que libres de matrimonio durante más de cinco años, de manera pacífica, pública, continua y permanente, y sin tener impedimento para contraer matrimonio, hayan hecho vida en común como si estuvieran casados y con obligación de prestarse alimentos mutuamente, tienen derecho a heredarse en sucesión legítima conforme a las reglas siguientes:
+La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la Sucesión del cónyuge, siempre que reúnan los requisitos que establece la Ley para la Familia del Estado de Hidalgo.
 
-PRIMERO.- La concubina o concubino que concurran a la sucesión con herederos de cualquier clase, tendrán derecho al 50% de los bienes.
-
-SEGUNDO.- Si el autor de la herencia no deja descendientes, ascendientes o parientes colaterales dentro del cuarto grado, el ciento por ciento de los bienes pertenecientes al concubino o concubina, en su caso.
-
-TERCERO.- Si los bienes que forman el caudal hereditario están sujetos al régimen de Sociedad Legal por haber sido habidos durante el concubinato, la concubina o concubino separarán para sí, el 50% de los mismos, por concepto de gananciales, no siendo aplicables en este caso lo dispuesto en la Fracción I.
+Únicamente tiene derecho a heredar del autor de la sucesión, quien se encontraba unido a él en concubinato al momento de su muerte.
 
 ### CAPITULO VII.
 
@@ -16000,3 +16008,17 @@ El contenido del título décimo tercero, será objeto de mayor regulación en e
 P.O. 31 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2011.
+
+###### Artículo 1.
+
+El presente Decreto entrará en vigor a los sesenta días después de su Publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### Artículo 3.
+
+Las controversias del orden civil que estén tramitándose antes de la iniciación de vigencia de este Decreto, se resolverán conforme a las disposiciones aplicables en su momento, y el proceso se substanciará de acuerdo a la Ley vigente en el momento de haberse interpuesto la demanda.
