@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2011-03-16"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5017,7 +5017,9 @@ c) No permita el acceso al personal designado para realizar verificaciones en in
 
 III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO SEGUNDO DEL DECRETO NUMERO 278, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE LIBRO.</small>
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
@@ -5029,41 +5031,49 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-### CAPITULO PRIMERO. Disposiciones generales
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-# LIBRO SEPTIMO. De las Comunicaciones y Transportes
+### CAPITULO PRIMERO. Clasificación
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+# LIBRO SEPTIMO. Del transporte público
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De los vehículos
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-1.- Este libro tiene por objeto regular las comunicaciones de jurisdicción local y el transporte.
+1.- Este Libro tiene por objeto regular el transporte público.
 
-Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal.
-
-###### Artículo 7.
-
-2.- Las disposiciones de este Libro tienen como finalidad:
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-I. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional.
-
-II. Que se cuente con transporte seguro, eficiente y de calidad.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
+2.- Las disposiciones de este Libro tienen como finalidad que se cuente con transporte público seguro, eficiente y de calidad.
 
-### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+3.- Se considera de utilidad pública e interés general la prestación del servicio público de transporte.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO TERCERO. De los conductores y propietarios
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -5071,513 +5081,247 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, G.G. 14 DE MAYO DE 2008)</small>
+II. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto, así como la regulación del servicio de pago tarifario anticipado y la operación de Centros de Gestión y Control Común, de los mismos;
 
-II. La Secretaría de Comunicaciones, a quien corresponden las atribuciones relativas a las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad;
+III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de uso particular.
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-III. La Secretaría de Transporte, a quien corresponden las atribuciones relativas al transporte público y mixto, así como la regulación del servicio de pago tarifario anticipado y la operación de Centros de Gestión y Control Común, de los mismos;
+## TITULO SEGUNDO. De la clasificación y requisitos
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IV. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas al transporte de uso particular;
-
-V. La Junta de Caminos del Estado de México, que tendrá a su cargo las atribuciones que le confiere este Libro en materia de infraestructura vial primaria libre de peaje;
-
-VI. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, al que corresponden las atribuciones que le confiere este Libro en materia de infraestructura vial primaria de cuota;
-
-VII. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
-
-## TITULO SEGUNDO. De la infraestructura vial
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-5.- Para efectos de este Libro se entiende por infraestructura vial al conjunto de vías jerarquizadas que facilitan la comunicación entre las diferentes áreas de la actividad económica y se clasifica en:
+5.- El transporte que se realiza en la infraestructura vial se clasifica en:
 
-I. Infraestructura vial primaria, aquella que está integrada por carreteras, pasos vehiculares, avenidas, calzadas y calles que comunican a dos o más municipios de la entidad, permitiendo los viajes de largo recorrido y aquellas que por sus características de ubicación, operación y vocación de servicio permitan la integración de la red vial primaria, así como las que comuniquen a instalaciones estratégicas estatales;
+l. De pasajeros, que puede ser:
 
-II. Infraestructura vial local, aquella que está integrada por pasos vehiculares, avenidas, calzadas, calles y cerradas que permiten la comunicación al interior del municipio y la integración con la red vial primaria.
+a) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
 
-La infraestructura vial primaria estará a cargo del Estado y la infraestructura vial local, de los municipios.
+b) Masivo o de alta capacidad, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz de transportar a más de cien personas a la vez y con tecnologías para su control y operación;
 
-La infraestructura vial podrá ser libre de peaje, y de cuota.
+c) Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+d) Especializado, que es el que comprende al de personal, al escolar, y al de turismo.
 
-### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 7.
-
-6.- La Secretaría de Comunicaciones emitirá el dictamen de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
-
-La reglamentación determinará los casos en que no será exigible este dictamen.
-
-> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 7.
-
-7.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia y a la infraestructura de los sistemas de transporte masivo, incluyendo las estaciones de transferencia moral, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos. Tratándose de servicios para infraestructura vial que, en términos del Libro Décimo Sexto de este Código, el Estado determine que se presenten bajo la modalidad de proyectos para prestación de servicios, las disposiciones de este Libro no serán aplicables en cuanto a la forma de contratación y la regulación de propio contrato, siendo aplicables las disposiciones del Libro Décimo Sexto de este Código. En virtud de lo anterior, no se requerirá de concepción por parte del particular.
-
-###### Artículo 7.
-
-8.- Las concesiones a que se refiere este Título se otorgarán mediante concurso público a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos, de conformidad con el procedimiento siguiente:
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-I. La Secretaría de Comunicaciones, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas en sobre cerrado, que será abierto en día prefijado y en presencia de los participantes;
-
-II. La convocatoria se publicará simultáneamente en la Gaceta del Gobierno, en un periódico de amplia circulación nacional y en otro de amplia circulación estatal, así como en los medios electrónicos de difusión;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la infraestructura vial o del sistema de transporte masivo, el anteproyecto técnico, plazo de la concesión, aforos estimados, condiciones financieras básicas, características de la operación y tarifas iniciales.
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad legal, técnica, administrativa y financiera, y cumplan con los demás requisitos que establezcan las bases que expida la Secretaría de Comunicaciones;
-
-V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquellas que se desechen y las causas principales que motivaren tal determinación;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-VI. La Secretaría de Comunicaciones, con base en el análisis comparativo de las propuestas admitidas, emitirá su fallo, el cual será dado a conocer a todos los participantes. La propuesta ganadora estará a disposición de los interesados durante diez días hábiles a partir de que se haya dado a conocer el fallo correspondiente, para que manifiesten lo que a su derecho convenga;
-
-VII. No se otorgará la concesión cuando ninguna de las propuestas presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
-
-###### Artículo 7.
-
-9.- Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser prorrogadas hasta por un plazo equivalente al establecido originalmente, atendiendo al cumplimiento de las obligaciones inherentes a la concesión respectiva.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-La Secretaría de Comunicaciones contestará en definitiva la solicitud de prórroga, dentro de un plazo de sesenta días hábiles contados a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento, y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
-
-###### Artículo 7.
-
-10.- Se requiere permiso para la ejecución de obras e instalaciones que tengan acceso directo a la infraestructura vial primaria o local, para la ocupación, utilización, construcción, conservación, rehabilitación y adaptación de cualquier tipo de obra, anuncio o publicidad en la infraestructura o en el derecho de vía.
-
-No requerirán permiso ni autorización alguna los trabajos de urgencia y mantenimiento que sean necesarios para la conservación y buen funcionamiento de la infraestructura vial, o aquellos trabajos comprendidos en los títulos de concesiones otorgados o derivados de los mismos.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-Para efectos de este artículo, se entiende por derecho de vía la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 7.
-
-11.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo:
-
-I. En todos los casos:
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-a) Diseñar, proyectar, explotar y operar la infraestructura vial y los sistemas de transporte masivo, o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado.
-
-b) Acatar las normas técnicas estatales correspondientes;
-
-c) Presentar aviso a la autoridad competente en caso de enfrentar dificultades que pongan en riesgo el cumplimiento de las obligaciones contenidas en el título de concesión o permiso;
-
-d) Coadyuvar en la vigilancia y preservación del derecho de vía y dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial y de sistemas de transporte masivo, y las contenidas o derivadas del título de concesión o permiso.
-
-f) Proporcionar en todo tiempo a la autoridad competente los datos, informes y documentos que le sean solicitados relacionados con el objeto de la concesión o permiso, y otorgar las facilidades necesarias a dicha autoridad para la realización de visitas de verificación, inspección y calificación;
-
-g) Resarcir, a los usuarios y a los terceros, los daños que se les causen con motivo de la concesión o permiso;
-
-h) Constituir en tiempo y forma las garantías, en los términos establecidos en la reglamentación de este Libro;
-
-i) Las demás que se señalen en este Libro.
-
-II. Además de lo anterior, los concesionarios deberán:
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-a) Atender las instrucciones y recomendaciones que en su caso realice la autoridad competente respecto de las tarifas y la operación de la infraestructura y de los sistemas de transporte masivo concesionados.
-
-b) Presentar aviso por la terminación de la obra, con el objeto de que la autoridad competente constate que su construcción se ajusta al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma técnica correspondiente;
-
-c) Solicitar y justificar mediante el estudio correspondiente cualquier modificación a las cuotas de peaje, conforme a las bases de la concesión.
-
-###### Artículo 7.
-
-12.- Cuando se requiera el retiro o reubicación de cualquier instalación que se encuentre dentro del derecho de vía, se realizará con cargo al usuario del mismo.
-
-###### Artículo 7.
-
-13.- Las autoridades competentes, tomando en cuenta las circunstancias de cada caso, podrán proyectar y construir los libramientos necesarios, con objeto de distribuir adecuadamente el paso del transporte por las poblaciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO PRIMERO. De las concesiones y permisos
-
-###### Artículo 7.
-
-14.- La autoridad competente podrá exigir a los propietarios de los predios colindantes a la infraestructura vial y a los sistemas de transporte masivo que, por razones de seguridad, los cerquen respecto del derecho de vía.
-
-Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a la infraestructura vial.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 7.
-
-15.- En los terrenos adyacentes a la infraestructura vial y a los sistemas de transporte masivo, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de minas, canteras o cualquier tipo de obras que requieran el empleo de explosivos o gases nocivos.
-
-###### Artículo 7.
-
-16.- Los usuarios de la infraestructura vial tendrán las obligaciones siguientes:
-
-I. Respetar el derecho de vía;
-
-II. Cubrir las tarifas correspondientes en la infraestructura vial de cuota;
-
-III. Cubrir los daños que ocasionen a la infraestructura vial.
-
-###### Artículo 7.
-
-17.- Los municipios tendrán las atribuciones a que se refiere este Título y el Título Cuarto, respecto de la infraestructura de su competencia.
-
-## TITULO TERCERO. Del transporte
-
-### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 7.
-
-18.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje.
-
-La Junta, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Otorgar y declarar la terminación de permisos para la utilización del derecho de vía, así como vigilar y supervisar el cumplimiento de las obligaciones derivadas de los mismos;
-
-II. Vigilar que se respete el derecho de vía en la infraestructura vial a su cargo, así como preservar, administrar y regular el uso, aprovechamiento y restricciones del mismo, de acuerdo a la normatividad reglamentaria;
-
-III. Proyectar, instalar y mantener en operación el señalamiento y los dispositivos de seguridad en la infraestructura vial a su cargo;
-
-IV. Administrar, operar y mantener la maquinaria y equipo de construcción a su cuidado o de su propiedad;
-
-V. Asesorar a los ayuntamientos en la realización de obras a su cargo relacionadas con la infraestructura vial;
-
-VI. Efectuar el cobro de derechos conforme a la ley por la expedición de permisos para la utilización del derecho de vía;
-
-VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial;
-
-VIII. Las demás que se señalen en este Libro y otras disposiciones.
-
-###### Artículo 7.
-
-19.- La dirección y administración de la Junta está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, de Administración y de Ecología, y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
-
-La organización y funcionamiento de la Junta se rige por el reglamento interno que expida el consejo directivo.
-
-###### Artículo 7.
-
-20.- El patrimonio de la Junta se integra con:
-
-I. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
-
-II. Las aportaciones, recursos y demás ingresos que le proporcionen la Federación, el Estado, los municipios y los particulares en términos de los convenios y acuerdos respectivos;
-
-III. Los subsidios y donaciones que le otorguen los gobiernos federal, estatal y municipales, y las personas físicas o morales de carácter público o privado;
-
-IV. Los ingresos que obtenga por la realización de sus actividades, en cumplimiento de su objeto;
-
-V. Los bienes o recursos que reciba por cualquier título legal.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
-
-###### Artículo 7.
-
-21.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles en territorio estatal.
-
-El Sistema, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, administración, rehabilitación y mantenimiento de la infraestructura vial de cuota;
-
-II. Otorgar y declarar la terminación de permisos para el aprovechamiento y explotación de la infraestructura vial y el derecho de vía;
-
-III. Efectuar el cobro de derechos conforme a la ley por la expedición de permisos para la utilización de la infraestructura vial y el derecho de vía;
-
-IV. Celebrar contratos para el aprovechamiento y explotación de la infraestructura vial;
-
-V. Efectuar las calificaciones de operación y conservación de la infraestructura vial para determinar el monto de los recursos que deban aplicarse para su adecuado funcionamiento;
-
-VI. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, mantenimiento, rehabilitación y conservación de infraestructura vial;
-
-VII. Autorizar los ajustes y supervisar la correcta aplicación de las cuotas de peaje;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-VIII. Presentar a la consideración de la Secretaría de Comunicaciones, conforme a las disposiciones aplicables, proyectos sustentados de otorgamiento o ampliación de concesiones para la construcción, administración, operación, rehabilitación, mantenimiento y conservación de la infraestructura vial;
-
-IX. Contratar financiamiento, empréstitos y créditos con cargo a su patrimonio para el cumplimiento de su objeto;
-
-X. Las demás que se señalen en este Libro y otras disposiciones.
-
-###### Artículo 7.
-
-22.- La dirección y administración del Sistema está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, de Administración y de Ecología, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
-
-La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
-
-###### Artículo 7.
-
-23.- El patrimonio del Sistema se integra con:
-
-I. Los bienes y recursos que obtenga con motivo de las concesiones y contratos que se otorguen o celebren en materia de infraestructura vial de cuota;
-
-II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
-
-III. Los legados, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se le designe como fideicomisario;
-
-IV. Los bienes o recursos que adquiera por cualquier título legal para el cumplimiento de su objeto;
-
-V. Los bienes que reviertan a favor del Estado de México con motivo de las concesiones o contratos.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
-
-###### Artículo 7.
-
-24.- El transporte que se realiza en la infraestructura vial se clasifica en:
-
-I. De pasajeros, que puede ser:
-
-a). Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
-
-b). Masivo o de alta capacidad, que es aquel que se presta en vías específicas o confinadas y/o con equipo vehicular capaz de transportar a más de cien personas a la vez y con tecnologías para su control y operación;
-
-c). Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-d). Especializado, que es el que comprende al de personal, al escolar, y al de turismo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-II. De carga, que se refiere al porte de mercancías que se presta a terceros.
+II. De carga, que se refiere al porte de mercancías que se presta a terceros;
 
 III. Mixto;
 
 IV. Particular:
 
-a). El destino para transporte de pasajeros de uso propio no considerado en las fracciones anteriores;
+a) El destino para transporte de pasajeros de uso propio no considerado en las fracciones anteriores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-b). De carga particular, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo, y que no preste servicios a terceros.
+b) De carga particular, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo, y que no preste servicios a terceros.
 
 V. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales y que no esté considerado en las fracciones anteriores.
 
 En la normatividad reglamentaria respectiva podrán establecerse otras modalidades que esta clase de servicios requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las obligaciones de los concesionarios y permisionarios
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Título y podrá así mismo expedir al respecto disposiciones de carácter general cuando lo estime procedente.
+6.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Libro y podrá, así mismo, expedir al respecto disposiciones de carácter general cuando lo estime procedente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo, individual y mixto, deberá contar con sistemas moderadores de velocidad, denominados gobernadores de velocidad.
 
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, masivo o de alta capacidad, individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-En tanto se expiden las placas y documentos a que se refieren los párrafos anteriores, la Secretaría de Finanzas podrá otorgar permisos provisionales para circular como vehículo particular.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-La Secretaría de Finanzas podrá celebrar convenios con distribuidores, fabricantes o ensambladores de vehículos automotores, así como con las asociaciones de estos, para que en esas instalaciones productivas o comerciales, por sí mismas o a través de ellos, se presten servicios relacionados con el control vehicular.
-
-> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-La Agencia de Seguridad Estatal coadyuvará con la Secretaría de Transporte, en la realización de diligencias de inspección y verificación del transporte público de pasajeros, quienes aplicarán las sanciones correspondientes en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-26.- Los conductores de unidades de las distintas clases de transporte tendrán las obligaciones siguientes:
+7.- Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
-I. En todos los casos:
-
-a) Obtener y portar la licencia o permiso para conducir correspondiente;
-
-b) Mostrar a las autoridades de transporte o tránsito cuando se les solicite la licencia o permiso para conducir, y, en su caso, la documentación que faculte la prestación del servicio;
-
-c) Abstenerse de conducir cuando estén impedidos para hacerlo por circunstancias de salud o de cualquier otra que implique disminución de sus facultades físicas o mentales.
-
-II. Además de lo anterior, los conductores de los servicios sujetos a concesión o permiso deberán:
-
-a) Abstenerse de prestar el servicio en vehículos no autorizados;
-
-b) Aprobar los exámenes médicos, psicológicos, farmacológicos y otros que se establezcan en las disposiciones administrativas;
-
-c) Acreditar, en términos de las disposiciones reglamentarias, estar debidamente capacitados;
-
-d) Otorgar un servicio eficiente y un trato amable a los usuarios.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-27.- Los propietarios o poseedores de vehículos automotores, tendrán las obligaciones siguientes:
+8.- Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
-I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda.
-
-III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo;
-
-IV. Adicionalmente, tratándose de transporte de uso comercial:
-
-a) Someter los vehículos a la revisión físico mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
-
-Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-b). Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
-
-### CAPITULO PRIMERO. Del objeto y finalidad
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-28.- El transporte de pasajeros colectivo, de alta capacitad o masivo, individual, mixto; el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos; el servicio de pago tarifario anticipado y los Centros de Gestión y Control Común, constituyen un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
+9.- En tanto se expiden las placas y documentos a que se refieren los artículos anteriores, la Secretaría de Finanzas podrá otorgar permisos provisionales para circular como vehículo particular.
 
-En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-29.- Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo anterior.
+10.- La Secretaría de Finanzas podrá celebrar convenios con distribuidores, fabricantes o ensambladores de vehículos automotores, así como con las asociaciones de éstos, para que en esas instalaciones productivas o comerciales, por sí mismas o a través de ellos, se presten servicios relacionados con el control vehicular.
 
-> <small>(ADICIONADO, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
-
-El Ejecutivo del Estado, deberá crear convocatorias específicas de concesión, para la prestación de servicio de Transporte de Pasajeros de uso Exclusivo para Mujeres, el cual operará en rutas, bases, paraderos y terminales más transitados, durante horas de mayor afluencia.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-30.- Las concesiones y permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
+11.- La Agencia de Seguridad Estatal coadyuvará con la Secretaría de Transporte, en las visitas de inspección y verificación del transporte público de pasajeros, quienes aplicarán las sanciones correspondientes en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-Las Secretarías de Comunicaciones y Transporte, en el ámbito de su respectiva competencia, establecerán mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-31.- La vigencia de las concesiones y permisos será temporal, no pudiendo exceder de diez años la primera, salvo lo previsto en el artículo siguiente, y de cinco los segundos; podrán ser objeto de prórroga en los términos previstos en este Libro y el Reglamento de la materia.
+12.- Los conductores de unidades de las distintas clases de transporte tendrán las obligaciones siguientes:
+
+I. Obtener y portar la licencia o permiso para conducir correspondiente;
+
+II. Mostrar a las autoridades de transporte o tránsito cuando se les solicite la licencia o permiso para conducir, y, en su caso, la documentación que faculte la prestación del servicio; y
+
+III. Abstenerse de conducir cuando estén impedidos para hacerlo por circunstancias de salud o de cualquier otra que implique disminución de sus facultades físicas o mentales.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+13.- Además de lo dispuesto en el artículo anterior, los conductores de los servicios sujetos a concesión o permiso deberán:
+
+l. Abstenerse de prestar el servicio en vehículos no autorizados;
+
+II. Aprobar los exámenes médicos, psicológicos, farmacológicos y otros que se establezcan en las disposiciones administrativas;
+
+III. Acreditar, en términos de las disposiciones reglamentarias, estar debidamente capacitados; y
+
+IV. Otorgar un servicio eficiente y un trato amable a los usuarios.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO TERCERO. De las concesiones y permisos
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+14.- Los propietarios o poseedores de vehículos automotores, tendrán las obligaciones siguientes:
+
+l. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
+
+II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda;
+
+III. Responder por los daños y perjuicios causados a terceros y a la infraestructura vial por el uso del vehículo; y
+
+IV. Contar con un seguro de viajero vigente, durante el tiempo que dure la concesión y/o permiso.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+15.- Tratándose de transporte de uso comercial, adicionalmente a las disposiciones del artículo anterior los propietarios o poseedores de vehículos automotores deberán:
+
+l. Someter los vehículos a la revisión físico-mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
+
+II. Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes; y
+
+III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones establecidas en las normas oficiales correspondientes.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+16.- El transporte de pasajeros colectivo, de alta capacidad o masivo, individual, mixto; el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos; el servicio de pago tarifario anticipado y los Centros de Gestión y Control Común, constituyen un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+17.- En caso de concurrencia de dos o más personas físicas o morales para obtener concesiones, el otorgamiento se hará a quienes garanticen un mejor servicio en razón de las condiciones de seguridad, higiene y comodidad de los vehículos, mejor equipo e instalaciones, así como de la eficiencia y buen trato del personal con los usuarios.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO TERCERO. De las concesiones, permisos y autorizaciones
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO CUARTO. De la terminación y revocación
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+18.- Las disposiciones reglamentarias aplicables y la Secretaría de Transporte, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo 7.16.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+19.- Las concesiones y permisos en materia de transporte público no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
+
+La Secretaría de Transporte establecerá, mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+20.- La vigencia de las concesiones y permisos será temporal, no pudiendo exceder de diez años la primera, salvo lo previsto en el artículo siguiente, y de cinco los segundos; podrán ser objeto de prórroga en los términos previstos en este Libro y el Reglamento de la materia.
 
 Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las concesiones o permisos que complementen.
 
-###### Artículo 7.
-
-32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
-
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-33.- Requerirán permiso:
+21.- Requerirán permiso:
 
-I. Los servicios de transporte de pasajeros especializado y el de carga;
-
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+l. Los servicios de transporte de pasajeros especializado y el de carga;
 
 II. Los servicios auxiliares de arrastre y traslado;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-III. Los servicios conexos, que son las terminales de pasajeros, bases, bahías de ascenso y descenso, y cobertizos;
+III. Los servicios conexos, que son las terminales de pasajeros, bases, bahías de ascenso y descenso, y cobertizos; y
 
 IV. La instalación y explotación de anuncios publicitarios en los diversos tipos de vehículos y servicios auxiliares y conexos.
 
-###### Artículo 7.
-
-34.- El servicio público de transporte, en sus diversas clases y modalidades, deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-35.- Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
+22.- El servicio público de transporte, en sus diversas clases y modalidades, deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+Las concesiones obligan a sus titulares a la prestación directa del servicio.
 
-Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
-
-### CAPITULO PRIMERO. Disposiciones generales
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-36.- Los concesionarios o permisionarios de los servicios de transporte podrán prestarlos con vehículos de su propiedad o en su posesión, en los términos que señalen las disposiciones reglamentarias.
+23.- Los concesionarios y permisionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
 
-> <small>(ADICIONADO, G.G. 14 DE OCTUBRE DE 2008)</small>
+La Secretaría de Transporte emitirá las disposiciones reglamentarias aplicables; establecerá las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
+
+((REFORMADO, G.G. 31 DE MARZO DE 2011)
+
+###### Artículo 7.
+
+24.- Los concesionarios o permisionarios de los servicios de transporte podrán prestarlos con vehículos de su propiedad o en su posesión, en los términos que señalen las disposiciones reglamentarias.
 
 Queda prohibido el otorgamiento de concesión, permiso o autorización a vehículos tipo motocicleta o similar, de propulsión mecánica, para la prestación del servicio público de transporte de pasajeros.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-37.- Las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, podrán autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
+25.- La Secretaría de Transporte podrá autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
 
-## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-38.- Son obligaciones de los concesionarios y permisionarios:
+26.- Son obligaciones de los concesionarios y permisionarios:
 
-I. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
+l. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-II. Prestar el servicio obligatoriamente cuando lo requieran las secretarías de Comunicaciones o de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
+II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
 
 III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+IV. Proporcionar en todo tiempo a las secretarías de Transporte o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
 
-IV. Proporcionar en todo tiempo a las secretarías de Comunicaciones, de Transporte o de Finanzas, en su caso, los datos informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por las secretarías de Comunicaciones o de Transporte;
+V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría de Transporte;
 
 VI. Resarcir a los usuarios y a los terceros, de los daños que se les causen con motivo de la concesión o permiso;
 
@@ -5585,17 +5329,11 @@ VII. Constituir en tiempo y forma las garantías en los términos establecidos e
 
 VIII. Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones, así como controles gráficos o electrónicos de velocidad máxima establecidos en las normas oficiales correspondientes;
 
-IX. Someter los vehículos a la revisión físico mecánica con la periodicidad y en los términos que señalen las disposiciones secundarias.
-
-Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva, podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
+IX. Someter los vehículos a la revisión físico-mecánica con la periodicidad y en los términos que señalen las disposiciones secundarias. Para estos efectos, los concesionarios y permisionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva, podrán realizar la verificación, en términos de las disposiciones secundarias correspondientes;
 
 X. Mantener los vehículos y servicios auxiliares o conexos en condiciones de seguridad, comodidad e higiene para el servicio;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-XI. Obtener las inscripciones en el Registro Estatal de Transporte o en el de Comunicaciones, conforme a los (sic) dispuesto en este Libro y su reglamentación;
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+XI. Obtener las inscripciones en el Registro Estatal de Transporte, conforme a los (sic) dispuesto en este Libro y su reglamentación;
 
 XII. Solicitar autorización previa de la Secretaría de Transporte para sustituir el vehículo o vehículos con que se presta el servicio;
 
@@ -5603,105 +5341,95 @@ XIII. Cumplir con la cromática y demás elementos de identificación de los veh
 
 XIV. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios o permisionarios;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-XV. Obtener autorización previa de las secretarías de Comunicaciones, de Transporte o de Finanzas, en su caso, para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de hipoteca o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
+XV. Obtener autorización previa de las secretarías de Transporte o de Finanzas, en su caso, para la cesión de derechos derivados de la concesión o permiso, así como para la constitución de garantías o demás garantías sobre los derechos de la concesión o permiso y los bienes destinados a la prestación del servicio;
 
 XVI. Cooperar con el Estado para el mantenimiento de los caminos, calzadas, avenidas y calles por donde transiten;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
 XVII. Tratándose de concesionarios del servicio público de arrastre, salvamento, guarda, custodia y depósito de vehículos, remitir de manera directa e inmediata los vehículos al depósito autorizado más cercano al lugar en donde se haya solicitado la prestación del servicio;
-
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 XVIII. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, admitir como medio de pago de la tarifa el que determine la Secretaría de Transporte, basado en una tarjeta de prepago; así como utilizar, en todos sus vehículos, la tecnología y dispositivos señalados por la misma;
 
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-XIX. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la Secretaría de Transporte;
-
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+XIX. Tratándose de los concesionarios del servicio público de transporte de pasajeros en las modalidades de colectivo, individual y mixto, prestar el servicio y operar sus unidades de conformidad con las instrucciones que reciban de los Centros de Gestión y Control Común, a través del que será dirigida su actividad diaria en la red integrada de transporte de la que formen parte, con la aprobación de la Secretaría de Transporte;
 
 XX. En la prestación del transporte de pasajeros en las modalidades de colectivo, individual y mixto, entregar boleto o comprobante autorizado por la Secretaría de Transporte a través del Instituto del Transporte;
 
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo;
-
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+XXI. En la prestación del servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, y del servicio auxiliar de arrastre y traslado, entregar factura fiscal por la prestación del mismo; y
 
 XXII. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las Secretarías de Comunicaciones o de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
-
-### CAPITULO SEGUNDO. De los vehículos
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-39.- Cualquier persona puede hacer uso del transporte público, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
+27.- Adicionalmente a lo establecido en el artículo anterior, los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las Secretarías de Transporte; en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia.
 
-I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+Las tarifas deberán establecer los descuentos que en su caso existan para personas de la tercera edad y estudiantes.
 
-II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios;
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO PRIMERO. De las medidas de seguridad
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+28.- Cualquier persona puede hacer uso del transporte público, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
+
+l. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+
+II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios; y
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-### CAPITULO TERCERO. De los conductores
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-40.- Pueden constituirse hipotecas sobre los derechos de la concesión y los bienes muebles e inmuebles afectos al servicio concesionado, así como sobre los capitales del concesionario destinados a la explotación y administración del servicio, el dinero en caja y los derechos otorgados al concesionario por terceros.
+29.- Pueden constituirse garantías sobre los derechos de la concesión y los bienes muebles e inmuebles afectos al servicio concesionado, así como sobre los capitales del concesionario destinados a la explotación y administración del servicio, el dinero en caja y los derechos otorgados al concesionario por terceros.
 
-La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la última quinta parte del tiempo en que deba finalizar la concesión.
+La garantía podrá constituirse por un lapso que en ningún caso comprenderá la última quinta parte del tiempo en que deba finalizar la concesión.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-41.- En la escritura de hipoteca se insertará la autorización de las secretarías de Comunicaciones o de Transporte para hipotecar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
+30.- En la escritura o contrato de garantía se insertará la autorización de la Secretaría de Transporte para garantizar, el término de la concesión y la prohibición de que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-42.- El Gobernador del Estado queda facultado para decretar la intervención de un servicio público o de un bien del dominio público concesionados, cuando se interrumpa o afecte la prestación eficiente del servicio o la explotación del bien.
+31.- El Gobernador del Estado queda facultado para decretar la intervención de un servicio público o de un bien del dominio público concesionados, cuando se interrumpa o afecte la prestación eficiente del servicio o la explotación del bien.
 
 La intervención durará estrictamente el tiempo por el que subsista la causa que lo motivó, para el solo efecto de que no se interrumpa el servicio o la explotación del bien.
 
-###### Artículo 7.
-
-43.- El otorgamiento de una concesión sobre la infraestructura vial o para la prestación de los servicios de transporte es facultad del Ejecutivo del Estado, sujeta siempre a las necesidades públicas.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-44.- Las concesiones y permisos se sujetarán, adicionalmente a lo establecido en los Títulos Segundo y Tercero de este Libro, a lo siguiente:
+32.- El otorgamiento de una concesión para la prestación de los servicios de transporte es facultad del Ejecutivo del Estado, sujeta siempre a las necesidades públicas.
 
-I. Requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento;
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o enajenar los derechos que deriven de las concesiones o permisos a ningún gobierno o estado extranjero;
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
-III. Requerirán autorización previa para la constitución de garantías.
-
-Bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión, lo cual se hará constar en las escrituras públicas correspondientes;
-
-IV. Tratándose de concesiones sobre la infraestructura vial o transporte de alta capacidad o masivo de personas:
-
-a) Se podrán celebrar contratos de obras y de prestación de servicios con personas físicas o morales, previa autorización de la autoridad. En este caso, los concesionarios serán los únicos responsables por las obligaciones establecidas en la concesión;
-
-b) Al término de la concesión o sus prórrogas, los bienes objeto de la concesión o afectos al servicio, pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-45.- Las concesiones y permisos terminan por:
+33.- Las concesiones y permisos se sujetarán, adicionalmente a lo ya establecido en este Libro, a lo siguiente:
+
+l. Requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento;
+
+II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o enajenar los derechos que deriven de las concesiones o permisos a ningún gobierno o estado extranjero; y
+
+III. Requerirán autorización previa para la constitución de garantías. Bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión, lo cual se hará constar en las escrituras públicas correspondientes.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+34.- Las concesiones y permisos terminan por:
 
 I. Vencimiento del plazo establecido en el título de la concesión o permiso, o de la prórroga que se hubiera otorgado;
 
@@ -5717,23 +5445,19 @@ VI. Disolución, liquidación o quiebra del titular;
 
 VII. Muerte de su titular, siempre y cuando no se hubiesen designado beneficiarios o si dentro del término de noventa días contados a partir de la fecha del fallecimiento, no se presentan los beneficiarios designados en términos de las disposiciones aplicables, a solicitar la transmisión de la concesión o prórroga;
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-VIII. Por reversión del titular, para incorporarse a un nuevo sistema de prestación del servicio;
-
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2008)</small>
+VIII. Por sustitución del titular, para incorporarse a un nuevo sistema de prestación del servicio;
 
 IX. Las demás causas que se establezcan en la concesión, permiso o en el reglamento de la materia.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 11 DE DICIEMBRE DE 2008)</small>
-
 La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno Estatal y con terceros.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-46.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
+35.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
 
-I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+l. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
 
 II. Interrumpir el concesionario la operación de la vía o la prestación del servicio de transporte, parcial o totalmente, sin causa justificada;
 
@@ -5741,11 +5465,11 @@ III. Reincidir en la aplicación de tarifas superiores a las autorizadas;
 
 IV. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ellos;
 
-V. No cubrir las indemnizaciones por daños que se originen con motivo de la operación de la infraestructura vial o la prestación de los servicios;
+V. No cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios;
 
 VI. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, sin previa autorización;
 
-VII. Modificar o alterar sustancialmente la naturaleza o condiciones de la infraestructura vial o de los servicios sin previa autorización;
+VII. Modificar o alterar sustancialmente la naturaleza o condiciones de los servicios sin previa autorización;
 
 VIII. Prestar servicios distintos a los señalados en la concesión o permiso respectivo;
 
@@ -5759,61 +5483,171 @@ XII. Alterar la documentación que ampara la concesión o la circulación de los
 
 XIII. No proporcionar la información requerida por la autoridad o impedir o dificultar las visitas de verificación e inspección;
 
-XIV. Las demás previstas en este Libro y la concesión o permiso respectivo.
+XIV. Las demás previstas en este Libro y la concesión o permiso respectivo; y
 
-El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo de cinco años, contado a partir de que hubiere quedado firme la resolución respectiva.
+XV. El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo de cinco años, contado a partir de que hubiere quedado firme la resolución respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 7.
 
-47.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo, y el Registro Estatal de Transporte tiene por objeto integrar la información relacionada con el transporte.
+36.- El Registro Estatal de Transporte tiene por objeto integrar la información relacionada con el transporte; contendrá la información siguiente:
 
-Los registros estatales de comunicaciones y de transporte, contendrán la información siguiente:
+I. Concesiones y permisos estatales;
 
-I. El Registro de Comunicaciones contendrá:
+II. Matrículas;
 
-a) Concesiones y permisos estatales;
+III. Constitución de garantías;
 
-b) Constitución de garantías;
+IV. Estatutos y representación de concesionarios y permisionarios;
 
-c) Estatutos y representación de concesionarios y permisionarios;
+V. Padrón de operadores;
 
-d) Las demás que señale el reglamento correspondiente.
+VI. Licencias para conducir;
 
-II. El Registro Estatal de Transporte contendrá:
-
-a) Concesiones y permisos estatales;
-
-b) Matrículas;
-
-c) Constitución de garantías;
-
-d) Estatutos y representación de concesionarios y permisionarios;
-
-e) Padrón de operadores;
-
-f) Licencias para conducir;
-
-g) Las demás que señale el reglamento correspondiente.
-
-El Registro Estatal de Comunicaciones será público y tendrá efectos declarativos.
+VII. Las demás que señale el reglamento correspondiente.
 
 El Registro Estatal de Transporte será público, tendrá efectos declarativos y surtirá efectos contra terceros.
 
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 7.
 
-48.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros. Asimismo, la autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
+37.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros.
 
 La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-El presente artículo no será aplicable tratándose de los sistemas de transporte masivo.
+## TITULO CUARTO. Del Registro Estatal de Transporte Público
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
-49.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
+38.- La autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TÍTULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+###### Artículo 7.
+
+39.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Libro.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+###### Artículo 7.
+
+40.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+### CAPITULO SEGUNDO. De los vehículos
+
+###### Artículo 7.
+
+41.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de transporte, serán sancionadas con:
+
+I. Amonestación;
+
+II. Multa;
+
+III. Retención del vehículo;
+
+IV. Revocación de la concesión, permiso o autorización;
+
+V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de vehículos o de servicios conexos;
+
+VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
+
+VII. Cancelación de la licencia de conducir;
+
+VIII. Cancelación de las placas de matriculación; y
+
+IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
+
+Las sanciones anteriores se impondrán cuando para la infracción cometida no exista una aplicable al caso en concreto.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+42.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
+
+l. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
+
+II. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios, horarios y no contar con un seguro de viajero o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores;
+
+III. Multa de cincuenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a los titulares de la concesión o permiso cuando se niegue a prestar el servicio, sin causa justificada, así como por actos de maltrato al usuario y levantar pasaje en las paradas no autorizadas;
+
+IV. Multa de hasta mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, independientemente de que se proceda a la retención del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales;
+
+V. Multa de ochenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien transporte carga en vehículos de cualquier tipo sin contar con la concesión o permiso respectivo;
+
+VI. Multa de cincuenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien permita que las unidades en las que se preste el servicio sean conducidas por personas menores de edad o que carezcan de licencia o permiso;
+
+VII. Multa de doscientas cincuenta a trescientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
+
+a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica. Esta sanción se aplicará sin perjuicio de la retención del vehículo y la responsabilidad en que se pudiera incurrir, siendo igualmente solidario el concesionario o permisionario por los actos del personal a su servicio;
+
+b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
+
+c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso.
+
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
+
+Los titulares de la concesión o permiso serán responsables solidarios para el cumplimiento de la sanción.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+43.- Los conductores de los servicios sujetos a concesión o permiso se harán acreedores a la cancelación de su licencia para conducir cuando reincidan en las infracciones señaladas en la fracción VII del artículo anterior.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+44.- La autoridad correspondiente podrá cancelar la licencia o permiso para conducir o bien, retirar las placas de matriculación, cuando se hayan obtenido con base en información falsa, o por mandamiento de autoridad judicial competente.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+45.- Sólo después de haber cubierto el importe de las multas, traslados o depósitos, si los hubiere, se procederá a la entrega de los vehículos, en términos de lo dispuesto en este Libro y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+46.- Tratándose de la infracción consistente en prestar el servicio público sin autorización, en caso de que el vehículo retenido porte colores de empresa o ruta de servicio público autorizado, deberá ser despintado por el interesado, previo a la liberación.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+47.- El importe de la multa que se imponga a los concesionarios o permisionarios, por infracciones en la prestación del servicio público, será garantizado con el vehículo, debiendo quedar en los depósitos de guarda y custodia que designe la autoridad.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+48.- Cuando el infractor en uno o varios hechos viole diversas disposiciones de este Libro o de las disposiciones que de él emanen, le serán acumuladas y aplicadas las sanciones correspondientes a cada una de ellas.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 7.
+
+49.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
 ###### Artículo 7.
 
@@ -5937,25 +5771,27 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
+### CAPITULO TERCERO. De los conductores
+
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De las organizaciones de productores
 
 ### CAPITULO PRIMERO. De la producción y transformación
 
-## TITULO PRIMERO. Disposiciones generales
-
-### CAPITULO SEGUNDO. De la comercialización
-
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
-
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 8.
 
@@ -5965,7 +5801,7 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -5977,7 +5813,7 @@ Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de S
 
 ## TITULO TERCERO. De los estacionamientos de servicio al público
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 8.
 
@@ -6023,7 +5859,7 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 8.
 
@@ -6133,9 +5969,7 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
@@ -6157,7 +5991,7 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 8.
 
@@ -6171,7 +6005,9 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO TERCERO. De los consejos consultivos económicos
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
@@ -6217,7 +6053,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6229,7 +6065,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 9.
 
@@ -6239,7 +6075,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 9.
 
@@ -6253,9 +6089,7 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -6293,7 +6127,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -6313,7 +6147,9 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -6393,7 +6229,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 9.
 
@@ -6407,7 +6243,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
 ###### Artículo 9.
 
@@ -6443,7 +6279,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(DEROGADO CON LOS ARTICULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6465,7 +6301,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO SEGUNDO. De la atención médica
 
 # LIBRO DECIMO. Del fomento económico
 
@@ -6475,7 +6311,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 10.
 
@@ -6487,7 +6323,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 10.
 
@@ -6503,7 +6339,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 10.
 
@@ -6527,7 +6363,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 10.
 
@@ -6543,7 +6379,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
@@ -6559,9 +6395,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
@@ -6577,9 +6411,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
@@ -6633,9 +6465,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6651,7 +6483,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6671,9 +6503,9 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6705,7 +6537,7 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6733,7 +6565,7 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 ## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6767,7 +6599,7 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6815,9 +6647,9 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO SEPTIMO. De la información, verificación y control
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6855,9 +6687,9 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6893,9 +6725,9 @@ I. Establecer programas de promoción del empleo de las personas con capacidades
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO PRIMERO. Parte general
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6933,7 +6765,7 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6957,7 +6789,7 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO TERCERO. De la sistematización
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -6967,7 +6799,7 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6985,9 +6817,9 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO QUINTO. De los catálogos
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7037,7 +6869,7 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7203,9 +7035,9 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7333,7 +7165,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO OCTAVO. De las enajenaciones
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7531,9 +7363,9 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -7675,7 +7507,7 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO. De las garantías
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7799,9 +7631,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7821,7 +7653,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7855,9 +7687,9 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -7913,11 +7745,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7925,7 +7757,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8073,7 +7905,7 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8157,7 +7989,7 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8187,9 +8019,9 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO PRIMERO. Del IGECEM
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -8205,9 +8037,9 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -8231,7 +8063,7 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8293,7 +8125,7 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO II. De la dirección del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8589,7 +8421,7 @@ Mediante la presentación de estas ofertas subsecuentes de descuentos, se realiz
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8737,7 +8569,7 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8853,9 +8685,9 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. De la fe de erratas
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8895,9 +8727,9 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8921,7 +8753,7 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8961,7 +8793,7 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8975,7 +8807,7 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9055,7 +8887,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9295,7 +9127,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9541,7 +9373,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9575,7 +9407,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9617,7 +9449,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9811,7 +9643,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9861,7 +9693,7 @@ Las infracciones cometidas por los informantes serán sancionadas conforme al ar
 
 ###### Artículo 14.
 
-59.- Para efectos de este Libro, comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
+59.- Para efectos de este Libro comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
 
 I. Acceder a algún banco de datos, sistema de cómputo o red del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM;
 
@@ -9871,7 +9703,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ###### Artículo 14.
 
-60.- La comisión de las infracciones a que se refiere el presente título, por parte de servidores públicos, dará lugar al procedimiento administrativo, disciplinario y a las sanciones que por responsabilidad administrativa disciplinaria resulten.
+60.- La comisión de las infracciones a que se refiere el presente título, por parte de servidores públicos, dará lugar al procedimiento administrativo disciplinario y a las sanciones que por responsabilidad administrativa disciplinaria resulten.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9885,7 +9717,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9955,7 +9787,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10013,7 +9845,7 @@ IV. Donaciones a instituciones privadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10071,7 +9903,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10115,7 +9947,7 @@ Para los efectos del presente artículo, se entiende que el periódico oficial s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10147,7 +9979,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10169,7 +10001,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10421,6 +10253,10 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 22.- La Secretaría deberá emitir los lineamientos y metodología necesaria para analizar el costo-beneficio de desarrollar el Proyecto y deberá publicarlos en la Gaceta del Gobierno.
@@ -10432,6 +10268,10 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 23. La Unidad Contratante deberá realizar el análisis Costo-Beneficio conforme a los lineamientos y metodología que determine la Secretaría. En el análisis, se deberá mostrar si el desarrollo del Proyecto genera beneficios netos iguales o mayores a los que se obtendrían en caso de que el mismo fuere ejecutado como un gasto de inversión pública en el que los servicios fueren prestados directa o indirectamente por la Unidad Contratante.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10450,6 +10290,10 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 26.- Podrá otorgarse el uso de bienes muebles o inmuebles a través de concesión, arrendamiento, comodato o cualquier otro medio legal, según la legislación en la materia lo permita. En cualquier caso, la vigencia del título legal a través del cual se otorgue dicho uso será por un periodo máximo equivalente a la vigencia del Contrato.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10483,6 +10327,10 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO SEGUNDO. Del derecho de vía
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 29.- Una vez otorgada la Autorización del Proyecto, por parte de la Secretaría, la Unidad Contratante podrá proceder a la elaboración del modelo de Contrato para el Proyecto respectivo. El modelo deberá ser un contrato integral que describa todas y cada una de las obligaciones y derechos del Proveedor y la Unidad Contratante respecto de los servicios que el Proveedor prestará a través del Contrato. Lo anterior, sin perjuicio de que existan otros contratos, convenios o concesiones que regulen aspectos del Proyecto distintos de la prestación de los servicios.
@@ -10494,6 +10342,10 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 30.- El Contrato deberá elaborarse con base en los elementos materia de la Autorización del Proyecto. Todos los elementos del Contrato, incluyendo la asignación de derechos y obligaciones de las partes bajo el mismo, deberán ser congruentes y consistentes con la descripción contenida en la documentación presentada para la Autorización del Proyecto.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10589,6 +10441,10 @@ En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 39.- La solicitud de Autorización del Modelo de Contrato se presentará ante la Secretaría a fin de que ésta pueda llevar a cabo la evaluación de dicha solicitud conforme al procedimiento establecido para tal efecto en el reglamento de este Libro. El modelo de Contrato que se presente para autorización de la Secretaría deberá ser consistente con el Proyecto correspondiente previamente autorizado por la Legislatura.
@@ -10612,6 +10468,10 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 ## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO SEGUNDO. Del plazo
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10638,6 +10498,10 @@ IV. Las demás que establezca el reglamento de este Libro.
 44.- La integración, funcionamiento y atribuciones del Comité de Proyectos a que se refiere el presente capítulo se determinará en el reglamento de este Libro.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10674,6 +10538,10 @@ Con el objeto de brindar difusión y publicidad a los procesos de contratación 
 47.- Los Contratos se adjudicarán, por regla general, a través de licitaciones públicas llevadas a cabo mediante convocatoria pública a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia energética y el uso responsable del agua y del ambiente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO CUARTO. De la terminación y revocación
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10797,6 +10665,10 @@ La Unidad Contratante podrá cancelar una licitación por caso fortuito o fuerza
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO QUINTO. De los dictámenes
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 59.- La Unidad Contratante podrá optar por no llevar a cabo el procedimiento de licitación pública y celebrar el Contrato a través de los procedimientos de invitación restringida o de adjudicación directa cuando:
@@ -10879,6 +10751,10 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 63.- La adjudicación del Contrato obligará a la Unidad Contratante y a la persona en quien hubiere recaído la adjudicación, a formalizar el Contrato en términos del modelo autorizado en la forma prevista en este Libro dentro del plazo y bajo las modalidades que establezca el reglamento de este Libro.
@@ -10921,6 +10797,10 @@ La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el P
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
 68.- La Unidad Contratante, previa autorización de la Secretaría, podrá rescindir administrativamente el Contrato en caso de incumplimiento de las obligaciones a cargo del Proveedor que conforme al Contrato se hayan estipulado como causales de rescisión. A efecto de poder llevar a cabo la rescisión administrativa, la Unidad Contratante deberá solicitar la autorización correspondiente de la Secretaría dentro de los diez días naturales siguientes a aquél en que se hubiere agotado cualquier periodo otorgado al Proveedor en el Contrato para subsanar incumplimientos. Si previamente a la determinación de dar por rescindido el Contrato, se subsana el incumplimiento correspondiente, el procedimiento quedará sin efecto.
@@ -10944,6 +10824,10 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 ## TITULO SEPTIMO. De las infracciones y sanciones
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO TERCERO. Del Sistema de Transporte Masivo del Estado de México
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -10970,6 +10854,10 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 ## TITULO OCTAVO. De la Instancia de Inconformidad
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -11007,9 +10895,9 @@ IV. La situación específica del infractor.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEPTIMO. De las infracciones y sanciones
+## TITULO PRIMERO. Disposiciones Generales
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -11063,11 +10951,1057 @@ El órgano de control interno respectivo, según sea el caso, notificará la int
 
 En las materias reguladas en el presente Libro no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
 
+> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+# LIBRO DECIMO SEPTIMO. DE LAS COMUNICACIONES
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO SEGUNDO. DE LA INFRAESTRUCTURA VIAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+1.- Este Libro tiene por objeto regular las comunicaciones de jurisdicción local.
+
+Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal, junto con su correspondiente derecho de vía y zona de seguridad.
+
+Son de jurisdicción local las comunicaciones, vialidades, carreteras, caminos de cualquier naturaleza transferidas bajo cualquier título por el Gobierno Federal al Gobierno Estatal con base en la legislación aplicable.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+2.- Las disposiciones de este Libro tienen como finalidad:
+
+l. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional;
+
+II. Que se cuente con un transporte masivo o de alta capacidad, seguro, eficiente y de calidad; y
+
+III. Que se cuente con estaciones de transferencia modal, cómodas y eficientes que permitan a los usuarios la transición segura para los diferentes modos de transporte.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+3.- Son de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local.
+
+Para la construcción, conservación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, no se requiere licencia de construcción.
+
+El transporte de pasajeros de alta capacidad o masivo, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+4.- Para efectos del presente Libro se entenderá por:
+
+l. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
+
+II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
+
+III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+
+IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
+
+V. Infraestructura de Jurisdicción Local.- Conjunto de vías jerarquizadas que facilitan la comunicación entre las diferentes áreas de la actividad económica y se clasifican en:
+
+a) Infraestructura Vial Primaria.- La integrada por carreteras, pasos vehiculares, avenidas, calzadas y calles que comunican a dos o más municipios de la entidad, permitiendo los viajes de largo recorrido y aquellas que por sus características de ubicación, operación y vocación de servicio permitan la integración de la red vial primaria, así como las que comuniquen a instalaciones estratégicas estatales;
+
+b) Infraestructura Vial Local.- La integrada por pasos vehiculares, avenidas, calzadas, calles y cerradas que permiten la comunicación al interior del municipio y la integración con la red vial primaria.
+
+VI. Publicidad Exterior.- A toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual que sean observados desde la Infraestructura Vial Primaria, instalada en dicha infraestructura, su derecho (sic) vía y su zona de seguridad;
+
+VII. Secretaría.- A la Secretaría de Comunicaciones del Estado de México;
+
+VIII. Transporte Masivo o de Alta Capacidad.- Al que se presta en vías específicas y/o confinadas, con equipos electrónicos de recaudo y despacho centralizado, con rodamiento técnico especializado y/o con equipo vehicular capaz de transportar a más de cien personas a la vez; incluyendo los accesos, vestíbulos, líneas de conducción, andenes, trenes, autobuses de alta capacidad, equipos electromecánicos, vías, carril confinado, talleres, depósitos de vehículos, locales técnicos, sistemas electrónicos de recaudo y despacho y demás construcciones e instalaciones destinadas al servicio público de transporte de alta capacidad;
+
+IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Comunicaciones, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+5.- Son autoridades para la aplicación de este Libro:
+
+I. El Gobernador del Estado;
+
+II. El Secretario de Comunicaciones:
+
+III. La Junta de Caminos del Estado de México;
+
+IV. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
+
+V. El Sistema de Transporte Masivo del Estado de México; y
+
+VI. Los municipios.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+6.- El Gobernador del Estado está facultado para decretar la intervención de un servicio público o de un bien del dominio público concesionados, cuando se interrumpa o afecte la prestación eficiente del servicio o la explotación del bien.
+
+La intervención durará mientras subsista la causa que la motivó, para el sólo efecto de que no se interrumpa el servicio o la explotación del bien.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+7.- La Secretaría o la Secretaría del Medio Ambiente en el ámbito de sus respectivas atribuciones determinarán mediante disposiciones de carácter general, por causas de fuerza mayor o interés público, restricciones al uso de la infraestructura vial.
+
+Para los efectos de este artículo la Secretaría contará con un registro de vías y en él se indicarán aquellas en las que el tránsito se restringirá.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+8.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia y a la infraestructura de los sistemas de transporte masivo, incluyendo las estaciones de transferencia modal, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+9.- Tratándose de servicios para infraestructura vial que la Secretaría determine que se presten bajo la modalidad de proyectos para prestación de servicios, las disposiciones de este Libro no serán aplicables en cuanto a la forma de contratación y la regulación del propio contrato, siendo aplicables las disposiciones del Libro Décimo Sexto de este Código, por lo que no se requerirá que el particular cuente con título de concesión.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+10.- La Secretaría, por sí o por conducto de terceros, podrá adquirir para el Estado los bienes inmuebles y, en su caso, los bienes muebles necesarios para el desarrollo de las comunicaciones de jurisdicción local.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO TERCERO. DE LAS CONCESIONES, PERMISOS Y DICTAMENES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+11.- La infraestructura vial se clasifica en:
+
+l. Infraestructura vial primaria; y
+
+II. Infraestructura vial local.
+
+La infraestructura vial primaria estará a cargo del Estado y la infraestructura vial local, de los municipios.
+
+La infraestructura vial podrá ser libre de peaje, de cuota o de uso restringido.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+12.- Los usuarios de la infraestructura vial tendrán las obligaciones siguientes:
+
+l. Respetar el derecho de vía y su zona de seguridad;
+
+II. Cubrir las tarifas correspondientes en la infraestructura vial de cuota;
+
+III. Cubrir el costo que se genere por la adquisición del instrumento de uso restringido; y
+
+IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de vía, sin perjuicio de la responsabilidad civil o penal que derive de los hechos o actos constitutivos de la infracción administrativa y de aquéllas sanciones que procedan en términos de otras disposiciones legales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+13.- La Secretaría es la autoridad competente para el otorgamiento de permisos para el uso, ocupación y/o aprovechamiento del derecho de vía y su zona de seguridad y fijará las normas técnicas que deberán observarse para dichos fines.
+
+El titular de un permiso otorgado en materia de derecho de vía en ningún caso podrá ceder los derechos y obligaciones del mismo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+14.- Cualquier instalación u obra en el derecho de vía y su zona de seguridad; independientemente de los requisitos exigidos en el Reglamento, la Norma Técnica y el permiso correspondiente; en ningún caso afectarán el patrimonio histórico, artístico y cultural del Estado ni el entorno ambiental.
+
+Se requiere permiso previo de la Secretaría para la ejecución de obras e instalaciones que tengan acceso directo a la Infraestructura Vial Primaria, así como para la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión de productos derivados del petróleo o cualquiera otra obra subterránea, superficial o aérea, en el derecho de vía y su zona de seguridad de la infraestructura vial primaria.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+15.- Los permisionarios del derecho de vía y su zona de seguridad están obligados a:
+
+l. Responder por los daños que pudieran causar a la infraestructura vial y a terceros, por defectos o vicios ocultos en las construcciones que realicen o en los trabajos de instalación, reparación y conservación;
+
+II. Mantener en buen estado las obras que ejecuten, conservando la seguridad y estética de las mismas;
+
+III. Permitir la práctica de las inspecciones que ordene la autoridad competente;
+
+IV. Cumplir con los ordenamientos y disposiciones legales y administrativos, federales, estatales y municipales;
+
+V. Realizar exclusivamente las obras aprobadas en el permiso; y
+
+VI. Por causas de utilidad pública y de interés general, desocupar dentro del plazo establecido o solicitado por la autoridad competente, el derecho de vía o zona de seguridad de que se trate, sin costo alguno para ésta.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+16.- Son responsables solidarios, las personas físicas o jurídicas colectivas propietarias de inmuebles en los que se realice obra o instalación a las que se refiere el presente capítulo, sin contar con el permiso correspondiente.
+
+Para efectos de notificación administrativa y del procedimiento de ejecución, suspensión, clausura y retiro; los responsables solidarios se podrán constituir en depositarios de los bienes para efectos del resguardo, custodia, devolución o retiro de las estructuras.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+17.- Las autoridades competentes, tomando en cuenta las circunstancias de cada caso, podrán proyectar y construir los libramientos necesarios, con objeto de distribuir adecuadamente el paso del transporte por las poblaciones.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+18.- La autoridad competente podrá exigir a los propietarios de los predios colindantes a la infraestructura vial y a los sistemas de transporte masivo que, por razones de seguridad, los cerquen respecto del derecho de vía.
+
+Los accesos que se construyan dentro del derecho de vía se considerarán auxiliares a la infraestructura vial.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+19.- En los terrenos adyacentes a la infraestructura vial y a los sistemas de transporte masivo, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de minas, canteras o cualquier tipo de obras que requieran el empleo de explosivos o gases nocivos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+20.- El que sin permiso o autorización, con cualquier obra o trabajo invada el derecho de vía y su zona de seguridad de la infraestructura vial primaria, estará obligado a demoler o retirar la obra ejecutada y a realizar las reparaciones de los daños que haya sufrido el derecho de vía.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+21.- La demolición parcial o total que ordene la autoridad competente como medida de seguridad o sanción, será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del infractor y su monto constituirá un crédito fiscal.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+22.- Cuando el retiro sea efectuado por la autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine como depósito, hasta por un plazo no mayor de 3 meses, contado a partir de la fecha en que se realice el retiro.
+
+Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda facultada para disponer del mismo y aplicar su valor al pago de las infracciones y gastos correspondientes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+23.- La Secretaría es la autoridad competente en materia de Publicidad Exterior en la Infraestructura Vial Primaria y tendrá las siguientes atribuciones:
+
+l. Establecer y ejecutar políticas en materia de publicidad exterior;
+
+II. Elaborar y emitir normas técnicas en materia de publicidad exterior;
+
+III. Ordenar y realizar visitas de verificación administrativa del cumplimiento de este Libro, su Reglamento, así como de las obligaciones contenidas en los permisos y autorizaciones correspondientes;
+
+IV. Ordenar a los titulares de permisos y autorizaciones la ejecución de trabajos de conservación, mantenimiento, reparación y retiro que sean necesarios;
+
+V. Ordenar los trabajos de retiro de instalaciones publicitarias que hayan sido colocadas sin autorización o permiso;
+
+VI. Integrar el Registro Estatal de Publicidad Exterior;
+
+VI!. Formular y divulgar el Programa Estatal de Publicidad Exterior;
+
+VIII. Las demás que les atribuyan otras disposiciones del Código Administrativo del Estado de México, Leyes, reglamentos y demás disposiciones administrativas aplicables.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+24.- Se requiere permiso para la instalación de Publicidad Exterior que se instale por un período mayor a noventa días. El permiso tendrá vigencia hasta por un año, renovable por el mismo plazo de vigencia por el que fue otorgada, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+
+La autoridad competente se abstendrá de renovar los permisos en los casos señalados por el Programa Estatal de Publicidad Exterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+25.- Se requiere autorización cuando la instalación de Publicidad Exterior se coloque por un período menor a noventa días. La autorización tendrá la vigencia que corresponda al período de exhibición de la publicidad y podrá ser renovada por una sola ocasión por el mismo plazo por el que fue otorgada, siempre que se esté al corriente en el cumplimiento de las obligaciones a cargo del titular.
+
+La autoridad competente se abstendrá de renovar las autorizaciones en los casos señalados por el Programa Estatal de Publicidad Exterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+26.- Los permisos y autorizaciones a que se refiere este capítulo serán otorgados, atendiendo al ámbito de su competencia, por los Directores Generales de la Junta de Caminos, el Sistema de Aeropuertos, Autopistas y Servicios Conexos y Auxiliares del Estado de México, o el Sistema de Transporte Masivo del Estado de México, con la previa autorización, en su caso, de sus respectivos órganos de gobierno.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+27.- Los permisos y autorizaciones no podrán ser objeto de cesión por ninguna vía.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+28.- Los interesados en obtener permiso o autorización en términos del presente capítulo deberán cubrir el pago de derechos previsto en la ley de la materia y cumplir con los requisitos contenidos en el Reglamento correspondiente, así como en el Programa Estatal de Publicidad Exterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+29.- Sin perjuicio de otras disposiciones legales y reglamentarias, así como de lo previsto en los permisos y autorizaciones respectivos, son obligaciones de los titulares de los mismos:
+
+l. Conservar la publicidad exterior en condiciones óptimas de seguridad y estabilidad con el mantenimiento adecuado;
+
+II. Contar con seguro vigente de responsabilidad civil y daños a terceros durante la permanencia del anuncio y de su estructura, debiendo conservar en el inmueble donde se localice la Publicidad Exterior copia simple de la póliza correspondiente;
+
+III. Colocar en lugar visible del anuncio nombre del titular del permiso o autorización y el número de autorización o permiso correspondiente; y
+
+IV. Permitir el acceso al inmueble y brindar todas las facilidades al personal comisionado para realizar las visitas de verificación.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+30.- No requerirán permiso ni autorización los trabajos de urgencia y mantenimiento que sean necesarios para la conservación y buen funcionamiento de la infraestructura vial, la señalización e información vial, de obra y de gobierno estatales y aquellos trabajos comprendidos en los títulos de concesión otorgados o derivados de los mismos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+31.- La expedición de los permisos y autorizaciones a que se refiere este Capítulo se sujetará al Programa Estatal de Publicidad Exterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+32.- La Secretaría emitirá el Programa Estatal de Publicidad Exterior cada tres años.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+33.- El Programa Estatal de Publicidad Exterior se publicará en la Gaceta del Gobierno del Estado de México, será de observancia obligatoria y tendrá vigencia de tres años a partir de su expedición, sin perjuicio de poder ser revisado por la Secretaría en cualquier momento; cualquier modificación deberá ser publicada en la Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+34.- El Programa Estatal de Publicidad Exterior establecerá como mínimo lo siguiente:
+
+l. Los tramos de vialidades, carreteras, autopistas, pasos vehiculares, avenidas, calzadas que componen la Infraestructura Vial Primaria donde se podrá autorizar la instalación de Publicidad Exterior;
+
+II. El establecimiento de corredores de publicidad exterior en ciertas zonas de la Infraestructura Vial Primaria;
+
+III. Clasificación de los distintos tipos de anuncios, avisos, señales, mensajes, y demás medios de comunicación visual, atendiendo, entre otros, a su ubicación, su contenido y sus dimensiones;
+
+IV. La indicación precisa de los casos en que no sea necesaria la obtención de permisos o autorizaciones, atendiendo a la clasificación a que se refiere la fracción anterior;
+
+V. Las especificaciones técnicas que deberán cumplir la publicidad exterior;
+
+VI. Indicación de las dimensiones máximas del material a ser utilizado;
+
+VII. Indicación de los materiales a ser utilizados;
+
+VIII. Definición de las distancias mínimas que deberán existir entre anuncios; y
+
+IX. Precisión de los casos en que por razones de interés general se deba proceder al retiro, demolición, o reubicación de anuncios.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+35.- Sin menoscabo de lo que se disponga en el Programa Estatal de Publicidad Exterior, en todo caso está prohibida la instalación de cualquier publicidad exterior provisional o permanente en:
+
+l. Puentes vehiculares, pasos a desnivel, muros de contención y taludes;
+
+II. Monumentos arqueológicos, artísticos e históricos;
+
+III. La vía pública, parques, plazas y jardines públicos;
+
+IV. Cerros, rocas, árboles, lomas, laderas, bosques o puentes, así como en áreas colindantes con ríos, presas, lagos, canales y zonas federales;
+
+V. Zonas declaradas como áreas naturales protegidas, de valor ambiental, o como suelo de conservación;
+
+VI. Dispositivos para el control de tránsito instalados en la infraestructura vial;
+
+VII. Azoteas, patios, jardines, terrenos y demás inmuebles de propiedad particular con uso de suelo habitacional; y
+
+VIII. Los demás lugares que expresamente prohíban otras leyes y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+36.- El Programa Estatal de Publicidad Exterior determinará los casos en que se autorizará la instalación de publicidad exterior provisional o permanente en inmuebles de propiedad particular con uso de suelo comercial y los requisitos que deberán cubrirse para tal efecto.
+
+En el caso de colocación de publicidad exterior en puentes peatonales, también se estará a las disposiciones del Programa Estatal de Publicidad Exterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+37.- Son responsables solidarios, las personas físicas o jurídicas colectivas propietarias de inmuebles en los que se realice obra o instalación a las que se refiere el presente capítulo, sin contar con el permiso o autorización correspondiente.
+
+Para los efectos de notificación administrativa y del procedimiento de ejecución, suspensión, clausura y retiro; los responsables solidarios se podrán constituir en depositarios de los bienes para efectos del resguardo, custodia, devolución o retiro de las estructuras.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+38.- El otorgamiento de una concesión sobre las comunicaciones de jurisdicción local es facultad del Ejecutivo del Estado, sujeta siempre a las necesidades públicas.
+
+Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Comunicaciones podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
+
+l. La Secretaría, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas;
+
+II. La convocatoria se publicará simultáneamente en la Gaceta del Gobierno, en un periódico de amplia circulación nacional y en otro de amplia circulación estatal, así como en los medios electrónicos de difusión;
+
+III. Las bases del concurso incluirán como mínimo:
+
+a) Las características técnicas de la construcción de la infraestructura vial, de la estación de transferencia modal o del sistema de transporte masivo;
+
+b) El anteproyecto técnico;
+
+c) El plazo máximo de la concesión;
+
+d) Los aforos estimados;
+
+e) Las condiciones financieras básicas;
+
+f) Las características de la operación de servicios y tarifas iniciales; y
+
+g) La indicación de que las propuestas deberán incluir medidas o acciones para mejorar el medio ambiente en la zona de influencia de la infraestructura que se licita, como aportación del proyecto.
+
+IV. Podrán participar uno o varios interesados que demuestren:
+
+a) Solvencia económica;
+
+b) Capacidad legal;
+
+c) Capacidad técnica;
+
+d) Capacidad administrativa y financiera; y
+
+e) Cumplir con los demás requisitos que establezcan las bases que expida la Secretaría.
+
+V. La Secretaría, con base en el análisis comparativo de las propuestas admitidas, emitirá el dictamen que servirá de base para el fallo; éste último será dado a conocer a todos los participantes y contendrá, además, la información relativa a las propuestas que se desechen y las causas que la motivaren;
+
+VI. La propuesta ganadora estará a disposición de los interesados durante diez días hábiles a partir de que se haya dado a conocer el fallo correspondiente, para que manifiesten lo que a su derecho convenga;
+
+VII. No se otorgará la concesión cuando ninguna de las propuestas presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso.
+
+Declarada desierta una licitación pública, se podrá adjudicar la concesión a través del procedimiento de invitación restringida a cuando menos tres personas.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y EL REGISTRO ESTATAL DE COMUNICACIONES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+41.- La Secretaría podrá cancelar el procedimiento de otorgamiento de la concesión por causas de interés público, caso fortuito o de fuerza mayor; asimismo, podrá cancelarlo cuando existan circunstancias debidamente justificadas que extingan de la necesidad pública que le dio origen; y que, en caso de continuarse con el procedimiento, se pudiera ocasionar un daño o perjuicio al Estado.
+
+Las concesiones y permisos en materia de transporte masivo no otorgan exclusividad d los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
+
+La Secretaría establecerá mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+42.- Las concesiones se otorgarán hasta por un plazo de treinta años y se podrá ampliar o disminuir, aún antes de que concluya el plazo otorgado originalmente; en caso de que se amplíe, no podrá exceder de otros treinta años.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+43.- La ampliación o disminución del plazo procederá cuando existan los casos siguientes:
+
+l. Existan causas no imputables a los concesionarios, debidamente justificadas que ocasionen el retraso en los programas correspondientes, en la misma proporción del retraso;
+
+II. Se hayan generado nuevas inversiones, con motivo de adecuaciones u obras y equipos adicionales al proyecto;
+
+III. La Secretaría autorice o convenga con el concesionario nuevas contraprestaciones o incrementos de las ya existentes para el desarrollo de proyectos de infraestructura en comunicaciones del Estado;
+
+IV. Cuando el concesionario haya recuperado su inversión y la tasa de retorno correspondiente; y
+
+V. En general cualquier consideración de carácter financiero que ocurra durante la vigencia de la concesión, debidamente acreditada ante la autoridad.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+44.- El concesionario deberá solicitar por escrito a la Secretaría la modificación del plazo; la Secretaría contestará dentro de los sesenta días hábiles contados a partir de la fecha de presentación de la misma debidamente requisitada.
+
+La Secretaría establecerá, en su caso, las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta:
+
+l. La inversión;
+
+II. Los costos futuros de ampliación y mejoramiento; y
+
+III. Las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+45.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando:
+
+l. El monto de la inversión;
+
+II. El tiempo para su recuperación; y
+
+III. La obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose entre otras normas a la normatividad de protección al ambiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+46.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo:
+
+l. En todos los casos:
+
+a) Diseñar, proyectar, explotar y operar la infraestructura vial y los sistemas de transporte masivo, o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado;
+
+b) Acatar las normas técnicas correspondientes;
+
+c) Presentar aviso a la autoridad competente en caso de enfrentar dificultades que pongan en riesgo el cumplimiento de las obligaciones contenidas en el título de concesión o permiso;
+
+d) Vigilar y preservar el derecho de vía y coadyuvar en la preservación de su zona de seguridad, así como dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
+
+e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial y de sistemas de transporte masivo, y las contenidas o derivadas del título de concesión o permiso y de aquellas que emita, en su caso, la autoridad en materia de comunicaciones;
+
+f) Proporcionar en todo tiempo a la autoridad competente los datos, informes y documentos que le sean solicitados relacionados con el objeto de la concesión o permiso, y otorgar las facilidades necesarias a dicha autoridad para la realización de visitas de verificación, inspección y calificación;
+
+g) Resarcir, a los usuarios y a los terceros, los daños que se generen por causas imputables al concesionario o permisionario, por lo que deberán contratar y mantener vigentes los seguros que garanticen la reparación de los daños y el pago de los perjuicios que se ocasionen;
+
+h) Constituir en tiempo y forma las garantías, seguros y fianzas en los términos establecidos en la reglamentación de este Libro y en el título de la concesión; y
+
+i) Las demás que se señalen en este Libro y en el título de concesión respectivo.
+
+II. Además de lo anterior, los concesionarios deberán:
+
+a) Atender las instrucciones y recomendaciones que en su caso, realice la autoridad competente respecto de las tarifas y la operación de la infraestructura y de los sistemas de transporte masivo concesionados;
+
+b) Presentar aviso por la terminación de la obra, con el objeto de que la autoridad competente constate que su construcción se ajusta al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma técnica correspondiente;
+
+c) Solicitar y justificar mediante el estudio correspondiente cualquier modificación a las cuotas de peaje, conforme a las bases de la concesión.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+47.- Las concesiones y permisos se sujetarán a lo siguiente:
+
+l. En los casos permitidos en este Libro, requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento y en el título de concesión correspondiente;
+
+II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o enajenar los derechos que deriven de las concesiones o permisos a ningún gobierno o estado extranjero; ni a sociedades mercantiles que no reúnan los requisitos que se establezcan para ser concesionario;
+
+III. Requerirán autorización previa para la constitución de garantías. Bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión, lo cual se hará constar en las escrituras públicas correspondientes;
+
+IV. Tratándose de concesiones sobre la infraestructura vial o transporte de alta capacidad o masivo de personas:
+
+a) Se podrán celebrar contratos de obras y de prestación de servicios con personas físicas o jurídico colectivas, previa autorización de la autoridad. En este caso, los concesionarios serán los únicos responsables por las obligaciones establecidas en la concesión;
+
+b) Al término de la concesión o sus modificaciones, los bienes objeto de la concesión o afectos al servicio, pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+48.- El servicio público de transporte masivo o de alta capacidad deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+49.- Son obligaciones de los concesionarios del servicio de transporte masivo o de alta capacidad:
+
+l. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión;
+
+II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
+
+III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
+
+IV. Proporcionar en todo tiempo a la Secretaría los datos, informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+
+V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría;
+
+VI. Resarcir a los usuarios y a los terceros, de los daños que se les causen con motivo de la concesión;
+
+VII. Constituir en tiempo y forma las garantías en los términos establecidos en las disposiciones reglamentarias de este Libro y en el título de concesión;
+
+VIII. Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones, así como controles gráficos o electrónicos de velocidad máxima establecidos en las normas oficiales correspondientes;
+
+IX. Someter los vehículos a la revisión físico-mecánica con la periodicidad y en los términos que señalen las disposiciones secundarias;
+
+X. Para estos efectos, los concesionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva, podrán realizar la verificación, en términos de las disposiciones técnicas correspondientes;
+
+XI. Mantener los vehículos en condiciones de seguridad, comodidad e higiene para el servicio;
+
+XII. Cumplir con la cromática y demás elementos de identificación de los vehículos, en términos de las disposiciones reglamentarias y administrativas;
+
+XIII. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios;
+
+XIV. Respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por la Secretaría;
+
+XV. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+50.- Cualquier persona puede hacer uso del transporte, masivo o de alta capacidad, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
+
+l. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+
+II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios; y
+
+III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+51.- En las concesiones de transporte masivo o de alta capacidad, los concesionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
+
+La Secretaría emitirá las disposiciones reglamentarias aplicables; en las que establecerá las medidas y el procedimiento para garantizar la adecuada reparación de dichos daños.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+52.- La Secretaría podrá autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio público y a las necesidades públicas.
+
+Las tarifas deberán establecer los descuentos que en su caso existan para personas de la tercera edad y estudiantes.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+53.- Pueden constituirse garantías sobre los derechos de la concesión, los bienes muebles e inmuebles afectos al servicio concesionado, así como sobre los capitales del concesionario destinados a la explotación y administración del servicio, el dinero en caja y los derechos otorgados al concesionario por terceros.
+
+La garantía podrá constituirse por un lapso que en ningún caso comprenderá la última quinta parte del tiempo en que deba finalizar la concesión.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+54.- En la escritura o contrato de garantía correspondiente se insertará la autorización de la Secretaría para otorgar la garantía, el término de la concesión y la prohibición consistente en que por ningún motivo pueden adquirir la concesión las personas que no reúnan los requisitos que se establezcan para ser concesionario.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+55.- Las concesiones y permisos terminan por:
+
+l. Vencimiento del plazo establecido en el título de la concesión o permiso, o de la prórroga que se hubiera otorgado;
+
+II. Renuncia del titular;
+
+III. Revocación;
+
+IV. Rescate, tratándose de concesiones;
+
+V. Desaparición del objeto o de la finalidad de la concesión o permiso;
+
+VI. Disolución, liquidación o quiebra del titular;
+
+VII. Muerte de su titular, siempre y cuando no se hubiesen designado beneficiarios o si dentro del término de noventa días contados a partir de la fecha del fallecimiento, no se presentan los beneficiarios designados en términos de las disposiciones aplicables, a solicitar la transmisión de la concesión o prórroga;
+
+VIII. Por sustitución del titular, para incorporarse a un nuevo sistema de prestación del servicio; y
+
+IX. Las demás causas que se establezcan en la concesión, permiso o en el reglamento de la materia.
+
+La terminación de la concesión o el permiso no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno Estatal y con terceros.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+56.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
+
+l. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+
+II. Interrumpir el concesionario la operación de la vía parcial o totalmente, sin causa justificada;
+
+III. Reincidir en la aplicación de tarifas superiores a las autorizadas;
+
+IV. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ellos;
+
+V. No cubrir las indemnizaciones por daños que se originen con motivo de la operación de la infraestructura vial o la prestación de los servicios;
+
+VI. Ceder, dar en garantía, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, sin previa autorización;
+
+VII. Modificar o alterar sustancialmente la naturaleza o condiciones de la infraestructura vial o de los servicios sin previa autorización;
+
+VIII. Prestar servicios distintos a los señalados en la concesión o permiso respectivo;
+
+IX. No otorgar o no mantener en vigor la garantía de daños contra terceros;
+
+X. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en este Libro, las disposiciones que de él emanen o la concesión o permiso;
+
+XI. Por carecer, no renovar o reemplazar los vehículos, equipo e instalaciones con las que se preste el servicio, en los plazos señalados en las concesiones de los sistemas de transporte masivo o de alta capacidad;
+
+XII. No proporcionar la información requerida por la autoridad o impedir o dificultar las visitas de verificación e inspección; y
+
+XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+57.- El titular de una concesión o permiso que hubiere sido revocado estará imposibilitado para obtener otro nuevo dentro de un plazo no menor al cincuenta por ciento del plazo original del título de concesión que hubiere incumplido, dicho plazo se contará a partir de que hubiere quedado firme la resolución respectiva.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+58.- La Secretaría emitirá los dictámenes de incorporación e impacto vial, tratándose de las autorizaciones de impacto regional a que se refiere el Libro Quinto de este Código.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+59.- El dictamen de incorporación e impacto vial es la resolución técnica de la Secretaría, que determina la factibilidad de incorporar a la infraestructura vial, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deban llevarse a cabo para mitigar su efecto.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+60.- El dictamen de incorporación vial es la resolución técnica que determina la factibilidad de acceder a la infraestructura vial primaria y de cuota determinando las obras y acciones necesarias para tal fin.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+61.- El dictamen de procedencia para helipuertos y aeropistas es la resolución técnica que determina la factibilidad para su construcción y operación, en su caso, estableciendo las obras y acciones necesarias.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+62.- El dictamen de procedencia para licencia de construcción municipal es la resolución técnica que determina la factibilidad para la construcción, instalación o modificación de antenas para radiotelecomunicaciones y de anuncios publicitarios que requieran elementos estructurales en la zona de seguridad de la red vial primaria.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+63.- Los Organismos Auxiliares sectorizados conforme a su competencia emitirán los siguientes dictámenes:
+
+l. El dictamen de incorporación vial establecido en el artículo 17.59;
+
+II. El dictamen de procedencia para helipuertos y aeropistas establecido en el artículo 17.61; y
+
+III. El dictamen de procedencia para licencia de construcción en caso de construcción, instalación o modificación de antenas para radiotelecomunicaciones y de anuncios publicitarios que requieran elementos estructurales, en la zona de seguridad de la red vial primaria, establecido en el artículo 17.62.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+64.- La Junta de Caminos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, programación, presupuestación, ejecución, conservación, mantenimiento y administración de la infraestructura vial primaria libre de peaje y de uso restringido.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+65.- La Junta, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+
+I. Otorgar y declarar la terminación de permisos para la utilización del derecho de vía, así como vigilar y supervisar el cumplimiento de las obligaciones derivadas de los mismos;
+
+II. Vigilar que se respete el derecho de vía en la infraestructura vial a su cargo, así como preservar, administrar y regular el uso, aprovechamiento y restricciones del mismo, de acuerdo a la normatividad reglamentaria;
+
+III. Proyectar, instalar y mantener en operación el señalamiento y los dispositivos de seguridad en la infraestructura vial a su cargo;
+
+IV. Administrar, operar y mantener la maquinaria y equipo de construcción a su cuidado o de su propiedad;
+
+V. Asesorar a los ayuntamientos en la realización de obras a su cargo relacionadas con la infraestructura vial;
+
+VI. Efectuar el cobro de derechos conforme a la ley por la expedición de permisos para la utilización del derecho de vía;
+
+VII. Proporcionar servicios técnicos a terceros, cuando le sean solicitados, para la realización de obras de infraestructura vial; y
+
+VIII. Las demás que se señalen en este Libro y otras disposiciones.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+66.- La dirección y administración de la Junta está a cargo de un consejo directivo y un director general.
+
+La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+## TITULO QUINTO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano, de Agua y Obra Pública, de Medio Ambiente, y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+68.- El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+69.- El patrimonio de la Junta se integra con:
+
+l. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
+
+II. Las aportaciones, recursos y demás ingresos que le proporcionen la Federación, el Estado, los municipios y los particulares en términos de los convenios y acuerdos respectivos;
+
+III. Los subsidios y donaciones que le otorguen los gobiernos federal, estatal y municipales, y las personas físicas o morales de carácter público o privado;
+
+IV. Los ingresos que obtenga por la realización de sus actividades, en cumplimiento de su objeto; y
+
+V. Los bienes o recursos que reciba por cualquier título legal.
+
+Los ingresos del Organismo, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+70.- El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura vial de cuota; efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles en territorio estatal, y en el ámbito estatal para la construcción y operación de aeropistas y helipuertos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+71.- El Sistema, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+
+l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, administración, rehabilitación y mantenimiento de la infraestructura vial de cuota;
+
+II. Emitir el dictamen de procedencia técnica para la construcción y/o operación de helipuertos y aeropistas;
+
+III. Participar en los Comités Técnicos de los fideicomisos de administración y fuente de pago, que se constituyan, por los concesionarios o inversionistas, con motivo de los proyectos de la infraestructura vial de cuota;
+
+IV. Otorgar y declarar la terminación de permisos para el aprovechamiento y explotación de la infraestructura vial, su derecho de vía y su zona de seguridad;
+
+V. Efectuar el cobro de derechos conforme a la ley por la expedición de permisos para la utilización de la infraestructura vial, el derecho de vía y su zona de seguridad;
+
+VI. Celebrar contratos para el aprovechamiento y explotación de la infraestructura vial;
+
+VII. Efectuar las calificaciones de operación y conservación de la infraestructura vial para determinar el monto de los recursos que deban aplicarse para su adecuado funcionamiento;
+
+VIII. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, mantenimiento, rehabilitación y conservación de infraestructura vial;
+
+IX. Autorizar los ajustes y supervisar la correcta aplicación de las cuotas de peaje;
+
+X. Presentar a la consideración de la Secretaría, conforme a las disposiciones aplicables, proyectos sustentados de otorgamiento, ampliación o modificación del plazo de las concesiones para la construcción, administración, operación, rehabilitación, mantenimiento y conservación de la infraestructura vial, así como de la terminación anticipada, revocación o rescate de dichas concesiones;
+
+XI. Contratar financiamiento, empréstitos y créditos con cargo a su patrimonio para el cumplimiento de su objeto;
+
+XII. Instrumentar, en auxilio de la Secretaría, cuándo así se le requiera, los procedimientos de licitación pública para el otorgamiento de concesiones para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura vial de cuota conforme a la ley;
+
+XIII. Supervisar, vigilar e inspeccionar la construcción y operación de la infraestructura vial de cuota y en su caso, emitir las recomendaciones correspondientes;
+
+XIV. Evaluar el cumplimiento de las condiciones de los títulos de concesión y, en su caso, proponer a la Secretaría la aplicación de las sanciones a que se hagan acreedores los concesionarios;
+
+XV. Adquirir en forma directa o a través de terceros los inmuebles necesarios para el cumplimiento de sus fines y su derecho de vía, así como sus instalaciones y equipamiento y en su caso, enajenarlos;
+
+XVI. Proporcionar en el ámbito de su competencia asesoría a los municipios que lo soliciten;
+
+XVII. Coadyuvar con las concesionarias en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con la materia de su competencia; y
+
+XVIII. Las demás que se señalen en este Libro y otras disposiciones.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+72.- La dirección y administración del Sistema está a cargo de un consejo directivo y un director general.
+
+La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano, de Agua y Obra Pública, de Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+74.- El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+75.- El patrimonio del Sistema se integra con:
+
+l. Los bienes y recursos que obtenga con motivo de las concesiones y contratos que se otorguen o celebren en materia de infraestructura vial de cuota;
+
+II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
+
+III. Los legados, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se le designe como fideicomisario;
+
+IV. Los bienes o recursos que adquiera por cualquier título legal para el cumplimiento de su objeto; y
+
+V. Los bienes que reviertan a favor del Estado de México con motivo de las concesiones o contratos.
+
+Los ingresos del Sistema, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+76.- El Sistema de Transporte Masivo del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura y operación del transporte de alta capacidad, y las estaciones de transferencia modal, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de transporte de alta capacidad en territorio estatal.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+77.- El Sistema, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+
+l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, operación, administración, explotación, conservación, rehabilitación y mantenimiento del transporte de alta capacidad y las estaciones de transferencia modal;
+
+II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad y de estaciones de transferencia modal;
+
+III. Presentar a consideración del Secretario de Comunicaciones, para su autorización y firma, en su caso:
+
+a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad, así como estaciones de transferencia modal; y
+
+b) Proyectos sustentados en los que se proponga la terminación anticipada, revocación o rescate de las concesiones o contratos.
+
+IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad, así como de las estaciones de transferencia modal;
+
+V. Proyectar y diseñar en coordinación con la Secretaría de Transporte, las rutas alimentadoras para el transporte de alta capacidad y coadyuvar en su puesta en operación;
+
+VI. Otorgar y declarar la terminación de permisos para el aprovechamiento y explotación de la infraestructura y operación del derecho de vía del transporte de alta capacidad;
+
+VII. Efectuar el cobro de derechos conforme a la ley, por la expedición de permisos para la utilización de la infraestructura, administración, explotación y operación del derecho de vía del transporte de alta capacidad;
+
+VIII. Efectuar las calificaciones de operación y conservación de la infraestructura y operación del transporte de alta capacidad y estaciones de transferencia modal;
+
+IX. Autorizar las tarifas, así como los ajustes y supervisar la correcta aplicación de las mismas al transporte de alta capacidad y a los servicios que se presten en las estaciones de transferencia modal;
+
+X. Contratar financiamiento, empréstitos y créditos con cargo a su patrimonio, para aplicarlos al cumplimiento de su objeto;
+
+XI. Realizar visitas de inspección, supervisar y vigilar las concesiones y contratos del transporte de alta capacidad, su derecho de vía, así como la prestación de servicios en las estaciones de transferencia modal y emitir las recomendaciones correspondientes;
+
+XII. Evaluar el cumplimiento de las concesiones, contratos y permisos y, en su caso, calificar las infracciones y aplicar las sanciones a que se hagan acreedores los prestadores del servicio público de transporte de alta capacidad y en las estaciones de transferencia modal;
+
+XIII. Adquirir y enajenar los inmuebles necesarios para la implementación del transporte de alta capacidad, su derecho de vía, estaciones de transferencia modal, así como sus instalaciones y equipamiento;
+
+XIV. Proporcionar, en el ámbito de su competencia, asesoría a los municipios que lo soliciten;
+
+XV. Coadyuvar con las empresas operadoras y constructoras en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con el transporte de alta capacidad y estaciones de transferencia modal; y
+
+XVI. Las demás que se señalen en este Libro y otras disposiciones.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+78.- La dirección y administración del Sistema está a cargo de un Consejo Directivo y un Director General.
+
+La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con ocho vocales, que son: el Secretario de Comunicaciones, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano, de Transporte y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+80.- El Director General será nombrado por el Gobernador del Estado, a propuesta del Presidente del Consejo Directivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+81.- El patrimonio del Sistema se integra con:
+
+l. Los bienes y recursos que obtenga con motivo de las concesiones, permisos y contratos que se otorguen o celebren en materia de infraestructura de transporte de alta capacidad y de estaciones de transferencia modal;
+
+II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
+
+III. Los legados, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se le designe como fideicomisario;
+
+IV. Los bienes o recursos que adquiera por cualquier título legal para el cumplimiento de su objeto; y
+
+V. Los bienes que se reviertan con motivo de la terminación de las concesiones, permisos y contratos.
+
+Los ingresos del Sistema, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el Consejo Directivo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+82.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+83.- El registro estatal de comunicaciones contendrá la información siguiente:
+
+l. Concesiones y permisos estatales;
+
+II. Constitución de garantías;
+
+III. Estatutos y representación de concesionarios y permisionarios; y
+
+IV. Las demás que señale el reglamento correspondiente.
+
+El Registro Estatal de Comunicaciones será público y tendrá efectos declarativos.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+84.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Título.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+85.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 17.
+
+86.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de comunicaciones de jurisdicción local, serán sancionadas con:
+
+l. Amonestación;
+
+II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad en contravención a lo dispuesto en el presente Libro incluyendo los casos de Publicidad Exterior, la multa será por el cincuenta por ciento del valor de la obra o instalación;
+
+III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios o se interrumpa la prestación del servicio;
+
+IV. Suspensión temporal o definitiva, parcial o total, de la obra o instalaciones;
+
+V. Revocación de la concesión, permiso o autorización;
+
+VI. Retiro de anuncios publicitarios; y
+
+VII. Las sanciones que se contengan en los respectivos títulos de concesión.
+
 T R A N S I T O R I O S
-
-## TITULO OCTAVO. De la Instancia de Inconformidad
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -11870,3 +12804,37 @@ G.G. 16 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contra lo ría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
