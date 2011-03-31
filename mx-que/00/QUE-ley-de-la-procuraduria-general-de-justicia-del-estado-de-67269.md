@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2011-02-25"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -477,9 +477,19 @@ XXIII. Solicitar del órgano jurisdiccional federal, la intervención de comunic
 
 XXIV. Autorizar la infiltración de elementos investigadores en las asociaciones delictivas, velando siempre que no se cause daño a la vida o salud de las personas y se emita acuerdo fundado y motivado que justifique la necesidad de la medida en las diligencias de preparación del ejercicio de la acción penal, para investigar las estructuras y formas de operar de dichos grupos. Esta facultad y la intervención de comunicaciones privadas, no podrán ser delegadas por los investigadores designados, salvo autorización expresa del Procurador;
 
-XXV. Diseñar medidas de política criminológica, participando o elaborando programas y campañas permanentes con el propósito de prevenir conductas ilícitas, vigilando su correcta aplicación y evaluando periódicamente sus resultados en coordinación, cuando se considere necesario, con otras dependencias del sector público o privado, propiciando el acceso de la comunidad a la elaboración de estas medidas, promoviendo así la participación y la concertación social; y
+XXV. Diseñar medidas de política criminológica, participando o elaborando programas y campañas permanentes con el propósito de prevenir conductas ilícitas, vigilando su correcta aplicación y evaluando periódicamente sus resultados en coordinación, cuando se considere necesario, con otras dependencias del sector público o privado, propiciando el acceso de la comunidad a la elaboración de estas medidas, promoviendo así la participación y la concertación social;
 
-XXVI. Las demás facultades y obligaciones que otras leyes y reglamentos le confieren.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XXVI. Dar contestación a las solicitudes de colaboración, al titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tengan por objeto realizar las investigaciones para determinar el domicilio de quien ejerza la patria potestad de un menor puesto a disposición de aquélla o acogido por una institución de asistencia pública o privada y la filiación, tratándose de menores expósitos, así como ordenar su realización a la Dirección de Investigación del Delito, en caso de considerarlo procedente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+XXVII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
 
 ### Capítulo Segundo. De los Subprocuradores
 
@@ -1360,3 +1370,19 @@ Artículo Segundo. Respecto de los antecedentes penales que existan con anterior
 Para ello, la Procuraduría General de Justicia del Estado de Querétaro, a través del Departamento de Antecedentes Penales, dependiente de la Dirección de Control de Procesos, realizará la cancelación administrativa de los antecedentes penales que correspondan, en los registros conducentes, bastando la solicitud por escrito del interesado, a la que acompañará los documentos que acrediten haber cumplido la sanción impuesta; hecho lo anterior, se expedirá, a costa del solicitante, documento en el que conste la cancelación de mérito.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 31 DE MARZO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor, sesenta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, contará con sesenta días naturales, contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", para crear o, en su caso, modificar y publicar las disposiciones reglamentarias necesarias para el cumplimiento de la presente Ley.
+
+Artículo Tercero. Las adopciones que se encuentren en trámite a la fecha de inicio de vigencia de esta Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la presente Ley.
+
+No obstante lo anterior, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del adoptante de obtener la adopción en los términos de la presente Ley, podrá seguirse el procedimiento previsto para ello en este cuerpo legal.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a la adopción en los términos de la presente Ley, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+
+Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
