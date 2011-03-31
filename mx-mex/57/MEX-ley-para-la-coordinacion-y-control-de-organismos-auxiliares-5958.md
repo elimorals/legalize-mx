@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2010-05-12"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -75,7 +75,7 @@ Los procedimientos para la creación y modificación de la estructura y bases de
 
 Además de lo señalado en el Artículo 47 de la Ley Orgánica de la Administración Pública, los organismos descentralizados deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 I. Que su creación haya sido aprobada por la Legislatura o por decreto del Poder Ejecutivo en los términos que establece la Constitución Política del Estado;
 
@@ -83,13 +83,15 @@ II. Que su patrimonio se constituya total o parcialmente con bienes, fondos y as
 
 III. Que su finalidad u objetivo sean la prestación de servicios públicos, la explotación de bienes o recursos propiedad del Estado, la investigación científica, difusión de la cultura, impartición de educación, obtención de recursos destinados a la asistencia o seguridad social o en general para colaborar operativamente con el Ejecutivo del Estado, mediante la realización de acciones sean de interés general o de beneficio colectivo.
 
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 6.
 
-Para efectos de esta Ley, se asimilan a las empresas propiedad del Gobierno del Estado, aquellas que satisfagan, además de lo señalado en el Artículo 48 de la Ley Orgánica de la Administración Pública, alguno de los siguientes requisitos:
+Para efectos de esta Ley, se consideran como empresas de participación estatal, aquellas que satisfagan, además de lo señalado en el Artículo 48 de la Ley Orgánica de la Administración Pública, alguno de los siguientes requisitos:
 
-I. Que el Gobierno del Estado haya suscrito una proporción mayoritaria de su capital social, directamente, o a través de otros organismos auxiliares, y fideicomisos, y
+I. Que el Gobierno del Estado sea su administrador y haya suscrito una proporción mayoritaria de su capital social, directamente, o a través de otros organismos auxiliares, y fideicomisos; y
 
-II. Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado.
+II. Que el Gobierno del Estado sea su administrador y en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por éste.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -111,7 +113,7 @@ Para efectos de esta Ley, los fondos a que se refiere el presente artículo, se 
 
 Los organismos auxiliares podrán modificar su estructura y bases de organización conforme al procedimiento que al efecto establezca el ordenamiento o acto jurídico de su creación, cuando sea necesario para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 Siempre que las modificaciones afecten la estructura orgánica o presupuestal o se reflejen en su reglamento interno, deberán ser aprobadas por el Gobernador del Estado a propuesta del titular de la dependencia coordinadora de sector respectiva, previa opinión de la Secretaría de Finanzas y Planeación o de la de Administración según corresponda.
 
@@ -167,19 +169,19 @@ VI. Recabar de los organismos auxiliares la información financiera indispensabl
 
 VII. Dictar lineamientos, para la utilización de excedentes de recursos financieros.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 VIII. Fijar criterios para la formulación de sus programas y actividades, a fin de que se conformen a los objetivos contemplados en el Plan de Desarrollo del Estado de México y en los programas sectoriales, regionales y especiales y vigilar su cumplimiento;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 IX. Establecer los lineamientos y políticas conforme a las cuales deben formular sus proyectos y modificaciones al presupuesto de ingresos, de egresos y de inversiones y vigilar su cumplimiento;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 X. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 XI. Establecer normas para el control de su gasto público y programas de inversión, así como vigilar su cumplimiento;
 
@@ -187,19 +189,19 @@ XI. Establecer normas para el control de su gasto público y programas de invers
 
 XII. Requerir la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación establecidos por la propia Secretaría de Finanzas, Planeación y Administración para efectos de consolidación de estados financieros y preparación de la cuenta pública;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 XIII. Requerir la información estadística necesaria para sus funciones de planeación;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 XIV. Autorizar los catálogos de cuentas para el registro de sus operaciones;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 XV. Vigilar que el ejercicio de su presupuesto de ingresos, de egresos y de inversiones se ajuste a los lineamientos y políticas emitidas en el marco de su competencia; y
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 XVI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
@@ -219,27 +221,27 @@ II. Requerir la información estadística necesaria para sus funciones de planea
 
 La Secretaría de Finanzas, Planeación y Administración tendrá también respecto de los organismos auxiliares las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 I. Emitir disposiciones para su control administrativo y en materia de estructuras orgánico - funcionales y vigilar su cumplimiento;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 II. Dictar las disposiciones administrativas relativas a la adquisición, enajenación, arrendamiento y uso de bienes y la contratación de los servicios necesarios para su operación y funcionamiento, así como para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y, equipo en los términos de la ley de la materia;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 III. Expedir políticas y lineamientos que permitan la revisión permanente de sus sistemas, métodos y procedimientos de trabajo, para adecuar su organización interna a los programas de gobierno;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 IV. Dictar las disposiciones que normen la contratación, remuneración y prestaciones que deban efectuarse a los servidores públicos de los mismos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 V. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales, dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 VI. Las demás que le determine el Gobernador del Estado conforme a la legislación aplicable.
 
@@ -255,19 +257,19 @@ La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituy
 
 La Secretaría de la Contraloría tendrá, respecto de los organismos auxiliares las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 I. Vigilar que los acuerdos de coordinación que se realicen con dependencias federales dentro de su respectivo ámbito de competencia, se lleven a cabo dentro del marco de los convenios respectivos;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 II. Vigilar que las acciones que realicen los responsables del ejercicio del presupuesto de ingresos, de egresos y de inversiones, se ajusten a los lineamientos y políticas emitidas por la Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 III. Llevar a cabo auditorías y visitas de inspección tendientes a la supervisión de sus operaciones y control interno;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 IV. Proponer al Ejecutivo del Estado el nombramiento de un comisario que deberá ser un profesionista en las áreas contables - administrativas que ejerza la vigilancia y control en los organismos descentralizados, empresas propiedad del Gobierno del Estado y fideicomisos; y
 
@@ -321,7 +323,7 @@ Las facultades otorgadas en el artículo anterior a los órganos de gobierno, se
 
 ###### Artículo 22.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+(DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -329,23 +331,23 @@ Las facultades otorgadas en el artículo anterior a los órganos de gobierno, se
 
 Los órganos de gobierno de los organismos auxiliares se integran, salvo las excepciones previstas en la ley, con:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 I. Un presidente, quien será el coordinador del sector al que esté adscrita la entidad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 II. Un secretario, quien será designado por el órgano de gobierno a propuesta de su presidente;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 III. Un comisario, quien será el representante de la Secretaría de la Contraloría; y
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 IV. El número de vocales que dispongan los actos jurídicos de creación. En todo caso habrá un vocal designado por la Secretaría de Finanzas y Planeación y otro por la Secretaría de Administración.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 1995)</small>
 
 Cuando las entidades no estén sectorizadas, el Gobernador del Estado designará al secretario que deba presidir el órgano de gobierno.
 
@@ -359,15 +361,15 @@ Los organismos auxiliares deberán publicar sus balances consolidados anuales en
 
 ###### Artículo 25.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+(DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
 ###### Artículo 26.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+(DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
 ###### Artículo 27.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+(DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -383,7 +385,7 @@ A efecto de dar cumplimiento a lo señalado en el artículo 20 de esta Ley, los 
 
 I. Vincular las actividades de las entidades a las prioridades y programas estatales, sectoriales y regionales que fije el Ejecutivo del Estado a través de los planes y programas que al efecto emita.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 1995)</small>
 
 II. Responsabilizarse de la programación institucional y presupuestación, así como de la supervisión de la marcha normal de sus operaciones;
 
@@ -393,7 +395,7 @@ IV. Vigilar que los procesos productivos y el uso de los instrumentos que permit
 
 V. Las demás que se determinen en sus respectivos ordenamientos o actos jurídicos de creación, o les asigne el reglamento que de esta Ley al efecto se expida.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 30.
 
@@ -401,9 +403,9 @@ Por cada uno de los integrantes, los órganos de gobierno aprobarán un suplente
 
 ###### Artículo 31.
 
-(DEROGADO, P.O. 29 DE AGOSTO DE 1995)
+(DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 32.
 
@@ -499,7 +501,7 @@ Dr. Carlos Almada López.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 29 DE AGOSTO DE 1995
+G.G. 29 DE AGOSTO DE 1995
 
 ###### ARTICULO PRIMERO.
 
@@ -564,3 +566,37 @@ SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo 
 SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
