@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-en-materia-del-acuerdo-para-44074
 country: "mx"
 rank: "otro"
 publication_date: "2005-03-31"
-last_updated: "2010-03-29"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44074&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2022-08-31"
 ---
 # DISPOSICIONES COMPLEMENTARIAS EN MATERIA DEL ACUERDO PARA EL FORTALECIMIENTO DE LA ASOCIACION ECONOMICA (JAPON, 2004)
 
-ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL 1 DE ABRIL DE 2010 AL 31 DE MARZO DE 2011 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE ABRIL DE 2011 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DEL JAPÓN
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 29 de marzo de 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2012 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DEL JAPÓN, PUBLICADO EN EL D.O.F. DE 29 DE JUNIO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+Acuerdo publicado en la Segunda y Tercera Sección del Diario Oficial de la Federación, el jueves 31 de marzo de 2011.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
@@ -32,17 +34,15 @@ Que el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Es
 
 Que el Acuerdo establece las tasas arancelarias preferenciales para la importación de mercancías originarias del Japón, así como las reglas de origen y otros mecanismos específicos para definir tales mercancías;
 
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación, que entró en vigor el 1 de julio del mismo año y cuya Tarifa ha sido reformada con objeto de crear, modificar y suprimir algunas fracciones y tasas arancelarias mediante Decretos publicados en el Diario Oficial de la Federación el 30 de junio y el 27 de diciembre de 2007; el 27 de mayo, 24 de octubre, 16 y 24 de diciembre de 2008; el 16 de diciembre de 2009 y el 9 de febrero de 2010;
-
 Que el presente Acuerdo tiene por objeto facilitar el despacho aduanero de las mercancías originarias del Japón que se importan a México, dando a conocer las tasas aplicables para su importación;
 
 Que la desgravación establecida en los instrumentos jurídicos antes referidos no exime del cumplimiento de medidas de regulación y restricción no arancelarias, ni de los requisitos previos de importación impuestos por la Secretaría de Economía o por cualquier otra dependencia en el ámbito de sus facultades, así como tampoco de los requisitos de las Normas Oficiales Mexicanas, o del trámite del despacho aduanero de mercancías, entre otros, siempre que estén de conformidad con los compromisos internacionales adquiridos por México;
 
-Que es necesario dar a conocer a los operadores y a las autoridades aduaneras las condiciones arancelarias y los mecanismos que regirán la importación de las mercancías originarias del Japón durante el periodo comprendido del 1 de abril de 2010 al 31 de marzo de 2011, y
+Que es necesario dar a conocer a los operadores y a las autoridades aduaneras las condiciones arancelarias y los mecanismos que regirán la importación de las mercancías originarias del Japón a partir del 1 de abril de 2011, y
 
 Que las condiciones descritas anteriormente permitirán un comercio ordenado, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, se expide el siguiente
 
-ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL 1 DE ABRIL DE 2010 AL 31 DE MARZO DE 2011 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+ACUERDO
 
 Primero.- Conforme a lo dispuesto en el Acuerdo para el Fortalecimiento de la Asociación Económica entre los Estados Unidos Mexicanos y el Japón, la tasa arancelaria preferencial a que se refiere el presente Acuerdo y su Apéndice, se rige por lo señalado en este mismo instrumento, a menos que el artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación establezca una tasa arancelaria menor, en cuyo caso se aplicará esta última.
 
@@ -56,19 +56,27 @@ II. Apéndice: el Apéndice de este Acuerdo;
 
 III. LIGIE: la Ley de los Impuestos Generales de Importación y de Exportación, y
 
-IV. Mercancías originarias del área conformada por México y el Japón: las que cumplan con lo establecido en el Capítulo 4, "Reglas de Origen" del Acuerdo.
+IV. Mercancías originarias del área conformada por México y el Japón: las que cumplan con lo establecido en el Capítulo 4, “Reglas de Origen” del Acuerdo.
 
-Tercero.- Para determinar la tasa arancelaria preferencial que deberá aplicarse a la importación de las mercancías originarias del área conformada por México y el Japón, se aplicará la indicada en el Apéndice o, en su caso, la establecida en los puntos quinto, sexto, séptimo, octavo, noveno y décimo de este Acuerdo.
+Tercero.- Para determinar la tasa arancelaria preferencial que deberá aplicarse a la importación de las mercancías originarias del área conformada por México y el Japón, se aplicará la indicada en el Apéndice o, en su caso, la establecida en los puntos quinto, sexto, séptimo, octavo, noveno, décimo, décimo primero y décimo segundo de este Acuerdo.
 
-Cuarto.- Se aplicará el arancel previsto en el artículo 1o. de la LIGIE, sin reducción alguna, a la importación de las mercancías comprendidas en las fracciones arancelarias identificadas con el código "EXCL." en la columna correspondiente a "Arancel" del Apéndice o de las tablas contenidas en los puntos octavo, noveno y décimo de este Acuerdo
+Cuarto.- Se aplicará el arancel previsto en el artículo 1o. de la LIGIE, sin reducción alguna, a la importación de las mercancías comprendidas en las fracciones arancelarias identificadas con el código "EXCL." en la columna correspondiente a "Arancel" del Apéndice o de las tablas contenidas en los puntos décimo, décimo primero y décimo segundo de este Acuerdo.
 
-Quinto.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código "CJP" en la columna "Nota" del Apéndice y en la columna "Arancel" de la tabla contenida en el punto octavo de este Acuerdo, será el arancel preferencial que a continuación se indica para cada una de ellas, ya sea para la totalidad de las mercancías incluidas en cada fracción o, si así se establece, únicamente para la modalidad de la mercancía indicada siempre que se cuente con un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con este requisito, se aplicará la tasa arancelaria preferencial indicada en el Apéndice o, en su caso, la que le corresponda según el punto octavo del presente Acuerdo.
+Quinto.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código “CJP” en la columna “Nota” del Apéndice, será el arancel preferencial que a continuación se indica para cada una de ellas, ya sea para la totalidad de las mercancías incluidas en cada fracción o, si así se establece, únicamente para la modalidad de la mercancía indicada, siempre que se cuente con un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con este requisito, se aplicará la tasa arancelaria preferencial indicada en el Apéndice del presente Acuerdo.
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 2 A LA 3.</small>
 
-Sexto.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias identificadas con el código "PII" en la columna "Nota" del Apéndice, estará libre de arancel, siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Electrónica de México.
+Sexto.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código “CJP” en la columna “Nota” del Apéndice y en la columna “Arancel” de la tabla contenida en el punto décimo de este Acuerdo, será el arancel preferencial que a continuación se indica para cada una de ellas, ya sea para la totalidad de las mercancías incluidas en cada fracción o, si así se establece, únicamente para la modalidad de la mercancía indicada, siempre que se cuente con un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con este requisito, se aplicará la tasa arancelaria preferencial indicada en el Apéndice o, en su caso, la que le corresponda según el punto décimo del presente Acuerdo. Lo dispuesto en este punto dejará de aplicarse a partir del 1 de abril de 2012.
 
-Séptimo.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se identifican con los códigos "PXIX" o "PXIX*" en la columna "Nota" del Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de México. No obstante lo anterior, las mercancías identificadas con el código "PXIX*" gozarán del arancel mencionado únicamente cuando se trate de la modalidad de la mercancía que se indica a continuación
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 3 A LA 4.</small>
+
+Séptimo.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código “CJP” en la columna “Nota” del Apéndice, será el arancel preferencial que a continuación se indica para cada una de ellas, ya sea para la totalidad de las mercancías incluidas en cada fracción o, si así se establece, únicamente para la modalidad de la mercancía indicada, siempre que se cuente con un certificado de cupo expedido por la Secretaría de Economía. De no cumplirse con este requisito, se aplicará la tasa arancelaria preferencial indicada en el Apéndice del presente Acuerdo. Lo dispuesto en este punto dejará de aplicarse a partir del 1 de abril de 2015.
+
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 5 A LA 8.</small>
+
+Octavo.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias identificadas con el código “PII” en la columna “Nota” del Apéndice, estará libre de arancel, siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Electrónica de México. Lo dispuesto en este punto dejará de aplicarse a partir del 1 de abril de 2015.
+
+Noveno.- La importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se identifican con los códigos “PXIX” o “PXIX*” en la columna “Nota” del Apéndice, estará libre de arancel siempre que el importador esté autorizado para operar bajo el Programa de Promoción Sectorial de la Industria Automotriz y de Autopartes de México. No obstante lo anterior, las mercancías identificadas con el código “PXIX*” gozarán del arancel mencionado únicamente cuando se trate de la modalidad de la mercancía que se indica a continuación:
 
 Fracción Modalidad de la mercancía
 
@@ -82,26 +90,34 @@ Fracción Modalidad de la mercancía
 
 7226.91.06 De anchura inferior o igual a 500 mm.
 
-Octavo.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código "NJP" en la columna "Nota" del Apéndice y de la tabla contenida en el punto noveno de este Acuerdo, será el arancel señalado a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
+Lo dispuesto en este punto dejará de aplicarse a partir del 1 de abril de 2015.
 
-(VEASE ARCHIVO ANEXO)
+Décimo.- El arancel aplicable a la importación de las mercancías originarias del área conformada por México y el Japón, comprendidas en las fracciones arancelarias que se señalan en este punto, identificadas con el código "NJP" en la columna "Nota" del Apéndice y de la tabla contenida en el punto décimo primero de este Acuerdo, será el arancel señalado a continuación, únicamente cuando se trate de la modalidad de la mercancía que se indica:
 
-Noveno.- El arancel aplicable a la importación de mercancías originarias del área conformada por México y el Japón, clasificadas en los términos de la Tarifa de la LIGIE vigente a partir del 1 de julio de 2007, e identificadas con el código "CORR" en la columna "Arancel" del Apéndice, será el arancel preferencial señalado en este punto para la modalidad de la mercancía que se indica, de conformidad con el Acuerdo y con la Tarifa de la LIGIE vigente hasta el 30 de junio de 2007, según la siguiente correlación:
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 9 A LA 29.</small>
 
-(VEASE ARCHIVO ANEXO)
+Décimo primero.- El arancel aplicable a la importación de mercancías originarias del área conformada por México y el Japón, clasificadas en los términos de la Tarifa de la LIGIE vigente a partir del 1 de julio de 2007, e identificadas con el código “CORR” en la columna “Arancel” del Apéndice, será el arancel preferencial señalado en este punto para la modalidad de la mercancía que se indica, de conformidad con el Acuerdo y con la Tarifa de la LIGIE vigente hasta el 30 de junio de 2007, según la siguiente correlación:
 
-Décimo.- La importación de las mercancías originarias del área conformada por México y el Japón, clasificadas en los términos de la Tarifa de la LIGIE vigentes a partir del 1 de enero de 2009, e identificadas con el código "CORR*" en la columna "Arancel" del Apéndice, estará sujeta al arancel preferencial señalado en este punto para la modalidad de la mercancía respectiva, de conformidad con el Acuerdo y con la Tarifa de la LIGIE vigente hasta el 31 de diciembre de 2008, según la siguiente correlación:
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 30 A LA 41.</small>
 
-(VEASE ARCHIVO ANEXO)
+Décimo segundo.- La importación de las mercancías originarias del área conformada por México y el Japón, clasificadas en los términos de la Tarifa de la LIGIE vigente a partir del 1 de enero de 2009, e identificadas con el código “CORR*” en la columna “Arancel” del Apéndice, estará sujeta al arancel preferencial señalado en este punto para la modalidad de la mercancía respectiva, de conformidad con el Acuerdo y con la Tarifa de la LIGIE vigente hasta el 31 de diciembre de 2008, según la siguiente correlación:
 
-Décimo Primero.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en los términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
+> <small>N. DE E. VEASE TABLA EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINA 42.</small>
+
+Décimo tercero.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en los términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor el 1 de abril de 2010 y concluirá su vigencia el 31 de marzo de 2011.
+UNICO.- El presente Acuerdo entrará en vigor a partir del 1 de abril de 2011.
 
-México, D.F., a 10 de marzo de 2010.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+México, D.F., a 16 de marzo de 2011.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
 
-APENDICE DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL 1 DE ABRIL DE 2010 AL 31 DE MARZO DE 2011 DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DEL JAPON
+> <small>N. DE E. VEASE APENDICE DEL ACUERDO EN LA SEGUNDA Y TERCERA SECCION DEL D.O.F. DE 31 DE MARZO DE 2011, PAGINAS DE LA 43 A LA 128 RESPECTIVAMENTE.</small>
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE JUNIO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
+
+SEGUNDO.- Se abroga el Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de abril de 2011 del Impuesto General de Importación para las mercancías originarias del Japón, y sus modificatorios publicados en el Diario Oficial de la Federación el 31 de marzo de 2011 y 30 de marzo de 2012, respectivamente.
