@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2011-03-01"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CODIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL B.O. DEL 31 DE MARZO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODlGO DE FAMILIA PARA EL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 31 DE MARZO DE 2011.</small>
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -105,13 +105,11 @@ Los derechos y obligaciones derivados de los estados de familia son irrenunciabl
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL B.O. DEL 31 DE MARZO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+(REFORMADO, B.O. 1 DE MARZO DE 2011) (F. DE E., B.O. 31 DE MARZO DE 2011)
 
 ###### Artículo 11.
 
-El matrimonio es la unión legítima de un hombre y una mujer, con el propósito expreso de integrar una familia, el respeto recíproco y la protección mutua, así como la eventual perpetuación de la especie. Cualquier contradicción contraria (sic) a estos fines, acordada por los cónyuges, se tendrá por no puesta.
+El matrimonio es la unión legítima de un hombre y una mujer, con el propósito expreso de integrar una familia, el respeto recíproco y la protección mutua, así como la eventual perpetuación de la especie. Cualquier disposición contraria a estos fines, acordada por los cónyuges, se tendrá por no puesta.
 
 ###### Artículo 12.
 
