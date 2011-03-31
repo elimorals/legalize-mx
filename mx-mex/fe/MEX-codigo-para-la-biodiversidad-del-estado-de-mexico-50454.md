@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2010-12-24"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -547,7 +547,13 @@ XXXVIII. Imponer las sanciones correspondientes por infracciones a este Libro en
 
 XXXIX. Hacer cumplir el presente Libro, su Reglamento y demás ordenamientos aplicables; y
 
-XL. Las demás que conforme a este Libro y otras disposiciones legales aplicables le correspondan.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XL. Determinar el uso restringido de la infraestructura vial; y
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XLI. Las demás que conforme a este libro y otras disposiciones aplicables le correspondan.
 
 ### CAPITULO IV. DE LAS FACULTADES DE LAS AUTORIDADES MUNICIPALES
 
@@ -621,7 +627,11 @@ XXXII. Atender los demás asuntos que en materia de preservación del equilibrio
 
 XXXIII. Crear el Consejo Municipal de Protección a la Biodiversidad y Desarrollo Sostenible; y
 
-XXXIV. Las demás que establezcan otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XXXIV. Solicitar a la Secretaría que determine el uso restringido de la infraestructura vial local; y
+
+XXXV. Las demás que establezcan otras disposiciones aplicables.
 
 ### CAPITULO V. DE LAS AUTORIDADES AUXILIARES
 
@@ -7414,3 +7424,37 @@ G.G. 24 DE DICIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
