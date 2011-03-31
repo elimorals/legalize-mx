@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2010-12-01"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1831,13 +1831,11 @@ En los demás casos, la suspensión podrá solicitarla el actor en el escrito de
 
 Cuando se otorgue la suspensión, se comunicará sin demora a la autoridad demandada para su inmediato cumplimiento.
 
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 255.
 
-La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto concluye el proceso administrativo. No se otorgará la suspensión si se sigue perjuicio a un evidente interés social, si se contravienen disposiciones de orden público o se deja sin materia el juicio.
-
-La suspensión podrá concederse con efectos restitutorios siempre que proceda el otorgamiento de la medida cautelar genérica, cuando se trate de actos que afecten a particulares de escasos recursos económicos, actos privativos de libertad decretados al particular por autoridad administrativa o bien, cuando a criterio del magistrado sea necesario otorgarle estos efectos con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular.
-
-La suspensión podrá ser revocada o modificada por la sala, en cualquier momento del juicio, previa vista que se conceda a los interesados en un plazo de tres días, si varían las condiciones en las cuales se otorgó.
+La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto concluye el proceso administrativo. No se otorgará la suspensión sino a solicitud de parte, si se sigue perjuicio al interés social, si se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
 ###### Artículo 256.
 
@@ -2366,3 +2364,37 @@ G.G. 1 DE DICIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
