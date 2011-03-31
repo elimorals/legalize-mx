@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2010-11-26"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -767,6 +767,12 @@ Lo anterior sin perjuicio de que el juez pueda ordenar otras publicaciones cuand
 
 No se autorizará el emplazamiento por edictos, si previamente no se comprueba, mediante los informes que rinda el Instituto Federal Electoral y las autoridades estatales y municipales que el juez determine, que de la persona a notificar no se ubicó domicilio en el lugar.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Tratándose del emplazamiento por edictos en los juicios de pérdida de patria potestad, se estará a lo establecido por el artículo 452 de este Código.
+
 ###### Artículo 123.
 
 La segunda y ulteriores notificaciones surtirán efectos en lista para los interesados, al día siguiente de su publicación.
@@ -979,9 +985,19 @@ XII. En los juicios de divorcio, el Tribunal del domicilio conyugal y en caso de
 
 XIII. Tratándose de juicio de alimentos, el del acreedor o deudor alimentario, a elección del primero;
 
-XIV. En la adopción, el de la residencia del adoptado; sobre la anulación o revocación de la adopción, el de la residencia del adoptado al momento del otorgamiento de la adopción; respecto de la conversión de la adopción simple a adopción plena, a elección del actor, el lugar de residencia del adoptado al momento de la adopción o donde tenga domicilio el adoptante; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XV. En los casos de restitución de menores, el de la residencia del menor hasta antes de su traslado o su retención ilícita; en casos de urgencia, el del lugar donde aquél se encontrare.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XIV. En la adopción, el de la residencia del adoptado; sobre la anulación de la adopción, el de la residencia del adoptado al momento del otorgamiento de la adopción; y (sic)
+
+XV. En los casos de restitución de menores, el de la residencia del menor hasta antes de su traslado o su retención ilícita; en casos de urgencia, el del lugar donde aquél se encontrare;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XVI. En los juicios sobre pérdida de la patria potestad de menores puestos a disposición de la Procuraduría de la Defensa del Menor y la Familia del Estado, el juez del domicilio de ésta.
 
 ###### Artículo 156.
 
@@ -1211,6 +1227,14 @@ X. Pidiendo la exhibición o compulsa de un protocolo o de cualquier documento q
 
 XI. Pidiendo el examen de testigos u otras declaraciones que se refieran a un proceso extranjero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XII. Con el otorgamiento del consentimiento de las personas que ejerzan la patria potestad sobre el menor que se pretenda adoptar, mismo que deberá ser otorgado en los términos del artículo 386 del Código Civil.
+
+Una vez conferido el consentimiento judicial para la adopción, éste tendrá el carácter de irrevocable.
+
 ###### Artículo 188.
 
 Al pedirse la diligencia preparatoria, debe expresarse el motivo por el que se solicita y el litigio que se trata de seguir o que se teme.
@@ -1359,7 +1383,17 @@ d) Restringir al cónyuge agresor para que no se acerque o realice cualquier act
 
 e) Informar a la autoridad competente sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas, en caso de que lo soliciten.
 
-f) Las demás que el juez considere necesarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+f) Suspensión temporal del régimen de visitas y convivencias, entre el presunto agresor de violencia familiar con sus descendientes, hasta en tanto el juez competente cuente con los elementos suficientes para determinar que estas convivencias son benéficas en el desarrollo integral del infante y no vulneran el interés superior del menor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+g) Las demás que el juez considere necesarias.
 
 ###### Artículo 203.
 
@@ -2487,9 +2521,13 @@ III. Cuando injustificadamente el oferente de la prueba no entregue los citatori
 
 A los ancianos de más de sesenta años y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus domicilios, en presencia de la otra parte si asistiere.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 382.
 
-Al Gobernador del Estado, al Secretario de Gobierno, al Procurador General de Justicia, a los diputados federales y locales, a los senadores, a los magistrados del Tribunal Superior de Justicia, a los jueces federales y del Estado, a los generales con mando y a los presidentes municipales, se pedirá su declaración por oficio y en esta forma la rendirán. En casos urgentes, podrán rendir su declaración personalmente.
+Al Gobernador del Estado, al Secretario de Gobierno, al Procurador General de Justicia, a los diputados federales y locales, a los senadores, a los magistrados del Tribunal Superior de Justicia, a los jueces federales y del Estado, a los generales con mando, a los presidentes municipales y al Procurador de la Defensa del Menor y la Familia, se pedirá su declaración por oficio y en esta forma la rendirán. En casos urgentes, podrán rendir su declaración personalmente.
 
 ###### Artículo 383.
 
@@ -2877,11 +2915,35 @@ En los casos de las fracciones IV, VI y XIII del artículo 445, no se requieren 
 
 Atendiendo a la naturaleza de las acciones interdictales el juez podrá prudentemente decretar las medidas provisionales convenientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 452.
 
-En el caso de la fracción VI del artículo 445, tratándose de las cuestiones relativas a la pérdida del ejercicio de la patria potestad, presentada la demanda se emplazará al demandado para que en tres días produzca su contestación y oponga las excepciones que estime pertinentes. Concluido este periodo, se abrirá el juicio a prueba, por un plazo de diez días; fenecido éste, se pondrán los autos a la vista de las partes para que formulen sus alegatos en el término de un día, citándose de inmediato para oír sentencia, misma que se pronunciará dentro de los cinco días siguientes.
+En el caso de la fracción VI del artículo 445 del presente Código, tratándose de las cuestiones relativas a la pérdida del ejercicio de la patria potestad, presentada la demanda se emplazará al demandado para que en cinco días produzca su contestación y oponga las excepciones que estime pertinentes. Concluido este periodo, se abrirá el juicio a prueba, por un plazo de diez días; fenecido éste, se pondrán los autos a la vista de las partes para que formulen sus alegatos en el término de un día, citándose de inmediato para oír sentencia, misma que se pronunciará dentro de los cinco días siguientes.
 
 Para efectos de este procedimiento, no será admisible la acción reconvencional.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Cuando el demandado sea persona incierta o se ignore su domicilio y de los informes solicitados al Instituto Federal Electoral, al Instituto Mexicano del Seguro Social, a la Dirección de Investigación del Delito de la Procuraduría General de Justicia del Estado y a la Secretaría de Planeación y Finanzas de Gobierno del Estado, no se desprenda domicilio donde se pudiera ubicar al demandado, el juez ordenará el emplazamiento por edictos que serán publicados por dos veces de 4 en 4 días hábiles en uno de los periódicos de mayor circulación en la Entidad, haciéndole saber al demandado que cuenta con un plazo de 5 días hábiles, contados a partir del día siguiente a la última publicación, para comparecer a contestar la demanda.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+El juez, valorando la información con la que se cuente en autos, podrá determinar la existencia de homónimos, en cuyo caso sólo ordenará la búsqueda de la persona que coincida con los datos generales de la persona demandada, expresando en autos los argumentos que valoró para la determinación.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Si la parte demandada no formula su contestación, se tendrá por contestada en sentido negativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 452 Bis.
+
+Tratándose de menores o incapaces que hayan sido acogidos por una institución de asistencia pública o privada o puestos a disposición de la Procuraduría de la Defensa del Menor y la Familia del Estado, ésta podrá exhibir ante el Juez los informes de las autoridades señaladas en el artículo que antecede, con fecha de expedición de hasta 45 días naturales anteriores a la fecha en que se exhiben en el juzgado. En este caso, si de los informes no se desprende domicilio donde se pudiera ubicar al demandado, el juez ordenará el emplazamiento por edictos en los términos establecidos en el artículo que antecede.
 
 ###### Artículo 453.
 
@@ -6141,43 +6203,43 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### Capítulo Cuarto. Adopción
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 970.
 
-El que pretenda adoptar a alguna persona deberá acreditar:
+El que pretenda adoptar a alguna persona deberá acreditar que cumple con los requisitos que señala el artículo 377 del Código Civil del Estado de Querétaro y demás disposiciones aplicables.
 
-I. Que es mayor de veinticinco años pero no de sesenta y que tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
+En la promoción inicial deberá manifestar el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela o de la persona o institución de asistencia social o privada que lo haya acogido y el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes. En caso de querer variar el nombre del adoptado, se expresará el nuevo nombre que se pretende asignar.
 
-II. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como si se tratara de hijo propio, según las circunstancias de la persona que trata de adoptarse;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Que la adopción es benéfica para la persona que trata de adoptarse;
-
-IV. Que el adoptante es persona de buenas costumbres; y
-
-V. Que tiene su domicilio en el Estado; a falta de éste que reside permanentemente en otra entidad federativa y a falta de éste, que está domiciliado en el extranjero.
-
-En la promoción inicial deberá manifestar el tipo de adopción que se promueve, el nombre, edad y domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela o de la persona o institución de asistencia social o privada que lo haya acogido y acompañar certificado de buena salud. Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción, que deberá realizarse por persona designada por el Juez que conozca del asunto.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 971.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme a los artículos 386 y 387 del Código Civil del Estado de Querétaro, el Tribunal resolverá dentro del tercer día.
+Rendidas las pruebas que justifiquen los requisitos que se exigen en el artículo 377 del Código Civil del Estado de Querétaro y demás disposiciones aplicables y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 386 y 387 del Código Civil del Estado de Querétaro, el juez valorará aquéllas y resolverá dentro del tercer día, fundando siempre la procedencia o improcedencia de la adopción en el interés superior del menor.
 
-El juez no dictará su resolución sino hasta que los adoptantes hubieren comparecido personalmente a efecto de imponerlos de los deberes que genera la adopción y ratifiquen su intención de adoptar.
+El juez no dictará su resolución sino hasta que los adoptantes hubieren comparecido personalmente, a efecto de imponerlos de los deberes que genera la adopción y ratifiquen su intención de adoptar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 972.
 
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, en los términos del artículo 381 del Código Civil del Estado de Querétaro, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 973.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá, conforme a lo dispuesto en el artículo 396 del Código Civil del Estado de Querétaro.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos de los párrafos anteriores, pueden rendirse toda clase de pruebas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 974.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 383 y 394, fracción II, del Código Civil del Estado de Querétaro, no pueden promoverse en diligencia de jurisdicción voluntaria.
+(DEROGADO, P.O. 31 DE MARZO DE 2011)
 
 ### Capítulo Quinto. De las informaciones ad perpétuam
 
@@ -6290,6 +6352,18 @@ El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad
 En ambos casos, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias respectivas.
 
 En el primer caso las diligencias se levantarán a petición de cualquier persona o institución que tenga conocimientos de los hechos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+###### Artículo 987 Bis.
+
+Cuando la Procuraduría de la Defensa del Menor y la Familia del Estado, tenga conocimiento de que quien ejerce la patria potestad de un menor desea entregárselo para darlo en adopción, podrá, por escrito, hacerlo del conocimiento del Juez Familiar que corresponda, acompañando a dicha solicitud el acta de nacimiento del menor.
+
+El Juez ordenará la comparecencia del titular de la Procuraduría de la Defensa del Menor y la Familia del Estado y de la persona o las personas que ejerzan la patria potestad, con la intervención del Ministerio Público.
+
+En comparecencia, el juez instruirá a quienes deseen entregar al menor en adopción sobre sus efectos. Ratificada que sea ante el juez la voluntad para entregar al menor en adopción, se hará constar que el consentimiento es otorgado libremente, sin remuneración, presión o coacción alguna y se declarará de oficio la terminación de la patria potestad, quedando la tutela del menor a cargo de la Procuraduría de la Defensa del Menor y la Familia del Estado.
 
 Título Especial
 
@@ -6518,3 +6592,19 @@ Rúbrica
 P.O. 26 DE NOVIEMBRE DE 2010.
 
 Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 31 DE MARZO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor, sesenta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, contará con sesenta días naturales, contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", para crear o, en su caso, modificar y publicar las disposiciones reglamentarias necesarias para el cumplimiento de la presente Ley.
+
+Artículo Tercero. Las adopciones que se encuentren en trámite a la fecha de inicio de vigencia de esta Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la presente Ley.
+
+No obstante lo anterior, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del adoptante de obtener la adopción en los términos de la presente Ley, podrá seguirse el procedimiento previsto para ello en este cuerpo legal.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a la adopción en los términos de la presente Ley, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+
+Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
