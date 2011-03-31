@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2011-03-14"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CODIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRA RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -370,6 +370,24 @@ XI.- Ejercer las demás facultades y obligaciones que establezcan las leyes.
 ARTICULO 31 BIS. Cuando el ministerio público estime necesaria para su función investigadora la intervención de una comunicación privada, lo pondrá en conocimiento del Procurador General de Justicia del Estado quien, si considera procedente dicha intervención, lo solicitará por escrito ante la autoridad federal que corresponda, fundando y motivando las causa legales de la solicitud, y expresando además el tipo de intervención, los sujetos de la misma y su duración.
 
 Sólo serán admisibles como prueba, los resultados de las intervenciones que se ajusten a los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, y a los requisitos y límites previstos en las leyes; los resultados que no cumplan con éstos, carecerán de valor probatorio.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+ARTICULO 31 TER.- El ministerio público y los cuerpos de Seguridad Pública Estatal, al investigar por denuncia o querella, los delitos que se relacionen con desapariciones, violencia sexual y homicidios de mujeres deberán normar sus actuaciones de investigación y de servicios periciales de búsqueda de las personas desaparecidas con base en una perspectiva de género a favor de la mujer, en el que se consideren:
+
+I.- Efectuar búsquedas de oficio y sin dilación, cuando se tenga conocimiento de casos de desaparición, priorizando la protección de la vida, libertad y la integridad de la víctima;
+
+II.- Resguardar y procesar, con apoyo de sus auxiliares, la escena del crimen o lugar del hallazgo, observando la cadena de custodia;
+
+III.- Instaurar la coordinación entre los cuerpos de seguridad pública estatal para dar con el paradero de la persona;
+
+IV.- Excluir los obstáculos de hecho o de derecho que disminuyan efectividad a la búsqueda o hagan imposible su inicio, como requerir actuaciones o procedimientos preliminares;
+
+V.- Asignar para la búsqueda, los recursos humanos y logísticos con que cuente;
+
+VI.- Confrontar el reporte de desaparición con las bases de datos con las que tenga acceso, de personas desaparecidas;
+
+VII.- Priorizar las búsquedas en áreas donde razonablemente sea más probable encontrar a la persona desaparecida sin descartar arbitrariamente otras posibilidades o áreas de la búsqueda.
 
 ###### ARTICULO 32.
 
@@ -4446,3 +4464,7 @@ Artículo Décimo.- Facultades de la Comisión Interinstitucional para la Reform
 Para instrumentar la aplicación del presente Código, se autoriza a la Comisión Interinstitucional para la Reforma Integral del Sistema de Justicia Penal, para que sus integrantes en el ejercicio de sus facultades, atribuciones y dentro de su ámbito competencial, tomen las medidas necesarias sobre: difusión del nuevo sistema, capacitación, designación y traslado de servidores públicos, creación de órganos que resulten pertinentes y todas aquellas que fueren necesarias para la implementación del nuevo sistema de Justicia penal, conforme a la disponibilidad presupuestal.
 
 Lo establecido en este artículo mantendrá su vigencia hasta que haya sido instaurado a plenitud el nuevo sistema de justicia penal, esto es, dentro del término que vence el día 31 treinta y uno de mayo de dos mil dieciséis.
+
+P.O. 31 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
