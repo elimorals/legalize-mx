@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -143,9 +143,17 @@ XI.- La participación y organización;
 
 XII.- La información;
 
-XIII.- La reintegración social; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-XIV.- Los relativos a los jóvenes con capacidades diferentes.
+XIII.- La reintegración social;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XIV.- Los relativos a los jóvenes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XV.- Acceso a la vivienda.
 
 #### SECCIÓN PRIMERA. DEL DERECHO A UNA VIDA DIGNA
 
@@ -195,9 +203,11 @@ IV.- Las demás que señalen las disposiciones legales aplicables.
 
 El Gobierno deberá formular las políticas y establecer los mecanismos que permitan el acceso igualitario y expedito de los jóvenes a los servicios médicos y de asistencia social que dependan de él.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 17.
 
-El Programa deberá incluir lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, tales como adicciones, enfermedades de transmisión sexual, nutrición, salud pública y comunitaria, entre otros.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud, de interés y prioritarias para la juventud, tales como adicciones, enfermedades de transmisión sexual, nutrición, salud pública y comunitaria, entre otros.
 
 #### SECCIÓN QUINTA. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
 
@@ -209,9 +219,11 @@ Los jóvenes tienen el derecho de disfrute y ejercicio pleno de su sexualidad, d
 
 El Gobierno deberá formular las políticas y establecer los mecanismos que permitan el acceso expedito de los jóvenes a los servicios de información y atención relacionados con el ejercicio de sus derechos sexuales y reproductivos.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 20.
 
-El Programa deberá incluir lineamientos y acciones que permitan generar y divulgar información referente a la salud reproductiva, ejercicio responsable de la sexualidad, educación sexual, enfermedades de transmisión sexual, embarazo en adolescentes, maternidad y paternidad responsable, entre otros.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos y acciones que permitan generar y divulgar información referente a la salud social, mental, ocupacional y nutricional, así como, fomentar el ejercicio responsable de la sexualidad, enfermedades de transmisión sexual, embarazo en adolescentes, maternidad y paternidad responsable, entre otros.
 
 #### SECCIÓN SEXTA. DEL DERECHO A LA EDUCACIÓN Y PROFESIONALIZACIÓN
 
@@ -233,9 +245,17 @@ V.- Ingresar a alguna institución pública de los niveles medio superior y supe
 
 VI.- Elegir la profesión u oficio de su preferencia, así como especializarse;
 
-VII.- Adquirir una beca para realizar sus estudios correspondientes, cumpliendo con los requerimientos que para tal efecto señalen las instancias competentes; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-VIII.- Las demás que señalen las disposiciones legales aplicables.
+VII.- Adquirir una beca para realizar sus estudios correspondientes, cumpliendo con los requerimientos que, para tal efecto, señalen las instancias competentes;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VIII.- Que sean evaluadas sus aptitudes, habilidades y conocimientos; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+IX.- Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -253,9 +273,29 @@ V.- Contemplar un sistema de becas, estímulos e intercambios académicos nacion
 
 VI.- Mejorar la educación media superior y superior, así como el desarrollo de programas de capacitación técnica y formación profesional de los jóvenes;
 
-VII.- Garantizar el libre funcionamiento de las organizaciones estudiantiles; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-VIII.- Promover la investigación.
+VII.- Garantizar el libre funcionamiento de las organizaciones estudiantiles;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VIII.- Garantizar el acceso a una educación basada en valores fundamentales y derechos humanos, que promuevan el desarrollo personal y social;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+IX.- Promover la participación de la familia en la educación formal de los jóvenes, para construir una relación positiva entre la institución educativa y la familia, a fin de reducir la posibilidad de que los niños y jóvenes abandonen la educación;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+X.- Promover la interacción y el entendimiento entre personas jóvenes con diferentes antecedentes sociales, culturales, religiosos y geográficos;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XI.- Promover la investigación, fortaleciendo la interacción entre innovación, investigación y educación, como elemento clave para el desarrollo humano y la creación de empleos; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XII.- Estructurar los programas educativos para maximizar la inclusión de grupos vulnerables, incluyendo, como unidades, a migrantes e inmigrantes, jóvenes con discapacidad, mujeres embarazadas, padres jóvenes, jóvenes pertenecientes a grupos étnicos y trabajadores jóvenes.
 
 #### SECCIÓN SÉPTIMA. DEL DERECHO A UN TRABAJO DIGNO
 
@@ -297,13 +337,23 @@ III.- Conceder créditos para que los jóvenes puedan desarrollar sus proyectos 
 
 IV.- Asegurar que el trabajo no interfiera en su educación, salud y recreación;
 
-V.- Asegurar la no discriminación en el empleo y las mejores condiciones laborales a las jóvenes en gestación, madres lactantes y jóvenes con discapacidad; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-VI.- Respetar y cumplir con los derechos laborales y la seguridad social e industrial.
+V.- Asegurar la no discriminación en el empleo y las mejores condiciones laborales a las jóvenes en gestación, madres lactantes y jóvenes con discapacidad;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VI.- Respetar y cumplir con los derechos laborales y la seguridad social e industrial; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VII.- Potenciar el empleo en el área rural, a partir de políticas económicas que promuevan el desarrollo de ese sector.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 30.
 
-El Programa deberá establecer lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes en la modalidad de primera experiencia laboral.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes en la modalidad de primera experiencia laboral.
 
 ###### Artículo 31.
 
@@ -339,9 +389,11 @@ Todos los jóvenes tienen derecho al acceso a espacios culturales y a expresar s
 
 El Gobierno debe promover y garantizar, por todos los medios a su alcance, la promoción de las expresiones culturales de los jóvenes y el intercambio cultural a nivel Nacional e Internacional.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 37.
 
-El Programa dentro de sus lineamientos deberá contemplar un sistema de promoción y apoyo a iniciativas culturales juveniles, poniendo énfasis en el rescate de elementos culturales de los sectores populares y de los pueblos indígenas asentados en el Estado.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, deberán, dentro de los lineamientos, contemplar un sistema de promoción y apoyo a iniciativas culturales juveniles, poniendo énfasis en el rescate de elementos culturales de los sectores populares y de los pueblos indígenas asentados en el Estado.
 
 #### SECCIÓN NOVENA. DEL DERECHO AL DEPORTE Y RECREACIÓN
 
@@ -381,9 +433,11 @@ Los jóvenes tienen derecho de reunirse sin más restricción que el respeto de 
 
 Los jóvenes tienen el derecho a la participación social y política como forma de mejorar las condiciones de vida de los sectores juveniles.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 46.
 
-El Programa deberá tomar en cuenta para la definición e implementación de los proyectos juveniles, las aspiraciones intereses y prioridades de los jóvenes.
+Se tomará en cuenta para la definición e implementación de los proyectos juveniles, las aspiraciones, intereses y prioridades de los jóvenes.
 
 #### SECCIÓN DÉCIMA SEGUNDA. DEL DERECHO A LA INFORMACIÓN
 
@@ -393,9 +447,11 @@ Los jóvenes tendrán derecho a la información y podrán solicitarla en las dif
 
 Los funcionarios estarán obligados a proporcionar la información que no esté restringida por las disposiciones legales en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 48.
 
-El Programa establecerá un sistema de difusión, información e investigación, de eventos, convocatorias, bolsa de trabajo y en general de temas de interés de la juventud hidalguense.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán un sistema de difusión, información e investigación de eventos, convocatorias, bolsa de trabajo y en general de temas de interés de la juventud hidalguense.
 
 #### SECCIÓN DÉCIMA TERCERA. DEL DERECHO A LA REINTEGRACIÓN SOCIAL
 
@@ -413,9 +469,11 @@ El Gobierno, deberá disponer de los recursos y medios que sean necesarios para 
 
 Los jóvenes con capacidades diferentes tienen derecho a disfrutar de una vida plena y digna. El Gobierno facilitará los mecanismos necesarios para que el joven con capacidades diferentes pueda llegar a ser autosuficiente por sí mismo, teniendo como objetivo su participación activa en la comunidad.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
 ###### Artículo 52.
 
-El Programa establecerá los lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con capacidades diferentes, tomando en cuenta la situación económica de sus padres o de quien ejerza la patria potestad o custodia.
+Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quien ejerza la patria potestad o la custodia.
 
 ###### Artículo 53.
 
@@ -743,7 +801,9 @@ El Programa Estatal de Atención a la Juventud es el conjunto de políticas, est
 
 El Programa deberá establecer por lo menos:
 
-I.- Los objetivos, estrategias, líneas de acción y acciones particulares para la atención integral a los jóvenes derivados de la presente Ley; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+I.- Los objetivos, estrategias, líneas de acción y acciones particulares, en materia de educación, salud, migración, vivienda, participación ciudadana y política, desarrollo sustentable, transparencia y rendición de cuentas, para la atención integral de los jóvenes derivados de la presente Ley; y
 
 II.- La participación que corresponderá a las Dependencias y/o Entidades del Estado, los Municipios y la sociedad en general.
 
@@ -753,15 +813,25 @@ El Programa deberá ser congruente con las directrices fundamentales del Plan Es
 
 Para la elaboración del Programa Estatal de la Juventud se observará lo siguiente:
 
-I.- La Dirección General del Instituto convocará con toda oportunidad a las diversas dependencias y entidades del Estado, para que hagan llegar al Instituto los informes sobre los objetivos, estrategias, líneas de acción y acciones particulares que cada institución ejecutará de acuerdo a su programación y presupuesto anual;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+I.- La Dirección General del Instituto convocará, con toda oportunidad, a las diversas dependencias y entidades del Estado, para darles a conocer los objetivos, estrategias, líneas de acción y acciones particulares que, en materia de juventud, cada institución ejecutará, garantizando su programación y presupuesto anual;
 
 II.- La Junta de Gobierno pedirá, dentro del plazo razonable que considere, la opinión del Consejo Consultivo del Instituto sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para promover y alcanzar la atención integral de los jóvenes;
 
 III.- La Junta de Gobierno con la información recabada, aprobará el Programa Estatal de la Juventud;
 
-IV.- La Junta de Gobierno podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-V.- El Programa una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por la Junta de Gobierno, en los términos que disponga el Reglamento correspondiente.
+IV.- La Junta de Gobierno podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+V.- El programa, una vez aprobado, tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por la Junta de Gobierno, en los términos que disponga el Reglamento correspondiente; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VI.- El programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Junta de Gobierno.
 
 ###### Artículo 74.
 
@@ -848,3 +918,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado.
