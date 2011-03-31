@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "2008-03-10"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 26 de diciembre de 1985.
 
@@ -67,7 +67,25 @@ XI.- Procurar permanentemente la adecuación y cumplimiento de los objetivos y p
 
 XII.- Actuar con interés jurídico ante los tribunales del Estado, en todo juicio en que, a criterio discrecional del propio sistema, se vean afectados los derechos de menores, ancianos y minusválidos, respetando las Leyes aplicables.
 
-XIII.- Las demás que le asigne la Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XIII.- Implementar los medios de información, orientación y concientización necesarios, sobre la importancia social y jurídica de incorporar a su familia a un menor de edad, como requisito indispensable para quienes deseen realizar trámites de adopción en el Estado de Querétaro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XIV.- Las demás que le asignen la presente y otras leyes aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+ARTÍCULO 2 BIS.- El Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, contará con la colaboración y apoyo de un Consejo Técnico de Adopciones.
+
+Las atribuciones e integración de dicho Consejo Técnico, se sujetará a lo dispuesto por el Código Civil del Estado de Querétaro, el reglamento respectivo del Consejo y demás disposiciones aplicables en la materia.
 
 ### CAPITULO II
 
@@ -253,27 +271,73 @@ XIV.- Las demás que le asigne esta Ley.
 
 ### CAPITULO VII. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
-
 ###### ARTÍCULO 17.
 
 La Procuraduría de la Defensa del Menor y la Familia se integra por:
 
 I.- Un Procurador, que será el titular de la Procuraduría;
 
-II.- Un Sub-Procurador;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-III.- Un Coordinador de Asistencia Jurídica a Población Vulnerable;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-IV.- Un Coordinador de Asistencia Jurídica a Casas Hogar;
+II.- Una Sub-Procuraduría;
 
-V.- Un Coordinador del Programa de Prevención del Maltrato Infantil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-VI.- Un Coordinador de Hogares de Protección Infantil; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-VII.- El personal que señale el Reglamento Interno.
+III.- Una Coordinación de Asistencia Jurídica a Población Vulnerable;
 
-Los servidores públicos mencionados en el presente artículo, son considerados personal de confianza y sus funciones se establecerán en el Reglamento Interno que para la Procuraduría de la Defensa del Menor y la Familia apruebe la Junta Directiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+IV.- Una Coordinación de Asistencia Jurídica a Casas Hogar;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+V.- Una Coordinación del Programa de Prevención del Maltrato Infantil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VI.- Una Coordinación de Hogares de Protección Infantil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VII.- Una Coordinación de Adopciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+VIII.- Una Coordinación de Prevención de la Violencia Familiar; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+IX.- El personal que señale el Reglamento Interno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Los servidores públicos titulares de las Coordinaciones mencionados en el presente artículo, son considerados personal de confianza y sus funciones se establecerán en el Reglamento Interno por la Procuraduría de la Defensa del Menor y la Familia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+ARTÍCULO 17 BIS.- Las Coordinaciones señaladas en las fracciones III a VIII del artículo anterior, se integrarán con un Coordinador, que será el titular de la Coordinación y con asesores jurídicos, psicólogos, trabajadores sociales y demás personal administrativo que señale el Reglamento Interno, según lo permita el presupuesto correspondiente.
+
+La Sub Procuraduría se integrará con un Sub Procurador, que será el titular de la misma y con dos asesores jurídicos que lo auxiliarán en el desempeño de sus funciones.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
@@ -361,9 +425,25 @@ XVIIl.- Gestionar, en su caso, ante el Oficial del Registro Civil o en Coordinac
 
 XIX.- Emitir dictamen que determine las condiciones de ingreso y estado en que se encuentra el menor albergado o puesto a su disposición respecto a su condición física, emocional y social;
 
-XX.- Realizar la búsqueda exhaustiva por medio de las investigaciones institucionales, de las personas que ejerzan Patria Potestad sobre los menores albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado; y
+XX.- Realizar la búsqueda exhaustiva por medio de las investigaciones institucionales, de las personas que ejerzan Patria Potestad sobre los menores albergados o puestos a su disposición, con la finalidad de expedir la constancia de inexistencia de domicilio en el Estado; y (sic)
 
-XXI.- Las demás que le asigne la Ley y otros ordenamientos legales aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+
+Para efectos de lo establecido en el Código de Procedimientos Civiles del Estado de Querétaro, en materia del juicio de pérdida de patria potestad, tendrá la facultad de requerir los informes al Instituto Federal Electoral, al Instituto Mexicano del Seguro Social y a la Secretaría de Planeación y Finanzas de (sic) Gobierno del Estado, con el objeto de determinar el domicilio de quien ejerza la patria potestad de un menor puesto a su disposición o acogido por una institución de asistencia pública o privada, así como solicitar al titular de la Procuraduría General de Justicia del Estado, la colaboración de la dependencia a su cargo para que, a través de la Dirección de Investigación del Delito, se realice la investigación que pueda determinar el domicilio de las citadas personas y la investigación de la filiación, tratándose de menores expósitos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XXI.- Ejercer la representación legítima del Consejo Técnico de Adopciones, en los términos establecidos por el Código Civil del Estado de Querétaro, el respectivo reglamento del Consejo y demás disposiciones aplicables; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+
+XXII.- Las demás que le asignen esta Ley y otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 10 DE MARZO DE 2008)</small>
 
@@ -538,3 +618,19 @@ La Procuraduría de la Defensa del Menor y la Familia contará con un plazo de 6
 ###### ARTÍCULO CUARTO.
 
 Aprobado el Reglamento Interno de la Procuraduría de la Defensa del Menor y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro, deberá ser publicado en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 31 DE MARZO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor, sesenta días naturales posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Titular del Poder Ejecutivo del Estado, contará con sesenta días naturales, contados a partir de la publicación de la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", para crear o, en su caso, modificar y publicar las disposiciones reglamentarias necesarias para el cumplimiento de la presente Ley.
+
+Artículo Tercero. Las adopciones que se encuentren en trámite a la fecha de inicio de vigencia de esta Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la presente Ley.
+
+No obstante lo anterior, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del adoptante de obtener la adopción en los términos de la presente Ley, podrá seguirse el procedimiento previsto para ello en este cuerpo legal.
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a la adopción en los términos de la presente Ley, el juez citará a los solicitantes a una audiencia verbal que se celebrará dentro de los ocho días siguientes a la recepción de la solicitud, con la intervención del Ministerio Público, luego de la cual resolverá lo conducente en el término de ocho días posteriores a la referida audiencia.
+
+Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
+
+Artículo Quinto. Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a la presente Ley.
