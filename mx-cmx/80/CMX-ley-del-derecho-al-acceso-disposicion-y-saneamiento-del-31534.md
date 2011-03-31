@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2010-08-10"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -194,9 +194,13 @@ XXXVII BIS. TRATAMIENTO DE AGUA PLUVIAL.- La actividad que mediante procesos fí
 
 XXXVIII. USO DOMÉSTICO.- La utilización de aguas destinadas al uso particular en viviendas, el riego de sus jardines y de árboles de ornato, así como el abrevadero de animales domésticos, siempre que éstas no incluyan actividades lucrativas;
 
-XXXIX. USO NO DOMESTICO.- La utilización del agua en establecimientos comerciales industriales y de servicios; y
+XXXIX. USO NO DOMESTICO.- La utilización del agua en establecimientos comerciales industriales y de servicios; y (sic)
 
-XL. USUARIO.- La persona física o moral que haga uso de uno o más de los servicios hidráulicos.
+XL. USUARIO.- La persona física o moral que haga uso de uno o más de los servicios hidráulicos;
+
+> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2011)</small>
+
+XLI. ZANJA DE ABSORCIÓN.- Excavación practicada en el suelo para canalizar el agua pluvial y propiciar su infiltración.
 
 ###### Artículo 5º.
 
@@ -1670,6 +1674,34 @@ V. Ser informados; debatir con seriedad, rigor y tolerancia; proponer; y, decidi
 
 En todas las nuevas edificaciones, instalaciones, equipamientos, viviendas y obras públicas que se construyan en el Distrito Federal será obligatorio, construir las obras e instalar los equipos e instrumentos necesarios para cosechar agua de lluvia, con base en las disposiciones que se establezcan en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS.- En las edificaciones nuevas que se construyan en los predios localizados en las Zonas I y II de lomas o de transición en el Distrito Federal, conforme a la zonificación indicada en el Capítulo VIII del Reglamento de Construcciones para el Distrito Federal, será obligatorio contar con sistemas de cosecha y recarga de aguas pluviales al subsuelo que permitan su infiltración.
+
+Dicha infiltración deberá encausarse a través de diferentes sistemas, como zanjas y pozos de absorción, pisos filtrantes, estacionamientos con pasto o de cualquier material que permita la infiltración del agua de lluvia y la recarga al subsuelo.
+
+Las medidas y demás especificaciones de las zanjas de absorción, serán determinadas en el Reglamento de la Ley de Aguas del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS 1.- Para el caso de las nuevas construcciones que se encuentren cercanas a áreas verdes, barrancas, zonas boscosas o cualquier otra cubierta vegetal o área natural, se deberá establecer el sistema de cosecha y de recarga de aguas pluviales al subsuelo señalado en el artículo anterior ó un sistema en el cual se encause el agua de lluvia a estos lugares permitiendo su infiltración.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS 2.- El porcentaje total de área libre de construcción de las nuevas edificaciones del Distrito Federal, serán áreas verdes y las zonas que se destinen a estacionamiento de vehículos se deberá cubrir con pasto o con material permeable que permita la infiltración del agua de lluvia, siempre y cuando los predios se encuentren en los suelos de lomas o de transición, Zona I y II del Reglamento de Construcciones para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS 3.- El sistema de captación y recarga de agua pluvial al subsuelo deberá estar indicado en los planos de instalaciones y formará parte del proyecto arquitectónico, que debe ser presentado para el trámite del registro de Manifestación de Construcción o Licencia de Construcción Especial. Dicho mecanismo deberá ser evaluado y aprobado por el Sistema de Aguas de la Ciudad de México, así como contar con la aprobación de la Secretaría de Desarrollo Urbano y Vivienda y de las Delegaciones Políticas.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS 4.- Todos los proyectos que estén sujetos al Estudio de Impacto Urbano deberán contar con un sistema de captación y recargas de aguas pluviales al subsuelo.
+
+> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2011)</small>
+
+Artículo 125 BIS 5.- La autoridad correspondiente revisará que el sistema establecido en el Capítulo anterior, este integrado a la obra en su terminación, siempre y cuando se encuentre en los suelos de transición o de lomas Zona I y II del Reglamento de Construcciones para el Distrito Federal. En caso de no acreditarlo al momento del aviso de terminación de obra correspondiente, la autoridad competente no otorgará la autorización de uso y ocupación.
+
 > <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 126.
@@ -2115,3 +2147,13 @@ G.O. 10 DE AGOSTO DE 2010.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.-La presente reforma entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Distrito Federal
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- A más tardar en 60 días contados a partir del día siguiente al de su publicación, deberá reformarse la Ley Ambiental del Distrito Federal, el Reglamento de Impacto Ambiental y Riesgo y la Ley de Desarrollo Urbano del Distrito Federal.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
