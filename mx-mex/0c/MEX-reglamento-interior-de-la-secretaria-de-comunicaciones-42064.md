@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-comunicaciones-42064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-29"
-last_updated: "2004-11-29"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 278 PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, REGLAMENTARIOS, ADMINISTRATIVOS Y DOCUMENTACION SE HAGA REFERENCIA A LA DIRECCION GENERAL DE INFRAESTRUCTURA PARA EL TRANSPORTE DE ALTA CAPACIDAD O AL DIRECTOR GENERAL DE INFRAESTRUCTURA PARA EL TRANSPORTE DE ALTA CAPACIDAD, SE ENTENDERA AL SISTEMA DE TRANSPORTE MASIVO DEL ESTADO DE MEXICO Y AL DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE MASIVO DEL ESTADO DE MEXICO, RESPECTIVAMENTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 29 de noviembre de 2004.
 
@@ -448,3 +450,39 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 31 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
+
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
+
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
+
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
+
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
+
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
+
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
+
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
