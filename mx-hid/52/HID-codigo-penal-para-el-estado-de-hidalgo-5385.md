@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2010-12-31"
+last_updated: "2011-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -1347,7 +1347,9 @@ El mismo aumento en la punibilidad se aplicará, cuando las lesiones sean inferi
 
 Cuando las lesiones a que se refiere este artículo sean inferidas de manera habitual o reiterada, se aplicará el doble de la punibilidad que corresponda.
 
-No son punibles las lesiones inferidas en ejercicio del derecho de corregir, siempre y cuando no sean una forma habitual o reiterada de ejercer este derecho y sean de las previstas en la fracción I del artículo 140 de este Código.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+
+No son punibles los golpes inferidos en ejercicio del derecho de corregir, siempre y cuando no sean una forma habitual o reiterada de ejercer este derecho y no causen cualquiera de las lesiones previstas en el Artículo 140 de este Código.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2211,13 +2213,19 @@ Si el daño recae en bienes de valor científico, artístico o de un servicio p�
 
 ### CAPITULO IX. VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
-ARTICULO 243 BIS.- Por violencia familiar, se entiende el uso de la fuerza física o moral, así como la omisión grave que de manera reiterada se ejerza en contra de un miembro de la familia por otro integrante de la misma, contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no otro delito.
+ARTICULO 243 BIS.- Por violencia familiar, se entiende el uso de la fuerza física o moral, así como la omisión que se ejerza en contra de un miembro de la familia por otro integrante de la misma, contra su integridad física, psíquica o ambas, independientemente de que pueda producir o no otro delito.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
 
 Comete el delito de violencia familiar, el cónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
+
 A quién cometa el delito de violencia familiar, se le impondrá de seis meses a tres años de prisión y perderá el derecho de pensión alimenticia, además de la pena correspondiente por otro delito cometido. Asimismo, se le sujetará al tratamiento psicológico especializado que determine la autoridad.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2002)</small>
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, casos en que se perseguirá de oficio.
 
@@ -3940,3 +3948,7 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 P.O. 31 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
