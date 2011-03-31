@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-gobierno-50802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2010-01-25"
+last_updated: "2011-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ENERO DE 2010
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, PUBLICADO EN LA G.O. DE 31 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -1100,3 +1102,13 @@ G.O. 25 DE ENERO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 31 DE MARZO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Gobierno de 22 de marzo de 2006, publicado en la Gaceta Oficial del Estado número extraordinario 119 el 24 de mayo de 2006, así como sus reformas y adiciones posteriores; y se derogan todas las demás disposiciones que se opongan al presente reglamento.
+
+Artículo Tercero. Los actos y procedimientos administrativos iniciados por las unidades, u órganos, que cambian de denominación o adscripción, continuarán su trámite, hasta su conclusión, por las áreas, unidades y órganos de nueva denominación y de funciones equivalentes.
