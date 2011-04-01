@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2010-05-29"
+last_updated: "2011-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -129,39 +129,41 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 19o.
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo Estatal contará con las siguientes dependencias:
 
-Secretaría General de Gobierno
+I. SECRETARÍA GENERAL DE GOBIERNO;
 
-Secretaría de Finanzas
+II. SECRETARÍA DE FINANZAS;
 
-Secretaría de Desarrollo Social
+III. SECRETARÍA DE DESARROLLO SOCIAL;
 
-Secretaría de Desarrollo Urbano
+IV. SECRETARÍA DE DESARROLLO URBANO;
 
-Secretaría de Desarrollo Rural
+V. SECRETARÍA DE DESARROLLO RURAL;
 
-Secretaría de Educación
+VI. SECRETARÍA DE EDUCACIÓN;
 
-Secretaría de Salud y Bienestar Social
+VII. SECRETARÍA DE SALUD Y BIENESTAR SOCIAL;
 
-Secretaría de Planeación
+VIII. SECRETARÍA DE DE (SIC) PLANEACIÓN;
 
-Secretaría de Fomento Económico
+IX. SECRETARÍA DE FOMENTO ECONÓMICO;
 
-Secretaría de Cultura
+X. SECRETARÍA DE CULTURA;
 
-Secretaría de Turismo
+XI. SECRETARÍA DE TURISMO;
 
-Secretaría de la Juventud
+XII. SECRETARÍA DE ADMINISTRACIÓN;
 
-Secretaría de Administración
+XIII. SECRETARÍA DE LA JUVENTUD;
 
-Procuraduría General de Justicia
+XIV. SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL; y
+
+XV. PROCURADURÍA GENERAL DE JUSTICIA.
 
 ###### ARTICULO 20o.
 
@@ -195,7 +197,9 @@ XIII.- Organizar la prevención social contra la delincuencia a través de las u
 
 XIV.- Intervenir en auxilio o en coordinación con las autoridades federales en los términos de las leyes relativas en materia de cultos religiosos, explosivos, loterías, rifas y juegos permitidos, migración, prevención y combate de catástrofes públicas.
 
-XV.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Público de la Propiedad y del Comercio, y de las Juntas de Conciliación y Arbitraje y de la Inspección y Procuraduría del Trabajo. Llevar el registro de notarios, autorizar y vigilar el ejercicio del notariado.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2011)</small>
+
+XV.- Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Público de la Propiedad y del Comercio. Llevar el registro de notarios, autorizar y vigilar el ejercicio del notariado.
 
 XVI.- Llevar el registro de las entidades paraestatales y de firmas autógrafas de los titulares de las dependencias gubernamentales y de otras autoridades estatales y municipales, así como legalizarlas oficialmente.
 
@@ -629,9 +633,7 @@ XIII.- Elaborar, coordinar y ejecutar programas de apoyo y fomento a las exporta
 
 XIV.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2010)</small>
-
-XV.- Coordinar y promover el empleo y la capacitación para el trabajo, en coordinación con el Gobierno Federal y los sectores social y privado en la entidad.
+XV.- (DEROGADA, P.O. 1 DE ABRIL DE 2011)
 
 XVI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
 
@@ -774,6 +776,86 @@ XVII. Implementar espacios de expresión en los medios de comunicación que sirv
 XVIII. Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le Corresponda; y
 
 XIX. Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+ARTICULO 24 BIS 6.- A la Secretaría del Trabajo y Previsión Social del Estado de Colima, le corresponde el despacho de los siguientes asuntos:
+
+l. Ejercer dentro del ámbito estatal y de conformidad con los ordenamientos legales vigentes en la materia, las funciones en materia de trabajo y previsión social;
+
+II. Formular y ejecutar el Plan Estatal de Desarrollo en materia de empleo, así como impulsar y promover la creación de fuentes de trabajo, con perspectiva de género, en coordinación con las demás instancias competentes, tendientes a la protección y mejoramiento de las condiciones laborales en los centros de trabajo de la Entidad;
+
+III. Coordinar e implementar las políticas públicas que establezca el Titular del Ejecutivo del Estado en materia de promoción y protección de los derechos de los trabajadores no asalariados, carentes de seguridad social, primordialmente de aquellos que realizan sus actividades económicas en la vía pública, las personas menores de edad, los jornaleros, los adultos mayores, las personas con capacidades diferentes, los grupos vulnerables y las mujeres que trabajan, y respaldar acciones que impulsen el desarrollo de sus derechos laborales en equidad; así como llevar un registro de los grupos y asociaciones laborales constituidas y expedir los permisos de las personas menores de edad para trabajar y las credenciales que soliciten;
+
+IV. Coadyuvar con las instancias competentes en la vigilancia, observancia y aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las aplicables en el ámbito local de la Ley Federal del Trabajo, sus reglamentos y demás disposiciones legales conducentes;
+
+V. Proponer al Titular del Ejecutivo del Estado para su expedición los proyectos de ley, reglamentos, decretos, acuerdos, circulares y demás disposiciones de observancia general dirigidas a hacer efectiva la fracción anterior, así como emitir los lineamientos para la formulación, ejecución y evaluación de la política laboral;
+
+VI. Ejercer facultades de designación, integración, coordinación y funcionamiento administrativo de los organismos de justicia laboral, con pleno respeto a su autonomía jurisdiccional;
+
+VII. Proponer a los Tribunales Laborales, Procuradurías de la Defensa del Trabajo y a la Coordinación de Inspección del Trabajo, estrategias para el mejoramiento de la administración e impartición de justicia laboral en la Entidad, para coadyuvar a su aplicación eficiente;
+
+VIII. Tener bajo su adscripción directa a las Procuradurías de la Defensa del Trabajo, a la Coordinación de Inspección del Trabajo y a la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima;
+
+IX. Nombrar y remover a los Procuradores, Subprocuradores, Procuradores Auxiliares, Peritos y demás personal de apoyo técnico operativo de las Procuradurías de la Defensa del Trabajo, así como a los Inspectores y demás personal de apoyo técnico de la Coordinación de Inspección del Trabajo; estableciendo en el Reglamento los mecanismos y perfiles para acceder a estos cargos;
+
+X. Cuidar la observancia de las leyes, reglamentos y demás disposiciones de carácter laboral en las diversas empresas comerciales, industriales y de servicios de jurisdicción local;
+
+XI. Conservar el equilibrio entre los factores de la producción en el ámbito local, salvaguardando las garantías sociales;
+
+XII. Representar al Titular del Ejecutivo del Estado en congresos y reuniones nacionales y estatales, así como cumplimentar los acuerdos, despachos, comisiones y funciones que en materia de trabajo le confiera;
+
+XIII. Apoyar y fomentar relaciones con sindicatos y asociaciones obrero-patronales en la Entidad, procurando la conciliación de sus intereses a través del diálogo;
+
+XIV. Vigilar que se proporcione asesoría gratuita en materia laboral a los sindicatos y trabajadores que así lo soliciten, por conducto de la Procuraduría de la Defensa del Trabajo;
+
+XV. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas mediante la celebración de convenios, así como atender las consultas sobre el alcance de las normas laborales o sobre los contratos colectivos de trabajo;
+
+XVI. Intervenir en la conciliación y solución de intereses laborales de las partes en conflicto, cuando éstas lo soliciten, en tratándose de Organismos Públicos Descentralizados Estatales y Municipales, o cuando la situación lo amerite a juicio de Titular del Poder Ejecutivo del Estado;
+
+XVII. Auxiliar a las autoridades federales del trabajo en la promoción para el establecimiento, registro, asesoría, verificación, evaluación y control del funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en los centros de trabajo ubicados en la jurisdicción del Estado;
+
+XVIII. Mantener relaciones con la Comisión Nacional de Salarios Mínimos y las instancias que correspondan para la protección y mejoramiento del salario en la Entidad;
+
+XIX. Suscribir, refrendar y ejecutar toda clase de convenios y acuerdos de colaboración, por delegación expresa del Titular del Ejecutivo del Estado, con autoridades, instituciones u organizaciones federales, estatales, municipales y la iniciativa privada;
+
+XX. Promover programas en materia de previsión social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de la calidad de vida de los trabajadores y sus familias;
+
+XXI. Estudiar y proponer al Titular del Ejecutivo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva de la Entidad y la mejoría de quienes laboran en ella;
+
+XXII. Fomentar el Servicio Nacional de Empleo Colima; así como el desarrollo empresarial, impulsando una cultura que favorezca el respeto a los derechos y garantías sociales en favor de los trabajadores;
+
+XXIII. Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de las disposiciones legales y reglamentarias en los ámbitos de su competencia;
+
+XXIV. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones; así como difundir las reformas que se den en las normas laborales;
+
+XXV. Impulsar el uso de los medios y documentos electrónicos, la incorporación de sus archivos en una base de datos; así como gestionar la autorización para los funcionarios de esta dependencia para que se les habilite la firma electrónica certificada, a fin de que puedan autorizar los acuerdos, resoluciones y demás documentos que emitan;
+
+XXVI. Coadyuvar con las autoridades educativas en la elaboración de estudios, investigaciones, creación de documentos, campañas de difusión y en general todo estudio y fomento de la cultura laboral en la Entidad;
+
+XXVII. Promover la investigación sobre la problemática laboral en el Estado de Colima, y elaborar diagnósticos, análisis y estudios en la materia, entre ellos de rezonificación económica, que contribuyan a la formulación de la política laboral y educativa en la Entidad, así como promover la participación de organizaciones no gubernamentales en el estudio y difusión de la misma, y el establecimiento de relaciones de colaboración con instituciones nacionales e internacionales, de la administración pública y la sociedad, para desarrollar conjuntamente investigaciones, seminarios y programas de difusión relacionados con dicha problemática;
+
+XXVIII. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como la relación de sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales, profesionales y empresas de participación extranjera, con el fin de proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información en coordinación con el Instituto Nacional de Estadística y Geografía (INEGI) y la asesoría de su unidad de apoyo e investigación, en los términos de las leyes de Transparencia y Acceso a la Información Pública y de Protección de Datos Personales del Estado;
+
+XXIX. Desahogar consultas sobre el alcance de las normas de la Ley Federal del Trabajo, de los contratos colectivos de trabajo y demás ordenamientos legales aplicables en materia laboral;
+
+XXX. Promover el incremento de la productividad del trabajo en el territorio estatal, así como diseñar alianzas estratégicas para la generación de empleo en coordinación con la Secretaría de Fomento Económico;
+
+XXXI. Realizar investigaciones, prestar servicios de asesoría e impartir los cursos de capacitación que requieran el Gobierno del Estado, los Ayuntamientos, instituciones educativas y sectores productivos de la Entidad;
+
+XXXII. Fomentar en coordinación con las instancias respectivas, así como con las instituciones de educación superior, públicas y privadas, la enseñanza para la preparación de profesionistas y técnicos, que apoyen el desarrollo de las empresas en la Entidad, y a través de éstas, capacitar a trabajadores que requieran las empresas e industrias;
+
+XXXIII. Promover con los sectores productivos de la Entidad, la integración laboral de las personas recluidas en los Centros de Readaptación Social y aquellas que hayan sido liberadas;
+
+XXXIV. Vigilar el cumplimiento de las disposiciones legales que prohíban la discriminación laboral por razón de embarazo, edad, ideología, sexualidad, religión, color o cualquier otra establecida en las leyes vigentes en la Entidad;
+
+XXXV. Conocer y resolver en el ámbito de su competencia, los recursos y demás medios administrativos de impugnación interpuestos en contra de los actos emanados de esta Secretaría o que por mandato legal le corresponda tramitar, en los términos de los ordenamientos aplicables;
+
+XXXVI. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades otorgadas por los ordenamientos aplicables y los convenios o anexos celebrados entre la Administración Pública Estatal con la Federación y los Municipios;
+
+XXXVII. Imponer las sanciones establecidas en el TITULO DIECISÉIS de la Ley Federal del Trabajo, en el ámbito de su competencia, mediante delegación expresa de dichas facultades por el Gobernador del Estado, conforme al artículo 1008 de la referida legislación laboral; y
+
+XXXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que directamente le asigne o delegue el Titular del Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2003)</small>
 
@@ -1018,3 +1100,25 @@ SEXTO.- La readscripción de los trabajadores del Instituto Colimense de la Juve
 P. O. 29 DE MAYO DE 2010
 
 ÚNICO,- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Ejecutivo deberá expedir el Reglamento Interior de la Secretaría del Trabajo y Previsión Social del Estado de Colima, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías cuyas atribuciones se modifican, en un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan al mismo.
+
+CUARTO.- Las menciones contenidas en otras leyes, reglamentos, decretos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la Secretaría del Trabajo y Previsión Social del Estado de Colima.
+
+QUINTO.- Cuando las disposiciones jurídicas contenidas en cualquier ley, reglamento, decreto o convenio, se refieran a la Dirección del Trabajo, a la Dirección de Defensoría de Oficio y Asesoría Jurídica, por lo que respecta a las Procuradurías de la Defensa del Trabajo ambas de la Secretaría General de Gobierno o a la Secretaría de Fomento Económico por lo que respecta a la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima, relacionadas con la materia laboral, se entenderá que se refiere a la Secretaría del Trabajo y Previsión Social del Estado de Colima.
+
+SEXTO.- La Secretaría del Trabajo y Previsión Social del Estado de Colima se subroga en todos los derechos y obligaciones asumidos por la Secretaría General de Gobierno, concretamente a las áreas comprendidas dentro de la Dirección del Trabajo, al igual que de la Dirección de Defensoría de Oficio y Asesoría Jurídica, por lo que respecta a las Procuradurías de la Defensa del Trabajo, así como respecto a la Secretaría de Fomento Económico, concretamente de la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima.
+
+SÉPTIMO.- Los asuntos que deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+OCTAVO.- La Secretaría del Trabajo y Previsión Social del Estado de Colima, iniciará sus operaciones con los recursos que actualmente tienen asignados la Dirección del Trabajo, la Dirección de Defensoría de Oficio y Asesoría Jurídica, por lo que respecta a las Procuradurías de la Defensa del Trabajo, así como la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima y los que le reasigne el Titular del Ejecutivo por conducto de las Secretarías de Finanzas y de Administración, en tanto el Congreso autoriza la partida presupuestal correspondiente a la citada Secretaría.
+
+NOVENO.- El personal que actualmente labora para la Dirección del Trabajo, las Juntas Locales de Conciliación y Arbitraje, las Procuradurías de la Defensa del Trabajo, la Coordinación de Inspección del Trabajo y la Dirección de Empleo en operación del Servicio Nacional de Empleo Colima, se transferirán a la Secretaría del Trabajo y Previsión Social del Estado de Colima, respetando todos sus derechos laborales. Asimismo, los recursos materiales y financieros asignados a las citadas direcciones y demás órganos, se transferirán a la Secretaría de referencia, en un plazo no mayor de 90 días a partir de la publicación del presente Decreto, con la intervención que las leyes otorgan en ese proceso a las distintas dependencias de la Administración Pública Estatal.
+
+DÉCIMO.- Se autoriza la creación de los puestos administrativos referentes al Secretario del Despacho, Secretario Particular, Coordinador General Administrativo, Director de Informática y de Sistemas y el de Director Jurídico.
