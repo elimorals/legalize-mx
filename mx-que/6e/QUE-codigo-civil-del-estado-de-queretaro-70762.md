@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2011-03-31"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -765,9 +765,15 @@ IV. En su caso, copia certificada del acta de divorcio o de defunción;
 
 V. Un certificado suscrito por un médico legalmente autorizado para ejercer la profesión, que asegure que los pretendientes no padecen enfermedad venérea, infecto-contagiosa, crónica o incurable que sean hereditarias;
 
-VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y
+VI. El convenio que los pretendientes celebren en relación a los bienes y que deba expresar con toda claridad, si el matrimonio se pretende contraer bajo régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, ese convenio deberá estar aprobado por las personas cuyo consentimiento previo es necesario para que se celebre el matrimonio. No podrá dejar de presentarse este convenio, bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorar a los pretendientes, para su redacción; y (sic)
 
 VII. Copia de la dispensa de impedimento, si los hubo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2011)</small>
+
+VIII. Constancia expedida por el Director del Registro Civil del Estado de Querétaro, donde se acredite haber asistido a las asesorías en materia de violencia familiar, derechos y obligaciones del matrimonio y de los hijos, impartida por dicha institución.
 
 ###### Artículo 97.
 
@@ -1060,6 +1066,12 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley con las
 ###### Artículo 139.
 
 El matrimonio tiene como fin la creación de una comunidad íntima de vida entre los cónyuges y constituye la forma ideal para la protección de los intereses superiores de la familia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+Artículo 139 bis. Las personas que pretendan contraer matrimonio deberán acudir ante el Oficial del Registro Civil del domicilio correspondiente, para que les sean impartidas asesorías en materia de violencia familiar, derechos y obligaciones del matrimonio y de los hijos, mismas que deberán ser proporcionadas antes de que los pretendientes contraigan matrimonio.
 
 ###### Artículo 140.
 
@@ -15684,3 +15696,13 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 1 DE ABRIL DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor ciento ochenta días naturales posteriores a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Poder Ejecutivo del Estado de Querétaro, proveerá los recursos necesarios para dar cumplimiento a esta Ley.
+
+Artículo Tercero. La Dirección Estatal del Registro Civil del Estado de Querétaro, deberá adecuar oportunamente su infraestructura interna, capacitar a su personal y realizar las actividades necesarias para estar en posibilidad de dar cumplimiento a la presente Ley al momento de iniciar su vigencia.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento legal.
