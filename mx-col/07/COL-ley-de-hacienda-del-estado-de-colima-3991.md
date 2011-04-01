@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2011-01-29"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -383,23 +383,19 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -409,6 +405,10 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 
 Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
@@ -416,6 +416,16 @@ Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 Artículo 41 E.- Para los efectos de este impuesto se entiende que los servicios de hospedaje se prestan en el Estado de Colima, siempre que por lo menos uno de los bienes objeto de los mismos se encuentre dentro de su territorio.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 41 E BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto por la Prestación del Servicio de Hospedaje regulado en este capítulo, mediante cuota fija determinada en base a los ingresos gravables estimados por la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas.
+
+La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
+
+La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando los ingresos del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra la modificación.
+
+También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en los ingresos estimados.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -432,16 +442,6 @@ IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados 
 V.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que les soliciten para comprobar el cumplimiento de las obligaciones fiscales.
 
 VI.- Llevar los libros o registros y expedir documentación comprobatoria de las operaciones gravadas, de conformidad con las disposiciones fiscales federales correspondientes.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Artículo 41 E BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto por la Prestación del Servicio de Hospedaje regulado en este capítulo, mediante cuota fija determinada en base a los ingresos gravables estimados por la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas.
-
-La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, en los mismos plazos que se autorice pagar la cuota estimada del Impuesto Sobre la Renta.
-
-La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando los ingresos del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra la modificación.
-
-También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas, a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en los ingresos estimados.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -4103,11 +4103,9 @@ SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de
 
 TERCERO.- En el ejercicio fiscal 2010, los contribuyentes que adeudan derechos por la expedición, renovación anual o reposición de la calcomanía fiscal del ejercicio 2009 y anteriores, gozarán de una reducción del 60% en los recargos causados y del 100% de las multas a que se hubieran hecho acreedores por el pago extemporáneo de los citados derechos, si realizan el pago de los adeudos entre el 20 de enero y el 28 de febrero de 2010.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2010)</small>
-
-CUARTO.- En el ejercicio 2010, los contribuyentes gozarán de una prórroga para liquidar de manera ordinaria, el Impuesto sobre Tenencia o Uso de Vehículos correspondiente al presente año, estableciéndose como terminación de la misma el 30 de Abril de 2010.
+CUARTO.- En el ejercicio fiscal 2011, el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere el artículo 41 Z BIS 12, así como el pago de los derechos por la expedición o renovación anual de la calcomanía fiscal vehicular, previsto en el artículo 53, fracción IV, de la Ley de Hacienda del Estado de Colima, podrá efectuarse sin recargos hasta el 31 de mayo.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
 
@@ -4439,7 +4437,9 @@ En caso de que el contribuyente con adeudos de los señalados en el párrafo ant
 
 b).- Que el tenedor o usuario del vehículo a cuyo nombre se encuentre inscrito en el Registro Público Vehicular del Estado, en caso de tratarse de persona física, cuente con licencia de conducir vigente; y
 
-c).- Que los derechos de control vehicular y en su caso el impuesto sobre tenencia o uso de vehículos, correspondientes al ejercicio fiscal 2011, se paguen durante los meses de enero a marzo de 2011.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2011)</small>
+
+c).- Que los derechos de control vehicular y en su caso el Impuesto Sobre Tenencia o Uso de Vehículos, correspondientes al ejercicio fiscal 2011, se paguen durante los meses de enero al 31 de mayo de 2011.
 
 Respecto de los vehículos nuevos o importados que se den de alta en el Registro Público Vehicular del Estado entre 01 de abril y el 31 de diciembre de 2011, se tendrá derecho a los subsidios otorgados en los términos del presente artículo, siempre que sus tenedores o usuarios cumplan con los requisitos señalados en los incisos a) y b) de este artículo.
 
@@ -4462,3 +4462,7 @@ P.O. 29 DE ENERO DE 2011.
 PRIMERO.- El presente Decreto entrara en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los contribuyentes que se ubiquen en los supuestos del descuento en el pago de derechos a que se refieren los artículos 50, fracciones I y IV, Y 53, fracción IV, de la Ley de Hacienda del Estado de Colima, que a la fecha de entrada en vigor del presente Decreto ya hubieren pagado los derechos correspondientes al ejercicio fiscal 2011, tendrán derecho a que la Secretaría de Finanzas les reintegre la diferencia a su favor, previa solicitud por escrito que formulen ante la autoridad competente.
+
+P.O. 1 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
