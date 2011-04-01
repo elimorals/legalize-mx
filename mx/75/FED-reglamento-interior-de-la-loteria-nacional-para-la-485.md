@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-loteria-nacional-para-la-485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-07-24"
-last_updated: "2009-01-26"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1985-07-05"
 
 REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 24 de julio de 1985.
 
@@ -61,9 +61,11 @@ I.- Los premios y reintegros que correspondan a billetes de lotería que no se l
 
 II.- Los premios y reintegros a los billetes emitidos que, habiéndose vendido, no hayan sido cobrados por los tenedores de dichos billetes, una vez transcurrido el término de prescripción respectivo.
 
+> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2011)</small>
+
 ###### Artículo 4o.
 
-Los recursos que en los términos del artículo 2o. de la Ley Orgánica de la Institución ésta deba enterar a la Tesorería de la Federación para el cumplimiento de su destino específico, serán remitidos a dicha Dependencia de conformidad con el procedimiento que establezca la Secretaría de Hacienda y Crédito Público, y conforme a las demás disposiciones legales aplicables.
+Los recursos que en los términos del artículo 2o. de la Ley Orgánica de la Institución ésta (sic) deba enterar a la Tesorería de la Federación para el cumplimiento de su destino específico, serán equivalentes a la utilidad neta que se determine en el Estado de Resultados que dictamine el Auditor Externo al cierre de cada ejercicio fiscal, es decir incluyendo la totalidad de los costos y gastos inherentes a la administración, dentro de los cuales se encuentran los relativos a la comercialización y operación de la entidad, los cuales se entregarán a dicha Dependencia, de conformidad con el procedimiento que establezca la Secretaría de Hacienda y Crédito Público, y conforme a las demás disposiciones legales aplicables.
 
 ### CAPITULO II.- De la Junta Directiva
 
@@ -250,3 +252,7 @@ UNICO.- La presente modificación, entrará en vigor al día hábil siguiente al
 D.O.F. 26 DE ENERO DE 2009.
 
 UNICO.- La presente modificación al Reglamento Interior de la Lotería Nacional para la Asistencia Pública entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2011.
+
+Unico.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
