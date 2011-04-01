@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-innovacion-y-50753"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-26"
-last_updated: "2006-05-26"
+last_updated: "2011-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INNOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INOVACION Y TRANSFERENCIA DE TECNOLOGIA DE NUEVO LEON, PUBLICADO EN EL P.O. DE 1 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de mayo de 2006.
 
@@ -368,3 +370,19 @@ EL C. DIRECTOR GENERAL DEL INSTITUTO DE INNOVACIÓN Y TRANSFERENCIA DE TECNOLOG�
 ANTONIO ZÁRATE NEGRÓN
 
 Esta hoja de firmas corresponde al Reglamento Interior del Instituto de Innovación y Transferencia de Tecnología de Nuevo León, firmado el 25 de abril de 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto de Innovación y Transferencia de Tecnología de Nuevo León publicado en el Periódico Oficial número 68, de fecha 26 de mayo de 2006, así como todas las disposiciones administrativas que se opongan al presente.
+
+TERCERO.- En un plazo no mayor a seis meses, contados a partir de la fecha en que entre en vigor el presente Reglamento, el Instituto deberá expedir su Manual de Organización.
+
+CUARTO.- Los asuntos pendientes de resolución a la entrada en vigor del presente Reglamento, se sustanciarán de conformidad con la regulación que les dio origen.
+
+QUINTO.- Las unidades administrativas, deberán adecuar la normatividad vigente en todo aquello que guarde relación con el presente Reglamento.
+
+SEXTO.- La nueva estructura orgánica del Instituto de Innovación y Transferencia de Tecnología entrará en vigor en la fecha en que surta efectos el presente Reglamento.
