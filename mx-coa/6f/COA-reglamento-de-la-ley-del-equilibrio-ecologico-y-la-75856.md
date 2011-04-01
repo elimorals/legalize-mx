@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-75856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-06"
-last_updated: "2010-07-06"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de julio de 2010.
 
@@ -159,9 +159,11 @@ La Secretaria podrá celebrar acuerdos de colaboración con otras dependencias y
 
 #### Sección II. De la conformación de la Información Estatal a la Base de Datos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2011)</small>
+
 ###### Artículo 10.
 
-Se consideran establecimientos sujetos a reporte de competencia estatal los señalados en el artículo 101, fracción I, incisos a, b y c de la Ley, los grandes generadores de residuos de manejo especial en los términos establecidos en las disposiciones jurídicas aplicables, así como aquellos que descarguen aguas residuales en los cuerpos receptores de competencia a (sic) estatal.
+Se consideran establecimientos sujetos a reporte de competencia estatal los señalados en el artículo 101, fracción I, incisos a, b y c de la Ley, los grandes generadores de residuos de manejo especial en los términos establecidos en las disposiciones jurídicas aplicables, los prestadores de servicios que realizan una o más de las etapas de separación, reutilización, acopio, recolección, almacenamiento, traslado o transporte, coprocesamiento, tratamiento, reciclaje y disposición final, de residuos de manejo especial, así como aquellos que descarguen aguas residuales en los cuerpos receptores de competencia estatal.
 
 Para los efectos de este Reglamento se consideran sectores y subsectores de jurisdicción estatal en lo que se refiere a la emisión de contaminantes a la atmosfera los siguientes:
 
@@ -179,13 +181,19 @@ a). Industria Alimentaria.
 
 b). Industria de las Bebidas y del Tabaco.
 
-c). Fabricación de Insumos Textiles.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
 
-d). Confección de Productos Textiles, excepto Prendas de Vestir.
+c). Fabricación de insumos textiles y acabado de textiles.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+d). Fabricación de productos textiles, excepto prendas de vestir.
 
 e). Fabricación de Prendas de Vestir.
 
-f). Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos, excepto Prendas de Vestir.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+f). Curtido y acabado de cuero y piel y fabricación de productos de cuero, piel y materiales sucedáneos.
 
 g). Industria de la Madera.
 
@@ -205,11 +213,15 @@ n). Fabricación de Maquinaria y Equipo.
 
 o). Fabricación de Equipo de Computación, Medición y de otros Equipos, componentes y accesorios electrónicos.
 
-p). Fabricación de Equipo de Generación Eléctrica, Aparatos y Accesorios Eléctricos.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+p). Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica.
 
 q). Fabricación de Equipo de Transporte.
 
-r). Fabricación de Muebles y Productos Relacionados.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+r). Fabricación de muebles, colchones y persianas.
 
 s). Otras Industrias Manufactureras.
 
@@ -420,3 +432,11 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan a lo previsto en este Decreto.
