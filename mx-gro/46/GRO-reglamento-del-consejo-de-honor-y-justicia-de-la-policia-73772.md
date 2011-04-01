@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-consejo-de-honor-y-justicia-de-la-policia-73772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-05"
-last_updated: "2011-03-22"
+last_updated: "2011-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DE LA POLICIA ESTATAL DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIVIL DEL GOBIERNO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2011.
 
 Reglamento publicado en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 2010.
 
@@ -101,7 +101,9 @@ VII. Un representante de la Unidad de la Policia de Tránsito.
 
 Cada Consejero contará con un suplente, con excepción del Presidente y del Vicepresidente, quien en ausencia del Presidente suplirá su función; para el caso de las fracciones de la III a la VII, el Consejero suplente surgirá en formula con la elección del Consejero titular.
 
-Los Consejeros titulares identificados en las fracciones de la III a la VII serán elegidos de entre los elementos que integran la Policía Estatal, y estos últimos durarán en esta responsabilidad un año, contado a partir de que le sea tomada la protesta por el titular de la Secretaría de Seguridad Pública y Protección Civil.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2011)</small>
+
+Los Consejeros titulares identificados en las fracciones de la III a la VII, serán elegidos de entre los elementos que integran la Policía Estatal, y éstos últimos durarán en ésta responsabilidad tres años, contados a partir de que les sea tomada la protesta por el titular de la Secretaría de Seguridad Pública y Protección Civil. Durante el encargo, los Consejeros no serán inamovibles y podrán ser sustituidos por causas debidamente justificadas, que tengan que ver con el incumplimiento de los deberes y obligaciones que como servidor público tienen encomendado.
 
 Cuando el elemento policial sometido a procedimiento desciplinario (sic) sea de una función o especialidad que no esté representada en el Consejo o el asunto de que se trate se refiera a cotroversia (sic) del servicio de carrera policial, este órgano, por acuerdo de mayoría, podrá incorporar a representantes o a los titulares de la función, especialidad o servicio, respectivamente, al Consejo, para que la función, especialidad o servicio, esté adecuadamente representado.
 
@@ -344,3 +346,9 @@ SEGUNDO. Dentro de los cinco días hábiles siguientes a la publicación de este
 TERCERO. Una vez que haya sido designado el representante de la Unidad de Prevención Social del Delito, deberá procederse de inmediato a la toma de protesta del Consejero Presidente y del Consejero representante de la Unidad de Prevención Social del Delito del Consejo de Honor y Justicia.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
