@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2010-12-29"
+last_updated: "2011-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -409,7 +409,15 @@ XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los progr
 
 XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
 
-XVII.- Convocar a elecciones de las autoridades auxiliares en las agencias municipales y de policía, respetando en su caso, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
+
+XVII.- Convocar a elecciones de las autoridades auxiliares del Ayuntamiento, así como de las agencias municipales y de policía, respetando en su caso, las tradiciones, usos, costumbres y prácticas democráticas de las propias localidades, en los términos previstos por el artículo 79 de esta Ley.
+
+Si el ayuntamiento por mayoría calificada considera que se encuentra en riesgo la paz y estabilidad de la Agencia Municipal o de Policía de que se trate, acordará no convocar a elecciones, procediendo a designar a un encargado que permanecerá en el cargo hasta por sesenta días.
+
+Vencido el plazo a que se refiere el párrafo anterior, y si las condiciones no son favorables para convocar a elección, el Ayuntamiento procederá por mayoría calificada a ratificar al encargado de la Agencia Municipal o de Policía hasta por tres años, o el tiempo que determinen sus usos y costumbres.
+
+Una vez electas las autoridades auxiliares, el Ayuntamiento facultará al Presidente Municipal expedir de manera inmediata los nombramientos correspondientes, lo mismo realizará para el caso de que se nombre a un encargado;
 
 XVIII.- Expedir el Reglamento para la elección y reconocimiento de los representantes de los núcleos rurales, barrios, colonias y fraccionamientos, garantizando la participación de las mujeres en la elección y su incorporación como representantes;
 
@@ -501,7 +509,7 @@ LXI.- Enajenar y dar en arrendamiento, usufructo o comodato los bienes del Munic
 
 LXII.- Otorgar poderes para pleitos y cobranzas a propuesta del Síndico cuando sea necesario;
 
-LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanisticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
+LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
 
 LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley;
 
@@ -795,7 +803,7 @@ B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunc
 
 Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
 
-C) Concluido el plazo para de (sic) la contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+C) Concluido el plazo para de la (sic) contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
@@ -843,7 +851,9 @@ III.- Convocar y presidir con voz y voto de calidad las sesiones del Cabildo y e
 
 IV.- Promulgar y publicar en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, así como los planes y programas de desarrollo municipal; publicados que sean remitirlos a los Poderes del Estado y al Archivo General del Estado;
 
-V.- Expedir de manera inmediata a su designación, el nombramiento de los agentes municipales y de policía;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
+
+V.- Expedir de manera inmediata los nombramientos de los agentes municipales y de policía, una vez obtenido el resultado de la elección;
 
 VI.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta de Síndico o cuando el Síndico o Síndicos estén ausentes o impedidos legalmente para ello;
 
@@ -1019,9 +1029,11 @@ Los agentes municipales y de policía durarán en su cargo hasta tres años o el
 
 En el caso de remoción de agentes municipales y de policía (sic) elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, 2 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 79.
 
-La elección de los agentes municipales y de policía, en los casos en que no se hubiere hecho la designación directamente por el Ayuntamiento, se sujetará al siguiente procedimiento:
+La elección de los agentes municipales y de policía, se sujetará al siguiente procedimiento:
 
 I.- Dentro de los cuarenta días siguientes a la toma de posesión del Ayuntamiento, éste lanzará la convocatoria para la elección de los agentes municipales y de policía; y
 
@@ -1902,3 +1914,9 @@ NOTA: Las presentes firmas corresponden al Decreto No. 2107, aprobado por la Sex
 P.O. 29 DE DICIEMBRE DE 2010.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
