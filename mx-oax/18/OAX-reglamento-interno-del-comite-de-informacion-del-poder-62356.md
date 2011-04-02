@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-comite-de-informacion-del-poder-62356"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2011-02-26"
+last_updated: "2011-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2011
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 2 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2011.</small>
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el lunes 21 de julio de 2008.
 
