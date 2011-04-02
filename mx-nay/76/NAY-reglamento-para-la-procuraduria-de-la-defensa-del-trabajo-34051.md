@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-la-procuraduria-de-la-defensa-del-trabajo-34051
 country: "mx"
 rank: "reglamento"
 publication_date: "1932-02-20"
-last_updated: "1932-02-20"
+last_updated: "2011-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO PARA LA PROCURADURIA DE LA DEFENSA DEL TRABAJO EN EL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO, PUBLICADO EN EL P.O. DE 2 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento proporcionado por la Casa de la Cultura Jurídica del Estado de Nayarit, publicado en 1932.
 
@@ -138,3 +140,17 @@ Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimie
 Dado en el Palacio del Poder Ejecutivo del Estado de Nayarit en Tepic, su Capital a los veinte días del mes de febrero de mil novecientos treinta y dos.
 
 Juventino Espinosa.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE ABRIL DE 2011.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
+
+Segundo. Se abroga el Reglamento Interior del Departamento del Trabajo y Previsión Social, expedido con fecha 17 enero de 1932, así como el Reglamento Interior del la Procuraduría de la Defensa del Trabajo, expedido con fecha 20 de febrero de 1932, cualquier disposición o circular que se oponga a lo ordenado por el presente, salvo lo que dispone el artículo transitorio siguiente.
+
+Tercero. Los derechos laborales del personal, que en virtud de lo dispuesto en el presente Reglamento, sea adscrito de una unidad administrativa a otra, se respetarán conforme a la Ley. La Secretaría de Administración deberá realizar los movimientos laborales que al efecto procedan y se emitan los nombramientos respectivos acordes con las nuevas denominaciones de las unidades administrativas u órganos administrativos desconcentrados que corresponda.
+
+Cuarto. Los asuntos que a la fecha viene atendiendo la Procuraduría de la Defensa del Trabajo y, el Departamento de Trabajo y Previsión Social continuarán atendiéndose en la forma acostumbrada, hasta en tanto se emitan las disposiciones específicas de cada uno de ellos.
+
+Quinto. En tanto inician sus funciones las unidades administrativas descritas en el artículo 4° fracciones I.2.1 I.2.2, I.4. y IV del presente reglamento y se expiden los manuales administrativos obligatorios por ley, el Secretario/a queda facultado para tomar las decisiones que correspondan y en su caso, resolver lo conducente.
