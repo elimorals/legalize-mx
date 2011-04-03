@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2011-02-27"
+last_updated: "2011-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -289,9 +289,17 @@ IV. Impulsar el desarrollo de la familia y de la comunidad, así como la integra
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y (sic)
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección.
+VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+VIII. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta y su relación con la salud, y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+IX. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
 
 ###### ARTÍCULO 10.
 
@@ -701,9 +709,13 @@ VII. La coordinación de la investigación para la salud y su control en los ser
 
 VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
-IX. La educación para la salud;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
-X. La orientación y vigilancia en materia de nutrición;
+IX. La educación para la salud, proporcionado a la población información básica, científicamente validada y sistematizada, tendiente a desarrollar habilidades, actitudes y prácticas relacionadas con los alimentos y la alimentación para favorecer la adopción de una dieta adecuada a nivel individual, familiar y colectivo, tomando en cuenta las condiciones económicas, geográficas, culturales y sociales;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+X. Establecer un sistema permanente de orientación y vigilancia en materia de nutrición, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
 
 XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -765,9 +777,13 @@ XV. Transporte estatal y municipal;
 
 XVI. Gasolineras;
 
-XVII. Prevención y control de la fauna nociva; y
+XVII. Prevención y control de la fauna nociva; y (sic)
 
-XVIII. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+XVIII. Centros escolares, para garantizar el cumplimiento de las normas que regulan instalaciones sanitarias y las relativas a la publicidad y comercialización de alimentos y bebidas con bajo contenido nutricional y alto contenido en grasas, sales y azúcares solubles y,
+
+XIX. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
 
 Para la verificación y control sanitario de los establecimientos a que se refiere la fracción XXI del apartado A de este artículo, se aplicarán las disposiciones de la Ley General de Salud, esta Ley y las reglamentarias que emanen de ellas y las NOMs correspondientes.
 
@@ -1443,7 +1459,7 @@ La Secretaría y el Organismo establecerán centros de información y de documen
 
 ## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD
 
-### CAPÍTULO III. NUTRICIÓN
+### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
 
 ###### ARTÍCULO 121.
 
@@ -1495,6 +1511,8 @@ V. Formularan y desarrollarán programas de información y prevención de la vio
 
 VI. Establecerán campañas de capacitación y sensibilización dirigidas a servidores públicos que atienden a los sujetos pasivos y activos de la violencia intrafamiliar, con la finalidad de que la detecten y atiendan adecuadamente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ABRIL DE 2011)</small>
+
 ### CAPÍTULO V. EJERCICIO PARA LA SALUD
 
 ###### ARTÍCULO 125.
@@ -1509,15 +1527,39 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 La Secretaría y el Organismo tendrán a su cargo:
 
-I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
-II. Vigilar el desarrollo de los programas y actividades de educación en materia de nutrición encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición, la obesidad y los trastornos de la conducta alimentaria, encaminado a limitar el consumo de alimentos con bajo contenido nutricional y alto contenido calórico e impulsar la actividad física;
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+II. Normar y vigilar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a la prevención, tratamiento y control de la desnutrición, sobrepeso, obesidad y trastornos de la conducta alimentaria y promover hábitos alimentarios adecuados y estilos de vida saludables, especialmente en los grupos sociales más vulnerables;
 
 III. Vigilar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, procurando que los mismos se alleguen a todos los habitantes del Estado, promoviendo políticas asistenciales en beneficio de los grupos más desprotegidos;
 
-IV. Promover investigaciones químicas biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimento para el mantenimiento de las buenas condiciones de salud de la población; y
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
 
-V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento para la población en general y promover en la esfera de su competencia a dicho consumo.
+IV. Promover investigaciones químicas biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición y hábitos alimenticios que prevalecen en la población y establecer las necesidades mínimas de nutrimento para el mantenimiento de las buenas condiciones de salud de la población; y (sic)
+
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento para la población en general y, según el caso, de la ingesta máxima, y promover en la esfera de su competencia a dicho consumo;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+VI. Difundir en los ámbitos familiar, escolar y laboral los buenos hábitos alimenticios y el mejoramiento de la calidad nutricional;
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+VII. En coordinación con las dependencias del sector educativo, llevar a cabo el seguimiento de talla, peso y masa corporal de la población escolar en educación básica, con la finalidad de garantizar el acceso de los educandos a los servicios de prevención, detección y tratamiento de padecimientos como sobrepeso, obesidad y trastornos de la conducta alimentaria, y
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+
+VIII. Los planteles de educación básica y media superior o equivalente contarán con depósitos de agua equipados con filtros y bebederos públicos.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2011)</small>
+
+La Secretaría y el Organismo, en coordinación con las dependencias del sector educativo estatal y federal y los Gobiernos Municipales garantizarán el cumplimiento de lo dispuesto en el párrafo anterior.
 
 ### CAPÍTULO VI. SALUD OCUPACIONAL
 
@@ -3258,3 +3300,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Gobernador Constitucional del Estado expedirá, dentro de los 60 (sesenta) días naturales siguientes a la fecha en que entre en vigor el presente decreto, el Reglamento respectivo.
+
+P.O. 3 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
