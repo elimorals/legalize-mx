@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2010-12-24"
+last_updated: "2011-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1505,11 +1505,11 @@ El matrimonio es la unión legítima de un solo hombre y una sola mujer, para pr
 
 Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2011)</small>
 
 ###### Art. 148.
 
-Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciséis años. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
+Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciséis años. Los jueces competentes podrán conceder dispensas de edad, por causas justificadas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -1523,15 +1523,9 @@ El menor que no haya cumplido dieciocho años, no puede contraer matrimonio sin 
 
 Faltando padres y abuelos, se necesita la autorización de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá la autorización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
-
 ###### Art. 151.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, para el caso de que quienes ejerzan la patria potestad o tutela sobre ellos nieguen su autorización o revoquen la que hubieren dado. La autoridad mencionada después de escuchar el parecer de quienes ejerzan la patria potestad o tutela y recabar la debida información, suplirá o denegará la autorización.
-
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
-
-En caso de inconformidad de los ascendientes, tutores o pretendientes con la resolución de la autoridad municipal, pueden ocurrir dentro de los ocho días después de haber dictado ésta su fallo, ante el Gobernador del Estado, quien resolverá en definitiva.
+(DEROGADO, P.O. 4 DE ABRIL DE 2011)
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -2006,6 +2000,20 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 ###### Art. 236.
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2011)</small>
+
+###### Artículo 237.
+
+La menor edad de dieciséis años en el hombre y la mujer, dejará de ser causa de nulidad.
+
+I.- Cuando haya habido hijos;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Art. 237.
 
@@ -3293,7 +3301,7 @@ Art. 410 Bis III.- La adopción plena es irrevocable y sólo es impugnable por e
 
 Art. 410 Bis IV.- La adopción plena puede beneficiar a personas de cualquier edad, mientras que la adopción semiplena sólo podrá otorgarse sobre personas de quince años o mayores.
 
-(ADICIONADO, P.O. 28 DE ABRIL DE 2004
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 Art. 410 Bis V.- Si alguno de los adoptantes fallece después de haber iniciado el procedimiento judicial de la adopción, podrá continuar el trámite el cónyuge supérstite, surtiendo efectos para ambos cónyuges, siempre que la voluntad del fallecido hubiere sido expresada y ratificada ante juez competente. En caso contrario, sólo tendrá efectos para el supérstite.
 
@@ -16721,7 +16729,7 @@ P.O. 27 DE DICIEMBRE DE 2005.
 
 Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicios de los beneficios que la legislación penal otorga.
+Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
 
@@ -16769,7 +16777,7 @@ P.O. 28 DE NOVIEMBRE DE 2008.
 
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril del 2008 en el Periódico Oficial del Estado.
+Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril de 2008 en el Periódico Oficial del Estado.
 
 P.O. 15 DE DICIEMBRE DE 2008.
 
@@ -16820,3 +16828,7 @@ P.O. 8 DE DICIEMBRE DE 2010.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
