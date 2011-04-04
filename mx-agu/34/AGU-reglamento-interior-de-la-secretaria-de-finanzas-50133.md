@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-50133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2010-05-03"
+last_updated: "2011-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS, PUBLICADO EN EL P.O. DE 4 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2006.
 
@@ -1327,3 +1329,11 @@ PRIMERO. Publíquese por una sola vez en el Periódico Oficial del Gobierno del 
 SEGUNDO. El presente Acuerdo Administrativo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 TERCERO. La Secretaría de Finanzas del Gobierno del Estado de Aguascalientes podrá expedir en el ejercicio de sus atribuciones y facultades, siguiendo los procesos administrativos correspondientes y autorizados por las normas locales aplicables, las disposiciones de carácter general que sean necesarias para la debida y correcta aplicación del presente acuerdo administrativo, de conformidad con lo establecido en el ordinario 29, fracciones I, III y L de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes en relación con el artículo 6° del Código Fiscal del Estado de Aguascalientes.
+
+P.O. 4 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+SEGUNDO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 10 de abril del año 2006, y sus reformas publicadas en fecha 15 de marzo de 2010, y 3 de mayo de 2010.
