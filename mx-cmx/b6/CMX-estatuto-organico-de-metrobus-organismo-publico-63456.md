@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-metrobus-organismo-publico-63456"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-10-06"
-last_updated: "2008-10-06"
+last_updated: "2011-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63456&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-08-18"
 
 ESTATUTO ORGANICO DE "METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGANICO DE "METROBUS" ORGANISMO PUBLICO DESCENTRALIZADO, PUBLICADO EN LA G.O. DE 4 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el lunes 6 de octubre de 2008.
 
@@ -1017,3 +1019,13 @@ En México, Distrito Federal, 18 de agosto de 2008.
 ING. GUILLERMO CALDERÓN AGUILERA
 
 DIRECTOR GENERAL DE METROBÚS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 4 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Estatuto entrara en vigor al día hábil siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se deroga el Estatuto Orgánico de "Metrobús" publicado en la Gaceta Oficial del Distrito Federal del 06 de octubre de 2008.
