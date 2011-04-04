@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-consejeria-juridica-del-poder-80719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-30"
-last_updated: "2011-03-30"
+last_updated: "2011-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,8 @@ state: "ROO"
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
+
+> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION DEL PERIODICO OFICIAL DE FECHA 30 DE MARZO DE 2011.</small>
 
 TEXTO ORIGINAL.
 
