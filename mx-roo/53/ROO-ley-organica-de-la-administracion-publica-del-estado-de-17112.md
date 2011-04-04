@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-03-25"
+last_updated: "2011-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2011 EN EL NUMERO EXTRAORDINARIO DEL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL EXTRAORDINARIO NÚMERO 33 DEL P.O. DEL 4 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 439 PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
