@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-para-el-estado-de-quintana-roo-44418"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2011-03-25"
+last_updated: "2011-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 4 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 439 PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de marzo de 2005.
 
