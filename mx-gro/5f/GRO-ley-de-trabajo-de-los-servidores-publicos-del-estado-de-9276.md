@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2000-11-07"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -55,9 +55,17 @@ Se considera trabajador al servicio del Estado, para la aplicación de esta Ley,
 
 Los trabajadores al servicio del Estado, se clasifican en:
 
-I.- De base; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-II.- Supernumerarios.
+I.- De base;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+II.- Supernumerarios, y
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+III.- De confianza.
 
 ###### ARTICULO 5.
 
@@ -73,9 +81,81 @@ El reconocimiento de basificación para los trabajadores supernumerarios, estar�
 
 Cuando los servidores públicos se jubilen o pensionen en los términos de esta Ley, se podrán cancelar las plazas correspondientes siempre y cuando, conforme al Presupuesto que aprobó la Cámara de Diputados, se transfieran las plazas de supernumerarios en trabajadores de base.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 7.
 
-Los empleados de confianza tendrán derecho a disfrutar de las medidas de protección al salario y gozarán de los beneficios de la seguridad social; y los que presten sus servicios mediante contrato civil y estén sujetos al pago de honorarios, quedan protegidos por el derecho privado.
+Son trabajadores de confianza:
+
+I.- Los que integran la plantilla de la oficina del Gobernador del Estado y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa del Gobernador del Estado;
+
+II.- Los Secretarios de despacho, subsecretarios, directores generales, directores, subdirectores, coordinadores, jefes y subjefes de departamento, jefes de oficina, jefes o directores de institutos, todos los empleados de las secretarías particulares autorizados por el presupuesto; tesorero, cajeros y contadores; representantes y apoderados del Estado, visitadores, inspectores, almacenistas e intendentes;
+
+III.- Los servidores públicos de organismos públicos coordinados o desconcentrados y descentralizados de carácter estatal, quienes conforme a su estructura orgánica tengan ese carácter, tales como directores generales, subdirectores, directores, coordinadores, jefes de departamento, jefes de oficina, todos los empleados de las secretarías particulares; tesorero, cajeros y contadores; representantes y apoderados, visitadores inspectores, almacenistas e intendentes;
+
+IV.- Asimismo, en el Poder Ejecutivo, los de las dependencias y los de las entidades, que desempeñan funciones que sean de:
+
+a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento.
+
+b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas y sub-jefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñado tales funciones ocupando puestos que a la fecha son de confianza.
+
+c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido.
+
+d).- Auditoría: a nivel de auditores y sub-auditores, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las áreas de Auditoría.
+
+e).- Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características.
+
+f).- En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios.
+
+g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo.
+
+h).- Asesoría o Consultoría, únicamente cuando se proporcione a los siguientes servidores públicos: Secretario, Sub-secretario, Coordinador General y Director General en las dependencias del Poder Ejecutivo del Estado.
+
+i).- El personal adscrito presupuestalmente a las Secretarías particulares o Ayudantías.
+
+j).- Los Secretarios particulares de: Secretario, SubSecretario (sic) y Director General de las dependencias del Poder Ejecutivo del Estado, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo.
+
+Han de considerarse de base todas las categorías que con aquella clasificación consigne el Catálogo de Empleos del Estado.
+
+La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
+
+Quedan excluidos de esta Ley los Agentes del Ministerio Público del Estado, los agentes de la policía ministerial y los peritos, así como los miembros de las instituciones policiales del Estado y de los municipios, incluyendo el personal de vigilancia de los establecimientos penitenciarios y demás análogos, los que se regirán por sus propios ordenamientos.
+
+V.- En el Poder Legislativo:
+
+A. En el Congreso del Estado: Oficial Mayor, Coordinadores, Contralor Interno, Directores Generales, Directores de área, Subdirectores, Jefes de Departamento, Jefes de Oficina, Contadores, Apoderados, Secretarios Particulares, Secretarías Privadas, Auditores, Secretarios Técnicos, Asesores, Consultores, Investigadores, Titulares de la Unidad o Centro de Estudios, Agentes de Resguardo Parlamentario y el personal del Servicio Civil de Carrera.
+
+B. En la Auditoría General del Estado: Auditor General, Auditores Especiales, Titulares de las Unidades, Directores Generales, Directores, Subdirectores, Jefes de Departamento, Auditores, Visitadores, Inspectores, Asesores, Contadores, Representantes, Apoderados, Secretarios Particulares, Vigilantes, Agentes de Seguridad, agentes de vigilancia, choferes, Supervisores de las áreas administrativas y técnicas.
+
+C. En el Instituto de Estudios Parlamentarios "Eduardo Neri": Director General, Coordinadores, Contralor Interno, Directores, Subdirectores, Jefes de Departamento, Secretarios Técnicos, Secretarios Particulares, Auditores, Asesores, Consultores, Investigadores, Agentes de seguridad, Vigilantes, y Secretarías Privadas;
+
+Con independencia del nombramiento expedido, en todos los casos a que se refiere esta fracción, será considerado trabajador de confianza cualquiera que desempeñe las siguientes funciones:
+
+a) Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando.
+
+b) Inspección, vigilancia y fiscalización: cuando estén considerados en el presupuesto de la Cámara de Diputados, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza.
+
+c) Manejo de fondos o valores, cuando implique la facultad legal de disponer de éstos, determinando su aplicación o destino.
+
+d) Auditoría: a nivel de auditores y sub auditores, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de la Contraloría o de las áreas de Auditoría.
+
+e) Control directo de adquisiciones: cuando tenga la representación de la Cámara de Diputados con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de la Cámara de Diputados con tales características.
+
+f) En almacén e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios;
+
+g) Todos aquéllos trabajadores que desempeñen funciones que por su naturaleza sean análogas a las anteriores.
+
+Han de considerarse de base todas las categorías que con aquella clasificación consigne el Catálogo de Empleos del Congreso del Estado. La clasificación de los puestos de confianza formará parte de su catálogo de puestos.
+
+VI.- En el Poder Judicial: Los Magistrados, Consejeros de la Judicatura, el Secretario General de Acuerdos y el Secretario Auxiliar; Secretario General y el Secretario Auxiliar del Consejo de la Judicatura; los Jueces de Primera Instancia del Estado y los Conciliadores, los Secretarios de Acuerdos, Proyectistas de Salas; los Secretarios Auxiliares y los Actuarios del Tribunal; los Secretarios de Acuerdos, Proyectistas y Actuarios de los Juzgados de Primera Instancia y Juzgados de Paz; los Jueces de Paz, el Contador del Fondo auxiliar para la administración de justicia, los directores y subdirectores, los coordinadores, jefes y subjefes de departamento u oficinas y, en general, todo aquel servidor público que ejecute una función de dirección o administración dentro del Poder Judicial.
+
+VII.- Los presidentes de las Juntas Locales de conciliación y arbitraje, secretarios generales, auxiliares de juntas, secretarios de acuerdos, actuarios, dictaminadores, delegados administrativos, conciliadores, procuradores del trabajo, inspectores del trabajo, y de igual forma el personal del Honorable Tribunal de Conciliación y Arbitraje del Estado; el Presidente del Tribunal de Conciliación y Arbitraje, el Secretario General, Secretarios de Acuerdos, Secretarios auxiliares, dictaminadores y actuarios, así como los análogos del Tribunal de lo Contencioso Administrativo, y
+
+VIII.- Los que señalen otras leyes.
+
+Los trabajadores de confianza quedan excluidos del régimen de esta Ley. Sólo tendrán derecho a disfrutar de las medidas de protección al salario y gozarán de los beneficios de la seguridad social en términos de la fracción XIV, del apartado “B”, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Los trabajadores de confianza no están protegidos en cuanto a la estabilidad en el empleo, por tanto, carecen de acción para demandar la indemnización constitucional por reinstalación o por despido, de conformidad con el mandato de la Carta Magna de la República, ya aludido.
+
+Las personas que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios, quedan excluidos de esta Ley, pero quedarán protegidos por el derecho privado.
 
 ###### ARTICULO 8.
 
@@ -1069,9 +1149,13 @@ Recibidas las pruebas y formulados los alegatos de las partes, el Presidente del
 
 Todas las notificaciones que se lleven a cabo en el procedimiento previsto en esta Ley, se ajustará a las prescripciones que sobre esa materia señala la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 123.
 
-Las pruebas serán valoradas en conciencia y los laudos se dictarán a verdad sabida y buena fé, quedando a cargo del Presidente del Tribunal, proveer la ejecución de los laudos. Los que condenen a alguna dependencia al cumplimiento de alguna obligación de hacer o de dar, deberán cumplirse de inmediato una vez que el Presidente la requiera para ello. Los bienes del Estado, y organismos descentralizados no son embargables.
+El Tribunal valorará en conciencia las pruebas que se presenten sin sujetarse a las reglas fijas y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su resolución.
+
+Queda a cargo del Presidente del Tribunal proveer la ejecución de los laudos. Los bienes del Estado, de los Municipios, de los órganos autónomos y de los organismos centralizados y descentralizados, no son embargables.
 
 ###### ARTICULO 124.
 
@@ -1210,3 +1294,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE NOVIEMBRE DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá implementar el Servicio Civil de Carrera a que se refieren los artículos 200 y 201 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero Número 286, dentro de los seis meses siguientes a la fecha de entrada en vigencia del presente Decreto.
