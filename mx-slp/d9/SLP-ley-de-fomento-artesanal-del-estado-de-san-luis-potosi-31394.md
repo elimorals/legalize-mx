@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-artesanal-del-estado-de-san-luis-potosi-31394"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-24"
-last_updated: "2003-05-24"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ARTESANAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de mayo de 2003.
 
@@ -457,9 +457,17 @@ VI. Organizar y promover concursos en exposiciones y ferias, sobre productos art
 
 VII. Promover la expansión y diversificación del mercado interno y de exportación de artesanías;
 
-VIII. Proporcionar capacitación permanente a los artesanos para transmitirles el proceso de comercialización que éstos requieran, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-IX. Fomentar la creación de nuevos centros de acopio y distribución en el ámbito local, estatal, nacional e internacional.
+VIII. Proporcionar capacitación permanente a los artesanos para transmitirles el proceso de comercialización que éstos requieran;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+IX. Fomentar la creación de nuevos centros de acopio y distribución en los ámbitos municipal, estatal, nacional e internacional, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+X. Realizar anualmente estudios de mercado local, nacional e internacional, a fin de diseñar las estrategias de promoción artesanal necesarias.
 
 ###### ARTICULO 34.
 
@@ -560,3 +568,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
