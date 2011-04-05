@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "1989-01-06"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNIC
 
 > <small>N. DE E. LA PRESENTE LEY FUE DEROGADA PARCIALMENTE POR LO QUE HACE A LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL, SUBSISTIENDO CON PLENA VIGENCIA ENTRATANDOSE DE SERVIDORES PUBLICOS MUNICIPALES, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248 PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 1989.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -65,33 +65,53 @@ II.- Trabajadores supernumerarios.
 
 III.- Trabajadores de confianza.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 5o.
 
 Son trabajadores de confianza:
 
-a).- En general, directores, subdirectores, jefes y subjefes de departamento, oficinas e institutos, todos los empleados de las secretarías particulares autorizados por el presupuesto; tesorero, cajeros y contadores; representantes y apoderados del Estado y municipios, visitadores, inspectores, almacenistas e intendentes; todos los miembros de los cuerpos de policía y de tránsito y cuantos desempeñen funciones análogas.
+l.- Los que integran la plantilla de la oficina de la Presidencia Municipal y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa del Cabildo.
 
-b).- En el Poder Legislativo:
+II.- Los Secretarios, subsecretarios, directores generales, subdirectores, jefes y subjefes de departamento, jefes de oficina, jefes o directores de institutos, todos los empleados de las secretarías particulares autorizados por el presupuesto; tesorero, cajeros y contadores; representantes y apoderados del ayuntamiento, visitadores e inspectores;
 
-El Oficial Mayor del Congreso y el Contador Mayor de Glosa.
+III.- Los servidores públicos de organismos públicos coordinados o desconcentrados y descentralizados de carácter municipal, quienes conforme a su estructura orgánica tengan ese carácter, tales como directores generales, directores, jefes de departamento, jefes de oficina, todos los empleados de las secretarías particulares; tesorero, cajeros y contadores; representantes y apoderados, visitadores e inspectores;
 
-c).- En el Poder Ejecutivo:
+IV.- Asimismo, los de las dependencias y los de las entidades municipales, que desempeñan funciones que sean de:
 
-El Secretario General de Gobierno, el Oficial Mayor y todo el personal adscrito presupuestalmente al servicio directo del C. Gobernador y de los funcionarios primeramente citados; el Director de Hacienda y Economía del Estado; agentes fiscales, agentes confidenciales, el Procurador General de Justicia, Subprocuradores, agentes auxiliares, agentes del Ministerio Público, agentes de enlace municipal; Presidente, Secretarios y auxiliares del Tribunal de Arbitraje; Secretario y vocales de la Comisión Agraria Mixta; Recaudadores y subrecaudadores de rentas, Director de la Banda de Música del Gobierno del Estado, delegados del registro civil, jefe de la Oficina Telefónica, Jefe del Periódico Oficial, Secretario de la Dirección de Educación y el jefe de Motociclistas.
+a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento.
 
-d).- En el Poder Judicial:
+b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas y sub-jefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza.
 
-El Secretario de Acuerdos y Secretarios de Salas y proyectistas del Tribunal Superior de Justicia; los Jueces y Secretarios de los Juzgados de Primera Instancia y Menores.
+c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido.
 
-e).- Los secretarios de los ayuntamientos, tesoreros, oficiales mayores, consultores, administradores de mercados y rastros.
+d).- Auditoría: a nivel de auditores y sub-auditores, así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las áreas de Auditoría.
 
-f).- Los empleados y funcionarios de Organismos Públicos Coordinados y descentralizados de carácter estatal, a quienes conforme a su estructura orgánica tengan ese carácter tales como directores, jefes de departamento, contadores, jefes de oficina, consultores, etc.
+e).- Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+f).- En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios.
+
+g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo.
+
+h).- Asesoría o Consultoría, cuando se proporcione a los siguientes servicios públicos: Presidente Municipal, Secretario, Sub-secretario, oficial mayor, Coordinador General, tesorero y Director General en las dependencias del Ayuntamiento.
+
+i).- El personal adscrito presupuestalmente a las Secretarías particulares o Ayudantías.
+
+j).- Los Secretarios particulares de: Presidente Municipal, Secretario, Sub-Secretario, Oficial Mayor, Tesorero y Director General en los ayuntamientos, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo.
+
+Han de considerarse de base todas las categorías que con aquella clasificación consigne el Catálogo de Empleos respectivo.
+
+La clasificación de los puestos de confianza en cada una de las dependencias o entidades, formará parte de su catálogo de puestos.
+
+Quedan excluidos de esta Ley los miembros de las instituciones policiales de los municipios, las que se regirán por sus propios ordenamientos.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 6o.
 
-Esta Ley solamente es aplicable a los trabajadores de base y supernumerarios de los Poderes del Estado, Municipios y de los Organismos Públicos Coordinados y Descentralizados de carácter estatal. Los empleados de confianza no quedan comprendidos en el presente ordenamiento, pero disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la Seguridad Social, en los términos del reglamento que al efecto dicta el Ejecutivo.
+Los trabajadores de confianza no están protegidos en cuanto a la estabilidad en el empleo y solo tendrán derecho a disfrutar de las medidas de protección al salario y gozarán de los beneficios de la seguridad social, en términos de la fracción XIV, del Apartado "B", del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Los trabajadores de confianza no están protegidos en cuanto a la estabilidad en el empleo, por tanto, carecen de acción para demandar la indemnización constitucional por reinstalación o por despido, de conformidad con el mandato de la Carta Magna de la República, ya aludido.
+
+Las personas que presten sus servicios mediante contrato civil o que estén sujetos al pago de honorarios quedarán protegidos por el derecho privado.
 
 ###### ARTICULO 7o.
 
@@ -866,3 +886,13 @@ El Tribunal de Conciliación y Arbitraje a que se refiere la presente Ley expedi
 ###### ARTICULO CUARTO.
 
 Los Convenios, acuerdos, reglamentos, prerrogativas y en general los derechos que estén establecidos a favor de los trabajadores, superiores a los que esta Ley les concede, continuarán surtiendo sus efectos en todo aquello que les beneficie.
+
+P.O. 5 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día·de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
