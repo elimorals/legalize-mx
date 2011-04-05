@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-transito-del-municipio-de-monclova-coahuila-25492
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-08"
-last_updated: "2000-12-08"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 REGLAMENTO DE TRANSITO DEL MUNICIPIO DE MONCLOVA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 8 de diciembre de 2000.
 
@@ -100,6 +100,10 @@ XXIII.- PASAJERO: Toda persona que aborde vehículos del Servicio Público de tr
 
 XXIV.- USUARIO: Toda persona que utiliza algún medio de transporte Público para el desarrollo de las actividades propias.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XXV.- TURISTA: Persona física que se encuentra de manera temporal en tránsito por el municipio, sin que resida en él, ni en los municipios que conforman la zona metropolitana, haciéndose ostensible mediante documentos oficiales el hecho de que viaja por placer o negocios.
+
 #### SECCION PRIMERA. AUTORIDADES COMPETENTES
 
 ###### ARTICULO 5.
@@ -152,11 +156,15 @@ Para el control y registro del transporte y de los conductores que transiten en 
 
 En el ejercicio de atribuciones concurrentes, el Ayuntamiento podrá celebrar convenios de coordinación con las autoridades federales, estatales y municipales en materia de tránsito, vialidad y control de la contaminación generada por vehículos automotores.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 9.
 
 Corresponde al DEPARTAMENTO, por conducto de su POLICÍA DE TRÁNSITO, la inspección y vigilancia del cumplimiento de las disposiciones del presente REGLAMENTO por parte de conductores y peatones, así como la aplicación de las sanciones correspondientes, sin perjuicio de los recursos que resuelva la autoridad competente.
 
 Los POLICÍAS DE TRÁNSITO podrán detener la marcha de un vehículo cuando su conductor haya violado de manera flagrante, alguna de las disposiciones del presente REGLAMENTO.
+
+Tratándose de infracciones cometidas por turistas, relativas a circular en sentido contrario o invadir el carril de contra flujo, las que tengan relación con los límites de velocidad, así como, las del uso del celular u otros dispositivos similares, siempre y cuando no existan señales prohibitivas, ni se encuentre bajo el influjo de bebidas alcohólicas o estupefacientes, los agentes de tránsito, podrán detener la marcha del vehículo, señalar al conductor la infracción que ha cometido, así mismo, con toda claridad y amabilidad solicitarle los documentos que lo acrediten como conductor y turista, para posteriormente conminarlo a respetar el reglamento para continuar con su marcha. Solo en caso de reincidencia se procederá conforme a este reglamento para el caso de aplicación de sanciones.
 
 #### SECCION SEGUNDA. CLASIFICACION DE VEHICULOS
 
@@ -1328,6 +1336,8 @@ Los vehículos de carga y de equipo especial, de servicio público, clasificados
 
 #### SECCION SEPTIMA. REGLAS PARA ESTACIONAMIENTO
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 121.
 
 Para estacionar un vehículo en la vía pública, se deberán observar las siguientes reglas:
@@ -1338,13 +1348,9 @@ II.- En zonas urbanas las ruedas contiguas a la acera quedarán a una distancia 
 
 III.- En zonas suburbanas el vehículo deberá quedar fuera de la superficie de rodamiento.
 
-IV.- Cuando el vehículo queda estacionado en bajada, además de aplicar el freno de estacionamiento, las ruedas delanteras deberán quedar dirigidas hacia la guarnición de la vía.
+IV.- Cuando el vehículo queda estacionado en bajada, además de aplicar el freno de estacionamiento, las ruedas delanteras deberán quedar dirigidas hacia la guarnición de la vía. La fracción quinta que se propone quedaría de la siguiente manera: (sic)
 
-Cuando quede en subida las ruedas delanteras quedarán en posición inversa. Cuando el peso del vehículo sea superior a 3.5 toneladas deberán colocarse unas cuñas apropiadas entre el piso y las ruedas traseras.
-
-V.- El estacionamiento en batería se hará dirigiendo las ruedas delanteras hacia la guarnición, excepto que la señalización indique lo contrario.
-
-VI.- Cuando el conductor de un vehículo lo estaciones (sic) en forma debida en la vía pública, ninguna persona podrá desplazarlo o empujarlo por cualquier medio para maniobras de estacionamiento. En casos de emergencia, únicamente los POLICÍAS DE TRÁNSITO del DEPARTAMENTOS (sic) podrán ordenar su desplazamiento.
+V.- “En el caso de que se pretenda estacionar en cajones destinados para vehículos de discapacitados, dichos vehículos deberán contar con las placas de circulación con el símbolo que lo acredite como tal, así mismo preferentemente deberá viajar en el vehículo la persona con la discapacidad”
 
 ###### ARTICULO 122.
 
@@ -1547,3 +1553,17 @@ PRESIDENTE MUNICIPAL
 LIC. GILBERTO ANTONIO MUELA GONZALEZ
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ABRIL DE 2011.
+
+SE ADICIONA UNA FRACCION XXV AL ARTICULO 4 Y UN TERCER PARRAFO AL ARTICULO 9 DEL REGLAMENTO DE TRANSITO MUNICIPAL VIGENTE.
+
+> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
+
+P.O. 5 DE ABRIL DE 2011.
+
+SE ADICIONA UNA FRACCION V AL ARTICULO 121, DEL REGLAMENTO DE TRANSITO MUNICIPAL VIGENTE.
+
+> <small>N. DE E. LA REFORMA DEL REGLAMENTO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.</small>
