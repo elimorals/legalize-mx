@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-102-para-el-desarrollo-social-del-estado-de-36604"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-06"
-last_updated: "2004-01-06"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUM. 102, PARA EL DESARROLLO SOCIAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de enero de 2004.
 
@@ -183,9 +183,17 @@ V. Evaluar los resultados de los programas y acciones, para sugerir su reorienta
 
 ### CAPITULO II. DE SU ESTRUCTURA Y ORGANIZACION
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### Artículo 15.
 
-El Sistema Estatal para el Desarrollo Social estará integrado por las dependencias de la Administración Pública Federal, Estatal y Municipales involucradas directamente con programas y acciones para el desarrollo social y superación de la pobreza.
+El Sistema Estatal para el Desarrollo Social estará integrado por el Titular del Poder Ejecutivo en el Estado, quien lo presidirá, los Secretarios de: Desarrollo Social, Educación Guerrero, Salud, Desarrollo Rural, Medio Ambiente y Recursos Naturales; el subsecretario del Trabajo y Previsión Social, del Gobierno del Estado, así como el Presidente de la Comisión de Desarrollo Social del Congreso del Estado; los Secretarios o Directores del área de desarrollo social de los H. Ayuntamientos del Estado de Guerrero, y el titular de la Secretaría de Desarrollo Social del Gobierno Federal, a través del Director de dicha Secretaría en el Estado;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+###### Artículo 15 Bis.
+
+El Sistema Estatal para el Desarrollo Social, se reunirá por lo menos cada cuatro meses, en las que deberán contemplarse los lineamientos previstos en el Reglamento de la presente Ley.
 
 ###### Artículo 16.
 
@@ -221,9 +229,19 @@ II. El Secretario Ejecutivo, que será el titular o encargado de despacho de la 
 
 III. El Secretario Técnico, quien será designado por el Secretario de Desarrollo Social, entre los funcionarios y Servidores Públicos adscritos a la Dependencia a su cargo, y
 
-IV. Consejeros representantes de: las dependencias y entidades de la administración publica federal, estatal y municipal, cuyas atribuciones y funciones tengan relación directa o indirecta con los programas y acciones para el desarrollo social y superación de la pobreza en el Estado, que determine el Presidente del Consejo; las Comisiones del Congreso del Estado y del Congreso de la Unión; instituciones académicas, organizaciones populares, campesinas, no gubernamental y empresariales, asociaciones civiles, profesionistas y sindicatos; representantes naturales de las regiones, municipios, comunidades, etnias y grupos organizados que sean objeto de atención específica de los programas, proyectos y acciones de la Política Social de Estado.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+IV. Consejeros representantes de: el Titular del Poder Ejecutivo en el Estado, quien lo presidirá; los Secretarios de: Desarrollo Social, Educación Guerrero, Salud, Desarrollo Rural, Medio Ambiente y Recursos Naturales; el subsecretario del Trabajo y Previsión Social, del Gobierno del Estado, así como el Presidente de la Comisión de Desarrollo Social del Congreso del Estado; los Secretarios o Directores del área de desarrollo social de los H. Ayuntamientos del Estado de Guerrero, y el titular de la Secretaría de Desarrollo Social del Gobierno Federal, a través del Director de dicha Secretaría en el Estado; pudiendo ser invitados a participar instituciones académicas, organizaciones populares, campesinas, no gubernamental y empresariales; asociaciones civiles, profesionistas y sindicatos; representantes naturales de las regiones, municipios, comunidades, étnias y grupos organizados que sean objeto de atención específica de los programas, proyectos y acciones de la Política Social de Estado.
 
 Los cargos de los integrantes del Consejo, serán de carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+###### Artículo 21 Bis.
+
+El Consejo Guerrerense para el Desarrollo Social y Superación de la Pobreza, se reunirá por lo menos cada cuatro meses, a convocatoria del Secretario Ejecutivo, con anuencia del Presidente, con el objetivo de evaluar las políticas públicas en materia de desarrollo social en el Estado, con plena observancia a lo dispuesto en el artículo 22 de la presente Ley; as (sic) que deberán notificarse con una anticipación de cinco días hábiles a la celebración de cada sesión.
+
+Las Instituciones invitadas a participar en las reuniones del Consejo tendrán únicamente el derecho a voz, aprobándose los acuerdos por mayoría de los integrantes, en caso de empate el Presidente tendrá voto de calidad; remitiéndose de manera inmediata, para su conocimiento y, en su caso, cumplimiento, a los integrantes del Sistema Estatal para el Desarrollo Social, así como a las Autoridades que tengan intervención.
 
 ### CAPITULO II. DE LAS FUNCIONES DEL CONSEJO
 
@@ -524,3 +542,13 @@ El Secretario de Desarrollo Social.
 C. LIC. HERIBERTO HUICOCHEA VAZQUEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página Web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Notifíquese a las autoridades competentes.
