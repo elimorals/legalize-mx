@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2010-12-02"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -129,7 +129,7 @@ i) Designación de las comisiones de cortesía.
 
 IV. Una vez que el Presidente ha tomado posesión, todos se pondrán de pie y éste manifestará:
 
-"LA (número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, SE DECLARA LEGITIMAMENTE INSTALADA Y EN APTITUD DE EJERCER LAS ATRIBUCIONES QUE LE SEÑALAN EL ARTICULO 57 DE LA CONSTITUCION POLlTICA DEL ESTADO, Y LAS LEYES."
+"LA (número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, SE DECLARA LEGITIMAMENTE INSTALADA Y EN APTITUD DE EJERCER LAS ATRIBUCIONES QUE LE SEÑALAN EL ARTICULO 57 DE LA CONSTITUCION POLITICA DEL ESTADO, Y LAS LEYES."
 
 V. Como primer acto, después de instalada la Legislatura, el Presidente designará tres comisiones, integradas por dos diputados cada una; mismas que tendrán las siguientes funciones:
 
@@ -835,11 +835,11 @@ III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en fo
 
 IV. La discusión en el Pleno de los dictámenes será una sola vez en lo general y en lo particular, conforme a lo dispuesto y su votación será nominal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)
 
 ###### ARTICULO 89.
 
-Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será entregada a los diputados.
+Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será remitida vía electrónica a los diputados.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -955,7 +955,7 @@ Si se solicitara hacer uso de la palabra sólo por oradores en contra, se emplea
 
 Declarado un asunto suficientemente discutido no se volverá a tomar la palabra sobre el mismo.
 
-### CAPITULO I. DE LA JUNTA DE COORDINACION POLlTICA
+### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
 
 ###### ARTICULO 110.
 
@@ -1395,7 +1395,7 @@ Presentada la circunstancia de que un diputado se declarara independiente, éste
 
 Una representación parlamentaria se tendrá por legalmente constituida, cuando entregue a la Directiva, un oficio expedido de acuerdo con la normatividad del partido político al que pertenezca, que certifique el nombramiento del diputado como representante de dicho partido político ante el Congreso del Estado.
 
-### CAPITULO II. DE LA OFICIALlA MAYOR
+### CAPITULO II. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 163.
 
@@ -1469,7 +1469,7 @@ Los diputados deberán presentar la declaración de su situación patrimonial, c
 
 Los titulares de los órganos de soporte técnico y de apoyo del Congreso del Estado, podrán ser removidos por causa justificada, cuando así lo determine el Pleno por mayoría de votos de los diputados presentes en la sesión de que se trate.
 
-### CAPITULO V. DE LA COORDlNACION DE INFORMATICA
+### CAPITULO V. DE LA COORDINACION DE INFORMATICA
 
 ###### ARTICULO 172.
 
@@ -1593,7 +1593,7 @@ XV. Realizar las adquisiciones que requiera el Congreso del Estado de acuerdo co
 
 XVI. Las demás que le confiera la Ley Orgánica, y las que la Junta y la Oficialía Mayor le asignen.
 
-### CAPITULO VII. DE LA COORDlNACION DE SERVICIOS PARLAMENTARIOS
+### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
 
 ###### ARTICULO 180.
 
@@ -1735,7 +1735,9 @@ IX. Presentar para su firma, los documentos y libros al Presidente y los secreta
 
 X. Supervisar la elaboración de las actas de las sesiones del Congreso, así como verificar que queden asentadas en los libros correspondientes;
 
-XI. Formar, conforme lo disponga la Directiva, y distribuir oportunamente la Gaceta Parlamentaria del Congreso, e ingresarla a la página de internet del Congreso en los términos que dispone la Ley Orgánica;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XI. Formar, conforme lo disponga la Directiva, y enviar oportunamente vía electrónica, la Gaceta Parlamentaria del Congreso, e ingresarla a la página de internet del Congreso en los términos que dispone la Ley Orgánica;
 
 XII. Tener bajo su resguardo el archivo vigente de la Legislatura, sistematizarlo y mantenerlo en condiciones de consulta; y
 
@@ -1945,11 +1947,11 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2009.
 
-DECRETO 842 POR EL QUE SE ADICIONA EL ARTICULO 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO 842 POR EL QUE SE ADICIONA EL ARTÍCULO 13 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1957,7 +1959,7 @@ SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a
 
 P.O. 15 DE SEPTIEMBRE DE 2009.
 
-DECRETO 843 POR EL QUE SE REFORMA EL ARTICULO 52 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO 843 POR EL QUE SE REFORMA EL ARTÍCULO 52 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1983,7 +1985,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 2 DE DICIEMBRE DE 2010.
 
-DECRETO 387 POR EL QUE SE REFORMAN LOS ARTICULOS 184, 188 Y 189.
+DECRETO 387 POR EL QUE SE REFORMAN LOS ARTÍCULOS 184, 188 Y 189.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1991,8 +1993,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 2 DE DICIEMBRE DE 2010.
 
-DECRETO 388 POR EL QUE SE REFORMA EL ARTICULO 89.
+DECRETO 388 POR EL QUE SE REFORMA EL ARTÍCULO 89.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor a los sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
