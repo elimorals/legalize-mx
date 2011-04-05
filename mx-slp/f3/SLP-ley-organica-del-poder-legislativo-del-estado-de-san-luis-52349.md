@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-12-21"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -205,7 +205,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -1749,7 +1749,7 @@ El Congreso del Estado instituye el servicio parlamentario de carrera para sus t
 
 ###### ARTICULO 142.
 
-El Congreso del Estado contará con un órgano de notificación, denominado Gaceta Parlamentaria, dependiente de la Directiva; que se publicará y entregará a los legisladores con cuarenta y ocho horas de anticipación a las sesiones plenarias.
+El Congreso del Estado contará con un órgano de notificación denominado Gaceta Parlamentaria, dependiente de la Directiva; que se publicará en el portal del Congreso y enviará, vía electrónica, a los legisladores, con cuarenta y ocho horas de anticipación a las sesiones plenarias.
 
 En ella se publicarán:
 
@@ -1765,15 +1765,27 @@ V. Informes del Congreso, y
 
 VI. Asistencias de los diputados y actas de las sesiones plenarias.
 
-La información de la Gaceta deberá actualizarse en la página del Congreso del Estado, en Internet, dentro de las cuarenta y ocho horas siguientes a cada sesión del Pleno o la Diputación Permanente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+La información de la Gaceta deberá actualizarse en la página del Congreso del Estado en internet, dentro de las cuarenta y ocho horas siguientes a cada sesión del Pleno o de la Diputación Permanente; sin perjuicio de la publicación y notificación a los diputados conforme al párrafo primero de este artículo.
 
 La antelación de la publicación de la Gaceta podrá ser dispensada, en los casos en que la ley establezca plazos perentorios para la aprobación o el conocimiento de determinados asuntos.
 
-La falta de publicación de un dictamen en la Gaceta, no será obstáculo para que el mismo se discuta en la sesión respectiva, siempre y cuando haya sido entregado a los diputados con por lo menos cuarenta y ocho horas de anticipación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+La falta de publicación de un dictamen en la Gaceta, no será obstáculo para que el mismo se discuta en la sesión respectiva, siempre y cuando haya sido enviado, vía electrónica, a los diputados, con por lo menos cuarenta y ocho horas de anticipación.
 
 No podrán publicarse en la Gaceta los asuntos tratados en las sesiones privadas.
 
 ### Capítulo V. De la Gaceta Parlamentaria
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)</small>
 
 ## TRANSITORIOS
 
@@ -1904,3 +1916,9 @@ P.O. 21 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor a los sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
