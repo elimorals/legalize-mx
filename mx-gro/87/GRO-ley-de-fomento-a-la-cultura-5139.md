@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-a-la-cultura-5139"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-10"
-last_updated: "1999-10-15"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO A LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 10 de mayo de 1988.
 
@@ -145,13 +145,19 @@ El Programa de Fomento a la Cultura tendrá como objetivo general, proveer a la 
 
 ### CAPITULO UNICO. DEL FOMENTO A LA CULTURA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 6o.
 
-El Gobierno del Estado fomentará la cultura, en los términos del Plan de Desarrollo, y del Programa relativo y de las disponibilidades financieras, como sigue:
+El Gobierno del Estado fomentará la cultura, en los términos del Plan Estatal de Desarrollo, y del Programa relativo, previendo los recursos financieros en el Presupuesto de Egresos del Estado, para:
 
 I. Administrar el Instituto Guerrerense de la Cultura con sujeción a lo que esta Ley establece;
 
 II. Crear y operar establecimientos culturales de interés estatal; como casas y centros de cultura, escuelas, bibliotecas, centros de capacitación o de investigación, museos, salas de exposición, imprentas y editoriales, y otros establecimientos de naturaleza análoga;
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+En lo relativo al establecimiento de casas y centros de cultura, deberán proveerse los mecanismos necesarios para el establecimiento de cuando menos una en cada Región en las que se divide el Estado de Guerrero. (Centro, Montaña, Norte, Tierra Caliente, Costa Chica, Costa Grande y Acapulco).
 
 III. Estimular la creación y operación de establecimientos culturales por parte de los ayuntamientos, dependencias y entidades federales mediante apoyos técnicos, materiales y financieros;
 
@@ -185,6 +191,10 @@ El gobierno del Estado fijará los precios y cuotas de recuperación de los bien
 
 Cuando los bienes o servicios culturales se produzcan, distribuyan o presten por dependencias o entidades federales o municipales, o bien por particulares, el Gobierno del Estado procurará que los precios, tarifas o cuotas sean accesibles, gratuitos o a menor costo.
 
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+Las Casas de la Cultura son espacios que tienen como objetivo ayudar y contribuir a la conservación de las tradiciones, fomentar el gusto por el arte y ayudar al descubrimiento de vocaciones artísticas, ofreciendo alternativas culturales y de oficio para el desarrollo del individuo. Los servicios a promotores culturales serán gratuitos, y de las actividades de éstos hacia el público en general deberán ser asequibles, con la única finalidad de recuperar los gastos que el servicio cultural ocasione.
+
 ## TITULO TERCERO
 
 ### CAPITULO UNICO. DE LA COORDINACION CON EL GOBIERNO FEDERAL Y LOS AYUNTAMIENTOS
@@ -193,13 +203,19 @@ Cuando los bienes o servicios culturales se produzcan, distribuyan o presten por
 
 El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Social, conforme al Programa de Fomento a la Cultura, celebrará acuerdos de coordinación generales o específicos con las distintas dependencias y entidades federales con los siguientes fines:
 
-I. Favorecer el acceso de los guerrerenses a instalaciones, servicios y bienes culturales pertenecientes a la Federación;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-II. Hacer posible que las dependencias y entidades federativas celebren actos culturales en el Estado o que participen en ellos artistas o trabajadores culturales guerrerenses;
+l. Promover y favorecer el acceso de los guerrerenses a instalaciones, servicios y bienes culturales pertenecientes a los Municipios, Estado y la Federación;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+II. Que las dependencias y entidades federativas celebren actos culturales en el Estado, en los que se contemple la participación de artistas o trabajadores culturales guerrerenses;
 
 III. Obtener apoyo normativo y técnico de la federación;
 
-IV. Difundir los valores culturales del Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+IV. Difundir los valores culturales del Estado, en los que participen las casas de culturas regionales;
 
 V. Aprovechar la capacidad e infraestructura federal instalada, para los efectos de esta Ley;
 
@@ -209,23 +225,33 @@ VI. Estimular una distribución regional racional y equilibrada del equipamiento
 
 El Gobierno del Estado y los ayuntamientos celebrarán convenios de coordinación con los siguientes fines:
 
-I. Hacer que los municipios se beneficien con los Acuerdos a los que se refiere al artículo anterior;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+l. Hacer que los municipios, en coordinación con las casas de cultura regionales, se beneficien con los Acuerdos a los que se refiere el artículo anterior;
 
 II. Definir las responsabilidades del fomento a la cultura entre el Gobierno Estatal y los municipios en un marco de coordinación y colaboración;
 
-III. Transferir la operación de establecimientos culturales del Gobierno del Estado a los municipios cuando sean del interés de éstos o crear establecimientos coordinados de servicios culturales;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-IV. Proporcionar a los municipios apoyos normativos, técnicos, materiales y financieros;
+III. Estimular la operación y creación de Casas de Cultura, con la participación del Gobierno Estatal, Municipal y organizaciones culturales, en un marco de coordinación y colaboración. Transfiriendo la operación de establecimientos culturales del Gobierno del Estado a los municipios cuando sean del interés de éstos;
 
-V. Asegurar la participación de los municipios en el Sistema y Programas Estatales de Cultura;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+IV. Proporcionar a los Municipios, a las casas de cultura regionales, apoyos normativos, técnicos, materiales y financieros;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+V. Asegurar la participación de los municipios, las Casas de Cultura Regionales, en el Sistema y Programas Estatales de Cultura;
 
 VI. Favorecer el aprovechamiento cabal y eficiente de la infraestructura cultural, y
 
 VII. Garantizar la actividad cultural integral.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 11.
 
-El Gobierno del Estado y los ayuntamientos podrán instituir establecimientos coordinados de servicios culturales, participando conjuntamente en la administración, financiamiento y organización de los mismos.
+El Gobierno del Estado y los Ayuntamientos, deberán instituir establecimientos coordinados de servicios culturales, casas de cultura regionales, participando conjuntamente en la administración, financiamiento y organización de los mismos.
 
 ## TITULO CUARTO
 
@@ -291,9 +317,11 @@ El Gobierno del Estado y los ayuntamientos estimularán la creación de instituc
 
 ### CAPITULO UNICO. DEL SISTEMA ESTATAL DE CULTURA
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 24.
 
-Se crea el Sistema Estatal de Cultura como un mecanismo de coordinación funcional de las dependencias y entidades públicas y los establecimientos culturales que actúen en el Estado de Guerrero y que tendrá por objeto vincular racionalmente la producción, distribución y prestación de bienes y servicios culturales para favorecer su disfrute y la protección, acrecentamiento y difusión de los valores y patrimonio cultural guerrerense.
+Se crea el Sistema Estatal de Cultura como un mecanismo de coordinación funcional de las dependencias y entidades públicas, los establecimientos culturales y las Casas de Cultura Regionales, que actúen en el Estado de Guerrero, teniendo por objeto vincular racionalmente la producción, distribución y prestación de bienes y servicios culturales para favorecer su disfrute y la protección, acrecentamiento y difusión de los valores y patrimonio cultural guerrerense.
 
 ###### ARTICULO 25.
 
@@ -466,3 +494,9 @@ Rúbrica.
 P.O. 15 DE OCTUBRE DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página Web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
