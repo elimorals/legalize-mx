@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-coordinacion-del-instituto-de-16532"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-25"
-last_updated: "2000-01-25"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA COORDINACION DEL INSTITUTO DE FORMACION Y CAPACITACION POLICIAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COORDINACION DEL INSTITUTO DE FORMACION Y CAPACITACION POLICIAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 5 DE ABRIL DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 25 de enero de 2000.
 
@@ -884,3 +886,15 @@ El Secretario de Seguridad Pública y Protección Ciudadana.
 C. LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación, en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo que crea la Coordinación del INFOCAP del Estado de Guerrero y el Reglamento Interior de dicha Coordinación, ambos publicados en el Periódico Oficial del Gobierno del Estado No. 7, el martes 25 de enero de 2000.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento Interior.
+
+CUARTO.- Los asuntos que se encuentren en tramité en la fecha en que entre en vigor este reglamento, que no requieran de solución inmediata, serán turnados a la unidad administrativa a la que corresponda conocer de los mismos, conforme a la nueva determinación de competencia.
