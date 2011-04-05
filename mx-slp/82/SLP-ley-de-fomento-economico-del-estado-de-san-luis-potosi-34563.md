@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2010-07-20"
+last_updated: "2011-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -495,13 +495,17 @@ III. Que se garantice que el desarrollo económico del Estado satisfaga las nece
 
 La Secretaría con la participación del Consejo, del sector privado y organismos empresariales, alentará una cultura exportadora que promueva los productos de calidad, así como la competitividad de empresas, mercados, servicios, regiones y sectores.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 53.
 
-La Secretaría fomentará la participación de los productos potosinos en los mercados, a través de diversos mecanismos de promoción, para incrementar las exportaciones directas e indirectas.
+La Secretaría fomentará la participación de los productos potosinos en los mercados, a través de diversos mecanismos de promoción e identificación de oportunidades comerciales y actividades de mercado, para incrementar las exportaciones directas e indirectas.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 54.
 
-La Secretaría empleando servicios de información, asesoría técnica y de capacitación en materia de comercio exterior, apoyará a las empresas potosinas; y con la participación del Consejo Consultivo para el Desarrollo Económico, definirá el Programa Integral de Exportaciones, que señalará la política de comercio exterior.
+La Secretaría generará servicios de información en comercio exterior, con especial orientación a los empresarios con vocación exportadora, para consulta e investigación sobre estadísticas comerciales y oportunidades de negocios, así como asesoría técnica en los marcos, económico, jurídico, aduanal, financiero y logístico; y con la participación del Consejo Consultivo para el Desarrollo Económico, definirá el Programa Integral de Exportaciones, que señalará la política de comercio exterior.
 
 ###### ARTICULO 55.
 
@@ -523,9 +527,25 @@ II. Búsqueda de canales para la comercialización y promoción de los productos
 
 III. Estimulación a los procesos de desregulación, simplificación administrativa y descentralización;
 
-IV. Asesoría continua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento, y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-V. Impulso a la especialización de los procesos productivos y productos con ventajas competitivas.
+IV. Asesoría continua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+V. Impulso a la especialización de los procesos productivos y productos con ventajas competitivas;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+VI. Información estadística, sectorial y económica para la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+VII. Articulación de programas, instrumentos, productos, herramientas y acciones para elevar su competitividad, y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+VIII. Formación de emprendedores.
 
 ###### ARTICULO 58.
 
@@ -648,3 +668,19 @@ P.O. 20 DE JULIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2011.
+
+DECRETO NUMERO 543, POR EL QUE SE REFORMA EL ARTICULO 57 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTICULO 57 LAS FRACCIONES VI, VII Y VIII, DE Y A LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2011.
+
+DECRETO NUMERO 544, POR EL QUE SE REFORMA LOS ARTICULOS 53 Y 54 DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
