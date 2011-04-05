@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-12-16"
+last_updated: "2011-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -739,55 +739,95 @@ II. Por la calificación de todo documento que se devuelva sin cumplimentar por 
 
 III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de 10 días de salario mínimo;
 
-IV. La inscripción de poderes públicos y privados no mercantiles y la sustitución de los mismos, con el equivalente a cuatro días de salario mínimo, si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicionales se cobrará además tres días de salario mínimo.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-Por la revocación o renuncia de los poderes, por cada una se cobrará tres días de salario mínimo;
+IV. La inscripción de poderes públicos y privados no mercantiles y la sustitución de los mismos, con el equivalente a cinco días de salario mínimo, si un solo poderdante designa un sólo apoderado; por cada poderdante o apoderado adicionales se cobrará además cuatro días de salario mínimo.
+
+Por la revocación o renuncia de los poderes, por cada una se cobrará cinco días de salario mínimo;
 
 V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar;
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
 
-VII. La inscripción de la constitución del patrimonio familiar y de las informaciones ad-perpetuam, con el importe de un día de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-VIII. La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de un día de salario mínimo;
+VII. La inscripción de la constitución del patrimonio familiar y de las informaciones ad-perpetuam, con el importe de cinco días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+VIII. La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de diez días de salario mínimo;
 
 IX. La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
 
-X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán derechos de inscripción como sigue:
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-a) Lote urbano, cinco días de salario mínimo;
+X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán los derechos de inscripción siguientes:
 
-b) Lote rústico, un día de salario mínimo;
+a) Lote urbano, siete días de salario mínimo;
 
-Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad cinco días de salario mínimo.
+b) Lote rústico, cinco días de salario mínimo;
 
-XI. El depósito de testamentos y expedición de constancias respectivas, por cada una cuatro días de salario mínimo;
+Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete días de salario mínimo.
 
-XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de tres días de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de tres días de salario mínimo, por cada anotación;
+XI. El depósito de testamentos y expedición de constancias respectivas, por cada una cinco días de salario mínimo;
 
-XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de 3 días de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-XV. Búsqueda de documentos, tres días de salario mínimo; certificación o expedición de copia certificada de los mismos o de protocolos, un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de tres días de salario mínimo;
+XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de diez días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V y VII, con el importe de diez días de salario mínimo, por cada anotación;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de diez días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XV. Búsqueda de documentos, seis días de salario mínimo; certificación o expedición de copia certificada de los mismos o de protocolos, un día de salario mínimo; certificado con reserva de prioridad 10 días de salario mínimo; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis días de salario mínimo;
 
 XVI. Inscripción en el Archivo General de Notarías:
 
-a) Por el registro de la patente notarial, noventa días de salario mínimo;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-b) Por el registro de la firma y sello del notario, cuatro días de salario mínimo;
+a) Por el registro de la patente notarial, cien días de salario mínimo;
 
-c) Por el registro de la patente de aspirantes a notarios públicos, dos días de salario mínimo;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-d) Por su autorización de cada libro del protocolo notarial, tres días de salario mínimo;
+b) Por el registro de la firma y sello del notario, diez días de salario mínimo;
 
-e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, 50 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de cinco días de salario mínimo, por cada propiedad;
+c) Por el registro de la patente de aspirantes a notarios públicos, diez días de salario mínimo;
 
-XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, sobre el importe de la operación 4 al millar; y
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-XIX. Por la consulta de un legajo, dos días de salario mínimo.
+d) Por la autorización de cada libro del protocolo notarial, cinco días de salario mínimo;
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, un día de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, sobre el importe de la operación 4 al millar;
+
+XIX. Por la consulta de un legajo, dos días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XX. Por la rectificación de documentos expedidos por el Registro Público de la Propiedad Inmueble, siete días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XXI. Por la inscripción de los títulos expedidos por el Registro Agrario Nacional tres días de salario mínimo.
 
 El importe de los derechos señalados en las fracciones I, III, V, VI, IX, y XVIII de éste artículo, en ningún caso será inferior al equivalente de dos días de salario mínimo.
 
@@ -849,7 +889,9 @@ III. La inscripción de las escrituras constitutivas de Sociedades Mercantiles, 
 
 IV. La inscripción de las modificaciones a la escritura constitutiva de Sociedades Mercantiles, siempre que no se refiera a aumento de capital social, con el importe de cuatro días de salario mínimo;
 
-V. La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de cuatro días de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+V. La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de diez días de salario mínimo;
 
 VI. El depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles con el importe de cuatro días de salario mínimo;
 
@@ -861,27 +903,49 @@ IX. La inscripción de los acuerdos de disolución o liquidación de sociedades 
 
 X. En los casos de las fracciones VIII y IX de este artículo, si como consecuencia de la liquidación, fusión o escisión de la sociedad, se adjudican bienes inmuebles, los derechos se causarán conforme a lo dispuesto en los artículos 65 fracción I y 66 fracción I de esta Ley;
 
-XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a cuatro días de salario mínimo si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres días de salario mínimo.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-Por la revocación o renuncia de los poderes, por cada una se cobrará tres días de salario mínimo. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
+XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a diez días de salario mínimo si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres días de salario mínimo.
+
+Por la revocación o renuncia de los poderes, por cada una se cobrará diez días de salario mínimo. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
 
 XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de cuatro días de salario mínimo;
 
-XIII. La inscripción de habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que, en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras y documentos a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio con el importe de tres días del salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XIII. La inscripción de habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que, en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras y documentos a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio con el importe de diez días de salario mínimo;
 
 XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar;
 
 XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar;
 
-XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de cuatro días de salario mínimo;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-XVII. Búsqueda de documentos tres días de salario mínimo; certificaciones o copia certificada, un día de salario mínimo por hoja;
+XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de diez días de salario mínimo;
 
-XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de seis días de salario mínimo; y
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, cuatro días de salario mínimo.
+XVII. Búsqueda de documentos seis días de salario mínimo; certificaciones o copia certificada, un día de salario mínimo;
 
-El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a tres días de salario mínimo.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de diez días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, diez días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XX. Por la aclaración de los actos realizados por el Registro Público del Comercio cinco días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+
+XXI. Por la cancelación de los actos realizados por el Registro Público del Comercio cinco días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
+El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a diez días de salario mínimo.
 
 ###### Artículo 69.
 
@@ -1750,3 +1814,9 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente 
 ###### ARTICULO TERCERO.
 
 Los Ayuntamientos en los que se instalen Centros de Verificación de contaminantes por fuentes móviles o en los que funcionen las unidades móviles de verificación, deberán coordinarse con la Agencia Ambiental para el Desarrollo Sustentable, a efecto de celebrar los actos jurídicos que se requieran para la exacta observancia de las disposiciones relativas a la verificación vehicular de contaminantes. Asimismo, deberán adecuar sus propias determinaciones legales que incidan en la materia para ejercer las acciones de autoridad que privilegien el cumplimiento de las normas protectoras del medio ambiente, incluidas aquéllas que versen sobre la recaudación de derechos por ese concepto.
+
+P.O. 5 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
