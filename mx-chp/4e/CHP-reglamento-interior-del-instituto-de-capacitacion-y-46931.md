@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-capacitacion-y-46931"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-05"
-last_updated: "2005-10-05"
+last_updated: "2011-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y VINCULACION TECNOLOGICA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y VINCULACION TECNOLOGICA DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y VINCULACIÓN TECNOLÓGICA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 5 de octubre de 2005.
 
@@ -652,3 +654,19 @@ Tercero.- Las disposiciones no previstas en el presente Reglamento, serán resue
 Dado en el Salón de Sesiones de la H. Junta Directiva del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas; en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de mayo del año dos mil cinco.
 
 Presidente: Pablo Salazar Mendiguchía, Gobernador del Estado de Chiapas.- Secretario Técnico: Roger Grajales González, Secretario de Desarrollo Económico.- Vocales: Jesús Evelio Rojas Morales, Secretario de Planeación y Finanzas.- Josefa López Ruiz de Laddaga, Titular de la Oficina de Servicios Federales de Apoyo a la, Educación en el Estado de Chiapas.- Alfredo Palacios Espinosa, Secretario de Educación.- Enrique Avila Herrera, Encargado del Despacho de la Coordinación de Organismos Descentralizados de los I.C.T. de la D.G.C.F.T., de la Secretaría de Educación Pública.- Intervienen por el ICATECH: Leonel Antonio Morales Guillén, Director General.- Ana Elizabeth Utrilla Morales, Comisario Público.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE ABRIL DE 2011.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas, publicado en el Periódico Oficial número 325, Tomo II, de fecha 05 de octubre del año 2005; así como las disposiciones que del mismo emanen, y se derogan aquellas otras que se opongan al presente Reglamento.
+
+Artículo Tercero.- El Manual de Organización respectivo, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento.
+
+Artículo Cuarto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto.- Para las cuestiones no previstas en el presente Reglamento, en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Sexto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial del Estado.
