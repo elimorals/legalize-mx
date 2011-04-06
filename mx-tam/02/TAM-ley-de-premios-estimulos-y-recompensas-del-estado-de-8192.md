@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2010-02-23"
+last_updated: "2011-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -185,19 +185,25 @@ VIII.- Premio Estatal de Solidaridad Social;
 
 IX.- Premio Estatal de Antigüedad en el Servicio Público;
 
-X.- Premio Estatal Maestro Rafael Ramírez; y (sic)
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+X.- Premio Estatal Maestro Rafael Ramírez;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2010)</small>
 
 XI.- Premio Estatal de Ecología y Protección al Ambiente;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XII.- Premio Estatal al mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara; y
+XII.- Premio Estatal al Mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XIII.- Premio Estatal al mérito ciudadano General Alberto Carrera Torres.
+XIII.- Premio Estatal al Mérito ciudadano General Alberto Carrera Torres; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XIV.- Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú.
 
 ###### ARTICULO 19.
 
@@ -665,9 +671,25 @@ El premio consistirá en una medalla y podrá promoverlo cualquier persona.
 
 Si fallece el titular del premio, la familia de éste será quien reciba la medalla otorgada.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XVI], P.O. 23 DE FEBRERO DE 2010)
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE ABRIL DE 2011)</small>
 
-### CAPITULO XVII. ESTIMULOS Y RECOMPENSAS
+### CAPITULO XVII. PREMIO ESTATAL AL MERITO A LA ENFERMERIA DOCTOR RODOLFO TORRE CANTU
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+ARTICULO 89 TER.- El Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú, se conferirá de manera indistinta a aquella persona que se distinga en el desempeño de la profesión de la enfermería en Tamaulipas.
+
+El premio se tramitará ante la Secretaría de Salud, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Director de la Escuela Superior de Enfermería de la Universidad Autónoma de Tamaulipas, y por un representante del Colegio de Enfermeras del Estado de Tamaulipas, A.C.
+
+El Presidente del Consejo de Premiación invitará a la Delegación Estatal del Instituto Mexicano del Seguro Social, en sus regímenes IMSS ordinario e IMSS Solidaridad, a la Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a la Dirección del Hospital Naval Regional en el Estado y a la Dirección del Hospital General de Petróleos Mexicanos en el Estado, para que, de no tener inconveniente, nombren sendos representantes de enfermería ante el citado Consejo.
+
+El premio consistirá en una medalla de plata, diploma y el numerario que determine el titular del Poder Ejecutivo, y podrá promoverlo cualquier persona.
+
+El premio deberá entregarse anualmente, preferentemente el día 12 de mayo por conmemorarse en esa fecha el Día Internacional de la Enfermería.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XVII], P.O. 6 DE ABRIL DE 2011)
+
+### CAPITULO XVIII. ESTIMULOS Y RECOMPENSAS
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -770,3 +792,9 @@ P.O. 23 DE FEBRERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
