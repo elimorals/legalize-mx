@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-estudios-hacendarios-del-686
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-21"
-last_updated: "2009-05-21"
+last_updated: "2011-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,11 +22,11 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 21 de mayo de 2009.
 
-CONSIDERANDO ...
+CONSIDERANDO...
 
 XI. Que con fundamento en lo dispuesto por los artículos 3° fracción VI de la Constitución Política de los Estados Unidos Mexicanos; 1, 10, 11, fracción II, 14 fracción IV, 54, 55, 57 y 58 de la Ley General de Educación; 3, 15, 19 fracción V, 29, 30 fracciones III y XXIV de la Ley Orgánica de la Administración Pública del Estado de México; 3.25 del Código Administrativo del Estado de México; 1, 2, 4, 6 fracciones II y III, 7, 13, 17, 21, 28 y 32 del Reglamento General de Servicios Educativos Incorporados del Estado de México; y1 (sic), 2 y 5 del Reglamento Interior de la Secretaría de Educación, se emite el presente:
 
@@ -1530,13 +1530,29 @@ Si el estudiante deserta de la formación será obligación de la Coordinación 
 
 ### CAPÍTULO I. DEL GRADO ACADÉMICO
 
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2011)</small>
+
 ###### Artículo 156.
 
-El IHAEM, a través de su plantel educativo, otorgará el grado académico correspondiente, a quienes concluyan totalmente los créditos del programa educativo, y aprueben el examen de grado correspondiente, además de que cumplan con los requisitos que se establecen en el presente reglamento.
+El IHAEM, a través de su plantel educativo, otorgará el grado académico correspondiente, a quienes concluyan totalmente los créditos del programa educativo y cumplan con los requisitos que se establecen en el presente reglamento.
+
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2011)</small>
 
 ###### Artículo 157.
 
-Los alumnos del Colegio que cursen y concluyan los estudios de postgrado podrán obtener el grado académico mediante la elaboración de Tesis Individual, consistente en trabajo de investigación, que deberá sustentarse ante un Jurado, de acuerdo con las reglas previstas en el presente Reglamento.
+Los alumnos del Colegio que cursen y concluyan los estudios de postgrado podrán obtener el grado académico mediante alguna de las opciones siguientes:
+
+I. Elaboración de Tesis Individual, consistente en trabajo de investigación, que deberá sustentarse ante un Jurado, de acuerdo con las reglas previstas en el presente Reglamento;
+
+II. Por aprovechamiento académico, en el que deberá acreditarse haber obtenido un promedio general de aprovechamiento en los estudios de postgrado, alcanzando 9.5 puntos o más en una escala de 1 a 10 puntos y cubran los requisitos siguientes:
+
+a. Aprobar la totalidad del plan de estudios correspondiente de manera ininterrumpida;
+
+b. No haber cometido faltas contra la disciplina y el orden institucional del Colegio;
+
+c. Las demás señaladas en el presente Reglamento;
+
+III. Elaboración y publicación de un artículo en una revista arbitrada de circulación nacional o internacional que tenga el acreditamiento específico (a través de su inscripción en registros de publicaciones nacionales e internacionales, ISSN o contar con registro en el índice de revistas mexicanas de investigación científica y tecnológica, certificado por el CONACyT).
 
 ###### Artículo 158.
 
@@ -1664,7 +1680,9 @@ De los documentos institucionales que deberá presentar el interesado para obten
 
 I. Solicitud escrita del Director de Tesis para realizar el examen de grado por lo menos 30 días hábiles antes de la fecha prevista para el examen respectivo.
 
-II. Constancia oficial de haber acreditado el examen TOEFL Internacional con 550 puntos, por institución oficial acreditada para expedirlo.
+> <small>(REFORMADA, G.G. 6 DE ABRIL DE 2011)</small>
+
+II. Constancia oficial de haber aprobado el curso del nivel básico del idioma inglés u otro idioma, acreditado por el Centro Internacional de Lengua y Cultura de la Universidad Autónoma del Estado de México, con una duración mínima de 100 horas de formación del curso de comprensión de textos en el idioma inglés u otro idioma; o bien, cubrir el requisito al egreso del postgrado.
 
 III. Constancia de elaboración de documentos mediante herramientas de cómputo, expedida por el IHAEM.
 
@@ -2232,7 +2250,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 SEGUNDO.- Todo lo no previsto en el presente reglamento se someterá a los Consejos Académico y de Gobierno, según corresponda, para su análisis y recomendación.
 
-TERCERO.- El presente Reglamento será revisado, y en su caso actualizado, en el último bimestre del ciclo escolar y surtirá efectos para la siguiente promoción.
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2011)</small>
+
+TERCERO.- Las reformas incorporadas en los artículos 156, 157 y 169 tendrán aplicación retroactiva, en todos aquellos aspectos que beneficien al egresado, hasta por un término de dos años, a partir de su vigencia.
+
+> <small>(ADICIONADO, G.G. 6 DE ABRIL DE 2011)</small>
+
+Aprobado por el Consejo Académico del Colegio de Estudios Hacendarios del Estado de México, el 27 de agosto de 2010, según consta en Acta, celebrada en la Ciudad de Toluca de Lerdo, Capital del Estado de México, y por el Consejo de Gobierno en fecha 1° de marzo de 2011, según consta en el acta respectiva.
 
 ATENTAMENTE
 
@@ -2247,3 +2271,13 @@ EL VOCAL EJECUTIVO
 LIC. FERNANDO R. PORTILLA SÁNCHEZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 6 DE ABRIL DE 2011.
+
+Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Tercero.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
