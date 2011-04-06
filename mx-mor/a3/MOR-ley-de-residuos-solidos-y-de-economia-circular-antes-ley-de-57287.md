@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2007-10-17"
+last_updated: "2011-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SOLIDOS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -253,9 +253,17 @@ XXI. Coadyuvar en la promoción de la prevención de la contaminación de sitios
 
 XXII. Autorizar los lugares en donde los residuos se entregarán a servicios de recolección o a centros de acopio regionales según corresponda, de conformidad con lo que establezcan los programas correspondientes;
 
-XXIII. Organizar y promover de acuerdo a su competencia, actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos; y
+XXIII. Organizar y promover de acuerdo a su competencia, actividades de comunicación, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación, valorizar y lograr el manejo integral de los residuos; y (sic)
 
 XXIV. Promover de acuerdo a su competencia la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones de profesionistas y de consumidores, y organizaciones no gubernamentales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XXV. Elaborar, difundir y aplicar programas mediante los cuales se dé a conocer a la población del Estado, sobre los efectos que genera la utilización de plásticos no biodegradables, con el fin de reducir el consumo de bolsas, envases, embalajes o empaques no biodegradables;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XXVI. Vigilar que la producción y el consumo de productos plásticos se sujeten a los criterios de sustentabilidad, que establezca para tal efecto la Comisión en su reglamento.
 
 ###### ARTÍCULO 9.
 
@@ -401,13 +409,23 @@ II. Convocarán a los grupos sociales organizados a participar en proyectos dest
 
 III. Celebrarán convenios de concertación con organizaciones sociales y privadas en la materia objeto de la presente Ley;
 
-IV. Celebrarán convenios con medios de comunicación para la promoción de las acciones de prevención y gestión integral de los residuos; y
+IV. Celebrarán convenios con medios de comunicación para la promoción de las acciones de prevención y gestión integral de los residuos; y (sic)
 
 V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+VI. Se prohíbe a los establecimientos mercantiles, así como a los comerciantes ambulantes, otorgar bolsas de plástico que no estén sujetas a las bases de producción y consumo sustentable.
+
+Sólo se podrán utilizar bolsas de plástico que reúnan los estándares tecnológicos para su degradación, que para tal efecto establezca la Comisión en su Reglamento.
 
 ###### ARTÍCULO 23.
 
 El Ejecutivo del Estado de Morelos y los Municipios, integrarán órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas, organizaciones sociales y empresariales que tendrán funciones de asesoría, evaluación y seguimiento en materia de la política de prevención y gestión integral de los residuos y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento, se sujetarán a las disposiciones que para tal efecto se expidan; así como a los ordenamientos vigentes.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+Así mismo, el Ejecutivo del Estado a través de la Comisión, consultará a los investigadores, productores, distribuidores y demás sectores involucrados, sobre los criterios para la producción y el consumo sustentable de productos plásticos, tales como bolsas, envases, embalajes y materiales para empaques, los cuales deberán atender a las características específicas requeridas para cada producto, vigilando que sus cualidades sean biodegradables, para su autorización al mercado.
 
 ### CAPÍTULO V. DE LA POLÍTICA DE RESIDUOS SÓLIDOS
 
@@ -1013,47 +1031,59 @@ A efectos de la presente ley constituyen infracciones, las siguientes actividade
 
 I. Arrojar o abandonar Residuos sólidos, en la vía pública, predios baldíos, barrancas, cañadas, ductos de drenaje alcantarillado, cableado eléctrico o telefónico, áreas comunes, parques, y en general en sitios no autorizados;
 
-II. Depositar en los recipientes de almacenamiento de uso público o privado, animales muertos o parte de ellos;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-III. Quemar a cielo abierto, residuos de cualquier origen;
+II. No separar los residuos sólidos para su manejo conforme a las disposiciones que esta ley y otros ordenamientos establecen;
 
-IV. Abrir, operar y autorizar tiraderos a cielo abierto;
+III. Depositar en los recipientes de almacenamiento de uso público o privado, animales muertos o parte de ellos;
 
-V. Verter en cuerpos de aguas, sistemas de drenaje, alcantarillado o en fuentes públicas, cualquier tipo de residuos;
+IV. Quemar a cielo abierto, residuos de cualquier origen;
 
-VI. El depósito o confinamiento de residuos sólidos en áreas verdes, áreas de valor ambiental, áreas naturales protegidas;
+V. Abrir, operar y autorizar tiraderos a cielo abierto;
 
-VII. La mezcla, dilución o vertimiento de Residuos sólidos al sistema de alcantarillado, cuerpos de agua superficiales;
+VI. Verter en cuerpos de aguas, sistemas de drenaje, alcantarillado o en fuentes públicas, cualquier tipo de residuos;
 
-VIII. La mezcla de residuos sólidos urbanos y de manejo especial con residuos peligrosos;
+VII. El depósito o confinamiento de residuos sólidos en áreas verdes, áreas de valor ambiental, áreas naturales protegidas;
 
-IX. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales del Estado de Morelos;
+VIII. La mezcla, dilución o vertimiento de Residuos sólidos al sistema de alcantarillado, cuerpos de agua superficiales;
 
-X. No presentar los documentos, informes o avisos en tiempo y forma ante las autoridades correspondientes, de conformidad con lo dispuesto en la presente Ley;
+IX. La mezcla de residuos sólidos urbanos y de manejo especial con residuos peligrosos;
 
-XI. Realizar actividades de manejo integral de residuos, sin contar con las autorizaciones correspondientes, o con ella caduca o suspendida;
+X. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales del Estado de Morelos;
 
-XII. Importar o exportar residuos sin contar con la autorización correspondiente;
+XI. No presentar los documentos, informes o avisos en tiempo y forma ante las autoridades correspondientes, de conformidad con lo dispuesto en la presente Ley;
 
-XIII. Obstaculizar a la autoridad correspondiente en la realización de las funciones de inspección y vigilancia;
+XII. Realizar actividades de manejo integral de residuos, sin contar con las autorizaciones correspondientes, o con ella caduca o suspendida;
 
-XIV. Todo acto u omisión que contribuya a la contaminación ambiental, que afecten la salud o bienestar de los organismos biológicos;
+XIII. Importar o exportar residuos sin contar con la autorización correspondiente;
 
-XV. Los propietarios o encargados de establos, caballerizas o cualquier otro local o sitio destinado al alojamiento de animales que incumplan con el transporte diario del estiércol; y
+XIV. Obstaculizar a la autoridad correspondiente en la realización de las funciones de inspección y vigilancia;
 
-XVI. Aquellos propietarios de animales domésticos que omita la recolección y limpia de las heces fecales de sus animales, en las vías públicas y áreas comunes y depositarlos en los recipientes o contenedores específicos.
+XV. Todo acto u omisión que contribuya a la contaminación ambiental, que afecten la salud o bienestar de los organismos biológicos;
+
+XVI. Los propietarios o encargados de establos, caballerizas o cualquier otro local o sitio destinado al alojamiento de animales que incumplan con el transporte diario del estiércol; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XVII. Aquellos propietarios de animales domésticos que omita (sic) la recolección y limpia de las heces fecales de sus animales, en las vías públicas y áreas comunes y depositarlos en los recipientes o contenedores específicos;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XVIII. Aquellos establecimientos mercantiles, así como los comerciantes ambulantes, que otorguen bolsas de plástico que no estén sujetas a las bases de producción y consumo sustentable.
 
 ###### ARTÍCULO 98.
 
 Las sanciones por la comisión de las infracciones señaladas en el Artículo anterior serán las siguientes:
 
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
 I. Multa que se determinará en los casos y montos siguientes:
 
-a) Con el equivalente de 5 a 99 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XIV, XVI;
+a) Con el equivalente de 5 a 99 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII;
 
-b) Con el equivalente de 100 A 1000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II, V, VI, VIII, XI, XII, XIII;
+b) Con el equivalente de 100 A 1000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: III, VI, VII, IX, XII, XIII, XIV;
 
-c) Con el equivalente de 5,000 a 25,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en la fracciones III, IV, VII, IX, XV;
+c) Con el equivalente de 5,000 a 25,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en el supuesto previsto en la (sic) fracciones IV, V, VIII, X, XVI, XVIII;
 
 I (sic). Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de las instalaciones, la cancelación temporal o definitiva, parcial o total de las autorizaciones otorgadas, o de las actividades de que se trate, y
 
@@ -1334,3 +1364,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE ABRIL DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor una vez que la Comisión Estatal de Agua y Medio Ambiente, haya realizado las modificaciones a que se refiere el Artículo Tercero Transitorio del presente Decreto.
+
+SEGUNDO. Aprobado que sea el presente decreto, túrnese al Titular del Poder Ejecutivo para los efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", Órgano Oficial del Gobierno del Estado Libre y Soberano de Morelos, así como en la Gaceta Legislativa del Congreso del Estado.
+
+TERCERO. La Comisión Estatal de Agua y Medio Ambiente, contará con un plazo de tres meses contados a partir de la entrada en vigor del presente Decreto, a efecto de establecer en su Reglamento estándares tecnológicos que se deben reunir para considerar que las bolsas de plástico son consideradas como biodegradables con la participación de la comunidad científica, tecnológica académica el sector productivo, asociaciones civiles y organismos representativos.
+
+CUARTO. La (sic) Ejecutivo del Estado a través de la Comisión Estatal de Agua y Medio Ambiente deberá implementar una campaña permanente para dar a conocer a la ciudadanía en general, los derechos y obligaciones que se derivan por la entrada en vigor del presente decreto. Para tal fin, se deberá prever en el Presupuesto de Egresos una partida suficiente para poder llevar a cabo acciones de promoción y publicidad en medios electrónicos e impresos.
