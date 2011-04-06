@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2009-09-30"
+last_updated: "2011-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -211,7 +211,11 @@ XI.- El contrato colectivo de trabajo vigente con el Sindicato de Burócratas;
 
 XII.- La relación analítica mensual de pagos hechos a contratistas, proveedores, prestadores de servicios por honorarios pagados a profesionistas, gastos en comunicación social, representaciones, asesorías y en general todas las erogaciones que por cualquier concepto se realicen, que incluya el número de control, nombre, razón o denominación social, breve descripción del gasto y monto pagado incluyendo el Impuesto al Valor Agregado;
 
-XIII.- Respecto de los contratos o convenios celebrados por el sujeto obligado, un listado que relacione el número de contrato, su fecha de celebración, el nombre o razón social del contratante o proveedor y, en su caso, el monto del valor total de la contratación;
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+XIII.- Respecto de los contratos o convenios celebrados por el sujeto obligado, un listado que relacione el número de contrato, su fecha de celebración, el nombre o razón social del contratante o proveedor y, en su caso, el monto del valor total de la contratación.
+
+También deberán publicarse las convocatorias y bases para la adjudicación de proyectos de asociaciones público privadas, las modificaciones que se lleven a cabo y el fallo final, debiendo publicar al menos, de cada proyecto, el número de registro, el nombre de la Contratante, el nombre del Desarrollador, la descripción general del proyecto, la fecha de contratación y el importe de los compromisos de pago o aportación de recursos estatales por cada año de vigencia del contrato, señalando, en su caso, el importe comprendido en la partida presupuestal de pago preferente;
 
 XIV.- Respecto de las concesiones, licencias, permisos y autorizaciones se deberá publicar su objeto, el nombre o razón social del titular, el tipo de licencia, permiso, concesión o autorización, así como si el procedimiento involucra el aprovechamiento de bienes, servicios o recursos públicos;
 
@@ -1786,3 +1790,7 @@ ALFREDO GERARDO GARZA DE LA GARZA
 P.O. 30 DE SEPTIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ABRIL DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
