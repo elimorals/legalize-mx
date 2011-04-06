@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-46757"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-26"
-last_updated: "2010-10-15"
+last_updated: "2011-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION, PUBLICADO EN EL P.O. DE 6 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de octubre de 2005.
 
@@ -1336,3 +1338,13 @@ TERCERO. Cuando en una ley, reglamento o disposición jurídica se haga mención
 CUARTO. Se derogan las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
 
 QUINTO. En un plazo que no deberá exceder de 90 días deberán actualizarse o emitirse, según corresponda, los correspondientes manuales de organización o de políticas y procedimientos.
+
+P.O. 6 DE ABRIL DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Planeación publicado en el Periódico Oficial de "Tierra y Libertad", número 4420, del veintiséis de octubre de dos mil cinco.
+
+TERCERO. Se derogan todas aquellas disposiciones reglamentarias o administrativas que se opongan a lo establecido por el presente Reglamento.
+
+CUARTO. La Secretaría de Finanzas y Planeación deberá emitir o actualizar sus manuales de organización y de políticas y procedimientos, en un plazo no mayor a 90 días hábiles; y en tanto se realiza dicha modificación seguirán vigentes los actuales.
