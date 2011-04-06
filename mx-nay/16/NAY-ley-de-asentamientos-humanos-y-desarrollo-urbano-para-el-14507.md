@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2007-09-01"
+last_updated: "2011-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -61,9 +61,11 @@ VI. Establecer las condiciones necesarias para implementar las medidas adecuadas
 
 VII. Establecer las normas generales a las cuales se sujetará la regularización de la tenencia de la tierra urbana;
 
-VIII- Preservar el equilibrio ecológico urbano de conformidad a lo previsto por la Ley y demás disposiciones jurídicas sobre la materia;
+VIII. Preservar el equilibrio ecológico urbano de conformidad a lo previsto por la Ley y demás disposiciones jurídicas sobre la materia;
 
-IX. Disponer los instrumentos y apoyos, así como las bases para expedir y ejecutar el Programa Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+IX. Establecer las normas generales en materia de vivienda, en complemento a lo establecido en la Ley de Vivienda para el Estado de Nayarit.
 
 X. Promover los sistemas de financiamiento urbano;
 
@@ -79,9 +81,11 @@ XV. Establecer las medidas de seguridad, infracciones y sanciones administrativa
 
 XVI. Determinar las bases para la participación social en materia de asentamientos humanos:
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 2o.
 
-La planeación, ordenación y regulación de los asentamientos humanos, tenderá a mejorar la calidad de la vida de los habitantes de la Entidad a través de:
+La planeación, ordenación y regulación de los asentamientos humanos, impulsará el mejoramiento de la calidad de vida de los habitantes de la Entidad a través de:
 
 I. El aprovechamiento en beneficio social de los elementos naturales susceptibles de apropiación, sin menoscabo del equilibrio ecológico y la calidad del ambiente;
 
@@ -89,7 +93,9 @@ II. La adecuada distribución en el territorio estatal de la población y sus ac
 
 III. La vinculación armónica entre la ciudad y el campo, que a la vez de satisfacer el crecimiento urbano, proteja las actividades forestales y agropecuarias asegure el trabajo y mejore las condiciones de vida de la población rural, distribuyendo equitativamente los beneficios y cargas del proceso del desarrollo urbano;
 
-IV. La descongestión de los centros de población y el fomento de las ciudades medias, para integrar un sistema urbano eficiente;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+IV. El impulso de desarrollos habitacionales sustentables, que utilicen nuevas tecnologías para la preservación del ambiente, el mejor aprovechamiento de espacios urbanos mediante la redensificación de las ciudades y el impulso a desarrollos verticales;
 
 V. El ordenamiento urbano de la capital del Estado, cabeceras municipales y de los demás centros de población de la Entidad;
 
@@ -105,15 +111,23 @@ X. La prohibición de establecer asentamientos irregulares y fraccionamientos o 
 
 XI. El asentamiento de las personas y de la infraestructura en zonas que no representen riesgos ante fenómenos naturales o químicos, por medio de la regulación del uso del suelo en las ciudades;
 
-XII. La promoción y aplicación de créditos y financiamientos para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XIII. La regulación del mercado del suelo, especialmente del destinado a la vivienda popular, de interés social y vivienda progresiva de interés social, así como la promoción del turismo y zonas para la industria mediante la integración de reservas territoriales;
+XII. La promoción y otorgamiento de créditos y financiamientos para el desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XIII. La regulación del mercado del suelo especialmente el destinado a la vivienda progresiva y de interés social, así como la promoción del turismo y zonas para la industria mediante la integración de reservas territoriales;
 
 XIV. La protección del patrimonio natural, cultural, histórico e imagen urbana de las poblaciones de la Entidad;
 
-XV. El mantenimiento de los centros de población dentro de dimensiones apropiadas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XVI. El control del crecimiento de los centros de población, a fin de evitar la especulación y la expansión física en terrenos no aptos o no autorizados para el desarrollo urbano; y
+XV. El mantenimiento de los centros de población dentro de dimensiones apropiadas en los Municipios del Estado de conformidad a sus planes de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XVI. La redensificación de los centros de población que permita el control de su crecimiento, a fin de evitar la especulación y la expansión física en terrenos no aptos o no autorizados para el desarrollo urbano, y
 
 XVII. Una mayor participación social en la solución de los problemas que genera la relación y estado de convivencia, así como en la planeación urbana, ejecución y vigilancia de su cumplimiento;
 
@@ -129,7 +143,9 @@ III. La constitución de reservas territoriales para el desarrollo urbano y la v
 
 IV. La regularización de la tenencia de la tierra en los centros de población;
 
-V. La edificación o mejoramiento de la vivienda popular, de interés social y de la vivienda progresiva de interés social;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+V. La edificación o mejoramiento de la vivienda progresiva y de interés social;
 
 VI. La ejecución de obras de infraestructura, equipamiento y servicios urbanos;
 
@@ -189,7 +205,9 @@ XV. Fusión.- La unión de un solo predio de dos o más predios colindantes;
 
 XVI. Infraestructura urbana.- Las redes y sistemas de organización y distribución de bienes y servicios en los centros de población;
 
-XVII. Instituto.- El Instituto Promotor de Vivienda, Desarrollo Urbano y Ecología;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XVII. Instituto.- El Instituto Promotor de la Vivienda de Nayarit;
 
 XVIII. Mejoramiento.- La acción tendiente a reordenar o renovar las zonas deterioradas física o funcionalmente o de incipiente desarrollo de un centro de población;
 
@@ -201,23 +219,29 @@ XXI. Provisiones.- Las áreas que serán utilizadas para la fundación de un cen
 
 XXII. Plan de desarrollo urbano.- El conjunto de normas y disposiciones que regulan el desarrollo urbano;
 
-XXIII. Reservas.- Las áreas de un centro de población que serán utilizadas para su crecimiento;
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XXIV. Reservas territoriales.- Las áreas de un centro de población que serán para su futuro crecimiento, incorporadas al dominio privado, de la federación, el estado o los municipios;
+XXIII. Redensificación.- Proceso para incrementar la población de un área o zona en función de variables, tales como la dotación de infraestructura y equipamiento, que se incorpora como parte de la planeación urbana y surge de programas de desarrollo, según los usos establecidos en los programas para alcanzar condiciones de mejoramiento para la población y mejor uso de los servicios públicos;
 
-XXV. Relotificación.- El cambio en la distribución o dimensiones de los lotes de un predio, cuyas características hayan sido autorizadas con anterioridad;
+XXIV. Reservas.- Las áreas de un centro de población destinadas para su crecimiento;
 
-XXVI. Riesgo urbano.- La suma de una situación de peligro o desastres combinada con la vulnerabilidad a la que pueda estar sujeta un centro de población;
+XXV. Reservas territoriales.- Las áreas de un centro de población que serán para su futuro crecimiento, incorporadas al dominio privado, de la federación, el estado o los municipios;
 
-XXVII. Secretaría.- La Secretaría de Obras y Servicios Públicos;
+XXVI. Relotificación.- El cambio en la distribución o dimensiones de los lotes de un predio, cuyas características hayan sido autorizadas con anterioridad;
 
-XXVIII. Servicios urbanos.- Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades de tipo colectivo en los centros de población;
+XXVII. Riesgo urbano.- La suma de una situación de peligro o desastres combinada con la vulnerabilidad a la que pueda estar sujeta un centro de población;
 
-XXIX. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XXX. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
+XXVIII. Secretaría.- La Secretaría de Obras Públicas del Gobierno del Estado;
 
-XXXI. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+XXIX. Servicios urbanos.- Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades de tipo colectivo en los centros de población;
+
+XXX. Urbanización.- El proceso técnico para lograr a través de acciones materiales ordenadas, la adecuación de los espacios que la población y sus comunidades requieren para su asentamiento.
+
+XXXI. Usos.- Los fines particulares a que podrán dedicarse determinadas zonas, áreas, o predios de un centro de población, y
+
+XXXII. Zonificación.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ###### ARTÍCULO 5o.
 
@@ -287,7 +311,9 @@ Los notarios y demás fedatarios públicos sólo podrán autorizar escrituras de
 
 Son autoridades competentes para la aplicación y vigilancia de esta Ley:
 
-I. El Gobernador del Estado, por sí mismo o a través de la Secretaría de Obras y Servicios Públicos y del Instituto Promotor de la Vivienda, Desarrollo Urbano y Ecología en el ámbito de sus respectivas competencias; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+I. El Gobernador del Estado, por sí mismo o a través de la Secretaría y del Instituto en el ámbito de sus respectivas competencias; y
 
 II. Los Ayuntamientos y las autoridades ejecutoras que de ellos dependen.
 
@@ -307,9 +333,11 @@ IV. El Consejo Estatal de Protección Civil.
 
 Las dependencias y entidades de la administración pública estatal y municipal ejercerán sus atribuciones relativas al desarrollo urbano y la vivienda, de manera congruente con los objetivos y prioridades de los planes y programas nacional, estatal y municipales de desarrollo urbano y de vivienda, así como de los que de estos se deriven.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-La coordinación y concertación que en materia de ordenamiento territorial y desarrollo urbano, vivienda, infraestructura vial, patrimonio natural, urbano y arquitectónico se deriven por parte del Gobierno del Estado y los Municipios con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección al ambiente, tenencia y regulación del uso del suelo, aprovechamiento de aguas y patrimonio cultural.
+La coordinación y concertación que en materia de ordenamiento territorial y desarrollo urbano, infraestructura vial, patrimonio natural, urbano y arquitectónico se deriven por parte del Gobierno del Estado y los Municipios con las autoridades federales, se sujetará a las disposiciones previstas en esta Ley, la Ley General de Asentamientos Humanos y demás ordenamientos federales y estatales en materia de planeación, equilibrio ecológico y protección al ambiente, tenencia y regulación del uso del suelo, aprovechamiento de aguas y patrimonio cultural.
 
 ###### ARTÍCULO 14.
 
@@ -355,9 +383,11 @@ XIX. Coadyuvar con los municipios a fin de establecer los mecanismos necesarios 
 
 XX. Aplicar y hacer cumplir en el territorio de la Entidad el presente ordenamiento y las demás disposiciones que regulen la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
-Son de la competencia de la Secretaría de Obras y Servicios Públicos, además de las atribuciones que en materia de desarrollo urbano y ordenamiento territorial le asigna la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
+Son de la competencia de la Secretaría además de las atribuciones que en materia de desarrollo urbano y ordenamiento territorial le asigna la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
 
 I. Coordinar la elaboración, ejecución, control, modificación, actualización y evaluación del Plan Estatal de Desarrollo Urbano y los demás que de éstos se deriven;
 
@@ -391,49 +421,25 @@ XV. Vigilar el cumplimiento y aplicar las disposiciones legales en materia de as
 
 XVI. Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece esta Ley y que sean de su competencia.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 16.
 
-Corresponde al Instituto Promotor de Vivienda, Desarrollo Urbano y Ecología, el ejercicio de las atribuciones siguientes:
+Además de las atribuciones que le otorga la Ley de Vivienda para el Estado de Nayarit, corresponde al Instituto el ejercicio de las siguientes funciones:
 
-I. Formular, aprobar, administrar y evaluar el plan estatal de vivienda, así como los programas operativos anuales;
+I. En coordinación con la Secretaría, participar en la elaboración, ejecución, control, modificación, actualización y evaluación del Plan Estatal de Desarrollo Urbano;
 
-II. En coordinación con la Secretaría, participar en la elaboración, ejecución, control, modificación, actualización y evaluación del Plan Estatal de Desarrollo Urbano;
+II. Promover y gestionar mecanismos de apoyo de financiamiento ante las instituciones de crédito y los sectores social y privado para el desarrollo urbano y financiar acciones y programas para la construcción de fraccionamientos habitacionales de interés social y de interés social progresivo;
 
-III. Promover, gestionar, concertar, ejecutar y apoyar mecanismos de financiamiento ante las instituciones de crédito y los sectores social y privado para el desarrollo urbano y financiar acciones y programas para la construcción de vivienda, vivienda progresiva, fraccionamientos populares y unidades y centros habitacionales de interés social;
+III. Constituir en coordinación con los Ayuntamientos, las reservas territoriales de la Entidad, y ejercer el derecho preferente del Estado para adquirir inmuebles en áreas urbanas y de reserva territorial para la ejecución de programas de vivienda progresiva y de interés social;
 
-IV. Formular las normas de diseño arquitectónico y tecnología para la construcción de vivienda de interés social y popular, a fin de propiciar la calidad y seguridad de las construcciones;
+IV. Recibir y gestionar ante las autoridades competentes las acciones judiciales o administrativas que procedan en contra de aquellas personas que por si o por interpósita persona, causen perjuicio al fraccionar, transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno, vivienda, casa o local de un condominio o fraccionamiento, con o sin construcciones, edificios catalogados y/o declarados monumentos, sin contar con la previa autorización de las autoridades competentes. Asimismo, quienes induzcan y propicien la ocupación irregular de áreas y predios en los centros de población se harán acreedores a las sanciones establecidas en la materia en el Código Penal de la Entidad;
 
-V. Constituir en coordinación con los Ayuntamientos, las reservas territoriales de la Entidad, y ejercer el derecho preferente del Estado para adquirir inmuebles en áreas urbanas y de reserva territorial para la ejecución de programas de vivienda social, vivienda popular, vivienda progresiva y unidades y centros habitacionales de interés social;
+V. Promover en coordinación con la Secretaría y los Ayuntamientos la participación de los sectores social y privado del Estado en la formulación, ejecución, evaluación, actualización y modificación de los planes de desarrollo urbano;
 
-VI. Fomentar la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario, para la producción y mejoramiento de viviendas de interés social y popular;
+VI. Supervisar, dentro del área de su competencia el cumplimiento de esta Ley y aplicar las de medidas de seguridad y sanciones a los infractores dentro de ese mismo ámbito; y
 
-VII. Promover y colaborar en los procesos de regularización de la tenencia de la tierra urbana con la participación de los Ayuntamientos y las autoridades y dependencias competentes;
-
-VIII. Formular prototipos de vivienda y de componentes normalizados de construcción que permitan reducir el costo de la vivienda de interés social y popular;
-
-IX. Coordinar la satisfacción de necesidades de vivienda, en caso de siniestros que afecten centros de población en el Estado, cuando así lo disponga el Gobernador;
-
-X. Celebrar todo tipo de actos, convenios y contratos necesarios para el eficaz cumplimiento de sus fines;
-
-XI. Recibir y gestionar ante las autoridades competentes las acciones judiciales o administrativas que procedan en contra de aquellas personas que por si o por interpósita persona, causen perjuicio al fraccionar, transferir o prometer transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno, vivienda, casa o local de un condominio o fraccionamiento, con o sin construcciones, edificios catalogados y/o declarados monumentos, sin contar con la previa autorización de las autoridades competentes. Asimismo, quienes induzcan y propicien la ocupación irregular de áreas y predios en los centros de población se harán acreedores a las sanciones establecidas en la materia en el Código Penal de la Entidad;
-
-XII. Promover en coordinación con la Secretaría la participación de los sectores social y privado del Estado en la formulación, ejecución, evaluación, actualización y modificación de los planes de desarrollo urbano;
-
-XIII. Formular y conducir la política estatal en materia de ecología, saneamiento ambiental, agua y regulación ambiental del desarrollo urbano, con la participación que corresponda a otras dependencias y entidades estatales, federales o municipales;
-
-XIV. Fomentar en el Estado la protección, restauración y conservación de los ecosistemas y recursos naturales, bienes y servicios ambientales, a efecto de favorecer su buen aprovechamiento y fincar un desarrollo sustentable;
-
-XV. Proponer al Gobernador del Estado, el establecimiento de áreas naturales protegidas y promover para su administración y vigilancia, la participación de las autoridades municipales, centros de estudios superiores de la Entidad, centros de investigación y particulares;
-
-XVI. Evaluar y dictaminar las manifestaciones de impacto ambiental de proyectos de desarrollo que le presenten los sectores público, social y privado; resolver sobre los estudios de riesgo ambiental, así como sobre los programas para la prevención de accidentes con incidencia ecológica;
-
-XVII. En coordinación con las autoridades federales y municipales, vigilar y estimular el cumplimiento de las leyes, normas oficiales y programas relacionados con el aprovechamiento sustentable de los recursos naturales, preservación y restauración de la calidad del medio ambiente, descargas de aguas residuales y manejo de materiales y residuos sólidos peligrosos;
-
-XVIII. Supervisar en coordinación con los Ayuntamientos correspondientes, la elaboración y ejecución de los programas de vivienda social, popular y progresiva que se realicen dentro de su jurisdicción;
-
-XIX. Supervisar, dentro del área de su competencia el cumplimiento de esta Ley y aplicar las de medidas de seguridad y sanciones a los infractores dentro de ese mismo ámbito; y
-
-XX. Las demás que le reserve esta Ley, el decreto de su creación o le encomiende el Gobernador del Estado.
+VII. Las demás que le reserve esta Ley o le encomiende el Gobernador del Estado.
 
 ###### ARTÍCULO 17.
 
@@ -483,9 +489,13 @@ XXI. Impedir en coordinación con las autoridades competentes del Estado, el est
 
 XXII. Promover o ejecutar en coordinación con el Gobierno del Estado, fraccionamientos populares, de interés social y social progresivo, así como condominios de orden público;
 
-XXIII. Corresponde originariamente a los Municipios la autorización de fraccionamientos y condominios dentro de su jurisdicción y de acuerdo con los convenios que suscriban con la Secretaría de Obras y Servicios Públicos del Gobierno del Estado, como instancia técnica que avale el desarrollo de fraccionamientos;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XXIV. Determinar las áreas y predios que conforme a esta Ley deberán donar al Municipio los fraccionadores y promoventes de condominios;
+XXIII. La autorización de fraccionamientos y condominios dentro de su jurisdicción de acuerdo con los convenios que suscriban con la Secretaría, como instancia técnica que emita el dictamen para el desarrollo de fraccionamientos;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XXIV. Determinar las áreas y predios que conforme a esta Ley, sin excepción alguna, deberán donar al Municipio los promoventes de fraccionamientos, independientemente al régimen de propiedad que adopten;
 
 XXV. Acordar la recepción de obras de urbanización;
 
@@ -507,57 +517,63 @@ Los Ayuntamientos ejercerán sus atribuciones a través de la Dirección Municip
 
 ###### ARTÍCULO 19.
 
-La Comisión Estatal de Desarrollo Urbano es el órgano de participación social, asesoría y consulta del Ejecutivo del Estado, para impulsar el desarrollo urbano y la vivienda en la Entidad, el cual funcionará de manera permanente en la ciudad de Tepic y la integrarán :
+La Comisión Estatal de Desarrollo Urbano es el órgano de participación social, asesoría y consulta del Ejecutivo del Estado, para impulsar el desarrollo urbano y la vivienda en la Entidad, el cual funcionará de manera permanente en la ciudad de Tepic y la integrarán:
 
 I. El Gobernador del Estado, quien fungirá como su Presidente;
 
-II. El Secretario de Obras y Servicios Públicos, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-III. El Secretario de Planeación y Desarrollo del Gobierno del Estado;
+II. El Secretario de Obras Públicas, quien será el Secretario Técnico;
 
-IV. El Secretario de Finanzas de la Entidad;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-V. El Director del Instituto;
+III. El Secretario de Planeación, Programación y Presupuesto del Gobierno del Estado;
 
-VI. El Director General de la Comisión Estatal de Agua Potable y Alcantarillado;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-VII. Dos Diputados del H. Congreso del Estado;
+IV. El Secretario de Administración del Gobierno del Estado;
 
-VIII. Los Presidentes Municipales, cuando se analicen asuntos de sus municipios;
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-IX. Un representante de las dependencias y entidades de la administración pública federal siguientes:
+V. El Secretario de Desarrollo Social del Gobierno del Estado;
 
-a) Secretaría de Desarrollo Social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ABRIL DE 2011)</small>
 
-b) Secretaría de Comunicaciones y Transportes;
+VI. El Secretario de Medio Ambiente del Gobierno del Estado;
 
-c) Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-d) Secretaría de Salud;
+VII. El Director del Instituto;
 
-e) Comisión para la Regularización de la Tenencia de la Tierra;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-f) Registro Agrario Nacional;
+VIII. El Director General de la Comisión Estatal del Agua;
 
-g) Comisión Nacional del Agua;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-h) Comisión Federal de Electricidad;
+IX. Un Diputado del H. Congreso del Estado integrante de la Comisión Legislativa competente en materia de desarrollo urbano;
 
-i) Banco Nacional de Obras y Servicios Públicos; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-j) Instituto Nacional de Antropología e Historia.
+X. Los Presidentes Municipales, cuando se analicen asuntos de sus municipios;
 
-X. Un representante de las instituciones, asociaciones, colegios y organismos representativos siguientes:
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XI. Un representante de las dependencias y entidades de la administración pública federal cuando el asunto a tratar amerite su participación;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XII. Un representante de las instituciones, asociaciones, colegios y organismos siguientes:
 
 a) Universidad Autónoma de Nayarit;
 
 b) Instituto Tecnológico de Tepic;
 
-c) Centro Coordinador Empresarial;
+c) Consejo Empresarial de Nayarit;
 
-d) Cámara Nacional de Comercio;
+d) Cámara Nacional de Comercio, Servicios y Turismo;
 
-e) Cámara Nacional de la Industria de la Construcción;
+e) Cámara Mexicana de la Industria de la Construcción;
 
 f) Clubes Sociales y de Servicio;
 
@@ -573,15 +589,19 @@ k) Colegio de Notarios;
 
 l) Colegio de Abogados;
 
-m) Asociación de Periodistas o Comunicadores Sociales; y
+m) Asociación de Periodistas o Comunicadores Sociales;
 
-n) Instituto Catastral y Registral del Estado de Nayarit;
+n) Dirección General de Catastro del Estado de Nayarit, y
 
-XI. Las demás que, a juicio del Gobernador del Estado, deban integrarse a la misma.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XIII. Las demás que, a juicio del Gobernador del Estado, deban integrarse a la misma.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-Por cada comisionado o representante propietario se designará un suplente que lo substituya en sus faltas temporales, y en todo caso, será el Secretario Técnico quien supla las faltas del Presidente.
+Por cada comisionado o representante propietario deberá designarse por escrito con carácter permanente un suplente para que lo substituya en sus faltas temporales; las faltas del Presidente serán suplidas por el Secretario Técnico.
 
 ###### ARTÍCULO 21.
 
@@ -601,7 +621,7 @@ VI. Opinar sobre los proyectos de infraestructura urbana de importancia estatal 
 
 VII. Evaluar los diversos planes de desarrollo urbano y vivienda y emitir las recomendaciones que procedan;
 
-VIII. Promover la obtención de recursos financieros para aplicarse en la realización de acciones de vivienda en el Estado;
+VIII. (DEROGADA, P.O. 6 DE ABRIL DE 2011)
 
 IX. Instruir lo necesario para inventariar y clasificar las áreas o predios aptos para constituirse en reservas territoriales, de conformidad a los usos y destinos señalados en los planes de desarrollo urbano;
 
@@ -863,7 +883,9 @@ VIII. La estructura urbana, infraestructura, condiciones geofísicas y ambiental
 
 IX. La información sobre los servicios básicos y actividades económicas de los centros de población;
 
-X. Las necesidades generales de la población en cuanto a tierra y vivienda;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+X. Las necesidades generales de la población en cuanto a suelo y vivienda;
 
 XI. Los criterios de definición y constitución de reservas territoriales;
 
@@ -975,7 +997,9 @@ f) Las obras mínimas de edificación para equipamiento urbano en las áreas de 
 
 g) En su caso, la propuesta de permuta de las áreas de donación, conforme a las disposiciones que se indican en el artículo 195 Bis de esta Ley;
 
-h) Las normas de configuración urbana e imagen visual; y
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+h) Las normas de diseño urbano, y
 
 i) Las demás normas específicas de carácter general o regional que se consideren necesarias;
 
@@ -993,9 +1017,7 @@ XII. Los demás requisitos que establezcan las dependencias normativas.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 42 Bis.
-
-Los Planes Parciales de Urbanización, son los instrumentos ejecutivos para la realización de acciones de urbanización, cuya elaboración corresponde a los particulares, en los casos previstos por esta Ley.
+ARTÍCULO 42 BIS.- Los Planes Parciales de Urbanización, son los instrumentos ejecutivos para la realización de acciones de urbanización, cuya elaboración corresponde a los particulares, en los casos previstos por esta Ley.
 
 Será obligatorio formular un Plan Parcial de Urbanización cuando implique:
 
@@ -1011,9 +1033,7 @@ V. Determinar obligaciones específicas a cargo de los propietarios de predios y
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 42 Ter.
-
-Los Planes mencionados en el artículo anterior se formularán y administrarán conforme a las siguientes disposiciones:
+ARTÍCULO 42 TER.- Los Planes mencionados en el artículo anterior se formularán y administrarán conforme a las siguientes disposiciones:
 
 I.- Determinarán la zonificación secundaria ó específica, señalando los usos, destinos y reservas en los predios donde se proponga realizar;
 
@@ -1033,9 +1053,7 @@ VIII.- En su caso, determinarán los predios que resultarán beneficiados o afec
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 42 Quater.
-
-Los Planes Parciales de Urbanización, además de los elementos básicos que señala el artículo 37 de esta Ley, contendrán como mínimo lo siguiente:
+ARTÍCULO 42 QUATER.- Los Planes Parciales de Urbanización, además de los elementos básicos que señala el artículo 37 de esta Ley, contendrán como mínimo lo siguiente:
 
 I.- El enunciado del Plan y datos generales del proyecto;
 
@@ -1067,7 +1085,9 @@ f) Las obras mínimas de edificación para equipamiento urbano en las áreas de 
 
 g) En su caso, la propuesta de permuta de las áreas de donación, conforme a las disposiciones que se indican en el artículo 195 Bis de esta Ley;
 
-h) Las normas de configuración urbana e imagen visual; y
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+h) Las normas de diseño urbano, y
 
 i) Otras normas específicas de carácter general o regional que se consideren necesarias;
 
@@ -1307,7 +1327,9 @@ Las comisiones de conurbación intraestatales se integrarán por:
 
 I. Un Presidente, que será el Gobernador del Estado o la persona que éste designe;
 
-II. Un Secretario Técnico, que será el Secretario de Obras y Servicios Públicos del Estado;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+II. Un Secretario Técnico, que será el Secretario de Obras Públicas del Gobierno Estado;
 
 III. Los Presidentes Municipales de los Ayuntamientos, en donde se localice la zona conurbada;
 
@@ -1807,9 +1829,11 @@ VII. Promover la asociación o cualquier otra forma de participación que determ
 
 VIII. Determinar las medidas que propicien el aprovechamiento de áreas y predios baldíos que cuenten con infraestructura, equipamiento y servicios urbanos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 121.
 
-Con base en el Plan Estatal de Desarrollo Urbano, el Programa Estatal de Vivienda y los Planes Municipales de Desarrollo Urbano, el Gobierno del Estado y los Ayuntamientos, por conducto de las entidades y dependencias competentes, formularán sus programas de requerimientos inmobiliarios para el desarrollo urbano y la vivienda, señalando los predios o lugares, extensiones de tierra necesarios para la realización de sus programas, tipos de acciones, costos y medios de financiamiento y el número aproximado de beneficiarios.
+Con base en el Plan Estatal de Desarrollo Urbano, el Programa Estatal de Vivienda y los Planes Municipales de Desarrollo Urbano, el Gobierno del Estado y los Ayuntamientos, por conducto de las entidades y dependencias competentes, formularán sus programas de requerimientos inmobiliarios para el desarrollo urbano y la vivienda, señalando los predios o lugares, extensiones de suelo necesarios para la realización de sus programas, tipos de acciones, costos y medios de financiamiento y el número aproximado de beneficiarios.
 
 ###### ARTÍCULO 122.
 
@@ -1857,9 +1881,11 @@ IV. Que el precio de los lotes o predios se determine con base en dictamen valua
 
 La enajenación de predios por parte de la administración pública estatal o municipal, atenderá preferentemente a las necesidades de suelo de la población de escasos recursos y bajos ingresos.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 129.
 
-Los gobiernos Federal, Estatal y Municipales otorgarán facilidades administrativas y fiscales, a efecto de agilizar y reducir el costo y los trámites de titulación de inmuebles para vivienda de interés social y popular.
+Los gobiernos Federal, Estatal y Municipales otorgarán facilidades administrativas y fiscales, a efecto de agilizar y reducir el costo y los trámites de titulación de inmuebles para vivienda progresiva y de interés social.
 
 ### CAPÍTULO II. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
@@ -1901,9 +1927,11 @@ El dictamen que se emita respecto de la posibilidad de regularización de un ase
 
 En caso de resultar negativo el dictamen de regularización, se procederá de inmediato al desalojo del asentamiento humano, independientemente de las sanciones civiles, administrativas y/o penales a que se hagan acreedores los asentados y/o promoventes de dicho asentamiento, en predios particulares, de propiedad pública, ejidal o comunal.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 138.
 
-Previa a la acción de desalojo, el Instituto o los Ayuntamientos procurarán establecer convenio de concertación con los ocupantes irregulares, a efecto de procurar su reubicación en la reserva territorial asignada para el desarrollo habitacional de interés social y popular, así como las condiciones del proceso de reubicación.
+Previa a la acción de desalojo, el Instituto o los Ayuntamientos procurarán establecer convenio de concertación con los ocupantes irregulares, a efecto de procurar su reubicación en la reserva territorial asignada para los desarrollos habitacionales progresivos y de interés social, así como las condiciones del proceso de reubicación.
 
 ###### ARTÍCULO 139.
 
@@ -1911,9 +1939,11 @@ La regularización de la tenencia de la tierra como acción de mejoramiento urba
 
 ### CAPÍTULO III. DEL DERECHO DE PREFERENCIA
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 140.
 
-El Gobierno del Estado y los Municipios, tendrán derecho preferente para adquirir predios comprendidos como zonas de reserva cuando dichos predios sean puestos a la venta, o a través de cualquier acto jurídico vayan a ser objeto de una transmisión de propiedad, en cuyo caso los propietarios, los ejidatarios, los comuneros, los notarios públicos, los jueces y las autoridades administrativas respectivas, están obligados a dar los avisos y notificar al Gobierno del Estado y los Municipios por conducto del Instituto y los Presidentes Municipales correspondientes, lo conducente al precio o monto de la operación, a efecto de que en un plazo no mayor de 30 días naturales hagan uso de su derecho de preferencia si lo consideran conveniente y propongan garantizar el pago correspondiente.
+El Gobierno del Estado y los Municipios, tendrán derecho preferente para adquirir predios comprendidos como zonas de reserva cuando dichos predios sean puestos a la venta, o a través de cualquier acto jurídico vayan a ser objeto de una transmisión de propiedad, en cuyo caso los propietarios, los ejidatarios, los comuneros, los notarios públicos, los jueces y las autoridades administrativas respectivas, están obligados a dar los avisos y notificar al Gobierno del Estado y los Municipios por conducto del Instituto y los Presidentes Municipales correspondientes, lo conducente al precio o monto de la operación, de acuerdo al avalúo realizado por el Instituto de Administración y Avalúos de Bienes Nacionales (INDAABI) o alguna institución bancaria, a efecto de que en un plazo no mayor de 30 días naturales, contados a partir del día siguiente a la recepción del avalúo, hagan uso de su derecho de preferencia si lo consideran conveniente y propongan garantizar el pago correspondiente.
 
 ###### ARTÍCULO 141.
 
@@ -1947,7 +1977,9 @@ VII. Difundir, informar y promover acciones en materia de desarrollo urbano, viv
 
 VIII. Vigilar el cumplimiento de los planes de desarrollo urbano y ordenamiento territorial.
 
-IX. Construir y mejorar la vivienda de interés social y popular.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+IX. Construir y mejorar la vivienda progresiva y de interés social.
 
 X. Canalizar inversiones en reservas territoriales
 
@@ -1981,9 +2013,11 @@ Los particulares que deseen participar en los procesos y acciones a que se refie
 
 ### CAPÍTULO I. DEL FRACCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 146.
 
-Se entiende por fraccionamiento, toda división de un terreno en manzanas y lotes, que requieran la apertura de una o más vías públicas, así como la ejecución de obras de urbanización, que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, de conformidad a la clasificación de fraccionamientos previstos en esta Ley.
+Se entiende por fraccionamiento, toda división de un terreno en manzanas y/o lotes que requieran la apertura de una o más vías públicas o privadas, o que requieran conexión directa o indirecta con vialidades previamente existentes; o bien que exista la ejecución de obras de urbanización que permitan al predio o inmueble que se pretende fraccionar, la dotación y/o utilización de infraestructura, equipamiento y servicios urbanos, de conformidad a la clasificación de fraccionamientos previstos en esta Ley.
 
 ###### ARTÍCULO 147.
 
@@ -2029,6 +2063,16 @@ El que sin contar con la autorización respectiva realice un fraccionamiento, di
 
 Iguales sanciones se impondrán a quienes sirvan de intermediarios o promotores de los mismos en terrenos ejidales, comunales o ajenos de propiedad privada sin consentimiento de su titular, a quienes se aplicará una multa de por lo menos tres veces el monto del lucro obtenido, con independencia de la responsabilidad penal que pudiere resultar.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+Artículo 150 BIS.- Los desarrollos inmobiliarios que se pretendan realizar bajo la denominación de régimen en condominio, no perderán la categoría de fraccionamiento señalada en el artículo 146 de esta Ley.
+
+Los fraccionamientos realizados bajo la modalidad de régimen en condominio, deberán resolver en forma interna los mantenimientos preventivos y correctivos a los servicios de agua potable, drenaje sanitario y pluvial, de alumbrado público y áreas verdes, y el servicio permanente y continuo de recolección de basura y vigilancia, hacia el interior de sus cotos.
+
+Los desarrollos realizados bajo la modalidad de régimen en condominio les corresponderá donar al municipio el 6% de la superficie neta del fraccionamiento, siguiendo los mecanismos que señala el artículo 195 bis de la presente Ley.
+
+En caso de que el proyecto del régimen de condominio contemple la construcción y operación de una planta de tratamiento de aguas residuales, la donación será del 4% del área neta del fraccionamiento.
+
 ### CAPÍTULO II. DE LOS FRACCIONAMIENTOS HABITACIONALES URBANOS
 
 ###### ARTÍCULO 151.
@@ -2055,7 +2099,7 @@ VII. Las banquetas serán de 1.20 metros de ancho.
 
 VIII. En el caso de que existan andadores, éstos deberán tener como mínimo un ancho de 4.00 metros y contar con un área jardinada de cuando menos el 40% de su anchura.
 
-IX .- El fraccionador deberá donar al Municipio el 15% de la superficie neta vendible del fraccionamiento, debidamente urbanizada.
+IX.- El fraccionador deberá donar al Municipio el 15% de la superficie neta vendible del fraccionamiento, debidamente urbanizada.
 
 X. El suelo donado por el fraccionador a los Ayuntamientos, sólo podrá ser destinado para zonas verdes y deportivas, así como para el equipamiento urbano destinado a servicios educativos, mercados, plazas cívicas, juegos infantiles, jardines, ventanales y demás servicios públicos.
 
@@ -2081,33 +2125,59 @@ i) Caseta de vigilancia, en caso de que se requiera.
 
 XII. El fraccionador deberá construir, con independencia de las áreas de donación que en cada caso está obligado a otorgar, las siguientes obras complementarias:
 
-Por cada 300 viviendas previstas:
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
 
-a) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales, y
+a) Por cada 300 viviendas previstas:
 
-b) Plaza cívica.
+1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
 
-Por cada 500 viviendas previstas:
+2) Plaza cívica, y
 
-a) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales.
+3) Una cancha de usos múltiples para uso público, con medidas reglamentarias.
 
-b) Plaza cívica.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
 
-c) Primaria de seis aulas y las oficinas administrativas.
+b) Por cada 500 viviendas previstas:
 
-Por cada 1,000 viviendas previstas:
+1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
 
-a) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales.
+2) Plaza cívica;
 
-b) Primaria de seis aulas y las oficinas administrativas.
+3) Primaria de seis aulas y las oficinas administrativas, y
 
-c) Plaza cívica.
+4) Una cancha de usos múltiples para uso público, con medidas reglamentarias.
 
-d) Jardines vecinales.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
 
-e) Juegos infantiles, y
+c) Por cada 1,000 viviendas previstas:
 
-f) Zona deportiva.
+1) Jardín de niños de tres aulas de acuerdo con las especificaciones oficiales;
+
+2) Primaria de seis aulas y las oficinas administrativas;
+
+3) Plaza cívica;
+
+4) Jardines vecinales;
+
+5) Juegos infantiles, y
+
+6) Zona deportiva con al menos dos canchas de usos múltiples para uso público, con medidas reglamentarias.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+En fraccionamientos donde no se alcance el número de viviendas señaladas en los incisos anteriores, las obras complementarias a construir se determinarán de manera proporcional al número de viviendas previstas.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+En fraccionamientos mayores a 1,000 viviendas, las obras complementarias a construir por cuenta del fraccionador serán determinadas en proporción directa a los requerimientos descritos en la presente fracción.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+El plazo mayor para que el fraccionador concluya la construcción y entrega de este equipamiento será cuando alcance un avance del 80% de las viviendas terminadas, debiendo determinarse esto en las licencias de urbanización y construcción.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+No se entregarán las constancias de habitabilidad de las viviendas cuando no se haya dado cabal cumplimiento a la entrega del equipamiento referido en la presente fracción.
 
 ###### ARTÍCULO 152.
 
@@ -2331,25 +2401,27 @@ En los fraccionamientos industriales, no se autorizará la construcción de vivi
 
 Los fraccionamientos industriales ajustarán su ubicación y diseño a lo previsto en las normas sanitarias, de control de la contaminación y de desarrollo urbano, así como a las demás disposiciones que regulen la operación de las actividades que en éstos se desarrollen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 167.
 
-Los fraccionamientos comerciales y de servicios deberán sujetarse a las especificaciones que en cada caso determine la Dirección Municipal de Desarrollo Urbano y Ecología, atendiendo la opinión que al respecto emita la Secretaría, debiéndose ajustarse en todo caso los Proyectos a las siguientes normas mínimas
+Los fraccionamientos comerciales y de servicios deberán sujetarse a las especificaciones que en cada caso determine la Dirección Municipal de Desarrollo Urbano y Ecología, atendiendo al dictamen que al respecto emita la Secretaría, debiéndose ajustarse en todo caso los Proyectos a las siguientes normas mínimas
 
-I. Los lotes no podrán tener un frente mínimo de 4.00 metros y una superficie no menor de 32.00 metros cuadrados.
+I. Los lotes no podrán tener un frente mínimo de 4.00 metros y una superficie no menor de 32.00 metros cuadrados;
 
-II. Las obras mínimas de urbanización deberán corresponder al tipo de fraccionamiento predominante en la zona de su ubicación.
+II. Las obras mínimas de urbanización deberán corresponder al tipo de fraccionamiento predominante en la zona de su ubicación;
 
-III. El fraccionador deberá donar al Municipio correspondiente el 5% de la superficie neta del fraccionamiento, debidamente urbanizada.
+III. El fraccionador deberá donar al Municipio correspondiente el 5% de la superficie neta del fraccionamiento, debidamente urbanizada;
 
-IV. Densidades de construcción
+IV. Densidades de construcción;
 
-V. Espacios libres y su aprovechamiento.
+V. Espacios libres y su aprovechamiento;
 
-VI. Arbolado y jardinería
+VI. Arbolado y jardinería;
 
-VII. Hidrantes contra incendios
+VII. Hidrantes contra incendios;
 
-VIII. Areas para el estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales, y
+VIII. Areas para el estacionamiento de vehículos, correspondientes a conjuntos de lotes o locales comerciales; y
 
 IX. Caseta de vigilancia.
 
@@ -2433,17 +2505,21 @@ En este caso, los interesados deberán formular la solicitud directamente ante l
 
 ### CAPÍTULO IV. DEL FRACCIONAMIENTO SOCIAL PROGRESIVO
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 174.
 
-A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobernador del Estado en acuerdo con el Ayuntamiento respectivo, en atención a la urgencia inmediata de resolver problemas de vivienda, podrá autorizar la realización de fraccionamientos sociales progresivos, con los requisitos mínimos de urbanización que éste determine.
+A efecto de ampliar las posibilidades de acceso a la vivienda a las familias de bajos ingresos o sectores de la población más desprotegidos, el Gobernador del Estado en acuerdo con el Ayuntamiento respectivo, en atención a la urgencia inmediata de resolver problemas de vivienda, podrá autorizar la realización de fraccionamientos sociales progresivos, con los requisitos mínimos de urbanización que conforme al presente capítulo se determinen.
 
 ###### ARTÍCULO 175.
 
 El fraccionamiento social progresivo sólo podrá ser promovido por el Estado, por sí o a través de sus organismos descentralizados, bajo acuerdo con el Ayuntamiento respectivo. Para ese efecto, el Ejecutivo del Estado o sus organismos descentralizados podrán convenir o asociarse con particulares, con el sector social, y con organismos públicos federales, cuya finalidad sea la construcción o financiamiento de vivienda de interés social, para la adquisición de terrenos o en cualquier otra operación necesaria para llevar a cabo el fraccionamiento social progresivo. En todos los casos el Ejecutivo del Estado a través del Instituto, tendrá la facultad de supervisar y vigilar su realización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 176.
 
-Los fraccionamientos sociales progresivos deberán sujetarse a las normas básicas siguientes:
+Los fraccionamientos sociales progresivos, además de cumplir con lo señalado en los artículos 182, 188 y 195 de esta ley, deberán sujetarse a las normas básicas siguientes:
 
 I. Solo podrán ubicarse en la (sic) áreas urbanas o urbanizables de los centros de población.
 
@@ -2456,6 +2532,10 @@ IV. El ancho de las vialidades locales será de 9.00 metros mínimo, y el de los
 V. El fraccionador deberá donar al Municipio correspondiente el 10% del área vendible, y
 
 VI. El suelo donado sólo podrá ser destinado para infraestructura, equipamiento y servicios públicos. El 30% deberá destinarse a áreas verdes, parques y jardines.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+El Ejecutivo del Estado, a través de sus dependencias y entidades en la materia, podrá apoyar en la realización de los proyectos ejecutivos de infraestructura y vialidades necesarios para la aprobación del fraccionamiento social progresivo.
 
 ###### ARTÍCULO 177.
 
@@ -2483,9 +2563,11 @@ El fraccionamiento social progresivo será acordado por el Gobernador del Estado
 
 ### CAPÍTULO V. DEL FRACCIONAMIENTO DE INTERES SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 181.
 
-El fraccionamiento de interés social sólo podrá ser promovido por el Gobierno Municipal, el Gobernador del Estado o por el Gobierno Federal, por sí o a través de sus organismos descentralizados, siendo sus normas básicas las siguientes:
+El fraccionamiento de interés social sólo podrá ser promovido por el Gobierno Municipal, el Gobernador del Estado o por el Gobierno Federal, por sí o a través de sus organismos descentralizados, quienes podrán asociarse entre sí, con particulares o con el sector social, siendo sus normas básicas las siguientes:
 
 I. Solo podrán ubicarse en las áreas urbanas o urbanizables de los centros de población;
 
@@ -2502,6 +2584,10 @@ VI. El aprovechamiento será de vivienda unifamiliar y se permitirá solamente e
 VII. Se permitirá la construcción como máximo en un 80% de la superficie del lote y el resto se destinará para espacios abiertos; y
 
 VIII. El fraccionador deberá construir como mínimo las obras de urbanización previstas para los fraccionamientos habitacionales populares.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+
+La promoción de fraccionamientos de interés social tendrá como finalidad la construcción o el financiamiento de vivienda de interés social; el Gobierno del Estado, a través del Instituto, tendrá la facultad de supervisar y vigilar la realización de los proyectos enunciados en el presente artículo.
 
 ### CAPÍTULO VI. DE LOS REQUISITOS Y PROCEDIMIENTOS PARA LA AUTORIZACION DE FRACCIONAMIENTOS
 
@@ -2537,9 +2623,11 @@ X. Autorización en su caso, de la Comisión Nacional del Agua y del Ayuntamient
 
 Queda estrictamente prohibido y será causa de responsabilidad de los servidores públicos que tengan a su cargo la recepción y revisión de expedientes relativos a fraccionamientos, recibir expedientes incompletos o solicitudes condicionadas al cumplimiento posterior de requisitos por parte de su promovente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 184.
 
-Recibida la solicitud con los requisitos señalados, la Secretaría la revisará para verificar que esté correctamente integrada, y subsanadas las omisiones que se observen, dentro de un término de 15 días hábiles emitirá su opinión, el cual contendrá:
+Recibida la solicitud con los requisitos señalados, la Secretaría la revisará para verificar que esté correctamente integrada, y subsanadas las omisiones que se observen, dentro de un término de 15 días hábiles emitirá su dictamen, el cual contendrá:
 
 I. Si el fraccionamiento promovido resulta a su juicio procedente o improcedente, y en caso de negativa, las causas o motivos que fundamenten el motivo de su oposición;
 
@@ -2551,9 +2639,11 @@ IV. Los requerimientos mínimos de equipamiento y servicios en las áreas de don
 
 V. Las observaciones que se tuvieren en relación a las especificaciones o características del Proyecto, o aquellas otras que deban cumplirse a su juicio como condicionantes para su autorización.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 185.
 
-Dicha opinión será notificada de manera personal al promovente cuando se estime improcedente o se determine alguna modificación, haciéndole saber en el primer caso su derecho a recurrirlo; y en el segundo para que proceda a realizar las modificaciones o subsanar las deficiencias que le sean advertidas.
+El dictamen a que refiere el artículo anterior deberá ser notificado de manera personal y por escrito dentro de los cinco días hábiles siguientes al promovente, cuando se estime improcedente o se determine alguna modificación, haciéndole saber en el primer caso su derecho a recurrirlo, y en el segundo, para que proceda a realizar las modificaciones o subsanar las deficiencias que le sean advertidas.
 
 ###### ARTÍCULO 186.
 
@@ -2579,9 +2669,11 @@ IX. Las demás a que se refiere el artículo 7o. del presente ordenamiento y que
 
 Una vez aprobado el fraccionamiento la resolución respectiva será publicada en el Periódico Oficial, Organo del Gobierno de la Entidad, debiendo el titular de la autorización iniciar las obras de limpia y trazo de calles y lotes y solicitar al Ayuntamiento correspondiente las licencias o permisos de construcción.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 187.
 
-En los (sic) todos los casos, se requerirá oír y recabar la opinión previa de la Secretaría, quien aplicará en lo conducente lo dispuesto por el artículo 184 de este ordenamiento.
+En todos los casos se requerirá oír y recabar el dictamen de la Secretaría, quien aplicará en lo conducente lo dispuesto por el artículo 184 de este ordenamiento.
 
 ### CAPÍTULO VII. DE LAS OBLIGACIONES DE LOS FRACCIONADORES
 
@@ -2613,9 +2705,21 @@ XI. Ejecutar las obras de electrificación con estricto apego a las característ
 
 XII. Mantener en la obra, en lugar fijo y de manera permanente, el libro de bitácora debidamente foliado y autorizado por la autoridad competente, hasta la conclusión de las obras de urbanización;
 
-XIII. Solicitar a la Dirección Municipal de Desarrollo Urbano y Ecología la autorización para iniciar la promoción de venta de lotes; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
 
-XIV. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+XIII. Obtener de la Dirección Municipal de Desarrollo Urbano y Ecología la autorización para iniciar la promoción de venta de lotes;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XIV. Entregar un manual de mantenimiento que considere las indicaciones necesarias para que el fraccionamiento se mantenga en perfectas condiciones a través del tiempo y conserve su plusvalía que incluya al menos: información básica del fraccionamiento, garantías, mantenimiento preventivo y emergencias;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XV. En relación a la propiedad bajo el régimen en condominio, entregar el reglamento interior y el reglamento de administración, y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+XVI. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 189.
 
@@ -2629,7 +2733,9 @@ I. No cumpla con el calendario de obra autorizado;
 
 II. No se apegue a las especificaciones y características de las obras señaladas en la autorización respectiva;
 
-III. No acate las observaciones que las autoridades competentes le hagan, con motivo de las supervisiones realizadas durante la ejecución de las obras; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+
+III. No acate las observaciones que las autoridades competentes le hagan por escrito, con motivo de las supervisiones realizadas durante la ejecución de las obras, y
 
 IV. Por cualquier otra causa grave que vaya en detrimento de esta Ley.
 
@@ -2637,9 +2743,11 @@ IV. Por cualquier otra causa grave que vaya en detrimento de esta Ley.
 
 Para hacer efectivas las garantías, el Ayuntamiento deberá formular un dictamen técnico debidamente fundado y motivado, concediendo al fraccionador o promovente la garantía de audiencia a efecto de que alegue y pruebe lo que a su derecho o interés convenga.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 192.
 
-Cuando el fraccionador o promovente haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto en esta Ley, en los planes de desarrollo urbano o en la autorización respectiva, el Ayuntamiento correspondiente podrá ordenar la corrección de dichas obras, o bien demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador, quien deberá cubrir en su caso, el costo de los trabajos efectuados, cuando no cumpla con los requerimientos de la autoridad respectiva.
+Cuando el fraccionador o promovente haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto en esta Ley, en los planes de desarrollo urbano o en la autorización respectiva, el Ayuntamiento correspondiente podrá ordenar la corrección de dichas obras, o bien, previa notificación que haga por escrito, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador, quien deberá cubrir en su caso, el costo de los trabajos efectuados, cuando no cumpla con los requerimientos de la autoridad respectiva.
 
 ###### ARTÍCULO 193.
 
@@ -2701,9 +2809,11 @@ Será obligación de los adquirentes de lotes, respetar las características del
 
 ### CAPÍTULO IX. DE LA RECEPCION DE LAS OBRAS DE URBANIZACION
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 199.
 
-Una vez concluidas las obras de urbanización establecidas en la autorización de un fraccionamiento y practicadas las pruebas correspondientes a las obras de agua potable y alcantarillado, la Secretaría y la dependencia municipal correspondiente, practicarán una inspección final, a efecto de verificar si dichas obras, y en su caso las complementarias, fueron realizadas conforme a las normas y especificaciones contenidas en la autorización respectiva.
+Una vez concluidas las obras de urbanización establecidas en la autorización de un fraccionamiento y practicadas las pruebas correspondientes a las obras de agua potable, alcantarillado sanitario y pluvial, electrificación y alumbrado público, la Secretaría y la dependencia municipal correspondiente, practicarán una inspección final, a efecto de verificar si dichas obras, y en su caso las complementarias, fueron realizadas conforme a las normas y especificaciones contenidas en la autorización respectiva.
 
 ###### ARTÍCULO 200.
 
@@ -2811,85 +2921,35 @@ El Presidente Municipal a través de la Dirección de Desarrollo Urbano y Ecolog
 
 ###### ARTÍCULO 213.
 
-Las acciones y políticas en materia de vivienda a cargo de las dependencias, organismos y entidades de la administración pública estatal y municipales se orientarán a:
-
-I. Ampliar las posibilidades de acceso a la vivienda de interés social y popular, al mayor número de familias residentes en el territorio del Estado, atendiendo preferentemente a la población de bajos ingresos;
-
-II. Establecer, mediante la constitución de reservas territoriales, la oferta pública de suelo para vivienda evitando su especulación, previniendo al mismo tiempo los requerimientos y los medios y formas de adquisición del mismo, con un criterio de beneficio social;
-
-III. Promover la participación solidaria y responsable de los sectores social y privado para canalizar recursos y esfuerzos en la solución del problema habitacional en la Entidad, impulsando mediante acciones concertadas y el otorgamiento de estímulos la vivienda progresiva y la vivienda emergente, así como la construcción y mejoramiento de la vivienda en renta;
-
-IV. Mejorar el inventario habitacional y organizar y estimular la producción, mejoramiento y conservación de la vivienda urbana y rural, y de sus materiales básicos para lograr el bienestar de las familias;
-
-V. Ampliar los mecanismos de financiamiento para la vivienda social y popular, pugnándose por que se canalicen mayores recursos oficiales a los trabajadores, los campesinos y la población en general de bajos ingresos;
-
-VI. Propiciar la integración de la vivienda a su entorno ecológico y que la vivienda sea factor de ordenamiento territorial;
-
-VII. Apoyar la construcción de infraestructura y equipamiento de servicios para vivienda de interés social y popular, a través de la participación organizada de la comunidad; y
-
-VIII. Impulsar el sistema de autoconstrucción de la vivienda de interés social y popular, mediante la prestación de la asesoría técnica que se requiera de parte de las instituciones, organismos y dependencias involucradas.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 214.
 
-Para los efectos del artículo anterior, y en congruencia con el Sistema Nacional, se establece el Programa Estatal de Vivienda el cual contendrá:
-
-I. El diagnóstico de la problemática de la vivienda en el Estado y sus pronósticos a corto, mediano y largo plazo;
-
-II. Los propósitos que se pretendan alcanzar con la instrumentación del Programa y que servirán de base a las acciones habitacionales de la Administración Pública Estatal;
-
-III. La estrategia general para alcanzar las metas y las pautas para la programación anual;
-
-IV. Las acciones, obras y servicios básicos a realizar en el corto, mediano y largo plazo, para alcanzar los objetivos planteados, atendiendo a los recursos disponibles;
-
-V. Las bases de vinculación del Programa con el presupuesto estatal;
-
-VI. Las bases de coordinación con el Gobierno Federal y los Municipios;
-
-VII. Las bases de concertación con los sectores social y privado;
-
-VIII. Las normas para el otorgamiento de créditos y asignación de vivienda de interés social y popular; y
-
-IX. La ejecución en su caso, de proyectos estratégicos y de aquellos otros que se establezcan fundados en el principio de solidaridad.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 215.
 
-Las acciones y lineamientos básicos que comprenda el Programa Estatal de Vivienda serán, entre otros, los siguientes:
-
-I. La adquisición, aprovechamiento y enajenación de suelo para vivienda y fraccionamientos de interés social y popular;
-
-II. La obtención de recursos financieros para ser aplicados a la vivienda de interés social y popular, así como el fomento de estímulos que faciliten la inversión pública y privada en lo relativo a la construcción de vivienda;
-
-III. El apoyo a la autoconstrucción y a la vivienda de construcción progresiva;
-
-IV. La aplicación de normas mínimas de seguridad estructural y habitabilidad;
-
-V. La adopción de reglas prácticas para el mejoramiento de la vivienda;
-
-VI. El mejoramiento de la vivienda rural y urbana;
-
-VII. La adopción de normas de diseño, coodinación (sic) modular de componentes físicos y espacios arquitectónicos y la aplicación de tecnologías adecuadas para la construcción de viviendas; y
-
-VIII. La promoción y apoyo a la realización de programas estatales y municipales de vivienda.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 216.
 
-El Programa Estatal de Vivienda será elaborado por el Instituto, con apoyo en las propuestas que le hagan las demás dependencias y entidades involucradas de la Administración Pública Federal, Estatal y Municipales, así como de los grupos sociales y particulares interesados.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 217.
 
-El Programa Estatal de Vivienda será aprobado por el Gobernador, y publicado en el Periódico Oficial del Estado.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 218.
 
-El Programa Estatal de Vivienda será coordinado y evaluado por el Instituto, al menos anualmente, conforme a las disposiciones y procedimientos establecidos en materia de planeación, a efecto de comprobar si han sido cumplidos sus objetivos y de conocer los efectos de las diversas acciones habitacionales, derivándose de dicha evaluación la propuesta de adecuaciones, mismas que serán sometidas al Titular del Poder Ejecutivo del Estado para los efectos correspondientes.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 219.
 
-Los Programas Municipales de Vivienda, deberán contener los elementos básicos que señala el presente Título, y ajustarse a las necesidades y características de cada Municipio.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 220.
 
-Los Programas de las entidades de las administraciones públicas estatal y municipales que realicen acciones para la vivienda rural, deberán apegarse en lo conducente a la política de desarrollo rural integral y tenderán al mejoramiento y construcción de viviendas, a la utilización de procedimientos de conservación y desarrollo ecológico, al uso de tecnología y materiales apropiados y de sistemas constructivos locales que coadyuven a elevar los niveles de bienestar, con el mejoramiento de las condiciones sanitarias y de habitabilidad.
+(DEROGADO, P.O. 6 DE ABRIL DE 2011)
 
 ## TÍTULO NOVENO. DE LAS CONSTRUCCIONES, INFRAESTRUCTURA, EQUIPAMIENTO Y SERVICIOS URBANOS
 
@@ -2951,9 +3011,11 @@ VII. Obras urgentes para la prevención de accidentes, a reserva de dar aviso al
 
 Los proyectos y ejecución de obras y edificaciones, deberán realizarse por un arquitecto o ingeniero civil con cédula profesional legalmente expedida y registrado como perito conforme las disposiciones del Reglamento de Construcción Municipal.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 226.
 
-La expedición de licencia de construcción no requerirá de la responsiva de perito, cuando se trate de edificaciones destinadas a la vivienda popular cuya superficie no exceda 45.00 metros cuadrados.
+La expedición de licencia de construcción no requerirá de la responsiva de perito, cuando se trate de edificaciones destinadas a la vivienda progresiva cuya superficie no exceda 45 metros cuadrados.
 
 ###### ARTÍCULO 227.
 
@@ -3422,3 +3484,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 1 DE SEPTIEMBRE DE 2007.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE ABRIL DE 2011.
+
+Artículo único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
