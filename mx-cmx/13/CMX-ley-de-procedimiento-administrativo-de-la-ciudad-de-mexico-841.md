@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-04-13"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -450,11 +450,13 @@ Las disposiciones de este Título se aplicarán a los actos que desarrolle la Ad
 
 El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad del servidor público, en los términos de la Ley de Responsabilidades.
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### Artículo 32.
 
 El procedimiento administrativo podrá iniciarse de oficio o a petición del interesado.
 
-Las manifestaciones, informes o declaraciones rendidas por los interesados a la autoridad competente, se presumirán ciertas salvo prueba en contrario, aun cuando estén sujetas al control y verificación de la autoridad. Si los informes o declaraciones proporcionados por el particular resultan falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de las penas en que incurran aquellos que se conduzcan con falsedad de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de los interesados se sujetará al principio de buena fe.
+Las manifestaciones, informes o declaraciones rendidas por los interesados a la autoridad competente, así como los documentos aportados, se presumirán ciertos salvo prueba en contrario, y estarán sujetos en todo momento a la verificación de la autoridad. Si dichos informes, declaraciones o documentos resultan falsos, serán sujetos a las penas en que incurran aquellos que se conduzcan con falsedad de acuerdo con los ordenamientos legales aplicables. La actuación administrativa de la autoridad y la de los interesados se sujetarán al principio de buena fe.
 
 > <small>(REFORMADO, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -474,11 +476,13 @@ La Administración Pública del Distrito Federal en los procedimientos y trámit
 
 La normatividad establecerá los casos en que proceda la declaración o registro de manifestación de los particulares, como requisito para el ejercicio de facultades determinadas. En estos casos, el trámite estará basado en la recepción y registro de la manifestación bajo protesta de decir verdad de que se cumple con las normas aplicables para acceder a dicho acto, acompañada de los datos y documentos que éstas determinen, sin perjuicios de que la autoridad competente inicie los procedimientos que correspondan cuando en la revisión del trámite se detecte falsedad. En estos casos, estará obligada a presentar denuncia en el Ministerio Público para la aplicación de las sanciones penales correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgó u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a concesiones ni a permisos para el uso o aprovechamiento de bienes del patrimonio del Distrito Federal.
 
-En el caso de revalidación de licencias, autorizaciones, permisos, registros o declaraciones, el trámite se podrá hacer mediante un aviso por escrito, que contendrá la manifestación del interesado, bajo protesta de decir verdad, en el sentido de que las condiciones en que se le otorgo u obtuvo originalmente la licencia, autorización, permiso, registro o declaración de que se trate, no han variado, y de las facultades. Dicho trámite se podrá realizar dentro de los quince días hábiles previos a la conclusión de su vigencia, sin perjuicio del pago de derechos que la revalidación origine y de las facultades de verificación de las autoridades competentes. Este procedimiento para revalidación no será aplicable a las concesiones, ni a las licencias de funcionamiento de establecimientos mercantiles, debiendo atenderse en este último caso a lo establecido en el artículo 34 de la Ley de Establecimientos Mercantiles del Distrito Federal.
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Tratándose de trámites de solicitud de licencias, autorizaciones, permisos, registros o declaraciones, la autoridad recibirá los datos y documentos aportados por los particulares, siempre que sean los que se establezcan en la norma aplicable y en el Manual de Trámites y Servicios al Público, sin perjuicio de que en cualquier momento sea verificada su autenticidad y, en su caso, se inicien los procedimientos correspondientes para determinar la improcedencia de la solicitud u obtener la nulidad del acto de que se trate, así como la responsabilidad penal del solicitante y de quien hubiere formulado o suscrito los documentos que resultaren falsos.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -577,6 +581,10 @@ Cuando el escrito inicial no contenga los requisitos o no se acompañe de los do
 Si la promoción no fue firmada se estará a lo dispuesto en el artículo 33 de esta Ley.
 
 Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de inconformidad.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+La prevención se emitirá y notificará dentro del plazo que las normas establezcan para la resolución del procedimiento o trámite, debiendo ser desahogada por el interesado dentro del mismo plazo para la resolución de dicho procedimiento o trámite. Son nulas, las prevenciones por las que se requiera el cumplimiento de requisitos no previstos en las normas aplicables al trámite de que se trate ni en el manual, y por tanto no podrá exigirse su cumplimiento.
 
 ###### Artículo 46.
 
@@ -910,33 +918,45 @@ Cuando se trate de solicitudes de autorizaciones, licencias, permisos o de cualq
 
 Cuando opere la negativa ficta por silencio de la autoridad, el interesado podrá interponer el recurso de inconformidad previsto en la presente Ley, o bien, intentar el juicio de nulidad ante el Tribunal.
 
-> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### Artículo 90.
 
-Ante el silencio de la autoridad competente para resolver el procedimiento administrativo correspondiente, procede la afirmativa ficta en los casos en los que expresamente lo establezcan, bajo cualquier modalidad, las leyes aplicables y el manual.
+Ante el silencio de la autoridad competente para resolver el procedimiento administrativo correspondiente, procede la afirmativa ficta en los casos en los que expresamente lo establezcan las leyes aplicables y el manual.
 
-La afirmativa ficta opera cuando la solicitud del particular se realiza ante la autoridad competente, reúne los requisitos de la Ley y no contraviene norma de orden público o interés general.
+Cuando el interesado presuma que ha operado en su favor esta figura administrativa, en un término de 10 días hábiles posteriores al vencimiento del plazo de resolución del procedimiento o trámite de que se trate, solicitará la resolución respectiva conforme a lo siguiente:
 
-Cuando el interesado presuma que se ha operado a favor esta figura administrativa, deberá solicitar para la plena eficacia del acto, en un término de 10 días hábiles, la certificación de que se ha configurado esta resolución ficta de acuerdo a lo siguiente:
+I. Comparecerá personalmente o a través de su representante legal ante la Contraloría Interna de la autoridad en que se haya ingresado el trámite o se inició el procedimiento, o bien, ante la Contraloría General cuando no se cuente con órgano de control interno;
 
-I. El interesado comparecerá personalmente o a través de su representante legal ante la Contraloría Interna de la autoridad en que se haya ingresado el trámite o se inició el procedimiento, o bien, ante la Contraloría General cuando no se cuente con órgano de control interno;
+II. Suscribirá el formato correspondiente, al que deberá anexar el original del acuse de recibo de la solicitud no resuelta, manifestando bajo protesta de decir verdad que a la solicitud acompañó los datos y documentos previstos por la normas aplicables al trámite o procedimiento de que se trate y el manual;
 
-II. Suscribirá el formato previamente requisitado por el órgano de control respectivo, al que deberá anexar el original del acuse de recibo de la solicitud no resuelta;
+III. El órgano de control requerirá a la autoridad omisa, dentro de los dos días hábiles siguientes a la presentación de la solicitud, el envío del expediente integrado con motivo del inicio del trámite o procedimiento y constatará el cumplimiento de la aportación de los datos y documentos;
 
-III. El órgano de control que corresponda, dentro de los 2 días hábiles siguientes a que reciba la solicitud de certificación, remitirá el formato al superior jerárquico de la autoridad omisa;
+IV. La autoridad omisa enviará el expediente requerido dentro de los dos días hábiles siguientes al en que reciba el requerimiento; en caso de que la autoridad no diera cumplimiento al requerimiento o incurriera en retraso en el envío, el órgano de control impondrá las medidas de apremio previstas en el artículo 19 Bis de esta Ley;
 
-IV. El superior jerárquico, en un término no mayor de 5 días hábiles, contado a partir de que reciba el formato correspondiente, resolverá lo conducente, debiendo enviar copia de lo proveído al órgano de control.
+V. En caso de que no fuera remitido el expediente requerido, al segundo día hábil siguiente al de la notificación del requerimiento, el órgano de control se constituirá en las oficinas de la autoridad omisa, a efecto de constatar su contenido en los términos de la fracción II de este artículo, con independencia de la aplicación de la medida de apremio correspondiente;
 
-En el supuesto que el superior jerárquico niegue la expedición de la certificación solicitada, tendrá que fundar y motivar la negativa de su resolución;
+VI. El órgano de control, en un término no mayor de dos días hábiles siguientes a la constatación del contenido del expediente, resolverá si procede o no la afirmativa ficta, debiendo enviar copia de lo proveído a la autoridad omisa.
 
-V. La autoridad competente notificará la resolución al interesado en términos de la presente ley.
+La solicitud sólo podrá declararse improcedente en el caso de que el interesado no haya aportado los datos y documentos previstos por las normas aplicables y el manual;
 
-Cuando se expida al interesado una certificación que genere el pago de contribuciones o aprovechamientos de conformidad con el Código Financiero, el superior jerárquico deberá señalar al interesado el monto de las mismas, tomando en cuenta para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
+VII. El órgano de control notificará la resolución al interesado en términos de la presente ley.
 
-Si la certificación no fuese emitida en el plazo que señala este artículo, la afirmativa ficta será eficaz habiéndose cumplido con lo establecido en el segundo párrafo del presente artículo; se podrá acreditar mediante la exhibición de la solicitud del trámite respectivo y el formato de certificación ante el superior jerárquico.
+Cuando el trámite o procedimiento de cuya afirmativa ficta se trate, genere el pago de contribuciones o aprovechamientos de conformidad con el Código Financiero, el órgano de control requerirá a la autoridad omisa que señale al interesado el monto de las mismas, debiendo tomar en cuenta para su determinación, los datos manifestados en la solicitud respectiva, así como la naturaleza del acto.
 
-La certificación de la afirmativa ficta, producirá todos los efectos legales de la resolución favorable que se pidió; y es deber de todas las personas y autoridades reconocerla así. Para la revalidación de una resolución afirmativa ficta, en caso de que sea necesaria, por así establecerlo la Ley o el manual, la misma se efectuará en los términos y condiciones que señala el artículo 35 de esta Ley.
+La resolución de procedencia de afirmativa ficta producirá todos los efectos legales de la resolución favorable al procedimiento o trámite de que se trate; y es deber de todas las personas y autoridades reconocerla así. Para la revalidación de una resolución afirmativa ficta, en caso de que sea necesaria, por así establecerlo la Ley o el manual, la misma se efectuará en los términos y condiciones que señala el artículo 35 de esta Ley.
+
+La autoridad omisa podrá iniciar el procedimiento de lesividad contra las resoluciones de procedencia de afirmativa ficta en los plazos y condiciones previstos en los artículos 28 y 28 bis de esta Ley.
+
+###### Artículo 90 Bis.
+
+El órgano de control iniciará el procedimiento administrativo disciplinario contra:
+
+I. El servidor público responsable de suscribir las resoluciones o acuerdos respectivos a las solicitudes de los interesados, incurra recurrentemente en omisión, motivando la intervención del órgano de control en la certificación de la afirmativa ficta;
+
+II. El servidor público incurra frecuentemente en retrasos en el envío de los expedientes requeridos en los procedimientos de certificación de afirmativa ficta o se niegue a su envío.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### Artículo 91.
 
@@ -990,6 +1010,10 @@ Los verificadores, para practicar una visita, deberán estar provistos de orden 
 
 Se considerará que cuentan con los elementos y requisitos de validez que señalan los artículos 6, fracciones II y III y 7 fracción IV, de esta Ley, las ordenes que contengan impresa la fotografía del lugar que ha de verificarse, cuando el inmueble no cuente con número oficial, el mismo no sea visible, haya sido retirado o no corresponda al que tengan registrado las autoridades competentes.
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Los verificadores se abstendrán de cumplimentar las órdenes de visitas de verificación de giros, actividades y obras contenidos en el acuerdo a que se refiere el artículo 105 bis de esta ley, debiendo comunicar por escrito al emisor de la orden dicha circunstancia.
+
 ###### Artículo 100.
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
@@ -1039,6 +1063,12 @@ Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguri
 ###### Artículo 105.
 
 Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### Artículo 105 Bis.
+
+La Secretaría de Gobierno, con la opinión de las secretarías de Desarrollo Urbano y Vivienda y de Desarrollo Económico, emitirá en el mes de diciembre, el acuerdo de los giros, actividades y obras que no serán objeto de verificación en el año siguiente al de la emisión de dicho acuerdo.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
 
@@ -1375,3 +1405,9 @@ G.O. 13 DE ABRIL DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 7 DE ABRIL DE 2011.
+
+Primero: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo: Publíquese en la Gaceta Oficial del Distrito Federal.
