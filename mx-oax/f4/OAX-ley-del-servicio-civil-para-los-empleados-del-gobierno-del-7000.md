@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "1998-09-19"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, 28 de Diciembre de 1963.
 
@@ -799,11 +799,17 @@ Los miembros de la Junta de Arbitraje tienen el deber de excusarse y pueden ser 
 
 Las excusas y recusaciones serán calificadas por los dos miembros no afectados y para el caso de que se trate de dos o más miembros de la Junta se requerirá al Sindicato o al Estado para que designen suplentes. Si éstos fueren admitidos legalmente, la designación surtirá efectos sólo para la resolución del conflicto en que hayan surgido las incidencias citadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 95.
 
-Las resoluciones dictadas por la Junta de Arbitraje, no admitirán recurso alguno y serán cumplidas desde luego por las autoridades correspondientes, encargándose la Junta de vigilar su cumplimiento. La Tesorería General del Estado se atendrá a ellas para ordenar el pago de sueldos, indemnizaciones y demás que se deriven de las mismas resoluciones.
+Las resoluciones dictadas por la Junta de Arbitraje, no admitirán recurso alguno y serán cumplidas desde luego por las autoridades correspondientes, encargándose la Junta de vigilar su cumplimiento. El Gobierno del Estado por conducto de la Secretaría de Finanzas del Estado y el Municipio se atendrá a ellas para ordenar el pago de sueldos, indemnizaciones y demás que se deriven de las mismas resoluciones.
 
 Para los efectos de este artículo, la Junta de Arbitraje, una vez pronunciada la resolución, la pondrá en conocimiento de todas las personas y autoridades interesadas.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2011)</small>
+
+Se notificara al Titular del Poder Ejecutivo, Legislativo, Judicial y Presidente Municipal, para los efectos del artículo sexto de la Ley de Bienes pertenecientes al Estado de Oaxaca y 43 fracción LXV de la ley Orgánica Municipal del Estado de Oaxaca.
 
 ###### ARTICULO 96.
 
@@ -884,3 +890,7 @@ P.O. 19 DE SEPTIEMBRE DE 1998.
 PRIMERO.- Los Derechos Laborales de Jueces y Secretarios Judiciales serán respetados íntegramente, en su calidad de empleados de confianza.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2011.
+
+ÚNICO: El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
