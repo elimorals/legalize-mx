@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2009-12-20"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -3051,43 +3051,69 @@ El auto en que se declara que una sentencia ha causado o no ejecutoria, no admit
 
 DE LOS JUICIOS SUMARIOS Y DE LA VIA DE APREMIO.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ABRIL DE 2011)</small>
+
 ### CAPITULO I.
 
-De los juicios sumarios.
+Del juicio especial de rectificación o modificación de las actas del estado civil.
 
 REGLAS GENERALES.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 430.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+La demanda donde se solicite la rectificación o modificación de un acta del estado civil, deberá cumplir con los requisitos establecidos en el artículo 255 del presente Código, ofreciéndose las pruebas correspondientes, observando las prevenciones del Capítulo III, del Título Sexto, en lo que no se oponga a las reglas de este capítulo y presentarse ante el Juez competente de lo Familiar en turno o Mixto competente.
+
+En el caso de que no existiera Juzgado Familiar o Mixto en el lugar de residencia del acto, o no fuera éste competente en razón del territorio, podrá acudir directamente ante el Oficial del Registro Civil de su domicilio competente, para el efecto de que por su conducto se presente la demanda sobre modificación o rectificación del acta del estado civil, hecho lo anterior, el Oficial la deberá remitir sin demora al Juzgado Familiar o Mixto competente, instruyendo a los promoventes para que en lo sucesivo comparezcan ante el Juzgado correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 431.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+Presentada y admitida la demanda se correrá traslado de ella al demandado y se dará vista a la Dirección General del Registro Civil del Estado y al Ministerio Público adscrito al juzgado que corresponda, para que dentro del término de cinco días manifiesten lo que a su derecho convenga, debiendo en el mismo escrito ofrecer las pruebas de acuerdo con lo dispuesto en el artículo anterior.
+
+Cuando de las solicitudes o demanda se advierta que pueda existir conflicto de intereses respecto de las personas que intervinieron en el acta del estado civil que resulten afectadas con lo solicitado por el promovente, se correrá traslado de la misma y sus anexos a fin de que dentro del término de cinco días comparezcan a deducir sus derechos y a ofrecer pruebas en su caso.
+
+Las excepciones que se tenga, cualquiera que sea su naturaleza, se formularán en la contestación. Si se oponen las excepciones de incompetencia, falta de personalidad o cualquier otra de carácter procesal, se dará vista al actor para que dentro del término de tres días manifiesten lo que a sus derechos convenga.
+
+Todas las excepciones y los incidentes que se opongan, se resolverán en la sentencia definitiva. En el presente procedimiento no se admitirá reconvención dejándose a salvo los derechos del demandado para que los haga valer en la vía y forma que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 432.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+En el auto de admisión de la demanda se señalará fecha y hora para la audiencia de pruebas y alegatos, que se llevará a cabo dentro de los treinta días siguientes, sin que pueda reservarse el señalamiento para otro momento procesal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 433.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+En todo lo relativo a la admisión y desahogo de pruebas, se estará a lo dispuesto en los capítulos respectivos del Título Sexto del presente Código, en lo conducente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 434.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+Una vez desahogadas todas las pruebas en la audiencia respectiva, se dará la palabra a las partes para que formulen sus alegatos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 435.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+Al concluir la audiencia, con o sin alegatos, el Juez citará para oír sentencia, la que se pronunciará dentro en el término de diez días.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 436.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+La sentencia admite el recurso de apelación que se sustanciará en ambos efectos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 437.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
+Una vez que cauce ejecutoria la sentencia favorable, el Juez ordenará de oficio, dentro del término de cinco días a la Dirección General del Registro Civil, para que comunique de inmediato al encargado del Archivo General del Registro Civil y al Oficial del Registro Civil correspondiente, para que hagan las anotaciones en el acta o donde procesa remitiéndole copia certificada de la resolución.
 
 ###### ARTICULO 438.
 
@@ -6948,3 +6974,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos por quienes sean partes en adopciones bajo el régimen de adopción simple seguirán rigiendo, en lo conducente, en los iniciados con anterioridad a la aplicación del presente decreto, y quedarán derogados en la medida en que aquellos queden agotados.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la presente Decreto.
+
+P.O. 7 DE ABRIL DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
