@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2010-06-03"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # CODIGO CIVIL DEL ESTADO DE DURANGO
 
-CODIGO CIVIL
+CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -687,25 +687,17 @@ Las Actas a que se refiere el Artículo 127 contendrán el nombre, edad, estado 
 
 De la rectificación de las actas del estado Civil.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
 
-ART. 129.- La rectificación o modificación de un acta del Estado civil, en caso de Falsedad se hará ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+ART. 129.- La rectificación o modificación de un acta del estado civil, podrá hacerse ante el Poder Judicial o la Dirección General del Registro Civil del Estado, salvo que se trate del reconocimiento que voluntariamente haga un padre de su hijo, el cual se ajustará a las prescripciones de este Código.
 
-La rectificación o modificación de un acta del estado civil en cualquier otro supuesto que no sea de falsedad, se hará conforme el procedimiento administrativo que señala este Código, mismo que podrá impugnarse en caso de inconformidad mediante los recursos que previene el Código de Justicia Administrativa del Estado de Durango.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+ART. 130.- Ha lugar a pedir la rectificación del acta del estado civil directamente ante la Dirección General del Registro Civil, cuando existan errores mecanográficos y ortográficos u omisiones que se desprendan del contenido del acta, que no afecten la identidad de la persona, ni la sustancia del acto, ni lesione derecho de tercero o de orden público, en su caso, la autoridad competente deberá resolver en un término de diez días hábiles.
 
-ART. 130.- Ha lugar a pedir la rectificación por la vía jurisdiccional, por falsedad, nulidad o inexistencia cuando se alegue que el suceso registrado no pasó o no de la forma registrada.
+Cuando se traten de rectificaciones que soliciten variar algún nombre, apellido u otra circunstancia que sea esencial y documentalmente se compruebe el hecho motivo de la rectificación, el interesado entablará procedimiento por la vía administrativa ante la Dirección General del Registro Civil.
 
-Ha lugar a pedir la rectificación por la vía administrativa cuando
-
-I. Se solicite variar algún nombre u otra circunstancia, sea esencial o accidental;
-
-II. En las actas de estado civil existan errores mecanográficos, ortográficos, de letras, de palabras concernientes a la real identificación de la persona, o de otra índole;
-
-III. Se trata de omisión de un dato que deba constar en el acta respectiva de acuerdo con el Código; y
-
-IV. Se trata de errores mecanográficos o de impresión que se desprendan del contenido del acta o de los documentos que integran el apéndice.
+En los demás casos deberá demandarse la rectificación o modificación del acta del estado civil por la vía judicial.
 
 ART. 131.- Pueden pedir la rectificación de un acta del estado civil:
 
@@ -717,41 +709,51 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que según los artículos 343, 344 y 345 pueden continuar o intentar la acción de que en ellos se trata.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2011)</small>
 
-ART. 132.- El interesado en la rectificación que sea por causa de falsedad, tendrá que seguir el juicio correspondiente en la forma que se establezca en el Código de Procedimientos Civiles.
+ART. 132.- El interesado en la rectificación o modificación por vía judicial, tendrá que seguir el juicio correspondiente en la forma establecida en el Código de Procedimientos Civiles para el Estado de Durango.
 
-El interesado en la rectificación de un acta del estado civil, en los supuestos de las fracciones, I, II, III y IV del artículo anterior, deberá presentar ante el Oficial del Registro Civil una solicitud por escrito que deberá contener:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2011)</small>
+
+El interesado en la rectificación de un acta del estado civil, por la vía administrativa, en el supuesto previsto en el párrafo segundo del artículo 130 de este Código, deberá presentar ante el Oficial del Registro Civil o ante la Dirección General del Registro Civil una solicitud por escrito que deberá contener:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 I. Nombre, domicilio y generales del interesado;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
 II. Los datos del acta de cuya rectificación se trate; y
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
 III. El señalamiento de los motivos de la rectificación del acta.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 A la solicitud deberá acompañarse:
 
 a) Copia de la solicitud;
 
-b) Copia certificada del acta de que se trate, expedida por el Oficial del Registro Civil correspondiente; y
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
+
+b) Copia certificada del acta de que se trate, expedida por el Oficial del Registro Civil o por el Archivo Central de la Dirección General del Registro Civil, y
 
 c) Copia certificada de las actas relacionadas con aquella cuya rectificación se solicite y de los documentos justificativos de la rectificación.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ABRIL DE 2011)</small>
 
-ART. 133.- Para el caso de rectificación administrativa, el Oficial del Registro Civil turnará el original de la solicitud y la documentación a que se refiere el artículo anterior al Director del Registro Civil del Estado, quien dictará resolución fundada respecto de si procede o no la rectificación solicitada. En caso de que la resolución sea en el sentido de que no procede la rectificación, se le comunicará al Oficial del Registro Civil, para que éste la haga saber al interesado.
+Así mismo se podrán presentar y en su caso, deberán ser valoradas por la autoridad correspondiente todas aquellas pruebas que estime convenientes de acuerdo a lo establecido por el Código de Procedimientos.
 
-En caso de resolución judicial la sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y este hará una referencia de ella al calce del acta impugnada sea que el fallo conceda o niegue la pretención.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
+ART. 133.- Tratándose de las rectificaciones a que se refiere el segundo párrafo del artículo 130 de éste Código, la solicitud de rectificación administrativa se presentará ante la Dirección General del Registro Civil o el Oficial del Registro Civil al que corresponda el registro, el cual turnará el original de la solicitud y la documentación a que se refiere el artículo anterior al Director del Registro Civil del Estado, quien dictará resolución fundada respecto de si procede o no la rectificación solicitada.
 
-ART. 133 BIS.-·En caso de que la resolución fuera en el sentido de que si procede la rectificación, el Director del Registro Civil del Estado se la remitirá al Secretario General de Gobierno para que la analice y autorice en su caso, una vez autorizada la resolución se le comunicará de inmediato al encargado del Archivo General del Registro Civil y al Oficial, para que hagan la anotación en el acta rectificada, ya sea al margen o al calce, según corresponda.
+La resolución que emita la Dirección General del Registro Civil, será remitida al Secretario General de Gobierno, para que la analice y en su caso, de manera fundada y motivada, ratifique, modifique o revoque la resolución; si la rectificación es autorizada se le comunicará de inmediato a la Dirección General del Registro Civil, para que se realicen las anotaciones correspondientes. En cualquier caso la Dirección General del Registro Civil, comunicará al interesado el sentido de la resolución en un plazo que no excederá de quince días.
 
-Hecho lo anterior, el Oficial del Registro Civil hará saber dicha resolución al interesado.
+ART. 133 Bis.- (DEROGADO, P.O. 7 DE ABRIL DE 2011)
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2010)</small>
-
-ART. 133 BIS 1.- Si de la documentación acompañada a una solicitud de rectificación aparecieren otros errores u omisiones, que no fueren señalados en dicha solicitud, el Sub-Director Jurídico del Registro Civil los tomará en cuenta de oficio al dictar la resolución que corresponda.
+ART. 133 Bis 1.- (DEROGADO, P.O. 7 DE ABRIL DE 2011)
 
 ## TITULO QUINTO.
 
@@ -6073,7 +6075,7 @@ ART. 1655.- Si el autor de la herencia hiciere la partición de los bienes en su
 
 ART. 1656.- Si el autor de la sucesión no dispuso cómo debieran repartirse sus bienes y se trata de una negociación que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que les corresponda. El precio de la negociación se fijará por peritos.
 
-Lo dispuesto en este artículo no impide que los coherederos celebaen los convenios que estimen pertinentes.
+Lo dispuesto en este artículo no impide que los coherederos celebran los convenios que estimen pertinentes.
 
 ART. 1657.- Los coherederos deben abonarse recíprocamente las rentas y frutos que cada uno haya recibido de los bienes hereditarios, los gastos útiles y necesarios y los daños ocasionados por malicia o negligencia.
 
@@ -10159,7 +10161,7 @@ Dado en el Palacio del Poder Ejecutivo del Estado en Victoria de Durango, Dgo., 
 
 José Ramón Valdez.- El Secretario Gral. de Gobierno, Lic. Fernando Arenas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 12 DE DICIEMBRE DE 1948.
 
@@ -10302,3 +10304,11 @@ P.O. 3 DE JUNIO DE 2010.
 PRIMERO.- El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE ABRIL DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. La Dirección General del Registro Civil, deberá concluir los procedimientos que se encuentren en trámite, antes de la entrada en vigor de la presente reforma.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
