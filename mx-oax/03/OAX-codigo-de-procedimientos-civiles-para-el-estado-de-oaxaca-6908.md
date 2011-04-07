@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2010-11-13"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -505,7 +505,7 @@ Estas correcciones podrán aplicarse a los Jueces, Alcaldes, Ejecutores, Secreta
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; se citará para la audiencia dentro de tercero día, en la que se resolverá sin más recurso que el de queja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 79.
 
@@ -615,7 +615,7 @@ III. Una copia en papel común del escrito y de los documentos, cuando haya de c
 
 Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 93.
 
@@ -625,7 +625,7 @@ Si no los tuviere a su disposición, designará el archivo o lugar en que se enc
 
 Se entenderá que el actor tiene a su disposición los documentos y deberá acompañarlos precisamente a la demanda, siempre que existan los originales en un protocolo o archivo público del que pueda pedir y obtener copias autorizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 1986)</small>
 
 ###### Artículo 94.
 
@@ -641,7 +641,7 @@ III. Los que no haya sido posible adquirir con anterioridad por causas que no se
 
 Las copias de los escritos y documentos se entregarán a las partes contrarias al notificarle las providencias que ordenen correr su traslado y hayan recaído al escrito respectivo, o al hacerles la citación o emplazamiento que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 96.
 
@@ -733,41 +733,45 @@ Será notificado personalmente en la casa designada para este efecto por los lit
 
 I. El auto que admite la demanda, y siempre que se trate del primer proveído, aunque sean diligencias preparatorias;
 
-II. El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2011)</small>
 
-III. La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo;
+II. El auto que admite la reconvención o compensación;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+III. El auto que ordena la absolución de posiciones o reconocimiento de documentos;
 
-IV. Cuando se estime que se trata de un caso urgente y así se ordene, y en los demás casos que el Juez lo estime conveniente;
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
-
-V. El requerimiento de un acto a la parte que deba cumplirlo;
+IV. La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-VI. El auto que manda abrir el juicio a prueba en primera instancia o concede plazo probatorio en segunda instancia;
+V. Cuando se estime que se trata de un caso urgente y así se ordene, y en los demás casos que el Juez lo estime conveniente;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+
+VI. El requerimiento de un acto a la parte que deba cumplirlo;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2001)</small>
+
+VII. El auto que manda abrir el juicio a prueba en primera instancia o concede plazo probatorio en segunda instancia;
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-VII. El auto que admite pruebas y fija día y hora para su desahogo por primera vez, en juicio principal;
+VIII. El auto que admite pruebas y fija día y hora para su desahogo por primera vez, en juicio principal;
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-VIII. La resolución que declare la caducidad de la instancia;
+IX. La resolución que declare la caducidad de la instancia;
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-IX. Las sentencias;
+X. Las sentencias;
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-X. La resolución que declare la deserción del recurso de apelación; y
+XI. La resolución que declare la deserción del recurso de apelación; y
 
 > <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2001)</small>
 
-XI. En los demás casos que la Ley lo disponga.
+XII. En los demás casos que la Ley lo disponga.
 
 ###### Artículo 111.
 
@@ -883,7 +887,7 @@ Cuando haya de notificarse o citarse una persona residente fuera del lugar del j
 
 Si la citación o notificación hubiere de hacerse en país extranjero, el exhorto se remitirá por conducto del Gobernador del Estado, observándose en lo demás las reglas establecidas por el Gobierno de la Unión en las leyes generales y tratados internacionales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
 
 ### CAPITULO VII. De los plazos judiciales
 
@@ -941,7 +945,7 @@ Para fijar la duración de los plazos, los meses se regularán por el número de
 
 Cuando este Código no señale plazo para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrá por señalado el de tres días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 127 Bis.
 
@@ -1219,7 +1223,7 @@ La declinatoria se propondrá ante el Juez que se considere incompetente a conte
 
 En caso de no promoverse cuestión de competencia alguna dentro de los plazos señalados por el que se estime afectado, se considerará sometido a la del Juez que lo emplazó y perderá todo derecho para intentarla. Las cuestiones de competencia en ningún caso suspenderán el procedimiento principal, pero deberán resolverse antes de dictarse sentencia definitiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 155.
 
@@ -1539,7 +1543,7 @@ No habrá necesidad de reconocimiento judicial, cuando los documentos privados h
 
 El notario hará constar en su protocolo en una acta relativa, la razón de haberse extendido ese reconocimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 195.
 
@@ -1547,7 +1551,7 @@ Si es instrumento público o privado reconocido y contiene cantidad ilíquida, l
 
 La liquidación se practicará en forma incidental y la resolución no admitirá ulterior recurso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO III. De la separación de los cónyuges como acto prejudicial
 
@@ -1591,7 +1595,7 @@ El Juez practicara las diligencias que a su juicio sean necesarias antes de dict
 
 El Juez resolverá de inmediato sobre la solicitud y dictará las medidas necesarias para que se realice la separación. Podrá modificar esas medidas según las circunstancias de cada caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 202.
 
@@ -1909,7 +1913,7 @@ IV. Producir todas las consecuencias de la interpelación judicial, si por otros
 
 V. Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1984)</small>
 
 ###### Artículo 261.
 
@@ -1969,7 +1973,7 @@ En el escrito de contestación, el demandado deberá referirse a cada uno de los
 
 (DEROGADO, P.O. 9 DE JUNIO DE 1984)
 
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)
 
 ###### Artículo 271.
 
@@ -1981,11 +1985,11 @@ Para abrir el juicio a prueba el Juez examinará escrupulosamente si las citacio
 
 Se presumen confesados los hechos de la demanda que se dejen de contestar.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### Artículo 272.
 
-El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después, y se dará traslado del escrito al actor para que conteste en el plazo de seis días, quedando con ello definitivamente fijada la litis.
+El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después. Del auto que la admita se notificara personalmente al actor, corriéndole traslado con las constancias respectivas para que conteste en un plazo igual al que se le otorgo al demandado para contestar la demanda principal, quedando con ello definitivamente fijada la litis.
 
 ###### Artículo 273.
 
@@ -2099,7 +2103,7 @@ X. Y demás medios que produzcan convicción en el juzgador.
 
 ### CAPITULO III
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
 
 #### Sección Primera. Del plazo probatorio
 
@@ -2113,7 +2117,7 @@ Al ofrecerse las pruebas deberán precisarse todos los datos y acompañarse todo
 
 Al día siguiente en que termine el periodo de ofrecimiento de pruebas, el Juez, de oficio o a petición de parte, dictará proveído en el que determinará las pruebas que deban admitirse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 288.
 
@@ -2137,7 +2141,7 @@ El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el plazo 
 
 El litigante a quien se hubiere concedido plazo extraordinario y no rindiese las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante a juicio del Juez, será condenado a pagar a su contraparte la indemnización por los daños y perjuicios causados, así como una multa de cincuenta a cien salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 290.
 
@@ -2819,7 +2823,7 @@ El auto en que se declara que una sentencia ha causado o no ejecutoria, no admit
 
 ### CAPITULO VII. De los incidentes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 404.
 
@@ -2929,7 +2933,7 @@ Otorgada la acumulación y consentido o ejecutoriado el auto, se remitirán los 
 
 El Juez que haya pedido la acumulación deberá desistir de su pretensión dentro de los tres días siguientes al en que reciba el oficio a que alude el artículo anterior, si encuentra fundados los motivos por los que fue denegada, contestando también dentro de tres días al otro juez. El auto de desistimiento es apelable en el efecto devolutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 419.
 
@@ -3587,7 +3591,7 @@ Si el ejecutante optare en cualquiera de los casos enumerados en el artículo an
 
 Cuando la sentencia condena a rendir cuentas, el Juez señalará un plazo prudente al obligado para que se rindan e indicará también a quién deban rendirse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 506.
 
@@ -3679,7 +3683,7 @@ Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma,
 
 No es necesario el requerimiento de pago en la ejecución del embargo precautorio, ni en la ejecución de sentencias cuando no fuere hallado el condenado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 521.
 
@@ -4675,7 +4679,7 @@ En los juicios sumarios y sucesorios, todas las apelaciones se admitirán en el 
 
 No se suspenderá la ejecución de la sentencia, auto o providencia apelados cuando haya sido admitida la apelación en el efecto devolutivo. En este caso, si la apelación fuere de sentencia, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 676.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 681.
 
@@ -4891,7 +4895,7 @@ De los concursos
 
 ### CAPITULO II. De la rectificación y graduación de créditos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 712.
 
@@ -5739,7 +5743,7 @@ Si varios herederos pretenden una misma cosa de la herencia, se licitará entre 
 
 Si hubiere alguna cosa que todos rehusaren recibir se venderá en pública subasta aplicándose el precio a la masa común.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 859.
 
@@ -5883,7 +5887,7 @@ Luego que se tenga noticia fehaciente de la muerte del autor de la herencia en e
 
 Ante el tribunal competente se procederá, en sus respectivos casos, según está mandado en capítulos anteriores respecto al testamento público abierto, al cerrado o al privado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN , P.O. 20 DE JULIO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -5929,7 +5933,7 @@ De la jurisdicción voluntaria
 
 ### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 883.
 
@@ -5989,7 +5993,7 @@ IV. Por el albacea;
 
 V. Por el Ministerio Público.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
@@ -6165,7 +6169,7 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesita el tuto
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores e incapacitados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO V. De las informaciones ad-perpetuam
 
@@ -6461,7 +6465,7 @@ Los incidentes que se promuevan en estos juicios se resolverán juntamente con l
 
 En estos juicios no habrá condenación en costas, pero los gastos de ejecución serán siempre a cargo del demandado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 958.
 
@@ -6487,11 +6491,11 @@ III. Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo d
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en estos juicios, ocurrirá al alcalde presentando sus pruebas, y éste con audiencia inmediata de las partes resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre los derechos controvertidos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 TITULO DECIMOSEPTIMO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ### CAPITULO UNICO. DE LOS JUICIOS DE RECTIFICACION O MODIFICACION
 
@@ -6515,7 +6519,7 @@ Cuando la solicitud se fundamente en la existencia de violencia intrafamiliar, o
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 963.
 
@@ -6531,7 +6535,7 @@ En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a 
 
 No se requieren formalidades especiales, para acudir ante el Juez competente cuando se trate de investigación de la paternidad a que se refiere el artículo 396 del Código Civil del Estado, así como cuando se solicite la declaración, preservación o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio, oposición de maridos, padres y tutores o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos y en general todas las cuestiones familiares que reclamen la intervención judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 965.
 
@@ -6589,7 +6593,7 @@ La apelación deberá interponerse en la forma y términos previstos por éste C
 
 Cuando la tramitación del juicio se haya regido por disposiciones generales de éste Código, igualmente se regirán por estas disposiciones, por lo que toca a los recursos: pero en todo caso, si la parte recurrente careciere de abogado, la propia sala solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días más para enterarse del asunto a efecto de que haga valer los agravios o cualquier derecho a nombre de la parte que asesore.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 973.
 
@@ -6627,11 +6631,11 @@ Los incidentes se decidirán con un escrito de cada parte y sin suspensión del 
 
 En todo lo no previsto, regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente Título.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE AGOSTO DE 2004)</small>
 
 TITULO DECIMOOCTAVO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 979.
 
@@ -6705,7 +6709,7 @@ El Secretario General del Despacho, Lic. Raymundo Manzano Trovamala.
 
 Al C..
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1949.
 
@@ -6751,7 +6755,7 @@ SEGUNDO.- La tramitación de los negocios que estén pendientes al entrar en vig
 
 P.O. 18 DE ENERO DE 1986.
 
-DECRETO No. 136, QUE REFORMA EL ARTICULO 399 DEL PRESENTE CODIGO.
+DECRETO No. 136, QUE REFORMA EL ARTÍCULO 399 DEL PRESENTE CÓDIGO.
 
 PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
@@ -6759,7 +6763,7 @@ SEGUNDO.- En los juicios ordinarios actualmente en trámite, que se encuentren e
 
 P.O. 18 DE ENERO DE 1986.
 
-DECRETO No. 137, QUE REFORMA EL ARTICULO 116 DEL PRESENTE CODIGO.
+DECRETO No. 137, QUE REFORMA EL ARTÍCULO 116 DEL PRESENTE CÓDIGO.
 
 PRIMERO.- La reforma y adición a que se refiere el presente decreto, entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
@@ -6767,7 +6771,7 @@ SEGUNDO.- En los negocios iniciados antes del decreto de nueve de junio de mil n
 
 P.O. 18 DE ENERO DE 1986.
 
-DECRETO No. 138, QUE REFORMA EL ARTICULO 93, PRIMER PARRAFO Y 94, PRIMER PARRAFO DEL PRESENTE CODIGO.
+DECRETO No. 138, QUE REFORMA EL ARTÍCULO 93, PRIMER PÁRRAFO Y 94, PRIMER PÁRRAFO DEL PRESENTE CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -6779,7 +6783,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 18 DE ENERO DE 1986.
 
-DECRETO No. 139, QUE REFORMA LOS ARTICULOS 931 Y 933 DEL PRESENTE CODIGO.
+DECRETO No. 139, QUE REFORMA LOS ARTÍCULOS 931 Y 933 DEL PRESENTE CÓDIGO.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
 
@@ -6848,3 +6852,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente al de su publica
 P.O. 13 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
