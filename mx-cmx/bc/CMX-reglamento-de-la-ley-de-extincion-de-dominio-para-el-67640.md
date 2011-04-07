@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-extincion-de-dominio-para-el-67640"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-24"
-last_updated: "2009-10-28"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67640&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-03-24"
 
 REGLAMENTO DE LA LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 24 de marzo de 2009.
 
@@ -48,9 +48,9 @@ II. Agente del Ministerio Público: Agente del Ministerio Público especializado
 
 III. Bienes: Todos los que puedan ser objeto de apropiación que no estén excluidos del comercio, ya sean muebles e inmuebles, y que actualicen los supuestos señalados en los artículos 5 y 9 de la Ley;
 
-IV. Comisión: Comisión Técnica Consultiva;
+IV. (DEROGADA, G.O. 7 DE ABRIL DE 2011)
 
-V. Consejo Ciudadano: El Consejo Ciudadano de Seguridad Pública y Procuración de Justicia del Distrito Federal;
+V. (DEROGADA, G.O. 7 DE ABRIL DE 2011)
 
 VI. Coordinación: Coordinación Técnica;
 
@@ -84,45 +84,7 @@ En lo no previsto por este ordenamiento se aplicarán supletoriamente la Ley de 
 
 ###### ARTÍCULO 4.
 
-La Procuraduría conformará una Comisión Técnica Consultiva que estará integrada por un representante de:
-
-I. La Subprocuraduría Jurídica y de Derechos Humanos;
-
-II. La Coordinación de Agentes del Ministerio Público Auxiliares del Procurador;
-
-> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
-
-III. La Subprocuraduría de Averiguaciones Previas Centrales, a través del titular de la Fiscalía que se encuentre directamente vinculado con la investigación del delito que esté relacionado con el ejercicio de la Acción de Extinción de Dominio;
-
-> <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
-
-IV. La Subprocuraduría de Averiguaciones Previas Desconcentradas, a través del titular de la Fiscalía que se encuentre directamente vinculado con la investigación del delito que esté relacionado con el ejercicio de la Acción de Extinción de Dominio;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE OCTUBRE DE 2009)</small>
-
-V. El Consejo Ciudadano; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 28 DE OCTUBRE DE 2009)</small>
-
-VI. La Unidad de Inteligencia Financiera.
-
-La Comisión tendrá como objetivos, entre otros, emitir su opinión respecto del ejercicio de la acción. Así como asesorar al Procurador en las consultas de ampliación del término para la preparación de la acción, improcedencia y desistimiento que le formulen los Agentes del Ministerio Público, así como las demás relativas al tema de la Extinción de Dominio.
-
-La Comisión será presidida por la Subprocuraduría Jurídica y de Derechos Humanos y funcionará de conformidad con el Manual de Operación que emita el Procurador.
-
-Los representantes deberán contar con nivel mínimo de Director de Área.
-
-> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2009)</small>
-
-Los integrantes señalados en las fracciones I y II tomarán las decisiones de la Comisión. Los integrantes señalados en las fracciones III, IV, V y VI tendrán funciones de asesoría e información y sus opiniones no serán vinculatorias.
-
-> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2009)</small>
-
-La Consejería Jurídica y de Servicios Legales, a través de la Dirección General de Servicios Legales, coadyuvará con el Agente del Ministerio Público mediante la formulación de observaciones al escrito inicial de demanda, previamente a su presentación, y respecto a la estrategia a seguir en el ejercicio de la acción y la substanciación del procedimiento.
-
-> <small>(ADICIONADO, G.O. 26 DE JUNIO DE 2009)</small>
-
-El Agente del Ministerio Público deberá remitir proyecto del escrito inicial de demanda en todos los asuntos en que vaya a ejercitar la acción y hará del conocimiento de la Comisión las observaciones que reciba para que determinen lo conducente.
+(DEROGADO, G.O. 7 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 5.
 
@@ -244,9 +206,11 @@ La Oficialía Mayor, a petición del Agente del Ministerio Público, practicará
 
 ### CAPÍTULO V. DEL DESTINO DE LOS BIENES
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-En el plazo de quince días hábiles posteriores a la emisión del avalúo de los bienes de los que se haya declarado la Extinción de Dominio, la Oficialía Mayor convocará a participar en una reunión de trabajo a representantes de:
+En el plazo de quince días hábiles posteriores a la emisión del avalúo de los bienes de los que se haya declarado la Extinción de Dominio mediante sentencia ejecutoriada, la Oficialía Mayor convocará a participar en una reunión de trabajo a representantes de:
 
 I. La Procuraduría;
 
@@ -256,11 +220,15 @@ III. La Secretaría de Finanzas; y
 
 IV. Los demás que considere necesarios.
 
-Con la finalidad de determinar el rubro del bienestar social al que serán destinados o, en su caso, el porcentaje de bienes fungibles que se aplicarán a la Procuraduría y a la Secretaría.
+A efecto de que la Oficialía Mayor determine el destino de bienestar social de los bienes a que se refiere el artículo 4 de la Ley, que propongan los integrantes de la reunión. La Oficialía Mayor, con base en las propuestas, determinará en la sesión si los bienes se destinan al rubro propuesto o se enajenan para destinarlos a los rubros de seguridad pública, procuración de justicia y prevención del delito.
 
-Los participantes, con nivel mínimo de Director General, deberán acudir a la reunión con propuestas por escrito, en donde justifique el destino del bien, y la sesión se podrá suspender sólo una vez para que, en un plazo de tres días hábiles, la Oficialía Mayor, escuchando a los convocados, tome la determinación respecto del destino de los bienes. En todo caso se deberá señalar, cuáles de los bienes se enajenarán para el pago de la retribución, los avalúos, gastos de administración de bienes muebles e inmuebles, publicación de edictos, así como los demás que resulten necesarios.
+Los participantes, con nivel mínimo de Director General, deberán acudir a la reunión con su propuesta y justificación.
 
-Si no existen recursos suficientes para el pago de los conceptos señalados en la última parte del párrafo anterior, la Dependencia, Órgano Desconcentrado o Entidad que vaya a ser receptora de los bienes, para el bienestar social, deberá gestionar la ampliación líquida presupuestaria para cubrirlos antes su recepción.
+La sesión se podrá suspender sólo una vez para que, en un plazo de tres días hábiles, la Oficialía Mayor, escuchando a los convocados, tome la determinación respecto del destino de los bienes.
+
+En todo caso la Oficialía Mayor deberá señalar, cuáles de los bienes se enajenarán y que parte de su producto se utilizará para el pago de la retribución, los avalúos, gastos de administración de bienes muebles e inmuebles, publicación de edictos, así como los demás que resulten necesarios.
+
+Si no existen recursos suficientes para el pago de los conceptos señalados en la última parte del párrafo anterior, la Dependencia, Órgano Desconcentrado o Entidad que vaya a ser receptora de los bienes, deberá gestionar la ampliación líquida presupuestaria para cubrirlos antes su (sic) recepción.
 
 ###### ARTÍCULO 21.
 
@@ -419,3 +387,9 @@ G.O. 28 DE OCTUBRE DE 2009.
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 7 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
