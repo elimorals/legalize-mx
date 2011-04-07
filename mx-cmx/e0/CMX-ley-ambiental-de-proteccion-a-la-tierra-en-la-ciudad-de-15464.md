@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-02-18"
+last_updated: "2011-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -194,11 +194,25 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 AUDITORÍA AMBIENTAL: Examen metodológico de las actividades, operaciones y procesos, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
-AUTORIZACIÓN DE IMPACTO AMBIENTAL: autorización otorgada por la Secretaría del Medio Ambiente como resultado de la presentación y evaluación de un informe preventivo, manifestación o estudio de impacto ambiental o de riesgo, según corresponda cuando previamente a la realización de una obra o actividad se cumplan los requisitos establecidos en esta Ley para evitar o en su defecto minimizar y restaurar o compensar los daños ambientales que las mismas puedan ocasionar;
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 7 DE ABRIL DE 2011)</small>
+
+AUTORIZACIÓN DE IMPACTO AMBIENTAL: Autorización otorgada por la Secretaría del Medio Ambiente como resultado de la presentación y evaluación de una declaratoria de cumplimiento ambiental, informe preventivo, manifestación o estudio de impacto ambiental y riesgo según corresponda cuando previamente a la realización de una obra o actividad se cumplan los requisitos establecidos en esta Ley para evitar o en su defecto minimizar y restaurar o compensar los daños ambientales que las mismas puedan ocasionar;
 
 BARRANCAS: Depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales, que constituyen zonas importantes del ciclo hidrológico y biogeoquímico;
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CENTRO COMERCIAL: Instalaciones que se destinen a la venta al público de bienes y servicios;
+
 CENTRO DE VERIFICACIÓN: Local determinado por las autoridades competentes y autorizado por éstas, para llevar a cabo la medición de emisiones contaminantes con el equipo autorizado, provenientes de los vehículos automotores en circulación;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CONJUNTO HABITACIONAL: Conjunto de viviendas concebidas dentro de un concepto integral, generalmente aprobado como un único proyecto o programa por la autoridad pública pertinente, casi siempre dentro del formato de propiedad horizontal compartida;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CONJUNTO HABITACIONAL MIXTO: Conjunto de viviendas que permite una mezcla más intensa de usos de suelo, pudiendo coexistir edificios de uso puramente habitacional, con otros de uso de oficinas, administrativos y de industria no contaminante;
 
 COMPENSACIÓN: el resarcimiento del deterioro ocasionado por cualquier obra o actividad en un elemento natural distinto al afectado, cuando no se pueda restablecer la situación anterior en el elemento afectado;
 
@@ -217,6 +231,10 @@ CUENCA DE MÉXICO: El ámbito geográfico comprendido por los estados de México
 CUERPO RECEPTOR: La corriente, depósito de agua, el cauce o bien del dominio público del Distrito Federal en donde se descargan, infiltran o inyectan aguas residuales;
 
 DAÑO AMBIENTAL: Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+DECLARATORIA DE CUMPLIMIENTO AMBIENTAL: Instrumento de evaluación ambiental por virtud del cual los interesados declaran bajo protesta de decir verdad, que sus proyectos, obras o actividades no requieren de la presentación de una manifestación de impacto ambiental, informe preventivo, estudio de riesgo dado que los impactos ambientales y medidas de mitigación, control y compensación han sido tipificadas por la Secretaría y se encuentran regulados a través del cumplimiento de la normatividad aplicable vigente;
 
 DEMARCACIÓN TERRITORIAL: Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de la organización político-administrativa;
 
@@ -241,6 +259,10 @@ EMISIONES CONTAMINANTES: La generación o descarga de materia o energía, en cua
 ENERGÍA SOLAR: Radiación electromagnética emitida por el sol;
 
 ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización u operación normal de la obra o actividad de que se trate;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+EVALUACIÓN AMBIENTAL ESTRATÉGICA: Procedimiento que incluye el conjunto de estudios e informes técnicos que permiten estimar los efectos de un plan o programa de gran trascendencia de desarrollo sectorial e institucional sobre el medio ambiente, con el fin de prevenirlos, compensarlos y mitigarlos;
 
 FAUNA SILVESTRE: las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del hombre, así como los animales domésticos, que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
@@ -290,6 +312,10 @@ PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y med
 
 PRESTADORES DE SERVICIOS AMBIENTALES: Prestador de servicios de impacto ambiental es la persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable del contenido de los mismos;
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO: La persona física o moral que elabora informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo, daño ambiental, evaluaciones ambientales estratégicas, declaratorias de cumplimiento ambiental, informes de cumplimiento de condicionantes y/o de disposiciones ambientales;
+
 PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
 PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
@@ -299,6 +325,10 @@ PROTECCIÓN ECOLÓGICA: El conjunto de políticas, planes, programas, normas y a
 QUEMA: Combustión inducida de cualquier sustancia o material;
 
 RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+RECONOCIMIENTO TÉCNICO: El reconocimiento que se realiza en el sitio donde pretende desarrollarse el programa, obra o actividad por los evaluadores de impacto ambiental y/o riesgo autorizados por la Secretaría para comprobar y constatar el contenido de los estudios de impacto ambiental en sus diferentes modalidades, o de evaluación de daño ambiental;
 
 RECURSOS NATURALES: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
@@ -424,11 +454,21 @@ V. Evaluar las manifestaciones de impacto ambiental de su competencia, y en su c
 
 VI. Evaluar y resolver sobre los estudios de riesgo;
 
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VI Bis. Dictaminar los estudios de daño ambiental y en su caso, determinar e imponer las disposiciones ambientales que deberán observarse durante la realización de proyectos, obras o actividades; en las etapas correspondientes;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VI Ter. Ordenar la realización de los reconocimientos técnicos para comprobar y constatar el contenido de los estudios de impacto ambiental en sus diferentes modalidades o de evaluación de daño ambiental;
+
 VII. Expedir normas ambientales para el Distrito Federal en materias de competencia local;
 
 VIII. Desarrollar programas que fomenten la autorregulación y la auditoría ambiental;
 
-IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, el certificado de bajas emisiones;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, la certificación de la reducción de emisiones contaminantes;
 
 X. Establecer los criterios ambientales a que deberán sujetarse los programas, adquisiciones y obras de las dependencias del Gobierno del Distrito Federal;
 
@@ -516,7 +556,9 @@ XXIX Bis.- Realizar acciones de vigilancia y supervisión para verificar el cump
 
 XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a la Ley General, en materias de competencia local, esta Ley y sus reglamentos;
 
-XXXI. Otorgar y revocar los permisos, licencias y las autorizaciones establecidas en la presente Ley;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+XXXI. Otorgar y revocar los permisos, licencias, autorizaciones y certificaciones establecidas en la presente Ley;
 
 XXXII. Clausurar o suspender las obras o actividades y, en su caso solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se transgredan las disposiciones de esta Ley y demás aplicables;
 
@@ -718,7 +760,9 @@ VII. Los permisos y autorizaciones a que se refiere esta ley;
 
 VIII. La auditoría ambiental;
 
-IX. El certificado de bajas emisiones;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IX. El sistema de certificación y el certificado de reducción de emisiones contaminantes;
 
 X. Los convenios de concertación;
 
@@ -1010,7 +1054,25 @@ IV. Procesos productivos y de consumo.
 
 La evaluación de impacto ambiental es el procedimiento a través del cual la autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Distrito Federal, a fin de evitar o reducir al mínimo efectos negativos sobre el ambiente, prevenir futuros daños al ambiente y propiciar el aprovechamiento sustentable de los recursos naturales.
 
-El procedimiento de evaluación de impacto ambiental se inicia mediante la presentación del documento denominado manifestación de impacto ambiental ante la Secretaría y concluye con la resolución que esta última emita. La elaboración de la manifestación de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+El procedimiento de evaluación de impacto ambiental se inicia mediante la presentación del estudio de impacto ambiental en sus diferentes modalidades ante la Secretaría y concluye con la resolución ó dictamen que esta emita. La elaboración del estudio de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento correspondiente a la materia.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Las modalidades de los estudios de impacto ambiental son:
+
+I. Evaluación ambiental estratégica;
+
+II. Manifestación de impacto ambiental específica;
+
+III. Manifestación de impacto ambiental general;
+
+IV. Informe preventivo;
+
+V. Estudio de riesgo ambiental; y
+
+VI. Declaratoria de cumplimiento ambiental.
 
 ###### ARTÍCULO 45.
 
@@ -1020,9 +1082,11 @@ En los casos de aquellas obras y actividades donde además de la autorización d
 
 La Secretaría y las Secretarías de Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades podrán interpretar y aplicar para efectos administrativos en la esfera de sus respectivas competencias, las disposiciones de esta Ley y de los programas de ordenamiento ecológico territorial, así como, de la Ley de Desarrollo Urbano del Distrito Federal, y de los Programas de Desarrollo Urbano, respectivamente, y del Reglamento al que se refiere el párrafo anterior, emitiendo para tal efecto, de manera conjunta los dictámenes, circulares y recomendaciones en materia de impacto urbano y ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 46.
 
-Las personas físicas o morales interesada (sic) en la realización de obras o actividades que impliquen o puedan implicar afectación del medio ambiente o generación de riesgos requieren autorización de impacto ambiental y, en su caso, de riesgo previo a la realización de las mismas. Las obras y actividades que requieren autorización por encontrarse en el supuesto anterior, son las siguientes:
+Las personas físicas o morales interesadas en la realización de obras o actividades que impliquen o puedan implicar afectación del medio ambiente o generación de riesgos requieren evaluación de impacto ambiental y, en su caso, de riesgo previo a la realización de las mismas. Las obras y actividades que requieren autorización por encontrarse en el supuesto anterior, son las siguientes:
 
 I. Los programas que en general promuevan cambios de uso en el suelo de conservación o actividades económicas o prevean el aprovechamiento de los recursos naturales del Distrito Federal;
 
@@ -1040,11 +1104,19 @@ a) Las que colinden con áreas de valor ambiental, áreas naturales protegidas, 
 
 b) Nuevas actividades u obras de infraestructura, servicios o comerciales o sus ampliaciones, cuyos procesos requieran de medidas, sistemas o equipos especiales para no afectar los recursos naturales o para cumplir con las normas ambientales para el Distrito Federal; y
 
-c) Obras, actividades o cambios de uso de suelo que se pretendan realizar en predios con cobertura forestal significativa o cuerpos de agua competencia del Distrito Federal.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-V. Obras y actividades para la explotación de minas y yacimientos de área, cantera, tepetate, piedra, arcilla, y en general cualquier yacimiento pétreo;
+c) Obras, actividades o cambios de uso de suelo que se pretendan realizar en predios con cobertura arbórea significativa o cuerpos de agua competencia del Distrito Federal;
 
-VI. Obras y actividades que afecten la vegetación y los suelos de escurrimientos superficiales, barrancas, cauces, canales y cuerpos de agua del Distrito Federal, y en general cualquier obra o actividad para la explotación de la capa vegetal;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+V. Obras y actividades para la extracción de materiales pétreos, cantera, tepetate, arcilla, y en general cualquier yacimiento; así como su regeneración ambiental;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VI. Obras y actividades que afecten la vegetación y los suelos de escurrimientos superficiales, barrancas, cauces, canales y cuerpos de agua del Distrito Federal, y en general cualquier obra o actividad para la explotación de la capa vegetal; con excepción de los que sean de competencia federal.
+
+Los casos y modalidades para la presentación de los estudios de impacto ambiental señalados en el párrafo anterior se establecerán en el Reglamento correspondiente a la materia y, en su caso, se precisarán en los manuales de trámites y servicios, guías técnicas, formatos y acuerdos administrativos correspondientes;
 
 VII. Las obras y actividades que se establezcan en el programa de ordenamiento ecológico del territorio;
 
@@ -1072,49 +1144,63 @@ XVII. Construcción de estaciones de gas y gasolina.
 
 El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo, así como la determinación de las obras o actividades que, no obstante estar previstas en los supuestos a que se refiere este artículo, por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos o no causen o puedan causar riesgos, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental previsto en este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 47.
 
-Para obtener autorización en materia de impacto ambiental, los interesados, previamente al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, una manifestación de impacto ambiental, en la modalidad que corresponda en los términos del reglamento, pero en todo caso deberá contener por lo menos:
+Para obtener autorización en materia de impacto ambiental, los interesados, previamente al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, el estudio de impacto ambiental en la modalidad que corresponda, conforme a lo señalado en el artículo 44 de la presente Ley, el cual deberá contener, según corresponda por lo menos:
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-I. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación y nombre, denominación o razón social, nacionalidad, domicilio y dirección de la persona física o moral responsable de elaborar la manifestación de impacto ambiental;
+I. Nombre, denominación o razón social, nacionalidad, domicilio para oír y recibir notificaciones, personas señaladas para tal efecto, teléfono y correo electrónico de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación y nombre, denominación o razón social, nacionalidad, domicilio, teléfono y correo electrónico de la persona física o moral responsable de elaborar la manifestación de impacto ambiental, así como copia cotejada de la cédula profesional o certificación o acreditación en la materia ambiental y/o riesgo;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
+II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido, incluyendo la manifestación de las actividades previas realizadas en el predio,; (sic) el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
 
 III. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+III bis. Delimitación y justificación del área de influencia del proyecto;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
 IV. Vinculación con las normas y regulaciones sobre uso del suelo en el área correspondiente;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-V. Identificación y descripción de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas, y
+V. Identificación, descripción y evaluación de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas determinando los indicadores ambientales del proyecto; y
 
-> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-VI. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
+VI. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas, así como el escenario ambiental modificado.
 
-Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente, el cual será considerado al evaluarse el impacto ambiental.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente, el cual será considerado al evaluarse el impacto ambiental. La evaluación de riesgo deberá incluir la identificación, jerarquización, análisis y evaluación de los riesgos ambientales y las medidas pertinentes.
 
-Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Si después de la presentación de un estudio de impacto ambiental se realizan modificaciones al proyecto de los programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 48.
 
 En las áreas naturales protegidas se requerirá de una manifestación de impacto ambiental en su modalidad específica para toda actividad, obra y operación pública o privada que se pretenda desarrollar.
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 49.
 
-Una vez que la autoridad competente reciba una manifestación de impacto ambiental integrará, dentro de los cinco días hábiles siguientes, el expediente respectivo que pondrá a disposición del público, con el fin de que pueda ser consultado por cualquier persona.
+Una vez ingresada la solicitud de autorización de impacto y riesgo ambiental, así como sus anexos se considerará integrado el expediente y estará dispuesto para consulta del público.
 
-Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente, y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
+Con el objeto de agilizar y simplificar el procedimiento de evaluación y comprobar que la información sea la mínima suficiente, la Secretaría implementará un proceso de revisión previa, el cual consistirá en la aplicación de una lista de chequeo por parte del área encargada de la evaluación, del cual se determinará lo siguiente:
+
+I. El ingreso del trámite para su evaluación correspondiente, cuando no se detecte algún faltante de la lista de chequeo.
+
+II. Informar al promovente las omisiones o inconsistencias detectadas que debe subsanar, haciendo entrega de una copia de la lista de chequeo donde se indican los faltantes.
+
+El interesado de la obra o actividad, al momento de ingresar la solicitud de impacto ambiental en sus diferentes modalidades, determinará en la carpeta de consulta para el público, la información que debe mantenerse en reserva de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; en caso de no hacerlo, se entenderá que toda la información puede ser consultada por cualquier persona.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2009)</small>
 
@@ -1134,23 +1220,31 @@ Los promoventes de obras o actividades que requieran una manifestación de impac
 
 Una vez presentados las observaciones y comentarios, la Secretaría los ponderará y los considerará al momento de resolver sobre la autorización en materia de impacto ambiental.
 
-En su caso, la Secretaría deberá responder por escrito a los interesados las razones fundadas por las cuales los comentarios a que se refiere el párrafo primero de este artículo no fueron tomados en consideración dentro de la resolución correspondiente, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley, en contra de la resolución por la cual la Secretaría ponga fin al procedimiento de evaluación de impacto ambiental.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+La Secretaría al momento de emitir la resolución correspondiente de manera fundada y motivada, indicará a los interesados las razones por las cuales los comentarios a que se refiere el párrafo primero de este artículo fueron o no tomados en consideración, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley, en contra de la resolución por la cual la Secretaría ponga fin al procedimiento de evaluación de impacto ambiental.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 52.
 
-Al realizar la evaluación del impacto ambiental, la autoridad se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio; a los programas de desarrollo urbano; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo; a las normas y demás disposiciones jurídicas que resulten aplicables.
+Al realizar la evaluación del impacto ambiental, la autoridad se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio; a los programas de desarrollo urbano; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo, programas de rescate y recuperación; a las normas y demás disposiciones jurídicas que resulten aplicables.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 52 Bis.
+
+Para contar con mayores elementos de evaluación y, en su caso, comprobar y constar el contenido de los estudios de impacto ambiental en sus diferentes modalidades, o de evaluación de daño ambiental, la Secretaria a través de su personal autorizado podrá realizar reconocimientos técnicos al sitio donde se pretenda o desarrolla el programa, obra o actividad.
+
+La Secretaría establecerá de común acuerdo con los promoventes del programa, obra o actividad que se pretenda desarrollar, la fecha y hora para la realización del reconocimiento técnico. El procedimiento para la realización de los reconocimientos técnicos se establecerá en el Reglamento correspondiente a la materia.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 53.
 
 Una vez evaluada la manifestación de impacto ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
-> <small>(REFORMADA G.O. 10 DE FEBRERO DE 2004)</small>
-
 I. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
-
-> <small>(REFORMADA G.O. 10 DE FEBRERO DE 2004)</small>
 
 II. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, sujetándose a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución del proyecto, así como en caso de accidentes;
 
@@ -1158,49 +1252,67 @@ III. Negar la autorización solicitada, cuando:
 
 a) Se contraponga con lo establecido en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales del Distrito Federal, los planes y programas de ordenamiento ecológico y de desarrollo urbano y demás disposiciones legales aplicables;
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y (sic)
 
-b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate;
 
-c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
-
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+d) Cuando la evaluación de los impactos y riesgos ambientales no garanticen la integridad del ambiente y de las personas.
 
 La Secretaría podrá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o al ambiente.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
-
-La Secretaría deberá emitir la resolución correspondiente en un plazo de quince días hábiles, a partir de que se integre la información necesaria. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que la realización de la obra o actividad ha sido negada.
-
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+La Secretaría podrá por una sola ocasión, en un plazo no mayor a cinco días hábiles a partir del ingreso de la solicitud, requerir información adicional para complementar o precisar el contenido técnico de la manifestación de impacto ambiental en sus diferentes modalidades y estudios de riesgo, para lo cual el interesado deberá dar respuesta en un plazo no mayor a cinco días hábiles.
 
 En todos los casos de autorizaciones de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento del cumplimiento de las disposiciones y medidas de prevención, mitigación y compensación de impactos ambientales que hubiere establecido en las resoluciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+La Secretaría deberá emitir la resolución correspondiente en un plazo de quince días hábiles, a partir de que se integre la información necesaria. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que la realización de la obra o actividad ha sido negada.
+
+La Secretaría establecerá los procedimientos para el reporte del cumplimiento de condicionantes, que podrán presentar los interesados a través de los prestadores de servicios profesionales acreditados.
+
+En todos los casos de autorizaciones de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento del cumplimiento de las disposiciones y medidas de prevención, mitigación y compensación de impactos ambientales que hubiere establecido en las resoluciones correspondientes.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 54.
 
-Las personas que presten servicios de evaluación de impacto ambiental, serán responsables ante la autoridad competente, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo, que elaboren. Los prestadores de servicios declararán bajo protesta de decir verdad que en dichos documentos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Las personas que presten servicios de evaluación de impacto ambiental, serán responsables ante la autoridad competente, de los informes preventivos, declaratorias de cumplimiento ambiental, estudios de daño ambiental y manifestaciones de impacto ambiental en sus diferentes modalidades, que elaboren.
 
-En caso de incumplimiento o exista falsedad en la información proporcionada, el prestador de servicios será corresponsable con el promovente y se hará acreedor a las sanciones correspondientes y la Secretaría procederá a negar la autorización solicitada o a la cancelación del trámite de evaluación correspondiente.
+Los prestadores de servicios declararán bajo protesta de decir verdad que en dichos documentos se incorporan las mejores técnicas y metodologías existentes y que serán aplicadas en la identificación y evaluación de los impactos y riesgos, así como la determinación de medidas de prevención y mitigación más efectivas. En caso de incumplimiento o falsedad en la información proporcionada, el prestador de servicios será corresponsable con el interesado y se hará acreedor a las sanciones previstas en la presente ley y en el Reglamento correspondiente a la materia, y la Secretaría procederá a negar la autorización solicitada o a la cancelación del trámite de evaluación correspondiente.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+Asimismo, los informes preventivos, declaratorias de cumplimiento ambiental, estudios de daño ambiental, manifestaciones de impacto ambiental en sus diferentes modalidades podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, existirá una corresponsabilidad con el interesado respecto del contenido del documento.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 55.
 
-Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrio (sic) ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar a la Delegación el documento denominado informe preventivo, en los supuestos establecidos en el reglamento, o bien, podrá consultar a la Secretaría si las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, antes de iniciar la obra o actividad.
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrio ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, estarán sujetas a la evaluación de impacto ambiental, a través de la presentación de un informe preventivo ante la Secretaría, o bien, podrá consultar a la Secretaría si las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, antes de iniciar la obra o actividad.
+
+Tanto la presentación del informe preventivo como la consulta, a elección de los interesados, podrán realizarse a través de los medios de comunicación electrónica, produciendo los mismos efectos que los presentados en papel cuando aparezca en los mismos la firma electrónica registrada y reconocida por la Administración Pública del Distrito Federal.
+
+En los términos que establezca el Reglamento correspondiente a la materia o las disposiciones administrativas aplicables, la Secretaría podrá hacer uso de medios de comunicación electrónica para realizar notificaciones, citatorios y requerimientos de información o documentación a los interesados.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 56.
 
-En el reglamento que al efecto se expida se determinarán aquellas obras o actividades que se sujetarán a autorización de informe preventivo, así como el procedimiento y los criterios a seguir por parte de las Delegaciones.
+Las obras y actividades en suelo urbano que estarán sujetas a la evaluación de impacto ambiental a través de la presentación de un informe preventivo ante la Secretaría, además de las que se señalen en el Reglamento correspondiente a la materia, son las siguientes:
 
-La Secretaría en todo momento podrá requerir a las Delegaciones aquellos expedientes que siendo de su competencia, dada la información presentada, la dimensión y tipo de la obra, así como los posibles impactos que pudiere generar, se considere que es la Secretaría la que emitirá la autorización correspondiente.
+a) Conjuntos habitacionales;
+
+b) Conjuntos habitacionales mixtos;
+
+c) Centros comerciales;
+
+d) Oficinas, y
+
+e) Estacionamientos mayores a diez mil metros cuadrados.
 
 ###### ARTÍCULO 57.
 
 El informe preventivo deberá contener:
 
-I. Datos generales de quien pretenda realizar la obra o actividad proyectada, o en su caso, de quien hubiere ejecutado los proyectos o estudios previos correspondientes;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+I. Nombre, denominación o razón social, nacionalidad, domicilio para oír y recibir notificaciones, personas señaladas para tal efecto, teléfono y correo electrónico del interesado de la obra o actividad proyectada y del responsable de la elaboración del informe preventivo; este último, además deberá presentar copia cotejada de la cédula profesional o certificación o acreditación en la materia;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1230,11 +1342,95 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 58.
 
-Una vez recibido el informe preventivo, la autoridad competente, en un plazo no mayor a veinte días hábiles, les comunicará a los interesados si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y plazo para hacerlo. Transcurrido el plazo señalado, sin que la autoridad emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
+Una vez recibido el informe preventivo, la autoridad competente, en un plazo no mayor a cinco días hábiles, comunicará, preferentemente por medio de correo electrónico a los interesados si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y plazo para hacerlo. Transcurrido el plazo señalado, sin que la autoridad emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
 
 En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe preventivo, pretendiendo se aplique la afirmativa ficta, se entenderá que el ingreso del procedimiento para la autorización del informe preventivo es inexistente, independientemente de las sanciones previstas en esta Ley.
+
+La Secretaría en un plazo no mayor a quince días hábiles, a partir de ingresado el informe preventivo o recibida la información adicional solicitada en su caso, emitirá la resolución correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Bis.
+
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances produzcan impactos ambientales tipificados en la normatividad ambiental vigente quedarán sujetos a la presentación ante la Secretaría de una Declaratoria de Cumplimiento Ambiental.
+
+La Declaratoria de Cumplimiento Ambiental es el documento firmado por el interesado bajo protesta de decir verdad, a través del cual se comunica a la Secretaría sobre la realización de las siguientes obras o actividades:
+
+I. De demolición;
+
+II. Rehabilitación;
+
+III. Emergencia;
+
+IV. Modificación, ampliación, sustitución de infraestructura, conservación y mantenimiento;
+
+V. Desazolve;
+
+VI. Conjuntos habitacionales, conjuntos habitacionales mixtos y oficinas de hasta diez mil metros cuadrados totales de construcción;
+
+VII. Centros comerciales de hasta diez mil metros cuadrados totales de construcción; y
+
+VIII. Estacionamientos.
+
+Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las disposiciones ambientales señaladas en el Reglamento correspondiente a la materia y a las disposiciones ambientales contenidas en la legislación ambiental vigente.
+
+El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Ter.
+
+Las personas físicas o morales que realicen obras de construcción de conjuntos habitacionales u oficinas, deberán realizar el pago de aprovechamientos establecido en el Código Financiero del Distrito Federal, para la realización de acciones necesarias para prevenir, minimizar, mitigar, compensar y/o resarcir las afectaciones o alteraciones a los recursos naturales y el ambiente.
+
+También deberán cubrir el pago de aprovechamientos las obras de construcción, operación y mantenimiento de conjuntos habitacionales o de oficinas en predios que colinden con barrancas, suelo de conservación, áreas naturales protegidas, áreas de valor ambiental o cuerpo de agua, los que además deberán cumplir con las condicionantes establecidas en la autorización de impacto ambiental correspondiente.
+
+Para el caso de conjuntos mixtos, el pago de aprovechamientos se calculará conforme a la superficie de construcción que corresponda a los usos habitacional y/u oficinas. Se excluirá del cálculo la superficie de estacionamiento y/o de uso comercial.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Quater.
+
+La Declaratoria de Cumplimiento Ambiental podrá presentarse por medio electrónico en los términos de las disposiciones aplicables, en cuyo caso el acuse de recibo oficial correspondiente será válido únicamente cuando el interesado hubiere presentado la documentación probatoria indicada.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Quinquies.
+
+La Declaratoria Ambiental de Cumplimiento deberá presentarse ante la Secretaría, en original y copia, previamente a la ejecución de las actividades pretendidas y ajustarse al siguiente contenido:
+
+I. Formato de registro que para el efecto publique la Secretaría;
+
+II. Declaración firmada por el interesado, en la que bajo protesta de decir verdad, manifiesta las consideraciones bajo las cuales se ubica su proyecto que lo eximen de obtener la autorización en materia de impacto ambiental, incluyendo la documentación legal que respalde tales consideraciones;
+
+III. Datos generales de quien pretenda realizar la obra o actividad proyectada, o en su caso, de quien hubiere ejecutado los proyectos o estudios previos correspondientes;
+
+IV. Documentos que determinen el uso de suelo autorizado o permitido para el predio;
+
+V. Descripción de la obra o actividad proyectada;
+
+VI. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final;
+
+VII. Monto de la inversión requerida para ejecutar la obra o actividad, así como porcentaje de ésta que se destinará a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales;
+
+VIII. Programa calendarizado de ejecución de la obra o actividad indicando fechas de inicio y conclusión de las actividades; y (sic)
+
+IX. Medidas contempladas para la prevención o mitigación de impactos ambientales que pudieran ocasionarse con la realización de la obra o actividad;
+
+X. El comprobante del pago de los aprovechamientos establecidos en el Código Financiero del Distrito Federal.
+
+El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Sexies.
+
+Una vez recibida la declaratoria de cumplimiento ambiental el interesado podrá iniciar la obra o actividad, dando cumplimiento a las disposiciones ambientales que al efecto dicte la autoridad competente a través de informes semestrales o al término del proyecto.
+
+En aquellos casos que por negligencia, dolo, mala fe o pretendiendo inducir a error a la autoridad, se ingrese una declaratoria de cumplimiento ambiental, a sabiendas que lo procedente es la presentación de una Manifestación de Impacto Ambiental en cualquiera de las modalidades, Informe Preventivo o Estudio de Riesgo, dicha declaratoria se tendrá por no presentada independientemente de las medidas de seguridad y sanciones previstas en esta Ley y en el Reglamento correspondiente a la materia.
 
 ###### ARTÍCULO 59.
 
@@ -1260,47 +1456,71 @@ Las autorizaciones que se otorguen en materia de impacto ambiental estarán refe
 
 La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 61 Bis 1.
 
-Para obtener la Licencia Ambiental Única para el Distrito Federal a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría la solicitud correspondiente acompañada de la siguiente información:
+Para obtener la Licencia Ambiental Única para el Distrito Federal, a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría, en un plazo no mayor a 60 días hábiles a partir del inicio de operaciones del establecimiento, la solicitud correspondiente acompañada de la siguiente información:
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 I. Datos generales del solicitante;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 II. Ubicación de la fuente fija;
 
-III. Descripción del proceso;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. Distribución de maquinaria y equipo;
+III. Descripción del proceso y/o los servicios brindados;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IV. Horario de operación;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 V. Cantidad y tipo de materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 VI. Transporte de materias primas o combustibles al área de proceso;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 VII. Transformación de materias primas o combustibles;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 VIII. Productos, subproductos y residuos que se generen;
 
-IX. Los anexos, estudios, análisis y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar:
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-a) Emisiones a la atmósfera;
+IX. Los estudios y análisis, realizados por laboratorios autorizados por la Secretaría, conforme al artículo 200 de la presente Ley, y los anexos y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar;
 
-b) Descarga de aguas residuales;
-
-c) Generación y disposición de residuos no peligrosos;
-
-d) Generación de ruido y vibraciones; y
-
-e) Registro de emisiones y transferencia de contaminantes.
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 X. Almacenamiento, transporte y distribución de productos y subproductos;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 XI. Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 XII. Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; y
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 XIII. Programas de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia, podrá establecer la posibilidad de que la Solicitud se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1308,7 +1528,9 @@ XIII. Programas de acciones para el caso de contingencias atmosféricas, que con
 
 La información a que se refiere el artículo anterior deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
 
-Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de treinta días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de veinte días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1338,11 +1560,11 @@ Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la res
 
 Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61bis1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 61 Bis 5.
 
-El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente en la Gaceta Oficial del Distrito Federal.
+El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente, en el primer bimestre de cada año calendario, en la Gaceta Oficial del Distrito Federal.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1370,7 +1592,9 @@ I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente
 
 II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas. Para tal efecto, la Secretaría podrá promover el establecimiento de normas ambientales de Distrito Federal o normas mexicanas;
 
-III. El establecimiento de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+III. El establecimiento de sistemas de certificación de procesos, productos o desarrollo de infraestructura y equipamiento, y de edificaciones sustentables para inducir patrones de consumo, producción o de desarrollo urbano que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
 
 IV. Las demás acciones que induzcan a las personas físicas o morales a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
@@ -1380,11 +1604,11 @@ IV. Las demás acciones que induzcan a las personas físicas o morales a alcanza
 
 Los responsables de vehículos o flotillas podrán suscribir convenios de autorregulación en los que se comprometan a actualizar la tecnología de dichos vehículos o hacer conversiones a combustibles alternos en los términos que la Secretaría establezca.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 64 Bis 1.
 
-Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
+Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos, certificaciones y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1392,13 +1616,17 @@ Los convenios de autorregulación que se suscriban serán obligatorios y su incu
 
 Una vez firmado o firmados los convenios de autorregulación y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
 
-Integrado el expediente, la Secretaría revisará la información y documentación aportadas, así como el resultado de la inspección realizada y emitirá un certificado de bajas emisiones siempre y cuando se encuentren por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Integrado el expediente, la Secretaría revisará la información y documentación aportadas, así como el resultado de la inspección realizada y emitirá un certificado de reducción de emisiones contaminantes siempre y cuando se hayan logrado reducir por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
 
 ###### ARTÍCULO 66.
 
 La Secretaría elaborará y aplicará un programa de auditorías ambientales voluntarias, para lo cual deberá:
 
-I. Instrumentar un sistema de aprobación, acreditamiento y registro de peritos y auditores ambientales, ya sea personas físicas o morales, en los términos del reglamento respectivo de esta Ley;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+I. Instrumentar un sistema de aprobación, acreditamiento y registro de peritos y auditores ambientales, ya sean personas físicas o morales, en los términos de las reglas de carácter general que en materia de autorregulación y auditoría ambiental publique en la Gaceta Oficial del Distrito Federal la Secretaría;
 
 II. Desarrollar programas de capacitación en materia de peritajes y auditorías ambientales;
 
@@ -1530,9 +1758,17 @@ I. Adquieran, instalen y operen las tecnologías, sistemas, equipos y materiales
 
 II. Realicen desarrollo (sic) tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
 
-III. Integren organizaciones civiles con fines de desarrollo sustentable, que acrediten su personalidad jurídica ante la Secretaría; y
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. Lleven a cabo actividades que garanticen la conservación sustentable de los recursos naturales.
+III. Integren organizaciones civiles con fines de desarrollo sustentable, que acrediten su personalidad jurídica ante la Secretaría;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IV. Lleven a cabo actividades que garanticen la conservación sustentable de los recursos naturales, y
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+V. Desarrollen infraestructura y equipamiento, así como de edificaciones que en su diseño de concepto incorporen criterios de sustentabilidad;
 
 > <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -2830,11 +3066,11 @@ Las fuentes que descarguen aguas residuales distintas a las domésticas, deberá
 
 (DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 160.
 
-Se exceptúa de la obligación de contar con la Licencia Ambienta (sic) Única para el Distrito Federal a las descargas provenientes de los siguientes usos:
+Se exceptúa de la obligación de presentar los estudios de aguas residuales a través de la Licencia Ambiental Única para el Distrito Federal a las descargas provenientes de los siguientes usos:
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3038,11 +3274,13 @@ El reglamento de esta Ley y las normas ambientales para el Distrito Federal, est
 
 Para el establecimiento de esta clasificación, se deberá considerar la opinión de las autoridades competentes.
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 177.
 
-Quienes realicen actividades riesgosas, que por sus características no estén sujetas a la obtención de la autorización previa en materia de impacto ambiental deberán presentar para la autorización de la Secretaría un estudio de riesgo y un programa de prevención de accidentes.
+Quienes realicen actividades riesgosas, que por sus características no estén sujetas a la obtención de la autorización previa en materia de impacto ambiental deberán presentar para la autorización de la Secretaría, a través de escrito con firma autógrafa o por medios electrónicos autorizados un estudio de riesgo y un programa de prevención de accidentes.
 
-Una vez presentado el estudio de riesgo y el programa de prevención de accidentes, la Secretaría deberá resolver sobre su autorización en los plazos que establezca el reglamento.
+Una vez autorizado el estudio de riesgo, el interesado deberá presentar en la misma forma el programa de prevención de accidentes ante la Secretaría, quien deberá resolver sobre su autorización en los plazos que establezca el Reglamento correspondiente a la materia.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3092,6 +3330,8 @@ La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimi
 
 ### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
 
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 182.
 
 La Secretaría emitirá Programas de Contingencia Ambiental en los que se establecerán las condiciones ante las cuales es procedente la determinación de estado de contingencia, así como las medidas aplicables para hacerles frente.
@@ -3122,21 +3362,37 @@ En situación de contingencia ambiental, los responsables de fuentes de contamin
 
 ###### ARTÍCULO 187.
 
-La Secretaría elaborará una lista de prestadores de servicios de impacto ambiental, para cuyo efecto se consultará a los Colegios de Profesionistas, a las instituciones de investigación y de educación superior.
+La Secretaría elaborará y publicará el padrón de prestadores de servicios de impacto ambiental, para cuyo efecto podrá consultar a los Colegios de Profesionistas, a las instituciones de investigación y de educación superior.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 188.
 
-Los prestadores de servicios de impacto ambiental son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
+Los prestadores de servicios de impacto ambiental son responsables de la calidad, contenido y veracidad de la información, así como del nivel profesional de los informes preventivos, manifestaciones de impacto ambiental en cualquiera de sus modalidades, estudios de riesgo, estudios de daño ambiental, evaluaciones ambientales estratégicas, declaratorias de cumplimiento ambiental, informes de cumplimiento de condicionantes y/o de disposiciones ambientales que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
 
-En caso de incumplimiento a lo establecido en el presente artículo, se aplicarán las sanciones dispuestas en la presente Ley.
+En caso de incumplimiento a lo establecido en el presente artículo, se aplicarán las sanciones dispuestas en la presente Ley y en los demás otros ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 189.
 
-La Secretaría instrumentará programas de acreditación de prestadores de servicios en coordinación con los Colegios y Asociaciones de Profesionales e instituciones de investigación y de educación superior.
+La Secretaría instrumentará programas de acreditación y/o certificación de prestadores de servicios ambientales en coordinación con los Colegios, Asociaciones de Profesionales, Instituciones de Investigación y de Educación Superior.
 
 ###### ARTÍCULO 190.
 
 En ningún caso podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 190 Bis.
+
+El Reglamento correspondiente a la materia establecerá los procedimientos de convocatoria, selección, admisión, permanencia, lineamientos de actuación y sanciones de los Prestadores de Servicios Ambientales.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 190 Ter.
+
+La falta de calidad técnica, ética, dolo, mala fe o la falsedad en la información presentada por un Prestador de Servicios Ambientales responsable de la elaboración de cualquier modalidad de los estudios de impacto ambiental, será sancionada conforme a lo previsto en la presente ley y en su Reglamento correspondiente a la materia.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3538,11 +3794,29 @@ IV. Arresto administrativo hasta por treinta y seis horas;
 
 V. Reparación del daño ambiental;
 
-VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción; y
+VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas, contenedores, pipas o autotanques de gas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
 
-VIII. Suspensión temporal o revocación de permisos, licencias, concesiones y/o autorizaciones.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VIII. Suspensión temporal, anulación o revocación de permisos, licencias, certificaciones, registros, concesiones y/o autorizaciones;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IX. Compensación del daño ambiental en función del dictamen del daño ambiental que la autoridad ambiental emita, y
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+X. Realización de programas, obras o actividades ambientales a cargo de la Secretaría contenidos en sus programas de trabajo encaminados al rescate y protección de áreas ambientalmente impactadas.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+En todo caso, las sanciones se aplicarán en los términos que disponga el Reglamento correspondiente a la materia.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3554,9 +3828,27 @@ I. Los daños o afectaciones que se hubiesen propiciado o se puedan generar a lo
 
 II. Las condiciones económicas de la persona infractora para determinar que no sea ruinosa o desproporcionada una multa;
 
-III. La reincidencia, si la hubiere; y
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. El cumplimiento o incumplimiento de medidas correctivas o de seguridad.
+III. La reincidencia, si la hubiere;
+
+IV. El cumplimiento o incumplimiento de medidas correctivas o de seguridad;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+V. El monto de la inversión de la obra, proyecto, programa o actividad; así como el importe destinado a la aplicación de medidas de seguridad, prevención, mitigación y/o compensación que no se hubieran cumplido;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VI. Las ganancias o beneficios obtenidos con la operación de una obra proyecto, programa o actividad de manera clandestina y de aquellas que operan sin contar con la autorización, permiso, licencia o registro correspondiente;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VII. La veracidad o falsedad, dolo o mala fe con que se conduzca el interesado o prestador de servicios ambientales o el error al que haya inducido o pretenda inducir a la autoridad para obtener un beneficio o ganancia indebida; y
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VIII. El cumplimiento o incumplimiento de las condicionantes, obligaciones, lineamientos y/o disposiciones establecidos en las licencias, autorizaciones, permisos, registros y demás ordenamientos ambientales vigentes, por parte del responsable de una obra, proyecto, programa o actividad en cada una de sus etapas.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3641,6 +3933,42 @@ Para el desahogo del procedimiento en el que se ejerza la acción por daños al 
 ###### ARTÍCULO 224.
 
 Cuando por infracción a las disposiciones de esta Ley y sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción, en caso de que se presente en juicio.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 224 Bis.
+
+Los promoventes de las obras o actividades que se hayan iniciado o realizado sin contar con la autorización en materia de Impacto Ambiental correspondiente, deberán presentar ante la Secretaría el Estudio de Daño Ambiental, con la finalidad de que se dictamine.
+
+El Estudio de Daño Ambiental deberá presentarse en la Secretaría en original y copia, junto con el pago de derechos correspondiente al dictamen de daño ambiental contemplado en el Código Fiscal del Distrito Federal.
+
+El Estudio de Daño Ambiental deberá contener al menos lo siguiente:
+
+I. Datos generales de la persona física o moral en la que recaiga la responsabilidad del daño ambiental;
+
+II. Ubicación del predio donde se ocasionó el daño ambiental;
+
+III. Descripción de las obras o actividades que ocasionaron el daño ambiental;
+
+IV. La identificación de los factores ambientales dañados;
+
+V. Estimación de los contaminantes generados;
+
+VI. El daño ambiental ocasionado, indicando las metodologías utilizadas para su determinación;
+
+VII. Vinculación con la normatividad ambiental local y/o federal aplicable en sus respectivos ámbitos de competencia;
+
+VIII. Medidas de prevención, minimización, mitigación y seguridad implementadas durante las etapas realizadas, con sus correspondientes documentos probatorios;
+
+IX. Servicios ambientales que se afectaron o perdieron por la ocurrencia del daño ambiental;
+
+X. Propuestas de restauración de los factores ambientales dañados;
+
+XI. Los costos que serán necesarios para lograr la restauración de los factores ambientales dañados;
+
+XII. Etapa o etapas de la obra o actividad que falta por concluir, con la finalidad de determinar si se sujetan a la solicitud de autorización en materia de impacto ambiental en su caso, y
+
+XIII. El estudio de daño ambiental deberá presentarse en la secretaría de conformidad con los formatos y guías que al efecto se publiquen.
 
 ###### ARTÍCULO 225.
 
@@ -3787,3 +4115,13 @@ G.O. 18 DE FEBRERO DE 2011.
 Primero: El presente Decreto entrará en vigor a los 180 días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 7 DE ABRIL DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se derogan aquellas disposiciones que se opongan a lo contenido en el presente Decreto.
+
+Tercero.- La Oficialía Mayor implementará el Padrón de Proveedores de la Administración Pública del Distrito Federal a que se refiere el artículo 14 Bis de la Ley de Adquisiciones para el Distrito Federal, dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+
+Cuarto.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
