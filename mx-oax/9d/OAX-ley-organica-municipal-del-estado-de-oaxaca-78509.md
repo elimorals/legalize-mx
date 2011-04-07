@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2011-04-02"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -517,7 +517,11 @@ LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley;
 
 La remuneración de los Concejales y demás servidores públicos municipales, se fijará por el Ayuntamiento en el Presupuesto de Egresos del Municipio, atendiendo las bases del artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-LXV.- Las demás que les señalen las leyes y reglamentos municipales.
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2011)</small>
+
+LXV.- Presupuestar de forma inmediata, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos;
+
+LXVI.- Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -559,7 +563,7 @@ Los acuerdos de sesión de Cabildo se tomarán por mayoría simple o calificada 
 
 I.- Cambiar la sede de la cabecera municipal, previa autorización del Congreso del Estado;
 
-II.- Declarar la suspensión o desaparición de los Ayuntamientos, suspender o revocar del cargo a los concejales;
+II.- (DEROGADA, P.O. 7 DE ABRIL DE 2011)
 
 III.- Remover de su cargo por causa grave a los agentes municipales y de policía, en los términos del artículo 85 de esta Ley;
 
@@ -803,7 +807,7 @@ B) Satisfechos los requisitos de la solicitud, la Comisión citará a los denunc
 
 Si transcurrido el plazo para contestar sin que se hubiere producido ésta, y sin necesidad de acuse, se hará la declaración de rebeldía y se presumirán confesos los hechos de la solicitud que se dejaron de contestar.
 
-C) Concluido el plazo para de la (sic) contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
+C) Concluido el plazo para de (sic) la contestación, la Comisión de Gobernación dentro de los diez días siguientes fijará día y hora para una audiencia de pruebas, la cual se efectuará ante el Presidente de la Comisión y los integrantes de ésta que deseen estar presentes. Si las pruebas ofrecidas en la audiencia lo requieren se fijará un término de hasta veinte días naturales para su desahogo.
 
 Podrán aceptarse pruebas supervenientes a juicio de la Comisión cuando fuesen desconocidas a la fecha de la presentación de la solicitud o habiéndose anunciado hubiesen motivos justificados para no haberlos exhibido en tiempo. La Comisión, en todo tiempo tiene amplia facultad para allegarse los elementos probatorios que estime eficaces e idóneos.
 
@@ -1920,3 +1924,15 @@ P.O. 2 DE ABRIL DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE ABRIL DE 2011.
+
+DECRETO NUMERO 389, POR EL QUE SE ADICIONA UNA FRACCION AL ARTICULO 43 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA, RECORRIENDOSE LA FRACCION LXV A LA FRACCION LXVI.
+
+ÚNICO.- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE ABRIL DE 2011.
+
+DECRETO NUMERO 390, POR EL QUE SE DEROGA LA FRACCION II DEL ARTICULO 47 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
