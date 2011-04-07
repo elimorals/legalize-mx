@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-estatal-y-municipal-10670"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-31"
-last_updated: "2008-09-09"
+last_updated: "2011-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de agosto de 1996.
 
@@ -173,7 +173,25 @@ V.- Solicitar informes para revisar y aprobar el uso y destino de los recursos f
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
-VI.- Autorizar a los Entes Públicos del Estado a que se refiere el artículo 3 de esta Ley, para afectar o ceder o utilizar como fuente o garantía de pago, o ambas, de los financiamientos u obligaciones que celebren, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer para ese fin, de conformidad con la legislación aplicable;
+VI.- Autorizar a los Entes Públicos del Estado a que se refiere el artículo 3 de esta Ley, para afectar o ceder o utilizar como fuente o garantía de pago, o ambas, de los financiamientos u obligaciones que celebren, así como de aquellos en los que funjan como garantes, avalistas, deudores solidarios, subsidiarios o sustitutos, sus derechos a recibir los ingresos derivados de contribuciones, impuestos, cuotas, cooperaciones, derechos, productos, aprovechamientos, participaciones en ingresos federales, fondos o aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer para ese fin, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2011)</small>
+
+Así mismo, cuando el Ejecutivo y uno o más municipios, o dos o más municipios lo soliciten, la Legislatura podrá emitir autorización conjunta para que:
+
+a) El Poder Ejecutivo y los municipios contraten financiamientos siempre que éste se destine a inversiones públicas productivas, o bien, a proyectos de Infraestructura Social, en los términos de la ley de Coordinación Fiscal.
+
+b) El Ejecutivo afecte como garantía y/o fuente de pago de las obligaciones que deriven de la contratación del o los financiamientos a que se refiere en el inciso anterior, el derecho y los ingresos que le correspondan de las participaciones federales, así como del Fondo de Aportaciones para la Infraestructura Social y/o del Fondo de Aportaciones para el Fortalecimiento de Entidades Federativas de conformidad a lo previsto en la Ley de Coordinación Fiscal.
+
+c) Los municipios, previa autorización de sus cabildos, afecten como garantía y/o fuente de pago de las obligaciones que deriven de la contratación del o los financiamientos a que se refiere en el inciso a) de esta fracción, el derecho y los ingresos que les correspondan de las participaciones federales, así como del Fondo de Aportaciones para la Infraestructura Social, de conformidad a lo previsto en la Ley de Coordinación Fiscal.
+
+d) El Ejecutivo, a través de la Secretaría de Finanzas, celebre el fideicomiso irrevocable de captación, administración y pago para que en éste se capten los ingresos derivados de las aportaciones o participaciones que constituyan la garantía y/o la fuente de pago de los financiamientos que hubiesen contratado el Ejecutivo y los municipios del Estado, en los términos de esta fracción.
+
+e) Los Ayuntamientos, previa autorización de sus cabildos, se adhieran al fideicomiso referido en el inciso anterior.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2011)</small>
+
+El fideicomiso de captación, administración y pago no será considerado como parte de la administración pública paraestatal o paramunicipal, por lo que no le es aplicable lo previsto por la Ley de Entidades Paraestatales del Estado de Oaxaca, ni tampoco lo previsto por la Ley que regula los Fideicomisos con Participación Estatal;
 
 VII.- Autorizar montos de endeudamiento adicionales a los previstos en la Ley de Ingresos vigente al tiempo de su presentación, únicamente por circunstancias extraordinarias que así lo exijan;
 
@@ -654,3 +672,7 @@ P.O. 5 DE SEPTIEMBRE DE 2007.
 P.O. 9 DE SEPTIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
