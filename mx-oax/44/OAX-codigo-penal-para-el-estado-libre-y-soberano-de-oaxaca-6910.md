@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-10-02"
+last_updated: "2011-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3109,9 +3109,19 @@ Retención.
 
 La retención se perseguirá por querella y se sancionará con las penas del abuso de confianza previstas en el artículo 376.
 
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2011)</small>
 
-379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones del artículo 366 de este Código.
+Son aplicables a este delito, en lo conducente, las disposiciones del artículo 366 de este Código.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2011)</small>
+
+379.- Se equiparara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
+
+Este delito se perseguirá de oficio.
+
+Para todos los efectos legales se entenderá que este delito se consuma cuando se niegue a la víctima la devolución o entrega de las cantidades reclamadas, lo que se acreditará por cualquier medio de prueba, sin necesidad de requerimiento judicial o notarial. Se considerará como negativa el hecho de que el local, oficina o sucursal destinados a la atención del público se encuentre temporal o definitivamente cerrado o clausurado.
+
+Si la entidad, organismo, empresa o negocio no cuenta con registro de las autoridades correspondientes o no ha concluido o iniciado sus trámites de regularización, la pena se incrementará de uno a cinco años.
 
 ### CAPITULO IV.
 
@@ -3684,3 +3694,7 @@ P.O. 6 DE FEBRERO DE 2010.
 P.O. 2 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
