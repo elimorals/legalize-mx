@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-de-control-vehicular-del-5271
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-27"
-last_updated: "2006-12-27"
+last_updated: "2011-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de diciembre de 2006.
 
@@ -446,3 +448,15 @@ ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto de Control Vehicular del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 27 de diciembre de 2006.
+
+TERCERO.- A partir de su entrada en vigor, quedan derogadas todas las disposiciones que se opongan a lo dispuesto en este Reglamento.
+
+CUARTO.- El Gobernador del Estado, en ejercicio de las atribuciones conferidas en el artículo 13 de la Ley que Crea el Instituto de Control Vehicular integrará mediante acuerdo el Consejo de Participación Ciudadana del Instituto de Control Vehicular del Estado.
