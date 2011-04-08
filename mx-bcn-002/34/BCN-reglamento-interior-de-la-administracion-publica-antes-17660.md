@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2010-03-05"
+last_updated: "2011-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA -- ANTES REGLAMENTO DE LA ADMINISTRACION PUBLICA -- DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -181,7 +181,7 @@ Asimismo, podrá promover acciones de carácter civil, administrativo o laboral,
 
 Además, podrá conciliar o convenir los asuntos contenciosos en los que sea parte el Municipio, así como aquellos que le puedan generar algún litigio; convenir el pago de daños de los que sea responsable, o las condenas que se dicten en su contra.
 
-También podrá actuar en calidad de representante legal del Municipio, en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y IIl, Y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones; y,
+También podrá actuar en calidad de representante legal del Municipio, en los términos enunciativos y no limitativos de los artículos 11, 692 fracciones II y IIl, y 876 de la Ley Federal del Trabajo, y con tal carácter representarlo por sí, o por medio de apoderados a los que faculte, ante las autoridades administrativas laborales, las Juntas Locales y Federal de Conciliación y Arbitraje, y el Tribunal de Arbitraje del Estado, en cualquier audiencia fuera o dentro de juicio, y en toda la secuela de éste, con las facultades patronales para hacer arreglos conciliatorios, celebrar convenios y transacciones; y,
 
 III.- Nombrar uno o más apoderados generales o especiales, para que ejerzan las facultades de representación del Municipio que se mencionan en la fracción anterior, otorgar y revocar sus poderes, o sustituir el mandato.
 
@@ -515,13 +515,9 @@ I.- Apoyar al Presidente Municipal en la organización y cumplimiento de su agen
 
 II.- Controlar la agenda de audiencias al Presidente Municipal con las diferentes dependencias y entidades, y con otras autoridades y particulares;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
+III.- (DEROGADA, P.O. 8 DE ABRIL DE 2011)
 
-III.- Realizar las funciones de enlace institucional del gobierno municipal, como contacto inicial, operativo y logístico, con los representantes de otras instituciones, así como definir el proceso, en los actos protocolarios en los que participe el Presidente Municipal;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
-
-IV.- Promover e incrementar las relaciones entre el Municipio, con otros nacionales o extranjeros, particularmente con las denominadas Ciudades Hermanas; y,
+IV.- (DEROGADA, P.O. 8 DE ABRIL DE 2011)
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -657,15 +653,17 @@ c) Departamento de Administración de Documentos Públicos; y,
 
 d) Coordinación de Vinculación Comunitaria.
 
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2011)</small>
+
 II.- La Subdirección Jurídica, de la que dependerán los siguientes Departamentos:
 
-a) Jurídico;
+a).- Jurídico;
 
-b) Registro Civil Municipal;
+b).- Registro Civil Municipal;
 
-e) Jueces Calificadores; y,
+c).- Jueces Calificadores;
 
-d) Atención a Cabildo.
+d).- (DEROGADO, P.O. 8 DE ABRIL DE 2011).
 
 III.- La Subdirección de Operación y Seguimiento, que contará con los siguientes departamentos:
 
@@ -674,6 +672,16 @@ a) Supervisión y permisos;
 b) Comercio Ambulante; y,
 
 c) Junta Municipal de Reclutamiento.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+IV.- El Departamento de Atención a Cabildo contará con las Siguientes Coordinaciones:
+
+a) Coordinación de Comisiones.
+
+b) Coordinación de Cabildo.
+
+c) Coordinación de Proyectos.
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -877,7 +885,9 @@ V.- Asistir a las sesiones de las comisiones del Ayuntamiento en las que hayan d
 
 VI.- Elaborar proyectos de dictámenes de las comisiones del Ayuntamiento que le sean solicitados;
 
-VII.- Formular los proyectos de propuestas de acuerdos de cabildo que le indique el Secretario del Ayuntamiento;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+VII.- Formular los proyectos de propuestas de acuerdos de cabildo que le indique el Secretario del Ayuntamiento, o el Presidente Municipal;
 
 VIII.- Formular, o revisar y opinar los proyectos de bandos, reglamentos municipales, iniciativas de ley, acuerdos y disposiciones de observancia general, que deban ser sometidos a la aprobación del Ayuntamiento, así como de las reformas que se propongan a los mismos;
 
@@ -890,6 +900,8 @@ XI.- Tramitar la publicación de los acuerdos del Ayuntamiento que correspondan 
 XII.- Representar al gobierno municipal en las sesiones de las comisiones de dictamen legislativo del Congreso del Estado, en las que haya de discutirse proyectos relacionados con asuntos de carácter municipal; y
 
 XIII.- Participar en el seguimiento a las iniciativas y proyectos ante el Congreso del Estado, relativas a asuntos de carácter municipal.
+
+XIV (SIC).-
 
 ###### ARTICULO 47.
 
@@ -3346,3 +3358,7 @@ P.O. 27 DE MARZO DE 2009.
 P.O. 5 DE MARZO DE 2010.
 
 ÚNICO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2011.
+
+SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
