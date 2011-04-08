@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2010-12-07"
+last_updated: "2011-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -83,11 +83,11 @@ II.- El ejercicio o no de la acción penal.
 
 Corresponde a la Procuraduría General de Justicia del Estado prestar apoyo y protección a jueces, peritos, testigos, víctimas y demás personas, en su intervención en cualquier procedimiento relativo a delitos contra la salud, en su modalidad de narcomenudeo, que sean competencia del fuero común, en términos de la legislación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
 
-> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 2 Ter.
 
-ARTICULO 2 Bis (sic).- En los procedimientos del orden penal se privilegiará la utilización de mecanismos alternativos de solución de controversias, para lo cual, los Jueces de la materia y el Ministerio Público deberán sujetarse a lo establecido por la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán, su Reglamento y demás disposiciones normativas aplicables.
+En los procedimientos del orden penal se privilegiará la utilización de mecanismos alternativos de solución de controversias, para lo cual, los Jueces de la materia y el Ministerio Público deberán sujetarse a lo establecido por la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán, su Reglamento y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
@@ -3624,3 +3624,9 @@ Este Decreto entrará en vigor a los quince días siguientes al de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
+
+P.O. 8 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
