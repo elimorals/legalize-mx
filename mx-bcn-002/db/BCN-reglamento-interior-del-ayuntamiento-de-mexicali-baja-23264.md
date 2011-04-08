@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2009-03-27"
+last_updated: "2011-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -235,15 +237,35 @@ De las licencias del Presidente Municipal.- Las licencias del Presidente Municip
 
 De las licencias del Síndico Procurador.- Las licencias que solicite el Síndico Procurador serán cubiertas por su suplente cuando estas excedan de treinta días.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 14.
 
-De las licencias de los Regidores.-
+De las licencias de los Regidores.- En las licencias que soliciten los Regidores se llamará a su suplente cuando excedan de treinta días.
 
-En las licencias que soliciten los regidores se llamará a su suplente cuando excedan de quince días.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 15.
 
-De las ausencias.- Si algún miembro del Ayuntamiento conociera de alguna razón que ocasionare su falta temporal en el ejercicio de sus funciones, dará aviso al Cabildo para que proceda a lo conducente conforme a lo dispuesto en los artículos anteriores. Si la falta ocurre de manera imprevista en la persona del Presidente Municipal, ocasionando que este no pueda dar aviso al Cabildo en su ausencia, el Secretario del Ayuntamiento convocará a la sesión de cabildo, donde se elegirá dependiendo de los motivos de la ausencia al Regidor que ejercerá sus funciones o si es necesario, llamar a su suplente. En este caso la sesión será presidida por el Regidor que se determine mediante un sorteo antes de iniciar la sesión en comento.
+Presidente Municipal en Funciones.- El Presidente Municipal podrá ausentarse del territorio del Municipio de Mexicali o separase de sus funciones, de manera extraordinaria o emergente hasta por veinticuatro horas, dando aviso por escrito a los integrantes del Ayuntamiento y en esos casos el Presidente Municipal (sic).
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+De manera excepcional o cuando la ausencia sea superior a veinticuatro horas, el Secretario del Ayuntamiento convocará a la sesión Cabildo (sic), donde se elegirá designar a un Regidor con tal carácter a propuesta del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+Cuando sea de manera excepcional, la sesión será presidida por el Regidor que se determine mediante votación de los integrantes del Cabildo antes de iniciar la sesión en comento.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+El Presidente Municipal en Funciones tendrá las atribuciones que corresponden al Presidente Municipal, excepto la de nombrar y remover a los titulares de los órganos o dependencias administrativas.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+Si algún miembro del Ayuntamiento conociera de alguna razón que ocasionare su falta temporal en el ejercicio de sus funciones, dará aviso al Cabildo para que proceda lo conducente conforme a lo dispuesto en los Artículos anteriores.
 
 En caso de ausencia definitiva de algún integrante del ayuntamiento por motivo de fallecimiento, por haber sido declarado en estado de interdicción o incurra en algunos de los supuestos contemplados por la ley, se llamará a su suplente para que termine el periodo constitucional para el cual fue electo.
 
@@ -1410,3 +1432,9 @@ P.O. 27 DE MARZO DE 2009.
 ACUERDO POR EL QUE SE MODIFICA LA DENOMINACION DE LA SECCION III DEL CAPITULO SEGUNDO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, Y SE ADICIONA UN ARTICULO 17 BIS AL MISMO REGLAMENTO.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 8 DE ABRIL DE 2011.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
