@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2007-del-pleno-de-la-suprema-corte-de-56581"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-08-31"
-last_updated: "2009-12-15"
+last_updated: "2011-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2007-08-21"
 
 ACUERDO GENERAL NUMERO 18/2007, DE VEINTE DE AGOSTO DE DOS MIL SIETE DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE EXPEDIENTES POR PARTE DE LOS JUZGADOS DE DISTRITO Y AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN LOS ARTICULOS 1o., 2o., 5o.-A, 5o.-B, 7o. BIS Y 14 DE LA LEY DEL IMPUESTO AL ACTIVO Y SEPTIMO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA MISMA LEY, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL VEINTISIETE DE DICIEMBRE DE DOS MIL SEIS; 16, NUMERAL 1, PENULTIMO PARRAFO, DE LA LEY DE INGRESOS DE LA FEDERACION Y 224, FRACCION IV, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, TODOS VIGENTES EN EL AÑO DOS MIL SIETE, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 13/2009, DE PRIMERO DE DICIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. 15 DE DICIEMBRE DE 2009, SE LEVANTA EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCION EN LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNA EL MECANISMO DE TRIBUTACION DEL IMPUESTO AL ACTIVO VIGENTE PARA EL EJERCICIO FISCAL DE DOS MIL SIETE, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, ASI COMO EL ENVIO A DICHOS TRIBUNALES, PARA SU RESOLUCION, DE LOS QUE SE ENCUENTRAN EN LA SUPREMA CORTE.</small>
+TEXTO ORIGINAL.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2009.
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 8 DE ABRIL DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de agosto de 2007.
 
@@ -74,23 +74,3 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Guillermo I. Ortiz 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General Número ACUERDO GENERAL NUMERO (SIC) 18/2007, DE VEINTE DE AGOSTO DE DOS MIL SIETE DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE EXPEDIENTES POR PARTE DE LOS JUZGADOS DE DISTRITO Y AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION EN LOS QUE SE IMPUGNAN LOS ARTICULOS 1o., 2o., 5o.-A, 5o.-B, 7o. BIS Y 14 DE LA LEY DEL IMPUESTO AL ACTIVO Y SEPTIMO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA MISMA LEY, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL VEINTISIETE DE DICIEMBRE DE DOS MIL SEIS; 16, NUMERAL 1, PENULTIMO PARRAFO, DE LA LEY DE INGRESOS DE LA FEDERACION Y 224, FRACCION IV, DE LA LEY DEL IMPUESTO SOBRE LA RENTA, TODOS VIGENTES EN EL AÑO DOS MIL SIETE, DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a veinte de agosto de dos mil siete.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de ocho fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo General Número 18/2007, y se certifica para dar cumplimiento a lo dispuesto en el Punto Segundo Transitorio. México, Distrito Federal, a veintiuno de agosto de dos mil siete.- Conste.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-D.O.F. 15 DE DICIEMBRE DE 2009.
-
-SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
-
-PRIMERO. Se levanta el aplazamiento dispuesto en el Acuerdo General 18/2007 de veinte de agosto de dos mil siete, del dictado de la resolución en los asuntos del conocimiento de los Tribunales Colegiados de Circuito en los que se impugnan la derogación del artículo 5o. de la Ley del Impuesto al Activo, vigente hasta el treinta y uno de diciembre de dos mil seis y los artículos 1o., 2o., 5o.-A, 5o.-B, 7o. Bis y 14 de dicha ley; 16, quinto párrafo, inciso 1, de la Ley de Ingresos de la Federación y 224, fracción VI, de la Ley del Impuesto sobre la Renta, vigentes para el ejercicio fiscal de dos mil siete, así como el artículo Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones, entre otras, de la Ley del Impuesto al Activo, en cuanto se refiere a las Disposiciones Transitorias de esta última, publicado en el Diario Oficial de la Federación del veintisiete de diciembre de dos mil seis, relativos al mecanismo de tributación del impuesto al activo para el ejercicio fiscal de dos mil siete.
-
-SEGUNDO. Los asuntos a que se refiere el punto anterior pendientes de resolución tanto en esta Suprema Corte de Justicia de la Nación como en los Tribunales Colegiados de Circuito, deberán ser resueltos por éstos, aplicando la jurisprudencia y tesis aisladas sustentadas por este Alto Tribunal y, en su caso, pronunciarse con plenitud de jurisdicción sobre los demás temas que se hayan hecho valer, aun los de constitucionalidad.
-
-Por tanto, deberán remitirse los asuntos todavía radicados en esta Suprema Corte de Justicia de la Nación a los Tribunales Colegiados de Circuito y éstos conservarán los radicados en ellos.
-
-TERCERO. La remisión de los expedientes a los Tribunales Colegiados de Circuito deberá realizarse observando el trámite dispuesto al respecto en el Acuerdo General 5/2001, de veintiuno de junio de dos mil uno.
-
-TRANSITORIOS:
-
-PRIMERO. Este Acuerdo General entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
