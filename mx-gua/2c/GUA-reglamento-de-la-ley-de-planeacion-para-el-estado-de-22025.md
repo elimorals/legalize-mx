@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-planeacion-para-el-estado-de-22025"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2001-06-30"
+last_updated: "2011-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE PLANEACION PARA EL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA LEY DE PLANEACION PARA EL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
 
 Reglamento publicado en la Séptima Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -51,7 +51,7 @@ El presente Reglamento tiene por objeto definir, detallar y complementar la orga
 
 ###### Artículo 2o.
 
-La Secretaría de Desarrollo Social y Humano emitirá las disposiciones administrativas para la correcta aplicación del presente Reglamento.
+(DEROGADO, P.O. 8 DE ABRIL DE 2011)
 
 ###### Artículo 3o.
 
@@ -59,7 +59,9 @@ Son responsables en materia de planeación del desarrollo:
 
 I.- En el ámbito Estatal:
 
-a) El Titular del Poder Ejecutivo; y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+a) El Titular del Poder Ejecutivo a través del Instituto de Planeación del Estado de Guanajuato y la Coordinación General de Programación y Gestión de la Inversión Pública, en el ámbito de sus competencias; y
 
 b) El Consejo Estatal de Planeación para el Desarrollo del Estado de Guanajuato (COPLADEG).
 
@@ -117,9 +119,17 @@ El Sistema Estatal de Planeación contará con una infraestructura de soporte qu
 
 ### CAPÍTULO PRIMERO. INTEGRACIÓN Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
+
 ###### Artículo 10.
 
-El COPLADEG se integrará de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato y demás disposiciones legales aplicables.
+El COPLADEG además de la integración prevista en la Ley de Planeación para el Estado de Guanajuato, se conformará por:
+
+I.- Los integrantes del Consejo Consultivo del IPLANEG;
+
+II.- Los representantes sociales de dos consejos especiales que designe el presidente del COPLADEG; y
+
+III.- Hasta dos socios académicos de los observatorios ciudadanos estatales a invitación del Presidente del COPLADEG.
 
 ###### Artículo 11.
 
@@ -145,27 +155,31 @@ Las atribuciones señaladas en el artículo 21 de la Ley de Planeación para el 
 
 El Consejo Técnico será el órgano rector y de toma de decisiones referentes a la integración, operación y actualización del Sistema Estatal de Planeación.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
+
 ###### Artículo 14.
 
 El Consejo Técnico se integrará por:
 
-I.- El Gobernador del Estado, quien será el Presidente del COPLADEG;
+I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Titular de la Secretaría de Desarrollo Social y Humano, quien fungirá como Secretario Técnico;
+II.- El Titular del Instituto de Planeación del Estado de Guanajuato quien fungirá como secretario técnico;
 
 III.- El Titular de la Secretaría de Gobierno;
 
-IV.- El representante en el Estado de la dependencia o entidad responsable de la planeación federal, quien será designado por el Titular de la misma;
+IV.- Un Presidente Municipal por cada región del Estado, electos dentro de los municipios que integren dichas regiones. La elección se realizará en el seno de los Consejos Regionales;
 
-V.- Un Presidente Municipal por cada región del Estado, electos de entre los municipios que integren dichas regiones, la elección se realizará en el seno de los Consejos Regionales;
+V.- El Presidente del Consejo Consultivo del Instituto de Planeación del Estado de Guanajuato y los cuatro integrantes del Consejo Consultivo miembros de su Comisión Ejecutiva;
 
-VI.- El Presidente o el vicepresidente de la mesa directiva de cada Consejo Regional, quienes fungirán como coordinadores regionales;
+VI.- Un representante social de los COPLADEM por cada región;
 
-VII.- Quienes presidan los Consejos Sectoriales y que fungirán como coordinadores sectoriales;
+VII.- Un representante social de cada uno de los Consejos Especiales integrantes del COPLADEG;
 
-VIII.- Un representante de la sociedad organizada por cada Consejo Regional y Sectorial; dichos representantes serán electos por éstos y fungirán como consejeros regionales y sectoriales respectivamente; y
+VIII.- Hasta dos socios académicos de los Observatorios Ciudadanos estatales a invitación del Presidente del COPLADEG;
 
-IX.- Los demás integrantes del COPLADEG que señale su Presidente.
+IX.- El Titular de la Coordinación General de Programación y Gestión de la Inversión Pública; y
+
+X.- Los demás integrantes del COPLADEG que señale su Presidente.
 
 ###### Artículo 15.
 
@@ -249,7 +263,9 @@ VII.- Las demás que coadyuven al proceso del desarrollo del Estado.
 
 El Secretario Técnico del COPLADEG será el representante legal del mismo y tendrá las siguientes atribuciones:
 
-I.- Coordinar los trabajos para la integración, actualización, seguimiento y evaluación del Plan Estatal de Desarrollo y el apoyo del COPLADEG en la integración, actualización, seguimiento y evaluación del Plan de Gobierno del Estado, así como de los programas regionales, sectoriales, institucionales y especiales;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+I.- Coordinar los trabajos para la integración, actualización, seguimiento y evaluación del Plan Estatal de Desarrollo y en su caso, el apoyo del COPLADEG en el proceso de integración, actualización, seguimiento y evaluación del Plan de Gobierno del Estado, así como de los programas regionales, sectoriales, institucionales y especiales;
 
 II.- Proponer la implementación de metodologías, técnicas y procedimientos para asegurar el mayor impacto social de la inversión estatal;
 
@@ -283,49 +299,63 @@ Los Consejos Regionales son los órganos conformados por los representantes de l
 
 Por cada una de las regiones del COPLADEG, habrá un Consejo Regional, propiciando que la planeación regional sea congruente con la planeación estatal.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2011)</small>
+
 Las regiones estarán integradas por los municipios de la siguiente manera:
 
-Región I Noreste Región III Centro-Oeste Región VI Centro-Este
+Región I Noreste Región II Norte
 
-Atarjea Guanajuato Apaseo el Alto
+Atarjea Dolores Hidalgo Cuna
 
-Doctor Mora Irapuato Apaseo el Grande
+de la Independencia Nacional
 
-San José Iturbide León Celaya
+San José Iturbide Guanajuato
 
-San Luis de la paz Purísima del Rincón Comonfort
+San Luis de la Paz Ocampo
 
-Santa Catarina Romita Cortazar
+Santa Catarina San Diego de la Unión
 
-Tierra Blanca Salamanca Santa Cruz de
+Tierra Blanca San Felipe
 
-Juventino Rosas
+Victoria San Miguel de Allende
 
-Victoria San Francisco del Rincón Tarimoro
+Xichú
 
-Xichú Silao Villagrán
+Región III Centro Región IV Sur
 
-Región II Norte Región IV Sur-Oeste Región V Sur
+Apaseo el Alto Abasolo
 
-Allende Abasolo Acámbaro
+Apaseo el Grande Acámbaro
 
-Dolores Hidalgo Cuerámaro Coroneo
+Celaya Coroneo
 
-Ocampo Huanímaro Jaral del Progreso
+Comonfort Cuerámaro
 
-San Diego de la Unión Manuel Doblado Jerécuaro
+Cortazar Huanímaro
 
-San Felipe Pénjamo Moroleón
+Irapuato Jerécuaro
 
-Pueblo Nuevo Salvatierra
+Jaral del Progreso Manuel Doblado
 
-Valle de Santiago Santiago Maravatío
+León Moroleón
 
-Tarandacuao
+Purísima del Rincón Pénjamo
 
-Uriangato
+Romita Pueblo Nuevo
 
-Yuriria
+Salamanca Salvatierra
+
+San Francisco del Rincón Santiago Maravatío
+
+Santa Cruz de Juventino Tarandacuao
+
+Rosas
+
+Silao Uriangato
+
+Tarimoro Valle de Santiago
+
+Villagrán Yuriria
 
 El Presidente del COPLADEG en acuerdo con el Consejo Técnico podrá modificar la integración de las regiones, atendiendo a las circunstancias y condiciones del desarrollo del Estado.
 
@@ -363,7 +393,9 @@ XIII.- Las demás encaminadas al logro de los objetivos del COPLADEG.
 
 Los Consejos Regionales estarán integrados por:
 
-I.- Un representante de la sociedad por cada COPLADEM de la región, perteneciente a éste y cuya designación será de forma democrática, en función de lo que establezca el Reglamento de Planeación Municipal correspondiente;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+I.- Un representante de la sociedad por cada COPLADEM de la región, que serán los mismos que integrarán el Consejo técnico; y (sic)
 
 II.- Tres representantes de dependencias estatales que serán designados por el Titular del Poder Ejecutivo del Estado;
 
@@ -511,7 +543,9 @@ I.- Identificar necesidades, problemas y potencialidades del sector;
 
 II.- Diseñar y coordinar la implementación de mecanismos de participación social para recopilar la percepción de la sociedad respecto al desarrollo estatal para el diagnóstico, así como sistematizar e interpretar los resultados cualitativos obtenidos de la participación social, remitiéndolos a la dependencia coordinadora de sector correspondiente;
 
-III.- Coordinar la participación de la sociedad organizada en la definición del Plan de Gobierno, remitiendo los resultados de dicha consulta a las dependencias y entidades correspondientes;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+III.- Coordinar la participación de la sociedad organizada en la integración del Plan de Gobierno;
 
 IV.- Auxiliar a las dependencias y entidades del Poder Ejecutivo del Estado en la elaboración, actualización y evaluación del Programa Sectorial correspondiente;
 
@@ -949,7 +983,7 @@ El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Decreto Gubernativo Número 6, publicado en el Periódico Oficial del Gobierno del Estado Número 64, Segunda Parte, de fecha 12 de agosto de·1986, mediante el cual se adecua y consolida al organismo público descentralizado denominado Comité de Planeación para el Desarrollo del Estado de Guanajuato (COPLADEG).
+Se abroga el Decreto Gubernativo Número 6, publicado en el Periódico Oficial del Gobierno del Estado Número 64, Segunda Parte, de fecha 12 de agosto de 1986, mediante el cual se adecua y consolida al organismo público descentralizado denominado Comité de Planeación para el Desarrollo del Estado de Guanajuato (COPLADEG).
 
 ###### ARTÍCULO TERCERO.
 
@@ -970,3 +1004,11 @@ JUAN MANUEL OLIVA RAMIREZ.
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 ARTURO NÚÑEZ SERRANO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2011.
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el 11 de abril de 2011.
+
+Artículo Segundo. Por única ocasión el Gobernador del Estado designará a los integrantes del Consejo Técnico establecidos en las fracciones IV y VI del artículo 14 del presente Reglamento.
