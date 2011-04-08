@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2010-10-04"
+last_updated: "2011-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ABRIL DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -1388,11 +1388,15 @@ XVIII. Supervisar el desarrollo de los mecanismos de coordinación y enlace perm
 
 > <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-XIX. Determinar los criterios para la elaboración de los programas de capacitación y especialización del personal administrativo y operativo, y
+XIX. Determinar los criterios para la elaboración de los programas de capacitación y especialización del personal administrativo y operativo, y (sic)
 
-> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 8 DE ABRIL DE 2011)</small>
 
-XX. Las demás que le atribuya la normatividad vigente.
+XX. Recibir, analizar y, en su caso, emitir el visto bueno de los Sistemas de Seguridad que se sometan a la consideración de la Secretaría, para efectos de lo dispuesto en el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en los Establecimientos de Impacto Zonal, y
+
+> <small>(ADICIONADA, G.O. 8 DE ABRIL DE 2011)</small>
+
+XXI. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 41.
 
@@ -1861,3 +1865,9 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- La Secretaría de Seguridad Pública actualizará su Manual a las modificaciones del presente Reglamento, mismo que será publicado en la Gaceta Oficial del Distrito Federal, una vez que haya sido revisado, autorizado y registrado por la Contraloría General.
 
 Cuarto.- La Secretaría de Seguridad Pública contará con término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones y gestiones jurídico administrativas, presupuestales y de personal necesarias.
+
+G.O. 8 DE ABRIL DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
