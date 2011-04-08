@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2008-12-06"
+last_updated: "2011-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2011.
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -157,13 +157,15 @@ VII. Las demás que de manera expresa le confiera la Junta.
 
 ### CAPITULO V. DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 19.
 
 El organismo conducirá sus actividades de manera programada y se auxiliará en las siguientes unidades administrativas:
 
 ### CAPITULO V (SIC). DE LAS UNIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO CON LOS NUMERALES QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2008)</small>
 
 I. Dirección General
 
@@ -181,7 +183,15 @@ I.6 Dirección de Regulación Sanitaria
 
 I.7 Dirección de Administración
 
-I.8 Unidad de Asuntos Jurídicos
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+I.8. Dirección del Régimen Estatal de Protección Social en Salud.
+
+I.9. Unidad de Asuntos Jurídicos
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2011)</small>
+
+I.10. Coordinación Estatal de Trasplantes
 
 ### CAPITULO VI. DEL DIRECTOR GENERAL
 
@@ -609,6 +619,50 @@ XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unid
 
 XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+ARTICULO 26 BIS.- Al frente de la Dirección del Régimen Estatal de Protección Social en Salud habrá un titular que tendrá las atribuciones genéricas contenidas en el artículo 21 del presente Reglamento y las atribuciones específicas siguientes:
+
+I. Cumplir y hacer cumplir los ordenamientos jurídicos aplicables al Sistema de Protección Social en Salud, contenidas en el Artículo Cuarto de la Constitución Política de los Estados Unidos Mexicanos, en la ley General de Salud, Título Tercero Bis de la Protección Social en Salud, en su Reglamento, en el Acuerdo de Coordinación celebrado por el Gobierno Federal y el Gobierno Estatal, y demás disposiciones de carácter general o individual que al efecto se emitan por autoridad competente;
+
+II. Administrar, en coordinación con la Dirección de Administración, los recursos públicos, de carácter federal, estatal, privados, sociales que se le asignen o reciba para la atención de los servicios derivados del Sistema de Protección Social en Salud en la entidad;
+
+III. Dar seguimiento a las quejas que, en su caso, presenten los afiliados al Sistema de Protección Social en Salud, derivadas de la prestación del servicio;
+
+IV. Atender y aceptar, en su caso las recomendaciones que formule la Comisión Nacional de Derechos Humanos respecto de los asuntos que incidan en el ámbito de competencia del Régimen Estatal de Protección Social en Salud, o de las unidades administrativas que lo integran;
+
+V. Coordinarse con las unidades administrativas involucradas de los servicios de Salud de Nayarit, así como con otras Instituciones de Salud, para la atención de las familias afiliadas con equidad, calidad y protección financiera que demandan;
+
+VI. Coordinar la formulación de los anteproyectos de disposiciones jurídicas, lineamientos e instrumentos consensuales en los asuntos de su competencia, con la intervención de la unidad de Asuntos Jurídicos y someterlos a consideración del Director General de los Servicios de Salud de Nayarit;
+
+VII. Coordinar con la Dirección de Administración, la elaboración e integración de la formación presupuestaria, económica y social que deba rendirse a la instancia competente federal y al Director General de los Servicios de Salud de Nayarit, proveniente de las acciones integrales realizadas del Sistema de Protección Social en Salud;
+
+VIII. Someter a la consideración del Director General, la autorización expresa de facultades específicas en servidores públicos subalternos para realizar tareas de atención detallada que así lo requieran, debiendo publicarse en el Periódico oficial Órgano de Gobierno del Estado de Nayarit, el documento en que se otorguen;
+
+IX. Promover la incorporación y renovación de familias al Sistema y atender lo concerniente a la afiliación, verificación de la vigencia y tutela de los derechos de los beneficiarios, e integrar el padrón de beneficiarios a que se refiere el Reglamento de la Ley;
+
+X. Establecer los criterios y los mecanismos necesarios para la entrega oportuna y de calidad de los servicios de salud que tienen derecho los beneficiarios al Régimen Estatal de Protección Social en Salud;
+
+XI. Verificar que los prestadores de servicios acreditados fehacientemente, celebren los instrumentos jurídicos obligatorios que contengan en forma precisa, clara y exacta los compromisos adquiridos y se otorguen las garantías suficientes de cumplimiento, y vigilar que los prestadores de servicios proporcionen la atención médica, hospitalaria, medicamentos e insumas, en la forma acordada;
+
+XII. Suscribir conjuntamente con el Director General, los acuerdos de coordinación y de colaboración interestatal, interinstitucional y con los Municipios, que sean pertinentes, utilizando para ello, los mecanismos y sistemas de colaboración, que al efecto se establezcan, con la finalidad de contar con la capacidad integral de brindar la atención médica a los beneficiarios en todo el territorio mexicano;
+
+XIII. Presentar a la Comisión el Plan Maestro de Infraestructura, que defina las necesidades del mismo, de atención primaria y especialidades básicas, apegada su elaboración a los criterios y disposiciones que al efecto se establecen en el Reglamento de la ley;
+
+XIV. Rendir, en tiempo y forma determinada por la Secretaría, la información requerida para que esta dependencia federal realice la evaluación integral del Sistema;
+
+XV. Cuidar que las variables y fórmulas financieras de apoyo al Régimen Estatal se apliquen, según se trate, en términos del Reglamento de la Ley;
+
+XVI. Revisar y verificar que los establecimientos para la atención médica, autorizados para fungir como prestadores de los servicios cubiertos por el Fondo de Protección contra Gastos Catastróficos, cumplan con los requisitos que estipula el artículo 24 del Reglamento de la Ley y, todo cambio en contrario, deberá hacerlo del conocimiento inmediato de la Comisión;
+
+XVII. Destinar las cuotas familiares recibidas directamente, para el abasto de medicamentos, equipo y otros insumos para la salud, necesarios para la operación del Sistema e informar sobre esta situación a la Comisión a través de los informes correspondientes;
+
+XVIII. Aplicar las reglas que la Secretaría expida para la aplicación y control de las cuotas reguladoras establecidas por el Consejo de Salubridad General, e incluir en la información de las cuotas familiares, lo concerniente a las cuotas reguladoras; con apego a los lineamientos que al efecto establezca la Secretaria;
+
+XIX. Poner a disposición del público en general por medios remotos o locales, de comunicación electrónica, la información relativa al manejo financiero del Sistema, y
+
+XX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+
 ### CAPITULO IX. DE LA UNIDAD DE ASUNTOS JURIDICOS
 
 > <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
@@ -644,6 +698,40 @@ XII. Asesorar a las unidades administrativas del organismo para que cumplan adec
 XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de actos o resoluciones de las unidades administrativas de este organismo y someterlos a la consideración del Director General, así como proponer a éste los proyectos de resolución a dichos recursos, y;
 
 XIV. Las demás que le confiera el Director General, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+
+ARTICULO 27 BIS.- Además de las atribuciones que este reglamento establece en su artículo 21 como genéricas para las unidades administrativas, la Coordinación de Trasplantes tendrá las específicas siguientes:
+
+I. Coordinar los trabajos para instrumentar el sistema estatal de trasplantes.
+
+II. Coordinar a los comités internos de trasplantes para la asignación del órgano respetando el orden cronológico, condiciones, medicas de urgencia, gravedad y capacidad para aceptar el trasplante.
+
+III. Coordinar a los equipos de trabajo, en cuanto a la enseñanza, investigación y evolución, comunicación, difusión y registro de trasplantes en Nayarit.
+
+IV. Mantener comunicación con el Centro Nacional de Trasplantes, a efecto de estar en coordinación con los planes y programas federales y estatales de la materia;
+
+V. Proporcionar información y colaborar con las acciones del Registro Nacional de Trasplantes;
+
+VI. Llevar el registro de los sujetos susceptibles de trasplante, en el Estado;
+
+VII. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
+
+VIII. Fomentar y sistematizar el estudio y la investigación, en el trasplante de órganos y tejidos de seres humanos con fines terapéuticos, mediante la instauración de premios, concursos, becas y reconocimientos; así como propiciar programas de capacitación para el personal médico y de enfermería en trasplante;
+
+IX. Revisar en coordinación con la Unidad de Asuntos Jurídicos la legislación y la reglamentación, en la materia de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, a efecto de presentar ante las instancias competentes, observaciones y propuestas;
+
+X. Promover y coordinar la colaboración y la complementación de acciones, entre las autoridades sanitarias federales y estatales involucradas en el procedimiento para la disposición de órganos y tejidos de seres humanos con fines terapéuticos, así como con los Consejos de Trasplantes de otras entidades federativas;
+
+XI. Proponer e impulsar ante las instituciones de educación superior y de salud, la formación de recursos humanos en la especialidad de trasplante, así como estudios e investigaciones en la materia en calidad de postgrados o especialidades;
+
+XII. Implementar un sistema de información con respecto al Programa Estatal de Trasplantes, que permita tanto la toma de decisiones como la evaluación de la atención médica relacionada con los trasplantes;
+
+XIII. Operar y diseñar el sistema logístico e informático del Registro Estatal de Trasplantes a su cargo;
+
+XIV. Coadyuvar con las instancias correspondientes, en acciones para evitar los delitos en materia de donación y trasplantes de órganos;
+
+XV. Las demás que de manera expresa le confieran otros ordenamientos y el superior jerárquico.
 
 ### CAPITULO X. DE LOS ORGANOS DESCONCENTRADOS
 
@@ -790,3 +878,15 @@ P.O. 6 DE DICIEMBRE DE 2008.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. El Director General emitirá las medidas procedentes para que en un plazo que no exceda de treinta días hábiles contados a partir de la fecha, de la vigencia del presente instrumento normativo, se realice la transferencia de recursos humanos, financieros y materiales, así como los documentos inherentes y demás aspectos correlativos, a las unidades administrativas de nueva creación.
+
+P.O. 8 DE ABRIL DE 2011.
+
+ACUERDO QUE MODIFICA EL ARTICULO 19 Y SE ADICIONA EL ARTICULO 27 BIS DEL REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE NAYARIT.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE PARA EL ESTADO.
+
+P.O. 8 DE ABRIL DE 2011.
+
+ACUERDO QUE MODIFICA EL ARTICULO 19 Y SE ADICIONA EL ARTICULO 26 BIS DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
