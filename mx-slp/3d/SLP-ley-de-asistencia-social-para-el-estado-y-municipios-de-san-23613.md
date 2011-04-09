@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2010-09-11"
+last_updated: "2011-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -999,9 +999,17 @@ VI. Promover la participación del DIF Municipal con los representantes de las d
 
 VII. Gestionar recursos ante instituciones públicas y privadas;
 
-VIII. Establecer coordinación con el DIF Estatal para la operación de programas en su municipio, y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2011)</small>
 
-IX. Las demás que el ayuntamiento y el Presidente Municipal le asignen, así como aquellas que determine el reglamento interior.
+VIII. Establecer, en coordinación con el DIF Estatal, para la operación de programas en su municipio;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2011)</small>
+
+IX. Designar apoderados, representantes legales o delegados en los juicios o procedimientos en los cuales el organismo sea parte, de conformidad con la ley de la materia en cuyo procedimiento se apersone, salvo que esta facultad ya se establezca en el reglamento interno del organismo para otro servidor público, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2011)</small>
+
+X. Las demás que el ayuntamiento y el presidente municipal le asignen, así como aquellas que determine el reglamento interior.
 
 ## TITULO QUINTO. DE LA ASISTENCIA PRIVADA
 
@@ -1340,3 +1348,9 @@ P.O. 11 DE SEPTIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 9 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
