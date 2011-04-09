@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-la-obra-publica-y-servicios-56172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-13"
-last_updated: "2007-06-13"
+last_updated: "2011-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE LA OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE JALAPA, TABASCO
 
-REGLAMENTO DEL COMITE DE LA OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE JALAPA, TABASCO
+REGLAMENTO DEL COMITÉ DE LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL MUNICIPIO DE JALAPA, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE OBRA PÚBLICA DEL MUNICIPIO DE JALAPA, TABASCO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de junio de 2007.
 
@@ -684,3 +686,19 @@ ING. ANTONIO PRIEGO JIMÉNEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 MVZ. RENAN PÉREZ MATINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+En lo no previsto por el presente Reglamento, se aplicarán de manera supletoria las disposiciones establecidas en la Ley de Obras Pública (sic) y Servicios Relacionados con las mismas del Estado de Tabasco y su Reglamento.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento estará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo ordenado en el presente reglamento, así como el Reglamento del Comité de Obra Pública y Servicios Relacionados con la misma del Municipio de Jalapa, Tabasco, publicado el Trece de Junio del Dos Mil Siete, en el Periódico Oficial del Gobierno del Estado de Tabasco.
