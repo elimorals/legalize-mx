@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-80085"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE EL SISTEMA INTEGRAL DE "EL NARANJO" DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE "EL NARANJO", S.L.P.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -157,9 +157,21 @@ adelante 5.58 5.58 7.14 10.26
 
 III. La toma de agua potable para uso comercial, que consuma más de 100 metros cúbicos mensuales, se pagará siempre conforme a la cuota industrial independientemente del giro de que se trate.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2011)</small>
+
+IV. Los usuarios domésticos que no tengan servicio medido pagarán una cuota fija mensual de $92.50 (noventa y dos pesos 50/100 m.n.)
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2011)</small>
+
+El organismo operador tendrá la obligación de implementar de forma permanente, campaña de implementación de medidores.
+
 ###### ARTICULO 13.
 
 La dotación en agua potable repartida en pipas, tendrá un costo de $ 9.5 (Nueve pesos 50/100 MN) por metro cúbico.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2011)</small>
+
+Cuando la persona usuaria solicite un duplicado de recibo de pago, éste tendrá un costo de $6.00 (seis pesos 00/100 m.n.)
 
 ###### ARTICULO 14.
 
@@ -249,6 +261,10 @@ Para los fraccionamientos y urbanizaciones nuevas, se realizará un convenio ent
 
 El convenio que para este efecto se expida deberá establecer las obras de infraestructura necesarias y los derechos relativos a las cuotas que el fraccionador o urbanizador, deberá cubrir al Organismo Operador.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2011)</small>
+
+Por el servicio de tratamiento de aguas residuales se cobrará una cuota de $15.00 (quince pesos 00/100 m.n.) y la pagarán las personas usuarias que estén conectadas a la red de drenaje, la cual se incluirá en el recibo de pago de los servicios de agua potable, en el concepto de otros cargos.
+
 ## TITULO QUINTO. DEL MANTENIMIENTO DE TOMAS Y DESCARGAS
 
 ### CAPITULO UNICO. RESPONSABILIDAD
@@ -330,3 +346,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
