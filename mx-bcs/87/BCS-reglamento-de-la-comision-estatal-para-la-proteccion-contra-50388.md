@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-comision-estatal-para-la-proteccion-contra-503
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-10"
-last_updated: "2006-04-10"
+last_updated: "2011-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE FECHA 10 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el lunes 10 de abril de 2006.
 
@@ -626,3 +628,23 @@ C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE SALUD DEL ESTADO DE BAJA CALIFORNIA SUR
 
 C. DR. FRANCISCO CARDOZA MACIAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado. Se abrogan todas las disposiciones anteriores que se opongan al presente.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Comisión Estatal para Protección Contra Riesgos Sanitarios, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 17-BIS, de fecha 10 de abril del 2006.
+
+###### ARTÍCULO TERCERO.
+
+En un término de sesenta días a la entrada en vigor de éste Reglamento, deberán elaborarse y publicarse el Manual Específico de Organización y de Procedimientos.
+
+###### ARTÍCULO CUARTO.
+
+La organización administrativa establecida en el presente Reglamento, impera sobre cualquier ordenamiento que establezca la misma.
