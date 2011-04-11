@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-74847
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2011-03-30"
+last_updated: "2011-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACION Y USOS DEL SUELO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 7 de mayo de 2010.
 
@@ -1533,7 +1533,9 @@ Las densidades indicadas en las zonas comerciales son aplicables exclusivamente 
 
 La cantidad máxima de unidades de vivienda multifamiliar o departamentos que se permiten en las zonas comerciales y de servicios antes mencionadas, será la que se obtenga de dividir la superficie real del lote entre los metros cuadrados de suelo por unidad de vivienda que se permite en la zona. La fracción resultante de dicha operación que sea igual a 0.5 (cero punto cinco) ó mayor se considerará como una unidad más.
 
-En los predios o lotes con uso mixto ubicados en el Polígono Valle Oriente, podrá duplicarse la densidad de metros cuadrados de suelo por unidad de vivienda que se indica en el Plan.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2011)</small>
+
+En los predios o lotes con uso mixto ubicados en el Polígono Valle Oriente, podrá duplicarse la densidad de metros cuadrados de suelo por unidad de vivienda que se indica en el Plan cuando del CUS que le corresponde se utilice un máximo del 50%.
 
 ###### Artículo 60.
 
@@ -1643,13 +1645,17 @@ d. 4.00 veces para los lotes o predios que se ubiquen frente al carril lateral d
 
 e. 5.00 veces para los lotes o predios que se ubiquen en la zona I (prima) y IX;
 
-3. En los lotes o predios que se encuentran ubicados frente al carril lateral de la Avenida Lázaro Cárdenas el Coeficiente de Utilización del Suelo (CUS) máximo será de 4.00 veces;
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2011)</small>
 
-4. En nuevas edificaciones que se efectúen sobre lotes o predios con superficie de hasta 600 metros cuadrados y que se ubiquen en las zonas con usos de suelo mixto, Centro Histórico, Tampiquito, Centrito Valle y El Obispo Norte indicados en el Plan, el área de construcción destinada para el estacionamiento se cuantificará en un 75% para los efectos del Coeficiente de Uso de Suelo (CUS), el resto de la construcción de la edificación se cuantificará al 100% del Coeficiente de Uso de Suelo (CUS) que le corresponda, y;
+3. En Caso de que en un lote o predio de uso mixto, ubicado en el Polígono Valle Oriente, se desarrollen edificaciones que incluyan el uso de suelo habitacional, el CUS máximo será el que resulte de restar el 25% del Coeficiente de Utilización de Suelo (CUS) que le corresponda a la zona en que ubique el lote o predio.
 
-5. En nuevas edificaciones el área de construcción destinada para estacionamiento, sólo se cuantificará en un 50%; para los efectos del Coeficiente de Uso de Suelo (CUS) el resto de la construcción de la edificación se cuantificará al 100% del Coeficiente de Uso de Suelo (CUS) que le corresponda.
+4. En los lotes o predios que se encuentran ubicados frente al carril lateral de la Avenida Lázaro Cárdenas el Coeficiente de Utilización del Suelo (CUS) máximo será de 4.00 veces;
 
-En los supuestos establecidos en la fracción II, número 1, de éste artículo el área de la edificación destinada a uso habitacional y el área de estacionamientos para el uso (sic) de habitacional no se contabilizarán para efectos del cálculo del Coeficiente de Utilización del Suelo (CUS).
+5. En nuevas edificaciones que se efectúen sobre lotes o predios con superficie de hasta 600 metros cuadrados y que se ubiquen en las zonas con usos de suelo mixto, Centro Histórico, Tampiquito, Centrito Valle y El Obispo Norte indicados en el Plan, el área de construcción destinada para el estacionamiento se cuantificará en un 75% para los efectos del Coeficiente de Uso de Suelo (CUS), el resto de la construcción de la edificación se cuantificará al 100% del Coeficiente de Uso de Suelo (CUS) que le corresponda, y;
+
+6. En nuevas edificaciones el área de construcción destinada para estacionamiento, sólo se cuantificará en un 50%; para los efectos del Coeficiente de Uso de Suelo (CUS) el resto de la construcción de la edificación se cuantificará al 100% del Coeficiente de Uso de Suelo (CUS) que le corresponda.
+
+En los supuestos establecidos en la fracción II, número 1, de éste artículo el área de la edificación destinada a uso habitacional y el área de estacionamientos para el uso de (sic) habitacional no se contabilizarán para efectos del cálculo del Coeficiente de Utilización del Suelo (CUS).
 
 Las losas jardín no se tomarán en cuenta para el cálculo del Coeficiente de Utilización del Suelo (CUS) siempre y cuando cumplan con los siguientes requisitos:
 
@@ -2505,6 +2511,8 @@ Las edificaciones comerciales o de servicios deben exhibir de manera permanente,
 
 Previo acuerdo aprobado por la mayoría del H. Cabildo, la Secretaría expedirá la licencia de uso de suelo con sujeción a lo que establece la Ley, el Reglamento en materia ambiental, este Reglamento y el Plan o Programas de desarrollo urbano.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2011)</small>
+
 ###### Artículo 138.
 
 La Licencia de Uso de Suelo podrá ser tramitada por el propietario o poseedor del predio o lote o por su Apoderado, debiendo presentar ante la Secretaría, la siguiente documentación:
@@ -2531,13 +2539,21 @@ X. Acta constitutiva y en su caso la última modificación;
 
 XI. Comprobante de pago de derechos;
 
-XII. La Secretaría dará vista de la solicitud y el dictamen técnico al Consejo Consultivo Ciudadano de Control Urbano, a fin de que emita su opinión;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2011)</small>
 
-XIII. La Secretaría enviará el dictamen técnico y la opinión del Consejo Consultivo Ciudadano de Control Urbano a la Comisión de Control Urbano del Republicano Ayuntamiento para que emita su dictamen, mismo que se someterá al Pleno del Republicano Ayuntamiento;
+XII. Integrado el expediente administrativo la Secretaría en un término de tres días hábiles dará vista al Consejo Consultivo Ciudadano y al Instituto Municipal de Planeación Urbana (IMPLAN) para que emitan la opinión correspondiente. Las opiniones no tendrán efectos vinculantes, ni interrumpirán la secuela del procedimiento;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2011)</small>
+
+XIII.-La Secretaría enviará el dictamen técnico y en su caso la opinión del Consejo Consultivo y del Instituto Municipal de Planeación Urbana (IMPLAN), a la Comisión de Control Urbano del Republicano Ayuntamiento, para que emita su dictamen, el cual someterá al Pleno del Republicano Ayuntamiento;
 
 XIV. El Republicano Ayuntamiento podrá negar o aprobar el dictamen de la Comisión de Control Urbano del mismo; además podrá establecer las normas de planificación restricciones de orden urbanísticos o condiciones que considere necesarias cuando el dictamen sea positivo, o bien podrá acordar retirar el dictamen para su modificación;
 
 XV. Al resolver la solicitud, el Republicano Ayuntamiento de inmediato instruirá a la Secretaría a fin de notificar al solicitante el sentido de la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2011)</small>
+
+Con excepción del procedimiento para la tramitación de licencias de edificación y construcción unifamiliar y autorización de alineamientos y asignación de número oficial, el procedimiento previsto en las fracciones XII, XIII, XIV y XV del presente artículo será aplicable al procedimiento de trámite de las licencias a que se refiere el artículo 135 de este Reglamento.
 
 ### CAPÍTULO III. DE LAS LICENCIAS DE USO DE EDIFICACIÓN
 
@@ -4534,3 +4550,29 @@ Las presentes reformas por modificación y adición al Reglamento de Zonificaci�
 Se deroga cualquier disposición que contravenga
 
 el presente reglamento.
+
+P.O. 11 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por modificación, adición y derogación al Reglamento de Zonificación y Usos del Suelo del Municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+...
+
+###### ARTÍCULO TERCERO.
+
+...
+
+###### ARTÍCULO CUARTO.
+
+...
+
+###### ARTÍCULO QUINTO.
+
+...
+
+###### ARTÍCULO SEXTO.
+
+Las solicitudes, permisos y recursos que se encuentren en trámite y pendientes de resolución se tramitarán bajo las normas que establece el Reglamento de Zonificación y Usos del Suelo que se modifica.
