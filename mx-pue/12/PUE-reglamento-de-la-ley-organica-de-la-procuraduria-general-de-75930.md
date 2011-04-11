@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-759
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-23"
-last_updated: "2010-07-23"
+last_updated: "2011-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 11 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 23 de julio de 2010.
 
@@ -1498,3 +1500,11 @@ CUARTO. La Coordinación General Administrativa, previo acuerdo del Procurador, 
 QUINTO. El Procurador expedirá en un plazo no mayor a noventa días hábiles, a partir de la vigencia del presente Reglamento, los respectivos Manuales de Organización y de Procedimientos de la Dependencia.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los dos días del mes de julio de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRE S.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS. Rúbrica.- El Procurador General de Justicia del Estado.- LICENCIADO RODOLFO IGOR ARCHUNDlA SIERRA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE ABRIL DE 2011.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, publicado en el Periódico Oficial el veintitrés de julio de dos mil diez.
