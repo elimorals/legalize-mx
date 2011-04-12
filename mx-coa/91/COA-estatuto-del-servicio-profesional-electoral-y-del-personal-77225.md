@@ -4,7 +4,7 @@ identifier: "COA-estatuto-del-servicio-profesional-electoral-y-del-personal-7722
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-10-29"
-last_updated: "2010-10-29"
+last_updated: "2011-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2011.
 
 Estatuto publicado en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 29 de octubre de 2010.
 
@@ -689,9 +689,11 @@ El personal podrá ser reubicado en otro puesto, o quedar separado del Instituto
 
 ### CAPÍTULO TERCERO. DE LA JORNADA DE TRABAJO Y LAS VACACIONES
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 96.
 
-El personal del Instituto desarrollará la jornada de trabajo de lunes a viernes, de las 9:00 a las 16:00 horas, fuera de proceso electoral. Por lo que hace a los procesos electorales el horario será de 9:00 a 14:00 y de 16:00 a 19:00 horas.
+El personal del Instituto desarrollará la jornada de trabajo de lunes a viernes, de 9:00 a las 16:00 horas, con excepción de la Oficialía de Partes, de conformidad con el artículo 99 de este mismo ordenamiento.
 
 Dada la naturaleza del servicio que presta el Instituto, durante el periodo de los procesos electorales, o de los procedimientos de plebiscito o referendo, será considerada la excepción prevista en la Ley para la fijación de los horarios de trabajo.
 
@@ -902,3 +904,9 @@ A C U E R D O S
 SESIÓN ORDINARIA DE FECHA 21 DE OCTUBRE DE 2010
 
 ACUERDO NÚMERO 68/2010
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ABRIL DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
