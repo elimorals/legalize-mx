@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-los-alumnos-del-tecnologico-de-estudios-51596"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-30"
-last_updated: "2006-08-30"
+last_updated: "2011-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO PARA LOS ALUMNOS
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA ALUMNOS DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE CUAUTITLAN IZCALLI, PUBLICADO EN LA G.G. DE 12 DE ABRIL DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Sección Primera en la Gaceta del Gobierno del Estado de México, el miércoles 30 de agosto del 2006.
 
@@ -552,3 +554,13 @@ SECRETARIO DE LA H. JUNTA DIRECTIVA Y DIRECTOR GENERAL DEL TECNOLÓGICO DE ESTUD
 (RUBRICA).
 
 APROBADO POR LA H. JUNTA DIRECTIVA EN LA CUADRAGÉSIMA QUINTA SESIÓN ORDINARIA CELEBRADA EL 14 DE MARZO DE 2006.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 12 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en la "Gaceta de Gobierno".
+
+SEGUNDO.- El presente Reglamento entrara en vigor al día siguiente de su publicación en la "Gaceta de Gobierno" ..
+
+TERCERO.- Se abroga el Reglamento de Alumnos aprobado por el H. Junta Directiva en la Cuadragésima quinta sesión ordinaria celebrada el 14 de Marzo del 2006.
