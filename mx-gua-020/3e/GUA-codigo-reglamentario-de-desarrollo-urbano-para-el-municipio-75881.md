@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2011-01-14"
+last_updated: "2011-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2011.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -3263,6 +3263,8 @@ VIII. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de 
 
 #### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN PARA OBRAS NUEVAS
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 284.
 
 Para obtener el registro como perito responsable de la ejecución de obras de urbanización, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín, en este último supuesto deberá contar con estudios de especialización en materia de ejecución de obras de urbanización.
@@ -3351,13 +3353,19 @@ VI. Establecer las normas específicas que deberán observarse en la supervisió
 
 VII. Regular la arquitectura ecológica, así como la innovación tecnológica en arquitectura y construcción.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 289.
 
 La planeación y la ejecución de las obras de construcción que impliquen ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración y demolición, de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para la Licencia de Construcción, al Manual Técnico de las Construcciones y demás normativa aplicable.
 
+Excepción hecha de aquellas ampliaciones relativas a la techumbre en zonas habitacionales que incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas. En tal caso si deberá obtenerse la licencia respectiva, pero no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 290.
 
-La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un Proyectista o un DRO, de conformidad con los dispuesto por el presente Código y el Manual técnico de las construcciones.
+La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un Proyectista o un DRO, de conformidad con lo dispuesto por el presente Código y el Manual técnico de las construcciones, con las excepciones que sobre esa responsiva se establecen en dichos instrumentos.
 
 ### CAPÍTULO III. AUTORIZACIÓN DE OCUPACIÓN DE OBRAS NO TERMINADAS O EN PROCESO DE CONSTRUCCIÓN EN USOS HABITACIONALES
 
@@ -3395,23 +3403,39 @@ VIII. Especiales.
 
 Las fracciones previstas en el presente artículo, constituyen en sí mismas modalidades de la Licencia de construcción, dada la particularidad que ostentan en materia de requisitos para su obtención, alcances y supuestos en que habrán de expedirse, ello de conformidad con lo establecido en este Código.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 293.
 
-Se requiere Licencia de Construcción, sin necesidad de Proyecto Arquitectónico, ni DRO, las siguientes:
+Se requiere Licencia de Construcción para cualquiera de las modalidades señaladas en el artículo anterior, sin planos básicos mínimos y sin necesidad de Proyectista, ni responsiva de un DRO, en los siguientes casos:
 
-I.- Los usos habitacionales unifamiliares, fraccionamientos y desarrollos en condominio que se clasifiquen como: H-5, H-6, H-7, H-8, excepto zona de centro histórico;
+I. Los usos habitacionales de tipo horizontal independientemente del régimen de propiedad, que se clasifiquen como H-5, H-6, H-7, H-8, excepto en la zona de centro histórico y la construcción de Conjuntos Habitacionales, ya sea fraccionamientos o desarrollos en condominio;
 
-Tratándose de fraccionamientos y desarrollos en condominio, se requerirá de los Proyectos Arquitectónicos y de Conjunto.
+II. Comercios y servicios de intensidad mínima y baja, hasta 90 metros cuadrados de construcción;
 
-II.- Comercios y servicios de intensidad mínima y baja, hasta 90 metros cuadrados de construcción; y,
+III. Talleres familiares, hasta 90 metros cuadrados de construcción;
 
-III.- Talleres familiares, hasta 60 metros cuadrados de construcción.
+IV. Las autoconstrucciones; y,
+
+V. Las ampliaciones relativas a la techumbre en zonas habitacionales, siempre y cuando éstas incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas.
+
+Independientemente de que el solicitante sea propietario o poseedor, de más de un inmueble, la facilidad administrativa prevista por la fracción I de este artículo, operará únicamente para uno de ellos, siempre y cuando la construcción no exceda de 90 metros cuadrados.
 
 Los metros cuadrados de construcción enunciadas en las fracciones II y III de este artículo, se consideraran como totales por lo que no podrán ser rebasados, aun tratándose de ampliaciones pues en el caso de estas últimas, se considerara tanto la edificación existente como el proyecto de ampliación.
 
-Estos usos deberán llenar un formato en el que se indiquen las actividades de construcción que realizaran, así como los espacios que conformarán su construcción.
+Estos usos deberán llenar un formato en el que se indiquen las actividades de construcción que realizarán, presentando un croquis donde se especifiquen los espacios que conformarán su construcción.
 
-Lo anterior sin perjuicio de que se puedan realizar los planos arquitectónicos a través de programas de servicio social profesional gratuito, que presten estudiantes de la rama de arquitectura o cualquier otra afín, autorizados por la institución educativa a la que pertenecen, como parte del servicio social universitario en actividades de supervisión de obra o realización de planos.
+Lo anterior sin perjuicio de que se puedan realizar los planos arquitectónicos a través de programas de servicio social profesional gratuito, que presten estudiantes de la rama de arquitectura o cualquier otra afín, autorizados por la institución educativa a la que pertenecen, como parte del servicio social universitario en actividades de supervisión de obra o realización de planos. De igual forma será optativo para el particular solicitar los planos básicos mínimos necesarios ante los diversos colegios de profesionistas existentes en el Municipio, quienes deberán expedirlos sin costo alguno.
+
+En los casos previstos por las fracciones de este artículo, las responsabilidades recaerán directamente sobre el propietario o poseedor, por lo que éstos deberán tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+###### Artículo 293 - A.
+
+Tratándose de los usos habitacionales que no se encuentren comprendidos en la fracción I del artículo anterior, se requerirá licencia de construcción sea cual fuere su modalidad, y deberá presentarse la responsiva del DRO, y los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos; sin necesidad de proyectista.
+
+En el entendido de que la responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.
 
 ###### Artículo 294.
 
@@ -3455,9 +3479,13 @@ IV. Adjuntar original y copia de la Licencia de Alineamiento y Asignación de N�
 
 V. Señalar número de cuenta de predial del inmueble de que se trate;
 
-VI. Cubrir el costo de la Licencia de acuerdo a la Ley de Ingresos vigente, excepción hecha de la que se refiere a la modalidad de autoconstrucción, la cual será gratuita; y,
+VI. Cubrir el costo de la Licencia de acuerdo a la Ley de Ingresos vigente, excepción hecha de la que se refiere a la modalidad de autoconstrucción, la cual será gratuita; y, (sic)
 
 VII. Cumplir con la normativa en materia de usos del suelo.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2011)</small>
+
+VIII. Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último, excepto los casos previstos por el artículo 293 del presente Código.
 
 ###### Artículo 297.
 
@@ -3493,7 +3521,9 @@ Los propietarios o poseedores estarán obligados a efectuar las reparaciones cor
 
 ###### Artículo 299.
 
-Tratándose de Obra Nueva para Uso Habitacional Unifamiliar, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirán tres copias del proyecto, con los planos requeridos de acuerdo al Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista, registrado ante la Dirección, en su caso.
+Tratándose de Obra Nueva para Uso Habitacional Unifamiliar, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirán tres copias de los planos básicos mínimos de acuerdo al Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, así como por el DRO.
+
+Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
 
 ###### Artículo 300.
 
@@ -3517,13 +3547,29 @@ III. Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo 
 
 #### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA REESTRUCTURACIONES
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 302.
 
 Tratándose de Ampliación de Inmuebles con Uso Habitacional Unifamiliar, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción se requiere lo siguiente:
 
 I. Copia de permisos y planos anteriores o copia del avalúo catastral o levantamiento del estado actual de la construcción para acreditar la construcción existente; y,
 
-II. Tres copias del proyecto de ampliación, diferenciando las áreas existentes de la ampliación, con los planos requeridos de acuerdo al uso según la tabla de requerimientos de Proyectistas, DRO, y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista registrado ante la Dirección, en su caso.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2011)</small>
+
+II. Tres copias del proyecto de ampliación, diferenciando las áreas existentes de la ampliación, firmados por el propietario y/o poseedor, y por el DRO en su caso.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+###### Artículo 302 - A.
+
+Tratándose de ampliaciones en zonas habitacionales de tipo horizontal, independientemente del régimen de propiedad, se seguirán las siguientes normas:
+
+l. Para los inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se encuentren dentro de usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, no se requerirán planos básicos mínimos, Proyectista, ni responsiva de un DRO;
+
+II. Para los usos habitacionales que no se encuentren comprendidos en la fracción anterior, se deberán presentar los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos, con la responsiva de un DRO; ello sin necesidad del aval de un proyectista; y,
+
+III. Para las ampliaciones relativas a la techumbre en zonas habitacionales, independientemente del grupo de uso de suelo donde se ubiquen, no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO, si éstas incrementan como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y no impliquen edificación alguna por encima de ellas.
 
 ###### Artículo 303.
 
@@ -3563,11 +3609,19 @@ Para la autorización de las reconstrucciones, se requerirá cubrir los requisit
 
 ###### Artículo 306.
 
-La Reestructuración implica el cambiar, modificar o afectar la estructura de una construcción existente, exclusivamente; y para su otorgamiento, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción se requerirán tres copias del proyecto, indicando los elementos que se reestructuran. El proyecto en este caso deberá estar firmado por el propietario y/o poseedor, y por un profesionista o especialista en proyectos estructurales y la obra deberá contar con un DRO.
+La Reestructuración implica modificar o afectar la estructura de una construcción existente, exclusivamente; y para su otorgamiento, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción se requerirán tres copias del proyecto, indicando los elementos que se reestructuran. El proyecto en este caso deberá estar firmado por el propietario y/o poseedor, y por un profesionista o especialista en proyectos estructurales y la obra deberá contar con un DRO.
+
+Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
 
 ###### Artículo 307.
 
 Para efectuar obras de reestructuración de edificaciones peligrosas o ruinosas, adjunto a la solicitud respectiva se deberá acompañar, además de lo previsto en el artículo que antecede, una memoria en la que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el profesionista o especialista en proyecto estructural.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+###### Artículo 307 - A.
+
+En el caso de usos habitacionales se atenderá a lo que dispone el artículo 306. En el entendido de cuando se requiera DRO, la responsiva que éste otorgue, abarcará la validación de la parte estructural, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
 
 #### SECCIÓN OCTAVA. DE LA LICENCIA DE CONSTRUCCIÓN PARA DEMOLICIONES
 
@@ -3625,6 +3679,12 @@ V. Autorización correspondiente de la Autoridad Estatal o Federal en el caso de
 
 Para efectuar obras de demolición de edificaciones peligrosas o ruinosas, adjunto a la solicitud respectiva se deberá acompañar una memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el profesionista o especialista en proyecto estructural.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+###### Artículo 315 - A.
+
+Tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, las obligaciones a que se refiere la fracción IV del artículo 314 y 315 del presente ordenamiento, serán asumidas directamente por el propietario y/o poseedor. Para los demás grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
+
 #### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 316.
@@ -3651,9 +3711,11 @@ I. Tres copias de los planos necesarios que indiquen los trabajos que se realiza
 
 II. Memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el especialista respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 318.
 
-Tratándose de Fraccionamientos y Desarrollos en Condominio, los requisitos para la obtención de la Licencia Especial, serán los mismos que los señalados por este Código para la Licencia de Construcción para Obras Nuevas de uso habitacional, excepción hecha de lo establecido en el artículo 293 del presente código.
+Tratándose de Fraccionamientos y Desarrollos en Condominio, los requisitos para la obtención de la Licencia Especial, serán los mismos que los señalados por este Código para la Licencia de Construcción para Obras Nuevas de uso habitacional.
 
 Se expedirán licencias de conjuntos habitacionales para proyectos tipo idénticos, ubicados dentro de una misma manzana.
 
@@ -3835,7 +3897,9 @@ Los requisitos para solicitar la certificación de terminación de obra son los 
 
 I. Para uso habitacional:
 
-a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO en su caso; y,
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO en su caso; tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, el formato deberá suscribirse única y exclusivamente por el propietario y/o poseedor; y,
 
 b) Pago de derechos de acuerdo a la Ley de Ingresos.
 
@@ -3864,6 +3928,8 @@ La Dirección emitirá la certificación de terminación de obra al solicitante 
 De igual forma, se turnará un tanto a la Dirección General de Impuestos Inmobiliarios y Catastro, para efectos de la actualización del inmueble.
 
 ### CAPÍTULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL PROYECTISTA
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
 
 ###### Artículo 350.
 
@@ -3942,6 +4008,10 @@ XVI. Protección al ambiente; y,
 XVII. Sustentabilidad.
 
 Los especialistas o profesionistas que hayan sido contratados por los DRO y proyectistas, tendrán responsabilidad directa únicamente con los contratantes, de tal manera que ante la Dirección, los únicos responsables de la obra o proyecto, serán los mismos DRO y proyectistas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+
+Para el caso de las autoconstrucciones, así como para los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico, la responsabilidad recaerá directamente en el propietario o poseedor.
 
 ###### Artículo 354.
 
@@ -4043,6 +4113,8 @@ II. Presentar un listado de las Obras de Construcción para las que emitió su r
 
 Las construcciones en las que el Proyectista interviene de acuerdo a su disciplina se ubican en el Manual Técnico de las Construcciones.
 
+En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-B, excepto zona de centro histórico; tratándose de los demás usos habitacionales, la responsabilidad sobre la obra o el proyecto, será únicamente del DRO.
+
 ###### Artículo 370.
 
 Las obras de construcción a que se refiere este ordenamiento, podrán de acuerdo a sus características, contar con la cantidad de Proyectistas que éstas requieran en su caso, y sólo podrán realizar proyectos afines a su profesión o especialidad.
@@ -4077,9 +4149,15 @@ El término de las funciones como Proyectista, no le exime de la responsabilidad
 
 El DRO será enlace técnico con la Dirección y deberá verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte de la Licencia de Construcción y/o demolición, y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista en base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+
 ###### Artículo 374.
 
-Las construcciones en las que un DRO interviene están señaladas en el Manual Técnico de las Construcciones.
+Las construcciones en las que un DRO interviene están señaladas en el presente ordenamiento y en el Manual Técnico de las Construcciones.
+
+En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico.
+
+Siendo materia de su responsiva en usos habitacionales, los que no se encuentren previstos por el párrafo anterior.
 
 ###### Artículo 375.
 
@@ -5929,7 +6007,7 @@ ANEXOS
 
 > <small>N. DE E. VEASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 54 A LA 55.</small>
 
-> <small>N. DE E. VEASE ANEXO 6: MANUAL TECNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 209 A LA 228.</small>
+> <small>N. DE E. VEASE ANEXO 6: MANUAL TECNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PAGINAS 34 A LA 35.</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -6000,3 +6078,9 @@ P.O. 14 DE ENERO DE 2011.
 PRIMERO.- Las presentes reformas, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
+P.O. 12 DE ABRIL DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
