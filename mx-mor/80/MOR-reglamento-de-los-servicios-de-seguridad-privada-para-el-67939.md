@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-los-servicios-de-seguridad-privada-para-el-67939"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2011-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -1686,3 +1688,21 @@ LUIS ÁNGEL CABEZA DE VACA RODRÍGUEZ
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento de los Servicios de Seguridad Privada para el Estado de Morelos, publicado el 1 de Abril del 2009, en el Periódico Oficial "Tierra y Libertad" 4690.
+
+TERCERO.- Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Reglamento, deberán desahogarse conforme al Reglamento que se abroga.
+
+CUARTO.- Se otorga un plazo de treinta días hábiles para que todas aquellas personas físicas o morales prestadoras del servicio de seguridad privada, ajusten sus actuaciones y desarrollo de actividades acorde a las disposiciones del presente Reglamento.
+
+QUINTO.- Se concede a los prestadores que, a la entrada en vigor del presente Reglamento, no tengan Autorización otorgada por la Secretaría, o se encuentre en trámite, un plazo de sesenta días naturales, contados a partir del día siguiente a la publicación del presente ordenamiento, p
+
+ara su regularización.
+
+SEXTO.- Se concede a los prestadores un término impostergable de 90 días naturales a la entrada en vigor del presente Reglamento, para que constituyan la garantía a que se refiere el presente ordenamiento.
