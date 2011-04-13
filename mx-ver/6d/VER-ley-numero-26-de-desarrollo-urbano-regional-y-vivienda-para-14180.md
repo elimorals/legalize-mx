@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-26-de-desarrollo-urbano-regional-y-vivienda-para-141
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-17"
-last_updated: "2007-01-26"
+last_updated: "2011-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE DESARROLLO URBANO, REGIONAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN EL P.O. DE FECHA 13 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 17 de abril de 1999.
 
@@ -1384,3 +1386,21 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Tercero. El Instituto Veracruzano de Desarrollo Urbano Regional y Vivienda deberá emitir su Reglamento Interior, en un término no mayor a 90 días.
+
+G.O. 13 DE ABRIL DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se deroga la Ley de Desarrollo Urbano, Regional y Vivienda del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el diecisiete de abril de mil novecientos noventa y nueve, con excepción de lo dispuesto por su artículo 5, por el que se crea el Instituto Veracruzano de Desarrollo Urbano, Regional y Vivienda, organismo público descentralizado de la Administración Pública Estatal que, a partir de la entrada en vigor de la presente Ley, cambiará su denominación por la de Instituto Veracruzano de la Vivienda, con el objeto y atribuciones señaladas en los artículos 6 y 7. Para tal efecto, el Instituto deberá modificar sus reglamentos y demás disposiciones internas de organización y funcionamiento, dentro de un término de sesenta días a partir del inicio de vigencia de esta Ley. Asimismo, se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+Artículo Tercero. El Instituto Veracruzano de la Vivienda conservará la titularidad de sus bienes, derechos y obligaciones integrantes de su patrimonio, salvo los recursos materiales, humanos y financieros relacionados directamente a las materias de planeación del desarrollo urbano, ordenamiento territorial y control de uso del suelo, áreas administrativas que deberán transferirse a la Secretaría de Desarrollo Social para el cumplimiento de las atribuciones que esta Ley otorga a dicha dependencia centralizada.
+
+La Secretaria de Finanzas y Planeación determinará conjuntamente con la Secretaria de Desarrollo Social y el Instituto Veracruzano de la Vivienda las transferencias que en su caso deban realizarse.
+
+En la transferencia que, en su caso, deba hacerse de recursos humanos, se observarán las disposiciones legales aplicables, con pleno respeto a los derechos laborales del personal.
+
+Los asuntos actualmente en trámite ante las áreas administrativas del Instituto que se transfieren a la Secretaría continuarán el procedimiento ordinario, radicado en lo sucesivo en la mencionada Secretaría.
+
+Artículo Cuarto. Dentro del plazo de sesenta días a partir de la entrada en vigor de esta Ley, se deberá adecuar el Reglamento Interior de la Secretaría de Desarrollo Social.
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro de los ciento veinte días siguientes al inicio de vigencia de ésta; en tanto ello no ocurra, continuarán aplicándose las disposiciones que no se opongan al presente ordenamiento.
