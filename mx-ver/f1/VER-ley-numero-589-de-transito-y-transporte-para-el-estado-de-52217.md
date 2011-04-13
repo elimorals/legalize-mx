@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2011-01-14"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1459,27 +1459,11 @@ A las personas físicas sólo se les otorgará una concesión para prestar el se
 
 En los términos que establece el artículo 123 de esta Ley, a las personas morales se les otorgarán las concesiones que resulten necesarias para las modalidades de urbano, suburbano, foráneo, exclusivo de turismo, para personal de empresas y carga especializada.
 
-> <small>(REFORMADO, G.O. 28 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2011)</small>
 
 ###### Artículo 127.
 
-Las concesiones que se otorguen para prestar el servicio de transporte público en la modalidad de taxi se equipararán al patrimonio familiar, y por lo mismo son inalienables, inembargables e intransferibles, salvo en caso de gran necesidad debidamente acreditada, a juicio del Secretario. Su regulación y control se regirán por las disposiciones aplicables del Código Civil para el Estado de Veracruz de Ignacio de la Llave.
-
-Con la excepción señalada en el párrafo anterior, los derechos que ampara una concesión para prestar el servicio de transporte público en todas las demás modalidades podrán ser transferidos a terceros, previa autorización escrita otorgada por la Secretaria, siempre que se cumpla con las condiciones y requisitos establecidos en la presente Ley y su Reglamento.
-
-Para que la Secretaria otorgue la autorización de transferencia de derechos a que se refiere el párrafo anterior, se requerirá que:
-
-I. El titular de la concesión haya ejercido el derecho que de ella emana, cuando menos cinco años antes de la presentación de la solicitud de transferencia;
-
-II. Haya una solicitud por escrito del concesionario y del aspirante a los derechos derivados de la concesión;
-
-III. Los documentos del concesionario y del aspirante cumplan con todo lo dispuesto en el Reglamento de esta Ley;
-
-IV. El interesado cubra ante la Oficina de Hacienda de la localidad el importe de los derechos respectivos; y
-
-V. Con motivo de la transferencia no se infrinja ninguna disposición legal o reglamentaria.
-
-El Gobierno del Estado no otorgará otra concesión, en la misma modalidad, al concesionario que haya transferido sus derechos.
+Los derechos derivados de las concesiones que se otorguen para prestar el servicio de transporte público en las modalidades que señala esta ley, serán inalienables, inembargables e intransferibles, y su regulación y control se regirán por las disposiciones de este ordenamiento.
 
 ###### Artículo 128.
 
@@ -1527,19 +1511,25 @@ X. Inscribirse en el Registro de Transporte Público;
 
 XI. Prestar el servicio de manera gratuita, por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias o causas análogas que les informe la Secretaría; y (sic)
 
-> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
 
-XII. Proporcionar a la Dirección de Tránsito y Transporte del Estado los padrones de los operadores de las unidades concesionadas; y
+XII. Proporcionar a la Dirección los padrones de los operadores de las unidades concesionadas, con la periodicidad que indique el Reglamento;
 
-> <small>(ADICIONADA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
 
-XIII. Las demás establecidas en esta ley y otras disposiciones jurídicas y administrativas aplicables en la materia.
+XIII. Verificar ante la Dirección y exigir a todo conductor de unidad del servicio del transporte público que cuente con licencia para conducir tipo "A" expedida por la Dirección; así mismo, constatar que los conductores de sus unidades del servicio público de transporte hayan recibido y cursado debidamente la capacitación que en materia vial imparta el Instituto: y
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+XIV. Las demás que establezcan esta Ley y las disposiciones aplicables en la materia.
 
 ### Capítulo VI. Suspensión, Terminación y Revocación de las Concesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2011)</small>
+
 ###### Artículo 132.
 
-La Dirección podrá suspender hasta por tres meses los derechos derivados de una concesión, cuando:
+La Dirección podrá suspender de uno a tres meses los derechos derivados de una concesión, cuando:
 
 I. Se altere la tarifa establecida para la prestación del servicio de transporte público de que se trate;
 
@@ -1547,15 +1537,17 @@ II. Se deje de cumplir con alguna de las características señaladas en la conce
 
 III. Se deje de prestar el servicio por más de treinta días naturales sin causa justificada o, habiéndola, no se hubiese comunicado por escrito a la Dirección;
 
-IV. En la prestación del servicio, el vehículo sea conducido por quien carezca de la licencia correspondiente a la modalidad de que se trate o, teniendo aquélla, esté suspendida su vigencia;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+IV. Se preste el servicio de transporte público con una unidad vehicular que carezca de seguro de responsabilidad civil o que no esté amparada con el fondo de garantía, en los términos que dispone el artículo 46 de esta Ley;
 
 V. Se conceda temporalmente a terceros el uso o disfrute de la concesión;
 
 VI. Se altere la documentación que ampare la concesión o cualquiera de los documentos del vehículo;
 
-> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
 
-VII. Se cometa un delito con el vehículo autorizado para prestar el servicio de transporte público, con excepción de los delitos de homicidio o de lesiones, en este último concepto, las establecidas en las fracciones IV a la VI del artículo 137 del Código Penal para el Estado, a efecto de que por esos ilícitos se proceda a la suspensión temporal por seis meses de la concesión;
+VII. Se cometa un delito con el vehículo autorizado para prestar el servicio de transporte público: pero si se trata del delito de lesiones a que se refieren las fracciones IV a VI del artículo 137 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, la suspensión temporal será de seis a doce meses;
 
 VIII. Se niegue, sin causa justificada, previo apercibimiento de la Dirección, la prestación del servicio concesionado a cualquier persona que lo solicite;
 
@@ -1589,7 +1581,13 @@ IV. Desaparición del objeto o de la finalidad de la concesión;
 
 V. Liquidación o quiebra; y
 
-VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección, en el término de los sesenta días naturales siguientes.
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+VI. Fallecimiento del titular.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+En el supuesto previsto en la fracción VI anterior, cualquiera de los dependientes económicos del titular deberá notificar el hecho a la Dirección, dentro del plazo de los sesenta días naturales siguientes al deceso. En este caso y atendiendo a las condiciones económicas y sociales de los hijos dependientes económicos, la esposa o concubina o alguno de éstos si es mayor de edad, tendrán preferencia para que se les otorgue una nueva concesión similar a la que tenía el titular fallecido. En ausencia de la esposa o concubina, y habiendo dos o más hijos dependientes económicos mayores de edad, la concesión se otorgará a quien elijan de entre ellos, dentro del plazo antes señalado; la falta de acuerdo en este plazo extinguirá este derecho.
 
 ###### Artículo 134.
 
@@ -1607,13 +1605,29 @@ V. Se violen las condiciones establecidas en la concesión otorgada;
 
 VI. No se inicie la prestación del servicio de transporte público concesionado dentro del plazo señalado por esta Ley y su Reglamento, salvo causa de fuerza mayor notificada por escrito a la Dirección;
 
-VII. El vehículo que se utilice no cumpla con las condiciones de seguridad, mecánicas, ambientales o atente contra la integridad o salud de la población;
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+VII. El vehículo que se utilice para la prestación del servicio público de transporte concesionado no cumpla con las características, condiciones técnicas, de seguridad y ambientales a que se refieren los artículos 47 a 51 y 120 de esta Ley, o se ponga en riesgo la integridad o salud de cualquier persona;
 
 VIII. El concesionario preste el servicio con unidades no autorizadas;
 
-IX. El concesionario explote rutas no autorizadas; y
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+IX. El concesionario explote rutas o modalidades no autorizadas;
 
 X. Se instalen en un vehículo de transporte público placas de circulación o autorización oficial para circular que no le correspondan legalmente.
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+XI. Se cause la muerte de alguna persona con la unidad vehicular autorizada para prestar el servicio de transporte público y, además, concurra alguna de las causas señaladas en la fracción VII de este artículo;
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+XII. En la prestación del servicio, el vehículo sea conducido por quien carezca de la licencia correspondiente a la modalidad de que se trate o teniéndola esté suspendida su vigencia; y
+
+> <small>(ADICIONADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+XIII. Que el conductor de la unidad opere la misma en estado de ebriedad, bajo el influjo de sustancias toxicas o psicotrópicas o con temeridad. Se entiende que el conductor opera con temeridad cuando circula o conduce la unidad vehicular del servicio de transporte público, sin tomar las medidas mínimas de seguridad que marcan esta Ley y su Reglamento, y pone en peligro la vida, la integridad de cualquier persona o pone en riesgo los bienes de las mismas e incluso los propios.
 
 ###### Artículo 135.
 
@@ -2010,3 +2024,9 @@ G.O. 14 DE ENERO DE 2011.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
