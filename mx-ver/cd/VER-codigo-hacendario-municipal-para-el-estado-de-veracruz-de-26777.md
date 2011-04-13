@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2010-07-21"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -5659,13 +5659,27 @@ V. La totalidad o la parcialidad de los bienes del dominio público, que sean de
 
 VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
 
-VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
+> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
+
+VII. Los materiales y suministros adquiridos por el Municipio no afectos a la prestación de servicios públicos; y
 
 VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
 
 ###### Artículo 442.
 
 Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+En ningún caso se podrán embargar los bienes muebles e inmuebles afectos a un servicio público, así como los ingresos propios, ni los provenientes de participaciones o aportaciones federales. Tampoco podrán embargarse las cuentas bancarias aperturadas a nombre del Municipio.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+Los magistrados, jueces, actuarios, secretarios y demás funcionarios judiciales que ordenen, tramiten o ejecuten diligencias o traben embargos en contravención a lo dispuesto en este artículo, incurrirán en la responsabilidad civil, administrativa o penal que establece la legislación estatal.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+Sólo podrán embargarse los bienes del dominio privado del Municipio a que se refiere el artículo 441 de este Código.
 
 ###### Artículo 443.
 
@@ -6260,3 +6274,11 @@ Segundo. Las disposiciones contenidas en el Artículo Segundo del presente Decre
 Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decreto iniciarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decreto, las modificaciones aprobadas serán aplicables a los Códigos Hacendarios Municipales de orden específico de los diversos municipios del Estado, a pesar de las disposiciones en contrario que en éstos existan.
