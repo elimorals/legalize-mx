@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-de-los-servidores-publicos-del-6667"
 country: "mx"
 rank: "ley"
 publication_date: "1985-11-08"
-last_updated: "1992-11-16"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,11 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, LA PRESENTE DEROGACIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 8 de noviembre de 1985.
 
@@ -38,6 +42,8 @@ El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quinc
 DECRETO NUMERO 291
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
 
 ###### ARTICULO PRIMERO.
 
@@ -106,6 +112,28 @@ P.O. 16 DE NOVIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE ABRIL DE 2011.
+
+Artículo Primero.- La presente ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan los capítulos V, VI y VIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+
+Artículo Tercero.- De los capítulos I, VII, y IX, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, únicamente se derogan los artículos que se refieren a la materia de responsabilidad administrativa de los servidores públicos del Estado, quedando vigentes los diversos dispositivos jurídicos que se contienen en dichos capítulos y que rigen los procedimientos relativos al juicio político y a la declaratoria de procedencia por la comisión de delitos.
+
+Artículo Cuarto.- A la entrada en vigor de la presente ley, continuarán vigentes los capítulos II, III, y IV de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, referentes al juicio político y a la declaratoria de procedencia por la comisión de delitos.
+
+Artículo Quinto. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+Artículo Sexto.- Los procedimientos y recursos administrativos que se hayan iniciado por las autoridades conforme a las leyes o reglamentos aplicables, antes de la entrada en vigor de este ordenamiento y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme con las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
+
+Artículo Séptimo.- Cuando en materia de responsabilidad de servidores públicos, otras leyes, reglamentos y demás disposiciones jurídicas o administrativas hagan mención de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, se entenderán referidas a este ordenamiento, con la salvedad que se establece en el artículo cuarto transitorio del presente decreto.
+
+Artículo Octavo.- En tanto no se establezcan los Órganos Internos de Control de los Poderes Legislativo y Judicial; la Comisión de Fiscalización del Congreso del Estado y el Pleno del Supremo Tribunal de Justicia del Estado, respectivamente, desarrollarán las funciones que esta Ley les encomienda; asimismo, en los Ayuntamientos será el Síndico Procurador quien ejercerá las citadas funciones. El Congreso del Estado, el Supremo Tribunal y demás sujetos obligados al cumplimiento de la presente Ley, contarán con 90 días naturales para establecer sus respectivos Órganos Internos de Control, por lo que deberán hacer las previsiones legales, reglamentarias, presupuestales y administrativas necesarias para cumplir con esta disposición.
+
+Artículo Noveno.- Las Dependencias y Organismos que a la entrada en vigor del presente Decreto cuenten con Órganos Internos de Control, deberán reformar sus reglamentos adicionando las facultades que esta Ley les confiere, en un plazo no mayor a 90 días naturales, lo cual no implicará el incremento de su estructura orgánica.
+
+Artículo Décimo.- Las declaraciones patrimoniales de los servidores públicos de los Municipios que a la entrada en vigor del presente Decreto, tenga bajo su resguardo la Unidad de Trasparencia y Rendición de Cuentas del Estado, deberán ser entregados al Síndico Procurador correspondiente, mediante el procedimiento de entrega-recepción.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -193,6 +221,8 @@ No procederá el Juicio Político por la sola expresión de las ideas.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES Y SANCIONES ADNINISTRATIVAS (SIC)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+
 ###### ARTICULO 12.
 
 Los servidores públicos mencionados en el presente Capítulo, en su caso, serán sancionados con destitución del empleo, cargo o comisión y atendiendo a la gravedad de la falta podrá imponerse además inhabilitación para el servicio público, desde uno hasta veinte años.
@@ -238,6 +268,8 @@ Si no es posible recibir oportunamente las pruebas admitidas o se considera nece
 Agotada la recepción de las pruebas se pondrá el expediente a la vista, primero del denunciante y después del denunciado, por cinco días hábiles a cada uno, para que formulen por escrito sus alegatos.
 
 ### CAPITULO VI. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES ADMINISTRATIVAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 19.
 
@@ -319,7 +351,7 @@ Tratándose de Juicio Político en contra de los servidores públicos señalados
 
 ### CAPITULO VIII. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 32.
 
@@ -393,225 +425,179 @@ Tratándose de delitos federales que se imputen al Gobernador, a los Diputados L
 
 En caso afirmativo, el servidor público quedará a disposición de las autoridades competentes para que procedan con arreglo a la Ley y en caso negativo, se mandará archivar el expediente como asunto concluido, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión, en ambos casos, la resolución que se dicte.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 46.
 
-Los servidores públicos deben salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 47.
 
-Para el cumplimiento de lo establecido en la presente Ley, los servidores públicos tendrán las siguientes obligaciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- Cumplir con eficiencia el servicio que les sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
-
-II.- Formular y ejecutar legalmente planes, programas y presupuestos de su competencia, y cumplir las disposiciones que regulen el manejo de recursos económicos públicos;
-
-III.- Utilizar los recursos que tengan asignados, las facultades que les sean atribuidas y la información reservada a que tengan acceso, exclusivamente para el desempeño de su empleo, cargo o comisión;
-
-IV.- Custodiar la documentación e información que por razón de su empleo, cargo o comisión conserven bajo su cuidado o a la cual tengan acceso, evitando su uso indebido;
-
-V.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tengan relación con motivo del desempeño de su función;
-
-VI.- Conducirse en la dirección de sus inferiores jerárquicos con las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
-
-VII.- Ser respetuosos en las relaciones con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
-
-VIII.- Abstenerse de disponer o autorizar, sin causa justificada, que un subordinado falte a sus labores por más de quince días continuos, o treinta descontinuos (sic) en un año, así como de otorgar licencias o permisos con goce parcial o total de sueldos u otras percepciones;
-
-IX.- No desempeñar otro empleo, cargo o comisión, oficial o particular, que la Ley les prohíba;
-
-X.- Cerciorarse antes de autorizar la selección, contratación o designación de quien pueda ocupar un empleo, cargo o comisión en el servicio público, que no se encuentre inhabilitado por resolución firme de autoridad competente;
-
-XI.- Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios;
-
-XII.- Abstenerse de adquirir valores y bienes muebles o inmuebles, en los juicios o controversias en que intervengan;
-
-XIII.- Abstenerse durante el ejercicio de sus funciones y un año después de concluidas y aprovechándose de éstas de solicitar, aceptar o recibir por sí o por interpósita persona, servicios, concesiones, dinero o cualquier otro bien que incremente su patrimonio económico, sea que lo adquieran por donación o por precio notoriamente inferior al que tenga en el mercado ordinario, así como cualquier donación, empleo, cargo o comisión para sí o para sus familiares, que procedan de cualquier persona cuyas actividades se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público, en las que existan intereses en conflicto y sólo podrán recibir donativos en especie, de una misma persona, cuyo valor acumulado durante un año no sea superior a diez veces el salario mínimo general vigente en el Estado;
-
-XIV.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1992)</small>
-
-XV.- Presentar con oportunidad y veracidad, declaración de situación patrimonial ante las Contralorías Generales de cada uno de los Poderes del Estado, en los términos que señala esta Ley.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
-
-Los Servidores Públicos que prestan sus Servicios en los Ayuntamientos u Organismos e Instituciones Municipales, la presentarán ante la Contraloría General del Poder Ejecutivo.
-
-XVI.- Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refiere este artículo, en los términos de las normas que al efecto se expidan;
-
-XVII.- Aplicar a sus subordinados las sanciones que sean de su competencia, por infracciones a esta Ley;
-
-XVIII.- Respetar y hacer respetar el derecho a la formulación de quejas y denuncias por incumplimiento de sus obligaciones y evitar que con motivo de ello se causen molestias al quejoso;
-
-XIX.- Abstenerse de todo acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y,
-
-XX.- Las demás que les impongan las leyes y reglamentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 48.
 
-El incumplimiento de las obligaciones administrativas a que se refiere el presente Capítulo, dará lugar a la imposición de las siguientes sanciones:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- Apercibimiento privado o público;
-
-II.- Amonestación privada o pública;
-
-III.- Suspensión;
-
-IV.- Destitución;
-
-V.- Sanción económica; y,
-
-VI.- Inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 49.
 
-Quedan exceptuados de las sanciones señaladas en el artículo anterior, el Gobernador del Estado, los Diputados de la Legislatura Local, los Magistrados del Supremo Tribunal de Justicia, los Presidentes Municipales y Regidores de los Ayuntamientos, sin perjuicio de lo dispuesto por el artículo 12.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-Tratándose de servidores públicos de base, la suspensión y destitución se aplicarán en los términos de las leyes que regulen su relación de trabajo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 50.
 
-La suspensión en el empleo, cargo o comisión, podrá imponerse por un término de tres días a dos meses.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 51.
 
-Las sanciones económicas se impondrán cuando se obtenga un beneficio indebido o se causen daños o perjuicios al incumplir las obligaciones establecidas en el artículo 47, y podrán consistir en el importe de hasta de dos tantos del lucro obtenido o de los daños o perjuicios causados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 52.
 
-La inhabilitación se impondrá como consecuencia de un acto u omisión que implique lucro, o cause daño o perjuicio, y será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo general mensual vigente en el Estado, y de tres a diez años si excede de dicho límite.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-Esta sanción se podrá aplicar conjuntamente con la sanción económica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 53.
 
-Para la imposición de las sanciones administrativas se deberán tomar en cuenta los siguientes elementos:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- La gravedad de la infracción;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
-II.- Las condiciones socio-económicas y demás circunstancias personales del servidor público;
-
-III.- El nivel jerárquico y los antecedentes de servicio del infractor;
-
-IV.- Las condiciones exteriores y los medios de ejecución;
-
-V.- La antigüedad en el servicio;
-
-VI.- La reincidencia, en su caso, en el incumplimiento de sus obligaciones; y,
-
-VII.- El monto del beneficio obtenido y del daño o perjuicio económico derivado del incumplimiento de sus obligaciones.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 54.
 
-Cualquier ciudadano puede presentar queja o denuncia por incumplimiento de las obligaciones de los servidores públicos, con la que se iniciará, en su caso, el procedimiento disciplinario correspondiente. La queja o denuncia se presentará por escrito o en comparecencia, ante unidades específicas que al efecto serán instaladas en lugares de fácil acceso al público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 55.
 
-Todo servidor público deberá denunciar los hechos que a su juicio sean causa de responsabilidad administrativa, imputable a otros servidores públicos. Dicha denuncia la presentará por escrito ante el superior jerárquico del presunto infractor.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 56.
 
-Las Contralorías Generales del Congreso del Estado, del Supremo Tribunal de Justicia y de los Ayuntamientos tienen por objeto crear los sistemas para identificar, investigar y determinar las infracciones administrativas y realizar las demás funciones que les corresponden, en los términos de la presente Ley y demás disposiciones legales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-El Comité Estatal de Planeación para el Desarrollo de Sinaloa y cada Comité de Planeación para el Desarrollo Municipal, establecerán una Unidad de Control y Evaluación que dependerá de la Contraloría del Poder Ejecutivo o de los Ayuntamientos, según corresponda, las cuales vigilarán la aplicación de los recursos cuyo ejercicio tengan encomendado el Gobierno del Estado y los Ayuntamientos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 57.
 
-Son competentes para la aplicación de las sanciones administrativas:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- La contraloría General de cada uno de los Poderes del Estado y de los Ayuntamientos;
-
-II.- Los titulares de las dependencias de los Poderes del Estado y de los Ayuntamientos;
-
-III.- Los titulares de los organismos de la administración pública paraestatal y paramunicipal;
-
-IV.- Los Tribunales del Estado; y,
-
-V.- Los demás servidores públicos y dependencias que señalen las leyes y reglamentos.
-
-Se entiende por titular de la dependencia y por superior jerárquico, el responsable del área específica a la que esté adscrito el servidor público que dé lugar al procedimiento para la aplicación de sanciones administrativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 58.
 
-Las sanciones previstas por las fracciones I a IV del artículo 48, serán aplicadas por el titular de la dependencia u organismo al que esté adscrito el servidor público, sin más requisitos que oír a éste y al denunciante, recibiendo en el mismo acto las explicaciones o justificación del caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 59.
 
-La sanción económica, cualquiera que sea el monto, sólo podrá imponerla la Contraloría respectiva.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 60.
 
-La inhabilitación para desempeñar cargo, empleo o comisión en el servicio público, sólo podrá imponerse mediante resolución judicial.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 61.
 
-Quien fuere competente, conforme a esta Ley, para aplicar una sanción administrativa, podrá abstenerse de imponerla, por una sola vez, cuando lo estime pertinente, siempre que se trate de hechos que no revistan gravedad ni puedan constituir delito, lo ameriten los antecedentes y circunstancias personales del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en el Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 62.
 
-Los titulares a que se refieren las fracciones II y III del artículo 57, deberán comunicar por escrito a la Contraloría que corresponda, las quejas y denuncias que les sean presentadas, así como las sanciones que impongan, dentro de los tres días hábiles siguientes en cada caso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 63.
 
-Si de la investigación que realice una Contraloría, apareciere la probable responsabilidad de un servidor público, informará al titular de la dependencia o del organismo correspondiente, para que aplique la sanción que fuere de su competencia. Si se tratare de infracciones cuyo conocimiento sólo compete a la Contraloría, informará en los mismos términos para que coadyuve a sustanciar el procedimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 64.
 
-Para la investigación de faltas administrativas y la aplicación de sanciones, que sean competencia exclusiva de las Contralorías, se observará el siguiente procedimiento:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- Se hará saber al presunto infractor la falta administrativa que se le imputa y se le citará a una audiencia para que comparezca personalmente, ofrezca pruebas y alegue lo que a su derecho convenga, por sí o por medio de su defensor. También asistirá a la audiencia un representante de la dependencia en la que labore el servidor público de que se trate, para que coadyuve a sustanciar el procedimiento.
-
-Entre la fecha de la citación y la celebración de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles; y,
-
-II.- En la misma audiencia, o dentro de los tres días hábiles siguientes, se dictará la resolución procedente, la que se notificará de inmediato tanto al interesado como al representante de la dependencia u organismo respectivo así como al superior jerárquico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 65.
 
-En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I del artículo anterior, se podrá determinar la suspensión del servidor público en su empleo, cargo o comisión, si así conviene para la conducción o continuación de las investigaciones. La suspensión no prejuzga sobre la responsabilidad que se imputa y cesará cuando así se resuelva, independientemente de la iniciación, continuación o conclusión de procedimiento.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 66.
 
-Si el servidor público suspendido no resultare responsable de las faltas que se le imputaren será restituido en su empleo, cargo o comisión y se le cubrirán las percepciones que hubiere dejado de recibir. Si resultare responsable, la Contraloría respectiva impondrá la sanción económica y dará vista al superior jerárquico del infractor para que aplique, en su caso, la diversa sanción administrativa que proceda.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 67.
 
-Si durante el procedimiento ante la Contraloría el servidor público confesare su responsabilidad procederá de inmediato a dictar resolución, a no ser que se disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez de la confesión, por sí misma o por virtud de las pruebas recabadas, se impondrán al infractor dos terceras partes de la sanción aplicable, siempre y cuando se cubran los daños y perjuicios causados o se restituya el lucro obtenido.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 68.
 
-Las resoluciones que dicten los titulares a que se refieren las fracciones II y III del artículo 57, en las que se impongan sanciones administrativas, podrán ser impugnadas por el servidor público, a su elección, ante la Contraloría correspondiente mediante el recurso de revisión, dentro de los cinco días hábiles siguientes a la fecha de la notificación de la resolución, el cual será resuelto dentro de los diez días hábiles siguientes a su presentación, o mediante demanda ante el Tribunal Fiscal del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 69.
 
-La interposición del recurso suspenderá la ejecución recurrida, si lo solicita el promovente y se cumplen los requisitos siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- Que se admita el recurso;
-
-II.- Que la ejecución de la resolución recurrida produzca daños o perjuicios de imposible reparación en contra del recurrente; y,
-
-III.- Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicio al interés social o al servicio público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 70.
 
-No procederá recurso en contra de las resoluciones que dicten las Contralorías en las revisiones que ante éstas se sustancien. En las que impongan sanciones económicas, podrán ser reclamadas ante el Tribunal Fiscal del Estado, quien podrá suspender la ejecución de la resolución si se garantiza el interés fiscal en los términos del artículo 41 de la Ley de la Administración de Justicia Fiscal del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 71.
 
-Las resoluciones dictadas por la Contraloría respectiva y las que pronuncien los superiores jerárquicos adquieren firmeza si dentro del término legal no se reclaman ante el Tribunal Fiscal conforme al artículo anterior, o no se interpone el recurso de revisión a que alude el artículo 68.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato.
-
-La suspensión y destitución que se impongan a los servidores públicos, surtirán efectos al notificarse la resolución y se considerarán de orden público.
-
-Las sanciones económicas que se apliquen, constituirán créditos fiscales a favor de las (sic) Hacienda Pública y se harán efectivos mediante el procedimiento económico-coactivo, tendrán la prelación prevista para dichos créditos y se sujetarán a las disposiciones fiscales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 72.
 
-Las Contralorías se comunicarán entre sí las resoluciones firmes en las que se hubiere impuesto la destitución y sanción económica. Igualmente, los tribunales comunicarán a las Contralorías las resoluciones ejecutoriadas en las que se imponga como sanción la inhabilitación para desempeñar empleo, cargo o comisión en el servicio público.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 73.
 
-Toda persona, previo al ingreso a un empleo, cargo o comisión del servicio público, deberá exhibir constancia expedida por la Contraloría de la instancia de gobierno a la que se pretenda ingresar, donde se acredite que no se encuentra inhabilitada para ejercer la función pública.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
 
 ###### ARTICULO 74.
 
@@ -629,93 +615,63 @@ Tratándose de delitos imputados al Gobernador del Estado, a los Diputados de la
 
 El procedimiento ante el superior jerárquico, por faltas administrativas que le competa sancionar, sólo podrá iniciarse dentro del mes siguiente de que se tenga conocimiento de la probable falta. Tratándose de la obtención de un lucro o si se causan daños patrimoniales y cuando se trate de actos u omisiones graves, el procedimiento podrá iniciarse durante el período del desempeño del empleo, cargo o comisión y hasta tres años después de concluidos éstos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 77.
 
-Las Contralorías Generales de cada uno de los Poderes del Estado, llevarán el registro de la situción (sic) patrimonial de los Servidores Públicos de conformidad con la presente Ley y demás disposiciones aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 78.
 
-Están obligados a presentar declaración de situación patrimonial, bajo protesta de decir verdad, los servidores públicos siguientes:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- En el Poder Legislativo desde el Oficial Mayor y Contador Mayor de Hacienda hasta los Diputados;
-
-II.- En el Poder Ejecutivo desde el nivel de Jefe de Departamento o su equivalente, así como los Recaudadores de Rentas y demás delegados o titulares de dependencias estatales, hasta el Gobernador;
-
-III.- En la Procuraduría General de Justicia desde el nivel señalado en la fracción anterior, incluyendo a Agentes del Ministerio Público y Agentes de la Policía Judicial, hasta el Procurador General de Justicia;
-
-IV.- En el Poder Judicial desde el nivel de Actuario, así como los Jueces Menores de las cabeceras municipales, hasta los Magistrados del Supremo Tribunal de Justicia;
-
-V.- En los Ayuntamientos desde los Agentes de Seguridad Pública y Síndicos, hasta los Presidente (sic) Municipales y demás Regidores, y en su caso, los integrantes de los Concejos Municipales;
-
-VI.- En la administración pública paraestatal y paramunicipal desde el nivel de Jefe de Departamento de los organismos que las integran, hasta los Directores Generales o sus equivalentes; y,
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1992)</small>
-
-VII.- Los demás Servidores Públicos que determinen las Contralorías Generales de cada uno de los Poderes del Estado, si la naturaleza de sus funciones lo amerita.
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
-
-La declaración se presentará conforme a los formatos expedidos por la propia contraloría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 79.
 
-La declaración de situación patrimonial deberá presentarse:
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
-
-II.- Durante el mes de mayo de cada año, salvo que en ese mismo año se hubiere presentado la declaración a que se refiere la fracción anterior; y,
-
-III.- Dentro de los treinta días naturales siguientes a la fecha en que se deje de desempeñar el empleo, cargo o comisión.
-
-En caso de no presentarse, sin causa justificada, la declaración en los plazos a que aluden las fracciones I y II de este artículo, la Contraloría lo comunicará al titular u órgano que hubiere designado al servidor público omiso para que deje sin efecto el nombramiento respectivo y si se trata de servidores públicos de elección popular, lo comunicará al Poder u órgano de quien depende o forme parte, para los efectos de que se le exija la presentación de dicha declaración.
-
-Si no se presentare la declaración de situación patrimonial a que se refiere la fracción III, la Contraloría requerirá al omiso para que la presente, señalándole el plazo que estime prudente que no excederá de quince días naturales, apercibiéndolo que de persistir en su negativa, se practicarán las investigaciones conducentes en cuanto a su situación patrimonial y dará vista al Ministerio Público con los resultados, si de éstos se pudiere presumir que se incurrió en la comisión de algún delito.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 80.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles con la fecha y valor de adquisición.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición.
-
-Tratándose de bienes muebles, la Contraloría decidirá, mediante acuerdo general, cuáles deben declararse y los requisitos para hacerlo.
-
-En todo caso se indicará el medio por el que se hizo la adquisición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 81.
 
-Cuando los signos exteriores de riqueza sean ostensible y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contraloría podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridad judicial, la Contraloría hará la solicitud correspondiente ante aquella.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-Previamente a la inspección o al inicio de la auditoría se dará cuenta al servidor público de los hechos que motivan las actuaciones y se le presentarán las actas en que aquéllos consten, para que exponga lo que a su derecho convenga.
-
-Al iniciarse la inspección o auditoría, el servidor público podrá designar dos testigos que intervengan en la misma y si no lo hace, la autoridad que la practique los nombrará. Dichos testigos deberán firmar las actas que se levanten y si se negaren se hará constar esta circuinstancia (sic) sin que ello afecte la validez de las mismas.
-
-Igualmente firmarán el acta el servidor público investigado y el que practique tales diligencias. Si aquel se negare, se observará lo dispuesto en el párrafo anterior.
-
-De las actas que se levanten, se entregará copia al servidor público investigado.
-
-Concluida la inspección o auditoría, el servidor público podrá interponer inconformidad ante la propia Contraloría, contra los hechos contenidos en las actas, la cual se promoverá por escrito dentro de los cinco días siguientes a la conclusión de aquellas, expresando los motivos de inconformidad y ofreciendo las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
-
-Si de la inspección o auditoría se desprenden elementos que hagan presumir la existencia de un delito, la Contraloría lo hará del conocimiento del Ministerio Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 82.
 
-Serán sancionados en los términos que disponga el Código Penal para el Estado los servidores públicos que incurran en enriquecimiento ilícito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 83.
 
-Para los efectos de la presente Ley y del Código Penal para el Estado, se estimarán como bienes propiedad de los servidores públicos aquellos respecto de los cuales se conduzcan como dueños, así como los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y con sus propios recursos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 84.
 
-La Contraloría denunciará o presentará querella en su caso, ante el Ministerio Público de todo hecho que pudiere constituir delito, independientemente de la aplicación de la sanción administrativa procedente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 ###### ARTICULO 85.
 
-Cuando los servidores públicos reciban obsequios, donaciones o beneficios cuyo monto sea superior a diez veces el salario mínimo general vigente en el Estado, deberán entregarlos a la Contraloría General de cada uno de los Poderes o de los Ayuntamientos, según corresponda, los cuales llevarán un registro de dichos bienes y les darán el destino que señalen los acuerdos o lineamientos que se expidan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
 
-Si el servidor público no entregare dichos bienes, le serán decomisados por la Contraloría correspondiente, la que procederá en los términos del párrafo anterior y se le aplicará la pena prevista para el delito de cohecho en el Código Penal para el Estado.
-
-En todo caso, se observará lo dispuesto por la fracción XIII del artículo 47.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
 
 ###### ARTICULO 86.
 
