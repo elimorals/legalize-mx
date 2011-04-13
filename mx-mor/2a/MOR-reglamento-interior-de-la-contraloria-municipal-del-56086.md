@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-contraloria-municipal-del-56086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2008-02-20"
+last_updated: "2011-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA MUNICIPAL DEL AYUNTAMIENTO DE CUERNAVACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA MUNICIPAL DEL AYUNTAMIENTO DE CUERNAVACA MORELOS, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -607,7 +609,7 @@ SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE FEBRERO DE 2008.
 
@@ -618,3 +620,17 @@ SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el pre
 TERCERO.- Como lo mandata el Artículo Cuarto Transitorio de la Ley Estatal de Responsabilidades de los Servidores Públicos, los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que le de origen, deberán ajustarse a las reglas previstas por la legislación vigente al día de su inicio o incumplimiento, hasta su conclusión definitiva.
 
 CUARTO.- En consecuencia, la reglamentación municipal se aplicará en la misma forma y términos señalados en el artículo que antecede, teniendo las autoridades que la norma o regla prevean, las facultades necesarias para su actuación, hasta la conclusión de los procedimientos de fincamiento de responsabilidades en trámite.
+
+P.O. 13 DE ABRIL DE 2011.
+
+PRIMERO.- El Presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se deroga el Reglamento Interior de la Contraloría Municipal del H. Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y Libertad" número 4540 de fecha veintidós de junio de dos mil siete.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en el presente reglamento.
+
+CUARTO.- La Contraloría contará con sesenta días naturales contados a partir del día siguiente de la entrada en vigencia del presente reglamento, para emir los manuales de organización y procedimientos de dicha contraloría.
+
+QUINTO.- En tanto se expiden los manuales que se refieren en el presente reglamento, seguirán aplicándose los que se encuentren vigentes; asimismo, el titular de la Contraloría Municipal, queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de éste ordenamiento legal.
+
+SEXTO.- Publíquese en la Gaceta Municipal del Ayuntamiento de Cuernavaca, Morelos.
