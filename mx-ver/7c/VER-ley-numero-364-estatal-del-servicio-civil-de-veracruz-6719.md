@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2008-09-26"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -1629,9 +1629,15 @@ Todo lo no previsto en este Capítulo, se resolverá conforme a lo dispuesto por
 
 El Tribunal Estatal de Conciliación y Arbitraje o las Salas, tienen obligación de proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictarán todas las medidas necesarias en la forma y términos que a su juicio sean procedentes.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 224.
 
-Cuando se pida la ejecución de un laudo el Tribunal o las Salas pronunciarán la resolución correspondiente y comisionarán a un Actuario o librarán exhorto en su caso, a quien corresponda a fin de que en unión de la parte que obtuvo, se constituyan en el domicilio del condenado y lo requieran para que cumpla la resolución apercibiéndolo de que, de no hacerlo se procederá conforme a lo dispuesto en el artículo anterior.
+Cuando se pida la ejecución de un laudo, el Tribunal o las Salas pronunciarán la resolución correspondiente y comisionarán a un Actuario o librarán exhorto en su caso, a quien corresponda, a fin de que, en unión de la parte que obtuvo, se constituyan en el domicilio del condenado y lo requieran para que cumpla la resolución, apercibiéndolo de que de no hacerlo se procederá conforme a lo dispuesto en este artículo.
+
+Cuando la parte condenada sea una autoridad estatal o municipal, el laudo deberá cumplirse dentro de un plazo de quince días contados a partir del siguiente al en que surta efectos su notificación.
+
+Transcurrido este plazo sin que la autoridad haya dado cumplimiento al laudo, el Tribunal dictará auto de requerimiento de pago y embargo y lo notificará a la parte condenada, aplicando en lo conducente las disposiciones relativas al procedimiento de embargo, previstas en la Ley Federal del Trabajo, con la finalidad de ejecutar de manera completa esta resolución hasta lograr el pago íntegro de todas las prestaciones adeudadas, atendiendo a lo dispuesto por la Ley de Bienes y el Código Hacendario Municipal, ambos ordenamientos para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTICULO 225.
 
@@ -1706,3 +1712,11 @@ G.O. 26 DE SEPTIEMBRE DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gacela Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decreto, las modificaciones aprobadas serán aplicables a los Códigos Hacendarios Municipales de orden específico de los diversos municipios del Estado, a pesar de las disposiciones en contrario que en éstos existan.
