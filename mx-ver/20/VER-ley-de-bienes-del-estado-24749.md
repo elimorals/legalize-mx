@@ -4,7 +4,7 @@ identifier: "VER-ley-de-bienes-del-estado-24749"
 country: "mx"
 rank: "ley"
 publication_date: "1980-09-30"
-last_updated: "1980-09-30"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE BIENES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 30 de septiembre de 1980.
 
@@ -107,9 +107,15 @@ II.- A la Ley Orgánica del Poder Ejecutivo; y
 
 III.- A las normas legales de carácter general de Policía y de Asentamientos Humanos vigentes, y a los reglamentos respectivos.
 
+> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 7o.
 
-Todos los bienes muebles o inmuebles que son propiedad del Estado son inembargables. En consecuencia, no podrá emplearse la vía de apremio ni dictarse acto de ejecución, para hacer efectivas las sentencias dictadas a favor de particulares en contra del Estado o de su Hacienda. En este caso, la sentencia se comunicará al Ejecutivo del Estado para que de acuerdo con la Ley autorice la erogación que se imponga.
+Todos los bienes muebles o inmuebles que son propiedad del Estado son inembargables, con excepción de los enumerados en el artículo 4° de esta Ley. En consecuencia, no podrá emplearse la vía de apremio ni dictarse acto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares en contra del Estado o de su Hacienda. En este caso, la sentencia o laudo se comunicará al Ejecutivo del Estado para que de acuerdo con la Ley autorice la erogación que se imponga.
+
+En ningún caso se podrán embargar los bienes muebles e inmuebles afectos a un servicio público, así como los ingresos propios, ni los provenientes de participaciones o aportaciones federales. Tampoco podrán embargarse las cuentas bancarias aperturadas a nombre de las dependencias y entidades del Poder Ejecutivo del Estado ni de las que sean titulares los Poderes Legislativo y Judicial, cuyos recursos se destinen al pago de obligaciones asumidas en ejercicio del presupuesto estatal.
+
+Los magistrados, jueces, actuarios, secretarios y demás funcionarios judiciales que ordenen, tramiten o ejecuten diligencias o traben embargos en contravención a lo dispuesto en este artículo, incurrirán en la responsabilidad civil, administrativa o penal que establece la legislación estatal.
 
 ### CAPITULO SEGUNDO
 
@@ -230,3 +236,13 @@ DADA en el Salón de Sesiones de la Honorable Legislatura del Estado, en la ciud
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Xalapa-Enríquez, Ver., a 13 de septiembre de 1980.- Lic. RAFAEL HERNANDEZ OCHOA.- Rúbrica.- El Secretario de Gobierno.- Lic. EMILIO GOMEZ VIVES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE ABRIL DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gacela Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decreto, las modificaciones aprobadas serán aplicables a los Códigos Hacendarios Municipales de orden específico de los diversos municipios del Estado, a pesar de las disposiciones en contrario que en éstos existan.
