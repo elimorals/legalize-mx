@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2010-09-17"
+last_updated: "2011-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -308,6 +308,10 @@ I.- El apercibimiento o amonestación;
 > <small>(REFORMADA, G.O. 31 DE MARZO DE 1988)</small>
 
 II.- La multa que no exceda de la máxima señalada en la fracción I del artículo 53;
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+En los casos previstos en el cuarto párrafo del artículo 371 la multa no será inferior a treinta días de salario mínimo, ni superior a cien días de salario mínimo.
 
 III.- La suspensión que no exceda de un mes.
 
@@ -2672,6 +2676,10 @@ Cuando en virtud de la sentencia o de la determinación del juez deba entregarse
 Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado indicado en la resolución. Si el obligado se resistiere, lo hará el actuario, quien podrá emplear el uso de la fuerza pública y aun mandar romper las cerraduras.
 
 En caso de no poderse entregar los bienes señalados en la sentencia, se despachará ejecución por la cantidad que señale el actor, la cual puede ser moderada prudentemente por el juez, sin perjuicio de que el deudor se oponga al monto.
+
+> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
+
+Cuando se solicite el auxilio de la fuerza pública para la realización de cualquiera de las diligencias a que se refiere el presente dispositivo, y dicha diligencia no se lleve a cabo por causas imputables exclusivamente al interesado, el Juez de oficio le impondrá a dicha parte una corrección disciplinaria en términos del segundo párrafo de la fracción II del artículo 42 del presente Código.
 
 ARTICULO 372
 
@@ -6090,6 +6098,12 @@ G.O. 17 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE ABRIL DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
