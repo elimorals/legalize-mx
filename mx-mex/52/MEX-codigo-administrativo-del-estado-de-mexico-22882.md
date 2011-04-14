@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2011-03-31"
+last_updated: "2011-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5825,7 +5825,15 @@ Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de S
 
 I. Las reglas de circulación que deberán observar los conductores, peatones y, en su caso, pasajeros del servicio de transporte al utilizar la infraestructura vial. Estas reglas incluirán las indicaciones de los dispositivos para el control del tránsito;
 
-II. Las limitaciones y restricciones que se establezcan para el tránsito de vehículos en la infraestructura vial, con objeto de mejorar la vialidad, preservar el ambiente y salvaguardar la seguridad de personas y el orden público.
+II. Las limitaciones y restricciones que se establezcan para el tránsito de vehículos en la infraestructura vial, con objeto de mejorar la vialidad, preservar el ambiente y salvaguardar la seguridad de personas y el orden público;
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2011)</small>
+
+III. Los montos por infracción a las disposiciones de este Libro y las que de él emanen;
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2011)</small>
+
+IV. Las tarifas autorizadas por la autoridad competente, que por concepto de traslado o depósito de vehículos deban pagarse.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
@@ -6041,9 +6049,11 @@ II. En caso de que esté presente el conductor y mueva su vehículo del lugar pr
 
 III. Una vez remitido el vehículo al depósito correspondiente, los agentes deberán informar de inmediato a las autoridades, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en él se encuentren.
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2011)</small>
+
 ###### Artículo 8.
 
-22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito, si los hubiere, se procederá a la entrega de los vehículos.
+22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
@@ -12838,3 +12848,9 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 14 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
