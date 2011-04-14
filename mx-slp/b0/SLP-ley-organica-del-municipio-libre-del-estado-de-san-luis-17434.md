@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2010-12-30"
+last_updated: "2011-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -475,7 +475,11 @@ XIV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, 
 
 b) En materia Normativa:
 
-I. Expedir y publicar bandos de policía y buen gobierno, reglamentos, circulares y demás disposiciones municipales conforme al procedimiento que establece la presente Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2011)</small>
+
+I. Expedir y publicar bandos de policía y gobierno, reglamentos, circulares y demás disposiciones municipales conforme al procedimiento que establece la presente Ley;
 
 II. Iniciar leyes y sus reformas ante el Congreso del Estado, en asuntos de competencia municipal;
 
@@ -1797,6 +1801,10 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 ### CAPITULO I. De los Bandos y Reglamentos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 141.
 
 Los municipios organizarán y reglamentarán la administración, prestación, conservación y explotación en su caso, de los servicios públicos y funciones municipales, considerándose que tienen este carácter los siguientes:
@@ -2033,7 +2041,7 @@ Si para el primero de enero de cada año no se ha hecho la publicación de preci
 
 ###### ARTICULO 159.
 
-Los ayuntamientos expedirán en forma obligatoria, de acuerdo con las bases previstas en esta Ley y en las leyes que en materia municipal expida el Congreso del Estado, los bandos de Policía y Buen Gobierno, reglamentos, circulares y demás disposiciones administrativas que sean de observancia general en sus respectivas municipalidades, las que en todo tiempo podrán ser modificadas con autorización del Ayuntamiento. Tales documentos para su validez deberá certificarlos el Secretario del Ayuntamiento y promulgarlos el Presidente Municipal, enviándolos para su publicación en el Periódico Oficial del Estado.
+Los ayuntamientos expedirán en forma obligatoria, de acuerdo con las bases previstas en esta Ley y en las leyes que en materia municipal expida el Congreso del Estado, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas que sean de observancia general en sus respectivas municipalidades, las que en todo tiempo podrán ser modificadas con autorización del Ayuntamiento. Tales documentos para su validez deberá certificarlos el Secretario del Ayuntamiento y promulgarlos el presidente municipal, enviándolos para su publicación en el Periódico Oficial del Estado.
 
 ### CAPITULO III. De las Sanciones y de los Recursos
 
@@ -2297,7 +2305,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-PRIMERO. Este Decreto entrará en vigencia al día·siguiente de su publicación en el periódico oficial del Estado.
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el periódico oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -2306,3 +2314,7 @@ P.O. 30 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE ABRIL DE 2011.
+
+UNICO. Este Decreto entrará en vigor una vez que haya entrado en vigencia la reforma a los artículos, 57 fracción VII, y 114 fracción I en su segundo párrafo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y previa publicación en el Periódico Oficial del Estado.
