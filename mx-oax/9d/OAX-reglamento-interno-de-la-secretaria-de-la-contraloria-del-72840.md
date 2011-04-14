@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-la-contraloria-del-72840
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-25"
-last_updated: "2010-12-01"
+last_updated: "2011-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ REGLAMENTO INTERNO DE LA SECRETARIA DE LA CONTRALORIA DEL PODER EJECUTIVO DEL ES
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACION SECRETARIA DE LA CONTRALORIA SE MODIFICA POR SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADO EN EXTRA DEL P.O. DE 14 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de de Oaxaca, el sábado 25 de julio de 2009.
 
@@ -874,3 +876,25 @@ La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría
 El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
 
 SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
+
+P.O. 14 DE ABRIL DE 2011.
+
+PRIMERO. El presente reglamento interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga el reglamento interno de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Oaxaca, contenido en el número 30 del Periódico Oficial del Gobierno del Estado, publicado el veinticinco de julio del dos mil nueve; así como, todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido en el presente reglamento.
+
+TERCERO. Los procesos de transferencia de personal, asuntos, expedientes y recursos materiales, entre las áreas administrativas, derivados de la entrada en vigor de este reglamento interno, deberán realizarse dentro de los treinta días hábiles siguientes a la entrada en vigor del mismo; y la emisión de manuales y demás normatividad requerida para su ejercicio, deberán realizarse dentro de los noventa días hábiles siguientes a la entrada en vigor del mismo.
+
+CUARTO. Cuando en las diversas disposiciones o actuaciones legales de la Secretaría en el ámbito de la Administración Pública Centralizada y Paraestatal se haga referencia a las siguientes áreas:
+
+Subsecretaría de Auditorías, se entenderá que se refiere a la Subsecretaría de Auditoría Pública Sectorizada.
+
+Subsecretaría de Normatividad y Evaluación; se entenderá que se refiere a la Subsecretaría de Control, Supervisión en Inversión y Obra.
+
+Dirección de Auditoría Gubernamental; se entenderá que se refiere a la Dirección del Sector Gobierno Justicia y Seguridad.
+
+Dirección de Contraloría Social; se entenderá que se refiere a la Dirección de Participación y Contraloría Social.
+
+Dirección de Normatividad y Consultoría; se entenderá que se refiere Departamento de Normatividad.
+
+Unidad de Tecnologías de la Información; se entenderá Unidad Técnica.
