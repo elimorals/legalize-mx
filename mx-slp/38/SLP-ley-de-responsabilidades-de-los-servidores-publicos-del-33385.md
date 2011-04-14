@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2010-12-07"
+last_updated: "2011-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -209,9 +209,11 @@ Las sanciones correspondientes se aplicarán en un período no mayor de tres mes
 
 La denuncia deberá ser presentada ante la Oficialía Mayor del Congreso del Estado, y ésta a su vez la turnará a la brevedad posible a la Secretaría del Congreso, quien citará al denunciante para el efecto de que la ratifique en un término de tres días, contados desde la fecha en que se da por recibida la citación; si el interesado no se presentase a ratificar, la denuncia será archivada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 16.
 
-Una vez ratificado el escrito, la Secretaría del Congreso del Estado lo turnará con la documentación correspondiente a las Comisiones unidas de Gobernación y Puntos Constitucionales, y Justicia, las que proveerán lo conducente en un plazo no mayor de quince días hábiles, dentro del cual podrán solicitar al servidor público y al denunciante un informe, el que deberá rendirse dentro del término de siete días hábiles siguientes a la notificación correspondiente. En caso de que se solicite informe al servidor público, deberá corrérsele traslado con una copia de la denuncia y de los documentos anexos, a fin de que éste quede debidamente impuesto de los hechos materia de la acusación y provea lo conducente a su defensa.
+Una vez ratificado el escrito, la Secretaría del Congreso del Estado lo turnará con la documentación correspondiente a las comisiones de, Gobernación; y Justicia, las que proveerán lo conducente en un plazo no mayor de quince días hábiles, dentro del cual podrán solicitar al servidor público y al denunciante un informe, el que deberá rendirse dentro del término de siete días hábiles siguientes a la notificación correspondiente. En caso de que se solicite informe al servidor público, deberá corrérsele traslado con una copia de la denuncia y de los documentos anexos, a fin de que éste quede debidamente impuesto de los hechos materia de la acusación y provea lo conducente a su defensa.
 
 Cuando la denuncia no sea presentada dentro del término que prevé el artículo 130 de la Constitución Política del Estado; no reúna los requisitos previstos en el artículo 11 de esta Ley; no encuentre apoyo en prueba alguna que permita presumir la existencia de la infracción y hacer probable la responsabilidad del denunciado; o resulte notoriamente improcedente, ya sea porque el denunciado no se encuentre entre los servidores públicos a que se refiere el artículo 126 de la propia Constitución, o porque la conducta atribuida no corresponda a las enumeradas en el artículo 6° de esta Ley; o bien por alguna otra causa manifiesta, será desechada por las Comisiones unidas.
 
@@ -259,9 +261,11 @@ En el dictamen deberán asentarse las circunstancias que hubieren concurrido en 
 
 La Comisión Jurisdiccional deberá formular su dictamen y entregarlo a los secretarios del Congreso del Estado, dentro del plazo de quince días contados desde el día siguiente a la fecha en que haya transcurrido el plazo para los alegatos, o se hubiesen formulado éstos, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso, podrá solicitar al Presidente del Congreso se amplíe el plazo por el término de tres días hábiles para perfeccionar el dictamen.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 24.
 
-Una vez que hayan recibido el dictamen a que se refiere el artículo 23 de esta Ley, los secretarios del Congreso darán cuenta del mismo al Presidente, quien dentro de los cinco días hábiles siguientes convocará al Congreso a sesión permanente y secreta, a fin de que, como jurado, resuelva sobre el dictamen de la Comisión Jurisdiccional. En el caso de que el Congreso se encuentre en receso, se convocará sin demora a período extraordinario.
+Una vez que hayan recibido el dictamen a que se refiere el artículo 23 de esta Ley, los secretarios del Congreso darán cuenta del mismo al Presidente del Congreso, quien dentro de los cinco días hábiles siguientes convocará al Congreso a sesión permanente y privada, a fin de que, como jurado, resuelva sobre el dictamen de la Comisión Jurisdiccional. En el caso de que el Congreso se encuentre en receso, se convocará sin demora a período extraordinario.
 
 ###### ARTICULO 25.
 
@@ -303,9 +307,11 @@ En el supuesto de que la denuncia o querella se enderece en contra del Procurado
 
 Concluida la averiguación previa y satisfechos los requisitos para el ejercicio de la acción penal, la autoridad investigadora la remitirá al Congreso, y con base en la misma solicitará la declaración de procedencia en contra del servidor público denunciado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 30.
 
-Presentada la solicitud ante la Oficialía Mayor del Congreso, ésta procederá a turnarla de inmediato al Presidente del Congreso o de la Diputación Permanente, quien a su vez la turnará a la Comisión Jurisdiccional para la substanciación del procedimiento, tan luego se constituya dicha Comisión en los términos del Reglamento Interior del Congreso.
+Presentada la solicitud ante la oficialía mayor del Congreso, ésta procederá a turnarla de inmediato al Presidente del Congreso, o de la Diputación Permanente, quien a su vez la turnará a la Comisión Jurisdiccional para la substanciación del procedimiento, tan luego se constituya dicha Comisión en los términos del Reglamento para el Gobierno Interior del Congreso del Estado de San Luis Potosí.
 
 La Comisión Jurisdiccional dentro del plazo de tres días hábiles siguientes a su recepción, notificará al presunto responsable sobre la materia de la solicitud, requiriéndolo para que designe defensor; también lo emplazará para que dentro del plazo de cinco días hábiles siguientes declare lo que a su derecho convenga o, en su caso, presente las pruebas adicionales, pudiendo hacerlo por sí o a través de su defensor. Cuando dentro de este término el inculpado no designe defensor, la Comisión le nombrará uno de oficio.
 
@@ -323,9 +329,11 @@ La Comisión Jurisdiccional determinará si subsiste el fuero constitucional cuy
 
 Para los efectos del artículo anterior, la Comisión deberá rendir su dictamen en un plazo de treinta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la misma. En este caso podrá solicitar al Presidente del Congreso se amplíe el plazo por el término de ocho días hábiles para perfeccionar el dictamen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 34.
 
-El dictamen se entregará a los secretarios del Congreso, los que inmediatamente darán cuenta del mismo al Presidente, quien dentro de los cinco días hábiles siguientes, anunciará a aquél que debe erigirse en Jurado de Procedencia, y lo convocará a sesión permanente y secreta a fin de que resuelva sobre dicho dictamen. Tal anuncio lo deberá hacer saber al inculpado y a su defensor, así como al Ministerio Público. En el caso de que el Congreso se encuentre en receso, se convocará a período extraordinario.
+El dictamen se entregará a los secretarios del Congreso, los que inmediatamente darán cuenta del mismo al Presidente, quien dentro de los cinco días hábiles siguientes, anunciará a aquél que debe erigirse en Jurado de Procedencia, lo convocará a sesión permanente y privada a fin de que resuelva sobre dicho dictamen. Tal anuncio lo deberá hacer saber al inculpado y a su defensor, así como al Ministerio Público. En el caso de que el Congreso se encuentre en receso, se convocará a periodo extraordinario.
 
 En la sesión respectiva se procederá, en lo conducente, conforme a lo dispuesto por el artículo 25 de esta Ley.
 
@@ -405,9 +413,11 @@ Dictada la resolución definitiva en el procedimiento, los documentos y expedien
 
 No podrán votar en ningún caso los diputados que hubiesen presentado la imputación contra el servidor público; tampoco aquéllos que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 50.
 
-Para todo lo no previsto en esta Ley respecto a discusiones y votaciones, se observarán, en lo conducente, las reglas que establecen la Constitución Política del Estado, la Ley Orgánica y el Reglamento Interior del Congreso del Estado para discusión y votación de las leyes. En todo caso las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de la Comisión, y para resolver incidental o definitivamente en el procedimiento.
+Para todo lo no previsto en esta Ley respecto a discusiones y votaciones, se observarán, en lo conducente, las reglas que establecen, la Constitución Política del Estado, la Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso del Estado, para discusión y votación de las leyes. En todo caso las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de la Comisión, y para resolver incidental o definitivamente en el procedimiento.
 
 ###### ARTICULO 51.
 
@@ -685,7 +695,9 @@ Las autoridades competentes conforme a esta Ley, impondrán las sanciones admini
 
 I. Citarán al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputan; el lugar, día y hora en que se verificará dicha audiencia y su derecho a ofrecer pruebas; y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor.
 
-En su caso, también asistirá a la audiencia el representante de la dependencia o entidad, que para tal efecto designe.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2011)</small>
+
+En su caso, también asistirá a la audiencia el representante de la dependencia, entidad estatal, ayuntamiento o sus entidades, que para tal efecto designen.
 
 Entre la fecha de la citación y la de audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
@@ -839,7 +851,9 @@ Para los efectos de este artículo, las citadas autoridades, conforme a la legis
 
 Tienen la obligación de presentar declaración patrimonial en los términos y plazos señalados por la presente Ley, bajo protesta de decir verdad:
 
-I. En el Poder Legislativo Estatal: los diputados, el oficial mayor, el contador mayor de hacienda, el tesorero, coordinadores, subcontadores, directores, jefes de departamento y auditores;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2011)</small>
+
+I. En el Poder Legislativo Estatal: los diputados, el oficial mayor, el auditor superior del Estado, el tesorero, coordinadores, subcontadores, directores, jefes de departamento y auditores;
 
 II. En el Poder Ejecutivo Estatal: todos los servidores públicos, desde el gobernador del Estado, hasta los jefes de departamento. En cuanto a la Procuraduría General de Justicia del Estado, también los agentes del Ministerio Público y los agentes de la Policía Ministerial;
 
@@ -1060,3 +1074,9 @@ P.O. 7 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
