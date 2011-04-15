@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2010-09-03"
+last_updated: "2011-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VEANSE LOS ARTICULOS PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, QUE ESTABLECE EL INICIO DE VIGENCIA PROGRESIVA SEGUN CORRESPONDA EL MUNICIPIO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VEASE ARTICULO PRIMERO DEL DECRETO NUMERO 160 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011 Y LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, LOS ARTICULOS DE ESTE ORDENAMIENTO QUE RESULTEN INDISPENSABLES PARA LA DEBIDA APLICACION DE LA LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, ENTRARAN EN VIGOR EL DIA DIECIOCHO DE JUNIO DE DOS MIL ONCE.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -5594,3 +5596,25 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo preceptuado por esta Ley.
+
+Artículo Cuarto. El trámite de los expedientes de tratamiento de preliberación y los de revocación de ese beneficio cuyos respectivos proyectos de resolución, en la fecha de entrada en vigor de esta Ley, ya hubieren sido sometidos a consideración del Secretario de Seguridad Pública para su aprobación y firma, continuarán verificándose en los términos de la Ley que se abroga.
+
+Artículo Quinto. El trámite de los expedientes integrados con motivo de las solicitudes de indulto, libertad anticipada, remisión parcial y reducción de la sanción, que en la fecha de entrada en vigor de esta Ley, ya hubieran sido sometidos a consideración del Gobernador del Estado para su resolución, continuarán verificándose en los términos de la Ley que se abroga.
+
+Artículo Sexto. La Secretaría y el Poder Judicial integrarán un equipo de trabajo con la finalidad de conformar antes de la entrada en vigor de esta Ley, un registro de inculpados en prisión preventiva, de las personas a las que se les haya concedido la libertad bajo caución, así como de los sentenciados que estén compurgando pena de prisión o en disfrute de algún beneficio de libertad otorgado en sentencia o concedido por resolución administrativa, así como de aquéllos a quienes se les hubiere aplicado una sanción o medida de seguridad que por cualquier razón aún no esté extinta.
+
+Artículo Séptimo. Los tratamientos de preliberación que ya se estén aplicando, la libertad anticipada y la remisión parcial de la sanción que ya se estén disfrutando en la fecha de entrada en vigor de esta Ley, continuarán en sus términos. Para conocimiento de esta circunstancia, dentro del plazo comprendido entre la publicación de esta Ley hasta diez días antes de su entrada en vigor, la Secretaría proporcionará al Poder Judicial, una relación de todos los liberados que se encuentren en estos supuestos, con los datos correspondientes a las fechas de inicio y conclusión de estos beneficios, así como los concernientes al domicilio señalado por el liberado como lugar de su residencia, o el lugar en el que deberá residir conforme a la determinación correspondiente.
+
+Artículo Octavo. Los incidentes de cancelación de antecedentes penales que se estén tramitando al momento de entrada en vigor de esta Ley, continuarán practicándose ante el órgano jurisdiccional que esté conociendo de ellos, hasta su resolución.
