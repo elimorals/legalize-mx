@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-3333
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-07"
-last_updated: "2006-11-23"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,420 +21,138 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
+REGLAMENTO DEL REGISTRO UNICO DE OBLIGACIONES Y EMPRESTITOS DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2006.
+TEXTO ORIGINAL.
 
-Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de agosto de 2003.
+Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 10 de febrero de 2006.
 
-LA JUNTA DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, EN EJERCICIO DE LA ATRIBUCIÓN QUE LE CONFIERE EL ARTICULO 13 FRACCIÓN V DEL DECRETO DEL EJECUTIVO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN, EN LA TRIGÉSIMA SESIÓN ORDINARIA CELEBRADA EL 27 DE MARZO DE DOS MIL TRES; Y
+Al margen un sello con el Escudo Nacional que dice: Gobierno del Estado Libre y Soberano de Guerrero.- Poder Ejecutivo.
 
-C O N S I D E R A N D O...
+CARLOS ZEFERINO TORREBLANCA GALINDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 74 FRACCIÓN IV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO; Y CON FUNDAMENTO EN EL ARTÍCULO 2 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 433; Y
 
-En mérito de lo anterior, ha tenido a bien expedir el siguiente:
+C O N S I D E R A N D O
 
-REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN
+PRIMERO.- El 11 de noviembre de 2005, se publicó en el Periódico Oficial del Gobierno del Estado de Guerrero, la Ley Número 616 de Deuda Pública para el Estado de Guerrero, en cuyo capítulo noveno se estableció el Registro Único de Obligaciones y Empréstitos del Estado, en el cual se inscribirán las obligaciones que constituyen deuda pública y el pago de éstas, de conformidad con lo establecido en la misma Ley.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+SEGUNDO.- Con el objeto de brindar seguridad jurídica en materia de registro de deuda pública, es necesario establecer los requisitos de inscripción de las obligaciones que constituyen deuda pública, así como el pago de éstas, en apego a lo dispuesto por la Ley de Deuda Pública. Asimismo, resulta indispensable señalar los requisitos de inscripción, las solicitudes de inscripción, así como mencionar cuáles serán las anotaciones de inscripción, el plazo que tienen las Entidades para presentar las obligaciones referidas a su inscripción, y la autoridad encargada del Registro y de la interpretación de este Reglamento, entre otras cuestiones; por lo que he tenido bien a expedir el siguiente:
+
+REGLAMENTO DEL REGISTRO ÚNICO DE OBLIGACIONES Y EMPRÉSTITOS DEL ESTADO DE GUERRERO.
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización y el funcionamiento del Tecnológico de Estudios Superiores de Huixquilucan.
+Objeto del Reglamento.- El presente Reglamento tiene por objeto establecer las bases, mecanismos y requisitos para inscribir las obligaciones que constituyan deuda pública, así como el pago de éstas, de conformidad con lo establecido en la Ley.
 
 ###### Artículo 2.
 
-Para efectos del presente Reglamento, se entiende por:
+Definiciones.- Para los efectos de este Reglamento se entiende por:
 
-I. Decreto, al Decreto del Ejecutivo por el que se crea el organismo público descentralizado de carácter estatal denominado Tecnológico de Estudios Superiores de Huixquilucan;
+I.- Entidades: Los sujetos, señalados en el artículo segundo de la Ley;
 
-II. Tecnológico u Organismo, al Tecnológico de Estudios Superiores de Huixquilucan;
+II.- Ley: Ley Número 616 de Deuda Pública para el Estado de Guerrero;
 
-III. Junta, a la H. Junta Directiva del Tecnológico de Estudios Superiores de Huixquilucan; y
+III.- Secretaría: La Secretaría de Finanzas y Administración; y
 
-IV. Director, al Director del Tecnológico de Estudios Superiores de Huixquilucan.
+IV.- Registro: Registro Único de Obligaciones y Empréstitos del Estado de Guerrero.
 
 ###### Artículo 3.
 
-El Tecnológico es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confiere el Decreto y otras disposiciones legales.
-
-> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+Obligaciones inscribibles y efectos de su registro.- Las obligaciones directas, indirectas o contingentes, derivadas de los empréstitos, créditos, emisiones de valores, que contraigan las Entidades, así como el pago de obligaciones, a través de mecanismos legales de garantía o pago, señalados en la Ley, deberán inscribirse para efectos declarativos, en el Registro.
 
 ###### Artículo 4.
 
-El Tecnológico se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento y por lo que establecen otros ordenamientos aplicables.
+Autoridad que llevará el Registro.- La Secretaría tendrá a su cargo el Registro, como instancia única. Las Entidades deberán presentar, las obligaciones y pagos, a que se refiere el artículo anterior, para su inscripción en un plazo que no excederá de 45 días naturales.
 
 ###### Artículo 5.
 
-El Tecnológico conducirá sus actividades en forma programada, con base en lo señalado en la Ley de Planeación del Estado de México y Municipios, en el Plan de Desarrollo del Estado de México y en los programas a su cargo.
+Requisitos de inscripción.- Para que proceda la inscripción de los financiamientos en el Registro, se deberá cumplir con los siguientes requisitos:
+
+I.- Que la Entidad solicitante, bajo protesta de decir verdad, manifieste que se trata de obligaciones pagaderas en México y en moneda nacional, contraídas con la Federación, con instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, conforme a las bases establecidas en la Ley, por los conceptos y hasta por los montos autorizados conforme a la misma;
+
+II.- Tratándose de obligaciones que se hagan constar en títulos de crédito nominativos, se incluirá en el texto del mismo que sólo podrán ser negociados dentro del territorio nacional con la Federación, con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana; y
+
+III.- Que la Entidad solicitante acredite, en su caso, que el Congreso del Estado autorizó, previamente a su celebración, la obligación correspondiente.
 
 ###### Artículo 6.
 
-La dirección y administración del Tecnológico corresponde a:
-
-I. La Junta Directiva; y
-
-II. El Director.
-
-### CAPÍTULO II. DE LA JUNTA DIRECTIVA
+Solicitudes de Inscripción.- Las solicitudes de inscripción en el Registro, deberán incluir un resumen de los principales datos del financiamiento cuya inscripción se solicite y deberán acompañarse de un ejemplar del instrumento o instrumentos jurídicos en los que se haga constar la obligación directa, indirecta o contingente cuya inscripción se solicite.
 
 ###### Artículo 7.
 
-La Junta es el órgano de gobierno del Tecnológico, sus determinaciones son obligatorias para el Director y las unidades administrativas que integran al Organismo.
+Información complementaria.- Para la inscripción de los financiamientos, la Secretaría podrá requerir a las Entidades, la información complementaria, así como los documentos comprobatorios del destino del crédito del financiamiento, o las aclaraciones que estime necesarias.
 
 ###### Artículo 8.
 
-La Junta se integrará de acuerdo con lo establecido en el Decreto y funcionará de conformidad con las disposiciones aplicables.
+Procedencia de la inscripción.- La Secretaría, una vez cumplidos los requisitos a que se refiere este Reglamento, procederá a la inscripción solicitada y notificará a la Entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretaría lo notificará a la Entidad solicitante para que, en su caso, subsane la omisión en un término no mayor a 10 días hábiles contados a partir de la recepción de la notificación. Si la omisión no es subsanada en el plazo señalado no podrá procederse a la inscripción.
 
 ###### Artículo 9.
 
-Corresponde a la Junta el ejercicio de las atribuciones señaladas en el Decreto, así como el cumplimiento de las obligaciones establecidas en otros ordenamientos legales.
+Anotaciones en la inscripción.- En la inscripción al registro se anotará lo siguiente:
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DEL DIRECTOR
+I.- El número y fecha de inscripción; y
 
-> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
+II.- Las principales características y condiciones del financiamiento de que se trate, tales como:
+
+a) La fecha y número del Decreto emitido por el Congreso del Estado, mediante el cual se autoriza la realización de la operación financiera;
+
+b) La fecha de celebración del contrato, convenio, o instrumento jurídico suscrito por la Entidad con la Institución u Organismo con la que habrá de realizar la operación financiera;
+
+c) Las características de la operación de financiamiento, detallando su objeto, monto, plazo y condiciones financieras, así como el mecanismo de pago o las garantías otorgadas;
+
+d) El destino del crédito;
+
+e) Las variaciones, en su caso, en el monto de los créditos como consecuencia de amortizaciones de capital y/o capitalización de intereses efectuados durante el año y el saldo al final del mismo;
+
+f) Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generan;
+
+g) La variación y/o sustitución de las garantías;
+
+h) Las características de las operaciones de reconocimiento, subrogación y/o reestructuración que al efecto se celebren;
+
+i) Los datos completos de la Institución u Organismo con la que habrá de realizar la operación financiera.
 
 ###### Artículo 10.
 
-Al frente de la Dirección habrá un Director, quien será nombrado y removido por el titular del Ejecutivo del Estado, a propuesta del Secretario de Educación, y durará en su cargo cuatro años, pudiendo ser confirmado por un segundo período.
+Certificación de inscripción.- La Secretaría proporcionará a las Entidades, así como a los acreditantes de éstas, las certificaciones procedentes que soliciten, respecto a las obligaciones y pagos inscritos en el Registro, en caso que se hayan cumplido con los requisitos de su inscripción. Cuando la obligación inscrita se encuentre documentada con títulos de crédito, se hará constar en éstos los datos de su inscripción en el Registro.
 
 ###### Artículo 11.
 
-Corresponde al Director, además de las señaladas en el Decreto, las atribuciones siguientes:
-
-I. Someter a la aprobación de la Junta los proyectos de planes y programas del Tecnológico;
-
-II. Proponer a la Junta la creación de nuevas carreras acordes con los objetivos del Tecnológico y con los requerimientos sociales;
-
-III. Integrar el consejo consultivo académico, conforme a los (sic) dispuesto por el artículo 14 del Decreto;
-
-IV. Proponer a la Junta el otorgamiento de reconocimientos a los servidores públicos del Tecnológico que por sus méritos se hagan acreedores a los mismos;
-
-V. Someter a la aprobación de la Junta los proyectos académicos del Tecnológico;
-
-VI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo;
-
-VII. Evaluar las actividades que realiza el Tecnológico para el cumplimiento de su objeto;
-
-VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones;
-
-IX. Promover que las actividades de las unidades administrativas del Tecnológico se realicen de manera coordinada; y
-
-X. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
+Modificación de la inscripción.- Una vez efectuado el registro de las obligaciones y pagos a que se refiere el artículo 3 de este Reglamento, sólo podrá modificarse con los mismos requisitos y formalidades relativas a su autorización.
 
 ###### Artículo 12.
 
-Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Director se auxiliará de las unidades administrativas básicas siguientes:
-
-I. Subdirección Académica;
-
-II. Subdirección de Planeación y Vinculación;
-
-III. Subdirección de Servicios Administrativos;
-
-IV. División de Ingeniería Civil;
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-V. División de Licenciatura en Biología;
-
-VI. División de Ingeniería en Sistemas Computacionales;
-
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-VII. División de Ingeniería Industrial;
-
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-VIII. División de Licenciatura en Administración.
-
-El Director contará con las demás unidades administrativas establecidas en el manual general de organización del Tecnológico y se auxiliará de los servidores públicos para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivos.
-
-### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS SUBDIRECTORES Y JEFES DE DIVISIÓN
+Informe trimestral.- Las Entidades estarán obligadas a informar trimestralmente a la Secretaría sobre el estado que guarden sus obligaciones registradas. A dicha información deberán anexar los estados de cuenta emitidos por las instituciones acreditantes. Igualmente, las Entidades están obligadas a notificar el pago total de sus obligaciones a su cargo.
 
 ###### Artículo 13.
 
-Al frente de cada Subdirección y División habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada al Tecnológico y con el presupuesto de egresos respectivo.
+Cancelación de la inscripción.- La cancelación de los financiamientos registrados procederá cuando la Entidad solicitante, acredite ante la Secretaría el cumplimiento de sus obligaciones, para lo cual exhibirá constancia del acreedor o la resolución judicial que así declare.
 
 ###### Artículo 14.
 
-Corresponde a los Subdirectores y a los Jefes de División las atribuciones genéricas siguientes:
+Interpretación del Reglamento.- La Secretaría podrá interpretar el presente Reglamento para efectos administrativos y, en su caso, expedirá las disposiciones que requiera para su aplicación.
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo;
+## ARTÍCULOS TRANSITORIOS
 
-II. Formular los dictámenes, opiniones e informes que les sean solicitados por su superior inmediato;
+Artículo Primero.- Este Reglamento entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
-III. Acordar con su superior inmediato lo relativo a los asuntos cuyo tramite esté encomendado a la unidad administrativa a su cargo;
+Artículo Segundo.- En un término de cuarenta y cinco días naturales contados a partir de la publicación del presente Reglamento en el Periódico Oficial, la Secretaría de Finanzas y Administración realizará los ajustes administrativos que requiera para la aplicación de este Reglamento.
 
-IV. Formular y proponer a su superior inmediato los anteproyectos de programa anual de actividades y de presupuesto de la unidad administrativa a su cargo;
+Dado en la Residencia Oficial del Poder Ejecutivo Estatal, en la Ciudad de Chilpancingo de los Bravo, Capital del Estado de Guerrero, a los ocho días del mes de febrero del año dos mil seis.
 
-V. Ejecutar los programas anuales de actividades de la unidad administrativa a su cargo, aprobados por la Junta;
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-VI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia;
+C.P. CARLOS ZEFERINO TORREBLANCA GALINDO.
 
-VII. Coordinar sus actividades con los titulares de las demás unidades administrativas del Tecnológico para el mejor desempeño de sus funciones;
+Rúbrica.
 
-VIII. Proponer a su superior inmediato modificaciones jurídicas y administrativas que tiendan a mejorar el desempeño de la unidad administrativa a su cargo;
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-IX. Vigilar el cumplimiento de las disposiciones legales aplicables a la unidad administrativa a su cargo;
+LIC. ARMANDO CHAVARRÍA BARRERA.
 
-X. Participar en el ámbito de su competencia, en la elaboración, actualización y aplicación de los reglamentos, manuales administrativos y cualquier otra disposición de carácter general que regule la organización y el funcionamiento del Tecnológico;
+Rúbrica.
 
-XI. Desempeñar las comisiones que les encomiende su superior inmediato y mantenerlo informado del desarrollo de las mismas;
+EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 
-XII. Proporcionar, previo acuerdo de su superior inmediato la información, datos o el apoyo técnico que les sea solicitado por otras instancias;
+C.P. CARLOS ÁLVAREZ REYES.
 
-XIII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten; y
-
-XIV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende su superior inmediato.
-
-### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBDIRECCIONES Y DE LAS DIVISIONES
-
-> <small>(REFORMADO, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-###### Artículo 15.
-
-A la Subdirección Académica le corresponde planear, coordinar, dirigir, controlar y evaluar el desarrollo de los planes y programas académicos y de investigación de las carreras de ingeniería civil, biología, ingeniería en sistemas computacionales, ingeniería industrial y administración, así como coordinar los servicios escolares, de desarrollo académico y de cómputo del Tecnológico.
-
-Quedan adscritas a la Subdirección Académica:
-
-I. División de Ingeniería Civil;
-
-II. División de Licenciatura en Biología;
-
-III. División de Ingeniería en Sistemas Computacionales;
-
-IV. División de Ingeniería Industrial; y
-
-V. División de Licenciatura en Administración.
-
-###### Artículo 16.
-
-Corresponde al Subdirector Académico:
-
-I. Proponer al Director la normatividad escolar, difundirla y vigilar su cumplimiento;
-
-II. Difundir entre las unidades administrativas a su cargo los lineamientos a que deben sujetarse las actividades de docencia e investigación;
-
-III. Supervisar el desarrollo de las actividades académicas y de investigación encomendadas a la unidad administrativa a su cargo;
-
-IV. Diseñar y proponer al Director el perfil del personal académico y de investigación para su contratación;
-
-V. Proponer al Director los programas de actualización y superación académica y vigilar su cumplimiento;
-
-VI. Promover el otorgamiento de estímulos al personal académico y de investigación con desempeño o aportaciones sobresalientes;
-
-VII. Apoyar la celebración de convenios para la ejecución de los programas académicos del Tecnológico;
-
-VIII. Presentar al Director proyectos de ampliación y mejoramiento de espacios físicos y de los servicios educativos del Tecnológico, en función de la demanda;
-
-> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-IX. Orientar el proceso de selección de alumnos de nuevo ingreso al Tecnológico, con el apoyo de las unidades administrativas correspondientes;
-
-> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-X. Promover la realización de residencias profesionales y del servicio social de los alumnos y egresados del Tecnológico; y
-
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director.
-
-###### Artículo 17.
-
-Corresponde a la Subdirección de Planeación y Vinculación:
-
-I. Coordinar la elaboración del programa de desarrollo del Tecnológico, así como de las estrategias para su ejecución;
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-II. Proyectar el desarrollo del Tecnológico a corto, mediano y largo plazos con la participación que corresponda a los titulares de las demás unidades administrativas del Organismo;
-
-III. Establecer mecanismos para el seguimiento, control y evaluación de los programas de trabajo del Tecnológico;
-
-IV. Promover la congruencia de los planes y programas del Tecnológico con las directrices del desarrollo estatal;
-
-V. Proponer, difundir y vigilar el cumplimiento de las políticas y lineamientos establecidos para la planeación, programación, control y evaluación de las actividades del Tecnológico;
-
-VI. Coordinar las evaluaciones programático-presupuestales del Tecnológico de conformidad con las normas aplicables;
-
-VII. Establecer mecanismos de vinculación entre el Tecnológico y el sector productivo para el mejor cumplimiento de los programas académicos y el beneficio comunitario;
-
-VIII. Promover en coordinación con las unidades administrativas competentes la colocación de egresados del Tecnológico en el mercado laboral;
-
-> <small>(REFORMADA G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-IX. Promover el ejercicio de residencias profesionales del alumnado del Tecnológico;
-
-X. Promover la difusión de los programas académicos y servicios que ofrece el Tecnológico;
-
-XI. Proponer al Director las actividades extraescolares que se vinculen con la formación académica de los alumnos del Tecnológico; y
-
-XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
-
-###### Artículo 18.
-
-Corresponde a la Subdirección de Servicios Administrativos:
-
-I. Proponer políticas y procedimientos para la administración de los recursos humanos, materiales, financieros y técnicos del Tecnológico, vigilando su correcta aplicación;
-
-II. Administrar y custodiar los fondos y valores del Tecnológico, en términos de la normatividad aplicable;
-
-III. Aplicar las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros del Tecnológico;
-
-IV. Integrar el anteproyecto de presupuesto de ingresos y egresos del Tecnológico, con base en los programas, proyectos y acciones académico-administrativas autorizadas;
-
-V. Elaborar y someter a la consideración del Director el programa anual de adquisiciones, mantenimiento, arrendamiento y servicios generales de los bienes muebles e inmuebles del Tecnológico, en los términos de la legislación aplicable;
-
-VI. Desarrollar previa autorización del Director, acciones para salvaguardar el patrimonio del Tecnológico, estableciendo medidas de seguridad y protección civil, de conformidad con las disposiciones aplicables;
-
-VII. Realizar los movimientos y registros presupuestales y contables para el óptimo manejo de los recursos financieros del Tecnológico, de conformidad con las disposiciones aplicables;
-
-VIII. Informar al Director sobre los estados financieros del Tecnológico;
-
-IX. Llevar las cuentas bancarias para el depósito y manejo de los recursos financieros del Tecnológico;
-
-X. Suministrar oportunamente los bienes para el cumplimiento del objeto del Tecnológico, así como verificar y controlar su correcta recepción y almacenamiento;
-
-XI. Integrar los proyectos de manuales administrativos del Tecnológico y vigilar su cumplimiento;
-
-XII. Coordinar las actividades relacionadas con la contratación, capacitación, evaluación y rescisión de contratos del personal académico y administrativo del Tecnológico, con apego a la normatividad vigente en la materia;
-
-XIII. Llevar el inventario de los bienes muebles e inmuebles del Tecnológico, así como vigilar su conservación y mantenimiento;
-
-XIV. Proveer de los bienes, materiales y servicios para el desarrollo de las actividades del Tecnológico;
-
-XV. Promover la modernización administrativa del Tecnológico; y
-
-XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director.
-
-###### Artículo 19.
-
-Corresponde a las Divisiones, en el ámbito de su respectiva competencia:
-
-I. Ejecutar los planes y programas académicos y de investigación de la carrera a su cargo, que permitan el avance del conocimiento y fortalezcan la enseñanza tecnológica;
-
-II. Coordinar sus acciones con los titulares de las unidades competentes para el diseño y modificación de los planes y programas de estudio de la carrera a su cargo;
-
-III. Vigilar el cumplimiento de los planes y programas de la carrera a su cargo;
-
-IV. Proponer técnicas de enseñanza y métodos de evaluación para eficientar las actividades académicas de la carrera a su cargo y vigilar su cumplimiento;
-
-V. Proponer al Director modificaciones al contenido temático de los programas académicos y de investigación de la carrera a su cargo;
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-VI. Supervisar, en el ámbito de su competencia, la aplicación de los lineamientos académicos en materia de prácticas de campo, visitas de observación y residencias profesionales;
-
-VII. Impulsar la aplicación de métodos y tecnología novedosa en el proceso de enseñanza aprendizaje de la carrera a su cargo;
-
-VIII. Participar en la evaluación curricular de la carrera a su cargo;
-
-IX. Opinar, en materia de su competencia, sobre la revalidación y equivalencias de los estudios realizados en otras instituciones educativas;
-
-X. Participar en las acciones de vinculación de la carrera a su cargo con los sectores público, social y privado;
-
-XI. Proponer criterios para la asignación de becas a los estudiantes de la carrera a su cargo;
-
-XII. Fomentar la titulación de los alumnos egresados de la carrera a su cargo;
-
-XIII. Determinar, en coordinación con las instancias competentes, el perfil profesional del personal académico que requiera contratarse en la carrera a su cargo;
-
-XIV. Integrar la planta docente de la División a su cargo y someterla a la consideración del Subdirector Académico;
-
-XV. Proponer al Subdirector Académico cursos de actualización, formación y superación del personal docente de la División a su cargo;
-
-XVI. Supervisar las actividades del personal docente adscrito a la carreta (sic) a su cargo, así como aplicar exámenes de oposición para ocupar las plazas vacantes;
-
-XVII. Mantener los talleres y los laboratorios de su competencia, en condiciones adecuadas para el desarrollo de las actividades y prácticas relativas a la carrera a su cargo; y
-
-XVIII. Las demás que le señalen otras disposiciones legales y las que le encomiende el Subdirector Académico y el Director.
-
-### CAPÍTULO VI. DEL CONSEJO CONSULTIVO ACADÉMICO
-
-###### Artículo 20.
-
-Al Consejo Consultivo Académico le corresponde apoyar a la Junta en el estudio, elaboración y resolución de los proyectos académicos, así como en la aplicación o modificación de los planes y programas de estudio del Tecnológico.
-
-###### Artículo 21.
-
-El Consejo Consultivo Académico estará integrado por:
-
-I. Un Presidente, quien será el Subdirector Académico;
-
-II. Un Secretario, quien será rotativo semestralmente entre los jefes de división del Tecnológico;
-
-III. Dos representantes del personal académico del Tecnológico de alto reconocimiento profesional;
-
-IV. Jefes de División de las carreras existentes en el Tecnológico;
-
-V. Los Jefes de los Departamentos de Servicios Escolares y Desarrollo Académico.
-
-Los representantes del personal académico durarán en su cargo dos años pudiendo ser designados por otro periodo igual.
-
-Los miembros del Consejo Consultivo Académico realizarán sus tareas de asesoría en forma personal, en términos de la normatividad aplicable.
-
-El cargo de miembro del Consejo Consultivo Académico será honorífico.
-
-###### Artículo 22.
-
-Corresponde al Consejo Consultivo Académico las funciones siguientes:
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2006)</small>
-
-I. Dictaminar los programas y proyectos académicos presentados a la Junta y los que ésta le proponga, sometiéndolos a la consideración de la Secretaría de Educación, a través del Director.
-
-II. Supervisar que el Tecnológico cumpla con los planes y programas de estudio aprobados por las autoridades educativas;
-
-III. Promover la capacitación permanente del personal académico del Tecnológico;
-
-IV. Emitir opinión sobre las propuestas de modificación a los planes y programas de estudio del Tecnológico y presentarlos a la Junta;
-
-V. Analizar y dictaminar casos especiales presentados por los alumnos; y
-
-VI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende la Junta.
-
-###### Artículo 23.
-
-El Consejo Consultivo Académico celebrará sesiones ordinarias, de acuerdo con el calendario establecido por la Junta y extraordinarias, cuando sean convocadas por ésta.
-
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
-
-###### Artículo 24.
-
-El Director será suplido en sus ausencias temporales menores de 15 días, por el Subdirector que aquél designe. En las mayores de 15 días, por el Subdirector que designe el Presidente de la Junta.
-
-###### Artículo 25.
-
-Los Subdirectores y jefes de división y de departamento serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director.
-
-T R A N S I T O R I O S
-
-PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Huixquilucan, publicado en el periódico oficial "Gaceta del Gobierno" el 14 de noviembre del 2001.
-
-Aprobado por la Junta Directiva del Tecnológico de Estudios Superiores de Huixquilucan, según consta en acta de la Trigésima Sesión Ordinaria, celebrada en el Municipio de Huixquilucan, México, a los veintisiete días del mes de marzo de dos mil tres.
-
-ING. ALBERTO CURI NAIME
-
-SECRETARIO DE EDUCACIÓN, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DE LA H. JUNTA DIRECTIVA
-
-(RUBRICA).
-
-ING. MARIO VALLEJO VALDÉS
-
-DIRECTOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE HUIXQUILUCAN Y SECRETARIO DE LA H. JUNTA DIRECTIVA
-
-(RUBRICA).
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-G.G. 23 DE NOVIEMBRE DE 2006.
-
-PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
-
-SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
-
-TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+Rúbrica.
