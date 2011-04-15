@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-68764"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-15"
-last_updated: "2009-05-15"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECIMO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PÚBLICA PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE FECHA 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California Sur, el viernes 15 de mayo de 2009.
 
@@ -850,3 +852,27 @@ Regidor presidente de la Comisión de Salud y Medio Ambiente.
 C. Jaime Gaona Cervantes
 
 Regidor Presidente de la Comisión de Desarrollo Urbano, Control Ecológico y Obras y Servicios Públicos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+PRIMERO.- Las reformas hechas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, dejando sin efecto las normas reformadas en este reglamento.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Reglamento, se tendrán 3 meses para la integración de Consejo.
+
+TERCERO.- A partir de la entrada en vigor del presente Reglamento, el Comité contará con 3 meses para establecer las normas y lineamientos correspondientes para la clasificación de la información reservada y confidencia (sic).
+
+CUARTO.-·A partir de la entrada en vigor del presente Reglamento, la Unidad Transparencia contara con 3 meses para la elaboración de su Reglamento y el establecimiento de sus mecanismos de operación.
+
+QUINTO.- A partir de la entrada en vigor del presente Reglamento, los Sujetos Obligados designarán dentro del término de un mes, a los responsables de atender las solicitudes de acceso a la información,
+
+SEXTO.- A partir de la entrada en vigor del presente Reglamento, las Unidades de Enlace contarán con 6 meses para la organización y funcionamiento de sus archivos administrativos, bajo los criterios y nombramientos establecidos por la Oficialía Mayor.
+
+SEPTIMO.- Para los efectos del funcionamiento de la Unidad de Transparencia el presupuesto de egresos correspondiente preverá los recursos suficientes para su operación.
+
+OCTAVO.- Los particulares podrán solicitar información dos meses después de establecida la Unidad de Transparencia, excluyendo la información de oficio que aparecerá de inmediato en el Portal
+
+NOVENO.- A partir de la entrada en vigor del presente Reglamento se tendrán dos meses para la creación de la Comisión de Transparencia y Acceso a la Información Publica.
+
+DECIMO.- Se abroga el Reglamento de Transparencia y Acceso a la Información Publica para el Municipio de Playas de Rosarito, Baja California, publicado en el Periódico Oficial del Estado de Baja California el 15 de mayo del 2009.
