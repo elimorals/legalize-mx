@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-del-instituto-29921"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-20"
-last_updated: "2003-03-20"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29921&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2002-12-13"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 20 de marzo de 2003.
 
@@ -483,3 +485,15 @@ Todos los acuerdos se publicarán en la página de Internet del Instituto.
 Salvo que el Código establezca un plazo especial o que el Consejo establezca otro plazo, todos los acuerdos surtirán sus efectos al día siguiente de su aprobación.
 
 Así lo aprobaron por unanimidad de votos los CC. Consejeros Electorales integrantes del Consejo General del Instituto Electoral Del Distrito Federal, en sesión pública de fecha trece de diciembre de dos mil dos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE ABRIL DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el "Reglamento de Sesiones del Consejo General del Instituto Electoral del Distrito Federal" y el "Reglamento de Sesiones de las Comisiones del Consejo General del Instituto Electoral del Distrito Federal", aprobados respectivamente el 21 de enero de 2000 y el 13 de diciembre de 2002, por el Consejo General.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
