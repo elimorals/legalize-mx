@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2010-11-05"
+last_updated: "2011-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -8359,7 +8359,7 @@ DE LA ADOPCION.
 
 El que pretenda adoptar deberá acreditar las, exigencias del Artículo 390 y demás relativos del Código Civil debiéndose observar lo siguiente:
 
-I. En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres o del o los adoptantes. En caso de querer variar el nombre del o los adoptados, en dicha promoción se expresará el nuevo nombre que se pretende asignar.
+I. En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre. Nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres o del o los adoptantes. En caso de querer variar el nombre del o los adoptados, en dicha promoción se expresará el nuevo nombre que se pretende asignar.
 
 II. El otorgamiento del consentimiento de las personas que deban darlo, conforme a los Artículos 394 y 395 del Código Civil.
 
@@ -8383,25 +8383,13 @@ Tratándose de adopciones de menores abandonados o expósitos acogidos en instit
 
 No procederá fijar fecha y hora para la celebración de la audiencia a que se refiere el Artículo 1091 de este código, hasta en tanto transcurra el término que señala el Artículo 394 del Código Civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
 ###### Artículo 1103.
 
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción semiplena a plena, y reunidos los requisitos de ésta, el juez los citará a una audiencia dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Artículo 1104.
 
-Cuando el adoptante y el adoptado pidan que la adopción semiplena sea revocada, el juez lo citará a una audiencia para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el primer párrafo del Artículo 407 del Código Civil.
-
-Si el adoptado fuere Menor de edad, para poder decretar la revocación se deberá oír al representante del Ministerio Público y a la Procuraduría de la Defensa del menor y la Familia.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9498,3 +9486,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 5 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
