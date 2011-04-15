@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-47708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2008-11-10"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO, PUBLICADO EN EL B.O. DE 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -794,3 +796,35 @@ SEGUNDO.- Se abroga el Decreto expedido por el Titular del Poder Ejecutivo del E
 TERCERO.- Los Reglamentos del Registro Civil y del Registro Público de la Propiedad y del Comercio y Archivo de Notarías, se expedirán en un plazo no mayor de 30 días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
 
 CUARTO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas que haya lugar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 15 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno publicado en el Boletín Oficial del Gobierno del Estado número 73, de fecha 30 de diciembre del año 2005 con sus respectivas reformas y adiciones; así como todas las demás disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, materiales y financieros asignados a la Dirección General del Trabajo y Previsión Social que previa la entrada en vigor del presente Reglamento formaba (sic) parte de la estructura orgánica de la Secretaría General de Gobierno, se integrarán a la Secretaría del Trabajo y Previsión Social.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales de los trabajadores que, en virtud de lo dispuesto en el presente Reglamento, pasen a formar parte de la Secretaría del Trabajo y Previsión Social, se respetarán conforme a la Ley de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades de las Unidades Administrativas que no se contemplan en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán realizar los trámites administrativos necesarios para el cumplimiento del presente Reglamento.
+
+###### ARTÍCULO SEPTIMO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario General de Gobierno queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
