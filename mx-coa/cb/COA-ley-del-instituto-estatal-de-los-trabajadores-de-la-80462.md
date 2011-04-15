@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-estatal-de-los-trabajadores-de-la-80462"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2011-03-22"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL INSTITUTO ESTATAL DE LOS TRABAJADORES DE LA EDUCACION PARA SU SEGURIDAD SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO UNICO DEL DECRETO 491, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS CIENTO OCHENTA DIAS DESPUES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Ley publicada en la primera sección al número 23 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 22 de marzo de 2011.
 
@@ -2081,7 +2083,9 @@ Las ausencias de los titulares de las Direcciones Generales, de las Direcciones,
 
 T R A N S I T O R I O S
 
-PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+PRIMERO.- La presente Ley entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se abrogan la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 429 del 19 de Noviembre de 1999; La Ley del Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado número 63 del 29 de Abril de 1986; La Ley del Seguro de los Trabajadores de la Educación, publicada en el Periódico Oficial del Gobierno del Estado número 188 del 22 de Marzo de 1969; y la Ley del Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 173 del 8 de Febrero de 1969 y demás disposiciones que se opongan a esta nueva ley, salvo los casos transitorios en que las leyes anteriores se apliquen.
 
@@ -2158,3 +2162,11 @@ EL SECRETARIO DE EDUCACIÓN Y CULTURA
 PROFR. ANDRÉS MENDOZA SALAS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+###### ARTICULO UNICO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
