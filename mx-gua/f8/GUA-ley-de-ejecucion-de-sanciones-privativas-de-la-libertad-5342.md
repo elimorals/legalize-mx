@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-5342"
 country: "mx"
 rank: "ley"
 publication_date: "1983-11-04"
-last_updated: "1999-12-24"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE FECHA 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 4 de noviembre de 1983.
 
@@ -636,3 +640,23 @@ P.O. 24 DE DICIEMBRE DE 1999.
 Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- A los reos que actualmente se encuentran sentenciados, aunque la sentencia aún no cause ejecutoria, en su caso, les serán aplicables las disposiciones legales anteriores a la entrada en vigor del presente decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo preceptuado por esta Ley.
+
+Artículo Cuarto. El trámite de los expedientes de tratamiento de preliberación y los de revocación de ese beneficio cuyos respectivos proyectos de resolución, en la fecha de entrada en vigor de esta Ley, ya hubieren sido sometidos a consideración del Secretario de Seguridad Pública para su aprobación y firma, continuarán verificándose en los términos de la Ley que se abroga.
+
+Artículo Quinto. El trámite de los expedientes integrados con motivo de las solicitudes de indulto, libertad anticipada, remisión parcial y reducción de la sanción, que en la fecha de entrada en vigor de esta Ley, ya hubieran sido sometidos a consideración del Gobernador del Estado para su resolución, continuarán verificándose en los términos de la Ley que se abroga.
+
+Artículo Sexto. La Secretaría y el Poder Judicial integrarán un equipo de trabajo con la finalidad de conformar antes de la entrada en vigor de esta Ley, un registro de inculpados en prisión preventiva, de las personas a las que se les haya concedido la libertad bajo caución, así como de los sentenciados que estén compurgando pena de prisión o en disfrute de algún beneficio de libertad otorgado en sentencia o concedido por resolución administrativa, así como de aquéllos a quienes se les hubiere aplicado una sanción o medida de seguridad que por cualquier razón aún no esté extinta.
+
+Artículo Séptimo. Los tratamientos de preliberación que ya se estén aplicando, la libertad anticipada y la remisión parcial de la sanción que ya se estén disfrutando en la fecha de entrada en vigor de esta Ley, continuarán en sus términos. Para conocimiento de esta circunstancia, dentro del plazo comprendido entre la publicación de esta Ley hasta diez días antes de su entrada en vigor, la Secretaría proporcionará al Poder Judicial, una relación de todos los liberados que se encuentren en estos supuestos, con los datos correspondientes a las fechas de inicio y conclusión de estos beneficios, así como los concernientes al domicilio señalado por el liberado como lugar de su residencia, o el lugar en el que deberá residir conforme a la determinación correspondiente.
+
+Artículo Octavo. Los incidentes de cancelación de antecedentes penales que se estén tramitando al momento de entrada en vigor de esta Ley, continuarán practicándose ante el órgano jurisdiccional que esté conociendo de ellos, hasta su resolución.
