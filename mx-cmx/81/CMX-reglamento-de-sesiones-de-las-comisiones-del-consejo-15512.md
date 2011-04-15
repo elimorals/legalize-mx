@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-de-las-comisiones-del-consejo-15512"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2000-01-28"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15512&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-01-21"
 
 REGLAMENTO DE SESIONES DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 28 de enero de 2000.
 
@@ -185,3 +187,15 @@ XI. Enviar la minuta de cada sesión a los integrantes de la comisión, al Conse
 XII. Llevar el archivo de la comisión, y
 
 XIII. Las demás que les encomienden los presidentes de las comisiones.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE ABRIL DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el "Reglamento de Sesiones del Consejo General del Instituto Electoral del Distrito Federal" y el "Reglamento de Sesiones de las Comisiones del Consejo General del Instituto Electoral del Distrito Federal", aprobados respectivamente el 21 de enero de 2000 y el 13 de diciembre de 2002, por el Consejo General.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
