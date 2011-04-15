@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-04-04"
+last_updated: "2011-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1041,13 +1041,11 @@ En el Acta de Adopción se insertará la parte resolutiva de la sentencia que ha
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la sanción señalada en el artículo 84.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 89.
 
-Extendida el acta de adopción semiplena, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción. Al expedirse copia certificada del acta de nacimiento, los datos de ésta se suplirán por los datos de la anotación, salvo petición expresa del interesado de que se anoten los datos originales.
-
-En caso de adopción plena, a partir del levantamiento del acta de adopción no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del artículo 410-Bis-II.
+A partir del levantamiento del acta de adopción no se publicará, ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del Artículo 410 BIS-II.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1583,13 +1581,11 @@ X.- El matrimonio subsistente con persona distinta de aquélla con quien se pret
 
 De estos impedimentos solo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 157.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción, cuando sea semiplena.
-
-En la adopción plena se deberá de estar a los impedimentos previstos en el artículo anterior.
+En la adopción se deberá estar a los impedimentos previstos en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -2505,13 +2501,11 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 307.
 
-Tratándose de adopción semiplena, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos.
-
-En la adopción plena, se aplicará lo dispuesto por los artículos 303, 304, 305 y 306.
+Tratándose de alimentos en la adopción, se aplicará lo dispuesto por los Artículos 303, 304, 305, 306.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -3153,6 +3147,16 @@ Igual obligación tendrá el Juez que conozca de la adopción, respecto del cons
 
 La retractación del consentimiento es posible antes de los 30 días contados a partir de que fue otorgado.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Art. 394 BIS.- Las instituciones públicas o privadas autorizadas que operen un programa de adopción en el Estado, que tengan bajo su guarda o custodia o ambas a niñas, niños o adolescentes, podrán bajo la autorización del Consejo Estatal de Adopciones, otorgar en forma temporal la custodia del posible adoptado, siempre y cuando los candidatos adoptantes hayan cumplido los requisitos de los artículos precedentes.
+
+Los candidatos adoptantes no podrán renunciar a la custodia temporal que les fue otorgada, salvo por causa grave y justificada a criterio del Consejo Estatal de Adopciones; en el caso que no se justifique, los candidatos adoptantes quedarán impedidos a iniciar nuevamente un proceso de adopción.
+
+Para los efectos de lo dispuesto en este artículo, se entenderá por custodia temporal, aquélla que se da previo a un trámite de adopción, en donde la niña, niño y adolescente sujeto a este proceso, es entregado por la Institución para su integración a los candidatos adoptantes durante el tiempo que fije el Consejo Estatal de Adopciones para cada caso.
+
+Quienes reciban la custodia temporal, estarán a todas las obligaciones derivadas de la patria potestad que prevé este Código, así como a los lineamientos del convenio que al respecto deban suscribir con la institución que tenga bajo su guarda, custodia o ambas a la niña, niño o adolescente sujeto a adopción.
+
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 395.
@@ -3207,67 +3211,41 @@ El Ministerio Público también podrá impugnar la adopción cuando se afecte el
 
 #### SECCION SEGUNDA. DE LA ADOPCION SEMIPLENA
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
-
 ###### Art. 402.
 
-En la adopción semiplena no se extinguen los derechos y obligaciones que resulten del parentesco natural, los cuales permanecerán suspendidos respecto de los progenitores, transfiriéndose el ejercicio de la patria potestad a los adoptantes.
-
-Los derechos suspendidos conforme a lo anterior, se recobran una vez decretada la revocación de la adopción.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 403.
 
-Los derechos y obligaciones que nacen de esta forma de adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157, y salvo lo previsto en el artículo 295.
-
-El o los adoptados llevarán los apellidos del o los adoptantes, quienes tendrán derecho a cambiar el nombre del adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 404.
 
-La adopción semiplena podrá convertirse en plena siempre que se cumplan los requisitos aplicables a esta última. Si fuere respecto de menor de edad se recabará la opinión del Ministerio Público y de la Procuraduría de la Defensa del Menor y la Familia, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 405.
 
-La adopción semiplena puede revocarse por las siguientes causas:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme al artículo 394;
-
-II.- Por ingratitud del adoptado; y
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2004)</small>
-
-III. Cuando el Sistema para el Desarrollo Integral de la Familia del Estado determine alguna causa grave y justificada que ponga en peligro los derechos fundamentales del adoptado, a juicio del Juez.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 406.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 407.
 
-En el primer caso del artículo 405, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 408.
 
-El decreto del juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 409.
 
-En el segundo caso del artículo 405, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 410.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3297,9 +3275,9 @@ III.- En los demás casos previstos por las leyes.
 
 Art. 410 Bis III.- La adopción plena es irrevocable y sólo es impugnable por el adoptado o por el Ministerio Público en el supuesto previsto en el artículo 401.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-Art. 410 Bis IV.- La adopción plena puede beneficiar a personas de cualquier edad, mientras que la adopción semiplena sólo podrá otorgarse sobre personas de quince años o mayores.
+Art. 410 Bis IV.- La adopción puede beneficiar a personas de cualquier edad, siempre y cuando se cumpla con los requisitos de Ley.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -3405,11 +3383,11 @@ La anterior custodia podrá terminar por decisión del pariente que la realiza, 
 
 En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de los menores sujetos a ellas, deberá oírseles si han cumplido doce años; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 419.
 
-La patria potestad sobre el hijo adoptivo la ejercerán en la adopción semiplena únicamente los adoptantes, salvo lo previsto en el artículo 295. En la adopción plena, se estará a lo dispuesto por el artículo 414.
+La patria potestad sobre el hijo adoptivo, se ejercerá de conformidad a lo dispuesto por el artículo 414.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -9139,17 +9117,15 @@ Si solo quedaren descendientes de ulterior grado, la herencia se dividirá por e
 
 Concurriendo hijos con ascendientes, éstos solo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 1509.
 
-El adoptado hereda como hijo. En la adopción semiplena no hay derecho de sucesión entre el adoptado y los parientes del adoptante, salvo lo dispuesto por el artículo 295.
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+El adoptado hereda como hijo.
 
 ###### Art. 1510.
 
-Concurriendo padres adoptantes y descendientes del adoptado en la adopción semiplena, los primeros sólo tendrán derecho a alimentos.
+(DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
 ###### Art. 1511.
 
@@ -9177,19 +9153,17 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 1517.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes, si la adopción fue semiplena.
+En los casos de adopción, los parientes de la familia de origen del adoptado no tendrán derecho a la herencia.
 
-En los casos de adopción plena, los parientes de la familia de origen del adoptado no tendrán derecho a herencia.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Art. 1518.
 
-Si concurre el cónyuge que sobrevive del adoptado en adopción semiplena con los padres adoptivos, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los segundos.
+Si concurre el cónyuge que sobrevive del adoptado con los padres adoptivos, la herencia se dividirá en dos partes iguales, de los cuales una se aplicará al cónyuge y la otra a los segundos.
 
 ###### Art. 1519.
 
@@ -16777,7 +16751,7 @@ P.O. 28 DE NOVIEMBRE DE 2008.
 
 Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril de 2008 en el Periódico Oficial del Estado.
+Segundo.- La vigencia del presente Decreto establece la del diverso 225 que contiene la Ley del Registro Civil para el Estado de Nuevo León, de conformidad con lo previsto en el Artículo Primero Transitorio de dicho Decreto, publicado el día 10 de abril del 2008 en el Periódico Oficial del Estado.
 
 P.O. 15 DE DICIEMBRE DE 2008.
 
@@ -16832,3 +16806,7 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 4 DE ABRIL DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
