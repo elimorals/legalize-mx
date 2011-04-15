@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2010-10-08"
+last_updated: "2011-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -57,7 +57,9 @@ Baja Temporal.- Trámite a través del cual se suspende el alta en el Registro E
 
 Calcomanía.- Aditamento plástico de identificación y clasificación vehicular, coincidente con las placas y la tarjeta de circulación, que debe ser colocado al interior del vehículo y claramente visible al exterior del mismo.
 
-Canje de Placas de Circulación.- Trámite que debe realizarse para la obtención de las placas de circulación vigentes como consecuencia de la terminación de la vigencia de las anteriores.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Reposición de Placas de Circulación.- Trámite que debe realizarse para la obtención de nuevas placas de circulación únicamente por los supuestos previstos en esta ley.
 
 Canje de Tarjeta de Circulación.- Trámite que debe realizarse para la obtención de la tarjeta de circulación vigente como consecuencia de la terminación de la vigencia de la anterior.
 
@@ -83,7 +85,9 @@ Licencia de Conducir.- Documento que contiene la autorización que concede el Es
 
 Oficina Recaudadora.- Las Recaudaciones de Rentas del Estado, incluyendo las Subrecaudaciones Auxiliares de Rentas.
 
-Placas de Circulación.- Aditamento de metal u otro material similar, expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, que constituye un permiso temporal para la circulación de vehículos y que cuenta con número de matrícula coincidente con la calcomanía y tarjeta de circulación.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Placas de Circulación.- Aditamento de metal u otro material similar, expedido por la Secretaría a través de la Oficina Recaudadora y/o instituciones autorizadas para ello, que constituye un permiso para la circulación de vehículos con una vigencia permanente que termina al cambiar de propietario, y que cuenta con número de matrícula coincidente con la calcomanía y tarjeta de circulación.
 
 Registro de Comerciantes de Autos.- Sistema de información conformado por un conjunto de registros y archivos relativos a los comerciantes de autos autorizados a expedir el formato electrónico.
 
@@ -359,15 +363,17 @@ Los elementos de identificación vehicular son intransferibles. En la enajenaci�
 
 La expedición de placas de circulación para vehículos de servicio público de transporte, se limitarán en número, de conformidad con la concesión o permiso respectivo en los términos de la Ley General de Transporte Público del Estado de Baja California y su Reglamento, y cumpliendo con los requisitos establecidos en esta Ley.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-Las placas de circulación tendrán una vigencia de seis años. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas y durante los plazos que correspondan de acuerdo a lo señalado en los párrafos siguientes.
+Las placas de circulación tendrán una vigencia permanente, que termina únicamente por el cambio de propietario del vehículo. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas y durante los plazos que correspondan de acuerdo a lo señalado en los párrafos siguientes.
 
-Los propietarios de vehículos cuyo año modelo sean de hasta 9 años de antigüedad, deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
+Los propietarios de vehículos cuyo año sea de 9 años de antigüedad, deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
 Los propietarios de vehículos cuyo año modelo sea de 10 años o más de antigüedad deberán solicitar y obtener las calcomanías y tarjetas de circulación correspondientes dentro de los seis primeros meses del ejercicio fiscal siguiente al que fueron expedidos, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
-El canje general de placas de circulación, se deberá realizar cada 6 años en los meses que corresponda de acuerdo al año de antigüedad del vehículo, en base a lo señalado en los párrafos anteriores.
+Las calcomanías y tarjetas de circulación deberán de contener expresamente su vigencia según sea el caso, conforme a los plazos a que se refieren los párrafos primero, segundo y tercero.
 
 ###### ARTÍCULO 25.
 
@@ -617,7 +623,9 @@ Los visitantes extranjeros o nacionales podrán obtener licencia provisional de 
 
 Para obtener la licencia de conducir de la modalidad chofer en cualquiera de sus clasificaciones, el interesado deberá cumplir con los siguientes requisitos:
 
-I.- Cumplir con los requisitos que se establecen en el artículo 38 de esta ley;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+I.- Cumplir con los requisitos que se establecen en el artículo 37 de esta ley;
 
 II.- Presentar certificado médico, expedido por institución pública de salud, o institución de asistencia privada que proporcione servicios gratuitos de salud, que reporte capacidad motriz, visual y auditiva, así como de no adicción o uso de sustancias psicotrópicas, enervantes, depresivas, estupefacientes, alcohólicas u otras similares;
 
@@ -705,7 +713,9 @@ III.- Realizar el pago de los derechos correspondientes, establecidos en la Ley 
 
 IV.- Para licencia de conducir de la modalidad chofer, cumplir además lo que disponen las fracciones II y III del artículo 40 de esta Ley, y
 
-V.- DEROGADO.
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+V.- Tratándose de personas que tengan 60 años o más, deberán presentar el certificado médico a que se refiere el artículo 37, fracción IV de esta ley.
 
 ### CAPÍTULO II. DE LA SUSPENSIÓN Y CANCELACIÓN DE LAS LICENCIAS DE CONDUCIR
 
@@ -794,3 +804,11 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, realizará las adecuaciones que correspondan a la Ley de Ingresos del Estado de Baja California, para el ejercicio fiscal del año siguiente al que entre en vigor.
