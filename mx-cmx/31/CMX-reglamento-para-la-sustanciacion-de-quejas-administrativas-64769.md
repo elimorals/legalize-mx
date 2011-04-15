@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-sustanciacion-de-quejas-administrativas-6476
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-30"
-last_updated: "2009-03-04"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-12-19"
 
 REGLAMENTO PARA LA SUSTANCIACION DE QUEJAS ADMINISTRATIVAS DEL IEDF
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DIATRITO FEDERAL: 4 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL TRAMITE, SUSTANCIACION Y RESOLUCION DE LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DIATRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2008.
 
@@ -861,3 +863,13 @@ PRIMERO. Se MODIFICA el Reglamento para la Sustanciación de Quejas Administrati
 SEGUNDO. Se deja intocado el Reglamento indicado, en todo aquello no fue materia de impugnación.
 
 TERCERO. Se ORDENA al Consejo General del Instituto Electoral del Distrito Federal publicar los asuntos resolutivos del presente fallo, así como la modificación al Reglamento para la Sustanciación de Quejas Administrativas del Instituto electoral del Distrito Federal prevista en el resolutivo PRIMERO de esta sentencia, en la Gaceta Oficial del Distrito Federal, en los estrados del propio Instituto y en su pagina de Internet y una vez hecho lo anterior informe a este Tribunal sobre su cumplimiento.
+
+G.O. 15 DE ABRIL DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el Reglamento para la Sustanciación de Quejas Administrativas del Instituto Electoral del Distrito Federal, aprobado por el Consejo General, el diecinueve de diciembre de dos mil ocho.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
