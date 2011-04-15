@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-social-73158
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-12"
-last_updated: "2010-02-12"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de febrero de 2010.
 
@@ -43,23 +43,35 @@ El presente Reglamento Interior tiene por objeto regular la estructura orgánica
 
 La Secretaría de Desarrollo Social tiene a su cargo el ejercicio de las facultades y el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, la Ley de Desarrollo Social para el Estado de Nuevo León, la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León, y la Ley de Personas con Discapacidad del Estado de Nuevo León; así como los distintos ordenamientos legales aplicables.
 
-###### Articulo 2°.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 2°.
 
 Para el ejercicio de sus funciones, atribuciones y despacho de los asuntos de su competencia, la Secretaría de Desarrollo Social contará con la siguiente estructura administrativa y operativa:
 
-I. mular de la Secretaría de Desarrollo Social
+I. Titular de la Secretaría de Desarrollo Social:
 
-a) Unidad de Planeación e Informática
+a) Unidad de Planeación;
 
-b) Coordinación General Administrativa
+b) Unidad de Informática;
 
-II. Dirección de Vinculación con Organizaciones de la Sociedad Civil
+c) Unidad de Comunicación Social;
 
-III. Dirección de Infraestructura Social
+d) Dirección Administrativa, y
 
-IV. Dirección de la Red de Centros Comunitarios y Proyectos Productivos
+e) Dirección Jurídica.
 
-V. Dirección de Atención a Grupos Vulnerables y Participación Social
+II. Subsecretaría de Vinculación y Atención a Grupos Vulnerables:
+
+a) Dirección de Vinculación con Organizaciones de la Sociedad Civil, y
+
+b) Dirección de Atención a Grupos Vulnerables y Participación Social.
+
+III. Subsecretaría de Infraestructura Social y Centros Comunitarios:
+
+a) Dirección de Infraestructura Social, y
+
+b) Dirección de Centros Comunitarios y Proyectos Productivos.
 
 ###### Articulo 3°.
 
@@ -71,9 +83,11 @@ Las áreas administrativas de la Secretaría de Desarrollo Social ejercerán sus
 
 ### CAPÍTULO II. DEL SECRETARIO DE DESARROLLO SOCIAL
 
-###### Articulo 5°.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-Al frente de la Secretaría de Desarrollo Social habrá un Secretario, quien para el despacho de los asuntos que le corresponden, podrá conferir sus facultades delegables a los servidores públicos de sus unidades administrativas, expidiendo los acuerdos relativos, sin perjuicio de ejercer directamente las facultades delegadas cuando lo juzgue necesario.
+###### Artículo 5°.
+
+Al frente de la Secretaría de Desarrollo Social habrá un Secretario, quien para el despacho de los asuntos que le corresponden, podrá conferir sus facultades delegables conforme a las atribuciones asignadas en este reglamento a los servidores públicos de sus unidades administrativas, expidiendo los acuerdos relativos, sin prejuicio de ejercer directamente las facultades delegadas cuando lo juzgue necesario.
 
 ###### Articulo 6°.
 
@@ -93,17 +107,31 @@ VI. Conferir mediante acuerdo sus facultades delegables a los servidores públic
 
 VII. Participar en la celebración y firma de convenios y acuerdos de coordinación y de colaboración con la Federación, Municipios e instituciones en materia de Desarrollo Social;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE ABRIL DE 2011)</small>
+
 VIII. Expedir los Manuales de Organización y Servicios, y de Procedimientos de la Secretaría de Desarrollo Social, y adoptar las medidas necesarias para el mejor funcionamiento de la Dependencia;
 
 IX. Resolver, de acuerdo con sus facultades, sobre los casos no previstos en este reglamento;
 
 X. Expedir las certificaciones de los documentos que obren en su poder y de sus unidades administrativas;
 
-XI. Coordinar, supervisar y evaluar a las Unidades que le hayan sido sectorizadas; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
-XII. Las demás que le confieran las disposiciones legales aplicables y el Titular del Ejecutivo del Estado.
+XI. Coordinar, supervisar y evaluar a las entidades y demás organismos que le hayan sido sectorizadas;
 
-Son facultades indelegables del Secretario de Desarrollo Social las establecidas en fas fracciones III, IV, V, VI, VIII Y XI de este Articulo.
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+XII. Diseñar los lineamientos, establecer características, ordenar y supervisar a la Subsecretaría competente para la implementación de las estrategias de inversión e intervención social y urbana entre las dependencias y entidades estatales correspondientes, otros órdenes de gobierno, instituciones educativas y sociedad civil para la habilitación de espacios públicos, el fortalecimiento de habilidades y capacidades sociales, así como el desarrollo humano y lograr mejor calidad de vida de los habitantes del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+XIII. Realizar gestiones interinstitucionales, convenir acciones y programas con el Gobierno Federal, municipios y sociedad civil, en el ámbito de su competencia y participar en el Sistema Nacional de Desarrollo Social, previo acuerdo con el Titular del Ejecutivo, y
+
+XIV. Las demás que le confieran las disposiciones legales aplicables y el Titular del Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+Son facultades indelegables del Secretario de Desarrollo Social las establecidas en las fracciones I, II, III, IV, VIII, IX y XI de este Artículo. Lo anterior no aplica para los Encargados del Despacho o para quienes cubran las ausencias temporales del Secretario.
 
 Para el ejercicio de las atribuciones y el despacho de los asuntos que le competen, el Secretario de Desarrollo Social se auxiliará de las unidades administrativas que se mencionan en el Artículo 2 del presente Reglamento Interior.
 
@@ -113,7 +141,9 @@ Para el ejercicio de las atribuciones y el despacho de los asuntos que le compet
 
 Los Titulares de las Unidades Administrativas descritas en el artículo 2 del presente Reglamento, tendrán las siguientes atribuciones comunes:
 
-I. Acordar con el Secretario de Desarrollo Social, Los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+I. Acordar con el Secretario de Desarrollo Social o en su caso con el Subsecretario que corresponda, los asuntos de su competencia;
 
 II. Planear, programar, organizar, dirigir y controlar el funcionamiento de las áreas administrativas de su adscripción, de acuerdo a Lo establecido en los Manuales de Organización y. Servicios y de Procedimientos y demás disposiciones aplicables;
 
@@ -129,15 +159,19 @@ VII. Promover y coordinar la capacitación permanente del personal a su cargo pa
 
 VIII. Expedir copias certificadas de los asuntos de su competencia, y
 
-IX. las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+IX. Las demás que le confieran el Secretario de Desarrollo Social o en su caso el Subsecretario que corresponda y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DEPENDIENTES DEL SECRETARIO
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-Corresponde a la Unidad de Planeación e Informática:
+###### Artículo 8°.
 
-I. Formular y proponer al Secretario el proyecto de Programa Estatal de Desarrollo Social como parte del Plan Estatal de I Desarrollo, a efecto de que se someta a la consideración del Titular del Ejecutivo;
+Corresponde a la Unidad de Planeación:
+
+I. Formular y proponer al Secretario el proyecto de Programa Estatal de Desarrollo Social como parte del Plan Estatal de Desarrollo, a efecto de que se someta a la consideración del Titular del Ejecutivo;
 
 II. Uniformizar criterios de operatividad respecto al seguimiento de las estrategias, objetivos y metas de la Secretaría de Desarrollo Social;
 
@@ -153,31 +187,55 @@ VII. Identificar y proponer las zonas que requieran atención prioritaria en el 
 
 VIII. Establecer y coordinar un sistema de información estadístico que permita el monitoreo y seguimiento de los indicadores de los programas y proyectos de la Secretaría de Desarrollo Social;
 
-IX. Diseñar, elaborar y coordinar un sistema de información de indicadores sociales del Estado de Nuevo león, para consulta, seguimiento, evaluación y difusión;
+IX. Diseñar, elaborar y coordinar un sistema de información de indicadores sociales del Estado de Nuevo León, para consulta, seguimiento, evaluación y difusión;
 
 X. Asesorar al Secretario de Desarrollo Social con información oportuna, relevante y significativa para evaluar alternativas en la toma de decisiones dentro del entorno de operatividad de la Secretaría de Desarrollo Social;
 
 XI. Elaborar y proponer los Términos de Referencia para la evaluación de los programas y proyectos de la Secretaría de Desarrollo Social;
 
-XII. Coordinar y supervisar la realización de las evaluaciones a los programas y proyectos de la Secretaría de Desarrollo Social;
+XII. Coordinar y supervisar la realización de las evaluaciones a los programas y proyectos de la Secretaría de Desarrollo Social, y
 
-XIII. Proponer políticas normativas y operativas eficientes en las actividades de Telecomunicaciones, Sistematización de Información y Soporte Técnico de la Secretaría de Desarrollo Social;
+XIII. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
 
-XIV. Integrar y mantener actualizado los datos relativos al padrón de beneficiarios de los programas sociales en el Estado;
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-XV. Integrar y mantener actualizados los sistemas de información georeferenciados que permitan formular estrategias orientadas a la lucha contra la pobreza;
+###### Artículo 8° Bis.
 
-XVI. Proponer programas de actualización tecnológica de información y telecomunicaciones, así como evaluar su operación en función de los requerimientos de las áreas de la Secretaría de Desarrollo Social;
+Corresponde a la Unidad de Informática:
 
-XVII. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Secretaría de Desarrollo Social, así como efectuar revisiones, verificaciones y evaluaciones respecto a su uso y aprovechamiento adecuados;
+I. Proponer políticas normativas y operativas eficientes en las actividades de Telecomunicaciones, Sistematización de Información y Soporte Técnico de la Secretaría de Desarrollo Social;
 
-XVIII. Garantizar la operación continúa de los sistemas de información de la Secretaría de Desarrollo Social, y
+II. Integrar y mantener actualizado los datos relativos al padrón de beneficiarios de los programas sociales en el Estado;
 
-XIX. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+III. Integrar y mantener actualizados los sistemas de información geo-referenciados que permitan formular estrategias orientadas al combate a la pobreza;
 
-###### Articulo 9º.
+IV. Proponer programas de actualización tecnológica de información y telecomunicaciones, así como evaluar su operación en función de los requerimientos de las áreas de la Secretaría de Desarrollo Social;
 
-Corresponde a la Coordinación General Administrativa:
+V. Proponer las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Secretaría de Desarrollo Social, así como efectuar revisiones, verificaciones y evaluaciones respecto a su uso y aprovechamiento adecuados;
+
+VI. Garantizar la operación continúa de los sistemas de información de la Secretaría de Desarrollo Social, y
+
+VII. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 8° Bis 1.
+
+Corresponde a la Unidad de Comunicación Social:
+
+I. Difundir las acciones y programas sociales de la Secretaría;
+
+II. Ser enlace de la Secretaría con los medios de comunicación;
+
+III. Diseñar campañas de comunicación social respecto de las acciones, servicios y programas de la Secretaría con fines de orientación y apoyo a los beneficiarios, y
+
+IV. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 9°.
+
+Corresponde a la Dirección Administrativa:
 
 I. Acordar con el Secretario de Desarrollo Social las políticas, bases y lineamientos para el ejercicio presupuestal y administrativo;
 
@@ -187,89 +245,207 @@ III. Vigilar el ejercicio del presupuesto, así como llevar un control presupues
 
 IV. Gestionar ante las dependencias correspondientes las calendarizaciones, recalendarizaciones y ampliaciones presupuestales de acuerdo a las necesidades propias de la Secretaría de Desarrollo Social;
 
-V. Informar a los titulares de las unidades administrativas de la Secretaría de Desarrollo Social, sobre el estado que guarda su presupuesto, así como de los trámites de sus requerimientos solicitados;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+V. Informar al Titular de la Secretaría sobre el estado que guarda su presupuesto, así como de los trámites de sus requerimientos solicitados;
 
 VI. Solicitar y dar seguimiento a las contrataciones, bajas de personal y demás asuntos relativos;
 
-VII. Autorizar y tramitar las solicitudes de recursos materiales de las unidades administrativas adscritas a la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+VII. Autorizar y tramitar las solicitudes de recursos materiales de las Subsecretarías y de las unidades administrativas adscritas a la Secretaría de Desarrollo Social;
 
 VIII. Ser enlace con la Secretaría de Finanzas y Tesorería General del Estado a fin de llevar a cabo las acciones en materia de adquisiciones, uso, conservación, transferencia, baja, almacenamiento, control de inventarios, y en general, las funciones relacionadas con los bienes muebles propiedad del Gobierno del Estado, asignados a la Secretaría de Desarrollo Social de conformidad con los lineamientos administrativos del ejercicio del gasto que dicte la Secretada de Finanzas y Tesorería General del Estado;
 
 IX. Dirigir y coordinar las actividades relacionadas con el mantenimiento de las instalaciones, mobiliario y equipo de oficina, equipo de comunicación, cómputo y vehículos oficiales, asignados a la Secretaría de Desarrollo Social;
 
-X. Proporcionar a las áreas de la Secretaría de Desarrollo Social el servicio de correspondencia y registro de visitas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+
+X. Proporcionar las adecuaciones, el equipamiento y servicios de vigilancia a las distintas áreas de la Secretaría de Desarrollo Social;
 
 XI. Coordinarse con las dependencias responsables del suministro de bienes y servicios, con el propósito de obtenerlos oportunamente y que cumplan con las características y especificaciones solicitadas por las unidades administrativas de la Secretaría de Desarrollo Social;
 
-XII. Brindar asesoría jurídica a las diferentes unidades administrativas de la Secretaría de Desarrollo Social, así como a los organismos que sean sectorizados a la dependencia a través de los enlaces jurídicos, cuando así Lo soliciten, cuidando que se observen los principios de legalidad y seguridad jurídica en sus actos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
-XIII. las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+XII. Autorizar y dar trámite a las solicitudes de las Subsecretarías y de las unidades administrativas adscritas a la Secretaría en relación con el abastecimiento de insumos, contratación de prestación de servicios, servicios generales y recursos humanos, de acuerdo con el presupuesto y conforme a los procedimientos legales vigentes;
 
-### CAPÍTULO V. DE LOS TITULARES DE LAS DIRECCIONES
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
-### CAPÍTULO VI. DE LA SUPLENCIA DE LOS TITULARES
+XIII. Tramitar y desahogar los concursos, contratos y actos relativos a cualquier obra o contratación de servicios en calidad de dependencia normativa, y
+
+XIV. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 9° Bis.
+
+Corresponde a la Dirección Jurídica:
+
+I. Representar legalmente a la Secretaría, a su Titular y a los demás servidores públicos de ésta cuando se trate de asuntos de su competencia o de los funcionarios de esta Secretaría relacionados con el ejercicio de sus atribuciones, en los juicios o todo tipo de procedimientos en los que sean parte, tengan el carácter de terceros o les resulte algún interés; sujetándose a la coordinación en materia jurídica establecida y conducida por la Consejería Jurídica del Gobernador del Estado;
+
+II. Difundir al interior de la Secretaría la normatividad aplicable en las materias de competencia de la Secretaría;
+
+III. Formular y revisar contratos, convenios, circulares, resoluciones y acuerdos en el ámbito de la competencia de la Secretaría; así como revisar e interpretar el contenido de los convenios de coordinación y colaboración que celebre la Secretaría con la Federación, con otras entidades federativas, con los municipios y demás dependencias y entidades de la Administración Pública Estatal en los términos de las disposiciones legales aplicables;
+
+IV. Elaborar en coordinación con las demás unidades administrativas de la Secretaría, los proyectos de iniciativas de ley o decreto, reglamentos, normas, acuerdos y demás disposiciones generales y resoluciones individuales que sean de competencia de la Secretaría;
+
+V. Acceder y disponer de forma directa de los documentos que obran en el archivo de esta dependencia para el cumplimento del objeto a que hace mención la fracción anterior;
+
+VI. Otorgar asesoría jurídica a las diferentes unidades administrativas de la Secretaría de Desarrollo Social, a las dependencias y entidades de la administración pública estatal y a los organismos que sean sectorizados a esta Secretaría en relación con temas de la competencia de la Secretaría;
+
+VII. Responsabilizarse de la sustanciación los (sic) procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Secretaría, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
+
+VIII. Atender y desahogar ante los solicitantes y ante la Comisión competente las solicitudes de información que se reciban en la Secretaría, en los términos de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León y de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, y
+
+IX. Las demás que le confieran las disposiciones legales y administrativas aplicables y el Secretario.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2011)</small>
+
+### CAPÍTULO V. DISPOSICIONES COMUNES DE LOS SUBSECRETARIOS
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 9° Bis 1.
+
+Al frente de cada Subsecretaría habrá un Subsecretario, quienes tendrán las siguientes atribuciones comunes, además de las señaladas en las disposiciones subsecuentes:
+
+I. Acordar con el Secretario el despacho de los asuntos de su competencia y de los encomendados a las Unidades adscritas a su responsabilidad e informarle oportunamente sobre la atención de los mismos;
+
+II. Resolver los asuntos inherentes a su área de responsabilidad;
+
+III. Dictar medidas para el mejor funcionamiento de las unidades administrativas a su cargo;
+
+IV. Planear, Programar, organizar, dirigir y evaluar el funcionamiento de la Subsecretaría, sus Direcciones y del personal que le sea adscrito;
+
+V. Proponer al Secretario los movimientos y nombramientos del personal adscrito en las unidades a su cargo;
+
+VI. Asistir al Secretario en las gestiones interinstitucionales, a convenir acciones y programas con el gobierno federal, municipios y sociedad civil, en el ámbito de su competencia y en la participación en el Sistema Nacional de Desarrollo Social;
+
+VII. Coordinarse con las demás áreas de la Secretaría, para obtener un mejor desempeño de sus funciones;
+
+VIII. Someter a la aprobación del Secretario, los estudios y proyectos que elaboren las unidades administrativas a su cargo;
+
+IX. Someter a la consideración del Secretario la formulación de proyectos o reformas de leyes, reglamentos, decretos, acuerdos y demás disposiciones, relacionados con los asuntos de su competencia;
+
+X. Vigilar y evaluar el debido cumplimiento de los programas a cargo de las Direcciones y Coordinaciones adscritas a su área;
+
+XI. Desempeñar las funciones y comisiones que el Secretario le delegue manteniéndolo informado sobre el desarrollo de sus actividades;
+
+XII. Auxiliar al Secretario en el despacho y conducción de los asuntos que le sean encomendados;
+
+XIII. Emitir los dictámenes, opiniones, informes, estudios y proyectos que le sean solicitados por el Secretario;
+
+XIV. Participar, en el ámbito de su competencia y previo acuerdo del Titular de la Secretaría, en las comisiones, juntas, consejos y comités que se le señalen, manteniéndolo informado sobre el desarrollo de sus actividades, y
+
+XV. Las demás atribuciones que les sean conferidas por las leyes, decretos, reglamentos, acuerdos, convenios, o directamente por el Secretario.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+### CAPÍTULO VI. DE LA SUBSECRETARÍA DE VINCULACIÓN Y ATENCIÓN A GRUPOS VULNERABLES
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Dirección de Vinculación con Organizaciones de la Sociedad Civil:
+Corresponde a la Subsecretaría de Vinculación y Atención a Grupos Vulnerables:
 
-I. Fomentar la coordinación interinstitucional entre la Secretaría de Desarrollo Social y las dependencias y entidades públicas, instituciones educativas y la sociedad, en materia de desarrollo social;
+A) En materia de vinculación con organizaciones de la sociedad civil:
 
-II. Impulsar el fortalecimiento institucional de organizaciones que atiendan a personas en situación de pobreza extrema y vulnerabilidad;
+I. Fomentar la coordinación interinstitucional en materia de desarrollo social entre la Secretaría de Desarrollo Social, las dependencias, entidades públicas e instituciones educativas públicas y privadas con la sociedad civil;
+
+II. Impulsar el fortalecimiento institucional de organizaciones de la sociedad civil que atiendan a personas en situación de pobreza extrema y vulnerabilidad;
 
 III. Fomentar y vincular un cuerpo de servicio social y voluntariado activo para el apoyo al desarrollo social;
 
 IV. Formular y proponer al Secretario de Desarrollo Social, estrategias y acciones que consoliden la coordinación interinstitucional, a través del trabajo en conjunto con organizaciones civiles y educativas que promuevan el desarrollo humano;
 
-V. Impulsar programas en materia de beneficencia pública y privada y ejercer las atribuciones que señala la ley de la materia;
+V. Impulsar programas en materia de beneficencia pública y privada y ejercer las atribuciones que señala la Ley de la materia;
 
-VI. Promover e impulsar la formación de una estructura integral conformada por el Gobierno, las organizaciones civiles y sus modelos de atención a grupos vulnerables en la comunidad, logrando sinergias y acuerdos que redunden en proyectos de desarrollo integral, social y productivo; y
+VI. Promover e impulsar la formación de una estructura integral conformada por el Gobierno, las organizaciones civiles y sus modelos de atención a grupos vulnerables en la comunidad, logrando sinergias y acuerdos que redunden en proyectos de desarrollo integral, social y productivo;
 
-VII. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+VII. Promover, concertar y ejecutar la regeneración de áreas urbanas con la participación de instituciones educativas y de la sociedad civil habilitando espacios con estrategias de inversión que fortalezcan el tejido social y;
+
+VIII. Las demás que le confieran el Secretario de Desarrollo Social y otras disposiciones jurídicas aplicables.
+
+B) En materia de atención a grupos vulnerables y participación social:
+
+l. Procesar la información proporcionada por la Unidad de Planeación y la Unidad de Informática para el diseño de estrategias y esquemas de coordinación de programas tanto públicos como privados o mixtos destinados a la población en situación de pobreza o grave vulnerabilidad;
+
+II. Identificar, promover, concertar y ejecutar convenios sobre acciones y/o programas sociales con personas físicas u organizaciones de la sociedad civil y de la comunidad en general, así como con el sector académico que propicien el desarrollo humano y mejoren la calidad de vida;
+
+III. Investigar, planear y operar acciones geo-referenciadas en comunidades, zonas o regiones para atender grupos específicos en situación de riesgo o vulnerabilidad con la co-participación de los distintos sectores de la sociedad;
+
+IV. Identificar, analizar y proponer acciones y programas concertados con la sociedad civil y con programas públicos de Dependencias y Entidades federales, estatales o municipales tendientes a apoyar y a proteger a grupos vulnerables por medio de medidas que rehabiliten el tejido social de la población en situación de riesgo;
+
+V. Establecer todo tipo de mecanismos de coordinación y colaboración que sean necesarios en materia de atención a los grupos vulnerables fomentando la participación de la sociedad civil y articulando programas y recursos públicos y privados para éste fin;
+
+VI. Impulsar programas en materia de salud, derechos humanos, educación, cultura, de atención a la familia, de prevención y combate a la farmacodependencia, violencia intrafamiliar, atención a adultos mayores, madres solteras, orientación y capacitación laboral y para el autoempleo así como cualquier otra medida que fomente la equidad con los demás sectores de la población y ofrezca oportunidades para el mejoramiento en la calidad de vida;
+
+VII. Identificar, gestionar y promover la introducción de servicios públicos y el mejoramiento de las colonias, sectores o asentamientos humanos de los grupos más desprotegidos ante las Dependencias y Entidades competentes federales, estatales y municipales;
+
+VIII. Coordinar la realización de consultas públicas para la formulación de los programas de apoyo a los grupos vulnerables;
+
+IX. Promover para los sectores marginados los beneficios que por medio de los servicios en materia de desarrollo social proporcionen las instituciones públicas y privadas, nacionales y extranjeras;
+
+X. Concertar con las diversas instituciones y con la sociedad civil su participación en el diseño e implementación de brigadas, así como su organización, desempeño y ejecución dentro del Estado y;
+
+XI. Las demás que le confiera el Secretario de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 11.
 
-Corresponde a la Dirección de Infraestructura Social:
+Para el despacho de sus asuntos la Subsecretaría de Vinculación y Atención a Grupos Vulnerables se auxiliará de las siguientes unidades administrativas:
 
-I. Integrar propuestas de inversión con dependencias y entidades federales, estatales y municipales y con organizaciones de la sociedad civil, relativas a los convenios que suscriba el Estado en beneficio del desarrollo municipal;
+I. Dirección de Vinculación con Organizaciones de la Sociedad Civil, y
 
-II. Someter a consideración del Secretario de Desarrollo Social las propuestas de inversión de ros municipios, dependencias y entidades estatales y las organizaciones de la sociedad civil, para su programación y tramitación ante la instancia federal y estatal correspondiente, así como las transferencias y cancelaciones que estimen procedentes;
+II. Dirección de Vinculación y Atención a Grupos Vulnerables.
 
-III. Dar seguimiento a los programas que con recursos del Convenio de Desarrollo Social y Humano, del Fondo de Infraestructura Social Estatal y del FONDEN en el sector vivienda, se lleven a cabo por los municipios y las dependencias federales y estatales; vigilar la ejecución de éstos, verificando que el ejercicio del gasto público se efectúe con base a lo pactado en los convenios y las normas respectivas y que el avance financiero de los programas en ejecución corresponda a su avance físico;
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-IV. Proponer las medidas que se consideren adecuadas para asegurar la buena marcha de los programas que realice la Secretaría de Desarrollo Social con los municipios y dependencias federales y estatales con recursos del Convenio de Desarrollo Social y Humano y del Programa Estatal de Inversión;
+### CAPÍTULO VII. DE LA SUBSECRETARÍA DE INFRAESTRUCTURA SOCIAL Y CENTROS COMUNITARIOS
 
-V. Mantener permanentemente actualizada la información de la situación que guarda la inversión derivada del Convenio de Desarrollo Social y Humano y del FONDEN para el sector vivienda en la Entidad, partiendo de la asignación, autorización, aprobación, presupuestación, administración y avance físico y financiero;
-
-VI. Solicitar a los gobiernos municipales la información sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal, para posteriormente proporcionarla a la Secretaría de Desarrollo Social del Gobierno Federal;
-
-VII Operar los mecanismos de coordinación necesarios para la ejecución de los Convenios que celebre el Estado con los municipios o con la Federación, a fin de impulsar un desarrollo municipal integrar;
-
-VIII. Participar en la elaboración de convenios a celebrarse entre el Estado y los municipios, para la realización de obras que mejoren las condiciones de desarrollo social de éstos, financiadas por el Estado;
-
-IX. Verificar que la documentación comprobatoria del ejercicio financiero de los programas y fondos de su competencia, cumpla con los requisitos contables, presupuestales y los contenidos en disposiciones legales y acuerdos administrativos aplicables al gasto público;
-
-X. Operar fa transferencia de recursos financieros derivados del Convenio de Desarrollo Social y Humano, previo dictamen del Coordinador General del Comité de Planeación para el Desarrollo del Estado de Nuevo León, y lleva un registro contable de las erogaciones que con cargo a los programas autorizados presenten las entidades ejecutoras;
-
-XI. Asegurar que los programas estatales y los concertados con la Federación y con los municipios cumplan con las normas y bases señaladas en las leyes de obras públicas federal y estatal, y con otras disposiciones jurídicas relacionadas con la operación de estos programas;
-
-XII. Participar en los concursos, contratos y actos relativos a las obras del Convenio de Desarrollo Social y Humano; las convenidas con los municipios y las emanadas del Fondo de Infraestructura y del FONDEN en el sector vivienda;
-
-XIII. Realizar estudios de factibilidad para la realización de obra pública en los municipios y;
-
-XIV. Las demás que le confiera el Secretario de Desarrollo Social.
-
-### CAPÍTULO VII. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Dirección de la Red de Centros Comunitarios y Proyectos Productivos:
+Corresponde a la Subsecretaría de Infraestructura Social y Centros Comunitarios:
 
-I. Fortalecer la participación ciudadana comprometida con el desarrollo social integral comunitario;
+A) En materia de Infraestructura Social:
+
+I. Integrar propuestas de inversión con dependencias y entidades federales, estatales y municipales, relativas a los convenios que suscriba el Estado en materia de desarrollo social;
+
+II. Someter a consideración del Secretario de Desarrollo Social las propuestas de inversión de los municipios, dependencias y entidades estatales, para su programación y tramitación ante la instancia federal y estatal correspondiente, así como las transferencias y cancelaciones que estimen procedentes;
+
+III. Tramitar, dar seguimiento, ejecutar y rendir cuentas de todas las acciones y/o programas sociales financiados total o parcialmente por la federación, verificando que el ejercicio del gasto público se efectúe con base a lo pactado en los convenios y las normas respectivas y que el avance financiero de los programas en ejecución corresponda a su avance físico;
+
+IV. Proponer las medidas que se consideren adecuadas para asegurar la buena marcha de los programas que realice la Secretaría de Desarrollo Social con los municipios, dependencias federales y estatales así como con recursos del Convenio de Desarrollo Social y Humano y del Programa Estatal de Inversión o cualquier otro equivalente;
+
+V. Estar a cargo de la operación que sea competencia del Estado y mantener permanentemente actualizada la información de la situación que guarda la inversión derivada del Convenio de Desarrollo Social y Humano y del FONDEN para el sector vivienda en la Entidad, partiendo de la asignación, autorización, aprobación, presupuestación, administración y avance físico y financiero;
+
+VI. Solicitar a los gobiernos municipales la información sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal, para posteriormente proporcionarla a la Secretaría de Desarrollo Social del Gobierno Federal;
+
+VII. Operar los mecanismos de coordinación necesarios para la ejecución de los convenios que celebre el Estado con los municipios o con la Federación;
+
+VIII. Participar en la elaboración de convenios a celebrarse entre el Estado y los municipios, para la realización de obras de desarrollo social financiadas por el Estado;
+
+IX. Verificar que la documentación comprobatoria del ejercicio financiero de los programas y fondos de su competencia, cumpla con los requisitos contables, presupuestales y los contenidos en disposiciones legales y acuerdos administrativos aplicables al gasto público;
+
+X. Operar la transferencia de recursos financieros derivados del Convenio de Desarrollo Social y Humano y cualquier otro que opere con recursos federales, previo dictamen del Coordinador General del Comité de Planeación para el Desarrollo del Estado de Nuevo León, y llevar un registro contable de las erogaciones que con cargo a los programas autorizados presenten las entidades ejecutoras;
+
+XI. Asegurar que los programas estatales y los concertados con la Federación y con los municipios cumplan con las normas y bases señaladas en las leyes de obras públicas federal y estatal, y con otras disposiciones jurídicas relacionadas con la operación de estos programas;
+
+XII. Realizar estudios de factibilidad para la realización de introducción de servicios y obra pública que correspondan a la Secretaría como Dependencia normativa, y
+
+XIII. Las demás que le confiera el Secretario de Desarrollo Social.
+
+B) En materia de Centros Comunitarios y Proyectos Productivos:
+
+I. Fortalecer la participación oficial y ciudadana comprometida con el desarrollo social integral por medio del establecimiento de centros comunitarios, así como la promoción, desarrollo y operación de proyectos productivos;
 
 II. Crear agrupaciones de promotores sociales, para el inicio y desarrollo de programas sociales;
 
-III. Concertar acciones con instancias públicas y privadas para el inicio y desarrollo de programas sociales;
+III. Concertar acciones con instancias públicas y privadas para el inicio y desarrollo de centros comunitarios;
 
 IV. Realizar la planeación, programación y operación de actividades, cursos y talleres que se impartan en los Centros Comunitarios de Desarrollo Social;
 
@@ -281,61 +457,91 @@ VII. Proponer y ejecutar desde una perspectiva de educación no formal los progr
 
 VIII. Integrar propuestas, de personas y grupos vulnerables, respecto de proyectos productivos de combate a la pobreza;
 
-IX. Dar atención a grupos de migrantes e indígenas del Estado de Nuevo León, de conformidad con la normatividad aplicable;
+IX. Dar atención a grupos de migrantes e indígenas del Estado de Nuevo León de conformidad con la normatividad aplicable;
 
 X. Promover los Centros Comunitarios dentro de los Polígonos donde se encuentran éstos;
 
-XI. Constituir y fortalecer la estructura social que facilite la implementación de Programas de Desarrollo Social, y
+XI. A solicitud de los municipios, asesorarlos en el establecimiento de mecanismos que contribuyan a fomentar la participación ciudadana en el fomento y operación de los centros comunitarios y programas de desarrollo social, y
 
 XII. Las demás que le confiera el Secretario de Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Dirección de Atención a Grupos Vulnerables y Participación Social:
+Para el despacho de sus asuntos la Subsecretaría de Infraestructura Social y Centros Comunitarios se auxiliará de las siguientes unidades administrativas:
 
-I. Administrar la información proporcionada por la Unidad de Planeación e Informática, relativa a las condiciones de vida y necesidades de la población adulta mayor en el Estado;
+I. Dirección de Infraestructura Social, y
 
-II. Participar en las actividades de la Secretaría de Desarrollo Social con la Federación, con los organismos paraestatales y dependencias del Gobierno del Estado, con los Municipios, con las instituciones públicas y privadas, y con los particulares en materia de investigación y apoyo a personas adultos mayores, con discapacidad y vulnerabilidad social;
+II. Dirección de de Centros Comunitarios y Proyectos Productivos.
 
-III. Llevar a cabo la planeación, programación y operación de las acciones encaminadas a la atención de los grupos vulnerables;
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 15 DE ABRIL DE 2011)
 
-IV. Establecer mecanismos de coordinación y colaboración necesarios en materia de atención a los grupos vulnerables y participación social;
+### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS TITULARES
 
-V. Coordinar la realización de consultas públicas para la formulación de los programas de apoyo a los grupos vulnerables;
-
-VI. Impulsar programas en materia de salud, derechos humanos, educación, cultura, de atención a la familia y de atención a fa farmacodependencia, violencia intrafamiliar, así como promover la equidad entre los grupos más vulnerables;
-
-VII. Proponer y ejecutar programas de apoyo a los adultos mayores y personas con discapacidad, así como los criterios generales y reglas de operación para la asignación de los apoyos que se destinen a estos programas;
-
-VIII. Acercar a los sectores más necesitados los servicios que en materia de desarrollo social brindan las instituciones públicas y privadas;
-
-IX. Concertar con las diversas instituciones y con la sociedad civil su participación en el diseño e implementación de brigadas;
-
-X. Ser enlace con las áreas del Gobierno Central para la realización de eventos, giras de trabajo y campanas promocionares que involucre a la Secretaría de Desarrollo Social;
-
-XI. Coordinar los procesos de comunicación interna y externa de la Secretaría de Desarrollo Social;
-
-XII. Apoyar a los municipios en el establecimiento de mecanismos que contribuyan a fomentar la participación ciudadana responsable y organizada en tos proyectos de desarrollo social, y
-
-XIII. Las demás que le confiera el Secretario de Desarrollo Social.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 14.
 
-Las ausencias temporales del Secretario serán suplidas por el servidor público que designe el propio Titular de la Secretaría. Si la ausencia temporal es por un periodo mayor a quince días, el Secretario designará, previo acuerdo con el Titular del Poder Ejecutivo, al funcionario que se quedará encargado de los asuntos de trámite de la Secretaría.
+Las ausencias temporales del Secretario serán suplidas por el Subsecretario que designe el propio Titular de la Secretaría. Si la ausencia temporal es por un período mayor a quince días hábiles, el Secretario previo acuerdo con el Ejecutivo Estatal designará al funcionario que se quedará encargado de los asuntos de trámite de la Secretaría.
 
-En el caso de que el cargo de Secretario quede vacante por cualquier motivo, el Gobernador podrá designar a un encargado del despacho de la Secretaría hasta en tanto se otorgue el nombramiento correspondiente al nuevo titular de la dependencia.
+En el caso de que el cargo de Secretario quede vacante de manera definitiva o por cualquier motivo, el Gobernador designará directamente a un Encargado del Despacho de la Secretaría hasta en tanto se otorgue el nombramiento correspondiente al nuevo titular de la dependencia.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 15.
 
-Las ausencias temporales de los Titulares de las unidades administrativas dependientes del Secretario y Direcciones, serán cubiertas por el servidor público que designe el Secretario de Desarrollo Social.
+Las ausencias temporales de los Subsecretarios, Titulares de las unidades administrativas dependientes del Secretario y Direcciones, serán cubiertas por el servidor público que designe el Secretario de Desarrollo Social.
 
-###### Articulo 16.
+(REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 15 DE ABRIL DE 2011)
 
-Oe conformidad con el Acuerdo que para tal efecto emita el Titular del Ejecutivo la Secretaría contará con un Consejo de Participación Ciudadana cuya atribución será consultiva y propositiva para el análisis, diagnóstico, aportación y evaluación de instrumentos y acciones de planeación, así como de difusión de programas prioritarios del ramo correspondiente.
+### CAPÍTULO IX. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
-###### Articulo 17.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en los Consejos de Participación Ciudadana, es a titulo de colaboración ciudadana y su desempeño tendrá carácter honorífico, rigiéndose por principios de buena fe y propósitos de interés general. Sólo el personal remunerado y los servidores públicos que laboren en la Administración Pública Estatal y formen parte de estos consejos tendrán el carácter de servidores públicos, y se regirán de conformidad con el Acuerdo de creación.
+###### Artículo 16.
+
+La Secretaría contará con un Consejo mayoritariamente ciudadano incluyente, plural y multidisciplinario, cuyas atribuciones serán consultivas y de asesoría respecto de los programas sociales de la Secretaría.
+
+Sus integrantes deberán ser personas físicas o representantes de organizaciones de la sociedad civil, preferentemente de aquellas relacionadas con la atención de personas con discapacidad, adultos mayores, marginación social, pobreza, prevención y combate de adicciones, elaboración de proyectos productivos, asesoría en microcréditos y la capacitación para el autoempleo.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 17.
+
+La participación de los Vocales Consejeros Ciudadanos será a titulo de colaboración honorífica. Únicamente los funcionarios públicos integrantes de este Consejo tendrán el carácter y la responsabilidad propia de servidores públicos y se regirán por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 18.
+
+La integración del Consejo de Participación Ciudadana así como su reglamentación se determinará por Acuerdo del Ejecutivo. El Consejo de Participación Ciudadana se conformará por:
+
+I. Un Presidente Honorario que será el Gobernador del Estado;
+
+II. Un Consejero Presidente Ciudadano designado por el Ejecutivo Estatal;
+
+III. Un Secretario Ejecutivo que será el Titular de la Secretaría de Desarrollo Social;
+
+IV. Un Secretario Técnico designado por el Titular de la Dependencia;
+
+V. Dos Vocales que serán los Subsecretarios de esta Secretaría o sus representantes y;
+
+VI. Los Vocales Ciudadanos que serán ciudadanos, o representantes de agrupaciones o personas morales privadas provenientes de distintos sectores de la sociedad en un número no menor a diez ni superior a quince.
+
+Los Acuerdos se tomarán por mayoría de votos, todos sus integrantes tendrán voz y voto. El Secretario Técnico tendrá voz y no voto y será el encargado de convocar y elaborar las actas de las sesiones. En caso de empate tendrá voto de calidad el Consejero Ciudadano Presidente y en su ausencia lo sustituirá el Consejero representante del Gobernador.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 19.
+
+Los vocales serán nombrados por invitación del Gobernador del Estado a propuesta del Secretario de Desarrollo Social, los nombramientos recaerán en personas reconocidas por su compromiso con el desarrollo social, por su solvencia moral y su trayectoria altruista.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
+###### Artículo 20.
+
+Los vocales Consejeros Ciudadanos concluirán su encargo anualmente el día 03 de Octubre pudiendo ser invitados nuevamente al término del periodo correspondiente. Solo podrá sustituirse a los vocales integrantes del Consejo Ciudadano, por renuncia, fallecimiento, incapacidad permanente o inasistencias injustificadas a tres sesiones consecutivas. Su sustitución se hará bajo el mismo procedimiento de invitación del Ejecutivo Estatal.
 
 TRANSITORIOS (SIC)
 
@@ -358,3 +564,13 @@ ALFREDO GERARDO GARZA DE LA GARZA
 LA C. SECRETARIA DE DESARROLLO SOCIAL
 
 JUAN AURORA CAVAZOS CAVAZOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días hábiles contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo de Participación Ciudadana, por lo que respecta a los Vocales Ciudadanos, seguirá integrado de la misma manera hasta el tres de octubre de 2011, fecha en que concluyen su periodo, e ingresarán los nuevos integrantes en los términos establecidos en el presente Reglamento.
+
+TERCERO. Se abroga el Decreto Constitutivo del Consejo de Participación Ciudadana de la Secretaría de Desarrollo Social de fecha 08 de Febrero del 2010 publicado en el Periódico Oficial del Estado el 12 de Febrero del mismo año
