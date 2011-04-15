@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-en-6364
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2010-05-17"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,9 @@ scjn_last_update: "2011-04-15"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -598,3 +600,15 @@ TERCERO. Se ordena al Secretario Ejecutivo que, a través de la Unidad Técnica 
 CUARTO. Se instruye a la Unidad Técnica de Comunicación Social y Transparencia, actualice el documento que se encuentra disponible para su consulta en la sección de normatividad del sitio del Instituto en Internet, conforme a la modificación referida en el punto PRIMERO del presente Acuerdo.
 
 QUINTO. Publíquese el presente acuerdo en la Gaceta Oficial del Distrito Federal, y dentro de los tres días hábiles siguientes a su aprobación, en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales, como en sus 40 órganos desconcentrados y en el sitio del Instituto en Internet www.iedf.org.mx.
+
+G.O. 15 DE ABRIL DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el "Reglamento del Instituto Electoral del Distrito Federal en Materia de Transparencia y Acceso a la Información Pública", aprobado por el Consejo General el 29 de agosto de 2008.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. El Comité de Transparencia tendrá un plazo de hasta 45 días hábiles, computados a partir de dicha entrada en vigor para adecuar el Manual de Operación de la OIP, mientras tanto, funcionará válidamente con el que hasta la fecha se han venido aplicando en lo que no se contraponga a este Reglamento.
+
+QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
