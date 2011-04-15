@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-del-sur-40679
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-19"
-last_updated: "2004-08-19"
+last_updated: "2011-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 19 de agosto de 2004.
 
@@ -57,9 +57,11 @@ IV. Rector, al Rector de la Universidad Tecnológica del Sur del Estado de Méxi
 
 La Universidad es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confiere el Decreto y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 15 DE ABRIL DE 2011)</small>
+
 ###### Artículo 4.
 
-La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
+La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, así como por lo que establezcan otros ordenamientos legales.
 
 ###### Artículo 5.
 
@@ -89,9 +91,11 @@ El Consejo tendrá las atribuciones establecidas en el Decreto y en otras dispos
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL RECTOR
 
+> <small>(REFORMADO, G.G. 15 DE ABRIL DE 2011)</small>
+
 ###### Artículo 10.
 
-Al frente de la Universidad habrá un Rector, quien será designado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación, Cultura y Bienestar Social, y durará en su cargo cuatro años, pudiendo ser ratificado por un período más.
+Al frente de la Universidad habrá un Rector, quien será designado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación y durará en su cargo cuatro años, pudiendo ser ratificado por un período más.
 
 ###### Artículo 11.
 
@@ -125,17 +129,25 @@ I. Dirección de la Carrera de Mecatrónica;
 
 II. Dirección de la Carrera de Administración y Evaluación de Proyectos;
 
-III. Dirección de la Carrera de Contabilidad Corporativa;
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+III. Dirección de la Carrera de Contaduría;
 
 IV. Dirección de la Carrera de Tecnología de Alimentos;
 
-V. Dirección de la Carrera de Informática;
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+V. Dirección de la Carrera de Tecnologías de la Información y Comunicación Área Sistemas Informáticos;
 
 VI. Dirección de Vinculación;
 
-VII. Dirección de Administración y Finanzas; y
+VII. Dirección de Administración y Finanzas; y (sic)
 
-VIII. Abogado General.
+VIII. Abogado General;
+
+> <small>(ADICIONADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+IX. Contraloría Interna.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el manual general de organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
@@ -179,7 +191,9 @@ XIV. Proporcionar, previo acuerdo del Rector, la información, datos o el apoyo 
 
 XV. Las demás que les señalen otras disposiciones legales y aquellas que les encomiende el Rector.
 
-### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES Y DEL ABOGADO GENERAL
+> <small>(REFORMADA SU DENOMINACION, G.G. 15 DE ABRIL DE 2011)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES, DEL ABOGADO GENERAL Y DE LA CONTRALORIA INTERNA
 
 ###### Artículo 15.
 
@@ -299,11 +313,67 @@ VIII. Proponer disposiciones normativas complementarias que coadyuven a eficient
 
 IX. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Rector.
 
+> <small>(ADICIONADO, G.G. 15 DE ABRIL DE 2011)</small>
+
+Artículo 18 bis.- Corresponde a la Contraloría Interna:
+
+I. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos de la Universidad.
+
+II. Recibir y tramitar las sugerencias y reconocimientos ciudadanos respecto a los servicios que ofrece la Universidad y al desempeño de sus servidores públicos.
+
+III. Elaborar el Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a la consideración de la Dirección General de Control y Evaluación que le corresponda, así como llevar a cabo su ejecución y cumplimiento.
+
+IV. Iniciar, substanciar y resolver los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+V. Acordar la suspensión temporal de servidores públicos de la Universidad durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
+
+VI. Fincar pliegos preventivos de responsabilidad y calificar la responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+VII. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables, sin menoscabo de lo dispuesto por el Reglamento Interior de la Secretaría de la Contraloría.
+
+VIII. Realizar las acciones de control y evaluación, a fin de constatar que la Universidad observe las disposiciones aplicables en el ejercicio de los recursos federales.
+
+IX. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Universidad.
+
+X. Proponer y acordar con la unidad administrativa auditada, acciones de mejora, derivadas de sus funciones de control y evaluación, tendentes a fortalecer el control interno y la gestión de la Universidad, así como vigilar su implementación.
+
+XI. Realizar el seguimiento a la solventación de las observaciones que formule con motivo del ejercicio de sus funciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
+
+XII. Vigilar que la Universidad cumpla las disposiciones jurídicas y administrativas aplicables en sus diferentes ámbitos.
+
+XIII. Elaborar diagnósticos de la Universidad, con base en las acciones de control y evaluación que realice.
+
+XIV. Participar en los procesos de entrega y recepción de las unidades administrativas de la Universidad, verificando su apego a la normatividad correspondiente.
+
+XV. Promover el fortalecimiento de mecanismos de control de la gestión de la Universidad e impulsar el autocontrol y la autoevaluación en el cumplimiento de sus planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos.
+
+XVI. Ejercer, cuando así se le encomiende, las funciones de Comisario en la Universidad.
+
+XVII. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delitos e instar al área facultada de la Universidad para formular, cuando así se requiera, las querellas a que hubiere lugar.
+
+XVIII. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita.
+
+XIX. Verificar el adecuado ejercicio del presupuesto de la Universidad, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
+
+XX. Expedir constancias o certificar copias de documentos existentes en sus archivos.
+
+XXI. Proponer al Rector la aplicación de normas complementarias en materia de control.
+
+XXII. Intervenir en los procesos de adquisiciones de bienes, arrendamientos, servicios y obra pública, cuando la normatividad así lo determine.
+
+XXIII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
+
+XXIV. Las demás que le confieren otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría.
+
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 19.
 
 El Rector será suplido en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días, por quien designe el Presidente del Consejo.
+
+> <small>(ADICIONADO, G.G. 15 DE ABRIL DE 2011)</small>
+
+En las ausencias definitivas del Rector, el Consejo Directivo nombrará al servidor público que ocupará provisionalmente el cargo, hasta en tanto el Gobernador del Estado designa al nuevo titular de la Universidad.
 
 ###### Artículo 20.
 
@@ -330,3 +400,13 @@ ING. ROGELIO KURI GONZALEZ
 RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+G.G. 15 DE ABRIL DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
