@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-01-28"
+last_updated: "2011-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE ABRIL DE 2011.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -703,17 +707,13 @@ Desechada una iniciativa no podrá volver a presentarse en el mismo período de 
 
 En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA EN LOS ARTICULOS COMO EN EL ARCHIVO ANEXO.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2011)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
 
 ###### ARTICULO 33.
 
-Las iniciativas aquirirán (sic) el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo, salvo lo previsto en el artículo 34 de esta Constutución (sic).
-
-Si la ley no fija el día en que deba comenzar a observarse, será obligatoria en todo el Estado tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA EN LOS ARTICULOS COMO EN EL ARCHIVO ANEXO.</small>
+Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y Promulgadas por el Ejecutivo, salvo lo previsto en el artículo 34 de esta Constitución.
 
 ###### ARTICULO 34.
 
@@ -753,9 +753,13 @@ Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al 
 
 El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2011)</small>
+(ADICIONADO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
 
-El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos. Esta Ley o las reformas a la misma no podrán ser vetadas ni sujetas a observaciones, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
+El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos.
+
+(ADICIONADO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
+
+Esta Ley o las reformas a la misma no podrán ser vetadas ni sujetas a observaciones, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -1451,7 +1455,7 @@ Quienes hayan ejercido los cargos a que se refiere este artículo estarán imped
 
 Todo servidor público del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Consejo de la Judicatura en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, y formular en su caso denuncias o querellas por la comisión de delitos cometidos por los mismos, de acuerdo con lo previsto en las leyes.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 67.
 
@@ -2689,7 +2693,7 @@ En su oportunidad, pronunciada la Declaratoria en los términos establecidos por
 
 ###### ARTÍCULO TERCERO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Óficial, Organo de Gobierno del Estado de Baja California.
 
 P.O. 15 DE ENERO DE 1999.
 
@@ -3071,7 +3075,7 @@ Artículo Segundo.- Para los efectos de lo dispuesto en el Artículo 112 de la C
 
 P.O. 19 DE SEPTIEMBRE DE 2008.
 
-DECRETO No.123, POR EL QUE SE REFORMA LA FRACCION XXVI DEL ARTICULO 27 Y SE ADICIONA EL ARTICULO 76 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+DECRETO No. 123, POR EL QUE SE REFORMA LA FRACCION XXVI DEL ARTICULO 27 Y SE ADICIONA EL ARTICULO 76 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
 PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
