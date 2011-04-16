@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-desarrollo-administrativo-y-servicios-80608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-02"
-last_updated: "2011-04-02"
+last_updated: "2011-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PLANEACION, DESARROLLO ADMINISTRATIVO Y SERVICIOS PUBLICOS MUNICIPALES
 
-TEXTO ORIGINAL.
+TEXTO ORIGINAL Y SEGUNDA PUBLICACION EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de abril de 2011.
 
@@ -701,7 +701,27 @@ Se respetarán las formas de organización de las comunidades indígenas del Est
 
 En los municipios que por sus características urbanas así lo requieran, se integrarán los Consejos de Colaboración Municipal, para coadyuvar en la solución de los problemas municipales y prestar la asesoría que se les solicite.
 
-> <small>N. DE E. EL DECRETO DE LA LEY CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL PARA EL ESTADO DE OAXACA.</small>
+(SEGUNDA PUBLICACION, P.O. 16 DE ABRIL DE 2011)
+
+###### ARTÍCULO 69.
+
+Los Consejos de Colaboración Municipal tendrán la obligación de informar al Ayuntamiento sobre:
+
+I.- Los proyectos que pretendan realizar;
+
+II.- El estado de las obras en proceso;
+
+III.- Las obras realizadas; y
+
+IV.- El estado de cuenta que guarda la recolección de aportaciones económicas de la comunidad.
+
+(SEGUNDA PUBLICACION, P.O. 16 DE ABRIL DE 2011)
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación (sic) el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Lo relativo a la concesión de servicios públicos, los acuerdos y convenios para la planeación del desarrollo regional; que hayan celebrado antes de la entrada en vigor de esta Ley, se sujetará a las normas vigentes en el momento en que dio inicio el procedimiento.
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
