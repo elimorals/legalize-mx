@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2010-10-09"
+last_updated: "2011-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1631,7 +1631,19 @@ I.- Los abogados respecto de los asuntos en los cuales hubieran intervenido y te
 
 II.- los ministros de cualquier culto con motivo de las confesiones que hubieran recibido en ejercicio del ministerio que presten; y
 
-III.- Los periodistas, respecto de los nombres o datos de identificación de las personas que con motivo del ejercicio de su actividad les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado.
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2011)</small>
+
+III.- Los periodistas, colaboradores y editores periodísticos respecto de los nombres o las grabaciones, registros telefónicos, apuntes, archivos documentales y digitales y todo aquello que de manera directa o indirecta permitan la identificación de las personas que con motivo del ejercicio de su actividad les proporcionen como información de carácter reservada, en la cual sustenten cualquier publicación o comunicado, para efecto de mantener el secreto profesional periodístico, la identidad de su fuente y evitar posibles represalias contra ésta por haber transmitido la información.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+Para los efectos de salvaguardar el secreto profesional periodístico, se entiende por:
+
+a) Periodista: Toda persona dedicada al ejercicio de las libertades de expresión y/o información en periódicos, medios audiovisuales o electrónicos, como actividad principal, de manera permanente con o sin remuneración;
+
+b) Colaborador periodístico: Toda persona dedicada al ejercicio de las libertades de expresión y/o información en periódicos, medios audiovisuales o electrónicos, como actividad principal o complementaria, ya sea de manera esporádica o regular; y
+
+c) Editor periodístico: Persona responsable de la calidad y de la autenticidad de las noticias que publica el medio de comunicación del cual es responsable, pudiendo ser éste prensa escrita, radio, televisión o medios digitales.
 
 Si las personas mencionadas tienen voluntad de declarar, se hará constar esta circunstancia y se recibirá su testimonio. Para este efecto se hará constar en el acta respectiva que se les hizo saber el derecho que tienen para abstenerse de rendir declaración. La omisión de este requisito hará nulo el testimonio.
 
@@ -3390,3 +3402,9 @@ P.O. 21 DE FEBRERO DE 2009.
 P.O. 9 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+
+El Gobernador del Estado dispondrá se publique, circule Y observe."
