@@ -4,7 +4,7 @@ identifier: "COL-ley-que-instituye-las-preseas-en-honor-a-destacadas-mujeres-564
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2010-09-04"
+last_updated: "2011-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -69,9 +69,17 @@ IV. La Presea "Celsa Virgen Pérez", se concederá a aquellas mujeres que se hay
 
 V. La Presea "Martha Dueñas González", se concederá a aquellas mujeres que se hayan distinguido dentro del servicio público;
 
-VI. La Presea "Concepción Barbosa de Anguiano", se otorgará a aquellas mujeres que tengan una trayectoria destacada en el ámbito político; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2011)</small>
 
-VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colimenses que se hayan distinguido en las Letras y la Literatura.
+VI. La Presea "Concepción Barbosa de Anguiano", se otorgará a aquellas mujeres que tengan una trayectoria destacada en el ámbito político;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2011)</small>
+
+VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colimenses que se hayan distinguido en las Letras y la Literatura; y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2011)</small>
+
+VIII. La Presea "Amalia Gaytán de Aguilar", se otorgará a aquellas mujeres destacadas por su iniciativa y logro empresarial en el Estado.
 
 ###### ARTÍCULO 2°.
 
@@ -146,3 +154,7 @@ P.O. 4 DE SEPTIEMBRE DE 2010.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 UNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
