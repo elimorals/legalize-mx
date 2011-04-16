@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2010-10-09"
+last_updated: "2011-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -285,7 +285,11 @@ ART. 3º.- Por las acciones reales se reclamarán la herencia, los derechos real
 
 ART. 4º.- La reivindicación compete a quien no está en posesión de la cosa, de la cual tiene la propiedad, y su efecto será declarar que el actor tiene dominio sobre ella y se la entregue el demandado con sus frutos y accesiones en los términos prescritos por el Código Civil.
 
-ART. 5º.- El tenedor de la cosa puede declinar la responsabilidad del juicio consignando al poseedor que lo sea a título de dueño.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+ART. 5°.- El tenedor de la cosa puede declinar la responsabilidad del juicio consignando al poseedor que lo sea a título de dueño.
+
+La declinación a que se refiere el párrafo anterior, se hará dentro del término para contestar la demanda.
 
 ART. 6º.- El poseedor que niegue la posesión la perderá en beneficio del demandante.
 
@@ -2331,7 +2335,7 @@ Cuando el juicio se siga en rebeldía y el actor haya presentado documentos cuya
 
 ART. 339 BIS.- La objeción de documentos firmados en forma autógrafa o con la firma electrónica, inclusive de los que no se encuentren firmados, se tramitará en vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contados desde la notificación del auto que ordene su recepción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 340.- La falsedad consiste en la formación de un documento, no verdadero, o en la alteración de uno auténtico, o bien en la falta de veracidad de los hechos representados en un documento público que obre en archivo físico o electrónico y que se afirman como ocurridos ante un servidor público, notario o corredor.
 
@@ -6190,3 +6194,7 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 P.O. 9 DE OCTUBRE DE 2010.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
