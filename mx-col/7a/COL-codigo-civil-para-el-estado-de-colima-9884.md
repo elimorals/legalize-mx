@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-01-22"
+last_updated: "2011-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -631,13 +631,47 @@ ART. 10.- Contra la observancia de la ley no puede alegarse desuso, costumbre o 
 
 ART. 11.- Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no este expresamente especificado en las mismas leyes.
 
-ART. 12.- Las leyes del Estado de Colima, incluyendo las que se refieran al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de extranjeros, se tendrá presente lo que dispongan las leyes federales sobre la materia.
+> <small>(ADICIONADO [N. DE E. REFORMADO] , P.O. 16 DE ABRIL DE 2011)</small>
 
-ART. 13.- Los efectos jurídicos de actos y contratos celebrados fuera del Estado que deban ser ejecutados dentro de su territorio, se regirán por las disposiciones de este Código.
+ART. 12.- Las leyes del Estado de Colima, incluyendo las que se refieran al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de extranjeros, se tendrá presente lo que dispongan las leyes federales sobre la materia, salvo cuando éstas prevean la aplicación de un derecho extranjero y salvo, además, lo previsto en los tratados y convenciones de que México sea parte.
 
-ART. 14.- Los bienes inmuebles sitos en el Estado y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este Código.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
 
-ART. 15.- Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen; pero los interesados residentes fuera del Estado quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución dentro del territorio del mismo.
+ART. 13.- La determinación del derecho aplicable se hará conforme a las siguientes reglas:
+
+I. Las situaciones jurídicas válidamente creadas en las entidades de la República o en un Estado extranjero conforme a su derecho, deberán ser reconocidas;
+
+II. El estado y capacidad de las personas físicas se rige por el derecho del lugar de su domicilio;
+
+III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+
+IV. La forma de los actos jurídicos se regirá por el derecho del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código cuando el acto haya de tener efectos en el Estado de Colima; y
+
+V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos se regirán por el derecho del lugar en donde deban ejecutarse, a menos de que las partes hubieran designado válidamente la aplicabilidad de otro derecho.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+ART. 14.- En la aplicación del derecho extranjero se observará lo siguiente:
+
+I. Se aplicará como lo haría el juez extranjero correspondiente, para lo cual el juez podrá allegarse la información necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
+II. Se aplicará el derecho sustantivo extranjero, salvo cuando dadas las especiales circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas del Estado de Colima u otras entidades de la República Mexicana o de un tercer estado extranjero;
+
+III. No será impedimento para la aplicación del derecho extranjero, que el derecho del Estado de Colima no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+
+IV. Las cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a esta última; y
+
+V. Cuando diversos aspectos de una misma relación jurídica estén regulados por diversos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos. Las dificultades causadas por la aplicación simultánea de tales derechos se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad de la República Mexicana.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+ART. 15.- No se aplicará el derecho extranjero:
+
+I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho del Estado de Colima, debiendo el juez determinar la intención fraudulenta de tal evasión; y
+
+II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público del Estado de Colima.
 
 ART. 16.- Los habitantes del Estado de Colima deberán ejercer sus actividades y de usar y disponer de sus bienes, en forma que no perjudiquen a la colectividad, bajo las sanciones establecidas en este Código y en las leyes relativas.
 
@@ -1487,7 +1521,11 @@ ART. 194.- El dominio de los bienes comunes reside en ambos cónyuges mientras s
 
 ART. 195.- La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
 
-ART. 196.- El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+ART. 196.- El abandono injustificado por más de tres meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+
+Los bienes adquiridos individualmente por los cónyuges desde el día de la separación física libremente consentida y con el ánimo de concluir el vínculo matrimonial, no formarán parte del caudal de la sociedad conyugal, salvo convenio expreso que establezca lo contrario.
 
 ART. 197.- La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 188.
 
@@ -7149,7 +7187,9 @@ ART. 1817.- En los casos previstos por los artículos 1,814, 1,815 y 1,816, el q
 
 ART. 1818.- El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-ART. 1819.- El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado, cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
+
+ART. 1819.- El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es objetiva y directa y sólo podrá hacerse efectiva contra el Estado.
 
 ART. 1820.- El dueño de un animal pagará el daño causado por éste, si no probare alguna de estas circunstancias:
 
@@ -11136,3 +11176,21 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 P.O. 22 DE ENERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+DECRETO NUMERO 300, POR EL QUE SE REFORMA EL ARTICULO 1819 DEL NUEVO CODIGO CIVIL DEL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+DECRETO NUMERO 301, POR EL QUE SE ADICIONA EL ARTICULO 12 Y SE REFORMAN LOS ARTICULOS 13, 14 Y 15 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2011.
+
+DECRETO NUMERO 302, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 196 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
