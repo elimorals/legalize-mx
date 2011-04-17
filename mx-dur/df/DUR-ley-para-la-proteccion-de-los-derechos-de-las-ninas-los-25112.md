@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2009-12-20"
+last_updated: "2011-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de mayo de 2002.
 
@@ -301,7 +301,9 @@ V.- Apoyar las campañas de medicina preventiva y vacunación de las diversas in
 
 VI.- Realizar las campañas de prevención y detección de enfermedades y discapacidades;
 
-VII.- Proporcionar complementos alimenticios a los menores que lo requieran;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2011)</small>
+
+VII. Proporcionar complementos alimenticios a los menores en situación de desnutrición y combatir el sobrepeso, la obesidad y los trastornos de la conducta alimentaria, mediante la promoción de la actividad física, de una alimentación correcta y atención médica especializada.
 
 VIII.- Establecer comedores para proporcionar una alimentación balanceada a los menores que lo requieran por su precaria situación económica y que se encuentran realizando estudios en las escuelas del sector público, independientemente del nivel de escolaridad;
 
@@ -314,6 +316,16 @@ XI.- Asegurar que todos los sectores de la sociedad, y en particular los padres 
 XII.- Impulsar programas de atención a enfermedades endémicas, epidémicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas; y
 
 XIII.- Las demás acciones que coadyuven a asegurar el derecho y la salud en forma integra.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2011)</small>
+
+###### Artículo 20 Bis.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia de Durango, en coordinación con las Secretarías de Salud y Educación, conformarán un Observatorio Estatal de Información, Alimentación y Nutrición, que será un órgano técnico especializado, para detectar los cambios epidemiológicos de la obesidad, el sobrepeso y trastornos de conducta alimentaria, teniendo las siguientes atribuciones:
+
+l. Llevar a cabo la evaluación y monitoreo de las acciones gubernamentales en materia de salud alimentaria; y
+
+II. Las demás que señalen la presente Ley, su Reglamento y disposiciones legales aplicables.
 
 ###### Artículo 21.
 
@@ -708,3 +720,17 @@ P.O. 20 DE DICIEMBRE DE 2009.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 17 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, deberá emitirse el Reglamento para su organización y funcionamiento del Órgano Técnico.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
