@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-del-estado-de-hidalgo-21150"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-12-30"
-last_updated: "2011-02-28"
+last_updated: "2011-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE FISCAL DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 448 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2010.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 448 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2010.</small>
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 2000.
 
