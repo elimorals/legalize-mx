@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2011-02-28"
+last_updated: "2011-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE FEBRERO DE 2011.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 18 DE ABRIL DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -2173,7 +2173,9 @@ ARTICULO 81 BIS.- Los derechos por la prestación de servicios del Estado, a tra
 
 Por la expedición en copia simple o certificada, o reproducción de la información en dispositivo de almacenamiento, derivado del ejercicio del derecho de acceso a la información de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo, se causarán y pagarán los derechos de la siguiente forma:
 
-Expedición de copias simples, por cada hoja $5.00
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+Expedición de copias simples, por cada hoja $ .50
 
 Copia certificada $10.00
 
@@ -2185,7 +2187,9 @@ Copia de planos $30.00
 
 Copia Certificada de planos $100.00
 
-En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismo (sic), deberán ser contratados por el solicitante, con el prestador del servicio que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental del Poder Ejecutivo, los datos suficientes para poder realizar el envío.
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismos, deberán ser contratados por el solicitante, con el prestador del servicio que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental del Poder Ejecutivo, los datos suficientes para poder realizar el envío.
 
 ### CAPITULO TERCERO. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
 
@@ -2239,9 +2243,9 @@ b).- Ponente local. 30 salarios mínimos
 
 ### CAPITULO SEPTIMO. DE LA UNIDAD DE INFORMACION PUBLICA GUBERNAMENTAL DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010) (F. DE E., P.O. 18 DE ABRIL DE 2011)
 
-ARTICULO 86 BIS.- Los derechos por la prestación de servicios, a través de los organismos descentralizados, serán los siguientes:
+ARTICULO 86 BIS.- Los derechos por la prestación de servicios, a través de los Organismos Descentralizados, serán los siguientes:
 
 I.- Servicios en Materia Educativa:
 
@@ -2475,7 +2479,9 @@ I.- Servicios en Materia Educativa:
 
 115.- Impartición de diplomados;
 
-II.- Servicios en Materia de Salud:
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+I (sic).- Servicios en Materia de Salud:
 
 DESCRIPCION
 
@@ -5513,7 +5519,9 @@ CARNICOS
 
 1381.- Determinación de clembuterol (orina, suero e hígado);
 
-ANALISIS MICROBIOLOGICO DE AGUA Y ALIMENTOS
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+ANÁLISIS MICROBIOLÓGICO DE AGUA Y ALIMENTOS
 
 1382.- Método para la cuenta de bacterias aerobias en placa;
 
@@ -5525,7 +5533,9 @@ ANALISIS MICROBIOLOGICO DE AGUA Y ALIMENTOS
 
 1386.- Investigación de salmonella en alimentos;
 
-1387.- Métodos para la determinación de cuentas de mohos;
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+1387.- Métodos para la determinación de cuentas de mohos y levaduras en alimentos;
 
 1388.- Y levaduras en alimentos;
 
@@ -6207,7 +6217,9 @@ Servicios de Desarrollo Urbano:
 
 10.- Cesión de derechos lote casa-habitación;
 
-11.- Expedición de copias de documentos en archivo;
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+11.- Expedición de copias de documentos en archivo: primera hoja; por las siguientes.
 
 12.- Primera hoja;
 
@@ -6415,7 +6427,9 @@ V.- Servicios en Materia Ambiental;
 
 40.- Por día de retraso (días naturales) en la entrega de curvas de calibración y/o fianza;
 
-41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de (sic);
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 2011)</small>
+
+41.- Recepción de solicitudes y evaluación de campo - gabinete para la apertura de nuevos centros de verificación;
 
 42.- Recepción de solicitudes y evaluación de campo gabinete para la apertura de talleres PIREC;
 
