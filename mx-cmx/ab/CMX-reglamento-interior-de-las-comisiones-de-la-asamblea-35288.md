@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2010-12-14"
+last_updated: "2011-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -346,9 +346,11 @@ Las Comisiones se reunirán en sesión por lo menos una vez al mes, o en fechas 
 
 Las reuniones de trabajo de la Comisión podrán ser públicas o privadas. Las reuniones serán privadas cuando por la naturaleza de los temas a tratar, la Mesa Directiva así lo acuerde, y preferentemente no deberán sesionar los días que exista sesión del pleno, a menos que se trate de un asunto urgente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE ABRIL DE 2011)</small>
+
 ###### Artículo 22.
 
-La convocatoria respectiva para la reunión de trabajo deberá hacerse llegar a los diputados integrantes, cuando menos con cuarenta y ocho horas de anticipación, ésta deberá ser firmada por el Presidente y el Secretario. Asimismo, se fijará el orden del día en los estrados de la Asamblea, salvo en los casos considerados urgentes en los que podrá convocar sólo el primero.
+La convocatoria respectiva para la reunión de trabajo deberá hacerse llegar a los diputados integrantes y al diputado proponente que presentó la iniciativa o proposición con o sin punto de acuerdo cuando menos con cuarenta y ocho horas de anticipación, ésta deberá ser firmada por el presidente y el Secretario. Asimismo, se fijará el orden del día en los estrados de la Asamblea salvo en los casos considerados urgentes en los que podrá convocar sólo el primero.
 
 A la convocatoria se adjuntarán los documentos que se analizarán, discutirán y en su caso, se aprobaran en la reunión de trabajo respectiva.
 
@@ -691,3 +693,9 @@ PRIMERO.- Las presentes reformas entrarán en vigor al momento de su aprobación
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- A partir de la entrada en vigor del presente decreto, todas aquellas disposiciones que refieran a la Comisión de Preservación del Medio Ambiente y Protección Ecológica se entenderán referidas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático.
+
+G.O. 18 DE ABRIL DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor publicidad en el Diario Oficial de la Federación.
