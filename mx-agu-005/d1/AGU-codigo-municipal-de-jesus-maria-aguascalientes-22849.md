@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2011-02-14"
+last_updated: "2011-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2011.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -1684,39 +1684,65 @@ DE LAS FUNCIONES DE CONTROL PATRIMONIAL
 
 (DEROGADO, P.O. 17 DE MARZO DE 2003)
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2011)</small>
 
-###### ARTICULO 140 Bis.
+###### ARTÍCULO 140 Bis.
 
-La Contraloría Municipal tendrá las siguientes funciones y facultades:
+Corresponde a la Contraloría Municipal, a través de su titular, como órgano de control interno del Municipio de Jesús María, Aguascalientes, el despacho de los siguientes asuntos:
 
-I. Establecer y operar procesos de control y evaluación del gasto, en relación con los recursos asignados a la Presidencia Municipal de Jesús María.
+I.- Establecer y operar procesos de control y evaluación del gasto, en relación con los recursos asignados al Municipio de Jesús María;
 
-II. Vigilar el buen uso de los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y del Estatal;
+II.- Vigilar el control y buen uso de los recursos patrimoniales del Municipio, así como los que provengan del Gobierno Federal y Estatal;
 
-III.- Fijar las normas de control, fiscalización, contabilidad y auditoria que deberán observar las áreas municipales;
+III.- Supervisar la actualización del inventario de los activos de la administración pública municipal, que lleve a cabo la Secretaria de Administración y la Secretaría de Planeación y Desarrollo Urbano, con el fin de tener un registro fiel y correcto de los bienes patrimoniales del Municipio;
 
-IV.- Practicar auditorias en las Dependencias y Organismos Descentralizados Municipales, verificando el destino de los fondos públicos sean propios o transferidos;
+IV.- Proponer al Ejecutivo Municipal los proyectos de leyes, reglamentos, decretos, acuerdos, lineamientos, manuales y demás disposiciones sobre los asuntos competencia de la Contraloría;
 
-V.- Vigilar que las obras realizadas por el Municipio, directamente o con participación de terceros se ajusten a las especificaciones fijadas;
+V.- Fijar las normas de control, fiscalización, contabilidad y auditoría que deberán observar las áreas municipales;
 
-VI.- Exigir con oportunidad las responsabilidades de los Servidores Públicos del Municipio;
+VI.- Ordenar la práctica de auditorías, revisiones, visitas de inspección y verificación a las dependencias y entidades de la Administración Pública Municipal, a efecto de verificar el debido cumplimiento de las disposiciones que norman el actuar municipal;
 
-VII.- Atender las quejas de los vecinos relativas al cumplimiento de contratos o convenios celebrados con el Municipio;
+VII.- Informar al Presidente Municipal, titulares de las Dependencias y Entidades de la Administración Pública Municipal, sobre los resultados de las auditorías, revisiones, visitas de inspección y verificación practicadas, a efecto de que se tomen las medidas pertinentes de carácter preventivo y correctivo;
 
-VIII.- Supervisar la actualización del inventario de los activos de la administración pública municipal, estableciendo sistemas y procedimientos eficientes y de control que coadyuven al registro fiel y correcto de los bienes patrimoniales del municipio;
+VIII.- Vigilar el cumplimiento por parte de las dependencias y entidades de la Administración Pública Municipal, de las normas jurídicas y administrativas que rigen su funcionamiento;
 
-IX.- Exigir que los concursos de obras y las adquisiciones se realicen de acuerdo a lo estipulado en las leyes correspondientes;
+IX.- Exigir que las adquisiciones, arrendamientos y servicios, se realicen apegados a la Ley Patrimonial del Estado de Aguascalientes o a las normas que para el efecto, emita el H. Ayuntamiento del Municipio de Jesús María, Aguascalientes;
 
-X.- Organizar y controlar el registro de las declaraciones patrimoniales de los Servidores Públicos Municipales en términos de Ley;
+X.- Vigilar, inspeccionar, auditar y fiscalizar que las obras realizadas por el Municipio directamente o con participación de terceros, se ajusten a las especificaciones fijadas en las normas que rigen la aplicación de los recursos y demás normas aplicables;
 
-XI.- Turnar a las diferentes Unidades Administrativas las denuncias de los particulares para su trámite y dar seguimiento a las mismas;
+XI.- Exigir que los concursos y las asignaciones directas de las obras públicas y demás servicios relacionados, se realicen de acuerdo a lo estipulado en las leyes correspondientes;
 
-XII.- Interpretar para efectos administrativos tanto este Código así como la legislación municipal únicamente en lo relativo a cuestiones técnicas de carácter financiero y de vigilancia de los recursos municipales, así como de la forma de implementar sistemas de control administrativo y contable interno, y de sistemas para prevenir actos ilícitos por parte de los servidores y trabajadores municipales;
+XII.- Organizar y controlar con apoyo de la Secretaría de Administración, el registro de las declaraciones patrimoniales de los Servidores Públicos Municipales en términos de Ley;
 
-XIII.- Ejecutar las funciones establecidas para los organismos internos de control establecidos en este Código y en la legislación en general; y
+XIII.- Requerir a las dependencias, entidades paramunicipales, fideicomisos y organismos públicos descentralizados, los documentos, datos e información necesaria que estime la Contraloría Municipal para cumplir con sus atribuciones;
 
-XIV.- Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+Dicho requerimiento establecerá un plazo de respuesta de uno a diez días hábiles, según atienda el caso.
+
+XIV.- Designar, para el adecuado desarrollo del Sistema de Control y Evaluación Interno Gubernamental, en los casos que así lo determine la Contraloría, delegados de la propia ante las dependencias de la administración pública municipal, para llevar a cabo las auditorías y revisiones que resulten necesarias;
+
+XV.- Nombrar al personal de actuaciones que dará inicio y continuidad a los procedimientos de responsabilidad, así como nombrar personal para que realice las notificaciones de los actos emitidos por el titular de la Contraloría;
+
+XVI.- Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorías, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal y por otras instancias de control externas, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+
+XVII.- Tramitar y resolver en los términos de las disposiciones aplicables, las inconformidades que se presenten con motivo de los procedimientos para la adquisición de bienes y servicios, así como lo relacionado con las obras públicas que realicen las dependencias y entidades del Municipio de Aguascalientes;
+
+XVIII.- Turnar a las diferentes Unidades Administrativas de la Contraloría Municipal, las quejas y denuncias para su trámite y seguimiento a las mismas;
+
+XIX.- Turnar a las dependencias y entidades para su atención y resolución, los asuntos que derivado del análisis de las quejas o denuncias, se desprenda que son de mero trámite y no existen elementos de responsabilidad administrativa alguna;
+
+XX.- Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Municipio o de aquellos concertados con la Federación y el Estado que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública Municipal, de la Federación, del Estado o al patrimonio de sus entidades, organismos descentralizados, auxiliares y fideicomisos públicos;
+
+XXI.- Emitir extrañamientos, observaciones y recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente, en aquellos asuntos en los que no amerite la instauración del procedimiento de responsabilidades administrativas y que con ellos se corrijan las irregularidades detectadas;
+
+XXII.- Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal;
+
+XXIII.- Interpretar para efectos administrativos tanto este Código así como la legislación municipal únicamente en lo relativo a cuestiones técnicas de carácter financiero y de vigilancia de los recursos municipales, así como de la forma de implementar sistemas de control administrativo y contable interno, y de sistemas para prevenir actos violatorios de la normatividad por parte de los servidores y trabajadores municipales;
+
+XXIV.- Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código, así como intervenir en la entrega recepción de todas y cada una de las dependencias y entidades de la Administración Pública Municipal;
+
+XXV.- Respetar y hacer respetar la formulación de quejas y denuncias y garantizar que no se causen molestias indebidas a quien las formule;
+
+XXVI.- Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio y el H. Ayuntamiento a través del Presidente Municipal.
 
 ###### ARTICULO 141.
 
@@ -14637,3 +14663,7 @@ TERCERO.- Cuando en el Código Municipal se dé una denominación distinta a alg
 P.O. 14 DE FEBRERO DE 2011.
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE ABRIL DE 2011.
+
+ÚNICO. - La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
