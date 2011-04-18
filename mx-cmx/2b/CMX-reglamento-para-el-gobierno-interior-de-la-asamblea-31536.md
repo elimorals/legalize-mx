@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2010-11-19"
+last_updated: "2011-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -429,6 +429,10 @@ En las reuniones de trabajo de las Comisiones a que concurran servidores públic
 A las sesiones de las Comisiones asistirán sus miembros y cualquier Diputado que desee hacerlo. La convocatoria para la reunión deberá expedirse cuando menos con cuarenta y ocho horas de anticipación por el Presidente y Secretario, salvo los casos considerados urgentes en los que podrá convocar sólo el primero.
 
 En las deliberaciones de las Comisiones sólo podrán participar los Diputados. Únicamente votarán quienes sean miembros de la Comisión.
+
+> <small>(ADICIONADO, G.O. 18 DE ABRIL DE 2011)</small>
+
+El diputado proponente que haya presentado la iniciativa o proposición con o sin punto de acuerdo, aún sin ser miembro de la comisión, deberá ser convocado, en los términos del presente artículo, para asistir a la sesión en que se vaya a discutir o dictaminar su propuesta.
 
 ###### Artículo 37.
 
@@ -2861,3 +2865,9 @@ G.O. 19 DE NOVIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 18 DE ABRIL DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor publicidad en el Diario Oficial de la Federación.
