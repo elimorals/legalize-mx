@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-para-menores-del-estado-de-san-luis-potosi-5196
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-05"
-last_updated: "2007-07-05"
+last_updated: "2011-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA PARA MENORES DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 5 de septiembre de 2006.
 
@@ -789,7 +789,9 @@ Durante el periodo de suspensión del proceso a prueba quedará suspendida la pr
 
 Las medidas reguladas por esta Ley tienen la finalidad de brindar al menor una experiencia de legalidad; así como la oportunidad de valorar los beneficios de la convivencia armónica, del civismo y del respeto a las normas y derechos de los demás; para ello, deben instrumentarse, en lo posible, con la participación de la familia, de la comunidad y, en su caso, con el apoyo de especialistas.
 
-Todas las medidas de esta Ley están limitadas en su duración y no podrán, bajo ninguna circunstancia, superar el máximo previsto para cada una de ellas, lo cual no excluye la posibilidad de determinar el cumplimiento de la medida antes de tiempo, ni de adecuarla en beneficio del sujeto de la misma, en los términos previstos por esta Ley.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2011)</small>
+
+Todas las medidas de esta Ley están limitadas en su duración y no podrán, bajo ninguna circunstancia, superar el máximo previsto para cada una de ellas, lo cual no excluye la posibilidad de determinar el cumplimiento de la medida antes de tiempo, ni de adecuarla en beneficio del sujeto de la misma, en los términos previstos por esta Ley, a excepción de las conductas señaladas en el artículo 117 de este Ordenamiento, las que deberán cumplirse íntegramente.
 
 La decisión sobre la medida que debe ser impuesta tendrá relación directa con los daños causados, así como la existencia de voluntad de ocasionarlos.
 
@@ -1277,9 +1279,11 @@ La Dirección General deberá recabar la información necesaria para notificar a
 
 #### Sección I. Adecuación y Cumplimiento Anticipado de la Medida
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 134.
 
-Al momento de darse el cumplimiento de la mitad de duración de la medida impuesta por el Juez Especializado, el menor o su defensor, podrán solicitar a la autoridad judicial la adecuación de la medida, con audiencia de las partes, misma que se realizará dentro de los diez días posteriores a la emisión de la notificación.
+Al momento de darse el cumplimiento de la mitad de duración de la medida impuesta por el Juez Especializado, el menor o su defensor, podrán solicitar a la autoridad judicial la adecuación de la medida, con audiencia de las partes, misma que se realizará dentro de los diez días posteriores a la emisión de la notificación, a excepción de los menores que hayan cometido alguna de las conductas señaladas en el artículo 117 de este Ordenamiento, las que deberán cumplirse íntegramente.
 
 En aquellos casos que en forma excepcional quede plenamente demostrada la relevancia en el cumplimiento de la medida, la revisión podrá hacerse en cualquier momento, previa opinión de la Dirección General.
 
@@ -1622,3 +1626,9 @@ P.O. 5 DE JULIO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 19 DE ABRIL DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
