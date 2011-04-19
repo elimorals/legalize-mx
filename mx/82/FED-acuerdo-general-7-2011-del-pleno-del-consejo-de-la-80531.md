@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2011-del-pleno-del-consejo-de-la-80531"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2011-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-03-23"
 ---
 # ACUERDO GENERAL 7/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONES DEL TRIBUNAL UNITARIO DE CIRCUITO DEL CENTRO AUXILIAR DE LA CUARTA REGION, CON RESIDENCIA EN XALAPA, VERACRUZ, CON JURISDICCION EN TODA LA REPUBLICA MEXICANA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ABRIL DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 7/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL TRIBUNAL UNITARIO DE CIRCUITO DEL CENTRO AUXILIAR DE LA CUARTA REGION, CON RESIDENCIA EN XALAPA, VERACRUZ, CON JURISDICCION EN TODA LA REPUBLICA MEXICANA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 19 DE ABRIL DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 1 de abril de 2011.
 
@@ -51,11 +51,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ABRIL DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 PRIMERO. El Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, tendrá competencia y jurisdicción en toda la República, e iniciará funciones el dieciséis de junio de dos mil once.
 
-El domicilio del nuevo órgano jurisdiccional será el ubicado en Av. Adolfo Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, en Xalapa, Veracruz.
+> <small>(F. DE E., D.O.F. 19 DE ABRIL DE 2011)</small>
+
+El domicilio del nuevo órgano jurisdiccional será el ubicado en Av. Culturas Veracruzanas número 120, colonia Reserva Territorial, Xalapa, Veracruz, código postal 91096.
 
 Para su funcionamiento el Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, atenderá a lo establecido en el Acuerdo General 27/2008, modificado por el diverso 56/2008, ambos del Pleno del Consejo de la Judicatura Federal.
 
