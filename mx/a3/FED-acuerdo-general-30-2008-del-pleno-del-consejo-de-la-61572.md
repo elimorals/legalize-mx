@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2008-del-pleno-del-consejo-de-la-61572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-23"
-last_updated: "2010-01-22"
+last_updated: "2011-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-11"
 
 ACUERDO GENERAL 30/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE MAGISTRADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 8/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO MEDIANTE CONCURSOS INTERNOS DE OPOSICION, PUBLICADO EN EL D.O.F. DE 19 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de junio de 2008.
 
@@ -784,3 +786,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal, de la Corte y del Tribunal Electoral.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 30/2008 del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Magistrados de Circuito.
+
+D.O.F. 19 DE ABRIL DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en la página web del Consejo de la Judicatura Federal y en la del Instituto, así como en su sede y extensiones.
+
+TERCERO. Se abroga el Acuerdo General 30/2008 del Pleno del Consejo de la Judicatura Federal y demás disposiciones legales que se opongan al presente acuerdo.
