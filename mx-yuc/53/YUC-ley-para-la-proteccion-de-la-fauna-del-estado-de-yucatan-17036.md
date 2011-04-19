@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-fauna-del-estado-de-yucatan-17036"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-13"
-last_updated: "1999-12-13"
+last_updated: "2011-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY PARA LA PROTECCION DE LA FAUNA DEL ESTADO DE YUCATAN.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LA FAUNA DEL ESTADO DE YUCATAN, PUBLICADA EN EL SUPLEMENTO DEL D.O. DEL ESTADO DE YUCATAN DE FECHA 19 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Diario Oficial el Lunes 13 de Diciembre de 1999.
 
@@ -610,3 +612,23 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 19 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de la Fauna del Estado de Yucatán, expedida mediante decreto número 233 de fecha 13 de diciembre de 1999, a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo expedirá el Reglamento de esta Ley en un plazo no mayor de 180 días hábiles contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos deberán expedir o reformar sus reglamentos en materia de protección a la fauna, a más tardar dentro de los 180 días hábiles siguientes, contados a partir de la entrada en vigor del Reglamento de esta Ley.
