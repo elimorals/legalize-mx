@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-general-del-colegio-de-bachilleres-del-estado-de-26604
 country: "mx"
 rank: "estatuto"
 publication_date: "2000-01-05"
-last_updated: "2000-01-05"
+last_updated: "2011-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2011.
 
 Estatuto publicado en el Periódico Oficial "Tierra y Libertad", el 5 de enero de 2000.
 
@@ -163,13 +163,15 @@ II.- Determinar las cuotas que deban cobrarse por los servicios educativos que s
 
 III.- Aprobar planes y programas de estudios, así como las modalidades educativas que el Director General del Colegio someta a su consideración.
 
-IV- Resolver sobre la conveniencia de establecer planteles destinados a impartir educación correspondiente al nivel medio superior.
+IV.- Resolver sobre la conveniencia de establecer planteles destinados a impartir educación correspondiente al nivel medio superior.
 
 V.- Determinar las bases y los procedimientos conforme a los cuales se podrá otorgar reconocimiento de validez de estudios de Instituciones particulares que impartan el mismo tipo de enseñanza y, cuando exista causa legal, revocar los reconocimientos otorgados.
 
 VI.- Formular los lineamientos para revalidar y establecer Equivalencias de estudios realizados en instituciones nacionales o extranjeras que impartan el mismo tipo de educación.
 
-VII.- Nombrar y remover libremente al Director General.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2011)</small>
+
+VII.- Nombrar y remover libremente al titular de la Dirección General; y en caso de que llegase a faltar dicho titular por cualquier motivo, la Junta Directiva podrá nombrar un Encargado de Despacho; quien cubrirá la ausencia temporal, hasta en tanto se emita el nombramiento definitivo, confiriéndole las mismas facultades y obligaciones señaladas en el artículo 30 de este mismo ordenamiento, sin que con ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
 
 VIII.- Nombrar a los miembros del Patronato y removerlos por causa justificada con excepción del Presidente del mismo quien será designado por el Gobernador del Estado.
 
@@ -742,3 +744,11 @@ LIC. FRANCISCO ARGÜELLES VARGAS
 Subsecretario de Educación
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ABRIL DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o inferior rango que se opongan al presente Decreto.
