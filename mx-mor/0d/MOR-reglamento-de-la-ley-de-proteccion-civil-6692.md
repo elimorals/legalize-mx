@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-proteccion-civil-6692"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-07-14"
-last_updated: "1993-07-14"
+last_updated: "2011-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL DE PROTECCIÓN CIVIL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE FECHA 20 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 14 de julio de 1993.
 
@@ -648,3 +650,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE ABRIL DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad- órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de Protección Civil publicado con fecha 14 de julio de 1993, en el Periódico Oficial "Tierra y Libertad" número 3648, Sección Segunda, y todas las disposiciones de rango igual o inferior que se opongan a las del presente Reglamento.
