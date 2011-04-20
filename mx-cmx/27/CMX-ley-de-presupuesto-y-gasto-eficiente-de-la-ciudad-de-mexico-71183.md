@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2010-12-30"
+last_updated: "2011-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ABRIL DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -516,11 +516,7 @@ En caso de que la Asamblea apruebe recursos adicionales para las Delegaciones a 
 
 La Secretaría solicitará a las Delegaciones remitan la información sobre el ejercicio de los recursos señalados en el párrafo anterior, con el objeto de incorporarlos en un capítulo especial del Informe de Avance Trimestral que se envía a la Asamblea.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-ARTÍCULO 29 BIS.- Las Delegaciones, para la elaboración de los anteproyectos de presupuesto, tendrán en cuenta que la presupuestación de las erogaciones correspondientes a subsidios, apoyos, donativos y ayudas a la población del Distrito Federal a que se refiere el artículo 102 de esta Ley no podrá ser mayor al 2% con respecto al total del anteproyecto de presupuesto para la Delegación. En ningún caso, el presupuesto original asignado podrá rebasar ese porcentaje.
-
-El Jefe de Gobierno, a través de la Secretaría de Finanzas, podrá autorizar la ampliación de un punto porcentual adicional al porcentaje establecido en el párrafo anterior, siempre que la Delegación acredite haber dado cumplimiento a lo establecido en el artículo 81 de esta Ley.
+ARTÍCULO 29 BIS.- (DEROGADO, G.O. 20 DE ABRIL DE 2011)
 
 ### CAPÍTULO II. De los Aspectos Generales de los Programas
 
@@ -1795,3 +1791,9 @@ c) Calendario de pagos;
 d) Fuente de garantía, y
 
 e) Mecanismos de pago.
+
+G.O. 20 DE ABRIL DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
