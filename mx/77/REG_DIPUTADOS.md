@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2011-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CAMARA DE DIPUTADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -116,7 +116,9 @@ XIII. Mayoría simple: Es el resultado de la suma de votos de los presentes, que
 
 XIV. Minuta: Es el proyecto de ley o de decreto que se recibe de la Cámara de Senadores o que se envía a ella, en cualquiera de las etapas del proceso legislativo;
 
-XV. Orden del Día: Es el listado de asuntos que se proponen al Pleno para ser tratados en una Sesión o Reunión;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XV. Orden del día: es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una Sesión o Reunión;
 
 XVI. Permiso: Es la autorización de un órgano de la Cámara para que alguno de sus integrantes pueda retirarse de una Sesión o Reunión;
 
@@ -144,7 +146,9 @@ XXIV. Vacante: Es la declaración hecha por la Cámara sobre la situación de au
 
 ###### Artículo 5.
 
-1. Los diputados y diputadas tendrán los mismos derechos y obligaciones, sin importar su filiación política o sistema de elección.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Los diputados y diputadas tendrán los mismos derechos, obligaciones y prerrogativas, sin importar su filiación política o sistema de elección.
 
 2. Los diputados y diputadas no gozarán de remuneración adicional por el desempeño de sus tareas, comisiones o cualquier otra responsabilidad derivada de su cargo.
 
@@ -174,21 +178,25 @@ IX. Tener asesoría y personal de apoyo que coadyuven al desarrollo de su cargo;
 
 X. Participar en los debates, votaciones y cualquier otro proceso parlamentario para el que se encuentre facultado;
 
-XI. Formar parte de un Grupo o separarse de él, de acuerdo a sus ordenamientos;
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XII. Contar con una acreditación de su cargo vigente durante el tiempo del ejercicio;
+XI. Proponer a través de su grupo la incorporación de asuntos para ser considerados en la Agenda política y efemérides;
 
-XIII. Tener acceso a todos los documentos y medios de información disponibles en la Cámara;
+XII. Formar parte de un Grupo o separarse de él, de acuerdo a sus ordenamientos;
 
-XIV. Recibir orientación, solicitar información y asesoría de los órganos técnicos, administrativos, parlamentarios y de investigación de la Cámara;
+XIII. Contar con una acreditación de su cargo vigente durante el tiempo del ejercicio;
 
-XV. Solicitar licencia al ejercicio de su cargo;
+XIV. Tener acceso a todos los documentos y medios de información disponibles en la Cámara;
 
-XVI. Ser elegida o elegido para participar en los Grupos de Amistad, reuniones interparlamentarias, organismos internacionales parlamentarios, foros, reuniones y ceremonias;
+XV. Recibir orientación, solicitar información y asesoría de los órganos técnicos, administrativos, parlamentarios y de investigación de la Cámara;
 
-XVII. Obtener apoyo institucional para mantener un vínculo con sus representados, y
+XVI. Solicitar licencia al ejercicio de su cargo;
 
-XVIII. Las demás previstas en este Reglamento.
+XVII. Ser elegida o elegido para participar en los Grupos de Amistad, reuniones interparlamentarias, organismos internacionales parlamentarios, foros, reuniones y ceremonias;
+
+XVIII. Obtener apoyo institucional para mantener un vínculo con sus representados, y
+
+XIX. Las demás previstas en este Reglamento.
 
 #### Sección Segunda. Prerrogativas de Diputados y Diputadas
 
@@ -198,7 +206,9 @@ XVIII. Las demás previstas en este Reglamento.
 
 I. Contar con los recursos humanos, materiales y financieros que les permitan desempeñar con eficacia y dignidad su cargo, y
 
-II. Disponer de los servicios de comunicación, telemáticos y demás servicios con que cuente la Cámara inherentes para el desarrollo de su función.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. Disponer de los servicios de comunicación, telemáticos y demás servicios con que cuente la Cámara para el desarrollo de su función.
 
 2. La satisfacción de las solicitudes de los diputados y diputadas, con base en las prerrogativas enunciadas, estará sujeta a las limitaciones legales y a las disponibilidades de los recursos presupuestarios, financieros, administrativos y humanos de la Cámara.
 
@@ -210,7 +220,9 @@ II. Disponer de los servicios de comunicación, telemáticos y demás servicios 
 
 I. Rendir protesta y tomar posesión de su cargo;
 
-II. Asistir puntualmente a las convocatorias a sesiones y reuniones, del Pleno, de los órganos directivos, comisiones o comités a los que pertenezca;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. Asistir puntualmente a las convocatorias a sesiones y reuniones, del Pleno, de los órganos directivos y de las comisiones o comités a los que pertenezca;
 
 III. Acatar los acuerdos del Pleno, de los órganos directivos, comisiones y comités;
 
@@ -230,7 +242,9 @@ X. Ejercer el voto, salvo que exista excusa;
 
 XI. Evitar intervenir como actor, representante legal, mandatario o patrón, en juicios de cualquier índole, en los que el patrimonio del Estado esté en riesgo;
 
-XII. Presentar la declaración de situación patrimonial y de modificación a la misma;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XII. Presentar la declaración de situación patrimonial y de modificación a la misma, con oportunidad y veracidad;
 
 XIII. Renunciar a obtener, por la realización de actividades inherentes a su cargo o su impacto, beneficios económicos o en especie para:
 
@@ -320,7 +334,13 @@ V. Para ocupar un cargo dentro de su partido político.
 
 2. El diputado o diputada deberá solicitar licencia ante la Mesa Directiva con un escrito firmado y fundado. La Mesa Directiva verificará que la solicitud tenga como base alguna de las causas establecidas en el artículo anterior.
 
-3. La licencia surtirá efectos a partir de la fecha que indique el Pleno.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. La licencia de ser aprobada por el Pleno, surtirá efectos a partir de la presentación o en fecha posterior, si así se establece en el escrito de referencia.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. En los recesos, se estará a lo dispuesto por el Artículo 78, fracción VIII de la Constitución.
 
 ###### Artículo 14.
 
@@ -424,7 +444,9 @@ V. Para ocupar un cargo dentro de su partido político.
 
 4. De igual manera, deberán disponerse lugares en el Salón de sesiones o Salón de plenos, para los servidores públicos de la Cámara y el equipo de apoyo que brinde asesoría a los diputados y diputadas.
 
-5. Cuando asistan a las sesiones de la Cámara invitados especiales, funcionarios de los poderes Ejecutivo o Judicial, de los órdenes de gobierno, éstos ocuparán un lugar en el área descrita en el numeral anterior, y no podrán intervenir en el desarrollo de las sesiones.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Cuando asistan a las Sesiones de la Cámara invitados especiales, funcionarios de los poderes Ejecutivo o Judicial, de los órdenes de gobierno, éstos ocuparán un lugar en el área descrita en el numeral anterior, y no podrán intervenir en el desarrollo de las sesiones, salvo lo dispuesto en la Ley y este Reglamento.
 
 6. Los Secretarios de Estado ocuparán el lugar que les asigne la Mesa Directiva.
 
@@ -446,13 +468,17 @@ V. Para ocupar un cargo dentro de su partido político.
 
 ###### Artículo 33.
 
-1. En el Salón de sesiones habrá un lugar denominado galerías, destinado al público que concurra a presenciar las sesiones del Pleno de la Cámara; se abrirán antes de comenzar cada una de ellas, y sólo se cerrarán cuando las sesiones se levanten, cuando haya sesiones secretas o cuando haya necesidad de cerrarlas para restaurar el orden.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. En el Salón de Sesiones habrá un lugar denominado galerías, destinado al público que concurra a presenciar las Sesiones del Pleno de la Cámara; se abrirán antes de comenzar cada una de ellas, y sólo se cerrarán en el momento que las sesiones se levanten, cuando haya sesiones secretas o sea necesario cerrarlas para restaurar el orden.
 
 2. El Presidente valorará la conveniencia de abrir nuevamente las galerías una vez restaurado el orden, si estima que las garantías de seguridad de los diputados y diputadas son las adecuadas.
 
 ###### Artículo 34.
 
-1. El Presidente podrá solicitar la presencia de la fuerza pública, en el Recinto, si lo considerase conveniente o por acuerdo del Pleno, en términos de lo dispuesto por el artículo 12 numeral 1 de la Ley.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. El Presidente podrá solicitar la presencia de la fuerza pública, en el Recinto, si lo considerase conveniente, en términos de lo dispuesto por el artículo 12 de la Ley.
 
 2. En este caso, la fuerza pública quedará bajo las órdenes exclusivas del Presidente.
 
@@ -462,15 +488,19 @@ V. Para ocupar un cargo dentro de su partido político.
 
 #### Sección Primera. Generalidades
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 35.
 
-1. Las sesiones de la Cámara tendrán el carácter de ordinarias, extraordinarias, solemnes y permanentes; todas las sesiones serán públicas, salvo las que sean consideradas como secretas.
+1. Las Sesiones de la Cámara tendrán el carácter de ordinarias, extraordinarias, solemnes o permanentes; todas las sesiones serán públicas, salvo las que de manera excepcional, sean consideradas como secretas, conforme al artículo 40 de este Reglamento.
 
 #### Sección Segunda. Sesiones Ordinarias
 
 ###### Artículo 36.
 
-1. Serán sesiones ordinarias las que se celebren durante los periodos de sesiones ordinarias establecidos en la Constitución. Por regla general, se realizarán los martes y jueves de cada semana y durarán hasta cinco horas prorrogables por el Pleno. Podrán realizarse sesiones en días diferentes a los señalados, cuando así lo acuerde la Junta.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Serán Sesiones ordinarias las que se celebren durante los periodos de Sesiones ordinarias establecidos en la Constitución. Por regla general, se realizarán los martes y jueves de cada semana y durarán hasta cinco horas prorrogables por el Pleno. Podrán realizarse Sesiones en días diferentes a los señalados, cuando así lo acuerde la Conferencia.
 
 2. En términos de lo dispuesto por el artículo 68 constitucional, la Cámara no puede suspender sus sesiones por más de tres días, sin consentimiento de la Cámara de Senadores.
 
@@ -482,11 +512,17 @@ V. Para ocupar un cargo dentro de su partido político.
 
 2. En ellas podrán tratarse únicamente los asuntos incluidos en la convocatoria que para tal efecto decrete la Comisión Permanente.
 
-3. El Presidente deberá citar a este tipo de sesiones, por regla general, cuarenta y ocho horas antes. En caso de urgencia lo hará, por lo menos, con veinticuatro horas de anticipación, a través de los medios de difusión de la Cámara, podrá auxiliarse de los medios de comunicación masiva que considere pertinentes.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-4. El Presidente deberá explicar el objeto de la convocatoria, al inicio de la sesión de apertura del periodo de sesiones extraordinarias y declararlo concluido cuando se hubieran agotado los asuntos enlistados, o hasta veinticuatro horas antes del inicio del periodo de sesiones ordinarias.
+3. El Presidente deberá citar a este tipo de Sesiones, por regla general, cuarenta y ocho horas antes. En caso de urgencia lo hará, por lo menos, con veinticuatro horas de anticipación, a través de los servicios de difusión de la Cámara, podrá auxiliarse de los medios de comunicación masiva que considere pertinentes.
 
-5. Los asuntos materia del periodo extraordinario que no se hubieran agotado, deberán ser listados en la siguiente sesión del periodo de sesiones ordinarias.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. El Presidente deberá explicar el objeto de la convocatoria, al inicio de la Sesión de apertura del periodo de sesiones extraordinarias y declararlo concluido cuando se hubieran agotado los asuntos enlistados, o hasta veinticuatro horas antes del inicio del periodo de Sesiones ordinarias.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Los asuntos materia del periodo extraordinario que no se hubieran agotado, deberán ser listados en la siguiente Sesión del periodo de sesiones ordinarias.
 
 #### Sección Cuarta. Sesiones Solemnes
 
@@ -508,15 +544,23 @@ IV. Realizar actos protocolarios o diplomáticos.
 
 ###### Artículo 39.
 
-1. Serán sesiones permanentes, las que tengan como propósito desahogar los asuntos que acuerde la Cámara conservando la sesión, a efecto de poder reanudarlos en forma expedita, en otro momento para tratar asuntos previamente determinados.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Serán Sesiones permanentes, las que tengan como propósito desahogar los asuntos que acuerde la Cámara conservando la Sesión, a efecto de poder reanudarlos en forma expedita, en otro momento para tratar asuntos previamente determinados.
 
 2. La Cámara podrá, por mayoría absoluta, constituirse en sesión permanente para tratar los asuntos que acuerde. Durante éstas, el Presidente podrá decretar los recesos que estime pertinentes.
 
-3. En el desarrollo de la sesión permanente no podrá darse cuenta de ningún otro asunto que no esté comprendido en el acuerdo, salvo los de carácter urgente que el Pleno, por mayoría absoluta acuerde incluir.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-4. Cuando se traten asuntos para los cuales la legislación fije un plazo o término, ninguna sesión podrá prorrogarse más allá de dicho término.
+3. En el desarrollo de la Sesión permanente no podrá darse cuenta de ningún otro asunto que no esté comprendido en el acuerdo, salvo los de carácter urgente que el Pleno, por mayoría absoluta acuerde incluir.
 
-5. La sesión permanente podrá darse por terminada cuando así lo acuerde el Pleno o cuando se hayan agotado los asuntos que la motivaron. Antes de clausurarla se leerá, discutirá y aprobará el acta de la misma.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. La sesión permanente podrá darse por terminada cuando así lo acuerde el pleno o cuando se hayan agotado los asuntos que la motivaron. Antes de clausurarla se podrá leer, discutir y aprobar el acta de la misma.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Cuando se traten asuntos para los cuales la legislación fije un plazo o término, ninguna sesión podrá prorrogarse más allá de dicho término.
 
 #### Sección Sexta. Sesiones Secretas
 
@@ -540,7 +584,9 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 ###### Artículo 43.
 
-1. Los documentos electrónicos, fílmicos, de audio y escritos de las sesiones secretas serán mantenidos bajo reserva por el Presidente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Los documentos electrónicos, fílmicos, videográficos de audio y escritos de las sesiones secretas serán mantenidos bajo reserva por el Presidente.
 
 2. La Cámara, a través de la Mesa Directiva, podrá hacer públicos los documentos reservados, de conformidad con lo que establecen la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Cámara de Diputados.
 
@@ -556,11 +602,17 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 1. Los diputados y diputadas deberán registrar su asistencia al inicio de las sesiones, a través del Sistema Electrónico. Si no es posible su operación, se procederá a la aplicación del registro a través del pase de lista o mediante el sistema de registro de firmas ante la Mesa Directiva.
 
-2. El Sistema Electrónico se abrirá por lo menos, noventa minutos antes de la hora prevista para el inicio de la sesión y se cerrará en el momento que ésta inicie, previa instrucción del Presidente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-3. Si una diputada o diputado, por cualquier causa, no registrara oportunamente su asistencia como lo establece el numeral anterior, podrá hacerlo ante la Secretaría, quien le proporcionará las cédulas para tal efecto, hasta treinta minutos más tarde de que se haya cerrado el Sistema Electrónico.
+2. El Sistema Electrónico se abrirá por lo menos, noventa minutos antes de la hora prevista para el inicio de la Sesión y se cerrará en el momento que ésta inicie, previa instrucción del Presidente.
 
-4. La Secretaría ordenará hacer avisos para que las diputadas y los diputados pasen al Salón de sesiones, diez minutos antes del inicio de la sesión. Los avisos se harán también antes de reanudar una sesión que se haya suspendido y antes de efectuar una votación nominal.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Si una diputada o diputado, por cualquier causa, no registrara oportunamente su asistencia como lo establece el numeral anterior, podrá hacerlo ante la Secretaría, quien le proporcionará las cédulas para tal efecto, hasta treinta minutos posteriores al cierre del Sistema Electrónico.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. La Secretaría ordenará hacer avisos para que las diputadas y los diputados pasen al Salón de Sesiones, diez minutos antes del inicio de la Sesión. Los avisos se harán también antes de reanudar una Sesión que se haya suspendido y antes de efectuar una votación nominal.
 
 5. La Secretaría instruirá para que dichos avisos se realicen en todas las oficinas, estancias, salones, pasillos y demás áreas del Recinto.
 
@@ -568,17 +620,25 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 1. La Cámara abrirá con validez sus sesiones, cuando esté integrado el quórum, de acuerdo a lo que dispone el artículo 63 de la Constitución.
 
-2. Durante la sesión, el quórum sólo se verificará mediante las votaciones nominales.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-3. Una vez iniciada la sesión, esta sólo se suspenderá si se comprueba la falta de quórum en alguna votación nominal. En este caso, el Presidente declarará un receso hasta por quince minutos. Si al término del mismo se verificara que no existe quórum, levantará la sesión.
+2. Durante la Sesión, el quórum sólo se verificará mediante las votaciones nominales.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Una vez iniciada la Sesión, esta sólo se suspenderá si se comprueba la falta de quórum en alguna votación nominal. En este caso, el Presidente declarará un receso hasta por quince minutos. Si al término del mismo se verificara que no existe quórum, levantará la Sesión.
 
 ###### Artículo 47.
 
-1. Se computará como inasistencia de la diputada o del diputado a una sesión cuando:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Se computará como inasistencia de la diputada o del diputado a una Sesión cuando:
 
 I. No registre su asistencia al inicio.
 
-II. No vote o manifieste su abstención en al menos, la mitad de los proyectos de ley o decreto que se discutan en la sesión, salvo que exista justificación.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. No vote o manifieste su abstención en al menos, la mitad de los proyectos de ley o decreto que se discutan en la Sesión, salvo que exista justificación.
 
 ###### Artículo 48.
 
@@ -598,11 +658,13 @@ III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa 
 
 1. La justificación de inasistencia por enfermedad, motivos de salud, gestación y maternidad deberá tramitarse ante la Mesa Directiva, con una constancia médica avalada por los servicios médicos de la Cámara.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 50.
 
-1. Las diputadas y los diputados dispondrán de cinco días hábiles, a partir del día siguiente a aquel en que se produzca la inasistencia para enviar a la Mesa Directiva la justificación correspondiente. Tratándose de faltas continuas, el término empezará a correr a partir de la última inasistencia.
+1. Las diputadas y los diputados dispondrán de cinco días, a partir del día siguiente a aquel en que se produzca la inasistencia para enviar a la Mesa Directiva la justificación correspondiente. Tratándose de faltas continuas, el término empezará a correr a partir de la última inasistencia.
 
-2. En ningún caso podrán justificarse más de seis inasistencias en un mismo periodo de sesiones ordinarias. Durante los periodos de sesiones extraordinarias la Mesa Directiva establecerá el número de inasistencias justificables.
+2. En ningún caso podrán justificarse más de seis inasistencias en un mismo periodo de Sesiones ordinarias. Durante los periodos de Sesiones extraordinarias la Mesa Directiva establecerá el número de inasistencias justificables.
 
 ###### Artículo 51.
 
@@ -614,17 +676,23 @@ III. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa 
 
 1. La Mesa Directiva podrá dispensar a sus integrantes la obligación del registro inicial de asistencia cuando el diputado o la diputada esté presente en la sesión y no haya registrado su asistencia debido a algún retraso con motivo de su encargo.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 53.
 
-1. Se otorgarán permisos para ausentarse de la sesión de Pleno, durante su transcurso, siempre que el diputado o diputada se encuentre presente, que ocurran circunstancias que lo ameriten y que se solicite por escrito fundado y motivado en el que conste el visto bueno del Coordinador o representante autorizado.
+1. Se otorgarán permisos para ausentarse de la Sesión, durante su transcurso, siempre que el diputado o diputada se encuentre presente, que ocurran circunstancias que lo ameriten y que se solicite por escrito fundado y motivado en el que conste el visto bueno del Coordinador o representante autorizado.
 
 ###### Artículo 54.
 
 1. La Secretaría será la encargada de supervisar la operación del Sistema Electrónico y verificará los resultados.
 
-2. Al final de cada sesión, la Secretaría, emitirá una relación en la que se especifique lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-I. La asistencia de las diputadas y de los diputados registrada al inicio de la sesión conforme al Sistema Electrónico o, en su caso, pase de lista;
+2. Al final de cada Sesión, la Secretaría, emitirá una relación en la que se especifique lo siguiente:
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+I. La asistencia de las diputadas y de los diputados registrada al inicio de la Sesión conforme al Sistema Electrónico o, en su caso, pase de lista;
 
 II. La asistencia, registrada por medio de cédulas;
 
@@ -650,13 +718,17 @@ III. Fecha de actualización, y
 
 IV. Los nombres de las diputadas y de los diputados que no hayan participado en cuando menos, la mitad de las votaciones que se hayan realizado.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 57.
 
-1. La Secretaría formulará dentro de los veinte días hábiles siguientes al cierre del periodo de que se trate, un informe final de las inasistencias sin justificar, que deberá remitir al Presidente y a los coordinadores de los grupos, a efecto de que se publique en los medios de información de la Cámara y se determine la sanción correspondiente, en términos del artículo 64 de la Constitución.
+1. La Secretaría formulará dentro de los veinte días siguientes al cierre del periodo de que se trate, un informe final de las inasistencias sin justificar, que deberá remitir al Presidente y a los coordinadores de los grupos, a efecto de que se publique en los medios de información de la Cámara y se determine la sanción correspondiente, en términos del artículo 64 de la Constitución.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 58.
 
-1. El control de la asistencia, las votaciones, los retardos y las justificaciones estarán a cargo de la Secretaría designada por la Mesa Directiva, quien será auxiliada por los órganos de apoyo técnicos competentes.
+1. El registro de control de la asistencia, las votaciones y las justificaciones estarán a cargo de la Secretaría designada por la Mesa Directiva, quien será auxiliada por los órganos de apoyo técnicos competentes.
 
 ### CAPITULO III. Del Orden del Día
 
@@ -686,7 +758,9 @@ IV. Los nombres de las diputadas y de los diputados que no hayan participado en 
 
 1. Previo al desahogo del Orden del día, la Mesa Directiva cuidará que se cumplan los requisitos de registro de asistencia y declaración de quórum.
 
-2. El Orden del día de las Sesiones contendrá, en el orden acordado por la Mesa Directiva, los apartados siguientes: Lectura del Orden del día; lectura, discusión y, en su caso, aprobación del acta de la Sesión anterior; comunicaciones oficiales; solicitudes de licencia y toma de protesta de diputadas y diputados; minutas; iniciativas de ley o de decreto del Titular del Poder Ejecutivo Federal, de las legislaturas de los estados y de los senadores; propuestas de acuerdo de los órganos de gobierno de la Cámara; declaratorias de publicidad de los dictámenes; declaratorias de publicidad de iniciativas y minutas con vencimiento de plazos; dictámenes a discusión; agenda política; iniciativas de diputadas y diputados y a nombre de Grupo; proposiciones calificadas por el Pleno de urgente u obvia resolución; proposiciones a nombre de Grupo; proposiciones de las diputadas y de los diputados; peticiones de particulares, y efemérides.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. El Orden del día de las sesiones contendrá, en el orden acordado por la Mesa Directiva, los apartados siguientes: Lectura del Orden del día; lectura, discusión y, en su caso, aprobación del acta de la Sesión anterior; comunicaciones oficiales; solicitudes de licencia y toma de protesta de diputadas y diputados; minutas; iniciativas de ley o de decreto del Titular del Poder Ejecutivo Federal, de las legislaturas de los estados y de los senadores; propuestas de acuerdo de los órganos de gobierno de la Cámara; declaratorias de publicidad de los dictámenes; declaratorias de publicidad de iniciativas y minutas con vencimiento de plazos; dictámenes a discusión; iniciativas y minutas con vencimiento de plazo a discusión; agenda política; iniciativas de diputadas y diputados y a nombre de grupo; proposiciones calificadas por el Pleno de urgente u obvia resolución; proposiciones a nombre de grupo; proposiciones de las diputadas y de los diputados; peticiones de particulares, efemérides, clausura y cita.
 
 3. Por lo que se refiere a proposiciones a nombre de Grupo, proposiciones de las diputadas y los diputados y peticiones de particulares, el Presidente dará cuenta y turnará desde luego a las comisiones respectivas.
 
@@ -696,9 +770,13 @@ IV. Los nombres de las diputadas y de los diputados que no hayan participado en 
 
 2. Cuando un dictamen sea remitido a la Mesa Directiva, ésta tendrá tres días hábiles para hacer a las comisiones las sugerencias necesarias para dar cumplimiento a lo establecido en el párrafo anterior.
 
-3. Cuando las comisiones acuerden con la Mesa Directiva los términos finales del dictamen, no podrán pasar más de dos sesiones ordinarias, sin que se incluya en el Orden del día, para efectos de declaratoria de publicidad.
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-4. El mismo plazo se observará para que sea presentado a discusión y votación en el Pleno. La excepción a esta norma sólo podrá darse cuando:
+3. La Mesa Directiva sólo podrá hacer las sugerencias respecto a cuestiones técnicas del dictamen y no podrá hacer modificaciones al texto aprobado en comisiones.
+
+4. Cuando las comisiones acuerden con la Mesa Directiva los términos finales del dictamen, no podrán pasar más de dos sesiones ordinarias, sin que se incluya en el Orden del día, para efectos de declaratoria de publicidad.
+
+5. El mismo plazo se observará para que sea presentado a discusión y votación en el Pleno. La excepción a esta norma sólo podrá darse cuando:
 
 I. La Mesa Directiva por conducto del Presidente, de conformidad con lo dispuesto en el artículo 20, párrafo 2, inciso e) de la Ley, devuelva el dictamen a la comisión respectiva, en virtud de que éste no cumple las normas que regulan su formulación y presentación, y
 
@@ -724,7 +802,9 @@ II. Incluirá información del asunto mediante una breve descripción.
 
 2. El Orden del día, sólo se podrá modificar a propuesta de la Junta; la solicitud será expuesta por el Presidente. Acto seguido, la Secretaría consultará, en votación económica a la Asamblea, si es de aprobarse.
 
-3. En caso de que la Junta no celebre Reunión, los grupos acordarán los términos para la recepción y registro de los asuntos que integrarán el Orden del día. Para ello, contarán con el auxilio de la Secretaría de Servicios Parlamentarios, la cual recopilará los asuntos, y una vez integrado el Orden del día informará oportunamente a los grupos.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. En caso de que la Junta no celebre Reunión, los grupos acordarán los términos para la recepción y registro de los asuntos que integrarán el Orden del día. Para ello, contarán con el auxilio del personal técnico de la Junta, quien recopilará los asuntos, y una vez integrado el Orden del día informará oportunamente a los grupos.
 
 4. Cuando se requiera que algún asunto sea tramitado de urgente u obvia resolución, deberá señalarse expresamente al momento en que sea registrado ante la Junta, quien deberá circular entre los grupos el documento en archivo electrónico o impreso con el contenido de la propuesta. Los casos de excepción deberán ser acordados por la Junta.
 
@@ -738,7 +818,9 @@ I. La Secretaría presentará el asunto al Pleno,
 
 II. El Presidente, atendiendo el tema de cada asunto, informará al Pleno de su envío a la comisión o comisiones que corresponda, señalando para qué efectos se turna, y
 
-III. La Secretaría hará constar por escrito el trámite y lo cumplimentará dentro de las setenta y dos horas siguientes.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+III. La Secretaría hará constar por escrito el trámite y lo cumplimentará dentro de las setenta y dos horas siguientes. Para este efecto bastará la firma de un Secretario.
 
 ###### Artículo 67.
 
@@ -750,7 +832,9 @@ II. Opinión, o
 
 III. Conocimiento y atención.
 
-2. El turno puede comprender una o más acciones.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. El turno podrá implicar la realización de una o más de las tareas señaladas en el numeral anterior.
 
 ###### Artículo 68.
 
@@ -760,7 +844,9 @@ III. Conocimiento y atención.
 
 1. El turno para efectos de opinión, procede para solicitar a las comisiones ordinarias o especiales, que coadyuven en la elaboración del dictamen, con las que hayan recibido el turno de las minutas, las iniciativas, las observaciones del titular del Poder Ejecutivo Federal y las proposiciones.
 
-2. La comisión a la que corresponda opinar, deberá remitir su parecer a la comisión dictaminadora, en un plazo máximo de treinta días hábiles, a partir del turno. La opinión deberá ser aprobada por mayoría absoluta de la comisión que la emite. Si vencido el plazo no se hubiese formulado la opinión, se entenderá que la comisión respectiva declina realizarla.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. La comisión a la que corresponda opinar, deberá remitir su parecer a la comisión dictaminadora, en un plazo máximo de treinta días, a partir de la recepción formal del asunto. La opinión deberá ser aprobada por mayoría absoluta de la comisión que la emite. Si vencido el plazo no se hubiese formulado la opinión, se entenderá que la comisión respectiva declina realizarla.
 
 3. Las opiniones contribuyen a formar el criterio para la elaboración de los dictámenes de la (sic) comisiones, pero en ningún caso serán vinculatorias.
 
@@ -786,11 +872,15 @@ III. Conocimiento y atención.
 
 3. La sustanciación de la declinatoria se tramitará en los mismos términos que la modificación de turno.
 
-4. Durante la sustanciación de este procedimiento no correrá el plazo para emitir dictamen.
+4. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 73.
 
-1. La modificación del turno sólo la podrá realizar el Presidente, cuando haya recibido solicitud de quien esté facultado para hacerlo.
+1. La modificación del turno sólo la podrá realizar el Presidente, cuando haya recibido solicitud de quien esté facultado para hacerlo. El plazo para resolver la modificación de turno será de cinco días, contados a partir de la recepción de la solicitud.
+
+2. Durante la sustanciación del procedimiento de rectificación de turno, no correrá el plazo para emitir dictamen.
 
 ###### Artículo 74.
 
@@ -804,9 +894,11 @@ III. La Junta Directiva o juntas directivas, por mayoría.
 
 2. El Presidente deberá informar al Pleno, cuando realice una modificación del turno, y enviarlo para su publicación en la Gaceta.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 75.
 
-1. El plazo para solicitar la modificación del turno será de cinco días hábiles posteriores a la presentación del asunto y el Presidente deberá resolver lo conducente, su decisión será inatacable.
+1. El plazo para solicitar la modificación del turno será de cinco días posteriores a la presentación del asunto y el Presidente resolverá lo conducente, su decisión será inatacable.
 
 ## TITULO CUARTO. De los Procedimientos en el Pleno
 
@@ -826,9 +918,19 @@ III. Dictámenes, hasta por diez minutos, excepto cuando se trate de reformas co
 
 IV. Proposiciones con punto de acuerdo, calificadas por el Pleno como de urgente u obvia resolución, hasta por cinco minutos;
 
-V. Agenda política, hasta por diez minutos para el promovente y cinco para los demás oradores, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+V. Agenda política, hasta por diez minutos para el promovente y cinco para los demás oradores, excepto cuando se enliste en el Orden del día un solo tema, en cuyo caso el tiempo será hasta por diez minutos para los oradores, y
 
 VI. Efemérides, hasta por tres minutos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Los diputados y diputadas que tengan registradas más de una iniciativa por Sesión, podrán elegir cuál de ellas presentará en tribuna previo aviso a la Mesa Directiva.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Durante la presentación de iniciativas, si el promovente no se encuentra en el Salón de Sesiones en el momento de su intervención, la iniciativa será turnada a la comisión o comisiones correspondientes.
 
 #### Sección Segunda. Iniciativas
 
@@ -836,7 +938,9 @@ VI. Efemérides, hasta por tres minutos.
 
 1. El derecho de iniciativa es irrestricto, pero en el caso de las que presenten las diputadas y los diputados, su turno se sujetará a los requisitos y trámites establecidos en este Reglamento.
 
-2. El derecho de iniciativa comprende también el derecho a retirarla, éste lo podrá ejercer sólo el autor, desde el momento de su admisión y hasta antes de que la comisión o comisiones a las que se haya turnado acuerden un dictamen o antes de que se tenga por precluida la facultad para dictaminar.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. El derecho de iniciativa comprende también el derecho a retirarla, éste lo podrá ejercer sólo el autor, desde el momento de su admisión y hasta antes de que la comisión o comisiones a las que se haya turnado acuerden un dictamen o antes de que se tenga por precluida la facultad para dictaminar. Para los efectos de este numeral, por autor se entiende al o a los diputados o diputadas que suscriban efectivamente la iniciativa, antes de ser presentada ante la Mesa Directiva.
 
 3. Las iniciativas que presenten los diputados o diputadas, suscritas por el Grupo y su Coordinador, se denominarán Iniciativa a nombre de Grupo.
 
@@ -844,7 +948,9 @@ VI. Efemérides, hasta por tres minutos.
 
 ###### Artículo 78.
 
-1. Los elementos de la iniciativa serán:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Los elementos indispensables de la iniciativa serán:
 
 I. Encabezado o título de la propuesta;
 
@@ -888,11 +994,19 @@ II. Las proposiciones presentadas por las diputadas y los diputados y las que se
 
 III. Para presentar una proposición con punto de acuerdo ante el Pleno como de urgente u obvia resolución, deberá ser solicitada previamente por el diputado o diputada proponente o por la Junta mediante acuerdo, salvo aquellas sobre desastres naturales, que se presentaran con este carácter;
 
-IV. En cada sesión podrán presentarse hasta dos proposiciones con punto de acuerdo con el carácter de urgente u obvia resolución, considerando los principios de equidad e inclusión de los grupos;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-V. Las proposiciones calificadas por el Pleno de urgente u obvia resolución, serán discutidas y votadas directamente por éste, y
+IV. En cada Sesión la Junta podrá acordar la inscripción de hasta dos proposiciones con punto de acuerdo para que sean consideradas por el Pleno, a trámite de urgente u obvia resolución, atendiendo a los principios de equidad e inclusión de los grupos. En caso excepcional la Junta podrá acordar la inscripción de una proposición adicional;
 
-VI. El retiro de una proposición corresponde sólo a su autor y respecto a las que se presenten a nombre de Grupo, el retiro podrá hacerlo el Coordinador, en ambos supuestos, deberá solicitarse antes de iniciar la discusión en el Pleno.
+> <small>(ADICIONADA D.O.F. 20 DE ABRIL DE 2011)</small>
+
+V. Las proposiciones que la Junta no considere proponer ante el Pleno con el carácter de urgente u obvia resolución, se tramitarán conforme al artículo 62, numeral 3 de este Reglamento;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VI. Las proposiciones calificadas por el Pleno de urgente u obvia resolución, serán discutidas y votadas directamente por éste. En caso de no ser así calificadas, el Presidente las turnará a comisión, y
+
+VII. El retiro de una proposición corresponde sólo a su autor y respecto a las que se presenten a nombre de Grupo, el retiro podrá hacerlo el Coordinador, en ambos supuestos, deberá solicitarse antes de iniciar la discusión en el Pleno.
 
 3. Las solicitudes de gestión, de ampliación de recursos, de información a una dependencia gubernamental, o peticiones para citar a comparecer a algún servidor público del Poder Ejecutivo Federal, no serán consideradas como proposiciones. Estas se sustanciarán de la siguiente manera:
 
@@ -948,7 +1062,9 @@ II. Se trate de iniciativas y minutas que no hubieran sido dictaminadas por la c
 
 ###### Artículo 84.
 
-1. El dictamen será válido sólo cuando la comisión o comisiones discutan un asunto en Reunión y éste se apruebe, por mayoría.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. El dictamen será válido sólo cuando la comisión o comisiones discutan un asunto en Reunión y éste se apruebe, por mayoría absoluta.
 
 2. La comisión o comisiones que emitan dictamen, deberán enviarlo de inmediato a la Mesa Directiva, para los efectos de la programación legislativa.
 
@@ -988,7 +1104,9 @@ d) Los artículos transitorios;
 
 XII. En caso de dictamen negativo, el proyecto de acuerdo respectivo;
 
-XIII. En ambos casos el voto aprobatorio de la mayoría de las diputadas y de los diputados de la comisión o comisiones que dictaminan, que debe constar mediante firma autógrafa, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XIII. En ambos casos el voto aprobatorio de la mayoría absoluta de las diputadas y de los diputados de la comisión o comisiones que dictaminan, que debe constar mediante firma autógrafa, y
 
 XIV. Lugar y fecha de la Reunión de la comisión en que se aprueba.
 
@@ -1038,7 +1156,9 @@ III. Aquellas que no se resuelvan en el plazo indicado, se tendrán por desechad
 
 3. El voto particular deberá enviarse al Presidente de la Junta Directiva por escrito, hasta antes de que el dictamen aprobado se remita a la Mesa Directiva con el dictamen aprobado, con el fin de que se publique en la Gaceta y sirva para ilustrar la discusión en el Pleno.
 
-4. El voto particular será puesto a discusión sólo en caso de que el Pleno deseche el dictamen aprobado por la comisión.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. El voto particular será puesto a discusión sólo en caso de que el Pleno deseche el dictamen, con proyecto de ley o decreto aprobado por la comisión.
 
 5. Si hubiese más de un voto particular, se discutirán en orden decreciente atendiendo a la representatividad de los grupos a los que pertenezcan los ponentes del voto.
 
@@ -1060,7 +1180,9 @@ III. Las firmas de las diputadas y de los diputados que exponen el voto particul
 
 ###### Artículo 93.
 
-1. El proyecto aprobado, antes de que se remita a la Cámara de Senadores, al Titular del Poder Ejecutivo Federal o a las legislaturas de los Estados no podrá modificarse, salvo para hacer las correcciones que demanden el buen uso del lenguaje y la claridad de las leyes o decretos. Dichas modificaciones no podrán cambiar o variar el sentido de lo aprobado y deberán ser ordenadas por la Mesa Directiva. Las modificaciones sólo las podrá realizar la comisión que dictamina, en un plazo de cinco días hábiles a partir de su aprobación. En el caso de que sean varias las comisiones encargadas de presentar el dictamen, será la primera en el turno la indicada para elaborar las correcciones. Las modificaciones realizadas al proyecto deberán publicarse en la Gaceta.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. El proyecto aprobado, antes de que se remita a la Cámara de Senadores, al Titular del Poder Ejecutivo Federal o a las legislaturas de los Estados no podrá modificarse, salvo para hacer las correcciones que demanden el buen uso del lenguaje y la claridad de las leyes o decretos. Dichas modificaciones no podrán cambiar o variar el sentido de lo aprobado y deberán ser ordenadas por la Mesa Directiva. Las modificaciones sólo las podrá realizar la comisión que dictamina, en un plazo de cinco días a partir de su aprobación. En el caso de que sean varias las comisiones encargadas de presentar el dictamen, será la primera en el turno la indicada para elaborar las correcciones. Las modificaciones realizadas al proyecto deberán publicarse en la Gaceta.
 
 2. Si uno o varios integrantes de la comisión o comisiones dictaminadoras discrepan de la mayoría, en cuanto a las correcciones introducidas al proyecto, lo comunicarán al Presidente, para que éste someta tales correcciones a la votación del Pleno.
 
@@ -1082,11 +1204,15 @@ IV. Otros documentos obtenidos dentro del proceso de elaboración del dictamen a
 
 I. El Presidente dará el turno que corresponda, en cuanto el asunto se reciba y se dé cuenta de él al Pleno;
 
-II. En el momento de anunciar el turno, el Presidente dará noventa días hábiles como plazo a la comisión, para que presente el dictamen correspondiente.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. En el momento de anunciar el turno, el Presidente dará noventa días como plazo a la comisión, a partir de la recepción formal del asunto, para que presente el dictamen correspondiente.
 
 2. En el proceso de dictamen de las minutas referidas en el numeral anterior, se observará lo siguiente:
 
-I. La comisión o comisiones que consideren conveniente prorrogar la decisión de la minuta turnada, deberán hacer la solicitud al Presidente, por conducto de su Junta Directiva, dentro del término para dictaminar, establecido en el numeral anterior. La Mesa Directiva resolverá las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta cuarenta y cinco días más, contados a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+I. La comisión o comisiones que consideren conveniente prorrogar la decisión de la minuta turnada, deberán hacer la solicitud al Presidente, por conducto de su Junta Directiva, dentro del término para dictaminar, establecido en el numeral anterior. La Mesa Directiva resolverá las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta cuarenta y cinco días y de noventa días tratándose de minutas de reforma constitucional respectivamente, en ambos casos el plazo correrá a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga.
 
 II. Si transcurre este plazo, sin que la comisión formule un dictamen, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
 
@@ -1096,13 +1222,15 @@ b) La Mesa Directiva deberá incluirlas en el Orden del día para su discusión 
 
 c) Las minutas deberán ser aprobadas por mayoría absoluta, de lo contrario, se tendrán por desechadas. En ambos supuestos, continuarán con su proceso legislativo de acuerdo a lo que establece el artículo 72 Constitucional.
 
-3. Si el dictamen correspondiente a minutas de reforma constitucional no se ha presentado, cuando haya transcurrido el plazo para dictaminar, se observará lo siguiente:
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-I. La Mesa Directiva presentará a consideración del Pleno un acuerdo para desechar la minuta en cuestión:
+d) En el caso de las minutas de reforma constitucional deberán ser aprobadas por mayoría calificada, de lo contrario, se tendrán por desechadas.
 
-a) De aprobarse el acuerdo, la minuta desechada continuará con su proceso legislativo, conforme a lo que establece el artículo 72 Constitucional.
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-b) De rechazarse el acuerdo, se procederá de acuerdo al numeral anterior del presente artículo.
+e) Por lo que se refiere a los incisos c) y d) de esta fracción, las minutas continuarán con su proceso legislativo, de acuerdo a lo que establece el artículo 72 Constitucional.
+
+3. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
 
 ### CAPITULO II. Del Trámite de los Asuntos ante el Pleno
 
@@ -1112,9 +1240,11 @@ b) De rechazarse el acuerdo, se procederá de acuerdo al numeral anterior del pr
 
 2. Si hubiera objeción por parte de alguna diputada o diputado, podrá hacer las precisiones que considere pertinentes desde su curul y, de ser aceptadas por el Pleno, deberán incorporarse al acta para su aprobación.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 97.
 
-1. Las iniciativas, dictámenes, votos particulares, actas, proposiciones o acuerdos deberán publicarse en la Gaceta a más tardar, a las 22:00 horas del día anterior a la Sesión en la que se presenten.
+1. Las iniciativas, minutas e iniciativas con vencimiento de plazo a discusión, dictámenes, votos particulares, actas, proposiciones o acuerdos deberán publicarse en la Gaceta a más tardar, a las 22:00 horas del día anterior a la Sesión en la que se presenten.
 
 ###### Artículo 98.
 
@@ -1128,13 +1258,25 @@ b) De rechazarse el acuerdo, se procederá de acuerdo al numeral anterior del pr
 
 1. Las proposiciones serán anunciadas por el Presidente al Pleno y las turnará a comisión, en donde se analizarán y resolverán a través de un dictamen, excepto las que por acuerdo de la Junta, se pongan a consideración del Pleno respecto a su trámite de urgente u obvia resolución.
 
-2. El Pleno resolverá en votación económica, las dos proposiciones que se consideran de urgente u obvia resolución. Se discutirán y votarán directamente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. El Pleno resolverá en votación económica, las proposiciones que se consideren de urgente u obvia resolución, conforme a las fracciones IV y V del numeral 2, del artículo 79 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 101.
 
-1. La Agenda política se integrará por aquellos temas de interés general que sólo tengan una finalidad deliberativa, en la que los grupos podrán fijar sus posturas. El Coordinador de cada uno de ellos, será quien inscriba un máximo de dos oradores por ronda de intervención, para abordar cada asunto. Ningún tema del apartado de Agenda política se someterá a votación.
+1. La Agenda política se integrará hasta por dos temas de interés general y sólo tendrán una finalidad deliberativa. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá fijar su postura al respecto.
 
-2. La Agenda política se abordará antes del desahogo de las iniciativas y tendrá una duración de hasta dos horas, por Sesión. La Junta deberá acordar los temas y el orden de éstos para su debido desahogo.
+2. El Coordinador de cada Grupo, será quien inscriba un orador para la ronda de posicionamientos de cada asunto. Si el orador no se encuentra en el Salón de Sesiones en el momento en que el Presidente lo anuncie, perderá su turno.
+
+3. Ningún tema del apartado de Agenda política se someterá a votación.
+
+4. La Agenda política se abordará, en cada Sesión ordinaria, antes del desahogo de las iniciativas y tendrá una duración de hasta dos horas, por Sesión.
+
+5. La Junta acordará el o los temas y el orden de éstos para su debido desahogo. Los temas que la Junta no acuerde proponer a la Mesa Directiva para su incorporación en el Orden del día, no se considerarán para las próximas sesiones, salvo que acuerde su inscripción.
+
+6. El tema que no alcance a desahogarse en la Sesión en que fue inscrito, sólo podrá ser considerado para la siguiente, si la Junta acuerda su reinscripción.
 
 ###### Artículo 102.
 
@@ -1150,11 +1292,17 @@ III. La iniciativa puede ser subsanada por su autor, por cuanto a la omisión de
 
 IV. Si la iniciativa no cumple con los requisitos, la Mesa Directiva prevendrá de tal circunstancia por escrito al autor. El autor así prevenido, deberá subsanarla al día siguiente en que se le notifique;
 
-V. Si el autor hace las adecuaciones en el plazo indicado, será admitida por la Mesa Directiva y considerada en la formulación del Orden del día, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-VI. La iniciativa se presentará ante el Pleno, y el Presidente la turnará a la comisión o comisiones correspondientes.
+V. Si el autor hace las adecuaciones en el plazo indicado, será admitida por la Mesa Directiva e inscrita de inmediato en el Orden del día, y
 
-3. Concluida la sesión, las iniciativas listadas en el orden del día que no se hayan abordado, serán turnadas a comisión, salvo que el diputado o diputada proponente solicite su inscripción en la siguiente sesión.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VI. Toda iniciativa que cumpla con los elementos establecidos en el artículo 78 de este Reglamento, será inscrita en el Orden del día y deberá ser turnada a la comisión o comisiones correspondientes.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Las iniciativas listadas en el Orden del día que no alcancen a presentarse ante el Pleno, deberán ser anunciadas y turnadas cada una por el Presidente, antes de la clausura de la Sesión, salvo que el proponente solicite de viva voz en ese momento, su inscripción para la siguiente.
 
 ### CAPITULO III. De las Discusiones en el Pleno
 
@@ -1162,7 +1310,9 @@ VI. La iniciativa se presentará ante el Pleno, y el Presidente la turnará a la
 
 ###### Artículo 103.
 
-1. Los diálogos y discusiones fuera del orden y de las normas establecidas en este Reglamento quedarán absolutamente prohibidos.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Los diálogos y discusiones fuera del orden y de las normas establecidas en este Reglamento estarán absolutamente prohibidos.
 
 2. Los oradores no podrán ser interrumpidos, salvo por la presentación de una moción.
 
@@ -1174,25 +1324,51 @@ I. Se discutirán y votarán en lo general y después en lo particular;
 
 II. El Presidente de la Junta Directiva podrá exponer los fundamentos del dictamen hasta por diez minutos; si declina hacerlo, podrá fundamentarlo un integrante nombrado por la mayoría de la comisión correspondiente;
 
-III. Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-IV. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta cinco minutos para exponer su postura;
+III. Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos, siempre que se deseche el dictamen aprobado por la comisión;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IV. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
 
 V. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
 
 VI. Los oradores hablarán alternadamente en contra y a favor, hasta por cinco minutos, comenzando por el primero de la lista de intervenciones en contra;
 
-VII. Una vez que hayan intervenido hasta seis oradores en contra y hasta seis a favor, el Presidente preguntará si el asunto se encuentra suficientemente discutido, después de leer la lista de los oradores aún inscritos en ambos sentidos. Si la respuesta fuera negativa, continuará la discusión, sólo si hubiera oradores inscritos, pero el Presidente repetirá la pregunta cuando hubieran intervenido tres oradores más de cada lista, y así en lo sucesivo. Si Pleno (sic) decide que se encuentra suficientemente discutido, el Presidente anunciará el inicio de la votación nominal;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VII. Una vez que hayan intervenido hasta seis oradores en contra y hasta seis a favor, el Presidente preguntará si el asunto se encuentra suficientemente discutido, después de leer la lista de los oradores aún inscritos en ambos sentidos. Si la respuesta fuera negativa, continuará la discusión, sólo si hubiera oradores inscritos, pero el Presidente repetirá la pregunta cuando hubieran intervenido tres oradores más de cada lista, y así en lo sucesivo. Si el Pleno decide que se encuentra suficientemente discutido, el Presidente anunciará el inicio de la votación nominal;
 
 VIII. Cuando en las listas a las que hace referencia la fracción V de éste artículo, se inscriban oradores únicamente para argumentar en un solo sentido, ya sea a favor o en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido;
 
 IX. Cada vez que se pregunte al Pleno si el punto está suficientemente discutido, el Presidente leerá la lista de las diputadas y de los diputados que hayan solicitado la palabra;
 
-X. Si el orador no se encuentra en el Salón de sesiones, se le colocará al final de la lista correspondiente;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+X. Si el orador no se encuentra en el Salón de Sesiones, perderá su turno;
 
 XI. Cuando ninguna diputada o diputado pida la palabra para argumentar a favor o en contra del dictamen a discusión, y una vez que algún integrante de la comisión explique los motivos que ésta tuvo para dictaminar, se procederá a la votación nominal, y
 
-XII. Cuando el Titular de alguna dependencia o entidad de la Administración Pública Federal sea invitado a la discusión de un asunto de su competencia, se le concederá, al menos el mismo tiempo que a los integrantes de la Cámara.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XII. Cuando el Titular de alguna dependencia o entidad de la Administración Pública Federal sea invitado a la discusión de un asunto de su competencia, se le concederá, hasta el mismo tiempo que a los integrantes de la Cámara.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Las discusiones de los dictámenes en sentido negativo de iniciativas, que contienen un proyecto de acuerdo, se sujetarán a lo siguiente:
+
+I. El Presidente de la Junta Directiva o un integrante nombrado por la mayoría de la comisión, podrá exponer los fundamentos del dictamen hasta por tres minutos;
+
+II. Una vez fundamentado el dictamen, podrá intervenir un orador en contra hasta por tres minutos;
+
+III. En el caso de que no se inscriba orador para la discusión, el Presidente propondrá su votación de inmediato;
+
+IV. El Presidente someterá en votación económica si se acepta desecharlo o se devuelve a la comisión;
+
+V. En caso afirmativo, procederá su archivo como asunto total y definitivamente concluido, y
+
+VI. En caso negativo, se devolverá a la comisión para que elabore un nuevo dictamen.
 
 ###### Artículo 105.
 
@@ -1226,13 +1402,17 @@ IV. El Presidente formulará una lista de oradores en contra y otra a favor;
 
 V. Los oradores hablarán alternadamente en contra y a favor, hasta por tres minutos, comenzando por el primero de la lista de intervenciones en contra, y
 
-VI. Cuando hayan intervenido un orador en contra y uno a favor, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; de no ser así, continuará la discusión con un orador más en cada sentido por el mismo tiempo señalado. De considerarse suficientemente discutido, el Presidente anunciará el inicio de la votación nominal.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VI. Cuando hayan intervenido un orador en contra y uno a favor, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; de no ser así, continuará la discusión con un orador más en cada sentido por el mismo tiempo señalado. De considerarse suficientemente discutido, el Presidente solicitará a la Secretaría que proceda a la votación económica.
 
 ###### Artículo 107.
 
 1. Cuando un dictamen no se apruebe en lo general, el Presidente consultará al Pleno, en votación económica, si el proyecto se devuelve a la comisión. Si la resolución fuese afirmativa, se devolverá a la comisión para que elabore un nuevo dictamen; si fuese negativa, se tendrá por desechado.
 
-2. Las comisiones a las que el Pleno devuelva el dictamen para elaboración de uno nuevo, dispondrán de ocho días hábiles para presentarlo nuevamente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Las comisiones a las que el Pleno devuelva el dictamen para elaboración de uno nuevo, dispondrán de veinte días para presentarlo nuevamente.
 
 ###### Artículo 108.
 
@@ -1318,6 +1498,10 @@ IX. Suspensión de la discusión.
 
 2. Las intervenciones en el desahogo de las mociones serán de hasta tres minutos, desde su curul, excepto las alusiones personales y la rectificación de hechos que estarán a consideración del Presidente.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Las mociones a que se refieren las fracciones III, IV, VI, VII, VIII y IX, sólo procederán en la discusión de un asunto ante el Pleno.
+
 ###### Artículo 115.
 
 1. La moción de orden es la petición que se hace al Pleno, para que se guarde silencio, se mantenga la compostura, se ocupen las curules, se cumpla este Reglamento y en general, se corrija cualquier otra situación que signifique una falta de respeto al orador o una alteración del desarrollo de la Sesión.
@@ -1332,7 +1516,9 @@ IX. Suspensión de la discusión.
 
 ###### Artículo 117.
 
-1. La moción de cuestionamiento al orador, es la petición que se hace a quien este en uso de la palabra para que admita una pregunta.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. La moción de cuestionamiento al orador, es la petición que se hace a quien este en uso de la palabra durante la discusión, para que admita una pregunta.
 
 2. La diputada o el diputado solicitante formulará la moción desde su curul, cuando el Presidente lo autorice.
 
@@ -1356,9 +1542,9 @@ IX. Suspensión de la discusión.
 
 1. La moción para alusiones personales procede cuando, en el curso de la discusión, la diputada o el diputado hubiera sido mencionado implícita o explícitamente por el orador. El aludido podrá hacer uso de la palabra inmediatamente después del orador.
 
-2. El orador que hubiera hecho la alusión personal no podrá replicar a continuación, aún cuando sea aludido.
+> <small>(DEROGADO [N. DE E. REUBICADO ANTES NUMERAL 3], D.O.F. 20 DE ABRIL DE 2011)</small>
 
-3. Las menciones a personas morales, grupos, partidos o gobiernos no se considerarán como una alusión personal.
+2. Las menciones a personas morales, grupos, partidos o gobiernos no se considerarán como una alusión personal.
 
 ###### Artículo 121.
 
@@ -1372,11 +1558,23 @@ IX. Suspensión de la discusión.
 
 2. Deberá presentarse por escrito firmada por sus autores ante la Mesa Directiva, antes de que se inicie la discusión en lo general; señalando el asunto cuya discusión se pretende suspender y exponer el fundamento legal, así como las razones o motivos que la justifiquen.
 
-3. Si la moción suspensiva cumple con los requisitos señalados en el numeral anterior, el Presidente solicitará que la Secretaría dé lectura al documento. Enseguida, ofrecerá el uso de la palabra a uno de sus autores, si la quiere fundar, así como a un impugnador, si lo hubiera. Al término de las exposiciones, la Secretaría preguntará al Pleno si la moción se toma en consideración de manera inmediata.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-4. En caso afirmativo se discutirá y votará en el acto. Podrán hablar al efecto, tres oradores en contra y tres a favor; pero si la resolución del Pleno fuera negativa, la moción se tendrá por desechada.
+3. Si la moción suspensiva cumple con los requisitos señalados en el numeral anterior, el Presidente solicitará que la Secretaría dé lectura al documento. Enseguida, ofrecerá el uso de la palabra a uno de sus autores, si la quiere fundar, así como a un impugnador, si lo hubiera. Al término de las exposiciones, la Secretaría preguntará al Pleno, en votación económica, si la moción se toma en consideración de manera inmediata.
 
-5. La moción suspensiva sólo podrá solicitarse una vez en la discusión de un asunto.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. En caso afirmativo se discutirá y votará en el acto. Podrán hablar al efecto, tres oradores en contra y tres a favor; pero si la resolución del Pleno fuera negativa, la moción se tendrá por desechada y continuará el curso de la discusión.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. En el caso de los dictámenes, cuando la moción sea aceptada por el Pleno, se suspenderá la discusión en trámite y la Secretaría preguntará al Pleno, en votación económica si el dictamen se devuelve a la comisión:
+
+I. Si la respuesta fuera afirmativa, la Mesa Directiva enviará el dictamen a la comisión para que ésta realice las adecuaciones pertinentes en un plazo de hasta diez días y lo presente nuevamente a la consideración del Pleno.
+
+II. En caso negativo, el dictamen quedará en poder de la Mesa Directiva, para su programación en el Orden del día de la siguiente Sesión ordinaria.
+
+6. La moción suspensiva sólo podrá solicitarse una vez en la discusión de un asunto.
 
 ###### Artículo 123.
 
@@ -1404,21 +1602,31 @@ III. Los directores y administradores generales de los organismos descentralizad
 
 IV. Los directores y administradores generales de las empresas de participación estatal mayoritaria.
 
-3. El Pleno podrá acordar que sean citados a comparecer los titulares de los organismos públicos autónomos de carácter constitucional.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. El Pleno podrá acordar que sean citados a comparecer el Titular u otros servidores públicos de los órganos autónomos de carácter constitucional.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 125.
 
-1. El formato de las comparecencias será acordado por el Pleno a propuesta de la Junta.
+1. La solicitud para que comparezca ante el Pleno un Titular u otro servidor público de los previstos en los numerales 2 y 3 del artículo anterior, deberá realizarse a través de un escrito fundado y motivado, ante la Junta quien por acuerdo propondrá al Pleno su aprobación.
 
 2. Las comisiones que correspondan con la materia de los comparecientes, podrán sugerir a la Junta, el formato.
 
+3. El formato de las comparecencias será acordado por el Pleno a propuesta de la Junta.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 126.
 
-1. Cuando alguno de los servidores públicos a que hace alusión el artículo 93 constitucional, no acuda a la Cámara o no conteste satisfactoriamente los cuestionamientos y dudas de los diputados y diputadas, estos podrán solicitar al Presidente que se dirija en queja al Titular del Poder Ejecutivo Federal, de acuerdo a lo dispuesto por la Ley, respecto a las comparecencias de los servidores públicos.
+1. Cuando alguno de los servidores públicos a que hacen alusión los artículos 69 y 93 constitucionales, no acuda a la Cámara o no conteste satisfactoriamente los cuestionamientos y dudas de los diputados y diputadas, estos podrán solicitar al Presidente que se dirija en queja al Titular del Poder Ejecutivo Federal, de acuerdo a lo dispuesto por la Ley, respecto a las comparecencias de los servidores públicos.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 127.
 
-1. Los funcionarios a que se refiere el artículo 93 constitucional no podrán hacer propuestas ni modificar iniciativas, proyectos, dictámenes, informes, resoluciones, acuerdos, oficios y demás documentos legislativos durante su comparecencia.
+1. Los funcionarios a que se refieren los artículos 69 y 93 constitucionales no podrán hacer propuestas ni modificar iniciativas, proyectos, dictámenes, informes, resoluciones, acuerdos, oficios y demás documentos legislativos durante su comparecencia.
 
 ###### Artículo 128.
 
@@ -1506,9 +1714,11 @@ V. Otras, las que no estén referidas en cualquiera de las fracciones anteriores
 
 #### Sección Primera. Disposiciones Preliminares
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 135.
 
-1. El voto es la manifestación de la voluntad de un legislador a favor o en contra del sentido de una resolución de un determinado asunto.
+1. El voto es la manifestación de la voluntad de un legislador a favor, en contra o por la abstención, respecto al sentido de una resolución de un determinado asunto.
 
 ###### Artículo 136.
 
@@ -1550,7 +1760,9 @@ V. Al término de la votación, el Presidente anunciará el resultado al Pleno, 
 
 1. Las votaciones nominales o por Sistema Electrónico se verificarán cuando:
 
-I. Se presente a consideración del Pleno algún dictamen;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+I. Se presente a consideración del Pleno algún dictamen con proyecto de ley o decreto;
 
 II. Se presente a consideración del Pleno una proposición con punto de acuerdo considerada de urgente u obvia resolución;
 
@@ -1558,7 +1770,9 @@ III. Se exponga a consideración del Pleno alguna iniciativa o minuta por vencim
 
 IV. La Constitución, la Ley, este Reglamento o alguna disposición de la Cámara así lo ordene, y
 
-V. Persista duda del resultado de una votación económica, aún cuando ésta se haya repetido o sea impugnada por un Grupo, a través de su Coordinador o por un Secretario.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+V. Persista duda del resultado de una votación económica, aún cuando ésta se haya repetido o sea impugnada por un Grupo, a través de su Coordinador o por la Secretaría.
 
 #### Sección Tercera. Votación Económica
 
@@ -1630,7 +1844,9 @@ III. Terminada la votación, la Secretaría comunicará el resultado al Presiden
 
 1. Las comisiones o comités deberán instalarse dentro de los quince días hábiles posteriores a la aprobación del acuerdo que las conforma.
 
-2. Para convocar a la Reunión de instalación, los diputados y diputadas que integran la Junta Directiva de la comisión o comité, deberán acordar la fecha, hora y lugar en que se llevará a cabo. El Presidente de la Junta Directiva deberá emitir la convocatoria respectiva.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Para convocar a la Reunión de instalación, los diputados y diputadas que integran la Junta Directiva de la comisión o comité, deberán acordar la fecha, hora y lugar en que se llevará a cabo. El Presidente de la Junta Directiva deberá emitir la convocatoria respectiva. Si el Presidente no convocara, en el plazo establecido en el numeral anterior, se podrá emitir con la firma de la mayoría de los secretarios de la Junta Directiva.
 
 3. Los acuerdos de las comisiones serán suscritos por la mayoría de los integrantes presentes en la Reunión, en tanto que los acuerdos de la Junta Directiva serán suscritos por la mayoría.
 
@@ -1660,11 +1876,17 @@ I. Presentar el proyecto del Programa de trabajo a los integrantes de la comisi�
 
 II. Presentar ante el pleno de la comisión, para su aprobación, las propuestas de opinión fundada que tengan que elaborar en términos de la normatividad aplicable, o cuando la Mesa Directiva u otras comisiones le soliciten opinión respecto de los asuntos de su competencia;
 
-III. Integrar subcomisiones o grupos de trabajo, dentro de la comisión, para la presentación de predictámenes o proyectos de resolución, así como para la coordinación de actividades con otras comisiones, comités o dependencias del Poder Ejecutivo Federal;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-IV. Elaborar un proyecto de calendario de sesiones ordinarias de la comisión o comité y remitirlo a la Conferencia;
+III. Proponer a la comisión la integración de subcomisiones o grupos de trabajo, dentro de la comisión, para la presentación de predictámenes o proyectos de resolución, así como para la coordinación de actividades con otras comisiones, comités o dependencias del Poder Ejecutivo Federal;
 
-V. Proponer al interior de la comisión o comité la realización de foros, seminarios, talleres, conferencias, investigaciones y estudios;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IV. Elaborar un proyecto de calendario de reuniones ordinarias de la comisión o comité y remitirlo a la Conferencia;
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+V. Proponer al interior de la comisión o comité la realización de foros, seminarios, talleres, conferencias, investigaciones, estudios, audiencias y consultas;
 
 VI. Llevar a cabo consultas, respecto a los temas de su competencia, con representantes de los otros Poderes de la Unión, especialistas, organizaciones sociales, grupos de interés y ciudadanos en general;
 
@@ -1674,9 +1896,13 @@ VIII. Reunirse, cuando menos, cada quince días para desahogar los asuntos de su
 
 IX. Formular, antes de la Reunión de la comisión o comité, el Orden del día respectivo, y acordar el trámite de los asuntos programados;
 
-X. Resolver los asuntos de su competencia que le hayan sido turnados, no previstos en éste y los demás ordenamientos relativos a la Cámara, y
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XI. Llevar a cabo la evaluación de los trabajos de la comisión o comité y de su personal de apoyo.
+X. Proponer criterios de funcionamiento interno, siempre y cuando tengan como objetivo cumplir con las tareas de las comisiones y comités previstas en la Ley y este Reglamento;
+
+XI. Resolver los asuntos de su competencia que le hayan sido turnados, no previstos en éste y los demás ordenamientos relativos a la Cámara, y
+
+XII. Llevar a cabo la evaluación de los trabajos de la comisión o comité y de su personal de apoyo.
 
 3. La Junta Directiva podrá consultar a ciudadanos, grupos, organizaciones, a los titulares de las entidades de la administración pública centralizada y paraestatal y a los titulares o representantes legales de quienes detenten una concesión del Estado, cuando se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
@@ -1692,7 +1918,9 @@ II. Convocar a las reuniones ordinarias de la comisión o comité, con una antic
 
 III. Elaborar y suscribir las convocatorias a Reunión, conforme al orden del día aprobado por la Junta Directiva;
 
-IV. Abrir, prorrogar, suspender, declarar en Sesión permanente y levantar las reuniones de la comisión o comité;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IV. Abrir, prorrogar, suspender, declarar en Reunión permanente y levantar las reuniones de la comisión o comité;
 
 V. Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, ordenar el cómputo de la votación y formular la declaración del resultado correspondiente;
 
@@ -1704,19 +1932,29 @@ VIII. Firmar la correspondencia y demás comunicaciones en representación de la
 
 IX. Enviar a la Secretaría de Servicios Parlamentarios, copia de las actas y de las listas de asistencia de las reuniones de la comisión o comité, para efectos de su publicación en la Gaceta y en el sitio electrónico de la Cámara;
 
-X. Enviar a la Conferencia, su programa anual de trabajo y el informe semestral de actividades, aprobados por la comisión o comité;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XI. Solicitar, previo acuerdo del pleno de la comisión o comité, o bien, de su Junta Directiva, según sea el caso, toda la información que se estime conveniente para el buen despacho de los asuntos;
+X. Remitir a la Conferencia, su programa anual de trabajo y el informe semestral de actividades, aprobados por la comisión o comité;
 
-XII. Supervisar la organización del archivo de la comisión o comité, partiendo del que reciba en el acto de entrega - recepción, el cual será base para la entrega a la legislatura siguiente, de conformidad con lo dispuesto en el artículo 45, numeral 6, inciso c) de la Ley;
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XIII. Supervisar que los asuntos que sean turnados a la comisión o comité sigan eficiente y oportunamente el trámite que les corresponda, e informar periódicamente del estado que guarden, de conformidad con las normas aplicables;
+XI. Enviar a la Mesa Directiva, copia del expediente con toda la información que se generó durante el proceso de dictamen, de acuerdo al artículo 94 de este Reglamento;
 
-XIV. Designar y en su caso, proponer la contratación del Secretario Técnico y de los asesores parlamentarios, así como del personal de apoyo de la comisión o Comité, que deberá reunir el perfil del conocimiento requerido para cada tema y podrá ser del servicio de carrera, de base o externo;
+XII. Solicitar, previo acuerdo del pleno de la comisión o comité, o bien, de su Junta Directiva, según sea el caso, toda la información que se estime conveniente para el buen despacho de los asuntos;
 
-XV. Ordenar el envío de la documentación pertinente a la Gaceta para su publicación, en cuanto sea procedente, y
+XIII. Supervisar la organización del archivo de la comisión o comité, partiendo del que reciba en el acto de entrega - recepción, el cual será base para la entrega a la legislatura siguiente, de conformidad con lo dispuesto en el artículo 45, numeral 6, inciso c) de la Ley;
 
-XVI. Requerir a los diputados y diputadas integrantes que no asistan a las reuniones de la comisión o comité, y comunicar a la Junta los casos en que se acumulen tres faltas consecutivas, sin causa justificada, para conocimiento de los coordinadores de los grupos y los efectos que correspondan.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XIV. Vigilar que los asuntos que sean turnados a la comisión o comité sigan eficiente y oportunamente el trámite que les corresponda, e informar periódicamente del estado que guarden, de conformidad con las normas aplicables;
+
+XV. Designar y en su caso, proponer la contratación del Secretario Técnico y de los asesores parlamentarios, así como del personal de apoyo de la comisión o Comité, que deberá reunir el perfil del conocimiento requerido para cada tema y podrá ser del servicio de carrera, de base o externo;
+
+XVI. Ordenar el envío de la documentación pertinente a la Gaceta para su publicación, en cuanto sea procedente, y
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XVII. Exhortar a los diputados y diputadas integrantes que no asistan a las reuniones de la comisión o comité para que participen en las subsecuentes reuniones. Asimismo, comunicar a la Junta los casos en que se acumulen tres faltas consecutivas, sin causa justificada, para conocimiento de los coordinadores de los grupos y los efectos que correspondan.
 
 2. Los presidentes de las Juntas Directivas serán responsables de los expedientes que pasen a su estudio y dictamen.
 
@@ -1726,7 +1964,9 @@ XVI. Requerir a los diputados y diputadas integrantes que no asistan a las reuni
 
 I. Asistir al Presidente de la Junta Directiva en todo lo relacionado con la preparación y conducción de las reuniones de la comisión o comité;
 
-II. Firmar las convocatorias, en los casos en los que el Presidente de la Junta Directiva no esté en condiciones de convocar;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. Convocar a Reunión en caso que el Presidente de la Junta Directiva no lo realice, transcurrido el término legal y reglamentario para ello;
 
 III. Sustituir al Presidente de la Junta Directiva en las reuniones, en caso de ausencia;
 
@@ -1736,11 +1976,15 @@ V. Hacer las propuestas de las actas de las reuniones;
 
 VI. Firmar las actas aprobadas;
 
-VII. Llevar el cómputo de los plazos para dictamen de cada iniciativa, minuta y proposición con punto de acuerdo turnada a su comisión y rendir un informe mensual a la Mesa Directiva de la Cámara;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VII. Llevar el cómputo de los plazos para dictamen de cada iniciativa, minuta y proposición con punto de acuerdo turnada a su comisión y rendir un informe mensual a la Conferencia y solicitar al Presidente de la Junta Directiva su publicación en el sitio de Internet de la comisión;
 
 VIII. Proponer al Presidente de la comisión o comité el nombramiento de sus asesores, quienes deberán reunir el perfil del conocimiento requerido para cada tema, y podrán ser del servicio de carrera, de base o externo;
 
-IX. Remitir las versiones estenográficas de cada Reunión, al Archivo General, así como a la Biblioteca de la Cámara, especificando las que revistan el carácter de reservadas o confidenciales, de conformidad con la normatividad aplicable, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IX. Remitir las versiones estenográficas de las reuniones en que se discutan predictámenes, al Archivo General, así como a la Biblioteca de la Cámara, especificando las que revistan el carácter de reservadas o confidenciales, de conformidad con la normatividad aplicable, y
 
 X. Aquellas que le sean encomendadas por el Presidente de la Junta Directiva.
 
@@ -1762,7 +2006,9 @@ IV. El Presidente de la Junta Directiva dará seguimiento y apoyo a los trabajos
 
 3. La Junta Directiva designará a los integrantes de las subcomisiones.
 
-4. Los coordinadores de las subcomisiones serán designados por la mayoría en Reunión de la comisión, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema objeto de la subcomisión y atendiendo la pluralidad representada en el Pleno.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. Los coordinadores de las subcomisiones serán designados por la mayoría simple en Reunión de la comisión, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema objeto de la subcomisión y atendiendo la pluralidad representada en el Pleno.
 
 5. Los integrantes de las subcomisiones deberán:
 
@@ -1786,7 +2032,9 @@ III. Determinar el calendario de reuniones.
 
 I. El número de grupos de trabajo se determinará de acuerdo a las necesidades de cada comisión,
 
-II. Los coordinadores de los grupos de trabajo se designarán por mayoría en Reunión de la comisión, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema objeto del grupo de trabajo y atendiendo la pluralidad representada en la Cámara,
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+II. Los coordinadores de los grupos de trabajo se designarán por mayoría simple en Reunión de la comisión, dando preferencia a los diputados y diputadas que tengan mayor experiencia en el tema objeto del grupo de trabajo y atendiendo la pluralidad representada en la Cámara,
 
 III. La Junta Directiva determinará su integración por acuerdo, procurando representar la pluralidad de los grupos, y
 
@@ -1888,7 +2136,9 @@ XI. Resolver los acuerdos o resoluciones que considere la propia comisión, rela
 
 2. La presentación y difusión de las actas de reuniones se sujetarán a lo siguiente:
 
-I. Se publicarán en la Gaceta, a más tardar, siete días hábiles después de haber sido enviadas;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+I. Se publicarán en la Gaceta, a más tardar, siete días después de haber sido enviadas;
 
 II. Se deberá adjuntar la versión electrónica;
 
@@ -1908,7 +2158,9 @@ f) Lista de diputados y diputadas asistentes, y
 
 g) Resumen de dictámenes, propuestas, acuerdos, resoluciones, así como el sentido del voto de cada diputado y diputada.
 
-3. Una vez elaborada el acta, deberá someterse a la aprobación del pleno de la comisión. El documento aprobado, será firmado por el Presidente y la mayoría de los secretarios y deberá enviarse de inmediato a la Mesa Directiva, para que ésta ordene su publicación en la Gaceta.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Una vez elaborada el acta, deberá someterse a la aprobación del pleno de la comisión. El documento aprobado, será firmado por el Presidente de la Junta Directiva y la mayoría de los secretarios, el cual deberá enviarse en un plazo no mayor a cinco días, a la Mesa Directiva, para que ésta ordene su publicación en la Gaceta.
 
 4. Cuando la Reunión convocada no se verifique, se levantará el acta respectiva, a efecto de tener constancia de las asistencias e inasistencias a la convocatoria, que será firmada por los diputados y diputadas presentes.
 
@@ -1924,7 +2176,9 @@ III. Contener criterios generales para la metodología de trabajo, como integrac
 
 IV. Incluir la realización de foros, estudios, investigaciones, publicaciones, visitas, entrevistas, audiencias, invitaciones a particulares y, en caso necesario, comparecencias de servidores públicos.
 
-2. El programa aprobado deberá enviarse a la Conferencia dentro de los quince días posteriores a su aprobación para su publicación en Gaceta y su difusión en los medios electrónicos de la Cámara, a más tardar tres días hábiles después de haberse recibido.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. El programa aprobado deberá enviarse a la Conferencia dentro de los quince días posteriores a su aprobación para su publicación en Gaceta y su difusión en los medios electrónicos de la Cámara, a más tardar tres días después de haberse recibido.
 
 ###### Artículo 162.
 
@@ -1964,11 +2218,15 @@ II. Relación de las iniciativas, minutas, observaciones del Titular del Poder E
 
 III. Avances en el cumplimiento del programa anual de trabajo;
 
-IV. Copia de las actas de cada Reunión celebrada, con la lista de diputados y diputadas asistentes y ausentes, dictámenes y acuerdos tomados en cada una de ellas, así como el sentido del voto de sus integrantes, en el caso que corresponda;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-V. Resumen de reuniones convocadas con información sobre su suspensión por falta de quórum, y los registros de asistencia e inasistencia de cada uno de los diputados y diputadas integrantes;
+IV. Resumen de las actas de cada Reunión celebrada, con la lista de diputados y diputadas asistentes y ausentes, dictámenes y acuerdos tomados en cada una de ellas, así como el sentido del voto de sus integrantes, en el caso que corresponda;
 
-VI. Resumen de las reuniones con servidores públicos, especificando objeto y conclusiones;
+V. (DEROGADA, D.O.F. 20 DE ABRIL DE 2011)
+
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VI. Síntesis de las reuniones con servidores públicos, especificando objeto y conclusiones;
 
 VII. Relación de los documentos, opiniones e informes generados en la materia de su competencia;
 
@@ -2016,6 +2274,10 @@ XI. La información relativa a la asignación, custodia y condiciones de los veh
 
 XII. La información sobre la aplicación y destino final de los recursos económicos asignados por el Comité de Administración.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. El informe final será la base para la integración de los documentos que se requieran administrativamente durante el proceso de entrega-recepción en la conclusión de la Legislatura y una copia se integrará al expediente relativo.
+
 #### Sección Octava. Reuniones de las Comisiones
 
 ###### Artículo 167.
@@ -2028,7 +2290,9 @@ XII. La información sobre la aplicación y destino final de los recursos econó
 
 4. Las resoluciones o dictámenes deberán adoptarse por mayoría simple.
 
-5. Si a una Reunión no concurre el Presidente de la Junta Directiva, la Secretaría de ésta acordará quien presida la Reunión, en términos de lo dispuesto por el artículo 150, numeral 1, fracción II.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Si a una Reunión no concurre el Presidente de la Junta Directiva, la Secretaría de ésta acordará quien presida la Reunión, en términos de lo dispuesto por el artículo 151, numeral 1, fracción III.
 
 6. Las comisiones no podrán reunirse al mismo tiempo que sesione el Pleno de la Cámara, salvo anuencia expresa de la Junta.
 
@@ -2046,15 +2310,17 @@ XII. La información sobre la aplicación y destino final de los recursos econó
 
 1. Serán reuniones extraordinarias las que se realicen fuera de las programadas previamente, conforme al calendario básico anual de cada comisión, a que se refiere el artículo 209 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 171.
 
-1. Cualquier Reunión podrá adquirir el carácter de permanente, cuando se requiera mantener la continuidad de los trabajos, garantizar los principios de suficiencia técnica, que se promueva el consenso y propiciar que se integre el quórum. El Presidente de la Junta Directiva, por acuerdo de la mayoría, podrá declarar la Reunión con el carácter de permanente, cuando la urgencia en el despacho de algún asunto así lo requiera.
+1. Cualquier Reunión podrá adquirir el carácter de permanente, cuando se requiera mantener la continuidad de los trabajos, garantizar los principios de suficiencia técnica, que se promueva el consenso. El Presidente de la Junta Directiva, por acuerdo de la mayoría simple, podrá declarar la Reunión con el carácter de permanente, cuando la urgencia en el despacho de algún asunto así lo requiera.
 
-2. El requisito del quórum podrá verificarse en cualquier tiempo durante la reunión.
+2. Cada vez que se decrete un receso, el Presidente de la Junta Directiva deberá señalar la hora en que habrá de continuar la Reunión, asegurándose que todos los integrantes sean notificados de la decisión.
 
-3. Cada vez que se decrete un receso, el Presidente de la Junta Directiva deberá señalar la hora en que habrá de continuar la Reunión, asegurándose que todos los integrantes sean notificados de la decisión.
+3. Las reuniones permanentes podrán reiniciar en el lugar y hora que el Presidente de la Junta Directiva convoque, con los diputados presentes, pero cualquier decisión que se tome sólo será válida cuando el quórum se acredite.
 
-4. Dicha Reunión culminará cuando el Presidente de la Junta Directiva declare que se han agotado los asuntos listados en el Orden del día o por acuerdo de la mayoría absoluta.
+4. La Reunión culminará cuando el Presidente de la Junta Directiva declare que se han agotado los asuntos listados en el Orden del día o por acuerdo de la mayoría absoluta.
 
 ###### Artículo 172.
 
@@ -2080,7 +2346,9 @@ XII. La información sobre la aplicación y destino final de los recursos econó
 
 5. Las votaciones de comisiones unidas se tomarán de manera independiente por cada una. Los diputados y diputadas que sean integrantes de más de una de ellas, tendrán un voto por cada comisión.
 
-6. Para que haya dictamen de comisiones unidas, la propuesta deberá aprobarse por mayoría simple.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+6. Para que haya dictamen de comisiones unidas, la propuesta deberá aprobarse por mayoría absoluta.
 
 #### Sección Décima Primera. Orden de los Asuntos
 
@@ -2102,7 +2370,11 @@ c) Iniciativas y proposiciones a nombre del Grupo;
 
 d) Iniciativas presentadas por diputados, diputadas, senadores, senadoras, legislaturas de los Estados;
 
-e) Proposiciones con Punto de Acuerdo;
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+e) Opiniones;
+
+f) Proposiciones con Punto de Acuerdo;
 
 IV. Informes de las subcomisiones y grupos de trabajo;
 
@@ -2146,9 +2418,13 @@ IV. A las cámaras, consejos y organizaciones sociales conocedoras del tema que 
 
 V. Las opiniones de los ciudadanos.
 
-3. El Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, con cinco días hábiles de anticipación a la Reunión en que se discuta y se vote.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-4. Cuando la mayoría de la comisión acuerde que un proyecto es urgente, podrá constituirse en Reunión permanente, en los términos de este ordenamiento; para lo cual, se harán constar en el acta correspondiente los motivos y razonamientos, así como el programa específico para discutir y votar el dictamen.
+3. El Presidente de la Junta Directiva deberá circular la propuesta de dictamen entre sus integrantes, con cinco días de anticipación a la Reunión en que se discuta y se vote.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. Cuando la mayoría simple de la comisión acuerde que un proyecto es urgente, podrá constituirse en Reunión permanente, en los términos de este ordenamiento; para lo cual, se harán constar en el acta correspondiente los motivos y razonamientos, así como el programa específico para discutir y votar el dictamen.
 
 ###### Artículo 178.
 
@@ -2188,11 +2464,15 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 ###### Artículo 182.
 
-1. Todo asunto turnado a comisión deberá ser resuelto por ésta, dentro de un término máximo de cuarenta y cinco días hábiles, con las salvedades que este Reglamento establece.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Todo asunto turnado a comisión deberá ser resuelto por ésta, dentro de un término máximo de cuarenta y cinco días, a partir de la recepción formal del asunto, con las salvedades que este Reglamento establece.
 
 2. Los plazos para dictaminar se interrumpirán, desde el inicio de la legislatura hasta que se instale la comisión.
 
-3. La comisión tendrá como plazo para dictaminar las proposiciones, hasta el fin de cada periodo legislativo.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. La comisión tendrá como término para dictaminar las proposiciones, hasta el fin de cada periodo ordinario de sesiones.
 
 4. En caso de que el Presidente autorice la ampliación de turno de un asunto para dictamen, el plazo volverá a correr a partir de que se notifique a las comisiones.
 
@@ -2204,13 +2484,21 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. La comisión que considere conveniente prorrogar la decisión del asunto turnado, deberá hacer la solicitud al Presidente, por conducto de su Junta Directiva, dentro del término para dictaminar, establecido en el artículo anterior.
 
-2. La Mesa Directiva deberá resolver las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta cuarenta y cinco días hábiles más, contados a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. La Mesa Directiva deberá resolver las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta cuarenta y cinco días más, contados a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. La solicitud que realice la comisión, así como el acuerdo por el que la Mesa Directiva resuelva, serán publicados en la Gaceta.
 
 ###### Artículo 184.
 
 1. La Mesa Directiva establecerá un acuerdo para que las iniciativas y minutas que no fueron dictaminadas por la comisión respectiva, en los plazos establecidos y una vez realizadas las prevenciones a que hace referencia este Reglamento, se presenten en sus términos ante el Pleno, para su discusión y votación.
 
-2. Las proposiciones no dictaminadas dentro del periodo legislativo en que fueron presentadas, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Las proposiciones no dictaminadas dentro del periodo ordinario de sesiones en que fueron presentadas, se tendrán por desechadas, procediendo a su archivo como asuntos total y definitivamente concluidos.
 
 ###### Artículo 185.
 
@@ -2224,11 +2512,17 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. Las comisiones, durante los recesos, deberán continuar el estudio de los asuntos pendientes, hasta resolverlos. Asimismo, deberán estudiar y dictaminar los asuntos que les sean turnados por la Comisión Permanente.
 
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Los dictámenes que las comisiones envíen a la Mesa Directiva durante el periodo de receso para su discusión y votación en el Pleno, serán registrados para su desahogo al inicio del siguiente periodo ordinario de sesiones, conforme a la programación que acuerde la Mesa Directiva.
+
 #### Sección Décima Cuarta. Discusiones en las Comisiones
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 188.
 
-1. En las reuniones, el Presidente de la Junta Directiva o su Secretaría, cuando así corresponda, moderará el debate haciendo un listado de los oradores que soliciten la palabra en rondas de dos a favor y dos en contra, auxiliado para tal efecto, por sus secretarios.
+1. En las reuniones, el Presidente de la Junta Directiva o su Secretaría, cuando así corresponda, moderará el debate haciendo un listado de los oradores que soliciten la palabra en rondas de hasta seis a favor y hasta seis en contra, auxiliado para tal efecto, por sus secretarios.
 
 ###### Artículo 189.
 
@@ -2236,7 +2530,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 2. Tratándose de predictámenes, el diputado o diputada que lo presente, en nombre de la Subcomisión, podrá hacer una intervención inicial.
 
-3. Cuando hayan tomado la palabra todos los oradores de cada ronda, el Presidente de la comisión preguntará si el asunto está suficientemente discutido. Si la respuesta fuera negativa, se continuará la discusión. Si la respuesta es positiva, se procederá a la votación.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Cuando hayan tomado la palabra todos los oradores, el Presidente de la comisión preguntará si el asunto está suficientemente discutido. Si la respuesta fuera negativa, se continuará la discusión. Si la respuesta es positiva, se procederá a la votación.
 
 4. Los diputados y diputadas podrán reservar artículos de un dictamen para su discusión en lo particular, pero el tiempo máximo de cada intervención no será mayor de cinco minutos, observándose la regla del numeral anterior.
 
@@ -2244,9 +2540,13 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 #### Sección Décima Quinta. Votaciones
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 190.
 
-1. Los diputados y diputadas manifestarán su parecer, en torno a un asunto determinado cuando emitan su voto.
+1. Los diputados y diputadas manifestarán su decisión, en torno a un asunto determinado cuando emitan su voto.
+
+2. Previo de la realización de una votación nominal se verificará el quórum.
 
 ###### Artículo 191.
 
@@ -2276,13 +2576,17 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 4. Para efectos de este artículo, el cómputo de los semestres correrá a partir de la fecha en que se instale la Cámara.
 
-5. El Coordinador del Grupo deberá comunicar a la Junta, el nombre del diputado o diputada que sustituirá al integrante que haya causado baja, en un plazo no mayor a diez días hábiles.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. El Coordinador del Grupo deberá comunicar a la Junta, el nombre del diputado o diputada que sustituirá al integrante que haya causado baja, en un plazo no mayor a diez días.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 194.
 
-1. En caso de baja de diputados o diputadas en comisiones, por causas distintas a las señaladas en el artículo anterior, el Coordinador dispondrá de diez días hábiles para hacer la propuesta de sustitución. El término comenzará a correr a partir del día siguiente en que se comunique la baja del diputado o diputada a la Junta.
+1. En caso de baja de diputados o diputadas en comisiones, por causas distintas a las señaladas en el artículo anterior, el Coordinador dispondrá de diez días para hacer la propuesta de sustitución. El término comenzará a correr a partir del día siguiente en que se comunique la baja del diputado o diputada a la Junta.
 
-2. En caso de baja por cualquier causa de un diputado o diputada sin partido, la Junta propondrá quien deberá sustituirlo, en un plazo no mayor a diez días hábiles.
+2. En caso de baja por cualquier causa de un diputado o diputada sin partido, la Junta propondrá quien deberá sustituirlo, en un plazo no mayor a diez días.
 
 ###### Artículo 195.
 
@@ -2296,15 +2600,21 @@ III. La asistencia a Reunión de otra comisión de la que sea integrante o cuand
 
 IV. La asistencia a Reunión de Junta o Conferencia, y
 
-V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Directiva, el coordinador o alguna comisión a la que pertenezca.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Directiva, el coordinador o la Junta Directiva de alguna comisión a la que pertenezca.
 
 2. La acreditación de justificaciones de inasistencia por las causas señaladas en las fracciones I, II y V se harán presentando ante la Junta Directiva los elementos señalados para la justificación de inasistencias a sesiones del Pleno.
 
-3. La justificación por asistencia a Reunión de otra comisión de la que sea integrante, deberá acreditarse presentando ante la Junta Directiva el registro de asistencia inicial y final de la Reunión ante la Mesa Directiva.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. La justificación por asistencia a Reunión de otra comisión de la que sea integrante, deberá acreditarse presentando ante la Junta Directiva el registro de asistencia inicial y final de aquella Reunión.
 
 4. La justificación por presencia en una Reunión de comisión en que se discuta una iniciativa propia, se acreditará a través de escrito en que se haga constar lo anterior, dirigido a la Junta Directiva.
 
-5. Las diputadas y los diputados dispondrán de cinco días hábiles, a partir del día siguiente en que se produzca la inasistencia para enviar a la Junta Directiva la justificación correspondiente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Las diputadas y los diputados dispondrán de cinco días, a partir del día siguiente en que se produzca la inasistencia para enviar a la Junta Directiva la justificación correspondiente.
 
 ###### Artículo 196.
 
@@ -2318,9 +2628,13 @@ V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Di
 
 ###### Artículo 198.
 
-1. Las comisiones podrán solicitar entrevistas o comparecencias con los funcionarios a los que hace alusión el artículo 93 de la Constitución, para ilustrar su juicio en el despacho de los asuntos que se les encomienden.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-2. Las invitaciones que pretendan realizar las comisiones a los funcionarios a que se refiere el artículo 93 de la Constitución, se comunicarán a la Conferencia y corresponderá al Presidente notificarles las fechas en que deberán presentarse en el Recinto, sea en comisiones, subcomisiones o en un grupo de trabajo.
+1. Las comisiones podrán solicitar comparecencias, a solicitud de uno o más de sus integrantes, con los servidores públicos a que hacen alusión los artículos 69 y 93 de la Constitución, a fin de ilustrar su juicio en el despacho de los asuntos que se les encomienden.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Las comparecencias que pretendan realizar las comisiones con los funcionarios a que se refieren los artículos 69 y 93 de la Constitución, se comunicarán a la Conferencia, por conducto de la Junta Directiva. Corresponderá al Presidente notificar a los funcionarios las fechas en que deberán presentarse al interior de la comisión.
 
 3. En caso de que varias comisiones coincidan en citar en la misma fecha a un servidor público, la Conferencia acordará lo conducente consultando al respecto a los presidentes de las comisiones involucradas.
 
@@ -2329,6 +2643,10 @@ V. El cumplimiento de encomiendas autorizadas por el Pleno, la Junta, la Mesa Di
 5. En el proceso de discusión y examen del Proyecto de Presupuesto de Egresos, la Comisión de Presupuesto y Cuenta Pública emitirá los lineamientos con base en los cuales comparecerán las comisiones ordinarias, así como los funcionarios de la Administración Pública Federal, Organismos Autónomos, del Poder Judicial, de las Entidades Federativas, Municipios y demás instancias cuya participación sea relevante en dicho proceso.
 
 6. Del resultado de cada comparecencia o entrevista, la Junta Directiva de la Comisión de Presupuesto y Cuenta Pública dará cuenta a la Conferencia en un plazo de hasta quince días, a través de un informe escrito que resuma el contenido y en su caso, los compromisos legislativos y parlamentarios.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+7. Las comisiones podrán celebrar entrevistas o conferencias con los servidores públicos a que aluden los artículos 69 y 93 de la Constitución para tratar asuntos de su competencia.
 
 ###### Artículo 199.
 
@@ -2424,7 +2742,9 @@ IV. El número de integrantes que la conforman, y
 
 V. Los integrantes de su Junta Directiva.
 
-2. Una vez que haya finalizado la legislatura o que hayan cumplido o agotado su objeto, se extinguirán. La Conferencia hará la declaratoria ante el Pleno.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Una vez que haya finalizado la legislatura o que hayan cumplido o agotado su objeto, se extinguirán. La Conferencia a través de acuerdo, lo comunicará al Pleno.
 
 ###### Artículo 208.
 
@@ -2456,7 +2776,9 @@ V. Entregar a la Cámara, a través de la Conferencia, y al público en general,
 
 3. En casos excepcionales, por acuerdo de la Conferencia, se podrá programar la realización simultánea de reuniones de las comisiones.
 
-4. En la programación de eventos, las sesiones ordinarias y extraordinarias de las comisiones tendrán prelación sobre actividades administrativas, culturales, o de cualquier otra índole.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. En la programación de eventos, las reuniones ordinarias y extraordinarias de las comisiones tendrán prelación sobre actividades administrativas, culturales, o de cualquier otra índole.
 
 ###### Artículo 211.
 
@@ -2492,7 +2814,9 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 1. Las actividades de las comisiones y comités, preferentemente sus reuniones, se transmitirán según lo previsto en el Reglamento del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos y de acuerdo a los criterios que establezca la Comisión Bicamaral.
 
-## TITULO SEXTO. De las Especialidades del Procedimiento
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+## TITULO SEXTO. De los Procedimientos Especiales
 
 ### CAPITULO I. De la Revisión de los Proyectos de Ley o Decreto
 
@@ -2508,15 +2832,21 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 3. En ambos casos, solamente se discutirán y votarán los artículos observados, modificados o adicionados.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 217.
 
-1. El proyecto que se envíe para su revisión a la Cámara de Senadores, irá firmado por el Presidente y un Secretario, acompañado de los documentos a que se refiere el artículo 76 de este Reglamento.
+1. El proyecto que se envíe para su revisión a la Cámara de Senadores, irá firmado por el Presidente y un Secretario, acompañado de los documentos a que se refiere el artículo 94 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 218.
 
-1. Los expedientes que deban pasar al Titular del Poder Ejecutivo Federal para los efectos de la fracción A, del artículo 72 de la Constitución, se remitirán con los documentos a que se refiere el artículo 76 de este Reglamento.
+1. Los expedientes que deban pasar al Titular del Poder Ejecutivo Federal para los efectos de la fracción A, del Artículo 72 de la Constitución, se remitirán con los documentos a que se refiere el artículo 94 de este Reglamento.
 
-### CAPITULO II. De la Expedición de Leyes o Decretos facultad exclusiva de la Cámara
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+### CAPITULO II. De la Expedición de Decretos y otras Resoluciones exclusivas de la Cámara
 
 ###### Artículo 219.
 
@@ -2550,13 +2880,17 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 ###### Artículo 223.
 
-1. La Mesa Directiva turnará, a más tardar en dos días hábiles, contados a partir de su recepción, la Cuenta Pública a la Comisión de Vigilancia de la Auditoría Superior de la Federación. Esta Comisión tendrá el mismo plazo para turnarla a la Auditoría Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. La Mesa Directiva turnará, a más tardar en dos días, contados a partir de su recepción, la Cuenta Pública a la Comisión de Vigilancia de la Auditoría Superior de la Federación. Esta Comisión tendrá el mismo plazo para turnarla a la Auditoría Superior de la Federación.
 
 2. La Auditoría Superior de la Federación deberá entregar el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública a la Cámara, a más tardar, el 20 de febrero del año siguiente, en el que se le haya turnado la Cuenta Pública que corresponda y tendrá un plazo adicional, siempre y cuando se haya otorgado la prórroga a que hace referencia el artículo anterior.
 
 ###### Artículo 224.
 
-1. La Comisión de Vigilancia de la Auditoría Superior de la Federación enviará a la Comisión de Presupuesto y Cuenta Pública el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública, a más tardar dos días hábiles contados a partir a su recepción.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. La Comisión de Vigilancia de la Auditoría Superior de la Federación enviará a la Comisión de Presupuesto y Cuenta Pública el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública, a más tardar dos días contados a partir a su recepción.
 
 2. El análisis que sobre dicho Informe elabore la Comisión de Vigilancia de la Auditoría Superior de la Federación, deberá enviarlo a la Comisión de Presupuesto y Cuenta Pública, a más tardar, el 30 de mayo del año en que se haya recibido el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública correspondiente.
 
@@ -2576,13 +2910,17 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 2. La Comisión de Vigilancia de la Auditoría Superior de la Federación deberá verificar, con el apoyo de la Unidad de Evaluación y Control, que la Auditoría Superior de la Federación atienda las recomendaciones contenidas en dicho informe.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 227.
 
-1. Es facultad exclusiva de la Comisión de Presupuesto y Cuenta Pública la elaboración del dictamen de la Cuenta Pública de cada ejercicio fiscal. Para ello, deberá considerar el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública; el análisis que la Comisión de Vigilancia de la Auditoría Superior de la Federación entregue en términos del artículo 225 numeral 2 de este Reglamento; así como el contenido de la Cuenta Pública.
+1. Es facultad exclusiva de la Comisión de Presupuesto y Cuenta Pública la elaboración del dictamen de la Cuenta Pública de cada ejercicio fiscal. Para ello, deberá considerar el Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública; el análisis que la Comisión de Vigilancia de la Auditoría Superior de la Federación entregue en términos del artículo 224, numeral 2 de este Reglamento; así como el contenido de la Cuenta Pública.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 228.
 
-1. La revisión de la Cuenta Pública deberá concluir a más tardar, el treinta de septiembre del año siguiente a su presentación, por lo que la Comisión de Presupuesto y Cuenta Pública deberá aprobar el proyecto de dictamen y presentarlo al Pleno, para su votación y aprobación, a más tardar en esta fecha.
+1. La revisión de la Cuenta Pública deberá concluir a más tardar, el 30 de septiembre del año siguiente a su presentación, por lo que la Comisión de Presupuesto y Cuenta Pública deberá aprobar el proyecto de dictamen y presentarlo al Pleno, para su votación y aprobación, a más tardar en esta fecha.
 
 ###### Artículo 229.
 
@@ -2592,25 +2930,45 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 ###### Artículo 230.
 
-1. Cuando se trate de dictámenes relativos a reformas a la Constitución, la discusión se realizará por artículo.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Cuando se trate de dictámenes relativos a reformas a la Constitución, la discusión se realizará en lo general y en lo particular.
 
 2. En una primera ronda de intervenciones podrá participar el Presidente de la Comisión de Puntos Constitucionales y un diputado o diputada por cada Grupo, hasta por quince minutos y posteriormente se abrirán rondas de discusión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Posteriormente, podrán abrirse otras rondas de discusión. El Presidente deberá elaborar listas de oradores, de hasta 6 a favor y 6 en contra, que intervendrán hasta por cinco minutos. Las listas deberán leerse completas antes de iniciar la discusión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. Una vez agotada cada ronda de oradores el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido en lo general, en caso afirmativo se procederá a la votación, y en caso negativo, si aún quedaran inscritos, se leerá la lista de los oradores y continuará su desahogo. Concluida la discusión se procederá a la votación en lo general de los artículos no reservados, si los hubiere.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. Cuando se solicite el uso de la palabra sólo para argumentar a favor o sólo para argumentar en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido. En caso negativo, el Presidente podrá abrir otra ronda de oradores bajo estas mismas reglas.
+
 ###### Artículo 231.
 
-1. Para intervenir en la discusión podrán inscribirse todos los integrantes de la Cámara que así lo soliciten.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Para intervenir en la discusión en lo particular podrán inscribirse todos los diputados y diputadas que previamente hayan registrado sus reservas.
 
 2. El Presidente deberá elaborar listas de oradores a favor y en contra, que leerá completas antes de iniciar la discusión.
 
-3. Los oradores harán uso de la palabra alternadamente hasta por cinco minutos, comenzando por el primero de los inscritos para hablar en contra.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Los oradores harán uso de la palabra alternadamente hasta por tres minutos, y procederá la votación de cada reserva después de su presentación.
 
 4. El Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido, cuando haya concluido la segunda ronda. En caso afirmativo, se procederá a la votación, en caso negativo, se leerá la lista de los oradores aún inscritos en ambos sentidos y continuará el desahogo de la siguiente ronda en los términos expuestos. Concluida la discusión se procederá a la votación.
 
 5. Cuando se solicite el uso de la palabra sólo para argumentar a favor o sólo para argumentar en contra, se admitirán hasta tres oradores que podrán hablar hasta por cinco minutos y agotada esa ronda, el Presidente preguntará si el asunto se encuentra suficientemente discutido. En caso negativo, el Presidente podrá abrir otra ronda de oradores bajo estas mismas reglas.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 232.
 
-1. Cuando un proyecto de artículo constitucional, párrafo o fracción del mismo, sea declarado suficientemente discutido se procederá a votarlo. De no aprobarse se tendrá por desechado conforme lo dispuesto por el artículo 72 de la Constitución.
+1. Cuando un proyecto de reforma constitucional, sea declarado suficientemente discutido en lo general y en lo particular, se procederá a votarlo. De no aprobarse se tendrá por desechado conforme lo dispuesto por el Artículo 72 de la Constitución.
 
 ### CAPITULO IV. De las Controversias Constitucionales
 
@@ -2620,11 +2978,21 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 I. Las diputadas o diputados que pretendan la interposición de una demanda de controversia constitucional deberán presentar solicitud por escrito, acompañada del proyecto de demanda ante la Junta,
 
-II. La Junta deberá acordar y solicitar a la Mesa Directiva, que el Area Jurídica de la Cámara, emita en un breve plazo de cinco días, una opinión técnica sobre los argumentos para la procedencia o improcedencia de la misma, y
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-III. La Junta dará a conocer el proyecto de demanda anexando la opinión técnica, la cual deberá entregarse a todas las diputadas y los diputados, al menos veinticuatro horas antes de su discusión y votación en el Pleno.
+II. La Junta deberá acordar y solicitar a la Mesa Directiva, que el Área Jurídica de la Cámara, emita en un plazo no mayor de cinco días, una opinión técnica sobre los argumentos para la procedencia o improcedencia de la misma. Este plazo no se aplicará cuando este por vencerse el término constitucional para su formulación;
 
-2. Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días hábiles después de haber sido votada.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+III. La Junta dará a conocer el proyecto de demanda anexando la opinión técnica, la cual deberá entregarse a todas las diputadas y los diputados, en versión electrónica o impresa para los diputados y diputadas que lo soliciten al menos veinticuatro horas antes de su discusión y votación en el Pleno, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IV. Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días después de haber sido votada.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Sin perjuicio de lo dispuesto en los párrafos anteriores, el Presidente podrá por sí mismo, en uso de la representación originaria que ostenta de la Cámara, como lo dispone el artículo 23, numeral 1, inciso l), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, presentar demanda de controversia constitucional cuando lo estime necesario para defender los intereses de ésta, aún en los períodos de receso.
 
 ### CAPITULO V. De las Acciones de Inconstitucionalidad
 
@@ -2640,7 +3008,9 @@ III. La Junta dará a conocer el proyecto de demanda anexando la opinión técni
 
 ###### Artículo 235.
 
-1. La Cámara tendrá un órgano oficial denominado "Diario de los Debates”, en el que se publicará la siguiente información:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. El Diario de los Debates es el órgano oficial de la Cámara que contiene la memoria de debates parlamentarios, así como el desarrollo de las sesiones, en el que se publicará la siguiente información:
 
 I. Fecha, hora y lugar en que se verifique el inicio y término de la Sesión;
 
@@ -2676,7 +3046,9 @@ XVI. Significado de las siglas y abreviaturas incluidas.
 
 ###### Artículo 236.
 
-1. Entre la realización de una Sesión y la publicación de la edición impresa del Diario de los Debates, no deberán transcurrir más de treinta días hábiles.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Entre la realización de una Sesión y la publicación de la edición impresa del Diario de los Debates, no deberán transcurrir más de cinco días.
 
 2. El Diario de los Debates deberá aparecer en los medios informáticos y electrónicos que la Cámara ponga a disposición del público en general.
 
@@ -2684,9 +3056,11 @@ XVI. Significado de las siglas y abreviaturas incluidas.
 
 #### Sección Segunda. Versiones Estenográficas
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 237.
 
-1. La versión estenográfica de las sesiones deberá publicarse en la página electrónica de la Cámara, a más tardar, cinco horas después de que termine la Sesión.
+1. La versión estenográfica de las Sesiones deberá publicarse en la página electrónica de la Cámara, conforme avanza la Sesión.
 
 ###### Artículo 238.
 
@@ -2710,7 +3084,9 @@ V. Solicitudes de licencias de los diputados y diputadas;
 
 VI. Solicitudes de cambios de integrantes en las comisiones;
 
-VII. Actas, informes, resoluciones y acuerdos del Pleno, de la Conferencia, de la Junta, de la Mesa Directiva y de comisiones y comités de la Cámara;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+VII. Actas, informes, programas, resoluciones y acuerdos del Pleno, de la Conferencia, de la Junta, de la Mesa Directiva y de comisiones y comités de la Cámara;
 
 VIII. Iniciativas de ley o de decreto que se presenten en la Cámara, y las que se presenten en la Comisión Permanente y se turnen a la Cámara;
 
@@ -2718,7 +3094,9 @@ IX. Observaciones del Titular del Poder Ejecutivo Federal enviadas a la Cámara;
 
 X. Minutas enviadas a la Cámara;
 
-XI. Proyectos de Acuerdo Parlamentario, de punto de acuerdo, de iniciativas protocolarias, y el contenido de los demás asuntos que se tratarán en el Pleno, en las comisiones y en los comités;
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XI. Proyectos de Acuerdo Parlamentario, de punto de acuerdo, de proposiciones protocolarias, y el contenido de los demás asuntos que se tratarán en el Pleno, en las comisiones y en los comités;
 
 XII. Declaratorias de publicidad de los dictámenes de las comisiones, así como de las iniciativas y minutas que pasan al Pleno por vencimiento de plazo;
 
@@ -2744,9 +3122,27 @@ XXII. Informes y documentos que dispongan el órgano encargado de la programaci�
 
 XXIII. Todas las aclaraciones, correcciones o actualizaciones de los documentos publicados en la propia Gaceta, y que posteriormente hayan sido modificados para su registro en el Diario de Debates;
 
-XXIV. Todas las convocatorias de concursos de oposición para ocupar plazas en la Cámara, de acuerdo a la normatividad aplicable, y
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XXV. Todos aquellos asuntos o labores de la Cámara que el Presidente considere relevantes para su difusión.
+XXIV. Todas las convocatorias de concursos de oposición para ocupar plazas e (sic) la Cámara, de acuerdo ala (sic) normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XXV. Prevenciones del Presidente por vencimiento de plazos y de prórrogas a las comisiones;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XXVI. Solicitudes de prórroga de las comisiones respecto al plazo para dictaminar;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XXVII. Resoluciones de la Mesa Directiva a las solicitudes de prórroga;
+
+> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+XXVIII. Iniciativas y minutas por vencimiento de plazos a discusión, y
+
+XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere relevantes para su difusión.
 
 ###### Artículo 240.
 
@@ -2758,7 +3154,13 @@ XXV. Todos aquellos asuntos o labores de la Cámara que el Presidente considere 
 
 2. La Gaceta se publicará a más tardar, a las 22:00 horas del día anterior a cada Sesión, y a partir de las 8:00 horas, cuando no hubiera Sesión, a través de los servicios de información en Internet.
 
-3. Las versiones definitivas digitalizadas de la Gaceta se entregarán para su clasificación y uso al acervo de la Cámara.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+3. Las versiones definitivas digitalizadas e impresas de la Gaceta se entregarán para su clasificación y uso, al acervo de la Cámara.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. Los días de Sesión habrá ejemplares de la Gaceta en el Salón de Sesiones, disponibles para los diputados y diputadas que lo soliciten.
 
 ### CAPITULO II. De los Instrumentos de Difusión
 
@@ -2810,7 +3212,7 @@ VII. Acreditar a los representantes de los medios de información, dotarles de i
 
 VIII. Divulgar entre los diputados y diputadas el compendio de noticias, de forma electrónica de los diversos medios relacionados con las funciones de la Cámara;
 
-IX. Apoyar a las oficinas de comunicación social de los grupos de la Cámara;
+IX. (DEROGADA, D.O.F. 20 DE ABRIL DE 2011)
 
 X. Realizar conforme a las instrucciones que reciba de la instancia competente de la Cámara, las aclaraciones pertinentes sobre informaciones publicadas por los medios de información del país y del extranjero, y
 
@@ -2868,11 +3270,15 @@ XI. Ordenar las inserciones pagadas en los medios de información, cuidando que 
 
 1. Las comisiones, comités, grupos, órganos de gobierno y demás instancias legislativas y administrativas entregarán al acervo de la Cámara, a fin de integrar la memoria documental, catorce ejemplares de cada edición monográfica o periódica, así como de boletines o folletos que se publiquen. Además, entregarán al acervo de la Cámara dos ejemplares de cada pieza de material electromagnético o digital que dé cuenta de sus actividades, realizado en formatos tales como videocasetes, discos compactos u otros.
 
-2. Las comisiones, comités, grupos, órganos de gobierno y demás instancias legislativas y administrativas entregarán al acervo de la Cámara, conforme a su disponibilidad, las versiones de documentos de trabajo tales como memorias de consulta y eventos, programas e informes de trabajo, manuales de organización, boletines informativos, tomos del Presupuesto de Egresos de la Federación, Ley de Ingresos y de la Cuenta Pública y otros documentos de interés para la integración de la memoria documental, se entregarán, al menos, en un ejemplar.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Las comisiones, comités, grupos, órganos de gobierno y demás instancias legislativas y administrativas entregarán a la Biblioteca para el acervo de la Cámara, conforme a su disponibilidad, las versiones de documentos de trabajo tales como memorias de consulta y eventos, programas e informes de trabajo, manuales de organización, boletines informativos, tomos del Presupuesto de Egresos de la Federación, Ley de Ingresos y de la Cuenta Pública y otros documentos de interés para la integración de la memoria documental, se entregarán, al menos, en cinco ejemplares.
 
 ###### Artículo 259.
 
-1. Se creará un área reservada para la ubicación y consulta de los documentos citados en el artículo anterior, en las instalaciones de la Cámara.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Se destinará un área reservada para la ubicación y consulta de los documentos citados en el artículo anterior, en las instalaciones de la Biblioteca.
 
 2. De los impresos que la biblioteca reciba, se dispondrán siete ejemplares para consulta de los usuarios. Los siete ejemplares restantes se destinarán para intercambio de publicaciones con otros centros de información. En lo referente al material electromagnético o digital se dispondrá de dos ejemplares para consulta de los usuarios.
 
@@ -2882,7 +3288,9 @@ XI. Ordenar las inserciones pagadas en los medios de información, cuidando que 
 
 ###### Artículo 260.
 
-1. Compete al Presidente cumplir y hacer cumplir el Reglamento e interpretarlo; en caso de duda, compete a la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias resolver las consultas.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Compete a la Mesa Directiva, realizar la interpretación de las normas y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de la sesión.
 
 2. El Presidente de la Mesa Directiva o de la Junta Directiva, según corresponda, tendrá en el desarrollo de las sesiones o reuniones como medios para promover la libre discusión y decisión parlamentaria, entre los diputados y diputadas, así como inhibir la interrupción de éstas, las siguientes acciones:
 
@@ -2892,11 +3300,17 @@ II. Declaración de falta de orden con mención en el acta;
 
 III. Retiro del sonido, y
 
-IV. Descuento de un día de dieta.
+> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Reglamento para procurar el objeto señalado en este numeral.
 
 3. El presidente ordenará el retiro de las expresiones materiales, si se incumple con lo dispuesto en la fracción XVIII del artículo 8 de este Reglamento.
 
 4. Para atender una situación no prevista en el Reglamento, el Presidente podrá dictar una resolución de carácter general, siempre que haya la opinión favorable de la Mesa Directiva y de la Junta. En caso contrario, este tipo de resoluciones sólo tendrán efecto con la aprobación de la mayoría simple del Pleno.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+5. A la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias le compete resolver en caso de duda, las consultas referentes a este Reglamento, de acuerdo con el artículo 40, numeral 2 de la Ley.
 
 ### CAPITULO II. De las Distinciones de la Cámara
 
@@ -2914,7 +3328,9 @@ IV. Descuento de un día de dieta.
 
 1. Por cabildeo se entenderá toda actividad que se haga ante cualquier diputado, diputada, órgano o autoridad de la Cámara, en lo individual o en conjunto, para obtener una resolución o acuerdo favorable a los intereses propios o de terceros.
 
-2. Por cabildero se identificará al individuo que represente a una persona física, organismo privado o social, que realice actividades en los términos del numeral que antecede, por el cual obtenga un beneficio material o económico.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. Por cabildero se identificará al individuo ajeno a esta Cámara que represente a una persona física, organismo privado o social, que realice actividades en los términos del numeral que antecede, por el cual obtenga un beneficio material o económico.
 
 ###### Artículo 264.
 
@@ -2944,15 +3360,21 @@ II. Domicilio del solicitante, y
 
 III. Relación de las principales comisiones o áreas de interés en las que preferentemente se desarrollarán las actividades del cabildeo.
 
-2. La Mesa Directiva deberá dar respuesta a la solicitud de inscripción, en un plazo no mayor a diez días hábiles. En caso contrario, se entenderá la inscripción en sentido positivo al solicitante.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+2. La Mesa Directiva deberá dar respuesta a la solicitud de inscripción, en un plazo no mayor a diez días. En caso contrario, se entenderá la inscripción en sentido positivo al solicitante.
 
 3. Una vez cumplido el requisito de inscripción, la Mesa Directiva expedirá para cada cabildero una identificación con fotografía que deberá ser portada durante su estancia en las instalaciones de la Cámara.
 
-4. El cabildero notificará a la Mesa Directiva cualquier cambio en la información proporcionada en la solicitud, para su inscripción en el padrón de cabilderos, en un plazo no mayor de diez días hábiles, a partir de la modificación correspondiente.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+4. El cabildero notificará a la Mesa Directiva cualquier cambio en la información proporcionada en la solicitud, para su inscripción en el padrón de cabilderos, en un plazo no mayor de diez días, a partir de la modificación correspondiente.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
 ###### Artículo 268.
 
-1. La Mesa Directiva podrá cancelar el registro en el padrón de cabilderos durante la legislatura correspondiente, al cabildero que proporcione información falsa a cualquier legislador, comisión, órgano, comité o autoridad de la Cámara.
+1. La Mesa Directiva podrá suspender o cancelar el registro en el padrón de cabilderos durante la legislatura correspondiente, al cabildero que no acredite fehacientemente el origen de la información que proporcione a cualquier legislador, comisión, órgano, comité o autoridad de la Cámara.
 
 ### CAPITULO IV. De la Diplomacia Parlamentaria en la Cámara
 
@@ -3008,9 +3430,11 @@ V. Las que llevan a cabo los Grupos de Amistad.
 
 5. La Junta podrá autorizar a cada delegación personal de apoyo técnico.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 275.
 
-1. El Pleno, a propuesta de la Junta, podrá constituir Grupos de Amistad para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de países con los que México sostenga relaciones diplomáticas. Su vigencia estará ligada a la de la legislatura en que se conformaron.
+1. El Pleno, a propuesta de la Junta, podrá constituir Grupos de Amistad para la atención y seguimiento de los vínculos bilaterales con órganos de representación popular de otras naciones. Su vigencia estará ligada a la de la legislatura en que se conformaron.
 
 ###### Artículo 276.
 
@@ -3020,7 +3444,9 @@ V. Las que llevan a cabo los Grupos de Amistad.
 
 ###### Artículo 277.
 
-1. Los integrantes de las delegaciones y Grupos de Amistad que hayan desarrollado alguna actividad de diplomacia parlamentaria en lo individual, tendrán la responsabilidad de rendir un informe de actividades y asistencia a los eventos correspondientes, dentro de los veinte días hábiles posteriores a la conclusión de la actividad, que contendrá:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+1. Los integrantes de las delegaciones y Grupos de Amistad que hayan desarrollado alguna actividad de diplomacia parlamentaria en lo individual, tendrán la responsabilidad de rendir un informe de actividades y asistencia a los eventos correspondientes, dentro de los veinte días posteriores a la conclusión de la actividad, que contendrá:
 
 I. Objetivos y resultados de la actividad,
 
@@ -3036,9 +3462,11 @@ III. Anexo con declaraciones, resolutivos y acuerdos.
 
 1. Toda delegación y Grupo de Amistad deberá contar con un presidente, aprobado por el Pleno a propuesta de la Junta.
 
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
 ###### Artículo 280.
 
-1. Las delegaciones y Grupos de Amistad, por conducto de su presidente, presentarán un informe general de las actividades, para que su sucesor dé continuidad a los acuerdos a que hayan llegado.
+1. Las delegaciones y Grupos de Amistad, por conducto de su Presidente, presentarán un informe general de las actividades, al término de la Legislatura, para que su sucesor dé continuidad a los acuerdos a que hayan llegado.
 
 ###### Artículo 281.
 
@@ -3112,11 +3540,23 @@ Tercero. Quedan sin efecto para la Cámara de Diputados, las disposiciones conte
 
 Cuarto. La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
 
-Quinto. La Mesa Directiva se encargará de establecer un programa de instrumentación del Servicio de Carrera de la Cámara, dentro de los seis meses posteriores a la entrada en vigor del presente Reglamento, dejando a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio Parlamentario de Carrera.
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-Sexto. Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del presente reglamento, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las nuevas reglas que señala este ordenamiento mediante escrito libre. La Mesa Directiva deberá acordar lo conducente y turnar el asunto nuevamente a Comisión para que le corra término a partir de que la reciba oficialmente.
+Quinto. La Cámara, a través de la Conferencia y dentro de los cuatro meses siguientes a la vigencia del presente Decreto, deberá disponer las acciones y medidas necesarias para regularizar y concluir el proceso de instrumentación del Servicio de Carrera de la Cámara, en su vertiente parlamentaria.
 
-Séptimo. Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, acordarán los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento.
+En dicho proceso, se dejarán a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio de Carrera en la vertiente parlamentaria que se encuentre en activo y con permanencia ininterrumpida en la institución desde la adquisición de tal calidad.
+
+La Conferencia deberá verificar que los Aspirantes al Servicio de Carrera cumplan con los requisitos que prevé el Estatuto en materia de ingreso y que no se encuentren en los supuestos de separación previstos por dicho ordenamiento.
+
+Para establecer un nuevo programa de instrumentación del Servicio de Carrera de la Cámara en sus dos vertientes, la Conferencia expedirá los lineamientos respectivos, ordenará y vigilará que se realicen las acciones necesarias para la constitución de los órganos que prevé el Estatuto en materia de Servicio de Carrera y tendrá hasta antes de que concluya el Segundo Periodo Ordinario de Sesiones del tercer año de ejercicio de la LXI Legislatura para concluir el proceso de instrumentación del programa.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+Sexto. Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del Reglamento de la Cámara de Diputados, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las reglas que señala el ordenamiento a través de escrito libre, hasta el 30 de septiembre de 2011. De lo contrario, la Mesa Directiva acordará la programación para que las iniciativas se turnen de nueva cuenta a comisiones y les corra el término, a partir de su recepción oficial.
+
+> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+
+Séptimo. Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, podrán acordar los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento. Entre tanto, se atenderán en la Cámara de Diputados conforme a lo dispuesto en su Reglamento.
 
 Octavo. La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
 
@@ -3126,8 +3566,28 @@ Décimo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendr
 
 Décimo Primero. El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
 
-Décimo Segundo. Para atender las reservas presentadas, así como las observaciones y propuestas de modificación que presenten los grupos parlamentarios a la Mesa Directiva de la Cámara de Diputados hasta el lunes 20 de diciembre de 2010, se acuerda la conformación de un Grupo de Trabajo coordinado por la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, el cual se encargará, durante los meses de enero y febrero de 2011, de hacer el análisis de dichos documentos, de consensar y presentar ante el Pleno las reformas pertinentes a más tardar a la conclusión del segundo periodo ordinario de sesiones del segundo año de ejercicio de la LXI Legislatura, a efecto de que a partir del 1o. de septiembre de 2011 el presente cuerpo normativo sea aplicado en plenitud.
+Décimo Segundo. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
 
-Décimo Tercero. Los artículos 89, 95, 105, 139, numeral 1, fracción III, 142, 175, 184, numeral 1 y 239 del presente Reglamento, relativos a la preclusión de la facultad de dictaminación de las comisiones ordinarias por vencimiento de plazo, entrarán en vigor a partir del 1o. de enero de 2011.
+Décimo Tercero. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
 
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE ABRIL DE 2011.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Decreto tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
+
+Tercero. A efecto de cumplir con lo dispuesto por el artículo 60, numeral 3 y Quinto Transitorio del Decreto por el que se expide el Reglamento de la Cámara de Diputados, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2010, deberá realizarse la previsión presupuestal necesaria, para incluirla en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal del 2012.
+
+Cuarto. La Mesa Directiva instrumentará a través de la Secretaría de Servicios Parlamentarios la debida actualización del portal electrónico de la Gaceta, a efecto de dar cumplimiento a lo establecido en el artículo 239, dentro de los treinta días posteriores de la entrada en vigor del presente Decreto.
+
+Quinto. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, en apoyo de la Mesa y la Junta, coadyuvará en el cumplimiento de los procesos señalados en el Reglamento.
+
+Sexto. Para la organización y funcionamiento del Comité de Administración, se estará a lo dispuesto en su Acuerdo de creación, como lo refiere el artículo 46, numeral 3 de la Ley, sin perjuicio de las atribuciones y obligaciones que el Reglamento de la Cámara de Diputados le otorga.
+
+Séptimo. Corresponderá a la Junta con el auxilio del Comité de Administración, analizar las normas del Reglamento de la Cámara de Diputados que conlleven un impacto presupuestal a efecto de instrumentarlas y en su caso, considerar la partida correspondiente para su incorporación en el Proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012.
+
+Octavo. La Cámara de Diputados a través de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, deberá revisar el Estatuto durante la presente Legislatura para que se formulen las adecuaciones correspondientes que armonicen su texto con la Ley y el Reglamento, a fin de emitir una opinión con el Proyecto de reformas, para presentarlo a la Conferencia.
