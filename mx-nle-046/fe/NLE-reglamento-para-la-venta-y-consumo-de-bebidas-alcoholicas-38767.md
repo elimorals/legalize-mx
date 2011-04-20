@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-38767
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2005-12-22"
+last_updated: "2011-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -1285,9 +1285,13 @@ En caso de reincidencia de las infracciones establecidas en el artículo anterio
 
 I. En el caso del numeral 1 se aplicará sanción de clausura y se duplicará el monto de la multa impuesta previamente.
 
-II. En las infracciones establecidas en los numerales 15 y 24, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por tres días. En caso de incurrir nuevamente en la violación se aplicará una multa igual que la anterior y se clausurará en forma definitiva el establecimiento.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2011)</small>
 
-III. En las infracciones establecidas en los numerales 4, 17, 25, 39, 40, 41, 42, 43, 44 y 69 se duplicará el monto de la multa impuesta previamente.
+II. En la infracción establecida en el numeral 15, se duplicará el monto de la multa impuesta previamente y se suspenderá la licencia por tres días. En caso de incurrir nuevamente en la violación se aplicará una multa igual que la anterior y se clausurará en forma definitiva el establecimiento.
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2011)</small>
+
+III. En las infracciones establecidas en los numerales 4, 17, 39, 40, 41, 42, 43, 44 y 69 se duplicará el monto de la multa impuesta previamente.
 
 (F. DE. E., P.O. 28 DE ABRIL DE 2004)
 
@@ -1340,6 +1344,10 @@ II. Cuando el establecimiento opere en un lugar distinto al autorizado en la lic
 III. Cuando el establecimiento opere un giro distinto al autorizado en la licencia.
 
 IV. Cuando el establecimiento opere con una licencia que no le corresponde en su titular o en su ubicación.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2011)</small>
+
+V. Cuando el establecimiento opere fuera del horario establecido en este Reglamento.
 
 Antes de proceder a la clausura inmediata se otorgará a la persona con la que se realiza la diligencia un lapso de hasta diez minutos como derecho de audiencia, en dicho lapso podrá presentar documentos o alegar lo que a su derecho convenga, lo que se hará constar en el acta. Después de dicho lapso, si las razones esgrimidas o los documentos mostrados no desvirtúan la infracción cometida se procederá en el acto a ejecutar la clausura inmediata.
 
@@ -1412,6 +1420,10 @@ XI. Cuando los establecimientos indicados en el Artículo 13 incisos F), G) y H)
 XII. Se realicen juegos o apuestas prohibidas por la ley o sin permiso de la autoridad competente.
 
 XIII. Cuando se viole el estado de clausura temporal o se quebranten los sellos o símbolos de clausura temporal.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2011)</small>
+
+XIV. Cuando el establecimiento opere fuera del horario establecido en este Reglamento.
 
 ###### ARTÍCULO 80.
 
@@ -1684,3 +1696,9 @@ PRIMERO.- Las presentes modificaciones al Reglamento para la Venta y Consumo de 
 SEGUNDO.- A Partir de la entrada en vigor de las modificaciones al presente Reglamento, los dueños de los establecimientos dedicados a la venta y/o consumo de bebidas alcohólicas, deberán de abstenerse de fijar cualquier promoción o publicidad de bebidas alcohólicas, en el exterior de los establecimientos; en contravención de lo establecido a través de la presente modificación al Reglamento que nos ocupa.
 
 TERCERO.- Publíquense las presentes modificaciones al Reglamento para la Venta y Consumo de Bebidas Alcohólicas para el Municipio de San Nicolás de los Garza, Nuevo León en la Gaceta Municipal para su debida difusión y en el portal electrónico de Internet del Municipio, para el cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
+
+P.O. 20 DE ABRIL DE 2011.
+
+PRIMERO: La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los procedimientos iniciados antes de la entrada en vigor de la presente reforma se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad que se impugna.
