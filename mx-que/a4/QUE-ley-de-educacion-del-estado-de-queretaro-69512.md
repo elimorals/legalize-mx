@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2010-11-12"
+last_updated: "2011-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -67,7 +67,9 @@ La función educativa de las universidades y demás instituciones de educación 
 
 La educación que imparta el Estado, los municipios, los organismos descentralizados y los particulares, con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos y modalidades, se ajustará a lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en el artículo 4. (sic) de la Constitución Política del Estado de Querétaro, la Ley General de Educación, en esta Ley y en los reglamentos y normas que de ella emanen.
 
-El criterio que orientará a la educación que se imparta en la Entidad, se basará en los resultados del progreso científico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación. Además:
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2011)</small>
+
+El criterio que orientará a la educación que se imparte en la Entidad, se basará en los resultados del progreso científico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación. Asimismo, difundirá los derechos de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos. Además:
 
 I. Será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico social y cultural del pueblo;
 
@@ -391,9 +393,13 @@ XII. Conceder reconocimientos y distinciones a quienes contribuyan a la consecuc
 
 XIII. Prestar servicios educativos para atender a discapacitados y educandos con capacidad y aptitudes sobresalientes, para quienes, además, se promoverán procedimientos y planteles que permitan la acreditación de grados y niveles educativos, tomando como base su madurez y conocimientos adquiridos;
 
-XIV. Atender, detectar y dar tratamiento a educandos con problemas conductuales y de bajo rendimiento escolar o cognitivo, a través de psicólogos permanentes en los planteles escolares; y
+XIV. Atender, detectar y dar tratamiento a educandos con problemas conductuales y de bajo rendimiento escolar o cognitivo, a través de psicólogos permanentes en los plante les escolares; y (sic)
 
-XV. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en el artículo anterior.
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2011)</small>
+
+XV. Efectuar programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento; y
+
+XVI. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en el artículo anterior.
 
 ## Título Quinto. Del proceso educativo
 
@@ -962,3 +968,9 @@ P.O. 12 DE NOVIEMBRE DE 2010.
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 22 DE ABRIL DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
