@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2010-11-12"
+last_updated: "2011-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,25 @@ state: "QUE"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERNO DE FUNCIONAMIENTO Y OPERACION DEL PARQUE INDUSTRIAL CHICHIMECO
+LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2011.
 
-Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de julio de 2003.
+Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
-REGLAMENTO INTERNO DE FUNCIONAMIENTO Y OPERACION DEL PARQUE INDUSTRIAL CHICHIMECO
+LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Querétaro, a los habitantes del mismo, sabed que:
+
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+
+CONSIDERANDO.
+
+Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
+
+LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
 ## Título Primero. Disposiciones generales
 
-### CAPITULO I. De las Disposiciones Generales
+### Capítulo Único. Naturaleza y objeto
 
 ###### Artículo 1º.
 
@@ -151,7 +159,9 @@ La función educativa de las universidades y demás instituciones de educación 
 
 La educación que imparta el Estado, los municipios, los organismos descentralizados y los particulares, con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos y modalidades, se ajustará a lo establecido en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en el artículo 4. (sic) de la Constitución Política del Estado de Querétaro, la Ley General de Educación, en esta Ley y en los reglamentos y normas que de ella emanen.
 
-El criterio que orientará a la educación que se imparta en la Entidad, se basará en los resultados del progreso científico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación. Además:
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2011)</small>
+
+El criterio que orientará a la educación que se imparte en la Entidad, se basará en los resultados del progreso científico, combatirá la ignorancia en sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos y la discriminación. Asimismo, difundirá los derechos de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos. Además:
 
 I. Será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico social y cultural del pueblo;
 
@@ -159,7 +169,11 @@ II. Será nacional, sin hostilidades ni exclusivismos atenderá a la comprensió
 
 III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio para la dignidad de la persona e integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres y mujeres, evitando los privilegios de razas, religión, grupos, sexos o de individuos;
 
-IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los cuales el educando y la ciudadanía construyan valores, adquieran conocimientos, aptitudes y habilidades, orientados a la prevención de problemas ambientales para garantizar una sana calidad de vida y el desarrollo sustentable de los recursos del país y de nuestro Estado.
+IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los cuales el educando y la ciudadanía construyan valores, adquieran conocimientos, aptitudes y habilidades, orientados a la prevención de problemas ambientales para garantizar una sana calidad de vida y el desarrollo sustentable de los recursos del país y de nuestro Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+V. Promoverá la incorporación de hábitos alimenticios sanos, la actividad física y la práctica de ejercicio, como medios para que los educandos accedan a un adecuado desarrollo físico y social.
 
 ###### Artículo 5.
 
@@ -185,29 +199,53 @@ La educación que imparta el Estado, sus municipios y los organismos descentrali
 
 ###### Artículo 10.
 
-El proyecto urbanístico del Parque no está diseñado para usar las vialidades como estacionamientos, por lo que cada proyecto arquitectónico de edificación debe contemplar áreas de estacionamiento de vehículos de carga, empleados y visitantes, de acuerdo a las especificaciones siguientes:
+La educación que imparta el Estado y sus municipios será gratuita y las donaciones que se destinen a ella, en ningún caso se entenderán como contraprestaciones.
 
-I.- 1 cajón de estacionamiento por cada 200 m2 de área de almacenamiento,
-
-II.- 1 cajón de estacionamiento por cada 159 m2 de área de producción,
-
-III.- 1 cajón de estacionamiento por cada 50 m2 de área de oficinas, y
-
-IV.- 1 cajón de estacionamiento de trailers por cada 1,000 m2 de nave o edificio industrial y deberá estar totalmente contenido dentro del predio y sin invadir la franja frontal que debe existir entre el edificio y la calle o avenida.
-
-Todas las áreas para estacionamiento deberán ser pavimentadas y tendrán en su superficie una pendiente adecuada para el desalojo de las aguas pluviales, así como guarniciones de protección.
+Todas las aportaciones que acuerden los padres de familia de cada plantel, tendrán siempre el carácter de voluntarias, por lo que no podrá aplicarse sanción alguna para los educandos que no las cubran, ni podrá restringirse por esta causa el derecho a la educación.
 
 ###### Artículo 11.
 
-Se emplearán señalamientos preventivos de piso para seguridad de los usuarios del Parque tanto en la vialidad como en las entradas vehiculares de cada predio, empleando colores reglamentarios, blanco y amarillo.
+La educación que se imparta en la Entidad, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, tendrá los siguientes:
+
+I. Contribuir al desarrollo integral del individuo para que ejerza plenamente sus capacidades;
+
+II. Favorecer el desarrollo de facultades para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica;
+
+III. Fortalecer la identidad nacional, la conciencia de la soberanía, el respeto por la historia, los símbolos patrios y las instituciones nacionales, realizando, entre otras acciones, honores a la bandera y conmemoraciones cívicas, así como la valoración y promoción de las tradiciones y particularidades culturales de las diversas regiones, comunidades y pueblos indígenas del Estado;
+
+IV. Promover el español como idioma común a los mexicanos, acorde a la enseñanza nacional, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas, implementando la educación bilingüe bicultural en los planteles que impartan educación básica en las diversas regiones, comunidades y pueblos indígenas de la Entidad;
+
+V. Infundir el conocimiento y la práctica de la democracia, como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad, fomentar la cultura de la transparencia y rendición de cuentas, así como el derecho de acceso a la información;
+
+VI. Promover, a través de cursos u otras actividades, los valores de la justicia, la ética social, la observancia de la ley, la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos, para el desarrollo de una cultura de paz, de no violencia y no discriminación, en cualquiera de sus manifestaciones;
+
+VII. Fomentar actividades que estimulen la investigación tecnológica, humanística y la innovación científica;
+
+VIII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal y, en especial, de aquellos que constituyen el patrimonio cultural de la nación y del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+IX. Desarrollar actitudes solidarias entre los individuos, para crear conciencia sobre la preservación de la salud, la importancia de la sana alimentación, la actividad física y la práctica de ejercicio como medios para el adecuado desarrollo; el respeto a la vida como valor fundamental de la persona; la planeación familiar y el ejercicio responsable de la paternidad, sin menoscabo de la libertad y el respeto absoluto de la dignidad humana, así como el rechazo a los vicios, adicciones y a todo tipo de discriminación;
+
+X. Hacer conciencia de la necesidad del cuidado y la protección de los animales; del aprovechamiento racional de los recursos naturales y del medio ambiente, como elementos indispensables para el desarrollo sustentable de la sociedad;
+
+XI. Fomentar actitudes solidarias hacia la familia, el trabajo, el ahorro y el bienestar general;
+
+XII. Impulsar y estimular en los docentes, padres de familia, encargados de cooperativas escolares y especialmente en los educandos, la adopción de estilos de vida saludables que comprendan el consumo de una dieta correcta y la práctica diaria de actividad física y deporte, como elementos indispensables del desarrollo integral del individuo. Se entenderá por dieta correcta, aquella que es completa, equilibrada, inocua, suficiente, variada y adecuada; y (sic)
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para que en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, se evite la venta o consumo de alimentos con alto valor calórico y bajo o nulo valor nutricional, de acuerdo a los estándares de nutrición que al efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables; y
+
+XIV. Difundir y fomentar el conocimiento y la práctica habitual, en los educandos, de diversas actividades para contribuir al desarrollo de sus capacidades intelectuales y habilidades cognitivas.
 
 ###### Artículo 12.
 
-Al frente del terreno existirá una franja que se empleará principalmente como jardín o estacionamiento según proyecto arquitectónico; en su caso, se sembrarán árboles a cada 5 metros del tipo apropiado a la región, cuidando su conservación y mantenimiento para conservar la buena imagen del Parque la cual quedará a cargo del usuario o empresa ocupante del predio. Toda empresa deberá contar con un área exclusiva para la plantación y cuidado de árboles y vegetación, así como cinturones verdes que sirvan de zonas de amortiguamiento.
+Además de impartir la educación básica, el Estado y sus municipios promoverán y atenderán, mediante sus organismos descentralizados y a través de apoyos u otros medios, todos los tipos y modalidades educativas, incluida la educación media superior y superior, necesarias para el desarrollo del Estado.
 
 ## Título Segundo. De las atribuciones del Estado y de los municipios
 
-### CAPITULO II. Del uso del Suelo y la Protección al Ambiente
+### Capítulo Único. Disposiciones generales
 
 ###### Artículo 5º.
 
@@ -233,25 +271,95 @@ Queda estrictamente prohibida la instalación de industrias que se consideren in
 
 ###### Artículo 13.
 
-Ningún material, equipo, incineradores, tanques, basura, combustibles o suministros de materias primas para la producción de la empresa, quedarán expuestos a la vista del público o usuarios del Parque o la vía pública, en caso de ser necesario se efectuará tras una barrera visual de material pétreo o barrera verde de una altura no menor de 2.40 metros y deberán ser protegidos con áreas verdes, logrando un ambiente agradable. Además deberán de contar con las medidas de seguridad necesarias.
+Corresponden, de manera exclusiva, al Poder Ejecutivo del Estado, por conducto de la Secretaría de Educación, las siguientes atribuciones:
+
+I. Prestar los servicios de educación inicial básica, incluyendo la indígena, especial, así como la normal y demás para la formación de maestros, así como regular la organización y funcionamiento de los planteles educativos que presten dichos servicios;
+
+II. Elaborar los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal, indígena y la correspondiente a la formación de maestros de educación básica, así como también las modificaciones que a dichos contenidos deban llevarse a cabo y proponerlos a la autoridad educativa federal, tomando en consideración la opinión del Consejo Estatal de Participación Social en la Educación;
+
+III. Realizar la distribución oportuna y eficiente de los libros de texto gratuitos y materiales educativos complementarios que sean proporcionados por la autoridad educativa federal;
+
+IV. Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de la educación básica, normal y demás para la formación de maestros, con relación al fijado por la autoridad educativa federal;
+
+V. Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, mediante la creación de un instituto especializado o de los convenios celebrados con la Federación, de conformidad con las disposiciones generales que la Ley General de Educación determine;
+
+VI. Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la autoridad educativa federal expida;
+
+VII. Otorgar, negar y revocar la autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Implementar en los planteles de educación básica, con el auxilio de la Secretaría de Salud del Estado, los mecanismos de participación y colaboración que permitan involucrar a los padres de familia y, en su caso, al sector social, en la toma de estrategias y medidas que propicien en los educandos la adopción de hábitos alimenticios saludables, la actividad física y la práctica del deporte que sean adecuados para cada persona, como medios para combatir los problemas de malnutrición, tales como la desnutrición, el sobrepeso y la obesidad, así como las consecuencias sociales y de salud que derivan de éstos, mediante la información, orientación, capacitación y cualquier otro instrumento de difusión. Asimismo, deberá promover e incentivar la capacitación de los educadores en el tema.
+
+En las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, deberán ofertar alternativas de alimentos saludables que contengan los requerimientos nutricionales que determine la Secretaría de Salud del Estado como estándar para el adecuado crecimiento y desarrollo de los educandos, tomando en consideración la información que en materia alimenticia se proporcione en las instituciones educativas, la que se hará del conocimiento de los alumnos y sus familias.
+
+IX. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y (sic)
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+X. Promover, coordinar, ejecutar y evaluar programas de capacitación, orientación y formación, dirigidos a los padres de familia o tutores, en los centros de educación básica, incluyendo la educación indígena, especial e inicial; y (sic)
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2010)</small>
+
+XI. Fomentar y estimular la cultura física y la práctica del deporte dentro de las instituciones de educación básica, de conformidad con los programas educativos autorizados por la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2010)</small>
+
+XII. Implementar en los planteles de educación básica, programas de prevención de adicciones, dirigidos a los alumnos, que contenga información sobre los efectos nocivos del consumo de sustancias adictivas; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+XIII. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 14.
 
-Las áreas y muelles de carga deberán situarse preferentemente en los laterales del edificio o en su parte posterior, no se permitirán andenes de carga en la fachada principal del edificio que da a la calle o avenida. En aquellos lotes que por sus dimensiones no sea posible cumplir con el requisito anterior se podrá localizar un muelle de carga al frente cuando por necesidad de la empresa sea indispensable. Su construcción será aprobada por la Gerencia General del Fideicomiso, con la justificación y presentación del proyecto arquitectónico correspondiente.
+Son facultades concurrentes de la autoridad educativa del Estado, con la autoridad educativa federal, las siguientes:
+
+I. Promover y prestar los servicios educativos, así como elaborar los programas de estudio distintos a los previstos en las fracciones II y III del artículo 13 de esta Ley, de acuerdo a las necesidades nacionales, regionales y estatales;
+
+II. Revalidar y otorgar equivalencias de estudio distintos de los mencionados en la fracción VI del artículo 13 de esta Ley, de acuerdo con los lineamientos generales que expida la autoridad educativa federal;
+
+III. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, que impartan los particulares;
+
+IV. Editar libros que impulsen la educación bilingüe y bicultural de los pueblos indígenas y producir otros materiales didácticos distintos de los libros de texto gratuitos;
+
+V. Prestar servicios bibliotecarios a fin de apoyar al sistema educativo nacional y a la innovación educativa, así como a la investigación científica, tecnológica y humanística;
+
+VI. Promover permanentemente la investigación que sirva como base para la innovación educativa;
+
+VII. Impulsar el desarrollo de la enseñanza y la investigación científica, tecnológica y humanística;
+
+VIII. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+
+IX. Promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública; y
+
+X. Establecer Consejos de Participación Social en la Educación, en los términos a que se refiere la Ley General de Educación.
+
+Las autoridades educativas del Estado promoverán, con las autoridades federales, la celebración de convenios para la prestación eficaz de los servicios educativos a que se refiere este artículo.
 
 ###### Artículo 15.
 
-Las cercas se emplearán solamente en las colindancias del terreno con las propiedades vecinas, conservando las distancias marcadas en este Reglamento, al frente se alinearán de acuerdo a lo establecido en el Artículo 7° Fracción III y las alturas, materiales y colores serán a criterio del arquitecto o diseñador.
+Los ayuntamientos de los municipios que integran el Estado, sin perjuicio de la concurrencia de las autoridades educativas federal y estatal, podrán:
 
-En las bardas, se recomienda el empleo de materiales permanentes, principalmente mampostería, según el criterio arquitectónico bajo el cual se proyectó el edificio o materiales innovadores de alta calidad.
+I. Promover y prestar servicios educativos de cualquier tipo o modalidad, previo convenio con la autoridad educativa estatal y de conformidad con sus propios recursos;
 
-En los laterales se podrá usar malla ciclón con una cortina de árboles o arbustos siempre verdes, muros de block aparente o mampostería de buena calidad.
+II. Editar libros que impulsen la educación bilingüe y bicultural de los pueblos indígenas y producir otros materiales didácticos distintos a los libros de texto gratuitos;
 
-No se permite el uso de lámina, madera, concreto simple, alambre de púas o cualquier material improvisado que represente mal uso o mala imagen para la industria y para el Parque.
+III. Prestar servicios bibliotecarios a fin de apoyar al sistema educativo nacional, la innovación educativa, así como la investigación científica, tecnológica y humanística;
+
+IV. Promover permanentemente la investigación que sirva como base para la innovación educativa;
+
+V. Impulsar el desarrollo de la enseñanza e investigación científica, tecnológica y humanística;
+
+VI. Dar mantenimiento y proveer de equipo necesario a las escuelas públicas;
+
+VII. Integrar el Consejo Municipal de Participación Social en la Educación, que contribuya a elevar la calidad y cobertura de la educación; y
+
+VIII. Coadyuvar en la implementación de la educación indígena, en aquellos casos donde existan pueblos y comunidades con esta característica.
 
 ## Título Tercero. Del sistema educativo estatal
 
-### CAPITULO III. De la Calidad de la Estética Urbana
+### Capítulo Primero. De los servicios educativos
 
 ###### Artículo 7º.
 
@@ -313,95 +421,157 @@ El lote 1 de la Manzana 2 por su carácter de Módulo de Micro Industria y para 
 
 ###### Artículo 16.
 
-Por seguridad y Reglamento, las subestaciones se ubicarán adyacentes a la construcción, serán del tipo pedestal para una tensión de suministro de 34,500 voltios y se protegerán adecuadamente según especificaciones de Comisión Federal de Electricidad, empleando cortinas visuales de diseño arquitectónico para ocultarlas.
+La educación que imparta el Estado, sus municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público.
 
-No se permiten subestaciones eléctricas o de gas al frente de la construcción ni dentro de la franja al frente del terreno definida de acuerdo al Artículo 7° Fracción III.
+Son los elementos fundamentales del sistema educativo estatal los siguientes:
 
-Las acometidas eléctricas o telefónicas cumplirán con las disposiciones de Comisión Federal de Electricidad y Teléfonos de México procurando conservar la estética del edificio industrial.
+I. Los educandos;
+
+II. Los educadores;
+
+III. Las autoridades educativas;
+
+IV. Los planes, programas, métodos y materiales educativos;
+
+V. Las instituciones educativas del Estado, de los municipios y sus respectivos organismos descentralizados;
+
+VI. Las instituciones particulares con autorización o con reconocimiento de validez oficial de estudios; y
+
+VII. Las instituciones de educación superior a las que la ley otorga autonomía.
+
+Las instituciones del sistema educativo estatal, impartirán educación de manera que permitan al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva que permita estudiar al trabajador.
 
 ###### Artículo 17.
 
-Los anuncios o identificaciones de la empresa, deberán localizarse sobre la franja al frente del terreno definida de acuerdo al Artículo 7 Fracción III para identificar a la industria ocupante, el diseño, dimensiones y ubicación deberán ser aprobados por la Gerencia General del Fideicomiso.
-
-Las medidas recomendables son 1.20 metros de altura por 3.00 metros de largo, en éste se incluye el nombre de la compañía, cubriendo no más del 50% de la superficie por las letras y logotipo.
-
-Las letras serán de colores apropiados con el nombre de la empresa y colocadas a una altura acorde a la construcción, diseñadas y construidas con materiales permanentes.
-
-No se permite ningún anuncio sobre las fachadas o techumbres del edificio; tampoco se permiten anuncios temporales o que no cumplan las citadas especificaciones, en caso necesario, sólo se permitirá a los anuncios temporales una duración máxima de 30 días, después de los cuales, serán removidos del lugar, teniendo facultades el Gerente General del Fideicomiso para ordenar su retiro.
+La Secretaría de Educación del Estado de Querétaro organizará y vigilará el funcionamiento del sistema educativo estatal, en coordinación con los ayuntamientos, de conformidad con el reglamento que al efecto expida el Gobernador del Estado.
 
 ###### Artículo 18.
 
-Con el fin de asegurar a los usuarios del Parque una adecuada iluminación de éste, y como complemento del alumbrado público de las vialidades y mejoramiento del Parque, las industrias allí establecidas, deberán instalar iluminación adecuada en la fachada de su edificio, accesos, estacionamiento y andenes.
+El sistema educativo estatal es un instrumento de organización, estructuración, coordinación, administración y evaluación de los servicios educativos que se prestan en el Estado, sean públicos o privados, cualquiera que sea su tipo y su modalidad.
 
 ###### Artículo 19.
 
-La altura máxima de las luminarias será de 12.00 metros y serán mantenidas en buenas condiciones de operación y con nivel lumínico apropiado.
+El establecimiento de instituciones educativas que realice el Poder Ejecutivo del Estado, por conducto de las dependencias de la administración pública estatal, así como la formalización de planes y programas de estudio para dichas instituciones, se harán en coordinación y bajo los lineamientos que determine la autoridad educativa estatal. Dichas dependencias expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados, salvo el caso de los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, los cuales serán formulados por la autoridad educativa federal.
 
 ###### Artículo 20.
 
-El Gerente General, en colaboración con las autoridades competentes y de conformidad con lo establecido por la Ley de Protección Ambiental para el Estado de Aguascalientes, cuidará que los olores, ruidos, humos o desechos industriales que emitan las diversas industrias establecidas en el Parque, no rebasen los límites permitidos por dicha Ley y sus reglamentos y normas, y convendrá lo necesario con las autoridades municipales para retirar la basura y los residuos clasificados como no peligrosos aceptables.
+El docente es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios que contribuyan a su constante capacitación y perfeccionamiento. Para ejercer la docencia en instituciones establecidas por el Estado y por los municipios, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, deberán satisfacer los requisitos que señalen las leyes, reglamentos y demás disposiciones relativas.
+
+Se otorgará un salario para que los educadores de los planteles del Estado y de sus organismos descentralizados alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de una vivienda digna, a fin de que puedan disponer del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
+
+Las autoridades educativas del Estado y de los municipios, establecerán mecanismos que propicien la permanencia de los docentes frente a grupo y otorgarán reconocimientos, distinciones, estímulos o recompensas a los que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio.
 
 ###### Artículo 21.
 
-Las entidades y dependencias normativas competentes regularán la recepción de aguas en la red sanitaria y emisiones contaminantes en todas sus formas, por lo que el funcionamiento de la empresa deberá apegarse a lo que dictaminen estas entidades. Para el efecto, cada empresa está obligada a realizar sus descargas a la red sanitaria, con características físicoquímicas y bacteriológicas dentro de los límites estipulados, instalando de ser necesario, sistemas de tratamiento adecuados, con el fin de no rebasar los límites máximos permisibles según la norma NOM-002-ECOL-1996, mismos que sancionarán las entidades mencionadas. Es obligación de las empresas realizar análisis técnicos de la calidad y volumen de descarga de sus aguas residuales de acuerdo a la normatividad establecida y reportar sus resultados a este Fideicomiso con la periodicidad que se les indique. Asimismo deben conservar por lo menos durante tres años dichos registros para verificación de las autoridades competentes. El Fideicomiso verificará la calidad de las descargas de aguas residuales con la regularidad que considere pertinente y tomará las acciones correspondientes de acuerdo a la normatividad vigente. El responsable de la descarga, queda obligado a informar al Fideicomiso de cualquier cambio en sus procesos productivos o actividades, cuando con ello modifique la calidad o el volumen del agua residual que le fueron autorizados.
+Corresponde a la autoridad educativa del Estado, constituir un sistema estatal de formación, actualización, capacitación y superación profesional para docentes. Tratándose de educación básica, se apegarán a los lineamientos generales que emita la autoridad educativa federal, cuyas finalidades se ajustarán a lo dispuesto en la Ley General de Educación.
 
 ###### Artículo 22.
 
-Con el propósito de lograr una armonía entre la arquitectura industrial y el diseño urbanístico del Parque, y cuidar el aspecto exterior de las edificaciones industriales, se establecen estas normas como apoyo a la creatividad e innovación arquitectónica de los proyectistas que buscan una expresión individual y equilibrio con el medio ambiente y entorno del Parque.
+Las autoridades educativas del Estado revisarán permanentemente las disposiciones, los trámites y los procedimientos, con objeto de simplificarlos y reducir las cargas administrativas de los docentes, a fin de alcanzar más horas efectivas de clase.
+
+En las actividades de supervisión, las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás, para el adecuado desempeño de la función docente.
 
 ###### Artículo 23.
 
-Los materiales serán durables, preferentemente mampostería, las estructuras diseñadas con ingeniería de calidad, los materiales innovadores serán aceptados bajo un uso racional y con la calidad adecuada, siendo seleccionados con base a los correspondientes estudios de mecánica de suelos.
+Los beneficiados directamente por los servicios educativos deberán prestar su servicio social, en los casos y términos que señalen las leyes que regulen el ejercicio profesional y otras disposiciones aplicables. En éstas, se señalará la prestación del servicio social como requisito previo e indispensable para obtener título o grado académico.
 
 ###### Artículo 24.
 
-La altura de los edificios y toda la estructura, está limitada a un máximo de 10.00 metros ó 3 pisos, salvo en casos específicos o por necesidades de la empresa serán analizadas por la Gerencia.
+Las instituciones del sistema educativo estatal expedirán certificados y otorgarán constancias, diplomas, título o grados académicos a las personas que hayan concluido sus estudios, de conformidad con los requisitos establecidos en los programas de estudio correspondientes.
 
-### CAPITULO IV. De las normas de sanidad
+### Capítulo Segundo. Del financiamiento de la educación
 
 ###### Artículo 25.
 
-Las azoteas, así como las áreas abiertas pavimentadas deberán construirse con las pendientes suficientes para los escurrimientos pluviales y deberán conducirse, por medio de bajadas y drenajes pluviales directamente al drenaje pluvial del Parque, y en ningún caso se conectarán al drenaje sanitario.
+El Poder Ejecutivo del Estado, con sujeción a las correspondientes disposiciones de ingresos y gasto público que resulten aplicables, concurrirá al financiamiento de la educación pública.
+
+Los recursos federales recibidos para ese fin por el Poder Ejecutivo del Estado y las aportaciones que hagan los particulares, no podrán ser transferidos y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia Entidad.
+
+El Poder Ejecutivo del Estado prestará todas las facilidades y colaboración para que, en su caso, el Poder Ejecutivo Federal verifique la correcta aplicación de dichos recursos.
+
+El Poder Ejecutivo del Estado, de conformidad con las disposiciones aplicables, proveerá lo conducente para que el ayuntamiento de cada municipio reciba recursos para el cumplimiento de las responsabilidades que estén a su cargo. Éstos también tendrán el carácter de intransferibles.
+
+En caso de que tales recursos se empleen para fines distintos, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, sin perjuicio de la responsabilidad civil o penal que resulte.
 
 ###### Artículo 26.
 
-El plazo máximo para iniciar la construcción de la nave industrial, será de seis meses contados a partir de la firma del contrato de compra venta y de dieciocho meses más para concluirla, de no dar cumplimiento a esta disposición se rescindirá el contrato de compraventa y el lote quedará a disposición del Fideicomiso para su venta. Toda obra de edificación deberá ser planeada para terminarla dentro del plazo señalado, las construcciones no deben dejarse parcialmente terminadas, o dejar expuestas las excavaciones por lo que deberán retornarse al estado natural del sitio.
+En cumplimiento a lo dispuesto en el artículo anterior, el Poder Ejecutivo del Estado tomará en cuenta el carácter prioritario de la educación pública para los fines del desarrollo estatal.
+
+En todo tiempo, procurará fortalecer las fuentes de financiamiento y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
 
 ###### Artículo 27.
 
-No se permitirán construcciones o ampliaciones provisionales que incumplan con lo establecido en este Reglamento, las construcciones deberán ser proyectadas con la flexibilidad suficiente para permitir un crecimiento modular y conservar el mismo estilo arquitectónico y estético.
+Son de interés social las inversiones que en materia educativa realicen el Estado, los municipios, sus organismos descentralizados y los particulares.
 
-### CAPITULO V. De las Características de la Construcción
+### Capítulo Tercero. De la evaluación del sistema educativo
 
 ###### Artículo 28.
 
-Todo proyecto, construcción, ampliación o remodelación será previamente aprobado desde sus planos por la Gerencia, independientemente de dar cumplimiento a las disposiciones de las entidades normativas para la obtención de sus permisos y licencias de construcción. Todo inicio de obra o actividad estará condicionada a la presentación de un Informe Preventivo y/o Manifiesto de Impacto Ambiental aprobada por la autoridad ecológica respectiva, con fundamento en lo establecido en el Capítulo IV de la Ley de Protección Ambiental para el Estado de Aguascalientes; será sancionada cualquier obra o actividad que realice la empresa sin contar con la autorización de la autoridad respectiva en materia de impacto ambiental. Las edificaciones del Parque podrán usar cualquier color y tonos, excepto los colores brillantes en demasía.
+Corresponde al Poder Ejecutivo del Estado, a través de la Secretaría de Educación del Estado, la evaluación del sistema educativo en la Entidad.
+
+Dicha evaluación será sistemática y permanente; sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes para mantener y mejorar el sistema.
 
 ###### Artículo 29.
 
-Cada empresa contará con la seguridad e instalaciones adecuadas contra incendios para su beneficio y reducción de primas de seguro, y deberá incluir en su proyecto una red contra incendios, gabinetes, tomas siamesas y extinguidores localizados estratégicamente según los requerimientos de las autoridades y Reglamentos vigentes en la localidad y los contemplados en la NOM-002-STPS-1999.
+Las instituciones educativas establecidas por el Estado, sus municipios, los organismos descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que este Capítulo se refiere, en los términos que marca la Ley General de Educación.
+
+Dichas instituciones están obligadas a aportar a la Secretaría de Educación del Estado de Querétaro, la información y documentación que les sea requerida para verificar el cumplimiento de las normas pedagógicas, contenidos, planes, programas de estudio y métodos aprobados; asimismo, se sujetarán a los procesos de supervisión y vigilancia que se establezcan en el reglamento correspondiente, con excepción de las instituciones públicas que, conforme a la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se les hubiere otorgado autonomía.
 
 ###### Artículo 30.
 
-El Fideicomiso no será responsable por ningún daño, pérdida o perjuicio a interesados directos o indirectos, respecto a la aprobación o desaprobación de los planos, plazos y calendarios de obra, especificaciones de proyecto, construcción de obra o la aplicación de sanciones sobre la base del presente Reglamento y la legislación aplicable.
+La autoridad educativa estatal, en un plazo de noventa días, contados a partir de la conclusión de los correspondientes cursos de cada nivel educativo, dará a conocer a los docentes, alumnos, padres de familia, tutores y sociedad, en general, los resultados de las evaluaciones que realice, así como la información global que permita medir el desarrollo y los avances de la educación en la Entidad.
 
 ###### Artículo 31.
 
-Todas las operaciones y actividades realizadas dentro del Parque, estarán sujetas a las leyes y Reglamentos vigentes de orden federal, estatal y municipal aplicables.
+Cuando los resultados de la evaluación académica sean negativos en más de tres ciclos escolares consecutivos por parte de las instituciones privadas con autorización o con reconocimiento de validez oficial de estudios, tal circunstancia será causa de revocación de la autorización o retiro del reconocimiento correspondiente.
 
 ## Título Cuarto. De la equidad de la educación
 
-### CAPITULO V (SIC). De la Responsabilidad
+### Capítulo Único. De la equidad educativa
 
 ###### Artículo 32.
 
-Toda persona o compañía que opere dentro del Parque y que sus instalaciones causen daño a otras propiedades, vías públicas, mobiliario urbano y servicios comunes, deberán reparar por su cuenta y riesgo los perjuicios causados al Parque o propiedad ajena, en un plazo no mayor de 15 días, sin necesidad de recurrir a los procedimiento (sic) de obligación por la vía legal.
+Las autoridades del Estado y de los municipios, tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo y una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos.
+
+Dichas medidas estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja.
 
 ###### Artículo 33.
 
-Toda controversia derivada de la aplicación del presente Reglamento, se someterá a la jurisdicción de las autoridades competentes del Estado de Aguascalientes.
+Para cumplir lo dispuesto en el artículo anterior, las autoridades educativas del Estado, en el ámbito de su respectiva competencia, llevarán a cabo las actividades siguientes:
 
-T R A N S I T O R I O S :
+I. Atender de manera especial a escuelas en las que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones;
+
+II. Desarrollar programas de apoyo a docentes que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar su arraigo en éstas;
+
+III. Promover centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y escuelas que impartan la educación bilingüe y bicultural, así como demás planteles que apoyen en forma continua y estable el aprendizaje y aprovechamiento de los alumnos;
+
+IV. Prestar servicios educativos para atender a quienes abandonen el sistema regular, facilitándoles la terminación del preescolar, la primaria y la secundaria;
+
+V. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos;
+
+VI. Establecer sistemas de educación a distancia;
+
+VII. Realizar campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar a la población, tales como programas de alfabetización y de educación comunitaria;
+
+VIII. Desarrollar programas para otorgar becas y demás apoyos asistenciales y económicos al educando;
+
+IX. Efectuar programas permanentes dirigidos a los padres de familia o tutores, que les permitan dar mejor atención a sus hijos o pupilos;
+
+X. Otorgar estímulos a las asociaciones civiles y a las cooperativas de docentes o padres de familia que se dediquen a la enseñanza;
+
+XI. Promover una mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
+
+XII. Conceder reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior;
+
+XIII. Prestar servicios educativos para atender a discapacitados y educandos con capacidad y aptitudes sobresalientes, para quienes, además, se promoverán procedimientos y planteles que permitan la acreditación de grados y niveles educativos, tomando como base su madurez y conocimientos adquiridos;
+
+XIV. Atender, detectar y dar tratamiento a educandos con problemas conductuales y de bajo rendimiento escolar o cognitivo, a través de psicólogos permanentes en los plante les escolares; y (sic)
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2011)</small>
+
+XV. Efectuar programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento; y
+
+XVI. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en el artículo anterior.
 
 ## Título Quinto. Del proceso educativo
 
@@ -464,6 +634,12 @@ Gerente General Fideicomiso Desarrollos Industriales de Aguascalientes
 ###### Artículo 36.
 
 En la impartición de la educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad, así como que la aplicación de la disciplina escolar sea compatible con la edad del niño.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 36 Bis.
+
+A efecto de asegurar la protección y el cuidado de la salud de los educandos menores de edad, queda prohibida, en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, la venta de alimentos o bebidas que contengan alto contenido calórico y bajo o nulo valor nutricional que no cumplan con los estándares de nutrición que para el efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables.
 
 ###### Artículo 37.
 
@@ -759,17 +935,21 @@ VI. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan 
 
 VII. Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo distintos de alimentos;
 
-VIII. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-IX. Ocultar a los padres o tutores las conductas de los alumnos que deban ser de su conocimiento;
+VIII. Permitir que en las cooperativas escolares y espacios comerciales de las escuelas que impartan educación básica en el Estado, se vendan alimentos o bebidas que contengan un alto valor calórico y bajo o nulo valor nutricional, que no cumplan con los estándares de nutrición, establecidos por la Secretaría de Salud del Estado y las disposiciones federales aplicables;
 
-X. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como a proporcionar información veraz y oportuna;
+IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
-XI. Ostentarse como plantel incorporado a cualquier autoridad educativa, sin estarlo;
+X. Ocultar a los padres o tutores las conductas de los alumnos que deban ser de su conocimiento;
 
-XII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+XI. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como a proporcionar información veraz y oportuna;
 
-XIII. Incumplir cualquiera de los demás preceptos de esta Ley y otras disposiciones que deriven de ella.
+XII. Ostentarse como plantel incorporado a cualquier autoridad educativa, sin estarlo;
+
+XIII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+
+XIV. Incumplir cualquiera de los demás preceptos de esta Ley y otras disposiciones que deriven de ella.
 
 ###### Artículo 67.
 
@@ -968,3 +1148,15 @@ Artículo único. La presente Ley entrará en vigor el día siguiente al de su p
 P.O. 9 DE JULIO DE 2010.
 
 Artículo Único.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 22 DE ABRIL DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
