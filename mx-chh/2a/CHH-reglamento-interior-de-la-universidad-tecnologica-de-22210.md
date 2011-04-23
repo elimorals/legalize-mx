@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-universidad-tecnologica-de-22210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-17"
-last_updated: "2001-02-17"
+last_updated: "2011-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2011.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2001.
 
@@ -83,7 +83,9 @@ La Universidad tiene por objeto:
 
 I. Impartir educación tecnológica y realizar investigaciones que contribuyan al mejoramiento y eficiencia de la producción industrial y de servicios del Estado;
 
-II. Formar técnicos superiores universitarios aptos para la aplicación de conocimientos en la solución creativa de problemas con un sentido de innovación y para la incorporación de avances científicos y tecnológicos al proceso productivo y de servicios;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2011)</small>
+
+II. Formar técnicos superiores universitarios e ingenieros aptos para la aplicación de conocimientos en la solución creativa de problemas con un sentido de innovación y para la incorporación de avances científicos y tecnológicos al proceso productivo y de servicios;
 
 III. Desarrollar estudios y proyectos que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y eficiencia de la producción industrial y de la prestación de servicios, y en consecuencia, a la elevación de la calidad de vida de la sociedad;
 
@@ -533,7 +535,9 @@ La Universidad contemplará un proceso de educación continua que estará integr
 
 La Universidad expedirá:
 
-I. A los alumnos que cursen y acrediten las carreras de Técnico Superior que en ella se ofrecen, certificado y título profesional;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2011)</small>
+
+I. A los alumnos que cursen y acrediten las carreras de Técnico Superior y de Ingeniería que en ella se ofrecen, certificado y titulo profesional;
 
 II. A los alumnos que acrediten estudios parciales dentro de los planes y programas de estudio, el diploma y certificado pertinente;
 
@@ -796,3 +800,13 @@ REPRESENTANTE DE LA COPARMEX
 ING. JOSÉ LUIS RODULFO MERCADO
 
 REPRESENTANTE DE AMEAC
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ABRIL DE 2011.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
+
+SEGUNDO: Las autoridades de la Universidad buscarán los mecanismos idóneos que aseguren el conocimiento de este Reglamento a los interesados.
+
+TERCERO: Una vez aprobado por el Consejo el presente Reglamento y publicado en el Periódico Oficial del Estado, deberá procederse a su inscripción en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en el artículo 14 de la Ley de Entidades Paraestatales del Estado de Chihuahua.
