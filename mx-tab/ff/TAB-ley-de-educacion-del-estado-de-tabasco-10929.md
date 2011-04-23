@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2009-10-24"
+last_updated: "2011-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACION DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -789,15 +789,31 @@ IV.- Incorporar los contenidos étnicos regionales en los planes y programas de 
 
 Artículo 88 El Gobierno del Estado, podrá suscribir convenios de coordinación o concertación en materia de educación indígena con las instituciones públicas o privadas que presten servicios educativos, asistenciales o culturales a la población étnica del Estado.
 
-#### Sección IX. DE LA EDUCACIÓN FÍSICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE ABRIL DE 2011)</small>
 
-Artículo 89 La educación física contribuirá al desarrollo armónico del educando cuidando y manteniendo el equilibrio en los ámbitos cognoscitivo, motriz, afectivo y social. Será obligatoria en los niveles de educación básica, en los demás tipos y niveles, la educación física será promovida en asociación con el deporte.
+#### Sección IX
+
+DE LA EDUCACIÓN Y ACTIVACIÓN FÍSICA, Y DE LOS DEPORTES ESCOLARES.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2011)</small>
+
+Artículo 89 La activación y la educación física contribuirán al desarrollo armónico del estudiante cuidando y manteniendo el equilibrio en los ámbitos cognoscitivo, motriz, afectivo y social. Serán obligatorias en los niveles de educación básica, preescolar, primaria y secundaria.
+
+En los demás niveles educativos, la activación y la educación física serán promovidas en coordinación con las autoridades deportivas estatales y municipales.
+
+La activación física es parte del proceso mixto de actividades lúdicas y psicomotrices que ejercitan todas y cada una de las partes constitutivas de nuestro cuerpo, que prevengan enfermedades crónicodegenerativas; oxigenan el cerebro, pulmones y corazón; disminuye el estrés, la ansiedad y la ira; favoreciendo la activación física, además, la socialización y autoestima de los escolares.
 
 Artículo 90 La autoridad educativa estatal a través de la Coordinación de Educación Física de la Secretaría de Educación, será responsable de la aplicación de los programas oficiales de educación física en la educación básica.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2011)</small>
+
+Corresponde a la Autoridad Educativa Estatal, promover los 5 días laborables de la semana, la activación física, según lo norma la autoridad federal correspondiente.
+
 Artículo 91 La educación física que ofrezca el Estado tendrá los siguientes propósitos:
 
-I.- Estimular, desarrollar y conservar la condición física del educando a través de la ejercitación sistemática de las capacidades, disciplina del ejercicio físico, la práctica del predeporte y el deporte;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2011)</small>
+
+I.- Estimular, desarrollar y conservar la salud y la condición física y emocional del educando a través de la activación diaria de sus capacidades psicomotrices, disciplina del ejercicio físico, la práctica del predeporte y de los deportes escolares.
 
 II.- Propiciar la manifestación de habilidades motrices a partir de la práctica de actividades físico-deportivas y recreativas que le permita integrarse e interactuar con los demás;
 
@@ -807,7 +823,11 @@ IV.- Desarrollar actitudes responsables hacia la preservación de la salud, así
 
 V.- Promover la formación y estimular la adquisición de hábitos de higiene diaria, alimentación balanceada, descanso y conservación del medio ambiente; y
 
-VI.- Fomentar las actividades sociales que favorezcan el respeto, la cooperación y la confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
+VI.- Fomentar las actividades sociales que favorezcan el respeto, la cooperación y la confianza en los demás mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2011)</small>
+
+VII.- Garantizar a todo educando el pleno goce del derecho a un Educación Física de calidad, a la activación física diaria que le asegure la salud preventiva y acceso a los deportes escolares.
 
 #### Sección X. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -1460,3 +1480,7 @@ P.O. 24 DE OCTUBRE DE 2009.
 PRIMERO. El presente Decreto entrará en vigor a los tres días de haber sido publicado en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Gobernador del Estado deberá expedir, antes del inicio del ciclo escolar 2010-2011 el Manual de Organización y los Lineamientos del Sistema Tabasqueño de Evaluación Educativa.
+
+P.O. 23 DE ABRIL DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
