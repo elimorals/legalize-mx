@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2009-10-12"
+last_updated: "2011-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -253,11 +253,11 @@ IV.- Los municipios que tengan una población de más de 100,000 habitantes, con
 
 #### SECCIÓN TERCERA. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
 ###### Artículo 17.
 
-Las elecciones ordinarias de Ayuntamientos y Diputados se celebrarán cada tres años y la de Gobernador cada seis, el primer domingo de julio del año que corresponda. Los electos tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
+Las elecciones ordinarias de Ayuntamientos se celebrarán cada cuatro años, la de Diputados cada tres años y la de Gobernador cada seis, el primer domingo de julio del año que corresponda. Los electos tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -3674,3 +3674,13 @@ Cuarto.- El Consejo General del Instituto Estatal Electoral de Hidalgo dictará 
 Quinto.- El Consejo General del Instituto Estatal Electoral de Hidalgo dictará los acuerdos necesarios para establecer los procedimientos para la realización de los recuentos de votos parciales o totales a que se refiere la Ley Electoral del Estado de Hidalgo a más tardar en 120 días a partir de la entrada en vigor del presente Decreto.
 
 Sexto.- Todos los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones vigentes antes de su expedición.
+
+P.O. 25 DE ABRIL DE 2011.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado y entrará en vigor el día diecisiete de enero de 2012.
+
+Segundo.- Las presentes Reformas se aplicarán a partir del inicio del proceso electoral que se celebre en el año de 2016 para renovar Ayuntamientos.
+
+Tercero.- En tanto no se apliquen las presentes Reformas, queda vigente el transitorio noveno del Decreto Número 209, de fecha primero de octubre de 2009, Publicado el 6 de octubre del mismo año en el Periódico Oficial del Estado.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
