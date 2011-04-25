@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2010-09-24"
+last_updated: "2011-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -205,17 +205,21 @@ XV.- Inculcar en el educando, una cultura de cumplimiento a la obligación const
 
 XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concientizar de los efectos nocivos y las influencias negativas externas que provocan en la sociedad.
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
-XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica; y, (sic)
+XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
-XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como de la valoración de la protección y conservación de medio ambiente como elementos esenciales para desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos, y
+XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
-XIX.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+XX.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -525,9 +529,9 @@ IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumno
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, sexual, afectiva, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar será compatible con su edad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
-Se establecerá por cada tres zonas escolares de nivel primaria en el Estado, un departamento de Psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencie maltrato físico, psicoemocional o presenten conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral.
+En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ###### ARTICULO 36.
 
@@ -767,15 +771,25 @@ Son obligaciones de quienes ejercen la patria potestad o tutela:
 
 I.- Hacer que sus hijos o pupilos, menores de dieciocho años de edad, reciban la educación preescolar, la primaria y la secundaria.
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado, y (sic)
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2007)</small>
+II.- Apoyar el proceso educativo de sus hijos o pupilos de conformidad con lo señalado por el Proyecto Educativo del Estado.
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas, culturales y sociales que las mismas realicen; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas, culturales y sociales que las mismas realicen.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
 
 IV.- Participar en los programas de escuela de padres.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+V.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+VI.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
 
 ###### ARTICULO 62.
 
@@ -851,11 +865,39 @@ Las autoridades educativas harán lo conducente para que en cada escuela públic
 
 Las autoridades educativas podrán estructurar el sistema de consejos de participación social de acuerdo a las necesidades propias de cada región.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 69.
 
-Los consejos escolares conocerán además de los lineamientos que para tal efecto expida la Secretaría de Educación Pública, el calendario escolar, las metas educativas, el Proyecto Educativo del Estado y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización, tomarán nota de los resultados de las evaluaciones que realicen las autoridades educativas, propiciarán la colaboración de docentes y padres de familia, podrán proponer estímulos y reconocimientos de carácter social a: alumnos, docentes, directivos y empleados de la escuela; estimularán, promoverán y apoyarán actividades extraescolares que complementen y respalden la formación de los educandos, llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar, alentarán el interés familiar y comunitario por el desempeño del educando, podrán opinar en asuntos pedagógicos, contribuirán a reducir las condiciones sociales adversas que influyan en la educación, estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
+Los consejos escolares, además de los lineamientos que para tal efecto expida la Secretaría de Educación Pública:
 
-Consejos análogos podrán operar en las escuelas particulares de educación básica.
+I.- Conocerán el calendario escolar, las metas educativas, el Proyecto Educativo del Estado y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
+
+II.- Conocerán y darán seguimiento de las acciones que realicen los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 35 de la presente ley;
+
+III.- Conocerán de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
+
+IV.- Sensibilizarán a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos; así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+V.- Tomarán nota de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+VI.- Propiciarán la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de los educandos, podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela;
+
+VII.- Estimularán, promoverán y apoyarán actividades extraescolares que complementen y respalden la formación de los educandos;
+
+VIII.- Llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar;
+
+IX.- Alentarán el interés familiar y comunitario por el desempeño del educando;
+
+X.- Opinarán en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de los educandos;
+
+XI.- Contribuirán a reducir las condiciones sociales adversas que influyan en la educación;
+
+XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y
+
+XIII.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
+
+Consejos análogos deberán operar en las escuelas particulares de educación básica.
 
 ###### ARTICULO 70.
 
@@ -867,11 +909,39 @@ Estos consejos tendrán las facultades establecidas para los consejos escolares 
 
 En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, docentes distinguidos y directivos de escuelas, representantes de la organización sindical de los trabajadores de la educación, representantes de organizaciones sociales y todas aquellas personas interesadas en el mejoramiento de la educación.
 
-Estos consejos gestionarán ante los ayuntamientos y las autoridades educativas el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas y demás proyectos de desarrollo educativo en el municipio, conocerán de los resultados de las evaluaciones que realicen las autoridades educativas, llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica de su circunscripción, estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales, establecerán la coordinación de escuelas con autoridades y programas de bienestar comunitario, harán aportaciones relativas a las particularidades del municipio, que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio, podrán opinar en asuntos pedagógicos, coadyuvarán a nivel municipal en actividades de protección civil y emergencia escolar, promoverán la superación educativa en el ámbito municipal mediante certámenes interescolares, promoverán actividades de orientación, capacitación, y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa, podrán proponer estímulos y reconocimientos de carácter social a; alumnos, docentes, directivos y empleados escolares, procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y, en general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+Este consejo gestionará ante los ayuntamientos y las autoridades educativas:
 
-Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación; para lo cual deberá apoyar el funcionamiento del Consejo Municipal con los recursos humanos y materiales que requieran el despacho oportuno de sus asuntos.
+I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+
+II. Conocerán de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+III. Llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+
+IV. Estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+
+V. Establecerán la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
+
+VI. Harán aportaciones relativas a las particularidades del municipio, que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
+
+VII. Podrán opinar en asuntos pedagógicos;
+
+VIII. Coadyuvarán a nivel municipal en actividades de protección civil y emergencia escolar;
+
+IX. Promoverán la superación educativa en el ámbito municipal mediante certámenes interescolares;
+
+X. Promoverán actividades de orientación, capacitación, y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+
+XI. Podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
+
+XII. Procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
+
+XIII. En general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+
+Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación; así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo, para lo cual deberá apoyar el funcionamiento del Consejo Municipal con los recursos humanos y materiales que requieran el despacho oportuno de sus asuntos.
 
 ###### ARTICULO 72.
 
@@ -882,6 +952,10 @@ Este consejo promoverá y apoyará actividades extraescolares de carácter cultu
 ###### ARTICULO 73.
 
 Los consejos de participación social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones de carácter político o religioso.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2011)</small>
+
+En caso de que el consejo aprecie la probable comisión de un delito en agravio de los educandos, solicitará como medida preventiva a las autoridades educativas del plantel, la suspensión temporal de las actividades del personal docente o administrativo que se encuentre presuntamente involucrado, hasta en tanto se aclare por la autoridad correspondiente dicha participación, previa audiencia a las partes involucradas. Dicha suspensión no afectará las prestaciones laborales que le correspondan.
 
 ###### ARTICULO 74.
 
@@ -1003,9 +1077,17 @@ XI.- Oponerse sin fundamento a las actividades de evaluación, inspección y vig
 
 XII.- Ostentarse como plantel incorporado sin estarlo.
 
-XIII.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
-XIV.- Incumplir cualesquiera de los demás preceptos de la Ley General de Educación, de esta Ley, así como de las disposiciones expedidas con fundamento en ellas.
+XIII.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de docentes de educación básica, sin contar con la autorización correspondiente.
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+XIV.- Contravenir las disposiciones contempladas en el artículo 14, así como en el segundo párrafo del artículo 35 por lo que corresponde a las autoridades educativas, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2011)</small>
+
+XV.- Incumplir cualesquiera de los demás preceptos de la Ley General de Educación, de esta Ley, así como de las disposiciones expedidas con fundamento en ellas.
 
 ###### ARTICULO 88.
 
@@ -1234,3 +1316,9 @@ P.O. 24 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para el cabal cumplimiento a la reforma al Artículo 35 de esta Ley, la misma estará sujeta a la planeación y disponibilidad presupuestaria.
+
+P.O. 25 DE ABRIL DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado en su presupuesto.
