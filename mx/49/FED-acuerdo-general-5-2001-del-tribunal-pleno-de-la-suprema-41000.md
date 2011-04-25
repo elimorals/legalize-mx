@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2010-05-21"
+last_updated: "2011-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -273,7 +273,15 @@ DÉCIMO SÉPTIMO.- Los presidentes de los Tribunales Colegiados de Circuito comu
 
 El informe estadístico relativo a los incidentes de inejecución, a las denuncias de repetición del acto reclamado, así como a las inconformidades, se rendirá por separado detallando el concepto de cada rubro.
 
-DÉCIMO OCTAVO.- Si un Tribunal Colegiado de Circuito estima motivadamente, de oficio o por alegato de parte, que un asunto no se encuentra previsto en los casos precisados en este acuerdo, o que existen razones relevantes para que el Pleno o alguna de las Salas de este Alto Tribunal asuma su competencia originaria, enviará los autos del juicio de amparo exponiendo tales razones; por tal motivo, el auto a que se refiere el punto décimo cuarto de este acuerdo será irrecurrible. Notificará, además, por medio de oficio esa determinación a las autoridades responsables, así como al Tribunal Unitario de Circuito o Juzgado de Distrito del conocimiento y personalmente al quejoso y al tercero perjudicado, en su caso.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL CUATRO DE ABRIL DE DOS MIL ONCE, D.O.F. 25 DE ABRIL DE 2011)</small>
+
+DÉCIMO OCTAVO. Tratándose de los asuntos de la competencia originaria de la Suprema Corte de Justicia de la Nación cuyo conocimiento se ha delegado a los Tribunales Colegiados de Circuito, para que este Alto Tribunal reasuma su competencia, bastará que algún Ministro lo solicite al Pleno o a la Sala, según corresponda, para que sin mayor trámite en sesión privada se determine lo conducente.
+
+Si un Tribunal Colegiado de Circuito estima motivadamente, de oficio o por alegato de parte, que un asunto no se encuentra previsto en los casos precisados en el presente Acuerdo General, o que existen razones relevantes para que el Pleno o alguna de las Salas de este Alto Tribunal asuma su competencia originaria, previa resolución colegiada, enviará a la Suprema Corte de Justicia de la Nación los autos del juicio de amparo exponiendo tales razones.
+
+El auto de radicación a que se refiere el Punto Décimo Cuarto de este Acuerdo General, será irrecurrible.
+
+Las resoluciones que emitan el Pleno o las Salas de este Alto Tribunal en donde se determine reasumir competencia originaria atendiendo a las solicitudes precisadas en los párrafos que anteceden, así como la remisión de autos que realicen los Tribunales Colegiados de Circuito en cualquiera de los supuestos anteriores, deberán notificarse por medio de oficio a las autoridades responsables, así como al Tribunal Unitario de Circuito o Juzgado de Distrito del conocimiento, y personalmente al quejoso y al tercero perjudicado, en su caso.
 
 DÉCIMO NOVENO.- Los presidentes de los Tribunales Colegiados de Circuito a los que la Suprema Corte de Justicia les remita asuntos, en los términos de este acuerdo, cuando sean resueltos le informarán a ésta por conducto de la Subsecretaría General de Acuerdos, acompañando copia certificada de la ejecutoria, que se glosará al cuaderno de antecedentes para su archivo.
 
@@ -332,6 +340,12 @@ TERCERO. Los incidentes de inejecución que se encuentren archivados en la Subse
 CUARTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 D.O.F. 21 DE MAYO DE 2010.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
+
+D.O.F. 25 DE ABRIL DE 2011.
 
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
