@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2010-08-09"
+last_updated: "2011-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -305,7 +305,11 @@ Los Ayuntamientos expedirán las normas reglamentarias que establezcan las forma
 
 El Gobierno Municipal, se encomendará a un Ayuntamiento integrado por un Presidente, los Síndicos y los Regidores que establezca la Ley Electoral del Estado del (sic) Hidalgo.
 
-Los Ayuntamientos serán electos por planilla, mediante sufragio directo, libre y secreto, por un plazo de tres años y se renovarán en su totalidad al término de cada período.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+
+Los Ayuntamientos serán electos por planilla, mediante sufragio directo, libre y secreto; durarán en su encargo cuatro años y se renovarán en su totalidad al término de cada periodo.
 
 En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la Ley de la materia.
 
@@ -633,7 +637,7 @@ a).- Convenir con el Estado, Instituciones de Educación Superior, otros municip
 
 b).- Promover la integración de los miembros de los Consejos de Colaboración Municipal;
 
-c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se .encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
+c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
 
 d).- Acrecentar los bienes patrimoniales y promover el desenvolvimiento material, cívico, social, económico, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la municipalidad, defender y preservar el medio ambiente a través de programas concretos;
 
@@ -651,7 +655,7 @@ j).- Proceder conforme a Ley Sobre Monumentos y Zonas Arqueológicas, Artística
 
 k).- Regular, de acuerdo a su competencia, el funcionamiento de espectáculos y giros industriales, comerciales, turísticos y de servicios profesionales;
 
-l).- Normar *el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
+l).- Normar el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
 
 m).- Reglamentar, conforme a su competencia, las actividades mercantiles en la vía pública;
 
@@ -2508,3 +2512,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2011.
+
+Primero.- Publíquese el presente Decreto en el Periódico Oficial del Estado y entrará en vigor el día diecisiete de enero de 2012.
+
+Segundo.- Las presentes Reformas se aplicarán a partir del inicio del proceso electoral que se celebre en el año de 2016 para renovar Ayuntamientos.
+
+Tercero.- En tanto no se apliquen las presentes Reformas, queda vigente el transitorio noveno del Decreto Número 209, de fecha primero de octubre del 2009, Publicado el 6 de octubre del mismo año en el Periódico Oficial del Estado.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
