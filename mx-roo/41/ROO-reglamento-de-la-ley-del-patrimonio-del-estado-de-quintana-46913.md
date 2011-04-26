@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-la-ley-del-patrimonio-del-estado-de-quintana-4691
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-15"
-last_updated: "2009-08-31"
+last_updated: "2011-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de junio de 2005.
 
@@ -643,9 +643,21 @@ En el caso de las Entidades, éstas deberán de contar con la autorización de s
 
 En cualquier caso, se levantará acta en que se haga constar el desarrollo del procedimiento.
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2011)</small>
 
-No se procederá a la subasta en los casos en que, el Comité de Afectación, Destino Final y Baja de Bienes Muebles de la Administración Pública centralizada del Poder Ejecutivo del Estado, resuelva respecto de la conveniencia de transferir la propiedad de determinados bienes a título gratuito como parte de las acciones de coordinación interinstitucional para la aplicación de los recursos en el fortalecimiento de los planes y programas en materia de seguridad pública, gestión integral de residuos sólidos, educación, salud, asistencia social y en el otorgamiento de apoyos a instituciones o particulares. En estos casos la traslación de dominio solo podrá realizarse por conducto de la Oficialía Mayor, como Dependencia facultada para suscribir los instrumentos legales correspondientes.
+No se procederá a la subasta en los casos en que el Comité de Afectación, Destino Final y Baja de Bienes Muebles de la Administración Pública Centralizada del Poder Ejecutivo del Estado, resuelva respecto de la conveniencia de transferir la propiedad de determinados bienes a título gratuito como parte de las acciones de coordinación interinstitucional para la aplicación de los recursos en el fortalecimiento de los planes y programas en materia de seguridad pública, gestión integral de residuos sólidos, educación, salud, asistencia social y en el otorgamiento de apoyos a instituciones o particulares.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2011)</small>
+
+Solamente podrá realizarse la enajenación de bienes muebles de manera directa mediante el endoso del documento que ampare la propiedad de los mismos en los siguientes casos:
+
+I. Respecto de unidades del parque vehicular que sean patrimonio del Estado y que por ubicarse en el supuesto de pérdida total acaecida en siniestro, se requiera realizar el trámite del cobro de los seguros contratados a favor del Gobierno del Estado de Quintana Roo.
+
+II. Aquéllos bienes muebles cuya propiedad deba ser transferida a particulares como resultado de sorteos, rifas o juegos en los que interviene el Ejecutivo del Estado, en términos de la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2011)</small>
+
+La traslación de dominio de los bienes muebles solo podrá realizarse por conducto de la Oficialía Mayor, como Dependencia facultada para suscribir los instrumentos legales correspondientes.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -866,3 +878,7 @@ FREDY EFRÉN MARRUFO MARTÍN
 P.O. 31 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quinta Roo.
+
+P.O. 26 DE ABRIL DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
