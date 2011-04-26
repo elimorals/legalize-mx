@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-53765"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-12"
-last_updated: "2010-11-26"
+last_updated: "2011-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 2011.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Tlaxcala, el viernes 12 de enero de 2007.
 
@@ -1051,11 +1051,11 @@ La Comisión conforme a su disponibilidad presupuestal, contará con el personal
 
 El personal administrativo de la Comisión será de confianza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 2011)</small>
 
 ###### Artículo 75.
 
-El Consejo General de la Comisión estará conformado por tres comisionados mismos que serán electos por el Congreso del Estado previa convocatoria que emita la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos y aprobada por el Pleno del Poder Legislativo.
+El Consejo General de la Comisión estará conformado por tres comisionados, mismos que serán electos por el Congreso del Estado, previa convocatoria que emita la Comisión de Información Pública y Protección de Datos Personales y aprobada por el Pleno del Poder Legislativo.
 
 Para ser Comisionado se requiere cumplir con los requisitos siguientes:
 
@@ -1476,6 +1476,16 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO SEGUNDO.
 
