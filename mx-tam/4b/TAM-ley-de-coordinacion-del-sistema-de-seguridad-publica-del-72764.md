@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2010-12-29"
+last_updated: "2011-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1463,9 +1463,11 @@ La Procuraduría deberá hacer la anotación de la cancelación respectiva, en e
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 95.
 
-El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado de la Secretaría, con autonomía técnica y de gestión, que tiene por objeto la aplicación de las evaluaciones a que se refiere esta ley, tanto en los procesos de selección de aspirantes, como para la permanencia, el desarrollo y la promoción de los integrantes de las instituciones de seguridad pública.
+El Centro Estatal de Evaluación y Control de Confianza es un órgano desconcentrado del Sistema Estatal de Seguridad Pública, con autonomía técnica y de gestión, que tiene por objeto la aplicación de las evaluaciones a que se refiere esta ley, tanto en los procesos de selección de aspirantes, como para la permanencia, el desarrollo y la promoción de los integrantes de las instituciones de seguridad pública.
 
 Al efecto, tendrá las siguientes atribuciones:
 
@@ -1844,3 +1846,13 @@ En términos de las atribuciones que le confieren las normas constitucionales y 
 ###### ARTICULO TERCERO.
 
 Las Secretarías General de Gobierno, de Seguridad Pública, Finanzas y Administración, con la intervención de la Contraloría Gubernamental, harán las adaptaciones presupuestales y en materia de asignación de recursos humanos, oficinas, bienes inmuebles y muebles que se requieran para el cumplimiento del presente Decreto. Asimismo, se mantendrán a salvo los derechos laborales adquiridos por los integrantes de las instituciones policiales del Estado.
+
+P.O. 27 DE ABRIL DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Decreto de creación del Centro Estatal de Evaluación y Control de Confianza, deberá ser reformado para estar acorde a lo establecido en el presente Decreto, a más tardar a los 30 días siguientes de la entrada en vigor de este Decreto.
