@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2010-12-21"
+last_updated: "2011-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -209,9 +209,13 @@ IV.- Promover la difusión y defensa de los derechos de las personas con discapa
 
 V.- Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad en el municipio;
 
-> <small>(ADICIONADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2011)</small>
 
-VI.- Coadyuvar, en la esfera de su competencia, al cumplimiento de la presente ley, así como de las demás disposiciones legales aplicables en la materia.
+VI.- Coadyuvar, en la esfera de su competencia, al cumplimiento de la presente ley, así como de las demás disposiciones legales aplicables en la materia; y,
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2011)</small>
+
+VII.- Otorgar permisos para estacionamientos exclusivos a favor de personas con discapacidad, ubicados de manera adyacente a su domicilio particular, los cuales se distinguirán con guarniciones pintadas de color azul.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -805,9 +809,11 @@ El Gobierno del Estado, a través del Sistema DIF, creará premios, estímulos, 
 
 DE LAS INFRACCIONES Y SANCIONES.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 69.
 
-Las autoridades facultadas para conocer y resolver acerca de las infracciones en contravención a esta Ley serán el Gobierno del Estado, a través de la Secretaría de Seguridad Pública, en el caso de vehículos de transporte colectivo de pasajeros, y los Ayuntamientos, a través de la Dirección de Obras Públicas Municipales, en el caso de barreras arquitectónicas.
+Las autoridades facultadas para conocer y resolver acerca de las infracciones en contravención a esta ley serán el Gobierno del Estado, a través de la Secretaría de Desarrollo Urbano y Medio Ambiente, en el caso de vehículos de transporte colectivo de pasajeros; los Ayuntamientos, a través de la Dirección de Obras Públicas Municipales, en el caso de barreras arquitectónicas; y, la dependencia de tránsito y vialidad municipal en el caso de quienes, sin justificación alguna, ocupen los espacios de estacionamiento preferencial, obstruyan ó destruyan las rampas de acceso a las aceras y vías peatonales para personas con discapacidad.
 
 ###### ARTICULO 70.
 
@@ -825,13 +831,25 @@ III.- Se sancionará con multa equivalente de 60 a 80 veces el salario mínimo, 
 
 IV.- Arresto hasta por treinta y seis horas;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2011)</small>
 
-V.- Revocación de la autorización, concesión, permiso o licencia de construcción o de funcionamiento; y
+V.- Revocación de la autorización, concesión, permiso o licencia de construcción o de funcionamiento;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2011)</small>
 
-VI.- Clausura temporal o definitiva parcial o total, del establecimiento o edificio.
+VI.- Clausura temporal o definitiva parcial o total, del establecimiento o edificio;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2011)</small>
+
+VII.- Multa equivalente de 10 a 50 veces el salario mínimo general vigente en la zona económica en que se cometa la infracción, a quienes, sin justificación alguna, ocupen los espacios destinados al estacionamiento de los vehículos de personas con discapacidad, o bien obstruyan las rampas de acceso a las aceras y vías peatonales; y,
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2011)</small>
+
+VIII.- Multa equivalente de 10 a 50 veces el salario mínimo general vigente en la zona económica en que se cometa la infracción, a quienes destruyan cualquier tipo de rampa de acceso a las aceras y vías peatonales de uso exclusivo de las personas con discapacidad, independientemente del pago que deba hacer el infractor por la reparación del daño material causado a dichas construcciones.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2011)</small>
+
+Los montos de las multas se impondrán por la autoridad correspondiente de acuerdo a la gravedad de la infracción y deberán establecerse en el reglamento respectivo. En el caso de que se trate de un jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal a un día de su ingreso; así también tratándose de trabajadores no asalariados la multa no excederá del equivalente a un día de su ingreso.
 
 ###### ARTICULO 71.
 
@@ -940,5 +958,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2011.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
