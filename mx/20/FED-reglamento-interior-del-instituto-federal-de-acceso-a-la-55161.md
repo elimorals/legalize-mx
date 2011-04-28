@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-de-acceso-a-la-55161"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-02"
-last_updated: "2010-07-05"
+last_updated: "2011-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55161&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCI
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES, PUBLICADA EN EL D.O.F. DE 5 DE JULIO DE 2010, LAS REFERENCIAS QUE CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE HACEN EN LAS LEYES, TRATADOS Y ACUERDOS INTERNACIONALES, REGLAMENTOS Y DEMÁS ORDENAMIENTOS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN PÚBLICA, EN LO FUTURO SE ENTENDERÁN HECHAS AL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de mayo de 2007.
 
@@ -87,25 +87,43 @@ IV. Comisionado Presidente;
 
 V. Secretaría de Acuerdos;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE ABRIL DE 2011)</small>
+
+V BIS. Secretaría de Protección de Datos Personales;
+
 VI. Secretaría Ejecutiva;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2011)</small>
 
 VII. Direcciones Generales:
 
 a) De Administración;
 
-b) De Asuntos Jurídicos;
+b) De Asuntos Internacionales;
 
-c) De Atención a la Sociedad y Relaciones Institucionales;
+c) De Asuntos Jurídicos;
 
-d) De Clasificación y Datos Personales;
+d) De Atención a la Sociedad y Relaciones Institucionales;
 
-e) De Comunicación Social;
+e) De Autorregulación;
 
-f) De Coordinación y Vigilancia de la Administración Pública Federal;
+f) De Clasificación;
 
-g) De Estudios e Investigación, y
+g) De Comunicación Social;
 
-h) De Informática y Sistemas.
+h) De Coordinación y Vigilancia de la Administración Pública Federal;
+
+i) De Estudios e Investigación;
+
+j) De Informática y Sistemas;
+
+k) De Normatividad y Estudios;
+
+l) De Sanciones;
+
+m) De Protección de Derechos, y
+
+n) De Verificación;
 
 VIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2009)
 
@@ -375,9 +393,67 @@ XXII. Representar al Instituto ante los tribunales federales y del fuero común 
 
 XXIII. Las demás que le confieran el Pleno del Instituto y las disposiciones legales y administrativas que le sean aplicables.
 
-### CAPITULO SEXTO. DE LA SECRETARIA EJECUTIVA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 28 DE ABRIL DE 2011)</small>
 
-### CAPITULO SEPTIMO. DE LAS DIRECCIONES GENERALES
+### CAPITULO SEXTO. DE LA SECRETARIA DE PROTECCION DE DATOS PERSONALES
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2011)</small>
+
+Artículo 24 BIS. Son atribuciones de la Secretaría de Protección de Datos Personales:
+
+I. Coordinar y supervisar la elaboración de los proyectos normativos en materia de protección de datos personales derivados de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, de sus Reglamentos, y demás disposiciones aplicables, y someterlos a consideración del Pleno;
+
+II. Coordinar y supervisar la elaboración de los dictámenes y opiniones, en materia de protección de datos personales, de leyes, reglamentos y otros instrumentos jurídicos, llevando el seguimiento legislativo o regulatorio respectivo;
+
+III. Coordinar y supervisar la elaboración de opiniones sobre la interpretación para efectos administrativos de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en materia de protección de datos personales;
+
+IV. Dirigir, coordinar y supervisar la elaboración de publicaciones especializadas en materia del derecho de protección de datos personales que autorice el Pleno;
+
+V. Coordinar y supervisar la recepción, trámite y sustanciación de los procedimientos de protección de derechos, y someter a consideración del Comisionado Ponente un proyecto de resolución;
+
+VI. Llevar a cabo las acciones tendientes a propiciar, dentro del procedimiento de protección de derechos, una conciliación entre el titular de los datos y el responsable y, de ser el caso, formular el acuerdo respectivo;
+
+VII. Coordinar y supervisar las verificaciones que le instruya el Pleno para vigilar el cumplimiento que los sujetos regulados y obligados dan a las disposiciones contenidas en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, y en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en sus Reglamentos y en las demás disposiciones aplicables;
+
+VIII. Supervisar, coordinar y sustanciar los procedimientos de imposición de sanciones que instruya el Pleno, emitir la resolución correspondiente y notificarla a las partes;
+
+IX. Auxiliar en la tramitación y asignación de los recursos de revisión, en términos de lo dispuesto por la Ley Federal de Procedimiento Administrativo, que se interpongan en contra de las resoluciones que emita el Pleno del Instituto;
+
+X. Proponer y supervisar el desarrollo, fomento y difusión de análisis, estudios e investigaciones en materia de protección de datos personales;
+
+XI. Coordinar la difusión y divulgación de estudios sobre estándares y mejores prácticas internacionales en materia de seguridad de la información, en atención a la naturaleza de los datos personales; las finalidades del tratamiento, y las capacidades técnicas y económicas del responsable;
+
+XII. Coordinar y supervisar la elaboración de estudios de impacto sobre la privacidad previo a la puesta en práctica de una nueva modalidad de tratamiento de datos personales o a la realización de modificaciones sustanciales en tratamientos ya existentes;
+
+XIII. Coordinar y supervisar la actualización de los instrumentos jurídicos y guías aplicables a los procedimientos de derechos de acceso, rectificación, cancelación y oposición, de protección de derechos, de verificación y de imposición de sanciones, y la elaboración de informes institucionales y estadísticas, entre otros, en los asuntos de su competencia;
+
+XIV. Coordinar la elaboración de informes en materia de protección de datos personales sobre presuntas infracciones e incumplimientos a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y a su Reglamento, en materia de protección de datos, por parte de las dependencias y entidades de la Administración Pública Federal, y enviarlos a las instancias competentes;
+
+XV. Vigilar y dar seguimiento al cumplimiento de las resoluciones que en materia de protección de datos emita el Instituto;
+
+XVI. Acreditar en coadyuvancia con la Secretaría de Economía, a terceros certificadores a fin de armonizar el tratamiento de los datos personales de acuerdo con lo establecido por la Ley aplicable;
+
+XVII. Elaborar los informes para las autoridades competentes sobre las sanciones impuestas a los infractores de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, e informar al área jurídica de las conductas presuntamente constitutivas de delito para los efectos legales a que haya lugar;
+
+XVIII. Participar en la elaboración y ejecución de los planes y programas que en coadyuvancia se lleven a cabo con las dependencias reguladoras para la emisión de la normatividad secundaria;
+
+XIX. Promover la cooperación internacional para la efectiva tutela del derecho de protección de datos personales fuera del territorio nacional, así como la difusión e intercambio de mejores prácticas a nivel global;
+
+XX. Colaborar con otras autoridades de supervisión y organización nacionales e internacionales, en materia de protección de datos;
+
+XXI. Participar en foros y eventos internacionales relacionados con la materia de protección de datos personales;
+
+XXII. Nombrar y remover a su personal de apoyo, y elaborar el acuerdo de adscripción de las unidades administrativas a su cargo;
+
+XXIII. Proponer al Comisionado Presidente el nombramiento y remoción, en su caso, de los directores generales de su adscripción, de acuerdo con el Estatuto del Servicio Profesional del Instituto;
+
+XXIV. Informar sobre el avance de los planes y programas, así como de las actividades y el desempeño de las unidades administrativas a su cargo, y
+
+XXV. Las demás que le confieran el Pleno del Instituto y las disposiciones legales y administrativas que le sean aplicables.
+
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], D.O.F. 28 DE ABRIL DE 2011)
+
+### CAPITULO SEPTIMO. DE LA SECRETARIA EJECUTIVA
 
 ###### Artículo 25.
 
@@ -445,7 +521,9 @@ XXX. Impulsar la construcción de redes internacionales con el objetivo de mante
 
 XXXI. Las demás que le confieran las disposiciones legales y administrativas que le sean aplicables.
 
-### CAPITULO OCTAVO. DE LA SECRETARIA TECNICA DEL PLENO
+(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], D.O.F. 28 DE ABRIL DE 2011)
+
+### CAPITULO OCTAVO. DE LAS DIRECCIONES GENERALES
 
 ###### Artículo 26.
 
@@ -621,13 +699,17 @@ VI. Coadyuvar con la unidad administrativa competente en la definición y ejecuc
 
 VII. Administrar las licencias de software y realizar su distribución entre las unidades administrativas que las requieran.
 
-> <small>(DEROGADO, D.O.F. 8 DE ABRIL DE 2009)</small>
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2009) (REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], D.O.F. 28 DE ABRIL DE 2011)
 
-### CAPITULO NOVENO. DISPOSICIONES FINALES
+### CAPITULO NOVENO. DE LA SECRETARIA TECNICA DEL PLENO
 
 ###### Artículo 35.
 
 (DEROGADO, D.O.F. 8 DE ABRIL DE 2009)
+
+(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], D.O.F. 28 DE ABRIL DE 2011)
+
+### CAPITULO DECIMO. DISPOSICIONES FINALES
 
 ###### Artículo 36.
 
@@ -682,3 +764,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEXTO.- Las referencias que con anterioridad a la entrada en vigor del presente Decreto, se hacen en las leyes, tratados y acuerdos internacionales, reglamentos y demás ordenamientos al Instituto Federal de Acceso a la Información Pública, en lo futuro se entenderán hechas al Instituto Federal de Acceso a la Información y Protección de Datos Personales.
 
 .
+
+D.O.F. 28 DE ABRIL DE 2011.
+
+UNICO.- Las modificaciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
