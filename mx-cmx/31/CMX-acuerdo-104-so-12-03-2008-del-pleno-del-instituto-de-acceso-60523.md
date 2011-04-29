@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-104-so-12-03-2008-del-pleno-del-instituto-de-acceso-605
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-15"
-last_updated: "2009-12-09"
+last_updated: "2011-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60523&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,9 +19,9 @@ scjn_last_update: "2011-04-29"
 ---
 # ACUERDO 104/SO/12-03/2008, DEL PLENO DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGA LOS APROBADOS MEDIANTE EL ACUERDO 096/SO/31- 08/2006
+ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, Y SE ABROGA LOS APROBADOS MEDIANTE EL ACUERDO 096/SO/31- 08/2006
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ABRIL DE 2011.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 15 de abril de 2008.
 
@@ -113,27 +113,43 @@ María Elena Pérez-Jaén Zermeño
 
 Comisionada Ciudadana
 
+> <small>N. DE E. LAS MODIFICACIONES APROBADAS EN EL ACUERDO 0381/SO/06-04/2011 DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, MODIFICÓ DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ACUERDO 104/SO/12-03/2008, PUBLICADO EN LA G.O. DE 15 DE ABRIL DE 2008, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA. G.O. DE 29 DE ABRIL DE 2011.</small>
+
 LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 I. OBJETIVO
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 1.
 
-Los presentes lineamientos tienen por objeto regular la administración de los recursos financieros y presupuestales del Instituto de Acceso a la Información Pública del Distrito Federal, provenientes del presupuesto que le autorice la Asamblea Legislativa del Distrito Federal, así como los ingresos que se obtengan por cualquier otro concepto, considerando lo dispuesto en el Código Financiero del Distrito Federal.
+Los presentes lineamientos tienen por objeto regular la administración de los recursos financieros y presupuestales del Instituto de Acceso a la Información Pública del Distrito Federal, provenientes del presupuesto que le autorice la Asamblea Legislativa del Distrito Federal, así como los ingresos que se obtengan por cualquier otro concepto, considerando lo dispuesto en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal y en el Código Fiscal del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 2.
 
 Los presentes lineamientos son de carácter general y observancia obligatoria para todos los servidores públicos que laboran en el Instituto.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 II. MARCO JURIDICO
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 3.
 
-A falta de disposición expresa y siempre que no se opongan a lo contenido en los presentes lineamientos se aplicarán de manera supletoria las disposiciones del Código Financiero del Distrito Federal vigente, el Decreto de Presupuesto de Egresos del Distrito Federal para el ejercicio fiscal correspondiente, la Ley de Ingresos del Distrito Federal para el ejercicio fiscal correspondiente, y las normas fiscales o disposiciones del derecho común.
+A falta de disposición expresa y siempre que no se opongan a lo contenido en los presentes lineamientos se aplicarán de manera supletoria las disposiciones de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, del Código Fiscal del Distrito Federal vigente, del Decreto de Presupuesto de Egresos del Distrito Federal para el ejercicio fiscal correspondiente, la Ley de Ingresos del Distrito Federal para el ejercicio fiscal correspondiente, y las normas fiscales o disposiciones del derecho común.
 
 La aplicación de los presentes lineamientos será sin perjuicio de lo dispuesto en los ordenamientos que resulten de observancia obligatoria para el Instituto.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 III. DEFINICIONES
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 4.
 
@@ -143,13 +159,13 @@ Para los efectos de los presentes lineamientos se entenderá por:
 
 2. Alimentos: Productos alimenticios y bebidas no alcohólicas de cualquier naturaleza, en estado natural o envasados;
 
-3. Áreas: Secretaría Técnica, Secretaría Ejecutiva, Contraloría, Dirección Jurídica y de Desarrollo Normativo, Dirección de Capacitación y Cultura de la Transparencia, Dirección de Evaluación y Estudios, Dirección de Vinculación con la Sociedad,, Dirección de Comunicación Social, Dirección de Tecnologías de Información y Dirección de Administración y Finanzas del Instituto de Acceso a la Información Pública del Distrito Federal;
+3. Áreas: Secretaría Técnica, Secretaría Ejecutiva, Contraloría, Dirección Jurídica y de Desarrollo Normativo, Dirección de Capacitación y Cultura de la Transparencia, Dirección de Evaluación y Estudios, Dirección de Vinculación con la Sociedad, Dirección de Datos Personales, Dirección de Tecnologías de Información, Dirección de Administración y Finanzas, Coordinación de Información y Coordinación de Difusión del Instituto de Acceso a la Información Pública del Distrito Federal;
 
-4. Código: Código Financiero del Distrito Federal para el ejercicio fiscal correspondiente;
+4. Código: Código Fiscal del Distrito Federal para el ejercicio fiscal correspondiente;
 
 5. Combustibles: Derivados del petróleo, refinados que se requieren para el funcionamiento de plantas de energía, vehículos terrestres, aéreos, entre otros;
 
-6. Comisión: tarea o función de carácter extraordinario conferida a los servidores públicos para que realicen las actividades inherentes a su cargo en un sitio distinto al de su adscripción;
+6. Comisión: Tarea o función de carácter extraordinario conferida a los servidores públicos para que realicen las actividades inherentes a su cargo en un sitio distinto al de su adscripción;
 
 7. Comisionados: Comisionados Ciudadanos designados por la Asamblea Legislativa del Distrito Federal como integrantes del Pleno del Instituto;
 
@@ -167,13 +183,13 @@ Para los efectos de los presentes lineamientos se entenderá por:
 
 14. Fondo Revolvente: Monto de recursos que se destina a cubrir necesidades urgentes, los cuales se regularizan en períodos establecidos y se restituyen mediante la comprobación respectiva;
 
-15. Impuestos: Los previstos en el Código Financiero del Distrito Federal y demás disposiciones aplicables;
+15. Impuestos: Los previstos en el Código Fiscal del Distrito Federal y demás disposiciones aplicables;
 
 16. Instituto: Instituto de Acceso a la Información Pública del Distrito Federal;
 
 17. Ley: Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
-18. Lineamientos: Lineamientos de Recursos Financieros del Instituto de Acceso a la Información Pública del Distrito Federal;
+18. Lineamientos: Lineamientos en materia de Recursos Financieros del Instituto de Acceso a la Información Pública del Distrito Federal;
 
 19. Oficio de Comisión: Documento oficial en el que se designa al o los servidores públicos para el desarrollo de funciones inherentes al cargo, en un sitio diferente al de su adscripción;
 
@@ -193,33 +209,47 @@ Para los efectos de los presentes lineamientos se entenderá por:
 
 27. Reglamento: Reglamento Interior del Instituto de Acceso a la Información Pública del Distrito Federal;
 
-28. Requisito Fiscal: Información que debe cumplir la documentación comprobatoria de una erogación, establecida en el artículo 29-A del Código Fiscal de la Federación y artículo 37 del Reglamento del Código Fiscal de la Federación;
+28. Requisito Fiscal: Información que debe cumplir la documentación comprobatoria de una erogación, establecida en el artículo 29-A del Código Fiscal de la Federación y en el Reglamento del Código Fiscal de la Federación.
 
 29. Secretaría: Secretaría de Finanzas del Gobierno del Distrito Federal;
 
-30. Tarifa: Tabla que consigna los montos máximos diarios que se otorgan por concepto de viáticos, nacionales o internacionales según corresponda, y
+30. Tarifa: Tabla que consigna los montos máximos diarios que se otorgan por concepto de viáticos, nacionales o internacionales según corresponda; así como los montos máximos de combustible y telefonía celular asignados de manera mensual a servidores públicos.
 
-31. Viático: Asignación destinada a cubrir los costos por hospedaje, alimentación, transporte local (gastos de camino), estacionamiento, tintorería, lavandería y llamadas telefónicas oficiales ó tarjeta telefónica pre-pagada, durante el desempeño de una comisión oficial, siempre y cuando sea en un lugar distinto al de su adscripción.
+31. Viático: Asignación destinada a cubrir los costos por hospedaje, alimentación, transporte local (gastos de camino), estacionamiento, tintorería, lavandería y llamadas telefónicas oficiales ó tarjeta telefónica pre-pagada, entre otros, durante el desempeño de una comisión oficial, siempre y cuando sea en un lugar distinto al de su adscripción.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 IV. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 5.
 
 La dirección de administración será la instancia encargada de la correcta y oportuna aplicación de los presentes Lineamientos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 6.
 
-La dirección de administración será la responsable de conservar la documentación y demás elementos contables comprobatorios durante cinco años, excepto la documentación referente a los activos fijos y aquella que por su naturaleza tenga que conservarse por un periodo mayor.
+La Dirección de Administración será la responsable de conservar la documentación y demás elementos contables comprobatorios de acuerdo a los plazos establecidos en el Catálogo de Disposición Documental del Instituto, así como a lo dispuesto por la Ley de Archivos del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 7.
 
 La contraloría, en cumplimiento de las funciones y atribuciones que le otorga la Ley y el Reglamento, fiscalizará el cabal cumplimiento de los presentes Lineamientos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 8.
 
 El Pleno es la instancia facultada para interpretar los presentes Lineamientos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 V. INGRESOS
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -229,151 +259,217 @@ Los ingresos del Instituto se integran por:
 
 2. Los productos financieros que se deriven del manejo de las disponibilidades financieras, y
 
-3. Cualquier otro ingreso en efectivo o especie derivado de aportaciones, convenios, derechos de autor, de marca o patentes, cursos o talleres de capacitación o los materiales respectivos, y en general los que el Instituto pueda recibir directamente conforme a la Ley.
+3. Cualquier otro ingreso en efectivo o especie derivado de aportaciones, convenios, derechos de autor, de marca o patentes, cursos o talleres de capacitación o los materiales respectivos y, en general, los que el Instituto pueda recibir directamente conforme a la Ley.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 10.
 
-El manejo y coordinación de los ingresos, estará a cargo de la dirección de administración, quien será responsable de instrumentar los mecanismos necesarios para el adecuado, eficiente y transparente manejo de los mismos.
+El manejo y coordinación de los ingresos estará a cargo de la dirección de administración, quien será responsable de instrumentar los mecanismos necesarios para el adecuado, eficiente y transparente manejo de los mismos.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 11.
 
-La dirección de administración presentará al Presidente para su aprobación, las estrategias de inversión para las disponibilidades financieras, cuidando en todo momento que se garantice que la disponibilidad, los rendimientos y grados de riesgo, sean los óptimos para el Instituto.
+La Dirección de Administración presentará al Presidente para su aprobación las estrategias de inversión para las disponibilidades financieras, cuidando en todo momento que se garantice que la disponibilidad, los rendimientos y grados de riesgo, sean los óptimos para el Instituto.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 12.
 
-La dirección de administración deberá establecer los mecanismos y procedimientos necesarios para la captación, control, registro contable y supervisión de los ingresos.
+La Dirección de Administración deberá establecer los mecanismos y procedimientos necesarios para la captación, control, registro contable y supervisión de los ingresos.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 VI. PROGRAMACION Y PRESUPUESTACION
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 13.
 
-La secretaría ejecutiva coordinará los trabajos orientados a la concertación de la estructura programática, a fin de garantizar que esta sea consistente con la misión, visión y objetivos del Instituto, así como con las funciones y atribuciones que la Ley le otorga.
+La Secretaría Ejecutiva coordinará los trabajos orientados a la concertación de la estructura programática, a fin de garantizar que esta sea consistente con la misión, visión y objetivos del Instituto, así como con las funciones y atribuciones que la Ley le otorga.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 14.
 
 El programa operativo anual, para el ejercicio de que se trate, contendrá: líneas programáticas, objetivos específicos, metas, acciones, responsables de su ejecución, así como la temporalidad y especialidad de las acciones para las que se asignan recursos, en función de las disponibilidades y necesidades contenidas en los balances de recursos humanos, materiales y financieros.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 15.
 
 El programa operativo anual y el anteproyecto de presupuesto del Instituto que se presente a la Secretaría, deberán ser aprobados por el Pleno y presentarán en forma lógica y congruente la alineación de todas y cada una de las acciones comprometidas como contribución al logro del objetivo general, la misión y visión del Instituto.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 16.
 
 Con objeto de elaborar el programa operativo anual, las áreas deberán dar a conocer a la dirección de administración, en los plazos y forma que para tal efecto se determinen, sus requerimientos de recursos para alcanzar las acciones comprometidas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 17.
 
-La secretaría ejecutiva coordinará las acciones necesarias para que las áreas del Instituto elaboren su respectivo programa operativo anual. Con base a lo anterior, la dirección de administración integrará anualmente el anteproyecto de presupuesto del Instituto, con el fin de que éste sea aprobado por el Pleno y enviado a la Secretaría.
+La Secretaría Ejecutiva coordinará las acciones necesarias para que las áreas del Instituto elaboren su respectivo programa operativo anual. Con base a lo anterior, la dirección de administración integrará anualmente el anteproyecto de presupuesto del Instituto, con el fin de que éste sea aprobado por el Pleno y enviado a la Secretaría.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 18.
 
 Previo a la aprobación del Pleno, el contralor del Instituto emitirá su opinión sobre el programa operativo anual y el anteproyecto de presupuesto anual.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 19.
 
 Además de lo dispuesto en estos Lineamientos, el programa operativo anual y el proyecto de presupuesto del Instituto deberán contener una exposición de motivos y una descripción de los programas, las adquisiciones cuya ejecución abarquen dos o más ejercicios fiscales, así como la estimación de todos los ingresos que se pudieran recibir directamente conforme a las leyes o normatividad aplicable, y de los gastos del ejercicio fiscal de que se trate.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 VII. ADECUACIONES PRESUPUESTARIAS
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 20.
 
 Las adecuaciones programático presupuestales comprenden las relativas a la estructura programático presupuestal aprobada, así como a los calendarios financieros y de metas autorizadas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 21.
 
 Las adecuaciones a que se refiere el artículo anterior se clasifican en:
 
-1. Internas: Se refieren a modificaciones entre partidas de gasto de un mismo capítulo o bien a la apertura de una nueva partida dentro del mismo capítulo, salvo las que impliquen incrementos en las siguientes partidas de racionalidad: gastos de alimentación para servidores públicos de mando, pasajes internacionales, viáticos internacionales, honorarios, cuyos incrementos deberán ser aprobados por el Pleno.
+1. Internas: Se refieren a modificaciones entre partidas de gasto de un mismo capítulo o bien a la apertura de una nueva partida dentro del mismo capítulo, salvo las que impliquen incrementos en las siguientes partidas de racionalidad: gastos de representación, pasajes aéreos nacionales e internacionales, viáticos en el extranjero y honorarios asimilados a salarios, cuyos incrementos deberán ser aprobados por el Pleno.
 
-2. Externas: Cuando implican traspasos de recursos entre capítulos de gasto, cambios en la estructura programática y/o en la naturaleza del gasto, o bien incrementos en las partidas sujetas a racionalidad como son: gastos de alimentación para servidores públicos de mando, pasajes internacionales, viáticos internacionales, honorarios, cuyos incrementos deberán ser aprobados por el Pleno.
+2. Externas: Cuando implican traspasos de recursos entre capítulos de gasto, cambios en la estructura programática y/o en la naturaleza del gasto, o bien incrementos en las partidas sujetas a racionalidad como son: gastos de representación, pasajes aéreos nacionales e internacionales, viáticos en el extranjero y honorarios asimilados a salarios, cuyos incrementos deberán ser aprobados por el Pleno.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 22.
 
-La dirección de administración podrá llevar a cabo adecuaciones internas con la autorización del Presidente. Las adecuaciones externas deberán ser autorizadas por el Pleno. Para ello, serán presentadas en los formatos y plazos que para tal efecto se determinen, y que contendrán las causas y justificaciones que motiven las adecuaciones o transferencias.
+La Dirección de Administración podrá llevar a cabo adecuaciones internas con la autorización del Presidente. Las adecuaciones externas deberán ser autorizadas por el Pleno. Para ello, serán presentadas en los formatos y plazos que para tal efecto se determinen, y que contendrán las causas y justificaciones que motiven las adecuaciones o transferencias.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 23.
 
 Las afectaciones presupuestarias que impliquen ampliaciones o reducciones líquidas al presupuesto autorizado, deberán elaborarse en apego a los formatos y características definidas por la Secretaría y serán presentadas para su registro a través del sistema presupuestario de cómputo en los términos que establece el Manual de Normas y Procedimientos Presupuestarios para la Administración Pública del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 24.
 
-Las áreas que conforman el Instituto, deberán remitir a la dirección de administración el primer día hábil de los meses de abril, julio, octubre y enero del ejercicio subsiguiente, la información correspondiente al avance físico y financiero del programa institucional en el ámbito de su competencia, con objeto de que ésta integre el informe de avance programático presupuestal de cada trimestre, mismo que deberá ser remitido por el Presidente en los tiempos y forma que dispone el Código y el Decreto, a la Secretaría.
+Las áreas que conforman el Instituto, deberán remitir a la Dirección de Administración el primer día hábil de los meses de abril, julio, octubre y enero del ejercicio subsiguiente, la información correspondiente al avance físico y financiero del programa institucional en el ámbito de su competencia, con objeto de que ésta integre el informe de avance programático presupuestal de cada trimestre, mismo que deberá ser remitido por el Presidente a la Secretaría en los tiempos y forma que dispone la Ley de Presupuesto y Gasto Eficiente del Distrito Federal y el Decreto.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 25.
 
 La evaluación cuantitativa será analizada y se reportará en los avances del ejercicio financiero y de metas de cada programa, con el propósito de que el Pleno cuente con elementos de juicio suficientes para disponer las adecuaciones programático presupuestales que se requieren para el cumplimiento de los programas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 26.
 
-La dirección de administración realizará las acciones necesarias a fin de que los estados financieros del Instituto sean dictaminados oportunamente considerando los plazos establecidos en el Código para presentar dicha información, como parte integral de la Cuenta Pública del Distrito Federal.
+La Dirección de Administración realizará las acciones necesarias a fin de que los estados financieros del Instituto sean dictaminados oportunamente considerando los plazos establecidos en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal para presentar dicha información, como parte integral de la Cuenta Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 VIII. EJERCICIO Y CONTROL DEL GASTO
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 27.
 
 El ejercicio, el registro y la rendición de cuentas es responsabilidad del Presidente y de la dirección de administración, para lo cual se instrumentarán los mecanismos necesarios que garanticen la confiabilidad, oportunidad y veracidad de los registros.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 28.
 
-Los informes que se presenten relacionados con el avance programático presupuestal y al ejercicio del gasto se integrarán por capítulo, concepto y partida específica. El informe deberá contener cuando menos el presupuesto original, el presupuesto modificado, el presupuesto ejercido y el presupuesto disponible.
+Los informes que se presenten relacionados con el avance programático presupuestal y el ejercicio del gasto se integrarán por capítulo, concepto y partida específica. El informe deberá contener cuando menos el presupuesto original, el presupuesto modificado, el presupuesto ejercido y el presupuesto disponible.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 29.
 
 Los montos y los niveles beneficiados con las prestaciones al personal del Instituto, adicionales a las obligaciones de Ley, estarán sujetos a la disponibilidad presupuestal y a la aprobación del Pleno.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 30.
 
-El ejercicio del gasto del Instituto, se realizará de acuerdo con el calendario que al efecto se autorice, mismo que deberá ser concertado con la estacionalidad definida por la Secretaría.
+El ejercicio del gasto del Instituto se realizará de acuerdo con el calendario que al efecto se autorice, mismo que deberá ser concertado con la estacionalidad definida por la Secretaría.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 31.
 
-La dirección de administración, deberá llevar los registros del ejercicio del presupuesto autorizado, en apego a la estructura programática y a los capítulos, conceptos y partidas específicas del clasificador por objeto del gasto que rige para la Administración Pública del Distrito Federal.
+La Dirección de Administración deberá llevar los registros del ejercicio del presupuesto aprobado en apego a la normatividad emitida por el Consejo Nacional de Armonización Contable y al Clasificador por Objeto del Gasto para la Administración Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 32.
 
-El ejercicio del gasto para el pago de los servicios personales, deberá realizarse con base a la estructura orgánica, plantilla, tabulador y prestaciones que para tal efecto autorice el Pleno.
+El ejercicio del gasto para el pago de los servicios personales deberá realizarse con base en la estructura orgánica, plantilla, tabulador y prestaciones que para tal efecto autorice el Pleno.
 
 El ejercicio del gasto por concepto de adquisiciones de bienes, servicios y obras públicas, se formalizará por regla general a través de los contratos y convenios, excepcionalmente se manejarán órdenes de servicio, en apego a lo dispuesto en la normatividad interna en la materia.
 
 Todos los pagos sin excepción, se encontrarán condicionados a que la documentación comprobatoria satisfaga los requisitos fiscales y administrativos previstos en la legislación vigente.
 
-> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 33.
 
 En casos excepcionales y debidamente justificados, el Pleno del Instituto podrá autorizar contratos, cuya ejecución comprenda más de un ejercicio fiscal, en términos de lo dispuesto en el artículo 15 de los Lineamientos en materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto.
 
-Igualmente de manera excepcional, el Pleno podrá autorizar depósitos u otorgar garantías para el cumplimiento de las obligaciones de pago del Instituto.
+Igualmente, de manera excepcional, el Pleno podrá autorizar depósitos u otorgar garantías para el cumplimiento de las obligaciones de pago del Instituto.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 34.
 
-Para el registro de compromisos y gastos, la dirección de administración establecerá un sistema de control presupuestal y contable, que permita conocer las erogaciones que se realizan teniendo como elementos básicos el presupuesto autorizado, presupuesto modificado, presupuesto comprometido, presupuesto ejercido y presupuesto disponible.
+Para el registro de compromisos y gastos, la dirección de administración establecerá un sistema de control presupuestal y contable que permita conocer las erogaciones que se realizan, teniendo como elementos básicos el presupuesto autorizado, el presupuesto modificado, el presupuesto comprometido, el presupuesto ejercido y el presupuesto disponible.
 
 Todo pago con cargo al presupuesto asignado al ejercicio fiscal que corresponda, recurso, salida o ingreso de valores, deberá registrarse sin excepción en la contabilidad del Instituto, debiendo contar con la documentación comprobatoria del gasto y que ésta reúna los requisitos fiscales.
 
-La dirección de administración deberá remitir al Presidente y a la contraloría, un reporte mensual del estado de situación presupuestal, dentro de los primeros 10 días hábiles del mes subsiguiente.
+La Dirección de Administración deberá remitir al Presidente y a la Contraloría, un reporte mensual del estado de situación presupuestal, dentro de los primeros 10 días hábiles del mes subsiguiente.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 35.
 
 Se deberá priorizar el uso de las existencias en almacén y establecer mecanismos para agotarlos antes de realizar nuevas adquisiciones, para evitar inventarios ociosos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 36.
 
 Quedan restringidas las llamadas a celulares y de larga distancia a través del servicio telefónico convencional para el personal en general. Cabe aclarar que lo anterior no es aplicable a Comisionados y titulares de las áreas; sin embargo, se controlarán a través de claves personales para realizar este tipo de llamadas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 37.
 
-La dirección de administración diseñará y difundirá entre el personal del Instituto, prácticas que fomenten el uso racional de los materiales y servicios, así como un programa de mantenimiento de mobiliario, equipo y de instalaciones que garanticen su estado óptimo, funcionalidad y prolonguen su vida útil.
+La Dirección de Administración diseñará y difundirá entre el personal del Instituto prácticas que fomenten el uso racional de los materiales y servicios, así como un programa de mantenimiento de mobiliario, de equipo y de instalaciones que garanticen su estado óptimo, funcionalidad y prolonguen su vida útil.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 38.
 
 Los gastos de propaganda e imagen institucional, así como los de difusión y campañas de información se contratarán atendiendo al criterio de eficacia-costo-impacto y deberán estar circunscritos al programa de difusión institucional.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 39.
 
 La dotación de combustible se destinará para los Comisionados, titulares de las áreas, vehículos destinados a servicios administrativos y como apoyo ocasional a servidores públicos que utilicen su vehículo particular en comisiones oficiales.
 
-El gasto de esta partida se ejercerá mediante la entrega de vales de gasolina, de tarjeta electrónica o de efectivo; los vales de gasolina los suministrará en forma mensual la dirección de administración. Los montos serán fijados de conformidad a la disponibilidad presupuestal y sujetos a la aprobación del Pleno.
+El gasto de esta partida se ejercerá mediante la entrega de vales de gasolina, de tarjeta electrónica o de efectivo; los vales de gasolina los suministrará en forma mensual la Dirección de Administración. Los montos serán fijados de conformidad a la disponibilidad presupuestal y sujetos a la aprobación del Pleno.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 40.
 
@@ -381,23 +477,33 @@ El servicio de telefonía celular podrá ser asignado a los Comisionados, a los 
 
 Excepcionalmente, a juicio del Presidente, podrá incluirse temporal o en forma permanente a algunos otros servidores públicos del Instituto, en razón de las actividades que desempeñen o las condiciones en que éstas se deban realizar.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 41.
 
 Para el servicio de telefonía celular se cubrirán los costos de acuerdo a las tarifas mensuales establecidas. El monto será fijado de conformidad a la disponibilidad presupuestal y sujeto a la aprobación del Pleno.
 
-En el caso de celulares para el apoyo de servicios administrativos, se harán a través de tarjeta de pre-pago.
+En el caso de celulares para el apoyo de servicios administrativos se harán a través de tarjeta de pre-pago o recarga electrónica.
 
 Cuando se excedan las tarifas autorizadas, los consumos adicionales deberán ser cubiertos por el servidor público.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 42.
 
-Los gastos de alimentación de servidores públicos en reuniones oficiales se sujetarán a los montos máximos autorizados por el Pleno.
+Los gastos de representación se sujetarán a los montos máximos autorizados por el Pleno.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 IX. MANEJO DE RECURSOS
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 43.
 
 El manejo, control y administración de los recursos financieros del Instituto, se realizará a través de cuentas bancarias, contando con estados de cuenta bancarios que permitan la clara identificación de la operación financiera.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 44.
 
@@ -413,67 +519,99 @@ Los funcionarios facultados serán:
 
 4. Director de Administración y Finanzas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 45.
 
-Los cheques deben expedirse en términos nominales, sin tachaduras o enmendaduras, y nunca al portador, ni posfechados.
+Los cheques deben expedirse en términos nominales, sin tachaduras o enmendaduras y nunca al portador ni posfechados.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 46.
 
 Para un mejor manejo de los recursos financieros, el Instituto podrá contar con sistemas de banca electrónica para la operación de sus programas y proyectos, y para la verificación de sus operaciones financieras.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 47.
 
-La dirección de administración deberá cuidar que los pagos que se efectúen con cargo al presupuesto aprobado correspondan a compromisos efectivamente devengados, cuenten con la suficiencia presupuestaria respectiva, se efectúen dentro de los límites del calendario financiero autorizado y se encuentren debidamente justificados y comprobados con los documentos originales respectivos.
+La Dirección de Administración procurará que los pagos que se efectúen con cargo al presupuesto aprobado, correspondan preferentemente a compromisos efectivamente devengados, en caso contrario, deberán ser plenamente justificados por el Área solicitante. Asimismo los pagos deberán contar con la suficiencia presupuestaria y ser comprobados con los documentos originales respectivos.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 X. FONDOS REVOLVENTES
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 48.
 
 Con la finalidad de contar con un mecanismo que permita cubrir los compromisos de carácter urgente y de menor cuantía, el Instituto podrá contar hasta con tres fondos revolventes. Estos se encontrarán asignados al Presidente, al Departamento de Recursos Financieros y Contabilidad, y el último al Departamento de Recursos Materiales y Servicios Generales.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 49.
 
-Los fondos revolventes tendrán topes máximos, para el Presidente se administrará a través de una tarjeta de débito con un importe de $10,000.00 (diez mil pesos 00/100 M.N.); por el contrario los otros dos fondos se administrarán en efectivo y el cheque saldrá a nombre del responsable directo del fondo, por un importe de $5,000.00 (cinco mil pesos 00/100 M.N.) cada uno.
+Los fondos revolventes tendrán topes máximos, para el Presidente se administrará a través de una tarjeta de débito con un importe de $10,000.00 (mil pesos 00/100 M.N.); por el contrario los otros dos fondos se administrarán en efectivo y el cheque saldrá a nombre del responsable directo del fondo, por un importe de $5,000.00 (cinco mil pesos 00/100 M.N.) cada uno.
 
 Las adquisiciones que se realicen a través de los fondos revolventes deberán cubrir los mismos requisitos y contar con las mismas características comprobatorias que el resto de las adquisiciones que realice el Instituto, a excepción de los gastos en pasajes locales que se regirán por lo contemplado en estos Lineamientos.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 50.
 
 Los servidores públicos designados como encargados del manejo de los fondos revolventes serán responsables en todo momento del manejo adecuado y transparente de los recursos que los conforman, atendiendo en cualquier momento a su inspección o fiscalización por parte de la contraloría.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 51.
 
 El servidor público encargado del manejo del fondo revolvente, acepta tácitamente que el Instituto podrá contratar una fianza de fidelidad hasta por el monto autorizado para el establecimiento del fondo, para garantizar la probidad y honestidad en su manejo.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 52.
 
-El monto acumulado de los pagos y adquisiciones efectuados a través de los fondos revolventes, no podrá en ningún caso ser superior al 15% (quince por ciento) del presupuesto anual autorizado para los capítulos 2000 y 3000, exceptuando las asignaciones del concepto 3600 (Servicios de impresión, publicación, difusión e información)
+El monto acumulado de los pagos y adquisiciones efectuados a través de los fondos revolventes, no podrá en ningún caso ser superior al 15% (quince por ciento) del presupuesto anual autorizado para los capítulos 2000 y 3000, exceptuando las asignaciones del concepto 3600 (Servicios de impresión, publicación, difusión e información).
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 53.
 
-El manejo de los fondos revolventes, de manera ordinaria servirá para la adquisición de materiales y suministros o el pago de servicios, sin que se puedan pagar gastos con cargo al capítulo 1000 servicios personales y 5000 bienes muebles e inmuebles; de manera extraordinaria y por situaciones contingentes se podrá realizar pagos por servicios recurrentes, tales como: energía eléctrica, telefonía convencional, agua potable, entre otros.
+El manejo de los fondos revolventes, de manera ordinaria servirá para la adquisición de materiales y suministros o el pago de servicios, sin que se puedan pagar gastos con cargo al capítulo 1000 “Servicios personales” y 5000 “Bienes muebles, inmuebles e intangibles”; de manera extraordinaria y por situaciones contingentes se podrán realizar pagos por servicios recurrentes, tales como: energía eléctrica, telefonía convencional, agua potable, entre otros.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 54.
 
 Los fondos revolventes deberán ser cancelados anualmente y sus recursos reintegrados a la principal cuenta bancaria del Instituto, a más tardar el treinta y uno de diciembre de cada ejercicio, con el objeto de preparar el reintegro de los remanentes o economías presupuestales del ejercicio corriente y evitar deudores diversos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 XI. OBLIGACIONES PENDIENTES DE PAGO
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 55.
 
-Una vez concluida la vigencia del presupuesto de egresos, el Instituto sólo podrá hacer pagos con cargo a dicho presupuesto por obras, adquisiciones, servicios y demás conceptos que efectivamente se hubieran realizado en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones, observándose lo dispuesto en el Código.
+Una vez concluida la vigencia del presupuesto de egresos, el Instituto sólo podrá hacer pagos con cargo a dicho presupuesto por obras, adquisiciones, servicios y demás conceptos que efectivamente se hubieran realizado en el año que corresponda y siempre que se hubieren contabilizado debida y oportunamente las operaciones, observándose lo dispuesto en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 56.
 
 Para cubrir los compromisos que efectivamente se hayan contraído y no hubieren sido cubiertos al treinta y uno de diciembre de cada año, se deberán encontrar debidamente contabilizados a esa fecha y deberá existir disponibilidad presupuestal.
 
-En su caso, se deberá informar a la Secretaría a más tardar el quince de febrero de cada año, el monto y características del pasivo circulante al fin del año anterior, en los términos del Código.
+En su caso, se deberá informar a la Secretaría a más tardar el quince de febrero de cada año, el monto y características del pasivo circulante al fin del año anterior, en los términos de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 XII. CONTABILIDAD
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 57.
 
-El instituto efectuará sus pagos a través de sus cuentas bancarias y/o fondos fijos, debiendo anexar a las pólizas los siguientes comprobantes:
+El instituto efectuará sus pagos a través de sus cuentas bancarias y/o fondo fijo, debiendo anexar a las pólizas los siguientes comprobantes:
 
 1. Factura original;
 
@@ -481,37 +619,51 @@ El instituto efectuará sus pagos a través de sus cuentas bancarias y/o fondos 
 
 3. Cuando se trate de un servicio, tendrá que soportarse en forma adicional con la requisición de servicio, debidamente validada presupuestalmente;
 
-4. Cuando se trate de una adquisición de un bien mueble, tendrá que soportarse en forma adicional con la requisición de compra, debidamente validada presupuestalmente, y
+4. Cuando se trate de una adquisición de un bien mueble, tendrá que soportarse en forma adicional con la requisición de compra, debidamente validada presupuestalmente; y
 
 5. En el caso de las comisiones oficiales, deberán anexar el oficio de comisión u orden de pago de la comisión, invariablemente los soportes documentales (facturas, notas de consumo, etc.) correspondientes de conformidad a las políticas y lineamientos internos para el pago de viáticos vigente.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 58.
 
 Las conciliaciones bancarias se realizarán en forma mensual, en virtud de que forman parte del soporte financiero.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 59.
 
-Las adquisiciones de bienes y servicios contempladas en las partidas del gasto cuyo monto rebase el importe de $500.00 (quinientos pesos 00/100 M.N.), deberán de contar con el soporte documental siguiente: factura, alta almacenaria (en su caso), requisición de compra o de servicio.
+Las adquisiciones de materiales y servicios contempladas en las partidas del gasto cuyo monto rebase el importe de $ 500.00 (quinientos pesos 00/100 M.N.), deberán de contar con el soporte documental siguiente: factura y requisición de compra o de servicio.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 60.
 
-Las facturas que amparan la adquisición de bienes de inversión deberán ser conservadas en la dirección de administración.
+Las facturas que amparan la adquisición de mobiliario y equipo, así como la documentación referente a los activos fijos, deberá ser conservada en la Dirección de Administración, a través del Departamento de Recursos Materiales y Servicios Generales, de acuerdo con los plazos establecidos en el Catálogo de Disposición Documental del Instituto y lo dispuesto en la Ley de Archivos del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 61.
 
 El archivo contable se constituye por el conjunto de documentación original, consistente en pólizas, documentación soporte, balanzas de comprobación, libros diario, auxiliares, conciliaciones bancarias, estados de cuenta, catálogo de cuentas, guía contabilizadora, expedientes de cierre, estados financieros, dictámenes de estados financieros, así como los archivos electrónicos de contabilidad.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 62.
 
-El Instituto como Órgano Autónomo tributa bajo el Título III de la Ley del Impuesto sobre la Renta “Personas Morales No Contribuyentes”, en su carácter de retenedor puro, está obligado por el régimen fiscal a retener las siguientes contribuciones:
+El Instituto, como Órgano Autónomo, tributa bajo el Título III de la Ley del Impuesto sobre la Renta “Personas Morales No Contribuyentes” y, en su carácter de retenedor puro, está obligado por el régimen fiscal a retener las siguientes contribuciones:
 
-1. Impuesto Sobre la Renta de los ingresos por salarios y en general por la prestación de un servicio personal subordinado;
+1. Impuesto Sobre la Renta de los ingresos por salarios y, en general, por la prestación de un servicio personal subordinado;
 
-2. Impuesto Sobre la Renta retenido de los honorarios y en general por la prestación de servicios personales independientes, y
+2. Impuesto Sobre la Renta retenido de los honorarios, y en general, por la prestación de servicios personales independientes; y
 
 3. Retenciones al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE).
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 XIII. VIÁTICOS Y PASAJES
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 63.
 
@@ -521,17 +673,25 @@ Las comisiones oficiales se clasifican en nacionales e internacionales y se cons
 
 2. Con excepción de los eventos de protocolo, en ningún caso se otorgarán viáticos y pasajes para sufragar gastos de terceras personas o la realización de actividades ajenas al servicio oficial.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 64.
 
-Todas las comisiones deberán ser autorizadas por el Presidente y deberán ceñirse a las tarifas establecidas en el Acuerdo que el Pleno emita al respecto y que se publica tanto en la Gaceta Oficial del Distrito Federal como en la página de Internet del Instituto.
+Todas las comisiones deberán ser autorizadas por el Presidente y deberán ceñirse a las tarifas establecidas en el Acuerdo que el Pleno emita al respecto.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 65.
 
 Se pagará únicamente al personal del Instituto, los gastos por concepto de transportación derivada del traslado de la sede del Instituto a otro diferente, dentro de la zona metropolitana o conurbada de la Ciudad de México, con la finalidad de llevar a cabo comisiones y/o actividades de carácter oficial.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 66.
 
 El pago de pasajes locales se efectuará mediante el “Recibo de Pasajes” que elabore la dirección de administración, que será llenado y firmado por el servidor público comisionado y por el director de área que autorizó la comisión local.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 67.
 
@@ -543,23 +703,33 @@ Para la asignación de pasajes nacionales e internacionales se seleccionará el 
 
 3. Situación y estado de salud personal del servidor público comisionado.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 68.
 
 Los destinos que se encuentren en el Estado de México, Puebla, Morelos, Querétaro, Hidalgo y Tlaxcala, utilizarán transporte terrestre.
 
 Cuando el servidor público se traslade en vehículo oficial o propio, se podrá asignar un importe para gastos de carretera, que únicamente cubrirá las erogaciones realizadas en gasolina y pago de casetas.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 69.
 
 Los gastos derivados de viáticos y pasajes podrán ser contratados con una agencia de viajes, con la finalidad de poder tener mejores opciones del mercado y mejores precios.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 70.
 
 Queda prohibido el uso de pasajes aéreos de primera clase o business class, salvo que entre el punto de origen y el de destino medien más de 10,000 kilómetros. La comprobación de los mismos se realizará a través de la entrega de las tapas de los boletos aéreos.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 71.
 
 El otorgamiento de viáticos se sujetará a las tarifas autorizadas por el Pleno, las cuales podrán cubrir: hospedaje, alimentación, transporte local, estacionamiento, llamadas telefónicas y los estrictamente indispensables, así como las que se encuentren vinculadas con la comisión.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 72.
 
@@ -567,56 +737,84 @@ Las asignaciones de viáticos y pasajes deberán tramitarse en la dirección de 
 
 Cabe aclarar, que cuando no se tramiten los viáticos en forma anticipada, se podrá cubrir el importe de las erogaciones realizada en la comisión como viáticos devengados.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 73.
 
 La documentación comprobatoria de viáticos internacionales, será la que expidan los proveedores de bienes y servicios de acuerdo con las políticas locales adoptadas en el país de la comisión.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 74.
 
 Quedan excluidos de los viáticos, los gastos por concepto de bebidas alcohólicas, cigarros, artículos de higiene personal, medicamentos, artículos farmacéuticos, artesanías, libros, artículos de oficina, propinas y souvenirs, que no se encuentren directamente vinculados con el desarrollo de la comisión.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 75.
 
 Los comprobantes de gastos de viáticos nacionales podrán incluir un máximo del 10% de la tarifa, por concepto de gastos realmente efectuados sin contar con comprobación, o bien teniéndola, no reúna los requisitos fiscales.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 76.
 
 En el caso de los comprobantes de viáticos internacionales, éstos podrán comprobarse con el boleto de avión, los pases de abordar, las facturas o recibos de hospedaje y una relación pormenorizada de los otros gastos que haya realizado el beneficiario de la Comisión, firmada bajo protesta de decir verdad.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 77.
 
 La dotación de viáticos en periodos mayores a 24 horas, será en función de las pernoctas y la factura del hotel, que ampare las noches que hizo uso del servicio.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 78.
 
-Al servidor público que por motivos de la comisión oficial tenga que erogar gastos el día de regreso, se le asignarán viáticos sin pernocta, de conformidad a las tarifas autorizadas por el Pleno. Lo anterior, se calculará en función del horario de regreso.
+Al servidor público que por motivos de la comisión oficial tenga que erogar gastos el día de regreso se le asignarán viáticos sin pernocta, de conformidad a las tarifas autorizadas por el Pleno. Lo anterior, se calculará en función del horario de regreso.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 79.
 
 Al servidor público que se le comisione a una distancia mayor a 20 kilómetros y en forma adicional tenga que regresar el mismo día, se le asignarán viáticos sin pernocta para cubrir el transporte local y alimentación.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 80.
 
-Los servidores públicos deberán comprobar a la dirección de administración en un plazo no mayor de cinco días hábiles los viáticos nacionales o internacionales que les fueron asignados.
+Los servidores públicos deberán comprobar a la Dirección de Administración en un plazo no mayor de cinco días hábiles los viáticos nacionales o internacionales que les fueron asignados.
 
-En caso de que la dirección de administración no reciba la comprobación de viáticos completa, en un plazo de quince días posteriores al regreso del servidor público, tendrá la facultad de realizar el descuento vía nomina, previo aviso.
+En caso de que la Dirección de Administración no reciba la comprobación de viáticos completa en un plazo de quince días posteriores al regreso del servidor público, tendrá la facultad de realizar el descuento vía nomina, previo aviso.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 XIV. VIGILANCIA
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 81.
 
 Con el objeto de promover la eficiencia en el ejercicio presupuestal del Instituto, comprobar si el ejercicio del gasto se realizó de conformidad con la normatividad vigente, y evaluar si se han alcanzado las metas y objetivos de los programas; la contraloría inspeccionará, fiscalizará, verificará, investigará y evaluará el ejercicio del gasto del Instituto y su congruencia con el presupuesto autorizado. Lo anterior, sin perjuicio de lo que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 82.
 
-La contraloría realizará una revisión y análisis de los informes de avance programático presupuestal, estados financieros y de ejercicio del gasto, considerando los tiempos previstos en el Código para la presentación de esos informes.
+La Contraloría realizará una revisión y análisis de los informes de avance programático presupuestal, estados financieros y de ejercicio del gasto, considerando los tiempos previstos en la Ley de Presupuesto y Gasto Eficiente del Distrito Federal para la presentación de esos informes.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 83.
 
-El Pleno podrá autorizar la contratación de auditorías externas sobre uno o más ejercicios presupuestales, independientemente de las que realice la contraloría. De los resultados tendrá conocimiento el Pleno.
+El Pleno podrá autorizar la contratación de auditorías externas sobre uno o más ejercicios presupuestales, independientemente de las que realice la Contraloría. De los resultados tendrá conocimiento el Pleno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 9 DE DICIEMBRE DE 2009.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 29 DE ABRIL DE 2011.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
