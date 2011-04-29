@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-04-08"
+last_updated: "2011-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -2337,6 +2337,8 @@ IX.- Desarrollar programas de capacitación y adiestramiento para los integrante
 
 ### CAPITULO DECIMO TERCERO. DE LA DIRECCION DE RELACIONES PUBLICAS
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2011)</small>
+
 ###### ARTICULO 106.
 
 La Dirección de Comunicación Social tendrá las siguientes atribuciones:
@@ -2371,37 +2373,53 @@ VIII.- Diseñar y ejecutar campañas de comunicación para efecto de promover pr
 
 IX.- Realizar análisis de opinión pública sobre las acciones del gobierno municipal;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2011)</small>
 
-X.- Organizar los actos públicos, oficiales y protocolarios del gobierno municipal y aquellos en los que participe el Presidente Municipal. Entre dichos actos se consideran, los cívicos que corresponda organizar al gobierno municipal, las sesiones de cabildo, la recepción de visitantes distinguidos, la entrega de reconocimientos, la inauguración de obras, actividades o programas, y los demás similares;
+X.- Coadyuvar en mejorar la difusión de las Sesiones de las Comisiones y el Honorable Cabildo hacia la Ciudadanía;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+XI.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
-XI.- Coordinarse con las dependencias y entidades relacionadas con el evento a llevarse a cabo, a fin de para el mismo se cuente con los espacios, acciones, recursos, mobiliario, personal y demás materiales necesarios para su cabal realización;
+XII.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+XIII.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
-XII.- Definir en coordinación con las dependencias y entidades involucradas, el formato de los eventos públicos del gobierno municipal a fin de que en todos se sigan los lineamientos de la imagen institucional;
+XIV.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
-
-XIII.- Apoyar a las dependencias y entidades, en el diseño de estrategias para la realización de eventos públicos; y,
-
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
-
-XIV.- Definir las políticas y mecanismos de enlace y comunicación encaminados a establecer vínculos entre los grupos organizados de la sociedad y el gobierno municipal.
+XV (SIC).-
 
 ### CAPITULO DECIMO CUARTO. DE LA DIRECCION DE FOMENTO DEPORTIVO
 
 ###### ARTICULO 107.
 
-(DEROGADO, P.O. 25 DE ENERO DE 2008)
+La Dirección de Relaciones Públicas tendrá las siguientes atribuciones:
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
+I.- Organizar los actos públicos, oficiales y protocolarios del gobierno municipal y aquellos en los que participe el Presidente Municipal. Entre dichos actos se consideran, los cívicos que corresponda organizar al gobierno municipal, las sesiones de cabildo, la recepción de visitantes distinguidos, la entrega de reconocimientos, la inauguración de obras, actividades o programas; y los demás similares;
+
+II.- Coordinarse con las dependencias y entidades relacionadas con el evento a llevarse a cabo, a fin de para el mismo se cuente con los espacios, acciones, recursos, mobiliario, personal y demás materiales necesarios para su cabal realización;
+
+III.- Definir en coordinación con las dependencias y entidades involucradas, el formato de los eventos públicos del gobierno municipal a fin de que en todos se sigan los lineamientos de imagen institucional;
+
+IV.- Apoyar a las dependencias y entidades, en el diseño de estrategias para la realización de eventos públicos;
+
+V.- Definir las políticas y mecanismos de enlace y comunicación encaminados a establecer vínculos entre los grupos organizados de la sociedad y el gobierno municipal;
+
+VI.- Realizar las funciones de enlace institucional del gobierno municipal, como contacto inicial, operativo y logístico, con los representantes de las instituciones, así como definir el proceso, en los actos protocolarios en los que participe el Presidente Municipal;
+
+VII.- La organización y coordinación de las Sesiones del Honorable Cabildo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 108.
 
-(DEROGADO, P.O. 7 DE MAYO DE 2004)
+La Dirección de Relaciones Públicas para el mejor desempeño de sus atribuciones en el ámbito internacional contará con una Coordinación de Relaciones Públicas Internacionales, la que tendrá las siguientes atribuciones:
+
+I.- Coordinar e impulsar las relaciones internacionales del gobierno municipal con los actores internacionales, que permitan formular proyectos, propuestas y negociaciones en beneficio del desarrollo del municipio.
+
+II.- Promover e incrementar las relaciones entre el Municipio, con otros nacionales o extranjeros, particularmente con las denominadas Ciudades Hermanas; y
+
+III.- Promover y difundir tanto política, social, económica, cultural y tecnológicamente, la política internacional del gobierno municipal puestas de manifiesto en las Sesiones de las Comisiones y el Honorable Cabildo.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2004)</small>
 
 ### CAPITULO DECIMO QUINTO. DE LA DIRECCION DE CULTURA
 
@@ -3360,5 +3378,9 @@ P.O. 5 DE MARZO DE 2010.
 ÚNICO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE ABRIL DE 2011.
+
+SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 29 DE ABRIL DE 2011.
 
 SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
