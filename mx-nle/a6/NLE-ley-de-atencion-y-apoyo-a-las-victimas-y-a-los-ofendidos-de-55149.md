@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-atencion-y-apoyo-a-las-victimas-y-a-los-ofendidos-de-551
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-18"
-last_updated: "2010-12-24"
+last_updated: "2011-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de abril de 2007.
 
@@ -57,7 +57,7 @@ II.- Consejo: El Consejo de Atención y Apoyo para las Víctimas y Ofendidos de 
 
 III.- Daño: las lesiones, físicas y/o psicológicas o el menoscabo de su bienestar social y económico como consecuencia de un delito;
 
-IV.- Fideicomiso: el contrato que sea constituido para la administración y operación del Fondo;
+IV.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
 V.- Fondo: El Fondo para la Atención y Apoyo a las Víctimas ya los Ofendidos de Delitos del Estado de Nuevo León;
 
@@ -133,7 +133,9 @@ II.- Asesoría jurídica: Que deberá traducirse en asesoría en materia penal y
 
 III.- Asistencia Social y de Prevención Victimológica: Información, ayuda y orientación para superar la problemática del entorno social causada por la comisión del delito, lo que incluirá dictamen victimológico en el que se expongan los factores que influyeron en la comisión del delito, a fin de evitarla en lo futuro, además de las reacciones mediatas e inmediatas que se deben observar al ser víctima u ofendido;
 
-IV.- Apoyo económico: El que se otorgará a la víctima u ofendido que por su situación económica no pueda solventar las necesidades originadas como consecuencia directa e inmediata del delito; y,
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2011)</small>
+
+IV.- Apoyo económico: El que se otorgará a la victima u ofendido que por su situación económica no pueda solventar las necesidades originadas como consecuencia directa e inmediata del delito, tales como los servicios funerarios; atención médica especializada; traslado ante el Ministerio Público, aun y cuando se encuentren fuera del Estado; alimentos, cuando permanezcan con el Ministerio Público debido a su declaración o práctica de pruebas periciales en su persona; y,
 
 V.- Providencias de Protección.- Deberá prestarse siempre que existan datos suficientes de los que se desprenda un riesgo fundado para la víctima u ofendido; y se proporcionará tomando las providencias necesarias para proteger su vida, integridad física y patrimonio, así como de sus familiares directos y testigos de cargo.
 
@@ -255,7 +257,7 @@ De solicitarse el apoyo señalado en la presente Ley, éste deberá ser por escr
 
 Recibida por el Centro la información documental y demás datos que resulten indispensables, se resolverá acerca de la procedencia del otorgamiento de los apoyos solicitados atendiendo a lo establecido en esta Ley, lo cual se notificará al Ministerio Público y a la víctima o al ofendido. Cuando se trate de víctimas u ofendidos de delitos violentos, a juicio del Ministerio Público, se concederán de inmediato los beneficios económicos del Fondo. Para los fines de esta Ley, constituyen delitos violentos, entre otros, los de homicidio, lesiones y delitos sexuales.
 
-Sólo en casos excepcionales se entregarán recursos en efectivo, los cuales se harán por una sola vez sin que su monto pueda exceder al equivalente de doscientos salarios mínimos.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 27.
 
@@ -267,15 +269,19 @@ Los apoyos establecidos por esta Ley, únicamente se concederán a quienes:
 
 I.- De las diligencias realizadas por la Autoridad Ministerial, se desprenda que hayan sido víctimas u ofendidos de la comisión de una conducta tipificada como delito;
 
-II.- Sean de escasos recursos económicos. Para efectos de la presente fracción se considerará de escasos recursos, a las personas cuyo ingreso familiar diario sea igual o inferior al equivalente a cinco cuotas del salario mínimo vigente en el área metropolitana de Monterrey;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2011)</small>
 
-III.- No tengan derecho a los beneficios que otorgan las instituciones de seguridad social, exclusivamente por lo que se refiere a los apoyos médicos, como el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y otras similares;
+II.- Sean de escasos recursos económicos. Para efectos de la presente fracción se considerará de escasos recursos, a las personas cuyo ingreso diario de la victima u ofendido, o de quien este dependa económicamente, sea igual o inferior al equivalente a cinco cuotas del salario mínimo vigente en el área metropolitana de Monterrey;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2011)</small>
+
+III.- No tengan derecho a los beneficios que otorgan las instituciones de seguridad social, exclusivamente por lo que se refiere a los apoyos médicos, como en el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado y otras similares, exceptuándose a los beneficiarios del Seguro Popular;
 
 IV.- No tengan el carácter de beneficiarios de algún seguro que cubra los beneficios que esta Ley otorga;
 
 V.- Por circunstancias de sexo, edad, estado de salud, discapacidad o etnia, entre otros, se encuentren en una situación de vulnerabilidad en la sociedad; y,
 
-VI.- Se comprometan a pagar al Fondo, la cantidad que reciban de éste como apoyo para atender la emergencia, una vez que el responsable del delito cumpla con la reparación del daño o cuando se demuestre la mala fe por parte de quien recibió los beneficios del Fondo sin ser víctima u ofendido.
+VI.- (DEROGADA, P.O. 29 DE ABRIL DE 2011)
 
 ###### Artículo 29.
 
@@ -407,7 +413,9 @@ I.- Las partidas presupuestales que le asigne el Gobierno del Estado, previstas 
 
 II.- La cantidad que se recabe por concepto de cauciones o fianzas otorgadas ante el Ministerio público en la etapa de averiguación previa, cuando se hicieren efectivas, precisamente en dicha etapa, por el incumplimiento de las obligaciones a que estén afectas;
 
-III.- Las cantidades que por concepto de pago de la reparación del daño se cubran a las personas que por su carácter de víctimas u ofendidos hayan recibido apoyo económico en términos de esta Ley, en la parte que corresponda a los servicios prestados;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2011)</small>
+
+III.- Las cantidades que por concepto de apoyo sean devueltas al Fondo al comprobarse la mala fe por parte de quien recibió los beneficios del mismo, en los términos del artículo 27 de esta Ley;
 
 IV.- Las multas impuestas por el Ministerio Público o por la Visitaduría General de la Procuraduría General de Justicia del Estado de Nuevo León;
 
@@ -417,9 +425,11 @@ VI.- Las aportaciones o donativos que los particulares u organismos públicos, p
 
 VII.- Los rendimientos que se obtengan de las inversiones y reinversiones de los recursos del Fondo.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 37.
 
-Los recursos del Fondo serán administrados por la Procuraduría General de Justicia del Estado, por medio de un fideicomiso de orden público.
+Los recursos del Fondo serán administrados por la Procuraduría General de Justicia del Estado.
 
 ###### Artículo 38.
 
@@ -564,3 +574,11 @@ GILBERTO MONTIEL AMOROSO
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2011.
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá emitir las modificaciones al Reglamento de la Ley de Atención y Apoyo a las Victimas y a los Ofendidos de Delitos en el Estado de Nuevo León, en los términos del presente Decreto, en un plazo no mayor de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- El Gobernador del Estado instruirá a la Secretaria de Finanzas y Tesorería General del Estado para la liquidación del Fideicomiso, transfiriendo los recursos del mismo a la Procuraduría General de Justicia del Estado, quien deberá destinarlos al Fondo.
