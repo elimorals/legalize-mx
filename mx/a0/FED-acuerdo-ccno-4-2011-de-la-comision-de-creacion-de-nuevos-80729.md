@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-4-2011-de-la-comision-de-creacion-de-nuevos-80729"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-04-13"
-last_updated: "2011-04-13"
+last_updated: "2011-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80729&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-04-04"
 ---
 # ACUERDO CCNO/4/2011 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL [CONCLUSION ANTICIPADA DE LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS DEL PRIMERO, SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOCTAVO CIRCUITO]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO CCNO/4/2011, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSION ANTICIPADA DE LA EXCLUSION DEL TURNO DE NUEVOS ASUNTOS DEL PRIMERO, SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOCTAVO CIRCUITO, ORDENADA EN EL DIVERSO ACUERDO CCNO/2/2011
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 29 DE ABRIL DE 2011.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de abril de 2011.
 
@@ -51,9 +51,9 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2011 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 29 DE ABRIL DE 2011)</small>
 
-PRIMERO. Se concluye anticipadamente a partir del cinco de abril de dos mil siete la exclusión de turno del Primero, Segundo y Tercer Tribunales Colegiados del Decimoctavo Circuito ordenadas en el Acuerdo CCNO/2/2011.
+PRIMERO. Se concluye anticipadamente a partir del cinco de abril de dos mil once la exclusión de turno del Primero, Segundo y Tercer Tribunales Colegiados del Decimoctavo Circuito ordenadas en el Acuerdo CCNO/2/2011.
 
 SEGUNDO. A partir de la fecha precisada en el punto que antecede, los órganos jurisdiccionales indicados, se reincorporan al turno de asuntos nuevos, que se sigue en la Oficina de Correspondencia Común de los Tribunales Colegiados del Decimoctavo Circuito, conforme al sistema automatizado que se utiliza para esos efectos.
 
