@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-02-11"
+last_updated: "2011-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 32 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1827,7 +1825,7 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 180.
 
@@ -2237,11 +2235,15 @@ Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le ag
 
 ###### Artículo 209.
 
-Tipo y punibilidad.- Al que se apodere de una o más cabezas de ganado, cualquiera que sea su especie, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de uno a ocho años y hasta trescientos días multa.
+Al que se apodere de una o más cabezas de ganado mayor o menor, cualquiera que sea su especie, sin el consentimiento de quien legalmente pueda disponer de las mismas, se le impondrá prisión de uno a ocho años y hasta trescientos días multa. Para los efectos de éste artículo se considera como ganado mayor las especies bovina y equina, y ganado menor las especies ovina, porcina, caprina, cunícula y avícola.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 Cuando el abigeato, se ejecute en el medio rural, se le impondrá de tres a doce años y trescientos a quinientos días multa.
 
-Se equipara al abigeato y se impondrán las penas previstas en este artículo, a quien se apodere de dos o más colmenas.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2011)</small>
+
+Se equipara al abigeato y se impondrán las penas previstas en este artículo, a quien se apodere de una o más colmenas.
 
 ###### Artículo 210.
 
@@ -4710,3 +4712,7 @@ P.O. 17 DE DICIEMBRE DE 2010.
 P.O. 9 DE FEBRERO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
