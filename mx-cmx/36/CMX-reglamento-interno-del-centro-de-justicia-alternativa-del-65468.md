@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-centro-de-justicia-alternativa-del-65468
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-21"
-last_updated: "2009-10-07"
+last_updated: "2011-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65468&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2009-01-05"
 
 REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICION TRANSITORIA DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 29 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 21 de enero de 2009.
 
@@ -887,3 +889,13 @@ Segundo.- Se publicará la versión completa del texto vigente del Reglamento In
 Tercero.- La actual Dirección de Mediación Penal se transforma en la Dirección de Mediación Penal y de Justicia para Adolescentes. La Unidad de Registro y Monitoreo de Mediadores contará con las plazas, espacio y equipamiento que el servicio requiera y se instalará en enero de 2010, de conformidad a la disponibilidad presupuestal del Tribunal Superior de Justicia del Distrito Federal.
 
 Cuarto.- La Oficialía Mayor y la Dirección Ejecutiva de Planeación, ambas del Tribunal Superior de Justicia del Distrito Federal, realizarán en un término no mayor a tres meses contados a partir de la entrada en vigor del presente Acuerdo, la reestructura orgánica del Centro de Justicia Alternativa, escuchando las opiniones de este último.
+
+G.O. 29 DE ABRIL DE 2011.
+
+Primera. El presente Acuerdo de Reforma Integral al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal entrará en vigor el día de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+Segunda. Se abroga el Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal aprobado por el Consejo de la Judicatura del Distrito Federal mediante Acuerdo 17-81/2008 del tres de diciembre de 2008 y sus reformas y adiciones aprobadas mediante Acuerdo 31- 48/2009 del primero de septiembre de 2009, y se derogan las disposiciones que se opongan al presente Acuerdo.
+
+Tercera. Para mayor difusión publíquese el presente Acuerdo en la Gaceta Oficial del Distrito Federal.
+
+Cuarta. La Oficialía Mayor realizará las acciones necesarias, con la participación del Centro, para reestructurar orgánicamente el Centro y dotarle de los recursos humanos así como los servicios y equipo necesarios para el cumplimiento de su objeto. Dichas acciones incluirán la instalación y equipamiento de los módulos de mediación en el Reclusorio Sur y en Obrero Mundial para la atención de asuntos de justicia para adolescentes.
