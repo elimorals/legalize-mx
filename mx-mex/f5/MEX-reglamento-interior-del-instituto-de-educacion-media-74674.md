@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-educacion-media-74674"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-19"
-last_updated: "2007-10-19"
+last_updated: "2011-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 19 de octubre de 2007.
 
@@ -67,6 +67,8 @@ El Instituto conducirá sus actividades en forma programada y coordinada, con ba
 
 ### CAPÍTULO II. DE LA DIRECCIÓN Y ADMINISTRACIÓN DEL INSTITUTO
 
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 6.
 
 La dirección y administración del Instituto corresponden:
@@ -74,8 +76,6 @@ La dirección y administración del Instituto corresponden:
 I. Al Consejo Directivo; y
 
 II. Al Director General.
-
-El Instituto se auxiliará de las unidades administrativas y académicas que se establecen en el presente Reglamento y en su Manual General de Organización; asimismo, contará con los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
 #### SECCIÓN PRIMERA. DEL CONSEJO DIRECTIVO
 
@@ -127,29 +127,39 @@ XIV. Resolver las dudas que se susciten con motivo de la interpretación o aplic
 
 XV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 11.
 
-Para el estudio, planeación y despacho de los asuntos que le corresponden al Instituto, auxiliarán al Director General las unidades administrativas básicas siguientes:
+Para el estudio, planeación y despacho de los asuntos de su competencia, el Director General se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Subdirección de Educación Media Superior y Superior a Distancia.
+I. Subdirección Académica.
 
-II. Subdirección de Acreditación y Certificación Escolar.
+II. Subdirección de Tecnologías de la Información.
 
-III. Departamento de Servicios Administrativos.
+III. Subdirección de Administración y Finanzas.
 
 IV. Unidad Jurídica.
 
 V. Contraloría Interna.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS SUBDIRECTORES Y JEFES DE UNIDAD Y DE DEPARTAMENTO
+El Instituto contara con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE ABRIL DE 2011)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS SUBDIRECTORES Y JEFE DE UNIDAD
+
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 12.
 
-Al frente de cada Subdirección, Unidad y Departamento habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran.
+Al frente de cada Subdirección y de la Unidad habrá un Subdirector y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 13.
 
-Corresponde a los Subdirectores y Jefes de Unidad y de Departamento:
+Corresponde a los Subdirectores y al Jefe de Unidad:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de la unidad administrativa a su cargo.
 
@@ -183,15 +193,21 @@ XV. Vigilar y disponer lo necesario para el cumplimiento de las atribuciones, pr
 
 XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, UNIDAD JURÍDICA, DEPARTAMENTO DE SERVICIOS ADMINISTRATIVOS Y CONTRALORÍA INTERNA
+> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE ABRIL DE 2011)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, UNIDAD JURÍDICA Y CONTRALORÍA INTERNA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 14.
 
-Corresponde a la Subdirección de Educación Media Superior y Superior a Distancia:
+Corresponde a la Subdirección Académica:
 
 I. Prestar servicios de educación media superior y superior en las modalidades no escolarizada y mixta, bajo las vertientes abierta y a distancia.
 
-II. Desarrollar tecnologías y promover alternativas para la educación abierta y a distancia, atendiendo las necesidades particulares de cada región de la entidad.
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+II. Promover alternativas para la educación abierta y a distancia, atendiendo las necesidades particulares de cada región de la entidad.
 
 III. Evaluar las instituciones y planteles de educación media superior y superior a distancia, a fin de proponer al Director General el otorgamiento, negación o retiro de la incorporación o el reconocimiento de validez oficial de estudios.
 
@@ -213,29 +229,65 @@ XI. Proponer al Director General la organización académica del Instituto, de c
 
 XII. Proponer al Director General la creación de unidades académicas y centros de educación no escolarizada y mixta, bajo las vertientes abierta y a distancia.
 
-XIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XIII. Revalidar los estudios que soliciten instituciones del nivel medio superior y superior, abierta y a distancia, de conformidad con las disposiciones en la materia.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XIV. Otorgar a los estudios el carácter de bachillerato general y propedéutico, así como de licenciatura, maestría o doctorado.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XV. Vigilar la aplicación de la normatividad académica en los programas de educación media superior y superior a distancia, en las modalidades no escolarizada y mixta, bajo las vertientes abierta y a distancia.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XVI. Revalidar y establecer la equivalencia de estudios realizados en otras instituciones nacionales o extranjeras.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XVII. Autenticar los certificados, diplomas, títulos y grados académicos que expidan los particulares respecto de los estudios que el Instituto haya incorporado o reconocido.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XVIII. Acreditar o certificar los estudios totales o parciales que ofrezca el Instituto en educación media superior y superior, en las modalidades no escolarizada y mixta, bajo las vertientes abierta y a distancia, así como extender los certificados y títulos correspondientes.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XIX. Aplicar las normas y procedimientos para el egreso de los alumnos del Instituto.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 15.
 
-Corresponde a la Subdirección de Acreditación y Certificación Escolar:
+Corresponde a la Subdirección de Tecnologías de la Información:
 
-I. Revalidar los estudios que soliciten instituciones del nivel medio superior y superior, abierta y a distancia, de conformidad con las disposiciones en la materia.
+I. Coordinar y evaluar, con la participación que corresponda a los responsables de los centros de atención y evaluación y a las unidades académicas de educación media superior y superior a distancia, los programas de desarrollo informático que utilicen para el cumplimiento de sus funciones.
 
-II. Otorgar a los estudios el carácter de bachillerato general y propedéutico, así como de licenciatura, maestría o doctorado.
+I. Planear y validar la adquisición y mantenimiento de los bienes informáticos que requiera el Instituto, en coordinación con las áreas normativas en la materia.
 
-III. Vigilar la aplicación de la normatividad académica en los programas de educación media superior y superior a distancia, en las modalidades no escolarizada y mixta, bajo las vertientes abierta y a distancia.
+III. Difundir entre las unidades administrativas del Instituto, las normas, políticas, criterios y procesos que en materia de informática establezca la autoridad en la materia.
 
-IV. Revalidar y establecer la equivalencia de estudios realizados en otras instituciones nacionales o extranjeras.
+IV. Ofrecer soporte y asesoría técnica en materia de tecnologías de la información a las unidades administrativas del Instituto y formular las recomendaciones necesarias para mejorar el funcionamiento de los sistemas y equipo informático.
 
-V. Autenticar los certificados, diplomas, títulos y grados académicos que expidan los particulares respecto de los estudios que el Instituto haya incorporado o reconocido.
+V. Integrar y mantener actualizado el inventario de los bienes tecnológicos del Instituto, en coordinación con las demás unidades administrativas del Organismo.
 
-VI. Acreditar y certificar los estudios totales o parciales que ofrezca el Instituto, en educación media superior y superior, en las modalidades no escolarizada y mixta, bajo las vertientes abierta y a distancia, y extender los certificados y títulos correspondientes.
+VI. Promover la capacitación y profesionalización de los servidores públicos responsables de la operación de los sistemas y equipo informático del Instituto, a fin de mejorar su utilización.
 
-VII. Aplicar las normas y los procedimientos para el egreso de los alumnos del Instituto.
+VII. Diseñar, proponer e implementar un modelo tecnológico para el Instituto, con base en las necesidades de educación a distancia de las regiones de la entidad y en términos de la normatividad federal y estatal en la materia.
 
-VIII. Integrar y actualizar, en el ámbito de su competencia, los registros estadísticos del Instituto.
+VIII. Promover el uso eficiente de las redes convergentes de voz, datos y video, así como fomentar su integración y mantener su disponibilidad.
 
-IX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+IX. Evaluar los programas y proyectos de tecnologías de la información del Instituto e informar lo conducente al Director General.
+
+X. Administrar las tecnologías de información y telecomunicaciones de las unidades administrativas.
+
+XI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 16.
 
@@ -259,15 +311,17 @@ VIII. Difundir entre el personal del Instituto los ordenamientos jurídicos que 
 
 IX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 17.
 
-Corresponde al Departamento de Servicios Administrativos:
+Corresponde a la Subdirección de Administración y Finanzas:
 
 I. Programar, organizar y controlar el suministro de los recursos financieros, materiales y técnicos del Instituto, así como los servicios generales necesarios para el funcionamiento de sus unidades administrativas.
 
 II. Aplicar las normas, políticas, lineamientos y demás disposiciones en materia de administración de personal, adquisiciones, servicios, control presupuestal y evaluación programática del Instituto.
 
-III. Integrar, dar seguimiento y evaluar el programa anual de actividades del Instituto.
+III. (DEROGADA, G.G. 29 DE ABRIL DE 2011)
 
 IV. Integrar y someter a la consideración del Director General, los anteproyectos de presupuestos de ingresos y de egresos del Instituto, de acuerdo con la normatividad en la materia.
 
@@ -285,7 +339,7 @@ X. Coordinar y ejecutar los procedimientos de adquisición y arrendamiento de bi
 
 XI. Suscribir los convenios y contratos derivados de los procedimientos para la adquisición de bienes, contratación de servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable.
 
-XII. Administrar las tecnologías de información y telecomunicaciones de las unidades administrativas del Instituto.
+XII. (DEROGADA, G.G. 29 DE ABRIL DE 2011)
 
 XIII. Integrar, con la participación de las unidades administrativas del Instituto, el manual de organización del Instituto y promover la formulación y actualización de los manuales de procedimientos de las unidades administrativas del Organismo.
 
@@ -301,7 +355,13 @@ XVIII. Llevar el inventario de los bienes muebles e inmuebles del Instituto, as�
 
 XIX. Coordinar las acciones de protección civil del Instituto, con base en las normas y políticas aplicables.
 
-XX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XX. Administrar y asegurar la conservación y el mantenimiento del patrimonio del Instituto.
+
+> <small>(ADICIONADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+XXI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 18.
 
@@ -349,11 +409,15 @@ El Comité Técnico Consultivo estará integrado por:
 
 I. Un Presidente, quien será el Director General.
 
-II. Un Secretario, quien será el Subdirector de Educación Media Superior y Superior a Distancia.
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2011)</small>
+
+II. Un Secretario, quien será el Subdirector Académico.
 
 III. Siete vocales, quienes serán:
 
-a. El Subdirector de Acreditación y Certificación Escolar.
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
+
+a. El Jefe de la Unidad de Información, Planeación, Programación y Evaluación.
 
 b. Dos responsables de los Centros de Atención y Evaluación de Educación Media Superior a Distancia.
 
@@ -407,9 +471,11 @@ IX. Las demás que le confieran otras disposiciones legales y aquellas que le en
 
 El Director General será suplido en sus ausencias temporales hasta por 15 días naturales, por el Subdirector que aquél designe. En las mayores de 15 días naturales, por quien designe el Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2011)</small>
+
 ###### Artículo 26.
 
-Los Subdirectores y Jefes de Unidad y de Departamento serán suplidos en sus ausencias temporales hasta por 15 días naturales, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días naturales, por el servidor público que designe el Director General.
+Los Subdirectores y el Jefe de Unidad serán suplidos en sus ausencias temporales hasta por 15 días naturales, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días naturales, por el servidor público que designe el Director General.
 
 T R A N S I T O R I O S
 
@@ -430,3 +496,17 @@ LIC. BENJAMÍN VALDÉS PLATA
 DIRECTOR GENERAL DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 29 DE ABRIL DE 2011.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- A partir de la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos jurídicos, administrativos y demás documentos se haga referencia a las funciones, procesos y asuntos de las Subdirecciones de Educación Media Superior y Superior a Distancia y de Acreditación y Certificación Escolar, se entenderá que los mismos se encuentran conferidos a la Subdirección Académica; asimismo, cuando se haga referencia a los correspondientes del Departamento de Servicios Administrativos se entenderá a la Subdirección de Administración y Finanzas.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
