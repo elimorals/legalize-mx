@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2010-09-02"
+last_updated: "2011-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -796,7 +796,7 @@ I. Ligeros: Aquellos que tienen una capacidad de carga de hasta tres mil kilogra
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2003)</small>
 
-II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobus, minibús, midibús, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
+II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobus, minibús, midibus, volteo, revolvedora, pipa, estacas, tubular, tórton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
 
 Se entiende por peso bruto vehicular el peso real del vehículo expresado en kilogramos, sumado al de su máxima capacidad de carga conforme a las especificaciones del fabricante y al del tanque de combustible lleno a su capacidad.
 
@@ -1664,6 +1664,20 @@ VI.- Le informará al conductor el monto en salarios mínimos de la sanción imp
 
 En el caso del conductor que habiendo cometido alguna de las infracciones previstas por la Ley o el Reglamento, no se encuentre en el lugar del vehículo, el agente vial procederá a elaborar la cédula de notificación correspondiente, la que dejará en lugar visible y seguro del automotor.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2011)</small>
+
+###### Artículo 153 Bis.
+
+Las infracciones a la Ley o a este reglamento, que sean detectadas a través de equipos o sistemas tecnológicos, se harán constar en cédula de notificación de infracción, para lo cual se verificarán las siguientes acciones:
+
+I. La cédula de notificación contendrá y adjuntará los datos esenciales a que se refiere la Ley de Procedimiento Administrativo del Estado de Jalisco, debiendo precisar el tipo de equipo o sistema tecnológico que se utilizó para determinar la infracción a la Ley o este reglamento;
+
+II. En el caso de equipos o sistemas tecnológicos deberá contener o adjuntar la imagen o evidencia generada por referido instrumento, en los casos que resulte procedente, de conformidad con el sistema utilizado; y
+
+III. La cédula deberá ser notificada al propietario del vehículo dentro de los sesenta días naturales posteriores al levantamiento de la misma, en el domicilio que aquél tenga registrado ante la Secretaría de Finanzas. En caso de las notificaciones por correo certificado, si el domicilio se encuentra cerrado y nadie responde para la entrega del documento, se realizará una segunda visita por parte del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre lo reciba o si éstos no se encuentran en el domicilio, se levantará constancia de ello.
+
+Para efectos de este artículo, en el caso de vehículos registrados en otro Estado, según las prevenciones que existan con relación a la coordinación fiscal, las cédulas de notificación podrán ser puestas a disposición y aplicación de la entidad federativa correspondiente.
+
 ###### Artículo 154.
 
 Cuando el agente vial presuma que el conductor se encuentre bajo la influencia de bebidas alcohólicas, estupefacientes, enervantes, psicotrópicos o cualquier sustancia tóxica que altere o disminuya su capacidad para conducir, procederá a solicitar el auxilio del laboratorio móvil, el que una vez en el lugar procederá a obtener la toma correspondiente para su análisis y dictamen.
@@ -1911,3 +1925,7 @@ PRIMERO. El presente Acuerdo entrará en vigor el día 6 de septiembre de 2010, 
 SEGUNDO. Los protocolos a que se refiere el artículo 8 Bis del presente Reglamento deberán ser publicados a más tardar el 4 de septiembre del año en curso.
 
 TERCERO. El pago de derechos a que hace referencia el artículo 161 Bis del presente Reglamento serán obligatorios a partir del ejercicio fiscal 2011 y una vez incluido en la Ley de Ingresos correspondiente.
+
+P.O. 30 DE ABRIL DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
