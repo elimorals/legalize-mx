@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-879-de-derechos-y-cultura-indigenas-para-el-77488"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2010-11-03"
+last_updated: "2011-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 879 DE DERECHOS Y CULTURAS INDIGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2011.
 
 Ley publicada en el Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
@@ -685,7 +685,9 @@ Los Jueces, Procuradores y demás Autoridades Administrativas que conozcan del a
 
 El Estado, por conducto de las autoridades creadas para la defensa del indígena, en coordinación con el Ministerio Público y las autoridades que por razón de sus funciones deban intervenir, vigilarán la eficaz protección de los derechos de los indígenas.
 
-En todas las etapas procesales, y al dictar resolución, deberán considerar la condición, prácticas, sistemas normativos y la costumbre del o de los miembros de los pueblos y comunidades de indígenas. El Tribunal Superior de Justicia del Estado contará con una sala de asuntos indígenas.
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2011)</small>
+
+En todas las etapas procesales, y al dictar resolución, deberán considerar la condición, prácticas, sistemas normativos y la costumbre del o de los miembros de los pueblos y comunidades indígenas. El Tribunal Superior de Justicia del Estado contará con una Sala de Asuntos Indígenas, integrada por un Magistrado y por el personal que señale la ley.
 
 ###### Artículo 82.
 
@@ -823,7 +825,9 @@ Artículo segundo. El Gobierno del Estado contará con un plazo de 365 días a p
 
 Artículo tercero. La presente Ley se difundirá por escrito y de manera oral en las lenguas de los pueblos y comunidades de indígenas asentados en el territorio del Estado, a través del Consejo Consultivo Estatal y con el apoyo de las Instituciones Estatales y Municipales cuyas funciones se vinculen con las comunidades de indígenas.
 
-Artículo cuarto. El Congreso del Estado en un término de 180 días contados a partir de la entrada en vigor de esta Ley, proveerá las reformas y adiciones necesarias a la Ley Orgánica del Poder Judicial del Estado, para crear la Sala de Asuntos Indígenas del Tribunal Superior de Justicia y proveer el nombramiento de sus integrantes.
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2011)</small>
+
+Artículo cuarto. El Congreso del Estado, dentro de los trescientos sesenta días siguientes al inicio de la vigencia de esta Ley, deberá expedir el decreto de reformas y adiciones a las disposiciones de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a efecto de establecer las atribuciones, organización y funcionamiento de la Sala de Asuntos Indígenas del Tribunal Superior de Justicia, y proveer lo conducente para el nombramiento del Magistrado que la integre.
 
 Artículo quinto. El Congreso del Estado presentará en un término máximo de 360 días las iniciativas para armonizar las leyes que correspondan con las disposiciones de esta Ley.
 
@@ -856,3 +860,11 @@ Gobernador del Estado
 Rúbrica.
 
 folio 1842
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 2 DE MAYO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
