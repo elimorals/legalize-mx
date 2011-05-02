@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-la-ley-sobre-operacion-y-funcionamiento-de-15599"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-22"
-last_updated: "1999-12-22"
+last_updated: "2011-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE LA LEY SOBRE OPERACION Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCION, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 22 de diciembre de 1999.
 
@@ -67,13 +67,19 @@ VIII. Revalidación: Acto administrativo que tiene por objeto prorrogar anualmen
 
 IX. Distribución: Traslado a domicilio de bebidas alcohólicas, efectuado por un porteador;
 
-X. Permiso eventual: Documento en que consta la autorización para vender bebidas alcohólicas en envase abierto y permitir su consumo en un espacio o lugar previamente delimitado, por una temporalidad que no exceda de un mes; y,
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+X. Permiso eventual: Documento en que consta la autorización para vender bebidas alcohólicas en envase abierto y permitir su consumo en un espacio o lugar previamente delimitado, por una temporalidad que no exceda de siete días; y,
 
 XI. Reincidencia: Comisión de dos o más infracciones a la Ley o al presente Reglamento, durante un mismo ejercicio fiscal.
 
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 4.
 
-Es facultad del Ejecutivo del Estado, a través de la Secretaría y de la Dirección, así como de los Ayuntamientos en el ámbito de sus respectivas competencias, vigilar todo lo concerniente al cumplimiento y aplicación de la Ley y de este Reglamento.
+Es facultad EXCLUSIVA del Ejecutivo del Estado, a través de la Secretaría y de la Dirección, vigilar todo lo concerniente al cumplimiento y aplicación de la Ley y de este Reglamento.
 
 ###### Artículo 5.
 
@@ -139,23 +145,43 @@ Por el otorgamiento de licencias para la producción, envasamiento, almacenamien
 
 Para la revalidación de licencias se deberán cumplir los siguientes requisitos:
 
-I. Solicitud por escrito dirigida al Ayuntamiento que corresponda, con copia para la Dirección;
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. Carta de Opinión Favorable del Ayuntamiento respectivo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+I. SOLICITUD POR ESCRITO DIRIGIDA A LA DIRECCIÓN Y/O AL AYUNTAMIENTO QUE CORRESPONDA CON COPIA PARA LA DIRECCIÓN;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+II. Original o copia certificada de la Carta de Opinión Favorable del Ayuntamiento respectivo;
 
 III. Copia de la constancia sanitaria presentada con la solicitud de licencia, siempre y cuando la misma no haya sido revocada;
 
-IV. Presentar la licencia original; y,
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
 
-V. Constancia de no adeudo por concepto de multas impuestas por la Dirección.
+IV. Presentar la Licencia original;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+V. Constancia de no adeudo por concepto de multas impuestas por la Dirección; y,
+
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2011)</small>
+
+VI. CONSTANCIA QUE EXPIDA LA DIRECCIÓN, DE QUE EN ESE ESTABLECIMIENTO NO SE HAYA VENDIDO, EXHIBIDO, EXPUESTO Y/O REPRODUCIDO MÚSICA, VIDEOS, IMÁGENES Y/O ESPECTÁCULOS ARTÍSTICOS TENDIENTES A ENALTECER CRIMINALES, CONDUCTAS ANTISOCIALES Y/O ACTIVIDADES ILÍCITAS, DURANTE EL PERÍODO COMPRENDIDO DESDE LE (SIC) FECHA EN QUE SE REVALIDÓ SU LICENCIA POR ÚLTIMA VEZ, HASTA LA FECHA DE LA NUEVA SOLICITUD DE REVALIDACIÓN.
+
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
 
 ###### Artículo 17.
 
-Revisada y aprobada la solicitud para la revalidación de la licencia de que se trate, el Ayuntamiento correspondiente dará respuesta a la misma en un plazo no mayor de treinta días naturales, contados a partir de la fecha en que se recibió dicha solicitud.
+Revisada la solicitud para la revalidación de la licencia de que se trate, la Dirección y/o el Ayuntamiento correspondiente dictaminará la misma en un plazo no mayor de treinta días naturales, contados a partir de la fecha en que se recibió dicha solicitud.
 
-El Ayuntamiento, una vez aprobados los requisitos, emitirá orden de pago por concepto de revalidación anual de licencia, que se pagará en la Tesorería Municipal correspondiente.
+La Dirección y/o el Ayuntamiento correspondiente, una vez dictaminada la solicitud de revalidación, emitirá orden de pago por concepto de revalidación de licencia, que se pagará en la Tesorería Municipal correspondiente. Posteriormente el Ayuntamiento remitirá el expediente completo a la Dirección, misma que podrá revocar la revalidación en términos de la ley y el reglamento de la materia.
 
-El interesado deberá entregar copia de la revalidación a la Dirección, en un plazo de 15 días contados a partir del día siguiente de su otorgamiento. La Dirección deberá sellar y firmar de recibido el original de la misma.
+Una vez autorizada la revalidación de licencia por la Dirección y/o el Ayuntamiento, la Tesorería Municipal correspondiente, por ningún motivo podrá negarse a recibir el pago por concepto de revalidación de licencia. Los ayuntamientos no podrán exigir ningún requisito adicional a los ya establecidos para condicionar el trámite de revalidación de licencia, tampoco podrán cobrar cuotas y/o donativos no previstos en la Ley de la materia.
 
 ###### Artículo 18.
 
@@ -171,17 +197,27 @@ Para la revalidación de licencias para el funcionamiento de establecimientos de
 
 ### CAPÍTULO V. DE LOS PERMISOS EVENTUALES
 
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 21.
 
-Los Ayuntamientos podrán otorgar permisos eventuales, hasta por un mes, para venta y consumo de bebidas alcohólicas en lugares donde se realicen eventos especiales como bailes, ferias, exposiciones, fiestas regionales, eventos deportivos u otros.
+Los Ayuntamientos podrán otorgar permisos eventuales, hasta por siete días, para venta y consumo de bebidas alcohólicas en lugares donde se realicen eventos especiales como bailes, ferias, exposiciones, fiestas regionales, eventos deportivos u otros; estos permisos deberán ser solicitados con al menos treinta (sic) hábiles de anticipación a la fecha de realización del evento en cuestión. No se otorgará permiso eventual cuando en el evento especial que se trate se pretenda vender, exhibir, exponer y/o reproducir música, videos, imágenes y/o espectáculos artísticos tendientes a enaltecer criminales, conductas antisociales y/o actividades ilícitas.
+
+Cuando la dirección tenga conocimiento de que se otorgaron permisos eventuales en algún lugar específico, en el que puedan ocurrir hechos que pongan en riesgo la seguridad pública y/o afectar el interés público, podrá revocar el permiso respectivo aun cuando se hayan cumplido los requisitos de la ley y el reglamento.
 
 ###### Artículo 22.
 
 Los permisos eventuales a que se refiere el artículo anterior, deberán solicitarse mediante escrito dirigido al Ayuntamiento que corresponda, señalando el tipo de evento a realizar con venta y consumo de bebidas alcohólicas, así como el lugar en donde se llevará a cabo y el destino que se dará a los fondos que se obtengan.
 
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 23.
 
-Los Ayuntamientos deberán remitir a la Dirección un informe de los permisos eventuales otorgados, con anterioridad a la realización del evento que se autorice.
+Los Ayuntamientos deberán remitir a la Dirección un informe que incluya información detallada de cada uno de los permisos eventuales otorgados, mínimo quince días antes de la realización del evento que se autorice, pudiendo la Dirección revocar dicho permiso eventual, en términos de la ley de la materia, para lo cual podrá al Ayuntamiento a más tardar el mismo día del evento de que se trate. En caso de que la Dirección no revoque dicho permiso eventual, quedan expeditas sus facultades discrecionales de inspección señaladas en el artículo 33, del presente reglamento.
 
 ###### Artículo 24.
 
@@ -193,7 +229,9 @@ Por el otorgamiento de permisos eventuales para venta y consumo de bebidas alcoh
 
 Los días y horarios para la venta y/o consumo de bebidas alcohólicas, se sujetará a lo siguiente:
 
-I. Agencia matriz, diariamente de las 09:00 a las 23:00 horas;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+I. Agencia matriz, diariamente de las 09:00 a las 21:00 horas;
 
 II. Almacén, de lunes a sábado de las 09:00 a las 20:00 horas;
 
@@ -237,13 +275,19 @@ XXI. Salas de Fiesta, diariamente de las 09:00 a las 02:00 horas del día siguie
 
 XXII. Porteo, diariamente de las 07:00 a las 20:00 horas; excepto para la distribución de bebidas alcohólicas que se realice por fábrica, que podrá efectuarse durante las 24 horas del día, y por agencia matriz de las 09:00 a las 23:00 horas.
 
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 26.
 
-Los titulares de licencias para operar establecimientos destinados a la venta y/o consumo de bebidas alcohólicas, podrán solicitar al Ayuntamiento respectivo la ampliación de sus horarios regulares de funcionamiento, hasta por un máximo de dos horas y por un período que no exceda de tres meses, conforme a lo señalado en el artículo 32, párrafo segundo, de la Ley.
+Los titulares de licencias para operar establecimientos destinados a la venta y/o consumo de bebidas alcohólicas, podrán solicitar a la Dirección y/o al Ayuntamiento respectivo, la ampliación de sus horarios regulares de funcionamiento. Los Ayuntamientos podrán autorizar la ampliación de horarios hasta por un máximo de dos horas y por un período que no exceda de un mes conforme a lo señalado en el artículo 32, párrafo segundo, de la Ley.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
 
 ###### Artículo 27.
 
-La solicitud de ampliación de horarios a que se refiere el artículo anterior, deberá realizarse por escrito ante el Ayuntamiento que corresponda, especificando las causas que motivan la petición de dicha ampliación de horario, debiéndose presentar por lo menos con cinco días hábiles de anticipación a la fecha en que se pretenda ampliarlo. El Ayuntamiento de que se trate, propondrá a la Dirección las solicitudes respectivas, para que con su anuencia puedan ser autorizadas hasta por un plazo de tres meses.
+La solicitud de ampliación de horarios, dirigida a los Ayuntamientos, a que se refiere el artículo anterior, deberá realizarse por escrito ante el Ayuntamiento que corresponda, especificando las causas que motivan la petición de dicha ampliación de horario, debiéndose presentar por lo menos con cinco días hábiles de anticipación a la fecha en que se pretenda ampliarlo. El Ayuntamiento de que se trate, propondrá a la Dirección las solicitudes respectivas, para que con su anuencia puedan ser autorizadas hasta por un plazo de un mes.
 
 ###### Artículo 28.
 
@@ -261,9 +305,13 @@ En la licencia para el funcionamiento de los establecimientos a que se refiere l
 
 ### CAPÍTULO VII. DEL CAMBIO DE DOMICILIO Y DENOMINACIÓN O RAZÓN SOCIAL
 
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 31.
 
-El cambio de domicilio y de denominación o razón social de los establecimientos destinados a la producción, envasamiento, almacenamiento, distribución, venta y consumo de bebidas alcohólicas, deberá solicitarse por escrito ante el Ayuntamiento que corresponda, y una vez integrado el expediente se remitirá a la Secretaría, con las observaciones pertinentes, para que ésta resuelva en definitiva.
+El cambio de domicilio y de denominación o razón social de los establecimientos destinados a la producción, envasamiento, almacenamiento, distribución, venta y consumo de bebidas alcohólicas, deberá solicitarse por escrito ante LA DIRECCIÓN Y/O el Ayuntamiento que corresponda, y una vez integrado el expediente se remitirá a la Secretaría, con las observaciones pertinentes, para que ésta resuelva en definitiva.
 
 ###### Artículo 32.
 
@@ -271,15 +319,19 @@ La Secretaría, por conducto de la Dirección, resolverá las solicitudes a que 
 
 ### CAPÍTULO VIII. LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 33.
 
-La Dirección está facultada para ordenar en cualquier momento, la práctica de visitas de inspección a los establecimientos destinados a la producción, envasamiento, almacenamiento, distribución, venta y consumo de bebidas alcohólicas, con el objeto de verificar la observancia y cumplimiento de las disposiciones contenidas en la Ley y el presente Reglamento, y para comprobar la comisión de infracciones a los referidos ordenamientos.
+La Dirección es la única facultada para ordenar en cualquier momento, la práctica de visitas de inspección a los establecimientos destinados a la producción, envasamiento, almacenamiento, distribución, venta y consumo de bebidas alcohólicas, así como a los lugares donde se realicen eventos especiales como para venta y consumo de bebidas alcohólicas en lugares donde se realicen eventos especiales como bailes, ferias, exposiciones, fiestas regionales, eventos deportivos y otros, con el objeto de verificar la observancia y cumplimiento de las disposiciones contenidas en la Ley y el presente Reglamento, y para comprobar la comisión de infracciones a los referidos ordenamientos. (sic)
+
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
 
 ###### Artículo 34.
 
-Los inspectores adscritos a la Dirección, designados por la Secretaría, son los encargados de la vigilancia para la estricta observancia y cumplimiento de las disposiciones contenidas en la Ley y este Reglamento.
-
-Los hechos, omisiones e irregularidades que hagan constar los inspectores en las actas que levanten en ejercicio de sus funciones, se tendrán por ciertos mientras no se demuestre lo contrario.
+Únicamente los inspectores adscritos a la Dirección son los encargados y facultados para vigilar la estricta observancia y cumplimiento de las disposiciones contenidas en la Ley y este Reglamento. Los Ayuntamientos de ninguna manera podrán designar inspectores, supervisores, auditores, ni a persona alguna para realizar estas labores.
 
 ###### Artículo 35.
 
@@ -343,15 +395,25 @@ IV. La reincidencia del infractor; y,
 
 V. La capacidad económica del infractor.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 41.
 
-En la resolución que emita la Dirección, podrá:
+La Dirección es la única autoridad facultada para imponer las sanciones establecidas en este reglamento y su ley. En la resolución que emita la Dirección, podrá:
 
-I. Imponer multas a cargo de los titulares de licencia, las que tendrán el carácter de créditos fiscales, mismos que de no cubrirse oportunamente, se harán efectivos por las autoridades fiscales mediante el procedimiento económico coactivo que establece el Código Fiscal del Estado de Sinaloa;
+I.- Imponer multas a cargo de los titulares de licencia, las que tendrán el carácter de créditos fiscales, mismos que de no cubrirse oportunamente, se harán efectivos por las autoridades fiscales mediante el procedimiento económico coactivo que establece el Código Fiscal del Estado de Sinaloa.
 
-II. Decretar la clausura provisional o definitiva del establecimiento de que se trate; y,
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-III. Decretar la cancelación de la licencia respectiva.
+II.- REVOCACIÓN DEL PERMISO EVENTUAL.
+
+(NOTA: EL 14 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 68/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III.- CANCELAR LA EXTENSIÓN DEL HORARIO.
+
+IV.- Decretar la clausura provisional o definitiva del establecimiento de que se trate.
+
+V.- Decretar la cancelación de la licencia respectiva.
 
 ###### Artículo 42.
 
@@ -395,7 +457,9 @@ VII. La descripción de las bebidas alcohólicas, motivo de la inspección, así
 
 VIII. El lugar en el que quedarán depositadas las bebidas alcohólicas, a disposición de la Dirección;
 
-IX. Que se hizo saber al interesado que cuenta con un plazo de cinco días hábiles para ofrecer las pruebas y alegatos que a su derecho convengan, el cual iniciará a partir del día hábil siguiente al en que se actúa;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2011)</small>
+
+IX. Que se hizo saber al interesado que cuenta con un plazo improrrogable de cinco días hábiles para ofrecer las pruebas y alegatos que a su derecho convengan, el cual iniciará a partir del día hábil siguiente al en que se actúa;
 
 X. Firma del acta en todos sus folios, por las personas que en ella intervinieron; y,
 
@@ -403,9 +467,11 @@ XI. Si al cierre del acta de inspección, la persona sujeta a la misma se niega 
 
 Si en el plazo a que se refiere la fracción IX de este artículo, no se acredita que para la realización de la actividad que dio origen al embargo se cuenta con la licencia o permiso respectivo, la Dirección dictará la resolución correspondiente en la que se plasmará que se podrá proceder a la venta de los productos embargados con base en el valor comercial de los mismos.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 46.
 
-Cuando el interesado presente pruebas documentales que acrediten la legalidad de la actividad que motivó el embargo, y que la misma se realiza con la correspondiente autorización, la Dirección dictará de inmediato la resolución que corresponda, sin que en estos casos se impongan sanciones, ordenando la devolución de las bebidas alcohólicas embargadas o, en su caso, el monto del valor comercial de dichos productos.
+Cuando el interesado, dentro del plazo de cinco días hábiles señalado en el artículo 45 fracción IX del presente reglamento, presente pruebas documentales que acrediten la legalidad de la actividad que motivó el embargo, y que la misma se realiza con la correspondiente autorización, la Dirección dictará de inmediato la resolución que corresponda, sin que en estos casos se impongan sanciones, ordenando la devolución de las bebidas alcohólicas embargadas o, en su caso, el monto del valor comercial de dichos productos.
 
 ###### Artículo 47.
 
@@ -417,9 +483,11 @@ En los casos en que el interesado no desvirtúe, mediante pruebas documentales, 
 
 Contra los actos y resoluciones administrativas que dicten, ordenen, ejecuten o traten de ejecutar las autoridades estatales, que afecten derechos de particulares por violación a las disposiciones contenidas en la Ley y el presente Reglamento, se podrá interponer el recurso de inconformidad.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
 ###### Artículo 49.
 
-El escrito de interposición del recurso deberá presentarse ante la Dirección, dentro de los quince días hábiles siguientes a aquél en que haya surtido efectos la notificación de la resolución o acto que se impugnen, o al en que se haya tenido conocimiento de los mismos.
+El escrito de interposición del recurso deberá presentarse ante la Dirección, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación de la resolución o acto que se impugnen, o al día en que se haya tenido conocimiento de los mismos.
 
 ###### Artículo 50.
 
@@ -441,7 +509,9 @@ V. Relacionar las pruebas ofrecidas y los hechos controvertidos de que se trate;
 
 VI. Estar firmado por el interesado o por quien esté legalmente autorizado para ello. Cuando quien deba firmar no sepa o no pueda hacerlo, deberá imprimir su huella digital.
 
-Cuando no se expresen agravios, no se señale la resolución o acto que se impugnen, ni los hechos controvertidos o no se ofrezcan pruebas, la Dirección requerirá al promovente para que dentro de un plazo de cinco días hábiles cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnados, se desechará el recurso; si no se señala la resolución que se impugna se tendrá por no interpuesto el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos y se tendrán por no ofrecidas las pruebas, respectivamente.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2011)</small>
+
+Cuando no se expresen agravios, no se señale la resolución o acto que se impugne, ni los hechos controvertidos, o no se ofrezcan pruebas, la Dirección requerirá al promovente para que dentro de un plazo de tres días hábiles cumpla con dichos requisitos. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, se desechará el recurso; si no se señala la resolución que se impugna se tendrá por no interpuesto el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos y se tendrán por no ofrecidas las pruebas, respectivamente.
 
 ###### Artículo 52.
 
@@ -574,3 +644,13 @@ Juan S. Millán Lizárraga
 El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Los procedimientos y recursos administrativos que estuvieren en curso al entrar en vigor el Decreto, se continuarán conforme a las disposiciones que les dieron origen.
+
+TERCERO.- Se abrogan y dejan sin efecto cualquier decreto, reglamento y/o disposición que contravenga lo dispuesto en el presente.
