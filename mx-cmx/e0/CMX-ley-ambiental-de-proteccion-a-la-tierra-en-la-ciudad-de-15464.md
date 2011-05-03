@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-04-07"
+last_updated: "2011-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -158,7 +158,9 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
 
-ACTIVIDAD RIESGOSA: toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+
+ACTIVIDAD RIESGOSA: Toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -319,6 +321,10 @@ PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO: La persona física o mor
 PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
 PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
+
+PROGRAMA DE MANEJO: Instrumento rector de planeación y regulación que establece las actividades, acciones y lineamientos básicos para el manejo y la administración de las áreas de valor ambiental;
 
 PROTECCIÓN ECOLÓGICA: El conjunto de políticas, planes, programas, normas y acciones destinados a mejorar el ambiente y a prevenir y controlar su deterioro;
 
@@ -544,9 +550,9 @@ XXVII. Ejercer todas aquellas acciones tendientes a la conservación y restaurac
 
 XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia; y en su caso, hacer uso de las medidas de seguridad;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
-XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
+XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, creación e incremento de áreas verdes en suelo urbano, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -648,7 +654,9 @@ II. Celebrar convenios con el Gobierno del Distrito Federal para la administraci
 
 III. Promover la participación de la ciudadanía en materia ambiental;
 
-IV. Implementar acciones de conservación y restauración del equilibrio ecológico, así como la protección al ambiente desde las delegaciones;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+
+IV. Implementar acciones de conservación, restauración y vigilancia del equilibrio ecológico, así como la protección al ambiente desde las delegaciones;
 
 > <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -665,6 +673,14 @@ Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibil
 > <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
 VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente (sic) por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
+
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+
+VIII. Las Delegaciones deberán etiquetar un porcentaje de su presupuesto anual que garantice el mantenimiento, la protección, la preservación, la vigilancia de las áreas verdes y barrancas de su demarcación.
+
+Las Delegaciones que tengan un porcentaje mayor de 9 metros cuadrados de área verde por habitante, no deberán permitir por ningún motivo su disminución.
+
+Las Delegaciones que no cuenten con 9 metros cuadrados de área verde por habitante, deberán incrementarlo buscando alcanzar este objetivo con alternativas para la creación de nuevas áreas verdes como son: azoteas verdes, barrancas, retiro de asfalto innecesario en explanadas, camellones, áreas verdes verticales y jardineras en calles secundarias.
 
 ###### ARTÍCULO 11.
 
@@ -1342,7 +1358,7 @@ VII. Medidas contempladas para la prevención o mitigación de impactos ambienta
 
 VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1380,7 +1396,7 @@ Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las
 
 El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 58 Ter.
 
@@ -1658,23 +1674,27 @@ II. La vigilancia y conservación de los recursos naturales en Áreas Comunitari
 
 III. El manejo y la administración de las áreas naturales protegidas;
 
-IV. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
 
-V. La retribución por proteger, restaurar o ampliar los servicios ambientales;
+IV. La restauración y conservación, así como la elaboración de los programas de manejo de las áreas de valor ambiental;
 
-> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
+V. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
-VI. La retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica;
-
-VII. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
+VI. La retribución por proteger, restaurar o ampliar los servicios ambientales;
 
 > <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-VIII. El cuidado y protección de los animales del Distrito Federal;
+VII. La retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica;
 
-IX. La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+VIII. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
 
-X. La reparación de daños ambientales.
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+IX. El cuidado y protección de los animales del Distrito Federal;
+
+X. La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+
+XI. La reparación de daños ambientales.
 
 ###### ARTÍCULO 70.
 
@@ -1984,7 +2004,9 @@ II. Plazas jardinadas o arboladas;
 
 III. Jardineras;
 
-IV. Zonas con cualquier cubierta vegetal en la vía pública;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+
+IV. Zonas con cualquier cubierta vegetal en la vía pública; así como área o estructura con cualquier cubierta vegetal o tecnología ecológica instalada en azoteas de edificaciones;
 
 V. Alamedas y arboledas;
 
@@ -2022,7 +2044,7 @@ La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de 
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-###### Artículo 88 Bis 1.
+###### ARTÍCULO 88 Bis 1.
 
 En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
 
@@ -2036,25 +2058,11 @@ IV. El depósito de cascajo y de cualquier otro material proveniente de edificac
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-ARTÍCULO 88 bis 2. Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
-
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
-
 ###### ARTÍCULO 88 Bis 2.
 
-La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
 
-I. La ubicación y superficie;
-
-II. Los tipos de área verde;
-
-III. Las especies de flora y fauna que la conforman;
-
-IV. Las zonas en las cuales se considera establecer nuevas áreas verdes; y
-
-V. Las demás que establezca el Reglamento.
-
-Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando semestralmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 88 Bis 3.
 
@@ -2077,6 +2085,14 @@ IV. Las zonas en las cuales se considera establecer nuevas áreas verdes;
 V. Las demás que establezca el Reglamento.
 
 Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 88 Bis 5.
+
+Las autoridades locales del Distrito Federal, instalarán en la medida de sus posibilidades azoteas verdes en las edificaciones de que sean propietarios; para el caso de inmuebles catalogados por el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes y la Secretaría de Desarrollo Urbano y Vivienda, deberán contar con la autorización correspondiente.
+
+Las azoteas verdes se sujetarán a la normatividad que para tal efecto estipule la Secretaría.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4125,3 +4141,19 @@ Segundo.- Se derogan aquellas disposiciones que se opongan a lo contenido en el 
 Tercero.- La Oficialía Mayor implementará el Padrón de Proveedores de la Administración Pública del Distrito Federal a que se refiere el artículo 14 Bis de la Ley de Adquisiciones para el Distrito Federal, dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
 
 Cuarto.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MAYO DE 2011.
+
+DECRETO QUE REFORMA LA FRACCION XXIX DEL ARTICULO 9, SE REFORMA LA FRACCION IV Y SE ADICIONA LA FRACCION VIII AL ARTICULO 10; SE REFORMA LA FRACCION IV DEL ARTICULO 87 Y SE ADICIONA EL ARTICULO 88 BIS 5 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 3 DE MAYO DE 2011.
+
+DECRETO QUE ADICIONA UN QUINCUAGESIMO OCTAVO PARRAFO AL ARTICULO 5, Y SE ADICIONA LA FRACCION IV, RECORRIENDOSE LAS DEMAS DE MANERA SUBSECUENTE DEL ARTICULO 69 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
