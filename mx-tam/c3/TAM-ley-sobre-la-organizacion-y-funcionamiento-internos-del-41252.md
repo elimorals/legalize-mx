@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-03-30"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -687,9 +687,15 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 ###### ARTICULO 50.
 
-1. Las reuniones de las comisiones tendrán carácter reservado, pudiendo asistir a ellas los servidores públicos del Congreso que deban proporcionar servicios parlamentarios o administrativos.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
+1. Las reuniones de las comisiones tendrán carácter de públicas, salvo determinación expresa de sus miembros, pudiendo asistir a ellas los servidores públicos del Congreso que deban proporcionar servicios parlamentarios o administrativos.
 
 2. Las comisiones podrán celebrar reuniones públicas de información y audiencia cuando lo consideren pertinente. Al efecto podrá invitarse a representantes de grupos de interés, expertos y, en general, cualquier persona que pueda aportar información sobre determinado asunto que tengan a su cargo analizar o dictaminar.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2011)</small>
+
+3. La información y datos que formen parte de la realización de las reuniones de comisiones serán públicos si conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas no son de carácter reservado.
 
 #### SECCION TERCERA. DE LOS COMITES
 
@@ -2380,3 +2386,9 @@ P.O. 30 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 3 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor a partir de su aprobación, y deberá publicarse en el Periódico Oficial del Estado.
