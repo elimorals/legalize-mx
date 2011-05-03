@@ -4,7 +4,7 @@ identifier: "MIC-ley-sobre-el-regimen-de-propiedad-en-condominio-6483"
 country: "mx"
 rank: "ley"
 publication_date: "1973-11-01"
-last_updated: "1973-11-01"
+last_updated: "2011-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial, el jueves 1 de noviembre de 1973.
 
@@ -41,17 +41,29 @@ LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
 DEL REGIMEN DE PROPIEDAD EN CONDOMINIO.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-El régimen de propiedad en condominio vertical, horizontal o mixto se constituye cuando los diferentes pisos, departamentos, viviendas o locales de un inmueble, susceptible de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública pertenecen a distintos condóminos. Cada uno de éstos tendrá un derecho exclusivo y singular de propiedad sobre su departamento, vivienda, casa o local, y, además un derecho de copropiedad sobre los elementos y partes comunes del inmueble necesarios para su uso y disfrute apropiados.
+Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto regular la constitución, modificación, organización, funcionamiento, administración, y terminación, del régimen de propiedad en condominio en materia de bienes inmuebles.
 
-Los derechos de copropiedad sobre los elementos comunes del inmueble sólo serán enajenables, gravables o embargables, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva del condómino. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
+Asimismo, regula las relaciones entre los condóminos, y entre éstos y su administración, estableciendo las bases para resolver las controversias que se susciten con motivo de tales vínculos, mediante la conciliación y el arbitraje a petición de las partes, o a través de los Órganos Administrativos correspondientes del Ayuntamiento respectivo; sin perjuicio de la competencia que corresponda a otras autoridades judiciales o administrativas.
+
+El régimen de propiedad en condominio puede ser vertical, horizontal, o mixto; puede ser, además, habitacional, comercial, industrial o mixto. Se constituye cuando los diferentes edificios, pisos, departamentos, viviendas, locales, áreas, o naves, del inmueble, según el caso, son susceptibles de aprovechamiento independiente, por tener entidad propia, pero, a la vez, todas tienen un elemento inmueble común, para uno o varios servicios colectivos para los condóminos.
+
+Así, cada condómino tendrá un derecho exclusivo y singular de propiedad, a la vez que tendrá un derecho de copropiedad sobre los inmuebles comunes necesarios para su adecuado uso y disfrute.
+
+Los derechos de copropiedad sobre los inmuebles o elementos comunes, sólo serán enajenables, gravables o embargables, conjuntamente y de manera proporcional, con los edificios, pisos, departamentos, viviendas, locales, áreas, o naves del inmueble de propiedad singular y exclusiva del condómino, ya que la copropiedad sobre inmuebles y elementos comunes, no es susceptible de división ni de separación, respecto a la propiedad singular y exclusiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-El régimen de propiedad en condominio que regulan el articulo 868 del Código Civil y esta Ley, puede originarse:
+El régimen de propiedad en condominio que regulan tanto el Capítulo de la copropiedad del Código Civil, como esta Ley, puede originarse:
 
-I. Cuando los diferentes pisos, departamentos, viviendas o locales de que conste un inmueble, pertenezcan a distintos dueños;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2011)</small>
+
+I. Cuando los diferentes edificios, pisos, departamentos, viviendas, locales, áreas, o naves, de que conste un inmueble pertenezcan a distintos dueños;
 
 II. Cuando el propietario o propietarios de un edificio se propongan vender o transmitir por otro título a distintas personas los diferentes pisos, departamentos, viviendas o locales en que esté dividido, siempre que exista un elemento común que sea indivisible;
 
@@ -63,15 +75,31 @@ V. Cuando los copropietarios de un terreno se propongan construir en él un edif
 
 VI. Cuando se adquieran por personas distintas los diferentes pisos, viviendas o locales de que conste un inmueble, con elementos comunes e indivisibles;
 
-VII. Cuando varias personas decidan unirse para comprar un terreno para edificar y dividirse entre ellas los pisos, departamentos, viviendas o locales, con elementos comunes indivisibles.
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2011)</small>
 
-En todos los casos de las fracciones anteriores será necesario que el dueño o dueños del inmueble, previa aprobación de las autoridades competentes en materia de construcciones urbanas y sanitarias, hagan constar en escritura pública su voluntad de constituir el régimen de propiedad en condominio.
+VII. Cuando varias personas decidan unirse para comprar un terreno para edificar y dividirse entre ellas los pisos, departamentos, viviendas o locales, con elementos comunes indivisibles; y,
 
-Los notarios insertarán en la escritura constitutiva la aprobación correspondiente. La infracción de esta norma hará incurrir en sanción a los notarios.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MAYO DE 2011)</small>
+
+VIII. Cuando los edificios, pisos, departamentos, viviendas, locales, áreas, o naves del inmueble, perteneciendo a distintos dueños, no se encuentren en régimen de propiedad en condominio; en este caso, bastará la voluntad manifiesta ante el Ayuntamiento de la mitad más uno de los copropietarios para ser registrados como condominio, sin pago de derecho ni impuesto cual ninguno.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
+Si no hubiese la voluntad de esa mayoría para legalizar su situación de condominio, basta que la tercera parte de los copropietarios demanden frente al resto de los copropietarios ante un juzgado civil de primera instancia, para que este órgano jurisdiccional resuelva si ha o no lugar crear el régimen de propiedad en condominio.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
+En todos los casos de las fracciones anteriores, será necesario que el dueño del inmueble, antes de constituir el condominio, solicite la aprobación de las autoridades competentes, para que éste conste en escritura pública. Al igual, los copropietarios de un inmueble, antes de constituir el condominio, deben solicitar la aprobación de las autoridades competentes, para que éste conste en escritura pública. La constitución de un condominio, una vez legalizado, administrativa o judicialmente, debe constar en escritura pública, con las salvedades fiscales ya dispuestas en esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2011)</small>
+
+Los notarios públicos insertarán en la escritura constitutiva, la aprobación correspondiente. La infracción a esta norma, los hará incurrir en sanción.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 3o.
 
-Para constituir el régimen de propiedad en condominio, en los términos de los artículos anteriores, el propietario o propietarios deberán declarar su voluntad en escritura pública, en la cual forzosamente se hará constar:
+Para constituir el régimen de propiedad en condominio, en los términos de los artículos anteriores, el dueño o los copropietarios, una vez constituida la asamblea y aprobada la decisión, tendrán un lapso máximo de seis meses para su constitución, y deberán declarar su voluntad en escritura pública, en la cual forzosamente se hará constar:
 
 I. La situación, dimensiones y linderos del terreno, así como una descripción general de las construcciones y de los materiales empleados o que se vayan a emplear o del proyecto de las mismas;
 
@@ -109,9 +137,11 @@ En las escrituras de compraventa de cada piso, departamento, vivienda, casa o lo
 
 Las escrituras traslativas de dominio y los gravámenes que tengan por objeto los diferentes pisos, departamentos, viviendas o locales del inmueble sujeto al régimen de condominio, así como las modificaciones que sufra la escritura original y el Reglamento de Condominio y Administración, también deberán inscribirse en el Registro Público de la Propiedad, siendo necesaria la previa inscripción en el mencionado registro de la escritura constitutiva del condominio.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-Solamente por resolución adoptada por el 80% de la totalidad de los votos y por las tres cuartas partes del número de condóminos, se podrá modificar lo dispuesto en las escrituras a que se refiere el artículo 3o. de esta Ley en materia de destino general del inmueble o especial de cada piso, departamento, vivienda o local, de valores relativos a éstos y de bienes de propiedad común.
+Solamente por resolución adoptada por el cincuenta por ciento más uno de la totalidad de los votos, se podrá modificar lo dispuesto en las escrituras a que se refiere el artículo 3° de esta Ley en materia de destino general del inmueble, o los edificios, pisos, departamentos, viviendas, locales, áreas, o naves, según el caso, conforme a nuestra legislación civil.
 
 ###### ARTICULO 10.
 
@@ -175,9 +205,15 @@ V. Cualesquiera otro que se resuelva por unanimidad de los condóminos usar o di
 
 Serán de propiedad común de los condóminos colindantes, los entrepisos, muros y demás divisiones de los pisos, departamentos, viviendas, casas o locales que los separen entre sí. También son de propiedad común de los condóminos respectivos las obras, instalaciones, aparatos y objetos que sirvan sólo a dos o más pisos, departamentos, viviendas o locales.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 19.
 
-Los bienes comunes no podrán ser objeto de división o enajenación, salvo en los casos señalados por esta Ley.
+Los bienes comunes no podrán ser objeto de división o enajenación, salvo en los casos señalados por la legislación civil, y los derivados de esta Ley.
+
+Los bienes de propiedad común, pueden explotarse comercialmente o arrendarse a cualquier persona que los utilice con fines comerciales, previa aprobación de la asamblea de condóminos mediante votos, siempre y cuando no se modifique su estructura, ni se perjudiquen los derechos de propiedad o de acceso de ningún condómino, ni se afecte la seguridad, solidez, estabilidad, conservación, salubridad, normal funcionamiento de los servicios y eficacia del condominio.
+
+El dinero que se obtenga de la explotación comercial o las rentas de los bienes de propiedad común, se ingresará al fondo para gastos de mantenimiento y administración del propio condominio. El administrador del condominio ejercerá los derechos y obligaciones que le correspondan como arrendador, en los términos de la legislación civil.
 
 ###### ARTICULO 20.
 
@@ -235,11 +271,15 @@ Los condóminos del último piso o de los departamentos, viviendas o locales sit
 
 Para las obras en los bienes comunes e instalaciones generales, se observarán las siguientes reglas:
 
-I. Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad, conservación y para que los servicios funcionen normal y eficazmente, se efectuarán por el administrador previa licencia, en su caso, de las autoridades competentes, sin necesidad de previo acuerdo de los condóminos, pero con cargo al fondo de gastos de mantenimiento y administración. Cuando éste no baste o sea preciso efectuar obras no previstas, el administrador convocará a asamblea de condóminos, a fin de que por mayoría de votos resuelvan lo conveniente;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2011)</small>
+
+I. Las obras necesarias para mantener en buen estado de seguridad, estabilidad, conservación y para que los servicios funcionen normal y eficazmente, se efectuarán por el administrador, una vez obtenida la licencia correspondiente, por parte de las autoridades competentes, sin necesidad de previo acuerdo de los condóminos, pero con cargo al fondo de gastos de mantenimiento y administración. Cuando éste no baste o sea preciso efectuar obras no previstas, el administrador convocará a asamblea de condóminos, a fin de que por mayoría de votos de los presentes en términos del Código Civil del Estado, resuelvan lo conveniente;
 
 II. El enajenante es responsable de los vicios ocultos del condominio. El resto de los condóminos podrán proceder a la reparación de los mismos, en la proporción que cada uno represente sobre el valor total de aquél, quedando a salvo sus derechos para repetir en contra del enajenante;
 
-III. Para realizar obras puramente voluntarias, que aunque se traduzcan en mejor aspecto o mayor comodidad, no aumenten el valor del condominio, u otras que, sin ser necesarias si lo aumente, se requerirá el voto aprobatorio del 75% de los condóminos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2011)</small>
+
+III. Se requerirá el voto aprobatorio del cincuenta por ciento más uno, para realizar obras puramente voluntarias, encaminadas al mejoramiento del aspecto o comodidad del condominio que no aumenten su valor u otras que, sin ser necesarias, si lo aumenten;
 
 IV. Los condóminos no podrán emprender ni realizar obra alguna en los bienes comunes e instalaciones generales, excepto las reparaciones o reposiciones urgentes, en caso de falta de administrador;
 
@@ -253,7 +293,9 @@ DE LAS ASAMBLEAS Y DEL ADMINISTRADOR.
 
 La asamblea de condóminos es el órgano supremo del condominio.
 
-Cada condómino tendrá un número de votos igual al porcentaje del valor de su piso, departamento, vivienda, o local que represente en el total del condominio. La votación será personal y directa, salvo que el Reglamento de Condominio y Administración determine otra forma y procedimiento.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
+Cada condómino tendrá un número de votos igual al número de copropiedades con las que cuente en el inmueble. La votación será personal y directa, salvo que el Reglamento del Condominio y Administración determine otra forma y procedimiento.
 
 Las resoluciones de la asamblea se tomarán por mayoría simple de votos, excepto en los casos en que la presente Ley y el Reglamento de Condominio y Administración prescriban una mayoría especial o la unanimidad. Caso de empate el administrador tendrá voto de calidad.
 
@@ -263,7 +305,9 @@ Cuando un solo condómino represente más del 48% de los votos, se requerirá ad
 
 La convocatoria para la celebración de asamblea se hará en los términos de la fracción X, del artículo 37 de esta Ley.
 
-Cuando la asamblea se celebre a virtud de primera convocatoria se requerirá un quórum del 90% de votos computables; cuando se verifique por segunda convocatoria, el quórum será cuando menos del 51% de votos computables. Si la asamblea se efectuare en razón de tercera convocatoria, las resoluciones se tomarán por la mayoría simple de los presentes.
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
+Cuando la asamblea se celebre a virtud de primera convocatoria, se requerirá un quórum del cincuenta más uno de votos computables; cuando se verifique por segunda convocatoria, las resoluciones se tomarán por la mayoría simple de los presentes.
 
 Las resoluciones adoptadas por las asambleas en los términos de esta Ley, del Reglamento de Condominio y Administración y de las demás disposiciones legales aplicables obligan a todos los condóminos, incluyendo los ausentes o disidentes.
 
@@ -347,6 +391,10 @@ El administrador manejará un fondo para gastos de mantenimiento y administraci�
 
 La primera aportación para la constitución del fondo la determinará el Reglamento de Condominio y Administración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MAYO DE 2011)</small>
+
+Cuando los ingresos por la explotación comercial o el arrendamiento de los bienes de propiedad común, de los que habla el artículo 19, segundo párrafo de esta Ley, sean superiores por sí solos, a los gastos correspondientes a los tres meses mencionados en párrafos anteriores, el excedente, podrá ser utilizado para realizar mejoras al condominio o podrá ser invertido a la vista, en cualquier sociedad o institución financiera o podrá ser repartido entre los condóminos en forma proporcional al número de copropiedades con las que cuente en el inmueble, previa aprobación de la asamblea.
+
 ### CAPITULO IV
 
 DEL REGLAMENTO DE CONDOMINIO Y ADMINISTRACION.
@@ -369,9 +417,11 @@ VI. Las disposiciones necesarias que propicien la mejor convivencia social y cul
 
 VII. Las reglas adecuadas para la mejor administración y operación del condominio.
 
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 40.
 
-El Reglamento de Condominio y Administración sólo podrá modificarse por acuerdo del 75% de los condóminos.
+El Reglamento de Condominio y Administración, sólo podrá modificarse por acuerdo del cincuenta por ciento más uno de los votos.
 
 ###### ARTICULO 41.
 
@@ -395,9 +445,11 @@ Cuando un condominio conste de diferentes partes y comprenda, por ejemplo, varia
 
 Para efectos fiscales cada piso, departamento, vivienda o local se empadronará y valuará por separado, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes, o bien se estimará por separado la renta que sea susceptible de producir. Los condóminos cubrirán independientemente el impuesto sobre la propiedad raíz así como los demás impuestos de que sean causantes, salvo que por disposición legal la carga gravite sobre la unidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 45.
 
-Las cuotas para gastos comunes que los condóminos no cubran oportunamente, causarán intereses al tipo legal o al que fije el Reglamento de Condominio y Administración.
+Las cuotas para gastos comunes que los condóminos no cubran oportunamente, causarán intereses moratorios al tipo legal, o según lo fije el Reglamento del Condominio y Administración.
 
 El acta de la asamblea en que se acuerde el pago de cuotas anticipadas, o en que se distribuyan los gastos ya efectuados, protocolizada ante notario, o la liquidación mensual a cargo de los condóminos, tendrán el carácter de título ejecutivo y servirán de documentos base del derecho de acción para demandar en la vía sumaria civil a los morosos el pago de su adeudo e intereses, así como la pena convencional que estipule el Reglamento de Condominio y Administración.
 
@@ -570,3 +622,15 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 16 de octubre de 1973.- DIPUTA
 Por tanto mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 18 de Octubre de 1973.- EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO,- LIC. José Servando Chávez Hernández.- EL PRIMER SECRETARIO DE GOBIERNO.- LIC. Efrén Contreras Vallejo. Firmados
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese este Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
