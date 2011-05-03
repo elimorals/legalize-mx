@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-04-07"
+last_updated: "2011-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,117 +20,133 @@ issue_date: "1999-12-31"
 ---
 # LEY AMBIENTAL DE PROTECCION A LA TIERRA EN LA CIUDAD DE MEXICO -- ANTES LEY AMBIENTAL DEL DISTRITO FEDERAL --
 
-[NOTA 1: ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN ACTUALIZADA DE LA PUBLICACIÓN DEL PERIÓDICO OFICIAL EDICIÓN EXTRAORDINARIA DE FECHA 14 DE ABRIL DE 2022.]
+LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-[NOTA 2: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DE LA LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO, PUBLICADA EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTICUATRO DE AGOSTO DE DOS MIL DIECIOCHO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/].
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE MAYO DE 2011.
 
-LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO
+Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, PUBLICADA EN EL P.O. DE 14 DE ABRIL DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2022 (ABROGADA). (REPUBLICADA SU ABROGACIÓN, P.O. 3 DE MAYO DE 2022.)
+(Al margen superior izquierdo un escudo que dice: Ciudad de México.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
-Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 24 de agosto de 2018.
+DECRETO DE LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO.
+ROSARIO ROBLES BERLANGA, Jefa de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-HÉCTOR ANTONIO ASTUDILLO FLORES, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+Que la Honorable Asamblea Legislativa del Distrito Federal, I Legislatura, se ha servido dirigirme el siguiente
 
-Que el H. Congreso Local, se ha servido comunicarme que,
+DECRETO
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
+(Al margen superior izquierdo el escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA)
 
-C O N S I D E R A N D O
+LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
-[...]
+DECRETA
 
-Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local, 227 y 287 de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso decreta y expide la siguiente:
+LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-## Título Primero. Disposiciones Generales
+###### ARTÍCULO 1°.
 
-###### Artículo 1.
+La presente Ley es de orden público e interés social y tiene por objeto:
 
-La presente Ley es de orden público, interés social y de observancia general en todo el territorio estatal, y tiene por objeto:
+I. Definir los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los instrumentos y procedimientos para su aplicación;
 
-I. Regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, para contribuir al fortalecimiento del Sistema Nacional de Seguridad Pública; y
+II. Regular el ejercicio de las facultades de las autoridades de la Administración Pública del Distrito Federal en materia de conservación del medio ambiente, protección ecológica y restauración del equilibrio ecológico;
 
-II. Establecer las competencias, bases de coordinación y colaboración entre el Estado de Guerrero, la Federación, las entidades federativas, los municipios, así como todas las instituciones, incluidos los órganos auxiliares, que por las actividades que realizan, contribuyan a los fines y el desarrollo de la seguridad pública.
+III. Conservar y restaurar el equilibrio ecológico, así como prevenir los daños al ambiente, de manera que sean compatibles la obtención de beneficios económicos y las actividades de la sociedad con la conservación de los ecosistemas;
 
-La aplicación de esta Ley, corresponde a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, así como sus reglamentos, convenios y acuerdos que se suscriban sobre seguridad pública y demás ordenamientos aplicables.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-###### Artículo 2.
+IV. Establecer y regular las áreas verdes, áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, así como manejar y vigilar aquellas cuya administración se asuma por convenio con la Federación, estados o municipios;
 
-La seguridad pública es una función de servicio prioritario y permanente a cargo del Estado y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos, las medidas cautelares, la suspensión condicional del proceso, la ejecución penal y la reinserción social de las personas privadas de la libertad en su carácter de imputado o sentenciado.
+V. Prevenir y controlar la contaminación del aire, agua y suelo en el Distrito Federal en aquellos casos que no sean competencia de la Federación;
 
-###### Artículo 3.
+VI. Establecer las medidas de control, de seguridad y las sanciones administrativas que correspondan, para garantizar el cumplimiento y la aplicación de esta ley y de las disposiciones que de ella se deriven;
 
-Para los efectos de esta Ley, se entenderá y conceptualizará por:
+VII. Regular por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos; y
 
-I. Ayuntamiento: La autoridad municipal;
+VIII. Establecer el ámbito de participación de la sociedad en el desarrollo y la gestión Ambiental.
 
-II. Bases de Datos: Las Bases de Datos Criminalística y de Personal, información en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las de (sic) demás necesarias para la operación del Sistema.
+###### ARTÍCULO 2°.
 
-III. Carrera Policial: El Servicio Profesional de Carrera Policial;
+Esta ley se aplicará en el territorio del Distrito Federal en los siguientes casos:
 
-IV. Centro de Evaluación: El Centro Estatal de Evaluación y Control de Confianza;
+I. En la prevención y control de la contaminación atmosférica proveniente de fuentes fijas o móviles que de conformidad con la misma estén sujetas a la jurisdicción local;
 
-V. Código Nacional: El Código Nacional de Procedimientos Penales;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VI. Conferencia Estatal: la Conferencia Estatal de Seguridad Pública;
+II. En la prevención y control de la contaminación de las aguas de competencia local conforme a la ley federal en la materia;
 
-VII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+III. En la conservación y control de la contaminación del suelo;
 
-VIII. Constitución Estatal: La Constitución Política de (sic) Estado Libre y Soberano de Guerrero;
+IV. En la conservación, restauración y aprovechamiento sustentable de los recursos naturales de jurisdicción del Distrito Federal;
 
-IX. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Consejo Intermunicipal: El constituido por los municipios de una región económica;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XI. Consejo Municipal: El Consejo Municipal de Seguridad Pública;
+V. En la conservación, protección y preservación de la flora y fauna en el suelo de conservación y suelo urbano y en las áreas verdes, áreas de valor ambiental, áreas naturales protegidas competencia del Distrito Federal;
 
-XII. Consejo Nacional: El Consejo Nacional de Seguridad Pública;
+VI. En la evaluación y autorización del impacto ambiental y riesgo de obras y actividades;
 
-XIII. Desarrollo Policial: Al conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los Integrantes de las Instituciones Policiales y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia.
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XIV. Estado: El Estado Libre y Soberano de Guerrero;
+VII. En la política de desarrollo sustentable y los instrumentos para su aplicación;
 
-XV. Fiscalía: La Fiscalía General del Estado de Guerrero;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XVI. Instituciones de procuración de justicia: A las instituciones que integran al Ministerio Público, los servicios periciales, policías de investigación y demás auxiliares de aquel;
+VIII. En el establecimiento de las competencias de las autoridades ambientales;
 
-XVII. Instituciones policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XVIII. Instituciones de seguridad pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública a nivel Federal, Estatal y Municipal;
+IX. En la prevención, control y acciones contra la contaminación ambiental;
 
-XIX. Ley: La Ley del Sistema de Seguridad Pública del Estado de Guerrero;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XX. Ley General: La Ley General del Sistema Nacional de Seguridad Pública;
+X. En la prestación de servicios ambientales; y
 
-XXI. Municipios: Los ayuntamientos municipales del Estado;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XXII. Programa Rector de Profesionalización: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las instituciones policiales e instituciones de procuración de justicia, respectivamente;
+XI. En el establecimiento de medidas de control, seguridad y sanciones.
 
-XXIII. Presidente: El Presidente del Consejo Estatal;
+###### ARTÍCULO 3°.
 
-XXIV. Registro Nacional: El Registro Nacional de Personal de las instituciones de seguridad pública;
+Se consideran de utilidad pública:
 
-XXV. Secretaría: La Secretaría de Seguridad Pública del Gobierno del Estado de Guerrero;
+I. El ordenamiento ecológico del territorio del Distrito Federal;
 
-XXVI. Secretario: El titular de la Secretaría de Seguridad Pública del Gobierno del Estado de Guerrero y Coordinador Global del Sistema Estatal de Seguridad Publica;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXVII. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XXVIII. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+II. El establecimiento, protección, preservación, restauración mejoramiento y vigilancia de las áreas verdes, áreas de valor ambiental, áreas naturales protegidas de competencia del Distrito Federal, las zonas de restauración ecológica y en general del suelo de conservación y suelo urbano para la preservación de los ecosistemas y elementos naturales;
 
-XXIX. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XXX. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
+III. El establecimiento de zonas intermedias de salvaguarda; las áreas de producción agropecuaria, y la zona federal de las barrancas, humedales, vasos de presas, cuerpos y corrientes de aguas;
 
-XXXI. El Certificado: El Certificado Único Policial; y
+IV. La prevención y control de la contaminación ambiental del aire, agua y suelo, así como el cuidado, restauración y aprovechamiento de los elementos naturales y de los sitios necesarios para asegurar la conservación e incremento de la flora y fauna silvestres;
 
-XXXII. UNIPOL: La Universidad Policial del Estado de Guerrero.
+V. Las actividades vinculadas con la prestación del servicio público de suministro de agua potable;
+
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
+
+VI. La Ejecución de programas destinados a fomentar la educación ambiental y a otorgar incentivos para la aplicación de tecnología ambiental y para la conservación de servicios ambientales en las áreas naturales protegidas de competencia del Distrito Federal, las áreas comunitarias de conservación ecológica y el suelo de conservación;
+
+VII. La participación social encaminada al desarrollo sustentable del Distrito Federal; y (sic)
+
+VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE OCTUBRE DE 2008)</small>
+
+IX. La celebración de convenios o acuerdos de coordinación entre autoridades ambientales y otras autoridades administrativas para la realización coordinada y conjunta de acciones de protección, vigilancia, conservación y preservación de los ecosistemas y sus elementos naturales.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 4º.
 
@@ -142,7 +158,9 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
 
-ACTIVIDAD RIESGOSA: toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
+
+ACTIVIDAD RIESGOSA: Toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -178,11 +196,25 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 AUDITORÍA AMBIENTAL: Examen metodológico de las actividades, operaciones y procesos, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
-AUTORIZACIÓN DE IMPACTO AMBIENTAL: autorización otorgada por la Secretaría del Medio Ambiente como resultado de la presentación y evaluación de un informe preventivo, manifestación o estudio de impacto ambiental o de riesgo, según corresponda cuando previamente a la realización de una obra o actividad se cumplan los requisitos establecidos en esta Ley para evitar o en su defecto minimizar y restaurar o compensar los daños ambientales que las mismas puedan ocasionar;
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 7 DE ABRIL DE 2011)</small>
+
+AUTORIZACIÓN DE IMPACTO AMBIENTAL: Autorización otorgada por la Secretaría del Medio Ambiente como resultado de la presentación y evaluación de una declaratoria de cumplimiento ambiental, informe preventivo, manifestación o estudio de impacto ambiental y riesgo según corresponda cuando previamente a la realización de una obra o actividad se cumplan los requisitos establecidos en esta Ley para evitar o en su defecto minimizar y restaurar o compensar los daños ambientales que las mismas puedan ocasionar;
 
 BARRANCAS: Depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales, que constituyen zonas importantes del ciclo hidrológico y biogeoquímico;
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CENTRO COMERCIAL: Instalaciones que se destinen a la venta al público de bienes y servicios;
+
 CENTRO DE VERIFICACIÓN: Local determinado por las autoridades competentes y autorizado por éstas, para llevar a cabo la medición de emisiones contaminantes con el equipo autorizado, provenientes de los vehículos automotores en circulación;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CONJUNTO HABITACIONAL: Conjunto de viviendas concebidas dentro de un concepto integral, generalmente aprobado como un único proyecto o programa por la autoridad pública pertinente, casi siempre dentro del formato de propiedad horizontal compartida;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+CONJUNTO HABITACIONAL MIXTO: Conjunto de viviendas que permite una mezcla más intensa de usos de suelo, pudiendo coexistir edificios de uso puramente habitacional, con otros de uso de oficinas, administrativos y de industria no contaminante;
 
 COMPENSACIÓN: el resarcimiento del deterioro ocasionado por cualquier obra o actividad en un elemento natural distinto al afectado, cuando no se pueda restablecer la situación anterior en el elemento afectado;
 
@@ -201,6 +233,10 @@ CUENCA DE MÉXICO: El ámbito geográfico comprendido por los estados de México
 CUERPO RECEPTOR: La corriente, depósito de agua, el cauce o bien del dominio público del Distrito Federal en donde se descargan, infiltran o inyectan aguas residuales;
 
 DAÑO AMBIENTAL: Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+DECLARATORIA DE CUMPLIMIENTO AMBIENTAL: Instrumento de evaluación ambiental por virtud del cual los interesados declaran bajo protesta de decir verdad, que sus proyectos, obras o actividades no requieren de la presentación de una manifestación de impacto ambiental, informe preventivo, estudio de riesgo dado que los impactos ambientales y medidas de mitigación, control y compensación han sido tipificadas por la Secretaría y se encuentran regulados a través del cumplimiento de la normatividad aplicable vigente;
 
 DEMARCACIÓN TERRITORIAL: Cada una de las partes en que se divide el territorio del Distrito Federal para efectos de la organización político-administrativa;
 
@@ -225,6 +261,10 @@ EMISIONES CONTAMINANTES: La generación o descarga de materia o energía, en cua
 ENERGÍA SOLAR: Radiación electromagnética emitida por el sol;
 
 ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización u operación normal de la obra o actividad de que se trate;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+EVALUACIÓN AMBIENTAL ESTRATÉGICA: Procedimiento que incluye el conjunto de estudios e informes técnicos que permiten estimar los efectos de un plan o programa de gran trascendencia de desarrollo sectorial e institucional sobre el medio ambiente, con el fin de prevenirlos, compensarlos y mitigarlos;
 
 FAUNA SILVESTRE: las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del hombre, así como los animales domésticos, que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
@@ -274,15 +314,27 @@ PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y med
 
 PRESTADORES DE SERVICIOS AMBIENTALES: Prestador de servicios de impacto ambiental es la persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros y que es responsable del contenido de los mismos;
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL Y RIESGO: La persona física o moral que elabora informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo, daño ambiental, evaluaciones ambientales estratégicas, declaratorias de cumplimiento ambiental, informes de cumplimiento de condicionantes y/o de disposiciones ambientales;
+
 PREVENCIÓN: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
 PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
+
+PROGRAMA DE MANEJO: Instrumento rector de planeación y regulación que establece las actividades, acciones y lineamientos básicos para el manejo y la administración de las áreas de valor ambiental;
 
 PROTECCIÓN ECOLÓGICA: El conjunto de políticas, planes, programas, normas y acciones destinados a mejorar el ambiente y a prevenir y controlar su deterioro;
 
 QUEMA: Combustión inducida de cualquier sustancia o material;
 
 RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+RECONOCIMIENTO TÉCNICO: El reconocimiento que se realiza en el sitio donde pretende desarrollarse el programa, obra o actividad por los evaluadores de impacto ambiental y/o riesgo autorizados por la Secretaría para comprobar y constatar el contenido de los estudios de impacto ambiental en sus diferentes modalidades, o de evaluación de daño ambiental;
 
 RECURSOS NATURALES: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
@@ -324,503 +376,491 @@ VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o va
 
 ZONAS DE RECARGA DE MANTOS ACUÍFEROS: Las zonas en predios no construidos que por su ubicación reciben una precipitación pluvial superior a la media para el Distrito Federal y que por las características de suelo y subsuelo son permeables para la captación de agua de lluvia que contribuye a la recarga de los mantos acuíferos.
 
-## Título Segundo. Sistema Estatal de Seguridad Pública
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES AMBIENTALES
 
-###### Artículo 6.
+###### ARTÍCULO 6°.
 
-La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de:
+Son autoridades en materia ambiental en el Distrito Federal:
 
-I. Las instituciones policiales;
+I. El Jefe de Gobierno del Distrito Federal;
 
-II. Las instituciones de procuración de justicia;
+II. El Titular de la Secretaría del Medio Ambiente;
 
-III. Las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas; y
+III. Los Jefes Delegacionales del Distrito Federal; y
 
-IV. Las demás autoridades con base a sus atribuciones que deban contribuir directa o indirectamente al objeto de esta Ley.
+IV. La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal.
 
-###### Artículo 7.
+Para efectos de lo dispuesto en la fracción III, en cada órgano político administrativo existirá una unidad administrativa encargada del área ambiental y de aplicar las disposiciones que esta Ley le señalan como de su competencia.
 
-Las instituciones de seguridad pública, serán de carácter civil, disciplinado y profesional, su actuación se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por la Constitución Federal, fomentando la participación ciudadana y la rendición de cuentas en términos de Ley.
+La administración pública local será la encargada de formular la política de desarrollo sustentable para el Distrito Federal así como de realizar las acciones necesarias para proteger y restaurar el ambiente y los elementos naturales en forma coordinada, concertada y corresponsable con la sociedad en general, así como con las dependencias federales competentes.
 
-###### Artículo 8.
+La Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento, establecerán el sistema de delegación de facultades.
 
-Cuando las disposiciones de esta Ley comprendan materias y acciones que incidan en los diversos ámbitos de competencia del Estado y los Municipios o que la materia o acción no esté regulada en esta Ley, se estará a las siguientes reglas de supletoriedad:
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
-I. Respecto del apoyo y coordinación interinstitucional de los tres órdenes de gobierno, se estará a lo dispuesto en la Ley General, a las resoluciones y acuerdos emitidos por los Consejos Nacional y Estatal y las Conferencias Estatal y Nacional, el Código Nacional, la Ley Nacional de Ejecución Penal y demás disposiciones que conforman el marco jurídico de la materia;
+De conformidad con lo que dispone el artículo 22 de la Ley de Planeación del Desarrollo del Distrito Federal, el Comité de Planeación establecerá la Comisión del Ordenamiento Territorial del Distrito Federal, copresidida por los Titulares de las Secretarías de Medio Ambiente, Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades.
 
-II. Por cuanto al régimen disciplinario:
+Esta Comisión, de conformidad con la Ley de Planeación del Desarrollo del Distrito Federal, será el órgano de coordinación para la aplicación del ordenamiento ecológico territorial, de sus programas y del Programa General de Desarrollo Urbano y demás programas de Desarrollo Urbano, disposiciones que serán el elemento territorial que esa Ley prevé para el Programa General de Desarrollo del Distrito Federal.
 
-a) La Ley Número 465 de Responsabilidades Administrativas para el Estado de Guerrero; y
+###### ARTÍCULO 7°.
 
-b) El Código de Procedimientos de Justicia Administrativa del Estado de Guerrero.
+La Administración Pública del Distrito Federal podrá celebrar todo tipo de instrumentos de coordinación y concertación de acciones con autoridades federales, estatales y municipales, así como con los sectores social y privado, en materia de protección, conservación, mejoramiento y restauración del ambiente del Distrito Federal y Cuenca de México.
 
-III. La legislación civil y penal del Estado de Guerrero;
+###### ARTÍCULO 8°.
 
-IV. Los usos y costumbres de los pueblos y comunidades indígenas y afromexicanas del Estado, en tratándose de asuntos relacionados con los mismos, siempre que se encuentren acordes a los principios generales de la Constitución Federal y se respeten las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres; y
+Corresponde al Jefe de Gobierno del Distrito Federal, en materia ambiental, el ejercicio de las siguientes atribuciones:
 
-V. Los principios generales del derecho.
+I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, conforme al Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los programas sectoriales correspondientes;
 
-###### Artículo 9.
+II. Establecer el fondo ambiental a que se refiere la presente Ley para la investigación, estudio y atención de aquellos asuntos que en materia ambiental se consideren de interés para el Distrito Federal;
 
-Las acciones que desarrollen las autoridades competentes de la Seguridad Pública en el Estado y los municipios se coordinarán a través de un Sistema Estatal, mismo que se integrará con las instancias, instrumentos, políticas, servicios y acciones previstos en esta Ley, tendientes a cumplir los objetivos y fines de la seguridad pública, de conformidad con lo que establece el artículo 21 de la Constitución Federal, la Constitución Estatal, la Ley General y la presente Ley.
+III. Promover la participación en materia ambiental de las organizaciones sociales, civiles y empresariales, instituciones académicas, y ciudadanos interesados;
 
-###### Artículo 10.
+IV. Proponer que en las disposiciones del Código Financiero del Distrito Federal, se establezca el pago de derechos por la prestación de los servicios públicos en materia ambiental;
 
-El Sistema Estatal es el conjunto articulado de instancias, autoridades, planes, programas, acciones, instrumentos, mecanismos, acuerdos y convenios que vinculan a las instancias y autoridades estatales y municipales y ordenan el desarrollo integral, metodológico y sistemático de la función de seguridad pública, mediante la realización y cumplimiento de las políticas, lineamientos, procedimientos, atribuciones, obligaciones y facultades del ámbito estatal y municipal.
+V. Establecer, o en su caso proponer, la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Distrito Federal;
 
-###### Artículo 11.
+VI. Celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de que el Distrito Federal asuma el ejercicio de las funciones que señala la Ley General;
 
-El Sistema Estatal estará integrado por:
+VII. Celebrar convenios o acuerdos de coordinación y colaboración administrativa con otras entidades federativas, con el propósito de atender y resolver problemas ambientales comunes y ejercer las atribuciones a que se refiere esta Ley, a través de las instancias que al efecto se determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables;
 
-I. El Consejo Estatal de Seguridad Pública, que será la instancia superior del Sistema Estatal;
+VIII. Celebrar convenios mediante los cuales se obtengan recursos materiales y económicos para realizar investigaciones pertinentes a la problemática ambiental del Distrito Federal;
 
-II. La Conferencia Estatal de Seguridad Pública;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-III. La Secretaría de Seguridad Pública, en su carácter de coordinadora global del Sistema Estatal;
+IX. Expedir los decretos que establezcan áreas de valor ambiental, zonas de restauración ecológica, zonas intermedias de salvaguarda y áreas naturales protegidas de jurisdicción del Distrito Federal;
 
-IV. Los consejos municipales e intermunicipales;
+X. Expedir el programa sectorial ambiental y el programa de ordenamiento ecológico del Distrito Federal;
 
-V. El Secretariado Ejecutivo del Sistema Estatal; y
+XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el cumplimiento de la presente Ley; y
 
-VI. Las demás instancias vinculadas con la seguridad pública.
+XII. Las demás que conforme a esta Ley le correspondan.
 
-El Poder Judicial del Estado y los órganos jurisdiccionales del Poder Judicial de la Federación, podrán contribuir con las instancias que integran el Sistema Estatal, en la formulación de estudios, lineamientos e implementación de programas y acciones que permitan alcanzar los fines de la seguridad pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 12.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-La organización, colaboración y coordinación en un marco de respeto a las atribuciones entre las instancias del Estado y los municipios será el eje del Sistema Estatal.
+###### ARTÍCULO 9°.
 
-El Reglamento que al efecto se expida desarrollará las facultades y atribuciones generales y específicas de los integrantes del Sistema Estatal para una efectiva coordinación.
+Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
 
-###### Artículo 13.
+I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los planes y programas que de esta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
-El Consejo Estatal es la instancia superior del Sistema Estatal, facultado para establecer políticas y aprobar acuerdos generales y específicos que permitan articular, coordinar e implementar los planes y programas en materia de seguridad pública; y se integra por:
+II. Formular, ejecutar y evaluar el programa sectorial ambiental del Distrito Federal;
 
-I. El Gobernador Constitucional del Estado, con el carácter de Presidente;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-II. El Secretario General de Gobierno, con el carácter de Vicepresidente;
+III. Formular y ejecutar los programas de ordenamiento ecológico del Distrito Federal, y los programas que de éstos se deriven, así como vigilar su cumplimiento, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades y en su momento, proponer las adecuaciones pertinentes al mismo;
 
-III. El Secretario de Seguridad Pública, con el carácter de Coordinador;
+La vigilancia y las propuestas de adecuaciones que formulen la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades, las efectuarán en el ámbito de sus atribuciones;
 
-IV. El Secretario de Protección Civil;
+IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, para conservar y restaurar el equilibrio ecológico y proteger al ambiente en materias de su competencia;
 
-V. El Fiscal General del Estado;
+V. Evaluar las manifestaciones de impacto ambiental de su competencia, y en su caso, autorizar condicionadamente o negar la realización de proyectos, obras y actividades;
 
-VI. Los Presidentes de los consejos intermunicipales; y
+VI. Evaluar y resolver sobre los estudios de riesgo;
 
-VII. El Secretario Ejecutivo del Sistema Estatal.
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-###### Artículo 14.
+VI Bis. Dictaminar los estudios de daño ambiental y en su caso, determinar e imponer las disposiciones ambientales que deberán observarse durante la realización de proyectos, obras o actividades; en las etapas correspondientes;
 
-Serán invitados permanentes a las sesiones del Consejo Estatal, con derecho a voz y voto, los siguientes:
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-I. El Comandante de la IX Región Militar;
+VI Ter. Ordenar la realización de los reconocimientos técnicos para comprobar y constatar el contenido de los estudios de impacto ambiental en sus diferentes modalidades o de evaluación de daño ambiental;
 
-II. El Comandante de la VIII Región Naval;
+VII. Expedir normas ambientales para el Distrito Federal en materias de competencia local;
 
-III. El Delegado Estatal de la Secretaría de Gobernación;
+VIII. Desarrollar programas que fomenten la autorregulación y la auditoría ambiental;
 
-IV. El Delegado Estatal de la Procuraduría General de la República;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-V. El Coordinador Estatal de la Policía Federal; y
+IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación y expedir, en su caso, la certificación de la reducción de emisiones contaminantes;
 
-VI. El Delegado Estatal del Centro de Investigación y Seguridad Nacional CISEN.
+X. Establecer los criterios ambientales a que deberán sujetarse los programas, adquisiciones y obras de las dependencias del Gobierno del Distrito Federal;
 
-Los integrantes del Consejo Estatal y los invitados permanentes serán de carácter honorífico y no podrán nombrar suplente. En caso de ausencia del Presidente, el Secretario General de Gobierno presidirá la sesión.
+XI. Promover la creación de estándares e indicadores de calidad ambiental;
 
-###### Artículo 15.
+XII. Establecer o en su caso proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Distrito Federal;
 
-El Consejo Estatal funcionará en Pleno o en las comisiones previstas por esta Ley. Las sesiones del Pleno serán ordinarias y se llevarán a cabo cada seis meses y de forma extraordinaria a convocatoria de su Presidente o de la dependencia de coordinación global del Sistema Estatal, en ambos casos la convocatoria la emitirá su Presidente por conducto del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar.
+XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
-El quórum para las sesiones del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de sus integrantes presentes y, en caso de empate, el Presidente tendrá voto de calidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 16.
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-El Consejo Estatal podrá invitar, por la naturaleza de los asuntos a tratar a personas, instituciones, organizaciones y representantes de la sociedad civil, así mismo al Presidente de la Comisión de los Derechos Humanos del Estado, al Presidente del Comité de Consulta y Participación Ciudadana y al Presidente del Tribunal Superior de Justicia del Estado con derecho a voz, pero no a voto, que puedan exponer conocimientos y experiencias para alcanzar los fines de la seguridad pública.
+XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas; asimismo procurará crear programas de reforestación permanente en suelo de conservación y urbano para su preservación;
 
-Los cargos en el Consejo Estatal serán honoríficos, excepto el del Secretario Ejecutivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 17.
+> <small>(ADICIONADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-El Consejo Estatal tiene las atribuciones siguientes:
+XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la Administración, preservación y reforestación de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
 
-I. Planear e implementar el Sistema Estatal;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
-II. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables tendientes a cumplir los objetivos y fines de la seguridad pública;
+XIV Bis 1. Formular y conducir la política de la flora y fauna silvestres en el ámbito de competencia del Distrito Federal, así como ejercer las atribuciones federales que sean objeto de convenio;
 
-III. Aprobar y autorizar los planes, programas y operativos generales y especiales en materia de seguridad pública, de procuración de justicia y de prevención de faltas y delitos;
+XV. Proponer la declaración de zonas de restauración ecológica;
 
-IV. Dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional;
+XVI. Proponer la declaración de zonas intermedias de salvaguarda;
 
-V. Emitir acuerdos y resoluciones generales, para el funcionamiento del Sistema Estatal;
+XVII. Promover la participación de la ciudadanía en materia ambiental;
 
-VI. Aprobar y autorizar los acuerdos que deban ser considerados como bases de coordinación entre la Federación, las entidades federativas, el Estado y los Municipios;
+XVIII. Realizar y promover en forma coordinada, concertada y corresponsable, acciones relacionadas con la conservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico, entre las organizaciones sociales, civiles y empresariales, así como con los ciudadanos interesados, a fin de desarrollar en la población, una mayor cultura ambiental, y promover el mejor conocimiento de esta Ley;
 
-VII. Evaluar periódicamente los programas de seguridad pública y otros relacionados;
+XIX. Coordinar la participación de las dependencias y entidades de la administración pública del Distrito Federal, y de las delegaciones en las acciones de educación ambiental, de prevención y control del deterioro ambiental, conservación, protección y restauración del ambiente en el territorio del Distrito Federal, así como celebrar con éstas y con la sociedad, los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
-VIII. Evaluar el cumplimiento de los objetivos y metas de los programas de seguridad pública y otros relacionados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Emitir recomendaciones sobre los programas de seguridad pública de los Municipios, acorde a lo que establece la Ley de Coordinación Fiscal Federal;
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-X. Emitir las políticas para el suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones del Estado y los Municipios;
+XIX. Bis. Establecer las políticas y lineamientos de integración y operación del cuerpo de Policías Ambientales; en coordinación con la Secretaría de Seguridad Pública del Distrito Federal en las acciones de conservación, vigilancia, restauración y protección de los ecosistemas y sus elementos naturales, en suelo de conservación y urbano;
 
-XI. Impulsar la homologación y desarrollo de los modelos ministerial, policial y pericial en las instituciones de seguridad pública y evaluar sus avances, de conformidad con las Leyes respectivas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Observar y desarrollar mecanismos eficaces para que la sociedad participe en los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública;
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-XIII. Autorizar las bases, reglas y lineamientos para la integración de estructuras y esquemas de operación policial entre las instituciones de seguridad pública;
+XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
 
-XIV. Promover y facilitar la implementación de políticas en materia de atención a víctimas del delito;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV. Cuidar que los recursos de los fondos de aportaciones federales y estatales se apliquen a los fines programáticos que anualmente se establezcan en el Estado y los municipios para la seguridad pública, en los rubros de desarrollo policial, incremento de recursos humanos, equipamiento, infraestructura y tecnología, de acuerdo con la Ley de Coordinación Fiscal Federal y a los criterios aprobados por el Sistema Nacional;
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-XVI. Promover y desarrollar las medidas para vincular al Sistema Estatal con otros nacionales, estatales, así como con las instancias regionales, intermunicipales y municipales;
+XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal, retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para prevenir el establecimiento de dichos asentamientos humanos irregulares;
 
-XVII. Promover el establecimiento de Unidades de Consulta y Participación de la Comunidad en las instituciones de seguridad pública;
+XX. Realizar y promover programas para el desarrollo de técnicas, ecotecnias y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación, instituciones privadas y grupos civiles, con los sectores industrial, comercial y de servicio;
 
-XVIII. Recomendar la remoción de los titulares de las instituciones de seguridad pública que incumplan las obligaciones establecidas en las Leyes, con base en la opinión justificada del titular de la Secretaría;
+XXI. Conducir la política del Distrito Federal relativa a la información y difusión en materia ambiental;
 
-XIX. Proponer al Consejo Nacional los acuerdos, programas específicos y convenios sobre las materias de coordinación de la seguridad pública;
+XXII. Participar en coordinación con la Federación, en asuntos que afecten el equilibrio ecológico, el ambiente y la salud en el Distrito Federal y los municipios conurbados;
 
-XX. Establecer y desarrollar las bases de colaboración y cooperación a las que deben sujetarse y vincularse los auxiliares de la función de seguridad pública;
+XXIII. Promover y celebrar, convenios de coordinación, concertación y colaboración con el gobierno federal, de las entidades federativas y de los municipios de la zona conurbada, así como con los particulares, para la realización conjunta y coordinada de acciones de protección ambiental;
 
-XXI. Promover políticas de coordinación y colaboración con el Tribunal Superior de Justicia del Estado y demás órganos jurisdiccionales del Poder Judicial de la Federación con sede en el Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXII. Conformar grupos de trabajo para el apoyo de sus funciones;
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-XXIII. Crear comisiones especiales, permanentes o temporales para estudiar, operar y evaluar políticas, planes, programas y acciones en materia de prevención, combate e investigación de las faltas administrativas y delitos; tránsito y educación vial; reinserción social; derechos humanos; de orientación, protección y tratamiento de adolescentes; de procuración e impartición de justicia; de participación municipal y de consulta y participación ciudadana en seguridad pública; y de protección civil, así como aquellas que se determinen de acuerdo a las necesidades que se tengan para atender la seguridad pública;
+XXIV. Refrendar y ejecutar los convenios relacionados con la salvaguarda del suelo de conservación que celebre el Jefe de Gobierno del Distrito Federal; y, asimismo, promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación que se lleven a cabo entre el Ejecutivo Local y la Federación, con el objeto de que el Distrito Federal asuma el ejercicio de las funciones que señala la Ley General;
 
-XXIV. Promover y desarrollar las bases para la coordinación del sistema de seguridad comunitario indígena con el Sistema Estatal;
+XXV. Ejercer las funciones que le transfiera la Federación al Distrito Federal en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes;
 
-XXV. Autorizar las bases para la profesionalización y operación del Cuerpo de la Policía Estatal; y
+XXVI. Emitir recomendaciones a las autoridades federales y del Distrito Federal, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XXVI. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para los objetivos y funcionamiento del Sistema Estatal.
+XXVII. Ejercer todas aquellas acciones tendientes a la conservación y restauración del equilibrio ecológico, así como la regulación, prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal;
 
-## Título Tercero. Autoridades estatales y municipales en materia de seguridad pública
+XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia; y en su caso, hacer uso de las medidas de seguridad;
 
-### Capítulo I. Objeto
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
-###### Artículo 18.
+XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, creación e incremento de áreas verdes en suelo urbano, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
 
-El Presidente del Consejo Estatal, tiene las atribuciones siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. Autorizar las políticas y estrategias de seguridad pública para mantener el orden, preservar la paz, la tranquilidad y la seguridad interior del Estado, en los términos de la Constitución Federal y la Constitución Estatal, a efecto de salvaguardar la integridad y los derechos de las personas;
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-II. Ejercer el mando del Cuerpo de la Policía Estatal;
+XXIX Bis.- Realizar acciones de vigilancia y supervisión para verificar el cumplimiento de los preceptos de esta ley y las disposiciones que de ella emanen en suelo de conservación y suelo urbano, con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal;
 
-III. Delegar en la Secretaría, la organización, coordinación y despliegue operativo del Cuerpo de la Policía Estatal;
+XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a la Ley General, en materias de competencia local, esta Ley y sus reglamentos;
 
-IV. Celebrar convenios y acuerdos con la Federación, entidades federativas y municipios, para la mejor prestación de la función de seguridad pública, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-V. Participar en el Consejo Nacional, presentando las propuestas de programas, estrategias y acciones que acuerde el Consejo Estatal;
+XXXI. Otorgar y revocar los permisos, licencias, autorizaciones y certificaciones establecidas en la presente Ley;
 
-VI. Requerir al Secretario Ejecutivo, informes sobre el seguimiento y cumplimiento de los asuntos de su competencia y de los acuerdos adoptados por el Consejo Estatal;
+XXXII. Clausurar o suspender las obras o actividades y, en su caso solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se transgredan las disposiciones de esta Ley y demás aplicables;
 
-VII. Tomar las medidas necesarias para hacer efectiva la coordinación en materia de seguridad pública, así como, la ejecución de las políticas y acciones adoptadas por el Consejo Estatal;
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
 
-VIII. Cumplir y hacer cumplir estrictamente las disposiciones de esta Ley y sus reglamentos;
+La manifestación de construcción dejará de surtir sus efectos, cuando los promoventes hubieren declarado con falsedad o transgredido las disposiciones de esta Ley y demás aplicables. Asimismo, se declarará la nulidad del registro, que dejará de surtir sus efectos, independientemente de las sanciones administrativas, penales y civiles que correspondan.
 
-IX. Emitir los programas en materia de seguridad pública que se requieran y publicarlos en el Periódico Oficial del Gobierno del Estado;
+XXXIII. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria de conformidad con la Ley;
 
-X. Presentar iniciativas de Ley, expedir los reglamentos y disposiciones administrativas relativas a la seguridad pública;
+XXXIV. Admitir y resolver los recursos de inconformidad que se interpongan con motivo de la aplicación de la presente Ley, en los términos de la Ley de Procedimiento Administrativo;
 
-XI. Considerar en los programas las propuestas del Consejo Estatal;
+XXXV. Expedir las copias certificadas y proporcionar la información que le sea solicitada en los términos de esta Ley;
 
-XII. Presidir las sesiones del Consejo Estatal;
+XXXVI. Interpretar y aplicar para efectos administrativos las disposiciones de esta Ley, así como las de los programas, emitiendo para tal efecto los dictámenes, circulares y recomendaciones necesarios, siempre y cuando no contravenga lo dispuesto en los ordenamientos citados;
 
-XIII. Proveer las medidas necesarias para la ejecución de las políticas y acciones que apruebe el Consejo Estatal;
+XXXVII. Elaborar, publicar y aplicar, en el ámbito de las atribuciones del Distrito Federal y con la participación que corresponda a las demás autoridades competentes, los programas y medidas para prevenir, controlar y minimizar las contingencias ambientales o emergencias ecológicas;
 
-XIV. Promover la participación de la ciudadanía para generar propuestas de solución a los problemas de seguridad pública;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XV. Analizar con las instancias correspondientes la problemática en materia de seguridad pública, acordando las estrategias y acciones para su adecuada atención y solución;
+XXXVIII. Establecer y actualizar el registro de emisiones y transferencia de contaminantes, así como el registro de las fuentes fijas de la competencia del Distrito Federal y el registro de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de la competencia del Distrito Federal.
 
-XVI. Proponer al Consejo Estatal la creación de comisiones especiales permanentes o temporales para estudiar, operar y evaluar políticas, planes, programas y acciones en materia de seguridad pública, en términos de esta Ley;
+La Secretaría debe integrar el registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales, y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente, cuya información se integrará con los datos e información contenida en las autorizaciones, cédulas, informes, reportes, licencias, permisos, y concesiones en materia ambiental que se tramiten ante la Secretaría o autoridades competentes del Distrito Federal y sus demarcaciones territoriales.
 
-XVII. Designar y remover al Secretario Ejecutivo, a propuesta del Secretario;
+Las personas físicas y morales responsables de fuentes contaminantes, están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro, mismo que será integrado con datos desagregados por sustancia y fuente, anexa nombre y dirección de los establecimientos sujetos a registro.
 
-XVIII. Administrar y ejercer los recursos de los fondos de ayuda federal, para la seguridad pública provenientes del Sistema Nacional, así como designar al responsable del control y administración de éstos, sin perjuicio de la denominación que se asigne; y
+La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera preactiva.
 
-XIX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+XXXIX Establecer y operar de manera directa, o indirectamente a través de autorización, el sistema de monitoreo de la contaminación ambiental, así como los sistemas de verificación de fuentes de competencia local, y determinar las tarifas máximas aplicables por concepto de dichas verificaciones;
 
-El Gobernador del Estado podrá delegar las atribuciones a que se refiere este artículo al Secretario, a excepción de las previstas en las fracciones II y X que son exclusivas del titular del Ejecutivo.
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-###### Artículo 19.
+XL. Promover el uso de fuentes de energías alternas, de igual forma que sistemas y equipos para prevenir o minimizar las emisiones contaminantes en los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga en el Distrito Federal, así como fomentar su uso en los demás automotores.
 
-El Vicepresidente del Consejo Estatal, tiene las atribuciones siguientes:
+En concordancia con lo establecido en el artículo 10 fracción VI de la presente Ley, referente al servicio de alumbrado público, supervisar el cumplimiento de la citada disposición, así como, realizar las pruebas suficientes a los sistemas de ahorro de energía de tecnologías existentes, nuevas ó tecnologías que permitan el aprovechamiento de energía solar, para verificar que generen un aprovechamiento sustentable de la energía;
 
-I. Impulsar la coordinación con la Federación, entidades federativas y los municipios del Estado en materia de seguridad pública que acuerde el Consejo Estatal;
+XLI. Restringir y sujetar a horarios nocturnos, el tránsito y las maniobras en la vía pública de los vehículos de carga, en coordinación con las autoridades correspondientes;
 
-II. Coadyuvar en la definición y dirección de las políticas en materia de seguridad pública;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2007)</small>
 
-III. Cuidar la observancia de las Leyes y reglamentos vigentes en materia de seguridad pública;
+XLII. Prevenir o controlar la contaminación visual, así como la originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas así como a la población, al ambiente o los elementos naturales, en fuentes de competencia del Distrito Federal;
 
-IV. Presidir la sesión del Consejo Estatal, en caso de ausencia del Presidente;
+XLIII. Regular, prevenir y controlar las actividades ambientales riesgosas no reservadas a la Federación;
 
-V. Promover que los titulares de las secretarías, dependencias y entidades de la administración pública estatal, faciliten la información necesaria para la seguridad pública;
+XLIV. Promover el establecimiento y la aplicación de programas de educación ambiental y capacitación ecológica;
 
-VI. Impulsar las acciones que sean necesarias para estructurar y materializar las políticas de seguridad pública en el Estado;
+XLV. Regular y determinar la restauración ambiental de las áreas que hayan sido objeto de explotación de minerales u otros depósitos del subsuelo;
 
-VII. Cumplir acuerdos o asuntos específicos que le sean asignados por el Presidente del Consejo Estatal; y
+XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y (sic)
 
-VIII. Las demás atribuciones que le señalen las Leyes.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-### Capítulo II. Ámbito de competencia
+XLVII. Crear y regular el Sistema de Certificación y Acreditación Ambiental, que tendrá por objeto determinar la conformidad sobre el cumplimiento de la normatividad ambiental, así como los esfuerzos adicionales de las personas a favor del medio ambiente;
 
-###### Artículo 4.
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-Conforme a las bases que establece el artículo 21 de la Constitución Federal, las instituciones de seguridad pública, en el ámbito de su competencia y en los términos de esta Ley, deberán coordinarse para:
+XLVIII. Administrar, coordinar y supervisar la operación y funcionamiento de los zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría, en términos de la legislación aplicable, como centros de recreación y esparcimiento para la población y la exhibición de flora y fauna silvestres con fines de educación y conservación;
 
-I. Integrar, organizar y hacer funcionar el Sistema Estatal para alcanzar los objetivos y fines de la seguridad pública;
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-II. Aplicar, formular, conducir, dar seguimiento y evaluar políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
+XLIX. Celebrar actos administrativos con terceros sobre los espacios e infraestructura que confieran su uso, aprovechamiento y administración de las áreas naturales protegidas, áreas de valor ambiental, zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría, en los términos de lo que establecen: el Programa General de Ordenamiento Ecológico Territorial del Distrito Federal, General de Desarrollo Urbano y Programa de Áreas Naturales Protegidas, así como demás normatividad aplicable, vigilando el cumplimiento de las obligaciones de los usuarios;
 
-III. Participar en la formulación, desarrollo, revisión y ejecución de los programas, y demás instrumentos programáticos en la materia previstos en la Ley número 994 de Planeación del Estado Libre y Soberano de Guerrero;
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-IV. Aplicar y supervisar los procedimientos relativos a la Carrera Policial, profesionalización y régimen disciplinario;
+L. Recibir y administrar los ingresos que se perciban por el uso y aprovechamiento de las áreas naturales protegidas, áreas de valor ambiental, zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría y, de conformidad con los ordenamiento jurídicos correspondientes, recaudarlos, recibirlos, administrarlos y comprobarlos con el carácter de ingresos de aplicación automática de recursos, aplicándolos para proyectos y programas de educación, conservación y mantenimiento;
 
-V. Desarrollar, aplicar y supervisar los procedimientos de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación; así como el registro de los servidores públicos de las instituciones de seguridad pública;
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-VI. Desarrollar y aplicar los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
+LI. Formular y conducir la política del Distrito Federal en materia de uso y aprovechamiento sustentable del agua; y
 
-VII. Impulsar, evaluar y determinar criterios uniformes para la organización, operación y modernización tecnológica de las instituciones de seguridad pública;
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
-VIII. Establecer, supervisar, utilizar y mantener actualizadas las Bases de Datos;
+LII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
-IX. Realizar acciones y operativos conjuntos de las instituciones de seguridad pública;
+###### ARTÍCULO 10.
 
-X. Participar en la protección y vigilancia de las instalaciones estratégicas del Estado en los términos de esta Ley y demás disposiciones aplicables;
+Corresponde a cada una de las delegaciones del Distrito Federal:
 
-XI. Organizar y modernizar el Sistema Penitenciario del Estado, incluyendo los relativos al internamiento de adolescentes en conflicto con la Ley penal, garantizando que los establecimientos penitenciarios cuenten con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen dentro del perímetro de estos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Promover la participación de la comunidad, de las instituciones académicas y de todos los sectores sociales, en coadyuvancia con los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública a través de los mecanismos correspondientes;
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-XIII. Implementar mecanismos de transparencia, rendición de cuentas y evaluación en la aplicación de los fondos federales y estatales para la seguridad pública, incluido el financiamiento conjunto;
+I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental, áreas verdes en suelo urbano y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia;
 
-XIV. Promover y fortalecer los sistemas de seguridad social de los servidores públicos, de su familia y derechohabientes, e instrumentar los complementarios a éstos;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-XV. Fijar las bases de la organización para el otorgamiento de las medidas cautelares, condiciones de la suspensión condicional del proceso y ejecución de sentencias, medidas de seguridad y providencias precautorias dictadas por la autoridad competente, previstas en el Código Nacional, Ley Nacional de Ejecución Penal y Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+II. Celebrar convenios con el Gobierno del Distrito Federal para la administración y preservación de las áreas naturales protegidas, los recursos naturales y la biodiversidad;
 
-XVI. Desarrollar los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las instituciones de seguridad pública, así como para la formación y la profesionalización de su personal;
+III. Promover la participación de la ciudadanía en materia ambiental;
 
-XVII. Formalizar los convenios de colaboración respectivos para brindar los servicios de seguridad pública que se estimen pertinentes, bajo la coordinación del titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
-XVIII. Auxiliar a la población en caso de siniestros y desastres;
+IV. Implementar acciones de conservación, restauración y vigilancia del equilibrio ecológico, así como la protección al ambiente desde las delegaciones;
 
-XIX. Distribuir a los integrantes del Sistema Estatal, actividades específicas para el cumplimiento de los fines de la seguridad pública; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XX. Las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los objetivos y fines de la seguridad pública.
+V. Difundir los programas y estrategias relacionadas con el equilibrio ecológico, la protección al ambiente y la contingencia o emergencia ambiental;
 
-###### Artículo 5.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-La coordinación, evaluación y seguimiento de lo dispuesto en esta Ley, se hará con respeto a las atribuciones de la Constitución Federal, la Constitución Estatal y Leyes aplicables de la materia.
+VI. Establecer de forma gradual en el total de mobiliario destinado al servicio de alumbrado público de su demarcación, sistemas de ahorro de energía con tecnologías existentes ó nuevas que permitan el aprovechamiento de energía solar.
 
-###### Artículo 20.
+Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibilidades, una parte de su presupuesto para dar exacto cumplimiento a lo anterior. La Secretaría en el ámbito de sus atribuciones, supervisará y verificará que las demarcaciones cumplan dicha disposición;
 
-La Secretaría es la dependencia de coordinación global del Sistema Estatal, correspondiéndole como órgano de la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública previstas en el artículo 25 de la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08, y en otras disposiciones jurídicas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 21.
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-El Secretario, tendrá las atribuciones siguientes:
+VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente (sic) por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
 
-I. Diseñar, proponer e implementar las políticas estatales en materia de seguridad pública, criminal, prevención del delito, tránsito estatal; sistema penitenciario y tratamiento de adolescentes, respetando la integridad y derechos de las personas, particularmente aquellas que se encuentran en situación de vulnerabilidad, tomando medidas especiales para garantizar a las mujeres una vida libre de violencia, así como para la preservación de las libertades, la paz pública y la promoción y vigencia de los derechos humanos;
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
 
-II. Coordinar la administración, articulación, organización, funcionamiento y el desarrollo estratégico, táctico y operativo de las instancias y demás componentes del Sistema Estatal, para alcanzar los fines en la materia;
+VIII. Las Delegaciones deberán etiquetar un porcentaje de su presupuesto anual que garantice el mantenimiento, la protección, la preservación, la vigilancia de las áreas verdes y barrancas de su demarcación.
 
-III. Administrar y coordinar al Cuerpo de la Policía Estatal, promoviendo el Desarrollo Policial para el desempeño profesional y eficaz de sus integrantes;
+Las Delegaciones que tengan un porcentaje mayor de 9 metros cuadrados de área verde por habitante, no deberán permitir por ningún motivo su disminución.
 
-IV. Proponer y desarrollar sistemas de administración de los recursos humanos, materiales, financieros, logísticos, tecnológicos y de servicios generales para la atención inmediata y eficaz de las necesidades enmarcadas en las operaciones policiales;
+Las Delegaciones que no cuenten con 9 metros cuadrados de área verde por habitante, deberán incrementarlo buscando alcanzar este objetivo con alternativas para la creación de nuevas áreas verdes como son: azoteas verdes, barrancas, retiro de asfalto innecesario en explanadas, camellones, áreas verdes verticales y jardineras en calles secundarias.
 
-V. Orientar la conducción y los trabajos del Sistema Estatal en la identificación de las problemáticas y objetivos a fin de garantizar la plena coordinación y funcionalidad en la implantación de políticas y planes integrales;
+###### ARTÍCULO 11.
 
-VI. Verificar que la designación de los titulares de las instituciones de seguridad pública cumplan con los requisitos constitucionales, de la Ley General y los previstos en la presente Ley;
+Se establecerá la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal, para la protección, defensa y restauración del medio ambiente y del desarrollo urbano; así como para instaurar mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de tales fines, en los términos de las disposiciones de la presente Ley y de la Ley de Desarrollo Urbano del Distrito Federal.
 
-VII. Supervisar el funcionamiento y operación de las políticas, acciones y programas establecidos por el Consejo Estatal, para la coordinación de los integrantes del Sistema Estatal;
+La Ley Orgánica respectiva, dispondrá las atribuciones y estructura de dicha Procuraduría.
 
-VIII. Conocer la situación que guardan las diversas instancias de coordinación del Sistema Estatal, así como de las instituciones policiales, respecto de sus avances en los planes y programas de trabajo;
+###### ARTÍCULO 12.
 
-IX. Diseñar y proponer en el Pleno del Consejo Estatal, las acciones de coordinación entre las diferentes instituciones de seguridad pública;
+La Procuraduría estará a cargo de un Procurador, que será nombrado por el Jefe de Gobierno del Distrito Federal y ratificado por la Asamblea Legislativa del Distrito Federal por mayoría calificada de votos. Durará en su encargo tres años y podrá ser ratificado por un período adicional.
 
-X. Coordinar la creación, mantenimiento, depuración, actualización y consulta de los registros de información que la presente Ley establece, o los que el propio Consejo Estatal constituya con posterioridad;
+###### ARTÍCULO 13.
 
-XI. Establecer las bases metodológicas para la elaboración de la cartografía delictiva en los niveles estatal y municipal, así como realizar las gestiones necesarias para la obtención de los datos correspondientes de otras entidades federativas;
+Las autoridades del Distrito Federal están obligadas a:
 
-XII. Promover el desarrollo informático y de comunicaciones en materia de seguridad pública, en coordinación con todas las secretarías, dependencias y entidades representadas en el Consejo Estatal;
+I. Promover la participación ciudadana en la gestión ambiental;
 
-XIII. Vigilar que las instituciones auxiliares de la función de seguridad pública cumplan con las bases de colaboración, cooperación y vinculación que emita el Consejo Estatal;
+II. Fomentar la protección al ambiente y la salud;
 
-XIV. Coordinar la elaboración del Programa Estatal de Seguridad Pública, alineado al Plan Nacional y Estatal de Desarrollo, así mismo vigilar el cumplimiento del mismo;
+III. Fomentar y hacer un uso eficiente de los recursos naturales; y
 
-XV. Integrar las estadísticas, con el propósito de planear las estrategias y políticas tendientes a la preservación del orden, la tranquilidad y la paz pública;
+IV. En caso de inducir cualquier actividad que afecte el ambiente y la disponibilidad futura de los recursos naturales, reparar los daños causados.
 
-XVI. Adoptar las medidas necesarias para que el servicio de llamadas de emergencia y el servicio de denuncia anónima opere con un número único de atención a la ciudadanía en el estado y los municipios;
+###### ARTÍCULO 14.
 
-XVII. Establecer, operar y desarrollar la red estatal de telecomunicaciones y el sistema estatal de videovigilancia, verificando que las instituciones policiales estatales y municipales cumplan con las normas técnicas de operación; y
+Las autoridades del Distrito Federal, promoverán y aplicarán acciones correctivas para restaurar el ambiente en forma coordinada, concertada, y corresponsable con la sociedad en general, así como con las dependencias federales competentes, en el ámbito de sus respectivas atribuciones.
 
-XVIII. Promover la capacitación y registro de los policías comunitarios, reconocidos en los términos de la presente Ley; y,
+###### ARTÍCULO 15.
 
-XIX. Las demás que le atribuyan expresamente las Leyes y los reglamentos.
+El Distrito Federal participará en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y el Estatuto de Gobierno del Distrito Federal, en la planeación y ejecución de acciones coordinadas con la Federación, entidades federativas y municipios conurbados, en materias de protección al ambiente, conservación y restauración del equilibrio ecológico, mejoramiento y desarrollo sustentable, para lo cual se podrán suscribir convenios para la integración de una Comisión en la que concurran y participen con apego a sus leyes.
 
-###### Artículo 22.
+###### ARTÍCULO 16.
 
-La Secretaría, para cumplir con las atribuciones que le confieren las Leyes, tendrá a su cargo las unidades, áreas operativas y administrativas siguientes:
+La Comisión será constituida por acuerdo conjunto de las entidades participantes. En el instrumento de creación se determinará la forma de integración, estructura y funciones.
 
-I. Secretaría:
+###### ARTÍCULO 17.
 
-I.1. Unidad de Planeación, Control y Supervisión del Sistema Estatal de Seguridad Pública;
+Los acuerdos y convenios de coordinación y colaboración administrativa que se celebren por el Jefe de Gobierno del Distrito Federal deberán ajustarse, además de las bases a que se refiere la Ley General, a lo siguiente:
 
-I.2. Unidad de Asesoría, Políticas y Alertamiento;
+I. Deberán ser congruentes con las disposiciones de la política ambiental del Distrito Federal;
 
-I.3. Unidad de Contraloría y Asuntos Internos;
+II. Procurar que en los mismos se establezcan condiciones que faciliten el proceso de descentralización de funciones y recursos financieros a las dependencias y entidades de la Administración Pública del Distrito Federal, involucradas en las acciones de prevención y control del ambiente; y
 
-I.4. Unidad de Asuntos Jurídicos y Derechos Humanos;
+III. Las demás que tenga por objeto dar cumplimiento a lo dispuesto por la presente Ley.
 
-I.5. Unidad de Transparencia; y
+## TÍTULO TERCERO. DE LA POLÍTICA DE DESARROLLO SUSTENTABLE
 
-I.6. Unidad de Género.
+### CAPÍTULO I. DE LOS PRINCIPIOS E INSTRUMENTOS DE LA POLÍTICA DE DESARROLLO SUSTENTABLE
 
-II. Subsecretarías:
+###### ARTÍCULO 18.
 
-II.1. Subsecretaría de Prevención y Operación Policial:
+Para la formulación y conducción de la política ambiental y aplicación de los instrumentos previstos en esta Ley, las dependencias y entidades de la Administración Pública Local, así como, los particulares observarán los principios y lineamientos siguientes:
 
-II.1.1. Dirección General de la Policía Estatal;
+I. La conservación y el manejo sustentable de los recursos naturales del Distrito Federal prevalecerán sobre cualquier otro tipo de uso y destino que se pretenda asignar;
 
-II.1.2. Dirección General de la Policía Montada;
+II. Las autoridades así como la sociedad, deben asumir en corresponsabilidad la protección del ambiente, así como la conservación, restauración y manejo de los ecosistemas y el mejoramiento de la calidad del aire, del agua y del suelo del Distrito Federal, con el fin de proteger la salud humana y elevar el nivel de vida de su población;
 
-II.1.3. Dirección General de Tránsito, Caminos, Puertos y Aeropuertos;
+III. En el territorio del Distrito Federal, toda persona tiene derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar. Esta Ley definirá los mecanismos tendientes para hacer efectivo tal derecho;
 
-II.1.4. Dirección General de Prevención Social del Delito;
+IV. Es deber de las autoridades ambientales del Distrito Federal garantizar el acceso de los ciudadanos a la información sobre el medio ambiente y la participación corresponsable de la sociedad en general, en las materias que regula la presente Ley;
 
-II.1.5. Dirección General de Registro y Supervisión a Empresas y Servicios de Seguridad Privada;
+V. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, compatible con su equilibrio e integridad;
 
-II.1.6. Centro del Sistema Estatal de Información Policial; y
+VI. Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o restaurar, y en su caso, reparar los daños que cause, de conformidad con las reglas que establece esta Ley;
 
-II.1.7. Dirección General de la Unidad Estatal de Telecomunicaciones;
+VII. Los recursos naturales no renovables deben utilizarse de modo que se evite el peligro de su agotamiento y la generación de efectos ecológicos adversos;
 
-II.2. Subsecretaría del Sistema Penitenciario:
+VIII. Cualquier programa, proyecto o acción que se desarrolle en el Distrito Federal deberá garantizar el mantenimiento y conservación de la biodiversidad, así como de la continuidad e integridad de los ecosistemas;
 
-II.2.1. Dirección General de Reinserción Social;
+IX. Se deberá propiciar la continuidad de los procesos ecológicos en el Distrito Federal; y
 
-II.2.2. Dirección General de Seguridad y Custodia Penitenciaria;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-II.2.3. Dirección General de Ejecución de Medidas para Adolescentes; y
+X. Es responsabilidad de la Secretaría fomentar e incentivar el mantenimiento y mejoramiento de la calidad de los recursos naturales y servicios ambientales que proporcionan a la población.
 
-II.2.4. Dirección General de Medidas Cautelares y Ejecución de Sentencias.
+###### ARTÍCULO 19.
 
-II.3. Subsecretaría de Administración, Apoyo Técnico y Desarrollo Humano:
+La política de desarrollo sustentable del Distrito Federal será elaborada y ejecutada conforme a los siguientes instrumentos:
 
-II.3.1. Dirección General de Administración;
+I. La participación ciudadana;
 
-II.3.2. Dirección General Técnica y Logística; y
+II. La planeación;
 
-II.3.3. Dirección General de Desarrollo Humano;
+III. El ordenamiento ecológico;
 
-III. Organismos Administrativos Desconcentrados de la Secretaría:
+IV. Las normas ambientales para el Distrito Federal;
 
-III.1. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+V. La evaluación del impacto ambiental;
 
-III.2. La Universidad Policial del Estado de Guerrero (UNIPOL).
+VI. Las (sic) licencia ambiental única;
 
-IV. Organismo Público Descentralizado:
+VII. Los permisos y autorizaciones a que se refiere esta ley;
 
-IV.1. Instituto de la Policía Auxiliar del Estado de Guerrero.
+VIII. La auditoría ambiental;
 
-Las demás que se establezcan en el Reglamento Interior de la Secretaría y el personal técnico y administrativo que se le asigne de conformidad con el presupuesto.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-###### Artículo 23.
+IX. El sistema de certificación y el certificado de reducción de emisiones contaminantes;
 
-El Secretariado Ejecutivo es un Órgano Administrativo Desconcentrado de la Secretaría, de gestión y seguimiento con autonomía técnica presupuestal.
+X. Los convenios de concertación;
 
-### Capítulo I. Integración del Sistema Estatal de Seguridad Pública
+XI. Los estímulos establecidos por esta u otras leyes;
 
-###### Artículo 24.
+XII. La educación y la investigación ambiental;
 
-El Secretario Ejecutivo, tendrá las atribuciones siguientes:
+XIII. La información sobre medio ambiente; y
 
-I. Levantar y certificar los acuerdos y actas que tome el Consejo Estatal; llevar los archivos de éste y de los convenios y acuerdos que se suscriban en materia de seguridad pública, así como expedir constancia de estos;
+XIV. El fondo ambiental público.
 
-II. Integrar las propuestas que el Consejo Estatal formule para la elaboración del Programa Estatal;
+### CAPÍTULO II. PARTICIPACIÓN CIUDADANA
 
-III. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal, su Presidente y el Secretario;
+###### ARTÍCULO 20.
 
-IV. Supervisar que los integrantes de las instituciones de seguridad pública mantenga los controles de confianza aprobados y vigentes;
+Los habitantes del Distrito Federal tienen derecho a disfrutar de un ambiente sano. Las autoridades, en los términos de ésta y otras Leyes tomarán las medidas necesarias para conservar ese derecho.
 
-V. Mantener actualizado el control vehicular en el que consten las inscripciones o altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan en el territorio;
+Todo habitante del Distrito Federal tiene la potestad de exigir el respeto a este derecho y el cumplimiento de las obligaciones correlativas por parte de las autoridades del Distrito Federal, a través de los mecanismos jurídicos previstos en este título y en otros ordenamientos jurídicos.
 
-VI. Diseñar las políticas y estrategias para la prevención del delito;
+###### ARTÍCULO 21.
 
-VII. Diseñar las políticas y acciones para el seguimiento a los programas de seguridad pública;
+La Secretaría deberá promover y garantizar la participación corresponsable de la ciudadanía, para la toma de decisiones mediante los mecanismos establecidos por la ley de participación ciudadana, en los programas de desarrollo sustentable.
 
-VIII. Orientar a los consejos municipales e intermunicipales, cuando lo requieran en la elaboración de su Programa de Seguridad Pública Municipal;
+La política ambiental deberá garantizar los mecanismos de participación social más efectivos en la toma de decisiones y en la elaboración de los programas de protección ambiental y de educación en la materia.
 
-IX. Coordinar la conformación de los consejos municipales e intermunicipales de Seguridad Pública y los comités estatal y municipal de consulta y participación ciudadana de la materia; así como apoyar y dar seguimiento a los acuerdos que de ellos emanen, vinculándolos al Sistema Estatal y Nacional;
+###### ARTÍCULO 22.
 
-X. Representar al Secretariado Ejecutivo, en los actos y negocios jurídicos, ante las autoridades judiciales, administrativos y del trabajo, para formular, contestar y reconvenir demandas, presentar denuncias, querellas, ofrecer pruebas, formular y articular posiciones, promover amparos y cuidar de sus bienes, en términos de las disposiciones legales aplicables;
+Para los efectos del artículo anterior, el Jefe de Gobierno del Distrito Federal y la Secretaría:
 
-XI. Delegar atribuciones y otorgar poderes de representación jurídico-legal ante las dependencias de los tres niveles de gobierno y autoridades jurisdiccionales.
+I. Convocarán, en el ámbito del sistema local de planeación democrática, a todos los sectores interesados en la materia ambiental, para que manifiesten su opinión y propuestas;
 
-XII. Revisar, analizar y en su caso emitir recomendación para dictaminar en relación a los programas municipales de seguridad pública y a la propuesta de distribución y aplicación de los recursos del Fondo de Aportaciones para el Fortalecimiento de los municipios en materia de Seguridad Pública del Ramo 33 que presenten los ayuntamientos;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-XIII. Aprobado el programa municipal, emitirá el dictamen que enviará a la Auditoría Superior del Estado, el cual se sujetará a la comprobación anual que los ayuntamientos acrediten ante dicho órgano de control presupuestal, en el rubro de seguridad pública;
+II. Celebrarán convenios con personas interesadas, ejidos y comunidades agrarias, organizaciones sociales e instituciones, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción del Distrito Federal, el aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente; la realización de estudios e investigación en la materia; y la retribución por la conservación de servicios ambientales;
 
-XIV. Suscribir los convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Estatal;
+III. Celebrarán convenios con los medios de comunicación masiva para la difusión, divulgación, Información y promoción de acciones de conservación del equilibrio ecológico, de protección al ambiente y de educación;
 
-XV. Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
+IV. Promoverán el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para conservar y restaurar el equilibrio ecológico y proteger el ambiente;
 
-XVI. Proponer los criterios de evaluación de las instituciones de seguridad pública;
+V. Impulsarán el desarrollo y fortalecimiento de la cultura ambiental, a través de la realización de acciones conjuntas con la comunidad para la conservación y restauración del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de los residuos;
 
-XVII. Cuidar que los programas, estrategias, acciones, políticas y servicios que se adopten por la Conferencia Estatal, se vinculen y articulen entre sí y que cumplan con los lineamientos y acuerdos generales y especiales que dicte el Consejo Estatal;
+VI. Fomentar, desarrollar y difundir las experiencias y prácticas de ciudadanos, para la conservación y aprovechamiento sustentable de los recursos naturales y del ambiente; y
 
-XVIII. Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Sistema Estatal en los términos de Ley;
+VII. Coordinarán y promoverán acciones e inversiones con los sectores sociales y privados, con instituciones académicas, grupos, organizaciones sociales, y demás personas interesadas, para la conservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-XIX. Promover la homologación de la carrera policial, la profesionalización y el régimen disciplinario en las instituciones de seguridad pública;
+###### ARTÍCULO 23.
 
-XX. Presentar al Consejo Estatal los informes de la Conferencia Estatal, para el seguimiento de los acuerdos y resoluciones que se adopten en la misma;
+Las personas, en los términos de la presente Ley, están obligadas a:
 
-XXI. Colaborar con las instituciones de seguridad pública, para fortalecer y eficientar los mecanismos de coordinación; así como en el impulso de las carreras ministerial, policial y pericial;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XXII. Informar al Consejo Estatal, de los avances y resultados de los asuntos de su competencia, previo acuerdo con el Secretario; y
+I. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
 
-XXIII. Las demás que le asigne el Consejo Estatal, el Presidente, el Secretario y los ordenamientos legales aplicables.
+II. Minimizar los daños al ambiente que no puedan prevenir o evitar, en cuyo caso estarán obligadas a reparar los daños causados;
 
-###### Artículo 25.
+III. Ayudar en la medida de lo posible a establecer las condiciones que permitan garantizar la subsistencia y regeneración del ambiente y los elementos naturales; y
 
-El Secretariado Ejecutivo es un Órgano Administrativo Desconcentrado de la Secretaría, de gestión y seguimiento con autonomía técnica presupuestal, y para el mejor desempeño de sus funciones y atribuciones se organizará de la forma siguiente:
+IV. Realizar todas sus actividades cotidianas bajo los criterios de ahorro y reuso de agua, conservación del ambiente rural y urbano, prevención y control de la contaminación de aire, agua y suelo, y protección de la flora y fauna en el Distrito Federal.
 
-I. Secretariado Ejecutivo:
+### CAPÍTULO III. PLANEACIÓN DEL DESARROLLO SUSTENTABLE
 
-I.1. Unidad de Órgano Interno de Control;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
-I.2. Unidad de Transparencia;
+###### ARTÍCULO 24.
 
-I.3. Unidad de Asuntos Jurídicos;
+En la planeación del desarrollo del Distrito Federal se deberá incluir la política de desarrollo sustentable, desarrollo rural y el ordenamiento ecológico. En la planeación y ejecución de acciones a cargo de las dependencias y entidades de la Administración Pública del Distrito Federal, se observarán los lineamientos, criterios e instrumentos de política ambiental, el Programa General de Desarrollo del Distrito Federal, el Programa Sectorial Ambiental y los programas correspondientes.
 
-I.4. Unidad de Género; y
+En concordancia con lo que dispone el artículo 16 de la Ley de Desarrollo Urbano del Distrito Federal, la planeación del Desarrollo sustentable y el ordenamiento ecológico del territorio, serán junto con el Programa General de Desarrollo Urbano, y demás programas de Desarrollo Urbano, el sustento territorial para la planeación económica y social para el Distrito Federal, de conformidad con lo señalado en la Ley de Planeación del Desarrollo del Distrito Federal.
 
-I.5. Delegación Administrativa;
+###### ARTÍCULO 25.
 
-II. Centro Estatal de Evaluación y Control de Confianza;
+La planeación ambiental se basará en la expedición de programas que favorezcan el conocimiento y la modificación de los ciclos y sistemas ambientales en beneficio de la salud y calidad de vida de la población, compatibilizando el desarrollo económico y la protección de sus recursos naturales fundamentales.
 
-III. Centro Estatal de Prevención del Delito y Participación Ciudadana;
+###### ARTÍCULO 26.
 
-IV. Dirección General de Políticas y Programas de Seguridad Pública; y
+El Jefe de Gobierno del Distrito Federal formulará y evaluará, en coordinación con las diferentes instancias involucradas en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental del Distrito Federal e integrará las acciones de los diferentes sectores, de conformidad con la Ley de Planeación.
 
-V. Dirección General del Registro Público Vehicular.
+###### ARTÍCULO 27.
 
-Las demás que se establezcan en el Reglamento Interior y el personal técnico y administrativo que se le asigne de conformidad con el presupuesto.
+El programa sectorial ambiental se evaluará anualmente por la Secretaría y presentará un informe ante la Asamblea, de los avances del mismo.
 
-###### Artículo 26.
-
-La Conferencia Estatal propondrá los mecanismos de coordinación que permitan la formulación y ejecución de políticas y programas para el cumplimiento de sus funciones.
-
-La Conferencia Estatal será presidida por el titular de la Secretaría en su función de coordinadora global del Sistema Estatal, quien convocará a la reunión para la instalación de dicha Conferencia; contará con un Secretario Técnico que será nombrado y removido por su Presidente, quien a su vez podrá invitar a las personas, instituciones, organizaciones que por razón de los asuntos a tratar, puedan exponer conocimientos y experiencias para el cumplimiento de sus objetivos.
-
-La Conferencia Estatal podrá integrar los comités que sean necesarios para el desempeño de sus funciones.
-
-###### Artículo 27.
-
-El quórum para las reuniones de la Conferencia Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de sus integrantes presentes.
-
-Se reunirá cada seis meses de manera ordinaria a convocatoria de su Presidente, quien integrará la agenda de los asuntos a tratar, y podrá convocar a sesión extraordinaria cuando lo estime necesario.
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 27 Bis.
 
@@ -840,535 +880,663 @@ V. La compatibilidad para crear zonas habitacionales entorno a centros industria
 
 VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función.
 
-### Capítulo II. Consejo Estatal
+### CAPÍTULO IV. ORDENAMIENTO ECOLÓGICO
 
-###### Artículo 28.
+###### ARTÍCULO 28.
 
-La Conferencia Estatal, los consejos municipales e intermunicipales, y demás instancias del Sistema Estatal, observarán lo dispuesto en las resoluciones y acuerdos generales que emitan los Consejos Estatal y Nacional.
+El ordenamiento ecológico es un instrumento de política ambiental que tiene por objeto definir y regular los usos del suelo, en el suelo de conservación, los criterios ambientales aplicables a los usos y destinos del suelo de los Programas de Desarrollo Urbano en los asentamientos humanos en suelo de conservación, de los recursos naturales y de las actividades productivas, para hacer compatible la conservación de la biodiversidad con el desarrollo regional. Este instrumento es de carácter obligatorio en el Distrito Federal y servirá de base para la elaboración de los programas y proyectos de desarrollo, así como obras y actividades que se pretendan ejecutar.
 
-En caso de contradicción entre las resoluciones y acuerdos generales adoptados por la Conferencia Estatal, el Consejo Estatal determinará lo que deba prevalecer.
+###### ARTÍCULO 29.
 
-###### Artículo 29.
+En la formulación de los programas de ordenamiento ecológico se deberán considerar los siguientes criterios:
 
-La Conferencia Estatal, estará integrada por:
+I. La naturaleza y características de los ecosistemas existentes en el territorio del Distrito Federal;
 
-I. El Secretario de Seguridad Pública;
+II. La vocación de cada zona, en función de sus elementos naturales, la distribución de la población y las actividades económicas predominantes;
 
-II. El Subsecretario de Prevención y Operación Policial; y
+III. La aptitud del suelo sobre la base de una regionalización ecológica;
 
-III. Los Secretarios o Directores de Seguridad Pública Municipal.
+IV. Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
-###### Artículo 30.
+V. El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-La Conferencia Estatal tendrá las atribuciones siguientes:
+VI. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras y actividades;
 
-I. Pomover (sic) la colaboración y coordinación de las instituciones de seguridad pública estatales y municipales;
+VII. La evaluación de las actividades productivas predominantes en relación con su impacto ambiental, la distribución de la población humana y los recursos naturales en una zona o región; y
 
-II. Impulsar propuestas de creación, reformas o abrogación de Leyes, reglamentos, bandos y otros ordenamientos administrativos, en materia de seguridad pública;
+VIII. La obligatoriedad de la regulación ambiental derivada del ordenamiento ecológico tendrá prioridad sobre otros aprovechamientos que no sean compatibles con los principios del desarrollo sustentable, integrándose a los Programas de Desarrollo Urbano expedidos de conformidad con la Ley de Desarrollo Urbano del Distrito Federal.
 
-III. Desarrollar, planear, promover y fomentar la cultura de respeto a los derechos humanos reconocidas en la legislación vigente;
+El ordenamiento ecológico incluido en los programas de desarrollo urbano será obligatorio en materia de usos y destinos en suelo de conservación, de criterios ambientales aplicables a los usos y destinos del suelo de los Programas de Desarrollo Urbano en los asentamientos humanos en suelo de conservación, en el manejo de los recursos naturales y realización de actividades que afecten al ambiente; los cuales deberán contener los lineamientos y estrategias ecológicas para la conservación, protección, restauración y aprovechamiento sustentable de los recursos naturales, así como para la localización de actividades productivas y cuando se pretenda la ampliación de los poblados rurales y del suelo urbano o nuevos asentamientos humanos.
 
-IV. Proponer políticas generales en materia de seguridad pública, dar seguimiento y evaluar las acciones derivadas de las mismas;
+###### ARTÍCULO 30.
 
-V. Impulsar propuestas para la integración de los programas y demás instrumentos programáticos relacionados con el ámbito de su competencia;
+Los programas de ordenamiento ecológico del territorio en el Distrito Federal señalarán los mecanismos que proporcionen solución a problemas ambientales específicos y a la reducción de conflictos a través del establecimiento de políticas ambientales, lineamientos, criterios ecológicos y construcción de consensos, con la participación de la sociedad en general.
 
-VI. Promover la profesionalización de los integrantes de las instituciones de seguridad pública estatales y municipales, a través de la adopción del Programa Rector de Profesionalización y de los criterios emitidos por el Consejo Nacional y Estatal;
+###### ARTÍCULO 31.
 
-VII. Emitir sus reglas de organización y funcionamiento;
+La elaboración, aprobación e inscripción de los programas de ordenamiento ecológico así como sus modificaciones, se sujetará al siguiente procedimiento:
 
-VIII. Proponer las acciones necesarias para promover la denuncia de los delitos y la participación de la comunidad en las actividades de seguridad pública;
+I. La Secretaría publicará el aviso del inicio del proceso de elaboración del proyecto de programas o de sus modificaciones en la Gaceta Oficial y en un diario de mayor circulación en el Distrito Federal, por una vez;
 
-IX. Proponer y establecer los mecanismos, lineamientos y procedimientos necesarios para la investigación conjunta de los delitos, de conformidad con los ordenamientos legales aplicables;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-X. Proponer la realización de operativos conjuntos de investigación o de carácter preventivo, en coordinación y colaboración con otras instituciones de seguridad pública federales, estatales y municipales; así como emitir las bases y reglas generales para su realización;
+II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y de Desarrollo Rural y Equidad para las Comunidades, definirán los elementos de articulación de dichos programas con los de desarrollo urbano para asentamientos humanos en suelo de conservación;
 
-XI. Proponer y homologar los criterios para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento y certificación y del personal policial de las instituciones de seguridad pública estatales y municipales de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta Oficial y en un diario de mayor circulación, de acuerdo con las siguientes bases:
 
-XII. Vigilar que en las instituciones de seguridad pública estatales y municipales se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación y lo determinado por el Consejo Estatal y el Centro de Evaluación;
+a) En las publicaciones se indicará los plazos y mecanismos para garantizar la participación ciudadana, así como los lugares y las fechas de las audiencias públicas que se llevarán a cabo en ese periodo;
 
-XIII. Proponer los mecanismos necesarios para implementar un procedimiento ágil, eficaz y uniforme en las legislaciones aplicables previendo la imposición de sanciones administrativas al personal de las instituciones de seguridad pública estatales y municipales, por incumplimiento de los deberes previstos en esta Ley y demás que se establezcan en los ordenamientos correspondientes;
+b) En la audiencia o audiencias los interesados pueden presentar por escrito los planteamientos que consideren respecto del proyecto del programa o de sus modificaciones;
 
-XIV. Promover estrategias de coordinación en materia de combate a la corrupción, protección de personas, atención a víctimas y ofendidos de delitos;
+c) Los planteamientos que hayan sido formulados por escrito deberán dictaminarse fundada y motivadamente por escrito; y
 
-XV. Proponer la aplicación de políticas y programas de cooperación en materia de seguridad pública en el orden estatal y municipal, con otras entidades federativas y dependencias competentes;
+d) El dictamen a que se refiere el inciso anterior estará disponible para la consulta de los interesados en las oficinas de la Secretaría;
 
-XVI. Proponer al Centro del Sistema Estatal de Información Policial, criterios para el funcionamiento del Sistema Estatal de Información de Seguridad Pública;
+IV. Una vez que termine el plazo de consulta pública la Secretaría incorporará al proyecto las observaciones que considere procedentes;
 
-XVII. Promover la uniformidad de criterios jurídicos;
+V. La Secretaría, una vez concluida la etapa anterior, remitirá el proyecto al Jefe de Gobierno del Distrito Federal;
 
-XVIII. Promover criterios uniformes para el Desarrollo Policial en términos de la presente Ley;
+VI. El Jefe de Gobierno del Distrito Federal, incorporará, en su caso, las observaciones que considere pertinentes y remitirá el proyecto con carácter de iniciativa a la Asamblea Legislativa para su análisis y dictamen;
 
-XIX. Proponer las especialidades policiales de alto desempeño para hacer frente a los delitos de alto impacto;
+VII. Una vez que la Asamblea apruebe el programa lo enviará al Jefe de Gobierno del Distrito Federal, para su promulgación en los términos del inciso b) fracción II, base segunda del artículo 122 constitucional.
 
-XX. Proponer criterios homogéneos para la recopilación, sistematización y manejo de información por parte de las instituciones de seguridad pública y promover su aplicación;
+###### ARTÍCULO 32.
 
-XXI. Proponer acciones conjuntas para proteger a las personas e instalaciones estratégicas del Estado, en los términos de la legislación aplicable;
+Una vez publicado el programa se inscribirá en el Registro de los Planes y Programas de Desarrollo Urbano y en el Registro Público de la Propiedad.
 
-XXII. Promover el desarrollo y fortalecimiento de las dependencias encargadas de la seguridad pública estatal y municipal;
+El programa de ordenamiento ecológico surtirá sus efectos a partir del día siguiente a su publicación en la Gaceta Oficial.
 
-XXIII. Proponer el intercambio de experiencias y apoyo técnico entre las dependencias de seguridad pública del Estado y los Municipios;
+###### ARTÍCULO 33.
 
-XXIV. Organizar foros, seminarios, conferencias y ponencias en la materia de seguridad pública;
+Los programas de ordenamiento ecológico deberá (sic) ser revisado en forma permanente, y en su caso, actualizado cada tres años.
 
-XXV. Integrar los comités que sean necesarios para el desempeño de sus funciones; y
+###### ARTÍCULO 34.
 
-XXVI. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+Los Programas de ordenamiento ecológico del territorio del Distrito Federal se harán del conocimiento de las autoridades federales y se promoverá su observancia en el otorgamiento de permisos y autorizaciones de proyectos de obras y actividades así como en el aprovechamiento de recursos naturales de competencia federal.
 
-###### Artículo 31.
+###### ARTÍCULO 35.
 
-En el Estado se instalarán consejos municipales e intermunicipales de seguridad pública, los que tendrán por funciones hacer posible la coordinación, planeación e implementación del Sistema Estatal, así como dar seguimiento a los acuerdos, lineamientos y políticas emitidos por el Consejo Estatal en los respectivos ámbitos de competencia.
+Los Programas de ordenamiento ecológico del territorio serán de observancia obligatoria en:
 
-Por Consejo Municipal, se entiende aquél que se instala en un solo Municipio, atendiendo a la problemática que en materia de seguridad pública se presenta dentro del mismo.
+I. Las autorizaciones en materia de impacto ambiental, y en general en los proyectos y ejecución de obras, así como en el establecimiento de actividades productivas;
 
-Por Consejo Intermunicipal, se entiende aquél que se instala con la totalidad de los municipios que conforman una región económica preestablecida, en atención a sus necesidades específicas de incidencia delictiva, por su cercanía y características regionales, geográficas y demográficas.
+II. El aprovechamiento de los recursos naturales en el Distrito Federal;
 
-Por instancias regionales, son aquellas que se instalan para el cumplimiento de la función de seguridad pública donde sea necesaria la participación de dos o más municipios de diferentes Estados, o de dos o más entidades federativas, en las que participarán las instituciones de seguridad pública correspondiente, con carácter temporal o permanente, a través de convenios.
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-###### Artículo 32.
+III. La creación de áreas naturales protegidas de competencia del Distrito Federal;
 
-Los consejos municipales de seguridad pública se integran con:
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-I. El Presidente Municipal, quien lo presidirá y representará;
+IV. Los programas de desarrollo urbano; y
 
-II. El Síndico Procurador;
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-III. El Secretario General del Ayuntamiento;
+V. La elaboración de políticas y programas en materia de promoción y fomento agrícola, agropecuario, turismo alternativo y programas del sector rural.
 
-IV. El titular de Seguridad Pública Municipal;
+### CAPÍTULO V. NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL
 
-V. Un representante del Secretariado Ejecutivo;
+###### ARTÍCULO 36.
 
-VI. El Presidente del Consejo Consultivo de Comisarios Municipales;
+La Secretaría, en el ámbito de su competencia emitirá normas ambientales las cuales tendrán por objeto establecer:
 
-VII. Los presidentes de los comisariados ejidales y comunidades agrarias del Municipio;
+I. Los requisitos o especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana que pudiera afectar la salud, la conservación del medio ambiente, la protección ecológica o provocar daños al ambiente y los recursos naturales;
 
-VIII. Un representante de cada una de las policías comunitarias que hubiera en el municipio, designado por Asamblea;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IX. El Presidente del Comité de Consulta y Participación Ciudadana Municipal;
+II. Los requisitos, condiciones o límites permisibles en la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización o disposición final de residuos sólidos;
 
-X. Un representante de la Fiscalía General del Estado de Guerrero;
+III. Los requisitos, condiciones, parámetros y límites permisibles para el tratamiento y aprovechamiento de aguas residuales provenientes de actividades domésticas, industriales, comerciales, agrícolas, acuícolas, pecuarias o de cualquier otra actividad humana y que, por el uso recibido, se les hayan incorporado contaminantes;
 
-XI. Dos Comisarios municipales, de los cuales en los municipios con población indígenas o afromexicanas, uno deberá pertenecer a este sector de población; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XII. Un Secretario Ejecutivo, que será nombrado por el Consejo Municipal de Seguridad Pública a propuesta del Presidente.
+IV. Las condiciones de seguridad, requisitos y limitaciones en el manejo de residuos sólidos que presenten riesgo para el ser humano, para el equilibrio ecológico o para el ambiente;
 
-###### Artículo 33.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Los consejos intermunicipales de Seguridad Pública se integrarán con:
+V. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en suelo de conservación;
 
-I. Los presidentes municipales de los ayuntamientos que lo conforman y serán presididos por quien resulte electo internamente;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Un representante del Ejecutivo del Estado;
+VI. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en las Áreas Naturales Protegidas de competencia del Distrito Federal; y
 
-III. Un representante del Secretariado Ejecutivo;
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IV. Los titulares de Seguridad Pública Municipal;
+VII. Los requisitos y condiciones para la incorporación voluntaria de personas físicas y morales a los programas de prácticas de producción sustentable, así como los procesos para su certificación.
 
-V. Los presidentes de los Comités de Consulta y Participación Ciudadana Municipales, y
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VI. Un Secretario Ejecutivo que será electo por los presidentes municipales de los Ayuntamientos que lo integran. Los cargos en los consejos municipales e Intermunicipales serán honoríficos, excepto el del Secretario Ejecutivo de los consejos municipales e intermunicipales.
+###### ARTÍCULO 37.
 
-###### Artículo 34.
+Las normas ambientales para el Distrito Federal podrán determinar requisitos, condiciones, parámetros y límites más estrictos que los previstos en las Normas Oficiales Mexicanas y deberán referirse a materias que sean de competencia local.
 
-Los consejos municipales e intermunicipales de seguridad pública, según corresponda, tendrán las atribuciones siguientes:
+###### ARTÍCULO 38.
 
-I. Formular estrategias y acciones para el establecimiento de políticas en materia de seguridad pública;
+En la formulación de las normas ambientales para el Distrito Federal deberá considerarse que el cumplimiento de sus previsiones se realice de conformidad con las características de cada proceso productivo o actividad sujeta a regulación.
 
-II. Elaborar los programas de Seguridad Pública municipales, intermunicipales y regionales según corresponda y turnarlos a los ayuntamientos, al Consejo Intermunicipal y Regional, respectivamente, para su aprobación; los cuales deberán contener por lo menos:
+###### ARTÍCULO 39.
 
-a) Justificación;
+La sociedad, las instituciones de investigación y educación superior, las organizaciones empresariales, así como las entidades y dependencias de la Administración Pública, podrán proponer la creación de las normas ambientales para el Distrito Federal, en los términos señalados en el reglamento que al efecto se expida.
 
-b) Diagnóstico;
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-c) Objetivos;
+###### ARTÍCULO 40.
 
-d) Estrategias;
+La elaboración, aprobación y expedición de las normas ambientales para el Distrito Federal, así como sus modificaciones, se sujetarán al siguiente procedimiento:
 
-e) Líneas de acción;
+I. La Secretaría creará un Comité de Normalización Ambiental para coordinar el proceso de emisión de normas ambientales;
 
-f) Requerimiento y financiamiento;
+II. El Comité antes mencionado convocará a la conformación de grupos de trabajo que elaboren y opinen sobre los proyectos, a través de medios masivos de difusión por lo menos con quince días naturales de antelación;
 
-g) Metas;
+III. La Secretaría publicará el proyecto de norma o de su modificación en la Gaceta Oficial, a efecto de que los interesados presenten sus comentarios dentro de los treinta días naturales siguientes;
 
-h) Evaluación;
+IV. Al término del plazo a que se refiere la fracción anterior, la Secretaría estudiará los comentarios recibidos y, en su caso, procederá a modificar el proyecto de norma ambiental y emitir la norma definitiva;
 
-i) Propuesta de distribución y aplicación de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios en materia de Seguridad Pública del Ramo 33, y
+V. Se ordenará la publicación en la Gaceta Oficial de las respuestas a los comentarios recibidos así como de las modificaciones al proyecto, cuando menos 15 días naturales antes de la publicación de la norma ambiental para el Distrito Federal.
 
-j) Acta de sesión de los consejos municipal e intermunicipal, respectivamente;
+La Secretaría deberá responder por escrito a los interesados las razones fundadas por las cuales los comentarios a que se refiere la fracción III de este artículo no fueron tomados en consideración dentro del proyecto de norma ambiental, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley en contra de la respuesta que emita la Secretaria a los comentarios recibidos; y
 
-III. Elaborar propuestas de reformas a leyes y reglamentos en materia de seguridad pública;
+VI. Transcurridos los plazos anteriores, la Secretaría publicará las normas ambientales para el Distrito Federal o sus modificaciones en la Gaceta Oficial.
 
-IV. Formular propuestas para eficientar el Sistema Estatal;
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. Coordinar sus acciones con el Consejo Estatal;
+###### ARTÍCULO 41.
 
-VI. Vigilar y evaluar periódicamente el desarrollo y cumplimiento de los programas de seguridad pública en su jurisdicción;
+Una vez publicada una norma ambiental para el Distrito Federal en la Gaceta Oficial, será obligatoria. Las normas ambientales para el Distrito Federal señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
-VII. Coadyuvar en la integración de los Comités de Consulta y Participación Ciudadana, que tendrán por objeto contribuir a la búsqueda de soluciones a la problemática que afronte la seguridad pública en sus respectivas jurisdicciones;
+###### ARTÍCULO 42.
 
-VIII. Celebrar convenios y acuerdos cuando para la realización de acciones conjuntas se comprendan materias que rebasen los ámbitos de su competencia, y
+En casos de emergencia que pongan en riesgo la integridad de las personas o del ambiente, la Secretaría podrá publicar en la Gaceta Oficial normas ambientales del Distrito Federal sin sujetarse al procedimiento establecido en el artículo anterior. Estas normas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
 
-IX. Las demás atribuciones que le confiere la Ley y otras disposiciones jurídicas aplicables.
+###### ARTÍCULO 43.
 
-###### Artículo 35.
+La Secretaría promoverá la creación de un sistema de certificación para el Distrito Federal, con el propósito de establecer parámetros de calidad ambiental en:
 
-Los presidentes y los secretarios ejecutivos de los consejos municipales e intermunicipales de seguridad pública, en el ámbito de su competencia, contarán con atribuciones afines a las de su similar del ámbito estatal.
+I. Capacitación y formación de especialistas e instructores;
 
-### Capítulo III. Secretaría de Seguridad Pública del Estado, como Coordinadora Global del Sistema Estatal
+II. La elaboración de bienes y productos;
 
-###### Artículo 36.
+III. Desarrollo tecnológico y de ecotecnias; y
 
-Los consejos municipales e intermunicipales, comunicarán al Consejo Estatal, por conducto de sus presidentes los acuerdos que se tomen en la materia.
+IV. Procesos productivos y de consumo.
 
-Los consejos municipales, intermunicipales y las instancias regionales, podrán proponer a la Conferencia y al Consejo Estatal, acuerdos, programas específicos y convenios sobre las materias de coordinación.
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 37.
+### CAPÍTULO VI. EVALUACIÓN DE IMPACTO AMBIENTAL
 
-El Centro del Sistema Estatal de Información Policial, será el responsable del desarrollo, integración, organización y operación del Sistema Estatal de Información de Seguridad Pública y tendrá las siguientes atribuciones:
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-I. Coordinar, administrar y resguardar las Bases de Datos del Sistema Estatal en términos de la normatividad aplicable;
+###### ARTÍCULO 44.
 
-II. Aplicar los criterios técnicos y de homologación de las Bases de Datos de los integrantes del Sistema Estatal;
+La evaluación de impacto ambiental es el procedimiento a través del cual la autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Distrito Federal, a fin de evitar o reducir al mínimo efectos negativos sobre el ambiente, prevenir futuros daños al ambiente y propiciar el aprovechamiento sustentable de los recursos naturales.
 
-III. Adoptar y promover la aplicación de los protocolos de interconexión, acceso y seguridad de las Bases de Datos;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. Organizar, dirigir y vigilar el cumplimiento de los criterios de acceso a la información;
+El procedimiento de evaluación de impacto ambiental se inicia mediante la presentación del estudio de impacto ambiental en sus diferentes modalidades ante la Secretaría y concluye con la resolución ó dictamen que esta emita. La elaboración del estudio de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento correspondiente a la materia.
 
-V. Colaborar con el Instituto Nacional de Estadística y Geografía, en la integración de la estadística nacional en materia de seguridad pública de conformidad con la Ley de la materia;
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-VI. Prestar apoyo y brindar asesoría a las instituciones de seguridad pública para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las Bases de Datos;
+Las modalidades de los estudios de impacto ambiental son:
 
-VII. Adoptar, promover y verificar el cumplimiento de las políticas emitidas por el Consejo Estatal, para el suministro, intercambio, sistematización y actualización de la información que sobre seguridad pública generen las instituciones del Estado y los municipios, y
+I. Evaluación ambiental estratégica;
 
-VIII. Las demás que establezcan otras disposiciones legales.
+II. Manifestación de impacto ambiental específica;
 
-La integración y organización del Centro del Sistema Estatal de Información Policial, se definirán en el Reglamento que al efecto se expida conforme a las bases establecidas en esta Ley.
+III. Manifestación de impacto ambiental general;
 
-###### Artículo 38.
+IV. Informe preventivo;
 
-El Centro del Sistema Estatal de Información Policial, implementará los mecanismos para el registro de información de seguridad pública, utilizando para tal fin los medios tecnológicos, idóneos que permitan la concentración única de los datos que pueden ser objeto de consulta mediante la utilización del equipo y tecnología compatible, conforme al manual de operación que para tal efecto expida.
+V. Estudio de riesgo ambiental; y
 
-###### Artículo 39.
+VI. Declaratoria de cumplimiento ambiental.
 
-El Centro del Sistema Estatal de Información Policial, deberá integrar las estadísticas a partir de los diferentes registros de las instituciones de seguridad pública, con el propósito de que la Secretaría pueda planear las estrategias y políticas y proponerlas al Sistema Estatal para la preservación del orden, la tranquilidad y la paz pública.
+###### ARTÍCULO 45.
 
-###### Artículo 40.
+En los casos de aquellas obras y actividades donde además de la autorización de impacto ambiental requiera la de impacto urbano, se estará a lo dispuesto en la presente Ley, en la Ley de Desarrollo Urbano del Distrito Federal y al reglamento que sobre estas materias al efecto se emita.
 
-Las secretarias, dependencias y entidades del Ejecutivo Estatal y de los Ayuntamientos, estarán obligadas a proporcionar a la Secretaría la información necesaria que obren en sus registros o bases de datos, como un mecanismo de cooperación con el Sistema Estatal tendiente a garantizar la seguridad pública.
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
-###### Artículo 41.
+La Secretaría y las Secretarías de Desarrollo Urbano y Vivienda y Desarrollo Rural y Equidad para las Comunidades podrán interpretar y aplicar para efectos administrativos en la esfera de sus respectivas competencias, las disposiciones de esta Ley y de los programas de ordenamiento ecológico territorial, así como, de la Ley de Desarrollo Urbano del Distrito Federal, y de los Programas de Desarrollo Urbano, respectivamente, y del Reglamento al que se refiere el párrafo anterior, emitiendo para tal efecto, de manera conjunta los dictámenes, circulares y recomendaciones en materia de impacto urbano y ambiental.
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana, será el responsable de proponer los lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
-###### Artículo 42.
+###### ARTÍCULO 46.
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana, tendrá las atribuciones siguientes:
+Las personas físicas o morales interesadas en la realización de obras o actividades que impliquen o puedan implicar afectación del medio ambiente o generación de riesgos requieren evaluación de impacto ambiental y, en su caso, de riesgo previo a la realización de las mismas. Las obras y actividades que requieren autorización por encontrarse en el supuesto anterior, son las siguientes:
 
-I. Promover y coordinar la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+I. Los programas que en general promuevan cambios de uso en el suelo de conservación o actividades económicas o prevean el aprovechamiento de los recursos naturales del Distrito Federal;
 
-II. Emitir opiniones, recomendaciones y dar seguimiento a los programas implementados por las secretarías, dependencias y entidades del Poder Ejecutivo Estatal y los Ayuntamientos cuyas funciones impliquen: Prevenir el delito y la violencia infantil y juvenil; promover la erradicación de la violencia especialmente la ejercida contra niñas, niños, adolescentes, mujeres, indígenas, adultos mayores, dentro y fuera del seno familiar; prevenir la violencia generada por el uso de las armas, el abuso de drogas y alcohol y la atención integral de víctimas;
+II. Obras y actividades, o las solicitudes de cambio de uso del suelo que en los casos procedentes, pretendan realizarse en suelos de conservación;
 
-III. Dirigir y realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública estatal;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-IV. Realizar por sí o por terceros, encuestas victimológicas, de fenómenos delictivos y otras que coadyuven a la prevención del delito;
+III. Obras y actividades que pretendan realizarse en áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal;
 
-V. Promover la corresponsabilidad institucional a través de la inclusión de contenidos relativos a la prevención del delito en los programas educativos, de salud, de desarrollo social y en general en los diversos programas de las secretarías, dependencias y entidades del Poder Ejecutivo y de los Ayuntamientos;
+IV. Obras y actividades dentro de suelo urbano en los siguientes casos:
 
-VI. Organizar y coordinar foros, seminarios, conferencias, ponencias y demás eventos sobre prevención social del delito;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-VII. Mantener una estrecha coordinación con las instancias competentes en la materia para el cumplimiento y ejercicio de sus funciones;
+a) Las que colinden con áreas de valor ambiental, áreas naturales protegidas, suelo de conservación o con vegetación acuática;
 
-VIII. Promover la participación ciudadana para el fortalecimiento del Sistema Estatal en los términos de esta Ley;
+b) Nuevas actividades u obras de infraestructura, servicios o comerciales o sus ampliaciones, cuyos procesos requieran de medidas, sistemas o equipos especiales para no afectar los recursos naturales o para cumplir con las normas ambientales para el Distrito Federal; y
 
-IX. Promover la conformación de un comité estatal en el que participen las secretarías, dependencias y entidades del Poder Ejecutivo Estatal y las áreas de los Ayuntamientos que, en el ámbito de sus respectivas competencias, ejecutan programas y acciones vinculados con la prevención del delito y la participación ciudadana, a fin de orientar la acción gubernamental en la materia;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-X. Emitir el Programa Estatal de Prevención del Delito y Participación Ciudadana;
+c) Obras, actividades o cambios de uso de suelo que se pretendan realizar en predios con cobertura arbórea significativa o cuerpos de agua competencia del Distrito Federal;
 
-XI. Ejecutar en tiempo y forma, los programas y proyectos aprobados, así como informar de los avances y cumplimiento de los mismos cuando se le requiera;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-XII. Establecer un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos; y
+V. Obras y actividades para la extracción de materiales pétreos, cantera, tepetate, arcilla, y en general cualquier yacimiento; así como su regeneración ambiental;
 
-XIII. Las demás que establezcan otras disposiciones legales.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-La integración y organización del Centro Estatal de Prevención del Delito y Participación Ciudadana se definirán en el Reglamento que al efecto se expida conforme a las bases establecidas en esta Ley.
+VI. Obras y actividades que afecten la vegetación y los suelos de escurrimientos superficiales, barrancas, cauces, canales y cuerpos de agua del Distrito Federal, y en general cualquier obra o actividad para la explotación de la capa vegetal; con excepción de los que sean de competencia federal.
 
-###### Artículo 43.
+Los casos y modalidades para la presentación de los estudios de impacto ambiental señalados en el párrafo anterior se establecerán en el Reglamento correspondiente a la materia y, en su caso, se precisarán en los manuales de trámites y servicios, guías técnicas, formatos y acuerdos administrativos correspondientes;
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana establecerá mecanismos eficaces para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema Estatal, en los términos de esta Ley y demás ordenamientos aplicables, a través de:
+VII. Las obras y actividades que se establezcan en el programa de ordenamiento ecológico del territorio;
 
-I. La comunidad, tenga o no estructura organizativa; y
+VIII. Las obras y actividades de carácter público o privado, destinadas a la prestación de un servicio público;
 
-II. La sociedad civil organizada.
+IX. Vías de comunicación de competencia del Distrito Federal;
 
-### Capítulo IV. Secretariado Ejecutivo
+X. Zonas y parques industriales y centrales de abasto y comerciales;
 
-###### Artículo 44.
+XI. Conjuntos habitacionales;
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana impulsará las acciones necesarias para que las instituciones de seguridad pública, establezcan un servicio para la localización de personas y bienes, que promueva la colaboración y participación ciudadana.
+XII. Actividades consideradas riesgosas en los términos de esta Ley;
 
-Para el caso de la sustracción de menores, deberán implementarse sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, en el que coadyuven con los integrantes del Sistema Estatal; las corporaciones de emergencia, medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
+XIII. Las instalaciones para el manejo de residuos sólidos e industriales no peligrosos, en los términos del Titulo Quinto, Capitulo V de esta Ley;
 
-###### Artículo 45.
+XIV. Aquellas obras y actividades que estando reservadas a la Federación, se descentralicen a favor del Distrito Federal;
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana, promoverá que los Municipios reporten sobre las emergencias, faltas y delitos de que tenga conocimiento al Número Único de Atención de Emergencias.
+XV. Aquellas obras y actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la conservación del equilibrio ecológico y la protección al ambiente;
 
-###### Artículo 46.
+XVI. Obras de más de 10 mil metros cuadrados de construcción u obras nuevas en predios de más de cinco mil metros cuadrados para uso distinto al habitacional, para obras distintas a las mencionadas anteriormente, para la relotificación de predios y ampliaciones de construcciones que en su conjunto rebasen los parámetros señalados; y
 
-La participación ciudadana en materia de evaluación de políticas y de instituciones, se sujetará a los indicadores previamente establecidos con la autoridad sobre los siguientes temas:
+XVII. Construcción de estaciones de gas y gasolina.
 
-I. El desempeño de su personal;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-II. El servicio prestado; y
+El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo, así como la determinación de las obras o actividades que, no obstante estar previstas en los supuestos a que se refiere este artículo, por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos o no causen o puedan causar riesgos, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental previsto en este ordenamiento.
 
-III. El impacto de las políticas públicas en prevención del delito.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
-Los resultados de los estudios deberán ser entregados a las instituciones de seguridad pública, así como al Centro Estatal de Prevención del Delito y Participación Ciudadana, según corresponda. Estos estudios servirán para la formulación de políticas públicas en la materia.
+###### ARTÍCULO 47.
 
-###### Artículo 47.
+Para obtener autorización en materia de impacto ambiental, los interesados, previamente al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, el estudio de impacto ambiental en la modalidad que corresponda, conforme a lo señalado en el artículo 44 de la presente Ley, el cual deberá contener, según corresponda por lo menos:
 
-El Centro del Sistema Estatal de Información Policial, deberá proporcionar la información necesaria y conducente para el desarrollo de las actividades en materia de participación ciudadana.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-No se podrá proporcionar la información que ponga en riesgo la seguridad pública o personal.
+I. Nombre, denominación o razón social, nacionalidad, domicilio para oír y recibir notificaciones, personas señaladas para tal efecto, teléfono y correo electrónico de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación y nombre, denominación o razón social, nacionalidad, domicilio, teléfono y correo electrónico de la persona física o moral responsable de elaborar la manifestación de impacto ambiental, así como copia cotejada de la cédula profesional o certificación o acreditación en la materia ambiental y/o riesgo;
 
-###### Artículo 48.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-Para mejorar el servicio de seguridad pública, El Centro Estatal de Prevención del Delito y Participación Ciudadana promoverá la integración de Comités de Consulta y Participación Ciudadana, a través de las siguientes acciones:
+II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido, incluyendo la manifestación de las actividades previas realizadas en el predio,; (sic) el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
 
-I. Participar en la evaluación de las políticas y de las instituciones de seguridad pública;
+III. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
-II. Opinar sobre políticas en materia de seguridad pública;
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-III. Sugerir medidas específicas y acciones concretas para esta función;
+III bis. Delimitación y justificación del área de influencia del proyecto;
 
-IV. Realizar labores de seguimiento;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. Proponer reconocimientos por méritos o estímulos para el personal de las instituciones;
+IV. Vinculación con las normas y regulaciones sobre uso del suelo en el área correspondiente;
 
-VI. Realizar denuncias o quejas sobre irregularidades; y
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-VII. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
+V. Identificación, descripción y evaluación de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas determinando los indicadores ambientales del proyecto; y
 
-###### Artículo 49.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-El Centro Estatal de Prevención del Delito y Participación Ciudadana promoverá que las instituciones de seguridad pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos establecidos.
+VI. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas, así como el escenario ambiental modificado.
 
-###### Artículo 50.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-Las instituciones de seguridad pública establecerán políticas públicas de atención a la víctima, que deberán prever, al menos los siguientes rubros:
+Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente, el cual será considerado al evaluarse el impacto ambiental. La evaluación de riesgo deberá incluir la identificación, jerarquización, análisis y evaluación de los riesgos ambientales y las medidas pertinentes.
 
-I. Atención de la denuncia en forma pronta y expedita;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-II. Atención jurídica, médica y psicológica especializada;
+Si después de la presentación de un estudio de impacto ambiental se realizan modificaciones al proyecto de los programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
 
-III. Medidas de protección a la víctima; y
+###### ARTÍCULO 48.
 
-IV. Otras, en términos de la Constitución Federal.
+En las áreas naturales protegidas se requerirá de una manifestación de impacto ambiental en su modalidad específica para toda actividad, obra y operación pública o privada que se pretenda desarrollar.
 
-###### Artículo 51.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-El Centro Estatal de Evaluación y Control de Confianza, tiene por objeto aplicar las evaluaciones a que se refiere la Ley General y esta Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción del personal de las instituciones de seguridad pública, sus auxiliares y privada.
+###### ARTÍCULO 49.
 
-El Centro de Evaluación, será el responsable de la certificación y el control de confianza, de conformidad con lo dispuesto en esta Ley contará con un órgano consultivo integrado por las instituciones públicas y privadas que se determinen en el reglamento correspondiente.
+Una vez ingresada la solicitud de autorización de impacto y riesgo ambiental, así como sus anexos se considerará integrado el expediente y estará dispuesto para consulta del público.
 
-###### Artículo 52.
+Con el objeto de agilizar y simplificar el procedimiento de evaluación y comprobar que la información sea la mínima suficiente, la Secretaría implementará un proceso de revisión previa, el cual consistirá en la aplicación de una lista de chequeo por parte del área encargada de la evaluación, del cual se determinará lo siguiente:
 
-El Centro de Evaluación, deberá operar de conformidad con las normas técnicas y estándares mínimos en materia de evaluación y control de confianza de los servidores públicos de las instituciones de seguridad pública. Para tal efecto, tendrá las facultades siguientes:
+I. El ingreso del trámite para su evaluación correspondiente, cuando no se detecte algún faltante de la lista de chequeo.
 
-I. Aplicar los lineamientos del Centro Nacional de Certificación y Acreditación, para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás necesarios que se consideren de conformidad con la normatividad aplicable;
+II. Informar al promovente las omisiones o inconsistencias detectadas que debe subsanar, haciendo entrega de una copia de la lista de chequeo donde se indican los faltantes.
 
-II. Aplicar los procedimientos de evaluación, de control de confianza y certificación de los servidores públicos conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación;
+El interesado de la obra o actividad, al momento de ingresar la solicitud de impacto ambiental en sus diferentes modalidades, determinará en la carpeta de consulta para el público, la información que debe mantenerse en reserva de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; en caso de no hacerlo, se entenderá que toda la información puede ser consultada por cualquier persona.
 
-III. Comprobar los niveles de escolaridad de los integrantes de las instituciones de seguridad pública;
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2009)</small>
 
-IV. Verificar el cumplimiento de los perfiles médico, ético y de personalidad;
+###### ARTÍCULO 50.
 
-V. Suscribir los convenios que, en el ámbito de su competencia, se celebren con instituciones públicas, gobiernos municipales; así como contratos con empresas privadas y cualquier otra, para la aplicación de exámenes de control de confianza;
+La autoridad competente, deberá llevar a cabo una consulta pública, conforme a las bases de la Ley de Participación Ciudadana y al Reglamento de la presente Ley.
 
-VI. Solicitar el apoyo del Centro Nacional de Certificación y Acreditación;
+Dicha consulta tendrá que realizarse a costa del interesado que haya presentado la manifestación a la que se refiere el artículo 47 de esta Ley, con independencia del pago de la publicación a la que se refiere el siguiente artículo.
 
-VII. Establecer un sistema de registro y control de expedientes de los evaluados, mediante el cual se garantice la confidencialidad y resguardo de estos;
+En estos casos, la Secretaría dictará las medidas y los mecanismos de operación que considere pertinentes para el desarrollo de la consulta pública.
 
-VIII. Expedir y actualizar el Certificado conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que practiquen;
+###### ARTÍCULO 51.
 
-X. Solicitar se efectúe el seguimiento individual de los integrantes de las instituciones de Seguridad Pública evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+Los promoventes de obras o actividades que requieran una manifestación de impacto ambiental en modalidad específica, o que deban someterse a consulta pública por determinación de la Secretaría, deberán publicar, a su costa, en un diario de circulación nacional, un resumen del proyecto. Las personas que participen en la consulta pública, podrán presentar a la Secretaría por escrito sus observaciones o comentarios, dentro de los cinco días hábiles siguientes a que ésta haya sido convocada.
 
-XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
+Una vez presentados las observaciones y comentarios, la Secretaría los ponderará y los considerará al momento de resolver sobre la autorización en materia de impacto ambiental.
 
-XII. Proporcionar a las instituciones, la asesoría y apoyo técnico que requieran sobre información de su competencia;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-XIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de las instituciones de seguridad pública y que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
+La Secretaría al momento de emitir la resolución correspondiente de manera fundada y motivada, indicará a los interesados las razones por las cuales los comentarios a que se refiere el párrafo primero de este artículo fueron o no tomados en consideración, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley, en contra de la resolución por la cual la Secretaría ponga fin al procedimiento de evaluación de impacto ambiental.
 
-XIV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las instituciones de seguridad pública; y
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-XV. Las demás que resulten necesarias para el desempeño de sus funciones.
+###### ARTÍCULO 52.
 
-###### Artículo 53.
+Al realizar la evaluación del impacto ambiental, la autoridad se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio; a los programas de desarrollo urbano; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo, programas de rescate y recuperación; a las normas y demás disposiciones jurídicas que resulten aplicables.
 
-Las instituciones de seguridad pública implementarán medidas de registro y seguimiento para aquellos aspirantes que hayan sido rechazados o que admitidos hubiesen desertado del curso de formación inicial, así como para quienes sean suspendidos, inhabilitados o separados del servicio por no obtener el Certificado.
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-###### Artículo 54.
+###### ARTÍCULO 52 Bis.
 
-El Certificado que emita el Centro de Evaluación, sólo tendrá validez si cuenta con la acreditación vigente del Centro Nacional de Certificación y Acreditación; dicho Certificado será requisito indispensable para la permanencia en la institución policial.
+Para contar con mayores elementos de evaluación y, en su caso, comprobar y constar el contenido de los estudios de impacto ambiental en sus diferentes modalidades, o de evaluación de daño ambiental, la Secretaria a través de su personal autorizado podrá realizar reconocimientos técnicos al sitio donde se pretenda o desarrolla el programa, obra o actividad.
 
-La integración, organización y funcionamiento del Centro de Evaluación; así como los procedimientos de evaluación y control de confianza para la certificación, se establecerán en el reglamento que al efecto se expida.
+La Secretaría establecerá de común acuerdo con los promoventes del programa, obra o actividad que se pretenda desarrollar, la fecha y hora para la realización del reconocimiento técnico. El procedimiento para la realización de los reconocimientos técnicos se establecerá en el Reglamento correspondiente a la materia.
 
-###### Artículo 55.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-En el ámbito estatal, son autoridades para el análisis, discusión, toma de decisiones y ejecución en materia de seguridad pública, las siguientes:
+###### ARTÍCULO 53.
 
-I. El Consejo Estatal;
+Una vez evaluada la manifestación de impacto ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
-II. El Gobernador del Estado;
+I. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-III. El Secretario General de Gobierno;
+II. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, sujetándose a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución del proyecto, así como en caso de accidentes;
 
-IV. El Secretario de Seguridad Pública; y
+III. Negar la autorización solicitada, cuando:
 
-V. El Fiscal General del Estado.
+a) Se contraponga con lo establecido en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales del Distrito Federal, los planes y programas de ordenamiento ecológico y de desarrollo urbano y demás disposiciones legales aplicables;
 
-###### Artículo 56.
+b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y (sic)
 
-En el ámbito municipal, son autoridades para el análisis, discusión y toma de decisiones en materia de seguridad pública, las siguientes:
+c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate;
 
-I. Los consejos municipales e intermunicipales;
+d) Cuando la evaluación de los impactos y riesgos ambientales no garanticen la integridad del ambiente y de las personas.
 
-II. Los ayuntamientos municipales;
+La Secretaría podrá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o al ambiente.
 
-III. Los presidentes municipales;
+La Secretaría podrá por una sola ocasión, en un plazo no mayor a cinco días hábiles a partir del ingreso de la solicitud, requerir información adicional para complementar o precisar el contenido técnico de la manifestación de impacto ambiental en sus diferentes modalidades y estudios de riesgo, para lo cual el interesado deberá dar respuesta en un plazo no mayor a cinco días hábiles.
 
-IV. Los síndicos procuradores;
+En todos los casos de autorizaciones de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento del cumplimiento de las disposiciones y medidas de prevención, mitigación y compensación de impactos ambientales que hubiere establecido en las resoluciones correspondientes.
 
-V. Los titulares de seguridad pública municipal; y
+La Secretaría deberá emitir la resolución correspondiente en un plazo de quince días hábiles, a partir de que se integre la información necesaria. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que la realización de la obra o actividad ha sido negada.
 
-VI. Los comisarios o delegados municipales.
+La Secretaría establecerá los procedimientos para el reporte del cumplimiento de condicionantes, que podrán presentar los interesados a través de los prestadores de servicios profesionales acreditados.
 
-###### Artículo 57.
+En todos los casos de autorizaciones de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento del cumplimiento de las disposiciones y medidas de prevención, mitigación y compensación de impactos ambientales que hubiere establecido en las resoluciones correspondientes.
 
-El Municipio es la primera línea de contención para hacer frente a las conductas ilícitas con el estado de fuerza con que cuenta, a fin de salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, en toda su jurisdicción territorial.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-Los municipios podrán coordinarse y asociarse para la más eficaz prestación de la función de seguridad pública, policía preventiva municipal y tránsito. Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa se haga cargo en forma temporal de esta función o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+###### ARTÍCULO 54.
 
-###### Artículo 58.
+Las personas que presten servicios de evaluación de impacto ambiental, serán responsables ante la autoridad competente, de los informes preventivos, declaratorias de cumplimiento ambiental, estudios de daño ambiental y manifestaciones de impacto ambiental en sus diferentes modalidades, que elaboren.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias tendrán las atribuciones generales siguientes:
+Los prestadores de servicios declararán bajo protesta de decir verdad que en dichos documentos se incorporan las mejores técnicas y metodologías existentes y que serán aplicadas en la identificación y evaluación de los impactos y riesgos, así como la determinación de medidas de prevención y mitigación más efectivas. En caso de incumplimiento o falsedad en la información proporcionada, el prestador de servicios será corresponsable con el interesado y se hará acreedor a las sanciones previstas en la presente ley y en el Reglamento correspondiente a la materia, y la Secretaría procederá a negar la autorización solicitada o a la cancelación del trámite de evaluación correspondiente.
 
-I. Garantizar la protección y la seguridad ciudadana, la conservación del orden, la tranquilidad y la seguridad en el Estado, y disponer de las corporaciones policiales estatales y municipales, en aquellos casos de fuerza mayor o alteración grave del orden público;
+Asimismo, los informes preventivos, declaratorias de cumplimiento ambiental, estudios de daño ambiental, manifestaciones de impacto ambiental en sus diferentes modalidades podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, existirá una corresponsabilidad con el interesado respecto del contenido del documento.
 
-II. Garantizar el cumplimiento de la presente Ley y demás disposiciones que deriven de ésta;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-III. Contribuir en el ámbito de sus competencias, a la efectiva coordinación del Sistema Estatal;
+###### ARTÍCULO 55.
 
-IV. Aplicar y supervisar los procedimientos relativos a la Carrera Policial, profesionalización y régimen disciplinario;
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrio ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, estarán sujetas a la evaluación de impacto ambiental, a través de la presentación de un informe preventivo ante la Secretaría, o bien, podrá consultar a la Secretaría si las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, antes de iniciar la obra o actividad.
 
-V. Constituir y operar los consejos de honor y justicia y la Comisión del Servicio Profesional de Carrera Policial;
+Tanto la presentación del informe preventivo como la consulta, a elección de los interesados, podrán realizarse a través de los medios de comunicación electrónica, produciendo los mismos efectos que los presentados en papel cuando aparezca en los mismos la firma electrónica registrada y reconocida por la Administración Pública del Distrito Federal.
 
-VI. Asegurar su integración a las Bases de Datos;
+En los términos que establezca el Reglamento correspondiente a la materia o las disposiciones administrativas aplicables, la Secretaría podrá hacer uso de medios de comunicación electrónica para realizar notificaciones, citatorios y requerimientos de información o documentación a los interesados.
 
-VII. Designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere la Ley General;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-VIII. Integrar y consultar en las Bases de Datos de seguridad pública, los expedientes de los aspirantes a ingresar en las instituciones policiales;
+###### ARTÍCULO 56.
 
-IX. Abstenerse de contratar y emplear en las instituciones policiales a personas que no cuentan con el registro y Certificado emitido por el Centro de Evaluación;
+Las obras y actividades en suelo urbano que estarán sujetas a la evaluación de impacto ambiental a través de la presentación de un informe preventivo ante la Secretaría, además de las que se señalen en el Reglamento correspondiente a la materia, son las siguientes:
 
-X. Coadyuvar a la integración y funcionamiento del desarrollo policial, ministerial y pericial;
+a) Conjuntos habitacionales;
 
-XI. Integrar y consultar la información relativa a la operación y desarrollo policial para el registro y seguimiento, en las Bases de Datos;
+b) Conjuntos habitacionales mixtos;
 
-XII. Destinar los fondos federales para la seguridad pública exclusivamente a estos fines y nombrar a un responsable de su control y administración;
+c) Centros comerciales;
 
-XIII. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del Estado, y
+d) Oficinas, y
 
-XIV. Las demás atribuciones específicas que se establezcan en la Ley y demás disposiciones aplicables.
+e) Estacionamientos mayores a diez mil metros cuadrados.
 
-###### Artículo 59.
+###### ARTÍCULO 57.
 
-Para ser titular de las instituciones de seguridad pública Estatal y Municipal, se requiere:
+El informe preventivo deberá contener:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos civiles y políticos, sin tener otra nacionalidad;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-II. Tener reconocida capacidad y probidad, así como contar con una experiencia mínima de 3 años en labores vinculadas con la seguridad pública;
+I. Nombre, denominación o razón social, nacionalidad, domicilio para oír y recibir notificaciones, personas señaladas para tal efecto, teléfono y correo electrónico del interesado de la obra o actividad proyectada y del responsable de la elaboración del informe preventivo; este último, además deberá presentar copia cotejada de la cédula profesional o certificación o acreditación en la materia;
 
-III. Poseer el grado mínimo de escolaridad de licenciatura, contando con título y cédula profesional expedidos por las autoridades correspondientes o estudios superiores afines a la materia de seguridad pública;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IV. No ser adicto al consumo del alcohol, de estupefacientes o alguna sustancia psicotrópica que prohíbe la Ley General de Salud, u otras que produzcan efectos similares;
+II. Documentos que determinen el uso de suelo autorizado o permitido para el predio;
 
-V. No ser ministro de culto religioso;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VI. Gozar de buena reputación y no haber sido condenado por delito que amerité pena corporal, ni estar inhabilitado para el desempeño de cargos públicos;
+III. Descripción de la obra o actividad proyectada;
 
-VII. No tener en contra resoluciones derivadas de recomendaciones emitidas por los organismos de derechos humanos;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VIII. Someterse y aprobar los procesos de evaluación de control de confianza; y
+IV. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final;
 
-IX. Las demás exigidas en otras disposiciones.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 60.
+V. Monto de la inversión requerida para ejecutar la obra o actividad, así como porcentaje de ésta que se destinará a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales;
 
-El Cuerpo de la Policía Estatal es un organismo de carácter permanente, civil, disciplinado, profesional y operativo, que funcionará bajo una estructura organizada a través del cual el Gobierno del Estado coordina y opera a las instituciones policiales bajo un solo mando operativo a cargo del Gobernador Constitucional del Estado por sí o por conducto del Secretario.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Tiene como objetivo, ejecutar e implementar un sistema operativo policial en el Estado, conforme a los planes, programas y políticas diseñadas por la coordinadora global, para organizar el despliegue territorial y acciones operativas de seguridad, vigilancia y control, en el ejercicio de las funciones de investigación, prevención y reacción.
+VI. Programa calendarizado de ejecución de la obra o actividad;
 
-###### Artículo 61.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-El Cuerpo de la Policía Estatal, para efectos operativos y de Desarrollo Policial, se conforma con las instituciones policiales siguientes:
+VII. Medidas contempladas para la prevención o mitigación de impactos ambientales que pudieran ocasionarse con la realización de la obra o actividad; y
 
-I. Policía Estatal;
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Policía Ministerial;
+VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
-III. Policía Preventiva Municipal; y
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. En general todas aquellas instituciones que se creen y agrupen al Cuerpo de la Policía Estatal.
+###### ARTÍCULO 58.
 
-### Capítulo V. Conferencia Estatal de Seguridad Pública
+Una vez recibido el informe preventivo, la autoridad competente, en un plazo no mayor a cinco días hábiles, comunicará, preferentemente por medio de correo electrónico a los interesados si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y plazo para hacerlo. Transcurrido el plazo señalado, sin que la autoridad emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
+
+En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe preventivo, pretendiendo se aplique la afirmativa ficta, se entenderá que el ingreso del procedimiento para la autorización del informe preventivo es inexistente, independientemente de las sanciones previstas en esta Ley.
+
+La Secretaría en un plazo no mayor a quince días hábiles, a partir de ingresado el informe preventivo o recibida la información adicional solicitada en su caso, emitirá la resolución correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Bis.
+
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances produzcan impactos ambientales tipificados en la normatividad ambiental vigente quedarán sujetos a la presentación ante la Secretaría de una Declaratoria de Cumplimiento Ambiental.
+
+La Declaratoria de Cumplimiento Ambiental es el documento firmado por el interesado bajo protesta de decir verdad, a través del cual se comunica a la Secretaría sobre la realización de las siguientes obras o actividades:
+
+I. De demolición;
+
+II. Rehabilitación;
+
+III. Emergencia;
+
+IV. Modificación, ampliación, sustitución de infraestructura, conservación y mantenimiento;
+
+V. Desazolve;
+
+VI. Conjuntos habitacionales, conjuntos habitacionales mixtos y oficinas de hasta diez mil metros cuadrados totales de construcción;
+
+VII. Centros comerciales de hasta diez mil metros cuadrados totales de construcción; y
+
+VIII. Estacionamientos.
+
+Las obras o actividades antes mencionadas, quedan sujetas al cumplimiento de las disposiciones ambientales señaladas en el Reglamento correspondiente a la materia y a las disposiciones ambientales contenidas en la legislación ambiental vigente.
+
+El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia podrá establecer la posibilidad de que la Declaratoria de Cumplimiento Ambiental se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Ter.
+
+Las personas físicas o morales que realicen obras de construcción de conjuntos habitacionales u oficinas, deberán realizar el pago de aprovechamientos establecido en el Código Financiero del Distrito Federal, para la realización de acciones necesarias para prevenir, minimizar, mitigar, compensar y/o resarcir las afectaciones o alteraciones a los recursos naturales y el ambiente.
+
+También deberán cubrir el pago de aprovechamientos las obras de construcción, operación y mantenimiento de conjuntos habitacionales o de oficinas en predios que colinden con barrancas, suelo de conservación, áreas naturales protegidas, áreas de valor ambiental o cuerpo de agua, los que además deberán cumplir con las condicionantes establecidas en la autorización de impacto ambiental correspondiente.
+
+Para el caso de conjuntos mixtos, el pago de aprovechamientos se calculará conforme a la superficie de construcción que corresponda a los usos habitacional y/u oficinas. Se excluirá del cálculo la superficie de estacionamiento y/o de uso comercial.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Quater.
+
+La Declaratoria de Cumplimiento Ambiental podrá presentarse por medio electrónico en los términos de las disposiciones aplicables, en cuyo caso el acuse de recibo oficial correspondiente será válido únicamente cuando el interesado hubiere presentado la documentación probatoria indicada.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Quinquies.
+
+La Declaratoria Ambiental de Cumplimiento deberá presentarse ante la Secretaría, en original y copia, previamente a la ejecución de las actividades pretendidas y ajustarse al siguiente contenido:
+
+I. Formato de registro que para el efecto publique la Secretaría;
+
+II. Declaración firmada por el interesado, en la que bajo protesta de decir verdad, manifiesta las consideraciones bajo las cuales se ubica su proyecto que lo eximen de obtener la autorización en materia de impacto ambiental, incluyendo la documentación legal que respalde tales consideraciones;
+
+III. Datos generales de quien pretenda realizar la obra o actividad proyectada, o en su caso, de quien hubiere ejecutado los proyectos o estudios previos correspondientes;
+
+IV. Documentos que determinen el uso de suelo autorizado o permitido para el predio;
+
+V. Descripción de la obra o actividad proyectada;
+
+VI. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final;
+
+VII. Monto de la inversión requerida para ejecutar la obra o actividad, así como porcentaje de ésta que se destinará a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales;
+
+VIII. Programa calendarizado de ejecución de la obra o actividad indicando fechas de inicio y conclusión de las actividades; y (sic)
+
+IX. Medidas contempladas para la prevención o mitigación de impactos ambientales que pudieran ocasionarse con la realización de la obra o actividad;
+
+X. El comprobante del pago de los aprovechamientos establecidos en el Código Financiero del Distrito Federal.
+
+El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 58 Sexies.
+
+Una vez recibida la declaratoria de cumplimiento ambiental el interesado podrá iniciar la obra o actividad, dando cumplimiento a las disposiciones ambientales que al efecto dicte la autoridad competente a través de informes semestrales o al término del proyecto.
+
+En aquellos casos que por negligencia, dolo, mala fe o pretendiendo inducir a error a la autoridad, se ingrese una declaratoria de cumplimiento ambiental, a sabiendas que lo procedente es la presentación de una Manifestación de Impacto Ambiental en cualquiera de las modalidades, Informe Preventivo o Estudio de Riesgo, dicha declaratoria se tendrá por no presentada independientemente de las medidas de seguridad y sanciones previstas en esta Ley y en el Reglamento correspondiente a la materia.
+
+###### ARTÍCULO 59.
+
+Las autorizaciones, licencias o permisos otorgados en contravención a lo dispuesto en esta Ley, serán nulos de pleno derecho y los servidores públicos que los hayan otorgado serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos correspondiente, para cuyo efecto la Secretaría informará el hecho de inmediato a la autoridad competente, lo anterior sin perjuicio de otras sanciones que pudieran aplicarse.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 60.
+
+La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en esta Ley, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado a los recursos naturales o al ambiente, sin perjuicio de la aplicación de las medidas de seguridad y sanciones respectivas.
+
+###### ARTÍCULO 61.
+
+Las autorizaciones que se otorguen en materia de impacto ambiental estarán referidas a la obra o actividad de que se trate.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 4 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO VI BIS. LICENCIA AMBIENTAL ÚNICA PARA EL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 61 Bis.
 
 La Licencia Ambiental Única para el Distrito Federal es el instrumento de política ambiental por el que se concentran diversas obligaciones ambientales de los responsables de fuentes fijas que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 61 Bis 1.
 
-Para obtener la Licencia Ambiental Única para el Distrito Federal a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría la solicitud correspondiente acompañada de la siguiente información:
+Para obtener la Licencia Ambiental Única para el Distrito Federal, a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar a la Secretaría, en un plazo no mayor a 60 días hábiles a partir del inicio de operaciones del establecimiento, la solicitud correspondiente acompañada de la siguiente información:
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 I. Datos generales del solicitante;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 II. Ubicación de la fuente fija;
 
-III. Descripción del proceso;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. Distribución de maquinaria y equipo;
+III. Descripción del proceso y/o los servicios brindados;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IV. Horario de operación;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 V. Cantidad y tipo de materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 VI. Transporte de materias primas o combustibles al área de proceso;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 VII. Transformación de materias primas o combustibles;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 VIII. Productos, subproductos y residuos que se generen;
 
-IX. Los anexos, estudios, análisis y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar:
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-a) Emisiones a la atmósfera;
+IX. Los estudios y análisis, realizados por laboratorios autorizados por la Secretaría, conforme al artículo 200 de la presente Ley, y los anexos y planes de manejo que de acuerdo con la actividad del establecimiento se deban presentar;
 
-b) Descarga de aguas residuales;
-
-c) Generación y disposición de residuos no peligrosos;
-
-d) Generación de ruido y vibraciones; y
-
-e) Registro de emisiones y transferencia de contaminantes.
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 X. Almacenamiento, transporte y distribución de productos y subproductos;
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 XI. Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
+
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 XII. Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; y
 
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 XIII. Programas de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+El Jefe de Gobierno, mediante acuerdos o en el Reglamento correspondiente a la materia, podrá establecer la posibilidad de que la Solicitud se presente a través de los medios de comunicación electrónica, otorgando a la firma electrónica que se autorice al mismo valor probatorio que a los presentados con firma autógrafa.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+El Jefe de Gobierno en el Reglamento correspondiente a la materia o mediante acuerdos generales, podrá eximir a los interesados la presentación de los datos y documentos cuando la Secretaría pueda obtener por otra vía la información correspondiente.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1376,7 +1544,9 @@ XIII. Programas de acciones para el caso de contingencias atmosféricas, que con
 
 La información a que se refiere el artículo anterior deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
 
-Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de treinta días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+Una vez presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de veinte días hábiles, debidamente fundada y motivada, la Licencia Ambiental Única para el Distrito Federal, en la cual se señalará al establecimiento las obligaciones ambientales a que queda sujeto de acuerdo a su actividad y capacidad, y si procede realizar la actualización de la información del desempeño ambiental de la fuente fija. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1406,241 +1576,169 @@ Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la res
 
 Una vez obtenida la Licencia Ambiental Única para el Distrito Federal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento que deban llevar a cabo la actualización de la información del desempeño ambiental de su establecimiento, a través de la presentación de alguno de los anexos que se señalan en la fracción IX del artículo 61bis1, deberán presentar en el primer cuatrimestre de cada año calendario, el Anexo correspondiente acompañado de los estudios, análisis o planes de manejo que se señalen en el mismo.
 
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 61 Bis 5.
 
-El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente en la Gaceta Oficial del Distrito Federal.
+El listado que agrupa a los establecimientos que por su capacidad y actividad no se encuentran sujetos a tramitar la Licencia Ambiental Única para el Distrito Federal, será publicado y actualizado anualmente, en el primer bimestre de cada año calendario, en la Gaceta Oficial del Distrito Federal.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
 
-### Capítulo VI. Consejos municipales, intermunicipales e instancias regionales de seguridad pública
+### CAPÍTULO VII. AUTORREGULACIÓN Y AUDITORÍAS
 
-###### Artículo 62.
+###### ARTÍCULO 62.
 
-El Cuerpo de la Policía Estatal se organizará en coordinaciones, divisiones, unidades, agrupamientos, grupos, compañía, sección, pelotón y escuadra, atendiendo a criterios territoriales, técnicos, de especialización y supervisión que requieran los servicios.
+La Secretaría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas.
 
-###### Artículo 63.
+El desarrollo de la auditoría ambiental es de carácter voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de inspección y vigilancia.
 
-Para el mejor cumplimiento de los objetivos de las instituciones policiales, éstas desarrollarán cuando menos las siguientes funciones:
+###### ARTÍCULO 63.
 
-I. Investigación, que será aplicable ante:
+Los responsables de los establecimientos industriales, mercantiles, de servicios y de espectáculos, que pretendan una auditoría ambiental deberán solicitar por escrito su incorporación al programa de auditorías ambientales y establecer su compromiso de cumplir con la normatividad correspondiente y con las recomendaciones derivadas de la propia auditoría.
 
-a) La preservación de la escena de un hecho probablemente delictivo;
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-b) La petición del Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo el mando y conducción de éste;
+###### ARTÍCULO 64.
 
-c) Los actos que se deban realizar de forma inmediata; o
+Los productores, empresas u organizaciones empresariales que cumplan con la normatividad vigente en materia ambiental, podrán convenir con la Secretaría el establecimiento de procesos voluntarios de autorregulación a través de los cuales mejoren su desempeño ambiental, y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-d) La comisión de un delito en flagrancia.
+La Secretaría inducirá o concertará:
 
-II. Prevención, que será la encargada de llevar a cabo acciones tendientes a prevenir la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción; y
+I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
-III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos.
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean más estrictas que las normas oficiales mexicanas o que se refieran a aspectos no previstos por éstas. Para tal efecto, la Secretaría podrá promover el establecimiento de normas ambientales de Distrito Federal o normas mexicanas;
 
-###### Artículo 64.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-Las unidades de policía encargadas de la investigación de los delitos se ubicarán en la estructura orgánica de las instituciones de procuración de justicia, o bien, en las instituciones policiales, o en ambas, en cuyo caso se coordinarán en los términos de esta Ley y demás disposiciones aplicables para el desempeño de dichas funciones.
+III. El establecimiento de sistemas de certificación de procesos, productos o desarrollo de infraestructura y equipamiento, y de edificaciones sustentables para inducir patrones de consumo, producción o de desarrollo urbano que sean compatibles o que preserven, mejoren o restauren el medio ambiente; y
 
-La policía ministerial ubicada dentro de la estructura orgánica de la institución de Procuración de Justicia, se sujetará a lo dispuesto en la Ley General, quedando a cargo de dicha institución, la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
+IV. Las demás acciones que induzcan a las personas físicas o morales a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 64 Bis.
 
 Los responsables de vehículos o flotillas podrán suscribir convenios de autorregulación en los que se comprometan a actualizar la tecnología de dichos vehículos o hacer conversiones a combustibles alternos en los términos que la Secretaría establezca.
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 64 Bis 1.
 
-Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
+Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos, certificaciones y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 65.
+###### ARTÍCULO 65.
 
-La policía, en términos de lo dispuesto en el Código Nacional, en sus respectivos ámbitos de competencia, tendrá las siguientes funciones:
+Una vez firmado o firmados los convenios de autorregulación y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
 
-I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, e informar al Ministerio Público por cualquier medio y de inmediato, así como de las diligencias practicadas;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-II. Constatar la veracidad de los datos aportados en informaciones anónimas, mediante los actos de investigación que consideren conducentes para este efecto;
+Integrado el expediente, la Secretaría revisará la información y documentación aportadas, así como el resultado de la inspección realizada y emitirá un certificado de reducción de emisiones contaminantes siempre y cuando se hayan logrado reducir por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
 
-III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos que la Ley señale como delito y la identidad de quien lo cometió o participó en su comisión, bajo el mando y conducción del Ministerio Público;
+###### ARTÍCULO 66.
 
-IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Federal;
+La Secretaría elaborará y aplicará un programa de auditorías ambientales voluntarias, para lo cual deberá:
 
-V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes, observando las disposiciones constitucionales y legales aplicables;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+I. Instrumentar un sistema de aprobación, acreditamiento y registro de peritos y auditores ambientales, ya sean personas físicas o morales, en los términos de las reglas de carácter general que en materia de autorregulación y auditoría ambiental publique en la Gaceta Oficial del Distrito Federal la Secretaría;
 
-VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
+II. Desarrollar programas de capacitación en materia de peritajes y auditorías ambientales;
 
-VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios, como consecuencia dará aviso a la policía con capacidades para procesar la escena del hecho y al Ministerio Público, conforme a las disposiciones aplicables;
+III. Instrumentar un sistema de reconocimientos, estímulos y certificación de las empresas, que permita identificar a aquellas que cumplan oportunamente los compromisos adquiridos como resultado de las auditorías ambientales;
 
-IX. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;
+IV. Promover y concertar, en apoyo a la pequeña y mediana industria, los mecanismos que faciliten la realización de auditorías en varias unidades productivas de un mismo ramo o sector económico.
 
-X. Dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta;
+###### ARTÍCULO 67.
 
-XI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+La Secretaría podrá eximir de la obligación de realizar verificaciones en determinados periodos, a las empresas que realicen auditorías ambientales voluntarias, en los casos en que así lo considere conveniente. En todo caso esa circunstancia deberá constar en resolución por escrito, debidamente fundada y motivada.
 
-XII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables;
+###### ARTÍCULO 68.
 
-b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
+Sin perjuicio de lo dispuesto en los artículos precedentes, la Secretaría podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de auditorías ambientales en forma obligatoria para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
 
-c) Adoptar las medidas que se consideren necesarias tendientes a evitar que se ponga en peligro su integridad física y psicológica, en el ámbito de su competencia;
+### CAPÍTULO VIII. DEL FONDO AMBIENTAL PÚBLICO
 
-d) Preservar los indicios y elementos de prueba que la víctima y ofendido aporten en el momento de la intervención policial y remitirlos de inmediato al Ministerio Público encargado del asunto para que éste acuerde lo conducente; y
+###### ARTÍCULO 69.
 
-e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
+Se crea el fondo ambiental público cuyos recursos se destinarán a:
 
-XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones, y
+I. La realización de acciones de conservación del medio ambiente, la protección ecológica y la restauración del equilibrio ecológico;
 
-XIV. Las demás que le confieran las disposiciones aplicables.
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-###### Artículo 66.
+II. La vigilancia y conservación de los recursos naturales en Áreas Comunitarias de Conservación Ecológica;
 
-En las actividades de prevención del delito que desarrolle el Cuerpo de la Policía Estatal y para la obtención de información podrá:
+III. El manejo y la administración de las áreas naturales protegidas;
 
-I. Desarrollar labores de búsqueda, recolección, análisis, evaluación e interpretación de la información para su utilización e intercambio, que permita la planeación de operativos para prevenir conductas antisociales, e
+> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
 
-II. Instalar y operar en lugares públicos, así como en vehículos oficiales, cámaras de circuito cerrado de televisión o fijas, con propósitos de vigilancia, control y localización de personas y sus bienes.
+IV. La restauración y conservación, así como la elaboración de los programas de manejo de las áreas de valor ambiental;
 
-###### Artículo 67.
+V. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
-Los integrantes del Cuerpo de la Policía Estatal, tendrán los derechos siguientes:
+VI. La retribución por proteger, restaurar o ampliar los servicios ambientales;
 
-I. Recibir un trato digno y respetuoso por parte de sus superiores jerárquicos;
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-II. Recibir el nombramiento como miembro del Cuerpo de la Policía Estatal una vez cubiertos los requisitos establecidos;
+VII. La retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica;
 
-III. Percibir un salario digno, de acuerdo a las funciones que desempeña, que determine el presupuesto de egresos correspondiente, así como las demás prestaciones de carácter laboral y económico que se destinen a su favor;
+VIII. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
 
-IV. Asistir y participar gratuitamente en los cursos de capacitación, actualización, profesionalización y especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas nacionales y del extranjero que tengan relación con sus funciones, conforme a la disponibilidad presupuestal y las necesidades del servicio;
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-V. Solicitar que se rectifiquen sus datos en el registro de personal, a fin de que la información contenida sea verídica y actual;
+IX. El cuidado y protección de los animales del Distrito Federal;
 
-VI. Ser evaluado con base en los principios rectores de esta Ley y ser informado del resultado de dicha evaluación, en un plazo no mayor de sesenta días naturales;
+X. La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
 
-VII. Acceder al sistema de ascensos, estímulos sociales y recompensas cuando cumpla con los requisitos previstos en la Ley y reglamento de la materia;
+XI. La reparación de daños ambientales.
 
-VIII. Participar en los procesos de promoción, así como en los concursos para obtener condecoraciones, estímulos y reconocimientos;
+###### ARTÍCULO 70.
 
-IX. Gozar de las prestaciones, así como recibir oportuna atención médica y el tratamiento adecuado, cuando sufran lesiones en el cumplimiento del deber, en la institución pública o privada más cercana al lugar de los hechos, contar con un seguro de vida y los servicios en materia de seguridad social, conforme a las disposiciones legales y reglamentarias aplicables;
+Los recursos del fondo se integrarán con:
 
-X. Recibir asesoría, orientación y en su caso defensa jurídica, de las instituciones a las que pertenezcan, cuando al actuar con apego a las disposiciones legales con motivo de un servicio, exista acusación, denuncia o querella en su contra;
+I. Las herencias, legados y donaciones que reciba;
 
-XI. Usar los uniformes, condecoraciones e insignias propias de su categoría o jerarquía y que le hayan sido entregados y otorgadas, respectivamente;
+II. Los recursos destinados para ese efecto en el Presupuesto de Egresos del Distrito Federal;
 
-XII. Recibir los vehículos, armamento, uniforme, insignias, identificaciones, chalecos, equipo de radiocomunicación, táctico-policial y demás bienes institucionales para el desarrollo de sus funciones, sin costo alguno, evitando su uso indebido;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XIII. Gozar de permisos y licencias en los términos de la normatividad aplicable;
+III. Los productos de sus operaciones y de la inversión de fondos;
 
-XIV. Sugerir las medidas que estimen pertinentes para el mejoramiento del Servicio de Carrera Policial de que formen parte, y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XV. Los demás que les confieran las Leyes y reglamentos de la materia.
+IV. Los relativos al pago de contribuciones o cualquier tipo de ingresos por servicios ambientales y por la realización acciones de compensación de los efectos negativos sobre el ambiente y los recursos naturales que se establezcan en la normatividad aplicable;
 
-###### Artículo 68.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Las instituciones de seguridad pública deberán garantizar, al menos las prestaciones previstas como mínimas para los trabajadores al servicio del Estado y los Municipios de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo de la Constitución Federal.
+V. El monto de las multas que se impongan por fracciones (sic) a las disposiciones ambientales;
 
-Las instituciones de seguridad pública, conforme a lo dispuesto en esta Ley, realizarán y someterán a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización fijación de sus tabuladores y las zonas en que éstos deberán regir.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-### Capítulo VII. Centros Estatales
+VI. Los recursos derivados de los instrumentos económicos y de mercado correspondientes a programas y proyectos de reducción de emisiones de gases de efecto invernadero; y
 
-###### Artículo 69.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Con el objeto de promover, vigilar y garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, el personal de las instituciones de seguridad pública se sujetará a las obligaciones siguientes:
+VII. Los demás recursos que se generen por cualquier otro concepto.
 
-I. Conducirse siempre con dedicación y disciplina dentro y fuera del servicio, con apego al orden jurídico y con respeto a los derechos humanos;
-
-II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
-
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
-
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
-
-V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
-
-VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realicé la población;
-
-VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
-
-VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
-
-IX. Velar por la vida e integridad física de las personas detenidas;
-
-X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
-
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
-
-XII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
-
-XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
-
-XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados, iguales o superiores en categoría jerárquica;
-
-XVII. Cumplir y hacer cumplir con diligencia las órdenes que reciba con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento, siempre y cuando no sean contrarias a derecho;
-
-XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
-
-XIX. Inscribir las detenciones en el registro administrativo de detenciones conforme a las disposiciones aplicables;
-
-XX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las instituciones;
-
-XXI. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-XXII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
-
-XXIII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
-
-XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones;
-
-XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
-
-XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
-
-XXVII. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice, elaborar registros, partes policiales y demás documentos, con los requisitos de fondo y forma que establezcan las disposiciones aplicables;
-
-XXVIII. Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras instituciones de seguridad pública, en los términos de las Leyes correspondientes;
-
-XXIX. Apoyar a las autoridades que así se lo soliciten en la investigación y persecución de delitos bajo el mando y conducción del Ministerio Público, así como en situaciones de grave riesgo, catástrofes o desastres;
-
-XXX. Ejecutar los mandamientos judiciales y ministeriales;
-
-XXXI. Obtener y mantener actualizado el Certificado;
-
-XXXII. Responder, sobre la ejecución de las órdenes directas que reciba, a un solo superior jerárquico, por regla general, respetando preponderantemente la línea de mando;
-
-XXXIII. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
-
-XXXIV. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia;
-
-XXXV. Respetar a sus subordinados y conducirse bajo principios de honradez, disciplina, honor y lealtad a las instituciones;
-
-XXXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas, ni hacerse acompañar de dichas personas al realizar actos del servicio;
-
-XXXVII. Utilizar los vehículos oficiales estrictamente para las funciones policiales, y
-
-XXXVIII. Los demás que establezcan las disposiciones legales aplicables.
-
-###### Artículo 70.
-
-La función de seguridad pública estatal se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, de procuración de justicia, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
 
 ###### Artículo 70 Bis.
 
 El Presupuesto de Egresos del Distrito Federal establecerá los recursos del fondo ambiental y, entre otros, aquellos destinados específicamente para la vigilancia y conservación de los recursos naturales, así como la retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica, y su monto no podrá ser menor al que se hubiera establecido en el ejercicio fiscal anterior.
 
-###### Artículo 71.
+###### ARTÍCULO 71.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí, que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario del personal de las instituciones policiales, y tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales referidos en esta Ley.
+El Jefe de Gobierno emitirá un acuerdo que establezca la integración del consejo técnico del fondo ambiental, su organización y sus reglas de funcionamiento.
 
-### Capítulo I. Autoridades estatales
+(REUBICADO, REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)
+
+### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 71 Bis.
 
@@ -1670,11 +1768,29 @@ Son instrumentos de mercado las concesiones, autorizaciones, licencias y permiso
 
 Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
 
-###### Artículo 72.
+###### ARTÍCULO 72.
 
-Las relaciones laborales entre las instituciones policiales y su personal se regirán por la fracción XIII, del Apartado B, del Artículo 123 de la Constitución Federal, la presente Ley y demás disposiciones legales aplicables.
+La Secretaría promoverá el otorgamiento de estímulos fiscales, financieros y administrativos a quienes:
 
-Los servidores públicos de las instituciones policiales que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, así como también cuando no acrediten las evaluaciones de control de confianza.
+I. Adquieran, instalen y operen las tecnologías, sistemas, equipos y materiales o realicen las acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, o prevenir y reducir el consumo de agua o de energía, o que incorporen sistemas de recuperación y reciclamiento de las aguas de desecho o que utilicen aguas tratadas o de reuso para sus funciones productivas, de conformidad con los programas que al efecto se establezcan;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Realicen desarrollo (sic) tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+III. Integren organizaciones civiles con fines de desarrollo sustentable, que acrediten su personalidad jurídica ante la Secretaría;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IV. Lleven a cabo actividades que garanticen la conservación sustentable de los recursos naturales, y
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+V. Desarrollen infraestructura y equipamiento, así como de edificaciones que en su diseño de concepto incorporen criterios de sustentabilidad;
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 72 Bis.
 
@@ -1692,291 +1808,235 @@ V. El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
 
 VI. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-### Capítulo II. Autoridades municipales
+### CAPÍTULO X. INVESTIGACIÓN Y EDUCACIÓN AMBIENTALES
 
-###### Artículo 73.
+###### ARTÍCULO 73.
 
-La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación, remoción o baja del servicio del personal de las instituciones policiales.
+Las autoridades ambientales del Distrito Federal, en el ámbito de su competencia promoverán:
 
-###### Artículo 74.
+I. Que las instituciones de educación en todos sus niveles incorporen en sus programas de enseñanza temas de contenido ambiental;
 
-Las instancias responsables del Servicio de Carrera Policial fomentarán la vocación de servicio mediante la promoción y permanencia en las instituciones policiales para satisfacer las expectativas de desarrollo profesional de su personal.
+II. El fortalecimiento de una cultura ambiental de participación corresponsable;
 
-La Carrera Policial se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal y la Constitución Estatal, y sus fines son:
+III. El adiestramiento en y para el trabajo en materia de conservación del medio ambiente, la protección ecológica y la restauración del equilibrio ecológico, con arreglo a lo que establece esta ley;
 
-I. Garantizar el desarrollo institucional, la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para el personal de las instituciones policiales;
+IV. La incorporación de contenidos ambientales en los programas de las comisiones mixtas de seguridad e higiene, en coordinación con las autoridades competentes; y
 
-II. Fomentar la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las instituciones;
+V. La formación de especialistas así como la coordinación para la investigación y el desarrollo tecnológico y de ecotecnias en materia ambiental, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos y proteger los ecosistemas.
 
-III. Desarrollar y fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento del personal de las instituciones policiales;
+###### ARTÍCULO 74.
 
-IV. Impulsar la capacitación y profesionalización permanente del personal de las instituciones policiales para asegurar la lealtad institucional en la prestación de los servicios, y
+Para efectos de lo dispuesto por el artículo anterior, dentro del año de la promulgación de la presente Ley, la Secretaría establecerá un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y actitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo sustentable, así como la conservación y restauración de los recursos naturales.
 
-V. Los demás que establezcan las disposiciones que deriven de esta Ley.
+### CAPÍTULO XI. INFORMACIÓN AMBIENTAL
 
-### Capítulo III. Atribuciones de las autoridades estatales y municipales en materia de seguridad pública
+###### ARTÍCULO 75.
 
-###### Artículo 75.
+Toda persona tendrá derecho a que las autoridades ambientales pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley y sus reglamentos.
 
-La Carrera Policial comprende el grado policial, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el personal. Se regirá por las disposiciones mínimas siguientes:
+En su caso, los gastos que se generen correrán por cuenta del solicitante y de requerir copias certificadas deberá cubrir los derechos correspondientes de conformidad con el Código Financiero del Distrito Federal.
 
-I. Las instituciones policiales deberán consultar los antecedentes de cualquier aspirante en los Registros Nacional y Estatal antes de que se autorice su ingreso a las mismas;
+Para los efectos de lo dispuesto en esta Ley, se considera información ambiental, cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales del Distrito Federal.
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado, que expedirá el Centro Estatal de Evaluación;
+Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
 
-III. Ninguna persona podrá ingresar a las instituciones policiales si no ha sido debidamente certificado y registrado en el Sistema Estatal;
+###### ARTÍCULO 76.
 
-IV. Sólo ingresarán y permanecerán en las instituciones policiales, los aspirantes y el personal que cursen y aprueben los programas de formación, capacitación y profesionalización;
+La Secretaría desarrollará un Sistema de Información Ambiental del Distrito Federal, en coordinación con el Sistema Nacional de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Distrito Federal.
 
-V. La permanencia del personal en las instituciones policiales está condicionada al cumplimiento de los requisitos que determine la Ley;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-VI. Los méritos del personal de las instituciones policiales serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las Leyes respectivas;
+En dicho Sistema se integrarán, entre otros aspectos, información de los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo; de las áreas verdes, áreas de valor ambiental y áreas naturales protegidas; del ordenamiento ecológico del territorio, así como la información relativa a emisiones atmosféricas, descargas de aguas residuales y residuos no peligrosos, y la correspondiente a los registros, programas y acciones que se realicen para la preservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
 
-VII. Para la promoción del personal de las instituciones policiales se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+La Secretaría y las Delegaciones, emitirán un informe público anual sobre el estado que guardan el ambiente y los recursos naturales de su jurisdicción.
 
-VIII. Se determinará un régimen de estímulos y previsión social que corresponda a las funciones del personal de las instituciones policiales;
+###### ARTÍCULO 77.
 
-IX. El personal policial podrá ser cambiado de adscripción, con base en las necesidades del servicio;
+Las autoridades ambientales deberán responder por escrito a los solicitantes de información ambiental en un plazo no mayor de veinte días hábiles a partir de la fecha de recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron tal determinación.
 
-X. El cambio del personal policial de un área operativa a otra de distinta especialidad, sólo podrá ser autorizado por la instancia que señale la Ley de la materia, y
+Los afectados por actos de la Secretaría regulados en este capítulo, podrán interponer el recurso de inconformidad, de acuerdo con lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
-XI. Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+###### ARTÍCULO 78.
 
-La Carrera Policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en las instituciones policiales.
+Quien reciba información ambiental de las autoridades competentes, en los términos del presente capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-En ningún caso habrá inamovilidad en los cargos administrativos y de dirección.
+###### ARTÍCULO 79.
 
-###### Artículo 76.
+La Secretaría negará la información solicitada cuando:
 
-En términos de las disposiciones aplicables, los titulares de las instituciones policiales podrán designar al personal en cargos administrativos o de dirección de la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlos libremente, respetando sus grados policiales y derechos inherentes a la Carrera Policial.
+I. Se considere por disposición legal que la información es confidencial o que por su propia naturaleza su difusión afecta o puede afectar la seguridad pública en el Distrito Federal;
 
-###### Artículo 77.
+II. Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
 
-La organización jerárquica de las instituciones policiales tiene por objeto el ejercicio de la autoridad y mando policial en los diversos cargos o comisiones, considerando al menos las siguientes categorías:
+III. Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla; o
 
-I. Comisarios;
+IV. Se trate de información sobre inventarios e insumos y tecnología de proceso, incluyendo la descripción del mismo.
 
-II. Inspectores;
+### CAPÍTULO XII. DENUNCIA CIUDADANA
 
-III. Oficiales, y
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
-IV. Escala Básica.
+###### ARTÍCULO 80.
 
-En las policías ministeriales se establecerán al menos niveles jerárquicos equivalentes a las primeras tres fracciones del presente artículo, con las respectivas categorías, conforme al modelo policial previsto en esta Ley.
+Toda persona física o moral, podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
 
-###### Artículo 78.
+Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, la misma autoridad que la recibió deberá turnarla a la autoridad competente.
 
-Las categorías previstas en el artículo anterior considerarán, al menos las siguientes jerarquías:
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal.
 
-I. Comisarios:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Comisario General;
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
-b) Comisario Jefe, y
+###### ARTÍCULO 81.
 
-c) Comisario.
+La autoridad ambiental y las autoridades delegacionales en el ámbito de sus atribuciones, están facultadas para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
-II. Inspectores:
+###### ARTÍCULO 82.
 
-a) Inspector General;
+Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante estas u otras, la ejecución de las acciones procedentes.
 
-b) Inspector Jefe, e
+###### ARTÍCULO 83.
 
-c) Inspector.
+La denuncia deberá presentarse por escrito y contener al menos:
 
-III. Oficiales:
+I. El nombre o razón social, domicilio, y teléfono en su caso;
 
-a) Subinspector;
+II. Los actos, hechos u omisiones denunciados;
 
-b) Oficial, y
+III. Los datos que permitan identificar al presunto infractor o localizar la fuente de contaminación; y
 
-c) Suboficial.
+IV. Las pruebas que en su caso ofrezca el denunciante.
 
-IV. Escala Básica:
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-a) Policía Primero;
+Una vez ratificada la denuncia y en su caso, desahogadas las pruebas, la Procuraduría podrá, en los términos de su Ley Orgánica, realizar la visita de inspección correspondiente en los términos de esta Ley, a efecto de determinar la existencia o no de la infracción motivo de la denuncia.
 
-b) Policía Segundo;
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-c) Policía Tercero; y
+Una vez calificada el acta levantada con motivo de la visita de inspección referida en el artículo anterior, la Procuraduría procederá a dictar la resolución que corresponda conforme a derecho.
 
-d) Policía.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 79.
+Sin perjuicio de la resolución señalada en el Artículo precedente, la Procuraduría dará contestación, debidamente fundada y motivada, a la denuncia en un plazo de treinta días hábiles a partir de su ratificación, la que deberá notificar personalmente al denunciante y en la cual se informará del resultado de la inspección, de las medidas que se hayan tomado y, en su caso, de la imposición de la sanción respectiva.
 
-Las instituciones policiales se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos.
+###### ARTÍCULO 84.
 
-Con base en las categorías jerárquicas señaladas en la presente Ley, los titulares de las instituciones municipales, deberán cubrir, al menos, el mando correspondiente al quinto nivel ascendente de organización en la jerarquía.
+La autoridad estará obligada a informar al denunciante sobre el trámite que recaiga a su denuncia.
 
-Las instituciones estatales deberán satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
+## TÍTULO CUARTO. DE LA PROTECCIÓN, RESTAURACIÓN Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS NATURALES
 
-Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-### Capítulo IV. Requisitos para ser titular de las instituciones de Seguridad Pública Estatal y Municipal
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-###### Artículo 80.
+###### ARTÍCULO 85.
 
-El orden de las categorías jerárquicas y grados tope del personal de las instituciones con relación a las áreas operativas y de servicios será:
+Para la protección, restauración, preservación y aprovechamiento sustentable de la biodiversidad, los recursos naturales y el suelo de conservación, así como el establecimiento, rehabilitación, protección y preservación de las áreas naturales protegidas se considerarán, por lo menos, los siguientes criterios:
 
-I. Para las áreas operativas, de policía a Comisario General, y
+I. En los programas y actividades de restauración, reforestación o forestación, en su caso, así como de aprovechamiento de la vida silvestre, se protegerán especialmente las especies nativas y aquellas que se encuentren en riesgo de acuerdo a la normatividad aplicable;
 
-II. Para los servicios, de policía a Comisario Jefe.
+II. Para evitar el deterioro de la biodiversidad, no se permitirá el uso de especies que no sean nativas del lugar;
 
-###### Artículo 81.
+III. En la restauración o rehabilitación de las áreas naturales protegidas, o en la protección de barrancas, no podrán ser alteradas en forma definitiva los cauces naturales y escurrimientos temporales o permanentes;
 
-La remuneración del personal de las instituciones policiales será acorde con la calidad y riesgo de las funciones en sus rangos y puestos respectivos, así como en las misiones que cumplan, las cuales no podrán ser disminuidas durante el ejercicio de su encargo y deberán garantizar un Sistema Estatal de retiro digno.
+IV. Durante el desarrollo de obras o actividades de cualquier tipo, se evitará la pérdida o erosión del suelo y el deterioro de la calidad del agua;
 
-De igual forma, los titulares de las instituciones policiales tanto del Estado como de los Municipios, deberán establecer sistemas de seguros para los familiares de los policías, que contemplen el fallecimiento y la incapacidad total o permanente acaecida en el cumplimiento de sus funciones.
+V. En los sitios a proteger, se procurará el rescate del conocimiento tradicional, con relación al uso y manejo de los recursos naturales, y
 
-###### Artículo 82.
+VI. Se promoverá la participación de vecinos, comunidades, pueblos indígenas y población en general, en los programas y acciones para el establecimiento, cuidado y vigilancia de las áreas naturales protegidas.
 
-La selección es el proceso que consiste en elegir, de entre los aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las instituciones policiales.
+Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y fauna, procurarán la preservación y el desarrollo de las especies nativas del Distrito Federal. El uso o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico.
 
-Dicho proceso comprende el periodo de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en la Ley sobre los aspirantes aceptados.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
-###### Artículo 83.
+###### ARTÍCULO 86.
 
-El ingreso es el procedimiento de integración de los candidatos a la estructura institucional y tendrá verificativo al concluir la etapa de formación inicial o capacitación en las academias o institutos de capacitación policial, el periodo de prácticas correspondiente y acrediten el cumplimiento de los requisitos previstos en la presente Ley, siendo los siguientes:
+Para la preservación, manejo, aprovechamiento sustentable y restauración de los recursos naturales, la Secretaría tendrá las siguientes facultades:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+I. El cuidado, administración y vigilancia de las áreas naturales protegidas, áreas de valor ambiental y áreas verdes de su competencia;
 
-III. En su caso, tener acreditado el Servicio Militar Nacional;
+II. La emisión de normas ambientales para el Distrito Federal;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+III. El desarrollo de programas de inspección y vigilancia y en su caso, la imposición de las sanciones que correspondan de conformidad con esta Ley;
 
-a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
+IV. El ejercicio de las acciones administrativas que correspondan en los casos de invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas de su competencia y, en general, de suelo de conservación;
 
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-V. Aprobar el concurso de ingreso y los cursos de formación;
+V. Elaborar los programas de reforestación y restauración con especies nativas apropiadas a cada ecosistema; y
 
-VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+> <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
-VII. Aprobar los procesos de evaluación de control de confianza;
+VI. La formulación e instrumentación del Programa de Retribución por la Conservación de Servicios Ambientales en Áreas Comunitarias de Conservación Ecológica.
 
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
-IX. No padecer alcoholismo;
+Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
 
-X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
-
-XII. Cumplir con los deberes establecidos en esta Ley y demás disposiciones legales;
-
-XIII. Contar con la certificación correspondiente, y
-
-XIV. Los demás que establezcan otras disposiciones legales aplicables.
-
-###### Artículo 84.
-
-La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las instituciones policiales, siendo los siguientes:
-
-I. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso;
-
-II. Mantener actualizado el Certificado;
-
-III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
-
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
-
-a) En el caso de personal de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
-
-b) Tratándose de personal de las áreas de prevención, enseñanza media superior o equivalente, y
-
-c) En caso de personal de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
-
-V. Aprobar los cursos de formación, capacitación y profesionalización;
-
-VI. Aprobar los procesos de evaluación de control de confianza;
-
-VII. Aprobar las evaluaciones del desempeño;
-
-VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
-
-IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-X. No padecer alcoholismo;
-
-XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
-
-XII. Someterse a exámenes para comprobar el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
-
-XIV. No ausentarse del servicio sin causa justificada por más de tres días consecutivos o 5 días alternos a su servicio en un periodo de treinta días naturales; y
-
-XV. Las demás que establezcan las disposiciones legales aplicables.
-
-## Título Cuarto. Cuerpo de la Policía Estatal
-
-### Capítulo I. Disposiciones comunes
-
-###### Artículo 85.
-
-La promoción es el acto mediante el cual se otorga a los integrantes de las instituciones policiales, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
-
-Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
-
-Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
-
-Para ocupar un grado dentro de las instituciones policiales, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
-
-###### Artículo 86.
-
-Se considera escala de rangos policiales a la relación que contiene a todos los integrantes de las instituciones policiales y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
+> <small>(ADICIONADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 86 Bis.
 
 En caso de que el titular de la delegación no proceda conforme las atribuciones que le brinda esta ley y como lo establece el artículo 86, para desalojar a quienes invadan suelo de conservación con el fin de asentarse irregularmente, o no finque acción penal en contra de quien destruya el mismo, será considerado coparticipe en esa acción y se le impondrá lo establecido en el articulo 343 BIS del Código Penal del Distrito Federal.
 
-### Capítulo II. Funciones del Cuerpo de la Policía Estatal
+### CAPÍTULO II. ÁREAS VERDES
 
-### Capítulo III. Derechos y obligaciones del Cuerpo de la Policía Estatal
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-###### Artículo 87.
+### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-La antigüedad se clasificará y computará para el personal de las Instituciones Policiales, de la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE JUNIO DE 2006)</small>
 
-I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las instituciones policiales, y
+###### ARTÍCULO 87.
 
-II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o patente de grado correspondiente.
+Para los efectos de esta Ley se consideran áreas verdes:
 
-La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
+I. Parques y jardines;
 
-###### Artículo 88.
+II. Plazas jardinadas o arboladas;
 
-La conclusión del servicio del personal policial es la terminación de su nombramiento o la cesación de sus efectos legales por las causas siguientes:
+III. Jardineras;
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+> <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que, habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
+IV. Zonas con cualquier cubierta vegetal en la vía pública; así como área o estructura con cualquier cubierta vegetal o tecnología ecológica instalada en azoteas de edificaciones;
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
+V. Alamedas y arboledas;
 
-c) Que del expediente del personal policial no se desprendan méritos suficientes a juicio de las comisiones para conservar su permanencia.
+VI. Promontorios, cerros, colinas, elevaciones y depresiones orográficas, pastizales naturales y áreas rurales de producción forestal, agroindustrial o que presten servicios ecoturísticos;
 
-II. Remoción por:
+VII. (DEROGADA, G.O. 21 DE JUNIO DE 2006)
 
-a) Incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o
+VIII. Zonas de recarga de mantos acuíferos; y
 
-b) Cuando habiendo sido convocado a presentar los exámenes de control y confianza, se abstenga o rehusé a practicarlos, o cuando habiéndolos realizados (sic) abstuviesen una calificación no aprobatoria.
+IX. Las demás áreas análogas.
 
-El cambio de la administración pública estatal, municipal o de los mandos, no constituirá una causa para separar o remover a los integrantes de las instituciones policiales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Baja por:
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
-a) Renuncia;
+Corresponde a las Delegaciones la construcción, rehabilitación, administración, preservación, protección, restauración, forestación, reforestación, fomento y vigilancia de las áreas verdes establecidas en las fracciones I a la V del párrafo anterior, y a la Secretaría el ejercicio de las acciones antes mencionadas cuando se trate de las áreas previstas en las fracciones VI a la IX siempre y cuando no estén ubicadas dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales de las delegaciones localizados en suelo de conservación, mismas que se consideren competencia de las delegaciones, así como cuando se trate de los recursos forestales, evitando su erosión y deterioro ecológico con el fin de mejorar el ambiente y la calidad de vida de toda persona en el Distrito Federal, de conformidad con los criterios, lineamientos y normatividad que para tal efecto expida la propia Secretaría.
 
-b) Muerte o incapacidad permanente; o
+La Secretaría solicitará a la Secretaría de Desarrollo Urbano y Vivienda el establecimiento de áreas verdes de su competencia en los programas de desarrollo urbano.
 
-d) (sic) Jubilación o retiro.
+Las delegaciones procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas delegacionales de desarrollo urbano.
 
-Al concluir el servicio, el personal de la institución policial deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción, excepto cuando ocurra la baja por muerte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 88.
+
+El mantenimiento, mejoramiento, restauración, rehabilitación, fomento, forestación, reforestación y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especias apropiadas.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 88 Bis.
 
@@ -1984,7 +2044,7 @@ La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de 
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-###### Artículo 88 Bis 1.
+###### ARTÍCULO 88 Bis 1.
 
 En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
 
@@ -1998,25 +2058,11 @@ IV. El depósito de cascajo y de cualquier otro material proveniente de edificac
 
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
-ARTÍCULO 88 bis 2. Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
-
-> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
-
 ###### ARTÍCULO 88 Bis 2.
 
-La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
 
-I. La ubicación y superficie;
-
-II. Los tipos de área verde;
-
-III. Las especies de flora y fauna que la conforman;
-
-IV. Las zonas en las cuales se considera establecer nuevas áreas verdes; y
-
-V. Las demás que establezca el Reglamento.
-
-Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando semestralmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 88 Bis 3.
 
@@ -2040,19 +2086,23 @@ V. Las demás que establezca el Reglamento.
 
 Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 88 Bis 5.
+
+Las autoridades locales del Distrito Federal, instalarán en la medida de sus posibilidades azoteas verdes en las edificaciones de que sean propietarios; para el caso de inmuebles catalogados por el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes y la Secretaría de Desarrollo Urbano y Vivienda, deberán contar con la autorización correspondiente.
+
+Las azoteas verdes se sujetarán a la normatividad que para tal efecto estipule la Secretaría.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
-###### Artículo 89.
+###### ARTÍCULO 89.
 
-El personal de las instituciones policiales podrá ser separado de su cargo cuando no cumplan con los requisitos que la presente Ley señala para permanecer en él o bien por incurrir en responsabilidad en el desempeño de sus funciones.
+Todos los trabajos de mantenimiento, mejoramiento, fomento, forestación, reforestación y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
 
-En ningún caso procederá su reinstalación o restitución, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; el Estado o los municipios sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho.
-
-La legislación correspondiente establecerá la forma para calcular la cuantía de la indemnización que, en su caso, deba cubrirse.
-
-Tal circunstancia será registrada en el Registro Estatal correspondiente.
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 89 Bis.
 
@@ -2062,45 +2112,27 @@ En todo caso, la autorización para el derribo, poda o trasplante del arbolado e
 
 ###### Artículo 90.
 
-El personal integrante del Cuerpo de la Policía Estatal podrá ser removido del cargo por causas no imputables a la institución policial, en los casos siguientes:
+En caso de dañar un área verde, el responsable deberá reparar los daños causados, en los siguientes términos:
 
-I. Faltar por más de tres días consecutivos o 5 días alternos a su servicio sin causa justificada en un periodo de treinta días naturales;
+I. Restaurando el área afectada; o
 
-II. Haberse iniciado proceso penal en su contra por causas ajenas al servicio, y le recaiga una sentencia condenatoria que haya causado ejecutoria;
+II. Llevando a cabo las acciones de compensación que se requieran a efecto de que se restituya un área equivalente a la afectada, en el sitio más próximo posible a ésta.
 
-III. Faltar a los principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Federal;
+Las alternativas referidas deberán ser consideradas por las autoridades competentes en el orden en que se enuncian.
 
-IV. Portar el arma de cargo fuera del servicio, horario, misión o comisión sin autorización de la institución correspondiente;
+La reparación de los daños causados a las áreas verdes podrá ordenarse por las autoridades competentes, como medida correctiva o sanción.
 
-V. Poner en peligro a las personas, sus bienes y derechos por imprudencia, descuido, negligencia o abandono del servicio;
+Excepcionalmente, en caso de que el daño realizado sea irreparable en términos de las fracciones I y II del presente artículo, el responsable deberá pagar una compensación económica que deberá destinarse al fondo ambiental público, a efecto de aplicarse a restauración o compensación de áreas afectadas.
 
-VI. Asistir a sus labores en estado de ebriedad, bajo el influjo de sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones;
+Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sanciones adicionales que sean procedentes por infracciones a lo dispuesto en la presente ley.
 
-VII. Desobedecer reiteradamente y sin justificación las órdenes que reciba de sus superiores;
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
-VIII. Revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo de su trabajo, excepcionalmente cuando se trate de orden emitida por autoridad jurisdiccional;
+### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
-IX. Aplicar a sus subalternos en forma dolosa correctivos disciplinarios notoriamente injustificados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo personal policial tiene derecho;
-
-XI. Dirigir, organizar o participar en movilizaciones, paros de servicio o cualquier otra manifestación o protesta en contra de sus superiores o de la institución policial dentro o fuera de su servicio.
-
-No aplicará esta hipótesis cuando el presunto infractor haya ejercido previamente el derecho de petición previsto en el artículo 8° de la Constitución Federal sin haber recibido la respuesta;
-
-XII. Abandonar el servicio nombrado o abstenerse a recibirlo sin causa justificada;
-
-XIII. Distraer de su objeto, para uso propio o ajeno el equipo, elementos materiales o bienes asegurados bajo su custodia o de la corporación;
-
-XIV. Destruir, no recabar o recoger datos de pruebas necesarios u obtener indebida o ilícitamente datos de pruebas para los cuales los ordenamientos legales prevean una tramitación especial;
-
-XV. Introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
-
-XVI. Consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones; y
-
-XVII. Las demás que establezcan la Ley y otras disposiciones aplicables.
-
-### Capítulo I. Generalidades
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 90 Bis.
 
@@ -2206,33 +2238,43 @@ VI. Colaborar con las autoridades en la persecución de fondos y/o financiamient
 
 VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
 
-### Capítulo II. Carrera Policial
+### CAPÍTULO III BIS. ÁREAS COMUNITARIAS DE CONSERVACIÓN ECOLÓGICA
 
-###### Artículo 91.
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
 
-Contra las resoluciones que impongan las sanciones previstas en la Ley, procede el recurso de reconsideración ante la autoridad que la emitió, que tendrá por objeto confirmar, revocar o modificar la resolución recurrida conforme a las bases establecidas en el reglamento correspondiente.
+###### ARTÍCULO 91.
 
-La resolución definitiva recaída al recurso de reconsideración será firme, por consecuencia no procede recurso o medio de impugnación ordinario alguno.
+Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación, que se requieran para la preservación, cuidado, restauración, forestación, reforestación y mejoramiento ambiental. Su establecimiento y preservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto o declaratoria respectiva.
 
-###### Artículo 92.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
-La certificación es el proceso mediante el cual el personal de las instituciones policiales se somete a las evaluaciones periódicas establecidas por el Centro de Evaluación, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia que tiene por objeto:
+###### ARTÍCULO 92.
 
-I. Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional; y
+Las categorías de áreas naturales protegidas de competencia del Distrito Federal son:
 
-II. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos del personal de las instituciones policiales:
+I. (DEROGADA, G.O. 31 DE ENERO DE 2002) (REPUBLICADA, G.O. 10 DE FEBRERO DE 2004)
 
-a) Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
+II. Zonas de Conservación Ecológicas;
 
-b) Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
+III. Zonas de Protección Hidrológica y Ecológica;
 
-c) Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+IV. Zonas Ecológicas y Culturales;
 
-d) Ausencia de vínculos con organizaciones delictivas;
+V. Refugios de vida silvestre;
 
-e) Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituidopor (sic) resolución firme como servidor público; y
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-f) Cumplimiento de los deberes establecidos en esta Ley.
+VI. Zonas de Protección Especial;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VII. Reservas Ecológicas Comunitarias; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VIII. Las demás establecidas por las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 92 Bis.
 
@@ -2276,9 +2318,11 @@ La administración y manejo de las áreas naturales protegidas propiedad del Gob
 
 Las Zonas de Protección Especial son aquellas que se localizan en suelo de conservación y que tienen la característica de presentar escasa vegetación natural, vegetación inducida o vegetación fuertemente modificada y que por su extensión o características no pueden estar dentro de las otras categorías de áreas naturales protegidas, aun cuando mantienen importantes valores ambientales.
 
-###### Artículo 93.
+###### ARTÍCULO 93.
 
-El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en las instituciones policiales y de Procuración de Justicia, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+El Gobierno del Distrito federal podrá administrar las áreas naturales protegidas de índole federal, conforme a lo estipulado en la Ley General.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 93 Bis.
 
@@ -2320,89 +2364,85 @@ En el otorgamiento o expedición de permisos, licencias, concesiones, o en gener
 
 La Secretaría y, en su caso, las delegaciones, expedirán las autorizaciones, permisos o licencias respectivos, tomando en cuenta lo dispuesto en el programa de manejo del área correspondiente. Las concesiones o permisos para el uso y aprovechamiento de los inmuebles patrimonio del gobierno del Distrito Federal, se ajustarán a la Ley de la materia.
 
-###### Artículo 94.
+###### ARTÍCULO 94.
 
-El Certificado a que se refiere el artículo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Estatal que para tal efecto se establezca. Dicha certificación y registro tendrán una vigencia de tres años.
+Las áreas naturales protegidas de la competencia del Distrito Federal se establecerán mediante decreto del titular de la Administración Pública Local. Dicho decreto deberá contener:
 
-###### Artículo 95.
+I. La categoría de área natural protegida que se constituye, así como la finalidad u objetivos de su declaratoria;
 
-El personal de confianza de las unidades administrativas del Sistema Estatal, del Secretariado Ejecutivo, de los Centros Estatales, incluso sus titulares, y de las dependencias y áreas que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará personal de seguridad pública y serán de libre designación y remoción; se sujetará a las evaluaciones de certificación y control de confianza. Para tal efecto, se emitirá el acuerdo respectivo por el que se determinen dichas unidades administrativas.
+II. Delimitación del área con descripción de poligonales, ubicación, superficie, medidas y linderos y, en su caso, zonificación;
 
-###### Artículo 96.
+III. Limitaciones y modalidades al uso del suelo, reservas y destinos, así como lineamientos para el manejo de los recursos naturales del área;
 
-La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial y capacitación continua, actualización, promoción, especialización y alta dirección, conforme a los planes de estudios contenidos en el Programa Rector de Profesionalización.
+IV. Descripción de las actividades que podrán llevarse a cabo en el área, sus limitaciones y modalidades;
 
-Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector de Profesionalización, que apruebe la Conferencia Nacional de Secretarios de Seguridad Pública, a propuesta de su Presidente.
+V. Responsables de su manejo;
 
-La profesionalización se garantizará a través de la Universidad Policial del Estado de Guerrero (UNIPOL), responsable de aplicar el Programa Rector de Profesionalización.
+VI. Las causas de utilidad pública que sirvan de base para la expropiación del área por parte de la autoridad competente, cuando ésta se requiera en los términos de las disposiciones aplicables;
 
-###### Artículo 97.
+VII. Lineamientos y plazo para que la Secretaría elabore el programa de manejo del área, mismos que deberán publicarse en la Gaceta Oficial del Distrito Federal; y
 
-En materia de planes y programas de profesionalización para las instituciones policiales, la Secretaría tendrá la facultad de vigilar: el cumplimiento:
+VIII. La determinación y especificación de los elementos naturales o reservas de la biodiversidad cuya protección o conservación se pretenda lograr, en su caso.
 
-I. El cumplimiento por parte de los integrantes de las instituciones policiales del contenido del Programa Rector de Profesionalización;
+###### ARTÍCULO 95.
 
-II. La validación de la profesionalización de los integrantes de las instituciones policiales municipales apegado al Programa Rector de Profesionalización;
+El programa de manejo de las áreas naturales protegidas es el instrumento de planificación y normatividad que contendrá entre otros aspectos, las líneas de acción, criterios, lineamientos y en su caso, actividades específicas a las cuales se sujetará la administración y manejo de las mismas, deberá contener lo siguiente:
 
-III. El diseño, la actualización de políticas y normas para el reclutamiento y selección de candidatos a las instituciones policiales;
+I. Las características físicas, biológicas, culturales, sociales y económicas del área;
 
-IV. Las estrategias y políticas para la actualización y especialización de los integrantes de las instituciones policiales;
+II. Los objetivos del área;
 
-V. Los programas de investigación académica en materia policial; y
+III. La regulación de los usos de suelo, del manejo de recursos naturales y de la realización de actividades en el área y en sus distintas zonas, de acuerdo con sus condiciones ecológicas, las actividades compatibles con las mismas y con los programas de desarrollo urbano respectivos;
 
-VI. Las demás que establezcan otras disposiciones legales.
+IV. Las acciones a realizar en el corto, mediano y largo plazos para la conservación, restauración e incremento de los recursos naturales, para la investigación y educación ambiental y, en su caso, para el aprovechamiento racional del área y sus recursos;
 
-###### Artículo 98.
+V. Las bases para la administración, mantenimiento y vigilancia del área;
 
-El régimen disciplinario se ajustará a los principios establecidos en la Constitución Federal, la presente Ley y los ordenamientos legales aplicables y comprenderá los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
+VI. El señalamiento de las disposiciones jurídicas ambientales aplicables; y
 
-###### Artículo 99.
+VII. Los mecanismos de financiamiento del área.
 
-La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, así como la obediencia y un alto concepto del honor, de la justicia y de la ética, el escrupuloso respeto a las Leyes y reglamentos, así como a los derechos humanos, siendo la base del funcionamiento y organización de las Instituciones Policiales.
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
-###### Artículo 100.
+En tanto se expide el programa de manejo correspondiente, la Secretaría emitirá mediante acuerdo administrativo las normas y criterios que deben observarse para la realización de cualquier actividad dentro de las áreas naturales protegidas, conforme a esta Ley, su reglamento y el decreto respectivo.
 
-Las instituciones policiales, establecerán un Consejo de Honor y Justicia y una Comisión del Servicio Profesional de Carrera Policial, instancias colegiadas en las que participen, en su caso, cuando menos, representantes de las unidades operativas de investigación, prevención y reacción para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos del régimen disciplinario y de la Carrera Policial, respectivamente.
+###### ARTÍCULO 96.
 
-En las instituciones de Procuración de Justicia se integrarán instancias equivalentes, en las que intervengan representantes de los policías ministeriales.
+Las limitaciones y modalidades establecidas en las áreas naturales protegidas a los usos, reservas, provisiones, destinos y actividades son de utilidad pública y serán obligatorias para los propietarios o poseedores de los bienes localizados en las mismas. El ejercicio del derecho de propiedad, de posesión y cualquier otro derivado de la tenencia de los predios, se sujetará a dichas limitaciones y modalidades.
 
-Las instituciones de Seguridad Pública, establecerán Unidades a las que el público tenga fácil acceso para presentar quejas y denuncias por incumplimiento de las obligaciones del personal de las instituciones de Seguridad Pública, con las que se iniciará, en su caso, el procedimiento administrativo de investigación establecido en la Ley de la materia.
+###### ARTÍCULO 97.
 
-###### Artículo 101.
+Los decretos mediante los cuales se establezcan áreas naturales protegidas, deberán publicarse en la Gaceta Oficial del Distrito Federal y se notificarán personalmente a los propietarios o poseedores de los predios afectados cuando se conocieren sus domicilios, en caso contrario se hará una segunda publicación en la misma Gaceta, que surtirá efectos de notificación personal.
 
-El Consejo de Honor y Justicia será competente para conocer y resolver los siguientes asuntos:
+###### ARTÍCULO 98.
 
-I. Las faltas a los principios de actuación, así como a las normas disciplinarias previstas en la Ley;
+La superficie materia del decreto, así como las limitaciones y modalidades a las que se sujetará, se incorporarán de inmediato al ordenamiento ecológico, a los programas de desarrollo urbano y a los instrumentos que se deriven de éstos, se inscribirán en el Registro Público de la Propiedad, se relacionarán en las constancias y certificados que el mismo expida y se inscribirán en el Registro de los Planes y Programas para el Desarrollo Urbano del Distrito Federal.
 
-II. Aplicar las sanciones a los elementos policiales en todos sus niveles jerárquicos;
+###### ARTÍCULO 99.
 
-III. Presentar ante la autoridad competente, las denuncias de hechos que en su concepto puedan constituir delito realizados por elementos en activo del Cuerpo de Policía Estatal;
+La Secretaría, establecerá el Sistema Local de Áreas Naturales Protegidas y llevará el registro e inventario de acuerdo a su clasificación, en los que consignará los datos de inscripción, así como un resumen de la información contenida en los decretos, programas de manejo y demás instrumentos correspondientes, la cual deberá actualizarse anualmente.
 
-IV. Conocer y resolver los recursos administrativos que presenten los elementos del Cuerpo de Policía Estatal;
+###### ARTÍCULO 100.
 
-V. Proponer el otorgamiento de condecoraciones, estímulos y recompensas, conforme a las disposiciones legales y reglamentarias que al efecto se expidan;
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas de la competencia del Distrito Federal, deberán señalar las limitaciones y modalidades del predio respectivo que consten en el decreto correspondiente, así como sus datos de inscripción en el Registro Público de la Propiedad. El incumplimiento de lo dispuesto en este artículo producirá la nulidad absoluta del acto, convenio o contrato respectivo.
 
-VI. Analizar y supervisar que en las promociones de los elementos del Cuerpo de Policía Estatal se considere el desempeño, honorabilidad y buena reputación; y
+###### ARTÍCULO 101.
 
-VII. Las demás que se establezcan en su reglamento respectivo.
+Los notarios y los demás fedatarios públicos sólo podrán autorizar las escrituras públicas, actos jurídicos, convenios o contratos en los que intervengan, cuando se cumpla lo dispuesto en el artículo anterior.
 
-###### Artículo 102.
+No se inscribirán en el Registro Público de la Propiedad los actos jurídicos, convenios o contratos que no se ajusten al decreto y a las limitaciones y modalidades establecidas en él.
 
-La Comisión del Servicio Profesional de Carrera Policial es competente para conocer de la inconformidad que manifieste el personal policial respecto a:
+###### ARTÍCULO 102.
 
-I. Situaciones de escalafón;
+Cualquier persona podrá solicitar por escrito a la Secretaría, el establecimiento de un área natural protegida, para lo cual dicha dependencia dictaminará su procedencia.
 
-II. Antigüedad en el grado;
+###### ARTÍCULO 103.
 
-III. Exclusión en el concurso de selección para ascenso, y
+La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrito Federal, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, el cual podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al sistema de información ambiental del Distrito Federal.
 
-VI (SIC). Las demás que les otorguen la Ley y reglamento que al efecto se expidan.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE JUNIO DE 2006)</small>
 
-###### Artículo 103.
-
-El Consejo de Honor y Justicia y la Comisión del Servicio Profesional de Carrera Policial, llevarán un registro de datos de los integrantes de sus instituciones. Dichos datos se incorporarán (sic) las bases de datos de personal de seguridad pública.
-
-### Capítulo III. Profesionalización
+### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
 ###### ARTÍCULO 103 Bis.
 
@@ -2482,721 +2522,839 @@ Para apoyar económicamente a los núcleos agrarios que determinen el establecim
 
 En dicho programa se establecerán los montos máximos y condiciones mínimas de las retribuciones provenientes del Fondo Ambiental Público, para que los pueblos, comunidades y ejidos realicen la administración, manejo, conservación y vigilancia de dichas áreas, e incluirá el pago de estímulos por la conservación de los servicios ambientales.
 
-### Capítulo IV. Régimen disciplinario
+### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
 
-###### Artículo 104.
+###### ARTÍCULO 104.
 
-El procedimiento que se instaure al personal policial ante el Consejo de Honor y Justicia iniciará por solicitud fundada y motivada de la Unidad de Contraloría y Asuntos Internos, quien integrará y remitirá para tal efecto el expediente del presunto infractor, en el que se puntualizarán los hechos, examinará la responsabilidad, señalará las pruebas que acrediten o no aquellos y ésta formulará los señalamientos que procedan sobre las características de la trayectoria que se derive del expediente del personal policial, expondrá los elementos a tomar en cuenta para resolver la situación en que deba quedar preventivamente el probable infractor y manifestará todo lo que resulte pertinente.
+La Secretaría regulará la eliminación gradual del uso de agua potable en los procesos en que se pueda utilizar aguas de reuso o tratadas.
 
-Para el caso de que las quejas y denuncias presentadas ante la Unidad de Contraloría y Asuntos Internos, que no sean atendidas y resueltas conforme a derecho, a juicio del interesado, a petición de éste, podrá tramitarse recurso de inconformidad, dentro de los tres días hábiles siguientes a la notificación, debiendo expresar los motivos del desacuerdo con la resolución con la que esté inconforme ante el titular de la dependencia, quien resolverá en definitiva en un plazo no mayor a diez días hábiles siguientes.
+###### ARTÍCULO 105.
 
-###### Artículo 105.
+Para el aprovechamiento sustentable de las aguas de competencia del Distrito Federal, así como el uso adecuado del agua que se utiliza en los centros de población, se considerarán los criterios siguientes:
 
-La Unidad de Contraloría y Asuntos Internos, previo o durante el desahogo del procedimiento de investigación podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, si a juicio de la unidad investigadora así conviene al servicio o para la correcta conducción de las investigaciones.
+I. Corresponde al Gobierno del Distrito Federal y a la sociedad la protección de los elementos hidrológicos, ecosistemas acuáticos y del equilibrio de los recursos naturales que intervienen en su ciclo;
 
-La suspensión temporal de funciones no prejuzga sobre la responsabilidad que se impute.
+II. El aprovechamiento sustentable de los recursos naturales que comprenden los ecosistemas acuáticos deben realizarse de manera que no se afecte su equilibrio ecológico;
 
-###### Artículo 106.
+III. Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberá considerar la protección de suelos y áreas boscosas así como el mantenimiento de caudales básicos y fuentes naturales de las corrientes de agua, para mantener la capacidad de recarga de los acuíferos;
 
-La suspensión temporal de funciones a que se refiere el artículo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del servicio, cargo, comisión o especialidad, y regirá desde el momento en que sea notificada al interesado o éste quede enterado de la resolución por cualquier medio.
+IV. La conservación y el aprovechamiento sustentable del agua, es responsabilidad de la autoridad y de los usuarios, así como de quienes realicen obras o actividades que afecten dicho elemento;
 
-###### Artículo 107.
+V. El agua debe ser aprovechada y distribuida con equidad, calidad y eficiencia, dando preferencia a la satisfacción de las necesidades humanas y la protección a la salud;
 
-En caso de que el personal policial resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión temporal y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
+VI. El agua tratada constituye una forma de prevenir la afectación del ambiente y sus ecosistemas;
 
-###### Artículo 108.
+VII. El reuso del agua y el aprovechamiento del agua tratada es una forma eficiente de utilizar y conservar el recurso; y
 
-El superior jerárquico del personal de la institución policial enviará sin demora por escrito ante la Unidad de Contraloría y Asuntos Internos correspondiente, las denuncias cuando se trate de infracciones graves o cuando, en su concepto, y habida cuenta de la naturaleza de los hechos denunciados, deba generarse la instancia del Consejo de Honor y Justicia.
+VIII. El aprovechamiento del agua de lluvia constituye una alternativa para incrementar la recarga de los acuíferos así como para la utilización de ésta en actividades que no requieran de agua potable, así como también para el consumo humano, en cuyo caso, deberá dársele tratamiento de potabilización, de acuerdo con los criterios técnicos correspondientes.
 
-###### Artículo 109.
+###### ARTÍCULO 106.
 
-El Consejo de Honor y Justicia impondrá las sanciones administrativas previstas en esta Ley, mediante el procedimiento establecido en el Reglamento de la materia.
+Los criterios anteriores serán considerados en:
 
-###### Artículo 110.
+I. La formulación e integración de programas relacionados con el aprovechamiento del agua;
 
-El personal de las instituciones policiales podrá ser objeto de la imposición de correctivos disciplinarios o sanciones, por incumplimiento a los principios de actuación previstos en el artículo 21 de la Constitución Federal y a los deberes y obligaciones establecido en la Ley.
+II. El otorgamiento y revocación de concesiones, permisos, licencias, las autorizaciones de impacto ambiental y en general toda clase de autorizaciones para el aprovechamiento de los recursos naturales no reservados a la Federación, que afecten o puedan afectar el ciclo hidrológico;
 
-### Capítulo V. Consejo de Honor y Justicia y Comisión del Servicio Profesional de Carrera Policial
+III. El otorgamiento de autorizaciones para la desviación, extracción o derivación de aguas de propiedad del Distrito Federal;
 
-###### Artículo 111.
+IV. La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población e industrias;
 
-Para los efectos del artículo anterior y sin perjuicio de lo que se prevea en otras disposiciones legales y reglamentarias, los correctivos disciplinarios serán al menos:
+V. Los programas parciales y delegacionales de desarrollo urbano;
 
-I. Apercibimiento por escrito;
+VI. El diseño y ubicación de proyectos urbanos; y
 
-II. Arresto hasta por 36 horas; o
+VII. La ejecución de proyectos de estructuras que permitan el almacenamiento, la utilización, la infiltración y el consumo del agua de lluvia.
 
-III. Cambio de adscripción en observación de su conducta.
+###### ARTÍCULO 107.
 
-###### Artículo 112.
+Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, la Secretaría deberá:
 
-Los correctivos disciplinarios previstos, podrán ser impuestos por el superior del infractor en la línea o cadena de mando respectiva, o bien por el que ejerza el mando, mediante mecanismos ágiles y sencillos, sin que esto implique arbitrariedad en el ejercicio de esta facultad, por lo que su contravención podrá ser objeto de sanción en términos de esta Ley.
+I. Proteger las zonas de recarga;
 
-### Capítulo VI. Del Procedimiento ante el Consejo de Honor y Justicia
+II. Promover acciones para el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso, así como la captación y aprovechamiento de las aguas pluviales;
 
-###### Artículo 113.
+III. Establecer las zonas críticas y formular programas especiales para éstas;
 
-La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurra el personal de las instituciones policiales de conformidad con la legislación aplicable.
+IV. Desarrollar programas de información y educación que fomenten una cultura para el aprovechamiento racional del agua; y
 
-###### Artículo 114.
+V. Considerar las disponibilidades de agua en la evaluación del impacto ambiental de las obras o proyectos que se sometan a su consideración.
 
-Las sanciones aplicables al personal policial por incumplimiento de los deberes previstos en esta Ley serán las siguientes:
+###### ARTÍCULO 108.
 
-I. Amonestación pública o privada;
+Son obligaciones de los habitantes del Distrito Federal:
 
-II. Suspensión, o
+I. Usar racionalmente el agua;
 
-III. Remoción.
+II. Reparar las fugas de agua dentro de sus predios;
 
-Las sanciones serán impuestas mediante resolución formal por parte del Consejo de Honor y Justicia
+III. Denunciar las fugas de agua en otros predios particulares o en la vía pública; y
 
-###### Artículo 115.
+IV. La observancia de la normatividad para el uso, reuso y reciclaje del agua y el aprovechamiento del agua pluvial.
 
-El Consejo de Honor y Justicia, la Comisión del Servicio Profesional de Carrera Policial y los mandos policiales, se organizarán conforme a los conceptos, reglas, lineamientos y bases establecidas en el Reglamento que al efecto se expida.
+###### ARTÍCULO 109.
 
-### Capítulo I. Disposiciones Generales
+La Secretaría realizará las acciones necesarias para evitar o, en su caso, controlar procesos de degradación de las aguas.
 
-###### Artículo 116.
+###### ARTÍCULO 110.
 
-El Servicio de Carrera de los policías ministeriales, peritos y ministerios públicos de la Fiscalía General del Estado, se establecerán en su legislación, conforme a las disposiciones que al efecto determina la Ley General.
+Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, los cuerpos de agua superficiales del Distrito Federal.
 
-###### Artículo 117.
+### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
 
-Con el objeto de recopilar, suministrar, intercambiar, sistematizar, consultar, analizar, actualizar, preservar y utilizar la información que diariamente generen las instituciones de Seguridad Pública, se establece un Sistema Estatal de Información de Seguridad Pública, que será operado por el Centro del Sistema Estatal de Información Policial, quien a su vez se coordinara con las instituciones de seguridad pública para suministrar la información a la Base de Datos.
+###### ARTÍCULO 111.
 
-###### Artículo 118.
+Para la conservación, restauración, protección y aprovechamiento sustentable del suelo en el territorio del Distrito Federal, se considerarán los siguientes criterios:
 
-El Sistema Estatal de Información de Seguridad Pública, estará integrado por una Base de Datos con los registros estatales y municipales siguientes:
+I. El uso del suelo debe ser compatible con su aptitud natural y no debe alterar el equilibrio de los ecosistemas;
 
-I. Criminal;
+II. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro de los suelos, deben incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su aptitud natural;
 
-II. Personal de seguridad pública;
+III. La necesidad de prevenir o reducir su erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida de la vegetación natural;
 
-III. Personal y equipo de los servicios de seguridad privada;
+IV. En las zonas afectadas por fenómenos de degradación, salinización o desertificación, deberán llevarse a cabo las acciones de regeneración, recuperación y rehabilitación necesarias para su restauración;
 
-IV. Armamento, municiones y equipo;
+V. La acumulación o depósito de residuos constituye una fuente de contaminación que altera los procesos biológicos de los suelos; y
 
-V. Vehículos;
+VI. Deben evitarse las prácticas que causen alteraciones en el suelo y perjudiquen su aprovechamiento, uso o explotación, o que provoquen riesgos o problemas de salud.
 
-VI. Huellas dactilares;
+###### ARTÍCULO 112.
 
-VII. Teléfonos celulares;
+Los criterios anteriores serán considerados en:
 
-VIII. Medidas cautelares;
+I. Los apoyos a las actividades agropecuarias que otorguen las dependencias de la Administración Pública del Distrito Federal, de manera directa o indirecta, para que promuevan la progresiva incorporación de cultivos compatibles con la conservación del equilibrio ecológico y la restauración de los ecosistemas;
 
-IX. Soluciones alternas y formas de terminación anticipada;
+II. La autorización de fraccionamientos habitacionales y asentamientos humanos en general;
 
-X. Sentenciados;
+III. La modificación y elaboración de los programas de desarrollo urbano;
 
-XI. De las faltas administrativas;
+IV. El establecimiento de usos, reservas y destinos, en los programas de desarrollo urbano, así como en las acciones de restauración y conservación de los centros de población;
 
-XII. Registro Público Vehicular;
+V. Las disposiciones, programas y lineamientos técnicos para la conservación, protección y restauración de los suelos, en las actividades agropecuarias, mineras, forestales e hidráulicas;
 
-XIII. Del Sistema Penitenciario;
+VI. Las actividades de exploración, explotación, extracción y aprovechamiento de materiales o sustancias, no reservadas a la Federación, así como las excavaciones y todas aquellas acciones que alteren los recursos y la vegetación forestal;
 
-XIV. De llamadas al servicio de emergencia y asistencia telefónica 9-1-1 (nueve, uno, uno);
+VII. La formulación del programa de ordenamiento ecológico; y
 
-XV. De la información de los Comités de Consulta y Participación Ciudadana;
+VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
-XVI. De los consejos municipales, intermunicipales e instancias regionales;
+### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
-XVII. De la estadística de seguridad pública;
+###### ARTÍCULO 113.
 
-XVIII. De casos de violencia contra las mujeres;
+En aquellas áreas de los suelos de conservación que presenten procesos de degradación o desertificación, o grave deterioro ecológico, el Jefe de Gobierno del Distrito Federal, por causa de interés público y tomando en consideración a la sociedad, podrá expedir declaratorias de zonas de restauración ecológica con la finalidad de establecer las modalidades a los derechos de propiedad que procedan para regular usos del suelo y limitar la realización de actividades que estén ocasionando dichos fenómenos.
 
-XIX. De personas desaparecidas y localizadas;
+###### ARTÍCULO 114.
 
-XX. De víctimas, y
+Están obligados a restaurar el suelo, subsuelo, acuífero y los demás recursos naturales afectados, quienes por cualquier causa los contaminen o deterioren, de acuerdo con la presente Ley y las normas ambientales para el Distrito Federal.
 
-XXI. Los demás necesarios para la operación del Sistema Estatal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La utilización de los registros del Sistema Estatal de Información de Seguridad Pública, se hará bajo los más estrictos principios de confidencialidad y de reserva, su consulta estará condicionada al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones legales aplicables y se realizará exclusivamente por parte de los servidores públicos en el ejercicio de funciones oficiales, previa asignación de clave de acceso tramitada por el Centro del Sistema Estatal de Información Policial. El incumplimiento a esta disposición, así como el acceso a la información por parte de particulares y el uso inapropiado por quienes tengan acceso a su contenido, será sancionado conforme a la legislación aplicable al caso.
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
-###### Artículo 119.
+###### ARTÍCULO 115.
 
-El Secretario dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre seguridad pública.
+En los suelos de conservación que presenten deterioros ecológicos, la Secretaría formulará programas de restauración de los elementos naturales, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación, forestación y reforestación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollan.
 
-###### Artículo 120.
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación las (sic) instituciones federales a través de un convenio, de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
-Los integrantes del Sistema Estatal están obligados a compartir la información sobre seguridad pública que obre en sus Bases de Datos, con el Centro del Sistema Estatal de Información Policial, en los términos de las disposiciones normativas aplicables.
+### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
-Se clasifica como reservada la información contenida en todas y cada una de las Bases de Datos, así como los registros y la información contenida en ellas.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-La información contenida en las Bases de Datos, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
+###### ARTÍCULO 116.
+
+Para coadyuvar a la conservación y aprovechamiento sustentable de la flora y fauna, la Secretaría, previo los estudios correspondientes, podrá promover ante las autoridades federales competentes:
+
+I. El establecimiento de vedas o modificación de vedas;
+
+II. La declaración de especies amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial;
+
+III. La creación de áreas de refugio para protección de las especies de flora y fauna; y
+
+IV. La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestres.
+
+###### ARTÍCULO 117.
+
+Dentro del territorio del Distrito Federal, la Secretaría coadyuvará con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestre, de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 118.
+
+Para realizar la poda, derribo o trasplante de árboles se requiere de autorización previa de la Delegación respectiva.
+
+La delegación podrá autorizar el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes, solamente en los siguientes casos:
+
+I. Cuando exista riesgo real y presente para las personas o para sus bienes inmuebles;
+
+II. Cuando exista riesgo real y presente para el patrimonio urbanístico o arquitectónico del Distrito Federal;
+
+III. Cuando sean necesarias para el saneamiento del árbol; y
+
+IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infraestructura del lugar donde se encuentren.
+
+La autorización a que se refiere el presente artículo deberá estar sustentada mediante un dictamen técnico emitido por la delegación correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
+
+Asimismo, la poda será procedente cuando se requiera para mejorar o restaurar la estructura de los árboles.
+
+En todo caso, el derribo de árboles sólo será procedente cuando no exista otra alternativa viable.
+
+La Secretaría expedirá conforme a las disposiciones previstas en esta Ley, las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en el Distrito Federal.
+
+Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán (sic) aplicable a las actividades relacionadas con la poda, derribo o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 119.
+
+Las personas que realicen el derribo de árboles deberán llevar a cabo la restitución correspondiente mediante la compensación física o económica. En todo caso se deberá tener como primera alternativa la restitución física a efecto de conservar la cubierta vegetal necesaria para un equilibrio ecológico en el Distrito Federal, y sólo en los supuestos que ello no sea posible se considerará la compensación económica.
+
+Para efectos de que se cumpla lo anterior, en la autorización respectiva se citarán las medidas compensatorias procedentes. Así mismo, la Secretaría expedirá las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas para la compensación física correspondiente.
+
+Para los efectos de la presente Ley, se equipara al derribo de árboles cualquier acto que provoque su muerte.
+
+###### ARTÍCULO 120.
+
+En la autorización se determinará el destino de los esquilmos o productos del derribo o poda de los árboles en vía pública o bienes de dominio público.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 120 Bis.
 
 Las acciones de inspección e imposición de medidas de seguridad, correctivas o de urgente aplicación y sanciones, respecto a las disposiciones previstas en este capítulo sobre poda, derribo y trasplante de árboles, corresponden a las Delegaciones Políticas en su respectiva circunscripción territorial, sin perjuicio de las atribuciones conferidas a otras autoridades por cuestiones diversas.
 
-###### Artículo 121.
+###### ARTÍCULO 121.
 
-Las instituciones de Seguridad Pública, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las Bases de Datos, previstas en la presente Ley.
+La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
 
-### Capítulo II. Registro Administrativo de Detenciones
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 122.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-El personal policial que realice detenciones deberá dar aviso administrativo de inmediato al Centro del Sistema Estatal de Información Policial a través del Registro Administrativo de Detenciones.
+###### ARTÍCULO 122.
+
+La Secretaría celebrará acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, así como para el desarrollo de diferentes fuentes de energía, incluidas las fuentes renovables, conforme a los principios establecidos en la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 122 Bis.
 
 Las Dependencias, delegaciones, órganos desconcentrados, entidades, órganos autónomos y órganos de gobierno del Distrito Federal, deberán en la medida de sus posibilidades presupuestarias, instalar algún tipo de tecnología solar, a fin de reducir el uso de energía y la emisión de gases de efecto invernadero.
 
-## Título Quinto. Desarrollo Policial
+## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
-### Capítulo III. Informe Policial Homologado
+### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
 
-###### Artículo 123.
+###### ARTÍCULO 123.
 
-El Registro Administrativo de Detenciones deberá contener, al menos, los datos siguientes:
+Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría, así como a utilizar los equipos, dispositivos y sistemas de reducción de emisiones que determine dicha dependencia. Quedan comprendidos la generación de residuos sólidos, de contaminantes visuales y de la emisión de contaminantes de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
-I. Nombre y, en su caso, apodo del detenido;
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-II. Descripción física del detenido;
+###### ARTÍCULO 124.
 
-III. Motivo, circunstancias generales, lugar y hora en que se haya practicado la detención;
+La Secretaría vigilará que se lleven a cabo las acciones correctivas de sitios o zonas donde se declare la contaminación ambiental, de los recursos naturales o biodiversidad. Estas acciones deberán garantizar dentro de los avances científicos y tecnológicos que se trata de la metodología o técnica más adecuada para corregir el problema de afectación negativa.
 
-IV. Nombre de quien o quienes hayan intervenido en la detención. En su caso, rango y área de adscripción;
+###### ARTÍCULO 125.
 
-V. Constancia de lectura de derechos al detenido y si hubo resistencia al arresto, y
+Los estudios para la prevención y control de la contaminación ambiental y la restauración de los recursos considerarán:
 
-VI. Lugar a donde será trasladado el detenido.
+I. Diferentes alternativas de solución en caso de afectación al ambiente y a los recursos naturales, incluyendo tanto los factores beneficio-costo como factores ambientales y sociales, para garantizar la selección óptima de la tecnología aplicable; y
 
-### Capítulo IV. Sistema Único de Información Criminal
+II. Alternativas del proyecto de restauración y sus diversos efectos tanto positivos como negativos en el ambiente y recursos naturales.
 
-###### Artículo 124.
+###### ARTÍCULO 126.
 
-Las instituciones de Procuración de Justicia deberán actualizar la información relativa al Registro Administrativo de Detenciones, tan pronto reciba a su disposición al detenido, recabando lo siguiente:
+Queda prohibido emitir o descargar contaminantes a la atmósfera, el agua y los suelos que ocasionen o puedan ocasionar desequilibrios ecológicos, daños al ambiente o afecten la salud.
 
-I. Domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
+En todas las descargas de contaminantes a la atmósfera, al agua y los suelos, deberán ser observadas las previsiones de la Ley General, esta Ley, sus disposiciones reglamentarias, así como las normas oficiales mexicanas y normas ambientales del Distrito Federal que al efecto se expidan.
 
-II. Clave Única de Registro de Población;
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-III. Grupo étnico al que pertenezca;
+###### ARTÍCULO 127.
 
-IV. Descripción del estado físico del detenido;
+La Secretaría, en los términos que señalen el reglamento de esta Ley, integrará y mantendrá actualizado, un inventario de emisiones a la atmósfera, descargas de aguas residuales, materiales y residuos, el registro de emisiones y transferencia de contaminantes y coordinará la administración de los registros que establece la Ley y creará un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia se otorguen.
 
-V. Huellas dactilares;
+###### ARTÍCULO 128.
 
-VI. Identificación antropométrica, y
+La Secretaría en coordinación con las autoridades federales y locales, establecerá un sistema de información relativo a los impactos en la salud provocados por la exposición a la contaminación del aire, agua y suelo.
 
-VII. Otros medios que permitan la identificación del individuo.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-El Ministerio Público y la policía deberán informar a quien lo solicite de la detención de una persona y, en su caso, la autoridad a cuya disposición se encuentre.
+###### ARTÍCULO 129.
 
-###### Artículo 125.
+La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de residuos sólidos y de aguas residuales.
 
-La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. A la información contenida en el registro sólo podrán tener acceso:
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
-I. Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
+#### SECCIÓN I. DISPOSICIONES GENERALES
 
-II. Las personas imputadas, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
+###### ARTÍCULO 130.
 
-###### Artículo 126.
+Las disposiciones del presente capítulo son aplicables a las fuentes fijas y móviles de jurisdicción local.
 
-En ninguna circunstancia se podrá proporcionar información contenida en el Registro Administrativo de Detenciones a terceros.
+###### ARTÍCULO 131.
 
-El Registro Administrativo de Detenciones no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
+Para la protección a la atmósfera se considerarán los siguientes criterios:
 
-Al servidor público que quebrante la reserva del registro o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+I. Las políticas y programas de las autoridades ambientales deberán estar dirigidas a garantizar que la calidad del aire sea satisfactoria en el Distrito Federal; y
 
-###### Artículo 127.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Las instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este Registro Administrativo de Detenciones; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
+II. Las emisiones de todo tipo de contaminantes a la atmósfera, sean de fuentes fijas o móviles, deben ser prevenidas, reguladas, reducidas y controladas, para asegurar una calidad del aire satisfactoria para la salud y bienestar de la población y el mantenimiento del equilibrio ecológico.
 
-###### Artículo 128.
+###### ARTÍCULO 132.
 
-El personal policial deberá dar aviso administrativo de la detención, así como registrar los datos de las actividades e investigaciones que realice a través del Informe Policial Homologado, que contendrá, cuando menos, los datos siguientes:
+Los criterios anteriores serán considerados en:
 
-I. El área que lo emite;
+I. La expedición de normas ambientales del Distrito Federal para la prevención y control de la contaminación de la atmósfera;
 
-II. El usuario capturista;
+II. La ordenación, regulación y designación de áreas y zonas industriales, así como en la determinación de los usos de suelo que establezcan los programas de desarrollo urbano respectivos, particularmente en lo relativo a las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes;
 
-III. Los datos generales de registro;
+III. La clasificación de áreas o zonas atmosféricas, de acuerdo a su capacidad de asimilación o dilución, y la carga de contaminantes que estos puedan recibir; y
 
-IV. Motivo, que se clasifica en: tipo de evento y subtipo de evento;
+IV. El otorgamiento de todo tipo de autorizaciones, licencias, registros o permisos para emitir contaminantes a la atmósfera.
 
-V. La ubicación del evento y en su caso, los caminos;
+###### ARTÍCULO 133.
 
-VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos;
+Para regular, prevenir, controlar, reducir o evitar la contaminación de la atmósfera, la Secretaría tendrá las siguientes facultades:
 
-VII. Entrevistas realizadas, y
+I. Coordinarse con la Federación, entidades federativas y municipios de la zona conurbada para la planeación y ejecución de acciones coordinadas en materia de gestión de la calidad del aire;
 
-VIII. En caso de detenciones:
+II. Elaborar un programa local de gestión de calidad del aire, sujeto a revisión y ajuste periódico;
 
-a) Señalar los motivos de la detención;
+III. Requerir a los responsables de fuentes emisoras de su competencia, el cumplimiento de los limites máximos permisibles de emisión de contaminantes, las normas oficiales mexicanas y las normas ambientales para el Distrito Federal, de conformidad con esta Ley, la Ley General, en materias de competencia local, y sus reglamentos;
 
-b) Descripción de la persona;
+IV. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de la mejor tecnología disponible, con el propósito de reducir sus emisiones a la atmósfera;
 
-c) El nombre del detenido y apodo, en su caso;
+V. Integrar y mantener actualizado el inventario de las fuentes emisoras de contaminantes a la atmósfera de su competencia;
 
-d) Descripción de estado físico aparente;
+VI. Establecer y operar sistemas de monitoreo de la calidad del aire en el Distrito Federal;
 
-e) Objetos que le fueron encontrados;
+VII. Expedir normas ambientales del Distrito Federal para regular las emisiones provenientes de fuentes fijas y móviles que no sean de jurisdicción federal, y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
 
-f) Autoridad a la que fue puesto a disposición, y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-g) Lugar en el que fue puesto a disposición.
+VIII. Elaborar y emitir un Pronóstico de la Calidad del Aire, en forma diaria, en función de los sistemas meteorológicos;
 
-El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 129.
+IX. Expedir normas ambientales del Distrito Federal para regular las emisiones provenientes de fuentes fijas y móviles que no sean de jurisdicción federal, y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
 
-El Centro del Sistema Estatal de Información Policial será responsable de integrar y actualizar el Sistema Único de Información Criminal, con la información que generen las instituciones de Procuración de Justicia y policiales, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social de la persona privada de la libertad y del adolescente.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-### Capítulo V. Registro Estatal de Personal de Seguridad Pública
+X. Tomar las medidas necesarias para prevenir, regular y controlar las contingencias ambientales por contaminación atmosférica;
 
-#### Sección Única. Policía Comunitaria Indígena
+XI. Establecer y operar sistemas de verificación de emisiones de automotores en circulación, y en su caso, expedir la constancia de verificación de emisiones;
 
-###### Artículo 130.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Dentro del Sistema Único de Información Criminal se integrará una base estatal de datos de consulta obligatoria en las actividades de seguridad pública, sobre personas imputadas, procesadas o sentenciadas, incluyendo el procedimiento en materia de justicia para adolescentes, donde se incluyan su perfil criminológico, medios de identificación, recursos y modos de operación.
+XII. Aplicar las normas oficiales mexicanas y normas ambientales del Distrito Federal para la protección de la atmósfera en las materias y supuestos de su competencia;
 
-Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 131.
+XIII. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen;
 
-Las instituciones de Procuración de Justicia podrán reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionarán al Sistema Único de Información Criminal inmediatamente después que deje de existir tal condición.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 132.
+XIV. Establecer y operar sistemas de verificación de emisiones de automotores en circulación, y en su caso, expedir la constancia de verificación de emisiones;
 
-El Sistema de Información Penitenciaria es la Base de Datos que, dentro del Sistema Único de Información Criminal, contiene, administra y controla los registros de la población penitenciaria del Estado en su respectivo ámbito de competencia.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-La Base de Datos deberá contar, al menos, con el reporte de la ficha de identificación de cada persona privada de su libertad con fotografía, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración del Sistema Único de Información Criminal.
+XV. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de automotores en circulación;
 
-###### Artículo 133.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-El registro estatal de personal de seguridad pública, integra la información actualizada relativa al Personal de Seguridad Pública, y contendrá por lo menos:
+XVI. Llevar un registro de los centros de verificación de automotores en circulación, y mantener un informe actualizado de los resultados obtenidos;
 
-I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público, y
+XVII. Entregar, cuando proceda, a los propietarios de vehículos automotores, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas ambientales para el Distrito Federal; y
 
-III. Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 134.
+XVIII. Fomentar la participación de la sociedad en el desarrollo de programas para impulsar alternativas de transporte que reduzcan el uso de vehículos particulares.
 
-Cuando al personal de las instituciones de Seguridad Pública se le dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al Registro Estatal de Personal de Seguridad Pública.
+###### ARTÍCULO 134.
+
+Para prevenir y controlar la contaminación de la atmósfera, las Delegaciones, tomarán las medidas necesarias en coordinación con la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
 
 #### SECCIÓN II. CONTROL DE EMISIONES CONTAMINANTES PROVENIENTES DE FUENTES FIJAS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 135.
+###### ARTÍCULO 135.
 
-Las autoridades competentes del Estado y los municipios inscribirán y mantendrán actualizados permanentemente en el Registro Estatal de Personal de Seguridad Pública los datos relativos al personal de las instituciones de Seguridad Pública, en los términos de esta Ley.
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Única del Distrito Federal que expedirá la Secretaría a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
 
-La infracción a esta disposición se sancionará en términos de la Ley aplicable.
+I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas ambientales locales correspondientes;
 
-###### Artículo 136.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Las instituciones de seguridad pública, además de cumplir con las disposiciones contenidas en otras Leyes, mantendrán permanentemente actualizado el Registro Estatal de Armamento, Municiones y Equipo, el cual incluirá:
+II. Integrar un inventario anual de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
 
-I. Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
+III. Instalar plataformas y puertos de muestreo en chimeneas para realizar la medición de emisiones en campo, de acuerdo a lo establecido en las normas correspondientes;
 
-###### Artículo 137.
+IV. Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría y remitir a ésta la información que se determine en el reglamento, a fin de demostrar que opera dentro de los limites permisibles;
 
-La persona que ejerza funciones de seguridad pública sólo podrá portar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se le hubiesen asignado en lo particular y que estén registradas colectivamente para la Institución de Seguridad Pública a que pertenezca, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 138.
+V. Llevar una bitácora de operación y mantenimiento de sus equipos de combustión, de proceso y de control;
 
-Las instituciones de Seguridad Pública mantendrán un registro de los elementos de identificación de huella balística de las armas asignadas a los servidores públicos de las Instituciones de Seguridad Pública. Dicha huella deberá registrarse en una base de datos del Sistema Estatal de Información de Seguridad Pública.
+VI. Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación; y
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Dar aviso inmediato a la Secretaría en el caso de falla del equipo o sistema de control.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+La Secretaría, de conformidad con lo que establezca el reglamento de esta Ley, determinará los casos de fuentes fijas que por los niveles de emisión de contaminantes quedarán exentos del cumplimiento de las obligaciones a que se refiere este artículo.
+
+###### ARTÍCULO 136.
+
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
+
+###### ARTÍCULO 137.
+
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
+
+###### ARTÍCULO 138.
+
+En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, la Secretaría establecerá las medidas preventivas y correctivas para reducir las emisiones contaminantes; y promoverá ante los responsables de operación de las fuentes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Los responsables de las fuentes fijas podrán solicitar su exención al Programa de Contingencias Ambientales Atmosféricas, a través del formato que determine la Secretaría y que además demuestre cumplir con el marco normativo vigente y programas de contingencias correspondientes, así mismo podrán solicitarla todas las fuentes fijas que operen y apliquen tecnologías encaminadas a la reducción de sus emisiones a la atmósfera.
 
 #### SECCIÓN III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
-###### Artículo 139.
+###### ARTÍCULO 139.
 
-En el caso de que el personal de las instituciones de Seguridad Pública asegure armas o municiones, lo comunicarán de inmediato al Registro Estatal de Armamento, Municiones y Equipo y las pondrán a disposición de las autoridades competentes, en los términos de las normas aplicables.
+La Secretaría podrá limitar la circulación de vehículos automotores en el Distrito Federal, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
 
-###### Artículo 140.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-El incumplimiento de las disposiciones de este capítulo dará lugar a que la portación o posesión de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
+###### ARTÍCULO 140.
 
-###### Artículo 141.
+Los propietarios o poseedores de vehículos automotores en circulación matriculados en el Distrito Federal, deberán someter sus unidades a la verificación de emisiones contaminantes, en los centros de verificación autorizados por la Secretaría dentro del periodo que le corresponda en los términos del programa de verificación vehicular obligatoria que al efecto se expida y, en su caso, reparar los sistemas de emisión de contaminantes y sustituir los equipos y dispositivos que no funcionen adecuadamente, en los términos que determine el Programa de Verificación correspondiente.
 
-El Estado y los municipios mantendrán permanentemente actualizado el Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada, el cual incluirá por lo menos lo siguiente:
+###### ARTÍCULO 141.
 
-I. Las medidas cautelares y suspensión condicional del proceso impuestas a un imputado, fecha de inicio y término, delitos por el que se impuso la medida y en su caso incumplimiento o modificación de esta;
+El propietario o poseedor del vehículo deberá pagar al centro de verificación respectivo, la tarifa autorizada por la Secretaría en los términos del programa de verificación vehicular obligatoria para el Distrito Federal.
 
-II. Los acuerdos reparatorios que se realicen, especificando el nombre de las partes que lo realizan, el tipo de delito, la autoridad que los sancionó, su cumplimiento o incumplimiento;
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-III. La suspensión condicional, el proceso aprobado por el juez de control, especificando los nombres de las partes, el tipo del delito, las condiciones impuestas por el juez, y su cumplimiento o incumplimiento, y
+###### ARTÍCULO 142.
 
-IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
+El propietario o poseedor de un vehículo que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el programa de verificación vehicular obligatoria que al efecto se expida, podrá trasladarse en un término de treinta días únicamente a un taller mecánico o a un Centro de Verificación, previo pago de la multa correspondiente, independientemente de la multa que establezca el Reglamento de Tránsito del Distrito Federal.
 
-###### Artículo 142.
+En caso que no se apruebe la verificación dentro del plazo señalado, o si durante el mismo el vehículo circula hacia un lugar distinto al taller o al Centro de Verificación, se duplicará la multa, una vez pagada, contará con un nuevo plazo de treinta días naturales a partir de su imposición para agredir (sic) dicho cumplimiento. De no presentarse éste dentro del plazo citado se duplicará la segunda multa señalada.
 
-Las armas de fuego propiedad del Estado, en posesión del Cuerpo de la Policía Estatal y, en su caso, las armas de los particulares que presten servicios de seguridad privada, deberán manifestarse a la Secretaría de la Defensa Nacional, para su inscripción en el Registro Federal de Armas, en los términos señalados en la Ley Federal de Armas de Fuego y Explosivos.
+###### ARTÍCULO 143.
 
-La Secretaría, administrará la Licencia Oficial Colectiva Número 110, para tal efecto, supervisará y controlará las altas y bajas de armamento, municiones, equipo y personal autorizado para portarlo, de la policía estatal, policía preventiva municipal, custodios de los diversos centros penitenciarios y centros especializados de internamiento para adolescentes, policías auxiliares, así como de cualquier otro cuerpo de seguridad que utilice el armamento amparado por esta licencia.
+Si los vehículos en circulación rebasan los límites máximos permisibles de emisiones contaminantes fijados por las normas correspondientes, serán retirados de la misma por la autoridad competente, hasta que acredite su cumplimiento.
 
-En caso de extravío, pérdida o robo del armamento bajo resguardo del Municipio o de la policía auxiliar, estos sufragarán con cargo a su presupuesto, las sanciones o multas que imponga la Secretaría de la Defensa Nacional al Gobierno del Estado, asumiendo a su vez el pago correspondiente a los trámites relativos a la baja de armamento o modificación de la Licencia Oficial Colectiva Número 110.
+###### ARTÍCULO 144.
 
-###### Artículo 143.
+El propietario o poseedor del vehículo que incumpla con las normas oficiales mexicanas o las normas ambientales del Distrito Federal de acuerdo con el artículo anterior, tendrá un plazo de treinta días naturales para hacer las reparaciones necesarias y presentarlo a una nueva verificación. El vehículo podrá circular en ese periodo sólo para ser conducido al taller mecánico o ante el verificador ambiental.
 
-Toda persona que ejerza funciones de seguridad pública o privada sólo podrá portar las armas de cargo que le hayan sido autorizadas o aquéllas que se le hubiesen asignado en lo particular y que estén registradas para la institución a la que pertenezca, de conformidad con la Ley Federal de Armas de Fuego y Explosivos, mismas que deberán informar e inscribir ante el Registro correspondiente.
+###### ARTÍCULO 145.
 
-###### Artículo 144.
+La Secretaría, en coordinación con las Secretarías de Transporte y Vialidad, y de Seguridad Pública podrán restringir y sujetar a horarios nocturnos el tránsito vehicular y las maniobras respectivas en la vía pública de los vehículos de carga, a fin de agilizar la circulación vehicular diurna y reducir, de esta forma, las emisiones contaminantes generadas por las fuentes móviles. Para estos efectos, el Jefe de Gobierno del Distrito Federal publicará el Acuerdo correspondiente en la Gaceta Oficial.
 
-Las armas de cargo sólo podrán ser portadas durante el tiempo de ejercicio de funciones, o para un horario, misión o comisión determinados, de acuerdo con los ordenamientos de cada institución.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 145.
+La Secretaría podrá otorgar permisos, autorizaciones y acreditaciones a fabricantes, distribuidores, importadores y talleres, para el servicio de diagnóstico, reparación, comercialización e instalación de dispositivos y equipos de reducción de emisiones contaminantes y de sistemas de gas, conforme a las convocatorias que al efecto emita, en las que se incluyan las condiciones y características a que deba sujetarse su actividad.
 
-En el caso de que los integrantes del Cuerpo de la Policía Estatal aseguren armas o municiones, lo comunicarán de inmediato a su superior jerárquico quien hará lo propio para el registro correspondiente y las pondrán a disposición de las autoridades competentes, en los términos de la Ley Federal de Armas de Fuego y Explosivos.
+###### ARTÍCULO 146.
 
-###### Artículo 146.
+Los vehículos que transporten en el Distrito Federal materiales o residuos peligrosos, deberán cumplir con los requisitos y condiciones establecidos en esta Ley y las demás disposiciones aplicables.
 
-La Secretaría autorizará y expedirá el formato único para la credencial de identificación del personal de las instituciones Policiales, amparados bajo la Licencia Oficial Colectiva Número 110, que deberá contener al menos nombre, cargo, fotografía, huella digital e inscripción en el Registro de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Todo servidor público tiene la obligación de identificarse salvo los casos previstos en la Ley, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
+###### ARTÍCULO 147.
 
-El Reglamento que al efecto se expida establecerá la instancia, mecanismos y procedimientos de supervisión administración y control del armamento oficial.
+Los vehículos matriculados en el Distrito Federal, así como de servicio público de transporte de pasajeros o carga que requieran de sistemas, dispositivos y equipos para prevenir o minimizar sus emisiones contaminantes, lo harán conforme a las características o especificaciones que determine la Secretaría.
 
-###### Artículo 147.
+###### ARTÍCULO 148.
 
-El uso de la fuerza pública se hará de manera racional, congruente, oportuna, y con respeto a los derechos humanos, apegándose a las disposiciones normativas y administrativas aplicables.
+La Secretaría, en coordinación con la Secretaría de Transporte y Vialidad, deberá publicar en la Gaceta Oficial las determinaciones referidas en el artículo anterior.
 
-###### Artículo 148.
+Los conductores y los propietarios de los vehículos serán solidariamente responsables del cumplimiento de lo establecido en el párrafo anterior.
 
-El uso de la fuerza de los integrantes de las instituciones de seguridad pública se regirá por los principios siguientes:
+###### ARTÍCULO 149.
 
-I. Legalidad: Regir su actuación a lo que la Ley u otras disposiciones jurídicas le faculte, garantizando que el Uso de la Fuerza esté dirigido a lograr un objetivo legítimo;
-
-II. Necesidad: Emplear el Uso de la Fuerza sólo cuando sea estrictamente indispensable e inevitable, para tutelar la vida e integridad de las personas o el objetivo legítimo que se busca, privilegiando de conformidad con las circunstancias del caso, los niveles del Uso de la Fuerza relacionados con la presencia policial y la verbalización, y
-
-III. Proporcionalidad: Hacer Uso de la Fuerza de manera adecuada y en la medida acorde a la agresión recibida o la resistencia encontrada y el peligro existente, aplicando un criterio de uso diferenciado y progresivo de la fuerza atendiendo a su intensidad, duración y magnitud.
-
-En el Uso de la Fuerza, los integrantes de las instituciones de seguridad pública deberán procurar causar el mínimo daño que sea posible o previsible, preservando la vida humana e integridad personal, ponderando la propia, la de terceros y la de quienes se consideren como destinatarios o sujetos de la misma, incluso ante el Uso de la Fuerza potencialmente letal.
-
-En el reglamento que se expida se desarrollará el procedimiento de uso de la fuerza pública.
-
-## Título Octavo. Instalaciones Estratégicas
-
-###### Artículo 149.
-
-Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, la Constitución Estatal, así como de aquellas acciones que tiendan a mantener la integridad, estabilidad, viabilidad, permanencia y desarrollo de la sociedad y del Gobierno del Estado en términos de la Ley General.
+Para prevenir y reducir la emisión de contaminantes a la atmósfera, la Secretaría promoverá ante las autoridades competentes, programas de ordenamiento vial y de agilización del transito vehicular.
 
 #### SECCIÓN IV. REGULACIÓN DE QUEMAS A CIELO ABIERTO
 
-###### Artículo 150.
+###### ARTÍCULO 150.
 
-Las autoridades competentes coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas estatales y federales para garantizar su integridad y operación.
+Queda prohibida la quema de cualquier tipo de material o residuo sólido o líquido a cielo abierto salvo en los siguientes casos y previo aviso a la Secretaría:
+
+I. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
+
+II. Cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias; y
+
+III. En caso de quemas agrícolas, cuando medie autorización de alguna autoridad forestal o agropecuaria.
+
+La Secretaría establecerá las condicionantes y medidas de seguridad que deberán de observarse.
 
 #### SECCIÓN V. DE LA CONTAMINACIÓN TÉRMICA, VISUAL Y LA GENERADA POR RUIDO, OLORES, VAPORES Y FUENTES LUMINOSAS
 
-###### Artículo 151.
+###### ARTÍCULO 151.
 
-El resguardo de las instalaciones estratégicas estatales queda a cargo del Estado, por conducto de la Secretaría, que se coordinará con las Instituciones de Seguridad Pública correspondientes por razón del territorio en el ejercicio de esta función, las cuales garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
+Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, lumínica, gases, olores y vapores, así como la contaminación visual que rebasen las normas oficiales mexicanas y las normas ambientales para el Distrito Federal correspondientes. La Secretaría, en coordinación con las demarcaciones territoriales del Distrito Federal, adoptarán las medidas necesarias para cumplir estas disposiciones, e impondrán las sanciones necesarias en caso de incumplimiento.
 
-### Capítulo VI. Registro Estatal de Armamento, Municiones y Equipo
+Los propietarios de fuentes que generen cualquiera de estos contaminantes, están obligados a instalar mecanismos para recuperación y disminución de vapores, olores, ruido, energía y gases o a retirar los elementos que generan contaminación visual.
 
-###### Artículo 152.
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
-El Consejo Estatal establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios del Estado o cualquiera que sea su denominación.
+###### ARTÍCULO 152.
 
-Las decisiones que en ese sentido emita el Consejo Estatal, deberán ser ejecutadas por las distintas Instituciones de seguridad pública que lo integran.
+Las disposiciones contenidas en el presente capítulo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de aguas y a los sistemas de drenaje y alcantarillado en el Distrito Federal.
 
-## Título Noveno. Servicios auxiliares de la seguridad pública
+###### ARTÍCULO 153.
 
-###### Artículo 153.
+Para la prevención y control de la contaminación del agua se considerarán los siguientes criterios:
 
-La función de seguridad pública no podrá ser objeto de concesión a particulares. El Estado y los Municipios en el ámbito de su competencia, podrán prestar el servicio de seguridad a personas o instituciones, previo el pago de los derechos correspondientes, y en base a las modalidades y características que se deriven de la Ley.
+I. La prevención y control de la contaminación del agua, es fundamental para evitar que se reduzca su disponibilidad y para proteger los ecosistemas del Distrito Federal;
 
-###### Artículo 154.
+II. Corresponde al Gobierno y a la sociedad prevenir la contaminación de los cuerpos de agua, incluyendo las aguas del subsuelo;
 
-El Estado y los municipios, cada uno en el ámbito de su competencia, podrán contar con instituciones, unidades o agrupamientos de policía auxiliar descentralizados, con personalidad jurídica y patrimonio propios, para la prestación de servicios de seguridad, custodia, traslado de valores, protección y vigilancia de personas, así como aquellas que produzcan bienes y servicios que contribuyan a la generación de riqueza para el Estado.
+III. El aprovechamiento del agua conlleva la responsabilidad del tratamiento de las descargas, en condiciones adecuadas para su reutilización;
 
-El Estado regulará y controlará el servicio de seguridad armado que, en su caso, presten los Municipios; así como impulsar la homologación del equipamiento y procedimientos derivados de la prestación del servicio.
+IV. Las aguas residuales deben recibir tratamiento previo a su descarga en ríos, cuencas, vasos, y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo; y
 
-###### Artículo 155.
+V. La participación y corresponsabilidad de la sociedad y los medios de comunicación, es condición indispensable para evitar la contaminación del agua.
 
-Por la prestación de los servicios de seguridad de los organismos de policía auxiliar del Estado o los Municipios, se cubrirán los derechos correspondientes, cuyo monto será determinado en las disposiciones aplicables.
+###### ARTÍCULO 154.
 
-###### Artículo 156.
+Los criterios para la prevención y control de la contaminación del agua deberán considerarse en:
 
-Los ingresos que perciban el Estado y los Municipios por los derechos a que se refiere el artículo anterior, serán destinados exclusivamente a la administración, adquisición, conservación, mantenimiento de armamento, equipo, vehículos y demás de naturaleza similar, necesarios para la adecuada y eficaz prestación del servicio de seguridad.
+I. La expedición de normas ambientales del Distrito Federal para el uso tratamiento y disposición de aguas residuales, para evitar riesgos y daños a la salud y el ambiente;
 
-###### Artículo 157.
+II. El otorgamiento de concesiones, permisos, licencias de construcción y de uso de suelo, y en general toda clase de autorizaciones para el aprovechamiento de agua y las descargas de agua residual;
 
-Las Secretarías de Seguridad Pública del Estado, de Finanzas y Administración, de Contraloría y Transparencia Gubernamental del Estado, en el ámbito de sus respectivas competencias, establecerán sistemas y mecanismos administrativos, presupuestarios y de control, para que los ingresos se destinen con transparencia a los fines establecidos en el artículo anterior. Esta misma disposición observaran los Municipios de acuerdo con sus órganos de administración y control interno de los recursos.
+III. El diseño y operación de sistemas de agua potable, alcantarillado y tratamiento de agua residual; y
 
-###### Artículo 158.
+IV. La restricción o suspensión de explotaciones y aprovechamientos en casos de contaminación de las fuentes de abastecimiento.
 
-La policía rural como auxiliar de la seguridad pública estatal, tendrá por objeto mantener la seguridad, tranquilidad y el orden público en las comunidades de los Municipios en que funcione y opere.
+###### ARTÍCULO 155.
 
-Las acciones y el actuar de la policía rural y sus integrantes serán con estricto apego a los principios constitucionales de legalidad y eficiencia; por lo que deberán observar una conducta ejemplar y honrada, con pleno respeto a los derechos humanos.
+Las atribuciones de la Secretaría en materia de manejo y disposición de aguas residuales son las siguientes:
 
-La policía rural quedará integrada por los agrupamientos que incorporen a miembros de su propia comunidad, con sentido de pertenencia e identidad de zona o región, para la prestación del servicio de seguridad pública, el cual formará parte de la Policía Estatal; su organización, dirección, funcionamiento y actuación se regirá conforme a esta Ley y demás disposiciones aplicables en la materia.
+I. Prevenir y controlar la contaminación por aguas residuales;
 
-###### Artículo 159.
+II. Integrar y mantener actualizado el inventario de descargas de aguas residuales domésticas e industriales;
 
-El Sistema de Seguridad Comunitario Indígena, es un sistema auxiliar de las autoridades en materia de Seguridad Pública Estatal que contribuirá al mantenimiento del orden público y a la conservación de la paz social y actuará en el marco del Sistema Normativo Indígena, entendido éste como el conjunto de normas jurídicas orales y escritas de carácter consuetudinario, que los pueblos y comunidades indígenas reconocen como válidas y utilizan para regular sus actos públicos, organización y actividades; y sus autoridades aplican para la solución de sus conflictos, de acuerdo con el pacto federal y la soberanía de los estados, que se regula en la Ley de la materia.
+III. Vigilar que las descargas cumplan con la normatividad vigente en cantidad y calidad, esto en coordinación con las autoridades vinculadas;
 
-###### Artículo 160.
+IV. Determinar y promover el uso de plantas de tratamiento, fuentes de energía, sistemas y equipos para prevenir y reducir al mínimo las emisiones contaminantes en el Distrito Federal, así como fomentar el cambio a tecnologías compatibles con el ambiente;
 
-El Sistema de Seguridad Comunitario Indígena, estará integrado por:
+V. Verificar el cumplimiento de las normas aplicables, así como establecer condiciones particulares de descarga de aguas residuales; y
 
-I. Una Asamblea de Autoridades Comunitarias, que se integrará en cada una de las comunidades indígenas, como órgano fundamental del Sistema, que se integra por las autoridades tradicionales o mujeres y hombres de mayor edad y experiencia que tendrá por objetivo garantizar el buen funcionamiento y cumplimiento de las normas que rigen el sistema; y
+VI. Establecer y aplicar las medidas necesarias para prevenir y reducir al mínimo las emisiones de descargas contaminantes, así como las que le corresponden para prevenir y controlar la contaminación del agua superficial y cuerpos receptores.
 
-II. Comité de la Policía Comunitaria Indígena, que se integrará de acuerdo a las necesidades de cada comunidad y se constituye como el órgano de dirección y organización operativa que, previo acuerdo y autorización de la Asamblea, ejecuta las acciones de prevención del delito, vigilancia, auxilio y protección de los pueblos y comunidades indígenas e integrará el registro a que se refiere el artículo 165 fracción IV de esta Ley.
+###### ARTÍCULO 156.
 
-###### Artículo 161.
+Queda prohibido descargar aguas residuales en cualquier cuerpo o corriente de agua.
 
-La Asamblea de Autoridades Comunitarias nombrará, previa convocatoria, un Coordinador de Relaciones con el Sistema Estatal de Seguridad Pública, que como mínimo cumplirá con los requisitos siguientes:
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-a). Ser indígena, esto es, descendiente de poblaciones que habitaban el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas o parte de ellas;
+###### ARTÍCULO 157.
 
-b). Ser originario de la comunidad y tener una residencia mínima de cinco años; y
+Las fuentes que descarguen aguas residuales distintas a las domésticas, deberán tramitar la Licencia Ambiental Única para el Distrito Federal.
 
-c). Los demás requisitos que establezca la Asamblea en la convocatoria.
+###### ARTÍCULO 158.
 
-Será el representante del Sistema de Seguridad Comunitario Indígena, ante las autoridades estatales y municipales en materia de seguridad durará 2 años en la encomienda.
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-###### Artículo 162.
+###### ARTÍCULO 159.
 
-El Coordinador de Relaciones con el Sistema Estatal de Seguridad Pública, tendrá colaboración y coordinación permanente con la Secretaría de Seguridad Pública Estatal, como Coordinadora Global del Sistema Estatal de Seguridad Pública, en temas de capacitación, asesoramiento, organización e intercambio de información de los integrantes de la Policía Comunitaria Indígena; incidencia delictiva, aseguramientos y decomisos, así como cualquier otra información relacionada en materia de seguridad pública estatal y municipal.
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-### Capítulo VII. Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE ABRIL DE 2011)</small>
 
-###### Artículo 163.
+###### ARTÍCULO 160.
 
-La Policía Comunitaria Indígena, es una organización auxiliar de la seguridad pública estatal y municipal y funcionará únicamente en los pueblos y comunidades indígena (sic), de conformidad con sus sistemas normativos internos.
+Se exceptúa de la obligación de presentar los estudios de aguas residuales a través de la Licencia Ambiental Única para el Distrito Federal a las descargas provenientes de los siguientes usos:
 
-###### Artículo 164.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-La Policía Comunitaria Indígena, se conformará de acuerdo a las Bases Generales siguientes:
+I. Domésticos, siempre y cuando no se relacionen con otras actividades industriales, de servicios, de espectáculos o comerciales, dentro del predio del establecimiento;
 
-I. Se reconocerá como indígena a los pueblos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conserven sus propias instituciones sociales, económicas, culturales, y políticas o partes de ella, de conformidad con la Constitución Federal y la Ley de la materia;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Se conformará y organizará de acuerdo con sus usos y costumbres, sin contravenir lo establecido en la Constitución Federal, Constitución Estatal y demás leyes federales, estatales y municipales;
+II. Servicios análogos a los de tipo doméstico, que determine la norma correspondiente, siempre y cuando se demuestre cumplir con lo establecido en las normas oficiales mexicanas y normas ambientales para el Distrito Federal, y
 
-III. Los integrantes y representantes de la policía, se designarán en asamblea;
+III. Aquellos que determinen las normas ambientales para el Distrito Federal.
 
-IV. Las personas que no tengan el carácter de indígena, aun cuando residan en dichas comunidades, no formarán parte de dicha policía;
+###### ARTÍCULO 161.
 
-V. El servicio que presten los integrantes y representantes de la policía será honorífico, voluntario, gratuito y podrá objetarse conciencia para su ejercicio;
+Cuando alguna descarga al sistema de drenaje, a pesar del cumplimiento de los límites establecidos en las normas oficiales, cause efectos negativos en las plantas de tratamiento de aguas residuales del Distrito Federal o en la calidad que éstas deben cumplir antes de su vertido a cuerpos receptores, la Secretaría podrá fijar condiciones particulares de descarga en las que fije límites más estrictos.
 
-VI. Tendrá una organización de acuerdo a sus usos y costumbres y de conformidad con el ordenamiento jurídico estatal;
+###### ARTÍCULO 162.
 
-VII. Su actuación se regirá por los principios constitucionales de legalidad, objetividad, eficiencia, honradez, además del respeto a los derechos humanos, a la no discriminación; a la igualdad, certeza, objetividad e imparcialidad; con sujeción a los usos y costumbres que aseguren la unidad nacional enmarcados en la ley;
+La Secretaría establecerá y operará un sistema de monitoreo de las aguas residuales en el Distrito Federal.
 
-VIII. La adquisición, portación, conservación, y el uso de las armas, se sujetará al artículo 10 de la Constitución Federal;
+### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
-IX. Su domicilio será acreditable en los pueblos o comunidades indígenas que determinen sus asambleas comunitarias; y
+###### ARTÍCULO 163.
 
-X. Las demás Bases que prevea el reglamento de la presente Ley.
+Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
 
-###### Artículo 165.
+I. Corresponde al Gobierno y a la sociedad prevenir la contaminación del suelo;
 
-La Policía Comunitaria Indígena para la prevención y solución de conflictos al interior de las comunidades y pueblos indígenas reconocidos, colaborará en el ámbito de su comunidad, en las acciones siguientes:
+II. Deben ser controlados los residuos que constituyan la principal fuente de contaminación de los suelos;
 
-I. Orientar y prestar los servicios de prevención del delito, vigilancia, auxilio y protección a los habitantes que residan dentro de su comunidad;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Auxiliar y actuar en apoyo a las instituciones de seguridad pública federal, estatal o municipal dentro de su comunidad;
+III. Es necesario prevenir y reducir la generación de residuos, incorporando técnicas, ecotecnias y procedimientos para su reuso y reciclaje;
 
-III. Colaborar y auxiliar a la autoridad de procuración e impartición de justicia, cuando sean requeridos en términos de ley;
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-IV. Llevar un registro actualizado de identificación, ubicación, domicilio y región de los miembros de la policía, de conformidad de las Leyes Federal y Estatal de Transparencia y Acceso a la Información Pública y la de Protección de Datos Personales del Estado de Guerrero;
+IV. La regulación ambiental por parte de la Secretaría instrumentará los sistemas de agricultura orgánica, que protejan los suelos, mantos friáticos y la producción agropecuaria, mediante el uso de abonos orgánicos;
 
-V. Aplicar los sistemas normativos al interior de cada comunidad, respetando los derechos humanos y de manera relevante la dignidad e integridad de las mujeres;
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-VI. Solo en caso de flagrancia de probables responsables de algún delito, deberá ponerlos inmediatamente a disposición de las autoridades competentes con estricto cumplimiento de los plazos legalmente establecidos; y
+V. En el Suelo de Conservación del Distrito Federal, queda prohibido el uso de agroquímicos, fertilizantes nitrogenados, fertilizantes químicos, herbicidas, insecticidas y pesticidas que contaminen el suelo y que afecten la flora, fauna y la salud;
 
-VII. Llevar un registro de las personas que fueran sujetas a la aplicación del sistema normativo.
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-###### Artículo 166.
+VI. Promover y fomentar la instrumentación de sistema de agricultura, que no degraden ni contaminen;
 
-La actuación de la Policía Comunitaria Indígena, por su propia naturaleza y características, no generará ninguna relación y obligación laboral, ni podrá considerarse a ninguna autoridad como patrón, por considerarse gratuita y constituir una tarea en beneficio de su comunidad.
+VII. En los suelos contaminados, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones.
 
-###### Artículo 167.
+###### ARTÍCULO 164.
 
-El Estado podrá autorizar a particulares la prestación de servicios de seguridad privada, siempre que se satisfagan los requisitos determinados por las leyes aplicables y lo requiera el interés general. Los servicios de seguridad privada, consisten en la protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado, interior y exterior; instalación, operación de sistemas y equipo de seguridad; aportar datos para la investigación de delitos, y apoyar en caso de siniestros y desastres, en su carácter de auxiliares en la función de seguridad pública, por parte de empresas particulares o personas físicas o morales autorizadas en términos de lo establecido por esta Ley, el reglamento respectivo y demás leyes aplicables.
+Los criterios para la prevención y control de la contaminación del suelo deberán considerarse en:
 
-###### Artículo 168.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Las personas físicas o morales, prestadores de los servicios de seguridad privada y todos aquellos que realicen funciones relacionadas con la seguridad pública, son auxiliares de la seguridad pública, quedando sujetos a los principios de actuación previstos en la presente Ley y en los términos y modalidades que se señalen en el reglamento que al efecto se expida; coadyuvarán en situaciones de urgencia y desastre, cuando así se les requiera por las autoridades de seguridad pública estatal o municipal.
+I. La expedición de normas para el funcionamiento de los sistemas de recolección, almacenamiento, transporte, acopio, alojamiento, reuso, tratamiento y disposición final de residuos sólidos, a fin de evitar riesgos y daños a la salud y al ambiente;
+
+II. La ordenación y regulación del desarrollo urbano, turístico, industrial y agropecuario;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+III. La generación, manejo, tratamiento y disposición final de residuos, así como en las autorizaciones y permisos que al efecto se otorguen;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+IV. La autorización y operación de los sistemas de recolección, almacenamiento, transporte, acopio, alojamiento, reuso, tratamiento y disposición final de residuos sólidos peligrosos; y
+
+V. El otorgamiento de todo tipo de autorizaciones para la fabricación, comercialización, utilización y en general la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas.
+
+###### ARTÍCULO 165.
+
+Las autoridades del Distrito Federal que tengan a su cargo la promoción y el fomento de las actividades agropecuarias vigilarán que en la aplicación y empleo de plaguicidas, fertilizantes o sustancias tóxicas, no se provoque degradación, pérdida o contaminación del suelo y así evitar daños a los seres humanos y al ambiente.
+
+###### ARTÍCULO 166.
+
+Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo y de los mantos acuíferos, la Secretaría, con la participación de la sociedad, fomentará y desarrollará programas y actividades para la minimización, separación, reuso y reciclaje de residuos sólidos, industriales no peligrosos y peligrosos.
+
+###### ARTÍCULO 167.
+
+Quienes realicen obras o proyectos que contaminen o degraden los suelos o desarrollen actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, están obligados a:
+
+I. Instrumentar prácticas y aplicar tecnologías o ecotecnias que eviten los impactos ambientales negativos;
+
+II. Cumplir con las normas oficiales mexicanas y normas ambientales del Distrito Federal que al efecto se expidan; y
+
+III. Restaurar las áreas utilizadas una vez concluidos los trabajos respectivos.
+
+###### ARTÍCULO 168.
+
+Quienes realicen obras o actividades en las que se generen residuos de construcción deben presentar un informe a la Secretaría sobre el destino que le darán a dicho material. El cumplimiento de esta obligación debe ser considerado por las autoridades competentes en la expedición de las autorizaciones para el inicio de la obra respectiva.
 
 #### SECCIÓN I. RESIDUOS NO PELIGROSOS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 169.
+###### ARTÍCULO 169.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos y la Ley General, los particulares, personas físicas o morales que presten servicios de seguridad privada en el interior o exterior de los establecimientos comerciales, públicos o privados, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o sistemas de alarma; así como de servicios de seguridad interna al sector turístico, deberán obtener la autorización de la Secretaría, para prestar sus servicios.
+Durante las diferentes etapas del manejo de residuos sólidos, se prohíbe:
 
-Corresponde al Estado la autorización de este servicio cuando la empresa que lo presta opere dentro de sus límites; sin perjuicio del cumplimiento de las demás exigencias legales aplicables. Así mismo, deberán cumplir con la autorización y refrendo de los permisos para la prestación de los servicios de seguridad privada que se presten sólo en el Estado.
+I. El depósito o confinamiento en sitios no autorizados;
 
-###### Artículo 170.
+II. El fomento o creación de basureros clandestinos;
 
-Los integrantes de los agrupamientos de seguridad privada, no forman parte del Cuerpo de la Policía Estatal, por lo tanto, no existirá vínculo que se derive de la relación de prestación del servicio o de naturaleza similar con el Estado o los Municipios; sin perjuicio de regirse en lo conducente, por las normas que esta Ley y la Ley General establecen, para las instituciones de seguridad, incluyendo los principios de actuación y desempeño.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 171.
+III. El depósito o confinamiento de residuos sólidos en suelo de conservación ecológica o áreas naturales protegidas;
 
-Las personas que presten servicios de seguridad privada, serán responsables de las obligaciones que se deriven de la relación de prestación del servicio que exista con el personal que contraten, así como de las que deriven de la relación laboral que tengan con el personal contratado para la prestación de los servicios, de conformidad con las disposiciones legales aplicables.
+IV. La quema de dichos residuos sin los mecanismos de prevención de generación de contaminantes adecuados, ni de su autorización;
 
-###### Artículo 172.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen se regirán por esta Ley y las demás disposiciones jurídicas aplicables para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de proporcionar los datos para el sistema de información y así obtener la Clave Única de Identificación Policial de su personal, armamento y equipo, y en general, proporcionar la información estadística y sobre la delincuencia, al Centro del Sistema Estatal de Información Policial.
+V. La dilución o mezcla de residuos sólidos o peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado o sobre los suelos con o sin cubierta vegetal;
 
-Las empresas privadas que presten el servicio de seguridad, tendrán la obligación de someter a su personal a los procedimientos de evaluación y control de confianza establecidos en esta Ley; la contravención a lo anterior, dará lugar a la cancelación de la autorización con difusión pública.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-En caso de que el personal de seguridad privada no acredite los procesos de evaluación y control de confianza, la empresa deberá separarlos del servicio conforme a la legislación aplicable.
+VI. La mezcla de residuos peligrosos con residuos sólidos;
 
-###### Artículo 173.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Los servicios de seguridad privada sólo podrán ser prestados por ciudadanos mexicanos y personas jurídicas colectivas, con cláusula de exclusión de extranjeros.
+VII. El transporte inadecuado de residuos sólidos; y
 
-Ningún servidor público en activo que pertenezca al Cuerpo de la Policía Estatal o a las Instituciones de Seguridad Pública, podrá ser socio, propietario, administrador, comisionista, empleado de una empresa o grupo que preste servicios de seguridad privada. La contravención a lo dispuesto será motivo para revocar la autorización respectiva.
+VIII. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales para el Distrito Federal.
 
-###### Artículo 174.
+La mezcla de residuos no peligrosos con peligrosos, se considerará como un residuo peligroso.
 
-Corresponde a la Secretaría, autorizar, controlar y regular la prestación de los servicios de seguridad privada, conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 170.
+
+Es responsabilidad de la Secretaría elaborar programas para reducir la generación de residuos.
+
+La generación, la separación, el acopio, el almacenamiento, transporte y disposición final de los residuos sólidos, estarán sujetas al Reglamento de esta Ley y a la normatividad correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 171.
+
+En materia de residuos sólidos, corresponde a la Secretaría:
+
+I. Expedir normas ambientales para el Distrito Federal en materia de generación y manejo;
+
+II. (DEROGADA, G.O. 10 DE FEBRERO DE 2004)
+
+III. Inspeccionar y vigilar el cumplimiento de esta ley, su reglamento, las normas oficiales mexicanas y las normas ambientales para el Distrito Federal en materia de generación y manejo, y en su caso imponer las sanciones que correspondan; y
+
+IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la generación, manejo, tratamiento y disposición final.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 172.
+
+Para la obtención de la autorización como generador de residuos sólidos, los interesados deberán presentar la solicitud de Licencia Ambiental Única para el Distrito Federal ante la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 173.
+
+Cuando la generación, manejo y disposición final de residuos sólidos produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
+
+I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo; y
+
+II. En caso de que la recuperación y restablecimiento no sean factibles, a indemnizar los daños causados de conformidad con la legislación civil aplicable.
+
+La responsabilidad a que se refiere este precepto es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
+
+Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios de manejo, transporte y disposición final de los residuos sólidos e industriales no peligrosos.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 174.
+
+Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con lo que establezca la normatividad correspondiente.
 
 #### SECCIÓN II. REGLAS COMPLEMENTARIAS EN MATERIA DE RESIDUOS PELIGROSOS
 
-###### Artículo 175.
+###### ARTÍCULO 175.
 
-La Secretaría podrá negar, suspender o revocar total o parcialmente una autorización, cuando a su juicio se contravengan el orden y el interés público o cuando el particular autorizado haya incumplido las obligaciones que le impone esta Ley o la autorización respectiva.
+Para la protección al ambiente, con motivo de la operación de sistemas destinados al manejo de materiales y residuos peligrosos, el reglamento de esta Ley y las normas ambientales del Distrito Federal podrán establecer medidas o restricciones complementarias a las que emita la Federación, en los siguientes aspectos:
 
-La resolución de negativa, suspensión o revocación no admitirá recurso administrativo alguno.
+I. Generación, manejo y disposición final de residuos de baja peligrosidad;
 
-La autorización para la prestación de servicios de seguridad privada, su negativa, renovación, suspensión o revocación será publicada en el Periódico Oficial del Gobierno del Estado, dentro de los diez días del mes siguiente a aquél en que se dicte la resolución respectiva.
+II. Características de las edificaciones que alberguen dichas instalaciones;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+
+III. Tránsito dentro de las zonas urbanas, rurales y centros de población;
+
+IV. Aquellas necesarias para evitar o prevenir contingencias ambientales; y
+
+V. Detección de residuos peligrosos en el ejercicio de atribuciones correspondientes a la Secretaría.
+
+La vigilancia y aplicación de dichas medidas o restricciones corresponderá a la Secretaría, en el ámbito de competencia determinado por la Ley General, y de conformidad con lo previsto en la presente Ley.
+
+En caso de que se detecten irregularidades o violaciones en el manejo de los residuos peligrosos competencia de la Federación, la Secretaría levantará el acta respectiva, ordenará las medidas de seguridad y restauración inmediatamente enviará el expediente a la instancia correspondiente, independientemente de atender la situación de contingencia.
 
 #### SECCIÓN III. ACTIVIDADES RIESGOSAS
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 176.
+###### ARTÍCULO 176.
 
-La persona física o colectiva que pretenda prestar los servicios de seguridad privada regulados por la Ley, presentará solicitud por escrito ante la Secretaría, que contendrá:
+El reglamento de esta Ley y las normas ambientales para el Distrito Federal, establecerán la clasificación de las actividades que deban considerarse riesgosas, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento, así como los casos en los que por las sustancias que maneje el establecimiento, deba tramitar su Licencia Ambiental Única para el Distrito Federal.
 
-I. Nombre o denominación social;
+Para el establecimiento de esta clasificación, se deberá considerar la opinión de las autoridades competentes.
 
-II. Objeto social;
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-III. Nombre del representante legal, en su caso;
+###### ARTÍCULO 177.
 
-IV. Domicilio legal y croquis de localización;
+Quienes realicen actividades riesgosas, que por sus características no estén sujetas a la obtención de la autorización previa en materia de impacto ambiental deberán presentar para la autorización de la Secretaría, a través de escrito con firma autógrafa o por medios electrónicos autorizados un estudio de riesgo y un programa de prevención de accidentes.
 
-V. Ámbito territorial de la prestación del servicio;
+Una vez autorizado el estudio de riesgo, el interesado deberá presentar en la misma forma el programa de prevención de accidentes ante la Secretaría, quien deberá resolver sobre su autorización en los plazos que establezca el Reglamento correspondiente a la materia.
 
-VI. Descripción de los servicios de seguridad materia de la solicitud; y
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VII. Los demás requisitos que señale el reglamento respectivo.
+###### ARTÍCULO 178.
 
-El solicitante deberá exhibir los documentos públicos y privados que acrediten el cumplimiento de los requisitos establecidos en la Ley y demás disposiciones aplicables.
+Sin perjuicio de lo dispuesto en la presente Ley en materia de evaluación de impacto ambiental y riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas establecidas en las normas oficiales o determinadas por las autoridades competentes conforme a la ley de Protección Civil para el Distrito Federal y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
 
-###### Artículo 177.
+###### ARTÍCULO 179.
 
-La autorización que otorgue la Secretaría, será intransferible y tendrá una vigencia de cinco años, debiendo ser refrendada anualmente, presentando previa solicitud por escrito treinta días hábiles antes de la fecha de su vencimiento, acreditándose el cumplimiento de las obligaciones contenidas en la autorización y los requisitos establecidos en esta Ley.
+La Administración Pública del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal las medidas señaladas en el artículo precedente y las difundirá a través de los medios conducentes.
 
-###### Artículo 178.
+###### ARTÍCULO 180.
 
-Las personas que prestan servicios de seguridad privada en el Estado de Guerrero, y en otras entidades federativas, deberán observar lo dispuesto por la Ley General, los convenios y acuerdos de coordinación que al efecto se celebren.
+Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde a la Secretaría:
 
-Los particulares que presten el servicio de seguridad privada, con la autorización Federal, deberán además cumplir con los requisitos previstos en esta Ley.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-###### Artículo 179.
+I. Evaluar y, en su caso aprobar, los estudios de riesgo ambiental;
 
-Corresponde a la Secretaría, supervisar permanentemente al personal, instalaciones, equipo y operaciones de los cuerpos de servicios de seguridad privada, a efecto de que éstos cumplan con lo previsto en la presente Ley y el reglamento respectivo.
+II. Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
 
-###### Artículo 180.
+III. Promover ante los responsables de la realización de las actividades riesgosas, la aplicación de la mejor tecnología disponible para evitar y minimizar los riesgos ambientales; y
 
-La Secretaría, sancionará a las personas físicas o colectivas que presten servicios de seguridad privada, cuando incurran en las infracciones que señale el reglamento respectivo, sin perjuicio de la sanción a que se hagan acreedores conforme al reglamento de disciplina interna de la institución policial a que pertenezcan.
+IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales.
 
-###### Artículo 181.
+###### ARTÍCULO 181.
 
-Los prestadores de servicios de seguridad privada, tendrán la obligación de actuar conforme a lo dispuesto en la Ley, el reglamento respectivo y demás disposiciones jurídicas aplicables en la materia; de no hacerlo, serán sancionados con la cancelación de la autorización o licencia respectiva.
+Las Delegaciones propondrán que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios que de conformidad con esta Ley o con la Ley General sean considerados riesgosas o altamente riesgosas, por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente, tomando en consideración:
 
-El procedimiento, las sanciones y los supuestos para su aplicación, se determinarán en el reglamento que al respecto se expida.
+I. Las condiciones topográficas, meteorológicas, climatológicas, geológicas y sísmicas de las zonas;
 
-## Título Décimo. Recursos financieros para la Seguridad Pública
+II. Su ubicación y proximidad a centros de población, previniendo las tendencias de expansión del respectivo asentamiento y la creación de nuevos asentamientos;
+
+III. Los impactos que tendría un posible evento extraordinario de la industria, comercio o servicio de que se trate sobre los centros de población y sobre los recursos naturales;
+
+IV. La compatibilidad con otras actividades de las zonas;
+
+V. La infraestructura existente y necesaria para la atención de emergencias ecológicas; y
+
+VI. La infraestructura para la dotación de servicios básicos.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 181 Bis.
 
 La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimiento de zonas intermedias de salvaguarda, con el objeto de prevenir y controlar el riesgo ambiental que puedan ocasionar las industrias, comercios y servicios que realicen actividades riesgosas en el territorio del Distrito Federal.
 
-### Capítulo I. Licencia Oficial Colectiva Número 110
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
 
-###### Artículo 182.
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
-El Gobierno del Estado y de los Municipios, en cada ejercicio fiscal deberán garantizar de manera prioritaria las partidas presupuestales necesarias para la operatividad del Sistema Estatal y el cumplimiento de políticas, planes, programas y acciones en materia de seguridad pública, en base a una planeación integral y a las necesidades específicas que se identifiquen. El monto del presupuesto financiero que anualmente se apruebe, en ninguna circunstancia podrá ser menor al ejercido en el año anterior.
+###### ARTÍCULO 182.
 
-Para atender funciones y actividades emergentes o extraordinarias en materia de seguridad pública que por su gravedad y urgencia se requiera atender de manera inmediata, en el ámbito de sus respectivas competencias, adoptarán acciones y mecanismos de financiamiento con arreglo a la Ley, pudiendo celebrar los convenios necesarios para tal efecto.
+La Secretaría emitirá Programas de Contingencia Ambiental en los que se establecerán las condiciones ante las cuales es procedente la determinación de estado de contingencia, así como las medidas aplicables para hacerles frente.
 
-###### Artículo 183.
+###### ARTÍCULO 183.
 
-Los recursos que se programen, presupuesten y aporten a las autoridades del Estado y a los Municipios, así como su ejercicio, control, vigilancia, información, evaluación y fiscalización, estarán sujetos a los ordenamientos legales aplicables y a la presente Ley; asimismo, únicamente podrán ser destinados exclusivamente a los fines de seguridad pública, los cuales quedarán exentos de gravámenes, hipotecas, embargos jurisdiccionales y administrativos; secuestros o embargos precautorios, u otras de cualquier naturaleza que afecte el presupuesto asignado para la seguridad pública.
-
-T R A N S I T O R I O S
-
-PRIMERO. La presente Ley entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Se abroga la Ley Número 281 de Seguridad Pública del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero número 14 de fecha 16 de febrero de 2007.
-
-TERCERO. Una vez que entre en vigor la presente Ley, en un término de 180 días se expedirá el reglamento de la presente Ley.
-
-CUARTO. Se derogan todas aquellas disposiciones relacionadas a la seguridad pública, cuya regulación se prevea en la Ley.
-
-QUINTO. El Secretariado Ejecutivo, en un término de quince días, a partir de la entrada en vigor de la presente Ley, transferirá los recursos humanos, financieros y materiales, asuntos en trámites de la Universidad Policial del Estado; de la Dirección General del Sistema Estatal de Información Policial y de la Dirección General de la Unidad Estatal de Telecomunicaciones a la Secretaría de Seguridad Pública.
-
-SEXTO. Para el cumplimiento de las acciones derivadas por la entrada en vigor de la Ley, el Consejo Estatal, la Secretaría, la Secretaría de Finanzas y Administración y la Secretaria de la Contraloría y Transparencia Gubernamental y los Ayuntamientos en el ámbito de sus respectivas competencias, establecerán y desarrollaran los mecanismos de programación, ejecución e inversión presupuestaria para el cumplimiento de los objetivos y fines de la Ley, conforme a la disponibilidad presupuestal.
-
-SÉPTIMO. Los ayuntamientos municipales, deberán hacer las previsiones presupuestales necesarias para el cumplimiento de la presente Ley, y en un plazo que no exceda de ciento ochenta días a partir de la entrada en vigor de esta Ley, deberán adecuar sus ordenamientos jurídicos a las prescripciones contenidas en la Ley, sin perjuicio de sus facultades constitucionales.
-
-OCTAVO. Las disposiciones legales de otros ordenamientos que beneficien al servicio y personal de seguridad pública conservaran su vigencia, hasta en tanto no se adecuen a la Ley.
-
-NOVENO. Remítase al Titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero, para su conocimiento y efectos legales conducentes.
-
-DÉCIMO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para su conocimiento general.
-
-Dada en el Salón de Sesiones del Honorable Poder Legislativo, a los diecisiete días del mes de agosto del año dos mil dieciocho.
-
-DIPUTADA PRESIDENTA.
-
-ELVA RAMÍREZ VENANCIO.
-
-Rúbrica.
-
-DIPUTADO SECRETARIO.
-
-EUFEMIO CESÁRIO SÁNCHEZ.
-
-Rúbrica.
-
-DIPUTADA SECRETARIA.
-
-BÁRBARA MERCADO ARCE.
-
-Rúbrica.
-
-En cumplimiento a lo dispuesto en los artículos 90 numeral 1 y 91 fracción II de la Constitución Política del Estado Libre y Soberano de Guerrero, promulgo y ordeno la publicación, para su debida observancia, de la LEY NÚMERO 777 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO, en Casa Guerrero, Residencia Oficial del titular del Poder Ejecutivo Estatal, en la ciudad de Chilpancingo de los Bravo, Guerrero, a los veintiún días del mes de agosto del año dos mil dieciocho.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE GUERRERO.
-
-LIC. HÉCTOR ANTONIO ASTUDILLO FLORES.
-
-Rúbrica.
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. FLORENCIO SALAZAR ADAME.
-
-Rúbrica.
-
-EL SUSCRITO LICENCIADO ROGELIO PARRA SILVA, SUBSECRETARIO DE GOBIERNO PARA ASUNTOS JURÍDICOS Y DERECHOS HUMANOS DE LA SECRETARÍA GENERAL DE GOBIERNO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 13 FRACCIÓN XVII Y 14 FRACCION VII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO.
-
-C E R T I F I C A
-
-QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTA DE SESENTA Y CUATRO FOJAS ÚTILES, DEBIDAMENTE FOLIADAS, ENTRESELLADAS Y RUBRICADAS, SON FIEL REPRODUCCIÓN DE SU IMAGEN DIGITAL QUE TUVE A LA VISTA, PERTENECIENTE AL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO, NÚMERO 68 ALCANCE I, AÑO XCIX DE FECHA VEINTICUATRO DE AGOSTO DE DOS MIL DIECIOCHO, EL CUAL OBRA EN LA DIRECCIÓN GENERAL DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUERRERO DEPENDIENTE DE LA SECRETARÍA GENERAL DE GOBIERNO.
-
-SE EXTIENDE LA PRESENTE, PARA LO (SIC) EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS CINCO DÍAS DEL MES DE OCTUBRE DE DOS MIL DIECIOCHO. CONSTE.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 14 DE ABRIL DE 2022.
+Las autoridades competentes declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o al ambiente de acuerdo con las normas ambientales y elementos técnicos aplicables.
 
 ###### ARTÍCULO 184.
 
@@ -3210,31 +3368,51 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### Capítulo II. Uso de la Fuerza Pública
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
-## Título Sexto. Sistema Estatal de Información de Seguridad Pública
+## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### Capítulo Único
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 187.
 
-La Secretaría elaborará una lista de prestadores de servicios de impacto ambiental, para cuyo efecto se consultará a los Colegios de Profesionistas, a las instituciones de investigación y de educación superior.
+La Secretaría elaborará y publicará el padrón de prestadores de servicios de impacto ambiental, para cuyo efecto podrá consultar a los Colegios de Profesionistas, a las instituciones de investigación y de educación superior.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 188.
 
-Los prestadores de servicios de impacto ambiental son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
+Los prestadores de servicios de impacto ambiental son responsables de la calidad, contenido y veracidad de la información, así como del nivel profesional de los informes preventivos, manifestaciones de impacto ambiental en cualquiera de sus modalidades, estudios de riesgo, estudios de daño ambiental, evaluaciones ambientales estratégicas, declaratorias de cumplimiento ambiental, informes de cumplimiento de condicionantes y/o de disposiciones ambientales que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
 
-En caso de incumplimiento a lo establecido en el presente artículo, se aplicarán las sanciones dispuestas en la presente Ley.
+En caso de incumplimiento a lo establecido en el presente artículo, se aplicarán las sanciones dispuestas en la presente Ley y en los demás otros ordenamientos aplicables.
+
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 189.
 
-La Secretaría instrumentará programas de acreditación de prestadores de servicios en coordinación con los Colegios y Asociaciones de Profesionales e instituciones de investigación y de educación superior.
+La Secretaría instrumentará programas de acreditación y/o certificación de prestadores de servicios ambientales en coordinación con los Colegios, Asociaciones de Profesionales, Instituciones de Investigación y de Educación Superior.
 
 ###### ARTÍCULO 190.
 
 En ningún caso podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-### Capítulo I. Policía auxiliar
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 190 Bis.
+
+El Reglamento correspondiente a la materia establecerá los procedimientos de convocatoria, selección, admisión, permanencia, lineamientos de actuación y sanciones de los Prestadores de Servicios Ambientales.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 190 Ter.
+
+La falta de calidad técnica, ética, dolo, mala fe o la falsedad en la información presentada por un Prestador de Servicios Ambientales responsable de la elaboración de cualquier modalidad de los estudios de impacto ambiental, será sancionada conforme a lo previsto en la presente ley y en su Reglamento correspondiente a la materia.
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 191.
 
@@ -3368,15 +3546,19 @@ VII. Prestar sus servicios de conformidad con los contratos autorizados por la S
 
 VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
-### Capítulo II. Policía Rural
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 200.
 
 La Secretaría establecerá los lineamientos y procedimientos para autorizar laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones y reconocimientos que de conformidad con la Ley Federal sobre Metrología y Normalización, hayan obtenido dichos laboratorios.
 
-## Título Séptimo. Licencia Oficial Colectiva Número 110 y del Uso de la Fuerza Pública
+## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### Capítulo III. Sistema de Seguridad Comunitario Indígena
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 201.
 
@@ -3412,7 +3594,9 @@ La Secretaría establecerá y aplicará los sistemas de capacitación y profesio
 
 Con independencia de las medidas de seguridad, correctivas y de urgente aplicación, las sanciones y medidas de apremio que en materia administrativa correspondan, los policías ambientales pondrán a disposición de la autoridad competente a quienes realicen actos u omisiones probablemente constitutivos de delito o infracción administrativa en materia ambiental, que sucedan en suelo urbano y suelo de conservación así como en áreas de valor ambiental y áreas naturales protegidas.
 
-### Capítulo IV. Servicios de Seguridad Privada
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 202.
 
@@ -3572,7 +3756,7 @@ El reglamento conciliará la aplicación de los mecanismos anotados y los proced
 
 Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
-### Capítulo Único. Disposiciones Generales
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 211.
 
@@ -3626,11 +3810,29 @@ IV. Arresto administrativo hasta por treinta y seis horas;
 
 V. Reparación del daño ambiental;
 
-VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción; y
+VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas, contenedores, pipas o autotanques de gas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
 
-VIII. Suspensión temporal o revocación de permisos, licencias, concesiones y/o autorizaciones.
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción;
+
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VIII. Suspensión temporal, anulación o revocación de permisos, licencias, certificaciones, registros, concesiones y/o autorizaciones;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+IX. Compensación del daño ambiental en función del dictamen del daño ambiental que la autoridad ambiental emita, y
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+X. Realización de programas, obras o actividades ambientales a cargo de la Secretaría contenidos en sus programas de trabajo encaminados al rescate y protección de áreas ambientalmente impactadas.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+En todo caso, las sanciones se aplicarán en los términos que disponga el Reglamento correspondiente a la materia.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3642,9 +3844,27 @@ I. Los daños o afectaciones que se hubiesen propiciado o se puedan generar a lo
 
 II. Las condiciones económicas de la persona infractora para determinar que no sea ruinosa o desproporcionada una multa;
 
-III. La reincidencia, si la hubiere; y
+> <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-IV. El cumplimiento o incumplimiento de medidas correctivas o de seguridad.
+III. La reincidencia, si la hubiere;
+
+IV. El cumplimiento o incumplimiento de medidas correctivas o de seguridad;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+V. El monto de la inversión de la obra, proyecto, programa o actividad; así como el importe destinado a la aplicación de medidas de seguridad, prevención, mitigación y/o compensación que no se hubieran cumplido;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VI. Las ganancias o beneficios obtenidos con la operación de una obra proyecto, programa o actividad de manera clandestina y de aquellas que operan sin contar con la autorización, permiso, licencia o registro correspondiente;
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VII. La veracidad o falsedad, dolo o mala fe con que se conduzca el interesado o prestador de servicios ambientales o el error al que haya inducido o pretenda inducir a la autoridad para obtener un beneficio o ganancia indebida; y
+
+> <small>(ADICIONADA, G.O. 7 DE ABRIL DE 2011)</small>
+
+VIII. El cumplimiento o incumplimiento de las condicionantes, obligaciones, lineamientos y/o disposiciones establecidos en las licencias, autorizaciones, permisos, registros y demás ordenamientos ambientales vigentes, por parte del responsable de una obra, proyecto, programa o actividad en cada una de sus etapas.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3729,6 +3949,42 @@ Para el desahogo del procedimiento en el que se ejerza la acción por daños al 
 ###### ARTÍCULO 224.
 
 Cuando por infracción a las disposiciones de esta Ley y sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción, en caso de que se presente en juicio.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
+###### ARTÍCULO 224 Bis.
+
+Los promoventes de las obras o actividades que se hayan iniciado o realizado sin contar con la autorización en materia de Impacto Ambiental correspondiente, deberán presentar ante la Secretaría el Estudio de Daño Ambiental, con la finalidad de que se dictamine.
+
+El Estudio de Daño Ambiental deberá presentarse en la Secretaría en original y copia, junto con el pago de derechos correspondiente al dictamen de daño ambiental contemplado en el Código Fiscal del Distrito Federal.
+
+El Estudio de Daño Ambiental deberá contener al menos lo siguiente:
+
+I. Datos generales de la persona física o moral en la que recaiga la responsabilidad del daño ambiental;
+
+II. Ubicación del predio donde se ocasionó el daño ambiental;
+
+III. Descripción de las obras o actividades que ocasionaron el daño ambiental;
+
+IV. La identificación de los factores ambientales dañados;
+
+V. Estimación de los contaminantes generados;
+
+VI. El daño ambiental ocasionado, indicando las metodologías utilizadas para su determinación;
+
+VII. Vinculación con la normatividad ambiental local y/o federal aplicable en sus respectivos ámbitos de competencia;
+
+VIII. Medidas de prevención, minimización, mitigación y seguridad implementadas durante las etapas realizadas, con sus correspondientes documentos probatorios;
+
+IX. Servicios ambientales que se afectaron o perdieron por la ocurrencia del daño ambiental;
+
+X. Propuestas de restauración de los factores ambientales dañados;
+
+XI. Los costos que serán necesarios para lograr la restauración de los factores ambientales dañados;
+
+XII. Etapa o etapas de la obra o actividad que falta por concluir, con la finalidad de determinar si se sujetan a la solicitud de autorización en materia de impacto ambiental en su caso, y
+
+XIII. El estudio de daño ambiental deberá presentarse en la secretaría de conformidad con los formatos y guías que al efecto se publiquen.
 
 ###### ARTÍCULO 225.
 
@@ -3875,6 +4131,32 @@ G.O. 18 DE FEBRERO DE 2011.
 Primero: El presente Decreto entrará en vigor a los 180 días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 7 DE ABRIL DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se derogan aquellas disposiciones que se opongan a lo contenido en el presente Decreto.
+
+Tercero.- La Oficialía Mayor implementará el Padrón de Proveedores de la Administración Pública del Distrito Federal a que se refiere el artículo 14 Bis de la Ley de Adquisiciones para el Distrito Federal, dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+
+Cuarto.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE MAYO DE 2011.
+
+DECRETO QUE REFORMA LA FRACCION XXIX DEL ARTICULO 9, SE REFORMA LA FRACCION IV Y SE ADICIONA LA FRACCION VIII AL ARTICULO 10; SE REFORMA LA FRACCION IV DEL ARTICULO 87 Y SE ADICIONA EL ARTICULO 88 BIS 5 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 3 DE MAYO DE 2011.
+
+DECRETO QUE ADICIONA UN QUINCUAGESIMO OCTAVO PARRAFO AL ARTICULO 5, Y SE ADICIONA LA FRACCION IV, RECORRIENDOSE LAS DEMAS DE MANERA SUBSECUENTE DEL ARTICULO 69 DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
 
