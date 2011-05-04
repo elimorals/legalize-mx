@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2010-11-30"
+last_updated: "2011-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1032,7 +1032,9 @@ VI. Garantizar el conocimiento, difusión y acceso a la información de la socie
 
 VII. Estimular las tareas de investigación y divulgación en la materia;
 
-VIII. Elaborar y difundir información y recomendaciones de hábitos alimenticios correctos, y
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2011)</small>
+
+VIII. Elaborar y difundir información y recomendaciones de hábitos alimenticios correctos, a través de un Programa de Semáforo Nutricional que contemple una campaña permanente en mercados, centros de abasto, restaurantes, establecimientos mercantiles, de venta de alimentos y similares, que será diseñado por la Secretaría en coordinación con la Secretaría de Desarrollo Económico del Distrito Federal, así como brindar asesoría para la instrumentación de acciones por parte de los establecimientos a los que se refiere la presente fracción, con la finalidad de que proporcionen información sobre los riesgos del sobrepeso y la obesidad, y
 
 IX. Las demás que se establezcan en las disposiciones aplicables.
 
@@ -2439,3 +2441,9 @@ CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen l
 G.O. 30 DE NOVIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 4 DE MAYO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en el presente Decreto.
+
+Segundo. El Programa de Semáforo Nutricional será diseñado y aplicado en cooncordancia (sic) con las disposiciones que se establecen en la Ley para la Prevención y el Tratamiento de la Obesidad y los Trastornos Alimenticios en el Distrito Federal.
