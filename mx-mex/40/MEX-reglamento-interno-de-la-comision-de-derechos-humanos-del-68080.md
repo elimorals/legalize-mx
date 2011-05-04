@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2010-06-01"
+last_updated: "2011-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -117,23 +117,27 @@ II. Unidad de Información y Planeación Estratégica; y
 
 III. Unidad de Comunicación Social.
 
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
+
 ###### Artículo 8.
 
-Para el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con cinco Visitadurías Generales.
+Para la atención de quejas y el despacho de los asuntos que directamente correspondan a la Primera Visitaduría General, ésta contará con cinco Visitadurías Generales, la Dirección de Programas Especiales, así como las unidades administrativas establecidas en el Manual General de Organización del Organismo.
+
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
 
 ###### Artículo 9.
 
 Las Visitadurías Generales se organizarán de conformidad con la denominación y distribución territorial siguiente:
 
-I. La Visitaduría General I Toluca, tendrá competencia en el territorio que comprenden los municipios de: Acambay; Aculco; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Atlacomulco; Amanalco; Amatepec; Calimaya; Capulhuac; Chapa de Mota; Chapultepec; Coatepec Harinas; Donato Guerra; El Oro; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Polotitlán; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Soyaniquilpan de Juárez; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Timilpan; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villá Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec y Zumpahuacán;
+I. La Visitaduría General sede Toluca, tendrá competencia en el territorio que comprenden los municipios de: Acambay; Aculco; Almoloya de Alquisiras; Almoloya de Juárez; Almoloya del Río; Atizapán; Atlacomulco; Amanalco; Amatepec; Calimaya; Capulhuac; Chapa de Mota; Chapultepec; Coatepec Harinas; Donato Guerra; El Oro; Huixquilucan; Ixtapan de la Sal; Ixtapan del Oro; Ixtlahuaca; Jilotepec; Jiquipilco; Jocotitlán; Joquicingo; Lerma; Luvianos; Malinalco; Metepec; Mexicaltzingo; Morelos; Ocoyoacac; Ocuilan; Otzoloapan; Otzolotepec; Polotitlán; Rayón; San Antonio la Isla; San Felipe del Progreso; San José del Rincón; San Mateo Atenco; San Simón de Guerrero; Santo Tomás; Soyaniquilpan de Juárez; Sultepec; Tejupilco; Temascalcingo; Temascaltepec; Temoaya; Tenancingo; Tenango del Valle; Texcaltitlán; Texcalyacac; Tianguistenco; Timilpan; Tlatlaya; Toluca; Tonatico; Valle de Bravo; Villa de Allende; Villa Guerrero; Villa Victoria; Xalatlaco; Xonacatlán; Zacazonapan; Zacualpan; Zinacantepec y Zumpahuacán;
 
-II. La Visitaduría General II Nororiente, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coacalco de Berriozabal; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Huixquilucan; Isidro Fabela; Jaltenco; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nextlalpan; Nicolás Romero; Teoloyucan; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz; Tonanitla; Tultepec; Tultitlán; Villa del Carbón y Zumpango;
+II. La Visitaduría General sede Tlalnepantla, tendrá competencia en el territorio que comprenden los municipios de: Apaxco; Atizapán de Zaragoza; Coyotepec; Cuautitlán; Cuautitlán Izcalli; Huehuetoca; Hueypoxtla; Isidro Fabela; Jilotzingo; Melchor Ocampo; Naucalpan de Juárez; Nicolás Romero; Teoloyucan; Tepotzotlán; Tequixquiac; Tlalnepantla de Baz; Villa del Carbón y Zumpango;
 
-III. La Visitaduría General III Oriente, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atenco; Atlautla; Ayapango; Cocotitlán; Chalco; Chiautla; Chicoloapan; Chiconcuac; Chimalhuacán; Ecatzingo; Ixtapaluca; Juchitepec; La Paz; Ozumba; Papalotla; Temamatla; Tenango del Aire; Tepetlaoxtoc; Tepetlixpa; Texcoco; Tezoyuca; Tlalmanalco y Valle de Chalco Solidaridad;
+III. La Visitaduría General sede Chalco, tendrá competencia en el territorio que comprenden los municipios de: Amecameca; Atlautla; Ayapango; Cocotitlán; Chalco; Ecatzingo; Ixtapaluca; Juchitepec; Ozumba; Temamatla; Tenango del Aire; Tepetlixpa; Tlalmanalco y Valle de Chalco Solidaridad;
 
-IV. La Visitaduría General IV Oriente, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Ecatepec de Morelos; Nezahualcóyotl; Nopaltepec; Otumba; San Martín de las Pirámides; Tecámac; Temascalapa y Teotihuacan; y
+IV. La Visitaduría General sede Nezahualcóyotl, tendrá competencia en el territorio que comprenden los municipios de: Atenco; Chicoloapan; Chiconcuac; Chimalhuacán; La Paz; Nezahualcóyotl y Texcoco; y
 
-V. La Visitaduría General de Programas Especiales, tendrá competencia en todo el territorio estatal tratándose de quejas o investigaciones iniciadas de oficio por presuntas violaciones a los derechos humanos derivadas de los programas que le encomiende el Organismo; coordinando a los Visitadores Adjuntos Especializados que dependerán directa y funcionalmente de la misma; estando adscritos en las Visitadurías Generales.
+V. La Visitaduría General sede Ecatepec, tendrá competencia en el territorio que comprenden los municipios de: Acolman; Axapusco; Coacalco de Berriozabal; Chiautla; Ecatepec de Morelos; Jaltenco; Nextlalpan; Nopaltepec; Otumba; Papalotla; San Martín de las Pirámides; Tecámac; Temascalapa; Teotihuacan; Tepetlaoxtoc; Tezoyuca; Tonanitla; Tultepec y Tultitlán.
 
 ###### Artículo 10.
 
@@ -253,21 +257,23 @@ VI. Asistir y participar en las sesiones de Comités y Subcomités de la Comisi�
 
 VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Comisionado.
 
-### Capítulo VI. De las atribuciones específicas de la Visitaduría General de Programas Especiales
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE MAYO DE 2011)</small>
+
+### Capítulo VI. De las atribuciones específicas de la Dirección de Programas Especiales
+
+> <small>(REFORMADO, G.G. 4 DE MAYO DE 2011)</small>
 
 ###### Artículo 16.
 
-La Visitaduría General de Programas Especiales, además de las facultades y obligaciones contenidas en los artículos 30 y 31 de la Ley, tiene las atribuciones siguientes:
+Corresponde a la Dirección de Programas Especiales:
 
 I. Elaborar, los planes de trabajo y líneas de acción de los programas que el Organismo le encomiende;
 
 II. Coadyuvar con las unidades administrativas de la Comisión, en la atención de los casos derivados de los programas que le sean delegados;
 
-III. Coordinar, dirigir y supervisar a los Visitadores Adjuntos Especializados en la tramitación, integración y determinación de las quejas o investigaciones iniciadas de oficio relacionadas con los programas que le conciernan;
+III. Requerir a los Visitadores correspondientes, la información necesaria para integrar los planes de trabajo de los programas que le sean encomendados; así como para la elaboración de los informes necesarios que se deriven de los mismos; y
 
-IV. Requerir a los Visitadores correspondientes, la información necesaria para integrar los planes de trabajo de los programas que le sean encomendados; así como para la elaboración de los informes necesarios que se deriven de los mismos; y
-
-V. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Primer Visitador General.
+IV. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Primer Visitador General.
 
 ### Capítulo VII. De las atribuciones específicas de la Secretaría General
 
@@ -994,3 +1000,9 @@ G.G. 1 DE JUNIO DE 2010.
 Artículo Primero. Publíquense las presentes reformas en la Gaceta de Derechos Humanos órgano oficial de difusión de la Comisión y en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Artículo Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 4 DE MAYO DE 2011.
+
+Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México y en la Gaceta de Derechos Humanos órgano oficial de difusión de la Comisión.
+
+Artículo segundo. El presente Acuerdo entrará en vigor a los tres días hábiles siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
