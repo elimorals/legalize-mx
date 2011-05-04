@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "2011-03-01"
+last_updated: "2011-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN
 
-LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN
+LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MAYO DE 2011.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -41,9 +41,11 @@ LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de observancia general para los Titulares y Trabajadores de las Dependencias de los Poderes Legislativo, Ejecutivo y Judicial, así como los Municipios pertenecientes al Estado de Yucatán y de las Instituciones que a continuación se enumeran: Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, Hospital Neuropsiquiátrico, Hospital Psiquiátrico, Comisión Agraria Mixta, Escuela Normal Superior de Yucatán, Instituto de Desarrollo Integral de la Familia, Junta de Agua Potable y Alcantarillado de Yucatán, Patronatos y Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, Unidad Deportiva y Recreativa Kukulkán, Comisión Ordenadora del Uso del Suelo del Estado de Yucatán, Fondo de Apoyo a las Actividades Productivas de Yucatán y las que por razón de contrato y convenios de Ley se consideran como empleados del Gobierno del Estado y Municipios de Yucatán.
+Esta Ley es de observancia general para los Titulares y Trabajadores de las Dependencias de Administración Pública Centralizada, de los Poderes Legislativo y Judicial, así como de los municipios del Estado de Yucatán.
 
 ###### ARTICULO 2.
 
@@ -57,63 +59,45 @@ Trabajador al Servicio del Estado es para los efectos de esta Ley, toda persona 
 
 Los trabajadores se dividen en dos grupos: de confianza y de base.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 5.
 
-Son trabajadores de confianza:
+Son trabajadores de confianza los que realizan funciones de dirección, inspección, vigilancia, supervisión o fiscalización, de manejo de fondos y valores, de auditoría, de control directo de adquisiciones; de almacenaje o inventarios; de investigación científica y de asesoría o consultoría; cuando tengan carácter general, de manera enunciativa mas no indicativa, los siguientes:
 
-I.- Los que colaboran directamente con el Gobernador del Estado y aquéllos cuyo nombramiento o ejercicio requiera la aprobación expresa de dicho funcionario.
+I.- En el Poder Legislativo: el Secretario General del Poder Legislativo, el Auditor Superior del Estado y los auditores adscritos a la misma; el titular del Instituto de Investigaciones Legislativas, el Director de Evaluación del Presupuesto, así como el Director General de Administración y Finanzas, los directores, jefes de departamento y demás personal que desempeñe alguna de las funciones señaladas en el párrafo anterior.
 
-II.- En el Poder Ejecutivo, los de las dependencias y los de las Entidades comprendidas dentro del régimen de esta Ley que desempeñen funciones que conforme a los catálogos a que alude el artículo 20, sean de:
+II.- En el Poder Ejecutivo: los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán y el Fiscal General del Estado, los secretarios particular y privado del Gobernador del Estado y sus correspondientes auxiliares; los secretarios particulares y demás personal adscrito a las secretarías particulares de los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán; el del Fiscal General del Estado, los titulares de las unidades de asesoría, de apoyo técnico y administrativo, de coordinación, de control de gestión, de tecnología de información y de comunicación social, los ayudantes, operadores y todos aquellos que laboren bajo las ·órdenes inmediatas del gobernador; así como los titulares de las oficinas de representación del Gobierno del Estado fuera del propio territorio estatal.
 
-a).- Dirección, como consecuencia del ejercicio de sus atribuciones legales, que de manera permanente y general le confieren la representatividad e implican poder de decisión en el ejercicio del mando a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento.
+Los subsecretarios, subconsejeros, directores y jefes de departamento de las dependencias del Gobierno del Estado; los vice fiscales; los presidentes y secretarios de la Junta de Conciliación y Arbitraje; los registradores públicos de la propiedad; el Procurador de la Defensa de los Trabajadores al Servicio del Estado y Municipios, así como sus procuradores auxiliares; los defensores de oficio y los asesores jurídicos y mandatarios, en términos del Código Civil; los directores de los hospitales oficiales; el coordinador y los jefes de las oficinas recaudadoras; los auditores de las secretarías, de Hacienda y de la Contraloría General; y el personal directivo de las instituciones educativas del sistema educativo estatal.
 
-b).- Inspección, vigilancia y fiscalización: exclusivamente a nivel de las jefaturas, cuando estén consideradas en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza.
+III.- En el Poder Judicial: los Magistrados, los Consejeros de la Judicatura Estatal, los Jueces de Primera Instancia, los secretarios generales de acuerdos y los titulares de las Unidades del Tribunal Superior de Justicia, el Secretario Ejecutivo y los titulares de las Direcciones, Unidades y Órganos Técnicos y del Consejo de la Judicatura; los secretarios de la presidencia, los secretarios de acuerdos y los secretarios de estudio y cuenta, y demás personal que establece la Ley Orgánica del Poder Judicial del Estado, y
 
-c).- Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido.
+IV.- En los municipios: el secretario particular del Presidente Municipal, el Tesorero, los directores, subdirectores, jefes de departamento de las áreas que integran la administración centralizada y demás personal que maneje recursos económicos.
 
-d).- Auditoría: a nivel de auditores y subauditores generales, así como personal técnico que en forma exclusiva y permanente desempeñe tales funciones, siempre que presupuestalmente dependa de las contralorías o de las áreas de auditoría.
-
-e).- Control directo de adquisiciones: cuando tengan la representación de la Dependencia o Entidad de que se trate, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las Dependencias y Entidades con tales características.
-
-f).- En almacenes o inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta de inventarios.
-
-g).- Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve al (sic) cabo.
-
-h).- Asesoría o Consultoría únicamente cuando se proporcione a los siguientes servidores públicos superiores: Secretario, Oficial Mayor y Directores Generales de las Dependencias del Ejecutivo Estatal o sus equivalentes en los Ayuntamientos.
-
-i).- El personal adscrito presupuestalmente a la Secretarías Particulares o ayudantías.
-
-j).- Los Secretarios Particulares de: Secretario, Oficial Mayor y Directores Generales de las Dependencias del Ejecutivo Estatal o sus equivalentes en los Municipios, así como los destinados presupuestalmente al servicio de los funcionarios a que se refiere la fracción I de este artículo.
-
-k).- Los Agentes del Ministerio Público Estatal.
-
-l).- Los Agentes de las policías dependientes de la Procuraduría General de Justicia del Estado y de la Dirección de Protección y Vialidad del mismo. Han de considerarse de base todas las categorías que con aquella clasificación consigne el catálogo de empleos del Gobierno del Estado, para el personal docente de la Secretaría de Educación. La clasificación de los puestos de confianza en cada una de las Dependencias o Entidades, formará parte de su Catálogo de Puestos.
-
-III.- En el Poder Legislativo: en el Congreso del Estado: el Oficial Mayor, el Director General de Departamentos y Oficinas, el Tesorero General, los Cajeros de la Tesorería, el Director General de Administración, el Director Industrial de la Imprenta y Encuadernación y el Director de la Biblioteca del Congreso.
-
-En la Contaduría Mayor de Hacienda: el Contador y el Subcontador Mayor, los Directores y Subdirectores, los Jefes de Departamentos, los Auditores, los Asesores y los Secretarios Particulares de los Funcionarios mencionados.
-
-IV.- En el Poder Judicial los Magistrados del Tribunal Superior de Justicia del Estado, los Secretarios del Tribunal Pleno y de las Salas, los Jueces de lo Civil, de lo Familiar, de Defensa Social y los Mixtos y de Hacienda y Familiares y sus respectivos Secretarios. Los Directores de la Unidad de Administración del Presupuesto del Poder Judicial y del Instituto de Capacitación del Poder Judicial del Estado, así como los Jefes de Departamento de la citada Unidad.
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 6.
 
-Son trabajadores de base los no incluidos en la enumeración anterior y que por ello serán inamovibles. Los de nuevo ingreso no serán inamovibles sino después de seis meses de servicio sin nota desfavorable en su expediente.
+Son trabajadores de base los que no desempeñen las funciones señaladas en el artículo anterior y por ello serán inamovibles, salvo el caso en que incurran en una causal de cese justificado. Los de nuevo ingreso no serán inamovibles sino después de seis meses de servicio sin nota desfavorable en su expediente.
 
 ###### ARTICULO 7.
 
-Desempeñan cargos militarizados todos los que forman parte de las Policías del Estado, Municipales, de Tránsito y de Caminos, del Departamento de Averiguaciones Previas y los trabajadores de oficina que prestan servicios en esas dependencias.
+(DEROGADO, D.O. 4 DE MAYO DE 2011)
 
 ###### ARTICULO 8.
 
 Al crearse categorías o cargos no comprendidos en el artículo 5, la clasificación de base o de confianza que les corresponda se determinará expresamente por la disposición legal que formalice su creación.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 9.
 
-Quedan excluidos del régimen de esta Ley, los trabajadores de confianza a que se refiere el artículo 5; el personal de vigilancia de los establecimientos penitenciarios, cárceles o galeras y aquéllos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
+Quedan excluidos del régimen de esta Ley, los trabajadores de confianza a que se refiere el artículo 5; los que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios. Los Fiscales Investigadores del Ministerio Público, los integrantes de las instituciones policiales y en general, todo miembro de corporaciones de seguridad pública, estatal o municipales, se regirán por lo que dispongan las leyes que rigen su funcionamiento.
 
 ###### ARTICULO 10.
 
-Los trabajadores de base deberán ser de nacionalidad mexicana, y sólo podrán ser substituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo, la substitución será decidida por el Titular de la Dependencia oyendo al Sindicato.
+Los trabajadores de base deberán ser de nacionalidad mexicana, y sólo podrán ser substituídos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo, la substitución será decidida por el Titular de la Dependencia oyendo al Sindicato.
 
 ###### ARTICULO 11.
 
@@ -135,7 +119,7 @@ Los trabajadores prestarán sus servicios en virtud de nombramiento expedido a s
 
 ###### ARTICULO 14.
 
-Los menores de edad con dieciséis años cumplidos, debidamente acreditados, tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente Ley.
+Los menores de edad con dieciseis años cumplidos, debidamente acreditados, tendrán capacidad legal para prestar servicios, percibir el sueldo correspondiente y ejercitar las acciones derivadas de la presente Ley.
 
 ###### ARTICULO 15.
 
@@ -143,7 +127,7 @@ Son condiciones nulas y no obligan a los trabajadores aún cuando las admitan ex
 
 I.- Una jornada mayor de la permitida por esta Ley.
 
-II.- Las labores peligrosas o insalubres o nocturnas para menores de dieciséis años de edad.
+II.- Las labores peligrosas o insalubres o nocturnas para menores de dieciseis años de edad.
 
 III.- Una jornada inhumana por lo peligroso o insalubre para el trabajador o para la trabajadora embarazada o el producto de la concepción.
 
@@ -181,7 +165,9 @@ II.- Por desaparición del centro de trabajo.
 
 III.- Por permuta debidamente autorizada.
 
-IV.- Por fallo del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+IV.- Por fallo del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 ###### ARTICULO 18.
 
@@ -275,7 +261,9 @@ Por cada cinco años de servicio efectivo prestado hasta llegar a veinticinco, l
 
 Los niveles salariales del tabulador que consignen sueldos equivalentes al salario mínimo deberán incrementarse en el mismo porcentaje en que se aumente éste.
 
-La Secretaría de Finanzas fijará las normas, lineamientos y política que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
+La Secretaría de Hacienda fijará las normas, lineamientos y política que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
 
 ###### ARTICULO 39.
 
@@ -411,7 +399,9 @@ Son causas de suspensión temporal:
 
 I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para las personas que trabajan con él.
 
-II.- La prisión preventiva del trabajador seguida de sentencia absolutoria o el arresto impuesto por la autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, resuelva que debe tener lugar el cese del trabajador.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+II.- La prisión preventiva del trabajador seguida de sentencia absolutoria o el arresto impuesto por la autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, resuelva que debe tener lugar el cese del trabajador.
 
 Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por 60 días por el Titular de la Dependencia respectiva, cuando apareciese alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve lo conducente.
 
@@ -419,27 +409,71 @@ Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podr
 
 DE TRABAJO
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 48.
 
-Ningún trabajador podrá ser cesado sino por justa causa. En consecuencia el nombramiento o designación de los trabajadores sólo dejará de surtir efecto sin responsabilidad para los Titulares de las Dependencias por las siguientes causas:
+Ningún trabajador podrá ser cesado sino por justa causa. En consecuencia, el nombramiento o designación de los trabajadores sólo dejará de surtir efecto sin responsabilidad para los Titulares de las dependencias por las siguientes causas:
 
-I.- Por renuncia, por abandono de empleo, por inasistencia injustificada a las labores de conformidad con la Ley.
+I.- Engañarlo el trabajador o en su caso, el sindicato que lo hubiese propuesto o recomendado con certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes o facultades de que carezca. Esta causa de rescisión dejará de tener efecto después de 30 días de prestar sus servicios el trabajador;
 
-II.- Cuando el contrato sea por obra determinada y concluya ésta.
+II.- Incurrir el trabajador, durante sus labores, en faltas de probidad u honradez, en actos de violencia, amagos, injurias o malos tratamientos en contra del Titular de la dependencia, sus familiares o del personal directivo o administrativo de la misma, salvo que medie provocación o que obre en defensa propia;
 
-III.- Por muerte del trabajador.
+III.- Cometer el trabajador contra alguno de sus compañeros, cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ellos se altera la disciplina del lugar en que se desempeña el trabajo;
 
-IV.- Por incapacidad permanente del trabajador, física o mental que le impida el desempeño de sus labores.
+IV.- Cometer el trabajador, fuera del servicio, contra el Titular de la dependencia, sus familiares o personal directivo y administrativo, alguno de los actos a que se refiere la fracción II, si son de tal manera graves que hagan imposible el cumplimiento de la relación de trabajo;
 
-V.- Por resolución del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado.
+V.- Ocasionar el trabajador, intencionalmente, perjuicios materiales durante el desempeño de las labores o con motivo de ellas, en los edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo;
 
-### CAPITULO I. DEL ESCALAFON
+VI.- Ocasionar el trabajador los perjuicios de que habla la fracción anterior siempre que sean graves, sin dolo, pero con negligencia tal, que ella sea la causa única del perjuicio;
+
+VII.- Comprometer el trabajador, por su imprudencia o descuido inexcusable, la seguridad del centro de trabajo o de las personas que se encuentren en él;
+
+VIII.- Cometer el trabajador actos inmorales en el centro de trabajo;
+
+IX.- Revelar el trabajador o dar a conocer asuntos de carácter reservado, con perjuicio de la dependencia o centro de trabajo en el que preste sus servicios;
+
+X.- Tener el trabajador más de 3 faltas de asistencia en un período de treinta días, sin permiso de su jefe inmediato superior o sin causa justificada;
+
+XI.- Desobedecer el trabajador al titular de la dependencia, jefe inmediato superior o a los representantes de aquéllos, sin causa justificada, siempre que se trate del trabajo contratado;
+
+XII.- Negarse el trabajador a adoptar las medidas preventivas o a seguir los procedimientos indicados para evitar accidentes o enfermedades;
+
+XIII.- Concurrir el trabajador a sus labores en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica. Antes de iniciar su servicio, el trabajador deberá poner el hecho en conocimiento de su jefe inmediato superior y presentar la prescripción suscrita por el médico;
+
+XIV.- La sentencia ejecutoriada que imponga al trabajador una pena de prisión, que le impida el cumplimiento de la relación de trabajo, y
+
+XV.- Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes, en lo que al trabajo se refiere.
+
+El titular de la dependencia deberá dar al trabajador aviso escrito de la fecha y causa o causas de la rescisión. El aviso deberá hacerse del conocimiento del trabajador, y en caso de que éste se negare a recibirlo, el Titular de la dependencia dentro de los 5 días siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, proporcionando a éste el domicilio que tenga registrado y solicitando su notificación al trabajador.
+
+La falta de aviso al trabajador o al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, por sí sola bastará para considerar que el despido fue injustificado.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+ARTICULO 48 bis.- El trabajador podrá solicitar ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, y optar entre su reinstalación en el trabajo que desempeñaba, o que se le indemnice con el importe de 3 meses de salario.
+
+Si en el juicio correspondiente no comprueba la dependencia la causa del cese, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 4 DE MAYO DE 2011)</small>
+
+### CAPITULO VIII. TERMINACION DE LAS RELACIONES DE TRABAJO
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+ARTICULO 48 ter.- Son causas de terminación de las relaciones de trabajo:
+
+I.- El mutuo consentimiento de las partes;
+
+II.- La muerte del trabajador;
+
+III.- La terminación de la obra o vencimiento del contrato por tiempo determinado, y
+
+IV.- La incapacidad física o mental o inhabilidad manifiesta del trabajador, que haga imposible la prestación del trabajo.
 
 ## TITULO TERCERO
 
-### CAPITULO II. DE LAS COMISIONES MIXTAS DE
-
-ESCALAFON
+### CAPITULO I. DEL ESCALAFON
 
 ###### ARTICULO 49.
 
@@ -471,15 +505,19 @@ En igualdad de condiciones tendrá preferencia el trabajador que acredite ser la
 
 Corrido el escalafón en la forma apuntada las plazas de los promovidos a la nueva categoría, serán cubiertas en un 50% por los Titulares y el restante 50% por los que proponga el Sindicato.
 
-### CAPITULO I
+### CAPITULO II. DE LAS COMISIONES MIXTAS DE
+
+ESCALAFON
 
 ###### ARTICULO 56.
 
 Todos los empleados de base tendrán la categoría asignada en los catálogos presupuestarios que les corresponda en atención a las disposiciones escalafonarias.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 57.
 
-Cada dependencia contará con una comisión mixta de escalafón, integrada con el mismo número de representantes del Titular y del Sindicato quienes designarán un árbitro que decida los casos de empate; y si existiera desacuerdo, se someterá el caso al Tribunal de Conciliación y Arbitraje para los Trabajadores al servicio del Estado, quien decidirá en definitiva.
+Cada dependencia contará con una comisión mixta de escalafón integrada con el mismo número de representantes del Titular y del Sindicato quienes designarán un árbitro que decida los casos de empate; y si existiera desacuerdo, se someterá el caso al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, quien decidirá en definitiva.
 
 ###### ARTICULO 58.
 
@@ -535,7 +573,7 @@ DE LOS TRABAJADORES Y DE LAS
 
 CONDICIONES GENERALES
 
-### CAPITULO II. CONDICIONES GENERALES DE TRABAJO
+### CAPITULO I
 
 ###### ARTICULO 70.
 
@@ -543,7 +581,7 @@ Los Sindicatos son las asociaciones de trabajadores que laboran en una Dependenc
 
 ###### ARTICULO 71.
 
-En cada Dependencia sólo habrá un Sindicato.
+(DEROGADO, D.O. 4 DE MAYO DE 2011)
 
 ###### ARTICULO 72.
 
@@ -553,9 +591,11 @@ Todos los trabajadores tienen derecho a formar parte del Sindicato.
 
 Los trabajadores de confianza no podrán formar parte de los Sindicatos. Cuando los trabajadores sindicalizados desempeñen un puesto de confianza quedarán en suspenso todas sus obligaciones y derechos sindicales, durante el tiempo que dure la comisión conferida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 74.
 
-Los Sindicatos serán registrados en el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, a cuyo efecto remitirán a ésta, por duplicado, los documentos siguientes:
+Los Sindicatos serán registrados en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a cuyo efecto remitirán a éste, por duplicado, los documentos siguientes:
 
 I.- El acta de la asamblea constitutiva o copia de ella autorizada por la directiva de la agrupación.
 
@@ -569,13 +609,21 @@ IV.- Una lista de los miembros de que se componga el Sindicato, con expresión d
 
 Son obligaciones de los Sindicatos:
 
-I.- Proporcionar los informes que en cumplimiento de esta Ley, solicite el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
 
-II.- Comunicar al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su directiva o en su comité ejecutivo, las altas y bajas de sus miembros y las modificaciones que sufran los estatutos.
+l.- Proporcionar los informes que en cumplimiento de esta Ley, solicite el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios;
 
-III.- Facilitar la labor del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, en los conflictos que se ventilen ante el mismo, ya sea del Sindicato o de sus miembros proporcionándole la cooperación que solicite.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
 
-IV.- Patrocinar y representar a sus miembros ante las autoridades y ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado cuando les fuere solicitado.
+II.- Comunicar al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, dentro de los 10 días siguientes a cada elección, los cambios que ocurrieren en su directiva o en su comité ejecutivo, las altas y bajas de sus miembros y las modificaciones que sufran los estatutos;
+
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+III.- Facilitar la labor del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los conflictos que se ventilen ante el mismo, ya sea del Sindicato o de sus miembros proporcionándole la cooperación que solicite, y
+
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+IV.- Patrocinar y representar a sus miembros ante las autoridades y ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, cuando les fuere solicitado.
 
 ###### ARTICULO 76.
 
@@ -609,9 +657,11 @@ I.- Por el voto de las dos terceras partes de los miembros que lo integren.
 
 II.- Por que dejen de reunir los requisitos señalados en la presente Ley.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 81.
 
-En los casos de violación a lo dispuesto en el artículo 77, el Tribunal de Conciliación y Arbitraje del Estado, determinará la cancelación del registro de la Directiva o del registro del Sindicato según corresponda.
+En los casos de violación a lo dispuesto en el artículo 77, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, determinará la cancelación del registro de la Directiva o del registro del Sindicato según corresponda.
 
 ###### ARTICULO 82.
 
@@ -619,27 +669,35 @@ La Federación de Sindicatos de Trabajadores al Servicio del Estado, se regirá 
 
 En ningún caso podrá decretarse la expulsión de un Sindicato del seno de la Federación.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 83.
 
-En cada Dependencia sólo habrá un sindicato. En caso de que concurran varios grupos de trabajadores que pretendan ese derecho, Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+En caso de que concurran varias agrupaciones sindicales en una misma dependencia, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios otorgará la titularidad de la relación colectiva al sindicato mayoritario.
+
+En los casos de conflictos entre dos organizaciones que pretendan ser mayoritarias, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios ordenará desde luego el recuento correspondiente y resolverá de plano.
 
 ###### ARTICULO 84.
 
 Para que se constituya un Sindicato, se requiere que lo formen 20 trabajadores o más y que no exista dentro de la dependencia otra agrupación sindical que cuente con mayor número de miembros.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 85.
 
-El registro de un Sindicato se cancelará por disolución del mismo o cuando se registre diversa agrupación sindical que fuere mayoritaria. La solicitud de cancelación podrá hacerse por persona interesada y el Tribunal de Conciliación y Arbitraje, en los casos de conflictos entre dos organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano.
+El registro de un Sindicato se cancelará por disolución del mismo. La solicitud de cancelación podrá hacerse por persona interesada y el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios resolverá de plano.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 86.
 
-Todos los conflictos que surjan entre la Federación y los Sindicatos o sólo entre éstos, serán resueltos por el Tribunal de Conciliación y Arbitraje.
+Todos los conflictos que surjan entre la Federación de sindicatos y las agrupaciones sindicales o sólo entre éstas, serán resueltos por el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 ###### ARTICULO 87.
 
 Las remuneraciones que se paguen a los directivos y empleados de los Sindicatos y en general los gastos que origine el funcionamiento de éstos, serán a cargo de su presupuesto, cubierto en todo caso por los miembros del Sindicato de que se trata.
 
-### CAPITULO III. H U E L G A S
+### CAPITULO II. CONDICIONES GENERALES DE TRABAJO
 
 ###### ARTICULO 88.
 
@@ -663,19 +721,23 @@ VI.- Distribución de los días de labores y del horario de la jornada diaria, s
 
 VII.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el trabajo.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 90.
 
-Llegado el caso de desacuerdo en la elaboración de las condiciones de trabajo en los reglamentos respectivos, el Sindicato de que se trate llevará su disconformidad ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, quien resolverá el (sic) respecto lo que corresponda.
+Llegado el caso de desacuerdo en la elaboración de las condiciones de trabajo en los reglamentos respectivos, el Sindicato de que se trate llevará su disconformidad ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, quien resolverá el (sic) respecto lo que corresponda.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 91.
 
-Las condiciones generales de trabajo surtirán efecto a partir de la fecha de su depósito en el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado.
+Las condiciones generales de trabajo surtirán efecto a partir de la fecha de su depósito en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 ###### ARTICULO 92.
 
 Las condiciones generales de trabajo de cada Dependencia, serán autorizadas previamente por sus titulares cuando contengan prestaciones económicas que signifiquen erogaciones con cargo al Gobierno y que deban cubrirse a través del Presupuesto de Egresos del Estado, sin cuyo requisito no podrá exigirse su cumplimiento.
 
-### CAPITULO I
+### CAPITULO III. H U E L G A S
 
 ###### ARTICULO 93.
 
@@ -705,13 +767,17 @@ I.- Que se ajuste a los términos del artículo 95 de esta Ley.
 
 II.- Que sea declarada por las dos terceras partes de los trabajadores de la Dependencia afectada.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 99.
 
-Antes de suspender las labores, los trabajadores deberán presentar al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, su pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. El Presidente del mismo, una vez recibido el escrito y sus anexos, correrá traslado, con la copia de ellos, al Funcionario o Funcionarios de quien o quienes dependa la concesión de las peticiones, para que resuelvan en el término de diez días a partir de la notificación.
+Antes de suspender las labores, los trabajadores deberán presentar al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, su pliego de peticiones con la copia del acta de la asamblea en que se haya acordado declarar la huelga. El Magistrado Presidente del mismo, una vez recibido el escrito y sus anexos, correrá traslado, con la copia de ellos, al funcionario o funcionarios de quien o quienes dependa la concesión de las peticiones, para que resuelvan en el término de 10 días a partir de la notificación.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 100.
 
-El Tribunal de Conciliación y Arbitraje deberá resolver dentro de un término de setenta y dos horas contado a partir de la fecha en que se reciba copia del escrito acordando la huelga, si ésta es legal o ilegal, según que se hayan satisfecho o no los requisitos a que se refieren los artículos anteriores.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios deberá resolver dentro de un término de 72 horas contado a partir de la fecha en que se reciba copia del escrito acordando la huelga, si ésta es legal o ilegal, según que se hayan satisfecho o no los requisitos a que se refieren los artículos anteriores.
 
 ###### ARTICULO 101.
 
@@ -733,9 +799,11 @@ Cuando sea declarada ilegal la huelga, aquellos trabajadores que suspendan sus l
 
 La huelga será declarada ilegal y delictuosa cuando la mayoría de los huelguistas ejecuten actos violentos contra las personas o las propiedades o cuando se decreten en los casos del artículo 29 Constitucional.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 106.
 
-En tanto que no se declare ilegal, inexistente o terminado un estado de Huelga, el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y las autoridades Civiles y Militares, deberán respetar el derecho que ejerciten los trabajadores dándoles las garantías y prestándoles el auxilio que soliciten.
+En tanto que no se declare ilegal, inexistente o terminado un estado de Huelga, el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y las autoridades Civiles y Militares, deberán respetar el derecho que ejerciten los trabajadores dándoles las garantías y prestándoles el auxilio que soliciten.
 
 ###### ARTICULO 107.
 
@@ -833,11 +901,15 @@ Las prestaciones a que se contraen los artículos 111, 112, 113, 116 y 117 de es
 
 ###### ARTICULO 121.
 
-Las jubilaciones y pensiones a que se refiere este Capítulo son personales e instransferibles, con excepción de los siguientes casos:
+Las jubilaciones y pensiones a que se refiere este Capítulo son personales e intransferibles, con excepción de los siguientes casos:
 
-I.- Cuando se deje cónyuge supérstite, que sea mayor de sesenta años de edad o menor, que se encuentre incapacitado física o mentalmente cuando menos en un cincuenta por ciento y que dependiere económicamente del trabajador jubilado o pensionado fallecido y acredite no tener medios propios para subsistir y mantenga el estado civil de viudez; y
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
 
-II.- Cuando existan hijos menores de edad o mayores que se encuentren incapacitados física o mentalmente cuando menos en un cincuenta por ciento y que dependieren económicamente del trabajador jubilado o pensionado fallecido; requisitos que se acreditarán con las documentales públicas respectivas o con el certificado médico expedido por Institución Pública.
+I.- Cuando se deje concubino o cónyuge supérstite del trabajador jubilado o pensionado fallecido, y
+
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+II.- Cuando existan hijos menores de edad o mayores que se encuentren incapacitados física o mentalmente para el desempeño de un trabajo, incapacidad que deberá ser acreditada con la documentación médica correspondiente.
 
 ## TITULO SEPTIMO. DE LAS PRESCRIPCIONES
 
@@ -873,7 +945,9 @@ I.- Las acciones de los trabajadores para reclamar indemnizaciones por incapacid
 
 II.- Las acciones de las personas que dependieron económicamente de los trabajadores muertos con motivo de un riesgo profesional realizado, para reclamar la indemnización correspondiente.
 
-III.- Las acciones para ejecutar las resoluciones del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+III.- Las acciones para ejecutar las resoluciones del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 Los plazos para deducir las acciones a que se refieren las fracciones anteriores, correrán respectivamente, desde el momento en que se determine la naturaleza de la incapacidad o de la enfermedad contraída desde la fecha de la muerte del trabajador o desde que sea ejecutable la resolución dictada por el Tribunal.
 
@@ -893,7 +967,9 @@ III.- Durante el tiempo que el trabajador se encuentre privado de su libertad si
 
 La prescripción se interrumpe:
 
-I.- Por la sola presentación de la demanda, respectiva ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado.
+> <small>(REFORMADA, D.O. 4 DE MAYO DE 2011)</small>
+
+I.- Por la sola presentación de la demanda respectiva ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
 
 II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquélla contra quien prescribe, por escrito o por hechos indudables.
 
@@ -901,93 +977,91 @@ II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aq
 
 Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan, el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
 
-## TITULO OCTAVO. TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE MAYO DE 2011)</small>
 
-TRABAJADORES AL SERVICIO DEL ESTADO.
+## TITULO OCTAVO. AUTORIDADES DEL TRABAJO AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-### CAPITULO II. DE LA COMPETENCIA
+### CAPITULO I
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 128.
 
-Para conocer y resolver los conflictos que se susciten en la aplicación de esta Ley, se crea el Tribunal que se denominará Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, que será un cuerpo colegiada (sic) integrado: con un Representante del Poder Público, designado por el Ejecutivo del Estado, con un Representante de los Trabajadores, preferentemente del Sindicato con mayor membrecía, designado por la Federación de Sindicatos de Trabajadores al Servicio del Estado y, con un tercero designado por los dos representantes citados, que fungirá como Presidente del mismo.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, es la autoridad encargada de conocer y resolver los conflictos que se susciten en la aplicación de esta Ley, con la integración, competencia y atribuciones que establece la Ley Orgánica del Poder Judicial del Estado de Yucatán.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 129.
 
-Los sueldos de los integrantes del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, serán los que figuren en los calendarios presupuestarios correspondientes a su categoría.
+El personal jurisdiccional del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, será considerado como trabajador de confianza y formará parte de la carrera judicial. El personal administrativo del Tribunal es de base y estará sujeto a la presente Ley; pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por la Junta Local de Conciliación y Arbitraje del Estado de Yucatán.
 
 ###### ARTICULO 130.
 
-Los miembros del Tribunal, representantes del Estado y de los Trabajadores, podrán ser removidos libremente por sus representados, no así el tercero designado por éstos, quien durará en su encargo seis años y solo podrá ser removido cuando fuere declarado responsable de un delito conforme a la Ley.
+(DEROGADO, D.O. 4 DE MAYO DE 2011)
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 131.
 
-Será el Secretario de Acuerdos, por disposición de esta Ley, quien sustituya al Presidente del Tribunal en sus ausencias temporales o definitivas y, en este caso, ejercerá hasta que sea nombrado el nuevo.
+El Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios será suplido por el Secretario General de Acuerdos del Tribunal en sus faltas temporales y, en su caso, en definitiva, hasta en tanto el Congreso del Estado expide un nuevo nombramiento.
 
 ###### ARTICULO 132.
 
-Las facultades del Presidente del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, son las siguientes:
+(DEROGADO, D.O. 4 DE MAYO DE 2011)
 
-I.- Representar legalmente al Tribunal.
-
-II.- Presidir y dirigir todas las audiencias y actos del mismo.
-
-III.- Conservar el orden y la disciplina que debe imperar en las actuaciones del Tribunal.
-
-IV.- Las demás que le confieren las leyes.
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 133.
 
-Para ser miembro del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, se requiere:
+El Secretario General de Acuerdos, Secretarios de Estudio y Cuenta y los Actuarios del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, además de los requisitos que establece la Ley Orgánica del Poder Judicial del Estado, deberán acreditar al menos un año de experiencia en materia laboral.
 
-I.- Ser mexicano en pleno goce de sus derechos civiles.
-
-II.- Ser mayor de 25 años.
-
-III.- Carecer de antecedentes penales.
-
-Sin perjuicio de los requisitos anteriores, el Presidente del Tribunal y el representante del Gobierno del Estado, deberán ser titulados como Abogados o Licenciados en Derecho, con un mínimo de cinco años de antigüedad como tales profesionistas y tres años de experiencia en materia laboral.
-
-Y por lo que toca al representante de los trabajadores ser titular de una plaza de base al Servicio del Estado con antigüedad mínima de cinco años.
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 134.
 
-El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, contará con un Secretario General de Acuerdos y del personal administrativo que sea necesario para atender el volumen de asuntos.
+La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios, queda adscrita a la Secretaría del Trabajo y Previsión Social del Poder Ejecutivo, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto defender los derechos de los trabajadores al servicio del Estado y los Municipios de Yucatán.
 
-El Secretario de Acuerdos y el Actuario, además de los requisitos establecidos en las fracciones I, II y III del artículo que precede, deberán ser titulados como Abogados o Licenciados en Derecho, con antigüedad no menor de dos años y experiencia en materia laboral de un año como mínimo.
+Para ello, cuenta con las facultades de representación ante conflictos individuales y colectivos suscitados con motivo de la relación laboral de los trabajadores con el Estado o municipios, cuando éstos actúan como patrón.
 
-Contará así mismo con una Procuraduría de la Defensa de los Trabajadores al Servicio del Estado integrada por un Procurador y el número de auxiliares que se juzguen necesarios para la defensa de los intereses de los trabajadores y que, en forma gratuita representarán o asesorarán a los mismos en las cuestiones que se relacionen como la aplicación de esta Ley.
+La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y Municipios estará integrada por un Procurador, por los Procuradores Auxiliares y demás personal administrativo de apoyo que sean necesarios para atender los asuntos de su competencia, conforme al presupuesto asignado.
 
-Los nombramientos del Procurador y de los auxiliares, se harán en la misma forma que el Presidente del Tribunal. Las autoridades están obligadas a proporcionar a la Procuraduría los datos e informe que solicite para el mejor desempeño de sus funciones. El reglamento determinará las atribuciones y obligaciones de la Procuraduría.
+El Procurador de la Defensa de los Trabajadores al Servicio del Estado y Municipios de Yucatán, será nombrado por el Gobernador del Estado. Los Procuradores Auxiliares serán designados por el Secretario del Trabajo y Previsión Social, a propuesta del Procurador.
 
-Del personal del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y de la Procuraduría de la Defensa de los mismos, sólo los Secretarios de Acuerdos, Actuarios y el personal administrativo son empleados de base y estarán sujetos a la presente Ley, pero los conflictos que pudieren suscitarse con motivo del desempeño de sus labores, serán de la competencia de la Junta Local de Conciliación y Arbitraje del Estado.
+Las autoridades están obligadas a proporcionar a la Procuraduría los datos e informes que solicite para el mejor desempeño de sus funciones.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 135.
 
-El Tribunal nombrará, renovará o suspenderá a sus trabajadores en los términos de esta Ley.
+El Procurador de la Defensa de los Trabajadores al Servicio del Estado y Municipios, tiene las facultades y obligaciones siguientes:
 
-El personal jurídico y administrativo del Tribunal de Conciliación y Arbitraje, tendrá las facultades y atribuciones específicas que determinen esta Ley y el reglamento interior del mismo.
+I.- Representar a los trabajadores mediante comparecencia o simple carta poder, sus sindicatos o beneficiarios cuando éstos así lo soliciten ante los órganos jurisdiccionales, administrativos y cualquier otra institución pública, a efecto de ejercitar las acciones y recursos que correspondan en la vía ordinaria, especial, inclusive el juicio de amparo, hasta su total terminación;
 
-### CAPITULO III. PROCEDIMIENTO ANTE EL TRIBUNAL
+II.- Intervenir en la defensa del trabajador burócrata, a instancia de éste;
+
+III.- Orientar y asesorar a los trabajadores, sus sindicatos o beneficiarios sobre los derechos y obligaciones derivados de las normas de trabajo y de previsión y seguridad sociales, así como de los trámites, procedimientos y órganos competentes ante los cuales podrán acudir para hacerlos valer;
+
+IV.- Proponer a las partes interesadas soluciones amistosas, para el arreglo de sus conflictos mediante la celebración de convenios fuera de juicio y hacerlos constar en acta autorizada;
+
+V.- Delegar sus facultades en los Procuradores Auxiliares, así como dictar las medidas que se requieran para garantizar la eficiencia, modernización y simplificación de los procedimientos operativos;
+
+VI.- Expedir certificaciones sobre los asuntos de su competencia, y
+
+VII.- Las demás que se deriven de esta Ley, así como de otras disposiciones legales aplicables.
+
+### CAPITULO II. DE LA COMPETENCIA
 
 ###### ARTICULO 136.
 
-El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado será competente para conocer:
+(DEROGADO, D.O. 4 DE MAYO DE 2011)
 
-I.- De los conflictos individuales que se susciten entre titulares de una Dependencia o entidad y sus trabajadores.
+### CAPITULO III. PROCEDIMIENTO ANTE EL TRIBUNAL
 
-II.- De los conflictos colectivos que surjan entre el Estado y las organizaciones de los trabajadores a su servicio.
-
-III.- Del registro de los sindicatos y en su caso, dictar la cancelación del mismo.
-
-IV.- De los conflictos sindicales e intersindicales.
-
-V.- Efectuar el registro de las condiciones generales de trabajo, reglamento de Escalafón y de los estatutos de los Sindicatos de Trabajadores al Servicio del Estado.
-
-### CAPITULO UNICO
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 137.
 
-El procedimiento ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, será público, gratuito e inmediato, pero se iniciará necesariamente a instancia de parte.
+El procedimiento ante el Tribunal de los Trabajadores al Servicio del Estado y Municipios, se inicia a instancia de parte, es público, gratuito e inmediato; por lo cual se deben tomar las medidas conducentes encaminadas a lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
 
 ###### ARTICULO 138.
 
@@ -1047,7 +1121,7 @@ Planteada la litis con la demanda, sus modificaciones o ampliaciones en su caso 
 
 ###### ARTICULO 149.
 
-La fase de pruebas, alegatos y resolución comenzará con la ratificación de las pruebas ofrecidas, por las partes y se dará vista recíprocamente a la actora y a la demandada de las pruebas ofrecidas, para que aleguen lo que a sus derechos convenga sobre las mismas. Y, a continuación, se declarará cerrado el período de prueba. En la propia audiencia o en las siguientes que se fijen para tal efecto, se llevará al (sic) cabo el perfeccionamiento de las que requieran tal trámite, comenzando con las de la parte actora, para desahogar, terminadas las mismas, las de la parte demandada.
+La fase de pruebas, alegatos y resolución comenzará con la ratificación de las pruebas ofrecidas, por las partes y se dará vista recíprocamente a la actora y a la demandada de las pruebas ofrecidas, para que aleguen lo que a sus derechos convenga sobre las mismas. Y, a continuación, se declarará cerrado el período de prueba. En la propia audiencia o en las siguientes que se fijen para tal efecto, se llevará al cabo el perfeccionamiento de las que requieran tal trámite, comenzando con las de la parte actora, para desahogar, terminadas las mismas, las de la parte demandada.
 
 ###### ARTICULO 150.
 
@@ -1057,9 +1131,11 @@ Perfeccionada la última prueba en la audiencia respectiva, las partes presentar
 
 El Tribunal apreciará en conciencia las pruebas que le presenten, sin sujetarse a reglas fijas para su estimación y resolverá los asuntos a verdad sabida y buena fé guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 152.
 
-Los miembros del Tribunal podrán solicitar mayor información, para mejor proveer, antes de pronunciar el laudo que corresponda, en cuyo caso, el Presidente acordará la práctica de las diligencias necesarias para tal efecto.
+Antes de pronunciarse el laudo, el Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios podrá solicitar mayor información, así como también, ordenar el desahogo de pruebas que estime para mejor proveer; en este caso, acordará la práctica de las diligencias necesarias para tal efecto.
 
 ###### ARTICULO 153.
 
@@ -1083,27 +1159,79 @@ Todos los términos correrán a partir del día hábil siguiente a aquél en que
 
 El Tribunal sancionará la alteración del orden, y las faltas de respeto hacia el mismo en forma verbal o por escrito, sancionándolas, según la gravedad de la falta, con amonestación, expulsión del local del Tribunal o económicamente, a criterio del mismo, con una cantidad mínima de cien pesos, cuando se trate de trabajadores y de mil pesos cuando se trate de funcionarios.
 
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 158.
 
-Los miembros del Tribunal de Conciliación y Arbitraje no podrán ser recusados.
+El Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, deberá excusarse cuando tenga impedimento legal y en este caso, será suplido en el asunto por el Secretario General de Acuerdos del propio Tribunal.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 159.
 
-El Tribunal de Conciliación y Arbitraje no podrá revocar sus propios acuerdos y éstos serán inapelables para todos sus efectos y legales consecuencias.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, no podrá revocar sus propias resoluciones, por lo que éstas serán definitivas e inapelables y deberán ser cumplidas por las autoridades correspondientes.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 160.
 
-Las autoridades están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje para hacer respetar y cumplir sus resoluciones, cuando sean requeridas para tal fin.
+Las autoridades están obligadas a prestar auxilio al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, para hacer respetar y cumplir sus resoluciones, cuando fueren requeridas para tal fin.
 
-## TITULO NOVENO. DE LA EJECUCION DE LOS LAUDOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE MAYO DE 2011)</small>
+
+## TITULO NOVENO. DE LOS MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+ARTICULO 160 bis.- El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, para hacer cumplir sus determinaciones, podrán imponer las mismas sanciones a que hace referencia el artículo 157 de esta Ley.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+ARTICULO 160 ter.- Las multas se harán efectivas por la Secretaría de Hacienda; para lo cual el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+
+> <small>(REFORMADO, D.O. 4 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 161.
 
-El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio procedan.
+El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y a ese efecto, dictará todas las medidas necesarias en la forma y términos que a su juicio procedan.
 
 ###### ARTICULO 162.
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola que, de no hacerlo, se emplearán los medios de apremio establecidos es esta propia Ley.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE MAYO DE 2011)</small>
+
+## TITULO DECIMO. DE LAS SANCIONES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE MAYO DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+###### ARTICULO 163.
+
+Las sanciones al personal del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, serán impuestas por la Comisión Especial del Consejo de la Judicatura del Poder Judicial del Estado, integrada de conformidad con la Ley Orgánica del propio Poder Judicial.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+###### ARTICULO 164.
+
+Las sanciones consistirán en:
+
+I.- Amonestación privada o pública;
+
+II.- Suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor a un año, y
+
+III.- Destitución del puesto.
+
+> <small>(ADICIONADO, D.O. 4 DE MAYO DE 2011)</small>
+
+###### ARTICULO 165.
+
+Las sanciones por faltas laborales se deben imponer previa audiencia del interesado y considerando las circunstancias en que tuvo lugar la falta cometida.
 
 T R A N S I T O R I O S:
 
@@ -1145,7 +1273,7 @@ EL SECRETARIO DE GOBIERNO
 
 JOSE IGNACIO MENDICUTI PAVON
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 29 DE JUNIO DE 1990.
 
@@ -1156,3 +1284,29 @@ D.O. 1 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 4 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de la Judicatura del Poder Judicial Estatal, dentro de un término de 30 días, contados a partir de la publicación de este Decreto, procederá a la integración de la Comisión Especial encargada de la administración, vigilancia y disciplina del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo a partir de la entrada en vigor de esta Ley, y por conducto de la Secretaría de Hacienda, efectuará las reasignaciones presupuestales conducentes a efecto de transferir al Poder Judicial del Estado el presupuesto por ejercer, asignado al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, en el Presupuesto de Egresos del Estado de Yucatán para el ejercicio fiscal del 2011.
+
+###### ARTÍCULO CUARTO.
+
+El registro de los Sindicatos ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, prorrogará plenamente sus efectos en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios.
+
+###### ARTICULO QUINTO.
+
+Las disposiciones legales y reglamentarias, y en general los documentos en que se haga alusión al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado o al Presidente del Tribunal, se entenderán referidos al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o al Magistrado Presidente del Tribunal, respectivamente; a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las reformas a esta Ley, no podrán aplicarse retroactivamente en perjuicio de trabajador alguno.
