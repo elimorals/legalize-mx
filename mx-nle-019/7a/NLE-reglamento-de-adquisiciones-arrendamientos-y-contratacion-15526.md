@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-contratacion-15526
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-07"
-last_updated: "2009-10-12"
+last_updated: "2011-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el 7 de junio de 1999.
 
@@ -708,3 +710,21 @@ PRIMERO.- Se aprueba la INICIATIVA DE REFORMA POR MODIFICACIÓN AL REGLAMENTO DE
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su difusión a través de la Gaceta Municipal.
 
 TERCERO. Gírese las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 4 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procesos de adquisiciones que se encuentren en trámite al entrar en vigencia el presente Reglamento, se regirán por las normas vigentes en el momento en que inició su trámite.
+
+###### ARTÍCULO TERCERO.
+
+Los Contralores Ciudadanos de las Adquisiciones deberán ser designados e incorporarse al Comité de Adquisiciones dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Municipio de San Pedro Garza García, Nuevo León, publicado en el Periódico Oficial del Estado de fecha 7 de junio de 1999 y todas aquellas disposiciones que contravengan el presente Reglamento.
