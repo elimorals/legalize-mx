@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-03-17"
+last_updated: "2011-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2355,7 +2355,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -3765,15 +3765,19 @@ XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien 
 
 XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y (sic)
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2011)</small>
 
 XXIII. Al que suplantando al propietario de bienes o al titular de derechos de índole patrimonial utilizando medios de identificación o documentos apócrifos, transmita o grave dichos bienes o derechos. La misma pena se le impondrá al que a sabiendas de esta circunstancia, adquiera el bien o derecho o reciba el beneficio del gravamen.
 
-Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución, y
+Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2011)</small>
 
-XXIV. Al que enajene, comercialice o distribuya vales apócrifos utilizados para intercambiar o canjear bienes y servicios, a sabiendas de su falsedad.
+XXIV. Al que enajene, comercialice o distribuya vales apócrifos utilizados para intercambiar o canjear bienes y servicios, a sabiendas de su falsedad, ó
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2011)</small>
+
+XXV. Al que con fines de lucro y a sabiendas de que un producto o servicio no cumple con las especificaciones técnicas de la normatividad correspondiente o de que sea de calidad inferior a la que se ofrece al público, intervenga de cualquier manera en su comercialización o producción.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2007)</small>
 
@@ -4800,3 +4804,7 @@ TERCERO. El Instituto de Ciencias Forenses deberá elaborar las normas técnicas
 CUARTO. El Instituto Jalisciense de Ciencias Forenses deberá coordinarse con las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales, para dar la capacitación necesaria para el debido cumplimiento del presente decreto.
 
 QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupuestales necesarios para dar cumplimiento al presente decreto, de lo cual deberá informar al Congreso de los cambios financieros que haga.
+
+P.O. 5 DE MAYO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
