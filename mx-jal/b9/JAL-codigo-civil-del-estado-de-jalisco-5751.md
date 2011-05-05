@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-03-03"
+last_updated: "2011-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4105,11 +4105,11 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2011)</small>
 
 ###### Art. 639.
 
-El Consejo de Familia, sea estatal, municipal o intermunicipal, en forma directa y de manera institucional, desempeñara el cargo de tutor, sin necesidad de discernimiento del cargo:
+El Consejo de Familia, sea estatal, municipal o intermunicipal, en forma directa o a través de sus delegados, de manera institucional desempeñará el cargo de tutor, sin necesidad de discernimiento del cargo.
 
 I. De los expósitos;
 
@@ -11503,9 +11503,11 @@ El arrendamiento debe otorgarse por escrito siempre que se refiera a inmuebles. 
 
 El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en contrario.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
+
 ###### Art. 1989.
 
-Si durante la vigencia del contrato de arrendamiento, por cualquier motivo, se verificare alguna modificación respecto de la persona que tiene la facultad de arrendar de conformidad con el artículo 1976, el arrendamiento subsistirá en los términos del contrato.
+Si durante la vigencia del contrato de arrendamiento, por cualquier motivo, se verificare alguna modificación respecto de la persona que tiene la facultad de arrendar de conformidad con el artículo 1983, el arrendamiento subsistirá en los términos del contrato.
 
 ###### Art. 1990.
 
@@ -18032,3 +18034,15 @@ DECRETO NUMERO 23506/LIX/11, POR EL QUE SE REFORMAN LOS ARTICULOS 2144 Y 2145 DE
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los contratos suscritos con anterioridad a la entrada en vigor del presente decreto se regirán por lo dispuesto al momento de su celebración.
+
+P.O. 5 DE MAYO DE 2011.
+
+DECRETO NUMERO 23525/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 1989 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE MAYO DE 2011.
+
+DECRETO NUMERO 23526/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 639 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
