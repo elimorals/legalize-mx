@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2011-01-27"
+last_updated: "2011-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -699,9 +699,17 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Art. 39 bis.- Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia adquirida (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud (sic) Jalisco.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
+
+Art. 39 bis.- Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia adquirida (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud Jalisco.
+
+Para el apoyo directo a los municipios por parte del Estado, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COESIDA), se constituirán los Comités Municipales para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COMUSIDA), a quienes el propio Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida podrá, cuando así lo disponga su presupuesto anual, otorgar mediante los documentos jurídicos aplicables, bienes muebles para la realización de las tareas propias del programa en los municipios.
+
+La Secretaría operará e implementará con acciones y materiales, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, un programa relacionado con la enfermedad del virus de la inmunodeficiencia adquirida.
+
+Para la consecución de sus fines podrá suscribir los contratos, convenios y otros documentos jurídicos con los sectores público, social y privado y además con las autoridades federales y municipales correspondientes.
 
 ###### Art. 40.
 
@@ -3778,3 +3786,7 @@ De igual forma, se autoriza a las secretarías de Finanzas y de Administración 
 P.O. 27 DE ENERO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE MAYO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor a los 90 días de su publicación en el periódico oficial El Estado de Jalisco.
