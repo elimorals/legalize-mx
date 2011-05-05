@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-08-28"
+last_updated: "2011-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010 Y 23 DE AGOSTO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4181,11 +4181,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 
 P.O. 9 DE SEPTIEMBRE DE 2006.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
 
 PRIMERO.- Entrada en Vigor
 
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de mayo del dos mil once, consecutivamente, cada año en los Distritos de las Regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las Regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los periodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
+Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente en las regiones del Istmo y la Mixteca; y a partir del día nueve de mayo del año dos mil doce, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales.
+
+En una segunda etapa, el Proceso Penal de Corte Acusatorio Adversarial, se implementará en las regiones de la Cañada, la Sierra Norte y la Sierra Sur, en caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia podrán reducirse, previo Decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
@@ -4324,3 +4326,7 @@ P.O. 23 DE AGOSTO DE 2010.
 P.O. 28 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE MAYO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
