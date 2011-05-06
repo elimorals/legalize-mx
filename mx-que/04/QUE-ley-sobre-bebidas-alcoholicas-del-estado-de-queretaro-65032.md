@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2010-12-21"
+last_updated: "2011-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE QUERETARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 6 DE MAYO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -965,8 +965,6 @@ Artículo Segundo. Envíese al titular del Poder Ejecutivo del Estado de Querét
 
 Artículo Tercero. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE QUERETARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 21 DE DICIEMBRE DE 2010.
 
 Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2011, serán las siguientes:
@@ -1077,6 +1075,12 @@ XIX. Por los servicios de control vehicular contemplados en el artículo 135, fr
 
 El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que estará formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
 
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
 Artículo Segundo. La presente Ley entrará en vigor el día primero de enero de 2011.
+
+Salvo lo dispuesto en el párrafo siguiente, los procedimientos a que se refiere el artículo 60 del Código Fiscal del Estado de Querétaro, vigente hasta el 31 de diciembre de 2010, que se encuentren en tramite al momento de entrar en vigor la presente Ley, continuaran hasta su total resolución conforme a las disposiciones legales vigentes a partir del 1° de enero de 2011.
+
+Cuando las autoridades fiscales hubieren emitido requerimientos en términos de la fracción III, del numeral 60 del Código Fiscal del Estado de Querétaro vigente hasta el 31 de diciembre de 2010, podrán imponer las multas que correspondan, de conformidad con dicha fracción.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
