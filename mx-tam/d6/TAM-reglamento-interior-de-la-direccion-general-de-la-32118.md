@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-direccion-general-de-la-32118"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-11-19"
-last_updated: "1986-11-19"
+last_updated: "2011-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE LA CONTRALORÍA ESTATAL DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de noviembre de 1986.
 
@@ -470,3 +472,15 @@ El presente Reglamento entrara en vigor al día siguiente de su publicación en 
 En tanto no se expidan los manuales que este Reglamento menciona, el Director General de la Contraloría Estatal queda facultado para resolver las cuestiones que conforme a dichos documentos se deban regular.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas a los cinco días del mes de noviembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- (Rúbrica).- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- (Rúbrica).- El Director General de la Contraloría Estatal, LIC. RENE PEREZ CASTRO.- (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Dirección General de la Contraloría Estatal, publicado en el Periódico Oficial del Estado anexo al número 93 del 19 de noviembre de 1986.
