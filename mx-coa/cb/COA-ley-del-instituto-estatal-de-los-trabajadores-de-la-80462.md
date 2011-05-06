@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-estatal-de-los-trabajadores-de-la-80462"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-22"
-last_updated: "2011-04-15"
+last_updated: "2011-05-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DEL INSTITUTO ESTATAL DE LOS TRABAJADORES DE LA EDUCACION PARA SU SEGURIDAD SOCIAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO UNICO DEL DECRETO 491, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS CIENTO OCHENTA DIAS DESPUES A SU PUBLICACION.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO DEL DECRETO 498 PUBLICADO EN EL P.O. DE 6 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; ASÍ COMO LO DISPUESTO POR EL ARTICULO SEGUNDO DEL MISMO DECRETO QUE DEJA SIN EFECTOS EL DECRETO MODIFICATORIO DEL ARTICULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE LOS TRABAJADORES DE LA EDUCACION PARA SU SEGURIDAD SOCIAL, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la primera sección al número 23 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 22 de marzo de 2011.
 
@@ -2170,3 +2170,13 @@ P.O. 15 DE ABRIL DE 2011.
 ###### ARTICULO UNICO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2011.
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación oficial.
+
+TERCERO.- Los activos y reservas territoriales de los organismos denominados Dirección de Pensiones de los Trabajadores de la Educación, Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios y Seguro de los Trabajadores de la Educación y Servicio Médico se mantendrán bajo el régimen patrimonial y bajo el dominio que mantenían hasta antes de la publicación de la Ley que se abroga mediante el presente decreto.
+
+CUARTO.- Cualquier acto que se hubiese realizado bajo el nombre del Instituto Estatal de los Trabajadores de la Educación se entenderá como realizado por y bajo la responsabilidad de los organismos denominados Dirección de Pensiones de los Trabajadores de la Educación, Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios y Seguro de los Trabajadores de la Educación y Servicio Médico, dependiendo el objeto de cada uno.
