@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2011-02-10"
+last_updated: "2011-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,167 +65,87 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 4o.
 
 Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las unidades siguientes:
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Contraloría
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección General de Administración
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección General de Asuntos del Sistema Financiero
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección General de Emisión
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección General de Estabilidad Financiera
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+Dirección General de Estrategia, Riesgos y Sistemas de Pagos
 
 Dirección General de Investigación Económica
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección General de Operaciones de Banca Central
-
-Dirección General de Planeación y Presupuesto
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección General de Relaciones Institucionales
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-Dirección General de Sistemas de Pagos y Riesgos
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección General de Tecnologías de la Información
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección General Jurídica
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Administración de Riesgos
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Análisis Macroeconómico
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Apoyo a las Operaciones
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Asuntos Internacionales
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Comunicación
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Contabilidad y Presupuesto
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Control Interno
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Coordinación de la Información
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Disposiciones de Banca Central
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Estabilidad Financiera
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Estudios Económicos
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Fábrica de Billetes
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Información del Sistema Financiero
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Intermediarios Financieros de Fomento
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Medición Económica
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Operaciones
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Planeación Estratégica
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-Dirección de Precios, Salarios y Productividad
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Programación y Distribución de Efectivos
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Recursos Humanos
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Recursos Materiales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Regulación y Supervisión
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Seguridad
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Sistemas de Pagos
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección de Sistemas
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Sistematización de Información Económica y Servicios
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
 Dirección de Vinculación Institucional
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 Dirección Jurídica
 
@@ -409,11 +329,13 @@ La Dirección General de Operaciones de Banca Central tendrá las atribuciones q
 
 A esta Dirección General estarán adscritas las Direcciones de Operaciones y de Apoyo a las Operaciones.
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-ARTICULO 12 BIS.- La Dirección General de Sistemas de Pagos y Riesgos tendrá las atribuciones que se señalan en los artículos 20 y 20 Bis de este Reglamento.
+> <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2011)</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos y de Administración de Riesgos.
+ARTICULO 12 BIS.- La Dirección General de Estrategia, Riesgos y Sistemas de Pagos tendrá las atribuciones que se señalan en los artículos 20, 20 Bis, 27 y 29 Bis de este Reglamento.
+
+A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos, de Administración de Riesgos, de Contabilidad y Presupuesto y de Planeación Estratégica.
 
 > <small>(REFORMADO CONFORME AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
@@ -475,19 +397,9 @@ La Dirección General de Administración tendrá las atribuciones señaladas en 
 
 A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Recursos Materiales y Seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
-
-ARTICULO 15 BIS.- La Dirección General de Planeación y Presupuesto tendrá las atribuciones señaladas en los artículos 27 y 29 Bis de este Reglamento.
-
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-A esta Dirección General estarán adscritas las Direcciones de Planeación Estratégica y de Contabilidad y Presupuesto.
-
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+ARTICULO 15 BIS.- (DEROGADO, D.O.F. 6 DE MAYO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1541,13 +1453,13 @@ Además se incluirán en el capital contable, los rubros de Remanente de Operaci
 
 El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los Depósitos de Regulación Monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. En Valores IPAB se presentarán los títulos del Instituto para la Protección al Ahorro Bancario adquiridos por Banco de México. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Planeación y Presupuesto y el Director de Contabilidad y Presupuesto.
+Los estados financieros de cada ejercicio y los estados de cuenta consolidados mensuales, deberán ser suscritos por el Gobernador, el Director General de Estrategia, Riesgos y Sistemas de Pagos y el Director de Contabilidad y Presupuesto.
 
 Al publicarse el balance general se deberá insertar el dictamen del auditor externo del Banco.
 
@@ -1946,3 +1858,11 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan cambiado sus atribuciones, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que cuente con las atribuciones respectivas.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 6 DE MAYO DE 2011.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 1 de junio de 2011.
+
+SEGUNDO. Las referencias a cualquier Unidad Administrativa, que en virtud de las presentes modificaciones hayan desaparecido o cambiado de denominación, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos derogados o modificados, conservarán todo su valor y fuerza legales.
