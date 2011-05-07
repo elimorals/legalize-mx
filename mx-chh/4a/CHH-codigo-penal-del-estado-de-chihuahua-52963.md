@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-02-19"
+last_updated: "2011-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -231,13 +231,17 @@ Obra imprudencialmente el que produce el resultado típico, que no previó siend
 
 Tentativa punible
 
-Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación, pero se pone en peligro el bien jurídico tutelado.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación.
 
 ###### Artículo 20.
 
 Desistimiento y arrepentimiento
 
-Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se le impondrá pena o medida de seguridad alguna por lo que a éste se refiere, a no ser que los actos ejecutados constituyan por si mismos algún delito diferente, en cuyo caso se le impondrá la pena o medida señalada para éste.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Si el sujeto desiste espontáneamente de la ejecución o impide la consumación del delito, no se le impondrá pena o medida de seguridad alguna por lo que a éste se refiere, a no ser que los actos ejecutados u omitidos constituyan por sí mismos algún delito diferente, en cuyo caso se le impondrá la pena o medida señalada para éste.
 
 ### CAPÍTULO III. AUTORÍA Y PARTICIPACIÓN
 
@@ -301,7 +305,9 @@ Cuando varios sujetos, sin concierto alguno, intervengan en la comisión de un d
 
 Responsabilidad de las personas morales
 
-Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Sin embargo, cuando un miembro o representante de una persona moral, con excepción de las instituciones públicas del Estado, cometa algún delito con los medios que para tal objeto la misma persona moral le proporcione, de modo que el delito resulte cometido a su nombre, bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 64 de este Código para dichas personas, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas. Sin embargo, cuando un miembro o representante de una persona moral, con excepción de las instituciones públicas del Estado, cometa algún delito con los medios que para delinquir, la misma persona moral le proporcione, de modo que el delito resulte cometido a su nombre y bajo el amparo o en beneficio de aquélla, el Juzgador impondrá en la sentencia, previo el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias previstas en el artículo 64 de este Código para dichas personas, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por los delitos cometidos.
 
 ### CAPÍTULO IV. CONCURSO DE DELITOS
 
@@ -523,7 +529,9 @@ En todo caso pena y medida deberán garantizar la dignidad y la libertad de conc
 
 Concepto y duración
 
-El tratamiento en semilibertad comprende la alternancia de períodos de privación de la libertad y tratamiento en libertad, con fines laborales, educativos o de salud, que conduzcan a la reinserción social y podrá consistir en:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+El tratamiento en semilibertad comprende la alternancia de períodos de privación de la libertad y tratamiento en libertad, con fines laborales, educativos o de salud, que establezcan los estudios sobre personalidad que emita la Fiscalía, que conduzcan· a la reinserción social y podrá consistir en:
 
 I. Externación durante la semana de trabajo, con reclusión de fin de semana;
 
@@ -580,6 +588,10 @@ El momento de la consumación, si el delito es instantáneo;
 El momento en que cesó la consumación, si el delito es permanente; o
 
 El momento de consumación de la última conducta, si el delito es continuado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+El plazo para su pago se determinará por la autoridad judicial y no excederá de tres meses, atendiendo a la situación económica del sentenciado.
 
 ###### Artículo 42.
 
@@ -643,6 +655,10 @@ d) Los ascendientes consanguíneos o civiles; o
 
 e) Los parientes colaterales, consanguíneos o civiles, hasta el segundo grado.
 
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+
+III. Las personas morales de derecho público que hubieren realizado erogaciones con motivo del hecho ilícito.
+
 ###### Artículo 47.
 
 Otros obligados a reparar el daño
@@ -663,9 +679,9 @@ Queda a salvo el derecho del Estado y los Municipios para ejercitar las acciones
 
 Supletoriedad de la Ley Federal del Trabajo
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-Si se trata de delitos que afecten la vida o la integridad corporal, para fijar el monto del daño causado, se tendrá como base el salario que percibía la víctima, además de las pruebas específicas, la tabulación de indemnizaciones que fija la Ley Federal del Trabajo. De no comprobarse su monto, conforme al salario mínimo general existente en la región, esta disposición se aplicará aun cuando el sujeto pasivo fuere menor de edad o incapacitado.
+Si se trata de delitos que afecten la vida o la integridad corporal, para fijar el monto del daño causado, se tendrá como base el ingreso que percibía la víctima, conforme a las pruebas específicas y a la tabulación de indemnizaciones que fija la Ley Federal del Trabajo. De no comprobarse su monto, conforme al salario mínimo general existente en la región, esta disposición se aplicará aun cuando el sujeto pasivo fuere menor de edad o incapacitado.
 
 ###### Artículo 49.
 
@@ -676,6 +692,10 @@ Plazos para la reparación del daño
 De acuerdo con el monto de los daños o perjuicios, y de la situación económica del sentenciado, la autoridad judicial podrá fijar plazos para su pago, que en conjunto no excederán de tres meses, pudiendo para ello exigir garantía si lo considera conveniente.
 
 En los casos a que se refiere la fracción IV del artículo 47 de este Código, el Estado y los Municipios proveerán lo necesario para el pago inmediato de la reparación del daño. El pago se hará preferentemente en una sola exhibición.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+El pago de la reparación del daño puede ser negociado entre la víctima u ofendido, las personas morales de derecho público que hubieren realizado erogaciones con motivo del hecho ilícito y el imputado o sentenciado, pero éste no se beneficiará de la condena condicional hasta en tanto se dé por satisfecha la reparación del daño dentro de los plazos señalados en este artículo.
 
 ###### Artículo 50.
 
@@ -963,7 +983,9 @@ IV. El estado de las cosas, entorno y demás condiciones externas que hayan cont
 
 Punibilidad de la tentativa
 
-La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar. En este caso, cuando corresponda sancionarlo con prisión vitalicia, el cómputo se hará sobre la base de las penalidades de prisión temporal más severas previstas para ese delito.
 
 En la aplicación de las penas o medidas de seguridad a que se refiere este artículo, la autoridad judicial tendrá en cuenta, además de lo previsto en el artículo 67 de este Código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro en que se puso al bien jurídico protegido.
 
@@ -989,7 +1011,9 @@ En caso de delito continuado, se aumentarán en una mitad las penas que la ley p
 
 Punibilidad de la complicidad
 
-Para los casos a que se refieren las fracciones VI y VII del artículo 21 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Para los casos a que se refieren las fracciones VI y VII del artículo 21 de este Código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva. En este caso, cuando corresponda sancionarlo con prisión vitalicia, el cómputo se hará sobre la base de las penalidades de prisión temporal más severas previstas para ese delito.
 
 ###### Artículo 79.
 
@@ -1013,13 +1037,19 @@ Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI de
 
 Sustitución de la prisión
 
-El Juez de Garantía, o el Tribunal de Juicio Oral, considerando lo dispuesto en el artículo 67 de este Código, podrá sustituir la pena de prisión, en los términos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+El Juez de Garantía, o el Tribunal de Juicio Oral, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
 
 I. Por multa o trabajo en favor de la comunidad, cuando no exceda de tres años; y
 
 II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años.
 
 La equivalencia de la multa sustitutiva de la pena de prisión, será en razón de un día multa por un día de prisión, de acuerdo con las posibilidades económicas del sentenciado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Será obligación del Ministerio Público presentar en la audiencia respectiva, ante la autoridad judicial, los estudios a los que se refiere el párrafo primero.
 
 ###### Artículo 82.
 
@@ -1031,9 +1061,17 @@ La multa podrá ser sustituida por trabajo en favor de la comunidad.
 
 Condiciones para la sustitución
 
-La sustitución de la sanción privativa de libertad procederá cuando se cubra la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
-La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio, así como cuando se trate de una trasgresión en perjuicio de la hacienda pública.
+La sustitución de la sanción privativa de libertad procederá cuando se cubra la reparación del daño a la víctima u ofendido y sea negociada con la persona moral de derecho público, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso durante los últimos seis años, así como cuando se trate de una trasgresión en perjuicio de la hacienda pública.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+El beneficiado quedará sujeto a la vigilancia de la autoridad, en los términos de la Ley.
 
 ###### Artículo 84.
 
@@ -1041,7 +1079,9 @@ Revocación de la sustitución
 
 La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta:
 
-I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas; salvo que la autoridad judicial estime conveniente apercibirlo, en cuyo caso, se fijará garantía para asegurar el cumplimiento de las condiciones; o
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas por la autoridad; o
 
 II. Cuando al sentenciado se le condene en otro proceso por delito doloso; si el nuevo delito carece de trascendencia social o es imprudencial, la autoridad judicial resolverá si debe aplicarse la pena sustituida.
 
@@ -1065,29 +1105,37 @@ Naturaleza y requisitos
 
 La condena condicional es una facultad por la cual la autoridad judicial, al emitir sentencia, podrá suspender la ejecución de la pena de prisión. Tiene por objeto fundamental permitir al sentenciado incorporarse a la sociedad, cumpliendo así la sanción que se le impuso, siendo procedente cuando se cumpla la totalidad de las siguientes exigencias:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+I. La pena de prisión impuesta no exceda de tres años, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria, en los términos de la Ley de Ejecución de Penas y Medidas Judiciales.
 
-I. La prisión por compurgar no exceda de tres años, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria, en los términos de la Ley de Ejecución de Penas y Medidas Judiciales.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-II. El beneficiado no haya cometido delito doloso en los tres años anteriores a los hechos por los cuales se le juzga.
+II. El beneficiado no haya cometido delito doloso en los seis años anteriores a los hechos por los cuales se le juzga.
 
-III. El sentenciado haya observado buena conducta durante la tramitación del proceso. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes de la autoridad penitenciaria.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+III. El sentenciado haya observado buena conducta durante la tramitación del proceso, incluyendo la observancia de las medidas cautelares. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes que debe rendir la Fiscalía.
+
+> <small>(REFORMADO ACAPITA, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 87.
 
-Requisitos de procedencia
+Requisitos de Permanencia
 
 Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado deberá:
 
 I. Otorgar la garantía o sujetarse a las medidas que se fijen para asegurar su comparecencia ante la autoridad, cada vez que sea requerido por ésta;
 
-II. Obligarse a residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza el cuidado y vigilancia;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+II. Residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza el cuidado y vigilancia;
 
 III. Desempeñar una ocupación lícita;
 
-IV. Abstenerse de causar molestias al ofendido o a sus familiares; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+IV. Abstenerse de causar molestias al ofendido, a sus familiares o a cualquier interviniente en el juicio; y
 
 V. Acreditar que se ha cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
 
@@ -1245,23 +1293,23 @@ El perdón sólo beneficia al imputado en cuyo favor se otorga. Cuando sean vari
 
 Perdón del ofendido en otros delitos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
-Tratándose de delitos que se investigan de oficio, excepto el de Violencia Familiar, también procederá el perdón cuando concurran los siguientes requisitos:
+Tratándose de delitos que se investigan de oficio, también procederá el perdón cuando concurran los siguientes requisitos:
 
 I. Que el término medio aritmético de la pena básica privativa de libertad del delito de que se trate, no exceda de cuatro años y, en todo caso, cuando no merezca prisión.
 
 II. Que se haya pagado la reparación del daño o la víctima u ofendido, o su representante con facultades suficientes, expresamente se hayan dado por satisfechos del mismo.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-III. Que no se le haya seguido proceso por delito doloso, dentro de los tres años inmediatos anteriores a los hechos de que se trate, salvo que haya obtenido sentencia absolutoria.
+III. Que no haya sido condenado por delito doloso, dentro de los seis años inmediatos anteriores a los hechos de que se trate.
 
 IV. Sólo operará si se trata de delitos que hayan afectado directa y exclusivamente intereses particulares.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-Tratándose del delito de robo, en la hipótesis del artículo 212, fracción III; las conductas previstas en el artículo 212 Bis; daños, en los supuestos del artículo 237; así como en los delitos previstos en los artículos 241 y 329, no procederá el perdón de la víctima u ofendido.
+No procederá el perdón en los casos de delitos de Violencia Familiar; de Robo, en la hipótesis del artículo 212; las conductas previstas en el artículo 212 Bis; Daños, en los supuestos del artículo 237; así como en los delitos previstos en los artículos 241 y 329. Tanto si quedaren consumados como si sólo se manifestaren en grado de tentativa.
 
 ###### Artículo 100.
 
@@ -1777,9 +1825,9 @@ Si la enfermedad padecida fuera incurable, o la víctima fuera la pareja habitua
 
 ###### Artículo 158.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
-Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
+Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad personal.
 
 Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de la mitad de la prevista.
 
@@ -1791,11 +1839,7 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 ###### Artículo 159.
 
-A quien prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá de uno a cinco años de prisión.
-
-Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la libertad a la víctima, sin haber practicado el acto sexual, la sanción será de seis meses a tres años de prisión.
-
-Este delito se perseguirá previa querella.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -1941,9 +1985,17 @@ III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, uti
 
 IV. Ejerciendo sobre la víctima actos que revistan un carácter particularmente degradante o vejatorio;
 
-V. Encontrándose la víctima a bordo de un vehículo de servicio público; o
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-VI. En despoblado o lugar solitario.
+V. Encontrándose la víctima a bordo de un vehículo de servicio público;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VI. En despoblado o lugar solitario; o
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VII. Por personas con quien la víctima tenga un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; con quien tenga o haya tenido alguna relación afectiva o sentimental de hecho.
 
 ### CAPÍTULO IV. ESTUPRO
 
@@ -2299,7 +2351,9 @@ Se impondrán las mismas penas previstas en el artículo anterior, a quien sin c
 
 ###### Artículo 210.
 
-A quien se apodere de una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite que dicho apoderamiento se ha realizado con ánimo de uso y no de dominio, se le impondrá de seis meses a un año de prisión o de treinta a noventa días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+A quien se apodere de una cosa ajena sin consentimiento de quien legalmente pueda otorgarlo y acredite que dicho apoderamiento se ha realizado con ánimo de uso y no de dominio, se le impondrá de seis meses a un año de prisión o de treinta a noventa días multa. Tratándose de las hipótesis de los artículos 211 ó 212, la prisión será de uno a dos años y de sesenta a ciento ochenta días multa.
 
 Como reparación del daño, pagará al ofendido el doble del alquiler, arrendamiento o interés de la cosa usada, conforme a los valores de mercado.
 
@@ -2343,9 +2397,9 @@ XIV. Recaiga sobre materiales conductores de energía destinados a la prestació
 
 ###### Artículo 212.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
-Además de las sanciones que correspondan conforme al artículo 208, se aplicarán de uno a diez años de prisión, cuando el robo:
+Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicarán de uno a diez años de prisión, cuando el robo:
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -2385,7 +2439,7 @@ VII. Utilice uno o más vehículos automotores robados en la comisión de otro u
 
 ###### Artículo 213.
 
-Si el apoderamiento se cometió con ánimo de uso, se aplicará prisión de seis meses a dos años. La reparación del daño consistirá en el pago del doble del alquiler o arrendamiento de la cosa usada.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### Artículo 214.
 
@@ -3407,6 +3461,10 @@ Al profesionista en medicina o enfermería que suministre un medicamento evident
 
 A las personas encargadas, empleadas o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS
 
 VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
@@ -3655,6 +3713,74 @@ II. Separar o impedir el desempeño de su cargo al Gobernador del Estado, miembr
 
 La pena se aumentará en una mitad para quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+
+## TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 350.
+
+Para proceder penalmente por los delitos previstos en este Capítulo, será necesaria la denuncia correspondiente, misma que podrá ser formulada por cualquier persona.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 351.
+
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que, sin contar con las autorizaciones respectivas a que se refiere la Ley de Equilibrio Ecológico y Protección al Ambiente, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la Entidad.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 352.
+
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que, con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas. Lo anterior, sin perjuicio de las multas y sanciones que ocurran en las citadas disposiciones y normas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 353.
+
+Se impondrá pena de seis meses a diez años de prisión y multa por el equivalente de quinientos a diez mil días de salario, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables, descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar graves daños a los ecosistemas, a la salud pública, a la flora o a la fauna. Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 354.
+
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 355.
+
+Las multas a que se refiere este Capítulo, se determinarán atendiendo al salario diario mínimo general vigente en el lugar donde se consumó el delito. En caso de delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo vigente en el momento en que cesó la consumación.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 356.
+
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a tres mil días de salario mínimo vigente, a quien:
+
+I. Omita asentar datos necesarios o asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular o evadir el cumplimiento de las obligaciones derivadas de la normatividad ambiental Estatal.
+
+II. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental Estatal.
+
+III. Prestando sus servicios como auditor técnico, especialista, perito o prestador de servicio en materia de impacto ambiental, emisiones a la atmósfera u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, a la atmósfera o al ambiente;
+
+IV. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga, o
+
+V. De forma ilícita corte, arranque, derribe, tale, desmonte o destruya:
+
+a. Árboles o palmeras que formen parte del paisaje urbano, o
+
+b. Vegetación natural que se encuentre en áreas verdes, parques públicos o que forme parte de la ornamentación de las zonas urbanas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 357.
+
+Para los casos en que el autor partícipe de un delito de los señalados en el presente Capítulo, sea un servidor público, procede la inhabilitación del mismo para el ejercicio de cualquier cargo público hasta por un tiempo igual al que se hubiera fijado como pena privativa de libertad, comenzando a correr el mismo a partir de que se tenga por cumplida la sentencia que se le haya impuesto.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -3898,3 +4024,9 @@ P.O. 19 DE FEBRERO DE 2011.
 DECRETO NUMERO 58/2010 I P.O. POR EL QUE SE DEROGA LA FRACCION XII, DEL ARTICULO 211; Y SE ADICIONA UNA FRACCION V AL ARTICULO 212, AMBOS DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
