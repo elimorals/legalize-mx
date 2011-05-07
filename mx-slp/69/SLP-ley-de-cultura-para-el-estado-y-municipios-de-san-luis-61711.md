@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2008-05-10"
+last_updated: "2011-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -57,7 +57,9 @@ La presente Ley atenderá a los principios rectores siguientes:
 
 I. Garantizar y promover los derechos culturales de los potosinos y los habitantes del Estado, como parte sustantiva de sus derechos humanos;
 
-II. Respetar plenamente a las libertades de expresión y de asociación dentro del marco de la Constitución Federal, y la Estatal; en el mismo sentido, esta Ley considera esencial el rechazo a las expresiones discriminatorias por cualquier condición de edad, sexo, embarazo, estado civil, origen étnico, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, aspecto físico, capacidades diferentes o estado de salud, entre otras;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+II. Respetar plenamente a las libertades de expresión y de asociación dentro del marco de la Constitución Federal, y la Estatal; en el mismo sentido, esta Ley considera esencial el rechazo a las expresiones discriminatorias por cualquier condición de edad, sexo, embarazo, estado civil, origen étnico, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, aspecto físico, discapacidad, estado de salud, entre otras;
 
 III. Garantizar que no se ejerza ningún tipo de censura o discriminación por razones de carácter cultural;
 
@@ -233,7 +235,9 @@ XI. Preservar, promover, desarrollar y difundir las manifestaciones de las cultu
 
 XII. Fomentar la creación, ampliación y adecuación de la infraestructura cultural del Estado de San Luis Potosí;
 
-XIII. Fomentar la apertura y adecuación de espacios culturales que faciliten la formación cultural y artística de personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+XIII. Fomentar la apertura y adecuación de espacios culturales que faciliten la formación cultural y artística de personas con discapacidad;
 
 XIV. Dotar, de acuerdo al presupuesto asignado para ello, de los recursos humanos y materiales necesarios, para el adecuado funcionamiento de los espacios culturales bajo su responsabilidad;
 
@@ -349,7 +353,9 @@ III. La Coordinación Estatal para la Atención de los Pueblos Indígenas (CEAPI
 
 IV. La Secretaría de Desarrollo Económico, reconocer y propiciar la capacidad autogestiva de los creadores y organizaciones de artesanos; asimismo, dar apoyo a sus iniciativas de producción y comercialización de sus productos;
 
-V. El Sistema Estatal, y los sistemas municipales para el Desarrollo Integral de la Familia, impulsar y promover los programas, acciones culturales y artísticas dirigidos a las familias, y a las personas con capacidades diferentes de la Entidad, en términos de las leyes, Estatal de Asistencia Social, y Estatal para las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+V. El Sistema Estatal, y los sistemas municipales para el Desarrollo Integral de la Familia, impulsar y promover los programas, acciones culturales y artísticas dirigidos a las familias, y a las personas con discapacidad de la Entidad, en términos de las leyes. Estatal de Asistencia Social, y Estatal para las personas con Discapacidad;
 
 VI. El Instituto Potosino de la Juventud, impulsar y promover los programas y acciones culturales y artísticos dirigidos al público juvenil de la Entidad;
 
@@ -659,7 +665,9 @@ V. Los programas y acciones que promuevan la formación y capacitación artísti
 
 VI. Los programas y acciones dirigidos a la creación y formación de públicos;
 
-VII. Los programas y acciones dirigidos al desarrollo cultural de niños, jóvenes, personas adultas mayores, personas con capacidades diferentes y grupos vulnerables;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VII. Los programas y acciones dirigidos al desarrollo cultural de niños y jóvenes, personas adultas mayores, personas con discapacidad y grupos vulnerables;
 
 VIII. Los programas y acciones destinados al fomento a la lectura y al libro;
 
@@ -728,3 +736,9 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MAYO DE 2011.
+
+UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
