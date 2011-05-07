@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2010-10-02"
+last_updated: "2011-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -2459,75 +2461,39 @@ Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispon
 
 Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 225.
 
-Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que previamente la Secretaría formule la denuncia correspondiente, salvo que se trate de casos de flagrante delito.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 226.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que, sin contar con las autorizaciones respectivas a que se refiere esta Ley, realice, autorice u ordene la realización de actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
-
-Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la Entidad.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 227.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas. Lo anterior, sin perjuicio de las multas y sanciones que ocurran en las citadas disposiciones y normas.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 228.
 
-Se impondrá pena de seis meses a diez años de prisión y multa por el equivalente de quinientos a diez mil días de salario, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar graves daños a los ecosistemas, o la salud pública, la flora o a la fauna. Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 229.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 230.
 
-Las multas a que se refiere este Capítulo se determinarán atendiendo al salario diario mínimo general vigente en el lugar donde se consumó el delito. En caso de delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo vigente en el momento en que cesó la consumación.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 231.
 
-Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a tres mil días de salario mínimo vigente, a quien:
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
-
-I.- Omita asentar datos necesarios o asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular o evadir el cumplimiento de las obligaciones derivadas de la normatividad ambiental Estatal.
-
-II.- Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental Estatal.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
-
-III.- Prestando sus servicios como auditor técnico, especialista, perito o prestadores de servicio en materia de impacto ambiental, emisiones a la atmósfera u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, a la atmósfera o al ambiente;
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
-
-IV.- No realice o cumpla las medidas técnicas, correctivas o de seguridad necesaria para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga, o
-
-> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2010)</small>
-
-V.- De forma ilícita corte, arranque, derribe, tale, desmonte o destruya:
-
-a. Árboles o palmeras que formen parte del paisaje urbano, o
-
-b. Vegetación natural que se encuentre en áreas verdes, parques públicos o que forme parte de la ornamentación de las zonas urbanas.
-
-Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría.
-
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2010)</small>
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ###### ARTÍCULO 232.
 
-Para los casos en que el autor o partícipe de un delito de los señalados en el presente capítulo, sea un servidor público, procede la inhabilitación del mismo para el ejercicio de cualquier cargo público hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, comenzando a correr el mismo a partir de que se tenga por cumplida la sentencia que se le haya impuesto.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 TRANSITORIOS:
 
@@ -2684,6 +2650,12 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
