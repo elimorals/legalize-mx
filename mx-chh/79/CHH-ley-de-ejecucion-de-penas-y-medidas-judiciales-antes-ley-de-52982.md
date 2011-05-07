@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2011-02-12"
+last_updated: "2011-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES -ANTES LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -203,29 +205,35 @@ El Juez de Ejecución de Penas tendrá las siguientes atribuciones:
 
 I.- Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad y demás derechos y garantías que asisten al condenado durante la ejecución de las mismas;
 
-II.- Vigilar que sea realizada la clasificación adecuada del interno, previo dictamen del personal especializado para lograr la efectividad en el tratamiento de reinserción social;
+II.- (DEROGADA, P.O. 7 DE MAYO DE 2011)
 
 III.- Mantener, sustituir, modificar, revocar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento, en los términos de la presente Ley;
 
-IV.- Supervisar el otorgamiento o denegación de cualquier beneficio relacionado con las penas o medidas de seguridad impuestas en la sentencia definitiva;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+IV.- Resolver el otorgamiento o denegación de cualquier beneficio relacionado con las penas o medidas de seguridad impuestas en la sentencia definitiva;
 
 V.- Librar las órdenes de detención que procedan en ejecución de sentencia;
 
 VI.- Ordenar la cesación de la pena o medida de seguridad una vez transcurrido el plazo fijado por la sentencia;
 
-VII.- Visitar los centros de reclusión, con el fin de constatar el respeto de los derechos fundamentales y penitenciarios de los internos, y proponer las medidas correctivas que estime convenientes;
+VII.- (DEROGADA, P.O. 7 DE MAYO DE 2011)
 
 VIII.- Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario, en cuanto afecten sus derechos y beneficios;
 
 IX.- Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes; y (sic)
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-X.- Los Jueces de Ejecución de Penas deberán necesariamente resolver en audiencia oral, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva, y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba;
+X.- Los Jueces de Ejecución de Penas deberán resolver en audiencia oral, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-XI.- Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
+XI.- Practicar el cómputo de las penas, así como su acumulación en los términos previstos en el artículo 59 de esta Ley, basado en los informes que al efecto rinda la Fiscalía; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+
+XII.- Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -287,7 +295,9 @@ Para emitir sus resoluciones, los Jueces de Ejecución de Penas se ajustarán a 
 
 I.-Tratándose de pena o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al sentenciado, a su defensor y al Ministerio Público.
 
-II.-Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código de Procedimientos.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código de Procedimientos, salvo en caso de oponerse a la presente Ley.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -335,9 +345,13 @@ b) Vigilar y coordinar la ejecución del resto de las medidas cautelares reales 
 
 II.- En materia de penas y medidas de seguridad.
 
-a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ellas deriven.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad dispuestas en los Capítulos VII, VIII y IX del Título Cuarto de la presente Ley.
+a) Ejecutar las penas de prisión, de relegación, de trabajo a favor de la comunidad, sus modalidades, así como las resoluciones del Juez de Ejecución de Penas que de ellas deriven.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad dispuestas en los Capítulos V, VII, VIII y IX del Título Cuarto de la presente Ley.
 
 III.- Dentro del sistema.
 
@@ -363,11 +377,35 @@ h) Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
 
 i) Las demás que otras leyes y reglamentos establezcan.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 16 Bis.
+
+Atribuciones de las Autoridades Auxiliares.
+
+I. Ejecutar las medidas judiciales en la forma y términos previstos por la ley, y de acuerdo a la naturaleza y modalidades específicas de las mismas.
+
+II. Establecer, conjuntamente con la Fiscalía, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
+
+III. Elaborar un dictamen técnico debidamente justificado, en el que se determine la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida vigilada.
+
+IV. Informar a la Fiscalía sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 16 Ter.
+
+Sanciones a los Servidores Públicos Responsables.
+
+La omisión o incumplimiento a las atribuciones establecidas en el artículo anterior, sin una causa debidamente justificada, constituirá además de las sanciones administrativas que procedan conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, la base para determinar los delitos de negación de servicio público o denegación o retardo de justicia, previstos en los artículos 264 y 285 del Código Penal.
+
 ### CAPÍTULO V. AUTORIDADES AUXILIARES
+
+> <small>(REFORMADO SU RUBRO; P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 17.
 
-Secretaría de Finanzas.
+Secretaría de Hacienda.
 
 Corresponde a la Secretaría de Finanzas el auxilio en la ejecución:
 
@@ -395,15 +433,17 @@ a) Garantía económica, tratándose de prendas e hipotecas.
 
 b) Prohibición de salir del país.
 
-c) Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que determine el juez.
+c) (DEROGADO, P.O. 7 DE MAYO DE 2011)
 
-d) Tener un trabajo o empleo, o adquirir un oficio, arte o profesión.
+d) (DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 e) Abstención de viajar al extranjero.
 
+> <small>(REFORMADO SU RUBRO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 19.
 
-Cuerpos de seguridad pública en el Estado.
+Instituciones policiales en el Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -428,6 +468,10 @@ f) Residir en lugar determinado.
 g) No poseer ni portar armas.
 
 h) No conducir vehículos.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+i) Prohibición de salir del Estado, ciudad, o ámbito territorial que fije el Juez.
 
 II.- Durante la fase de cumplimiento de sentencia firme, de las penas de:
 
@@ -499,13 +543,13 @@ II. Durante la fase de cumplimiento de sentencia firme:
 
 a) De la medida de seguridad de internamiento en centros psiquiátricos, de deshabituación, desintoxicación o de educación especial.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 21.
 
-Secretaría de Educación y Cultura.
+Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social.
 
-Corresponde a la Secretaría de Educación y Cultura, durante el procedimiento, el auxilio en la ejecución de las condiciones de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que ésta determine.
+Corresponde a las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social, durante el procedimiento, el auxilio en la ejecución de las condiciones para aprender una profesión, arte u oficio o seguir cursos de capacitación en el lugar o institución que éstas determinen.
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
@@ -571,7 +615,9 @@ Al formalizarse la garantía económica se hará saber a quién funja como garan
 
 Prohibición de salir del país.
 
-Cuando se determine la medida cautelar de prohibición de salir del país, se requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+Cuando se determine la medida cautelar de prohibición de salir del país, requerirá el juez de garantía o el tribunal de juicio oral la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría General de Gobierno para que, de conformidad con sus atribuciones, dé aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
@@ -583,11 +629,15 @@ El aviso a las autoridades señaladas también se realizará en caso de sustituc
 
 Prohibición de salir de la localidad o del ámbito territorial.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Fiscalía y prevendrá al imputado para que se presente ante dicha autoridad, con la periodicidad que el propio juez establezca al fijar la medida.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Fiscalía, la que de manera periódica ordenará se visite el domicilio proporcionado por el imputado, para corroborar que aún reside en la localidad.
 
 Durante la ejecución de esta medida, el imputado deberá comunicar a la Fiscalía su cambio de domicilio y cualquier otra circunstancia que permita su localización.
 
-En caso de incumplimiento, la Fiscalía dará aviso oportuno para los efectos procesales a que haya lugar.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+En caso de incumplimiento, los cuerpos de seguridad pública darán aviso oportuno a la Fiscalía para los efectos procesales a que haya lugar.
 
 #### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
 
@@ -633,49 +683,35 @@ En cualquier caso, la Fiscalía informará oportunamente al Juez de Garantía so
 
 #### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 34.
 
 Sistema de monitoreo electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+Al solicitarse la medida cautelar de fijación de localizadores electrónicos al imputado, el Ministerio Público deberá basar su solicitud en un Dictamen Técnico que elaborará la Fiscalía en el que determine la viabilidad de su imposición.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Al dictarse la medida cautelar de fijación de localizadores electrónicos al imputado, la resolución del Juez de Garantía se comunicará directamente a la Fiscalía, a efecto de que dicha autoridad la ejecute.
-
-La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
+Todo imputado a quien se le haya fijado la medida establecida en el párrafo anterior, deberá cumplir las condiciones, términos y requisitos que señale la Fiscalía.
 
 #### SECCIÓN SEXTA. ARRAIGO DOMICILIARIO
 
-> <small>(REFORMADO EN SU RUBRO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 35.
 
-Arraigo sin vigilancia con modalidades.
+Arraigo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+El imputado, al solicitar el arraigo, informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+Al solicitarse el arraigo, el Ministerio Público o la Defensa, deberá basar su solicitud en un Dictamen Técnico que elaborará la Fiscalía en el que determiné la viabilidad de su imposición.
 
-Cuando se decrete el arraigo sin vigilancia, se le impondrán las modalidades que se estimen convenientes; el imputado informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, los Tribunales pedirán el auxilio de la Fiscalía o de otros cuerpos de seguridad pública en el Estado o del municipio de que se trate, a efecto de verificar la existencia del lugar y la viabilidad para su arraigo.
+Cuando el Juez decrete el arraigo, determinará si es o no con vigilancia y sus modalidades que estime convenientes.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
-
-Si el domicilio proporcionado no existe, se considerará como riesgo para la sociedad, en términos del artículo 172 del Código de Procedimientos Penales, lo que implica la revisión de la medida cautelar.
-
-Verificado lo anterior, el Juez de Garantía comunicará en su resolución el tiempo por el que habrá de desarrollarse la medida y, en su caso, las condiciones particulares de su cumplimiento.
+En todos los casos que al imputado se le conceda el arraigo, deberá cumplir con las condiciones, términos y requisitos que señale la Fiscalía.
 
 ###### Artículo 36.
 
-Arraigo con modalidades.
-
-Si se decreta la medida cautelar de arraigo con modalidades, además de cumplir con lo dispuesto en el artículo anterior, el Juez de Garantía determinará en su resolución las modalidades que acompañen al cumplimiento de dicha medida, las cuales no podrán desvirtuar la naturaleza de la misma.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Si la modalidad se trata de vigilancia de la autoridad, se comunicará el proveído a la Fiscalía, o a otros cuerpos de seguridad pública en el Estado, en su caso, en donde se determine la vigilancia permanente o intermitente del imputado en el domicilio señalado.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 #### SECCIÓN SÉPTIMA. PROHIBICIÓN DE ACUDIR A DETERMINADAS REUNIONES O DE VISITAR CIERTOS LUGARES
 
@@ -717,15 +753,17 @@ Si se decreta la medida cautelar de separación del domicilio del imputado, se c
 
 Ejecución de la medida.
 
-La ejecución de la medida cautelar de suspensión de derechos estará sujeta a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+La ejecución de la medida cautelar de suspensión de derechos que dicte la autoridad judicial, será notificada a la Fiscalía y estará sujeta a las siguientes reglas:
 
 a) Si se trata de suspensión de funciones de un servidor público, se remitirá el proveído al superior jerárquico correspondiente, a efecto de que materialmente ejecute la medida.
 
 b) Si se trata de suspensión para el ejercicio de una profesión, se dará aviso a la Oficina Estatal de Profesiones del Gobierno del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-c) Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito de la Federación o del estado o municipio de que se trate.
+c) Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito del municipio, del Estado y Federación, ello con independencia de que la autoridad que haya expedido la licencia de conducir de que se trate, retendrá la del imputado para su resguardo durante la vigencia de la medida.
 
 d) En caso de imponer la suspensión de otros derechos, la ejecución de la medida quedará sujeta a las particularidades que el propio juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
 
@@ -779,11 +817,13 @@ Trabajo del imputado.
 
 Los imputados sometidos a prisión preventiva podrán trabajar conforme a sus aptitudes e inclinaciones. La administración penitenciaria les facilitará los medios de ocupación de que disponga, permitiendo al interno procurarse a sus expensas otros, siempre que sean compatibles con las garantías procesales y la seguridad y el buen orden de aquél. Todo interno deberá contribuir al buen orden, limpieza e higiene del establecimiento penitenciario, siendo reglamentariamente determinados los trabajos organizados a dichos fines.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 46.
 
 Estudios de personalidad.
 
-Desde que el interno quede sujeto a proceso penal, deberán realizarse los estudios sobre la personalidad integral en los aspectos médicos, sicológicos, sociales, pedagógicos y ocupacionales, enviando un ejemplar del estudio a la autoridad judicial que tiene a su cargo el proceso penal.
+Desde que el interno quede sujeto a proceso penal, el consejo interdisciplinario deberá realizar los estudios sobre la personalidad integral en los aspectos médicos, sicológicos, sociales, pedagógicos y ocupacionales, enviando un ejemplar del estudio a la autoridad judicial que tiene a su cargo el proceso penal y al Ministerio Público.
 
 ###### Artículo 47.
 
@@ -793,11 +833,13 @@ Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducen
 
 ### CAPÍTULO II. MEDIDAS CAUTELARES REALES
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 48.
 
-Embargo precautorio.
+Embargo provisional.
 
-Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Secretaria de Finanzas, para los efectos del Capítulo IV, Título Sexto, del Código de Procedimientos Penales.
+Al decretarse la medida cautelar de embargo provisional, se remitirá la resolución a la Fiscalía, la cual la remitirá al Registro Público de la Propiedad.
 
 ### CAPÍTULO III. EJECUCIÓN DE CONDICIONES DURANTE LA SUSPENSIÓN DEL PROCESO A PRUEBA
 
@@ -823,17 +865,25 @@ III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas
 
 IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Secretaría de Salud, quien incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento.
 
-V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez.- Quedará sujeta a la revisión por parte de la Secretaría de Educación y Cultura, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte de la Secretaría de Fomento Social, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
+V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez.- Quedará sujeta a la revisión por parte de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social, quienes darán seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la revisión por parte de la Fiscalía, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Así mismo, supervisará el trabajo del imputado periódicamente, e informará sobre su cumplimiento.
 
 VII.- Someterse a tratamiento médico o sicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital siquiátrico.
 
-VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el juez determine, un oficio, arte o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal de Empleo de la Secretaría General de Gobierno.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el juez determine, un oficio, arte o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se hará por conducto de las Secretarías de Educación, Cultura y Deporte; de Economía, y del Trabajo y Previsión Social.
 
 IX.- Someterse a la vigilancia que determine el juez.- Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al juez.
 
-X.- No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Garantía para los efectos procesales correspondientes.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+X.- No poseer ni portar armas.- Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado, así como a la Secretaría de la Defensa Nacional, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se dé aviso al Juez de Garantía para los efectos procesales correspondientes.
 
 XI.- No conducir vehículos.- Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos.
 
@@ -859,15 +909,13 @@ Sustitución, modificación o cancelación de las medidas cautelares o condicion
 
 El Juez de Garantía informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 52.
 
 Ente coordinador.
 
-La comunicación entre el Juez de Garantía y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Fiscalía, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
+La comunicación entre el órgano jurisdiccional y las autoridades señaladas como auxiliares, se llevará a cabo por conducto de la Fiscalía, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
 
 ## TÍTULO CUARTO. EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -891,11 +939,9 @@ I.- Tratándose de penas privativas de la libertad.-
 
 a) Si el imputado fuera sentenciado a prisión, ordenará inmediatamente su internamiento en el establecimiento penitenciario que corresponda, y lo pondrá a disposición jurídica del Juez de Ejecución de Penas, remitiéndole el registro donde conste su resolución, a efecto de integrar la carpeta respectiva, dando inicio al procedimiento de ejecución penal, para el debido y exacto cumplimiento de la sanción impuesta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-b) Si el condenado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior. En este caso, se pondrá al condenado a disposición material de la Fiscalía, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad.
+b) Si el condenado estuviere en libertad al dictarse el fallo, ordenar cautelarmente su aprehensión inmediata y, una vez efectuada, proceder de conformidad con el inciso anterior. En este caso, se pondrá al condenado a disposición material de la Fiscalía, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -955,7 +1001,9 @@ I.- Cuando un sentenciado está compurgando una pena de prisión impuesta en sen
 
 II.- Cuando el sentenciado reporte diversas penas por delitos cometidos antes de su detención, se procederá a la acumulación de ellas, tomando en cuenta para la primera pena impuesta por sentencia ejecutoriada, la del delito cometido el día de su detención y por las restantes, de acuerdo con el orden cronológico en que vayan causando ejecutorias las sentencias que le imponen otras penas de prisión.
 
-III.- Si el sentenciado estuvo sujeto de forma simultánea a dos o más procesos por la comisión de diversos delitos, fuera de los supuestos de concurso real o ideal, y en tales casos se haya dictado prisión preventiva y luego sentencia condenatoria, el tiempo que se cumplió con dicha medida cautelar se computará para el descuento de cada una de las penas de prisión impuestas.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+III.- Si el sentenciado estuvo sujeto de forma simultánea a dos o más procesos por la comisión de diversos delitos, fuera de los supuestos de concurso real o ideal, y en tales casos se haya dictado prisión preventiva y luego sentencia condenatoria, el tiempo que se cumplió con dicha medida cautelar se computará para la sanción privativa de libertad impuesta en el proceso en el que primero se dicte sentencia.
 
 #### SECCIÓN SEGUNDA. MODALIDADES A LA PENA DE PRISIÓN
 
@@ -963,15 +1011,23 @@ III.- Si el sentenciado estuvo sujeto de forma simultánea a dos o más procesos
 
 Tratamiento en semilibertad.
 
-El tratamiento en semilibertad comprende la alternancia de periodos de privación de la libertad y tratamiento en libertad, como una modalidad de la pena de prisión con fines laborales, educativos o de salud, que conduzcan a la reinserción social y podrá consistir en:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+El tratamiento en semilibertad comprende la alternancia de períodos de privación de la libertad y tratamiento en libertad, como una modalidad de la pena de prisión con fines laborales, educativos o de salud, que establezcan los estudios sobre personalidad que emita la Fiscalía, que conduzcan a la reinserción social y podrá consistir en:
 
 l.- Internamiento de fin de semana;
 
-II.-Internamiento durante la semana;
+II.- Internamiento durante la semana;
 
 III.- Internamiento nocturno; u
 
 IV.- Otras modalidades de internamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 60 Bis.
+
+Para la concesión del tratamiento se deberá de acreditar fehacientemente ante el Juez de Ejecución de Penas, las causas que justifiquen el fin por el cual se solicita la misma, las que deberán de quedar debidamente documentadas en la carpeta de ejecución respectiva y avaladas por el dictamen técnico del consejo interdisciplinario, en el que además se debe determinar la viabilidad del beneficio.
 
 ###### Artículo 61.
 
@@ -1033,11 +1089,39 @@ Fuera de las hipótesis previstas, y sólo en los casos en los que por la edad o
 
 #### SECCIÓN TERCERA. PENA DE RELEGACIÓN
 
+> <small>(REFORMADO SU RUBRO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 65.
 
-Otras modalidades de internamiento.
+Pena de Relegación.
 
 Previos los estudios especializados, el Juez de Ejecución de Penas podrá ordenar el cumplimiento de la pena de prisión en colonias penales, en los términos de los convenios de coordinación celebrados por el Ejecutivo del Estado con las autoridades federales respectivas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 65 Bis.
+
+Disposiciones Generales.
+
+Los beneficios de libertad anticipada, son aquellos otorgados por la autoridad ejecutora, cuando el sentenciado reúna los requisitos establecidos legalmente a cada modalidad.
+
+Dichos beneficios son:
+
+I. Tratamiento preliberacional.
+
+II. Libertad preparatoria.
+
+III. Remisión parcial de la pena.
+
+IV. Ingreso al programa de monitoreo electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 65 Ter.
+
+Solicitud.
+
+El sentenciado que crea tener derecho a un beneficio, elevará su solicitud al Juez de Ejecución de Penas, por conducto de la Fiscalía, dando inicio el procedimiento respectivo.
 
 ### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
@@ -1057,9 +1141,13 @@ El otorgamiento del tratamiento preliberacional se concederá al sentenciado que
 
 I.- Cuando haya compurgado el cincuenta por ciento de la pena privativa de libertad impuesta.
 
-II.- Que acredite haber trabajado en las actividades industriales, de servicios generales o actividades educativas en la prisión o fuera de ella.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-III.- Que demuestre la buena conducta observada durante su internamiento.
+II.- Que acredite haber trabajado en las actividades y programas establecidos por la autoridad penitenciaria.
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+III.- Que haya observado buena conducta durante su internamiento.
 
 IV.- Haber participado en las actividades educativas, recreativas, culturales y deportivas organizadas por la institución penitenciaria.
 
@@ -1069,23 +1157,43 @@ VI.- No estar sujeto a otro proceso penal en el que se haya decretado medida cau
 
 VII.- Ser primodelicuente (sic).
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+El sentenciado deberá mantener un modo honesto de vida durante el plazo que señale el Juez de Ejecución de Penas en la resolución respectiva, de lo contrario el beneficio le será revocado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Los requisitos enumerados en las fracciones II, III y IV, se acreditarán con el informe que para los efectos emita la Fiscalía.
+
 ###### Artículo 68.
 
 Contenido del tratamiento.
 
-El tratamiento preliberacional comprenderá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+La Fiscalía preparará el tratamiento preliberacional por el tiempo que ésta determine y comprenderá:
 
 I.- La preparación del sentenciado y su familia en forma grupal o individual, acerca de los efectos del beneficio.
 
 II.- La preparación del sentenciado respecto de su corresponsabilidad social.
 
-III.- Concesión de salidas grupales con fines culturales y recreativos, visitas guiadas y supervisadas por personal técnico.
+III.- (DEROGADA, P.O. 7 DE MAYO DE 2011)
 
-IV.- Canalización a la institución abierta, en donde se continuará con el tratamiento correspondiente, concediéndole permisos de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+IV.- Realizado lo anterior, la Fiscalía determinará el tratamiento correspondiente y canalizará al sentenciado a la institución abierta, en donde se continuará con el mismo, concediéndole en caso de cumplimiento permisos de:
 
 a) Salida diaria a trabajar o estudiar con reclusión nocturna y salida los sábados y domingos para convivir con su familia; y
 
 b) Reclusión los sábados y domingos para tratamiento técnico.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 68 Bis.
+
+Requisitos de Permanencia.
+
+El sentenciado deberá mantener un modo honesto de vida durante el plazo que señale el Juez de Ejecución de Penas en la resolución respectiva, y presentarse ante la Fiscalía con la periodicidad que ésta determine, de lo contrario el beneficio le será revocado.
 
 #### SECCIÓN SEGUNDA. DE LA LIBERTAD PREPARATORIA
 
@@ -1105,7 +1213,7 @@ II.- Haber acreditado plenamente durante su estancia en prisión, los estudios d
 
 Para el otorgamiento de la libertad preparatoria, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
-III.- Que adopte en el plazo que en la resolución respectiva determine el Juez de Ejecución de Penas cualquier medio honesto de vida.
+III.- (DEROGADA, P.O. 7 DE MAYO DE 2011)
 
 IV.- Que haya reparado el daño causado.
 
@@ -1125,7 +1233,9 @@ III.- Trata de personas.
 
 IV.- Tráfico de influencias, sancionado por el artículo 265.
 
-V.- Homicidio, sancionado por los artículos 125, 126 Y 127.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+V.- Homicidio, sancionado por los artículos 125, 126 ó 127.
 
 VI.- Pornografía.
 
@@ -1133,7 +1243,9 @@ VII.-Tráfico de menores.
 
 VIII.- Violación.
 
-IX.- Abuso Sexual, sancionado por los artículos 174 y 175.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+IX.- Abuso Sexual, sancionado por los artículos 174 ó 175.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1159,15 +1271,13 @@ Solicitud.
 
 El sentenciado que crea tener derecho a la libertad preparatoria, elevará su solicitud al Juez de Ejecución de Penas, por conducto de la Fiscalía, dando inicio el procedimiento respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 72.
 
 Resolución.
 
-La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social. Dentro de las obligaciones del liberado, se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse cada treinta días ante la Fiscalía o las autoridades municipales del lugar de residencia.
+La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como el dictamen elaborado por el consejo interdisciplinario con los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social. Dentro de las obligaciones del liberado, se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse cada treinta días ante la Fiscalía o las autoridades municipales del lugar de residencia.
 
 ###### Artículo 73.
 
@@ -1187,19 +1297,29 @@ Para este efecto, el interesado en revocar el beneficio deberá acreditar los ac
 
 IV.- No reside o deja de residir en el lugar que se haya determinado, del cual no podrá ausentarse sin el permiso del Juez de Ejecución de Penas.
 
-V.- Deja de presentarse injustificadamente por una ocasión.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+
+V.- Deje de presentarse injustificadamente por una ocasión.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+
+VI. No cuente con un medio honesto de vida.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Para tal efecto, la Fiscalía proporcionará la información necesaria para acreditar estas circunstancias ante el Juez de Ejecución de Penas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
 El sentenciado cuya libertad preparatoria haya sido revocada, cumplirá el resto de la pena impuesta. Los hechos que originen los nuevos procesos a que se refiere este artículo, interrumpen los plazos para extinguir la sanción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 74.
 
 Diversos procesos.
 
-Para dar cumplimiento a lo dispuesto en las fracciones I y II del artículo anterior, la autoridad judicial que conozca o haya conocido del proceso, deberá comunicar su resolución al Juez de Ejecución de Penas, con copia a la Fiscalía.
+Para dar cumplimiento a lo dispuesto en las fracciones I y II del artículo anterior, la autoridad judicial que conozca o haya conocido del proceso, deberá comunicar su resolución a la Fiscalía.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1225,13 +1345,15 @@ II.- Que participe regularmente en las actividades educativas, deportivas o de o
 
 III.- Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-Los requisitos señalados en las fracciones I y II se acreditarán con los informes que rinda la Fiscalía.
+Lo anterior se acreditará con los informes que rinda la Fiscalía.
 
 Con estos elementos el Juez de Ejecución de Penas dictaminará sobre la procedencia del beneficio.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Los días laborados que se computen para este beneficio no podrán ser acumulados para el porcentaje que se exige en los demás beneficios.
 
 ###### Artículo 77.
 
@@ -1253,31 +1375,23 @@ Cómputo de los términos.
 
 El cómputo de los términos para el otorgamiento del beneficio de remisión parcial de la pena se realizará tomando en cuenta la sanción privativa de libertad impuesta, sin perjuicio de que se haya dictado una nueva sentencia condenatoria.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### Artículo 80.
 
 Procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+El procedimiento para la concesión de beneficios se iniciará de oficio o a petición de parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-El procedimiento para la concesión de beneficios se iniciará de oficio o a petición de parte. En ambos casos, la Fiscalía estará obligada a remitir la solicitud al Juez de Ejecución de Penas. Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la solicitud.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+Cuando la solicitud se presente ante Fiscalía, o ésta inicie el procedimiento, remitirá la solicitud al Juez de Ejecución de Penas, dentro de los tres días hábiles siguientes.
 
 Admitida la solicitud, el Juez de Ejecución de Penas solicitará a la Fiscalía, que por conducto del Consejo, se remitan los estudios de personalidad del sentenciado dentro de los sesenta días siguientes a la admisión.
 
+Cuando la solicitud se presente ante el Juez de Ejecución de Penas, o éste inicie el procedimiento, se estará a lo dispuesto en el párrafo anterior.
+
 Recibidos los estudios, el Juez de Ejecución de Penas emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
-La resolución a que se refiere el artículo anterior será notificada el día de su emisión a la Fiscalía, para que la cumpla en sus términos.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+La resolución a que se refiere el artículo anterior, será notificada el día de su emisión a la Fiscalía, para que la cumpla en sus términos.
 
 Realizado lo anterior en cuanto al trámite, se estará a lo dispuesto por el artículo 12 Bis del presente ordenamiento.
 
@@ -1291,15 +1405,17 @@ Improcedencia.
 
 Las peticiones que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes serán resueltas de inmediato y notificadas al interesado y a la Fiscalía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
-
 ###### Artículo 82.
 
 Localizadores electrónicos.
 
-Para ejercer una mayor vigilancia, la Fiscalía está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional; asimismo, para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
+Para ejercer una mayor vigilancia, la Fiscalía solicitará al Juez de Ejecución de Penas, implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+Una vez concedido el ingreso al programa, el sentenciado deberá sujetarse a las obligaciones y medidas de vigilancia que fije la Fiscalía de acuerdo al reglamento respectivo.
 
 ### CAPÍTULO IV. DE LA LIBERTAD DEFINITIVA
 
@@ -1419,23 +1535,43 @@ La rehabilitación de los derechos será ordenada por el Juez de Ejecución de P
 
 ### CAPÍTULO V. CONDENA CONDICIONAL
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO TERCERO DEL DECRETO NO. 298/2011 II P.O., PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
 ###### Artículo 97.
 
 Naturaleza y requisitos.
 
 La condena condicional es una facultad por la cual el juzgador, al emitir sentencia, podrá suspender la ejecución de la pena de prisión. Tiene por objeto fundamental permitir al sentenciado incorporarse a la sociedad, cumpliendo así la sanción que se le impuso, siendo procedente cuando se cumpla la totalidad de las siguientes condiciones:
 
-I.- La prisión por compurgar no exceda de tres anos, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-II.- El beneficiado no haya cometido delito doloso en los tres años anteriores a los hechos por los cuales se le juzga.
+I. La pena de prisión impuesta no exceda de tres años, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria.
 
-III.- El sentenciado haya observado buena conducta durante la tramitación del proceso. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes de la autoridad penitenciaria.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Il. El beneficiado no haya cometido delito doloso en los seis años anteriores a los hechos por los cuales se le juzga.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-Para el otorgamiento de la condena condicional, no se considerará como antecedente de mala conducta el relativo a que se le haya considerado farmacodependiente, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
+IIl. El sentenciado haya observado buena conducta durante la tramitación del proceso, incluyendo la observancia de las medidas cautelares Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes que debe rendir la Fiscalía.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 97 Bis.
+
+Requisitos de Permanencia.
+
+Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado deberá:
+
+I. Otorgar la garantía o sujetarse a las medidas que se fijen para asegurar su comparecencia ante la autoridad, cada vez que sea requerido por ésta;
+
+II. Residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza el cuidado y vigilancia;
+
+III. Desempeñar una ocupación lícita;
+
+IV. Abstenerse de causar molestias al ofendido, a sus familiares o a cualquier interviniente en el juicio, y
+
+V. Acreditar que se ha cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
 
 ###### Artículo 98.
 
@@ -1457,6 +1593,10 @@ Vigilancia de la autoridad.
 
 Los sentenciados que obtengan la condena condicional quedarán sujetos a la vigilancia de la autoridad, en los términos de los artículos 30,32, 33 y 123 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+En todos los casos en que se requieran estudios de la Fiscalía, el juez deberá tomar en cuenta las recomendaciones y determinará las condiciones para el tratamiento.
+
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### Artículo 101.
@@ -1473,11 +1613,7 @@ En caso de incumplimiento de las obligaciones fijadas en la sentencia, el Juez d
 
 ###### Artículo 103.
 
-Sustitución de la prisión.
-
-En los supuestos de los dos artículos anteriores, el Juez de Ejecución de Penas podrá sustituir la prisión que reste por cumplir por trabajo a favor de la comunidad, a condición de que el sentenciado pague el importe de la reparación del daño, en su caso.
-
-Si se revoca por la comisión de nuevo delito y el sentenciado no se encontrara gozando de libertad, el trabajo lo desarrollará dentro del reclusorio. En este caso, el trabajo no se considerará para el otorgamiento de algún beneficio preliberacional, en relación a la nueva pena que llegare a imponérsele.
+(DEROGADO, P.O. 7 DE MAYO DE 2011)
 
 ### CAPÍTULO VI. REGLAS GENERALES PARA LA SUSTITUCIÓN DE SANCIONES Y CONDENA CONDICIONAL
 
@@ -1486,6 +1622,56 @@ Si se revoca por la comisión de nuevo delito y el sentenciado no se encontrara 
 Facultad de promover la suspensión.
 
 El sentenciado que considere que al dictarse la sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el Juez de Ejecución de Penas.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 104-A.
+
+Sustitución de la prisión.
+
+El Juez de Garantía, o el Tribunal de Juicio Oral, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
+
+I. Por multa o trabajo en favor de la comunidad, cuando no exceda de tres años, y
+
+II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años.
+
+La equivalencia de la multa sustitutiva de la pena de prisión, será en razón de un día multa por un día de prisión, de acuerdo con las posibilidades económicas del sentenciado.
+
+Será obligación del Ministerio Público presentar en la audiencia respectiva, ante la autoridad judicial, los estudios a los que se refiere el párrafo primero.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 104-B.
+
+Sustitución de la multa.
+
+La multa podrá ser sustituida por trabajo en favor de la comunidad.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 104-C.
+
+Condiciones para la sustitución.
+
+La sustitución de la sanción privativa de libertad procederá cuando se cubra la reparación del daño a la víctima u ofendido y sea negociada con la persona moral de derecho público, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+
+La sustitución de la pena de prisión no podrá aplicarse por la autoridad judicial cuando se trate de un sujeto al que anteriormente se le hubiere condenado en sentencia ejecutoriada por delito doloso durante los últimos seis años, así como cuando se trate de una trasgresión en perjuicio de la hacienda pública.
+
+El beneficiado quedará sujeto a la vigilancia de la autoridad, en los términos de los artículos 30, 32, 33 y 123 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+###### Artículo 104-D.
+
+Revocación de la sustitución.
+
+La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta:
+
+I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas por la autoridad, o
+
+II. Cuando al sentenciado se le condene en otro proceso por delito doloso; si el nuevo delito carece de trascendencia social o es imprudencial, la autoridad judicial resolverá si debe aplicarse la pena sustituida.
+
+En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2010)</small>
 
@@ -2454,3 +2640,9 @@ Los procedimientos penales iniciados antes de la entrada en vigor del presente D
 ###### ARTÍCULO TERCERO.
 
 Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
