@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2009-07-04"
+last_updated: "2011-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -807,7 +807,19 @@ ARTICULO 44 QUATER. Las instituciones públicas y privadas que proporcionen serv
 
 ### CAPITULO UNICO
 
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 45.
+
+La familia de la persona adulta mayor deberá cumplir su función social y moral; por tanto, de manera constante y permanente deberá hacerse cargo de cada una de las personas adultas mayores que formen parte de ella, conocerá sus necesidades y propiciará los elementos necesarios para su atención.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+El lugar ideal para que las personas adultas mayores permanezcan es su hogar; y sólo en caso de enfermedad, o por causa de fuerza mayor, la persona que sea su tutora o responsable podrá solicitar su ingreso en alguna institución de asistencia pública o privada, dedicadas al cuidado de personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
+
+De igual forma, la persona adulta mayor por decisión personal podrá solicitar su ingreso en alguna institución de asistencia pública o privada dedicadas a su cuidado.
 
 Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de una persona adulta mayor, que ponga en riesgo su integridad física o psicológica, así como sus derechos, serán sancionados conforme a las leyes de la materia en el Estado, según sea el caso, o administrativamente en términos de lo dispuesto en la presente Ley.
 
@@ -1016,3 +1028,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las instituciones públicas y privadas que proporcionen servicios públicos y brinden atención al público, tendrán un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para que adecuen su infraestructura, con la finalidad de brindar atención preferente a las personas beneficiarias por éste.
 
 TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
+
+P.O. 7 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
