@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-03-28"
+last_updated: "2011-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -93,7 +93,7 @@ I.- Recibir de los Diputados, electos las constancias que los acrediten como tal
 
 II.- Recibir la notificación de las resoluciones firmes que dicte el Tribunal Electoral del Estado, respecto de los medios de impugnación que haya conocido, de conformidad con lo dispuesto por la Ley de la materia;
 
-III.- Entregar a la Directiva de la Junta Preparatoria, los registros y en general, la documentación relativa al funcionamiento y ejercicio de la Legislatura saliente; y
+III.- Entregar a la Directiva de la Junta Preparatoria, los registros y en general, la documentación relativa al funcionamiento y ejercicio de la Legislatura saliente;
 
 IV.- Citar dentro de los ocho días naturales, previos al inicio de la Legislatura entrante a los Diputados Electos, quienes con la asistencia de la mayoría absoluta de los mismos se constituirán en Junta Preparatoria y bajo la conducción de la Comisión Instaladora procederán, mediante votación por cédulas, a la elección de los miembros que conformarán su Directiva, misma que se integrará por un Presidente, un Vicepresidente y dos Secretarios, los que una vez electos, de inmediato rendirán protesta. El Presidente de la Comisión Instaladora preguntará: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?". Los interrogados contestarán: "Si protesto". El Presidente de la Comisión Instaladora, dirá: "Si así no lo hicieren, que la sociedad se los demande". Acto continuo, el Presidente de la Comisión Instaladora, solicitará a los Diputados electos que pasen a ocupar los lugares correspondientes en las curules;
 
@@ -761,7 +761,15 @@ XXVII.- Comisión de Cultura;
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 2010)</small>
 
-XXVIII.- Comisión de los Adultos Mayores.
+XXVIII.- Comisión de los Adultos Mayores;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2011)</small>
+
+XXIX.- Comisión de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2011)</small>
+
+XXX.- Comisión de Fortalecimiento y Desarrollo Municipal.
 
 Los Diputados que integren estas Comisiones, fungirán durante todo el Ejercicio Constitucional. Cuando las circunstancias lo justifiquen, el Pleno aprobará las modificaciones que se estimen pertinentes.
 
@@ -1934,3 +1942,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las atribuciones del Instituto darán inicio cuando se hayan efectuado las reasignaciones presupuestarias y reestructura logística y financiera, así lo permitan.
 
 CUARTO.- En tanto se expidan la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo y disposiciones administrativas que se deriven de la presente Ley y de otras disposiciones legales que resulten aplicables, seguirá en vigor las que han regido hasta ahora para el Centro de Desarrollo y Estudios Municipales, en lo que no la contravengan.
+
+P.O. 9 DE MAYO DE 2011.
+
+Primero.- Envíese al Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
+
+Segundo.- Envíese copia del mismo, a la Junta de Gobierno del Congreso del Estado, para los efectos procedentes.
