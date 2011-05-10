@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2010-11-30"
+last_updated: "2011-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 2011.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3791,7 +3791,7 @@ b).- Todo acto o procedimiento que evite o dificulte, o se proponga evitar o dif
 
 c).- La limitación de la producción o el manejo que se haga de la misma, con el propósito de mantener las mercancías en injusto precio.
 
-d).- Todo acuerdo o combinación, de cualquier manera que se haga, de productores, industriales, comerciantes o transportistas, para evitar la competencia entre sí y traiga como consecuencia que los consumidores o usuarios paguen precios exagerados.
+d).- (DEROGADO, D.O.F. 10 DE MAYO DE 2011)
 
 e).- La suspensión de la producción, procesamiento, distribución, oferta o venta de mercancías o de la prestación de servicios, que efectúen los industriales, comerciantes, productores, empresarios o prestadores de servicios, con el objeto de obtener un alza en los precios o se afecte el abasto de los consumidores.
 
@@ -3887,7 +3887,25 @@ La sanción que corresponda se aumentará en una mitad cuando se realice en los 
 
 VIII.- Al que sin derecho realice cualquier sustracción o alteración de equipos o instalaciones del servicio público de energía eléctrica.
 
-ARTICULO 254 bis.- (DEROGADO, D.O.F. 13 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 2011)</small>
+
+ARTICULO 254 bis.- Se sancionará con prisión de tres a diez años y con mil a tres mil días de multa, a quien celebre, ordene o ejecute contratos, convenios o arreglos entre agentes económicos competidores, cuyo objeto sea cualquiera de los siguientes:
+
+I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
+
+II. Establecer la obligación de no producir, procesar, distribuir, comercializar o adquirir sino solamente una cantidad restringida o limitada de bienes o la prestación o transacción de un número, volumen o frecuencia restringidos o limitados de servicios;
+
+III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado actual o potencial de bienes y servicios, mediante clientela, proveedores, tiempos o espacios determinados o determinables, o
+
+IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas públicas.
+
+El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia, la cual sólo podrá formularse cuando la autoridad competente haya determinado mediante resolución que haya causado estado, que un agente económico resultó responsable de haber cometido alguna práctica monopólica absoluta, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
+
+No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 33 bis 3 de la Ley Federal de Competencia Económica, previa resolución de la Comisión que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+
+Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión.
+
+La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad a que se refiere el primer párrafo de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -6534,3 +6552,35 @@ Décimo. Para el establecimiento y organización de las unidades especializadas 
 Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
 
 Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 10 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
+
+###### ARTÍCULO TERCERO.
+
+El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
+
+###### ARTÍCULO CUARTO.
+
+Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su realización.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
+
+###### ARTÍCULO SEXTO.
+
+La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
