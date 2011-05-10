@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2010-08-24"
+last_updated: "2011-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -55,9 +55,9 @@ III. La protección y el acrecentamiento de los valores que coadyuven a la creac
 
 IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
 
-V. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población;
+V. El disfrute de servicios de salud que satisfagan eficaz y oportunamente las necesidades de la población, bajo condiciones que aseguren su integridad física;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -265,9 +265,15 @@ XV. Impulsar la permanente actualización de las disposiciones legales en materi
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XVI. Impulsar la mejora de los procesos de atención a la salud mediante la implementación de sistemas de gestión de calidad en las dependencias públicas y privadas, para alcanzar la certificación de las mismas, y
+XVI. Impulsar la mejora de los procesos de atención a la salud mediante la implementación de sistemas de gestión de calidad en las dependencias públicas y privadas, para alcanzar la certificación de las mismas, y (sic)
 
-XVII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XVII. En coordinación con las autoridades competentes, elaborar, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven, y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 8o.
 
@@ -2802,3 +2808,21 @@ P.O. 24 DE AGOSTO DE 2010.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo de sesenta días naturales para que la Secretaría de Gobierno a través de la Subsecretaría de Protección Civil, en coordinación con la Fiscalía General del Estado, emitan los lineamientos y criterios que deberán contener los planes de contingencia de disturbios.
+
+###### ARTÍCULO TERCERO.
+
+Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un tanto más para que las Secretarías de Educación y Cultura y de Salud elaboren, publiquen e implementen los planes objeto del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
