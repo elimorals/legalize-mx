@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2009-02-06"
+last_updated: "2011-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY ESTATAL DE EDUCACION DE COAHUILA DE ZARAGOZA
 
-LEY ESTATAL DE EDUCACION
+LEY ESTATAL DE EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -77,7 +77,7 @@ Los servicios de educación que ofrezcan el estado y los municipios serán gratu
 
 En ningún caso podrán condicionarse la inscripción o el acceso a estos servicios, al pago del mencionado donativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 7°.
 
@@ -159,7 +159,17 @@ XIV.- Crear y fomentar programas de educación para adultos, de alfabetización 
 
 XV.- Promover la vinculación de las instituciones educativas con el sector productivo de la entidad; y
 
-XVI.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XVI.- En coordinación con las autoridades competentes, elaborar, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XVII.- Coordinarse con las autoridades de seguridad pública y protección civil en el Estado, a fin de implementar las acciones necesarias para la protección de la población estudiantil, ante la posible presencia de disturbios que pongan en riesgo la seguridad y salvaguarda de los mismos; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XVIII.- Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 ###### ARTICULO 10.
 
@@ -883,7 +893,9 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o representación
 
 I.- Hacer que sus hijos, pupilos, o representados menores de edad, concurran a las escuelas públicas o privadas para obtener educación básica en los términos previstos por las disposiciones aplicables;
 
-II.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+II.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como en la implementación de acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y
 
 III.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar.
 
@@ -973,7 +985,7 @@ La Secretaría de Educación Pública del Estado podrá hacer recomendaciones an
 
 El Estado fomentará el establecimiento de medios de comunicación que difundan, en el ámbito educativo, la cultura y las tradiciones del mismo y que sirvan de foro para la expresión de los diferentes sectores de la sociedad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO VI. DEL SERVICIO SOCIAL
 
@@ -1149,7 +1161,7 @@ EL SECRETARIO DE EDUCACION PUBLICA
 
 LIC. OSCAR PIMENTEL GONZALEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -1166,3 +1178,21 @@ P.O. 6 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 10 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo de sesenta días naturales para que la Secretaría de Gobierno a través de la Subsecretaría de Protección Civil, en coordinación con la Fiscalía General del Estado, emitan los lineamientos y criterios que deberán contener los planes de contingencia de disturbios.
+
+###### ARTÍCULO TERCERO.
+
+Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un tanto más para que las Secretarías de Educación y Cultura y de Salud elaboren, publiquen e implementen los planes objeto del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
