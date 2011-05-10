@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2010-05-14"
+last_updated: "2011-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -67,11 +67,15 @@ VIII. Las demás que con ese carácter estén previstas en esta ley y demás dis
 
 Para los efectos de esta Ley se considera de interés público:
 
-I. La identificación, estudio, análisis, prevención y control de las situaciones de emergencia o desastre que se presenten en el Estado;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+l. La identificación, estudio, análisis, prevención y control de las situaciones de emergencia, desastre y/o disturbios que se presenten en el Estado, principalmente en los centros educativos y de salud;
 
 II. El establecimiento de procedimientos, estrategias y líneas de acción tendientes a la prevención de las situaciones a que se refiere la fracción anterior;
 
-III. La expedición, aplicación, evaluación y difusión del Plan Estatal y el Programa Estatal de Protección Civil, así como de los programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+III. La expedición, aplicación, evaluación y difusión del Plan Estatal y el Programa Estatal de Protección Civil, así como de los planes y programas específicos, sectoriales, regionales o acciones que de éstos se deriven;
 
 IV. La ejecución coordinada de programas y acciones de los gobiernos federal, estatales y municipales, tendientes a hacer del conocimiento de la población las medidas que, para la prevención y control de desastres, se estimen necesarios, y
 
@@ -133,9 +137,15 @@ XXIII. Subsecretaría. La Subsecretaría de Protección Civil de la Secretaría 
 
 XXIV. Zona de Riesgo. La zona de restricción total, en la que no se permite ningún tipo de actividad, incluyendo los asentamientos humanos, con excepción de actividades de forestación, cercamiento y señalamiento de la misma, así como el mantenimiento y vigilancia correspondiente.
 
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XXV. Disturbios. Las contingencias que pudieran presentarse derivadas de amenazas de atentados o ataques, despliegue de las fuerzas de seguridad, terrorismo, interrupción de servicios básicos, bloqueos a las vías terrestres de comunicación y cualquier otra acción de naturaleza análoga que pudiera poner en riesgo la salud, seguridad, así como la integridad de las personas.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 6.
 
-El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias y a través de las instancias correspondientes, fomentarán la implementación de programas, estudios, investigaciones y demás actividades tendientes a desarrollar nuevos métodos, sistemas, equipos y dispositivos para la prevención y auxilio ante desastres.
+El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias y a través de las instancias correspondientes, fomentarán la implementación de planes, programas, estudios, investigaciones y demás actividades tendientes a desarrollar nuevos métodos, sistemas, equipos y dispositivos para la prevención y auxilio ante desastres.
 
 ###### ARTÍCULO 7.
 
@@ -157,7 +167,9 @@ El Gobierno del Estado y los municipios contemplarán dentro de sus presupuestos
 
 Corresponde al titular del Ejecutivo del Estado el ejercicio de las siguientes atribuciones:
 
-I. Establecer políticas y estrategias en materia de protección civil, que garanticen la salvaguarda de las personas, sus bienes, los servicios básicos y el medio ambiente;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+I. Establecer políticas y estrategias en materia de protección civil, que garanticen la salvaguarda y seguridad de las personas, sus bienes, los servicios básicos y el medio ambiente;
 
 II. Coordinar las acciones para el adecuado funcionamiento del Sistema y promover la coordinación de acciones entre el Estado con los gobiernos federal y municipales;
 
@@ -171,7 +183,9 @@ VI. Vigilar el cumplimiento de las disposiciones de esta ley y los programas de 
 
 VII. Emitir o, en su caso, solicitar ante el Gobierno Federal la declaratoria de emergencia o de desastre, en los términos establecidos en esta ley y demás disposiciones aplicables;
 
-VIII. Ordenar, en su caso, la evacuación forzosa ante la presencia de una emergencia o desastre;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+VIII. Ordenar, en su caso, la evacuación forzosa ante la presencia de una emergencia, desastre y/o disturbio;
 
 IX. Solicitar, cuando lo estime necesario, el apoyo del Gobierno Federal, de las entidades y de los municipios para el desarrollo de las acciones de auxilio y rescate derivadas de los efectos de una emergencia o desastre;
 
@@ -183,7 +197,13 @@ XII. Promover la participación ciudadana en la elaboración, ejecución, evalua
 
 XIII. Promover que en las instituciones educativas de todos los niveles, se impartan materias o cursos en torno a la protección civil, y
 
-XIV. Las demás que le confiera la presente ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XIV. Ordenar la elaboración, publicación e implementación de los planes de contingencia de disturbios en centros educativos y de salud; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XV. Las demás que le confiera la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -191,7 +211,9 @@ Corresponde al Secretario de Gobierno el ejercicio de las siguientes atribucione
 
 I. Apoyar, coordinar y evaluar a las diversas dependencias y entidades de la Administración Pública Estatal que, por sus funciones, participen en las labores de protección civil;
 
-II. Ordenar y supervisar la elaboración de los estudios, programas y políticas en materia de protección civil, así como del Atlas Estatal de Riesgos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+II. Ordenar y supervisar la elaboración de los lineamientos y criterios para la implementación de planes de contingencia de disturbios, estudios, programas y políticas en materia de protección civil, así como del Atlas Estatal de Riesgos;
 
 III. Supervisar la prestación de las acciones de prevención y auxilio en caso de emergencias o desastres;
 
@@ -263,9 +285,19 @@ XXVII. Elaborar una base de datos de empresas que transporten sustancias químic
 
 XXVIII. Expedir las autorizaciones para el funcionamiento de los grupos voluntarios en materia de protección civil;
 
-XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y
+XXIX. Expedir, previa solicitud, copias certificadas de los documentos que obren en poder de la Subsecretaría, y (sic)
 
-XXX. Las demás que establezcan la presente ley y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XXX. En coordinación con la Fiscalía General del Estado y demás autoridades competentes, emitir y difundir los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
+
+XXXI. Vigilar y verificar la implementación de los planes de contingencia de disturbios en centros educativos y de salud; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XXXII. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 13.
 
@@ -313,6 +345,10 @@ Los dictámenes, autorizaciones y demás licencias que, en materia ambiental, ex
 
 Las autoridades de protección civil, así como aquellas que correspondan, en el ámbito de su competencia, adoptarán y ejecutarán las medidas y acciones de prevención y seguridad encaminadas a proteger el interés público y evitar daños a las personas, sus bienes y al medio ambiente.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2011)</small>
+
+Asimismo, verificarán que los establecimientos cumplan con lineamientos y criterios necesarios para hacer frente a disturbios que pudieran poner en riesgo a la población principalmente en los centros educativos y de salud.
+
 ###### ARTÍCULO 16.
 
 En caso de riesgo y sin perjuicio de la emisión de la declaratoria de emergencia o desastre correspondiente, las autoridades competentes ejecutarán las medidas de seguridad aplicables al caso concreto.
@@ -353,7 +389,13 @@ XIII. Recomendación para el confinamiento de personas en sus domicilios o en si
 
 XIV. El condicionamiento y/o limitación del uso de servicios públicos y privados y el consumo de bienes;
 
-XV. Las demás que en materia de protección civil determine esta ley, las disposiciones reglamentarias y demás aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XV. Informar en coordinación con la Fiscalía General del Estado, a las autoridades competentes en materia de educación, sobre la emisión de los avisos de suspensión de clases que sean necesarios en caso de disturbios; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 10 DE MAYO DE 2011)</small>
+
+XVI. Las demás que en materia de protección civil determine esta ley, las disposiciones reglamentarias y demás aplicables.
 
 La adopción y ejecución de estas medidas se llevará a cabo sin perjuicio de la indemnización a que haya lugar y sin responsabilidad para la autoridad en materia de protección civil que las ordenó en los términos y procedimientos que establezca el reglamento de la presente ley.
 
@@ -381,9 +423,11 @@ El Consejo Estatal y los consejos municipales realizarán campañas permanentes 
 
 El Consejo Estatal promoverá ante la Secretaría de Educación y Cultura, para que proporcione información y capacitación en materia de protección civil, en las instituciones de educación básica y media superior. Asimismo, fomentará este tipo de acciones en las instituciones de educación superior, en organizaciones sociales y grupos de vecinos.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-La Secretaria de Educación y Cultura, en coordinación con la Subsecretaría, implementará en todas las escuelas de la entidad el Programa Estatal.
+La Secretaría de Educación y Cultura, en coordinación con la Subsecretaría, implementará en todas las escuelas de la entidad el Programa Estatal, así como el plan de contingencia de disturbios.
 
 ### CAPÍTULO QUINTO. OBLIGACIONES DE LAS PERSONAS FÍSICAS Y MORALES EN MATERIA DE PROTECCIÓN CIVIL
 
@@ -391,7 +435,9 @@ La Secretaria de Educación y Cultura, en coordinación con la Subsecretaría, i
 
 Toda persona física o moral deberá:
 
-I. Informar a las autoridades competentes de cualquier acto u omisión que cause o pueda causar una situación de emergencia o desastre;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+I. Informar a las autoridades competentes de cualquier acto u omisión que cause o pueda causar una situación de emergencia, desastre y/o disturbio;
 
 II. Cooperar con las autoridades correspondientes en la ejecución de acciones en caso de emergencia o desastre;
 
@@ -683,13 +729,17 @@ I. Auxiliar a los órganos que integran el Sistema en la planeación, seguridad,
 
 II. Sugerir las acciones de coordinación para el auxilio a la población, en el ámbito geográfico del Estado en el que se prevea u ocurra algún desastre;
 
-III. Sugerir la elaboración de programas y medidas para la prevención de emergencias o desastres;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+III. Sugerir la elaboración de programas y medidas para la prevención de emergencias o desastres y apoyar en la elaboración de los lineamientos y criterios para la implementación de planes de contingencia de disturbios;
 
 IV. Establecer mecanismos de coordinación con las instancias que integran los Sistemas Nacional y municipales de protección civil;
 
 V. Auxiliar en la difusión y ejecución de las acciones que se convengan realizar en la materia;
 
-VI. Apoyar a las autoridades competentes en la difusión del Programa Estatal;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+VI. Apoyar a las autoridades competentes en la difusión del programa estatal; así como de los planes de contingencia de disturbios para los centros educativos y de salud;
 
 VII. Proponer mecanismos que permitan la adecuada racionalización del uso y destino de los recursos que se asignen a la prevención, auxilio y recuperación de la población ante la eventualidad de un desastre;
 
@@ -929,6 +979,10 @@ VI. El inspector comunicará al visitado si existen irregularidades e incumplimi
 
 El inspector deberá comprobar si el establecimiento cuenta con los programas de prevención, auxilio y recuperación a que se refiere esta ley. Para tal fin, tendrán acceso a las áreas e instalaciones respectivas.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2011)</small>
+
+Tratándose de centros educativos y de salud, deberá verificar el cumplimiento de los planes de contingencia de disturbios.
+
 ###### ARTÍCULO 83.
 
 En el caso de obstaculización u oposición a la práctica de la visita, la autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuarla, sin perjuicio de que se apliquen las sanciones que correspondan.
@@ -975,7 +1029,9 @@ Corresponde a la Subsecretaría y a las unidades municipales de protección civi
 
 Son infracciones a esta ley:
 
-I. Abstenerse de presentar ante la Subsecretaría, los programas de prevención de accidentes, internos y externos correspondientes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+
+l. Abstenerse de presentar ante la Subsecretaría, los programas de prevención de accidentes, internos y externos correspondientes, así como los planes de contingencia de disturbios;
 
 II. Abstenerse de presentar, en tiempo y forma, las autodeclaratorias de cumplimiento de obligaciones en materia de protección civil;
 
@@ -1148,3 +1204,23 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se otorga un plazo de sesenta días naturales para que la Secretaría de Gobierno a través de la Subsecretaría de Protección Civil, en coordinación con la Fiscalía General del Estado, emitan los lineamientos y criterios que deberán contener los planes de contingencia de disturbios.
+
+###### ARTÍCULO TERCERO.
+
+Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un tanto más para que las Secretarías de Educación y Cultura y de Salud elaboren, publiquen e implementen los planes objeto del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
