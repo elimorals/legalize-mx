@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2011.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
@@ -1792,7 +1792,7 @@ Las personas físicas con actividades empresariales y las personas morales que s
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $34,803,950.00, que el valor de su activo determinado en los términos del artículo 9o-A de la Ley del Impuesto sobre la Renta sea superior a $69,607,920.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
 
@@ -3232,9 +3232,9 @@ Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales federales, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 63 de este Código. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 134 de este Código, ni la que se proporcione a un contribuyente para verificar la información contenida en los comprobantes fiscales que pretendan deducir o acreditar, expedidos a su nombre en términos del artículo 29 de este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2011)</small>
 
-La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud.
+La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal, que realice la Secretaría de Hacienda y Crédito Público ni cuando, para los efectos del artículo 26 de la Ley del Impuesto Especial sobre Producción y Servicios, la autoridad requiera intercambiar información con la Comisión Federal para la Protección contra Riesgos Sanitarios de la Secretaría de Salud. Tampoco será aplicable dicha reserva respecto a los requerimientos que realice la Comisión Federal de Competencia para efecto de calcular el monto de las sanciones a que se refiere el artículo 35 de la Ley Federal de Competencia Económica, cuando el agente económico no haya proporcionado información sobre sus ingresos a dicha Comisión, o bien, ésta considere que se presentó en forma incompleta o inexacta.
 
 > <small>(ADICIONADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -8461,3 +8461,35 @@ DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBEN LAS FRACCIONES I Y II DEL
 I. Conforme a la fracción III de la regla I.2.1.7., se dan a conocer las cantidades actualizadas establecidas en el artículo que se precisa en dicha regla, que entrarán en vigor a partir del 1 de enero de 2011.
 
 II. Conforme a la fracción III de la regla I.2.1.7., se dan a conocer las cantidades que entrarán en vigor a partir del 1 de enero de 2011, establecidas en los artículos que se precisan en dicha fracción.
+
+D.O.F. 10 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
+
+###### ARTÍCULO TERCERO.
+
+El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el periodo actual del Presidente de la Comisión.
+
+###### ARTÍCULO CUARTO.
+
+Las investigaciones, visitas de verificación, procedimientos y cualquier otro asunto que se encuentren en trámite a la entrada en vigor del presente Decreto, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la Ley vigente al momento de su realización.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos necesarios para la implementación del presente Decreto, serán con cargo al presupuesto autorizado de la Comisión Federal de Competencia.
+
+###### ARTÍCULO SEXTO.
+
+La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará en vigor una vez que los juzgados especializados en materia de competencia económica queden establecidos por el Poder Judicial de la Federación y se expidan las reglas procesales aplicables al juicio ordinario administrativo en las disposiciones legales correspondientes, en un plazo que no exceda de 180 días naturales a la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
