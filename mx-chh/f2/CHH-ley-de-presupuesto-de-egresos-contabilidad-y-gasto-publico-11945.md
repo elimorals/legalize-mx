@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2009-06-10"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -329,7 +329,9 @@ I.- Exposición de motivos en las que señalen los efectos económicos y sociale
 
 II.- Descripción clara de los programas que integren el proyecto de presupuesto de egresos, en donde se señalen objetivos, metas, indicadores y prioridades con base en los principios de eficiencia, eficacia, economía, transparencia y honradez, de conformidad con la justificación debidamente motivada que realicen las entidades y Dependencias;
 
-III.- Explicación y comentarios de los principales programas y, en especial, de aquellos que abarcan dos o más ejercicios fiscales;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III.- Explicación y comentarios de los principales programas y, en especial, de aquellos que abarcan dos o más ejercicios fiscales, así como de los Proyectos de Inversión Pública a Largo Plazo;
 
 IV.- Estimación de ingresos y gasto del ejercicio fiscal para el que se propone;
 
@@ -339,9 +341,17 @@ VI.- Ingresos y gastos realizados en el último ejercicio fiscal;
 
 VII.- Ingresos y gastos del ejercicio fiscal en curso;
 
-VIII.- Situación de la deuda pública estatal al término del último ejercicio fiscal y estimación de las que tendrá en los ejercicios en curso e inmediato siguiente, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-IX.- En general toda la información que se considere útil para sustentar la proposición en forma clara y completa.
+VIII.- Situación de la deuda pública estatal al término del último ejercicio fiscal y estimación de las que tendrá en los ejercicios en curso e inmediato siguiente;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IX.- Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo que hayan sido autorizadas por el Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+X.- En general toda la información que se considere útil para sustentar la proposición en forma clara y completa.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -352,6 +362,14 @@ El Proyecto de Presupuesto de Egresos del Estado, deberá ser presentado oportun
 ###### ARTICULO 33.
 
 El Presupuesto de Egresos del Estado de Chihuahua será el que contenga el decreto que apruebe el H. Congreso del Estado, a iniciativa del Ejecutivo, para expresar en términos monetarios, durante el período de un año a partir del primero de enero, las actividades, las obras, servicios públicos y en general, las previsiones de gasto público de los programas a cargo de las Entidades, Dependencias y Organismos que en el propio presupuesto se señalen.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Presupuesto de Egresos contendrá las partidas plurianuales necesarias para cubrir las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El pago derivado de los Proyectos de Inversión Pública a Largo Plazo se registrará contablemente como gasto corriente.
 
 ###### ARTICULO 34.
 
@@ -409,17 +427,23 @@ II. Ingresos adicionales que excedan al 5% del Presupuesto Directo aprobado.
 
 Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto que lo autorice y tenga el saldo suficiente para cubrirlo.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Las obligaciones de pago derivadas de los Proyectos de Inversión Pública a Largo Plazo, deberán quedar debidamente identificadas en la partida presupuestal correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamiento, se efectuará con base a calendarios financieros y de metas propuestas por las entidades y dependencias de acuerdo con las normas y lineamientos que fije la Secretaría, las que comunicará a más tardar durante el mes de enero de cada año.
+El ejercicio del gasto público relativo a la realización de obra pública, adquisición de bienes, servicios y la celebración de contratos de arrendamientos, o de Contratos de Proyectos de Inversión Pública a Largo Plazo, se efectuará con base a calendarios financieros y de metas propuestas por las entidades y dependencias, de acuerdo con las normas y lineamientos que fije la Secretaría, las que comunicarán a más tardar durante el mes de enero de cada año.
 
 ###### ARTICULO 43.
 
 En la elaboración de los calendarios, se observará lo siguiente:
 
-I.- Los calendarios serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlos.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+I.- Con excepción de los pagos correspondientes a los contratos de Proyectos de Inversión Pública a Largo Plazo, los calendarios serán anuales con base mensual y deberán compatibilizar las estimaciones de avance de metas con los requerimientos periódicos de recursos financieros necesarios para alcanzarlos.
 
 II.- Contemplarán las necesidades de pago, en función de los compromisos a contraer. Para tal efecto se deberá tomar en cuenta la diferencia entre las fechas de celebración de los compromisos y las de realización de los pagos.
 
@@ -509,6 +533,10 @@ I.- Por gestiones escritas hechas ante autoridad competente por parte de quien t
 
 II.- Por el ejercicio de las acciones correspondientes ante los tribunales competentes.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Para el pago de las obligaciones plurianuales que contraigan las dependencias, es necesario que incluyan dentro de sus presupuestos las cantidades necesarias para hacerlas efectivas, en las proporciones que se vayan devengando en cada ejercicio.
+
 ###### ARTICULO 54.
 
 El ejercicio del gasto público por concepto de servicios personales comprenderá:
@@ -585,9 +613,11 @@ IV. En general la autorización para el desempeño de las comisiones se efectuar
 
 V.- Comprobar su aplicación de conformidad con las disposiciones establecidas por las Entidades.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 61.
 
-Los actos y contratos relativos a la adquisición o arrendamientos de bienes y servicios, así como para la realización de obra pública por parte de las entidades, deberán ajustarse a las leyes de la materia y sustentarse en los programas o presupuestos de adquisición y de obra respectivos. Por lo tanto, ningún acto o contrato que establezca un compromiso o genere un gasto con cargo al Presupuesto de Egresos del Estado, se considerará legalmente celebrado si se realiza en contravención a dichas leyes.
+Los actos y contratos relativos a la adquisición o arrendamientos de bienes y servicios, los Proyectos de Inversión Pública a Largo Plazo, así como para la realización de obra pública por parte de las entidades, deberán ajustarse a las leyes de la materia y sustentarse en los programas o presupuestos de adquisición y de obra respectivos. Por lo tanto, ningún acto o contrato que establezca un compromiso o genere un gasto con cargo al Presupuesto de Egresos del Estado, se considerará legalmente celebrado si se realiza en contravención a dichas leyes.
 
 ###### ARTICULO 62.
 
@@ -1124,3 +1154,13 @@ La reforma será aplicable a partir de la elaboración del presupuesto de egreso
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, por conducto de las Secretarías del ramo, podrá celebrar de forma anual, Convenios de Colaboración con los municipios, para la asesoría y capacitación, a fin de dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
