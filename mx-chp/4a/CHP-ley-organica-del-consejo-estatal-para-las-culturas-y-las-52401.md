@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-consejo-estatal-para-las-culturas-y-las-52401"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2006-10-12"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DEL CONSEJO ESTATAL PARA LAS CULTURAS Y LAS ARTES DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -68,6 +68,12 @@ III. Consejos Ciudadanos de Cultura: Se refiere a las comunidades y grupos vecin
 IV. Sistema Estatal de Animación Cultural y Artística: Tiene por objeto el desarrollo de estrategias y procesos institucionales destinados a las gestión cultural, financiamiento y divulgación de la cultura del Estado.
 
 ### Capítulo II. Del Objeto del Consejo
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 3°.
+
+El Consejo tiene por objeto la preservación, promoción, fomento, investigación, difusión y desarrollo del patrimonio cultural, material e inmaterial del Estado de Chiapas; así como la coordinación, administración y ejecución de la operatividad del Museo del Café; además de la generación de espacios de diálogo con otras culturas de México y el mundo, logrando que la sociedad chiapaneca rescate y preserve sus valores artísticos y culturales, fortalezca su identidad, sus expresiones artísticas y tradiciones populares, en términos de la Ley de las Culturas y las Artes del Estado de Chiapas.
 
 ###### Artículo 3º.
 
@@ -125,9 +131,15 @@ XXIII. Coordinar, administrar y fomentar el uso de los espacios culturales asign
 
 XXIV. Proponer un Consejo Editorial que coordine y defina los criterios de la labor editorial del Gobierno del Estado;
 
-XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general, la indígena y las expresiones artísticas a través de la radio, la televisión y cualquier otro medio de comunicación; y,
+XXV. Proponer, diseñar y ejecutar programas que promuevan, desarrollen, fomenten y difundan la cultura en general, la indígena y las expresiones artísticas a través de la radio, la televisión y cualquier otro medio de comunicación; y, (sic)
 
-XXVI. Las demás que le señale esta ley, la Ley de las Culturas y las Artes de Chiapas y demás disposiciones legales aplicables relativos a las funciones del Consejo.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXVI. Coordinar, administrar y ejecutar la operatividad del Museo del Café.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXVII. Las demás que le señale esta ley, la Ley de las Culturas y las Artes de Chiapas y demás disposiciones legales aplicables relativos a las funciones del Consejo.
 
 ###### Artículo 5º.
 
@@ -155,27 +167,27 @@ I. Un Presidente que será el Gobernador del Estado;
 
 II. Un Secretario técnico que será designado por el Consejo Directivo; y,
 
-III. Vocales que serán los titulares de las siguientes dependencias y entidades:
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-a). Secretaría de Gobierno;
+III. Vocales que serán los titulares de las siguientes Dependencias y Entidades:
 
-b). Secretaría de Planeación y Finanzas;
+A). Secretaría General de Gobierno.
 
-c). Secretaría de Educación;
+B). Secretaría de Hacienda.
 
-d). Secretaría de Turismo;
+C). Secretaría de Educación.
 
-e). Secretaría de Pueblos Indios;
+D). Secretaría de Turismo.
 
-f). Secretaría de Administración;
+E). Secretaría de Pueblos y Culturas Indígenas.
 
-g). Instituto de Desarrollo Humano;
+F). Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
 
-h). Universidad Autónoma de Chiapas;
+G). Universidad Autónoma de Chiapas.
 
-i). Universidad de Ciencias y Artes de Chiapas; y,
+H). Universidad de Ciencias y Artes de Chiapas.
 
-j). Universidad Intercultural de Chiapas.
+I). Universidad Intercultural de Chiapas.
 
 ###### Artículo 9º.
 
@@ -372,3 +384,19 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 días del mes de octubre del año 2006.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Museo del Café, así como sus recursos humanos, materiales y financieros, serán transferidos y en su caso, asumidos por el Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el Museo del Café, así como las atribuciones y referencias que otras leyes les asignen, serán asumidas inmediatamente y se entenderán conferidas al Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán llevar a cabo de inmediato las acciones que sean necesarias para el cumplimiento de lo ordenado en el presente instrumento.
+
+Artículo Quinto.- El Consejo Estatal para las Culturas y las Artes de Chiapas llevará a cabo lo conducente para la actualización de su marco jurídico.
