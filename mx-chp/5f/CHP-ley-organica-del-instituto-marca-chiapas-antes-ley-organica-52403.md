@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-marca-chiapas-antes-ley-organica-524
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2009-10-21"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -39,21 +39,17 @@ Considerando
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha (sic) bien emitir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Ley Orgánica del Instituto Marca Chiapas
 
 ### Capítulo I. De la Creación y Personalidad del Instituto
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 1º.
-
-Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Chiapas, denominado Instituto Marca Chiapas, en lo sucesivo el Instituto, cuyo objeto es el rescate, preservación, fomento, promoción, acopio, distribución y difusión de artesanías, productos regionales, así como el impulso del registro y comercialización de los mismos mediante la estrategia marca Chiapas y Sistema de Tiendas Marca Chiapas, mismo que estará sectorizado a la Secretaría de Economía del Estado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 1°.
 
-Se crea un organismo público descentralizado de la administración pública del Estado, denominado Instituto de las Artesanías y Productos de Chiapas, cuyo objeto es el rescate, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales del Estado de Chiapas.
+Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Chiapas, denominado Instituto Casa Chiapas, en lo sucesivo el Instituto, cuyo objeto es el rescate, preservación, fomento, promoción, acopio, distribución y difusión de artesanías y productos regionales, así como coordinar, administrar y ejecutar la operación de la boutique del café, mismo que estará sectorizado a la Secretaría de Economía.
 
 ###### Artículo 2°.
 
@@ -137,9 +133,7 @@ XVII. Coordinar y validar las acciones que se realicen en materia de artesanías
 
 XVIII. Impulsar el Registro y comercialización de los productos y conceptos de la estrategia marca Chiapas, y el sistema de tiendas marca Chiapas;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-XIX. Coordinar, Administrar y Ejecutar la operatividad de la boutique del café; así como establecer mecanismos de posicionamiento, promoción, difusión y distribución del Café Marca Chiapas;
+XIX. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -273,9 +267,9 @@ V. Otorgar, sustituir y revocar poderes generales y especiales para pleitos y co
 
 VI. Presentar ante la Junta de Gobierno, para su aprobación correspondiente, los manuales de operación y el Reglamento Interno del Instituto; y, (sic)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-VII. Efectuar las acciones necesarias para el registro y comercialización de los productos y el concepto de la estrategia marca Chiapas, así como el sistema de tiendas marca Chiapas;
+VII. Coordinar las actividades que permitan el buen funcionamiento, la promoción y difusión del café Marca Chiapas, a través de la Boutique del Café.
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -380,3 +374,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los recursos materiales, financieros y humanos que se encuentren asignados al Museo del Café así como de la Boutique del Café, pasarán a formar parte del Instituto Marca Chiapas.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Museo del Café, así como sus recursos humanos, materiales y financieros, serán transferidos y en su caso, asumidos por el Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Los compromisos y procedimientos que a la entrada en vigor del presente Decreto, hubiere contraído el Museo del Café, así como las atribuciones y referencias que otras leyes le asignen, serán asumidas inmediatamente y se entenderán conferidas al Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+Artículo Cuarto.- Las Dependencias Normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán llevar a cabo de inmediato, las acciones que sean necesarias para el cumplimiento de lo ordenado en el presente instrumento.
+
+Artículo Quinto.- El Instituto Casa Chiapas, llevará a cabo lo conducente para la actualización de su marco jurídico.
