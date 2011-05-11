@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2010-11-17"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -325,9 +325,13 @@ IV. Demás personal que se requiera y permita el presupuesto.
 
 El Tribunal Constitucional contará con un fondo auxiliar, integrado por las economías que se generen al cierre de los ejercicios fiscales. Su operación, manejo, mecanismos de control, administración y destino se apegarán a lo dispuesto en los lineamientos que al efecto emita el Pleno del Tribunal Constitucional.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 33.
 
-El Tribunal Constitucional, por votación directa y abierta de sus miembros, en la primera sesión que celebre en el año, elegirá al Magistrado que fungirá como su Presidente durante tres años, quien sólo podrá ser reelecto por una sola ocasión.
+El Tribunal Constitucional, por votación directa y abierta de sus miembros, elegirá al Magistrado que fungirá como su Presidente, quien será electo cada tres años, con posibilidades de reelección.
 
 La administración del Tribunal Constitucional, corresponderá al Presidente del mismo.
 
@@ -965,6 +969,12 @@ Los Juzgados de Primera Instancia Especializados en Justicia para Adolescentes, 
 
 Los Juzgados Especializados en Justicia para Adolescentes, contarán con los funcionarios previstos en el artículo anterior y con un mediador adscrito que será nombrado por el Centro Estatal de Justicia Alternativa; el cual se encargará del procedimiento de mediación como mecanismo alternativo y previo al establecido al adolescente para determinar la existencia de una infracción penal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Los Juzgados de Primera Instancia de Ejecución de Penas, serán aquellos que controlarán la ejecución material de las penas, su duración y modificación; y el estricto cumplimiento de las leyes que regulan la materia.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 73.
@@ -1097,7 +1107,11 @@ VI. Conocer de las diligencias de los exhortos, requisitorias y despachos, relac
 
 VII. De las demás que les reconozcan las disposiciones legales aplicables.
 
-### Capítulo I. De su Integración y Funcionamiento
+### Capítulo VIII. De las Atribuciones de los Juzgados de Ejecución de Penas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 82.
 
@@ -1113,9 +1127,9 @@ IV. Conocer de las diligencias de exhortos, requisitorias y despachos en materia
 
 V. De las demás que les reconozcan las disposiciones legales aplicables.
 
-### Capítulo II. De su Competencia
+### Capítulo I. De su Integración y Funcionamiento
 
-### Capítulo III. De su Coordinación
+### Capítulo II. De su Competencia
 
 ###### Artículo 83.
 
@@ -1135,31 +1149,51 @@ VI. Sancionar con multa a los funcionarios que en la ejecución de las medidas v
 
 VII. Las demás que le otorguen este Código, la Ley de la materia y otras disposiciones legales aplicables.
 
-### Capítulo I. De su Integración y Funcionamiento
+### Capítulo III. De su Coordinación
 
 ###### Artículo 84.
 
 Los Juzgados Mixtos de Primera Instancia tendrán competencia para conocer de los asuntos en materia civil, mercantil, familiar y penal, a que se refiere el presente título y los demás que les reconozcan otras disposiciones aplicables.
 
-### Capítulo II. De su Competencia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 85.
 
-En cada Municipio habrá el número de Juzgados de Paz y Conciliación y de Paz y Conciliación Indígena que el Consejo de la Judicatura acuerda, con las atribuciones que este Código y leyes aplicables determinen.
+Son atribuciones del Juez de Ejecución, las siguientes:
+
+I. Mantener o modificar las penas y medidas de seguridad decretadas en sentencia.
+
+II. Controlar la ejecución material de toda pena o medida de seguridad.
+
+III. Conocer sobre los beneficios de la libertad anticipada.
+
+IV. Ordenar la cesación de la pena o medida de seguridad, así como su extinción.
+
+V. Las demás atribuciones que el Código de Procedimientos Penales y el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada contemplen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 86.
 
+En cada Municipio habrá el número de Juzgados de Paz y Conciliación y de Paz y Conciliación Indígena que el Consejo de la Judicatura acuerde, con las atribuciones que este Código y leyes aplicables determinen.
+
 Por cada Juzgado de Paz y Conciliación y de Paz y Conciliación Indígena, habrá:
 
-I. Un Juez;
+I. Un Juez.
 
-II. El número de Secretarios y Actuarios que a juicio del Pleno del Consejo de la Judicatura se requieran; y,
+II. El número de Secretarios y Actuarios que a juicio del Pleno del Consejo de la Judicatura se requieran.
 
 III. Los demás servidores públicos que designe el Consejo de la Judicatura.
 
 ## Título Sexto. De los Juzgados Municipales
 
-### Capítulo III. De la Coordinación de los Juzgados Municipales
+### Capítulo II. De su Competencia
 
 ###### Artículo 87.
 
@@ -1191,7 +1225,7 @@ V. En los casos en que sea necesario, deberá acreditarse el dominio de la lengu
 
 Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los ayuntamientos municipales, así como su calidad de especialistas reconocida por el Centro Estatal de Justicia Alternativa del Poder Judicial del Estado, y su correspondiente acreditación por el órgano encargado de la Carrera Judicial.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo III. De la Coordinación de los Juzgados Municipales
 
 ###### Artículo 92.
 
@@ -1225,7 +1259,7 @@ III. Procurar la conciliación entre el ofendido y el inculpado en cualquier eta
 
 Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena, sustanciarán y resolverán los conflictos que surjan entre personas pertenecientes a los pueblos indígenas, aplicando sus usos, costumbres, tradiciones y prácticas jurídicas, salvaguardando las garantías individuales que establece la Constitución Política de los Estados Unidos Mexicanos y el respeto a los derechos humanos.
 
-### Capítulo II. De su Naturaleza y Objeto
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 93.
 
@@ -1241,7 +1275,7 @@ IV. El personal que sea necesario, de conformidad con el presupuesto autorizado.
 
 ## Título Séptimo. Del Centro Estatal de Justicia Alternativa
 
-### Capítulo III. De su Estructura, Organización y Funcionamiento
+### Capítulo II. De su Naturaleza y Objeto
 
 ###### Artículo 94.
 
@@ -1283,7 +1317,7 @@ V. En los casos en que sea necesario, deberá acreditarse el dominio de la lengu
 
 Los Jueces Municipales y sus suplentes, serán nombrados por el Consejo de la Judicatura tomando en consideración las propuestas de los ayuntamientos municipales.
 
-### Capítulo IV. Del Director General
+### Capítulo III. De su Estructura, Organización y Funcionamiento
 
 ###### Artículo 100.
 
@@ -1303,7 +1337,7 @@ VI. Realizar las diligencias que les encomienden jueces y tribunales en los tér
 
 VII. Las demás que les otorgue este Código y demás disposiciones legales aplicables.
 
-### Capítulo V. De las Subdirecciones Regionales del Centro Estatal
+### Capítulo IV. Del Director General
 
 ###### Artículo 101.
 
@@ -1319,7 +1353,7 @@ IV. El personal que sea necesario, de conformidad con el presupuesto autorizado.
 
 ## Título Octavo. De la Defensoría Social
 
-### Capítulo I. Disposiciones Generales
+### Capítulo V. De las Subdirecciones Regionales del Centro Estatal
 
 ###### Artículo 102.
 
@@ -1351,7 +1385,7 @@ II. Mediación.
 
 III. Arbitraje.
 
-### Capítulo II. Del Instituto de la Defensoría Social
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 108.
 
@@ -1381,7 +1415,7 @@ VII. El intercambio permanente con instituciones públicas y privadas, nacionale
 
 VIII. Asegurar que los procesos que se desarrollan dentro de su ámbito de acción, cumplan con los principios que señala este Título.
 
-### Capítulo III. Del Consejo General del Instituto de la Defensoría Social
+### Capítulo II. Del Instituto de la Defensoría Social
 
 ###### Artículo 111.
 
@@ -1427,7 +1461,7 @@ IX. Realizar y apoyar en los análisis, estudios e investigaciones relacionados 
 
 X. Las demás que le confiera este Título y la Ley aplicable.
 
-### Capítulo IV. De la Dirección General del Instituto de la Defensoría de (sic) Social
+### Capítulo III. Del Consejo General del Instituto de la Defensoría Social
 
 ###### Artículo 115.
 
@@ -1529,7 +1563,7 @@ XIX. Solicitar ante el Juez competente a petición de parte, la ejecución de lo
 
 XX. Las demás establecidas en este Título, la Ley correspondiente y los acuerdos del Pleno del Tribunal Constitucional.
 
-### Capítulo V. De las Unidades de la Dirección de la Defensoría Social
+### Capítulo IV. De la Dirección General del Instituto de la Defensoría de (sic) Social
 
 ###### Artículo 123.
 
@@ -1571,7 +1605,7 @@ VII. Las demás atribuciones establecidas en este Título, la Ley correspondient
 
 ## Título Primero. Integración y Funcionamiento
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo V. De las Unidades de la Dirección de la Defensoría Social
 
 ###### Artículo 126.
 
@@ -1593,6 +1627,12 @@ Se podrá brindar el servicio de asesoría jurídica en cualquier materia de der
 
 En los asuntos en materia penal y de justicia para adolescentes, la defensoría de oficio proporcionará asistencia y representación Jurídica a personas inculpadas por la probable realización de una conducta tipificada como delito en las leyes del Estado, desde el momento en que tengan contacto con la autoridad investigadora y hasta que concluya en todo caso el proceso al que sea sometido y exista una sentencia ejecutoriada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+También tendrán la obligación de proporcionar y garantizar a los internos, la asistencia y representación jurídica a través de un defensor de oficio, durante los trámites jurídicos correspondientes a la etapa de ejecución penal y de otorgamiento de determinado beneficio; salvo que el interno nombre un abogado particular.
+
 ###### Artículo 131.
 
 En los casos de las materias civil, familiar y administrativa, la defensoría de oficio llevará acabo la representación, patrocinio y asesoría en el juicio a quien lo requiera, siempre y cuando sus recursos económicos no le permitan acceder al servicio de un profesional de la materia.
@@ -1607,7 +1647,7 @@ El servicio de asesoría jurídica será prestado por los especialistas en difer
 
 El servicio de defensoría social se prestará bajo los principios de gratuidad, legalidad, probidad, honradez, eficiencia, profesionalismo, obligatoriedad y con respeto a los derechos humanos, en los términos de este Título.
 
-### Capítulo II. De los Consejeros
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 134.
 
@@ -1639,7 +1679,7 @@ VII. Tratándose de miembros pertenecientes a grupos étnicos o indígenas, se p
 
 El órgano superior del Instituto de la Defensoría Social, es el Consejo General.
 
-### Capítulo III. De las Atribuciones del Consejo de la Judicatura
+### Capítulo II. De los Consejeros
 
 ###### Artículo 138.
 
@@ -1691,7 +1731,7 @@ XII. Promover la participación de estudiantes de la Licenciatura de Derecho, en
 
 XIII. Las demás que le otorgue este ordenamiento y otras disposiciones jurídicas aplicables.
 
-### Capítulo IV. Del Presidente del Consejo de la Judicatura
+### Capítulo III. De las Atribuciones del Consejo de la Judicatura
 
 ###### Artículo 144.
 
@@ -1753,7 +1793,7 @@ XIV. Suscribir convenios con instituciones educativas; y,
 
 XV. Las demás que sean necesarias para cumplir con el objeto de este Código.
 
-### Capítulo V. Del Secretario Ejecutivo del Consejo de la Judicatura
+### Capítulo IV. Del Presidente del Consejo de la Judicatura
 
 ###### Artículo 147.
 
@@ -1843,6 +1883,8 @@ XVIII. Las demás que les señalen el presente Código y otros ordenamientos.
 
 ## Título Segundo. De los Órganos Administrativos del Consejo
 
+### Capítulo V. Del Secretario Ejecutivo del Consejo de la Judicatura
+
 ### Capítulo VI. De las Sesiones y Resoluciones del Consejo de la Judicatura
 
 ### Capítulo VII. De las Comisiones del Consejo
@@ -1861,13 +1903,11 @@ XVIII. Las demás que les señalen el presente Código y otros ordenamientos.
 
 ### Capítulo I. De su Integración
 
-### Capítulo II. Del Instituto de Formación Judicial
-
 # Libro Tercero. Del Consejo de la Judicatura
 
 ## Título Tercero. De los Órganos Judiciales del Consejo de la Judicatura
 
-### Capítulo III. De la Visitaduría
+### Capítulo II. Del Instituto de Formación Judicial
 
 ###### Artículo 152.
 
@@ -1887,7 +1927,7 @@ III. Un Consejero, nombrado por el Gobernador del Estado.
 
 El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia y contará con un Secretario Ejecutivo, que será designado por el propio Consejo, a propuesta de su Presidente; así como por el demás personal que requiera y permita el presupuesto.
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo III. De la Visitaduría
 
 ###### Artículo 154.
 
@@ -1919,7 +1959,7 @@ El Pleno del Consejo de la Judicatura resolverá sobre las ausencias o licencias
 
 Los Consejeros no podrán actuar como representantes de cualquier naturaleza ante los órganos del Poder Judicial del Estado, dentro del año siguiente a la fecha de su retiro.
 
-### Capítulo II. De los Nombramientos y Requisitos de los Magistrados
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 161.
 
@@ -2021,7 +2061,7 @@ XLI. Expedir previo pago correspondiente, la constancia de antecedentes no penal
 
 XLII. Las demás que le confiera este Código y otras disposiciones legales aplicables.
 
-### Capítulo III. De su Funcionamiento
+### Capítulo II. De los Nombramientos y Requisitos de los Magistrados
 
 ###### Artículo 162.
 
@@ -2069,7 +2109,11 @@ XVIII. Convocar a la Comisión de Justicia; y,
 
 XIX. Las demás que le otorguen este Código y otras disposiciones legales aplicables.
 
-### Capítulo IV. De las Atribuciones del Tribunal de Justicia Electoral y Administrativa
+### Capítulo III. De su Funcionamiento
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 164.
 
@@ -2115,7 +2159,11 @@ IV. No pertenecer al estado eclesiástico, ni ser ministro de algún culto relig
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año; pero si se tratare de otro delito que lesione seriamente la fama pública del aspirante, se considerará inhabilitado para el desempeño del cargo, cualquiera que haya sido la pena impuesta.
 
-### Capítulo V. De las Atribuciones del Presidente
+### Capítulo IV. De las Atribuciones del Tribunal de Justicia Electoral y Administrativa
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -2149,7 +2197,7 @@ En todos los demás casos, las notificaciones se harán por lista de acuerdos y 
 
 Todos los acuerdos de interés general emitidos por el Consejo deberán publicarse en el Periódico Oficial del Estado.
 
-### Capítulo VI. De las Atribuciones de los Magistrados
+### Capítulo V. De las Atribuciones del Presidente
 
 ###### Artículo 172.
 
@@ -2169,7 +2217,7 @@ Los acuerdos emitidos por las comisiones, deberán ser presentadas al Pleno del 
 
 ## Título Primero. De su Integración y Funcionamiento
 
-### Capítulo VII. Atribuciones del Secretario General de Acuerdos
+### Capítulo VI. De las Atribuciones de los Magistrados
 
 ###### Artículo 176.
 
@@ -2193,7 +2241,7 @@ VI. Una Dirección de Asuntos Jurídicos; y,
 
 VII. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
 
-### Capítulo I. De su Integración y Funcionamiento
+### Capítulo VII. Atribuciones del Secretario General de Acuerdos
 
 ###### Artículo 177.
 
@@ -2365,7 +2413,7 @@ Para su funcionamiento, la Dirección de Informática y Estadística contará co
 
 El Fondo Auxiliar para la Administración de Justicia, será administrado en forma autónoma por el Consejo de la Judicatura.
 
-### Capítulo II. De las Atribuciones de La Comisión de Administración
+### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 187.
 
@@ -2397,13 +2445,13 @@ VII. El pago correspondiente por la expedición de copias certificadas y certifi
 
 VIII. Las demás que señalen este Código, el Reglamento Interior del Consejo de la Judicatura y otras disposiciones legales aplicables.
 
-### Capítulo III. Del Presidente de la Comisión
+### Capítulo II. De las Atribuciones de La Comisión de Administración
 
 ###### Artículo 189.
 
 Los jueces declararán de oficio que el monto de la reparación del daño pasa a formar parte del fondo, por virtud de renuncia a ella de la parte ofendida o su falta de reclamación dentro del plazo legal establecido.
 
-### Capítulo IV. De los Órganos Auxiliares
+### Capítulo III. Del Presidente de la Comisión
 
 ###### Artículo 190.
 
@@ -2429,19 +2477,19 @@ IX. Cubrir el pago de pólizas con motivo del seguro de vida e incapacidad total
 
 X. Las demás que el Consejo de la Judicatura estime convenientes para el mejoramiento de la impartición de justicia.
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo IV. De los Órganos Auxiliares
 
 ###### Artículo 191.
 
 La Comisión de Administración del Consejo de la Judicatura, tendrá a su cargo y bajo su responsabilidad el manejo y la administración del fondo, debiendo informar cuando menos trimestralmente al Presidente del Tribunal Superior de Justicia del Estado y al Pleno del Consejo de la Judicatura el resultado de los ingresos y egresos efectuados.
 
-### Capítulo II. Del Nombramiento y Requisitos de los Magistrados
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 192.
 
 La Comisión de Administración del Consejo de la Judicatura, establecerá los mecanismos de control de gestión que estime necesarios para la integración al fondo, de las cantidades resultantes del cobro judicial o extrajudicial de fianzas, depósitos o de cualquier otro tipo de garantía constituida ante las Salas y Juzgados.
 
-### Capítulo III. De su Funcionamiento
+### Capítulo II. Del Nombramiento y Requisitos de los Magistrados
 
 ###### Artículo 193.
 
@@ -2455,7 +2503,7 @@ Lo anterior, será sin perjuicio de que se tomen las providencias necesarias por
 
 ## Título Segundo. De la Comisión de Administración
 
-### Capítulo IV. De sus Atribuciones
+### Capítulo III. De su Funcionamiento
 
 ###### Artículo 195.
 
@@ -2467,7 +2515,7 @@ II. La Visitaduría; y,
 
 III. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
 
-### Capítulo V. De las Atribuciones del Presidente
+### Capítulo IV. De sus Atribuciones
 
 ###### Artículo 196.
 
@@ -2625,7 +2673,7 @@ En el caso de que existiera impedimento en alguno de los integrantes del jurado 
 
 El presidente del jurado tiene atribución para decidir lo conducente de presentarse cualquier situación no prevista en este Código, que pudiere afectar el desarrollo de los exámenes.
 
-### Capítulo VI. De las Atribuciones de los Magistrados
+### Capítulo V. De las Atribuciones del Presidente
 
 ###### Artículo 213.
 
@@ -2735,7 +2783,7 @@ Los Magistrados Visitadores y personal de la Visitaduría, deberán guardar rese
 
 ## Título Primero. De su Integración y Funcionamiento
 
-### Capítulo I. De su Integración y Funcionamiento
+### Capítulo VI. De las Atribuciones de los Magistrados
 
 ###### Artículo 222.
 
@@ -2757,7 +2805,7 @@ Los Magistrados a que se refiere este artículo, tienen derecho a un haber únic
 
 El Tribunal, para resolver los medios de impugnación en materia electoral y administrativa, se sujetará a los principios de constitucionalidad y de legalidad.
 
-### Capítulo II. De sus Atribuciones
+### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 226.
 
@@ -2789,19 +2837,17 @@ VII. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal 
 
 VIII. No haber sido postulado por partido político alguno a ningún puesto de elección popular, durante los dos últimos procesos electorales.
 
-### Capítulo III. Del Presidente
+### Capítulo II. De sus Atribuciones
 
 ###### Artículo 228.
 
-El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, funcionará en Pleno y en dos Salas, con sede en la ciudad de Tuxtla Gutiérrez, Chiapas, sus resoluciones serán emitidas con plenitud de jurisdicción.
+El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, funcionará en Pleno y en dos Salas Colegiadas, con sede en la ciudad de Tuxtla Gutiérrez, Chiapas; sus resoluciones serán emitidas con plenitud de jurisdicción.
 
 En materia electoral, el Pleno lo conforman los siete Magistrados que lo integran, pero bastará la presencia del Magistrado Presidente y tres Magistrados más para que se integre y resolverá en una sola instancia.
 
-En materia administrativa, el Magistrado Presidente del Tribunal no integrará Sala en primera instancia. El Pleno estará integrado por el Magistrado Presidente y la diversa Sala que no hubiese conocido del asunto en primera instancia.
+En materia administrativa funcionará en Salas; la Sala Colegiada de Primera Instancia conocerá del juicio contencioso administrativo y estará integrado por tres Magistrados; la Sala Colegiada de Segunda Instancia se integrará por tres Magistrados y el Presidente del Tribunal quien la presidirá y en caso de empate tendrá voto de calidad, conocerá del recurso de revisión que se interponga en contra de las sentencias que dicte aquélla.
 
-Las Salas en materia administrativa, conocerán en primera instancia de estos asuntos y sus resoluciones podrán ser impugnadas en segunda instancia, por el Pleno integrado en los términos del párrafo que antecede.
-
-Cuando el Tribunal funcione en Pleno, en materia administrativa en segunda Instancia y en materia electoral, el Magistrado Presidente integrará ponencia, y recibirá los asuntos correspondientes en riguroso turno, establecido por orden alfabético de los apellidos.
+Cuando el Tribunal funcione en materia administrativa en Segunda Instancia y en Pleno en materia electoral, el Magistrado Presidente integrará ponencia, y recibirá los asuntos correspondientes en riguroso turno establecido por orden alfabético de apellidos.
 
 ###### Artículo 229.
 
@@ -2815,43 +2861,63 @@ III. De los conflictos o diferencias laborales entre la Comisión de Fiscalizaci
 
 IV. De los conflictos o diferencias laborales del propio Tribunal de Justicia Electoral y Administrativa y sus servidores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 230.
 
-Las Salas conocerán en materia administrativa:
+La Salas Colegiadas conocerán en materia administrativa:
 
-I. Del juicio de nulidad, en primera instancia.
+I. La de Primera Instancia, del Juicio Contencioso Administrativo.
 
-II. Del Recurso de Revisión, en segunda Instancia; y,
+II. La de Segunda Instancia, del Recurso de Revisión.
 
-III. Demás casos que señale la Ley de Procedimientos Administrativos para el Estado de Chiapas, y otros ordenamientos legales aplicables.
+III. Los demás casos que señale la Ley de Procedimientos Administrativos para el Estado y demás ordenamientos aplicables.
 
 ###### Artículo 231.
 
 Las decisiones del Pleno y de las Salas serán tomadas por mayoría o por unanimidad de votos, en caso de empate, el Presidente del Tribunal tendrá voto de calidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 232.
 
-Cada Sala estará integrada por tres Magistrados, de los cuales uno fungirá como su Presidente que será nombrado a través de votación abierta y directa de sus miembros, en la primera sesión que se celebre en el año, con posibilidad de ser reelecto por una sola vez.
+La Sala Colegiada de Primera Instancia estará integrada por tres Magistrados, de los cuales uno fungirá como su Presidente que será nombrado a través de votación abierta y directa, en observancia al orden alfabético de apellidos de sus miembros, en la primera sesión que celebre en el año.
 
 Los Magistrados no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal.
 
-Cuando por causa de recusación, excusa o por cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario de Acuerdos de la misma, y éste a su vez, por un Secretario de Estudio y Cuenta.
+Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario de Acuerdos de la misma, y éste a su vez, por un Secretario de Estudio y Cuenta.
 
-Cuando dos Magistrados no integren sala, por cualquier causa, conocerá del asunto la otra Sala.
-
-Cuando se trate del Presidente de la Sala, será sustituido por el Magistrado que le siga en orden alfabético de su apellido, y éste a su vez, por el Secretario de Acuerdos de la Sala.
+Si se trata del Presidente de la Sala Colegiada de Primera Instancia, será sustituido por el Magistrado que le siga en orden alfabético de apellidos, y éste a su vez, por el Secretario de Acuerdos de Sala, y éste último por un Secretario de Estudio y Cuenta.
 
 Los casos no previstos serán resueltos por el Pleno del Tribunal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 233.
 
-Las sesiones del Tribunal serán públicas o privadas.
+La Sala Colegiada de Segunda Instancia, estará integrada por tres Magistrados y el Presidente del Tribunal quien la presidirá y en caso de empate tendrá voto de calidad.
 
-El Tribunal garantizará que los medios de comunicación social acreditados cumplan su función de informadores, cuidando siempre que no entorpezcan el cumplimiento de las atribuciones del Tribunal.
+Las ausencias del Presidente de la Sala Colegiada de Segunda Instancia, serán sustituidas por el Magistrado que le siga en orden alfabético de apellidos, o el que designe previamente para tal efecto.
+
+Cuando por causa de recusación, excusa o cualquier otro motivo justificado, un Magistrado no integre Sala, será sustituido por el Secretario General de Acuerdos y del Pleno, y éste a su vez, por un Secretario de Estudio y Cuenta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 234.
 
 La distribución de los asuntos que conocerá el Tribunal, será por riguroso turno en cada una de las Salas o del Pleno.
+
+Las sesiones del Tribunal serán públicas o privadas.
+
+El Tribunal garantizará que los medios de comunicación social acreditados cumplan su función de informadores, cuidando siempre que no entorpezcan el cumplimiento de las atribuciones del Tribunal.
 
 ###### Artículo 235.
 
@@ -2881,43 +2947,43 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 Estos mismos requisitos se observarán respecto de los Secretarios de Acuerdos de Sala, Secretarios de Estudio y Cuenta y Actuarios del Tribunal, con excepción del mínimo de edad solicitada, que será a partir de veinticinco años.
 
-### Capítulo IV. De los Órganos Auxiliares
+### Capítulo III. Del Presidente
 
 ###### Artículo 239.
 
 Son atribuciones del Tribunal de Justicia Electoral y Administrativa:
 
-I. Conocer y resolver en Pleno o en Sala, sobre los medios de impugnación que conforme a las leyes respectivas son de su competencia;
+I. Conocer y resolver en Pleno o en Sala, sobre los medios de impugnación que conforme a las leyes respectivas son de su competencia.
 
-II. Calificar las elecciones, declarando la validez o la nulidad de las mismas;
+II. Calificar las elecciones, declarando la validez o la nulidad de las mismas.
 
-III. Expedir su Reglamento Interior;
+III. Expedir su Reglamento Interior.
 
-IV. Emitir los acuerdos que resulten necesarios para garantizar su debido funcionamiento, en todo aquello que no esté expresamente previsto por este Código y en las leyes respectivas;
+IV. Emitir los acuerdos que resulten necesarios para garantizar su debido funcionamiento, en todo aquello que no esté expresamente previsto por este Código y en las leyes respectivas.
 
-V. Solicitar a las autoridades Federales, Estatales, Municipales y de los Consejos Electorales, la información y ayuda que consideren conveniente;
+V. En materia administrativa, suspender el procedimiento de los juicios contenciosos administrativos y del recurso de revisión hasta por tres meses, cuando se trate de proceso electoral para elegir al Gobernador del Estado, Diputados al Congreso local y miembros de Ayuntamientos.
 
-VI. Celebrar convenios de colaboración con otros Tribunales, instituciones y autoridades para su mejor desempeño;
+VI. Solicitar a las autoridades federales, estatales, municipales y de los Consejos Electorales, la información y ayuda que consideren conveniente.
 
-VII. Proponer al Ejecutivo del Estado, un pliego de observaciones y propuestas de reformas a la legislación electoral y administrativa;
+VII. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño.
 
-VIII. Insacular de entre sus miembros, al Magistrado que integrará la Comisión de Administración, con excepción del Presidente;
+VIII. Proponer al Ejecutivo del Estado, un pliego de observaciones y propuestas de reformas a la legislación electoral y administrativa.
 
-IX. Conocer y resolver en Sala, como primera instancia, de los juicios de nulidad promovidos en contra de las resoluciones definitivas que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo Estatal o Municipal, en funciones administrativas o fiscales, de conformidad a lo dispuesto por la Ley de Procedimientos Administrativos para el Estado de Chiapas;
+IX. Insacular de entre sus miembros, al Magistrado que integrará la Comisión de Administración, con excepción del Presidente.
 
-X. Conocer y resolver en Pleno, como segunda instancia, en términos de lo dispuesto en el presente Código, respecto de los recursos de revisión y demás que señale la Ley de Procedimientos Administrativos para el Estado de Chiapas, y otros ordenamientos legales aplicables;
+X. Conocer y resolver en Sala Colegiada de Primera Instancia de los juicios contenciosos administrativos promovidos en contra de las resoluciones definitivas que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo Estatal o Municipal, en funciones administrativas o fiscales, de conformidad a lo dispuesto por la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
-XI. Intervenir en los juicios de amparo, de los asuntos radicados en el Tribunal;
+XI. Conocer y resolver en Sala Colegiada de Segunda Instancia, en términos de lo dispuesto en el presente Código, respecto de los recursos de revisión y demás que señale la Ley de Procedimientos Administrativos para el Estado de Chiapas, y otros ordenamientos legales aplicables.
 
-XII. Solicitar el auxilio de las Salas Regionales Colegiadas del Tribunal Superior de Justicia del Estado, en la recepción y contestación de demandas o informes relacionados con asuntos administrativos, así como en las diligencias que deban realizarse, respecto a la sustanciación procesal de los juicios administrativos;
+XII. Intervenir en los juicios de amparo, de los asuntos radicados en el Tribunal.
 
-XIII. Velar por el exacto cumplimiento de las resoluciones dictadas en los juicios administrativos de su competencia;
+XIII. Solicitar el auxilio de las Salas Regionales Colegiadas del Tribunal Superior de Justicia del Estado, en la recepción y contestación de demandas o informes relacionados con asuntos administrativos, así como en las diligencias que deban realizarse, respecto a la sustanciación procesal de los juicios administrativos.
 
-XIV. Resolver sobre la contradicción de criterios generales sustentados por las Salas en materia administrativa o electoral, sin perjuicio de observarse la jurisprudencia de los tribunales federales. Lo anterior podrá hacerse a petición de parte o de los órganos en conflicto; y,
+XIV. Velar por el exacto cumplimiento de las resoluciones dictadas en los juicios administrativos de su competencia.
 
 XV. Las demás que le confieran este Código y demás disposiciones legales aplicables.
 
-### Capítulo I. De su Naturaleza e Integración
+### Capítulo IV. De los Órganos Auxiliares
 
 ###### Artículo 240.
 
@@ -2961,7 +3027,7 @@ XVIII. Vigilar y dictar las medidas necesarias para la pronta y expedita resoluc
 
 XIX. Las demás que le confiere este Código y otras disposiciones legales aplicables.
 
-### Capítulo II. De los Requisitos para ser Auxiliar de la Administración de Justicia
+### Capítulo I. De su Naturaleza e Integración
 
 ###### Artículo 241.
 
@@ -2993,7 +3059,7 @@ XII. Designar y conceder licencia al personal jurídico, técnico y de confianza
 
 XIII. Las demás que les confieran este Código, el Reglamento y otras disposiciones legales.
 
-### Capítulo I. De los Permisos, Licencias y Vacaciones
+### Capítulo II. De los Requisitos para ser Auxiliar de la Administración de Justicia
 
 ###### Artículo 242.
 
@@ -3025,7 +3091,7 @@ Tratándose de la materia electoral, los Secretarios de Acuerdos de Sala y Secre
 
 ## Título Segundo. De la Comisión de Administración
 
-### Capítulo II. De las Faltas
+### Capítulo I. De los Permisos, Licencias y Vacaciones
 
 ###### Artículo 243.
 
@@ -3051,7 +3117,7 @@ Las sesiones ordinarias o extraordinarias de la Comisión serán siempre privada
 
 Cuando la Comisión estime que sus acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
-### Capítulo III. De los Impedimentos, Excusas y Recusaciones de los Funcionarios del Poder Judicial
+### Capítulo II. De las Faltas
 
 ###### Artículo 247.
 
@@ -3087,7 +3153,7 @@ XIV. Administrar, conservar y acondicionar los bienes muebles e inmuebles al ser
 
 XV. Desempeñar cualquier otra función que el Reglamento Interior del Tribunal le encomiende.
 
-### Capítulo I. De la Responsabilidad
+### Capítulo III. De los Impedimentos, Excusas y Recusaciones de los Funcionarios del Poder Judicial
 
 ###### Artículo 248.
 
@@ -3103,7 +3169,7 @@ IV. Vigilar el correcto funcionamiento de los órganos auxiliares de la Comisió
 
 V. Las demás que le señalen este Código y el Reglamento Interior.
 
-### Capítulo II. De las Denuncias por Faltas Administrativas
+### Capítulo I. De la Responsabilidad
 
 ###### Artículo 249.
 
@@ -3115,7 +3181,7 @@ La estructura y funcionamiento de cada uno de los órganos auxiliares de la Comi
 
 ## Título Primero. De su Integración y Funcionamiento
 
-### Capítulo III. Del Procedimiento
+### Capítulo II. De las Denuncias por Faltas Administrativas
 
 ###### Artículo 250.
 
@@ -3151,7 +3217,7 @@ En caso de que los Magistrados integrantes del Tribunal del Trabajo Burocrático
 
 Los conflictos que surjan entre el Tribunal del Trabajo Burocrático y sus trabajadores, serán resueltos en única instancia por el Consejo de la Judicatura.
 
-### Capítulo IV. De las Sanciones
+### Capítulo III. Del Procedimiento
 
 ###### Artículo 254.
 
@@ -3191,7 +3257,7 @@ El Presidente del Tribunal del Trabajo Burocrático, durará en su encargo dos a
 
 A la conclusión ordinaria de los Magistrados del Tribunal del Trabajo Burocrático o por alguna otra de las causas de conclusión previstas en el artículo 23 de este Código, la Comisión de Administración del Tribunal por conducto de su Presidente, dará aviso a la instancia que corresponda hacer el nombramiento en los términos previstos en la Constitución Política del Estado y de este Código.
 
-### Capítulo V. De las Causas de improcedencia
+### Capítulo IV. De las Sanciones
 
 ###### Artículo 260.
 
@@ -3229,9 +3295,7 @@ XI. Asignar a los Magistrados a cada una de las Salas del Tribunal; y,
 
 XII. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
-### Capítulo VI. De la Prescripción
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+### Capítulo V. De las Causas de improcedencia
 
 ###### Artículo 262.
 
@@ -3249,9 +3313,9 @@ V. Efectuar el registro de las condiciones generales de trabajo, de los reglamen
 
 VI. Las demás que determinen la Ley de la materia y su Reglamento Interior.
 
-### Capítulo Único. De la Remoción
+### Capítulo VI. De la Prescripción
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 263.
 
@@ -3292,6 +3356,10 @@ XVI. Informar al Magistrado Presidente de la Sala que corresponda, sobre las def
 XVII. Tramitar la correspondencia relacionada con los asuntos de su competencia, y
 
 XVIII. Las demás que determine la Ley de la materia y su Reglamento Interior.
+
+### Capítulo Único. De la Remoción
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 264.
 
@@ -3639,7 +3707,7 @@ Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o 
 
 ###### Artículo 300.
 
-Tan pronto se presente denuncia o queja administrativa en contra de un servidor público del Poder Judicial, a excepción de los Magistrados del Tribunal Constitucional, la Secretaría Ejecutiva del Consejo de la Judicatura la remitirá a la Vísitaduría o Comisión de Vigilancia, en su caso. Pudiéndose presentar la queja ante el Presidente de una Sala Regional Colegiada en Materia Civil o Mixta, cuando por razón de la distancia, al denunciante le sea más factible acudir ante dichos Órganos Jurisdiccionales. En ambos casos, se formarán inmediatamente el expediente administrativo con expresión del día y hora en que ésta se reciba.
+Tan pronto se presente denuncia o queja administrativa en contra de un servidor público del Poder Judicial, a excepción de los Magistrados del Tribunal Constitucional, la Secretaría Ejecutiva del Consejo de la Judicatura la remitirá a la Visitaduría o Comisión de Vigilancia, en su caso. Pudiéndose presentar la queja ante el Presidente de una Sala Regional Colegiada en Materia Civil o Mixta, cuando por razón de la distancia, al denunciante le sea más factible acudir ante dichos Órganos Jurisdiccionales. En ambos casos, se formarán inmediatamente el expediente administrativo con expresión del día y hora en que ésta se reciba.
 
 ###### Artículo 301.
 
@@ -3840,3 +3908,15 @@ Asimismo, siendo que el presupuesto del Tribunal de Justicia Electoral y Adminis
 Artículo Cuarto.- Cuando por cualquier incremento salarial de los trabajadores negociado con el Ejecutivo del Estado, y que repercuta en aumento a los trabajadores del Poder Judicial, el presupuesto de este último se incrementará de manera independiente y de forma proporcional con el presupuesto otorgado en el año previo.
 
 Artículo Quinto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En un término no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, se llevarán a cabo las reformas y modificaciones necesarias al marco jurídico correspondiente, para adecuarlo a las disposiciones que se establecen en el presente Decreto.
+
+Artículo Cuarto.- Los juicios contenciosos administrativos que se encuentren en trámite hasta antes de la entrada en vigor de la presente reforma, deberán remitirse a la Sala Colegiada de Primera Instancia del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, para su continuación y resolución correspondiente; de igual forma, los recursos de revisión pendientes de resolver serán remitidos a la Sala Colegiada de Segunda Instancia del mismo órgano jurisdiccional.
+
+Artículo Quinto.- Las Salas Colegiadas de Primera y Segunda Instancia del Tribunal de Justicia Electoral y Administrativa, quedarán integradas por los magistrados que sean propuestos por el Presidente de ese órgano jurisdiccional y aprobados por el Pleno del propio Tribunal.
