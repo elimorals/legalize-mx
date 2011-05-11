@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-procedimientos-administrativos-para-el-estado-de-58774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2010-05-26"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 28 de diciembre de 2007.
 
@@ -841,13 +841,15 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 ### Capítulo I (sic). Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 101.
 
-Los juicios que se promuevan ante el Tribunal de Justicia Electoral y Administrativa, se regirán por las disposiciones de esta Ley. A falta de disposición expresa se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Chiapas en lo que no contravenga las disposiciones que regulan el juicio contencioso administrativo que establece esta Ley.
+Los juicios que se promuevan ante la Sala Colegiada de Primera Instancia del Tribunal de Justicia Electoral y Administrativa, se regirán por las disposiciones de esta Ley, y sólo podrán suspenderse hasta por tres meses cuando se trate de proceso electoral para elegir al Gobernador del Estado, Diputados al Congreso local y miembros de Ayuntamientos. A falta de disposición expresa se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Chiapas en lo que no contravenga las disposiciones que regulan el juicio contencioso administrativo que establece esta Ley.
 
 Cuando la resolución recaída a un recurso administrativo, no satisfaga el interés jurídico del recurrente, y éste la controvierta en el juicio contencioso administrativo, se entenderá que simultáneamente impugna la resolución recurrida en la parte que continúa afectándolo, pudiendo hacer valer conceptos de impugnación no planteados en el recurso.
 
-Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que la Sala competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
+Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que la Sala Colegiada de Primera Instancia determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de impugnación no planteados en el recurso.
 
 ###### Artículo 102.
 
@@ -879,17 +881,21 @@ XI. Las señaladas en las demás leyes como competencia del Tribunal.
 
 Para los efectos del primer párrafo de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 
-El Tribunal conocerá, además de los juicios que se promuevan contra los actos administrativos, decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-El Tribunal de Justicia Electoral y Administrativa conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+La Sala Colegiada de Primera Instancia conocerá, además de los juicios que se promuevan contra los actos administrativos, decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+También conocerá de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 103.
 
-El Tribunal de Justicia Electoral y Administrativa conocerá de los juicios que se promuevan en contra de las resoluciones definitivas que impongan sanciones a los servidores públicos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
+La Sala Colegiada de Primera Instancia del Tribunal (sic) Justicia Electoral y Administrativa conocerá de los juicios que se promuevan en contra de las resoluciones definitivas que impongan sanciones a los servidores públicos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento.
 
-El procedimiento para conocer de estos juicios, será el que señale la Ley de Responsabilidad de los Servidores Públicos del Estado de Chiapas y del Libro Segundo de esta Ley.
+De igual forma, conocerá de los juicios que se promuevan los agentes del Ministerio Público, peritos y miembros de las instituciones policiales de los municipios o del Estado, que sean separados de sus cargos cuando no cumplan con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o sean removidos por incurrir en responsabilidad en el desempeño de sus funciones.
 
 ###### Artículo 104.
 
@@ -921,13 +927,17 @@ La representación de las autoridades corresponderá a las unidades administrati
 
 Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 107.
 
-En los juicios que se tramite ante el Tribunal no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+En los juicios que se tramiten ante la Sala Colegiada de Primera Instancia no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y los que originen las diligencias que promuevan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 108.
 
-Los miembros del Tribunal incurren en responsabilidad si:
+Los servidores públicos del Tribunal incurren en responsabilidad sí:
 
 I. Expresan su juicio respecto de los asuntos que estén conociendo, fuera de las oportunidades en que esta Ley lo admite.
 
@@ -1073,21 +1083,31 @@ VII. Estén en una situación que pueda afectar su imparcialidad en forma análo
 
 Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el Artículo anterior, expresando concretamente en qué consiste el impedimento.
 
-Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala turnará el asunto al Presidente del Tribunal, a fin de que la califique y, de resultar fundada, sea turnada a la otra sala del Tribunal.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala Colegiada de Primera Instancia turnará el asunto al Presidente del Tribunal, a fin de que la califique y, de resultar fundada, provea lo conducente.
 
 ### Capítulo VI. De la Improcedencia y del Sobreseimiento
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 123.
 
-Es improcedente el juicio ante el Tribunal en los casos, por las causales y contra los actos siguientes:
+Es improcedente el juicio ante la Sala Colegiada de Primera Instancia en los casos, por las causales y contra los actos siguientes:
 
 I. Que no afecten los intereses jurídicos del demandante.
 
-II. Que no le competa conocer al Tribunal.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-III. Que hayan sido materia de sentencia pronunciada por el Tribunal, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
+II. Que no le competa conocer a la Sala.
 
-IV. Cuando hubiere consentimiento, entendiéndose que hay consentimiento si no se promovió algún medio de defensa en los términos de las leyes respectivas o juicio ante el Tribunal, en los plazos que señala esta Ley.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. Que hayan sido materia de sentencia pronunciada por la Sala, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. Cuando hubiere consentimiento, entendiéndose que hay consentimiento si no se promovió algún medio de defensa en los términos de las leyes respectivas o juicio ante la Sala, en los plazos que señala esta Ley.
 
 Se entiende que no hubo consentimiento cuando una resolución administrativa o parte de ella no impugnada, cuando derive o sea consecuencia de aquella otra que haya sido expresamente impugnada.
 
@@ -1147,7 +1167,9 @@ II. De treinta días siguientes a aquel en el que surta efectos la notificación
 
 III. De cinco años cuando las autoridades demanden la modificación o nulidad de una resolución favorable a un particular, los que se contarán a partir del día siguiente a la fecha en que éste se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda.
 
-Cuando el demandante tenga su domicilio fuera de la sede del Tribunal la demanda podrá presentarse en la oficialía de partes común del Poder Judicial o de los Juzgados Civiles, quienes la remitirán inmediatamente al Tribunal.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Cuando el demandante tenga su domicilio fuera de la sede del Tribunal la demanda podrá presentarse en la oficialía de partes común del Poder Judicial o de los Juzgados Civiles, quienes la remitirán inmediatamente a la Sala Colegiada de Primera Instancia del Tribunal.
 
 Cuando el interesado fallezca durante el plazo para iniciar juicio, el plazo se suspenderá hasta un año, si antes no se ha aceptado el cargo de representante de la sucesión.
 
@@ -1171,7 +1193,9 @@ En caso de que se ofrezca prueba pericial o testimonial se precisarán los hecho
 
 En caso de que ofrezca pruebas documentales, podrá ofrecer también el expediente administrativo en que se haya dictado la resolución impugnada.
 
-Se entiende por expediente administrativo el que contenga toda la información relacionada con el procedimiento que dio lugar a la resolución impugnada; dicha documentación será la que corresponda al inicio del procedimiento, los actos administrativos posteriores y a la resolución impugnada. La remisión del expediente administrativo no incluirá las documentales privadas del actor, salvo que las especifique como ofrecidas. El expediente administrativo será remitido en un solo ejemplar por la autoridad; el cual estará en la Sala correspondiente a disposición de las partes que pretendan consultarlo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Se entiende por expediente administrativo el que contenga toda la información relacionada con el procedimiento que dio lugar a la resolución impugnada; dicha documentación será la que corresponda al inicio del procedimiento, los actos administrativos posteriores y a la resolución impugnada. La remisión del expediente administrativo no incluirá las documentales privadas del actor, salvo que las especifique como ofrecidas. El expediente administrativo será remitido en un solo ejemplar por la autoridad; el cual estará en la Sala Colegiada de Primera Instancia a disposición de las partes que pretendan consultarlo.
 
 VI. Los conceptos de impugnación.
 
@@ -1193,7 +1217,9 @@ El demandante deberá adjuntar a su demanda:
 
 I. Una copia de la misma y de los documentos anexos para cada una de las partes.
 
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con la que esté acreditada ante el Tribunal, cuando no gestione en nombre propio.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con la que esté acreditada ante la Sala Colegiada de Primera Instancia, cuando no gestione en nombre propio.
 
 III. El documento en que conste la resolución impugnada.
 
@@ -1201,7 +1227,9 @@ IV. En el supuesto de que se impugne una resolución negativa ficta, deberá aco
 
 V. La constancia de la notificación de la resolución impugnada.
 
-VI. Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la autoridad demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, el Tribunal procederá conforme a lo previsto en el Artículo 129 fracción V, de esta Ley. Si durante el plazo previsto en el Artículo 129 citado no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de notificación de la referida resolución.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VI. Cuando no se haya recibido constancia de notificación o la misma hubiere sido practicada por correo, así se hará constar en el escrito de demanda, señalando la fecha en que dicha notificación se practicó. Si la autoridad demandada al contestar la demanda hace valer su extemporaneidad, anexando las constancias de notificación en que la apoya, la Sala Colegiada de Primera Instancia procederá conforme a lo previsto en el artículo 129 fracción V, de esta Ley. Si durante el plazo previsto en el artículo 129 citado no se controvierte la legalidad de la notificación de la resolución impugnada, se presumirá legal la diligencia de notificación de la referida resolución.
 
 VII. El cuestionario que debe desahogar el perito, el cual deberá ir firmado por el demandante.
 
@@ -1227,7 +1255,9 @@ I. Si el demandante afirma conocer la resolución administrativa, los conceptos 
 
 II. Si el actor manifiesta que no conoce la resolución administrativa que pretende impugnar, así lo expresará en su demanda, señalando la autoridad a quien la atribuye, su notificación o su ejecución. En este caso, al contestar la demanda, la autoridad acompañará constancia de la resolución administrativa y de su notificación, mismas que el actor deberá combatir mediante ampliación de la demanda.
 
-III. El Tribunal estudiará los conceptos de impugnación expresados contra la notificación, en forma previa al examen de los agravios expresados en contra de la resolución administrativa.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. La Sala Colegiada de Primera Instancia estudiará los conceptos de impugnación expresados contra la notificación, en forma previa al examen de los agravios expresados en contra de la resolución administrativa.
 
 Si resuelve que no hubo notificación o que fue ilegal, considerará que el actor fue sabedor de la resolución administrativa desde la fecha en que manifestó conocerla o en la que se le dio a conocer, según se trate, quedando sin efectos todo lo actuado en base a dicha notificación, y procederá al estudio de la impugnación que se hubiese formulado contra la resolución.
 
@@ -1265,9 +1295,11 @@ Deberá adjuntar a su escrito, el documento en que se acredite su personalidad c
 
 ### Capítulo II. De la Suspensión
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 131.
 
-El demandante podrá solicitar en cualquier tiempo, desde el escrito de inicio y hasta antes de que se dicte sentencia, ante la Sala de conocimiento del juicio la suspensión de la ejecución del acto administrativo impugnado, cumpliendo con los siguientes requisitos:
+El demandante podrá solicitar en cualquier tiempo, desde el escrito de inicio y hasta antes de que se dicte sentencia, ante la Sala Colegiada de Primera Instancia, la suspensión de la ejecución del acto administrativo impugnado, cumpliendo con los siguientes requisitos.
 
 I. Solicitarla por escrito acompañando copias de la promoción en la que solicite la suspensión y de las pruebas documentales que ofrezca, para correr traslado a cada una de las partes y una más para la carpeta de suspensión.
 
@@ -1311,13 +1343,13 @@ VII. El auto que decrete o niegue la suspensión provisional, podrá ser impugna
 
 VIII. En el caso en que la ley que regule el acto administrativo cuya suspensión se solicite, no prevea la solicitud de suspensión ante la autoridad ejecutora, la suspensión tendrá el alcance que indique el Magistrado Ponente o la Sala y subsistirá en tanto no se modifique o revoque o hasta que exista sentencia firme.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-IX. Mientras no se dicte sentencia en el juicio, la Sala podrá modificar o revocar la sentencia interlocutoria que haya decretado o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
+IX. Mientras no se dicte sentencia en el juicio, la Sala Colegiada de Primera Instancia podrá modificar o revocar la sentencia interlocutoria que haya decretado o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-X. Cuando el solicitante de la suspensión obtenga sentencia firme favorable, la Sala ordenará la cancelación o liberación, según el caso, de la garantía otorgada.
+X. Cuando el solicitante de la suspensión obtenga sentencia firme favorable, la Sala Colegiada de Primera Instancia ordenará la cancelación o liberación, según el caso, de la garantía otorgada.
 
 Asimismo, si la sentencia firme le es desfavorable, a petición de la contraparte o, en su caso, del tercero interesado, y previo acreditamiento que se causaron perjuicios o se sufrieron daños, la Sala, ordenará hacer efectiva la garantía otorgada ante el Tribunal.
 
@@ -1449,9 +1481,9 @@ Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y l
 
 Las partes podrán recusar a los Magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 121, de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-La recusación de Magistrados se promoverá mediante escrito que se presente en la Sala en la que se halle adscrito el Magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal el escrito de recusación junto con un informe que el Magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno. A falta de informe, se presumirá cierto el impedimento. Si el Pleno del Tribunal considera fundada la recusación, el magistrado de la Sala será sustituido por el Secretario de Acuerdos del Tribunal.
+La recusación de Magistrados se promoverá mediante escrito que se presente en la Sala en la que se halle adscrito el Magistrado de que se trate, acompañando las pruebas que se ofrezcan. El Presidente de la Sala, dentro de los cinco días siguientes, enviará al Presidente del Tribunal el escrito de recusación junto con un informe que el Magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento del Pleno de la Sala Colegiada de Segunda Instancia. A falta de informe, se presumirá cierto el impedimento. Si el Pleno considera fundada la recusación, el Magistrado de la Sala será sustituido por el Secretario de Acuerdos que corresponda.
 
 Los magistrados que conozcan de una recusación son irrecusables para ese solo efecto.
 
@@ -1471,7 +1503,9 @@ Las partes o el Magistrado Ponente de oficio, solicitarán se substancie el inci
 
 Con el acta se dará vista a las partes para que en el término de diez días prorrogables exhiban ante el instructor, en copia simple o certificada, las constancias y documentos relativos al expediente que obren en su poder, a fin de reponerlo. Una vez integrado, la Sala, en el plazo de cinco días, declarará repuestos los autos, se levantará la suspensión y se continuará con el procedimiento.
 
-Cuando la pérdida ocurra encontrándose los autos a disposición del pleno, se ordenará a la Sala correspondiente proceda a la reposición de autos y una vez integrado el expediente, se remitirá el mismo al pleno para la resolución del juicio.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Cuando la pérdida ocurra encontrándose los autos a disposición del pleno de la Sala Colegiada de Segunda Instancia, se ordenará a la Sala Colegiada de Primera Instancia proceda a la reposición de autos y una vez integrado el expediente, se remitirá el mismo al pleno para la resolución del juicio.
 
 ###### Artículo 145.
 
@@ -1493,13 +1527,13 @@ Si no está previsto algún trámite especial, los incidentes se substanciarán 
 
 ### Capítulo V. De las Pruebas
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 147.
 
-En los juicios que se tramiten ante el Tribunal de Justicia Electoral y Administrativa, el demandante que pretende se reconozca o se haga efectivo un derecho subjetivo, deberá probar los hechos de los que deriva su derecho y la violación del mismo, cuando ésta consista en hechos positivos. Misma suerte estará a cargo del demandado, en lo que hace a sus excepciones.
+En los juicios que se tramiten ante la Sala Colegiada de Primera Instancia del Tribunal de Justicia Electoral y Administrativa, el demandante que pretende se reconozca o se haga efectivo un derecho subjetivo, deberá probar los hechos de los que deriva su derecho y la violación del mismo, cuando ésta consista en hechos positivos. Misma suerte estará a cargo del demandado, en lo que hace a sus excepciones.
 
-En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
+En los juicios que se tramiten ante la Sala Colegiada de Primera Instancia, serán admisibles toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades.
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado sentencia. En este caso, se ordenará dar vista a la contraparte para que en el plazo de cinco días exprese lo que a su derecho convenga.
 
@@ -1507,7 +1541,9 @@ Las pruebas supervenientes podrán presentarse siempre que no se haya dictado se
 
 El Magistrado Ponente, hasta antes de que se cierre la instrucción, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes.
 
-El magistrado, en su caso, propondrá a la Sala respectiva, reabrir la instrucción para los efectos señalados anteriormente.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El magistrado, en su caso, propondrá a la Sala, reabrir la instrucción para los efectos señalados anteriormente.
 
 ###### Artículo 149.
 
@@ -1557,13 +1593,47 @@ III. El valor de las pruebas, quedará a la prudente apreciación de la Sala.
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.
 
-### Capítulo VI. Del Cierre de la Instrucción
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo VI. De la Caducidad de la Instancia y del Cierre de Instrucción
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 154.
 
-El Magistrado Ponente, cinco días después de que haya concluido la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de tres días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+La caducidad de la instancia es de orden público irrenunciable y no puede ser materia de convenios entre las partes; opera de pleno derecho, cualquiera que sea el estado del juicio, desde el primer auto, hasta antes de la citación para sentencia o cierre de instrucción, si transcurridos ciento veinte días hábiles contados a partir de la notificación de la última determinación judicial, no hubiere promoción tendiente a impulsar el procedimiento de cualquiera de las partes.
 
-Al vencer el plazo de tres días a que se refiere el párrafo anterior, con alegatos o sin ellos, se emitirá el acuerdo correspondiente en el que se declare cerrada la instrucción.
+La caducidad de los incidentes, se causa por sesenta días hábiles contados a partir de la notificación de la última determinación judicial, cuando no hubiere promoción tendiente a impulsar el procedimiento de cualquiera de las partes; la declaración respectiva sólo afectará las actuaciones del incidente, sin abarcar las del principal, aunque haya quedado en suspenso ésta por la aprobación de aquel.
+
+El término de la caducidad, sólo se interrumpirá por promociones de las partes tendientes a impulsar el procedimiento o por actos procedimentales de las mismas realizados ante autoridad judicial diversa, siempre que tenga relación inmediata y directa con la instancia. La suspensión del procedimiento produce la interrupción del término de la caducidad.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 154 Bis.
+
+Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+
+I. El Magistrado Instructor la declarará de oficio o a petición de cualquiera de las partes, cuando concurran las circunstancias a que se refiere el presente capítulo;
+
+II. La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión tiene lugar:
+
+a) En los casos previstos en el artículo 145 de esta ley.
+
+b) Cuando por fuerza mayor el Magistrado Instructor o las partes no pueden actuar.
+
+c) En los casos en que es necesario esperar la resolución de una cuestión previa o conexa por el mismo Magistrado Instructor o por otras autoridades.
+
+d) Cuando se pruebe ante el Magistrado Instructor en incidente, que se consumó la caducidad por maquinaciones dolosas de una de las partes, en perjuicio de la otra.
+
+III. Contra la declaración o negativa de caducidad procede el recurso de revisión.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 154 Ter.
+
+El Magistrado Instructor, después de que haya concluido la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, notificará por lista a las partes que tienen un término de tres días para formular alegatos por escrito. Los alegatos presentados en tiempo deberán ser considerados al dictar sentencia.
+
+Al vencer el plazo de tres días a que se refiere el párrafo anterior, con alegatos o sin ellos, se emitirá el acuerdo correspondiente en el que se declare cerrada la instrucción y se enviarán los autos para el dictado de la sentencia respectiva.
 
 ### Capítulo VII. De la Sentencia
 
@@ -1575,17 +1645,19 @@ Cuando la mayoría de los magistrados estén de acuerdo con el proyecto, el magi
 
 Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistrado ponente engrosará el fallo con los argumentos de la mayoría y el proyecto podrá quedar como voto particular.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 156.
 
-Las sentencias del Tribunal se fundarán en derecho y resolverán sobre la pretensión del demandante que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
+Las sentencias de la Sala Colegiada de Primera Instancia se fundarán en derecho y resolverán sobre la pretensión del demandante que se deduzca de su demanda, en relación con una resolución impugnada, teniendo la facultad de invocar hechos notorios.
 
-Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquellos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en que forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
+Cuando se hagan valer diversas causales de ilegalidad, la sentencia de la Sala deberá examinar primero aquellos que puedan llevar a declarar la nulidad lisa y llana. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios de procedimiento, la misma deberá señalar en qué forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
 
-Las Salas podrán corregir los errores que adviertan en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
+La Sala podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios y causales de ilegalidad, así como los demás razonamientos de las partes, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en la demanda y en la contestación.
 
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, la Sala Colegiada de Primera Instancia se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
 
-En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, el Tribunal deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
+En el caso de sentencias en que se condene a la autoridad a la restitución de un derecho subjetivo violado o a la devolución de una cantidad, la Sala Colegiada de Primera Instancia deberá previamente constatar el derecho que tiene el particular, además de la ilegalidad de la resolución impugnada.
 
 ###### Artículo 157.
 
@@ -1619,7 +1691,9 @@ V. Cuando no se dé a conocer al contribuyente visitado el resultado de una comp
 
 VI. Cuando no se valore alguna prueba para acreditar los hechos asentados en el oficio de observaciones o en la última acta parcial, siempre que dicha prueba no sea idónea para dichos efectos.
 
-El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Sala Colegiada de Primera Instancia podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
 
 ###### Artículo 159.
 
@@ -1631,11 +1705,15 @@ II. Declarar la nulidad de la resolución impugnada.
 
 III. Declarar la nulidad de la resolución impugnada para determinados efectos, debiendo precisar con claridad la forma y términos en que la autoridad debe cumplirla, debiendo reponer el procedimiento, en su caso, desde el momento en que se cometió la violación.
 
-IV. Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III del Artículo 157 de esta Ley, el Tribunal declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, cuando corresponda a la pretensión deducida, también podrá indicar los términos conforme a los cuales deberá dictar su resolución la autoridad administrativa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. Siempre que se esté en alguno de los supuestos previstos en las fracciones II y III, del artículo 157 de esta Ley, la Sala Colegiada de Primera Instancia declarará la nulidad para el efecto de que se reponga el procedimiento o se emita nueva resolución; en los demás casos, cuando corresponda a la pretensión deducida, también podrá indicar los términos conforme a los cuales deberá dictar su resolución la autoridad administrativa.
 
 En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, la Sala deberá precisar, el monto, el alcance y los términos de la misma para su cumplimiento.
 
-Tratándose de sanciones, cuando dicho Tribunal aprecie que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Tratándose de sanciones, cuando la Sala Colegiada de Primera Instancia aprecie que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
 
 V. Declarar la nulidad de la resolución impugnada y además:
 
@@ -1665,11 +1743,13 @@ III. Sea consentida expresamente por las partes o sus representantes legítimos.
 
 Cuando haya quedado firme una sentencia que deba cumplirse en el plazo establecido por el Artículo 159 de esta Ley, el secretario de acuerdos que corresponda, hará la certificación de tal circunstancia y fecha de causación y el Magistrado Ponente, en su caso, ordenará se notifique a las partes la mencionada certificación.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 161.
 
-La parte que estime contradictoria, ambigua u obscura una sentencia definitiva del Tribunal, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquel en que surta efectos su notificación.
+La parte que estime contradictoria, ambigua u obscura una sentencia definitiva de la Sala Colegiada de Primera Instancia, podrá promover por una sola vez su aclaración dentro de los diez días siguientes a aquel en que surta efectos su notificación.
 
-La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
+La instancia deberá señalar la parte de la sentencia cuya aclaración se solicita e interponerse ante la Sala Colegiada de Primera Instancia que dictó la sentencia, la que deberá resolver en un plazo de cinco días siguientes a la fecha en que fue interpuesto, sin que pueda variar la sustancia de la sentencia. La aclaración no admite recurso alguno y se reputará parte de la sentencia recurrida y su interposición interrumpe el término para su impugnación.
 
 ###### Artículo 162.
 
@@ -1679,7 +1759,9 @@ Las partes podrán formular excitativa de justicia ante el Presidente del Tribun
 
 Recibida la excitativa de justicia, el Presidente del Tribunal, solicitará informe al magistrado responsable que corresponda, quien deberá rendirlo en el plazo de cinco días. El Presidente, si encuentra fundada la excitativa, otorgará un plazo que no excederá de quince días para que el magistrado formule el proyecto respectivo.
 
-En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto del magistrado responsable, el informe a que se refiere el párrafo anterior, se pedirá al Presidente de la Sala, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno considere fundada la excitativa, concederá un plazo de diez días a la Sala para que dicte la sentencia.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En el supuesto de que la excitativa se promueva por no haberse dictado sentencia, a pesar de existir el proyecto del magistrado responsable, el informe a que se refiere el párrafo anterior, se pedirá al Presidente de la Sala Colegiada de Primera Instancia, para que lo rinda en el plazo de tres días, y en el caso de que el Pleno de la Sala Colegiada de Segunda Instancia considere fundada la excitativa, concederá un plazo de diez días a la Sala para que dicte la sentencia.
 
 ### Capítulo VIII. Del Cumplimiento de la Sentencia
 
@@ -1709,17 +1791,23 @@ II. En los casos de condena, la sentencia deberá precisar la forma y los plazos
 
 Cuando se interponga el juicio de amparo o el recurso de revisión, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
 
-Los plazos para el cumplimiento de sentencia que establece este Artículo, empezarán a correr a partir del día hábil siguiente a aquél en que el Tribunal de Justicia Electoral y Administrativa informe a la autoridad que no se interpuso el juicio de amparo en contra de la sentencia, o el particular informe a la autoridad, bajo protesta de decir verdad, que no interpuso en contra de la sentencia, dicho juicio. La autoridad, dentro del plazo de 20 días posteriores a la fecha en que venció el término de 15 días para interponer el juicio de amparo, deberá solicitar al Tribunal el informe mencionado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-En el caso de que la autoridad no solicite el informe mencionado dentro del plazo establecido, el plazo para el cumplimiento de la resolución empezará a correr a partir de que hayan transcurrido los 15 días para interponer el juicio de amparo.
+Los plazos para el cumplimiento de sentencia que establece este artículo, empezarán a correr a partir del día hábil siguiente a aquél en que aquélla cause estado.
+
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 165.
 
-A fin de asegurar el pleno cumplimiento de las resoluciones del Tribunal a que este precepto se refiere, una vez vencido el plazo previsto por el Artículo 159 de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a los Artículos siguientes.
+A fin de asegurar el pleno cumplimiento de las resoluciones de la Sala Colegiada de Primera Instancia a que este precepto se refiere, una vez vencido el plazo previsto por el artículo 159, de esta Ley, ésta podrá actuar de oficio o a petición de parte, conforme a los artículos siguientes.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 166.
 
-La Sala que hubiere pronunciado la sentencia, podrá de oficio, por conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso.
+La Sala Colegiada de Primera Instancia, podrá de oficio, por conducto de su Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso.
 
 ###### Artículo 167.
 
@@ -1735,9 +1823,13 @@ III. Cuando la naturaleza del acto lo permita, la Sala podrá comisionar al func
 
 Lo dispuesto en esta fracción también será aplicable cuando no se cumplimente en los términos ordenados la suspensión que se decrete, respecto del acto impugnado en el juicio o en relación con la garantía que deba ser admitida.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-IV. Transcurridos los plazos señalados en las fracciones anteriores, la Sala que hubiere emitido el fallo, pondrá conocimiento de los hechos a la Secretaria de la Contraloría, a la Contraloría Interna, o al Síndico Municipal, según corresponda, a fin de que se determine la responsabilidad del funcionario responsable del incumplimiento.
+IV. Transcurridos los plazos señalados en las fracciones anteriores, la Sala pondrá conocimiento de los hechos a la Secretaría de la Función Pública, o la Contraloría Interna, o al Síndico Municipal, según corresponda, a fin de que se determine la responsabilidad del funcionario responsable del incumplimiento.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Con independencia de lo anterior, en el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, la Sala Colegiada de Primera Instancia informará al Presidente del Tribunal, quien ordenara su cumplimiento. Si la ejecución consiste en la realización de un acto material, promoverá la aplicación de la ley o del reglamento que corresponda y si el acto solo puede ser ejecutado por la autoridad demandada, solicitara al titular de la dependencia estatal o municipal, o quien se encuentre subordinado dicha autoridad, para que conmine a esta a cumplir con la sentencia.
 
 ### Capítulo IX. Del Procedimiento de Queja
 
@@ -1757,13 +1849,17 @@ IV.- Si la autoridad no da cumplimiento a la orden de suspensión definitiva de 
 
 La queja sólo podrá hacerse valer por una sola vez, con excepción de los supuestos contemplados en la Fracción III, caso en el que se podrá interponer en contra de las resoluciones dictadas en cumplimiento a esta instancia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 169.
 
-Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala que dictó la sentencia, dentro de los cinco días siguientes a aquel en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en la fracción III del Artículo anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
+Se interpondrá por escrito acompañado, si la hay, de la resolución motivo de la queja, así como de una copia para la autoridad responsable, se presentará ante la Sala Colegiada de Primera Instancia, dentro de los cinco días siguientes a aquel en que surtió efectos la notificación del acto, resolución o manifestación que la provoca. En el supuesto previsto en la fracción III del Artículo anterior, el quejoso podrá interponer su queja en cualquier tiempo, salvo que haya prescrito su derecho.
 
 En dicho escrito se expresarán las razones por las que se considera que hubo exceso o defecto; repetición del acto impugnado o del efecto de éste; que precluyó la oportunidad de la autoridad demandada para emitir la resolución definitiva con la que concluya el procedimiento ordenado; o bien, que procede el cumplimiento sustituto.
 
-El Magistrado Ponente, ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco días en el que justificará el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, se dará a la Sala, la que resolverá dentro de los cinco días siguientes.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Magistrado Ponente, ordenará a la autoridad a quien se impute el incumplimiento, que rinda informe dentro del plazo de cinco días en el que justificará el acto que provocó la queja. Vencido el plazo mencionado, con informe o sin él, la Sala resolverá dentro de los cinco días siguientes.
 
 ###### Artículo 170.
 
@@ -1811,7 +1907,9 @@ Existiendo resolución administrativa definitiva, si la Sala considera que la qu
 
 El recurso de revisión procederá:
 
-I.- Contra resoluciones de los Magistrados de Sala que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
+l. Contra resoluciones de los Magistrados de la Sala Colegiada de Primera Instancia que:
 
 a) Admitan, desechen o tengan por no presentada la demanda, la contestación, la ampliación de ambas o alguna prueba.
 
@@ -1823,7 +1921,13 @@ d) Las que nieguen el sobreseimiento en el juicio antes del cierre de instrucci�
 
 e) Aquellas que admitan o rechacen la intervención del tercero interesado.
 
-II.- Contra sentencias definitivas de las Salas que:
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+f) Las que declaren la caducidad de la instancia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
+II. Contra sentencias definitivas de la Sala Colegiada de Primera Instancia que:
 
 a) Resuelvan el fondo del asunto.
 
@@ -1835,77 +1939,97 @@ a) Concedan o nieguen la suspensión definitiva.
 
 b) Resuelvan los incidentes.
 
-La Revisión se interpondrá ante la Sala dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Revisión se interpondrá ante la Sala Colegiada de Primera Instancia dentro de los diez días siguientes a aquel en que surta efectos la notificación de que se trate.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El trámite de este recurso sólo podrá suspenderse hasta por tres meses cuando se trate de proceso electoral para elegir al Gobernador del Estado, Diputados al Congreso local y miembros de Ayuntamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 174.
 
-En el escrito con que se interpone el recurso se hará expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que intervienen en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del término de diez días, comparezcan por escrito ante el Pleno del Tribunal a defender sus derechos.
+En el escrito con que se interpone el recurso se hará expresión de agravios, el recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes que intervienen en el juicio contencioso administrativo, a las que se les deberá emplazar para que, dentro del término de diez días, comparezcan por escrito ante la Sala Colegiada de Segunda Instancia del Tribunal a defender sus derechos.
 
-Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas, dentro del término de tres días; si no las exhibiere, se tendrán por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Cuando falten total o parcialmente las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que presente las omitidas, dentro del término de tres días; si no las exhibiere, el Presidente de la Sala Colegiada de Segunda Instancia tendrá por no interpuesto el recurso.
 
 En todos los casos a que se refiere este Artículo, la parte que obtuvo resolución favorable a sus intereses puede adherirse a la revisión interpuesta por el recurrente, dentro del plazo de diez días contados a partir de la fecha en la que se le notifique la admisión del recurso, expresando los agravios correspondientes; en este caso la adhesión al recurso sigue la suerte procesal de éste.
 
 Cuando la revisión se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 175.
 
-lnterpuesta la revisión y recibidas en tiempo las copias del escrito de expresión de agravios, la sala remitirá el expediente original al pleno, dentro del término de veinticuatro horas, así como el original del propio escrito de agravios.
+Interpuesta la revisión y recibidas en tiempo las copias del escrito de expresión de agravios, la sala Colegiada de Primera Instancia remitirá el expediente original a la Sala Colegiada de Segunda Instancia, dentro del término de veinticuatro horas, así como el original del propio escrito de agravios.
 
 En los casos de las sentencias interlocutorias que concedan o nieguen la suspensión definitiva, el expediente original del incidente de suspensión deberá remitirse, con el original del escrito de expresión de agravios, dentro del término de veinticuatro horas al Pleno.
 
 Tratándose del auto en que se haya concedido o negado la suspensión de plano, interpuesta la revisión, sólo deberá remitirse al Pleno, copia certificada del escrito de demanda, del auto recurrido, de sus notificaciones y del escrito u oficio en que se haya interpuesto el recurso de revisión con expresión de la fecha y hora del recibo.
 
-El Pleno del Tribunal, según corresponda, calificará la procedencia del recurso de revisión, admitiéndolo o desechándolo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Pleno de la Sala Colegiada de Segunda Instancia, según corresponda, calificará la procedencia del recurso de revisión, admitiéndolo o desechándolo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 176.
 
-El Pleno, al conocer de los asuntos en revisión, observarán las siguientes reglas:
+El Pleno de la Sala Colegiada de Segunda Instancia, al conocer de los asuntos en revisión, observarán las siguientes reglas:
 
-I.- Examinarán los agravios alegados contra la resolución recurrida y, cuando estimen que son fundados, deberán considerar los conceptos de violación cuyo estudio omitió el juzgador.
+l. Examinarán los agravios alegados contra la resolución recurrida y, cuando estimen que son fundados, deberán considerar los conceptos de violación cuyo estudio omitió el juzgador.
 
-II.- Sólo tomarán en consideración las pruebas que se hubiesen rendido ante la sala que conozca o haya conocido del juicio del juicio contencioso; así como de la resolución recurrida.
+II. Sólo tomarán en consideración las pruebas que se hubiesen rendido ante la Sala Colegiada de Primera Instancia que conozca o haya conocido del juicio del juicio (sic) contencioso; así como de la resolución recurrida.
 
-III.- Si consideran infundada la causa de improcedencia expuesta por la sala, para sobreseer el juicio contencioso después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda, y
+III. Si consideran infundada la causa de improcedencia expuesta por la Sala Colegiada de Primera Instancia, para sobreseer el juicio contencioso después de que las partes hayan rendido pruebas y presentado sus alegatos, podrán confirmar el sobreseimiento si apareciere probado otro motivo legal, o bien revocar la resolución recurrida y entrar al fondo del asunto, para pronunciar la sentencia que corresponda.
 
-IV.- Si en la revisión de una sentencia, encontraren que se violaron las reglas fundamentales que norman el procedimiento en el juicio contencioso, o que la sala, incurrió en alguna omisión que hubiere dejado sin defensa al recurrente o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley.
+IV. Si en la revisión de una sentencia, encontraren que se violaron las reglas fundamentales que norman el procedimiento en el juicio contencioso, o que la Sala Colegiada de Primera Instancia, incurrió en alguna omisión que hubiere dejado sin defensa al recurrente o pudiere influir en la sentencia que deba dictarse en definitiva, revocarán la recurrida y mandarán reponer el procedimiento, así como cuando aparezca también que indebidamente no ha sido oída alguna de las partes que tenga derecho a intervenir en el juicio conforme a la ley.
 
 ## Título IV. De los Criterios
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 177.
 
-Los Criterios sustentados en las sentencias pronunciadas por el Pleno y las Salas del Tribunal, aprobados por unanimidad, constituirán precedente una vez publicados en el medio de difusión oficial del Tribunal.
+Los criterios sustentados en las sentencias pronunciadas por las Salas Colegiadas de Primera y Segunda Instancia del Tribunal, aprobados por unanimidad, constituirán precedente una vez publicados en el medio de difusión oficial del Tribunal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 178.
 
-Para fijar criterios, el Pleno o las Salas, deberán aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
+Para fijar Criterios, las Salas deberán aprobar tres precedentes en el mismo sentido, no interrumpidos por otro en contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 179.
 
-En el caso de contradicción de Criterios de las Salas, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno general, el cual con un quórum mínimo de cinco magistrados, decidirá por mayoría de tres la que debe prevalecer, constituyendo criterio.
+En el caso de contradicción de criterios de la Sala Colegiada de Primera Instancia, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente de la Sala Colegiada de Segunda Instancia del Tribunal para que haga del conocimiento del Pleno de la misma, el cual con un quórum mínimo de tres Magistrados, decidirá por mayoría de votos la que debe prevalecer, constituyendo criterio.
 
-La resolución que pronuncie el Pleno del Tribunal, en los casos a que este Artículo se refiere, sólo tendrá efectos para fijar Criterios y no afectará las resoluciones dictadas en los juicios correspondientes.
+La resolución que pronuncie el Pleno de la Sala Colegiada de Segunda Instancia del Tribunal, en los casos a que este Artículo se refiere, sólo tendrá efectos para fijar Criterios y no afectará las resoluciones dictadas en los juicios correspondientes.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 180.
 
-El Pleno podrá suspender un Criterio, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario al Criterio. Dicha suspensión deberá publicarse en el medio de difusión oficial del Tribunal.
+El Pleno de la Sala Colegiada de Segunda Instancia podrá suspender un Criterio, cuando en una sentencia o en una resolución de contradicción de sentencias, resuelva en sentido contrario al Criterio. Dicha suspensión deberá publicarse en el medio de difusión oficial del Tribunal.
 
-El presidente de la Sala podrá proponer al Pleno que suspenda el Criterio, cuando haya razones fundadas que lo justifiquen, a fin de que la someta a la consideración del Pleno.
+El presidente de la Sala Colegiada de Primera Instancia podrá proponer al Pleno de la Sala Colegiada de Segunda Instancia que suspenda el Criterio, cuando haya razones fundadas que lo justifiquen.
 
-La suspensión de un Criterios termina cuando se reitere éste en tres precedentes de Pleno, salvo que el origen de la suspensión sea jurisprudencia en contrario del Poder Judicial Federal y éste la cambie. En este caso, el Presidente del Tribunal lo informará al Pleno para que éste ordene su publicación.
+La suspensión de un Criterio termina cuando se reitere éste en tres precedentes, salvo que el origen de la suspensión sea jurisprudencia en contrario del Poder Judicial Federal y éste la cambie. En este caso, el Presidente del Tribunal ordenará su publicación.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 181.
 
-Las Salas del Tribunal están obligadas a aplicar los Criterios del Pleno, salvo que ésta contravenga jurisprudencia del Poder Judicial Federal.
+La Sala Colegiada de Primera Instancia del Tribunal está obligada a aplicar los Criterios del Pleno de la Sala Colegiada de Segunda Instancia, salvo que ésta contravenga jurisprudencia del Poder Judicial Federal.
 
-Cuando se conozca que una Sala del Tribunal dictó una sentencia contraviniendo los Criterios, el Presidente del Tribunal solicitará a los Magistrados que hayan votado a favor de dicha sentencia un informe, para que éste lo haga del conocimiento del Pleno y, una vez confirmado el incumplimiento, el Pleno del Tribunal los apercibirá. En caso de reincidencia se les aplicará la sanción administrativa que corresponda en los términos de la ley de la materia.
+Cuando se conozca que la Sala Colegiada de Primera Instancia del Tribunal dictó una sentencia contraviniendo los Criterios, el Presidente del Tribunal solicitará a los Magistrados que hayan votado a favor de dicha sentencia un informe, para que éste lo haga del conocimiento del Pleno de la Sala Colegiada de Segunda Instancia y, una vez confirmado el incumplimiento, los apercibirá. En caso de reincidencia se les aplicará la sanción administrativa que corresponda en los términos de la ley de la materia.
 
 ## Transitorios
 
@@ -1944,3 +2068,11 @@ P.O. 26 DE MAYO DE 2010.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En un término no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, se llevarán a cabo las reformas y modificaciones necesarias al marco jurídico correspondiente, para adecuarlo a las disposiciones que se establecen en el presente Decreto.
