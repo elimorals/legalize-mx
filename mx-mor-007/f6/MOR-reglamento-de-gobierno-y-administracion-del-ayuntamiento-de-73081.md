@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-administracion-del-ayuntamiento-de-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2010-09-01"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -191,11 +191,31 @@ El Presidente Municipal es el ejecutor de las determinaciones del Ayuntamiento y
 
 El Presidente Municipal, de conformidad con el artículo anterior y como representante político, jurídico y administrativo, deberá residir en la cabecera municipal durante el lapso de su período constitucional y como ejecutor de las determinaciones del Ayuntamiento, tendrá en el desempeño de su encargo, las facultades, obligaciones y prohibiciones que le otorgan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, la Ley Orgánica Municipal del Estado de Morelos, El Bando de Policía y Gobierno del Municipio de Cuernavaca, Morelos, otras leyes, el presente Reglamento así como los reglamentos, acuerdos, circulares y otras disposiciones de carácter administrativo y de observancia general en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 15.
 
 Para el despacho de los asuntos que le competen, el Presidente Municipal se auxiliará de las dependencias, áreas y organismos que establezcan las leyes, el Presupuesto de Egresos y demás disposiciones legales, reglamentarias y administrativas aplicables.
 
-En este sentido, el Presidente Municipal, por conducto de la Consejería Jurídica se encargará de vigilar el cumplimiento que den los ciudadanos que opten por conmutar sus multas y recargos por trabajos a favor de la comunidad, mediante el convenio que signarán para tal efecto.
+La oficina del Presidente Municipal tendrá como unidades administrativas las siguientes:
+
+I.- Secretaría Técnica;
+
+II.- Coordinación de Asesores;
+
+III.- Asesores;
+
+IV.- Coordinación General;
+
+V.- Coordinaciones Generales de Área;
+
+VI.- Coordinación Administrativa;
+
+VII.- Asesor Jurídico; y
+
+VIII.- Las demás unidades administrativas, que sean necesarias para el desempeño de las funciones del Presidente Municipal y que se establezcan en e! Programa Operativo Anual y en el Presupuesto de Egresos.
+
+El Presidente Municipal, por conducto de la Consejería Jurídica se encargará de vigilar el cumplimiento que den los ciudadanos que opten por conmutar sus multas y recargos por trabajos a favor de la comunidad, mediante el convenio que signarán para tal efecto.
 
 ###### Artículo 16.
 
@@ -1419,9 +1439,17 @@ XXXII.- Difundir los programas que se establezcan en materia de seguridad públi
 
 XXXIII.- Intervenir como conciliador en los conflictos, que atenten contra la seguridad pública, la paz, y el orden en el municipio de Cuernavaca, Morelos;
 
-XXXIV.- Informar de sus funciones al Regidor del ramo mensualmente, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-XXXV.- Las demás que determinen la Ley Orgánica Municipal del Estado de Morelos, la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, el presente Reglamento, el Reglamento Interior de la Secretaría y demás disposiciones jurídicas aplicables.
+XXXIV.- Informar de sus funciones al Regidor del ramo mensualmente;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXXV.- Vigilar la correcta vialidad de personas y vehicular en las calles y caminos del municipio y efectuar programas que tiendan a prevenir las faltas administrativas por conductores de vehículos particulares o del servicio público de transporte, y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXXVI.- Las demás que determinen la Ley Orgánica Municipal del Estado de Morelos, la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, el presente Reglamento, el Reglamento Interior de la Secretaría y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 137.
 
@@ -1443,7 +1471,9 @@ d).- Dirección General de Policía Preventiva;
 
 e).- Dirección General del Centro Operativo;
 
-f).- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE MAYO DE 2011)</small>
+
+f).- Dirección de Vigilancia del Transporte Público
 
 g).- Dirección de Supervisión;
 
@@ -2154,3 +2184,23 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En un término no mayor a sesenta días naturales, se deberá adecuar la normatividad que sufre alguna modificación con las presentes reformas.
 
 TERCERO- Publíquese en el Periódico Oficial "Tierra y Libertad" del Gobierno del Estado de Morelos.
+
+P.O. 11 DE MAYO DE 2011.
+
+ACUERDO AC/SO/25-III-11/228 POR EL QUE SE REFORMA EL ARTICULO 15 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones jurídicas y administrativas que se opongan a la presente reforma.
+
+TERCERO.- Publíquese en la Gaceta Municipal.
+
+P.O. 11 DE MAYO DE 2011.
+
+ACUERDO AC/SO/25-III-11/229 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XXXIV Y XXXV; SE ADICIONA UNA FRACCION XXXVI AL ARTICULO 136 Y SE REFORMA EL INCISO F) DE LA FRACCION I DEL ARTICULO 137 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACION DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado y en la Gaceta Municipal.
+
+SEGUNDO.- En un término no mayor a treinta días naturales, se deberá adecuar la normatividad que sufre alguna modificación con la presente reforma.
+
+TERCERO.- Se instruye a la Secretaría del Ayuntamiento, a la Tesorería Municipal, a la Oficialía Mayor, a la Secretaría de Protección y Auxilio Ciudadano, así como a las demás dependencias involucradas, a realizar los trámites conducentes para dar cumplimiento a lo dispuesto en el presente acuerdo, dentro del ámbito de sus respectivas competencias y de conformidad con las disposiciones legales aplicables.
