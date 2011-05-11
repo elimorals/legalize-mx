@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2009-01-30"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 528 DE FOMENTO ECONOMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -290,6 +290,14 @@ Los Municipios podrán crear, en los términos de la legislación aplicable, Con
 El Ejecutivo establecerá anualmente en el presupuesto de egresos del Estado, una partida especial destinada al fortalecimiento y conservación de los fondos de fomento económico. Podrán también constituirse éstos con aportaciones del sector público o privado, nacional o internacional, mediante inversión directa o producto de convenios de coordinación.
 
 Los fondos se destinarán, conforme a este ordenamiento, al otorgamiento de apoyos, estímulos e incentivos recuperables y no recuperables, los cuales estarán sujetos a la aprobación previa del Consejo de Economía del Estado y a su disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Del presupuesto anual autorizado para la operación de los fondos de fomento económico, se destinará por lo menos el 10% de estos recursos para financiar proyectos productivos de jóvenes y un 10%, por lo menos, para proyectos productivos de mujeres, dando preferencia a madres solteras, a través de microcréditos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Secretaría determinará, en el ámbito de su competencia, las reglas de operación para acceder a estos créditos, que serán recuperables.
 
 ###### Artículo 15.
 
@@ -638,3 +646,9 @@ Sufragio efectivo. No reelección
 Licenciado Fidel Herrera Beltrán
 
 Gobernador del Estado.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
