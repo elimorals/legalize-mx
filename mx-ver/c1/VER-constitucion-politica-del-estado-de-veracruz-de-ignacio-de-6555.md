@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2010-10-07"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2011.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -79,9 +79,37 @@ El hombre y la mujer son sujetos de iguales derechos y obligaciones ante la ley.
 
 La libertad del hombre y de la mujer no tiene más límite que la prohibición de la ley; por tanto, toda persona tiene el deber de acatar los ordenamientos expedidos por autoridad competente. Las autoridades sólo tienen las atribuciones concedidas expresamente por la ley.
 
-Los habitantes del Estado gozarán de todas las garantías y libertades consagradas en la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen, así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de generar las condiciones necesarias para que las personas gocen de los derechos que establece esta Constitución, así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
+
+En materia penal el proceso será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, evitar que el culpable quede impune y asegurar que se reparen los daños causados por el delito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
+
+Toda persona es inocente en tanto no se le declare culpable mediante sentencia del juez de la causa que no haya conocido el caso previamente, y ante quien se desarrollará todo el juicio, incluyendo el desahogo y valoración de pruebas. Esta función judicial de ninguna manera será delegable. Cualquier prueba obtenida en violación de derechos fundamentales será nula.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
+
+Habrá jueces de control que garanticen los derechos de los imputados y de las víctimas y decidan sobre las medidas cautelares en los términos de la ley de la materia. La prisión preventiva sólo procederá cuando otras medidas no sean suficientes en los términos de las leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
+
+La legislación ordinaria preverá medios alternos para la solución de controversias, y los requisitos para su aplicación. El Estado organizará el servicio de defensoría pública que deberá contar con calidad y profesionalismo, especialmente en la defensa de los justiciables pertenecientes a los pueblos y comunidades indígenas.
+
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2011)</small>
+
+Los habitantes del Estado gozarán de todas las garantías y libertades consagradas en la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen; así como aquellos que reconozca el Poder Judicial del Estado, sin distinción alguna de origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2011)</small>
+
+Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de generar las condiciones necesarias para que las personas gocen de los derechos que establece esta Constitución; así como proteger los que se reserve el pueblo de Veracruz mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley.
 
 Está prohibida la pena de muerte.
 
@@ -11924,6 +11952,16 @@ c) Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 Quinto. El Congreso del Estado deberá expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de sesenta días naturales siguientes a su entrada en vigor.
 
 Sexto. El Congreso del Estado deberá tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de sesenta días naturales siguientes a su entrada en vigor.
+
+G.O. 11 DE MAYO DE 2011.
+
+Artículo Primero. El presente Decreto iniciará su vigencia veinticuatro meses después de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. El Poder Legislativo del Estado deberá aprobar subsecuentemente las modificaciones, adiciones y derogaciones de los ordenamientos que contravengan el texto constitucional ya reformado, así como emitir la legislación procesal y orgánica acorde con las nuevas disposiciones federales y de la presente Constitución, referentes al procedimiento acusatorio oral, sin que exceda del término previsto en el artículo segundo transitorio del decreto de reforma constitucional federal en materia penal, publicado en el Diario Oficial de la Federación el 18 de junio del 2008. Asimismo, deberá destinar los recursos necesarios para la reforma del sistema de justicia penal del Estado.
+
+Artículo Tercero. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del sistema penal acusatorio-oral en Veracruz de Ignacio de la Llave, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+Artículo Cuarto. En caso de existir duda o contradicción fundada sobre la constitucionalidad de una norma o acto de autoridad relacionado con el presente decreto, se solventará en el siguiente orden de prelación: recurriendo a la interpretación auténtica de la Constitución del Estado en términos del artículo 33 fracción II de la misma y, si eventualmente persistiere la controversia o sus efectos, ésta se resolverá por la Sala Constitucional del Tribunal Superior de Justicia del Poder Judicial del Estado, siempre que se den los supuestos señalados en el artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
