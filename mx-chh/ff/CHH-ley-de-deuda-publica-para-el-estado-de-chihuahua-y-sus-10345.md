@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-deuda-publica-para-el-estado-de-chihuahua-y-sus-10345"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-31"
-last_updated: "2007-09-12"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 31 de diciembre de 1994.
 
@@ -109,6 +109,10 @@ III.- Los pasivos contingentes relacionados con los actos mencionados en las fra
 
 IV.- Todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente, contraídas a través o a cargo de las entidades a que se refiere el artículo 2o. de esta Ley.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+No constituyen deuda pública las obligaciones de pago derivadas de los Proyectos de Inversión Pública a Largo Plazo, ni de los mecanismos de afectación de fuente o garantía de pago de los mismos.
+
 ###### ARTICULO 10.
 
 Siempre que el Estado y los municipios soliciten del Congreso, autorización para la contratación de operaciones de deuda pública, será necesario que acompañen a dicha solicitud los elementos de juicio o criterios que la sustenten.
@@ -185,6 +189,10 @@ III.- Solicitar a las entidades a que se refiere el artículo 2o. de esta Ley, l
 
 IV.- Autorizar al Estado y a los municipios para afectar participaciones que les correspondan en ingresos federales, en garantía o como fuente de pago de los financiamientos y demás obligaciones, que contraten como deudores u obligados directos o bien, para garantizar o cumplir financiamientos u obligaciones contraídos por cualesquiera de las demás entidades públicas referidas en el artículo 2 de esta Ley;
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En los casos de Proyectos de Inversión Pública a Largo Plazo, autorizar la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Prestación de Servicios, de conformidad con la ley de la materia.
+
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
 
 V.- En su caso, autorizar a las entidades públicas referidas en el artículo 2 de esta Ley, la ampliación o prórroga de la fecha de pago de los financiamientos y obligaciones contratados conforme a las fracciones anteriores;
@@ -211,9 +219,13 @@ c). El saldo de la deuda, que comprenderá la forma y plazos de amortización de
 
 II.- Solicitar al Congreso del Estado autorización para contratar créditos o empréstitos directos o contingentes, o a través de fideicomisos, así como otras operaciones financieras o bursátiles que impliquen compromisos crediticios y, en su caso, para afectar en garantía o como fuente de pago las participaciones del Estado en ingresos federales.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Inversión Pública a Largo Plazo, de conformidad con la ley de la materia.
+
 III.- Las demás facultades que le confiera la Constitución Política del Estado y leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 17.
 
@@ -232,6 +244,10 @@ IV.- Celebrar los contratos y convenios, así como suscribir los documentos y t�
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2005)</small>
 
 V.- Con la autorización del Congreso del Estado, afectar en garantía o como fuente de pago de los empréstitos y obligaciones que se contraigan por las entidades públicas a que se refiere el artículo 2 de esta Ley, las participaciones que correspondan al Estado en ingresos federales, siempre que sean suficientes para garantizar o cumplir con su pago total dentro del plazo estipulado;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso la autorización de la afectación a que se refiere el párrafo anterior, así como de los ingresos y derechos que sean fuente o garantía de pago de los Proyectos de Inversión Pública a Largo Plazo, de conformidad con la ley de la materia.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -300,6 +316,10 @@ Los proyectos de decreto relativos a las solicitudes de crédito de los municipi
 Los Ayuntamientos, con la autorización de la mayoría de sus integrantes, podrán contratar créditos o empréstitos que puedan pagarse dentro del período administrativo en que aquellos se otorguen.
 
 Asimismo, podrán contratar créditos o empréstitos que comprometan al municipio por un plazo mayor al del período en funciones, siempre y cuando: el pago de la deuda contraída y sus intereses no exceda del período de las siguientes dos administraciones municipales; medie autorización de por lo menos las dos terceras partes de sus integrantes; el monto pendiente a cargo de las subsecuentes administraciones municipales, no exceda al 10% del presupuesto correspondiente al ejercicio fiscal inmediato anterior al que se hayan celebrado los contratos; y, los recursos que se obtengan se destinen a infraestructura del municipio.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Así mismo, con la aprobación de las dos terceras partes, podrán contraer obligaciones plurianuales derivado de la celebración de contratos de proyectos de inversión pública a largo plazo.
 
 Los Ayuntamientos, no podrán celebrar los actos jurídicos referidos en este artículo, durante los últimos seis meses de la administración municipal en funciones, ni deberán otorgar autorización para que con dichos recursos se cubran adeudos pendientes o para sufragar su gasto corriente.
 
@@ -385,11 +405,13 @@ Cada una de las entidades a que se refiere el artículo 2o. de esta Ley, deberá
 
 Asimismo, la Secretaría de Finanzas y Administración deberá llevar un registro central de deuda pública estatal.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-###### ARTICULO 37.
+###### ARTÍCULO 37.
 
-A fin de poder controlar la aplicación de los recursos provenientes de las operaciones de crédito público de las entidades mencionadas, el Congreso del Estado, por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda pública, tanto estatal como municipal. Por lo anterior, las entidades están obligadas a brindarle los informes que solicite.
+A fin de poder controlar la aplicación de los recursos provenientes de las operaciones de crédito público de las entidades mencionadas, el Congreso del Estado, por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda pública, tanto estatal como municipal, así como de los contratos derivados de los proyectos de inversión pública a largo plazo y las obligaciones plurianuales que se deriven de los mismos.
+
+Por lo anterior, las entidades están obligadas a brindarle los informes que solicite.
 
 ###### ARTICULO 38.
 
@@ -413,7 +435,7 @@ VII.- Los demás que determinen otras disposiciones.
 
 ## ARTICULOS TRANSITORIOS
 
-PRIMERO.- Esta ley entrará en vigor el 1o,. de enero de 1995.
+PRIMERO.- Esta ley entrará en vigor el 1o., de enero de 1995.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
 
@@ -443,7 +465,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE FEBRERO DE 2004.
 
@@ -524,3 +546,13 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
