@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2010-11-17"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
+CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -69,9 +69,9 @@ III. Código: A éste Ordenamiento;
 
 IV. Comisión Interdisciplinaria: A la Comisión Interdisciplinaria de los centros;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-V. Comité Técnico: Al Comité Técnico de la Secretaría de Seguridad y Protección Ciudadana;
+V. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -83,17 +83,35 @@ VIII. Constitución Federal: La Constitución Política de los Estados Unidos Me
 
 IX. Interno: A toda persona sujeta a custodia, en uno de los establecimientos regulados por éste Código, por mandato judicial de autoridad competente;
 
-X. Ministerio de Justicia: Al Ministerio de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+X. Procuraduría: A la Procuraduría General de Justicia del Estado;
 
 XI. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana;
 
-XII. Secretaría Ejecutiva: A la Secretaría Ejecutiva del Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+XII. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
 XIII. Secretario de Seguridad: Al Titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
 
-XIV. Subsecretario: Al Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
+XIV. Subsecretario: Al Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XV. Juez de Ejecución: El Juez de Primera Instancia competente de conocer sobre la modificación, extinción o sustitución de penas o aplicación de ley más favorable al reo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XVI. Tribunal de Apelación: A la Sala Regional Colegiada competente del Tribunal Superior de Justicia del Estado.
 
 ###### Artículo 3°.
 
@@ -197,21 +215,25 @@ El tratamiento penitenciario, consiste en todas aquellas actividades encaminadas
 
 Dicho tratamiento, tendrá como finalidad desarrollar en ellos una actitud de respeto a sí mismos y, de responsabilidad individual y social con respecto a sus familias y a la sociedad en general.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 14.
 
-El cumplimiento de este Código corresponde a la Secretaría, a través de la Subsecretaría y las demás autoridades que este Ordenamiento y otras disposiciones legales, les encomienden su cumplimiento.
+El cumplimiento de este Código corresponde al Juez de Ejecución, al Tribunal de Apelación y a la Secretaría, a través de la Subsecretaría y las demás autoridades que este ordenamiento y otras disposiciones legales, les encomienden su cumplimiento.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 15.
 
-Todos los cuerpos de Seguridad Pública del Estado, están obligados a prestar auxilio y apoyo necesarios a la Subsecretaría, para el cumplimiento de sus determinaciones en materia de ejecución de sanciones privativas y restrictivas de la libertad, así como de medidas de seguridad.
+Todos los cuerpos de seguridad pública del Estado, están obligados a prestar auxilio y apoyo necesarios al Juez de Ejecución, al Tribunal de Apelación y a la Subsecretaría, para el cumplimiento de sus determinaciones en materia de ejecución de sanciones privativas y restrictivas de la libertad, así como de medidas de seguridad.
 
 ## Título Segundo. De las Autoridades en Materia de Ejecución de las Sanciones Penales, y de Medidas de Seguridad
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2010)</small>
 
 ### Capítulo I. De la Subsecretaría
 
@@ -221,77 +243,43 @@ Todos los cuerpos de Seguridad Pública del Estado, están obligados a prestar a
 
 La Subsecretaría, es un órgano administrativo de la Secretaría, que contará con los órganos administrativos y el personal necesario para el cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 17.
 
 Son atribuciones de la Subsecretaría las siguientes:
 
-I. Que se cumplan (sic) la ejecución de las sanciones penales, las medidas de seguridad impuestas por los Tribunales del Estado de Chiapas, en sentencias ejecutoriadas; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+I. Que se cumpla la ejecución material de las sanciones penales y las medidas de seguridad impuestas por los órganos jurisdiccionales del Estado de Chiapas, en sentencias ejecutoriadas.
 
 II. La reinserción social del sentenciado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Primera. Del Comité Técnico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 18.
 
-El Comité Técnico, es el órgano de la Secretaría que tiene como objetivo conocer, analizar y resolver las solicitudes que presenten los internos para obtener los beneficios legales a que se hagan acreedores conforme a este Código.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
-
-El Comité Técnico, estará integrado por:
-
-I. El Secretario de Gobierno.
-
-II. El Secretario de Seguridad y Protección Ciudadana.
-
-III. El Secretario de Salud.
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
-
-IV. El Procurador General de Justicia.
-
-V. El Director General del Sistema DIF-Chiapas.
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
-
-VI. El Subsecretario de Ejecución de Sanciones Penales y Medidas de Seguridad.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
-
-Los cargos del Comité Técnico serán honoríficos. Sus miembros podrán designar a un representante, excepto el Subsecretario y funcionarán con base en lo establecido en el Reglamento que para tal efecto se expida.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 19.
 
-El Comité Técnico sesionará ordinariamente cada tres meses y celebrará reuniones extraordinarias en cualquier tiempo, a convocatoria del Subsecretario.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
-
-Las sesiones, serán válidas con la presencia mayoritaria de sus integrantes y sus resoluciones, serán aprobadas por mayoría de votos.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 20.
 
-Son atribuciones del Comité:
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
-I. Resolver y aprobar los beneficios legales a los internos;
-
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
-
-II. Decretar la suspensión definitiva o la modificación de la sanción privativa de libertad impuesta, a propuesta de la Subsecretaría, en los términos de este Código;
-
-III. Establecer el procedimiento para el otorgamiento de los beneficios a que se refiere este Código; y,
-
-IV. Las que señalen el presente Código, su Reglamento y demás disposiciones aplicables.
-
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Segunda. Del Secretario de Seguridad
 
@@ -345,7 +333,7 @@ X. Celebrar acuerdos o convenios de coordinación que estime necesarios para lle
 
 XI. Las demás disposiciones que este Código y otros ordenamientos aplicables establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 22.
 
@@ -361,11 +349,11 @@ IV. Contar con un título profesional expedido por una institución de educació
 
 Tener experiencia acreditada en materia penitenciaria.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA], P.O. 28 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN SEGUNDA], P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Tercera. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -375,17 +363,21 @@ Son atribuciones del Subsecretario, las siguientes:
 
 I. Rendir al Secretario de Seguridad los informes y datos que le solicite;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-II. Ejecutar las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+II. Ejecutar materialmente las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-IV. Proporcionar las constancias y los informes de antecedentes penales que soliciten;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. Proporcionar las constancias y los informes de antecedentes penales que requieran las autoridades competentes federales o locales en materia de ejecución;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -451,9 +443,9 @@ XIX. Elaborar y ejecutar los planes y programas relacionados con la reinserción
 
 XX. Resolver las controversias que se le planteen por interpretación de los ordenamientos internos o por cualquier otra circunstancia;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-XXI. Proponer al Comité Técnico, los beneficios legales a los internos;
+XXI. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -491,9 +483,9 @@ XXIX. Emitir y someter a consideración del Secretario de Seguridad, los lineami
 
 XXX. Emitir y someter a consideración del Secretario de Seguridad, los lineamientos de salubridad general de los Centros;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-XXXI. A propuesta del Comité Técnico, determinar el sistema de reinserción, en lo que favorezca a las personas sujetas a prisión preventiva;
+XXXI. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2008)</small>
 
@@ -531,7 +523,7 @@ XXXIX. Supervisar que en los Centros se respeten los derechos de los internos;
 
 XL. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -541,7 +533,7 @@ El Secretario, será el superior jerárquico de las autoridades penitenciarias d
 
 La representación, trámite y resolución de los asuntos competencia de la Secretaría Ejecutiva, corresponden al Secretario Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ### Capítulo Segundo (sic). De las Atribuciones de la Institución del Ministerio Público en la Ejecución de Sanciones Penales y Medidas de Seguridad
 
@@ -607,17 +599,21 @@ XV. Aplicación de todos los principios derivados de las garantías individuales
 
 Se considerará como parte de su sanción, el trabajo que realice el interno dentro de los Centros, por constituir uno de los medios para su reinserción social, conforme al artículo 18 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 28.
 
-La ejecución de las sentencias en materia penal, corresponde a la Subsecretaría, quien determinará, en su caso, el lugar y las modalidades de ejecución.
+La ejecución material de las sentencias en materia penal, corresponde a la Subsecretaría, quien determinará en su caso, el lugar y el tratamiento correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 29.
 
-Corresponde a la Subsecretaría, el control de la legalidad de la ejecución de las sanciones penales y medidas de seguridad, de conformidad con las normas que establece el presente código y demás disposiciones legales aplicables.
+Corresponde al Juez de Ejecución, el control de la legalidad de la ejecución de las sanciones penales y medidas de seguridad, de conformidad con las normas que establece el presente Código y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -633,23 +629,33 @@ La Subsecretaría, controlará el cumplimiento adecuado del régimen penitenciar
 
 El sentenciado podrá, durante la ejecución de su sanción, plantear ante la Secretaría, todas las observaciones y quejas en forma oral o por escrito que estime convenientes, la cual deberá responder en forma puntual, a través de la Subsecretaría, en un plazo no mayor de veinte días, pero en caso de que esté en peligro la vida o la integridad de los internos, la respuesta ha de ser inmediata. En caso de omisión, la Subsecretaría será sujeta a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, sin perjuicio de las responsabilidades penales que sean aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 32.
 
-El sentenciado, tendrá derecho a una adecuada defensa por sí o por persona o personas de su confianza. Cuando la designación recaiga sobre persona que carezca de cédula profesional de Licenciado en Derecho, el defensor de oficio orientará a aquélla y directamente al propio inculpado en todo lo que concierne a su defensa y continuará ejerciéndola el defensor nombrado durante su proceso. Sin embargo, éste podrá renunciar a su cargo hasta el momento de su reemplazo o cuando se designe otro defensor.
+El sentenciado, tendrá derecho a una adecuada defensa por Licenciado en Derecho que cuente con cédula profesional, en caso de no poder o no querer nombrar un particular, el Estado le garantizará esta prerrogativa designándole un defensor social.
 
 ### Capítulo III. De la Ejecución de Sanciones Penales Pecuniarias
 
 #### Sección Primera. De la Multa
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 33.
 
-Si el sentenciado no paga la multa en el plazo que fija la sentencia, será citado para que acredite su insolvencia, o indique si pretende sustituir la multa por trabajo a favor de la comunidad o bien solicitar plazo para pagarla.
+Si el sentenciado no paga la multa dentro del plazo que fija la sentencia, será citado para que indique si pretende sustituir la multa por trabajo a favor de la comunidad, solicitar plazo para pagarla o entregar bienes suficientes que alcancen a cubrirla. El Juez podrá autorizar el pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 34.
 
-En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, la Subsecretaría, fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de las cuotas para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre la Secretaría.
+En los casos en que la multa sea sustituida por trabajo a favor de la comunidad, el Juez de Ejecución, fijará el tiempo, las condiciones y el lugar donde el sentenciado cumplirá el trabajo y el plazo de la cuotas (sic) para el pago según el caso. Lo anterior de conformidad con los convenios que para tal efecto celebre la Secretaría.
 
 #### Sección Segunda. De la Reparación del Daño
 
@@ -659,17 +665,21 @@ Para efectos de la reparación del daño se observará lo siguiente:
 
 I. El daño y reparación serán fijados por el Juez de la causa conforme a las pruebas que obren en el proceso y en caso de no pagarse podrá ser garantizado en cualquiera de las formas que establece la ley: ya sea por el propio interesado o por tercero y en casos especiales y de manera subsidiaria por el Fondo Auxiliar de Administración de Justicia;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-II.- Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad competente, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición de la Subsecretaría, la cual hará comparecer a quien tenga derecho a ella, para hacerle entrega inmediata de su importe. En caso de que nadie comparezca, dicha cantidad se depositará en el Fondo Auxiliar de Administración de Justicia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+II. Efectuado el pago de la sanción pecuniaria, en todo o parte, el Juez de Ejecución, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición de quien tenga derecho a ella, pará hacerle entrega inmediata de su importe. En caso de que nadie comparezca dicha cantidad se depositará en el Fondo Auxiliar de Administración de Justicia.
 
-III.- En caso de que la autoridad competente no dé cumplimiento a la obligación que le impone la fracción anterior, la Subsecretaría, dará vista a la instancia correspondiente, para determinar la responsabilidad a que diere lugar; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+III. (DEROGADA, P.O. 11 DE MAYO DE 2011)
 
-IV.- En los casos de embargo precautorio, la Subsecretaría, solicitará su ejecución a la autoridad administrativa correspondiente para que lo realice mediante el procedimiento económico coactivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. En los casos de embargo precautorio, el Ministerio Público lo solicitará al Juez de Ejecución para que lo realice mediante el procedimiento económico coactivo.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -693,11 +703,13 @@ El trabajo a favor de la comunidad, se llevará a cabo en jornadas distintas del
 
 Cuando el trabajo á favor de la comunidad sea sustituto de prisión no mayor de un año o de sanciones impuestas en casos de delitos con pena alternativa, la Subsecretaría, mediante convenios con los Ayuntamientos, procurará que estos determinen la naturaleza, lugar y modo en que habrá de prestarse aquél.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 39.
 
-La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El órgano jurisdiccional, escuchando al Comité Técnico, podrá modificarla mediante solicitud del sentenciado, a efecto de cumplir anticipadamente su condena.
+La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El órgano jurisdiccional, podrá modificarla mediante solicitud del sentenciado, a efecto de cumplir anticipadamente su condena.
 
 ###### Artículo 40.
 
@@ -757,17 +769,21 @@ La ejecución de las sanciones privativas y restrictivas de derechos consistirá
 
 #### Sección Segunda. Suspensión e Inhabilitación
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 49.
 
-La Subsecretaría, proveerá lo conducente para el cumplimiento de la suspensión de los derechos políticos y los de tutela, curatela, de ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro o representante de ausentes, así como, de los derechos directamente afectados por la sentencia condenatoria exclusivamente haciendo del conocimiento de la autoridad correspondiente el contenido de la misma.
+El Juez de Ejecución, proveerá lo conducente para el cumplimiento de la suspensión de los derechos políticos y los de tutela, cúratela, de ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro o representante de ausentes, así como, de los derechos directamente afectados por la sentencia condenatoria exclusivamente, haciendo del conocimiento de la autoridad correspondiente el contenido de la misma.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 50.
 
-Después de practicado el cómputo definitivo de la suspensión o inhabilitación, la Subsecretaría, ordenará las comunicaciones e inscripciones que correspondan e informará a las autoridades correspondientes. Asimismo, les informará sobre la finalización de la condena.
+Después de practicado el cómputo definitivo de la suspensión o inhabilitación, el Juez de Ejecución, ordenará las comunicaciones e inscripciones que correspondan e informará a la (sic) autoridades correspondientes. Asimismo, les informará sobre la finalización de la condena.
 
 ### Capítulo VI. De las Medidas de Seguridad
 
@@ -783,11 +799,13 @@ Cuando en el curso de la ejecución de la sanción privativa de libertad, se acr
 
 Si el padecimiento fuese de carácter temporal, el interno será remitido al establecimiento especializado por el tiempo necesario para su recuperación, sin que dicho internamiento pueda exceder del tiempo ordenado por la sanción privativa de la libertad que se le hubiere impuesto, o de la parte de la misma que le faltare compurgar.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 54.
 
-Si el padecimiento fuese irreversible, la Subsecretaría podrá decretar la suspensión definitiva de la sanción privativa de libertad impuesta, previa aprobación del Comité Técnico, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
+Si el padecimiento fuese irreversible, el Juez de Ejecución podrá decretar la suspensión definitiva de la sanción privativa de libertad impuesta, y dictará las medidas necesarias para garantizar el principio de interés superior de la salud del interno.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -809,11 +827,13 @@ La Subsecretaría, dará seguimiento a la aplicación de las medidas de tratamie
 
 Todas las obligaciones que la Ley establece a cargo de los directores de los centros, son aplicables, en lo conducente, a quienes ejecuten las medidas de seguridad y a los directores de los hospitales y centros especializados.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 59.
 
-La Subsecretaría, de oficio o a petición de parte, comprobará que el interno en institución de salud, no sea privado de su libertad por más tiempo que el señalado por las reglas de la prescripción del delito de que se trate.
+El Juez de Ejecución, de oficio o a petición de parte, comprobará que el interno en institución de salud, no sea privado de su libertad por más tiempo que el señalado por las reglas de la prescripción del delito de que se trate.
 
 ## Título Cuarto. Sanciones Restrictivas de Libertad
 
@@ -859,11 +879,13 @@ De los Sentenciados con Prohibición de ir a Determinado Lugar o Residir en él.
 
 La vigilancia de las personas a quienes se les prohíba ir o residir en determinado lugar, estará a cargo de los delegados de la Subsecretaría, o en su caso solicitará auxilio de las autoridades municipales del lugar prohibido.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 65.
 
-El Subsecretario, dará aviso a la autoridad municipal del lugar prohibido, para que en auxilio de las labores de la Subsecretaría proceda a dictar las medidas necesarias para vigilar a los sentenciados o liberados a quienes se les prohíba ir o residir en lugar determinado. En caso de quebrantamiento de la sanción, la autoridad municipal, procederá a retirarlo y comunicará al Subsecretario, para que éste dicte y ordene las medidas conducentes.
+El Subsecretario, dará aviso a la autoridad municipal del lugar prohibido, para que en auxilio de las labores de la Subsecretaría proceda a dictar las medidas necesarias para vigilar a los sentenciados o liberados a quienes se les prohíba ir o residir en lugar determinado. En caso de quebrantamiento de la sanción, la autoridad municipal, procederá a retirarlo y comunicará al Subsecretario, quien lo hará del conocimiento al Juez de Ejecución, para que éste dicte y ordene las medidas conducentes.
 
 ### Capítulo IV. De los Sentenciados a Vigilancia de la Policía
 
@@ -897,11 +919,13 @@ Las sanciones privativas de libertad, se ejecutarán en los términos establecid
 
 Tratándose de delitos graves, así calificados por la ley, el Ministerio Público o el Órgano Jurisdiccional de la causa, podrá ordenar la prisión preventiva del sujeto activo del delito, debiendo hacer del conocimiento inmediato de la Subsecretaría y al Director del Centro de Reinserción Social respectivo.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 71.
 
-Cuando el sentenciado debiere cumplir una sanción privativa de libertad, el Órgano Jurisdiccional de la causa, dentro de las siguientes cuarenta y ocho horas, remitirá copia certificada de la sentencia, con la manifestación de hallarse firme, a la Subsecretaría y al Director del Centro de Reinserción Social respectivo, dando orden de su ingreso.
+Cuando el sentenciado debiere cumplir una sanción privativa de libertad, el órgano jurisdiccional de la causa, dentro de las siguientes cuarenta y ocho horas, remitirá copia certificada de la sentencia, con la manifestación de hallarse firme, al Juez de Ejecución, a la Subsecretaría y al Director del Centro de Reinserción Social respectivo, dando orden de su ingreso.
 
 ###### Artículo 72.
 
@@ -947,25 +971,31 @@ II. En el informe suministrado se señalará que de acuerdo con el principio de 
 
 ### Capítulo III. Sustitución, Conmutación de Sanciones Privativas de Libertad y Aplicación de Ley más Favorable
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 79.
 
-Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal para él Estado de Chiapas, podrá solicitar al Comité Técnico, a través de la Subsecretaría, en su caso, la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dichas autoridades actúen de oficio y sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
+Quien haya sido sancionado por sentencia irrevocable y se encuentre en los casos de conmutación de sanciones privativas o de aplicación de ley más favorable a que se refiere el Código Penal del Estado, podrá solicitar al Juez de Ejecución la conmutación, la reducción de sanción y el sobreseimiento que proceda, sin perjuicio de que dicha autoridad actúe de oficio. Lo anterior, sin detrimento de la obligación de reparar los daños y perjuicios legalmente exigibles.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 80.
 
-Recibida la solicitud por la Subsecretaría, se resolverá de conformidad con el procedimiento establecido por este Código.
+Recibida la solicitud por el Juez de Ejecución, se resolverá de conformidad con el procedimiento establecido en el Código de Procedimientos Penales y por este Código.
 
-Dictada la resolución se comunicará a la autoridad penitenciaria del Centro o establecimiento en que se encuentre el reo compurgando su pena o medida de seguridad. La Subsecretaría, deberá notificar la resolución al interesado.
+Dictada la resolución se comunicará a la autoridad penitenciaria del Centro o establecimiento en que se encuentre el reo compurgando su pena o medida de seguridad. La resolución deberá ser notificada al interesado.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 81.
 
-La Subsecretaría dejará sin efecto la sustitución y ordenará que se ejecute la sanción de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que la Subsecretaría estime conveniente apercibirlo de que si incurre en nueva falta, se hará efectiva la sanción sustituida, cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez de la causa resolverá si se debe aplicar la sanción sustituida.
+El Juez de Ejecución dejará sin efecto la sustitución y ordenará que se ejecute la sanción de prisión impuesta, cuando el sentenciado no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que estime conveniente apercibirlo de que sí incurre en nueva falta, se hará efectiva la sanción sustituida, cuando al sentenciado se le condene por otro delito. Si el nuevo delito es culposo, el juez de la causa, resolverá si se debe aplicar la sanción sustituida.
 
 ###### Artículo 82.
 
@@ -975,35 +1005,41 @@ En caso de hacerse efectiva la sanción de prisión sustituida, se tomará en cu
 
 En caso de haberse nombrado fiador para el cumplimiento de los deberes inherentes a la sustitución de sanciones, la obligación de aquél concluirá al extinguirse la sanción impuesta.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 84.
 
-Cuando el fiador tenga motivos fundados para no continuar en su desempeño, los expondrá a la Subsecretaría, a fin de que ésta, si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la sanción si no lo hace.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 85.
 
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho del conocimiento de la Subsecretaría, para el efecto, y bajo el apercibimiento de ley, para nombrar un nuevo fiador.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 86.
 
 El Titular del Poder Ejecutivo del Estado, tratándose de delitos de carácter político, podrá hacer la conmutación de sanciones, en términos del Código Penal del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 87.
 
-Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Comité Técnico podrá modificar aquella, siempre que la modificación no sea esencial.
+Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Juez de Ejecución podrá modificar aquélla.
 
 ###### Artículo 88.
 
 Para la procedencia de la sustitución y la conmutación, se exigirá al sentenciado la reparación del daño o la garantía que señale el Órgano Jurisdiccional de la causa para asegurar su pago, en el plazo que se le fije.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 89.
 
-Para los efectos del presente capítulo, los internos o sus defensores promoverán vía incidental, conforme a las reglas previstas en este Código, la conmutación, la reducción o modificación de la sanción y el sobreseimiento que proceda.
+Para los efectos del presente capítulo, los internos o sus defensores promoverán vía incidental ante el Juez de Ejecución, conforme a las reglas previstas en este Código, la conmutación, la reducción o modificación de la sanción y el sobreseimiento que proceda.
 
 ### Capítulo IV. Rehabilitación de Derechos
 
@@ -1011,21 +1047,25 @@ Para los efectos del presente capítulo, los internos o sus defensores promover�
 
 El sentenciado que haya sido inhabilitado en el goce y ejercicio de los derechos previstos específicamente por la ley y la sentencia, podrá solicitar su rehabilitación por escrito. La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 91.
 
-Si el sentenciado hubiera cumplido ya la sanción privativa de libertad, pasado el término que señala el artículo siguiente, podrá ocurrir ante la Subsecretaría, solicitando se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañara a su escrito relativo, los documentos siguientes:
+Si el sentenciado hubiera cumplido ya la sanción privativa de libertad, pasado el término que señala el artículo siguiente, podrá ocurrir ante el Juez de Ejecución, solicitando se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo, los documentos siguientes:
 
 I. Certificado expedido por la autoridad penitenciaria que acredite haber extinguido la sanción privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación;
 
 II. Certificado de la autoridad municipal o su equivalente del lugar donde hubiere residido desde que comenzó la inhabilitación o la suspensión.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 92.
 
-Recibida la solicitud, la Subsecretaría, emitirá la declaración de rehabilitación dentro de tres días hábiles siguientes, expidiendo la constancia misma que comunicará a las autoridades respectivas.
+Recibida la solicitud, el Juez de Ejecución, emitirá la declaración de rehabilitación dentro de cinco días hábiles siguientes, expidiendo la constancia misma que comunicará a las autoridades respectivas.
 
 ### Capítulo V. Del Tratamiento de Reinserción Social
 
@@ -1095,7 +1135,7 @@ En cada Centro, habrá una Comisión Interdisciplinaria, que estará integrada p
 
 ### Capítulo VI. De los Centros de Reinserción Social
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 105.
 
@@ -1363,9 +1403,11 @@ La libertad de los sentenciados, sólo podrá ser acordada por la autoridad comp
 
 Compurgada la pena motivo de la sentencia, el interno será puesto en libertad de inmediato.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-Para proceder a la excarcelación de los sentenciados que aún no compurgan su sentencia, por cualquiera de las modalidades preliberacionales, éstas sólo podrán ser acordadas por el Comité Técnico.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Para proceder a la excarcelación de los sentenciados que aún no compurgan su sentencia, por cualquiera de las modalidades preliberacionales, éstas sólo podrán ser acordadas por el Juez de Ejecución.
 
 En el momento de la excarcelación se entregará al liberado el saldo de su cuenta de peculio, los valores y efectos depositados a su nombre. Si careciese de medios económicos, se le facilitará un socorro de ley, de cuando menos cinco días de salario mínimo vigente en el área geográfica respectiva.
 
@@ -1387,7 +1429,7 @@ En los establecimientos destinados a la reclusión de mujeres, ningún funcionar
 
 ### Capítulo II. De los Servicios Médicos Básicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 146.
 
@@ -1433,9 +1475,13 @@ II. Privación de actos recreativos comunes, en cuanto sea compatible con la sal
 
 III. Amonestación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 152.
 
-La sanción de aislamiento, sólo será aplicable en los casos en que se manifieste una evidente agresividad o violencia por parte del interno, o cuando éste, reiterada y gravemente altere la normal convivencia en el Centro. En todo caso, la celda en que se cumpla la sanción, deberá ser de análogas características que las restantes del establecimiento. En estos casos, se dará vista al Consejo Técnico Consultivo, quien de haber razón para ello podrá suspender la sanción.
+La sanción de aislamiento, sólo será aplicable en los "Casos en que se manifieste una evidente agresividad o violencia por parte del interno, o cuando éste, reiterada y gravemente altere la normal convivencia en el Centro. En todo caso, la celda en que se cumpla la sanción, deberá ser de análogas características que las restantes del establecimiento. En estos casos, se dará vista al Juez de Ejecución, quien de haber razón para ello podrá suspender la sanción.
 
 ###### Artículo 153.
 
@@ -1519,27 +1565,33 @@ Para el cumplimiento de sus fines, el Patronato tendrá agencias en los Distrito
 
 ### Capítulo I. Generalidades
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 166.
 
-La externación, es la modalidad de tratamiento mediante la cual la autoridad permite, que la compurgación de la pena se lleve a cabo en forma alternada dentro y fuera de los Centros. Dicho beneficio no se otorgará a los sentenciados por los delitos de homicidio calificado, delincuencia organizada, secuestro, violación o extorsión.
+La externación, es la modalidad de tratamiento mediante la cual el Juez de Ejecución permite, que la compurgación de la pena se lleve a cabo en forma alternada dentro y fuera de los Centros. Dicho beneficio no se otorgará a los sentenciados por los delitos de homicidio calificado, delincuencia organizada, secuestro, violación o extorsión.
 
-La libertad anticipada, es el beneficio otorgado por la autoridad competente que concede a los internos previo cumplimiento de los requisitos, mediante el cual otorga su externación de manera definitiva, antes del término establecido en la sentencia ejecutoriada.
+La libertad anticipada, es el beneficio otorgado por el Juez de Ejecución competente que concede a los internos previo cumplimiento de los requisitos, mediante el cual otorga su externación de manera definitiva, antes del término establecido en la sentencia ejecutoriada.
 
 El beneficio de la libertad anticipada, condicionada al resultado del proceso, no prejuzga la determinación del juzgador, y sólo se constituye como un incidente, que interrumpe la detención del procesado en el Centro, hasta en tanto se dicta sentencia.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
+El sujeto de este beneficio podrá, en caso de sentencia condenatoria, solicitar nuevo dictamen para obtener su libertad con sentencia suspendida.
 
-El sujeto de éste beneficio podrá, en caso de sentencia condenatoria, solicitar nuevo dictamen para obtener su libertad con sentencia suspendida.
+El otorgamiento de los beneficios del tratamiento en externación y de la libertad anticipada se sujetará al procedimiento que para tal efecto establezca este mismo Código, en el cual se tomará como base la educación, la disciplina, el trabajo y la capacitación, siendo requisito indispensable la acreditación de los mismos.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2008)</small>
-
-El otorgamiento de los beneficios del tratamiento en externación y de la libertad anticipada, se sujetará al procedimiento que para tal efecto establezca el Comité Técnico, en el cual se tomará como base la educación, la disciplina, el trabajo y la capacitación, siendo requisito indispensable la acreditación de los mismos.
+Este beneficio no se otorgará a los sentenciados por los delitos de homicidio calificado, delincuencia organizada, secuestro, violación o extorsión.
 
 ### Capítulo II. Remisión Parcial de la Pena
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 167.
 
-Por cada día de trabajo, se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas y laborales que se organicen en los Centros y el estudio de personalidad revele datos de efectiva reinserción social. Esta última será en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, la cual no podrá fundarse exclusivamente en los días de trabajo, o en la participación de actividades educativas, o en el buen comportamiento del sentenciado, si no que será con fundamento en los estudios de personalidad del interno y basada en elementos objetivos que comprueben su aptitud para la inserción social.
+Por cada día de trabajo, se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente en las actividades educativas y laborales que se organicen en los Centros y existan pruebas que a juicio del resolutor revelen datos de reinserción social.
 
 La remisión, funcionará independientemente de la libertad preparatoria, cuyo plazo se regirá exclusivamente, por las normas especificas pertinentes, para este efecto, el cómputo de plazos se hará en el orden que beneficie al reo.
 
@@ -1547,11 +1599,13 @@ La Comisión Interdisciplinaria, estará a cargo del sistema de cómputo para la
 
 ### Capítulo III. De la Libertad Preparatoria
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 168.
 
-Se concederá libertad preparatoria al condenado, por resolución del Comité Técnico, previo dictamen de la Subsecretaría, siempre que concurran las siguientes circunstancias:
+Se concederá libertad preparatoria al condenado, por resolución del Juez de Ejecución, previa tramitación incidental ante él, siempre que concurran las siguientes circunstancias:
 
 I. Que hubiere cumplido las tres quintas partes de su condena, si se trata de delitos dolosos o la mitad de la misma en caso de delitos culposos;
 
@@ -1561,11 +1615,13 @@ III. Que el examen de personalidad, revele estar apto para su reinserción socia
 
 IV. Que haya reparado el daño causado, sujetándose a la forma, medidas y término que se le fijen, en caso de no poder cubrirlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 169.
 
-Satisfechas las circunstancias anteriores, el Comité Técnico podrá conceder la libertad, sujeta a las siguientes condiciones:
+Satisfechas las circunstancias anteriores, el Juez de Ejecución podrá concederla libertad, sujeta a las siguientes condiciones:
 
 a) Residir o, en su caso, no residir en lugar determinado, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia se hará conciliando las circunstancias de que el reo pueda proporcionarse trabajo en el lugar que se fije, con el hecho de que su permanencia en él, no sea un obstáculo para su enmienda;
 
@@ -1583,21 +1639,19 @@ I. Los sentenciados por los delitos de homicidio calificado, delincuencia organi
 
 II. Los reincidentes por delito doloso, o sean considerados delincuentes habituales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 171.
 
-La Subsecretaría, solicitará al juez correspondiente revoque la libertad del sentenciado y ordene su reaprehensión, tan pronto tenga conocimiento que éste incurra en alguna de las siguientes causas:
+El Juez de Ejecución podrá revocar la libertad del sentenciado y ordenar su reaprehensión, tan pronto tenga conocimiento que éste incurra en alguna de las siguientes causas:
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
+l. El liberado incumpla injustificadamente con las condiciones impuestas al otorgarle el beneficio; el Juez de Ejecución podrá, en caso de un primer incumplimiento, apercibirlo de la revocación del beneficio. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la revocación sólo procederá al tercer incumplimiento.
 
-I.- El liberado incumpla injustificadamente con las condiciones impuestas para otorgarle el beneficio; la Subsecretaría podrá, en caso de un primer incumplimiento, amonestar al sentenciado y apercibirlo de solicitar la revocación del beneficio en caso de un segundo incumplimiento. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la solicitud sólo procederá al tercer incumplimiento.
+II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo, el Juez de Ejecución podrá motivadamente y, según la gravedad del hecho, revocar o mantener la libertad preparatoria.
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2010)</small>
-
-II.- El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo la Subsecretaría podrá motivadamente y, según la gravedad del hecho, solicitar la revocación o mantener la libertad preparatoria.
-
-El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena de prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad. Los hechos que origen (sic) los nuevos procesos a que se refiere la fracción II, de este artículo interrumpen los plazos para extinguir la sanción.
+El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena de prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -1607,7 +1661,7 @@ Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuida
 
 ### Capítulo IV. De la Libertad con Sentencia Suspendida
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 173.
 
@@ -1637,9 +1691,11 @@ Cuando en la sentencia se haya condenado al pago de multas, éstas deberán ser 
 
 Los beneficios contenidos en este Código, serán otorgados oficiosamente o a petición de parte interesada.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-El Presidente de la Magistratura Superior del Estado podrá solicitar el beneficio de la Libertad con Sentencia Suspendida a favor de internos a quienes se considere otorgar el beneficio de conformidad a lo establecido en el artículo 128, del Código Penal para el Estado de Chiapas.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Presidente del Tribunal Superior de Justicia del Estado podrá solicitar el beneficio de la Libertad con Sentencia Suspendida a favor de internos a quienes se considere otorgar el beneficio de conformidad a lo establecido en el artículo 128, del Código Penal para el Estado de Chiapas.
 
 El Gobernador del Estado podrá tomar en consideración las solicitudes que le formule la mayoría del Congreso del Estado, en términos del artículo 129 del Código Penal para el Estado de Chiapas.
 
@@ -1751,29 +1807,37 @@ El órgano jurisdiccional, al pronunciar la sentencia definitiva declarará, en 
 
 Si el sentenciado se acoge a la condena condicional, se le concederá inmediatamente, aunque la sentencia no haya causado ejecutoria.
 
-## Título Noveno. Procedimiento de Ejecución
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-### Capítulo I. Procedimientos Ordinarios de Ejecución
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARAFO, P.O. 17 DE ABRIL DE 2010)</small>
+## Título Noveno. Procedimiento Administrativo de Ejecución
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo I. Procedimiento Administrativo de Ejecución
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 188.
 
-La Subsecretaría conocerá y resolverá, sobre:
+La Subsecretaría conocerá y resolverá sobre:
 
-I. La personalización, adecuación y modificación de la sanción privativa de libertad, en los términos que la legislación penal y este Código establecen, así como de las peticiones de traslado que formulen internos o autoridades de otras Entidades Federativas;
+I. La personalización en los términos que la legislación penal y este Código establecen, así como de las peticiones de traslado que formulen internos o autoridades de otras Entidades Federativas.
 
-II. La declaración de extinción de las sanciones privativas de libertad y de trabajo a favor de la comunidad, así como las medidas de seguridad, la conmutación, la reducción o modificación de la sanción y el sobreseimiento;
+II. Los incidentes de carácter administrativo internos y medios de impugnación que surjan con motivo de la ejecución material de sanciones de prisión y de trabajo a favor de la comunidad y de la aplicación de medidas de seguridad.
 
-III. Los incidentes y medios de impugnación que surjan con motivo de la privación de la libertad por parte las autoridades penitenciarias, así como con motivo de la ejecución de sanciones de prisión y de trabajo a favor de la comunidad y de la aplicación de medidas de seguridad; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-IV. Los conflictos que se puedan presentar en la tramitación de la rehabilitación de los derechos del sentenciado.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 189.
 
-El Órgano Jurisdiccional de la causa, remitirá a la Subsecretaría ya la autoridad penitenciaria, copia certificada de toda sentencia ejecutoriada en la que se imponga sanción privativa de la libertad, de trabajo a favor de la comunidad o en la que se decrete una medida de seguridad, excepto en los casos en que el sentenciado estuviese sustraído de la acción de la justicia, con dicho documento se radicará el expediente de ejecución.
+El órgano jurisdiccional de la causa, remitirá a la Subsecretaría, a la autoridad penitenciaria y al Juez de Ejecución, copia certificada de toda sentencia ejecutoriada en la que se imponga sanción privativa de la libertad, de trabajo a favor de la comunidad o en la que se decrete una medida de seguridad, excepto en los casos en que el sentenciado estuviese sustraído de la acción de la justicia, con dicho documento se radicará el expediente de ejecución material.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -1781,7 +1845,11 @@ El Órgano Jurisdiccional de la causa, remitirá a la Subsecretaría ya la autor
 
 La Subsecretaría, instrumentará los sistemas necesarios para la debida integración del expediente de ejecución hasta que se declare extinguida la sanción y las medidas de seguridad impuestas.
 
-### Capítulo II. Incidentes en el Procedimiento de Ejecución
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo II. Incidentes en el Procedimiento de Ejecución Material
 
 ###### Artículo 191.
 
@@ -1797,7 +1865,7 @@ II. Si la Subsecretaría lo creyere necesario, o alguna de las partes promoviere
 
 En caso de no existir ofrecimiento de prueba, si lo estimare pertinente la Subsecretaría, resolverá dentro de los tres días siguientes a la recepción de la promoción del interesado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 192.
 
@@ -1811,7 +1879,7 @@ Las que se deriven de otras autoridades penitenciarias y que no tengan una forma
 
 El recurso de revisión, es el medio de impugnación administrativo que hace valer quien considere conculcados sus derechos por actos emitidos por las autoridades penitenciarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
 ###### Artículo 194.
 
@@ -1871,6 +1939,234 @@ Cuando el Director del Centro o establecimiento no cuente con los recursos mater
 
 Concluido el plazo concedido, la Subsecretaría realizará una inspección para verificar el cumplimiento de cada uno de los puntos del auto respectivo; de no acreditarse éste, dictará auto de incumplimiento y se procederá conforme a las disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+## Título X. Procedimiento Jurisdiccional de Ejecución
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo I. Reglas Generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 200.
+
+El Juez de Ejecución tiene competencia para modificar, substituir o extinguir la pena, o aplicar la ley más favorable al reo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 201.
+
+Son partes en el incidente de Ejecución:
+
+l. El sentenciado.
+
+II. El Ministerio Público.
+
+III. La víctima, el ofendido o las personas que, conforme a la ley, tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 202.
+
+El sentenciado podrá por sí o a través de su defensor, ejercer, durante la ejecución de la pena, los derechos que las leyes penales, penitenciarias y los reglamentos le otorgan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 203.
+
+Para controlar el cumplimiento de las penas y medidas de seguridad impuestas y el respeto de las finalidades constitucionales y legales del sistema penitenciario, los Jueces de Ejecución tendrán las siguientes atribuciones:
+
+a) Hacer cumplir, mantener, sustituir, modificar o declarar extintas las penas y/o las medidas de seguridad, así como las condiciones de su cumplimiento. En ejercicio de esta función, las áreas administrativas del sistema penitenciario estarán obligadas a informar del contenido de los expedientes clínico-criminológicos, así como sus avances e incidencias.
+
+b) Resolver en relación con la extinción de la sanción penal.
+
+c) Resolver por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 204.
+
+Durante el trámite de los incidentes, el Juez de Ejecución podrá ordenar la suspensión provisional de toda medida administrativa carcelaria que entorpezca el procedimiento incidental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 205.
+
+El Juez de Ejecución, para hacer valer sus determinaciones, gozará de todas las medidas de apremio y correcciones disciplinarias que contempla el Código de Procedimientos Penales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 206.
+
+La sentencia que condene a la reparación de daños y perjuicios, cuando no sea inmediatamente ejecutada o no pueda serlo por simple orden del juez que la dictó, se solicitará su cumplimiento ante el Juez de Ejecución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo II. Incidentes Jurisdiccionales en la Etapa de Ejecución
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 207.
+
+Tan pronto como el Juez de Ejecución reciba copia certificada de la sentencia ejecutoriada radicará el expediente de control de ejecución, determinará su cumplimiento y ordenará las comunicaciones y anotaciones correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 208.
+
+Si el sentenciado se encuentra en libertad y debe compurgar pena privativa, se ordenará su aprehensión o reaprehensión, lo que proceda en su caso, previo cumplimiento del trámite que marca la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 209.
+
+El Juez de Ejecución realizará el cómputo de las penas o medidas de seguridad, tomando en cuenta el tiempo de la prisión preventiva y el arraigo cumplidos por el sentenciado, para determinar con precisión la fecha en que queden cumplidas. El cómputo podrá modificarse, aún de oficio, en caso de error.
+
+La fecha de cumplimiento de la pena se notificará inmediatamente al sentenciado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 210.
+
+No será deber de la defensa del proceso vigilar el cumplimiento de la pena, pero se prorrogará su labor si así se lo solicitare expresamente el sentenciado.
+
+El ejercicio de la defensa durante la ejecución penal, consistirá, cuando se requiera, en el asesoramiento o realización de las gestiones necesarias en resguardo de sus derechos.
+
+Lo anterior, no exime al Estado de la obligación de proporcionar y garantizar la asistencia y representación jurídica a los internos a través de la Defensoría Social, durante los trámites jurídicos correspondientes a la etapa de ejecución penal y de otorgamiento de determinado beneficio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 211.
+
+Los incidentes que se tramiten en la etapa de ejecución, pueden promoverse personalmente por el sentenciado, por su representante legal o por su defensor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 212.
+
+Igualmente podrá promover el incidente de ejecución el Ministerio Público, la víctima, el ofendido o las personas que conforme a la ley, tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 213.
+
+Los incidentes deberán ser resueltos siempre en audiencia oral dentro de los diez días hábiles contados a partir de su inicio, previa notificación a los interesados con al menos cinco días de anticipación a la audiencia. Solamente podrá prorrogarse por única vez y por un término no mayor de tres días cuando no concurriere el defensor o Ministerio Público, dándose vista al superior jerárquico para la debida sanción administrativa o penal que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 214.
+
+Será imprescindible en la audiencia la presencia del sentenciado, su defensor y el Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 215.
+
+La presencia de la víctima u ofendido, no será requisito de validez para la celebración de la audiencia, cuando por alguna circunstancia no pudiere comparecer, o no sea su deseo hacerlo y que quede constancia de ello. Sin embargo, el Juez de Ejecución cuidará porque en todo caso sea debidamente notificado de su derecho a estar presente e intervenir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 216.
+
+En la tramitación del incidente, el Juez de Ejecución velará en todo momento por el respeto a los principios de oralidad, inmediación, inmediatez, contradicción y concentración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 217.
+
+El Juez de Ejecución podrá actuar de oficio cuando a su consideración se vulneren garantías de tipo constitucional del sentenciado o la víctima.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 218.
+
+El día y hora fijados para la celebración de la audiencia, el Juez de Ejecución se constituirá a la sala de audiencias. Verificará la asistencia de las partes y las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 219.
+
+Acto seguido se procederá a dar el uso de la palabra a los intervinientes, para que hagan una exposición sintetizada de sus pretensiones, de la siguiente manera: en primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; posteriormente al Ministerio Público, y si está presente en la audiencia, a la víctima u ofendido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 220.
+
+Si fuera necesario incorporar alguna o algunas de las pruebas previstas por el Código de Procedimientos Penales para el Estado, el Juez de Ejecución brindará el auxilio necesario de manera pronta, para que sean desahogadas en esta etapa de la audiencia de incidente, pero en todo caso deberán ser anunciados como medios de prueba, al menos con tres días de anticipación a la audiencia, para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 221.
+
+Desahogadas las pruebas, haciendo uso del derecho de réplica y dúplica de las partes, el Juez de Ejecución dará nuevamente el uso de la palabra a los intervinientes, en el mismo orden que marca el artículo 219, para que presenten sus alegatos finales. A continuación, declarará cerrado el debate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 222.
+
+La resoluciones deberán emitirse inmediatamente después de concluido el debate y de manera oral, salvo en casos de complejidad, en los que el Juez podrá retirarse á. deliberar su fallo. La deliberación no podrá durar más de veinticuatro horas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 223.
+
+En un plazo que en ningún caso será mayor a cinco días, el Juez de Ejecución mandará a comunicar a las partes el documento por escrito que contenga la resolución, acto que tendrá efectos de notificación y a partir del cual correrá el término para interponer el recurso de apelación, mismo que se tramitará en los términos del Código de Procedimientos Penales para el Estado de Chiapas.
+
 ## Transitorios
 
 Artículo Primero: El presente Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas, entrará en vigor a los sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
@@ -1911,7 +2207,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.-Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE AGOSTO DE 2007.
 
@@ -1980,3 +2276,13 @@ P.O. 17 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- En un término no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, se llevarán a cabo las reformas y modificaciones necesarias al marco jurídico correspondiente, para adecuarlo a las disposiciones que se establecen en el presente Decreto.
+
+Cuarto.- Los procedimientos de ejecución de penas y medidas de seguridad iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
