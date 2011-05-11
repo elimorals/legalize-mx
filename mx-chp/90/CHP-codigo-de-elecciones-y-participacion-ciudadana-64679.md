@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2010-11-17"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -247,6 +247,10 @@ Los observadores en lo particular o las agrupaciones de observadores podrán pre
 
 Si derivado de los informes de las agrupaciones de observadores se desprenden hechos presumiblemente delictivos, el Consejo General deberá presentar la denuncia ante la autoridad correspondiente.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Comisión tendrá a su cargo, la recepción y revisión integral de los informes que presenten los organismos de observadores electorales respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación, durante la jornada electoral o en las actividades de participación ciudadana. El procedimiento para la presentación y revisión de los informes de los organismos de observadores electorales se sujetará a las disposiciones que emita la Comisión.
+
 ###### Artículo 19.
 
 El Consejo General, con motivo de la celebración de los procesos electorales que rige este Código, fijará y acordará las bases y criterios a los que deberán sujetarse los visitantes extranjeros que acudan a conocer las modalidades de su desarrollo en cualquiera de sus etapas.
@@ -286,6 +290,10 @@ A ninguna persona podrá registrársele como candidato a distintos cargos de ele
 Los candidatos que no acrediten haber presentado informe financiero de gastos de precampaña, serán sancionados conforme a las disposiciones previstas en este Código incluso, con la negativa o pérdida, en su caso, del registro correspondiente.
 
 Los partidos políticos o coaliciones, en un mismo proceso electoral, no podrán registrar de manera simultánea más de cinco candidatos a Diputados locales por mayoría relativa y por representación proporcional.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Los candidatos deberán presentar ante la Comisión declaración patrimonial, dentro de los plazos y términos establecidos por la misma; el incumplimiento de esta disposición será sancionado de conformidad con el presente Código.
 
 ## Título Segundo. De la integración y elección del Poder Legislativo, del Poder Ejecutivo y los Ayuntamientos
 
@@ -587,7 +595,7 @@ III. Si después de aplicarse el cociente de distribución quedaren diputados po
 
 ###### Artículo 34.
 
-Cuando por razones de su votación, algún partido político estuviere en la hipótesis matemática de rebasar el total de diputados que como máximo le pueden ser reconocidos en los términos del ultimo párrafo del artículo 16 (sic) la Constitución Política del Estado, le será deducido el número de diputaciones de representación proporcional necesario, hasta ajustarse al límite establecido conforme al procedimiento siguiente:
+Cuando por razones de su votación, algún partido político estuviere en la hipótesis matemática de rebasar el total de diputados que como máximo le pueden ser reconocidos en los términos del ultimo párrafo del artículo 16 la Constitución Política del Estado, le será deducido el número de diputaciones de representación proporcional necesario, hasta ajustarse al límite establecido conforme al procedimiento siguiente:
 
 I. Se obtendrá el cociente de distribución, el cual resulta de dividir el total de votos obtenidos en el estado por el partido político que se halle en este supuesto, entre las diputaciones a asignarse al propio partido para completar el limite de 24 establecido por la Constitución Política del Estado.
 
@@ -651,11 +659,11 @@ VI. Si ningún partido minoritario obtiene el porcentaje de votación requerido 
 
 VII. Sí sólo un partido obtiene el mínimo de votación requerido para tener derecho a la asignación de regidores de representación proporcional, se asignará a dicho partido la mitad de los regidores de representación proporcional que correspondan de acuerdo con el artículo 58 de la Constitución Particular.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 38.
 
-Tratándose de coaliciones formadas para la elección de Ayuntamientos, deberán obtener a su favor, en el municipio correspondiente, al menos el porcentaje de votos que resulte de multiplicar 1.5% de la votación válida emitida por el número de partidos integrantes de la coalición.
-
-De no cumplirse este requisito, la coalición no tendrá derecho a participar en la asignación de miembros de Ayuntamiento por el principio de representación proporcional.
+Tratándose de coaliciones formadas para la elección de Ayuntamientos, deberán obtener a su favor, en el municipio correspondiente, al menos 2% de la votación válida emitida.
 
 ###### Artículo 39.
 
@@ -891,6 +899,10 @@ La pérdida de registro o acreditación a que se refiere el párrafo anterior, n
 
 La cancelación o pérdida del registro o acreditación extinguirá la personalidad jurídica del partido político, pero quienes hayan sido sus dirigentes y candidatos deberán cumplir las obligaciones que en materia de fiscalización establece este Código, hasta la conclusión de los procedimientos respectivos y de liquidación de su patrimonio.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En caso de que se demuestre la existencia de pasivos contraídos en forma previa a la declaratoria de pérdida o cancelación de registro, el Consejo General otorgará el financiamiento público aprobado para sus actividades ordinarias en el año de que se trate, para cubrir dichos pasivos, debiendo realizar la entrega de los recursos al interventor designado por la Comisión.
+
 ###### Artículo 63.
 
 El cambio de los documentos básicos, nombres, siglas y signos representativos de un partido político estatal, deberá comunicarse por escrito al Instituto dentro de los veinte días naturales siguientes a la fecha en que se tome el acuerdo correspondiente por el partido, acompañándose los documentos correspondientes, el que acordará lo procedente en los periodos establecidos siguientes:
@@ -1063,7 +1075,7 @@ VIII. Las convocatorias que emitan para la elección de sus dirigentes o la post
 
 IX. Los montos de financiamiento público otorgados en cualquier modalidad, a sus órganos estatales y municipales, durante los últimos cinco años y hasta el mes más reciente, los descuentos correspondientes a sanciones;
 
-X. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña; el estado de situación patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores; la relación de donantes y los montos aportados por cada uno. Todo lo anterior, una vez concluidos los procedimientos de fiscalización establecidos por este Código. Los partidos podrán hacer pública la información a que se refiere este inciso antes de que concluyan los procedimientos referidos, sin que ello tenga efectos en los mismos.
+X. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña; el estado de situación patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores; la relación de donantes y los montos aportados por cada uno. Todo lo anterior, una vez concluidos los procedimientos de fiscalización establecidos por este Código. Los partidos podrán hacer pública la información a que se refiere este inciso antes de que concluyan los procedimientos referidos, sin que ello tenga efectos en los mismos;
 
 XI. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
 
@@ -1149,6 +1161,8 @@ IV. Usar las franquicias postales y telegráficas que sean necesarias para el cu
 
 ### Capítulo II. Del financiamiento de los partidos
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 82.
 
 Las prerrogativas a los partidos políticos en los medios de comunicación se otorgarán conforme con las normas establecidas por el apartado B de la Base III del artículo 41 de la Constitución Federal, por el Código Federal de Instituciones y Procedimientos Electorales, así como por este ordenamiento legal.
@@ -1193,17 +1207,21 @@ En cualquier otro supuesto, la asignación de tiempo en radio y televisión dest
 
 ###### Artículo 87.
 
-El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
+El régimen de financiamiento de los partidos políticos podrá ser de carácter público y privado.
 
-I. Financiamiento público, que prevalecerá sobre los otros tipos de financiamiento;
+El financiamiento público, es el que otorga el Instituto y proviene del erario público estatal, en los términos de este Código; el cual prevalecerá sobre el de carácter privado.
 
-II. Financiamiento por la militancia;
+El financiamiento privado, son todas aquellas aportaciones o donaciones, en efectivo o en especie, que se realizan en las siguientes modalidades:
 
-III. Financiamiento de simpatizantes;
+I. Financiamiento por la militancia;
 
-IV. Autofinanciamiento; y
+II. Financiamiento de simpatizantes;
 
-V. Financiamiento por rendimientos financieros, fondos y fideicomisos.
+III. Autofinanciamiento; y,
+
+IV. Financiamiento por rendimientos financieros, fondos y fideicomisos.
+
+V. Las aportaciones o donaciones provenientes de los comités nacionales u órganos equivalentes de los partidos políticos cuando sean destinados a las campañas electorales locales.
 
 ###### Artículo 88.
 
@@ -1239,6 +1257,10 @@ El financiamiento público para el sostenimiento de sus actividades permanentes 
 
 Los partidos políticos tendrán derecho al financiamiento público de sus actividades, independientemente de las demás prerrogativas otorgadas en este Código.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La única fuente de financiamiento permitida en precampañas, será la de carácter privado. Los partidos políticos, en esta etapa, únicamente podrán destinar recursos para gastos operativos y de difusión de sus procesos internos, los cuales no serán mayores al treinta por ciento del monto de financiamiento público que por actividades ordinarias permanentes reciba en lo individual cada ente político en el año de la elección.
+
 ###### Artículo 91.
 
 Durante el mes de enero de cada año, el Consejo General fijará el monto del financiamiento público anual para el sostenimiento de sus actividades ordinarias permanentes, que recibirán los partidos políticos.
@@ -1265,7 +1287,7 @@ El financiamiento para la obtención del voto en campañas electorales se determ
 
 I. En el año de la elección en que se renueven el Poder Ejecutivo local, el Congreso y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto igual al del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
 
-II. En el año de la elección en que se renueve el Congreso y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente a la mitad del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
+II. En el año de la elección en que, se renueve el Congreso y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente a la mitad del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
 
 III. El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
 
@@ -1297,11 +1319,23 @@ I. Cada partido determinará libremente los montos mínimos y máximos y la peri
 
 II. El financiamiento de simpatizantes, tendrá, como tope anual, por cada individualidad aportante, el cinco por ciento del monto total de financiamiento público por actividades ordinarias permanentes otorgado a los partidos políticos en el año que corresponda;
 
-III. Cada partido político no podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 20% del total del financiamiento público por actividades ordinarias que corresponda a todos los partidos políticos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. Para el sostenimiento de sus actividades ordinarias, ningún partido político podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al 20% del total del financiamiento público que por ese concepto se otorgue a todos los partidos políticos en el año que corresponda; siempre que en su conjunto el financiamiento privado no sea superior al público. En precampaña y campaña las aportaciones de militantes, simpatizantes, del precandidato y candidato se sujetarán a los topes de gastos que para cada proceso y elección fije el Consejo General;
 
 IV. Los partidos políticos podrán recibir ingresos por autofinanciamiento por actividades promocionales tales como conferencias, espectáculos, diplomados, rifas, juegos, sorteos y eventos culturales, deportivos, venta de editoriales, de propaganda utilitaria, así como cualquier otra similar, que realice para allegarse fondos, sin más limitaciones que las establecidas por este Código; y
 
-V. Los partidos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, para obtener financiamiento por rendimientos financieros. Las aportaciones que se realicen a través de esta modalidad, tendrán las restricciones señaladas en el artículo 88 y la fracción II del presente artículo.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+V. Los partidos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, para obtener financiamiento por rendimientos financieros.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Las aportaciones que se realicen a través de estas modalidades, tendrán las restricciones señaladas en el artículo 88 y la fracción II y III del presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Los partidos, precandidatos o candidatos podrán recibir aportaciones o donativos en efectivo de una misma persona en una o varias exhibiciones, hasta por la cantidad máxima equivalente a doscientos días de salario mínimo vigente en el Estado dentro del mismo mes calendario, si éstas exceden el monto señalado deberán ser realizados mediante cheque expedido a nombre del partido y proveniente de una cuenta personal del aportante, o bien a través de transferencia electrónica interbancaria.
 
 ### Capítulo IV. Del régimen fiscal
 
@@ -1403,7 +1437,7 @@ El Instituto dispondrá lo necesario en su presupuesto anual a fin de cubrir al 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ### Capítulo II. De las coaliciones
 
@@ -1543,7 +1577,13 @@ VII. El emblema o emblemas, el color o colores y siglas bajo las cuales particip
 
 VIII. La manifestación expresa de que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se fijen para las distintas elecciones, como si se tratara de un solo partido;
 
-IX. El monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IX. El monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como el partido político responsable de la administración de los recursos y de la presentación de los informes que establece este Código;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+X. El porcentaje de responsabilidad de los partidos políticos coaligados, respecto a las multas que sean aplicadas a la coalición, por las infracciones cometidas por ésta.
 
 Se deberá acompañar al convenio de coalición, la plataforma electoral y, en su caso, el programa de gobierno que sostendrá su candidato a Gobernador del Estado, así como los documentos en los cuales conste la aprobación por los órganos partidistas correspondientes.
 
@@ -1655,7 +1695,9 @@ I. Cuando el Consejo General declare la pérdida de registro o acreditación leg
 
 II. La designación del interventor será notificada de inmediato, por conducto de su representante ante el Consejo General, al partido de que se trate. En ausencia de éste la notificación se hará en el domicilio social del partido afectado, o en caso extremo por estrados;
 
-III. A partir de su designación, el interventor tendrá las más amplias facultades para actos de administración y dominio, sobre el conjunto de bienes y recursos del partido político que haya perdido su registro o acreditación, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del partido político.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. A partir de su designación, el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del Partido Político que haya perdido su registro o acreditación, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. Podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del Partido Político, únicamente por conducto del interventor;
 
 IV. Una vez que el Consejo General, en uso de sus facultades, haya declarado y publicado en el Periódico Oficial del Estado su resolución sobre la cancelación del registro o acreditación de un partido político por cualquiera de las causas establecidas en este Código, el interventor designado deberá:
 
@@ -2375,9 +2417,11 @@ Para ser Presidente o Secretario Técnico de los Consejos Distritales y Municipa
 
 Para el cargo de Secretario Técnico, se preferirá en su caso a ciudadanos con estudios de licenciatura en derecho, o que cuenten con los conocimientos necesarios para el desempeño de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 163.
 
-Los Consejos Distritales y Municipales electorales deberán instalarse dentro de los primeros días del mes siguiente al de su integración. Para que puedan sesionar se requiere la mayoría de sus integrantes, entre los que deberá estar el Presidente; toda resolución se tomará por mayoría de votos.
+Los Consejos Distritales y Municipales electorales, deberán instalarse dentro de los siguientes cinco días al de su integración. Para que puedan sesionar se requieren la mayoría de sus integrantes, entre los que deberá estar el Presidente; toda resolución se tomara por mayoría de votos.
 
 En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, se citará a nueva sesión que tendrá lugar dentro de las veinticuatro horas siguientes con los integrantes que asistan, entre los que deberá estar su Presidente.
 
@@ -2607,6 +2651,8 @@ Las autoridades federales, estatales y municipales están obligadas a proporcion
 
 ### Capítulo I. Disposiciones preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 183.
 
 En los procesos electorales se utilizará la información y documentación formulada por el Registro Federal de Electores, previo convenio que al efecto se celebre.
@@ -2667,13 +2713,33 @@ El Instituto contará con una oficina de registro de electores, la cual se encar
 
 ###### Artículo 191.
 
-La Comisión es un órgano constitucional autónomo del Estado, de carácter permanente, público, con personalidad jurídica y patrimonio propio, depositario y responsable de la función de vigilancia y fiscalización al financiamiento público y privado que ejercen los partidos políticos, coaliciones, precandidatos y candidatos en sus actividades ordinarias permanentes, de precampaña y campaña electorales y de informar a los ciudadanos del cumplimiento de las propuestas de campaña que realicen los servidores públicos electos.
+La Comisión es un órgano constitucional autónomo del Estado, público y permanente, de carácter técnico-jurídico, con personalidad jurídica y patrimonio propio, depositario y responsable de la función de vigilancia y fiscalización al financiamiento público y privado que ejercen los partidos políticos, coaliciones, asociaciones políticas u organizaciones de observadores electorales, así como precandidatos y candidatos en las actividades propias reguladas por este Código; y de informar a los ciudadanos del cumplimiento de las propuestas de campaña que realicen los servidores públicos electos.
 
 Vela por el respeto a la normatividad electoral, la equidad y transparencia en los procesos electorales, así como de la imparcialidad de los servidores públicos en éstos, investigando las trasgresiones a las leyes electorales.
 
-Goza de plena autonomía política, financiera, jurídica y administrativa en el ejercicio de sus funciones; actuará de forma independiente en cuanto a la proyección y ejecución de su presupuesto, así como en lo relativo a las disposiciones normativas, contables y presupuestales de su organización interna.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-Su patrimonio es inembargable y se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, las partidas que anualmente le señale el Presupuesto de Egresos del Estado y por los ingresos que perciba por cualquier concepto, derivado de la aplicación de las disposiciones de este Código y demás disposiciones legales aplicables.
+Goza de plena autonomía financiera, técnica, jurídica y administrativa en el ejercicio de sus funciones; actuará de forma independiente a través de su Presidente, en cuanto a la proyección y ejecución de su presupuesto, así como en lo relativo a las disposiciones normativas, administrativas, contables y presupuestales de su organización interna.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Comisión funcionará en Pleno, el cual estará integrado por el Presidente y dos Contralores Electorales, quienes contarán con voz y voto en las sesiones, ante el Secretario Ejecutivo, quién contará únicamente con voz.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+A las sesiones del pleno podrá concurrir el Representante Financiero del Partido Político acreditado ante la Comisión siempre que tenga interés económico en el asunto de que se trate y sea convocado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Los integrantes del Pleno de la Comisión de Fiscalización Electoral, deberán reunir los mismos requisitos que se requieren para ser Consejero Electoral del Consejo General, que establece este Código.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El patrimonio de la Comisión, es inembargable y se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, las partidas que anualmente le señale el Presupuesto de Egresos del Estado y por los ingresos, aportaciones o donaciones que perciba por cualquier concepto, derivado de la aplicación de las disposiciones de este Código y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Para el cumplimiento de sus fines, la Comisión vigilará el cumplimiento de leyes electorales, tanto en años intraprocesos, como interprocesos.
 
 ###### Artículo 192.
 
@@ -2701,7 +2767,9 @@ IV. Garantizar la equidad de los procesos electorales, y
 
 V. Proveer información oportuna a los ciudadanos respecto a las propuestas de campaña y de los procedimientos de fiscalización.
 
-### Capítulo III. De la Presidencia
+### Capítulo III. De las Atribuciones de la Comisión en Pleno
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 195.
 
@@ -2711,19 +2779,37 @@ La Comisión residirá en la capital del Estado, y podrá establecer las Delegac
 
 La Comisión estará integrada por:
 
-I. La Presidencia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-II. La Dirección General Ejecutiva;
+I. El Pleno.
 
-III. La Dirección General de Fiscalización;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-IV. La Dirección General Jurídica y de Vigilancia a Procesos Electorales;
+II. La Presidencia.
 
-V. La Dirección General de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-VI. La Secretaría Técnica; y
+III. La Secretaría Ejecutiva.
 
-VII. Los demás órganos operativos, técnicos y administrativos que sean determinados conforme a su reglamento interior y disponibilidad presupuestal.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. La Dirección General Ejecutiva.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+V. La Dirección General de Fiscalización.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VI. La Dirección General de Prevención.
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VII. La Dirección General de Administración y Finanzas.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VIII. La Secretaría Técnica, una Contraloría Interna y la Unidad de Informática, así como los demás órganos operativos, técnicos y administrativos que sean determinados conforme a su reglamento interior y disponibilidad presupuestal.
 
 ###### Artículo 197.
 
@@ -2731,7 +2817,9 @@ La Comisión tendrá las atribuciones y obligaciones siguientes:
 
 I. Expedir los reglamentos, acuerdos y lineamientos necesarios para el debido ejercicio de sus atribuciones y las facultades de sus órganos internos;
 
-II. Dictar las previsiones destinadas a hacer efectivas las disposiciones de este Código en materia de vigilancia de los procesos electorales y de participación ciudadana, así como en materia de fiscalización de los recursos de los partidos políticos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+II. Dictar las previsiones destinadas a hacer efectivas las disposiciones de este Código en materia de vigilancia de los procesos electorales y de participación ciudadana, así como en materia de fiscalización de los recursos de los partidos políticos, asociaciones políticas y de organizaciones de observadores electorales;
 
 III. Conocer, resolver y sancionar cualesquier trasgresión a las leyes electorales en el ámbito de su competencia, en términos de lo dispuesto por este Código;
 
@@ -2751,11 +2839,15 @@ IX. Vigilar que los recursos de los partidos tengan origen lícito y se apliquen
 
 X. Recibir, revisar y resolver los informes trimestrales y anuales, así como de gastos de precampaña y campaña de los partidos políticos y sus candidatos, así los demás informes de ingresos y gastos establecidos por este Código;
 
-XI. Ordenar en cualquier tiempo, la práctica de auditorías, directamente o a través de terceros, a las finanzas de a (sic) las asociaciones y partidos políticos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XI. Ordenar en cualquier tiempo, la práctica de auditorías, directamente o a través de terceros, a las finanzas de las asociaciones y partidos políticos;
 
 XII. Ordenar visitas de verificación a los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, así como las investigaciones que considere necesarias para el correcto ejercicio de su función fiscalizadora;
 
-XIII. Proporcionar a los partidos políticos la orientación, asesoría y capacitación necesarias para el cumplimiento de las obligaciones relativas a la presentación de los informes ordinarios, y de gastos de precampaña y campaña;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XIII. Proporcionar a los partidos políticos la orientación, asesoría y capacitación necesarias para el cumplimiento de las obligaciones relativas a la presentación de los informes ordinarios, de gastos de precampaña y campaña, así como sobre la declaración patrimonial de sus candidatos;
 
 XIV. Fiscalizar y vigilar los ingresos y gastos de las asociaciones políticas locales, a partir de que la constitución de éstas sea aprobada por parte del Consejo General;
 
@@ -2767,7 +2859,9 @@ XVII. Celebrar convenios de coordinación con las instancias públicas o privada
 
 XVIII. Requerir de las personas físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en este Código, sin perjuicio de aquellas que correspondan al orden penal;
 
-XIX. Verificar que las propuestas de campaña que realicen los candidatos que postulen los partidos políticos o coaliciones se ajusten a lo establecido en sus plataformas electorales registradas;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XIX. Recepcionar las propuestas de campaña que realicen los candidatos, así como sancionar la omisión de presentarlas;
 
 XX. Llevar el registro de propuestas de campaña de los candidatos a puestos de elección popular integrando un archivo público que permita vigilar el cumplimiento de las mismas;
 
@@ -2779,155 +2873,301 @@ XXIII. Llevar a cabo el monitoreo permanente en medios de comunicación y de cua
 
 XXIV. Dar a conocer a los partidos políticos los errores u omisiones que detecten en los informes de gasto;
 
-XXV. Establecer centro de análisis e investigación académica en materia de financiamiento y fiscalización electoral;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-XXVI. Desahogar las consultas que sobre la aplicación e interpretación de la misma se le formulen, en las materias de su competencia;
+XXV. Realizar análisis e investigación académica en materia de financiamiento y fiscalización electoral, siempre y cuando su presupuesto lo permita;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXVI. Desahogar las consultas que apruebe la Comisión en Pleno, con relación al ejercicio de sus funciones;
 
 XXVII. Promover la participación de la ciudadanía para que coadyuven en los procedimientos de fiscalización de las finanzas de los partidos políticos y coaliciones durante los procesos electorales, así como en lo relativo al cumplimiento de propuestas de campaña;
 
 XXVIII. Expedir su Estatuto del Servicio Profesional Electoral;
 
-XXIX. Las demás que le otorgue este Código y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXIX. Administrar a través de su Presidente los recursos humanos, financieros y materiales;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXX. Dictar medidas cautelares que eviten, retiren o suspendan la difusión pública de propaganda o actos de proselitismo que violen las disposiciones electorales; para garantizar el cumplimiento de estas medidas, la Comisión podrá actuar con el auxilio de las corporaciones o instituciones públicas, así como de cualquier autoridad municipal o estatal;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXXI. Las demás que le otorgue este Código y demás disposiciones aplicables.
 
 En el ejercicio de las atribuciones que se prevén en el presente artículo, la Comisión observará, adicionalmente a los principios rectores en la materia, el principio de prevención, transparencia y corresponsabilidad en la rendición de cuentas sobre el origen y aplicación del financiamiento de los informes que les sean presentados.
 
 Para tal efecto, la Comisión establecerá reuniones periódicas con los responsables del manejo de las finanzas de los partidos políticos, así como los responsables financieros de los precandidatos y candidatos, en los que se dará a conocer los lineamientos a los cuales se sujetará la revisión de los informes a que estén obligados a presentar, así como los mecanismos preventivos y correctivos.
 
-La Comisión elaborará un sistema de rendición de cuentas con reglas claras, privilegiando la transparencia y la simplificación administrativa en la comprobación del gasto.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Comisión llevará un sistema de rendición de cuentas con reglas claras, privilegiando la transparencia y la simplificación administrativa en la comprobación del gasto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 198.
 
-Para el cumplimiento de sus fines, la Comisión vigilará el cumplimiento de leyes electorales, tanto en años intraprocesos, como interprocesos.
+El Pleno de la Comisión tendrá las atribuciones siguientes:
+
+I. Resolver los asuntos de su competencia;
+
+II. Aprobar los reglamentos necesarios para el cumplimiento de las atribuciones de la Comisión;
+
+III. Promover a través de medidas preventivas la imparcialidad de los servidores públicos durante el proceso electoral;
+
+IV. Dictar medidas, lineamientos y acuerdos generales tendentes a lograr que toda la propaganda que bajo cualquier modalidad de comunicación social difundan los poderes públicos de cualquier nivel de gobierno u órganos autónomos, tenga carácter institucional y fines informativos, educativos o de orientación social;
+
+V. Aprobar los proyectos de acuerdos y resolución que sean sometidos a su consideración, relacionadas con las facultades que el presente Código le concede;
+
+VI. Aprobar el nombramiento del Secretario Ejecutivo de la Comisión a propuesta del Presidente;
+
+VII. Aprobar el Programa Anual de Prevención y de Auditorías de la Comisión;
+
+VIII. Ratificar las medidas cautelares que se dicten;
+
+IX. Emitir reglas generales para la generación de datos, registros y archivos, así como para la conservación de los mismos;
+
+X. Aprobar la destrucción de archivos ante la presencia de representantes de los partidos políticos;
+
+XI. Supervisar, en coordinación con el Instituto, el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas de conformidad con el presente Código.
+
+XII. Aprobar el proyecto anual de presupuesto y el programa operativo anual de la Comisión;
+
+XIII. Dictar las previsiones destinadas a hacer efectivas las disposiciones de este Código, en las materias de su competencia.
+
+XIV. Ordenar la publicación en el Periódico Oficial del Estado de los acuerdos y resoluciones de carácter general que pronuncie;
+
+XV. Imponer las medidas correctivas o de apremio que consideren necesarias conforme a sus atribuciones, con excepción de las que directamente correspondan al Presidente de la Comisión;
+
+XVI. Aprobar la aplicación de los recursos generados por ingresos propios que tenga la Comisión;
+
+XVII. Aprobar el sistema de estímulos por productividad y eficiencia de los servidores públicos de la Comisión, sobre la base de sus economías, recursos propios o a las partidas presupuestales que para tal efecto se destinen, que presente el Presidente;
+
+XVIII. Las demás que le señalen este Código y disposiciones legales, reglamentarias yadministrativas (sic) que resulten aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 199.
 
-La Presidencia es el máximo órgano de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales competencia de la Comisión, así como de velar porque los principios rectores de la función electoral guíen todas las actividades de ésta.
+La Presidencia es el órgano de dirección y administración, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales competencia de la Comisión, así como velar porque los principios rectores de la función electoral guíen todas las actividades de ésta.
 
-Estará a cargo de un Presidente, quien durará en su encargo siete años y será nombrado por el voto de la mayoría de los miembros presentes del Congreso del Estado o, en su caso, de su Comisión Permanente, a propuesta del Gobernador del Estado.
+Estará a cargo de un Presidente, quien durará en su encargo siete años; será nombrado por el voto de la mayoría de los miembros presentes del Congreso del Estado o, en su caso, de su Comisión Permanente, a propuesta del Gobernador del Estado.
 
-En caso de que la persona propuesta no reúna la votación señalada en el párrafo anterior, en el término de cinco días, el Gobernador del Estado enviará al Congreso una nueva propuesta. Si ésta también es rechazada por el Congreso o su Comisión Permanente, se designará código Presidente interino de la Comisión al Director General Ejecutivo, hasta en tanto se inicie el siguiente periodo ordinario de sesiones o, en caso de que se hubiese presentado ante la Comisión Permanente, se reúna el Congreso. De ser el supuesto, el Gobernador del Estado enviará una nueva propuesta, que de ser nuevamente rechazada obligará al Congreso del Estado a designar como Presidente de la Comisión a quien obtenga la mayor cantidad de votos de las tres propuestas rechazadas.
+En caso de que la persona propuesta no reúna la votación señalada en el párrafo anterior, en el término de cinco días, el Gobernador del Estado enviará al Congreso una nueva propuesta. Si ésta también es rechazada por el Congreso o su Comisión Permanente, se designará como Presidente interino de la Comisión al Secretario Ejecutivo, hasta en tanto se inicie el siguiente periodo ordinario de sesiones o, en caso de que se hubiese presentado ante la Comisión Permanente, se reúna el Congreso. De ser el supuesto, el Gobernador del Estado enviará una nueva propuesta, que de ser nuevamente rechazada obligará designar como Presidente de la Comisión a quien obtenga la mayor cantidad de votos de las tres propuestas rechazadas.
+
+(REUBICADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 200.
 
 Para desempeñar el cargo de Presidente, se deberán reunir los mismos requisitos, que los que establece este Código para ser Consejero Electoral del Consejo General.
 
-Al Presidente de la Comisión le corresponde originariamente la representación, trámite y resolución de los asuntos competencia de la Comisión, quien para el mejor desarrollo de esas actividades puede delegar facultades a sus subalternos.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Presidente será el titular de la Comisión y a él,le (sic) corresponderá originariamente la representación, trámite y resolución de los asuntos competencia de la Comisión, quien para el mejor desarrollo de esas actividades puede delegar facultades a sus subalternos.
 
 Será el representante legal, con facultades amplias de administración y dominio, quien podrá otorgar poderes, generales o especiales, necesarios para la debida actuación de la Comisión.
 
+> <small>(REFORMADO Y REUBICADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 201.
 
-El Presidente, los Directores Generales y el Secretario Técnico de la Comisión, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia y desempeñarán su función con autonomía y probidad.
+El Presidente, los Contralores Electorales, el Secretario Ejecutivo, Directores Generales y el Secretario Técnico de la Comisión, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos que desempeñen en instituciones educativas, científicas, culturales, de investigación o de beneficencia y desempeñarán su función con autonomía y probidad.
 
 El personal adscrito a la Comisión no podrá utilizar en beneficio propio o de terceros, ni divulgar la información confidencial de que dispongan en razón de su cargo.
 
-El Presidente estará sujeto al régimen de responsabilidades previsto en la Constitución Particular y su correspondiente ley reglamentaria.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Presidente y los Contralores Electorales de la Comisión, estarán sujetos al régimen de responsabilidades previsto en la Constitución Particular y su correspondiente ley reglamentaria. Los demás servidores públicos, deberán de observar las obligaciones que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, así como lo que determine el Pleno de la Comisión y estarán sujetos a las sanciones que estas determinen.
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 202.
 
-Las ausencias temporales o definitivas del Presidente de la Comisión serán cubiertas por el Director General Ejecutivo, quien a su vez será sustituido por el Director General Jurídico y de Vigilancia a Procesos Electorales.
+Las ausencias definitivas del Presidente de la Comisión serán cubiertas por el Secretario Ejecutivo, quien a su vez será sustituido de conformidad con el Reglamento Interior de la Comisión.
 
 La renuncia al cargo de presidente de la Comisión únicamente procederá por causas graves, y aprobadas por el Congreso del Estado o su Comisión Permanente.
 
-Las licencias del Presidente de la Comisión únicamente pueden ser otorgadas por el Congreso del Estado y en sus recesos por la Comisión Permanente.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El Presidente y los Contralores, podrán solicitar licencia para separarse del cargo hasta por el término de treinta días hábiles, mediante solicitud que apruebe el Pleno por la mayoría que lo integra. En ningún caso la licencia podrá ser mayor a dicha temporalidad y no podrá ser otorgada a dos integrantes del Pleno a la vez, para lo cual se dará preferencia a quién la haya solicitado con antelación. Las ausencias de los Contralores derivadas de la licencia a que se refiere este párrafo, serán cubiertas por el Secretario Ejecutivo de la Comisión, y éste a su vez será suplido en términos de lo dispuesto en este Código y los reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Las ausencias del Presidente a las sesiones del Pleno serán cubiertas por el Contralor de mayor edad, y la de los Contralores por el Secretario Ejecutivo; quien a su vez será sustituido por el Director General que determine el Reglamento respectivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 203.
 
-El Presidente de la Comisión, sin perjuicio de cualquier otra atribución señalada en las leyes, tendrá las siguientes:
+El Presidente de la Comisión, además de las facultades señaladas en otras leyes de la materia, tendrá las siguientes:
 
-I. Resolver los asuntos de su competencia;
+I. Aprobar las estrategias y políticas generales para la integración de los programas de trabajo y demás actividades de la Comisión, a fin de asegurar el pleno ejercicio de sus funciones;
 
-II. Aprobar las estrategias y políticas generales para la integración de los programas de trabajo y demás actividades de la Comisión, a fin de asegurar el pleno ejercicio de sus funciones;
+II. Aprobar los manuales de operación, administrativos y, en su caso, de procedimientos, que regirán las actividades de la Comisión, así como los lineamientos y criterios administrativos, técnicos y presupuestales necesarios para el cumplimiento de sus funciones;
 
-III. Aprobar los planes y programas de trabajo de la Comisión, así como vigilar su cumplimiento;
+III. Proponer al Pleno de la Comisión, los Programas Anuales de Auditoría y de Prevención;
 
-IV. Aprobar el proyecto de presupuesto anual de egresos que le proponga el Director General de Administración, y remitirlo al Gobernador del Estado, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
+IV. Aprobar políticas que tengan por objeto profesionalizar a los servidores públicos de la Comisión, y al mismo tiempo promover su buen desempeño en el empleo, bajo los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia e igualdad de oportunidades;
 
-V. Aprobar los manuales de operación, administrativos y, en su caso, de procedimientos, que regirán las actividades de la Comisión, así como los lineamientos y criterios administrativos, técnicos y presupuestales necesarios para el cumplimiento de sus funciones;
+V. Comunicar o solicitar, según sea el caso, al Consejo General, la aplicación de sanciones que correspondan a partidos políticos, por violaciones a la legislación electoral;
 
-VI. Aprobar políticas que tengan por objeto profesionalizar a los servidores públicos de la Comisión, y al mismo tiempo promover su buen desempeño en el empleo, bajo los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, eficacia e igualdad de oportunidades;
+VI. Nombrar y remover al personal de la Comisión, así como determinar su adscripción, su área de trabajo y asignarles funciones que se consideren pertinentes para el cumplimiento de las atribuciones de la Comisión;
 
-VII. Aprobar el Reglamento Interior y la demás normatividad necesaria para su organización y funcionamiento y publicarlo en el Periódico Oficial;
+VII. Dictar, ordenar o cancelar la ejecución de las medidas cautelares que eviten, suspendan o retiren la difusión pública de propaganda o la realización de actos de proselitismo que violen las disposiciones electorales; las cuales serán ratificadas por el Pleno;
 
-VIII. Resolver los informes de gastos;
+VIII. Realizar o promover por sí o a través del personal que designe para tales efectos, investigaciones o estudios académicos en materia de financiamiento y fiscalización electoral;
 
-IX. Comunicar o solicitar, según sea el caso, al Consejo General, la aplicación de sanciones que correspondan a partidos políticos, coaliciones, precandidatos o candidatos por violaciones a la legislación electoral;
+IX. Aprobar el tabulador de sueldos, así como asignar salarios, compensaciones y demás prestaciones de los servidores públicos de la Comisión;
 
-X. Resolver las quejas, denuncias, dictámenes o resoluciones que se determinen, relacionadas con las facultades que el presente Código le concede;
+X. Resolver los asuntos de su competencia, así como aprobar o modificar el organigrama o estructura administrativa de la Comisión;
 
-XI. Nombrar al personal necesario para el desempeño de las actividades de la Comisión;
+XI. Emitir los informes derivados de los actos de fiscalización, verificación, inspección, prevención o monitoreo que realice la Comisión contemplados en este Código, y otorgar en su caso, las prórrogas que le soliciten derivado de dichos actos, así como autorizar el diferimiento de los pagos que resulten por concepto de multas u otras sanciones que imponga ésta;
 
-XII. Realizar o promover por sí o a través del personal que designe para tales efectos, investigaciones o estudios académicos en materia de financiamiento y fiscalización electoral;
+XII. Establecer y otorgar, con la aprobación del Pleno un sistema de estímulos por productividad y eficiencia de los servidores públicos de la Comisión, sobre la base de sus economías, recursos generados por ingresos propios o a las partidas presupuestales que para tal efecto se destinen;
 
-XIII. Aprobar el tabulador de sueldos y salarios y demás prestaciones de los servidores públicos;
+XIII. Proponer el ejercicio de los recursos generados por ingresos propios al Pleno de la Comisión, para su aprobación;
 
-XIV. Emitir reglas generales para la generación de datos, registros y archivos, así como para la conservación de los mismos;
+XIV. Suscribir con el Instituto, autoridades federales, estatales y municipales, instituciones académicas, personas físicas y morales, públicas o privadas, los convenios que sean necesarios para el cumplimiento de sus atribuciones o mejora de su funcionamiento;
 
-XV. Aprobar la destrucción de archivos ante la presencia de representantes de los partidos políticos;
+XV. Emitir reglas generales para la generación de datos, registros y archivos así como para la conservación de los mismos;
 
-XVI. Establecer un sistema de estímulos por productividad y eficiencia de los servidores públicos de la Comisión, sobre la base de sus economías o a las partidas presupuestales que para tal efecto se destinen;
+XVI. Proponer al Gobernador del Estado, las observaciones y propuestas de modificación a la Legislación Electoral;
 
-XVII. Suscribir con el Instituto, autoridades federales, estatales y municipales, instituciones académicas, personas físicas y morales, los convenios que sean necesarios para el cumplimiento de sus atribuciones;
+XVII. Imponer las medidas correctivas o medios de apremio que considere necesarias conforme a sus atribuciones, o en su caso dejarlas sin efectos;
 
-XVIII. Proponer al Gobernador del Estado, las observaciones y propuestas de modificación a la Legislación Electoral, concluido que sea el proceso electoral y con base en las experiencias obtenidas;
+XVIII. Instruir a los órganos de la Comisión, así como al personal de la misma;
 
-XIX. Imponer las medidas correctivas o medios de apremio que considere necesarias conforme a sus atribuciones;
+XIX. Convocar por sí o a través del Secretario Ejecutivo, a las sesiones ordinarias y extraordinarias a los integrantes del Pleno de la Comisión;
 
-XX. Instruir a los órganos de la Comisión, y
+XX. Presidir las sesiones ordinarias y extraordinarias del Pleno de la Comisión;
 
-XXI. Las demás que le señalen este Código y demás disposiciones legales y administrativas que resulten aplicables.
+XXI. Proponer al Secretario Ejecutivo de la Comisión y removerlo libremente;
+
+XXII. Proponer el proyecto de presupuesto anual de egresos y el programa operativo anual de la Comisión y una vez aprobado por este remitirlo al Gobernador del Estado, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
+
+XXIII. Representar legalmente a la Comisión y otorgar poderes para actos de administración así como para ser representado ante cualquier autoridad;
+
+XXIV. Ordenar la práctica de diligencias extraordinarias en los procedimientos que se substancien en la Comisión;
+
+XXV. Emitir los acuerdos, autos y demás actos necesarios para la sustanciación de los procedimientos a que se refiere este Código y los reglamentos de la Comisión;
+
+XXVI. Delegar en los servidores públicos de la Comisión, las atribuciones que considere para el cumplimiento de los fines de la Comisión;
+
+XXVII. Emitir, suspender o cancelar las ordenes de auditorías;
+
+XXVIII. Las demás que le señalen este Código, su Reglamento Interior y demás disposiciones que se consideren aplicables, así como las que le asigne la Comisión en Pleno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 204.
 
-La Secretaría Técnica es la encargada de sustanciar y formular los proyectos de resolución y dictamen conforme a la normatividad electoral.
+Los Contralores Electorales, tendrán las siguientes facultades:
 
-Estará a cargo de un Secretario Técnico, nombrado por el Presidente, quien debe reunir los mismos requisitos que para ser Consejero Electoral, excepto el de la edad, quien debe tener 30 años o más, y poseer el día de la designación, título de licenciado en derecho, así como los conocimientos que le permitan el desempeño de sus funciones.
+I. Desempeñar su función con autonomía, probidad e imparcialidad;
 
-Estará sujeto al régimen de responsabilidades establecido en la Constitución Particular y las leyes respectivas.
+II. Asistir a las sesiones de la Comisión en Pleno;
+
+III. Resolver los asuntos de su competencia;
+
+IV. Participar en las discusiones sobre los asuntos que se traten, conduciéndose siempre con respeto hacia los integrantes del Pleno;
+
+V. Contribuir al buen desarrollo de las sesiones;
+
+VI. Manifestarse libremente sobre los asuntos que se traten;
+
+VII. Solicitar al Presidente de la Comisión que convoque a sesión extraordinaria del Pleno;
+
+VIII. Votar los proyectos de acuerdos o resoluciones que se sometan a consideración del Pleno;
+
+IX. Asistir a nombre de la Comisión ante toda clase de autoridades, entidades, dependencias, y personas físicas y morales, previa designación hecha por el Pleno o en su caso, por el Presidente de la Comisión de común acuerdo;
+
+X. Participar en los eventos a que sea invitado su calidad de Contralores Electorales, por organizaciones académicas, institucionales y sociales, locales o nacionales, buscando que dicha participación redunde en beneficio de los fines de la Comisión;
+
+XI. Proponer al Pleno los proyectos de reglamentos y sus modificaciones, para el cumplimiento de las atribuciones de la Comisión;
+
+XII. Ratificar las medidas cautelares que se dicten;
+
+XIII. Aprobar el proyecto de presupuesto anual de egresos y el programa operativo anual de la Comisión;
+
+XIV. Aprobar el nombramiento del Secretario Ejecutivo;
+
+XV. Aprobar el sistema de estímulos por productividad y eficiencia de los servidores públicos de la Comisión, sobre la base de sus economías o a las partidas presupuestales que para tal efecto se destinen;
+
+XVI. Aprobar en Pleno el destino y aplicación de los recursos o ingresos propios que perciba la Comisión;
+
+XVII. Las demás que les sean conferidas por este Código y la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 205.
 
-Corresponde al Secretario Técnico:
+Corresponde al Secretario Ejecutivo de la Comisión de Fiscalización Electoral:
 
-I. Recibir y dar el trámite previsto en el presente Código a los medios de impugnación que se interpongan en contra de los actos o resoluciones de la Comisión, en ausencia del Director General Jurídico y de Vigilancia de los Procesos Electorales;
+I. Proponer al Presidente las políticas y los programas generales de la Comisión;
 
-II. Informar al Presidente de las resoluciones que le competan, dictadas por las autoridades competentes;
+II. Proponer al Presidente el orden del día de las sesiones del Pleno de la Comisión; y someterlo a su autorización;
 
-III. Integrar los expedientes que se deriven de la incoación de procedimientos ante la Comisión;
+III. Convocar previa autorización y en representación del Presidente a las sesiones ordinarias y extraordinarias del Pleno de la Comisión;
 
-IV. Sustanciar los procedimientos administrativos que se deriven de la aplicación de la normatividad electoral;
+IV. Declarar la existencia del quórum legal necesario para sesionar; dar fe de lo actuado en las sesiones, elaborar el acta correspondiente y autorizarla conjuntamente con el Presidente;
 
-V. Autorizar los despachos, actas, diligencias, autos y toda clase de resoluciones que se expidan asienten, practiquen o se dicten dentro de los procedimientos instaurados ante ella;
+V. Conducir conjuntamente con el Presidente las sesiones de la Comisión del Pleno, asistiendo a este para el mejor desarrollo de las mismas;
 
-VI. Elaborar los informes y reportes estadísticos de los procedimientos incoados por la Comisión;
+VI. Integrar debidamente los expedientes y demás documentos que sean presentados al Pleno de la Comisión para su aprobación o conocimiento;
 
-VII. Cumplir con las instrucciones del Presidente en el ejercicio de sus facultades y auxiliarlo en sus tareas, informándole oportunamente del seguimiento a aquéllas; y
+VII. Dar cuenta al Presidente de la Comisión de los asuntos de su competencia y auxiliarlo en aquellos que le encomiende;
 
-VIII. Las demás que le confiera este Código, el Presidente o la demás normatividad aplicable.
+VIII. Proveer lo necesario para que se publiquen los acuerdos y resoluciones de la Comisión;
+
+IX. Ejecutar y dar cumplimiento a los actos que apruebe el Pleno de la Comisión o bien los que le instruya el Presidente por cuestión de competencia;
+
+X. Coordinar y supervisar el funcionamiento de los órganos técnicos a su cargo;
+
+XI. Expedir las certificaciones necesarias en el ejercicio de sus funciones;
+
+XII. Dar trámite y contestación a los medios de impugnación que se interpongan en contra de actos o resoluciones de la Comisión;
+
+XIII. Ejecutar las sanciones que se impongan en términos de este Código y demás normatividad aplicable;
+
+XIV. Las demás que le señalen este Código, el Reglamento Interior, el Presidente o el Pleno de la Comisión;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 206.
 
-La Comisión contará, al menos, con las Direcciones Generales siguientes:
+La Comisión contará, al menos con los siguientes Órganos de Dirección:
 
-I. Ejecutiva; que es el órgano que sirve de enlace directo entre las autoridades de la Comisión, los partidos políticos y los medios de comunicación social, así como también tiene a su cargo informar a la ciudadanía las actividades que realiza la Comisión, tendentes a promover la cultura de la transparencia y rendición de cuentas, así como la responsable de recibir el pago de multas que se impongan en términos de este Código y demás normatividad aplicable y expedir el recibo correspondiente. Su titular dará fe de los actos de la Comisión y expedirá las certificaciones que sean necesarias, firmando junto con el Presidente las resoluciones que emita la Comisión;
+I. Dirección General Ejecutiva, es el órgano técnico encargado de realizar las acciones jurídico-contenciosas y de normatividad;
 
-II. Jurídica y de Vigilancia de los Procesos Electorales; que es el órgano responsable de las acciones legales, monitoreo, representación y asesoría jurídica que se desprendan de la función institucional, así como de proveer lo necesario para que se publiquen los acuerdos y resoluciones que emita la Comisión;
+II. Dirección General de Prevención; es el órgano responsable de las acciones legales o técnicas de monitoreo, brigadeo, seguimiento, vigilancia y dictaminación, de actos de prevención que realice la Comisión, así como de brindar asesoría jurídica, capacitación y difusión que se desprenda de dicha función institucional;
 
-III. De Fiscalización; que es el órgano que tiene a su cargo la revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación, y la realización de auditorías en cualquier tiempo, y
+III. Dirección General de Fiscalización; es el órgano que tiene a su cargo la revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación, y la realización de auditorías en cualquier tiempo, y demás actos de fiscalización, verificación e inspección que realice la Comisión;
 
-IV. De Administración y Finanzas, que es la responsable de administrar los recursos humanos y financieros, establecer y administrar el sistema contable y presupuestal, así como de brindar apoyo logístico a los demás órganos administrativos de la Comisión, proporcionando los materiales, equipos y demás medios necesarios para cumplir con los programas y proyectos que ejecutan.
+IV. Dirección General de Administración y Finanzas, es la responsable de administrar los recursos humanos, materiales y financieros, establecer y administrar el sistema contable y presupuestal, así como de brindar apoyo logístico a los demás órganos administrativos de la Comisión, proporcionando los materiales, equipos y demás medios necesarios para cumplir con los programas y proyectos que ejecutan, de conformidad con el presupuesto autorizado la cual estará adscrita a la Presidencia de la Comisión;
 
-Las atribuciones y competencias de éstas serán determinadas en el Reglamento Interior.
+V. Secretaria Técnica, es equivalente a una Dirección General, responsable de la preparación, coordinación y logística de las sesiones del Pleno y demás actos protocolarios de la Comisión; además es el enlace técnico funcional entre la Presidencia y la Secretaría Ejecutiva y será la encargada de la Difusión Institucional y la relación con otros órganos gubernamentales; y,
+
+VI. Contraloría Interna, será la encargada de fiscalizar y supervisar el ejercicio de los recursos que tenga asignada la Comisión;
+
+Todos los órganos de dirección contarán con la facultad de certificar documentos y dar fe de los actos en los que intervengan. Sus titulares podrán delegar dicha atribución y/o habilitar a personal adscrito a los mismos para la realización de los actos que corresponda.
+
+Las atribuciones y competencias de éstas serán determinadas en el Reglamento Interior. Además de las antes señaladas los titulares de los órganos de dirección contarán con las atribuciones que les confiere este Código, los reglamentos de la Comisión, el Pleno y su Presidente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 207.
 
-Al frente de cada una de las direcciones generales habrá un Director, quien será nombrado por el Presidente.
+Al frente de cada Dirección General, de la Secretaría Técnica y de la Contraloría Interna, habrá un titular responsable, designado por el Presidente; quienes se auxiliarán por jefes de departamento o áreas y demás personal necesario para el mejor desarrollo de sus objetivos y funciones. En caso de ausencia de alguno de éstos, el Presidente podrá designar temporalmente a un encargado de dichos órganos quien contará con las mismas facultades de los titulares.
 
-Los Directores deberán contar con los conocimientos necesarios para el adecuado desarrollo de sus funciones.
+Los Titulares a que se refiere el párrafo anterior, deberán contar con los conocimientos necesarios para el adecuado desarrollo de sus funciones.
 
 ## Título Cuarto. Bases para la organización del servicio profesional electoral
 
-### Capítulo IV. De la Secretaría Técnica
+### Capítulo IV. De las Atribuciones del Presidente
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 208.
 
@@ -2937,11 +3177,15 @@ La objetividad y la imparcialidad que en los términos de la Constitución Parti
 
 La organización del Servicio será regulada por las normas establecidas por este Código, las cuales aplican tanto al Instituto como a la Comisión, así como por las de los estatutos que éstos aprueben, respectivamente.
 
-En el caso del Instituto, la Junta General Ejecutiva elaborará el proyecto de Estatuto, que será sometido al Consejo General por el Secretario Ejecutivo, para su aprobación. En la Comisión, será la Dirección General Jurídica y de Vigilancia de los Procesos Electorales, quien elabore el correspondiente proyecto de Estatuto, para someterlo a la aprobación del Presidente.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En el caso del Instituto, la Junta General Ejecutiva elaborará el proyecto de Estatuto, que será sometido al Consejo General por el Secretario Ejecutivo, para su aprobación. En la Comisión, será la Secretaría Ejecutiva, quien elabore y someta al Pleno el proyecto de Estatuto para su aprobación.
 
 Cada estatuto desarrollará, concretará y reglamentará las bases normativas contenidas en este Título, así como los requisitos, condiciones y procedimientos en que se hará válido el servicio profesional electoral desarrollado en la otra autoridad electoral.
 
-### Capítulo V. De las Direcciones Generales
+### Capítulo V. De las Facultades de los Contralores Electorales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 209.
 
@@ -2971,7 +3215,9 @@ III. Los demás cargos que se determinen en el respectivo Estatuto.
 
 Los miembros del Servicio Profesional Electoral estarán sujetos al régimen de responsabilidades administrativas de los servidores públicos previsto (sic) la Constitución Particular y la legislación aplicable.
 
-### Capítulo I. Disposiciones preliminares
+### Capítulo VI. De las Facultades del Secretario Ejecutivo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 212.
 
@@ -3019,7 +3265,9 @@ En cada Estatuto se establecerán, además de las normas para la organización d
 
 Cada Estatuto fijará las normas para su composición, ascensos, movimientos, procedimientos para la determinación de sanciones, medios ordinarios de defensa y demás condiciones de trabajo.
 
-### Capítulo II. Del Servicio Profesional Electoral
+### Capítulo VII. De las Direcciones Generales
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 215.
 
@@ -3043,7 +3291,7 @@ Las diferencias o conflictos entre el Instituto o la Comisión y sus respectivos
 
 ## Título Primero. Disposiciones preliminares
 
-### Capítulo III. De los Estatutos del Servicio Profesional Electoral
+### Capítulo I. Disposiciones preliminares
 
 ###### Artículo 219.
 
@@ -3087,9 +3335,17 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 La Comisión vigilará y garantizará el estricto cumplimiento de lo previsto en este artículo incluyendo la aplicación de sanciones a que haya lugar, de conformidad con lo estipulado en este Código, con independencia de cualquier otra responsabilidad que pudiera resultar en diversos ámbitos jurídicos.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Terminadas las precampañas y campañas los partidos políticos, coaliciones, precandidatos y candidatos, según sea el caso, deberán retirar toda propaganda desplegada, en un plazo no mayor de cinco días. En caso de incumplimiento, la Comisión podrá imponer las sanciones que para cada caso establece el artículo 347 de este Código, y ordenará a las autoridades municipales su retiro aplicando el costo de dichos trabajos a las prerrogativas de los partidos infractores.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Si la autoridad municipal no da cumplimiento con lo ordenado por la Comisión, se estará a lo dispuesto en los artículos 348 y 500 de este Código.
+
 ## Título Segundo. De los actos preparatorios de la elección
 
-### Capítulo IV. Disposiciones complementarias
+### Capítulo II. Del Servicio Profesional Electoral
 
 ###### Artículo 223.
 
@@ -3099,9 +3355,9 @@ Los procesos internos para la selección y postulación de candidatos a cargos d
 
 Al menos veinte días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio y conclusión del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno y los órganos internos de dirección responsables de su organización y vigilancia, según la etapa que corresponda; la fecha de celebración de la asamblea electoral estatal, distrital, municipal o, en su caso, de realización de la jornada comicial interna.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-El partido deberá notificar al Instituto los nombres de las personas que participarán como precandidatos, inmediatamente después de que se hubiere internamente dictaminado la procedencia de los registros correspondientes, en los términos establecidos en este Código y en el calendario respectivo que apruebe con Consejo General. En todos los casos, el registro de los precandidatos deberá efectuarse dentro de los tres días anteriores al inicio de las precampañas de la elección correspondiente.
+El partido deberá notificar al Instituto los nombres de las personas que participarán como precandidatos, inmediatamente después de que se hubiere internamente dictaminado la procedencia de los registros correspondientes, en los términos establecidos en este Código y en el calendario respectivo que apruebe el Consejo General. En todos los casos, el registro de los precandidatos deberá efectuarse un día antes del inicio de las precampañas de la elección correspondiente.
 
 Cuando de acuerdo a la normatividad interna de cada partido político se prevea la substanciación de medios de impugnación internos en contra de la aprobación de registros, el nombre o nombres de las personas que participarán como precandidatos deberá ser notificada al Instituto, dentro de las veinticuatro horas siguientes al día en que la resolución o sentencia correspondiente sea definitiva.
 
@@ -3133,9 +3389,7 @@ Los partidos políticos harán uso del tiempo en radio y televisión que de acue
 
 Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará en los términos dispuestos en el Libro Séptimo del Código Federal de Instituciones y Procedimientos Electorales.
 
-### Capítulo Único
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+### Capítulo III. De los Estatutos del Servicio Profesional Electoral
 
 ###### Artículo 224.
 
@@ -3165,9 +3419,9 @@ No podrán realizarse precampaña cuando únicamente se hubiese registrado un as
 
 Los espacios en medios de comunicación, distintos a la radio y a la televisión, que utilicen durante la precampaña los precandidatos para difundir su imagen y propuestas, exclusivamente podrán ser contratados por la Comisión.
 
-La propaganda, una vez terminadas las precampañas que realicen los partidos políticos para elegir a sus candidatos, deberá ser retirada por aquellos, a más tardar en un plazo no mayor de cinco días; en caso de no hacerla, la Comisión ordenará a las autoridades municipales el retiro aplicando el costo de dichos trabajos a las prerrogativas del partido infractor.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
-En el caso de que algún partido o sus candidatos no hubiere retirado su propaganda en el término señalado en el artículo anterior, la Comisión podrá imponer una multa al partido político y a sus candidatos omisos de hasta mil veces el salario mínimo vigente en la capital del Estado y podrá tomar las medidas conducentes.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 226.
 
@@ -3211,9 +3465,7 @@ IX. Utilizar en su propaganda símbolos, distintivos, signos, emblemas o figuras
 
 X. Las expresiones verbales o escritos contrarios a la moral, que injurien a las autoridades a los demás partidos políticos o precandidatos, o que tiendan a incitar a la violencia y al desorden.
 
-### Capítulo I. De los procesos de selección de candidatos a cargos de elección popular y las precampañas electorales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+### Capítulo IV. Disposiciones complementarias
 
 ###### Artículo 228.
 
@@ -3225,13 +3477,17 @@ Los medios de impugnación que presenten los precandidatos debidamente registrad
 
 Las resoluciones de fondo dictadas dentro de tales medios impugnativos partidistas, tienen como efecto confirmar o modificar los resultados, o declarar la nulidad de todo el proceso interno de selección, con sustento en los principios legales y las normas establecidas en sus Estatutos o en los reglamentos y convocatorias respectivas. Las decisiones que adopten los órganos competentes de cada partido podrán ser recurridas por los precandidatos ante el Tribunal Electoral, una vez agotados los procedimientos internos de justicia partidaria.
 
-### Capítulo II. De las precampañas electorales
+### Capítulo Único
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 229.
 
 A más tardar en el mes marzo del año de la elección, el Instituto determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
-La Comisión determinará los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso, el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los cinco días siguientes al de la jornada comicial interna, o celebración de la asamblea respectiva.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Comisión determinara los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los tres días siguientes al de la jornada comicial interna, o celebración de la asamblea respectiva.
 
 Si un precandidato incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo antes establecido y hubiese obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, no podrá ser registrado legalmente como candidato. Los precandidatos que sin haber obtenido la postulación a la candidatura no entreguen el informe antes señalado serán sancionados en los términos de lo establecido por el Libro Quinto de este Código.
 
@@ -3241,15 +3497,21 @@ Los precandidatos que rebasen el tope de gastos de precampaña establecido por e
 
 Quedarán comprendidos dentro de los topes de gasto de precampaña los conceptos señalados en las fracciones I a IV del segundo párrafo del artículo 249 de este Código.
 
-### Capítulo III. De las impugnaciones
+### Capítulo I. De los procesos de selección de candidatos a cargos de elección popular y las precampañas electorales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 231.
 
 Cada partido político hará entrega a la Comisión, de los informes de ingresos y gastos de cada uno de los precandidatos que hayan participado en sus precampañas, según el tipo de elección de que se trate. Informará también los nombres y datos de localización de los precandidatos que hayan incumplido la obligación de presentar el respectivo informe, para los efectos legales procedentes.
 
-Dentro del informe anual que corresponda, cada partido político reportará los gastos efectuados con motivo de la realización de sus procesos de selección interna y precampañas, así como los ingresos utilizados para financiar dichos gastos.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-Los informes señalados en el párrafo primero de este artículo, serán presentados ante la Comisión a más tardar dentro de los tres días posteriores a la conclusión de los procesos de selección interna de candidatos a cargos de elección popular.
+Dentro del informe financiero trimestral que corresponda, cada partido político reportará los gastos efectuados con motivo de la realización de sus procesos de selección interna y precampañas, así como los ingresos utilizados para financiar dichos gastos.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Los informes señalados en el párrafo primero de este artículo, serán presentados ante la Comisión a más tardar dentro de los seis días posteriores a la conclusión de los procesos de selección interna de candidatos a cargos de elección popular.
 
 La Comisión revisará los informes y emitirá una resolución por cada partido político en la que, en su caso, especificará las irregularidades encontradas e impondrá las sanciones que correspondan a los precandidatos o al partido.
 
@@ -3261,9 +3523,7 @@ A las precampañas y a los precandidatos que en ellas participen, les serán apl
 
 Las autoridades electorales competentes emitirán los reglamentos y acuerdos que sean necesarios, para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en este Código.
 
-### Capítulo IV. Del tope de gastos de precampaña
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+### Capítulo II. De las precampañas electorales
 
 ###### Artículo 233.
 
@@ -3391,7 +3651,7 @@ Cada partido político o coalición registrará un sólo color o combinación de
 
 Inmediatamente después de haber emitido el acuerdo sobre los registros respectivos, el Consejo General enviará para su publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado, las listas de candidatos registrados ante los Consejos Electorales, para Gobernador, Diputados de mayoría relativa, Diputados de representación proporcional, Presidentes Municipales, síndicos y regidores de los Ayuntamientos; en caso de cancelación o sustitución de candidatos la publicación se hará en la misma forma.
 
-### Capítulo V. De los informes de ingresos y gastos
+### Capítulo III. De las impugnaciones
 
 ###### Artículo 240.
 
@@ -3503,13 +3763,17 @@ En el supuesto de que la Comisión determine que la propaganda se hubiere fijado
 
 En el caso de los particulares, se aplicarán las mismas reglas anteriores.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Para los efectos de la fracción X, se entenderá por equipamiento urbano, el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos y desarrollar las actividades económicas, verbigracia: instalaciones hidráulicas para la distribución de agua potable, depósitos de agua, alcantarillados, cisternas, bombas y redes de distribución; instalaciones hidráulicas para el drenaje de aguas negras y pluviales, líneas de conducción, y almacenamientos; instalaciones eléctricas, estaciones, torres y cableados; banquetas, camellones y guarniciones; puentes peatonales y vehiculares; alumbrado público, faroles; carpeta asfáltica de calles y avenidas; tanques elevados y contenedores de basura, entre otros que pudiera determinar la Comisión en Pleno.
+
 ###### Artículo 246.
 
 El día de la elección y los tres que antecedan, no se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de campaña, propaganda o de proselitismo político-electoral.
 
 Durante los ocho días previos a la elección y hasta antes de las dieciocho horas del día de la jornada electoral, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas, o sondeos de opinión, o conteos rápidos, o cualquier otro ejercicio muestral, que tenga por objeto dar a conocer las preferencias electorales de los ciudadanos, tendencias de la votación o resultados de la elección. A quien o quienes infrinjan lo dispuesto en este párrafo se le aplicarán las sanciones previstas en este Código, sin perjuicio de las demás que pudieran corresponderles en razón de otras leyes.
 
-En los procesos electorales en los cuales también se elija al Gobernador del Estado, durante los tres días anteriores a la jornada electoral para la elección de Diputados y miembros de los Ayuntamientos, y durante el desarrollo de la misma, se suspenderá todo acto de campaña electoral referido a la elección de Gobernador, para reanudarse a las ocho horas del día siguiente de dicha jornada electoral.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
 
 El Consejo General, previo al inicio del proceso electoral, fijará y acordará los requisitos, bases y criterios técnicos y científicos a que se sujetarán las personas físicas o morales que ordenen o realicen los ejercicios muestrales previstos en el párrafo anterior.
 
@@ -3523,7 +3787,9 @@ El Instituto realizará las gestiones necesarias a fin de propiciar la transmisi
 
 El Instituto informará, en el tiempo de radio y televisión que para sus fines tenga asignado, la realización de los debates a que se refiere el presente artículo.
 
-### Capítulo VI. Del registro de candidatos
+### Capítulo IV. Del tope de gastos de precampaña
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 248.
 
@@ -3565,7 +3831,7 @@ IV. La duración de la campaña; y
 
 V. La densidad poblacional y condiciones geográficas.
 
-### Capítulo VII. De las campañas electorales
+### Capítulo V. De los informes de ingresos y gastos
 
 ###### Artículo 251.
 
@@ -3617,13 +3883,15 @@ II. Aprobar el proyecto de listas de ciudadanos que integrarán las mesas direct
 
 III. Ordenar la impresión de las listas de integración de las mesas directivas de casillas básicas, contiguas, extraordinarias y especiales y de los lugares de ubicación en el orden numérico progresivo de las secciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 255.
 
-El Consejo Distrital y Municipal Electoral, según la elección de que se trate, difundirá en el mes de mayo del año de la elección ordinaria, en cada municipio, numeradas progresivamente, por primera vez, el número de casilla electorales y su ubicación, así como los· nombre de sus integrantes.
+El Consejo Distrital o Municipal electoral difundirán en el mes de mayo del año de la elección ordinaria de Diputados y miembros de Ayuntamientos, en cada municipio y distrito, numeradas progresivamente, por primera vez, el número de casilla electorales y su ubicación, así como los nombres de sus integrantes.
 
-La difusión se hará fijando la lista correspondiente, en los edificios y lugares públicos más concurridos del Municipio o distrito según sea el caso.
+La difusión se hará fijando la lista correspondiente, en los edificios y lugares públicos más concurridos del municipio o distrito según sea el caso.
+
+Por lo que respecta a la elección de Gobernador del Estado, los Consejos Distritales Electorales difundirán en el mes de julio del año de la elección, en cada distrito, la lista de integrantes de mesas directivas de casilla que recibirán los votos en esa elección.
 
 El Secretario del Consejo correspondiente entregará una copia de la lista a cada uno de los partidos haciendo constar la entrega en el acta respectiva.
 
@@ -3637,7 +3905,7 @@ El Consejo respectivo difundirá, por segunda ocasión, con tres semanas de anti
 
 Si después de la segunda publicación ocurren causas supervenientes fundadas, el Consejo respectivo podrá hacer los cambios que se requieran a efecto de integrar totalmente las casillas y tratándose de la ubicación, mandará fijar avisos en los lugares excluidos indicando la nueva ubicación.
 
-### Capítulo VIII. De los topes de gasto de las campañas electorales
+### Capítulo VI. Del registro de candidatos
 
 ###### Artículo 258.
 
@@ -3721,7 +3989,7 @@ A fin de garantizar a los representantes generales y ante las casillas electoral
 
 Asimismo, para garantizar a los representantes de los partidos políticos su acreditación ante la mesa directiva que indique su nombramiento, el Presidente del Consejo Municipal electoral entregará al Presidente de cada mesa directiva de casilla, una relación de los representantes de los partidos políticos que tengan derecho a actuar en la casilla de que se trate, y el Consejo Distrital electoral entregará al Presidente de la casilla una lista de los representantes generales acreditados por conducto del Consejo Municipal respectivo. Tratándose de la elección de Gobernador del Estado, esta función la realizarán los Consejos Distritales.
 
-### Capítulo IX. De la integración y ubicación de las mesas directivas de casilla
+### Capítulo VII. De las campañas electorales
 
 ###### Artículo 265.
 
@@ -3791,7 +4059,7 @@ Los canceles, mamparas y demás elementos que garanticen que el elector pueda em
 
 ## Título Tercero. De la jornada electoral
 
-### Capítulo X. Del registro de representantes
+### Capítulo VIII. De los topes de gasto de las campañas electorales
 
 ###### Artículo 271.
 
@@ -3867,7 +4135,7 @@ V. El Consejo electoral respectivo así lo disponga por causa de fuerza mayor o 
 
 En los casos de cambio de casilla por causa justificada, el nuevo sitio deberá estar ubicado dentro de la misma sección y en el lugar adecuado más próximo debiendo dejar aviso visible de la nueva ubicación en el exterior del lugar original; debiéndose anotar los motivos en el apartado de incidencias del acta respectiva.
 
-### Capítulo XI. De la documentación y el material electoral
+### Capítulo IX. De la integración y ubicación de las mesas directivas de casilla
 
 ###### Artículo 275.
 
@@ -4001,7 +4269,7 @@ II. Causa por la que se cerró antes o después de las 18:00 horas.
 
 La votación podrá recogerse por medio de instrumentos electrónicos y/o máquinas, cuyo modelo sea aprobado por el Consejo General, siempre que se garantice la efectividad y el secreto del sufragio.
 
-### Capítulo I. De la instalación y apertura de casillas
+### Capítulo X. Del registro de representantes
 
 ###### Artículo 287.
 
@@ -4123,7 +4391,7 @@ Por fuera del paquete a que se refiere el párrafo cuarto del artículo preceden
 
 Cumplidas las acciones a que se refiere el presente artículo, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
 
-### Capítulo II. De la votación y cierre
+### Capítulo XI. De la documentación y el material electoral
 
 ###### Artículo 299.
 
@@ -4153,7 +4421,7 @@ El respectivo Consejo hará constar en el acta circunstanciada de recepción de 
 
 ## Título Cuarto. De los actos posteriores a la elección y los resultados electorales
 
-### Capítulo III. Del escrutinio y cómputo de la votación en casilla
+### Capítulo I. De la instalación y apertura de casillas
 
 ###### Artículo 301.
 
@@ -4171,7 +4439,7 @@ De la recepción de los paquetes que contengan los expedientes de casilla, se le
 
 Los representantes de los partidos políticos podrán contar con una copia legible del acta si así lo solicitan.
 
-### Capítulo IV. De la clausura de la Casilla y de la Remisión del Expediente
+### Capítulo II. De la votación y cierre
 
 ###### Artículo 302.
 
@@ -4189,7 +4457,7 @@ IV. Los representantes de los partidos políticos acreditados ante el Consejo, c
 
 Para el mejor conocimiento de los ciudadanos, el Presidente deberá fijar en el exterior del local del Consejo los resultados preliminares de las elecciones.
 
-### Capítulo I. Disposición preliminar
+### Capítulo III. Del escrutinio y cómputo de la votación en casilla
 
 ###### Artículo 304.
 
@@ -4253,7 +4521,7 @@ Los presidentes de los Consejos Municipales conservarán en su poder una copia c
 
 Asimismo, los presidentes tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de la documentación a que se refiere el artículo 296 de este Código, hasta la conclusión del proceso electoral se procederá a su destrucción.
 
-### Capítulo II. De la información preliminar de los resultados
+### Capítulo IV. De la clausura de la Casilla y de la Remisión del Expediente
 
 ###### Artículo 311.
 
@@ -4341,7 +4609,7 @@ Los presidentes de los Consejos Distritales conservarán en su poder una copia c
 
 Asimismo, los presidentes tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de los sobres que contengan la documentación a que se refiere el artículo 296 de este Código, hasta la conclusión del proceso electoral. Una vez concluido el proceso electoral, se procederá a su destrucción.
 
-### Capítulo III. Del cómputo municipal y de la declaración de validez de la elección de Ayuntamientos
+### Capítulo I. Disposición preliminar
 
 ###### Artículo 319.
 
@@ -4377,7 +4645,7 @@ Los errores contenidos en las actas originales de escrutinio y cómputo de casil
 
 En ningún caso podrá solicitarse al Tribunal Electoral que realice recuento de votos respecto de las casillas que hayan sido objeto de dicho procedimiento en los Consejos Distritales.
 
-### Capítulo IV. De los cómputos distritales y de la declaración de validez de la elección de Diputados
+### Capítulo II. De la información preliminar de los resultados
 
 ###### Artículo 324.
 
@@ -4411,7 +4679,7 @@ III. Remitir al órgano correspondiente del Congreso del Estado, copia certifica
 
 IV. Remitir al Tribunal Electoral, cuando se hubiere interpuesto, el medio de impugnación correspondiente en contra de la elección de Gobernador, así como copia certificada de las actas cuyos resultados fueren impugnados y de las actas del cómputo estatal, en los términos previstos en el Libro Sexto de este Código.
 
-### Capítulo V. Del recuento de votos en la totalidad de las casillas en las sesiones de cómputo distrital o municipal
+### Capítulo III. Del cómputo municipal y de la declaración de validez de la elección de Ayuntamientos
 
 ###### Artículo 327.
 
@@ -4429,7 +4697,7 @@ El Consejo General hará las asignaciones a que se refieren los artículos prece
 
 El Presidente del Consejo General expedirá a cada partido político las constancias de asignación proporcional, de lo que informará al correspondiente órgano del Congreso del Estado.
 
-### Capítulo VI. Del cómputo estatal y de la declaración de validez de la elección de Gobernador
+### Capítulo IV. De los cómputos distritales y de la declaración de validez de la elección de Diputados
 
 ###### Artículo 331.
 
@@ -4455,7 +4723,7 @@ El Congreso del Estado, con base en las resoluciones emitidas por los Consejos G
 
 ## Título Primero. De las faltas electorales y su sanción
 
-### Capítulo VII. De las constancias de asignación proporcional
+### Capítulo V. Del recuento de votos en la totalidad de las casillas en las sesiones de cómputo distrital o municipal
 
 ###### Artículo 334.
 
@@ -4519,9 +4787,15 @@ XII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo
 
 XIII. El acuerdo de no participación de sus candidatos electos en el Congreso del Estado;
 
-XIV. El acuerdo de no desempeñar los cargos de sus candidatos electos en los Ayuntamientos; y
+XIV. El acuerdo de no desempeñar los cargos de sus candidatos electos en los Ayuntamientos; y (sic)
 
-XV. La comisión de cualquier otra falta de las previstas en este Código.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XV. No retirar la propaganda desplegada en sus actos de precampaña y campaña, dentro de los plazos establecidos en el presente Código;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XVI. La Comisión de cualquier otra falta de las previstas en este Código.
 
 ###### Artículo 337.
 
@@ -4535,17 +4809,35 @@ II. El incumplimiento, en lo conducente, de cualquiera de las disposiciones cont
 
 Constituyen infracciones de los precandidatos o candidatos a cargos de elección popular al presente Código:
 
-I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+I. La realización de actos anticipados de precampaña o campaña, según sea el caso. Ésta conducta será sancionada con la pérdida de su derecho a ser registrado como candidato o en su caso la cancelación del registro respectivo;
 
 II. En el caso de los precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código;
 
-III. Omitir en los informes respectivos los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. Solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por este Código;
 
 IV. No presentar los informes de gastos establecidos en este Código, o presentarlos fuera de los plazos fijados para ello;
 
-V. Exceder los topes de gasto establecidos por el Instituto y la Comisión; y
+V. Exceder los topes de gasto establecidos por el Instituto y la Comisión; y (sic)
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VI. No retirar la propaganda desplegada en sus actos de precampaña y campaña, dentro de los plazos establecidos en el presente Código;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VII. En el caso de candidatos a un puesto de elección popular, no presentar declaración patrimonial, ni registrar las promesas de campaña;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Para los efectos de la fracción primera, se entenderán por actos de proselitismo anticipados de precampaña o campaña, cualquier actividad realizada por los ciudadanos, precandidatos, candidatos, partido político o coalición, fuera de los tiempos establecidos por la ley, con la finalidad de obtener prosélitos o promover la imagen o propuestas de una persona para obtener un cargo de elección popular, los cuales están prohibidos.
 
 ###### Artículo 339.
 
@@ -4565,7 +4857,9 @@ Constituyen infracciones de los observadores electorales, y de las organizacione
 
 I. El incumplimiento, según sea el caso, de las obligaciones establecidas en el artículo 15 de este Código; y
 
-II. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+II. El incumplimiento de cualquiera de las disposiciones contenidas en este Código y en el reglamento correspondiente.
 
 ###### Artículo 341.
 
@@ -4721,6 +5015,10 @@ Se considerará reincidente al infractor que habiendo sido declarado responsable
 
 Las multas deberán ser pagadas en el órgano que la Comisión destine al efecto; si el infractor no cumple con su obligación, la Comisión dará vista a las autoridades hacendarias y al Consejo General, a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Una vez ejecutado el cobro de la multa por la Autoridad Hacendaria o el Consejo General, entregarán el monto de las mismas a la Comisión.
+
 ###### Artículo 351.
 
 Se impondrá suspensión de derechos políticos hasta por seis años, a quienes electos Diputados o regidores, no se presenten sin causa justificada a desempeñar el cargo en el plazo señalado en la Constitución Particular.
@@ -4729,7 +5027,7 @@ Se impondrá suspensión de derechos políticos hasta por seis años, a quienes 
 
 Cuando alguno de los actos señalados en el presente Capítulo entrañe la comisión de cualesquiera de los delitos previstos en la legislación penal, independientemente de las sanciones establecidas en este Código, el Instituto o la Comisión podrán formular denuncia o querella ante la autoridad competente, a fin de que se realicen las diligencias pertinentes y en su caso, se ejercite la acción penal respectiva.
 
-### Capítulo VIII. De la calificación de las elecciones
+### Capítulo VI. Del cómputo estatal y de la declaración de validez de la elección de Gobernador
 
 ###### Artículo 353.
 
@@ -4737,11 +5035,15 @@ La Comisión, es el órgano competente para la sustanciación, resolución y san
 
 Los Consejos General, Distritales y Municipales, así como la Junta General Ejecutiva y las Direcciones Ejecutivas del Instituto, en sus respectivos ámbitos de competencia, fungirán como órganos auxiliares, para la tramitación de los procedimientos sancionadores.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La Comisión en el ámbito de su competencia, gozará de las más amplias facultades para que de oficio proceda a las investigaciones que correspondan a cada caso en particular y recaben por sí las pruebas e información necesaria para el esclarecimiento de los hechos o eventos denunciados, sin menoscabo de las pruebas que ofrezcan las partes.
+
 ###### Artículo 354.
 
 Para el trámite, sustanciación y resolución de las quejas y denuncias, en cuanto no contravenga lo dispuesto en el presente Libro, respecto de notificaciones, plazos, medios de apremio, pruebas, valoración de éstas y acumulación de quejas o denuncias, deberá de aplicarse en lo conducente lo establecido al respecto en el Libro Sexto, Título Segundo de este Código.
 
-### Capítulo I. Sujetos, conductas sancionables y sanciones
+### Capítulo VII. De las constancias de asignación proporcional
 
 ###### Artículo 355.
 
@@ -4749,9 +5051,15 @@ El procedimiento para el conocimiento de las faltas y aplicación de sanciones a
 
 La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años, contados a partir del día en que aquélla tenga conocimiento de la infracción.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El procedimiento administrativo sancionador ordinario también se iniciará por las conductas previstas en el artículo 364 del presente Código y en períodos interprocesos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 356.
 
-Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante la Comisión. Las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
+Cualquier persona, podrá presentar denuncias por presuntas violaciones a la normatividad electoral ante la Comisión. Las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho. Las quejas solo podrán ser presentadas por los partidos políticos a través de sus representantes, cuando sufran afectación directa en la esfera de sus derechos. Se entiende por denuncia el conocimiento oportuno que se haga a la autoridad sobre ciertos hechos que puedan trasgredir la legislación electoral y por queja, aquellos que sean puestos en conocimiento de la autoridad por quien resulte directamente afectado acredite el interés jurídico.
 
 La queja o denuncia podrá ser presentada por escrito o en forma oral y deberá cumplir con los siguientes requisitos:
 
@@ -4767,7 +5075,9 @@ V. Ofrecer y aportar las pruebas con que se cuenten, o en su caso, mencionar las
 
 VI. Tratándose de los partidos políticos, sólo se admitirán quejas o denuncias presentadas por escrito. En caso de que los representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.
 
-Ante la omisión de cualquiera de los requisitos señalados en las fracciones II a la VI de este artículo, la Comisión prevendrá al promovente para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su queja o denuncia, cuando ésta sea imprecisa, genérica o irregular. La queja o denuncia se tendrá como no interpuesta, cuando ésta no especifique el nombre del promoverte (sic), no incluya la firma autógrafa o huella digital o cuando no se hayan atendido en tiempo y forma, los requerimientos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+La presentación de la denuncia, no vincula en carácter de parte al que la realice, por tratarse de cuestiones de interés público, pudiendo únicamente constituirse como coadyuvante en la acreditación de la infracción. Ante la omisión de cualquiera de los requisitos señalados en las fracciones II a la VI de este artículo, la Comisión prevendrá al promovente para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su queja o denuncia, cuando ésta sea imprecisa, genérica o irregular. La queja o denuncia se tendrá como no interpuesta, cuando ésta no especifique el nombre del promovente, no incluya la firma autógrafa o huella digital o cuando no se hayan atendido en tiempo y forma, los requerimientos a que se refiere el párrafo anterior.
 
 Cuando la denuncia o queja sea interpuesta vía fax, telefónica, telegráfica o electrónica, el promovente deberá ratificarla en un término de tres días contados a partir de su presentación, en (sic) caso se le tendrá por no interpuesta.
 
@@ -4845,7 +5155,7 @@ La Comisión podrá solicitar a las autoridades federales, estatales o municipal
 
 Concluido el desahogo de pruebas y, en su caso, agotada la investigación, la Comisión pondrá el expediente a la vista del quejoso y del denunciado para que, en un plazo de cinco días, formulen los alegatos que estimen convenientes. Transcurrido el plazo a que se refiere el párrafo anterior procederá a emitir la resolución correspondiente, en un término no mayor a diez días.
 
-### Capítulo II. De los procedimientos administrativos
+### Capítulo VIII. De la calificación de las elecciones
 
 ###### Artículo 364.
 
@@ -4915,75 +5225,39 @@ Cuando se tratare de propaganda política o electoral en radio y televisión lo 
 
 Asimismo, tomará todas las medidas necesarias para restaurar el orden jurídico violentado.
 
-### Capítulo III. Del procedimiento sancionador ordinario
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo I. Sujetos, conductas sancionables y sanciones
 
 ###### Artículo 369.
 
-La Comisión es el órgano competente para la tramitación, sustanciación y resolución de quejas sobre financiamiento y gasto de los partidos políticos, así como, en su caso, de las asociaciones políticas estatales.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 370.
 
-A falta de disposición expresa en el presente capítulo, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento sancionador previsto en los Capítulos II y III del presente Título, así como lo regulado en el Libro Sexto de este Código.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 371.
 
-El escrito por el que se presente la queja deberá contener la narración de los hechos que la motivan y aportar los elementos de prueba o indicios con los que cuente el denunciante.
-
-Las resoluciones pronunciadas por la Comisión, relativas a los informes de gasto, podrán ser recurridas mediante quejas o denuncias hasta un año posterior a la publicación de éstas en el Periódico Oficial.
-
-La autoridad electoral orientará a la ciudadanía sobre el trámite de las quejas o denuncias.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 372.
 
-La Comisión podrá desechar la queja, de plano, en los siguientes casos:
-
-I. Si los hechos narrados resultan notoriamente frívolos o inverosímiles, o si siendo ciertos, carecen de sanción legal;
-
-II. Si la queja no cumple con los requisitos establecidos en el artículo 403, fracciones II, III, IV y VIII del presente Código;
-
-III. Si la queja no se hace acompañar de elemento probatorio alguno, aun con valor indiciario, que respalde los hechos que denuncia; o
-
-IV. Si por cualquier otro motivo la queja resulta notoriamente improcedente.
-
-El desechamiento de una queja, con fundamento en lo establecido en el párrafo anterior, no prejuzga sobre el fondo del asunto, y no se constituye en obstáculo para que la Comisión pueda ejercer sus atribuciones legales.
-
-En caso de que la queja cumpla con los requisitos formales y no se presente alguna causa de desechamiento, la Comisión notificará al partido denunciado, del inicio del procedimiento respectivo, corriéndole traslado con el escrito de queja y los elementos probatorios presentados por el denunciante.
-
-La Comisión, a fin de allegarse de los elementos de convicción que estime pertinentes, podrá solicitar al Consejo General que instruya a los órganos ejecutivos, centrales o desconcentrados del propio Instituto, para que lleven a cabo las diligencias probatorias o recaben las pruebas necesarias.
-
-Con la misma finalidad, solicitaría el apoyo de las autoridades competentes para que entreguen las pruebas que obren en su poder, o para que le permitan obtener la información que se encuentre reservada o protegida por el secreto fiscal, bancario o fiduciario. En este último caso, deberá establecer medidas para el resguardo de la información que le sea entregada. Las autoridades están obligadas a responder tales requerimientos en un plazo máximo de diez días hábiles, mismos que, por causa justificada, podrá ampliarse cinco días.
-
-También podrá requerir a los particulares, personas físicas y morales, le proporcionen la información y documentos necesarios para la investigación; los requeridos deberán responder en el plazo señalado en el párrafo anterior.
-
-La Comisión podrá ordenar, en el curso de la revisión que se practique de los informes ordinarios, de precampaña o de campaña de los partidos políticos nacionales, se realicen las verificaciones a que haya lugar en relación con las quejas correspondientes a cada uno de dichos ejercicios; asimismo, podrá solicitar informe detallado al partido denunciado, y requerirle la entrega de información y documentación que juzgue necesaria.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 373.
 
-Una vez realizados los actos a que se refiere el artículo anterior, se emplazará al partido denunciado, corriéndole traslado con todos los elementos que integren el expediente respectivo, para que en un término de cinco días contados a partir de la fecha en que surta efecto la notificación, conteste por escrito.
-
-En la contestación, el partido denunciado podrá exponer lo que a su derecho convenga, se referirá a los hechos mencionados en la denuncia o queja, y ofrecerá y exhibirá pruebas, con excepción de la testimonial y la de posiciones, debiendo relacionarlas con los hechos, y presentar las alegaciones que estime procedentes.
-
-Agotada la instrucción, se pronunciará la resolución correspondiente en un término no mayor a sesenta días naturales, contados a partir de la recepción de la queja o denuncia, con excepción de aquellos asuntos en que por la naturaleza de las pruebas ofrecidas o de las investigaciones que se realicen, se justifique la ampliación del plazo indicado, que no podrá exceder del término indicado.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 ###### Artículo 374.
 
-La Comisión procederá a imponer, en su caso, las sanciones correspondientes.
-
-Para fijar la sanción se tomarán en cuenta las circunstancias y la gravedad de la falta, conforme a lo siguiente:
-
-I. Se entenderá por circunstancias el tiempo, modo y lugar en el que se produjo la falta;
-
-II. Para determinar la gravedad de la falta se analizará la importancia de la norma transgredida y los efectos que genere respecto de los objetivos y los bienes jurídicos tutelados por la norma; y
-
-III. En caso de reincidencia, se aplicará una sanción más severa.
-
-Si durante la substanciación de alguna queja se advierte la violación a ordenamientos legales ajenos a la competencia de la Comisión, ésta dará vista a las autoridades competentes.
+(DEROGADO, P.O. 11 DE MAYO DE 2011)
 
 # Libro Sexto. Del Sistema de Medios de Impugnación
 
 ## Título Primero. Disposiciones generales
 
-### Capítulo IV. Del procedimiento especial
+### Capítulo II. De los procedimientos administrativos
 
 ###### Artículo 375.
 
@@ -4999,7 +5273,7 @@ Para la resolución de los medios de impugnación previstos en este Código, las
 
 ## Título Segundo. De los medios de impugnación y de las reglas comunes
 
-### Capítulo V. Del procedimiento en materia de quejas sobre financiamiento y gasto de los partidos políticos
+### Capítulo III. Del procedimiento sancionador ordinario
 
 ###### Artículo 378.
 
@@ -5063,7 +5337,7 @@ El Tribunal Electoral es la máxima autoridad jurisdiccional en la materia, reso
 
 Las autoridades estatales y municipales, así como los ciudadanos, partidos políticos, coaliciones, candidatos, organizaciones y asociaciones políticas o de ciudadanos, que con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en este Código, no cumplan las disposiciones del mismo o desacaten las resoluciones que dicte el Tribunal Electoral, la Comisión o el Instituto, serán sancionados en términos del presente ordenamiento.
 
-### Capítulo Único. De los criterios de interpretación
+### Capítulo IV. Del procedimiento especial
 
 ###### Artículo 387.
 
@@ -5079,7 +5353,7 @@ Los términos para promover los medios de impugnación previstos en este Código
 
 Sin excepción, los términos deberán computarse a partir del momento en que se hubiese notificado la resolución correspondiente, o se tenga conocimiento del acto impugnado.
 
-### Capítulo I. Del sistema de medios de impugnación
+### Capítulo V. Del Procedimiento en Materia de Quejas sobre Financiamiento y Gasto de los Partidos Políticos
 
 ###### Artículo 389.
 
@@ -5193,7 +5467,7 @@ I. Se fijará copia autorizada del auto, acuerdo o sentencia, así como de la c�
 
 II. Los proveídos de referencia permanecerán en los estrados durante un plazo mínimo de tres días, asentándose la razón de su retiro.
 
-### Capítulo II. De los plazos y de los términos
+### Capítulo Único. De los criterios de interpretación
 
 ###### Artículo 403.
 
@@ -5217,7 +5491,7 @@ VIII. Ofrecer y aportar las pruebas dentro de los plazos establecidos para la pr
 
 Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VIII que antecede.
 
-### Capítulo III. De las notificaciones
+### Capítulo I. Del sistema de medios de impugnación
 
 ###### Artículo 404.
 
@@ -5265,7 +5539,7 @@ III. Habiendo sido admitido el medio de impugnación correspondiente, aparezca o
 
 El sobreseimiento producirá el efecto de dejar incólume el acto o resolución impugnado.
 
-### Capítulo IV. De los requisitos en la presentación de los medios de impugnación
+### Capítulo II. De los plazos y de los términos
 
 ###### Artículo 406.
 
@@ -5279,7 +5553,7 @@ III. Los terceros interesados, que pueden ser, el partido político, la coalici�
 
 Para los efectos de las fracciones I y III que anteceden, se entenderá por promovente al actor que presente un medio de impugnación y por compareciente al tercero interesado que presente un escrito, ya sea que lo hagan por sí mismos o a través de la persona que los represente, siempre y cuando justifiquen plenamente estar legitimados para ello.
 
-### Capítulo V. De la improcedencia y del sobreseimiento
+### Capítulo III. De las notificaciones
 
 ###### Artículo 407.
 
@@ -5309,7 +5583,7 @@ VI. Los ciudadanos, cuando se trate de impugnar actos o resoluciones emitidos co
 
 VII. El servidor público del Instituto, del Tribunal Electoral o de la Comisión cuando a su juicio, considere haber sido afectado en sus derechos y prestaciones laborales.
 
-### Capítulo VI. De las partes
+### Capítulo IV. De los requisitos en la presentación de los medios de impugnación
 
 ###### Artículo 408.
 
@@ -5401,7 +5675,7 @@ El Magistrado responsable de la instrucción, podrá acordar que se practiquen d
 
 Para el oportuno desahogo de las pruebas a que se refiere este Capítulo, las autoridades y los órganos electorales deberán expedir, sin dilación alguna, las que obren en su poder inmediatamente de que se las soliciten.
 
-### Capítulo VII. De la legitimación activa y personería
+### Capítulo V. De la improcedencia y del sobreseimiento
 
 ###### Artículo 421.
 
@@ -5469,7 +5743,7 @@ El incumplimiento por parte de las autoridades electorales o partidistas, de las
 
 ## Título Tercero. De la sustanciación
 
-### Capítulo VIII. De las pruebas
+### Capítulo VI. De las partes
 
 ###### Artículo 426.
 
@@ -5507,7 +5781,7 @@ Si la autoridad responsable incumple con la obligación prevista en el artículo
 
 ## Título Cuarto. De los medios de impugnación
 
-### Capítulo IX. Del trámite de los medios de impugnación
+### Capítulo VII. De la legitimación activa y personería
 
 ###### Artículo 429.
 
@@ -5543,7 +5817,7 @@ II. Al órgano electoral responsable cuyo acto o resolución fue impugnado, se l
 
 III. A los terceros interesados, por estrados o por correo certificado.
 
-### Capítulo Único. Reglas generales
+### Capítulo VIII. De las pruebas
 
 ###### Artículo 433.
 
@@ -5563,7 +5837,7 @@ V. En contra de los actos y resoluciones de las demás autoridades en los térmi
 
 Es competente para conocer y resolver sobre el juicio de inconformidad, el Tribunal Electoral, cuyos integrantes dictarán resolución en forma definitiva dentro del plazo máximo de tres días, después de que se declare cerrada la instrucción.
 
-### Capítulo I. Recurso de revisión
+### Capítulo IX. Del trámite de los medios de impugnación
 
 ###### Artículo 435.
 
@@ -5623,7 +5897,7 @@ II. Para la elección de Diputados, a más tardar el día treinta y uno de agost
 
 III. Para la elección de miembros de Ayuntamientos, a más tardar el día treinta y uno de agosto.
 
-### Capítulo II. Juicio de Inconformidad
+### Capítulo Único. Reglas generales
 
 ###### Artículo 440.
 
@@ -5677,7 +5951,7 @@ En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impug
 
 ## Título Quinto. Del juicio laboral entre el Instituto, la Comisión y el Tribunal Electoral con sus respectivos servidores
 
-### Capítulo III. Del Juicio de Nulidad Electoral
+### Capítulo I. Recurso de revisión
 
 ###### Artículo 444.
 
@@ -5749,7 +6023,7 @@ Se celebrará una audiencia de conciliación entre las partes, dentro de los cin
 
 De no lograr la conciliación a que alude el párrafo anterior, se celebrará una audiencia de admisión y desahogo de pruebas y alegatos, dentro de los diez días hábiles siguientes, la que se llevará a cabo con o sin la asistencia de las partes.
 
-###### Artículo 454
+###### Artículo 454.
 
 El Magistrado responsable de la instrucción, en la audiencia a que se refiere el artículo anterior, determinará la admisión de las pruebas que estime pertinentes, ordenando el desahogo de las que lo requieran, desechando aquellas que resulten notoriamente incongruentes o contrarias al derecho o a la moral o que no tengan relación con la litis.
 
@@ -5781,7 +6055,7 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ## Título Sexto. De las nulidades
 
-### Capítulo IV. Del Juicio para la Protección de los Derechos Político Electorales del Ciudadano
+### Capítulo II. Juicio de Inconformidad
 
 ###### Artículo 461.
 
@@ -5821,7 +6095,7 @@ Cuando proceda la nulidad de una elección, el Tribunal Electoral dará cuenta d
 
 Los partidos políticos o candidatos no podrán invocar en el juicio de inconformidad contra resultados de las elecciones, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
-### Capítulo Único. Del procedimiento
+### Capítulo III. Del Juicio de Nulidad Electoral
 
 ###### Artículo 468.
 
@@ -5849,7 +6123,7 @@ X. Por entregar, sin que exista causa justificada, al Consejo respectivo el paqu
 
 XI. Cuando existan irregularidades graves plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que en forma evidente pongan en duda la certeza de la votación.
 
-### Capítulo I. De las reglas generales
+### Capítulo IV. Del Juicio para la Protección de los Derechos Político Electorales del Ciudadano
 
 ###### Artículo 469.
 
@@ -5887,7 +6161,7 @@ Las elecciones cuyos cómputos, constancias de mayoría o de asignación no sean
 
 Los partidos políticos o coaliciones no podrán invocar en su favor, en ningún medio de impugnación, causas de nulidad, hechos o circunstancias que dolosamente hubiesen provocado.
 
-### Capítulo II. De la nulidad de la votación recibida en una casilla
+### Capítulo Único. Del procedimiento
 
 ###### Artículo 472.
 
@@ -5913,7 +6187,7 @@ Para los efectos de lo dispuesto en el presente artículo, el hecho que algún r
 
 ## Título Séptimo. Del trámite jurisdiccional y de las resoluciones
 
-### Capítulo III. De la nulidad de la elección
+### Capítulo I. De las reglas generales
 
 ###### Artículo 473.
 
@@ -5939,7 +6213,7 @@ Los expedientes que se integren con motivo de los medios de impugnación present
 
 Los magistrados responsables de la instrucción, vigilarán todos los trámites legales y jurisdiccionales que deban efectuarse en los expedientes que se turnen, desde el momento en que se informe de la recepción hasta la conclusión del medio impugnativo.
 
-### Capítulo IV. Del recuento de la elección
+### Capítulo II. De la nulidad de la votación recibida en una casilla
 
 ###### Artículo 479.
 
@@ -5965,7 +6239,7 @@ Cuando se remitan al Tribunal Electoral, en un mismo expediente, asuntos que por
 
 Del mismo modo, operará la escisión, cuando en el curso de un proceso existan expedientes acumulados y se descubra la incompatibilidad de las pretensiones, con independencia de la posibilidad de que los respectivos procesos deban sustanciarse sucesivamente o simultáneamente. En este caso, el Magistrado que conozca de los asuntos tendrá la obligación de sustanciar y resolver en cuerda separada los asuntos turnados, razonando en autos de cada expediente los motivos de su decisión.
 
-### Capítulo I. Del trámite ante el Tribunal Electoral
+### Capítulo III. De la nulidad de la elección
 
 ###### Artículo 483.
 
@@ -5975,7 +6249,7 @@ Los Magistrados deberán abstenerse de conocer e intervenir en la sustanciación
 
 Las excusas serán calificadas por el Pleno del Tribunal Electoral, conforme a lo señalado en el Código de Organización del Poder Judicial del Estado de Chiapas.
 
-### Capítulo II. De la acumulación y escisión de expedientes
+### Capítulo IV. Del recuento de la elección
 
 ###### Artículo 485.
 
@@ -5995,7 +6269,7 @@ En las resoluciones, se hará constar si fueron votadas por unanimidad o por may
 
 Fallado un asunto, se turnará la resolución al Secretario General de Acuerdos y del Pleno para que recabe las firmas autógrafas de los magistrados integrantes del Pleno, a fin de que sea notificada por el actuario del Tribunal Electoral en la forma y términos que en ella se precise.
 
-### Capítulo III. De los impedimentos y de las excusas
+### Capítulo I. Del trámite ante el Tribunal Electoral
 
 ###### Artículo 489.
 
@@ -6091,7 +6365,7 @@ Quedará a criterio de la autoridad electoral respectiva la aplicación de una m
 
 Contra la imposición de multas, no procede medio impugnativo alguno.
 
-### Capítulo IV. Presentación del proyecto de resolución
+### Capítulo II. De la acumulación y escisión de expedientes
 
 ###### Artículo 497.
 
@@ -6105,7 +6379,7 @@ Los criterios emitidos por el Tribunal Electoral obligarán a las autoridades el
 
 ## Título Octavo. De los medios de apremio y de las correcciones disciplinarias
 
-### Capítulo V. De las resoluciones
+### Capítulo III. De los impedimentos y de las excusas
 
 ###### Artículo 498.
 
@@ -6139,13 +6413,13 @@ Cuando se trate de funcionarios del Instituto o de la Comisión, además de la s
 
 ## Título Primero. Disposiciones generales
 
-### Capítulo VI. De los criterios del Tribunal Electoral
+### Capítulo IV. Presentación del proyecto de resolución
 
 ###### Artículo 501.
 
 Las disposiciones de este Libro son de orden e interés público y de observancia general en el Estado de Chiapas en materia de participación ciudadana, tiene por objeto fomentar, promover, instituir y regular los mecanismos e instrumentos de participación ciudadana; a través de los cuales los habitantes chiapanecos pueden organizarse para relacionarse entre sí y con los distintos órganos de Gobierno del Estado de Chiapas.
 
-### Capítulo Único. De los medios de apremio
+### Capítulo V. De las resoluciones
 
 ###### Artículo 502.
 
@@ -6207,7 +6481,7 @@ III. Las demás que en materia de participación ciudadana les impongan ésta y 
 
 ## Título Segundo. De los instrumentos de participación ciudadana
 
-### Capítulo I
+### Capítulo VI. De los criterios del Tribunal Electoral
 
 ###### Artículo 508.
 
@@ -6241,7 +6515,7 @@ II. Ejercer sus derechos sin perturbar el orden y la tranquilidad públicos; y
 
 III. Las demás que establezcan éste Código y otras leyes.
 
-### Capítulo II. De los sujetos de la participación ciudadana
+### Capítulo Único. De los medios de apremio
 
 ###### Artículo 510.
 
@@ -6337,7 +6611,7 @@ VI. Los demás elementos de información que se estimen pertinentes.
 
 La Comisión vigilará que se cumpla en todo momento, los tiempos, contenidos y formas de las campañas a que se refiere la fracción V de este artículo, sancionando en su caso a los sujetos infractores.
 
-### Capítulo III. De los derechos y obligaciones de los habitantes chiapanecos
+### Capítulo I
 
 ###### Artículo 519.
 
@@ -6413,19 +6687,19 @@ Los resultados del plebiscito tendrán carácter vinculatorio para el Gobernador
 
 Las controversias que se generen con motivo de la validez del plebiscito o del referendo y de sus resultados vinculantes, serán resueltas por el Tribunal Electoral.
 
-### Capítulo IV. De los derechos y obligaciones de los ciudadanos
+### Capítulo II. De los sujetos de la participación ciudadana
 
 ###### Artículo 528.
 
 La iniciativa popular es un mecanismo mediante el cual los ciudadanos del Estado de Chiapas presentan al Poder Legislativo del Estado proyectos de creación, modificación, reforma, derogación o abrogación de leyes o decretos o de carácter general dentro del ámbito de su competencia.
 
-### Capítulo I. Del plebiscito
+### Capítulo III. De los derechos y obligaciones de los habitantes chiapanecos
 
 ###### Artículo 529.
 
 No podrán ser objeto de Iniciativa Popular, las materias que tampoco lo son para el referendo, en términos del artículo 524 de este Código.
 
-### Capítulo II. Del referendo
+### Capítulo IV. De los derechos y obligaciones de los ciudadanos
 
 ###### Artículo 530.
 
@@ -6439,9 +6713,7 @@ III. Presentación de una exposición de motivos que exponga las razones y funda
 
 IV. Presentación de un articulado que cumpla con los principios básicos de técnica jurídica.
 
-### Capítulo III. Disposiciones comunes del plebiscito y del referendo
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+### Capítulo I. Del plebiscito
 
 ###### Artículo 531.
 
@@ -6575,6 +6847,12 @@ Toda entidad u organismo público deberá instrumentar los mecanismos necesarios
 
 Si por exigencias de construcción gramatical, enumeración, orden u otra circunstancia en este Código se usa el género masculino, ello deberá ser interpretado en un sentido igualitario para hombre y mujeres, de modo que éstas y aquéllos puedan adquirir toda clase de derechos y contraer igualmente toda clase de deberes jurídicos.
 
+### Capítulo II. Del referendo
+
+### Capítulo III. Disposiciones comunes del plebiscito y del referendo
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ### Capítulo IV. De la iniciativa popular
 
 ### Capítulo V. De la consulta ciudadana
@@ -6670,3 +6948,15 @@ P.O. 17 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil once.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto. El ejecutivo del Estado dispondrá se publique, circula (sic) y se le dé el debido cumplimiento.
+
+Artículo Tercero.- Todos los procedimientos iniciados antes de la publicación y entrada en vigor de las presentes reformas, se desahogaran y resolverán conforme a la legislación anterior.
+
+Artículo Cuarto.- Las anteriores atribuciones conferidas al Presidente de la Comisión, previas a las presentes reformas, se entenderán conferidas al nuevo titular para los efectos de la sustanciación y resolución de los procedimientos iniciados con antelación a dichas reformas y las de cuestiones administrativas.
+
+Artículo Quinto.- Los reglamentos, acuerdos, circulares y lineamientos expedidos antes de las reformas seguirán vigentes en todo lo que no se oponga a las mismas.
