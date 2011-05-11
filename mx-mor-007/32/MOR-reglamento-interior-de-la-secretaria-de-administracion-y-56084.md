@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-administracion-y-56084"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2007-06-22"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y SISTEMAS DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO, DEL REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DEL AYUNTAMIENTO DE CUERNAVACA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 11 DE MAYO DE 2011., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -584,3 +586,21 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo que edita el Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Administración y Sistemas del Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y Libertad", número 4550 de fecha 22 de junio de 2007.
+
+TERCERO.- En un plazo que no exceda de treinta días naturales siguientes a la entrada en vigor del Presente Reglamento, deberán nombrarse los enlaces de las dependencias de la administración pública municipal para conformar las unidades informáticas internas al que hace referencia el ordenamiento en cita.
+
+CUARTO.- La Oficialía Mayor contará con sesenta días naturales contados a partir del día siguiente de la entrada en vigencia del presente reglamento, para emir (sic) o refrendar los manuales de organización, políticas y procedimientos de dicha oficialía.
+
+QUINTO.- En tanto se expiden los manuales que se refieren en el presente reglamento, seguirán aplicándose los que se encuentran en vigor y el Oficial Mayor queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+SEXTO.- Publíquese en la Gaceta Municipal del Ayuntamiento de Cuernavaca, Morelos
+
+SÉPTIMO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Reglamento.
