@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-previene-y-combate-la-discriminacion-en-el-estado-68449
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2009-04-03"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE PREVIENE Y COMBATE LA DISCRIMINACION EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 3 de abril de 2009.
 
@@ -53,9 +53,13 @@ El objeto de la presente Ley es prevenir y combatir toda forma de discriminació
 
 ### Capítulo II. Definición de Discriminación
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta ley, se entiende por discriminación toda distinción, exclusión o restricción que basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, el idioma, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, el color, los patrones de conducta social, o cualquier otra, tenga por objeto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de los individuos y la igualdad real de oportunidades de estos últimos.
+Para los efectos de esta ley, se entiende por discriminación toda distinción, exclusión o restricción que basada en el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, el embarazo, el idioma, las ideologías o creencias religiosas, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, el color, los patrones de conducta social, o cualquier otra que tenga por objeto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de los individuos y la igualdad real de oportunidades de estos últimos.
+
+Asimismo, serán considerados como discriminación, la xenofobia y el antisemitismo, en cualquiera de sus manifestaciones.
 
 ### Capítulo III. Prohibición de las Prácticas Discriminatorias
 
@@ -71,9 +75,11 @@ Toda discriminación o toda intolerancia serán combatidas, toda vez que constit
 
 Toda autoridad, órgano público estatal o municipal y servidor público que actúe o se desempeñe en el Estado de Chiapas, con independencia de la esfera pública a que pertenezca, deberá abstenerse de efectuar prácticas discriminatorias por acción u omisión, y deberá eliminar aquellos obstáculos que limiten su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y de la entidad.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 7.
 
-Es obligación de las personas física (sic) que habiten de forma temporal o permanente, o que se encuentren en tránsito en el territorio estatal, y de las personas morales que realicen actividades sociales, empresariales o comerciales en el mismo, abstenerse de efectuar prácticas discriminatorias, ya sea por acción o por omisión.
+Es obligación de las personas físicas que habiten de forma temporal o permanente, o que se encuentren en tránsito en el territorio estatal, y de las personas morales que realicen actividades sociales, empresariales o comerciales en el mismo, abstenerse de efectuar prácticas discriminatorias, ya sea por acción o por omisión.
 
 ### Capítulo IV. Conductas que no se Consideran Discriminatorias
 
@@ -101,9 +107,11 @@ IX. En general, todas las que no tengan el propósito de anular o menoscabar los
 
 ### Capítulo V. Autoridades encargadas de la aplicación de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 9.
 
-Corresponde la aplicación la presente Ley:
+Corresponde la aplicación de la presente Ley:
 
 I. Al titular del Poder Ejecutivo del Estado de Chiapas;
 
@@ -117,7 +125,9 @@ V. A los Ayuntamientos de los Municipios que constituyen el Estado de Chiapas en
 
 VI. A las dependencias, entidades y órganos que conforman la administración pública estatal y municipal; y,
 
-VII. A la Comisión Estatal de los Derechos Humanos de Chiapas, a quien le compete integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria y suficiente, así como los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+VII. Al Consejo Estatal de los Derechos Humanos de Chiapas, a quien le compete integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria y suficiente, así como los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo VI. Interpretación de la Ley y Supletoriedad
 
@@ -607,6 +617,8 @@ XII. Informar y asesorar a los profesionales de la construcción acerca de los r
 
 XIII. Asegurar que las vías públicas cuenten con señalamientos adecuados para permitirles el libre tránsito;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2011)</small>
+
 XIV. Promover que en las instituciones de educación superior se establezcan programas educativos para el trato con discapacitados;
 
 XV. Garantizar que en todas las unidades del sistema de salud y de seguridad social reciban regularmente el tratamiento y los medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida; y,
@@ -625,7 +637,9 @@ II. Crear un sistema de becas que fomenten la alfabetización, la conclusión de
 
 III. Garantizar el acceso a los servicios de salud pública;
 
-IV. Garantizar a lo largo de cualquier proceso legal, el derecho a ser asistidos; si así lo solicitaran, se facilitará la asistencia de intérpretes y defensores que tengan conocimiento de su lengua o dialecto;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. Garantizar a lo largo de cualquier proceso legal, el derecho a ser asistidos; si así lo solicitaran, se facilitará la asistencia de intérpretes y defensores que tengan conocimiento de su idioma, lengua o dialecto;
 
 V. Emprender campañas permanentes en los medios de información acerca de sus derechos y el respeto a las culturas indígenas, en el marco de los derechos humanos y las garantías individuales;
 
@@ -635,7 +649,9 @@ VII. Preferir en el marco de las leyes penales, cuando se apliquen sanciones a i
 
 VIII. Promover programas permanentes de capacitación y actualización para los funcionarios públicos sobre la diversidad cultural de las comunidades indígenas;
 
-IX. Garantizar que en todos los juicios y procedimientos en que sea parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificaciones culturales, respetando los preceptos de la Constitución; y,
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IX. Garantizar que en todos los juicios y procedimientos en que sea parte algún miembro de las comunidades indígenas, se tomen en cuenta sus costumbres y especificaciones culturales, respetando los preceptos de la Constitución; y,
 
 X. Las demás que se contemplen en las leyes de la materia de carácter federal y estatal.
 
@@ -707,7 +723,9 @@ I. Consolidar programas a favor de los migrantes, a efecto de crear una cultura 
 
 II. Establecer programas de orientación y atención de quejas y denuncias;
 
-III. Garantizar los derechos de los trabajadores migratorios, así como la protección para que sus hijo (sic) tengan acceso a los servicios de salud y educación, con el fin de evitar la explotación infantil;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+III. Garantizar los derechos de los trabajadores migratorios, así como la protección para que sus hijos tengan acceso a los servicios de salud y educación, con el fin de evitar la explotación infantil;
 
 IV. Garantizar a lo largo de cualquier proceso legal, el derecho a ser asistidos, y si así lo solicitaran, se facilitará la asistencia de intérpretes y defensores que tengan conocimiento de su lengua;
 
@@ -791,7 +809,9 @@ III. Un Consejero representante de la Legislatura estatal, que será un Diputado
 
 IV. Un Consejero representante del Tribunal Superior de Justicia del Estado, que será el Presidente del mismo, o un Juez o Magistrado seleccionado por el Consejo de la Judicatura;
 
-V. Un Consejero representante de cada uno de los Ayuntamientos, que será el Presidente Municipal o, en su caso, un munícipe seleccionado de entre los miembros de la comisión relacionada con los derechos humanos;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+V. Un Consejero representante de cada uno de los Ayuntamientos, que será el Presidente Municipal, o en su caso, el miembro del Ayuntamiento que para tal efecto él designe;
 
 VI. Un Consejero representante de la Universidad Autónoma de Chiapas, que deberá ser un investigador de reconocido prestigio; y,
 
@@ -851,13 +871,17 @@ Para el cumplimiento de su objeto el Consejo Estatal tendrá las atribuciones si
 
 I. Asesorar al Gobernador y, subsidiariamente, a los Ayuntamientos para la implementación de políticas públicas, proyectos y programas para prevenir y combatir la discriminación;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2011)</small>
+
 II. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir y combatir la discriminación;
 
 III. Difundir y promover contenidos para prevenir y combatir las prácticas discriminatorias en cualquier orden;
 
 IV. Solicitar a cualquier institución pública o a los particulares, información necesaria para verificar el cumplimiento de esta Ley;
 
-V. Verificar la adopción de medidas y programas para prevenir y eliminar la discriminación en las instituciones y organizaciones públicas y privadas, así como expedirlos (sic) reconocimientos respectivos;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2011)</small>
+
+V. Verificar la adopción de medidas y programas para prevenir y eliminar la discriminación en las instituciones y organizaciones públicas y privadas, así como expedir los reconocimientos respectivos;
 
 VI. Desarrollar, fomentar y difundir estudios sobre las prácticas discriminatorias en los ámbitos político, económico, social y cultural;
 
@@ -879,9 +903,11 @@ El Consejo difundirá periódicamente los avances, resultados e impactos de las 
 
 En las sesiones del Consejo Estatal, se podrá invitar a participar, a propuestas de sus miembros, a funcionarios de gobierno, así como a integrantes de organizaciones sociales, civiles, empresariales, sindicales y académicos, y en general a cualquier persona vinculada a los temas de derechos humanos.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 50.
 
-El funcionamiento y organización del Consejo Estatal se regula además de lo dispuesto por esta Ley, en lo que establezca el Reglamento Interno que al efecto expida el Gobernador del Estado.
+El funcionamiento y organización del Consejo Estatal se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento Interior que al efecto expida el Gobernador del Estado.
 
 #### Sección Tercera. De los Consejos Municipales contra la Discriminación
 
@@ -925,7 +951,9 @@ Los consejeros durarán en su encargo tres años, con posibilidad de ser reelect
 
 En el ámbito de su competencia y en lo conducente el Consejo Municipal tendrá las mismas funciones que la Ley señala para el Consejo Estatal.
 
-El funcionamiento y organización del Consejo Municipal se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento interno que al efecto expida el Ayuntamiento.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+El funcionamiento y organización del Consejo Municipal se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento Interior que al efecto expida el Ayuntamiento.
 
 ### Capítulo II. De los Órganos de Control
 
@@ -939,49 +967,67 @@ Toda persona podrá presentar quejas y denuncias por presuntas conductas o accio
 
 Las quejas y denuncias que se presenten no requerirán más formalidad que presentarse por escrito con firma o huella digital y datos de identificación del interesado, también podrán ser verbales, por vía telefónica o por cualquier otro medio electrónico en casos urgentes, sin más señalamiento que el asunto que las motivó y los datos generales de quien las presente.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 59.
 
-Corresponde a la Comisión de los Derechos Humanos y a las autoridades señaladas en el artículo 9 de esta Ley realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
+Corresponde al Consejo Estatal de los Derechos Humanos y a las autoridades señaladas en el artículo 9°, de esta Ley, realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
 
-#### Sección Segunda. De la Comisión Estatal de Derechos Humanos
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2011)</small>
+
+#### Sección Segunda. Del Consejo Estatal de los Derechos Humanos
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 60.
 
-La Comisión conocerá de los procedimientos de queja que se presenten con motivo de conductas o prácticas discriminatorias realizadas por cualquier órgano público, estatal o municipal, autoridad o servidor público.
+El Consejo Estatal de los Derechos Humanos conocerá de los procedimientos de queja que se presenten con motivo de conductas o prácticas discriminatorias realizadas por cualquier órgano público, estatal o municipal, autoridad o servidor público.
 
-Tratándose de conductas o prácticas discriminatorias provenientes de personas físicas o morales, la Comisión abrirá expediente y presentará la denuncia y recomendaciones ante las autoridades que correspondan a fin de dar cumplimiento a las disposiciones de esta Ley.
+Tratándose de conductas o prácticas discriminatorias provenientes de personas físicas o morales, el Consejo Estatal de los Derechos Humanos abrirá expediente y presentará la denuncia y recomendaciones ante las autoridades que correspondan a fin de dar cumplimiento a las disposiciones de esta Ley.
 
-Los procedimientos para el cumplimiento de la presente Ley, se ceñirán a lo establecido en el ordenamiento legal que rige la actuación de la Comisión Estatal de Derechos Humanos de Chiapas.
+Los procedimientos para el cumplimiento de la presente Ley, se ceñirán a lo establecido en el ordenamiento legal que rige la actuación del Consejo Estatal de los Derechos Humanos de Chiapas.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 61.
 
-Los servidores públicos y las autoridades estatales están obligados a auxiliar al personal de la Comisión en el desempeño de sus funciones y rendir los informes que se les sean solicitados por esta última.
+Los servidores públicos y las autoridades estatales están obligados a auxiliar al personal del Consejo Estatal de los Derechos Humanos en el desempeño de sus funciones y rendir los informes que se les sean solicitados por este último.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 62.
 
-La Comisión Estatal de Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, la asesoría respecto de los derechos que les asisten y los medios para hacerlos valer, ya sea ante la propia Comisión o ante las autoridades estatales o municipales.
+El Consejo Estatal de los Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, la asesoría respecto de los derechos que les asisten y los medios para hacerlos valer, ya sea ante el propio Consejo Estatal de los Derechos Humanos o ante las autoridades estatales o municipales.
 
 Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliación de intereses.
 
-En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley que rige la actuación de la Comisión.
+En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley que rige la actuación del Consejo Estatal de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 63.
 
-Cuando la queja no sea competencia de la Comisión, por pretenderse exclusivamente el fincamiento de responsabilidades administrativas en contra de algún servidor público, se proporcionará al interesado la orientación para que acuda ante la autoridad que deba conocer del asunto en términos de las fracciones II, III, IV y V del artículo 9 de esta Ley.
+Cuando la queja no sea competencia del Consejo Estatal de los Derechos Humanos, por pretenderse exclusivamente el fincamiento de responsabilidades administrativas en contra de algún servidor público, se proporcionará al interesado la orientación para que acuda ante la autoridad que deba conocer del asunto en términos de las fracciones II, III, IV y V del artículo 9°, de esta Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 64.
 
-Cuando a juicio de la Comisión se haya demostrado la existencia de la conducta discriminatoria, se emitirá la recomendación correspondiente, de conformidad con la Ley de la materia, dando vista a las autoridades competentes para el efecto de que en caso de aceptar la misma, procedan en uso de sus respectivas atribuciones, e impongan las sanciones administrativas que correspondan contra los servidores públicos o particulares que hubiesen infringido esta Ley.
+Cuando a juicio del Consejo Estatal de los Derechos Humanos se haya demostrado la existencia de la conducta discriminatoria, se emitirá la recomendación correspondiente, de conformidad con la Ley de la materia, dando vista a las autoridades competentes para el efecto de que en caso de aceptar la misma, procedan en uso de sus respectivas atribuciones, e impongan las sanciones administrativas que correspondan contra los servidores públicos o particulares que hubiesen infringido esta Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
 ###### Artículo 65.
 
-La Comisión Estatal de Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía, por el Consejo Estatal contra la Discriminación o por los Consejos Municipales.
+El Consejo Estatal de los Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía, por el Consejo Estatal contra la Discriminación o por los Consejos Municipales.
 
 #### Sección Tercera. Del Control por Parte de las Autoridades
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 66.
 
-En términos de las fracciones II, III, IV y V del artículo 9 de esta Ley, El Supremo Tribunal de Justicia, El Congreso del Estado, la Secretaría de la Función Pública del Gobierno del Estado y los Ayuntamientos, en el ámbito de su competencia, conocerán de las quejas que presenten los particulares en contra de los servidores públicos que incurran en conductas o prácticas discriminatorias, a efecto de imponer las sanciones administrativas que correspondan de conformidad con la Ley de Responsabilidades de los Servidores Públicos.
+En términos de las fracciones II, III, IV y V del artículo 9°, de esta Ley, El Tribunal Superior de Justicia, El Congreso del Estado, la Secretaría de la Función Pública del Gobierno del Estado y los Ayuntamientos, en el ámbito de su competencia, conocerán de las quejas que presenten los particulares en contra de los servidores públicos que incurran en conductas o prácticas discriminatorias, a efecto de imponer las sanciones administrativas que correspondan de conformidad con la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 67.
 
@@ -1041,21 +1087,29 @@ Las multas impuestas por infracciones a las disposiciones de esta Ley tienen el 
 
 En contra de los actos y resoluciones administrativas dictadas con base en esta Ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de revisión contemplado en la Ley de Procedimientos Administrativos del Estado de Chiapas.
 
-Será optativo para el particular sancionado, interponer el recurso señalado en el párrafo anterior o promover Juicio Contencioso Administrativo ante el Tribunal Electoral y Administrativo del Estado.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Será optativo para el particular sancionado, interponer el recurso señalado en el párrafo anterior o promover Juicio Contencioso Administrativo ante el Tribunal de Justicia Electoral y Administrativa del Estado.
 
 ### Capítulo IV. De las Medidas Administrativas Adicionales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2011)</small>
+
 ###### Artículo 74.
 
-La Comisión de los Derechos Humanos de Chiapas, el Consejo Estatal contra la Discriminación y los Consejos Municipales, dispondrán la adopción de las siguientes medidas administrativas para prevenir y combatir la discriminación:
+El Consejo Estatal de los Derechos Humanos, el Consejo Estatal contra la Discriminación y los Consejos Municipales, dispondrán la adopción de las siguientes medidas administrativas para prevenir y combatir la discriminación:
 
 I. Todas las autoridades o particulares que sean objeto de una recomendación o sanción, podrán tomar cursos o seminarios que promuevan la igualdad de oportunidades;
 
 II. La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta Ley en los que se promueva la modificación de las conductas discriminatorias;
 
-III. La supervisión y presencia del personal propuesto por la Comisión Estatal de los Derechos Humanos de Chiapas, el Consejo Estatal contra la Discriminación y los Consejos Municipales, para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-IV. La publicación íntegra en el órgano de difusión de la Comisión Estatal de los Derechos Humanos de Chiapas de la recomendación emitida; y,
+III. La supervisión y presencia del personal propuesto por El Consejo Estatal de los Derechos Humanos, el Consejo Estatal contra la Discriminación y los Consejos Municipales, para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+IV. La publicación íntegra en el órgano de difusión del Consejo Estatal de los Derechos Humanos de la recomendación emitida; y,
 
 V. La publicación o difusión de una síntesis de la recomendación o resolución mediante la que se haya impuesto una sanción administrativa, en los medios impresos o electrónicos de comunicación.
 
@@ -1098,3 +1152,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los tres días del mes de abril del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
