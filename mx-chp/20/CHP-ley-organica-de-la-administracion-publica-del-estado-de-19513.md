@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2011-03-30"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -495,29 +497,27 @@ MAZAPA DE MADERO
 
 SILTEPEC
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 REGION XII. SELVA LACANDONA
 
-OCOSINGO
-
 ALTAMIRANO
 
-MARAVILLA TENEJAPA
+OCOSINGO
 
-MARQUES DE COMILLAS
-
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 REGION XIII. MAYA
 
-PALENQUE
+BENEMERITO DE LAS AMERICAS
 
 CATAZAJA
 
 LA LIBERTAD
 
-BENEMERITO DE LAS AMERICAS
+MARQUES DE COMILLAS
+
+PALENQUE
 
 REGION XIV. TULIJA TSELTAL CHOL
 
@@ -535,6 +535,8 @@ TUMBALA
 
 SALTO DE AGUA
 
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
 REGION XV. MESETA COMITECA TOJOLABAL
 
 COMITAN DE DOMINGUEZ
@@ -548,6 +550,8 @@ LAS MARGARITAS
 TZIMOL
 
 LAS ROSAS
+
+MARAVILLA TENEJAPA
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -585,9 +589,9 @@ IV-A. SECRETARIA PARA EL DESARROLLO Y EMPODERAMIENTO DE LAS MUJERES.
 
 V. SECRETARIA DE INFRAESTRUCTURA.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-VI. SECRETARIA DE MEDIO AMBIENTE, VIVIENDA E HISTORIA NATURAL.
+VI. SECRETARIA DE MEDIO AMBIENTE E HISTORIA NATURAL.
 
 VII. SECRETARIA DE ECONOMIA.
 
@@ -961,9 +965,13 @@ XXXIX. REQUERIR A LOS ORGANISMOS DE LA ADMINISTRACION PUBLICA ESTATAL QUE TENGAN
 
 XL. EVALUAR A TRAVES DE LA CONTRALORIA SOCIAL, LA GESTION DE LAS DEPENDENCIAS, ENTIDADES Y DEMAS ORGANISMOS QUE INTEGRAN LA ADMINISTRACION PUBLICA ESTATAL, EN LAS DIFERENTES REGIONES DEL ESTADO, DE ACUERDO A LOS INDICADORES QUE PARA TALES EFECTOS SE ESTABLEZCAN. (SIC)
 
-(ADICIONADA, P.O. 15 DE MAYO DE 2010) (F. DE E., P.O. 26 DE MAYO DE 2010)
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-XLI. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL EJECUTIVO DEL ESTADO.
+XLI. COORDINAR LA INTEGRACION Y OPERACION DE LOS PROGRAMAS TECNOLOGICOS INSTITUCIONALES, INHERENTES AL MONITOREO Y SEGUIMIENTO DE LAS SOLICITUDES FORMULADAS A TRAVES DE DISPOSITIVOS MOVILES DE COMUNICACION.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XLII. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL EJECUTIVO DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1439,7 +1447,13 @@ XVIII. COADYUVAR EN LA ESFERA DE SU COMPETENCIA CON EL REGISTRO AGRARIO NACIONAL
 
 XIX. PROPORCIONAR ASESORIA Y ORIENTACION A LOS MUNICIPIOS DE LA ENTIDAD QUE LO SOLICITEN, PARA LA ADECUADA ATENCION DE LOS ASUNTOS RELACIONADOS CON LA PROPIEDAD EJIDAL, COMUNAL Y PRIVADA.
 
-XX. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN, EN LOS TERMINOS DE LAS LEYES APLICABLES Y LOS QUE LE INSTRUYA EL GOBERNADOR DEL ESTADO.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XX. COORDINAR, INTEGRAR, PLANEAR, ADMINISTRAR OPERAR Y FORTALECER LA ACTIVIDAD FORESTAL EN EL ESTADO, EN MATERIA DE PROTECCION, CONSERVACION, RESTAURACION, DESARROLLO, FOMENTO, DIVERSIFICACION PRODUCTIVA, TRANSFORMACION, INDUSTRIALIZACION Y COMERCIALIZACION DE LOS RECURSOS FORESTALES MADERABLES Y NO MADERABLES, ASI COMO DE LOS SERVICIOS SISTEMICOS.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXI. LOS DEMAS ASUNTOS QUE LE CORRESPONDAN EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL EJECUTIVO DEL ESTADO.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2161,9 +2175,13 @@ XX. DISEÑAR Y ADMINISTRAR ANTE LA INSTITUCION FIDUCIARIA CORRESPONDIENTE Y DE A
 
 XXI. ELABORAR E INTEGRAR UN PADRON DE FAMILIAS PERTENECIENTES A LOS POBLADOS A REUBICAR, CON LA FINALIDAD DE CONTAR EN FORMA ESTRUCTURADA, ACTUALIZADA Y SISTEMATIZADA, LA INFORMACION DE LOS BENEFICIARIOS, EN EL QUE DEBERA DE CONSIDERAR LOS ELEMENTOS TECNICOS Y DE INFORMACION QUE LE PERMITA OPERAR DE MANERA EFICAZ Y EFICIENTE LA ASIGNACION DE APOYOS QUE CONTEMPLE EL PROGRAMA DE CIUDADES RURALES SUSTENTABLES.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-XXII. LAS DEMAS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO.
+XXII. ESTABLECER Y EJECUTAR POR SI O A TRAVES DE TERCEROS, ACCIONES TENDENTES A LA CONSTRUCCION DE VILLAS Y CIUDADES RURALES QUE COADYUVEN A ERRADICAR LA DISPERSION DE PEQUEÑAS POBLACIONES EN LA ENTIDAD.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2011)</small>
+
+XXIII. LAS DEMAS QUE LE CORRESPONDAN, EN TERMINOS DE LAS LEYES APLICABLES, SU REGLAMENTO INTERIOR Y LOS QUE LE INSTRUYA EL TITULAR DEL PODER EJECUTIVO.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2667,11 +2685,7 @@ Artículo Noveno.- Los compromisos y procedimientos que a la entrada en vigor de
 
 > <small>(F. DE E., P.O. 26 DE MAYO DE 2010)</small>
 
-El Centro Reproductor Avícola de Teopisca y el Centro de Especies Menores de San Cristóbal
-
-de las Casas, con sus recursos humanos, materiales y financieros, así como los compromisos y
-
-procedimientos a su cargo, que pertenecían a la Secretaría de Desarrollo Social hasta la entrada en vigor del presente Decreto, serán transferidos y en su caso, asumidos de inmediato por la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+El Centro Reproductor Avícola de Teopisca y el Centro de Especies Menores de San Cristóbal de las Casas, con sus recursos humanos, materiales y financieros, así como los compromisos y procedimientos a su cargo, que pertenecían a la Secretaría de Desarrollo Social hasta la entrada en vigor del presente Decreto, serán transferidos y en su caso, asumidos de inmediato por la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
 
 Artículo Décimo.- La Subsecretaría de Vivienda, perteneciente a la Promotora de Vivienda Chiapas, conjuntamente con sus órganos administrativos: Dirección de Proyectos para la Vivienda, y Dirección de Participación Social y Fomento a la Vivienda, así como sus recursos humanos, materiales y financieros; y los compromisos y procedimientos que le corresponden, serán transferidos y asumidos de inmediato por la Secretaría de Medio Ambiente, Vivienda e Historia Natural.
 
@@ -2802,3 +2816,15 @@ Artículo Sexto.- El personal operativo de la Secretaría de Seguridad y Protecc
 Artículo Séptimo.- La Secretaría de Hacienda y la Secretaría de la Función Pública, como Dependencias normativas del Estado, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación y creación, en su caso, de las estructuras orgánicas y funcionales a que haya lugar, derivado del presente Decreto, en plena observancia a las disposiciones aplicables y respeto a los· derechos laborales.
 
 Artículo Octavo.- Los Titulares de la Secretaría de Medio Ambiente e Historia Natural, y del Instituto de la Consejería Jurídica y de Asistencia Legal, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requieran sus respectivos Reglamentos Interiores, para su aprobación, expedición y publicación correspondiente.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato lo necesario para la creación de un órgano administrativo con nivel directivo, en la Secretaría de la Función Pública, a través del cual se hará cargo de coordinar la integración y operación de los Programas a que se refiere la fracción XLI, del artículo 30, de esta Ley, adecuando para tal efecto la estructura orgánica y funcional de dicha dependencia.
+
+Artículo Cuarto.- El Titular de la Secretaría de la Función Pública, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
