@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2009-04-18"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -809,7 +809,7 @@ Los entes públicos estarán obligados a mantener los bienes adquiridos o arrend
 
 Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
 ### Capítulo III. De los Procedimientos y Contratos de Obra Pública
 
@@ -1335,6 +1335,352 @@ En contra de las resoluciones que se dicten en el ámbito del Poder Ejecutivo y 
 
 Tratándose de resoluciones emanadas de la administración municipal y su sector paramunicipal, deberá estarse a los recursos y procedimientos contemplados en el Código Municipal.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+## TÍTULO SÉPTIMO. DE LOS PROYECTOS DE INVERSIÓN PÚBLICA A LARGO PLAZO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo I. Procedimiento de Contratación Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 121.
+
+Las disposiciones del presente Título, únicamente serán aplicables para los proyectos de inversión pública a largo plazo, regulados por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 122.
+
+El Poder Ejecutivo, a través de sus dependencias, los Organismos Públicos Descentralizados y los Municipios, bajo su estricta responsabilidad, deberán contratar proyectos de inversión pública a largo plazo, mediante el procedimiento de licitación pública.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo II. Licitación Pública
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 123.
+
+Las licitaciones públicas se harán mediante convocatoria. Las proposiciones se presentarán en sobre cerrado y la apertura se hará conforme a lo dispuesto en el presente Título, y en lo no previsto se estará a lo dispuesto en el artículo 45 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 124.
+
+Los sobres con las proposiciones se entregarán en el lugar de la celebración del acto de presentación y apertura de proposiciones, el día y la hora que se precisa en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 125.
+
+Los licitantes o sus apoderados firmarán de manera autógrafa cada documento que integre sus proposiciones, así como los sobres que las contienen.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 126.
+
+Los procedimientos de licitación pública se sujetarán a los siguientes períodos:
+
+I. Venta de bases: durante diez días hábiles a partir de la publicación de la convocatoria;
+
+II. Junta de aclaraciones: en un plazo no menor a diez días hábiles a la presentación y apertura de proposiciones;
+
+III. Presentación y apertura de proposiciones: no podrá ser inferior a treinta días hábiles contados a partir de la fecha de la publicación de la convocatoria, pudiendo en su caso, cuando así lo determine la autoridad convocante, prorrogarse hasta por diez días hábiles;
+
+IV. Emisión del dictamen técnico económico: en un término de hasta veinte días hábiles posteriores a la fecha de presentación y apertura de proposiciones, mismo que podrá prorrogarse por una sola vez hasta por quince días hábiles, y
+
+V. Notificación del fallo: en un plazo de hasta cinco días hábiles a partir de la emisión del dictamen técnico económico.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo III. Convocatorias y Bases
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 127.
+
+La convocatoria será publicada en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación estatal.
+
+Además los Ayuntamientos realizarán la publicación a la que este artículo se refiere en un periódico de circulación local o regional.
+
+El costo de las bases se fijará en razón de la recuperación de las erogaciones que se efectúen, por la reproducción de los documentos que se entreguen a los participantes.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 128.
+
+Las convocatorias contendrán:
+
+I. Nombre de la dependencia o entidad convocante responsable de la licitación;
+
+II. Número de licitación y origen de los recursos;
+
+III. Lugar, fecha y horario en que los interesados podrán obtener las bases que contengan los requisitos para participar en la licitación, así como el costo y forma de pago de las mismas;
+
+IV. Descripción general del proyecto de inversión pública a largo plazo que sea objeto de la licitación;
+
+V. Lugar, fecha y hora de la junta de aclaraciones, así como de la presentación y apertura de proposiciones;
+
+VI. Forma, modo, moneda y condiciones de contratación y pago;
+
+VII. Porcentajes de anticipos que en su caso se vayan a otorgar; y
+
+VIII. Los demás datos que sean necesarios a criterio de la convocante.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 129.
+
+Las bases contendrán:
+
+I. Datos de la convocante;
+
+II. Lugar, fecha y hora para la celebración de la junta de aclaraciones;
+
+III. Descripción completa de los bienes o servicios y, en su caso, la información específica sobre el mantenimiento, asistencia técnica, capacitación, especificaciones y normas aplicables, dibujos o planos, cantidades, muestras, pruebas que se realizarán y período de garantía;
+
+IV. Lugar, fecha y hora para la celebración de la junta de presentación y apertura de proposiciones, así como de la emisión del dictamen técnico económico, de la notificación del fallo y de la firma del contrato;
+
+V. Condiciones de precio y lugar de pago;
+
+VI. En caso de otorgarse anticipos, el porcentaje respectivo y el momento de su entrega;
+
+VII. Plazo y condiciones de entrega del proyecto de inversión pública a largo plazo, así como el monto de la pena convencional por causa de mora en el cumplimiento de la obligación;
+
+VIII. Instrucciones para elaborar y entregar las proposiciones técnicas y económicas;
+
+IX. Relación de los documentos que cada participante deba presentar;
+
+X. El señalamiento de que será causa de desestimación, el incumplimiento, por parte del interesado, de alguno de los requisitos establecidos en las bases de la licitación;
+
+XI. Criterios claros y detallados que se utilizarán para evaluar las proposiciones técnicas y económicas;
+
+XII. Monto de la pena convencional por incumplimiento total o parcial de la obligación, o el procedimiento para el cálculo de la misma;
+
+XIII. Una estimación de las obligaciones de pago, durante toda la vida del proyecto, a precios del ejercicio fiscal en que se pretenda realizar el proyecto;
+
+XIV. Forma y porcentaje para garantizar los anticipos, en su caso, y el cumplimiento del contrato;
+
+XV. La designación del Administrador del Proyecto encargado del procedimiento de licitación;
+
+XVI. La prohibición de que las condiciones establecidas en las bases de licitación o las proposiciones presentadas por los licitantes sean negociables;
+
+XVII. Los medios de impugnación que, en cada caso, puedan ejercer los licitantes;
+
+XVIII. Las sanciones a que se harán acreedores los licitantes que no sostengan sus proposiciones, y
+
+XIX. Las demás condiciones que sean necesarias a criterio de la convocante.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 130.
+
+La Junta de Aclaraciones tendrá por objeto esclarecer aquellos aspectos de la convocatoria o de las mismas bases que pudieran generar confusión, pudiendo celebrarse las que sean necesarias dependiendo de la complejidad del proyecto.
+
+Cualquier modificación a las bases de la licitación, derivada de la Junta de Aclaraciones, será considerada como parte de aquéllas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo IV. Presentación y Apertura de las Proposiciones
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 131.
+
+Los licitantes que cumplan con lo establecido en la convocatoria y las bases de licitación, podrán presentar a la dependencia convocante sus proposiciones técnicas y económicas.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 132.
+
+Las proposiciones se presentarán por escrito en papel membretado del licitante, en dos sobres cerrados de manera inviolable, que contendrán: uno, la proposición técnica y, el otro, la proposición económica, mismos que serán abiertos en la fecha, hora y lugar fijados en la convocatoria y en las bases, asentándose en el acta respectiva el nombre de los participantes y el número de proposiciones recibidas.
+
+La proposición técnica contendrá los documentos solicitados en las bases, así como copia de la identificación oficial del representante legal de la persona moral o persona física participante, y carta en que declare conocer las disposiciones de esta Ley y las de Proyectos de Inversión Pública a Largo Plazo.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 133.
+
+La presentación y apertura de las proposiciones se efectuará de la forma siguiente:
+
+I. Apertura de los sobres que contengan las proposiciones técnicas, desechándose aquellas que hubieren omitido algún requisito o documento a que se refieran las bases;
+
+II. El resultado de la presentación y apertura de las proposiciones técnicas se hará constar en acta circunstanciada, en la que se precisen las proposiciones técnicas aceptadas, así como las que fueron desechadas. Los sobres que contengan las proposiciones económicas correspondientes a las técnicas que fueron desechadas, permanecerán cerrados bajo custodia de la convocante;
+
+III. Terminada la etapa técnica, se procederá a la etapa económica, en la que solamente participarán los licitantes cuyas proposiciones técnicas hayan sido aceptadas. Hecho lo anterior, se procederá a la apertura de los sobres que contengan las proposiciones económicas respectivas, procediéndose al examen de los documentos que la integran, a la lectura de su importe y a la elaboración de los cuadros comparativos. Se evaluarán las proposiciones económicas de conformidad con los criterios señalados en las bases y en la convocatoria respectiva;
+
+IV. Los miembros del Comité rubricarán todas las proposiciones presentadas, quedando los sobres bajo su custodia hasta la emisión del fallo; las ofertas recibidas deberán firmarse en las partes correspondientes a las especificaciones, aspectos económicos, tiempos y lugares de entrega, cuando menos por dos licitantes designados por los concursantes;
+
+V. En el acta referida se harán constar las razones que llevaron a aceptar las proposiciones de mérito y, en su caso, aquellas por las que se desestimaron las demás;
+
+VI. Se procederá al cierre del acta, que firmarán los intervinientes, junto con los documentos presentados, en caso de que algún licitante se rehúse a firmar, se hará constar su negativa, pudiendo expresar las razones que tuviere para ello, y
+
+VII. Terminado el procedimiento anterior, se turnará el expediente al área que corresponda, para la emisión del dictamen técnico respectivo; emitido éste, el Administrador del Proyecto procederá a formular el dictamen técnico-económico.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 134.
+
+El Comité emitirá y notificará el fallo dentro de un plazo no mayor a cinco días hábiles a partir de la emisión del dictamen técnico-económico que presente el Administrador del Proyecto.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 135.
+
+Las convocantes no podrán recibir proposiciones o celebrar contratación alguna, con las personas físicas o morales a que se refiere el artículo 42 de esta Ley, exceptuando a las señaladas en la fracción IX del mismo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo V. Declaración Desierta y Fallo de la Licitación
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 136.
+
+La licitación se podrá declarar desierta, cuando:
+
+I. No haya licitantes;
+
+II. Se acredite de anera (sic) fehaciente, que los precios de mercado son inferiores a las mejores ofertas recibidas;
+
+III. Los licitantes incumplan con los requisitos previos establecidos en la convocatoria y en las bases respectivas;
+
+IV. Los montos de las ofertas económicas excedan lo autorizado, y
+
+V. Se presente caso fortuito o fuerza mayor.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 137.
+
+El fallo beneficiará al licitante que cumpla con los requisitos de la convocatoria y las bases respectivas, y que además haya presentado las mejores condiciones en cuanto a precio, calidad y tiempo de entrega.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 138.
+
+Cuando dos o más proposiciones resultaren solventes, cumpliendo con la totalidad de los requisitos establecidos por la convocante, el contrato se adjudicará al licitante cuya propuesta sea solvente, legal, administrativa y económicamente satisfactoria para la autoridad contratante.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 139.
+
+El convocante, a través del Administrador del Proyecto, emitirá el dictamen que servirá de base al fallo, en el que se hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 140.
+
+El fallo de la licitación contendrá los datos y criterios de evaluación que determinen cuál fue la mejor proposición recibida, adjudicándose los contratos a favor de ésta, señalándose, en su caso, la segunda y tercera mejores opciones.
+
+El fallo de la licitación se notificará a los participantes por escrito.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 141.
+
+Los participantes en un procedimiento de licitación podrán promover inconformidad administrativa en contra del mismo, por contravención a las disposiciones de la Ley de Adquisiciones, Arrendamiento, Contratación de Servicios y Obra Pública, a esta Ley y su reglamento, siempre que se trate del mismo procedimiento en el que hayan participado como licitantes.
+
+La inconformidad administrativa se presentará por escrito ante la Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo VI. Formalización del Contrato
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 142.
+
+Los contratos que celebren los entes públicos contendrán:
+
+I. Antecedentes;
+
+II. Declaraciones;
+
+III. Personalidad de las partes;
+
+IV. Objeto y monto;
+
+V. Lugar y/o condiciones de operación del proyecto de inversión pública a largo plazo;
+
+VI. Forma, término y lugar de pago;
+
+VII. En su caso, porcentaje de anticipo;
+
+VIII. Tipo de garantía para los anticipos y para el cumplimiento del contrato;
+
+IX. Si el precio está sujeto a modificación, las causas que la originan y la fórmula o fórmulas para cuantificarlo;
+
+X. Los derechos de autor u otros exclusivos que se constituyan, a favor del ente público;
+
+XI. En su caso, la capacitación del personal;
+
+XII. Mecanismos de evaluación;
+
+XIII. Causas de rescisión y penas convencionales, y
+
+XIV. Su fundamentación legal.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 143.
+
+La dependencia o entidad convocante pactará pena convencional a cargo del inversionista prestador por atraso en la entrega de los bienes o de la prestación del servicio, la que no excederá del monto de la fianza del cumplimiento del contrato y que será cuantificada en relación a los bienes o servicios no entregados o prestados de manera oportuna.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 144.
+
+Si dentro del término de los quince días hábiles siguientes a la notificación del fallo el licitante ganador no suscribe el contrato, se procederá a celebrarlo con el licitante que haya ocupado la segunda mejor opción, siempre que la diferencia en precio, con respecto a la proposición que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento, en caso contrario, se iniciará otro procedimiento de licitación.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 145.
+
+Los prestadores inversionistas, a través de una institución de fianzas legalmente autorizada para ello, garantizarán:
+
+I. En los anticipos que se reciban, el cien por ciento más los costos financieros que resulten entre la entrega de anticipos hasta su total terminación, y
+
+II. Para el cumplimiento de los contratos, cuando menos el diez por ciento sobre la obligación total, sin incluir las contribuciones que se generen por la operación.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 146.
+
+Las infracciones por contravenir las disposiciones del presente Título, así como la aplicación de las sanciones correspondientes, se regirán por lo establecido en el Título Quinto de la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+
+### Capítulo VII. Rescisión Administrativa de los Contratos
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 147.
+
+Para la rescisión administrativa de los contratos, deberá agotar previamente el siguiente procedimiento:
+
+I. Se notificará personalmente en el domicilio del proveedor señalado en el contrato, el inicio del procedimiento; a la cédula de notificación se agregará un acuerdo que contenga los conceptos de incumplimiento;
+
+II. El prestador inversionista expondrá por escrito lo que a su derecho convenga, aportando las pruebas que estime pertinentes, dentro del término de cinco días naturales contados a partir de la notificación;
+
+III. El ente público, a través de su unidad jurídica o su equivalente, una vez transcurrido el término señalado, valorando las pruebas ofrecidas en su caso y los argumentos que juzgue necesarios, resolverá lo conducente, y
+
+IV. La resolución se notificará por escrito al proveedor, dentro de los tres días hábiles siguientes, por cualquier medio que permita dejar constancia de la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 148.
+
+En tratándose de incumplimiento del contrato, los entes públicos podrá optar por demandar su cumplimiento o la rescisión y el resarcimiento de daños y perjuicios.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+###### Artículo 149.
+
+Cuando proceda la rescisión, se harán efectivas las garantías o fianzas otorgadas y se exigirá el reintegro de los anticipos o pagos efectuados.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- La presente Ley entrará en vigor a los veinte días siguientes a su publicación en el Periódico Oficial del Estado.
@@ -1490,3 +1836,13 @@ P.O. 18 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
