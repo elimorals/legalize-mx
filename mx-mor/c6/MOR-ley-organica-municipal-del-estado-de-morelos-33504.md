@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2010-12-08"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -2425,9 +2425,13 @@ En tanto el Congreso designa al Presidente Municipal sustituto, el Cabildo acord
 
 La ausencia del Síndico y de los Regidores no se suplirá necesariamente, cuando la falta no exceda de quince días mientras haya el número suficiente de miembros para constituir el quórum; cuando el número de miembros sea insuficiente para sesionar o la falta sea definitiva se llamará al suplente respectivo y a falta o imposibilidad de éste, el Congreso del Estado designará al sustituto en la forma indicada en el artículo anterior.
 
-La autorización o en su caso la revocación de las licencias por reintegrarse anticipadamente a su cargo en el Ayuntamiento, deberá acordarse por el Cabildo en un plazo de setenta y dos horas, contados a partir de que recibió la solicitud respectiva.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
 
-Para la autorización de las licencias y su terminación y/o revocación, deberá seguirse el mismo trámite ante el cabildo.
+Una vez vencido el plazo de la licencia concedida, ya sea temporal o determinada, el propietario deberá reintegrarse de inmediato a su cargo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En caso de reincorporación anticipada al vencimiento de la licencia, para la separación del cargo, el propietario deberá dar aviso en sesión de cabildo y presentarse a desempeñar sus funciones en la sesión inmediata siguiente.
 
 Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determinan los integrantes del Cabildo, por mayoría calificada y por una sola ocasión.
 
@@ -2565,7 +2569,7 @@ La designación e instalación del Concejo Municipal se sujetará a las siguient
 
 I. Una vez declarada la desaparición o suspensión definitiva de un Ayuntamiento, el titular del Poder Ejecutivo Estatal propondrá al Congreso, de entre los habitantes del Municipio, a los ciudadanos que puedan integrar el Concejo Municipal. Por cada propietario habrá un suplente. El gobernador en sus propuestas deberá respetar la conformación original del Ayuntamiento, respecto de la militancia política de sus miembros;
 
-II. El Concejo Municipal se integrará con el número de miembros que esta Ley establece para los Ayuntamientos de cada Municipio;
+II. El Conejo Municipal se integrará con el número de miembros que esta Ley establece para los Ayuntamientos de cada Municipio;
 
 III. En el momento de su instalación, el Concejo Municipal elegirá de entre sus integrantes a las personas que habrán de desempeñar las funciones de Presidente del Concejo, Síndico y Regidores; y
 
@@ -2744,6 +2748,12 @@ PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto 
 SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de Gobierno del Estado de Morelos.
 
 TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "TlaItizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
+
+P.O. 11 DE MAYO DE 2011.
+
+PRIMERO. Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
 
 ###### ARTÍCULO CUARTO.
 
