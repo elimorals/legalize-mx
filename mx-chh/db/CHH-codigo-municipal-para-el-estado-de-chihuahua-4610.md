@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2011-03-30"
+last_updated: "2011-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -583,6 +583,10 @@ XIII.- Aprobar el presupuesto de egresos de acuerdo con los ingresos que hubiere
 
 Los presupuestos, sólo podrán ser ampliados, cuando los ingresos reales sean superiores al ingreso estimado en la ley;
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Aprobar las partidas plurianuales en los Presupuestos de Egresos que corresponda, para cubrir el pago de las obligaciones derivadas de los Proyectos de Inversión Pública a largo Plazo.
+
 XIV.- Vigilar que se dé publicidad mensualmente, por cualquiera de los medios de que se disponga, del movimiento de ingresos y egresos del mes correspondiente;
 
 XV.- Rendir los informes, por conducto de su Presidente, a que obligue la Constitución Política del Estado u otras disposiciones legales;
@@ -608,6 +612,14 @@ Cuando la desincorporación del régimen de dominio público tenga como finalida
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
 XXI.- Aprobar por las dos terceras partes de los integrantes del Ayuntamiento, la celebración de actos o convenios por un término que exceda a la gestión del propio ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Autorizar, en los términos del párrafo anterior, los Proyectos de Inversión Pública a largo Plazo.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+Afectar, previa la aprobación del Congreso, los ingresos y derechos que de conformidad con la legislación pueda disponer para tal fin, para que en su caso sean fuente o garantía de pago de los Proyectos de Inversión Pública a largo Plazo.
 
 XXII.- Autorizar al Presidente Municipal para enajenar a título oneroso o gratuito bienes muebles del dominio privado municipal, cuyo valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate;
 
@@ -719,9 +731,9 @@ XII.- Representar al Municipio, con todas las facultades de un apoderado general
 
 XIII.- Formular y someter a la aprobación del Ayuntamiento el anteproyecto de ley de ingresos y el proyecto de presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
-XIV.- Administrar por conducto de las dependencias competentes, la hacienda pública municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por el Capítulo Único del Título Quinto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto público del Estado de Chihuahua;
+XIV. Administrar, por conducto de las dependencias competentes, la Hacienda Pública Municipal, estableciendo los procedimientos técnicos, financieros y contables que permitan el adecuado control y examen del ingreso y el gasto público, siendo aplicable en lo conducente lo dispuesto por el Capitulo Único del Titulo Quinto, de la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, así como la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua;
 
 XV.- Vigilar la recaudación de los ingresos municipales y que la inversión de dichos fondos se aplique con apego al presupuesto de egresos;
 
@@ -740,6 +752,10 @@ XX.- Imponer las sanciones, que correspondan por infracciones a las leyes, regla
 XXI.- Celebrar a nombre del Municipio, en ejercicio de las facultades que la ley le confiere, o en ejecución de los acuerdos del Ayuntamiento o del Congreso, los actos y contratos necesarios para el desempeño de los negocios administrativos y la eficaz prestación de los servicios públicos municipales;
 
 XXII.- Dentro de la posibilidad de cada Municipio, aprobar la realización de las obras públicas de su competencia, siempre y cuando la (sic) mismas sean de utilidad social;
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+
+En los casos de Proyectos de Inversión Pública a Largo Plazo, solicitar al H. Congreso del Estado la autorización de dichos Proyectos, en los términos de la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua.
 
 XXIII.- Ejercer el control y vigilancia, por conducto de la dependencia correspondiente, en materia de fraccionamientos, sobre construcción de obras públicas y privadas, de ornato, nomenclatura, numeración oficial, planificación y alineamiento de edificaciones y calles;
 
@@ -4135,9 +4151,19 @@ El presente Decreto entrará en vigor el día que ha quedado expresado, sin perj
 
 Hágase del conocimiento de los 67 Ayuntamientos del Estado, el contenido del presente Decreto.
 
+P.O. 11 DE MAYO DE 2011.
+
 ###### ARTÍCULO ÚNICO.
 
 Se modifica el Artículo Único Transitorio del Decreto 210/2010 I P.O., aprobado el 20 de diciembre del año 2010, por este H. Congreso del Estado de Chihuahua, para denominarse Artículo Primero, y se adicionan un Artículo Segundo y un Artículo Tercero, para quedar redactados de la siguiente forma:
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá la reglamentación que se requiera para la adecuada aplicación del presente Decreto, la cual será interpretada por la Secretaría de Hacienda, para efectos administrativos, escuchando previamente la opinión de la dependencia o entidad interesada.
 
 ###### ARTÍCULO TERCERO.
 
