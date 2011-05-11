@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2011-03-09"
+last_updated: "2011-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,59 @@ state: "CHP"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES
 
-CODIGO DE PROCEDIMIENTOS PENALES
+ACUERDO No. III/89 DEL TRIBUNAL EN PLENO DEL DIA CATORCE DE MARZO DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
+TEXTO ORIGINAL.
 
-Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
+Acuerdo publicado en el Diario Oficial de la Federación, el jueves 30 de marzo de 1989.
 
-INGENIERO EFRAIN A. GUTIERREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA H. XXXVI LEGISLATURA CONSTITUCIONAL DEL MISMO, SE HA SERVIDO DIRIGIRLE EL SIGUIENTE
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
 
-DECRETO NUMERO 9.
+ACUERDO No. III/89
 
-LA H. XXXVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCIÓN POLÍTICA DEL MISMO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE
+ACUERDO DEL TRIBUNAL EN PLENO DEL DÍA CATORCE DE MARZO DE MIL NOVECIENTOS OCHENTA Y NUEVE.
 
-CODIGO DE PROCEDIMIENTOS PENALES
+CONSIDERANDO:
+
+PRIMERO.- Que de conformidad con lo dispuesto en el artículo 12, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación, el Pleno de la Suprema Corte de Justicia de la Nación, cuando se considere conveniente por las necesidades del servicio, puede determinar que los ministros supernumerarios constituyan la Sala Auxiliar y señalar, mediante acuerdos generales, los asuntos de los que deba conocer.
+
+SEGUNDO.- Que en el acuerdo número 1/89, de fecha diez de enero de mil novecientos ochenta y nueve, emitido por el Pleno de la Suprema Corte de Justicia de la Nación, se determinó la constitución y la competencia de la Sala Auxiliar de este alto Tribunal para el año de mil novecientos ochenta y nueve.
+
+TERCERO.- Que es de estimarse conveniente que, además de los que se encuentran determinados en el punto segundo del mencionado acuerdo número 1/89, la Sala Auxiliar debe conocer de otros asuntos.
+
+En consecuencia, y con apoyo en las citadas disposiciones legales, este Tribunal en Pleno expide el siguiente
+
+ACUERDO:
+
+PRIMERO.- La Sala Auxiliar podrá conocer de los asuntos que se encuentren en las Salas Primera, Segunda, Tercera y Cuarta de este alto Tribunal, que hayan sido turnados antes del dieciséis de diciembre de mil novecientos ochenta y ocho, y cuyo envío sea determinado por cada una de ellas.
+
+De esa determinación se exceptuarán los siguientes asuntos:
+
+a).- Los que tengan proyecto aprobado por el ministro ponente;
+
+b).- Los aplazados o retirados;
+
+c).- Las contradicciones de tesis;
+
+d).- Las competencias;
+
+e).- Los recursos de queja relacionados con la ejecución de las sentencias dictadas por las propias Salas;
+
+f).- Las reclamaciones.
+
+SEGUNDO.- Los secretarios de Acuerdos respectivos harán, una vez que las Salas lo determinen, el envío correspondiente.
+
+TERCERO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
+
+TRANSITORIO:
+
+UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION,
+
+CERTIFICA:
+
+Que este Acuerdo número III/89, relativo a la ampliación de la competencia de la Sala Auxiliar, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes catorce de marzo de mil novecientos ochenta y nueve, por mayoría de diecisiete votos de los señores ministros de Silva Nava, Magaña Cárdenas, Alba Leyva, Castañón León, López Contreras, Fernández Doblado, Pavón Vasconcelos, Adato Green, Martínez Delgado, Gutiérrez de Velasco, González Martínez, Villagordoa Lozano, Moreno Flores, Suárez Torres, Chapital Gutiérrez, Díaz Romero y Presidente del Río Rodríguez, se aprobó el acuerdo de referencia; los señores ministros Rocha Díaz, Azuela Güitrón, Rodríguez Roldán y Schmill Ordóñez emitieron su voto en el sentido de que se incluyera a la Sala Auxiliar en el turno de distribución de asuntos entre las Salas Primera, Segunda, Tercera y Cuarta. México, Distrito Federal, a diecisiete de marzo de mil novecientos ochenta y nueve.- Rúbrica.
 
 ## TITULO PRELIMINAR
 
