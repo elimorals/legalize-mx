@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2011-03-17"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 > <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -497,25 +497,53 @@ Toda persona que haya obtenido licencia de conducción, podrá hacer uso de ella
 
 Si durante la vigencia de la licencia sobreviene disminución en las aptitudes físicas o mentales necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 44.
 
-Los padres o representantes legales de los menores de dieciocho años y menores de dieciséis, podrán solicitar para éstos, licencia para conducir vehículos automotores de servicio particular, previo pago de los derechos correspondientes, satisfaciéndose los siguientes requisitos:
+Los padres o tutores de los menores que tengan entre 16 años cumplidos y menos de 18, podrán solicitar para estos, licencia para conducir vehículos de motor de servicio particular, previo pago de derechos correspondientes. Los menores interesados, para realizar el trámite respectivo se harán acompañar por los padres o tutores, debiendo cumplir los requisitos siguientes, además de los establecidos en los reglamentos correspondientes:
 
-I.- Acompañar al menor y presentar solicitud en la forma que proporcione la Dirección Municipal, firmada por uno de los padres o tutores, quien se hará solidario en la responsabilidad en que incurra el titular del permiso;
+I. Presentar solicitud en la forma que proporcione la Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes, firmada por uno de los padres o tutores, quien manifestará su responsabilidad civil con los daños que sus hijos o pupilos puedan causar a terceros;
 
-II.- Comprobar la edad con el acta de nacimiento y acreditar la identidad del menor;
+II. Entregar carta responsiva firmada por el padre, la madre o el tutor en donde declare bajo protesta de decir verdad que el menor sabe leer y escribir y que tiene capacidad física para conducir el vehículo conforme al permiso solicitado;
 
-III.- Presentar identificación del padre o tutor del menor, acreditando su domicilio; y
+III. Comprobar la edad con la respectiva acta de nacimiento, y acreditar la identidad del menor;
 
-IV.- Aprobar Examen de Manejo y conocimiento de la Ley y el Reglamento de la materia.
+IV. Presentar identificación del padre o tutor del menor, acreditando su domicilio con un comprobante que tenga una antigüedad mayor a tres meses;
 
-Los requisitos indicados en esta fracción quedarán satisfechos con la constancia de aprobación expedida por la Dirección Municipal.
+V. Aprobar examen de manejo y conocimiento de la ley y el reglamento de la materia.
 
-V.- Presentar examen médico de agudeza audiovisual efectuado por instituciones médicas.
+Estos requisitos quedarán satisfechos con la constancia de aprobación expedida por la Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes;
 
-VI.- En caso de tutela, deberá ser demostrada documentalmente.
+VI. Presentar examen médico de agudeza audiovisual efectuado por la autoridad competente en materia de vialidad;
 
-La Dirección Municipal podrá impartir cursos de capacitación sobre manejo a menores de dieciséis años o a mayores, según se estime conveniente.
+VII. Presentar identificación vigente, carta de buena conducta y copia de calificaciones expedidas por la institución educativa en la que curse sus estudios o del lugar donde labora;
+
+VIII. Entregar copia de la póliza del seguro vigente con cobertura de daños a terceros del vehículo que conducirá; y
+
+IX. En caso de tutela, deberá ser demostrada documentalmente.
+
+En caso de los emancipados deberán acreditarlo con los documentos correspondientes.
+
+La Dirección Municipal de Tránsito y Seguridad Vial o sus equivalentes podrán impartir cursos de capacitación sobre manejo a los menores de edad, o a mayores, según se estime conveniente; igualmente expedirán un holograma fluorescente, para identificación pública de los vehículos respectivos, como los autorizados para ser conducidos por el menor de edad, el cual deberá portarse en un lugar visible del parabrisas trasero; las medidas de dicho holograma serán establecidos en los reglamentos correspondientes.
+
+Las licencias de conducir que se expidan a personas menores de 18 años y mayores de 16 años de edad, exclusivamente se autorizarán para conducir vehículos de motor en un horario diario de 6:00 a 23:00 horas, de lunes a viernes.
+
+Los sábados y los domingos el horario permitido será de las 06:00 a las 20:00 horas.
+
+Las disposiciones del párrafo anterior no serán aplicadas a aquellas personas que acrediten ser emancipados o trabajadores.
+
+El propietario del vehículo manejado por un menor de edad que no haya obtenido la licencia correspondiente o que lo haga fuera del horario autorizado, será sancionado por la autoridad municipal de conformidad con las disposiciones reglamentarias y para garantizar la protección de los ciudadanos, esta deberá impedir la circulación del vehículo y solamente le será entregado a quien sea legalmente su propietario y previo el pago de la sanción que corresponda.
+
+Cuando un menor de edad con licencia cometa alguna infracción en estado de ebriedad o bajo influjo de estupefacientes, sicotrópicos y otras sustancias tóxicas, la autoridad municipal deberá impedir la circulación del vehículo. En estos casos, la autoridad competente deberá observar las siguientes prevenciones:
+
+I. Notificará de inmediato a los padres del menor, o a quien tenga su representación legal;
+
+II. Cancelará la licencia hasta que cumpla la mayoría de edad, haciendo la notificación al interesado;
+
+III. Impondrá las sanciones que procedan, sin perjuicios de la responsabilidad legal; y
+
+IV. Retirar el vehículo.
 
 ###### ARTICULO 45.
 
@@ -672,3 +700,9 @@ e) En caso de que el Gobierno del Estado de Durango, considere necesario el cobr
 TERCERO.- El Gobierno del Estado deberá difundir el contenido de las disposiciones reglamentarias y el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+P.O. 12 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Los ayuntamientos deberán realizar las adecuaciones necesarias a su marco reglamentario, en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que inicie su vigencia el presente decreto.
