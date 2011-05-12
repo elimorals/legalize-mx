@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2010-08-20"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -55,21 +55,11 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Primera Región, conformado por cuatro tribunales colegiados de Circuito auxiliares y cinco juzgados de Distrito auxiliares, con residencia en el Distrito Federal y dos tribunales colegiados de Circuito auxiliares y dos juzgados de Distrito auxiliares, con residencia en Cuernavaca, Morelos, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Primera Región, conformado por ocho tribunales colegiados de Circuito auxiliares, cuatro con residencia en el Distrito Federal, dos con sede en Cuernavaca, Morelos y dos con residencia en Naucalpan de Juárez, Estado de México y siete juzgados de Distrito auxiliares, cinco con sede en el Distrito Federal y dos con residencia en Cuernavaca, Morelos.
 
-Los Juzgados Primero y Segundo de Distrito Auxiliares, creados mediante Acuerdos Generales 18/2007 y 34/2007 del Pleno del Consejo de la Judicatura Federal, cambiarán su denominación a Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, respectivamente, y los restantes se nombrarán:
-
-Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
-
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
-
-Juzgado Quinto de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
-
-Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
-
-Juzgado Séptimo de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
 
 Los tribunales colegiados se denominarán:
 
@@ -85,29 +75,49 @@ Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región,
 
 Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
 
+Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+Los juzgados de Distrito se denominarán:
+
+Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+Juzgado Cuarto de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+Juzgado Quinto de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
+Juzgado Séptimo de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal y en Cuernavaca, Morelos, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
+TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Primera Región, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Primera Región contará con dos Oficinas de Correspondencia Común, las cuales se denominarán: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, las cuales se integrarán con tres plazas cada una.
+CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Primera Región contará con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística y Planeación Judicial.
 
 QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Primera Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
 
 Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-1. El órgano jurisdiccional auxiliado enviará por conducto de su oficina de correspondencia común o su oficialía de partes, si carece de la primera, los asuntos con todos sus anexos que haya determinado la Comisión de Creación de Nuevos Organos, la cual a su vez los remitirá a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal o a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, según corresponda.
+1. El órgano jurisdiccional auxiliado enviará por conducto de su oficina de correspondencia común, los asuntos con todos sus anexos que haya determinado la Comisión de Creación de Nuevos Organos, a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, según corresponda.
 
 2. El órgano jurisdiccional de origen formará un expediente de antecedentes que contenga las copias de las actuaciones que a juicio del titular deba tener, así como el acuerdo de envío al Centro Auxiliar y cualquier actuación posterior a dicho envío, entre otros.
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 19/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-3. La Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal y la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, mediante el sistema computarizado que se instale para tales efectos, registrarán y distribuirán los asuntos de forma proporcional sin importar la materia, entre los órganos jurisdiccionales auxiliares indicados por la Comisión de Creación de Nuevos Organos. Lo anterior, a fin de mantener el equilibrio en las cargas de trabajo en el referido Centro.
+3. Las Oficinas de Correspondencia Común del Centro Auxiliar de la Primera Región, según corresponda, mediante el sistema computarizado que se instale para tales efectos, registrarán y distribuirán los asuntos de forma proporcional sin importar la materia, entre los órganos jurisdiccionales auxiliares indicados por la Comisión de Creación de Nuevos Organos. Lo anterior, a fin de mantener el equilibrio en las cargas de trabajo en el referido Centro.
 
 4. La Oficina de Correspondencia Común del Centro Auxiliar, emitirá una boleta con la cual se acusará recibo de los expedientes y anexos, y precisará a qué juzgado o tribunal fue turnado el asunto y el nombre del titular o presidente del mismo. Dicha boleta se entregará directamente al encargado de la presentación de los expedientes, quien a su vez, la hará llegar al órgano jurisdiccional remitente respectivo.
 
@@ -151,27 +161,13 @@ NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo 
 
 DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
 
-DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto QUINTO, para quedar como sigue:
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-“QUINTO.- Se contará con:
+DECIMOPRIMERO. MODIFICACIONES DEL ACUERDO GENERAL. Las modificaciones posteriores a que haya lugar, se integrarán al presente y demás acuerdos generales, según corresponda.
 
-1. El Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-2. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
-
-3. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por cinco juzgados de Distrito Auxiliares y dos tribunales colegiados Auxiliares.
-
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, el cual se integrará por siete juzgados de Distrito Auxiliares, dos tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un juzgado de Distrito Auxiliar, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, el cual se integrará por tres juzgados de Distrito Auxiliares, un tribunal unitario Auxiliar y un tribunal colegiado Auxiliar.
-
-Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
-
-DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Primera Región.
 
 DECIMOTERCERO. CIRCUNSTANCIAS NO PREVISTAS. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Disciplina, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
 
@@ -204,3 +200,17 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, así como los Organos Jurisdiccionales que lo Integrarán; así como al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, respectivamente.
+
+D.O.F. 12 DE MAYO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009 del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, así como los Organos Jurisdiccionales que lo Integrarán.
+
+CUARTO. En virtud de los ajustes de nomenclatura previstos en el presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, y oficinas de correspondencia común que les prestan servicio, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad posible cuenten con ellos.
+
+QUINTO. En lo que no se oponga al presente Acuerdo, subsiste en sus términos el Acuerdo General 42/2009 del Pleno del Consejo de la Judicatura Federal.
+
+SEXTO. El titular deberá levantar por duplicado la certificación del cambio de denominación de los órganos jurisdiccionales motivo de este Acuerdo General, misma que se hará constar al reverso del acta de inicio de funciones, debiendo remitir un ejemplar a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
