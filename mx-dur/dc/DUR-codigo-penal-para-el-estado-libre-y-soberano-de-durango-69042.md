@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2011-03-17"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -59,7 +59,7 @@ Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, e
 
 D E C R E T O No. 284
 
-LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLITICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
@@ -145,9 +145,9 @@ Es aplicable la ley penal vigente en el momento de la realización del hecho pun
 
 Excepción de ley más favorable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Cuando entre la comisión del delito y la extinción de la pena o medida de seguridad correspondiente, entrare en vigor otra ley aplicable al caso, se estará a lo dispuesto en la ley más favorable al imputado, acusado o sentenciado, con excepción de los delitos permanentes y continuados. La autoridad que esté conociendo o haya conocido del procedimiento penal, aplicará de oficio la ley más favorable.
 
@@ -233,7 +233,7 @@ II. Permanente o continuo, cuando la consumación se prolongó de una manera ini
 
 III. Continuado, cuando con unidad de propósito delictivo y pluralidad de conducta se viola el mismo precepto legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -265,7 +265,7 @@ Tentativa punible.
 
 Existe tentativa punible, cuando la resolución de cometer un delito se exterioriza realizando, en parte o totalmente, los actos ejecutivos que deberían producir el resultado u omitiendo los que deberían evitarlo, si por causas ajenas a la voluntad del sujeto activo no se llega a la consumación, pero se pone en peligro el bien jurídico tutelado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -307,7 +307,7 @@ Prohibición de penas trascendentales.
 
 Estando prohibidas las penas trascendentales, la responsabilidad penal no debe pasar de la persona o bienes del imputado y los partícipes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -385,7 +385,7 @@ Cuando la capacidad a que se refiere el párrafo anterior se encuentre considera
 
 VIII. Error de tipo y error de prohibición: Se realice la acción o la omisión bajo un error invencible, respecto de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -1083,9 +1083,9 @@ Punibilidad del delito continuado.
 
 En caso de delito continuado, se aumentarán en una mitad las penas que la ley prevea para el delito cometido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VI. ERROR VENCIBLE EN LAS CAUSAS DE LICITUD
 
@@ -1099,13 +1099,13 @@ Punibilidad en el caso de error vencible.
 
 En caso de que sea vencible el error a que se refiere el inciso a), fracción VIII del artículo 28 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO VII. EXCESO EN LAS CAUSAS DE LICITUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -1305,13 +1305,13 @@ Cualquiera que sea la pena o la medida de seguridad impuesta en sentencia que ca
 
 El reconocimiento de inocencia del sentenciado extingue la obligación de reparar el daño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO V. PERDÓN QUE OTORGA LA VÍCTIMA U OFENDIDO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2165,11 +2165,11 @@ VI. Cuando el robo se efectúe por dos o más personas; y,
 
 VII. Cuando en el robo se utilice a menores de edad, para la comisión del delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2011)</small>
 
 ###### Artículo 199.
 
-Se sancionará con pena de cinco a doce años de prisión y multa de trescientos sesenta a ochocientos sesenta y cuatro días de salario, al que después de la ejecución del robo de un vehículo y sin haber participado en éste, lo adquiera; o bien, posea, enajene, trafique, reciba o comercialice, los instrumentos, objetos, refacciones o material de la unidad, en todo o en partes y no se cerciore de su legal procedencia.
+Se sancionará con pena de cinco a doce años de prisión y multa de trescientos sesenta a ochocientos sesenta y cuatro días de salario, al que después de la ejecución del robo de un vehículo y sin haber participado en éste, posea, enajene, trafique, reciba o comercialice, los instrumentos, objetos, refacciones o material de la unidad, en todo o en partes y no posea documentos y/o otros elementos de convicción que demuestren su legal posesión y procedencia.
 
 A quien aporte recursos económicos o de cualquier otra naturaleza para la preparación y ejecución de las actividades descritas en el párrafo anterior, se le aumentará la pena hasta en una mitad más.
 
@@ -2487,7 +2487,7 @@ Se impondrá de seis meses a diez años de prisión y multa de treinta y seis a 
 
 A quien por sí o por interpósita persona, adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado, recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir, evitar localizar el destino o propiedad de dichos recursos, derechos o bienes o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2725,7 +2725,7 @@ DELITOS CONTRA LA SEGURIDAD DE LA COMUNIDAD
 
 Comete el delito contra la seguridad de la comunidad, a quién sin causa justificada:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3531,7 +3531,7 @@ II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerid
 
 ### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2011)</small>
 
 ###### Artículo 337.
 
@@ -3579,7 +3579,7 @@ II. Si el valor de lo exigido o la cantidad exceden de quinientas veces el salar
 
 ### CAPÍTULO IV. DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO DEL DECRETO No. 415, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR SIETE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO No. 415, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR CONFORMADO POR SIETE FRACCIONES.</small>
 
 ### CAPÍTULO V. OMISIÓN DE INFORMES MÉDICOS FORENSES
 
@@ -3839,25 +3839,25 @@ II. Obligue al imputado a declarar;
 
 III. Ordene la práctica de cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. No resuelva la situación jurídica del imputado, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, salvo que haya solicitado la ampliación del término constitucional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Prolongue injustificadamente la prisión preventiva, por más tiempo del que como máximo fija la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 VI. Demore injustificadamente el cumplimiento de la resolución judicial en la que se ordena poner en libertad a un detenido; e,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4275,7 +4275,7 @@ Se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuat
 
 ## TRANSITORIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4287,7 +4287,7 @@ El presente Código entrará en vigor en las fechas y ámbitos espacial y tempor
 
 Para el Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente, a solicitud expresa del Tribunal Superior de Justicia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4303,7 +4303,7 @@ II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones segui
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4315,7 +4315,7 @@ Procedimientos anteriores.
 
 En los procedimientos iniciados por delitos previstos en el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 35 del 29 de abril de 2004 y sus reformas posteriores, que se perseguían oficiosamente y que a partir de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, se persigan por querella, no terminarán, a no ser que la víctima otorgue el perdón.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4325,7 +4325,7 @@ Libertad provisional.
 
 En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4335,7 +4335,7 @@ Modificación o reubicación de tipos penales.
 
 La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4345,7 +4345,7 @@ Acción penal y pretensión punitiva.
 
 Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva consignada en el presente Código Penal para el Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4355,7 +4355,7 @@ Distribución de competencias en ejecución de sentencias.
 
 Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de las Penas y Medidas de Seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4365,7 +4365,7 @@ Aplicación de este código.
 
 El presente código, se aplicará en las fechas y ámbitos espaciales y temporales de validez, que determinen las declaratorias a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4478,3 +4478,9 @@ P.O. 17 DE MARZO DE 2011.
 Primero.- El presente decreto entrara en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
