@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-mujeres-para-una-vida-sin-violencia-del-estado-58496
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-30"
-last_updated: "2007-12-30"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS MUJERES PARA UNA VIDA SIN VIOLENCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2007.
 
@@ -192,6 +192,10 @@ III. Violencia patrimonial: Toda conducta de acción u omisión del agresor que 
 IV. Violencia Psicológica: Cualquier acto u omisión del agresor que cause a la víctima intimidación, daño, sufrimiento o cualquier tipo de alteración psicológica, que produzca como consecuencia menoscabo en su autoestima, depresión o atente contra su dignidad e integridad física; y
 
 V. Violencia sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto.
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2011)</small>
+
+VI. La Violencia obstétrica: Cualquier acto o trato deshumanizado que ejerza el personal de salud sobre las mujeres en la atención médica que se les ofrece durante el embarazo, el parto y puerperio, tales como omitir atención oportuna y eficaz de las urgencias obstétricas, obstaculizar el apego precoz del niño con la madre sin causa médica justificada, alterar el proceso natural de parto de bajo riesgo mediante el uso de técnicas de aceleración, y practicar el parto vía cesárea existiendo condiciones para el parto natural, estas dos últimas, sin obtener el consentimiento informado de la mujer
 
 Cualquier otra acción, conducta u omisión que provoque violencia de género.
 
@@ -995,6 +999,10 @@ IV. Proporcionar un refugio seguro a las víctimas y sus hijos, y
 
 V. Informar a la autoridad competente de los casos de violencia de género que ocurran en las instituciones educativas, de salud o cualquier otra donde se brinden atención o servicios a las mujeres, ya sean del sector público o privado.
 
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2011)</small>
+
+En el ejercicio de los derechos tutelados en la presente ley, la víctima contará con información suficiente, de manera inteligible, para orientar sus decisiones; en caso de tratarse de mujeres indígenas, éstas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+
 ###### ARTÍCULO 50.
 
 Los refugios son espacios terapéuticos, temporales y secretos en donde se brinda a las víctimas de violencia de género y a sus hijos, seguridad y atención integral consistente en:
@@ -1048,6 +1056,10 @@ En ningún caso se podrá mantener en los refugios a las víctimas o sus hijos e
 ###### ARTÍCULO 54.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2011)</small>
+
+Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación o cualquier otro alternativo con el agresor en tanto dure la situación de violencia.
 
 ###### ARTICULO 55.
 
@@ -1112,3 +1124,11 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MAYO DE 2011.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
