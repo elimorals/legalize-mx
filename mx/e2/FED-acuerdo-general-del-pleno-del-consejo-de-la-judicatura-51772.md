@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2011-04-14"
+last_updated: "2011-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1489,7 +1489,9 @@ XXIV. Proponer a la Comisión de Administración las directrices, normas, proced
 
 XXV. Proponer a la Comisión de Administración, los estudios y dictámenes técnicos para la creación, retabulación, conversión y transferencia de plazas administrativas que hayan sido solicitadas;
 
-XXVI. Coordinar la actualización de las estructuras ocupacionales y las plantillas autorizadas para las unidades administrativas, órganos auxiliares y jurisdiccionales del Consejo;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 12 DE MAYO DE 2011)</small>
+
+XXVI. Coordinar y autorizar la actualización de las estructuras ocupacionales, las plantillas autorizadas y las estructuras orgánicas para las unidades administrativas, órganos auxiliares y jurisdiccionales del Consejo, con excepción de aquellas que deriven de la creación o reestructuración de un área, en cuyo caso, invariablemente deberán ser sometidas a la consideración de la Comisión de Administración y del Pleno;
 
 > <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 30 DE MARZO DE 2010)</small>
 
@@ -3698,3 +3700,11 @@ OCTAVO.- La Contraloría del Poder Judicial de la Federación, intervendrá dent
 NOVENO.- Las referencias que se hagan de la Dirección General de Seguridad y Protección Civil, en los Acuerdos Generales 15/1996, 25/2005 y 53/2006 y demás normativa emitida por el Consejo, se entenderán hechas a la Coordinación de Seguridad, o en su caso, a la Secretaría Ejecutiva de Administración, según la materia de que se trate.
 
 DECIMO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 12 DE MAYO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
