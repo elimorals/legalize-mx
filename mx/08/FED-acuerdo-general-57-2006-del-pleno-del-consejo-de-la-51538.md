@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2011-04-01"
+last_updated: "2011-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 12 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -1114,3 +1116,17 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 12 DE MAYO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se deroga el Acuerdo General 57/2006, publicado en el Diario Oficial de la Federación, de cuatro de septiembre de dos mil seis. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+CUARTO. Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales colegiados y unitarios de Circuito, de los juzgados de Distrito, se integrarán a este acuerdo general para efectos de su actualización.
+
+QUINTO. Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo; considerando que el nuevo municipio pertenecerá al distrito judicial del que formaba parte.
+
+SEXTO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad posible cuenten con ellos.
