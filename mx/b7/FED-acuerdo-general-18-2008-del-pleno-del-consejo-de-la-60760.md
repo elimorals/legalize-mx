@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2008-08-25"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2008-04-16"
 ---
 # ACUERDO GENERAL 18/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN EN GUANAJUATO, GUANAJUATO]
 
-ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
+ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, CON RESIDENCIA EN GUANAJUATO, GUANAJUATO, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 12 DE MAYO DE 2011)</small>
+
+ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
 CONSIDERANDO
 
@@ -55,51 +57,79 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 44/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, conformado por dos tribunales colegiados Auxiliares, cinco tribunales unitarios Auxiliares y tres juzgados de Distrito Auxiliares, el domicilio de un tribunal colegiado, de cuatro tribunales unitarios y de los juzgados de Distrito será el ubicado en Carretera Cuatro Carriles Guanajuato-Silao, Glorieta Santa Fe número 5, colonia Yerbabuena, código postal 36251, Guanajuato, Guanajuato, y el del restante tribunal colegiado y tribunal unitario estará en Paseo de la Presa de la Olla número 158, Zona Centro, código postal 36000, Guanajuato, Guanajuato, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Tercera Región, conformado por seis tribunales colegiados auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios auxiliares, cinco con sede en Guanajuato, Guanajuato y dos con residencia en Guadalajara, Jalisco y cinco juzgados de Distrito auxiliares, tres con sede en Guanajuato, Guanajuato y dos con residencia en Guadalajara, Jalisco.
 
-Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región.
-
-Juzgado Segundo de Distrito del Centro Auxiliar de la Tercera Región.
-
-Juzgado Tercero de Distrito del Centro Auxiliar de la Tercera Región.
-
-Los tribunales unitarios se denominarán:
-
-Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
-
-Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
-
-Tercer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
-
-Cuarto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
-
-Quinto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región.
+Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
 
 Los tribunales colegiados se denominarán:
 
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región.
+Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región.
+Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
+
+Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
+
+Los tribunales unitarios se denominarán:
+
+Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Tercer Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Cuarto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Quinto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Sexto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Séptimo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Los juzgados de Distrito se denominarán:
+
+Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Juzgado Segundo de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Juzgado Tercero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+
+Juzgado Cuarto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Juzgado Quinto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
-TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Tercera Región, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Tercera Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, la cual se integrará con dos plazas.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Tercera Región contará con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco y Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán; éstas se integrarán con las plazas que fije la Dirección General de Estadística y Planeación Judicial.
 
 QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos; determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Tercera Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
 
 Los órganos jurisdiccionales auxiliares funcionarán de la siguiente manera:
 
-1) El órgano jurisdiccional auxiliado enviará por conducto de su oficina de correspondencia común o su oficialía de partes, si carece de la primera, los asuntos a la Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+1) El órgano jurisdiccional auxiliado enviará por conducto de la oficina de correspondencia común u oficialía de partes, si carece de la primera, los asuntos con todos sus anexos que haya determinado la Comisión de Creación de Nuevos Organos, a la Oficina de Correspondencia Común del órgano auxiliar que corresponda.
 
 2) El órgano jurisdiccional de origen formará un expediente de antecedentes que contenga las copias de las actuaciones que a juicio del titular deba tener, así como el acuerdo de envío al Centro Auxiliar y cualquier actuación posterior a dicho envío, entre otros.
 
-3) La Oficina de Correspondencia Común del Centro Auxiliar de la Tercera Región, mediante el sistema computarizado que se instale para tales efectos, registrará y distribuirá los asuntos de forma proporcional sin importar la materia, entre los órganos jurisdiccionales auxiliares indicados por la Comisión de Creación de Nuevos Organos. Lo anterior, a fin de mantener el equilibrio en las cargas de trabajo en el referido Centro.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+3) La Oficina de Correspondencia Común respectiva, mediante el sistema computarizado que se instale para tales efectos, registrará y distribuirá los asuntos de forma proporcional sin importar la materia, entre los órganos jurisdiccionales auxiliares indicados por la Comisión de Creación de Nuevos Organos. Lo anterior, a fin de mantener el equilibrio en las cargas de trabajo en el referido Centro.
 
 4) La Oficina de Correspondencia Común del Centro Auxiliar, emitirá una boleta con la cual se acusará recibo de los expedientes y anexos, y precisará a qué juzgado o tribunal fue turnado el asunto y el nombre del titular o presidente del mismo. Dicha boleta se entregará directamente al encargado de la presentación de los expedientes, quien a su vez, la hará llegar al órgano jurisdiccional remitente respectivo.
 
@@ -116,6 +146,8 @@ El órgano jurisdiccional de origen recibirá las promociones posteriores a la r
 El Consejo de la Judicatura Federal, mediante los mecanismos de seguridad y protección que autorice, determinará el sistema para el envío, entrega y devolución de expedientes.
 
 Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de su personal, al responsable de la elaboración de un acta circunstanciada cada vez que entreguen expedientes para el dictado de su sentencia, o reciban los ya fallados; documento que suscribirán en compañía de uno de los secretarios.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
 SEXTO. PLANTILLAS Y FUNCIONES. Las plantillas de los órganos jurisdiccionales serán las siguientes:
 
@@ -251,19 +283,13 @@ NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo 
 
 DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
 
-DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto QUINTO, para quedar como sigue:
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-“QUINTO.- Se contará con:
+DECIMOPRIMERO. MODIFICACIONES DEL ACUERDO GENERAL. Las modificaciones posteriores a que haya lugar, se integrarán al presente y demás acuerdos generales, según corresponda.
 
-1. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 44/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 2008)</small>
-
-2. El Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, el cual se integrará por tres juzgados de Distrito Auxiliares, cinco tribunales unitarios Auxiliares y dos tribunales colegiados Auxiliares.
-
-Dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
-
-DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
+DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Tercera Región.
 
 DECIMOTERCERO. CIRCUNSTANCIAS NO PREVISTAS. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Disciplina, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
 
@@ -294,3 +320,17 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los Organos Jurisdiccionales que lo Integrarán.
+
+D.O.F. 12 DE MAYO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008 del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Tercera Región, con Residencia en Guanajuato, Guanajuato, así como los Organos Jurisdiccionales que lo Integrarán.
+
+CUARTO. En virtud de los ajustes de nomenclatura previstos en el presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, y oficinas de correspondencia común que les prestan servicio, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad posible cuenten con ellos.
+
+QUINTO. En lo que no se oponga al presente Acuerdo, subsisten en sus términos los Acuerdos Generales 44/2009, 45/2009, 46/2009, 61/2008 y 18/2010 del Pleno del Consejo de la Judicatura Federal.
+
+SEXTO. El titular deberá levantar por duplicado una constancia de hechos relativa al inicio de funciones de los órganos jurisdiccionales motivo de este Acuerdo General, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, debiendo remitir un ejemplar a ésta; en caso de haberse elaborado con anterioridad, únicamente se efectuará la certificación del cambio de denominación al reverso y enviarse a la Secretaría Ejecutiva mencionada.
