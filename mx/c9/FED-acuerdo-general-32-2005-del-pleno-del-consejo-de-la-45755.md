@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2005-del-pleno-del-consejo-de-la-45755"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-19"
-last_updated: "2010-06-02"
+last_updated: "2011-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45755&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-08-10"
 
 ACUERDO GENERAL 32/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y DE APOYO ECONOMICO EXTRAORDINARIO A LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2011.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de agosto de 2005.
 
@@ -49,9 +49,11 @@ ACUERDO
 
 ## TITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
 ###### Artículo 1.
 
-El presente acuerdo tiene por objeto establecer las bases de funcionamiento del Plan de Prestaciones Médicas Complementarias para los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+El presente acuerdo tiene por objeto establecer las bases de funcionamiento del Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario para los servidores públicos del Poder Judicial de la Federación y sus beneficiarios, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
 
 ###### Artículo 2.
 
@@ -105,13 +107,17 @@ XVIII. ISSSTE: El Instituto de Seguridad y Servicios Sociales de los Trabajadore
 
 XIX. Plan: El Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-XX. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto; y
+XX. Fondo: La cantidad de dinero de la que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto;
 
-> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-XXI. Prestaciones médicas: Las prestaciones médicas complementarias y los apoyos económicos extraordinarios que se regulan en el presente Acuerdo.
+XXI. Prestaciones médicas: Las prestaciones médicas complementarias que se regulan en el presente acuerdo; y
+
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+XXII. Apoyo económico extraordinario: Es el pago de una indemnización por la materialización del riesgo de trabajo consistente en el fallecimiento de un magistrado de Circuito, juez de Distrito o del servidor público que en su caso determine el Pleno, a causa de un atentado a su integridad física, a favor de los beneficiarios que se hayan designado, derivado de las funciones que hubiese desempeñado.
 
 ###### Artículo 3.
 
@@ -157,43 +163,59 @@ c. Enfermedades incurables o padecimientos crónicos o degenerativos; y,
 
 d. Enfermedades, padecimientos o lesiones que no sean tratados adecuadamente en tiempo o en calidad en el ISSSTE o, en su caso, no estén cubiertos o excedan la suma asegurada por el Seguro de Gastos Médicos Mayores una vez utilizada.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
 ###### Artículo 4 Bis.
 
-Para el otorgamiento de prestaciones médicas únicamente se podrá disponer de los intereses que hayan sido generados por el Fondo, descontándose la pérdida inflacionaria acumulada.
+Para el otorgamiento de prestaciones médicas únicamente se dispondrá de los intereses que hayan sido generados por el Fondo descontándose la pérdida inflacionaria acumulada. Para el caso de apoyo económico extraordinario se podrá disponer del capital de dicho Fondo.
 
 ###### Artículo 5.
 
 Los servidores públicos podrán, en cualquier momento, realizar donativos que permitan financiar el Plan regulado en este Acuerdo. Para este efecto se realizará anualmente una colecta entre dichos servidores, conforme a las reglas que señale la Comisión.
 
-## TITULO SEGUNDO. De los Beneficiarios del Plan
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
+## TITULO SEGUNDO. De los beneficiarios de las prestaciones médicas
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
 ###### Artículo 6.
 
-Serán beneficiarias del Plan las siguientes personas:
+Serán beneficiarias de las prestaciones médicas las siguientes personas:
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 I. Los servidores públicos con nivel de puesto del 21 al 33 de conformidad con el Manual General de Puestos del Consejo;
 
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
+
 II. Los servidores públicos con nivel de puesto 1 al 20 del Manual General de Puestos del Consejo, siempre y cuando las prestaciones médicas a que se refiere el artículo 4 del presente Acuerdo General no las cubra el ISSSTE y, solamente en forma excepcional, se les podrán otorgar, a juicio de la Comisión, en términos del artículo 16, dichas prestaciones médicas;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 III. El cónyuge, concubina o concubinario de los servidores públicos a que se refieren las fracciones anteriores;
 
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
+
 IV. Los hijos de los servidores públicos mencionados en las fracciones I y II de este artículo, menores de dieciocho años; los que tengan entre dieciocho y veinticinco años, siempre que permanezcan solteros y sean estudiantes; y los mayores de dieciocho años, solteros, que se encuentren incapacitados;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 V. Los padres de los servidores públicos señalados en las fracciones I y II de este artículo, que no reciban prestaciones del Instituto Mexicano del Seguro Social o del ISSSTE, ni de otra institución de seguridad social, siempre que dependan económicamente de éstos, lo cual deberá comprobarse a satisfacción de la Comisión;
 
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
+
 VI. Las personas jubiladas del Poder Judicial, únicamente para lo establecido en el artículo 4, fracción VIII, de este Acuerdo; y
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
 VII. Aquellos servidores públicos que se encuentren en el período prejubilatorio, entendiéndose por ello, cuando estén realizando los trámites para jubilarse y disfruten de la licencia correspondiente.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
 ###### Artículo 7.
 
-Para que un servidor público pueda ser beneficiario del Plan, deberá haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores, al nivel inmediato superior al que pague el Consejo como prestación de acuerdo con la clasificación de su puesto, previamente a que se diagnostique el padecimiento, ocurra el accidente, o se realice el primer reclamo a la Compañía Aseguradora con la que se maneje el Seguro de Gastos Médicos Mayores, con motivo del siniestro por el cual se requiera la prestación médica, lo que acontezca primero.
+Para que un servidor público pueda ser beneficiario de las prestaciones médicas, deberá haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores al nivel inmediato superior al que pague el Consejo como prestación de acuerdo con la clasificación de su puesto, previamente a que se diagnostique el padecimiento, ocurra el accidente o se realice el primer reclamo a la Compañía Aseguradora con la que se maneje el Seguro de Gastos Médicos Mayores, con motivo del siniestro por el cual se requiera la prestación médica, lo que acontezca primero.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 9/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 2010)</small>
 
@@ -367,7 +389,9 @@ II. Que el padecimiento no sea cubierto por el Seguro de Gastos Médicos Mayores
 
 III. Que se estime que el paciente pueda recuperar o mejorar la salud y las capacidades o sentidos de que carece o que el abandono del tratamiento pueda agravar su estado, o bien, tratándose de enfermos incurables o desahuciados, que pueda mejorar su calidad de vida.
 
-## TITULO CUARTO. Del Pago de las Prestaciones Médicas Complementarias y Apoyos Económicos Extraordinarios
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+## TITULO CUARTO. Del Pago de las Prestaciones Médicas
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
@@ -409,7 +433,9 @@ En casos excepcionales, la Comisión podrá autorizar prestaciones médicas sin 
 
 La Comisión ordenará al titular de Servicios al Personal que lleve los archivos adecuados que permitan registrar la estadística y el monto de las prestaciones médicas que se otorguen, para presentar informe semestral al Pleno.
 
-## TITULO QUINTO. De la Suspensión y Cancelación de las Prestaciones Médicas Complementarias y Apoyos Económicos Extraordinarias (sic)
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+## TITULO QUINTO. De la Suspensión y Cancelación de las Prestaciones Médicas
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
@@ -455,11 +481,13 @@ La devolución de cantidades pagadas indebidamente será resuelta por la Comisi�
 
 ## TITULO SEXTO. Del Recurso de Reconsideración
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
 ###### Artículo 27.
 
-Las resoluciones por las que la Comisión determine negar la prestación médica solicitada, así como los términos en que se hubiere otorgado, podrán ser revisadas a petición del interesado ante el Pleno mediante el recurso de reconsideración.
+Las resoluciones por las que la Comisión determine negar la prestación médica solicitada o el apoyo económico extraordinario, así como los términos en que se hubieren otorgado los mismos, podrán ser revisados a petición del interesado ante el Pleno, mediante el recurso de reconsideración.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 9/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE MARZO DE 2008)</small>
 
 El recurso de reconsideración también podrá interponerse en contra de las resoluciones que suspendan o cancelen la prestación médica solicitada, así como las relativas a la devolución de cantidades pagadas indebidamente.
 
@@ -478,6 +506,36 @@ El recurso de reconsideración se substanciará de plano por el Pleno, quién de
 ###### Artículo 31.
 
 En contra de la resolución que decida sobre el recurso de reconsideración no procederá medio de impugnación alguno.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+## TITULO SEPTIMO. De los apoyos económicos extraordinarios
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+###### Artículo 32.
+
+Será otorgado el apoyo económico extraordinario cuando ocurra el fallecimiento de magistrados de Circuito y/o jueces de Distrito, o en su caso, de aquellos servidores públicos que determine el Pleno, como consecuencia de la materialización de una situación de riesgo derivada de las funciones que hubiesen desempeñado y hayan contado con el servicio de seguridad permanente o emergente o bien, que no habiendo contado con él, se presenten circunstancias que lo justifiquen a juicio del propio Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+###### Artículo 33.
+
+El apoyo económico extraordinario se entregará a los beneficiarios que el Titular haya designado en la Póliza de Seguro de Vida Institucional.
+
+Este apoyo económico extraordinario ascenderá a la cantidad neta de dos millones de pesos, misma que podrá ser incrementada o modificada por determinación del Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+###### Artículo 34.
+
+La solicitud de apoyo económico extraordinario deberá de presentarse en el formato autorizado por la Comisión, ante Servicios al Personal, con la documentación que determine dicho órgano colegiado.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 14/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+
+###### Artículo 35.
+
+Cualquier situación no prevista en el presente Título será resuelta por la Comisión.
 
 ## TRANSITORIOS
 
@@ -514,6 +572,14 @@ TERCERO.- El texto de esta reforma deberá integrarse de inmediato al Acuerdo Ge
 D.O.F. 2 DE JUNIO DE 2010.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 32/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Prestaciones Médicas Complementarias y de Apoyo Económico Extraordinario a los Servidores Públicos del Poder Judicial de la Federación, con Excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+D.O.F. 12 DE MAYO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación por el Pleno.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
