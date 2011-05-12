@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-centro-estatal-para-el-desarrollo-56536
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-18"
-last_updated: "2007-07-18"
+last_updated: "2011-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL CENTRO ESTATAL PARA EL DESARROLLO MUNICIPAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CENTRO ESTATAL PARA EL DESARROLLO MUNICIPAL PUBLICADO EN EL P.O. DE 12 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de julio de 2007.
 
@@ -372,3 +374,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 12 DE MAYO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Centro Estatal para el Desarrollo Municipal, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 18 de Julio de 2007 y se dejan sin efecto todas aquellas disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
