@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-servicios-educativos-integrados-al-32011
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-10"
-last_updated: "2009-08-10"
+last_updated: "2011-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 10 de junio de 2003.
 
@@ -279,7 +279,7 @@ III. Proponer al Director General la incorporación de contenidos regionales a l
 
 IV. Suscribir convenios de colaboración para el establecimiento y operación de centros de asesoría de tipo social y particular del Subsistema de Preparatoria Abierta, informando lo conducente al Director General;
 
-V. Coordinar el Programa de Becas para la Educación Básica, Media Superior y Superior para los hijos de los trabajadores de SEIEM;
+V. (DEROGADA, G.G. 12 DE MAYO DE 2011)
 
 VI. Promover el mejoramiento de los centros educativos a su cargo y opinar sobre la creación de otros; y
 
@@ -317,17 +317,21 @@ V. Elaborar los presupuestos de ingresos y de egresos de SEIEM, de acuerdo con l
 
 VI. Diseñar, operar y evaluar el sistema de pago de remuneraciones al personal de SEIEM y vigilar el cumplimiento de los procedimientos inherentes;
 
-VII. Formular y evaluar los programas de adquisiciones y contratación de bienes y servicios, así como el presupuesto disponible, y someterlos a la autorización del Director General;
+> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2011)</small>
 
-VIII. Vigilar la conservación, reparación, mantenimiento y adaptación de los bienes muebles e inmuebles de SEIEM;
+VII. Coordinar y supervisar los programas y acciones derivados de los acuerdos en materia de prestaciones laborales celebrados o que se celebren con el Sindicato Nacional de Trabajadores de la Educación;
 
-IX. Autorizar los sistemas de computación que requieran las unidades administrativas de SEIEM, relativos a la administración de los recursos humanos, materiales y financieros, y los que soliciten respecto a otros servicios y proyectos específicos;
+VIII. Formular y evaluar los programas de adquisiciones y contratación de bienes y servicios, así como el presupuesto disponible, y someterlos a la autorización del Director General;
 
-X. Controlar y evaluar las acciones de construcción, rehabilitación, mantenimiento, habilitación y equipamiento de la infraestructura de SEIEM;
+IX. Vigilar la conservación, reparación, mantenimiento y adaptación de los bienes muebles e inmuebles de SEIEM;
 
-XI. Someter a la consideración del Director General, los proyectos de programas de asignación de mobiliario escolar, material de mantenimiento preventivo, reparaciones y construcción que requiera SEIEM; y
+X. Autorizar los sistemas de computación que requieran las unidades administrativas de SEIEM, relativos a la administración de los recursos humanos, materiales y financieros, y los que soliciten respecto a otros servicios y proyectos específicos;
 
-XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
+XI. Controlar y evaluar las acciones de construcción, rehabilitación, mantenimiento, habilitación y equipamiento de la infraestructura de SEIEM;
+
+XII. Someter a la consideración del Director General, los proyectos de programas de asignación de mobiliario escolar, material de mantenimiento preventivo, reparaciones y construcción que requiera SEIEM; y
+
+XIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ###### Artículo 21.
 
@@ -609,7 +613,9 @@ VIII. Supervisar el proceso de pago de remuneraciones al personal de SEIEM;
 
 IX. Expedir documentos en materia de prestaciones de seguridad social y escalafón para el personal de SEIEM;
 
-X. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 12 DE MAYO DE 2011)</small>
+
+X. Operar de manera directa los programas y acciones que se deriven de los acuerdos o convenios celebrados o que se celebren con el Sindicato Nacional de Trabajadores de la Educación, en materia de prestaciones laborales;
 
 XI. Vigilar la operación del sistema de promoción y desarrollo para el personal de apoyo y asistencia a la educación; y
 
@@ -802,3 +808,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Acuerdo.
+
+G.G. 12 DE MAYO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos, trámites y procedimientos relacionados con los programas de becas que venía atendiendo la Coordinación Académica y de Operación Educativa, antes de la entrada en vigor del presente Acuerdo, serán atendidos hasta su conclusión por la Coordinación de Administración y Finanzas y la Dirección de Administración y Desarrollo de Personal, en términos de las facultades que les asigna el presente ordenamiento.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
