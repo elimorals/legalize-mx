@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-34497"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-15"
-last_updated: "2010-12-15"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO, EVALUACION Y CONTROL DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 15 de septiembre de 2003.
 
@@ -1574,3 +1576,21 @@ Las actividades de la Dirección de Proyectos y Profesionalización en la Gesti�
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan o pudiesen oponerse al presente Decreto.
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal, para los fines de orden administrativo.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, publicado en el Periódico Oficial del Estado el quince de septiembre de dos mil tres.
+
+CUARTO.- Se deroga el Acuerdo que crea la Fiscalía Anticorrupción del Gobierno del Estado, órgano desconcentrado de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública del Estado, publicado en el Periódico Oficial del Estado, el día cinco de octubre de dos mil cinco.
+
+QUINTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
+
+SEXTO.- Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos y continuarán su substanciación y dictarán las resoluciones respectivas.
+
+SÉPTIMO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones legales y administrativas a las unidades que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+OCTAVO.- Los recursos humanos, financieros y materiales, asignados a las unidades administrativas, órganos o áreas que se modifican o desaparecen, serán transferidas a las unidades administrativas que correspondan, en términos del presente Reglamento, y la Coordinación General Administrativa efectuará las acciones necesarias para tal fin, previo acuerdo del Secretario.
