@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-de-capacitacion-para-el-24741
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-31"
-last_updated: "2008-02-22"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MICHOACAN, PUBLICADO EN LA TERCERA SECCION DEL P.O. DE FECHA 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -402,3 +404,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones administrativas en lo que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de Capacitación para el Trabajo del Estado de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 31 de diciembre de 2001.
+
+Artículo Tercero. Se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento Interior.
