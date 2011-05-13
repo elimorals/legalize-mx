@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-los-trabajadores-de-la-musica-del-municipio-15750
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-20"
-last_updated: "2004-11-20"
+last_updated: "2011-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 REGLAMENTO DE LOS TRABAJADORES DE LA MUSICA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MAYO DE 2011.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de enero de 2000.
 
@@ -39,99 +39,117 @@ La anterior resolución fue emitida en sesión ordinaria de cabildo del H. VII A
 
 P R O Y E C T O
 
-REGLAMENTO DE LOS TRABAJADORES DE LA MUSICA PARA EL MUNICIPIO DE LOS CABOS.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+REGLAMENTO DE LOS TRABAJADORES DE LA MUSICA DEL MUNICIPIO LOS CABOS B.C.S.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-El presente Reglamento tiene por objeto regular la actividad de los Trabajadores de la Música, cantantes, Trovadores y Conjuntos Musicales, ejecutantes de todos los géneros en el Municipio de Los Cabos, Baja California Sur.
+###### ARTICULO 1°.
 
-###### ARTICULO 2o.
+EL PRESENTE REGLAMENTO TIENE POR OBJETO REGULAR LA ACTIVIDAD DE LOS TRABAJADORES DE LA MUSICA, CANTANTES, TROVADORES Y CONJUNTOS MUSICALES EJECUTANTES DE TODOS LOS GENEROS EN EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR.
 
-Para efectos del presente Reglamento, se establecen las siguientes definiciones:
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-A) MUSICO O TRABAJADOR DE LA MUSICA.- Es toda persona que opera con un instrumento musical, sea de manera individual o formando parte de un grupo o conjunto, recibiendo por dicha actividad un sueldo, salario, honorario o comisión.
+###### ARTICULO 2°.
 
-B) TROVADOR O CANTANTE.- Es toda persona que canta en público y recibe por ello una remuneración económica que puede consistir en un sueldo, salario, honorario o comisión.
+PARA EFECTOS DEL PRESENTE REGLAMENTO SE ESTABLECEN LAS SIGUIENTES DEFINICIONES:
 
-C) BANDA Y/O ORQUESTA.- Son aquellos conjuntos que se integran con varios trabajadores de la Música y realizan su trabajo con distintos instrumentos musicales, inclusive electrónicos, pudiendo recibir por ello un sueldo, salario, honorario o comisión.
+A) MUSICO O TRABAJADOR DE LA MUSICA.- ES TODA PERSONA QUE OPERA CON UN INSTRUMENTO MUSICAL, SEA DE MANERA INDIVIDUAL O FORMANDO PARTE DE UN GRUPO O CONJUNTO RECIBIENDO POR DICHA ACTIVIADAD (SIC) UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-D) CONJUNTO MODERNO.- Se integran por varios trabajadores Músicos que realizan su trabajo empleando aparatos e instrumentos musicales electrónicos, recibiendo por ello un sueldo, salario, honorario o comisión.
+B) TROVADOR O CANTANTE.- ES TODA PERSONA QUE CANTA EN PUBLICO Y RECIBE POR ELLO UNA REMUNERACION ECONOMICA QUE PUEDE CONSISTIR EN UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-F) (SIC) CONJUNTO NORTEÑO.- Grupo Musical integrado por trabajadores músicos que realizan su trabajo interpretando música norteña y otros géneros de canciones, preferentemente la señalada en primer término, recibiendo por ello un sueldo, salario, honorario o comisión.
+C) BANDA Y/O ORQUESTA.- SON AQUELLOS CONJUNTOS QUE SE INTEGRAN CON VARIOS TRABAJADORES DE LA MUSICA Y REALIZAN SU TRABAJO CON DISTINTOS INSTRUMENTOS MUSICALES, INCLUSIVE ELECTRONICOS, PUDIENDO RECIBIR POR ELLO UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-G) DUETOS, TRIOS, CUARTETOS Y QUINTETOS.- Son los que se forman de la unión de varios músicos y cantantes, que acompañados de instrumentos musicales o sin ellos, solos o en grupos, hacen uso de música y voz para otorgar un servicio de música a quien se los solicite, recibiendo por ello, un sueldo, salario, honorario o comisión.
+D) CONJUNTO MODERNO.- SE INTEGRAN POR VARIOS TRABAJADORES MUSICOS QUE REALIZAN SU TRABAJO EMPLEANDO APARATOS E INSTRUMENTOS MUSICALES ELECTRONICOS, RECIBIENDO POR ELLO UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-H) MUSICOS DE PASO.- Son los trabajadores de la música, cantantes y trovadores foráneos; que para poder trabajar dentro del Municipio de Los Cabos, Baja California Sur, deberán cubrir su CUOTA DE PASO, mismo que deberá cubrir a la organización de músicos a que pertenezca como socio y que esté debidamente acreditada ante este H. Ayuntamiento Cabeño.
+E) CONJUNTO NORTEÑO.- GRUPO MUSICAL INTEGRADO POR TRABAJADORES MUSICOS QUE REALIZAN SU TRABAJO INTERPRETANDO MUSICA NORTEÑA Y OTROS GENEROS DE CANCIONES, PREFERENTE LA SEÑALADA EN PRIMER TERMINO, RECIBIENDO POR ELLO UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-I) LUZ Y SONIDO.- Son áquellas personas que son propietarias de aparatos electrónicos y que ofrecen sus servicios al igual que los Conjuntos Musicales, por lo tanto, sus derechos y obligaciones deben ser los mismos.
+F) DUETOS, TRIOS, CUARTETOS Y QUINTETOS.- SON LOS QUE SE FORMAN DE LA UNION DE VARIOS MUSICOS Y CANTANTES QUE ACOMPAÑADOS DE INSTRUMENTOS MUSICALES O SIN ELLOS, SOLOS O EN GRUPOS, HACEN USO DE MUSICA Y VOZ PARA OTORGAR UN SERVICIO DE MUSICA A QUIEN SE LOS SOLICITE, RECIBIENDO POR ELLO UN SUELDO, SALARIO, HONORARIO O COMISION.
 
-###### ARTICULO 3o.
+G) MUSICOS DE PASO.- SON LOS TRABAJADORES DE LA MUSICA CANTANTES Y TROVADORES NACIONALES O EXTRANJEROS PROVENIENTES DE OTRO LUGAR AJENO A ESTE MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR; QUE PARA PODER TRABAJAR DENTRO DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, DEBERAN CUBRIR SU CUOTA DE PASO, MISMO QUE DEBERA CUBRIR A LA ORGANIZACIÓN DE MUSICOS A QUE PERTENEZCA COMO SOCIO Y QUE ESTE DEBIDAMENTE ACREDITADA ANTE ESTE H. AYUNTAMIENTO CABEÑO.
 
-Todo grupo o Conjunto Musical o equipo de Luz y Sonido contemplado dentro de las definiciones del ARTICULO 2o. de éste Reglamento, será representado por un Jefe o Director, el cual es el inmediato responsable de la conducta general en todos sus aspectos de los trabajadores músicos al proporcionar su trabajo de música, quien a su vez será el encargado de que cada uno de ellos, cumpla con las obligaciones y derechos del presente ordenamiento.
+H) LUZ Y SONIDO.- SON AQUELLAS PERSONAS QUE SON PROPIETARIAS DE APARATOS ELECTRONICOS Y QUE OFRECEN SUS SERVICIOS AL IGUAL QUE LOS CONJUNTOS MUSICALES, POR LO TANTO, SUS DERECHOS Y OBLIGACIONES DEBEN SER LOS MISMOS.
+
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+###### ARTICULO 3°.
+
+TODO GRUPO O CONJUNTO MUSICAL O EQUIPO DE LUZ Y SONIDO CONTEMPLADO DENTRO DE LAS DEFINICIONES DEL ARTICULO SEGUNDO DE ESTE REGLAMENTO, SERA REPRESENTADO POR UN JEFE O DIRECTOR, EL CUAL ES EL INMEDIATO RESPONSABLE DE LA CONDUCTA GENERAL EN TODOS SUS ASPECTOS, DE LOS TRABAJADORES MUSICOS AL PROPORCIONAR SU TRABAJO DE MUSICA QUIEN A SU VEZ SERA EL ENCARGADO DE QUE CADA UNO DE ELLOS, CUMPLA CON LAS OBLIGACIONES Y DERECHOS DEL PRESENTE ORDENAMIENTO.
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS PUBLICOS
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-De los lugares como cantinas, bares, centros nocturnos, restaurantes y otros establecimientos similares, se permitirá el acceso a los trabajadores de la Música Ambulantes, con el objeto que de manera atenta y respetuosa, ofrezcan su trabajo de música a toda persona que se lo solicite, obligándose a retirarse de inmediato del negocio si no encuentran quien requiera de sus servicios musicales, como también al momento de terminada su actuación y que ya nadie los ocupe dentro del mismo establecimiento.
+###### ARTICULO 4°.
 
-Mientras se ofrezca y dure la actuación de los Trabajadores de la música ambulantes, cantantes o trovadores, deberán apagarse los aparatos electrónicos o electromecánicos musicales que operen en el local, para lo cual, el conjunto musical visitante, a través de su representante, o bien el Trovador o cantante, solicitará de manera respetuosa al encargado del negocio sea suspendido brevemente el funcionamiento del aparato electrónico musical al termino de la melodía que se estuviera en esos momentos tocando.
+DE LOS LUGARES COMO CANTINAS, BARES, CENTROS NOCTURNOS, RESTAURANTES Y OTROS ESTABLECIMIENTOS SIMILARES, SE PERMITIRA EL ACCESO A LOS TRABAJADORES DE LA MUSICA AMBULANTES, CON EL OBJETO DE QUE DE MANERA ATENTA Y RESPETUOSA, OFREZCAN SU TRABAJO DE MUSICA A TODA PERSONA QUE SE LE SOLICITE, OBLIGANDOSE A RETIRARSE DE INMEDIATO DEL NEGOCIO SI NO ENCUENTRAN QUIEN REQUIERA DE SUS SERVICIOS MUSICALES, COMO TAMBIEN AL MOMENTO DE TERMINADA SU ACTUACION Y QUE YA NADIE LOS OCUPE DENTRO DEL MISMO ESTABLECIMIENTO.
 
-Queda prohibido a los propietarios o encargados de los establecimientos a que este Artículo 4o. se refiera, cobrar a los trabajadores de la Música ambulantes, cantantes y trovadores por desarrollar su actividad de músicos en sus locales.
+MIENTRAS SE OFREZCA Y DURE LA ACTUACION DE LOS TRABAJADORES DE LA MUSICA AMBULANTES, CANTANTES O TROVADORES, DEBERAN APAGARSE LOS APARATOS ELECTRONICOS O ELECTROMECANICOS MUSICALES QUE OPEREN EN EL LOCAL, PARA LO CUAL, EL CONJUNTO MUSICAL VISITANTE, A TRAVES DE SU REPRESENTANTE, O BIEN EL TROVADOR O CANTANTE, SOLICITARA DE MANERA RESPETUOSA AL ENCARGADO DEL NEGOCIO SEA SUSPENDIDO BREVEMENTE EL FUNCIONAMIENTO DEL APARATO ELECTRONICO MUSICAL AL TERMINO DE LA MELODIA QUE SE ESTUVIERA EN ESOS MOMENTOS TOCANDO.
 
-Mientras dure la actuación de los Trabajadores Músicos Ambulantes, Cantantes y Trovadores, deberán apagarse los aparatos electrónicos musicales que operen en el local.
+QUEDA PROHIBIDO A LOS PROPIETARIOS O ENCARGADOS DE LOS ESTABLECIMIENTOS A QUE ESTE ARTICULO 4° SE REFIERA, COBRAR A LOS TRABAJADORES DE LA MUSICA AMBULANTES, CANTANTES Y TROVADORES POR DESARROLLAR SU ACTIVIDAD DE MUSICOS EN SUS LOCALES.
 
-El propietario, administrador o encargado del negocio, será el responsable del escrito (sic) control del manejo de los aparatos electrónicos musicales, durante la actuación de los filarmónicos, evitando con ello que personas ajenas al establecimiento manipulen arbitrariamente el encendido de los mismos.
+MIENTRAS DURE LA ACTUACION DE LOS TRABAJADORES MUSICOS AMBULANTES, CANTANTES Y TROVADORES, DEBERAN APAGARSE LOS APARATOS ELECTRONICOS O ELECTROMECANICOS MUSICALES QUE OPEREN EN EL LOCAL.
 
-Si los aparatos electrónicos musicales estan bajo el control de otra persona, el propietario o administrador del establecimiento tomará las medidas pertinentes para que se cumpla esta disposición.
+EL PROPIETARIO, ADMINISTRADOR O ENCARGADO DEL NEGOCIO, SERA EL RESPONSABLE DEL ESTRICTO CONTROL DEL MANEJO DE LOS APARATOS ELECTRONICOS MUSICALES, DURANTE LA ACTUACION DE LOS FILARMONICOS, EVITANDO CON ELLO QUE PERSONAS AJENAS AL ESTABLECIMIENTO MANIPULEN ARBITRARIAMENTE EL ENCENDIDO DE LOS MISMOS.
 
-Los filarmónicos ambulantes, podrán desarrollar su trabajo de música dentro del horario del establecimiento hasta media hora antes de la fijada para su cierre por la Autoridad Municipal.
+SI LOS APARATOS ELECTRONICOS MUSICALES ESTAN BAJO EL CONTROL DE OTRA PERSONA, EL PROPIETARIO O ADMINISTRADOR DEL ESTABLECIMIENTO TOMARA LAS MEDIDAS PERTINENTES PARA QUE SE LE CUMPLA ESTA DISPOSICION.
 
-Los Filarmónicos ambulantes deberán evitar el congestionamiento en todos los lugares que deban tener acceso por la índole propia de su trabajo.
+LOS FILARMONICOS AMBULANTES, PODRÁN DESARROLLAR SU TRABAJO DE MUSICA DENTRO DEL HORARIO DEL ESTABLECIMIENTO HASTA MEDIA HORA ANTES DE LA FIJADA ÁRA (SIC) SU CIERRE POR LA AUTORIDAD MUNICIPAL.
 
-En lugares cerrados no se permitirá entrada simultánea de dos o más Grupos Musicales Ambulantes. Debiendo esperar la salida del primero para poder acceder al local.
+FILARMONICOS AMBULANTES, DEBERAN EVITAR EL CONGESTIONAMIENTO EN TODOS LOS LUGARES QUE DEBAN TENER ACCESO POR LA INDOLE PROPIA DE SU TRABAJO.
 
-###### ARTICULO 5o.
+EN LOS LUGARES CERRADOS NO SE PERMITIRA ENTRADA SIMULTANEA DE DOS O MAS GRUPOS MUSICALES AMBULANTES, DEBIENDO ESPERAR LA SALIDA DEL PRIMERO PARA PODER ACCEDER AL LOCAL.
 
-En el funcionamiento de las discotecas, salones de Bailes y en los lugares que se utilicen aparatos electrónicos musicales, y se cobre con fines de lucro y especulación, se exigirá que sus propietarios o promotores contraten eventualmente para tal efectos (sic), un grupo musical de la localidad para que alteren (sic), con la música grabada.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 6o.
+###### ARTICULO 5°.
 
-Todo promotor, organismo, grupo, asociación o comité que organice bailes con fines de lucro y especulación y contrate a grupos musicales foráneos provenientes de otro lugar ajeno a este Municipio de Los Cabos, Baja California Sur, deberá contratar en alternativa a grupos musicales que radiquen en este Municipio Cabeño, y que a su vez se encuentren adheridos a alguna organización sindical de música legalmente acreditada ante este Ayuntamiento.
+EN EL FUNCIONAMIENTO DE LAS DISCOTECAS, SALONES DE BAILES Y EN LOS LUGARES QUE SE UTILICEN APARATOS ELECTRONICOS MUSICALES, Y SE COBRE CON FINES DE LUCRO Y ESPECULACION, SE EXIGIRA QUE SUS PROPIETARIOS O PROMOTORES CONTRATEN EVENTUALMENTE PARA TAL EFECTOS (SIC), UN GRUPO MUSICAL DE LA LOCALIDAD PARA QUE ALTERNEN CON LA MUSICA GRABADA.
 
-De no hacerse esta contratación, el grupo musical foráneo contratado deberá cubrir su CUOTA DE DESPLAZAMIENTO correspondiente de la cual será siempre responsable para que se efectúe el promotor, grupo, organismo o comité que lo haya contratado como garantía ante el sindicato u organización de trabajadores músicos que pertenezca.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Asímismo, y de onformidad (sic) con el inciso H del Artículo 2o. del presente ordenamiento, deberá cubrirse la CUOTA DE PASO, independientemente de los demás aspectos tributarios que corresponda pagar al Ayuntamiento.
+###### ARTICULO 6°.
 
-Ningún Grupo Musical que radique dentro del Municipio de Los Cabos Baja California Sur, tendrá derecho de alternativa si éste no se encuentra debidamente organizado dentro de una organización de músicos.
+TODO PROMOTOR, ORGANISMO, GRUPO, ASOCIACION O COMITÉ QUE ORGANICE BAILES CON FINES DE LUCRO Y ESPECULACION Y CONTRATE A GRUPOS MUSICALES NACIONALES O EXTRANJEROS PROVENIENTES DE OTRO LUGAR AJENO A ESTE MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, DEBERA CONTRATAR EN ALTERNATIVA A GRUPOS MUSICALES QUE RADIQUEN EN ESTE MUNICIPIO CABEÑO. Y QUE A SU VEZ SE ENCUENTREN ADHERIDOS A ALGUNA ORGANIZACIÓN SINDICAL DE MUSICA LEGALMENTE ACREDITADA ANTE ESTE AYUNTAMIENTO.
 
-El Honorable Ayuntamiento de Los Cabos, independientemente de los requisitos que exige el presente Reglamento, para que un Sindicato se le considere una organización sindical legalmente constituida, ecigirá (sic) a éste que como mínimo celebre DOS ASAMBLEAS MENSUALES, cuyo número será supervisado a través de su Secretario General o Dependencia Oficial correspondiente, con el único fin de demostrar la vida sindical de estas organizaciones.
+DE NO HACER ESTA CONTRATACION, EL GRUPO MUSICAL NACIONAL O EXTRANJERO PROVENIENTES (SIC) DE OTRO LUGAR AJENO A ESTE MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR CONTRATADO DEBERA CUBRIR SU CUOTA DE DESPLAZAMIENTO, CORRESPONDIENTE DE LA CUAL SERA SIEMPRE RESPONSABLE PARA QUE SE EFECTUE EL PROMOTOR, GRUPO, ORGANISMO O COMITÉ QUE LO HAYA CONTRATADO COMO GARANTIA ANTE EL SINDICATO U ORGANIZACIÓN DE TRABAJADORES MUSICOS QUE PERTENEZCA.
 
-Lo anterior se hace para evitar organizaciones de la música fantasmas que perjudicarían al gremio realmente organizado, alterando gravemente su armonía dentro de la vida Municipal.
+ASI MISMO (SIC), Y DE CONFORMIDAD CON EL INCISO II DEL ARTICULO 2° DEL PRESENTE ORDENAMIENTO, DEBERA CUBRIRSE LA CUOTA DE PASO, INDEPENDIENTEMENTE DE LOS DEMAS ASPECTOS TRIBUTARIOS QUE CORRESPONDA PAGAR AL AYUNTAMIENTO.
 
-Asímismo, para proteger la armonía que equilibre la actividad de música dentro del Municipio de Los Cabos Baja California Sur, no se aceptarán los registros de conjuntos musicales y músicos independientes en lo particular, su registro será siempre a través de una organización de la música debidamente acreditada ante el ayuntamiento, lo cual normará y equilibrará siempre ésta actividad dentro de la vida Municipal, garantizando un beneficio para todos los músicos en general sin importar credo, pensamiento político u otra circunstancia que en lo índividual se tenga.
+NINGUN GRUPO MUSICAL QUE RADIQUE DENTRO DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, TENDRA DERECHO DE ALTERNATIVA SI ESTE NO SE ENCUENTRA DEBIDAMENTE ORGANIZADO DENTRO DE UNA ORGANIZACIÓN DE MUSICOS.
 
-Lo anterior garantiza que no haya privilegios para organizaciones de la música o músicos, trovadores y cantantes en lo particular.
+EL HONORABLE AYUNTAMIENTO DE LOS CABOS, INDEPENDIENTEMENTE DE LOS REQUISITOS QUE EXIGE EL PRESENTE REGLAMENTO, PARA QUE UN (SIC) SINDICATO SE LE CONSIDERE UNA ORGANIZACIÓN SINDICAL LEGALMENTE CONSTITUIDA, EXIGIRA A ESTE QUE COMO MINIMO CELEBRE DOS ASAMBLEAS MENSUALES, CUYO NUMERO SERA SUPERVISADO A TRAVES DE SU SECRETARIO GENERAL O DEPENDENCIA OFICIAL CORRESPONDIENTE, CON EL UNICO FIN DE DEMOSTRAR LA VIDA SINDICAL DE ESTAS ORGANIZACIONES.
 
-Garantiza el derecho al trabajo de manera ordenada y equilibrada para todos los que se dedican a esta actividad en general, normada con su Reglamentación Musical respectiva.
+LO ANTERIOR SE HACE PARA EVITAR ORGANIZACIONES DE LA MUSICA FANTASMAS QUE PERJUDICARAN AL GREMIO REALMENTE ORGANIZADO, ALTERANDO GRAVEMENTE SU ARMONIA DENTRO DE LA VIDA MUNICIPAL.
 
-Todo trabajador músico, trovador, o cantante, está obligado a lo que establece este ordenamiento municipal, toda vez que garantiza la armonía del gremio de la música en general.
+ASI MISMO (SIC), PARA PROTEGER LA ARMONIA QUE EQUILIBRE LA ACTIVIDAD DE MUSICA DENTRO DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, NO SE ACEPTARAN LOS REGISTROS DE CONJUNTOS MUSICALES Y MUSICOS INDEPENDIENTES EN LO PARTICULAR, SU REGISTRO SERA SIEMPRE A TRAVES DE UNA ORGANIZACIÓN DE LA MUSICA DEBIDAMENTE ACREDITADA ANTE EL AYUNTAMIENTO, LO CUAL NORMARA Y EQUILIBRARA SIEMPRE ESTA ACTIVIDAD DE LA VIDA MUNICIPAL, GARANTIZANDO UN BENEFICIO PARA TODOS LOS MUSICOS, EN GENERAL SIN IMPORTAR CREDO, PENSAMIENTO POLITICO U OTRA CIRCUNSTANCIA QUE EN LO INDIVIDUAL SE TENGA.
+
+LO ANTERIOR GARANTIZA QUE NO HAYA PRIVILEGIOS PARA ORGANIZACIONES DE LA MUSICA O MUSICOS, TROVADORES Y CANTANTES EN LO PARTICULAR.
+
+GARANTIZA EL DERECHO AL TRABAJO DE MANERA ORDENADA Y EQUILIBRADA PARA TODOS LOS QUE SE DEDICAN A ESTA ACTIVIDAD EN GENERAL, NORMADA CON SU REGLAMENTACION MUSICAL RESPECTIVA.
+
+TODO TROVADOR MUSICO, TROVADOR, O CANTANTE, ESTA OBLIGADO A LO QUE ESTABLECE ESTE ORDENAMIENTO MUNICIPAL, TODA VEZ QUE GARANTIZA LA ARMONIA DEL GREMIO DE LA MUSICA EN GENERAL.
 
 ### CAPITULO III. DEL REGISTRO Y CONTROL DE LOS MUSICOS, CANTANTES Y TROVADORES
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Es responsabilidad de la Secretaría General Municipal estricta vigilancia, con el apoyo de todos los inspectores Municipales, el cumplimiento de éste reglamento.
+###### ARTICULO 7°.
 
-###### ARTICULO 8o.
+ES RESPONSABILIDAD DE LA SECRETARIA GENERAL MUNICIPAL ESTRICTA VIGILADA (SIC), CON EL APOYO DE TODOS LOS INSPECTORES MUNICIPALES, EL CUMPLIMIENTO DE ESTE REGLAMENTO.
 
-Para operar como músico trovador y cantante dentro de cada una de las definiciones del Artículo 2o. de este Ordenamiento de Músicos del Municipio de los Cabos, B.C.S., será requisito lo siguiente:
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-A) Ser mayor de 16 Años, y previo consentimiento de sus Padres o tutores, mismo que deberá darse por escrito.
+###### ARTICULO 8°.
 
-B) Inscribirse ante la Secretaría General Municipal en el Padrón de Músicos, Trovadores y cantantes, a través de la organización de la música que pertenezca, proporcionados (sic) los datos básico (sic) siguientes:
+PARA OPERAR COMO MUSICO TROVADOR Y CANTANTE DENTRO DE CADA UNA DE LAS DEFINICIONES DEL ARTICULO 2°. DE ESTE ORDENAMIENTO DE MUSICOS DEL MUNICIPIO DE LOS CABOS, B.C.S., SERA REQUISITO LO SIGUIENTE:
+
+A) SER MAYOR DE 16 AÑOS, Y PREVIO CONSENTIMIENTO DE SUS PADRES O TUTORES, MISMO QUE DEBERA DARSE POR ESCRITO.
+
+B) INSCRIBIRSE ANTE LA SECRETARIA GENERAL MUNICIPAL EN EL PADRON DE MUSICOS, TROVADORES Y CANTANTES, A TRAVES DE LA ORGANIZACIÓN DE LA MUSICA QUE PERTENEZCA, PROPORCIONADOS (SIC) LOS DATOS BASICO (SIC) SIGUIENTES:
 
 - FECHA
 
@@ -145,179 +163,193 @@ B) Inscribirse ante la Secretaría General Municipal en el Padrón de Músicos, 
 
 - INSTRUMENTO (S) MUSICAL (S) QUE TOCA
 
-- ORGANIZACION SINDICAL DE MUSICOS A LA QUE PERTENECE Y NUMERO DE REGISTRO ANTE LAS AUTORIDADE (SIC) LABORALES COMPETENTES
+- ORGANIZACIÓN SINDICAL DE MUSICOS A LA QUE PERTENECE Y NUMERO DE REGISTRO ANTE LAS AUTORIDADES LABORALES COMPETENTES
 
-- NUMERO DE REGISTRO DE CONTROL DENTRO DE LA ORGANIZACION SINDICAL DE MUSICOS A QUE PERTENEZCA.
+- NUMERO DE REGISTRO DE CONTROL DENTRO DE LA ORGANIZACIÓN SINDICAL DE MUSICOS A QUE PERTENEZCA.
 
-C) Observar buena conducta en lo individual, así como dentro y fuera del grupo musical a que pertenezca.
+C) OBSERVAR BUENA CONDUCTA EN LO INDIVIDUAL, ASI COMO DENTRO Y FUERA DEL GRUPO MUSICAL A QUE PERTENEZCA.
 
-D) Presentarse en el desempeño de su trabajo debidamente aseado y observar buenas maneras en el trato continuo con la clientela.
+D) PRESENTAR (SIC) EN EL DESEMPEÑO DE SU TRABAJO DEBIDAMENTE ASEADO Y OBSERVAR BUENAS MANERA (SIC) EN EL TRATO CONTINUO CON LA CLIENTELA
 
-E) Tratar con cortesía, buenas maneras y respetar a todas las personas en general que se encuentren en el lugar en que se encontrará trabajando.
+E) TRATAR CON CORTESIA, BUENAS MANERAS DE RESPETAR A TODAS LAS PERSONAS EN GENERAL QUE SE ENCUENTREN EN EL LUGAR EN QUE SE ENCONTRARA TRABAJANDO
 
-F) En caso de contravenir lo señalado en los incisos C, D y E de éste artículo, el Ayuntamiento de Los Cabos, por medio de la Secretaría General Municipal, procederá hacerle un extrañamiento al hacerlo por segunda vez, procederá a la cancelación de su registro, notificando en ambos casos a la organización de músicos o agrupaciones similar a que pertenezca para efecto de las sanciones internas a que haya lugar.
+F) EN CASO DE CONTRAVENIR LO SEÑALADO EN LOS INCISOS C, D Y E DE ESTE ARTICULO, EL AYUNTAMIENTO DE LOS CABOS, POR MEDIO DE LA SECRETARIA GENERAL MUNICIPAL, PROCEDERA HACERLE UN EXTRAÑAMIENTO AL HACERLO POR SEGUNDA VEZ, PROCEDERA A LA CANCELACION DE SU REGISTRO, NOTIFICANDO EN AMBOS CASOS A LA ORGANIZACION DE MUSICOS O AGRUPACIONES SIMILAR (SIC) A QUE PERTENEZCA PARA EFECTO DE LAS SANCIONES INTERNAS A QUE HAYA LUGAR.
 
 ### CAPITULO IV. DE LAS ORGANIZACIONES SINDICALES DE MUSICOS, CANTANTES Y TROVADORES
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Toda agrupación de músicos, cantantes y trovadores con personalidad jurídica y con registro nacional y/o local ante la Dirección de Trabajo Laboral, de conciliación y arbitraje Federal y/o Estatal, será considerada como una organización Sindical de Músicos.
+###### ARTICULO 9°.
 
-Para el efecto de este Reglamento, la agrupación musical de músicos para (sic) que no cumpla con éste requisito, no podrá actuar dentro del Municipio de Los Cabos, Baja California Sur.
+TODA AGRUPACION DE MUSICOS, CANTANTES Y TROVADORES CON PERSONALIDAD JURIDICA Y CON REGISTRO NACIONAL Y/O LOCAL ANTE LA DIRECCION DE TRABAJO LABORAL, DE CONCILIACION Y ARBITRAJE FEDERAL Y/O ESTATAL, SERA CONSIDERADA COMO UNA ORGANIZACION SINDICAL DE MUSICOS.
 
-Todas las organizaciones sindicales que integran los filarmónicos deben registrarse ante la Secretaría General Municipal para ser reconocidos en sus derechos, debiendo entregar la siguiente documentación:
+PARA EL EFECTO DE ESTE REGLAMENTO, LA AGRUPACION MUSICAL DE MUSICOS (SIC) QUE NO CUMPLA CON ESTE REQUISITO, NO PODRA ACTUAR DENTRO DEL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR.
 
-1.- Copia del Acta de Elección como representante o dirigente sindical actuzlizada (sic), con periodo de inicio y término del mismo.
+TODAS LAS ORGANIZACIONES SINDICALES QUE INTEGRAN LOS FILARMONICOS DEBEN REGISTRASE (SIC) ANTE LA SECRETARIA GENERAL MUNICIPAL PARA SER RECONOCIDOS EN SUS DERECHOS, DEBIENDO ENTREGAR LA SIGUIENTE DOCUMENTACION:
 
-2.- Número de registro ante La Honorable Junta Local de Conciliación y Arbitraje de Baja California Sur y/o Dirección del Trabajo.
+1.- COPIA DEL ACTA DE ELECCION COMO REPRESENTANTE O DIRIGENTE SINDICAL ACTUALIZADA, CON PERIODO DE INICIO Y TÉRMINO DEL MISMO.
 
-3.- Padrón de miembros actualizado.
+2.- NUMERO DE REGISTRO ANTE LA HONORABLE JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DE BAJA CALIFORNIA SUR Y/O DIRECCION DEL TRABAJO.
 
-Las organizaciones de músicos que renueven su directiva o representación, de acuerdo a su régimen interno, deberán cumplir con lo especificado en el requisito numero uno.
+3.- PADRON DE MIEMBROS ACTUALIZADO.
 
-El registro de actualización de miembros ante el Padrón Municipal de Músicos será permanente, anunciando las altas y bajas por escrito.
+LAS ORGANIZACIONES DE MUSICOS QUE RENUEVEN SU DIRECTIVA O REPRESENTACION, DE ACUERDO A SU REGIMEN INTERNO, DEBERAN CUMPLIR CON LO ESPECIFICADO EN EL REQUISITO NUMERO UNO.
 
-Las organizaciones de músicos acreditadas legalmente ante el Ayuntamiento Cabeño, tendrá la facultad de nombrar ante la Secretaría General Municipal, a dos de sus representantes para ventilar cualquier asunto relacionado con la actividad del gremio.
+EL REGISTRO DE ACTUALIZACION DE MIEMBROS ANTE EL PADRON MUNICIPAL DE MUSICOS SERA PERMANENTE, ANUNCIANDO LAS ALTAS Y BAJAS POR ESCRITO.
 
-###### ARTICULO 10o.
+LAS ORGANIZACIONES DE MUSICOS ACREDITADAS LEGALMENTE ANTE EL AYUNTAMIENTO CABEÑO, TENDRA LA FACULTAD DE NOMBRAR ANTE LA SECRETARIA GENERAL MUNICIPAL, A DOS DE SUS REPRESENTANTES PARA VENTILAR CUALQUIER ASUNTO RELACIONADO CON LA ACTIVIDAD DEL GREMIO.
 
-El Ayuntamiento, a través de la Secretaría General Municipal, apoyará integramente las disposiciones del Capítulo XI en sus Artículos 304, 306, 307, 308, 309, 310 y demás relativos de la Ley Federal del Trabajo, que contiene aspectos legales, aplicables al gremio de músicos y actores.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 11o.
+###### ARTICULO 10°.
 
-La Secretaría General Municipal, autorizará o validará una credencial de identificación a los músicos, trovadores y cantantes autorizados para actuar en el Municipio de los Cabos, B.C.S., las cuales serán entregadas a través de la organización de músicos a la que pertenezcan, para el mejor control y normatividad de quienes ejercen esta actividad.
+EL AYUNTAMIENTO, A TRAVES DE LA SECRETARIA GENERAL MUNICIPAL, APOYARA INTEGRALMENTE LAS DISPOSICIONES DEL CAPITULO XI EN SUS ARTICULOS 304, 306, 307, 308, 309, 310 Y DEMAS RELATIVOS DE LA LEY FEDERAL DEL TRABAJO, QUE CONTIENE ASPECTOS LEGALES, APLICABLES AL GREMIO DE MUSICOS Y ACTORES.
 
-###### ARTICULO 12o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-El Ayuntamiento de Los Cabos, B.C.S., no otorgará permisos para trabajar a grupos o conjuntos musicales, trovadores o cantantes foráneos que pretendan ejercer ésta actividad dentro de éste Municipio Cabeño, sin venir contratados por un establecimiento, empresa, comité o promotor los cuales comprobarán para tales efectos con una copia del contrato de condiciones establecido con el contratante.
+###### ARTICULO 11°.
 
-### CAPITULO V. DE LA ORGANIZACION DE LAS AGRUPACIONES Y ORGANIZACIONES SINDICALES
+LA SECRETARIA GENERAL MUNICIPAL, AUTORIZARA O VALIDARA UNA CREDENCIAL DE IDENTIFICACION A LOS MUSICOS, TROVADORES Y CANTANTES AUTORIZADOS PARA ACTUAR EN EL MUNICIPIO DE LOS CABOS, B.C.S., LAS CUALES SERAN ENTREGADAS A TRAVES DE LA ORGANIZACIÓN DE MUSICOS A LA QUE PERTENEZCAN, PARA MEJOR CONTROL Y NORMATIVIDAD DE QUIENES EJERCEN ESTA ACTIVIDAD.
 
-###### ARTICULO 13o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Para vigilar el cumplimiento del presente Reglamento, el Ayuntamiento Cabeño contará con la colaboración de las organizaciones sindicales de la música acreditadas legalmente, a quienes solicitará:
+###### ARTICULO 12°.
 
-A) Denunciar ente (sic) la Secretaría General Municipal, Tesorería o a los Inspectores Municipales de Espectáculos Públicos o Inspección Fiscal, a los Grupos de música, cantantes y trovadores que actúen al margen de este Ordenamiento, sean miembros o no de la agrupación, mismos que se encuentran evadiendo los requisitos aquí señalados para trabajar.
+EL AYUNTAMIENTO DE LOS CABOS, B.C.S., NO OTORGARA PERMISOS PARA TRABAJAR A GRUPOS O CONJUNTOS MUSICALES, TROVADORES O CANTANTES NACIONALES O EXTRANJEROS PROVENIENTES DE OTRO LUGAR AJENO A ESTE MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR, QUE PRETENDAN EJERCER ESTA ACTIVIDAD DENTRO DEL MUNICIPIO CABEÑO, SIN VENIR CONTRATADOS POR UN ESTABLECIMIENTO, EMPRESA, COMITÉ O PROMOTOR LOS CUALES COMPROBARAN PARA TALES EFECTOS CON UNA COPIA DEL CONTRATO DE CONDICIONES ESTABLECIDO CON EL CONTRATANTE.
 
-B) Denunciar ante la autoridad Municipal competentes, sean o no de su agrupación de músicos a los infractores reincidentes para que se les imponga la sanción que ameriten, o bien se les prohíba ejercer como músicos, trovadores y cantantes, en tanto no regularicen su situación con su sindicato al que pertenezcan o depongan su actitud perjudicial para todo el gremio organizado.
+### CAPITULO V. DE LA ORGANIZACIÓN DE LAS AGRUPACIONES Y ORGANIZACIONES SINDICALES
 
-C) Colaborar con las Autoridades Municipales cuando así se les requiera.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+###### ARTICULO 13°.
+
+PARA VIGILAR EL CUMPLIMIENTO DEL PRESENTE REGLAMENTO, EL AYUNTAMIENTO CABEÑO CONTARA CON LA COLABORACION DE LAS ORGANIZACIONES SINDICALES DE LA MUSICA ACREDITADAS LEGALMENTE, A QUIENES SOLICITARA:
+
+A) DENUNCIAR ANTE LA SECRETARIA GENERAL MUNICIPAL, TESORERIA O A LOS INSPECTORES MUNICIPALES DE ESPECTACULOS PUBLICOS O INSPECCION FISCAL, A LOS GRUPOS DE MUSICA, CANTANTES Y TROVADORES QUE ACTUEN AL MARGEN DE ESTE ORDENAMIENTO, SEAN MIEMBROS O NO DE LA AGRUPACION, MISMOS QUE SE ENCUENTRAN EVADIENDO LOS REQUISITOS AQUÍ SEÑALADOS PARA TRABAJAR.
+
+B) DENUNCIAR ANTE LA AUTORIDAD MUNICIPAL COMPETENTES (SIC), SEAN O NO DE SU AGRUPACION DE MUSICOS A LOS INFRACTORES REINCIDENTES PARA QUE SE LES IMPONGA LA SANCION QUE AMERITEN, O BIEN SE LES PROHIBA EJERCER COMO MUSICOS, TROVADORES Y CANTANTES, EN TANTO NO REGULARICEN SU SITUACION CON SU SINDICATO AL QUE PERTENEZCAN O DEPONGAN SU ACTITUD PERJUDICIAL PARA TODO EL GREMIO ORGANIZADO.
+
+C) COLABORAR CON LAS AUTORIDADES MUNICIPALES CUANDO ASI SE LES REQUIERA.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE NOVIEMBRE DE 2004)</small>
 
 ### CAPITULO VI. DE LAS SANCIONES
 
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 13o.
+ARTICULO 13° BIS.- POR LAS VIOLACIONES A LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE REGLAMENTO SE IMPONDRAN LAS SIGUIENTES SANCIONES:
 
-BIS.- Por las violaciones a las disposiciones contenidas en el presente Reglamento se impondrán las siguientes sanciones:
+I.- AMONESTACION. QUE ES LA RECONCENCION PRIVADA QIE (SIC) LA AUTORIDAD MUNICIPAL HACE POR ESCRITO O EN FORMA VERBAL AL INFRACTOR Y DE LA QUE LA AUTORIDAD MUNICIPAL CONSERVA ANTECEDENTES.
 
-I.- AMONESTACION. Que es la reconvención privada que la Autoridad Municipal hace por escrito o en forma verbal al infractor y de la que la Autoridad Municipal conserva antecedentes.
+II.- MULTA. QUE ES EL PAGO DE UNA CANTIDAD DE DINERO QUE EL INFRACTOR HACE AL MUNICIPIO Y QUE TRATANDOSE DE JORNALEROS, OBREROS O TRABAJADORES, NO EXCEDERA DEL IMPORTE DE SU JORNAL O SALARIO DE 1 (UN) DIA, SI EL ENFRACTOR (SIC) ES UN TRABAJADOR NO ASALARIADO, DICHO PAGO NO SERA MAYOR DEL EQUIVALENTE A UN DIA DE SU INGRESO IGUAL, SI EL INFRACTOR NO PAGASE LA SANCION ECONOMICA QUE SE LE HUBIESE IMPUESTO, SE PERMUTARA ESTA POR ARRESTO ADMINISTRATIVO, QUE EN NINGUN CASO EXCEDERA DE 36 (TREINTA Y SEIS) HORAS. EN CUALQUIER CASO DE MULTA QUE SE IMPONGA COMO SANCION A UNA INFRACCION NO EXCEDERA DEL EQUIVALENTE A 400 VECES EL SALARIO MINIMO GENERAL PARA LA ZONA ECONOMICA EN QUE SE ENCUENTRE UBICADO EL MUNICIPIO.
 
-II.- MULTA. Que es el pago de una cantidad de dinero que el infractor hace al Municipio y que tratándose de jornaleros, obreros o trabajadores, no excederá del importte (sic) de su jornal o salario de 1 (un) día, si el infractor es un trabajador no asalariado, dicho pago no será mayor del equivalente a un día de su ingreso igual si el infractor no pagase la sanción económica que le (sic) hubiese impuesto, se permutará esta por arresto administrativo, que en ningún caso excederá de 36 (treinta y seis) horas. En cualquier caso, la multa que se imponga como sanción a una infracción no excederá del equivalente a 100 veces el salario mínimo general para la zona económica en que se encuentre ubicado el Municipio.
+III.- ARRESTO. QUE ES LA PRIVACION DE LA LIBERTAD DEL INFRACTOR POR UN PERIODO DE 6 (SEIS) A 36 (TREINTA Y SEIS) HORAS, QUE SE CUMPLIRA UNICAMENTE EN LA CARCEL MUNICIPAL, EN LUGARES SEPARADOS DE LOS DESTINADOS A PERSONAS DETENIDAS CON RELACION A LA COMISION DE UN DELITO. LOS INFRACTORES BAJO ARRESTO ADMINISTRATIVO, ESTARAN A SU VEZ SEPARADOS POR SEXO, SE PODRA CONMUTAR EL ARRESTO ADMINISTRATIVO POR EL PAGO DE UNA MULTA VALORANDO LA INFRACCION COMETIDA.
 
-III.- ARRESTO. Que es la privación de la libertad del infractor por un período de 6 (seis) a 36 (treinta y seis) horas, que se cumplirá únicamente en la cárcel municipal, en lugares separados de los destinados a personas detenidas con relación a la comisión de un delito. Los infractores bajo arresto administrativo, estarán a su vez separados por sexo. Se podrá conmutar el arresto administrativo por el pago de una multa valorando la infracción cometida.
+IV.- TRABAJO COMUNITARIO. SON LOS QUE CONSISTEN EN ACTIVIDAD FISICA, INTELECTUAL O DE AMBOS TIPOS PROPIOS DEL SERVICIO PUBLICO QUE DESARROLARA (SIC) EL INFRACTOR EN BENEFICIO DE INSTITUCIONES PUBLICAS O DE ASISTENCIA SOCIAL, LA CUAL SE IMPONDRA AL INFRACTOR DEPENDIENDO DE LA GRAVEDAD DE LA INFRACCION QUE CALIFIQUE A CRITERIO DE LA AUTORIDAD FISCAL, NO EXCEDIENDO LA MISMA DE 8 (OCHO) HORAS JORNALES, TOMANDO EN CUENTA DE (SIC) UNA JORNADA EQUIVALE A 8 (OCHO) HORAS.
 
-IV.- TRABAJO COMUNITARIO. Son los que consisten en actividad física, intelectual o de ambos tipos propios del servicio público que desarrollará el infractor en beneficio de instituciones públicas o de asistencia social, la cual se impondrá al infractor dependiendo de la gravedad de la infracción que califique a criterio de la Autoridad Fiscal, no excediendo la misma de 8 (ocho) horas jornales, tomando en cuenta que una jornada equivale a 8 (ocho) horas.
+SE PROHIBE EL TRABAJO COMUNITARIO QUE TENGA EL CARÁCTER DE HUMILLANTE O DEGRADANTE PARA EL INFRACTOR.
 
-Se prohíbe el trabajo comunitario que tenga el carácter de humillación o degradante para el infractor.
+V.- CLAUSURA. QUE ES EL CIERRE TEMPORAL O DEFINITIVO DEL ESTABLECIMIENTO, INMUEBLE O LUGAR EN DONDE TIENE LUGAR LA CONTRAVENCION A LOS ORDENAMIENTOS MUNICIPALES Y CUYOS ACCESOS SE ASEGURAN MEDIANTE LA COLOCACION DE SELLOS OFICIALES A FIN DE IMPEDIR QUE LA INFRACCION QUE SE PERSIGUE SE CONTINUE COMETIENDO.
 
-V.- CLAUSURA. Que es el cierre temporal o definitivo del establecimiento inmueble o lugar en donde tiene lugar la contravención a los ordenamientos municipales y cuyos accesos se aseguran mediante la colocación de sellos oficiales a fín de impedir que la infracción que se persigue se continúe cometiendo.
+VI.- SUSPENSION DE EVENTOS SOCIALES O ESPECTACULO PÚBLICO. QUE ES LA DETERMINACIÓN DE LA AUTORIDAD FISCAL MUNICIPAL PARA QUE UN EVENTO SOCIAL O ESPECTACULO PUBLICO NO SE REALICE O SE SIGA REALIZANDO.
 
-VI.- SUSPENSION. DE EVENTOS SOCIALES O ESPECTÁCULO PÚBLICO. Que es la Determinación de la Autoridad Fiscal Municipal para que un evento social o espectáculo público no se realice o se siga realizando.
+VII.- CANCELACION DE LICENCIA O REVOCACION DE PERMISO. QUE ES LA RESOLUCION ADMINISTRATIVA QUE ESTABLECE LA PERDIDA DEL DERECHO CONTENIDO EN LA LICENCIA O PERMISO PREVIAMENTE OBTENIDO DE LA AUTORIDAD FISCAL MUNICIPAL PARA REALIZAR LA ACTIVIDAD QUE EN DICHOS DOCUMENTOS SE ESTABLEZCAN.
 
-VII.- CANCELACION DE LICENCIA O RENOVACION DE PERMISO. Que es la Resolución Administrativa que establece la pérdida del derecho contenido en la licencia o permiso previamente obtenido de la Autoridad Fiscal Municipal para realizar la actividad que en dichos documentos se establezcan.
+VIII.-·APERCIBIMIENTO. QUE ES LA ADVERTENCIA VERBAL O ESCRITA QUE HACE LA AUTORIDAD FISCAL MUNICIPAL EN DILIGENCIAS FORMAL (SIC) EXHORTANDO AL INFRACTOR A CORREGIR SU CONDUCTA Y PREVINIENDOLO DE LAS CONSECUENCIAS DE INFRIGIR (SIC) LOS ORDENAMIENTOS MUNICIPALES.
 
-VIII.- APERCIBIMIENTO. Que es la advertencia verbal o escrita que hace la Autoridad Fiscal Municipal en diligencias (sic) formal exhortando al infractor a corregir su conducta y previniéndolo de las consecuencias de infringir los ordenamientos municipales.
+LA AUTORIDAD FISCAL MUNICIPAL A TRAVES DE LOS INSPECTORES FISCALES MUNICIPALES, PODRAN IMPONER LAS SIGUIENTES MEDIDAS PREVENTIVAS:
 
-La Autoridad Fiscal Municipal a través de los Inspectores Fiscales Municipales, podrán imponer las siguientes medidas preventivas:
+I.- ASEGURAMIENTO. QUE ES LA RETENCION POR PARTE DE LA AUTORIDAD FISCAL MUNICIPAL DE LOS BIENES, PRODUCTOS E INSTRUMENTOS DIRECTAMENTE RELACIONADOS CON UNA INFRACCION, MISMOS QUE PODRAN SER REGRESADOS A QUIEN JUSTIFIQUE LOS DERECHOS SOBRE ELLOS Y CUMPLAN EN SU CASO CON LA SANCION CORRESPONDIENTE, Y.
 
-I.- ASEGURAMIENTO. Que es la retención por parte de la Autoridad Fiscal Municipal de los bienes, productos e instrumentos directamente relacionados con una infracción, mismos que podrán ser regresados a quien justifique los derechos sobre ellos y cumpla en su caso, con la sanción correspondiente, y;
+II.- DECOMISO. QUE ES EL SECUESTRO POR PARTE DE LA AUTORIDAD FISCAL MUNICIPAL DE LOS BIENES O PARTE DE ELLOS, PROPIEDAD DEL INFRACTOR, ESTRICTAMENTE RELACIONADOS CON LA FALTA QUE SE PERSIGUE Y CUANDO ESTO ES NECESARIO PARA INTERRUMPIR LA CONTRAVENCION.
 
-II.- DECOMISO. Que es el secuestro por parte de la Autoridad Fiscal Municipal de los bienes o parte de ellos, propiedad del infractor, estrictamente relacionados con la falta que se persigue y cundo esto es necesario para interrumpir la contravención.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+ARTICULO 13° BIS (A).- CUANDO CON UNA O VARIAS CONDUCTAS DEL INFRACTOR SE TRANSGREDAN DIVERSOS PRECEPTOS, LA AUTORIDAD FISCAL MUNICIPAL, PODRA ACUMULAR LAS SANCIONES SIN EXCEDER DE LOS LIMITES MAXIMOS PREVISTOS EN LA FRACCION DOS DEL ARTICULO ANTERIOR.
 
-###### ARTICULO 13o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-BIS (A).- Cuando (sic) una o varias conductas del infractor se transgredan diversos preceptos, la Autoridad Fiscal Municipal, podrá acumular las sanciones sin exceder de los límites máximos previstos en la fracción dos del artículo anterior.
+ARTICULO 13° BIS (B).- CUANDO UNA FALTA SE EJECUTE CON LA INTERVENCION DE DOS O MAS PERSONAS A CADA UNA DE ELLAS SE LE APLICARA LA SANCION CORRESPONDIENTE, TOMANDO EN CUENTA SU GRADO DE PARTICIPACION.
 
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 13o.
+ARTICULO 13° BIS (C).- LAS SANCIONES SE APLICARAN SIN ORDEN PROGRESIVO, SEGÚN LAS CIRCUNSTANCIAS DE CADA CASO, PROCURANDO QUE EXISTAN PROPORCION Y EQUILIBRIO ENTRE LA NATURALEZA DE LA FALTA Y DEMAS ELEMENTOS DE JUICIO QUE PERMITAN A LA AUTORIDAD FISCAL MUNICIPAL PRESERVAR EL ORDEN, LA PAZ Y LA TRANQUILIDAD SOCIAL.
 
-BIS (B).- Cuando una falta se ejecute con la intervención de dos o más personas a cada una de ellas se le aplicará la sanción correspondiente, tomando en cuenta su grado de participación.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+ARTICULO 13° BIS (D).- AL RESOLVER RESPECTO DE LA IMPOSICION DE CUALQUIERA DE LAS SANCIONES LA AUTORIDAD FISCAL MUNICIPAL, EXHORTARA AL INFRACTOR PARA QUE NO REINCIDA APERCIBIENDOLO Y EXPLICANDOLE LAS CONSECUENCIAS LEGALES.
 
-###### ARTICULO 13o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-BIS (C).- Las sanciones se aplicarán sin orden progresivo, según las circunstancias de cada caso, procurando que existan proporción y equilibrio entre la naturaleza de la falta y demás elementos de juicio que permitan a la Autoridad Fiscal Municipal, preservar el orden, la paz y la tranquilidad social.
-
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
-
-###### ARTICULO 13o.
-
-BIS (D).- Al resolver respecto de la imposición de cualquiera de las sanciones la Autoridad Fiscal Municipal, exhortará al infractor para que no reincida, apercibiéndolo y explicándole las consecuencias legales.
-
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
-
-###### ARTICULO 13o.
-
-BIS (E).- La prevención y vigilancia sobre la comisión de las conductas infractoras que se señalan en el presente Reglamento, corresponde a la Autoridad Fiscal Municipal, que es la encargada de prestar el servicio de Seguridad Pública.
+ARTICULO 13° BIS (E).- LA PREVENCION Y VIGILANCIA SOBRE LA COMISION DE LAS CONDUCTAS INFRACTORAS QUE SE SEÑALAN EN EL PRESENTE REGLAMENTO, CORRESPONDE A LA AUTORIDAD MUNICIPAL QUE ES LA ENCARGADA DE PRESTAR EL SERVICIO DE SEGURIDAD PUBLICA.
 
 DISPOSICIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 14o.
+###### ARTICULO 14°.
 
-Cuando los clientes ocasionales se nieguen a cubrir el importe de su trabajo a los músicos, cantantes y trovadores o grupos de música en general, la Dirección de Seguridad Pública Municipal, a través de sus elementos, les prestará el auxilio y proporcionará las garantías necesarias, procurando que una vez esclarecida la situación, estos clientes eventuales cubran el adeudo correspondiente y derivado del conocimiento de los hechos controvertidos, turnarán el asunto ante la autoridad de justicia que corresponda según sea el caso, prestrando (sic) el auxilio u orientación que requieran los sujetos a que se refiere el artículo del presente Reglamento.
+CUANDO LOS CLIENTES OCASIONALES SE NIEGUEN A CUBRIR EL IMPORTE DE SU TRABAJO A LOS MUSICOS, CANTANTES Y TROVADORES O GRUPOS DE MUSICA EN GENERAL, LA DIRECCION DE SEGURIDAD MUNICIPAL, A TRAVES DE SUS ELEMENTOS, LES PRESTARA EL AUXILIO Y PROPORCIONARA LAS GARANTIAS NECESARIAS, PROCURANDO QUE UNA VEZ ESCLARECIDA LA SITUACION, ESTOS CLIENTES EVENTUALES CUBRAN EL ADEUDO CORRESPONDIENTE Y DERIVADO DEL CONOCIMIENTO DE LOS HECHOS CONTROVERTIDOS, TURNARAN EL ASUNTO ANTE LA, AUTORIDAD DE JUSTICIA QUE CORRESPONDA SEGÚN SEA EL CASO, PRESTANDO EL AUXILIO U ORIENTACION QUE REQUIERAN LOS SUJETOS A QUE SE REFIERE EL ARTICULO DEL PRESENTE REGLAMENTO.
 
-Asímismo, el cao (sic) de divergencias entre los trabajadores de la música y los clientes ocasionales, se permitirá igualmente la intervención conciliatoria del establecimiento.
+ASI MISMO (SIC) EL CASO DE DIVERGENCIAS ENTRE LOS TRABAJADORES DE LA MUSICA Y LOS CLIENTES OCASIONALES, SE PERMITIRA IGUALMENTE LA INTERVENCION CONCILIATORIA DEL ESTABLECIMIENTO.
 
-> <small>(ADICIONADO, B.O. 20 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 14o.
+ARTICULO 14° BIS.- CONTRA LOS ACUERDOS O RESOLUCIONES QUE SE DERIVEN DE LA APLICACIÓN DEL PRESENTE REGLAMENTO, PROCEDERA EL RECURSO DE RECONSIDERACION PREVISTO EN LA LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR.
 
-BIS.- Contra los Acuerdos o Resoluciones que se deriven de la aplicación del presente Reglamento, procederá el Recurso de Reconsideración previsto en la Ley Orgánica Municipal, Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 15o.
+###### ARTICULO 15°.
 
-Se establece como jurisdicciones enclavadas dentro del Municipio de Los Cabos, B.C.S., todas sus Delegaciones y Subdelegaciones, incluyendo su Cabecera Municipal.
+SE ESTABLECE COMO JURISDICCIONES ENCLAVADAS DENTRO DEL MUNICIPIO DE LOS CABOS, B.C.S. TODAS SUS DELEGACIONES Y SUBDELEGACIONES, INCLUYENDO SU CABECERA MUNICIPAL.
 
-###### ARTICULO 16o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Cuando una empresa posea contrato colectivo de trabajo con equis sector y tenga necesidad de contratar los servicios de algún Grupo Musical del género que sea éste deberá pertenecer al mismo sector con el cual la Empresa tiene el contrato de lo contrario el Grupo deberá pagar su cuota al sector con el cual empresa (sic) tiene exclusividad misma cuota que será recabada por la empresa y entregada a quien corresponda.
+###### ARTICULO 16°.
 
-###### ARTICULO 17o.
+CUANDO UNA EMPRESA POSEA CONTRATO COLECTIVO DE TRABAJO CON EQUIS SECTOR Y TENGA NECESIDAD DE CONTRATAR LOS SERVICIOS DE ALGUN GRUPO MUSICAL DEL GENERO QUE SEA ESTE DEBERA PERTENECER AL MISMO SECTOR CON EL CUAL LA EMPRESA TIENE EL CONTRATO DE LO CONTRARIO EL GRUPO DEBERA PAGAR SU CUOTA AL SECTOR CON EL CUAL EMPRESA (SIC) TIENE EXCLUSIVIDAD MISMA CUOTA QUE SERA RECABADA POR LA EMPRESA Y ENTREGADA A QUIEN CORRESPONDA.
 
-Cuando en algún establecimiento se celebre un evento de carácter privado, los dueños del lugar podrán negar la entrada a los trabajadores de la música que soliciten su acceso al local.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 18o.
+###### ARTICULO 17°.
 
-Los músicos, actores o trovadores que se encuentren trabajando dentro de un establecimiento no podrán ingerir bebidas alcohólicas en el transcurso de su actuación.
+CUANDO EN ALGUN ESTABLECIMIENTO SE CELEBRE UN EVENTO DE CARÁCTER PRIVADO, LOS DUEÑOS DEL LUGAR PODRAN NEGAR LA ENTRADA A LOS TRABAJADORES DE LA MUSICA QUE SOLICITEN SU ACCESO AL LOCAL.
 
-###### ARTICULO 19o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-De las agrupaciones de músicos, cantantes y tovadores (sic) con residencia en el municipio de Los Cabos, B.C.S., que no cuenten con los suficientes elementos o grupos musicales para trabajar en bailes, espectáculos, ferias, fiestas tradicionales, familiares, negocios, establecimientos, etc... (sic) existirá libertad de contratación de grupos musicales, cantantes y trovadores foráneos pagando únicamente su CUOTA DE PASO y de DESPLAZAMIENTO que en éste reglamento de músicos se establece, así como en las condiciones que en el mismo se indican.
+###### ARTICULO 18°.
 
-###### ARTICULO 20o.
+LOS MUSICOS, ACTORES O TROVADORES QUE SE ENCUENTREN TRABAJANDO DENTRO DE UN ESTABLECIMIENTO NO PODRAN INGERIR BEBIDAS ALCOHOLICAS EN EL TRANSCURSO DE SU ACTUACION.
 
-Los músicos, cantantes y trovadores, que actúen en la vía pública, bailes o reuniones particulares, suspenderán us (sic) actuaciones de inmediato al suscitarse riñas o alterarse el orden en alguna forma.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-###### ARTICULO 21o.
+###### ARTICULO 19°.
 
-Se prohíbe a los músicos cantantes y trovadores, ejercer trabajo en estado de Ebriedad, así como consumir bebidas embriagantes durante sus periodos de actuación.
+DE LAS AGRUPACIONES DE MUSICOS, CANTANTES Y TROVADORES CON RESIDENCIA EN EL MUNICIPIO DE LOS CABOS, B.C.S. QUE NO CUENTEN CON LOS SUFICIENTES ELEMENTOS O GRUPOS MUSICALES PARA TRABAJAR EN BAILES, ESPECTACULOS, FERIAS, FIESTAS TRADICIONALES, FAMILIARES, NEGOCIOS, ESTABLECIMIENTOS, ETC... EXISTIRA LIBERTAD DE CONTRATACION DE GRUPOS MUSICALES, CANTANTES Y TROVADORES NACIONALES O EXTRANJEROS PROVENIENTES DE OTRO LUGAR AJENO A ESTE MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR PAGANDO UNICAMENTE SU CUOTA DE PASO Y DE DESPLAZAMIENTO QUE EN ESTE REGLAMENTO DE MUSICOS SE ESTABLECE, ASI COMO EN LAS CONDICIONES QUE EN EL MISMO SE INDICAN.
 
-###### ARTICULO 22o.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
 
-Las Autoridades municipales, en coordinación con las agrupaciones sindicales de músicos, deberán hacer cumplir con las disposiciones del Artículo anterior.
+###### ARTICULO 20°.
 
-###### ARTICULO 23o.
+LOS MUSICOS CANTANTES Y TROVADORES, QUE ACTUEN EN LA VIA PUBLICA, BAILES O REUNIONES PARTICULARES, SUSPENDERAN SUS ACTIVIDADES DE INMEDIATO AL SUSCITARSE RIÑAS O ALTERARSE EL ORDEN EN ALGUNA FORMA.
 
-Este reglamento de músicos, cantantes y trovadores para el Municipio de Los Cabos, B.C.S., está basado y sustentado en la doctrina social que establecen nuestras leyes en materia laboral, por ser considerados trabajadores clasificados que desarrollan su trabajo por una remuneración económica convenida, y que a pesar de su aspecto profesional que proyectan, nunca podrán ser excluyente de su calidad de trabajadores.
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+###### ARTICULO 21°.
+
+SE PROHIBE A LOS MUSICOS CANTANTES Y TROVADORES EJERCER TRABAJO EN ESTADO DE EBRIEDAD, ASI COMO CONSUMIR BEBIDAS EMBRIAGANTES DURANTE SUS PERIODOS DE ACTUACION.
+
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+###### ARTICULO 22°.
+
+LAS AUTORIDADES MUNICIPALES, EN COORDINACION CON LAS AGRUPACIONES SINDICALES DE MUSICOS, DEBERAN HACER CUMPLIR CON LAS DISPOSICIONES DEL ARTICULO ANTERIOR.
+
+> <small>(REFORMADO, B.O. 13 DE MAYO DE 2011)</small>
+
+###### ARTICULO 23°.
+
+ESTE REGLAMENTO DE MUSICOS, CANTANTES, Y TROVADORES PARA EL MUNICIPIO DE LOS CABOS, B.C.S. ESTA BASADO Y SUSTENTADO EN LA DOCTRINA SOCIAL QUE ESTABLECEN NUESTRAS LEYES EN MATERIA LABORAL, POR SER CONSIDERADOS TRABAJADORES CALIFICADOS QUE DESARROLLAN SU TRABAJO POR UNA REMUNERACION ECONOMICA CONVENIDA, Y QUE A PESAR DE SU ASPECTO PROFESIONAL QUE PROYECTAN, NUNCA PODRAN SER EXCLUYENTE DE SU CALIDAD DE TRABAJADORES.
 
 H. VI AYUNTAMIENTO DE LOS CABOS, B.C.S.
 
@@ -466,3 +498,7 @@ SE TRANSCRIBEN EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENT
 .
 
 SEGUNDO: EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 13 DE MAYO DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
