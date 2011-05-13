@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-municipal-de-proteccion-civil-de-ensenada-baja-16467
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-28"
-last_updated: "2000-04-28"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE ENSENADA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2000.
 
@@ -143,13 +143,41 @@ XIV. Tramitar los acuerdos emitidos por el Consejo Municipal;
 
 XV. Expedir los registros a que se refieren los Artículos 39 y 72 de este Reglamento;
 
-XVI. Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos; y
+XVI. Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos; y (sic)
 
-XVII. Las demás que establezca la Ley y Reglamentos relacionados con Protección Civil.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVII. Llevar a cabo las visitas de inspección necesarias para verificar el cumplimiento de las Leyes y Reglamentos en Materia de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVIII. Tramitar los procedimientos previstos en este ordenamiento, decretar las medidas de emergencia, seguridad o correctivas que resulten necesarias para enmendar las deficiencias o irregularidades que sean detectadas, dictar las resoluciones e imponer las medidas y sanciones que establecen las leyes y reglamentos en materia de protección civil.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIX. Las demás que establezca la Ley, Normas y Reglamentos relacionados con Protección Civil.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 11.
 
-El titular de la Unidad Municipal de Protección Civil será nombrado por el Presidente Municipal de Ensenada.
+El Director de la Unidad Municipal de Protección Civil será nombrado por el Presidente Municipal de Ensenada y para el desempeño de su cargo tendrá las siguientes atribuciones:
+
+I.- Emitir las órdenes de visita conforme a lo establecido en este Reglamento y demás disposiciones aplicables;
+
+II.- Designar y comisionar mediante oficio al personal necesario para llevar a cabo las visitas e inspecciones conforme a lo establecido en este Reglamento y demás disposiciones aplicables;
+
+III.- Decretar las medidas de emergencia, seguridad o correctivas que resulten necesarias para enmendar las deficiencias o irregularidades que se detectan mediante inspecciones y aquellas que sean necesarias para afrontar casos de emergencia a fin de salvaguardar a las personas, los bienes y su entorno;
+
+IV.- Iniciar, substanciar, tramitar y resolver los procedimientos administrativos (sic) que se refiere el presente e imponer las sanciones y/o multas establecidas en la reglamentación de la materia con la colaboración del personal a su cargo;
+
+V.- Informar a las autoridades de aquellos hechos de los que tenga conocimiento en el ejercicio de su función que pudieron ser constitutivos de delito o de faltas administrativas competencia de otras autoridades;
+
+VI.- Representar al Ayuntamiento ante agencias gubernamentales y privadas de otros países, en el establecimiento de vínculos de coordinación y capacitación o gestión de equipo;
+
+VII.- Promover, impulsar y fomentar los programas de capacitación, difusión y divulgación sobre temas de Protección Civil, y
+
+VIII.- Las demás que le encomiende las leyes y reglamentos o le instruya el presidente municipal.
 
 ###### Artículo 12.
 
@@ -1254,3 +1282,9 @@ Se extiende la presente certificación para los usos legales a que haya lugar el
 C. LIC. JOSE GUADALUPE RIOS VELA
 
 Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+UNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
