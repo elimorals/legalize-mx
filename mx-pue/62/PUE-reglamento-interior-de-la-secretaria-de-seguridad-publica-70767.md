@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-seguridad-publica-70767
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL P.O DE 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 30 de octubre de 2009.
 
@@ -1448,3 +1450,15 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Públi
 TERCERO.- Quedan sin efecto todas aquellas disposiciones que contravengan a lo dispuesto en el presente Decreto.
 
 "Sufragio Efectivo. No Reelección".- Heroica Puebla de Zaragoza, a 22 de septiembre de 2009.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO A. MONTERO SERRANO.- Rúbrica.- El Secretario de Seguridad Pública.- GENERAL MARIO AYÓN RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento Interior de la Secretaría de Seguridad Pública expedido con fecha 30 de octubre de 2009.
+
+TERCERO.- En tanto se expidan los manuales administrativos, el Secretario queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
+
+CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
