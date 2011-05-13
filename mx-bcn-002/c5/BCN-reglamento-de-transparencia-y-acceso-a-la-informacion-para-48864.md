@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4886
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-27"
-last_updated: "2006-01-27"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de enero de 2006.
 
@@ -43,9 +43,11 @@ REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL GOBIERNO MUNICIPA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de interés público y de observancia obligatoria para todos los servidores públicos del H. Ayuntamiento de Mexicali, Baja California, tiene por objeto regular y garantizar el derecho a la información estableciendo los órganos, criterios y procedimientos institucionales para proporcionar a todos los ciudadanos el acceso a la información pública de las dependencias y entidades, que conforman el Gobierno Municipal.
+El presente Reglamento es de interés público y de observancia obligatoria para los Sujetos Obligados del H. Ayuntamiento de Mexicali, Baja california, tiene por objeto regular y garantizar el derecho a la información estableciendo los órganos, criterios y procedimientos institucionales para proporcionar a todos los ciudadanos el acceso a la información pública de las dependencias y entidades, que conforman el Gobierno Municipal.
 
 Para efectuar reformas a este reglamento será necesaria la aprobación por mayoría calificada de los miembros del cabildo.
 
@@ -63,7 +65,9 @@ II. Ayuntamiento: El Honorable Ayuntamiento Constitucional del Municipio de Mexi
 
 III. Cabildo: El Ayuntamiento como asamblea deliberante, conformado por el Presidente Municipal, Síndico Procurador y Regidores;
 
-IV. Comité: El Comité de Información, es el cuerpo colegiado que se integra para resolver sobre la información que se considera clasificada, atender y resolver, los requerimientos de la Unidad y del Consejo; y en general las atribuciones establecidas en el capítulo sexto del presente reglamento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+IV. Comité: El Comité Técnico de Transparencia y Acceso a la Información Pública, es el cuerpo colegiado que se integra para resolver sobre la información que se considera clasificada, atender y resolver, los requerimientos de la Unidad y del Consejo; y en general las atribuciones establecidas en el capítulo sexto del presente reglamento;
 
 V. Consejo: El Consejo Municipal de Transparencia y Acceso a la Información Pública del Municipio de Mexicali, Baja California;
 
@@ -93,7 +97,9 @@ XVII. Ley: Ley de Transparencia y Acceso a la Información Pública para el Esta
 
 XVIII. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión en la Administración Pública y/o que su calidad de servidor público esté determinada por los ordenamientos legales respectivos, incluidos los órganos y autoridades auxiliares del Ayuntamiento;
 
-XIX. Servidor Público Habilitado: El titular de la dependencia o entidad o directivos de las empresas concesionarias de servicios municipales, así como a quienes éstos designen, encargados de apoyar a la Unidad, y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIX. Servidor Público Habilitado: El titular de la dependencia, entidad o directivo de la empresa o institución privada y organismo no gubernamental, así como a quienes éstos designen, encargados de apoyar a la Unidad, y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
 
 XX. Clasificación: El acto por el cual se determina que la información que posee una dependencia o entidad es reservada o confidencial;
 
@@ -103,11 +109,23 @@ XXII. Recomendaciones: Las opiniones, propuestas, sugerencias, comentarios, y ot
 
 XXIII. Sistema: El sistema de información desarrollado por el IFAI (Instituto Federal de Acceso a la Información Pública) denominado INFOMEX, donde se podrá solicitar, acceder y obtener la distinta información Pública Municipal solicitada por el peticionario;
 
-XXIV. Sujeto Obligado: El Ayuntamiento y la Administración Pública Municipal, conformada por las dependencias y entidades centralizadas y descentralizadas, así como por los órganos y autoridades auxiliares del Ayuntamiento, y las empresas concesionarias o coadyuvantes de la función pública que reciban recursos públicos municipales;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XXV. Unidad: La Unidad Municipal de Acceso a la Información, dependiente de la Secretaria del Ayuntamiento, oficina pública receptora de las peticiones ciudadanas de información, a cuya tutela estará el trámite de la misma, conforme al Reglamento; y
+XXIV. Sujeto Obligado: El Ayuntamiento y la Administración Pública Municipal, conformada por las dependencias y entidades centralizadas y descentralizadas, así como por los órganos y autoridades auxiliares del Ayuntamiento, y las empresas o instituciones privadas y organismos no gubernamentales que reciban, administren o apliquen recursos públicos municipales, sólo en lo referente a la solicitud y entrega de información respecto al origen, administración y aplicación de dichos recursos;
 
-XXVI. Medición: La evaluación en forma cuantitativa y cualitativa de la función pública desarrollada por los sujetos obligados, que facilite el seguimiento del comportamiento de la administración pública del Municipio de Mexicali, Baja California.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XXV. Unidad: La Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, oficina pública receptora de las peticiones ciudadanas de información, a cuya tutela estará el trámite de la misma, conforme al Reglamento;
+
+XXVI. Medición: La evaluación en forma cuantitativa y cualitativa de la función pública desarrollada por los sujetos obligados, que facilite el seguimiento del comportamiento de la administración pública del Municipio de Mexicali, Baja California;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XXVII. Órgano Garante: El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVIII. Versión Publica: Documento en el que, para permitir su acceso, se testa o elimina la información considerada por el Reglamento como reservada o confidencial.
 
 ###### Artículo 4.
 
@@ -355,11 +373,15 @@ La entrega de los datos personales únicamente causará el pago de los derechos 
 
 La representación de personas físicas se acreditará con carta poder; para personas morales a través de instrumento público.
 
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 13 DE MAYO DE 2011)</small>
+
 ### CAPÍTULO QUINTO. DEL CONSEJO MUNICIPAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 24.
 
-El Consejo Municipal de Transparencia y Acceso a la Información Pública es un órgano auxiliar del Ayuntamiento con atribuciones de vigilancia, consulta y recomendación, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales en poder de las dependencias y entidades municipales.
+El Consejo Municipal de Transparencia y Acceso a la Información Pública es un órgano auxiliar del Ayuntamiento con atribuciones de consulta y recomendación, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales en poder de las dependencias y entidades municipales.
 
 ###### Artículo 25.
 
@@ -419,9 +441,13 @@ VII. Desempeñar actividades laborales o académicas de acuerdo a la vocación d
 
 El Consejo tendrá las siguientes funciones:
 
-I. Vigilar el cumplimiento del presente Reglamento en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-II. Proponer al Ayuntamiento por conducto del Presidente Municipal, los lineamientos y criterios de carácter obligatorio en materia de acceso a la información pública para las dependencias y entidades de la Administración Pública;
+I. Opinar, cuando sea requerido para ello por el Comité Técnico, sobre los lineamientos y criterios de carácter obligatorio que, en materia de acceso a la información pública, deberán acatar las dependencias y entidades de la Administración Pública;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+II. Opinar, cuando sea requerido para ello por el Comité Técnico, sobre los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los sujetos obligados;
 
 III. Proponer al Ayuntamiento por conducto del Presidente Municipal, los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los sujetos obligados;
 
@@ -429,27 +455,45 @@ IV. Recomendar en la revisión y aplicación de los criterios de clasificación,
 
 V. Recomendar en la elaboración y aplicación de los criterios para la conservación y archivo de la información pública;
 
-VI. Recomendar en la elaboración de los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+VI. Emitir opinión, cuando sea requerido para ello, sobre las solicitudes de ampliación de tiempo de reserva de la información clasificada con tal carácter;
 
 VII. Emitir opinión sobre las solicitudes de ampliación de tiempo de reserva de la información clasificada con tal carácter;
 
-VIII. Hacer del conocimiento de la Sindicatura Municipal, las presuntas infracciones a este Reglamento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+VIII.- Proponer al Comité Técnico programas de asesoría y apoyo técnico a los sujetos obligados para la elaboración y ejecución de programas de información, así como los enfocados a brindar apoyo en el cumplimiento de las obligaciones que les impone este Reglamento;
 
 IX. Proponer al Presidente Municipal programas de asesoría y apoyo técnico a los sujetos obligados para la elaboración y ejecución de programas de información, así como los enfocados a brindar apoyo en el cumplimiento de las obligaciones que les impone este Reglamento;
 
-X. Formular recomendaciones genéricas a los sujetos obligados, en las materias del presente Reglamento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XI. Difundir entre los servidores públicos y los particulares, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
+X. Coadyuvar con el Comité Técnico, para difundir entre los servidores públicos y los particulares, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquella;
 
-XII. Realizar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de este Reglamento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XIII. Concertar y proponer al Ayuntamiento por conducto del Presidente Municipal, la celebración de acuerdos o programas con el Instituto Federal de Acceso a la Información Pública, u otros organismos públicos o privados;
+XI. Promover la celebración de convenios de colaboración para la realización de estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de este Reglamento;
 
-XIV. Proponer al Ayuntamiento por conducto del Presidente Municipal, modificaciones o reformas a la normatividad de la materia;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XV. Proponer una terna al Presidente Municipal para la elección del Titular de la Unidad;
+XII. Proponer al Presidente Municipal, la celebración de acuerdos o programas con el Instituto Federal de Acceso a la Información Pública, u otros organismos públicos o privados;
 
-XVI. La medición de la gestión y el desempeño de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIII. Realizar estudios sobre la normatividad de la materia y sugerir al Presidente Municipal las modificaciones o reformas pertinentes;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIV. Evaluar el desempeño de la gestión de los sujetos obligados en cuanto al manejo, envió y otorgamiento de la información que están obligados a proporcionar;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XV. Opinar sobre parámetros de medición de la gestión y el desempeño de la Administración Pública Municipal, cuando sea requerido para ello;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVI. Someter a consideración del Presidente Municipal, las normas generales de operación del Consejo, para su presentación a Cabildo; y (sic)
 
 XVII. Someter a consideración del Cabildo por conducto del Presidente Municipal, las normas generales de operación del Consejo; y
 
@@ -457,27 +501,19 @@ XVIII. Las demás que le confiera este Reglamento y las disposiciones jurídicas
 
 Las recomendaciones emitidas por este órgano auxiliar son de carácter vinculatorio.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
 ###### Artículo 32.
 
-El Consejo elaborará anualmente durante el mes de Noviembre un informe, mismo que será publicado en los medios electrónicos correspondientes y deberá incluir cuando menos:
-
-I. Número de solicitudes de acceso a la información y su resultado;
-
-II. Tiempos de respuesta;
-
-III. Asuntos atendidos por la Unidad;
-
-IV. El estado que guardan las denuncias presentadas ante la dependencia competente, que se susciten en el ámbito de competencia del presente Reglamento;
-
-V. Las dificultades observadas en el cumplimiento de este Reglamento, así como las recomendaciones para la corrección de irregularidades o mejoría del sistema para el acceso a la información pública; e
-
-VI. Informe de la medición de la Administración Pública Municipal.
+El Consejo elaborará anualmente durante el mes de Noviembre un informe de su gestión, mismo que será publicado en los medios electrónicos correspondientes.
 
 ###### Artículo 33.
 
 Los sujetos obligados, por conducto del Comité deberán informar anualmente durante el mes de octubre, por escrito al Consejo sobre las actividades realizadas, en cumplimiento de las obligaciones que se deriven del Reglamento.
 
-### CAPÍTULO SEXTO. DEL COMITÉ DE INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 2011)</small>
+
+### CAPÍTULO SEXTO. DEL COMITÉ TÉCNICO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 34.
 
@@ -511,33 +547,49 @@ XIII. El titular de la Unidad de Acceso a la Información Pública Municipal, qu
 
 El Presidente Municipal podrá designar un representante para que asista a las sesiones. En ese caso, quien presidirá el Comité será el Secretario del Ayuntamiento.
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIV. Los titulares de las demás entidades paramunicipales, incluyendo organismos descentralizados, empresas de participación municipal y los fideicomisos públicos municipales.
+
 Al Comité podrán concurrir los titulares de las dependencias y entidades descentralizadas o sus representantes cuando se discutan asuntos que tengan que resolverse de manera específica o que por el nivel técnico de los mismos requieran de la presencia de estos.
 
 El Comité adoptará sus decisiones por mayoría de votos, teniendo el Presidente del Comité voto de calidad en caso de empate. Los integrantes del Comité podrán designar por escrito a sus respectivos suplentes, quienes conocerán de los asuntos a tratar y sólo podrán participar en ausencia del titular.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2011)</small>
+
+En términos del artículo 43 de la Ley, el Presidente del Comité deberá registrar el mismo ante el Órgano Garante.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 35.
 
 El Comité tendrá las siguientes atribuciones:
 
-I. Establecer y revisar los criterios de clasificación, catalogación y custodia de la Información Pública, en términos del presente Reglamento y demás disposiciones legales aplicables;
+I.- Diseñar el sistema de información del sujeto obligado;
 
-II. Coordinar y supervisar las acciones realizadas en cumplimiento de las disposiciones previstas en la ley y este Reglamento;
+II.- Vigilar que el sistema de información se ajuste a la normatividad aplicable;
 
-III. Establecer de conformidad con el Reglamento, las medidas que coadyuven a una mayor eficiencia en la atención de las solicitudes de acceso a la información;
+III.- Proponer las acciones necesarias para garantizar la protección de los datos personales;
 
-IV. Aprobar, modificar o revocar la clasificación de la información realizada en primera instancia por los sujetos obligados o por las unidades administrativas de información de las entidades;
+IV.- Elaborar y revisar los criterios de clasificación y resguardo de información;
 
-V. Elaborar un programa así como la calendarización, para facilitar la sistematización y actualización de la información, mismo que deberá remitirse al Consejo para sus observaciones dentro de los primeros veinte días de cada año;
+V.- Supervisar el registro y actualización de las solicitudes de acceso a la información, así como sus trámites y resultados;
 
-VI. Recabar y proporcionar los datos necesarios para la elaboración del informe anual del Consejo, de conformidad con lo previsto en el Reglamento;
+VI.- Proponer la política y la normatividad del sujeto obligado en materia de transparencia, acceso a la información y datos personales;
 
-VII. Aplicar las disposiciones contenidas en el Reglamento;
+VII.- Validar el informe anual elaborado por la Unidad de Transparencia;
 
-VIII. Vigilar en el ámbito de su competencia el cumplimiento del Reglamento;
+VIII.- Establecer la Unidad de Transparencia y las unidades receptoras que sean necesarias y cuidar el efectivo cumplimiento de las funciones de éstas;
 
-IX. Aprobar su manual de operación; y
+IX.- Promover la capacitación y actualización del (sic) los servidores públicos del sujeto obligado y del personal adscrito a la Unidad de Transparencia, para lo cual podrá celebrar;
 
-X. Acatar las recomendaciones y requerimientos que realice el Consejo.
+X.- Fomentar la cultura de transparencia;
+
+XI.- Establecer los lineamientos para elaborar los formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales;
+
+XII.- Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los sujetos obligados; y
+
+XIII.- Las demás que le confiera el reglamento.
 
 ### CAPÍTULO SÉPTIMO. DE LA UNIDAD MUNICIPAL DE ACCESO A LA INFORMACIÓN
 
@@ -582,6 +634,10 @@ XIV. Coadyuvar en la capacitación de los servidores públicos del Ayuntamiento 
 XV. Acatar las recomendaciones y requerimientos de informes que realice el Consejo, así como los lineamientos y criterios que determine el Ayuntamiento; y
 
 XVI. Las demás necesarias para facilitar, agilizar y garantizar el acceso a la información, las que disponga el presente Reglamento y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2011)</small>
+
+La Unidad deberá recibir y enviar al Órgano Garante los recursos que se presenten para su trámite, al día hábil siguiente en que se reciban; y (sic)
 
 ###### Artículo 38.
 
@@ -693,85 +749,109 @@ La (sic) personas o sus representantes legales, podrán solicitar información d
 
 La Unidad deberá hacer del conocimiento del Consejo, las bases de datos personales que posean los sujetos obligados e informarle su actuación.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS RECURSOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MAYO DE 2011)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 54.
 
-En los casos de que exista una falta de respuesta a una solicitud de información, en el plazo señalado en el articulo 43, se entenderá resuelto en sentido positivo, por lo que la unidad queda obligada a dar el acceso a la información requerida en un plazo no mayor a los 10 días hábiles, cubriendo los costos generados por la reproducción del material informativo, a menos que la Unidad determine que los documentos o información sea de carácter reservada o confidencial. Para el cumplimiento a lo expresado, bastará que los peticionarios presenten copia de la solicitud en la que conste la fecha de la presentación ante la Unidad. Para este caso en particular, se asegurará a la Unidad la oportunidad para demostrar que respondieron en tiempo y forma al peticionario.
+De conformidad con el Capítulo III de la Ley, el Recurso de Revisión podrá presentarse, de manera directa o por medios electrónicos, ante el Órgano Garante.
+
+Para tal efecto, las Unidades de Transparencia, al momento de dar respuesta a una solicitud de acceso a la información pública o a los datos personales, le harán saber al particular sobre su derecho de interponer la revisión y la forma de hacerlo.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 55.
 
-En el caso de negativas a las solicitudes de acceso a la información pública o de corrección de datos personales, la Unidad deberá informar a los peticionarios el derecho y plazo que tienen para promover recurso de inconformidad en los términos previstos por el presente Reglamento.
+El Recurso de Revisión es procedente en cualquiera de los siguientes supuestos:
+
+I.- La negativa de acceso a la información;
+
+II.- La declaración de inexistencia de información;
+
+III.- La clasificación de información como reservada o confidencial;
+
+IV.- La entrega de información en una modalidad distinta a la solicitada, o en un formato incomprensible;
+
+V.- La información que se entregó sea incompleta o no corresponda con la solicitud;
+
+VI.- La negativa de acceso, rectificación, cancelación u oposición de datos personales;
+
+VII.- El tratamiento inadecuado de los datos personales; y
+
+VIII.- El cumplimiento de la positiva ficta, por la falta de respuesta a una solicitud de acceso dentro de los plazos establecidos en la ley.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 56.
 
-Los peticionarios podrán interponer recurso de inconformidad cuando:
+El recurso deberá interponerse dentro de los quince días hábiles siguientes a la notificación de la resolución.
 
-I. Se les niegue la información solicitada;
-
-II. Se les entregue la información incompleta o no corresponda a la solicitada;
-
-III. Se les niegue modificar, corregir o resguardar la confidencialidad de los datos personales; o
-
-IV. No se entregue la información solicitada en el plazo señalado por las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 57.
 
-El recurso de inconformidad se presentará por escrito en su modalidad electrónica o impresa, ante la Unidad o a través del sistema, dentro del plazo de quince días hábiles, contados a partir de la fecha en que el peticionario tuvo conocimiento de la resolución respectiva. La Unidad o los sujetos obligados que corresponda deberán remitir a la Sindicatura Municipal el escrito de recurso al día hábil siguiente de haberlo recibido.
+En el caso de la fracción VIII del artículo anterior, el plazo contará a partir del momento en que haya transcurrido el término para dar contestación a la solicitud. En este caso bastará que el solicitante acompañe al recurso, la copia o acuse electrónico de la solicitud.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
 
 ###### Artículo 58.
 
-El escrito de recurso de inconformidad contendrá:
-
-I. Nombre y domicilio del recurrente para oír y recibir notificaciones y en su caso, la persona o personas que éste autorice para recibir notificaciones;
-
-II. Acto impugnado, siempre y cuando haya sido emitido por la Unidad o el sujeto obligado, y fecha en que se tuvo conocimiento del mismo;
-
-III. Razones o motivos de la inconformidad; y
-
-IV. Firma del recurrente o en su caso huella digital.
-
-El recurso de inconformidad podrá presentarse por la misma vía en que se hizo la solicitud de información. Para los efectos de la Fracción IV del presente artículo el recurrente podrá utilizar la clave de identificación que proporcione al sistema INFOMEX.
-
-La Sindicatura prevendrá al recurrente para que corrija o complete su escrito, otorgándosele para tal efecto cinco días hábiles. En caso de no desahogar dicha prevención, se tendrá por no presentado el recurso de inconformidad sin perjuicio que pueda interponerlo de nueva cuenta, siempre y cuando se encuentre dentro del término señalado en el artículo anterior. Al escrito de recurso deberá acompañarse las pruebas que soporten la impugnación.
+La forma de interponer el Recurso de Revisión, el procedimiento y todos los demás términos, plazos, condiciones y requisitos que atañen al mismo, se norma por el Capítulo III, del Título Tercero de la Ley.
 
 ###### Artículo 59.
 
-Recibido el recurso de inconformidad, la Sindicatura Municipal resolverá en definitiva dentro de un plazo de treinta días hábiles, siguientes a la fecha de interposición del recurso; en caso de ser favorable a los intereses del recurrente se precisará el término que se conceda para su cumplimiento, que podrá ser hasta de diez días hábiles a partir de la fecha en que sea notificada al sujeto obligado. Tratándose de información clasificada, la Sindicatura Municipal podrá conocerla para resolver los medios de impugnación, determinando su debida clasificación o desclasificación y de no proceder esta última, continuará bajo el resguardo del sujeto obligado en cuya posesión originalmente se encontraba.
+(DEROGADO, P.O. 13 DE MAYO DE 2011)
 
 ###### Artículo 60.
 
-La resolución de la Sindicatura Municipal deberá remitirse a la Unidad, la que deberá notificarla tanto a los sujetos obligados como al recurrente. En caso de que el sujeto obligado no cumpla con la resolución recaída en el recurso en tiempo y forma, la Unidad dará vista a la Sindicatura Municipal, a efecto de que ésta inicie los procedimientos respectivos contemplados en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+(DEROGADO, P.O. 13 DE MAYO DE 2011)
 
 ###### Artículo 61.
 
-Las resoluciones y el cumplimiento de los recursos de inconformidad se harán del conocimiento del Consejo.
+(DEROGADO, P.O. 13 DE MAYO DE 2011)
 
 ###### Artículo 62.
 
-En contra de las resoluciones dictadas en los recursos de inconformidad por la Sindicatura Municipal, los particulares afectados podrán promover juicio ante el Tribunal de lo Contencioso Administrativo.
+(DEROGADO, P.O. 13 DE MAYO DE 2011)
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES Y LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
 ###### Artículo 63.
 
-Son causas de responsabilidad administrativa de los servidores públicos:
+Son causas de responsabilidad administrativa de los servidores públicos por incumplimiento de las obligaciones establecidas en la Ley y el presente Reglamento, las siguientes:
 
-I. Usar, sustraer, destruir, ocultar, inutilizar y/o divulgar de manera indebida, alterar total o parcialmente la información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
+I.- Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar total o parcialmente y de manera indebida, información que se encuentre bajo su custodia, a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
 
-II. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso a la información, o en la difusión de la información que estén obligados a proteger conforme a este Reglamento;
+II.- Actuar con negligencia, dolo o mala fe en la substanciación de las solicitudes de acceso a la información o en la difusión de la información a que están obligados conforme a esta Ley;
 
-III. Entregar información considerada como reservada o confidencial;
+III.- Denegar dolosamente información no clasificada como reservada o confidencial conforme a esta Ley;
 
-IV. Vender, sustraer o publicitar la información reservada o confidencial;
+IV.- No resolver o resolver fuera de los términos que señala esta Ley, sobre las solicitudes de acceso que reciba;
 
-V. Hacer caso omiso de los requerimientos y resoluciones de la Sindicatura Municipal, Consejo o de la Unidad, en su caso;
+V.- No publicar o no actualizar, la información de oficio en los términos que se señalan en esta Ley o, en su caso, no remitir oportunamente la información al órgano encargado de publicarla y actualizarla;
 
-VI. Entregar intencionalmente de manera incompleta la información solicitada;
+VI.- Clasificar dolosamente como reservada, información que no cumpla con las características señaladas en esta Ley;
 
-VII. Denegar intencionalmente información no clasificada como reservada o confidencial conforme a este Reglamento; y
+VII.- Entregar información considerada como reservada o confidencial, conforme a lo dispuesto por esta Ley;
 
-VIII. En general dejar de cumplir con las disposiciones de este Reglamento.
+VIII.- Entregar dolosamente de manera incompleta información requerida en una solicitud de información;
+
+IX.- No proporcionar la información cuya entrega haya sido ordenada mediante resolución del Órgano Garante;
+
+X.- No informar al Órgano Garante, sobre la negativa de entrega de información por parte de algún servidor público o personal de los Sujetos Obligados;
+
+XI.- Entregar una versión pública de alguna resolución emitida por el Poder Judicial del Estado, sin haber suprimido los datos sensibles o los demás datos personales, según corresponda en los términos de la presente ley; y
+
+XII.- Las demás que se establezcan en otras Leyes.
+
+La responsabilidad a la que se refiere este artículo o cualquier otra derivada del incumplimiento de las obligaciones establecidas por esta Ley, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+La infracción prevista en las fracciones IV, V, IX y XII, o la reincidencia de las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
 
 ###### Artículo 64.
 
@@ -788,6 +868,12 @@ En los casos en que la Sindicatura Municipal determine que por negligencia no se
 ###### Artículo 67.
 
 La Sindicatura Municipal será la responsable de establecer los procedimientos para la recepción, atención a quejas y denuncias ciudadanas, por incumplimiento del Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2011)</small>
+
+###### Artículo 68.
+
+Las responsabilidades que se generen por el incumplimiento de las obligaciones a las que se refiere el artículo anterior, son independientes de las que procedan en materia civil o penal.
 
 ## TRANSITORIOS
 
@@ -810,3 +896,13 @@ ATENTAMENTE
 LIC. ALBERTO REZA SALDAÑA
 
 SECRETARIO DEL XVIII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo Tercero.- Sindicatura Municipal, a la entrada en vigor de las presentes reformas, deberá abstenerse de conocer de los Recursos que se encuentren en trámite ante dicha Dependencia, hasta en tan (sic) quede debidamente integrado el Órgano Garante.
