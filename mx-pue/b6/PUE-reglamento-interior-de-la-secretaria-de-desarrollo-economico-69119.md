@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-economico-69
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-24"
-last_updated: "2009-06-24"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO DEL ESTADO DE PUEBLA, PUBLICADO EN LA SEXTA SECCIÓN DEL P.O. DE FECHA 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 24 de junio de 2009.
 
@@ -1140,3 +1142,15 @@ SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Econ�
 TERCERO.- Se derogan todas las disposiciones de igualo menor rango que se opongan al presente Acuerdo.
 
 Dado en la Sede del Poder Ejecutivo del Estado, a los nueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado de Puebla.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO A. MONTERO SERRANO.- Rúbrica.- El Secretario de Desarrollo Económico.- LICENCIADO JOSÉ ANTONIO LÓPEZ MALO CAPELLINI.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan el Reglamento Interior de la Secretaría del Trabajo y Competitividad y el Reglamento Interior de la Secretaría de Desarrollo Económico, publicados en el Periódico Oficial del Estado, el dieciséis de diciembre de dos mil cinco y veinticuatro de junio de dos mil nueve, respectivamente.
+
+TERCERO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+CUATRO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
