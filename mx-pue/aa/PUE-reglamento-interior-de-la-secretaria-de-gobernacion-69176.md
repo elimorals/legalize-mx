@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-gobernacion-69176"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-01"
-last_updated: "2009-07-01"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 1 de julio de 2009.
 
@@ -1720,3 +1722,19 @@ Se derogan las disposiciones que se opongan al presente Reglamento.
 Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictará la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Ciudad de Puebla de Zaragoza, a los veintiocho días del mes de mayo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto, deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobernación del Estado de Puebla, publicado en el Periódico Oficial del Estado, el primero de julio de dos mil nueve.
+
+TERCERO.- Las unidades administrativas de la Secretaría, de manera previa a la entrada en vigor del presente Decreto, deberán realizar las modificaciones conducentes en los sellos y la papelería oficial que utilizan para el adecuado desarrollo de sus funciones.
+
+CUARTO.- Los asuntos que hubiesen iniciado su trámite con anterioridad a la entrada en vigor del presente Decreto, serán de la competencia de la Unidad Administrativa de la Secretaría General de Gobierno a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+QUINTO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+SEXTO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
