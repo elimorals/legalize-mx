@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-del-trabajo-y-49109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-16"
-last_updated: "2009-04-24"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y COMPETITIVIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONOMICO, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de diciembre de 2005.
 
@@ -834,3 +836,13 @@ P.O. 24 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan el Reglamento Interior de la Secretaría del Trabajo y Competitividad y el Reglamento Interior de la Secretaría de Desarrollo Económico, publicados en el Periódico Oficial del Estado, el dieciséis de diciembre de dos mil cinco y veinticuatro de junio de dos mil nueve, respectivamente.
+
+TERCERO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
