@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-del-medio-ambiente-y-52108
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-13"
-last_updated: "2009-10-02"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE PUEBLA, PUBLICADO EN LA DÉCIMA TERCERA SECCIÓN DEL P.O. DE FECHA 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de octubre de 2006.
 
@@ -876,3 +878,13 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla, publicado el día trece de octubre de dos mil seis, así como la reforma y adición de diversas disposiciones publicadas el día dos de octubre de dos mil nueve.
+
+TERCERO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
+
+CUARTO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
