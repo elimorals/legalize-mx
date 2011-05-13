@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-para-la-proteccion-al-75054"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-28"
-last_updated: "2010-05-28"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-05-25"
 
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO, PUBLICADO EN EL D.O.F. 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de mayo de 2010.
 
@@ -874,3 +876,19 @@ QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en linea
 SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
 
 México, D.F., a 25 de mayo de 2010.- El Secretario Ejecutivo, María Teresa Fernández Labardini.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Estatuto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto para la Protección al Ahorro Bancario publicado en el Diario Oficial de la Federación el 28 de mayo de 2010.
+
+TERCERO.- Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Estatuto Orgánico y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+CUARTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Estatuto Orgánico, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones a las unidades administrativas o áreas que cambian de denominación, desaparecen o ajustan sus atribuciones, por virtud de la expedición del presente Estatuto Orgánico, se entenderán hechas o conferidas a las unidades administrativas o áreas que asuman dichas atribuciones conforme a lo establecido en éste. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones expedidas por el Instituto deberán ajustarse, en lo conducente, a lo dispuesto en el presente Estatuto respecto de los actos que deban realizarse o determinarse en materia de resoluciones bancarias, liquidación y quiebra de Instituciones y, en general, para el ejercicio de las atribuciones previstas en este ordenamiento.
+
+SEXTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente instrumento.
