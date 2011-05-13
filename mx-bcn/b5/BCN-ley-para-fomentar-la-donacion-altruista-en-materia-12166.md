@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-fomentar-la-donacion-altruista-en-materia-12166"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-06"
-last_updated: "2008-10-31"
+last_updated: "2011-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA FOMENTAR LA DONACION ALTRUISTA EN MATERIA ALIMENTARIA EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de febrero de 1998.
 
@@ -73,7 +73,9 @@ Donante.- Persona física o moral que transmite a título gratuito a las institu
 
 Donatario.- Institución que recibe del donante los alimentos que se indican en el párrafo que precede, para su distribución a los beneficiarios.
 
-Donación altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que impidan al individuo su pleno desarrollo físico, mental y emocional.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
+Donación altruista.- Acción voluntaria, tendiente a mejorar y fortalecer las circunstancias sociales que favorecen al individuo su pleno desarrollo físico, mental y emocional.
 
 Beneficiario.- Persona cuyos recursos económicos no le permiten obtener total o parcialmente los alimentos que requiere para subsistir.
 
@@ -131,9 +133,11 @@ VI.- Contar con un sistema de contabilidad y un registro de donantes.
 
 Las Instituciones podrán percibir de los beneficiarios, en calidad de cuota de recuperación, hasta un 10% del valor neto de los nutrientes, debiendo destinar esos ingresos exclusivamente para financiar su operación y fortalecimiento.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 13º.
 
-La imposibilidad de pagar la cuota de recuperación que se indica en el artículo anterior, no será motivo para negar el suministro de alimentos al beneficiario. En caso de ser negado sin justificación alguna, el beneficiario podrá incurrir en queja ante el DIF, para que tome las medidas pertinentes.
+La imposibilidad de pagar la cuota de recuperación que se indica en el artículo anterior, no será motivo para negar el suministro de alimentos al beneficiario. En caso de ser negado sin justificación alguna, el beneficiario podrá acudir en queja ante el DIF, para que tome las medidas pertinentes.
 
 ###### ARTICULO 14º.
 
@@ -157,9 +161,17 @@ II.- Promover la participación activa de los medios de comunicación en la difu
 
 III.- Realizar campañas permanentes para motivar a la ciudadanía a que se involucre en la donación de alimentos y evite su desperdicio;
 
-IV.- Entregar anualmente un reconocimiento público a los donantes que se hayan distinguido por sus contribuciones; y,
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-V.- Establecer y fomentar los vínculos entre donante y donatario para hacer efectivo y permanente el suministro de alimentos, minimizando los gastos que se originen por tal motivo.
+IV.- Entregar anualmente un reconocimiento público a los donantes que se hayan distinguido por sus contribuciones;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+V.- Establecer y fomentar los vínculos entre donante y donatario para hacer efectivo y permanente el suministro de alimentos, minimizando los gastos que se originen por tal motivo; y,
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+VI.- Gestionar ante las autoridades competentes el apoyo necesario para la donación altruista de alimentos provenientes del extranjero, principalmente para cubrir necesidades de instituciones registradas en los términos de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -228,3 +240,7 @@ P.O. 31 DE OCTUBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
