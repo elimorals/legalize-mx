@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2010-09-25"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -563,7 +563,9 @@ Queda prohibida la intervención de organizaciones gremiales o con objeto social
 
 Toda organización que pretenda constituirse como partido político local deberá cumplir los siguientes requisitos:
 
-l. Realizar actividades políticas independientes de cualquier otra organización, de manera permanente durante los doce meses previos a la presentación de su solicitud de información para constituirse como partido político local. Dichas actividades deberán acreditarse de manera fehaciente y el inicio de las mismas habrá de ser notificado al Instituto.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 13 DE MAYO DE 2011)</small>
+
+I. Tener actividades políticas independientes de cualquier otra organización, de manera permanente por lo menos un año antes del día en que se realice la jornada electoral del proceso en que se desee participar por primera ocasión. Dichas actividades deberán acreditarse de manera fehaciente y el inicio de las mismas habrá de ser notificado al Instituto.
 
 A partir de esta notificación y, en su caso, hasta la obtención de su registro, la organización interesada deberá informar trimestralmente al Instituto del origen y destino de los recursos que obtenga para el desarrollo de sus actividades.
 
@@ -571,7 +573,9 @@ Las aportaciones, donativos o financiamiento de las organizaciones se regirán e
 
 II. Formular su declaración de principios y, en congruencia con ellos, un programa de acción y los estatutos que normarán sus actividades como partido;
 
-III. Presentar un escrito de información en términos de lo establecido en el Reglamento respectivo, acompañado de la documentación señalada en las fracciones anteriores por lo menos doce meses antes de que inicie el proceso electoral, durante los cuales la organización deberá satisfacer los demás requisitos señalados en este Código. Una vez satisfechos deberá presentar solicitud de registro ante el Consejo General;
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2011)</small>
+
+III. Notificar por escrito la intención de constituirse como partido político local, en términos de lo establecido en el Reglamento respectivo, acompañado de la documentación señalada en las fracciones anteriores por lo menos seis meses antes de que inicie el proceso electoral en el que se pretenda participar por primera ocasión, durante los cuales la organización deberá satisfacer los demás requisitos señalados en este Código. Una vez satisfechos deberá presentar solicitud de registro ante el Consejo General;
 
 IV. Contar con al menos 200 afiliados en cada uno de, por lo menos, la mitad más uno de los municipios del Estado; y
 
@@ -639,11 +643,15 @@ VII. Las sanciones aplicables a los miembros que infrinjan sus disposiciones int
 
 Satisfechos los requisitos anteriores, la organización interesada notificará al Instituto este propósito y cumplirá con los siguientes requisitos previos a la solicitud de registro:
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 13 DE MAYO DE 2011)</small>
 
-l. Celebrar una asamblea en cada uno de los municipios a que se refiere la fracción IV del artículo 39 de este Código, en presencia de un funcionario del Instituto o, a falta de éste, de un Notario Público del Estado quien certificará:
+I. Celebrar una asamblea en cada uno de los municipios a que se refiere la fracción IV del artículo 39 de este Código, una vez hecha la notificación de la intención de constituirse en partido politico local, la agrupación contará con 120 días para llevar a cabo las asambleas en presencia de un funcionario del Instituto o, a falta de éste, de un Notario Público del Estado quien certificará:
+
+> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 a) El número de afiliados que concurrieron a la asamblea municipal, que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; que suscribieron el documento de manifestación formal de afiliación; que eligieron delegados a la asamblea estatal constitutiva, y quienes fueron los electos; y
+
+> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
 b) Que con las personas mencionadas en la fracción anterior quedaron formadas las listas de afiliados, con nombres, residencia y clave de la Credencial para Votar;
 
@@ -677,9 +685,11 @@ II. Las listas nominales de afiliados por municipios; y
 
 III. Las actas de las asambleas celebradas en los municipios y las de su asamblea estatal constitutiva.
 
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2011)</small>
+
 ###### Artículo 45.
 
-El Consejo General del Instituto resolverá si procede o no el registro, dentro del plazo de 60 días contados a partir de la fecha de presentación de la solicitud. Su resolución deberá ser fundada y motivada. Se notificará en forma personal a la organización interesada dentro de los tres días siguientes a aquél en que se pronunció y se publicará en la Gaceta del Gobierno.
+El Consejo General del Instituto resolverá si procede o no el registro, dentro del plazo de 45 días contados a partir de la fecha de presentación de la solicitud. Su resolución deberá ser fundada y motivada. Se notificará en forma personal a la organización interesada dentro de los tres días siguientes a aquél en que se pronunció y se publicará en la Gaceta del Gobierno.
 
 ###### Artículo 46.
 
@@ -6392,3 +6402,11 @@ DECRETO NUMERO 176, POR EL QUE SE REFORMAN LOS ARTICULOS 158 EN SUS FRACCIONES I
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 13 DE MAYO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Instituto Electoral del Estado de México, deberá realizar las adecuaciones al Reglamento conforme a lo previsto en el presente Decreto, dentro de los treinta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
