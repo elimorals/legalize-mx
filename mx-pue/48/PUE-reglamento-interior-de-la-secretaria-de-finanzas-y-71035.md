@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-finanzas-y-71035"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-11"
-last_updated: "2009-11-11"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 11 de noviembre de 2009.
 
@@ -2788,3 +2790,21 @@ SEXTO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas y Adminis
 SÉPTIMO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los 19 días del mes de octubre de 2009.- "Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Finanzas y Administración.- INGENIERO GERARDO MARÍA PÉREZ SALAZAR.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor día 16 de mayo de 2011.
+
+SEGUNDO.- Las unidades administrativas de la Secretaría, de manera previa a la entrada en vigor del presente Decreto, deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+TERCERO.- Los asuntos que se refieran a actos o resoluciones que se hubieren emitido con anterioridad a la entrada en vigor del presente Decreto, se tramitarán, resolverán, defenderán y en general, serán de la competencia de la Unidad Administrativa de la Secretaría de Finanzas a la que le sean conferidas las facultades que correspondan conforme a este Reglamento.
+
+CUARTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra de las que el mismo establece, o cuando se cambie su adscripción, el personal, el archivo, el mobiliario y en general, el equipo que aquélla haya utilizado, pasarán a la unidad competente.
+
+QUINTO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado el 11 de noviembre de 2009.
+
+SEXTO.- En tanto no se expidan los nombramientos de los titulares de la Procuraduría Fiscal, de la Dirección General de Administración y de la Unidad de Inversión de esta dependencia previstas en este Reglamento, los asuntos competencia de las mismas serán atendidos respectivamente por el Coordinador General Jurídico y por los servidores públicos que sean designados por escrito por el Secretario como encargados del despacho de las dos últimas unidades administrativas mencionadas.
+
+SÉPTlMO.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
