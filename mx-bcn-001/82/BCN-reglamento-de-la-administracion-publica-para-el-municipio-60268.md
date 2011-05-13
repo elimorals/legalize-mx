@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2011-01-21"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1031,7 +1031,9 @@ ARTÍCULO 56 BIS.- A la Unidad Municipal de Protección Civil le corresponde:
 
 I.- Coordinar las dependencias y entidades de los tres órdenes de Gobierno en el Municipio de Ensenada, que tengan actividades que se relacionen con la Protección Civil;
 
-II.- Promover en los medios de comunicación social, planes y programas de capacitación, difusión y divulgación a través de publicaciones, grabaciones, videocintas y campañas permanentes sobre temas de Protección Civil, que contribuyan a la formación de una cultura en la materia;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+II.- Promover en los medios de comunicación social, planes y programas de capacitación, difusión y divulgación a través de publicaciones, grabaciones, videocintas y campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia;
 
 III.- Invitar a la población a participar activamente en acciones de Protección Civil;
 
@@ -1039,7 +1041,9 @@ IV.- Promover la incorporación de contenidos temáticos de Protección Civil, e
 
 V.- Promover el desarrollo de planes y programas para la formación de especialistas en la materia y la investigación de las causas y efectos de los desastres, en los planteles de educación superior y en los organismos dedicados a la investigación científica y tecnológica;
 
-VI.- Integrar un catálogo de Recursos Humanos y materiales de las dependencias y entidades de los tres órdenes de Gobierno y del sector social y privado, necesarios de movilizar en caso de desastre;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+VI.- Integrar un catálogo de recursos Humanos y materiales de las dependencias y entidades de los tres órdenes de Gobierno y del sector social y privado, necesarios para movilizar en caso de desastre;
 
 VII.- Integrar un directorio telefónico de los funcionarios de los tres órdenes de gobierno, sector social y privado, relacionados con la materia de Protección Civil;
 
@@ -1059,9 +1063,41 @@ XIV.- Tramitar los acuerdos emitidos por el Consejo Municipal;
 
 XV.- Expedir los registros a que se refieren los Artículos 39 y 72 de este Reglamento;
 
-XVI.- Elaborar y mantener actualizado el Plan Municipal de Contingencias y el Atlas Municipal de Riesgos, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XVII.- Las demás que establezca la Ley y Reglamentos relacionados con Protección Civil.
+XVI.- Elaborar y mantener actualizado el Plan municipal de Contingencias y el Atlas Municipal de Riesgos,
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVII.- Llevar a cabo las visitas de inspección necesarias para verificar el cumplimiento de las Leyes y Reglamentos en Materia de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XVIII.- Tramitar los procedimientos previstos en este ordenamiento, decretar las medidas de emergencia, seguridad o correctivas que resulten necesarias para enmendar las deficiencias o irregularidades que sean detectadas, dictar las resoluciones e imponer las medidas y sanciones que establecen las leyes y reglamentos en materia de protección civil.
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2011)</small>
+
+XIX.- Las demás que establezcan las Leyes, Reglamentos y Normas sobre Protección Civil.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2011)</small>
+
+ARTÍCULO 56 TER.- La unidad Municipal de Protección Civil para el ejercicio de sus atribuciones se integra de la siguiente manera:
+
+I.- Un Director;
+
+II.- Un Subdirector;
+
+III.- Un Departamento de Administración;
+
+IV.- Un Departamento de Culturización;
+
+V.- Un Departamento de Operaciones;
+
+VI.- Un Departamento Técnico que contara a su vez con:
+
+a) Área de Planeación, y
+
+b) Área de Inspección.
 
 ###### ARTÍCULO 57.
 
@@ -1461,7 +1497,9 @@ II.- Coordinar, evaluar y dar seguimiento al Programa de Seguridad Pública del 
 
 III.- Observar y vigilar el cumplimiento de las disposiciones y normas establecidas en reglamentos y bandos que le confieran atribuciones;
 
-IV.- Establecer las disposiciones, programas de educación preventiva, normas operativas y administrativas necesarias para la debida prestación de los servicios de tránsito, seguridad pública, bomberos y protección civil;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+IV.- Establecer las disposiciones, programas de educación preventiva, normas operativas y administrativas necesarias para la debida prestación de los servicios de tránsito, seguridad pública y bomberos;
 
 V.- Formular lineamientos que regulen y orienten los programas y acciones de seguridad pública en el municipio, a efecto de prevenir y en su caso impedir, la comisión de actos ilícitos o faltas administrativas que afecten la salud, seguridad e integridad de las personas, daños a bienes públicos o privados, y en general, la violación de las disposiciones reglamentarias.
 
@@ -1491,7 +1529,9 @@ Para el desempeño de sus funciones la Secretaria de Seguridad Pública contará
 
 I.- Dirección de Policía y Tránsito Municipal; y
 
-II.- Dirección de Bomberos y Protección Civil.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+
+II.- Dirección de Bomberos.
 
 #### SECCION PRIMERA. DE LA DIRECCIÓN DE POLICIA Y TRÁNSITO MUNICIPAL
 
@@ -2078,3 +2118,7 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 21 DE ENERO DE 2011.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 13 DE MAYO DE 2011.
+
+UNICO.- Siendo aprobada la presente reforma, incorpórese en el libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada, Baja California.
