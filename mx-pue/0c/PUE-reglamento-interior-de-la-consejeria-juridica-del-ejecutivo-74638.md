@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-consejeria-juridica-del-ejecutivo-746
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-31"
-last_updated: "2010-03-31"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL EJECUTIVO ESTATAL
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL EJECUTIVO ESTATAL DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SERVICIOS LEGALES Y DEFENSORÍA PUBLICA, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de marzo de 2010.
 
@@ -1002,3 +1004,17 @@ TERCERO.- En tanto se expidan los manuales administrativos, el Titular de la Con
 CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
 
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.-Rúbrica.- La Consejera Jurídica del Ejecutivo Estatal.- LICENCIADA CLAUDIA RIVADENEYRA TORIJA.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Consejería Jurídica del Ejecutivo Estatal, publicado en el Periódico Oficial del Estado el treinta y uno de marzo de dos mil diez;
+
+TERCERO.- Se abrogan los Acuerdos del Ejecutivo del Estado, publicados en el Periódico Oficial del Estado el veintisiete de febrero y dieciséis de marzo de dos mil seis, mediante los cuales se crea el "Consejo Ciudadano por la Cultura de la Legalidad" y se implementa al interior del mismo la "Comisión Ejecutiva", respectivamente.
+
+CUARTO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+QUINTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
