@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-educacion-publica-78381
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-10"
-last_updated: "2010-12-10"
+last_updated: "2011-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA, PUBLICADO EN EL P.O. DE 13 DE MAYO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 10 de diciembre de 2010.
 
@@ -2432,3 +2434,17 @@ Los decretos, acuerdos, circulares, instructivos y demás disposiciones pronunci
 Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie su adscripción, pasarán a la unidad que se determine, el personal, el mobiliario, el archivo y en general el equipo que aquella haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de noviembre del año dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.- El Secretario de Educación Pública.- MAESTRO DARÍO CARMONA GARCÍA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MAYO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación Pública del Estado, que se publicó en el Periódico Oficial del Estado, el diez de diciembre de dos mil diez.
+
+TERCERO.- Los decretos, acuerdos, circulares, instructivos y demás disposiciones pronunciadas bajo la vigencia del Reglamento que se abroga, tendrán plena validez en todo lo que no se opongan al presente Reglamento.
+
+CUARTO.- Cuando las atribuciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie su adscripción, pasarán, a la unidad que se determine, el personal, el mobiliario, el archivo y en general el equipo que aquélla haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
+
+QUlNTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
