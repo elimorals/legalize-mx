@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-04-08"
+last_updated: "2011-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MAYO DE 2011.</small>
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -243,17 +243,15 @@ De las licencias del Síndico Procurador.- Las licencias que solicite el Síndic
 
 De las licencias de los Regidores.- En las licencias que soliciten los Regidores se llamará a su suplente cuando excedan de treinta días.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2011) (F. DE E., P.O. 13 DE MAYO DE 2011)
 
 ###### ARTICULO 15.
 
-Presidente Municipal en Funciones.- El Presidente Municipal podrá ausentarse del territorio del Municipio de Mexicali o separase de sus funciones, de manera extraordinaria o emergente hasta por veinticuatro horas, dando aviso por escrito a los integrantes del Ayuntamiento y en esos casos el Presidente Municipal (sic).
+Presidente Municipal en Funciones.- El Presidente Municipal podrá ausentarse del territorio del Municipio de Mexicali o separarse de sus funciones, de manera extraordinaria o emergente hasta por veinticuatro horas, dando aviso por escrito a los integrantes del Ayuntamiento y en esos casos el Presidente Municipal designará al Regidor Presidente Municipal en Funciones.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
+(ADICIONADO, P.O. 8 DE ABRIL DE 2011) (F. DE E., P.O. 13 DE MAYO DE 2011)
 
-De manera excepcional o cuando la ausencia sea superior a veinticuatro horas, el Secretario del Ayuntamiento convocará a la sesión Cabildo (sic), donde se elegirá designar a un Regidor con tal carácter a propuesta del Presidente Municipal.
+De manera excepcional o cuando la ausencia sea superior a veinticuatro horas, el Secretario del Ayuntamiento convocará a la sesión de Cabildo, donde se elegirá designar a un Regidor con tal carácter a propuesta del Presidente Municipal.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2011)</small>
 
