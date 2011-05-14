@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-05-07"
+last_updated: "2011-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 298 PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011.</small>
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2557,6 +2559,14 @@ VII. Por sí, o por interpósita persona, sin el previo permiso de las autoridad
 
 VIII. Venda, intercambie o haga efectivos vales utilizados para canjear bienes y servicios, con conocimiento de que son falsos.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+
+IX. Incumpla los términos contractuales ocasionando un perjuicio a persona o agrupación dedicada a la actividad agropecuaria, por motivo de la comercialización de sus productos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+En el supuesto de la fracción IX, la pena de prisión se incrementará hasta en una tercera parte de la prevista en el artículo 223.
+
 ###### Artículo 225.
 
 A quien por medio del engaño o aprovechando el error en que otro se halle le cause perjuicio patrimonial, se le impondrán de seis meses a dos años seis meses de prisión y de setenta y cinco a doscientos días multa.
@@ -4026,6 +4036,12 @@ DECRETO NUMERO 58/2010 I P.O. POR EL QUE SE DEROGA LA FRACCION XII, DEL ARTICULO
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
