@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2010-10-09"
+last_updated: "2011-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2011.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -314,6 +314,10 @@ IX.- Expedir leyes electorales conforme a la presente Constitución, así como l
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 X.- Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente, que establezcan la concurrencia de los gobiernos estatal y municipales, en el ámbito de sus respectivas competencias, conforme a la Constitución Política de los Estados Unidos Mexicanos y la ley general reglamentaria correspondiente;
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+Expedir leyes relativas al servicio de agua potable y saneamiento, así como para su cuidado, preservación, extracción sustentable y tratamiento, a fin de fomentar entre la población una cultura del uso y aprovechamiento racional del mismo.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
@@ -2085,6 +2089,10 @@ XIV.- Toda persona tiene derecho a un medio ambiente social que le permita vivir
 
 El Estado implementará las políticas y acciones correspondientes a fin de garantizar las condiciones que permitan a sus habitantes, a través de la cultura de la paz, vivir sin violencia.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+
+XV.- El acceso al suministro de agua potable y el saneamiento básico es un derecho humano fundamental para el pleno disfrute de la vida y la salud, y a su vez una obligación del individuo en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho, cuyo servicio se prestará en los casos que exista la viabilidad técnica y financiera para ello.
+
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 1° Bis.
@@ -2871,7 +2879,7 @@ Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Es
 
 CUARTO.- En tanto se nombra al Auditor Superior del Estado, fungirá como tal el Titular de la Contaduría Mayor de Hacienda del Congreso del Estado por un término de hasta 120 días posterior a la entrada en vigor del presente Decreto. Si al concluir dicho plazo, el Congreso del Estado no ha nombrado al Auditor Superior del Estado en los términos de la Ley, el actual será sustituido por la C.P. Ma. Cristina González Márquez, Subcontadora Mayor de Hacienda del Estado de Colima, hasta en tanto se designe al definitivo.
 
-QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría.
+QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría..
 
 SEXTO.- La presentación, revisión, fiscalización y dictamen de las cuentas públicas del segundo semestre del ejercicio fiscal 2008, primero y segundo del ejercicio fiscal 2009, se tramitarán hasta su conclusión en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima y demás legislación vigente antes de la entrada en vigor del presente Decreto.
 
@@ -2880,6 +2888,10 @@ P.O. 9 DE OCTUBRE DE 2010.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
 
 El Gobernador del Estado dispondrá que se publique, circule y observe".
+
+P.O. 14 DE MAYO DE 2011.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
