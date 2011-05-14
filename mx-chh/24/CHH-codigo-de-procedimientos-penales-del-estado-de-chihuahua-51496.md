@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2011-05-07"
+last_updated: "2011-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MAYO DE 2011.</small>
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1989,8 +1989,6 @@ I. Destruirá, modificará, ocultará o falsificará elementos de prueba; o
 
 II. Si es razonable entender que tratará de influir en lo que declararán algunos de los órganos de prueba.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 173.
@@ -2009,9 +2007,13 @@ IV. El imputado ya esté siendo procesado por la comisión de diverso delito dol
 
 V. El imputado cuente con antecedentes penales o policiacos, o incurra en una conducta delictiva similar a la que se le atribuye.
 
+> <small>(F. DE E., P.O. 14 DE MAYO DE 2011)</small>
+
 El Ministerio Público solicitará invariablemente prisión preventiva y el Juez de Garantía no podrá dejar de imponerla, tanto si quedaran consumados como si sólo se manifestaran en grado de tentativa, en aquellos que la permitan, en los delitos de: homicidio doloso; violación; secuestro; secuestro exprés; extorsión; robo de vehículos automotores cometido con violencia en las personas o cosas; delitos cometidos con medios violentos como armas y explosivos; así como los siguientes delitos que atentan contra el libre desarrollo de la personalidad: delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, en el supuesto de los artículos 181, segundo párrafo y 184; pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; y trata de personas, en el supuesto previsto en el artículo 198, tercer párrafo, todos del Código Penal del Estado de Chihuahua.
 
-diversas (sic) a la prisión preventiva, el juez ordenará de plano su sustitución por esta última.
+> <small>(F. DE E., P.O. 14 DE MAYO DE 2011)</small>
+
+En caso de incumplimiento atribuible al imputado de la medida o de cualesquiera de las medidas cautelares impuestas, diversas a la prisión preventiva, el juez ordenará de plano su sustitución por esta última.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
