@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2007-01-13"
+last_updated: "2011-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE DESARROLLO URBANO SOSTENIBLE DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE FECHA 14 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2622,3 +2624,33 @@ Artículo Primero.- El costo de la instalación de tinacos en todas las unidades
 Artículo Segundo.- Para todos aquellos derechohabientes que ya cuentan con vivienda y pretendan incluirse a un programa de oferta de tanques elevados de almacenamiento o tinacos, se harán acreedores a ellos todos aquellos usuarios que no tengan adeudo alguno con la Junta de Central de Aguas y Saneamiento; siempre y cuando se entreguen los tinacos al usuario con un anticipo razonable y el resto lo pague en mensualidades incluidas en su recibo de pago de agua, previa firma de un contrato de compra-venta.
 
 Artículo Tercero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Desarrollo Urbano del Estado de Chihuahua, publicada el 9 de octubre de 1995, así como el Decreto 1110/2010 II P.O.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, en un término no mayor de un año, emitirá los reglamentos correspondientes a esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se expidan los Reglamentos, Acuerdos y demás disposiciones administrativas correspondientes, continuarán aplicándose, en lo que no se oponga a esta Ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Para el primer año de vigencia de la presente Ley, el Estado y los Municipios formularán sus Programas Operativos Anuales para la atención del déficit de los índices de desarrollo sostenible; a partir del segundo año de vigencia de la presente Ley, la Secretaría verificará la integración del contenido de los Programas de Desarrollo Urbano Sostenible y del Dictamen del Informe Anual Municipal de Desarrollo Sostenible, en el Programa Operativo Anual de los municipios.
+
+###### ARTÍCULO SEXTO.
+
+El Gobierno del Estado, en coordinación con los Gobiernos Federal y Municipales, practicará investigaciones científicas y recabará amplia información sobre el desarrollo urbano sostenible y la vivienda en el Estado, a fin de ser un eficiente órgano de consulta para los Ayuntamientos y sectores interesados.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobierno del Estado brindará, en la medida de sus posibilidades, asesoría y asistencia técnica a los Municipios y Comisiones que lo soliciten, en la formulación, ejecución y control de sus respectivos programas de desarrollo urbano.
