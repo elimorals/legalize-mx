@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-02-26"
+last_updated: "2011-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -105,11 +105,11 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD establecido por el articulo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178,179 Y (sic) 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209 Y (sic) 210; Abuso Sexual, en lo previsto en el segundo párrafo del artículo 215; ROBO respecto de los supuestos del inciso B) del artículo 227; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V Y (sic) VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 Y (sic) 210 así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN tipificado por el artículo 104; TERRORISMO conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD establecido por el artículo 117; EVASIÓN DE PRESOS conforme al segundo párrafo del artículo 121; PECULADO tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA mencionada en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 Y 157 BIS 7; LENOCINIO en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS en el artículo 161; HOMICIDIO tipificado por los artículos 169, 170, 171, 172 tratándose del provocador, y las fracciones II y III del 173; LESIONES conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179 y 183; HOMICIDIO Y LESIONES CULPOSAS previstas en el artículo 184 BIS; PRIVACIÓN DE LA LIBERTAD previsto por el artículo 197; SECUESTRO previsto por el artículo 199, respectivamente; VIOLACIÓN en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; Abuso Sexual, en lo previsto en el segundo párrafo del artículo 215; ROBO respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1,227 BIS 2; los FRAUDES ESPECÍFICOS previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS tipificado por el artículo 238. Igualmente se consideran graves los delitos de Tentativa de Homicidio y Secuestro, así como la Tentativa de Robo previsto por el inciso b) del artículo 227 y la Tentativa de Violación previsto por los artículos 206, 207, 208, 209 Y 210 así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., P.O. 3 DE AGOSTO DE 2006)
 
@@ -941,9 +941,9 @@ II.- Desde la fecha en que el reo contraiga matrimonio con la ofendida, en los c
 
 Es imprescriptible la acción persecutoria en los siguientes casos:
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2011)</small>
 
-I.- Por los delitos previstos en los artículos 131, 132 y 133;
+I.- Por los delitos de peculado, cohecho, enriquecimiento ilegítimo y terrorismo conforme a los párrafos primero y segundo del artículo 106 BIS.
 
 II.- Cuando el delito cometido atente contra el derecho a recibir alimentos.
 
@@ -1017,9 +1017,19 @@ A los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autori
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 106.
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una Ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar una determinación, se le impondrán de uno a cinco años de prisión, multa hasta por sesenta unidades e inhabilitación de derechos políticos hasta por el mismo número de años.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+ARTICULO 106 BIS.- Al que utilizando explosivos, sustancias tóxicas, armas de fuego, armas químicas, biológicas, bacteriológicas o similares, material o instrumentos radioactivos, o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios públicos, que produzcan alarma, temor o terror entre la población o un grupo o sector de ella, para perturbar la seguridad y paz pública o tratar de menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación, se le impondrá de seis a treinta años de prisión, y multa de hasta seiscientas unidades, con independencia de las penas que correspondan por los delitos que resulten.
+
+Las mismas sanciones a que se refiere el párrafo anterior, se impondrán al que por cualquier medio financie, aporte o recaude fondos económicos o insumos de cualquier especie, a favor o con el fin de ser destinados en apoyo de personas o grupos de personas que operen, cometan o pretendan cometer actos terroristas en el territorio del Estado.
+
+A quién teniendo conocimiento de las actividades de un terrorista y de su identidad lo encubra y no lo haga saber a las autoridades, le será impuesta una pena de dos a nueve años de prisión.
 
 ### CAPITULO I.
 
@@ -1031,9 +1041,9 @@ USURPACION DE FUNCIONES.
 
 ###### ARTICULO 107.
 
-Se consideran delitos políticos los mencionados en el presente título, así como los demás en que se incurra formando parte de grupos y con los fines a que se refiere cada una de las figuras delictuosas definidas, que no sean contra la vida, la salud personal o secuestro.
+Con excepción del delito de terrorismo, se consideran delitos políticos los mencionados en el presente título, así como los demás en que se incurra formando parte de grupos y con los fines a que se refiere cada una de las figuras delictuosas definidas, que no sean contra la vida, la salud personal o secuestro.
 
-Estos delitos serán perseguibles previa querella del Ejecutivo del Estado.
+Los delitos de carácter político serán perseguibles previa querella del Ejecutivo del Estado.
 
 ###### ARTICULO 108.
 
@@ -1543,9 +1553,7 @@ Al que por cualquier medio altere el equilibrio ecológico local poniendo en pel
 
 ###### ARTICULO 137.
 
-Al que mediante incendio, explosión o inundación ponga en peligro a las personas o sus bienes, se le impondrán de uno a cinco años de prisión y multa hasta por 60 unidades.
-
-Cuando el peligro a que se refiere al (sic) párrafo anterior se ocasione por cualquier otro medio, la pena será de uno a tres años de prisión y multa hasta por 40 unidades.
+(DEROGADO, P.O. 14 DE MAYO DE 2011)
 
 ### CAPITULO V.
 
@@ -1564,6 +1572,10 @@ Cuando la asociación delictuosa asuma el carácter de delincuencia organizada, 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 Deben entenderse como delincuencia organizada, los casos en los que el propósito del grupo sea la comisión de alguno o algunos de los siguientes delitos: evasión de presos previsto en el artículo 121; corrupción y explotación de personas señalados en el artículo 154; pornografía mencionada en el numeral 157 BIS 2; turismo sexual, en los términos de los numerales 157 BIS 6 y 157 BIS 7; lenocinio en su artículo 158; trata de personas en el artículo 161; homicidio señalado en los artículos 168, 169, 170, y 183; secuestro establecido en el artículo 199; amenazas y coacción mencionados en el artículo 203; violación citado en el artículo 206 parte final, artículo 207 último párrafo, 208, 209 y en lo conducente el 210; y robo referido en los artículos 226 y 227.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+Si el sujeto activo miembro de la asociación delictuosa incluida su modalidad de delincuencia organizada fue o es Servidor Público que tenga a su cargo funciones de prevención, persecución o sanción del delito, administración de justicia o reinserción social, se le aumentará en una mitad la pena de prisión establecida en los párrafos primero o segundo de este artículo, además de la inhabilitación definitiva para ejercer derechos o funciones públicas.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -2125,11 +2137,11 @@ Al responsable de Homicidio, que no tenga señalada una sanción especial en est
 
 Al responsable de Homicidio Calificado, se le impondrán de treinta y cinco a cincuenta años de prisión.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 171.
 
-Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es (sic) o fue antes del hecho cónyuge, concubina o concubinario, o pareja en una relación adúltera con el homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
+Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es o fue antes del hecho cónyuge, concubina, concubinario o pareja del homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
 
 (REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
 
@@ -2195,11 +2207,11 @@ Cuando las lesiones, sean inferidas a un menor o a quien no tenga capacidad para
 
 Cuando el lesionado sea ascendiente consanguíneo en línea recta o adoptante del autor y éste haya obrado con conocimiento del parentesco, las sanciones se aumentarán en los términos del Artículo 175.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 178.
 
-Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo en línea recta o adoptado mayor de edad, o hermano y el autor tenga conocimiento de esa relación, o quien fue o es su cónyuge, concubina o concubinario, o su pareja en una relación adúltera, del autor de las lesiones. Requiriéndose la querella de parte ofendida.
+Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo en línea recta, adoptado mayor de edad o hermano, y el autor tenga conooimiento (sic) de esa relación, o quien fue o es cónyuge, concubina, concubinario o pareja del autor de las lesiones. Requiriéndose la querella de parte ofendida.
 
 ###### ARTICULO 179.
 
@@ -2387,9 +2399,9 @@ I.- Al que dispare sobre alguna persona, un arma de fuego;
 
 II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado la muerte.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2011)</small>
 
-Se aumentará hasta un tercio más de esta sanción cuando el ofendido sea o haya sido cónyuge, concubina o concubinario, o su pareja en relación adúltera, del agente activo.
+Se aumentará hasta un tercio más de esta sanción cuando el ofendido sea o haya sido cónyuge, concubina, concubinario o pareja del agente activo.
 
 ### CAPITULO II.
 
@@ -2469,7 +2481,9 @@ II.- Que la víctima sea menor de edad, mujer embarazada o que tenga menos de se
 
 III.- Que la privación de la libertad se prolongue por más de cuatro días;
 
-IV.- Que la víctima sea o haya sido cónyuge, concubina o concubinario o pareja en una relación de adulterio, del agente activo;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2011)</small>
+
+IV.- Que la víctima sea o haya sido cónyuge, concubina, concubinario o pareja del agente activo;
 
 V.- Que la privación de la libertad cause daños corporales al pasivo;
 
@@ -2899,7 +2913,7 @@ I.- Cuando el robo se cometa en casa habitación o lugar destinado para habitaci
 
 II.- Estando la víctima en un vehículo particular o de transporte público;
 
-III.- Se apoderen de vehículos de motor estacionados en la vía pública o en otro lugar destinado a su guarda o reparación;
+III.- (DEROGADA, P.O. 14 DE MAYO DE 2011)
 
 IV.- Aprovechando las condiciones de confusión por catástrofe o desorden público;
 
@@ -2920,6 +2934,44 @@ VIII.- Se realice en paraje solitario o lugar desprotegido; o
 IX.- Cuando el sujeto activo se apodere de uno o más bienes muebles de cualquier institución educativa pública o privada, que cuente con reconocimiento de validez oficial.
 
 Los supuestos de este artículo se aplicarán independientemente, de que con motivo de la comisión del robo, se cometan otros delitos diversos, los que serán objeto de la acumulación correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+###### ARTICULO 227 Bis.
+
+Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de cinco a veinte años de prisión y multa de hasta quinientas unidades.
+
+Cuando el apoderamiento del vehículo se realice conforme a las hipótesis establecidas en las fracciones IV, V, VI, VII y VIII del inciso B) del artículo 227, la pena prevista en el párrafo anterior aumentará en un tercio más.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+###### ARTICULO 227 Bis 1.
+
+Se impondrá de cinco a veinte años de prisión y multa de hasta quinientas unidades, al que teniendo conocimiento y con independencia de las penas que le correspondan por la comisión de otros delitos:
+
+I. Desmantele algún o algunos vehículos robados o comercialice conjunta o separadamente sus partes;
+
+II. Enajene, suministre o trafique de cualquier manera con vehículo o vehículos robados;
+
+III. Detente, posea, utilice, transite, custodie o adquiera uno o más vehículos robados o que, por su forma de adquisición, se advierta su origen ilegal;
+
+IV. Detente, posea, custodie, altere, modifique o falsifique de cualquier manera una o ambas placas de circulación, el engomado, la tarjeta de circulación o la demás documentación oficial que acredite la propiedad o identificación de un vehículo robado;
+
+V. Remarque, altere, modifique, falsifique, sustituya, suprima o transplante las series o números originales de identificación de uno o más vehículos automotores robados;
+
+VI. Traslade él o los vehículos robados de un lugar a otro dentro del Estado, o a otra Entidad Federativa o al extranjero;
+
+VII. Utilice él o los vehículos robados en la comisión de otro u otros delitos; y
+
+VIII. Aporte recursos económicos o proporcione medios de cualquier especie, para la ejecución de las actividades descritas en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
+
+###### ARTICULO 227 Bis 2.
+
+Si en los actos o conductas previstas en los artículos 227 Bis y 227 Bis 1, participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, a la sanción que corresponda conforme a dichos preceptos, se le aumentará en una mitad más y, además, se le aplicará la destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
+
+Las mismas penas se aplicarán, cuando el sujeto activo del delito pertenezca a las instituciones de seguridad privada.
 
 ###### ARTICULO 228.
 
@@ -2979,6 +3031,16 @@ V.- Para obtener un lucro indebido, explote las preocupaciones, las supersticion
 
 Este delito se sancionará aun en el caso de falta de pago total o parcial del precio de la cosa, el derecho transmitido, de la obligación alimentaria o en su caso de la expedición de la constancia o recibo correspondiente.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+
+VI.- Celebre de manera verbal o escrita, un convenio para la comercialización primaria de productos agropecuarios, pesqueros o forestales, utilizando engaños, artificios, maquinaciones o cualquier otra causa injustificada, incumpla con la obligación del pago en el término pactado.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
+
+VII.- Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución, estar cancelada, o por carecer éste de fondos suficientes para su pago.
+
+La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 234.
@@ -2989,11 +3051,13 @@ Se considera fraude y se impondrá pena de uno a nueve años de prisión y multa
 
 I.- ADMINISTRACIÓN FRAUDULENTA. Al que por cualquier motivo teniendo a su cargo la administración o el cuidado de bienes ajenos, con el animo de lucro, perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos haciendo aparecer operaciones o gastos inexistentes o exagerando los reales, ocultando, reteniendo valores o empleándolos indebidamente.
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2011)</small>
 
-II.- USURA. Al que aprovechándose de la ignorancia, inexperiencia, miseria o necesidad apremiante del pasivo, aunque éste fuese momentánea, obtenga de éste intereses o lucros usurarios.
+II.- USURA. A la persona que mediante contrato o convenio verbal o escrito, título de crédito, o cualquier acto jurídico imponga al pasivo intereses de cualquier especie superiores al tres por ciento mensual en la fecha de la celebración del acto jurídico.
 
-Se considera que los intereses o lucros son usurarios, cuando se imponga un contrato o convenio, verbal o escrito, con intereses que rebase el 3% mensuales (sic) en la fecha de la celebración del acto jurídico.
+De igual forma, se considera que comete usura, quien lícitamente obtenga para sí o para un tercero, beneficios económicos provenientes de intereses mayores a dos veces el valor de la suerte principal.
+
+Así mismo incurre en usura el que adquiera, transfiera o enajene un crédito o préstamo usurario, siempre que lo reclamen en juicio.
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2003)</small>
 
@@ -3612,3 +3676,7 @@ P.O. 19 DE FEBRERO DE 2011.
 P.O. 26 DE FEBRERO DE 2011.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
