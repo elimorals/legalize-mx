@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-admision-y-evaluacion-del-programa-606
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2010-01-26"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA "APADRINA A UN NIÑO INDIGENA" DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA DE DESARROLLO SOCIAL "APADRINA A UN NIÑO INDIGENA", PUBLICADO EN LA G.G. DE 16 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta de Gobierno del Estado de México, el viernes 14 de marzo de 2008.
 
@@ -441,3 +443,11 @@ PRIMERO.- Publíquese el presente Acuerdo, en el Periódico Oficial "Gaceta del 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+G.G. 16 DE MAYO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Comité de Admisión y Evaluación del Programa "Apadrina a un Niño Indígena" de la Secretaría de Desarrollo Social del Gobierno del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha catorce de marzo de dos mil ocho y sus modificaciones publicadas en el mismo medio, en fecha veintiséis de enero del año dos mil diez.
