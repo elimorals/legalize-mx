@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2011-03-10"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SON"
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL DEL 16 DE MAYO DE 2011.</small>
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
