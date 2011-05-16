@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-814
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MAYO DE 2011.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -183,8 +183,6 @@ La representación, trámite y resolución de los asuntos de la dependencia corr
 
 El Secretario podrá ejercer directamente cualquiera de las atribuciones de los titulares de las unidades administrativas que conforman la dependencia, sin necesidad de acuerdo por escrito.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 10.
 
 Para el despacho de los asuntos de la Secretaría, su titular tendrá las siguientes atribuciones:
@@ -305,7 +303,9 @@ LVII. Representar legalmente a la Secretaría en lo relativo a las relaciones la
 
 LVIII. Coordinar el servicio de transporte aéreo del Gobernador, así como la administración y mantenimiento de las aeronaves del Gobierno del Estado;
 
-LVIX (SIC). Asignar a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento, que sean necesarias para el cumplimiento de sus obligaciones;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+LIX. Asignar a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento, que sean necesarias para el cumplimiento de sus obligaciones;
 
 LX. Emitir las órdenes, circulares, acuerdos y demás lineamientos necesarios para el funcionamiento de la Secretaría;
 
@@ -318,8 +318,6 @@ Las atribuciones no delegables del Secretario son las previstas en las fraccione
 ## TÍTULO TERCERO. DE LOS SUBSECRETARIOS, TITULARES DE UNIDAD, COORDINADOR GENERAL, DIRECTOR GENERAL, PROCURADOR FISCAL Y DIRECTORES
 
 ### CAPÍTULO ÚNICO. DE LOS SUBSECRETARIOS, TITULARES DE UNIDAD, COORDINADOR GENERAL, DIRECTOR GENERAL, PROCURADOR FISCAL Y DIRECTORES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 11.
 
@@ -379,7 +377,9 @@ XXV. Recibir y atender en el ámbito de su competencia, de conformidad con la le
 
 XXVI. Expedir copias certificadas de documentos que obren en sus archivos, previo pago de los derechos correspondientes, de conformidad con la normatividad aplicable;
 
-XXVII. Formular las actas administrativas que correspondan cuando a través de sus actuaciones tengan conocimiento de irregularidades cometidas por los servidores públicos de su adscripción y previo acuerdo con su superior jerárquico, en los casos que proceda, hacerlas del conocimiento de la Secretaría de (sic) Contraloría o de la Dirección de Recursos Humanos y Financieros según corresponda. Para el caso de que dichas irregularidades sean probables infracciones o delitos, iniciar los trámites ante las instancias competentes e informar a la Coordinación General Jurídica para su seguimiento;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XXVII. Formular las actas administrativas que correspondan cuando a través de sus actuaciones tengan conocimiento de irregularidades cometidas por los servidores públicos de su adscripción y previo acuerdo con su superior jerárquico, en los casos que proceda, hacerlas del conocimiento de la Secretaría de la Contraloría o de la Dirección de Recursos Humanos y Financieros según corresponda. Para el caso de que dichas irregularidades sean probables infracciones o delitos, iniciar los trámites ante las instancias competentes e informar a la Coordinación General Jurídica para su seguimiento;
 
 XXVIII. Ejecutar las sanciones que se deriven de las resoluciones emitidas por la Secretaría de la Contraloría;
 
@@ -583,8 +583,6 @@ X. Elaborar y proponer al Procurador Fiscal, la retroalimentación jurídica par
 
 ### CAPÍTULO III. DIRECCIÓN DE ASUNTOS FISCALES CONSULTIVOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 18.
 
 La Dirección de Asuntos Fiscales Consultivos, estará adscrita a la Procuraduría Fiscal y a cargo de un titular auxiliado por los servidores públicos que se requieran para el ejercicio de sus funciones y autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
@@ -603,7 +601,9 @@ VI. Elaborar y proponer al Procurador Fiscal, los informes sobre la presunta com
 
 VII. Elaborar y proponer al Procurador Fiscal, los informes que en la competencia de la Dirección deban enviarse a las dependencias de la administración pública del Estado y a las diversas unidades administrativas de la Secretaría;
 
-VIII. Dar seguimiento a las solicitudes realizadas por el Procurador Fiscal a las diversas unidades administrativas de la Secretaría, con el fin de dar cumplimiento a las resoluciones emitidas en (sic) por las autoridades judiciales, administrativas y ministeriales, en la competencia de la Dirección;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+VIII. Dar seguimiento a las solicitudes realizadas por el Procurador Fiscal a las diversas unidades administrativas de la Secretaría, con el fin de dar cumplimiento a las resoluciones emitidas por las autoridades judiciales, administrativas y ministeriales, en la competencia de la Dirección;
 
 IX. Informar bimestralmente al Procurador Fiscal del estado que guardan los asuntos competencia de la Dirección;
 
@@ -963,8 +963,6 @@ XV. Las demás que en materia de su competencia se establezcan en este Reglament
 
 #### SECCIÓN IV. DE LAS OFICINAS RECAUDADORAS Y DE ASISTENCIA AL CONTRIBUYENTE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 26.
 
 Las Oficinas Recaudadoras y de Asistencia al Contribuyente estarán adscritas a la Subdirección de Recaudación y a cargo de un titular, auxiliado por las Oficinas Receptoras de Pago, verificadores, inspectores, notificadores, ejecutores, interventores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
@@ -995,7 +993,9 @@ XII. Recibir las solicitudes de pago a plazos, ya sea diferido o en parcialidade
 
 XIII. Recibir las solicitudes de condonación y exención total o parcial de pago de contribuciones, productos y aprovechamientos, y turnarlas dentro de los cinco días posteriores a su recepción a la Unidad de Apoyo Técnico y Legal, para su trámite correspondiente;
 
-XIV. Recibir los medios de defensa que promuevan los contribuyentes o terceros, en contra de los actos de las autoridades fiscales, previstos en las leyes fiscales estatales, federales o municipales, y turnarlos en la fecha de su recepción a la Procuraduría Fiscal a la Dirección de Asuntos Jurídicos (sic);
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XIV. Recibir los medios de defensa que promuevan los contribuyentes o terceros, en contra de los actos de las autoridades fiscales, previstos en las leyes fiscales estatales, federales o municipales, y turnarlos en la fecha de su recepción a la Procuraduría Fiscal;
 
 XV. Proporcionar, de conformidad con las disposiciones fiscales y normatividad aplicables, orientación y asistencia a los contribuyentes para el cumplimiento de sus obligaciones fiscales estatales, federales y municipales coordinadas;
 
@@ -1023,8 +1023,6 @@ XXVI. Las demás que en materia de su competencia se establezcan en este Reglame
 
 #### SECCIÓN V. DE LAS OFICINAS RECEPTORAS DE PAGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 27.
 
 Las Oficinas Receptoras de Pago estarán adscritas a las Oficinas Recaudadoras y de Asistencia al Contribuyente y serán atendidas por los servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
@@ -1037,7 +1035,9 @@ III. Registrar diariamente los ingresos recaudados, de conformidad con el catál
 
 IV. Resguardar la documentación, expedientes, formas oficiales valoradas y demás bienes relativos al ejercicio de sus funciones; y
 
-V. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el (sic).
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+V. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos, el Director de Ingresos, el Subdirector de Recaudación y los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
 
 #### SECCIÓN VI. DE LA SUBDIRECCIÓN DE CONTROL VEHICULAR
 
@@ -1175,8 +1175,6 @@ XXVIII. Remitir a la Dirección de Ingresos para su notificación, control y cob
 
 #### SECCIÓN I. DE LA SUBDIRECCIÓN DE REVISIONES FEDERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 31.
 
 La Subdirección de Revisiones Federales estará adscrita a la Dirección de Fiscalización y a cargo de un titular, auxiliado por los jefes de departamento, visitadores y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
@@ -1217,11 +1215,11 @@ XVII. Remitir al Departamento Técnico de Ejecución a través de la Dirección 
 
 XVIII. Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos, previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los casos que proceda; y
 
-XXIX (SIC). Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el director de fiscalización.
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XIX. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el director de Fiscalización.
 
 #### SECCIÓN II. DE LA SUBDIRECCIÓN DE REVISIONES ESTATALES
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 32.
 
@@ -1235,7 +1233,9 @@ III. Requerir a los contribuyentes, responsables solidarios y demás obligados, 
 
 IV. Recibir los escritos, documentos, libros y registros que presenten los contribuyentes, responsables solidarios y demás obligados, respecto a los actos de fiscalización en materia de contribuciones estatales, en términos de las disposiciones fiscales estatales y demás aplicables;
 
-V. Contestar, de conformidad con las disposiciones fiscales estatales, federales y demás aplicables, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, relativos a actos de fiscalización;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+V. Contestar, de conformidad con las disposiciones fiscales estatales y demás aplicables, las promociones de carácter administrativo que presenten los contribuyentes, responsables solidarios o terceros con ellos relacionados, relativos a actos de fiscalización;
 
 VI. Proponer al director de fiscalización, de conformidad con las disposiciones fiscales estatales y demás aplicables, las sanciones que procedan por el incumplimiento a las disposiciones fiscales estatales, distintas a las obligaciones de pago;
 
@@ -1279,8 +1279,6 @@ VIII. Las demás que en materia de su competencia se establezcan en este Reglame
 
 ### CAPÍTULO VI. DE LA DIRECCIÓN DE VERIFICACIÓN DE COMERCIO EXTERIOR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 34.
 
 La Dirección de Verificación de Comercio Exterior estará adscrita a la Subsecretaría de Ingresos y a cargo de un titular, auxiliado por las Subdirecciones Técnica de Comercio Exterior, Operativa de Presencia Fiscal, jefes de departamento, encargados de los recintos fiscales, visitadores, verificadores, peritos en materia aduanera y de comercio exterior y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
@@ -1297,7 +1295,9 @@ V. Ordenar y llevar a cabo la revisión de la documentación e información de l
 
 VI. Ordenar y practicar, de conformidad con las disposiciones aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación, la verificación de vehículos en circulación, para comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio del Estado, aun cuando no se encuentren en movimiento, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes en los que se realice la exhibición de los mismos para su venta, procediendo, en su caso, al embargo precautorio de los mismos;
 
-VII. Expedir los oficios de designación, credenciales o constancias de identificación, que acrediten a los visitadores o verificadores para el desarrollo de las visitas domiciliarias y de verificación de mercancías y vehículos de procedencia extranjera a que se refieren las fracciones III y V (sic) de este artículo;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+VII. Expedir los oficios de designación, credenciales o constancias de identificación, que acrediten a los visitadores o verificadores para el desarrollo de las visitas domiciliarias y de verificación de mercancías y vehículos de procedencia extranjera a que se refieren las fracciones IV y VI de este artículo;
 
 VIII. Notificar al interesado, de conformidad con las disposiciones aplicables y los convenios y sus anexos suscritos entre el Estado y la Federación, el inicio del Procedimiento Administrativo en Materia Aduanera, así como tramitar y resolver el mismo;
 
@@ -1343,8 +1343,6 @@ XXVIII. Rendir, de conformidad con las condiciones y plazos convenidos con la Fe
 
 #### SECCIÓN I. DE LA SUBDIRECCIÓN TÉCNICA DE COMERCIO EXTERIOR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 35.
 
 La Subdirección Técnica de Comercio Exterior estará adscrita a la Dirección de Verificación de Comercio Exterior y a cargo de un titular, auxiliado por los jefes de departamento, visitadores, verificadores, peritos en materia aduanera y de comercio exterior y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá las atribuciones siguientes:
@@ -1379,7 +1377,9 @@ XIV. Integrar los expedientes sobre presuntas comisiones de delitos fiscales o d
 
 XV. Expedir en el ámbito de su competencia y a petición de particulares o de autoridades competentes, las certificaciones de datos o documentos que obren en sus archivos o en los de las áreas de su adscripción previo pago de los derechos previstos en la Ley de Ingresos del Estado, en los términos de las normas aplicables; y
 
-XVI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el director de fiscalización (sic).
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XVI. Las demás que en materia de su competencia se establezcan en este Reglamento, los ordenamientos legales vigentes, acuerdos, decretos, circulares, convenios y sus anexos, así como las que le confieran el Subsecretario de Ingresos y el Director de Verificación de Comercio Exterior.
 
 #### SECCIÓN II. SUBDIRECCIÓN OPERATIVA DE PRESENCIA FISCAL
 
@@ -1409,11 +1409,11 @@ IX. Las demás que en materia de su competencia se establezcan en este Reglament
 
 ### CAPÍTULO I. DE LA SUBSECRETARÍA DE EGRESOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
-La Subsecretaría de Egresos, estará adscrita directamente al Secretario y a cargo de un titular, auxiliado por la Unidad de Programación y Presupuesto, las Direcciones: de Servicios Logísticos de Apoyo al Ejecutivo, de Análisis y Política Presupuestal, de Programación, Seguimiento y Análisis del Gasto, de Presupuesto, de Contabilidad, de Tesorería, de Apoyo Financiero para la Prevención y Atención de Desastres Naturales y de las demás áreas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
+La Subsecretaría de Egresos, estará adscrita directamente al Secretario y a cargo de un titular, auxiliado por la Unidad de Programación y Presupuesto, las Direcciones de Servicios Logísticos de Apoyo al Ejecutivo, de Análisis y Política Presupuestal, de Programación, Seguimiento y Análisis del Gasto, de Presupuesto, de Contabilidad, de Tesorería, de Apoyo Financiero para la Prevención y Atención de Desastres Naturales y de las demás áreas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
 
 I. Emitir previo acuerdo con el Secretario, las políticas, medidas, lineamientos, normatividad, metodología, criterios y demás disposiciones relativas al presupuesto, gasto público, contabilidad, tesorería, acceso a servicios financieros, y fideicomisos, así como la atención a los efectos de desastres naturales y demás que sean de su competencia;
 
@@ -1719,8 +1719,6 @@ XX. Instrumentar en el ámbito de su competencia, los Acuerdos de la Comisión G
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE CONTABILIDAD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 43.
 
 La Dirección de Contabilidad estará adscrita a la Unidad de Programación y Presupuesto, y a cargo de un titular, auxiliado por los Subdirectores, jefes de departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
@@ -1763,7 +1761,9 @@ XVIII. Presentar ante las autoridades fiscales competentes, las declaraciones a 
 
 Tratándose de las declaraciones de las retenciones del Impuesto Sobre la Renta, por ingresos, por salarios y en general por la prestación de un servicio personal subordinado, éstas se elaborarán y presentarán con la información y soporte que le proporcione la Secretaría de Administración;
 
-XIX. Coadyuvar, en el ámbito de su competencia, con la Unidad (sic) de Análisis y Política Presupuestal en la elaboración y actualización del Proyecto de Iniciativa de Ley de Egresos del Estado para cada Ejercicio Fiscal, del Manual de Normas y Lineamientos para el Ejercicio del Presupuesto y del Clasificador por Objeto del Gasto para el Ejercicio del Presupuesto, así como de cualquier otro documento para el que se le solicite su colaboración; y
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XIX. Coadyuvar, en el ámbito de su competencia, con la Dirección de Análisis y Política Presupuestal en la elaboración y actualización del Proyecto de Iniciativa de Ley de Egresos del Estado para cada Ejercicio Fiscal, del Manual de Normas y Lineamientos para el Ejercicio del Presupuesto y del Clasificador por Objeto del Gasto para el Ejercicio del Presupuesto, así como de cualquier otro documento para el que se le solicite su colaboración; y
 
 XX. Proporcionar, en el ámbito de su competencia y previa autorización de la Unidad de Programación y Presupuesto, la información que le sea solicitada por las áreas encargadas de la elaboración de los apartados de egresos de los documentos institucionales para la rendición de cuentas.
 
@@ -1851,8 +1851,6 @@ XII. Analizar, evaluar, y en su caso, proponer mecanismos de transferencia de ri
 
 ### CAPÍTULO I. DE LA SUBSECRETARÍA DE PLANEACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 46.
 
 La Subsecretaría de Planeación estará adscrita directamente al Secretario y a cargo de un titular auxiliado por la Unidad de Seguimiento de Giras del Ejecutivo, las Direcciones de Estadística e Información, Ejecutiva del Comité de Planeación para el Desarrollo del Estado de Puebla, de Estrategia Regional y demás servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas y tendrá, además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
@@ -1879,7 +1877,9 @@ X. Promover la planeación del desarrollo de la entidad, de conformidad con las 
 
 XI. Promover entre las dependencias y entidades de la administración pública estatal y municipal, la formulación de planes y programas sectoriales, institucionales, regionales, microrregionales, anuales y los especiales que se determinen; a fin de orientar sus acciones a proyectos prioritarios;
 
-XII. Analizar la congruencia en materia de planeación de los convenios, acuerdos y demás instrumentos jurídicos y (sic) se emitan o celebren por parte del Gobierno del Estado;
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
+
+XII. Analizar la congruencia en materia de planeación de los convenios, acuerdos y demás instrumentos jurídicos que se emitan o celebren por parte del Gobierno del Estado;
 
 XIII. Proponer al Secretario, la celebración de convenios de coordinación y colaboración con las instancias competentes de los tres niveles de gobierno, los Poderes Legislativo y Judicial, instituciones académicas y los sectores social y privado, para promover su participación en los procesos de administración y análisis de la información;
 
@@ -1987,11 +1987,11 @@ XXV. Proponer al Subsecretario de Planeación, la celebración de convenios de c
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN EJECUTIVA DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 49.
 
-Es competencia de la Dirección Ejecutiva del Comité de Planeación para el Desarrollo del Estado de Puebla:
+La Dirección Ejecutiva del Comité de Planeación para el Desarrollo del Estado de Puebla, estará adscrita a la Subsecretaría de Planeación y a cargo de un Titular, auxiliado por los subdirectores, jefes de departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
 
 I. Establecer los mecanismos necesarios para impulsar la operación del Comité de Planeación para el Desarrollo del Estado de Puebla y coordinarse con las instancias competentes para la evaluación correspondiente;
 
@@ -2075,11 +2075,11 @@ XVII. Proporcionar a su superior jerárquico la información y elementos de aná
 
 ### CAPÍTULO I. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 51.
 
-Es competencia de la Dirección General de Administración:
+La Dirección General de Administración, estará adscrita directamente al Secretario y a cargo de un titular, auxiliado por las Direcciones de Recursos Humanos y Financieros, de Recursos Materiales, Servicios Generales y Administración, de Sistemas y de las demás áreas y servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
 
 I. Proponer al Secretario, en el ámbito de su competencia, el establecimiento de normas, lineamientos, políticas, bases y sistemas de supervisión, control, seguimiento y evaluación del cumplimiento de los ordenamientos legales en materia de administración, recursos humanos, recursos materiales, servicios generales, recursos financieros, adquisición de bienes y contratación de servicios; con la participación que corresponda a otras unidades administrativas adscritas a la Secretaría para la adecuada organización y funcionamiento de esta última;
 
@@ -2453,11 +2453,11 @@ XXIX. Proporcionar, en el ámbito de su competencia y en coordinación con las u
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE SEGUIMIENTO A LA INVERSIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 16 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 57.
 
-Es competencia de la Dirección de Seguimiento a la Inversión:
+La Dirección de Seguimiento a la Inversión estará adscrita a la Unidad de Inversión y a cargo de un titular, auxiliado por los subdirectores, jefes de departamento y demás servidores públicos que se requieran para el ejercicio de sus funciones y que se autoricen conforme a las normas respectivas y tendrá además de las atribuciones previstas en el artículo 11 de este Reglamento, las siguientes:
 
 I. Elaborar y proponer al titular de la Unidad de Inversión, la normatividad y lineamientos que deban observar las dependencias, entidades de la administración pública estatal y demás instancias ejecutoras para la integración de expedientes técnicos simplificados, asignación de recursos y seguimiento de la inversión pública;
 
