@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-admision-y-evaluacion-del-programa-618
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-23"
-last_updated: "2008-06-23"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA "COMPROMISO SEGURIDAD ALIMENTARIA DEL ESTADO DE MEXICO"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA DE DESARROLLO SOCIAL"COMPROMISO SEGURIDAD ALIMENTARIA DEL ESTADO DE MEXICO", PUBLICADO EN LA G.G. DE 16 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de junio del 2008.
 
@@ -407,3 +409,13 @@ ING. JUAN CARLOS ARROYO GARCIA
 DIRECTOR GENERAL DE PROGRAMAS SOCIALES Y SECRETARIO DEL COMITÉ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 16 DE MAYO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Comité de Admisión y Evaluación del Programa "Compromiso Seguridad Alimentaria del Estado de México", publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha veintitrés de junio de dos mil ocho.
