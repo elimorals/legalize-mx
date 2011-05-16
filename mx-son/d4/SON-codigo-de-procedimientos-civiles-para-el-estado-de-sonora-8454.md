@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2009-06-04"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MAYO DE 2011 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 179 PUBLICADO EN EL P.O. DE 4 DE JUNIO DE 2009.</small>
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
