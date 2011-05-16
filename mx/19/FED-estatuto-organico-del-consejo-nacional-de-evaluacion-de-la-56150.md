@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2010-01-04"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2011.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -367,17 +367,21 @@ La Comisión Ejecutiva sesionará válidamente con la asistencia de por lo menos
 
 La Comisión Ejecutiva ejerce sus facultades a través de decisiones colegiadas. La Comisión Ejecutiva adoptará sus decisiones por mayoría absoluta de los miembros presentes.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 2011)</small>
+
 ###### Artículo 22.
 
 Asistencias
 
-En caso de que cualquiera de los integrantes de la Comisión Ejecutiva precisados en la fracción I del artículo 19 del presente Estatuto, deje de asistir injustificadamente a cualquiera de las sesiones de la misma, se le aplicarán las deducciones precisadas en su contrato.
+En caso de que cualquiera de los integrantes de la Comisión Ejecutiva precisados en la fracción I, del artículo 19, del presente Estatuto, deje de asistir injustificadamente a cualquiera de las sesiones de la misma, se le aplicarán las deducciones precisadas en su contrato.
+
+En casos excepcionales, los miembros de la Comisión Ejecutiva podrán asistir a las sesiones ordinarias y extraordinarias de la Comisión Ejecutiva de manera virtual, a través de videoconferencia u otros medios similares que permitan analizar, plantear y discutir en tiempo real los asuntos de la sesión y sus alternativas de solución. En su caso, la asistencia virtual de los participantes se registrará recabando las firmas correspondientes en el acta de dicha sesión.
 
 Serán consideradas causas justificadas para dejar de asistir a alguna de las sesiones de la Comisión Ejecutiva por parte de sus integrantes:
 
 I. El desempeño de alguna comisión que le sea asignada por Acuerdo aprobado por la Comisión Ejecutiva;
 
-II. El Acuerdo de la Comisión Ejecutiva por el que se justifique la inasistencia en casos fortuitos, de fuerza mayor o por el desempeño acreditado de actividades académicas relacionadas con el objeto del Consejo, y
+II. El Acuerdo de la Comisión Ejecutiva por el que se justifique la inasistencia en casos fortuitos, de fuerza mayor o por el desempeño acreditado de actividades académicas relacionadas con el objeto del Consejo y
 
 III. La incapacidad médica debidamente comprobada.
 
@@ -1304,3 +1308,9 @@ D.O.F. 4 DE ENERO DE 2010.
 PRIMERO.- La presente reforma al Estatuto Orgánico del Consejo Nacional de Evaluación de la Política de Desarrollo Social entrará en vigor al día siguiente de la aprobación de su H. Comité Directivo.
 
 SEGUNDO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social y para su mayor difusión en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE MAYO DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
