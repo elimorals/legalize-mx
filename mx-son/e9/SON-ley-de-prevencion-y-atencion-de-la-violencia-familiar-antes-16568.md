@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "2009-06-04"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR -ANTES LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 16 DE MAYO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 4 DE JUNIO DE 2009.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NUMERO 179 PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2011.</small>
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1999.
 
@@ -129,7 +129,7 @@ b).- Maltrato Verbal.- Todo acto de agresión intencional, ejecutado a través d
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
-c).- Maltrato psicológico.- Todo patrón de conducta consistente en actos u omisiones, cuya formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias, de abandono y que provoquen deterioro, disminución o afectación a la dignidad personal de quien las recibe. Aquel acto que se comprueba que ha sido realizado con la intención de causar daño moral a toda persona receptora de violencia intrafamiliar, será considerado maltrato psicológico en los términos previstos por este artículo, aunque se argumente el nivel educativo y la formación personal del receptor y del generador de violencia;
+c).- Maltrato psicológico.- Todo patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser: prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, actitudes devaluatorias, de abandono y que provoquen deterioro, disminución o afectación a la dignidad personal de quien las recibe. Aquel acto que se compruebe que ha sido realizado con la intención de causar daño moral a toda persona receptora de violencia intrafamiliar, será considerado maltrato psicológico en los términos previstos por este artículo, aunque se argumente el nivel educativo y la formación personal del receptor y del generador de violencia;
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -191,7 +191,7 @@ II.- Promover la capacitación, certificación y sensibilización del personal y
 
 ###### ARTÍCULO 11.
 
-La Secretaría de Salud, por conducto de las Unidades de Atención deberá, para el cumplimiento de los objetivos de esta Ley:
+La Secretaría de Salud, por conducto de las Unidades de Atención, deberá, para el cumplimiento de los objetivos de esta Ley:
 
 I.- Establecer los lineamientos generales y programas de políticas públicas de prevención y atención a receptores y generadores de violencia intrafamiliar;
 
@@ -261,7 +261,7 @@ IV.- Realizar campañas públicas en coordinación con otras organizaciones soci
 
 V.- Sensibilizar y capacitar al personal docente para detectar en los centros educativos casos concretos de violencia intrafamiliar y canalizarlos a las Unidades de Atención, las cuales brindarán al receptor de la violencia el tratamiento especializado; y,
 
-VI.- Las de más que le confiera esta Ley y otras disposiciones legales.
+VI.- Las demás que le confiera esta Ley y otras disposiciones legales.
 
 ###### ARTÍCULO 14.
 
@@ -555,15 +555,15 @@ a).- Terapéutico: para que asuma la corresponsabilidad en el conflicto, reforza
 
 b).- Educativo: para influir en la fexibilización (sic) de los roles sexuales y asumir derechos y obligaciones en la familia; y,
 
-c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia que le permita la reorganización de su vida;
+c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia intrafamiliar que le permita la reorganización de su vida;
 
-II.- Será libre de perjuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipos de comportamientos o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación entre las personas; y,
+II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipos de comportamientos o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación entre las personas; y,
 
-III.- Se basará en modelos psicoterapeúticos reeducativos adecuados y específicos para personas con perfiles definidos y programas susceptibles de evaluación.
+III.- Se basará en modelos psicoterapéuticos reeducativos adecuados y específicos para personas con perfiles definidos y programas susceptibles de evaluación.
 
 ###### ARTÍCULO 32.
 
-La atención a que se refiere el artículo se hará extensiva en los Centros de Readaptación Social y en los Centros del Consejo Tutelar para Menores a los internos relacionados con la violencia intrafamiliar, integrándola al régimen tutelar y de readaptación social. Será obligatorio para dichos internos sujetarse a los tratamientos necesarios como condición relevante para el otorgamiento, en su caso, de los beneficios correspondientes.
+La atención a que se refiere el artículo anterior se hará extensiva en los Centros de Readaptación Social y en los Centros del Consejo Tutelar para Menores a los internos relacionados con la violencia intrafamiliar, integrándola al régimen tutelar y de readaptación social. Será obligatorio para dichos internos sujetarse a los tratamientos necesarios como condición relevante para el otorgamiento, en su caso, de los beneficios correspondientes.
 
 ###### ARTÍCULO 33.
 
@@ -587,7 +587,7 @@ Cuando la persona esté en condiciones de proporcionar información voluntaria s
 
 ###### ARTÍCULO 35.
 
-Las partes involucradas en el conflicto intrafamiliar, podrán resolver sus diferencias mediante los procedimientos de:
+Las partes involucradas en un conflicto intrafamiliar, podrán resolver sus diferencias mediante los procedimientos de:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -623,7 +623,7 @@ I.- El receptor de la violencia intrafamiliar;
 
 II.- Cualquier miembro de la familiar (sic);
 
-III.- Los maestros y directivos de las instituciones educativas, así como por los médicos y funcionarios, cuando con motivo de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia intrafamiliar, teniendo la obligación inmediata de poner los hechos en conocimiento de las autoridades a que se refiere el artículo 2°. de la presente Ley;
+III.- Los maestros y directivos de las instituciones educativas, así como por los médicos y funcionarios, cuando con motivos de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia intrafamiliar, teniendo la obligación inmediata de poner los hechos en conocimiento de las autoridades a que se refiere el artículo 2°. de la presente Ley;
 
 IV.- En general, cualquier persona que tenga conocimiento de la realización de actos considerados como violencia intrafamiliar.
 
@@ -635,7 +635,7 @@ IV.- En general, cualquier persona que tenga conocimiento de la realización de 
 
 Los procedimientos a que se refiere este Capítulo iniciarán formalmente con la presentación verbal o por escrito de la queja ante las autoridades señaladas en los artículos 14 y 18, 18 Bis de la presente Ley, o a partir de que éstas reciban de las autoridades jurisdiccionales o del Ministerio Público los casos del conocimiento que involucren hechos de violencia intrafamiliar, cuya solución sea posible mediante los procedimientos de mediación o de arbitraje.
 
-Tratándose de incapaces, menores o personas de la tercera edad, se citará a quienes ejerzan la custodia, la patria potestad o la tutela, o en su caso a las personas de quienes dependan éstos, ordenándose la presentación de la persona o personas receptores de la violencia intrafamiliar, para ser valoradas médica y psicológicamente, pudiendo decretarse por la autoridad competente las medidas de seguridad que resulten necesarias para su integridad.
+Tratándose de incapaces, menores o personas de la tercera edad, se citará a quienes ejerzan la custodia, la patria potestad o la tutela, o en su caso, a las personas de quienes dependan éstos, ordenándose la presentación de la persona o personas receptores de la violencia intrafamiliar, para ser valoradas médica y psicológicamente, pudiendo decretarse por la autoridad competente las medidas de seguridad que resulten necesarias para su integridad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -699,7 +699,7 @@ En caso de no llevarse a cabo o de suspenderse la diligencia de mediación a que
 
 ###### ARTÍCULO 42.
 
-En el procedimiento arbitral fungirán como árbitros la Procuraduría de la Defensa del Menor y la Familia y los Sistemas Municipales para el Desarrollo Integral de la Familia y se aplicarán de manera supletoria al mismo las disposiciones al Código de Procedimientos Civiles para el Estado de Sonora y las resoluciones que en dicho procedimiento se emitan, serán vinculatorias y exigibles para ambas partes.
+En el procedimiento arbitral fungirán como árbitros la Procuraduría de la Defensa del Menor y la Familia y los Sistemas Municipales para el Desarrollo Integral de la Familia y se aplicarán de manera supletoria al mismo las disposiciones del Código de Procedimientos Civiles para el Estado de Sonora y las resoluciones que en dicho procedimiento se emitan, serán vinculatorias y exigibles para ambas partes.
 
 ###### ARTÍCULO 43.
 
@@ -707,11 +707,11 @@ El procedimiento a que se refiere el artículo anterior se verificará en la aud
 
 I.- Se iniciará con la comparecencia de las partes o con la presentación de la constancia en la que se haya expresado la voluntad de someterse al procedimiento arbitral; y,
 
-II.- Las partes de dicha audiencia ofrecerán las pruebas que a su derecho convengan, a excepción de la prueba confesional, en cuya diligencia la autoridad arbitral podrá allegarse o recabar previamente cualquier medio de prueba reconocido legalmente, debiendo emitir la resolución correspondiente en la misma audiencia.
+II.- Las partes en dicha audiencia ofrecerán las pruebas que a su derecho convengan, a excepción de la prueba confesional, en cuya diligencia la autoridad arbitral podrá allegarse o recabar previamente cualquier medio de prueba reconocido legalmente, debiendo emitir la resolución correspondiente en la misma audiencia.
 
 ###### ARTÍCULO 44.
 
-Las autoridades que tengan a su cargo los procedimientos a que se refiere este capítulo, informarán a las autoridades jurisdiccionales o al Ministerio Público si las partes involucradas en actos o en hechos de violencia intrafamiliar convinieron o no en resolver sus diferencias a efecto que éstas resuelvan de oficio o a instancia de parte lo conducente.
+Las autoridades que tengan a su cargo los procedimientos a que se refiere este capítulo, informarán a las autoridades jurisdiccionales o al Ministerio Público si las partes involucradas en actos o hechos de violencia intrafamiliar convinieron o no en resolver sus diferencias a efecto que éstas resuelvan de oficio o a instancia de parte lo conducente.
 
 ###### ARTÍCULO 45.
 
@@ -749,7 +749,7 @@ Si el infractor fuese jornalero, obrero, o trabajador no asalariado, la multa se
 
 II.- Arresto administrativo hasta por treinta y seis horas.
 
-En el supuesto de que el infractor no pague oportunamente la multa impuesta, podrá permutar ésta por arresto que no excederá de treinta y seis horas.
+En el supuesto que el infractor no pagare oportunamente la multa impuesta, podrá permutar ésta por arresto que no excederá de treinta y seis horas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
