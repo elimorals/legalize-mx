@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2009-10-13"
+last_updated: "2011-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NUMERO 77 ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE MAYO DE 2011.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -91,7 +91,7 @@ El Presidente del Congreso del Estado podrá solicitar el auxilio de la fuerza p
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
 
-### CAPÍTULO ll. DE LA ENTREGA-RECEPCIÓN ADMINISTRATIVA
+### CAPÍTULO II. DE LA ENTREGA-RECEPCIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 12.
 
@@ -185,9 +185,17 @@ X.- Relación de recursos materiales bajo resguardo de los Grupos Parlamentarios
 
 XI.- La demás información que se estime relevante para garantizar la continuidad de los trabajos legislativos.
 
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+
+Los documentos a que se hace referencia en el presente artículo deberán ser publicados en la página de internet del Congreso del Estado y la entrega formal se realizará utilizando un disco compacto que contenga dicha información.
+
 ###### ARTÍCULO 23.
 
 El Instituto Superior de Auditoría y Fiscalización, en ejercicio de sus atribuciones, analizará el expediente integrado con la documentación a que refiere el artículo que antecede, para formular el informe correspondiente dentro de los treinta días hábiles siguientes al acto de entrega-recepción.
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+
+El informe a que se hace referencia en el presente artículo deberá ser publicado en la página de internet del Congreso del Estado y la entrega formal se realizará utilizando un disco compacto que contenga dicha información.
 
 ## TÍTULO TERCERO. DE LOS DIPUTADOS
 
@@ -249,13 +257,15 @@ VIII.- Percibir la dieta mensual;
 
 IX.- Gozar en lo individual de un seguro de vida y uno de gastos médicos;
 
-X.- Contar con un cubículo dentro del recinto oficial e instalaciones necesarias para establecer un enlace permanente con sus representados, a efecto de retroalimentar su función legislativa y dar seguimiento a sus demandas; en ambos casos contará con personal de apoyo y asesoría y demás elementos necesarios para el cumplimiento de sus funciones y comisiones:
+X.- Contar con un cubículo dentro del recinto oficial e instalaciones necesarias para establecer un enlace permanente con sus representados, a efecto de retroalimentar su función legislativa y dar seguimiento a sus demandas; en ambos casos contará con personal de apoyo y asesoría y demás elementos necesarios para el cumplimiento de sus funciones y comisiones;
 
 XI.- Disponer del apoyo técnico profesional con que cuenta el Congreso del Estado para el análisis, estudio y elaboración jurídica, o equivalente, en los asuntos o iniciativas encomendadas;
 
 XII.- Tener acceso a la información y documentación necesarias para el cumplimiento de sus funciones;
 
-XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo no mayor de tres días hábiles, copias de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
+> <small>(REFORMADA, B.O. 16 DE MAYO DE 2011)</small>
+
+XIII.- Cuando así lo requiera, le sean proporcionadas, en un plazo no mayor de tres días hábiles, copias en archivos electrónicos de la documentación oficial relativa al ejercicio presupuestal del Congreso del Estado, estados financieros y toda clase de documentación administrativa que obre en los archivos de los órganos técnicos, unidades administrativas y dependencias del Congreso del Estado, así como de la documentación relacionada con el proceso legislativo en su conjunto;
 
 XIV.- Contar con servicio postal para el desempeño de sus funciones;
 
@@ -593,6 +603,10 @@ Para el ejercicio de sus atribuciones, la Diputación Permanente se sujetará en
 
 La Diputación Permanente celebrará sus sesiones ordinariamente el día martes de cada semana o cuando lo solicite el Presidente o la mayoría de sus integrantes.
 
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+
+Las sesiones de la Diputación Permanente se realizarán en la sala de comisiones.
+
 ###### ARTÍCULO 76.
 
 La Diputación Permanente convocará al pleno del Congreso del Estado a sesiones extraordinarias conforme a lo que establece la Constitución Política del Estado, debiendo publicarse la convocatoria correspondiente, cuando menos el día anterior a la fecha de la sesión, en el Boletín Oficial del Gobierno Estatal y en la Gaceta Parlamentaria y, opcionalmente, en medios de circulación estatal.
@@ -679,7 +693,13 @@ IV.- La firma autógrafa o electrónica del presidente de la comisión o la de m
 
 El defecto en las formalidades de la convocatoria no impedirá que se celebre la reunión, pero su validez quedará subordinada a la convalidación de la mayoría de los integrantes de la comisión.
 
-La convocatoria deberá entregarse a sus integrantes en días y horas hábiles, cuando menos con veinticuatro horas de anticipación a la fijada para la reunión.
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2011)</small>
+
+La convocatoria deberá publicarse en la Gaceta Parlamentaria, cuando menos con veinticuatro horas de anticipación a la fijada para la reunión.
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+
+En caso de que en una reunión de Comisión se encuentre contemplado en el orden del día el análisis, discusión y, en su caso, la dictaminación del (sic) algún asunto que se encuentre turnado o remitido a la misma, deberá anexarse a la convocatoria para su publicación en los términos señalados en el párrafo anterior, el proyecto de dictamen correspondiente.
 
 ###### ARTÍCULO 90.
 
@@ -1183,7 +1203,13 @@ En las votaciones que deben resolver las dos terceras partes de los votos que in
 
 El Congreso del Estado contará con un medio informativo denominado "Gaceta Parlamentaria" con el objeto de dar publicidad a los actos que, en el ejercicio de sus atribuciones, emiten el pleno del Congreso del Estado, las comisiones, la Mesa Directiva, la Diputación Permanente, los Grupos Parlamentarios, los diputados y la estructura administrativa del Poder Legislativo.
 
-La Gaceta Parlamentaria se publicará generalmente de lunes a viernes y, en caso de ser necesario, en sábados y domingos. Su contenido se difundirá también a través de los servicios de información en Internet. En el salón de sesiones siempre habrá ejemplares disponibles cuando se realicen sesiones de pleno del Congreso del Estado.
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2011)</small>
+
+La Gaceta Parlamentaria se publicará generalmente de lunes a viernes y, en caso de ser necesario, en sábados y domingos. Su contenido se difundirá a través de los servicios de información en internet con que cuenta este Poder Legislativo.
+
+> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+
+El salón de sesiones y la sala de comisiones deberán contar con equipos electrónicos que permitan a los diputados la consulta de la gaceta parlamentaria.
 
 ###### ARTÍCULO 157.
 
@@ -1413,7 +1439,7 @@ V.- Formular y poner a la disposición de las comisiones de Administración y de
 
 VI.- Vigilar que el presupuesto de egresos del Congreso del Estado se ejerza de acuerdo a los lineamientos, estructura, programas y calendarización aprobados;
 
-VII.- Informar mensualmente a las comisiones de Administración y de Régimen Interno y Concertación Política y a la Contraloría Interna del Congreso del Estado, la situación que guarda el ejercicio presupuestal en lo general, especificando las asignaciones y disposiciones por dependencias y programas:
+VII.- Informar mensualmente a las comisiones de Administración y de Régimen Interno y Concertación Política y a la Contraloría Interna del Congreso del Estado, la situación que guarda el ejercicio presupuestal en lo general, especificando las asignaciones y disposiciones por dependencias y programas;
 
 VIII.- Apoyar oportunamente a cada una de las dependencias que forman la estructura orgánica del Congreso del Estado, en materia presupuestal, administrativa o de infraestructura técnica, de acuerdo a sus necesidades o prioridades;
 
@@ -1446,6 +1472,10 @@ XXI.- Establecer y coordinar los sistemas de informática y los elementos técni
 XXII.- Poner a disposición de la siguiente legislatura los dictámenes que las comisiones emitan sobre asuntos que no llegue a conocer la actual legislatura que los recibió y las iniciativas que por cualquier motivo no se llegasen a dictaminar;
 
 XXIII.- Vigilar que, a través del área de biblioteca, se cubran las necesidades de consulta, tanto para legisladores, como para el público en general;
+
+> <small>(ADICIONADA, B.O. 16 DE MAYO DE 2011)</small>
+
+XXIII BIS.- Implementar un sistema de comunicación interna entre las diversas direcciones generales y sus unidades administrativas que permita la eliminación de uso del papel;
 
 XXIV.- Solicitar información a las direcciones generales sobre asuntos relacionados con sus funciones; y
 
@@ -1716,3 +1746,13 @@ B.O. 25 DE SEPTIEMBRE DE 2009.
 B.O. 13 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Oficialía Mayor de este Poder Legislativo, a partir de que entre en vigor el presente Decreto, contará con un plazo de ciento veinte días naturales para implementar el sistema a que se refiere la fracción XXIII BIS del artículo 191 e instalar los equipos señalados en el artículo 156, último párrafo, de la Ley Orgánica del Poder Legislativo del Estado de Sonora.
