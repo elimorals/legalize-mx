@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2010-11-04"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SON"
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 16 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 179 PUBLICADO EN EL B.O. DE 4 DE JUNIO DE 2009.</small>
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1341,7 +1343,7 @@ Si dentro de los plazos antes indicados el Juez no dicta auto de radicación o n
 
 Si se niega definitivamente la orden de aprehensión o comparecencia por considerar que no están reunidos los requisitos de los artículos 154 y 188 de este Código respectivamente, se regresará el expediente original al Ministerio Público para el trámite que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 144.
 
@@ -1361,7 +1363,7 @@ La instrucción deberá terminarse en el menor tiempo posible. Cuando exista aut
 
 Los términos a que se refiere este artículo, se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso; y el Ministerio Público tendrá obligación de vigilar que no se excedan dichos términos, avisando en su caso al superior jerárquico del juez que infrinja este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 146.
 
@@ -1617,7 +1619,7 @@ Las instituciones legalmente constituidas, especializadas en atención de proble
 
 ###### ARTICULO 172.
 
-Tratándose de abusos deshonestos, estupro, violación o rapto, deberá hacerse constar desde las primeras diligencias por medio del dictamen de dos facultativos o dos prácticos en su defecto, si la ofendida es púber o impúber, edad de la misma ofendida y si se trata de persona privada de razón o de sentido, o de quien no tenga la capacidad de comprender el significado del hecho, o que por cualquier otra causa no haya podido oponer resistencia.
+Tratándose de abusos deshonestos, estupro, violación o rapto, deberá hacerse constar desde las primeras diligencias por medio del dictamen de dos facultativos o dos prácticos en su defecto, si la ofendida es púber o impúber, edad de la misma ofendida y si se trata de persona privada de razón o de sentido, o de quien no tenga la capacidad de comprender el significado del hecho, o por cualquier otra causa no haya podido oponer resistencia.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -2443,7 +2445,7 @@ El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en
 
 ###### ARTICULO 294.
 
-En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente citar a nueva audiencia, por una sola vez.
+En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente citar audiencia, por una sola vez.
 
 Contra la resolución que niegue o admita la repetición de la diligencia de prueba o cite a una nueva audiencia, no procede recurso alguno.
 
@@ -3085,7 +3087,7 @@ I.- Cuando en cualquier estado de la instrucción y después de dictado el auto 
 
 > <small>(REFORMADA, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-II.- Cuando en cualquier estado de la instrucción, y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecidos plenamente los considerados en el auto de formal prisión para tener al detenido como probable responsable.
+II.- Cuando en cualquier estado de la instrucción, y sin que hubieren aparecido datos posteriores de responsabilidad, se hayan desvanecido plenamente los considerados en el auto de formal prisión para tener al detenido como probable responsable.
 
 ###### ARTICULO 374.
 
@@ -3549,13 +3551,11 @@ Si se comprueba el delito y que en él tuvo participación el inculpado, previa 
 
 La resolución que se dicte será apelable en el efecto devolutivo.
 
-###### ARTICULO 449.
-
-Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 419 fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
+CUANDO (sic) 449.- Cuando en el curso del proceso el inculpado enloquezca, se suspenderá el procedimiento en los términos del artículo 419 fracción III, remitiéndose al loco al establecimiento adecuado para su tratamiento.
 
 ###### ARTICULO 450.
 
-La vigilancia del recluido estará a cargo del órgano que designe el Ejecutivo del Estado.
+La vigilancia del recluído estará a cargo del órgano que designe el Ejecutivo del Estado.
 
 ### CAPITULO II. Menores
 
