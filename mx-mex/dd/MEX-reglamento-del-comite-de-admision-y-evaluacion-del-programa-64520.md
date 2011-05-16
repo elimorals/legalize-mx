@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-admision-y-evaluacion-del-programa-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-03"
-last_updated: "2008-11-03"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MEX"
 
 REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA "COMPROMISO CON EL FUTURO" DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA DE DESARROLLO SOCIAL "COMPROMISO CON EL FUTURO", PUBLICADO EN LA G.G. DE 16 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 3 de noviembre de 2008.
 
@@ -393,3 +395,13 @@ SECRETARIO DE DESARROLLO SOCIAL Y PRESIDENTE DEL COMITE DE ADMISION Y EVALUACION
 LIC. LORENA CRUZ SANCHEZ
 
 VOCAL EJECUTIVA DEL CONSEJO ESTATAL DE LA MUJER Y BIENESTAR SOCIAL, Y SECRETARIA DEL CONSEJO DE ADMISIÓN Y EVALUACION. (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 16 DE MAYO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Comité de Admisión y Evaluación del Programa "Compromiso con el Futuro" de la Secretaría de Desarrollo Social del Gobierno del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha tres de noviembre de dos mil ocho.
