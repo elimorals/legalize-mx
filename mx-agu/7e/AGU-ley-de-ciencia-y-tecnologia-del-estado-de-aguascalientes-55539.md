@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-y-tecnologia-del-estado-de-aguascalientes-55539"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-14"
-last_updated: "2011-01-31"
+last_updated: "2011-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2007.
 
@@ -227,7 +227,9 @@ VIII. Los apoyos que otorgue el CONCyTEA deberán ser en base a los logros sobre
 
 El Ejecutivo del Estado, aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura científica y tecnológica y a la formación de recursos humanos; en una cantidad no menor al 1 % de la recaudación fiscal del Estado. En el entendido de que dicho porcentaje se aplicará adicional mente al presupuesto anual autorizado por el Congreso del Estado al Organismo Público Descentralizado CONCyTEA.
 
-La Secretaria de Desarrollo Económico gestionará ante los órganos de finanzas, organismos públicos y privados, nacionales e internacionales, apoyos económicos que deberán aplicarse a proyectos científicos y tecnológicos.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2011)</small>
+
+El Instituto para el Desarrollo de la Sociedad del Conocimiento gestionará ante los órganos de finanzas, organismos públicos y privados, nacionales e internacionales, apoyos económicos que deberán aplicarse a proyectos científicos y tecnológicos.
 
 ###### Artículo 27.
 
@@ -357,11 +359,11 @@ Corresponde al órgano de Gobierno del CONCyTEA aprobar el Plan Estatal de Cienc
 
 En la elaboración del Plan se promoverá la participación de los distintos grupos sociales y sectores de la entidad en los términos de la Ley de Planeación para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2011)</small>
+
 ###### Artículo 41.
 
-El Plan Estatal de Ciencia y Tecnología será elaborado por la Dirección General del CONCyTEA, con la asesoría de la Secretaría de Desarrollo Económico y de acuerdo con las propuestas que le presenten los sectores académico, empleador y social, así corno las dependencias y entidades de la Administración Pública Estatal que apoye, o realicen investigación científica y tecnológica.
-
-En la elaboración del Plan se tornarán en cuenta, además, las propuestas de las comunidades científica y tecnológica, las que formulen las Instituciones de Educación Superior.
+El Plan Estatal de Ciencia y Tecnología será elaborado por la Dirección General del Instituto para el Desarrollo de la Sociedad del Conocimiento, de acuerdo con las propuestas que le presenten los sectores académico, empleador y social, así como las dependencias y entidades de la Administración Pública Estatal que apoyen o realicen investigación científica y tecnológica.
 
 ### CAPITULO CUARTO. Del Registro Estatal de Investigación REICyTEA
 
@@ -572,3 +574,9 @@ La Junta de Gobierno deberá emitir el Estatuto Intimo del Instituto, dentro de 
 ###### ARTICULO DÉCIMO.
 
 El Titular del Poder Ejecutivo deberá realizar la convocatoria y emitir las invitaciones correspondientes a efecto de que la integración del Consejo Consultivo se realice dentro de los 60 días siguientes a la entrada en vigencia de la presente Ley.
+
+P.O. 16 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
