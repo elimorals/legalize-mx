@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2010-12-09"
+last_updated: "2011-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1393,9 +1393,9 @@ k) Promover la atención de alumnos con problemas de bajo aprovechamiento escola
 
 l) Realizar acciones orientadas a la conservación y mejoramiento ambiental de las zonas en que se ubiquen los planteles educativos.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2011)</small>
 
-m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos que ven los niños y adolescentes.
+m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos, cine o videos, así como sitios de Internet que ven los niños y adolescentes, y
 
 > <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
 
@@ -1896,3 +1896,7 @@ SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley p
 P.O. 9 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MAYO DE 2011.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
