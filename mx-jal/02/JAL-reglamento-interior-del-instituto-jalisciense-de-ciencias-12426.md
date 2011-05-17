@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-ciencias-12426
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2009-04-09"
+last_updated: "2011-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -181,9 +181,17 @@ XI. Informar a la Junta de Gobierno sobre los programas de intercambio de experi
 
 XII. Someter a aprobación de la Junta de Gobierno el costo que deberán pagar los particulares por los servicios periciales que preste el Instituto, para efecto de su inclusión en la Ley de Ingresos del Estado en el ejercicio fiscal que corresponda, previos los trámites de ley que para el caso se requieran;
 
-XIII. Ejercer el presupuesto del Instituto en forma solidaria y mancomunada con el Tesorero de la propia Institución y,
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2011)</small>
 
-XIV. Las demás que señalen las disposiciones aplicables y las que le confiera la Junta de Gobierno.
+XIII. Ejercer el presupuesto del Instituto en forma solidaria y mancomunada con el Tesorero de la propia Institución;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2011)</small>
+
+XIV. Adscribir a la Procuraduría General de Justicia del Estado el personal que realice dictámenes forenses exclusivamente para la investigación de las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de conformidad con el acuerdo que para tal efecto emita el Procurador General de Justicia del Estado; y
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2011)</small>
+
+XV. Las demás que señalen las disposiciones aplicables y las que le confiera la Junta de Gobierno.
 
 ### CAPÍTULO IV. De la Tesorería
 
@@ -569,8 +577,12 @@ LIC. FELIX JAVIER LEDESMA MARTÍNEZ NEGRETE
 
 La presente hoja de firmas corresponde al Reglamento interior del Instituto Jalisciense de Ciencias Forenses de fecha 24 de julio de 1998.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE ABRIL DE 2009.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE MAYO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
