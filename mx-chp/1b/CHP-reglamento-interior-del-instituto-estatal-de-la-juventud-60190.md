@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-estatal-de-la-juventud-60190"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-27"
-last_updated: "2008-02-27"
+last_updated: "2011-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD, DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de febrero de 2008.
 
@@ -49,27 +49,33 @@ Las disposiciones de este Reglamento son de orden público e interés general, y
 
 El presente Reglamento, es de observancia obligatoria para los servidores públicos adscritos al Instituto Estatal de la Juventud.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2011)</small>
+
 ###### Artículo 2°.
 
-El Instituto Estatal de la Juventud es un órgano desconcentrado de la Secretaría de Desarrollo Social, con plena autonomía administrativa, presupuestal, técnica, de gestión y de ejecución para el cumplimiento de sus atribuciones, mismo que le corresponde el despacho de los asuntos que le encomienda su Decreto de Creación, el presente Reglamento y demás disposiciones aplicables.
+El Instituto Estatal de la Juventud es un Órgano Desconcentrado de la Secretaría de Desarrollo y Participación Social, con plena autonomía administrativa, presupuestal, técnica, de gestión y de ejecución para el cumplimiento de sus atribuciones, mismo que le corresponde el despacho de los asuntos que le encomienda su Decreto de Creación, el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 3°.
 
 El Instituto Estatal de la Juventud, tiene como objetivo principal impulsar el desarrollo integral de la juventud, mediante el establecimiento de los mecanismos tendentes a lograr el bienestar de ésta y el fortalecimiento de los conductos para incrementar su participación social; así como, coordinar y coadyuvar en los programas, proyectos y acciones, que en el Estado y con relación a la materia del Decreto de su Creación, desarrollen las distintas instituciones federales, estatales y municipales, adscritas o vinculadas con la juventud del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2011)</small>
+
 ###### Artículo 4°.
 
-Para los efectos de este Reglamento se entenderá por:
+Para los efectos del presente Reglamento se entenderá por:
 
-I. Instituto: Al instituto Estatal de la Juventud.
+l. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado de Chiapas.
 
-II. Director General: Al Titular del Instituto Estatal de la Juventud.
+II. Instituto: Al Instituto Estatal de la Juventud.
 
-III. Secretaría: A la Secretaría de Desarrollo Social del Estado.
+III. Director General: Al Titular del Instituto Estatal de la Juventud.
 
-IV. Secretario: Al Titular de la Secretaría de Desarrollo Social.
+IV. Secretaría: A la Secretaría de Desarrollo y Participación Social del Estado.
 
-V. Decreto de Creación: Al Decreto por el que se crea "El Instituto Estatal de la Juventud", como órgano desconcentrado de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Estado número 001, Tomo III, Segunda Sección, de fecha once de diciembre de dos mil seis.
+V. Secretario: Al Titular de la Secretaría de Desarrollo y Participación Social del Estado.
+
+VI. Decreto de Creación: Al Decreto por el que se crea "El Instituto Estatal de la Juventud", como órgano desconcentrado de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial número 001, Tomo III, Segunda Sección, de fecha once de diciembre de dos mil seis y las reformas que al efecto pudiera tener.
 
 ## Título Segundo. De la Organización del Instituto y de las Atribuciones del Director General
 
@@ -85,7 +91,9 @@ a) Unidad de Apoyo Administrativo.
 
 II. Dirección de Desarrollo Integral Juvenil.
 
-III. Dirección de Comunicación y Difusión.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+III. Dirección de Análisis del Medio Juvenil
 
 El Director General del Instituto, para el cumplimiento de sus atribuciones, contará con el número de servidores públicos que sea necesario para el desempeño de sus funciones, de conformidad con el presupuesto de egresos asignado al Instituto.
 
@@ -111,11 +119,15 @@ I. Representar legalmente al Instituto en el ámbito de su competencia, ante tod
 
 La representación a que se refiere esta fracción, comprende el ejercicio de todo tipo de acciones y constituye una representación amplísima.
 
-Il. Definir y ejecutar las acciones y políticas públicas en materia de Desarrollo y Fomento a la Juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el Plan de Desarrollo Chiapas Solidario 2007-2012.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+II. Definir y ejecutar las acciones y políticas públicas en materia de desarrollo y atención a la juventud, acorde con los objetivos, estrategias y líneas de acción contenidos en el plan de desarrollo solidario 2007- 2012.
 
 III. Planear, dirigir y evaluar el funcionamiento del Instituto, ejecutar los programas y proyectos que le corresponden.
 
-IV. Proponer y gestionar ante la Secretaría de Administración, por conducto de la Unidad de Apoyo Administrativo, los movimientos de personal y llevar las relaciones laborales de acuerdo con las disposiciones legales correspondientes.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+IV. Proponer y gestionar ante la Secretaría de Hacienda, por conducto de la Unidad de Apoyo Administrativo, los movimientos de personal y llevar las relaciones laborales, de acuerdo con las disposiciones legales correspondientes;
 
 V. Acordar y desempeñar las comisiones que le asigne el Secretario, así como, mantenerlo informado sobre su desarrollo y ejecución de las mismas.
 
@@ -123,7 +135,9 @@ VI. Definir y ejecutar acuerdos, políticas, normas, lineamientos y acciones en 
 
 VII. Representar al Ejecutivo Estatal en las actividades, convenciones, encuentros o foros relacionados con la juventud ante los gobiernos Federal, Estatal y Municipal, organizaciones privadas y sociales, y organismos internacionales.
 
-VIII. Administrar y conducir los programas materia de fomento, desarrollo y atención a la juventud a cargo del Instituto, para elevar los niveles de calidad y excelencia de éste.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+VIII. Administrar y conducir los programas en materia de desarrollo y atención a la juventud a cargo del Instituto, para elevar los niveles de calidad y excelencia de éste.
 
 IX. Elaborar el Programa Operativo Anual del Instituto.
 
@@ -153,7 +167,7 @@ XXI. Ejercer las facultades que la normatividad aplicable le confiera al Institu
 
 XXII. Elaborar, fundar y dar respuesta tanto afirmativa corno negativa, según sea el caso, en razón al ámbito de su competencia, de todas y cada una de las solicitudes de información pública que solicite la ciudadanía.
 
-XXIIII. Vigilar que la normatividad aplicable a las funciones y el cumplimiento a las atribuciones del Instituto, se mantengan actualizadas, instruyendo a sus áreas de apoyo la elaboración de los proyectos tendentes a alcanzar dicho fin.
+XXIII. Vigilar que la normatividad aplicable a las funciones y el cumplimiento a las atribuciones del Instituto, se mantengan actualizadas, instruyendo a sus áreas de apoyo la elaboración de los proyectos tendentes a alcanzar dicho fin.
 
 XXIV. Intervenir y, en su caso, designar a los representantes del Instituto, en las comisiones, congresos, consejos, instituciones, entidades, reuniones, juntas y organizaciones nacionales o internaciones (sic), en las que participe.
 
@@ -169,7 +183,33 @@ XXIX. Rendir al Titular de la Secretaría y en su caso, al Titular del Ejecutivo
 
 XXX. Administrar los recursos humanos, materiales y financieros asignados al Instituto, de conformidad con las disposiciones aplicables.
 
-XXXI. Las que en el ámbito de su competencia le asigne el Titular del Ejecutivo del Estado, directamente o a través del Secretario, así como, otras disposiciones legales aplicables que sean necesarias para el cumplimiento del objeto de creación del Instituto.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXI. Promover y difundir a través del Instituto de Comunicación Social del Estado de Chiapas, los proyectos juveniles del Instituto;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXII. Establecer instrumentos de evaluación de los programas y proyectos ejecutados por el Instituto, para identificar el impacto de éstos en la juventud chiapaneca;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXIII. Realizar actividades de fomento juvenil, en coordinación con otras Dependencias Estatales, Federales y los Ayuntamientos del Estado, así como con los sectores sociales y privados;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXIV. Coordinar la elaboración de programas de Plan Joven Radio en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXV. Establecer las acciones necesarias para lograr la credencialización de la tarjeta de descuento "Plan Joven" en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXVI. Vigilar el cumplimiento de los programas federales denominados "Plan Joven"; así como aquellos propuestos por el Instituto Mexicano de la Juventud;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXVII. Las demás Atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieren las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Órganos Administrativos del Instituto y sus Atribuciones
 
@@ -319,11 +359,11 @@ II. Instrumentar y ejecutar, de conformidad con los lineamientos que establezca 
 
 III. Promover convenios con instituciones públicas, privadas y sociales en temas de carácter educativo, de organización, y desarrollo juvenil.
 
-IV. Organizar y promover con el acuerdo del Director General el desarrollo de eventos, certámenes, conferencias y foros que motiven la sana competencia y las opciones de expresión, tanto en los campos del conocimiento, como de las habilidades.
+IV. (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 V. Formular y proponer las acciones necesarias para llevar a cabo los acuerdos y convenios que el Instituto celebre y que estén dentro de su competencia.
 
-VI. Elaborar proyectos y organizar a los jóvenes para que participen en programas de autoempleo, enfatizando las oportunidades en aquellos que pertenecen a sectores más desprotegidos de la sociedad, especialmente de quienes habitan en zonas rurales, marginadas o jóvenes con capacidades especiales.
+VI. (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 VII. Diseñar talleres y cursos de expresión, procurando la interacción e integración de los jóvenes de todos los sectores sociales.
 
@@ -333,7 +373,7 @@ IX. Promover, previo acuerdo del Director General, con las dependencias del sect
 
 X. Formular, proponer y ejecutar los mecanismos de participación social que enriquezcan las aportaciones juveniles a su entorno social, en coordinación con las demás áreas administrativas del Instituto.
 
-XI. Gestionar e impulsar la conformación de centros interactivos en los municipios de la Entidad, para promover el desarrollo de los jóvenes, conforme lo convenga el Director General con los Ayuntamientos.
+XI. (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 XII. Proponer al Director General la concertación de apoyos con las Autoridades federales, estatales y municipales del sector económico, para proyectos productivos factibles a desarrollarse por y para los jóvenes.
 
@@ -343,7 +383,7 @@ XIV. Promover, a través de los programas o acciones que determine el Director G
 
 XV. Formular, promover y ejecutar los programas y acciones de fortalecimiento de valores familiares, culturales, étnicos, entre otros, mediante la impartición de talleres, conferencias, y diversas acciones informativas, formativas y recreativas.
 
-XVI. Ejecutar en coordinación con el Instituto Mexicano de la Juventud y de conformidad con los lineamientos que establezca el Director General, el Programa Poder Joven, brindando a la juventud de la Entidad mejores opciones para la obtención de bienes y servicios.
+XVI. (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 XVII. Instrumentar y promover con acuerdo del Director General, los programas del Instituto Mexicano de la Juventud que operen en la Entidad, especialmente aquellos que promuevan el autoempleo en los jóvenes chiapanecos.
 
@@ -351,51 +391,39 @@ XVIII. Las demás que en ámbito de su competencia le confieran las disposicione
 
 ###### Artículo 14.
 
-La Dirección de Comunicación y Difusión tendrá los siguientes subróganos administrativos:
+(DEROGADO, P.O. 18 DE MAYO DE 2011)
 
-a) Departamento de Comunicación y Difusión.
-
-b) Departamento de Análisis y Estadística.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2011)</small>
 
 ###### Artículo 15.
 
-El titular de la Dirección de Comunicación y Difusión tendrá las atribuciones siguientes:
+El Titular de la Dirección de Análisis del Medio Juvenil, tendrá las atribuciones siguientes:
 
-I. Formular con base en las disposiciones legales correspondientes y conjuntamente con la Dirección de Desarrollo Integral Juvenil, el Plan Estatal de Juventud, de conformidad con los lineamientos que determine el Director General.
+l. Vigilar que los convenios y reglas de operación de programas federales denominados "Plan Joven" y los propuestos por el Instituto Mexicano de la Juventud, se realicen de conformidad con las disposiciones jurídicas aplicables;
 
-II. Promover, previo acuerdo con el Director General y en coordinación con las instancias públicas y privadas, la difusión de todas las actividades que fortalezcan a la juventud chiapaneca y que correspondan al Instituto.
+II. Implementar las herramientas de trabajo que permitan recabar información para la realización de material informativo;
 
-III. Establecer previo acuerdo del Director General, los procedimientos de protocolo y de relaciones públicas del Instituto, así como de los órganos que lo integran.
+III. Vigilar y ejecutar la correcta aplicación de los instrumentos de evaluación de los programas y proyectos ejecutados por el Instituto, para identificar el impacto de estos en la juventud chiapaneca;
 
-IV. Difundir los resultados de los estudios e investigaciones en materia de juventud, con base en las instrucciones que al efecto le determine el Director General.
+IV. Vigilar y ejecutar los programas y proyectos propuestos por el Instituto-Mexicano de la Juventud;
 
-V. Difundir por acuerdo del Director General, las políticas, programas y acciones relevantes emprendidas por el Instituto, en beneficio de los jóvenes.
+V. Proponer al Director General, las estrategias para-realizar la cobertura de credencialización de la tarjeta de descuento "Plan Joven" en el Estado;
 
-VI. Establecer previo acuerdo del Director General, las acciones necesarias para llevar a cabo los acuerdos y convenios que el Instituto celebre y que estén dentro de su competencia.
+VI. Coordinar las actividades establecidas para otorgar la tarjeta de descuento "Plan Joven" en el Estado de Chiapas;
 
-VII. Administrar la base de datos en cuanto a resultados de estudios o investigaciones relativos a la juventud, así como mantener actualizada la información de la página Web del Instituto.
+VII. Dirigir la afiliación de empresas estatales y cadenas nacionales para otorgar descuentos a los jóvenes que cuenten con la tarjeta "Plan Joven";
 
-VIII. Promover y difundir los programas y servicios que el Instituto presta a la juventud, especialmente los que promuevan el desarrollo e integración de los jóvenes, así como los que determine el Director General.
+VIII. Vigilar la producción, contenido e impacto que tienen los programas de Plan Joven Radio en el Estado;
 
-IX. Proponer al Director General la suscripción de convenios con los medios de comunicación para la realización de programas de radio, televisión y prensa, en los que participen jóvenes.
+IX. Gestionar e impulsar la conformación de centros interactivos en los municipios de la Entidad, para promover el desarrollo de los jóvenes, conforme lo convenga el Director General con los Ayuntamientos.
 
-X. Difundir las convocatorias para los diversos certámenes y eventos organizados por el Instituto y dirigidos a la juventud.
+X. Ejecutar en coordinación con el Instituto Mexicano de la Juventud y de Conformidad con los lineamientos que establezca el Director General, el Programa Plan Joven, brindando a la juventud de la Entidad mejores opciones para la obtención de bienes y servicios.
 
-XI. Producir reportajes y/o programas para radio, televisión y prensa con temas de interés para la juventud, previo acuerdo del Director General.
+XI. Promover y difundir a través del Instituto de Comunicación Social del Estado de Chiapas, los programas y proyectos juveniles del Instituto;
 
-XII. Elaborar la síntesis informativa de lo que se publica en los medios de comunicación, relacionado con el Instituto y analizar su contenido, informando permanentemente al Director General.
+XII. Organizar y promover con el acuerdo del Director General el desarrollo de eventos, certámenes, conferencias y foros que motiven la sana competencia y las opciones de expresión, tanto en los campos del conocimiento, como de las habilidades.
 
-XIII. Integrar, coordinar y mantener actualizado el banco de información y de imágenes de los eventos que organiza, y participa el Instituto.
-
-XIV. Elaborar en coordinación con la Dirección de Desarrollo Integral Juvenil, material informativo con el fin de orientar a los jóvenes sobre los programas y acciones que desarrolla el Instituto, y someterlos a consideración del Director General para su aprobación correspondiente.
-
-XV. Concertar, recopilar, integrar, analizar y validar la información estadística que esté relacionada con la juventud con las áreas de las distintas instituciones de los tres niveles de Gobierno.
-
-XVI. Aplicar técnicas de análisis estadísticos a fin de brindar elementos para estudiar el comportamiento de la juventud chiapaneca.
-
-XVII. Emitir informes estadísticos relativos a los problemas sociales de la juventud chiapaneca.
-
-XVIII. Las demás que en el ámbito de su competencia le confieran las disposiciones legales aplicables, así como las que le asigne el Director General del Instituto.
+XIII. Las demás Atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieren las disposiciones legales, administrativas y reglamentarías aplicables.
 
 ## Título Cuarto. De las Suplencias
 
@@ -428,3 +456,13 @@ Artículo Quinto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la A
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los quince días del mes de enero del año dos mil ocho.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- María de los Ángeles Cruz Hernández, Secretaria de Desarrollo Social.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
