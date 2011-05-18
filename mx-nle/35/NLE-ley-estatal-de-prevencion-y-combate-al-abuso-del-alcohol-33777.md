@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-prevencion-y-combate-al-abuso-del-alcohol-33777"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-10"
-last_updated: "2008-09-26"
+last_updated: "2011-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY ESTATAL DE PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACION PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEON PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de septiembre de 2003.
 
@@ -688,3 +690,27 @@ Artículo Segundo.- Los Municipios deberán adecuar sus reglamentos conforme a l
 P.O. 26 DE SEPTIEMBRE DE 2008.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Estatal de Prevención y Combate al Abuso del Alcohol, publicada en el Periódico Oficial del Estado de fecha 10 de septiembre de 2003.
+
+Tercero.- El Comité de Evaluación de Trámites y Licencias deberá instalarse a más tardar a los 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- Los municipios deberán remitir a la Secretaría de Finanzas y Tesorería General del Estado, la información relativa al padrón de licencias o permisos para la venta de bebidas alcohólicas dentro de los siguientes treinta días naturales contados a partir de la entrada en vigor del presente Decreto, que incluya cuando menos el nombre del titular, giro o giros autorizados, domicilio del establecimiento y adeudos de refrendo en su caso, indicando el monto por cada año.
+
+En aquellos casos en que la Tesorería advierta que la información de integración derivada de los padrones municipales, no corresponda con las personas que se encuentren explotando en virtud de un título legal la licencia correspondiente, procederá la regularización y actualización en el padrón único al que se refiere el presente Decreto, solamente en lo que se refiere al cambio de titular, en el periodo señalado en el siguiente artículo transitorio.
+
+Quinto.- Las personas que sean titulares de licencias o permisos municipales deberán obtener la licencia estatal que corresponda a su giro dentro de los 90 días naturales contados a partir de la entrada en vigor del presente Decreto, pudiendo prorrogarse dicho período por determinación del Secretario de Finanzas y Tesorero General del Estado. Pasada esta fecha, de no haber iniciado en tiempo y forma el trámite para la realización del canje, deberá solicitar nuevamente una licencia o permiso especial en los términos de la presente Ley.
+
+Al realizar el trámite señalado en el párrafo anterior, los titulares de las licencias o permisos deberán acreditar estar al corriente en el pago de los derechos por refrendo que correspondan, así como en el resto de las obligaciones fiscales que la autoridad requiera, con base a las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+
+De acreditar el pago de los derechos por refrendo a que se refiere el párrafo anterior, se expedirá la licencia correspondiente al Titular de la misma. En caso que existan adeudos en el pago de derechos por refrendo, la expedición de la licencia, sólo será procedente, cuando se haya cubierto la totalidad del crédito correspondiente.
+
+Sexto.- Las solicitudes de licencia o permiso especial que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones del mismo. En este caso, el pago de derechos que el solicitante hubiera hecho en el municipio para la tramitación de la licencia o el permiso especial, se acreditará al pago correspondiente a la anuencia municipal.
+
+Séptimo.- El Ejecutivo del Estado expedirá el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los ciento ochenta días siguientes al de la entrada en vigor del mismo.
