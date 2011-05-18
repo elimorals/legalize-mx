@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2011-05-11"
+last_updated: "2011-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2011.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1511,7 +1511,19 @@ Esta Constitución y la ley establecerán el procedimiento mediante el cual se p
 
 El ministerio público del Estado estará a cargo de un Procurador General de Justicia quien, para el ejercicio de sus funciones, contará con los subprocuradores, agentes, policía ministerial y demás personal, que estarán bajo su autoridad y mando directo, en los términos que establezca la ley, la cual señalará los requisitos y, en su caso, el procedimiento para los nombramientos, sustituciones y remociones.
 
-Para ser Procurador General de Justicia se deberán reunir las mismas condiciones exigidas para ser magistrado, señaladas en el artículo 58 de esta Constitución.
+> <small>(REFORMADO, G.O. 18 DE MAYO DE 2011)</small>
+
+Para ser Procurador General de Justicia se requiere:
+
+I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener ni haber tenido otra nacionalidad;
+
+ll. Tener, cuando menos, treinta años cumplidos al día de su ratificación por el Congreso;
+
+III. Poseer, al día de su nombramiento, título de Licenciado en Derecho, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente constituida;
+
+IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución federal y la ley de la materia.
 
 El Procurador será nombrado por el Gobernador y ratificado por el Congreso del Estado; en sus recesos, la Diputación Permanente hará la ratificación con carácter provisional, mientras se reúne el Congreso y da la aprobación definitiva.
 
@@ -1633,13 +1645,29 @@ Los jueces deberán ordenar la ejecución de las sentencias y demás resolucione
 
 Será causa de responsabilidad para quienes tengan el mando de la fuerza pública, no proporcionar oportunamente el auxilio requerido.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, G.O. 18 DE MAYO DE 2011)</small>
 
 ###### Artículo 62.
 
-El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, y estará integrado por los seis miembros siguientes: El Presidente del Tribunal Superior de Justicia, quien lo presidirá; tres magistrados nombrados por el pleno del Tribunal Superior de Justicia, mediante votación secreta; un consejero propuesto por el Gobernador, y ratificado por el Congreso; y un representante del Congreso, quienes deberán satisfacer los mismo requisitos que se exigen para ser magistrado y haberse distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
+El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, y estará integrado por los seis miembros siguientes: El Presidente del Tribunal Superior de Justicia, quien lo presidirá; tres magistrados nombrados por el pleno del Tribunal Superior de Justicia conforme a la ley, mediante votación secreta; un consejero propuesto por el Gobernador, y ratificado por el Congreso; y un consejero designado por el Congreso, quienes deberán satisfacer los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener ni haber tenido otra nacionalidad;
+
+Il. Ser veracruzano o, en caso de no serlo, tener vecindad mínima de dos años en el Estado;
+
+III. Tener, cuando menos, treinta años cumplidos al día de la designación;
+
+IV. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por institución nacional de educación superior legalmente facultada para ello, con una antigüedad mínima de cinco años, y contar con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+
+V. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución federal y la ley de la materia.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Los consejeros a excepción del Presidente, durarán en su cargo cinco años, y no podrán ser designados para otro período.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 El Consejo de la Judicatura nombrará y removerá, con excepción de los magistrados, a los jueces, defensores de oficio y demás servidores públicos del Poder Judicial, asimismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
 
@@ -1833,7 +1861,7 @@ f) La información pública se obtendrá mediante el procedimiento expedito señ
 
 g) El silencio de la autoridad ante las solicitudes de acceso a la información configurará la afirmativa ficta. La omisión de proporcionar la información en los plazos que establezca la ley trae aparejada responsabilidad administrativa.
 
-El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
+(El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
 
 La ley fijará las responsabilidades y sanciones aplicables por la comisión de infracciones.
 
@@ -11962,6 +11990,10 @@ Artículo Segundo. El Poder Legislativo del Estado deberá aprobar subsecuenteme
 Artículo Tercero. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del sistema penal acusatorio-oral en Veracruz de Ignacio de la Llave, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
 
 Artículo Cuarto. En caso de existir duda o contradicción fundada sobre la constitucionalidad de una norma o acto de autoridad relacionado con el presente decreto, se solventará en el siguiente orden de prelación: recurriendo a la interpretación auténtica de la Constitución del Estado en términos del artículo 33 fracción II de la misma y, si eventualmente persistiere la controversia o sus efectos, ésta se resolverá por la Sala Constitucional del Tribunal Superior de Justicia del Poder Judicial del Estado, siempre que se den los supuestos señalados en el artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+
+G.O. 18 DE MAYO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
