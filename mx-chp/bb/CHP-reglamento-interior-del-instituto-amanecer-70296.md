@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-amanecer-70296"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2011-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO AMANECER
 
-REGLAMENTO INTERIOR DEL INSTITUTO AMANECER
+REGLAMENTO INTERIOR DEL INSTITUTO AMANECER DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -47,13 +47,19 @@ Las disposiciones de este Reglamento, son de orden e interés público y tienen 
 
 El presente Reglamento, es de observancia obligatoria para los servidores públicos adscritos, al Instituto Amanecer.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2011)</small>
+
 ###### Artículo 2°.
 
-El Instituto, es un Organismo Auxiliar del Poder Ejecutivo del Estado de Chiapas, adscrito al Sistema pera el Desarrollo Integral de la Familia del Estado de Chiapas, con personalidad jurídica, autonomía administrativa, presupuestal financiera, técnica, de gestión, de operación y de ejecución, para el adecuado desarrollo de sus atribuciones, mismo que atenderá los asuntos que su Decreto de Creación, este Reglamento y la normatividad aplicable le señalen.
+El Instituto, es un Organismo Auxiliar del Poder Ejecutivo del Estado de Chiapas, adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, con personalidad jurídica, patrimonio propio, autonomía administrativa, presupuestal, financiera, técnica, de gestión, de operación y de ejecución, para el adecuado desarrollo de sus atribuciones, mismos que atenderá los asuntos que su Decreto de Creación, éste Reglamento y la normatividad aplicable le señalen.
 
 ###### Artículo 3°.
 
 El Instituto, tiene como objetivo principal llevar a cabo las acciones concernientes para la entrega de recursos para los adultos mayores del Estado, que se encuentren registrados en el programa, conforme a las disposiciones y normas regulatorias de la misma y en cumplimiento a lo establecido en el artículo 4°, de la Constitución Política del Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+
+El Instituto en coordinación con los Organismos de la Administración Pública Estatal, Gobierno Federal y Municipal, impulsarán los objetivos contemplados en el Plan de Desarrollo Estatal, en congruencia con el Plan Nacional de Desarrollo.
 
 ###### Artículo 4°.
 
@@ -97,9 +103,13 @@ V. Dirección de Gestión Interinstitucional del Programa Amanecer
 
 El Instituto, para el cumplimiento de sus atribuciones, contará con los órganos administrativos y plantilla de plazas necesarias, de conformidad con el presupuesto de egresos asignado a éste.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2011)</small>
+
 ###### Artículo 7°.
 
-El desempeño de los servidores públicos del Instituto, se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la legislación aplicable.
+El desempeño de los servidores públicos del Instituto, se regirá por los principios de Legalidad, Honradez, Lealtad, Imparcialidad y Eficiencia, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y demás disposiciones legales aplicables.
+
+Para el despacho de los asuntos competencia del Instituto, los Titulares de los Órganos Administrativos, desempeñarán las atribuciones conferidas en el presente Reglamento.
 
 ###### Artículo 8°.
 
@@ -143,7 +153,21 @@ XII. Formular, en coordinación con los Órganos Administrativos del Instituto, 
 
 XIII. Formular y autorizar, conforme a las disposiciones legales vigentes, las políticas, lineamientos y circulares que orienten al mejoramiento de la operación del Instituto.
 
-XIV. Las demás que en el ámbito de su competencia le sean asignadas y le correspondan, en términos de las leyes aplicables, este Reglamento y las que le instruya el Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XIV. Establecer en el Instituto, la Unidad Interna de Protección Civil, en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XV. Vigilar que las sanciones a que se hagan acreedores los servidores públicos adscritos al Instituto, se ejecuten conforme a la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XVI. Presentar a la Secretaría de Hacienda, los programas, proyectos, presupuestos e informes, para su inclusión en el Presupuesto de Egresos; informando de ello, al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XVII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Ejecutivo del Estado, así como las que le confieren las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 11.
 
@@ -281,7 +305,17 @@ XXXV. Vigilar la aplicación y difusión de la normatividad en tecnologías de i
 
 XXXVI. Promover la actualización de los recursos humanos a través de cursos, talleres y conferencias para mejorar la calidad del servicio.
 
-XXXVII. Las demás que en el ámbito de su competencia le sean asignadas.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXVII. Coordinar el Programa Interno de Protección Civil del Instituto en el ámbito de su competencia, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXVIII. Proponer al Director General, los programas, proyectos, presupuestos e informes, relativos a los asuntos competencia del Instituto, de conformidad con la normatividad establecida.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXXIX. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así como las que le confieren las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -335,7 +369,13 @@ XXIII. Programar, dirigir, controlar y evaluar, el funcionamiento, así como ver
 
 XXIV. Asesorar, en el ámbito normativo, jurídico y consultivo, a la Dirección General y a los Titulares de los irganos (sic) Administrativos, así como proponer las políticas normas y procedimientos en materia de su competencia, para el manejo funcional del Instituto.
 
-XXV. Las demás que en el ámbito de su competencia le sean asignadas.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXV. Substanciar los procedimientos administrativos que conforme a la Ley de la materia, corresponda a los servidores públicos del Instituto, derivado de los actos que en el ejercicio de sus funciones cometan.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2011)</small>
+
+XXVI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Director General, así corno las que le confieren las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ### Capítulo III. De la Integración de las Direcciones y de las Atribuciones de sus Titulares
 
@@ -502,3 +542,15 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de mayo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado de Chiapas.- Noé Castañón León, Secretario General de Gobierno.- Seth Yassir Vázquez Hernández, Secretario de Desarrollo Social.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MAYO DE 2011.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 2940-A-2011 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO AMANECER”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- Conforme a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
