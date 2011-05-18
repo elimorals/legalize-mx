@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2010-12-28"
+last_updated: "2011-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 1 Y 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2211,117 +2213,23 @@ II.- Por registro de regularización que a juicio de los Municipios deban llevar
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
 
 Por inscripción al inicio de las actividades que se señalan, así como por el refrendo anual de la licencia, autorización, permiso o concesión, se cubrirán las siguientes cuotas en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas.
+II.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+III.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 2,390 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 2,825 cuotas.
+IV.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-III.- Rodeos con capacidad de hasta 1,500 personas, 1,883 cuotas y con capacidad mayor de 1,500 personas, 2,500 cuotas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-IV.- Hoteles y moteles de paso, con servicio de bar y restaurant-bar, 1,500 cuotas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-V.- Establecimientos que expendan bebidas alcohólicas:
-
-1.- En botella cerrada:
-
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 15 cuotas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 30 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-b) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 40 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-c) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 80 cuotas.
-
-d) Licorerías, 80 cuotas.
-
-e) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 60 cuotas.
-
-f) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 135 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-g) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-h) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 380 cuotas.
-
-2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 340 cuotas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo.
-
-a) Cervecerías con expendio de cerveza, 85 cuotas.
-
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 85 cuotas.
-
-c) Billares con expendio de cerveza, 85 cuotas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Billares con expendio de cerveza, vinos y licores, 130 cuotas.
-
-d) Cantinas o bares, con expendio de cerveza, vinos y licores, 250 cuotas.
-
-e) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 150 cuotas.
-
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 250 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-g) Centros o Clubes Sociales o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 1 cuota por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 100 cuotas.
-
-Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.25 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas.
-
-h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
-
-Hasta 150 metros cuadrados de expendio o consumo abierto al público 150 cuotas.
-
-Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.6 cuotas.
-
-En ningún caso la cantidad a pagar será mayor a 1,000 cuotas.
-
-j) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
-
-k) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Para la aplicación de los derechos previstos en este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este artículo, se equiparará a la que por sus características le sea más semejante.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
+V.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -2415,9 +2323,113 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$75.00 por unidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE MAYO DE 2011)</small>
 
-Los derechos previstos en las fracciones I a V, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+
+###### ARTICULO 58 Bis.
+
+Por la emisión de la anuencia municipal y en su caso, por revalidación anual de la anuencia municipal, en los términos previstos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago:
+
+A) Licencias y autorizaciones de cambio de giro o domicilio:
+
+1.- Estadios de futbol y beisboI, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas;
+
+2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 2.390 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 2,825 cuotas;
+
+3.- Rodeos con capacidad de hasta 1,500 personas, 1,883 cuotas y con capacidad mayor de 1,500 personas, 2,500 cuotas;
+
+4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 1,500 cuotas;
+
+5.- En botella cerrada:
+
+a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 15 cuotas;
+
+b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 30 cuotas;
+
+c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 40 cuotas;
+
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 80 cuotas;
+
+e) Licorerías, 80 cuotas;
+
+f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 60 cuotas;
+
+g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 135 cuotas;
+
+h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas;
+
+i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 380 cuotas;
+
+j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 340 cuotas.
+
+k) Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+
+a) Cervecerías con expendio de cerveza, 85 cuotas;
+
+b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 85 cuotas;
+
+c) Billares con expendio de cerveza, 85 cuotas;
+
+d) Billares con expendio de cerveza, vinos y licores, 130 cuotas;
+
+e) Cantinas o bares, con expendio de cerveza, vinos y licores, 250 cuotas;
+
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 150 cuotas;
+
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 250 cuotas;
+
+h) Centros o Clubes Sociales, o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 1 cuota por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 100 cuotas;
+
+i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.25 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas;
+
+j) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
+
+Hasta 150 metros cuadrados de
+
+Expendio o consumo abierto al
+
+público ....... 150 cuotas
+
+Por el excedente de 150 metros,
+
+Pagarán por cada metro cuadrado
+
+o fracción de expendio o consumo
+
+abierto al público ............ 0.6 cuotas
+
+En ningún caso la cantidad a pagar
+
+Sera mayor a ............... 1,000 cuotas
+
+B) Permisos especiales:
+
+1.- Para el expendio y consumo de bebidas alcohólicas, 0.2
+
+cuotas por metro cuadrado de superficie de expendio o
+
+consumo, más un 10% de los derechos por cada día de
+
+duración del permiso; y
+
+2.- Para el consumo de bebidas alcohólicas, 0.1 cuotas por metro
+
+cuadrado de superficie de consumo, más un 10% de los
+
+derechos por cada día de duración del permiso.
+
+En los casos señalados en los numerales 1 y 2 del inciso B, en ningún caso la cantidad a pagar deberá ser menor a 50 cuotas.
+
+Para la aplicación de los derechos previstos en este Articulo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
+
+Si algún expendio de bebidas alcohólicas no encuadra especificamente en la clasificación contenida en este Artículo, se equiparará a la que por sus características le sea más semejante.
+
+Se entiende por área de exposición al público, la totalidad de piso de venta o consumo a que tiene acceso el público, en un determinado establecimiento.
+
+Los derechos previstos en este Artículo, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2425,109 +2437,15 @@ Los derechos previstos en las fracciones I a V, serán aplicables únicamente a 
 
 Por inscripción al inicio de las actividades que señalan, así como por el refrendo anual de la licencia, autorización, permiso o concesión, se cubrirán las siguientes cuotas, excepto en los municipios señalados en el artículo 58 de esta ley:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+I.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 1,000 cuotas y con capacidad de más de 15 mil personas, 1800 cuotas.
+II.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+III.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 772 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 872 cuotas.
+IV.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-III.- Rodeos con capacidad de hasta 1,500 personas, 872 cuotas y con capacidad mayor de 1,500 personas, 1,500 cuotas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-IV.- Hoteles y moteles de paso, con servicio de bar y restaurant-bar, 872 cuotas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-V.- Establecimientos que expendan bebidas alcohólicas:
-
-1.- En botella cerrada:
-
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 9 cuotas.
-
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 2 DE FEBRERO DE 2000)
-
-Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 18 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-b) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 27 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-c) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 53 cuotas.
-
-d) Licorerías, 53 cuotas.
-
-e) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 30 cuotas.
-
-f) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 68 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-g) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 118 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-h) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 273 cuotas.
-
-2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 136 cuotas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
-
-a) Cervecerías con expendio de cerveza, 60 cuotas.
-
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 53 cuotas.
-
-c) Billares con expendio de cerveza, 60 cuotas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Billares con expendio de cerveza, vinos y licores, 100 cuotas.
-
-d) Cantinas o bares, con expendio de cerveza, vinos y licores, 172 cuotas.
-
-e) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 38 cuotas.
-
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 62.5 cuotas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-g) Centros o Clubes Sociales o Deportivos con expendio o consumo de cerveza, vinos y licores, pagarán 0.80 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 80 cuotas.
-
-h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
-
-Hasta 150 metros cuadrados de expendio o consumo abierto al público 38 cuotas.
-
-Por el excedente de 150 metros, pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.6 cuotas.
-
-En ningún caso la cantidad a pagar será mayor a 250 cuotas.
-
-j) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
-
-k) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Para la aplicación de los derechos previstos en este artículo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este artículo, se equiparará a la que por sus características le sea más semejante.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
+V.- (DEROGADA, P.O. 18 DE MAYO DE 2011)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2595,9 +2513,97 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$35
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$50.00 por unidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE MAYO DE 2011)</small>
 
-Los derechos previstos en las fracciones I a V, serán aplicables, únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
+
+###### ARTICULO 59 Bis.
+
+Por la emisión de la anuencia municipal y en su caso, por la revalidación de la anuencia municipal, en los términos previstos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en el artículo 58 Bis de esta Ley:
+
+A) Licencias y autorizaciones de cambio de giro o domicilio:
+
+I.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15 mil personas, 1,000 cuotas y con capacidad de más de 15 mil personas, 1,800 cuotas;
+
+II.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 772 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 872 cuotas;
+
+III.- Rodeos con capacidad de hasta 1,500 personas, 872 cuotas y con capacidad mayor de 1,500 personas, 1500 cuotas;
+
+IV.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 872 cuotas;
+
+V.- Establecimientos que expendan bebidas alcohólicas:
+
+1.- En botella cerrada:
+
+a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 9 cuotas;
+
+b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 18 cuotas;
+
+c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 27 cuotas;
+
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 53 cuotas;
+
+e) Licorerías, 53 cuotas;
+
+f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 30 cuotas;
+
+g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 68 cuotas;
+
+h) Tiendas de autoservicio con un área de exposición al público mayor de 120 metros cuadrados, 118 cuotas; y
+
+i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 273 cuotas.
+
+2.- Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 136 cuotas.
+
+3.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+
+a) Cervecerías con expendio de cerveza, 60 cuotas;
+
+b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 53 cuotas;
+
+c) Billares con expendio de cerveza, 60 cuotas;
+
+d) Billares con expendio de cerveza, vinos y licores, 100 cuotas;
+
+e) Cantinas o bares, con expendio de cerveza, vinos y licores, 172 cuotas;
+
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 38 cuotas;
+
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 62.5 cuotas;
+
+h) Centros o Clubes Sociales o Deportivos, con expendio o consumo de cerveza, vinos y licores, pagarán 0.80 cuotas por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 80 cuotas;
+
+i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
+
+Hasta 150 metros cuadrados de expendio
+
+o consumo abierto al público ......... 38 cuotas.
+
+Por el excedente de 150 metros, pagarán
+
+por cada metro cuadrado o fracción de
+
+expendio o consumo abierto al
+
+público .................................... 0.6 cuotas.
+
+En ningún caso la cantidad a pagar será
+
+mayor a ................................ 250 cuotas.
+
+B) Permisos especiales:
+
+1.- Para el expendio y consumo de bebidas alcohólicas, 0.15 cuotas por metro cuadrado de superficie de expendio o consumo, más un 10% de los derechos por cada día de duración del permiso.
+
+2.- Para el consumo de bebidas alcohólicas, 0.075 cuotas por metro cuadrado de superficie de consumo, más un 10% de los derechos por cada día de duración del permiso.
+
+En los casos señalados en los numerales 1 y 2 del inciso B), en ningún caso la cantidad a pagar deberá ser menor a .................... 25 cuotas.
+
+Para la aplicación de los derechos previstos en este articulo, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
+
+Si algún expendio de bebidas alcohólicas no encuadra específicamente en la clasificación contenida en este articulo, se equiparará a la que por sus características le sea más semejante.
+
+Se entiende por área de exposición al público, la totalidad de piso de venta a que tiene acceso el público, en un determinado establecimiento.
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
@@ -3688,3 +3694,27 @@ P.O. 28 DE DICIEMBRE DE 2010.
 DECRETO NUM. 162 QUE ADICIONA DOS PARRAFOS A LA FRACCION IV DEL ARTICULO 65 BIS-14 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2011.
+
+P.O. 18 DE MAYO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Estatal de Prevención y Combate al Abuso del Alcohol, publicada en el Periódico Oficial del Estado de fecha 10 de septiembre de 2003.
+
+Tercero.- El Comité de Evaluación de Trámites y Licencias deberá instalarse a más tardar a los 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- Los municipios deberán remitir a la Secretaria de Finanzas y Tesorería General del Estado, la Información relativa al padrón de licencias o permisos para la venta de bebidas alcohólicas dentro de los siguientes treinta días naturales contados a partir de la entrada en vigor del presente Decreto, que incluya cuando menos el nombre del titular, giro o giros autorizados, domicilio del establecimiento y adeudos de refrendo en su caso, indicando el monto por cada año.
+
+En aquellos casos en que la Tesorería advierta que la información de integración derivada de los padrones municipales, no corresponda con las personas que se encuentren explotando en virtud de un título legal la licencia correspondiente, procederá la regularización y actualización en el padrón único al que se refiere el presente Decreto, solamente en lo que se refiere al cambio de titular, en el periodo señalado en el siguiente artículo transitorio.
+
+Quinto.- Las personas que sean titulares de licencias o permisos municipales deberán obtener la licencia estatal que corresponda a su giro dentro de los 90 días naturales contados a partir de la entrada en vigor del presente Decreto, pudiendo prorrogarse dicho periodo por determinación del Secretario de Finanzas y Tesorero General del Estado. Pasada esta fecha, de no haber iniciado en tiempo y forma el trámite para la realización del canje, deberá solicitar nuevamente una licencia o permiso especial en los términos de la presente Ley.
+
+Al realizar el trámite señalado en el párrafo anterior, los titulares de las licencias o permisos deberán acreditar estar al corriente en el pago de los derechos por refrendo que correspondan, así como en el resto de las obligaciones fiscales que la autoridad requiera, con base a las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+
+De acreditar el pago de los derechos por refrendo a que se refiere el párrafo anterior, se expedirá la licencia correspondiente al Titular de la misma. En caso que existan adeudos en el pago de derechos por refrendo, la expedición de la licencia, sólo será procedente, cuando se haya cubierto la totalidad del crédito correspondiente.
+
+Sexto.- Las solicitudes de licencia o permiso especial que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones del mismo. En este caso, el pago de derechos que el solicitante hubiera hecho en el municipio para la tramitación de la licencia o el permiso especial, se acreditará al pago correspondiente a la anuencia municipal.
+
+Séptimo.- El Ejecutivo del Estado expedirá el Reglamento de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Octavo.- Los Ayuntamientos de los Municipios del Estado deberán expedir o modificar, en su caso, los Reglamentos correspondientes, en los términos del presente Decreto dentro de los ciento ochenta días siguientes al de la entrada en vigor del mismo.
