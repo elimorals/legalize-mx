@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2011-02-14"
+last_updated: "2011-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE MAYO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2400,6 +2400,8 @@ Los vehículos eléctricos o eléctricos que además cuenten con motor de combus
 
 #### Sección Primera. De los derechos por el suministro de agua
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+
 #### Sección Segunda. De los servicios de prevención y control de la contaminación ambiental
 
 #### Sección Tercera. De los servicios de construcción y operación hidráulica
@@ -2536,7 +2538,7 @@ El Jefe de Gobierno, mediante disposiciones de carácter general, podrá reducir
 
 ###### ARTICULO 172.
 
-Están obligados al pago de los Derechos por el Suministro de Agua que provea el Distrito Federal, los usuarios del servicio. El monto de dichos derechos comprenderá las erogaciones necesarias para adquirir, extraer, conducir y distribuir el líquido, así como su descarga a la red de drenaje, y las que se realicen para mantener y operar la infraestructura necesaria para ello, y se pagarán bimestralmente, de acuerdo a las tarifas que a continuación se indican:
+Están obligados al pago de los Derechos por el Suministro de Agua que provea el Distrito Federal, los usuarios del servicio. El monto de dichos derechos comprenderá las erogaciones necesarias para adquirir, extraer, conducir y distribuir el líquido, así como su descarga a la red de drenaje, y las que se realicen para mantener y operar la infraestructura necesaria para ello; se pagarán bimestralmente, de acuerdo a las tarifas que a continuación se indican:
 
 I. En caso de que se encuentre instalado o autorizado el medidor por parte del Sistema de Aguas, los derechos señalados se pagarán de acuerdo con lo siguiente:
 
@@ -2906,19 +2908,19 @@ MAYOR A 90,000 120,000 2,569.53 41.63
 
 Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 65.57 pesos.
 
-Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base al promedio del consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de un año.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
-(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010) (REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)
+Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base en el promedio de consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de ciento veinte días.
 
-II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, se aplicará la cuota fija de $2,602.00.
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+Para aquellos usuarios localizados en una zona con dictamen técnico emitido por el Sistema de Aguas, cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial del Distrito Federal, que cataloga el suministro de agua como irregular no estarán obligados a instalar el medidor, y aún teniéndolo, sólo les será aplicable la cuota fija y el subsidio que les corresponda conforme a la manzana y tipo de uso; por lo que el Sistema de Aguas, de manera automática procederá a la facturación en cuota fija, sin que el usuario requiera trámite adicional alguno para realizar su pago en esta modalidad.
 
-a) A esta tarifa se le otorgarán subsidios de acuerdo a la manzana donde se ubique la toma de agua de los usuarios del servicio, que podrá ser popular, bajo, medio o alto; para tal efecto la Asamblea emitirá la relación considerando las regiones y manzanas.
+> <small>(REFORMADA, G.O. 19 DE MAYO DE 2011)</small>
 
-Dicha tarifa se pagará conforme a lo siguiente:
+II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, los derechos señalados se pagarán conforme a lo siguiente:
 
-(REPUBLICADA, G.O. 30 DE DICIEMBRE DE 2010)
+a) Tratándose de tomas de uso doméstico, que no cuenten con medidor, ya sea porque la autoridad aún no lo ha instalado o se encuentre en proceso de instalación; o exista la imposibilidad material para ser instalado, por tratarse de una zona con dictamen técnico emitido por el Sistema de Aguas, que cataloga el suministro de agua como irregular; se aplicará una cuota fija de $2,602.00, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código, podrá ser popular, baja, media o alta, de acuerdo a lo siguiente:
 
 Clasificación de la manzana en que se ubique Subsidio %
 
@@ -2930,11 +2932,9 @@ Bajo 96.4400%
 
 Medio 95.2400%
 
-Alto 47.3768%
+Alto 84.0000%
 
 Lo cual se traduce en lo siguiente:
-
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Clasificación de la manzana en que Cuota Fija Bimestral
 
@@ -2948,55 +2948,51 @@ Bajo $92.50
 
 Medio $124.00
 
-Alto $1, 369.50
+Alto $416.32
 
-b). En el caso de tomas de agua consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a la siguiente:
+b) Tratándose de tomas de uso doméstico, cuyo medidor esté descompuesto o exista la imposibilidad de efectuar la lectura, se pagará el derecho conforme al cálculo que realice el Sistema de Aguas, tomando como base el consumo promedio del usuario correspondiente a los seis bimestres del ejercicio fiscal anterior, quedando fuera de la estadística, los dos bimestres con las facturaciones más altas. El Sistema de Aguas sólo podrá cobrar máximo dos veces en el mismo ejercicio fiscal en base al promedio de consumo del usuario, si después de esos dos bimestres, todavía no existe la posibilidad de efectuar la lectura del medidor, no se ha instalado o reparado el mismo, se aplicará la cuota fija, aplicando el subsidio correspondiente, hasta en tanto desaparezca esa imposibilidad.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+En todos los casos, cuando al usuario le sea cobrado el suministro de agua mediante la aplicación de la cuota fija o con base al promedio de consumo del usuario, el Sistema de Aguas, deberá de señalar de manera explícita en la boleta de cobro que al efecto emita, en qué supuesto, de los señalados en la presente fracción, se encuentra el contribuyente para la aplicación de dicha cuota o pago.
 
-Para efectos de la presente fracción, el Sistema de aguas hará llegar a los usuarios, la boleta por derechos de suministro de agua, especificando la cantidad a pagar de cuota fija bimestral, de acuerdo a la Gaceta Oficial del Distrito Federal vigente.
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 14 DE FEBRERO DE 2011)</small>
+c) En el caso de tomas de agua, consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a lo siguiente:
 
 Diámetro de la toma en milímetros Cuota Fija Bimestral
 
 expresada en pesos
 
-13 1,890.00
+13 $1,890.00
 
-MAS DE 13 A 15 9,821.50
+MAS DE 13 A 15 $9,821.50
 
-MAS DE 15 A 19 16,069.50
+MAS DE 15 A 19 $16,069.50
 
-MAS DE 19 A 26 31,244.50
+MAS DE 19 A 26 $31,244.50
 
-MAS DE 26 A 32 48,208.50
+MAS DE 26 A 32 $48,208.50
 
-MAS DE 32 A 39 70,527.00
+MAS DE 32 A 39 $70,527.00
 
-MAS DE 39 A 51 124,985.00
+MAS DE 39 A 51 $124,985.00
 
-MAS DE 51 A 64 187,473.50
+MAS DE 51 A 64 $187,473.50
 
-MAS DE 64 A 76 267,820.50
+MAS DE 64 A 76 $267,820.50
 
-MAS DE 76 A 102 544,567.00
+MAS DE 76 A 102 $544,567.00
 
-MAS DE 102 A 150 2,089,002.50
+MAS DE 102 A 150 $2,089,002.50
 
-MAS DE 150 A 200 3,267,410.50
+MAS DE 150 A 200 $3,267,410.50
 
-MAS DE 200 A 250 3,987,211.00
+MAS DE 200 A 250 $3,987,211.00
 
-MAS DE 250 A 300 4,704,713.50
+MAS DE 250 A 300 $4,704,713.50
 
-MAS DE 300 EN ADELANTE 4,990,394.50
-
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2011)</small>
+MAS DE 300 EN ADELANTE $4,990,394.50
 
 Para efectos de la presente fracción, el Sistema de Aguas hará llegar a los usuarios, la boleta por derechos de suministro de agua, especificando la cantidad a pagar de cuota fija bimestral, de acuerdo a la Gaceta Oficial del Distrito Federal vigente.
 
-La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos bimestrales de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
+La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
 
 III. A los usuarios del servicio de agua potable con uso doméstico y no doméstico simultáneamente, que cuenten con medidor, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
 
@@ -3086,7 +3082,45 @@ MAYOR A 90,000 120,000 1,955.14 41.63
 
 Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 65.57 pesos.
 
-IV. Cuando por razón que el medidor haya transcurrido su vida útil y no se pueda obtener una lectura confiable del mismo se cobrará para el caso doméstico el promedio de consumo de la colonia catastral en donde se encuentre el predio a la tarifa aplicable.
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Tratándose de tomas con uso doméstico y no doméstico simultáneamente, se pagarán los derechos conforme a lo siguiente:
+
+a) Cuando no haya medidor, debido a la imposibilidad material para ser instalado, al tratarse de una zona con dictamen técnico emitido por el Sistema de Aguas, que cataloga el suministro de agua como irregular; se aplicará una cuota fija de $2,602.00, a la cual le será otorgado un subsidio de acuerdo a la manzana donde se ubique la toma de agua, que conforme a este Código, podrá ser popular, baja, media o alta, de conformidad con lo siguiente:
+
+Clasificación de la manzana en que se ubique Subsidio %
+
+el inmueble y esté instalada una toma de agua
+
+Popular 87.4000%
+
+Bajo 86.4400%
+
+Medio 75.2400%
+
+Alto 64.3768%
+
+Lo cual se traduce en lo siguiente:
+
+Clasificación de la manzana en que Cuota Fija Bimestral
+
+se ubique el inmueble y esté instalada expresada en pesos
+
+una toma de agua
+
+Popular $328.00
+
+Bajo $353.00
+
+Medio $644.00
+
+Alto $927.00
+
+b) Cuando el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura, se pagará el derecho conforme al cálculo que realice el Sistema de Aguas, tomando como base el consumo promedio del usuario correspondiente a los seis bimestres del ejercicio fiscal anterior, quedando fuera de la estadística, los dos bimestres con las facturaciones mas altas. El Sistema de Aguas sólo podrá cobrar máximo dos veces en el mismo ejercicio fiscal en base al promedio de consumo del usuario, si después de esos dos bimestres, todavía no existe la posibilidad de efectuar la lectura del medidor, no se ha instalado o reparado el mismo, se aplicará la cuota fija, aplicando el subsidio correspondiente, hasta en tanto desaparezca esa imposibilidad.
+
+Cuando al usuario le sea cobrado el suministro de agua mediante la aplicación de la cuota fija o con base al promedio de consumo del usuario, a que se refieren los incisos a) y b) de la presente fracción, el Sistema de Aguas, deberá de señalar de manera explícita en la boleta de cobro que al efecto emita, en qué supuesto, de los señalados en la presente fracción, se encuentra el contribuyente para la aplicación de dicha cuota.
+
+IV. (DEROGADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)
 
 (ADICIONADO, G.O. 24 DE DICIEMBRE DE 2010) (REPUBLICADO, G.O. 30 DE DICIEMBRE DE 2010)
 
@@ -3101,6 +3135,18 @@ La Tesorería, en un plazo que en ningún caso excederá los treinta días natur
 Una vez emitida la evaluación por la Tesorería, notificará la misma, a la autoridad recaudadora del Sistema de Aguas para que éste proceda a notificarla al contribuyente en un plazo no mayor a los treinta días posteriores, y en su caso, realizar el cobro con la nueva reclasificación a partir del bimestre en que fue solicitado.
 
 En caso de no responder el Sistema de Aguas dentro de los sesenta días naturales posteriores a la solicitud de reclasificación, la misma se considerará procedente, sirviendo de comprobante de ajuste el acuse de recibo de la oficina competente; sin perjuicio de las facultades de la autoridad fiscal.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Al efecto, la Tesorería contará con un formato único de solicitud de reclasificación de manzana, mismo que deberá contener apartados para que el solicitante aporte los siguientes datos: El número de su cuenta predial, número de habitantes en su vivienda, ocupación, el salario mensual percibido para identificar el nivel socioeconómico al que pertenece el solicitante, a fin de que con base en esos datos determine la procedencia o no de la reclasificación.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+En el caso de que la solicitud a que se refiere el primer párrafo de esta fracción, pertenezca a una Unidad Habitacional de interés social, la autoridad fiscal estará obligada a reclasificar automáticamente la toma en manzana popular o baja, según corresponda, hecho que será suficiente para que la autoridad fiscal, de oficio, reclasifique todas las cuentas pertenecientes a la toma general.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+El solicitante deberá demostrar con documentación idónea que la vivienda en que se encuentra instalada la toma se construyó a través de un crédito otorgado por el INVI, FONHAPO, FICAPRO, FIVIDESU o cualquier otra institución pública que otorgue créditos para la adquisición de vivienda de interés social.
 
 ###### ARTICULO 173.
 
@@ -3244,23 +3290,43 @@ XI. Pagar oportunamente los derechos derivados de los servicios por suministro d
 
 XII. Renovar el aparato medidor cuando éste haya superado los siete años de servicio, o antes si lo solicita el usuario al Sistema de Aguas.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 177.
 
-En caso de que los contribuyentes no paguen los derechos a su cargo en dos o más periodos consecutivos o alternados, o bien, cuando reincidan en declarar consumos menores a los determinados por la autoridad, el Sistema de Aguas, analizando el caso en concreto, determinará si aplica la suspensión o restricción de los servicios hidráulicos, sin perjuicio de las demás sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+En caso de que los contribuyentes no paguen los derechos a su cargo en dos o más periodos consecutivos o alternados, cuando reincidan en declarar consumos menores a los determinados por la autoridad, o bien, cuando la autoridad haya determinado importes adicionales a pagar por parte de los contribuyentes y que los mismos omitan el pago en los plazos indicados el Sistema de Aguas, suspenderá los servicios hidráulicos, cuando se trate de usuarios con uso no doméstico.
 
-Para el caso de que tengan ambos usos doméstico y no doméstico, el Sistema de Aguas determinará la suspensión del suministro.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
+En el caso de los usuarios con uso doméstico y de aquellos que tengan ambos usos, doméstico y no doméstico simultáneamente, el Sistema de Aguas sólo podrá restringir el suministro a la cantidad necesaria para satisfacer los requerimientos básicos de consumo humano; siempre y cuando el Sistema de Aguas haya realizado la notificación respectiva en términos de lo dispuesto por el artículo 437 de este Código.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
 Igualmente, queda obligado dicho órgano para suspender el servicio, cuando se comprueben modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización; se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruyan, alteren o inutilicen los aparatos medidores. Cuando se comprueben tomas o derivaciones no autorizadas o con uso distinto al manifestado, previo requerimiento al contribuyente para que acredite la legal instalación y funcionamiento de la toma, se procederá a la supresión de la misma.
 
-Asimismo, el Sistema de Aguas podrá suspender los servicios hidráulicos a inmuebles de uso no doméstico o bien suspenderlo o restringirlos a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de inmuebles de uso doméstico, en los casos en que la autoridad haya determinado importes adicionales a pagar por parte de los contribuyentes y que los mismos omitan el pago en los plazos indicados, esto sin perjuicio de las sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
 
-Tratándose de inmuebles que cuenten con servicio de agua potable con uso doméstico y no doméstico simultáneamente, la suspensión o restricción se aplicará de conformidad con lo dispuesto en la Ley de Aguas del Distrito Federal.
+> <small>(DEROGADO QUINTO PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
 Cuando se suspenda o restrinja alguno de los servicios hidráulicos, para su restablecimiento, previamente se cubrirán los derechos y accesorios legales que se hubiesen generado, por la omisión del pago, así como aquellos que correspondan a su reinstalación, conforme a lo dispuesto en la fracción V del artículo 181, según el caso.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
 El Sistema de Aguas, restablecerá los servicios hidráulicos una vez cubiertos los derechos de agua y accesorios legales que se hubiesen generado por la omisión del pago, así como los costos de reinstalación de los servicios, en los casos en que el usuario opte por realizar el pago en parcialidades, la reinstalación de los servicios se hará una vez cubierta la primera parcialidad a que se refiera la autorización respectiva.
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
 No obstante lo anterior, la autoridad quedará facultada para suspender o restringir nuevamente el servicio, a partir del día siguiente a aquel en que deba hacerse el pago de una parcialidad, y el usuario entere un importe menor a ésta, u omita el pago de la misma.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Estarán exentos de la restricción del servicio los jubilados, pensionados, los adultos mayores, las personas con discapacidad y las madres jefas de familia.
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Para los efectos del párrafo anterior, las personas a que se hace referencia; deberán acreditar que son propietarios del inmueble en que se ubica la toma y tienen alguna de las calidades aludidas. Las jefas de familia acreditarán su condición mediante declaración bajo protesta de decir verdad y la de dos testigos. En estos casos el valor catastral del inmueble de uso habitacional no deberá exceder de la cantidad de $919,179.81.
 
 ###### ARTICULO 178.
 
@@ -3536,21 +3602,27 @@ l). 252 mm - $171,788.20
 
 m). 302 mm - $206,146.05
 
-V. Reinstalación de Servicio Hidráulico
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+
+V. Reinstalación de servicio hidráulico
 
 A. Diámetros de 13 a 38 mm
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
-a). Por Cuadro - $1,013.74
+a). Por Cuadro $300.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
-b). Por Banqueta - $3,759.37
+b). Por Banqueta $1,000.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
-c). Por Arroyo - $7,518.74
+c). Por Arroyo $2,500.00
+
+> <small>(ADICIONADO, G.O. 19 DE MAYO DE 2011)</small>
+
+No serán sujetos del pago establecido en el inciso a) de la presente fracción los jubilados, pensionados, los adultos mayores, las personas con discapacidad y las madres jefas de familia, de conformidad con lo dispuesto en el artículo 177 del presente ordenamiento.
 
 B. Diámetros mayores a 38 mm
 
@@ -4082,75 +4154,51 @@ d) Teatrales - $1,167.00
 
 Por la revisión del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de estacionamientos públicos, se pagarán derechos conforme a una cuota de - $2,697.00
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 191.
 
-Por la expedición y revalidación de licencia de funcionamiento, declaración de apertura y autorización, así como por la verificación de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
+Por la presentación de los Avisos, así como por la expedición y revalidación de Avisos y Permisos para los establecimientos mercantiles, se pagarán derechos conforme a lo siguiente:
 
-I. Por la expedición de Licencia de Funcionamiento tipo ordinarias, se pagarán:
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+I. Por la expedición de Permiso para la operación de un giro mercantil de impacto vecinal, se pagarán:
 
 a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $7,562.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
 b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $152.00
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $302.00
 
-Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+Después de 300 metros cuadrados el costo del Permiso será lo que resulte de la suma de los incisos a), b) y c).
 
-II. Por la expedición de licencia de funcionamiento tipo especial, se pagarán:
+II. Por la expedición de Permiso para la operación de un giro mercantil de impacto zonal, se pagarán:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $15,125.00
 
-a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento - $15,125.00
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción excepto estacionamiento $302.00
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $605.00
 
-b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción excepto estacionamiento - $302.00
+d). Por pulquerías $7,562.00
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+Después de 300 metros cuadrados el costo del Permiso será lo que resulte de la suma de los incisos a), b) y c).
 
-c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento - $605.00
+III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública, colocando enseres e instalaciones en los términos de la Ley de la materia, pagarán por el Aviso respectivo, una cuota anual por cada metro cuadrado que utilice, conforme a lo siguiente:
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+a). Para los establecimientos mercantiles de impacto zonal y vecinal $2,310.00
 
-d). Por pulquerías - $7,562.00
+b). Para los establecimientos mercantiles de bajo impacto $1,162.00
 
-Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+IV. Tratándose de establecimientos mercantiles de impacto vecinal o de bajo impacto que requieran de un Permiso para operar como giro mercantil con impacto zonal, por una sola ocasión o por un periodo determinado de tiempo o por un solo evento en los términos de la Ley de la materia, pagarán una cuota por cada metro cuadrado de $16.00.
 
-III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública y que requieran de un Permiso, en los términos de la Ley de la materia, se pagará una cuota semestral por cada metro cuadrado que utilice, conforme a lo siguiente:
+V. Por el Aviso para realizar el traspaso de algún establecimiento mercantil en los términos de la Ley de la materia, se pagará una cuota equivalente al 30% del monto de los derechos previstos en este artículo para la expedición del Permiso, independientemente del término transcurrido de la vigencia de dicho Permiso.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+VI. Por el Aviso para realizar modificaciones a la superficie de algún establecimiento mercantil de impacto vecinal y/o zonal, se pagará derechos conforme a una cuota de $1,162.00
 
-a). Para los establecimientos mercantiles que funcionen con Licencia de Funcionamiento - $1,155.00
+Para efectos de la revalidación del Permiso a que hacen referencia las fracciones I y II, se cobrará el 30% del valor del mismo al finalizar el periodo de vigencia que refiere la Ley de la materia.
 
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+Los Avisos a que hace referencia la fracción III de este precepto, tendrán una vigencia de un año y podrán ser revalidados por periodos iguales, siempre que cumplan con las disposiciones de la Ley de la materia, para su otorgamiento, debiéndose pagar el mismo monto que se establece, para su expedición.
 
-b). Para los establecimientos mercantiles que funcionen con declaración de apertura - $581.00
-
-IV. Tratándose de Actividades Mercantiles que requieran de una Autorización, en los términos de la Ley de la materia, se pagará una cuota conforme a lo siguiente:
-
-> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-a). Por cada metro cuadrado - $16.00
-
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-V. Por la verificación a que se hace referencia en el primer párrafo - $2,558.00
-
-Para efectos de la revalidación de la Licencia de Funcionamiento a que hace referencia las fracciones I y II, se cobrará el 30% del valor de la misma al finalizar el periodo de vigencia que refiere la Ley de la materia.
-
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
-
-En el supuesto de traspaso de algún Establecimiento Mercantil en el que el titular de una Licencia de Funcionamiento transmita los derechos consignados a su favor a otra persona física o moral, se pagará una cuota equivalente al 30% del monto de los derechos previstos en este artículo para la expedición, independientemente del término transcurrido de la vigencia de dicha Licencia.
-
-Los Permisos a que hace referencia la fracción III, tendrán una vigencia de seis meses y podrán ser otorgados semestralmente siempre que cumplan con las disposiciones de la Ley de la materia.
-
-Las Autorizaciones a que se refiere la fracción IV no son objeto de prórroga ni revalidación y tendrán una vigencia de no más de 15 días.
+El Permiso a que se refiere la fracción IV no será objeto de prórroga ni revalidación ni traspaso y tendrá una vigencia de no más de 15 días.
 
 ###### ARTICULO 192.
 
@@ -5886,6 +5934,8 @@ VIII. De videocasetes - $42.00
 
 #### Sección Segunda. De los Derechos por el Uso de Suelo
 
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 250.
 
 Por los servicios de revisión de datos catastrales en gabinete o mediante levantamientos físico, se pagarán derechos conforme a las siguientes cuotas:
@@ -6204,7 +6254,7 @@ El pago de este derecho se hará mediante relojes marcadores, tarjetas o cualqui
 
 ###### ARTICULO 260.
 
-Tratándose de establecimientos mercantiles que extiendan sus servicios a la vía pública en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota mensual por cada metro cuadrado que ocupen, equivalente al 1% del valor del suelo para las colonias catastrales en el Distrito Federal y tipo de Corredor establecidos en este Código. Los derechos a los que se refiere este artículo se destinarán a la delegación correspondiente como ampliación líquida a sus presupuestos.
+Tratándose de establecimientos mercantiles que extiendan sus servicios a la vía pública en los términos de la Ley de Establecimientos Mercantiles del Distrito Federal, se pagará una cuota mensual por cada metro cuadrado que ocupen, equivalente al 1% del valor del suelo para las colonias catastrales en el Distrito Federal y tipo de Corredor establecidos en este Código. Los derechos a los que se refiere este artículo se destinarán a la delegación correspondiente como ampliación líquida a sus presupuestos.
 
 ###### ARTICULO 261.
 
@@ -6548,7 +6598,9 @@ Cuando se trate del inicio de operaciones a que se refiere el primer párrafo de
 
 La reducción para las empresas que acrediten que iniciaron operaciones empresariales, se aplicará sólo durante el primer ejercicio de actividades de la empresa.
 
-Para la aplicación de las reducciones a que se refiere este artículo, se entenderá que una empresa inicia operaciones a partir de la fecha indicada en la recepción del aviso de declaración de apertura, o en la expedición de la licencia de funcionamiento, según sea el caso.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Para la aplicación de las reducciones a que se refiere este artículo, se entenderá que una empresa inicia operaciones a partir de la fecha indicada en la presentación del Aviso o en la expedición del Permiso correspondiente, según sea el caso.
 
 Tratándose de industrias, se entenderá que inicia operaciones a partir de la fecha de expedición del visto bueno de seguridad y operación.
 
@@ -6902,15 +6954,13 @@ Para obtener los beneficios a que se refiere este artículo, las personas físic
 
 También gozarán de este beneficio, las personas físicas o morales que obtengan los premios derivados o relacionados con las actividades a que se refiere el primer párrafo de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 296.
 
 Los predios que sean ejidos o constituyan bienes comunales que sean explotados totalmente para fines agropecuarios, tendrán derecho a una reducción equivalente al 50% respecto del pago de impuesto predial, para lo cual deberán acreditar que el predio de que se trate sea un ejido explotado totalmente para fines agropecuarios mediante la constancia del Registro Agrario Nacional correspondiente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
 Asimismo, las personas físicas o morales que acrediten ser propietarias de edificios respecto de los cuales demuestren la aplicación de sistemas sustentables ante la Secretaría del Medio Ambiente, gozarán de la reducción del 10% del impuesto predial, correspondiente a dicho inmueble, previa obtención de constancia emitida por la Secretaría antes mencionada.
 
@@ -7040,9 +7090,13 @@ b). Los aprovechamientos que se cobren por el uso o disfrute de bienes o por la 
 
 c). Se podrán establecer aprovechamientos diferenciales por el uso de bienes o prestación de servicios, cuando éstos respondan a estrategias de comercialización o racionalización y se otorguen de manera general. La omisión total o parcial en el cobro de los aprovechamientos establecidos en los términos de este Código, afectará a los Órganos, disminuyendo una cantidad equivalente a dos veces el valor de la omisión efectuada del presupuesto del Órgano de que se trate.
 
-d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con declaración de apertura o licencia ordinarias, que no sean consideradas de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 días de salario mínimo vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
 
-Quedan exceptuadas del pago en parcialidades las multas previstas en los artículos 85, 86, 87 y 88 de la Ley de Establecimientos Mercantiles del Distrito Federal.
+d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con aviso o permiso con giro de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 días de salario mínimo vigente en el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 19 DE MAYO DE 2011)</small>
+
+Quedan exceptuadas del pago en parcialidades las multas previstas en los artículos 64, 65, 66, 67, 68 y 69 de la Ley de Establecimientos Mercantiles del Distrito Federal.
 
 Los aprovechamientos derivados del ejercicio de las funciones de las áreas que los generen, podrán destinarse preferentemente a la operación de dichas áreas, previa autorización de la Secretaría, de conformidad con las reglas generales que emita, las cuales se publicarán a más tardar el día veinte de enero de cada año en la Gaceta Oficial del Distrito Federal.
 
@@ -10448,6 +10502,8 @@ Para los efectos de dar a conocer el nivel de desarrollo al que pertenecen las m
 
 > <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 30 DE DICIEMBRE DE 2010, PAGINAS DE LA 255 A LA 401.</small>
 
+> <small>N. DE E. VEASE MODIFICACIONES DE LA CLASIFICACION DE LAS MANZANAS, G.O. 19 DE MAYO DE 2011, PAGINAS DE LA 11 A LA 15.</small>
+
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Se otorgará la condonación en el pago de los derechos por el suministro de agua a partir del año 2007, a los usuarios de uso doméstico o mixto, así como a los mercados y concentraciones públicas, que hayan recibido el suministro de agua de manera irregular.
@@ -10571,3 +10627,65 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida o
 SEGUNDO.- Con el objeto de brindar certeza jurídica respecto de la vigencia de las fracciones IV y VI del artículo 58 del Código Fiscal, con la publicación del presente Decreto se confirma que es correcto el texto de la reforma al artículo 58 en lo que se refiere a sus cuotas, como aparece publicado en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal del Distrito Federal, no así el intríngulis de dicho Decreto, que erróneamente señala que se derogan las fracciones IV y VI; por lo que se aclara que el texto de dichas fracciones sigue vigente.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 19 DE MAYO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- La autoridad fiscal implementará durante el ejercicio fiscal 2011, mecanismos administrativos para disminuir créditos fiscales derivados de derechos por el suministro de agua e impuesto predial, en términos de lo dispuesto en el artículo 106 de este Código, en los siguientes casos:
+
+a) Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal.
+
+b) Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua cuyo uso sea doméstico y no doméstico simultáneamente, determinados por la autoridad fiscal menores a 1000 días de salario mínimo general diario vigente en el Distrito Federal.
+
+Con el objeto de evitar requerimientos que dilaten el procedimiento, la autoridad fiscal estará obligada a proporcionar el formato de solicitud correspondiente, mismo que será presentado en la Procuraduría Fiscal debidamente requisitado, adjuntando la boleta de agua y/o predial del domicilio respecto del cual se está solicitando la disminución, la copia simple de identificación oficial del promovente y estudio socioeconómico expedido por autoridad competente.
+
+Ingresada la solicitud, la Procuraduría Fiscal dentro del término de los diez días hábiles siguientes a su recepción, solicitará a la autoridad fiscal correspondiente, determine el crédito fiscal a cargo del contribuyente; información que deberá ser remitida dentro de los diez días hábiles siguientes a la solicitud de la determinante.
+
+Una vez que la Procuraduría Fiscal cuente con todos los elementos procederá a emitir la resolución respectiva, misma que se notificará al contribuyente en un plazo no mayor a diez días hábiles contados a partir del día siguiente en que reciba la determinante del crédito fiscal, remitiendo a su vez copia de conocimiento de dicha resolución a la autoridad fiscal correspondiente, con el propósito de que en un plazo no mayor a los treinta días hábiles contados a partir de la notificación, el contribuyente realice el pago del crédito fiscal aplicando la resolución de disminución, de lo contrario la autoridad fiscal procederá al cobro del crédito fiscal respectivo.
+
+Los mecanismos a que se refiere este artículo deberán emitirse y publicarse dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se modifica la clasificación de las siguientes manzanas contenidas en las tablas del Artículo Décimo Quinto Transitorio del Código Fiscal del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 30 de diciembre del 2010 para quedar como sigue:
+
+> <small>N. DE E. VEASE TABLA EN LA G.O. DE 19 DE MAYO DE 2011, PAGINAS DE LA 11 A LA 15.</small>
+
+CUARTO.- Para el correcto cobro de los derechos por el suministro de agua, será obligatorio para todos los usuarios de las tomas, contar con el medidor de consumo respectivo, excepto para aquellos usuarios localizados en una zona con dictamen técnico emitido por el Sistema de Aguas, cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial del Distrito Federal.
+
+Por lo anterior, durante el presente ejercicio fiscal 2011 y el de 2012, el Sistema de Aguas implementará un Programa de colocación de medidores de consumo de agua. Al pago que deba realizar el usuario que con anterioridad a la entrada en vigor del programa, no contaba con medidor instalado, no le será aplicable lo previsto en el artículo 181 Aparato (sic) A, Fracción V segundo párrafo del Código Fiscal; por tanto, el pago lo realizará conforme a lo dispuesto en el cuarto párrafo del presente artículo transitorio.
+
+El Sistema de Aguas realizará visitas para la instalación de medidor y armado de cuadro a aquellas tomas que aún no cuentan con dicho dispositivo instalado.
+
+El programa de instalación de medidores de consumo de agua, tendrá como objetivo instalar el aparato de medición en los casos donde sea factible y para ello se otorgará a los usuarios el subsidio a que se refiere el párrafo sexto del artículo 181 de este Código, dicho cargo se incluirá en la boleta de cobro durante los siguientes dieciocho bimestres posteriores a la instalación del medidor.
+
+En tanto no se encuentre instalado el medidor en la toma, el cobro de derechos se realizará con base en lo descrito por la fracción II iniciso (sic) b) del artículo 172 de este Código.
+
+QUINTO.- Tratándose de usuarios que deban regularizar el servicio de suministro de agua y estar dados de alta en el padrón de usuarios, ya sea para asignación de cuenta, instalación de medidor, regularización de toma clandestina y/o lo referente a lo establecido para la conexión o reconstrucción de descargas, por única ocasión se les condonará el pago de las multas y recargos que establece este Código y la Ley de Aguas del Distrito Federal en sus artículos 110, 111, 112, 113 y 114; y sólo estarán obligados a realizar el pago correspondiente al 50% del monto establecido mediante cuatro pagos parciales, los cuales se añadirán a los cargos por suministro de agua potable en la boleta emitida por el Sistema de Aguas de la Ciudad de México, y en el caso del drenaje, bastará la presentación del recibo del primer pago realizado ante la autoridad correspondiente, conforme al convenio realizado para este fin, para proceder a la construcción correspondiente.
+
+Para los efectos de lo mencionado en el párrafo anterior, los interesados deberán presentar la siguiente documentación:
+
+a) Solicitud por escrito ante el Sistema de Aguas de la Ciudad de México;
+
+b) Comprobante de domicilio (recibo ya sea de cobro por los servicios de energía eléctrica, teléfono o cualquier otro en el que conste la dirección del predio e interesado);
+
+c) Carta bajo protesta de decir verdad en la cual se manifieste su domicilio, firmada por dos testigos;
+
+d) Identificación oficial con fotografía, tanto del solicitante como de los dos testigos; y
+
+f (sic)) Croquis de localización del predio a beneficiar, con colindantes (en caso de ser necesario).
+
+Reunidos los requisitos anteriores, la autoridad deberá inscribir al solicitante en el Padrón de usuarios del suministro de agua potable, siempre y cuando el predio de que se trate tenga uso de suelo habitacional.
+
+SEXTO.- Para el ejercicio fiscal 2011, no estarán obligados al pago de los derechos por el suministro de agua previstos en el artículo 172 de este Código, aquellos usuarios en cuyo domicilio se encuentre instalado un comedor popular o comedor comunitario perteneciente a cualquiera de los Programas del Gobierno del Distrito Federal.
+
+Para efectos del cumplimiento de este precepto, el usuario acreditado por el Gobierno del Distrito Federal en cualquiera de los Programas de comedores, deberá presentar la constancia emitida por autoridad competente, que certifique que se encuentra operando un comedor del Gobierno del Distrito Federal.
+
+En caso de tener adeudos por este concepto, éstos le serán reducidos en un 100%, siempre y cuando demuestre que en esos bimestres ya se encontraba instalado y en operación el comedor.
+
+SÉPTIMO.- Cuando la autoridad fiscal, determine o liquide el impuesto predial omitido o sus diferencias, causado por el otorgamiento del uso o goce temporal de inmuebles, considerará únicamente los valores unitarios del suelo y construcción, emitidos por la Asamblea Legislativa del Distrito Federal vigentes en el año en que se generó el impuesto.
+
+El beneficio previsto en este artículo no da derecho a devolución o compensación alguna de las cantidades que se hayan pagado con anterioridad.
+
+OCTAVO.- El Sistema de Aguas está obligado a establecer un programa permanente de información a los usuarios de servicio doméstico; así como a los usuarios de uso doméstico y no doméstico simultáneamente, acerca de la exención con la que cuentan los jubilados, pensionados, los adultos mayores, las personas con discapacidad y las madres jefas de familia, prevista en el artículo 177 del Código Fiscal del Distrito Federal. Al efecto, procederá a colocar carteles visibles afuera de cada una de las oficinas de atención a usuarios con dicha información, de manera clara y entendible, lo mismo en la página electrónica del Sistema y mediante volantes o trípticos informativos.
+
+NOVENO.- Aquellos usuarios del servicio de suministro de agua que se encuentren actualmente en manzana alta, y que durante el primer bimestre de 2011 su boleta de cobro contemple su facturación en cuota fija, no estarán obligados a pagar el monto que específica dicha boleta, sino la cuota que estipula el presente Decreto en el artículo 172, fracción II, inciso A, quedando sin efecto los accesorios que se pudiesen haber generado a falta de pago oportuno. El Sistema de Aguas procederá, sin más trámite a hacer el ajuste correspondiente.
