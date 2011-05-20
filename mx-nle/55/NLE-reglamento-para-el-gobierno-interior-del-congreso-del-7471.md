@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2010-12-09"
+last_updated: "2011-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -595,13 +595,17 @@ e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
 f) Las iniciativas en materia de ciencia y tecnología del Estado;
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2011)</small>
+
+g) Lo relativo al desarrollo y fomento de la investigación científica y tecnológica en el Estado;
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2011)</small>
+
+h) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nuevo León; e
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-g) Lo relativo al desarrollo y fomento de la investigación científica y tecnológica en el Estado; y
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
-
-h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1205,7 +1209,7 @@ I.- Realizar los estudios, análisis y proyectos de iniciativas contenidos en su
 
 II.- Participar en la elaboración de la Agenda Legislativa, de acuerdo a las instrucciones que reciba de la Comisión de Coordinación y Régimen Interno;
 
-IIII.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
+III.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
 
 IV.- La elaboración mensual de reportes analíticos, estadísticos y de recomendaciones técnicas derivados de los programas de investigación;
 
@@ -2272,3 +2276,7 @@ P.O. 9 DE DICIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 20 DE MAYO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
