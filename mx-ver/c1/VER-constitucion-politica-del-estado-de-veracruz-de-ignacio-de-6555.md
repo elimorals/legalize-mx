@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2011-05-18"
+last_updated: "2011-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2011.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1861,7 +1861,7 @@ f) La información pública se obtendrá mediante el procedimiento expedito señ
 
 g) El silencio de la autoridad ante las solicitudes de acceso a la información configurará la afirmativa ficta. La omisión de proporcionar la información en los plazos que establezca la ley trae aparejada responsabilidad administrativa.
 
-(El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
+El Instituto será competente para conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se incoen contra las autoridades.
 
 La ley fijará las responsabilidades y sanciones aplicables por la comisión de infracciones.
 
@@ -2165,29 +2165,29 @@ Cuando por circunstancias imprevistas no pueda instalarse el Congreso o el Gober
 
 Si el día que el Gobernador deba iniciar el ejercicio de sus funciones el Congreso del Estado no estuviere instalado, aquél rendirá protesta de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2011)</small>
 
 ###### Artículo 82.
 
-Los cargos públicos del estado durarán el tiempo señalado por las leyes, y los que los obtengan no generarán derecho alguno a su favor para conservarlos.
+Los cargos públicos del Estado durarán el tiempo señalado por las leyes, y los que los obtengan no generarán derecho alguno a su favor para conservarlos.
 
-Los servidores públicos del estado, de sus municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Los servidores públicos del Estado, de sus municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República ni a la del Gobernador del Estado, establecidas éstas en los presupuestos de egresos correspondientes.
+Il. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República, establecidas éstas en los presupuestos de egresos correspondientes. Ningún servidor público de la administración pública estatal podrá recibir remuneración mayor a la del Gobernador del Estado.
 
-III. Ningún servidor público podrá tener una remuneración igualo mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República ni de la mitad de la señalada para el Gobernador del Estado, en los presupuestos correspondientes.
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República ni de la mitad de la señalada para el Gobernador del Estado, en los presupuestos correspondientes.
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que se encuentren asignados por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie.
 
-No podrán reunirse en una sola persona dos o más cargos de carácter remunerado del estado, de éste y la Federación, del estado y el municipio, y de este último y la Federación, salvo previa autorización del Congreso o la diputación permanente en los términos que señale la ley. Quedan exceptuados de esta disposición, los empleos del ramo de la enseñanza y las consejerías o representaciones ante órganos colegiados.
+No podrán reunirse en una sola persona dos o más cargos de carácter remunerado del Estado, de éste y la Federación, del Estado y el municipio, y de este último y la Federación, salvo previa autorización del Congreso o la Diputación Permanente en los términos que señale la ley. Quedan exceptuados de esta disposición los empleos del ramo de la enseñanza y las consejerías o representaciones ante órganos colegiados, así como aquellos cargos que por efectos de un convenio de coordinación o alguna disposición legal, requieran para su ejercicio que el servidor público ostente simultáneamente dos nombramientos de diferentes ámbitos de gobierno. En tal caso, bastará que dicho servidor público informe al Congreso que se encuentra en tal circunstancia y éste podrá disponer la verificación necesaria.
 
-Todos los servidores públicos del estado y los municipios, al entrar a desempeñar sus cargos, harán la protesta formal de guardar y cumplir con la Constitución Federal, esta Constitución y las leyes que de ellas emanen.
+Todos los servidores públicos del Estado y los municipios, al entrar a desempeñar sus cargos, harán la protesta formal de guardar y cumplir con la Constitución Federal, esta Constitución y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -11994,6 +11994,14 @@ Artículo Cuarto. En caso de existir duda o contradicción fundada sobre la cons
 G.O. 18 DE MAYO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 20 DE MAYO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+Tercero. El Congreso del Estado deberá expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, a más tardar durante el segundo período ordinario de sesiones posterior a la entrada en vigor de la presente reforma.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
