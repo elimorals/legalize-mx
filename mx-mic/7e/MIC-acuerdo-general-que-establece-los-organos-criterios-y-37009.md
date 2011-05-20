@@ -4,7 +4,7 @@ identifier: "MIC-acuerdo-general-que-establece-los-organos-criterios-y-37009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-02-03"
-last_updated: "2004-02-03"
+last_updated: "2011-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 ACUERDO GENERAL QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA EL ACCESO A LA INFORMACION PUBLICA DEL TRIBUNAL ELECTORAL DEL ESTADO Y DEL CENTRO DE CAPACITACION, INVESTIGACION Y DIFUSION DEL DERECHO ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL ELECTORAL DEL ESTADO DE MICHOACAN EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Michoacán, el martes 3 de febrero de 2004.
 
@@ -360,3 +362,17 @@ Tribunal Electoral del Estado, Morelia, Michoacán de Ocampo, a 28 veintiocho de
 La Presidenta del Tribunal Electoral del Estado y Coordinadora General del Centro de Capacitación, Investigación y Difusión del Derecho Electoral.- Magistrada María de los Ángeles Llanderal Zaragoza.
 
 (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MAYO DE 2011.
+
+Artículo Primero. Se expide el presente Reglamento aprobado por el Pleno del Tribunal Electoral del Estado, en sesión pública de 16 de mayo de 2011 dos mil once.
+
+Artículo Segundo. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Tercero. Se abroga el Acuerdo General que establece los Órganos, Criterios y Procedimientos Institucionales para el Acceso a la Información Pública del Tribunal Electoral del Estado y del Centro de Capacitación, Investigación y Difusión del Derecho Electoral, aprobado en sesión de Pleno el 28 de enero de 2004, publicado en el Periódico Oficial del Estado el 3 de febrero de 2004.
+
+Artículo Cuarto. Notifíquese, por oficio, la expedición del presente Reglamento al Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán.
+
+Artículo Quinto. Se instruye a la Coordinación de Comunicación Social del Tribunal Electoral del Estado, para que IIeve a cabo la implementación del presente Reglamento.
