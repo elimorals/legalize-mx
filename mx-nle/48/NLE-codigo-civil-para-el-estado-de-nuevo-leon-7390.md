@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-04-15"
+last_updated: "2011-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2529,9 +2529,9 @@ Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a
 
 Determinados por convenio o por el Juez en cantidad fija, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no crecieron en igual proporción, en este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2011)</small>
 
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez estimará las ganancias de éste con base en los signos exteriores de riqueza que demuestre.
+Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez estimará las ganancias de éste con base en los signos exteriores de riqueza que demuestre o en la capacidad económica y respecto al nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los últimos años.
 
 ###### Art. 312.
 
@@ -16810,6 +16810,10 @@ P.O. 4 DE ABRIL DE 2011.
 P.O. 15 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2011.
+
+Único.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
