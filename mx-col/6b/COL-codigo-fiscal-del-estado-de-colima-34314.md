@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-34314"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-04"
-last_updated: "2010-12-25"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Código publicado en Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 2003.
 
@@ -47,9 +47,13 @@ Es de aprobarse y se aprueba el Código Fiscal del Estado de Colima, en los sigu
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2011)</small>
 
-### CAPITULO UNICO
+## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES, LOS MEDIOS ELECTRONICOS Y LA FIRMA ELECTRONICA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -241,11 +245,61 @@ VIII.- Código, al Código Fiscal del Estado;
 
 IX.- Registro, al Registro Estatal de Contribuyentes;
 
-X.- Periódico Oficial, al Periódico Oficial "El Estado de Colima"; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-XI.- Unidad de salario, al salario mínimo general diario vigente en el Estado, en el momento de la realización de la situación jurídica o de hecho prevista en este Código.
+X.- Periódico Oficial, al Periódico Oficial "El Estado de Colima";
 
-### CAPITULO UNICO
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XI.- Unidad de salario, al salario mínimo general diario vigente en el Estado, en el momento de la realización de la situación jurídica o de hecho prevista en este Código;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XII.- Documento electrónico o digital: El redactado en soporte electrónico que incorpore datos que estén firmados electrónicamente, con validez jurídica;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIII.- Documento escrito o físico: Documento en papel expedido o recibido por las autoridades, en la realización de trámites y procedimientos de naturaleza fiscal;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIV.- Firma electrónica certificada: Aquella que ha sido certificada por la Autoridad Certificadora, en los términos que señale la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de éste y la identidad del firmante;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XV.- Firmante: Es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVI.- Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
+
+### CAPITULO II. DE LOS MEDIOS ELECTRONICOS Y LA FIRMA ELECTRONICA
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 23 BIS.- Para los efectos del presente ordenamiento, se podrán utilizar los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología, siempre que sea compatible con los sistemas establecidos; así como la firma electrónica certificada en los documentos físicos o electrónicos expedidos por las autoridades fiscales del Estado, y su utilización por los particulares en los casos previstos en este Código, supuesto en el cual se sujetará a lo establecido en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 23 BIS 1.- Los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, y demás conceptos de ingreso que el Estado tenga derecho a percibir por cuenta propia o ajena, se podrán pagar a través de los medios electrónicos, utilizando la página de internet de la Secretaría o cualquier otro medio que se establezca para tal efecto.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 23 BIS 2.- Cuando las disposiciones establecidas en este Código obliguen a presentar documento escrito o físico, éstos podrán ser exhibidos en formato electrónico, magnético o utilizando cualquier otra tecnología, pero deberán ser autorizados, con la firma electrónica certificada del autor, salvo los casos que establezcan una regla diferente. La Secretaría, mediante reglas de carácter general, podrá autorizar el uso de otras firmas electrónicas.
+
+En los documentos electrónicos, una firma electrónica certificada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizando la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio conforme a las disposiciones aplicables al efecto.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 23 BIS 3.- Cuando se exija la forma escrita para la celebración de actos, convenios, contratos o trámites señalados en el presente Código, la Secretaría mediante disposiciones de carácter general, podrá autorizar la presentación da documentos electrónicos y mensajes de datos, siempre que la información en ellos contenida se mantenga íntegra y sea accesible para su ulterior consulta, en este caso, no será necesario enviar el documento escrito.
+
+Si se trata de información documental o electrónica, firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de internet de la institución que los emitió y autorizó.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 23 BIS 4.- Los documentos electrónicos, ópticos, magnéticos o de cualquier otra tecnología, autorizados de conformidad con los artículos anteriores, tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -455,7 +509,7 @@ X.- Las demás que dispongan las leyes fiscales.
 
 ## TITULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
-### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO UNICO
 
 ###### ARTICULO 38.
 
@@ -469,9 +523,19 @@ III.- Mantener oficinas en diversos lugares del territorio estatal que se ocupar
 
 IV.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia;
 
-V.- Señalar en forma precisa, en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos, a qué estén obligados, cuál es el documento cuya presentación se exige; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-VI.- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+V.- Señalar en forma precisa, en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos, a qué estén obligados, cuál es el documento cuya presentación se exige;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+VI.- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+VII.- Promover e impulsar la realización de trámites a través de medios electrónicos, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los Gobiernos Federal, Estatal, Municipal, los Poderes Legislativo y Judicial, los Organismos Autónomos y los sectores públicos y privados.
+
+Las actuaciones a que se refiere este capítulo podrán ser firmadas y autorizadas con la firma autógrafa o electrónica certificada de quien las emite.
 
 ###### ARTICULO 39.
 
@@ -789,7 +853,7 @@ Durante el transcurso de las prórrogas que se concedan para el pago de un créd
 
 ## TITULO CUARTO. DE LAS INFRACCIONES, DE LAS SANCIONES Y DE LOS DELITOS FISCALES
 
-### CAPITULO II. DE LOS DELITOS FISCALES
+### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 61.
 
@@ -1129,7 +1193,7 @@ II.- De cuarenta y cinco a ciento veinte unidades de salario, para la prevista e
 
 III.- De uno a dos tantos el importe de las contribuciones omitidas, para las señaladas en las fracciones II, III, IV, VII y VIII.
 
-### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 86.
 
@@ -1301,7 +1365,7 @@ En todo lo no previsto en este Capítulo, serán aplicables las reglas consignad
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPITULO II. DE LAS NOTIFICACIONES Y DE LA GARANTIA DEL INTERES FISCAL
+### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 107.
 
@@ -1475,7 +1539,7 @@ IV.- Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al re
 
 Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se desechará dicho recurso.
 
-### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO II. DE LAS NOTIFICACIONES Y DE LA GARANTIA DEL INTERES FISCAL
 
 ###### ARTICULO 123.
 
@@ -1598,6 +1662,8 @@ Cuando se garantice el interés fiscal el contribuyente tendrá la obligación d
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee.
 
 En el caso de que la autoridad compruebe por cualquier medio que la declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el segundo párrafo del artículo 133 de este Código.
+
+### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -2152,3 +2218,7 @@ P.O. 25 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2011 el monto se ajustará a la decena de pesos inferior más próxima.
+
+P.O. 21 DE MAYO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
