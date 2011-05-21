@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2011-04-05"
+last_updated: "2011-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1265,13 +1265,17 @@ XI. La investigación, en su caso, de los méritos que se adjudican a los potosi
 
 XII. Convocar anualmente, a la celebración del Parlamento de las y los Jóvenes del Estado de San Luis Potosí; que se realizará en coordinación con la instancia de juventud del Gobierno del Estado, el Consejo Estatal Electoral y de Participación Ciudadana, y los ayuntamientos de la Entidad; establecer las bases para el desarrollo del evento y, previo análisis de las propuestas de los participantes, elaborar y, con base en ellas, presentar al Pleno las iniciativas que estime conducentes;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-XIII. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+XIII. Organizar, de preferencia en el mes (sic) abril, el Parlamento de los Niños y las Niñas;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-XIV. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+XIV. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XV. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 109.
 
@@ -1920,5 +1924,11 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
 P.O. 5 DE ABRIL DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor a los sesenta días hábiles posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
