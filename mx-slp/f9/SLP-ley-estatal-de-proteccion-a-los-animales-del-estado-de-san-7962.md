@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2010-12-28"
+last_updated: "2011-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 24 DE MAYO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -391,9 +393,11 @@ Asimismo, se evitará que los animales presencien el sacrificio de animales de s
 
 Los animales silvestres sacrificados por la actividad cinegética o aquéllos en cautiverio para el consumo humano, estarán sujetos a las normas establecidas por las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 47.
 
-El sacrificio de animales domésticos que sean para alimento humano, deberá hacerse en los rastros municipales, como un servicio público de conformidad con el artículo 115 fracción III inciso f de la Constitución Política de los Estados Unidos Mexicanos.
+El sacrificio de animales domésticos que sean para alimento humano deberá hacerse en los rastros municipales, como un servicio público, de conformidad con el artículo 115 fracción III inciso f) de la Constitución Política de los Estados Unidos Mexicanos, y las normas oficiales mexicanas aplicables.
 
 ###### ARTICULO 48.
 
@@ -802,3 +806,9 @@ P.O. 28 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
