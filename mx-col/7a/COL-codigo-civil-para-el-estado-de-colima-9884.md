@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-04-16"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -989,21 +989,15 @@ ART. 84.- Dictada la resolución judicial definitiva que autorice la adopción, 
 
 ART. 85.- La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 81.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
-ART. 86.- El acta de adopción simple contendrá los nombres, apellidos, y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+ART. 86.- En los casos de adopción plena, se levantará un acta en los mismos términos que la de hijos consanguíneos, sin perjuicio de lo dispuesto por el artículo siguiente.
 
-En los casos de adopción plena, se levantará un acta en los mismos términos que la de hijos consanguíneos, sin perjuicio de lo dispuesto por el segundo párrafo del artículo siguiente.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+ART. 87.- En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior, se harán las anotaciones en el acta de nacimiento del adoptado, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen ni su condición de hijo adoptivo, salvo providencia dictada en juicio.
 
-ART. 87.- Extendida el acta de la adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
-
-En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el segundo párrafo del artículo anterior, se harán las anotaciones en el acta de nacimiento del adoptado, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen ni su condición de hijo adoptivo, salvo providencia dictada en juicio.
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
-
-ART. 88.- El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+ART. 88.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ### CAPITULO V. De las actas de tutela
 
@@ -1385,9 +1379,7 @@ XI. El no haber asistido a las pláticas de orientación matrimonial a que se re
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
-
-ART. 157.- Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+ART. 157.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 158.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
 
@@ -1981,9 +1973,7 @@ En el caso de la adopción plena, se equiparará al parentesco por consanguinida
 
 ART. 294.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
-
-ART. 295.- El parentesco civil es el que nace de la adopción simple, y sólo existe entre adoptante y adoptado.
+ART. 295.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 296.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 
@@ -2413,9 +2403,7 @@ ART. 390.- La adopción es un acto jurídico; mediante el cual una persona asume
 
 ART. 390 A.- Las personas no menores de veinticinco años ni mayores de sesenta y cinco años, en pleno ejercicio de sus derechos, pueden adoptar a una o más personas menores de dieciocho o con discapacidad aún cuando sean mayores de edad, siempre que el adoptante tenga por lo menos quince años más que el adoptado y lo haga en forma personal y no por conducto de apoderado o representante.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 390 B.- La adopción puede ser plena o simple. La adopción simple podrá convertirse en plena cuando se cumplan los requisitos de ley.
+ART. 390 B.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2499,13 +2487,11 @@ ART. 393.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan
 
 ART. 393 A.- La persona que haya tenido al sujeto de adopción bajo su custodia y protección por un período superior a seis meses, en igualdad de circunstancias tendrá un derecho preferente para adoptar.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 394.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 394.- La persona menor de edad o la persona que no tenga la capacidad de comprender el significado de los hechos que haya sido adoptado mediante adopción simple, podrá impugnar la adopción dentro del año siguiente a obtener la mayoría de edad o de la fecha en que haya desaparecido la incapacidad.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 395.- El adoptado llevará los apellidos del adoptante o el primer apellido de los adoptantes, según el caso, quienes tendrán el derecho de cambiarle el nombre, haciéndose las anotaciones correspondientes en el acta de adopción, salvo que, por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente a juicio del Juez el cambio de dicho nombre o nombres.
+ART. 395.- El adoptado llevará los apellidos del adoptante o el primer apellido de los adoptantes, según el caso, quienes tendrán el derecho de cambiarle el nombre, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2577,97 +2563,37 @@ ART. 401.- El Juez que apruebe la adopción remitirá copia de las diligencias r
 
 ART. 401 A.- Cuando el Juez resuelva no autorizar la adopción de la persona que se pretenda adoptar, y ésta se encuentre viviendo con el solicitante, decretará la separación y ordenará el depósito, del sujeto de la adopción, en el Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia.
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
 
 #### SECCION SEGUNDA. De la adopción simple
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 402.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 402.- La adopción simple es el acto jurídico por que el que sólo se crea un vínculo jurídico de parentesco entre el adoptado y el adoptante.
+ART. 402 A.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 403.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 402 A.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de este caso en el que se observará lo que dispone el artículo 157 de este ordenamiento.
+ART. 403 A.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 404.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 403.- Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, los cuales permanecerán suspendidos respecto de los progenitores, transfiriéndose el ejercicio de la patria potestad al adoptante, junto con la administración y usufructo de los bienes que posea el adoptado, salvo que esté casado con uno de los progenitores del adoptado, pues entonces aquella se ejercerá por ambos cónyuges.
+ART. 405.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-El adoptante otorgará caución a criterio del Juez, cuando éste lo considere necesario.
+ART. 406.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 407.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 403 A.- No obstante lo dispuesto en el artículo 392, en la adopción simple, la persona que haya sido adoptada con anterioridad, sí podrá ser nuevamente adoptada por otra u otras personas distintas, siempre y cuando el adoptante o adoptantes anteriores hayan muerto, hayan sido judicialmente declarados ausentes o se les haya revocado judicialmente la adopción de que se trate.
+ART. 408.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 409.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 404.- La adopción simple podrá convertirse en plena, cuando se obtenga el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere persona menor de esa edad, se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario, el Juez deberá resolver atendiendo al interés superior del adoptado.
+ART. 409 A.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-La adopción simple producirá sus efectos aunque sobrevengan hijos al adoptante.
+ART. 409 B.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+ART. 409 C.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 405.- La adopción simple puede revocarse:
-
-I Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme al artículo 397 de este Código, cuando fueren de domicilio conocido y a falta de ellas, al Ministerio Público o al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
-
-II Por ingratitud del adoptado; oyendo al Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
-
-III Cuando dejaren de reunirse los requisitos a que se refiere el artículo 390-C de este Código, a juicio del Sistema Estatal para el Desarrollo Integral de la Familia por conducto de la Procuraduría para la Defensa del Menor y la Familia;
-
-IV Cuando el Consejo de Adopciones del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto de la Procuraduría para la Defensa del Menor y la Familia, justifique que existe causa grave que ponga en peligro los derechos fundamentales del adoptado, o se ejerza violencia intrafamiliar en contra de éste;
-
-V Por inducir el adoptante o sus parientes, al adoptado, a la perversión física o moral, a la corrupción o a la mendicidad, así como cometer en contra del adoptado los actos de explotación, ya sea que la procure o la facilite, o incurra en actos contra la libertad personal y el libre desarrollo de la personalidad del propio adoptado;
-
-VI Por alguna de las causas que para la pérdida de la patria potestad establece este Código, en este caso, la revocación de la adopción podrá solicitarse por el Ministerio Público, si el adoptado es menor de edad; y
-
-VII Por impugnación del adoptado.
-
-En los casos de la solicitud de revocación por las fracciones IV, V y VI de este artículo, el Ministerio Público, solicitará al Juez protección del menor de edad, que se ordene la separación inmediata del adoptado y lo pondrán a la protección y cuidado de los ascendientes a los que legalmente les corresponda el ejercicio de la patria potestad; a su falta o impedimento, el sujeto de adopción, pasará a la custodia del Sistema Estatal para el Desarrollo Integral de la Familia y dentro de las veinticuatro horas siguientes pedirá al Juez la revocación de la adopción, quien deberá resolver en un término de setenta y dos horas a partir de la fecha de la solicitud, de no faltar ninguna prueba que desahogar.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 406.- Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I Si comete algún delito intencional que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II Si formula denuncia o querella en contra del adoptante o los adoptantes por algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge o la persona que viva con él, sus ascendientes o descendientes o de una persona que no tenga la capacidad de comprender el significado de los hechos de que sea tutor el adoptante, aun cuando no haya parentesco entre ellos;
-
-III Si el adoptado rehusó dar alimentos al adoptante que ha caído en pobreza o que haya resultado con alguna forma de incapacidad o caído en pobreza; y
-
-IV Si el adoptado ejerce actos de violencia intrafamiliar en contra del adoptante.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 407.- En el caso de la fracción I del artículo 405, el Juez decretará que la adopción quede revocada si, convencido de la espontaneidad con que se solicitó la revocación encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-En todo caso subsisten las obligaciones alimentarías a cargo del adoptado, si el adoptante ha caldo en la pobreza o sufra alguna forma de incapacidad.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 408.- El decreto del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta. Con excepción de los (sic) dispuesto en el último párrafo del artículo que antecede.
-
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 409.- En el caso de la fracción II, del artículo 405, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 409 A.- La acción de revocación de la adopción por causa de ingratitud no puede ser renunciada anticipadamente, y prescribe en un año, contado a partir de que se comete el acto de ingratitud, o bien, desde que se adquiera la mayoría de edad o desaparezca la incapacidad.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 409 B.- La persona menor de edad o con discapacidad aun cuando sean mayor de edad que hayan sido adoptados por parientes consanguíneos, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la discapacidad, sin especificación de causa.
-
-La impugnación antes mencionada debe plantearse por el adoptante, o de oficio por el Ministerio Público si no ha cumplido su mayoría de edad, pero siempre será oído el Sistema para el Desarrollo Integral de la Familia.
-
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 409 C.- El procedimiento para la revocación por la causal prevista en la fracción I del Artículo 405 de este Código, se sujetará a lo previsto por el artículo 924 del Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 409 D.- Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquella se hizo para los efectos de su tramitación y se hagan las anotaciones correspondientes en el archivo físico y en la base de datos.
+ART. 409 D.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
@@ -2767,9 +2693,7 @@ Cuando no se hubiese presentado la solicitud ante el Juez competente, podrán ha
 
 Si existe oposición de los herederos, o no lo solicita el cónyuge a nombre del extinto y sólo lo hace al suyo, sólo tendrá efectos para él.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
-
-ART. 410 Ñ.- Cuando el Tribunal juzgue conveniente no otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de dos años, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe del Sistema para el Desarrollo Integral de la Familia.
+ART. 410 Ñ.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -6115,17 +6039,13 @@ ART. 1501.- Si sólo quedaren descendientes de ulterior grado, la herencia se di
 
 ART. 1502.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
-ART. 1503.- El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+ART. 1503.- El adoptado adquiere los mismos derechos y obligaciones como hijo, por consiguiente, hereda como tal.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+ART. 1504.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
-ART. 1504.- Concurriendo padres adoptantes y descendientes del adoptado en la forma simple, los primeros sólo tendrán derecho a alimentos.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
-
-ART. 1504 BIS.- Concurriendo los adoptantes con ascendientes del adoptado en la forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+ART. 1504 BIS.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 
 ART. 1505.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
@@ -11192,5 +11112,9 @@ DECRETO NUMERO 301, POR EL QUE SE ADICIONA EL ARTICULO 12 Y SE REFORMAN LOS ARTI
 P.O. 16 DE ABRIL DE 2011.
 
 DECRETO NUMERO 302, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 196 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE MAYO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
