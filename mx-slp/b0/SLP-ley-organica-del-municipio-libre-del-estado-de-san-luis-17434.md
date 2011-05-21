@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2011-04-14"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -267,7 +267,7 @@ Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que estab
 
 ###### ARTICULO 12.
 
-En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como un cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
+En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
 
 La competencia que otorga al gobierno municipal la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y demás ordenamientos, se ejercerá por el Ayuntamiento de manera exclusiva.
 
@@ -461,7 +461,9 @@ VII. Participar en el ámbito de su competencia, de conformidad con las leyes fe
 
 VIII. Participar en la formulación de planes de desarrollo regional, que deberán estar en concordancia con los planes generales en la materia;
 
-IX. Contar con plano de la cabecera municipal, en el que se indique el fundo legal y la ubicación de los bienes inmuebles de su patrimonio; asimismo, contar con un plano del municipio y de la cabecera municipal en el que se indiquen los usos de suelo, debiendo actualizarlo por lo menos en forma bianual;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+IX. Contar a más tardar durante el segundo semestre de la administración, con el plano de la cabecera municipal, en el que se indique el fundo legal y la ubicación de los bienes inmuebles de su patrimonio; asimismo, contar con un plano del municipio y de la cabecera municipal, en el que se indiquen los usos de suelo, debiendo actualizarlo por lo menos en forma bianual;
 
 X. Participar en la creación y administración de sus reservas territoriales y zonas de reserva ecológica, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
@@ -2318,3 +2320,9 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 14 DE ABRIL DE 2011.
 
 UNICO. Este Decreto entrará en vigor una vez que haya entrado en vigencia la reforma a los artículos, 57 fracción VII, y 114 fracción I en su segundo párrafo, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y previa publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
