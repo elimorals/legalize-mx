@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2010-12-18"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -39,9 +39,13 @@ Es de aprobarse y se aprueba el Código Fiscal Municipal del Estado de Colima, e
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2011)</small>
 
-### CAPITULO UNICO
+## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES, LOS MEDIOS ELECTRONICOS Y LA FIRMA ELECTRONICA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTICULO 1º.
 
@@ -75,9 +79,33 @@ IX. Unidad de salario, al salario mínimo general diario vigente en el Estado, e
 
 X. Persona moral, a las sociedades mercantiles, instituciones de crédito, sociedades y de asociaciones civiles, organismos públicos descentralizados, etc.
 
-XI. Padrón, al padrón municipal de contribuyentes; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-XII. Periódico Oficial, al periódico "El Estado de Colima", periódico oficial del Gobierno del Estado.
+XI. Padrón, al padrón municipal de contribuyentes;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XII. Periódico Oficial, al periódico "El Estado de Colima", Periódico Oficial del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIII. Documento electrónico o digital, el redactado en soporte electrónico que incorpore datos que estén firmados electrónicamente, con validez jurídica;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIV. Documento escrito o físico, documento en papel expedido o recibido por las autoridades fiscales, en la realización de trámites y procedimientos de naturaleza fiscal;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XV. Firma electrónica certificada, aquella que ha sido certificada por la Autoridad Certificadora, en los términos que señale la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de éste y la identidad del firmante;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVI. Firmante, es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVII. Medios electrónicos, los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología.
 
 Los días a que se refiere este ordenamiento, se computarán en hábiles, salvo disposición en contrario.
 
@@ -249,7 +277,39 @@ No obstante lo dispuesto en los párrafos anteriores, si el último día del pla
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:00 y las 19:00 horas. Una diligencia iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Las autoridades fiscales facultadas para la práctica de intervenciones, del procedimiento administrativo de ejecución, de notificaciones, de embargos precautorios y de diligencias en general, podrán habilitar los días u horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles; también se podrá continuar en días y horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento del interés fiscal.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2011)</small>
+
+### CAPITULO II. DE LOS MEDIOS ELECTRONICOS Y LA FIRMA ELECTRONICA
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 A.- Para los efectos del presente ordenamiento, se podrán utilizar los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología, siempre que sea compatible con los sistemas establecidos; así como la firma electrónica certificada en los documentos físicos o electrónicos expedidos por las autoridades fiscales municipales, y su utilización por los particulares en los casos previstos en este Código, supuesto en el cual se sujetará a lo establecido en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 B.- Los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, y demás conceptos de ingreso que el municipio tenga derecho a percibir por cuenta propia o ajena, se podrán pagar a través de los medios electrónicos, utilizando la página de internet de los Ayuntamientos o cualquier otro medio que se establezca para tal efecto.
+
+Los ayuntamientos podrán solicitar que la Autoridad Certificadora, dependiente de la Secretaría de la Administración, del Gobierno del Estado, habilite la firma electrónica certificada de los funcionarios que estén facultados para autorizar la expedición de los documentos a que se refiere este Código.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 C.- Cuando las disposiciones establecidas en este Código obliguen a presentar documento escrito o físico, éstos podrán ser exhibidos en formato electrónico, magnético o utilizando cualquier otra tecnología, pero deberán ser autorizados, con la firma electrónica certificada del autor, salvo los casos que establezcan una regla diferente. Los ayuntamientos, mediante reglas de carácter general, podrán autorizar el uso de otras firmas electrónicas.
+
+En los documentos electrónicos, una firma electrónica certificada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizando la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio conforme a las disposiciones aplicables al efecto.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 D.- Cuando se exija la forma escrita para la celebración de actos, convenios, contratos o trámites señalados en el presente Código, los Ayuntamientos mediante disposiciones de carácter general, podrán autorizar la presentación de documentos electrónicos y mensajes de datos, siempre que la información en ellos contenida se mantenga íntegra y sea accesible para su ulterior consulta, en este caso, no será necesario enviar el documento escrito.
+
+Si se trata de información documental o electrónica, firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de internet de la institución que los emitió y autorizó.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 E.- Los documentos electrónicos, ópticos, magnéticos o de cualquier otra tecnología, autorizados de conformidad con los artículos anteriores, tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 18 F.- Los Ayuntamientos podrán promover e impulsar la realización de trámites a través de medios electrónicos, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los Gobiernos Federal, Estatal, Municipal, los Poderes Legislativo y Judicial, los organismos autónomos y los sectores públicos y privados.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
@@ -391,7 +451,7 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 ## TITULO TERCERO. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES FISCALES
 
-### CAPITULO I. REGLAS DE APLICACION
+### CAPITULO UNICO
 
 ###### ARTICULO 29.
 
@@ -529,7 +589,7 @@ V. Por resolución de autoridad fiscal competente que imponga sanción por la co
 
 ## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
-### CAPITULO II. INFRACCIONES Y SANCIONES
+### CAPITULO I. REGLAS DE APLICACION
 
 ###### ARTICULO 43.
 
@@ -581,7 +641,7 @@ III. La reincidencia, si la hubiere.
 
 Para que se considere reincidencia las dos o más veces que se sancione al infractor, deberán ocurrir en un término de cinco años.
 
-### CAPITULO I. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
+### CAPITULO II. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 50.
 
@@ -641,7 +701,7 @@ Por las fracciones a que se refiere este artículo, se impondrá una multa de 50
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO I. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
 
 ###### ARTICULO 52.
 
@@ -743,7 +803,7 @@ Si se controvierten sólo determinados conceptos de la resolución administrativ
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal.
 
-### CAPITULO I. DE REVOCACION
+### CAPITULO II. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -1221,7 +1281,7 @@ En caso de conflicto, el remanente se depositará en la Tesorería en tanto resu
 
 ## TITULO SEXTO. DE LOS RECURSOS
 
-### CAPITULO II. DE LA NULIDAD DE NOTIFICACIONES
+### CAPITULO I. DE REVOCACION
 
 ###### ARTICULO 120.
 
@@ -1309,7 +1369,7 @@ El tercero que afirme ser propietario de los bienes o negociaciones o titular de
 
 El tercero que afirme tener derecho a que los créditos en su favor se cubran preferentemente al del fisco municipal, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe de remate para cubrir el crédito fiscal.
 
-### CAPITULO III. DISPOSICIONES COMUNES
+### CAPITULO II. DE LA NULIDAD DE NOTIFICACIONES
 
 ###### ARTICULO 128.
 
@@ -1332,6 +1392,8 @@ Si se declara en la resolución que ha existido nulidad de notificaciones por ca
 Cuando sea reincidente, se podrá aplicar hasta el doble de la sanción señalada en el párrafo anterior y la suspensión sin goce de sueldo hasta por un período de 30 días.
 
 Las multas impuestas como sanción a los notificadores tendrán, para efectos de cobro, el carácter de crédito fiscal.
+
+### CAPITULO III. DISPOSICIONES COMUNES
 
 ###### ARTICULO 130.
 
@@ -1418,3 +1480,7 @@ P.O. 20 DE DICIEMBRE DE 2008.
 P.O. 18 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE MAYO DE 2011.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
