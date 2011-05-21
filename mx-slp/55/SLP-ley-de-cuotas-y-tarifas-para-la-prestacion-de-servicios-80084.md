@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-80084"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2011-02-15"
+last_updated: "2011-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE SAN CIRO DE ACOSTA, SAN LUIS POTOSI
 
-LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE SAN CIRO DE ACOSTA; S.L.P.
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DE LA DIRECCIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE SAN CIRO DE ACOSTA; S.L.P.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -201,6 +201,28 @@ A los usuarios que soliciten constancias de no adeudo, historial de consumos imp
 
 Las cartas de factibilidad del servicio junto con el análisis de condiciones de infraestructura existentes se cobrarán a los nuevos fraccionadores y ampliaciones de red con una tarifa de 5 SM*, estas cartas tendrán validez por seis meses después su elaboración.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+###### ARTICULO 20 Bis.
+
+El organismo otorgará un plazo de seis meses para que el usuario se ponga al corriente de su situación. Si una vez vencido el plazo concedido para subsanar el(los) motivo(s) por lo(s) cual(es) fue suspendido el servicio, se procederá al procedimiento administrativo de ejecución en los términos de la Ley de Aguas para el Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+###### ARTICULO 20 Ter.
+
+Los usuarios que soliciten la contratación del servicio de agua potable y/o descarga domiciliaria, deberán acreditar la posesión del predio mediante copia de escrituras, poder, derecho o arrendamiento, según sea el caso, y copia de documento de identidad con fotografía. Los usuarios deberán estar al corriente con sus pagos en caso de tener otro servicio a su nombre, se deberán cubrir los adeudos que tuviere antes de la contratación de otro servicio.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+###### ARTICULO 20 Quáter.
+
+En caso de solicitud de cambio de nombre a un contrato, se deberá cumplir con los requisitos de presentar identificación con fotografía y copia de posesión del predio donde se encuentre el servicio y/o, en su caso, escrito del titular del contrato autorizando el cambio de nombre; este trámite tendrá una tarifa de 2 SM*
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 20 Quinque. A petición del usuario se pondrá como llave cerrada su toma, siempre y cuando se liquide cualquier adeudo al organismo operador, más una tarifa de 1 SM* por gastos de operación.
+
 ### CAPITULO SEGUNDO. DEL AJUSTE TARIFARIO
 
 ###### ARTICULO 21.
@@ -343,9 +365,15 @@ Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
