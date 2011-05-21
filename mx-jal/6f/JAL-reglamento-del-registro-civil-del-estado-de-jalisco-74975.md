@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-civil-del-estado-de-jalisco-74975"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-11-14"
-last_updated: "1996-11-14"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 14 de noviembre de 1996.
 
@@ -103,9 +103,25 @@ El Director General y quien éste determine, así como los Oficiales, deben de e
 
 Las Certificaciones y Constancias serán expedidas en papel especial autorizado para tal efecto por la Dirección, y deberán autenticarse con el nombre, fecha de expedición y firma de quien la expide, y deberán de contener el sello de la Dirección u Oficialía.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2011)</small>
+
+Las certificaciones podrán ser expedidas a través de cajeros automáticos o también denominados kioskos, las cuales deberán contener firma electrónica certificada de conformidad con la Ley del Registro Civil del Estado de Jalisco y lo dispuesto en el artículo siguiente.
+
 ###### Art. 6º.
 
 Las certificaciones podrán ser en copias o en extractos de actas; estas últimas serán emitidas a través del sistema automatizado de la Dirección y de las Oficialías. Para el caso de la emisión de extractos certificados vía módem del Archivo General de la Dirección a cualquier Municipio del Estado, podrá certificar el documento el Oficial del Registro Civil de la jurisdicción correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2011)</small>
+
+Las certificaciones a que se refiere el presente artículo podrán llevarse a cabo mediante la utilización de la firma electrónica certificada, de conformidad con lo previsto en la Ley del Registro Civil del Estado de Jalisco y el presente reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2011)</small>
+
+Las certificaciones que se realicen mediante firma electrónica deberán contener el resumen de la cadena de la firma electrónica certificada, el identificador de la certificación, al cual se le reconocerá como "Id de certificación", la página electrónica del Registro Civil, así como cualquier otro dato que considere el Director General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 2011)</small>
+
+Cualquier persona podrá consultar en la página electrónica del Registro Civil las certificaciones realizadas, ingresando el correspondiente "Id de certificación".
 
 ###### Art. 7º.
 
@@ -340,3 +356,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MAYO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día de su publicación en el periódico oficial "El Estado de Jalisco".
