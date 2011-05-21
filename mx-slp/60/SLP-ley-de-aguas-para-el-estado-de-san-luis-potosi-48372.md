@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2010-12-30"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -871,11 +871,13 @@ Para expedir la declaratoria respectiva se realizarán o referirán, los estudio
 
 Además de lo señalado en el párrafo anterior, el reglamento que para tal efecto se expida, establecerá el contenido de los estudios técnicos, el procedimiento para la elaboración y publicación de la declaratoria, así como su contenido.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 55.
 
-Las declaratorias deberán publicarse en el Periódico Oficial del Estado y un extracto de las mismas, que comprenderá además de la descripción general y las características de la corriente o depósito de aguas estatales, los cauces, vasos y zonas estatales, en alguno de los diarios de mayor circulación en la Entidad; y se notificarán además a los propietarios o poseedores de los predios afectados, en forma personal, cuando se conocieren sus domicilios.
+Las declaratorias deberán publicarse en el Periódico Oficial del Estado y un extracto de las mismas, que comprenderá además de la descripción general y las características de la corriente o depósito de aguas estatales, los cauces, vasos y zonas estatales, en alguno de los diarios de mayor circulación en el Estado; y se notificarán a las personas propietarias y poseedoras de los predios afectados, en forma personal, cuando se conocieren sus domicilios.
 
-En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad y del Comercio correspondiente.
+En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad correspondiente.
 
 ### CAPITULO III. De los Derechos de Explotación, Uso y Aprovechamiento de las Aguas Estatales
 
@@ -2874,6 +2876,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 30 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 21 DE MAYO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
