@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "2009-07-25"
+last_updated: "2011-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE CATASTRO DEL ESTADO DE COLIMA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2011, EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -51,9 +53,11 @@ LEY DE CATASTRO DEL ESTADO DE COLIMA
 
 Las disposiciones de la presente Ley son de orden público e interés general.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de esta Ley, catastro es el inventario del territorio del Estado, estructurado por un conjunto de registros relativos a la identificación y valuación de los bienes inmuebles ubicados en la Entidad, cuyos objetivos generales son los siguientes:
+Para los efectos de esta Ley, catastro es el inventario del territorio del Estado, estructurado por un conjunto de registros relativos a la identificación y valuación de los bienes inmuebles ubicados en la Entidad, que se resguardan en archivos físicos, electrónicos, magnéticos, o utilizando cualquier otra tecnología, los que deben ser autorizados con la firma autógrafa o con la firma electrónica certificada, utilizando las formas únicas aprobadas, cuyos objetivos generales son los siguientes:
 
 I.- Identificar y delimitar los bienes inmuebles;
 
@@ -115,7 +119,9 @@ VII.- Sector catastral: la delimitación de las áreas comprendidas de una zona 
 
 VIII.- Zonas catastrales: las áreas en la que se divide el territorio de los municipios o del Estado;
 
-IX.- Padrón catastral: el conjunto de registros en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en la Entidad;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+IX.- Padrón catastral: el conjunto de registros que se llevan en el archivo físico o en la base de datos autorizada, en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en la Entidad;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2009)</small>
 
@@ -129,15 +135,75 @@ b).- De construcción: los determinados para las distintas clasificaciones de co
 
 XII.- Valor catastral: el que la autoridad catastral asigne a cada uno de los predios ubicados en el territorio del Estado, de conformidad a los procedimientos establecidos en la presente ley;
 
-XIII.- Valuación catastral: el conjunto de actividades técnicas realizadas para asignar un valor catastral, por primera vez, a un predio; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-XIV.- Revaluación catastral: el conjunto de actividades técnicas realizadas para asignar nuevo valor catastral a un predio.
+XIII.- Valuación catastral: el conjunto de actividades técnicas realizadas para asignar un valor catastral, por primera vez, a un predio;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIV.- Revaluación catastral: el conjunto de actividades técnicas realizadas para asignar nuevo valor catastral a un predio;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XV.- Actuación electrónica: los actos, notificaciones, requerimientos, trámites, solicitudes, comunicaciones, convenios, procedimientos administrativos o resoluciones que Catastro, realice con sus usuarios o entidades públicas o privadas, mediante el uso de medios electrónicos y firma electrónica certificada;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVI.- Archivo electrónico o digital: el conjunto de documentos producidos o recibidos por Catastro en el desarrollo de sus actividades, que se conservan de forma sucesiva y ordenada por vía electrónica;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVII.- Documento electrónico o digital: el redactado en soporte electrónico que incorpore datos que estén firmados electrónicamente, con validez jurídica;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XVIII.- Documento escrito o físico: documento en papel expedido o recibido por Catastro, para la prestación de servicios a sus usuarios o entidades públicas;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XIX.- Firma electrónica certificada: aquella que ha sido certificada por la Autoridad Certificadora en los términos que señale la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje de datos que permite asegurar la integridad y autenticidad de ésta y la identidad del firmante;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XX.- Firmante: es la persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XXI.- Medios electrónicos: los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XXII.- Promoción Electrónica: las solicitudes, trámites o promociones que los particulares o entidades públicas o privadas, realicen a través de medios electrónicos y firma electrónica ante Catastro del Estado, para el cumplimiento de obligaciones, ejercicio de derechos, obtención de un beneficio o servicio público, dar respuesta a un requerimiento o solicitud, o en general, para que la autoridad interpelada emita la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 6o.
 
-Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley.
+Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley; autorizándose para hacerlo, los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología, en los casos previstos en esta Ley, siempre que sea compatible con el sistema implementado; supuesto en el cual se sujetará a lo establecido en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento, salvo los casos en que se establezca una regla diferente.
 
-A falta de disposición expresa, se considerarán como normas supletorias las disposiciones contenidas en el Código Fiscal del Estado.
+A falta de disposición expresa, se considerarán como normas supletorias las disposiciones contenidas en el Código Fiscal Estatal, el Código Civil y el Código de Procedimientos Civiles, todos del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 6o BIS.- Los documentos que integran la información Catastral del Estado tales como el padrón catastral estatal y municipales, avalúos catastrales, cartografía del Estado, tablas generales de valores unitarios de terreno y de construcción, inscripción de predios, dictámenes sobre el valor comercial del inmueble y los demás a que se refiera esta ley, podrán ser incorporados a un archivo electrónico o constar en estos. Las autoridades catastrales, deberán autorizarlos con su firma electrónica certificada.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 6o BIS 1.- Las autoridades catastrales podrán optar por migrar el acervo documentario actual a archivos electrónicos. En este caso, los documentos que se agreguen al archivo electrónico, tratándose de documentos en soporte material, deberán ser validados con su firma electrónica certificada.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 6o BIS 2.- Los documentos públicos electrónicos, que sean requeridos por las autoridades catastrales, deberán solicitarlos y obtenerlos suscritos por su autor con firma electrónica certificada. Cuando tales documentos estén disponibles en Internet, las autoridades catastrales deberán obtenerlos y conservar el documento electrónico, en su base de datos, para su ulterior consulta. Lo anterior no obsta, para que se haga el cobro correspondiente al usuario o solicitante, si el trámite a realizar tiene algún costo.
+
+Los documentos electrónicos tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos electrónicos que se materialicen en papel, cuando sean firmados en forma autógrafa o con la firma electrónica certificada por quien esté autorizado para ello.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 6o BIS 3.- Cuando se trate de información documental o electrónica, con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de Internet de la Institución que los emitió y autorizó.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTICULO 6o BIS 4.- Las autoridades de catastro deberán de recibir y darle el valor que corresponda a los documentos físicos o electrónicos suscritos con la firma autógrafa o la electrónica certificada, que les sean presentados, por quién esté autorizado para ello, en los términos de la presente Ley, de la que rija la solicitud, promoción o el acto jurídico realizado.
 
 ###### ARTICULO 7o.
 
@@ -253,9 +319,21 @@ VII.- Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actual
 
 VIII.- Solicitar a las dependencias y organismos auxiliares federales, estatales y municipales, así como a los propietarios o poseedores de predios los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral del Estado;
 
-IX.- Prestar el servicio como valuador, en los dictámenes sobre el valor comercial de inmuebles que sean necesarios en todo tipo de contratos y juicios civiles, penales, laborales, administrativos y fiscales. Igualmente, intervenir en los demás dictámenes periciales que sobre inmuebles deban practicarse y rendirse ante ella; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
 
-X.- Las demás que determine esta Ley y otras disposiciones legales aplicables.
+IX.- Prestar el servicio como valuador, en los dictámenes sobre el valor comercial de inmuebles que sean necesarios en todo tipo de contratos y juicios civiles, penales, laborales, administrativos y fiscales. Igualmente, intervenir en los demás dictámenes periciales que sobre inmuebles deban practicarse y rendirse ante ella;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2011)</small>
+
+X.- Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Secretaría de Administración, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los Gobiernos Federal, Estatal, Municipal, los Poderes Legislativo y Judicial, los organismos autónomos y los sectores públicos y privados;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XI.- Solicitar a la Unidad Certificadora, dependiente de la Secretaría de Administración, la habilitación de su firma electrónica certificada y la de los funcionarios, que por ley, estén autorizados a firmar los documentos que se expidan en el catastro; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2011)</small>
+
+XII.- Las demás que determine esta Ley, así como otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
@@ -389,23 +467,29 @@ Las personas físicas o morales que obtengan licencia para construir, reconstrui
 
 El profesionista o persona encargada de la realización de las obras, será responsable solidario de la obligación de dar los avisos a que se hace referencia, mismos que deberá firmar junto con el propietario o propietarios, o bien en forma indistinta.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 30.
 
-Los Notarios Públicos requerirán de las personas físicas o morales que pretendan transmitir e inscribir, en su caso, la propiedad de un inmueble, la certificación de clave y valor catastral correspondientes. Asimismo, enviarán mensualmente a la Dirección una relación de las transmisiones e inscripciones de la propiedad de que conozcan en el período respectivo, en los formatos que para tal efecto proporcione la autoridad catastral.
+Los Notarios Públicos requerirán de las personas físicas o morales que pretendan transmitir e inscribir, en su caso, la propiedad de un inmueble, la certificación de clave y valor catastral correspondientes; pudiendo presentar las declaraciones de transmisión patrimonial a catastro municipal en soporte físico o electrónico con firma autógrafa o electrónica certificada, según sea el caso. Asimismo, enviarán mensualmente a la Dirección una relación de las transmisiones e inscripciones de la propiedad de que conozcan en el período respectivo, en los formatos autorizados, o, de ser posible, en archivos electrónicos, magnéticos o utilizando cualquier tecnología, que para tal efecto proporcione o autorice la autoridad catastral.
 
 ###### ARTICULO 31.
 
 La inscripción de un predio en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo en favor de la persona a cuyo nombre aparezca inscrito.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 32.
 
-El padrón catastral estará bajo el control y administración de la Dirección y podrá ser consultado por otras dependencias y organismos auxiliares del Ejecutivo Estatal y por los Ayuntamientos.
+El padrón catastral estará bajo el control y administración de la Dirección y podrá ser consultado física o electrónicamente por otras dependencias y organismos auxiliares del Ejecutivo Estatal y por los Ayuntamientos, previa autorización de la propia dependencia.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 33.
 
-La Dirección proporcionará información y expedirá constancias de no propiedad y certificaciones de los planos y datos que obren en el padrón catastral, previa solicitud por escrito de los particulares que acrediten su interés y hayan realizado el pago de los derechos respectivos.
+La Dirección proporcionará información, y expedirá constancias de no propiedad y certificaciones de los planos y datos que obren en el padrón catastral, previa solicitud de los particulares que acrediten su interés y hayan realizado el pago de los derechos respectivos. Dicha información y constancias podrán ser expedidas en documentos físicos o electrónicos.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2009)</small>
 
 El Ayuntamiento proporcionará información y expedirá constancias, certificaciones documentos y planos, que obren en le (sic) padrón catastral del Ayuntamiento y que no constituyan una violación a la Ley de Transparencia vigente.
 
@@ -491,11 +575,11 @@ Cuando por causas imputables al propietario o poseedor de un predio, no se pueda
 
 ### CAPITULO VI. DE LAS NOTIFICACIONES
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 45.
 
-La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "EL ESTADO DE COLIMA" y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en los artículos 41 y del 123 al 132 del Código Fiscal del Estado.
+La autoridad catastral deberá notificar personalmente a los propietarios o poseedores de predios o a sus representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y demás operaciones catastrales que se efectúen en el predio objeto de la operación o en el domicilio señalado por escrito para oír y recibir notificaciones, siempre que este último se encuentre establecido dentro del territorio del Estado; o a través de los medios electrónicos, si el solicitante optó por llevar a cabo sus trámites por esta vía; o en su defecto, la notificación se hará por edictos, debiéndose publicar por tres veces consecutivas en el Periódico Oficial "El Estado de Colima” y en uno de los Periódicos de mayor circulación en la Entidad. En las notificaciones personales, deberán observarse las formalidades procesales establecidas en los artículos 41 y del 123 al 132 del Código Fiscal del Estado.
 
 ### CAPITULO VII. DE LOS RECURSOS
 
@@ -543,9 +627,15 @@ La autoridad que reciba el recurso enviará el original del escrito que lo conte
 
 Los recursos deberán ser resueltos en un plazo que no excederá de tres meses, contando a partir de la fecha en que se interpongan, y los efectos de la resolución se retrotraerán a la fecha de interposición de aquéllos.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2011, EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
 ###### ARTICULO 51.
 
 Cuando el recurso sea resuelto favorablemente, se procederá a corregir la resolución o resoluciones impugnadas, de acuerdo al fallo emitido.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+(SIC)
 
 ### CAPITULO VIII. DE LAS INFRACCIONES Y SANCIONES
 
@@ -622,3 +712,7 @@ P.O. 24 DE NOVIEMBRE DE 2007.
 P.O. 25 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE MAYO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
