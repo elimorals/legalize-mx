@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-uso-de-firma-electronica-certificada-para-74817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-27"
-last_updated: "2011-02-05"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,240 +21,380 @@ state: "JAL"
 ---
 # REGLAMENTO DE USO DE FIRMA ELECTRONICA CERTIFICADA PARA SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-REGLAMENTO DE USO DE FIRMA ELECTRONICA CERTIFICADA PARA SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
+REGLAMENTO INTERNO DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2011.
+TEXTO ORIGINAL.
 
-Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de abril de 2010.
+Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 11 de enero de 2000.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+Al margen un sello dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-DIGELAG ACU 021/2010
+ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
-DIRECCIÓN GENERAL DE ESTUDIOS LEGISLATIVOS Y ACUERDOS GUBERNAMENTALES
+Guadalajara, Jalisco, 08 ocho de Diciembre de mil novecientos noventa y nueve.
 
-ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, en ejercicio de la facultad que me confieren los artículos 36, 46 y 50 fracciones I, VIII y XXIII de la Constitución Política del Estado de Jalisco; 1, 2, 3, 5, 6, 8, 19 fracción II, 21 y 22 fracciones I, VIII y XXII de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco; y 24 fracción XV y 36 de la Ley Protección Civil del Estado de Jalisco; y con base en los siguientes
 
-Guadalajara, Jalisco, a 20 de abril de 2010
+CONSIDERANDOS...
 
-Emilio González Márquez, Gobernador Constitucional del Estado de Jalisco, con fundamento en los artículos 36, 46 y 50 fracciones VIII y XXV de la Constitución Política; 1, 2, 3, 5, 6, 6 Bis, 19 fracción II, 21, 22 fracciones I y XXIV, 30 y 38 de la Ley Orgánica del Poder Ejecutivo; así como las disposiciones de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, todos ordenamientos de esta entidad federativa, y con base en los siguientes:
+En consideración a lo anteriormente expuesto, he tenido a bien emitir el siguiente
 
-CONSIDERANDOS.
+CUERDO (SIC):
 
-Por lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente
+ÚNICO.- Se ordena la publicación del Reglamento Interno de La Unidad Estatal de Protección Civil, en los siguientes términos:
 
-ACUERDO
+REGLAMENTO INTERNO DE LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
 
-## TITULO PRIMERO. Disposiciones Generales
+## TÍTULO PRIMERO. Disposiciones generales
 
-### Capítulo Único
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular el uso de la firma electrónica certificada por los servidores públicos del Poder Ejecutivo del Estado de Jalisco.
+El presente ordenamiento tiene por objeto establecer y. reglamentar la estructura y funcionamiento de la Unidad Estatal de Protección Civil como un organismo público descentralizado de la Administración Pública Estatal, que tiene a su cargo las facultades que le encomienda la Ley de Protección Civil del Estado de Jalisco.
 
 ###### Artículo 2.
 
-Para efectos del presente Reglamento, además de las definiciones de la Ley, se entenderá por:
+Para los efectos de este Reglamento se entenderá por:
 
-I. Ley: Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios
+I. Consejo Estatal: el Consejo Estatal de Protección Civil;
 
-II. Oficialía Mayor: la Oficialía Mayor de la Secretaría General de Gobierno; y
+II. Director General: el Titular de la Unidad Estatal de Protección Civil;
 
-III. Reglamento: el presente Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco.
+III. Junta de Gobierno: el Organo Central de Administración;
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2011)</small>
+IV. Ley: la Ley de Protección Civil del Estado de Jalisco;
+
+V. Reglamento: el Reglamento Interno de la Unidad Estatal de Protección Civil; y
+
+VI. Unidad: la Unidad Estatal de Protección Civil.
 
 ###### Artículo 3.
 
-Los servidores públicos cuyo cargo sean de los establecidos en el anexo único del presente Reglamento, el cual forma parte integral del mismo, tendrán la obligación de usar la firma electrónica certificada en los procedimientos que se señalen para tal efecto, vía circular, por los Secretarios General de Gobierno y de Administración.
-
-En el caso de los organismos públicos descentralizados, los titulares de dichas entidades emitirán un acuerdo en el que se establecerá el listado de los servidores públicos a los que se les otorgará firma electrónica certificada, el cual será remitido a la Oficialía Mayor.
+Para la administración, operación y cumplimiento de las funciones y atribuciones que le competen, la Unidad contará con los órganos y estructura administrativa que establece el Reglamento.
 
 ###### Artículo 4.
 
-La Oficialía Mayor, de conformidad con sus atribuciones, otorgará a los servidores públicos el certificado electrónico y el mecanismo electrónico para el uso de la firma electrónica certificada, una vez cumplidos los requisitos que se establecen en las disposiciones legales y administrativas correspondientes, sin costo para el servidor público.
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2011)</small>
-
-En el caso de los organismos públicos descentralizados, el mecanismo electrónico deberá ser proporcionado por la entidad respectiva o por el servidor público.
+La Unidad estará sectorizada a la Secretaría General de Gobierno.
 
 ###### Artículo 5.
 
-En caso de pérdida o extravío del mecanismo electrónico, el costo por la reposición del mismo será con cargo al servidor público.
+El domicilio de la Unidad estará en la ciudad de Guadalajara, Jalisco por lo que se refiere al Centro Estatal de Operaciones y el de las Bases Regionales será el del lugar en que se establezcan.
 
-## TITULO SEGUNDO. De los Tipos de Información
+## TITULO SEGUNDO. De los Organos, Estructura Administrativa y Funcionamiento de la Unidad
 
-### CAPÍTULO PRIMERO. De la Información en General
+### CAPITULO I. De la Integración
 
 ###### Artículo 6.
 
-En caso de licencia o incapacidad del servidor público por más de diez días la Oficialía Mayor suspenderá el certificado electrónico por el tiempo que dure ésta, por lo que, es responsabilidad del servidor público dar aviso al área administrativa correspondiente o, en su caso, a la Oficialía Mayor.
+La Unidad se conformará con los órganos siguientes:
 
-### CAPÍTULO SEGUNDO. De la Información Fundamental
+I. La Junta de Gobierno;
+
+II. El Centro Estatal de Operaciones; y
+
+III. Las Bases Regionales.
+
+La Unidad contará además con un Director General, quien será su titular; así como con las unidades administrativas y técnico operativas que sean necesarias para su operación.
+
+### CAPITULO II. De la Junta de Gobierno
 
 ###### Artículo 7.
 
-En caso de que el servidor público cause baja por cualquier motivo, tendrá la obligación de devolver el mecanismo electrónico a la oficina administrativa correspondiente y ésta a su vez a la Oficialía Mayor de la Secretaría General de Gobierno, para el trámite de extinción correspondiente, de conformidad con la Ley.
+La Junta de Gobierno es la máxima autoridad de la Unidad. Se integrará en forma permanente por un Presidente que será el Gobernador del Estado o la persona que éste designe y además por los titulares de cada una de las Secretarías e Instituciones siguientes:
+
+I. Secretaría General de Gobierno;
+
+II. Secretaría de Administración;
+
+III. Secretaría de Finanzas;
+
+IV. Secretaría de Educación;
+
+V. Secretaría de Salud;
+
+VI. Secretaría de Desarrollo Urbano;
+
+VII. Secretaría de Desarrollo Rural;
+
+VIII. Contraloría del Estado; y
+
+IX. Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco.
+
+La Junta de Gobierno contará además con un Secretario Técnico que será el Director General de la Unidad, quien tendrá derecho al uso de la voz.
 
 ###### Artículo 8.
 
-El incumplimiento de las disposiciones del la Ley, del presente Reglamento, así como de la circular al que hace mención el artículo 3 de este ordenamiento por parte del servidor público, será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de
-
-Jalisco.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. La Oficialía Mayor realizará las acciones necesarias para el debido enrolamiento de los servidores públicos a los que hace mención el presente Reglamento.
-
-Así lo resolvió el Ciudadano Gobernador Constitucional del Estado, ante los Ciudadanos Secretarios General de Gobierno y de Administración, quienes lo refrendan.
-
-EMILIO GONZÁLEZ MÁRQUEZ
-
-Gobernador Constitucional del Estado
-
-(RÚBRICA)
-
-LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
-
-Secretario General de Gobierno
-
-(RÚBRICA)
-
-C.P. RICARDO SERRANO LEYZAOLA
-
-Secretario de Administración
-
-(RÚBRICA)
-
-> <small>N. DE E. VEASE ANEXO UNICO EN LA SECCION II DEL P.O. DE 27 DE ABRIL DE 2010, DE LA PAGINA 8 A LA 26.</small>
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 5 DE FEBRERO DE 2011.
-
-ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+Cada miembro propietario designará un suplente que lo sustituya en sus ausencias, quien tendrá los mismos derechos que el titular.
 
 ###### Artículo 9.
 
-Será considera (sic) como información reservada del DIF JALISCO, la que se sitúe en los supuestos previstos por el artículo 41 de la Ley.
+El cargo como miembro de la Junta de Gobierno será honorífico y, por lo tanto, no remunerado.
 
 ###### Artículo 10.
 
-En caso de que se requiera información clasificada como reservada al DIF JALISCO, la UTIDIF deberá emitir un acta que determine los acuerdos fundados y motivados a través de la cual se estime que la información reviste el carácter de reservada o confidencial, debiéndose apegar a las disposiciones emitidas por el Instituto, en términos de los artículos 41 y 42 de la Ley.
+La Junta de Gobierno podrá invitar a sus sesiones a personas físicas o jurídicas, así como a instituciones públicas o privadas, cuando por la índole de los asuntos a tratar, considere conveniente o necesaria su participación quienes tendrán derecho al uso de la voz, pero no podrán votar.
 
 ###### Artículo 11.
 
-La información que revista el carácter de reservada deberá clasificarse en los términos y bajo las condiciones establecidas en la Ley y su Reglamento, así como en los Lineamientos y acorde al presente Reglamento Interno.
+Las sesiones de la Junta de Gobierno podrán ser ordinarias o extraordinarias, las primeras deberán celebrarse como mínimo cada tres meses, las segundas se efectuarán cuantas veces fuere necesario, previa convocatoria formulada a Juicio del Presidente de la Junta o a petición de cuando menos dos de sus integrantes.
 
 ###### Artículo 12.
 
-Para el caso de que en un mismo documento o expediente existiera información de libre acceso y de la considerada por la Ley como reservada, se hará entrega de la información que proceda atendiendo a la no revelación de la información que revista el carácter de reservada.
+La convocatoria a sesiones de la Junta de Gobierno formulada por el Secretario Técnico, contendrá el orden del día y deberá ser entregada con una anticipación no menor a 48 horas, debiendo anexarse copia de la minuta del acta de la sesión anterior, así como la información y documentación correspondiente.
 
 ###### Artículo 13.
 
-Los expedientes y documentos clasificados como reservados por el Comité, quedarán bajo la guarda y custodia del personal que posea los mismos hasta por el lapso de tiempo que establece el artículo 42 de la Ley, y conforme a los Lineamientos.
+Para que tengan validez las sesiones ordinarias y extraordinarias de la Junta de Gobierno, se requerirá la asistencia de la mayoría de sus miembros, siempre que entre ellos se encuentre su Presidente.
 
 ###### Artículo 14.
 
-La información que se encuentre clasificada como reservada perderá tal carácter bajo los supuestos que determine la Ley y conforme a los Lineamientos.
+Las resoluciones de la Junta de Gobierno se tomarán por mayoría de votos, en caso de empate, el Presidente tendrá voto de calidad.
 
 ###### Artículo 15.
 
-DIF JALISCO tiene como una de sus obligaciones, el proteger la información confidencial que se encuentre en su poder, teniendo tal carácter aquella información regulada por los artículos 53 y 54 de la Ley.
+Todos los acuerdos que se tomen en las sesiones de la Junta de Gobierno serán asentados en el libro de actas, el cual será autorizado en su primera hoja útil por el Secretario General de Gobierno.
 
 ###### Artículo 16.
 
-Para el caso de que en un mismo documento o expediente existiera información de libre acceso y de la considerada por la Ley como confidencial, se hará entrega de la información que proceda atendiendo a la no revelación de datos personales, mediante la omisión de los mismos.
+La Junta de Gobierno tendrá las siguientes atribuciones:
+
+I. Determinar y aprobar las políticas que debe seguir la Unidad a propuesta del Director General;
+
+II. Aprobar el Reglamento Interior de Trabajo y someter a consideración del Titular del Ejecutivo del Estado los reglamentos que puedan derivarse de la Ley;
+
+III. Revisar y aprobar el proyecto del Programa Estatal de Protección, y en su caso, las propuestas para su modificación, para someterlo a consideración del Consejo Estatal;
+
+IV. Revisar y aprobar el proyecto del programa operativo anual que será presentado ante el Consejo Estatal para su autorización;
+
+V. Examinar y, en su caso, aprobar los estados financieros que resulten de la operación en el último ejercicio;
+
+VI. Estudiar y, en su caso, aprobar los tabuladores y prestaciones correspondientes al personal de la Unidad propuestos por el Director General y conforme al presupuesto de egresos autorizado por la propia Junta;
+
+VII. Conocer de los nombramientos y cambios del personal directivo, que realice el Director General;
+
+VIII. Aprobar el presupuesto anual de ingresos de la Unidad en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público;
+
+IX. Aprobar anualmente el presupuesto de egresos de la Unidad, que será propuesto al Ejecutivo del Estado para su inclusión en el Presupuesto de Egresos, así como vigilar la correcta aplicación de los recursos;
+
+X. Revisar y aprobar balances y estados financieros que presente el Director General;
+
+XI. Examinar los informes periódicos que se rindan respecto al funcionamiento de la Unidad;
+
+XII. Revisar el informe anual de actividades del ejercicio anterior;
+
+XIII. Otorgar, sustituir o revocar toda clase de poderes para actos de administración, generales o especiales, pudiendo éstos recaer en alguno o algunos miembros de la Junta de Gobierno, en el Director General o en la persona o personas de la Unidad que la Junta de Gobierno estime necesario;
+
+XIV. Proponer y aprobar todas aquellas acciones de naturaleza administrativa necesarias para el mejor cumplimiento del objeto y funciones de la Unidad;
+
+XV. Autorizar las cuotas o tarifas de los servicios que preste la Unidad y, presentarlo ante el H. Congreso del Estado para su aprobación por conducto del Ejecutivo del Estado; y
+
+XVI. Las demás que le señale la Ley u otras disposiciones aplicables necesarias para el cumplimiento de los fines de la Unidad.
 
 ###### Artículo 17.
 
-Cuando el DIF JALISCO reciba de una persona física o moral, información con carácter de confidencial, se le deberá informar de las disposiciones que sobre el particular se establecen en la Ley y su Reglamento, así como en los Lineamientos y acorde al presente Reglamento Interno.
+El Presidente de la Junta de Gobierno de la Unidad tendrá las siguientes facultades:
+
+I. Presidir las sesiones de la Junta de Gobierno y hacer cumplir sus acuerdos;
+
+II. Declarar abierta la sesión de la Junta de Gobierno y, en su caso, suspenderla;
+
+III. Someter a consideración los asuntos tratados, haciendo uso, en su caso, de su voto de calidad; y
+
+IV. Las demás que por acuerdo establezca la Junta de Gobierno.
 
 ###### Artículo 18.
 
-El personal del DIF JALISCO que tenga bajo su guarda y custodia información confidencial, deberá tomar las medidas necesarias, bajo las políticas de privacidad que se establezcan al respecto y bajo el aviso de privacidad pertinente, que garanticen la seguridad de dicha información y eviten su alteración, pérdida o acceso no autorizado, de conformidad con la Ley y su Reglamento, así como en los Lineamientos y acorde al presente Reglamento Interno, y considerando lo normado, tanto por la Ley Federal de Protección de Datos Personales en Posesión de Particulares como en su similar que aplique para el Estado de Jalisco.
+El Secretario Técnico de la Junta de Gobierno tendrá las siguientes funciones:
 
-### CAPÍTULO TERCERO. De la Información Reservada
+I. Remitir oportunamente a los miembros de la Junta de Gobierno la convocatoria y el material indispensable para realizar las sesiones;
+
+II. Levantar el acta de las sesiones que celebre la Junta de Gobierno y recabar la firma de su Presidente y de los miembros asistentes;
+
+III. Llevar el control del libro de actas; y
+
+IV. Certificar y dar fe de los actos y acuerdos que emita la Junta de Gobierno.
+
+### CAPITULO III. Del Centro Estatal de Operaciones
 
 ###### Artículo 19.
 
-Las oficinas y/o dependencias del DIF JALISCO, en caso de contar con sistemas que contengan información confidencial, deberán hacerlos del conocimiento de la UTIDIF.
+El Centro Estatal de Operaciones es el área de mando único de coordinación del quehacer de las Instituciones y organismos para enfrentar los efectos de los fenómenos destructivos que se registren en la Entidad Federativa, el cual, conforme a la Ley, estará al mando del titular de la Unidad.
 
 ###### Artículo 20.
 
-La UTIDIF es la Unidad de Transparencia e Información Pública del DIF JALISCO que tiene bajo su encargo la recepción, trámite y entrega de información respecto de las solicitudes presentadas conforme a la Ley y demás normativa vinculada con dicho derecho fundamental.
+El Centro Estatal de Operaciones se establece ante cualquier calamidad pública y podrá funcionar en sus modalidades de centro de operaciones de región y de campo.
 
 ###### Artículo 21.
 
-DIF JALISCO a través de la UTIDIF y conforme a lo dispuesto en los artículos, del 63 al 75, de la Ley, realizará todas las acciones tendientes a atender solicitudes de información, darle trámite y seguimiento a las mismas, así como asesorar y auxiliar a los solicitantes y garantizar el derecho fundamental de toda persona para tener acceso a la información pública que se genere como sujeto obligado.
+Para el funcionamiento del Centro Estatal de Operaciones respectivo, el Director General determinará la logística e implementos indispensables acordes a la situación del fenómeno destructivo que se registre.
 
-### CAPÍTULO CUARTO
-
-De la Información Confidencial.
+### CAPITULO IV. De las Bases Regionales
 
 ###### Artículo 22.
 
-La UTIDIF tendrá las atribuciones que marca el artículo 31 de la Ley.
+Las Bases Regionales tendrán la función representativa de la Unidad y serán las que otorguen la primera atención de apoyo en los municipios que abarque cada región, en sus fases preventivas, de respuesta a la emergencia y de reconstrucción inicial.
 
 ###### Artículo 23.
 
-La UTIDIF estará siempre bajo el encargo de su Director General como representante legal del DIF JALISCO en su calidad de sujeto obligado, cuya representatividad puede llegar a ser delegada en quien el propio Director General así lo disponga, y, constituirá así, a la persona delegada para ocupar el cargo de Titular de la UTIDIF.
+La Junta de Gobierno determinará el número y ubicación de las Bases Regionales, que contarán con un delegado y la estructura que se determine en la plantilla de personal.
+
+### CAPÍTULO V. De la designación del Director General
 
 ###### Artículo 24.
 
-Para efectos de control, la UTIDIF llevará un registro de todas las solicitudes de información que por su conducto reciba el DIF JALISCO, respecto de lo cual se rendirá un informe mensual al Instituto, que deberá contener los datos siguientes:
+Para nombrar el Consejo Estatal al Director General de la Unidad, deberá observarse, lo siguiente:
 
-I.- El registro y estadísticas de las solicitudes de información pública que le sean planteadas, de acuerdo al Reglamento;
+I. El Gobernador del Estado elaborará una propuesta de aspirantes que considere aptos para ocupar el cargo de Director General de la Unidad, los cuales deberán reunir los requisitos señalados en el artículo 39 de la Ley debiendo contar estos aspirantes, como mínimo, con grado de licenciatura y tres años de experiencia en materia de protección civil;
 
-II.- Estadísticas y gráficas del tiempo de respuesta a las solicitudes;
+II. Se aplicará el examen de oposición señalado en la fracción VI del artículo 39 de la Ley a aquellas personas que el Gobernador del Estado haya incluido en su propuesta de aspirantes, siguiendo el siguiente procedimiento:
 
-III.- Estadísticas y gráficas del resultado de las solicitudes en sentido positivo o negativo;
+a) El examen de oposición será elaborado por el Consejo Estatal de Protección Civil pudiendo invitar a participar a aquellas personas que por su experiencia y conocimientos coadyuven en este proceso;
 
-IV.- Estadísticas y gráficas de las actividades que ha llevado a cabo el DIF JALISCO para el cumplimiento de las atribuciones que le marca la Ley.
+b) El examen de oposición podrá ser aplicado por la Secretaría de Administración en coordinación con la Secretaría General de Gobierno, pudiendo invitar en éste caso a personas que tengan experiencia y conocimientos en la materia de Protección Civil;
+
+c) Los aspirantes deberán resolver el examen de oposición, el cual será teórico y práctico; y (sic)
+
+d) Una vez concluido el examen se procederá a la calificación y remisión del mismo al Gobernador del Estado y sobre esta base elegirá libremente a aquellos que conformarán la terna, los cuales no podrán tener una calificación menor de 80; y
+
+III. Una vez presentado el examen de oposición, el Gobernador del Estado presentará la terna al Consejo Estatal para que haga la designación y nombramiento del Director General de la Unidad.
 
 ###### Artículo 25.
 
-La UTIDIF dispondrá de los elementos humanos, así como de los recursos materiales y técnicos que sean necesarios para el desempeño de sus actividades y, que para ello, le sean asignados por las instancias administrativas del DIF JALISCO.
+El Director General podrá ser removido de su cargo por causa justificada, mediante acuerdo del Consejo Estatal de Protección Civil, en la forma y términos que determina la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 ###### Artículo 26.
 
-DIF JALISCO contará con un Comité para la clasificación de la información pública, acorde a lo dispuesto por el artículo 27 de la Ley.
+La renuncia del Director General deberá ser presentada ante el Consejo Estatal de Protección Civil quien resolverá su procedencia.
+
+### CAPITULO VI. Del Director General
 
 ###### Artículo 27.
 
-El Comité estará integrado por:
+El Director General de la Unidad tendrá a su cargo las siguientes atribuciones:
 
-a) El Director General del DIF JALISCO o quién tenga a bien en designar para delegarle tal representatividad.
+I. Ejecutar los acuerdos resoluciones y disposiciones de la Junta de Gobierno;
 
-b) El Titular de la UTIDIF, que fungirá como Secretario.
+II. Elaborar el Proyecto de Programa Estatal de Protección y presentarlo a consideración del Consejo Estatal y, en su caso, las propuestas para su modificación, previa aprobación de la Junta de Gobierno;
 
-c) El Titular del Órgano en funciones de Control Interno.
+III. Elaborar el proyecto del Programa Operativo anual y presentarlo ante el Consejo Estatal para su autorización, previa aprobación de la Junta de Gobierno;
+
+IV. Elaborar la propuesta anual de ingresos de la Unidad y presentarlo ante la Junta de Gobierno para su aprobación, en los términos de la Ley Orgánica del Poder Ejecutivo;
+
+V. Elaborar el proyecto de presupuesto anual de egresos de la Unidad y presentarlo ante la Junta de Gobierno para su aprobación en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco y su Reglamento;
+
+VI. Representar a la Unidad ante los sectores público, social y privado;
+
+VII. Representar legalmente a la Unidad con todas las facultades que corresponden a los mandatarios generales para pleitos y cobranzas, y las especiales que le sean autorizadas por la Junta de Gobierno;
+
+VIII. Presentar trimestralmente a la Junta de Gobierno los estados financieros, así como los informes específicos que se le requieran;
+
+IX. Presentar anualmente a la Junta de Gobierno los estados financieros y balances, así como el informe anual de actividades del ejercicio anterior, dentro de los tres primeros meses del año siguiente;
+
+X. Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas de la Unidad y demás organismos y personas relacionadas con las actividades de ésta;
+
+XI. Presentar anualmente a la Junta de Gobierno los requerimientos de equipo y capacitación necesaria por parte de la Unidad;
+
+XII. Disponer la integración, capacitación y asesoría en las dependencias y organismos de la Administración Pública Estatal, instituciones privadas y del sector social, con respecto a su unidad interna de protección civil y promover su participación en las acciones que se realicen en la materia con la acreditación y autorización por parte de la Unidad, vigilando su operación;
+
+XIII. Elaborar el informe y la evaluación inicial de una situación de emergencia, mismo que se deberá presentar al Comité Estatal de Emergencia para que éste determine las acciones necesarias; e informarlo, en su oportunidad, a la Junta de Gobierno;
+
+XIV. Desempeñar el cargo de Secretario Técnico del Consejo Estatal y dar seguimiento a los acuerdos que tome el propio Consejo;
+
+XV. Incorporar métodos, procedimientos y directrices en lo referente a sistemas de comunicación para atención a emergencias;
+
+XVI. Formular manuales y disposiciones técnicas de procedimientos y de prestación de servicios al público que se requieran para la adecuada operación de la Unidad;
+
+XVII. Asesorar al Consejo Estatal en todos los aspectos técnicos de Protección Civil;
+
+XVIII. Expedir los nombramientos de los servidores públicos y llevar las relaciones de trabajo o laborables con el personal de la Unidad, en los términos de la Ley para los Servidores Públicos del Gobierno del Estado de Jalisco y sus Municipios, así como del Reglamento Interior de Trabajo de la Unidad;
+
+XIX. Someter a la Junta de Gobierno, para su aprobación, la estructura anual administrativa y operativa;
+
+XX. Autorizar y supervisar los programas internos de Protección Civil en los inmuebles y establecimientos que por su propia naturaleza o por el uso a que sea destinados reciban una afluencia masiva de personas;
+
+XXI. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de Protección Civil;
+
+XXII. Fomentar la práctica de simulacros que permiten orientar y auxiliar a la población en caso de estados de emergencia en los establecimientos en los que haya afluencia de público;
+
+XXIII. Llevar el registro y control de manejo, almacenamiento, transporte y utilización de materiales peligrosos y explosivos en la Entidad y disponer las medidas preventivas en las instalaciones y el transporte que en materia de protección Civil se deban cumplir para garantizar el menor riesgo posible a la población, y aplicar, en lo conducente, lo dispuesto por el Reglamento de la Ley de Protección Civil del Estado de Jalisco en materia de Seguridad y Prevención de Riesgos en Establecimientos de Venta, Almacenamiento y Autoconsumo de Gasolinas y Diesel, así como las demás disposiciones legales y reglamentarias aplicables en la materia;
+
+XXIV. Integrar el atlas de riesgos del Estado;
+
+XXV. Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios;
+
+XXVI. Establecer, operar, administrar y vigilar los centros de acopio que con motivo de un desastre se establezcan en la entidad;
+
+XXVII. Erogar los montos que considere necesarios, dentro de los límites que para tal efecto establezca la Ley, el Reglamento y el Presupuesto de Egresos, cuando se esté ante la presencia de un desastre natural que ponga en riesgo la vida humana y cuando la rapidez de la actuación sea necesaria para cubrir las necesidades prioritarias de la población, principalmente en materia de protección civil.
+
+Una vez superada la emergencia inmediata y en un plazo no mayor a veinte días hábiles posteriores al evento, deberá actuar de acuerdo a lo previsto por la Junta de Gobierno.
+
+Las erogaciones que se hayan efectuado para la atención de la emergencia dada por el desastre natural, serán regularizadas con posterioridad;
+
+XXVIII. Formular los reglamentos necesarios para el buen funcionamiento de la Unidad y proponerlos a la Junta de Gobierno;
+
+XXIX. Dictar las circulares y consignas necesarias para el funcionamiento de la Unidad;
+
+XXX. Aprobar los manuales de procedimiento que le propongan de las diferentes áreas de la Unidad; y
+
+XXXI. Las demás que le sean conferidas por acuerdo de la Junta de Gobierno y por otras disposiciones legales y reglamentarias aplicables.
+
+### CAPÍTULO VII. De las Direcciones, Coordinaciones y Departamentos
 
 ###### Artículo 28.
 
-El Comité funcionará conforme a lo regulado y previsto en el artículo 28 de la Ley.
+Corresponde a los directores de área y coordinadores las siguientes atribuciones:
 
-El Comité sesionará de manera ordinaria cuando menos una vez cada cuatro meses o de manera extraordinaria cuando así se requiera.
+I. Auxiliar al Director General dentro de la esfera de su competencia;
+
+II. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento y labores encomendadas que le sean adscritas y coordinar las que se realicen con las demás Direcciones de la Unidad;
+
+III. Acordar con el Director General el despacho de los asuntos encomendados al área administrativa y operativa de su Dirección e informarle oportunamente sobre los mismos;
+
+IV. Dar a conocer al Director General las actividades que realicen las unidades a su cargo;
+
+V. Vigilar que se cumplan estrictamente las disposiciones legales en todos los asuntos de su competencia;
+
+VI. Someter a la autorización del Director General la expedición de los nombramientos del personal de su área, así como decidir sobre los movimientos de dicho personal conforme a los lineamientos que establezcan, y suscribir todos los documentos correspondientes;
+
+VII. Formular los proyectos de programas y de presupuesto que le correspondan; y
+
+VIII. Elaborar los manuales de procedimiento que corresponda a su área.
+
+### CAPÍTULO VIII
+
+Disposiciones Complementarias.
 
 ###### Artículo 29.
 
-El Comité tendrá las atribuciones que se encuentran establecidas en el artículo 29 de la Ley, así como en su Reglamento, en los Lineamientos y en el presente Reglamento Interno.
+Las remuneraciones del Director General, Directores, Coordinadores y demás personal de Dirección, Administración e Inspección, serán fijadas en el presupuesto anual de la Unidad.
 
 ###### Artículo 30.
 
-La convocatoria para las sesiones del Comité se hará a través del personal operativo de la UTIDIF, con cinco días de anticipación a la fecha programada para sesionar, tratándose de sesiones ordinarias, y con veinticuatro horas de anticipación para las sesiones extraordinarias.
-
-La convocatoria deberá contener el orden el (sic) día a tratarse, dependiendo del tipo de sesión a desarrollar.
+Las relaciones de trabajo entre la Unidad y su personal de base se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, reglamentos y demás disposiciones jurídicas laborales aplicables.
 
 ###### Artículo 31.
 
-Para que tengan validez las sesiones del Comité, se requerirá la asistencia de más de la mitad de sus integrantes y sus decisiones se tomarán por mayoría simple de votos, con voto de calidad de su Titular en caso de empate.
+Son servidores públicos de confianza: el Director General, Directores de área, coordinadores y demás personal que tenga facultades de inspección, supervisión, vigilancia, auditoría, asesoría, custodia de bienes y demás que señalen la Ley y los reglamentos correspondientes.
+
+ARTÍCULOS TRANSITORIOS (SIC)
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide el Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco, para quedar como sigue:
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco
+Así lo resolvió el Ciudadano Gobernador Constitucional del Estado, ante el Ciudadano Secretario General de Gobierno, quien autoriza y da fe.
+
+ATENTAMENTE
+
+"1999, AÑO DE LA VIVIENDA EN JALISCO"
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+ING. ALBERTO CÁRDENAS JIMÉNEZ
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
+
+La presente hoja de firmas corresponde al Acuerdo Administrativo del Gobernador Constitucional del Estado, por el cual se ordena la publicación del Reglamento Interno de la Unidad Estatal de Protección Civil.
