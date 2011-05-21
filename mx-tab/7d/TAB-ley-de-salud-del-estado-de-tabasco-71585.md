@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2010-12-18"
+last_updated: "2011-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -69,19 +69,19 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VII. El tratamiento integral del dolor, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -2763,7 +2763,9 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación de sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad municipal con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación de la misma.
 
-### CAPÍTULO XI. BAÑOS PÚBLICOS
+### CAPÍTULO XI. BAÑOS PÚBLICOS Y SPA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 317.
 
@@ -2865,11 +2867,17 @@ Las personas privadas de su libertad que requieran atención médica especializa
 
 En los casos a que se refiere el artículo anterior, la Secretaría de Salud deberá coordinarse con las autoridades encargadas de los reclusorios o centros de readaptación social a fin de tomar las medidas de seguridad tendientes a evitar la evasión de personas.
 
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE MAYO DE 2011)</small>
+
 ### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### ARTÍCULO 335.
 
-Para los efectos de esta Ley, se entiende por baños públicos el establecimiento destinado a utilizar el agua para aseo corporal, deporte a (sic) uso medicinal bajo la forma de baño y al que pueda concurrir el público, quedan incluidos en la denominación de baños los llamados de vapor y de aire caliente.
+Para los efectos de esta Ley, se entiende por:
+
+I.- Baños públicos: establecimiento destinado a utilizar el agua para aseo corporal, deporte, para uso de relajación o fisioterapia, bajo la forma de baño y al que pueda concurrir el público, quedan incluidos en la denominación de baños los llamados de vapor y aire caliente.
+
+II.- Spa: aquellos establecimientos que ofrezcan tratamientos, alternativas de relajación y terapias, utilizando como fuente principal y base de estos el agua.
 
 ###### ARTÍCULO 336.
 
@@ -2878,6 +2886,10 @@ Para abrir al servicio público estos establecimientos, así como para el desarr
 ###### ARTÍCULO 337.
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley, otras disposiciones legales aplicables y las normas correspondientes que dicte la Secretaría de Salud, y se requiere para su operación, dar aviso de funcionamiento a la autoridad sanitaria en un plazo de quince días hábiles a partir de la apertura.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+
+ARTÍCULO 337 BIS.- Queda prohibido en los establecimientos comprendidos en este capítulo; ofertar y aplicar cualquier tipo de procedimiento de riesgo y de medicamentos o substancias administradas por vía intramuscular, intravenosa, oral, ótica, oftálmica, intratecal, intradérmica y subcutánea con fines terapéuticos, estéticos o de cualquier otra índole.
 
 ### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
 
@@ -3774,3 +3786,9 @@ SEGUNDO.- La Secretaría de Salud tendrá un término de sesenta días, a partir
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
+
+P.O. 21 DE MAYO DE 2011.
+
+PRlMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
