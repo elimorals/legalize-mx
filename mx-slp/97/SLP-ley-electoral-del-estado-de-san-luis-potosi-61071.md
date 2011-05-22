@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-61071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2010-10-23"
+last_updated: "2011-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -125,7 +125,9 @@ XXIII. Precampaña: es el conjunto de actividades, actos y propaganda electoral 
 
 XXIV. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
 
-XXV. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, convocada el tercer domingo del mes de agosto del año inmediato anterior al de la elección, de conformidad con el artículo 67 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo, o en su caso, la última resolución que emita el Tribunal Electoral del Poder Judicial del Estado y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y los ciudadanos, dentro de este término;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2011)</small>
+
+XXV. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, convocada el día uno del mes de octubre del año inmediato anterior al de la elección, de conformidad con el artículo 67 de la presente Ley, y que concluye con la declaratoria de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Poder Judicial del Estado, o el Tribunal Electoral del Poder Judicial de la Federación, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y los ciudadanos, dentro de este término;
 
 XXVI. Propaganda electoral: es el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía, las respectivas candidaturas;
 
@@ -955,9 +957,11 @@ Fuera del supuesto señalado en el párrafo anterior, los consejeros ciudadanos 
 
 La ausencia sin previo aviso, sólo se tendrá por justificada cuando por incomunicación, caso fortuito o fuerza mayor, la imposibilidad de asistir al cumplimiento de sus deberes haya sido manifiesta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 67.
 
-El Consejo dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por el Presidente del mismo, el tercer domingo del mes de agosto del año anterior al de las elecciones ordinarias, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
+El Consejo dará inicio al proceso electoral mediante una sesión pública de instalación convocada por el Presidente del mismo, el día uno de octubre del año anterior al de las elecciones ordinarias, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
 
 I. Convocar a los partidos políticos para que designen o ratifiquen ante el Consejo, a quienes deban representarlos:
 
@@ -1845,9 +1849,11 @@ Tratándose de elección extraordinaria, en la convocatoria respectiva deberá e
 
 ### CAPITULO I. De las Fases del Proceso
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 122.
 
-El proceso de las elecciones ordinarias de Gobernador, diputados, y ayuntamientos, comienza a partir de la sesión del Consejo, el tercer domingo del mes de agosto del año anterior al de la elección, y culmina con la declaración de validez formal pronunciada por el Consejo, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 71 fracción II inciso l) de esta Ley. Sus fases serán:
+El proceso de las elecciones ordinarias de, Gobernador, diputados, y ayuntamientos, comienza a partir de la sesión del Consejo, el día uno de octubre del año anterior al de la elección, y culmina con la declaratoria de validez formal pronunciada por el Consejo, conforme a lo dispuesto por el párrafo segundo del artículo 31 de la Constitución del Estado, y el artículo 71 fracción segunda inciso l) de esta Ley. Sus fases serán:
 
 I. Proveer la debida integración de las comisiones distritales electorales en el mes de noviembre anterior al año de la elección, comprobando la legal instalación de éstas, a más tardar el último día del mes de enero del año de la elección;
 
@@ -3794,3 +3800,9 @@ P.O. 23 DE OCTUBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
