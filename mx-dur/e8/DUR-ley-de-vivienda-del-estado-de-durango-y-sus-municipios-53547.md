@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-y-sus-municipios-53547"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-17"
-last_updated: "2009-12-20"
+last_updated: "2011-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE FECHA 22 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de diciembre de 2006.
 
@@ -1214,3 +1216,39 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 22 DE MAYO DE 2011.
+
+Entrada en Vigor
+
+PRIMERO.- La presente Ley, entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Derogación de disposiciones que se opongan
+
+SEGUNDO.- Se abroga la Ley de Vivienda del Estado de Durango y sus Municipios, aprobada por la LXIII Legislatura del Congreso del Estado, mediante Decreto 305, publicado el 17 de diciembre de 2006, y se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+Expedición del Reglamento de la Ley de Vivienda
+
+TERCERO.- El Ejecutivo del Estado elaborará en conjunto con la Comisión Legislativa de Vivienda, el Reglamento de esta Ley, el cual deberá expedir en un plazo de sesenta días naturales a partir de la publicación del presente Decreto.
+
+Liquidación del Instituto de Vivienda del Estado de Durango
+
+CUARTO.- El Ejecutivo del Estado deberá realizar las acciones conducentes para liquidar el Instituto de la Vivienda del Estado de Durango, IVED, en un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Igualmente establecerá los mecanismos para cubrir y negociar los pasivos del organismo que se extingue.
+
+En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo que se extingue.
+
+Constitución de la Comisión Estatal
+
+QUINTO.- La Comisión Estatal de Suelo y Vivienda de Durango quedará constituida a partir del presente Decreto, asumiendo los bienes muebles e inmuebles, derechos, recursos financieros y demás activos del Instituto de la Vivienda del Estado de Durango, IVED; así como los recursos presupuestales y financieros que la Ley de Egresos del Estado de Durango vigente para el ejercicio fiscal 2011 disponga a favor del Instituto de la Vivienda del Estado de Durango, y por los que la Secretaría de Finanzas y Administración le asigne. Dichos recursos deberán ser suficientes para cubrir el Presupuesto de Egresos aprobado por su Junta de Gobierno.
+
+Los recursos financieros, asignados al IVED y los recursos materiales que hubiera adquirido por cualquier título, serán transferidos al nuevo organismo, de acuerdo al procedimiento y a las reglas establecidas en la Ley para la Entrega-Recepción de las Administraciones Públicas del Estado y los Municipios de Durango, a más tardar dentro de los 30 días posteriores a la entrada en vigor del presente Decreto.
+
+Expedición del Reglamento Interior de la Comisión Estatal
+
+SEXTO.- La Junta de Gobierno de la Comisión Estatal de Suelo y Vivienda de Durango deberá expedir el Reglamento Interior del organismo a que alude el artículo anterior, a más tardar a los noventa días naturales a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
