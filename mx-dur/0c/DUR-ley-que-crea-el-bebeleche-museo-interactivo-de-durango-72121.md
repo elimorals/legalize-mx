@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-bebeleche-museo-interactivo-de-durango-72121"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2009-12-20"
+last_updated: "2011-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL "BEBELECHE, MUSEO INTERACTIVO DE DURANGO"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -203,7 +203,9 @@ Todos los miembros del Consejo Directivo tendrán derecho a voz y voto, en caso 
 
 Cada miembro propietario deberá tener un suplente, que cubrirá sus ausencias en los términos que establezca el Reglamento Interno. Los suplentes tendrán las mismas facultades del titular.
 
-En los casos de ausencia del Presidente del Museo, será suplido por quien presida el Voluntariado del Sistema Estatal para el Desarrollo Integral de la Familia; en su ausencia, por quién designe el Presidente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2011)</small>
+
+En los casos de ausencia del Presidente del Museo, será suplido por quien designe el propio Presidente.
 
 ###### ARTICULO 12.
 
@@ -474,3 +476,11 @@ C.P. ISMAEL ALFREDO HERNADEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MAYO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
