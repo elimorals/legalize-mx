@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2011-05-12"
+last_updated: "2011-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1847,23 +1847,31 @@ Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la
 
 ### CAPÍTULO VII. EXTORSIÓN
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2011)</small>
+
 ###### Artículo 168.
 
-Se impondrá de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario, al que sin derecho, por cualquier medio, obligue a otro a hacer, tolerar o dejar de hacer algo, con ánimo de lucro para sí o para otro o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
-
-Las penas se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de uno a cinco años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad privada, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada.
+Se impondrá de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario, al que sin derecho, por cualquier medio, obligue a otro a hacer algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
 
 Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientos veinte días de salario, cuando en la comisión del delito:
 
-I. Intervenga una o más personas armadas o portando instrumentos peligrosos;
+I. Intervenga una o más personas armadas o portando instrumentos que puedan poner en peligro la vida;
 
 II. Se emplee violencia;
 
-III. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+III. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
 
-IV. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal; y,
+IV. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
 
-V. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
+V. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+VI. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
+
+VII. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
+
+VIII. Participe algún miembro de una corporación policiaca u otro servidor público. Además de las penas previstas, una vez que haya cumplido su condena, se le impondrán la destitución e inhabilitación por un tiempo igual al de la pena de prisión impuesta; y
+
+IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
 
 ### CAPÍTULO VIII. ASALTO
 
@@ -4484,3 +4492,9 @@ P.O. 12 DE MAYO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 22 DE MAYO DE 2011.
+
+PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
