@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-05-09"
+last_updated: "2011-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -741,7 +741,9 @@ XVII.- Comisión de Corrección y Estilo;
 
 XVIII.- Comisión de Asuntos Indígenas;
 
-XIX.- Comisión de Asuntos del Campo;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2011)</small>
+
+XIX.- Comisión de Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
 XX.- Comisión de Desarrollo Regional;
 
@@ -1948,3 +1950,7 @@ P.O. 9 DE MAYO DE 2011.
 Primero.- Envíese al Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
 
 Segundo.- Envíese copia del mismo, a la Junta de Gobierno del Congreso del Estado, para los efectos procedentes.
+
+P.O. 23 DE MAYO DE 2011.
+
+Primero.- Envíese al Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
