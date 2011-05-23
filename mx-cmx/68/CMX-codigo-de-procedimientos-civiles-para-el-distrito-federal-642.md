@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-03-18"
+last_updated: "2011-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1440,11 +1440,15 @@ II.- Cuando se trate de personas cuyo domicilio se ignora, previo informe de una
 
 En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el boletín judicial y en el periódico local que indique el juez, debiendo mediar entre cada publicación dos días hábiles, haciéndose saber que debe de presentarse el citado, dentro de un termino que no será inferior a quince días ni excederá de sesenta días; y
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE MAYO DE 2011)</small>
 
-III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 3047 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para citar a las personas que puedan considerarse perjudicadas.
+III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 3047 del Código Civil para el Distrito Federal, para citar a las personas que puedan considerarse perjudicadas.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
 El edicto se publicará por una sóla vez en el Diario Oficial de la Federación; en el Boletín Judicial, en la Gaceta Oficial del Departamento del Distrito Federal, Sección Boletín Registral, y en un periódico de los de mayor circulación. Además se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre del promovente y permanecer en el inmueble durante todo el trámite judicial.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
 En la solicitud se mencionarán:
 
@@ -1458,21 +1462,27 @@ d) La ubicación precisa del bien y sus medidas y colindancias, y
 
 e) El nombre y domicilio de los colindantes.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
+
 Asimismo, a la solicitud se acompañarán:
 
 a) Un plano autorizado por la Tesorería del Distrito Federal, y
 
 b) Certificado de no inscripción del inmueble expedido por el Registro Público de la Propiedad. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el predio de que se trate y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.O. 23 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+Realizadas las publicaciones se correrá traslado de la solicitud, para que conteste dentro del término de quince días hábiles, a la persona de quien obtuviera la posesión o su causahabiente si fuere conocido; al Ministerio Público; a los colindantes; al Delegado del Registro Agrario Nacional en el Distrito Federal, para que manifieste si el inmueble a inmatricular se encuentra o no afecto al régimen ejidal o comunal, y a la Secretaría de la Función Pública, para que exprese si el predio es o no de propiedad federal.
 
-Realizadas las publicaciones se correrá traslado de la solicitud, para que contesten dentro del término de quince días hábiles, a la persona de quien obtuviera la posesión o su causahabiente si fuere conocido; al Ministerio Público; a los colindantes; al Delegado de la Secretaría de la Reforma Agraria en el Distrito Federal, para que manifieste si el inmueble a inmatricular se encuentra o no afecto al régimen ejidal o comunal, y a la Secretaría de Desarrollo Urbano y Ecología, para que exprese si el predio es o no de propiedad federal.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
 Producida o no la contestación y sin necesidad de acuse de rebeldía, el juez al vencerse el último término de traslado, abrirá una dilación probatoria por quince días, pudiendo ampliarla, a solicitud del interesado, hasta por treinta días.
 
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
+
 Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por los medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a inmatricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata.
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
 En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ámbos efectos y el recurso se substanciará como en los juicios ordinarios.
 
@@ -10419,3 +10429,9 @@ CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Dec
 QUINTO.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 27 de enero de 2012.
 
 SEXTO.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto del presente decreto.
+
+G.O. 23 DE MAYO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
