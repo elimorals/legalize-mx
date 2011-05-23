@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-municipal-de-planeacion-70485
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-12"
-last_updated: "2010-03-01"
+last_updated: "2011-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de octubre de 2009.
 
@@ -459,9 +459,11 @@ XVIII. Presentar la propuesta final de las acciones, actividades, obras y progra
 
 XIX. Informar a la Junta de Gobierno el resultado de la evaluación del Programa Operativo Anual Municipal.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 45.
 
-Las ausencias del Director General del IMPLAN, serán suplidas por cualquiera de los dos Directores, quien fungirá como encargado de despacho por el tiempo que dure la ausencia y tendrá las facultades y obligaciones inherentes a aquél.
+Las ausencias temporales del Director General del IMPLAN, serán suplidas por el Director de Planeación y en su ausencia por cualquiera de los Directores en funciones, quienes fungirán como encargados de despacho por el tiempo que dure la ausencia y tendrán las facultades y obligaciones inherentes a aquel.
 
 ###### ARTÍCULO 46.
 
@@ -517,9 +519,11 @@ Durante el desarrollo de los procedimientos a que se refiere el presente Reglame
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 55.
 
-El Reglamento en su artículo 24 dispone que para su adecuada operación y funcionamiento el Instituto a través de su Dirección General contará con las Direcciones y Subdirecciones que se determinen en el presente Reglamento Interior, para lo cual habrá dos Direcciones, una Subdirección Administrativa, una Subdirección Jurídica y ocho Subdirecciones Operativas, siendo las siguientes:
+El Reglamento en su artículo 24 dispone que para su adecuada operación y funcionamiento el Instituto a través de su Dirección General contará con las Direcciones y Subdirecciones que se determinen en el presente Reglamento Interior, para lo cual habrá tres Direcciones, una Subdirección Administrativa, una Subdirección Jurídica y diez Subdirecciones Operativas, siendo las siguientes:
 
 A) Dirección de Administración y Finanzas.
 
@@ -545,13 +549,25 @@ V. Subdirección de Desarrollo Social;
 
 VI. Subdirección de Desarrollo Sustentable.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+C) Dirección de Información.
+
+l. Subdirección de Cartografía.
+
+II. Subdirección de Estadística.
+
+III. Subdirección de Informática.
+
 ###### ARTÍCULO 56.
 
 Los Directores deberán llenar los requisitos que se señalan para el Director General, salvo para el Director de Administración y Finanzas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 57.
 
-Cualquiera de los dos Directores, tendrán las siguientes facultades y obligaciones:
+Cualquiera de los tres Directores, tendrán las siguientes facultades y obligaciones:
 
 I. Acordar con el Director General el despacho de los asuntos encargados a sus áreas;
 
@@ -839,33 +855,7 @@ XX. Coordinar la preparación de Presupuestos y Proyectos Específicos.
 
 ###### ARTÍCULO 66.
 
-La Subdirección de Información se encargará de:
-
-I. Organizar y coordinar el Comité de Información del Municipio de Aguascalientes;
-
-II. Recolectar, procesar e integrar la información estadística y geográfica producida por las entidades públicas y privadas del Municipio;
-
-III. Proveer y difundir la información estadística y geográfica integrada en el Sistema de Información del Municipio de Aguascalientes;
-
-IV. Coordinar la generación, organización y sistematización de las bases de datos del Sistema de Información del Municipio de Aguascalientes;
-
-V. Generar información estadística de orden técnico, social y económico, debidamente georeferenciada;
-
-VI. Establecer mecanismos que permitan la normalización, confiabilidad e integridad de la información municipal;
-
-VII. Coordinarse con los otros departamentos del Instituto, para el desarrollo de proyectos;
-
-VIII. Coordinarse con las Direcciones o Departamentos de la Administración Pública Municipal, a fin de unificar bases y criterios en materia de información;
-
-IX. Ser el enlace y representante municipal ante comités, subcomités o bien otras dependencias de otros niveles de gobierno para establecer convenios que permitan el intercambio de información;
-
-X. Proponer y dar seguimiento a los acuerdos institucionales con el Comité de Información del Municipio de Aguascalientes;
-
-XI. La recopilación de información de instancias generadoras de estadísticas e indicadores;
-
-XII. Dar seguimiento a la metodología mediante la cual operará el Sistema de Información del Municipio de Aguascalientes; y
-
-XIII. Las demás que para el cumplimiento de los fines institucionales le sean asignadas por la Dirección General del Instituto.
+(DEROGADO, P.O. 23 DE MAYO DE 2011)
 
 ### CAPITULO IX. De la Subdirección de Proyectos Especiales
 
@@ -991,17 +981,151 @@ VI. La vinculación con otras dependencias y organismos.
 
 VII. Verificar que los Proyectos que integran el Programa Anual de Inversión Municipal cumplan con la normatividad ambiental aplicable en cada caso.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+
+### CAPITULO XIII BIS. De la Dirección de Información
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 71 Bis.
+
+La Dirección de Información será la proveedora única de la información estadística y geográfica del Municipio para la elaboración de los planes y programas de desarrollo urbano, ambiental, social y económico, así como para la toma de decisiones estratégicas de las autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 71 Ter.
+
+La Dirección de Información tendrá las siguientes funciones:
+
+I. Identificar y definir las fuentes oficiales de información;
+
+II. Clasificar la información por tipo:
+
+Territorial (responsabilidad de la Subdirección de Geografía),
+
+De posición geográfica (responsabilidad de la Subdirección de Geografía) De temporalidad (responsabilidad de la Subdirección de Estadística) (sic)
+
+Estadística (responsabilidad de la Subdirección de Estadística);
+
+III. Proveer de información Geográfica y Estadística a las direcciones del Instituto así como asegurarse de que cuenten con el equipo y software para operar los datos.
+
+IV. Proveer de información Geográfica y Estadística a las diferentes dependencias municipales, estatales o federales que la soliciten.
+
+V. Proveer de información Geográfica y Estadística a la población en general.
+
+VI. Difusión de toda la información a través de medios electrónicos interactivos o bien en medios impresos.
+
+VII. Acopio de información Geográfica y Estadística.
+
+VIII. Procesamiento de información Geográfica y Estadística.
+
+IX. Mantenimiento y actualización de información Geográfica y Estadística, equipo y software.
+
+X. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información Geográfica y Estadística del Municipio.
+
+XI. Atención y asistencia de comités y subcomités.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+
+### CAPITULO XIII TER. De la Subdirección de Geografía
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Cuater. La Subdirección de Geografía elaborará, actualizará, y mantendrá toda la información que tiene que ver con la territorialidad del Municipio; así como geoposicionar y clasificar la información de carácter operativo de las diferentes dependencias gubernamentales o de la iniciativa privada.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Quintus. La Subdirección de Geografía tendrá las siguientes funciones:
+
+I. Definir y normar la producción y uso de la cartografía oficial municipal.
+
+II. Vigilar que toda la información geográfica cumpla con las políticas nacionales y se apeguen a los reglamentos.
+
+III. Proveer de información geográfica a las direcciones del IMPLAN.
+
+IV. Proveer de información geográfica a las diferentes dependencias municipales, estatales o federales que la soliciten.
+
+V. Proveer de información geográfica a la población en general.
+
+VI. Administrar, establecer y actualizar herramientas de difusión de datos.
+
+VII. Capacitación en el uso de las herramientas de difusión.
+
+VIII. Mantener, fortalecer y actualizar la base de datos geográfica del Municipio.
+
+IX. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información geográfica del Municipio.
+
+X. Atención y asistencia de comités y subcomités.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+
+### CAPITULO XIII Cuater. De la Subdirección de Estadística
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Sextus. La Subdirección de Estadística elaborará, actualizará y mantendrá toda la información que tiene que ver con la estadística del Municipio, así como elaborar los índices o indicadores que sean requeridos por las diferentes áreas. Esta información deberá elaborarse en base a catálogos de geoposición de elementos para que se puedan generar mapas temáticos y de temporalidad.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Séptimus. La Subdirección de Estadística tendrá las siguientes funciones:
+
+I. Definir y normar la producción y uso de la estadística oficial municipal.
+
+II. Vigilar que toda la información estadística cumpla con las políticas nacionales y se apeguen a los reglamentos.
+
+III. Proveer de información estadística a las direcciones del IMPLAN.
+
+IV. Proveer de información estadística a las diferentes dependencias municipales, estatales o federales que la soliciten.
+
+V. Proveer de información estadística a la población en general.
+
+VI. Administrar, establecer y actualizar herramientas de difusión de datos.
+
+VII. Asesoría en el uso y explotación de la información estadística.
+
+VIII. Mantener, fortalecer y actualizar la base de datos estadísticos del Municipio.
+
+IX. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información estadística del Municipio.
+
+X. Atención y asistencia de comités y subcomités.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+
+### CAPITULO XIII Quintus. De la Subdirección de Informática
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Octavus. La Subdirección de Informática desarrollará, implementará y dará mantenimiento a los sistemas informáticos, así como instalará y dará mantenimiento al software que adquiera el IMPLAN.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+
+ARTÍCULO 71 Novenus. La Subdirección de Informática tendrá las siguientes funciones:
+
+I. Proveer a·la Dirección de Administración los lineamientos, características y especificaciones técnicas para que sean adquiridos los equipos de cómputo y software que requiere el Instituto.
+
+II. Hacer análisis de necesidades de equipamiento y software de las diferentes direcciones del Instituto.
+
+III. Mantener el equipo de cómputo.
+
+IV. Actualizar software.
+
+V. Dar mantenimiento a las instalaciones de voz y datos del IMPLAN.
+
+VI. Página web del IMPLAN.
+
+VII. Desarrollo de sistemas informáticos para apoyo de las diferentes áreas del IMPLAN.
+
+VIII. Asistencia y soporte técnico a los usuarios y equipos del IMPLAN.
+
 ### CAPITULO XIV. De las Normas que regulan las Actividades de los Trabajadores
-
-### CAPITULO I. Del Comité de Adquisiciones de Bienes y Servicios
-
-### CAPITULO II. De los Procedimientos para la Adquisición de Bienes y Servicios
 
 ###### ARTÍCULO 72.
 
 La relación entre el Instituto Municipal de Planeación de Aguascalientes y sus trabajadores de base y eventuales se regirá por el Reglamento Interior de Trabajo del Instituto Municipal de Planeación y por la Ley Federal del Trabajo en cuanto al Derecho Procesal, así como por la Ley de Responsabilidades de los Servidores Públicos del Estado y el Código Municipal de Aguascalientes.
 
 ## TITULO CUARTO. DE LA ADQUISICIÓN DE BIENES Y SERVICIOS DEL IMPLAN
+
+### CAPITULO I. Del Comité de Adquisiciones de Bienes y Servicios
 
 ###### ARTÍCULO 73.
 
@@ -1153,6 +1277,8 @@ III. Firmar las actas que se levanten en cada reunión, siempre y cuando conste 
 
 El representante de la Contraloría Municipal, asesorará al Comité en la interpretación y aplicación de las normas, sistemas y procedimientos para la mejor administración y operación para las adquisiciones de bienes y servicios a favor del IMPLAN.
 
+### CAPITULO II. De los Procedimientos para la Adquisición de Bienes y Servicios
+
 ###### ARTÍCULO 83.
 
 Las adquisiciones de bienes y servicios se podrán contratar mediante los procedimientos que a continuación se señalan:
@@ -1232,3 +1358,13 @@ Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Plane
 ###### ARTICULO SEGUNDO.
 
 Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE MAYO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas, adiciones y derogaciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
