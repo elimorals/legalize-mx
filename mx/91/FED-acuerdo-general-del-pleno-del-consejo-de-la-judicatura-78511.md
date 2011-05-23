@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2011-01-24"
+last_updated: "2011-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-11-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2011.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -1143,7 +1143,9 @@ b) En unidades administrativas:
 
 22. En la Contraloría, todos los servidores públicos de confianza.
 
-c) En Tribunal Electoral:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 23 DE MAYO DE 2011)</small>
+
+c) En Tribunal Electoral, con excepción de los magistrados electorales, los servidores públicos de la Sala Superior, los coordinadores y demás servidores públicos directamente adscritos a su presidencia, en términos del artículo 222 de la Ley Orgánica:
 
 1. Secretario Administrativo;
 
@@ -1566,3 +1568,13 @@ Magistrado César Esquinca Muñoa
 Consejero de la Judicatura Federal
 
 MARIA DOLORES OMAÑA RAMIREZ, SECRETARIA EJECUTIVA DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Procedimiento de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, fue aprobado por el Pleno del Propio Consejo, en lo general en sesión ordinaria de tres de noviembre de dos mil diez y en lo particular en sesión extraordinaria de nueve del mismo mes y año, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín; en contra del voto del señor Consejero César Esquinca Muñoa, quien formuló voto particular.- México, Distrito Federal, a catorce de enero de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MAYO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la (sic) páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
