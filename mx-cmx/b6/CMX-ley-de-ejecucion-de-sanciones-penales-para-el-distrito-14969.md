@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2011-02-08"
+last_updated: "2011-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -758,6 +758,34 @@ Existirá una Institución que preste asistencia y atención a los liberados y e
 
 El Gobierno del Distrito Federal establecerá las bases, normas y procedimientos de operación de la Institución de asistencia post-penitenciaria.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE MAYO DE 2011)</small>
+
+## TITULO DECIMO. CONVENIOS CON LA FEDERACION Y OTROS ESTADOS PARA LA EXTINCION DE SANCIONES PENALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 23 DE MAYO DE 2011)</small>
+
+### CAPITULO UNICO. DE LA POSIBILIDAD DE CELEBRAR CONVENIOS
+
+> <small>(ADICIONADO, G.O. 23 DE MAYO DE 2011)</small>
+
+###### Artículo 71.
+
+El Jefe de Gobierno del Distrito Federal, podrá en los términos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, celebrar convenios para que los sentenciados por delitos del ámbito de su competencia local, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa; asimismo, podrá en éstos convenios recibir reos del orden Federal o de diversa competencia local para que extingan su condena en los Centros de Readaptación Social del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 23 DE MAYO DE 2011)</small>
+
+###### Artículo 72.
+
+Los anteriores convenios se sujetarán a las condicionantes siguientes:
+
+A) Que no causen o aumenten el problema de sobrepoblación carcelaria.
+
+B) Que no representen un peligro para la seguridad de la institución y,
+
+C) Que no representen una erogación para el Distrito Federal, sino que aquella jurisdicción que envía al sentenciado, cubra las erogaciones que represente dicho convenio.
+
+Para el cumplimiento de los convenios, los reos que se encuentren compurgando sus penas en Centros de Internamiento del Distrito Federal, deberán haber cubierto la reparación del daño.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por la presente Ley.
@@ -863,3 +891,9 @@ G.O. 8 DE FEBRERO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 23 DE MAYO DE 2011.
+
+Primero: Publíquese en la Gaceta Oficial del Distrito federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación para su mayor difusión.
