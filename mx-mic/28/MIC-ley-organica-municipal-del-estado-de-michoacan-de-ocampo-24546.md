@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2010-05-05"
+last_updated: "2011-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -2103,6 +2103,30 @@ Los bienes de domino (sic) público de uso común y los destinados a un servicio
 
 La compra, venta, donación, cesión o gravamen de bienes inmuebles municipales, requerirá de la aprobación de las dos terceras partes de los miembros del Ayuntamiento.
 
+(NOTA 1**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+(NOTA 2**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 75/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+(NOTA 3**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 78/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+**[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+
+NO PODRÁN SER SUJETOS DE VENTA, PERMUTA, DONACIÓN, CESIÓN, COMODATO O CUALQUIER ACTO DE ENAJENACIÓN, LOS BIENES INMUEBLES MUNICIPALES ADQUIRIDOS POR:
+
+I. DONACIÓN DE DESARROLLOS HABITACIONALES; Y,
+
+II. TRANSFERENCIA O ENAJENACIÓN DE ÁREAS DE DONACIÓN ESTATAL DE DESARROLLOS HABITACIONALES.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+
+Las áreas verdes de donación, deberán ser espacios jardinados, el fraccionador tendrá la obligación de equiparlas para tales efectos. El Ayuntamiento deberá incorporarlas como áreas de uso común de dominio público.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+
+Los proyectos de construcción de obras de equipamiento urbano que se pretendan realizar en áreas de donaciones estatales o municipales, deberán contar con la aprobación mayoritaria de los vecinos del desarrollo que generó el área de donación.
+
 ### Capítulo III
 
 Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles.
@@ -2634,3 +2658,9 @@ P.O. 21 DE MAYO DE 2009.
 P.O. 5 DE MAYO DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+
+P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
