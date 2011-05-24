@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2011-05-21"
+last_updated: "2011-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 24 DE MAYO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NUMERO 569 PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2011.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
