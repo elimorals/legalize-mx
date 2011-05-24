@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-juventud-del-estado-de-michoacan-de-ocampo-54285"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-13"
-last_updated: "2007-02-13"
+last_updated: "2011-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LOS JOVENES DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN LA QUINTA SECCION DEL P.O. DE FECHA 24 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el martes 13 de febrero de 2007.
 
@@ -580,3 +582,39 @@ PRESIDENTE.- DIP. MARTÍN GODOY SÁNCHEZ.- PRIMER SECRETARIO.- DIP. JULIÁN RODR
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 17 diecisiete días del mes de Enero del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley de Juventud del Estado de Michoacán de Ocampo, publicada el 13 de Febrero de 2007.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado dispondrá de sesenta días hábiles para la elaboración y publicación del Reglamento de esta Ley a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO CUARTO.
+
+Los Consejos Estatal y Regionales, deberán quedar instalados a más tardar la segunda quincena del mes de junio del año 2012 y durarán en su encargo hasta el término del periodo 2012-2015 de la Administración Pública Estatal.
+
+###### ARTÍCULO QUINTO.
+
+Los Consejos Municipales deberán quedar instalados la primera semana de mayo del año 2012 y por única vez durarán en su encargo el equivalente a la duración del próximo ejercicio que tendrán los ayuntamientos.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos electos para el ejercicio 2015-2017 deberán instalar los Consejos Municipales antes de la última semana del mes de abril del año 2015.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los treinta días hábiles posteriores a la conformación de los Consejos Municipales, la Secretaría integrará los Consejos Regionales.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los treinta días hábiles siguientes a la conformación de los Consejos Regionales la Secretaría deberá convocar e instalar el Consejo Estatal.
