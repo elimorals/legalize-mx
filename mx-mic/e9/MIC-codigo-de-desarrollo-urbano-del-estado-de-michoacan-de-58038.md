@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2007-12-26"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -1286,6 +1286,10 @@ l. Que el aprovechamiento de los inmuebles sea compatible con los programas de d
 II. Contar con un programa financiero en el que se establezcan los recursos económicos disponibles y su vinculación con las acciones de desarrollo; y,
 
 III. Se establezca el compromiso de aprovechar los predios en las acciones prioritarias determinadas en los programas correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+
+Los bienes inmuebles del Estado adquiridos mediante donación de desarrollos habitacionales, sólo podrán ser transferidos o enajenados a favor de los Ayuntamientos y entidades de la Administración Pública Estatal o Federal, debiendo destinar exclusivamente para los usos indicados para las áreas de donación en la Ley Orgánica Municipal.
 
 ### Capítulo VI. De la Zonificación Urbana
 
@@ -3741,7 +3745,7 @@ VII. Pendiente máxima del diez por ciento; y,
 
 VIII. La posición en relación a la manzana, deberá ser preferentemente en la cabecera, media manzana o manzana completa, de conformidad a la superficie y el uso que se le pretenda dar por parte del Ayuntamiento.
 
-Las disposiciones de este artículo no serán aplicables a las áreas de donación que correspondan al Estado.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 298.
 
@@ -5332,3 +5336,11 @@ PRESIDENTE.- DlP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARlO.- DIP. MARTÍN SAMA
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 07 siete días del mes de Diciembre del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
