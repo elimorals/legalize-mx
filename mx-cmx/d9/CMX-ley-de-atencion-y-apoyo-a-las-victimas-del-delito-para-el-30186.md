@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-atencion-y-apoyo-a-las-victimas-del-delito-para-el-30186
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2008-12-04"
+last_updated: "2011-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30186&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-08"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS DEL DELITO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -74,9 +74,13 @@ VIII. Fideicomiso, el contrato de fideicomiso que se celebre para la administrac
 
 IX. Reparación del daño, a la reparación del daño en términos de lo dispuesto por el Nuevo Código Penal para el Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 24 DE MAYO DE 2011)</small>
+
 ###### Artículo 3.
 
-La Procuraduría será la autoridad responsable, a través de la Subprocuraduría, de que la víctima o el ofendido por algún delito que corresponda conocer a los Tribunales del Distrito Federal, reciba asesoría jurídica, atención médica, psicológica y orientación social cuando lo requiera.
+La Procuraduría será la autoridad responsable, a través de la Subprocuraduría, de que la víctima o el ofendido por algún delito que corresponda conocer a los Tribunales del Distrito Federal, reciba asesoría jurídica, atención médica, psicológica y orientación social cuando lo requiera y en el caso de menores de edad, a que sea proporcionada por personal capacitado en materia de infancia.
 
 ###### Artículo 4.
 
@@ -120,9 +124,19 @@ Se entiende por daño las lesiones, físicas o mentales, o la pérdida patrimoni
 
 Las víctimas o los ofendidos por la comisión de un delito tendrán derecho, en cualquier etapa del procedimiento, según corresponda:
 
-I. A ser enterados oportunamente de los derechos que en su favor establece la Constitución y, cuando así lo soliciten, ser informados del desarrollo del procedimiento penal y de las consecuencias legales de sus actuaciones dentro del mismo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE MAYO DE 2011)</small>
+
+I. A ser enterados oportunamente de los derechos que en su favor establece la Constitución y demás normatividad y, cuando así lo soliciten, ser informados del desarrollo del procedimiento penal y de las consecuencias legales de sus actuaciones dentro del mismo;
 
 II. A que el Ministerio Público y sus Auxiliares les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia y eficacia y con la máxima diligencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE MAYO DE 2011)</small>
+
+II Bis. A ser atendidos y tratados de acuerdo a su edad y grado de desarrollo psicosocial, incluidos los menores de edad;
 
 III. A que los servidores públicos los traten con la atención y respeto debido a su dignidad humana, absteniéndose de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio, abuso o ejercicio indebido de la autoridad;
 
@@ -142,7 +156,11 @@ X. A que se les preste atención médica y psicológica de urgencia cuando la re
 
 XI. A que el Ministerio Público solicite debidamente la reparación del daño y a que se les satisfaga, cuando ésta proceda;
 
-XII. A recibir auxilio psicológico en los casos necesarios y, en caso de delitos que atenten contra la libertad y el normal desarrollo psicosexual, a recibir este auxilio por una persona de su mismo sexo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE MAYO DE 2011)</small>
+
+XII. A recibir auxilio psicológico en los casos necesarios y, en caso de delitos que atenten contra la libertad y el normal desarrollo psicosexual, a recibir este auxilio por una persona de su mismo sexo. Cuando la víctima sea menor de edad, el auxilio será proporcionado por personal capacitado en materia de infancia que le dé seguimiento a la recuperación postraumática;
 
 XIII. A ser restituidos en sus derechos, cuando éstos estén acreditados;
 
@@ -282,7 +300,11 @@ VI. La identificación de los mecanismos de enlace con las instancias similares 
 
 VII. Una estrategia de comunicación con organismos nacionales dedicados a la planeación y al desarrollo del programas (sic) de protección a las víctimas;
 
-VIII. El diseño, la programación y el calendario de cursos de sensibilización, capacitación y actualización en temas relativos a la prevención y protección a las víctimas, tanto para el personal de la Procuraduría, como para organizaciones públicas, sociales y de carácter privado que, por razón de sus funciones, tengan trato con víctimas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE MAYO DE 2011)</small>
+
+VIII. El diseño, la programación y el calendario de cursos de sensibilización, capacitación y actualización en temas relativos a la prevención atención y protección a las víctimas, incluidos los menores de edad, tanto para el personal de la Procuraduría, como para organizaciones públicas, sociales y de carácter privado que, por razón de sus funciones, tengan trato con víctimas;
 
 IX. La elaboración de códigos de ética, manuales, instructivos y formatos para brindar un servicio eficiente;
 
@@ -334,11 +356,19 @@ II. A recibir atención psicológica en caso necesario;
 
 Para el caso de lesiones, enfermedades y trauma emocional provenientes de un delito, que no pongan en peligro la vida de la víctima u ofendido, la atención médica y psicológica será proporcionada de manera gratuita en la Red de Hospitales Públicos del Gobierno del Distrito Federal, teniendo la obligación los médicos del establecimiento de rendir dictamen haciendo la clasificación legal y señalando el tiempo que dilatare la curación y las consecuencias que dejaron o dando el certificado de sanidad, según el caso;
 
-III. A recibir gratuitamente tratamiento postraumático para su pronta recuperación física y mental, contando con los servicios especializados necesarios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE MAYO DE 2011)</small>
+
+III. A recibir gratuitamente tratamiento postraumático para su pronta recuperación física y mental, contando con los servicios especializados necesarios. En el caso de menores de edad, personal capacitado en materia de infancia dará seguimiento a su recuperación;
 
 IV. A no ser explorada físicamente si no lo desea, en casos de los delitos de violación y lesiones, quedando estrictamente prohibido cualquier acto de intimidación o fuerza física para este efecto; en caso contrario, cuando así lo solicite, podrá estar acompañada por un familiar o persona de su confianza durante la exploración;
 
-V. A que la exploración y atención médica, psiquiátrica, ginecológica o de cualquier tipo, cuando se trate de delitos que atenten contra la libertad y el normal desarrollo psicosexual, esté a cargo de persona facultativa de su mismo sexo, salvo cuando solicite lo contrario la víctima o su representante legal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 24 DE MAYO DE 2011)</small>
+
+V. A que la exploración y atención médica, psiquiátrica, ginecológica o de cualquier tipo, cuando se trate de delitos que atenten contra la libertad y el normal desarrollo psicosexual, esté a cargo de persona facultativa de su mismo sexo, salvo cuando solicite lo contrario la víctima o su representante legal. En el caso de los delitos cometidos en agravio de menores de edad, será proporcionada por personal capacitado en materia de infancia; y
 
 VI. A ser atendida en su domicilio por facultativos particulares, independiente del derecho de visita de los médicos legistas y la obligación de los privados de rendir y ratificar los informes respectivos.
 
@@ -393,3 +423,9 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 24 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal para su mayor difusión.
