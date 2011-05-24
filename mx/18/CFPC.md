@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2008-12-30"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2011.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -822,6 +822,10 @@ En ningún caso se permitirá que la parte que ha de absolver un interrogatorio 
 
 Cuando el que haya de absolver posiciones fuere indígena y no hable el español, o hablándolo no lo sepa leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, asentándose su declaración en español y en su propio idioma.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+Cuando el absolvente tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá a petición de la parte que lo requiera, ordenar la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad, de un traductor o intérprete.
+
 ###### ARTICULO 108.
 
 Hecha, por el absolvente, la protesta de decir verdad, el tribunal procederá al interrogatorio.
@@ -1267,6 +1271,10 @@ Si el testigo no habla el castellano, rendirá su declaración por medio de int�
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
 Si el testigo fuere indígena y no hable el español, o hablándolo no lo supiera leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, a fin de que rinda su testimonio, sea en su propia lengua o en español; pero en cualquier caso, el mismo deberá asentarse en ambos idiomas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+Cuando el testigo tuviese alguna discapacidad visual, auditiva o de locución, el juez de la causa deberá ordenar a petición del oferente de la prueba o de la persona que dará testimonio, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de un traductor o intérprete.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -1840,6 +1848,10 @@ Las promociones que los pueblos o comunidades indígenas o los indígenas en lo 
 
 Las fechas y cantidades se escribirán con letra.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+En las actuaciones dictadas en los juicios en los que una o ambas partes tengan alguna discapacidad visual, auditiva o de locución, el tribunal deberá a petición de la parte que lo requiera, otorgar la asistencia necesaria en materia de estenografía proyectada o de ayuda técnica respectiva.
+
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
 ###### ARTICULO 272.
@@ -1861,6 +1873,10 @@ El acuerdo será reservado.
 ###### ARTICULO 274 Bis.
 
 En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+Tratándose de procedimientos en los que una o ambas partes afirmen tener la calidad de personas con discapacidad visual, auditiva o silente, la misma se acreditará con la sola manifestación de quien lo haga. En caso de que la parte contraria objete la calidad de la persona con discapacidad, el juez solicitará la expedición de una constancia a la institución pública correspondiente.
 
 ###### ARTICULO 275.
 
@@ -2295,6 +2311,18 @@ Cuando no haya controversia sobre los hechos, pero sí sobre el derecho, se cita
 ###### ARTICULO 342.
 
 Concluida la recepción de las pruebas ofrecidas por las partes y de las decretadas por el tribunal, en su caso, el último día del término de prueba se verificará la audiencia final del juicio, con arreglo a los artículos siguientes, concurran o no las partes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+Si alguna de las partes fuera indígena y no hablara el español, o hablándolo no lo supiera leer, deberá asistirle un intérprete con conocimiento de su lengua y cultura, a fin de que se conozcan fehacientemente todas las actuaciones judiciales que tengan lugar en dicha audiencia, sea en su propia lengua o en español; en cualquier caso, la misma deberá asentarse en ambos idiomas, si la naturaleza de la lengua lo permite.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+En caso de que una de las partes o ambas tengan alguna discapacidad visual, auditiva o de locución, será obligación del juez ordenar a petición de quien lo requiera, la asistencia necesaria en materia de estenografía proyectada, en los términos de la fracción VI del artículo 2 de la Ley General de las Personas con Discapacidad o de traductor, a fin de que se conozcan fehacientemente todas y cada una de las actuaciones judiciales que tengan lugar en dicha audiencia.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
+Si para el desahogo de la audiencia no es posible contar con la asistencia requerida para los indígenas y para los discapacitados visuales, auditivos o silentes ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -4001,3 +4029,9 @@ D.O.F. 30 DE DICIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- La ejecución de las sentencias, laudos y resoluciones dictadas con anterioridad a la entrada en vigor del presente decreto, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+D.O.F. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
