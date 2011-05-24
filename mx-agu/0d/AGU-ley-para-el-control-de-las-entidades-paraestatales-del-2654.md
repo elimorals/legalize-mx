@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2010-07-19"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -45,13 +45,17 @@ LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-Las entidades paraestatales a que se refiere el Artículo 2° de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, son los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos señalados, respectivamente, en las fracciones I, II y III siguientes:
+Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 I. Son organismos descentralizados las entidades creadas por ley o decreto del Congreso del Estado con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura que adopten.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 II. Son empresas de participación estatal aquellas en las que:
 
@@ -61,11 +65,19 @@ b) En la construcción de su capital se hagan figurar acciones de serie especial
 
 c) Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 III. Son fideicomisos públicos aquellos creados mediante ley o decreto del Congreso del Estado, o mediante decreto del Ejecutivo del Estado, con el propósito de auxiliar a este último en el ejercicio de las facultades o el cumplimiento de las obligaciones que le señalen las leyes, cuando se organizan de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria y el fideicomitente sea el Gobierno Estatal, algunas de sus dependencias, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso de cualquier dependencia o entidad de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría de Finanzas y las demás dependencias y entidades de la Administración Pública del Estado que cuenten con la autorización de la Secretaría de Finanzas, por conducto de sus respectivos titulares, podrán constituir o adherirse a fideicomisos privados cuando así lo permitan las disposiciones presupuestales aplicables, sea necesario o conveniente para el ejercicio de las facultades o para el cumplimiento de las obligaciones que les señalen las leyes y no se amerite crear una entidad paraestatal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
+
 Los fideicomisos privados no serán considerados entidades paraestatales; su organización, funcionamiento y control se regirá, exclusivamente, por las leyes mercantiles y sus contratos constitutivos, mismos que deberán sujetarse a las condiciones que para cada caso establezca la Secretaría de Finanzas en su autorización, y ésta incluirá los lineamientos que deban observarse para garantizar la rendición de cuentas e informes y la comprobación del manejo transparente de los recursos públicos estatales que sean aportados o queden afectos a los fideicomisos privados, salvaguardando así el derecho a la información que corresponde a los gobernados conforme a la ley.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2006)</small>
 
 Las dependencias y entidades que constituyan fideicomisos privados deberán registrarlos ante la Secretaría de Finanzas, y deberán proporcionarle a ésta toda la información y documentación que solicite para garantizar una adecuada rendición de cuentas e informes. Las dependencias y entidades deberán informar trimestralmente a la Secretaría de Finanzas el monto de recursos públicos estatales ingresados durante el trimestre a los fideicomisos privados en los que participen, así como los rendimientos, usos, aplicaciones y saldos de dichos recursos.
 
@@ -73,19 +85,21 @@ Las dependencias y entidades que constituyan fideicomisos privados deberán regi
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 4o.
 
-las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Contraloría General del Gobierno del Estado y el Órgano Superior de Fiscalización del Estado, respecto de las cuentas públicas que les sean presentadas.
+Las entidades paraestatales deberán proporcionar a las demás entidades, la información y datos que les soliciten, así como los que les requiera la Secretaría de Fiscalización y Rendición de Cuentas y el Órgano Superior de Fiscalización del Estado, respecto de las cuentas públicas que les sean presentadas.
 
 ###### ARTICULO 5o.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto y de los fines y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y en las demás que se relacionen con la Administración Pública y que no se opongan a ésta.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 6o.
 
-La Contraloría General del Gobierno del Estado publicará anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública.
+La Secretaría de Fiscalización y Rendición de Cuentas publicará anualmente en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública.
 
 ###### ARTICULO 7o.
 
@@ -129,9 +143,11 @@ Las disposiciones anteriores deberán inscribirse en el Registro Público de Ent
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista del interés público, la Contraloría General del Gobierno del Estado propondrá al Ejecutivo la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista del interés público, la Secretaría de Fiscalización y Rendición de Cuentas propondrá al Ejecutivo la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### ARTICULO 10.
 
@@ -165,15 +181,21 @@ El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo
 
 Las resoluciones se tomarán por mayoría de los miembros presentes teniendo el Presidente voto de calidad para el caso de empate.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-El Director General será designado por el Organo de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+El Director General será designado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos,
 
 II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
 
 III.- No encontrarse en alguno de los impedimentos para ser miembro del Organo de Gobierno que señalan las fracciones II, III, y IV y V del Artículo 12 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2011)</small>
+
+Los servidores públicos del primer nivel jerárquico inferior al de Director General, serán designados y removidos por el Gobernador del Estado.
 
 ###### ARTICULO 15.
 
@@ -213,9 +235,11 @@ Son empresas de participación estatal mayoritaria las que se mencionan en el Ar
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo expuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 19.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía y del interés público, la Contraloría General del Gobierno del Estado propondrá al Ejecutivo la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública, se procederá en los términos del Artículo 5o. de esta Ley.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista de la economía y del interés público, la Secretaría de Fiscalización y Rendición de Cuentas propondrá al Ejecutivo la enajenación de la participación estatal o en su caso su disolución o liquidación. Para la enajenación de los títulos representativos del capital de la Administración Pública, se procederá en los términos del artículo 5° de esta Ley.
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa tendrán preferencia para adquirir los títulos, representativos del capital de los que sea titular el Gobierno.
 
@@ -233,13 +257,17 @@ Los Directores Generales o sus equivalentes de las empresas de participación es
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente.
 
-La Contraloría General del Gobierno del Estado intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
+La Secretaría de Fiscalización y Rendición de Cuentas intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 23.
 
-El Ejecutivo Estatal a través de la Contraloría General de Gobierno del Estado, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos considerados entidades paraestatales.
+El Ejecutivo Estatal a través de la Secretaría de Fiscalización y Rendición de Cuentas, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reservé y las facultades que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos considerados entidades paraestatales.
 
 ###### ARTICULO 24.
 
@@ -377,11 +405,15 @@ VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 VIII.- Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma. Aprobar asimismo las facultades y funciones que correspondan a las distintas áreas de la entidad,
 
-IX.- Proponer al Ejecutivo por conducto de la Contraloría General del Gobierno del Estado, los convenios de fusión con otras entidades,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+IX.- Proponer al Ejecutivo por conducto de la Secretaría de Fiscalización y Rendición de Cuentas, los convenios de fusión con otras entidades,
 
 X.- Autorizar la creación de comités de apoyo,
 
-XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél, aprobar la fijación de sueldos y prestaciones y a los demás que señale el ordenamiento respectivo,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones,
 
 XII.- Nombrar y remover a propuesta de su Presidente, entre personas ajenas a la entidad, al Secretario quien podrá ser miembro o no del mismo, así como designar o remover a propuesta del Director General de la entidad al Prosecretario del citado órgano de gobierno, quien podrá ser o no miembro de dicho órgano de gobierno o de la entidad,
 
@@ -393,7 +425,9 @@ XV.- Analizar y aprobar en su caso, los informes periódicos que rinda el Direct
 
 XVI.- Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, y
 
-XVII.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Contraloría General del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+XVII.- Aprobar las normas y bases para negociar convenios cuando terceros tengan adeudos a favor de la entidad paraestatal y fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Fiscalización y Rendición de Cuentas.
 
 ###### ARTICULO 42.
 
@@ -411,7 +445,9 @@ V.- Tomar las medidas pertinentes a fin de que las funciones de la entidad se re
 
 VI.- Establecer los procedimientos para controlar la cantidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio,
 
-VII.- Proponer al Organo de Gobierno el nombramiento o remoción de los dos siguientes niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+VII.- Proponer al Órgano de Gobierno el nombramiento o remoción de los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de él, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano,
 
 VIII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así, poder mejorar la gestión de la misma,
 
@@ -429,15 +465,13 @@ XIV.- Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás
 
 ### CAPITULO VII. Del Control y Evaluación
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 43.
 
-El Organo de Vigilancia de las entidades paraestatales estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría General del Estado.
+El Órgano de Vigilancia de las entidades paraestatales estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
-
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el órgano de gobierno y el director general deberán proporcionar la información que soliciten los comisarios públicos y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Fiscalización y Rendición de Cuentas les asigne específicamente conforme la ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público de la entidad paraestatal correspondiente y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
 ###### ARTICULO 44.
 
@@ -449,9 +483,11 @@ II.- Los Directores Generales definirán las políticas de instrumentación de l
 
 III.- Los demás servidores públicos de la entidad responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 45.
 
-Los órganos internos de control serán parte integrante de la estructura de la entidad paraestatal. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad, desarrollarán sus funciones conforme a los lineamientos que emita la Contraloría General del Gobierno del Estado, de acuerdo con las siguientes bases:
+Los órganos internos de control serán parte integrante de la estructura de la entidad paraestatal. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad, desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de Fiscalización y Rendición de Cuentas, de acuerdo con las siguientes bases:
 
 I.- Dependerán del Director General de la entidad paraestatal,
 
@@ -459,35 +495,41 @@ II.- Realizarán sus actividades de acuerdo a reglas y bases que les permitan cu
 
 III.- Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control, efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, presentarán al Director General, al Organo de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 46.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable; para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designe la Contraloría General del Gobierno del Estado, en los términos de esta Ley.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designe el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
 
 Los fideicomisos públicos a que se refiere esta Ley, se ajustarán en lo que sea compatible con lo dispuesto por ella.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 47.
 
-La Contraloría General del Gobierno del Estado, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
+La Secretaría de Fiscalización y Rendición de Cuentas, podrá realizar visitas y auditorías a las entidades paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el Artículo 44 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido, todo lo anterior sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
 
 ###### ARTICULO 48.
 
 En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que se les atribuyen a este ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 49.
 
-En aquellas empresas en que el Poder Ejecutivo participe con la suscripción del 25 al 50% del capital, se vigilarán las inversiones a través del Comisario que designe la Contraloría General del Gobierno del Estado.
+En los fideicomisos públicos y en aquellas empresas en que el Poder Ejecutivo participe con la suscripción del 25 al 50% del capital, el control y evaluación de los mismos estará a cargo del Comisario Público que designe el Gobernador del Estado, quién escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+
+> <small>(REFORMADO. P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 50.
 
-El Ejecutivo del Estado, por conducto de la Contraloría General, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
+El Ejecutivo del Estado, por conducto de la Secretaría de Fiscalización y Rendición de Cuentas, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO. P.O. 24 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 51.
 
-La enajenación de los títulos representativos del capital social propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas. La Contraloría vigilará el debido cumplimiento de esta disposición.
+La enajenación de los títulos representativos del capital social propiedad del Gobierno Estatal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas. La Secretaría de Fiscalización y Rendición de Cuentas vigilará el debido cumplimiento de esta disposición.
 
 ## TRANSITORIOS
 
@@ -586,3 +628,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
