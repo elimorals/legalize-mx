@@ -4,7 +4,7 @@ identifier: "MIC-ley-reglamentaria-de-la-fraccion-xvii-bis-del-articulo-44-70133
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2009-09-09"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY REGLAMENTARIA DE LA FRACCION XVII BIS, DEL ARTICULO 44 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 2011.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 9 de septiembre de 2009.
 
@@ -47,25 +47,37 @@ Ley Reglamentaria de la fracción XVII bis, del Artículo 44 de la Constitución
 
 Esta Ley tiene por objeto regular los procedimientos y formalidades, para conceder las pensiones señaladas en la fracción XVII bis, del Artículo 44 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2011)</small>
+
+Son sujetos de esta Ley, el afectado directo de ataque terrorista, cónyuge, concubina o concubinario, familiares dependientes económicos hasta el segundo grado consanguíneo en línea recta colateral ascendente y descendente; así como los premiados y recompensados que presten un servicio eminente al Estado o a la República.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### Artículo 2.
 
-El Congreso del Estado es la autoridad competente para conocer y resolver sobre el otorgamiento de pensiones.
+El Congreso del Estado es la autoridad competente para resolver sobre el otorgamiento de pensiones.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entenderá por:
 
-Ataque terrorista: Acción de violencia ejecutada en las personas o en las cosas, mediante: la utilización de explosivos, sustancias tóxicas, armas de fuego o incendio o inundación o cualquier otro medio violento, tendiente a producir en la población o sector de ella, el terror para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la misma para que tome una determinación.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
-Desastre natural: Alteración intensa del medio ambiente causada por un suceso natural como sismo, erupción volcánica, alud, maremoto, deslave, tornado e incendio forestal, que provoque como consecuencia directa daños físicos en las personas.
+Ataque terrorista: Acción de violencia ejecutada en las personas o en las cosas, mediante: la utilización de explosivos, sustancias tóxicas, armas de fuego, incendio o cualquier otro medio violento, tendiente a producir en la población o sector de ella, el terror generalizado para perturbar la paz pública, menoscabar la autoridad del Estado o presionar a la misma para que tome una determinación.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 4.
 
-Los michoacanos o avecindados en el Estado, afectados por un ataque terrorista o desastre natural en la Entidad o premiados o recompensados por el Congreso del Estado, podrán solicitar las pensiones a las que se refiere la presente Ley, siempre que se encuentren ellos o sus familiares directos en precarias condiciones económicas.
+Los michoacanos o avecindados en el Estado, conforme a lo establecido en el artículo 5° de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, afectados por un ataque terrorista en la Entidad, podrán solicitar las pensiones a las que se refiere la presente Ley, así como los premiados y recompensados que presten un servicio eminente al Estado o a la República, siempre que se encuentren ellos o sus familiares directos en precarias condiciones económicas y que no sean servidores públicos o trabajadores con derecho a algún tipo de indemnización o prestación económica en materia de seguridad social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 5.
 
-La solicitud de pensión se presentará por escrito y contendrá los datos siguientes:
+La solicitud de pensión será presentada ante el Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, quien a su vez presentará ante el Congreso del Estado Iniciativa de Decreto que contenga el expediente técnico con los datos siguientes:
 
 I. Nombre del solicitante;
 
@@ -77,39 +89,65 @@ IV. Estado civil;
 
 V. Nombre del cónyuge, concubina o concubinario, hijos y padres, excepcionalmente abuelos y nietos, que dependan económicamente del afectado;
 
-VI. Causa por la que solicita la pensión; y,
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
 
-VII. Dictamen médico referente al daño físico sufrido, expedido por alguna institución de salud pública.
+VI. Causa por la que solicita la pensión;
 
-A la solicitud se deberá acompañar copia certificada del acta de nacimiento y matrimonio del solicitante, y en su caso, acta de nacimiento de la concubina o concubinario, padres o hijos, constancia de dependencia económica y de la identificación oficial.
+VII. Dictamen médico referente al daño físico sufrido, expedido por alguna institución de salud pública;
 
-Cuando el posible beneficiario sea menor de edad, la solicitud deberá presentarla su representante legal debidamente acreditado, anexando las actas certificadas que justifiquen los datos establecidos en las fracciones I, Il, VI y VII de este artículo.
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2011)</small>
+
+VIII. Estudio socioeconómico;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2011)</small>
+
+IX. Investigación de si el solicitante cuenta con algún tipo de seguridad social;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2011)</small>
+
+X. Informe de la entrevista al solicitante; y,
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2011)</small>
+
+XI. Propuesta de la modalidad y el monto de la pensión.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
+A la solicitud se deberá acompañar copia certificada del acta de nacimiento y matrimonio del solicitante, y en su caso, acta de nacimiento de la concubina o concubinario, padres o hijos, constancia de dependencia económica, identificación oficial y en los demás casos la documentación que acredite el parentesco con el afectado directo.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
+Cuando el posible beneficiario sea menor de edad, la solicitud deberá presentarla su representante legal debidamente acreditado.
 
 ###### Artículo 6.
 
-Cuando el daño físico traiga como consecuencia la muerte, el cónyuge sobreviviente, la concubina o concubinario, padres o hijos que hayan dependido económicamente del finado al momento del hecho, podrán solicitar pensión.
+(DEROGADO, P.O. 24 DE MAYO DE 2011)
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 7.
 
-Una vez presentada la solicitud, se dará cuenta al Pleno del Congreso, para que éste ordene crear de forma plural una Comisión Especial en la que podrá formar parte un representante del Gobernador, la cual se encargará de:
+Una vez presentada la Iniciativa de Decreto al Congreso del Estado se turnará por Pleno del Congreso a las Comisiones de Programación, Presupuesto y Cuenta Pública y de Hacienda y Deuda Pública quienes deberán:
 
-I. Integrar el expediente correspondiente;
+I Solicitar documentación que considere necesaria e indispensable para su estudio, análisis y dictamen;
 
-II. Revisar, analizar y valorar la documentación que presente el solicitante;
+II. Revisar, analizar y valorar la documentación que integra el expediente técnico;
 
-III. Investigar si el solicitante cuenta con algún tipo de seguridad social;
+III. Emitir el dictamen respectivo;
 
-IV. Entrevistar al solicitante;
+IV. Proponer al Pleno la modalidad y el monto de la pensión;
 
-V. Elaborar el proyecto de resolución respecto a la procedencia de la pensión solicitada;
+V. La periodicidad y temporalidad de la pensión.
 
-VI. Proponer la modalidad y el monto de la pensión, en caso de aprobación; y,
+VI. (DEROGADO, P.O. 24 DE MAYO DE 2011)
 
-VII. La periodicidad y temporalidad de la pensión.
+VII. (DEROGADO, P.O. 24 DE MAYO DE 2011)
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 8.
 
-La Comisión Especial contará con un término de treinta días naturales contados a partir de la fecha en que le sea turnada la solicitud, para presentar su proyecto de resolución al Pleno del Congreso y en su caso para su aprobación.
+Las Comisiones dictaminarán en un término de treinta días naturales contados a partir de la fecha en que le sea turnada la Iniciativa de Decreto.
 
 ###### Artículo 9.
 
@@ -119,9 +157,11 @@ I. Temporal: cuando el daño físico sufrido por el solicitante sea curable, por
 
 Il. Vitalicia: cuando el daño físico sufrido produzca una incapacidad física permanente total, de acuerdo con el certificado médico, expedido por una institución pública de salud.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
+
 ###### Artículo 10.
 
-Los hijos menores de edad de un beneficiario de pensión vitalicia que falleciera, podrán solicitar pensión temporal al Congreso del Estado, hasta por el tiempo que falte para que cumplan la mayoría de edad y si estuvieran estudiando hasta terminar sus estudios de licenciatura o equivalente o al cumplir los veintitrés años de edad.
+Los hijos menores de edad de un beneficiario de pensión vitalicia que falleciera, podrán solicitar pensión temporal al Ejecutivo del Estado, hasta por el tiempo que falte para que cumplan la mayoría de edad y si estuvieran estudiando hasta terminar sus estudios de licenciatura o equivalente o al cumplir los veintitrés años de edad.
 
 ###### Artículo 11.
 
@@ -155,7 +195,9 @@ V. La condición socioeconómica del solicitante;
 
 VI. La capacidad presupuestal del Estado; y,
 
-VII. Los demás elementos que los integrantes de la Comisión Especial estimen pertinentes.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+VII. Los demás elementos que las Comisiones de Dictamen estimen pertinentes.
 
 ###### Artículo 16.
 
@@ -173,13 +215,21 @@ Las pensiones reguladas en esta Ley tendrán carácter subsidiario respecto a la
 
 El Congreso del Estado no concederá pensión bajo ninguna modalidad, en los casos siguientes:
 
-I. Cuando el daño físico sufrido provenga de un acto intencional del solicitante; y,
+I. Cuando el daño físico sufrido provenga de un acto intencional del solicitante; y, (sic)
 
-II. Cuando el daño físico sufrido no sea consecuencia directa de alguno de los supuestos previstos en esta Ley.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2011)</small>
+
+II. Cuando el daño físico sufrido no sea consecuencia directa de alguno de los supuestos previstos en esta Ley; y,
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2011)</small>
+
+III. Los michoacanos o avecindados en el Estado que tengan una participación intelectual o material directa o indirecta en algún ataque terrorista, ni su cónyuge, concubina o concubinario, familiares dependientes económicos en ningún grado consanguíneo en línea recta colateral ascendente y descendente.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2011)</small>
 
 ###### Artículo 20.
 
-El derecho a la pensión se hará efectivo a partir del día siguiente al de la publicación del Decreto que la otorga en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y podrá ser retroactivo al día en que se sufrió el percance a juicio de la Comisión Especial.
+El derecho a la pensión se hará efectivo a partir del día siguiente al de la publicación del Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo que autoriza al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo a otorgar la pensión.
 
 T R A N S I T O R I O S
 
@@ -196,3 +246,19 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JUAN 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 3 tres días del mes de marzo del año 2009 dos mil nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que se haya emitido el proyecto de resolución correspondiente a las solicitudes de pensión turnadas por pleno que se encuentran en trámite, deberá extinguirse la Comisión Especial creada en el Decreto Legislativo Número 119 de fecha 27 de agosto de 2009.
