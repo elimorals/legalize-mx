@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aguas-nacionales-4"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-12"
-last_updated: "2002-08-29"
+last_updated: "2011-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-11"
 
 REGLAMENTO DE LA LEY DE AGUAS NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 12 de enero de 1994.
 
@@ -1299,11 +1299,15 @@ Previamente, "La Comisión" elaborará y aprobará las bases de la convocatoria 
 
 En las solicitudes de concesión para la explotación, uso o aprovechamiento de aguas nacionales para la producción de fuerza motriz o energía eléctrica, el solicitante deberá presentar a "La Comisión" el proyecto constructivo que trate de desarrollar, la aplicación que se le dará, el sitio de devolución del agua y las acciones a realizar en materia de control y preservación de la calidad del agua y en materia de impacto ambiental, prevención y control de avenidas, y la no afectación de los flujos de las corrientes.
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 120.
 
-No se requerirá de concesión para la explotación, uso o aprovechamiento de agua, en los términos del artículo 80 de la "Ley", cuando sea para generación de energía hidroeléctrica en pequeña escala, entendida como tal aquélla que realizan personas físicas o morales aprovechando las corrientes de ríos y canales, sin desviar las aguas ni afectar su cantidad ni calidad, y cuya capacidad de generación no exceda de 0.5 Megavatios.
+No se requerirá de concesión para la explotación, uso o aprovechamiento de agua, en los términos del artículo 80 de la "Ley", cuando sea para generación de energía hidroeléctrica en pequeña producción o escala, entendida como tal aquélla que realizan personas físicas o morales aprovechando las corrientes de ríos y canales, sin desviar las aguas ni afectar su cantidad ni calidad, y cuya capacidad de generación no exceda de 30 Megavatios.
 
-Sin perjuicio de lo anterior, las personas físicas o morales a que se refiere este precepto deberán cumplir, en todo caso, con lo dispuesto en la Ley del Servicio Público de Energía Eléctrica y su Reglamento.
+La construcción de las obras de infraestructura que se requieran para la generación de energía hidroeléctrica a que se refiere el párrafo anterior, requerirán permiso de la “Autoridad del Agua” para los efectos de los artículos 97 y 98 de la Ley.
+
+Sin perjuicio de lo anterior, las personas físicas o morales a que se refiere este artículo deberán cumplir, en todo caso, con lo dispuesto en la Ley del Servicio Público de Energía Eléctrica y su Reglamento.
 
 ###### ARTICULO 121.
 
@@ -2242,3 +2246,9 @@ TERCERO.- Se derogan el inciso b) de la fracción XXIX del artículo 2, la últi
 D.O.F. 29 DE AGOSTO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto, en la parte conducente, aquellas disposiciones administrativas que impidan o limiten lo previsto en el presente Decreto.
