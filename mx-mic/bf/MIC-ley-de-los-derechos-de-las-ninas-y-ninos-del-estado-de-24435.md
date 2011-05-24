@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-las-ninas-y-ninos-del-estado-de-24435"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-05"
-last_updated: "2007-08-31"
+last_updated: "2011-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24435&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 24 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda en el Periódico Oficial del Estado de Michoacán, el martes 5 de febrero del 2002.
 
@@ -812,3 +814,13 @@ P.O. 31 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE MAYO DE 2011.
+
+PRIMERO. Se abroga la Ley de los Derechos de las Niñas y Niños del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 5 de febrero del 2002.
+
+SEGUNDO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Para la operación del Consejo Estatal de Protección, Vigilancia y Seguimiento de los Derechos de Niñas, Niños y Adolescentes, el Titular del Poder Ejecutivo del Estado, dispondrá de sesenta días a partir de la entrada en vigor del presente Decreto, para hacer las adecuaciones conforme a lo dispuesto en esta Ley, mientras tanto el Consejo Estatal de Protección de los Derechos de las Niñas y Niños, seguirá operando.
+
+CUARTO. Se derogan aquellas disposiciones en lo que se opongan a la presente Ley.
