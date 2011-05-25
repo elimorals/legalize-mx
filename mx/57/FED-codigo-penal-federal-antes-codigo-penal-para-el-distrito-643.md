@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2011-05-10"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1925,7 +1925,7 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 ###### ARTICULO 156.
 
-Al extranjero expulsado de la República que vuelva a ésta, se le impondrá de uno a dos años de prisión y se le expulsará de nuevo después de hacer efectiva esta sanción.
+(DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
 ###### ARTICULO 157.
 
@@ -6584,3 +6584,15 @@ La reforma al artículo 39 de la Ley Federal de Competencia Económica entrará 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 25 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
