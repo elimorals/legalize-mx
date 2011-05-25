@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-general-de-gobierno-14750"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-23"
-last_updated: "2005-03-09"
+last_updated: "2011-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de junio de 1999.
 
@@ -1052,3 +1054,17 @@ LIC. VÍCTOR EMILIO ANCHONDO PAREDES.
 P.O. 9 DE MARZO DE 2005.
 
 ARTÍCULO.- Las reformas y adiciones a que se refiere el presente acuerdo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor el tercer día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial del Estado No. 50 del 25 de junio de 1999, y se derogan todas las demás disposiciones administrativas y reglamentarias en lo que se opongan a este Reglamento.
+
+La referencia que en cualquier disposición se haga al reglamento abrogado se entenderá hecha, en lo conducente y cuando no se le oponga, al presente; sujetándose la interpretación administrativa a lo que establezca al efecto la Dirección General de Normatividad.
+
+TERCERO.- Los procedimientos o actos iniciados antes de la entrada en vigor del presente reglamento, serán continuados conforme al mismo, independientemente del estado en que se encuentren.
+
+CUARTO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Municipal, publicado en el Periódico Oficial del Estado No. 96 del 29 de noviembre de 2000.
+
+QUINTO.- El Reglamento Interior del Registro Civil publicado en el Periódico Oficial del Estado No. 84 del 20 de octubre de 1999, seguirá siendo aplicable en lo que no contravenga a las disposiciones del presente.
