@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-741
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-24"
-last_updated: "2010-03-24"
+last_updated: "2011-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de marzo de 2010.
 
@@ -135,11 +135,13 @@ XIX. Acordar y, en su caso, aprobar los nombramientos de los titulares de las Un
 
 XX. Resolver al interior de la Secretaría las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en él;
 
-XXI. Cumplir con las disposiciones en materia de difusión de la información pública, relativa a las actividades a su cargo, y
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
-XXII. Las demás que con ese carácter le confieran las disposiciones jurídicas aplicables y el Gobernador Constitucional del Estado Libre y Soberano de Morelos.
+XXI. Llevar a cabo las políticas del Gobierno del Estado en materia de infraestructura urbana y rural mediante la ejecución de programas para fomentar la coordinación y concertación de acciones con tos sectores público, social y privado, en su caso, a través de dotación de insumos y materiales para satisfacer necesidades complementarlas de infraestructura, mediante la construcción, ampliación y mejoramiento de la misma;
 
-XXII. Las demás que con ese carácter le confieran las disposiciones jurídicas aplicables y el Gobernador Constitucional del Estado Libre y Soberano de Morelos.
+XXII. Cumplir con las disposiciones en materia de difusión de la información pública, relativa a las actividades a su cargo, y
+
+XXIII. Las demás que con ese carácter le confieran las disposiciones jurídicas aplicables y el Gobernador Constitucional del Estado Libre y Soberano de Morelos.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LA PERSONA TITULAR DE LAS SUBSECRETARÍA
 
@@ -748,3 +750,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el 
 CUARTO. Los Manuales de Organización y Políticas y Procedimientos y demás instrumentos administrativos, deberán adecuarse al presente Reglamento en un plazo no mayor de 90 días a partir de la entrada en vigor del presente Reglamento a efecto de armonizarlos con el contenido del presente instrumento. Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiséis días del mes de enero del año dos mil diez.
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO JORGE MORALES BARUD SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS ARQ. DEMETRIO ROMÁN ISIDORO. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
