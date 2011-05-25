@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-05-04"
+last_updated: "2011-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1052,13 +1052,27 @@ I. Vigilar y certificar, en el ámbito de sus atribuciones, la calidad del agua 
 
 II. Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes;
 
-III. Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2011)</small>
+
+III. Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso o exposición de sustancias tóxicas o peligrosas que puedan encontrarse en el aire, agua y subsuelo;
 
 IV. Evitar, conjuntamente con otras autoridades competentes, que se instalen o edifiquen comercios, servicios y casa habitación en las áreas aledañas en donde funcione cualquier establecimiento que implique un riesgo grave para la salud de la población. Para tal efecto, la Delegación solicitará a la Secretaría su opinión al respecto;
 
-V. Establecer, en el ámbito de sus facultades, medidas de seguridad sanitaria para prevenir, controlar, atender y, en su caso, revertir daños a la salud humana por efectos ambientales, interviniendo, de conformidad a las disposiciones aplicables, en los programas y actividades que establezcan otras autoridades competentes que tengan los mismos objetivos, y
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2011)</small>
 
-VI. Las demás que le reconozcan la Ley General y las normas reglamentarias correspondientes.
+V. Establecer, en el ámbito de sus facultades, medidas de seguridad sanitaria para prevenir, controlar, atender y, en su caso, revertir daños a la salud humana por efectos ambientales, interviniendo, de conformidad a las disposiciones aplicables, en los programas y actividades que establezcan otras autoridades competentes que tengan los mismos objetivos;
+
+> <small>(REFORMADA, G.O. 25 DE MAYO DE 2011)</small>
+
+VI. Instrumentar, dentro del ámbito de su competencia, acciones de prevención de enfermedades generadas por la exposición al asbesto, con especial atención en las zonas y poblaciones cercanas de los establecimientos donde se procese con fibras de asbesto en términos de las disposiciones aplicables, dando aviso a las autoridades respectivas sobre los posibles riesgos a la salud por la presencia de dicho material y fomentado la participación de los sectores social y privado,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2011)</small>
+
+VII. Proporcionar atención y, en su caso, la referencia oportuna a la institución especializada, a las personas que presenten efectos dañinos en su salud por la exposición al asbesto, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 25 DE MAYO DE 2011)</small>
+
+VIII. Las demás que le reconozcan la Ley General y las normas reglamentarias correspondientes.
 
 ### Capítulo XIX. Enfermedades Transmisibles y No Transmisibles
 
@@ -2447,3 +2461,7 @@ G.O. 4 DE MAYO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en el presente Decreto.
 
 Segundo. El Programa de Semáforo Nutricional será diseñado y aplicado en cooncordancia (sic) con las disposiciones que se establecen en la Ley para la Prevención y el Tratamiento de la Obesidad y los Trastornos Alimenticios en el Distrito Federal.
+
+G.O. 25 DE MAYO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa del Distrito Federal, instrumentará las acciones establecidas en el presente Decreto.
