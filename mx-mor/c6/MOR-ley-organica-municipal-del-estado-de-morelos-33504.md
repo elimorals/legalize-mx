@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2011-05-11"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -365,6 +365,12 @@ Los centros de población que estimen haber llenado los requisitos señalados pa
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovará de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
+
+ARTÍCULO 15 BIS.- Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a su dignidad, así como la incorporación de la perspectiva de género en sus políticas públicas, por lo que para tales fines deberá contar con una dirección denominada Instancia Municipal de la Mujer.
+
+Todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
+
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 15 Bis.
@@ -471,13 +477,13 @@ Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como que
 
 Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de Cabildo, en la que se plantearán y resolverán los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
 
-I. Designar a los titulares de las dependencias de la administración pública municipal, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública Municipal, que serán nombrados por el Presidente. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+I.- Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la dirección de la Instancia de la mujer con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal, el Titular de la Seguridad Pública Municipal, los cuales serán nombrados por el Presidente. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
-II. Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
+II.- Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 El número y denominación de las comisiones, será determinado por los integrantes del Ayuntamiento, pero en todo caso deberán considerar las siguientes materias:
 
@@ -551,13 +557,23 @@ IV.- Designar una comisión especial integrada por un regidor por cada uno de lo
 
 V.- Los Ayuntamientos podrán acordar por mayoría de sus miembros, integrar comisiones de investigación de hechos que afecten la administración pública municipal. Las comisiones deberán estar integradas de manera plural. Los resultados de las investigaciones se harán del conocimiento del Ayuntamiento y del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
+
+###### Artículo 24 Bis.
+
+Todos los Ayuntamientos deberán de crear la Dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la Política Pública a favor de las mujeres dentro del Municipio.
+
+Para el pleno desarrollo de sus funciones deberá de contar con la suficiencia presupuestal necesaria para dicho fin.
+
 ###### Artículo 25.
 
 Las Comisiones a que se refiere la fracción II del Artículo anterior tendrán por objeto estudiar, examinar y someter a la consideración del Ayuntamiento en Cabildo, propuestas de solución de los problemas que se presenten en relación con el ramo de la administración municipal que les corresponda y vigilar que se cumplan las disposiciones y acuerdos del Ayuntamiento, para lo cual, tendrán la coordinación que sea necesaria con las dependencias de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
+
 ###### Artículo 26.
 
-Los asuntos que no hubieren sido encomendados expresamente a una comisión quedarán al cuidado del Presidente Municipal.
+Los asuntos relacionados directamente con la Dirección de la Instancia Municipal de la Mujer y aquellos que no hubieren sido encomendados expresamente a una comisión, quedarán bajo la vigilancia del Presidente Municipal.
 
 ###### Artículo 27.
 
@@ -575,7 +591,7 @@ Es obligación del Ayuntamiento saliente hacer la entrega formal de los informes
 
 ### CAPÍTULO I. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -583,13 +599,13 @@ Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuand
 
 El Cabildo podrá ser convocado a sesionar a petición por escrito de cuando menos una tercera parte de sus integrantes, cuando la importancia del asunto lo justifique; en este caso sólo se ocupará del asunto o asuntos expuestos en la solicitud correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 30.
 
 Las sesiones del Ayuntamiento serán ordinarias, extraordinarias y solemnes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 I.- Las sesiones ordinarias se llevarán a cabo por lo menos cada quince días, o antes si la naturaleza del asunto lo amerita y se permitirá el libre acceso al público y a los servidores del Ayuntamiento, excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar deban tener el carácter de privada.
 
@@ -687,25 +703,25 @@ IX. Dentro del ámbito de su competencia y sujetándose a los requisitos que las
 
 X. Proponer, en su caso, a la Legislatura local, por conducto del Presidente Municipal, la creación de organismos municipales descentralizados, fideicomisos o empresas de participación municipal mayoritaria; para la prestación y operación de los servicios públicos; y en general para cualquier otro propósito de beneficio colectivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XI. Someter a la autorización del Congreso del Estado la celebración de empréstitos o créditos conforme a lo dispuesto en la Ley de Deuda Pública para el Estado de Morelos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XII. Solicitar la autorización de la dependencia de la Administración Pública del Estado encargada del ramo de Hacienda, cuando el Municipio, sus organismos descentralizados, empresas de participación municipal mayoritaria o fideicomisos, requieran que el Estado se constituya en garante, avalista, deudor solidario, subsidiario o sustituto de los mismos para la contratación de empréstitos, créditos o contratos de colaboración público privada, conforme a lo dispuesto en las leyes aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XIII. Someter a la autorización del Congreso del Estado la celebración de contratos de colaboración público privada cuando, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -771,7 +787,9 @@ XXXIX. Establecer y aprobar las bases para el establecimiento del sistema munici
 
 XL. Conocer y en su caso aprobar por mayoría calificada las reformas o adiciones a la Constitución Política del Estado, en términos del Artículo 147 de la misma;
 
-XLI. Participar en el ámbito de su competencia de acuerdo a las facultades que en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano y asociaciones religiosas y culto público que les concedan las Leyes Federales y Locales;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
+
+XLI. Participar en el ámbito de su competencia de acuerdo a las facultades que en materia de salud, educación, seguridad, medio ambiente, asentamientos humanos, desarrollo urbano, igualdad de género y asociaciones religiosas y culto público que les concedan las Leyes Federales y Locales;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -813,9 +831,9 @@ LVIII. Proporcionar instrucción cívica a los ciudadanos del Municipio, con el 
 
 LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Instituto Estatal Electoral y con el Instituto Federal Electoral, en la promoción y difusión de la cultura cívico política; y (sic)
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2011)</small>
 
-LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también institucionalizar la perspectiva de género en la administración pública municipal y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos;
+LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también promover, fomentar e instrumentar las condiciones que posibiliten una cultura de igualdad de género e implementar políticas públicas que favorezcan al desarrollo integral de las mujeres a través de la Dirección creada para esa finalidad y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos.
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -829,7 +847,7 @@ LXII. Crear los comités, comisiones y consejos de carácter consultivo que se c
 
 LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que establece el artículo 42 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La cuenta pública podrá ser difundida en el Periódico Oficial o la Gaceta Municipal, atendiendo a la disponibilidad de recursos municipales. Por lo que hace a las remuneraciones y los tabuladores de sueldo autorizados, así como sus adecuaciones, éstos también cumplirán con el principio de publicidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -855,7 +873,7 @@ IV. Imponer contribuciones que no estén establecidas en la Ley de Ingresos del 
 
 V. Enajenar, gravar, arrendar o dar posesión de los bienes del Municipio sin sujetarse a los requisitos establecidos en la Constitución Estatal, la presente Ley y demás normas jurídicas aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -893,7 +911,7 @@ VII. Proponer ante el Cabildo, en acuerdo con el Síndico, al responsable del á
 
 VIII. Representar al Ayuntamiento en todos los actos oficiales o delegar esta función;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -913,7 +931,7 @@ XIV. Presentar en el mes de diciembre de cada año, por escrito, un informe del 
 
 XV. Presentar el día treinta y uno de octubre de cada año, en sesión solemne de Cabildo, un informe del estado que guarde la administración y de las labores desarrolladas durante el año, así como dar contestación a las cuestiones que se le formulen por los regidores y síndico integrantes del Cabildo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1269,11 +1287,11 @@ Para ambos casos, la administración municipal entrante contará con un término
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
 ###### Artículo 75.
 
-Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del Ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos, recursos humanos, materiales y técnicos del Municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios; otra de la seguridad pública y tránsito municipal, un cronista municipal, cuando menos una Oficialía del Registro Civil y una contraloría municipal.
+Cada Municipio tendrá como estructura administrativa la que determinen sus reglamentos, pero en todo caso contará con una secretaría del Ayuntamiento, una tesorería, una dependencia de atención de asuntos jurídicos; una dependencia encargada de la administración de servicios internos, recursos humanos, materiales y técnicos del Municipio, una dependencia encargada de la prestación de servicios públicos municipales, una dependencia encargada de la ejecución y administración de obras públicas, una dependencia de atención de asuntos migratorios; otra de la seguridad pública y tránsito municipal, una Dirección de la Instancia Municipal de la Mujer, un cronista municipal, cuando menos una Oficialía del Registro Civil y una contraloría municipal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
@@ -1449,7 +1467,9 @@ Los Tesoreros serán responsables de las erogaciones que efectúen y que no est�
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2006)</small>
 
-### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
+### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
 
 ###### Artículo 84.
 
@@ -1549,9 +1569,75 @@ La contabilidad del Ayuntamiento estará sujeta a la inspección y vigilancia de
 
 La Secretaría de la Contraloría podrá realizar actos de inspección y vigilancia respecto de la Tesorería Municipal en tratándose únicamente del manejo de los recursos asignados por el Gobierno del Estado para la realización de programas de beneficio municipal, los que serán manejados conforme a las leyes aplicables.
 
-### CAPÍTULO V. DE LA JUSTICIA DE PAZ MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2011)</small>
 
-### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
+### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
+
+###### Artículo 89 Bis.
+
+Para los asuntos relacionados con la perspectiva de género, cada Ayuntamiento tendrá una dirección de la Instancia Municipal de la Mujer, la titular será nombrada en sesión de Cabildo, formara parte de la estructura de la administración pública municipal, con nombramiento formal debiendo ser independientes del Sistema DIF Municipal y de cualquier Regiduría del Ayuntamiento.
+
+La Titular de la Dirección de la Instancia de la Mujer deberá contar con grado académico mínimo de licenciatura y formación de género.
+
+Para su cumplimiento la Titular de la Dirección de la Instancia Municipal de la Mujer tendrá las siguientes facultades:
+
+I. Proponer programas, proyectos y acciones dirigidos al desarrollo integral de las mujeres, en coordinación y concertación de los sectores públicos, privados y sociales;
+
+II. Promover el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo dirigido a mujeres;
+
+III. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
+
+IV. Impulsar la profesionalización del personal femenino dentro de la Administración Pública Municipal;
+
+V. Ejecutar en todo el territorio municipal los programas y acciones implementados por el Instituto de la Mujer del Estado de Morelos;
+
+VI. Promover el acceso a programas sociales y culturales y demás que le ayuden a su desenvolvimiento dentro del desarrollo del Municipio;
+
+VII. Promover acciones de combate a la pobreza, marginación, migración y exclusión de las mujeres, especialmente en comunidades rurales e indígenas;
+
+VIII. Promover ante las instancias competentes y coadyuvar en la realización de acciones tendientes a prevenir, atender, sancionar y erradicar cualquier tipo de violencia contra las mujeres;
+
+IX. Coordinarse con las instancias federales, estatales y municipales para el desarrollo de programas y proyectos encaminados a promover el desarrollo y la participación de las mujeres en el ámbito social, económico y político del municipio;
+
+X. Implementar programas de capacitación para promover la igualdad entre mujeres y hombres en el Municipio;
+
+XI. Implementar las acciones necesarias para promover la Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+XII. Fungir como enlace ante el Instituto de la Mujer del Estado de Morelos, así como ante el Instituto Nacional de las Mujeres; y
+
+XIII. Elaborar el Programa Municipal de Atención y Participación de las Mujeres, el cual estará orientado a impulsar el desarrollo de las mujeres, para lograr e incrementar la integración y participación plena de estas en la vida económica laboral, política, cultural y científica y social del Municipio, así como aspectos del ejercicio de sus derechos.
+
+La Conformación de la Instancia Municipal de la Mujer, su organización y sus fines, así como la forma de obtener ingresos extraordinarios al presupuesto municipal, quedarán establecidos en el reglamento municipal de la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
+
+###### Artículo 89 Ter.
+
+Corresponde a Dirección de la Instancia de la Mujer en colaboración directa con el presidente Municipal y de acuerdo al artículo 50 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
+
+I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+
+II. Coadyuvar con la Federación y las entidades federativas, en la adopción y consolidación del Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+III. Promover, en coordinación con las entidades federativas, cursos de capacitación a las personas que atienden a víctimas de violencia;
+
+IV. Ejecutar las acciones necesarias para el cumplimiento del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+V. Apoyar la creación de programas de reeducación integral para los agresores;
+
+VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+
+VII. Apoyar la creación de refugios seguros para las víctimas;
+
+VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
+
+IX. Llevar a cabo, de acuerdo con el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, programas de información a la población respecto de la violencia contra las mujeres;
+
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+
+### CAPÍTULO V. DE LA JUSTICIA DE PAZ MUNICIPAL
 
 ###### Artículo 90.
 
@@ -1583,7 +1669,7 @@ VII. Dar por escrito el aviso a que se refiere el artículo 464 del Código Civi
 
 Los oficiales del Registro Civil percibirán la remuneración que para el efecto se fije en el Presupuesto de Egresos del respectivo Municipio.
 
-### CAPÍTULO VII. DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VI. DE LA JUSTICIA CÍVICA
 
 ###### Artículo 93.
 
@@ -1593,7 +1679,7 @@ La justicia de paz en los Municipios estará a cargo de los jueces que señale l
 
 Los jueces de paz municipales estarán subordinados al Poder Judicial del Estado; tendrán la competencia, jurisdicción, obligaciones y atribuciones que les otorga la Ley Orgánica del Poder Judicial y que les señalen las demás Leyes y reglamentos aplicables; serán nombrados por el Consejo de la Judicatura Estatal, a propuesta en terna del Ayuntamiento respectivo y durarán en su cargo coincidiendo con el período constitucional del Ayuntamiento al que corresponda el Municipio de su jurisdicción; juzgados que dependerán económicamente del Ayuntamiento respectivo, además del apoyo que disponga el Poder Judicial.
 
-### CAPÍTULO VIII. DE LA COMPETENCIA DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VII. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 95.
 
@@ -1623,7 +1709,7 @@ Cada delegación o ayudantía municipal contará con elementos del cuerpo de seg
 
 En los Municipios que no correspondan con las cabeceras de los distritos judiciales del Estado, los alcaldes dependerán, exclusivamente en lo administrativo, del Presidente Municipal, y tendrán a su cargo la custodia de los detenidos, el cuidado de su alimentación y disciplina, la limpieza e higiene de las cárceles y el proporcionar ocupación diaria remunerada a los correccionales.
 
-### CAPÍTULO IX. DE LA ELECCIÓN Y DESIGNACIÓN DE LAS AUTORIDADES AUXILIARES
+### CAPÍTULO VIII. DE LA COMPETENCIA DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 100.
 
@@ -1639,7 +1725,7 @@ En el presupuesto anual de egresos de cada Municipio se determinará una partida
 
 Para el caso de los ayudantes municipales, la partida a que se refiere el párrafo anterior deberá ser suficiente para cubrir, por lo menos, los gastos de administración que por motivo de su actividad generen.
 
-### CAPÍTULO X. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO IX. DE LA ELECCIÓN Y DESIGNACIÓN DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 102.
 
@@ -1667,7 +1753,7 @@ IX. Todas aquellas que esta Ley, los bandos, reglamentos y el propio Ayuntamient
 
 Las autoridades auxiliares podrán asesorarse en las dependencias y entidades correspondientes de la administración pública municipal, para la atención de los asuntos de su competencia.
 
-### CAPÍTULO I. DEL PATRIMONIO MUNICIPAL
+### CAPÍTULO X. DE LOS CONSEJOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 104.
 
@@ -1729,7 +1815,7 @@ Los ayudantes municipales sólo podrán ser removidos mediante acuerdo del Cabil
 
 Acordada la remoción, se dará posesión del cargo al suplente y, en caso de no existir éste o tener algún impedimento previa auscultación de la comunidad, el Cabildo nombrará al sustituto, quien concluirá el período.
 
-### CAPÍTULO II. DE LA HACIENDA MUNICIPAL
+### CAPÍTULO I. DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 108.
 
@@ -1765,7 +1851,7 @@ X. Las demás que señalen los Reglamentos.
 
 ## TÍTULO SEXTO (SIC). DEL PATRIMONIO Y LA HACIENDA MUNICIPAL
 
-### CAPÍTULO III. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTO Y PRESTACIÓN DE SERVICIOS
+### CAPÍTULO II. DE LA HACIENDA MUNICIPAL
 
 ###### Artículo 111.
 
@@ -1777,7 +1863,7 @@ Los bienes inmuebles de dominio privado de los Municipios son imprescriptibles y
 
 Los bienes muebles de dominio privado de los Municipios son inembargables; la adquisición por prescripción de estos bienes se sujetará a los mismos requisitos que para los bienes muebles de dominio privado del Estado establece la Ley General de Bienes.
 
-### CAPÍTULO I. DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO III. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTO Y PRESTACIÓN DE SERVICIOS
 
 ###### Artículo 112.
 
@@ -1801,7 +1887,7 @@ VI. Contribuciones especiales por la ejecución de obras públicas de urbanizaci
 
 VII. Fondos de los empréstitos públicos y privados y otros ingresos extraordinarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1809,7 +1895,7 @@ VII. Fondos de los empréstitos públicos y privados y otros ingresos extraordin
 
 Los egresos de la administración pública municipal deberán sujetarse estrictamente al presupuesto que el Ayuntamiento apruebe anualmente por ejercicios naturales, el cual deberá formularse sobre las bases, programas y modalidades que el propio Ayuntamiento determine, pero que invariablemente contendrá las asignaciones anuales para gastos generales, de operación y de administración, para inversiones públicas, para el pago de obligaciones derivadas de contratos de colaboración público privada, para el pago de deudas municipales y para erogaciones especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1817,7 +1903,7 @@ Los egresos de la administración pública municipal deberán sujetarse estricta
 
 Con excepción de los casos previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, ningún pago podrá hacerse sin que exista partida expresa del presupuesto que lo autorice y saldo disponible para cubrirlo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1837,7 +1923,7 @@ Los Ayuntamientos deberán informar detalladamente con relación a los emprésti
 
 La cuenta pública anual de cada Municipio se formará, rendirá y aprobará en cada Ayuntamiento, conforme a las disposiciones de la Constitución Política del Estado y a las de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1849,13 +1935,13 @@ La inspección de la hacienda pública municipal compete al Ayuntamiento por con
 
 La Secretaría de la Contraloría tendrá la intervención en términos de la presente Ley.
 
-### CAPÍTULO II. OBRAS PÚBLICAS MUNICIPALES
+### CAPÍTULO I. DE LOS SERVICIOS PÚBLICOS
 
 ###### Artículo 119.
 
 Los Ayuntamientos requieren de la aprobación de las dos terceras partes de sus integrantes para:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1863,13 +1949,13 @@ I. La contratación de empréstitos para inversiones públicas productivas;
 
 II. Adquirir y enajenar sus bienes muebles e inmuebles;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 III. Dar en arrendamiento sus bienes propios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1881,19 +1967,19 @@ VI. Desincorporar del dominio público los Bienes Municipales;
 
 VII. Para donar bienes muebles e inmuebles siempre que se destinen a la realización de obras de beneficio colectivo; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 VIII. Celebrar contratos de colaboración público privada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
 IX. Afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos, en términos de las leyes aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1915,7 +2001,7 @@ Los Ayuntamientos adquirirán preferentemente los inmuebles que circunden a los 
 
 ## TÍTULO SÉPTIMO. DE LAS OBRAS Y SERVICIOS MUNICIPALES
 
-### CAPÍTULO III. DE LA SEGURIDAD PÚBLICA
+### CAPÍTULO II. OBRAS PÚBLICAS MUNICIPALES
 
 ###### Artículo 123.
 
@@ -1953,7 +2039,7 @@ XIV. Las demás que la Legislatura Local determine según las condiciones territ
 
 Cuando los servicios públicos sean prestados directamente por el Ayuntamiento corresponderá al Presidente Municipal la vigilancia y supervisión de los mismos.
 
-### CAPÍTULO IV. PROTECCIÓN CIVIL
+### CAPÍTULO III. DE LA SEGURIDAD PÚBLICA
 
 ###### Artículo 125.
 
@@ -2001,7 +2087,7 @@ II. Por contrato, las que se proyectan y ejecutan por personas físicas o morale
 
 Cuando varios Municipios del Estado tengan interés común en la realización de alguna misma obra pública, podrán celebrar convenio de asociación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2013,7 +2099,7 @@ Los convenios que celebren los Ayuntamientos para la ejecución de obras públic
 
 Los Ayuntamientos podrán contratar obras públicas y servicios relacionados con las mismas, mediante los procedimientos y reglas que señale la legislación estatal sobre la materia.
 
-### CAPÍTULO V. DE LAS CONCESIONES
+### CAPÍTULO IV. PROTECCIÓN CIVIL
 
 ###### Artículo 132.
 
@@ -2059,13 +2145,13 @@ Los Titulares de Seguridad Pública y agentes de Policía serán nombrados y rem
 
 Para ser Titular de Seguridad Pública se requiere cumplir con los requisitos que establece la legislación local aplicable.
 
-### CAPÍTULO I. DE LOS CONVENIOS Y LA COORDINACIÓN
+### CAPÍTULO V. DE LAS CONCESIONES
 
 ###### Artículo 137.
 
 Los Ayuntamientos en sus respectivas jurisdicciones, conforme a lo que establece la Ley de Protección Civil para el Estado de Morelos, constituirán el Consejo Municipal de Protección Civil, con las funciones que la propia Ley de la materia determina.
 
-### CAPÍTULO II. DE LA ASOCIACIÓN MUNICIPAL
+### CAPÍTULO I. DE LOS CONVENIOS Y LA COORDINACIÓN
 
 ###### Artículo 138.
 
@@ -2293,7 +2379,7 @@ Cuando la concesión termine por causa imputable al concesionario, no serán ree
 
 ## TÍTULO OCTAVO. DE LOS CONVENIOS, COORDINACIÓN Y ASOCIACIÓN MUNICIPAL
 
-### CAPITULO UNICO
+### CAPÍTULO II. DE LA ASOCIACIÓN MUNICIPAL
 
 ###### Artículo 162.
 
@@ -2333,9 +2419,7 @@ VII.- Todo aquello que sea necesario para salvaguardar los intereses del Municip
 
 Los convenios que se celebren con Municipios de otra u otras entidades requerirán la autorización de la Legislatura Local y del Congreso o Congresos locales de las mismas, y serán suscritos por el Ejecutivo del Estado. Deberá publicarse en el Periódico Oficial la fecha de entrada en vigor del convenio.
 
-### CAPÍTULO I. DE LAS LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+### CAPITULO UNICO
 
 ###### Artículo 166.
 
@@ -2363,7 +2447,9 @@ Los Ayuntamientos tendrán la participación que señala la Constitución Polít
 
 ## TÍTULO NOVENO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO I. DE LAS LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 168.
 
@@ -2391,7 +2477,7 @@ VI.- Los servidores públicos que desempeñen funciones en las administraciones 
 
 ## TÍTULO DÉCIMO. DE LA SUPLENCIA Y RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 171.
 
@@ -2441,7 +2527,7 @@ Sólo el Ayuntamiento en funciones de Cabildo podrá conceder a sus miembros lic
 
 Las faltas temporales de las autoridades auxiliares serán cubiertas por sus respectivos suplentes; en el caso de los Delegados, su ausencia temporal será cubierta por servidor público que designe el Presidente Municipal.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 174.
 
@@ -2467,7 +2553,7 @@ Los miembros de los Ayuntamientos, secretarios, directores, subdirectores o jefe
 
 DE LA DECLARACIÓN DE DESAPARICIÓN Y SUSPENSIÓN DEFINITIVA DE LOS AYUNTAMIENTOS, DE LA SUSPENSIÓN DEFINITIVA DE UNO DE SUS MIEMBROS Y DE LA REVOCACIÓN DEL MANDATO
 
-### CAPÍTULO ÚNICO. DEL CONCEJO MUNICIPAL
+### CAPÍTULO II. DEL PROCEDIMIENTO
 
 ###### Artículo 178.
 
@@ -2513,7 +2599,7 @@ Cuando alguno de los integrantes del Ayuntamiento no reúna los requisitos de el
 
 Decretada la revocación, se procederá en los términos del último párrafo del Artículo anterior.
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO
+### CAPÍTULO ÚNICO. DEL CONCEJO MUNICIPAL
 
 ###### Artículo 183.
 
@@ -2532,6 +2618,8 @@ IV.- Desahogada la audiencia, la Comisión deberá emitir su dictamen en un tér
 En caso de que los interesados no asistan a la audiencia a que se refiere el Artículo anterior, se tendrá por precluído su derecho y por presuntamente ciertos los hechos que se les imputen.
 
 ## TÍTULO DÉCIMO SEGUNDO
+
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO ANTE EL CONGRESO DEL ESTADO
 
 ###### Artículo 185.
 
@@ -2569,7 +2657,7 @@ La designación e instalación del Concejo Municipal se sujetará a las siguient
 
 I. Una vez declarada la desaparición o suspensión definitiva de un Ayuntamiento, el titular del Poder Ejecutivo Estatal propondrá al Congreso, de entre los habitantes del Municipio, a los ciudadanos que puedan integrar el Concejo Municipal. Por cada propietario habrá un suplente. El gobernador en sus propuestas deberá respetar la conformación original del Ayuntamiento, respecto de la militancia política de sus miembros;
 
-II. El Conejo Municipal se integrará con el número de miembros que esta Ley establece para los Ayuntamientos de cada Municipio;
+II. El Concejo Municipal se integrará con el número de miembros que esta Ley establece para los Ayuntamientos de cada Municipio;
 
 III. En el momento de su instalación, el Concejo Municipal elegirá de entre sus integrantes a las personas que habrán de desempeñar las funciones de Presidente del Concejo, Síndico y Regidores; y
 
@@ -2601,7 +2689,7 @@ h) Lugar, fecha, nombre y firma del funcionario competente.
 
 II. Una vez recibida la solicitud, dentro del término de cinco días contados a partir de su recepción deberá ser ratificada. En caso de que la denuncia no sea ratificada se desechará de plano;
 
-III. Ratificada que sea la solicitud, se turnará al Pleno del la Legislatura Local o a la Diputación Permanente en su caso, para que dé cuenta de la misma en la sesión próxima inmediata. El Presidente de la mesa directiva, la turnará a la Comisión correspondiente, para su estudio y dictamen;
+III. Ratificada que sea la solicitud, se turnará al Pleno del (sic) la Legislatura Local o a la Diputación Permanente en su caso, para que dé cuenta de la misma en la sesión próxima inmediata. El Presidente de la mesa directiva, la turnará a la Comisión correspondiente, para su estudio y dictamen;
 
 IV. La Comisión Legislativa correrá traslado con la solicitud y documentos anexos a las partes en la controversia, las que contaran con un término de diez días hábiles para contestar lo que a su derecho convenga, acompañar las pruebas documentales que consideren procedentes y ofrecer las que deban desahogarse. En caso de no dar contestación dentro del término señalado, se asentará tal razón en el expediente y se continuará el procedimiento sin su intervención, en materia de límites territoriales no se admitirán más que pruebas documentales;
 
@@ -2667,7 +2755,7 @@ EDUARDO BECERRA PÉREZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE MAYO DE 2005.
 
@@ -2754,6 +2842,16 @@ P.O. 11 DE MAYO DE 2011.
 PRIMERO. Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 25 DE MAYO DE 2011
+
+PRIMERO.- El presente decreto iniciara su vigencia a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los Ayuntamientos deberán expedir el Reglamento respectivo de la Dirección de la Instancia Municipal de la Mujer dentro de los sesenta días siguientes a su entrada en vigor.
+
+TERCERO.- Los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, dentro de un plazo de 60 días, contados a partir de la entrada en vigor del presente Decreto, adecuarán las disposiciones reglamentarias y aplicables, así como adoptarán las medidas necesarias, acciones e implementación de programas orientados a dar cumplimiento a lo establecido en el mismo.
+
+CUARTO.- Los Ayuntamientos en el presupuesto de egresos de 2012, deberán destinar una partida para el cumplimiento de los objetivos de la Dirección de la Instancia Municipal de la Mujer.
 
 ###### ARTÍCULO CUARTO.
 
