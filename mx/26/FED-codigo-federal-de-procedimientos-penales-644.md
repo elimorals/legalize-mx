@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2010-11-30"
+last_updated: "2011-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1239,7 +1239,7 @@ De la información al inculpado sobre los derechos antes mencionados, se dejará
 
 > <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
-IV. Cuando el detenido perteneciere a un pueblo o comunidad indígena o fuere extranjero, que no hable o no entienda suficientemente el español, se le designará un traductor que le hará saber los derechos a que se refiere la fracción anterior. Tratándose de indígenas, el traductor y el defensor que deberán asistirle, deberán tener además conocimiento de su lengua y cultura. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, y
+IV.- Cuando el detenido perteneciere a un pueblo o comunidad indígena o fuere extranjero, que no hable o no entienda suficientemente el español, se le designará un traductor que le hará saber los derechos a que se refiere la fracción anterior. Tratándose de indígenas, el traductor y el defensor que deberán asistirle, deberán tener además conocimiento de su lengua y cultura. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, y
 
 V.- En todo caso se mantendrán separados a los hombres y a las mujeres en los lugares de detención o reclusión.
 
@@ -1759,11 +1759,11 @@ Dentro de las setenta y dos horas siguientes al momento en que el inculpado qued
 
 (REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 25 DE ENERO DE 1985)
 
-I. Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
+I.- Que se haya tomado declaración preparatoria del inculpado, en la forma y con los requisitos que establece el capítulo anterior, o bien que conste en el expediente que aquél se rehusó a declarar;
 
 > <small>(REFORMADA, D.O.F. 18 DE MAYO DE 1999)</small>
 
-II. Que esté comprobado el cuerpo del delito que tenga señalado sanción privativa de libertad;
+II.- Que esté comprobado el cuerpo del delito que tenga señalado sanción privativa de libertad;
 
 > <small>(REFORMADA, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2493,7 +2493,9 @@ III. De la Ley Federal de Armas de Fuego y Explosivos, los delitos siguientes:
 
 IV. De la Ley Federal para Prevenir y Sancionar la Tortura, el delito de tortura, previsto en los artículos 3o. y 5o;
 
-V. De la Ley General de Población, el delito de tráfico de indocumentados, previsto en el artículo 138;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2011)</small>
+
+V. De la Ley de Migración, el delito de tráfico de indocumentados, previsto en el artículo 159.
 
 VI. Del Código Fiscal de la Federación, los delitos siguientes:
 
@@ -5662,3 +5664,15 @@ Décimo. Para el establecimiento y organización de las unidades especializadas 
 Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
 
 Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 25 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
