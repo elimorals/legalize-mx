@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2011-05-11"
+last_updated: "2011-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 25 DE MAYO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -2817,14 +2817,16 @@ Artículo Séptimo.- La Secretaría de Hacienda y la Secretaría de la Función 
 
 Artículo Octavo.- Los Titulares de la Secretaría de Medio Ambiente e Historia Natural, y del Instituto de la Consejería Jurídica y de Asistencia Legal, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requieran sus respectivos Reglamentos Interiores, para su aprobación, expedición y publicación correspondiente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 11 DE MAYO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 
+> <small>(F. DE E., P.O. 25 DE MAYO DE 2011)</small>
+
 Artículo Tercero.- Las Dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato lo necesario para la creación de un órgano administrativo con nivel directivo, en la Secretaría de la Función Pública, a través del cual se hará cargo de coordinar la integración y operación de los Programas a que se refiere la fracción XLI, del artículo 30, de esta Ley, adecuando para tal efecto la estructura orgánica y funcional de dicha dependencia.
+
+La Subsecretaría de Desarrollo Administrativo y Tecnológico de la Secretaría de la Función Pública, llevará a cabo la selección y designación de los servidores públicos que estarán adscritos al órgano administrativo con nivel directivo a que se refiere el párrafo anterior, por ser el área normativa en materia de tecnologías de la información y comunicaciones.
 
 Artículo Cuarto.- El Titular de la Secretaría de la Función Pública, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterá a consideración del Ejecutivo del Estado, las adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente.
