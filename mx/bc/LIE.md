@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2008-08-20"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -70,9 +70,13 @@ VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo 
 
 VII.- Cláusula de Exclusión de Extranjeros: El convenio o pacto expreso que forme parte integrante de los estatutos sociales, por el que se establezca que las sociedades de que se trate no admitirán directa ni indirectamente como socios o accionistas a inversionistas extranjeros, ni a sociedades con cláusula de admisión de extranjeros.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con calidad de inmigrados, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
+Para los efectos de esta Ley se equipara a la inversión mexicana la que efectúen los extranjeros en el país con la condición de estancia de Residente Permanente, salvo aquélla realizada en las actividades contempladas en los Títulos Primero y Segundo de esta Ley.
 
 ###### ARTICULO 4o.
 
@@ -522,7 +526,11 @@ b) Nombre y domicilio del representante legal;
 
 c) Nombre y domicilio de las personas autorizadas para oír y recibir notificaciones;
 
-d) Nombre, denominación o razón social, nacionalidad y calidad migratoria en su caso, domicilio de los inversionistas extranjeros en el exterior o en el país y su porcentaje de participación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+
+d) Nombre, denominación o razón social, nacionalidad y condición de estancia en su caso, domicilio de los inversionistas extranjeros en el exterior o en el país y su porcentaje de participación;
 
 e) Importe del capital social suscrito y pagado o suscrito y pagadero; y
 
@@ -749,6 +757,18 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
 
 Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+
+D.O.F. 25 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
