@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2011-02-23"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
-
-N. DE E., ESTA F. DE E. NO APLICA AL ARTICULADO DEL DECRETO 990 PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2011.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -50,7 +48,7 @@ DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE 
 
 ###### Artículo 1.
 
-El Estado de Morelos, es·Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
+El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -1254,13 +1252,13 @@ El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Pod
 
 El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrados del Tribunal Estatal Electoral, al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
 ###### Artículo 47.
 
-Los Proyectos de Leyes o Decretos aprobados por el Congreso se remitirán al Ejecutivo, quien si no tuviera observaciones que hacer, los publicará inmediatamente. Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de diez días siguientes.
+Los Proyectos de Leyes o Decretos aprobados por el Congreso se remitirán al Ejecutivo, quien si no tuviere observaciones que hacer, los publicará inmediatamente en un plazo no mayor a diez días hábiles siguientes a su recepción. Se reputará aprobado por el Poder Ejecutivo, todo proyecto no devuelto con observaciones al Congreso dentro de diez días hábiles siguientes.
 
-Si hubiese vencido el plazo que el Ejecutivo tiene para formular las observaciones a que se refiere el párrafo anterior y no las hubiere hecho, el decreto o ley de que se trate, será considerado promulgado y el Presidente de la Mesa Directiva, del Congreso del Estado, deberá ordenar su inmediata publicación en el Periódico Oficial, del Gobierno del Estado.
+Si se hubiese vencido el plazo que el Ejecutivo tiene para formular las observaciones a que se refiere el párrafo anterior y no las hubiere hecho, o vencido el plazo no hubiese publicado el decreto o ley de que se trate, será considerado promulgado y el Presidente de la Mesa Directiva, del Congreso del Estado, deberá ordenar en un termino de cinco días hábiles la publicación en el Periódico Oficial, del Gobierno del Estado.
 
 ###### Artículo 48.
 
@@ -3032,7 +3030,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 ###### Artículo 151.
 
-Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes..
+Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
 T R A N S I T O R I O S.
 
@@ -4027,3 +4025,7 @@ P.O. 16 DE FEBRERO DE 2011.
 Aprobado el presente decreto por el Constituyente Permanente y hecha la declaratoria correspondiente, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
 ARTÍCULO TERCERO (sic). Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente decreto.
+
+P.O. 25 DE MAYO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Tierra y Libertad" órgano de difusión de Gobierno del Estado.
