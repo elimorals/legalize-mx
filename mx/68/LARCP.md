@@ -4,7 +4,7 @@ identifier: "LARCP"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-15"
-last_updated: "2010-08-19"
+last_updated: "2011-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LARCP"
 
 LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 15 de julio de 1992.
 
@@ -176,9 +176,13 @@ ARTICULO 12 BIS.- Los ministros de culto, los asociados y los representantes de 
 
 Cuando se cometa un delito en contra de niñas, niños o adolescentes, las personas a que se refiere el párrafo anterior deberán informar esos mismos hechos en forma inmediata a los tutores o a quienes ejerzan la patria potestad de aquellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Los mexicanos podrán ejercer el ministerio de cualquier culto. Igualmente podrán hacerlo los extranjeros siempre que comprueben su legal internación y permanencia en el país y que su calidad migratoria no les impida la realización de actividades de tipo religioso, en los términos de la Ley General de Población.
+Los mexicanos podrán ejercer el ministerio de cualquier culto. Igualmente podrán hacerlo los extranjeros siempre que comprueben su situación migratoria regular en el país, en los términos de la Ley de Migración.
 
 ###### ARTICULO 14.
 
@@ -465,3 +469,15 @@ D.O.F. 24 DE ABRIL DE 2006.
 D.O.F. 19 DE AGOSTO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE MAYO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las reformas a la Ley General de Población entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto las derogaciones a las fracciones VII y VIII del artículo 3o. y a los artículos 7 a 75, que entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.
+
+TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
+
+CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
