@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-66-2006-del-pleno-del-consejo-de-la-52169"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-11-09"
-last_updated: "2010-04-27"
+last_updated: "2011-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-30"
 
 ACUERDO GENERAL 66/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL PROCESO PRESUPUESTARIO EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -859,79 +859,49 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 ###### Artículo 84.
 
-El sistema de contabilidad del Consejo será definido, desarrollado, operado y supervisado de tal forma que facilite el registro de las operaciones financieras y presupuestales, así como la fiscalización de los activos, pasivos, ingresos, erogaciones y gastos atendiendo al conjunto de principios, normas y procedimientos técnicos que permitan registrar, procesar e informar sobre las operaciones y la situación financiera del Consejo, que coadyuve a la toma de decisiones, la transparencia y la rendición de cuentas.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 85.
 
-La Secretaría, a través de Programación y Presupuesto, implementará, modificará y actualizará el sistema de contabilidad conforme a lo establecido en el artículo anterior y contará para ello con las herramientas informáticas necesarias.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 86.
 
-El registro de las operaciones y la preparación de informes financieros del Consejo se efectuarán tomando en consideración los principios de contabilidad gubernamental, generales y específicos y de manera supletoria las normas de información financiera y de contabilidad del sector público.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 87.
 
-La contabilidad deberá llevarse con base acumulativa a través del registro de las operaciones devengadas, por lo que la contabilización de las transacciones se efectuará conforme a la fecha de su realización, independientemente de la de su pago.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 88.
 
-Será responsabilidad de la Secretaría, a través de Programación y Presupuesto, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 89.
 
-La contabilidad del Consejo deberá contar con auxiliares contables y presupuestales que muestren los avances presupuestarios y financieros, con objeto de facilitar la evaluación en el ejercicio de gasto público, así como permitir el control y conocimiento individual de la integración de los saldos de cada cuenta de balance y de resultados.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ### CAPITULO II. Del Catálogo de Cuentas y del Registro Contable de las Operaciones
 
 ###### Artículo 90.
 
-El Catálogo de Cuentas al que deberá ajustarse el Consejo para el registro de sus operaciones financieras, estará integrado por los siguientes grupos de cuentas:
-
-I. Activo;
-
-II. Pasivo;
-
-III. Patrimonio;
-
-IV. Resultados;
-
-V. Orden; y
-
-VI. Presupuesto.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 91.
 
-Para modificar el Catálogo de Cuentas a que se refiere el artículo anterior se deberá observar lo establecido en las disposiciones legales aplicables. Dicha modificación se podrá llevar a cabo en los siguientes casos:
-
-I. Creación de un nuevo sistema;
-
-II. Requerimientos específicos del Consejo;
-
-III. Adecuaciones por reformas técnico-administrativas; y
-
-IV. Actualización de la técnica contable.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 92.
 
-Programación y Presupuesto llevará a cabo la desagregación de las cuentas contables en subcuentas y subsubcuentas que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 93.
 
-Programación y Presupuesto registrará anualmente como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 94.
 
-El registro contable de los ingresos, según sea el caso, deberá estar respaldado por:
-
-I. Cuentas por liquidar certificadas;
-
-II. Depósitos bancarios;
-
-III. Transferencias electrónicas; y
-
-IV. Cualquier otro documento que por su naturaleza sea considerado ingreso.
-
-En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, y se desconozca el origen del ingreso, Programación y Presupuesto registrará con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 7/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ABRIL DE 2010)</small>
 
@@ -941,65 +911,27 @@ Las recuperaciones de recursos presupuestales de ejercicios anteriores que se re
 
 ###### Artículo 96.
 
-Tratándose de sueldos y prestaciones devengados no cobrados que hayan prescrito conforme a la Ley, y una vez realizadas las gestiones correspondientes, se efectuarán las ampliaciones líquidas al presupuesto.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 97.
 
-Para el registro de las operaciones financieras, entre otras, se deberá observar lo siguiente:
-
-I. En el caso de obras públicas, el presupuesto se considera devengado y ejercido al momento de aprobarse el anticipo o la estimación de avance físico de las mismas por las áreas autorizadas para tal efecto. Para su contabilización, las áreas competentes deberán tramitar ante la Secretaría, la estimación correspondiente;
-
-II. Cuando se trate de gastos que se devenguen en forma continua, como son, entre otros: carga social, arrendamiento, servicio telefónico y energía, se podrán registrar como presupuesto ejercido, si no se tuvieren los comprobantes de su importe, mediante una estimación de éste, tomando como base el importe del mes inmediato anterior, tomando en consideración la solicitud expresa de las unidades ejecutoras de gasto; y
-
-III. La contabilización de los pagos correspondientes al pasivo por operaciones de ejercicios anteriores se ajustará a lo dispuesto en las disposiciones legales aplicables.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 98.
 
-Para la contabilización de las operaciones, en casos excepcionales cuando se carezca de los documentos justificativos o comprobatorios, la Secretaría, a través de Programación y Presupuesto, deberá consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión a fin de proceder al registro contable.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 99.
 
-Programación y Presupuesto contabilizará los movimientos y existencias de sus almacenes mediante la valuación de los inventarios, con base en el método de “costos promedio” autorizado para tal efecto.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 100.
 
-Las bajas del activo fijo (bienes muebles) por concepto de enajenación, donación, transferencias, pérdidas por siniestros o determinación de desechos, y cualquier otro que determine el órgano facultado del Consejo, serán registradas con la documentación e información que las áreas competentes deberán remitir a Programación y Presupuesto, las cuales como mínimo, según sea el caso, deberán contener:
-
-I. Aviso de baja de almacén;
-
-II. Número de inventario;
-
-III. Descripción del artículo;
-
-IV. Proveedor;
-
-V. Número de factura;
-
-VI. Fecha de adquisición;
-
-VII. Costo de adquisición; y
-
-VIII. Precio de Venta.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 101.
 
-La Dirección General de Recursos Materiales y Servicios Generales deberá contar con un sistema de inventarios de activo fijo que permita un control administrativo, registro contable y el manejo adecuado de los inventarios, el cual debe de contener como mínimo lo siguiente:
-
-I. Aviso de alta de almacén;
-
-II. Número de inventario;
-
-III. Descripción del artículo;
-
-IV. Proveedor;
-
-V. Número de factura;
-
-VI. Fecha de adquisición; y
-
-VII. Costo de adquisición.
-
-Asimismo, deberá enviar a Programación y Presupuesto, un reporte mensual de movimientos de altas y bajas y, dentro de los quince días posteriores al cierre del ejercicio fiscal, el inventario del activo fijo a nivel nacional. En caso de que se detecten diferencias entre éste y el registro contable, se procederá a realizar la revisión con el área correspondiente y, en su caso, se efectuarán los ajustes necesarios previa autorización de la Comisión.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 102.
 
@@ -1007,91 +939,81 @@ Las unidades ejecutoras de gasto serán las responsables de remitir a Programaci
 
 ###### Artículo 103.
 
-La contabilidad de las operaciones deberá estar respaldada con los documentos comprobatorios y justificativos originales o, en su caso, con los documentos autorizados por la Comisión para los casos excepcionales para efectos contables, que permitan verificar las operaciones de ingreso, gasto público y otros que afecten el patrimonio de la Hacienda Pública Federal, tomando en cuenta las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 104.
 
-Programación y Presupuesto recabará trimestralmente de las áreas competentes, la información necesaria relativa a los juicios o procedimientos de cualquier tipo que afecten recursos presupuestales del Consejo, con la finalidad de realizar los ajustes que correspondan a los saldos de las cuentas contables, previa autorización de la Comisión.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 105.
 
-Programación y Presupuesto realizará la depuración contable de las cuentas de balance, efectuando los registros de ajustes y/o reclasificaciones contables, anexando la documentación soporte que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones normativas aplicables.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 106.
 
-En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, Programación y Presupuesto, de conformidad con los lineamientos autorizados por la Comisión, elaborará una acta narrativa de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión, a través de la Secretaría, para su autorización y cancelación de movimientos y/o saldos contables correspondientes.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ### CAPITULO III. De la Formulación de los Estados Financieros
 
 ###### Artículo 107.
 
-Para efectos de la formulación de estados financieros, Programación y Presupuesto deberá elaborar el balance general o estado de situación financiera; estado de resultados; estado de origen y aplicación de recursos; estado de modificación al patrimonio; y demás información financiera y presupuestal que emane de la contabilidad y forme parte integrante de la misma.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 108.
 
-Programación y Presupuesto deberá elaborar, autorizar y enviar a la Secretaría y a la Contraloría, los estados financieros de manera mensual y en los términos establecidos en las disposiciones legales y normativas aplicables.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ### CAPITULO IV. De la Integración de la Cuenta Pública
 
 ###### Artículo 109.
 
-Para dar cumplimiento a la integración y presentación de la cuenta pública, al informe de avance de gestión financiera y a los informes trimestrales, Programación y Presupuesto deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con el presente Acuerdo General, la Ley y demás disposiciones aplicables.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 110.
 
-El Consejo, por conducto de los órganos responsables, verificará que la elaboración de la Cuenta Pública cumpla con la normatividad respectiva y se apegue a los principios de contabilidad generales y específicos, aplicables al sector público, considerando al menos lo siguiente:
-
-I. Hoja de trabajo;
-
-II. Estado del ejercicio del presupuesto;
-
-III. Estado analítico de ingresos; y
-
-IV. Principales variaciones a las cuentas de balance y resultados.
-
-Asimismo, aplicará las normas de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable y documentos comprobatorios del ingreso y Gasto Público Federal de la Cuenta Pública, comprueben que el ejercicio del gasto público sea congruente con el Presupuesto de Egresos del Consejo.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 111.
 
-Como resultado de la elaboración y consolidación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con lo establecido en las disposiciones legales aplicables.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 112.
 
-La Secretaría presentará a consideración de la Comisión la Cuenta Pública del Consejo, para que con su visto bueno, sea remitida al Pleno para su aprobación, y envío a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de la Ley.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ### CAPITULO V. Del Archivo Contable
 
 ###### Artículo 113.
 
-La Secretaría, por conducto de Programación y Presupuesto, estará obligada a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 114.
 
-En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Secretaría, a través de Programación y Presupuesto, deberá consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 115.
 
-Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, la Secretaría, previo dictamen de la Contraloría, someterá a consideración de la Comisión, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 116.
 
-La documentación contable que le sea requerida a Programación y Presupuesto, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 117.
 
-Para dar cumplimiento a la normatividad establecida, Programación y Presupuesto deberá contar con los espacios suficientes para la conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 118.
 
-Con la finalidad de optimizar el gasto y los espacios para el archivo contable, Programación y Presupuesto evitará la recepción de documentación que no sea de carácter contable.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 119.
 
-En el resguardo y conservación de la documentación comprobatoria de los pagos de nóminas del Consejo, la Dirección General de Recursos Humanos conservará para su guarda, manejo y custodia los recibos originales de pago de nómina y las nóminas por adscripción, de conformidad con lo establecido en las disposiciones aplicables, remitiendo a Programación y Presupuesto únicamente para su registro contable y resguardo el resumen general de nómina. Asimismo, establecerá lo conducente para que la guarda, manejo y custodia de los documentos antes señalados se digitalicen o bien que la emisión se realice a través de medios electrónicos.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ###### Artículo 120.
 
-Programación y Presupuesto iniciará el programa de digitalización de la documentación contable justificativa y comprobatoria, con la finalidad de evitar el deterioro y el riesgo de pérdida de los documentos originales, agilizando de esta manera la consulta en forma electrónica de la información.
+(DEROGADO POR EL TRANSITORIO NOVENO DEL ACUERDO GENERAL CONJUNTO EMITIDO POR EL COMITE COORDINADOR PARA HOMOLOGAR CRITERIOS EN MATERIA ADMINISTRATIVA E INTERINSTITUCIONAL DEL PODER JUDICIAL DE LA FEDERACION, QUE REGULA EL PROCESO CONTABLE DE DICHOS ORGANOS, D.O.F. 26 DE MAYO DE 2011)
 
 ## TITULO SEXTO. DEL CONTROL Y VIGILANCIA DEL GASTO PUBLICO EN EL CONSEJO
 
@@ -1336,3 +1258,33 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Proceso Presupuestario en el Consejo de la Judicatura Federal.
+
+D.O.F. 26 DE MAYO DE 2011.
+
+PRIMERO.- El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El sistema de los órganos del Poder Judicial de la Federación se ajustará al desarrollo de los elementos técnicos y normativos de la siguiente forma:
+
+I. Disponer de listas de cuentas alineadas al plan de cuentas; clasificadores presupuestarios; catálogos de bienes; las características señaladas en los artículos 21 y 23, asimismo, de la norma y metodología que establezca los momentos contables de ingresos y gastos previstos en el Acuerdo, contar con indicadores para medir los avances físico-financieros relacionados con los recursos federales; y emitir información contable y presupuestaria de forma periódica bajo las clasificaciones administrativa, económica y funcional-programática; sobre la base técnica prevista en este párrafo, a más tardar, el 31 de diciembre de 2010;
+
+II. Realizar los registros contables con base acumulativa y en apego a postulados básicos de contabilidad gubernamental en sus respectivos libros de diario, mayor e inventarios y balances; o en los sistemas electrónicos que los sustituyan, disponer de catálogos de cuentas y manuales de contabilidad; y emitir información contable, presupuestaria y programática sobre la base técnica prevista en este párrafo y el anterior, a más tardar, el 31 de diciembre de 2011;
+
+III. Efectuar los registros contables del patrimonio y su valuación; generar los indicadores de resultados sobre el cumplimiento de sus metas; y publicar información contable, presupuestaria y programática, en su página de internet, para consulta de la población en general, a más tardar, el 31 de diciembre de 2012.
+
+CUARTO.- El sistema deberá estar operando en tiempo real, a más tardar, el 31 de diciembre de 2011.
+
+Cada sistema de contabilidad gubernamental de los órganos del Poder Judicial de la Federación deberá estar operando y generando en tiempo real estados financieros, sobre el ejercicio de los ingresos y gastos, a más tardar, el 31 de diciembre de 2012.
+
+QUINTO.- El inventario de bienes muebles e inmuebles a que se refiere este Acuerdo deberá estar integrado, a más tardar el 31 de diciembre de 2011, por las áreas encargadas de los recursos materiales.
+
+SEXTO.- En tanto se expidan las normas contables por el Consejo Nacional, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la Ley y al presente Acuerdo.
+
+SEPTIMO.- Cuando, en materia de contabilidad gubernamental, una disposición legal haga referencia a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se aplicará lo previsto en la Ley.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Acuerdo.
+
+NOVENO.- Se deroga en materia contable el titulo quinto "Del Registro del Gasto Público en el Consejo" del Acuerdo General 66/2006, del Pleno del Consejo de la Judicatura Federal, que reglamenta el proceso presupuestario en el Consejo de la Judicatura Federal, con excepción de los artículos 95 y 102
+
+DECIMO. El presente da cumplimiento a lo establecido en el numeral segundo del Acuerdo por el que se emite el Marco Conceptual de Contabilidad Gubernamental, así como al Acuerdo por el que se emiten los Postulados Básicos de Contabilidad Gubernamental publicados en el Diario Oficial de la Federación el 20 de agosto de 2009.
