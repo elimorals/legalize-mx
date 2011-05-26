@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2011-01-28"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -505,6 +505,12 @@ El Procurador Federal del Consumidor será designado por el Presidente de la Rep
 ###### ARTICULO 29.
 
 Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+ARTICULO 29 BIS.- La Procuraduría determinará y aplicará controles de confianza para todo su personal en los términos que establezca el Procurador en los lineamientos correspondientes, como medida para asegurar su probidad y honestidad, y en particular tratándose de quienes realicen o supervisen labores de verificación y vigilancia establecidas en el capítulo XII de la propia ley, se les aplicarán, además de los que se establezcan en los lineamientos referidos, exámenes psicológicos, toxicológicos, patrimoniales y socioeconómicos.
 
 ###### ARTICULO 30.
 
@@ -2115,3 +2121,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2011.
 D.O.F. 28 DE ENERO DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE MAYO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor en el mes de enero siguiente al de su publicación en el Diario Oficial de la Federación y durante ese plazo se deberán expedir los lineamientos a que hace referencia el artículo 29 BIS.
