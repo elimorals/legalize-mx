@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-conciliacion-y-arbitraje-medico-para-el-estado-de-78632"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2010-12-23"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 23 de diciembre de 2010.
 
@@ -763,9 +763,11 @@ Así mismo, la Secretaría emitirá las opiniones técnicas que, en la materia, 
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+
 ###### ARTICULO PRIMERO.
 
-La presente ley entrará en vigor a los noventa días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
+La presente ley entrará en vigor ciento ochenta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -804,3 +806,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los diecisiete días del mes de diciembre del año dos mil diez.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rubrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rubrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
