@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2011-01-28"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -1892,9 +1892,11 @@ Los diversos programas e instrumentos que se requieran para cumplir con los line
 
 Los proyectos de Presupuesto de Egresos que formule el Ejecutivo Federal deberán ser congruentes, según lo dispone el artículo 40 de la Ley de Planeación, con los objetivos, las metas y las prioridades establecidas en el Plan Nacional de Desarrollo, los Programas Sectoriales correlacionados y el Programa Especial Concurrente, definidos para el corto y mediano plazos. En dichos proyectos e instrumentos, a iniciativa del Ejecutivo Federal, se tomará en cuenta la necesidad de coordinar las acciones de las distintas dependencias y entidades federales para impulsar el desarrollo rural sustentable.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MAYO DE 2011)</small>
+
 ###### Artículo 190.
 
-Para los efectos del artículo anterior, y de acuerdo a lo dispuesto por los artículos 4 y 13 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, las previsiones presupuestales podrán comprender los siguientes rubros:
+Para los efectos del artículo anterior, y de acuerdo a lo dispuesto por los artículos 24 y 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las previsiones presupuestales podrán comprender los siguientes rubros:
 
 I. Apoyos para la adquisición de activos privados para la inversión e insumos en las unidades de los propios productores y pagos por empleo temporal aplicados al mejoramiento de sus activos; apoyos para el desarrollo forestal y de plantaciones; y, apoyos directos al campo, en los términos que definan los programas y de acuerdo a lo establecido en esta Ley;
 
@@ -2011,3 +2013,7 @@ El Gobierno Federal conformará el Padrón de Comercializadores dentro de los 18
 ###### ARTÍCULO TERCERO.
 
 La integración, administración y actualización del Padrón de Comercializadores Confiables, se llevarán a cabo a través de las unidades administrativas ya existentes a partir de la entrada en vigor del presente Decreto y con los recursos presupuestales autorizados para tal efecto, en el Presupuesto de Egresos de la Federación correspondiente.
+
+D.O.F. 26 DE MAYO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
