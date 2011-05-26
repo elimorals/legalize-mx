@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2010-12-23"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1063,9 +1063,9 @@ Son atribuciones de la Diputación Permanente:
 
 I.- Velar por la observancia de la Constitución y de las Leyes;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2011)</small>
 
-II.- Dictaminar sobre los asuntos que quedaren pendientes al terminar el Período de Sesiones Ordinarias del Congreso y sobre los que admita, y presentar estos Dictámenes en la primera sesión ordinaria del nuevo Período de Sesiones;
+II.- Dictaminar sobre los asuntos que quedaren pendientes al terminar el período de sesiones ordinarias del Congreso y sobre los que admita, así como recibir las observaciones que envíe el Ejecutivo a los proyectos de leyes y decretos del Congreso y presentar estos dictámenes y observaciones en la primera sesión ordinaria del nuevo período de sesiones, o en sesión extraordinaria del Pleno, si formaran parte de los asuntos que motiven la convocatoria de la misma;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1169,13 +1169,13 @@ Ninguna iniciativa de ley o decreto que sea desechada podrá volver a presentars
 
 Las iniciativas adquirirán el carácter de ley o decreto cuando sean aprobadas por la mayoría de los diputados presentes en los términos de lo previsto por esta sección, y entrarán en vigor en la fecha que determine el Congreso; si éste no lo determina, serán vigentes a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
 ###### Art. 68.
 
-Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo, quien los sancionará y los mandará publicar y circular para su cumplimiento; pero éste podrá formular observaciones, dentro de los primeros diez días hábiles siguientes a su recepción, haciendo expresión por escrito de las razones que estime pertinentes. El Congreso tomará en cuenta las observaciones que reciba y previo su examen, discutirá nuevamente el proyecto; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. Concluida ésta, se votará el dictamen correspondiente y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes. Si la ley o decreto resulta aprobada, se remitirá al Ejecutivo para su promulgación y publicación inmediatas.
+Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo, quien los sancionará y los mandará publicar y circular para su cumplimiento; pero éste podrá formular observaciones, dentro de los primeros treinta días naturales siguientes a su recepción, haciendo expresión por escrito de las razones que estime pertinentes. El Congreso tomará en cuenta las observaciones que reciba y previo su examen, discutirá nuevamente el proyecto; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se celebre. Concluida ésta, se votará el dictamen correspondiente y se tendrá por aprobado con el voto de las dos terceras partes de los diputados presentes. Si la ley o decreto resulta aprobada, se remitirá al Ejecutivo para su promulgación y publicación inmediatas.
 
-Si al clausurarse el periodo de sesiones no se hubiere cumplido el término concedido en el párrafo anterior para que el Ejecutivo formule observaciones, las mismas deberán hacerse del conocimiento del Congreso el primer día en que vuelva a reunirse para sesionar.
+Si transcurrido el plazo para hacer observaciones sin que se haya formulado alguna, o si una vez aprobado por la mayoría calificada referida el dictamen recaído a las observaciones formuladas, el Ejecutivo no promulga y publica la ley o decreto en un término de diez días naturales, dicha ley o decreto será considerado promulgado y, vencido este último plazo, el Presidente de la Mesa Directiva o, en su caso, el Presidente de la Diputación Permanente ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo. Los plazos señalados en este artículo no se interrumpirán si el Congreso cierra o suspende sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1839,7 +1839,7 @@ Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
@@ -3982,6 +3982,12 @@ P.O. 23 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
