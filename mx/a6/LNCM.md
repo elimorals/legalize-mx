@@ -4,7 +4,7 @@ identifier: "LNCM"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-01"
-last_updated: "2006-06-01"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50527&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de junio de 2006.
 
@@ -2628,11 +2628,15 @@ III. Los capitanes y patrones de embarcaciones por no utilizar el servicio de pi
 
 IV. Los propietarios de las embarcaciones o los navieros por:
 
-a. Proceder al desguace en contravención con lo establecido por el artículo 89;
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+a. Proceder al desguace en contravención con lo establecido por el artículo 90;
 
 b. No efectuar en el plazo que fije la autoridad marítima, la señalización, remoción o extracción de embarcaciones, aeronaves o artefactos navales a la deriva, hundidos o varados;
 
-c. Por prestar los servicios a que se refiere el artículo 41 sin permiso de la Secretaría;
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+c. Por prestar los servicios a que se refiere el artículo 42 sin permiso de la Secretaría;
 
 d. Por no cumplir con lo dispuesto por el artículo 177; y
 
@@ -2677,3 +2681,11 @@ Artículo Décimo.- Los certificados de competencia, así como los nombramientos
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Dentro de un plazo de sesenta días contados a partir de la vigencia del presente Decreto, el Ejecutivo Federal publicará las modificaciones reglamentarias que correspondan.
