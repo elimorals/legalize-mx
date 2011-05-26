@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2011-01-13"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -1057,6 +1057,12 @@ XIII. Analizar la receta médica y, en caso de considerarlo necesario, solicitar
 
 Los responsables sanitarios de farmacias y boticas deberán cumplir con lo establecido en las fracciones I, II, III, IV, XII y XIII del artículo anterior. Cuando expendan medicamentos que sean o contengan estupefacientes o psicotrópicos deberán observar, además, lo establecido en la fracción VII del artículo 124 de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 125
+
+bis. Los responsables sanitarios de los establecimientos destinados a Centros de Mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas deberán cumplir con lo establecido en las fracciones I, II, III, IV, VIII, IX, XII y XIII del artículo 124 del presente Reglamento, así como con lo que se establezca en la Norma correspondiente. Cuando en la preparación de mezclas parenterales nutricionales y medicamentosas se utilicen estupefacientes o psicotrópicos deberán observar, además, lo establecido en la fracción VII del artículo 124 de este Reglamento.
+
 ###### ARTÍCULO 126.
 
 Cuando los responsables sanitarios dejen de prestar sus servicios, éstos o los titulares de la licencia o los propietarios de los Establecimientos, deberán informarlo a la Secretaría, en el formato que se expida para tal efecto, dentro de los diez días posteriores a la fecha de la baja, y dentro de los treinta días posteriores a esa fecha, los propietarios o titulares avisarán de la designación del nuevo responsable.
@@ -1081,13 +1087,45 @@ Los Establecimientos dedicados al proceso de fabricación, distribución y comer
 
 En el caso de los Establecimientos que comercialicen Remedios Herbolarios, el responsable podrá ser el propietario del Establecimiento, en los términos que señala el artículo 261 de la Ley.
 
-### Capítulo I. Importación
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
+### Capítulo V. Establecimientos destinados a Centros de Mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 130
+
+bis 1. Se considera Centro de Mezcla, al establecimiento para la preparación de mezclas parenterales nutricionales y medicamentosas autorizado por la Secretaría, de conformidad con los requisitos que se establecen en la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 130
+
+bis 2. La preparación de las mezclas parenterales nutricionales y medicamentosas sólo deberá realizarse con receta médica.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 130
+
+bis 3. Los Centros de Mezcla deberán contar con bibliografía básica de consulta para que el profesional responsable pueda establecer las condiciones de estabilidad y compatibilidad de las mezclas.
+
+La bibliografía básica de consulta a que se refiere el párrafo anterior deberá indicar, entre otros aspectos, la información técnica del producto, así como aquella que determine la Norma correspondiente.
+
+Para efectos de este artículo, se entenderá por condiciones de compatibilidad, las que determinan la posibilidad de que una sustancia pueda mezclarse con otra y persistan sus características de calidad, seguridad y eficacia.
+
+Asimismo, se entenderá por condiciones de estabilidad, aquellas que determinan el tiempo durante el cual persisten en la mezcla sus características de calidad, seguridad y eficacia.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+###### ARTÍCULO 130
+
+bis 4. Los Centros de Mezcla que para preparar mezclas parenterales utilicen citotóxicos deberán contar con instalaciones que cumplan con las especificaciones establecidas en la Norma correspondiente.
 
 ## TÍTULO QUINTO. Importación y exportación
 
-### Capítulo II. Exportación
+### Capítulo I. Importación
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE ENERO DE 2008)</small>
 
 ###### ARTÍCULO 131.
 
@@ -1231,7 +1269,7 @@ No se autorizará la importación de Insumos cuyo uso o consumo haya sido prohib
 
 En caso de alerta sanitaria nacional o internacional, la Secretaría tomará las medidas necesarias para impedir la importación, distribución o comercialización de productos, materias primas y otros ingredientes que intervienen en su elaboración y que puedan causar daño a la salud. Dichas medidas se publicarán en el Diario Oficial de la Federación.
 
-### Capítulo I. Disposiciones comunes
+### Capítulo II. Exportación
 
 ###### ARTÍCULO 150.
 
@@ -1281,7 +1319,7 @@ En los casos en que proceda la destrucción, los gastos correspondientes serán 
 
 ## TÍTULO SEXTO. Autorizaciones y avisos
 
-### Capítulo II. Licencias
+### Capítulo I. Disposiciones comunes
 
 ###### ARTÍCULO 153.
 
@@ -1355,7 +1393,7 @@ III. Las cartas de representación estarán autenticadas por el procedimiento le
 
 bis. La Secretaría podrá expedir disposiciones de carácter general que tengan por objeto reconocer que los requisitos, pruebas, procedimientos de evaluación y demás requerimientos solicitados por las autoridades sanitarias extranjeras para permitir en sus respectivos países la venta, distribución y uso de Insumos a que se refiere este Reglamento, son equivalentes a los que la Ley, el presente Reglamento y demás disposiciones aplicables exigen para garantizar la calidad, seguridad y eficacia que deben satisfacer dichos Insumos, para obtener su registro sanitario en el país.
 
-### Capítulo III. Registros
+### Capítulo II. Licencias
 
 ###### ARTÍCULO 162.
 
@@ -1371,7 +1409,7 @@ La autoridad sanitaria, para el otorgamiento de la licencia sanitaria, podrá re
 
 Las licencias de los Establecimientos que utilicen fuentes de radiación para uso médico, así como de los responsables de la operación y funcionamiento de dichas fuentes de radiación, quedarán sujetas, en lo conducente, a las disposiciones del Reglamento de la Ley General de Salud en Materia de Control Sanitario de Salud Ambiental, sin perjuicio de las atribuciones de otras dependencias.
 
-### Capítulo IV. Permisos
+### Capítulo III. Registros
 
 ###### ARTÍCULO 165.
 
@@ -1877,7 +1915,7 @@ IV. Cuando los organismos internacionales así lo recomienden.
 
 Antes de proceder a la revocación del registro sanitario a que se refieren los artículos 380 y 381 de la Ley, la Secretaría podrá revisar, evaluar y solicitar la reformulación del medicamento de que se trate.
 
-### Capítulo V. Avisos
+### Capítulo IV. Permisos
 
 ###### ARTÍCULO 193.
 
@@ -1979,7 +2017,7 @@ I. El certificado analítico del producto terminado, método de control y sus re
 
 II. Los proyectos de Etiqueta que cumplan con lo que establece la Norma correspondiente de estos productos, en idioma español.
 
-### Capítulo VI. Certificados sanitarios
+### Capítulo V. Avisos
 
 ###### ARTÍCULO 206.
 
@@ -1989,7 +2027,7 @@ La publicidad dirigida a profesionales de la salud de los Insumos a los que se r
 
 El aviso a que se refiere el artículo anterior deberá efectuarse bajo protesta de decir verdad que el proyecto publicitario reúne los requisitos establecidos en la Ley, los reglamentos correspondientes, las Normas correspondientes y el Código de Ética en la materia.
 
-### Capítulo único
+### Capítulo VI. Certificados sanitarios
 
 ###### ARTÍCULO 208.
 
@@ -2003,7 +2041,7 @@ Para otorgar el certificado de libre venta de los Insumos, se requiere presentar
 
 ## TÍTULO SÉPTIMO. Terceros Autorizados
 
-### Capítulo I. Verificación
+### Capítulo único
 
 ###### ARTÍCULO 210.
 
@@ -2073,7 +2111,7 @@ La Secretaría publicará periódicamente en el Diario Oficial de la Federación
 
 ## TÍTULO OCTAVO. Verificación, medidas de seguridad y sanciones
 
-### Capítulo II. Medidas de seguridad
+### Capítulo I. Verificación
 
 ###### ARTÍCULO 218.
 
@@ -2153,7 +2191,7 @@ Transcurrido el plazo a que se refiere el párrafo anterior, se efectuará visit
 
 Transcurridos los plazos a que se refieren los párrafos anteriores, se efectuará visita para verificar el cumplimiento de las acciones correctivas; en el caso de que éstas no se hubieren cumplido, la Secretaría aplicará las medidas de seguridad establecidas en la Ley.
 
-### Capítulo III. Sanciones
+### Capítulo II. Medidas de seguridad
 
 ###### ARTÍCULO 224.
 
@@ -2164,6 +2202,8 @@ La medida de seguridad impuesta deberá ratificarse, modificarse o revocarse en 
 ###### ARTÍCULO 225.
 
 Las autoridades sanitarias competentes podrán ordenar la aplicación de las medidas de seguridad a que se refiere el artículo 404 de la Ley, cuando en las áreas, instalaciones, equipo o proceso de fabricación se afecten la identidad, pureza, conservación, concentración o fabricación de los Insumos; así como por el incumplimiento de las buenas prácticas de fabricación y, en general, cuando se infrinjan las disposiciones de la Ley y este Reglamento que impliquen un grave riesgo para la salud.
+
+### Capítulo III. Sanciones
 
 ###### ARTÍCULO 226.
 
@@ -2286,3 +2326,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El procedimiento de autorización simplificado a que se refiere el párrafo tercero del artículo 43 del Reglamento, será aplicable una vez que se expidan los lineamientos a que hace referencia dicho numeral.
 
 TERCERO. Los asuntos en trámite a la entrada en vigor del presente Decreto, se atenderán hasta su conclusión, conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 26 DE MAYO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
