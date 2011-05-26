@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2007-08-22"
+last_updated: "2011-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -163,6 +163,14 @@ c) de naturaleza meramente civil.
 
 5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+###### Articulo 9 Bis.
+
+El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
+
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la victima, independientemente de que se realice en uno o varios eventos.
+
 ###### Artículo 10.
 
 1. Son órdenes de protección de emergencia las siguientes:
@@ -285,9 +293,33 @@ c) formular acciones y programas de concientización orientados a fomentar la cu
 
 d) proveer de la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres;
 
-e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
-f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+e) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+f) tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+g) establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+h) ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+i) participar en el diseño, con una visión transversal, de la política estatal integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+j) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+
+k) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 15.
 
@@ -301,9 +333,29 @@ c) dictar las medidas inmediatas para que la mujer víctima de la violencia reci
 
 d) promover la cultura de respeto a los derechos humanos de las mujeres;
 
-e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
-f) las demás que le confieran esta ley u otros ordenamientos aplicables.
+e) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+f) garantizar la seguridad de las mujeres que denuncian;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+g) proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+h) brindar a las victimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de victimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+
+j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 16.
 
@@ -470,3 +522,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cuatro días del mes de julio del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
