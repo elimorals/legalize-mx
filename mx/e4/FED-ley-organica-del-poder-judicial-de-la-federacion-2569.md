@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2010-11-30"
+last_updated: "2011-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MAYO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -1332,7 +1332,17 @@ La convocatoria señalará las categorías y número de vacantes sujetas a concu
 
 II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que se concursa.
 
-De entre el número total de aspirantes sólo tendrán derecho a pasar a la siguiente etapa las cinco personas que por cada una de las vacantes sujetas a concurso hayan obtenido las más altas calificaciones;
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+De entre el número total de aspirantes tendrán derecho a pasar a la siguiente etapa quienes hayan obtenido las más altas calificaciones, asegurando que el número de los seleccionados sea mayor al de las plazas vacantes.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+El Consejo de la Judicatura Federal, deberá establecer en la convocatoria respectiva, de manera clara y precisa, los parámetros para definir las más altas calificaciones y el mínimo aprobatorio para esta etapa dentro del concurso de oposición.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
+
+En caso de empate, se resolverá con criterio de acción afirmativa de equidad.
 
 III. Los aspirantes seleccionados, en términos de la fracción anterior, resolverán los casos prácticos que se les asignen mediante la redacción de las respectivas sentencias. Posteriormente se procederá a la realización del examen oral y público que practique el jurado a que se refiere el artículo 117 de esta ley, mediante las preguntas e interpelaciones que realicen sus miembros sobre toda clase de cuestiones relativas a la función de magistrado de circuito o juez de distrito, según corresponda. La calificación final se determinará con el promedio de los puntos que cada miembro del jurado le asigne al sustentante.
 
@@ -3395,3 +3405,7 @@ Décimo. Para el establecimiento y organización de las unidades especializadas 
 Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
 
 Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 26 DE MAYO DE 2011.
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
