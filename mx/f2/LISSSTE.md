@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2007-03-31"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -156,13 +156,17 @@ X. Entidades, los organismos descentralizados, empresas de participación estata
 
 XI. Entidades Federativas, a los estados de la República y el Distrito Federal;
 
-XII. Familiares Derechohabientes a:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 2011)</small>
+
+XII. Familiares derechohabientes a:
 
 a) El cónyuge, o a falta de éste, el varón o la mujer con quien, la Trabajadora o la Pensionada con relación al primero, o el Trabajador o el Pensionado, con relación a la segunda, ha vivido como si fuera su cónyuge durante los cinco años anteriores o con quien tuviese uno o más hijos(as), siempre que ambos permanezcan libres de matrimonio. Si el Trabajador o el Pensionado, tiene varias concubinas o concubinarios, según sea el caso, ninguno de estos dos últimos sujetos tendrá derecho a los seguros, prestaciones y servicios previstos en esta Ley;
 
 b) Los hijos del Trabajador menores de dieciocho años;
 
-c) Los hijos del Trabajador o Pensionado mayores de dieciocho años, cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen, lo que se comprobará mediante certificado médico expedido por el Instituto y por medios legales procedentes; o hasta la edad de veinticinco años, previa comprobación de que están realizando estudios del nivel medio superior o superior, de cualquier rama del conocimiento en planteles oficiales o reconocidos, y que no tengan un trabajo, y
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2011)</small>
+
+c) Los hijos del Trabajador o Pensionado mayores de dieciocho años, cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen, lo que se comprobará mediante certificado médico, expedido por el Instituto y por medios legales procedentes; o hasta la edad de veinticinco años, previa comprobación de que están realizando estudios de nivel medio superior o superior, de cualquier rama del conocimiento en planteles oficiales o reconocidos, y que no tengan un trabajo, y
 
 d) Los ascendientes que dependan económicamente del Trabajador o Pensionado.
 
@@ -1374,9 +1378,11 @@ En caso de que dos o más interesados reclamen derecho a Pensión como cónyuges
 
 Cuando un solicitante, ostentándose como cónyuge supérstite del Trabajador o Pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la Pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá Pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2011)</small>
+
 ###### Artículo 134.
 
-Si el Pensionado por orfandad llegaré a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la Pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación, previa comprobación anual mediante dictamen medico emitido por el propio Instituto para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la Pensión; asimismo continuarán disfrutando de la Pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en planteles oficiales o reconocidos y que no tengan un trabajo.
+Si el Pensionado por orfandad llegare a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, el pago de la Pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación, previa comprobación anual mediante dictamen médico emitido por el propio Instituto para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la Pensión; asimismo continuarán disfrutando de la Pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en planteles oficiales o reconocidos y que no tengan un trabajo.
 
 ###### Artículo 135.
 
@@ -2997,3 +3003,9 @@ CUADRAGÉSIMO SÉPTIMO. El Instituto, el PENSIONISSSTE y el Fondo de la Vivienda
 México, D.F., 28 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Lilia Gpe. Merodio Reza, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE MAYO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
