@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-las-consecuencias-juridicas-del-delito-2216
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2005-08-03"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 14 de septiembre de 2001.
 
@@ -1057,7 +1057,9 @@ El beneficio de remisión parcial de la sanción corporal consiste en la disminu
 
 Siempre será necesaria como condición no dispensable, el dato de su efectiva readaptación social, como factor determinante para conceder o negar la remisión parcial de la sanción corporal.
 
-Este beneficio no se otorgará a los sentenciados por los delitos de secuestro previstos en los artículos 167 y 168 del Código Penal para el Estado.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Este beneficio no se otorgará a los sentenciados por los delitos de secuestro previstos en el Título Cuarto, Capítulo II, de la Sección Primera del Libro Segundo del Código Penal para el Estado de Sinaloa.
 
 ###### Artículo 121.
 
@@ -1099,7 +1101,9 @@ La libertad preparatoria permitirá al sentenciado el egreso del centro y su rei
 
 La Dirección de Prevención y Readaptación Social, a petición del sentenciado, y previos los informes del Consejo Técnico Interdisciplinario del Centro, iniciará el trámite para conceder al sentenciado el régimen de libertad preparatoria, la cual será otorgada por el Juez de Primera Instancia de Ejecución de las Consecuencias Jurídicas del Delito.
 
-El beneficio de la libertad preparatoria no se concederá a sentenciados por el delito de secuestro previsto por los artículos 167 y 168 del Código Penal para el Estado.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+El beneficio de la libertad preparatoria no se concederá a sentenciados por los delitos de secuestro previstos en el Título Cuarto, Capítulo II, de la Sección Primera del Libro Segundo del Código Penal para el Estado de Sinaloa.
 
 ###### Artículo 126.
 
@@ -1170,6 +1174,46 @@ Si el auto de formal prisión o de sujeción a proceso se dejaren sin efecto por
 ###### Artículo 132.
 
 Cuando el Juez de Primera Instancia de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito dicte la revocación de la libertad preparatoria, lo comunicará a la Procuraduría General de Justicia para que proceda conforme a sus atribuciones legales y el sentenciado cumpla el tiempo que le resta de la consecuencia jurídica impuesta.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### Artículo 132 Bis.
+
+Los sentenciados por los delitos de secuestro previstos en el Título Cuarto, Capítulo II, de la Sección Primera del Libro Segundo del Código Penal para el Estado de Sinaloa, no tendrán derecho a ningún beneficio que implique reducción de la condena.
+
+Quienes colaboren proporcionando datos fehacientes o suficientes elementos de convicción a la autoridad en la investigación y persecución de otros miembros de bandas de personas dedicadas a la comisión de delitos en materia de secuestro y para la localización y liberación de las víctimas, conforme al Código Penal para el Estado de Sinaloa y esta Ley, tendrán derecho a los beneficios citados en el primer párrafo del presente artículo, siempre que concurran todas las condiciones que a continuación se enuncian:
+
+I. Respecto de los delitos sancionados con una pena que no exceda de cuatro años de prisión;
+
+II. El sentenciado acepte voluntariamente la colocación de un dispositivo de localización por el tiempo que falte cumplir la pena de prisión y pague el costo de su operación y mantenimiento;
+
+III. El sentenciado sea primodelincuente;
+
+IV. En su caso, cubra la totalidad de la reparación del daño o de manera proporcional, cuando haya sido condenado en forma solidaria y mancomunada y sea determinada dicha reparación;
+
+V. Cuente con una persona conocida que se comprometa y garantice a la autoridad penitenciaria el cumplimiento de las obligaciones contraídas por el sentenciado;
+
+VI. Compruebe fehacientemente contar con un oficio, arte o profesión o exhiba las constancias adecuadas que acrediten que continuará estudiando;
+
+VII. Cuente con fiador; y
+
+VIII. Se obligue a no molestar a la víctima y a los testigos que depusieron en su contra, así como a sus parientes o personas vinculadas a éstos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Artículo 132 Bis A.- A los procesados y sentenciados por los delitos de secuestro previstos en el Código Penal para el Estado de Sinaloa, se les podrán aplicar medidas de vigilancia especial por las autoridades competentes, las cuales podrán restringir las comunicaciones de éstos con terceros, salvo el acceso con su defensor.
+
+Las autoridades competentes, conforme a las disposiciones legales o los convenios al efecto celebrados, podrán remitir a los Centros Federales de Readaptación Social, de otros estados o el Distrito Federal a los procesados o sentenciados por delitos de secuestro, para cumplir la determinación judicial.
+
+Las diligencias que deban realizarse se llevarán a cabo siempre en las áreas que al efecto existan dentro de los propios centros de reclusión, sin que pueda justificarse para estos efectos traslado alguno, salvo petición del Titular del Ministerio Público o en quien éste delegue dicha atribución.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Artículo 132 Bis B.- Durante su reclusión, los inculpados y sentenciados por los delitos de secuestro, sólo podrán tener los objetos que les sean entregados por conducto de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Artículo 132 Bis C.- Los procesados o sentenciados por los delitos de secuestro que proporcionen datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes, podrán beneficiarse con medidas de protección durante el tiempo y bajo las modalidades que se estime necesario. Además, se asegurará su reclusión y ejecución de sentencia, en establecimientos distintos a aquel en donde compurguen su sentencia los miembros del mismo grupo delictivo.
 
 ### CAPÍTULO I. DE LA MULTA
 
@@ -1650,3 +1694,9 @@ Artículo Tercero.- Dentro de un plazo que no deberá exceder de quince días, c
 Artículo Cuarto.- Dentro de un plazo que no deberá exceder de cuarenta y cinco días, contados a partir de la entrada en vigor de este decreto, el Ejecutivo Estatal expedirá las disposiciones reglamentarias para la debida regulación de la prestación de los servicios privados de seguridad en la entidad, para garantizar que los mismos sean prestados en el marco de la ley con profesionalismo y honradez.
 
 Artículo Quinto.- La Comisión de Puntos Constitucionales y Gobernación del H. Congreso del Estado, realizará una revisión a fondo del contenido y alcances de los servicios especializados de protección a empresas y/o particulares que prestan instituciones de seguridad pública, valorando los efectos sociales, de dicha prestación y la conveniencia o no de su permanencia, debiendo dictaminar, en un lapso no mayor de seis meses, la o las iniciativas orientadas a realizar las reformas legales que se requieran.
+
+P.O. 27 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
