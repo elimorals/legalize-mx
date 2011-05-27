@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-80962"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE MAYO DE 2011.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 15 de abril de 2011.
 
@@ -357,17 +357,19 @@ Este plazo podrá prorrogarse de manera excepcional por un periodo igual cuando 
 
 ### CAPÍTULO SÉPTIMO. DE LOS ÓRGANOS RESPONSABLES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-Artículo 31 (sic).- Para el eficaz y debido cumplimiento del acceso a la información pública y la protección de datos personales administrados, generados o en poder del Instituto Electoral, los órganos responsables de su ejecución son:
+###### Artículo 30.
+
+Para el eficaz y debido cumplimiento del acceso a la información pública y la protección de datos personales administrados, generados o en poder del Instituto Electoral, los órganos responsables de su ejecución son:
 
 I. El Comité de Transparencia, y
 
 II. La Unidad de Transparencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 32.
+###### Artículo 31.
 
 El Comité de Transparencia, es el órgano que determina el artículo 42 de la Ley. Este Comité se integrará en los términos siguientes:
 
@@ -383,9 +385,9 @@ Las sesiones del Comité de Transparencia, serán grabadas en los medios audiovi
 
 El Comité de Transparencia, autorizará la participación de invitados, cuando el tratamiento del asunto así lo requiera.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 33.
+###### Artículo 32.
 
 El Comité de Transparencia, además de las previstas en el artículo 44 de la Ley, tendrá las atribuciones siguientes:
 
@@ -399,9 +401,9 @@ IV. Confirmar, modificar o revocar la clasificación de la información realizad
 
 V. Evaluar el seguimiento que se dé al trámite de las solicitudes de acceso a la información y protección de los datos personales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 34.
+###### Artículo 33.
 
 La Unidad de Transparencia estará a cargo de la persona que se desempeñe como Secretario Fedatario del Consejo General quien será su titular, teniendo como funciones además de las indicadas en el artículo 39 de la Ley, las siguientes:
 
@@ -425,25 +427,23 @@ IX. Las demás que en el ámbito de su competencia le confiera la Ley, o el Regl
 
 El Titular de la Unidad de Transparencia contará con un auxiliar, quien será la persona que se desempeñe como Responsable del Archivo del Consejo General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 35.
+###### Artículo 34.
 
 Las ausencias temporales del titular de la Unidad de Transparencia, serán suplidas por el servidor público del área del Secretario Fedatario del Consejo General, que designe el Comité de Transparencia; ausencia que no deberá exceder de treinta días naturales, salvo por motivos de salud.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 36.
+###### Artículo 35.
 
 La Unidad de Transparencia contará con las instalaciones, personal capacitado y las herramientas técnicas que faciliten el acceso y la consulta de la información pública del Instituto Electoral.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
 
-###### Artículo 37.
+###### Artículo 36.
 
 Las respuestas a las solicitudes de acceso a la información pública que sean notificadas por la Unidad de Transparencia, serán impugnables en los términos que la Ley determina.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MAYO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ## TRANSITORIOS
 
@@ -451,7 +451,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su aprob
 
 SEGUNDO.- Se abroga el Reglamento para el Acceso a la Información Pública del Instituto Estatal Electoral, aprobado el (sic) Decimoquinta Sesión Extraordinaria del Consejo General Electoral, de fecha 11 de enero de 2010.
 
-TERCERO.- A más tardar el 29 de abril de 2011 deberá quedar formalmente constituido el Comité Técnico de Transparencia y Acceso a la Información del Consejo General Electoral, en los términos del artículo 32 del presente Reglamento.
+> <small>(F. DE E., P. O. 27 DE MAYO DE 2011)</small>
+
+TERCERO.- A más tardar el 29 de abril de 2011 deberá quedar formalmente constituido el Comité Técnico de Transparencia y Acceso a la Información del Consejo General Electoral, en los términos del artículo 31 del presente Reglamento.
 
 CUARTO.- Notifíquese al Órgano Garante la integración del Comité Técnico de Transparencia y Acceso a la Información, una vez que éste se haya instalado formalmente.
 
