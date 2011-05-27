@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-sistema-de-agencias-turisticas-69339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-10"
-last_updated: "2009-08-10"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69339&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-06-29"
 
 REGLAMENTO ORGANICO DEL SISTEMA DE AGENCIAS TURISTICAS, TURISSSTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DEL SISTEMA DE AGENCIAS TURISTICAS TURISSSTE, PUBLICADO EN EL D.O.F. DE 27 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de agosto de 2009.
 
@@ -456,3 +458,13 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 29 de junio de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 27 DE MAYO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el acuerdo 62.1318.2009 de la Junta Directiva por el que se aprueba el Reglamento Orgánico del Sistema de Agencias Turísticas, TURISSSTE, de fecha 29 de junio de 2009 y publicado en el Diario Oficial de la Federación el 10 de agosto de 2009.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento."
