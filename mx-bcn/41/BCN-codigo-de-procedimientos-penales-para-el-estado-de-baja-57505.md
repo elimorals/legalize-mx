@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2011-02-11"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 32 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1527,9 +1525,11 @@ En todo caso, el Tribunal puede proceder de oficio cuando favorezca la libertad 
 
 Para la imposición de medidas cautelares, se podrá escuchar la opinión del órgano que para tal efecto se establezca en la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+
 ###### Artículo 155.
 
-Delitos graves y principio de proporcionalidad.- No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
+Delitos Graves y Principios de Proporcionalidad.- No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1550,6 +1550,12 @@ III.- Secuestro, previsto por los artículos 164, 164 bis fracción I y 165 de (
 IV.- Los previstos en los artículos 203, 208 fracciones I y II, 208 bis párrafo segundo y el artículo 229 tratándose de conductas cometidas de manera dolosa, así como los artículos 251 y 279 del Código Penal; si empre y cuando todos éstos delitos sean cometidos con medios violentos como armas y explosivos;
 
 V.- Contra el libre desarrollo de la personalidad, previstos en los artículos 261 párrafo segundo, 262, 262 ter, 264 y 265 del Código Penal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VI.- El delito de Peculado previsto en el artículo 299 fracción III del Código Penal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -4732,3 +4738,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 9 DE FEBRERO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial de Estado.
+
+P.O. 27 DE MAYO DE 2011.
+
+ÚNICO: La presente reforma entrará en vigor en el municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios, será en los términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado, publicado el 19 de octubre de 2007, en el Periódico Oficial del Estado.
