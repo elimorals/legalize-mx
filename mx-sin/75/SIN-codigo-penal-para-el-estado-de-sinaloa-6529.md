@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2010-09-08"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -301,7 +301,9 @@ VII.- Las demás que prevengan las leyes.
 
 La prisión consiste en la privación temporal de la libertad personal, tendiente a ejercer sobre el condenado una acción readaptadora y se cumplirá en los establecimientos que la ley determine para el efecto.
 
-Su duración será de 3 meses a 50 años y podrá ser sustituida en los casos y condiciones previstas en este código.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Su duración será de tres meses a setenta años y podrá ser sustituida en los casos y condiciones previstas en este código.
 
 ###### ARTICULO 30.
 
@@ -325,9 +327,11 @@ La reclusión a que se refiere el presente artículo tendrá lugar en centros di
 
 La sanción pecuniaria comprende la multa y la reparación del daño.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 33.
 
-La multa consiste en el pago de una cantidad de dinero, que se fijará por días multa, los cuales no podrán exceder de mil. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
+La multa consiste en el pago de una cantidad de dinero, que se fijará por días multa, los cuales no podrán exceder de cuarenta mil. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
 
 Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo general vigente en el Estado.
 
@@ -555,9 +559,15 @@ II.- Deshabituación;
 
 III.- Sujeción a vigilancia de la autoridad;
 
-IV.- Prohibición de ir a una determinada circunscripción territorial o de residir en ella; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
-V.- Las demás que prevengan las leyes.
+IV.- Prohibición de ir a una determinada circunscripción territorial o de residir en ella;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+V.- Colocación de dispositivos de localización y vigilancia; y
+
+VI.- Las demás que prevengan las leyes.
 
 ### CAPITULO III. DESHABITUACION
 
@@ -835,6 +845,12 @@ En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hech
 
 En todo caso en que proceda la substitución o la conmutación de la pena, al hacerse el cálculo de la sanción substitutiva se disminuirá el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### ARTICULO 100 Bis.
+
+La substitución o la conmutación de la pena no procederá para los sentenciados por los delitos de secuestro contemplados en el presente código.
+
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
 ###### ARTICULO 101.
@@ -876,6 +892,12 @@ En caso de haberse nombrado fiador para el cumplimiento de las obligaciones cont
 ###### ARTICULO 105.
 
 El beneficio de la suspensión condicional de la pena se concederá con los mismos requisitos a que se refiere este Capítulo, a los sentenciados a más de tres años y hasta cinco años de prisión después de haber cumplido la tercera parte de ella.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### ARTICULO 105 Bis.
+
+El beneficio de la suspensión condicional de la pena no se concederá a los sentenciados por los delitos de secuestro previstos en este código.
 
 ## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -987,6 +1009,10 @@ Se procederá al reconocimiento de inocencia, cualquiera que sea la sanción imp
 
 Es facultad discrecional del Ejecutivo del Estado conceder el indulto, por haber prestado el reo importantes servicios a la nación o al Estado o cuando por razones humanitarias o sociales así lo amerite el caso, siempre que la conducta observada por el reo refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad pública.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+El indulto no podrá concederse a quienes hayan incurrido en conductas en materia de los delitos de secuestro previstos en este código.
+
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 121.
@@ -1000,6 +1026,12 @@ El indulto en ningún caso extinguirá las obligaciones de pagar la multa y repa
 La prescripción extingue la pretensión punitiva y la potestad de ejecutar las penas; es personal y para ello bastará el transcurso del tiempo señalado por la ley.
 
 La prescripción será declarada de oficio o a petición de parte.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### ARTICULO 122 Bis.
+
+El ejercicio de la acción penal y la ejecución de las sanciones por los delitos en materia de secuestro, son imprescriptibles.
 
 ###### ARTICULO 123.
 
@@ -1167,9 +1199,11 @@ VI.- Se cometa intencionalmente a propósito de una violación o un robo por el 
 
 VII.- Se cometa intencionalmente en contra de una persona por su actividad dentro del periodismo.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-ARTICULO 139 BIS.- Cuando el homicidio se cometa a propósito de un secuestro por el sujeto activo en contra del pasivo, se aplicará prisión de treinta a cincuenta años.
+###### ARTICULO 139 Bis.
+
+Si la víctima de los delitos de secuestro establecidos en el presente código es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
 
 ###### ARTICULO 140.
 
@@ -1291,7 +1325,7 @@ En todo caso, el médico, paramédico o comadrona que lo practique o participe d
 
 ### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 159.
 
@@ -1353,87 +1387,121 @@ En este caso se impondrá prisión de dos a seis años y de doscientos a trescie
 
 ###### ARTICULO 167.
 
-Al que prive a otro de la libertad personal, se le aplicará prisión de veinticinco a cuarenta años y quinientos a mil días multa, si el hecho se realiza con el propósito de:
+Al que prive de la libertad personal a otro se le aplicarán de veinte a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
 
-I.- Obtener un rescate o cualquier otra prestación indebida;
+a) Obtener, para sí o para un tercero, rescate o cualquier beneficio;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
+b) Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera;
 
-II.- Que la autoridad realice un acto contrario a derecho o deje de hacer lo que la ley la obligue;
+c) Causar daño o perjuicio a la persona privada de la libertad o a terceros; o
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2001)</small>
+d) Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este código le correspondan por otros delitos que de su conducta resulten.
 
-III.- Obligar al sujeto pasivo o a persona distinta relacionada con él, a realizar un acto contrario a derecho; o,
-
-IV.- Causar daño o perjuicio al secuestrado o a persona distinta relacionada con él.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2006)</small>
-
-ARTICULO 167 BIS.- Comete el delito de privación de la libertad en su modalidad de secuestro instantáneo, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 201 y 231 de este Código o para obtener algún beneficio económico.
-
-Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001|)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 167 Bis.
 
-Comete el delito de privación de la libertad en su modalidad de secuestro instantáneo, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 201 y 231 de este Código o para obtener algún beneficio económico.
+Las penas a que se refiere el artículo anterior, se agravarán:
 
-Se le impondrá de siete a veinte años de prisión y de cien a mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+I. De veinticinco a cuarenta y cinco años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad concurre alguna o algunas de las circunstancias siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2001|)</small>
+a) Que se realice en camino público o en lugar desprotegido o solitario;
+
+b) Que quienes la lleven a cabo obren en grupo de dos o más personas;
+
+c) Que se realice con violencia;
+
+d) Que para privar a una persona de su libertad se allane el inmueble en el que ésta se encuentra;
+
+e) Que la víctima sea menor de dieciocho años o mayor de sesenta años de edad, o que por cualquier otra circunstancia no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo;
+
+f) Que la víctima sea una mujer en estado de gravidez.
+
+II. De veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad concurren cualquiera de las circunstancias siguientes:
+
+a) Que el o los autores sean o hayan sido integrantes de alguna institución de seguridad pública, de procuración o administración de justicia, o de las Fuerzas Armadas Mexicanas, o se ostenten como tales sin serlo;
+
+b) Que el o los autores tengan vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta;
+
+c) Que durante su cautiverio se cause a la víctima alguna lesión de las previstas en las fracciones IV, V, VI, VII, VIII y IX del artículo 136 de este código;
+
+d) Que en contra de la víctima se hayan ejercido actos de tortura o violencia sexual;
+
+e) Que durante o después de su cautiverio, la víctima muera debido a cualquier alteración de su salud que sea consecuencia de la privación de la libertad, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito.
+
+Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o con independencia de las que correspondan por otros delitos que de las conductas a las que se aplican resulten.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 168.
 
-La pena privativa de libertad prevista en el artículo anterior se aumentará en cinco años más si concurre alguna de las circunstancias siguientes:
+Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 167 de este código y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
 
-I.- Que se realice en lugar desprotegido o solitario;
+La misma pena se aplicará a aquel que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
 
-II.- Que el agente se ostente como autoridad, sin serlo;
+La pena señalada en el párrafo primero de este artículo se aplicará a aquel que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
 
-III.- Que se lleve a cabo por dos o más personas;
+No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en las fracciones IV, V, VI, VII, VIII y IX del artículo 136 de este código, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia.
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
+En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 167 del presente código, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de ocho a quince años y de doscientos cincuenta hasta quinientos días multa.
 
-IV.- Que se realice con violencia, se veje o se torture a la víctima;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2001)</small>
+###### ARTICULO 168 Bis.
 
-V. Que la víctima sea menor de dieciocho años o mayor de sesenta, sea mujer, o que por cualquier circunstancia esté en situación de inferioridad física o mental respecto de quien realiza la privación de libertad; o,
+Se impondrá pena de cien a trescientas cincuenta jornadas de trabajo a favor de la comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los propósitos señalados en el artículo 167 del presente código.
 
-> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-VI.- El sujeto activo sea o haya sido integrante de alguna institución de seguridad pública.
+ARTICULO 168 Bis A.- Se impondrán de dos a ocho años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados en el artículo 167 de este código.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
+La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en el artículo 167 del presente código.
 
-Si espontáneamente se pusiere en libertad al ofendido dentro de los tres días siguientes a la realización del delito, sólo se aplicará prisión de cuatro a ocho años, cuando no concurra alguna de las circunstancias previstas por este artículo, y de seis a doce años si concurriere. En ambos casos se requerirá que no se haya satisfecho alguno de los propósitos a los que se refiere el artículo anterior.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+ARTICULO 168 Bis B.- Se aplicará pena de dos a ocho años de prisión y de setecientos a mil quinientos días multa, al que:
 
-ARTICULO 168 BIS.- Se impondrán las mismas penas que previene el artículo 167 a quien:
+I. Después de la ejecución de cualquiera de las conductas previstas en los artículos 167 y 167 Bis de este código, y sin haber participado en cualquiera de ellas, adquiera o reciba el producto de las mismas a sabiendas de esta circunstancia;
 
-I.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera para que se lleve a cabo el secuestro; y,
+II. Preste auxilio o cooperación al autor de cualquiera de las conductas previstas en los artículos 167 y 167 Bis de este código, con conocimiento de esta circunstancia, por acuerdo posterior a la liberación de la víctima;
 
-II.- A sabiendas, revele datos o información reservada que conoce o ha recibido con motivo de su empleo, cargo o relación con el sujeto pasivo, para la realización del secuestro.
+III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en los artículos 167 y 167 Bis de este código, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos del mismo o impida que se averigüe;
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+IV. Altere, modifique o destruya ilícitamente el lugar, huellas o vestigios de los hechos delictivos a que se refiere la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y
 
-ARTICULO 168 BIS A.- Se impondrá de dos a ocho años de prisión y de doscientos a mil días multa, a quien en relación con las conductas sancionadas por los artículos 167 y 168 y fuera de las causas de exclusión del delito previstas por la ley:
+V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en los artículos 167 y 167 Bis de este código, o favorezca que el inculpado se sustraiga a la acción de la justicia.
 
-I.- Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
+No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
 
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+a) Los ascendientes o descendientes consanguíneos o afines directos; y
 
-III.- Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
+b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
 
-IV.- Instigue para que no se presente la denuncia del secuestro cometido, o a no colaborar u a obstruir la actuación de las autoridades; o,
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
 
-V.- Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+ARTICULO 168 Bis C.- Se aplicará pena de dos a ocho años de prisión, y de doscientos a mil días multa, al servidor público que:
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2001)</small>
+I. Divulgue, sin motivo fundado, información reservada o confidencial, relacionada con las conductas de delito de secuestro sancionadas por este código, salvo que se refiera a la información o imágenes obtenidas en una intervención de comunicación privada, en este caso se aplicará lo dispuesto por el Código Penal Federal; o
 
-ARTICULO 168 BIS B.- Se impondrá de cinco a quince años de prisión y quinientos a mil días multa a quien administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos o bienes de cualquier naturaleza, con conocimientos de que proceden o representan el producto de un secuestro, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+II. Revele, sin motivo fundado, técnicas aplicadas a la investigación o persecución de las conductas de delito de secuestro previstas por este código.
+
+Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 168 Bis D.- Se aplicará pena de cuatro años seis meses a trece años de prisión, de doscientos a mil días multa, al servidor público que, teniendo atribuciones en materia de prevención, investigación, procuración o impartición de justicia o de vigilancia y custodia en los centros de privación de la libertad o penitenciaria, se abstenga de denunciar ante el Ministerio Público o, en caso de urgencia, ante la policía, la comisión de cualquiera de los delitos de secuestro previstos en este código, o de hacer saber de inmediato al Ministerio Público información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión de las conductas de secuestro previstas en este código.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 168 Bis E.- A todo sentenciado por cualquiera de los delitos de secuestro previstos en este código que sea o hubiere sido servidor público de cualquiera de las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública, se le aplicará como parte de la pena la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público federal, local o municipal, desde un plazo igual al de la pena de prisión que se le imponga por el delito en que incurrió hasta la inhabilitación definitiva.
+
+Cualquier otro servidor público quedará inhabilitado para ocupar un empleo, cargo o comisión en el servicio público hasta por un plazo igual al de la pena de prisión que se imponga. Dicha inhabilitación correrá a partir de que concluya la pena de prisión.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 168 Bis F.- La autoridad judicial podrá ordenar que las personas que hayan sido condenadas por conductas previstas en el presente Capítulo queden sujetas a vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
+
+La misma medida podrá imponerse de manera cautelar tratándose de inculpados en libertad con las reservas de ley e indiciados durante el tiempo que dure la averiguación previa o el proceso.
 
 ### CAPITULO UNICO. REVELACION DE SECRETO
 
@@ -2953,6 +3021,14 @@ Cuando varias personas de común acuerdo procuren con actos materiales impedir l
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiere agotado algún medio de apremio.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### ARTICULO 321 Bis.
+
+Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días multa, al que retire, modifique o inutilice, sin la debida autorización, dispositivos de localización y vigilancia.
+
+Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
+
 ###### ARTICULO 322.
 
 Al que indebidamente destruya, retire, oculte o de cualquier otro modo quebrante los sellos puestos por orden legítima de la autoridad competente, se le aplicará prisión de tres meses a dos años o de sesenta a ciento ochenta días multa.
@@ -3676,3 +3752,9 @@ P.O. 8 DE SEPTIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
