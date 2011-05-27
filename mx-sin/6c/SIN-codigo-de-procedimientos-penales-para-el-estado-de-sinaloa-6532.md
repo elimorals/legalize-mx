@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-penales-para-el-estado-de-sinaloa-6532
 country: "mx"
 rank: "codigo"
 publication_date: "1986-09-26"
-last_updated: "2009-01-28"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 26 de septiembre de 1986.
 
@@ -56,6 +56,10 @@ V.- De la ejecución, que comprende el lapso entre el momento que cause ejecutor
 ###### ARTICULO 2.
 
 Es facultad exclusiva del Ministerio Público, la persecución de los delitos y el ejercicio de la acción penal ante los tribunales.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+El Ministerio Público, en todos los casos, en materia de delitos de secuestro, procederá de oficio.
 
 ###### ARTICULO 3.
 
@@ -156,6 +160,70 @@ La asistencia jurídica será proveída por el Estado, por conducto de la Procur
 En cuanto a la fracción II, la víctima o el ofendido, podrán proporcionar al Ministerio Público o al juzgador, directamente o por medio de aquél, todos los datos o elementos de prueba que conduzcan a acreditar el cuerpo del delito, a comprobar la existencia del delito, y a establecer la probable o plena responsabilidad del indiciado, según el caso, y la procedencia y monto de la reparación del daño.
 
 En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por el delito para que comparezca por sí o por su representante designado en el proceso, a manifestar en éste lo que a su derecho convenga respecto a lo previsto en este artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS.- Las víctimas u ofendidos por los delitos de secuestro, y los testigos de cargo en los mismos, además de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, y leyes secundarias, tendrán los siguientes derechos:
+
+I. Estar presentes en el proceso, en sala distinta a la que se encuentre el inculpado;
+
+II. Obtener la información que se requiera a las autoridades competentes o correspondientes;
+
+III. Solicitar y recibir asesoría por parte de las autoridades competentes, la cual deberá ser proporcionada por un experto en la materia, quien informará sobre la situación del proceso y procedimientos, así como de los beneficios o apoyos a que se refieren en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Solicitar ante la autoridad judicial competente, las medidas precautorias o cautelares procedentes en términos de la legislación aplicable, para la seguridad y protección de las víctimas, ofendidos y testigos, para la investigación y persecución de los probables responsables del delito y para el aseguramiento de bienes para la reparación del daño;
+
+V. Requerir al juez que al emitir una sentencia condenatoria, en la misma deberá sentenciar a la reparación del daño a favor de la víctima;
+
+VI. Contar con apoyo permanente de un grupo interdisciplinario que las asesore y apoye en sus necesidades;
+
+VII. Rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia y, si lo solicitan, hacerlo por medios electrónicos;
+
+VIII. Participar en careos a través de medios electrónicos;
+
+IX. Estar asistidos por sus abogados, médicos y psicólogos durante las diligencias;
+
+X. Obtener copia simple gratuita y de inmediato, de la diligencia en la que intervienen;
+
+XI. Aportar pruebas durante el juicio;
+
+XII. Conocer el paradero del autor o partícipes del delito del que fue víctima o testigo;
+
+XIII. Ser notificado previamente de la libertad del autor o autores del delito del que fue víctima o testigo, y ser proveído de la protección correspondiente de proceder la misma; y
+
+XIV. Ser inmediatamente notificado y proveído de la protección correspondiente, en caso de fuga del autor o autores del delito del que fue víctima o testigo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS A.- Los procesos administrativos o judiciales en los que sea parte la víctima de las conductas de delitos de secuestro, a partir de la promoción fundada y motivada que realice su representante legal, apoderado o abogado patrono, quedarán suspendidos mientras dure su cautiverio y hasta por tres meses más a juicio razonado de la autoridad respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS B.- Las víctimas u ofendidos por los delitos de secuestro podrán contar con la asistencia gratuita de un asesor en materia penal, que será designado por la autoridad competente, con el fin de que le facilite:
+
+I. La promoción efectiva de sus derechos;
+
+II. La orientación para hacer efectivos sus derechos;
+
+III. La posibilidad efectiva de que puedan reclamar sus derechos mediante el ejercicio de las acciones que prevén las leyes ante los órganos de procuración y administración de justicia; y
+
+IV. La defensa jurídica para obtener las restituciones o reparaciones en el goce de los mismos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS C.- El Ministerio Público deberá restituir a las víctimas de las conductas de delitos de secuestro en el goce de sus derechos en cuanto sea posible y solicitará la reparación del daño.
+
+En su caso, la restitución de derechos y la reparación se harán con cargo a los recursos obtenidos en los procedimientos de extinción de dominio, en términos de la legislación correspondiente o en los términos del Título Tercero, Sección Primera Capítulo V de éste código, sin perjuicio de ejercer las acciones que correspondan en contra del sentenciado.
+
+Dentro de la reparación a las víctimas de las conductas de delitos de secuestro se incluirán los gastos alimentarios y de transporte y hospedaje a cargo de ésta, con motivo del procedimiento penal.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS D.- En caso de que el producto, los instrumentos u objetos de los delitos de secuestro hayan desaparecido o no se localicen, el Ministerio Público pedirá el embargo y, en su oportunidad, la aplicación respectiva de bienes del sentenciado cuyo valor equivalga a dicho producto, instrumentos u objetos a fin de que el juez ordene la reparación correspondiente, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio o en los términos del Título Tercero, Sección Primera Capítulo V de éste código.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 9 BIS E.- En todos los casos, la sentencia condenatoria que se dicte por delitos de secuestro, deberá contemplar la reparación del daño a las víctimas, cuyo monto fijará el juez de la causa con los elementos que las partes le aporten o aquellos que considere procedentes a su juicio, en términos de la ley.
 
 ###### ARTICULO 10.
 
@@ -813,7 +881,7 @@ Sólo podrán perseguirse a petición de parte ofendida, los delitos que así de
 
 ###### ARTICULO 114.
 
-Cuando el ofendido sea menor de edad, puede querellarse por sí mismo, y si a su nombre lo hace otra personas, (sic) surtirá sus efectos la querella, si no hay oposición del ofendido.
+Cuando el ofendido sea menor de edad, puede querellarse por sí mismo, y si a su nombre lo hace otra personas (sic), surtirá sus efectos la querella, si no hay oposición del ofendido.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -863,9 +931,9 @@ C).- Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda o
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167 y 168, así como las conductas descritas por los artículos 168 Bis, 168 Bis A y 168 Bis B; secuestro instantáneo señalado en el artículo 167 Bis, rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205: robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en artículo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286: terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III,359 y 362.
+Se califican como delitos graves para todos los efectos legales, los previstos en los siguientes artículos del Código Penal para el Estado de Sinaloa: homicidio previsto en el artículo 134; lesiones dolosas previsto en el artículo 136 fracciones VIII y IX; homicidio calificado previsto en los artículos 139 y 139 Bis; homicidio por culpa grave previsto en el artículo 144, párrafo primero; homicidio agravado por razón de parentesco o relación familiar previsto en los artículos 152 y 153; secuestro previsto en los artículos 167, 167 Bis, 168, 168 Bis, 168 Bis A, 168 Bis B, 168 Bis C, 168 Bis D, y 168 Bis E; rapto con violencia previsto en el artículo 169; rapto previsto en el artículo 170; asalto previsto en los artículos 174 y 175; violación previsto en los artículos 179, 180 y 181; robo previsto en el artículo 204 fracciones I y II; robo con violencia contra las personas o en lugar habitado o destinado para habitación o sus dependencias previstos en las fracciones I, II y III del artículo 205; robo de vehículo automotor previsto en los artículos 207 y 207 Bis, fracciones I, II, III, IV y V; robo bancario previsto en el artículo 210; abigeato previsto en los artículos 220 y 224; extorsión previsto en el artículo 231; sustracción de menores o incapaces previsto en el primer párrafo del artículo 242; tráfico de menores previsto en el primer párrafo del artículo 243; asociación delictuosa previsto en el segundo párrafo del artículo 253; ataques a los medios de transporte previsto en el articulo 262; corrupción de menores e incapaces previsto en el artículo 273; pornografía infantil y prostitución de menores, previsto en los artículos 274 Bis, 274 Bis A, 274 Bis B, 274 Bis C; rebelión previsto en el artículo 286; terrorismo previsto en el artículo 291; sabotaje previsto en el artículo 292; tortura previsto en el artículo 328; evasión de presos previsto en el artículo 336 en su comisión dolosa; y los delitos electorales previstos en los artículos 356 fracción VIII; 357 fracción III, 359 y 362.
 
 Igualmente para todos los efectos de ley, serán considerados como graves los delitos señalados con anterioridad cometidos dolosamente en grado de tentativa.
 
@@ -1268,6 +1336,10 @@ El cuerpo del delito deberá acreditarse plenamente. Para la acreditación de la
 ###### ARTICULO 171.
 
 Para la acreditación del cuerpo del delito y la probable responsabilidad y para la comprobación de la existencia del delito y la plena responsabilidad del indiciado, en su caso, el Ministerio Público y el Juez gozarán de la acción más amplia para emplear los medios de prueba que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén reprobados por ésta.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+En los delitos en materia de secuestro previstos en el Código Penal para el Estado de Sinaloa, el Poder Judicial ordenará de oficio el desahogo de las pruebas que se consideren necesarias, así como todas las medidas que sirvan para mejor proveer, de conformidad con las circunstancias que se aprecien durante el desarrollo de los procesos penales de su competencia, privilegiando y garantizando en todo caso la libertad, seguridad y demás derechos de las víctimas y ofendidos de dichos delitos.
 
 ### CAPITULO III. CURACION DE HERIDOS Y ENFERMOS
 
@@ -3025,6 +3097,10 @@ Lo dispuesto en la fracción I del Artículo anterior, se entiende sin perjuicio
 
 Nunca la evasión de un inculpado impedirá la continuación del proceso de los demás responsables de delito que hubieren sido aprehendidos.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTICULO 439 BIS.- Sólo podrá suspenderse el procedimiento judicial iniciado por el delito de secuestro o delitos por hechos conexos o derivados del mismo, en el caso de que el inculpado evada la acción de la justicia o sea puesto a disposición de otro juez que lo reclame en el extranjero.
+
 ###### ARTICULO 440.
 
 Una vez lograda la captura del prófugo, el proceso continuará su curso, practicándose las diligencias que por la evasión no hubieren podido tener lugar, sin repetir las practicadas sino cuando el Juez lo estime necesario.
@@ -4018,3 +4094,9 @@ P.O. 28 DE ENERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
