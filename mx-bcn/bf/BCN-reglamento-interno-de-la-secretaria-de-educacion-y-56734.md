@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-educacion-y-56734"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-10"
-last_updated: "2010-01-29"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2007.
 
@@ -73,6 +73,10 @@ III. Coordinación de Servicios Jurídicos;
 
 2. Departamento Jurídico de Asesoría y Asuntos Legislativos.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+3. Departamento Jurídico de Verificación e Inspección Laboral.
+
 IV. Coordinación de Contraloría Interna;
 
 1. Departamento de Responsabilidades;
@@ -103,7 +107,9 @@ b. Coordinación de Carrera Magisterial;
 
 4. Departamento de Base de Datos y Soporte Técnico.
 
-c. Coordinación del Programa de Actualización Permanente;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+c. Coordinación de Formación Continua de Maestros en Servicio;
 
 1. Departamento de Vinculación Externa;
 
@@ -275,7 +281,7 @@ e. Dirección de Administración de Personal;
 
 i. Departamento de Recursos Humanos;
 
-ii. Departamento de Verificación Ocupacional;
+ii. (DEROGADA, P.O. 27 DE MAYO DE 2011)
 
 iii. Departamento de Unidad Operativa;
 
@@ -643,7 +649,9 @@ VI. De conformidad con la normatividad aplicable, coadyuvar en la defensa juríd
 
 VII. Revisar, y en su caso validar y tramitar ante las autoridades competentes los proyectos de convenios, contratos y demás actos jurídicos en los que intervenga la SEBS, en coordinación con sus unidades administrativas y las entidades de la administración pública paraestatal del sector a cargo de la SEBS, así como llevar el registro de los actos aludidos una vez formalizados;
 
-VIII. Apoyar en las notificaciones que por orden de autoridad jurisdiccional le correspondan al Secretario y le sean encomendadas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VIII. Realizar las notificaciones, que por orden de autoridad jurisdiccional u otras autoridades administrativas, le correspondan y le sean encomendadas al Secretario, a los titulares de las unidades administrativas de la SEBS y al personal directivo de los centros educativos;
 
 IX. Emitir opiniones jurídicas a las unidades administrativas de la SEBS, en el desarrollo de sus relaciones laborales cuando a juicio de ésta Coordinación sea necesaria su intervención, o le sea solicitado por las mismas;
 
@@ -677,9 +685,41 @@ XXIII. Participar en la expedición de lineamientos conforme a los cuales se deb
 
 XXIV. Formular un prontuario jurídico que contenga la normatividad aplicable a la SEBS, excluyendo minutas y circulares;
 
-XXV. Dar cumplimiento a la normatividad aplicable y a las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas de la SEBS; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
-XXVI. Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
+XXV. Coadyuvar con la Dirección de Administración de Personal en el levantamiento de actas y demás documentales, que motiven el trámite de rescisión, terminación de la relación laboral, sanciones y demás trámites de tipo laboral o administrativo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXVI. Participar con la Dirección de Administración de Personal en la integración de expedientes por motivo de incidencias laborales;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXVII. Evaluar los expedientes que por concepto de incidencias laborales remitan a la Coordinación de Servicios Jurídicos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXVIII. Elaborar los dictámenes de sanciones laborales correspondientes y turnarlos a la Dirección de Administración de Personal para su ejecución;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXIX. Notificar los avisos de rescisión laboral, remoción y los demás que resulten de sanciones administrativas y laborales respecto de los trabajadores de la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXX. Dar seguimiento a las incidencias de carácter laboral que se susciten en los centros de trabajo de la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXI. Proponer alternativas de solución en la esfera de competencia jurídico-administrativa, respecto de las incidencias laborales que se susciten en los centros de trabajo de la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXII. Ejercer sus atribuciones en apego a la normatividad aplicable y dar cumplimiento a las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas de la SEBS, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIII. Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 18.
 
@@ -688,6 +728,10 @@ Para el cumplimiento de sus atribuciones, la Coordinación de Servicios Jurídic
 I. Departamento Jurídico Contencioso;
 
 II. Departamento Jurídico de Asesoría y Asuntos Legislativos.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+III. Departamento Jurídico de Verificación e Inspección Laboral.
 
 ###### ARTÍCULO 19.
 
@@ -736,6 +780,32 @@ V. Recopilar la normatividad aplicable a la SEBS, excluyendo minutas y circulare
 VI. Concentrar y observar la normatividad aplicable, incluyendo las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas de la SEBS; y
 
 VII. Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTÍCULO 20 BIS.- Corresponde al Departamento Jurídico de Verificación e Inspección Laboral, el despacho de las siguientes atribuciones:
+
+I.- Apoyar en las notificaciones, que por orden de autoridades jurisdiccionales u otras autoridades administrativas, le correspondan y le sean encomendadas al Secretario, a los titulares de las unidades administrativas de la SEBS y al personal directivo de los centros educativos;
+
+II.- Coadyuvar con la Dirección de Administración de Personal, cuando así lo solicite el Coordinador de Servicios Jurídicos, en el levantamiento de actas y demás documentales, que motiven el trámite de rescisión, terminación de la relación laboral, aplicación de sanciones, y demás que resulten de sanciones de tipo laboral o administrativas;
+
+III.- Coadyuvar con la Coordinación de Servicios Jurídicos en la integración de expedientes por motivo de incidencias laborales;
+
+IV.- Analizar los expedientes que por concepto de incidencias laborales remitan a la Coordinación de Servicios Jurídicos;
+
+V.- Apoyar al Coordinador de Servicios Jurídicos en la elaboración de dictámenes respecto a las sanciones laborales correspondientes y turnarlos a la Dirección de Administración de Personal para su emisión;
+
+VI.- Colaborar con el Coordinador de Servicios Jurídicos en la notificación de los avisos de rescisión laboral, remoción y demás movimientos administrativos y laborales respecto de los trabajadores de la SEBS;
+
+VII.- Participar con el Coordinador de Servicios Jurídicos en el seguimiento de las incidencias de carácter laboral que se susciten en los centros de trabajo de la SEBS;
+
+VIII.- Analizar en la esfera de competencia jurídico-administrativa, respecto de las incidencias laborales que se susciten en los centros de trabajo de la SEBS;
+
+IX.- Apoyar en la definición de los criterios conforme a los cuales su Coordinador expedirá lineamientos para integrar la documentación correspondiente en torno a las incidencias laborales que se susciten en los centros de trabajo de la SEBS;
+
+X.- Ejercer sus atribuciones en apego a la normatividad aplicable, y
+
+XI.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
 
 ### CAPÍTULO X. DE LA COORDINACIÓN DE CONTRALORÍA INTERNA
 
@@ -1255,11 +1325,15 @@ XXV.- Apoyar con el soporte técnico necesario al personal de la Coordinación d
 
 XXVI.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
 
-### CAPÍTULO XV. COORDINACIÓN DEL PROGRAMA DE ACTUALIZACIÓN PERMANENTE
+REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2011)
+
+### CAPÍTULO XV. COORDINACIÓN DE FORMACIÓN CONTINUA DE MAESTROS EN SERVICIO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
-Corresponde a la Coordinación del Programa de Actualización Permanente la atención y trámite de las siguientes atribuciones:
+Corresponde a la Coordinación de Formación Continua de Maestros en Servicio, la atención y trámite de las siguientes atribuciones:
 
 I.- Promover y participar conjuntamente con otras unidades administrativas de la SEBS y con las instituciones educativas de nivel superior, en la integración del Sistema Estatal de Actualización, Capacitación y Superación Profesional del Magisterio;
 
@@ -1287,9 +1361,11 @@ XII.- Revisar el cumplimiento de las disposiciones y políticas educativas nacio
 
 XIII.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 42.
 
-Para el cumplimiento de sus atribuciones, la Coordinación del Programa de Actualización Permanente contará con las siguientes unidades administrativas:
+Para el cumplimiento de sus atribuciones, la Coordinación de Formación Continua de Maestros en Servicio, contará con las siguientes unidades administrativas:
 
 I. Departamento de Vinculación Externa;
 
@@ -1301,13 +1377,17 @@ III. Departamento de Gestión Institucional.
 
 Corresponde al Departamento de Vinculación Externa el despacho de las siguientes atribuciones:
 
-I.- Recabar y entregar a la Coordinación del Programa de Actualización Permanente, información suficiente y pertinente para la toma de decisiones y elaboración de acuerdos con otras instituciones para la oferta de cursos, talleres, diplomados, con la finalidad de promover la formación continua y actualización del magisterio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+I.- Recabar y entregar a la Coordinación de Formación Continua de Maestros en Servicio, información suficiente y pertinente para la toma de decisiones y elaboración de acuerdos con otras instituciones para la oferta de cursos, talleres, diplomados, con la finalidad de promover la formación continua y actualización del magisterio;
 
 II.- Participar en reuniones con la Coordinación Estatal de Carrera Magisterial para la toma de acuerdos sobre la operación y acreditación de los cursos estatales de actualización, así mismo llevar a cabo reuniones de la Comisión Dictaminadora Estatal, para analizar propuestas y tomar acuerdos para apoyar y mejorar la formación continua de docentes en servicio;
 
 III.- Implementar y desarrollar estrategias de operación, evaluación y seguimiento de las acciones de actualización, así como la acreditación de los docentes en servicio;
 
-IV.- Establecer comunicación interinstitucional con otras instancias educativas que brinden actualización a los docentes de educación básica en servicio y apoyar a la Coordinación del Programa de Actualización Permanente en las acciones y estrategias que acuerde con instituciones de educación superior;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+IV.- Establecer comunicación interinstitucional con otras instancias educativas que brinden actualización a los docentes de educación básica en servicio y apoyar a la Coordinación de Formación Continua de Maestros en Servicio, en las acciones y estrategias que acuerde con instituciones de educación superior;
 
 V.- Involucrar a los delegados, jefes de nivel, supervisores y unidades administrativas correspondientes de la SEBS en la difusión de exámenes nacionales en la Entidad, elaborando y desarrollando un plan de organización, aplicación y evaluación de los exámenes nacionales;
 
@@ -1329,11 +1409,15 @@ III.- Analizar junto con la Comisión Dictaminadora Estatal, las propuestas de f
 
 IV.- Coordinar esfuerzos con la Dirección de Programas de Apoyo Educativo, para que se integre la oferta de actualización en forma coherente y sea aprovechada por los colectivos docentes;
 
-V.- Elaborar una propuesta de planeación integral que articule esfuerzos y acciones, según las demandas que se identifican en las actividades de los docentes en lo individual y en lo colectivo, así como coordinar acciones con las otras unidades administrativas de la Coordinación del Programa Nacional de Actualización Permanente para que sean atendidas en forma pronta y expedita las demandas de formación continua del magisterio de educación básica;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+V.- Elaborar una propuesta de planeación integral que articule esfuerzos y acciones, según las demandas que se identifican en las actividades de los docentes en lo individual y en lo colectivo, así como coordinar acciones con las otras unidades administrativas del Programa del Sistema Nacional de Formación Continua y Superación Profesional de Maestros de Educación Básica en Servicio, para que sean atendidas en forma pronta y expedita las demandas de formación continua del magisterio de educación básica;
 
 VI.- Definir las estrategias necesarias y suficientes para que las acciones de formación continua cumplan con todas las especificaciones que aseguren su calidad;
 
-VII.- Participar con las otras áreas de la Coordinación del Programa Nacional de Actualización Permanente para la difusión oportuna de resultados de las acciones de actualización;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VII.- Participar con las otras áreas del Programa del Sistema Nacional de Formación Continua y Superación Profesional de Maestros de Educación Básica en Servicio, para la difusión oportuna de resultados de las acciones de actualización;
 
 VIII.- Implementar acciones para el mejoramiento de la calidad de los aprendizajes de docentes y alumnos suministrando la información oportuna y pertinente que se requiera;
 
@@ -3431,11 +3515,15 @@ VI.- Participar en las actividades relativas a la aplicación de la normatividad
 
 VII.- Integrar y organizar en el Sistema Integral de Recursos Humanos las estructuras ocupacionales y plazas necesarias en apego a la normatividad de estructuras ocupacionales y al presupuesto autorizado de la SEBS;
 
-VIII.- Asignar al personal correspondiente las plazas docentes y de apoyo a la educación en los centros de trabajo dictaminados por el proceso de programación detallada de la SEBS;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VIII.- Asignar al personal correspondiente las plazas docentes, y de apoyo a la educación en los centros de trabajo dictaminados por el proceso de programación detallada de la SEBS; así como otorgar las respectivas órdenes de presentación;
 
 IX.- Participar en coordinación con las áreas educativas en la reorientación de plazas existentes hacia los centros de trabajo con necesidades de personal docente de la SEBS;
 
-X.- Vigilar el debido cumplimiento de la normatividad aplicable en las relaciones laborales de los trabajadores que presten sus servicios en la SEBS, y en caso de incumplimiento a la misma, informar y en su caso promover ante la autoridad competente las sanciones que resulten e iniciar los trámites de rescisión o terminación de la relación laboral que correspondan;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+X.- Vigilar el debido cumplimiento de la normatividad aplicable en las relaciones laborales de los trabajadores que presten sus servicios en la SEBS, y en caso de incumplimiento a la misma, informar y, en su caso, promover ante la autoridad competente las sanciones que resulten;
 
 XI.- Coadyuvar con Oficialía Mayor de Gobierno en el registro, control y validación de los trámites de movimientos de incidencias del personal, altas, nombramientos, ascensos, cambios, licencias, vacaciones y bajas del personal que presta sus servicios en la SEBS, conforme a la normatividad aplicable;
 
@@ -3467,7 +3555,9 @@ XXIV.- Coordinar la actualización en el Sistema Integral de Recursos Humanos de
 
 XXV.- Recibir, coordinar y autorizar las becas y comisiones del personal de la SEBS conforme a la normatividad aplicable y los recursos presupuestales disponibles;
 
-XXVI.- Presentar ante Oficialía Mayor de Gobierno los documentos laborales de acreditación y de identificación al personal con adscripción a las unidades administrativas de la SEBS, así como coadyuvar en la expedición de los mismos para el personal de magisterio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXVI.- Presentar ante Oficialía Mayor de Gobierno los documentos laborales de acreditación y de identificación al personal con adscripción a las unidades administrativas de la SEBS, así como coadyuvar en la expedición y certificación de los nombramientos del personal de magisterio;
 
 XXVII.- Dar inicio al trámite de gestión y dar seguimiento a las valoraciones médicas de los trabajadores de magisterio y unidades administrativas asignados a la SEBS y una vez dictaminados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, coadyuvar con la Oficialía Mayor de Gobierno para determinar la condición laboral correspondiente conforme a la normatividad aplicable;
 
@@ -3481,13 +3571,37 @@ XXXI.- Turnar al Instituto de Seguridad y Servicios Sociales de los Trabajadores
 
 XXXII.- Apoyar a su superior jerárquico en la atención y confronta de las observaciones emitidas por los órganos de fiscalización con respecto a los procesos a cargo de esta Dirección, y
 
-XXXIII.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIII.- Remitir a la Coordinación de Servicios Jurídicos, los expedientes integrados por incidencias laborales para la elaboración del dictamen respectivo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIV.- Imponer y ejecutar las sanciones laborales procedentes a que se hagan acreedores los trabajadores con adscripción a la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXV.- Rescindir o dar por terminada la relación laboral, así como remover libremente a los trabajadores que presten sus servicios en la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVI.- Coadyuvar con la Oficialía Mayor de Gobierno en el trámite y cumplimiento de las resoluciones definitivas, en materia laboral y administrativa en las que intervenga el personal de la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVII.- Gestionar ante la Oficialía Mayor de Gobierno, la aplicación de exámenes toxicológicos al personal de la SEBS, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVIII.- Las demás que le confieran las disposiciones legales aplicables y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 133.
 
 Para el cumplimiento de sus atribuciones, la Dirección de Administración de Personal contará con las siguientes unidades administrativas:
 
-I. Subdirección de Registro y Control de Plazas, que contará con: Departamento de Recursos Humanos, Departamento de Verificación Ocupacional y Departamento de Unidad Operativa;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+I. Subdirección de Registro y Control de Plazas, que contará con: Departamento de Recursos Humanos y Departamento de Unidad Operativa;
 
 II. Subdirección de Control de Trámites, que contará con: Departamento de Capacitación y Desarrollo, Departamento de Promoción Laboral y Departamento de Nóminas y Aclaraciones de Pago; y
 
@@ -3519,9 +3633,47 @@ X.- Controlar y validar el proceso de actualización de plantillas del personal 
 
 XI.- Observar la aplicación de las políticas, lineamientos y normatividad aplicable en materia de administración de personal, dentro de su ámbito de competencia;
 
-XII.- Proponer a su superior jerárquico, proyectos de mejoras de los procesos propios de la Subdirección y sus unidades administrativas, en atención a la calidad en el servicio, y
+XII.- Proponer a su superior jerárquico, proyectos de mejoras de los procesos propios de la Subdirección y sus unidades administrativas, en atención a la calidad en el servicio, y (sic)
 
-XIII.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIII.- Supervisar las solicitudes de verificación de incidencias laborales de trabajadores con adscripción a la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIV.- Mantener coordinación con las autoridades municipales competentes y la Coordinación de Relaciones Sindicales, para la integración de expedientes por incidencias laborales;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XV.- Realizar, en coordinación con los niveles educativos, verificaciones de plantillas en los centros educativos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVI.- Proporcionar a la Dirección de Administración de Personal la documentación laboral correspondiente de los trabajadores que tengan conflictos de carácter jurídico, con la oportunidad que le sea requerida;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVII.- Remitir a la Coordinación de Servicios Jurídicos, los expedientes integrados por incidencias laborales para la elaboración del dictamen respectivo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVIII.- Apoyar al Director de Administración de Personal en el procedimiento de imposición y ejecución de las sanciones a que se hagan acreedores los trabajadores con adscripción a la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIX.- Participar en el otorgamiento de órdenes de presentación, realizando el trámite respectivo, cuando así lo requiera el Director de Administración de Personal;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XX.- Apoyar al Director de Administración de Personal en el trámite de expedición y certificación de nombramientos del personal del magisterio;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXI.- Solicitar por instrucciones del Director de Administración de Personal, la práctica de exámenes toxicológicos al personal de la SEBS, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXII.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 135.
 
@@ -3537,31 +3689,51 @@ IV.- Participar en la actualización de plantillas en apego a la normatividad ap
 
 V.- Gestionar ante Oficialía Mayor de Gobierno y la Dirección de Egresos del Estado los trámites para la retención, descuentos, cancelación de cheques de los trabajadores, así como la reposición y expedición de los mismos por concepto de pago de prestaciones laborales que resulten procedentes al personal con adscripción en las unidades administrativas de las oficinas centrales y delegaciones de la SEBS;
 
-VI.- Participar con la Oficialía Mayor de Gobierno en la administración de los servicios del Sistema Integral de Recursos Humanos correspondiente al personal adscrito a las unidades administrativas que integran las oficinas centrales y delegaciones de la SEBS, de acuerdo a la normatividad aplicable, y
+VI.- Participar con la Oficialía Mayor de Gobierno en la administración de los servicios del Sistema Integral de Recursos Humanos correspondiente al personal adscrito a las unidades administrativas que integran las oficinas centrales y delegaciones de la SEBS, de acuerdo a la normatividad aplicable, y (sic)
 
-VII.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VII.- Atender las solicitudes de verificación de incidencias laborales de trabajadores con adscripción a la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VIII.- Coordinar con las unidades administrativas correspondientes y la Coordinación de Relaciones Sindicales, la integración de expedientes por incidencias laborales;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+IX.- Realizar, en coordinación con los niveles educativos, la verificación de plantilla en los centros educativos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+X.- Tramitar la documentación laboral correspondiente de los trabajadores que tengan conflictos de carácter jurídico, con la oportunidad que le sea requerida;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XI.- Apoyar en la integración de expedientes que por incidencias laborales se remitirán a la Coordinación de Servicios Jurídicos para la elaboración de dictámenes respectivos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XII.- Colaborar en el procedimiento de imposición y ejecución de las sanciones a que se hagan acreedores los trabajadores con adscripción a la SEBS;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIII.- Apoyar a la Subdirección de Registro y Control de Plazas en la notificación de las órdenes de presentación, realizando el trámite respectivo, cuando así lo requiera el Director de Administración de Personal;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIV.- Apoyar a la Subdirección de Registro y Control de Plazas, en el trámite de expedición y certificación de nombramientos del personal de magisterio;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XV.- Apoyar en el trámite relativo a la práctica de exámenes toxicológicos al personal de la SEBS, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVI.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 136.
 
-Corresponde al Departamento de Verificación Ocupacional el despacho de las siguientes atribuciones:
-
-I.- Atender las solicitudes de verificación de incidencias laborales de trabajadores con adscripción a la SEBS, en los diversos centros de trabajo;
-
-II.- Tramitar el levantamiento de las actas y diversas documentales por incidencias laborales;
-
-III.- Analizar los expedientes que por concepto de incidencias laborales remitan a la Dirección de Administración de Personal;
-
-IV.- Elaborar los dictámenes de sanciones laborales correspondientes;
-
-V.- Mantener coordinación con las unidades administrativas municipales de recursos humanos y relaciones sindicales, para la integración de expedientes por incidencias laborales;
-
-VI.- Realizar en coordinación con los niveles educativos verificaciones de plantillas en los centros educativos;
-
-VII.- Coordinar en conjunto con los departamentos educativos el proceso de actualización de plantillas en el Sistema Integral de Recursos Humanos de la SEBS;
-
-VIII.- Observar la aplicación de las políticas, lineamientos y normatividad aplicable en materia de administración de personal, dentro de su ámbito de competencia, y
-
-IX.- Las demás que le confiera la normatividad aplicable y le encomiende su superior jerárquico.
+(DEROGADO, P.O. 27 DE MAYO DE 2011])
 
 ###### ARTÍCULO 137.
 
@@ -3988,3 +4160,7 @@ OSCAR ORTEGA VELEZ
 P.O. 29 DE ENERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día veintinueve de enero de dos mil diez.
+
+P.O. 27 DE MAYO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
