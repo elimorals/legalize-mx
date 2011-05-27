@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-03-20"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE MAYO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -645,7 +645,21 @@ VIII.- DE ASUNTOS LABORALES Y DE PREVISION SOCIAL:
 
 a).- Lo que se refiera al Derecho Laboral y a la Seguridad Social en base a lo dispuesto por los Artículos 17 y 64 Fracción XLII de la Constitución del Estado.
 
-b).- Las que le señale la Directiva del Congreso y la Gran Comisión.
+> <small>(REFORMADO, B.O. 27 DE MAYO DE 2011)</small>
+
+b).- Lo relativo a la legislación que regula las relaciones laborales de los trabajadores al servicio de los poderes del Estado y Municipios de Baja California Sur.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE MAYO DE 2011)</small>
+
+c).- Lo relativo a la promoción y apoyo de la planta productiva del Estado para la creación de empleos de la población económicamente activa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE MAYO DE 2011)</small>
+
+d).- La vigilancia del desempeño de la Procuraduría de la Defensa del Trabajo, Tribunal de Conciliación y Arbitraje para los trabajadores al servicio de los poderes del Estado y Municipios de Baja California Sur, así como las Juntas Locales de Conciliación y Arbitraje en la entidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE MAYO DE 2011)</small>
+
+e).- Las demás que le señalen la directiva del congreso y la Gran Comisión.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2009)</small>
 
@@ -2352,3 +2366,7 @@ DECRETO 1800, QUE REFORMA Y ADICIONA LOS ARTICULOS 54 Y 55 DE LA LEY REGLAMENTAR
 B.O. 20 DE MARZO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE MAYO DE 2011.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
