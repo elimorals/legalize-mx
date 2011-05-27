@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-defensoria-de-oficio-del-estado-de-13544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-18"
-last_updated: "2006-09-11"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA DEFENSORIA DE OFICIO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 18 de agosto de 1993.
 
@@ -50,6 +50,10 @@ Las disposiciones del presente ordenamiento son de orden público e interés soc
 ###### ARTICULO 2o.
 
 En el Estado habrá un Cuerpo de Defensores de Oficio del Fuero Común cuya finalidad será la de proporcionar, obligatoria y gratuitamente, los servicios jurídicos de defensa, patrocinio y asesoría en materia penal, civil, familiar, administrativa y de justicia para adolescentes, en los términos de los Artículos 20, fracción IX de la Constitución Política de los Estados Unidos Mexicanos y 78 de la Constitución Política del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+La Defensoría de Oficio del Estado, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 3o.
 
@@ -610,3 +614,9 @@ c) Los asuntos en los que el Pleno del Consejo haya emitido ya resolución defin
 d) Si existieran adolescentes menores de catorce años privados de su libertad, se ordenará su inmediata libertad; sin perjuicio de que, en el caso de los mayores de doce años, el Juez Especializado pueda sustituirla por una de las medidas de orientación y protección previstas en la Ley de Justicia para Adolescentes del Estado de Sinaloa, escuchando al adolescente, sus padres, tutores o representantes legales y el Ministerio Público.
 
 e) Si existieran menores de doce años privados de su libertad, se ordenará su inmediata libertad; si sus derechos estuvieren amenazados o en riesgo, el Juez Especializado podrá ordenar la intervención de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en los términos de lo previsto en la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+P.O. 27 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
