@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2010-10-04"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -499,11 +499,11 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario. El primero comenzará el día primero de diciembre y terminará a más tardar el día treinta y uno de marzo siguiente, y el segundo principiará el día dieciséis de mayo y concluirá a más tardar el día quince de julio inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. El presupuesto de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial; así como los organismos autónomos que esta Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal y paraestatal. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -1787,7 +1787,9 @@ No podrán establecerse exenciones o subsidios respecto a los ingresos señalado
 
 El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas.
 
-Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, y deberán incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 145 de la presente Constitución y 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2091,17 +2093,31 @@ VI. En el caso de que el orden constitucional desaparezca totalmente en el Estad
 
 VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### Art. 145.
 
-Todo servidor público, recibirá una remuneración adecuada, equitativa e irrenunciable por el desempeño de su cargo, empleo o comisión, la cual será fijada anualmente en el presupuesto de egresos del Estado, de los Municipios o de las Entidades Paraestatales, según sea el caso.
+Los servidores públicos del Estado, de sus Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, que de manera directa o indirecta se suma al ingreso, incluyendo dietas o salarios, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, vehículo y su mantenimiento, gastos médicos mayores, celular y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, debidamente justificados;
+
+II. Ningún servidor público de la administración pública estatal podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Titular del Poder Ejecutivo del Estado en el presupuesto de egresos correspondiente, y éste no podrá percibir un ingreso mayor al del Presidente de la República;
+
+III. Ningún servidor público de la administración pública estatal podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los términos del artículo 143 de la presente Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
+
+En ningún caso, el excedente a que se refiere el párrafo anterior, podrá ser superior a la mitad de la remuneración establecida para el Gobernador Constitucional del Estado en el Presupuesto de Egresos correspondiente;
+
+IV. No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y,
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se establecerán, equitativamente, los sueldos y compensaciones de los servidores públicos, así como las dietas e ingresos que correspondan a los Diputados, según las condiciones del Erario. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
+Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se establecerán, equitativamente, los sueldos y compensaciones de los servidores públicos de la administración publica del Estado, así como las dietas e ingresos que correspondan a los Diputados en los términos del artículo anterior. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
 
 ###### Art. 147.
 
@@ -3250,6 +3266,22 @@ P.O. 4 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE MAYO DE 2011.
+
+PRIMERO.- La presente reforma entra en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+TERCERO.- A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto de reforma constitucional, las percepciones que perciban los Magistrados y Jueces del Poder Judicial del Estado, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción II del artículo 145 de la Constitución Política del Estado de Sinaloa, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la fracción II del artículo 145 de la Constitución Política del Estado de Sinaloa.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+CUARTO.- Los Ayuntamientos del Estado, deberán expedir o adecuar las disposiciones administrativas que resulte necesario en los términos del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, que fue publicado en el Diario Oficial de la Federación el 24 de agosto de 2009, y del presente decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor, así mismo procederá sancionar penal y administrativamente las conductas que impliquen incumplimiento o elusión por simulación a lo establecido en la presente reforma constitucional.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
