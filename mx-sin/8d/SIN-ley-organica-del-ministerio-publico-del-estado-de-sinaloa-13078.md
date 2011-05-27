@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "2009-10-14"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -412,6 +412,10 @@ VII. Dictar las disposiciones técnicas y administrativas necesarias para el deb
 VIII. Suscribir, en los términos de ley, acuerdos y convenios de coordinación y colaboración con instituciones nacionales, locales o de otros Estados, para el ejercicio de las funciones de la institución;
 
 IX. Crear, suprimir o modificar las unidades técnicas y administrativas de la Procuraduría General de Justicia, conforme a las disposiciones legales aplicables;
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+En materia de los delitos de secuestro previstos en el Código Penal para el Estado de Sinaloa, implementar los programas de protección a personas así como crear y operar unidades especiales para la investigación de estos delitos, conforme a las bases contenidas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 X. Establecer mecanismos y procedimientos para lograr y coordinar la participación social en el ámbito de procuración de justicia;
 
@@ -1225,6 +1229,12 @@ Al resolver el no ejercicio de la acción penal y la reserva del expediente por 
 
 Contra las resoluciones de no ejercicio de la acción penal por hechos que se hubieren denunciado como delictuosos, los denunciantes o querellantes podrán interponer el recurso de inconformidad ante el Procurador General de Justicia dentro de los quince días hábiles siguientes a la fecha en que les fueren notificadas personalmente dichas resoluciones, luego de que sean dictaminadas por el área de Averiguaciones Previas de la Subprocuraduría Regional respectiva, en cuyo caso el Procurador General de Justicia decidirá, en un plazo no mayor de treinta días hábiles si confirma, revoca o modifica dichas resoluciones.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+###### Artículo 63 Bis.
+
+En el caso del delito de secuestro no procederá la reserva del expediente, aún si de las diligencias practicadas no resultan elementos bastantes para hacer la consignación a los tribunales y no aparece que se puedan practicar otras. La policía, bajo la conducción y mando del Ministerio Público, estará obligada en todo momento a realizar las investigaciones tendientes a lograr el esclarecimiento de los hechos.
+
 ## TITULO QUINTO. DE LOS IMPEDIMENTOS, AUSENCIAS, RECUSACIONES Y EXCUSAS
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
@@ -1700,3 +1710,9 @@ En tanto inicia sus funciones el Centro Nacional de Certificación y Acreditaci�
 ###### ARTÍCULO OCTAVO.
 
 Dentro del plazo de un año el Ejecutivo del Estado y las autoridades correspondientes deberán expedir los reglamentos que se prevén en la presente ley.
+
+P.O. 27 DE MAYO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
