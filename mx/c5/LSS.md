@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2009-07-09"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -872,7 +872,9 @@ Deberá otorgarse o extenderse el goce de esta pensión, en los términos del re
 
 V. En el caso de las dos fracciones anteriores, si posteriormente falleciera el otro progenitor, la pensión de orfandad se aumentará del veinte al treinta por ciento, a partir de la fecha del fallecimiento del segundo progenitor y se extinguirá en los términos establecidos en las mismas fracciones, y
 
-VI. A cada uno de los huérfanos, cuando lo sean de padre y madre, menores de dieciséis años o hasta veinticinco años si se encuentran estudiando en los planteles del sistema educativo nacional, o en tanto se encuentren totalmente incapacitados debido a una enfermedad crónica, defecto físico o psíquico, se les otorgará una pensión equivalente al treinta por ciento de la que hubiera correspondido al asegurado tratándose de incapacidad permanente total.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2011)</small>
+
+VI. A cada uno de los huérfanos, cuando lo sean de padre y madre, menores de dieciséis años o hasta veinticinco años si se encuentran estudiando en los planteles del sistema educativo nacional, o en tanto se encuentren totalmente incapacitados debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, que les impida mantenerse por su propio trabajo se les otorgará una pensión equivalente al treinta por ciento de la que hubiera correspondido al asegurado tratándose de incapacidad permanente total.
 
 El derecho al goce de las pensiones a que se refiere el párrafo anterior, se extinguirá en los mismos términos expresados en las fracciones III y IV de este precepto.
 
@@ -1124,7 +1126,9 @@ Del mismo derecho gozará el esposo de la pensionada o a falta de éste el concu
 
 V. Los hijos menores de dieciséis años del asegurado y de los pensionados, en los términos consignados en las fracciones anteriores;
 
-VI. Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2011)</small>
+
+VI. Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
 
 VII. Los hijos mayores de dieciséis años de los pensionados por invalidez, cesantía en edad avanzada y vejez, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente, en los mismos casos y condiciones establecidos en el artículo 136;
 
@@ -4099,3 +4103,7 @@ La información detallada en el párrafo anterior, deberá ser presentada por un
 ###### ARTÍCULO TERCERO.
 
 Para efectos de lo dispuesto en el segundo párrafo del artículo 75, de la Ley del Seguro Social, que se adiciona, los patrones o sujetos obligados que venían operando con anterioridad a la entrada en vigor del presente Decreto, continuarán clasificados en la misma actividad para efectos del seguro de riesgos de trabajo y aplicando la misma prima determinada conforme al procedimiento establecido por el artículo 74 de esta Ley por los registros patronales que tenían vigentes a esa fecha. Los registros patronales que soliciten con posterioridad a la entrada en vigor del presente Decreto, se clasificarán conforme a lo establecido en el citado segundo párrafo del artículo 75. El Consejo Técnico del Instituto Mexicano del Seguro Social podrá emitir reglas generales para tal efecto.
+
+D.O.F. 27 DE MAYO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
