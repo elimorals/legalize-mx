@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-servicios-educativos-y-5222
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2011-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGOGICOS DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -201,6 +201,10 @@ II. Coordinación de Servicios Jurídicos;
 
 2. Departamento Jurídico de Asesoría y Asuntos Legislativos;
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+3. Departamento Jurídico de Verificación e Inspección Laboral;
+
 III. Coordinación de Comunicación Social y Relaciones Públicas;
 
 1. Departamento de Comunicación Social;
@@ -239,7 +243,9 @@ b. Coordinación de Carrera Magisterial;
 
 4. Departamento de Base de Datos y Soporte Técnico;
 
-c. Coordinación del Programa de Actualización Permanente;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+c. Coordinación de Formación Continua de Maestros en Servicio;
 
 1. Departamento de Vinculación Externa;
 
@@ -405,7 +411,7 @@ f. Dirección de Administración de Personal;
 
 i. Departamento de Recursos Humanos;
 
-ii. Departamento de Verificación Ocupacional;
+ii. (DEROGADA, P.O. 27 DE MAYO DE 2011)
 
 iii. Departamento de Unidad Operativa;
 
@@ -469,7 +475,9 @@ VI. Representar legalmente al ISEP, al Director General, a sus servidores públi
 
 VII. Revisar, validar en su caso y tramitar ante las autoridades competentes los proyectos de convenios, contratos, actos consensuales y demás instrumentos jurídicos en los que intervenga el Organismo, en coordinación con las unidades administrativas correspondientes y llevar el registro de los actos aludidos una vez formalizados;
 
-VIII. Realizar las notificaciones que por orden de autoridad jurisdiccional, le correspondan al Director General del ISEP, y le sean encomendadas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VIII. Realizar las notificaciones, que por orden de autoridades jurisdiccionales u otras autoridades administrativas, le correspondan y le sean encomendadas al Director General del ISEP, a los titulares de las unidades administrativas del ISEP y al personal directivo de los centros educativos transferidos;
 
 IX. Asesorar a las unidades administrativas del ISEP, en el desarrollo de las relaciones laborales cuando a juicio de ésta Coordinación sea necesario, o le sea solicitado por las mismas;
 
@@ -513,9 +521,41 @@ XXVIII. Expedir lineamientos conforme a los cuales se deberá integrar la docume
 
 XXIX. Formular un prontuario jurídico que contenga la normatividad aplicable al ISEP, excluyendo minutas y circulares;
 
-XXX. Dar cumplimiento a la normatividad vigente y a las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas del ISEP, y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
-XXXI. Las demás encomendadas por el Director General y disposiciones legales aplicables.
+XXX. Coadyuvar con la Dirección de Administración de Personal en el levantamiento de actas y demás documentales, que motiven el trámite de rescisión, terminación de la relación laboral, sanciones y demás trámites de tipo laboral o administrativo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXI. Participar con la Dirección de Administración de Personal en la integración de expedientes por motivo de incidencias laborales;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXII. Evaluar los expedientes que por concepto de incidencias laborales remitan a la Coordinación de Servicios Jurídicos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIII. Colaborar en la elaboración de los dictámenes de sanciones laborales correspondientes y turnarlos a la Dirección de Administración de Personal para su emisión;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIV. Notificar los avisos de rescisión laboral, remoción y demás que resulten de las sanciones administrativas y laborales respecto de los trabajadores del ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXV. Dar seguimiento a las incidencias de carácter laboral que se susciten en los centros de trabajo del ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVI. Proponer alternativas de solución en la esfera de competencia jurídico-administrativa, respecto de las incidencias laborales que se susciten en los centros de trabajo del ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVII. Ejercer sus atribuciones en apego a la normatividad vigente aplicable y dar cumplimiento a las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas del ISEP, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXVIII. Las demás encomendadas por el Director General y aquellas que le confieran las disposiciones legales aplicables.
 
 ###### ARTÍCULO 24.
 
@@ -524,6 +564,10 @@ Para el cumplimiento de sus atribuciones, la Coordinación de Servicios Jurídic
 I. Departamento Jurídico Contencioso;
 
 II. Departamento Jurídico de Asesoría y Asuntos Legislativos.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+III. Departamento Jurídico de Verificación e Inspección Laboral.
 
 ###### ARTÍCULO 25.
 
@@ -582,6 +626,32 @@ VIII. Revisar, requisitar la validación y enviar las disposiciones y lineamient
 IX. Recopilar la normatividad aplicable al ISEP, excluyendo minutas y circulares, a efecto de elaborar prontuario jurídico;
 
 X. Concentrar y observar la normatividad vigente y las disposiciones que emitan en la esfera de su competencia las diversas unidades administrativas del ISEP; y
+
+XI. Las demás que directamente le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+ARTÍCULO 26 BIS.- Corresponde al Departamento Jurídico de Verificación e Inspección Laboral, el despacho de las siguientes atribuciones:
+
+I. Apoyar en las notificaciones, que por orden de autoridades jurisdiccionales u otras autoridades administrativas, le correspondan y le sean encomendadas al Director General del ISEP, a los titulares de las unidades administrativas del ISEP y al personal directivo de los centros educativos transferidos;
+
+II. Coadyuvar con la Dirección de Administración de Personal, cuando así lo solicite el Coordinador de Servicios Jurídicos, en el levantamiento de actas y demás documentales, que motiven el trámite de rescisión, terminación de la relación laboral, aplicación de sanciones y demás que resulten de las sanciones de tipo laboral o administrativo;
+
+III. Coadyuvar con la Coordinación de Servicios Jurídicos en la integración de expedientes por motivo de incidencias laborales;
+
+IV. Analizar los expedientes que por concepto de incidencias laborales remitan a la Coordinación de Servicios Jurídicos;
+
+V. Apoyar al Coordinador de Servicios Jurídicos en la elaboración de dictámenes respecto a las sanciones laborales correspondientes y turnarlos a la Dirección de Administración de Personal para su emisión;
+
+VI. Colaborar con el Coordinador de Servicios Jurídicos en la notificación de los avisos de rescisión laboral, remoción y demás movimientos administrativos y laborales respecto de los trabajadores del ISEP;
+
+VII. Participar con el Coordinador de Servicios Jurídicos en el seguimiento de las incidencias de carácter laboral que se susciten en los centros de trabajo del ISEP;
+
+VIII. Analizar en la esfera de competencia jurídico-administrativa, respecto de las incidencias laborales que se susciten en los centros de trabajo del ISEP;
+
+IX. Apoyar en la definición de los criterios conforme a los cuales el Coordinador de Servicios Jurídicos expedirá lineamientos para integrar la documentación correspondiente en torno a las incidencias laborales que se susciten en los centros de trabajo del ISEP;
+
+X. Ejercer sus atribuciones en apego a la normatividad aplicable, y
 
 XI. Las demás que directamente le encomiende su superior jerárquico.
 
@@ -1199,9 +1269,11 @@ XXV. Apoyar con el soporte técnico al personal de la Coordinación de Carrera M
 
 XXVI. Las demás que directamente le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 52.
 
-Corresponde a la Coordinación del Programa de Actualización Permanente la atención y trámite de las siguientes atribuciones:
+Corresponde a la Coordinación de Formación Continua de Maestros en Servicio, la atención y trámite de las siguientes atribuciones:
 
 I. Promover y participar conjuntamente con otras instancias de la Secretaría de Educación y Bienestar Social y con las instituciones educativas de nivel superior, en la integración del Sistema Estatal de actualización, capacitación y superación profesional del magisterio;
 
@@ -1229,9 +1301,11 @@ XII. Revisar el cumplimiento de las disposiciones y políticas educativas nacion
 
 XIII. Las demás que le confieran las disposiciones legales aplicables y le encomiende su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+
 ###### ARTÍCULO 53.
 
-Para el cumplimiento de sus atribuciones, la Coordinación del Programa de Actualización Permanente contará con las siguientes Unidades Administrativas:
+Para el cumplimiento de sus atribuciones, la Coordinación de Formación Continua de Maestros en Servicio, contará con las siguientes unidades administrativas:
 
 I. Departamento de Vinculación Externa;
 
@@ -1243,13 +1317,17 @@ III. Departamento de Gestión Institucional.
 
 Corresponde al Departamento de Vinculación Externa el despacho de las siguientes atribuciones:
 
-I. Recabar y entregar a la Coordinación del Programa de Actualización Permanente, información suficiente y pertinente para la toma de decisiones y elaborar acuerdos con otras instituciones para la oferta de cursos, talleres, diplomados, con la finalidad de promover la formación continua y actualización del magisterio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2010)</small>
+
+I. Recabar y entregar a la Coordinación de Formación Continua de Maestros en Servicio, información suficiente y pertinente para la toma de decisiones y elaborar acuerdos con otras instituciones para la oferta de cursos, talleres, diplomados, con la finalidad de promover la formación continua y actualización del magisterio;
 
 II. Participar en reuniones con la Coordinación Estatal de Carrera Magisterial para la toma de acuerdos sobre la operación y acreditación de los cursos estatales de actualización, así mismo llevar a cabo reuniones de la Comisión Dictaminadora Estatal, para analizar propuestas y tomar acuerdos para apoyar y mejorar la formación continua de maestros en servicio;
 
 III. Implementar y desarrollar estrategias de operación, evaluación y seguimiento de las acciones de actualización, así como la acreditación de los maestros en servicio;
 
-IV. Establecer comunicación interinstitucional con otras instancias educativas que brinden actualización a los maestros de educación básica en servicio y apoyar a la Coordinación del Programa de Actualización Permanente en las acciones y estrategias que acuerde con Instituciones de Educación Superior;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2010)</small>
+
+IV. Establecer comunicación interinstitucional con otras instancias educativas que brinden actualización a los maestros de educación básica en servicio y apoyar a la Coordinación de Formación Continua de Maestros en Servicio, en las acciones y estrategias que acuerde con instituciones de educación superior;
 
 V. Involucrar a los delegados, jefes de nivel, supervisores y a algunas áreas del ISEP en la difusión operación de exámenes nacionales en la Entidad, elaborando y desarrollando un plan de organización, aplicación y evaluación de los exámenes nacionales;
 
@@ -1271,11 +1349,15 @@ III. Analizar junto con la Comisión Dictaminadora Estatal, las propuestas de fo
 
 IV. Coordinar esfuerzos con la Dirección de Programas de Apoyo Educativo, para que se integre la oferta de actualización en forma coherente y sea aprovechada por los colectivos docentes;
 
-V. Elaborar una propuesta de Planeación integral que articule esfuerzos y acciones, según las demandas que se identifican en las actividades de los docentes en lo individual y en lo colectivo, así como coordinar acciones con las otras áreas de la Coordinación del Programa Nacional de Actualización Permanente para que sean atendidas en forma pronta y expedita las demandas de formación continua del magisterio de educación básica;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+V. Elaborar una propuesta de planeación integral que articule esfuerzos y acciones, según las demandas que se identifican en las actividades de los docentes en lo individual y en lo colectivo, así como coordinar acciones con las otras áreas del Programa del Sistema Nacional de Formación Continua y Superación Profesional de Maestros de Educación Básica en Servicio, para que sean atendidas en forma pronta y expedita las demandas de formación continua del magisterio de educación básica;
 
 VI. Definir las estrategias necesarias y suficientes para que las acciones de formación continua cumplan con todas las especificaciones que aseguren su calidad;
 
-VII. Participar con las otras áreas de la Coordinación del Programa Nacional de Actualización Permanente para la difusión oportuna de resultados de las acciones de actualización;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2010)</small>
+
+VII. Participar con las otras áreas del Programa del Sistema Nacional de Formación Continua y Superación Profesional de Maestros de Educación Básica en Servicio, para la difusión oportuna de resultados de las acciones de actualización;
 
 VIII. Implementar acciones para el mejoramiento de la calidad de los aprendizajes de docentes y alumnos suministrando la información oportuna y pertinente que se requiera;
 
@@ -3325,11 +3407,15 @@ VI. Participar en las actividades relativas a la aplicación de la normatividad 
 
 VII. Verificar y validar en el Sistema Integral de Recursos Humanos las estructuras ocupacionales en apego a la normatividad establecida para el ISEP;
 
-VIII. Asignar al personal correspondiente las plazas docentes y de apoyo a la educación en los centros de trabajo, de acuerdo a la programación detallada de ISEP;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+VIII. Asignar al personal correspondiente las plazas docentes, de apoyo a la educación y administrativas en los centros de trabajo, de acuerdo a la programación detallada del ISEP; así como otorgar las respectivas órdenes de presentación;
 
 IX. Participar en coordinación con las área (sic) educativas en la reorientación de plazas existentes hacia los centros de trabajo con necesidades de personal docente de ISEP;
 
-X. Vigilar el debido cumplimiento de las normas jurídicas aplicables en la relación laboral para con los trabajadores, que prestan sus servicios al ISEP, en caso de incumplimiento de las mismas, sancionar de conformidad a las disposiciones legales aplicables, o en su caso iniciar los trámites de rescisión o terminación de la relación laboral;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+X. Vigilar el debido cumplimiento de la normatividad aplicable en las relaciones laborales de los trabajadores que presten sus servicios al ISEP, y en caso de incumplimiento de la misma, imponer y aplicar las sanciones a que se haga acreedor el personal del ISEP, de conformidad a las disposiciones legales aplicables;
 
 XI. Registrar, controlar y validar los trámites de movimientos e incidencias del personal, altas, nombramientos, ascensos, cambios, licencias, vacaciones y bajas del personal que presta sus servicios al ISEP conforme a la normatividad aplicable;
 
@@ -3365,23 +3451,43 @@ XXVI. Regular normativa y operativamente los procesos de reclutamiento, selecci�
 
 XXVII. Registrar, controlar y autorizar becas y comisiones del personal del ISEP conforme a la normatividad aplicable;
 
-XXVIII. Expedir y otorgar los documentos laborales, de acreditación y de identificación al personal del ISEP;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
-XXIX. Gestionar y dar seguimiento a las valoraciones médicas de los trabajadores del ISEP ante el ISSSTE para determinar la condición laboral correspondiente conforme a la normatividad aplicable;
+XXVIII. Expedir y otorgar los documentos laborales, de acreditación y de identificación, así como expedir nombramientos al personal del ISEP;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXIX. Gestionar y dar seguimiento a las valoraciones médicas de los trabajadores del ISEP ante el ISSSTE, para determinar la condición laboral correspondiente; así como solicitar la práctica de exámenes toxicológicos al personal del ISEP, conforme a las disposiciones normativas vigentes;
 
 XXX. Registrar y dar seguimiento a los riesgos de trabajo de los trabajadores del ISEP;
 
 XXXI. Certificar los documentos generados y avalados por ésta Dirección y que obren en sus archivos documentales y electrónicos;
 
-XXXII. Participar en la Comisión dictaminadora para las incorporaciones o promociones del personal docente en el programa de carrera magisterial conforme a las disposiciones normativas vigentes, y
+XXXII. Participar en la Comisión dictaminadora para las incorporaciones o promociones del personal docente en el programa de carrera magisterial conforme a las disposiciones normativas vigentes, y (sic)
 
-XXXIII. Las demás que le confieran las disposiciones legales aplicables y le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIII. Remitir a la Coordinación de Servicios Jurídicos, los expedientes integrados por incidencias laborales para la elaboración del dictamen respectivo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXIV. Rescindir o dar por terminada la relación laboral, así como remover libremente a los trabajadores que presten sus servicios al ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXXV. Intervenir en el trámite y cumplimiento de las resoluciones definitivas, en materia laboral y administrativa en las que intervenga el personal del ISEP, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2010)</small>
+
+XXXVI. Las demás que le confieran las disposiciones legales aplicables y le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 148.
 
 Para el cumplimiento de sus atribuciones; la Dirección de Administración de Personal contará con las siguientes Unidades Administrativas:
 
-I. Subdirección de Registro y Control de Plazas, que contará con: Departamento de Recursos Humanos, Departamento de Verificación Ocupacional y Departamento de Unidad Operativa;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+I. Subdirección de Registro y Control de Plazas, que contará con: Departamento de Recursos Humanos y Departamento de Unidad Operativa;
 
 II. Subdirección de Control de Trámites, que contará con: Departamento de Capacitación y Desarrollo y Departamento de Promoción Laboral y Archivo;
 
@@ -3419,7 +3525,37 @@ XIII. Observar la aplicación de las normas jurídicas, políticas y lineamiento
 
 XIV. Proponer a su superior jerárquico, proyectos de mejoras para hacer más eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio;
 
-XV. Las demás que le confieran las disposiciones legales aplicables y le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XV. Supervisar la atención, revisión, proceso, validación y seguimiento a las solicitudes de verificación y trámites de incidencias de personal adscrito a las unidades administrativas que integran las oficinas centrales y delegaciones del ISEP, así como a los diversos centros de trabajo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVI. Proporcionar a la Dirección de Administración de Personal la documentación laboral correspondiente de los trabajadores que tengan conflictos de carácter jurídico, con la oportunidad que le sea requerida;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVII. Remitir a la Coordinación de Servicios Jurídicos, los expedientes integrados por incidencias laborales para la elaboración del dictamen respectivo;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVIII. Apoyar al Director de Administración de Personal en el procedimiento de imposición y aplicación de las sanciones procedentes, de acuerdo al dictamen elaborado por la Coordinación de Servicios Jurídicos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIX. Participar en el otorgamiento de órdenes de presentación, realizando el trámite respectivo, cuando así lo requiera el Director de Administración de Personal;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XX. Apoyar al Director de Administración de Personal en el trámite de expedición y certificación de nombramientos a los empleados del ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXI. Solicitar por instrucciones del Director de Administración de Personal, la práctica de exámenes toxicológicos al personal del ISEP, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XXII. Las demás que le confieran las disposiciones legales aplicables y aquellas que le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 150.
 
@@ -3433,7 +3569,9 @@ III. Revisar, procesar, validar y dar seguimiento a los tramites de incidencias 
 
 IV. Proporcionar la información correspondiente para la integración del catálogo de puestos y tabuladores de sueldos a las instancias competentes cuando esta sea solicitada;
 
-V. Participar en la actualización de plantillas, en apego a las normas aplicables;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+V. Coordinar, en conjunto con los departamentos educativos, el proceso de actualización de plantillas en el Sistema Integral de Recursos Humanos del ISEP;
 
 VI. Gestionar ante la Dirección de Recursos Financieros, los tramites para la retención, descuentos, cancelación de cheques de los trabajadores, así como de la reposición y expedición de los mismos por concepto de pago de prestaciones laborales que resulten procedentes;
 
@@ -3441,33 +3579,47 @@ VII. Coordinar la administración de los sistemas de sueldos, salarios y demás 
 
 VIII. Observar la aplicación de las normas jurídicas, políticas y lineamientos vigentes en materia de administración de personal, dentro de su ámbito de competencia;
 
-IX. Proponer a su superior jerárquico, proyectos de mejoras para hacer mas eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio, y
+IX. Proponer a su superior jerárquico, proyectos de mejoras para hacer mas eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio, y (sic)
 
-X. Las demás que directamente le encomiende su superior jerárquico.
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+X. Mantener coordinación con las unidades administrativas correspondientes y con la Coordinación de Relaciones Sindicales, para la integración de expedientes por incidencias laborales;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XI. Realizar, en coordinación con los niveles educativos, la verificación de plantillas en los centros educativos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XII. Tramitar la documentación laboral correspondiente de los trabajadores que tengan conflictos de carácter jurídico, con la oportunidad que le sea requerida;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIII. Apoyar en la integración de expedientes que por incidencias laborales se remitirán a la Coordinación de Servicios Jurídicos para la elaboración de dictámenes respectivos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XIV. Colaborar en el procedimiento de imposición y aplicación de las sanciones procedentes, de acuerdo al dictamen elaborado por la Coordinación de Servicios Jurídicos;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XV. Apoyar a la Subdirección de Registro y Control de Plazas, en el otorgamiento de órdenes de presentación, realizando el trámite respectivo, cuando así lo requiera el Director de Administración de Personal;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVI. Apoyar a la Subdirección de Registro y Control de Plazas, en el trámite de expedición y certificación de nombramientos a los empleados del ISEP;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVII. Apoyar en el trámite de práctica de exámenes toxicológicos al personal del ISEP, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+
+XVIII. Las demás que directamente le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 151.
 
-Corresponde al Departamento de Verificación Ocupacional el despacho de las siguientes atribuciones:
-
-I. Atender las solicitudes de verificación de incidencias laborales de trabajadores con adscripción al ISEP, en los diversos centros de trabajo;
-
-II. Tramitar, el levantamiento de las actas y diversas documentales, por incidencias laborales;
-
-III. Analizar los expedientes que por concepto de incidencias laborales remitan a la Dirección de Administración de Personal;
-
-IV. Elaborar los dictámenes de sanciones laborales correspondientes;
-
-V. Mantener coordinación con las unidades administrativas municipales de Recursos Humanos y Relaciones Sindicales, para la integración de expedientes por incidencias laborales;
-
-VI. Realizar en coordinación con los niveles educativos verificaciones de plantillas en los centros educativos;
-
-VII. Coordinar en conjunto con los departamentos educativos el proceso de actualización de plantillas en el Sistema Integral de Recursos Humanos del ISEP;
-
-VIII. Observar la aplicación de las normas jurídicas, políticas y lineamientos vigentes en materia de administración de personal y de relaciones laborales, dentro de su ámbito de competencia;
-
-IX. Proponer a su superior jerárquico, proyectos de mejoras para hacer mas eficientes y eficaces los procesos propios del departamento, en atención a la calidad en el servicio, y
-
-X. Las demás que directamente le encomiende su superior jerárquico.
+(DEROGADO, P.O. 27 DE MAYO DE 2011)
 
 ###### ARTÍCULO 152.
 
@@ -4204,3 +4356,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ GABRIEL POSADA GALLEGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORISO DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
