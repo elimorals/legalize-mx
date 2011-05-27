@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-04-15"
+last_updated: "2011-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE ABRIL DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -164,6 +162,10 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 ###### ARTICULO 7.
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución; de igual manera esta norma fundamental tutela el derecho a la vida, al sustentar que desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2011)</small>
+
+El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -399,9 +401,9 @@ Para ser electo Diputado Propietario o Suplente, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
@@ -861,9 +863,9 @@ Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado.
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2002)</small>
 
@@ -1691,7 +1693,9 @@ Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Munici
 
 I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.
 
-Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado;
 
 II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección.
 
@@ -2285,7 +2289,7 @@ XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que h
 
 ###### ARTICULO QUINTO.
 
-El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+El día 5 de Noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
 
 ###### ARTICULO SEXTO.
 
@@ -2345,7 +2349,7 @@ Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
 
-Dip. Presidente,
+LDip. Presidente,
 
 LIC. EVARISTO BONIFAZ GOMEZ
 
@@ -2693,7 +2697,7 @@ En su oportunidad, pronunciada la Declaratoria en los términos establecidos por
 
 ###### ARTÍCULO TERCERO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Óficial, Organo de Gobierno del Estado de Baja California.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
 
 P.O. 15 DE ENERO DE 1999.
 
@@ -2841,11 +2845,11 @@ TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2
 
 P.O. 14 DE SEPTIEMBRE DE 2001.
 
-Primero.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
+PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
 
-Segundo.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
 
-Tercero.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
+TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
 
 P.O. 7 DE DICIEMBRE DE 2001.
 
@@ -3248,3 +3252,25 @@ PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MAYO DE 2011.
+
+DECRETO NUMERO 454, POR EL QUE SE REFORMAN LOS ARTICULOS 17, 41 Y 80 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese el presente Decreto a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+
+TERCERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2011.
+
+DECRETO NUMERO 56, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO RECORRIENDOSE LOS SUBSECUENTES EN SU ORDEN AL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese la presente reforma a los Ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasaran a formar parte de esta Constitución.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
+
+CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
