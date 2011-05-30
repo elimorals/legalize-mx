@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-las-personas-con-discapacidad-44931"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-06-10"
-last_updated: "2008-08-01"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-05-31"
 
 LEY GENERAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GENERAL PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADA EN EL D.O.F. EL 30 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de junio de 2005.
 
@@ -536,3 +538,21 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 1 DE AGOSTO DE 2008.
 
 Único.- El presente Decreto entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE MAYO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley General de las Personas con Discapacidad publicada en el Diario Oficial de la Federación el 10 de junio de 2005 y se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Tercero. El Titular del Ejecutivo Federal convocará e instalará el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad dentro de los treinta días siguientes al inicio de la vigencia de la presente Ley.
+
+Cuarto. El Poder Ejecutivo Federal expedirá el Reglamento de esta Ley en un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley.
+
+Quinto. Los recursos financieros, materiales y humanos para el establecimiento y funcionamiento del organismo que se crea en el presente decreto, serán aquellos con los que cuenta actualmente el Secretariado Técnico del Consejo Nacional para las Personas con Discapacidad.
+
+Sexto. Con el objeto de instalar el Consejo, la Junta de Gobierno y la Asamblea Consultiva, las personas con discapacidad a que se refiere la fracción I del artículo 53 serán designados por los Titulares del Poder Ejecutivo de las Entidades Federativas por única vez y durarán en su encargo hasta seis meses.
+
+Los representantes a que se refieren las fracciones II y III del artículo 53 de la presente Ley, serán propuestos por el Director General por única vez y durarán en su encargo hasta seis meses.
+
+Séptimo. Todos los entes competentes deberán desarrollar las políticas públicas y acciones señaladas en la presente Ley, adoptando medidas hasta el máximo de sus recursos disponibles para lograr, de manera progresiva, el pleno ejercicio de estos derechos en congruencia con la Convención.
