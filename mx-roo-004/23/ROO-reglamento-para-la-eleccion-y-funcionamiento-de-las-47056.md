@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-eleccion-y-funcionamiento-de-las-47056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-16"
-last_updated: "2005-11-16"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "ROO"
 ---
 # REGLAMENTO PARA LA ELECCION Y FUNCIONAMIENTO DE LAS ALCALDIAS DEL MUNICIPIO DE OTHON P. BLANCO
 
-REGLAMENTO PARA LA ELECCIÓN Y FUNCIONAMIENTO DE LAS ALCALDÍAS DEL MUNICIPIO DE OTHÓN P. BLANCO
+REGLAMENTO PARA LA ELECCIÓN Y FUNCIONAMIENTO DE LAS ALCALDÍAS DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO PARA LA ELECCIÓN Y FUNCIONAMIENTO DE LAS ALCALDÍAS Y ELECCIÓN DE DELEGADOS DEL MUNICIPIO DE OTHÓN P. BLANCO, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de noviembre de 2005.
 
@@ -862,3 +864,23 @@ ATENTAMENTE
 LIC. ANGEL E. RIVERO PALOMO.
 
 SECRETARIO GENERAL DEL HONORABLE AYUNTAMIENTO DE OTHÓN P. BLANCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Para los efectos de las elecciones de los Integrantes de las Alcaldías y Delegados correspondientes al período 2011-2013, el presente reglamento surtirá sus efectos a partir del mismo día de su aprobación por el cabildo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento para la Elección y Funcionamiento de las Alcaldías del Municipio de Othón P. Blanco, así como todas las disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En todo lo no previsto en el presente reglamento se estará a lo dispuesto en la Ley de los Municipios del Estado de Quintana Roo y a los acuerdos y disposiciones dictados por el Honorable Ayuntamiento del Municipio de Othón P. Blanco, Quintana Roo.
