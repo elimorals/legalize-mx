@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2011-02-25"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -811,9 +811,9 @@ V.- El asalto en el supuesto señalado en el artículo 157;
 
 VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
-VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183, 183 BIS y 183 TER del Código Penal para el Estado de Querétaro;
+VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183 y 183 BIS; así como el robo previsto en las fracciones I,II y III del artículo 182 en los supuestos establecidos en el artículo 183 TER del Código Penal;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -875,9 +875,13 @@ XXI.- Corrupción y explotación de menores o incapaces previsto en el artículo
 
 XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos pervistos (sic) por el artículo 246-F y párrafo primero del artículo 246-G;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
 
-XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B.
+XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B del Código Penal; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2011)</small>
+
+XXIV.- La extorsión prevista en el artículo 198 del Código Penal.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
@@ -2706,3 +2710,13 @@ LEY POR LA QUE SE REFORMAN LOS ARTICULOS 121, 132, 142, 224 BIS, 265, 274 Y 312;
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
