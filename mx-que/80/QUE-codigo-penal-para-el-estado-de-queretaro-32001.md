@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2011-04-22"
+last_updated: "2011-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -653,7 +653,7 @@ La caución de no ofender consiste en la garantía que el órgano jurisdiccional
 
 Si desde que cause ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el inculpado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
 
-Si el inculpado no puede otorgar la garantía, ésta será subsituída por vigilancia de la autoridad durante un lapso que no excederá de tres años.
+Si el inculpado no puede otorgar la garantía, ésta será subsituída (sic) por vigilancia de la autoridad durante un lapso que no excederá de tres años.
 
 ### CAPITULO I. REGLAS GENERALES
 
@@ -1713,6 +1713,8 @@ Este delito se perseguirá por querella.
 
 ### CAPITULO VII. EXTORSIÓN
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 177.
 
 (DEROGADO, P.O. 25 DE FEBRERO DE 2011)
@@ -1971,7 +1973,27 @@ Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, por
 
 ###### ARTICULO 198.
 
-Al que para obtener un provecho indebido para sí o para otro, obligue a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de 1 a 10 años y de 30 a 300 días multa.
+Al que para obtener un provecho indebido para sí o para otro, utilizando la violencia física o moral, realice maniobras que tengan por objeto obligar a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de 4 a 10 años y de 100 a 300 días multa.
+
+El delito se tendrá por consumado aunque no se obtenga el provecho indebido.
+
+La pena se aumentará en una mitad más; cuando concurra alguna de las siguientes circunstancias:
+
+I. Cuando se obtenga el provecho indebido;
+
+II. El agente realice el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las tácitas que éste debía esperar de aquél, por las relaciones que fundadamente deben inspirar seguridad o confianza;
+
+III. El autor del delito sea o se ostente como miembro de alguna asociación delictuosa. Para efectos de esta fracción, se entenderá como asociación delictuosa toda agrupación o banda de dos o más personas destinada a delinquir;
+
+IV. Se realice el hecho por medio de amenazas en causar daño a la vida o salud del ofendido, o en persona con quien éste tenga vínculos de parentesco, amor, amistad, respeto o gratitud;
+
+V. Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica;
+
+VI. Cuando el agente se encuentre legalmente privado de su libertad. Igual pena se aplicará a la persona que en libertad, participe de cualquier manera con el primero;
+
+VII. Que cualquiera de los actos relacionados con el desarrollo de la extorsión, se efectúe desde lugar distinto al territorio del Estado de Querétaro; o bien de éste hacia otra entidad federativa, o
+
+VIII. Cuando el sujeto activo del delito sea, haya sido, o se ostente sin serlo, integrante de alguna institución policial, corporación de seguridad privada, o de órganos con funciones de investigación y persecución del delito, impartición de justicia penal o ejecución de penas y medidas de seguridad. En el caso de ser servidor público el sujeto activo del delito, se le impondrá además pena de destitución.
 
 ### CAPITULO V. BIGAMIA
 
@@ -3882,3 +3904,13 @@ P.O. 22 DE ABRIL DE 2011.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 30 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
