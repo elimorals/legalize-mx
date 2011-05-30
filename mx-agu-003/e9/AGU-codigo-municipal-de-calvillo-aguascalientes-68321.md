@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2011-03-28"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -2593,9 +2593,15 @@ c).- Departamento de Ingresos;
 
 d).- Departamento de Recursos Humanos;
 
-e).- Departamento de Recursos Materiales; y
+e).- Departamento de Recursos Materiales;
 
-f).- Departamento de Parque de Maquinaria.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
+
+f).- Departamento de Parque de Maquinaria; y
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2011)</small>
+
+g).- Departamento de ejecución, apremios e inspección fiscal.
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
@@ -23752,5 +23758,11 @@ El Presente acuerdo entrará en vigor al siguiente día de su publicación en el
 P.O. 28 DE MARZO DE 2011.
 
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
+
+P.O. 30 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
