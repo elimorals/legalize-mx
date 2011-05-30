@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-para-la-atencion-de-los-75016"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-03"
-last_updated: "2010-05-03"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 30 DE MAYO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 30 DE MAYO DE 2011.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 3 de mayo de 2010.
 
@@ -87,11 +87,11 @@ II.- El Director General.
 
 ### CAPÍTULO PRIMERO. DE LA JUNTA DE GOBIERNO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 30 DE MAYO DE 2011)</small>
 
 ###### Artículo 8.
 
-La Junta de Gobierno, deberá integrarse como se estipula en el Artículo 10 de su Decreto.
+La Junta de Gobierno, deberá integrarse como se estipula en el Artículo 9 de su Decreto.
 
 A las sesiones de la Junta de Gobierno se incorporará el Comisario Público, quien tendrá voz pero no voto y será designado por la Secretaría de Contraloría del Estado, en los términos del Artículo 30 de la Ley Orgánica de la Administración Pública del Estado.
 
