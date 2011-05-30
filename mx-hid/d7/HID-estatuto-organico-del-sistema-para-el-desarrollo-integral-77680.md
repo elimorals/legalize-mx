@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-sistema-para-el-desarrollo-integral-77680
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-11-29"
-last_updated: "2010-11-29"
+last_updated: "2011-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 29 de noviembre de 2010.
 
@@ -1756,3 +1758,15 @@ MIEMBRO
 DR. JORGE FELIPE ISLAS FUENTES
 
 SECRETARIO DE SALUD DEL GOBIERNO DEL ESTADO DE HIDALGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2011.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo.- Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deban de pasar de un área administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se haya atribuido la competencia correspondiente.
+
+Tercero.- Los aspectos no previstos en este Estatuto, dentro de su ámbito de competencia, serán resueltos por la Junta de Gobierno del Organismo.
+
+Cuarto.- Se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, publicado el día 29 de noviembre de 2010 en el Periódico Oficial del Estado de Hidalgo, derogándose cualquier otra disposición que se oponga a lo dispuesto por el presente Estatuto Orgánico.
