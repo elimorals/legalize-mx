@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2011-02-01"
+last_updated: "2011-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -376,6 +376,10 @@ III.- Disfrutarán de un descanso de seis semanas anteriores y seis posteriores 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
 Si durante la incapacidad por gravidez, tuviera lugar el período vacacional del cual la trabajadora debiera disfrutar, éste empezará a correr y se otorgará inmediatamente terminada dicha incapacidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+En caso de adopción la madre trabajadora tendrá derecho a una licencia por maternidad por 6 semanas a partir de la resolución judicial que la establezca.
 
 IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos;
 
@@ -898,6 +902,12 @@ c) Sin goce de sueldo tratándose de funcionarios de elección popular.
 IX.- Conceder licencia con o sin goce de sueldo a sus trabajadores para la atención de asuntos particulares o cuando vayan a realizar cursos de capacitación o de post-graduados y estudios que en alguna forma beneficien al buen funcionamiento de la dependencia.
 
 Las licencias que se concedan en los términos de esta fracción y de la anterior, se computarán como tiempo efectivo de servicios dentro del escalafón y se acordarán según lo dispuesto por el artículo 139;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2011)</small>
+
+IX BIS.- Conceder licencia por paternidad por 10 días laborales con goce de sueldo al cónyuge o concubino varón, contados a partir del nacimiento o adopción de un hijo. El trabajador deberá comprobar conforme a la legislación aplicable que estos hechos ocurrieron. No se tendrá derecho a esta licencia si el trabajador no cohabita con la madre del recién nacido. La cohabitación será requisito para obtener esta licencia en el caso de que la adopción se otorgue.
+
+En caso de aborto no punible en términos de la legislación penal, se concederá al esposo o concubino, licencia con goce de sueldo, por los 2 días laborales inmediatos posteriores al hecho, previa presentación de los documentos que acrediten este hecho.
 
 X.- Conceder a los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales, y censales, a que se refiere el artículo 5o. de la Constitución General de la República, cuando esas actividades deban cumplirse dentro de sus horas de trabajo;
 
@@ -2150,5 +2160,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 1 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2011
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
