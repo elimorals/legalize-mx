@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2011-03-30"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2011.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -377,9 +377,17 @@ c). Las propuestas de acciones correctivas necesarias como resultado de una desv
 
 VIII. Coordinar la investigación y documentación de las causas que originan desviaciones a los límites establecidos de exposición al riesgo, identificar si dichas desviaciones se presentan en forma reiterada e informar de manera oportuna sus resultados al Comité de Administración Integral de Riesgos, a la Dirección General y al responsable de las funciones de auditoría interna;
 
-IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso; y
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
 
-X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan.
+IX. Recomendar a la Dirección General y al Consejo apoyado por el Comité de Administración Integral de Riesgos, disminuciones a las exposiciones observadas y/o modificaciones a los límites globales y específicos de exposición al riesgo y niveles de tolerancia según sea el caso;
+
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
+
+X. Presentar al Comité de Administración Integral de Riesgos, las metodologías para la valuación, medición y control de los riesgos de nuevas operaciones, productos y servicios, así como la identificación de los riesgos implícitos que presentan; y
+
+> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2011)</small>
+
+XI. Dirigir y coordinar los trabajos para la calificación de la cartera crediticia e integración de la información para su presentación y autorización por parte de las instancias correspondientes.
 
 ###### ARTICULO 18.
 
@@ -933,9 +941,7 @@ X. Dirigir las acciones para verificar que las operaciones de financiamiento se 
 
 XI. Dirigir la supervisión del cumplimiento de los procesos normativos en materia de expedientes de crédito y de reporto;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-XII. Dirigir los trabajos para la calificación de la cartera crediticia;
+XII. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
 
 > <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
 
@@ -969,9 +975,9 @@ IX. Dirigir y vigilar la correcta aplicación de los mecanismos para el seguimie
 
 X. Dirigir, establecer y vigilar la correcta aplicación de los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera;
 
-XI. Dirigir el proceso de la calificación de la cartera crediticia;
+XI. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
 
-XII. Dirigir el proceso de revisión de las operaciones crediticias, y
+XII. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
 
 XIII. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
 
@@ -1069,9 +1075,7 @@ III. Coordinar la actualización de las normas, políticas y procedimientos apli
 
 IV. Coordinar las propuestas de procedimientos de crédito y de reporto, así como sus modificaciones;
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-V. Coordinar los trabajos de calificación de cartera e integración de la información para su presentación y autorización por parte de las instancias correspondientes;
+V. (DEROGADA, D.O.F. 31 DE MAYO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -1975,85 +1979,47 @@ Se adscribirán a las coordinaciones regionales, gerencias, agencias estatales d
 
 Para el ejercicio de las actividades enumeradas en el presente artículo, las coordinaciones regionales se apoyarán en la estructura aprobada por el Consejo.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 52.
 
 Corresponde a las agencias estatales de Crédito Rural:
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
 I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
 II. Verificar que el proceso de originación, autorización, contratación, disposición y supervisión se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-III. Coordinar las acciones y resultados de las Agencias Estatales en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+III. Coordinar, en su caso, las acciones y resultados de las Agencias de Crédito Rural, en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
 IV. Coordinar y vincular los diferentes programas con los gobiernos estatales y municipales de su adscripción;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
 V. Representar a la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
 
-VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+VI. Analizar y proponer al coordinador regional la apertura, reubicación y clausura de agencias y módulos en su adscripción estatal;
 
-VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+VII. Apoyar las gestiones específicas que realicen las agencias de Crédito Rural y módulos en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+VIII. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
 
-VIII. Analizar y proponer al coordinador regional la apertura, reubicación y clausura de agencias y módulos en su adscripción estatal;
+IX. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
 
-IX. Apoyar las gestiones específicas que realicen las agencias de Crédito Rural y módulos en el ámbito de su competencia;
+X. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
 
-X. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+XI. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
 
-XI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+XII. Supervisar y coordinar las gestiones y desarrollo de sus áreas, así mismo los módulos que llegaran a establecerse en su zona de influencia, verificando la atención a las funciones, actividades y comisiones asignadas;
 
-XII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+XIII. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
 
-XIII. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
+XIV. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en las agencias, y
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+XV. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior.
 
-XIV. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
-
-XV. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
-
-XVI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-XVII. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
-
-XVIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-XIX. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XX. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior;
-
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
-
-XXI. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XXII. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en las agencias, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XXIII. Supervisar y coordina las gestiones y desarrollo de sus áreas, así mismo los módulos que llegaran a establecerse en su zona de influencia, verificando la atención a las funciones, actividades y comisiones asignadas.
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 53.
 
-Corresponde a las Agencias de Crédito Rural a través de los promotores de crédito, el ejercicio de las atribuciones señaladas en las fracciones XII, XIII, XIV, XV, XVI, XVII y XVIII del artículo 52 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
+Corresponde a las Agencias de Crédito Rural a través de los promotores de financiamiento rural, el ejercicio de las atribuciones señaladas en las fracciones VIII, IX, X y XI del artículo 52 del presente Estatuto, además de llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2467,11 +2433,19 @@ III. El Titular de la Unidad para la Administración Integral de Riesgos;
 
 IV. Dos expertos independientes designados por el Consejo a propuesta del Director General;
 
-V. Un representante del Banco de México, y
+> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2011)</small>
+
+V. Como miembro del Consejo, un representante del Banco de México, y (sic)
 
 VI. El Titular del Organo Interno de Control en calidad de asesor.
 
-El integrante previsto en el inciso VI, acudirá con voz pero sin voto. En los casos en que los titulares integrantes el (sic) Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
+> <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2011)</small>
+
+VII. El Director Ejecutivo de Contraloría Interna en calidad de asesor.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2011)</small>
+
+Los integrantes previstos en los incisos VI y VII acudirán con voz pero sin voto. En los casos en que los titulares integrantes el (sic) Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2644,3 +2618,11 @@ UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguien
 D.O.F. 30 DE MARZO DE 2011.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE MAYO DE 2011.
+
+PRIMERO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+SEGUNDO.- Una vez que entre en vigor la presente reforma al Estatuto Orgánico y mientras se ajusta la normatividad interna de la Financiera Rural, todas las referencias que se hagan respecto al promotor de crédito rural, se entenderán realizadas al promotor de financiamiento rural.
+
+La presente reforma fue aprobada en la Quincuagésima Sesión Ordinaria, celebrada con fecha veintisiete de abril del año dos mil once, por el H. Consejo Directivo de la Financiera Rural, organismo descentralizado creado por decreto publicado en el Diario Oficial de la Federación el veintiséis de diciembre del año dos mil dos.
