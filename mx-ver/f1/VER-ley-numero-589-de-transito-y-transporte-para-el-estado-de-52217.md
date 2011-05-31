@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2011-04-13"
+last_updated: "2011-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -1459,11 +1459,27 @@ A las personas físicas sólo se les otorgará una concesión para prestar el se
 
 En los términos que establece el artículo 123 de esta Ley, a las personas morales se les otorgarán las concesiones que resulten necesarias para las modalidades de urbano, suburbano, foráneo, exclusivo de turismo, para personal de empresas y carga especializada.
 
-> <small>(REFORMADO, G.O. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
 
 ###### Artículo 127.
 
-Los derechos derivados de las concesiones que se otorguen para prestar el servicio de transporte público en las modalidades que señala esta ley, serán inalienables, inembargables e intransferibles, y su regulación y control se regirán por las disposiciones de este ordenamiento.
+Las concesiones que se otorguen para prestar el servicio de transporte público en la modalidad de taxi se equipararán al patrimonio familiar, y por lo mismo son inalienables, inembargables e intransferibles, salvo en caso de gran necesidad debidamente acreditada, a juicio del Secretario. Su regulación y control se regirán por las disposiciones aplicables del Código Civil para el Estado de Veracruz de Ignacio de la Llave.
+
+Con la excepción señalada en el párrafo anterior, los derechos que ampara una concesión para prestar el servicio de transporte público en todas las demás modalidades podrán ser transferidos a terceros, previa autorización escrita otorgada por la Secretaría, siempre que se cumpla con las condiciones y requisitos establecidos en la presente Ley y su Reglamento.
+
+Para que la Secretaría otorgue la autorización de transferencia de derechos a que se refiere el párrafo anterior, se requerirá que:
+
+I. El titular de la concesión haya ejercido el derecho que de ella emana, cuando menos cinco años antes de la presentación de la solicitud de transferencia;
+
+II. Haya una solicitud por escrito del concesionario y del aspirante a los derechos derivados de la concesión;
+
+III. Los documentos del concesionario y del aspirante cumplan con todo lo dispuesto en el Reglamento de esta Ley;
+
+IV. El interesado cubra ante la oficina de Hacienda del Estado de la localidad el importe de los derechos respectivos; y
+
+V. Con motivo de la transferencia no se infrinja ninguna disposición legal o reglamentaria.
+
+El Gobierno del Estado no otorgará otra concesión, en la misma modalidad, al concesionario que haya transferido sus derechos.
 
 ###### Artículo 128.
 
@@ -1567,6 +1583,8 @@ XII. Se preste el servicio de transporte público en cualquiera de sus modalidad
 
 No procederá la suspensión cuando el concesionario pruebe que previamente adoptó las medidas idóneas para impedir la causa que la origina. Cuando el responsable sea el conductor del vehículo, se le suspenderá la licencia para conducir hasta por el término que se indica en el artículo 61 de esta Ley, independientemente de las sanciones que le puedan ser aplicadas en los términos de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 133.
 
 Las concesiones terminan por:
@@ -1581,13 +1599,7 @@ IV. Desaparición del objeto o de la finalidad de la concesión;
 
 V. Liquidación o quiebra; y
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2011)</small>
-
-VI. Fallecimiento del titular.
-
-> <small>(ADICIONADO, G.O. 13 DE ABRIL DE 2011)</small>
-
-En el supuesto previsto en la fracción VI anterior, cualquiera de los dependientes económicos del titular deberá notificar el hecho a la Dirección, dentro del plazo de los sesenta días naturales siguientes al deceso. En este caso y atendiendo a las condiciones económicas y sociales de los hijos dependientes económicos, la esposa o concubina o alguno de éstos si es mayor de edad, tendrán preferencia para que se les otorgue una nueva concesión similar a la que tenía el titular fallecido. En ausencia de la esposa o concubina, y habiendo dos o más hijos dependientes económicos mayores de edad, la concesión se otorgará a quien elijan de entre ellos, dentro del plazo antes señalado; la falta de acuerdo en este plazo extinguirá este derecho.
+VI. Fallecimiento del titular, cuando las personas con derecho a heredar no procedan a notificar el hecho a la Dirección, en el término de los sesenta días naturales siguientes.
 
 ###### Artículo 134.
 
@@ -1979,7 +1991,7 @@ Licenciado Fidel Herrera Beltrán.
 
 Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 28 DE MARZO DE 2008.
 
@@ -2030,3 +2042,9 @@ G.O. 13 DE ABRIL DE 2011.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 31 DE MAYO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
