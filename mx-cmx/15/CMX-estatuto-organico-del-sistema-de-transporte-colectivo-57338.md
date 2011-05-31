@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-57338"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-11-06"
-last_updated: "2007-11-06"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57338&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2024-09-17"
 
 ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2011.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 6 de noviembre de 2007.
 
@@ -1277,6 +1277,10 @@ XV.- Coordinar las acciones necesarias con las distintas áreas del Organismo pa
 
 XVI.- Realizar los estudios sobre las variaciones en el comportamiento de la afluencia de usuarios y actualizar los polígonos de carga correspondientes;
 
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2011)</small>
+
+XVI Bis.- Aprobar el programa de energizaciones, permisos y libranzas que soliciten las áreas operativas del Sistema, para la realización de trabajos en la red de servicio;
+
 XVII.- Coadyuvar en el diseño e implantación de soluciones a problemas técnico-operativos en áreas del Organismo que así lo soliciten, y aportar los elementos de juicio, pruebas, dictámenes y opiniones técnicas especializadas;
 
 XVIII.- Participar en coordinación con la Gerencia de Sistemas e Investigación de Incidentes en el análisis de incidentes relevantes suscitados en la red de servicio, proporcionando puntos de vista, conclusiones y recomendaciones;
@@ -1353,7 +1357,9 @@ VIII.- Establecer las directrices y lineamientos, para el desarrollo interno y/o
 
 IX.- Someter a la consideración de la Subdirección General de Mantenimiento el Programa Anual de operación de los sistemas de alimentación de energía y mantenimiento de las instalaciones fijas del Organismo;
 
-X.- Programar y aprobar las energizaciones, permisos y libranzas que soliciten las áreas operativas del Sistema, para la realización de trabajos en la red de servicio;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
+X.- Aprobar las energizaciones, permisos y libranzas no programadas y de emergencia que soliciten las áreas operativas del Sistema, para la realización de trabajos en la red de servicio;
 
 XI.- Integrar el programa anual de requerimientos de servicios y materiales necesarios para el funcionamiento de las áreas de su competencia, de conformidad con el Programa Operativo Anual y Presupuesto de Egresos autorizado y someterlo para su aprobación a la Subdirección General de Mantenimiento;
 
@@ -1852,3 +1858,11 @@ TERCERO.- Se abroga el Estatuto publicado el 23 de mayo de dos mil cinco y 2 de 
 ING. FRANCISCO BOJÓRQUEZ HERNÁNDEZ
 
 DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 31 DE MAYO DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Las presentes reformas y modificaciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
