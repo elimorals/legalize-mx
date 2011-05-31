@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-para-adolescentes-del-estado-51775"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2007-12-27"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de septiembre de 2006.
 
@@ -1067,7 +1067,9 @@ IV. Las posibilidades que tenga de cumplir con la medida y con la reparación de
 
 1. Una vez firme la sentencia, el Juez establecerá las condiciones y la forma como deberá ser cumplida.
 
-2. Corresponde al Centro de Reintegración Social y Familiar para Adolescentes la elaboración de un programa individual de ejecución.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+2. Corresponde al Centro de Reintegración Social y Familiar para Adolescentes la elaboración de un programa individual de ejecución, así como también hacerlo llegar al Juez de Ejecución de Medidas para que este garantice la legalidad de la ejecución de la medida o medidas.
 
 ### CAPITULO VI. Procedimiento especial para adolescentes con trastorno mental
 
@@ -1147,7 +1149,9 @@ d) Restricción de la libertad, bajo alguna de las siguientes modalidades:
 
 ###### Artículo 128.
 
-1. Las instituciones públicas y privadas que deban brindar apoyo y acompañamiento al adolescente en el cumplimiento de la medida impuesta colaborarán con el órgano a cargo de su ejecución, con objeto de concretar los fines establecidos por esta ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+1. Las instituciones públicas y privadas que deban brindar apoyo y acompañamiento al adolescente en el cumplimiento de la medida impuesta colaborarán con el Juez de Ejecución de Medidas, con objeto de concretar los fines establecidos por esta ley.
 
 2. En ningún caso se podrán establecer responsabilidades al adolescente por el incumplimiento de las medidas impuestas, en virtud de la falta de apoyo de la persona o institución obligada a acompañar el cumplimiento de dichas medidas.
 
@@ -1157,7 +1161,9 @@ d) Restricción de la libertad, bajo alguna de las siguientes modalidades:
 
 1. El Secretario de Seguridad Pública, con base en el dictamen del área competente de la Dirección de Reintegración Social y Familiar de Adolescentes, deberá revisar las medidas impuestas a solicitud de parte o de oficio, por lo menos una vez cada tres meses.
 
-2. Con base en esa revisión, el Secretario de Seguridad Pública podrá hacer cesar las medidas impuestas, modificarlas o sustituirlas por otras menos severas, cuando no cumplan con los objetivos para las que fueron dispuestas o sean contrarias al proceso de reintegración social del adolescente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+2. Con base en esa revisión que se haga, el Juez de Ejecución de Medidas podrá hacer cesar las medidas impuestas, modificarlas o sustituirlas por otras menos severas, cuando no cumplan con los objetivos para las que fueron dispuestas o sean contrarias al proceso de reintegración social del adolescente.
 
 ### CAPITULO II. Medidas no privativas de libertad
 
@@ -1209,11 +1215,15 @@ d) Restricción de la libertad, bajo alguna de las siguientes modalidades:
 
 2. El Juez sólo podrá imponer esta medida cuando la víctima u ofendido haya dado su consentimiento y el adolescente con sus padres, tutores o representantes, hayan manifestado su acuerdo.
 
-3. El órgano a cargo de la ejecución de la medida podrá considerarla cumplida cuando se haya restaurado a la víctima u ofendido en la mejor forma posible.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+3. El Juez de Ejecución de Medidas podrá considerarla cumplida cuando se haya restaurado a la víctima u ofendido en la mejor forma posible.
 
 4. La restauración a la víctima excluirá la indemnización civil por responsabilidad objetiva por el hecho ilícito y sustituye a la reparación del daño.
 
-5. Para la sustitución de la restauración a la víctima por una suma de dinero, éste deberá ser fruto del esfuerzo propio del adolescente. Se buscará, cuando esta sustitución proceda, que no provoque un traslado de su responsabilidad personal hacia sus padres, tutores o representantes. En caso de que proceda la sustitución y el Juez no la haya determinado en su sentencia, deberá valorar los daños causados a la víctima u ofendido, con el fin de fijar el monto a pagar.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+5. Para la sustitución de la restauración a la víctima por una suma de dinero, éste deberá ser fruto del esfuerzo propio del adolescente. Se buscará, cuando esta sustitución proceda, que no provoque un traslado de su responsabilidad penal hacia sus padres, tutores o representantes. En caso de que proceda la sustitución y el Juez del proceso no la haya determinado en su sentencia, el Juez de Ejecución de Medidas lo hará, para lo cual deberá valorar los daños causados a la víctima u ofendido, con el fin de fijar el monto a pagar.
 
 ###### Artículo 136.
 
@@ -1221,9 +1231,11 @@ d) Restricción de la libertad, bajo alguna de las siguientes modalidades:
 
 2. En la participación de organismos sin fines de lucro donde los adolescentes presten servicio a la comunidad, tendrán preferencia los programas comunitarios del lugar de origen o domicilio del adolescente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 137.
 
-En los casos en que el adolescente incumpla reiterada e injustificadamente, con la medida impuesta en los términos de esta ley, la Dirección de Reintegración Social y Familiar de Adolescentes se dirigirá a la autoridad judicial para que resuelva respecto del incumplimiento y, en su caso, imponga medidas más severas.
+En los casos en que el adolescente incumpla reiterada e injustificadamente, con la medida impuesta en los términos de esta ley, la Dirección de Reintegración Social y Familiar de Adolescentes se dirigirá al Agente del Ministerio Público Adscrito para que éste solicite al Juez de Ejecución de Medidas, resuelva respecto del incumplimiento oyendo a las partes.
 
 ### CAPITULO III. Medidas restrictivas de la libertad
 
@@ -1289,9 +1301,11 @@ j) Lesiones (Artículo 319 en relación con el artículo 322 fracción III).
 
 3. Al ejecutar una medida de internamiento en un Centro de Reintegración Social y Familiar para Adolescentes, se deberá computar el período de detención provisional al que hubiere sido sometido el adolescente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 142.
 
-Al cumplimiento de la mitad de la medida de internamiento que hubiere sido impuesta, la Dirección de Reintegración Social y Familiar de Adolescentes deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervise la ejecución, la posibilidad de sustituirla por otra menos severa, en función del cumplimiento de los objetivos trazados en el programa individual de ejecución.
+Al cumplimiento de la mitad de la medida de internamiento que hubiere sido impuesta, la Dirección de Reintegración Social y Familiar de Adolescentes deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervise la ejecución, debiendo comunicarlo al Juez de Ejecución de Medidas quien podrá sustituirla por otra menos severa, en función del cumplimiento de los objetivos trazados en el programa individual de ejecución.
 
 ### CAPITULO IV. Ejecución y cumplimiento de las medidas impuestas
 
@@ -1357,9 +1371,13 @@ VII.- Recibir los servicios de salud, de educación y otras asistencias sociales
 
 VIII.- Recibir información y participar activamente en la elaboración e implementación del programa individual de ejecución de la medida de tratamiento impuesta y a ser ubicado en un lugar apto para su cumplimiento;
 
-IX.- Tener garantizado el derecho de defensa técnica durante toda la etapa de ejecución y mantener comunicación continúa y privada con su familia y su defensor, así como con el Ministerio Público y el Juez;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
 
-X.- Presentar peticiones ante cualquier autoridad y que se le garantice la respuesta, incluyendo los incidentes que promueva mediante el defensor ante el órgano a cargo de la ejecución de las medidas impuestas;
+IX. Tener garantizado el derecho de defensa técnica durante toda la etapa de ejecución y mantener comunicación continua y privada con su familia y su defensor, así como con el Ministerio Público y el Juez de Ejecución de Medidas;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+
+X. Presentar peticiones ante cualquier autoridad y que se le garantice la respuesta, incluyendo los incidentes que promueva mediante el defensor ante el Juez de Ejecución de Medidas y del órgano a cargo de su cumplimiento;
 
 XI.- Estar separado de los adolescentes que se hallen en una situación jurídica distinta, de tal suerte que no se encuentren en un mismo espacio de convivencia quienes cumplan una medida de detención provisional y quienes hayan sido declarados responsables de la comisión de una conducta considerada como delito por las leyes; ni en ambos casos con personas que tuvieren más de dieciocho años al momento de cometer el ilícito penal que se les imputa o por el que hayan sido sentenciados;
 
@@ -1425,7 +1443,9 @@ El Centro de Reintegración Social y Familiar para Adolescentes deberá procurar
 
 ###### Artículo 155.
 
-1. Dentro del primer mes de ejecución de la medida de internamiento, el Director del Centro de Reintegración Social y Familiar para Adolescentes, en coordinación con el equipo multidisciplinario, enviará al Juez que impuso esa medida, el programa individual de ejecución que corresponda al adolescente sujeto a internamiento.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+1. Dentro del primer mes de ejecución de la medida de internamiento, el Subdirector del Centro de Reintegración Social y Familiar para Adolescentes, en coordinación con el equipo multidisciplinario, enviará al Juez que impuso esa medida, o en su caso, al Juez de Ejecución de Medidas, el programa individual de ejecución que corresponda al adolescente sujeto a internamiento.
 
 2. El incumplimiento de estas obligaciones será considerado desacato a la autoridad judicial, sin perjuicio de otras sanciones administrativas y penales que pudieren corresponder.
 
@@ -1467,7 +1487,9 @@ III. Elaborar el programa individual de ejecución de las medidas impuestas a ca
 
 IV. Hacer cumplir las medidas impuestas en los términos determinados por la sentencia y el programa individual de ejecución;
 
-V. Proponer al Secretario de Seguridad Pública la modificación de la sanción impuesta al adolescente, cuando sea pertinente de acuerdo a lo dispuesto por la presente ley;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+V. Informar al Juez de Ejecución de Medidas sobre los avances en el cumplimiento de las medidas impuestas al adolescente, para los efectos del artículo 129, párrafo 2, de esta ley;
 
 VI. Presentar al Secretario de Seguridad Pública un informe semestral de las actividades realizadas por cada uno de los Centros para la Reintegración Social y Familiar de los Adolescentes y elaborar los informes que le correspondan de conformidad con esta ley;
 
@@ -1547,9 +1569,13 @@ IV. Las demás que le confieran las leyes y reglamentos.
 
 ###### Artículo 163.
 
-1. Cada Centro de Reintegración Social y Familiar para Adolescente estará a cargo de un Director, designado por el Secretario de Seguridad Pública, previo acuerdo del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-2. El Director del Centro es el responsable de ordenar y coordinar a su personal y tiene las atribuciones siguientes:
+1. Cada Centro de Reintegración Social y Familiar para Adolescentes estará a cargo de un Subdirector, designado por el Secretario de Seguridad Pública, previo acuerdo del Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+
+2. El Subdirector del Centro es el responsable de ordenar y coordinar a su personal y tiene las atribuciones siguientes:
 
 I. Llevar a cabo la retención en los casos de adolescentes detenidos en flagrancia, hasta el momento en que se resuelva sobre la situación jurídica del adolescente en el proceso;
 
@@ -1809,19 +1835,23 @@ II. Se actualicen los supuestos del recurso de revisión.
 
 3.- Quien conozca de este recurso y mientras se resuelve el mismo, dispondrá, en su caso, las medidas precautorias necesarias para salvaguardar los derechos y garantías del adolescente.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 191.
 
-Contra las resoluciones dictadas por la Dirección de Reintegración Social y Familiar del Adolescente o el Centro de Reintegración Social y Familiar para el Adolescente que vulneren los derechos y garantías de los adolescentes, o bien contra la falta de respuesta a una queja presentada en los términos del artículo anterior, procederá el recurso de reclamación ante la autoridad judicial de primera instancia.
+Contra las resoluciones dictadas por la Dirección de Reintegración Social y Familiar de Adolescentes o el Centro de Reintegración Social y Familiar para Adolescentes que vulneren los derechos y garantías de los adolescentes, o bien contra la falta de respuesta a una queja presentada en los términos del artículo anterior, procederá el recurso de reclamación ante el Juez de Ejecución de Medidas.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### Artículo 192.
 
-1. El recurso de reclamación deberá interponerse por escrito ante el Juez, quien si lo considera procedente, convocará dentro de los tres días siguientes a una audiencia a la que deberán concurrir el adolescente y su defensor, sus padres, tutores o representantes, en su caso, y la autoridad ejecutora señalada como responsable, quienes harán una breve presentación de sus posiciones y argumentaciones.
+1. El recurso de reclamación deberá interponerse por escrito ante el Juez de Ejecución de Medidas, quien, si lo considera procedente, convocará dentro de los tres días siguientes a una audiencia a la que deberán ocurrir el adolescente y su defensor, sus padres, tutores o representantes, en su caso, y la autoridad ejecutora señalada como responsable, quienes harán breve presentación de sus posiciones y argumentaciones.
 
-2. Una vez que haya oído a quienes intervengan conforme al párrafo anterior, el Juez resolverá de inmediato.
+2. Unas vez que haya oído a quienes intervengan conforme al párrafo anterior, el Juez de Ejecución de Medidas resolverá de inmediato.
 
-3. Previo a la celebración de la audiencia prevista en el párrafo 1 de este artículo, el Juez podrá ampliar su conocimiento sobre la reclamación y fortalecer los sustentos de su resolución.
+3. Previo a la celebración de la audiencia prevista en el párrafo 1 de éste artículo, el Juez de Ejecución de Medidas podrá ampliar su conocimiento sobre la reclamación y fortalecer los sustentos de su resolución.
 
-4. Si la autoridad ejecutora no envía los informes solicitados o no comparece a la audiencia, el Juez tendrá por ciertos los hechos materia del recurso y resolverá en consecuencia.
+4. Si la autoridad ejecutora no envía los informes solicitados o no comparece a la audiencia, el Juez de Ejecución de Medidas tendrá por ciertos los hechos materia del recurso y resolverá en consecuencia.
 
 #### Sección V. Revisión
 
@@ -1837,7 +1867,9 @@ III. La sentencia condenatoria haya sido pronunciada a consecuencia de cohecho, 
 
 IV. Después de la sentencia sobrevengan hechos nuevos o elementos de prueba que solos o unidos a los ya examinados en el proceso, hagan evidente que el hecho no existió, que el adolescente no lo cometió, que el hecho no es punible o que corresponde aplicar una disposición legal o jurisprudencia más favorable al adolescente.
 
-2. El Director de Reintegración Social y Familiar del Adolescente procederá de oficio a sustanciar el recurso de revisión, cuando el hecho que motivó la sentencia no sea punible o corresponda aplicar una disposición legal o jurisprudencia más favorable al adolescente, en los términos de la parte final de la fracción IV del párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+2. Cuando la autoridad administrativa o jurisdiccional advierta que el hecho que motivó la sentencia no sea punible o corresponda aplicar una disposición legal o jurisprudencia más favorable al adolescente, en los términos de la parte final de la fracción IV del párrafo anterior, informará de inmediato a la Sala Especializada en Justicia para Adolescentes del Supremo Tribunal de Justicia, para que proceda a sustanciar el recurso de oficio.
 
 ###### Artículo 194.
 
@@ -1847,9 +1879,11 @@ I. El adolescente o su defensor; y
 
 II. El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 195.
 
-La revisión se promoverá por escrito ante la Sala Especializada en Justicia para Adolescentes del Supremo Tribunal de Justicia y deberá contener la referencia específica de las razones en que se basa y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales necesarias para acreditar la procedencia de la revisión.
+La revisión se promoverá por escrito ante el Juez de Ejecución de Medidas y deberá contener la referencia específica de las razones en que se basa y las disposiciones legales aplicables. Junto con el escrito se ofrecerán las pruebas y se acompañarán las documentales necesarias para acreditar la procedencia de la revisión.
 
 ###### Artículo 196.
 
@@ -1894,3 +1928,13 @@ P.O. 27 DE DICIEMBRE DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos iniciados con las disposiciones que mediante el presente Decreto, fueron reformados o adicionados, deberán concluirse por la autoridad administrativa, con el procedimiento mediante el cual fueron iniciados, salvo las cuestiones que, a petición de parte, antes resolvía el juez de la causa, que ahora corresponderá conocer al Juez de Ejecución de Medidas.
