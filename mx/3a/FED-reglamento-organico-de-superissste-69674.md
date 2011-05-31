@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-superissste-69674"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-21"
-last_updated: "2009-08-21"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-06-29"
 
 REGLAMENTO ORGANICO DE SUPERISSSTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DEL SUPERISSSTE, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 21 de agosto de 2009.
 
@@ -768,3 +770,13 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 29 de junio de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 31 DE MAYO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el acuerdo 59.1318.2009 de la Junta Directiva por el que se aprueba el Reglamento Orgánico del SuperISSSTE.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento.
