@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-consumo-de-sustancias-77698"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2010-12-29"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-20"
 
 LEY PARA LA ATENCION INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de diciembre de 2010.
 
@@ -368,21 +368,37 @@ XIII. Instituto del Deporte;
 
 XIV. Instituto de las Mujeres;
 
-XV. Sistema para del Desarrollo Integral de la Familia;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
-XVI. 16 Delegaciones, y
+XV. Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
 
-XVII. Un representante de la Asamblea Legislativa del Distrito Federal, nombrado por su Pleno a propuesta de la Comisión de Salud y Asistencia Social.
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
+XVI. Sistema para del Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
+
+XVII. 16 Delegaciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE MAYO DE 2011)</small>
+
+XVIII. Un representante de la Asamblea Legislativa del Distrito Federal, nombrado por su Pleno a propuesta de la Comisión de Salud y Asistencia Social.
 
 Las personas titulares asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
+
+(REFORMADO [N.DE E. ADICIONADO], G.O. 31 DE MAYO DE 2011.
+
+La Secretaría Técnica del Consejo, recaerá en la Secretaría de Salud, o bien, en el órgano que para tal efecto designe su titular.
 
 ###### Artículo 20.
 
 El Jefe de Gobierno emitirá los lineamientos de operación del Consejo Interdependencial.
 
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
+
 ###### Artículo 21.
 
-Las y los titulares de los órganos político administrativos dispondrán de las medidas administrativas para la conformación de un Consejo Delegacional para la Atención Integral del Consumo de Sustancias Psicoactivas conforme a las disposiciones referidas al Consejo Interdependencial.
+Las y los titulares de los órganos político administrativos dispondrán de las medidas administrativas para la conformación de un Consejo Delegacional para la Atención Integral del Consumo de Sustancias Psicoactivas, del cual será integrante el Director del Instituto o la persona que para tal efecto designe.
 
 ## TÍTULO TERCERO. DE LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS
 
@@ -882,7 +898,9 @@ VIII. Procuraduría General de Justicia.
 
 Los titulares serán los encargados de asistir a las reuniones del Consejo Directivo, pudiendo designar a una persona suplente que no podrá tener nivel inferior al de Director General.
 
-El Consejo Directivo, invitará a participar en sus sesiones a titulares de Dependencias federales, así como instituciones académicas, investigadores y organizaciones sociales relacionadas con el objeto de la presente Ley.
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
+
+El Consejo Directivo, invitará a participar en sus sesiones al titular del Instituto, así como a titulares de Dependencias federales, instituciones académicas, investigadores y organizaciones sociales relacionadas con el objeto de la presente Ley.
 
 En las sesiones del Consejo Directivo en que se aborden temas relativos a la inversión y gasto, programas y acciones específicas a aplicarse y desarrollarse en las demarcaciones territoriales en que se divide el Distrito Federal, se invitará a las y los Jefes Delegacionales respectivos, para que emitan su opinión.
 
@@ -1161,3 +1179,9 @@ Artículo Séptimo. Las y los titulares de los órganos político administrativo
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 31 DE MAYO DE 2011.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
