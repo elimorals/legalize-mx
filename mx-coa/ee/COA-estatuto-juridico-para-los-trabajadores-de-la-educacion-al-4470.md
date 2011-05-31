@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-4470
 country: "mx"
 rank: "estatuto"
 publication_date: "1961-03-29"
-last_updated: "2007-07-31"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES DE LA EDUCACION AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
 
 Estatuto Jurídico publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 29 de marzo de 1961.
 
@@ -201,6 +201,10 @@ Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadam
 
 Durante la lactancia tendrán dos descansos extraordinarios por día, media hora cada uno para amamantar a sus hijos.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+En caso de adopción la madre trabajadora tendrá derecho a una licencia por maternidad por 6 semanas a partir de la resolución judicial que la establezca.
+
 ###### ARTICULO 25o.
 
 Serán días de descanso obligatorio los que señale el calendario oficial.
@@ -314,6 +318,12 @@ VIII.- Conceder licencia a sus trabajadores, para el desempeño de las comisione
 Las licencias abarcarán todo el período para que hayan sido electos y éste se computará como efectivo dentro del escalafón.
 
 IX.- Hacer las deducciones que solicite la Sección Sindical siempre que se ajusten a los términos de esta Ley (sic).
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2011)</small>
+
+X.- Conceder licencia por paternidad por 10 días laborales con goce de sueldo al cónyuge o concubino varón, contados a partir del nacimiento o adopción de un hijo. El trabajador deberá comprobar conforme a la legislación aplicable que estos hechos ocurrieron. No se tendrá derecho a esta licencia si el trabajador no cohabita con la madre del recién nacido. La cohabitación será requisito para obtener esta licencia en el caso de que la adopción se otorgue.
+
+En caso de aborto no punible en términos de la legislación penal, se concederá al esposo o concubino, con goce de sueldo, licencia por los 2 días laborales inmediatos posteriores al hecho, previa presentación de los documentos que lo acrediten.
 
 ### CAPITULO QUINTO.
 
@@ -916,3 +926,7 @@ P.O. 31 DE JULIO DE 2007.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE MAYO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
