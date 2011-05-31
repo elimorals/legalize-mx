@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2011-05-03"
+last_updated: "2011-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -63,7 +63,9 @@ d).- La de juicio, donde el Ministerio Público precisa su acción y el procesad
 
 II.- El procedimiento para inimputables, exceptuando a los menores de dieciocho años, el cual se regirá por la ley respectiva.
 
-III.- El procedimiento de ejecución de sanciones, sin perjuicio de lo dispuesto en la ley relativa a la readaptación social.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+
+III.- El procedimiento de ejecución de sanciones, sin perjuicio de lo dispuesto en la ley relativa a la reinserción social.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -255,9 +257,11 @@ En todo proceso penal la víctima o el ofendido por algún delito tendrá derech
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado por conducto del órgano que la Ley determine, ejecutará las sentencias pronunciadas por los tribunales hasta su cumplimiento, sin perjuicio de la concesión de los beneficios que la Ley señale, tendiente a la readaptación social de los delincuentes.
+El Ejecutivo del Estado por conducto del órgano que la ley determine, ejecutará las sentencias pronunciadas por los tribunales hasta su cumplimiento, sin perjuicio de la concesión de los beneficios que la ley señale, tendiente a la reinserción social del delincuente.
 
 ## TITULO PRIMERO. REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
@@ -270,6 +274,14 @@ En materia penal no cabe prórroga ni renuncia de competencia.
 ###### ARTICULO 12.
 
 Es Juez competente para juzgar de los hechos delictuosos y aplicar la sanción procedente, el del lugar donde se hubiere cometido el delito, salvo lo establecido en este Código, en el Código Penal y en la Ley Orgánica del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+La competencia del Juez de Ejecución de Sanciones es la prevista por la Ley Orgánica del Poder Judicial del Estado, excepto cuando el sentenciado se encuentre detenido, caso en el cual será competente el Juez de Ejecución de Sanciones del lugar donde se ubique el Centro de Ejecución de Sanciones en el que esté recluido, debiendo el mismo dar cumplimiento de las sanciones impuestas en una o más causas penales, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+Corresponde al Juez de Ejecución de Sanciones, en los casos de existir dos o más penas privativas de libertad contra el mismo reo, establecer a partir de cuándo empezará a computarse cada una de ellas en forma sucesiva y no simultánea, tomando como fundamento la fecha en que causen ejecutoria las sentencias de la más antigua a la más reciente.
 
 ###### ARTICULO 13.
 
@@ -923,11 +935,9 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2011)</small>
-
-Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; contra la seguridad de la comunidad previsto en el artículo 171 Quáter; ataques a los medios de transporte previsto por el artículo 174; las conductas previstas en el artículo 188 Bis; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; narcomenudeo en los casos de los artículos 204 Ter y 204 Quáter; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; sustracción y retención de menores por los padres cuando se realice en la circunstancia prevista en el párrafo tercero del artículo 301; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427, cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas; así como también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; contra la seguridad de la comunidad previsto en el artículo 171 Quáter; ataques a los medios de transporte previsto por el artículo 174; las conductas previstas en el artículo 188 Bis; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; narcomenudeo en los casos de los artículos 204 Ter y 204 Quáter; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; sustracción y retención de menores por los padres cuando se realice en la circunstancia prevista en el párrafo tercero del artículo 301; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el articulo 318 -Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; abandono de personas, cuando se trate de menores de 12 años, establecido en el párrafo tercero del artículo 363; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409, exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte, cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427, cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el articulo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas; así como también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
 
 (ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
 
@@ -3851,17 +3861,21 @@ La sentencia condenatoria será ejecutada por el propio Juez, ajustándose a las
 
 ### CAPITULO IX. SUSTITUCION DE SANCIONES
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 495 Bis.
 
-A petición de las partes, el Juez que conozca o hubiere conocido de la causa resolverá incidentalmente sobre cualquier cuestión relacionada con el otorgamiento, modificación, suspensión temporal, revocación y ejecución de las medidas sustitutivas de la pena de prisión. Dichos incidentes podrán promoverse antes y después de dictada la sentencia según el caso, y se substanciarán por separado y del modo siguiente:
+A petición de las partes, de la víctima u ofendido, el Juez que conozca de la causa o, en su caso, el Juez de Ejecución de Sanciones resolverá incidentalmente sobre cualquier cuestión relacionada con el otorgamiento, modificación, suspensión temporal, revocación y ejecución de las medidas sustitutivas de la pena de prisión. Dichos incidentes podrán promoverse antes y después de dictada la sentencia, en el primer caso lo resolverá el Juez de la Causa y en caso de sentencia ejecutoriada ante el Juez de Ejecución de Sanciones; se substanciarán por separado y del modo siguiente:
 
-I.- Con la promoción del Ministerio Público o de la autoridad ejecutora por conducto de aquél, o bien del procesado o sentenciado, se dará vista a la parte contraria para que conteste en un término máximo de ocho días;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+
+l.- Con la promoción de la parte interesada se dará vista a las demás partes, a la víctima u ofendido, y al defensor, si lo tuviere, de lo contrario se le nombrará uno público y para que manifiesten lo que a sus intereses convengan en un término máximo de ocho días;
 
 II.- Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de diez días; y
 
-III.- Concluidos dichos plazos se citará a las partes, a la víctima u ofendido y a los familiares del inculpado si tienen señalado domicilio en autos, para una audiencia dentro de los tres días siguientes, en la que el tribunal resolverá después de escuchar a los comparecientes. En caso de haberse promovido el incidente antes de la sentencia, la resolución incidental se reservará para dictarse conjuntamente con la definitiva.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+
+III.- Concluidos dichos plazos se citará a las partes, a la victima u ofendido y a los familiares del inculpado si tienen señalado domicilio en autos, para una audiencia oral dentro de los tres días siguientes, en la que el tribunal resolverá después de escuchar a los comparecientes y desahogadas las pruebas admitidas...(sic)
 
 Las partes podrán formular preguntas al inculpado en relación con sus circunstancias personales y familiares, a efecto de que el Juez tenga mejores elementos de juicio para la determinación de las modalidades del sustitutivo penal que, en su caso, se le puedan imponer, de encontrarlo culpable. De igual forma se escuchará a la víctima u ofendido y a los familiares del procesado que podrán acudir si lo desean, para lo cual deberá citárseles oportunamente.
 
@@ -3945,6 +3959,36 @@ No procederá recurso alguno contra cualquier auto o resolución distinta a los 
 
 La ejecución de las sentencias irrevocables en materia penal, corresponde al Poder Ejecutivo, salvo lo dispuesto en el Artículo 514.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+La modificación y duración de la sanción es propia y exclusiva de la autoridad judicial a través del Juez de Ejecución de Sanciones, el cual tendrá las atribuciones siguientes:
+
+I.- Dar por compurgadas las penas y medidas de seguridad impuestas por sentencia definitiva, decretando que las mismas han sido debidamente ejecutoriadas, en los términos en que la impuso el Juez de la Causa, ordenando la libertad de los sentenciados que las hubieren cumplido, restituyéndolos en el goce de sus derechos suspendidos;
+
+II.- Modificar las penas y medidas de seguridad impuestas por sentencia firme, en los términos que establezcan las leyes;
+
+III.- Conceder el otorgamiento o denegación de la terminación anticipada de las penas o medidas de seguridad impuestas en la sentencia definitiva;
+
+IV.- Solicitar a las autoridades carcelarias copias de la carpeta de ejecución de cada sentenciado, así como los informes que necesite para concederle o negarle la modificación o terminación anticipada de la pena o medida de seguridad impuesta;
+
+V.- Visitar periódicamente los Centros de Ejecución de Sanciones con los fines siguientes;
+
+a).- Entrevistarse con los internos para escuchar las solicitudes verbales que presenten; y
+
+b).- Realizar las diligencias para desahogar las pruebas o testimonios ofrecidos por la parte interesada y así estar en aptitud de conceder o negar la modificación o terminación anticipada de la pena o medida de seguridad impuesta al sentenciado;
+
+VI.- Resolver en audiencia oral, lo siguiente;
+
+a).- La modificación o terminación anticipada de las penas o medidas de seguridad impuestas en sentencia firme, o el otorgamiento de cualquier beneficio de libertad anticipada, libertad preparatoria, remisión parcial de la pena, libertad definitiva o alguna otra pena en externamiento; y
+
+b).- La revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, cuando proceda conforme a la ley;
+
+VII.- Hacer comparecer ante su presencia a los sentenciados y las autoridades de ejecución para cumplir con sus funciones:
+
+VIII.- Librar las órdenes de detención que procedan en ejecución de la sentencia, cuando le haya sido revocado algún beneficio; y
+
+IX.- Las demás atribuciones que este Código y otros ordenamientos le asignen.
+
 ###### ARTICULO 508.
 
 Los lugares en donde los reos deban extinguir las sanciones privativas de libertad, serán designados por el Ejecutivo.
@@ -3953,9 +3997,11 @@ Los lugares en donde los reos deban extinguir las sanciones privativas de libert
 
 En toda sentencia condenatoria se prevendrá que se amoneste al sentenciado para que no reincida, advirtiéndole las sanciones a que se expone, y de ello se extenderá diligencia, pero sin que la falta de esta obste para hacer efectivas las sanciones de la reincidencia y de la habitualidad.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 510.
 
-Pronunciada una sentencia condenatoria firme, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas para el Ejecutivo del Estado, para el Director General de Prevención y Auxilio, Medidas Tutelares y Readaptación Social, y para el Director o Alcaide del centro reclusorio donde el reo se encuentre internado o donde hubiere estado detenido.
+Pronunciada una sentencia condenatoria firme, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas para el Juez de Ejecución de Sanciones, para el Coordinador General de Reintegración Social y Ejecución de Sanciones, y para el Director del Centro donde el reo se encuentre internado o donde hubiere estado detenido.
 
 ###### ARTICULO 511.
 
@@ -3965,13 +4011,17 @@ Los Agentes del Ministerio Público comunicarán por escrito al Procurador de Ju
 
 El Tribunal estará obligado a tomar de oficio todas las providencias conducentes para que el reo sea puesto a disposición del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 513.
 
-Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en el Código Penal, en la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social y en los reglamentos respectivos.
+Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en el Código Penal, en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas y en los reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 514.
 
-La ejecución de la sentencia en lo relativo a la reparación del daño a cargo del delincuente, corresponde al Juez del proceso, ajustándose a las disposiciones de la Ley Procesal Civil a ese respecto.
+La ejecución de la sentencia en lo relativo a la reparación del daño a cargo del delincuente, corresponde al Juez de Ejecución de Sanciones, ajustándose a las disposiciones de la ley procesal civil a ese respecto.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -3983,9 +4033,11 @@ Cuando los tribunales decreten la pérdida en favor del Estado, de instrumentos 
 
 ### CAPITULO II. CONDENA CONDICIONAL
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 516.
 
-Las pruebas que se promuevan para acreditar los requisitos que exige el Artículo 112 del Código Penal para la concesión de la condena condicional, se podrán rendir tanto durante la instrucción como después de dictada la sentencia firme.
+Las pruebas para acreditar los requisitos que exige el Artículo 112 del Código Penal para la concesión de la condena condicional, después de dictada la sentencia firme se promoverán ante el Juez de Ejecución de Sanciones.
 
 ###### ARTICULO 517.
 
@@ -3995,9 +4047,11 @@ Al formular conclusiones el Ministerio Público o el defensor, si estiman proced
 
 Si el inculpado o su defensor no hubieren solicitado en sus conclusiones el otorgamiento del beneficio de la condena condicional y no se hubiere concedido de oficio, podrán solicitarla y rendir las pruebas respectivas, después de que la sentencia definitiva haya causado firmeza.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 519.
 
-Cuando por alguna de las causas que señala la Ley deba hacerse efectiva la sanción impuesta, el Tribunal que concedió la condena condicional, con audiencia del Ministerio Público, del reo y de su defensor, si fuera posible, procederá en vista de las pruebas existentes, a revocar el beneficio concedido, ordenando la ejecución de la sanción impuesta.
+Cuando por alguna de las causas que señala la Ley deba hacerse efectiva la sanción impuesta, el Juez de Ejecución de Sanciones, con audiencia del Ministerio Público, del reo y de su defensor, si fuera posible, procederá en vista de las pruebas existentes, a revocar el beneficio concedido, ordenando la ejecución de la sanción impuesta.
 
 ### CAPITULO III. RECONOCIMIENTO DE INOCENCIA E INDULTO
 
@@ -4051,9 +4105,11 @@ El Ejecutivo, en vista de los comprobantes a que se refiere el Artículo anterio
 
 La rehabilitación de los derechos civiles o políticos, no procederá mientras el reo esté extinguiendo la sanción privativa de libertad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 529.
 
-Si el reo hubiere extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el Artículo siguiente podrá ocurrir al Tribunal que haya dictado la sentencia firme, solicitando se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviese suspenso, para lo cual acompañará a su escrito relativo, los documentos siguientes:
+Si el reo hubiere extinguido ya la sanción privativa de libertad, o si ésta no le hubiere sido impuesta, pasado el término que señala el artículo siguiente, podrá ocurrir al Juez de Ejecución de Sanciones, solicitando se le rehabilite en los derechos de que se le privó, o en cuyo ejercicio estuviese suspenso, para lo cual acompañará a su escrito relativo, los documentos siguientes:
 
 I.- Un certificado expedido por la autoridad que corresponda que acredite haber extinguido la pena privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación, el reconocimiento de inocencia o indulto, en su caso; y,
 
@@ -4065,17 +4121,23 @@ Si la sanción impuesta al reo hubiere sido la de inhabilitación o suspensión 
 
 Si la inhabilitación o suspensión fuere por menos de seis años, el reo podrá solicitar su rehabilitación cuando haya extinguido la mitad de la sanción.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 531.
 
-Recibida la solicitud, el Tribunal, a instancia del Ministerio Público o de oficio, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
+Recibida la solicitud, el Juez de Ejecución de Sanciones, a instancia de las partes o de oficio, si lo creyere necesario, recabará informes más amplios para dejar perfectamente precisada la conducta del reo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 532.
 
-Recibidos los informes o si no se estimaren necesarios, el Tribunal decidirá dentro de tres días, oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. En el primer caso, remitirá las actuaciones originales con su informe al Ejecutivo, a efecto de que se resuelva en definitiva lo que fuere conveniente. Si se concediere la rehabilitación, se publicará en el Periódico Oficial; si se negare se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo, después de un año.
+Recibidos los informes o si no se estimaren necesarios, el Juez de Ejecución de Sanciones decidirá dentro de tres días, oyendo al Ministerio Público y al peticionario, si es o no fundada la solicitud. Si se concediere la rehabilitación, se publicará en el Periódico Oficial; si se negare se dejarán expeditos al reo sus derechos para que pueda solicitarla de nuevo, después de un año.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 533.
 
-Concedida la rehabilitación por el Ejecutivo, se comunicará la resolución al Tribunal correspondiente, para que haga la anotación respectiva en el proceso.
+Concedida la rehabilitación por el Juez de Ejecución de Sanciones, se hará la anotación respectiva en el expediente y se comunicará la resolución al Ejecutivo.
 
 ###### ARTICULO 534.
 
@@ -4087,7 +4149,13 @@ Al que una vez se le hubiere concedido la rehabilitación, no se le podrá conce
 
 A petición del sentenciado, de su defensor o de oficio, el Juez podrá conmutar por una multa, la sanción de prisión no mayor de dos años que se imponga.
 
-En la sentencia deberá fijarse la sanción de prisión que procediera y fundarse y razonarse la conmutación que se decrete, apreciando las condiciones personales del condenado y las económicas para fijar el monto de la multa a que se refiere el Artículo 108 del Código Penal.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+En la sentencia se podrá conceder este beneficio y deberá fijarse la sanción de prisión que procediera o en vía incidental ante el Juez de Ejecución de Sanciones, una vez que se trate de sentencia condenatoria firme, debiéndose fundar y razonar la conmutación que se decrete, apreciando las condiciones personales del sentenciado y las económicas para fijar el monto de la multa a que se refiere el artículo 108 del Código Penal, excepto que en la sentencia se haya declarado inconmutable.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+El Juez de Ejecución de Sanciones podrá modificar a favor del sentenciado el beneficio de la conmutación concedida en sentencia, tomando en consideración el tiempo transcurrido desde su concesión, abonando los días que haya permanecido en prisión posteriores al dictado de la sentencia, o circunstancias posteriores que deban motivar su modificación.
 
 ###### ARTICULO 536.
 
@@ -4676,3 +4744,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En los supuestos del delito de narcomenudeo, que se adicionan en el presente Decreto, el artículo 109 del Código de Procedimientos Penales para el Estado de Tamaulipas, su entrada en vigor será hasta el 21 de agosto de 2012.
+
+P.O. 31 DE MAYO DE 2011.
+
+DECRETO No. LXI-43 POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 FRACCIÓN III, 10, 495 BIS PÁRRAFO PRIMERO Y LAS FRACCIONES I Y III, 510, 513, 514, 516, 519, 529 PÁRRAFO PRIMERO, 531, 532, 533 Y 535 PÁRRAFO SEGUNDO; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 12, UN SEGUNDO PÁRRAFO Y LAS FRACCIONES DE LA I A LA IX DEL ARTÍCULO 507, Y UN TERCER PÁRRAFO DEL ARTÍCULO 535, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron, salvo las cuestiones que, a petición de parte, antes resolvía el juez de la causa, que ahora corresponderá conocer al Juez de Ejecución de Sanciones.
+
+P.O. 31 DE MAYO DE 2011.
+
+DECRETO No. LXI-44 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 109 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
