@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2011-05-03"
+last_updated: "2011-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -201,9 +201,11 @@ Cuando una nueva ley deje de considerar un determinado hecho como delictuoso, se
 
 Tratándose de medidas de seguridad se estará, en lo pertinente, a lo dispuesto en los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 12.
 
-Es competencia del Ejecutivo resolver los casos de condenados por sentencia firme previstos en este capítulo.
+Es competencia del Juez de Ejecución de Sanciones resolver sobre la modificación y la duración de las penas impuestas por sentencia firme previstos en este capítulo.
 
 ### CAPITULO IV. AMBITO PERSONAL
 
@@ -551,19 +553,17 @@ p).- Las demás que fijen las leyes.
 
 Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 46.
 
-La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción readaptadora.
+La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción readaptadora.
 
 En toda pena de prisión que se imponga por sentencia, se computará el tiempo de la detención preventiva.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-###### ARTICULO 46 Bis.
-
-Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
+ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
 
 I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
 
@@ -913,7 +913,7 @@ La reparación del daño a que se refiere el Artículo 47 fracción II, será fi
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-Tratándose de los delitos contra la vida y la salud de las personas, la reparación del daño se determinará conforme a las siguientes bases:
+Tratándose de los delitos contra la vida y la salud de las personas, la reparación del daño se determinará a las siguientes bases:
 
 a).- Cuando el delito produzca en la víctima una incapacidad temporal, la indemnización comprenderá las prestaciones a que se refieren los Artículos 487 y 491 de la Ley Federal del Trabajo.
 
@@ -1033,19 +1033,23 @@ Tratándose de alcohólicos, toxicómanos, débiles mentales o degenerados que h
 
 ### CAPITULO XII. MEDIDAS DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 107.
 
-Las medidas de vigilancia definidas en el segundo párrafo del artículo 68, deberán ser cumplidas estrictamente, salvo en los casos en que exista imposibilidad, y será la autoridad a quien corresponde su ejecución resolver sobre la petición de no residir en determinado sitio.
+Las medidas de vigilancia definidas en el segundo párrafo del artículo 68 deberán ser cumplidas estrictamente, salvo en los casos en que exista imposibilidad, y será al Juez de Ejecución de Sanciones a quien le corresponda resolver sobre la petición de no residir en determinado sitio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1999)</small>
 
 ### CAPITULO XIII. SUSTITUCION Y CONMUTACION DE SANCIONES
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 108.
 
-La pena de prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto por el artículo 69 de este Código, en los términos siguientes:
+La pena de prisión podrá ser sustituida, a juicio del Juez de la Causa o del Tribunal de Segunda Instancia al dictarse la resolución definitiva, apreciando lo dispuesto por el artículo 69 de este Código, y, una vez que la sentencia esté firme, por el Juez de Ejecución de Sanciones, en los términos siguientes:
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
 I.- Cuando la pena de prisión impuesta sea superior a cuatro años y no exceda de cinco años, se podrá aplicar:
 
@@ -1061,6 +1065,8 @@ d).- Las actividades obligadas que con el número 10 se refieren en el inciso b)
 
 El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior.
 
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
 II.- Cuando la pena de prisión impuesta no exceda de cuatro años, se podrá sustituir por:
 
 a).- Trabajo en favor de la comunidad equivalente al tiempo de la condena;
@@ -1075,9 +1081,13 @@ El Juez, al decretar la substitución, forzosamente impondrá todas las penas, m
 
 Para la procedencia de los sustitutivos mencionados en las fracciones I y II anteriores será necesario que el sentenciado opte por ellos y acredite la disponibilidad de la institución donde prestará sus servicios de carácter laboral.
 
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
 III.- Cuando la pena de prisión impuesta no exceda de tres años, se podrá sustituir por el régimen especial de libertad, observándose lo siguiente:
 
-a).- Para decidir e individualizar judicialmente el sustitutivo de régimen especial en libertad y determinar qué aspectos de los derechos del sentenciado se suspenderán y restringirán de conformidad a lo señalado en el párrafo precedente y el inciso siguiente, el Juez tomará en cuenta la naturaleza del delito, el bien jurídico lesionado y las circunstancias de hecho y personales del sentenciado, de tal modo que la suspensión que se decrete esté razonablemente relacionada con éstas, sirva asimismo como sanción y a la vez como medida preventiva y readaptadora que garantice el interés social;
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+a).- Para decidir e individualizar judicialmente el sustitutivo de régimen especial en libertad y determinar qué aspectos de los derechos del sentenciado se suspenderán y restringirán de conformidad a lo señalado en el párrafo precedente y el inciso siguiente, el Juez tomará en cuenta la naturaleza del delito, el bien jurídico lesionado y las circunstancias de hecho y personales del sentenciado, de tal modo que la suspensión que se decrete esté razonablemente relacionada con éstas, sirva asimismo como sanción y a la vez como medida preventiva y de reinserción que garantice el interés social;
 
 b).- En el caso de la modalidad consistente en la suspensión parcial o total de derechos, ésta podrá referirse a uno o la combinación de los aspectos siguientes:
 
@@ -1111,6 +1121,8 @@ d).- La duración del régimen especial en libertad será la misma que la de san
 
 e).- Son aplicables al sustitutivo del régimen especial en libertad, las previsiones relativas a la duración, extinción y revocación señaladas en las fracciones VII y VIII de este artículo; y
 
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
 IV.- Las penas sustitutivas a que se refieren las fracciones anteriores se aplicarán independientemente de las medidas educativas, laborales y curativas siguientes:
 
 a).- Recibir educación básica, entendiendo por ésta, la primaria y secundaria obligatorias para quienes no la tuvieren terminada;
@@ -1119,9 +1131,11 @@ b).- Recibir capacitación para el trabajo y cursos de especialización en su á
 
 c).- Someterse a tratamiento terapéutico contra vicios, adicciones y enfermedades físicas o mentales que el Órgano de Ejecución aconseje o que el Juez considere adecuado de conformidad con los datos que obren en la causa.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva. El Órgano de Ejecución tendrá obligación de proporcionar al Juez, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda.
+Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva. El Órgano de Ejecución tendrá obligación de proporcionar al Juez de Ejecución de Sanciones, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
 V.- Para la aplicación de penas sustitutivas se requerirá, además, que:
 
@@ -1131,25 +1145,33 @@ b).- El sujeto no haya sido condenado anteriormente en sentencia ejecutoriada po
 
 c).- En su caso, pague o garantice el monto de la reparación del daño, en cualquiera de las formas previstas en las fracciones I a IV del artículo 401 del Código de Procedimientos Penales del Estado.
 
-Si la sentencia condena a la reparación del daño, pero sin fijar su monto en cantidad líquida, se aplicará desde luego el sustitutivo correspondiente si el sentenciado se encuentra detenido, quedando obligado a que, una vez hecha la liquidación, cubra el monto o garantice su pago, o se someta a las condiciones que se le fijen para pagarlo dentro del plazo o plazos que prudentemente fije el Juez. Si el sentenciado no satisface la obligación que en ese sentido le fuere impuesta y no acredita su imposibilidad para hacerlo dentro del plazo otorgado, se le revocará la sustitución concedida y se ordenará su aprehensión o reaprehensión, para que se ejecute la pena de prisión, en los términos del último párrafo del inciso b) de la fracción VIII de este artículo.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-Si el sentenciado no se encuentra detenido y se hubiere otorgado caución para reparar el daño, ésta se hará efectiva en las garantías exhibidas, lo anterior sin perjuicio de ulterior liquidación y pago de la diferencia resultante, que de no ser cubierta en el plazo o plazos que prudentemente fije el Juez y no acredite su imposibilidad para hacerlo dentro del plazo otorgado, motivará la revocación del sustitutivo concedido y se ordenará la aprehensión o reaprehensión en los términos del párrafo anterior;
+Si la sentencia condena a la reparación del daño, pero sin fijar su monto en cantidad líquida, se aplicará desde luego el sustitutivo correspondiente si el sentenciado se encuentra detenido, quedando obligado a que, una vez hecha la liquidación, cubra el monto o garantice su pago, o se someta a las condiciones que se le fijen para pagarlo dentro del plazo o plazos que prudentemente fije el Juez de Ejecución de Sanciones. Si el sentenciado no satisface la obligación que en ese sentido le fuere impuesta y no acredita su imposibilidad para hacerlo dentro del plazo otorgado, se le revocará la sustitución concedida y dicho Juez ordenará su aprehensión o reaprehensión, para que se ejecute la pena de prisión, en los términos del último párrafo del inciso b) de la fracción VIII de este artículo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+Si el sentenciado no se encuentra detenido y se hubiere otorgado caución para reparar el daño, ésta se hará efectiva en las garantías exhibidas, lo anterior sin perjuicio de ulterior liquidación y pago de la diferencia resultante, que de no ser cubierta en el plazo o plazos que prudentemente fije el Juez de Ejecución de Sanciones y no acredite su imposibilidad para hacerlo dentro del plazo otorgado, motivará la revocación del sustitutivo concedido y se ordenará la aprehensión o reaprehensión en los términos del párrafo anterior;
 
 d).- La pena de prisión que no se estime como más adecuada que el sustitutivo. El sustitutivo se estimará como más adecuado que la pena de prisión, salvo que en atención a las circunstancias personales del sentenciado y a su comportamiento previo o en relación al proceso, se desprendan motivos razonables por los que el órgano jurisdiccional considere preferible la de prisión, para cumplir los fines de readaptación social; y
 
 e).- Otorgue caución para asegurar su presentación cuantas veces sea llamado por la autoridad.
 
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
+
 VI.- Como medidas de seguridad, cuando se aplique una pena sustitutiva, el sentenciado tendrá las siguientes obligaciones:
 
 a).- No podrá cambiar de residencia, sin autorización de la autoridad judicial;
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-b).- Comparecer ante el Juez de la causa y ante la dependencia del Ejecutivo a la que corresponda la ejecución de la sanción privativa de la libertad, cuantas veces sea requerido, e informar a este mensualmente y por escrito, sobre el cumplimiento de la pena sustitutiva, adjuntando las constancias que así lo acredite.
+b).- Comparecer ante el Juez de Ejecución de Sanciones y ante la dependencia del Ejecutivo a la que corresponda la ejecución de sanción privativa de la libertad, cuantas veces sea requerido, e informar a éste mensualmente y por escrito, sobre el cumplimiento de la pena sustituida, adjuntando las constancias que así lo acredite.
 
 c).- Deberá observar una actitud de respeto hacia la comunidad y de estricto cumplimiento a las leyes.
 
-Tanto el Código de Procedimientos Penales como la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado, en lo conducente, reglamentarán las formas en que deberá cumplirse, por el sujeto, con los informes y constancias mensuales.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
+
+Tanto el Código de Procedimientos Penales como la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas, en lo conducente, reglamentarán las formas en que deberá cumplirse, por el sujeto, con los informes y constancias mensuales.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -1157,13 +1179,23 @@ De los informes y constancias que reciba el órgano encargado de la ejecución s
 
 VII.- La duración de las sanciones de prisión intermitente y de trabajo en favor de la comunidad, será la misma que la de la sanción de privación de la libertad a la que sustituye, fijada previamente por el juzgador según sus equivalencias.
 
-Si el sentenciado cumple a satisfacción con la sanción sustitutiva, el Juez, al transcurrir su término y previos los informes de las instituciones públicas y privadas, declarará extinguida la sanción sustituida.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-VIII.- El Juez, a petición del Ministerio Público, podrá dejar sin efecto la sustitución y ordenará la aprehensión o reaprehensión del sentenciado, para que se ejecute la pena de prisión impuesta, en los casos siguientes:
+Si el sentenciado cumple a satisfacción con la sanción sustitutiva, el Juez de Ejecución de Sanciones, al transcurrir su término y previos los informes de las instituciones públicas y privadas, declarará extinguida la sanción sustituida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+
+VIII.- El Juez de Ejecución de Sanciones, a petición del Ministerio Público, podrá dejar sin efecto la sustitución y ordenará la aprehensión o reaprehensión del sentenciado, para que se ejecute la pena de prisión impuesta, en los casos siguientes:
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 a).- Cuando al sentenciado se le condene por otro delito doloso o preterintencional;
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
 b).- Cuando el sentenciado incumpla con cualquiera de las condiciones o medidas de seguridad y actividades que le fueron impuestas; y
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al sustitutivo.
 
@@ -1171,17 +1203,17 @@ c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al 
 
 La victima o el ofendido tendrá legitimación para acudir ante el Ministerio Público y la autoridad ejecutora e informarles sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutivas.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución donde las decida a la Secretaría General de Gobierno para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutas deberá informarlo a la Dependencia dicha para que a su vez lo comunique al Juez de la causa.
+Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución a la Secretaría de Seguridad Pública para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutivas deberá informarlo a dicha dependencia para que a su vez lo comunique al Juez de Ejecución de Sanciones.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
 Para la revocación o modificación de las condiciones o medidas del sustitutivo, o su sustitución por otro, al igual que para su concesión, si no se otorgó en sentencia, se estará al incidente respectivo previsto en el Código de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
-Si se revocaren las penas sustitutivas, el Juez dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado en virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
+Si se revocaren las penas sustitutivas, el Juez de Ejecución de Sanciones dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado en virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -1201,9 +1233,11 @@ Los Jueces, apreciando las circunstancias personales del culpable, los móviles 
 
 Este beneficio excluye la aplicación simultánea o sucesiva de la condena condicional, salvo que la capacidad económica no le permita de ningún modo cumplir con la pena conmutada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 110.
 
-El Ejecutivo, tratándose de delitos contra la seguridad del Estado, podrá hacer la conmutación de las sanciones, después de la sentencia firme conforme a las siguientes reglas:
+El Juez de Ejecución de Sanciones, tratándose de delitos contra la seguridad del Estado, en vía incidental con la intervención del sentenciado y el Ministerio Público, allegándose los informes penitenciarios relativos a las penas impuestas o que se encuentren cumpliendo, podrá hacer la conmutación de las sanciones, después de la sentencia firme conforme a las siguientes reglas:
 
 I.- Cuando la sanción impuesta sea la de prisión, se conmutará por confinamiento, por el término igual al de los dos tercios de lo que debiera durar la de prisión; y
 
@@ -1251,15 +1285,19 @@ V.- Los reos que disfruten del beneficio de la condena condicional, quedarán su
 
 VI.- La obligación contraída por el fiador a que se refiere el inciso d) de la fracción I de este artículo, concluirá en los supuestos previstos en la fracción II;
 
-VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Juez o Tribunal, a fin de que, si se estiman justificados, se prevenga al reo para que presente nuevo fiador dentro del plazo que deberá fijársele, apercibido de que, si no lo verifica, se hará efectiva la sanción suspendida.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+
+VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Juez de Ejecución de Sanciones, a fin de que, si se estiman justificados, se prevenga al reo para que presente nuevo fiador dentro del plazo que deberá fijársele, apercibido de que, si no lo verifica, se hará efectiva la sanción suspendida.
 
 ## TITULO SEPTIMO. DE LA EJECUCION DE SENTENCIAS
 
 ### CAPITULO UNICO. EJECUCION DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+
 ###### ARTICULO 113.
 
-Corresponde el Ejecutivo del Estado la ejecución de las sanciones privativas y restrictivas de libertad conforme a la Ley de la materia, así como el otorgamiento de los beneficios que la misma establezca.
+Corresponde al Ejecutivo del Estado la ejecución de las sanciones privativas y restrictivas de libertad impuestas por los Tribunales del Estado de Tamaulipas, en sentencia que haya causado ejecutoria y su correspondiente aplicación a las personas sujetas a prisión, y la imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
 Por cuanto a las sanciones que son impuestas y aplicadas por el Juez, se estará a lo dispuesto por el Código de Procedimientos Penales.
 
@@ -3691,11 +3729,25 @@ Comete el delito de abandono de personas, el que teniendo obligación de cuidarl
 
 También incurre en éste delito el que injustificadamente abandone a su cónyuge, concubina o concubinario, sus hijos menores de edad o incapaces, o a sus padres, estando enfermos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+El delito de abandono de personas sólo se perseguirá a petición del cónyuge, concubina o concubinario ofendido o de sus legítimos representantes o del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público. En este último supuesto el Ministerio Público, representará interinamente a los menores, ancianos o incapaces de cuidarse por sí mismos, hasta en tanto se designe un tutor especial para los efectos del presente artículo.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2011)</small>
+
+Se perseguirá de oficio cuando el delito de abandono de personas cause daño a menores de edad, ancianos, incapaces de cuidarse por sí mismos o padres enfermos.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 363.
 
-Al responsable del delito señalado en el artículo anterior, se le impondrá una sanción de uno a cuatro años de prisión, sino resultare daño alguno. Si el responsable fuere ascendiente o tutor del ofendido, se le privará además de la patria potestad o de la tutela.
+Al responsable del delito señalado en el artículo anterior, se le impondrá una sanción de uno a cuatro años de prisión, sino resultare daño alguno.
+
+Si resultara algún daño, por el delito de abandono de personas, se impondrá una sanción de uno a cinco años de prisión.
+
+Cuando se trate de un menor de doce años, se impondrá al responsable la pena de uno a seis años de prisión, y será considerado como delito grave.
+
+Si el responsable fuere ascendiente o tutor del ofendido, se le privará además de la patria potestad o de la tutela y de los derechos relativos a la familia.
 
 ###### ARTICULO 364.
 
@@ -5306,6 +5358,34 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En los supuestos del delito de narcomenudeo, que se adicionan en el presente Decreto, el artículo 109 del Código de Procedimientos Penales para el Estado de Tamaulipas, su entrada en vigor será hasta el 21 de agosto de 2012.
+
+P.O. 31 DE MAYO DE 2011.
+
+DECRETO NUMERO LXI-43, POR EL QUE SE REFORMAN LOS ARTICULOS 12, 46 PRIMER PARRAFO, 107, 108 PARRAFO PRIMERO, LA FRACCION III INCISO A), LA FRACCION IV INCISO C) PARRAFO SEGUNDO, LA FRACCION V INCISO C) PARRAFOS SEGUNDO Y TERCERO, LA FRACCION VI INCISOS B) Y C) SEGUNDO PARRAFO, VII SEGUNDO PARRAFO Y VIII PARRAFOS PRIMERO, TERCERO Y QUINTO; 110 PARRAFO PRIMERO, 112 FRACCION VII Y 113 PARRAFO PRIMERO, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron, salvo las cuestiones que, a petición de parte, antes resolvía el juez de la causa, que ahora corresponderá conocer al Juez de Ejecución de Sanciones.
+
+P.O. 31 DE MAYO DE 2011.
+
+DECRETO NUMERO LXI-44, POR EL QUE SE REFORMA EL PRIMER PARRAFO Y SE ADICIONAN LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTICULO 363 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2011.
+
+DECRETO NUMERO LXI-45, POR EL QUE SE ADICIONAN LOS PARRAFOS TERCERO Y CUARTO AL ARTICULO 362 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO
 
