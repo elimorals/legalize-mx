@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2003-05-03"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -87,9 +87,11 @@ El Juez procurará obtener el conocimiento de todos los elementos que deba consi
 
 ### CAPÍTULO I. SUJETOS PROCESALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde a los tribunales del Estado de Tabasco, según la organización y competencia previstos por la ley, resolver sobre los delitos del orden común cometidos en esta Entidad Federativa, conforme a la pretensión planteada por el Ministerio Público, y aplicar las sanciones que procedan en el caso concreto.
+Corresponde a los tribunales del Estado de Tabasco, según la organización y competencia previstos por la ley, resolver sobre los delitos del orden común y de aquellas materias respecto de las cuales la Constitución Federal, así como las leyes que de ella emanen, les otorguen competencia, cometidos en esta Entidad Federativa, conforme a la pretensión planteada por el Ministerio Público, y aplicar las sanciones que procedan en el caso concreto.
 
 Los tribunales decidirán acerca de la reparación de daños y perjuicios que reclamen el ofendido, sus derechohabientes o el Ministerio Público.
 
@@ -2210,3 +2212,9 @@ P.O. 3 DE MAYO DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
+
+SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
