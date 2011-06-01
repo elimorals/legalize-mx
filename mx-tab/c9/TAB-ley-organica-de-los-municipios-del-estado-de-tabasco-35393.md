@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2010-12-29"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -1317,9 +1317,17 @@ XIII. Dirección de Atención Ciudadana;
 
 XIV. Dirección de Atención a las Mujeres, y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-XV. Unidad de Protección Civil.
+XV.- Dirección de Protección Ambiental y Desarrollo Sustentable, y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+XVI.- Unidad de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+Serán considerados como parte de la estructura orgánica funcional de los municipios, todas aquéllas dependencias o unidades administrativas que estén previstas para su existencia legal en otros ordenamientos jurídicos, conforme las disposiciones constitucionales y legales aplicables.
 
 ###### Artículo 74.
 
@@ -1563,7 +1571,7 @@ b) Coordinar acciones con la Unidad de Atención Social del Gobierno del Estado,
 
 c) Fomentar actividades sociales y productivas que permitan la generación de empleos y el incremento de los ingresos de personas, familias, grupos, comunidades, pueblos y organizaciones sociales y productivas;
 
-d) Evaluar los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia, con la participación de los sujetos sociales e·institucionales que sean corresponsables en materia de desarrollo social; y
+d) Evaluar los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia, con la participación de los sujetos sociales e institucionales que sean corresponsables en materia de desarrollo social; y
 
 e) Promover en el ámbito municipal, la organización y la participación ciudadana que garanticen la articulación de las políticas sociales del ayuntamiento en los niveles comunitario y regional;
 
@@ -1627,7 +1635,7 @@ XII. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que 
 
 ### CAPÍTULO X. De la Dirección de Obras, Ordenamiento Territorial y Servicios Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 84.
 
@@ -1641,9 +1649,9 @@ I. Formular los programas de desarrollo urbano y ordenamiento territorial munici
 
 II. Formular, conducir y evaluar la política de ordenamiento territorial municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado, e intervenir en los trámites para regularizar la tenencia de la tierra urbana;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JUNIO DE 2011)</small>
 
-III. Proponer al Presidente Municipal la creación de las zonas de reserva ecológicas y la expedición de los reglamentos correspondientes, y promover y auxiliar, en la materia de su competencia, al cumplimiento y ejecución de los Programas Nacionales y Estatales de Ordenamiento Territorial y Desarrollo Urbano;
+III. Proponer al Presidente Municipal, en concurrencia con la Dirección de Protección Ambiental y Desarrollo Sustentable, para su análisis y la aprobación, en su caso, por parte del Cabildo, de la creación de las zonas de reserva ecológica; expidiéndose los reglamentos correspondientes. Asimismo intervenir conforme las atribuciones en la materia de su competencia, al cumplimiento y ejecución de los Programas Nacionales y Estatales de Ordenamiento Territorial y Desarrollo Urbano;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1683,7 +1691,9 @@ XVII. Planear, elaborar y ejecutar el programa de conservación, mantenimiento y
 
 XVIII. Realizar los estudios, programas y presupuestos necesarios para la prestación de los servicios públicos municipales;
 
-XIX. (DEROGADA, P.O. 25 DE OCTUBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JUNIO DE 2011)</small>
+
+XIX. Prestar el servicio público de limpia en sus etapas de barrido, recolección, y traslado a los sitios de destinos autorizados, de los residuos sólidos urbanos, que se generen en los centros de población que se ubiquen dentro de la jurisdicción territorial municipal. Para estos efectos, se considerarán como residuos sólidos urbanos, los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; así como los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que generen residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos;
 
 XX. Mantener en buen estado el alumbrado público y ampliarlo en los asentamientos humanos que lo requieran;
 
@@ -1693,7 +1703,7 @@ XXII. Administrar los panteones que requieran los centros de población;
 
 XXIII. Administrar los rastros, cuidando que el sacrificio de los animales se haga en condiciones higiénicas y cumplan los requisitos necesarios para su consumo;
 
-XXIV. Mantener en óptimas condiciones de funcionamiento y limpieza las calles, monumentos, parques, puentes, jardines y demás sitios de uso público;
+XXIV. (DEROGADA, P.O. 1 DE JUNIO DE 2011)
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
@@ -1899,7 +1909,7 @@ V.- Impulsar acciones para difundir la equidad entre los géneros y el respeto a
 
 VI.- Fomentar el empleo y la aplicación de programas para la obtención de créditos que permitan a las mujeres contar con recursos para incorporarse a la actividad productiva del municipio;
 
-VIl.- Coordinar, fomentar y dirigir programas de psicología, de acompañamiento y fortalecimiento emocional para las mujeres;
+VII.- Coordinar, fomentar y dirigir programas de psicología, de acompañamiento y fortalecimiento emocional para las mujeres;
 
 VIII.- Atender y asesorar a las mujeres en los casos de maltrato, violencia intrafamiliar y discriminación, dándole el seguimiento correspondiente;
 
@@ -1929,9 +1939,11 @@ V.- Aplicar las disposiciones jurídicas en materia de prevención y control de 
 
 VI.- Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos;
 
-VII.- Prestar los servicios de limpieza, recolección y traslado de los residuos sólidos domésticos, haciéndose cargo del manejo integral de los mismos, su adecuada disposición final, así como las alternativas de reuso y reciclaje de residuos que no requieran de un manejo especial;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-VIII.- Regular, desde el ámbito de la protección ambiental, a los comercios y prestadores de servicios, para que cotidianamente clasifiquen los desechos sólidos en orgánicos, inorgánicos y reciclables, con la finalidad de garantizar el reuso que sea conducente.
+VII.- Efectuar con posterioridad a las funciones previas derivadas que en materia del servicio público de limpia, recolección y traslado de residuos sólidos urbanos, cuenta la Dirección de Obras, Ordenamiento Territorial y Servicios Municipales; y en coordinación con la misma, el manejo integral de dichos residuos sólidos urbanos, haciéndose cargo de su tratamiento y de las alternativas de reuso y reciclaje de residuos que no requieran de un manejo especial, así como de su adecuada disposición final;
+
+VIII.- Regular, desde el ámbito de la protección ambiental, a los comercios y prestadores de servicios, para que cotidianamente clasifiquen los desechos sólidos en orgánicos, inorgánicos y reciclables, con la finalidad de garantizar el reuso que sea conducente;
 
 IX.- Participar en la supervisión de los programas de obras municipales, que se realicen para el mejoramiento de los servicios a la población, considerado en la Ley de Obras Públicas y Servicios Relacionadas con las Mismas, con el objeto que se apliquen las medidas necesarias que garanticen la integridad de los ecosistemas en que éstas se desarrollen;
 
@@ -1957,7 +1969,9 @@ XIX.- Participar en la evaluación del impacto ambiental de las obras o activida
 
 XX.- Formular, ejecutar y evaluar el programa municipal de educación ambiental, y
 
-XXI.- Atender los demás asuntos que en materia de preservación del equilibrio ecológico al ambiente les conceda esta ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente al Estado o la Federación.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+XXI.- Atender los demás asuntos que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente les confiera las demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2008)</small>
 
@@ -1967,13 +1981,15 @@ Artículo 94 quáter. El titular la (sic) Dirección de Protección Ambiental y 
 
 ### CAPÍTULO XV QUATER. De la Unidad de Protección Civil, del Sistema Municipal de Protección Civil y de los Consejos Municipales de Protección Civil
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-Artículo 94 quater (sic).- A la Unidad de Protección Civil le corresponde el despacho de los siguientes asuntos:
+###### Artículo 94 Quinquies.
+
+A la Unidad de Protección Civil le corresponde el despacho de los siguientes asuntos:
 
 I. Elaborar el proyecto de Reglamento Municipal de Protección Civil y presentarlo al Cabildo, para su aprobación, en su caso, y su aplicación correspondiente;
 
-II. Elaborar y mantener actualizado el inventario de recursos humanos y materiales disponibles en el Municipio, para hacer frente a un riesgo, alto riesgo, emergencia o desastre y coordinar su manejo;
+II. Elaborar y mantener actualizado el inventario de recursos humanos y materiales disponibles en el Municipio, para hacer frente a un riesgo, alto riego (sic), emergencia o desastre y coordinar su manejo;
 
 III. Proponer al Presidente Municipal, así como coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de una emergencia o desastre;
 
@@ -1987,7 +2003,7 @@ VII. Coadyuvar en la promoción de la cultura de protección civil;
 
 VIII. Proponer las medidas y los instrumentos que permitan el establecimiento de eficientes y oportunos canales de colaboración entre la Federación, el Estado y otros Municipios en materia de protección civil;
 
-IX. Identificar los altos riesgos que se presenten en el Estado, y emitir las recomendaciones necesarias, integrando el Atlas de Riesgo Municipal;
+IX. Identificar los altos riegos (sic) que se presenten en el Estado, y emitir las recomendaciones necesarias integrando el Atlas de Riegos (sic) Municipal;
 
 X. Elaborar los proyectos del Programa y del Plan de Emergencia Municipal de Protección Civil;
 
@@ -1995,11 +2011,11 @@ XI. Promover la creación de grupos voluntarios de protección civil y llevar su
 
 XII. Formular la evaluación inicial de la magnitud de la contingencia, en caso de alto riesgo, emergencia o desastre, presentando de inmediato esta información al Presidente Municipal y en su caso, a las autoridades estatales y federales competentes;
 
-XIII. Realizar la inspección, control y vigilancia de los establecimientos de competencia municipal, que por su operatividad representen algún riesgo para la sociedad;
+XIII. Realizar la inspección, control y vigilancia de los establecimientos de competencia municipal, que por su operatividad representen algún riego (sic) para la sociedad;
 
 XIV. Desarrollar las acciones aprobadas por el Sistema Municipal de Protección Civil y el Consejo Municipal de Protección Civil; y
 
-XV. Las demás que señale esta Ley y otras disposiciones aplicables.
+XV. Las demás que señale esta ley y otras disposiciones aplicables.
 
 Apartado A. En cada uno de los Municipios del Estado se establecerán Sistemas de Protección Civil, que tendrán como función principal organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia o desastre, de conformidad con lo dispuesto por la Ley de Protección Civil del Estado de Tabasco.
 
@@ -2013,25 +2029,23 @@ II. Ordenar la elaboración del Programa y Plan de Emergencia Municipal de Prote
 
 III. Instalar el Consejo Municipal de Protección Civil;
 
-IV. Promover la elaboración del Reglamento Municipal de Protección Civil;
+IV. Contemplar en su Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
 
-V. Contemplar en su Presupuesto de Egresos de cada ejercicio fiscal una partida para la prevención y auxilio de la población ante una emergencia o desastre;
+V. Establecer comunicación permanente con autoridades estatales en la materia, en situaciones normales y ante emergencias o desastres;
 
-VI. Establecer comunicación permanente con autoridades estatales en la materia, en situaciones normales y ante emergencias o desastres;
+VI. Difundir oportunamente a la población los riesgos a que está expuesta, por la ocurrencia de fenómenos perturbadores; así mismo señalar las medidas preventivas para mitigar sus efectos;
 
-VII. Difundir oportunamente a la población los riesgos a que está expuesta, por la ocurrencia de fenómenos perturbadores; así mismo señalar las medidas preventivas para mitigar sus efectos;
+VII. Ordenar la elaboración del Atlas Municipal de Riesgos;
 
-VIII. Ordenar la elaboración del Atlas Municipal de Riesgos;
+VIII. Suscribir convenios de coordinación en la materia;
 
-IX. Suscribir convenios de coordinación en la materia;
+IX. Comunicar al Consejo Estatal de Protección Civil cuando exista riego (sic), alto riesgo, emergencia o desastre en el Municipio;
 
-X. Comunicar al Consejo Estatal de Protección Civil cuando exista riesgo, alto riesgo, emergencia o desastre en el Municipio;
+X. Proporcionar a la población alojamiento, alimentación, atención médica y. seguridad pública ante una emergencia o desastre; y
 
-XI. Proporcionar a la población alojamiento, alimentación, atención médica y. seguridad pública ante una emergencia o desastre; y
+XI. Las demás que le confieran las leyes y reglamentos municipales.
 
-XII. Las demás que le confieran las Leyes y Reglamentos Municipales.
-
-Apartado B. En los Municipios del Estado, se constituirán Consejos Municipales de Protección Civil, que serán órganos de carácter consultivo, de opinión y de coordinación, de conformidad con la Ley de la materia.
+Apartado B. En los Municipios del Estado, se constituirán Consejos Municipales de Protección Civil, que serán órganos de carácter consultivo, de opinión y de coordinación, de conformidad con la ley de la materia.
 
 ### CAPÍTULO XVI. Del Cronista Municipal
 
@@ -2449,9 +2463,11 @@ La prestación del servicio de alumbrado público se sujetará, a las prioridade
 
 ### CAPÍTULO IV. Limpia
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 138.
 
-La prestación del servicio público de limpia comprende la recolección, transporte, destino y tratamiento de basura, desperdicios o residuos sólidos que se generen dentro de las jurisdicciones territoriales de los municipios; así como el barrido de las vías públicas de los mismos.
+La prestación del servicio público de limpia comprende la recolección, transporte, destino y tratamiento de los residuos sólidos que se generen dentro de las jurisdicciones territoriales de los municipios; así como el barrido de las vías públicas de los mismos.
 
 ###### Artículo 139.
 
@@ -3714,3 +3730,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Los 17 Ayuntamientos deberán expedir su Manual de Procedimientos para el proceso de entrega-recepción, a más tardar 90 días después de la entrada en vigor de este decreto.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Por tanto, remítase oportunamente por conducto del Diputado Presidente y Diputado Secretario de la Mesa Directiva al Titular del Poder Ejecutivo, para su sanción y publicación en el órgano de difusión oficial antes citado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Para efectos legislativos, legales y administrativos que sean procedentes, en vía de interpretación legislativa, se considera que los actos de autoridad y demás tareas oficiales que se hubieren ejercitado en la función pública, que se desplegaren a partir del inicio de su vigencia, por parte de los servidores públicos municipales que por razón de sus cargos, estén adscritos a la Dirección de Protección Ambiental y Desarrollo Sustentable, y a la Unidad de Protección Civil, respectivamente, que las ejecutaren debidamente, acorde a los ordenamientos legales aplicables, son jurídicamente lícitas, conforme a los antecedentes y las premisas que se citaron en los considerandos décimo segundo y décimo tercero de este decreto. En este tenor se consideran insertas y permanecen en el texto legislativo las disposiciones legislativas de cuyas citas se han precisado, por subsistir para los fines jurídicos, atento a lo antes expresado.
+
+CUARTO.- Se hace un atento exhorto a las autoridades municipales que a la entrada en vigor de este decreto, no hubieren acatado con la materialización de dotar de la infraestructura física, de la suficiencia financiera y de recursos humanos, para el desarrollo y operación de las funciones asignadas a la Dirección de Protección Ambiental y Desarrollo Sustentable; para que sin detrimento de su hacienda municipal, con sus propios recursos disponibles, y sin generar mayor egreso de sus finanzas públicas, cumplan en un plazo no mayor de noventa días naturales e improrrogables, a constituir a la citada dependencia, con la estructura mínima que fuere necesaria; debiendo las autoridades municipales en el ámbito de su competencia, seleccionar y adscribir al personal que actualmente se encuentra formando parte de su plantilla laboral, dotándola de las herramientas legales y materiales para su debida cumplimentación. Queda constreñido el Titular del Órgano de Fiscalización Superior del Estado, para que en aquéllos Municipios que han quedado referidos, y que a la fecha, no está legalmente conformada la dependencia antes precisada; para que sin perjuicio de sus funciones de fiscalización, en tiempo y forma, cumpliendo con los principios constitucionales en materia de la fiscalización del gasto público, incluya en su momento, un informe administrativo acerca del acatamiento que ineludiblemente debe cumplirse.
