@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-y-desarrollo-de-las-personas-con-11464"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-18"
-last_updated: "2008-12-27"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY PARA LA PROTECCION Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO, PUBLICADA EN EL SUPLEMENTO DEL P.O. DE FECHA 1 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 18 de enero de 1997.
 
@@ -1546,3 +1548,23 @@ CUARTO. El Reglamento de la presente Ley deberá expedirse en un plazo de 90 dí
 QUINTO. El Titular del Poder Ejecutivo, deberá realizar las acciones y previsiones correspondientes para que El Consejo Estatal Promotor para el Desarrollo de las Personas con Discapacidad, quede instalado 90 días posteriores a la entrada en vigor del presente decreto.
 
 SEXTO. El Congreso Local, dentro de los trescientos sesenta y cinco días siguientes, al inicio de vigencia del presente decreto, indistintamente a iniciativa del Titular del Poder Ejecutivo o, a instancia de los legisladores, realizará las reformas que permitan correlacionar las otras disposiciones legales que regulan la administración pública, con el presente Decreto.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Decreto No. 177 que expide la Ley para la Protección y Desarrollo de los Discapacitados del Estado de Tabasco, publicado en el Periódico Oficial No. 5673, de fecha 18 de enero de 1997, así como las subsecuentes reformas.
+
+TERCERO.- Se derogan las disposiciones legales o reglamentarias, en todo lo que se oponga a la presente Ley.
+
+CUARTO. El Ejecutivo del Estado, deberá publicar el Reglamento de la presente Ley en un plazo no mayor a sesenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. En los sesenta días hábiles siguientes a la entrada en vigor de la presente Ley, se deberá instalar el Consejo Estatal para el Desarrollo e Inclusión de las Personas con Discapacidad.
+
+SEXTO. A los treinta días hábiles siguientes a la publicación del Reglamento de la presente Ley deberá crearse el Subconsejo para el Desarrollo e Inclusión de las Personas con Discapacidad.
+
+SÉPTIMO. La ejecución de las obras que el Ejecutivo del Estado y los ayuntamientos deban efectuar para la eliminación de obstáculos viales y urbanos en edificios y vía pública, se efectuará en los términos y plazos que la previsión presupuestal lo permita.
+
+OCTAVO. Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, en un plazo que no excederá de dos años contados a partir del inicio de la vigencia de esta Ley, adoptarán paulatinamente las medidas de adecuación necesarias a que se refiere la presente Ley. El Ejecutivo del Estado, a través de las dependencias competentes evaluará semestralmente los avances respectivos.
+
+NOVENO. Para el debido cumplimiento del presente ordenamiento, el Ejecutivo del Estado y los Ayuntamientos, en su caso, así como los demás Poderes del Estado y Entidades, deberán prever en el presupuesto de egresos respectivo la partida necesaria para su cumplimiento, bajo el principio de progresividad.
