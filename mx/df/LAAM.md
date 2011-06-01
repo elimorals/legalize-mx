@@ -4,7 +4,7 @@ identifier: "LAAM"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-25"
-last_updated: "2011-01-26"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39908&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAAM"
 
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 25 de junio de 2004.
 
@@ -442,6 +442,18 @@ El Estado Mayor General de la Armada efectuará el estudio para determinar si pr
 
 Para ascender por méritos especiales, no se requiere que el personal reúna los requisitos establecidos para el ascenso en tiempo de paz.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 44 Bis.
+
+Cuando algún miembro del personal de la Armada de México pierda la vida como consecuencia de actos del servicio excepcionalmente meritorios, en condiciones de heroísmo, sobresaliente capacidad profesional o entrega total al servicio a la patria, el Consejo del Almirantazgo Reducido reunirá los elementos de juicio que acrediten las circunstancias extraordinarias y, de ser el caso, propondrá al Alto Mando el ascenso post mortem del militar.
+
+De estimarlo procedente, el Alto Mando presentará a consideración del Mando Supremo el ascenso en cuestión.
+
+La Secretaría remitirá al Senado de la República, un informe que contenga las consideraciones y valoraciones para el otorgamiento de este tipo de ascensos, dentro de los tres meses siguientes al mismo.
+
+Los derechohabientes de los militares ascendidos en los términos del presente artículo, tendrán derecho a las prestaciones sociales correspondientes al grado inmediato superior concedido, independientemente de los años de servicio y años en el grado que haya cumplido.
+
 ## TITULO QUINTO. Despachos y Nombramientos
 
 ### CAPITULO I. Despachos
@@ -603,3 +615,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por e
 D.O.F. 26 DE ENERO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presidente de la República podrá conferir ascensos post mortem que estén motivados por actos realizados con anterioridad a la entrada del presente Decreto, con sujeción a las disposiciones del mismo.
