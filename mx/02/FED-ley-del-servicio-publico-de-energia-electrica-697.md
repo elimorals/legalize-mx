@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "1993-12-22"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-12-10"
 
 LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 22 de diciembre de 1975.
 
@@ -477,19 +477,29 @@ En el otorgamiento de los permisos a que se refiere este artículo, deberá obse
 
 5) Serán causales de revocación de los permisos correspondientes, a juicio de la Secretaría de Energía, Minas e Industria Paraestatal, el incumplimiento de las disposiciones de esta Ley, o de los términos y condiciones establecidos en los permisos respectivos.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 36
 
-BIS.- Para la prestación del servicio público de energía eléctrica deberá aprovecharse tanto en el corto como en el largo plazo, la producción de energía eléctrica que resulte de menor costo para la Comisión Federal de Electricidad y que ofrezca, además, óptima estabilidad, calidad y seguridad del servicio público, a cuyo efecto se observará lo siguiente:
+BIS.- Para la prestación del servicio público de energía eléctrica deberá aprovecharse tanto en el corto como en el largo plazo, la producción de energía eléctrica que resulte de menor costo para la Comisión Federal de Electricidad, considerando para ello las externalidades ambientales para cada tecnología, y que ofrezca, además, óptima estabilidad, calidad y seguridad del servicio público, a cuyo efecto se observará lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 I.- Con base en la planeación del Sistema Eléctrico Nacional elaborada por la Comisión Federal de Electricidad, la Secretaría de Energía, Minas e Industria Paraestatal determinará las necesidades de crecimiento o de substitución de la capacidad de generación del sistema;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+
 II.- Cuando dicha planeación requiera la construcción de nuevas instalaciones de generación de energía eléctrica, la Comisión Federal de Electricidad informará de las características de los proyectos a la Secretaría de Energía, Minas e Industria Paraestatal. Con base en criterios comparativos de costos, dicha Dependencia determinará si la instalación será ejecutada por la Comisión Federal de Electricidad o si se debe convocar a particulares para suministrar la energía eléctrica necesaria;
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 III.- Para la adquisición de energía eléctrica que se destine al servicio público, deberá considerarse la que generen los particulares bajo cualesquiera de las modalidades reconocidas en el artículo 36 de esta Ley;
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+
 IV.- Los términos y condiciones de los convenios por los que, en su caso, la Comisión Federal de Electricidad adquiera la energía eléctrica de los particulares, se ajustarán a lo que disponga el Reglamento, considerando la firmeza de las entregas; y
+
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 V.- Las obras, instalaciones y demás componentes serán objeto de Normas Oficiales Mexicanas o autorizadas previamente por la Secretaría de Energía, Minas e Industria Paraestatal.
 
@@ -698,3 +708,13 @@ D.O.F. 22 DE DICIEMBRE DE 1993.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY
 
 PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para efectos de la fracción III del artículo 11 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, la Secretaría de Energía fijará como meta una participación máxima de 65 por ciento de combustibles fósiles en la generación de energía eléctrica para el año 2024, del 60 por ciento en el 2035 y del 50 por ciento en el 2050.
+
+Tercero. A más tardar el 1 de marzo de 2012, la Secretaría de Energía deberá presentar a la Comisión de Energía de la Cámara de Diputados, un informe preliminar sobre el avance en el cumplimiento de las metas establecidas en el Artículo Segundo Transitorio del presente Decreto.
+
+Cuarto. En un plazo máximo de un año, a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá emitir las modificaciones que correspondan al Reglamento de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética. La Secretaría de Energía expedirá en el mismo plazo las demás disposiciones aplicables cuya expedición sea de su competencia.
