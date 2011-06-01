@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-66461
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-11"
-last_updated: "2009-02-11"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE JUNIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de febrero de 2009.
 
@@ -1152,3 +1154,13 @@ COMISARIO GENERAL
 LUIS ÁNGEL CABEZA DE VACA RODRÍGUEZ
 
 RÚBRICAS.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga él Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial "Tierra y Libertad" número 4681 de fecha 11 de febrero de 2009 y toda disposición de rango igual o inferior que se le oponga.
+
+TERCERO. Dentro del término de 90 días hábiles posteriores a la publicación del presente Reglamento, se deberán actualizar los Manuales de Organización y de Políticas y Procedimientos respectivos.
+
+CUARTO. Corresponde a la Subsecretaría de Reinserción Social conocer de los casos que deban sustanciarse en términos de la Ley de Ejecución de Sanciones y Medidas de Seguridad Privativas y Restrictivas de la Libertad, en términos del Artículo Cuarto Transitorio de la Ley de Reinserción Social y Seguimiento de Medidas Cautelares.
