@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2008-11-28"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-27"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGIAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICION ENERGETICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -87,7 +87,9 @@ f) Los bioenergéticos, que determine la Ley de Promoción y Desarrollo de los B
 
 g) Aquellas otras que, en su caso, determine la Secretaría, cuya fuente cumpla con el primer párrafo de esta fracción;
 
-III. Externalidades.- Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan a una tercera persona. Las externalidades ocurren cuando los costos o beneficios de los productores o compradores de un bien o servicio son diferentes de los costos o beneficios sociales totales que involucran su producción y consumo;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2011)</small>
+
+III. Externalidades. Los impactos positivos o negativos que genera la provisión de un bien o servicio y que afectan o que pudieran afectar a una tercera persona. Las externalidades ocurren cuando el costo pagado por un bien o servicio es diferente del costo total de los daños y beneficios en términos económicos, sociales, ambientales y a la salud, que involucran su producción y consumo;
 
 IV. Estrategia.- La Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía;
 
@@ -165,9 +167,11 @@ V. Simplifiquen los procedimientos administrativos para la obtención de permiso
 
 La Secretaría de Economía, en coordinación con la Secretaría de Energía, definirá las políticas y medidas para fomentar una mayor integración nacional de equipos y componentes para el aprovechamiento de las energías renovables y su transformación eficiente.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Energía, con la opinión de la Secretaría de Hacienda y Crédito Público, de la Secretaría de Medio Ambiente y Recursos Naturales y de la Secretaría de Salud, elaborará una metodología para valorar las externalidades asociadas con la generación de electricidad, basada en energías renovables, en sus distintas escalas, así como las acciones de política a que se refiere esta Ley, relacionadas con dichas externalidades. A partir de esa metodología y acciones de política, a Secretaría de Medio Ambiente y Recursos Naturales diseñará mecanismos de regulación ambiental para el aprovechamiento de energías renovables.
+La Secretaría de Energía, con la opinión de la Secretaría de Hacienda y Crédito Público, de la Secretaría de Medio Ambiente y Recursos Naturales, y de la Secretaría de Salud, elaborará una metodología para valorar las externalidades asociadas con la generación de electricidad, a partir de las diversas fuentes renovables y no renovables en sus distintas escalas, así como las acciones de política a que se refiere esta Ley, relacionadas con dichas externalidades. A partir de esa metodología y acciones de política, la Secretaría de Medio Ambiente y Recursos Naturales diseñará mecanismos de regulación ambiental para el aprovechamiento de energías renovables.
 
 ### Capítulo III.- De la Planeación y la Regulación
 
@@ -179,7 +183,11 @@ I. Promover la participación social durante la planeación, aplicación y evalu
 
 II. Establecer objetivos y metas específicas para el aprovechamiento de energías renovables así como definir las estrategias y acciones necesarias para alcanzarlas;
 
-III. Establecer metas de participación de las energías renovables en la generación de electricidad, las cuales tenderán a aumentar sobre bases de viabilidad económica. Dichas metas se expresarán en términos de porcentajes mínimos de capacidad instalada y porcentajes mínimos de suministro eléctrico, e incluirán metas para los Suministradores y los Generadores;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+III. Establecer metas de participación de las energías renovables en la generación de electricidad, las cuales deberán aumentar gradualmente sobre bases de viabilidad económica y potencial técnico existente. Dichas metas deberán ser actualizadas y reportadas semestralmente, y se expresarán en términos de porcentajes mínimos de capacidad instalada y porcentajes mínimos de suministro eléctrico, e incluirán metas para los suministradores y los generadores.
+
+Cuando por negligencia o causa inexcusable no se establezcan las metas a que se refiere el párrafo anterior, o no se actualicen y reporten semestralmente dichas metas, los servidores públicos que incurran en dicho incumplimiento serán sancionados en términos de lo dispuesto en los artículos 8 y 13 y demás aplicables de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 IV. Incluir la construcción de las obras de infraestructura eléctrica necesarias para que los proyectos de energías renovables se puedan interconectar con el Sistema Eléctrico Nacional;
 
@@ -201,11 +209,13 @@ En la elaboración del Programa, la Secretaría considerará los beneficios econ
 
 La Secretaría de Energía considerará los beneficios a que se refiere el artículo 12 de la presente Ley, en la evaluación económica de los proyectos de aprovechamiento de energías renovables que realicen los Suministradores.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 14.
 
-La Comisión, previa opinión de las Secretarías de Hacienda y Crédito Público y de Energía, determinará las contraprestaciones máximas que pagarán los Suministradores a los Generadores que utilicen energías renovables. Dichas contraprestaciones deberán incluir pagos por los costos derivados de la capacidad de generación y por la generación de energía asociada al proyecto.
+La Comisión, previa opinión de las Secretarías de Hacienda y Crédito Público, de Energía, de Medio Ambiente y Recursos Naturales, y de Salud, determinará las contraprestaciones mínimas y máximas que pagarán los suministradores a los generadores que utilicen energías renovables. Dichas contraprestaciones deberán incluir pagos por los costos derivados de la capacidad de generación y por la generación de energía asociada al proyecto.
 
-Las contraprestaciones podrán depender de la tecnología y de la ubicación geográfica de los proyectos.
+El cálculo de las contraprestaciones tomará en cuenta la tecnología, la ubicación geográfica de los proyectos y las externalidades derivadas, con respecto a la electricidad generada con energías no renovables.
 
 ###### Artículo 15.
 
@@ -277,9 +287,11 @@ El Ejecutivo Federal, al enviar a la Cámara de Diputados el proyecto de Decreto
 
 El monto mínimo de recursos a ser programado para los subsecuentes ejercicios fiscales será actualizado cada tres años, considerando entre otros, el crecimiento real de la economía y el crecimiento real del gasto programable del sector público, de conformidad con las disposiciones que se establezcan en el Presupuesto de Egresos de la Federación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 26.
 
-Cada año la Secretaría llevará a cabo la actualización de la Estrategia y presentará una prospectiva sobre los avances logrados en la transición energética y el aprovechamiento sustentable de las energías renovables, incluyendo un diagnóstico sobre las aplicaciones de las tecnologías limpias y las energías renovables, así como sobre el ahorro y uso óptimo de toda clase de energía.
+Cada año la Secretaría llevará a cabo la actualización de la Estrategia y presentará una prospectiva sobre los avances logrados en la transición energética y el aprovechamiento sustentable de las energías renovables, incluyendo un diagnóstico sobre las aplicaciones de las tecnologías limpias y las energías renovables, así como sobre el ahorro y uso óptimo de toda clase de energía. Adicionalmente, cada seis meses la Secretaría actualizará y publicará las metas de participación de las energías renovables en la generación de electricidad.
 
 ###### Artículo 27.
 
@@ -342,3 +354,15 @@ Décimo Segundo. A más tardar el 30 de junio de 2009, el Ejecutivo Federal, por
 México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Jacinto Gómez Pasillas, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para efectos de la fracción III del artículo 11 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, la Secretaría de Energía fijará como meta una participación máxima de 65 por ciento de combustibles fósiles en la generación de energía eléctrica para el año 2024, del 60 por ciento en el 2035 y del 50 por ciento en el 2050.
+
+Tercero. A más tardar el 1 de marzo de 2012, la Secretaría de Energía deberá presentar a la Comisión de Energía de la Cámara de Diputados, un informe preliminar sobre el avance en el cumplimiento de las metas establecidas en el Artículo Segundo Transitorio del presente Decreto.
+
+Cuarto. En un plazo máximo de un año, a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá emitir las modificaciones que correspondan al Reglamento de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética. La Secretaría de Energía expedirá en el mismo plazo las demás disposiciones aplicables cuya expedición sea de su competencia.
