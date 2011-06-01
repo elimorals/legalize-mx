@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fomento-economico-del-estado-de-tabasco-9017"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-18"
-last_updated: "2010-05-01"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 1996.
 
@@ -173,9 +173,13 @@ XIV. Promover, de conformidad con la ley de la materia, procesos de mejora regul
 
 XV. Propiciar el establecimiento de nuevas plantas industriales o de servicios, así como consolidar las existentes, vinculados a la industria en general, buscando calidad y costos competitivos, respetando los derechos laborales y humanos de los trabajadores; y
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-XVI. En general, impulsar cualquier actividad económica encaminada a promover la industrialización y la consolidación de los servicios en el Estado, conforme a su vocación productiva, en beneficio del mejoramiento de la calidad de vida de los tabasqueños.
+XVI. Estimular la iniciativa de los particulares en sus proyectos de inversión a cuyo efecto se les dará apoyo con la simplificación de los trámites administrativos estableciendo tiempos mínimos y máximos para los tramites y gestiones en el ámbito estatal y municipal para la formación de nuevas empresas, operación o su ampliación, y la puesta en práctica de sistemas de financiamiento adecuados para el desarrollo de proyectos prioritarios; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+XVII. En general, impulsar cualquier actividad económica encaminada a promover la industrialización y consolidación de los servicios en el Estado, conforme a su vocación productiva, en beneficio del mejoramiento de la calidad de vida de los Tabasqueños.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE MAYO DE 2010)</small>
 
@@ -435,7 +439,7 @@ También serán sujetos del beneficio fiscal señalado en el párrafo anterior, 
 
 b) Bonificación hasta del 100% de todos los derechos estatales no asignables ni participables que hayan pagado las empresas o unidades de producción con derecho a fomento.
 
-El Comité Dictaminador que señala el artículo 16 de esta Ley determinará en cada caso concreto, dependiendo del derecho de que se trate y a petición del interesado, el porcentaje de la bonificación del derecho o del impuesto sobre nómina, tomando en cuenta el monto de la inversión ejercida, la adquisición de insumos a empresas domiciliadas en la entidad, así como el número de empleos generados por los sujetos del beneficio fiscal que generen y mantengan las actividades que se señalan en esta fracción. El monto de las cantidades a bonificar se realizará en el último mes del ejercicio fiscal de que se trate y de acuerdo a los procedimientos que se establezcan en el reglamento de esta Ley y a los lineamientos que expida el Comité Dictaminador; y
+El Comité Dictaminador que señala el artículo 16 de esta Ley determinará en cada caso concreto, dependiendo del derecho de que se trate y a petición del interesado, el porcentaje de la bonificación del derecho ó del impuesto sobre nómina, tomando en cuenta el monto de la inversión ejercida, la adquisición de insumos a empresas domiciliadas en la entidad, así como el número de empleos generados por los sujetos del beneficio fiscal que generen y mantengan las actividades que se señalan en esta fracción. El monto de las cantidades a bonificar se realizará en el último mes del ejercicio fiscal de que se traté y de acuerdo a los procedimientos que se establezcan en el reglamento de esta Ley y a los lineamientos que expida el Comité Dictaminador; y
 
 c) Poner a disposición de los inversionistas, preferentemente locales, que generen y mantengan las actividades que se señalan en esta fracción, bienes muebles e inmuebles del Estado, que puedan ser objeto de transferencia mediante contratos de compraventa, arrendamiento, comodato, o por cualquier otro instrumento legal, a través de la creación de un fideicomiso, que tendrá las facultades necesarias para transferir a los inversionistas, previa aprobación del Comité Técnico y mediante la modalidad que más convenga, los bienes muebles e inmuebles en referencia.
 
@@ -509,15 +513,15 @@ II. En el Sector Industrial.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2006)</small>
 
-A. Beneficios fiscales
+A. Estímulos fiscales
 
 a). Bonificación hasta del 100% de las cuotas pagadas por concepto del impuesto sobre nóminas previsto en la ley de Hacienda del Estado de Tabasco, hasta por un plazo máximo de 10 años, a todas las empresas que se constituyan como personas físicas o jurídicas colectivas que generen y mantengan las actividades que señala esta fracción, siempre y cuando los sujetos de este beneficio fiscal tengan su domicilio fiscal dentro del territorio del Estado de Tabasco.
 
 También serán sujetos del beneficio fiscal señalado en el párrafo anterior, las ampliaciones o mejoras que en infraestructura realicen las empresas ya constituidas como personas físicas o jurídicas colectivas que desarrollen las actividades que señala esta fracción;
 
-b) Bonificación hasta del 100% de todos los derechos estatales no asignables ni participables que hayan pagado las empresas o unidades de producción con derecho a fomento.
+b) Bonificación hasta del 100% que todos los derechos estatales no asignables ni participables que hayan pagado las empresas o unidades de producción con derecho a fomento.
 
-El Comité Dictaminador que señala el artículo 16 de esta Ley determinará en cada caso concreto, dependiendo del derecho de que se trate y a petición del interesado, el porcentaje de la bonificación del derecho ó del impuesto sobre nómina, tomando en cuenta el monto de la inversión ejercida, la adquisición de insumos a empresas domiciliadas en la entidad, así como el número de empleos generados por los sujetos del beneficio fiscal generen y mantengan las actividades que se señalan en esta fracción. El monto de las cantidades a bonificar se realizará en el último mes del ejercicio fiscal de que se traté y de acuerdo a los procedimientos que se establezcan en el reglamento de esta Ley y a los lineamientos que expida el Comité Dictaminador; y
+El Comité Dictaminador que señala el artículo 16 de esta Ley determinará en cada caso concreto, dependiendo del derecho de que se trate y a petición del interesado, el porcentaje de la bonificación del derecho o del impuesto sobre nómina, tomando en cuenta el monto de la inversión ejercida, la adquisición de insumos a empresas domiciliadas en la entidad, así como el número de empleos generados por los sujetos del beneficio fiscal generen y mantengan las actividades que se señalan en esta fracción. El monto de las cantidades a bonificar se realizará en el último mes del ejercicio fiscal de que se trate y de acuerdo a los procedimientos que se establezcan en el reglamento de esta Ley y a los lineamientos que expida el Comité Dictaminador; y
 
 c) Poner a disposición de los inversionistas, preferentemente locales, que generen y mantengan las actividades que se señalan en esta fracción, bienes muebles e inmuebles del Estado, que puedan ser objeto de transferencia mediante contratos de compraventa, arrendamiento, comodato, o por cualquier otro instrumento legal, a través de la creación de un fideicomiso, que tendrá las facultades necesarias para transferir a los inversionistas, previa aprobación del Comité Técnico y mediante la modalidad que más convenga, los bienes muebles e inmuebles en referencia.
 
@@ -1044,3 +1048,9 @@ PRIMERO.- La presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El fideicomiso para el fomento y desarrollo de las empresas, a que se refiere el presente Decreto deberá quedar constituido a mas tardar el 31 de diciembre del presente año.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO.- El Ejecutivo y los Ayuntamientos de los 17 municipios de la entidad, deberán proceder a expedir o ajustar las disposiciones reglamentarias que sean aplicables, para coadyuvar a la apertura de las empresas en el plazo señalado.
