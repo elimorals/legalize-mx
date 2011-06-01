@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2009-12-26"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -88,6 +88,10 @@ Este Código se aplicará a todas las personas a partir de los dieciocho años d
 ###### Artículo 6.
 
 Cuando se cometa un delito no previsto en este Código, pero sí en una ley local especial, se aplicará esta última y, en lo conducente, las disposiciones del presente Código.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+Cuando se cometa un delito previsto en una ley federal respecto del cual la Constitución Política de los Estados Unidos Mexicanos otorgue competencia, se aplicará aquella, y en lo no previsto, las disposiciones de este Código.
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
@@ -289,6 +293,8 @@ El tratamiento en libertad para imputables consiste en la aplicación, según la
 
 ### CAPITULO VIII. MULTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 22.
 
 El confinamiento consiste en la obligación de residir en una circunscripción territorial y no salir de ella. El juez designará la circunscripción conciliando las exigencias de la tranquilidad pública y la seguridad del ofendido con las circunstancias del sentenciado. El confinamiento tendrá una duración de seis meses a dos años.
@@ -303,7 +309,7 @@ La prohibición de concurrencia o de residencia consiste en impedir al sentencia
 
 ###### Artículo 24.
 
-La multa consiste en el pago de una cantidad de dinero al Estado que se fijará en días multa. El mínimo será de veinte y el máximo de mil. El día multa equivale a la suma total de las percepciones diarias netas del sentenciado en el momento de la consumación del delito, pero nunca podrá ser inferior al salario mínimo diario vigente en el lugar en que se cometió el delito.
+La multa consiste en el pago de una cantidad de dinero al Estado que se fijará en días multa. El mínimo será de veinte y el máximo de cinco mil. El día multa equivale a la suma total de las percepciones diarias netas del sentenciado en el momento de la consumación del delito, pero nunca podrá ser inferior al salario mínimo diario vigente en el lugar en que se cometió el delito.
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
@@ -475,7 +481,9 @@ La destitución consiste en la privación definitiva del empleo, cargo o comisi�
 
 La inhabilitación consiste en la privación temporal o definitiva de la capacidad, para obtener o desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público.
 
-La inhabilitación temporal podrá durar de seis meses a diez años.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+La inhabilitación temporal podrá durar de seis meses a quince años.
 
 La inhabilitación y la destitución se harán efectivas a partir del día en que cause ejecutoria la sentencia. La inhabilitación correrá a partir del día en que concluya la pena privativa de libertad cuando se imponga junto con ésta y el sentenciado haya estado recluido en la prisión o cuando cause ejecutoria la sentencia si se impone como pena única o junto con una pena no privativa de libertad o junto con una pena privativa de libertad suspendida condicionalmente o sustituida.
 
@@ -1633,9 +1641,17 @@ XI.- Respecto de equipo, instrumentos, semillas o cualesquiera otros artículos 
 
 XII.- Sobre embarcaciones o cosas que se encuentren en ellas;
 
-XIII.- Sobre equipaje o valores de viajero en cualquier lugar durante el transcurso del viaje; y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos por uno a cinco años.
+XIII.- Sobre equipaje o valores de viajero en cualquier lugar durante el transcurso del viaje;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos por uno a cinco años; y
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+XV.- Respecto de uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros educativos, públicos o privados, de trabajo, de salud o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
@@ -2049,6 +2065,8 @@ El juez podrá prescindir de la sanción si el agente actúa por motivos nobles 
 
 ### CAPITULO VIII. ASOCIACION DELICTUOSA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 217.
 
 Se aplicará prisión de uno a cinco años al que, con el fin de adquirir derechos de familia que no le correspondan, inscriba o haga inscribir un nacimiento inexistente o usurpe el estado civil de otro.
@@ -2159,9 +2177,37 @@ Al que públicamente provoque a otro a cometer un delito, o haga apología de é
 
 ###### Artículo 231.
 
-Cuando tres o más personas integren una asociación formal o informal con la finalidad de cometer delitos, de manera permanente o transitoria, se impondrá a los integrantes de dos a ocho años de prisión y de cien a quinientos días multa, además de las sanciones aplicables por los delitos cometidos. Cuando los miembros de la asociación delictuosa incurran en alguno de los delitos considerados como graves por la ley, la sanción podrá aumentarse hasta en una tercera parte.
+Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de cinco a doce años de prisión y de cien a quinientos días multa, además de las sanciones aplicables por los delitos cometidos.
 
-Cuando el agente sea o haya sido servidor público en alguna institución de procuración o administración de justicia las sanciones se incrementarán en una mitad más. En estos casos se aplicará, asimismo, destitución e inhabilitación para obtener otro cargo, empleo o comisión hasta por diez años.
+Cuando los miembros de la asociación delictuosa incurran en alguno de los delitos considerados como graves por la ley, la sanción podrá aumentarse hasta en una tercera parte.
+
+En el caso de que el miembro de la asociación sea servidor o ex servidor público de alguna de las instituciones de seguridad pública, procuración o administración de justicia, o integrante o ex integrante de las Fuerzas Armadas Mexicanas, la pena se aumentará en una mitad y se le inhabilitará de uno a diez años para desempeñar cargo o comisión pública.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### Artículo 231 Bis.
+
+Se impondrá la pena prevista en el artículo 231 del presente Código a quien de manera voluntaria:
+
+I. Haciendo uso de sus conocimientos o habilidades como profesionista, pasante, técnico, practicante o estudiante de cualquier arte, profesión o ciencia, preste de ayuda, con el propósito de cometer delitos, al o los miembros de alguna asociación delictuosa o de las actividades realizadas por éstos;
+
+II. Ayude a algún miembro de cualquier asociación delictuosa a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta;
+
+III. Oculte, altere, inutilice, destruya, remueva o haga desaparecer los indicios, instrumentos u otras pruebas relacionadas con las actividades ilícitas de alguna asociación delictuosa;
+
+IV. Guarde o custodie para sí o para algún miembro de cualquier asociación delictuosa, el producto o provecho del delito cometido por ésta; o
+
+V. Aporte recursos económicos o en especie, o colabore de cualquier manera al financiamiento, supervisión o fomento para posibilitar la ejecución de las actividades ilícitas de los miembros de la asociación delictuosa.
+
+Cuando el agente sea servidor o ex servidor público de alguna de las instituciones de seguridad pública, procuración o administración de justicia, o integrante o ex integrante de las Fuerzas Armadas Mexicanas, la pena se aumentará en una mitad y se le inhabilitará de uno a diez años para desempeñar cargo o comisión pública.
+
+Cuando el delito sea cometido por particulares, se le impondrá además suspensión de seis meses a cinco años o privación definitiva de autorización, licencia o permiso de los derechos para ejercer la profesión, oficio, cargo o función correspondientes a la actividad en cuyo ejercicio cometió el delito.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### Artículo 231 Ter.
+
+A quienes actuando bajo coacción o amenaza lleven a cabo alguna de las conductas previstas en las fracciones del artículo anterior y no den el aviso oportuno a las autoridades correspondientes, se les impondrá hasta un tercio de la pena máxima prevista en el artículo 231.
 
 ## TITULO SEXTO. DELITOS CONTRA LA VERACIDAD NECESARIA PARA LA ADECUADA ADMINISTRACION DE JUSTICIA
 
@@ -3063,7 +3109,7 @@ No se sancionará a quienes en ejercicio de la patria potestad, tutela o custodi
 
 Al que intervenga la comunicación privada de terceras personas, a través de medios eléctricos o electrónicos, se le aplicará prisión de uno a cinco años.
 
-### CAPITULO UNICO. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
+### CAPITULO I. PORTACION Y FABRICACION DE ARMAS PROHIBIDAS
 
 ###### Artículo 317.
 
@@ -3075,9 +3121,11 @@ TITULO DECIMOSEGUNDO
 
 DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
+### CAPITULO II. CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCION O INTERNAMIENTO
 
-### CAPITULO II. NEGACION DE SERVICIO MEDICO
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+### CAPITULO I. ABANDONO DE LA PRESTACION DE SERVICIOS
 
 ###### Artículo 318.
 
@@ -3089,7 +3137,7 @@ I.- Falsifique o altere, acciones, obligaciones u otros documentos de crédito p
 
 II.- Introduzca al Estado o ponga en circulación: obligaciones u otros documentos de crédito público estatales o municipales, o cupones de interés o de dividendos de esos títulos, falsificados o alterados.
 
-### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
+### CAPITULO II. NEGACION DE SERVICIO MEDICO
 
 ###### Artículo 319.
 
@@ -3105,7 +3153,7 @@ III.- Use indebidamente los verdaderos sellos, marcas, llaves, estampillas, troq
 
 IV.- (DEROGADA, P.O. 9 DE NOVIEMBRE DE 2002)
 
-### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
+### CAPITULO III. OPERACIONES QUIRURGICAS INDEBIDAS
 
 ###### Artículo 320.
 
@@ -3115,7 +3163,7 @@ TITULO DECIMOTERCERO
 
 DELITOS CONTRA LA AUTENTICIDAD O VERACIDAD DOCUMENTAL
 
-### CAPITULO V. RETENCION DE CADAVER
+### CAPITULO IV. REQUERIMIENTO ARBITRARIO DE LA CONTRAPRESTACION
 
 ###### Artículo 321.
 
@@ -3153,21 +3201,21 @@ I.- Produzca, por cualquier medio técnico, imágenes, textos o voces total o pa
 
 II.- Indebidamente produzca, por cualquier medio técnico, imágenes, textos o voces verdaderas.
 
-### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
+### CAPITULO V. RETENCION DE CADAVER
 
 ###### Artículo 324.
 
 Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, por sí o por medio de otro, use un documento público o privado no auténtico o no veraz.
 
-### CAPITULO VII. DISPOSICIONES COMUNES
-
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
 
 ###### Artículo 325.
 
 Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento veinte días multa al que, para obtener un beneficio o causar un daño, use un documento público o privado auténtico y veraz, expedido a favor de otra persona.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO VII. DISPOSICIONES COMUNES
+
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 ###### Artículo 326.
 
@@ -3181,6 +3229,8 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
+### CAPITULO UNICO. DELITOS ELECTORALES
+
 ### CAPITULO I. REBELION
 
 ### CAPITULO II. TERRORISMO
@@ -3188,8 +3238,6 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. SABOTAJE
-
-### CAPITULO IV. ASONADA O MOTIN
 
 ###### Artículo 327.
 
@@ -3201,7 +3249,7 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2003)</small>
 
-### CAPITULO V. SEDICION
+### CAPITULO IV. ASONADA O MOTIN
 
 ###### Artículo 329.
 
@@ -3247,6 +3295,12 @@ Si el corruptor tiene alguna relación de autoridad de hecho o de derecho sobre 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)</small>
 
+### CAPITULO V. SEDICION
+
+### CAPITULO VI. DELITOS CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 335.
 
 Se aplicará prisión de seis meses a tres años al que:
@@ -3269,11 +3323,23 @@ TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA SEGURIDAD PUBLICA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 338.
 
 Se aplicará prisión de seis meses a tres años y multa de treinta a noventa días multa y decomiso al que porte, en lugares públicos, objetos tales como puñales, navajas de muelle, boxers, chacos, manoplas y otros semejantes que se utilicen para agredir.
 
 Las mismas sanciones se aplicarán a quien fabrique los citados objetos o comercie con ellos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### Artículo 338 Bis.
+
+Comete el delito contra la seguridad y el orden en un centro de detención o internamiento para adolescentes o adultos detenidos, procesados o sentenciados, quien introduzca o permita introducir al área de visita u otra destinada para la estancia o permanencia de los internos, uno o más de los siguientes objetos: radiolocalizadores, teléfonos celulares, computadoras, radios o cualquier otro aparato de comunicación, así como cualquier estupefaciente, psicotrópico, bebida embriagante u otra sustancia que produzca efectos similares.
+
+Al responsable de este delito se le impondrá pena de tres a seis años de prisión y multa de cien a doscientos días de salario. Cuando el sujeto activo sea servidor público, la pena se incrementará en una mitad.
+
+Las mismas sanciones se impondrán a los internos que tengan en su poder o posesión, cualquiera de los objetos o sustancias señaladas en el primer párrafo del presente artículo.
 
 TITULO DECIMOSEPTIMO
 
@@ -3549,6 +3615,20 @@ Se aplicará prisión de seis meses a ocho años y multa de cincuenta a doscient
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y hasta cuatrocientos días multa.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### Artículo 366.
+
+Se impondrá una pena de cuatro años seis meses a doce años de prisión y multa de doscientos a quinientos días de salario a quien:
+
+I. Aceche, vigile o realice actos tendientes a obtener la información sobre la ubicación de las actividades, los operativos o en general las labores de seguridad pública, de persecución o sanción del delito o ejecución de penas, en beneficio de una asociación delictuosa u organización criminal; o
+
+II. Aceche o vigile en cualquier lugar, o realice acto tendiente a evitar la captura de algún miembro de una asociación delictuosa u organización criminal.
+
+Además de las penas previstas en el párrafo anterior, se aumentará en una mitad más de la sanción privativa de libertad que le corresponda al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte o que por sus características exteriores sea semejante a los vehículos destinados a dicho servicio.
+
+Las penas señaladas en este artículo se aumentarán en una mitad de la pena que le corresponda y se impondrá además la destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por un servidor o ex servidor público de alguna de las instituciones de seguridad pública, procuración o administración de justicia, o integrante o ex integrante de las Fuerzas Armadas Mexicanas.
+
 ## TRANSITORIOS
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
@@ -3678,3 +3758,29 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero. Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas que se derogan.
+
+P.O. 1 DE JUNIO DE 2011.
+
+DECRETO No. 092 POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 6 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
+
+SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
+
+P.O. 1 DE JUNIO DE 2011.
+
+DECRETO No. 099, POR EL QUE SE REFORMAN LOS ARTICULOS 24, PRIMER PARRAFO Y 44, TERCER PARRAFO, DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, quedando derogadas las disposiciones que se opongan al mismo.
+
+P.O. 1 DE JUNIO DE 2011.
+
+DECRETO No. 100, POR EL QUE SE REFORMA EL ARTICULO 231 Y LA NUMERACION DEL CAPITULO UNICO DEL TITULO DECIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PUBLICA, PARA NUMERARSE COMO CAPITULO I; Y SE ADICIONA UN PARRAFO AL ARTICULO 231, QUEDANDO COMO SEGUNDO Y RECORRIENDOSE SUBSECUENTEMENTE EL OTRO, PARA QUEDAR COMO TERCERO; LOS ARTICULOS 231 BIS, 231 TER, UN CAPITULO II DENOMINADO CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCION O INTERNAMIENTO, CONFORMADO POR EL ARTICULO 338 BIS, CORRESPONDIENTE AL TITULO DECIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PUBLICA, ASI COMO UN CAPITULO VI DENOMINADO CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES, CONFORMADO POR EL ARTICULO 366, CORRESPONDIENTE AL TITULO DECIMO OCTAVO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO; TODOS ELLOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 1 DE JUNIO DE 2011.
+
+DECRETO No. 101, POR LO QUE SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCION XV AL ARTICULO 179 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
