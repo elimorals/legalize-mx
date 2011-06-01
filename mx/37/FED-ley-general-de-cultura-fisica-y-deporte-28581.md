@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2010-01-28"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -1358,9 +1358,25 @@ Se considera promoción la dispensa y administración de tales sustancias, así 
 
 III. La negativa a someterse a los controles de dopaje, dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes;
 
-IV. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje, y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-V. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
+IV. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+V. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VI. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades;
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VII. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VIII. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos.
 
 ###### Artículo 139.
 
@@ -1463,5 +1479,9 @@ Quinto. La nueva Comisión Especial para la Prevención de la Violencia en la Ce
 Sexto. Las Federaciones Deportivas Nacionales, que a la entrada en vigor el presente Decreto, cuenten en su marco regulatorio interior con algún reglamento o lineamiento, referentes a la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, deberán hacerlos del conocimiento de la Comisión Especial referida en el artículo 126.
 
 D.O.F. 28 DE ENERO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
