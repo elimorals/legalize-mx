@@ -4,7 +4,7 @@ identifier: "FED-ley-para-prevenir-y-sancionar-la-trata-de-personas-57531"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-11-26"
 
 LEY PARA PREVENIR Y SANCIONAR LA TRATA DE PERSONAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 27 de noviembre de 2007.
 
@@ -64,6 +64,10 @@ En todo lo no previsto por esta Ley serán aplicables supletoriamente las dispos
 ###### ARTÍCULO 5.
 
 Comete el delito de trata de personas quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba, para sí o para un tercero, a una persona, por medio de la violencia física o moral, engaño o el abuso de poder para someterla a explotación sexual, trabajos o servicios forzados, esclavitud o prácticas análogas a la esclavitud, servidumbre, o a la extirpación de un órgano, tejido o sus componentes.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+La persona que contrate publicidad por cualquier medio de comunicación, así como la persona que publique anuncios, que encuadren en alguna de las conductas del delito de trata de personas será sancionada conforme a lo dispuesto en el artículo 6 de esta ley.
 
 Cuando este delito sea cometido en contra de personas menores de dieciocho años de edad, o en contra de quien no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo no se requerirá acreditación de los medios comisivos.
 
@@ -221,6 +225,10 @@ c) Realizar campañas de información acerca de los métodos utilizados por los 
 
 d) Informar sobre los riesgos que sufren las víctimas de trata de personas, tales como daños físicos, psicológicos, peligros de contagio de enfermedades de transmisión sexual como el VIH/SIDA, el Virus del Papiloma Humano, entre otros.
 
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+e) Monitorear y vigilar que los anuncios que se publiquen por cualquier medio no contravengan lo dispuesto en esta ley.
+
 ###### ARTÍCULO 14.
 
 Las autoridades federales adoptarán políticas y programas a fin de:
@@ -292,3 +300,9 @@ Segundo.- El Ejecutivo expedirá el Reglamento de la Ley en un término de 120 d
 México, D.F., a 2 de octubre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de noviembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
