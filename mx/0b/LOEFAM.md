@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2009-06-12"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -1288,9 +1288,33 @@ Es facultad del Alto Mando, otorgar a los militares de la clase de Auxiliares, s
 
 De las Reclasificaciones
 
+> <small>(REFORMADO. D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 164.
 
-El personal del activo del Ejército y Fuerza Aérea, podrá ser cambiado de una Fuerza Armada a otra, de una Arma a otra, de un Servicio a otro, o de una Arma a un Servicio, en los casos de nivel Licenciatura de los Ingenieros Constructores, podrá hacerse de un Servicio o una Arma, o de una Especialidad a otra según el caso. Cuando por necesidades del Servicio el cambio sea por disposición superior, el interesado deberá recibir previamente un Curso de Capacitación y la nueva Patente o Nombramiento se expedirá con la antigüedad que posea el interesado en su grado. Si el cambio es por solicitud, sólo se concederá mediante examen y siempre que exista vacante, en este último caso, la expedición de la nueva Patente o Nombramiento será con la fecha en que se verifique el cambio. En cualquiera de estos casos deberá cancelarse la Patente o Nombramiento anterior.
+El personal del activo del Ejército y Fuerza Aérea, podrá ser reclasificado de:
+
+I. Una Fuerza Armada a otra;
+
+II. Un Arma a Otra;
+
+III. Un Arma a un Servicio;
+
+IV. Un Servicio a un Arma;
+
+V. Un Servicio a Otro, y
+
+VI. Una Especialidad a Otra.
+
+Las reclasificaciones se realizarán para satisfacer las necesidades del Ejército o de la Fuerza Aérea Mexicanos y podrán llevarse a cabo por disposición del Secretario de la Defensa Nacional en casos específicos o por concurso en el que el interesado satisfaga los requisitos que se establezcan en la convocatoria respectiva.
+
+En el caso de la fracción IV de este artículo, la reclasificación sólo procederá por disposición del Secretario de la Defensa Nacional y, en tiempo de paz, el interesado deberá manifestar su consentimiento para esta reclasificación.
+
+En los supuestos de reclasificación por disposición del Secretario de la Defensa Nacional, el personal deberá satisfacer los requisitos que para el efecto se establezcan, así como realizar y aprobar previamente el curso de capacitación que corresponda y la nueva Patente o Nombramiento deberá expedirse con la antigüedad que posea el interesado en su grado.
+
+Para el caso de que la reclasificación sea por concurso en el que el interesado haya satisfecho los requisitos establecidos en la convocatoria respectiva, se concederá siempre que exista vacante, y la nueva Patente o Nombramiento deberá expedirse con la fecha en que se verifique la reclasificación.
+
+En cualquiera de los casos de reclasificación, deberá cancelarse la Patente o Nombramiento anterior.
 
 De la Veteranización
 
@@ -1340,15 +1364,23 @@ En este caso, antes de girarse la orden de baja, se le emplazará por medio de p
 
 C. Por desaparición del militar, comprobada esta circunstancia mediante los partes oficiales, siempre que dure en esta situación más de tres meses, en caso de que el individuo de que se trate apareciera y justifique su ausencia, será reincorporado al activo;
 
-D. Tratándose del personal de Tropa y de los militares de la clase de Auxiliares, además de las causas señaladas en los incisos que anteceden, podrán ser dados de baja por observar mala conducta, determinada por el Consejo de Honor de la Unidad o Dependencia a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional. En ambos casos, siempre será oído en defensa el afectado; y
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+D. Tratándose del personal de Tropa y de los militares de la clase de Auxiliares, además de las causas señaladas en los incisos que anteceden, podrán ser dados de baja por observar mala conducta, determinada por el Consejo de Honor de la Unidad o Dependencia a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional. En ambos casos, siempre será oído en defensa el afectado;
 
 E. Los Militares Auxiliares causarán baja, además cuando no se consideren necesarios sus servicios o a consecuencia de cambios orgánicos en las estructuras de las Unidades o Dependencias. En estos casos, también será oído en defensa el afectado.
 
-Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta ya habiendo prestado más de cinco años de servicios, tendrá derecho a una compensación que deberá otorgar el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, cuyo monto será el equivalente al fijado para el retiro con el grado que tenía al ser dado de baja.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta y habiendo prestado más de cinco años de servicios, tendrá derecho a una compensación que deberá otorgar el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, cuyo monto será el equivalente al fijado para el retiro con el grado que tenía al ser dado de baja;
 
-F.- Por adquirir otra nacionalidad.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+F. Por adquirir otra nacionalidad, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+G. Por rescisión del contrato de enganche, conforme a las disposiciones jurídicas aplicables.
 
 Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja del Ejército y Fuerza Aérea, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
 
@@ -1558,9 +1590,11 @@ De Soldado a General de División;
 
 VI. De Ingenieros, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Ingenieros Constructores.
 
-De Capitán Primero a General de División; y
+De Subteniente a General de División, y
 
 B. Zapadores.
 
@@ -1606,29 +1640,37 @@ Generales de Brigada y Brigadieres de los Servicios con anotación del Servicio 
 
 II. De Ingenieros, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Arquitectos.
 
-De Capitán Primero a General Brigadier; y
+De Subteniente a General Brigadier, y
 
 B. Especialistas del Servicio de Ingenieros de Soldado a Teniente Coronel.
 
 III. Del Servicio Cartográfico, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Ingenieros del Servicio Cartográfico.
 
-De Teniente a General de Brigada; y
+De Subteniente a General de Brigada, y
 
 B. Fotogrametristas. De Soldado a Mayor.
 
 IV. De Transmisiones, que se divide en cuatro grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. De Ingenieros en Comunicaciones y Electrónica.
 
-De Capitán Primero a General de Brigada;
+De Subteniente a General de Brigada;
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 B. De Ingenieros en Transmisiones.
 
-De Teniente a General de Brigada;
+De Subteniente a General de Brigada;
 
 C. De Transmisiones.
 
@@ -1640,9 +1682,11 @@ De Soldado a Teniente Coronel.
 
 V. De Materiales de Guerra, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Ingenieros Industriales.
 
-De Capitán Primero a General de Brigada; y
+De Subteniente a General de Brigada, y
 
 B. De Materiales de Guerra.
 
@@ -1672,9 +1716,11 @@ A. Personal de Administración.
 
 De Soldado a General de Brigada;
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 B. Contadores Públicos.
 
-De Teniente a General Brigadier;
+De Subteniente a General Brigadier;
 
 C. Oficinistas.
 
@@ -1690,13 +1736,17 @@ De Soldado a General de Brigada.
 
 IX. De Sanidad, que se divide en cinco grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Médicos Cirujanos.
 
-De Capitán Primero a General de Brigada.
+De Subteniente a General de Brigada;
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 B. Cirujanos Dentistas.
 
-De Capitán Primero a General Brigadier;
+De Subteniente a General Brigadier;
 
 C. Personal de Sanidad.
 
@@ -1710,9 +1760,11 @@ E. Especialistas del Servicio de Sanidad. De Soldado a Teniente Coronel.
 
 X. De Justicia, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Licenciados en Derecho.
 
-De Mayor a General de Brigada; y
+De Subteniente a General de Brigada, y
 
 B. Especialistas del Servicio de Justicia.
 
@@ -1720,9 +1772,11 @@ De Soldado a Teniente Coronel.
 
 XI. De Veterinaria y Remonta, que se divide en dos grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Médicos Veterinarios.
 
-De Mayor a Coronel; y
+De Subteniente a Coronel, y
 
 B. Personal de Veterinaria y Remonta.
 
@@ -1730,9 +1784,11 @@ De Soldado a Teniente Coronel.
 
 XII. Del Servicio Meteorológico Militar, que se divide en tres grupos:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 A. Meteorólogos.
 
-De Teniente a General Brigadier;
+De Subteniente a General Brigadier;
 
 B. Aerologistas.
 
@@ -1750,9 +1806,11 @@ XIV. Del Servicio del Material Aéreo, que se divide en seis grupos;
 
 A. Mantenimiento de Material Aéreo, que se subdivide en:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 a. Ingenieros en Aeronáutica.
 
-De Capitán Primero a General de Brigada; y
+De Subteniente a General de Brigada, y
 
 b. Especialistas en Mantenimiento de Aviación.
 
@@ -1764,9 +1822,11 @@ De Sargento Segundo a Coronel;
 
 C. Material Aéreo Electrónico, que se subdivide en:
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 a. Ingenieros en Electrónica de Aviación.
 
-De Capitán Primero a General de Brigada; y
+De Subteniente a General de Brigada, y
 
 b. Especialistas en Electrónica de Aviación.
 
@@ -1790,9 +1850,11 @@ De Soldado a Teniente Coronel.
 
 Para los efectos de la presente Ley, es especialista el militar perteneciente a los Servicios del Ejército y Fuerza Aérea, que cuenta con una determinada preparación, habilidad u oficio, en alguna rama de la ciencia, la técnica y el arte, y que no tenga escalafón propio. Los Especialistas militares pueden ser profesionistas, técnicos, maestros, artistas, artesanos, obreros calificados y trabajadores manuales.
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 195.
 
-A los especialistas militares se les podrán conferir las jerarquías siguientes: Los Trabajadores Manuales, Obreros Calificados y Artesanos, de Soldado hasta Sargento Primero; los Técnicos, Maestros y Artistas, de Sargento Primero hasta Capitán Primero; y los Profesionistas, de Teniente hasta Teniente Coronel. En cada caso deberán acreditar los conocimientos según proceda.
+A los especialistas militares se les podrán conferir las jerarquías siguientes: Los Trabajadores Manuales, Obreros Calificados y Artesanos, de Soldado hasta Sargento Primero; los Técnicos, Maestros y Artistas, de Sargento Primero hasta Capitán Primero; y los Profesionistas, de Subteniente hasta Teniente Coronel. En cada caso deberán acreditar los conocimientos según proceda.
 
 ###### ARTICULO 196.
 
@@ -1921,3 +1983,15 @@ D.O.F. 12 DE JUNIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La reforma de los artículos 191, 193 y 195 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura, en Instituciones Educativas Militares.
+
+Tercero.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
+
+Cuarto.- El Ejecutivo Federal reformará los reglamentos de las Instituciones Educativas Militares que impartan estudios tipo superior de nivel licenciatura y el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en un plazo no mayor a 180 días de la entrada en vigor del presente Decreto.
+
+Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
