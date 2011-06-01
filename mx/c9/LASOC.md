@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2004-09-02"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -196,15 +196,21 @@ Se entienden como servicios básicos de salud en materia de asistencia social lo
 
 I. Los señalados en el Artículo 168 de la Ley General de Salud:
 
-a) La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-b) La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo e inválidos sin recursos;
+a) La atención a personas que, por sus carencias socio-económicas o por condiciones de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+b) La atención en establecimientos especializados a menores y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
 
 c) La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud;
 
 d) El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-e) La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores e inválidos sin recursos;
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+e) La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, adultos mayores y personas con discapacidad sin recursos;
 
 f) La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -234,7 +240,9 @@ X. El apoyo a mujeres en períodos de gestación o lactancia, con especial atenc
 
 XI. La prevención al desamparo o abandono y la protección a los sujetos que lo padecen;
 
-XII. La prevención de invalidez y la rehabilitación e integración a la vida productiva o activa de personas con algún tipo de discapacidad;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+XII. La prevención de la discapacidad, la habilitación y la rehabilitación e integración a la vida productiva o activa de personas con algún tipo de discapacidad;
 
 XIII. La promoción de acciones y de la participación social para el mejoramiento comunitario, y
 
@@ -743,3 +751,9 @@ TERCERO.- Para los efectos de la regulación del Directorio Nacional de Asistenc
 México, D.F., a 29 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de septiembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
