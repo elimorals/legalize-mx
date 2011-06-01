@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2011-01-13"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ENERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -179,7 +177,9 @@ Durante los días inhábiles deberán dejarse guardias que atiendan los término
 
 ## TITULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACION TERRITORIAL
 
-### CAPITULO UNICO. (REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010) (F. DE E., P.O. 13 DE ENERO DE 2011)
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 6º.
 
@@ -215,15 +215,19 @@ X.- Los demás que los que la ley les confiera dicho carácter.
 
 ###### ARTICULO 9º.
 
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo, y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo, Octavo y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Juzgados de Primera Instancia se asentarán en las cabeceras de los distritos judiciales, con la salvedad de los Especializados en Justicia para adolescentes y en delitos contra la salud en la modalidad de Narcomenudeo cuya residencia fija la ley. Los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio en donde se encuentren ubicados los Centros de Reintegración Social y Familiar para Adolescentes Infractores.
+La residencia de los Juzgados Especializados en Justicia para Adolescentes, de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes se fijará en los términos que establece la ley.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -321,15 +325,29 @@ Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judicia
 
 Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 10 Ter.
+
+La distribución en los Distritos Judiciales de los Juzgados en materia de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes, se determinará por el Consejo de la Judicatura del Poder Judicial de Tamaulipas.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 11.
 
 El Pleno del Supremo Tribunal de Justicia podrá expedir Acuerdos Generales a fin de establecer lo necesario para el buen desempeño de la función jurisdiccional. Serán publicados en el Periódico Oficial del Estado y surtirán sus efectos en la fecha en ellos indicados o, en su defecto, al día siguiente de su publicación.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 12.
 
-Cuando en un distrito judicial existan dos o más Juzgados del mismo ramo, serán distinguidos por orden numérico.
+Es Juez competente para juzgar de los hechos delictuosos y aplicar la sanción procedente, el del lugar donde se hubiere cometido el delito.
+
+Es Juez competente en Ejecución de Sanciones el del lugar donde se ubique el Centro de Ejecución de Sanciones donde esté cumpliendo la pena, debiendo dicho Juez dar cumplimiento de las sanciones impuestas en una o más causas penales, según sea el caso.
+
+Corresponde al Juez de Ejecución de Sanciones, en los casos de existir dos o más penas privativas de libertad contra el mismo reo, establecer a partir de cuándo empezará a computarse cada una de ellas en forma sucesiva y no simultánea, tomando como fundamento la fecha en que causen ejecutoria las sentencias de la más antigua a la más reciente.
+
+En relación a la Ejecución de Medidas para Adolescentes se estará a lo dispuesto en la ley de la materia.
 
 ## TITULO TERCERO. DE LA INTEGRACION DE LOS TRIBUNALES
 
@@ -789,17 +807,25 @@ I.- Los Jueces de lo Civil;
 
 II.- Los Jueces de lo Familiar;
 
-III.- Los Jueces de lo Penal; y (sic),
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+III.- Los Jueces de lo Penal;
+
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
 IV.- Los Jueces Especializados en Justicia para Adolescentes y en delitos contra la salud en la modalidad de narcomenudeo;
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-V.- Los Jueces de ejecución de sanciones, y
+V.- Los Jueces de Ejecución de Sanciones;
 
-VI.- Los Jueces Mixtos.
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+VI.- Los Jueces de Ejecución de Medidas para Adolescentes; y,
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JUNIO DE 2011)</small>
+
+VII.- Los Jueces Mixtos.
 
 ###### ARTICULO 36.
 
@@ -920,6 +946,70 @@ IX.- Realizar, cuando resulte procedente, todas aquellas diligencias solicitadas
 X.- Vigilar que el cumplimiento de las medidas que se apliquen con base en los principios rectores determinados en la sentencia definitiva, ejecutándose en sus términos, salvaguardando el debido proceso legal y demás derechos y garantías que asisten al adolescente infractor; y
 
 XI.- Desempeñar las demás funciones que les encomienden las leyes federales y del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 39 Ter.
+
+Corresponde a los Jueces de Ejecución de Sanciones las atribuciones siguientes:
+
+l.- Dar por compurgadas las penas y medidas de seguridad impuestas por sentencia definitiva, en los términos que la impuso el Juez de la causa, ordenar la libertad de los sentenciados que las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
+
+II.- Modificar las penas y medidas de seguridad impuestas por sentencia firme, en los términos que establezcan las leyes;
+
+III.- Conceder el otorgamiento o denegación de la terminación anticipada de las penas o medidas de seguridad impuestas en la sentencia definitiva;
+
+IV.- Solicitar a las autoridades carcelarias copias de la carpeta de ejecución de cada sentenciado, así como los informes que necesite para concederle o negarle la modificación o terminación anticipada de la pena o medida de seguridad impuesta;
+
+V.- Visitar periódicamente los Centros de Ejecución de Sanciones con los fines siguientes:
+
+a).- Entrevistarse con los internos para escuchar las solicitudes que presenten; y
+
+b).- Realizar las diligencias para desahogar las pruebas o testimonios, ofrecidos por la parte interesada y así estar en aptitud de conceder o negar la modificación o terminación anticipada de la pena o medida de seguridad impuesta al sentenciado;
+
+VI.- Resolver lo siguiente:
+
+a).- La modificación o terminación anticipada de las penas o medidas de seguridad impuestas en sentencia firme, o el otorgamiento de cualquier beneficio de libertad anticipada, libertad preparatoria, remisión parcial de la pena, libertad definitiva o alguna otra pena en externamiento; y
+
+b).- La revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, cuando proceda conforme a la ley;
+
+VII.- Hacer comparecer ante su presencia a los sentenciados y las autoridades de ejecución para cumplir con sus funciones;
+
+VIII.- Librar las órdenes de detención que procedan en ejecución de la sentencia, cuando le haya sido revocado algún beneficio; y
+
+IX.- Las demás atribuciones que esta ley y otros ordenamientos le asignen.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 39 Quáter.
+
+Corresponde a los Jueces de Ejecución de Medidas para Adolescentes las atribuciones siguientes:
+
+I.- Dar por cumplida la medida impuesta al adolescente por sentencia definitiva, en los términos que la impuso el Juez de la causa, ordenando el externamiento de quienes las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
+
+II.- Modificar las medidas impuestas por sentencia firme a los adolescentes, en los términos que establezcan las leyes y tratados internacionales;
+
+III.- Conceder el otorgamiento o denegación de la terminación anticipada de las medidas impuestas en la sentencia definitiva;
+
+IV.- Solicitar a las autoridades administrativas copias de la carpeta de cada adolescente que se encuentre cumpliendo alguna medida por sentencia firme, así como los informes que necesite para concederle o negarle la modificación o terminación anticipada de la medida impuesta;
+
+V.- Visitar periódicamente los Centros de Reintegración Social y Familiar para los Adolescentes, con los fines siguientes:
+
+a).- Entrevistarse con los adolescentes para escuchar las solicitudes que le presenten; y
+
+b).- Realizar diligencias para desahogar las pruebas o testimonios ofrecidos por la parte interesada, y así estar en aptitud de conceder o negar la modificación o terminación anticipada de la medida impuesta al adolescente;
+
+VI.- Resolver lo siguiente:
+
+a).- El otorgamiento de cualquier beneficio de medida en externamiento;
+
+b).- La revocación de cualquier beneficio concedido a los adolescentes por cualquier autoridad jurisdiccional, cuando proceda conforme a la ley;
+
+VII.- Hacer comparecer ante su presencia a los sentenciados y las autoridades encargadas de la ejecución de las medidas para cumplir con sus funciones;
+
+VIII.- Librar las órdenes de detención que procedan en ejecución de la sentencia, cuando le haya sido revocado al adolescente algún beneficio; y
+
+IX.- Las demás atribuciones que ésta ley y otros ordenamientos le asignen.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1307,7 +1397,7 @@ El Consejo de la Judicatura podrá adscribir libremente a los Secretarios Proyec
 
 ### CAPITULO XIII. DE LOS ACTUARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 74.
 
@@ -1497,7 +1587,7 @@ Los servidores públicos judiciales disfrutarán de dos períodos anuales de vac
 
 Los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Consejo de la Judicatura considera justificada la petición, siempre que no afecte a la administración de la justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 91.
 
@@ -1533,13 +1623,13 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
 Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Consejo de la Judicatura, cuando:
 
@@ -1758,6 +1848,10 @@ El Supremo Tribunal de Justicia comisionará a un Magistrado o a un Juez, cuando
 ###### ARTICULO 117.
 
 Las visitas no se practicarán en día fijo ni con previo aviso a los jefes o directores de los establecimientos respectivos. Los Jueces Penales y Mixtos, así como los Jueces Especializados en Justicia para Adolescentes estarán obligados a realizar cuando menos una visita bimestral a los reclusorios de su distrito y a los Centros de Reintegración Social y Familiar para Adolescentes Infractores por lo menos dos veces por mes.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+Los Jueces de Ejecución de Sanciones y los Jueces de Ejecución de Medidas para Adolescentes realizarán las visitas periódicamente.
 
 ###### ARTICULO 118.
 
@@ -3120,3 +3214,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Para efectos de este Decreto el período de ejercicio de los actuales magistrados y consejeros se considerará a partir de la fecha de su nombramiento y por el término para el que hayan sido designados.
+
+P.O. 1 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Tamaulipas deberá nombrar a los Jueces de Ejecución de Sanciones, así como a los Jueces de Ejecución de Medidas para Adolescentes, a más tardar el día 18 de junio del 2011.
+
+###### ARTÍCULO TERCERO.
+
+Las facultades y obligaciones que mediante el presente Decreto se señalan para los Jueces de Ejecución de Sanciones, así como para los Jueces de Ejecución de Medidas para Adolescentes, no podrán recaer en un mismo servidor público.
