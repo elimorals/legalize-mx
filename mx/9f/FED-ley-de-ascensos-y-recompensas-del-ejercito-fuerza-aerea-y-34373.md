@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2009-06-12"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -131,7 +131,9 @@ I. Por propuesta, previo concurso en cada Organismo, para cubrir las plazas de C
 
 II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
 
-III. Por aprobar satisfactoriamente el cuarto y quinto año en las carreras de la Escuela Militar de Ingenieros y de la carrera en la Escuela Médico Militar, respectivamente, y, en su caso, ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas Militar de Ingenieros y Médico Militar, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
 
 IV. Por acreditación de la aptitud profesional en la promoción especial para Subtenientes egresados de las escuelas de formación;
 
@@ -227,19 +229,27 @@ II. Tener en el grado que ostente una antigüedad mínima de:
 
 a. Subtenientes: 3 años;
 
-b. Tenientes: 3 años;
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-c. Capitanes Segundos: 3 años, y
+b. Subtenientes que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley o que hayan egresado de otras Instituciones Educativas Militares con estudios de tipo Superior de Nivel Licenciatura: 2 años;
 
-d. Capitanes Primeros: 3 años.
+c. Tenientes: 3 años;
+
+d. Capitanes Segundos: 3 años, y
+
+e. Capitanes Primeros: 3 años.
 
 III. Haber prestado sus servicios en el grado de la siguiente forma:
 
 A. Los Subtenientes:
 
-a. De Arma, encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea, y
+a. De Arma, encuadrados en las unidades del Ejército o en las unidades de vuelo de la Fuerza Aérea, y (sic)
 
 b. De Servicio, en los servicios orgánicos de las unidades del Ejército, de las unidades de vuelo de la Fuerza Aérea o en las unidades de sus servicios no encuadradas. En los servicios en los que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+c. Los que hayan obtenido su grado conforme a la fracción III del artículo 9 de esta Ley, como discentes en dichas Instituciones Educativas Militares o en actividades militares propias de su especialidad.
 
 B. Los Tenientes:
 
@@ -295,25 +305,37 @@ El resto del tiempo, en su caso, en otras actividades militares propias de su es
 
 IV. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
 
-V. Haber aprobado los cursos a que se refiere la fracción V del artículo 8;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+V. Haber aprobado los cursos a que se refiere la fracción V del artículo 8 de esta Ley;
 
 VI. Acreditar buena conducta militar y civil, y
 
-VII. No encontrarse en alguno de los supuestos previstos en el artículo 35.
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VII. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-Los Subtenientes egresados de las Escuelas o Cursos de Formación de Oficiales, podrán ser ascendidos fuera de concurso al grado de Teniente, una vez cumplidos tres años de su egreso, siempre que reúnan además los requisitos siguientes:
+Los Subtenientes egresados de las Instituciones Educativas Militares o Cursos de Formación de Oficiales o que hayan obtenido su grado en términos de la fracción III del artículo 9 de esta Ley, podrán participar por una sola ocasión en la Promoción Especial para ascender al grado de Teniente, en los casos siguientes:
 
-I. Haber servido durante ese lapso precisamente en las unidades del Ejército ejerciendo el mando o en unidades de vuelo de la Fuerza Aérea, si se trata de Pilotos Aviadores; tratándose de Oficiales de Servicio, en los Servicios Orgánicos de las Unidades del Ejército, de unidades de vuelo de la Fuerza Aérea o en unidades de sus Servicios no encuadradas; y, en aquellos servicios en que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad;
+A. Una vez cumplidos dos años de su egreso, para el personal cuyos estudios tengan una duración de cuatro años, o tres si la duración de éstos fue de tres años.
 
-II. Alcanzar la puntuación aprobatoria en la Promoción especial;
+Lo anterior, siempre que hayan servido durante ese tiempo en las unidades del Ejército ejerciendo el mando o en unidades de vuelo de la Fuerza Aérea, si se trata de Pilotos Aviadores; tratándose de Oficiales de servicio, en los Servicios Orgánicos de las Unidades del Ejército, de unidades de vuelo de la Fuerza Aérea o en unidades de sus Servicios no encuadradas; y, en aquellos Servicios en que no existan unidades organizadas, desempeñando actividades militares propias de su especialidad.
 
-III. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+B. Una vez cumplidos dos años de antigüedad en el grado, del ascenso obtenido conforme a la fracción III del artículo 9 de esta Ley.
 
-IV. Acreditar buena conducta militar y civil, y
+En todo caso, el personal al que se refiere este artículo también deberá reunir los requisitos siguientes:
 
-V. No encontrarse en alguno de los supuestos previstos en el artículo 35.
+I. Alcanzar la puntuación aprobatoria en la Promoción Especial;
+
+II. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+
+III. Acreditar buena conducta militar y civil, y
+
+IV. No encontrarse en alguno de los supuestos previstos en el artículo 35 de esta Ley.
 
 ###### ARTÍCULO 20.
 
@@ -411,13 +433,27 @@ Cuando, de conformidad a lo ordenado por el artículo 28, dos o más militares h
 
 Independientemente de lo establecido por los artículos 8 y 9 de la presente Ley, también podrán ser promovidos al grado inmediato superior los militares que:
 
-I. Ejecuten con riesgo de su vida un acto excepcionalmente meritorio, y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+I. Ejecuten con riesgo de su vida un acto excepcionalmente meritorio, o
 
 II. Sean autores de un invento o innovación de verdadera utilidad y de gran importancia para la capacitación profesional del elemento militar o para la defensa de la Nación.
 
 En tales casos, la Secretaría designará un jurado idóneo que investigue y juzgue sobre dichos actos, inventos o innovaciones. El dictamen del jurado será sometido a consideración del Presidente de la República, quien resolverá en definitiva sobre el ascenso del interesado.
 
 Los ascendidos en esta forma tendrán obligación de concurrir posteriormente a los cursos que marque la normativa vigente en materia de educación militar, sin cuyo requisito no podrán tomar parte en promociones ulteriores.
+
+> <small>(ADICIONADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 31 Bis.
+
+Cuando algún militar en servicio activo, pierda la vida a consecuencia de actos excepcionalmente meritorios, ya sea producto de su liderazgo, valor, lealtad a las instituciones, conducta o entrega total al cumplimiento del deber; se constituirá la Comisión de Evaluación de la Promoción Superior a que se refiere el artículo 33 de esta Ley.
+
+La Comisión de Evaluación de la Promoción Superior reunirá los elementos de juicio que acrediten las circunstancias extraordinarias y, de ser el caso, propondrá al Secretario el ascenso post mortem del militar. De estimarlo procedente, el Secretario presentará a consideración del Presidente de la República el ascenso en cuestión.
+
+La Secretaría remitirá al Senado de la República, un informe que contenga las consideraciones y valoraciones para el otorgamiento de este tipo de ascensos, dentro de los tres meses siguientes al mismo.
+
+Los derechohabientes de los militares ascendidos en los términos del presente artículo, tendrán derecho a las prestaciones sociales correspondientes al grado inmediato superior concedido, independientemente de los años de servicio y años en el grado que haya cumplido.
 
 ###### ARTÍCULO 32.
 
@@ -780,3 +816,25 @@ D.O.F. 12 DE JUNIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 31 Y SE ADICIONA UN ARTICULO 31 BIS, A LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presidente de la República podrá conferir ascensos post mortem que estén motivados por actos realizados con anterioridad a la entrada del presente Decreto, con sujeción a las disposiciones del mismo.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+DECRETO QUE REFORMA LOS ARTICULOS 9, FRACCION III; 18, FRACCIONES V Y VII Y 19; Y SE ADICIONAN EL INCISO B A LA FRACCION II DEL ARTICULO 18, RECORRIENDOSE LOS ACTUALES B, C Y D PARA SER C, D Y E, RESPECTIVAMENTE Y EL SUBINCISO C AL INCISO A DE LA FRACCION III DEL ARTICULO 18 DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJERCITO Y FUERZA AEREA MEXICANOS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La reforma de los artículos 191, 193 y 195 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciatura, en Instituciones Educativas Militares.
+
+Tercero.- Los discentes que se encuentren en el supuesto que antecede, una vez que culminen satisfactoriamente sus estudios y aprueben el examen profesional correspondiente, obtendrán la jerarquía que se preveía antes de la entrada en vigor del presente Decreto.
+
+Cuarto.- El Ejecutivo Federal reformará los reglamentos de las Instituciones Educativas Militares que impartan estudios tipo superior de nivel licenciatura y el Reglamento de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en un plazo no mayor a 180 días de la entrada en vigor del presente Decreto.
+
+Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
