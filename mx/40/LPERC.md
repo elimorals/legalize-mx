@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2009-06-09"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -360,37 +360,59 @@ La entrega de premios tendrá lugar, como homenaje al Padre de la Patria, de pre
 
 ### CAPITULO VI. Orden Mexicana del Aguila Azteca
 
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 40.
 
-La Orden Mexicana del "Aguila Azteca" es la distinción que se otorga a extranjeros, con el objeto de reconocer los servicios prominentes prestados a la Nación Mexicana o a la humanidad, y corresponder por cortesía, en casos excepcionales, a las distinciones de que sean objeto los funcionarios mexicanos.
+La Orden Mexicana del Águila Azteca es la distinción que se otorga a extranjeros, con el objeto de reconocer los servicios prominentes prestados a la Nación Mexicana o a la humanidad, y para corresponder a las distinciones de que sean objeto los servidores públicos mexicanos.
 
-Esta Condecoración se tramitará en la Secretaría de Relaciones Exteriores, por conducto de un Consejo presidido por los Secretarios de Relaciones Exteriores y de la Defensa Nacional, teniendo como vocales a los subsecretarios respectivos; fungirá como Secretario del Consejo el Director General del Servicio Diplomático de la Secretaría de Relaciones Exteriores.
+Esta Condecoración se tramitará ante la Secretaría de Relaciones Exteriores por conducto de un Consejo presidido por el Secretario de Relaciones Exteriores, teniendo como vocales a los Subsecretarios competentes por razón geográfica o por materia, y como Secretario del Consejo, al Director General que establezca el Reglamento Interior de la Secretaría de Relaciones Exteriores.
+
+La Condecoración de la Orden Mexicana del Águila Azteca se otorgará, principalmente, durante las visitas de Estado u oficiales que se programen entre los países de la comunidad internacional, cuando se acuerden intercambios de condecoraciones entre los jefes de Estado, jefes de Gobierno o Primeros Ministros.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 41.
 
-La Orden Mexicana del Aguila Azteca se otorgará:
+La Orden Mexicana del Águila Azteca se otorgará en los grados de:
 
-I.- El Collar, a jefes de estado,
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-II.- La Cruz, a jefes de Gobierno o a primeros ministros;
+I. Collar, a jefes de estado;
 
-III.- La Banda, a ministros, secretarios de estado o embajadores;
+II. (DEROGADA, D.O.F. 1 DE JUNIO DE 2011)
 
-IV.- La Medalla, a subsecretarios o sus equivalentes y enviados extraordinarios y ministros plenipotenciarios;
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-V.- La Placa, a encargados de negocios ad-hoc y a funcionarios equivalentes de las cancillerías extranjeras;
+III. Banda en Categoría Especial, a jefes de gobierno, a príncipes herederos, consortes de jefes de Estado y personas cuya categoría equivalga a las citadas;
 
-VI.- La Venera, a encargados de negocios ad-interim, a funcionarios equivalentes de las cancillerías extranjeras y a miembros de misiones diplomáticas; y
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
 
-VII.- La Insignia, en los demás casos que el Consejo estime pertinente.
+IV. Banda, a ministros o secretarios de estado, miembros de familias reales, embajadores o personas cuya categoría equivalga a las citadas;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+V. Placa, a subsecretarios o viceministros de Estado, a encargados de negocios ad hoc, cónsules generales, generales brigadieres, contralmirantes, vicealmirantes, así como aquellos cuya categoría equivalga a las citadas;
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VI. Venera, a ministros residentes, encargados de negocios titulares, coroneles y tenientes coroneles, capitanes de navío, fragata o corbeta, así como a aquellos cuya categoría equivalga a las citadas, y
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+
+VII. Insignia, a consejeros, primeros, segundos y terceros secretarios de Embajada, capitanes, tenientes de navío, a aquellos cuya categoría equivalga a los citados y a los demás casos que el Consejo estime pertinente.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-En casos especiales a juicio del Consejo, podrán conferirse a extranjeros distinguidos, según sus méritos, los diferentes grados de la Orden Mexicana del Aguila Azteca, excepción hecha del Collar (sic) de la Cruz.
+En casos especiales, a juicio del Consejo, podrá conferirse la Orden Mexicana del Águila Azteca en sus diferentes grados a extranjeros distinguidos, según sus méritos, excepción hecha de grado del Collar.
+
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 43.
 
-A los diplomáticos extranjeros acreditados en México, sólo se les otorgará la Orden al término de su misión, cuando hayan permanecido en el país dos años continuos como mínimo.
+A los diplomáticos extranjeros acreditados en México, sólo se les otorgará la Orden al término de su misión, siempre que hayan permanecido en el país dos años continuos como mínimo. El Consejo otorgará la Condecoración con base en la valoración de la labor desempeñada en el país.
 
 ### CAPITULO VII. Premio Nacional de Ciencias y Artes
 
@@ -1130,25 +1152,25 @@ Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación s
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES CAPITULO XXII], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### Artículo 124.
+###### ARTICULO 124.
 
 Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia de partida, con cargo al presupuesto del ramo de la Presidencia. Las recompensas de que trata el Capítulo XVI únicamente podrán recaer sobre el presupuesto de la dependencia u organismo al que pertenezca el beneficiario.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 121], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### Artículo 125.
+###### ARTICULO 125.
 
 Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 122], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### Artículo 126.
+###### ARTICULO 126.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTICULO 123], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-###### Artículo 127.
+###### ARTICULO 127.
 
 Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique el salario mínimo general en el Distrito Federal.
 
@@ -1227,3 +1249,7 @@ D.O.F. 30 DE JUNIO DE 2006.
 D.O.F. 9 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
