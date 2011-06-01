@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ganaderia-del-estado-de-tabasco-70081"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE GANADERIA DEL ESTADO DE TABASCO
 
-LEY DE GANADERIA DEL ESTADO DE TABASCO
+LEY DE GANADERÍA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO PECUARIO DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2011 (DEROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 27 de diciembre de 2000.
 
@@ -789,7 +791,7 @@ Se abroga la Ley de Ganadería del Estado de Tabasco, publicada en el Suplemento
 
 La Secretaría en un plazo no mayor de 120 días a la entrada en vigor de la presente Ley, emitirá los Reglamentos necesarios para su aplicación y en un plazo no mayor de 30 días procederá a la integración e instalación del Comité de Enajenación.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE VILLA HERMOSA, CAPITAL DEL ESTADO DE TABASCO, ALOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL.- LUIS FELIPE MADRIGAL HERNÁNDEZ, DIPUTADO PRESIDENTE.- ELENA CRISTINA CORTÉS CELORIO, DIPUTADA SECRETARIA.- RÚBRICAS.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA CIUDAD DE VILLA HERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL.- LUIS FELIPE MADRIGAL HERNÁNDEZ, DIPUTADO PRESIDENTE.- ELENA CRISTINA CORTÉS CELORIO, DIPUTADA SECRETARIA.- RÚBRICAS.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -802,3 +804,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. CARLOS MANUEL PEREZ PRIEGO
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos que contrae esta Ley, se derogan todas las disposiciones legales o reglamentarias que estén en vigor y que se opongan a la misma.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término no mayor de ciento ochenta días hábiles a la entrada en vigor del presente ordenamiento.
+
+CUARTO.- Las organizaciones de productores pecuarios que se encuentren constituidas a la entrada en vigor de esta Ley, deberán registrarse ante la Secretaría de Desarrollo Agropecuario, Forestal y Pesca del Estado en un término no mayor de ciento veinte días hábiles contados a partir de la publicación del Reglamento de la presente Ley.
