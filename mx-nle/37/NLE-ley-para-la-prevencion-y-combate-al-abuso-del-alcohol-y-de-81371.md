@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2011-05-18"
+last_updated: "2011-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACION PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 1 Y 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACION PARA SU VENTA Y CONSUMO PARA EL ESTADO DE NUEVO LEON
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -547,8 +547,6 @@ Asimismo en el padrón se publicará el registro de los establecimientos que deb
 
 Será requisito indispensable de validez de la licencia o permiso correspondiente, el estar inscrito en el padrón único.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 42.
 
 Para la expedición de los permisos especiales con fines de lucro otorgados por la Tesorería para la venta o consumo de bebidas alcohólicas en festividades regionales, ferias, verbenas, eventos especiales u ocasionales, el interesado o el representante o apoderado legal, deberá solicitarlo con un mínimo de treinta y un máximo de sesenta días hábiles de anticipación a la fecha de inicio del evento. Para ello deberá cumplirse con los siguientes requisitos:
@@ -559,9 +557,11 @@ a) Nombre del solicitante y domicilio;
 
 b) Lugar del evento;
 
-b (sic)) Giros que se van a instalar;
+> <small>(F. DE E., P.O. 1 DE JUNIO DE 2011)</small>
 
-c) Área de servicio o atención al cliente para venta o consumo de bebidas alcohólicas (en metros cuadrados);
+c) Giros que se van a instalar;
+
+c) (sic) Área de servicio o atención al cliente para venta o consumo de bebidas alcohólicas (en metros cuadrados);
 
 d) Plano de ubicación de las áreas de servicio o atención; y
 
