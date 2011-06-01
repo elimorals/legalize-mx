@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-judicial-del-estado-de-tabasco-7824"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-11-21"
-last_updated: "2008-12-13"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de noviembre de 1990.
 
@@ -627,7 +627,9 @@ VIII.- De los demás que les encomienden las Leyes.
 
 Los Juzgados de lo penal conocerán:
 
-I.- De todos los procesos por delito del orden común, conforme a lo dispuesto por los Códigos Penal y de Procedimientos Penales y Leyes especiales;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+I.- De todos los procesos por delitos del orden común y de aquellas materias respecto de las cuales la Constitución Federal, así como las leyes que de ella emanen les otorguen competencia, conforme a lo dispuesto por los Códigos Penal y de Procedimientos Penales y leyes especiales;
 
 II.- De los delitos militares cometidos dentro de su jurisdicción, hasta resolver la situación jurídica del indiciado, en atención a lo dispuesto por el Artículo 31 del Código de Justicia Militar;
 
@@ -1485,7 +1487,7 @@ Para ser Director de Contraloría, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento;
 
-II.- Tener preferentemente, Titulo Profesional de Licenciado en Contaduría Pública, Licenciado en Administración u otro equivalente a juicio del Consejo de la Judicatura;
+II.- Tener preferentemente, Título Profesional de Licenciado en Contaduría Pública, Licenciado en Administración u otro equivalente a juicio del Consejo de la Judicatura;
 
 III.- Tener práctica profesional en el ejercicio de las tareas propias o afines del control interno, no menor de tres años;
 
@@ -2378,3 +2380,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos judiciales o contenciosos que se encuentren en trámite en los juzgados de primera instancia, no serán declinados a los juzgados de paz, sino que se concluirán en aquellos.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
+
+SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
