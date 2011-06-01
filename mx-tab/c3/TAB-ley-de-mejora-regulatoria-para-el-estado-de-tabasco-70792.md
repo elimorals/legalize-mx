@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-mejora-regulatoria-para-el-estado-de-tabasco-70792"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-24"
-last_updated: "2009-10-24"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 24 de octubre de 2009.
 
@@ -379,11 +379,13 @@ Los Municipios deberán integrar el Registro de Trámites y servicios Municipale
 
 ### CAPÍTULO VI. DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
 ###### Artículo 27.
 
-El SARE es el conjunto de acciones efectuadas por la Administración Pública Estatal en coordinación con la Unidad y por los ayuntamientos, en el ámbito de su competencia, para que las empresas, principalmente las micro, pequeñas y medianas, que impliquen bajo riesgo para la salud o al medio ambiente, puedan constituirse e iniciar operaciones en un máximo de setenta y dos horas, a partir del ingreso de su solicitud.
+El SARE es el conjunto de acciones efectuadas por la Administración Pública Estatal en coordinación con la Unidad y por los ayuntamientos, en el ámbito de su competencia, para que las empresas, principalmente las micro, pequeñas y medianas que impliquen bajo riesgo para la salud o al medio ambiente, puedan constituirse e iniciar operaciones en un máximo de hasta setenta y dos horas a partir del ingreso de su solicitud, satisfaciendo previamente los requisitos necesarios para ello.
 
-Los ayuntamientos deberán implementar y operar permanentemente un SARE, en el ámbito de sus atribuciones, en coordinación con el organismo responsable de la mejora regulatoria en su municipio.
+Los ayuntamientos deberán implementar y operar permanentemente un SARE, en el ámbito de sus atribuciones, en coordinación con el organismo responsable de la mejora regulatoria en su municipio; para entre otros objetivos otorgar las facilidades que permitan constituir empresas dentro de un término no mayor de 48 horas, siempre que no exista disposición reglamentaria o legal que lo impida, satisfaciendo previamente los requisitos necesarios para ello.
 
 ###### Artículo 28.
 
@@ -534,3 +536,11 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+SEGUNDO.- El Ejecutivo y los Ayuntamientos de los 17 municipios de la entidad, deberán proceder a expedir o ajustar las disposiciones reglamentarias que sean aplicables, para coadyuvar a la apertura de las empresas en el plazo señalado.
