@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-ganaderia-del-estado-de-tabasco-23262"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-07"
-last_updated: "2001-03-07"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY DE GANADERIA DEL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY DE GANADERIA DEL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY DE GANADERÍA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de marzo de 2001.
 
@@ -648,3 +648,15 @@ SECRETARIO DE GOBIERNO
 M.V.Z. CARLOS GUTIERREZ VIDAL
 
 SECRETARIO DE DESARROLLO, AGROPECUARIO, FORESTAL Y PESCA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos que contrae esta Ley, se derogan todas las disposiciones legales o reglamentarias que estén en vigor y que se opongan a la misma.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término no mayor de ciento ochenta días hábiles a la entrada en vigor del presente ordenamiento.
+
+CUARTO.- Las organizaciones de productores pecuarios que se encuentren constituidas a la entrada en vigor de esta Ley, deberán registrarse ante la Secretaría de Desarrollo Agropecuario, Forestal y Pesca del Estado en un término no mayor de ciento veinte días hábiles contados a partir de la publicación del Reglamento de la presente Ley.
