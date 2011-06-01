@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-procuraduria-general-de-justicia-del-19189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-30"
-last_updated: "2008-02-23"
+last_updated: "2011-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -57,7 +57,9 @@ La Procuraduría General de Justicia del Estado de Tabasco, es la Dependencia de
 
 La Institución del Ministerio Público del Estado, presidida por el Procurador General de Justicia, en su carácter de Representante Social, tendrá las siguientes atribuciones que ejercerá por conducto de su titular o de sus agentes y auxiliares:
 
-I. Investigar y perseguir los delitos del orden común, cometidos en el Estado de Tabasco, o que causen o estén destinados a causar sus efectos dentro del mismo territorio;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+I. Investigar y perseguir los delitos del orden común y aquellos respecto de los cuales la Constitución Federal, así como las leyes que de ella emanen les otorguen competencia, cometidos en el Estado de Tabasco, o que causen o estén destinados a causar sus efectos dentro del mismo territorio;
 
 II. Proveer la pronta, expedita y debida procuración de justicia;
 
@@ -93,7 +95,9 @@ a).- En la Averiguación Previa:
 
 I. Recibir querellas o denuncias, sobre acciones u omisiones que puedan constituir delito;
 
-II. Investigar delitos del orden común con el apoyo de sus órganos auxiliares;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+
+II. Investigar delitos del orden común y aquellos respectos (sic) de los cuales la Constitución Federal, así como las leyes que de ella emanen les otorguen competencia, con el apoyo de sus órganos auxiliares;
 
 III. Practicar las diligencias necesarias y allegarse las pruebas que considere pertinentes, para la acreditación del cuerpo del delito y la probable responsabilidad de quienes en ellos hubieren intervenido, así como para comprobar la responsabilidad civil exigible a terceros para fundamentar, en su caso, el ejercicio de la acción penal y de la civil reparadora del daño correspondiente;
 
@@ -622,3 +626,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+P.O. 1 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
+
+SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a partir del 20 de agosto de 2012, en cumplimiento a lo previsto en el artículo transitorio primero, párrafo tercero, del Decreto, publicado en el Diario Oficial de la Federación del 20 de agosto de 2009, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales. Mientras tanto se realizarán las acciones necesarias a afectos (sic) de darle el debido cumplimiento.
