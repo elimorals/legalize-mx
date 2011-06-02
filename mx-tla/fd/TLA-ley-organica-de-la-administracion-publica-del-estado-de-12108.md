@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2008-12-22"
+last_updated: "2011-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TLA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TLAXCALA
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -97,7 +97,7 @@ El Gobernador del Estado de Tlaxcala podrá crear y suprimir comités, patronato
 
 Las Dependencias y Entidades de la Administración Pública Estatal conducirán sus actividades en forma programática y con arreglo a las políticas, prioridades, métodos, objetivos y metas de los planes de gobierno que establezca el Gobernador del Estado directamente o a través de las Dependencias competentes. Se establecerán los mecanismos y sistemas de planeación, programación, organización, presupuesto, contabilidad, evaluación, información, auditoría interna y control de gestión correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9°.
 
@@ -493,7 +493,7 @@ c).- Las demás que le señalen las Leyes.
 
 d).- Coordinar, conjuntamente con la Secretaría de la Función Pública, la evaluación que permita conocer los resultados de la aplicación de los recursos públicos federales y estatales, así como concertar y validar los indicadores estratégicos y de gestión con las dependencias y entidades de la Administración Pública Estatal, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2001)</small>
 
 SECRETARIA DE DESARROLLO ECONOMICO
 
@@ -503,7 +503,7 @@ SECRETARIA DE DESARROLLO ECONOMICO
 
 La Secretaría es la encargada de elaborar y ejecutar las políticas y programas de desarrollo económico que comprenda lo relacionado a la inversión, la producción, la distribución de la industria, su fomento y consolidación.
 
-REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2001)
+REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2001)
 
 ###### ARTICULO 34.
 
@@ -833,7 +833,7 @@ XIV.- Llevar estadísticas de los servicios, sitios, visitantes y demás relacio
 
 XV.- Las demás que le confiera el Ejecutivo del Estado.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ANTES CONTRALORIA] Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ANTES CONTRALORIA] Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 SECRETARIA DE LA FUNCION PUBLICA
 
@@ -903,43 +903,87 @@ XXV. Las demás que le encomienden expresamente las Leyes y Reglamentos.
 
 SECRETARIA DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 47.
 
-La Secretaria de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, el tránsito en las vialidades públicas de su competencia, la protección ciudadana, la prevención del delito y readaptación social en el Estado y le corresponde el despacho de los asuntos siguientes:
+La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, el tránsito en las vialidades públicas de su competencia, la protección ciudadana, la prevención del delito y reinserción social en el Estado, y le corresponde el despacho de los asuntos siguientes:
 
-I. Proponer al Gobernador del Estado, los programas relativos a la seguridad de los habitantes; al orden público que asegure las libertades; a la prevención de delitos y a la readaptación social de los sentenciados; así como de las unidades encargadas de la prevención en la comisión del delito y del sistema integral de justicia para adolescentes en la entidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
+
+I. Proponer al Gobernador del Estado, los programas relativos a la seguridad de los habitantes; al orden público que asegure las libertades; a la prevención de delitos y a la reinserción social de los sentenciados; así como de las unidades encargadas de la prevención en la comisión del delito y del sistema integral de justicia para adolescentes en la entidad.
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 II. Proteger la seguridad de las personas, previniendo conductas delictivas en todo el Estado, fortaleciendo la vigilancia de las zonas vulnerables;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 III. Investigar a los inculpados para evitar la impunidad y reincidencia delictiva; celebrando convenios que fortalezcan las relaciones con los gobiernos federal, municipales, y con otros Estados, para coordinar esfuerzos en materia de prevención, contra la delincuencia organizada, en protección ciudadana y en la persecución de delitos;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 IV. Proteger las garantías de las víctimas de delito consagradas en la Constitución Federal y particular del Estado;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 V. Establecer el sistema de información destinado a obtener, analizar, estudiar y procesar información de los delitos mediante instrumentos que garanticen el respeto a los derechos fundamentales;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 VI. Elaborar estudios multidisciplinarios y estadísticos sobre el fenómeno delictivo; estableciendo el sistema de información destinado a obtener, analizar, estudiar y procesar información de los delitos, condiciones sociales, riesgos de seguridad, identificación de delincuentes, reincidentes y otras que sean convenientes para una rápida acción de los cuerpos policíacos en la protección de la ciudadanía;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 VII. Fomentar la participación ciudadana en la formulación de planes y programas relacionados con la seguridad pública, así como en el diseño de las políticas, medidas y acciones que en la materia procedan;
 
-VIII. Ejecutar las penas privativas de libertad impuestas por los tribunales judiciales en términos de la Constitución Política del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de liberaciones, amnistía y traslado de reos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
 
-X. Administrar, asegurar y vigilar los centros de readaptación social, así como el centro de internamiento de instrucción de medidas para adolescentes en el Estado;
+VIII. Intervenir en los procesos de ejecución de sanciones penales y medidas restrictivas de la libertad impuestas por los tribunales judiciales en términos de lo dispuesto por la Ley de Ejecución de Sanciones y Medidas Restrictivas de la Libertad para el Estado de Tlaxcala, así como en los procedimientos a cargo de los Jueces de Ejecución del Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
+
+IX. Administrar los Centros de Internamiento Penal del Estado y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de liberaciones, amnistía y traslado de sentenciados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
+
+X. Administrar, asegurar y vigilar los Centros de Internamiento Penal del Estado; así como el Centro de Internamiento de Instrucción de medidas para adolescentes en el Estado.
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 XI. Promover, en el ámbito de su competencia, el registro, la profesionalización y modernización de las corporaciones de seguridad pública del Estado;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 XII. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre las corporaciones de seguridad pública que existan en el Estado;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 XIII. Proponer en el seno del Consejo Consultivo Estatal de Seguridad Pública, políticas, acciones y estrategias en política criminal;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 XIV. Coordinarse con las instancias federales, estatales y municipales, dentro del Sistema Nacional de Seguridad Pública, a efecto de cumplir con los objetivos y fines en la materia, conforme a la legislación correspondiente;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 XV. Autorizar y en su caso suspender los permisos para la prestación de los servicios privados de seguridad en el Estado; así mismo supervisar y verificar que mantengan los requisitos exigidos para su funcionamiento previsto en las leyes;
 
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
+
 XVI. Auxiliar al Ministerio Público, autoridades judiciales y administrativas cuando sea requerida para ello, y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 XVII. Las demás que le señalen las leyes, reglamentos, convenios federales y estatales, así como las que le atribuyan otras disposiciones jurídicas vigentes en la materia.
 
@@ -1035,7 +1079,7 @@ XIX. Asegurar la conservación del patrimonio del Gobierno del Estado, y
 
 XX. Las demás funciones que le encomienden las leyes.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO CUARTO. DE LA ADMINISTRACION PUBLICA DESCENTRALIZADA
 
@@ -1251,7 +1295,7 @@ Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de X
 
 EL GOBERNADOR DEL ESTADO.- JOSE ANTONIO CRUZ ALVAREZ LIMA.- Rúbrica.- EL SECRETARIO DE GOBIERNO.- CARLOS HERNANDEZ GARCIA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE SEPTIEMBRE DE 1998.
 
@@ -1300,3 +1344,13 @@ La actual denominación de los títulos y capítulos que integran el presente De
 ###### ARTICULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto, o bien se interpretarán armónicamente con el sentido de la presente reforma.
+
+P.O. 2 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día dieciocho de junio del dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
