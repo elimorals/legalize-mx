@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2009-01-28"
+last_updated: "2011-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -63,11 +63,11 @@ I. El Tribunal Superior de Justicia; y (sic)
 
 II. El Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2011)</small>
 
-III. Los juzgados Civiles, Familiares, Penales y de Administración de Justicia para Adolescentes, y
+III. Los juzgados Civiles, Familiares, Penales, de Administración de Justicia para Adolescentes y de Ejecución de Sanciones Penales;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -146,6 +146,14 @@ En materia de administración de justicia para adolescentes los juzgados ejercer
 ###### Artículo 8 Ter.
 
 El procedimiento de mediación y la conciliación en sede judicial estarán a cargo de la Unidad de Mediación y Conciliación, a través de los mediadores y conciliadores adscritos a dicha unidad y del juez municipal de cada Municipio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2011)</small>
+
+###### Artículo 8 Quater.
+
+En materia de Ejecución de Sanciones Penales, el Juez ejercerá su competencia en todo el territorio del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 2008)</small>
 
@@ -780,6 +788,18 @@ II. Los demás asuntos que les encomienden las leyes.
 ###### Artículo 50 Ter.
 
 La Unidad de Mediación y Conciliación conocerá de los asuntos que la ley de la materia le confiere y contará con el personal necesario para su funcionamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2011)</small>
+
+###### Artículo 50 Quater.
+
+Los Jueces de Ejecución de Sanciones Penales conocerán y resolverán:
+
+I. Los asuntos de ejecución de sanciones que les sean planteados, y
+
+II. Los demás asuntos que les encomienden las leyes.
 
 ###### Artículo 51.
 
@@ -1892,3 +1912,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Una vez que entre en vigor este Decreto, el Magistrado Presidente del Tribunal Superior de Justicia del Estado, dentro de los ocho días naturales siguientes; procederá a convocar a sesión ordinaria o extraordinaria para la designación de sus consejeros representantes que integren el Consejo de la Judicatura del Poder Judicial del Estado, en los términos previstos en las fracciones II y III del artículo 85 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y del artículo 64 de la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 2 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día dieciocho de junio del dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
