@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-la-defensoria-de-oficio-en-materia-penal-guanajuato-1750
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-29"
-last_updated: "2000-09-29"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE LA DEFENSORIA DE OFICIO EN MATERIA PENAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA PENAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN LA QUINTA PARTE DEL P.O. DE FECHA 3 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 29 de septiembre del 2000.
 
@@ -310,3 +312,51 @@ LIC. JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2011.
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la Ley de la Defensoría de Oficio en Materia Penal
+
+Artículo Segundo. Se abroga la Ley de la Defensoría de Oficio en Materia Penal, contenida en el Decreto Legislativo número 372, emitido por la Quincuagésima Séptima Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado, número 78 Segunda Parte, el 29 de septiembre del año 2000.
+
+Ultractividad de la Ley de la Defensoría de Oficio en Materia Penal
+
+Artículo Tercero. La Ley de la Defensoría de Oficio en Materia Penal que se abroga en el artículo anterior, continuará aplicándose a los casos del sistema procesal penal mixto.
+
+Referencia en otros ordenamientos
+
+Artículo Cuarto. Toda referencia que en leyes, decretos, reglamentos o acuerdos se haga de la Defensoría de Oficio en materia penal, se entenderá hecha a la Defensoría Pública en materia penal.
+
+Toda referencia que en leyes, decretos, reglamentos o acuerdos se haga de la Dirección de la Defensoría de Oficio en materia penal, se entenderá hecha a la Dirección de la Defensoría Pública Penal.
+
+Presupuesto para la aplicación de la Ley
+
+Artículo Quinto. Conforme a lo dispuesto por los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos y 7 de la Constitución Política para el Estado de Guanajuato, la Secretaría de Finanzas y Administración, deberá hacer los ajustes y proveer de los recursos financieros, humanos y materiales.
+
+Presupuesto para peritos
+
+Artículo Sexto. La Secretaría de Finanzas y Administración proveerá los recursos correspondientes para la contratación de peritos y consultores externos que se requieran para la atención de determinados procesos penales que por su naturaleza demanden conocimientos específicos en el desempeño de la función de la defensa pública.
+
+Término para expedir el Reglamento
+
+Artículo Séptimo. El Titular del Poder Ejecutivo expedirá el Reglamento de esta Ley, a más tardar el 30 de junio de 2011.
+
+El Reglamento de la Ley de la Defensoría de Oficio en Materia Penal, seguirá aplicándose en lo que no se oponga al contenido de la presente Ley y hasta en tanto se implementa en toda la entidad el sistema penal acusatorio.
+
+Presupuesto para las Fianzas
+
+Artículo Octavo. El Poder Ejecutivo del Estado deberá realizar los ajustes correspondientes al presupuesto de egresos del ejercicio fiscal del 2011, para dar suficiencia a la partida presupuestal relativa al programa de excarcelamiento previsto en esto ley.
+
+Reasignación de personal
+
+Artículo Noveno. El personal de la Defensoría de Oficio en materia penal se reasignará, en su caso, a la Defensa Pública conforme al sistema penal acusatorio, de acuerdo a sus funciones y capacidades.
+
+Servicio Profesional de Carrera
+
+Artículo Décimo. Las disposiciones del Servicio Civil de Carrera del Poder Ejecutivo, se aplicarán para el Servicio Profesional de Carrera, de los Defensores Públicos.
