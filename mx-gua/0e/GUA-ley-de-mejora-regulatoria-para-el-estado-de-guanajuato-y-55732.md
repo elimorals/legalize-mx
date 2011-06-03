@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-mejora-regulatoria-para-el-estado-de-guanajuato-y-55732"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-22"
-last_updated: "2007-05-22"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2007.
 
@@ -49,31 +49,69 @@ La presente ley es de orden público e interés general y tiene por objeto estab
 
 Se excluyen del ámbito de aplicación de esta ley:
 
-I. El Ministerio Público en el ejercicio de sus facultades constitucionales, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-II. La función jurisdiccional que desarrolle la administración pública.
+I. El Ministerio Público en el ejercicio de sus facultades constitucionales;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+II. La función jurisdiccional que desarrolle la administración pública, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+III. La materia fiscal, respecto a la determinación de contribuciones y sus elementos.
 
 ###### Artículo 3.
 
 Para los efectos de esta ley, se entiende por:
 
-I. Centros: Los Centros de Atención Empresarial y de Apoyo a Trámites y Servicios;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-II. Mejora Regulatoria: El conjunto de acciones jurídico-administrativas que tienen por objeto eficientar el marco jurídico y los trámites administrativos para elevar la calidad de la gestión pública en beneficio de la población; facilitar la apertura, operación y competencia de las empresas; fomentar la inversión y generación de empleos; y lograr la transparencia, consulta y justificación de las decisiones regulatorias;
+l. Administración pública estatal: Es la función que desarrolla el Poder Ejecutivo del Estado para el despacho de los asuntos de su competencia y se clasifica en centralizada y paraestatal. La administración pública centralizada está integrada por las secretarías, los organismos desconcentrados, las unidades de apoyo y la Procuraduría General de Justicia. La administración pública paraestatal está integrada por los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
-III. Registro: El Registro de Trámites y Servicios;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-IV. RUPEA: El Registro Único de Personas y Empresas Acreditadas;
+II. Administración pública municipal: Es la función que desarrolla el Ayuntamiento para el estudio y despacho de los asuntos de su competencia y se clasifica en centralizada y paramunicipal. La administración pública centralizada está integrada por las dependencias previstas en el artículo 110 de la Ley Orgánica Municipal para el Estado de Guanajuato, los organismos desconcentrados y las unidades de apoyo. La administración pública paramunicipal está integrada por los organismos descentralizados, las empresas de participación municipal y los fideicomisos públicos municipales;
 
-V. SARE: El Sistema de Apertura Rápida de Empresas que establezcan las administraciones públicas estatal y municipal;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-VI. SDES: La Secretaría de Desarrollo Económico Sustentable;
+III. Centros: Los Centros de Atención Empresarial y de Apoyo a Trámites y Servicios;
 
-VII. SGP: La Secretaría de la Gestión Pública, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-VIII. Sistema: El Sistema Electrónico de Trámites y Servicios.
+IV. Disposiciones administrativas de carácter general: Son los reglamentos, lineamientos, reglas de operación, normas técnicas y toda aquella regulación cuyo contenido incida en trámites y servicios que repercutan en el particular;
 
-### CAPÍTULO II. De las autoridades en materia de mejora regulatoria
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+V. Mejora Regulatoria: El conjunto de acciones jurídico-administrativas que tienen por objeto eficientar el marco jurídico y los trámites administrativos para elevar la calidad de la gestión pública en beneficio de la población; facilitar la apertura, operación y competencia de las empresas; fomentar la inversión y generación de empleos; y lograr la transparencia, consulta y justificación de las decisiones regulatorias;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VI. Registro: El Registro de Trámites y Servicios;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VII. RUPEA: El Registro Único de Personas y Empresas Acreditadas;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VIII. SARE: El Sistema de Apertura Rápida de Empresas que establezcan las administraciones públicas estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IX. SDES: La Secretaría de Desarrollo Económico Sustentable;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+X. SGP: La Secretaría de la Gestión Pública, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XI. Sistema: El Sistema Electrónico de Trámites y Servicios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO II. De las autoridades y de las dependencias y entidades de la administración pública estatal en materia de mejora regulatoria
 
 #### Sección Primera. De las autoridades y sus atribuciones
 
@@ -105,9 +143,29 @@ VII. Establecer, en coordinación con la SDES, los mecanismos para formular prop
 
 VIII. Emitir recomendaciones a las dependencias y entidades de la administración pública estatal, sobre la necesidad o conveniencia de generar proyectos de creación, modificación o supresión de disposiciones administrativas de carácter general;
 
-IX. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y entidades de las administraciones públicas estatal y municipal, así como a los poderes del Estado y a los organismos autónomos, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-X. Las demás que prevea esta ley y otras disposiciones jurídicas aplicables.
+IX. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y entidades de las administraciones públicas estatal y municipal, así como a los poderes del Estado y a los organismos autónomos;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+X. Realizar revisiones a los instrumentos que incidan en la prestación de trámites y servicios de la administración pública estatal y en su caso, emitir observaciones;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XI. Proporcionar, en coordinación con la SDES, toda la colaboración y apoyo para el buen funcionamiento y ejercicio de las atribuciones del Consejo a que se refiere el artículo 9 de esta ley;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XII. Impulsar y proponer, en coordinación con la SDES, la integración de trámites y servicios de la administración pública estatal al Sistema;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XIII. Difundir en el ámbito social e institucional, los avances alcanzados en el lema de mejora regulatoria, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XIV. Las demás que prevea esta ley.
 
 ###### Artículo 6.
 
@@ -115,7 +173,9 @@ La SDES, en el ámbito económico y empresarial, tendrá las siguientes atribuci
 
 l. Implementar y coordinar los instrumentos de mejora regulatoria, acorde con las acciones y objetivos establecidos en el Plan Estatal de Desarrollo y el Plan de Gobierno del Estado;
 
-II. Impulsar la simplificación de trámites y mejora en la prestación de servicios;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+II. Promover la simplificación de trámites y mejora en la prestación de servicios;
 
 III. Emitir recomendaciones a las dependencias y entidades de la administración pública estatal, sobre la necesidad o conveniencia de generar proyectos de creación o modificación de disposiciones administrativas de carácter general;
 
@@ -125,9 +185,29 @@ V. Establecer mecanismos de vinculación y participación con las administracion
 
 VI. Brindar asesoría técnica a las dependencias y entidades de las administraciones públicas estatal y municipal en materia de mejora regulatoria;
 
-VII. Participar en la elaboración y actualización del Programa Estatal de Mejora Regulatoria, y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-VIII. Las demás que prevea esta ley y otras disposiciones jurídicas aplicables.
+VII. Participar en la elaboración y actualización del Programa Estatal de Mejora Regulatoria;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VIII. Promover la armonización y uniformidad de los trámites y servicios prestados por las administraciones públicas municipales, para la instalación y operación de empresas o negocios;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IX. Proporcionar, en coordinación con la SGP, toda la colaboración y apoyo para el buen funcionamiento y ejercicio de las atribuciones del Consejo a que se refiere el artículo 9 de esta ley;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+X. Impulsar y proponer, en coordinación con la SGP, la integración de trámites y servicios de la administración pública estatal al Sistema;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XI. Difundir en su ámbito de competencia, los avances alcanzados en el tema de mejora regulatoria, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XII. Las demás que prevea esta ley.
 
 ###### Artículo 7.
 
@@ -135,39 +215,149 @@ A los municipios les corresponde:
 
 l. Coordinarse con la SGP y la SDES para homologar los lineamientos, criterios, guías y en general todo tipo de disposiciones de carácter general, para la aplicación de la presente ley;
 
-II. Formular, expedir y evaluar el Programa Municipal Operativo de Mejora Regulatoria, en congruencia con el Programa Estatal de Mejora Regulatoria;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-III. Implementar las acciones que permitan llevar a cabo la manifestación de impacto regulatorio;
+II. Formular, expedir y evaluar el Programa Municipal Operativo de Mejora Regulatoria, en congruencia con el Programa Estatal de Mejora Regulatoria, el cual deberá publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuato;
 
-IV. Operar las actividades y funcionamiento de los SARE y Centros que se encuentren bajo su competencia;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-V. Establecer la clasificación de los giros o actividades empresariales en congruencia con los lineamientos que establezca la SDES, y
+III. Elaborar las manifestaciones de impacto regulatorio de conformidad con el artículo 33 de esta ley;
 
-VI. Las demás que prevea esta ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IV. Operar y difundir las actividades y funcionamiento de los SARE y Centros que se encuentren bajo su competencia;
+
+V. Establecer la clasificación de los giros o actividades empresariales en congruencia con los lineamientos que establezca la SDES, y (sic)
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VI. Coordinarse con el Estado por conducto de la SDES y de la SGP, para que en el ámbito de su competencia se implementen y operen los instrumentos de mejora regulatoria que prevé la presente ley, y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VII. Las demás que prevea esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 8.
 
-El Gobernador del Estado podrá suscribir convenios de colaboración y coordinación con la federación y los municipios con el objeto de propiciar un proceso integral de mejora regulatoria.
+El Gobernador del Estado podrá suscribir convenios de colaboración y coordinación con la federación, las entidades federativas, los municipios, los poderes del estado y los organismos autónomos, con el objeto de propiciar un proceso integral de mejora regulatoria.
 
 #### Sección Segunda. De los órganos consultivos
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 9.
 
-El Poder Ejecutivo contará con un órgano de asesoría y consulta en materia de mejora regulatoria, cuya creación se hará a través de acuerdo gubernativo en el que se contemplará su integración y funcionamiento.
+El Poder Ejecutivo contará con un Consejo de asesoría y consulta en materia de mejora regulatoria.
 
-En la integración del órgano deberá contarse con la participación ciudadana y de los municipios.
+El Consejo estará integrado por representantes que pertenezcan a los sectores social, económico y académico, y por los municipios.
 
-Los cargos de los integrantes del órgano serán honoríficos por lo que no recibirán retribución, emolumento o compensación alguna en el desempeño de sus funciones.
+Los cargos de los integrantes del Consejo serán honoríficos por lo que no recibirán retribución, emolumento o compensación alguna en el desempeño de sus funciones.
 
-#### Sección Primera. De los programas de mejora regulatoria
+La Presidencia del Consejo recaerá en uno de los representantes de los sectores social, económico o académico, fungirá con dicho cargo por un periodo de dos años y podrá reelegirse hasta por una sola ocasión.
+
+La SGP y la SDES prestarán al Consejo la colaboración y apoyo necesario, para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 9 Bis.
+
+El Consejo estará integrado por:
+
+I. El titular de la Secretaría de Desarrollo Económico Sustentable;
+
+II. El titular de la Secretaría de la Gestión Pública;
+
+III. El titular de la Secretaría de Finanzas y Administración;
+
+IV. El titular de la Delegación Federal de la Secretaría de Economía en el Estado;
+
+V. Un representante del Congreso del Estado;
+
+VI. Un representante del Poder Judicial del Estado;
+
+VII. El Presidente de la Comisión Estatal para la Planeación de la Educación Superior y el Presidente de la Comisión Estatal para la Planeación de la Educación Media Superior;
+
+VIII. Un presidente municipal y un representante de los consejos municipales de mejora regulatoria que representen a las regiones:
+
+a) Región norte, que comprenderá los municipios de Ocampo, Dolores Hidalgo Cuna de la Independencia Nacional, San Felipe, San Diego de la Unión y San Miguel de Allende;
+
+b) Región sur, que comprenderá los municipios de Acámbaro, Coroneo, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santiago Maravatío, Tarandacuao, Uriangato y Yuriria;
+
+c) Región noreste, que comprenderá los municipios de Atarjea, Doctor Mora, Santa Catarina, San José Iturbide, San Luis de la Paz, Tierra Blanca, Xichú y Victoria;
+
+d) Región suroeste, que comprenderá los municipios de Abasolo, Cuerámaro, Huanímaro, Manuel Doblado, Pénjamo, Pueblo Nuevo y Valle de Santiago;
+
+e) Región centro este, que comprenderá los municipios de Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Cortazar, Santa Cruz de Juventino Rosas, Tarimoro y Villagrán, y
+
+f) Región centro, que comprenderá los municipios de Guanajuato, Irapuato, León, Purísima del Rincón, Romita, Salamanca, San Francisco del Rincón y Silao.
+
+IX. Hasta cuatro representantes de los sectores social, económico y académico vinculados con la materia de mejora regulatoria, y
+
+X. Un Secretario Técnico.
+
+Los integrantes del Consejo referidos en las fracciones IX y X fungirán durante un periodo de dos años y podrán reelegirse hasta por una sola ocasión.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 9 Ter.
+
+Los consejeros representantes de los sectores social, económico y académico señalados en el artículo anterior deberán reunir los siguientes requisitos:
+
+I. Ser preferentemente ciudadanos mexicanos en pleno ejercicio de sus derechos, y
+
+II. Contar con reconocido prestigio en los sectores social, económico o académico, en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 9 Quater.
+
+El Consejo tendrá como mínimo, las siguientes atribuciones:
+
+l. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de mejora regulatoria, así como de la operación y funcionamiento de los instrumentos de la ley;
+
+II. Analizar y proponer programas y acciones que incidan en el cumplimiento de la ley;
+
+III. Impulsar la participación ciudadana en la elaboración, actualización, ejecución y evaluación del Programa Estatal de Mejora Regulatoria, así como de los instrumentos de la ley;
+
+IV. Proponer la realización de estudios e investigaciones tendientes a fortalecer la mejora regulatoria y la competitividad en el Estado;
+
+V. Proponer proyectos específicos enfocados al desarrollo de la mejora regulatoria y la competitividad en el Estado, y
+
+VI. Proponer al Gobernador del Estado su reglamento interior.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
+
+#### Sección Tercera. De las atribuciones de las dependencias y entidades de la administración pública estatal
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 9 Quinquies.
+
+Son atribuciones de las dependencias y entidades de la administración pública estatal:
+
+I. Instalar una unidad interna de mejora regulatoria, a efecto de dar seguimiento y continuidad a las acciones que se realicen en la materia;
+
+Il. Formular un programa de trabajo interno acorde al Programa Estatal de Mejora Regulatoria;
+
+III. Proporcionar y mantener actualizada la información de los trámites y servicios, que sean de su competencia, conforme a esta ley;
+
+IV. Designar por conducto del titular de la dependencia o entidad, a un servidor público que funja como enlace para efectos de la mejora regulatoria;
+
+V. Someter a consulta de la SGP toda disposición administrativa de carácter general, a efecto de que ésta determine si es sujeta de Manifestación de Impacto Regulatorio o emita la excepción correspondiente, y
+
+VI. Las demás que prevea esta ley.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 10.
 
-En los municipios se podrán conformar órganos de asesoría y consulta en materia de mejora regulatoria, en los que deberá contemplarse la participación ciudadana.
+Los municipios deberán integrar consejos como órganos de asesoría y consulta en materia de mejora regulatoria, en los que se contemplará la participación social a través de los sectores social, económico y académico. Los cargos de quienes los integren deberán ser honoríficos.
 
 ### Capitulo III. Instrumentos para la mejora regulatoria
 
-#### Sección Segunda. Del Registro de Trámites y Servicios
+#### Sección Primera. De los programas de mejora regulatoria
 
 ###### Artículo 11.
 
@@ -189,7 +379,7 @@ IV. Las acciones para que las administraciones públicas estatal y municipal adq
 
 A fin de propiciar una mejora regulatoria integral, el Programa Estatal de Mejora Regulatoria deberá ser remitido a los demás poderes del Estado y organismos autónomos.
 
-#### Sección Tercera. Del Sistema Electrónico de Trámites y Servicios
+#### Sección Segunda. Del Registro de Trámites y Servicios
 
 ###### Artículo 14.
 
@@ -213,11 +403,13 @@ V. Documento que obtiene el usuario;
 
 VI. Datos institucionales de ubicación de la oficina receptora y resolutora;
 
-VII. Requisitos de presentación;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VII. Requisitos, datos y documentos que debe adjuntar para su presentación;
 
 VIII. Costo, en su caso;
 
-IX. Datos y documentos específicos que debe contener o se deben adjuntar al trámite;
+IX. (DEROGADA, P.O. 3 DE JUNIO DE 2011)
 
 X. Fundamento jurídico del trámite;
 
@@ -245,7 +437,7 @@ El contenido y actualización de la información que se inscriba en el Registro,
 
 Los servidores públicos no podrán solicitar requisitos o información adicional de los trámites y servicios inscritos en el Registro, ni aplicarlos en forma distinta.
 
-#### Sección Cuarta. Del Sistema de Apertura Rápida de Empresas
+#### Sección Tercera. Del Sistema Electrónico de Trámites y Servicios
 
 ###### Artículo 19.
 
@@ -257,15 +449,23 @@ Lo anterior se llevará a cabo sin perjuicio de que la realización de trámites
 
 La SGP en coordinación con las instancias que correspondan, expedirá la guía básica que contenga los mecanismos para la incorporación, actualización y eliminación de trámites y servicios en el Sistema.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 21.
 
-Las administraciones municipales podrán incorporarse al Sistema, debiendo con recursos propios, realizar las adecuaciones e instalaciones de tecnologías de información y sistemas electrónicos que sean necesarias para la operación del mismo.
+Las administraciones municipales podrán incorporarse al Sistema, coadyuvando con la instalación de tecnologías de información y sistemas electrónicos que le proporcione el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 22.
 
-Las dependencias y entidades de la administración pública estatal integrarán de manera gradual los trámites y servicios que consideren deban estar en el Sistema, siendo su responsabilidad la información que se proporcione y el seguimiento de los mismos.
+Las dependencias y entidades de las administraciones públicas estatal y municipal integrarán los trámites y servicios que correspondan al Sistema, siendo su responsabilidad la información que se proporcione y el seguimiento de los mismos.
 
-#### Sección Quinta. De los Centros de Atención Empresarial y de Apoyo a Trámites y Servicios
+En el Sistema no se podrán solicitar más requisitos al ciudadano que los establecidos en el Registro.
+
+La SGP autorizará la integración de nuevos trámites y servicios de las dependencias y entidades de la administración pública estatal al Sistema, siempre y cuando los mismos signifiquen un beneficio para los ciudadanos y en cumplimiento de los fines de la presente ley.
+
+#### Sección Cuarta. Del Sistema de Apertura Rápida de Empresas
 
 ###### Artículo 23.
 
@@ -277,9 +477,11 @@ El plazo para la resolución de los trámites para la apertura de empresas o neg
 
 Las dependencias y entidades de las administraciones públicas estatal y municipal, deberán identificar y simplificar los trámites que tengan mayor impacto en el desarrollo de las actividades empresariales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 25.
 
-La SDES coordinará a las dependencias y entidades de las administraciones públicas estatal y municipal para llevar a cabo la clasificación de los giros o actividades empresariales en:
+La SDES llevará a cabo la clasificación de los giros o actividades empresariales en:
 
 a) Bajo impacto económico y social;
 
@@ -289,6 +491,14 @@ c) Alto impacto económico y social.
 
 Para la clasificación de los giros o actividades empresariales se considerarán, entre otros aspectos, los relacionados con protección civil, ecológicos y de protección al ambiente, de planeación y ordenamiento territorial y de salud que involucre actividades económicas o empresariales.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+La clasificación de los giros o actividades empresariales deberá ser actualizada permanentemente tomando como base los estándares internacionales.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+La clasificación formulada por la SDES será compartida con los municipios, a efecto de que ellos realicen la propia, atendiendo a su realidad socioeconómica pero sin apartarse del contenido de aquella.
+
 ###### Artículo 26.
 
 La SDES mandará publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato, el catálogo que comprenda la clasificación de los giros o actividades a que se refiere esta sección.
@@ -297,7 +507,7 @@ La SDES mandará publicar en el Periódico Oficial del Gobierno del Estado de Gu
 
 Para identificar oportunidades de simplificación, la SDES dará seguimiento a la operación de los SARE que se implementen y de cada uno de los trámites relacionados con la apertura de empresas que emitan las dependencias y entidades de las administraciones públicas estatal y municipal.
 
-#### Sección Sexta. De la manifestación de impacto regulatorio
+#### Sección Quinta. De los Centros de Atención Empresarial y de Apoyo a Trámites y Servicios
 
 ###### Artículo 28.
 
@@ -307,13 +517,17 @@ Los Centros son la instancia que brinda asesoría y orientación sobre los trám
 
 Los servicios que se proporcionarán en los Centros serán los siguientes:
 
-l. Orientar e informar sobre los servicios, programas y trámites de competencia federal, estatal y municipal de las demás dependencias que requiera una empresa o negocio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+I. Orientar e informar sobre los servicios, programas y trámites de competencia federal, estatal y municipal que requiera una empresa o negocio;
 
 II. Recibir las propuestas y sugerencias orientadas a hacer más eficientes los trámites y servicios que prestan las entidades y dependencias de las administraciones públicas federal, estatal y municipal, canalizando dichas propuestas y sugerencias a la SDES;
 
 III. Apoyar a los usuarios en la realización de trámites ante las autoridades federales, estatales y municipales, y
 
-IV. Las demás que establezca esta ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IV. Las demás que establezca esta ley.
 
 ###### Artículo 30.
 
@@ -321,11 +535,13 @@ La SDES expedirá los lineamientos que faciliten la operación de los Centros.
 
 Asimismo, buscará establecer los mecanismos de coordinación con las dependencias y entidades de las administraciones públicas estatal y municipal para cumplir con los servicios de los Centros.
 
-#### Sección Séptima. Del Registro Único de Personas y Empresas Acreditadas
+#### Sección Sexta. De la manifestación de impacto regulatorio
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 31.
 
-La manifestación de impacto regulatorio es el documento que elaborarán las dependencias o entidades de la administración pública estatal que contenga el estudio, análisis, evaluación del costo-beneficio y justificación de los anteproyectos para crear, modificar o suprimir disposiciones de carácter general, cuyo contenido incida en trámites y servicios que repercutan en el particular.
+La manifestación de impacto regulatorio es el documento que elaborarán las dependencias o entidades de las administraciones públicas estatal y municipal que contenga el estudio, análisis, evaluación del costo-beneficio y justificación de los anteproyectos para crear, modificar o suprimir disposiciones de carácter general, cuyo contenido incida en trámites y servicios que repercutan en el particular.
 
 ###### Artículo 32.
 
@@ -347,9 +563,17 @@ El dictamen respectivo deberá contener necesariamente la determinación que sob
 
 Lo anterior se llevará a cabo, sin perjuicio de las atribuciones que al respecto tiene la Coordinación General Jurídica en cuanto a la revisión de los anteproyectos.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+###### Artículo 34 Bis.
+
+Las dependencias y entidades de la administración pública municipal que elaboren una manifestación de impacto regulatorio, deberán remitirla a la instancia y bajo el procedimiento que determine el ayuntamiento, a efecto de que se emita el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 35.
 
-La SGP y la SDES podrán requerir a la dependencia o entidad la ampliación o corrección de información relacionada con la manifestación de impacto regulatorio, de conformidad con lo establecido en la guía técnica para que la remita dentro de los tres días hábiles al requerimiento.
+La SGP y la SDES podrán requerir a la dependencia o entidad la ampliación o corrección de información relacionada con la manifestación de impacto regulatorio, de conformidad con lo establecido en la guía básica para que la remita dentro de los tres días hábiles al requerimiento.
 
 ###### Artículo 36.
 
@@ -368,6 +592,8 @@ Cuando la SGP no emita alguno de los dictámenes a que se refiere este capítulo
 ###### Artículo 39.
 
 Tratándose de actos destinados a resolver o prevenir una situación de emergencia, la manifestación podrá enviarse dentro de los veinte días hábiles siguientes a la fecha de su emisión.
+
+#### Sección Séptima. Del Registro Único de Personas y Empresas Acreditadas
 
 ###### Artículo 40.
 
@@ -424,3 +650,17 @@ LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPOND
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la ciudad de Guanajuato, Gto., a los 21 veintiún días del mes de mayo del año 2007 dos mil siete.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2011.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los municipios que no hayan expedido el Programa Municipal Operativo de Mejora Regulatoria, con anterioridad a la vigencia del presente decreto, deberán realizarlo y publicarlo en el Periódico Oficial del Gobierno del Estado de Guanajuato en un plazo de cuatro meses.
+
+Artículo Tercero. El poder Ejecutivo contará con un plazo de treinta días naturales para la renovación del Consejo de Mejora Regulatoria del Estado de Guanajuato.
+
+Artículo Cuarto. El Gobernador del Estado emitirá el reglamento interno del Consejo en un plazo de treinta días naturales. En tanto se emita dicha reglamentación se aplicará, en lo conducente, el Acuerdo Gubernativo número 45 por el que creó el Consejo de Mejora Regulatoria del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 164, segunda parte, de fecha 12 de octubre de 2007.
+
+Artículo Quinto. La Secretaría de Desarrollo Económico Sustentable deberá actualizar la clasificación de giros o actividades empresariales en un plazo de seis meses.
