@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-57614"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-06"
-last_updated: "2010-12-10"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-05"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de diciembre de 2007.
 
@@ -59,9 +59,9 @@ El Tribunal Federal de Justicia Fiscal y Administrativa se integra por:
 
 I. La Sala Superior;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-II. Las Salas Regionales, que podrán tener el carácter de Salas Especializadas;
+II. Las Salas Regionales, que podrán tener el carácter de Salas Especializadas o Auxiliares, y
 
 III. La Junta de Gobierno y Administración.
 
@@ -151,19 +151,21 @@ En los casos en que los Magistrados estén por concluir el periodo para el que h
 
 Las faltas definitivas de Magistrados ocurridas durante el periodo para el cual hayan sido nombrados, se comunicarán de inmediato al Presidente de la República por el Presidente del Tribunal, quien someterá a su consideración la propuesta que, en su caso, haya aprobado el Pleno de la Sala Superior, para que se proceda a los nombramientos de los Magistrados que las cubran.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-Las faltas definitivas de Magistrados en Salas Regionales o Especializadas serán cubiertas provisionalmente por los Magistrados Supernumerarios adscritos por la Junta de Gobierno y Administración o a falta de ellos por el primer secretario del Magistrado ausente, hasta en tanto se realice un nuevo nombramiento en los términos de este artículo.
+Las faltas definitivas de Magistrados en Salas Regionales, Especializadas o Auxiliares, serán cubiertas provisionalmente por los Magistrados Supernumerarios adscritos por la Junta de Gobierno y Administración o a falta de ellos por el primer secretario del Magistrado ausente, hasta en tanto se realice un nuevo nombramiento en los términos de este artículo.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-Las faltas temporales y las comisiones a que se refiere la fracción XIII Bis del artículo 41 de esta Ley hasta por un mes de los Magistrados en Salas Regionales o Especializadas se suplirán por el primer secretario del Magistrado ausente. Las faltas temporales o las comisiones antes citadas superiores a un mes serán cubiertas por los Magistrados Supernumerarios o a falta de éstos por el primer secretario del Magistrado ausente. La suplencia comprenderá todo el lapso de la falta temporal, o de la comisión, salvo en aquellos casos en los que la Junta determine la conclusión anticipada de la misma.
+Las faltas temporales y las comisiones a que se refiere la fracción XIII Bis del artículo 41 de esta Ley hasta por un mes de los Magistrados en Salas Regionales, Especializadas o Auxiliares, se suplirán por el primer secretario del Magistrado ausente. Las faltas temporales o las comisiones antes citadas superiores a un mes serán cubiertas por los Magistrados Supernumerarios o a falta de éstos por el primer secretario del Magistrado ausente. La suplencia comprenderá todo el lapso de la falta temporal, o de la comisión, salvo en aquellos casos en los que la Junta determine la conclusión anticipada de la misma.
 
 El Reglamento Interior del Tribunal establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de los Magistrados de la Sala Superior.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 9.
 
-El Tribunal contará con cinco Magistrados Supernumerarios de Sala Regional, que cubrirán las faltas de los Magistrados de Sala Regional en los casos previstos en esta Ley, y sustituirán a los dos Magistrados de Sala Regional que se integren a la Junta de Gobierno y Administración, durante su encargo.
+El Tribunal contará con cinco Magistrados Supernumerarios de Sala Regional, que cubrirán las faltas de los Magistrados de Sala Regional y de Sala Auxiliar, en los casos previstos en esta Ley, y sustituirán a los dos Magistrados de Sala Regional que se integren a la Junta de Gobierno y Administración, durante su encargo.
 
 Los Magistrados Supernumerarios, durante el tiempo que no cubran las faltas señaladas en el párrafo anterior, deberán desempeñar las tareas que les encomiende el Pleno de la Sala Superior.
 
@@ -285,9 +287,9 @@ Son facultades del Pleno, las siguientes:
 
 I. Elegir de entre los Magistrados de Sala Superior al Presidente del Tribunal;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-II. Aprobar y expedir el Reglamento Interior del Tribunal, en el que se deberán incluir, entre otros aspectos, las regiones, sede y número de Salas Regionales; la competencia material y territorial de las Salas Especializadas; así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción;
+II. Aprobar y expedir el Reglamento Interior del Tribunal, en el que se deberán incluir, entre otros aspectos, las regiones, sede y número de Salas Regionales; las sedes y número de las Salas Auxiliares; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción;
 
 III. Expedir el Estatuto de Carrera a que se refiere el párrafo segundo del artículo 10 de esta Ley;
 
@@ -305,17 +307,25 @@ VIII. Resolver todas aquellas situaciones que sean de interés para el Tribunal 
 
 IX. Establecer, modificar y suspender la jurisprudencia del Tribunal conforme a las disposiciones legales aplicables, aprobar las tesis y los rubros de los precedentes y ordenar su publicación en la Revista del Tribunal;
 
-X. Resolver los juicios con características especiales, en términos de las disposiciones aplicables, incluidos aquéllos que sean de competencia especial de las Secciones;
+> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XI. Dictar sentencia interlocutoria en los incidentes y recursos que procedan en contra de los actos emitidos en el procedimiento seguido ante el Presidente del Tribunal para poner en estado de resolución un juicio competencia del Pleno, inclusive cuando se controvierta la notificación de los actos emitidos por éste, así como resolver la aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones y determinar las medidas que sean procedentes;
+X. Determinar las Salas Regionales o Especializadas que sean auxiliadas por las Salas a que se refiere el artículo 38-Bis de esta Ley, así como el número y cualidad de los asuntos que se enviarán a dichas Salas;
 
-XII. Ordenar que se reabra la instrucción, cuando se amerite en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XIII. Resolver sobre las excusas, excitativas de justicia y recusaciones de los Magistrados del Tribunal y respecto a los Magistrados de Sala Regional designar de entre los Secretarios a quienes deban sustituirlos;
+XI. Resolver los juicios con características especiales, en términos de las disposiciones aplicables, incluidos aquellos que sean de competencia especial de las Secciones;
 
-XIV. Dictar sentencia definitiva en los juicios promovidos por los Magistrados del Tribunal, en contra de sanciones impuestas por la Junta de Gobierno y Administración, en aplicación de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y someter a la consideración del Presidente de la República la destitución de un Magistrado, en los términos del artículo 7 de esta Ley;
+XII. Dictar sentencia interlocutoria en los incidentes y recursos que procedan en contra de los actos emitidos en el procedimiento seguido ante el Presidente del Tribunal para poner en estado de resolución un juicio competencia del Pleno, inclusive cuando se controvierta la notificación de los actos emitidos por éste, así como resolver la aclaración de sentencia, la queja relacionada con el cumplimiento de las resoluciones y determinar las medidas que sean procedentes;
 
-XV. (DEROGADA, D.O.F. 10 DE DICIEMBRE DE 2010)
+XIII. Ordenar que se reabra la instrucción, cuando se amerite en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+
+XIV. Resolver sobre las excusas, excitativas de justicia y recusaciones de los Magistrados del Tribunal y respecto a los Magistrados de Sala Regional y de Sala Auxiliar designar de entre los Secretarios a quienes deban sustituirlos;
+
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+
+XV. Dictar sentencia definitiva en los juicios promovidos por los Magistrados del Tribunal, en contra de sanciones impuestas por la Junta de Gobierno y Administración, en aplicación de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y someter a la consideración del Presidente de la República la destitución de un Magistrado, en los términos del artículo 7 de esta Ley, y
 
 XVI. Las demás que establezcan las leyes.
 
@@ -323,9 +333,11 @@ XVI. Las demás que establezcan las leyes.
 
 Para la validez de las sesiones del Pleno se requerirá, cuando menos, la presencia de siete Magistrados y los debates serán dirigidos por el Presidente del Tribunal.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 20.
 
-Las sesiones serán públicas, excepto cuando la mayoría de los Magistrados presentes acuerde su privacidad, atendiendo a la naturaleza del caso a resolver, o en los supuestos previstos en las fracciones I a IX del artículo 18 de esta Ley.
+Las sesiones serán públicas, excepto cuando la mayoría de los Magistrados presentes acuerde su privacidad, atendiendo a la naturaleza del caso a resolver, o en los supuestos previstos en las fracciones I a X del artículo 18 de esta Ley.
 
 ###### ARTÍCULO 21.
 
@@ -605,6 +617,14 @@ XII. Tramitar y resolver los juicios en la vía sumaria que por turno le corresp
 
 XIII. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 38 Bis.
+
+Las Salas Auxiliares ejercerán jurisdicción material mixta y territorial en toda la República, y tendrán su sede en el lugar que determine el Reglamento Interior del Tribunal. Observarán para su organización, integración y funcionamiento, en lo conducente, las mismas disposiciones aplicables a las Salas Regionales, sin perjuicio de las adecuaciones que se requieran para su buen desempeño.
+
+Estas Salas auxiliarán a las Salas Regionales y Especializadas en el dictado de las sentencias definitivas en aquellos juicios que hayan sido del conocimiento de aquéllas, ya sea que se hubieren sustanciado en la vía tradicional, en línea o en vía sumaria, en términos de la Ley Federal de Procedimiento Contencioso Administrativo.
+
 ### CAPÍTULO VI. De la Junta de Gobierno y Administración
 
 ###### ARTÍCULO 39.
@@ -635,13 +655,13 @@ II. Formular anualmente el proyecto de presupuesto del Tribunal, para los efecto
 
 III. Realizar la evaluación interna de los servidores públicos que les requiera el Pleno, para los efectos del artículo 18, fracción V, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-IV. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
+IV. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; las sedes y número de las Salas Auxiliares; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-V. Adscribir a Salas Regionales o Salas Especializadas y, en su caso, cambiar de adscripción a los Magistrados de Salas Regionales y demás servidores públicos del Tribunal, observando las Condiciones Generales de Trabajo respecto a los trabajadores a los que les sean aplicables;
+V. Adscribir a Salas Regionales, Especializadas o Auxiliares, y, en su caso, cambiar de adscripción a los Magistrados de Salas Regionales y demás servidores públicos del Tribunal, observando las Condiciones Generales de Trabajo respecto a los trabajadores a los que les sean aplicables;
 
 VI. Elegir y adscribir, de entre los Magistrados Supernumerarios de Sala Regional, a los que habrán de suplir a los Magistrados de Sala Regional que integren la Junta de Gobierno y Administración, así como los que cubrirán las ausencias de los Magistrados de Sala Regional, en términos de lo dispuesto por esta Ley;
 
@@ -659,9 +679,9 @@ IX. Expedir las normas de carrera para los servidores públicos a que se refiere
 
 X. Autorizar los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para los servidores públicos previstos en el artículo 3 de esta Ley, que elabore el Instituto de Estudios sobre Justicia Fiscal y Administrativa;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XI. Dictar las reglas conforme a las cuales se deberán practicar visitas para verificar el correcto funcionamiento de las Salas Regionales y Salas Especializadas, así como señalar las que corresponderá visitar a cada uno de sus miembros;
+XI. Dictar las reglas conforme a las cuales se deberán practicar visitas para verificar el correcto funcionamiento de las Salas Regionales, Especializadas y Auxiliares, así como señalar las que corresponderá visitar a cada uno de sus miembros;
 
 XII. Acordar la distribución de los recursos presupuestales conforme a la ley, dictar las órdenes relacionadas con su ejercicio y supervisar su legal y adecuada aplicación;
 
@@ -1030,3 +1050,9 @@ CUARTO. Los avisos que se estén tramitando conforme a los artículos 67, últim
 Cualquier referencia hecha en alguna disposición jurídica al Boletín procesal o a la lista en estrados del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizada al Boletín Electrónico a partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma conforme al presente Decreto.
 
 El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
+
+D.O.F. 3 DE JUNIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Tribunal Federal de Justicia Fiscal y Administrativa deberá realizar las acciones que correspondan a efecto de que las Salas Auxiliares inicien su operación a partir de los 240 días naturales siguientes a la fecha de publicación del presente Decreto.
