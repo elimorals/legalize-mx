@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2010-10-29"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -805,11 +805,11 @@ Comparecencia de ciudadanos e invitados.- Las Comisiones podrán recibir en comp
 
 ### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES, ESPECIALES Y CONJUNTAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 79.
 
-Comisiones Permanentes.- Sin perjuicio de la facultad de establecer las comisiones que considere necesarias para la atención de los asuntos de su competencia, el Ayuntamiento de Tijuana instituye las siguientes comisiones permanentes:
+Comisiones Permanentes.- Sin perjuicio de la facultad de establecer las comisiones que considere necesarias para la atención de los asuntos de su competencia, el Ayuntamiento de Tijuana instituye las siguientes Comisiones permanentes:
 
 I.- Comisión de Gobernación y Legislación;
 
@@ -819,11 +819,13 @@ III.- Comisión de Fortalecimiento Municipal y Administración Pública;
 
 IV.- Comisión de Régimen Interno;
 
-V.- Comisión de Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+V.- Comisión de Desarrollo Urbano, Obras y Servicios Públicos;
 
-VI.- Comisión de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VI.- Comisión de Medio Ambiente y Desarrollo Sustentable;
 
 VII.- Comisión de Seguridad Pública;
 
@@ -833,7 +835,9 @@ IX.- Comisión de Vialidad y Transporte;
 
 X.- Comisión de Educación, Cultura y Bibliotecas;
 
-XI.- Comisión de Juventud;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XI.- Comisión de Juventud y Deportes.
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -845,7 +849,9 @@ XIII.- Comisión de Turismo, Comercio y Ciudades Hermanas.
 
 XIV.- Comisión de Desarrollo Económico;
 
-XV.- Comisión de Deportes;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XV.- Comisión de Protección Civil;
 
 XVI.- Comisión de Asuntos Fronterizos, y (sic)
 
@@ -858,6 +864,10 @@ XVIII.- Comisión de Equidad y Género.
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
 XX (SIC).- Comisión de Derechos Humanos, Grupos Vulnerables y Asuntos Indígenas.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XXI.- Comisión de la Familia.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -937,41 +947,45 @@ c).- En general, aquellas que el Cabildo le encomiende, y
 
 VI.- Consenso y votación.- Las resoluciones se tomarán preferentemente por consenso.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 84.
 
-Comisión de Obras y Servicios Públicos.- La Comisión de Obras y Servicio (sic) Públicos tendrá las siguientes atribuciones:
+Comisión de Desarrollo Urbano, Obras y Servicios Públicos.- La Comisión de Desarrollo Urbano, Obras y Servicios Públicos tendrá las siguientes atribuciones:
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observanci (sic) general en materia de obras y servicios públicos;
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de desarrollo urbano obras y servicios públicos.
 
-II.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para mejorar la prestación de los servicios públicos a cargo del Ayuntamiento;
+II.- Vigilar la elaboración y actualización de los programas de desarrollo urbano del Municipio, así como llevar a cabo las inspecciones de campo necesarias para dictaminar la procedencia de los expedientes que se turnen a esta Comisión, relativos a incorporaciones y desincorporaciones de bienes inmuebles del dominio público o privado.
 
-III.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con l (sic) municipalización y concesión de servicios públicos municipales, y la concurrencia del Ayuntamient (sic) con los Gobiernos Federal y Estatal en su prestación;
+III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientizar los programas de desarrollo urbano que implemente el Gobierno Municipal, y (sic)
 
-IV.- Dictaminar respecto de los proyectos de convenio por los que el Ayuntamiento concurra con otro (sic) Gobiernos Municipales de la entidad en la prestación de los servicios públicos;
+IV.- Dictaminar respecto de los proyectos de reglamento y disposiciones normativas de observancia general en materia de obras y servicios públicos.
 
-V.- Proponer al Cabildo proyectos para la ejecución de obras públicas;
+V.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para mejora (sic) la prestación de servicios públicos a cargo del Ayuntamiento.
 
-VI.- Dictaminar respecto de los proyectos de disposiciones normativas en materia de Ingeniería d (sic) tránsito y conservación y restauración del patrimonio histórico inmobiliario del Municipio, y
+VI.- Dictaminar respecto de los proyectos de disposiciones normativas relacionadas con la municipalización y concesión de servicios públicos municipales y la concurrencia del Ayuntamiento con los Gobiernos Federal y Estatal en su prestación.
 
-VII.- En general, aquellas que el Cabildo le encomiende
+VII.- Dictaminar respecto de los proyectos de convenios por los que el Ayuntamiento concurra con otros Gobiernos Municipales de la entidad en la prestación de los servicios públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+VIII.- Dictaminar respecto de de (sic) los proyectos de disposiciones normativas en materia de ingeniería de transito y conservación y restauración del patrimonio histórico inmobiliaria del Municipio y
+
+XI.- Proponer al Cabildo proyectos para la ejecución de obras públicas.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 85.
 
-Comisión de Desarrollo Urbano y Medio Ambiente.- La Comisión de Desarrollo Urbano y Medio Ambiente tendrá las siguientes atribuciones:
+Comisión de Medio Ambiente y Desarrollo Sustentable.- La Comisión de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de medio ambiente y desarrollo sustentable;
 
-I.- Dictaminar respecto de los proyectos de reglamentos y disposiciones normativas de observancia general en materia de desarrollo urbano y Medio Ambiente;
+II.- Proponer al Cabildo mecanismos para promover la participación y la responsabilidad de los sectores social y privado en la formulación de la política ecológica, la aplicación de sus instrumentos, las acciones de información y vigilancia y, en general, en las acciones ecológicas que emprenda el Municipio.
 
-II.- Vigilar la elaboración y actualización de los programas de desarrollo urbano del Municipio;
+III.- Proponer al Cabildo mecanismos e instrumentos para promover estudios e investigaciones de carácter científico y tecnológico, en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+IV.- Proponer al cabildo políticas públicas encaminadas a difundir y promover la cultura y los valores ecológicos.
 
-III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para eficientar los programas de desarrollo urbano y Medio Ambiente que implemente el Gobierno Municipal, y
-
-IV.- En general, aquellas que el Cabildo le encomiende.
+V.- En general, aquellas que el Cabildo le encomiende.
 
 ###### ARTICULO 86.
 
@@ -1033,15 +1047,21 @@ VIII.- Incentivar la difusión de los valores culturales, científicos e histór
 
 IX.- En general, aquellas que el Cabildo le encomiende.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 90.
 
-Comisión de Juventud.- La Comisión de Juventud tendrá las siguiente (sic) atribuciones;
+Comisión de Juventud y Deportes.- La Comisión de Juventud y Deportes tendrá las siguientes atribuciones:
 
-I.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participació (sic) de los jóvenes en asuntos de interés público;
+I.- Proponer al Cabildo la ejecución de programas especiales encaminados a fomentar la participación de los jóvenes en asuntos de interés público;
 
-I (sic).- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, e (sic) alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio, y
+II.- Proponer al Cabildo la ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio, y (sic)
 
-III.- En general, aquellas que el Cabildo le encomiende.
+III.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente entre los jóvenes;
+
+IV.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar las unidades deportivas dentro del municipio, y
+
+V.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2008)</small>
 
@@ -1119,13 +1139,7 @@ IX.- En general, aquellas que el Cabildo le encomiende.
 
 ###### ARTICULO 94.
 
-Comisión de Deportes.- La Comisión de Deportes tendrá las siguiente (sic) atribuciones:
-
-I.- Proponer al Cabildo los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la practica del deporte en el municipio especialmente entre los jóvenes;
-
-II.- Proponer al Cabildo la ejecución de obras para crear, mantener, conservar y ampliar las unidade (sic) deportivas dentro del municipio, y
-
-III.- En general, aquellas que el Cabildo le encomiende.
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ###### ARTICULO 95.
 
@@ -1196,6 +1210,34 @@ a) Fomentar la participación de los prestadores de servicio social en las comun
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 V.- En general, aquellas que el Cabildo le encomiende.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+ARTICULO 96 CUATER.- Comisión de la Familia.- La Comisión de la Familia tendrá las siguientes atribuciones:
+
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de Reglamentos, Iniciativas de Ley y disposiciones normativas de observancia referentes al desarrollo de la familia.
+
+II.- Proponer al Cabildo la adopción de políticas, encaminadas a fortalecer el desarrollo de las familias, así como vigilar el cumplimiento de los programas correspondientes que sean aprobados en esta materia.
+
+III.- Apoyar los programas del Sistema municipal para el Desarrollo Integral de la Familia.
+
+IV.- Promover el fortalecimiento y recuperación de los valores de la familia.
+
+V.- En general, aquellas que el Cabildo le encomiende.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+ARTICULO 96 QUINQUIES.- Comisión de Protección Civil.- La Comisión de Protección Civil tendrá las siguientes atribuciones:
+
+I.- Dictaminar respecto de asuntos relativos a proyectos de reglamentos, iniciativas de reforma y disposiciones normativas de observancia referentes a la Protección Civil;
+
+II.- Proponer al Cabildo la adopción de políticas, medidas y proyectos tendientes a instituir una conciencia sísmica en el personal que labora en la administración pública municipal, así como en la sociedad;
+
+III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones normativas respecto de la protección civil;
+
+IV.- Promover proyectos y acciones que fortalezcan las condiciones de la protección civil en la sociedad;
+
+V.- En general aquellas que el Cabildo le encomienden.
 
 > <small>(REFORMADO, P.O. 9 DE ENERO DE 2004)</small>
 
@@ -1492,3 +1534,9 @@ P.O. 29 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
 
 SEGUNDO.- En materia de las reformas en materia de ordenes de protección civiles, de emergencia y preventivas, estas entraran en vigor al momento de existir el marco jurídico y la legislación aplicables en la materia.
+
+P.O. 3 DE JUNIO DE 2011.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
+
+SEGUNDO.- E (SIC) DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
