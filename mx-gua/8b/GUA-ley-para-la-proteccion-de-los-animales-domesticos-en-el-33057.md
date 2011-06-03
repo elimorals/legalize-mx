@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-animales-domesticos-en-el-33057"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2003-07-29"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCION DE LOS ANIMALES DOMESTICOS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de julio de 2003.
 
@@ -49,15 +49,31 @@ La presente Ley es de orden público e interés social y tiene por objeto:
 
 I.- Regular la protección de los animales domésticos en el Estado;
 
-II.- Promover a través de la educación y la concientización de la sociedad, el respeto, cuidado y consideración a todas las formas de vida animal;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+II.- Promover, a través de la educación y la concientización de la sociedad, el respeto, cuidado y consideración a los animales domésticos;
 
 III.- Fomentar la participación ciudadana en la protección y preservación de los animales domésticos; y
 
 IV.- Regular el funcionamiento de los Centros de Control Animal.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entenderá por trato adecuado: El conjunto de medidas para disminuir el sufrimiento, traumatismo y dolor de los animales durante su captura, traslado, exhibición, cuarentena, experimentación, comercialización, aprovechamiento, entrenamiento y sacrificio.
+Para los efectos de esta Ley, se entenderá por:
+
+I.- Animales domésticos: Aquellos animales que son criados bajo el control del ser humano, que conviven con él y requieren de éste para su subsistencia, con excepción de los animales en vida silvestre o que se encuentren sujetos a las actividades pecuarias;
+
+II.- Animales ferales: Aquellos animales domésticos que al quedar fuera del control del hombre se establecen en el hábitat natural de la vida silvestre y que por ese hecho, se tornan perjudiciales al generar efectos negativos para el ambiente natural, otras especies o el hombre;
+
+III.- Centros de Control Animal: Los establecimientos de servicio público, destinados para la captura, resguardo y en su caso, para el sacrificio humanitario de animales domésticos y ferales, en donde además se pueden ofrecer los servicios de esterilización, orientación, vacunación, desparasitación y clínica;
+
+IV.- Sacrificio humanitario: Es el acto que provoca la muerte sin sufrimiento a los animales domésticos de manera rápida, mediante métodos físicos o químicos y por personal capacitado;
+
+V.- Sufrimiento: El daño, dolor o enfermedad causada a un animal por cualquier motivo; y
+
+VI.- Trato adecuado: El conjunto de medidas que debe observar toda persona para disminuir el sufrimiento de los animales durante su crianza, captura, traslado, exhibición, cuarentena, experimentación, comercialización, entrenamiento y sacrificio.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -89,7 +105,9 @@ I.- Dictar las disposiciones de carácter reglamentario para la aplicación de l
 
 II.- Emitir placas de identificación de animales domésticos, conforme al reglamento municipal de la materia, las que contendrán por lo menos el nombre del animal, su fecha de vacunación antirrábica, así como el nombre y domicilio del propietario;
 
-III.- Vigilar en coordinación con las autoridades federales la instalación de sitios adecuados para la comercialización legal de animales domésticos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+III.- Vigilar que la comercialización de los animales domésticos se realice en los términos de esta Ley;
 
 IV.- Ordenar la práctica de visitas de inspección y vigilancia con el objeto de verificar que las condiciones en que se encuentran los animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
@@ -103,6 +121,10 @@ VIII.- Ejercer por conducto de la dependencia o entidad municipal que correspond
 
 IX.- Las demás que se deriven de esta Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 5 a.- Los municipios podrán celebrar convenios de coordinación o asociación con otros municipios para la prestación de los servicios públicos de los Centros de Control Animal, en los términos de la Ley Orgánica Municipal para el Estado de Guanajuato.
+
 ###### Artículo 6.
 
 El Presidente Municipal deberá imponer las sanciones correspondientes, en caso de que se comprueben infracciones a esta Ley.
@@ -113,7 +135,33 @@ El Presidente Municipal deberá imponer las sanciones correspondientes, en caso 
 
 Los particulares podrán colaborar para alcanzar los fines que persigue la presente Ley.
 
-En consecuencia, los municipios promoverán la participación de todas las personas y sectores involucrados, en la formulación y aplicación de las medidas para la conservación, protección, preservación y aprovechamiento sustentable de los animales.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Los ayuntamientos promoverán la participación de todas las personas y sectores involucrados, en la formulación y aplicación de las medidas para la protección, preservación y trato adecuado de los animales.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Los ayuntamientos podrán establecer consejos de protección animal, los cuales podrán integrarse con ciudadanos y servidores públicos municipales que cuenten con experiencia en el manejo, cuidado y protección de animales domésticos.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+El funcionamiento y la organización de los consejos de protección animal se regularan conforme al reglamento de cada municipio.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 7 a.- Los consejos de protección animal tendrán como objeto:
+
+I.- Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de protección a los animales domésticos;
+
+II.- Proponer programas y acciones que incidan en el cumplimiento de los fines que se establecen en esta Ley;
+
+III.- Impulsar la participación ciudadana en materia de protección a los animales domésticos;
+
+IV. Denunciar cualquier infracción a la presente Ley;
+
+V. Proponer medidas para controlar el crecimiento natural de las poblaciones de animales domésticos; y
+
+VI.- Formular a los ayuntamientos propuestas de reglamentación en el cuidado, protección y manejo de los animales domésticos.
 
 ###### Artículo 8.
 
@@ -121,41 +169,73 @@ Son prerrogativas de los particulares:
 
 I.- Solicitar a la autoridad municipal la captura de animales que deambulen sin vigilancia de su propietario o poseedor;
 
-II.- Recibir la información y orientación necesarias de las autoridades municipales en relación con los derechos y obligaciones vinculados con la tenencia de animales y con las enfermedades de los mismos; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-III.- Obtener la vacunación antirrábica, desparasitación y esterilización de sus animales en las instalaciones municipales correspondientes, mediante el pago del derecho por la prestación del servicio.
+II. Recibir la información y orientación necesarias de las autoridades municipales en relación con los derechos y obligaciones vinculados con la tenencia de animales domésticos y con las enfermedades de los mismos;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+III.- Obtener la vacunación antirrábica, desparasitación, esterilización, orientación y clínica para sus animales en las instalaciones municipales correspondientes, mediante el pago del derecho por la prestación del servicio; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IV.- Formar parte de los consejos de protección animal, conforme a las disposiciones del reglamento municipal.
 
 ###### Artículo 9.
 
 Las sociedades o asociaciones protectoras de animales y los médicos veterinarios podrán colaborar con las autoridades municipales y sanitarias en las campañas de vacunación antirrábica, desparasitación, esterilización, promoción de la cultura de respeto a los animales y demás acciones que implementen, para el desarrollo de las políticas en la materia de esta Ley.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 9 a.- Los municipios podrán celebrar convenios de coordinación con sociedades y asociaciones protectoras de animales, legalmente constituidas, para apoyar en la captura, resguardo, esterilización, orientación, vacunación, desparasitación, clínica y en su caso, sacrificio humanitario de animales domésticos y ferales encontrados en la vía pública o los entregados por sus dueños, para remitirlos a los Centros de Control Animal o a los refugios autorizados.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN)</small>
+
+### CAPÍTULO CUARTO. DE LA EDUCACIÓN PARA EL TRATO ADECUADO A LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 9 b.- Los ayuntamientos promoverán, mediante programas y acciones, la educación para el trato adecuado de los animales domésticos, con base en los principios contenidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 9 c.- Los ayuntamientos promoverán la capacitación y actualización de su personal en el manejo adecuado a los animales domésticos, así como de quienes participan en actividades de verificación y vigilancia.
 
 ## TÍTULO SEGUNDO. DE LA PROTECCIÓN DE LOS ANIMALES
 
-### CAPÍTULO SEGUNDO. DEL SACRIFICIO DE LOS ANIMALES
+### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 10.
 
-Los propietarios o poseedores de animales domésticos de cualquier tipo, deberán tratarlos en los términos previstos en esta Ley.
+Son obligaciones de toda persona:
+
+l. Proteger a los animales domésticos brindándoles asistencia, auxilio y trato adecuado;
+
+II.- Evitar a los animales domésticos el sufrimiento, actos de crueldad y maltrato; y
+
+III.- Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley.
 
 ###### Artículo 11.
 
-Se prohibe el sacrificio, lesión o perturbación a los animales en otra forma que no sea la prescrita por esta Ley.
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### Artículo 12.
 
-Queda prohibido sacrificar animales a través de métodos que causen sufrimiento excesivo o innecesario.
+Los animales domésticos no podrán ser sacrificados en la vía pública, salvo en caso de lesiones graves o cuando se ponga en riesgo la integridad de las personas, los bienes o la salud pública.
 
-Ningún animal podrá ser sacrificado en la vía pública, salvo en el caso de fuerza mayor, lesiones graves o cuando se ponga en riesgo la integridad de las personas, los bienes o la salud pública.
-
-Cualquier animal que detente características de peligrosidad o ferocidad que sea capturado por razón de ataque a humanos, será asegurado y permanecerá en observación, el tiempo que determine el reglamento municipal, transcurrido dicho término será sacrificado.
+El animal doméstico que sea capturado por razón de ataque a humanos, será asegurado y permanecerá en observación, en los términos que establece el artículo 31 de esta Ley.
 
 ###### Artículo 13.
 
 Los propietarios y poseedores de animales deberán:
 
-I.- Procurarles la alimentación, atención sanitaria y las condiciones de trato que esta Ley establece;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+I.- Procurarles la alimentación, atención sanitaria y las condiciones de trato adecuado que esta Ley establece;
 
 II.- Obtener de la autoridad municipal correspondiente, o por medios propios, la placa de identificación del animal y colocarla permanentemente;
 
@@ -169,6 +249,24 @@ VI.- Impedir que sus animales entren a propiedades privadas y si lo hacen y excr
 
 VII.- Retirar de la vía pública las excretas del animal.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 13 a.- Se consideran actos de crueldad y maltrato a los animales domésticos:
+
+I.- Causarles la muerte utilizando cualquier medio que prolongue la agonía o provoque sufrimiento;
+
+II.- Cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos en la materia;
+
+III.- Todo acto u omisión que ocasione sufrimiento o ponga en peligro la vida;
+
+IV.- Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado, acorde a su especie, y que cause o pueda causarle daño; y
+
+V. Abandonar a los animales en la vía pública o desatenderlos por periodos prolongados en bienes de propiedad de particulares, comprometiendo su bienestar.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 13 b.- Queda prohibido el obsequio de animales domésticos con fines de propaganda y publicidad.
+
 ###### Artículo 14.
 
 Queda prohibido organizar, inducir o provocar peleas de animales de cualquier especie.
@@ -179,7 +277,7 @@ Quedan excluidos para los efectos de esta Ley, las peleas de gallos, corridas de
 
 Los actos u omisiones que ocasionen maltrato a un animal, serán sancionados en los términos de esta Ley aunque se comentan (sic) por imprudencia.
 
-### CAPÍTULO TERCERO. DE LAS ACTIVIDADES E INSTALACIONES PARA LA CRIANZA, ENTRENAMIENTO, COMERCIALIZACIÓN Y TRATAMIENTO VETERINARIO DE ANIMALES
+### CAPÍTULO SEGUNDO. DEL SACRIFICIO DE LOS ANIMALES
 
 ###### Artículo 16.
 
@@ -187,13 +285,13 @@ El sacrificio de los animales destinados para consumo, se hará sólo con la aut
 
 ###### Artículo 17.
 
-En los términos de esta Ley se prohibe el sacrificio de cualquier animal que no se destine para el consumo, solo se permitirá por razón de enfermedad o por incapacidad que degenere importantemente la calidad de vida del animal o cuando por cualquier circunstancia, éste represente una amenaza para la comunidad.
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ###### Artículo 18.
 
 El propietario o poseedor de un animal deberá sacrificarlo inmediatamente cuando por cualquier causa se hubiere enfermado o lesionado gravemente y esto le ocasione sufrimiento o agonía, o que represente un peligro para la salud o la seguridad de las personas, dicho sacrificio podrá ser llevado a cabo a través de los Centros de Control Animal, a efecto de que el sacrificio sea evitando el sufrimiento y dolor innecesario, y con los controles sanitarios respectivos.
 
-### CAPÍTULO CUARTO. DE LAS ACTIVIDADES DE TRANSPORTE, CARGA, TIRO Y MONTA
+### CAPÍTULO TERCERO. DE LAS ACTIVIDADES E INSTALACIONES PARA LA CRIANZA, ENTRENAMIENTO, COMERCIALIZACIÓN Y TRATAMIENTO VETERINARIO DE ANIMALES
 
 ###### Artículo 19.
 
@@ -223,23 +321,43 @@ Quienes se dediquen al entrenamiento de animales domésticos con fines de guardi
 
 Para el adiestramiento, entrenamiento, o para verificar la agresividad de animales, queda prohibido utilizar para dicho fin otros animales vivos, técnicas que les causen sufrimiento, así como emplear métodos de castigo como golpes o prácticas de maltrato animal.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Queda prohibido el adiestramiento de animales en áreas comunes, en lugares en donde se ponga en riesgo la integridad de las personas y en aquellos establecimientos que no cuenten con las instalaciones adecuadas para hacerlo.
+
 ###### Artículo 23.
 
 Los responsables de consultorios, clínicas u hospitales veterinarios, llevarán un archivo con la ficha clínica de los animales objeto de vacunación, tratamiento o sacrificio, cuyo contenido podrá ser objeto de verificación de las autoridades competentes.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+Artículo 23 a. Para la venta de un animal doméstico, el vendedor deberá entregar al comprador un certificado de vacunación suscrito por médico veterinario autorizado, que contenga información sobre la aplicación de la vacuna antirrábica y de desparasitación interna y externa.
+
+El vendedor además entregará un certificado de salud, en el cual se haga constar que el animal se encuentra libre de enfermedades aparentes, incluyendo el calendario de vacunación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 24.
 
-Queda prohibido en los locales de exhibición o expendio de animales:
+Queda prohibido en los establecimientos de exhibición o comercialización de animales domésticos:
 
-I.- Ofrecerlos en venta si presentan alguna enfermedad trasmisible, sin importar la naturaleza o gravedad de la misma; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-II.- Realizar actividades de sacrificio, de mutilación por motivos estéticos o de salud, y otras similares en presencia de público.
+I.- Ofrecerlos en venta con lesiones, traumatismos, fracturas, heridas o con alguna enfermedad, sin importar la naturaleza o gravedad de la misma;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+II.- La venta de animales domésticos a menores de edad; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+III.- Realizar actividades de sacrificio, de mutilación por motivos estéticos o de salud, y otras similares en presencia de público.
 
 ###### Artículo 25.
 
 Las autoridades municipales podrán coordinarse con las autoridades federales a fin de promover la instalación de sitios adecuados para la comercialización legal de los animales en el Estado.
 
-### CAPÍTULO QUINTO. DE LOS CENTROS DE CONTROL ANIMAL
+### CAPÍTULO CUARTO. DE LAS ACTIVIDADES DE TRANSPORTE, CARGA, TIRO Y MONTA
 
 ###### Artículo 26.
 
@@ -253,25 +371,35 @@ Los animales que se encuentren notoriamente enfermos o lesionados, no podrán se
 
 El transporte de animales se ajustará a lo dispuesto por la Ley Federal de Sanidad Animal, la Ley Ganadera para el Estado de Guanajuato, los reglamentos correspondientes, así como a las Normas Oficiales Mexicanas conducentes.
 
-### CAPÍTULO SEXTO. DE LOS EXPERIMENTOS CIENTÍFICOS CON ANIMALES
+### CAPÍTULO QUINTO. DE LOS CENTROS DE CONTROL ANIMAL
 
 ###### Artículo 29.
 
 Los municipios procurarán establecer Centros de Control Animal, mismos que tendrán las siguientes obligaciones:
 
-I.- Dar a los animales un trato adecuado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-II.- Proveer el alimento y agua suficiente a los animales ahí resguardados;
+I.- Dar a los animales domésticos y ferales un trato adecuado;
 
-III.- Capacitar permanentemente al personal, a fin de asegurar que otorguen un manejo adecuado a los animales, en su captura, estancia, tratamiento sanitario y sacrificio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+II.- Proveer el alimento y agua suficiente a los animales domésticos y ferales ahí resguardados;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+III.- Capacitar permanentemente al personal, a fin de asegurar que otorguen un trato adecuado a los animales domésticos y ferales, en su captura, estancia, tratamiento sanitario y sacrificio humanitario;
 
 IV.- Realizar campañas permanentes de vacunación antirrábica, desparasitación y esterilización;
 
 V.- Proporcionar la constancia de vacunación antirrábica, desparasitación y esterilización;
 
-VI.- Emitir una constancia del estado general del animal, tanto de ingreso como de salida;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-VII.- Separar y atender a los animales que capturen y estén lesionados o que presenten signos de una enfermedad infectocontagiosa, así como separar a las hembras preñadas;
+VI.- Emitir una constancia del estado general del animal doméstico, tanto de ingreso como de salida;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VII.- Separar y atender a los animares domésticos y ferales que capturen y estén lesionados o que presenten signos de una enfermedad infectocontagiosa, así como separar a las hembras preñadas;
 
 VIII.- Llevar un control y estadística de los servicios que preste el Centro; y
 
@@ -295,17 +423,19 @@ El Centro de Control Animal podrá disponer el sacrificio del animal que agreda 
 
 Se autoriza la captura de animales que se realice por motivos de salud o por que éstos deambulen sin propietario, la que efectuará la autoridad competente.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 34.
 
-Un animal capturado por deambular en la vía pública podrá ser recuperado por su propietario dentro de los cinco días naturales posteriores a su captura. En caso que el animal no sea reclamado dentro del tiempo señalado, el Centro de Control Animal podrá entregarlo para su cuidado y protección a algún particular que previamente lo haya solicitado o en su caso destinarlo al sacrificio; en todo caso, se procurará la entrega a quienes acrediten el interés, los medios y la responsabilidad necesarios para su cuidado.
+Un animal doméstico capturado por deambular en la vía pública podrá ser recuperado por su propietario o poseedor dentro de un plazo de cinco días hábiles posteriores a su captura. En caso que el animal no sea reclamado dentro del tiempo señalado, el Centro de Control Animal podrá entregarlo para su cuidado y protección a algún particular que previamente lo haya solicitado o en su caso destinarlo al sacrificio. Se procurará la entrega a quienes acrediten el interés, los medios y la responsabilidad necesarios para su cuidado.
 
-### CAPÍTULO SÉPTIMO. DE LOS ANIMALES EN ACTIVIDADES DE ENTRETENIMIENTO PÚBLICO
+### CAPÍTULO SEXTO. DE LOS EXPERIMENTOS CIENTÍFICOS CON ANIMALES
 
 ###### Artículo 35.
 
 Los experimentos con animales domésticos, deberán realizarse sólo cuando estén plenamente justificados, sean imprescindibles para el estudio, avance de la ciencia y cuenten con la autorización correspondiente, de conformidad con las disposiciones jurídicas y las Normas Oficiales Mexicanas conducentes.
 
-### CAPÍTULO OCTAVO. DE LA CAPTURA DE LOS ANIMALES
+### CAPÍTULO SÉPTIMO. DE LOS ANIMALES EN ACTIVIDADES DE ENTRETENIMIENTO PÚBLICO
 
 ###### Artículo 36.
 
@@ -319,7 +449,7 @@ Los ayuntamientos expedirán el permiso para la celebración de festividades pú
 
 Los propietarios o responsables de la empresa o negociación que utilice animales para ofrecer espectáculos públicos sacrificarán inmediatamente a aquellos que por cualquier causa se hubiesen lesionado gravemente o mutilado un miembro u órgano necesarios para su desarrollo o subsistencia.
 
-### CAPÍTULO NOVENO. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO OCTAVO. DE LA CAPTURA DE LOS ANIMALES
 
 ###### Artículo 39.
 
@@ -345,7 +475,9 @@ Los animales capturados se depositarán en lugares apropiados para su guarda, do
 
 Cuando los animales capturados porten placa de identificación, o se pueda identificar a los propietarios o poseedores en cualquier otra forma, los responsables de su guarda tan luego como los reciban, notificarán por cualquier medio fehaciente al propietario que aparezca en aquella.
 
-A partir de dicha notificación se abrirá un plazo de tres días naturales para la reclamación del animal, la que se hará en los términos que señale el reglamento que expida el Ayuntamiento.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+A partir de dicha notificación se abrirá un plazo de tres días hábiles para la reclamación del animal, la que se hará en los términos que señale el reglamento que expida el Ayuntamiento.
 
 La devolución no procederá si se manifiesta enfermedad grave o transmisible en el animal.
 
@@ -353,7 +485,7 @@ La devolución no procederá si se manifiesta enfermedad grave o transmisible en
 
 Si nadie reclama al animal dentro del plazo previsto en el artículo anterior, podrá realizarse el sacrificio o la entrega a un particular del mismo, en observancia a lo dispuesto por esta Ley.
 
-### CAPÍTULO ÚNICO. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO NOVENO. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 44.
 
@@ -379,7 +511,7 @@ III.- Por ausencia manifiesta y notoria de violaciones a la Ley.
 
 ## TÍTULO TERCERO. INSPECCIÓN Y VIGILANCIA
 
-### CAPÍTULO PRIMERO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO. DE LA INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 48.
 
@@ -403,9 +535,11 @@ A continuación, se procederá a firmar el acta por la persona con quien se ente
 
 Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 51.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección, así como a proporcionar toda clase de información que se requiera para la verificación del cumplimiento de las disposiciones de esta Ley.
+La persona con quien se entienda la diligencia de inspección y vigilancia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección, así como a proporcionar toda clase de información que se requiera para la verificación del cumplimiento de las disposiciones de esta Ley.
 
 ###### Artículo 52.
 
@@ -417,7 +551,7 @@ En la resolución correspondiente, se señalarán, las medidas que deberán llev
 
 ## TÍTULO CUARTO. MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES
+### CAPÍTULO PRIMERO. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 54.
 
@@ -451,9 +585,13 @@ La medida de seguridad se impondrá previo dictamen de la Dependencia o Entidad 
 
 La medida de seguridad concluye con la imposición de la sanción; en caso de que no se imponga sanción alguna, la medida de seguridad cesará de inmediato.
 
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 59.
 
-Se consideran faltas que deben ser sancionadas, los actos u omisiones realizados por los propietarios, poseedores, encargados de la guarda o custodia o cualquier persona que tenga relación con un animal, en contravención a las disposiciones de esta Ley; las faltas serán sancionadas administrativamente con una o más de las siguientes sanciones:
+Se consideran faltas que deben ser sancionadas, los actos u omisiones que contravengan las disposiciones de esta Ley realizadas por los propietarios, poseedores, encargados de la guarda o custodia de animales o por cualquier persona. Las faltas serán sancionadas administrativamente con una o más de las siguientes sanciones:
 
 I.- Apercibimiento;
 
@@ -504,3 +642,9 @@ EL SUBSECRETARIO DE GOBIERNO
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 66 del Reglamento Interior de la Secretaría de Gobierno.
 
 ING. GERARDO LUIS RODRÍGUEZ OROZCO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2011.
+
+Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
