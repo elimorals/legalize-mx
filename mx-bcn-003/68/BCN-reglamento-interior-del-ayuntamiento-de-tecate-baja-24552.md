@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2010-12-17"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,75 +771,33 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 70.
+###### ARTICULO 70.
 
 Serán Comisiones permanentes las siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+l. Gobernación, Legislación y Migración.
 
-I.- Gobernación y Legislación.
+II. Hacienda y Administración Pública.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+III. Obras y Servicios Públicos.
 
-II.- Hacienda.
+IV. Desarrollo Urbano y Planeación.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+V. Seguridad Pública, Bomberos y Protección Civil.
 
-III.- Obras y Servicios Públicos.
+VI. Asuntos Fronterizos y Medio Ambiente.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+VII. Salud y Asistencia Social.
 
-IV.- Desarrollo Urbano y Control Ecológico.
+VIII. Educación, Cultura y Deporte.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+IX. Equidad de Género y Gestión Social.
 
-V.- Administración Pública.
+X. Desarrollo Social, Rural y Comunidades Indígenas.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-VI.- Seguridad, Tránsito y Transporte.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-VII.- Planeación del Desarrollo.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-VIII.- Publicaciones y asuntos fronterizos.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-IX.- Salud.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-X.- Asistencia Social.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-XI.- Educación, Cultura y Deporte.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-XII.- Gestión Social.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-XIII.- Bomberos y Protección Civil.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-XIV.- Desarrollo Rural y Comunidades Indígenas.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-XV.- Equidad de Género.
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-XVI.- Migración.
+XI. Turismo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -1123,6 +1081,24 @@ COMISION DE MIGRACION
 
 ARTICULO 82 CUATER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+
+ARTICULO 82 QUINQUIES.- La Comisión de Turismo tendrá las siguientes atribuciones:
+
+l. Proponer a las dependencias y entidades de la Administración Pública Federal y Estatal las medidas que contribuyan a garantizar la congruencia de los programas y acciones que impacten la actividad turística municipal;
+
+II. Proponer mejoras o adecuaciones al marco regulatorio que permita el impulso, fortalecimiento y desarrollo de la actividad turística;
+
+III. Analizar los asuntos que tengan un impacto negativo en la actividad turística municipal, con el objeto de proponer soluciones y acciones específicas para su atención de manera conjunta por las autoridades competentes de los tres órdenes de Gobierno;
+
+IV. Analizar las propuestas de los sectores público, social y privado, para el desarrollo integral de la actividad turística, a efecto de realizar recomendaciones para la instrumentación de aquéllas que resulten viables en la Administración Pública;
+
+V. Proponer mecanismos para armonizar y coordinar las políticas públicas tendientes a eficientar los recursos asignados al impulso, promoción, desarrollo y fortalecimiento de la actividad turística
+
+VI. Vigilar el funcionamiento de los organismos que promuevan el Desarrollo Turístico del Municipio y en los que tenga injerencia el Ayuntamiento o Cabildo a través de sus Instituciones o Dependencias.
+
+VII. En general todas aquellas cuestiones que estén vinculadas con la actividad de Turismo.
+
 REMISION A COMISIONES
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
@@ -1294,3 +1270,9 @@ P.O. 17 DE DICIEMBRE DE 2010.
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JUNIO DE 2011.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Publíquese en el Periódico Oficial del Estado.
