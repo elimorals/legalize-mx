@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2008-04-17"
+last_updated: "2011-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -520,9 +520,13 @@ En cada ejido la asamblea podrá resolver sobre el deslinde de las superficies q
 
 La asamblea podrá reservar igualmente una superficie en la extensión que determine, localizada de preferencia en las mejores tierras colindantes con la zona de urbanización, que será destinada al establecimiento de una granja agropecuaria o de industrias rurales aprovechadas por las mujeres mayores de dieciséis años del núcleo de población. En esta unidad se podrán integrar instalaciones destinadas específicamente al servicio y protección de la mujer campesina.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+
 ###### Artículo 72.
 
-En cada ejido y comunidad podrá destinarse una parcela para constituir la unidad productiva para el desarrollo integral de la juventud, en donde se realizarán actividades productivas, culturales, recreativas y de capacitación para el trabajo, para los hijos de ejidatarios, comuneros y avecindados mayores de dieciséis y menores de veinticuatro años. Esta unidad será administrada por un comité cuyos miembros serán designados exclusivamente por los integrantes de la misma. Los costos de operación de la unidad serán cubiertos por sus miembros.
+En cada ejido y comunidad podrá destinarse una parcela para constituir la unidad productiva para el desarrollo integral de la juventud, donde se realizarán actividades sociales, económicas, culturales, de salud y de capacitación, tendientes a procurar que los hijos de ejidatarios, comuneros y avecindados mayores de catorce y menores de veintinueve años logren una inserción sana, plena y productiva en el desarrollo del campo. Esta unidad será administrada por un comité cuyos miembros serán designados exclusivamente por los integrantes de la misma.
+
+La puesta en marcha y los costos de operación de la unidad serán cubiertos por sus integrantes, quienes podrán recurrir a los programas de financiamiento y asesoría de la Federación, estados, Distrito Federal y municipios.
 
 #### Sección Quinta. De las Tierras de Uso Común
 
@@ -1559,3 +1563,7 @@ SEGUNDO.- Para la resolución de asuntos relativos a ampliación o dotación de 
 D.O.F. 17 DE ABRIL DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JUNIO DE 2011.
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
