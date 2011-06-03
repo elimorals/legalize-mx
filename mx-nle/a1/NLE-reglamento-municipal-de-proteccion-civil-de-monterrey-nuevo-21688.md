@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-de-proteccion-civil-de-monterrey-nuevo-216
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-06"
-last_updated: "2001-11-09"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MONTERREY, NUEVO LEON
 
-REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DE MONTERREY, NUEVO LEON
+REGLAMENTO MUNICIPAL DE PROTECCIÓN CIVIL DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de julio de 2001.
 
@@ -1292,3 +1294,15 @@ C.P. ROBERTO RAMÍREZ VILLARREAL
 P.O. 9 DE NOVIEMBRE DE 2001.
 
 Único. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2011.
+
+PRIMERO. Se abroga el Reglamento Municipal de Protección Civil de Monterrey, publicado en el Periódico Oficial núm. 90, el 6 de julio de 2001, y las reformas publicadas en el Periódico Oficial de fechas 9 de noviembre de 2001 y del 27 de agosto de 2008.
+
+SEGUNDO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Manual de Bases y Tablas Técnicas de Protección Civil aprobadas en la Sesión del Republicano Ayuntamiento de fecha 3 de julio de 2002, publicadas en el Periódico Oficial en fecha 22 de julio de 2002 continúan vigentes.
+
+CUARTO. Lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicara supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
+
+QUINTO. Se deja sin efecto legal alguno, cualquier disposición que contravenga el presente Reglamento.
