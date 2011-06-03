@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-03-30"
+last_updated: "2011-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -257,9 +257,9 @@ El Instituto de Elecciones y Participación Ciudadana, será competente para con
 
 Il. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que los partidos políticos, coaliciones, precandidatos y candidatos empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-Estará integrada por un Presidente y dos Contralores Electorales, nombrados por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes, a propuesta del Titular del Ejecutivo del Estado. Durarán en su encargo siete años, pudiendo ser reelectos para otro periodo igual, y únicamente podrán ser removidos en los términos del Título Décimo de esta Constitución. La Comisión de Fiscalización Electoral funcionará siempre en Pleno, el cual estará integrado por sus tres integrantes, quienes contarán con voz y voto en las sesiones. Concurrirán únicamente con voz, a las sesiones del Pleno, los representantes de los partidos políticos y un Secretario Ejecutivo, quien será designado por el voto mayoritario de los integrantes del Pleno, a propuesta del Presidente.
+Estará integrada por un Presidente y dos Contralores Electorales, nombrados por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes, a propuesta del Titular del Ejecutivo del Estado. Durarán en su encargo siete años, pudiendo ser reelectos para otro periodo igual, y únicamente podrán ser removidos en los términos del Título Décimo de esta Constitución. Concurrirán únicamente con voz, a las sesiones del Pleno, los representantes de los partidos políticos y un Secretario Ejecutivo, quien será designado por el voto mayoritario de los integrantes del Pleno, a propuesta del Presidente.
 
 La Comisión de Fiscalización Electoral, contará con los órganos necesarios para el adecuado desempeño de sus atribuciones, de acuerdo con lo señalado en la Ley respectiva.
 
@@ -753,7 +753,7 @@ La infracción de esta disposición será sancionada con la pérdida del cargo d
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 27.
 
@@ -1587,9 +1587,13 @@ El Consejo Estatal de los Derechos Humanos velará por el cabal cumplimiento de 
 
 ###### ARTICULO 49.
 
-Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley.
+Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial, la imposición de las penas, su modificación y duración.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 La impartición de justicia en Chiapas, contará también con medios alternativos para la resolución de controversias de derechos sobre los cuales, los particulares puedan disponer libremente, sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia de paz, estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permitan.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
@@ -1597,13 +1601,23 @@ En cualquiera de sus modalidades, la impartición de justicia será pronta, grat
 
 El Poder Judicial para el ejercicio de sus atribuciones se deposita en un Tribunal Superior de Justicia del Estado, que estará compuesto por un Tribunal Constitucional, Salas Regionales Colegiadas, Juzgados de Primera Instancia, Juzgados y Salas Especializadas en Justicia para Adolescentes, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, un Centro de Justicia Alternativa y un Instituto de la Defensoría Social; un Consejo de la Judicatura; un Tribunal de Justicia Electoral y Administrativa; y un Tribunal del Trabajo Burocrático. Las particularidades de su organización y desempeño, serán previstas por un Código de Organización del Poder Judicial y en el Reglamento Interior que al efecto emita cada uno de sus órganos, con base en lo dispuesto en esta Constitución y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
 El Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en las materias Electoral y Administrativa; sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos; sesionará en Pleno y en Salas, y sus sesiones serán públicas. Estará integrado por siete magistrados, uno de los cuales, por decisión del Pleno, fungirá como su presidente. De los siete magistrados, cinco serán nombrados por el Congreso del Estado o por la Comisión Permanente en su caso, de entre las propuestas que formulen los grupos parlamentarios, durarán en el cargo siete años con posibilidad de ser reelectos para otro periodo Igual; los restantes, serán designados por el Tribunal Constitucional de entre los magistrados de las Salas Regionales Colegiadas.
 
-El Tribunal del Trabajo Burocrático, estará integrado por siete magistrados designados por las siguientes Instancias.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+El Tribunal del Trabajo Burocrático, estará integrado de la siguiente manera:
 
-Dos por el Poder Ejecutivo, uno por el Tribunal Constitucional del Tribunal Superior de justicia del Estado; uno propuesto por la mayoría de los Municipios de la Entidad y hasta un máximo de tres propuestos de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
+I. Dos Magistrados designados por el Poder Ejecutivo.
+
+II. Un magistrado designado por el Tribunal Constitucional del Tribunal Superior de Justicia del Estado.
+
+III. Un Magistrado propuesto por la mayoría de los municipios de la Entidad.
+
+IV. Tres Magistrados propuestos de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 El Presidente del Tribunal del Trabajo Burocrático, lo será el designado por el Poder Judicial.
 
@@ -1611,9 +1625,15 @@ El Presidente del Tribunal del Trabajo Burocrático, lo será el designado por e
 
 La designación de los Magistrados nombrados por el Ejecutivo del Estado será directa. El Magistrado cuya propuesta provenga de los Ayuntamientos, deberá ser aprobado por el Congreso del Estado en términos del Código de Organización del Poder Judicial del Estado. Todos los Magistrados integrantes del Tribunal del Trabajo Burocrático, deberán reunir los mismos requisitos que se exigen para ser Magistrado de las Salas Regionales del Tribunal Superior de Justicia del Estado; además deberán contar con experiencia en materia laboral acreditada por un periodo no menor de tres años. Durarán en sus funciones cuatro años, con posibilidad de ser reelectos en los términos de la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
 El Tribunal del Trabajo Burocrático funcionará en Pleno y en Salas. La ley determinará sus respectivas competencias y la forma de su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+
 Esta Constitución y la Ley respectiva garantizarán la estabilidad e independencia de los magistrados, jueces y demás funcionarios judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
 Ningún funcionario del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo el de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
@@ -1643,9 +1663,9 @@ El Presidente del Tribunal Constitucional lo será también del Tribunal Superio
 
 El Presidente del Tribunal Superior de Justicia del Estado, será el Titular del Poder Judicial en Chiapas. De manera anual, enviará al Congreso del Estado, un informe escrito sobre el estado que guarda la impartición y administración de justicia.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-El Tribunal Superior de Justicia del Estado elaborará su proyecto de presupuesto; el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. En los términos del artículo 57 de esta Constitución, los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial del Estado y remitidos directamente por el Consejo de la Judicatura ante el Congreso del Estado. El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del gasto programable, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
+El Tribunal Superior de Justicia del Estado elaborará su proyecto de presupuesto; el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. En los términos del artículo 57, de esta Constitución, los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial del Estado y remitidos directamente por el Consejo de la Judicatura ante el Congreso del Estado. El presupuesto asignado al Poder Judicial del Estado no podrá ser inferior al dos por ciento del total del presupuesto de egresos del Estado, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -3938,3 +3958,11 @@ P.O. 30 DE MARZO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- En un término no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, se llevarán a cabo las reformas y modificaciones necesarias al marco jurídico correspondiente, para adecuarlo a las disposiciones que se establecen en el presente Decreto.
