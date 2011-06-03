@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2004-06-18"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -371,11 +371,11 @@ V. Tener experiencia en actividades relativas a la atención de la problemática
 
 VI. No haber sido condenada o condenado por sentencia ejecutoriada por delito doloso, ni estar inhabilitada o inhabilitado para ocupar cargo, comisión o empleo en el servicio público;
 
-VII. No formar parte, ni haber figurado en puestos directivos de un partido político o haber ocupado un puesto de elección popular, durante los últimos cinco años, y
+VII. (DEROGADA, P.O. 3 DE JUNIO DE 2011)
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-VIII.- No formar parte de la Junta Directiva del Instituto.
+VIII. No formar parte de la Junta Directiva del Instituto.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
@@ -540,3 +540,7 @@ C.P. JORGE RAMOS
 P.O. 18 DE JUNIO DE 2004.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JUNIO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
