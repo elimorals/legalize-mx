@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-de-conciliacion-y-564
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-06"
-last_updated: "2007-07-06"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA COMISON ESTATAL DE CONCILIACION Y ARBITRAJE EN LA PRESTACION DE SERVICIOS DE SALUD DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 6 de julio de 2007.
 
@@ -352,3 +354,19 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SALUD
 
 JOSÉ GUADALUPE BUSTAMANTE MORENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Comisión Estatal de Conciliación y Arbitraje de la Prestación de Servicios de Salud del Estado de Baja California, publicado en el Periódico Oficial del Estado de Baja California en fecha 6 de julio de 2007.
+
+###### ARTICULO TERCERO.
+
+En tanto no se expidan los manuales administrativos que este reglamento menciona, el Comisionado queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
