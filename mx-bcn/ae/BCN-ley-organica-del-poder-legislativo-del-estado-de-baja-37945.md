@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2011-02-25"
+last_updated: "2011-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -139,11 +139,11 @@ V.- Reglamento: El Reglamento de Procedimientos y Prácticas Parlamentarias del 
 
 ### CAPITULO I. DE LA TRANSICIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-La Mesa Directiva de la Comisión Permanente de la Legislatura saliente, se erigirá en una Asamblea de Transición, y tendrá las siguientes atribuciones:
+La Mesa Directiva de la Legislatura saliente, se erigirá en una Asamblea de Transición, y tendrá las siguientes atribuciones:
 
 I.- Entregar a más tardar el día quince de Septiembre del año de la elección, credenciales de identificación y acceso a los Diputados Electos que integrarán la nueva Legislatura, cuya constancia de mayoría y validez, de asignación proporcional o por resolución firme del Órgano jurisdiccional electoral competente, haya recibido el Congreso;
 
@@ -521,9 +521,9 @@ Para el cumplimiento de sus facultades y ejercicio de sus funciones, el Congreso
 
 El Congreso del Estado se organiza y funciona con los siguientes órganos de Gobierno y de Trabajo:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-I.- La Mesa Directiva del Congreso del Estado o de la Comisión Permanente; la Junta de Coordinación Política; y, el Órgano Colegiado del Instituto de Estudios Legislativos;
+I.- La Mesa Directiva del Congreso del Estado, la Junta de Coordinación Política; y, el Órgano Colegiado del Instituto de Estudios Legislativos;
 
 II.- Las Comisiones;
 
@@ -789,9 +789,9 @@ LAS COMISIONES
 
 Las Comisiones, como órganos de trabajo del Congreso del estado, conforme a los (sic) dispuesto en el Artículo 39 de esta Ley, les corresponde el ejercicio y cumplimiento de las facultades atribuidas al Congreso por la Constitución Local, así como de acuerdo a su denominación, les corresponde sus funciones en relación a las respectivas áreas de la administración pública estatal o municipal.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-El Congreso cuenta con comisiones que se integran y funcionan de acuerdo a la Constitución del Estado y de esta Ley. Para el despacho de los asuntos a su cargo, continúan funcionando durante los recesos del Congreso del Estado, y atienden los asuntos que les son turnados por la Comisión Permanente.
+El Congreso cuenta con comisiones que se integran y funcionan de acuerdo a la Constitución del Estado y de esta Ley. Para el despacho de los asuntos a su cargo, funcionarán durante toda la Legislatura y atienden los asuntos que les son turnados por el Pleno del Congreso.
 
 > <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -1471,7 +1471,7 @@ El Reglamento Interior fijará los lineamientos que deberá cumplir el personal 
 
 El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Parlamentarios, estará bajo la vigilancia y control de la Mesa Directiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 82.
 
@@ -1505,21 +1505,15 @@ El desempeño de las atribuciones y obligaciones de la Dirección General de Asu
 
 #### SECCION I
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
 #### SECCION II
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 84.
 
-La Comisión Permanente es el órgano del Congreso del Estado que, fuera de los períodos ordinarios, desempeña las funciones que le señala la Constitución Local.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ###### ARTICULO 85.
 
-El Congreso del Estado de conformidad con el artículo 36 de la Constitución Local, y 42 de esta Ley, elegirá a los integrantes de la Comisión Permanente.
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
@@ -1533,57 +1527,39 @@ El Congreso del Estado de conformidad con el artículo 36 de la Constitución Lo
 
 ###### ARTICULO 86.
 
-En el mismo día de la clausura de los períodos ordinarios, inmediatamente después de esta ceremonia, los Diputados que hubieren sido nombrados como Presidente, Secretario y Vocales de la Comisión Permanente; tomarán posesión de sus cargos al día siguiente en hora convenida, el Presidente declarará instalada la Comisión Permanente, comunicándolo de conformidad con el artículo 41 de esta Ley.
-
-El Presidente y el Secretario de la Comisión Permanente tendrán las atribuciones a que se refieren los artículos 50, 53 y demás de esta Ley, en las que se haga referencia a las atribuciones del Presidente y Secretario del Congreso, en lo que resulten aplicables.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ###### ARTICULO 87.
 
-La Comisión Permanente sesionará en forma ordinaria una vez por semana en los días y horas que el Presidente indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados se llevarán a cabo previa convocatoria por parte del Presidente.
+(DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+ARTICULO 87 BIS.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-ARTICULO 87 BIS.- Las sesiones, procedimientos, debates, trámites, convocatorias, ceremoniales y demás actividades inherentes a las funciones de la Comisión Permanente, se regirán por las disposiciones aplicables de esta Ley y su Reglamento.
+ARTICULO 87 TER.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-La Comisión Permanente adoptará sus resoluciones por mayoría de votos de sus miembros presentes.
+ARTICULO 87 QUARTER (SIC).- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-ARTICULO 87 TER.- Los asuntos cuya resolución corresponda al Congreso del Estado y se presenten a la Comisión Permanente, se turnarán a las Comisiones correspondientes.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-ARTICULO 87 QUARTER (SIC).- La Comisión Permanente no suspenderá sus trabajos durante los períodos extraordinarios de sesiones que se convoquen, salvo para aquellos asuntos para los que se hubiera convocado al período extraordinario.
-
-Los órganos de trabajo y Técnico-Administrativos, no suspenderán sus actividades y trabajos durante los períodos en que funcione la Comisión Permanente.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-ARTICULO 87 QUINQUIES.- En la primera Sesión del Período Ordinario, el Presidente de la Comisión Permanente presentará a la Asamblea un informe de su gestión, y entregará al Presidente de la Mesa Directiva del período ordinario un inventario que contenga las memorias, oficios, comunicaciones y otros documentos recibidos durante su gestión.
+ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO Y PRACTICAS PARLAMENTARIAS
 
 ### CAPITULO I. DE LAS SESIONES
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 88.
+###### ARTÍCULO 88.
 
-El Congreso del Estado tendrá tres períodos de sesiones ordinarias en cada año de ejercicio legislativo. Se reunirá a partir del 1o. de octubre de cada año, para celebrar un primer período de sesiones ordinarias, a partir del 1o. de febrero de cada año para celebrar un segundo período de sesiones ordinarias y a partir del 1o. de junio de cada año para celebrar un tercer período de sesiones ordinarias.
+El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, el Primer Período inicia a partir del primero de octubre al último día de enero de cada año, el Segundo Período comprende del primero de febrero al último día de mayo de cada año, y el Tercer Período será a partir del primero de junio al último día de septiembre de cada año.
 
-En los tres Períodos de Sesiones el Congreso del Estado se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.
+En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a la Constitución.
 
-En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica. Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos que compete resolver al Congreso del Estado.
+En cada periodo de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
-Durante estos periodos, el Congreso del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-Durante el Primer Periodo Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito, quien tendrá un plazo de 30 días para su respuesta. Los funcionarios que comparezcan ante el Congreso deberán hacerlo bajo protesta de decir verdad.
+En el Primer Período Ordinario de cada año, antes de concluir el año, el Congreso del Estado examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, en los términos de la Ley de la materia.
 
-En este mismo Periodo Ordinario, antes de concluir el año, el Congreso del Estado examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, correspondientes al ejercicio fiscal siguiente, en los términos de la Ley de materia.
-
-En el Segundo Periodo Ordinario, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
+En el Segundo Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1849,9 +1825,9 @@ Toda Iniciativa deberá presentarse al Presidente del Congreso por escrito y fir
 
 En el caso de las iniciativas ciudadanas que no reúnan los requisitos relativos a la motivación de la iniciativa, la Comisión de Dictamen Legislativo que corresponda subsanará dicho requisito.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
-Todas las iniciativas podrán ser retiradas del proceso legislativo hasta antes de que sean dictaminadas por la Comisión respectiva, mediante escrito firmado por el inicialista o quien legalmente lo represente, dirigido al Presidente del Congreso o de la Comisión Permanente, motivando la causa de su retiro.
+Todas las iniciativas podrán ser retiradas del proceso legislativo hasta antes de que sean dictaminadas por la Comisión respectiva, mediante escrito firmado por el inicialista o quien legalmente lo represente, dirigido al Presidente del Congreso motivando la causa de su retiro.
 
 > <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -2488,3 +2464,9 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso.
 
 SEGUNDO.- Túrnese la presente reforma al Periódico Oficial del Estado de Baja California, para su publicación.
+
+P.O. 3 DE JUNIO DE 2011.
+
+PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California, "Órgano del Gobierno Constitucional del Estado de Baja California".
