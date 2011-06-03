@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2011-04-06"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -247,9 +247,17 @@ IV.- Los convenios de coordinación con la Federación, Estados y Municipios y d
 
 V.- El listado de patentes de notarios otorgadas, en términos de la Ley respectiva;
 
-VI.- Estadísticas en materia educativa; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-VII.- El Periódico Oficial del Estado.
+VI.- Estadísticas en materia educativa;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VII.- El Periódico Oficial del Estado; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+VIII.- La relación de licencias, permisos especiales y los derivados de las solicitudes de prórroga de los permisos especiales, cambio de titular, cambio de domicilio y cambio de giro, que le sean comunicadas por el Comité de Evaluación de Trámites y Licencias, de conformidad con la Ley de Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, con expresión del nombre o razón social del titular, domicilio del establecimiento, nombre comercial del establecimiento, el tipo de licencia o permiso, así como una breve exposición del motivo por el cual resultó favorable su emisión.
 
 ###### Artículo 12.
 
@@ -311,13 +319,23 @@ VII.- Estadísticas e indicadores del desempeño de los cuerpos de Seguridad, Tr
 
 VIII.- Las actas de sesiones del R. Ayuntamiento;
 
-IX.- La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles, con los inventarios relacionados con altas y bajas en el patrimonio del municipio;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+IX.- La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles, con los inventarios relacionados con altas y bajas en el patrimonio del municipio. En relación con los bienes inmuebles provenientes de las áreas de cesión realizadas por cualquier crecimiento urbano, deberá señalarse tal circunstancia e igualmente cuando se les hubiere cambiado su destino, así cómo cuando se otorgue alguna concesión sobre dichas áreas para su uso, aprovechamiento o explotación a particulares o instituciones de derecho público o privado;
 
 X.- Sobre el ejercicio del presupuesto deberá publicarse el calendario trimestral sobre la ejecución de las aportaciones federales y estatales, identificando el programa para el cual se destinaron y, en su caso, el monto del gasto asignado por el propio municipio;
 
-XI.- En el caso de la información sobre programas de subsidio, se deberá considerar toda aquélla sobre los programas sociales administrados por el Sistema Municipal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
-XII.- La conformación de las Comisiones de los integrantes del Cabildo, así como los registros de asistencia de sus integrantes a las sesiones de trabajo de las mismas y del R. Ayuntamiento.
+XI.- En el caso de la información sobre programas de subsidio, se deberá considerar toda aquélla sobre los programas sociales administrados por el Sistema Municipal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XII.- La conformación de las Comisiones de los integrantes del Cabildo, así como los registros de asistencia de sus integrantes a las sesiones de trabajo de las mismas y del R. Ayuntamiento; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2011)</small>
+
+XIII.- La relación de las anuencias municipales a que se refiere la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo para el Estado de Nuevo León, con expresión del nombre o razón social del titular, domicilio del establecimiento, nombre comercial del establecimiento, el tipo de anuencia, así como una breve exposición del motivo por el cual resultó favorable su emisión.
 
 ###### Artículo 15.
 
@@ -1794,3 +1812,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 6 DE ABRIL DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE JUNIO DE 2011.
+
+DECRETO NUMERO 205, POR EL QUE SE REFORMA LA FRACCION IX DEL ARTICULO 14 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2011.
+
+DECRETO NUMERO 206, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTICULO 11; LAS FRACCIONES XI Y XII DEL ARTICULO 14; SE ADICIONA UNA FRACCION VIII AL ARTICULO 11 Y UNA FRACCION XIII AL ARTICULO 14, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
