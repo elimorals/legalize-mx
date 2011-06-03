@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-19760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-07"
-last_updated: "2005-05-18"
+last_updated: "2011-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de febrero de 2001.
 
@@ -586,3 +588,19 @@ P.O. 18 DE MAYO DE 2005.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+P.O. 3 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Secretaría de Salud publicado en el Periódico Oficial "Tierra y Libertad" número 4102 de fecha 7 de febrero del 2001.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTO.- Los asuntos relacionados con está Secretaría, que se encuentren en trámite a la entrada en vigor de este Reglamento y que estén a cargo de unidades administrativas que se suprimen, modifican su denominación o cambian de adscripción, serán continuados en su tramitación por la unidad administrativa que corresponda en los términos de este Reglamento.
+
+QUINTO.- Cuando alguna atribución de las unidades administrativas establecidas en el Reglamento que se abroga, pase a otra unidad administrativa definida en el Reglamento Interior que se expide, el traspaso se hará incluyendo el personal a su servicio, recursos financieros, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que haya utilizado para la atención de los asuntos a su cargo.
+
+SEXTO.- Los Manuales Administrativos de la Secretaria deberán adecuarse al presente Reglamento en un plazo no mayor a 90 días naturales contados a partir de su entrada en vigor y en tanto se expiden dichos manuales continuarán vigentes los anteriores.
+
+SÉPTIMO.- Cuando una ley, reglamento, decreto. acuerdo o cualquier disposición de carácter general haga referencia a la Dirección General Normativa, se entenderá que hace referencia a la Dirección General Jurídica, así mismo cuando se refiera a la Dirección General de Innovación y Calidad en Salud, se entenderá que como la Dirección General de Vinculación y Participación Social.
