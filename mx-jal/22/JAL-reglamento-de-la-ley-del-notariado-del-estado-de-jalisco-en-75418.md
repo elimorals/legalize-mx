@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-del-notariado-del-estado-de-jalisco-en-754
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-19"
-last_updated: "2010-06-19"
+last_updated: "2011-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO EN MATERIA DE OTORGAMIENTO DE PATENTE DE ASPIRANTE A NOTARIO Y DE NOMBRAMIENTO DE NOTARIO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio 2010.
 
@@ -96,13 +96,15 @@ Cuando se haga referencia a algún artículo deberá entenderse que es de este R
 
 #### Sección Primera. Disposiciones Generales
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
-Una vez presentada la solicitud correspondiente por el aspirante al ejercicio del notariado en términos del artículo 12 de la Ley, la Secretaría dispondrá de quince días hábiles, contados a partir del día siguiente de su recepción, para revisar si la solicitud y demás documentación adjunta cumplen con los requisitos establecidos en dicho ordenamiento.
+###### Artículo 6°.
 
-Si la Secretaría estima que no se satisface alguno de los requisitos, dentro de los cinco días hábiles posteriores al término establecido en el párrafo anterior, deberá requerir por única ocasión al peticionario para que dentro de cinco días hábiles que serán improrrogables, subsane dicha omisión con el apercibimiento de que, en caso de no hacerlo o hacerlo incompleto, su solicitud será desechada.
+Una vez presentada la solicitud correspondiente por el aspirante al ejercicio del notariado en términos del artículo 12 de la Ley, la Secretaría procederá a revisar si la solicitud y demás documentación adjunta cumplen con los requisitos establecidos en dicho ordenamiento.
 
-La Secretaría dispondrá de cinco días hábiles para resolver conforme a derecho sobre el cumplimiento del requerimiento señalado en el párrafo que antecede.
+Si la Secretaría estima que no se satisface alguno de los requisitos deberá requerir por única ocasión al peticionario para que dentro de diez días hábiles improrrogables contados a partir de la notificación, subsane dicha omisión con el apercibimiento de que, en caso de no hacerlo o hacerlo incompleto, su solicitud será desechada.
+
+El desechamiento no implica pérdida del derecho a presentar una nueva solicitud.
 
 ###### Artículo 7º.
 
@@ -112,9 +114,11 @@ La presentación de la solicitud y la integración del expediente correspondient
 
 En el supuesto de que hayan sido acreditados los requisitos previstos en la Ley y el Reglamento, el titular del Ejecutivo, si lo estima pertinente, autorizará la presentación del examen remitiendo el expediente correspondiente al Consejo.
 
-###### Artículo 9º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
-El Consejo deberá someter a consideración de la Secretaría, a más tardar dentro de los quince días hábiles posteriores a la recepción del expediente, las propuestas de día y hora para practicar el examen al postulante, misma que será acordada por el Secretario General de Gobierno y el Consejo.
+###### Artículo 9°.
+
+Una vez recibidos los expedientes por el Consejo, éste y la Secretaría acordarán día y hora para practicar el examen de postulante.
 
 Los exámenes a que se refiere este artículo deberán llevarse a cabo individualmente a cada uno de los aspirantes, en orden cronológico de la fecha de recepción del expediente por el Consejo o, a juicio de la Secretaría, en grupos que no podrán exceder de diez personas, cuando por el número de solicitudes no sea viable aplicarlos de forma individual.
 
@@ -124,11 +128,15 @@ Los exámenes a que se refiere este artículo deberán llevarse a cabo individua
 
 El examen se efectuará en la sede del Consejo ante un jurado compuesto por cinco sinodales, de conformidad con el artículo 13 de la Ley. En los casos de exámenes grupales, se deberá designar un jurado para cada conjunto de postulantes.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
+
 ###### Artículo 11.
 
-El Consejo, en coordinación con la Secretaría, deberá señalar día y hora para la insaculación de los dos sinodales que le corresponde designar de entre todos los notarios públicos del Estado, la cual se deberá desarrollar en las instalaciones de la propia Secretaría a más tardar dentro de los treinta días hábiles previos a la presentación del examen.
+El Consejo, en coordinación con la Secretaría, deberá señalar día y hora para la insaculación de los dos sinodales propietarios y dos suplentes que le corresponde designar de entre todos los notarios públicos del Estado, la cual se deberá desarrollar en las instalaciones de la propia Secretaría a más tardar dentro de los treinta días hábiles previos a la presentación del examen.
 
-Sin perjuicio de lo establecido en el artículo 14 de la Ley, en el caso de exámenes grupales, no se incluirá en la insaculación a los notarios en cuyas notarías hubiesen realizado sus prácticas, cualquiera de los sustentantes, ni su cónyuge, sus parientes consanguíneos hasta el cuarto grado, los afines hasta el segundo y los civiles.
+Sin perjuicio de lo establecido en el artículo 14 de la Ley no se incluirá en la insaculación a los notarios en cuyas notarías hubiesen realizado sus prácticas, cualquiera de los sustentantes, ni su cónyuge, sus parientes consanguíneos hasta el cuarto grado, los afines hasta el segundo y los civiles.
+
+A fin de garantizar la integridad e imparcialidad del jurado, la insaculación permanecerá en reserva hasta el día del examen.
 
 ###### Artículo 12.
 
@@ -298,6 +306,10 @@ El Consejo, en coordinación con la Secretaría, deberá señalar día y hora pa
 
 Esa insaculación se deberá desarrollar en las instalaciones de la propia Secretaría a más tardar dentro de los diez días hábiles previos a la presentación del examen.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+A fin de garantizar la integridad e imparcialidad del jurado, la insaculación permanecerá en reserva hasta el día del examen.
+
 ###### Artículo 42.
 
 Habrá quórum para el desarrollo del examen, con la presencia de los tres sinodales. En caso de que falte algún sinodal titular, se requerirá la participación, indistintamente, de cualquiera de los sinodales suplentes.
@@ -308,9 +320,13 @@ En el supuesto de ausencia de los sinodales titulares y suplentes, el representa
 
 El sinodal que no se presente al examen sin causa justificada, o los que concurran encontrándose impedidos para ello, serán sujetos de procedimiento disciplinario en los términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
+
 ###### Artículo 44.
 
-En el caso de excusa o recusación de alguno de los notarios electos, se deberá proceder a una nueva insaculación.
+En el caso de excusa o recusación conforme a los términos de los artículos 14 y 25 de la Ley, de alguno de los sinodales propietarios, previa valoración de procedencia por parte del jurado, se integrará al suplente previamente insaculado, de no tener impedimento para ello.
+
+Contra la resolución emitida por el jurado, no procederá recurso alguno.
 
 ###### Artículo 45.
 
@@ -451,3 +467,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JUNIO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
