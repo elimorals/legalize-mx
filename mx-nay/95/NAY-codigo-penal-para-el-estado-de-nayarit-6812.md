@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2011-04-23"
+last_updated: "2011-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -3475,7 +3475,7 @@ Las sanciones a que se refiere este artículo son independientes de las que corr
 
 ## TITULO VIGESIMO PRIMERO
 
-### CAPÍTULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA
+### CAPÍTULO UNICO. DE LOS DELITOS CONTRA LA ECOLOGIA Y LA FAUNA
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 1992)</small>
 
@@ -3503,7 +3503,7 @@ En los casos del Artículo 381, quedan exceptuados de sanción aquellos que no p
 
 ## TITULO VIGESIMO SEGUNDO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 2011)</small>
 
 ### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
@@ -3528,6 +3528,28 @@ Cuando se trate de aguas para ser entregadas en bloque a los centros de poblaci�
 V. De un mes a cinco años de prisión y multa, por el equivalente de cien y diez mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, a quien, en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, genere emisiones o ruido, vibraciones, energía térmica, lumínica, colores o contaminación visual en zona de jurisdicción estatal o municipal, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas, y
 
 VI. De tres a ocho años de prisión y multa, por el equivalente de cien a doce mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+ARTICULO 384 A.- Se impondrá de tres días a tres años de prisión y multa de sesenta a trescientos sesenta días de salario mínimo, a quien siendo propietario o poseedor por cualquier título o encargado de la guarda o custodia de un animal vertebrado, realice en perjuicio de éste cualquiera de las conductas siguientes:
+
+I. La muerte producida utilizando un medio que prolongue la agonía, causándole sufrimientos innecesarios, salvo en aquellos eventos autorizados por la autoridad competente;
+
+II. La mutilación orgánicamente grave, que no se efectué bajo el cuidado de un médico veterinario;
+
+III. Toda privación de aire, luz, alimento, bebida, espacio suficiente o de abrigo contra la intemperie, y
+
+IV. La privación de atención médica o sanitaria que cause o pueda causar daño al animal.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+ARTICULO 384 B.- Se aplicarán las mismas sanciones señaladas en el artículo anterior a la persona que realice en perjuicio de un animal vertebrado cualquiera de las conductas siguientes:
+
+I. El atropellamiento deliberado, cuando se conduzca un vehículo automotor;
+
+II. El tiro al blanco en cualquier forma utilizando como objetivo animales vivos, y
+
+III. Cualquier otra conducta de tortura que se cause a un animal.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 1993)</small>
 
@@ -4038,5 +4060,9 @@ P.O. 18 DE AGOSTO DE 2010.
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 P.O. 23 DE ABRIL DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE JUNIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
