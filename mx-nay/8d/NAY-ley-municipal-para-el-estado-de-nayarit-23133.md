@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2010-12-11"
+last_updated: "2011-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1139,33 +1139,59 @@ Para efectos de esta ley se entenderá por licencia, la autorización a cualquie
 
 La solicitud de licencia deberá presentarse ante la Secretaría del Ayuntamiento o en su caso ante la Secretaría General del Congreso.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 87.
 
-Para el otorgamiento de licencias de los miembros de los Ayuntamientos se estará a las siguientes disposiciones:
+Para el otorgamiento de licencias o reincorporación de los miembros de los Ayuntamientos se estará a las siguientes disposiciones:
 
 I.- Cuando la licencia solicitada no excedan (sic) de veinte días naturales, se requerirá para su autorización la aprobación del Ayuntamiento por mayoría simple.
 
-II.- Cuando la licencia solicitada sea mayor a veinte días naturales pero menor de cuarenta, se requerirá para su autorización la aprobación del Ayuntamiento por mayoría absoluta.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Cuando la licencia solicitada exceda el término previsto en la fracción anterior, requerirá para su autorización la aprobación por mayoría simple del Congreso del Estado o de la Diputación Permanente en su caso.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2011)</small>
 
-El órgano correspondiente deberá dar respuesta a la solicitud de licencia dentro de un término que no exceda de cinco días naturales contados a partir del siguiente a la presentación de la misma; en caso contrario se entenderá que la concede.
+II. Cuando la licencia solicitada sea mayor a veinte días naturales se requerirá para su autorización la aprobación del Ayuntamiento por mayoría absoluta, y
 
-No se otorgarán licencias por más de un año; y ninguna se concederá con goce de sueldo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2011)</small>
+
+III. Para efectos de la reincorporación a sus funciones, el interesado deberá presentar solicitud por escrito ante el ayuntamiento correspondiente, quien dictaminará lo conducente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+No se otorgarán licencias cuya duración exceda de un año; o que en su conjunto computen una duración equivalente al mismo término; y ninguna se concederá con goce de sueldo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 88.
 
-Cuando sea atribución del Ayuntamiento resolver sobre las solicitudes de licencias y por causas injustificadas se negaré a hacerlo, el Congreso del Estado o la Diputación Permanente en su caso, a petición del interesado conocerá, y previa valoración, resolverá lo conducente.
+Cuando el Ayuntamiento por causas injustificadas se negara a resolver sobre las solicitudes de licencias o reincorporaciones; el Congreso del Estado o la Diputación Permanente en su caso, conocerá y previa valoración, resolverá lo conducente.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO DE ESTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+El órgano correspondiente deberá dar respuesta a la solicitud dentro de un término que no exceda de cinco días naturales contados a partir del siguiente a la presentación de la misma; en caso contrario se tendrá por procedente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO DEL PRESENTE ARTICULO, VEASE EL TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 89.
 
-En todos los supuestos que prevé esta sección deberá llamarse al suplente respectivo o al que siga en la lista.
+En todos los supuestos que prevé esta sección deberá llamarse al suplente respectivo o al que siga en la lista, a efecto de que rinda la protesta de ley ante el cabildo correspondiente.
 
 En caso de que algún miembro del Ayuntamiento no cuente con suplente o éste no asuma las funciones, se procederá conforme a lo establecido en esta ley.
 
@@ -1239,9 +1265,11 @@ II.- Si no fuera procedente realizar elecciones extraordinarias, el Ayuntamiento
 
 ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente o al que siga en la lista, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE EL TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 90 F.- En todos los casos el suplente, o el designado, rendirá la protesta de ley ante la autoridad que otorgó la licencia o conoció de la falta absoluta, a menos que la situación política o social no fueran las propicias o el Ayuntamiento se negara a hacerlo, la rendirá ante el Congreso del Estado o en su caso, ante la Diputación Permanente.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
+
+Artículo 90 F.- En todos los casos el suplente, o el designado, rendirá la protesta ante el cabildo que corresponda, a menos que la situación política o social no fueran las propicias o el Ayuntamiento se negara a hacerlo, la rendirá ante el Congreso del Estado o en su caso, ante la Diputación Permanente.
 
 ## TÍTULO SÉPTIMO
 
@@ -3538,3 +3566,7 @@ Artículo Único.- El presente decreto entrara en vigor, al día siguiente de su
 P.O. 11 DE DICIEMBRE DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE JUNIO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor, a los noventa días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
