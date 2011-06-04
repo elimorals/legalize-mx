@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2007-08-07"
+last_updated: "2011-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -573,9 +573,9 @@ b) Reingreso de la persona receptora de la violencia familiar a su domicilio, un
 
 c) La suspensión temporal al generador de la violencia familiar del régimen de visitas y convivencia con sus descendientes.
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2011)</small>
 
-d) El embargo preventivo de bienes de la persona generadora de la violencia, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias.
+d) El embargo preventivo de bienes de la persona generadora de violencia, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -732,3 +732,9 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 ###### ARTICULO SEXTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE JUNIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
