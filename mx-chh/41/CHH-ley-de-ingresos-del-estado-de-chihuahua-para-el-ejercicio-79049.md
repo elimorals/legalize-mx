@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-79049
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-29"
-last_updated: "2010-12-29"
+last_updated: "2011-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL DEL AÑO 2011
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2010.
 
@@ -46,8 +46,6 @@ D E C R E T A
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley de Ingresos del Estado de Chihuahua, para el Ejercicio Fiscal del año dos mil once, en base al siguiente articulado:
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2011 EN EL P.O., DEL ESTADO DE CHIHUAHUA SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -105,7 +103,9 @@ TOTAL IMPUESTOS 1,795,292,000
 
 II.- DERECHOS
 
-Los Ingresos que se perciban como contraprestación por los servicios que otorgan las dependencias del Gobierno del Estado, se causarán en la forma y montos que establece la Tarifa anexa, expedida conforme a los artículos 12, 27, 30, 31, segundo párrafo; 308 y 309 del Código Fiscal del Estado.
+> <small>(F. DE E., P. O. 4 DE JUNIO DE 2011)</small>
+
+Los Ingresos que se perciban como contraprestación por los servicios que otorgan las dependencias del Gobierno del Estado, se causarán en la forma y montos que establece la Tarifa anexa, expedida conforme a los artículos 12, 27, 30, 31, segundo párrafo y 308 del Código Fiscal del Estado.
 
 1.- Registro Público de la Propiedad 218,386,000
 
