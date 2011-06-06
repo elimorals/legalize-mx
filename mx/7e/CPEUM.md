@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2011-04-13"
+last_updated: "2011-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2011.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2168,25 +2168,45 @@ La competencia de la Suprema Corte, su funcionamiento en Pleno y Salas, la compe
 
 El Consejo de la Judicatura Federal determinará el número, división en circuitos, competencia territorial y, en su caso, especialización por materia, de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+Asimismo, mediante acuerdos generales establecerá Plenos de Circuito, atendiendo al número y especialización de los Tribunales Colegiados que pertenezcan a cada Circuito. Las leyes determinarán su integración y funcionamiento.
 
-La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación sobre interpretación de la Constitución, leyes y reglamentos federales o locales y tratados internacionales celebrados por el Estado Mexicano, así como los requisitos para su interrupción y modificación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO. D.O.F. 6 DE JUNIO DE 2011)</small>
+
+El Pleno de la Suprema Corte de Justicia estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre las Salas de los asuntos que competa conocer a la Corte, así como remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquéllos en los que hubiera establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia. Dichos acuerdos surtirán efectos después de publicados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+Los juicios de amparo, las controversias constitucionales y las acciones de inconstitucionalidad se substanciarán y resolverán de manera prioritaria cuando alguna de las Cámaras del Congreso, a través de su presidente, o el Ejecutivo Federal, por conducto del consejero jurídico del gobierno, justifique la urgencia atendiendo al interés social o al orden público, en los términos de lo dispuesto por las leyes reglamentarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación y los Plenos de Circuito sobre la interpretación de la Constitución y normas generales, así como los requisitos para su interrupción y sustitución.
 
 > <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito, los Jueces de Distrito y los Consejeros de la Judicatura Federal, así como los Magistrados Electorales, no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su período, tendrán derecho a un haber por retiro.
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+Los Ministros de la Suprema Corte de Justicia durarán en su encargo quince años, sólo podrán ser removidos del mismo en los términos del Título Cuarto de esta Constitución y, al vencimiento de su periodo, tendrán derecho a un haber por retiro.
 
-Ninguna persona que haya sido Ministro podrá ser nombrada para un nuevo período, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+Ninguna persona que haya sido ministro podrá ser nombrada para un nuevo periodo, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2007)</small>
 
@@ -2434,45 +2454,45 @@ El Presidente de la Comisión Nacional de los Derechos Humanos presentará anual
 
 La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las entidades federativas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
 ###### Art. 103.
 
-Los tribunales de la Federación resolverán toda controversia que se suscite:
+Los Tribunales de la Federación resolverán toda controversia que se suscite
 
-I.- Por leyes o actos de la autoridad que viole las garantías individuales.
+I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+II. Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los estados o la esfera de competencia del Distrito Federal, y
 
-II.- Por leyes o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencia del Distrito Federal, y
+III. Por normas generales o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- Por leyes o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
-
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 ###### Art. 104.
 
-Corresponde a los Tribunales de la Federación conocer:
+Los Tribunales de la Federación conocerán:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+I. De los procedimientos relacionados con delitos del orden federal;
 
-I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados y del Distrito Federal. Las sentencias de primera instancia podrán ser apelables para (sic) ante el superior inmediato del juez que conozca del asunto en primer grado.
+II. De todas las controversias del orden civil o mercantil que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+Las sentencias de primera instancia podrán ser apelables ante el superior inmediato del juez que conozca del asunto en primer grado;
 
-I-B.- De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
+III. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y fracción IV, inciso e) del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
 
-II.- De todas las controversias que versen sobre derecho marítimo;
+IV. De todas las controversias que versen sobre derecho marítimo;
 
-III.- De aquellas en que la Federación fuese parte;
+V. De aquellas en que la Federación fuese parte;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+VI. De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
 
-IV.- De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
+VII. De las que surjan entre un Estado y uno o más vecinos de otro, y
 
-V.- De las que surjan entre un Estado y uno o más vecinos de otro, y
-
-VI.- De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
+VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2556,45 +2576,73 @@ En caso de incumplimiento de las resoluciones a que se refieren las fracciones I
 
 Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o del Distrito Federal, entre los de un Estado y los de otro, o entre los de un Estado y los del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
 
 ###### Art. 107.
 
-Todas las controversias de que habla el Artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo a las bases siguientes:
+Las controversias de que habla el artículo 103 de esta Constitución, con excepción de aquellas en materia electoral, se sujetarán a los procedimientos que determine la ley reglamentaria, de acuerdo con las bases siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 1986)</small>
+I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada, teniendo tal carácter quien aduce ser titular de un derecho o de un interés legítimo individual o colectivo, siempre que alegue que el acto reclamado viola los derechos reconocidos por esta Constitución y con ello se afecte su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.
 
-II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
+Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos o del trabajo, el quejoso deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa;
 
-En el juicio de amparo deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la Ley Reglamentaria de los Artículos 103 y 107 de esta Constitución.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+II.- Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de los quejosos que lo hubieren solicitado, limitándose a ampararlos y protegerlos, si procediere, en el caso especial sobre el que verse la demanda.
+
+Cuando en los juicios de amparo indirecto en revisión se resuelva la inconstitucionalidad de una norma general por segunda ocasión consecutiva, la Suprema Corte de Justicia de la Nación lo informará a la autoridad emisora correspondiente.
+
+Cuando los órganos del Poder Judicial de la Federación establezcan jurisprudencia por reiteración en la cual se determine la inconstitucionalidad de una norma general, la Suprema Corte de Justicia de la Nación lo notificará a la autoridad emisora. Transcurrido el plazo de 90 días naturales sin que se supere el problema de inconstitucionalidad, la Suprema Corte de Justicia de la Nación emitirá, siempre que fuere aprobada por una mayoría de cuando menos ocho votos, la declaratoria general de inconstitucionalidad, en la cual se fijarán sus alcances y condiciones en los términos de la ley reglamentaria.
+
+Lo dispuesto en los dos párrafos anteriores no será aplicable a normas generales en materia tributaria.
+
+En el juicio de amparo deberá suplirse la deficiencia de los conceptos de violación o agravios de acuerdo con lo que disponga la ley reglamentaria.
 
 Cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios o comuneros, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.
 
-En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán el desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta.
+En los juicios a que se refiere el párrafo anterior no procederán, en perjuicio de los núcleos ejidales o comunales, o de los ejidatarios o comuneros, el sobreseimiento por inactividad procesal ni la caducidad de la instancia, pero uno y otra sí podrán decretarse en su beneficio. Cuando se reclamen actos que afecten los derechos colectivos del núcleo tampoco procederán desistimiento ni el consentimiento expreso de los propios actos, salvo que el primero sea acordado por la Asamblea General o el segundo emane de ésta;
 
 > <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
 
 III.- Cuando se reclamen actos de tribunales judiciales, administrativos o del trabajo, el amparo sólo procederá en los casos siguientes:
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-a).- Contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, respecto de las cuales no proceda ningún recurso ordinario por el que puedan ser modificados o reformados, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte a las defensas del quejoso, trascendiendo al resultado del fallo; siempre que en materia civil haya sido impugnada la violación en el curso del procedimiento mediante el recurso ordinario establecido por la ley e invocada como agravio en la segunda instancia, si se cometió en la primera. Estos requisitos no serán exigibles en el amparo contra sentencias dictadas en controversias sobre acciones del estado civil o que afecten al orden y a la estabilidad de la familia;
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+a).- Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, ya sea que la violación se cometa en ellos o que, cometida durante el procedimiento, afecte las defensas del quejoso trascendiendo al resultado del fallo. En relación con el amparo al que se refiere este inciso y la fracción V de este artículo, el Tribunal Colegiado de Circuito deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquéllas que, cuando proceda, advierta en suplencia de la queja, y fijará los términos precisos en que deberá pronunciarse la nueva resolución. Si las violaciones procesales no se invocaron en un primer amparo, ni el Tribunal Colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación, ni de estudio oficioso en juicio de amparo posterior.
+
+La parte que haya obtenido sentencia favorable y la que tenga interés jurídico en que subsista el acto reclamado, podrá presentar amparo en forma adhesiva al que promueva cualquiera de las partes que intervinieron en el juicio del que emana el acto reclamado. La ley determinará la forma y términos en que deberá promoverse.
+
+Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas, laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley permita la renuncia de los recursos.
+
+Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando el quejoso las haya impugnado durante la tramitación del juicio mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva. Este requisito no será exigible en amparos contra actos que afecten derechos de menores o incapaces, al estado civil, o al orden o estabilidad de la familia, ni en los de naturaleza penal promovidos por el sentenciado;
 
 b).- Contra actos en juicio cuya ejecución sea de imposible reparación, fuera de juicio o después de concluido, una vez agotados los recursos que en su caso procedan, y
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-IV.- En materia administrativa el amparo procede, además, contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija, para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+IV.- En materia administrativa el amparo procede, además, contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, y que causen agravio no reparable mediante algún medio de defensa legal. Será necesario agotar estos medios de defensa siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer el agraviado, con los mismos alcances que los que prevé la ley reglamentaria y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con dicha ley.
 
-V.- El amparo contra sentencias definitivas o laudos y resoluciones que pongan fin al juicio, sea que la violación se cometa durante el procedimiento o en la sentencia misma, se promoverá ante el tribunal colegiado de circuito que corresponda, conforme a la distribución de competencias que establezca la Ley Orgánica del Poder Judicial de la Federación, en los casos siguientes:
+No existe obligación de agotar tales recursos o medios de defensa si el acto reclamado carece de fundamentación o cuando sólo se aleguen violaciones directas a esta Constitución;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+V.- El amparo contra sentencias definitivas, laudos o resoluciones que pongan fin al juicio se promoverá ante el Tribunal Colegiado de Circuito competente de conformidad con la ley, en los casos siguientes:
 
 > <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 1979)</small>
 
@@ -2618,21 +2666,27 @@ d).- En materia laboral, cuando se reclamen laudos dictados por las Juntas Local
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del correspondiente Tribunal Colegiado de Circuito, o del Procurador General de la República, podrá conocer de los amparos directos que por su interés y trascendencia así lo ameriten.
 
-> <small>(REFORMADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria de los artículos 103 y 107 de esta Constitución señalará el trámite y los términos a que deberán someterse los tribunales colegiados de circuito y, en su caso, la Suprema Corte de Justicia, para dictar sus respectivas resoluciones.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+VI.- En los casos a que se refiere la fracción anterior, la ley reglamentaria señalará el procedimiento y los términos a que deberán someterse los Tribunales Colegiados de Circuito y, en su caso, la Suprema Corte de Justicia de la Nación para dictar sus resoluciones;
 
-VII.- El amparo contra actos en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra leyes o contra actos de autoridad administrativa, se interpondrá ante el juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+VII.- El amparo contra actos u omisiones en juicio, fuera de juicio o después de concluido, o que afecten a personas extrañas al juicio, contra normas generales o contra actos u omisiones de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
 VIII.- Contra las sentencias que pronuncien en amparo los Jueces de Distrito o los Tribunales Unitarios de Circuito procede revisión. De ella conocerá la Suprema Corte de Justicia:
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-a) Cuando habiéndose impugnado en la demanda de amparo, por estimarlos directamente violatorios de esta Constitución, leyes federales o locales, tratados internacionales, reglamentos expedidos por el Presidente de la República de acuerdo con la fracción I del Artículo 89 de esta Constitución y reglamentos de leyes locales expedidos por los gobernadores de los Estados o por el Jefe del Distrito Federal, subsista en el recurso el problema de constitucionalidad;
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+a) Cuando habiéndose impugnado en la demanda de amparo normas generales por estimarlas directamente violatorias de esta Constitución, subsista en el recurso el problema de constitucionalidad.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
@@ -2646,19 +2700,25 @@ La Suprema Corte de Justicia, de oficio o a petición fundada del correspondient
 
 En los casos no previstos en los párrafos anteriores, conocerán de la revisión los tribunales colegiados de circuito y sus sentencias no admitirán recurso alguno.
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos de que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución cuya resolución, a juicio de la Suprema Corte de Justicia y conforme a acuerdos generales, entrañe la fijación de un criterio de importancia y trascendencia. Sólo en esta hipótesis procederá la revisión ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+IX.- En materia de amparo directo procede el recurso de revisión en contra de las sentencias que resuelvan sobre la constitucionalidad de normas generales, establezcan la interpretación directa de un precepto de esta Constitución u omitan decidir sobre tales cuestiones cuando hubieren sido planteadas, siempre que fijen un criterio de importancia y trascendencia, según lo disponga la Suprema Corte de Justicia de la Nación, en cumplimiento de los acuerdos generales del Pleno. La materia del recurso se limitará a la decisión de las cuestiones propiamente constitucionales, sin poder comprender otras;
 
-X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual se tomará en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones que determine la ley reglamentaria, para lo cual el órgano jurisdiccional de amparo, cuando la naturaleza del acto lo permita, deberá realizar un análisis ponderado de la apariencia del buen derecho y del interés social.
 
-XI.- La suspensión se pedirá ante la autoridad responsable cuando se trate de amparos directos promovidos ante los Tribunales Colegiados de Circuito y la propia autoridad responsable decidirá al respecto. En todo caso, el agraviado deberá presentar la demanda de amparo ante la propia autoridad responsable, acompañando copias de la demanda para las demás partes en el juicio, incluyendo al Ministerio Público y una para el expediente. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito o los Tribunales Unitarios de Circuito.
+Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+XI.- La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de los Estados en los casos que la ley lo autorice;
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -2666,39 +2726,47 @@ XII.- La violación de las garantías de los artículos 16, en materia penal, 19
 
 Si el Juez de Distrito o el Tribunal Unitario de Circuito no residieren en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez o tribunal ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIII.- Cuando los Tribunales Colegiados de Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República, los mencionados Tribunales o las partes que intervinieron en los juicios en que dichas tesis fueron sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, a fin de que el Pleno o la Sala respectiva, según corresponda, decidan la tesis que debe prevalecer como jurisprudencia.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+XIII.- Cuando los Tribunales Colegiados de un mismo Circuito sustenten tesis contradictorias en los juicios de amparo de su competencia, el Procurador General de la República, los mencionados tribunales y sus integrantes, los Jueces de Distrito o las partes en los asuntos que los motivaron podrán denunciar la contradicción ante el Pleno del Circuito correspondiente, a fin de que decida la tesis que debe prevalecer como jurisprudencia.
 
-Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia, cualquiera de esas Salas, el Procurador General de la República o las partes que intervinieron en los juicios en que tales tesis hubieran sido sustentadas, podrán denunciar la contradicción ante la Suprema Corte de Justicia, que funcionando en pleno decidirá cuál tesis debe prevalecer.
+Cuando los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los Tribunales Colegiados de un mismo Circuito con diferente especialización sustenten tesis contradictorias al resolver las contradicciones o los asuntos de su competencia, según corresponda, los Ministros de la Suprema Corte de Justicia de la Nación, los mismos Plenos de Circuito, así como los órganos a que se refiere el párrafo anterior, podrán denunciar la contradicción ante la Suprema Corte de Justicia, con el objeto de que el Pleno o la Sala respectiva, decida la tesis que deberá prevalecer.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+Cuando las Salas de la Suprema Corte de Justicia de la Nación sustenten tesis contradictorias en los juicios de amparo cuyo conocimiento les competa, los ministros, los Tribunales Colegiados de Circuito y sus integrantes, los Jueces de Distrito, el Procurador General de la República o las partes en los asuntos que las motivaron, podrán denunciar la contradicción ante el Pleno de la Suprema Corte, conforme a la ley reglamentaria, para que éste resuelva la contradicción.
 
-La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los casos a que se refieren los dos párrafos anteriores, sólo tendrá el efecto de fijar la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción, y (sic)
+Las resoluciones que pronuncien el Pleno o las Salas de la Suprema Corte de Justicia así como los Plenos de Circuito conforme a los párrafos anteriores, sólo tendrán el efecto de fijar la jurisprudencia y no afectarán las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción;
 
-> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 1975)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artículo, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo, en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
+XIV.- (DEROGADA, D.O.F. 6 DE JUNIO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, y la Suprema Corte de Justicia estima que es inexcusable el incumplimiento, dicha autoridad será inmediatamente separada de su cargo y consignada al Juez de Distrito que corresponda. Si fuere excusable, previa declaración de incumplimiento o repetición, la Suprema Corte requerirá a la responsable y le otorgará un plazo prudente para que ejecute la sentencia. Si la autoridad no ejecuta la sentencia en el término concedido, la Suprema Corte de Justicia procederá en los términos primeramente señalados.
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
 
-Cuando la naturaleza del acto lo permita, la Suprema Corte de Justicia, una vez que hubiera determinado el incumplimiento o repetición del acto reclamado, podrá disponer de oficio el cumplimiento substituto de las sentencias de amparo, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiera obtener el quejoso. Igualmente, el quejoso podrá solicitar ante el órgano que corresponda, el cumplimiento substituto de la sentencia de amparo, siempre que la naturaleza del acto lo permita.
+XVI.- Si la autoridad incumple la sentencia que concedió el amparo, pero dicho incumplimiento es justificado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento previsto por la ley reglamentaria, otorgará un plazo razonable para que proceda a su cumplimiento, plazo que podrá ampliarse a solicitud de la autoridad. Cuando sea injustificado o hubiera transcurrido el plazo sin que se hubiese cumplido, procederá a separar de su cargo al titular de la autoridad responsable y a consignarlo ante el Juez de Distrito. Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hubieran incumplido la ejecutoria.
 
-La inactividad procesal o la falta de promoción de parte interesada, en los procedimientos tendientes al cumplimiento de las sentencias de amparo, producirá su caducidad en los términos de la ley reglamentaria.
+Si concedido el amparo, se repitiera el acto reclamado, la Suprema Corte de Justicia de la Nación, de acuerdo con el procedimiento establecido por la ley reglamentaria, procederá a separar de su cargo al titular de la autoridad responsable, y dará vista al Ministerio Público Federal, salvo que no hubiera actuado dolosamente y deje sin efectos el acto repetido antes de que sea emitida la resolución de la Suprema Corte de Justicia de la Nación.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+El cumplimiento sustituto de las sentencias de amparo podrá ser solicitado por el quejoso al órgano jurisdiccional, o decretado de oficio por la Suprema Corte de Justicia de la Nación, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación. El incidente tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de daños y perjuicios al quejoso. Las partes en el juicio podrán acordar el cumplimiento sustituto mediante convenio sancionado ante el propio órgano jurisdiccional.
 
-XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
+No podrá archivarse juicio de amparo alguno, sin que se haya cumplido la sentencia que concedió la protección constitucional;
 
-XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+XVII.- La autoridad responsable que desobedezca un auto de suspensión o que, ante tal medida, admita por mala fe o negligencia fianza o contrafianza que resulte ilusoria o insuficiente, será sancionada penalmente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993) (REPUBLICADA DEROGACION, D.O.F. 6 DE JUNIO DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE JUNIO DE 2002)</small>
 
@@ -5647,6 +5715,16 @@ Segundo. El Congreso de la Unión deberá realizar las adecuaciones legislativas
 D.O.F. 13 DE ABRIL DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor a los 120 días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Congreso de la Unión expedirá las reformas legales correspondientes dentro de los 120 días posteriores a la publicación del presente Decreto.
+
+Tercero. Los juicios de amparo iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo por lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como el cumplimiento y ejecución de las sentencias de amparo.
+
+Cuarto. Para la integración de jurisprudencia por reiteración no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a lo dispuesto en las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
