@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2008-03-11"
+last_updated: "2011-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JUNIO DE 2011.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -143,13 +145,21 @@ Son disposiciones de carácter fiscal aquéllas que sin reunir la naturaleza de 
 
 El Estado y sus municipios regularán su gasto público, por sus respectivos presupuestos.
 
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+Cuando las autoridades fiscales del Estado, actúen en funciones de autoridad fiscal federal con motivo del ejercicio de las facultades delegadas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado con la Secretaria de Hacienda y Crédito Público y sus respectivos anexos se aplicaran la Leyes, Reglamentos y demás disposiciones reglamentarias de carácter general en materia fiscal federal que correspondan.
+
 ###### Artículo 10.
 
 Las leyes fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado y en cada uno de los municipios, en su caso, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, salvo que en ellas se establezca una fecha posterior.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+
 ###### Artículo 11.
 
-Son autoridades fiscales del Estado y municipios:
+Son autoridades Fiscales del Estado y Municipios.
 
 I.- Del Estado:
 
@@ -157,17 +167,37 @@ a) El Gobernador;
 
 b) El Secretario de Finanzas;
 
-c) El titular de la Unidad Jurídica Fiscal;
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
 
-d) El Director de Ingresos;
+c) El Subsecretario de Finanzas;
 
-e) El Director de Auditoria Fiscal;
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
 
-f) Los titulares de los departamentos y oficinas de la Unidad jurídica Fiscal, Direcciones de Ingresos y de Auditoria Fiscal;
+d) El Procurador Fiscal;
 
-g) Los titulares de las oficinas recaudadoras y de las receptorías de la Dirección de Ingresos;
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
 
-h) Quienes conforme a las disposiciones estatales, tengan facultades para recaudar y administrar ingresos fiscales.
+e) El Director de Fiscalización Aduanera;
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+f) El Director de Control de Créditos y Cobranza Coactiva;
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+g) El Director de Auditoría Fiscal;
+
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+h) El Director de Ingresos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE JUNIO DE 2011)</small>
+
+i) Los titulares de las oficinas recaudadoras de la Dirección de Ingresos; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE JUNIO DE 2011)</small>
+
+j) Quienes conforme a las disposiciones estatales, tengan facultades para recaudar y administrar ingresos fiscales.
 
 II.- De los municipios:
 
@@ -181,13 +211,11 @@ d) Los directores, titulares, jefes o recaudadores de rentas de las tesorerías;
 
 e) Quienes conforme a las disposiciones municipales, tengan facultades para recaudar y administrar ingresos fiscales.
 
-Son auxiliares de las autoridades fiscales del Estado y los municipios, los siguientes:
+Son auxiliares de las autoridades fiscales del Estado y los municipios, los siguientes: (sic)
 
-a) Los visitadores o inspectores fiscales;
+> <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2011)</small>
 
-b) Los notificadores y ejecutores fiscales;
-
-c) Quienes conforme a las disposiciones estatales y municipales, tengan facultades similares a las señaladas en los incisos anteriores.
+Las autoridades a que se refiere éste artículo ejercerán sus facultades dentro de la circunscripción territorial del Estado de Baja California Sur.
 
 ###### Artículo 12.
 
@@ -247,9 +275,11 @@ b) Cuando no tengan domicilio en el Estado y realicen actividades a través de r
 
 Todas las diligencias o notificaciones deberán practicarse en el lugar del domicilio fiscal declarado al Registro Estatal o Municipal de Contribuyentes; sin embargo, las propias autoridades fiscales podrán practicar diligencias en el lugar que conforme a este artículo se considere domicilio fiscal de los contribuyentes, en aquellos casos en que éstos hubieran designado como domicilio fiscal un lugar distinto al que le corresponda de acuerdo con lo dispuesto en este mismo artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+
 ###### Artículo 18.
 
-En los plazos fijados en días, no se computarán los sábados y domingos, ni el 1 de Enero, 5 de Febrero, 21 de Marzo, 5 de abril de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal, 1 y 5 de Mayo, 16 de Septiembre, 12 de Octubre, 2 y 20 de Noviembre, y 25 de Diciembre.
+En los plazos fijados en días no se computarán los sábados, los domingos, ni el 1° de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1° y 5 de mayo; el 10 de septiembre de cada 6 años, cuando corresponda la transmisión del Poder Ejecutivo Estatal; el 16 de septiembre; el 12 de octubre; 2 de noviembre así como el tercer lunes de noviembre en conmemoración del 20 de noviembre, y 25 de diciembre.
 
 Tampoco se computarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales del Estado y de los municipios, conforme los periodos que se publiquen en el Boletín Oficial del Gobierno del Estado, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones.
 
@@ -1183,13 +1213,17 @@ VI. Si en el cierre del acta final de la visita no estuviere presente el visitad
 
 VII. Las actas parciales se entenderá que forman parte integrante del acta final de la visita, aunque no se señale así expresamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+
 ###### Artículo 75.
 
-Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal o establecimientos de los contribuyentes, así como la revisión de la contabilidad de los mismos que se lleve a cabo en las oficinas de las autoridades, dentro de un plazo máximo de seis meses, contados a partir de que se les notifique a los contribuyentes el inicio de las facultades de comprobación.
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal o establecimientos de los contribuyentes, así como la revisión de la contabilidad de los mismos que se lleve a cabo en las oficinas de las autoridades, dentro de un plazo máximo de doce meses, contados a partir de que se notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-El plazo a que se refiere el párrafo anterior podrá ampliarse por un periodo igual hasta por dos ocasiones, siempre que el oficio mediante el cual se le notifique la prórroga correspondiente sea expedido por la autoridad o autoridades fiscales que ordenaron la visita o revisión.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
-Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete a que se refiere el primer párrafo de este artículo y los plazos de las prórrogas que procedan, se suspenderán en los casos de:
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+El plazo para concluir las visitas domiciliarias o las revisiones de gabinete a que se refiere el primer párrafo de este artículo se suspenderán en los casos de:
 
 I. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga.
 
@@ -1207,7 +1241,9 @@ b). Se contarán los días naturales que transcurrieron desde el inicio de la fa
 
 c) Se tomarán los días naturales que resulten en términos del inciso a) y se descontarán los señalados en el inciso b), el resultado serán los días naturales con que cuenta la autoridad para concluir sus facultades de comprobación o en su caso para emitir la prorroga correspondiente, los cuales comenzarán a correr a partir del momento en que el plazo se reanude de acuerdo con las fracciones anteriores.
 
-Cuando las autoridades no concluyan la visita o la revisión de la contabilidad dentro de las oficinas de la autoridad levantando el acta final de visita, notificando el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+Cuando las autoridades no concluyan la visita o la revisión de la contabilidad dentro de las oficinas de la autoridad levantando el acta final de visita, notificando el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
 ###### Artículo 76.
 
@@ -1215,9 +1251,11 @@ Las autoridades fiscales deberán concluir anticipadamente las visitas en los do
 
 En el caso de conclusión anticipada a que se refiere el párrafo anterior se deberá levantar acta en la que se señale la razón de tal hecho, quedando a salvo las facultades de comprobación de las autoridades fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
+
 ###### Artículo 77.
 
-Las actas que se deban levantar, deberán contener por lo menos los siguientes requisitos:
+Las actas de visita domiciliaria que se deban levantar, deberán contener por lo menos los siguientes requisitos:
 
 I. Lugar, hora y fecha en que se levanta;
 
@@ -1265,15 +1303,21 @@ VI. El oficio de observaciones a que se refiere la fracción IV de este artícul
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
-El plazo que se señala en el primero y segundo párrafos de esta fracción es independiente del que se establece en el artículo 64 de este Código;
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
 
-VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora;
+El plazo que se señala en el primero y segundo párrafos de esta fracción es independiente del que se establece en el Artículo 75 de esta (sic) Código.
+
+> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2011)</small>
+
+VII.- Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones a que se refiere la fracción VI de este Artículo, el contribuyente podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora;
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho oficio, la autoridad fiscal emitirá y notificará al contribuyente auditado la resolución que determine las contribuciones omitidas y su situación fiscal.
 
 La resolución que determine las contribuciones omitidas, se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo.
 
-Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere este artículo, le darán a conocer a éste, el resultado de aquella actuación mediante oficio de observaciones para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo dentro de los plazos a que se refiere la fracción VI.
+> <small>(REFORMADO, B.O. 6 DE JUNIO DE 2011)</small>
+
+Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere este artículo, le darán a conocer a éste, el resultado de aquella actuación mediante oficio de observaciones para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo dentro de los plazos a que se refiere la fracción VI de éste artículo.
 
 ###### Artículo 79.
 
@@ -3688,3 +3732,11 @@ RUBRICA
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Boja California Sur.
+
+B.O. 6 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán hacer los ajustes necesarios para que los recursos humanos, materiales y financieros asignados a las Direcciones de Política Hacendaría y Administrativa y Dirección Jurídica de la Secretaría de Finanzas del Gobierno del Estado, pasen a ser de la Subsecretaría de Finanzas y de la Procuraduría Fiscal del Estado de la Secretaría de Finanzas.
+
+TERCERO.- En un plazo que no excederá de quince días hábiles, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones conducentes al Reglamento Interior de la Secretaría de Finanzas o para la emisión de un nuevo reglamento, en su caso.
