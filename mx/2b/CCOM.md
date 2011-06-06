@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2011-01-27"
+last_updated: "2011-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -8976,6 +8976,10 @@ Art. 1,424. El juez al que se someta un litigio sobre un asunto que sea objeto d
 
 Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá no obstante, iniciar o proseguir las actuaciones arbitrales y dictar un laudo mientras la cuestión esté pendiente ante el juez.
 
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2011)</small>
+
+Sin menoscabo de lo que establece el primer párrafo de este artículo, cuando un residente en el extranjero se hubiese sujetado expresamente al arbitraje e intentara un litigio individual o colectivo, el juez remitirá a las partes al arbitraje. Si el juez negase el reconocimiento del laudo arbitral en los términos del artículo 1462 de este Código, quedarán a salvo los derechos de la parte actora para promover la acción procedente.
+
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 Art. 1,425. Aun cuando exista un acuerdo de arbitraje las partes podrán, con anterioridad a las actuaciones arbitrales o durante su transcurso, solicitar al juez la adopción de medidas cautelares provisionales.
@@ -10127,3 +10131,7 @@ Tercero.- Las erogaciones que se deriven de la entrada en vigor de la presente r
 Cuarto.- Los procedimientos de nulidad a que se refiere el artículo 1460 vigente, que hayan sido iniciados antes de la entrada en vigor de la presente reforma, seguirán su procedimiento conforme a lo dispuesto en el mismo.
 
 Quinto.- Los procedimientos de reconocimiento o ejecución a que se refiere el artículo 1463 vigente, que hayan sido solicitados antes de la entrada en vigor de la presente reforma, seguirán su procedimiento conforme a lo dispuesto en el mismo.
+
+D.O.F. 6 DE JUNIO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
