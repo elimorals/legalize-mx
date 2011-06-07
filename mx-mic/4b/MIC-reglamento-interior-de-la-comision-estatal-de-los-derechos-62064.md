@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-de-los-derechos-6206
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-23"
-last_updated: "2008-07-23"
+last_updated: "2011-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 23 de julio de 2008.
 
@@ -848,3 +850,13 @@ LIC. SABINO LÓPEZ BLANCO
 CONSEJERO CIUDADANO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JUNIO DE 2011.
+
+Artículo Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las quejas que se encuentren en trámite hasta antes de la entrada en vigor de estas reformas, se seguirán substanciándose (sic) con el procedimiento del Reglamento Interior de la Comisión publicado en el Periódico Oficial del Estado el 23 de julio del 2008.
+
+Artículo Tercero. Se abroga el Reglamento Interior de la Comisión Estatal de los Derechos Humanos de Michoacán, publicado en el Periódico Oficial del Estado el 23 de julio del 2008 Dado en la sede de la Comisión Estatal de los Derechos Humanos; Morelia, Michoacán, a de (sic) 27 de mayo del 2011.
