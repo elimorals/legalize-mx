@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2010-04-27"
+last_updated: "2011-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -414,7 +414,9 @@ Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión Fede
 
 I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos;
 
-II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos de perfumería, belleza y aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+II. Proponer al Secretario de Salud la política nacional de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos cosméticos; productos de aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
 
 III. Elaborar y expedir las normas oficiales mexicanas relativas a los productos, actividades, servicios y establecimientos materia de su competencia, salvo en las materias a que se refieren las fracciones I y XXVI del artículo 3o. de esta Ley;
 
@@ -2998,7 +3000,9 @@ Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente 
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO IX. Productos de Perfumería y Belleza
+### CAPITULO IX. Productos cosméticos
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 194.
 
@@ -3008,9 +3012,9 @@ Para efectos de este título, se entiende por control sanitario, el conjunto de 
 
 El ejercicio del control sanitario será aplicable al:
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-I.- Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
+I. Proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos cosméticos, productos de aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -4100,7 +4104,9 @@ VIII.- Droguería: El establecimiento que se dedica a la preparación y expendio
 
 IX.- Botica: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;
 
-X.- Farmacia: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general y productos de perfumería, belleza y aseo;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+X.- Farmacia: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general, así como productos cosméticos, y productos de aseo;
 
 XI.- Establecimientos destinados al proceso de medicamentos para uso veterinario, y
 
@@ -4232,25 +4238,33 @@ Queda prohibido realizar tatuajes, micro pigmentaciones y perforaciones a person
 
 La violación de esta disposición se sancionará en los términos previstos en el artículo 419 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE JUNIO DE 2011)</small>
+
 ### CAPITULO II. Donación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 269.
 
-Para los efectos de esta Ley, se consideran productos de perfumería y belleza:
+Para los efectos de esta Ley, se consideran productos cosméticos las sustancias o formulaciones destinadas a ser puestas en contacto con las partes superficiales del cuerpo humano: epidermis, sistema piloso y capilar, uñas, labios y órganos genitales externos, o con los dientes y mucosas bucales con el fin exclusivo o principal de limpiarlos, perfumarlos, ayudar a modificar su aspecto, protegerlos, mantenerlos en buen estado o corregir los olores corporales o atenuar o prevenir deficiencias o alteraciones en el funcionamiento de la piel sana.
 
-I.- Los productos de cualquier origen, independientemente de su estado físico, destinados a modificar el olor natural del cuerpo humano;
+No se considerará producto cosmético una sustancia o mezcla destinada a ser ingerida, inhalada, inyectada o implantada en el cuerpo humano.
 
-II.- Los productos o preparaciones de uso externo destinados a preservar o mejorar la apariencia personal;
+La secretaría dará a conocer mediante Acuerdo o listados todas aquellas sustancias restringidas o prohibidas para la elaboración de productos cosméticos.
 
-III.- Los productos o preparados destinados al aseo de las personas, y
+En la elaboración de productos cosméticos se podrán utilizar de manera inmediata aquellas sustancias que hayan sido evaluadas y aprobadas por la Secretaría, independientemente de su posterior inclusión en el Acuerdo o listados para uso general.
 
-IV.- Los repelentes que se apliquen directamente a la piel.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 270.
 
-No podrá atribuirse a los productos de perfumería y belleza ninguna acción terapéutica, ya sea en el nombre, indicaciones, instrucciones para su empleo o publicidad.
+No podrán atribuirse a los productos cosméticos acciones propias de los medicamentos, tales como curar o ser una solución definitiva de enfermedades, regular el peso o combatir la obesidad ya sea en el nombre, indicaciones, instrucciones para su empleo o publicidad.
+
+Los fabricantes, importadores y comercializadores de productos cosméticos deberán contar con los estudios de seguridad, eficacia y todos los demás que se establezcan en diversos ordenamientos y normas aplicables, entregándolos a la Secretaría, en caso de que los requiera.
+
+Los responsables de la publicidad de productos cosméticos deberán presentar aviso a la Secretaría para publicitar sus productos; el aviso se dará por marca de producto en base a los requisitos establecidos en el Reglamento y deberán al menos contener la siguiente información:
+
+Nombre y domicilio del fabricante, nombre y domicilio del importador y distribuidor, marca, nombre y Registro Federal de Contribuyentes del responsable del producto y de la publicidad.
 
 > <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2007)</small>
 
@@ -4263,6 +4277,10 @@ Cualquier cirugía estética y cosmética relacionada con cambiar o corregir el 
 ###### ARTICULO 272.
 
 En las etiquetas de los envases y empaques en los que se presenten los productos a que se refiere este Capítulo, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, figurarán las leyendas que determinen las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas internacionales que determine la normatividad aplicable.
 
 ### CAPITULO III. Trasplantes
 
@@ -4430,13 +4448,11 @@ En los casos en que los productos de importación no reúnan los requisitos o ca
 
 El importador de los productos a que se refiere este Título, deberá estar domiciliado en el país y sujetarse a las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 286.
 
-En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos de perfumería, belleza y aseo, así como de las materias que se utilicen en su elaboración, el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas que requieren autorización previa de importación.
+En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, productos cosméticos, productos de aseo, así como de las materias que se utilicen en su elaboración, el Secretario de Salud, mediante acuerdo publicado en el Diario Oficial de la Federación, determinará con base en los riesgos para la salud qué productos o materias primas que requieren autorización previa de importación.
 
 > <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -5900,11 +5916,13 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 414 Bis.
 
-Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos de perfumería y belleza que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
+Será procedente la acción de aseguramiento prevista en el artículo 414 como medida de seguridad, para el caso de que se comercialicen remedios herbolarios, suplementos alimenticios o productos cosméticos que indebidamente hubieren sido publicitados o promovidos como medicamentos o a los cuales se les hubiera atribuido cualidades o efectos terapéuticos, presentándolos como una solución definitiva en el tratamiento preventivo o rehabilitatorio de un determinado padecimiento, no siendo medicamentos y sin que los mismos cuenten con registro sanitario para ser considerados como tales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2005)</small>
 
 En caso de que se actualice el supuesto previsto en el párrafo anterior, la medida de seguridad se aplicará respecto de los productos que tenga almacenados el fabricante, así como de los que se encuentren en poder de distribuidores, comercializadores o comerciantes para efectos de su venta al público.
 
@@ -5958,21 +5976,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 422.
 
@@ -6927,3 +6945,11 @@ D.O.F. 27 DE ABRIL DE 2010.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 464 TER DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que las disposiciones jurídicas o administrativas hagan a los productos de perfumería y belleza, se entenderán realizadas a los productos cosméticos. Asimismo, las disposiciones emitidas con anterioridad para los productos de perfumería y belleza mantendrán su vigencia.
+
+TERCERO.- El Poder Ejecutivo Federal, a través de las instancias competentes, emitirá en el Diario Oficial de la Federación las disposiciones aplicables para la verificación de las buenas prácticas de fabricación para este tipo de productos.
