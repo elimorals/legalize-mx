@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2010-11-30"
+last_updated: "2011-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -520,21 +520,41 @@ El plan de manejo deberá contener:
 
 a) Sus objetivos específicos; metas a corto, mediano y largo plazos; e indicadores de éxito.
 
-b) La descripción física y biológica del área y su infraestructura.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-c) Los métodos de muestreo.
+b) Información biológica de la o las especies sujetas a plan de manejo.
 
-d) El calendario de actividades.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-e) Las medidas de manejo del hábitat, poblaciones y ejemplares.
+c) La descripción física y biológica del área y su infraestructura.
 
-f) Las medidas de contingencia.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-g) Los mecanismos de vigilancia.
+d) Los métodos de muestreo.
 
-h) En su caso, los medios y formas de aprovechamiento y el sistema de marca para identificar los ejemplares, partes y derivados que sean aprovechados de manera sustentable.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
-El plan de manejo deberá ser elaborado por el responsable técnico, quien será responsable solidario con el titular de la unidad registrada, de la conservación de la vida silvestre y su hábitat, en caso de otorgarse la autorización y efectuarse el registro.
+e) El calendario de actividades.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+f) Las medidas de manejo del hábitat, poblaciones y ejemplares.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+g) Las medidas de contingencia.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+h) Los mecanismos de vigilancia.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+i) En su caso, los medios y formas de aprovechamiento y el sistema de marca para identificar los ejemplares, partes y derivados que sean aprovechados de manera sustentable.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2011)</small>
+
+El plan de manejo deberá ser elaborado por el responsable técnico, quien será responsable solidario con el titular de la unidad registrada, del aprovechamiento sustentable de la vida silvestre, su conservación y la de su hábitat, en caso de otorgarse la autorización y efectuarse el registro.
 
 ###### Artículo 41.
 
@@ -1547,3 +1567,9 @@ El Ejecutivo Federal deberá hacer las modificaciones pertinentes en el Reglamen
 D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El titular del Poder Ejecutivo Federal en un plazo no mayor de 120 días hábiles, posteriores a la entrada en vigor del presente Decreto, deberá publicar las reformas necesarias al Reglamento de la Ley General de Vida Silvestre.
