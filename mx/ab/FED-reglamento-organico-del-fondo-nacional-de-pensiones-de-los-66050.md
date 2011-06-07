@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-nacional-de-pensiones-de-los-6605
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2009-02-09"
+last_updated: "2011-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66050&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-09-30"
 
 REGLAMENTO ORGANICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO (PENSIONISSSTE)
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DEL FONDO NACIONAL DE PENSIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, PUBLICADO EN EL D.O.F. DE 7 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 9 de febrero de 2009.
 
@@ -1032,3 +1034,13 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 30 de septiembre de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento Orgánico, se abroga el Acuerdo 41.1315.2008 de la Junta Directiva, por el que se aprueba el Reglamento Orgánico del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado (PENSIONISSSTE), publicado en el Diario Oficial de la Federación el día 9 de febrero de 2009.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento.
