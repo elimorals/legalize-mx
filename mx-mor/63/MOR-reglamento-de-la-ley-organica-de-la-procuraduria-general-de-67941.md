@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2011-03-09"
+last_updated: "2011-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -71,9 +71,9 @@ IV. Subprocuraduría Zona Sur Poniente;
 
 V. Subprocuraduría de Investigaciones Especiales;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-VI. Coordinación General de Servicios Periciales y Derechos Humanos;
+VI. Coordinación General de Servicios Periciales y Atención a Víctimas;
 
 VII. Coordinación General de la Policía Ministerial;
 
@@ -319,7 +319,9 @@ II. Coadyuvar con el Procurador en la planeación, organización y realización 
 
 III. Coadyuvar para hacer más accesible la procuración de justicia garantizando los intereses de la sociedad conforme a lo establecido en la Constitución General de la República, del Estado y demás leyes;
 
-IV. Coordinar a las Subprocuradurías y Coordinación General de Servicios Periciales y Derechos Humanos, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+IV. Coordinar a las Subprocuradurías y a la Coordinación General de Servicios Periciales y Atención a Víctimas, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Procurador General de Justicia;
 
 V. Planear y coordinar los programas y medidas necesarias para optimizar el funcionamiento de las áreas y unidades administrativas que le estén adscritas;
 
@@ -445,7 +447,9 @@ ARTÍCULO 12 BIS. Se adscriben a la Subprocuraduría General para el cumplimient
 
 I. Subprocuradurías;
 
-II. Coordinación General de Servicios Periciales y Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+II. Coordinación General de Servicios Periciales y Atención a Víctimas;
 
 III. (DEROGADA, P.O. 9 DE MARZO DE 2011)
 
@@ -507,25 +511,25 @@ Se adscribe a la Subprocuraduría de Investigaciones Especiales la Dirección Ge
 
 ### CAPÍTULO V
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE JUNIO DE 2011)</small>
 
-DE LAS COORDINACIONES GENERALES DE LA COORDINACIÓN GENERAL DE SERVICIOS PERICIALES Y DERECHOS HUMANOS
+DE LAS COORDINACIONES GENERALES DE LA COORDINACIÓN GENERAL DE SERVICIOS PERICIALES Y ATENCIÓN A VÍCTIMAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 18.
 
-La Coordinación General de Servicios Periciales y Derechos Humanos tendrá al frente a un Coordinador General, quien dependerá directamente del Subprocurador General teniendo competencia en todo el Estado de Morelos y ejercerá las siguientes atribuciones:
+La Coordinación General de Servicios Periciales y Atención a Víctimas, tendrá al frente a un Coordinador General, quien dependerá directamente del Subprocurador General teniendo competencia en todo el Estado de Morelos y ejercerá las siguientes atribuciones:
 
-I. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en derechos humanos;
+I. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
-II. Analizar las recomendaciones que se reciban de las Comisiones Nacionales de Derechos Humanos y del Estado de Morelos y determinar las acciones para darles solución;
+II. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
-III. Representar y ser el enlace directo con las Comisiones Nacional (sic) de Derechos Humanos, del Estado de Morelos, y con otros organismos oficiales que se encarguen de vigilar, recomendar y analizar el respeto y aplicación de los derechos humanos;
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
-IV. Intervenir en las propuestas de conciliación y recomendaciones que envíen la Comisión Nacional de Derechos Humanos y del Estado de Morelos respecto a las quejas en las que se vean involucrados los servidores públicos de la Institución;
+IV. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
-V. Verificar que se cumpla con los requerimientos y recomendaciones que la Comisión de Derechos Humanos del Estado de Morelos realice, al igual que los organismos internacionales de Derechos Humanos, respecto de aquellos casos que sean competencia de la Institución;
+V. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
 VI. Brindar la protección especial a las víctimas, testigos y demás sujetos procesales;
 
@@ -553,11 +557,11 @@ XVI. Revisar y proponer a su superior jerárquico los Manuales de Organización 
 
 XVII. Las demás que le confieran los ordenamientos jurídicos aplicables y las que le determine el Superior Jerárquico.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-Se adscriben a la Coordinación General de Servicios Periciales y Derechos Humanos las siguientes unidades administrativas:
+Se adscriben a la Coordinación General de Servicios Periciales y Atención a Víctimas las siguientes unidades administrativas:
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -567,9 +571,7 @@ I. Dirección General de Servicios Periciales;
 
 II. Dirección General de Asesoría Social y Auxilio a Víctimas; y
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
-
-III. Dirección General de Derechos Humanos.
+III. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
 ###### ARTÍCULO 20.
 
@@ -747,17 +749,39 @@ XVIII. Proponer a su superior jerárquico los manuales de organización y polít
 
 XIX. Administrar los recursos humanos, financieros y materiales que le asignen;
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XX. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en derechos humanos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXI. Analizar las recomendaciones que se reciban de las Comisiones Nacionales de Derechos Humanos y del Estado de Morelos y determinar las acciones para darles solución;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXII. Representar y ser el enlace directo con las Comisiones Nacional de Derechos Humanos, del Estado de Morelos, y con otros organismos oficiales que se encarguen de vigilar, recomendar y analizar el respeto y aplicación de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXIII. Intervenir en las propuestas de conciliación y recomendaciones que envíen la Comisión Nacional de Derechos Humanos y del Estado de Morelos, respecto a las quejas en las que se vean involucrados los servidores públicos de la Institución;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXIV. Verificar que se cumpla con los requerimientos y recomendaciones que la Comisión de Derechos Humanos del Estado de Morelos realice, al igual que los organismos internacionales de Derechos Humanos, respecto de aquellos casos que sean competencia de la Institución;
+
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XX. Las que le confiera su calidad de Agente del Ministerio Público, siempre y cuando cumpla con los requisitos para serlo, y
+XXV. Las que le confiera su calidad de Agente del Ministerio Público, siempre y cuando cumpla con los requisitos para serlo, y
 
-XXI. Las demás que le confiera el Procurador y demás disposiciones legales.
+XXVI. Las demás que le confiera el Procurador y demás disposiciones legales.
 
 ###### ARTÍCULO 24.
 
 Se adscriben a la Coordinación General de Asesores y Vinculación Institucional las siguientes unidades administrativas:
 
-I. Dirección Jurídica, Amparos y Extradiciones;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+I. Dirección General Jurídica, Amparos y Extradiciones;
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -765,9 +789,13 @@ II. Dirección General del Centro de Justicia Alternativa;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-III. Dirección General de Enlace Interinstitucional; y
+III. Dirección General de Enlace Interinstitucional; y (sic)
 
-IV. Dirección General de Comunicación Social.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+IV. Dirección General de Derechos Humanos, y
+
+V. Dirección General de Comunicación Social.
 
 DE LA COORDINACIÓN GENERAL DE ADMINISTRACIÓN Y SISTEMAS
 
@@ -1095,11 +1123,11 @@ La Dirección General del Centro de Justicia Alternativa, estará adscrita a la 
 
 DE LA DIRECCIÓN GENERAL DE ASESORÍA SOCIAL Y AUXILIO A VÍCTIMAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 33.
 
-La Dirección General de Asesoría Social y Auxilio a Víctimas estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos y tendrá además de las establecidas en el artículo 28 las siguientes atribuciones:
+La Dirección General de Asesoría Social y Auxilio a Víctimas estará adscrita a la Coordinación General de Servicios Periciales y Atención a Víctimas, y tendrá además de las establecidas en el artículo 28 las siguientes atribuciones:
 
 I. Vigilar y asegurar que se proporcione a las víctimas u ofendidos de delitos la ayuda médica o psicológica urgente que requieran;
 
@@ -1143,11 +1171,11 @@ XVII. Las demás que le señalen las disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE DERECHOS HUMANOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 34.
 
-La Dirección General de Derechos Humanos estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos; el titular de la Dirección General de Derechos Humanos ejercerá las siguientes atribuciones:
+La Dirección General de Derechos Humanos estará adscrita a la Coordinación General de Asesores y Vinculación Institucional. El titular de la Dirección General de Derechos Humanos ejercerá las siguientes atribuciones:
 
 I. Supervisar que se reciban las quejas o recomendaciones que se presenten en contra de servidores públicos de la Procuraduría por presuntas violaciones a los derechos humanos, dándoles el trámite correspondiente;
 
@@ -1509,11 +1537,11 @@ XV. Las demás que le señalen otras disposiciones legales aplicables.
 
 DE LA DIRECCIÓN GENERAL DE SERVICIOS PERICIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 43.
 
-La Dirección General de Servicios Periciales estará adscrita a la Coordinación General de Servicios Periciales y Derechos Humanos, y además de las atribuciones que establece el artículo 28, tendrá las siguientes atribuciones:
+La Dirección General de Servicios Periciales estará adscrita a la Coordinación General de Servicios Periciales y Atención a Víctimas, y además de las atribuciones que establece el artículo 28, tendrá las siguientes atribuciones:
 
 I. Dirigir, coordinar y supervisar el funcionamiento de las Coordinaciones Regionales de Servicios periciales;
 
@@ -2165,7 +2193,7 @@ p) Tránsito Terrestre;
 
 q) Incendios y Explosivos;
 
-> <small>(F. DE E.,P.O. 22 DE JULIO DE 2009)</small>
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
 r) Peritos Médicos Legistas o Forenses; y
 
@@ -2445,9 +2473,9 @@ El Subprocurador General, el Subprocurador de la Zona Oriente, el Subprocurador 
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-El Coordinador General de Policía Ministerial, el Coordinador General de Servicios Periciales y Derechos Humanos, el Visitador General, el Coordinador General de Administración y Sistemas, el Coordinador General de Asesores y Vinculación Institucional, los Directores Generales y los Coordinadores, serán sustituidos en caso de que se ausenten temporalmente por más de diez días por el servidor público que designe el Procurador.
+El Coordinador General de Policía Ministerial, el Coordinador General de Servicios Periciales y Atención a Víctimas, el Visitador General, el Coordinador General de Administración y Sistemas, el Coordinador General de Asesores y Vinculación Institucional, los Directores Generales y los Coordinadores, serán sustituidos en caso de que se ausenten temporalmente por más de diez días por el servidor público que designe el Procurador.
 
 ###### ARTÍCULO 80.
 
@@ -2481,105 +2509,267 @@ Incurrirá en falta grave el servidor público que a sabiendas que existe un imp
 
 ### CAPÍTULO XIII. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA DE LA PROCURADURÍA
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+#### SECCIÓN I. DE SU INTEGRACIÓN, OBJETO Y ATRIBUCIONES
+
 ###### ARTÍCULO 82.
 
 El Consejo de Participación Ciudadana estará integrado por los Consejeros que el Procurador determine. Cada Consejero nombrará a su suplente, mismo que lo sustituirá en las sesiones durante su ausencia y tendrá las mismas facultades del titular ante el Consejo. Cuando esté presente el Consejero, el suplente sólo tendrá derecho a voz.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Los Consejeros serán designados por el período de un año, y podrán ser ratificados por el Procurador al finalizar su encargo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+El Consejo elegirá, en la primera sesión del año de entre sus integrantes, a quien fungirá como Presidente, quien durará un año en el ejercicio de dicho encargo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+La Secretaría Técnica del Consejo estará a cargo de quien designe el Procurador o en su defecto, de la persona titular de la Dirección General de Enlace Institucional.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 82 BIS. Para ser Consejero, con excepción del representante de la Procuraduría se requiere lo siguiente:
+
+I. Ser ciudadano de reconocida calidad moral y prestigio, representante de algún sector de la sociedad;
+
+II. No haber sido condenado por delito doloso alguno;
+
+III. Que el Procurador le formule la invitación correspondiente;
+
+IV. Aceptar por escrito la invitación realizada por el Procurador, y
+
+V. Que se expida la designación correspondiente por parte del Procurador.
+
+Los suplentes deberán reunir los requisitos establecidos en las fracciones I y II de este artículo.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 83.
 
-El Consejo de Participación Ciudadana de la Procuraduría tendrá como objeto analizar, proponer, evaluar, consensar, y dar seguimiento a los programas, estratégias, acciones y políticas relacionadas con las tareas de la Institución. Así mismo será el conducto para promover la participación de la ciudadanía y ser el interlocutor de ésta con la Procuraduría.
+El Consejo tendrá por objeto promover y orientar la participación de la ciudadanía organizada, en tareas relacionadas con la función de procuración de justicia, y ser el mecanismo de interlocución y enlace de ésta con la Procuraduría.
+
+Son atribuciones específicas del Consejo:
+
+I. Aprobar y someter a consideración del Procurador, el Programa Anual de Trabajo del Consejo de Participación Ciudadana de la Procuraduría;
+
+II. Aprobar y someter a consideración del Procurador, lineamientos, o normas para el funcionamiento interno del Consejo;
+
+III. Sesionar de manera ordinaria y extraordinaria;
+
+IV. Poner en marcha el Programa;
+
+V. Opinar sobre los proyectos normativos en materia de procuración de justicia, que se sometan a su consideración;
+
+VI. Solicitar, por conducto del Presidente, a las autoridades competentes, la información que sea necesaria para el cumplimiento de sus atribuciones;
+
+VII. Promover entre la ciudadanía y proponer a la Procuraduría acciones para fomentar la denuncia del delito, la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana en materia de procuración de justicia y la vida libre de violencia; y realizar acciones para ello;
+
+VIII. Organizar seminarios, conferencias y ponencias sobre procuración de justicia y el sistema de justicia penal en lo que corresponda a la procuración de justicia;
+
+IX. Proponer a las autoridades competentes, en el ámbito de sus atribuciones, programas de participación ciudadana en las actividades que propicien el buen desempeño de la función de procurar justicia;
+
+X. Impulsar el establecimiento y operación de sistemas comunitarios de vigilancia y de seguimiento de los fenómenos delincuenciales locales, para identificar zonas de riesgo, grupos vulnerables, víctimas, victimarios y propiciar las acciones necesarias en la prevención y el control de los hechos violentos o delictivos, así como la procuración de justicia;
+
+XI. Realizar consultas, encuestas y diagnósticos sobre victimología, fenómenos delictivos y otras que coadyuven a la mejor procuración de justicia;
+
+XII. Realizar acciones para promover la cultura de la denuncia del delito entre la sociedad;
+
+XIII. Proponer y promover formas de colaboración entre la comunidad y la Procuraduría para las tareas de procuración de justicia, y
+
+XIV. Las demás que le confieran otras normas jurídicas aplicables, o le delegue el Procurador.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 83 BIS. El Programa, deberá ser aprobado por el Consejo, durante el primer trimestre de cada año, y sometido a consideración del Procurador para su expedición y vigencia inmediatamente después de que sea aprobado por el Consejo.
+
+El proyecto será elaborado por la Secretaría Técnica del Consejo, quien lo someterá a consideración del Consejo para las adecuaciones pertinentes. Dicho Programa deberá contener por lo menos:
+
+I. Objetivo General y Objetivos Específicos del Programa;
+
+II. Las actividades o proyectos que se pretenden llevar a cabo durante el periodo;
+
+III. Las actividades prioritarias para el periodo;
+
+IV. Las estrategias para llevar a cabo dichas actividades;
+
+V. Los responsables de ejecución de cada una de las actividades;
+
+VI. La congruencia con el Programa Estatal de Procuración de Justicia, y
+
+VII. La forma de evaluación y medición de las actividades plasmadas en el Programa.
+
+Para que el Programa sea aprobado y expedido en tiempo, en la primera sesión del año, la Secretaría del consejo entregará el proyecto de Programa a los Consejeros para que en un término de quince días naturales realicen sus observaciones al documento, y éste pueda ser aprobado y expedido a la brevedad posible. Pasado el plazo de quince días sin que se hagan llegar observaciones a la Secretaría, se entenderá que los Consejeros no tienen observaciones al proyecto y se aprobará en los términos presentados por aquella.
+
+El Programa se podrá modificar en cualquier momento. Para ello, se deberá tomar el acuerdo respectivo en el seno del Consejo y posteriormente, someterlo a la aprobación del Procurador. Asimismo el Procurador, mediante comunicado por escrito, podrá instruir al Consejo para integrar en el Programa cualquier objetivo, estrategia o actividad que considere necesaria para la buena marcha de las actividades del Consejo.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+#### SECCIÓN II. DE LAS ATRIBUCIONES DEL PROCURADOR Y LOS MIEMBROS DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 84.
 
-El Consejo elegirá de entre sus integrantes a quien fungirá como Presidente. La Secretaría del Consejo estará a cargo del titular de la Coordinación de Asesores y Vinculación Institucional del Procurador, o a quien designe éste ultimo.
+Son atribuciones del Procurador, en relación con el Consejo de Participación Ciudadana, las siguientes:
+
+I. Nombrar cada año a los Consejeros que integrarán el Consejo;
+
+II. Tomar a los Consejeros la protesta de Ley al inicio de su encargo;
+
+III. Expedir la designación de los Consejeros;
+
+IV. Aprobar, expedir y solicitar la publicación en el Periódico Oficial “Tierra y Libertad”, el Acuerdo que contenga el Programa;
+
+V. Aprobar y expedir mediante acuerdo que se publicará en el “Periódico Oficial Tierra y Libertad” los lineamientos, o normas para el funcionamiento interno del Consejo;
+
+VI. Acordar los demás asuntos que le sean sometidos a su consideración por el Consejo;
+
+VII. Solicitar informes, opiniones y estudios al Consejo;
+
+VIII. Remover a los Consejeros que hayan faltado a las sesiones por tres veces consecutivas sin causa justificada, o que pierdan alguna de las cualidades que motivaron su designación, y
+
+IX. Las demás que le confiera la normatividad aplicable, o sean necesarias para el funcionamiento correcto y eficaz del Consejo.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 85.
 
-El Presidente del Consejo tendrá las siguientes atribuciones y facultades:
+El Presidente del Consejo tendrá las siguientes atribuciones:
 
 I. Presidir las sesiones ordinarias y extraordinarias del Consejo;
 
-II. Ser el representante del Consejo ante los medios de comunicación y ante el Procurador;
+II. Ser el representante del Consejo ante los medios de comunicación;
 
-III. Someter a votación los acuerdos que se propongan en las sesiones;
+III. Someter a votación los acuerdos que se propongan en las sesiones, y
 
-IV. Ser el enlace entre el Procurador y los Consejeros;
+IV. Ser el conducto para proponer al Procurador para su aprobación y expedición, el anteproyecto de Programa, así como otras normas, y lineamientos que el Consejo requiera para su correcto funcionamiento.
 
-V. Sancionar las minutas de las sesiones antes de proceder a la firma de los Consejeros y suplentes en su caso, y
-
-VI. Coordinar y vigilar el cumplimiento de los acuerdos que se establezcan.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 86.
 
-El Secretario del Consejo, tiene las siguientes atribuciones:
+El Secretario Técnico del Consejo, tendrá las siguientes atribuciones:
 
-I. Asistir a todas las sesiones del Consejo;
+I. Ser el representante de la Procuraduría ante el Consejo y el enlace del Consejo con el Procurador;
 
-II. Levantar las actas en todas las sesiones;
+II. Levantar las actas de todas las sesiones;
 
-III. Responsabilizarse del archivo del Consejo, y
+III. Responsabilizarse del archivo del Consejo y dar cuenta de la correspondencia recibida y despachada;
 
-IV. Coadyuvar en el seguimiento de todas las gestiones o en el cumplimiento de los acuerdos que tomen en el seno del Consejo.
+IV. Dar seguimiento a los acuerdos que se tomen en el seno del Consejo;
+
+V. Sancionar las minutas de las sesiones antes de proceder a la firma de los Consejeros y suplentes en su caso;
+
+VI. Emitir las convocatorias a las sesiones ordinarias de conformidad con el calendario aprobado, y las extraordinarias, cuando así se lo instruya el Procurador o el Presidente del Consejo;
+
+VII. Otorgar el apoyo técnico para que se realicen las actividades y se ejecute el Programa del Consejo, y
+
+VIII. Las demás que le confieran las normas aplicables, o le delegue el Procurador o el Consejo.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 87.
 
-Se podrá solicitar al Procurador la remoción de cualquiera de los Consejeros, por parte del Consejo mismo, cuando éstos o sus suplentes, según el caso, dejen de asistir sin causa justificada a tres sesiones consecutivas.
+Son atribuciones de los Consejeros:
+
+I. Asistir a las sesiones ordinarias y extraordinarias del Consejo;
+
+II. Participar en las sesiones, proponer y votar acuerdos puestos a su consideración;
+
+III. Participar en las actividades que acuerde el Consejo, de conformidad con el Programa;
+
+IV. Firmar las actas y minutas que se elaboren;
+
+V. Cumplir los acuerdos emitidos y compromisos adquiridos por el Consejo;
+
+VI. Rendir informe al término de sus funciones;
+
+VII. Solicitar al Presidente, convoque a sesión extraordinaria cuando tengan algún asunto de urgente resolución;
+
+VIII. Solicitar al finalizar la sesión, o con 15 días de anticipación a ésta, que se incluya algún asunto de su interés en el orden del día;
+
+IX. Ser el conducto de comunicación entre el grupo de la sociedad civil que representan y la Procuraduría, y
+
+X. Promover entre la ciudadanía la denuncia del delito, la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana en materia de procuración de justicia y la vida libre de violencia.
+
+> <small>(ADICIONADA, 8 DE JUNIO DE 2011)</small>
+
+#### SECCIÓN III. DE LAS SESIONES DEL CONSEJO
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 88.
 
-Para ser Consejero, se requiere lo siguiente:
+En la primera sesión del año el Consejo aprobará el calendario de sesiones que será propuesto por la Secretaría Técnica del Consejo, y que incluirá fecha y hora de (sic) en que se realizarán las sesiones.
 
-I. Ser ciudadano de reconocida calidad moral y prestigio representante de algún sector de la sociedad;
+Asimismo en la primera sesión del año, se dará la bienvenida a los Consejeros por parte del Procurador o quien éste designe y se entregará a los Consejeros el proyecto de Programa.
 
-II. Que el Procurador o el titular del poder Ejecutivo de (sic) Estado formule la invitación correspondiente;
+El Consejo, en la última sesión de cada año, deberá aprobar el informe anual de actividades, que será remitido al Procurador, para su conocimiento. El proyecto de dicho informe deberá ser elaborado por la Secretaría Técnica del Consejo, para ser sometido a consideración del Consejo en la última sesión.
 
-III. La aceptación de la invitación por parte del futuro Consejero, y
-
-IV. Que se emita el nombramiento correspondiente por parte del Procurador.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 89.
 
-Los Consejeros o los suplentes, en sustitución de éstos, tienen las siguientes atribuciones:
+Las convocatorias a las sesiones ordinarias se deberán enviar con ocho días de anticipación a su celebración y las de las sesiones extraordinarias con tres días de anticipación; dichas convocatorias deberán contener:
 
-I. Asistir a las sesiones ordinarias y extraordinarias del Consejo a que sean convocados;
+I. Fecha, hora, lugar en donde se celebrará la sesión, y duración aproximada;
 
-II. Participar con voz y voto en las sesiones;
+II. Orden del día a tratar, y
 
-III. Participar en las comisiones del trabajo que acuerde el Consejo, y
+III. Los documentos adjuntos para el conocimiento previo de los Consejeros, que se relacionen o sean necesarios para el desahogo de los asuntos del orden del día.
 
-IV. Los Consejeros podrán dar apoyo específico a cualquier persona mediante la orientación y canalización a las áreas correspondientes de la Procuraduría.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 90.
 
-El Consejo sesionará en forma regular cada dos meses, independientemente de que podrá sesionar en forma extraordinaria cuantas veces se requiera, en ambos casos, previa convocatoria el (sic) Presidente o el Procurador.
+El Consejo sesionará en forma regular cada dos meses de manera ordinaria y podrá sesionar en forma extraordinaria cuantas veces se requiera, en ambos casos, por solicitud del Presidente o del Procurador.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 91.
 
-Para que las sesiones tengan validez y se consideren como tal deberán estar presentes la mitad más uno de los Consejeros integrantes, en caso de que asistan Consejeros acompañados de sus suplentes, estos últimos tendrán voz pero no voto al momento de someter a consideración del Consejo algún asunto. Solo tendrán voz y voto cuando asistan en representación del Consejero.
+Para que las sesiones tengan validez y se consideren legalmente instaladas, deberán estar presentes la mitad más uno de los Consejeros, y para que los acuerdos sean válidos deberán ser tomados por mayoría de votos de los miembros presentes. En cualquier caso el presidente tendrá voto de calidad.
+
+A las sesiones podrán ser invitadas personalidades que no formen parte del Consejo, pero que por su trayectoria o representación social puedan hacer aportes positivos para los fines del Consejo. El Procurador podrá expedir estas invitaciones a quien considere pertinente y, en su caso, a quien el Consejo le solicite.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 92.
 
-En todas las sesiones se elaborara una minuta, la cual firmaran los Consejeros que hayan asistido. Esto se hará en la sesión inmediata posterior.
+De todas las sesiones se elaborará un acta, la cual firmarán los Consejeros que hayan asistido. Esto se hará al finalizar la sesión si el tiempo lo permite, o, en su caso, en la sesión inmediata posterior.
 
 ###### ARTÍCULO 93.
 
 El Procurador podrá asistir a las sesiones ordinarias y extraordinarias del Consejo, cuando lo estime conveniente.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 94.
 
-En ningún caso, las sesiones servirán para tratar asuntos de índole personal de alguno de los Consejeros o autoridades del Consejo.
+Queda prohibido tratar asuntos de índole personal de alguno de los Consejeros o autoridades del Consejo.
 
 ###### ARTÍCULO 95.
 
 Al inicio de las sesiones, se firmará una lista de asistencia, la cual será guardada por el Secretario.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 96.
 
-Las sesiones darán inicio puntualmente a la hora establecida por el Consejo y sin margen de tolerancia.
+Con una tolerancia máxima de 15 minutos de la hora señalada para la sesión, se dará inicio a la misma. La Secretaría realizará el cómputo de los asistentes y lo comunicará al Presidente para que, en caso de haber quórum, éste declare la instalación legal de la sesión, o a falta de quórum, informe de la suspensión de la misma y convoque a una nueva hora y fecha para su celebración, quince días después.
+
+En la fecha posterior que se fije, se llevará a cabo la sesión con los Consejeros que asistan y los acuerdos que ahí se tomen serán válidos.
+
+El orden del día de las sesiones deberá contener los asuntos a tratar, entre los que de manera obligatoria se incluirá el seguimiento de acuerdos por parte de la Secretaría y los que establece el presente Reglamento para la primera y última sesión del año.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 97.
 
-Se podrá convocar a cuantas sesiones extraordinarias se estimen pertinentes, aprobado previamente por el Consejo o a convocatoria del Presidente o del Procurador y se seguirán las mismas disposiciones que en las sesiones ordinarias.
+En todo caso el Procurador tendrá la atribución de resolver, dentro del ámbito administrativo y en relación con el Consejo, los asuntos no previstos en el presente Reglamento, en términos de las disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -2672,3 +2862,11 @@ SEGUNDO.- Se derogan el Transitorio Sexto del Decreto por el cual se reforman, a
 TERCERO.- En tanto se expiden los manuales respectivos, el Procurador queda facultado para resolver las cuestiones de procedimiento y operaciones que se originen por la aplicación de este Decreto.
 
 CUARTO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
+
+P.O. 8 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
