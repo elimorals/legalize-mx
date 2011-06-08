@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2010-10-13"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3693,7 +3693,9 @@ Tratándose de las acciones de investigación de la paternidad o de la maternida
 
 CUESTIONES SOBRE PATRIA POTESTAD.
 
-#### SECCION PRIMERA. DECLARACION DE INCAPACIDAD
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES APLICABLES A LOS JUICIOS SOBRE PATRIA POTESTAD
 
 ###### ARTICULO 506.
 
@@ -3717,7 +3719,47 @@ Cuando se trate de la posesión de estado de hijos menores de siete años, ésto
 
 La suspensión y la calificación de las excusas para ejercer la patria potestad, que no hayan sido objeto de una resolución judicial, se tramitarán y decidirán en una audiencia en la que se oiga a las partes y se reciban las pruebas que se ofrezcan.
 
-#### SECCION SEGUNDA. NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE JUNIO DE 2011)</small>
+
+#### SECCION SEGUNDA. DEL JUICIO ESPECIAL DE PERDIDA DE PATRIA POTESTAD PARA LOS MENORES DE EDAD INSTITUCIONALIZADOS
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 A.- Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores acogidos por una institución pública o privada de asistencia social para el efecto de que se decrete la pérdida de la patria potestad, en los casos previstos por el artículo 436 fracciones I, II, IV y V del Código Civil, correspondiendo la acción a la Procuraduría de la Defensa del Menor y la Familia.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 B.- Admitida la demanda, se correrá traslado de ella a sus padres emplazándoles a fin de que en el plazo de cinco días produzcan su contestación.
+
+Las pruebas deberán ofrecerse en los escritos de demanda o contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+
+El juez acordará la admisión de las pruebas, siempre y cuando estas cumplan los requisitos que establece el presente código.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 C.- Las notificaciones se ajustarán a lo dispuesto por el Capítulo IV del Título Tercero del Libro Primero de este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 D.- Todas las excepciones deberán hacerse valer en la contestación.
+
+Los incidentes no suspenderán el procedimiento, las excepciones que se opongan y los recursos que se interpongan se resolverán en la sentencia definitiva.
+
+Si la parte demandada no formula su contestación, se le tendrá por contestando en sentido afirmativo y aceptando lo contenido en la demanda.
+
+En este juicio no es admisible la reconvención.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 E.- Transcurrido el período de emplazamiento, dentro de los diez días siguientes, se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por un término no mayor de diez días.
+
+Desahogadas las pruebas y concluida la etapa de alegatos, la sentencia se dictará dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTICULO 508 F.- Contra la sentencia que se dicte procede el recurso de apelación en ambos efectos, estándose a lo dispuesto por el Libro Quinto, Titulo II, Capítulo I, Sección Segunda de este Código.
 
 ### CAPITULO XII. ADOPCION
 
@@ -3751,11 +3793,7 @@ En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez
 
 ARTICULO 511 "A".- Rendidas las constancias, desahogadas las pruebas y obtenido el consentimiento de las personas que deban darlo, conforme al Código Civil, el Juez resolverá, lo que proceda sobre la adopción.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
-
-ARTICULO 511 "B".- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena (sic), o la revocación, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente.
-
-Si el adoptado es menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento si se conoce su domicilio, al Consejo Estatal de Adopciones y al Ministerio Público.
+ARTICULO 511 B.- (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -3763,7 +3801,9 @@ Si el adoptado es menor de edad, para resolver sobre la revocación se oirá pre
 
 En caso de que quien ejerza la patria potestad sobre un menor, pretenda entregarlo al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a una institución de asistencia privada autorizada, para que sea dado en adopción, deberá comparecer ante el Juez para acreditar su parentesco.
 
-Recibida la solicitud, el Juez acordará la celebración de una audiencia, en donde se recibirá el consentimiento de la persona interesada, se escuchará al Ministerio Público, al Procurador de la Defensa del Menor y la Familia y si el representante legal de la Institución lo acepta, se decretará la pérdida de la patria potestad y se nombrará tutor al propio representante legal. El Consejo Estatal de Adopciones deberá promover la adopción plena del menor.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Recibida la solicitud, el Juez acordará la celebración de una audiencia, en donde se recibirá el consentimiento de la persona interesada, se escuchará al Ministerio Público, al Procurador de la Defensa del Menor y la Familia y si el representante legal de la Institución lo acepta, se decretará la pérdida de la patria potestad y se nombrará tutor al propio representante legal. El Consejo Estatal de Adopciones deberá promover la adopción del menor.
 
 ### CAPITULO XIII. NULIDAD DEL MATRIMONIO
 
@@ -3823,9 +3863,7 @@ Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ell
 
 ### CAPITULO XV. INCAPACIDAD
 
-#### SECCION PRIMERA. DELACION
-
-A) TESTAMENTARIAS.
+#### SECCION PRIMERA. DECLARACION DE INCAPACIDAD
 
 ###### ARTICULO 521.
 
@@ -3877,7 +3915,7 @@ VIII.- El que dolosamente promueva juicio de incapacidad será responsable de lo
 
 La resolución que declare la incapacidad es apelable en ambos efectos, únicamente en el caso de que quien la solicite pretenda seguir un procedimiento contra el incapaz y, en todos los demás, solo en el devolutivo.
 
-#### SECCION SEGUNDA. INVENTARIOS Y AVALUOS
+#### SECCION SEGUNDA. NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
 
 ###### ARTICULO 527.
 
@@ -4131,7 +4169,9 @@ En este caso, se acumularán los juicios bajo la representación del ejecutor te
 
 ### CAPITULO II. CONTENIDO DE LOS JUICIOS SUCESORIOS
 
-#### SECCION TERCERA. ADMINISTRACION
+#### SECCION PRIMERA. DELACION
+
+A) TESTAMENTARIAS.
 
 ###### ARTICULO 555.
 
@@ -4205,7 +4245,7 @@ A falta absoluta de sucesores, en cualquier caso, declarará heredera a la benef
 
 La declaración de herederos de un intestado surte el efecto de tenerle por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
 
-#### SECCION CUARTA. PARTICION
+#### SECCION SEGUNDA. INVENTARIOS Y AVALUOS
 
 ###### ARTICULO 569.
 
@@ -4261,7 +4301,7 @@ Si pasados los términos de diez y sesenta días que señalan los artículos 569
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-#### SECCION PRIMERA. TESTAMENTO PUBLICO ABIERTO
+#### SECCION TERCERA. ADMINISTRACION
 
 ###### ARTICULO 579.
 
@@ -4335,7 +4375,7 @@ Si todos los interesados aprobaren la cuenta o no la impugnaren, el Juez la apro
 
 La garantía otorgada por el interventor o el albacea se cancelará hasta que haya sido aprobada la cuenta general de administración.
 
-#### SECCION SEGUNDA. TESTAMENTO PUBLICO CERRADO
+#### SECCION CUARTA. PARTICION
 
 ###### ARTICULO 596.
 
@@ -4439,7 +4479,7 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título d
 
 Para la tramitación de toda testamentaría, se requiere que previamente se declare judicialmente que el testamento respectivo es formalmente válido conforme a las disposiciones contenidas en la sección primera, capítulo II de éste título y de las siguientes.
 
-#### SECCION TERCERA. TESTAMENTO OLOGRAFO
+#### SECCION PRIMERA. TESTAMENTO PUBLICO ABIERTO
 
 ###### ARTICULO 608.
 
@@ -4449,7 +4489,7 @@ No será necesaria la declaración judicial, cuando todos los herederos institui
 
 El Notario autorizante en todo caso deberá pedir a la Dirección Estatal de Profesiones, Actividades Técnicas y del Notariado y a la Dirección del Registro Público de la Propiedad, le informen por escrito, dentro de un plazo que no excederá de ocho días, si el testamento que le presentan los comparecientes no ha sido revocado o modificado en su caso.
 
-#### SECCION CUARTA. TESTAMENTO PRIVADO
+#### SECCION SEGUNDA. TESTAMENTO PUBLICO CERRADO
 
 ###### ARTICULO 609.
 
@@ -4465,13 +4505,7 @@ Enseguida, firmarán al margen del testamento las personas que hayan intervenido
 
 Si se presentaren dos o más testamentos cerrados, de una misma persona, sean de igual o diversa fecha, el Juez procederá respecto a cada uno de ellos como se previene en esta sección y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2628 y 2630 del Código Civil.
 
-#### SECCION QUINTA. TESTAMENTO PUBLICO SIMPLIFICADO
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 616 A.- No es necesaria la declaración judicial, cuando todos los legatarios instituidos en un testamento público simplificado sean capaces al momento de la delación y sean conformes con la tramitación extrajudicial, caso en el cual los herederos, exhibiendo la partida de defunción del testador y un testimonio del testamento, podrán presentarse ante un notario manifestándole que reconocen la validez de éste, la capacidad y derechos hereditarios de las personas instituidas y su voluntad unánime de que se tramite la testamentaría, designando en el acto, si no lo hubiere, al albacea o pidiéndole llame, si no estuviere presente, al testamentario.
-
-El Notario autorizante en todo caso deberá pedir a la Dirección Estatal del Notariado y a la Dirección del Registro Público de la Propiedad, le informen por escrito, dentro de un plazo que no excederá de ocho días, si el testamento que le presentan los comparecientes no ha sido revocado o modificado en su caso.
+#### SECCION TERCERA. TESTAMENTO OLOGRAFO
 
 ###### ARTICULO 612.
 
@@ -4485,7 +4519,7 @@ Recibido el sobre, procederá el Tribunal como se dispone en el artículo 2695 d
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
-#### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
+#### SECCION CUARTA. TESTAMENTO PRIVADO
 
 ###### ARTICULO 615.
 
@@ -4503,7 +4537,13 @@ Recibidas las declaraciones, se procederá conforme al artículo 2709 del Códig
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-#### SECCION SEGUNDA. LITISPENDENCIA
+#### SECCION QUINTA. TESTAMENTO PUBLICO SIMPLIFICADO
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+
+ARTICULO 616 A.- No es necesaria la declaración judicial, cuando todos los legatarios instituidos en un testamento público simplificado sean capaces al momento de la delación y sean conformes con la tramitación extrajudicial, caso en el cual los herederos, exhibiendo la partida de defunción del testador y un testimonio del testamento, podrán presentarse ante un notario manifestándole que reconocen la validez de éste, la capacidad y derechos hereditarios de las personas instituidas y su voluntad unánime de que se tramite la testamentaría, designando en el acto, si no lo hubiere, al albacea o pidiéndole llame, si no estuviere presente, al testamentario.
+
+El Notario autorizante en todo caso deberá pedir a la Dirección Estatal del Notariado y a la Dirección del Registro Público de la Propiedad, le informen por escrito, dentro de un plazo que no excederá de ocho días, si el testamento que le presentan los comparecientes no ha sido revocado o modificado en su caso.
 
 ### CAPITULO V. TRAMITACION ANTE NOTARIO
 
@@ -4553,21 +4593,19 @@ Formarán artículo de previo y especial pronunciamiento y por ello impiden el c
 
 La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única que no se convalida.
 
-#### SECCION TERCERA. CONEXIDAD
+#### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
 
 ###### ARTICULO 623.
 
 Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá una multa de hasta veinte días de salario.
 
-#### SECCION CUARTA. FALTA DE PERSONALIDAD
+#### SECCION SEGUNDA. LITISPENDENCIA
 
 ###### ARTICULO 624.
 
 La litispendencia podrá plantearse cuando un Juez conoce ya de un mismo asunto. El que la haga valer debe señalar el juzgado donde se tramita el primer juicio; si se declara procedente, se remitirán los autos al juzgado que primero conoció del asunto cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluído el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación o en diversa instancia.
 
-#### SECCION QUINTA. DECLINATORIA DE JURISDICCION
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+#### SECCION TERCERA. CONEXIDAD
 
 ###### ARTICULO 625.
 
@@ -4583,9 +4621,7 @@ II.- Cuando se trata de juicios especiales; y
 
 III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
 
-#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
-
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 644], P.O. 9 DE DICIEMBRE DE 2000)
+#### SECCION CUARTA. FALTA DE PERSONALIDAD
 
 ###### ARTICULO 627.
 
@@ -4601,9 +4637,9 @@ Similar trámite seguirá la falta de legitimación pasiva que en su defensa ale
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+#### SECCION QUINTA. DECLINATORIA DE JURISDICCION
 
-(SE RECORRE EN SU ORDEN [N. DE E. ANTES 650], P.O. 9 DE DICIEMBRE DE 2000)
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 629.
 
@@ -4823,9 +4859,9 @@ En los escritos de agravios y contestación, las partes señalarán domicilio en
 
 (REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
 
-#### SECCION TERCERA. SUBSTANCIACION
+#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 644], P.O. 9 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 645.
 
@@ -4897,6 +4933,10 @@ En los juicios relativos a cuestiones no pecuniarias, el señalamiento quedará 
 
 (REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
 
+#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+
+(SE RECORRE EN SU ORDEN [N. DE E. ANTES 650], P.O. 9 DE DICIEMBRE DE 2000)
+
 ###### ARTICULO 651.
 
 Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan en contra de:
@@ -4932,6 +4972,10 @@ XI.- Resoluciones dictadas en incidentes de liquidación o similares.
 La apelación admitida en ambos efectos suspende desde luego la ejecución de las resoluciones recurridas y entretanto se decide, solo podrán dictarse las que se refieran a la administración, custodia y conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no versare sobre uno de estos actos.
 
 (REUBICADA, P.O. 9 DE DICIEMBRE DE 2000)
+
+#### SECCION TERCERA. SUBSTANCIACION
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 653.
 
@@ -5088,3 +5132,7 @@ Artículo Único. El presente decreto entrará en vigor al día siguiente de su 
 P.O. 13 DE OCTUBRE DE 2010.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE JUNIO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
