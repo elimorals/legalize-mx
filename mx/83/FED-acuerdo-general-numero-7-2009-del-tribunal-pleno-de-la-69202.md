@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-7-2009-del-tribunal-pleno-de-la-69202"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-07-17"
-last_updated: "2011-03-14"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69202&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-07-13"
 
 ACUERDO GENERAL NUMERO 7/2009, DE SEIS DE JULIO DE DOS MIL NUEVE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SUBSISTE EL ANALISIS DE CONSTITUCIONALIDAD DEL ARTICULO OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL SEIS DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE (MONTO ACUMULADO EN LA SUBCUENTA DE VIVIENDA A PARTIR DEL CUARTO BIMESTRE DE MIL NOVECIENTOS NOVENTA Y SIETE)
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 6/2011, DE 8 DE JUNIO DE 2011, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DEL DICTADO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SUBSISTE EL ANALISIS DE CONSTITUCIONALIDAD DEL ARTICULO OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE DE ENERO 1997 (MONTO ACUMULADO EN LA SUBCUENTA DE VIVIENDA A PARTIR DEL CUARTO BIMESTRE DE 1997); RELACIONADO CON EL DIVERSO 7/2009, DE 6 DE JULIO DE 2009, MODIFICADO MEDIANTE INSTRUMENTOS NORMATIVOS DE 18 DE OCTUBRE DE 2010, Y DE 3 DE MARZO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de julio de 2009.
 
@@ -88,3 +90,9 @@ D.O.F. 14 DE MARZO DE 2011.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 7/2009 en dichos medios electrónicos.
+
+D.O.F. 8 DE JUNIO DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
