@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2010-11-19"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -753,25 +753,25 @@ La creación jurídica del nuevo Municipio se llevará a cabo mediante la modifi
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 III. Aprobar en forma anual:
 
 a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-b). La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; asimismo, podrá autorizar en dicha Ley las partidas necesarias para cumplir con las obligaciones derivadas de los Proyectos de Prestación de Servicios, durante la vigencia de los mismos; y
+b). La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior. Asimismo, deberá autorizar en dicha ley las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de empréstitos, proyectos de infraestructura y contratos de colaboración público privada que se celebren con la previa autorización del H. Congreso del Estado, durante la vigencia de los mismos; las erogaciones y partidas correspondientes deberán incluirse en las subsecuentes leyes de presupuesto de egresos del Estado y tendrán éstas preferencia, conjuntamente con las prestaciones sociales, respecto de otras previsiones de gasto, siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado;
 
 c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-III Bis.- Expedir la ley que regula las acciones relativas a la planeación, aprobación, contratación y ejecución de los Proyectos de Prestación de Servicios.
+III. bis. Establecer, mediante la expedición de una ley, las bases conforme a las cuales el Ejecutivo Estatal y los HH. Ayuntamientos podrán celebrar contratos de colaboración público privada que, en términos de la legislación aplicable, implique obligaciones que constituyan deuda pública.
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-III Ter.- Aprobar los Proyectos de Prestación de Servicios conforme a la legislación aplicable. Asimismo, autorizar la afectación de los ingresos que de conformidad con la legislación aplicable sean susceptibles de afectación, para el cumplimiento de las obligaciones derivadas de los Proyectos de Prestación de Servicios y de los empréstitos.
+III. ter. Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al Ejecutivo estatal y a los HH. Ayuntamientos, la celebración de contratos de colaboración público privada; la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de dichos contratos o de cualesquier otros actos jurídicos relacionados con los mismos; y la celebración de las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
@@ -783,7 +783,13 @@ Expedir la ley que establezca las bases de coordinación en materia de contabili
 
 Expedir los códigos, leyes y decretos que sean necesarios en materias civil, penal, administrativa, fiscal, hacendaria y demás ramas del derecho para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado, los Gobiernos de sus Municipios y los Órganos Constitucionales Autónomos estatales, con estricto respeto a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en lo particular a las que establecen facultades legislativas exclusivas del Congreso General de los Estados Unidos Mexicanos y de sus Cámaras de Senadores y de Diputados;
 
-V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, salvo los casos a que se refiere la fracción VIII del Artículo 117 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+V.- Establecer en ley, observando las prohibiciones y limitaciones previstas por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, las bases conforme a las cuales el Estado, los Municipios y las entidades de la administración pública paraestatal y paramunicipal, podrán contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas, así como fijar en las leyes de ingresos del Estado y de los municipios los conceptos y montos respectivos. Se entenderán como inversiones públicas productivas las erogaciones realizadas para la ejecución de obras, contratación de servicios y adquisición de bienes, así como los gastos para la rehabilitación de bienes que generen un aumento en la capacidad o vida útil de los mismos, siempre que con la operación de dichos activos se generen directa o indirectamente recursos monetarios suficientes para cubrir los financiamientos respectivos.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+V. bis.- Autorizar, conforme a las bases establecidas en la ley, al Ejecutivo Estatal y a los HH. Ayuntamientos, la contratación de empréstitos o créditos para la afectación como fuente o garantía de pago, o en cualquier otra forma, de los ingresos que les correspondan o, en su caso, de los derechos al cobro derivados de los mismos, respecto al cumplimiento de todo tipo de obligaciones o empréstitos y las demás modalidades y actos jurídicos que, en términos de lo previsto por la misma, la requieran.
 
 VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuír sus emolumentos;
 
@@ -827,7 +833,7 @@ XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustit
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2000)</small>
 
-XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
+XIX. Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -861,7 +867,7 @@ XXIII.- Conocer de los procedimientos en materia de juicio político;
 
 XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
 
-XXV.- Dictar resoluciones económicas relativas a su régimen interior;
+XXV. Dictar resoluciones económicas relativas a su régimen interior;
 
 XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su seno;
 
@@ -897,13 +903,7 @@ XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento 
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
-
-XXXV. Determinar en la ley los supuestos conforme a los cuales los Ayuntamientos requieran el acuerdo favorable de las dos terceras partes de sus integrantes para:
-
-a) Emitir resoluciones que impliquen la transmisión de dominio de inmuebles de propiedad municipal;
-
-b) Realizar actos jurídicos para crear, modificar o extinguir obligaciones a cargo del Municipio que trasciendan al período de gestión del Ayuntamiento;
+XXXV. (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -916,6 +916,16 @@ XXXVII. Expedir las normas de carácter general para celebrar los convenios a qu
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 XXXVIII.- Las demás que le asigne esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ellas emanen.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 54 Bis.
+
+El H. Congreso del Estado recibirá para su examen, discusión y aprobación a más tardar el 19 de noviembre de cada año, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente y, a más tardar el 30 de noviembre de cada año, las iniciativas de Ley de Ingresos de los Municipios. Cuando el Gobernador del Estado inicie su encargo en la fecha prevista en el Artículo 63 de esta Constitución, deberá entregar las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado a más tardar el día 30 de noviembre de ese año, aunque podrá solicitar una prórroga de hasta cinco días naturales para su entrega al H. Congreso. El H. Congreso del Estado deberá aprobar la Ley de Ingresos y la Ley de Presupuesto de Egresos del Estado y las leyes de ingresos municipales a más tardar el 20 de diciembre de cada año. Los HH. Ayuntamientos deberán aprobar anualmente sus presupuestos de egresos para el siguiente ejercicio fiscal, previo examen, discusión y, en su caso, modificación del proyecto que someta a su consideración el Presidente Municipal a más tardar el día 31 de diciembre de cada año, considerando los ingresos autorizados por el H. Congreso del Estado en la Ley de Ingresos Municipal correspondiente.
+
+Al aprobar el H. Congreso la Ley de Presupuesto de Egresos del Estado, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, de las dependencias estatales y de las entidades de la administración pública paraestatal derivadas de empréstitos y de contratos de colaboración público privada, celebrados o por celebrarse con autorización del H. Congreso del Estado, durante la vigencia de los mismos. Las leyes estatales proveerán lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+
+Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Estado o de los municipios, así como la Ley de Presupuesto de Egresos del Estado correspondientes a un determinado ejercicio fiscal, se tendrán por prorrogadas las leyes respectivas vigentes al finalizar el año anterior, hasta en tanto se aprueben las nuevas y entren en vigor. En este caso, si la Ley de Presupuesto de Egresos del Estado que se prorrogue corresponde a un año electoral, no serán aplicables las partidas que se hubieren autorizado por tal motivo, sino, únicamente, las que se hubieren incluido para el normal funcionamiento de los partidos políticos y las instituciones electorales. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales se hubiesen previsto montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1197,11 +1207,37 @@ XXIX.- Promover la inversión de todos los sectores de acuerdo con el programa d
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-XXX.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y
+XXX.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y (sic)
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-XXXI.- Todas las demás atribuciones y obligaciones que se le confieren por la Constitución Federal, por esta Constitución y por las leyes que de ellas emanen.
+XXXI. Previa autorización del H. Congreso del Estado, contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que establezca el Congreso del Estado en la ley respectiva;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXII. Constituir al Estado, previa autorización del H. Congreso, en garante, avalista, deudor solidario, subsidiario o sustituto en los casos previstos en las leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXIII. Previa autorización del H. Congreso, celebrar contratos de colaboración público privada conforme a las bases que establezca el Congreso del Estado en la ley aplicable;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXIV. Previa autorización del H. Congreso del Estado, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada o de cualesquier otros actos jurídicos relacionados con los mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXV. Presentar anualmente al H. Congreso del Estado, dentro del plazo previsto en el primer párrafo del Artículo 57 bis de esta Constitución, para su examen, discusión y aprobación, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente.
+
+El Ejecutivo Estatal deberá incluir anualmente, dentro de la iniciativa de Ley de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, las dependencias estatales y las entidades de la administración pública paraestatal, derivadas de empréstitos y de contratos de colaboración público privada;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXVI. Informar anualmente al H. Congreso del Estado sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y la situación de la deuda pública estatal, al rendir la cuenta pública, e incluir información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de ingresos como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XXXVII. Todas las demás atribuciones y obligaciones que se le confieren por la Constitución Federal, por esta Constitución y por las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1639,7 +1675,7 @@ II.- Entregar al Congreso del Estado los informes del resultado de la revisión 
 
 Para tal efecto, de manera previa a la presentación del informe del resultado se darán a conocer a las entidades fiscalizadas los pliegos de observaciones que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado, para la elaboración del informe del resultado de la revisión de las Cuentas Públicas.
 
-El titular de la Auditoría Superior del Estado enviara el informe del resultado a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que éste sea entregado al Congreso, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, de acuerdo con lo previsto en la ley. Lo anterior, no aplicará a los procedimientos de fincamiento de responsabilidades resarcitorias y administrativas así como a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+El titulaR de la Auditoría Superior del Estado enviara el informe del resultado a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que éste sea entregado al Congreso, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, de acuerdo con lo previsto en la ley. Lo anterior, no aplicará a los procedimientos de fincamiento de responsabilidades resarcitorias y administrativas así como a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
 La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre la información y las consideraciones recibidas de las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones.
 
@@ -1811,27 +1847,39 @@ c) Imponer contribuciones que no estén especificadas en las leyes fiscales del 
 
 Los municipios tendrán derecho para adquirir, poseer y administrar bienes inmuebles. Los actos traslativos de dominio y las concesiones que respecto de ellos se otorguen se sujetarán a los requisitos y formalidades que establece esta Constitución, los que determine la ley y los que establezcan los reglamentos municipales.
 
-Los municipios podrán contratar empréstitos con apego a las disposiciones de la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+Los HH. Ayuntamientos estarán facultados para, previa autorización del H. Congreso del Estado, contratar empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que, en términos de lo dispuesto por el Artículo 117 fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, establezca el H. Congreso del Estado en la ley respectiva.
 
-ARTICULO 107,- Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-En el mes de noviembre de cada año, presentarán al Congreso del Estado sus proyectos de ley de Ingresos para que, aprobados que sean por éste, entren en vigor para el siguiente año.
+De la misma forma, estarán facultados para, previa autorización del H. Congreso del Estado, celebrar contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, y otorgar garantías y avales, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Municipio o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de colaboración público privada que, en términos de la legislación aplicable, impliquen obligaciones que constituyan deuda pública, o de cualesquier otros actos jurídicos relacionados con los mismos.
 
-Los presupuestos de egresos de los municipios serán aprobados por los Ayuntamientos conforme a sus ingresos disponibles.
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
 
-Los ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo a las normas que determine la ley y con observancia de lo previsto en el artículo 121 de esta Constitución.
+Asimismo, podrán celebrar, conforme a sus reglamentos y previa autorización del H. Ayuntamiento y del H. Congreso del Estado, respectivamente, contratos de colaboración público privada que, en términos de la legislación aplicable, no impliquen obligaciones que constituyan deuda pública.
 
-Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal, corresponderá a las autoridades que determine la ley aplicable.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 107.
 
-Los ámbitos de competencia del Gobierno del Estado y los Gobiernos de los Municipios serán los que determinen la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ambas emanen.
+Los HH. Ayuntamientos, en el ámbito de sus competencias, propondrán al H. Congreso del Estado las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+A más tardar el 30 de noviembre de cada año, los HH. Ayuntamientos deberán presentar al H. Congreso del Estado las iniciativas de Leyes de Ingresos Municipales correspondientes, para que, aprobadas que sean por éste, entren en vigor para el siguiente año.
+
+Los HH. Ayuntamientos deberán informar anualmente al H. Congreso sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y sobre la situación de la deuda pública municipal, al rendir la cuenta pública e incluirán información detallada sobre los contratos de colaboración público privada en vigor y sobre la afectación de ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso.
+
+Los HH. Ayuntamientos aprobarán los presupuestos de egresos con base en sus ingresos disponibles. Asimismo, deberán autorizar en sus presupuestos de egresos las erogaciones plurianuales necesarias para cubrir obligaciones derivadas de empréstitos y de contratos de colaboración público privada que celebren con la previa autorización del H. Congreso del Estado; las erogaciones y partidas correspondientes deberán incluirse en los subsecuentes presupuestos de egresos, teniendo preferencia junto con las previsiones sociales y respecto de otras previsiones de gasto, siempre y cuando no se cause perjuicio a la viabilidad financiera de los Municipios y se respeten los procedimientos establecidos en los diversos ordenamientos legales que guarden relación con la autonomía municipal
+
+En todo caso, al aprobar los HH. Ayuntamientos los presupuestos de egresos de los municipios, deberán incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo de los municipios, las dependencias municipales y las entidades de la administración pública paramunicipal, derivadas de empréstitos y de contratos de colaboración público privada que, en términos de la legislación aplicable, constituyan deuda pública, celebrados con autorización del H. Congreso del Estado, durante la vigencia de los mismos. La Ley Orgánica de los Municipios del Estado de Campeche proveerá lo necesario para garantizar la inclusión de dichas partidas en todos los casos.
+
+Cuando existiendo deuda pública a su cargo, por cualquier circunstancia, algún H. Ayuntamiento no apruebe el presupuesto de egresos del Municipio, se tendrá por prorrogado el presupuesto respectivo vigente al finalizar el año anterior, hasta en tanto se apruebe el nuevo y entre en vigor.
+
+Los HH. Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo con las normas que determine la ley y con observancia a lo previsto en el artículo 121 de esta Constitución.
+
+Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal corresponderán a las autoridades que determine la ley aplicable.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 108.
 
@@ -1841,7 +1889,9 @@ Las leyes a que se refiere el párrafo anterior establecerán:
 
 a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación para dirimir las controversias que se susciten entre aquella y los particulares, sujetándolos a los principios de igualdad, publicidad, audiencia y legalidad.
 
-b) Los supuestos en que sea exigible el acuerdo de las dos terceras partes de los integrantes del Ayuntamiento tratándose de actos que afecten el patrimonio inmobiliario municipal o cuando los efectos de dichos actos trasciendan al período que corresponda al Ayuntamiento.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros del H. Ayuntamiento, por tratarse de actos que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al municipio por un plazo mayor al periodo del H. Ayuntamiento.
 
 c) Las bases generales para la celebración de los convenios previstos en la Constitución Política de los Estados Unidos Mexicanos en sus artículos 115, fracciones III y IV, así como 116, fracción VII en su segundo párrafo.
 
@@ -1909,11 +1959,9 @@ Ningún individuo podrá desempeñar a la vez dos cargos de elección popular, c
 
 Los funcionarios rendirán la protesta ante quien corresponda en la siguiente forma: "La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ……. que el Estado os ha conferido?". El interrogado contestará; "Sí, protesto". Acto continuo la misma autoridad que tome la protesta, dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2001)</small>
-
 ###### ARTICULO 119.
 
-Todos los servidores públicos del Estado y de los Municipios, de elección popular y por nombramiento, percibirán una remuneración adecuada e irrenunciable por sus servicios, la cual no podrá ser disminuida durante el tiempo de su encargo y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señala la ley de la materia.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1921,23 +1969,33 @@ Todos los servidores públicos del Estado y de los Municipios, de elección popu
 
 Los funcionarios o empleados públicos que aceptaren su encargo faltándoles algunos de los requisitos que se señalan en esta Constitución, serán suspensos en el ejercicio de sus derechos de ciudadanos por un año.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 121.
 
-Los sueldos o remuneraciones de los servidores públicos y todos los demás gastos estatales y municipales, se fijarán anualmente en la Ley de Presupuesto de Egresos del Estado y en el Presupuesto de Egresos del correspondiente Municipio. Ningún pago por esos conceptos podrá hacerse si no está comprendido en dicha ley o presupuesto, o es aprobado previa y expresamente por el Congreso o el Cabildo respectivo, en su caso. Para la fijación de esos sueldos o remuneraciones siempre se tendrá en consideración:
+Los sueldos o remuneraciones de los servidores públicos y todos los demás gastos estatales y municipales se fijarán anualmente en la Ley de Presupuesto de Egresos del Estado y en el Presupuesto de Egresos del correspondiente municipio.
 
-a) Las funciones, el grado de responsabilidad y la productividad que correspondan al cargo, empleo o comisión del servidor público;
+Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, la cual no podrá ser disminuida durante el tiempo de su encargo, que deberá ser proporcional a sus responsabilidades y tendrán derecho a disfrutar de los beneficios de seguridad y servicios sociales que señale la ley de la materia.
 
-b) La existencia de una lógica y racional proporción entre su monto y los ingresos directos del erario a cuyo cargo se solventen;
+Dicha remuneración será determinada sobre las siguientes bases:
 
-c) Que ningún servidor público podrá percibir sueldo o remuneración por cantidad mayor a la de su superior jerárquico inmediato; y
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-d) Procurar que ningún sueldo o remuneración sea superior o igual al que corresponda al depositario del ejercicio del Poder Ejecutivo del Estado.
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor o igual a la establecida para el titular del Poder Ejecutivo del Estado y, a su vez, la remuneración de dicho funcionario no podrá ser mayor a la del Presidente de la República en el presupuesto correspondiente.
 
-No podrán establecerse retribuciones económicas de manera discrecional, cualquiera que sea su denominación.
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
-La Auditoría Superior del Estado tendrá a su cargo vigilar el debido cumplimiento de lo preceptuado por este artículo.
+IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+V. El H. Congreso del Estado, en el ámbito de su competencia, expedirá las leyes para hacer efectivo el contenido del presente artículo y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en el mismo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 121 Bis.
+
+Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servicios de cualquier naturaleza, incluidos los derivados de contratos de colaboración público privada, y la contratación de obra que realicen el Estado, los municipios, la administración pública paraestatal y paramunicipal y los demás entes públicos, se realizarán ajustándose a la modalidad que señale al respecto la ley en la materia, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes. Las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el interés público.
+
+Tratándose de contratos de naturaleza administrativa, podrá convenirse compromiso arbitral respecto de aquellas controversias que puedan ser objeto del mismo, en términos de lo que se establezca en las leyes respectivas.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2522,3 +2580,9 @@ P.O. 28 DE SEPTIEMBRE DE 2010.
 P.O. 19 DE NOVIEMBRE DE 2010.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2011.
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
