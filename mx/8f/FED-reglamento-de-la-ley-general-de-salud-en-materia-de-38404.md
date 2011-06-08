@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-38404"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2008-11-13"
+last_updated: "2011-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38404&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-03-30"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PROTECCION SOCIAL EN SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de abril de 2004.
 
@@ -205,9 +205,11 @@ Para garantizar el carácter integral de los servicios, los Regímenes Estatales
 
 Como parte sustancial de los beneficios del Sistema, la Comisión, en coordinación con los Regímenes Estatales, promoverá una política de medicamentos tendiente a reducir los costos de adquisición, favorecer sistemas eficientes de abasto y reposición de medicamentos y el uso racional de los mismos en la prescripción y consumo en los establecimientos para la atención médica del Sistema. A tal efecto, los Regímenes Estatales y los establecimientos para la atención médica del Sistema celebrarán los convenios de gestión oportunos e implantarán programas de capacitación al personal.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 20.
 
-Los Regímenes Estatales asignarán cada familia beneficiaria a un centro de salud, así como un médico de familia, para su atención primaria y en caso de existir más de una opción se les brindará la facilidad de elegir su unidad de adscripción o su médico de familia.
+Los Regímenes Estatales asignarán a cada familia beneficiaria a un centro de salud para su atención primaria y en caso de existir más de una opción, se les brindará la facilidad de elegir su unidad de adscripción.
 
 ###### Artículo 21.
 
@@ -219,53 +221,77 @@ Los Regímenes Estatales podrán celebrar convenios para la utilización de infr
 
 #### SECCIÓN SEGUNDA. DE LA ACREDITACIÓN DE CAPACIDAD, SEGURIDAD Y CALIDAD
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 23.
 
-Para brindar certidumbre respecto a la capacidad, seguridad y calidad en la prestación de los servicios del Sistema, los establecimientos para la atención de servicios esenciales, requerirán de la acreditación correspondiente en los términos del artículo 77 Bis 9 de la Ley. Así mismo, los prestadores de los servicios cubiertos por el Fondo de Protección contra Gastos Catastróficos requerirán de la certificación establecida en el artículo 77 Bis 30 de la Ley. Lo anterior, sin menoscabo del cumplimiento de otras disposiciones jurídicas y reglamentarias aplicables en la materia.
+Para brindar certidumbre respecto a la calidad, que incluye capacidad y seguridad, en la prestación de los servicios del Sistema, los establecimientos prestadores de servicios de atención médica requerirán de la acreditación correspondiente en los términos de los artículos 77 Bis 9 de la Ley y 25 de este Reglamento. Lo anterior, sin menoscabo del cumplimiento de otras disposiciones jurídicas y reglamentarias aplicables en la materia.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 24.
 
-Para los efectos del artículo anterior, los prestadores de servicios esenciales y de los servicios cubiertos por el Fondo de Protección contra Gastos Catastróficos deberán sujetarse a los requerimientos definidos por la Secretaría en los términos de la Ley, de este Reglamento y de los lineamientos correspondientes para la acreditación y certificación de su calidad, sin menoscabo del cumplimiento de otras disposiciones jurídicas y reglamentarias aplicables en la materia.
+Los prestadores de servicios esenciales y de los servicios cubiertos por el Fondo de Protección contra Gastos Catastróficos deberán sujetarse a los requerimientos definidos por la Secretaría en los términos de la Ley, de este Reglamento y del Manual de Acreditación, sin menoscabo del cumplimiento de otras disposiciones jurídicas y reglamentarias aplicables en la materia.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 25.
 
-La acreditación se documentará mediante el dictamen correspondiente y constituirá un requisito previo para que los prestadores de servicios sean incorporados al Régimen Estatal. Mediante la acreditación se busca minimizar los riesgos a la salud por condiciones inseguras en la operación de los mismos, así como corroborar condiciones fundamentales de gestión y resultados de calidad.
+La acreditación se documentará mediante el dictamen correspondiente, el cual será favorable si cumple con la calidad a que se refiere el artículo 23 del presente Reglamento y constituirá un requisito previo para que los prestadores de servicios de atención médica sean incorporados al Sistema.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 26.
 
-La acreditación es el resultado de un procedimiento de evaluación inicial de las condiciones bajo las cuales se ejerce la práctica médica con la cual los establecimientos para la atención médica otorgan los servicios esenciales cubiertos por el Sistema. La Secretaría emitirá el Manual para la Acreditación de Capacidad, Seguridad y Calidad para la aplicación del proceso de evaluación correspondiente.
+La acreditación es el resultado de un procedimiento de evaluación inicial de las condiciones bajo las cuales se ejerce la práctica médica con la cual los establecimientos prestadores de servicios de atención médica otorgan los servicios cubiertos por el Sistema. La Secretaría emitirá el Manual para la Acreditación para la aplicación del proceso de evaluación correspondiente.
 
 ###### Artículo 27.
 
 Para que un establecimiento de atención a la salud sea incorporado como prestador del Sistema, deberá contar con el dictamen de acreditación que emita la Secretaría, como consecuencia de la aplicación del proceso de evaluación que se establezca en el manual a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 28.
 
-La Comisión tendrá la capacidad de verificar el alcance en los programas de acreditación y revisará anualmente el cumplimiento de las condiciones en materia de acreditación en las que se encuentren los establecimientos incorporados al Sistema.
+La Comisión establecerá prioridades para la acreditación de prestadores de servicios de atención médica del Sistema y tendrá la capacidad de verificar el alcance de dicha acreditación.
 
-El Manual para la Acreditación de Capacidad, Seguridad y Calidad a que se refiere el artículo 26 contendrá los lineamientos para la acreditación de los establecimientos para la atención médica en los que se especificará, adicionalmente a lo estipulado en el artículo 77 Bis 9 de la Ley, al menos lo relacionado con lo siguiente:
+El Manual para la Acreditación a que se refiere el artículo 26 contendrá los lineamientos para la acreditación de los establecimientos prestadores de servicios de atención médica en los que se especificará, adicionalmente a lo estipulado en el artículo 77 Bis 9 de la Ley, al menos lo relacionado con lo siguiente:
 
-I. Prestación de servicios para la prevención y promoción de la salud durante la línea de vida, conforme a la normatividad y lineamientos técnicos vigentes en la materia;
+I. Procedimiento para la obtención del dictamen de acreditación de los establecimientos prestadores de servicios de atención médica que atienden servicios esenciales y los cubiertos por el Fondo de Protección contra Gastos Catastróficos;
 
-II. Operación y promoción del Sistema de Cartillas Nacionales de Salud, con base en los Decretos Presidenciales publicados en el Diario Oficial de la Federación del 24 de diciembre del 2002 y del 28 de febrero del 2003;
+II. Requisitos de mejora continua que habrán de cumplir las unidades para renovar la acreditación durante el procedimiento de reacreditación;
 
-III. Impulso progresivo a la certificación de competencias profesionales del personal;
+III. Procedimiento en caso de dictamen no favorable, así como el contenido mínimo del Plan de Contingencia;
 
-IV. Condiciones para la permanencia en el Sistema de un prestador de servicios;
+IV. Procedimiento de supervisión y suspensión de la acreditación;
 
-V. Requerimientos para los establecimientos que complementariamente desarrollen procesos de formación y actualización médica, y
+V. Los criterios mayores y las características de las cédulas de evaluación que aplicarán en el procedimiento de acreditación de los establecimientos prestadores de servicios de atención médica.
 
-VI. Procedimiento en caso de resultados desfavorables.
+Para efectos de lo dispuesto en esta fracción, los criterios mayores estarán basados en requisitos esenciales que al incumplirse podrán impedir el seguimiento de la evaluación respectiva, y
+
+VI. El perfil técnico que tendrá el personal para realizar el proceso de acreditación y supervisión.
 
 ###### Artículo 29.
 
 En caso de que el resultado de la evaluación genere un dictamen no favorable o condicionado, el establecimiento para la atención médica será informado acerca de los criterios no cumplidos a efecto de que éstos sean resueltos por la instancia correspondiente y pueda solicitar una nueva evaluación en el momento en que pueda cumplir las condiciones de capacidad, seguridad y calidad establecidas como mínimas, con la condición de elaborar y aplicar un plan de contingencia avalado por el titular de los Servicios Estatales de Salud.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+###### Artículo 29 Bis.
+
+Cuando un establecimiento prestador de servicios de atención médica puso en riesgo la seguridad de los beneficiarios del Sistema o trabajadores de salud, o haya incumplido los requerimientos de la acreditación, la Secretaría lo hará del conocimiento del prestador de servicios, para que en el término de veinte días hábiles presente lo que a su derecho convenga.
+
+Si derivado de las actuaciones a que se refiere el párrafo anterior, se demuestra el incumplimiento de los requerimientos de la acreditación, la Secretaría suspenderá la acreditación al establecimiento prestador de servicios de atención médica, comunicándolo a la Comisión.
+
+Los establecimientos médicos tendrán un plazo de seis meses para solventar los incumplimientos por los cuales se suspenda la acreditación a que se refiere este artículo.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 30.
 
-De conformidad con el Artículo 77 Bis 38 de la Ley, los beneficiarios deberán participar en el autocuidado de su salud, por lo cual al incorporarse al Sistema recibirán la Cartilla Nacional de Salud que les corresponda, de acuerdo con su edad y sexo, misma que deberán presentar en toda atención de salud que soliciten.
+De conformidad con el artículo 77 Bis 38 de la Ley, los beneficiarios deberán cuidar de su salud, por lo cual al incorporarse al Sistema recibirán la Cartilla Nacional de Salud que les corresponda, de acuerdo con su edad y sexo, en caso contrario podrán exigirla, misma que deberán presentar en toda atención de salud que soliciten.
 
-En el caso de la atención de urgencias, la falta de presentación de la Cartilla Nacional de Salud no podrá ser motivo para negar la atención médica.
+La falta de presentación de la Cartilla Nacional de Salud no podrá ser motivo para negar la atención médica.
 
 #### SECCIÓN TERCERA. DEL PLAN MAESTRO DE INFRAESTRUCTURA
 
@@ -339,13 +365,15 @@ Al ser incorporados al Sistema, los beneficiarios tendrán los derechos que deri
 
 ### CAPÍTULO II. DE LOS REQUISITOS Y EL PROCESO DE INCORPORACIÓN
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 41.
 
-Con la incorporación al Sistema, los beneficiarios recibirán la Credencial Única de Beneficiario del Sistema, expedida por los Regímenes Estatales bajo los lineamientos que para el efecto emita la Comisión.
+Con la incorporación al Sistema, los beneficiarios recibirán la credencial a que se refiere la fracción II del artículo 77 Bis 38 de la Ley, entendiéndose por ésta cualquier documento y/o mecanismo que los acredite como beneficiarios del Sistema, expedido por los Regímenes Estatales bajo los lineamientos que para tal efecto emita la Comisión.
 
-La Credencial Única de Beneficiario del Sistema servirá para identificar al beneficiario como afiliado al Sistema y para comprobar su vigencia de derechos y le permitirá el acceso pleno a todos los servicios cubiertos por el Sistema.
+El documento y/o mecanismo a que se refiere el párrafo anterior, servirá para identificar al beneficiario como afiliado al Sistema y para comprobar su vigencia de derechos y le permitirá el acceso pleno a todos los servicios cubiertos por el Sistema.
 
-Así mismo, y como parte de la incorporación al Sistema, previa asignación a un centro de salud, así como a un médico de familia, cada uno de los beneficiarios recibirá la Cartilla Nacional de Salud a que se refiere el artículo 30 de este Reglamento.
+Como parte de la incorporación al Sistema, previa asignación a un centro de salud, así como un médico, cada uno de los beneficiarios podrá requerir y obtener en su oportunidad, la Cartilla Nacional de Salud a que se refiere el artículo 30 de este Reglamento.
 
 ###### Artículo 42.
 
@@ -375,15 +403,13 @@ Los Regímenes Estatales serán responsables de verificar la información propor
 
 ### CAPÍTULO III. DE LA VIGENCIA DE DERECHOS
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 44.
 
-El inicio de vigencia de derechos del Sistema para los beneficiarios comenzará a partir del primer día del mes calendario siguiente a la fecha de incorporación, contemplando doce meses calendario de vigencia.
+El inicio de vigencia de derechos del Sistema para los beneficiarios comenzará el mismo día de su incorporación, contemplando doce meses calendario de vigencia.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-La Secretaría mediante disposiciones de carácter general que se publiquen en el Diario Oficial de la Federación, podrá establecer, para el inicio de la vigencia de derechos de los beneficiarios del Sistema, un término menor al señalado en el primer párrafo de este artículo cuando así se requiera para el adecuado cumplimiento de las funciones a su cargo o para la correcta operación del Sistema.
-
-La vigencia de derechos podrá ser constatada en las unidades prestadoras de servicios mediante la Credencial Única de Beneficiario del Sistema o por los instrumentos que determine la Comisión como válidos para tales efectos y que formen parte del proceso de incorporación al Sistema.
+La vigencia de derechos podrá ser constatada en las unidades prestadoras de servicios mediante el documento o mecanismo a que se refiere el artículo 41 de este Reglamento o por los instrumentos que determine la Comisión como válidos para tales efectos y que formen parte del proceso de incorporación al Sistema.
 
 ###### Artículo 45.
 
@@ -395,7 +421,9 @@ La falta de pago de la cuota familiar durante el periodo de vigencia anual ocasi
 
 La Comisión determinará la procedencia y aplicación de los supuestos de cancelación de los beneficios del Sistema a que se refiere el artículo 77 Bis 40 de la Ley.
 
-Para efectos de lo establecido en la fracción III del artículo 77 Bis 40 de la Ley, se hará uso del dictamen de cotejo de padrones a que se refiere el artículo 52 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+Para efectos de lo establecido en la fracción III del artículo 77 Bis 40 de la Ley, respecto de la derechohabiencia de la seguridad social, se hará uso del dictamen de cotejo de padrones a que se refiere el artículo 52 de este Reglamento.
 
 ###### Artículo 47.
 
@@ -403,7 +431,11 @@ Los beneficiarios del Sistema cuyos derechos hayan sido suspendidos y una vez qu
 
 Las personas a que se refiere el párrafo anterior podrán solicitar nuevamente su incorporación al Sistema dentro de los calendarios que anualmente fije la Comisión y siempre y cuando las causales por las cuales se determinó la suspensión temporal de los derechos para ser beneficiarios del Sistema hayan desaparecido.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 48.
+
+Cuando los Regímenes Estatales tengan conocimiento de que una familia o persona se ubique en alguno de los supuestos de suspensión o cancelación a que se refieren los artículos 77 Bis 39 y 77 Bis 40 de la Ley, deberán informarlo por escrito a la Comisión.
 
 La Comisión, con base en los principios que establecen los artículos 77 Bis 39, 77 Bis 40 y el Título Décimo Octavo de la Ley, así como en lo previsto en la Ley Federal de Procedimiento Administrativo, procederá a la suspensión o cancelación de beneficios.
 
@@ -519,9 +551,11 @@ La terminología a emplear, las clasificaciones de enfermedades, procedimientos 
 
 Corresponde a la Secretaría llevar a cabo los procedimientos de evaluación necesarios para la adecuada prestación de los servicios a que se refiere este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 72.
 
-Se entenderá por evaluación del Sistema al estudio con bases científicas, diseñado específicamente para medir y explicar en qué medida y con qué eficiencia se están alcanzando los objetivos y metas definidas en la operación del Sistema. Los resultados de la evaluación permitirán adecuar las estrategias de operación y la definición de las políticas relacionadas con el Sistema, debiendo contribuir con información para los procesos de transparencia y rendición de cuentas.
+Se entenderá por evaluación del Sistema al estudio con bases científicas, diseñado específicamente para medir y explicar en qué medida y con qué eficiencia se están alcanzando los objetivos y metas definidas en la operación del Sistema. Los resultados de la evaluación permitirán adecuar las estrategias de operación y la definición de las políticas relacionadas con el Sistema, debiendo contribuir con información para los procesos de transparencia y rendición de cuentas, debiendo la Comisión publicar, a través de los medios de comunicación electrónicos, los resultados obtenidos en la evaluación una vez que se cuenten con ellos.
 
 ###### Artículo 73.
 
@@ -537,15 +571,27 @@ III. Participativa, al involucrar a las autoridades de salud de los distintos ó
 
 En la evaluación del Sistema deberán distinguirse las actividades de supervisión y seguimiento del mismo, dado que éstas tendrán por objetivo corregir o adecuar en el momento en que se verifican, las desviaciones de las acciones previamente planteadas. Estas actividades de supervisión y seguimiento quedarán bajo la responsabilidad de la Secretaría, a través de la Comisión, y los gobiernos de las entidades federativas, a través de los Regímenes Estatales, en los ámbitos federal y estatal, respectivamente.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+Para efectos de transparencia, la Comisión publicará el desempeño anual de los Regímenes Estatales de acuerdo con las evaluaciones y metas del Sistema.
+
 ###### Artículo 75.
 
 El modelo de evaluación propio del Sistema contará con tres componentes:
 
 I. Financiero, que comprenderá el monitoreo de las aportaciones destinadas al Sistema procedentes tanto del Gobierno Federal como de las entidades federativas y de las familias, el seguimiento de la administración del Fondo de Protección contra Gastos Catastróficos y la previsión presupuestal, así como la evaluación financiera y actuarial anual del Sistema, la cual deberá ser avalada mediante una auditoría externa y cuyo gasto asociado deberá sujetarse al límite que para tales efectos establezca la Secretaría de conformidad con la normatividad aplicable;
 
-II. Gerencial, que tomará en consideración la identificación de las condiciones socioeconómicas de la población objetivo, la definición y el manejo de los recursos, los procesos de credencialización, la eliminación de barreras financieras y organizacionales para el acceso a los servicios, el abasto y el acceso a los medicamentos asociados a los servicios de salud a la persona, así como el trato que reciben los beneficiarios del Sistema en los establecimientos para la atención médica del Sistema, y
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+II. Gerencial, que tomará en consideración la identificación de las condiciones socioeconómicas de la población objetivo, la definición y el manejo de los recursos, los procesos de credencialización, la eliminación de barreras financieras y organizacionales para el acceso a los servicios, el abasto y el acceso a los medicamentos asociados a los servicios de salud a la persona, así como el trato que reciben los beneficiarios del Sistema en los establecimientos para la atención médica del Sistema.
+
+Para efectos de lo dispuesto en esta fracción, se podrá contar con una estimación de riesgos, que considerará factores tales como ciclo económico; fenómenos de migración; evolución del costo de los tratamientos y medicamentos; los costos laborales, y en general cualquier otro factor que afecte la capacidad de los aportantes para cumplir con los objetivos del Sistema, y
 
 III. De impacto en las condiciones de salud y seguridad financiera de las familias beneficiarias, que comprenderá la medición de los cambios en sus condiciones de salud, que deben esperarse una vez desplegadas las intervenciones que provea el Sistema, y los cambios relacionados con la protección contra gastos catastróficos por motivos de salud entre las familias beneficiarias.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+Los Regímenes Estatales deberán entregar la información que les corresponda.
 
 ## TÍTULO CUARTO. DEL FINANCIAMIENTO DEL SISTEMA
 
@@ -565,13 +611,17 @@ La Secretaría y los Regímenes Estatales, a través de la Comisión, determinar
 
 La programación, presupuestación, ejercicio, control y fiscalización de los recursos federales vinculados con el Sistema estará sujeta a lo establecido en los artículos 77 bis 16 y 77 bis 32 de la Ley, en el presente Reglamento y a lo señalado por los diversos ordenamientos aplicables en la materia.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 78.
 
-Con objeto de determinar el monto anual correspondiente a la cuota social, la aportación solidaria federal y la aportación solidaria estatal, para financiar los servicios de salud a la persona cubiertos por el Sistema, el número de familias beneficiarias por entidad federativa se cuantificará anualmente por la Comisión a partir del Padrón vigente al término del año fiscal inmediato anterior, de la proyección de la población beneficiaria potencial, de la capacidad existente para la provisión de los servicios y de las metas de incorporación de familias al Sistema, con criterios de equidad en la distribución de la meta nacional, según se convenga con las entidades federativas en los anexos de los acuerdos de coordinación correspondientes y tomando en consideración la disponibilidad de recursos presupuestarios para el ejercicio fiscal correspondiente.
+Con objeto de determinar el monto anual correspondiente a la cuota social, la aportación solidaria federal y la aportación solidaria estatal, para financiar los servicios de salud a la persona cubiertos por el Sistema, el número de personas beneficiarias por entidad federativa se cuantificará anualmente por la Comisión a partir del Padrón vigente al término del año fiscal inmediato anterior, de la proyección de la población beneficiaria potencial, de la capacidad existente para la provisión de los servicios y de las metas de incorporación de personas al Sistema, con criterios de equidad en la distribución de la meta nacional, según se convenga con las entidades federativas en los anexos de los acuerdos de coordinación correspondientes y tomando en consideración la disponibilidad de recursos presupuestarios para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 79.
 
-Para efectos del artículo 78 de este Reglamento, la Secretaría proporcionará anualmente a la Comisión la información sobre las proyecciones de la población beneficiaria potencial por entidad federativa expresada en número de familias conforme a los criterios metodológicos correspondientes.
+Para efectos del artículo 78 de este Reglamento, la Secretaría proporcionará anualmente a la Comisión la información sobre las proyecciones de la población beneficiaria potencial por entidad federativa expresada en número de personas conforme a los criterios metodológicos correspondientes.
 
 ###### Artículo 80.
 
@@ -597,9 +647,11 @@ La Secretaría proporcionará información relativa al gasto en salud federal y 
 
 #### SECCIÓN SEGUNDA. DE LAS APORTACIONES PARA LOS SERVICIOS DE SALUD A LA PERSONA
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 83.
 
-El monto total de recursos federales correspondientes a la cuota social por familia beneficiaria a que hace referencia el artículo 77 Bis 12 de la Ley será determinado de forma anual conforme a lo establecido en el artículo 78 de este Reglamento.
+El monto total de recursos federales correspondientes a la cuota social por persona beneficiaria a que hace referencia el artículo 77 Bis 12 de la Ley será determinado de forma anual conforme a lo establecido por dicho artículo y por el artículo 78 de este Reglamento.
 
 ###### Artículo 84.
 
@@ -611,9 +663,11 @@ La medición de la aportación solidaria estatal se llevará a cabo conforme a l
 
 La Secretaría deberá publicar en el Diario Oficial de la Federación la metodología, los criterios y los lineamientos a que se hace referencia en el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 86.
 
-Los gobiernos de las entidades federativas promoverán la concordancia en los conceptos y calendarios de los presupuestos estatales con los federales para relacionar los compromisos de recursos con base en el número de familias beneficiarias y la calendarización presupuestal. Para tales efectos, los gobiernos de las entidades federativas enviarán a la Comisión información sobre el presupuesto estatal aprobado por el congreso estatal y la calendarización correspondiente.
+Los gobiernos de las entidades federativas promoverán la concordancia en los conceptos y calendarios de los presupuestos estatales con los federales para relacionar los compromisos de recursos con base en el número de personas beneficiarias y la calendarización presupuestal. Para tales efectos, los gobiernos de las entidades federativas enviarán a la Comisión información sobre el presupuesto estatal aprobado por el congreso estatal y la calendarización correspondiente.
 
 ###### Artículo 87.
 
@@ -669,17 +723,23 @@ El financiamiento de las actividades y servicios considerados en el Fondo de Apo
 
 ### CAPÍTULO II. DEL FONDO DE PROTECCIÓN CONTRA GASTOS CATASTRÓFICOS
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 95.
 
-El Fondo de Protección contra Gastos Catastróficos a que se refieren los artículos 77 bis 17 y 77 bis 29 de la Ley, es un fondo sin límite de anualidad presupuestal que apoya el financiamiento del tratamiento de enfermedades de alto costo que generan gastos catastróficos para los prestadores de servicios de salud del Sistema.
+El Fondo de Protección contra Gastos Catastróficos al que se refieren los artículos 77 Bis 17 y 77 Bis 29 de la Ley, es un fondo sin límite de anualidad presupuestal que apoya el financiamiento del tratamiento de enfermedades de alto costo y medicamentos asociados que generan gastos catastróficos para los prestadores de servicios de salud del Sistema.
+
+Para efectos del párrafo anterior, el financiamiento del tratamiento de enfermedades de alto costo de los que provocan gastos catastróficos y medicamentos asociados, estará dirigido a apoyar la atención integral principalmente de los beneficiarios del Sistema, en la cual deberán contemplarse de manera incluyente, las intervenciones de tipo preventivo, diagnóstico, terapéutico, paliativo y de rehabilitación, en términos de lo que establece el artículo 77 Bis 29 de la Ley, y demás disposiciones aplicables.
 
 ###### Artículo 96.
 
 El Fondo de Protección contra Gastos Catastróficos se administrará y operará por la Comisión con base en el fideicomiso que constituya el Ejecutivo Federal para la administración de este fondo y de la previsión presupuestal anual.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 97.
 
-Los recursos referidos en el artículo 77 Bis 17 de la Ley serán canalizados por el Gobierno Federal al Fondo de Protección contra Gastos Catastróficos, de sus aportaciones al Sistema, por medio del fideicomiso que al efecto constituya el Ejecutivo Federal, cuyo monto equivaldrá al ocho por ciento de la suma de la cuota social, de la aportación solidaria federal y de la aportación solidaria estatal. Durante el ejercicio fiscal deberán realizarse los ajustes y compensaciones necesarios de las aportaciones que correspondan tanto al Gobierno Federal como a las entidades federativas, en términos de la Ley, conforme lo determina el artículo 80 del presente Reglamento.
+El Gobierno Federal canalizará al Fondo de Protección contra Gastos Catastróficos el porcentaje de los recursos referidos en el artículo 77 Bis 17 de la Ley, a través del fideicomiso que al efecto constituya el Ejecutivo Federal. Durante el ejercicio fiscal deberán realizarse los ajustes y compensaciones necesarios de las aportaciones que correspondan tanto al Gobierno Federal como a las entidades federativas, en términos de la Ley, conforme lo determina el artículo 80 del presente Reglamento.
 
 Para efectos de lo anterior, el Gobierno Federal entregará a las entidades federativas el monto que por concepto de cuota social les corresponda de conformidad con la Ley, una vez descontado el monto de recursos equivalente al ocho por ciento de la suma de la cuota social, la aportación solidaria federal y la aportación solidaria estatal que le corresponda a cada una de las entidades federativas.
 
@@ -707,25 +767,35 @@ V. Adherencia a normas éticas profesionales. Se considerarán los antecedentes 
 
 VI. Evolución de la enfermedad. En la definición de los gastos catastróficos, se deberán identificar las fases o etapas en que pueden encontrarse las enfermedades, así como los eventos que pueden producir altos costos en su atención.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 100.
 
-Los gastos catastróficos definidos por el Consejo de Salubridad General serán incluidos por la Secretaría en la cobertura del Fondo de Protección contra Gastos Catastróficos en forma gradual. La secuencia y alcance de estos servicios responderá a criterios de disponibilidad de los recursos del citado fondo y aquellos que determine al efecto la Secretaría de acuerdo a la Ley.
+Los gastos catastróficos definidos por el Consejo de Salubridad General serán incluidos por la Secretaría a través de la Comisión, en la cobertura del Fondo de Protección contra Gastos Catastróficos en forma gradual. La secuencia y alcance de estos servicios responderá a criterios de disponibilidad de los recursos del citado fondo y aquellos que determine al efecto la Secretaría de acuerdo a la Ley.
 
 ###### Artículo 101.
 
 Para la operación del Sistema, los gastos catastróficos que estén cubiertos por el Fondo de Protección contra Gastos Catastróficos quedarán señalados específicamente por la Comisión en un listado independiente del listado de servicios esenciales de salud y con base en los gastos catastróficos definidos por el Consejo de Salubridad General. Dicho listado se presentará como Catálogo de intervenciones cubiertas por el Fondo de Protección contra Gastos Catastróficos y de cada una de ellas deberán señalarse sus efectos derivados, las intervenciones que serán cubiertas, así como los medicamentos y materiales asociados con dichas intervenciones.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+La Secretaría, de conformidad con las Reglas de Operación del fideicomiso a que hace referencia el artículo 77 Bis 29 de la Ley, emitirá los lineamientos operativos para la administración y operación de los recursos del Fondo de Protección contra Gastos Catastróficos relacionados con la priorización del financiamiento de los gastos catastróficos señalados en el Catálogo de Intervenciones que refiere el párrafo anterior, incluyendo aquéllos relacionados con el fortalecimiento de la infraestructura médica de alta especialidad.
+
 ###### Artículo 102.
 
 Los medicamentos y materiales asociados a gastos catastróficos considerarán lo establecido en el Cuadro Básico de Insumos para el primer nivel de atención médica y el Catálogo de Insumos para el segundo y tercer nivel, establecidos conforme al artículo 28 de la Ley. Lo anterior de ninguna manera limitará la consideración de otros medicamentos o materiales que el Consejo de Salubridad General juzgue indispensables para la atención de algún gasto catastrófico.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 103.
 
-Para la mejor atención de los gastos catastróficos, los prestadores de servicios de atención médica deberán utilizar guías clínico-terapéuticas, sustentadas en medicina basada en evidencia científica y aprobadas por la Comisión, permitiendo homogeneizar criterios de atención para una mejor práctica médica, y en cuya elaboración participarán profesionales expertos en la materia. Los gastos y el alcance de las intervenciones que cubrirá el Fondo de Protección contra Gastos Catastróficos serán definidos con base en dichas guías clínico-terapéuticas.
+Para la mejor atención de los gastos catastróficos, los prestadores de servicios de atención médica deberán utilizar protocolos de atención médica y guías clínico-terapéuticas, sustentadas en medicina basada en evidencia científica y aprobadas por la Comisión, permitiendo homogeneizar criterios de atención para una mejor práctica médica, y en cuya elaboración participarán profesionales expertos en la materia. Los gastos y el alcance de las intervenciones que cubrirá el Fondo de Protección contra Gastos Catastróficos serán definidos con base en dichas guías clínico-terapéuticas y en los protocolos de atención médica.
+
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 104.
 
-El Fondo de Protección contra Gastos Catastróficos cubrirá los gastos generados exclusivamente por los beneficiarios del Sistema, conforme a las tarifas que al respecto establezca la Comisión en vinculación con las guías clínico-terapéuticas señaladas en el artículo 103 de este Reglamento a los prestadores de servicios autorizados incorporados al Sistema, conforme a las reglas de operación del fideicomiso.
+El Fondo de Protección contra Gastos Catastróficos cubrirá los gastos generados principalmente por los beneficiarios del Sistema, conforme a las tarifas que al respecto establezca la Comisión, en vinculación con los protocolos de atención médica y las guías clínico-terapéuticas señaladas en el artículo 103 de este Reglamento a los prestadores autorizados incorporados al Sistema, conforme a las Reglas de Operación del Fideicomiso.
 
 ###### Artículo 105.
 
@@ -907,9 +977,11 @@ La prestación de servicios de salud no incluidos en los servicios cubiertos por
 
 Para los efectos del artículo 77 Bis 31 de la Ley, los Regímenes Estatales, a través de sus áreas de atención al público, recibirán y evaluarán las propuestas que realicen los beneficiarios respecto de la aplicación de sus cuotas.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 139.
 
-Los Regímenes Estatales pondrán a disposición del público por medios remotos o locales, de comunicación electrónica, la información relativa al manejo financiero del Sistema.
+Los Regímenes Estatales pondrán a disposición del público por medios remotos o locales, de comunicación electrónica, la información relativa al manejo financiero del Sistema, al cumplimiento de sus metas y a la evaluación de satisfacción del usuario.
 
 ###### Artículo 140.
 
@@ -980,3 +1052,13 @@ Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distr
 D.O.F. 13 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para efectos de lo establecido en el artículo 24 del Reglamento de la Ley General de Salud en Materia de Protección Social en Salud, se utilizarán los Requerimientos establecidos en el Manual para Acreditación.
+
+La Secretaría de Salud, publicará el Manual a que se refiere el párrafo anterior, dentro del término de seis meses contados a partir de la publicación del presente Decreto.
+
+Hasta en tanto sea publicado el Manual a que se refiere el presente artículo, la Secretaría de Salud, ejercerá sus atribuciones en términos de las disposiciones vigentes que resulten aplicables.
