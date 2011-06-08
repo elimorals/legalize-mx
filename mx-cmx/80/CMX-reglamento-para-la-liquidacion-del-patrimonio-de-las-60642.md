@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-liquidacion-del-patrimonio-de-las-60642"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2011-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-04-07"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE SE APRUEBA EL REGLAMENTO RELATIVO AL PROCEDIMIENTO PARA LA LIQUIDACION DEL PATRIMONIO DE LAS ASOCIACIONES POLITICAS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA LIQUIDACION DEL PATRIMONIO DE LAS ASOCIACIONES POLITICAS, PUBLICADO EN LA G.O. DE 8 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de abril de 2008.
 
@@ -845,3 +847,17 @@ Artículo Quinto.- En tanto el Consejo General aprueba el Reglamento de Fiscaliz
 Artículo Sexto.- En tanto el Consejo General aprueba el Reglamento de Fiscalización de las agrupaciones políticas locales, se aplicará en lo conducente los Lineamientos del Instituto Electoral del Distrito Federal para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales.
 
 Artículo Séptimo.- El presente ordenamiento deberá aplicarse a todos los procedimientos de pérdida de registro como Agrupación Política Local que se encuentren en trámite conforme a las disposiciones establecidas en el Código Electoral del Distrito Federal.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas en el Distrito Federal, aprobado por el Consejo General, el siete de abril de dos mil ocho.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Los procedimientos de liquidación que se encuentren en trámite se concluirán conforme a las disposiciones establecidas en el Reglamento que se encontraba vigente a su inicio.
+
+QUINTO. Remítase para su publicación dentro del plazo de diez días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
