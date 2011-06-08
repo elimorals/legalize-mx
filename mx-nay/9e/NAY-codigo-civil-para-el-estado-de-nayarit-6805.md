@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2010-12-04"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-CODIGO CIVIL PARA EL ESTADO DE NAYARIT
+CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -163,13 +163,9 @@ La capacidad jurídica de las personas físicas se adquiere por el nacimiento y 
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
-###### Artículo 23o.
-
-La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
-
 ###### Artículo 23.
 
-La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
 ###### Artículo 24.
 
@@ -263,7 +259,7 @@ Del domicilio.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
-###### Artículo 29o.
+###### Artículo 29.
 
 El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios, en ausencia de éstos, el lugar donde se encontraren. Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
 
@@ -271,27 +267,15 @@ El domicilio de las personas físicas es el lugar donde residen habitualmente, y
 
 Se entiende como centro principal de negocios de una persona, el lugar en donde ejerza habitual o mayormente su ocupación laboral o profesional o desarrolle actividades comerciales.
 
-###### Artículo 30o.
+###### Artículo 30.
 
 (DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
-###### Artículo 31o.
-
-El domicilio legal de una persona física es el lugar donde la Ley fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
-
-###### Artículo 29.
-
-El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
-
-###### Artículo 30.
-
-Se presume el propósito de establecerse en un lugar, cuando se reside por más de seis meses en él. Transcurrido el mencionado tiempo, el que no quiera que nazca la presunción de que se acaba de hablar, declarará, dentro del término de quince días, tanto a la autoridad municipal de su anterior domicilio como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir uno nuevo. La declaración no producirá efectos si se hace en perjuicio de tercero.
-
 ###### Artículo 31.
 
-El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
+El domicilio legal de una persona física es el lugar donde la Ley fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
 
 ###### Artículo 32.
 
@@ -415,11 +399,11 @@ En el asentamiento de las actas del Registro Civil intervendrán: el Oficial que
 
 No podrá asentarse en las actas, ni por vías de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido por la ley.
 
-> <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 Cuando el interesado cuyo estado civil se registre, ya le haya sido aplicada su clave única de registro de población, deberá transcribirse ésta en el acta, en base al documento oficial que la contenga.
 
-> <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 En todo caso deberán requisitarse los datos complementarios que contiene los formatos.
 
@@ -619,7 +603,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 ### CAPITULO III
 
@@ -665,37 +649,35 @@ En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se h
 
 Si el reconocimiento se hiciere en oficinas distintas de aquélla en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento remitirá, a más tardar entre los diez días hábiles siguientes, copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación en el acta respectiva.
 
-### CAPITULO IV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2011)</small>
 
-De las actas de adopción.
+### CAPITULO IV. De las actas derivadas de la adopción
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, o la adopción plena, el adoptante o los adoptantes, dentro del término de quince días, presentará al Oficial del Registro Civil, copia certificada de la misma, a efecto de que se levante el acta correspondiente. El juez en todo caso, enviará al Registro Civil la copia mencionada para que se levante el acta que proceda.
+Dictada la resolución judicial definitiva que autorice la adopción, el Juez dentro del término de tres días, remitirá copia certificada de la sentencia al oficial del Registro Civil que corresponda, a fin de que, con la comparecencia del adoptante, se levante el acta correspondiente.
 
 ###### Artículo 85.
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 81.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 86.
 
-El acta de adopción contendrá, nombre propio, apellidos, sexo, fecha y lugar de nacimiento, edad y domicilio del adoptado, nombre, edad, estado civil, domicilio y nacionalidad el (sic) adoptante o adoptantes, nombre y demás datos de la persona o personas que hayan dado su consentimiento para la adopción, y los datos esenciales de la resolución judicial, fecha que causó ejecutoria ésta, y la autoridad que la dictó.
+Cuando se haya autorizado la adopción, se anotarán los datos en el acta de nacimiento originaria, la cual quedará reservada y no se publicará, ni se expedirá constancia que revele el origen del adoptado ni su condición de tal, salvo que medie mandamiento judicial; y se expedirá acta en los mismos términos que para los hijos consanguíneos.
 
-Cuando se haya autorizado la adopción plena, se anotarán los datos en el acta de nacimiento originaria, la cual quedará reservada y no se publicará, ni se expedirá constancia que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio; y se expedirá acta en los mismos términos que para los hijos consanguíneos.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 87.
 
-Extendida el acta de la adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+La sentencia relativa a la adopción y el acta originaria se conservarán en el registro civil, esta información se resguardará y será accesible en los términos previstos en el artículo 86 de este Código.
 
 ###### Artículo 88.
 
-El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y se anote la de nacimiento.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ### CAPITULO V
 
@@ -727,7 +709,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 De las actas de matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Artículo 93.
 
@@ -1029,7 +1011,7 @@ Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier ot
 
 Tratándose de muertes fetales no se extenderá ninguna acta, en estos casos, el Oficial, en base al certificado que se presente, levantará una constancia del hecho.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 ### CAPITULO IX. De las actas de inscripción de sentencias
 
@@ -1059,7 +1041,7 @@ De la Rectificación, Modificación y Aclaración de las Actas del Registro Civi
 
 La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 131.
 
@@ -1095,13 +1077,15 @@ La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil y
 
 La aclaración de las actas del estado civil, procede cuando en el registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas y deberán tramitarse ante la Dirección Estatal del Registro Civil.
 
-### CAPITULO I
+### CAPITULO I. Disposiciones generales
 
-De los esponsales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ## TITULO QUINTO
 
 Del matrimonio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2011)</small>
 
 ### CAPITULO II
 
@@ -1111,31 +1095,43 @@ De los requisitos para contraer matrimonio.
 
 ###### Artículo 135.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para perpetuar la especie, con respeto entre ambos, igualdad y ayuda mutua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 136.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+El concubinato es la unión de hecho entre un hombre y una mujer, que realizan en forma continua, pública e ininterrumpida una vida en común de manera notoria y permanente, sin que medie en ellos vínculo matrimonial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 137.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+El concubinato solo podrá acreditarse si la relación ha sido además de pública, a titulo de marido y mujer por más de dos años en forma continua o con la procreación de hijos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 138.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+Los concubinos tienen obligación recíproca de otorgarse alimentos, durante el término que subsista su unión, sujetándose a lo que establece la ley para los alimentos entre cónyuges.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 139.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+El concubinato concluye por voluntad de uno o ambos, o por la cesación de la vida en común, cualquier que sea su causa, o por la muerte de uno de ellos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 140.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+La conclusión de la vida en común o terminación del concubinato, no otorga derecho alguno entre los concubinos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 141.
 
-(DEROGADO, P.O. 13 DE MAYO DE 2009)
+Los concubinos en igualdad de condiciones, están obligados al cuidado y la educación de sus menores hijos, igualmente al sostenimiento del hogar.
 
 ### CAPITULO III
 
@@ -1231,7 +1227,7 @@ De estos impedimentos sólo son dispensables la falta de acreditación de haber 
 
 ###### Artículo 153.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
@@ -1262,6 +1258,8 @@ Los derechos y obligaciones surgidas, se retrotraerán a la fecha de celebració
 Del contrato de matrimonio con relación a los bienes.
 
 Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 158.
 
@@ -1317,9 +1315,11 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 (DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 170.
 
-El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+El contrato de compraventa puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes, tratándose de la sociedad conyugal se requiere que el contrato se acompañe de las capitulaciones matrimoniales en las que conste que el bien de que se trata se encuentra fuera del patrimonio común.
 
 ###### Artículo 171.
 
@@ -1329,9 +1329,11 @@ El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y ac
 
 De la sociedad conyugal.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 172.
 
-El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
+El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal o bajo el de separación de bienes, en caso de omisión o imprecisión se tendrá por celebrado bajo el régimen de separación de bienes y se regirá por las reglas establecidas en este Código, en tanto los cónyuges no otorguen capitulaciones que fijen en definitiva y a su arbitrio el régimen que habrán de observar en su matrimonio.
 
 ###### Artículo 173.
 
@@ -1357,7 +1359,31 @@ De la separación de bienes.
 
 ###### Artículo 177.
 
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, en lo que no estuviere expresamente estipulado o exista imprecisión, se aplicará lo dispuesto en este capítulo así como los preceptos relativos a la copropiedad en lo que resulte conducente.
+
+Los bienes y utilidades que adquieran los cónyuges dentro de la sociedad conyugal corresponden a ambos en partes iguales, a menos que exista pacto en contrario, mismo que deberá establecerse en las capitulaciones matrimoniales.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+###### Artículo 177 Bis.
+
+En la sociedad conyugal, salvo pacto en contrario que conste debidamente en las capitulaciones matrimoniales, se tendrán como bienes exclusivos de cada cónyuge:
+
+I.- Los bienes y derechos que le pertenezcan con anterioridad a la celebración del matrimonio, aunque no fuera dueño de ellos, si los adquiere por prescripción durante el matrimonio;
+
+II.- Los bienes adquiridos durante la sociedad, por herencia, legado, donación o premios derivados de juegos o sorteos;
+
+III.- Los créditos o derechos que hayan adquirido por título propio, anterior al matrimonio, aunque la prestación o el importe se cubra de forma posterior a su celebración; siempre que todas las erogaciones que se generen para hacerlos efectivos, sean cubiertos por el dueño de estos;
+
+IV.- Los bienes que se adquieran durante el matrimonio, con el producto de la venta o permuta de bienes y derechos propios;
+
+V.- Los derechos de autor o de propiedad industrial que pertenezcan a uno solo de los cónyuges;
+
+VI.- Los instrumentos necesarios para el desarrollo de la profesión, arte u oficio de cada cónyuge. En caso de que dichas herramientas formen parte de un establecimiento o explotación perteneciente a ambos o hayan sido adquiridas con fondos comunes, el cónyuge que las conserve, deberá pagar al otro en la proporción que corresponda;
+
+VII.- Los bienes comprados a plazos antes de contraer matrimonio, siempre que la totalidad del precio aplazado sea cubierta con dinero propio, y
+
+VIII.- La ropa, artículos de aseo, cosméticos, medicamentos, joyas y demás artículos de uso estrictamente personal.
 
 ###### Artículo 178.
 
@@ -1373,7 +1399,7 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En el caso del artículo anterior, las modificaciones que se realicen a las capitulaciones, deberán otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las originarias y en la inscripción del Registro Público de la Propiedad. De no darse cumplimiento a esta formalidad, las modificaciones que en su caso se hicieren no surtirán efectos contra terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 181.
 
@@ -1429,9 +1455,13 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les corresponden.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 188.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad, salvo pacto en contrario que conste en las capitulaciones matrimoniales.
+
+Para disponer, gravar o enajenar bienes comunes se requiere del acuerdo de ambos cónyuges, cualquier acto celebrado en contravención a lo anterior se considera nulo.
 
 ###### Artículo 189.
 
@@ -1805,7 +1835,7 @@ V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de co
 
 VI.- Padecer sífilis, tuberculosis o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
 
-VII.- Pader (sic) enajenación mental incurable;
+VII.- (DEROGADA, P.O. 8 DE JUNIO DE 2011)
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -1817,7 +1847,9 @@ XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
 XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 161 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada por alguno de los cónyuges en el caso del artículo 164;
 
-XIII.- La acusación aluminosa (sic) hecha por un cónyuge contra otro, por delito que merezca pena mayor de dos años de prisión;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XIII. La acusación declarada como infundada, realizada por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
 XIV.- Haber cometido alguno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
 
@@ -1827,9 +1859,9 @@ XVI.- Cometer un cónyuge contra la persona o los bienes del otro un acto que se
 
 XVII.- El mutuo consentimiento;
 
-> <small>(ADICIONADA, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-XVIII.- La separación de los cónyuges por más de dos años, independiente del motivo que haya originado la separación, causal que podrá ser invocada por cualesquiera de ellos;
+XVIII. La separación por más de dos años, independiente del motivo que la haya originado, causal que podrá ser invocada por cualquiera de los cónyuges;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
 
@@ -1851,7 +1883,7 @@ Son causas de divorcio los actos inmorales ejecutados por el marido o por la muj
 
 ###### Artículo 264.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1921,11 +1953,11 @@ III.- Las que se estimen convenientes para que los cónyuges no se puedan causar
 
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
-V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
+V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente tomando en consideración en todo momento el interés superior del menor.
 
-Salvo peligro para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la misma carezca de recursos económicos;
+Salvo peligro para el normal desarrollo de los hijos, los menores que se encuentren en periodo de lactancia, quedarán preferentemente al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la misma carezca de recursos económicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
 
@@ -1987,7 +2019,7 @@ El Juez de lo Familiar en la sentencia de divorcio, habrá de resolver atendiend
 
 El cónyuge que haya dado causa al divorcio necesario no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 Tratándose de divorcio voluntario, los cónyuges podrán contraer nuevo matrimonio una vez que la sentencia cause ejecutoria.
 
@@ -2001,7 +2033,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MAYO DE 2007)</small>
 
 ## TITULO SEXTO
 
@@ -2019,17 +2051,17 @@ La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civi
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+En el caso de adopción, el parentesco generado por este acto es igual al de consanguinidad para todos los efectos jurídicos.
+
 ###### Artículo 287.
 
 El parentesco de afinidad es el que contrae por el matrimonio, entre el varón los parientes de la mujer y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+###### Articulo 288.
 
-###### Artículo 288.
-
-El parentesco civil es el que nace de la adopción y, solo existe entre el adoptante y el adoptado.
-
-La adopción plena, es aquella que se equipara al parentesco por consanguinidad para todos los efectos legales.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 289.
 
@@ -2051,9 +2083,7 @@ En la línea recta los grados se cuentan por el número de generaciones o por el
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-### CAPITULO III
-
-Prevención de la violencia familiar.
+### CAPITULO III. Prevención de la violencia familiar
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -2109,13 +2139,9 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
-
 ###### Artículo 300.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
-
-En virtud de que por la adopción plena se equipara al parentesco por consanguinidad, en este caso, se aplicarán las reglas de los artículos anteriores.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 301.
 
@@ -2203,7 +2229,7 @@ Cuando el deudor alimentario no estuviere presente o estándolo rehusare entrega
 
 El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 161. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquélla así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MAYO DE 2007)</small>
 
 ### CAPITULO I
 
@@ -2265,7 +2291,7 @@ Si el marido está bajo tutela por cualquier causa de las señaladas en la fracc
 
 ###### Artículo 325.
 
-Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 326.
 
@@ -2591,13 +2617,17 @@ I. Estar en pleno goce de sus derechos;
 
 II. Presentar certificado de idoneidad expedido por el Consejo Estatal de Adopciones;
 
-III. Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+III. Que tiene medios para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio;
 
 IV. Que la adopción es benéfica para la persona que trata de adoptarse;
 
 V. No haber sido condenado a la pérdida de la patria potestad;
 
-VI. No tener antecedentes penales; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+VI. No tener antecedentes penales por delito doloso; y
 
 VII. Las que señale la legislación aplicable.
 
@@ -2611,17 +2641,11 @@ I.- Se trate de hijo del cónyuge del adoptante; y
 
 II.- Hubiere existido una situación no interrumpida de convivencia, iniciada antes de que el adoptado hubiere cumplido catorce años.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 384.
 
-No puede adoptarse:
-
-I. A un descendiente;
-
-II. A un pariente en segundo grado de la línea colateral por consanguinidad o afinidad; y
-
-III. A un pupilo por su tutor hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela.
+No puede adoptarse a un pupilo por su tutor hasta que haya sido aprobada definitivamente la cuenta general justificada de la tutela.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -2639,13 +2663,11 @@ I. Cuando el cónyuge haya sido declarado en estado de interdicción, en cuyo ca
 
 II. Cuando se declare judicialmente la ausencia o declaración de presunción de muerte.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 387.
 
-Se podrá adoptar a varios menores de uno y otro sexo simultánea o sucesivamente.
-
-Si se adoptase a varios menores todas las adopciones serán del mismo tipo. La adopción del hijo del cónyuge siempre será de carácter simple.
+Se podrá adoptar a varios menores simultánea o sucesivamente.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -2675,7 +2697,11 @@ Habrán de consentir la adopción, en presencia del Juez, el adoptante o adoptan
 
 I. El cónyuge del adoptante, salvo que medie separación legal por sentencia firme o separación de hecho por mutuo acuerdo que conste fehacientemente;
 
-II. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+II. El que ejerce la patria potestad sobre el menor que se trata de adoptar.
+
+En el caso de ser un menor de edad quien ejerza la patria potestad sobre el menor que se pretenda dar en adopción, deberá hacerlo con el consentimiento de quien ejerza la patria potestad sobre él o ella. En caso de controversia entre estos o por ausencia de los padres por no localizarse, el juez decidirá en interés superior del menor respecto de la adopción;
 
 III. El tutor del que se va a adoptar;
 
@@ -2683,7 +2709,17 @@ IV. La persona que haya acogido durante mas de seis meses al que se pretende ado
 
 V. El Ministerio Público del lugar del domicilio del adoptado cuando este no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
 
-No será necesario el asentimiento cuando los que deban prestarlo se encuentren con alguna imposibilidad definitiva que se apreciará motivadamente en la resolución judicial que constituya la adopción.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
+
+El consentimiento al que se refiere este artículo, deberá ser otorgado libremente previa asesoría del Consejo Estatal de Adopciones, por escrito ante dicho organismo y por lo menos quince días después del nacimiento del menor.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 2011)</small>
+
+No será necesario el consentimiento cuando los que deban prestarlo se encuentren con alguna imposibilidad definitiva que se apreciará motivadamente en la resolución judicial que constituya la adopción.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Asimismo se tomará en cuenta la opinión de los representantes de instituciones de asistencia social públicas o privadas que hayan acogido al menor.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -2691,15 +2727,9 @@ No será necesario el asentimiento cuando los que deban prestarlo se encuentren 
 
 Si el tutor, el que ejerce la patria potestad, la persona que haya acogido por más de seis meses al que se pretenda adoptar o el ministerio público no consienten la adopción, deberán expresar la causa en que se funden, la que el juez calificara tomado en cuenta los intereses del menor o incapacitado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
-
 ###### Artículo 392.
 
-El Juez, a petición del Ministerio Público, del adoptado o de su representante legal, acordará que el adoptante que hubiere incurrido en causa de pérdida de la patria potestad, quede excluido de las funciones de guarda, amparo y defensa de los derechos que por Ley le correspondan respecto del adoptado o sus descendientes, o en sus herencias.
-
-Una vez alcanzada la plena capacidad, la exclusión sólo podrá ser pedida por el adoptado, dentro de los dos años siguientes.
-
-Dejarán de producir efecto estas restricciones por determinación del propio hijo una vez alcanzada la plena capacidad.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -2707,23 +2737,21 @@ Dejarán de producir efecto estas restricciones por determinación del propio hi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 394.
 
-El juez que apruebe la adopción remitirá copias de la sentencia al Oficial del Registro Civil del lugar, para que se levante el acta correspondiente.
+La resolución judicial que apruebe la adopción, contendrá la orden al Oficial del Registro Civil, para que cancele los efectos del acta de nacimiento del adoptado, así como para que levante el acta en la que figuren como padres, el o los adoptantes y como hijo el adoptado, y demás datos que se requieran conforme a este Código. Sin hacer anotación alguna en el acta sobre la adopción.
 
-En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que cancele los efectos del acta de nacimiento del adoptado, así como para que levante el acta en la que figuren como padres, el o los adoptantes y como hijo el adoptado, y demás datos que se requieran conforme a este Código. Sin hacer mención sobre la adopción.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2006)</small>
+#### SECCIÓN SEGUNDA. De los efectos de la adopción
 
-#### SECCIÓN SEGUNDA. De la adopción plena
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 395.
 
-La adopción plena es irrevocable y confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones del hijo biológico.
+La adopción es irrevocable y confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones del hijo biológico.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
 
@@ -2733,11 +2761,17 @@ Sólo podrá otorgarse la adopción plena con respecto a los menores:
 
 I. Huérfano de padre y madre;
 
-II. Que no tengan filiación acreditada; y (sic)
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-III. Cuando se encuentren en un establecimiento asistencial y los padres se hubieran desentendido totalmente del mismo durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo, y esta situación hubiese sido comprobada por la autoridad judicial.
+II. Que no tengan filiación acreditada;
 
-IV. Cuando los padres hubiesen sido privados de la patria potestad; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+III. Cuando se encuentren en un establecimiento asistencial y los padres se hubieran desentendido totalmente del mismo durante seis meses o cuando el desamparo moral o material resulte evidente, manifiesto y continuo, y esta situación hubiese sido comprobada por la autoridad judicial;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE JUNIO DE 2011)</small>
+
+IV. Cuando los padres hubiesen perdido la patria potestad, y
 
 V. Cuando los padres del menor hubiesen manifestado judicialmente su expresa voluntad de entregarlo en adopción.
 
@@ -2751,65 +2785,35 @@ El adoptado tendrá derecho a conocer su realidad biológica y podrá acceder al
 
 #### SECCIÓN TERCERA. Adopción simple
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
-
 ###### Artículo 398.
 
-La adopción simple confiere al adoptado la posición del hijo biológico, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
-
-Los hijos adoptivos de un mismo adoptante serán considerados hermanos entre sí.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 399.
 
-El juez, cuando sea más conveniente para el menor o a petición de parte por motivos fundados, podrá otorgar la adopción simple.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 400.
 
-Los derechos y deberes que resulten del vínculo biológico del adoptado no quedan extinguidos por la adopción simple con excepción de la patria potestad, inclusive la administración y usufructo de los bienes del menor se transfieren al adoptante, salvo cuando se adopta al hijo del cónyuge.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 401.
 
-Es revocable la adopción simple.
-
-I. Cuando las partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere se oirá a las personas que prestaron su consentimiento conforme al artículo 390, cuando fueren de domicilio conocido, y a falta de ellas al ministerio público.
-
-II. Por haber incurrido el adoptado o el adoptante en ingratitud;
-
-III. Por petición justificada del adoptado mayor de edad.
-
-La revocación extingue desde su declaración judicial y para lo futuro todos los efectos de la adopción.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)</small>
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 402.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado o el adoptante:
-
-I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptado o el adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si formula denuncia o querella en contra del adoptado o el adoptante, por algún delito aunque se pruebe, ha (sic) no ser que se hubiere cometido contra quien denuncia, su cónyuge, sus ascendientes o descendientes;
-
-III. Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 402 Bis.
 
 (DEROGADO Y REUBICADO, P.O. 26 DE JULIO DE 2006)
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+Artículo 402 A.- (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
-Artículo 402 A.- Después de la adopción simple es admisible la revocación solicitada por sus padres biológicos si la adopción no se hubiere dado por una causa imputable a los mismos, y siempre que se ejercite dentro de (sic) año siguiente al otorgamiento.
+Artículo 402 B.- (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
-
-Artículo 402 B.- La resolución del juez que deja sin efecto la adopción, restituye las cosas al estado que guardaban antes de efectuarse ésta. Tales resoluciones deberán ser comunicadas al Oficial del Registro Civil del lugar en que se hizo para que cancele el acta de adopción.
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE JULIO DE 2006)</small>
 
 #### SECCIÓN CUARTA. Adopción Internacional
 
@@ -2837,11 +2841,13 @@ Bajo ningún concepto el Juez podrá aceptar solicitudes presentadas por extranj
 
 Artículo 402 G.- En los procesos de adopción que sigan ciudadanos extranjeros o mexicanos residentes en el exterior, es obligatorio que estén presentes, desde la primera audiencia señalada por el Juez, hasta la fecha de la sentencia.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2011)</small>
 
-Artículo 402 H.- Se establecen los siguientes requisitos:
+Artículo 402 H.- Para la adopción internacional, se establecen los siguientes requisitos:
 
-I. Acta de matrimonio que acredite su celebración antes del nacimiento del adoptado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+I. Acta de matrimonio que acredite su celebración;
 
 II. Acta de nacimiento de los cónyuges que acrediten tener más de veinticinco años de edad y diecisiete años mayores que el adoptado;
 
@@ -2857,7 +2863,9 @@ VII. Certificado de haber recibido preparación para padres adoptivos;
 
 VIII. Acrediten su legal estancia en el país;
 
-IX. No tener antecedentes penales, lo que se acreditará mediante certificados del país del solicitante;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+IX. No tener antecedentes penales, lo que se acreditará mediante certificados del país de los solicitantes y tampoco tener sentencia condenatoria por delito doloso en México;
 
 X. Certificado de idoneidad otorgado por las autoridades competentes del país de residencia de los solicitantes; y,
 
@@ -2873,6 +2881,22 @@ Artículo 402 I.- Los menores adoptados por extranjeros mantienen su nacionalida
 
 Artículo 402 J.- Los extranjeros residentes en México, con una permanencia menor de dos años, se regirán por las disposiciones de la adopción de la adopción internacional y los extranjeros residentes en el país con una permanencia mayor, se sujetarán a las disposiciones que rigen la adopción nacional.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 402 K.- Las adopciones constituidas en el extranjero, que no sean contrarias al interés del sujeto adoptado y al orden público, tendrán plena validez en el Estado de Nayarit, cuando así lo establezcan los tratados internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 402 L.- Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención de la Haya, tendrán que reunir los requisitos señalados en la misma, así como los que determine el Sistema Estatal para el Desarrollo Integral de la Familia, en su carácter de autoridad central.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 402 M.- Las adopciones internacionales promovidas por ciudadanos originarios de países que no son parte de la Convención de la Haya, seguirán lo dispuesto por el artículo 402 F y los requisitos que marca el artículo 402 H de este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 402 N.- La institución extranjera competente según lo establecido en la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, informará al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit a través del Consejo Estatal de Adopciones de la adopción, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el menor, dos veces durante el primer año, posteriormente, solo en caso de detectar alguna situación contraria al interés superior del adoptado o cuantas veces se le requiera. Asimismo, el informe se le hará de su conocimiento al Juez que resolvió sobre la adopción.
+
 ## TITULO OCTAVO
 
 De la patria potestad.
@@ -2887,9 +2911,11 @@ La patria potestad es el conjunto de derechos y deberes que la ley impone a los 
 
 Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 404.
 
-Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que puedan ejercerla conforme a la ley.
 
 ###### Artículo 405.
 
@@ -2901,7 +2927,9 @@ La patria potestad se ejerce sobre la persona y los bienes de los hijos y se ins
 
 La patria potestad sobre los hijos se ejerce por los progenitores.
 
-A falta de ambos progenitores o por cualquiera otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendentes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta el interés superior del menor.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+A falta de ambos progenitores o por cualquiera otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendentes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta el interés superior del menor y que los ascendientes estén en posibilidades físicas y económicas para cuidar del menor.
 
 ###### Artículo 407.
 
@@ -2933,15 +2961,15 @@ Las obligaciones, facultades y restricciones establecidas para los tutores, se a
 
 La anterior custodia podrá terminar sólo por resolución judicial.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
-
 ###### Artículo 411.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten. En la adopción plena el ejercicio será como hijo consanguíneo.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 412.
 
-Solamente por falta o impedimento de todos los llamados preferentemente entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+Solamente por falta o impedimento de todos los llamados preferentemente entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores, siempre y cuando así lo estime pertinente el juez en atención al interés superior del menor. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
 ###### Artículo 413.
 
@@ -2963,21 +2991,25 @@ Para los efectos del artículo anterior, los que ejerzan la patria potestad o te
 
 La facultad de corregir no implica infligir a los menores actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 316 de este Código.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 416.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
+El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho, salvo las excepciones que esta misma ley establezca. En caso de irracional disenso, resolverá el juez.
 
 ### CAPITULO III
 
-De los modos de acabarse y suspenderse la patria potestad.
+De los modos de suspender, perder o recuperar la patria potestad.
 
 ###### Artículo 417.
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 418.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y abuela, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 ###### Artículo 419.
 
@@ -3007,9 +3039,11 @@ Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo consta
 
 La renuncia del usufructo hecha en favor del hijo, se considera como donación.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 425.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+Los réditos y rentas que se hayan vencido antes de que los padres o abuelos entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
 
 ###### Artículo 426.
 
@@ -3065,6 +3099,8 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2011)</small>
+
 ### CAPITULO I
 
 Disposiciones Generales.
@@ -3089,21 +3125,45 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 27
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes pudiere comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses o porque acepten ante el Juez Familiar entregarlos al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles;
+IV.- Por la exposición que el padre o la madre hicieren de sus hijos;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor, y
+V.- Cuando el que ejerce la patria potestad, no habite o se separe del hogar y deje de ministrar alimentos sin causa justificada por más de 90 días;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-VI.- Cuando el que ejerce la patria potestad, no habite o se separe del hogar y deje de ministrar alimentos sin causa justificada por más de 90 días.
+VI.- Por que lo deje abandonado por más de tres meses sin causa justificada, si éste quedó a cargo de una persona o institución pública o privada;
 
-> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
+Las visitas ocasionales o intermitentes, no interrumpen el término de referencia sino tienen el firme propósito de que el menor les sea reintegrado;
 
-Artículo 436 A.- La patria potestad podrá ser limitada cuando el titular de ésta incurra en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza.
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+VII. Por la entrega que hagan los padres al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit a través del Consejo Estatal de Adopciones o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles, y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+VIII.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+En cualquiera de los casos de abandono o exposición descritos en las fracciones IV, VI y VII, bastará la declaración judicial de abandono para que el menor pueda ser entregado en adopción.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+La declaración de abandono a la que se refiere el presente artículo será otorgada por el juez con vistas a la futura adopción del menor cuyos padres o personas quienes ejercen la patria potestad hubieren abandonado o expuesto al menor, dejando de manifiesto el desinterés o causa que justifique lo anterior.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 436 A.- La pérdida de la patria potestad, decretada mediante sentencia ejecutoriada, cesará sus efectos, previa sentencia definitiva de autoridad judicial, respecto de la cesación de las causas que la generaron.
+
+El progenitor que haya perdido de la patria potestad, promoverá, su restitución, una vez trascurridos dos años de que se haya decretado esta. Lo establecido en el presente dispositivo operará solo cuando la causa de la pérdida de la patria potestad no sea por haber cometido un delito doloso en contra del menor y que éste no haya sido dado en adopción.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Artículo 436 B.- La patria potestad podrá ser limitada cuando el titular de ésta incurra en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza.
 
 ###### Artículo 437.
 
@@ -3217,13 +3277,13 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 456.
 
 El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 442, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 457.
 
@@ -3327,11 +3387,11 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO V
 
-De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia.
+De la tutela legítima de los menores abandonados, expósitos y de los acogidos por alguna persona, o entregados a establecimientos de beneficencia públicos o privados.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -3359,6 +3419,8 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2011)</small>
+
 ### CAPITULO VI
 
 De la tutela dativa.
@@ -3367,13 +3429,13 @@ De la tutela dativa.
 
 El Sistema para el Desarrollo Integral de la Familia tendrá encomendada la protección de los menores; cuando constate que un menor se encuentra en situación de desamparo tiene por ministerio de ley la tutela del mismo y deberá adoptar las medidas de protección necesarias para su guarda, poniendo en conocimiento del Ministerio Público, y notificando a los progenitores o tutores, en un plazo de cuarenta y ocho horas, informando de modo claro y comprensible de las causas que dieron lugar a la intervención.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 484.
 
-La persona o institución que por alguna circunstancia acoja a un menor está obligada a dar cuenta de ello al Sistema para el Desarrollo Integral de la Familia, informando de ser así, su interés en ocuparse de la tutela.
+La persona o institución pública o privada que por alguna circunstancia acoja a un menor expósito o abandonado, deberá dar cuenta de ello al Sistema para el Desarrollo Integral de la Familia dentro de los tres días siguientes al día en que reciba al menor y manifestar si tiene interés en ocuparse de la tutela.
 
-Deberá procurarse atendiendo al interés superior del menor, su reinserción a la propia familia o su guarda a una institución o persona.
+Deberá procurarse atendiendo al interés superior del menor, su reinserción a la propia familia o su guarda a una institución pública o privada o persona que lo haya acogido.
 
 ###### Artículo 485.
 
@@ -4123,7 +4185,7 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 Si hiciere algunos gastos en el desempeño de su cargo se le pagarán.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO I
 
@@ -4135,7 +4197,7 @@ De la emancipación.
 
 En cada municipio habrá un Consejo de Tutelas, compuesto de un Presidente y de dos Vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por los respectivos ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 623.
 
@@ -4205,7 +4267,7 @@ De las medidas provisionales en caso de ausencia.
 
 El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 633.
 
@@ -4221,7 +4283,7 @@ II. De un tutor para negocios judiciales.
 
 III. (DEROGADA, P.O. 6 DE AGOSTO DE 1994)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO II
 
@@ -6723,6 +6785,12 @@ III.- En diez años, cuando se posean de mala fe, si la posesión es en concepto
 
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tengan interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+V.- Cuando se demuestre ser poseedor de un inmueble por más de quince años, de buena o mala fe, de manera pública, pacífica, continua y que la posesión no sea precaria.
+
+Para los efectos del párrafo anterior se entiende que la posesión es precaria cuando se detenta de manera temporal en calidad de usufructuario, arrendatario, acreedor pignoraticio, depositario u otro título análogo.
+
 ###### Artículo 1137.
 
 Los bienes muebles se prescriben en tres años cuando son poseídos con buena fe, pacífica y continuamente. Faltando la buena fe, se prescribirán en cinco años.
@@ -6971,7 +7039,7 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -6987,7 +7055,7 @@ Toda persona que propone a otra la celebración de un contrato fijándole un pla
 
 Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -7017,7 +7085,7 @@ El proponente quedará libre de su oferta cuando la respuesta que reciba no sea 
 
 La propuesta y aceptación por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -9195,9 +9263,11 @@ La promesa de contratar o sea el contrato preliminar de otro puede ser unilatera
 
 La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### Artículo 1619.
 
-Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo; de no establecerse término para la celebración del mismo, se tendrá limitado a un año.
 
 ###### Artículo 1620.
 
@@ -10195,7 +10265,7 @@ Si el arrendamiento debe ser inscrito en el Registro sólo vale el inscrito.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 1676 y 1677.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
 ### CAPITULO VI
 
@@ -10859,7 +10929,7 @@ Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades
 
 Los Notarios insertarán este artículo en los testimonios de los poderes que otorguen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1927.
 
@@ -14645,9 +14715,7 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### CAPITULO III BIS
-
-Testamento Público Simplificado.
+### CAPITULO III BIS. Testamento Público Simplificado
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -14845,7 +14913,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 2642 y 2643, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO V
 
@@ -15081,15 +15149,13 @@ Si solo quedaren descendientes de ulterior grado, la herencia se dividirá por e
 
 Concurriendo hijos con ascendientes, éstos solo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
-
 ###### Artículo 2726.
 
-El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante, salvo en el caso de la adopción plena, en que el adoptado se equipara al hijo consanguíneo y por lo mismo, concurre a la sucesión como tal.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 2727.
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros solo tendrán derecho a alimentos.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 2728.
 
@@ -15119,17 +15185,13 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
-
 ###### Artículo 2734.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes, excepto cuando haya sido adopción plena, pues en este caso sólo heredan los adoptantes.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 2735.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+(DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
 ###### Artículo 2736.
 
@@ -15139,9 +15201,7 @@ Los ascendientes, aún cuando sean ilegítimos, tienen derecho de heredar a sus 
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO VI
-
-De la sucesión de los concubinos.
+### CAPITULO VI. De la sucesión de los concubinos
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -15203,7 +15263,7 @@ A falta de los llamados en los artículos anteriores sucederán los parientes m�
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO I
 
@@ -15981,7 +16041,7 @@ El Secretario Gral. de Gobierno
 
 Dr. J. Jesús Osuna Gómez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE AGOSTO DE 1982.
 
@@ -16132,3 +16192,7 @@ Artículo segundo.- Las disposiciones del párrafo segundo del artículo 282 sur
 P.O. 4 DE DICIEMBRE DE 2010.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE JUNIO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
