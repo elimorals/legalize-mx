@@ -4,7 +4,7 @@ identifier: "LFCP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2006-05-23"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCP"
 
 LEY FEDERAL DE CORREDURIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -42,17 +42,21 @@ LEY FEDERAL DE CORREDURIA PUBLICA
 
 La presente ley es de orden público y de observancia en toda la República. Su objeto es regular la función del corredor público.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 2o.
 
-La aplicación de la presente ley corresponde al Ejecutivo Federal, a través de la Secretaría de Comercio y Fomento Industrial, con la participación que corresponda a las autoridades estatales.
+La aplicación de la presente ley corresponde al Ejecutivo Federal, a través de la Secretaría de Economía, con la participación que corresponda a las autoridades estatales.
 
-Cuando esta ley haga referencia a la Secretaría, se entenderá la Secretaría de Comercio y Fomento Industrial.
+Cuando esta ley haga referencia a la Secretaría, se entenderá la Secretaría de Economía.
 
 ###### ARTICULO 3o.
 
 Corresponde a la Secretaría:
 
-I.- Asegurar la eficacia del servicio que prestan los corredores públicos como auxiliares del comercio, cuidando siempre la seguridad jurídica en los actos en que intervengan;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+I.- Asegurar la eficacia del servicio que prestan los corredores públicos, como auxiliares del comercio y como fedatarios públicos en la materia que esta ley les autoriza, cuidando siempre la seguridad jurídica en los actos en que intervengan;
 
 II.- Examinar a las personas que deseen obtener la calidad de aspirantes a corredores o a ejercer como corredores públicos, asegurándose de que éstos sean personas dotadas de alta calidad profesional y reconocida honorabilidad;
 
@@ -146,7 +150,9 @@ c) Presentar la solicitud correspondiente, observándose en lo conducente lo que
 
 El examen definitivo será sustentado ante un jurado que se integrará como sigue:
 
-I.- Un representante de la Secretaría, el cual deberá tener por lo menos nivel de director general o contar con designación específica del Secretario de Comercio y Fomento Industrial, y sin cuya presencia no podrá celebrarse el examen;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+I.- Un representante de la Secretaría, el cual deberá tener por lo menos nivel de director general o contar con designación específica del Secretario de Economía, y sin cuya presencia no podrá celebrarse el examen;
 
 II.- Un representante del Gobernador del Estado o del Jefe del Departamento del Distrito Federal, según corresponda; y
 
@@ -212,11 +218,15 @@ IX.- Pertenecer al colegio de corredores de la plaza en que ejerza; y
 
 X.- Las demás que dispongan las leyes y reglamentos.
 
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 16.
 
-Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los actos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en el libro especial que llevarán al efecto y que se denominará de registro, el cual no deberá tener raspaduras, enmendaduras, interlineaciones o abreviaturas.
+Los corredores diariamente, por orden de fecha y bajo numeración progresiva, formarán archivo de las pólizas y actas de los actos en que intervengan y en el mismo orden asentarán el extracto de las pólizas en un libro especial que llevarán al efecto y que se denominará de registro, el cual deberá estar formado por volúmenes de doscientas cincuenta hojas foliadas y que no deberá tener raspaduras, enmendaduras, o abreviaturas.
 
-El libro de registro y el archivo deberán llevarse con estricto apego a lo dispuesto por el reglamento de esta ley. Cuando se trate de cualquiera de los actos a que se refiere la fracción VI del artículo 6o. de esta ley, se estará, en lo conducente, a lo dispuesto en la Sección Cuarta del Capítulo Tercero de la Ley del Notariado para el Distrito Federal y el Reglamento de esta Ley.
+El libro de registro y el archivo deberán llevarse con estricto apego a lo dispuesto por esta ley y su reglamento.
+
+Además de los libros descritos en los dos párrafos anteriores, los corredores públicos integrarán y trasmitirán los archivos electrónicos de los mismos bajo las características de orden y contenido similares a las versiones que señalan los dos párrafos anteriores y conforme a las disposiciones que se prevean en el reglamento de esta ley y los criterios que al efecto emita la Secretaría.
 
 ###### ARTICULO 17.
 
@@ -230,7 +240,9 @@ Póliza es el instrumento redactado por el corredor para hacer constar en él un
 
 Acta es la relación escrita de un hecho jurídico de naturaleza mercantil.
 
-Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas que expida de las pólizas, actas y asientos, son documentos que hacen prueba plena de los contratos, actos jurídicos y hechos de naturaleza mercantil respectivos.
+> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+Las actas y pólizas autorizadas por los corredores son instrumentos públicos y los asientos de su libro de registro y las copias certificadas y demás ejemplares que expida de las pólizas, actas y asientos, en los que esté autorizado a intervenir como fedatario, son documentos públicos que hacen prueba plena de los contratos, actos jurídicos y hechos respectivos.
 
 El corredor podrá expedir copias certificadas de las pólizas y actas en que haya intervenido, siempre que obren en su archivo y en el libro de registro correspondiente.
 
@@ -246,7 +258,13 @@ III.- Ser redactados con claridad, precisión y concisión;
 
 IV.- Dejar acreditada la personalidad de las partes o comparecientes, así como los datos de quien comparezca en representación de otros, relacionando o insertando los documentos respectivos, o agregándolos en copia cotejada al archivo, con mención de ello en el instrumento correspondiente;
 
-V.- Elaborarse en español, incluidos los documentos que se presenten en idioma extranjero;
+> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2011)</small>
+
+V.- Elaborarse en español.
+
+Podrán asentarse palabras en otro idioma que sean generalmente usadas como términos de ciencia o arte, o que sean usadas como nombre o marca o aviso comercial, o en actas y pólizas cuando se trate de transcripciones literales o de lo percibido por el corredor público respectivamente.
+
+Los documentos que se le presenten en idioma extranjero deberán ser traducidos por perito traductor reconocido por alguna autoridad. No se requerirá traducción cuando se trate de documentos presentados para cotejo, o cuando se trate de dar fe de hechos de la entrega o recepción de documentos o para realizar el reconocimiento o puesta de firmas, siempre y cuando las partes declaren conocer y entender su contenido y alcance y el corredor comprenda cabalmente el contenido y alcance del mismo;
 
 VI.- Hacer constar que el corredor se aseguró de la identidad de las partes contratantes o ratificantes y que, a su juicio, tienen capacidad legal;
 
@@ -375,3 +393,9 @@ D.O.F. 23 DE ENERO DE 1998.
 D.O.F. 23 DE MAYO DE 2006.
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Ejecutivo Federal, contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para expedir las modificaciones necesarias al Reglamento de esta Ley.
