@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2011-04-08"
+last_updated: "2011-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2011.
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ORDENAMIENTO, VEASE ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE YUCATAN, PUBLICADO EN EL SUPLEMENTO DEL D.O. DEL 8 DE JUNIO DE 2011, EL CUAL ENTRARA EN VIGOR EL 15 DE NOVIEMBRE PREVIA SU PUBLICACION EN EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO, Y SUS DISPOSICIONES SE APLICARAN GRADUALMENTE, HASTA ABARCAR LOS TRES DEPARTAMENTOS JUDICIALES DEL ESTADO DE YUCATAN.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE JUNIO DE 2011.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -1321,7 +1323,7 @@ El auto motivado que se dicte en los casos de los artículos que preceden, deter
 
 ###### ARTICULO 196.
 
-No se tendrán por documentos auténticos las certificaciones expedidas por personas que no desempeñen cargo público en la fecha en que las expidan, aunque dichas certificaciones se refieran a actos acaecidos cuando ejercían dicho cargo.
+No se tendrán por documentos auténticos las certificaciones expedidas por personas que no desempeñen cargo público en la fecha en que las expidan, aunque dichas certificaciones se refieran a actos acaecídos cuando ejercían dicho cargo.
 
 ###### ARTICULO 197.
 
@@ -3625,8 +3627,50 @@ Este Decreto entrará en vigor a los quince días siguientes al de su publicaci�
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
 
-P.O. 8 DE ABRIL DE 2011.
+D.O. 8 DE ABRIL DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 8 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Este Código entrará en vigor el 15 de noviembre previa su publicación en el Diario Oficial del Gobierno del Estado, y sus disposiciones se aplicarán gradualmente, hasta abarcar los tres Departamentos Judiciales del Estado de Yucatán, de acuerdo a la distribución que, mediante acuerdos generales, emita el Consejo de la Judicatura del Poder Judicial del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos de la transición del sistema mixto al sistema acusatorio, el Código de Procedimientos en materia Penal del Estado de Yucatán publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 15 de diciembre de 1994 seguirá empleándose hasta en tanto se apliquen en todo el territorio del Estado las disposiciones del Código que se expide a través de este Decreto, y además se concluyan todos los procesos iniciados antes de la entrada en vigor del mismo en el Departamento o región respectivo.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos que, a la entrada en vigor del Código que se expide a través de este Decreto, se encuentren pendientes de trámite o aquellos iniciados con anterioridad a la entrada en vigor del mismo, deberán ser tramitados y concluidos de acuerdo a las normas y procedimientos establecidos en el Código de Procedimientos en materia Penal del Estado de Yucatán publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 15 de diciembre de 1994.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Legislativo del Estado de Yucatán deberá emitir a más a tardar el día 1 de octubre del año 2011, la Declaratoria a que se refiere el párrafo tercero del Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el día 18 de junio del año 2008.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos penales relativos a hechos delictuosos de carácter permanente o continuado, que iniciaron bajo la vigencia del Código de Procedimientos en materia Penal del Estado de Yucatán publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 15 de diciembre de 1994 y que continúen desarrollándose en algún Departamento Judicial o región en donde se encuentre vigente el Código que se expide a través de este Decreto, se sujetará a lo dispuesto por el Código de Procedimientos en materia Penal del Estado de Yucatán, primero mencionado.
+
+###### ARTÍCULO SEXTO.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Yucatán, el Consejo de la Judicatura del Poder Judicial y el Fiscal General del Estado de Yucatán, según corresponda, además de las facultades que expresamente les confiere este Código y demás disposiciones legales aplicables, podrán expedir los acuerdos generales, lineamientos, manuales y demás normatividad que sea necesaria para la correcta implementación y funcionamiento del proceso penal acusatorio.
+
+###### ARTÍCULO SÉPTIMO.
+
+No procederá la acumulación, investigaciones o procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido a las disposiciones de este Código y algún otro hecho lo esté al Código de Procedimientos en materia Penal del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 15 de diciembre de 1994.
+
+###### ARTÍCULO OCTAVO.
+
+La ejecución de las sentencias que se dicten de acuerdo a lo establecido en este Código se sujetará al procedimiento que establezca la ley de la materia del Estado de Yucatán, que se expida para regular el sistema penal acusatorio.
+
+###### ARTÍCULO NOVENO.
+
+El Código que se expide en este Decreto se aplicará de manera supletoria respecto a lo no previsto en la Ley de Justicia para Adolescentes del Estado de Yucatán, una vez que entre en vigor.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir de que el Código que se expide en este Decreto entre en vigor en todo el territorio del Estado, siempre que alguna ley, reglamento o disposición haga referencia al Código de Procedimientos en materia Penal del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el día 15 de diciembre de 1994, se entenderá que se refiere al presente Código Procesal Penal para todos los efectos legales correspondientes.
