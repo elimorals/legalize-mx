@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2011-05-21"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -69,19 +69,19 @@ IV. La extensión de actitudes solidarias y responsables de la población en la 
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2010)</small>
 
 VII. El tratamiento integral del dolor, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEÁSE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2010)</small>
 
@@ -173,7 +173,11 @@ XV. La prevención y el control de las enfermedades no transmisibles y accidente
 
 XVI. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
-XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, así como el control sanitario de los Centros de Tratamiento y Rehabilitación Contra las Adicciones, para personas con adicción al alcohol, tabaco o que usen habitualmente estupefacientes, substancias psicotrópicas u otros tipo (sic) de drogas, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
 XVIII. Ejercer la verificación y el control sanitario de los establecimientos o sitios que expendan o suministren al público alimentos y bebidas alcohólicas o no alcohólicas; en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento. Basándose en las normas administrativas que al efecto se emitan;
 
@@ -297,7 +301,9 @@ XVI. Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVII. Las demás atribuciones, afines a las anteriores, que se requieren para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
-ARTÍCULO. 9.- La Secretaría de Salud, promoverá la participación en el sistema estatal de salud, de los prestadores de servicios de la salud de los sectores público, social y privado, de sus trabajadores, de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan y fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+###### ARTÍCULO 9.
+
+La Secretaría de Salud, promoverá la participación en el sistema estatal de salud, de los prestadores de servicios de la salud de los sectores público, social y privado, de sus trabajadores, de los usuarios de los mismos, así como de las autoridades o representantes de las comunidades indígenas, en los términos de las disposiciones que al efecto se expidan y fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
 ###### ARTÍCULO 10.
 
@@ -316,6 +322,12 @@ V. Definición de cuotas y fuentes de financiamiento por servicio.
 ###### ARTÍCULO 11.
 
 La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del sistema estatal de salud, se regirá por las disposiciones de esta Ley y demás normas generales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 11 BIS.- Con objeto de garantizar el pleno acceso a la salud de toda la población indígena del Estado, de acuerdo a su disposición presupuestal, la Secretaría de Salud asignará traductores de las lenguas étnicas que prevalecen en el Estado y las zonas limítrofes con los Estados vecinos, para que apoyen en los hospitales de segundo y tercer nivel.
 
 ###### ARTÍCULO 12.
 
@@ -1937,7 +1949,11 @@ II. La educación a la familia para prevenir el consumo de tabaco por parte de n
 
 III. Las demás disposiciones contenidas en ésta y otras leyes y en los reglamentos y normas correspondientes.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LOS CENTROS DE TRATAMIENTO Y REHABILITACIÓN CONTRA LAS ADICCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 230.
 
@@ -1979,17 +1995,157 @@ Se prohíbe la venta en cualquier presentación comercial, a menores de edad, de
 
 La Secretaría de Salud en coordinación con las autoridades en materia de Seguridad Pública y con la Procuraduría General de la República y del Estado, a fin de prevenir y combatir el uso por inhalación de las substancias con efectos psicotrópicos, mediante los convenios correspondientes, podrá promover o implementar, según corresponda, en los establecimientos que produzcan, utilicen o expendan substancias tóxicas peligrosas o que tengan algún efecto psicotrópico, las medidas que para su control sean necesarias, de acuerdo con la legislación en la materia y demás disposiciones legales aplicables.
 
-### CAPÍTULO II. DONACION y TRASPLANTE
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 238.
 
-La Secretaría de Salud, en coordinación con la Secretaría de Salud federal, promoverá el establecimiento y operación de centros certificados para la rehabilitación de farmacodependientes.
+La Secretaría de Salud, en coordinación con la Secretaría de Salud federal, promoverá el establecimiento y operación de centros certificados públicos, sociales y privados, para el Tratamiento y la Rehabilitación de personas con adicción al alcohol, tabaco, o que usen habitualmente estupefacientes, substancias psicotrópicas u otro tipo de drogas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 1.- Para los efectos de esta Ley se entiende por:
+
+l. Establecimientos especializados en adicciones.- Son los establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto, tal y como se definen en la Norma Oficial Mexicana.
+
+II. Grupo de Ayuda Mutua.- Es la agrupación que ofrece servicios, integrada por adictos en recuperación, cuyo propósito fundamental es apoyar al adicto con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de sustancias psicoactivas.
+
+III. Grupo de Alto Riesgo.- Es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, niñas, niños y adolescentes, menores en situación de calle, madres adolescentes, entre otros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 2.- El responsable del establecimiento especializado en adicciones, para el efecto se estará a lo dispuesto en la Ley General de Salud y en el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica. Por lo que se refiere a los grupos de ayuda mutua, éste podrá ser un grupo de adictos en recuperación, que tenga dos años como mínimo de abstinencia en el consumo de sustancias psicoactivas y en su proceso de rehabilitación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 3.- Los sectores sociales y privados, podrán prestar los servicios de tratamiento y rehabilitación para personas con adicción al alcohol, tabaco o que usen habitualmente estupefacientes, substancia psicotrópicas u otro tipo de drogas; para lo cual deberá tramitar la autorización o aviso según corresponda de dicho centro ante la Secretaría de Salud del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 4.- El ingreso de los usuarios a los establecimientos especializados en adicciones con modelos profesional y mixto podrá ser voluntario, involuntario u obligatorio, y en el de ayuda mutua será estrictamente voluntario, pudiendo darse el ingreso obligatorio en los establecimientos que operen bajo este modelo que estén reconocidos por el Consejo Nacional contra las Adicciones (CONADlC), debiéndose ajustar a los procedimientos que este requiera.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 5.- Los Centros de Tratamiento y Rehabilitación contra las Adicciones que ofrezcan tratamiento ambulatorio de ayuda mutua deberán cubrir los requisitos que establece la Norma Oficial Mexicana.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 6.- El tratamiento bajo la modalidad residencial, se llevará a cabo en los establecimientos profesionales, de ayuda mutua o mixtos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 7.- El tratamiento bajo la modalidad residencial en los establecimientos de ayuda mutua, se llevará a cabo a través de las siguientes acciones:
+
+I. Contar por escrito con los lineamientos y disposiciones del funcionamiento del establecimiento y del proceso de recuperación al que se va a incorporar el usuario, así como tener en lugar visible los criterios de exclusión sobre padecimientos que no pueden atender (trastornos psiquiátricos, alteraciones y trastornos conductuales no inherentes al consumo de sustancias psicoactivas, comorbilidades médicas y psiquiátricas, por ejemplo),
+
+II. Explicar con detalle y claridad, tanto al usuario como al familiar responsable o representante legal, las condiciones del establecimiento, días y horarios de visita, así como costos directos o indirectos, y
+
+III. El ingreso y la permanencia del usuario en el establecimiento deberán ser estrictamente voluntarios, excepto por orden expresa de la autoridad competente.
+
+Asimismo al ingreso de cada usuario el responsable del establecimiento debe cumplir con lo establecido en la Norma Oficial Mexicana.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 8.- Para operar un Centro de Tratamiento y Rehabilitación contra las Adicciones a los que se refiere el artículo anterior, sin perjuicio de lo que establezca la Ley General de Salud y la presente Ley, así como la (sic) Normas Oficiales Mexicanas, para el tratamiento y control de las adicciones, deberá cumplir con los siguientes requisitos:
+
+l. Disponer de un área física adecuada con mobiliario y equipos funcionales para el tratamiento terapéutico, que permitan la atención individual y proteger la privacidad del usuario, contando con la higiene y condiciones sanitarias adecuadas.
+
+II. Los que presten servicios de internamiento, deberán de disponer de cubículos para el tratamiento terapéutico, independiente de las áreas de estancia, de tal manera que se respete la dignidad de las personas.
+
+III. Abstenerse de ejecutar en contra de las personas sujetas a tratamiento o rehabilitación, actos de tortura, privación de su libertad u otros que los denigren, vejen o dañen su integridad física de algún modo.
+
+IV. Contar con un responsable médico titulado, mismo que quedará acreditado ante la Secretaría de Salud de acuerdo a lo estipulado en la normatividad sanitaria vigente.
+
+V. Registrar ante la Secretaría de Salud, al personal que preste servicios terapéuticos en las áreas de Psicología, Psiquiatría, Trabajo social y Profesiones afines.
+
+VI. Coordinarse con la Secretaría de Salud, en los programas de tratamiento terapéutico integral que se apliquen para la rehabilitación de los adictos y
+
+VII. Los demás que establezca esta Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 9.- El número de usuarios que pueden ser admitidos, dependerá de la capacidad del establecimiento, según las disposiciones legales vigentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 10.- Si el que ingresa es menor de edad, se debe obtener adicionalmente el consentimiento por escrito de quienes ejerzan la patria potestad, del representante legal o tutor. En caso de que el menor se encuentre en situación de abandono, el encargado del establecimiento debe dar aviso al Ministerio Público y al Desarrollo Integral para la Familia más cercano.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 11.- En los establecimientos no se deben admitir personas distintas a las que requieran el servicio para el cual fue creado (trastornos relacionados con consumo de sustancias psicoactivas); pero no se negará el ingreso a personas con alguna comorbilidad que ingieran medicamentos y que tengan una condición médica y/o psiquiátrica controlada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 12.- Durante la estancia se debe cumplir con todo lo establecido en la normatividad sanitaria vigente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 13.- Al egreso se debe llenar la hoja de egreso con los datos que establece la Norma Oficial Mexicana
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 14.- Los establecimientos que practiquen tratamientos alternativos y/o complementarios, deberán cubrir los requisitos establecidos en la normatividad sanitaria vigente, así como estar registrados y avalados por el Consejo Nacional contra las Adicciones (CONADIC), además de contar con el aviso de funcionamiento respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 15.- Los Centros de Tratamiento y Rehabilitación Contra las Adicciones tendrán la obligación de informar a la Secretaría de Salud, la relación de los usuarios sujetos a rehabilitación informando mensualmente las observaciones en torno a los avances que presenten los mismos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 16.- La Secretaría de Salud, a través del área correspondientes (sic) y de las Jurisdicciones Sanitarias de los municipios, deberán verificar por lo menos trimestralmente las áreas físicas de los Centros de Tratamiento y Rehabilitación Contra las Adicciones y supervisar la implementación de los programas de tratamiento y rehabilitación de los adictos, coadyuvando a salvaguarda de (sic) sus derechos humanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 17.- La Secretaría de Salud, previo el procedimiento establecido en este ordenamiento, podrá emitir opiniones técnicas legales, aplicar sanciones, o decretar suspensión parcial o total y la clausura de los Centros de Tratamiento y Rehabilitación contra las Adicciones que no cumplan con lo dispuesto en la presente Ley, independiente de las sanciones que disponga la normatividad aplicable para el caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 238 BIS 18.- La Secretaría de Salud, Secretaría de Seguridad Publica, Instituto de Desarrollo Social de Tabasco, Procuraduría General de Justicia del Estado, Dirección General de Protección Civil, Desarrollo Integral de la Familia, Centro Integración Juvenil, Consejo Estatal contra las Adicciones, Comisión Estatal de Derechos Humanos, Organizaciones no Gubernamentales, Asociaciones Civiles afines y Autoridades Municipales, contribuirán desde su ámbito de competencia y atribuciones correspondientes a que estos Centros de Tratamiento y Rehabilitación cumplan con las disposiciones legales vigentes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DONACION, TRANSPLANTES (SIC), PÉRDIDA DE VIDA, SUSPENSION DE TRATAMIENTO Y CUIDADOS PALIATIVOS A PACIENTES TERMINAL (SIC)
 
-### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
+### CAPÍTULO II. DONACION y TRASPLANTE
 
 ###### ARTÍCULO 239.
 
@@ -2101,11 +2257,7 @@ Está prohibido el comercio de órganos y tejidos de seres humanos. La donación
 
 La cultura de donación de órganos y tejidos es de interés público. El gobierno implementará en todo el territorio estatal, programas permanentes destinados a fomentar la donación de órganos y tejidos.
 
-### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
 
 ###### ARTÍCULO 244.
 
@@ -2165,9 +2317,13 @@ Los profesionales de las disciplinas para la salud que intervengan en la extracc
 
 Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
 
-### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
+### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
 
-### CAPÍTULO II. SUBSTANCIAS TÓXICAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
+
+### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
 
 ###### ARTÍCULO 251.
 
@@ -2211,7 +2367,7 @@ No existirá impedimento alguno para que a solicitud o autorización de las sigu
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. SUBSTANCIAS TÓXICAS
 
 ###### ARTÍCULO 254.
 
@@ -2467,7 +2623,7 @@ ARTÍCULO 269 BIS 3.- Las instituciones de salud, el personal médico y paraméd
 
 ## TÍTULO DÉCIMO QUINTO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS, ALCOHÓLICAS, NUTRIENTES VEGETALES, PLAGUICIDAS Y SUBSTANCIAS TÓXICAS
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 270.
 
@@ -2499,7 +2655,7 @@ V. Cumplir con las disposiciones de higiene general y personal que correspondan.
 
 Se prohíbe la comercialización de bebidas alcohólicas en farmacias, droguerías y boticas, así como de manera ambulante.
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 274.
 
@@ -2527,7 +2683,7 @@ La Secretaría de Salud, promoverá y llevará a cabo campañas permanentes de i
 
 ## TÍTULO DÉCIMO SEXTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 279.
 
@@ -2595,7 +2751,7 @@ La Secretaría de Salud, publicará en el periódico oficial, las normas en mate
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
 
 ###### ARTÍCULO 287.
 
@@ -2613,7 +2769,7 @@ La Secretaría de Salud del Gobierno del Estado, verificará que los mercados y 
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas Correspondientes.
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 290.
 
@@ -2643,7 +2799,7 @@ Los propietarios o poseedores de los edificios y locales para uso comercial o de
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargado o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos, sin perjuicio de la sanción administrativa que proceda.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
 
 ###### ARTÍCULO 297.
 
@@ -2695,7 +2851,7 @@ III. Cumplir con la normatividad sanitaria y ecológica en el manejo, procedimie
 
 IV. Las demás que se indiquen en las disposiciones reglamentarias y normas emitidas al respecto.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 304.
 
@@ -2719,7 +2875,7 @@ IV. Los restos de animales encontrados en la vía pública deberán de incinerar
 
 V. Queda prohibido tirar los residuos sólidos a cauces y aguas superficiales (mares, ríos, lagunas o humedales).
 
-### CAPÍTULO IX. SEXO-SERVICIO
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 307.
 
@@ -2741,7 +2897,7 @@ El sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera d
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades municipales, tomando en consideración las condiciones de lugar y los elementos de que dispongan las autoridades sanitarias para realizar las verificaciones necesarias.
 
-### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO IX. SEXO-SERVICIO
 
 ###### ARTÍCULO 312.
 
@@ -2763,9 +2919,7 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación de sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad municipal con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación de la misma.
 
-### CAPÍTULO XI. BAÑOS PÚBLICOS Y SPA
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 317.
 
@@ -2785,7 +2939,9 @@ V. Establecimientos similares: Todos aquellos dedicados a la cría, reproducció
 
 Los establecimientos a que se refiere este capítulo no podrán estar ubicados en el centro de los lugares poblados o en lugares contiguos a ellos, en un radio que delimitará la autoridad sanitaria municipal, conforme a las disposiciones legales en vigor, los establecimientos de esta naturaleza que actualmente se localicen en dichos lugares, deberán salir de las poblaciones en el plazo que señalen los Ayuntamientos.
 
-### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPITULO XI. BAÑOS PÚBLICOS Y SPA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 319.
 
@@ -2833,7 +2989,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio del sexo-servicio, para lo cual podrá solicitar la opinión del Gobierno del Estado, de conformidad con las disposiciones legales reglamentarias aplicables. Será obligatorio contar con información visible a los usuarios sobre los condones y su uso.
 
-### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
+### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### ARTÍCULO 327.
 
@@ -2867,9 +3023,9 @@ Las personas privadas de su libertad que requieran atención médica especializa
 
 En los casos a que se refiere el artículo anterior, la Secretaría de Salud deberá coordinarse con las autoridades encargadas de los reclusorios o centros de readaptación social a fin de tomar las medidas de seguridad tendientes a evitar la evasión de personas.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2011)</small>
 
-### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
 
 ###### ARTÍCULO 335.
 
@@ -2891,7 +3047,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley,
 
 ARTÍCULO 337 BIS.- Queda prohibido en los establecimientos comprendidos en este capítulo; ofertar y aplicar cualquier tipo de procedimiento de riesgo y de medicamentos o substancias administradas por vía intramuscular, intravenosa, oral, ótica, oftálmica, intratecal, intradérmica y subcutánea con fines terapéuticos, estéticos o de cualquier otra índole.
 
-### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
+### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### ARTÍCULO 338.
 
@@ -2901,7 +3057,7 @@ Para efectos de esta Ley, se entiende por centro de reunión y espectáculos, lo
 
 La Secretaría de Salud del Gobierno del Estado, podrá en cualquier momento realizar verificación de los centros públicos de reunión con la finalidad de constatar las condiciones de saneamiento e higiene para garantizar la vida y la salud de las personas que a ellos concurran.
 
-### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
+### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 340.
 
@@ -2931,7 +3087,7 @@ La realización de las perforaciones y tatuajes no deberá efectuarse a personas
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
+### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
 
 ###### ARTÍCULO 346.
 
@@ -2947,7 +3103,7 @@ III. Lavadero público.- El establecimiento al cual acuden los interesados para 
 
 Corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
 
 ###### ARTÍCULO 348.
 
@@ -2965,7 +3121,7 @@ La Secretaría de Salud del Gobierno del Estado, realizará la verificación san
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo dispuesto en la presente Ley en lo relativo a higiene, saneamiento y de ingeniería sanitaria.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 352.
 
@@ -2979,7 +3135,7 @@ La Secretaría de Salud, ejercerá el control y verificación sanitarios de los 
 
 Los establecimientos a que se refiere el artículo 350 de esta Ley, deberán reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales federales y locales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud federal.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 355.
 
@@ -3039,7 +3195,7 @@ El personal que labore en los establecimientos contemplados en este capítulo de
 
 ## TÍTULO DÉCIMO SÉPTIMO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 360.
 
@@ -3087,11 +3243,29 @@ VII. La importación de los productos y materias primas comprendidos en las disp
 
 VIII. La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que las contengan;
 
-IX. Las modificaciones a las instalaciones de establecimientos que manejan substancias tóxicas o peligrosas determinadas como de alto riesgo para la salud, cuando impliquen nuevos sistemas de seguridad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-X. Los responsables de la aplicación de tatuajes y perforaciones incluidos los de tipo estético, sin perjuicio de los requisitos que exijan otras autoridades competentes.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
 
-Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud estatal, en los casos que expresamente se señale en los acuerdos de coordinación que celebre con la Secretaría de Salud Federal, excepto las fracciones II, IV en lo relativo a embalsamamiento y X en los que esta facultado para otorgarlos.
+IX. Las modificaciones a las instalaciones de establecimientos que manejan substancias tóxicas o peligrosas determinadas como de alto riesgo para la salud, cuando impliquen nuevos sistemas de seguridad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA [ADICIONADA, P.O. 8 DE JUNIO DE 2011])</small>
+
+X. La instalación u operación de centros de tratamiento y rehabilitación para personas con adicción al alcohol, tabaco, o que usen habitualmente estupefacientes, substancias psicotrópicas u otros tipo (sic) de drogas, en sus modalidades de profesional y mixto sin perjuicio de los demás requisitos que otras disposiciones señalen y;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+XI. Los responsables de la aplicación de tatuajes y perforaciones incluidos los de tipo estético, sin perjuicio de los requisitos que exijan otras autoridades competentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
+Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud Estatal, en los casos que expresamente se señale en los acuerdos de coordinación que celebre con la Secretaría de Salud Federal, excepto las fracciones II, IV en lo relativo a embalsamamiento y X y XI en los que está facultado para otorgarlos.
 
 ###### ARTÍCULO 364.
 
@@ -3137,7 +3311,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación local, y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 374.
 
@@ -3199,7 +3373,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 382.
 
@@ -3249,7 +3423,7 @@ V. La Secretaría de Salud, podrá reconocer centros de investigación y organiz
 
 ## TÍTULO DÉCIMO OCTAVO. VIGILANCIA SANITARIA
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 388.
 
@@ -3359,7 +3533,7 @@ En el procedimiento administrativo sanitario, los actos de las autoridades se pr
 
 ## TÍTULO DÉCIMO NOVENO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 400.
 
@@ -3457,7 +3631,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casa, edificios, establecimientos y, en general de cualquier predio, se ordenará, previa la observancia de garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 413.
 
@@ -3489,9 +3663,13 @@ IV. La calidad de reincidente del infractor; y
 
 V. El beneficio obtenido por el infractor como resultado de la infracción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 416.
 
-Se sancionará con multa de hasta mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 49, 59, 61, 78, 88, 123, 131, 167, 177, 205, 249, 272, 274, 283, 289, 293, 295, 296, 311, 318, 320, 334, 335, 340, 355, 360, 363, 364 y 369 de esta Ley; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
+Se sancionará con multa de hasta mil veces de acuerdo al salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 49, 59, 61, 78, 88, 123, 131, 167, 177, 205, 238-bis 8, 249, 272, 274, 283, 289, 293, 295, 296, 311, 318, 320, 334, 335, 340, 355, 360, 363, 364 y 369 de esta Ley; pero la autoridad sancionadora, podrá conmutar la multa por una y hasta diez horas de terapia de rehabilitación en las instalaciones de salud pública del Estado, cuyo acreditamiento se realizará en los términos reglamentarios.
 
 ###### ARTÍCULO 417.
 
@@ -3531,7 +3709,11 @@ La aplicación de las multas serán sin perjuicio de que se dicten las medidas d
 
 Se procederá a la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I. Cuando los establecimientos a que se refiere el "TÍTULO DECIMO SEXTO" de esta Ley, carezcan de los correspondientes tramites sanitario (sic);
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2011)</small>
+
+I. Cuando los establecimientos a que se refieren el TÍTULO DECIMO TERCERO y el TÍTULO DECIMO SEXTO de esta Ley, representen un peligro inminente a la salud pública.
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -3548,6 +3730,8 @@ En los casos de clausura definitiva quedará (sic) sin efecto las autorizaciones
 ###### ARTÍCULO 427.
 
 Se sancionará con arresto hasta por treinta y seis horas, a la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### ARTÍCULO 428.
 
@@ -3792,3 +3976,17 @@ P.O. 21 DE MAYO DE 2011.
 PRlMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE JUNIO DE 2011.
+
+DECRETO 088 POR EL QUE SE REFORMAN LOS ARTICULOS 5 APARTADO A), FRACCION XVII, 238, 363 FRACCIONES IX Y X Y SU ULTIMO PARRAFO, 416, 425 FRACCION I Y LA DENOMINACION DEL TITULO DECIMO TERCERO, Y SE ADICIONAN, EL CAPITULO IV DEL REFERIDO TITULO, ASI COMO LOS ARTICULOS 238-BIS-1, 238-BIS-2, 238-BIS-3, 238-BIS-4, 238-BIS-5, 438-BIS-6, 238-BIS-7, 238-BIS-8, 238-BIS-9, 238-BIS-10, 238-BIS-11, 238-BIS-12, 238-BIS-13, 238-BIS-14, 238-BIS-15, 238-BIS-16, 238-BIS-17 Y 238-BIS-18 TODAS DE LA LEY DE SALUD DE TABASCO.
+
+PRIMERO.- El correspondiente decreto entrara en vigor a los 30 días contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Centros de Tratamiento y Rehabilitación contra las Adicciones a que se refiere el presente Decreto, que a la fecha se encuentren operando en la Entidad, dispondrán de noventa días a partir del inicio de vigencia del mismo, para tramitar su registro y la regularización de su funcionamiento ante la Secretaría de Salud del Gobierno del Estado.
+
+P.O. 8 DE JUNIO DE 2011.
+
+DECRETO 089 POR EL QUE SE ADICIONA EL ARTICULO 11 BIS A LA LEY DE SALUD DEL ESTADO DE TABASCO
+
+PRIMERO.- El correspondiente decreto entrará en vigor a los 30 días contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
