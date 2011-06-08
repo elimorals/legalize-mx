@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2011-05-25"
+last_updated: "2011-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4061,25 +4061,25 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE JUNIO DE 2011)</small>
+
 ### CAPITULO V. Infanticidio
 
 ###### ARTICULO 273.
 
-Se aplicará prisión hasta de dos años y privación de derechos civiles hasta por seis años, a los culpables de adulterio cometido en el domicilio conyugal o con escándalo.
+(DEROGADO, D.O.F. 8 DE JUNIO DE 2011)
 
 ###### ARTICULO 274.
 
-No se podrá proceder contra los adúlteros sino a petición del cónyuge ofendido, pero cuando éste formule su querella contra uno solo de los culpables, se procederá contra los dos y los que aparezcan como codelincuentes.
-
-Esto se entiende en el caso de que los dos adúlteros vivan, estén presentes y se hallen sujetos a la acción de la justicia del país; pero cuando no sea así, se podrá proceder contra el responsable que se encuentre en esas condiciones.
+(DEROGADO, D.O.F. 8 DE JUNIO DE 2011)
 
 ###### ARTICULO 275.
 
-Sólo se castigará el adulterio consumado.
+(DEROGADO, D.O.F. 8 DE JUNIO DE 2011)
 
 ###### ARTICULO 276.
 
-Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
+(DEROGADO, D.O.F. 8 DE JUNIO DE 2011)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
 
@@ -6596,3 +6596,7 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 8 DE JUNIO DE 2011.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
