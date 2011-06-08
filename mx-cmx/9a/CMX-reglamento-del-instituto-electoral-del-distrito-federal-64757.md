@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-64757"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-19"
-last_updated: "2008-12-19"
+last_updated: "2011-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64757&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-12-08"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS, PUBLICADO EN LA G.O. DE 8 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de diciembre de 2008.
 
@@ -1583,3 +1585,19 @@ TERCERO. Los recursos que recibieron los partidos políticos durante el año 200
 ANEXOS
 
 > <small>N. DE E. VER ANEXOS 1 A 27 EN LA G.O DEL 19 DE DICIEMBRE DE 2008, PAGINAS DE LA 83 A 129.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 8 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral del Distrito Federal para la Fiscalización de los Recursos de los Partidos Políticos, aprobado por el Consejo General, el ocho de diciembre de dos mil ocho.
+
+TERCERO. El cumplimiento de las obligaciones sustantivas de los partidos políticos derivadas de la presentación de los Informes Anuales del ejercicio 2010, se verificará conforme al Reglamento del Instituto Electoral del Distrito Federal para la Fiscalización de los Recursos de los Partidos Políticos y Código Electoral del Distrito Federal vigentes durante esa anualidad.
+
+En lo que refiere al procedimiento de revisión se estará a lo dispuesto en el Código de Instituciones y Procedimientos Electorales del Distrito Federal y en el presente Reglamento.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+QUINTO. Remítase para su publicación dentro del plazo de siete días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx.
