@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-37-2001-del-pleno-del-consejo-de-la-62868"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-07-03"
-last_updated: "2004-05-21"
+last_updated: "2011-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-05-27"
 
 ACUERDO GENERAL 37/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO PARA FORMAR ANUALMENTE LA LISTA DE PERSONAS QUE PUEDAN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, LAS FORMALIDADES PARA SU NOMBRAMIENTO, ASI COMO SUS DERECHOS Y OBLIGACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO GENERAL 16/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACION DE LA LISTA DE PERSONAS QUE PUEDEN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 9 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, A EXCEPCION DE LOS ARTICULOS QUE SE MENCIONAN EN EL TRANSITORIO QUINTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2001.
 
@@ -368,3 +370,19 @@ D.O.F. 21 DE MAYO DE 2004.
 PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 9 DE JUNIO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- Se abroga el Acuerdo General 37/2001 del Pleno del Consejo de la Judicatura Federal, que establece el Procedimiento para formar anualmente la Lista de personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación, las formalidades para su nombramiento, así como sus derechos y obligaciones.
+
+CUARTO.- La Dirección General presentará en un plazo máximo de 90 días hábiles, contados a partir de la publicación del presente acuerdo, los procedimientos de estimación de honorarios y parámetros de pago.
+
+QUINTO.- En tanto se aprueba el procedimiento a que se refiere el transitorio cuarto, continuarán vigentes los artículos 20, 22, 23, 32, 33 y 34 del Acuerdo General 37/2001.
+
+SEXTO.- En tanto inicia el funcionamiento del sistema de control de peritos, los órganos deberán solicitar los datos personales vía telefónica o por escrito.
+
+SEPTIMO.- La Lista de personas que pueden fungir como peritos, publicada en el Diario Oficial de la Federación el veintinueve de noviembre de dos mil diez, tendrá vigencia hasta el treinta y uno de diciembre de dos mil once.
