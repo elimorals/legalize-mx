@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-direccion-de-pensiones-civiles-57665"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2011-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA DIRECCION DE PENSIONES CIVILES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA DIRECCION DE PENSIONES CIVILES DEL ESTADO, PUBLICADO LA CUARTA SECCION DEL P.O. DE 9 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 26 de noviembre de 2007.
 
@@ -370,3 +372,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE JUNIO DE 2011.
+
+Artículo primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se abroga el Reglamento Interior de la Dirección de Pensiones Civiles del Estado de Michoacán, publicado el día 26 de noviembre del año 2007, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y se dejan sin efecto todas aquellas disposiciones de carácter administrativo que se opongan al presente Reglamento.
+
+Artículo tercero. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban transferirse de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
+
+Artículo cuarto. Lo no previsto por el presente Reglamento será resuelto por la Junta, cuya integración y atribuciones se contemplan en la Ley de Pensiones Civiles del Estado de Michoacán.
