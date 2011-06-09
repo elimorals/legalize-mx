@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-sistema-para-el-desarrollo-integral-487
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-20"
-last_updated: "2006-09-18"
+last_updated: "2011-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SONORA, PUBLICADO EN LA SECCION I DEL B.O. DE 9 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 20 de octubre de 2005.
 
@@ -980,3 +982,11 @@ Nota: Se anexa Organigrama General del DIF Sonora
 B.O. 18 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, Número 32, Sección VI de fecha 20 de octubre de 2005 y en el Boletín Oficial Número 23, Sección I, de fecha 18 de septiembre del 2006.
+
+Artículo Tercero.- Los manuales de organización, de procedimientos y, en su caso, de servicios al público deberán expedirse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, así mismo DIF Sonora queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
