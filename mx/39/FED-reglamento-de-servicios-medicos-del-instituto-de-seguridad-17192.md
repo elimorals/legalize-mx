@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-servicios-medicos-del-instituto-de-seguridad-1719
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-04"
-last_updated: "2002-12-16"
+last_updated: "2011-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-08-17"
 
 REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE SERVICIOS MEDICOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 9 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 4 de octubre de 2000.
 
@@ -1074,3 +1076,13 @@ México, D.F., a 17 de agosto de 2000.- El Secretario, Jaime Báez Rodríguez.- 
 D.O.F. 16 DE DICIEMBRE DE 2002.
 
 Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones del presente Reglamento continuarán aplicándose por las mismas Unidades Administrativas Centrales y Desconcentradas, aun cuando éstas cambien su denominación.
+
+TERCERO.- Lo previsto en el Capítulo Tercero, Sección Tercera "De la Atención Farmacéutica" del presente Reglamento, estará vigente hasta la entrada en vigor del reglamento de surtimiento de recetas y abasto de medicamentos.
+
+CUARTO.- A partir de la entrada en vigor de este Reglamento se abroga el Reglamento de Servicios Médicos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 32.1260.2000 de la Junta Directiva el 17 de agosto de 2000, publicado en el Diario Oficial de la Federación con fecha 4 de octubre de 2000, así como toda disposición normativa que se oponga al presente Reglamento.
