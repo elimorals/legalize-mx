@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2011-03-17"
+last_updated: "2011-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -133,9 +133,9 @@ XVII. Carrera Policial.- Al Servicio Profesional de Carrera Policial;
 
 XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-XIX. Unidad.- A la Unidad de Enlace Informático e Inteligencia.
+XIX. Unidad.- A la Unidad de Enlace Informático.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -491,7 +491,9 @@ XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias ap
 
 Las autoridades estatales en materia de seguridad pública tendrán las facultades y obligaciones que les señalen la Constitución Federal, la Constitución, la Ley General, la Ley Orgánica de la Administración Pública del Estado de Durango y las demás disposiciones aplicables.
 
-La Secretaría de Seguridad Publica dictará las medidas conducentes para brindar protección necesaria a los servidores públicos estatales siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Publico, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Comisario General de la Policía, Comisario Jefe de la Policía y demás servidores públicos que así lo requieran, lo cual deberá, determinar el Secretario de Seguridad Publica mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+La Secretaría de Seguridad dictará las medias (sic) conducentes para brindar protección necesaria a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a Víctimas del Delito Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Público, Secretario de Seguridad Pública, Subsecretario Operativo, Subsecretario de Prevención Social y Participación Ciudadana, Subsecretario del Sistema Penitenciario Estatal, Subsecretario de Tecnologías de la Información, y demás servidores públicos que así lo requieran, lo cual deberá determinar el Secretario de Seguridad Pública mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
 
 La protección se brindará durante el tiempo del encargo y respecto de los servidores públicos enunciados en la forma siguiente:
 
@@ -725,7 +727,9 @@ XVI. Vigilar que sean puestas a disposición de las autoridades competentes, las
 
 XVII. Auxiliar al Ministerio Público y a las autoridades judiciales y administrativas, cuando así se requiera;
 
-XVIII. Actuar en forma coordinada con las autoridades de protección civil y las demás corporaciones policíacas en los programas de auxilio a la población en casos de accidentes y desastres;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+XVIII. Actuar en forma coordinada con las autoridades de protección civil y las demás corporaciones policiales en los programas de auxilio a la población en casos de accidentes y desastres;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -733,7 +737,7 @@ XIX. Coordinar la red de comunicación estatal de las instituciones de seguridad
 
 XX. Organizar, operar y dirigir, una Unidad Estatal de Inteligencia para la prevención de la delincuencia y de seguimiento a los actos que pongan en riesgo la paz social y la estabilidad de las instituciones públicas, en los términos de las disposiciones aplicables;
 
-XXI. Presidir el Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública que estén adscritos a la Secretaría de Seguridad;
+XXI. (DEROGADA, P.O. 9 DE JUNIO DE 2011)
 
 XXII. Delegar las atribuciones cuya naturaleza así lo permita en los servidores públicos que determine;
 
@@ -773,17 +777,19 @@ El Consejo Consultivo contará con un secretario técnico que será designado po
 
 El Consejo Consultivo no emitirá resoluciones obligatorias al Secretario de Seguridad Pública, sino únicamente propuestas que quedarán asentadas en las minutas respectivas, y se reunirá por lo menos una vez cada tres meses.
 
-#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASUNTOS INTERNOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS INTERNOS
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 40.
 
-La Secretaría de Seguridad, a fin de lograr el pleno cumplimiento de los principios de legalidad, honradez, lealtad, profesionalismo y eficiencia de los integrantes de las corporaciones de seguridad pública estatales y municipales, contará con una Coordinación de Asuntos Internos, la qué aplicará un programa permanente de evaluación del desempeño y lealtad de los servidores a ellas adscritos. Esta Coordinación realizará sus funciones, sin perjuicio de las que tiene asignadas el Órgano Interno de Control, dependiente de la Secretaria de la Contraloría y Modernización Administrativa.
+Las corporaciones de seguridad pública del Estado y los Municipios, a fin de lograr el pleno cumplimiento de los principios de legalidad, honradez, lealtad, profesionalismo y eficiencia y respeto a los derechos humanos de los integrantes, contarán con una Dirección de Asuntos Internos. Estas Direcciones realizarán sus funciones, sin perjuicio de las que tienen asignadas el Órgano Interno de Control, dependiente de la Secretaría de la Contraloría y Modernización Administrativa.
 
-La Coordinación de Asuntos Internos asimismo verificará el cumplimiento de las obligaciones de los integrantes de las corporaciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad.
+Las Direcciones de Asuntos Internos de las diversas corporaciones de seguridad pública, verificarán el cumplimiento de las obligaciones de sus integrantes, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad.
 
-La estructura y demás funciones y atribuciones de la Coordinación de Asuntos Internos se establecerán en el reglamento interior de la Secretaría de Seguridad.
+Las funciones y atribuciones de las Direcciones de Asuntos Internos, se establecerán en el reglamento interior de la corporación policial correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -853,6 +859,30 @@ V. El Comisario General de la Policía en términos de las disposiciones aplicab
 
 VI. Los comisarios e inspectores.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 46 BIS.- La estructura orgánica de las Corporaciones Policiales se organizará bajó un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos y deberá contar mínimo con las siguientes categorías:
+
+l. Comisarios;
+
+II. Inspectores;
+
+III. Oficiales; y
+
+IV. Escala básica que estará conformada por los siguientes grados;
+
+a) Suboficial;
+
+b) Policía primero;
+
+c) Policía segundo;
+
+d) Policía tercero; y
+
+e) Policía.
+
+La Institución Policial Estatal deberá satisfacer como mínimo el mando correspondiente al Octavo grado del Esquema de Organización Operativa y Mando del Sistema Nacional.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 47.
@@ -872,6 +902,10 @@ La estructura de la División de Investigación de los Delitos se conformará to
 La División de Investigación de los Delitos tendrá como titular a un Comisario Jefe, el cual será nombrado por el Secretario de Seguridad Pública, previa opinión del Fiscal General, asimismo podrá ser removido, por el Secretario de Seguridad Pública, cuando no cumpla con las órdenes legales en los términos que establezcan los protocolos de investigación respectivos, que le comunique la Institución del Ministerio Público y su conducta se traduzca en una dilación de la procuración de justicia, previa solicitud fundada y motivada del Fiscal General; lo anterior, con independencia de las responsabilidades penales y administrativas a que haya a (sic) lugar.
 
 El Secretario de Seguridad Pública resolverá dentro de un término de tres días hábiles contados a partir de la legal notificación de la solicitud y, en caso de ser negativa la respuesta a dicha solicitud, se elevará la decisión al Titular del Poder Ejecutivo, para que decida la permanencia o remoción del Comisario Jefe.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 47 BIS 1.- La policía contará además de lo establecido en el artículo que antecede, con una división denominada Policía Estatal Acreditable, misma que contará en su estructura con tres unidades llamadas: de Análisis Táctico, de Investigación y de Operación, cuyo objetivo general es fortalecer la Institución Policial del Estado, mediante la prevención y combate al delito, utilizando medios de investigación científica, orientada a objetivos criminales de alto impacto, soportada en valores éticos y jurídicos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -905,7 +939,9 @@ VIII. Estudiar y analizar elementos criminógenos y las zonas de incidencias del
 
 IX. Vigilar y patrullar lugares estratégicos para la seguridad pública de la Entidad;
 
-X. Actuar en forma coordinada con otras corporaciones policíacas federales, estatales o municipales en los casos que se determine en el Consejo; y (sic)
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+X. Actuar en forma coordinada con otras corporaciones policiales federales, estatales o municipales, en los casos que lo determine el Consejo o el Secretario;
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -935,7 +971,11 @@ XVI. Remitir a la instancia que corresponda la información recopilada, en el cu
 
 XVII. Obtener y mantener actualizado su Certificado Único Policial; y
 
-XVIII. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+XVIII. El tratamiento técnico de los asuntos delictivos, frente a la investigación ministerial, y
+
+XIX. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1019,7 +1059,9 @@ VII. Abstenerse de realizar la detención de persona alguna sin cumplir con los 
 
 VIII. Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición del Ministerio Público o de la autoridad competente;
 
-IX. Participar en operativos de coordinación con otras corporaciones policíacas, así como brindarles, en su caso, el apoyo que conforme a derecho corresponda;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+IX. Participar en operativos de coordinación con otras corporaciones policiales, así como brindarles, en su caso, el apoyo que conforme a derecho corresponda;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1097,9 +1139,9 @@ I. Formular y ejecutar el programa de trabajo de la corporación a su cargo e in
 
 II. Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
 
-III. Registrar y consultar permanentemente en la Unidad de Enlace Informático del
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-Consejo, la información sistematizada en materia de seguridad pública que genere la Secretaría de Seguridad y el Consejo;
+III. Registrar y consultar permanentemente en la Unidad de Enlace Informático de la Secretaría, la información sistematizada en materia de seguridad pública que genere la Secretaría de Seguridad y el Consejo;
 
 IV. Integrar a sus elementos al servicio policial de carrera;
 
@@ -1195,9 +1237,11 @@ VIII. Someter, periódicamente, a sus integrantes, a exámenes de laboratorio, p
 
 IX. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 55.
 
-El Secretario de Seguridad Pública y Los Directores Municipales de seguridad pública presentarán informe semestral o con la periodicidad que se requiera, ante sus instancias superiores y se registrará en la Unidad de Informática de la Secretaría de Seguridad, la información relativa a la evaluación de la actuación de las corporaciones de seguridad pública a su cargo, que comprenderá al menos:
+El Secretario de Seguridad Pública y los directores municipales de seguridad pública presentarán informe semestral o con la periodicidad que se requiera, ante sus instancias superiores y se registrará en la Unidad de Enlace Informático de la Secretaría de Seguridad, la información relativa a la evaluación de la actuación de las corporaciones de seguridad pública a su cargo, que comprenderá al menos:
 
 I. La capacidad de respuesta a los llamados para la intervención de los cuerpos de seguridad pública actuantes en su territorio, referente a:
 
@@ -1231,15 +1275,25 @@ II. Ser de notoria buena conducta y no haber sido condenado mediante sentencia i
 
 III. Haber cumplido con el servicio militar los varones y contar con credencial de elector;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Acreditar que ha concluido, al menos, lo estudios siguientes:
 
-a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
-b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
+a) En el caso de aspirantes a las Unidades de Investigación, enseñanza superior o equivalente;
 
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+b) En caso de aspirantes a la Unidad de Prevención, los estudios correspondientes a la enseñanza media superior;
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+c) En caso de los aspirantes a la Unidad de Operación, los estudios correspondientes a la enseñanza media básica, y
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+d) En caso de aspirantes a la Unidad de Análisis Táctico, enseñanza superior o equivalente.
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1247,11 +1301,13 @@ V. Aprobar el curso de ingreso y los cursos de formación básica o inicial, as�
 
 VI. Cumplir con los requisitos de edad, perfil físico y evaluaciones médicas, psicológicas, sociológicas, de personalidad y de cultura general, previstos en el reglamento del Instituto;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-VII. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; no padecer alcoholismo, y someterse a los exámenes periódicos que al efecto se establezcan, para comprobar el no uso de este tipo de sustancias;
+VII. No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; no padecer alcoholismo, y someterse a los exámenes periódicos que al efecto se establezcan, para comprobar el no uso de este tipo de sustancias;
 
-VIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+VIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público, ni estar sujeto a procedimiento administrativo alguno, en los términos de las normas aplicables;
 
 IX. No tener antecedentes negativos en los Registros de Personal de Seguridad Pública Nacional y Estatal que integran el subsistema de información de seguridad pública; y (sic)
 
@@ -1275,13 +1331,17 @@ XIII. Aprobar las evaluaciones del desempeño;
 
 XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-XV. Mantener actualizado su Certificado Único Policial; y
+XV. Mantener actualizado su Certificado Único Policial;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-XVI. Los demás que señalen las disposiciones jurídicas y reglamentarias aplicables.
+XVI. Contar con los requisitos de edad, de perfil físico, médico y de personalidad, que se señalarán en la tabla de perfiles por Unidad, que exijan las disposiciones aplicables y las convocatorias; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+XVII. Las demás que señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ###### ARTÍCULO 57.
 
@@ -1307,11 +1367,11 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 
 COMO AUXILIARES DE LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
-El Secretario de Seguridad Pública, podrá autorizar a personas físicas o morales la prestación de servicios de seguridad privada, protección y vigilancia de personas, lugares o establecimientos, así como de bienes o valores, incluidos su traslado en sus diversas formas, siempre que satisfagan los requisitos establecidos por la presente ley y sus reglamentos. Los integrantes de los servicios de seguridad privada deberán cumplir por lo menos los requisitos que la policía que ejerce funciones de reacción en términos de la Ley General. La unidad llevará un registro del personal que presta servicios de seguridad privada y, por su inscripción, las personas físicas y morales deberán pagar las contribuciones que a tal efecto se establezcan.
+El Secretario de Seguridad Pública, podrá autorizar a personas físicas o morales la prestación de servicios de seguridad privada, protección y vigilancia de personas, lugares o establecimientos, así como de bienes o valores, incluidos su traslado en sus diversas formas, siempre que satisfagan los requisitos establecidos por la presente ley y sus reglamentos. Los integrantes de los servicios de seguridad privada deberán cumplir por lo menos los requisitos que la policía que ejerce funciones de la Unidad de Operación en términos de la Ley General. La unidad llevará un registro del personal que presta servicios de seguridad privada y, por su inscripción, las personas físicas y morales deberán pagar las contribuciones que a tal efecto se establezcan.
 
 Las especificaciones relativas a la autorización, operación, funcionamiento, supervisión, verificación, revalidación, regulación y control de los servicios privados de protección y vigilancia, se sujetará a las disposiciones contenidas en el reglamento de la materia.
 
@@ -1319,7 +1379,9 @@ Las especificaciones relativas a la autorización, operación, funcionamiento, s
 
 ARTÍCULO 58 BIS.- El Secretario de Seguridad podrá crear, de conformidad con las disposiciones presupuestales existentes, un cuerpo auxiliar de la policía cuya única función es prestar servicios de seguridad privada a personas físicas o morales, las cuales deberán pagar las contribuciones que se establezcan en la Ley de Hacienda del Estado de Durango.
 
-En este caso, la prestación del servicio será en los términos del reglamento que se expida para tal efecto, y los integrantes de este cuerpo auxiliar deberán cumplir cuando menos los mismos requisitos que la policía que ejerce funciones de reacción en los términos de la Ley General.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+En este caso, la prestación del servicio será en los términos del reglamento que se expida para tal efecto, y los integrantes de este cuerpo auxiliar deberán cumplir cuando menos los mismos requisitos que la policía que ejerce funciones de la Unidad de Operación en los términos de la Ley General.
 
 ###### ARTÍCULO 59.
 
@@ -1527,19 +1589,23 @@ XIII. Promover la impartición permanente de cursos básicos, medio y superior d
 
 XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-### CAPITULO II. DEL SERVICIO POLICIAL DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+### CAPITULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 73.
 
-El Estado y los municipios, con base en sus posibilidades presupuéstales, establecerán el Servicio Policial de Carrera, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos. La estructura, funciones y procedimientos del Servicio Policial de Carrera, se sujetarán a la Ley General, esta Ley y los reglamentos que se expidan para el efecto.
+El Estado y los municipios, con base en sus posibilidades presupuestales, establecerán el Servicio Profesional de Carrera Policial, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a la Ley General, la presente Ley y los reglamentos que se expidan para el efecto.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 74.
 
-El Servicio Policial de Carrera es el mecanismo organizado para el ingreso, formación, capacitación adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro del personal operativo de las corporaciones de seguridad pública del Estado y de los municipios.
+El Servicio Profesional de Carrera Policial, es el mecanismo organizado para el reclutamiento, selección, certificación, formación inicial, ingreso, formación continua y especializada, evaluación, promoción, recompensas y conclusión del servicio del personal operativo de las corporaciones de seguridad pública del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 Los fines de la Carrera Policial son:
 
@@ -1553,45 +1619,59 @@ IV.- Instrumentar e impulsar la capacitación y profesionalización permanente d
 
 V.- Los demás que establezcan las disposiciones que deriven de esta Ley y de los reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 75.
 
-Se considerará policía de carrera al elemento que haya acreditado el curso básico de formación, establecido en el plan de estudios del Instituto, tratándose de las corporaciones de seguridad pública estatales y municipales; y acreditar por lo menos tres años de permanencia en el servicio de la corporación respectiva.
+Se considerará policía de carrera al elemento que reúna los requisitos que establecen los procesos de reclutamiento, selección, formación inicial, ingreso, permanencia, y evaluación, previstos en el Servicio Profesional de Carrera Policial.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 75 BIS.- Los policías en activo podrán ingresar al Servicio Profesional de Carrera Policial, de acuerdo con los perfiles de grado del policía por competencia, en base a lo que establezca la Comisión del Servicio Profesional de Carrera Policial.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 76.
 
-El otorgamiento de los grados en la escala jerárquica para los cuerpos de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimiento que señale el reglamento respectivo.
+El otorgamiento de las constancias de grado en la escala jerárquica para los cuerpos de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimiento que señale el reglamento del Servicio Profesional de Carrera Policial.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 77.
 
-No podrá concederse un grado a integrante alguno de las corporaciones de seguridad pública, si no se ha desempeñado o aprobado mediante examen de oposición el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el reglamento respectivo.
+No podrá concederse constancia de grado a integrante alguno de las corporaciones de seguridad pública, si no cumple con los requisitos y con el procedimiento de promoción previsto en el Servicio Profesional de Carrera Policial.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 78.
 
-La operación del Sistema de Carrera Policial quedará a cargo del Instituto, el cual será autónomo en su funcionamiento, en los términos del artículo 67 de esta ley, y gozará de las más amplias facultades para examinar a los elementos, sus expedientes y hojas de servicio y funcionará en la forma que señale el reglamento específico en que se regule la operación del Sistema de Carrera Policial y se auxiliará por personal especializado del Instituto, para determinar las aptitudes físicas, psicológicas y académicas de los elementos de los Cuerpos de Seguridad Pública.
+La operación del Servicio Profesional de Carrera Policial, quedará a cargo del Instituto, el cual será autónomo en su funcionamiento, en los términos del artículo 67 de esta Ley y gozará de las más amplias facultades para examinar a los elementos, sus expedientes y hojas de servicio y funcionará en la forma que señale el reglamento específico en que se regule la operación del Servicio Profesional de Carrera Policial y se auxiliará por una Dirección con personal especializado del Instituto, así como con todas las áreas de la Secretaría, involucradas en la Carrera Policial
 
 ### CAPITULO III. DE LOS CONSEJOS DE HONOR Y JUSTICIA
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 79.
 
-El Consejo de Honor y Justicia de las Corporaciones de Seguridad Pública será la autoridad colegiada que tendrá como fin velar por la honorabilidad y buena reputación de los integrantes de las corporaciones de seguridad pública y combatirá con energía las conductas lesivas para la comunidad o para la propia corporación. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio que le sean turnados por la Coordinación de Asuntos Internos de la Institución, de los agentes y para practicar las diligencias que le permitan allegarse de los elementos necesarios para dictar resolución.
+El Consejo de Honor y Justicia de las Corporaciones de Seguridad Pública, será la autoridad colegiada que tendrá como fin velar por la honorabilidad y buena reputación de los integrantes de las corporaciones de seguridad pública y combatirá con energía las conductas lesivas para la comunidad o para la propia corporación. Para tal efecto, gozará de las más amplias facultades para examinar los expedientes u hojas de servicio de los elementos policiales, que le sean turnados por la Dirección de Asuntos Internos, para practicar las diligencias que le permitan allegarse de los elementos que juzgue necesarios para dictar resolución.
 
 ###### ARTÍCULO 80.
 
 El Consejo de Honor y Justicia tendrá las siguientes atribuciones:
 
-I. Conocer y resolver sobre las faltas en que incurran los elementos de las corporaciones de seguridad pública del Estado, a los principios de actuación previstos en la presente Ley, así como a las normas disciplinarias de la Policía;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+I. Conocer y resolver sobre las faltas en que incurran los elementos de las corporaciones de seguridad pública del Estado conforme, a los principios de actuación previstos en la presente Ley, así como a las del régimen disciplinario de la Policía;
 
 II. Determinar los correctivos disciplinarios a los oficiales superiores por faltas cometidas en el ejercicio de mando;
 
-III. Instruir a la Dirección de Asuntos Jurídicos la presentación de denuncias y querellas, ante la autoridad competente, si las faltas u omisiones realizadas por elementos en activo de los cuerpos de seguridad pública pudieran constituir algún delito;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-IV. Otorgar condecoraciones, estímulos y recompensas, conforme a los reglamentos respectivos;
+III. Instruir a la Dirección Jurídica de la corporación policial, para la presentación de denuncias y querellas, ante la autoridad competente, si las faltas u omisiones cometidas por elementos en activo de los cuerpos de seguridad pública pudieran constituir algún delito; y
 
-V. Analizar y supervisar que en las promociones de los elementos de las corporaciones de seguridad pública se considere el desempeño, honorabilidad y buena reputación; y
+IV. (DEROGADA, P.O. 9 DE JUNIO DE 2011)
+
+V. (DEROGADA, P.O. 9 DE JUNIO DE 2011)
 
 VI. Las demás que le asigne esta Ley y demás disposiciones relativas.
 
@@ -1599,11 +1679,17 @@ VI. Las demás que le asigne esta Ley y demás disposiciones relativas.
 
 El Consejo de Honor y Justicia será integrado por:
 
-I. Un Presidente, que será el Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-II. Un Secretario Técnico, que será el Subsecretario del Ramo; y
+I. Un Presidente, que será el Subsecretario del ramo;
 
-III. Cinco vocales que serán representantes, uno del Órgano Interno de Control, uno de la Dirección del Instituto y tres de la Policía.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+II. Un Secretario Técnico, que será el titular de la corporación correspondiente; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
+
+III. Cinco vocales que serán representantes, uno del Órgano Interno de Control, uno de la Dirección del Instituto y tres elementos de la corporación correspondiente.
 
 Por cada uno de estos cargos se elegirá un suplente. La organización y funcionamiento del Consejo de Honor y Justicia será conforme a lo que establezca su propio reglamento.
 
@@ -1611,9 +1697,11 @@ Por cada uno de estos cargos se elegirá un suplente. La organización y funcion
 
 Con respecto a los demás cuerpos de Seguridad Pública Estatal, se integrará un Consejo de Honor y Justicia en los términos de la Ley que rige su funcionamiento. Así mismo en cada Municipio, el Ayuntamiento nombrará un Consejo de Honor y Justicia que tendrá la integración y funciones que señale el reglamento respectivo, atendiendo a las bases señaladas en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 83.
 
-Por los actos y desempeño meritorio de los servidores públicos sujetos a esta Ley, el Consejo podrá proponer:
+Por los actos y desempeño meritorio de los servidores públicos sujetos a esta Ley, el Consejo podrá proponer a la Comisión del Servicio Profesional de Carrera Policial:
 
 I. Mención especial o constancia de buen desempeño;
 
@@ -2043,9 +2131,9 @@ VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO IV. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
 
-#### SECCIÓN PRIMERA. DE LA UNIDAD DE ENLACE INFORMÁTICO E INTELIGENCIA
+#### SECCIÓN PRIMERA.. DE LA UNIDAD DE ENLACE INFORMÁTICO
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -2287,9 +2375,11 @@ El Registro de Mandamientos Judiciales Pendientes de Ejecutar se integrará con 
 
 #### SECCIÓN OCTAVA. DEL REGISTRO DE VEHÍCULOS ROBADOS Y RECUPERADOS
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 127.
 
-El Registro de Vehículos Robados y Recuperados se integrara con los datos que proporcione la Procuraduría General de Justicia del Estado, relativos al padrón vehicular estatal. Asimismo, las autoridades a que se refiere esta Ley, proporcionarán la información que la Unidad de Enlace Informático requiera para mantener actualizado tal Registro.
+El Registro de Vehículos Robados y Recuperados se integrará con los datos que proporcione la Fiscalía General del Estado, relativos al padrón vehicular estatal. Asimismo, las autoridades a que se refiere esta Ley, proporcionarán la información que la Unidad de Enlace Informático requiera para mantener actualizado tal registro.
 
 ###### ARTÍCULO 128.
 
@@ -2433,31 +2523,37 @@ El Consejo impulsará acciones para que el Estado y los Municipios instrumenten 
 
 ARTÍCULO 138 BIS.- El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario de Seguridad adoptará las medidas necesarias para la homologación de los servicios.
 
-## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA Y PREVENCIÓN SOCIAL DEL DELITO
 
-### CAPÍTULO ÚNICO. DE LOS CONSEJOS Y COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU NUMERACION Y DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO PRIMERO. DE LOS CONSEJOS, COMITÉS Y OBSERVATORIOS CIUDADANOS
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 139.
 
-El Gobierno del Estado, los Ayuntamientos, los Consejos de Seguridad Pública Estatal y Municipales, con el propósito de fomentar la cooperación y corresponsabilidad de la comunidad, promoverán la instrumentación de mecanismos y procedimientos para lograr la más amplia participación social en la ejecución y supervisión de programas preventivos de seguridad pública. Para cumplir con ese propósito dichas instancias de autoridad contarán con el auxilio de órganos consultivos integrados por ciudadanos denominados Consejo Ciudadano Estatal de Seguridad Pública, Consejos Ciudadanos Regionales de Seguridad Pública, Consejos Ciudadanos Municipales de Seguridad Pública, Comités de Seguridad Pública en colonia o barrios de los municipios, y demás formas de participación social organizada que la ciudadanía adopte.
+El Gobierno del Estado, los Ayuntamientos, los Consejos de Seguridad Pública Estatal y Municipales, con el propósito de fomentar la cooperación y corresponsabilidad de la comunidad, promoverán la instrumentación de mecanismos y procedimientos para lograr la más amplia participación social en la ejecución, seguimiento, evaluación y supervisión de los programas de seguridad pública. Para cumplir con ese propósito dichas instancias de autoridad contarán con el auxilio de órganos consultivos integrados por ciudadanos denominados Consejo Ciudadano Estatal de Seguridad Pública, Consejos Ciudadanos Regionales de Seguridad Pública, Consejos Ciudadanos Municipales de Seguridad Pública, Comités de Seguridad Pública en colonia o barrios de los municipios, Observatorios Ciudadanos y demás formas de participación social organizada que la ciudadanía adopte.
 
 ###### ARTÍCULO 140.
 
 Las autoridades mencionadas promoverán, entre los habitantes del Estado, su participación en las tareas de planeación, ejecución y supervisión de la seguridad pública, a través de los Consejos y Comités de Consulta de Participación que al efecto integren:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2011)</small>
 
-I. Personas cuya actividad esté vinculada con la prevención del delito, procuración de justicia y reinserción social;
+I.- Personas cuya actividad esté vinculada con la prevención social del delito, procuración de justicia y reinserción social;
 
 II. Instituciones cuyo objeto sea el fomento a las actividades educativas, culturales o deportivas y que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública; y
 
 III. Ciudadanos que realicen actividades relacionadas con la seguridad pública, conforme a los usos y costumbres del lugar, que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 141.
 
-A fin de lograr la mayor representatividad de la sociedad, para la integración de los Comités de Consulta y Participación de la Comunidad se convocará, entre otras, a las siguientes instituciones:
+A fin de lograr la mayor representatividad de la sociedad, para la integración de los Consejos y Comités Ciudadanos se convocará, entre otras, a las siguientes instituciones:
 
 I. Asociaciones de padres de familia de planteles escolares públicos y privados;
 
@@ -2491,11 +2587,11 @@ XIV. En general, a personas físicas y morales que se interesen en colaborar con
 
 Para el logro de sus objetivos, los Consejos y Comités se vincularán con las dependencias, corporaciones e instituciones relacionadas con la seguridad pública.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 143.
 
-Los Comités podrán formular propuestas a los Consejos de Seguridad Pública, particularmente sobre vigilancia y prevención del delito, seguridad preventiva, reinserción social y cualquiera otro rubro relacionado con la materia. Los Presidentes de los Consejos y Comités Ciudadanos deberán dar seguimiento a las propuestas que formulen y participar, previa invitación, en el seno de las propias organizaciones ciudadanas y del Consejo, para informar sobre las actividades que realizan.
+Los Consejos y Comités podrán formular propuestas a los Consejos de Seguridad Pública, particularmente sobre vigilancia y prevención social del delito, seguridad preventiva, reinserción social y cualquiera otro rubro relacionado con la materia. Los Presidentes de los Consejos y Comités Ciudadanos deberán dar seguimiento a las propuestas que formulen y participar, previa invitación, en el seno de las propias organizaciones ciudadanas y del Consejo, para informar sobre las actividades que realizan.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -2511,25 +2607,45 @@ IV.- Proponer a la Administración Pública Local, a la Fiscalía General o al P
 
 V.- Proponer al Congreso del Estado reformas en materia de seguridad pública y justicia penal.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 143 BIS 1.- La Secretaría promoverá la participación ciudadana en materia de evaluación de políticas, programas e instituciones de seguridad pública, a través de Observatorios Ciudadanos mediante indicadores previamente establecidos con la autoridad sobre los siguientes temas:
+
+I.- El desempeño de sus integrantes;
+
+II. El servicio prestado; y
+
+III. El impacto de las políticas públicas en prevención social del delito.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 144.
 
 Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciudadanos podrán ser complementadas por otras que dicte el Consejo, y se velará porque cuente con la información oportuna y sistematizada que permita evaluar a los cuerpos de seguridad pública y la Fiscalía General.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN SOCIAL DEL DELITO
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 144 bis.- La Secretaría, a través de la Subsecretaría del ramo correspondiente, impulsará la generación, diseño, implementación y seguimiento de políticas integrales de prevención social de la violencia y la delincuencia, que actúen sobre las causas que las originan; además establecerá y coordinará una política pública integral de prevención social del delito, en el Estado y los Municipios, encaminada a orientar las acciones de los gobiernos para garantizar la seguridad y la paz públicas de los ciudadanos, de conformidad con lo establecido en el reglamento respectivo y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 144 bis 1.- Las acciones encaminadas a la prevención social del delito, promovidas por los municipios e instancias competentes, públicas o privadas, deberán ser presentadas ante la Secretaría para que a través de la Subsecretaría del ramo, realice el análisis y evaluación, y en su caso, determinar las medidas necesarias de carácter jurídico, político, administrativo, social y cultural para el desarrollo e implementación de las mismas y su homologación con las políticas establecidas por los tres órdenes de gobierno.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO ÚNICO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
-## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
-
-### CAPÍTULO I
 
 ###### ARTÍCULO 145.
 
@@ -2583,7 +2699,7 @@ l) Las demás que otras leyes y reglamentos establezcan.
 
 ## TÍTULO OCTAVO. CONDECORACIONES, ESTÍMULOS Y RECOMPENSAS
 
-### CAPÍTULO II. DERECHOS DE LOS MIEMBROS DE LOS CUERPOS DE SEGURIDAD PÚBLICA
+### CAPÍTULO I
 
 ###### ARTÍCULO 147.
 
@@ -2617,21 +2733,27 @@ II. Al Mérito Ejemplar, cuando se sobresalga en alguna disciplina científica, 
 
 III. Al Mérito Social, cuando se distinga particularmente en la prestación de servicios en favor de la comunidad que mejoren la imagen de los Cuerpos de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 151.
 
-Las características de las condecoraciones y el procedimiento para su otorgamiento serán establecidos en los reglamentos respectivos.
+Las características de las condecoraciones y el procedimiento para su otorgamiento serán establecidos en el Reglamento del Servicio Profesional de Carrera Policial.
 
 ###### ARTÍCULO 152.
 
 Los elementos que hayan recibido alguna de las condecoraciones a que se refiere este capítulo tendrán derecho a participar en el proceso de insaculación para formar parte del Consejo de Honor y Justicia.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 153.
 
-Los estímulos y recompensas se ajustarán a lo establecido en el Decreto de Presupuesto de Egresos y se otorgarán a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones.
+Los estímulos y recompensas se ajustarán a la disponibilidad presupuestal y se otorgarán a los elementos en activo que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones, de acuerdo a lo establecido en el Reglamento del Servicio Profesional de Carrera y los Manuales Operativos correspondientes.
 
-### CAPITULO III. DE LOS CORRECTIVOS DISCIPLINARIOS Y SANCIONES
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+ARTÍCULO 153 BIS.- La Secretaría de Seguridad, realizará y someterá a la Secretaría de Finanzas y de Administración, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores; así como la promoción, por parte del Estado y los municipios, en el ámbito de sus competencias, de las adecuaciones legales y presupuestarias respectivas para el otorgamiento de condecoraciones, estímulos y recompensas correspondientes.
+
+### CAPÍTULO II. DERECHOS DE LOS MIEMBROS DE LOS CUERPOS DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 154.
 
@@ -2659,9 +2781,9 @@ X. Ser recluidos en áreas especiales para policías en los casos en que sean su
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE ACREDITACIÓN Y CONTROL DE CONFIANZA
+### CAPITULO III. DE LOS CORRECTIVOS DISCIPLINARIOS Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 155.
 
@@ -2788,6 +2910,10 @@ El reglamento de esta Ley, establecerá el procedimiento, recursos y garantías 
 ## TÍTULO NOVENO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
+
+### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE ACREDITACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 165.
 
@@ -3069,7 +3195,9 @@ DÉCIMO PRIMERO.- La Secretaría de Seguridad Pública del Estado asumirá todos
 
 DÉCIMO SEGUNDO.- El personal que actualmente labora para la Agencia Estatal de Investigación, se transferirán a la Secretaría de Seguridad Púbica del Estado, respetando todos sus derechos laborales.
 
-DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los términos del artículo 32 del artículo primero del presente decreto, brinde protección a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Procurador General del Estado, Sub Procurador General, Sub Procurador de Procedimientos Penales, Sub Procurador de Control Interno Análisis y Evaluación, Sub Procurador de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Sub Procurador de la Zona 1, Sub Procurador de. la Zona 2, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Titular de la Dirección de la Policía Estatal.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+
+ARTÍCULO (SIC) TERCERO.- Se autoriza al Secretario de Seguridad Pública para (sic) en los términos del artículo 32 del artículo primero del presente decreto, brinde protección a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General del Estado, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, y Comisario General de la Policía Estatal.
 
 DÉCIMO CUARTO.- En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado a la Fiscalía General, se respetarán sus derechos adquiridos.
 
@@ -3096,3 +3224,9 @@ e) En caso de que el Gobierno del Estado de Durango, considere necesario el cobr
 TERCERO. El Gobierno del Estado deberá difundir el contenido de las disposiciones reglamentarias y el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto
+
+P.O. 9 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
