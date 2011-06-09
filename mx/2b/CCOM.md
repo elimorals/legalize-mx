@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2011-06-06"
+last_updated: "2011-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -6300,7 +6300,9 @@ VIII. (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
 
 Art. 1,080. Las audiencias en todos los procedimientos se llevarán a cabo observando las siguientes reglas:
 
-I. Siempre serán públicas, manteniendo la mayor igualdad entre las partes, sin hacer concesiones a una de ellas sin que se haga lo mismo con la otra, evitando disgresiones y reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento, el cual debe ser continuado, y en consecuencia resolverán en la misma cualquier cuestión o incidente que pudieran interrumpirla;
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2011)</small>
+
+I. Siempre serán públicas, manteniendo la igualdad entre las partes, sin hacer concesiones a una de ellas sin que se haga lo mismo con la otra, evitando disgresiones y reprimiendo con energía las promociones de las partes que tiendan a suspender o retardar el procedimiento, el cual debe ser continuado, y en consecuencia resolverán en la misma cualquier cuestión o incidente que pudieran interrumpirla;
 
 II. El secretario, bajo la vigilancia del juez hará constar el día, lugar y hora en que principie la audiencia, así como la hora en que termine;
 
@@ -7316,11 +7318,13 @@ Art. 1,254. El juez, antes de admitir la prueba pericial, dará vista a la contr
 
 Art. 1,255. Cuando los dictámenes rendidos resulten substancialmente contradictorios de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño, debiendo anexar copia de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se le designa, manifestando, bajo protesta de decir verdad, que tiene la capacidad suficiente para emitir dictamen sobre el particular; así mismo señalará el monto de sus honorarios, en los términos de la legislación local correspondiente o, en su defecto, los que determine, mismos que deben ser autorizados por el juez, y serán cubiertos por ambas partes en igual proporción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2008)</small>
+El perito tercero en discordia rendirá su peritaje en la audiencia de pruebas o en la fecha en que según las circunstancias del caso señale el juez, salvo que medie causa justificada no imputable al perito, en cuyo caso, el juez dictará las providencias necesarias que permitan obtener el peritaje.
 
-El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de pruebas o en la fecha en que según las circunstancias del caso señale el juez y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 2011)</small>
+
+En caso de que el perito tercero en discordia no rinda su peritaje en el supuesto previsto en el párrafo anterior, dará lugar a que el tribunal le imponga una sanción pecuniaria a favor de las partes por el importe de una cantidad igual a la que fijó como honorarios de sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en su contra, además de hacerlo saber al tribunal pleno, y a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes.
 
 En el supuesto del párrafo anterior, el juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
@@ -10135,3 +10139,7 @@ Quinto.- Los procedimientos de reconocimiento o ejecución a que se refiere el a
 D.O.F. 6 DE JUNIO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
