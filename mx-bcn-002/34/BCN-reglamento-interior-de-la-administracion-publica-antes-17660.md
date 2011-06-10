@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-04-29"
+last_updated: "2011-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -3035,6 +3035,8 @@ IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de e
 
 ### CAPITULO UNICO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 135.
 
 La Dirección de Administración Urbana tendrá las siguientes atribuciones:
@@ -3043,17 +3045,35 @@ I.- Las de orden ejecutivo que en materia de catastro, control urbano, e ingenie
 
 II.- Determinar las políticas de utilización de uso del suelo para el desarrollo urbano y la vivienda.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 136.
 
-La Dirección de Administración Urbana para el cumplimiento de sus atribuciones contará con una coordinación administrativa y una coordinación jurídica, y tendrá bajo su cargo los siguientes departamentos:
+La Dirección de Administración Urbana para el cumplimiento de sus atribuciones contará con una Coordinación Administrativa, una Coordinación Jurídica y una Subdirección que tendrá bajo su cargo a la Coordinación Zona Centro y los siguientes Departamentos:
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 I.- Catastro;
 
-II.- Control Urbano; e
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
-III.- Ingeniería de Tránsito.
+II.- Control Urbano; e (sic)
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+III.- Ingeniería de Tránsito;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2011)</small>
+
+IV.- El Departamento de Proyectos de Equipamiento y Paisaje Urbano;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2011)</small>
+
+V.- Fraccionamientos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2011)</small>
+
+ARTICULO 136 BIS.- La Subdirección de Administración Urbana tendrá como función auxiliar al Director en la planeación, coordinación y seguimiento de las políticas y programas relativos a la del orden ejecutivo que en materia de Catastro, Control Urbano, Ingeniería de Tránsito, Fraccionamientos, Proyectos de Equipamiento y Paisaje Urbano, así como de la Coordinación de Zona Centro.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
@@ -3095,35 +3115,55 @@ XVI.- Expedir los certificados de alineamientos; y,
 
 XVII.- Autorizar los avalúos practicados por peritos oficiales registrados ante el Catastro Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 138.
 
-El Departamento de Control Urbano tendrá como función, conducir los procedimientos para la autorización de acciones de urbanización, emitir autorizaciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de imagen urbana, encargándose de:
+El Departamento de Control Urbano tendrá como función, conducir los procedimientos para la autorización de acciones de urbanización, emitir autorizaciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de imagen urbana, y uso de suelo encargándose de:
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 I.- Vigilar que en el desarrollo de acciones de urbanización y edificaciones, que se lleven a cabo en predios urbanos ubicados dentro del territorio municipal, se respeten los usos de suelo previstos en los planes y programas de desarrollo urbano, así como en declaratorias correspondientes;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 II.- Otorgar o negar licencias de construcción, de movimientos de tierra, de reparación, modificación, ampliación, instalación o demolición de edificaciones; así como autorizaciones de uso de suelo;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 III.- Coordinar los procedimientos que se sigan para la modificación de los usos del suelo aprobados;
 
-IV.- Operar el proceso de autorización de acciones de urbanización a desarrollarse en predios urbanos ubicados dentro del territorio municipal, vigilando que éstas se apeguen a los planes y programas de desarrollo urbano, así como a la normatividad municipal aplicable;
+IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2011)
 
-V.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo con las disposiciones reglamentarias;
+V.- (DEROGADA, P.O. 10 DE JUNIO DE 2011)
 
-VI.- Coordinar el procedimiento de incorporación de predios en los que se hayan desarrollado acciones de urbanización para la expansión o renovación urbana;
+VI.- (DEROGADA, P.O. 10 DE JUNIO DE 2011)
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 VII.- Observar y aplicar las disposiciones de la ley de edificaciones del estado y el reglamento municipal de la materia;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 VIII.- Autorizar el régimen de propiedad en condominio, de acuerdo con la ley correspondiente;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 IX.- Observar y aplicar las disposiciones municipales en materia de imagen urbana;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 X.- Conducir los procedimientos para la recuperación de vías públicas municipales;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 XI.- Otorgar o negar autorizaciones para el establecimiento de espacios de estacionamiento de vehículos en la vía pública, para usos (sic) exclusivo del permisionario, determinando las condiciones correspondientes;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
 XII.- Realizar las inspecciones y verificaciones, así como emitir dictámenes técnicos y determinar e imponer las sanciones y medidas de seguridad que correspondan, a efecto de que las acciones de edificación y urbanización, así como los usos a que sean sometidos los predios y áreas ubicadas en el territorio municipal, cumplan con los requisitos reglamentarios y demás disposiciones normativas en materia de desarrollo urbano vigente; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 XIII.- Desarrollar sistemas para llevar registros relativos al control urbano y el uso del suelo.
 
@@ -3175,11 +3215,59 @@ XIX.- Realizar los dictámenes de factibilidad para el establecimiento de estaci
 
 ###### ARTICULO 140.
 
-(DEROGADO, P.O. 25 DE ENERO DE 2008)
+El Departamento de Proyectos de Equipamiento y Paisaje Urbano se encargará de planear, coordinar, desarrollar y promover la elaboración de normas, estudios y proyectos derivados de la planeación urbana, relativos al equipamiento y paisaje urbano del ámbito municipal, para lo cual le corresponderá:
+
+I.- Diseñar, integrar y verificar el cumplimiento de normas, políticas, lineamientos y especificaciones técnicas del equipamiento y paisaje urbano;
+
+II.- Diseñar y elaborar los estudios, anteproyectos y proyectos de equipamiento y paisaje urbano que deba formular la dirección, así como aprobar los que sean contratados o realizados por la misma y las demás dependencias y entidades, vigilando la aplicación de normas y lineamientos establecidos;
+
+III.- Elaborar estudios de factibilidad básicos para la fundamentación o realización de proyectos de equipamiento en general, relativos a los proyectos de equipamiento y paisaje urbano, promovidos por la dirección, dependencias, entidades o particulares;
+
+IV.- Realizar o revisar para su aprobación, los cálculos estructurales, eléctricos y paisaje urbano programados para ejecutarse por la dirección y demás dependencias y entidades;
+
+V.- Elaborar expedientes técnicos sobre estudios y proyectos de equipamiento y paisaje urbano mediante su representación documental y gráfica, para promover la autorización de recursos financieros para su ejecución;
+
+VI.- Dar seguimiento y supervisar las obras de equipamiento y paisaje urbano proyectadas, aprobando en su caso para su trámite, las estimaciones que se presenten por los consultores que las lleven a cabo;
+
+VII.- Formular dictámenes que fundamenten la declaratoria de utilidad pública en los casos de expropiación, ocupación temporal y limitación de dominio para la ejecución de obras de equipamiento y paisaje urbano;
+
+VIII.- Elaborar estudios e investigaciones que fundamenten los peritajes técnicos de edificación que soliciten las dependencias para la aplicación de disposiciones reglamentarias municipales; y
+
+IX.- Integrar, actualizar y resguardar los archivos de estudios y proyectos de equipamiento y paisaje urbano ejecutados y en proceso.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 141.
 
-(DEROGADO, P.O. 25 DE ENERO DE 2008)
+El Departamento de Fraccionamientos tendrá como función conducir los procedimientos para la autorización de acciones de urbanización como fraccionamientos y modificaciones de predios urbanos, ajustándose a la normatividad aplicable:
+
+I.- Vigilar que en el desarrollo de acciones de urbanización que se le lleven a cabo en predios rústicos ubicados dentro del territorio municipal, se respeten los usos de suelo previstos en los planes y programas de desarrollo urbano, así como declaratorias correspondientes;
+
+II.- Operar el proceso de autorización de acciones de urbanización a desarrollarse en predios rústicos dentro del territorio municipal, vigilando que estas se apeguen a los planes y programas de desarrollo urbano, así como a la normatividad aplicable;
+
+lII.- Emitir las autorizaciones para el desarrollo de acciones de urbanización que le competan de acuerdo a las disposiciones reglamentarias;
+
+IV.- Coordinar el procedimiento de incorporación de predios en los que hayan desarrollado acciones de urbanización para la expansión o renovación urbana;
+
+V.- Otorgar o negar usos de suelo para acciones de urbanización;
+
+VI.- Autorizar anteproyectos de lotificación para acciones de urbanización;
+
+VII.- Autorizar proyectos ejecutivos nuevos o modificaciones a la geometría de ejes de vías públicas, manzanas y lotificación;
+
+VIII.- Otorgar visto bueno a anteproyectos de infraestructura urbana para acciones de urbanización;
+
+IX.- Autorizar o negar la modificación de predios urbano (sic) y rústicos;
+
+X.- Validar y certificar las memorias descriptivas resultantes para fraccionamientos nuevos, así como todas aquellas memorias descriptivas resultantes para fraccionamientos autorizados por Dependencias de Gobierno Municipal, Estatal y Federal como los son los autorizados por INDIVI, CORETT, Oficialía Mayor del Gobierno del Estado, Oficialía Mayor del Gobierno Municipal, FIDUM, etc. y las resultantes por modificación de predios;
+
+XI.- Emitir acta de entrega-recepción de nuevos Fraccionamientos;
+
+XII.- Emitir notificación y constancia en el proceso de autorización y funcionamiento de las acciones de urbanización;
+
+XIII.- Elaborar acuerdos de autorización de fraccionamientos para llevar a cabo la construcción de obras de urbanización y la enajenación de sus lotes; y
+
+XIV.- Realizar inspecciones y verificaciones para la determinación de sanciones a fin de las acciones de urbanización cumplan con las disposiciones normativas en materia de desarrollo urbano.
 
 ## TITULO SEPTIMO. DE LA DIRECCION MUNICIPAL DE FOMENTO AGROPECUARIO Y PESQUERO
 
@@ -3384,3 +3472,7 @@ SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su 
 P.O. 29 DE ABRIL DE 2011.
 
 SEGUNDO: Las presentes modificaciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 10 DE JUNIO DE 2011.
+
+SEGUNDO: Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
