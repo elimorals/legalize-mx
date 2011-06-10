@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2010-10-15"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -163,13 +163,17 @@ Las sanciones respectivas se aplicarán en un plazo que no excederá de un año 
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de los elementos de prueba, podrá formular por escrito ante la Presidencia del Congreso del Estado, denuncia de Juicio Político por la comisión de las conductas a que se refiere el artículo 9 de esta Ley, debiendo ratificarla ante la misma autoridad, en ese mismo acto o bien dentro de los tres días hábiles siguientes al de su presentación.
 
-Una vez ratificada la denuncia, ésta se turnará de inmediato con la documentación que la acompañe a la Comisión de Legislación y Puntos Constitucionales, debiendo notificar de dicha remisión a cada una de las coordinaciones de los Grupos Parlamentarios representados en el Poder Legislativo.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2011)</small>
+
+Una vez ratificada la denuncia, ésta se turnará de inmediato con la documentación que la acompañe a la Comisión Jurisdiccional del Congreso, debiendo notificar de dicha remisión a cada una de las coordinaciones de los Grupos Parlamentarios representados en el Poder Legislativo.
 
 Las denuncias anónimas o no ratificadas en el plazo a que se refiere éste artículo, no producirán ningún efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 14.
 
-La Comisión de Legislación y Puntos Constitucionales deberá, en un plazo de treinta días naturales contados a partir de que le sea turnada la denuncia, emitir un dictamen en el que se determine si ha lugar para iniciar el procedimiento y para tal efecto, deberá de verificar si se reúnen las siguientes condiciones:
+La Comisión Jurisdiccional en un plazo de treinta días naturales contados a partir de que le sea turnada la denuncia, deberá emitir un dictamen en el que se determine si ha lugar para iniciar el procedimiento y para tal efecto, deberá de verificar si se reúnen las siguientes condiciones:
 
 I. Si el denunciado es servidor público en los términos del Artículo 3 de la presente Ley;
 
@@ -177,11 +181,17 @@ II. Si la denuncia contiene la descripción de hechos que justifiquen que la con
 
 III. Si los elementos de prueba agregados a la denuncia, permiten presumir la existencia de la infracción y la probable responsabilidad del o de los denunciados y por lo tanto amerita el inicio del procedimiento de Juicio Político.
 
+(REPUBLICADO, P.O. 10 DE JUNIO DE 2011)
+
 Si no se reúnen todas las condiciones anteriores, el dictamen deberá proponer invariablemente que sea desechada de plano la denuncia.
 
-Cualquiera que sea el sentido del dictamen elaborado por la Comisión de Legislación y Puntos Constitucionales, deberá turnarlo al Pleno del Congreso del Estado para su aprobación.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2011)</small>
 
-El plazo a que se refiere el primer párrafo de éste artículo, podrá prorrogarse a la solicitud de la Comisión, y siempre que la apruebe el Pleno, pero en ningún caso dicha prórroga excederá de quince días naturales contados a partir del vencimiento del primer plazo señalado.
+Cualquiera que sea el sentido del dictamen elaborado por la Comisión Jurisdiccional deberá turnarlo al Pleno del Congreso del Estado para su aprobación.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2011)</small>
+
+El plazo a que se refiere el primer párrafo de éste artículo, podrá prorrogarse a solicitud de la Comisión, y siempre que la apruebe el Pleno, pero en ningún caso dicha prórroga excederá de quince días naturales contados a partir del vencimiento del primer plazo señalado.
 
 ###### ARTÍCULO 15.
 
@@ -972,3 +982,7 @@ P.O. 21 DE MAYO DE 2010.
 P.O. 15 DE OCTUBRE DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE JUNIO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
