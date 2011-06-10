@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-del-73733"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-05"
-last_updated: "2010-04-30"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEPTIMO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 10 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: DEROGADO.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 5 de marzo de 2010.
 
@@ -1198,3 +1200,51 @@ LIC. JOSÉ ANTONIO RAMÍREZ GÓMEZ
 B.O. 30 DE ABRIL DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE JUNIO DE 2011.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las referencias que se hagan y las facultades que se otorga en leyes, reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones jurídicas a la Dirección de Política Hacendaria y Administrativa y a la Unidad Jurídica Fiscal o Dirección Jurídica, que por virtud de la modificación al Código Fiscal del Estado y Municipios del Estado de Baja California Sur y de éste Reglamento cambian de nombre, se entenderán hechas o conferidas a la Subsecretaría y a la Procuraduría Fiscal, según corresponda.
+
+TERCERO.- El Secretario de Finanzas, realizaran las gestiones necesarias para que el personal y presupuesto asignado al Departamento de Ejecución y Recuperación de Créditos de la Dirección de Ingresos de la Secretaria de Finanzas pase a la Dirección de Control de Créditos y Cobranza Coactiva; así como las acciones necesarias para que la misma quede debidamente instalada dentro del mes siguiente a la fecha de inicio de vigencia del presente reglamento.
+
+CUARTO.- Los Procedimientos Administrativos de Ejecución y los procedimientos relativos a la autorización, reestructuración y/o revocación de los Convenios de pago en parcialidades o diferido que a la fecha de entrada en vigor de éste Reglamento no hayan concluido o se encuentren en trámite, continuaran llevándose por la Dirección de Control de Créditos y Cobranza.
+
+QUINTO.- Los titulares de la Dirección de Ingresos y de la Dirección de Control de Créditos y Cobranza Coactiva deberán realizar las acciones necesarias para que: el primero realice la entrega integra y total al segundo, de los expedientes de Procedimientos Administrativos de Ejecución y de los Convenios de pago en parcialidades o diferido que a la fecha de entrada en vigor de éste reglamento, tenga bajo su responsabilidad, en un plazo no mayor a dos meses siguiente a la fecha de entrada en vigor del presente reglamento.
+
+SEXTO.- La entrega que realice el Director de Ingresos a la Dirección de Control de Créditos y Cobranza Coactiva, deberá ser por escrito, mediante relación que permita identificar los expedientes que recibe, clasificarlos, diagnosticar su estado procesal y continuar con el Procedimiento Administrativo de Ejecución, o darle seguimiento a los convenios de pago en parcialidades o diferido que haya autorizado y a las solicitudes que haya recibido.
+
+La relación a que se refiere el párrafo anterior deberá reunir cuando menos lo siguiente:
+
+a) Número de expediente administrativo de ejecución, o en su caso de convenio, de pago a plazos o diferido;
+
+b) Numero de control del crédito fiscal, e importe del mismo.
+
+c) Nombre y domicilio del contribuyente.
+
+d) Fecha de la última actuación realizada en el expediente.
+
+e) Créditos fiscales a punto de prescribir y su cuantía
+
+f) Importe efectivamente cobrado de dichos expedientes a través del Procedimiento Administrativo de Ejecución.
+
+g) Tipo de garantía exhibida.
+
+Asimismo deberá informar a la Dirección de Control de Créditos y Cobranza Coactiva, de:
+
+1. Los bienes que se encuentren embargados, especificando el lugar y estado de los mismos;
+
+2. Los expedientes tienen más de cinco años de inactividad procesal;
+
+3. Los expedientes que tienen más de 4 años seis meses sin actividad procesal.
+
+Tratándose de los puntos dos y tres anteriores deberá informar los motivos de dicha inactividad.
+
+SÉPTIMO.- Se Deroga el Reglamento interior de la Secretaria de Finanzas publicado en el Boletín Oficial del Gobierno del Estado el 05 de marzo del 2010, con excepción de lo establecido en los artículos octavo y noveno transitorio de este reglamento.
+
+OCTAVO.- Para los efectos de los procedimientos iniciados antes del 05 de marzo del 2010, se aplicará hasta su total conclusión el Reglamento Interior de la Secretaria de Finanzas publicado en el Boletín Oficial del Gobierno del Estado número siete, de fecha diez de febrero de 2001, así como sus reformas y modificaciones.
+
+NOVENO.- Para los efectos de los procedimientos iniciados después del 05 de marzo del 2010 pero antes de la entrada en vigor del presente reglamento, se aplicará hasta su total conclusión el Reglamento interior de la Secretaria de Finanzas publicado en el Boletín Oficial del Gobierno del Estado extraordinario número ocho, del 05 de marzo del 2010.
+
+DÉCIMO.- Los expedientes que hasta antes de la entrada en vigor de éste reglamento se encuentran en trámite pendientes de contestación o resolución en la Dirección Jurídica de la Secretaría de Finanzas, serán concluidos por la Procuraduría Fiscal, en virtud de que ésta solo cambia de nombre y en los términos de los artículos octavo y noveno transitorios de éste reglamento.
