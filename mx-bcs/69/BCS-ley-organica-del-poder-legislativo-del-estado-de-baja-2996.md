@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-05-27"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -545,6 +545,10 @@ XXII.- DEL AGUA.
 
 XXIII.- DEL DEPORTE.
 
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2011)</small>
+
+XXIV.- DE TRANSPARENCIA.
+
 ###### ARTICULO 55.
 
 Será materia de estudio y dictamen de las distintas comisiones, lo siguiente:
@@ -840,6 +844,18 @@ b).- Lo relativo a planes y programas encaminados a impulsar y estimular el depo
 c).- Lo relativo a la creación de estímulos y premios para reconocer el esfuerzo de los deportistas sudcalifornianos destacados; y
 
 d).- Los demás que le señale la Mesa Directiva del Congreso y la Gran Comisión.
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2011)</small>
+
+XXIV.- DE TRANSPARENCIA:
+
+a) El conocimiento de los asuntos relacionados con la falta de transparencia de los actos de gobierno;
+
+b) Lo relacionado con la difusión de las iniciativas, pronunciamientos, puntos de acuerdo y dictámenes sobre iniciativas que se presenten ante el pleno del Congreso del Estado;
+
+c) Las quejas de particulares que tengan que ver con la falta de transparencia; y
+
+d) Las demás que le encomiende la Mesa Directiva y la Gran Comisión.
 
 ###### ARTICULO 56.
 
@@ -1813,7 +1829,7 @@ Las autoridades y funcionarios públicos en el desempeño de sus cargos, podrán
 
 ###### ARTICULO 187.
 
-El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en este. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
+El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en éste. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
 
 ###### ARTICULO 188.
 
@@ -2368,5 +2384,9 @@ B.O. 20 DE MARZO DE 2011.
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 27 DE MAYO DE 2011.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2011.
 
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
