@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-ciudadano-de-seguridad-publica-26190"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-11"
-last_updated: "2002-07-12"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO Y SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 11 de junio de 1999.
 
@@ -496,3 +498,13 @@ P.O. 12 DE JULIO DE 2002.
 ###### ARTICULO PRIMERO.
 
 Las presentes modificaciones al Reglamento de (sic) Consejo Ciudadano de Seguridad Pública entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente reglamento entrará vigor (sic) el primero de enero de 2012, debidamente publicado en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Se abroga el Reglamento del Consejo Ciudadano de Seguridad Pública, publicado en el Periódico Oficial de (sic) Estado de Baja California el once de Junio de 1999, salvo lo previsto en el Artículo transitorio siguiente.
+
+Artículo Tercero.- Los actuales Consejeros y el Secretario Técnico que fueron designados y desempeñan sus funciones con motivo del reglamento que se abroga, continuarán en su encargo hasta en tanto se instale el Consejo Ciudadano de Seguridad Pública del Estado de Baja California, con base al presente Reglamento.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se contrapongan al presente Reglamento.
