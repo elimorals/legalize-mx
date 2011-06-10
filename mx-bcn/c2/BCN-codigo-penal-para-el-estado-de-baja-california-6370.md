@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-04-29"
+last_updated: "2011-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2149,9 +2149,11 @@ VII.- Cuando se cometa por los empleados, obreros, artesanos, aprendices o disc�
 
 VIII.- Cuando se cometa en contra de bienes afectados a la prestación de un servicio público Estatal o Municipal.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
-Artículo 208 BIS.- Robo de Vehículo. Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de dos a doce años de prisión y de quinientos hasta mil días multa.
+Artículo 208 BIS.- Robo de Vehículo. Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de cinco a doce años de prisión y de quinientos hasta mil días multa.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le agregarán de uno a tres años de prisión.
 
@@ -4716,3 +4718,7 @@ P.O. 9 DE FEBRERO DE 2011.
 P.O. 29 DE ABRIL DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto iniciará su vigencia del (sic) día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
