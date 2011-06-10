@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-junta-local-de-conciliacion-y-7548"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-07-03"
-last_updated: "1984-07-03"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 3 de julio de 1984.
 
@@ -858,3 +860,11 @@ LIC. JOSE LUIS GONZALEZ RIOS; LIC. MARCO ANTONIO VILLANUEVA HALLAL; LIC. MANUEL 
 EL SECRETARIO DEL PLENO:
 
 LIC. RUBEN RAMIREZ JIMENEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Queda abrogado el Reglamento Interior de la Junta Local de Conciliación y Arbitraje y de las Juntas Locales de Conciliación del Estado de Puebla, publicado en el Periódico Oficial del Estado, el día tres de julio de mil novecientos ochenta y cuatro.
