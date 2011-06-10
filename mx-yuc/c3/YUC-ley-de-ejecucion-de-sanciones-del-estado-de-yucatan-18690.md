@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ejecucion-de-sanciones-del-estado-de-yucatan-18690"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2010-09-07"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE EJECUCION DE SANCIONES DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 10 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -1264,3 +1266,77 @@ Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del a�
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 10 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el diecinueve de junio de dos mil once, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ejecución de Sanciones del Estado de Yucatán publicada en el Diario Oficial del Gobierno del Estado mediante Decreto 255 de fecha treinta de marzo de dos mil.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de ejecución de sentencia que se encuentren en trámite al momento de entrar en vigor esta Ley se continuarán ejecutando de conformidad con la misma y sólo se aplicarán las disposiciones de la ley que se abroga en lo que beneficie a los sentenciados.
+
+Para los efectos de este artículo, los jueces en materia penal del Estado remitirán a los Jueces de Ejecución de Sentencia correspondientes las copias certificadas de las sentencias firmes que hayan dictado y cuya ejecución no hubiera concluido a la entrada en vigor de la presente Ley, poniendo al sentenciado a su disposición jurídica.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes de otorgamiento de beneficios de libertad anticipada que se encuentren en trámite en la Dirección de Prevención y Readaptación Social y pendientes de resolución a la entrada en vigor de esta Ley, serán resueltas por el Poder Ejecutivo aplicando la ley más favorable al sentenciado.
+
+###### ARTÍCULO QUINTO.
+
+Las audiencias ante el Juez de Ejecución previstas en las Secciones Segunda y Tercera del Capítulo I del Título Tercero de esta Ley se verificarán en los procedimientos de ejecución de sentencia que deriven de procesos penales sustanciados de conformidad con el sistema procesal penal acusatorio; mientras tanto la tramitación de las cuestiones relativas se sustanciarán de la forma siguiente:
+
+l. Con la promoción del interesado se dará vista a las partes para que contesten en un término máximo de tres días hábiles;
+
+II. Si el Juez de Ejecución lo estimare necesario, o alguna de las partes lo pidiere, se abrirá un término de prueba que no excederá de diez días hábiles, y
+
+III. Concluidos dichos plazos, se citará a las partes para una audiencia que se celebrará dentro de los tres días hábiles siguientes. Verificada la audiencia, el Juez de Ejecución resolverá dentro de los tres días siguientes.
+
+###### ARTÍCULO SEXTO.
+
+En los procedimientos de ejecución de sentencia, que deriven de procesos penales sustanciados de conformidad con el sistema inquisitivo mixto, operará la suplencia de la queja en favor del sentenciado tratándose de los agravios en el recurso de apelación que prevé esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procesados sujetos a prisión preventiva tendrán los derechos que esta Ley reconoce a los sentenciados, en tanto se expide la legislación que regule el control y vigilancia de medidas cautelares y los jueces en materia penal vigilarán el respeto de esos derechos en la forma y términos que establezca el órgano competente del Poder Judicial del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando otras disposiciones legales mencionen a la Dirección de Prevención y Readaptación Social se entenderán referidas a la Dirección de Ejecución, Prevención y Reinserción Social.
+
+###### ARTÍCULO NOVENO.
+
+Cuando otras disposiciones legales mencionen a los Centros de Readaptación Social se entenderán referidas a los Centros de Reinserción Social.
+
+###### ARTÍCULO DÉCIMO.
+
+El Poder Ejecutivo ajustará los Reglamentos Interiores de Los Centros de Reinserción Social a las disposiciones de la presente Ley dentro de los ciento ochenta días posteriores a la entrada en vigor de la misma.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Poder Ejecutivo implementará el sistema de carrera penitenciaria a que se refiere esta Ley, dentro de un año a partir de la entrada en vigor de la misma, previa expedición del Reglamento correspondiente.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Poder Ejecutivo contará con seis meses a partir de la entrada en vigor de esta Ley para expedir el Reglamento del Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán a que se refiere esta Ley.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango en lo que contravengan a esta Ley.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Cuando esta Ley haga referencia al Código Procesal Penal para el Estado de Yucatán, se entenderá también hecha al Código de Procedimientos en Materia Penal del Estado de Yucatán, en lo conducente y hasta en tanto esté en vigor dicho Código.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Cuando esta Ley haga referencia al recurso de revisión, se entenderá también hecha al recurso de revisión extraordinaria que establece el Código de Procedimientos en Materia Penal del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Cuando esta Ley haga referencia a la víctima, se entenderá también hecha al ofendido por el delito, en los términos del Código de Procedimientos en Materia Penal del Estado de Yucatán.
