@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-general-del-instituto-70552
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-09"
-last_updated: "2010-01-22"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de octubre de 2009.
 
@@ -119,7 +119,9 @@ El Director General será designado por el Consejo General, en los términos que
 
 El Director General tiene como funciones, en apego a las atribuciones que le otorga el artículo 155 de la Ley, las siguientes:
 
-I. Formular y proponer al Consejo General, las normas y políticas administrativas para el manejo del personal, los recursos materiales, financieros y bienes muebles e inmuebles del Instituto Electoral;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2011)</small>
+
+I. Determinar las directrices, políticas y procedimientos administrativos para el manejo del recurso humano, recursos materiales, financieros y bienes muebles e inmuebles del Instituto Electoral, debiendo notificarlas al Consejo General para su conocimiento, y en su caso, aprobación.
 
 II. Seleccionar, contratar, capacitar y establecer las normas de control, disciplina y horarios de labores del personal del Instituto Electoral, proponiendo los sueldos y fijando las demás remuneraciones que deban percibir de acuerdo al tabulador vigente, así como los programas y políticas para el goce de vacaciones;
 
@@ -988,3 +990,7 @@ SECRETARIO FEDATARIO
 P.O. 22 DE ENERO DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+P.O. 10 DE JUNIO DE 2011.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
