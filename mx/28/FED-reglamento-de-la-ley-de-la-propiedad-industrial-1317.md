@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-propiedad-industrial-1317"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-23"
-last_updated: "2003-09-19"
+last_updated: "2011-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de noviembre de 1994.
 
@@ -69,7 +69,9 @@ Las solicitudes o promociones deberán presentarse ante el propio Instituto o en
 
 I.- Estar debidamente firmadas en todos sus ejemplares;
 
-II.- Utilizar las formas oficiales impresas, aprobadas por el Instituto y publicadas en el Diario Oficial y en la Gaceta, en el número de ejemplares y anexos que se establezca en la propia forma, las que deberán presentarse debidamente requisitadas y, tratándose de medios magnéticos, conforme a la guía que el Instituto emita al efecto.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+II.- Utilizar las formas oficiales, aprobadas por el Instituto y publicadas en el Diario Oficial y en la Gaceta, en el número de ejemplares y anexos que se establezca en la propia forma, las que deberán presentarse debidamente requisitadas y, tratándose de medios electrónicos o de almacenamiento de datos, conforme al Acuerdo que el Instituto emita al efecto.
 
 En caso de no requerirse formas oficiales, las solicitudes o promociones deberán presentarse por duplicado, indicando al rubro el tipo de trámite solicitado y los datos a que se refiere la fracción V de este artículo;
 
@@ -89,9 +91,13 @@ IX.- Acompañarse de la legalización de los documentos provenientes del extranj
 
 Las solicitudes y promociones deberán presentarse por separado para cada asunto, salvo cuando se trate de inscripción de licencias o transmisiones en los términos previstos en los artículos 62, 63, 137 y 143 de la Ley; inscripción de transmisiones de derechos en las que hayan habido transmisiones intermedias no inscritas, y las relacionadas a un mismo asunto.
 
-Cuando las solicitudes o promociones no cumplan con los requisitos establecidos en las fracciones I a VI, VIII y IX anteriores, el Instituto requerirá a los solicitantes o promoventes para que dentro de un plazo de dos meses los subsanen. En caso de no cumplirse con el requerimiento, las solicitudes o promociones serán desechadas de plano.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-En caso de que las solicitudes o promociones no cumplan con el requisito establecido en la fracción VII anterior, los solicitantes o promoventes deberán, sin mediar requerimiento del Instituto, presentar ante éste la traducción correspondiente de los documentos que se exhiban dentro de los dos meses siguientes a la fecha en que esas solicitudes o promociones se entreguen. En caso de que los solicitantes o promoventes no exhiban la traducción dentro del plazo fijado, las solicitudes o promociones serán desechadas de plano.
+Con excepción a lo previsto por el artículo 36 de este Reglamento, cuando las solicitudes o promociones no cumplan con los requisitos establecidos en las fracciones II a V y VII a IX anteriores, el Instituto requerirá a los solicitantes o promoventes para que dentro de un plazo de dos meses los subsanen. En caso de no cumplir con el requerimiento, las solicitudes o promociones serán desechadas de plano.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+En caso de que las solicitudes o promociones no cumplan con los requisitos que se establecen en las fracciones I y VI de este artículo, se estará a lo dispuesto por el artículo 180 de la Ley.
 
 Las solicitudes y promociones remitidas por correo, servicios de mensajería u otros equivalentes se tendrán por recibidas en la fecha en que le sean efectivamente entregadas al Instituto.
 
@@ -549,21 +555,23 @@ IV.- Cuando una persona tenga la capacidad o derecho de designar la mayoría de 
 
 V.- Cuando una persona tenga la capacidad o el derecho de designar al director, gerente o factor principal de otra.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 56.
 
 En la solicitud de registro de marca, además de los datos señalados en el artículo 113 de la Ley, deberá indicarse:
 
-I.- Cuando se conozca el número de la clase a que correspondan los productos o servicios para los que se solicita el registro, de conformidad con la clasificación establecida en este Reglamento;
+I.- Cuando se conozca, el número de la clase a que correspondan los productos o servicios para los que se solicita el registro, de conformidad con la clasificación establecida en este Reglamento;
 
-II.- Las leyendas y figuras que aparezcan en el ejemplar de la marca y cuyo uso no se reserva.
+II.- Las leyendas y figuras que aparezcan en el ejemplar de la marca y cuyo uso no se reserva;
 
-Por el solo hecho de presentar la solicitud de registro, se entenderá que el solicitante se reserva el uso exclusivo de la marca, tal y como aparezca en el ejemplar de la misma que se exhiba adherido a la propia solicitud, con excepción de las leyendas y figuras a que se refiere la fracción II anterior. Tratándose de marcas nominativas, se entenderá que el solicitante se reserva el uso exclusivo de la marca en cualquier tipo o tamaño de letra.
+III.- Un ejemplar de la marca adherido a la solicitud, en su caso, y
 
-La solicitud se presentará en tres ejemplares. La firma autógrafa del solicitante deberá aparecer en todos los ejemplares.
+IV.- Ubicación del o de los establecimientos o negociaciones relacionados con la marca, siempre y cuando se haya señalado fecha de primer uso.
 
-En su caso, un ejemplar de la marca deberá adherirse en cada uno de los tantos de la solicitud, y
+Por el solo hecho de presentar la solicitud de registro, se entenderá que el solicitante se reserva el uso exclusivo de la marca, tal y como aparezca en el ejemplar de la misma que se exhiba adherido a la propia solicitud, con excepción de las leyendas y figuras a que se refiere la fracción II anterior.
 
-III.- Ubicación del o de los establecimientos o negociaciones relacionados con la marca.
+Las marcas nominativas o avisos comerciales sólo podrán conformarse de letras o palabras compuestas con el alfabeto romano, números arábigos occidentales, así como de aquellos signos ortográficos que auxilien a su correcta lectura. Se entenderá que el solicitante se reserva el uso en cualquier tipo o tamaño de letra.
 
 ###### ARTICULO 57.
 
@@ -591,15 +599,15 @@ Los productos o servicios incluidos en la lista alfabética de la clasificación
 
 El Instituto establecerá los criterios de interpretación y aplicación de esta clasificación.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 60.
 
 Para reconocer la prioridad a que se refiere el artículo 117 de la Ley, el solicitante de registro de marca deberá satisfacer los requisitos siguientes:
 
-I.- Señalar en la solicitud, cuando se conozca, el número de la solicitud de registro de marca presentada en el país de origen, cuya fecha de presentación se reclame como fecha de prioridad;
+I.- Señalar en la solicitud, cuando se conozca, el número de la solicitud de registro de marca presentada en el país de origen, cuya fecha de presentación se reclame como fecha de prioridad, y
 
-II.- Exhibir el comprobante de pago de la tarifa correspondiente, y
-
-III.- Exhibir, dentro de los tres meses siguientes a la presentación de la solicitud, una copia certificada de la solicitud de registro de marca presentada en el país de origen y, en su caso, de la traducción correspondiente. En caso de no cumplir con este requisito, se tendrá como no reclamado el derecho de prioridad.
+II.- Exhibir el comprobante de pago de la tarifa correspondiente.
 
 ###### ARTICULO 61.
 
@@ -651,9 +659,11 @@ IX.- Obligaciones del franquiciatario respecto de la información de tipo confid
 
 X.- En general las obligaciones y derechos del franquiciatario que deriven de la celebración del contrato de franquicia.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 66.
 
-Para los efectos del artículo 102 de la Ley, se aplicará la clasificación prevista en el artículo 59 de este Reglamento, en lo conducente. Sin embargo, en una misma solicitud podrán comprenderse productos o servicios de dos o más clases.
+Para los efectos del artículo 102 de la Ley, se aplicará la clasificación prevista en el artículo 59 de este Reglamento, en lo conducente.
 
 ###### ARTICULO 67.
 
@@ -782,3 +792,9 @@ D.O.F. 19 DE SEPTIEMBRE DE 2003.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto Mexicano de la Propiedad Industrial expedirá en un plazo de sesenta días naturales las disposiciones relativas a la integración, funcionamiento y actualización del listado a que se refiere el artículo 47-bis del Reglamento de la Ley de la Propiedad Industrial que se adiciona conforme a este Decreto, así como los formatos de consulta aplicables. Para este efecto el Instituto tomará en consideración la opinión de la Cámara Nacional de la Industria Farmacéutica.
+
+D.O.F. 10 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes que, con antelación a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial se sustanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación, salvo que los interesados opten por la aplicación de las disposiciones contenidas en el presente Decreto, y así lo hagan saber por escrito al Instituto Mexicano de la Propiedad Industrial dentro los treinta días naturales siguientes a su entrada en vigor.
