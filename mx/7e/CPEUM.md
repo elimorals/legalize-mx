@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2011-06-06"
+last_updated: "2011-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -36,21 +36,33 @@ CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FE
 
 ## TITULO PRIMERO.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ### CAPITULO I.
 
-DE LAS GARANTIAS INDIVIDUALES.
+DE LOS DERECHOS HUMANOS Y SUS GARANTIAS.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ###### Art. 1o.
 
-En los Estados Unidos Mexicanos todo individuo gozará de las garantías que otorga esta Constitución, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
+En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(ADICIONADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional alcanzarán, por este solo hecho, su libertad y la protección de las leyes.
 
-> <small>(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, D.O.F. 14 DE AGOSTO DE 2001)</small>
 
@@ -120,11 +132,15 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 Todo individuo tiene derecho a recibir educación. El Estado -federación, estados, Distrito Federal y municipios-, impartirá educación preescolar, primaria y secundaria. La educación preescolar, primaria y la secundaria conforman la educación básica obligatoria.
 
-> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
 
 I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
 
 II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
@@ -140,6 +156,8 @@ c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aport
 
 III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y del Distrito Federal, así como de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale;
 
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
+
 IV. Toda la educación que el Estado imparta será gratuita;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
@@ -150,11 +168,19 @@ V. Además de impartir la educación preescolar, primaria y secundaria señalada
 
 VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
+
 a) Impartir la educación con apego a los mismos fines y criterios que establecen el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
 
 b) Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
 
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
+
 VII. Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere, y
+
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
 
 VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
@@ -268,9 +294,13 @@ No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que 
 
 Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en su domicilio, para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley Federal y de las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. La ley federal determinará los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### Art. 11.
 
-Todo hombre tiene derecho para entrar en la República, salir de ella, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvo-conducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial, en los casos de responsabilidad criminal o civil, y a las de la autoridad administrdativa (sic), por lo que toca a las limitaciones que impongan las leyes sobre emigración, inmigración y salubridad general de la República, o sobre extranjeros perniciosos residentes en el país.
+Toda persona tiene derecho para entrar en la República, salir de ella, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, pasaporte, salvoconducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial, en los casos de responsabilidad criminal o civil, y a las de la autoridad administrativa, por lo que toca a las limitaciones que impongan las leyes sobre emigración, inmigración y salubridad general de la República, o sobre extranjeros perniciosos residentes en el país.
+
+En caso de persecución, por motivos de orden político, toda persona tiene derecho de solicitar asilo; por causas de carácter humanitario se recibirá refugio. La ley regulará sus procedencias y excepciones.
 
 ###### Art. 12.
 
@@ -292,9 +322,11 @@ En los juicios del orden criminal queda prohibido imponer, por simple analogía,
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta se fundará en los principios generales del derecho.
 
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### Art. 15.
 
-No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren las garantías y derechos establecidos por esta Constitución para el hombre y el ciudadano.
+No se autoriza la celebración de tratados para la extradición de reos políticos, ni para la de aquellos delincuentes del orden común que hayan tenido en el país donde cometieron el delito, la condición de esclavos; ni de convenios o tratados en virtud de los que se alteren los derechos humanos reconocidos por esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -380,9 +412,9 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO QUINTO TRANSITORIO DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 La Federación, los Estados y el Distrito Federal podrán celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
@@ -397,8 +429,6 @@ Los sentenciados de nacionalidad mexicana que se encuentren compurgando penas en
 Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de delincuencia organizada y respecto de otros internos que requieran medidas especiales de seguridad.
 
 Para la reclusión preventiva y la ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de la ley.
-
-(VEASE ARCHIVO ANEXO)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
 
@@ -822,11 +852,19 @@ La sujeción a regímenes de servicio público se apegará a lo dispuesto por la
 
 Se podrán otorgar subsidios a actividades prioritarias, cuando sean generales, de carácter temporal y no afecten sustancialmente las finanzas de la Nación. El Estado vigilará su aplicación y evaluará los resultados de ésta.
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ###### Art. 29.
 
-En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los Titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión y, en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
+En los casos de invasión, perturbación grave de la paz pública, o de cualquier otro que ponga a la sociedad en grave peligro o conflicto, solamente el Presidente de los Estados Unidos Mexicanos, de acuerdo con los titulares de las Secretarías de Estado y la Procuraduría General de la República y con la aprobación del Congreso de la Unión o de la Comisión Permanente cuando aquel no estuviere reunido, podrá restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la restricción o suspensión se contraiga a determinada persona. Si la restricción o suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación; pero si se verificase en tiempo de receso, se convocará de inmediato al Congreso para que las acuerde.
+
+En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad; los derechos de la niñez; los derechos políticos; las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna; el principio de legalidad y retroactividad; la prohibición de la pena de muerte; la prohibición de la esclavitud y la servidumbre; la prohibición de la desaparición forzada y la tortura; ni las garantías judiciales indispensables para la protección de tales derechos.
+
+La restricción o suspensión del ejercicio de los derechos y garantías debe estar fundada y motivada en los términos establecidos por esta Constitución y ser proporcional al peligro a que se hace frente, observando en todo momento los principios de legalidad, racionalidad, proclamación, publicidad y no discriminación.
+
+Cuando se ponga fin a la restricción o suspensión del ejercicio de los derechos y garantías, bien sea por cumplirse el plazo o porque así lo decrete el Congreso, todas las medidas legales y administrativas adoptadas durante su vigencia quedarán sin efecto de forma inmediata. El Ejecutivo no podrá hacer observaciones al decreto mediante el cual el Congreso revoque la restricción o suspensión.
+
+Los decretos expedidos por el Ejecutivo durante la restricción o suspensión, serán revisados de oficio e inmediatamente por la Suprema Corte de Justicia de la Nación, la que deberá pronunciarse con la mayor prontitud sobre su constitucionalidad y validez.
 
 ### CAPITULO II.
 
@@ -894,9 +932,15 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 DE LOS EXTRANJEROS.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
 ###### Art. 33.
 
-Son extranjeros los que no posean las calidades determinadas en el artículo 30. Tienen derecho a las garantías que otorga el Capítulo I, Título Primero, de la presente Constitución; pero el Ejecutivo de la Unión tendrá la facultad exclusiva de hacer abandonar el territorio nacional, inmediatamente y sin necesidad de juicio previo, a todo extranjero cuya permanencia juzgue inconveniente.
+Son personas extranjeras las que no posean las calidades determinadas en el artículo 30 constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+El Ejecutivo de la Unión, previa audiencia, podrá expulsar del territorio nacional a personas extranjeras con fundamento en la ley, la cual regulará el procedimiento administrativo, así como el lugar y tiempo que dure la detención.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
@@ -2064,9 +2108,9 @@ VIII.- Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley 
 
 IX.- Designar, con ratificación del Senado, al Procurador General de la República.
 
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-X.- Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; y la lucha por la paz y la seguridad internacionales.
+X.- Dirigir la política exterior y celebrar tratados internacionales, así como terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos, sometiéndolos a la aprobación del Senado. En la conducción de tal política, el titular del Poder Ejecutivo observará los siguientes principios normativos: la autodeterminación de los pueblos; la no intervención; la solución pacífica de controversias; la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales; la igualdad jurídica de los Estados; la cooperación internacional para el desarrollo; el respeto, la protección y promoción de los derechos humanos y la lucha por la paz y la seguridad internacionales;
 
 > <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
@@ -2252,9 +2296,9 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 
 Los Magistrados de Circuito y los Jueces de Distrito serán nombrados y adscritos por el Consejo de la Judicatura Federal, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos a cargos superiores, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
 
-La Suprema Corte de Justicia de la Nación podrá nombrar alguno o algunos de sus miembros o algún Juez de Distrito o Magistrado de Circuito, o designar uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal o alguna de las Cámaras del Congreso de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe algún hecho o hechos que constituyan una grave violación de alguna garantía individual. También podrá solicitar al Consejo de la Judicatura Federal, que averigüe la conducta de algún juez o magistrado federal.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+La Suprema Corte de Justicia de la Nación podrá solicitar al Consejo de la Judicatura Federal que averigüe la conducta de algún juez o magistrado federal.
 
 La Suprema Corte de Justicia nombrará y removerá a su secretario y demás funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán a los respectivos funcionarios y empleados de los Tribunales de Circuito y de los Juzgados de Distrito, conforme a lo que establezca la ley respecto de la carrera judicial.
 
@@ -2440,19 +2484,35 @@ La función de consejero jurídico del Gobierno, estará a cargo de la dependenc
 
 B. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán organismos de protección de los derechos humanos que ampara el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial de la Federación, que violen estos derechos.
 
-Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
+Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, la Cámara de Senadores o en sus recesos la Comisión Permanente, o las legislaturas de las entidades federativas, según corresponda, podrán llamar, a solicitud de estos organismos, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+Estos organismos no serán competentes tratándose de asuntos electorales y jurisdiccionales.
 
 El organismo que establezca el Congreso de la Unión se denominará Comisión Nacional de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+Las Constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal establecerán y garantizarán la autonomía de los organismos de protección de los derechos humanos.
 
 La Comisión Nacional de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán substituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
 
 El Presidente de la Comisión Nacional de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
 
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+La elección del titular de la presidencia de la Comisión Nacional de los Derechos Humanos, así como de los integrantes del Consejo Consultivo, y de titulares de los organismos de protección de los derechos humanos de las entidades federativas, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+
 El Presidente de la Comisión Nacional de los Derechos Humanos presentará anualmente a los Poderes de la Unión un informe de actividades. Al efecto comparecerá ante las Cámaras del Congreso en los términos que disponga la ley.
 
 La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las entidades federativas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+La Comisión Nacional de los Derechos Humanos podrá investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2550,9 +2610,9 @@ e).- El equivalente al treinta y tres por ciento de los integrantes de la Asambl
 
 f).- Los partidos políticos con registro ante el Instituto Federal Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro.
 
-> <small>(ADICIONADO, D.O.F. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-g).- La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución. Asimismo los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -5725,6 +5785,26 @@ Segundo. El Congreso de la Unión expedirá las reformas legales correspondiente
 Tercero. Los juicios de amparo iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo por lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como el cumplimiento y ejecución de las sentencias de amparo.
 
 Cuarto. Para la integración de jurisprudencia por reiteración no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a lo dispuesto en las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+
+D.O.F. 10 DE JUNIO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La ley a que se refiere el tercer párrafo del artículo 1o. constitucional sobre reparación deberá ser expedida en un plazo máximo de un año contado a partir de la entrada en vigor del presente decreto.
+
+Tercero. La ley a que se refiere el artículo 11 constitucional sobre el asilo, deberá ser expedida en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+Cuarto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 29 constitucional en materia de suspensión del ejercicio de los derechos y las garantías, en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+Quinto. El Congreso de la Unión expedirá la Ley Reglamentaria del artículo 33 constitucional, en materia de expulsión de extranjeros en un plazo máximo de un año contado a partir del inicio de la vigencia de este decreto. En tanto se expida la ley referida, este artículo se seguirá aplicando en los términos del texto vigente.
+
+Sexto. Los casos previstos en el segundo párrafo del artículo 97 constitucional, que estén pendientes de resolución al momento de entrar en vigor la reforma, los continuará desahogando la Suprema Corte de Justicia de la Nación hasta su conclusión.
+
+Séptimo. En lo que se refiere al Apartado B del artículo 102 constitucional y a la autonomía de los organismos locales de derechos humanos, las legislaturas locales deberán realizar las adecuaciones que correspondan en un plazo máximo de un año contados (sic) a partir del inicio de la vigencia de este decreto.
+
+Octavo. El Congreso de la Unión adecuará la Ley de la Comisión Nacional de los Derechos Humanos en un plazo máximo de un año, contado a partir del inicio de la vigencia de este decreto.
+
+Noveno. Se derogan todas las disposiciones que contravengan el presente decreto.
 
 ###### ARTICULO PRIMERO.
 
