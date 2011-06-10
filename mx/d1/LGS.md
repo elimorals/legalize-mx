@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2011-06-07"
+last_updated: "2011-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -66,6 +66,8 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE TREINTA Y UN A VEINTIOCHO FRACCIONES.</small>
+
 ###### ARTICULO 3o.
 
 En los términos de esta Ley, es materia de salubridad general:
@@ -86,83 +88,121 @@ IV.- La atención materno-infantil;
 
 IV bis.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA [N DE E. ANTES FRACCION V], D.O.F. 10 DE JUNIO DE 2011)</small>
 
-V.- La salud visual;
+IV bis 1.- La salud visual;
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA [N DE E. ANTES FRACCION VI], D.O.F. 10 DE JUNIO DE 2011)</small>
 
-VI.- La salud auditiva;
+IV bis 2.- La salud auditiva;
 
-VII.- La planificación familiar;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-VIII.- La salud mental;
+V.- La planificación familiar;
 
-IX.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-X.- La promoción de la formación de recursos humanos para la salud;
+VI.- La salud mental;
 
-XI.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XII.- La información relativa a las condiciones, recursos y servicios de salud en el país;
+VII.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
-XIII.- La educación para la salud;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII.- La promoción de la formación de recursos humanos para la salud;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XIV.- La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
+IX.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
-XV.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XVI.- La salud ocupacional y el saneamiento básico;
+X.- La información relativa a las condiciones, recursos y servicios de salud en el país;
 
-XVII.- La prevención y el control de enfermedades transmisibles;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+XI.- La educación para la salud;
 
-XVII bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XVIII.- La prevención y el control de enfermedades no transmisibles y accidentes;
+XII.- La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
-XIX.- La prevención de la invalidez y la rehabilitación de los inválidos;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XX.- La asistencia social;
+XIII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XXI.- El programa contra el alcoholismo;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXII.- El programa contra el tabaquismo;
+XIV.- La salud ocupacional y el saneamiento básico;
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXIII.- La prevención del consumo de estupefacientes y psicotrópicos y el programa contra la farmacodependencia;
+XV.- La prevención y el control de enfermedades transmisibles;
 
-XXIV.- El control sanitario de productos y servicios y de su importación y exportación;
+> <small>(REFORMADA [N. DE E. ANTES FRACCION XVII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXV.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
+XV bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual;
 
-XXVI.- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en las fracciones XXII y XXIII;
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXVII.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
+XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXVIII.- El control sanitario de la disposición de órganos, tejidos y sus componentes y células;
+XVII.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXVIII bis.- El control sanitario de cadáveres de seres humanos;
+XVIII.- La asistencia social;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXIX.- La sanidad internacional;
+XIX.- El programa contra el alcoholismo;
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-XXX.- El tratamiento integral del dolor, y
+XX.- El programa contra el tabaquismo;
 
-XXXI.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del artículo 4o. Constitucional.
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXI.- La prevención del consumo de estupefacientes y psicotrópicos y el programa contra la farmacodependencia;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXII.- El control sanitario de productos y servicios y de su importación y exportación;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXIII.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXIV.- El control sanitario de los establecimientos dedicados al proceso de los productos incluidos en las fracciones XXII y XXIII;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXV.- El control sanitario de la publicidad de las actividades, productos y servicios a que se refiere esta Ley;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes y células;
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCION XXVIII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXVI bis.- El control sanitario de cadáveres de seres humanos;
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXVII.- La sanidad internacional;
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCION XXX], D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXVII bis.- El tratamiento integral del dolor, y
+
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+
+XXVIII.- Las demás materias que establezca esta Ley y otros ordenamientos legales, de conformidad con el párrafo tercero del Artículo 4o. Constitucional.
 
 ###### ARTICULO 4o.
 
@@ -314,9 +354,9 @@ A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
 I.- Dictar las normas oficiales mexicanas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-II.- En las materias enumeradas en las fracciones I, III, V, VI, XVII Bis, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII y XXIX, del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
+II.- En las materias enumeradas en las fracciones I, III, XV Bis, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley, organizar y operar los servicios respectivos y vigilar su funcionamiento por sí o en coordinación con dependencias y entidades del sector salud;
 
 III.- Organizar y operar los servicios de salud a su cargo y, en todas las materias de salubridad general, desarrollar temporalmente acciones en las entidades federativas; cuando éstas se lo soliciten, de conformidad con los acuerdos de coordinación que se celebren al efecto;
 
@@ -342,9 +382,9 @@ X.- Las demás que sean necesarias para hacer efectivas las facultades anteriore
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
-I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVIII Bis y XXX del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
+I.- Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general a que se refieren las fracciones II, II Bis, IV, IV Bis, IV Bis 1, IV Bis 2, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXVI Bis y XXVII Bis, del artículo 3o. de esta Ley, de conformidad con las disposiciones aplicables;
 
 II.- Coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud, y planear, organizar y desarrollar sistemas estatales de salud, procurando su participación programática en el primero;
 
@@ -6953,3 +6993,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las referencias que las disposiciones jurídicas o administrativas hagan a los productos de perfumería y belleza, se entenderán realizadas a los productos cosméticos. Asimismo, las disposiciones emitidas con anterioridad para los productos de perfumería y belleza mantendrán su vigencia.
 
 TERCERO.- El Poder Ejecutivo Federal, a través de las instancias competentes, emitirá en el Diario Oficial de la Federación las disposiciones aplicables para la verificación de las buenas prácticas de fabricación para este tipo de productos.
+
+D.O.F. 10 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
