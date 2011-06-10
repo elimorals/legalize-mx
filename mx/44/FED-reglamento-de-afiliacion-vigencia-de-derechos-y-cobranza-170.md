@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-afiliacion-vigencia-de-derechos-y-cobranza-170"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-11-19"
-last_updated: "2000-07-31"
+last_updated: "2011-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1990-11-15"
 
 REGLAMENTO DE AFILIACION, VIGENCIA DE DERECHOS Y COBRANZA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION, EL 31 DE JULIO DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL SISTEMA NACIONAL DE AFILIACION Y VIGENCIA DE DERECHOS, DE LA BASE DE DATOS UNICA DE DERECHOHABIENTES Y DEL EXPEDIENTE ELECTRONICO UNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de Federación, el lunes 19 de noviembre de 1990.
 
@@ -466,3 +468,13 @@ México, D. F. a 15 de noviembre de 1990.- El Director General, Lic. Emilio Lozo
 D.O.F. 31 DE JULIO DE 2000.
 
 UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las Dependencias y Entidades incorporadas deberán validar y actualizar la información de sus trabajadores contenida en la Base de Datos, en un plazo máximo de seis meses contados a partir de la publicación del presente ordenamiento en el Diario Oficial de la Federación.
+
+TERCERO.- A partir de la entrada en vigor de este Reglamento se abroga el Reglamento de Afiliación, Vigencia de Derechos y Cobranza, expedido por Acuerdo 5.1137.90, el 23 de julio de 1990, publicado en el Diario Oficial de la Federación con fecha 19 de noviembre de 1990, así como toda disposición normativa que se oponga al presente Reglamento.
+
+CUARTO.- Se mantendrán en vigor las disposiciones administrativas en materia de Afiliación y Vigencia de Derechos, hasta en tanto no se expidan las actualizaciones correspondientes.
