@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2011-02-28"
+last_updated: "2011-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -470,7 +470,7 @@ VII. Integrar los anteproyectos de presupuesto global y del Programa de Inversio
 
 VIII. Coadyuvar con las áreas administrativas del IEA, en la vigilancia de la correcta aplicación del presupuesto;
 
-IX. Coordinar, evaluar y supervisar los programas que se llevan a cabo en la Coordinación de Inglés;
+IX. (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
 X. Analizar las modificaciones presupuestales que soliciten las direcciones, unidades o coordinaciones del IEA y las entidades a los programas y proponer las modificaciones a la estructura orgánica del IEA de acuerdo a las necesidades del sector y disponibilidad presupuestal;
 
@@ -600,7 +600,13 @@ XXIX. Coordinar Interinstitucionalmente las acciones de competencia valoral;
 
 XXX. Delegar las facultades del presente capitulo a las subdirecciones, jefaturas de Departamento, Subjefaturas, los Coordinadores de los Centros de Desarrollo Educativo y demás áreas administrativas con las que cuente orgánicamente la Dirección; y
 
-XXXI. Las demás que le encomiende el Director General y que sean afines a las anteriores.
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXXI. Coordinar, evaluar y supervisar los programas que se llevan a cabo en la Coordinación de Inglés; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXXII. Las demás que le encomiende el Director General y que sean afines a las anteriores.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
@@ -750,21 +756,13 @@ I. Promover la comunicación y vinculación entre las instituciones de educació
 
 II. Proponer a las instancias administrativas y de planeación correspondientes el destino del financiamiento educativo para las instituciones de enseñanza media, enseñanza superior y de investigación científica, con base en los lineamientos y las disposiciones que establezcan las Autoridades competentes y sus propios órganos de gobierno;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+III. (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
-III. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste dicho servicio educativo;
+IV. (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+V. (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
-IV. Gestionar ante las autoridades educativas competentes la aprobación de los proyectos de creación, crecimiento, fusión y suspensión temporal o definitiva de los planteles de educación normal, previamente justificados por su Dirección;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
-
-V. Evaluar en forma sistemática y continua los planes y programas de estudio, los libros de texto, métodos y materiales educativos destinados a la educación normal; así como también aquellos que se encuentren en proceso de investigación, con el objeto de mantenerlos actualizados;
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
-
-VI. Establecer los criterios e instrumentos de evaluación permanente cuantitativa y cualitativa de los estudiantes de educación normal, a fin de obtener los parámetros que permitan determinar el rendimiento escolar individual, por materia, grado y licenciatura, así como también el desempeño del docente;
+VI. (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
@@ -1010,13 +1008,13 @@ XII. Las demás que el Director General le encomiende en el ejercicio de sus atr
 
 La Dirección de Desarrollo Educativo depende de la Dirección General y su titular tendrá a su cargo las siguientes facultades:
 
-I. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
+I. (ABROGADA, P.O. 5 DE ABRIL DE 2010) (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
 II. Proponer políticas y planes generales para la actualización permanente y la capacitación de los docentes y directivos en servicio de educación especial, básica y normal, tomando en cuenta las opiniones y propuestas que al respecto emitan las autoridades educativas locales y de diversos sectores sociales involucrados en la educación;
 
 III. Aprobar y supervisar los cursos de capacitación, actualización y superación permanente del personal directivo y docente de educación especial, básica y normal en la entidad;
 
-IV. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
+IV. (ABROGADA, P.O. 5 DE ABRIL DE 2010) (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
 V. Coordinar, supervisar y evaluar los programas de actualización y capacitación de maestros implementados por la SEP;
 
@@ -1032,9 +1030,9 @@ X. Asesorar a las autoridades educativas en lo relativo al contenido de los prog
 
 XI. Supervisar que los cursos de actualización y capacitación que se impartan tengan valor escalafonario, cuando reúnan los requisitos para ello;
 
-XII. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
+XII. (ABROGADA, P.O. 5 DE ABRIL DE 2010) (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
-XIII. (ABROGADA, P.O. 5 DE ABRIL DE 2010)
+XIII. (ABROGADA, P.O. 5 DE ABRIL DE 2010) (DEROGADA, P.O. 13 DE JUNIO DE 2011)
 
 XIV. Dirección, supervisión y vigilancia de las Coordinación (sic) operativas del (sic) Programas Compensa- torios (sic), Programa Escuelas de Calidad, UMBRAL y Biblos, así como los que le sean encomendados por el Director General;
 
@@ -1048,7 +1046,25 @@ XVIII. Orientar a los programas en las tomas de decisiones para que la aplicaci�
 
 XIX. Supervisar las actividades derivadas de cada uno de los programas interinstitucionales con el fin de cumplir con las metas establecidas en cada uno de ellos;
 
-XX. Las demás que le sean encomendadas por el Director General y le sean afines a las anteriores.
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XX. Supervisar los servicios de educación normal a cargo del IEA, los incorporados y organismos públicos que preste (sic) dicho servicio educativo;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXI. Gestionar ante las autoridades educativas competentes la aprobación de los proyectos de creación, crecimiento, fusión y suspensión temporal o definitiva de los planteles de educación normal, previamente justificados por su Dirección;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXII. Evaluar en forma sistemática y continua los plantes (sic) y programas de estudio, libros de texto, métodos y materiales educativos destinados a la educación normal; así como también aquellos que se encuentren en proceso de investigación, con el objeto de mantenerlos actualizados;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIII. Establecer los criterios e instrumentos de evaluación permanente cuantitativa y cualitativa de los estudiantes de educación normal, a fin de obtener los parámetros que permitan determinar el rendimiento escolar individual, por materia, grado y licenciatura, así como también el desempeño del docente;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIV. Y las demás que le sean encomendadas por el Director General y le sean afines a las anteriores.
 
 ## TÍTULO VI. DE LAS COORDINACIONES
 
@@ -1207,5 +1223,9 @@ P.O. 1 DE NOVIEMBRE DE 2010.
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 28 DE FEBRERO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
