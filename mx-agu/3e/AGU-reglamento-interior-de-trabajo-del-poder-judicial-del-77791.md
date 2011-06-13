@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-trabajo-del-poder-judicial-del-77791"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-20"
-last_updated: "2010-12-27"
+last_updated: "2011-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE TRABAJO DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de octubre de 2003.
 
@@ -222,9 +222,11 @@ VII.- Por el pago de las primas de seguros de vehículos y de vida;
 
 VIII.- Por cumplimiento a lo establecido en el artículo 102 fracciones III y IV de este Reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 23.
 
-Los servidores públicos tendrán derecho a un aguinaldo anual equivalente a treinta y siete días de salario, y deberá pagarse antes del día veinte de diciembre de cada año.
+Los servidores públicos tendrán derecho a un aguinaldo anual equivalente a treinta y ocho días de salario, y deberá pagarse antes del veinte de diciembre de cada año.
 
 ###### ARTICULO 24.
 
@@ -358,11 +360,11 @@ Cuando un servidor público sin tener derecho a gozar del período vacacional po
 
 Las licencias de los servidores públicos para separarse de sus funciones serán económicas, voluntarias, necesarias y por fuerza mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 41.
 
-Son licencias económicas con goce de sueldo, las que se conceden a los servidores públicos hasta por dos días hábiles dentro de un año calendario y deberán ajustarse a lo siguiente:
+Son licencias económicas con goce de sueldo, las que se conceden a los servidores públicos hasta por tres días hábiles dentro de un año calendario y deberán ajustarse a lo siguiente:
 
 I.- Que los servidores públicos tengan cuando menos dos años consecutivos de servicios.
 
@@ -524,7 +526,9 @@ f).- Las servidoras públicas que adopten un niño o una niña, gozarán de los 
 
 g).- Descansar el día diez de mayo de cada año.
 
-XIII.- Disponer de quince minutos para disfrutar de sus alimentos, sujetándose al lugar y horario que le sea establecido por el titular del área o juzgado y siempre y cuando traigan consigo sus alimentos desde el inicio de la jornada de trabajo o los soliciten vía telefónica. En ningún caso se permitirá a los servidores públicos salir a ingerir o comprar alimentos, o en su caso encargar a otros servidores públicos la compra de los mismos. Asimismo, se deberán hacer turnos para el disfrute de alimentos a fin de que no se quede ninguna área sin el personal suficiente.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIII. Disponer de treinta minutos para disfrutar de sus alimentos, sujetándose al lugar y horario que le sea establecido por el titular del área o juzgado y siempre y cuando traigan consigo sus alimentos desde el inicio de la jornada de trabajo o los soliciten vía telefónica. En ningún caso se permitirá a los servidores públicos salir a ingerir o comprar alimentos, o en su caso encargar a otros servidores públicos la compra de los mismos. Asimismo, se deberán hacer turnos para el disfrute de alimentos a fin de que no se quede ninguna área sin el personal suficiente.
 
 ###### ARTICULO 55.
 
@@ -1170,10 +1174,16 @@ Rodolfo Puentes López,
 
 SECRETARIO GENERAL DEL SINDICATO UNICO DE TRABAJADORES ESTATALES Y MUNICIPALES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 27 DE DICIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigencia a partir de su registro en el Tribunal de Arbitraje para tos Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
