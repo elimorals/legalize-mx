@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-la-mujer-de-61016"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-12"
-last_updated: "2008-05-12"
+last_updated: "2011-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de mayo de 2008.
 
@@ -40,79 +40,105 @@ El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián 
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE AGUASCALIENTES
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO I. Disposiciones Generales
 
-###### ARTÍCULO 1º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-Las disposiciones de este Reglamento son de orden público e interés social, y regulan los objetivos, las atribuciones, la administración y el funcionamiento del Instituto Municipal de la Mujer de Aguascalientes.
+###### ARTÍCULO 1°.
 
-###### ARTÍCULO 2º.
+Las disposiciones de este Reglamento son de orden público e interés social, y de observancia en el municipio de Aguascalientes; y tienen por objeto regular las funciones, los objetivos, las atribuciones y la administración del Instituto Municipal de la Mujer de Aguascalientes.
 
-El Instituto Municipal de la Mujer de Aguascalientes es un organismo municipal descentralizado con personalidad jurídica y patrimonio propios para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, las demás Leyes y Reglamentos.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 3º.
+###### ARTÍCULO 2°.
 
-El objetivo del Instituto Municipal de la Mujer de Aguascalientes será apoyar e impulsar la aplicación de políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, laboral y educativo, y mejorar la condición social de éstas, en un marco de equidad entre los géneros.
+El Instituto Municipal de la Mujer de Aguascalientes es un organismo municipal descentralizado con personalidad jurídica, y patrimonio propio; para el cumplimiento de las atribuciones que le otorgan el presente ordenamiento, y las demás Leyes aplicables.
 
-###### ARTÍCULO 4º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 3°
+
+El objetivo del Instituto Municipal de la Mujer de Aguascalientes será promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del Municipio, a fin de lograr su plena participación en los ámbitos económico, político, social, cultural, salud, laboral y educativo, y mejorar las condiciones sociales de éstas, en un marco de equidad entre los géneros.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 4°.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-INSTITUTO: El Instituto Municipal de la Mujer de Aguascalientes.
+INSTITUTO: El Instituto Municipal de la Mujer de Aguascalientes;
 
-DIRECCIÓN GENERAL: La Directora General del Instituto Municipal de la Mujer de Aguascalientes.
+DIRECCIÓN GENERAL: La Directora General o el Director General del Instituto Municipal de la Mujer de Aguascalientes.
 
-AYUNTAMIENTO: El H. Ayuntamiento de Aguascalientes.
+AYUNTAMIENTO: El Honorable Ayuntamiento de Aguascalientes;
 
 MUNICIPIO: El Municipio de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO II. De las Atribuciones
 
-###### ARTÍCULO 5º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 5°.
 
 En cumplimiento de sus objetivos, el Instituto tendrá las siguientes atribuciones:
 
-I. Promover la perspectiva de género, mediante la participación de las mujeres en la toma de decisiones respecto al diseño de los planes y programas del Gobierno Municipal.
+I. Promover la perspectiva de género, mediante la participación de las mujeres en el diseño de los planes y programas del Gobierno Municipal;
 
-II. Coadyuvar, con el Municipio, para integrar el apartado relativo al programa operativo anual de acciones gubernamentales a favor de las mujeres, que deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales la mujer debe tener una participación efectiva.
+II. Coadyuvar con el Municipio, para diseñar el programa operativo anual, en el apartado relativo a las acciones gubernamentales a favor de las mujeres, el cual deberá contemplar sus necesidades básicas en materia de trabajo, salud, educación, cultura, participación política, desarrollo y todas aquellas en las cuales se deba lograr una participación efectiva;
 
-III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género.
+III. Fungir como órgano de apoyo del Ayuntamiento en lo referente a las mujeres y la equidad de género;
 
-IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales y con la instancia de las mujeres en la Entidad Federativa, para tratar todo lo referente a los programas dirigidos a las mujeres y lograr la equidad de género.
+IV. Apoyar a las y los representantes del Municipio ante las autoridades estatales, para tratar todo lo referente a los programas dirigidos a las mujeres;
 
-V. En su caso, aplicar las acciones contenidas en el Programa Estatal de la Mujer.
+V. Aplicar las acciones contenidas en el Programa Estatal de la Mujer que correspondan al ámbito municipal;
 
-VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades que coadyuven en el logro de sus objetivos.
+VI. Promover la celebración de convenios con perspectiva de género entre el Ayuntamiento y otras autoridades, que coadyuven en el logro de sus objetivos;
 
-VII. Promover y concretar acciones, apoyos y colaboraciones con los sectores social y privado, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres.
+VII. Promover y concertar acciones de colaboración con los sectores social y privado, en particular con organizaciones de la sociedad civil, con el fin de unir esfuerzos participativos a favor de una política de igualdad de género entre mujeres y hombres;
 
-VIII. Coordinar los trabajos del tema de mujeres, entre el Municipio y el Gobierno del Estado, a fin de asegurar la disposición de datos, estadísticas, indicadores y registro en los que se identifique, por separado, información sobre hombres y mujeres, que sirvan de base fundamental para la elaboración de diagnósticos municipales, estatales y regionales.
+VIII. Coordinar entre el Municipio y el Gobierno del Estado, la elaboración de estudios y diagnósticos sobre la mujer, a fin de intercambiar datos, estadísticas y registros;
 
-IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres.
+IX. Instrumentar acciones tendientes a abatir las inequidades en las condiciones en que se encuentran las mujeres;
 
-X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal.
+X. Promover la capacitación y actualización de servidores públicos responsables de emitir las políticas públicas, de cada sector del Municipio, sobre herramientas y procedimientos para incorporar la perspectiva de género en la planeación local y los procesos de programación presupuestal;
 
-XI. Brindar orientación a las mujeres del Municipio que así lo requieran por haber sido víctimas de violencia, maltrato o cualquier otra afección tendiente a discriminarlas por razón de su condición.
+XI. Celebrar convenios de colaboración con las dependencias de la Administración Pública Municipal, a efecto de capacitar y sensibilizar al personal de las mismas en la atención y prevención de la violencia de género;
 
-XII. Promover ante las autoridades del sector salud, los servicios antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino.
+XII. Brindar orientación a las mujeres y hombres del Municipio que así lo requieran por estar en riesgo de, o haber sido víctimas de violencia, maltrato o cualquier otro acto tendiente a la discriminación por razón de su condición sexual y/o genérica;
 
-XIII. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables.
+XIII. Promover ante las autoridades del sector salud, los servicios integrales, cálidos y oportunos; antes, durante y después del embarazo, así como promover campañas de prevención y atención al cáncer de mama y cervicouterino, VIH/SIDA, infecciones de transmisión sexual y aquellas que registren mayores índices de morbi-mortalidad en el municipio;
 
-XIV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos, trabajo y remuneración.
+XIV. Impulsar la realización de programas de atención para la mujer de la tercera edad y otros grupos vulnerables;
 
-XV. Estimular la capacidad productiva de la mujer.
+XV. Promover, ante la instancia que corresponda, las modificaciones pertinentes a la legislación estatal o a la reglamentación municipal, a fin de asegurar el marco jurídico que garantice la igualdad de oportunidades en materia de educación, salud, capacitación, ejercicio de derechos; trabajo y remuneración:
 
-XVI. Promover la elaboración de programas que fortalezcan a la familia como ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo.
+XVI. Estimular la capacidad productiva de la mujer, con base en aptitudes, capacidades y habilidades;
 
-XVII. Coadyuvar en el combate y eliminación de todas las formas de violencia contra las mujeres, dentro o fuera de la familia.
+XVII. Elaborar programas con perspectiva de género que fortalezcan a las mujeres, los hombres y las familias, en el ámbito de igualdad de derechos, oportunidades y responsabilidades, sin distinción de sexo;
 
-XVIII. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo municipal.
+XVIII. Coadyuvar en el combate y eliminación de todas las formas de violencia de género, especialmente la ejercida en contra de la mujer y la violencia familiar;
 
-XIX. Las demás que le confieran el Reglamento Interno del Instituto y otras disposiciones legales aplicables.
+XIX. Diseñar los mecanismos para el cumplimiento y vigilancia de las políticas de apoyo a la participación ciudadana de las mujeres en los diversos ámbitos del desarrollo municipal;
+
+XX. Promover una cultura social de respeto a los derechos humanos y la dignidad de las mujeres y los hombres, que tienda a eliminar los estereotipos de género;
+
+XXI. Difundir permanentemente los derechos y protección de las mujeres y los hombres dentro de la familia y la sociedad, fomentando el desarrollo de prácticas de respeto y equidad;
+
+XXII. Promover el estudio e investigación de las causas y efectos sociales de la violencia por razón de género.
+
+XXIII. Las que le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO III. De la Estructura Orgánica
 
-###### ARTÍCULO 6º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 6°.
 
 Para el estudio y despacho de los asuntos de su competencia, el Instituto contará con los siguientes órganos y áreas:
 
@@ -120,19 +146,41 @@ I. El Consejo Municipal de la Mujer.
 
 II. La Dirección General.
 
-III. La Coordinación de Prevención y Atención a la Violencia Familiar.
+III. La Coordinación de Proyectos de Investigación y Estadísticas de Género.
 
-IV. La Coordinación de Productividad.
+a) Analista social e integración de estadísticas,
 
-V. La Coordinación de Institucionalización de la Perspectiva de Género
+IV. La Coordinación de Transversalización de Perspectiva de Género.
 
-Las facultades de cada uno de estos órganos las determinará el Reglamento Interior del Instituto.
+a) Analista de Transversalización de Perspectiva de Género.
+
+V. La Coordinación de Prevención y Atención Integral de la Violencia de Género,
+
+a) Analista de masculinidad
+
+b) Analista psicológico
+
+c) Analista jurídico
+
+VI. La Coordinación Jurídica
+
+VII. La Coordinación Administrativa
+
+a) Auxiliar Técnico Contable y Administrativo
+
+Las facultades de cada uno de estos órganos las determinará el Reglamento
+
+Interior del Instituto.
 
 El Instituto tendrá representaciones en cada uno de los poblados que se determinen en su Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO IV. Del Patrimonio del Instituto
 
-###### ARTÍCULO 7º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 7°.
 
 El patrimonio del Instituto estará integrado por:
 
@@ -144,29 +192,43 @@ III. Las donaciones, herencias, legados y aportaciones que le otorgan los partic
 
 IV. Los fondos públicos o privados obtenidos para el financiamiento de programas específicos.
 
-V. Las acciones, derechos o productos que adquiera por cualquier otro título legal.
+V. Las acciones, derechos productos que adquiera por cualquier otro título legal.
 
-VI. Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones.
+VI. Los demás bienes, servicios, derechos y aprovechamientos que fijen las Leyes y Reglamentos o, que provengan de otros fondos o aportaciones.
 
-###### ARTÍCULO 8º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
-El Instituto administrará libremente sus bienes, sin mayores limitaciones que las que se deriven del presente ordenamiento, así como de otras disposiciones legales aplicables.
+###### ARTÍCULO 8°.
+
+El Instituto administrara libremente sus bienes, sin mayores limitaciones que las que se deriven del presente ordenamiento, así como de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO V. De las Relaciones de Trabajo
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 9°.
 
 Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, el Reglamento Interior de Trabajo del Municipio de Aguascalientes y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO VI. De los Recursos
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 10.
 
 Es procedente el recurso de queja contra toda irregularidad en la actuación del Instituto que afecte a las y los particulares.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 11.
 
 El recurso de queja se substanciará ante el superior jerárquico de aquel al que se le impute la falta, omisión o conducta irregular. En el caso de que la falta sea imputable al Director General, el Ayuntamiento se encargará de substanciar el recurso.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
@@ -176,11 +238,13 @@ I. La negligencia en la actuación de cualquier persona que labore en el Institu
 
 II. En el caso de la Unidad de Servicios Integrales, la demora injustificada en la prestación de los servicios a cargo de cualquiera de sus oficinas.
 
-III. La falta de respuesta por más de diez días hábiles a cualquier petición de asesoría o apoyo por parte de mujeres.
+III. La falta de respuesta por más de diez días hábiles a cualquier petición de asesoría o apoyo.
 
-IV. La negativa a brindar cualquier tipo de atención a alguna mujer por razones de su condición social, etnia, religión o cualquier otra circunstancia cultural, social o religiosa.
+IV. La negativa a brindar cualquier tipo de atención jurídica y materialmente posible, por razones o circunstancias que resulten discriminatorias.
 
 V. Cualquier otra análoga a las anteriores.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
@@ -195,3 +259,9 @@ SEGUNDO.- De igual manera, el Instituto deberá instalarse dentro de los quince 
 TERCERO.- El Ayuntamiento, en Sesión de Cabildo y dentro del plazo establecido en el artículo transitorio anterior, nombrará a la Directora General del Instituto, a propuesta del Presidente Municipal.
 
 CUARTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que se opongan a lo dispuesto en el presente Reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
