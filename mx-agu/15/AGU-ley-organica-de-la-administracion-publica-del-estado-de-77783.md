@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2010-12-28"
+last_updated: "2011-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -1481,11 +1481,11 @@ El Organismo Público Descentralizado denominado Instituto de Salud del Estado d
 
 El Decreto de Creación del Instituto de Servicios de Salud del Estado de Aguascalientes, lo deberá expedir el Congreso del Estado, dentro de los 60 días naturales contados a partir de la entrada en vigencia de la presente ley.
 
-Se abroga la ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de noviembre del 2007 mediante Decreto Número 396 y en consecuencia el Hospital Centenario Miguel Hidalgo pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+> <small>(DEROGADO CUARTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
-Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de mayo del 2003 mediante Decreto Número 91 y en consecuencia el Hospital de Psiquiatría "Dr. Gustavo León Mojica García" pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+> <small>(DEROGADO QUINTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
-El Poder Ejecutivo del Estado, en un plazo no mayor de 30 días naturales contados a partir del inicio de vigencia del presente ordenamiento, deberá expedir los Acuerdos por virtud de los cuales se establezca el esquema administrativo y organizacional de cada uno de los hospitales referidos con antelación.
+> <small>(DEROGADO SEXTO PARRAFO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE SERVICIOS DE SALUD DEL ESTADO DE AGUASCALIENTES, P.O. 13 DE JUNIO DE 2011)</small>
 
 Hasta en tanto se expidan los ordenamientos referidos, se seguirá aplicando el Título Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la ley de Salud del Estado de Aguascalientes, la normativa reglamentaria vigente y, en su caso, los lineamientos que emita el Secretario de Salud.
 
@@ -1578,3 +1578,47 @@ Carlos Lozano de la Torre.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic Miguel Romo Medina.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los párrafos cuarto (únicamente en la parte en que transforma al Hospital Centenario Miguel Hidalgo en unidad administrativa de la Secretaría de Salud), quinto (únicamente en la parte en que transforma al Hospital de Psiquiatría "Dr. Gustavo León Mojica García" en unidad administrativa de la Secretaría de Salud) y sexto del Artículo Transitorio Quinto de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el 28 de diciembre de 2010, en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.
+
+###### ARTÍCULO CUARTO.
+
+El Secretario de Salud, en acuerdo con el Jefe de Gabinete, se coordinará con el Director General del Instituto para determinar el personal, patrimonio, recursos, expedientes, archivos, mobiliario y los bienes del extinto Instituto de Salud del Estado de Aguascalientes y de sus unidades administrativas existentes antes de la entrada en vigor de esta Ley, que deberán transferirse al Instituto o a la Secretaría, atendiendo a la distribución de competencias que se establece en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales del personal del Instituto de Salud del Estado de Aguascalientes que se transforma y de los Hospitales Centenario Miguel Hidalgo y de Psiquiatría "Dr Gustavo León Mojica García", se respetarán conforme a la normatividad aplicable, en la transferencia institucional que se realice al Instituto o a la Secretaría, según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+El personal, patrimonio, expedientes, archivos, mobiliario y bienes de los hospitales mencionados en el Artículo anterior, se incorporarán al patrimonio del Instituto y seguirán adscritos, según corresponda, al hospital respectivo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los traspasos de funciones, personas, recursos materiales y financieros, de activos patrimoniales que deban realizarse, así como las adecuaciones presupuestarias correspondientes, serán coordinados y vigilados por la Secretaría de Finanzas, la Oficialía Mayor y por la Secretaría de Fiscalización y Rendición de Cuentas, todas del Estado de Aguascalientes, y deberán concluir a más tardar el 30 de noviembre del año 2011. Al concluir dichos traspasos, las Secretarías referidas deberán rendir el informe respectivo al Congreso del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos, realizados o suscritos con base en la legislación que se deroga. Las operaciones que se hubieren efectuado con anterioridad a la entrada en vigor de esta Ley, seguirán rigiéndose por las disposiciones legales aplicables o por los términos del contrato respectivo.
+
+###### ARTÍCULO NOVENO.
+
+La Junta de Gobierno deberá instalarse y sesionar dentro de los 45 días naturales, contados a partir de la entrada en vigencia de la presente Ley. Para tales efectos, el Gobernador del Estado convocará a sesión a los integrantes de la misma.
+
+###### ARTÍCULO DECIMO.
+
+La Junta de Gobierno deberá aprobar el Reglamento Interior a que hace mención la presente Ley, dentro del plazo de 45 días naturales, contados a partir de la entrada en vigencia de la misma.
