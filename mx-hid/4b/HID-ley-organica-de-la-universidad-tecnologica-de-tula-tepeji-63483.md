@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-tecnologica-de-tula-tepeji-63483
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-09-22"
-last_updated: "2008-09-22"
+last_updated: "2011-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE TULA-TEPEJI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de septiembre de 2008.
 
@@ -71,55 +71,153 @@ La Universidad tendrá por objeto:
 
 I.- Ampliar las posibilidades de la Educación Superior Tecnológica a fin de contribuir a través del proceso educativo, a mejorar las condiciones de vida de los hidalguenses;
 
-II.- Formar Técnicos Superiores Universitarios, aptos para la aplicación de conocimientos y la solución creativa de problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-III.- Realizar investigación aplicada e innovación científica y tecnológica, así como desarrollar estudios o proyectos en las áreas de su competencia, de acuerdo con la planeación y desarrollo de, las políticas Nacional y Estatal de ciencia y tecnología, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y mayor eficiencia de la producción de bienes o servicios, así como a la elevación de la calidad de vida de la comunidad apoyando las estrategias de desarrollo del Estado de Hidalgo;
+II.- Formar Técnicos Superiores Universitarios, que hayan egresado del bachillerato, aptos para la aplicación de conocimientos y la solución creativa de problemas, con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, vinculados con las necesidades regionales, Estatales y Nacionales;
 
-IV.- Desarrollar, e impartir, programas educativos de buena calidad, para la formación tecnológica; así como las estrategias que le permitan atender las necesidades de la Entidad y contribuyan a garantizar el acceso de la población al servicio educativo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-V.- Contribuir al desarrollo del Sistema de Educación Superior del Estado de Hidalgo;
+III.- Formar licenciados, que hayan egresado de la Universidad o de otras Instituciones de Educación Superior, del nivel Técnico Superior Universitario o Profesional Asociado, a través de los programas de continuidad de estudios;
 
-VI.- Fomentar e impulsar la vinculación entre los diferentes niveles y Subsistemas Educativos, a través de órganos colegiados que permitan coordinar esfuerzos en materia educativa, de difusión cultural, deportiva y recreativa que contribuya al desarrollo integral de los educandos en un marco de fomento a los valores universales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-VII.- Establecer una red de vinculación efectiva, con los sectores productivo y social que coadyuve al desarrollo regional, a través de la aplicación y transferencia del conocimiento tecnológico y a la generación de bienes y servicios;
+IV.- Realizar investigación aplicada e innovación científica y tecnológica, así como desarrollar estudios o proyectos en las áreas de su competencia, y editar obras en su caso; de acuerdo con la planeación y desarrollo de las políticas Nacional y Estatal de ciencia y tecnología, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y mayor eficiencia de la producción de bienes o servicios, así como a la elevación de la calidad de vida de la región apoyando las estrategias de desarrollo del Estado de Hidalgo;
 
-VIII.- Impulsar estrategias que faciliten la movilidad académica de los educandos con Instituciones de Educación Superior Nacionales y Extranjeras;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-IX.- Contribuir con el desarrollo de un sistema permanente de evaluación de la calidad educativa en el Estado;
+V.- Desarrollar e impartir, programas educativos de calidad, para la formación tecnológica; así como las estrategias que le permitan atender las necesidades de la Entidad y contribuyan a garantizar el acceso de la población al servicio educativo;
 
-X.- Coadyuvar a la preparación técnica de los trabajadores para su mejoramiento económico, intelectual y social; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XI.- Promover y difundir los valores sociales y culturales de la Nación, a fin de crear entre los educandos la conciencia universal y actitudes a favor de la paz, la solidaridad y la democracia.
+VI.- Contribuir al desarrollo del Sistema de Educación Superior del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+VII.- Fomentar e impulsar la vinculación entre los diferentes niveles y subsistemas educativos, a través de órganos colegiados que permitan coordinar esfuerzos en materia educativa, de difusión cultural, deportiva y recreativa que contribuya al desarrollo integral de los educandos en un marco de fomento a los valores universales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+VIII.- Desarrollar las funciones de vinculación, con los sectores productivos de carácter público, privado y social, estableciendo una red efectiva, con dichos sectores que coadyuve al desarrollo regional, a través de la aplicación y transferencia del conocimiento tecnológico y a la generación de bienes y servicios;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+IX.- Impulsar estrategias que faciliten la movilidad académica de los educandos con Instituciones de Educación Superior Nacionales y Extranjeras;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+X.- Contribuir con el desarrollo de un sistema permanente de evaluación de la calidad educativa en el Estado;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XI.- Establecer las bases para la operación, funcionamiento y desarrollo de educación abierta y a distancia, en el nivel superior, mediante el uso de las tecnologías de la información y comunicación, con alcance Nacional e Internacional;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XII.- Coadyuvar a la preparación técnica de los trabajadores para su mejoramiento económico, intelectual y social; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIII.- Promover y difundir los valores sociales y culturales de la Nación, a fin de crear entre los educandos la conciencia universal y actitudes a favor de la paz, la solidaridad y la democracia.
 
 ###### Artículo 5.
 
 Para cumplir con su objeto, la Universidad deberá:
 
-I.- Impartir educación de buena calidad para la formación de Técnicos Superiores Universitarios, vinculados con las necesidades locales, regionales y Nacionales;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-II.- Planear, desarrollar y evaluar actividades de investigación aplicada e innovación científica y tecnológica;
+I.- Impartir educación de calidad para la formación de Técnicos Superiores Universitarios que hayan egresado del bachillerato, aptos para la aplicación de conocimientos y la solución creativa de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos, vinculados con las necesidades regionales, Estatales y Nacionales;
 
-III.- Impulsar estrategias de participación y concertación con los sectores publico, privado y social, para la proyección de las actividades productivas, con eficiencia y sentido social, basadas en la vocación productiva de su área de influencia;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-IV.- Contar con un Sistema Integral de Gestión de Calidad;
+II.- Ofrecer e impartir programas de continuidad de estudios para sus egresados y para egresados del nivel Técnico Superior Universitario o Profesional Asociado de otras Instituciones de Educación Superior, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura;
 
-V.- Promover la formación, actualización y evaluación continua del profesorado y personal administrativo, así como el desarrollo y consolidación de los cuerpos académicos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-VI.- Contar con una estructura orgánica dinámica que permita la operación institucional;
+III.- Desarrollar estudios o proyectos en las áreas de su competencia, que se traduzcan en aportaciones concretas que contribuyan al mejoramiento y mayor eficiencia de la producción de bienes y servicios y a la elevación de la calidad de vida de la región;
 
-VII.- Mantener actualizada la normatividad aplicable a la Universidad;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-VIII.- Fomentar e impulsar procesos de evaluación externa de los programas educativos y de la gestión Institucional para fortalecer una cultura de transparencia y rendición de cuentas;
+IV.- Desarrollar programas de apoyo técnico en beneficio de la región;
 
-IX.- Establecer estrategias y operar mecanismos institucionales para promover la acreditación de los Programas Educativos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-X.- Contar con un sistema integral de información para la toma de decisiones y contribuir al desarrollo e implantación del Sistema de Información del Subsistema de Universidades Tecnológicas;
+V.- Promover la cultura científica y tecnológica a nivel local, regional, Estatal, Nacional e Internacional;
 
-XI.- Promover la certificación, por normas internacionales, de los procesos estratégicos de la Universidad;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XII.- Organizar y alentar el acceso a la cultura y al deporte en todas sus manifestaciones, y
+VI.- Desarrollar las funciones de vinculación a nivel local, regional, Estatal, Nacional e Iinternacional (sic), con los sectores público, privado y social;
 
-XIII.- Promover programas de apoyo a los estudiantes indígenas.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+VII.- Planear, desarrollar y evaluar actividades de investigación aplicada e innovación científica y tecnológica;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+VIII.- Impulsar estrategias de participación y concertación con los sectores público, privado y social, para la proyección de las actividades productivas, con eficiencia y sentido social, basadas en la vocación productiva de su área de influencia;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+IX.- Contar con un Sistema Integral de Gestión de Calidad;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+X.- Promover la formación, actualización y evaluación continua del profesorado y personal administrativo, así como el desarrollo y consolidación de los cuerpos académicos;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XI.- Prestar servicios de educación continua, para cubrir las necesidades de actualización de los egresados, así como las del sector industrial, comercial y de servicios, a nivel local, regional, Estatal, Nacional e Internacional;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XII.- Prestar Servicios Tecnológicos de impacto ambiental, de operación, de mantenimiento, de inspección y de seguridad industrial, a nivel local, regional, Estatal, Nacional e Internacional;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIII.- Contar con una estructura orgánica dinámica que permita la operación institucional;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIV.- Mantener actualizada la normatividad aplicable a la Universidad;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XV.- Fomentar e impulsar procesos de evaluación externa de los programas educativos y de la gestión institucional para fortalecer una cultura de transparencia y rendición de cuentas;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVI.- Establecer estrategias y operar mecanismos institucionales para promover la acreditación de los Programas Educativos;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVII.- Contar con un sistema integral de información para la toma de decisiones y contribuir al desarrollo e implantación del Sistema de Información del Subsistema de Universidades Tecnológicas;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVIII.- Contar con los espacios físicos, infraestructura, tecnología y el personal docente, para la operación y funcionamiento de la educación abierta y a distancia en el nivel superior, haciendo uso de las tecnologías de la información y comunicación;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIX.- Promover la certificación, por normas internacionales, de los procesos estratégicos de la Universidad;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XX.- Organizar y alentar el acceso a la cultura y al deporte en todas sus manifestaciones;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXI.- Implementar programas de apoyo a estudiantes indígenas tendientes a fomentar la igualdad de oportunidades y promover la multiculturalidad entre la Comunidad Universitaria;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXII.- Celebrar convenios con instituciones y organismos nacionales y extranjeros para la realización de proyectos específicos de investigación, para la prestación de servicios de asesoría técnica, o para otros rubros, con los sectores público, social y privado;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIII.- Revalidar y reconocer estudios realizados en otras instituciones educativas, tanto Nacionales como Extranjeras, así como establecer equivalencias, de conformidad con el Sistema Nacional de Créditos y Equivalencias; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIV.- Cumplir con lo demás que le señale el presente Decreto y otras disposiciones legales.
 
 ###### Artículo 6.
 
@@ -181,9 +279,11 @@ Los acuerdos serán tomados por mayoría de votos de los integrantes presentes c
 
 El(la) Rector(a) de la Universidad, estará presente en las sesiones del Consejo Directivo con derecho de voz pero no de voto. El Presidente del Consejo Directivo, determinará las sesiones en las que, por excepción, no estará presente el(la) Rector(a) de la Universidad.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ###### Artículo 10.
 
-El Consejo Directivo contará con un Secretario Técnico, que será nombrado por su Presidente a propuesta del (la) Rector(a), el cual tendrá derecho de voz pero no de voto, y será quien organice y coordine la planeación, registre y dé seguimiento a los acuerdos del Consejo.
+El Consejo Directivo contará con un Secretario y un Prosecretario, que serán nombrados por su Presidente, a propuesta del Rector, los cuales tendrán derecho a voz pero no a voto; el Secretario, será quien organice y coordine la planeación, registre y dé seguimiento a los acuerdos del Consejo, el Prosecretario coadyuvará con el Secretario en el desarrollo de sus funciones.
 
 ###### Artículo 11.
 
@@ -261,7 +361,9 @@ V.- Aprobar anualmente los informes de la Evaluación Programática Presupuestal
 
 VI.- Aprobar el Reglamento de Ingreso, Promoción y Permanencia del Personal Académico de la Universidad;
 
-VII.- Ratificar el nombramiento de los mandos medios y superiores de la Universidad, a propuesta del Rector(a);
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+VII. Nombrar y remover a propuesta del Rector, a los servidores públicos de la Universidad que ocupen las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sueldos, prestaciones y conceder licencias.
 
 VIII.- Establecer los requisitos y el procedimiento para la integración y operación de las comisiones que evaluarán al personal académico, las cuales estarán integradas por profesionales de reconocido prestigio;
 
@@ -371,39 +473,79 @@ V.- Dirigir el funcionamiento de la Universidad, vigilando el cumplimiento de su
 
 VI.- Establecer los mecanismos de evaluación periódica del desempeño académico y profesional del personal de la Universidad;
 
-VII.- Ejercer en forma responsable el presupuesto de la Universidad y preservar los bienes que constituyen el patrimonio de la misma;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-VIII.- Establecer en consulta con los Secretarios, Directores y demás funcionarios las medidas administrativas y operativas adecuadas para el buen funcionamiento de la Universidad;
+VII.- Otorgar al personal docente conforme a las disposiciones legales aplicables, nombramientos o certificados oficiales con valor curricular, como consecuencia de su entrega y esfuerzo de superación personal en aras de la educación y la cultura; que coadyuve a la formación integral de los alumnos, previa evaluación y determinación colegiada de la Comisión Dictaminadora que en su caso corresponda;
 
-IX.- Celebrar los convenios, contratos y acuerdos para el cumplimiento del objeto de la Universidad;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-X.- Cumplir y hacer cumplir las normas y disposiciones que expida el Consejo Directivo;
+VIII.- Otorgar reconocimientos a personas físicas o morales que se distingan por la realización de actividades académicas, culturales, artísticas o de otra naturaleza realizadas al interior de la Universidad, en beneficio de los alumnos o del personal;
 
-XI.- Presentar en forma anual, al Consejo Directivo para su aprobación, los informes de la Evaluación Programática Presupuestal, del Ejercicio del Presupuesto y los Estados Financieros de la Universidad, previo dictamen de éstos por parte de un auditor externo y opinión del Comisario Público;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XII.- Presentar al Consejo Directivo para su aprobación la integración de un fondo de previsión equivalente a cuando menos dos meses del costo de operación de la Universidad;
+IX.- Ejercer en forma responsable el presupuesto de la Universidad y preservar los bienes que constituyen el patrimonio de la misma;
 
-XIII.- Rendir al Consejo Directivo un informe en cada sesión ordinaria, debiendo ser uno de ellos, el informe anual de las actividades realizadas por la Universidad en el ciclo escolar anterior;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XIV.- Someter a ratificación del Consejo Directivo, el nombramiento de los mandos medios y superiores de la Universidad,
+X.- Establecer en consulta con los Secretarios, Directores y demás funcionarios las medidas administrativas y operativas adecuadas para el buen funcionamiento de la Universidad;
 
-XV.- Presentar al Consejo Directivo para su aprobación, los contenidos regionales de los Planes y Programas de Estudio y sus reformas, en congruencia con los lineamientos que expida la Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XVI.- Contratar y remover al personal de la Universidad, y por lo que se refiere a los mandos medios y superiores dar cumplimiento a la fracción XIV de este Artículo;
+XI.- Celebrar los convenios, contratos y acuerdos en representación de la Universidad, para el cumplimiento del objeto del Organismo;
 
-XVII.- Administrar y ejercer los ingresos que obtenga la Universidad por los servicios que preste en el ejercicio de sus facultades y en el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XVIII.- Elaborar las disposiciones internas necesarias para el buen funcionamiento administrativo y docente de la Universidad;
+XII.- Cumplir y hacer cumplir las normas y disposiciones que expida el Consejo Directivo;
 
-XIX.- Promover el proceso de evaluación diagnóstica externa de los programas académicos, como etapa previa a su acreditación, por Organismos reconocidos por el Consejo Directivo para la Acreditación de la Educación Superior. De igual forma, la certificación de los procesos estratégicos de gestión;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-XX.- Presentar, para su aprobación, al Consejo Directivo, la propuesta de los miembros para la integración de los órganos colegiados, consultivos y del patronato, así como las reglas de su funcionamiento;
+XIII.- Presentar en forma anual, al Consejo Directivo para su aprobación, los informes de la Evaluación Programática Presupuestal, del Ejercicio del Presupuesto y los Estados Financieros de la Universidad, previo dictamen de éstos por parte de un auditor externo y opinión del Comisario Público;
 
-XXI.- Realizar actos de administración y de dominio y para pleitos y cobranzas, con todas las facultades generales que conforme a la Ley requieran cláusula especial. Con exclusión de la facultad de dominio, otorgar o delegar la representación de tales facultades al Abogado General para que las ejerza.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
 
-La facultad de dominio queda acotada, al voto mayoritario del Consejo Directivo.
+XIV.- Presentar al Consejo Directivo para su aprobación la integración de un fondo de reserva equivalente a cuando menos dos meses del costo de operación de la Universidad;
 
-XXII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, emanadas de la Federación y del Gobierno del Estado de Hidalgo, así como aquéllas que le confiera el Consejo Directivo.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XV.- Rendir al Consejo Directivo un informe en cada sesión ordinaria, debiendo ser uno de ellos, el informe anual de las actividades realizadas por la Universidad en el ciclo escolar anterior;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVI.- Someter propuestas al Consejo Directivo, para el nombramiento y remoción de los servidores públicos de la Universidad que ocupen las dos jerarquías administrativas inferiores al Rector, así como, proponer la fijación de sueldos, prestaciones y licencias;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVII.- Presentar al Consejo Directivo para su aprobación, los contenidos regionales de los Planes y Programas de Estudio y sus reformas, en congruencia con los lineamientos que expida la Secretaría de Educación Pública;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XVIII.- Contratar y remover al personal de la Universidad, y por lo que se refiere a los servidores públicos que ocupen las dos jerarquías administrativas inferiores al Rector, dando cumplimiento a la fracción XVI de este Artículo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XIX.- Administrar y ejercer los ingresos que obtenga la Universidad por los servicios que preste en el ejercicio de sus facultades y en el cumplimiento de su objeto;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XX.- Elaborar las disposiciones internas necesarias para el buen funcionamiento administrativo y docente de la Universidad;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXI.- Promover el proceso de evaluación diagnóstica externa de los programas académicos, como etapa previa a su acreditación, por Organismos reconocidos por el Consejo Directivo para la Acreditación de la Educación Superior. De igual forma, la certificación de los procesos estratégicos de gestión;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXII.- Presentar, para su aprobación, al Consejo Directivo, la propuesta de los miembros para la integración de los órganos colegiados, consultivos y del patronato, así como las reglas de su funcionamiento;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIII.- Realizar actos de dominio previa autorización del Consejo Directivo, de administración y para pleitos y cobranzas, con todas las facultades generales que conforme a la Ley requieran cláusula especial. Con exclusión de la facultad de dominio, otorgar o delegar la representación de tales facultades al Abogado General.
+
+La facultad de dominio queda acotada, al voto mayoritario del Consejo Directivo; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2011)</small>
+
+XXIV.- Las demás que le señalen las disposiciones legales aplicables.
 
 ## TÍTULO TERCERO
 
@@ -429,9 +571,11 @@ Dicho órgano, estará integrado por un Titular designado por la Dependencia Est
 
 ### CAPÍTULO II. DE LOS ÓRGANOS COLEGIADOS O CONSULTIVOS
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
+
 ###### Artículo 23.
 
-En la conformación de los órganos colegiados, como la Comisión de Pertinencia, el Consejo de Participación Social, y consultivos, como el Patronato, existirá la participación de representantes de organizaciones sociales y productivas que puedan apoyar el desarrollo de la Universidad.
+En la conformación de los Órganos Colegiados, como el Consejo de Vinculación y Pertinencia, el Consejo de Participación Social, y Consultivos, como el Patronato, existirá la participación de representantes de organizaciones sociales y productivas que puedan apoyar el desarrollo de la Universidad.
 
 ###### Artículo 24.
 
@@ -441,11 +585,15 @@ Los órganos colegiados o consultivos se integrarán al proceso de planeación p
 
 Los cargos de los integrantes de los órganos colegiados, consultivos y del Patronato serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
-### CAPÍTULO III. DEL COMITÉ DE ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO III. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### Artículo 26.
 
-Se integrará el Comité de Acceso a la Información Pública Gubernamental en términos del Articulo 59 de la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo y tendrá las funciones a que se refiere su Artículo 58.
+En esta materia la Universidad Tecnológica de Tula-Tepeji, como integrante del sujeto obligado, Poder Ejecutivo del Estado, se apegará a lo establecido por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 27.
 
@@ -525,11 +673,13 @@ El personal académico de tiempo completo contará, como mínimo, con título de
 
 El Reglamento de Ingreso, Promoción y Permanencia del Personal Académico conforme a las características propias de un trabajo especial y de acuerdo con la facultad exclusiva de la Universidad regulará, los aspectos académicos.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO II. DE LA SEGURIDAD SOCIAL
 
 ###### Artículo 40.
 
-Para los efectos de la seguridad social, los trabajadores de la Universidad, estarán adscritos al Instituto de Servicios Sociales de los Trabajadores del Estado.
+(DEROGADO, P.O. 13 DE JUNIO DE 2011)
 
 ## TRANSITORIOS
 
@@ -574,3 +724,15 @@ DADO, EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALG
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual rango o naturaleza que se opongan al presente Decreto.
