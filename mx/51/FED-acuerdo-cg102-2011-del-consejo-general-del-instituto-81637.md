@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg102-2011-del-consejo-general-del-instituto-81637"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-10"
-last_updated: "2011-06-10"
+last_updated: "2011-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81637&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-04-13"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA Y ORDENA LA PUBLICACIÓN DEL CATÁLOGO DE EMISORAS PARA EL PROCESO ELECTORAL EXTRAORDINARIO EN LOS MUNICIPIOS DE SAN JERÓNIMO TECUANIPAN Y TLAOLA, EN EL ESTADO DE PUEBLA, SE DETERMINA EL TIEMPO QUE SE DESTINARÁ A LOS PARTIDOS POLÍTICOS, SE ASIGNAN TIEMPOS A LAS AUTORIDADES ELECTORALES Y SE APRUEBAN LAS PAUTAS PARA LA TRANSMISIÓN DE LOS PROMOCIONALES DE LOS PARTIDOS POLÍTICOS Y DE LAS AUTORIDADES ELECTORALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 10 de junio de 2011.
 
@@ -407,6 +407,8 @@ El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 10 DE JUNIO DE 2011, PÁGINAS DE LA 103 A LA124.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL D.O.F. DE 13 DE JUNIO DE 2011, PÁGINAS DE LA 17 A LA 19;</small>
+
 VOTO PARTICULAR QUE PRESENTA EL CONSEJERO ELECTORAL MARCO ANTONIO BAÑOS MARTINEZ, CON RELACION AL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA Y ORDENA LA PUBLICACION DEL CATALOGO DE EMISORAS PARA EL PROCESO ELECTORAL EXTRAORDINARIO EN LOS MUNICIPIOS DE SAN JERONIMO TECUANIPAN Y TLAOLA, EN EL ESTADO DE PUEBLA, SE DETERMINA EL TIEMPO QUE SE DESTINARA A LOS PARTIDOS POLITICOS, SE ASIGNAN TIEMPOS A LAS AUTORIDADES ELECTORALES Y SE APRUEBAN LAS PAUTAS PARA LA TRANSMISION DE LOS PROMOCIONALES DE LOS PARTIDOS POLITICOS Y DE LAS AUTORIDADES ELECTORALES.
 
 Con el debido respeto y con reconocimiento al profesionalismo de los Consejeros Electorales que integran el Consejo General del Instituto Federal Electoral y con fundamento en lo dispuesto por los artículos 41, base V, párrafos segundo y tercero de la Constitución Política de los Estados Unidos Mexicanos, 109, 110 párrafo primero y 113 párrafo segundo del Código Federal de Instituciones y Procedimientos Electorales, 14, fracciones b), c) y t) del Reglamento Interior del Instituto Federal Electoral y artículo 24, párrafo 4 del Reglamento de Sesiones del Consejo General del Instituto Federal Electoral, me permito emitir el presente voto particular, que será EN CONTRA del Acuerdo con clave CG102/2011 aprobado por mayoría de votos en la sesión del pasado 13 de abril de 2011.
@@ -518,3 +520,9 @@ A la luz de lo anterior, se desprende que: 1. La cobertura de una señal de radi
 Son éstas las razones por las que presento este VOTO PARTICULAR con relación al Acuerdo CG102/2011.
 
 El Consejero Electoral, Marco Antonio Baños Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE JUNIO DE 2011.
+
+EL ACUERDO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
