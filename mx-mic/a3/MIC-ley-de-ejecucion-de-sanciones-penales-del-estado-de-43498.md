@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-penales-del-estado-de-43498"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-27"
-last_updated: "2006-06-08"
+last_updated: "2011-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN LA QUINTA SECCION DEL P.O. DE FECHA 14 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 27 de enero de 2005.
 
@@ -954,3 +956,43 @@ P.O. 8 DE JUNIO DE 2006.
 PRIMERO.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los reglamentos interiores de los Centros de Readaptación Social deberán ser reformados para adecuarse a lo dispuesto por el presente (sic), en un plazo de dos meses contados a partir de la entrada en vigor de este Decreto.
+
+P.O. 14 DE JUNIO DE 2011.
+
+ARTÍCULO PRIMERO, Esta Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no se nombren los Jueces de Ejecución de Sanciones la ejecución de esta Ley quedará a cargo del Juez de la Causa
+
+###### ARTÍCULO TERCERO.
+
+El Supremo Tribunal de Justicia del Estado, a través del Consejo del Poder Judicial, emitirá el concurso de oposición abierto, para todos los aspirantes a Jueces de Ejecución de sanciones del Poder Judicial, tomando en consideración la formación académica y factores de desempeño en los cursos de ejecución de sanciones realizados por instituciones públicas o privadas.
+
+###### ARTÍCULO CUARTO.
+
+La Procuraduría General de Justicia de Estado, a partir de la entrada en vigor de este ordenamiento, deberá nombrar a los agentes del Ministerio Público adscritos a los Juzgados de Ejecución de sanciones.
+
+###### ARTÍCULO QUINTO.
+
+La Defensoría Pública, a partir de la entrada en vigor de este ordenamiento, deberá nombrar a los defensores adscritos a los Juzgados de Ejecución de Sanciones Penales.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley de Ejecución de Sanciones Penales del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado el 27 de enero de 2005, y se dejan sin efecto las demás disposiciones legales y administrativas derivadas de la misma en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Todos los asuntos en trámite deberán resolverse atendiendo a lo que más beneficie a la persona interna.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado, contará con noventa días para expedir los reglamentos correspondientes, a partir de la entrada en vigor de la presente Ley.
+
+###### ARTICULO NOVENO.
+
+El Consejo del Poder Judicial del Estado, contará con noventa días para emitir el Reglamento de los Juzgados de Ejecución de Sanciones Penales.
+
+###### ARTÍCULO DÉCIMO.
+
+El Congreso del Estado deberá aprobar la ampliación presupuestal a favor del Poder Ejecutivo, para el año fiscal 2011, a efecto de garantizar que dicho Poder, cumpla con lo dispuesto, en la presente Ley y de igual forma, lo hará para los años sucesivos.
