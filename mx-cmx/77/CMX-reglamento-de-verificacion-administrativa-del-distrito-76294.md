@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-verificacion-administrativa-del-distrito-76294"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-31"
-last_updated: "2010-08-31"
+last_updated: "2011-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76294&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-30"
 
 REGLAMENTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICAL DEL DISTRITO FEDERAL: 14 DE JUNIO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 31 de agosto de 2010.
 
@@ -70,9 +70,15 @@ XV. Personas con discapacidad;
 
 XVI. Minas, canteras y/o yacimientos pétreos,
 
-XVII. Impacto urbano, y
+XVII. Impacto urbano, y (sic)
 
-XVIII. Las demás que establezcan las disposiciones legales y reglamentarias respectivas.
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XVIII. Transporte público, mercantil y privado de pasajeros y de carga, y
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XIX. Las demás que establezcan las disposiciones legales y reglamentarias respectivas.
 
 Quedan exceptuadas de la aplicación de este Reglamento las materias señaladas en el artículo 1° de la Ley de Procedimiento Administrativo del Distrito Federal.
 
@@ -106,7 +112,9 @@ IX. Ley de Procedimiento, la Ley de Procedimiento Administrativo del Distrito Fe
 
 X. Medida cautelar y de seguridad, la disposición que dicte la autoridad competente para proteger la salud, la seguridad pública y la integridad de las personas y sus bienes, de acuerdo con la Ley, este Reglamento y las normas que las regulen;
 
-XI. Orden de Visita de Verificación, el acto administrativo emitido por la Autoridad Competente, cuyo objetivo es la realización de visitas de verificación para comprobar si las actividades reguladas que ejercen los particulares y/o los establecimientos y/o inmuebles donde se efectúan, cumplen con las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XI. Orden de Visita de Verificación, el acto administrativo emitido por la Autoridad Competente, cuyo objetivo es la realización de visitas de verificación para comprobar si las actividades reguladas que ejercen los particulares, y/o los establecimientos y/o inmuebles, donde se efectúan, así como permisionarios y concesionarios en materia de transporte, cumplen con las disposiciones legales y reglamentarias aplicables;
 
 XII. Reglamento, el presente Reglamento;
 
@@ -114,7 +122,9 @@ XIII. Resolución Administrativa, el acto administrativo que pone fin a un proce
 
 XIV. Situaciones de emergencia o extraordinarias, los eventos súbitos e imprevistos, que ponen en riesgo la seguridad o la salud de las personas o sus bienes así como los que pueden generar daños a las personas o sus bienes, a los servicios públicos, la salud pública o el medio ambiente;
 
-XV. Supervisión de la actividad verificadora de las delegaciones, la actividad de carácter administrativo en la que el personal del Instituto participa como observador en las diligencias ordenadas por las delegaciones en las materias de su competencia, a efecto de proponer mejoras y programas de carácter preventivo;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XV. Inspección de la actividad verificadora, la actividad de carácter administrativo en la que el personal del Instituto participa como observador en las diligencias llevadas a cabo por el Personal Especializado adscrito al Instituto y asignado a las delegaciones, a efecto de verificar el correcto desempeño de sus atribuciones;
 
 XVI. Servidor Público Responsable, el servidor público encargado de llevar a cabo la visita de verificación o el personal especializado en funciones de verificación administrativa, debidamente acreditado y dotado de fe pública, cuya función es practicar las visitas de verificación, ejecutar las medidas cautelares y de seguridad, sanciones, y demás actos administrativos emitidos por autoridad competente, en los términos de la normatividad aplicable;
 
@@ -122,19 +132,25 @@ XVII. Visita de Verificación, la diligencia de carácter administrativo para re
 
 XVIII. Visita de Verificación Complementaria, la diligencia de carácter administrativo que ordena la autoridad competente con el objeto de comprobar que el visitado ha subsanado las irregularidades administrativas que se hubiesen detectado, y
 
-XIX. Visitado, la persona física o moral autorizada por un acto administrativo, para ejercer la actividad regulada en un establecimiento, o quien resulte ser propietario, poseedor, ocupante, dependiente, encargado o responsable de la actividad regulada o del establecimiento objeto de verificación.
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
 
-###### Artículo 4.
+XIX. Visitado, la persona física o moral con la que se autoriza por un acto administrativo, ejercer la actividad regulada en un establecimiento, o quien resulte ser propietario, poseedor, ocupante, dependiente, encargado o responsable de la actividad regulada objeto de verificación, así como los permisionarios, concesionarios, o sus representantes legales, operadores de la unidad vehicular o quien sea responsable directo del servicio.
 
-Procede la realización de visitas de verificación para comprobar que en la realización de actividades reguladas, se cumplan con las disposiciones legales y reglamentarias aplicables en el Distrito Federal de conformidad con la Ley, la Ley de Procedimiento y el presente Reglamento.
+(REFORMADO, G.O. 14 DE JUNIO DE 2011
+
+###### Artículo 4°.
+
+Procede la realización de visitas de verificación para comprobar que en la realización de actividades realizadas por los particulares, se cumplan con las disposiciones legales y reglamentarias aplicables en el Distrito Federal de conformidad con la Ley, la Ley de Procedimiento, la legislación específica que regula las materias a que alude el artículo 1 de este Reglamento, así como el presente Reglamento.
 
 ###### Artículo 5.
 
 Las diligencias y actuaciones relativas a las visitas de verificación se podrán realizar las veinticuatro horas del día.
 
-###### Artículo 6.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
 
-Las personas que impidan o traten de impedir el cumplimiento de las disposiciones contenidas en este Reglamento, se harán acreedoras a las sanciones establecidas en lo dispuesto en el capítulo de sanciones del presente Reglamento.
+###### Artículo 6°.
+
+Las personas que impidan o traten de impedir el cumplimiento de las disposiciones contenidas en este Reglamento, se harán acreedoras a las sanciones establecidas en lo dispuesto en el capítulo de sanciones del presente Reglamento, sin perjuicio que la autoridad competente solicite el auxilio de la fuerza pública para el ejercicio de sus atribuciones.
 
 El Servidor Público Responsable y los servidores públicos que intervengan para entorpecer cualquier procedimiento de verificación, además serán sujetos de responsabilidad en términos de la Ley de la materia.
 
@@ -142,9 +158,11 @@ El Servidor Público Responsable y los servidores públicos que intervengan para
 
 Para lo no previsto en este ordenamiento, serán de aplicación supletoria la Ley de Procedimiento y el Código de Procedimientos Civiles del Distrito Federal.
 
-###### Artículo 8.
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
-Con el fin de fomentar el autocontrol de los particulares en las actividades reguladas que desarrollen, podrán solicitar a la autoridad competente la realización de visitas de verificación voluntaria en términos de este Reglamento.
+###### Artículo 8°.
+
+Con el fin de fomentar el autocontrol de los particulares en las actividades reguladas que desarrollen, podrán solicitar a la autoridad competente la realización de visitas de verificación voluntaria en términos, requisitos y condiciones que para tal efecto emita el Instituto con base en lo dispuesto por el presente Reglamento.
 
 ### CAPÍTULO II. DE LOS VISITADOS
 
@@ -176,7 +194,9 @@ I. Abstenerse de impedir u obstaculizar por cualquier medio la visita de verific
 
 II. Acreditar la personalidad que ostente, señalar el carácter con el que atienda la visita de verificación o la relación que guarda con el titular del establecimiento o de la actividad regulada;
 
-III. Permitir y brindar facilidades para el acceso a los establecimientos, inmuebles, muebles, materiales, sustancias u objetos que se habrán de verificar, señalados en el objeto y alcance de la Orden de Visita de Verificación;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+III. Permitir y brindar facilidades para el acceso a los establecimientos, inmuebles, muebles, vehículos, materiales, sustancias u objetos que se habrán de verificar, señalados en el objeto y alcance de la Orden de Visita de Verificación;
 
 IV. Exhibir los libros, registros y demás documentos que exijan las disposiciones legales y reglamentarias aplicables, conforme al objeto y alcance de la Orden de Visita de Verificación;
 
@@ -186,7 +206,9 @@ VI. Abstenerse de conducirse con falsedad, dolo, mala fe, violencia, presentar d
 
 VII. Permitir al Servidor Público Responsable el correcto desempeño de sus funciones conforme al objeto y alcance establecido en la Orden de Visita de Verificación;
 
-VIII. Permitir, en su caso, la presencia de servidores públicos adscritos al Instituto u observadores acreditados por la Contraloría General del Distrito Federal, y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+VIII. Permitir la presencia de servidores públicos adscritos o comisionados al Instituto por la Administración Pública u observadores acreditados por la Contraloría General del Distrito Federal, y
 
 IX. Brindar las facilidades necesarias al Servidor Público Responsable y a sus auxiliares para llevar a cabo la filmación de la Visita de Verificación.
 
@@ -218,7 +240,9 @@ II. La práctica de visita de verificación;
 
 III. En su caso, la determinación y ejecución de medidas cautelares y de seguridad;
 
-IV. La substanciación del procedimiento de calificación de las actas de visita de verificación hasta la emisión de la resolución; y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+IV. La calificación de las actas de visita de verificación hasta la emisión de la resolución, y
 
 V. La ejecución de la resolución emitida en el procedimiento de calificación de las actas de visita de verificación.
 
@@ -230,15 +254,21 @@ I. Fecha de expedición;
 
 II. Número de folio u oficio que le corresponda;
 
-III. Domicilio o en su caso, ubicación por fotografía del establecimiento en el que se desahogará la visita de verificación;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+III. Domicilio o ubicación por fotografía del establecimiento en el que se desahogará la visita de verificación, y en su caso, nombre del propietario, poseedor o conductor del vehículo a verificar;
 
 IV. Objeto y alcance de la visita de verificación;
 
 V. Cita precisa de los preceptos legales y reglamentarios indicando los artículos, párrafos y en su caso fracciones del mismo, en los que se establezcan las obligaciones que debe cumplir los visitados y que serán revisadas o comprobadas en la visita de verificación;
 
-VI. El señalamiento preciso y en forma indubitable del lugar o lugares en que ha de realizarse la visita de verificación, de tal forma que no se preste a confusión o dé lugar a la discrecionalidad;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
 
-VII. Las medidas cautelares y de seguridad que sean procedentes para el caso en que se detecte la existencia de circunstancias que impliquen un peligro para la seguridad del establecimiento, la integridad de las personas o de sus bienes, la seguridad pública o la salud general;
+VI. La descripción del lugar o vehículo objeto de la verificación;
+
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+VII. Las medidas cautelares y de seguridad que sean procedentes para el caso en que se detecte la existencia de circunstancias que impliquen un peligro para la seguridad del establecimiento, la integridad de las personas o de sus bienes, la seguridad pública o la salud general; y, en su caso, la mención de remisión al depósito el vehículo objeto de verificación con el fin de inhibir la actividad irregular, así como todas aquellas medidas y acciones que permitan cumplir con dicho objetivo;
 
 VIII. Fundamento, cargo, nombre, firma autógrafa y/o electrónica del servidor público que expida la orden de visita de verificación;
 
@@ -268,9 +298,11 @@ En caso de impedimento del Servidor Público Responsable designado, la autoridad
 
 Cuando no se inicie la visita de verificación en el plazo antes señalado, el Servidor Público Responsable deberá manifestar por escrito a la autoridad competente, las causas o condiciones que sobrevinieron, lo que dará lugar a una nueva Orden de Visita de Verificación, sin perjuicio de poder practicarse posteriormente aún fuera de los plazos señalados en el presente artículo.
 
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
+
 ###### Artículo 17.
 
-La visita de verificación se entenderá con el visitado en términos señalados en el presente ordenamiento o persona que se encuentre en el establecimiento respectivamente.
+La visita de verificación se entenderá con el visitado en términos señalados en el presente ordenamiento o con la persona que se encuentre en el establecimiento, en su caso, con el operador del vehículo a verificar;
 
 ###### Artículo 18.
 
@@ -320,7 +352,9 @@ IV. Fecha de emisión y número de la Orden de Visita de Verificación;
 
 V. Fecha de la notificación al Servidor Público Responsable de la Orden de Visita de Verificación;
 
-VI. Calle, número, colonia, código postal y delegación o en su caso, ubicación por fotografía del establecimiento;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+VI. Calle, número, colonia, código postal y delegación o ubicación por fotografía del establecimiento; y en su caso, datos del vehículo y de su operador u operadores;
 
 VII. El nombre de la persona con quien se entienda la diligencia, así como el carácter con que se ostenta y en su caso, la descripción de los documentos con los que lo acredite;
 
@@ -344,7 +378,9 @@ XVI. Las particularidades e incidentes que surjan durante la visita de verificac
 
 XVII. Explícitamente las observaciones, aclaraciones, quejas o denuncias y demás manifestaciones que formule la persona con quien se entienda la diligencia;
 
-XVIII. Que el visitado cuenta con un término de diez días hábiles, para hacer las observaciones y presentar las pruebas que estime pertinentes respecto de la visita de verificación, así como la autoridad ante quien puede formularlas y el domicilio de ésta;
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XVIII. El plazo con que cuenta el visitado para hacer las observaciones y presentar las pruebas que estime pertinentes respecto de la visita de verificación, así como la autoridad ante quien puede formularlas y el domicilio de ésta;
 
 XIX. La hora, día, mes y año de conclusión de la visita de verificación;
 
@@ -377,6 +413,26 @@ El Instituto determinará los mecanismos, términos, condiciones y procedimiento
 ###### Artículo 25.
 
 El Instituto podrá habilitar servidores públicos del mismo Instituto para llevar a cabo visitas de verificación, cuando no cuente con personal especializado en funciones de verificación suficiente en las materias que son de su competencia. Los habilitados deberán contar con titulo profesional afín a las materias de que se trate o con experiencia en la materia objeto de verificación.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2011)</small>
+
+Artículo 25 BIS. En las diligencias de verificación relativas al transporte público, mercantil y privado de pasajeros y de carga, se observa lo dispuesto en el presente Reglamento y en lo conducente las disposiciones contenidas de la Ley de Transporte y Vialidad y su Reglamento, ambos del Distrito Federal, y además se sujetará a lo siguiente:
+
+I. El Instituto podrá realizar visitas de verificación y solicitar, en cualquier momento y las veces que sea necesario, a los concesionarios y permisionarios los datos e informes técnicos, administrativos y estadísticos, relacionados con las condiciones de operación del servicio que realicen, por virtud de las concesiones y permisos de los que sean titulares.
+
+Lo anterior, a fin de comprobar que los prestadores de los servicios de transporte en cualquiera de sus modalidades, proporcionan el servicio en los términos y condiciones señaladas en las concesiones o permisos otorgados, así como el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de tránsito, transporte y vialidad.
+
+II. El Instituto podrá requerir a los prestadores del servicio público mercantil y privado de pasajeros y de carga la documentación relacionada con la concesión o permiso otorgado, así como datos, informes, bienes y demás elementos necesarios; ya sea en sus domicilios, establecimientos, rutas, bases de servicio, lanzaderas, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas del Instituto.
+
+III. A fin de comprobar que la infraestructura y elementos incorporados a la vialidad por el concesionario o permisionarios, en términos de la concesión o permiso, cumplan con las disposiciones jurídicas y administrativas aplicables en la materia, el Instituto podrá llevar a cabo la inspección o verificación de los mismos.
+
+IV. El Instituto podrá solicitar en cualquier momento y las veces que se necesario a los titulares de autorizaciones, los datos e informes técnicos, administrativos y estadísticos, relacionados con las condiciones de seguridad, instalación, mantenimiento y conservación de los elementos de que se trate.
+
+V. El Instituto dará vista al Ministerio Público cuando de las visitas de verificación se desprenda la posible comisión de un delito.
+
+VI. El Instituto podrá llevar a cabo inspecciones físicas a las unidades vehiculares objeto de verificación, asimismo podrá requerir en cualquier momento a los permisionarios, concesionarios o particulares autorizados para la prestación del servicio, la presentación física de las unidades destinadas al servicio público de transporte para comprobar que cumplen con la regulación aplicable.
+
+Por lo que respecta a las verificaciones realizadas al transporte público, mercantil y privado de pasajeros y de carga, y en consideración a las sanciones previstas en la ley aplicable, los vehículos que no cumplan con las disposiciones serán remitidos al depósito que al efecto el Personal Especializado en Funciones de Verificación Administrativa determine.
 
 ### CAPÍTULO IV. DE LAS VISITAS DE VERIFICACIÓN VOLUNTARIA
 
@@ -414,11 +470,17 @@ De la misma forma se procederá, cuando haya tenido conocimiento de cualquiera d
 
 Si de la realización de visita de verificación voluntaria se desprende peligro para la salud, la integridad de las personas y sus bienes o la seguridad pública, se aplicarán las medidas de seguridad correspondientes.
 
-### CAPÍTULO V. DE LA SUBSTANCIACIÓN DEL PROCEDIMIENTO EN LA CALIFICACIÓN DE LAS ACTAS DE VISITA DE VERIFICACIÓN
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO V. DE LA CALIFICACIÓN DE LAS ACTAS DE VISITA DE VERIFICACIÓN
 
 ###### Artículo 29.
 
 Dentro de los diez días hábiles siguientes a la conclusión de la visita de verificación, los visitados podrán formular por escrito, ante la autoridad competente, observaciones y presentar pruebas respecto de los hechos, objetos, lugares y circunstancias contenidos en el Acta de Visita de Verificación.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2011)</small>
+
+El escrito a que se refiere el presente artículo, por lo que respecta al transporte público, mercantil y privado de pasajeros y de carga, los visitados deberán formularlo dentro de los cinco días hábiles siguientes a la realización de la verificación.
 
 ###### Artículo 30.
 
@@ -447,6 +509,10 @@ X. Pruebas que ofrezca, acompañadas de todos los elementos necesarios para su d
 XI. El lugar, la fecha y la firma autógrafa del interesado o, en su caso, la de su representante legal.
 
 Si el visitado no tuviese en su poder algún documento directamente relacionado con los hechos, objetos, lugares y circunstancias contenidos en el Acta de Visita de Verificación, por obrar en archivos públicos y lo ofrece como prueba, lo manifestará en su escrito, acompañando el acuse de recibo de la solicitud de copia certificada de dicho documento, ante la autoridad respectiva.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2011)</small>
+
+En los casos en que el visitado no haya proporcionado domicilio, se encuentre señalado fuera del Distrito Federal o resulte inexistente, las notificaciones se realizarán por estrados, lo mismo será aplicable para aquellas promociones, peticiones, escritos o solicitudes presentadas al Instituto.
 
 ###### Artículo 31.
 
@@ -489,6 +555,20 @@ Transcurrido el plazo de diez días hábiles siguientes a la conclusión de la v
 ###### Artículo 38.
 
 Cuando se encontraren omisiones o irregularidades en los documentos exhibidos conforme a los cuales se realiza la actividad regulada, denominados declaración, registro, licencia, permiso, autorización, aviso u otra denominación establecida en la normatividad aplicable, con independencia de que ello sea considerado en la resolución respectiva, se dará vista a la autoridad correspondiente para que en su caso inicie el procedimiento respectivo que permita determinar la responsabilidad en el ámbito que proceda.
+
+> <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2011)</small>
+
+Artículo 38 BIS. En la calificación del acta de verificación, relativa al transporte público, mercantil y privado de pasajeros y de carga, se observará en lo que corresponda, los plazos, términos y formalidades señaladas en el presente ordenamiento, a excepción de lo siguiente:
+
+I. Una vez que el visitado haya presentado escrito de observaciones u ofrecido pruebas dentro del término de cinco días hábiles siguientes a la fecha de conclusión de la visita, el Instituto procederá a dictar, dentro de los diez días hábiles siguientes, resolución fundada y motivada, en la cual calificará el Acta de visita de verificación e imponiendo, en su caso, las sanciones que procedan en los términos de los ordenamientos legales o reglamentarios aplicables;
+
+II. Sólo en caso de que se requiera opinión o información de otra dependencia, órgano desconcentrado, órgano político-administrativo o entidad, o que a juicio del Instituto, deban practicarse diligencias que le permitan allegarse de mayores elementos para resolver, podrá emitirse la resolución en un plazo mayor al señalado en la fracción anterior;
+
+III. En aquellos casos, en que con motivo de la verificación, el Personal Especializado haya determinado remitir la unidad vehicular al depósito, el permisionario, concesionario o particular autorizado para llevar a cabo la prestación del servicio, podrán solicitar la liberación del vehículo al Instituto, siempre que acredite cubrir las condiciones y requisitos que señale la normatividad en la materia para continuar prestando el servicio y previo pago de la sanción que se imponga en el procedimiento de calificación;
+
+IV. En aquellos casos en que se desprendan del acta de visita, causales de revocación de la concesión, permiso o autorización, será liberado el vehículo previo pago de la sanción y retención de la documentación y placas correspondientes, para el inicio del procedimiento de revocación por la Secretaría de Transportes y Vialidad del Distrito Federal.
+
+V. El procedimiento de revocación o cancelación de la concesión, permiso o autorización a cargo de la Secretaría de Transportes y Vialidad del Distrito Federal, se iniciará a instancia del Instituto, que podrá formularse en cualquier momento dentro del procedimiento de calificación del acta;
 
 ### CAPÍTULO VI. DE LAS MEDIDAS DE APREMIO
 
@@ -552,9 +632,11 @@ VIII. Las demás características de las medidas cautelares y de seguridad neces
 
 Cuando no se ejecuten las medidas cautelares y de seguridad ordenadas, en los términos y condiciones que se determinen, la autoridad competente procederá a su ejecución forzosa, con el auxilio de la fuerza pública conforme a los ordenamientos legales o reglamentarios aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
+
 ###### Artículo 46.
 
-Impuesta (sic) las medidas cautelares y de seguridad, el visitado podrá manifestar por escrito lo que a su derecho convenga, y en su caso, solicitar el levantamiento de dicha medida, debiendo contener dicho documento, los datos siguientes:
+Impuestas las medidas cautelares y de seguridad, el visitado podrá manifestar en cualquier momento de la etapa de calificación por escrito lo que a su derecho convenga, y en su caso, solicitar el levantamiento de dicha medida, debiendo contener dicho documento, los datos siguientes:
 
 I. Autoridad a la que se dirige;
 
@@ -578,15 +660,17 @@ X. Pruebas que ofrezca a efecto de subsanar las irregularidades, y
 
 XI. El lugar, la fecha y la firma autógrafa del interesado o, en su caso, la de su representante legal.
 
-La solicitud a que se refiere este artículo, se tramitará por escrito dentro de los cinco días siguientes a la notificación del acto que lo motive, o de que se tenga conocimiento del mismo. La solicitud se resolverá por separado del procedimiento de calificación del acta de visita de verificación.
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
-La autoridad competente acordará dentro de los tres días hábiles siguientes el día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y formulación de alegatos, misma que deberá verificarse dentro de los siete días hábiles siguientes a que se notifique el acuerdo respectivo. Sólo en caso de que se requiera la opinión de otra dependencia, órgano desconcentrado, órgano político-administrativo o entidad, la audiencia podrá fijarse en un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
+La solicitud a que se refiere este artículo, se tramitará en cualquier momento dentro del procedimiento de calificación y deberá ser acompañado de todos los medios probatorios que el promovente estime conveniente, posterior a ello, solo le serán admitidas pruebas supervenientes. La solicitud se resolverá dentro de los diez días hábiles siguientes a la fecha de presentación del escrito. Sólo en caso de que se requiera la opinión de otra dependencia, órgano desconcentrado, órgano político-administrativo o entidad, podrá resolverse en un plazo mayor al señalado. Cuando sea necesario acudir al establecimiento mercantil y este se encuentre clausurado o en suspensión de actividades, la autoridad acordará el levantamiento provisional de sellos por el tiempo que resulte necesario para la diligencia de que se trate.
 
-Cuando para la preparación y desahogo de alguna de las pruebas ofrecidas sea necesario acudir al establecimiento mercantil y este se encuentre clausurado o en suspensión de actividades, la autoridad acordará el levantamiento provisional de sellos por el tiempo que resulte necesario para la diligencia de que se trate, que podrá llevarse a cabo en la fecha de la audiencia o en día y hora posterior, en cuyo caso se desahogarán las demás pruebas. La probanza a que se refiere este párrafo deberá desahogarse dentro de los cinco días hábiles posteriores al inicio de la audiencia de admisión y desahogo de pruebas y formulación de alegatos, la cual sólo se tendrá por concluida cuando no exista probanza que habiendo sido admitida se encuentre pendiente de desahogo.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
 
-Concluida la audiencia, comparezcan o no los interesados, la autoridad emitirá la resolución del asunto, dentro del término de cinco días hábiles posteriores a dicha conclusión.
+> <small>(DEROGADO CUARTO PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
 
-En el caso de que no se ofrecieran pruebas, la autoridad lo hará constar y resolverá el asunto con los elementos que existan en el expediente.
+> <small>(DEROGADO QUINTO PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
+
+> <small>(DEROGADO SEXTO PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -628,11 +712,15 @@ V. Las demás que señalen las leyes o reglamentos correspondientes.
 
 Las sanciones pecuniarias se aplicarán con independencia de las medidas cautelares y de seguridad que se ordenen; por lo que, se podrá imponer conjunta o separadamente, según sea el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
+
 ###### Artículo 49.
 
-Se sancionará al visitado del inmueble que incurra en las siguientes infracciones:
+Se sancionará al visitado, que incurra en las siguientes infracciones:
 
-I. Con multa equivalente de 30 días de salario mínimo general vigente en el Distrito Federal, cuando haga caso omiso de los requerimientos realizados por la autoridad competente, en la substanciación del procedimiento administrativo o en la ejecución de las sanciones correspondientes, y
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+I. Con multa equivalente a 30 días de salario mínimo general vigente en el Distrito Federal, cuando haga caso omiso de los requerimientos realizados por la autoridad competente, en la calificación del procedimiento administrativo o en la ejecución de las sanciones correspondientes, y
 
 II. Con multa equivalente de 40 días de salario mínimo general vigente en el Distrito Federal, cuando una vez notificado un requerimiento, haga caso omiso al mismo.
 
@@ -742,7 +830,9 @@ IX. Pruebas que ofrezca a efecto de subsanar las irregularidades, y
 
 X. El lugar, la fecha y la firma autógrafa del interesado o, en su caso, la de su representante legal.
 
-La solicitud a que se refiere este artículo, se tramitará por escrito dentro de los cinco días siguientes a la notificación del acto que lo motive, o de que se tenga conocimiento del mismo. La solicitud se resolverá por separado del procedimiento de calificación del acta de visita de verificación.
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
+
+La solicitud a que se refiere este artículo, se tramitará por escrito dentro de los cinco días siguientes a la notificación del acto que lo motive, o de que se tenga conocimiento del mismo.
 
 La autoridad competente acordará dentro de los tres días hábiles siguientes, el día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y formulación de alegatos, misma que deberá verificarse dentro de los siete días hábiles siguientes a que se notifique el acuerdo respectivo. Sólo en caso de que se requiera la opinión de otra dependencia, órgano desconcentrado, órgano político-administrativo o entidad, la audiencia podrá fijarse en un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
 
@@ -860,9 +950,11 @@ IV. Hecho, acto u omisión que conlleve una posible contravención a lo dispuest
 
 V. Firma autógrafa o electrónica del denunciante, apoderado o su representante legal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE JUNIO DE 2011)</small>
+
 ###### Artículo 73.
 
-El servidor público que reciba una queja por teléfono, fax o correo electrónico, deberá canalizarla, a efecto de que se levante la misma, dando cumplimiento a los requisitos referidos en el artículo anterior, informando al quejoso que deberá ratificarla personalmente, dentro del término de tres días hábiles posteriores a su presentación, apercibiéndolo, que de lo contrario se tendrá por no presentada.
+El servidor público que reciba una queja por teléfono, fax o correo electrónico, deberá canalizarla, a efecto de que se tramite la misma, dando cumplimiento a los requisitos referidos en el artículo anterior.
 
 En los casos que el contenido de la queja se refiera al probable incumplimiento de ordenamientos federales, se remitirá a la instancia federal que resulte competente, informando de ello al quejoso, con independencia de que se siga el procedimiento a que se refiere este capítulo para el supuesto del probable incumplimiento de ordenamientos locales aplicables en el Distrito Federal.
 
@@ -992,7 +1084,13 @@ XIV. Abstenerse de solicitar, aceptar o recibir, por sí o por interpósita pers
 
 XV. Permitir la presencia de servidores públicos adscritos al Instituto y de observadores asignados por la Contraloría General; y
 
-XVI. Las demás que le señalen los ordenamientos legales o reglamentarios aplicables.
+> <small>(REFORMADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XVI. Ejecutar las sanciones que correspondan por la violación de disposiciones en materia de transporte público, mercantil y privado de pasajeros y de carga, y
+
+> <small>(ADICIONADA, G.O. 14 DE JUNIO DE 2011)</small>
+
+XVII. Las demás que le señalen los ordenamientos legales o reglamentarios aplicables.
 
 ###### Artículo 84.
 
@@ -1000,97 +1098,53 @@ El personal especializado en funciones de verificación está impedido para real
 
 El incumplimiento a dicha obligación será causa de responsabilidad administrativa.
 
-### CAPÍTULO XV. DE LAS ATRIBUCIONES DE SUPERVISIÓN Y AUDITORIA DE VISITAS DE VERIFICACIÓN ORDENADAS POR LAS DELEGACIONES
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE JUNIO DE 2011)</small>
+
+### CAPITULO XV. DE LA INSPECCIÓN DEL PERSONAL ESPECIALIZADO
+
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
 ###### Artículo 85.
 
-El Instituto supervisará y auditará, en cualquier momento, los procedimientos administrativos de verificación, que comprenden la emisión de la Orden de Visita de Verificación, la práctica de la visita de verificación, la substanciación, calificación y ejecución de la resolución correspondiente, en las materias previstas en el Apartado B del artículo 7 de la Ley.
+El Instituto inspeccionará en cualquier momento al Personal Especializado, de conformidad con los mecanismos que para tal efecto se establezcan y en base a las obligaciones que el titular emita, para lo cual toda visita de inspección deberá ser documentada señalando con precisión las inconsistencias encontradas en el ejercicio y desarrollo de sus actividades dentro del procedimiento de verificación.
 
-El Instituto requerirá a las Delegaciones, en cualquier momento, información así como copias simples o certificadas de cualquier documento que resulten necesarios para el ejercicio de supervisión y auditoria de los procedimientos administrativos de verificación administrativa a que se refiere este artículo.
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
 ###### Artículo 86.
 
-El personal del Instituto facultado para ello, podrá constituirse en las Delegaciones para llevar a cabo la auditoría y/o supervisión de los expedientes del procedimiento de verificación, de lo cual se levantará un acta circunstanciada que haga constar los expedientes auditados, y/o presenciar la ejecución de las órdenes de visitas de verificación, resoluciones y demás diligencias encomendadas en el procedimiento de verificación.
+El personal del Instituto facultado para ello, podrá constituirse en las Delegaciones para llevar a cabo la inspección del Personal Especializado, de lo cual se levantará un acta circunstanciada que haga constar la ejecución de las órdenes de visitas de verificación, resoluciones y demás diligencias encomendadas en el procedimiento de verificación.
 
-El Instituto deberá expedir la correspondiente orden de auditoría y/o supervisión, la cual deberá contener los siguientes requisitos:
-
-I. Lugar y fecha de expedición;
-
-II. Número de expediente de auditoría y/o supervisión
-
-III. Autoridad delegacional a la que está dirigida;
-
-IV. Domicilio o ubicación de la Delegación a la que habrá de practicarse la visita de auditoría y/o supervisión
-
-V. Objeto y alcance de la visita de auditoría y/o supervisión;
-
-VI. Fundamentación y motivación jurídicas;
-
-VII. Nombre del personal que habrá de realizar la auditoría y/o supervisión y número de su credencial; y
-
-VIII. Cargo, nombre y firma autógrafa del servidor público facultado que expida la orden de visita de auditoría y/o supervisión; (sic)
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
 ###### Artículo 87.
 
-El personal de las delegaciones estará obligado a permitir el acceso y dar facilidades e informes al personal del Instituto en el desarrollo de la visita de auditoría y/o supervisión.
+El personal de las Delegaciones estará obligado a permitir el acceso y dar facilidades e informes al personal del Instituto en el desarrollo de la visita de inspección.
+
+> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2011)</small>
 
 ###### Artículo 88.
 
-El personal del Instituto comisionado para la realización de la visita de auditoría y/o supervisión procederá a:
-
-I. Requerir la presencia de la persona con quien deba entender la visita;
-
-II. Identificarse ante la persona con la que entienda la diligencia y al efecto le mostrará la credencial que haya sido expedida a su favor por el Instituto;
-
-III. Hacer del conocimiento del visitado el motivo de su presencia y le entregará copia de la orden de visita de auditoría y/o supervisión, y
-
-IV. Requerir a efecto de que designe a dos personas que funjan como testigos de asistencia en el desarrollo de la misma. Ante la negativa, los testigos serán nombrados por el personal del Instituto.
+Al término de la vista de inspección, el personal comisionado deberá elaborar un informe en que se detalle el resultado de la visita, así como las conclusiones y/o recomendaciones que estime procedentes, vinculadas con el ejercicio de las atribuciones que corresponden al Personal Especializado, sin perjuicio de las responsabilidades administrativas o penales que correspondan.
 
 ###### Artículo 89.
 
-En apego a la descripción de la orden de auditoría y/o supervisión y de acuerdo a su objeto y alcance, se solicitarán al visitado los documentos relacionados con la misma.
+(DEROGADO, G.O. 14 DE JUNIO DE 2011)
 
 ###### Artículo 90.
 
-En toda visita de supervisión y/o auditoría, el personal del Instituto, con la presencia de la persona con quien se entienda la visita y la asistencia de los testigos, levantará acta en las formas impresas que al efecto se expidan, las que deberán estar numeradas y foliadas. En esta acta se deberá asentar lo siguiente:
-
-I. Lugar, fecha y hora de su inicio;
-
-II. Nombre del personal del Instituto que realice la visita de auditoría y/o supervisión; Número, fecha de expedición y fecha de vencimiento de la credencial del personal del Instituto;
-
-III. Fecha y número de expediente de la orden de visita de auditoría y/o supervisión;
-
-IV. Domicilio de la Delegación donde se realizó la visita;
-
-V. El nombre y cargo de la persona con quien se entienda la visita, así como el carácter con que se ostenta y la descripción de los documentos con los que lo acredite;
-
-VI. El requerimiento a la persona con quien se entienda la visita, para que designe testigos y ante su negativa el personal del Instituto los nombrará;
-
-VII. El nombre de los testigos designados y los datos de su identificación;
-
-VIII. El requerimiento para que exhiba los documentos y permita el acceso a la Delegación que corresponda;
-
-IX. Descripción de los hechos, objetos, lugares y circunstancias que observen, en relación con el objeto de la visita de auditoría y/o supervisión;
-
-X. Las particularidades e incidentes que surjan durante la visita de auditoría y supervisión;
-
-XI. Las declaraciones, observaciones y demás manifestaciones que formule la persona con quien se entienda la visita de auditoría y supervisión;
-
-XII. La hora, día, mes y año de conclusión de la visita de auditoría y/o supervisión;
-
-XIII. Nombre y firma del personal del Instituto y demás personas que intervenga en la visita de auditoría y/o supervisión y de quienes se nieguen afirmar. Ante su negativa asentará dicha circunstancia, sin que esto afecte la validez del acta.
+(DEROGADO, G.O. 14 DE JUNIO DE 2011)
 
 ###### Artículo 91.
 
-Al término de la visita de auditoría y/o supervisión se deberá redactar el acta correspondiente, de conformidad con lo establecido en el artículo anterior de este Reglamento.
+(DEROGADO, G.O. 14 DE JUNIO DE 2011)
 
 ###### Artículo 92.
 
-El personal del Instituto deberá proporcionar copia de la visita de auditoría y/o supervisión al personal de la Delegación con quien se entienda la misma.
+(DEROGADO, G.O. 14 DE JUNIO DE 2011)
 
 ###### Artículo 93.
 
-Al término de la vista (sic) de la auditoría y/o supervisión, el Instituto contará con un término de 15 días hábiles para la elaboración de un informe en que se detalle el resultado de la visita, así como las conclusiones y/o recomendaciones que estime procedentes, vinculadas con el ejercicio de las atribuciones que corresponden a las Delegaciones en materia de verificación administrativa.
+(DEROGADO, G.O. 14 DE JUNIO DE 2011)
 
 ## TRANSITORIOS
 
@@ -1109,3 +1163,17 @@ SEXTO. Los procedimientos administrativos de verificación que se encuentren en 
 SÉPTIMO. Los documentos, formatos, sellos y demás material que a la fecha de entrada en vigor de este Reglamento sean usados en el ejercicio de la facultad de verificación administrativa por las Delegaciones, seguirán siendo utilizados hasta que el Instituto y Las (sic) Delegaciones dispongan de los recursos necesarios para su sustitución, dicha sustitución será difundida por los medios necesarios.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de agosto de 2010.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁSQUEZ ALZÚA.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 14 DE JUNIO DE 2011.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Los procedimientos administrativos de verificación que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se regularán por las normas vigentes en el momento en que se hayan iniciado.
+
+CUARTO. Las menciones que se hagan a otras autoridades en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en materia de transporte que corresponden al Instituto conforme a la Ley, se entenderán hechas al Instituto.
+
+QUINTO. Las menciones realizadas al personal de verificación en cualquier disposición normativa relacionada con el ejercicio de las atribuciones en las materias de verificación que corresponden al Instituto en materia de transporte, se entenderán hechas al personal especializado en funciones de verificación del propio Instituto.
