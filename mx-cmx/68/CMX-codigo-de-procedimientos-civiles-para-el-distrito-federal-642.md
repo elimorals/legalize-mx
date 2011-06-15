@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-05-23"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -672,13 +672,13 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 En la resolución de estos incidentes se podrá confirmar, atenuar o dejar sin efecto la corrección, sin que en contra de dicha resolución proceda recurso alguno.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ARTICULO 64
 
 Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos los sábados y domingos, y aquellos que las leyes declaren festivos.
 
-Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, pérdida de la patria potestad, adopción y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
 ARTICULO 65
 
@@ -4114,17 +4114,25 @@ El auto en que se declara que una sentencia ha causado o no ejecutoria, no admit
 
 ### CAPITULO I. De la pérdida de la patria potestad de menores acogidos por una Institución pública o privada de asistencia social
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ARTICULO 430
 
 Se tramitará el procedimiento a que se refiere este capítulo tratándose de menores recibidos por una institución pública o privada de asistencia social para el efecto de que se decrete la pérdida de la patria potestad, sólo en los casos previstos en el artículo 444 fracciones III, V, VI y VII del Código Civil, correspondiéndole la acción al representante legal de la institución o al Ministerio Público.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
+El Ministerio Público deberá de ejercitar la acción de forma inmediata una vez transcurrido el término que la ley señala.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ARTICULO 431
 
-Admitida la demanda se correrá traslado de ella a las personas a que se refiere el artículo 414 del Código Civil, a fin de que en el plazo de cinco días presenten su contestación.
+Presentada la demanda deberá ser proveída dentro del término de tres días.
+
+El auto en el que se admita, ordenará correr traslado en forma inmediata a las personas a las que se refiere el artículo 414 del Código Civil, a fin de que en un plazo de cinco días presenten su contestación. En caso que se desconozca la identidad de las personas a que se refiere el presente párrafo, o su domicilio, el Juez mandará publicar un edicto que surtirá efectos de notificación en los términos del artículo 122 del presente Código. Asimismo proveerá la celebración de audiencia de pruebas y alegatos que se deberá llevar a cabo dentro de los veinte días contados a partir del auto admisorio, debiendo ordenar la citación conforme a las reglas de las notificaciones personales.
+
+A efecto de que la audiencia no se difiera injustificadamente, el Juez dictará las medidas de apremio a que se refiere el artículo 973 del presente Código, que estime más eficaces, sin seguir orden alguno.
+
+Es responsabilidad del actuario notificar a las partes en forma inmediata el auto admisorio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -4148,15 +4156,19 @@ Si la parte demandada no formula su contestación, se tendrá por contestada en 
 
 En este juicio no es admisible la reconvención.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ARTICULO 434
 
-Transcurrido el período de emplazamiento, dentro de los diez días siguientes, se celebrara una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+Las pruebas deberán ofrecerse en los escritos de demanda y contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
 
-Las pruebas deberán ofrecerse en los escritos de demanda y contestación. Las pruebas supervenientes se regirán por las reglas generales previstas en éste Código.
+Las partes deberán de presentar a sus testigos y peritos. En caso de que el oferente manifestare bajo protesta de decir verdad no estar en posibilidad de hacerlo, se impondrá al actuario del juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos para la audiencia respectiva, en la que deberán rendir dictamen. Dicha citación se hará con apercibimiento de arresto hasta por treinta y seis horas, de no comparecer el testigo o el perito sin causa justificada.
 
-Si no fuere posible desahogar todas las pruebas, la audiencia podrá diferirse por una sola vez por un término no mayor de cinco días. Desahogadas las pruebas y concluida la fase de alegatos, se dictará Sentencia dentro de los cinco días siguientes.
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2011)</small>
+
+ARTICULO 434 BIS
+
+El juez procurara desahogar todas las pruebas en una sola audiencia, la cual sólo podrá diferirse, por causas excepcionales, una sola vez dentro de un término no mayor de cinco días. Desahogadas las pruebas y concluida la fase de alegatos, se dictará Sentencia dentro de los cinco días siguientes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -8130,11 +8142,13 @@ ARTICULO 901
 
 En los negocios de menores e incapacitados intervendrán el Juez de lo Familiar y los demás funcionarios que determine el Código Civil.
 
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
-ARTICULO 901 Bis
+ARTICULO 901 BIS
 
-La institución pública o privada, de asistencia social que reciba a un menor para ser dado en adopción, podrá presentar por escrito, solicitud ante Juez Familiar haciendo de su conocimiento esta circunstancia, acompañando a dicha solicitud el acta de nacimiento del menor. El Juez ordenará la comparecencia del representante legal de la institución y de la persona o las personas que ejerzan la patria potestad, con la intervención del Ministerio Público.
+La institución pública o privada de asistencia social que reciba a un menor para ser dado en adopción, deberá, en forma inmediata, presentar por escrito solicitud ante Juez Familiar, haciendo de su conocimiento esta circunstancia, acompañando a dicha solicitud el acta de nacimiento del menor. El Juez bajo su más estricta y personal responsabilidad ordenará, de manera inmediata, en un plazo que no exceda de cinco días hábiles, la comparecencia del representante legal de la institución y de la persona o las personas que ejerzan la patria potestad, con la intervención del Ministerio Público.
+
+A efecto de que la comparecencia se lleve a cabo de manera pronta, el Juez dictará las medidas de apremio a que se refiere el artículo 973 del presente Código, que estime más eficaces, sin seguir orden alguno.
 
 Ratificada que sea por las partes dicha solicitud, se declarará de oficio la terminación de la patria potestad y la tutela del menor quedará a cargo de la Institución.
 
@@ -8374,11 +8388,11 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
-
 ARTICULO 923
 
-El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 390 del Código Civil, debiendo observar lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JUNIO DE 2011)</small>
+
+El que pretende adoptar deberá acreditar los requisitos determinados por el Código Civil, debiendo observar lo siguiente:
 
 I. En la promoción inicial se deberá manifestar si se trata de adopción nacional o internacional, mencionándose, el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretenda adoptar, el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya recibido y acompañar certificado médico de buena salud de los promoventes y del menor.
 
@@ -8412,7 +8426,11 @@ Rendidas las constancias que se exigen en el artículo anterior y obtenido el co
 
 La sentencia consentida por los promoventes causara ejecutoria.
 
-ARTICULO 925 (DEROGADO, G.O. 10 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2011)</small>
+
+ARTICULO 925
+
+Una vez iniciado el procedimiento de adopción, el Juez velará para que las actuaciones judiciales en todo momento sean continuas, evitando bajo su más estricta responsabilidad la inactividad procesal, quedando obligado a presenciar y dirigir de manera personal cada una de las diligencias y actuaciones que se practiquen en el proceso y no podrá delegar dicha obligación en persona alguna. El incumplimiento de tal obligación será causa de responsabilidad para el Juez.
 
 ARTICULO 925 A (DEROGADO, G.O. 10 DE NOVIEMBRE DE 2008)
 
@@ -10435,3 +10453,11 @@ G.O. 23 DE MAYO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 15 DE JUNIO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Todos los procesos iniciados con anterioridad a la entrada en vigor a la presente reforma se concluirán conforme a las disposiciones anteriores.
+
+Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
