@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-para-el-estado-de-zacatecas-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2009-09-23"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2009.
 
@@ -474,6 +474,14 @@ II. La Dirección General;
 III. La Comisión de Justicia Deportiva, y
 
 IV. Las unidades administrativas necesarias para atender de manera sistematizada y eficiente los objetivos de la presente Ley, del Sistema Estatal y del Programa Estatal, así como la vigilancia de su cumplimiento. Dichas unidades se determinarán en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+El Instituto contará con una Unidad de Deporte Adaptado para la promoción y desarrollo de la cultura física y deporte de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Para garantizar el funcionamiento y resultados efectivos del área mencionada en el párrafo anterior, el Instituto destinará el 2% de su presupuesto anual.
 
 #### Sección Primera. Consejo Consultivo
 
@@ -1840,3 +1848,17 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS PINTO NÚÑEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO.- El Instituto de Cultura Física y Deporte del Estado de Zacatecas, tomando como base legal el contenido del artículo 20, en sus fracciones XVII Y XVIII de la Ley de Cultura Física y Deporte del Estado de Zacatecas, mediante conocimiento y acuerdo previo de su Consejo Consultivo del Sistema Estatal, contará con sesenta días naturales, contados a partir de la publicación de este Decreto, para nombrar un responsable de la Unidad de Deporte Adaptado que se crea mediante este decreto modificatorio; en el mismo plazo deberá aperturar y equipar la referida unidad administrativa para su inmediato funcionamiento.
+
+El responsable de dicha unidad, deberá contar cuando menos, con un año de experiencia en tareas de cultura física y de gestión o práctica deportiva para personas con discapacidad, preferentemente, pertenecer al sector de discapacitados y contar con las aptitudes adecuadas para el desempeño del encargo.
+
+CUARTO.- El porcentaje mínimo previsto en el presente decreto para garantizar el funcionamiento de la Unidad de Deporte Adaptado, será respetado y deberá aplicarse por la Dirección General del Instituto de Cultura Física y Deporte del Estado de Zacatecas a partir del presente ejercicio fiscal 2011.
