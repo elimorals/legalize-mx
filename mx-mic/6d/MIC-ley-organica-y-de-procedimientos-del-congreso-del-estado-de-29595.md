@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2010-11-22"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO NOVENO TRANSITORIO DE LA LEY ORGANICA Y DE PROCEDIMIENTO DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN LA QUINTA SECCION DEL P.O. DE FECHA 15 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -1888,3 +1890,29 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dese cuenta del presente Decreto, al titular de la Auditoría Superior de Michoacán, y a la Comisión de Administración y Control del Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
+
+P.O. 15 DE JUNIO DEL 2011.
+
+PRIMERO. La presente Ley entrará en vigor al momento de su aprobación, notifíquese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las disposiciones previstas en esta Ley se ajustarán a lo previsto en el Decreto número 69 aprobado por el Congreso y publicado el 22 de septiembre de 2006.
+
+TERCERO. Los actuales integrantes de la Mesa Directiva del Congreso, por única ocasión, durarán en su encargo hasta el día 14 catorce de enero de 2012 dos mil doce.
+
+CUARTO. La normatividad referente a las atribuciones y clasificación de las Comisiones y los Comités, entrará en vigor el 15 quince de enero de 2012 dos mil doce, en tanto, seguirán aplicándose las disposiciones establecidas en la Ley Orgánica y de Procedimientos del Congreso del Estado publicada el 13 trece de marzo de 2003 dos mil tres, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+QUINTO. La Comisión Instructora de la actual Legislatura se sujetará a los procedimientos especiales señalados en esta Ley para la Comisión Jurisdiccional, a excepción de los procedimientos ya iniciados, los cuales deberán regirse, hasta su conclusión, por lo establecido en la Ley Orgánica y de Procedimientos del Congreso del Estado publicada el 13 trece de marzo de 2003 dos mil tres, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEXTO. La Comisión de Régimen Interno y Prácticas Parlamentarias presentará ante el Pleno el Reglamento de Comisiones en un plazo no mayor de 60 días, a partir de la aprobación de la presente. Asimismo, los órganos técnicos del Congreso presentarán ante las comisiones correspondientes, los proyectos que contengan las reformas a los reglamentos internos, o bien, los nuevos reglamentos que se requieran, en un plazo no mayor de 120 días.
+
+SÉPTIMO. Los titulares de la Secretarias (sic) de Servicios Parlamentarios; de la Secretaría de Administración y Finanzas; de la Contraloría Interna; del Centro de Investigaciones y Estudios Legislativos, así como de las Coordinaciones de Comunicación Social; y, Atención Ciudadana y Gestoría; seguirán en su encargo, entendiendo que han sido ratificados por el Pleno.
+
+OCTAVO. Para la instauración del Servicio Parlamentario de Carrera, la Junta de Coordinación Política y la actual Comisión de Administración y Control ordenarán a la Secretaría de Administración y Finanzas, elaboré un diagnóstico de la reestructuración administrativa, un catálogo de puestos y la homologación laboral conforme a lo establecido en la presente Ley, el cual deberá estar concluido a más tardar el día 31 treinta y uno de octubre de 2011 dos mil once. Para que la normatividad relativa al Servicio Parlamentario de Carrera, entre en vigor el día 01 uno de noviembre de 2011 dos mil once.
+
+Por única ocasión y con la finalidad de implementar el Servicio Parlamentario de Carrera, el personal que actualmente labora en el Congreso del Estado de Michoacán y tenga interés en formar parte del Servicio, ingresará de manera directa, previa solicitud que presente, quedando sujeto al proceso de evaluación del desempeño.
+
+El personal que se haya inscrito al Servicio Parlamentario de Carrera, podrá ser recategorizado para obtener un nivel superior, siempre y cuando cumpla con los requisitos señalados en la presente Ley y en su caso en los reglamentos respectivos.
+
+Los trabajadores que a la fecha prestan sus servicios en alguna de las áreas técnicas del Congreso que sufran alguna modificación administrativa, pasarán a formar parte de la nueva área que se haya creado en sustitución de la anterior, respetándose sus derechos laborales en los términos de la ley de la materia.
+
+NOVENO. Se abroga la Ley Orgánica y de Procedimientos del Congreso del Estado, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 trece de marzo de 2003 dos mil tres.
