@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-03-18"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2474,6 +2474,10 @@ A quien por medio del engaño o aprovechando el error en que otro se halle le ca
 
 Se equipara al delito de fraude y se sancionará con prisión de seis meses a diez años y de cuatrocientos a cuatro mil días multa, al que valiéndose del cargo que ocupe en el gobierno o en cualquiera agrupación de carácter sindical, social, o de sus relaciones con funcionarios o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en los mismos.
 
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 233 BIS. Se le impondrá la pena prevista en el artículo anterior, al que por medio del engaño, con el fin de obtener un lucro para si o para otro, ofrezca por cualquier medio un empleo que resulte falso o inexistente, en perjuicio del patrimonio del solicitante.
+
 ### CAPÍTULO VII. NEGACIÓN DEL SERVICIO PÚBLICO
 
 ###### ARTÍCULO 234.
@@ -4437,3 +4441,9 @@ PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pro
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de publicación.
+
+G.O. 15 DE JUNIO DE 2011.
+
+Primero: El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
