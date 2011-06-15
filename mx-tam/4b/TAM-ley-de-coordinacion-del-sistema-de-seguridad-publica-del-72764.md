@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2011-04-27"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
-LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
+LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -607,7 +607,9 @@ Los funcionarios citados referidos en la fracción VIII, serán convocados en ra
 
 Asimismo para cada sesión el Presidente podrá invitar a dos representantes de la sociedad civil. Su participación será de carácter honorífico.
 
-Los integrantes del consejo concurrirán personalmente a las sesiones sin que tengan potestad para que los represente otro funcionario.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Los integrantes del Consejo podrán designar un suplente, mismo que deberá tener un rango jerárquico inmediato inferior o, en su caso, ser homólogo, y tendrá los mismos derechos y obligaciones que el titular.
 
 El Presidente podrá ser suplido por el Secretario General de Gobierno en quien, de ser el caso, delegará el ejercicio de sus atribuciones relativas al Sistema.
 
@@ -671,7 +673,13 @@ XXII. Las demás que sean necesarias para cumplir los objetivos de la coordinaci
 
 El Consejo se reunirá de manera ordinaria cada tres meses, mediante convocatoria del Secretario Ejecutivo quien, por acuerdo del Presidente, integrará la agenda de los asuntos a tratar. Extraordinariamente sesionará cuantas veces sea necesario o cuando algún asunto urgente lo amerite.
 
-El quórum para las reuniones del Consejo se integrará con la mitad más uno de los integrantes.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+El quórum para las reuniones del Consejo se integrará con los titulares o sus suplentes de los integrantes previstos en las fracciones I, II, III, V, VI, VII, VIII y IX del artículo 24 de esta ley, y cuando menos tres presidentes municipales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Tratándose de los presidentes municipales del Estado, bastará con la presencia de al menos tres de éstos. El Presidente del Consejo determinará a cuáles deberá convocarse en cada sesión.
 
 ###### ARTICULO 29.
 
@@ -1463,7 +1471,7 @@ La Procuraduría deberá hacer la anotación de la cancelación respectiva, en e
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 95.
 
@@ -1831,7 +1839,7 @@ CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.-
 
 SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE DICIEMBRE DE 2010.
 
@@ -1856,3 +1864,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Decreto de creación del Centro Estatal de Evaluación y Control de Confianza, deberá ser reformado para estar acorde a lo establecido en el presente Decreto, a más tardar a los 30 días siguientes de la entrada en vigor de este Decreto.
+
+P.O. 15 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
