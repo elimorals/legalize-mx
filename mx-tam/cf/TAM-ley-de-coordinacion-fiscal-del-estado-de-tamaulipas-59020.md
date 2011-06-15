@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-01-20"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -37,7 +37,7 @@ LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE
 
 DE C R E T O No. LIX-1089
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS..
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -371,6 +371,120 @@ Las obligaciones de los Municipios a que se refiere el segundo párrafo de este 
 
 Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA COMISIÓN DE FUNCIONARIOS DE LA HACIENDA PÚBLICA DE TAMAULIPAS
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 38.
+
+El Gobierno del Estado contará con una Comisión de Funcionarios de la Hacienda Pública de Tamaulipas, en lo sucesivo la Comisión, la cual tendrá los siguientes objetivos:
+
+I.- Coordinar las tareas comunes en materia de finanzas públicas que los municipios y el Estado realizan;
+
+II.- Integrar un foro de carácter institucional de las expresiones y dudas de los municipios en materia fiscal y de finanzas públicas;
+
+III.- Proponer acciones que permitan incrementar los ingresos propios del Estado y sus municipios;
+
+IV.- Intercambiar medidas y recomendaciones para ajustarse a los cambios económicos, ocasionados por repercusiones fiscales y financieras, que impacten en las Haciendas Públicas del Estado y los municipios;
+
+V.- Garantizar la transparencia, la eficiencia y la correcta aplicación de los recursos públicos; y
+
+VI.- Establecer entendimientos y acuerdos que permitan soluciones para superar dificultades comunes a los municipios y Estado, en el ejercicio de sus funciones de recaudación.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 39.
+
+Para el cumplimiento de sus objetivos la Comisión, tendrá las siguientes atribuciones:
+
+l.- Vigilar el cálculo y la adecuada distribución de las participaciones que corresponden a los municipios, con la finalidad de dar transparencia y certeza a los procedimientos establecidos en la presente ley;
+
+II.- Promover la actividad recaudatoria de los municipios; mediante la coordinación interinstitucional de los órdenes de gobierno;
+
+III.- Homologar los conceptos y bases sobre las cuales deben de elaborarse anualmente las leyes de Ingresos de los municipios, los presupuestos de Egresos, la rendición de las cuentas públicas y la actualización de tarifas en las contribuciones municipales, entre otras actividades;
+
+IV.- Establecer vínculos entre los municipios para fomentar el intercambio, desarrollo e innovación de sistemas de recaudación municipales;
+
+V.- Capacitar a los funcionarios de las tesorerías municipales en aspectos relacionados con el desempeño de sus funciones;
+
+VI.- Asesorar a los municipios de la entidad para prevenir las tendencias al incumplimiento de las obligaciones fiscales;
+
+VII.- Proponer soluciones y mecanismos para instrumentar acciones de modernización y optimización de las áreas de ingresos y catastro, así como la actualización y mejora del orden jurídico y la normatividad hacendaria municipal;
+
+VIII.- Mejorar aspectos de contabilidad gubernamental y la gestión del ejercicio y control del gasto público municipal, así como fomentar la transparencia y rendición de cuentas;
+
+IX.- Impulsar la mejora en prácticas administrativas para simplificar los trámites y servicios que prestan las ventanillas de las tesorerías municipales;
+
+X.- Difundir las leyes fiscales entre los contribuyentes, para su oportuno cumplimiento y reducir los índices de elusión y evasión fiscales;
+
+XI.- Promover el intercambio entre los órdenes de gobierno, de información y bases de datos para la actualización de padrones y registros, entre otros;
+
+XII.- Requerir mayor competencia a los municipios en las atribuciones para la aplicación de la Ley Reglamentaria para el Establecimiento de Bebidas Alcohólicas del Estado;
+
+XIII.- Formalizar convenios para la operación y ejecución del Anexo 3 al Convenio de Colaboración Administrativa en Materia Fiscal Federal, con cada uno de los Ayuntamientos del Estado;
+
+XIV.- Constituir los Comités Técnicos con los municipios costeros de la entidad que cuentan con el Anexo 1 al Convenio de Colaboración Administrativa en Materia Fiscal Federal para la administración de la Zona Federal Marítimo Terrestre para la recaudación, administración, vigilancia y ejecución de dichos recursos;
+
+XV.- Dar seguimiento a los Fondos de Coordinación Fiscal de aquellos municipios de la entidad que tengan convenios con la Federación, para la operación y administración de puentes de peaje; y
+
+XVI.- Convenir con los municipios de la entidad, medidas para realizar acciones tendientes a la verificación del cumplimiento del pago de derechos de control vehicular y del impuesto sobre tenencia del padrón vehicular de su jurisdicción.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 40.
+
+La Comisión estará integrada por:
+
+I.- El Gobernador del Estado, quien la presidirá;
+
+II.- El Presidente de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado;
+
+III.- Los 43 Presidentes Municipales de la Entidad;
+
+IV.- El Auditor Superior del Estado; y
+
+V.- El Secretario de Finanzas del Estado, quien fungirá como Secretario Técnico.
+
+Los cargos de los miembros de la Comisión serán honoríficos, por lo que las personas que los desempeñen no devengarán retribución alguna.
+
+Cuando los titulares de la Comisión no puedan concurrir a sus sesiones, serán representados por sus respectivos suplentes, conforme a los siguientes:
+
+I.- En el caso del Gobernador del Estado, la persona que éste designe, no podrá tener un nivel jerárquico inferior a Subsecretario;
+
+II.- Por el Presidente de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado, el Secretario de la misma;
+
+III.- Los Presidentes Municipales, por los Tesoreros Municipales;
+
+IV.- El Auditor Superior del Estado, por el Auditor Especial para Municipios y Poderes del Estado; y
+
+V.- El Secretario de Finanzas, por el titular de la Subsecretaría de Egresos de la Secretaría de Finanzas.
+
+Cuando así lo considere el Presidente, a las sesiones de la Comisión podrán ser invitados representantes de instituciones de los sectores social y privado, quienes participarán con su voz.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 41.
+
+La Comisión sesionará trimestralmente de forma ordinaria y, en forma extraordinaria, cuando así lo convoque su Presidente para tratar algún asunto que lo requiera, enviándose convocatoria a los participantes por lo menos con tres días de anticipación. En ésta se establecerá el lugar y hora de la sesión, el orden del día y se acompañará con una copia del acta de la sesión anterior.
+
+En cada sesión de la Comisión podrá haber, por lo menos, un ponente, a fin de que trate un tema relacionado con el desarrollo y perfeccionamiento de las Haciendas Estatal y Municipales o con un tema económico, financiero o jurídico de interés para las finanzas públicas de Tamaulipas.
+
+Al término de la sesión, el Secretario Técnico levantará el Acta correspondiente, misma que deberá ser firmada por todos los presentes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 42.
+
+La Comisión podrá contar con grupos de trabajo permanentes; así como integrar temporalmente grupos auxiliares de trabajo para la investigación de casos concretos, para lo cual podrá invitar a diversas organizaciones, dependencias o instituciones a realizar dichos trabajos.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 43.
+
+El financiamiento, integración, operación y funcionamiento de la Comisión, así como de los Grupos de Trabajo que la integren, se establecerán en el Reglamento de la Comisión.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -428,3 +542,17 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Funcionarios de la Hacienda Pública de Tamaulipas, deberá quedar instalada a más tardar dentro de los 90 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Funcionarios de la Hacienda Pública de Tamaulipas propondrá al Ejecutivo del Estado el Reglamento de la misma, en el cual deberá incluirse normas para su financiamiento, operación y funcionamiento, así como los Grupos de Trabajo que la integren, a más tardar a los 60 días posteriores de la instalación de la misma.
