@@ -4,7 +4,7 @@ identifier: "FED-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1529
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2009-05-28"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAASSP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -356,19 +356,13 @@ En materia de seguros que se contraten a favor de los servidores públicos de la
 
 ### Capítulo Único
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 18.
 
-En la planeación de las adquisiciones, arrendamientos y servicios que pretendan realizar los sujetos a que se refieren las fracciones I a VI de esta Ley, deberán ajustarse a:
+En la planeación de las adquisiciones, arrendamientos y servicios que pretendan realizar sujetos a que se refiere las fracciones I a VI del artículo 1 de esta Ley, deberá ajustarse a:
 
 I. Los objetivos y prioridades del Plan Nacional de Desarrollo y de los programas sectoriales, institucionales, regionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales, y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 2009)</small>
 
 II. Los objetivos, metas y previsiones de recursos establecidos en el Presupuesto de Egresos de la Federación o, en su caso, al presupuesto destinado a las contrataciones que los fideicomisos públicos no considerados entidades paraestatales prevean para el ejercicio correspondiente.
 
@@ -2105,3 +2099,7 @@ DÉCIMO SEXTO. El Ejecutivo Federal deberá informar a la Comisión de Presupues
 La Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados tomará en cuenta la información que rinda el Ejecutivo Federal, respecto a los conceptos señalados en el artículo 16 del Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2009, para efectos del proceso de aprobación del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2010.
 
 DÉCIMO SÉPTIMO.- El Ejecutivo Federal, a través de la Secretaría de la Función Pública y de la Secretaría del Medio Ambiente y Recursos Naturales, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la debida aplicación de lo dispuesto en el párrafo cuarto del artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+D.O.F. 15 DE JUNIO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación
