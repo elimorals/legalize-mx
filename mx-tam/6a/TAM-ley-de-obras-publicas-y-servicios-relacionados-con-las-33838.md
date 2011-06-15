@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2007-12-27"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -87,13 +87,13 @@ XI. Licitante: La persona que participe en cualquier procedimiento de licitació
 
 XII. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas, que regula la Contraloría;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
-XIII. Secretaría: La Secretaría de Obras Públicas, Desarrollo Urbano y Ecología;
+XIII. Secretaría: La Secretaría de Obras Públicas;
 
-XIV. Subcomisión: La Subcomisión para la Licitación de Obras Públicas; y
+XIV. (DEROGADA, P.O. 15 DE JUNIO DE 2011)
 
-XV. Subcomité: El Subcomité Técnico para la Contratación de Obras Públicas y Servicios Relacionados con las Mismas.
+XV. (DEROGADA, P.O. 15 DE JUNIO DE 2011)
 
 ###### ARTÍCULO 3.
 
@@ -169,7 +169,9 @@ IV. Emitir las políticas, bases y lineamientos en materia de obras públicas y 
 
 V. Autorizar, cuando lo soliciten los titulares de las dependencias y entidades, y previa justificación, la creación de Subcomités y sus respectivas Subcomisiones;
 
-VI. Elaborar y aprobar el manual de integración y funcionamiento del Comité, Subcomités, Comisión y Subcomisiones, así como vigilar su funcionamiento;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+VI. Elaborar y aprobar el manual de integración y funcionamiento del Comité, y la Comisión, así como vigilar su funcionamiento;
 
 VII. Ejecutar, a través de la Comisión, el proceso de licitación de las obras públicas y de los servicios relacionados con las mismas, en cada una de sus etapas;
 
@@ -201,9 +203,11 @@ III. Poner a consideración del Comité las solicitudes para contratar obras pú
 
 IV. Proponer a la aprobación del Comité las políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas;
 
-V. Someter a la autorización del Comité las solicitudes que realicen las dependencias y entidades, para la creación de Subcomités y sus respectivas Subcomisiones;
+V. (DEROGADA, P.O. 15 DE JUNIO DE 2011)
 
-VI. Presentar a la aprobación del Comité el manual de integración y funcionamiento del Comité, Subcomités, Comisión y Subcomisiones;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+VI. Presentar a la aprobación del Comité el manual de integración y funcionamiento del Comité y de la Comisión;
 
 VII. Instruir a la Comisión, previo acuerdo del Comité, a ejecutar en cada una de sus etapas, el proceso de licitación de las obras públicas solicitadas por las dependencias y entidades;
 
@@ -305,7 +309,9 @@ En lo que corresponde a la ejecución de obras públicas que realicen los Ayunta
 
 Cuando por las condiciones especiales de las obras públicas y de los servicios relacionados con las mismas se requiera la intervención de dos o más dependencias o entidades, o la participación de dos o más Ayuntamientos, quedará a cargo de cada uno de ellos la responsabilidad sobre la ejecución de la parte de los trabajos que les corresponda, sin perjuicio de la responsabilidad que en razón de sus atribuciones tenga la encargada de la planeación y programación del conjunto.
 
-Previamente a la ejecución de las obras públicas o servicios relacionados con las mismas a que se refiere este artículo, se deberán establecer convenios o acuerdos donde se especifiquen los términos para la coordinación de las acciones del Comité, Subcomités o Ayuntamientos que intervengan.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Previamente a la ejecución de las obras públicas o servicios relacionados con las mismas a que se refiere este artículo, se deberán establecer convenios o acuerdos donde se especifiquen los términos para la coordinación de las acciones del Comité o Ayuntamientos que intervengan.
 
 ###### ARTÍCULO 15.
 
@@ -343,7 +349,11 @@ En todas las cuestiones no previstas en la presente ley, se aplicarán supletori
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ### CAPÍTULO PRIMERO. GENERALIDADES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ## TÍTULO CUARTO. DEL PADRÓN DE CONTRATISTAS
 
@@ -425,9 +435,11 @@ El presupuesto actualizado será la base para solicitar la asignación de cada e
 
 La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-Las dependencias, entidades o los Ayuntamientos podrán, a través del Comité o Subcomité, convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la autorización, global o específica, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pago correspondientes.
+Las dependencias, entidades o los Ayuntamientos podrán, a través del Comité, convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la aprobación, global o específica, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pago correspondientes.
 
 Los documentos que acrediten la autorización global o específica del presupuesto de inversión, deberán formar parte del expediente técnico.
 
@@ -437,19 +449,25 @@ Los documentos que acrediten la autorización global o específica del presupues
 
 ###### ARTÍCULO 27.
 
-La Contraloría administrará el padrón y fijará los criterios y procedimientos para clasificar a los contratistas inscritos en él, de acuerdo con la capacidad técnica y económica de éstos.
+La Secretaría administrará el padrón y fijará los criterios y procedimientos para clasificar a los contratistas inscritos en él, de acuerdo con la capacidad técnica y económica de éstos.
 
 No será requisito estar inscrito en el padrón para participar en las licitaciones públicas convocadas por la Comisión o los Ayuntamientos.
 
-Los Ayuntamientos podrán instaurar su propio padrón, siempre y cuando se sujeten lo dispuesto en este capítulo, o regirse por el de la Contraloría, para el caso de obras públicas o servicios relacionados con las mismas que se realicen con recursos exclusivamente municipales.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Los Ayuntamientos podrán instaurar su propio padrón, siempre y cuando se sujeten a lo dispuesto en este Capítulo, o regirse por el de la Secretaría, para el caso de obras públicas o servicios relacionados con las mismas que se realicen con recursos exclusivamente municipales.
 
 En la convocatoria y contratación de las obras públicas que se adjudiquen por el procedimiento de invitación a cuando menos tres contratistas, así como en la contratación de los servicios relacionados con las mismas, la Comisión y los Ayuntamientos deberán considerar la clasificación a que se refiere el párrafo primero de este artículo.
 
-Cuando los contratistas queden registrados en el padrón, dentro de los cinco días hábiles posteriores, la Contraloría lo hará del conocimiento del Comité, de los Subcomités y de los Ayuntamientos, y dispondrá su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Cuando los contratistas queden registrados en el padrón, dentro de los cinco días hábiles posteriores, la Secretaría lo hará del conocimiento del Comité y de los Ayuntamientos, y dispondrá su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 28.
 
-Los contratistas interesados en inscribirse en el padrón deberán solicitarlo por escrito ante la Contraloría, acompañando, según su naturaleza jurídica y características, lo siguiente:
+Los contratistas interesados en inscribirse en el padrón deberán solicitarlo por escrito ante la Secretaría, acompañando, según su naturaleza jurídica y características, lo siguiente:
 
 I. Manifestación de información general del interesado;
 
@@ -479,25 +497,35 @@ XIII. Cédula Profesional del responsable técnico; y
 
 XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas.
 
-La Contraloría podrá verificar en cualquier tiempo, la información a que se refiere este artículo; asimismo, podrá emitir los lineamientos meramente administrativos que deberán cumplir los interesados para inscribirse en el padrón, los cuales deberán publicarse previamente en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+La Secretaría podrá verificar en cualquier tiempo, la información a que se refiere este artículo; asimismo, podrá emitir los lineamientos meramente administrativos que deberán cumplir los interesados para inscribirse en el padrón, los cuales deberán publicarse previamente en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 29.
 
 El registro en el padrón tendrá vigencia de un año, contado a partir de la fecha en que sea otorgado el mismo.
 
-Los contratistas que tengan interés en continuar inscritos en el padrón, presentarán ante la Contraloría, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de refrendo, acompañando la información y documentos que procedan en los términos del artículo 28 de esta ley.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Los contratistas que tengan interés en continuar inscritos en el padrón, presentarán ante la Secretaría, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de refrendo, acompañarán la información y documentos que procedan en los términos del artículo 28 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 30.
 
-La Contraloría resolverá las solicitudes de inscripción o refrendo, dentro de los quince días naturales siguientes a la fecha de recepción de la solicitud correspondiente.
+La Secretaría resolverá las solicitudes de inscripción o refrendo, dentro de los quince días naturales siguientes a la fecha de recepción de la solicitud correspondiente.
 
-Si la solicitud fuere confusa o la documentación se hallare incompleta, la Contraloría solicitará su aclaración o complementación, dentro de los cinco días hábiles siguientes a su recepción. El solicitante realizará la aclaración o presentará la información solicitada en el plazo que le señale la Contraloría, pero si ello no ocurre se le tendrá por desistido sin responsabilidad para dicha dependencia. En todo caso, el plazo a que se refiere el primer párrafo de este artículo se computará a partir de que el interesado haya subsanado la aclaración o la falta de documentación.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Si la solicitud fuese confusa o la documentación estuviera incompleta, la Secretaría solicitará su aclaración o complementación, dentro de los cinco días hábiles siguientes a su recepción. El solicitante realizará la aclaración o presentará la información solicitada en el plazo que le señale la Secretaría, pero si ello no ocurre se le tendrá por desistido sin responsabilidad para dicha dependencia. En todo caso, el plazo a que se refiere el primer párrafo de este artículo se computará a partir de que el interesado haya subsanado la aclaración o la falta de documentación.
 
 Las determinaciones negativas a la solicitud de registro estarán fundadas y motivadas; además, señalarán el plazo con el que cuenta el solicitante para pedir la devolución de los documentos que hubiere presentado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 31.
 
-La Contraloría está facultada para suspender el registro de los contratistas cuando:
+La Secretaría está facultada para suspender el registro de los contratistas, cuando:
 
 I. La autoridad competente los declare en estado de quiebra o, en su caso, sujeto a concurso de acreedores;
 
@@ -507,9 +535,11 @@ III. Hayan celebrado contratos en contravención a lo dispuesto por esta ley, po
 
 IV. Se les declare legalmente incapacitados para contratar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 32.
 
-La Contraloría está facultada para cancelar el registro de los contratistas cuando:
+La Secretaría está facultada para cancelar el registro de los contratistas, cuando:
 
 I. Hubieren proporcionado, para la inscripción o refrendo, información que resultase falsa;
 
@@ -519,11 +549,13 @@ III. Se hubiese resuelto, conforme a los procedimientos establecidos en esta ley
 
 IV. Hubieren sido sujetos a concurso mercantil.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 33.
 
-Las resoluciones emitidas por la Contraloría que nieguen las solicitudes de inscripción o refrendo, o determinen la suspensión o la cancelación del registro en el padrón, se notificarán personalmente en el domicilio fiscal del contratista o, en su caso, en el que hubiere señalado conforme a la fracción XIV del artículo 28 de esta ley.
+Las resoluciones emitidas por la Secretaría que nieguen las solicitudes de inscripción o refrendo, o determinen la suspensión o la cancelación del registro en el padrón, se notificarán personalmente en el domicilio fiscal del contratista o, en su caso, en el que hubiere señalado conforme a la fracción XIV del artículo 28 de esta ley.
 
-Contra las resoluciones señaladas en el párrafo anterior, los interesados podrán interponer ante la Contraloría, el recurso de revocación que esta ley señala.
+Contra las resoluciones señaladas en el párrafo anterior, los interesados podrán interponer ante la Secretaría, el recurso de revocación que esta ley señala.
 
 ## TÍTULO SEXTO. DE LOS CONTRATOS
 
@@ -531,7 +563,7 @@ Contra las resoluciones señaladas en el párrafo anterior, los interesados podr
 
 ###### ARTÍCULO 34.
 
-Las obras públicas que lleven a cabo el Gobierno del Estado o los Ayuntamientos, deberán efectuarse por contrato o por administración directa.
+Las obras públicas que lleven a cabo el Gobierno del Estado o los Ayuntamientos, deberán efectuarse por contrato o por administración directa; incluyéndose todas aquellas particularidades necesarias para el estricto cumplimiento de los proyectos, incluyendo los relacionados con la responsabilidad civil.
 
 Para la realización de obras públicas, la dependencia, entidad o Ayuntamiento contarán preferentemente con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados; en todo caso, si no se hayan totalmente concluidos, deberán tener un avance tal en su desarrollo que permita a los licitantes preparar una propuesta solvente y, a su vez, ejecutar ininterrumpidamente los trabajos hasta su terminación.
 
@@ -549,21 +581,35 @@ III. Adjudicación directa.
 
 En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, forma y tiempo de pago, penas convencionales, anticipos y garantías. Se deberá proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos a fin de evitar favorecer a algún participante.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la emisión del fallo y la firma del contrato o, en su caso, con la cancelación del procedimiento respectivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 36.
 
-Por regla general, los contratos de obras públicas se adjudicarán a través de licitación pública, mediante la expedición de convocatoria pública, para que libremente se presenten proposiciones en sobre cerrado que será abierto públicamente, a fin de asegurar al Gobierno del Estado y los Ayuntamientos las mejores condiciones disponibles en precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme a lo establecido en esta ley.
+Los contratos de obras públicas que se adjudiquen mediante los procedimientos de licitación pública o invitación a cuando menos tres contratistas, se realizarán mediante la expedición de convocatoria pública o invitaciones, según corresponda, para que libremente se presenten proposiciones en sobres cerrados que serán abiertos públicamente, a fin de asegurar al Gobierno del Estado y los Ayuntamientos las mejores condiciones disponibles en precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme a lo establecido en esta ley.
 
-El sobre a que hace referencia este artículo podrá entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la convocatoria, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Contraloría.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
-En el caso de proposiciones presentadas por medios remotos de comunicación electrónica, el sobre será generado mediante el uso de tecnologías que guarden la confidencialidad de la información, de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca la Contraloría.
+El sobre a que hace referencia este artículo podrán entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la convocatoria, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Secretaría.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+En el caso de proposiciones presentadas por medios remotos de comunicación electrónica, el sobre será generado mediante el uso de tecnologías que guarden la confidencialidad de la información, de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca la Secretaría.
 
 Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en caso de que aquéllas sean enviadas a través de medios remotos de comunicación electrónica, en sustitución de la firma autógrafa se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos suscritos y, en consecuencia, tendrán el mismo valor probatorio.
 
-La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+La Secretaría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
 
 En los procedimientos de contratación de obras públicas la Comisión optará, en igualdad de condiciones, por el empleo de los recursos humanos del municipio o región del Estado en donde se ejecuten y por la utilización de los bienes o servicios disponibles en la localidad.
 
 ### CAPÍTULO SEGUNDO. DE LA EJECUCIÓN
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
@@ -573,7 +619,9 @@ I. La denominación o razón social de la dependencia, entidad o Ayuntamiento co
 
 II. La forma en que los licitantes deberán acreditar su existencia legal, experiencia profesional, capacidad técnica y capacidad financiera requeridas para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la Contraloría;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la Secretaría;
 
 IV. Los lugares, fechas y horas de presentación y apertura de proposiciones, así como de visita al sitio de realización de los trabajos;
 
@@ -587,13 +635,17 @@ VIII. La indicación de que no podrán participar los contratistas que se encuen
 
 IX. Los demás requisitos que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 38.
 
-Las convocatorias se publicarán en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el estado o municipio correspondiente; a su vez, se difundirán a través de los medios de difusión electrónica que establezca la Contraloría.
+Las convocatorias se publicarán en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en el Estado o Municipio correspondiente; a su vez, se difundirán a través de los medios de difusión electrónica que establezca la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 39.
 
-Las bases para las licitaciones públicas que emitan la Comisión o los Ayuntamientos, se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en los medios de difusión electrónica que establezca la Contraloría, a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este periodo.
+Las bases para las licitaciones públicas que emitan la Comisión o los Ayuntamientos, se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en los medios de difusión electrónica que establezca la Secretaría, a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este periodo.
 
 Las bases contendrán, como mínimo, lo siguiente:
 
@@ -649,9 +701,11 @@ El plazo para la presentación y apertura de proposiciones de las licitaciones s
 
 Cuando no pueda observarse el plazo indicado en el párrafo anterior, por que existan razones justificadas del área solicitante de los trabajos, siempre que no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de diez días naturales, contados a partir de la fecha de publicación de la convocatoria.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 41.
 
-La Comisión, Subcomisión o los Ayuntamientos, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, cuando esto no tenga por objeto limitar el número de licitantes, siempre que:
+La Comisión o los Ayuntamientos, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, cuando esto no tenga por objeto limitar el número de licitantes, siempre que:
 
 I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación y divulgación; o
 
@@ -661,6 +715,8 @@ Las modificaciones de que trata este artículo en ningún caso podrán consistir
 
 Cualquier adecuación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de la licitación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 42.
 
 La entrega de proposiciones se hará en dos sobres cerrados que contendrán, por separado, la propuesta técnica y la propuesta económica. La documentación distinta a las propuestas podrá entregarse, a elección del licitante, dentro o fuera del sobre que contenga la proposición técnica.
@@ -669,31 +725,29 @@ En las licitaciones, dos o más contratistas podrán presentar conjuntamente sus
 
 Previo a la presentación y apertura de proposiciones, las convocantes podrán efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta de las propuestas técnica y económica. El registro previo de participantes no constituye obligación para los licitantes, por lo que no se podrá impedir el acceso a quienes hayan cubierto el costo de las bases y decidan entregar su documentación y proposiciones durante el propio acto de presentación y apertura de proposiciones.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 43.
 
-El acto de presentación y apertura de proposiciones se llevará a cabo en dos etapas conforme a lo siguiente:
+El acto de presentación y apertura de proposiciones se llevará a cabo en el día, lugar y hora previstos en la convocatoria a la licitación, conforme a lo siguiente:
 
-I. En la primera etapa, una vez recibidas las proposiciones en sobres cerrados, se procederá exclusivamente a la apertura de la propuesta técnica y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que podrán ser devueltas por la dependencia, entidad o Ayuntamiento, transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+I. Una vez recibidas las proposiciones en sobre cerrado, se procederá a su apertura, haciéndose constar la documentación presentada, sin que ello implique la evaluación de su contenido;
 
-Por lo menos un licitante, si asistiere alguno, y dos servidores públicos de la Comisión o del Ayuntamiento rubricarán los documentos integrantes de las propuestas técnicas presentadas que se hubieren señalado en las bases de licitación, haciéndose constar fehacientemente la relación de documentos entregados; a su vez, rubricarán los correspondientes sobres cerrados que contengan las propuestas económicas de los licitantes, incluidos los de aquellos cuyas propuestas técnicas hubieren sido desechadas, quedando en custodia de la propia convocante, quien de estimarlo necesario podrá señalar nuevo lugar, fecha y hora en que se dará apertura a las propuestas económicas.
+II. De entre los licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con el servidor público que la dependencia o entidad designe, rubricarán las partes de las proposiciones que previamente haya determinado la convocante en la convocatoria a la licitación, las que para estos efectos constarán documentalmente; y
 
-Se levantará acta de la primera etapa, en la que se harán constar las propuestas técnicas aceptadas para su análisis, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación.
-
-La convocante procederá a analizar las propuestas técnicas aceptadas, y
-
-II. En la segunda etapa, la convocante dará a conocer el resultado del análisis de las propuestas técnicas. Enseguida, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, y se dará lectura al importe total de las propuestas que cubran los requisitos exigidos. Por lo menos un licitante, si asistiere alguno, y dos servidores públicos presentes de la Comisión o del Ayuntamiento rubricarán el catálogo de conceptos, en el que se consignen los precios y el importe total de los trabajos objeto de la licitación.
-
-Se señalarán lugar, fecha y hora en que se dará a conocer el fallo de la licitación. Esta fecha quedará comprendida dentro de los cuarenta días naturales siguientes a la fecha de inicio de la primera etapa, y podrá diferirse siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo.
-
-Se levantará acta de la segunda etapa en la que se hará constar el resultado del análisis de las propuestas técnicas, las propuestas económicas aceptadas para su análisis y sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron. El acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación.
+III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los treinta días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de treinta días naturales contados a partir del plazo establecido originalmente para el fallo.
 
 ###### ARTÍCULO 44.
 
 Para hacer la evaluación de las proposiciones, la convocante deberá verificar que las mismas cumplan con los requisitos solicitados en la convocatoria y en las bases de licitación. Para tal efecto, deberá establecer los lineamientos, procedimientos y criterios de manera clara y detallada para determinar la solvencia de las propuestas, dependiendo de las características, complejidad y magnitud de los trabajos por realizar.
 
-Tratándose de obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones legales y financieras exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente, conforme al programa de ejecución, las cantidades de trabajo establecidas; que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. En ningún caso podrán utilizarse mecanismos de puntos y porcentajes en su evaluación.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
-No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilitar la conducción de los actos de la licitación, así como cualquier otro requisito, cuyo incumplimiento por sí mismo, no afecte la solvencia de las propuestas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
+Tratándose de obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones legales y financieras exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente, conforme al programa de ejecución, las cantidades de trabajo establecidas; que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. De manera general la evaluación de propuestas se hará por el método binario. El mecanismo de puntos y porcentajes para evaluación de propuestas deberá contar con la aprobación del Comité Técnico en los casos que así se requiera.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación.
 
 Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
@@ -705,7 +759,7 @@ Si resultare que dos o más proposiciones son solventes porque satisfacen la tot
 
 El fallo se dará a conocer en junta pública a la que libremente podrán asistir los licitantes que hubieren participado en la presentación y apertura de proposiciones, levantándose el acta respectiva, que firmarán los asistentes, a quienes se entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación. En sustitución de esa junta, la Comisión o el Ayuntamiento, podrán optar por notificar por escrito el fallo de la licitación a cada uno de los licitantes, dentro de los cinco días naturales siguientes a su emisión.
 
-En el mismo acto de fallo o adjunta a la comunicación referida, las dependencias, entidades o Ayuntamientos proporcionarán por escrito a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 Contra la resolución que contenga el fallo, sólo procederá el recurso de revocación previsto en el artículo 96 de esta ley.
 
@@ -767,7 +821,9 @@ I. La convocatoria a contratistas registrados en el padrón de contratistas, sal
 
 II. Las bases de la invitación indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que para efectos de la licitación prevé el artículo 39 de esta ley;
 
-III. La presentación y apertura de proposiciones se llevará a cabo en dos etapas, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los licitantes, pero invariablemente se invitará a un representante del órgano interno de control de la dependencia, entidad o Ayuntamiento;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+III. La apertura de los sobres podrá hacerse sin la presencia de los licitantes, pero invariablemente se invitará a un representante del órgano interno de control de la dependencia, entidad o Ayuntamiento;
 
 IV. La adjudicación de los trabajos sólo podrá hacerse si se cuenta con un mínimo de tres propuestas susceptibles de analizarse técnicamente;
 
@@ -877,7 +933,9 @@ II. Las dependencias, entidades o Ayuntamientos podrán otorgar hasta un treinta
 
 III. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su propuesta;
 
-IV. El porcentaje del anticipo podrá ser mayor, cuando las condiciones de los trabajos lo requieran; en este caso, será necesaria la autorización escrita del Comité, Subcomité o Ayuntamiento, o de la persona en quien éste haya delegado tal facultad;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+IV. El porcentaje del anticipo podrá ser mayor, cuando las condiciones de los trabajos lo requieran; en este caso, será necesaria la autorización escrita del Comité o Ayuntamiento, o de la persona en quien éste haya delegado tal facultad;
 
 V. El importe del anticipo para los trabajos que rebasen más de un ejercicio presupuestal y se inicien en el último trimestre del primer ejercicio podrá ser hasta por el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, siempre que de otra forma el anticipo resultara insuficiente y bajo la responsabilidad de las dependencias, entidades o Ayuntamientos, vigilándose que se cuente con la suficiencia presupuestal para el pago de la obra por ejecutar en dicho ejercicio. En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes a su inicio, previa entrega de la garantía correspondiente. El atraso en la entrega de los anticipos será motivo para ajustar el costo financiero pactado en el contrato;
 
@@ -913,7 +971,7 @@ VIII. Aquellas otras que por cualquier causa se encuentren impedidas para ello p
 
 ###### ARTÍCULO 60.
 
-La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la dependencia, entidad o Ayuntamiento contratante, oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la contratante prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. Dichas circunstancias deberán hacerse constar en la bitácora respectiva.
+La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, por lo que previo al inicio de los mismos, la dependencia, entidad o Ayuntamiento contratante, notificará por escrito a la contratista, la fecha pactada para el inicio de la obra, así como de la disposición oportuna del o los inmuebles en que se llevará a cabo la obra; el incumplimiento de la contratante, prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. Invariablemente, la residencia de supervisión deberá registrar dichos eventos en la bitácora respectiva.
 
 ###### ARTÍCULO 61.
 
@@ -921,9 +979,11 @@ Las dependencias, entidades y Ayuntamientos establecerán la residencia de obra 
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la contratante.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 62.
 
-Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para su pago, que hubiere fijado la dependencia, entidad o Ayuntamiento en el contrato, acompañadas de la documentación que acredite la procedencia de la erogación, la cual será determinada por la propia dependencia, entidad o Ayuntamiento. Para realizar la revisión y autorización de las estimaciones, la residencia de obra contará con un plazo no mayor de diez días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, se resolverán e incorporarán en la siguiente estimación.
+Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para su pago, que hubiere fijado la dependencia, entidad o Ayuntamiento en el contrato, acompañadas de la documentación que acredite la procedencia de la erogación, la cual será determinada por la propia dependencia, entidad o Ayuntamiento. Para realizar la revisión y autorización de las estimaciones, la residencia de obra contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, se resolverán e incorporarán en la siguiente estimación.
 
 Bajo su responsabilidad, las estimaciones por trabajos ejecutados deberán pagarse por parte de la dependencia, entidad o municipio, en un plazo no mayor a veinte días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
 
@@ -991,9 +1051,11 @@ Cuando durante la ejecución de los trabajos se requiera la realización de cant
 
 No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 4o. de la Ley del Patrimonio Histórico y Cultural del Estado, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 68.
 
-Las dependencias, entidades o Ayuntamientos podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares de las dependencias, el órgano de gobierno de las entidades o el Presidente Municipal designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser mayor, conjunta o separadamente, al veinticinco por ciento del plazo originalmente contratado.
+Las dependencias, entidades o Ayuntamientos podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares de las dependencias, el órgano de gobierno de las entidades o el Presidente Municipal designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser indefinida.
 
 Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general o existan causas justificadas que le impidan la continuación de los trabajos, y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado o municipio, o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
 
@@ -1053,9 +1115,11 @@ De existir desacuerdo entre las partes respecto al finiquito, o bien el contrati
 
 Determinado el saldo total, la dependencia, entidad o Ayuntamiento pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los saldos resultantes debiendo, en forma simultánea, levantar el acta administrativa que tenga por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 74.
 
-Al concluir las obras públicas, las dependencias, entidades o Ayuntamientos deberán inscribirlas en sus registros patrimoniales, encargándose las áreas competentes de hacer la inscripción y registro de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas, tanto en las oficinas de Catastro del municipio correspondiente como en el Registro Público de la Propiedad y del Comercio del Gobierno del Estado. En todo caso, las obras públicas estatales se inscribirán en el área a cargo del registro del patrimonio del Estado.
+Al concluir las obras públicas, las dependencias, entidades o Ayuntamientos deberán inscribirlas en sus registros patrimoniales, encargándose las áreas competentes de hacer la inscripción y registro de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas, tanto en las oficinas de Catastro del municipio correspondiente como en el Instituto Registral y Catastral de Tamaulipas. En todo caso, las obras públicas estatales se inscribirán en el área a cargo del registro del patrimonio del Estado.
 
 ###### ARTÍCULO 75.
 
@@ -1071,9 +1135,11 @@ En los casos señalados en el artículo 48, fracción IX, de esta ley y bajo su 
 
 El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todas las leyes, reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección y conservación del medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la dependencia, entidad o Ayuntamiento. Las responsabilidades y los daños y perjuicios originados por su inobservancia serán a cargo del contratista.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 77.
 
-Una vez concluida la obra o parte utilizable de la misma, la dependencia, entidad o Ayuntamiento, vigilará que la unidad que debe operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento, y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
+Una vez concluida la obra o parte utilizable de la misma, la dependencia, entidad o Ayuntamiento, vigilará que la unidad que debe operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento, y los certificados de garantía de calidad y funcionamiento de los bienes instalados. La entrega a la unidad operadora, deberá constar por escrito mediante el acta correspondiente.
 
 ###### ARTÍCULO 78.
 
@@ -1287,7 +1353,7 @@ Los contratos de obras públicas y de servicios relacionados con las mismas que 
 
 Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado el día 3 de noviembre de 1984, y sus reformas del 16 de febrero de 1994 y del 11 de octubre de 2001, se continuarán considerando para los efectos de los artículos 59, fracción II, y, 89 fracción II, de esta ley.
 
-SSALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- CD. VICTORIA, TAM., A 25 DE JUNIO DE 2003.- DIPUTADO PRESIDENTE.- ARMANDO VERA GARCÍA.- Rúbrica.- DIPUTADO SECRETARIO.- FELIPE GARZA NARVÁEZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- CD. VICTORIA, TAM., A 25 DE JUNIO DE 2003.- DIPUTADO PRESIDENTE.- ARMANDO VERA GARCÍA.- Rúbrica.- DIPUTADO SECRETARIO.- FELIPE GARZA NARVÁEZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1318,3 +1384,13 @@ P.O. 27 DE DICIEMBRE DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos iniciados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante el cual fueron iniciados.
