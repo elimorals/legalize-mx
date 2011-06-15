@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2011-03-12"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -106,6 +106,10 @@ XIV. Vía Pública: Se refiere a las banquetas, avenidas, ejes viales, bulevares
 XV. Zona Escolar: Es el área de 100 metros a la redonda a partir de un centro escolar;
 
 XVI. Salarios Mínimos: Son los salarios mínimos generales diarios vigentes en la zona geográfica del Municipio de Juárez, Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XVII. Carril confinado: Carril destinado exclusivamente a la circulación del transporte semimasivo.
 
 ### CAPÍTULO SEGUNDO. PROHIBICIONES EN LA VÍA PÚBLICA
 
@@ -1061,9 +1065,15 @@ XXXII. No hacer uso indebido del claxon;
 
 XXXIII. Cumplir con las sanciones impuestas por la autoridad, por infracciones cometidas a la Ley y al presente Reglamento;
 
-XXXIV. Presentarse ante las autoridades de tránsito cuando así sea requerido; y
+XXXIV. Presentarse ante las autoridades de tránsito cuando así sea requerido; y (sic)
 
-XXXV. Las demás que establezca la Ley y el presente Reglamento.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XXXV. No conducir, maniobrar, obstruir o invadir por cualquier causa el carril confinado, paraderos o terminales de uso exclusivo del transporte semimasivo, y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XXXVI. Las demás que establezca la Ley y el presente Reglamento.
 
 ###### Artículo 72.
 
@@ -1514,6 +1524,10 @@ XV. A menos de cien metros, de una curva o cima sin visibilidad;
 XVI. En sentido contrario;
 
 XVII. En batería no permitida;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XVIII. En el carril confinado, paraderos o terminales de uso exclusivo del transporte semimasivo.
 
 En caso de incumplimiento a las prevenciones de este artículo, la Dirección General de Tránsito, podrá trasladar al corralón correspondiente los vehículos infractores, sin perjuicio de la multa impuesta.
 
@@ -2079,9 +2093,9 @@ Artículo 180 bis.- Se sancionará con multa por el equivalente de 20 a 30 salar
 
 Se sancionará con multa por el equivalente de 35 a 37 salarios mínimos, al que contravenga lo estipulado en el artículo 71 fracción III.
 
-ADICIONADO, P.O. 12 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
-Artículo 181 bis.- Se sancionará con multa por el equivalente de 40 a 50 salarios mínimos, al que incurra en el incidente vial comprendido en el artículo 77 quáter.
+Artículo 181 bis.- Se sancionará con multa por el equivalente de 40 a 50 salarios mínimos, al que contravenga lo estipulado en los artículos 71 fracción XXXV, y 113 fracción XVIII.
 
 ###### Artículo 182.
 
@@ -2174,3 +2188,7 @@ P.O. 12 DE MARZO DE 2011.
 ACUERDO NUMERO 080, POR EL QUE SE ADICIONAN LOS ARTICULOS 77 BIS, 77 TER, 77 QUATER, 180 BIS, 181 BIS DEL REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA.
 
 ÚNICO.- Las condiciones contenidas en el presente acuerdo, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 15 DE JUNIO DE 2011.
+
+ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
