@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2011-05-31"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -913,7 +913,7 @@ La reparación del daño a que se refiere el Artículo 47 fracción II, será fi
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-Tratándose de los delitos contra la vida y la salud de las personas, la reparación del daño se determinará a las siguientes bases:
+Tratándose de los delitos contra la vida y la salud de las personas, la reparación del daño se determinará conforme a las siguientes bases:
 
 a).- Cuando el delito produzca en la víctima una incapacidad temporal, la indemnización comprenderá las prestaciones a que se refieren los Artículos 487 y 491 de la Ley Federal del Trabajo.
 
@@ -1587,7 +1587,7 @@ A los extranjeros que cometan los delitos previstos en este capítulo se les apl
 
 No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros si no se hubiere cometido algún otro delito; en caso contrario se aplicarán las reglas del concurso.
 
-### CAPITULO IV. ASOCIACION DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA
+### CAPITULO IV. ASOCIACIÓN DELICTUOSA Y PANDILLERISMO
 
 ###### ARTICULO 152.
 
@@ -1707,7 +1707,7 @@ Se aplicará de seis meses a tres años de prisión y multa de quince a cincuent
 
 Tratándose de las señaladas en la fracción II del artículo anterior, solo se sancionara cuando sean portadas en lugares o reuniones públicas y no se justifique su portación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2011)</small>
 
 ### CAPITULO IV. DELITOS COMETIDOS CONTRA SERVIDORES PUBLICOS
 
@@ -1725,31 +1725,13 @@ Cuando se ejecuten uno o más delitos por pandilla se aplicarán a los que inter
 
 Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTÍCULO 171 Bis.
 
-Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes previstos por este Código, serán considerados por ese solo hecho, como miembros de la delincuencia organizada:
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
-
-Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas..
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 15 DE JUNIO DE 2011)
 
 ###### ARTÍCULO 171 Ter.
 
-Sin perjuicio de las penas que correspondan por el delito o delitos que se cometan, al miembro de la delincuencia organizada se le aplicarán las penas siguientes:
-
-I.- A quien tenga funciones de administración, dirección o supervisión, de cinco a quince años de prisión y de quinientos a cuatro mil días de salario, o
-
-II.- A quien no tenga las funciones anteriores, de cuatro a ocho años de prisión y multa de doscientos cincuenta a dos mil días de salario.
-
-Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
-
-a) Se trate de cualquier servidor público que participe en la realización de los delitos previstos para la delincuencia organizada. Además se impondrán a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión públicos, o;
-
-b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad para comprender el significado del hecho, para cometer cualquiera de los delitos derivados de delincuencia organizada.
+(DEROGADO, P.O. 15 DE JUNIO DE 2011)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2011)</small>
 
@@ -5384,6 +5366,12 @@ P.O. 31 DE MAYO DE 2011.
 DECRETO NUMERO LXI-45, POR EL QUE SE ADICIONAN LOS PARRAFOS TERCERO Y CUARTO AL ARTICULO 362 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
