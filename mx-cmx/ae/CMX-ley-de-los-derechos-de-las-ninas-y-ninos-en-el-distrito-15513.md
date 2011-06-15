@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2010-07-30"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -102,7 +102,9 @@ XI. Consejo: Al Consejo Promotor de los Derechos de las Niñas y niños del Dist
 
 XII. Delegaciones: A los órganos politico-administrativos de las demarcaciones territoriales del Distrito Federal.
 
-XIII. Hogar Provisional.- El núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña o niño en situación de desamparo con el objeto de brindarle un ambiente propicio para su atención integral;
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2011)</small>
+
+XIII. Hogar Provisional: El núcleo familiar que proporciona alojamiento temporal, cuidados y atenciones a una niña o niño en situación de desamparo, con el objeto de brindarle un ambiente propicio para su atención integral, en tanto se determina su situación jurídica;
 
 XIV. Ley: A la presente Ley de los Derechos de las niñas y niños en el Distrito Federal.
 
@@ -356,11 +358,17 @@ IX. Presidir el Consejo Promotor;
 
 X. Crear los mecanismos o instancias correspondientes para el cumplimiento de esta Ley;
 
-> <small>(ADICIONADA, G.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2011)</small>
 
-XI. Presentar a la Asamblea Legislativa del Distrito Federal, a más tardar el 30 de abril, un informe anual de las acciones relativas a la aplicación de la presente Ley y sobre los avances de la vigencia de los derechos de niñas y niños, a través de una evaluación a partir de los indicadores que para tal efecto diseñe el Consejo; y
+XI. Emitir el Programa de Protección a las niñas y niños del Distrito Federal.
 
-XII. Las demás que le confiere la presente Ley y otros ordenamientos jurídicos.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2011)</small>
+
+XII. Emitir los lineamientos por los que se regirán los hogares provisionales, así como el registro de los mismos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+
+XIII. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -582,11 +590,27 @@ III. Fomentar y fortalecer la colaboración, concertación, coordinación, y par
 
 IV. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas y morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas y niños en el Distrito Federal, debiendo estar el Consejo informado en todo momento;
 
-V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización;
+V. Evaluar los logros y avances de los programas de la Administración Pública en la materia y (sic) proponer medidas para su optimización;
 
 VI. Analizar y proponer a las instancias competentes, modelos de atención para las niñas y niños;
 
 VII. Contribuir a la difusión de los principios, derechos y deberes de las niñas y niños en el Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+
+VIII. Promover y proponer procesos administrativos tendentes a la agilización de los trámites, encaminados a la definición de la situación jurídica de los menores albergados en centros asistenciales públicos y privados, así como en hogares provisionales del Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+
+IX. Proponer lineamientos en los programas de adopción que se realicen en el Distrito Federal.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+
+X. Llevar a cabo un registro de las niñas y niños que son susceptibles de ser adoptados; clasificando a quienes mediante sentencia judicial se les haya extinguido la patria potestad a la que estaban sujetos, así como aquellos que se encuentran en situación de desamparo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE JUNIO DE 2011)</small>
+
+XI. Proponer reglas a las que deberá sujetarse el procedimiento preadoptivo.
 
 ###### Artículo 28.
 
@@ -985,3 +1009,9 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal contará con 180 días a partir de la entrada en vigor del presente Decreto, para llevar a cabo los procesos administrativos correspondientes para la creación de la Defensoría de los Derechos de la Infancia del Distrito Federal a que se refiere el Artículo 30 Bis de la presente Ley.
 
 TECERO.- El Consejo Promotor de los Derechos de las Niñas y Niños del Distrito Federal contará con 120 días a partir de la entrada en vigor del presente decreto para la elaboración de los indicadores a los que se refiere el artículo 17, fracción XI.
+
+G.O. 15 DE JUNIO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
