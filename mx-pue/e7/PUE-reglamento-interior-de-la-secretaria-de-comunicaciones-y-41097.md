@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-comunicaciones-y-41097"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-23"
-last_updated: "2011-05-13"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EN LA QUINTA SECCION DEL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TRANSPORTES DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 13 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
+
+> <small>N. DE E. CONTIENE LA NOTA ACLARATORIA PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE JUNIO DE 2011.</small>
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 23 de agosto de 2004.
 
@@ -1041,6 +1041,8 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 
 SEGUNDO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
 
-TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Transportes, publicado en el Periódico Oficial el veintitrés de agosto de dos mil cuatro, únicamente por lo que respecta al área de comunicaciones.
+> <small>(F. DE E., 15 DE JUNIO DE 2011)</small>
+
+TERCERO.- Se deroga el Reglamento Interior de la Secretaría de Comunicaciones y Transportes, publicado en el Periódico Oficial el veintitrés de agosto de dos mil cuatro, únicamente por lo que respecta al área de transportes.
 
 CUARTO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
