@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2010-12-29"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -139,7 +141,9 @@ X. El Director de Reintegración Social y Familiar del Adolescente;
 
 XI. El Director de Protección Civil del Estado;
 
-XII. El Director de la Academia de Policía del Estado; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XII.- El Coordinador General del Instituto de Reclutamiento y Formación Policial de Tamaulipas; y
 
 XIII. Las demás que con ese carácter determine la ley.
 
@@ -755,9 +759,13 @@ III. Haber cumplido con el servicio militar nacional y contar con credencial de 
 
 IV. Acreditar haber concluido los estudios correspondientes a la enseñanza media superior o equivalente;
 
-V. Aprobar el curso de ingreso y los cursos de formación básica o inicial impartidos por la Academia de Policía del Estado o por las academias regionales, según corresponda;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
-VI. Cumplir con los requisitos de edad, perfil físico y evaluaciones médicas, de personalidad y de cultura general, previstos en el Reglamento de la Academia de Policía del Estado;
+V.- Aprobar el curso de ingreso y los cursos de formación básica o inicial impartidos por el Instituto de Reclutamiento y Formación Policial de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+VI.- Cumplir con los requisitos de edad, perfil físico y evaluaciones médicas, de personalidad y de cultura general, previstos por el Reglamento del Instituto de Reclutamiento y Formación Policial de Tamaulipas;
 
 VII. Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; no padecer alcoholismo, y someterse a los exámenes periódicos que al efecto se establezcan para comprobar el no uso de este tipo de sustancias;
 
@@ -777,15 +785,29 @@ X. Los demás que señalen las disposiciones legales y reglamentarias aplicables
 
 Las relaciones laborales entre el Estado o los Municipios, con los integrantes de las instituciones de seguridad pública, se normarán por lo estipulado en las disposiciones legales aplicables, según corresponda.
 
-## TITULO CUARTO. DE LA CAPACITACION Y PROFESIONALlZACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2011)</small>
 
-### CAPITULO I. DE LA ACADEMIA DE POLICIA DEL ESTADO
+## TITULO CUARTO. DEL RECLUTAMIENTO, CAPACITACIÓN Y PROFESIONALIZACIÓN
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO I. DEL INSTITUTO DE RECLUTAMIENTO Y FORMACIÓN POLICIAL DE TAMAULIPAS
 
 ###### ARTICULO 34.
 
-1. La Academia de Policía del Estado es la institución dependiente de la Secretaría de Seguridad Pública, encargada de diseñar y ejecutar los planes y programas para la formación de los aspirantes e integrantes de las instituciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, eficiencia, profesionalismo y honradez que rigen la presente ley.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+1.- El Instituto de Reclutamiento y Formación Policial de Tamaulipas, es el órgano desconcentrado de la Secretaría de Seguridad Pública encargado de diseñar y ejecutar los planes y programas para el reclutamiento y la formación de los aspirantes e integrantes de las instituciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
 
 2. Su organización y funcionamiento se regirá por esta ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+ARTICULO 35
+
+A fin de lograr los objetivos de los programas de reclutamiento, formación, actualización, especialización y profesionalización que imparta el Instituto de Reclutamiento y Formación Policial de Tamaulipas, éste promoverá la suscripción de convenios con los Ayuntamientos del Estado, con el propósito de que el personal de las instituciones de seguridad pública municipales se beneficien con dichos programas.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 35.
 
@@ -793,39 +815,59 @@ A fin de lograr los objetivos de los programas de formación básica, actualizac
 
 ###### ARTICULO 36.
 
-El Consejo Técnico es el órgano rector de la Academia, el cual será presidido por el Secretario de Seguridad Pública o la persona que éste designe; el Director de la Academia, fungirá como secretario; y además, lo integrarán tres vocales representantes del personal docente y uno del personal administrativo. Los acuerdos que emita serán aprobados por mayoría, teniendo voto de calidad su presidente, en caso de empate.
+El Consejo Directivo es el órgano rector del Instituto, y se integrará por:
+
+l.- El Secretario General de Gobierno, quien lo presidirá;
+
+II.- El Secretario de Seguridad Pública;
+
+III.- El Procurador General de Justicia del Estado; y
+
+IV.- El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Son atribuciones del Consejo Técnico de la Academia, las siguientes:
+Son atribuciones del Consejo Directivo del Instituto, las siguientes:
 
-I. Aprobar los programas de enseñanza;
+l.- Aprobar los programas de reclutamiento, formación, actualización, especialización y profesionalización policial;
 
-II. Examinar y aprobar los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la institución;
+II.- Examinar y aprobar los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la institución;
 
-III. Elaborar propuestas para el Reglamento Interno de la Academia;
+III.- Proponer al Ejecutivo del Estado el Reglamento Interno del Instituto;
 
-IV. Conocer en forma periódica los informes de labores que rinda el Director;
+IV.- Conocer en forma periódica los informes de labores que rinda el Coordinador General;
 
-V. Fijar políticas generales para el funcionamiento, operación de recursos y organización de la Academia; y
+V.- Fijar políticas generales para el funcionamiento, operación de recursos y organización del Instituto; y
 
-VI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTICULO 38.
 
-El Director de la Academia de Policía del Estado tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
-I. Diseñar y proponer al Consejo Técnico los programas de capacitación, actualización y especialización así como la certificación de los elementos activos y de los aspirantes a ingresar a las diferentes instituciones;
+El Coordinador General del Instituto tendrá las atribuciones siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+l.- Diseñar y proponer al Consejo Directivo los programas de reclutamiento, capacitación, actualización y especialización así como la certificación de los elementos activos y de los aspirantes a ingresar a las diferentes instituciones;
 
 II. Impulsar la profesionalización, ejecutando los programas de ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, promoción, permanencia, evaluación y retiro del personal operativo de las instituciones de Seguridad Pública del estado y de los municipios, conforme al servicio policial de carrera;
 
-III. Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones de la Academia por instructores internos o externos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+III.- Autorizar, supervisar y certificar los cursos impartidos dentro o fuera de las instalaciones del Instituto por instructores internos o externos;
 
 IV. Supervisar y aprobar los programas de adiestramiento o especialización, verificando que se cumplan adecuadamente con los programas de estudios que establece el Sistema Nacional de Seguridad a través de la Academia Nacional y el Consejo Académico Consultivo Regional del Noreste;
 
-V. Tramitar las constancias o diplomas de los cursos de formación, capacitación, actualización, especialización, profesionalización y demás que señalen las leyes y reglamentos de la materia; impartidos en o por esta Academia, ante el Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
-VI. Coordinar y presentar ante el Consejo Técnico Consultivo las propuestas de planes y programas para formación de los aspirantes a integrantes de las instituciones policiales en el estado y municipios;
+V.- Tramitar las constancias o diplomas de los cursos de formación, capacitación, actualización, especialización, profesionalización y demás que señalen las leyes y reglamentos de la materia; impartidos en o por el Instituto, ante el Consejo Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+VI.- Coordinar y presentar ante el Consejo Directivo las propuestas de planes y programas para formación de los aspirantes a integrantes de las instituciones policiales en el Estado y Municipios;
 
 VII. Realizar, supervisar, evaluar y dar seguimiento a los procedimientos de selección, ingreso, permanencia y egreso de los aspirantes a integrar los cuerpos de Seguridad Pública del Estado;
 
@@ -853,11 +895,17 @@ XVIII. Proponer al Secretario los proyectos de capacitación anual;
 
 XIX. Proveer de alimentos a los alumnos que se encuentren en capacitación vigilando que su elaboración sea hecha cumpliendo las reglas de salud e higiene;
 
-XX. Coordinar con la Dirección Jurídica de la Secretaría de Seguridad Pública la revisión de los expedientes con documentación oficial, para su validación y evitar documentación apócrifa, así como para la tramitación y seguimiento de demandas en las distintas áreas del Derecho que relacionen a la Academia de Policía del Estado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
-XXI. Vigilar que el personal a su cargo cumpla con el Reglamento Interno de la Academia de Policía del Estado;
+XX.- Coordinar con la Dirección Jurídica y de Acceso a la Información Pública de la Secretaría de Seguridad Pública la revisión de los expedientes con documentación oficial, para su validación y evitar documentación apócrifa, así como para la tramitación y seguimiento de demandas en las distintas áreas del Derecho que relacionen al Instituto;
 
-XXII. Ejercer y gestionar el presupuesto anual asignado a la Academia de Policía por el Consejo Estatal de Seguridad Pública y la correcta aplicación del mismo;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XXI.- Vigilar que el personal a su cargo cumpla con el Reglamento Interno del Instituto;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XXII.· Ejercer y gestionar el presupuesto anual asignado al Instituto por el Consejo Estatal de Seguridad Pública y la correcta aplicación del mismo;
 
 XXIII. Elaborar, actualizar, coordinar y ejecutar el plan de contingencia en situaciones de emergencia en coordinación con la Dirección de Protección Civil del Estado;
 
@@ -890,6 +938,12 @@ XXX. Las demás que señalen los ordenamientos jurídicos aplicables.
 2. La profesionalización de los cuerpos de seguridad pública, tendrá por objeto lograr una mejor y más eficaz prestación del servicio, el desarrollo integral de sus elementos, y su capacidad de respuesta a los requerimientos de la sociedad.
 
 3. La formación policial tendrá como finalidad alcanzar el desarrollo profesional, técnico, científico, físico, humanístico y cultural de los elementos de seguridad pública.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+ARTICULO 41
+
+Se considerará policía de carrera al elemento que haya aprobado los cursos de reclutamiento, formación, actualización, especialización y profesionalización establecidos en el plan de estudios del Instituto, tratándose de las instituciones de seguridad pública estatales y municipales, y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
 
 ###### ARTICULO 41.
 
@@ -1529,6 +1583,22 @@ En términos de las atribuciones que le confieren las normas constitucionales y 
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir el Decreto de creación del Instituto de Reclutamiento y Formación Policial de Tamaulipas.
+
 ###### ARTICULO TERCERO.
 
 Las Secretarías General de Gobierno, de Seguridad Pública, Finanzas y Administración, con la intervención de la Contraloría Gubernamental, harán las adaptaciones presupuestales y en materia de asignación de recursos humanos, oficinas, bienes inmuebles y muebles que se requieran para el cumplimiento del presente Decreto. Asimismo, se mantendrán a salvo los derechos laborales adquiridos por los integrantes de las instituciones policiales del Estado.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE AGOSTO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 15 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, financieros y materiales, así como los bienes inmuebles adscritos al servicio de la Academia de Policía del Estado, se transferirán al Instituto de Reclutamiento y Formación Policial de Tamaulipas y éste los asignará al funcionamiento de las unidades administrativas bajo su adscripción.
