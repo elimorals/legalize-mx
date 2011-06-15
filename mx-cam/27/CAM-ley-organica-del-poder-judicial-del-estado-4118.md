@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "2010-07-23"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
@@ -51,33 +51,33 @@ La presente ley regula la estructura y funcionamiento del Poder Judicial del Est
 
 Corresponde a los Tribunales de Justicia del Estado de Campeche, la facultad de aplicar las Leyes en asuntos civiles, penales, contencioso-administrativos y electorales del fuero común, así como en asuntos de orden federal, en los casos en que expresamente las leyes de la materia les confieran competencia.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### Artículo 3o.
 
-La facultad a que se refiere el artículo anterior se ejerce:
+La facultad a que se refiere el artículo anterior se ejerce por:
 
-I.- Por el Tribunal Superior de Justicia;
+I. El Tribunal Superior de Justicia;
 
-II.- Por los jueces de primera instancia de lo civil;
+II. Los jueces civiles;
 
-III.- Por los jueces de lo familiar;
+III. Los jueces familiares;
 
-IV.- Por los jueces penales;
+IV. Los jueces mercantiles;
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1997)</small>
+V. Los jueces penales;
 
-IV Bis.- Por los jueces electorales;
+VI. Los jueces electorales;
 
-V.- Por los jueces mixtos de primera instancia,
+VII. Los jueces de justicia para adolescentes;
 
-VI.- Por los jueces menores;
+VIII. Los jueces mixtos;
 
-> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1996)</small>
+IX. Los jueces de cuantía menor;
 
-VII.- Los jueces conciliadores;
+X. Los jueces conciliadores; y
 
-VIII.- Por los árbitros; y,
-
-IX.- Por los demás auxiliares de la administración de justicia, en los términos que establezca esta ley, los Códigos de Procedimientos y leyes relativas.
+XI. Los demás auxiliares de la administración de justicia, en los términos que establezcan esta ley y los códigos procesales y demás leyes relativas.
 
 ###### Artículo 4o.
 
@@ -149,9 +149,11 @@ Para la creación de nuevos Distritos Judiciales o la reducción de los señalad
 
 Los juzgados electorales ejercerán jurisdicción en todo el Estado, conforme a los turnos u orden que disponga la Sala Administrativa erigida en Sala Electoral.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### Artículo 9o.
 
-Los juzgados de primera instancia de lo civil, familiares, penales y mixtos ejercerán jurisdicción en todo el distrito.
+Los juzgados de primera instancia podrán ser de los ramos civil, familiar, mercantil, electoral, penal, mixtos y de cuantía menor. Ejercerán jurisdicción en el distrito que les corresponda y residirán en su cabecera, salvo determinación del Pleno del H. Tribunal en sentido diverso. Cuando existan dos o más juzgados del mismo ramo, se les denominará en forma ordinal y se señalará su ramo.
 
 ###### Artículo 10.
 
@@ -447,19 +449,13 @@ El presidente del Tribunal Superior será suplido en sus faltas accidentales o t
 
 ### CAPITULO CUARTO. De las Salas del Tribunal
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia funcionará ordinariamente en Salas permanentes especializadas por materia o ramo. Cuando por necesidades del servicio haya más de una Sala permanente especializada en la misma materia para distinguirlas serán designadas por número ordinal. Cada una de las Salas permanentes se integrará con tres magistrados numerarios, uno de los cuales fungirá como presidente de la misma. Los presidentes de las Salas permanentes se elegirán por votación mayoritaria de los miembros del Tribunal Pleno, en la última sesión que éste celebre en el mes de Diciembre, durarán un año en el cargo y podrán ser reelectos, por una sola vez, para el período inmediato siguiente.
+El Tribunal Superior de Justicia funcionará ordinariamente en Salas permanentes, colegiadas o unitarias, especializadas por materia o ramo. Cuando por necesidades del servicio haya más de una Sala permanente especializada en la misma materia; para distinguirlas serán designadas por número ordinal.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
-
-Cuando por el incremento en el número de asuntos turnados a su conocimiento, alguna de las Salas del Tribunal tuviere rezago o se encuentre en riesgo de tenerlo, su presidente lo hará del conocimiento del Pleno y éste, si juzga necesario el crear una nueva Sala de carácter permanente, mediante acuerdo debidamente fundado y motivado que se publicará en el Periódico Oficial del Estado, podrá crear con carácter provisional una Sala auxiliar de la permanente integrada por el presidente de ésta y dos magistrados. El Presidente de la Sala auxiliar como tal, queda obligado a formular ponencia, pero relevado de hacerlo en la Sala permanente entretanto desempeñe ambas presidencias. Al concluir su encargo como presidente de la Sala auxiliar, comenzará a proyectar en la Sala permanente de acuerdo con el turno establecido.
-
-La Sala auxiliar entrará en funcionamiento a partir del primer día hábil del mes siguiente al de su creación y por un lapso de tres meses se avocará a la pertinente resolución de los asuntos en rezago que le fueren transferidos por la presidencia de la correspondiente Sala. Agotados tales asuntos, o el lapso de su funcionamiento, el presidente de la Sala auxiliar lo hará del conocimiento del Tribunal Pleno para que éste acuerde la prórroga que procediere, o emita declaración formal de conclusión del ejercicio de la Sala auxiliar. Salvo su transitoriedad, la competencia y atribuciones de la Sala auxiliar son similares a las de la respectiva Sala permanente.
-
-En el supuesto de que la tenencia de rezago o riesgo de tenerlo afecte a más de una de las Salas permanentes, la Sala auxiliar se avocará por turnos semanales a la resolución de los asuntos que se le transfieran, turnos en los que actuará bajo la presidencia y con el apoyo del personal de secretaría y actuaría de la Sala permanente cuyos asuntos deban ser resueltos en esa semana. El Tribunal Pleno en el acuerdo de creación de la Sala Auxiliar determinará el orden de esos turnos.
+Cada una de las Salas permanentes colegiadas se integrará con tres magistrados numerarios, uno de los cuales fungirá como presidente de la misma. Cada una de las salas permanentes unitarias estará integrada por un magistrado numerario.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -603,6 +599,22 @@ IV.- Intervenir en los asuntos de amparo que se promuevan en contra de las resol
 
 V.- Conocer de los demás asuntos que determinen las leyes.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 40 Ter.
+
+Corresponde a la Sala Unitaria Especializada en Adolescentes:
+
+I. Conocer de los recursos de apelación, de nulidad y de revisión que se interpongan contra las determinaciones dictadas por los jueces de justicia para adolescentes en el Estado;
+
+II. Calificar las excusas y recusaciones del Secretario de Acuerdos de la Sala;
+
+III. Calificar las contiendas de acumulación que se presenten en materia de adolescentes;
+
+IV. Intervenir en los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la Sala; y
+
+V. Conocer de los demás asuntos que determinen las leyes.
+
 ### CAPITULO QUINTO. De los Secretarios y demás Funcionarios del Tribunal Superior
 
 ###### Artículo 41.
@@ -693,15 +705,35 @@ En cada cabecera distrital, excepto en la del primer distrito, el Pleno podrá a
 
 ### CAPITULO PRIMERO. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 48.
 
-En el Estado habrá el número de juzgados civiles, familiares, penales, mixtos de primera instancia y menores que establezca la ley y que el Tribunal Pleno considere necesario para que la administración de justicia sea pronta y expedita.
+En el Estado habrá el número de juzgados civiles, familiares, mercantiles, penales, electorales, de justicia para adolescentes, mixtos y de cuantía menor que establezca la ley y que el Pleno del H. Tribunal considere necesario para que la administración de justicia sea expedita, pronta, completa e imparcial.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 48 Bis.
+
+En el Sistema de Justicia Acusatorio-Adversarial, la jurisdicción de primera instancia en materia penal estará a cargo de los jueces de control de los tribunales de juicio oral que funcionarán de manera colegiada y de los jueces de ejecución de sanciones, en los términos de la legislación procesal correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 49.
 
-Los jueces civiles, familiares, penales y mixtos de primera instancia, deberán cubrir los requisitos que exige el artículo 84 de la Constitución Política del Estado.
+Para ejercer el cargo de Juez de Primera Instancia en el Estado, además de cumplir con los requisitos contenidos en la Constitución Política del Estado, se requiere:
+
+I. Tener, cuando menos, treinta años de edad el día de su designación;
+
+II. Acreditar, como mínimo, cinco años de práctica profesional y aprobar los exámenes psicométricos y de oposición que aplique para tal efecto el Centro de Capacitación y Actualización del Poder Judicial;
+
+III. Haber residido en el Estado durante los cinco años anteriores al día de su designación; y
+
+IV. No haber ocupado un cargo de elección popular ni haber participado como candidato en el proceso electoral anterior a su designación.
+
+Para ser Juez Electoral deberán reunir, además de los anteriores, los requisitos establecidos en el artículo 506 del Código de Instituciones y Procedimientos Electorales para el estado de Campeche.
+
+Para ocupar el cargo de Jueces Penales o de justicia para adolescentes es necesario, además de los requisitos señalados en este artículo, no haberse desempeñado como Procurador o Subprocurador de Justicia, Fiscal, Agente del Ministerio Público o Agente de la Policía Ministerial Investigadora.
 
 ###### Artículo 50.
 
@@ -779,23 +811,79 @@ IX.- De la diligencia de los exhortos, requisitorias y despachos, relacionados c
 
 X.- De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a los menores e incapacitados, así como, en general, todas las cuestiones familiares que reclamen la intervención judicial.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### Artículo 55.
 
-Los jueces de lo penal conocerán:
+Los Jueces Penales conocerán:
 
-I.- De los procesos iniciados por delitos del orden común que se cometan en su jurisdicción, exceptuándose los que esta ley someta a la jurisdicción de los jueces menores;
+I. De los delitos del orden común cuando éstos no estén reservados a otra autoridad judicial, así como de los incidentes de responsabilidad civil que de tales delitos se deriven;
 
-II.- De la diligencia de los exhortos, requisitorias y despachos en materia penal;
+II. De la diligencia de los exhortos, requisitorias y despachos en materia penal;
 
-III.- De las competencias que se susciten, en materia penal, entre los jueces menores de sus distritos judiciales;
+III. De las competencias que se susciten, entre los jueces de cuantía menor de sus distritos judiciales; y
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+IV. De los demás asuntos que les atribuyan las leyes.
 
-IV.- De los procesos iniciados por delitos contra la salud en su modalidad de narcomenudeo que resulten de competencia estatal y que se cometan en su jurisdicción; y
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2010)</small>
+###### Artículo 55 Bis.
 
-V.- De los demás asuntos que les atribuyan las leyes.
+Los Jueces de Control tendrán las siguientes atribuciones:
+
+I. Vigilar que se respeten los derechos fundamentales de los imputados y de las víctimas u ofendidos del delito;
+
+II. Otorgar las órdenes que solicite el Ministerio Público para la realización de sus actuaciones y garantizar el respeto a los derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales ratificados por el Estado Mexicano;
+
+III. Dirigir las audiencias judiciales de la fase de investigación y resolver lo se (sic) promueva en ellas;
+
+IV. Promover la solución pacífica del conflicto a través de los medios alternativos de solución de controversias, conforme a lo dispuesto en la ley respectiva;
+
+V. Decidir sobre prisión preventiva y demás medidas cautelares de los imputados;
+
+VI. Resolver sobre la aplicación de los criterios de oportunidad que haga el Ministerio Público;
+
+VII. Determinar el plazo para la suspensión del proceso a prueba;
+
+VIII. Conocer y resolver del procedimiento abreviado;
+
+IX. Resolver sobre la vinculación a proceso de los imputados;
+
+X. Dictar el auto de apertura de juicio oral; y
+
+XI. Las demás que le otorgue el Código Procesal Penal y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 55 Ter.
+
+Los Jueces de Juicio Oral tendrán las siguientes atribuciones:
+
+I. Conocer las causas penales en Juicio Oral;
+
+II. Resolver todas las cuestiones que se presenten durante el Juicio;
+
+III. Dictar sentencia con base en las pruebas presentadas durante la audiencia de Juicio; y
+
+IV. Las demás que les otorguen el Código Procesal Penal y las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 55 Quáter.
+
+Los Jueces de Ejecución de Sanciones tendrán las atribuciones que le otorgue la Ley de Ejecución de Sanciones y Medidas de Seguridad, así como los demás ordenamientos en la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 55 Quinquies.
+
+Los Jueces de Justicia para Adolescentes conocerán:
+
+I. De los procesos iniciados por conductas tipificadas como delitos en las leyes estatales que se atribuyan a las personas mayores de doce años y menores de dieciocho;
+
+II. De los exhortos, requisitorias y despachos en materia de justicia para adolescentes;
+
+III. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
 ###### Artículo 56.
 
@@ -900,6 +988,50 @@ XX.- Desempeñar todas las demás funciones que esta ley, el reglamento respecti
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
 
 Artículo. 60 Bis.- Los secretarios de los juzgados electorales tendrán las atribuciones y obligaciones que se señalan en las fracciones II a XIX del artículo anterior, así como las que específicamente les señale el Código Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 60 Ter.
+
+Los Juzgados de Control, de Ejecución de Sanciones y los Tribunales de Juicio Oral, contarán con un administrador y los secretarios y demás servidores judiciales que determine el Tribunal en Pleno, conforme a las necesidades del servicio y acorde a las previsiones presupuestales.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 60 Quáter.
+
+En los juzgados de Control, de Ejecución de Sanciones y Tribunales de Juicio Oral deberá nombrarse un Administrador, con las siguientes atribuciones:
+
+I. Coordinar las labores administrativas del Juzgado de su adscripción;
+
+II. Vigilar y controlar el buen desempeño del personal a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+III. Programar las diligencias a desarrollarse en las Salas de audiencia a su cargo;
+
+IV. Remitir al Tribunal Superior de Justicia un informe sobre las actividades desarrolladas por el juzgado, con la relación de los negocios conocidos y fallados durante el periodo anual anterior;
+
+V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados y dar aviso inmediato al área correspondiente sobre cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos;
+
+VII. Entregar y recibir, bajo riguroso inventario, los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+
+VIII. Distribuir los asuntos entre los jueces por turno riguroso, según la agenda previamente establecida; y
+
+IX. Las demás que determinen esta ley, el Reglamento Interior de los Juzgados y el Tribunal Superior de Justicia en Pleno.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 60 Quinquies.
+
+Para ser Administrador se requiere:
+
+I. Ser mayor de veinticinco años;
+
+II. Contar con Título de Licenciatura afín a las funciones que desempeñará y con experiencia mínima de tres años en la Administración Pública;
+
+III. No haber sido condenado por la comisión de algún delito doloso; y
+
+IV. Aprobar los exámenes que para tal efecto aplique el Centro de Capacitación y Actualización del Poder Judicial.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 1997)</small>
 
@@ -2045,6 +2177,14 @@ P.O. 23 DE DICIEMBRE DE 1980.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
 
+P.O. 10 DE JULIO DE 1996.
+
+Primero.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo en lo que atañe a las modificaciones previstas en su Artículo Tercero, las que entrarán en vigor a partir del día 1º de enero de 1997.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a los de este decreto.
+
+Tercero.- El Tribunal Pleno procederá, en el término de sesenta días contados a partir de la vigencia de este decreto, a hacer las adecuaciones correspondientes en los reglamentos y acuerdos administrativos que ha expedido, así como a emitir, en un término no mayor de noventa días, los que con motivo de este decreto sean necesarios. Asimismo, dicho Tribunal, tomará las previsiones que sean necesarias al elaborar su proyecto de presupuesto de Egresos para el año de 1997.
+
 P.O. 22 DE MAYO DE 1985.
 
 ###### ARTICULO PRIMERO.
@@ -2132,3 +2272,9 @@ CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estad
 Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
 
 QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 15 DE JUNIO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Las disposiciones referentes a los Juzgados de Control y a los Tribunales de Juicio Oral, serán aplicables hasta que se declare establecido el Sistema de Justicia Acusatorio Adversarial. Entretanto los actuales Jueces de Primera Instancia del Ramo Penal continuarán ejerciendo sus atribuciones de conformidad con el sistema penal vigente.
