@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-para-adolescentes-del-estado-de-nayarit-51707"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2010-04-03"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 9 de septiembre de 2006.
 
@@ -327,7 +327,11 @@ II. Recibir las denuncias o querellas que le presenten en forma oral o por escri
 
 III. Dictar las providencias para proporcionar seguridad y auxilio a la víctima u ofendido;
 
-IV. Procurar la conciliación en la fase de investigación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+IV. Procurar la conciliación en la fase de investigación e informar al adolescente, a sus padres, tutor o representante legal, a la víctima u ofendido, de los beneficios que brindan los procedimientos alternativos de solución de controversias, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda, para que si es su voluntad se sometan al mismo;
 
 V. Citar o hacer comparecer a toda persona obligada a presentarse;
 
@@ -646,6 +650,12 @@ La medida preventiva que se ordene, en ningún caso podrá ser más gravosa que 
 Se procurará la conciliación en cualquiera de las etapas del procedimiento, la cual podrá iniciarse oficiosamente o a instancia del adolescente, la víctima u ofendido, exceptuando las conductas catalogadas como graves en esta ley.
 
 Asimismo, podrán iniciarla e intervenir en la conciliación los padres, tutores o quienes ejerzan la patria potestad o la custodia, y el defensor del adolescente, así como los de la víctima u ofendido si también fuera menor de edad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+El juez hará del conocimiento del adolescente, sus padres, tutor o representante legal, a la víctima u ofendido, de los beneficios que brindan los procedimientos alternativos de solución de controversias al emitir el auto de radicación, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda y notificará a las partes para que si es su voluntad se sometan al mismo.
 
 ###### Artículo 72.
 
@@ -1810,3 +1820,7 @@ P.O. 3 DE ABRIL DE 2010.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo. Los asuntos en actual trámite de la Sala Penal del Tribunal Superior de Justicia, pasarán al conocimiento para su resolución por la Sala Colegiada para Adolescentes que al efecto integre y dote de competencia.
+
+P.O. 15 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
