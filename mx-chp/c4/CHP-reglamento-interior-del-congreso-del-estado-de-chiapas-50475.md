@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-congreso-del-estado-de-chiapas-50475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-02"
-last_updated: "2010-11-12"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -83,9 +83,17 @@ XI. Mayoría calificada: Es aquella donde se exigen porcentajes especiales de vo
 
 XII. Moción: Proposición verbal o escrita presentada por un diputado que tiene por objeto la interrupción al discurso de un orador, objetar un documento o el asunto por acordar o a la decisión de la Mesa Directiva, que es sometida a deliberación y en su caso, aprobada su procedencia.
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XIII. Sistema Electrónico: El sistema de registro de asistencia, votación y audio automático.
+
 ###### Artículo 3°.
 
 Las disposiciones del presente ordenamiento son obligatorias para los diputados, la Junta de Coordinación Política, la Mesa Directiva, la Comisión Permanente, las comisiones, Grupos Parlamentarios y diputado único de partido, así como para sus órganos técnicos y administrativos y personas asistentes a las sesiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+Los Diputados están sujetos a las normas de disciplina parlamentaria que establece la Constitución, la Ley y este Reglamento, en materia de asistencia, desempeño de función directiva, orden, uso de la palabra, uso de la tribuna, debates y votaciones, tanto en el Pleno como en las Comisiones.
 
 ###### Artículo 4°.
 
@@ -189,7 +197,9 @@ III.- Cuidar que los miembros del Congreso, así como los asistentes, guarden or
 
 IV.- Dar curso reglamentario a los negocios y dictar los trámites que deban recaer en los asuntos con que se dé cuenta al Congreso;
 
-V.- Determinar qué asuntos deben ponerse a discusión, prefiriendo los de utilidad general; a no ser que, por moción que hiciere algún legislador del Congreso, acuerde ésta dar la preferencia a otro negocio;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+V.- Determinar qué asuntos deben ponerse a discusión, así como el procedimiento en que debe someterlos a votación, prefiriendo los de utilidad general; a no ser que, por moción que hiciere algún legislador del Congreso, acuerde ésta dar la preferencia a otro negocio;
 
 VI.- Conceder la palabra alternadamente, en contra y a favor a los diputados en el turno en que la pidieren;
 
@@ -209,7 +219,9 @@ XIII.- Firmar conjuntamente con un Secretario, los nombramientos de los titulare
 
 XIV.- Citar a sesiones extraordinarias;
 
-XV.- Declarar que no hay quórum cuando es visible su falta, o hacer que la Secretaría pase lista de asistencia cuando aquél sea reclamado por algún miembro del Congreso;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+XV.- Declarar en el Pleno la existencia de quórum o su falta cuando es visible; instruir que se compruebe dicha falta en los casos en que lo considere necesario o así se le solicita;
 
 XVI.- Enviar excitativa a cualquiera de las Comisiones Legislativas, a nombre de la Cámara, a que presenten dictamen si han transcurrido quince días después de aquel en que se les turne un asunto y si no fuere suficiente, la emplazará para día determinado, y si ni así presentare el dictamen, propondrá al Congreso que se pase a otra Comisión;
 
@@ -235,7 +247,9 @@ Las representaciones protocolarias de la cámara podrán ser asumidas por uno de
 
 Son obligaciones de los Secretarios y en su caso de los Prosecretarios:
 
-I.- Pasar lista a los diputados a fin de formar el registro de asistencia y con ello verificar el quórum legal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+I.- llevar el control de asistencias y las justificaciones con el auxilio de la Secretaria de Servicios Parlamentarios, y con ello verificar el quórum legal, de la misma manera comunicar a la Presidencia de la Mesa Directiva y Junta de Coordinación Política para que la primera a su vez turne los casos de las inasistencias injustificadas y se de cumplimiento a lo establecido en el artículo 45 de este Reglamento;
 
 II.- Extender las actas de las sesiones, firmarlas después de aprobadas y consignarlas bajo su firma en el libro respectivo; dichas actas deberán contener el nombre del diputado que la presida, la hora de apertura y clausura, las observaciones, correcciones y aprobación del acta anterior, una relación nominal de los diputados presentes y de los ausentes, con licencia o sin ella, así como una relación sucinta ordenada y clara de cuanto se trate y resolviere en las sesiones, expresando nominalmente las personas que hayan hablado a favor y en contra y evitando toda calificación de los discursos, exposiciones y proyectos de ley;
 
@@ -271,6 +285,18 @@ Los Secretarios y Prosecretarios, para el desempeño de los trabajos, se turnar�
 
 El Pleno del Congreso del Estado, lo constituyen los diputados reunidos que formen quórum legal en el recinto oficial para celebrar sesión del Congreso, en los términos previstos en la Ley Orgánica y este reglamento:
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+El Sistema Electrónico de asistencia y de votación se abrirá y se cerrará previa instrucción de la Presidencia de la Mesa Directiva, hasta por el tiempo que esta misma señale, después de lo cual, el Secretario en funciones preguntará si falta algún Diputado por emitir su voto, y de ser así y habiendo vencido el término establecido para hacerlo, lo registrará de manera nominal o económica según sea el caso.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+En caso de que las sesiones del pleno se efectúen fuera del recinto legislativo o por imprevistos que efectúen (sic) el adecuado funcionamiento del Sistema Electrónico de asistencia y votación, se utilizará el sistema tradicional.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+En los casos en que se requiera la verificación del quórum, el Presidente de la Mesa Directiva ordenará abrir el Sistema Electrónico de asistencia y votación hasta por cinco minutos.
+
 El Quórum Legal del Congreso para celebrar sesiones y ejercer su encargo, se formará con la concurrencia de la mitad más uno de los diputados que integran la legislatura.
 
 El Quórum requerido en las sesiones donde se discutan las leyes, deberá ser de las dos terceras partes de los diputados que integran la legislatura.
@@ -282,6 +308,24 @@ El Pleno es la máxima autoridad del Congreso del Estado, el cual puede revocar 
 ###### Artículo 27.
 
 Las sesiones del Congreso podrán ser ordinarias y extraordinarias, mismas que serán públicas y por excepción secretas; así mismo, podrá haber sesión permanente cuando la naturaleza del asunto a tratar así lo amerite; y sesiones solemnes, en los casos a que se refiere la Constitución Política del Estado de Chiapas, y demás ordenamientos legales que así lo dispongan.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+El Presidente puede declarar recesos durante la sesión, cualquiera que sea su tipo o modalidad, a fin de recabar opiniones, promover acuerdos, o procurar condiciones que permitan el adecuado desahogo del Orden del Día.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+Las sesiones solemnes tendrán por objeto:
+
+I. La representación ante la soberanía por parte del Gobernador del Estado del informe escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal;
+
+II. Conmemorar sucesos históricos o relevantes para la vida pública estatal;
+
+III. Reconocer y otorgar distinciones publicas a los meritos de ciudadanos distinguidos;
+
+IV. Recibir a visitantes distinguidos delegaciones parlamentarias o invitados especiales; y,
+
+V. Realizar actos protocolarios o diplomáticos.
 
 ###### Artículo 28.
 
@@ -361,13 +405,19 @@ En los períodos extraordinarios, el Congreso deberá ocuparse exclusivamente de
 
 Los diputados tienen la obligación de asistir a todas las sesiones del Congreso desde que da inicio hasta el fin de éstas, tomarán asiento preferentemente en el lugar que se les asigne, y se presentarán con la decencia que exigen las altas funciones de que están encargados.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Los diputados tienen la obligación de asistir puntualmente a todas las sesiones del Congreso desde que da inicio hasta el fin de éstas, tomarán asiento preferentemente en el lugar que se les asigne, y se presentarán con la decencia que exigen las altas funciones de que están encargados.
+
 En las sesiones de instalación del Congreso del Estado, en aquella en que el Gobernador del Estado presente por escrito su informe de gobierno y en la protesta para asumir el cargo de Gobernador del Estado, los Diputados asistirán en vestimenta formal, de preferencia en color oscuro.
 
 ###### Artículo 39.
 
 Se considerará ausente de una sesión al diputado que:
 
-I.- Al pase de lista de asistencia para verificar el quórum legal y no se encuentre presente; y,
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+I.- No registre su asistencia conforme a lo señalado en el artículo 25 de este Reglamento y;
 
 II.- Cuando se verifique alguna votación y no se encontrare presente.
 
@@ -496,6 +546,10 @@ En el análisis del contenido. del informe de gobierno a que se refiere la parte
 ###### Artículo 59.
 
 Para el estudio, dictamen y seguimiento de los asuntos que el Congreso del Estado debe tratar por razones de competencia, se constituirán Comisiones a que se refiere la Ley Orgánica del Congreso, debiendo contar con una Mesa directiva que estará conformada por un Presidente, un Vicepresidente, un Secretario y 4 Vocales, los cuales en ausencia del secretario realizaran dicha función, por designación del Presidente.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+Para hacer más eficiente la labor en las Comisiones de los Diputados tendrán acceso a todos los documentos y medios de información disponibles en el Congreso inherentes a la competencia de la Comisión respectiva.
 
 ###### Artículo 60.
 
@@ -801,6 +855,24 @@ h. Seguidamente se pondrá a discusión desde luego los artículos en lo particu
 
 i. Si el proyecto sólo constare de un artículo, se pondrá a discusión, sujetándose a lo dispuesto en los incisos anteriores.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+###### Artículo 104 Bis.
+
+Los Diputados hacen uso de la palabra desde su curul, previa autorización del Presidente de la Mesa Directiva, por no más de tres minutos, en los siguientes casos:
+
+I. Para formular observaciones al Orden del Día;
+
+II. Para realizar precisiones al acta de la sesión anterior;
+
+III. Para presentar mociones;
+
+IV. Para formular preguntas al orador en tribuna;
+
+V. Para solicitar aclaraciones de procedimiento, rectificación o ampliación de turno; y,
+
+VI. Para solicitar verificación del quórum.
+
 ###### Artículo 105.
 
 Los miembros de la Cámara, aun cuando no estén inscritos en la lista de los oradores, solo podrán pedir la palabra, para rectificar hechos o contestar alusiones personales, cuando haya concluido el orador y sin que puedan hacer uso de la palabra más de cinco minutos.
@@ -1001,11 +1073,23 @@ Habrá tres clases de votaciones: nominales, económicas y por cédula.
 
 Cuando llegue el momento de votar, el Presidente lo anunciará en el salón de sesiones y poco después comenzará la votación.
 
+> <small>(REFORMADO PRIMERO PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+
 ###### Artículo 133.
 
-La votación nominal se hará del modo siguiente:
+La votación nominal se realiza a través del Sistema Electrónico o, en su caso, en voz alta por cada Diputado.
 
-I.- El Presidente del Congreso, tomará la lista de asistencia y dirá en voz alta el nombre y los apellidos de cada uno de los diputados, y estos de pie, contestaran en voz alta por la negativa o por la afirmativa;
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+Cuando se utiliza el Sistema Electrónico, el Presidente de la Mesa Directiva indica el tiempo de que se dispone para votar, una vez concluido el tiempo disponible el Secretario pregunta si falta algún Diputado por emitir su voto y, en su caso, lo registra nominalmente.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+De no disponer del Sistema Electrónico, o previo acuerdo de la Mesa Directiva recibe la votación nominal del modo siguiente:
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+I. El Presidente del Congreso, tomará la lista de asistencia y dirá en voz alta el nombre y los apellidos de cada uno de los diputados, y estos levantando la mano, contestaran en voz alta por la negativa o por la afirmativa;
 
 II.- Uno de los secretarios de la Mesa Directiva, apuntará los que aprueben y los que reprueben;
 
@@ -1013,39 +1097,39 @@ III.- Concluido ese acto, uno de los mismos secretarios preguntara dos veces en 
 
 IV.- Los secretarios harán enseguida la computación de los votos, y leerán los nombres de los que hubiesen aprobado y el otro de los que reprobaren; después dirán el número total de cada lista y harán pública el resultado de la votación.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 2011)</small>
+
+Al concluir la votación la Secretaría informa el resultado al Presidente de la Mesa Directiva, quien hace la declaratoria correspondiente y ordena el tramite que procede.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 134.
 
-Las votaciones serán nominales cuando lo pida un diputado y sea apoyado por otros tres y con la aprobación del Pleno del Congreso del Estado.
+Se votarán nominalmente los dictámenes de las comisiones con proyecto de Ley o Decreto; cuando así lo acuerde la Mesa Directiva; o lo soliciten dos o más Diputados con la aprobación del pleno y si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que forman el artículo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 135.
 
-La votación económica se practicará poniéndose de pie los legisladores ya sea por la afirmativa o por la negativa cuando el Presidente pregunte el sentido de la votación; los que permanezcan sentados se entenderá como abstención.
+La votación es económica cuando los legisladores levantan la mano ya sea por la afirmativa o por la negativa cuando el Presidente de la Mesa Directiva pregunte el sentido de la votación; los Legisladores que no levanten la mano se entenderá como abstención.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
-
-Cuando se lleven a cabo votaciones económicas en las sesiones de la Comisión Permanente, estás se practicarán levantando la mano.
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 136.
 
 La votación será económica:
 
-I. Cuando se pregunte si ha lugar a aprobar algún proyecto de ley en lo general;
+l. Respecto a la aprobación de las actas de las sesiones;
 
-II. Cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo;
+II. Para calificar los asuntos como de urgente u obvia resolución.
 
-III. Respecto a la aprobación de las actas de las sesiones;
+III. Respecto a los acuerdos de trámite que recaigan a la correspondencia dirigida al Congreso y para todas las demás votaciones no especificadas en el presente capítulo.
 
-IV. Para calificar los asuntos como de urgente u obvia resolución.
-
-V. Respecto a los acuerdos de trámite que recaigan a la correspondencia dirigida al Congreso y para todas las demás votaciones no especificadas en el presente capítulo.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### Artículo 137.
 
-Si al dar la secretaría el resultado de la votación económica, algún diputado pidiere que se cuenten los votos, se contarán efectivamente. A este fin se mantendrán todos de pie o sentados según el sentido en que hubieren dado su voto; dos miembros que hayan votado uno a favor y otro en contra contarán a los que aprueban y otros dos de la misma clase a los que reprueban; estos cuatro diputados que nombrará el Presidente, darán razón al mismo en presencia de los Secretarios del resultado de su cuenta, y hallándose conformes, se hará pública el resultado de la votación.
+Si al dar la secretaría el resultado de la votación económica, algún diputado pidiere que se cuenten los votos, se contarán efectivamente. A este fin se mantendrán levantando la mano o no según el sentido en que hubieren dado su voto. Dos miembros que hayan votado uno a favor y otro en contra contarán a los que aprueban y otros dos de la misma clase a los que reprueban; estos cuatro diputados que nombrará el Presidente, darán razón al mismo en presencia de los Secretarios del resultado de su cuenta, y hallándose conformes, se hará público el resultado de la votación.
 
 ###### Artículo 138.
 
@@ -1260,3 +1344,9 @@ P.O. 12 DE NOVIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
