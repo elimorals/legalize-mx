@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2011-06-08"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -371,7 +371,7 @@ Llegados los autos en el Tribunal que deba decidir la competencia, citará a las
 
 Decidida la competencia, enviará los autos y testimonio de la sentencia al Juez declarado competente, de la cual remitirá otro tanto al Juez contendiente.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
@@ -1115,6 +1115,12 @@ VI.- Los fundamentos de derecho, procurando enunciar preceptos legales o princip
 
 Presentada la demanda con los documentos y copias prevenidos, se correrá traslado a la parte demandada y se le emplazará para que la conteste dentro de nueve días.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+En los juicios que el juez considere procedente el trámite de procedimientos alternativos de solución de controversias, de oficio, hará del conocimiento a las partes de los beneficios que brindan estos mecanismos alternativos al emitir el auto de radicación, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda y lo notificará a las partes.
+
 ###### ARTICULO 147.
 
 Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la aclare, corrija o complemente de acuerdo a los artículos anteriores, señalando en concreto sus defectos; hecho lo cual, le dará curso. El Juez puede hacer esta prevención por una sola vez, si no la acatare, se le tendrá por no interpuesta.
@@ -1759,13 +1765,13 @@ IV.- La presunción humana; y (sic)
 
 V.- Las fotografías, copias fotostáticas y demás medios que produzcan convicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
 
 VI.- La información difundida que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTICULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -1865,7 +1871,7 @@ La improcedencia de la aclaración motiva que se sancione a quien la hubiere sol
 
 #### SECCION TERCERA. EJECUTORIEDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 258.
 
@@ -3719,7 +3725,7 @@ Cuando se trate de la posesión de estado de hijos menores de siete años, ésto
 
 La suspensión y la calificación de las excusas para ejercer la patria potestad, que no hayan sido objeto de una resolución judicial, se tramitarán y decidirán en una audiencia en la que se oiga a las partes y se reciban las pruebas que se ofrezcan.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE JUNIO DE 2011)</small>
 
 #### SECCION SEGUNDA. DEL JUICIO ESPECIAL DE PERDIDA DE PATRIA POTESTAD PARA LOS MENORES DE EDAD INSTITUCIONALIZADOS
 
@@ -4735,7 +4741,7 @@ V.- La liquidación que tenga que hacerse de los gravámenes que afecten a los i
 
 ## TITULO SEGUNDO. RECURSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 633.
 
@@ -4847,7 +4853,7 @@ El recurso de apelación procede en uno o en ambos efectos. En el primer caso no
 
 Si la apelación devolutiva fuere de sentencia definitiva, se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las constancias que el juez estime necesarias y si fuere de auto o interlocutoria, solo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga la parte interesada y con las que el Juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. Si dentro de los tres días siguientes al en que se le notifique la admisión del recurso, el apelante no señala las constancias para integrar el testimonio ni manifiesta que prefiere esperar, se le negará dicho testimonio y se tendrá por firme la resolución apelada.
 
-> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 644.
 
@@ -5041,7 +5047,7 @@ EL SRIO. GENERAL DE GOBIERNO.
 
 LIC. JAVIER GERMAN RODRIGUEZ JIMENEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 19 DE FEBRERO DE 1997.
 
@@ -5136,3 +5142,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 8 DE JUNIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
