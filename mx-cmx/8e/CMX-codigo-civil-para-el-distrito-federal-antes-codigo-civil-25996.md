@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2011-01-27"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3071,141 +3071,201 @@ IV.- Los demás que se deriven de la filiación.
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 390.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+La adopción es el acto jurídico por el cual el Juez de lo Familiar constituye de una manera irrevocable una relación de filiación entre el adoptante y el adoptado, al mismo tiempo que establece un parentesco consanguíneo entre el adoptado y la familia del adoptante y entre éste y los descendientes del adoptado.
 
-> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 1998)</small>
+Es un derecho del menor, de naturaleza restitutiva, que le garantiza vivir, crecer y desarrollarse de manera íntegra, en el seno de una familia.
 
-I.- Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
-
-> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 1998)</small>
-
-II.- Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma, y
-
-> <small>(REFORMADA, D.O.F. 28 DE MAYO DE 1998)</small>
-
-III.- Que el adoptante es persona apta y adecuada para adoptar.
-
-Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 391.
 
-Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de ellos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años de edad cuando menos. Se deberán acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
+Podrán adoptar:
+
+I. Los cónyuges en forma conjunta, que al menos tengan dos años de casados;
+
+II. Los concubinos en forma conjunta, que demuestren una convivencia ininterrumpida de al menos dos años;
+
+III. Las personas físicas solteras mayores de 25 años;
+
+IV. El tutor al pupilo una vez aprobadas las cuentas de su administración; y
+
+V. El cónyuge o concubino al hijo de su compañero que ejerza de manera individual la patria potestad y que demuestre una convivencia ininterrumpida al menos de dos años.
+
+Los cónyuges o concubinos podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo y aunque solo uno de ellos cumpla con el requisito de edad a que se refiere este capítulo, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de 17 años de edad cuando menos.
+
+En todos los casos ambos cónyuges o concubinos deberán comparecer ante la presencia judicial en el procedimiento de adopción.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 392.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+Nadie puede ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+A juicio del juez y previa motivación, se puede dispensar el requisito de la edad y lo relativo a la diferencia de edad en cualquier adopción, especialmente cuando se atienda al interés superior de la persona adoptada.
 
 ###### ARTICULO 392 Bis.
 
-En igualdad de condiciones, se preferirá al que haya acogido al menor que se pretende adoptar.
+(DEROGADO, G.O. 15 DE JUNIO DE 2011)
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 393.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+Podrán ser adoptados:
+
+I. El niño o niña menores de 18 años:
+
+a) Que carezca de persona que ejerza sobre ella la patria potestad;
+
+b) Declarados judicialmente en situación de desamparo o bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+
+c) Cuyos padres o abuelos se les hayan sentenciado a la pérdida de la patria potestad; y
+
+d) Cuyos padres o tutor o quienes ejerzan la patria potestad otorguen su consentimiento.
+
+II. El mayor de edad incapaz.
+
+III. El mayor de edad con Plena capacidad jurídica y a juicio del Juez de lo Familiar y en atención del beneficio del adoptante y de la persona adoptada procederá a la adopción.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 394.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+Podrán ser adoptados dos o más hermanos o incapacitados simultáneamente por un sólo matrimonio, concubinato o una sola persona. El juez en todo momento valorará la convivencia de los hermanos para darlos en adopción.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 395.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+La adopción produce los efectos jurídicos siguientes:
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+I. Constitución plena e irrevocable entre adoptado y adoptante de todos los derechos y obligaciones inherentes entre padre e hijos consanguíneos;
 
-El adoptante dará nombre y sus apellidos al adoptado, salvo que, por circunstancias específicas, no se estime conveniente.
+II. Constitución del parentesco consanguíneo en los términos del artículo 293 de este Código;
+
+III. Obligación de proporcionar al adoptado un nombre y apellidos de los adoptantes, salvo que por circunstancias específicas y a juicio del Juez se estime inconveniente; y
+
+IV. Extinción de la filiación entre el adoptado y sus progenitores y el parentesco con la familia de éstos, salvo los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado o tenga una relación de concubinato con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resulten de la filiación consanguínea.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 396.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+Los hijos adoptivos y los consanguíneos, así como los hijos adoptivos entre sí, serán considerados en todo momento hermanos entre sí.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 397.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+Son requisitos para la adopción:
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+I. Que resulte benéfica para la persona que pretende adoptarse;
 
-II.- El tutor del que se va a adoptar;
+II. Que el adoptante tenga más de 25 años cumplidos al momento que el juez emita la resolución que otorgue la adopción y tenga 17 años más que el adoptado;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+III. Que el adoptante acredite contar medios suficientes para proveer la subsistencia y educación del menor, como hijo propio;
 
-III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos ni tutor; y
+IV. Que el solicitante de la adopción exponga de forma clara y sencilla las razones de su pretensión;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
+V. Que el solicitante de la adopción demuestre un modo de vida honesto, así como la capacidad moral y social para procurar una familia adecuada y estable al adoptado; y
 
-IV.- El menor si tiene más de doce años;
+VI. Que ninguno de los adoptantes haya sido procesado o se encuentre pendiente de proceso penal por delitos que atenten contra la familia, sexuales, o en su caso contra la salud.
 
-V.- (DEROGADA, G.O. 25 DE MAYO DE 2000)
+Estas mismas calidades se exigirán a quien adopte conjuntamente.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
-
-En todos los asuntos de adopción serán escuchados los menores atendiendo a su edad y grado de madurez.
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
-La persona que haya acogido al menor dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición.
-
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+La autoridad velará para que el adoptado goce de las garantías necesarias para su debida integración a una familia, sin que se ponga en peligro su libre y debido desarrollo o se atente contra sus derechos humanos.
 
 ###### ARTICULO 397 Bis.
 
-En el supuesto de la fracción I del artículo anterior, si los que ejercen la patria potestad están a su vez sujetos a ésta, deberán consentir en la adopción sus progenitores si están presentes; en caso contrario, el Juez de lo Familiar suplirá el consentimiento.
+(DEROGADO, G.O. 15 DE JUNIO DE 2011)
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 398.
 
-Si el tutor o el Ministerio Público no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapacitado.
+Para que la adopción proceda deberán manifestar su consentimiento, en sus respectivos casos:
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+I. Quienes ejerzan la patria potestad sobre el menor que se pretende adoptar;
+
+II. El tutor del que se va a adoptar;
+
+III. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos ni tutor; y
+
+IV. El menor si tiene más de doce años.
+
+En el caso de las personas señaladas en las fracciones I y IV, el consentimiento deberá otorgase invariablemente de manera libre e informada, para este efecto deberá hacerse de su conocimiento de manera amplia y exhaustiva todas las consecuencias jurídicas y psicosociales que implica la adopción. El juez contará con amplias facultades para comprobar que el consentimiento fue otorgado en las condiciones señaladas.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 399.
 
-El procedimiento para tramitar la adopción será fijado en el Código de Procedimientos Civiles.
+Independientemente de que el consentimiento obre por escrito, el juez solicitará la comparecencia personal de su otorgante quien deberá exponer las razones para concederlo. A fin de que la comparecencia no se retrase el juez podrá imponer toda clase de medidas de apremio que estime conducentes.
+
+En todos los asuntos de adopción serán escuchados los menores en condiciones adecuadas conforme a su edad y grado de madurez.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 400.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+La familia, con parentesco o sin el, que haya asumido la protección permanente del menor, ofreciéndole condiciones adecuadas, un ambiente armónico integral, gozará del derecho de audiencia y defensa en el procedimiento de adopción. El juez garantizará este derecho en todo momento.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
+Dicha familia, a través de un representante común podrá oponerse a la adopción sólo en caso de que algunos de sus integrantes deseen adoptar y materialice su intención en la gestión de trámites administrativos y judiciales y reúna condiciones de adaptabilidad.
+
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 401.
 
-El Juez de lo Familiar que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del Distrito Federal para que levante el acta.
+En el supuesto de la fracción I del artículo 398, sí los que ejercen la patria potestad están a su vez sujetos a ésta, deberán consentir en la adopción sus progenitores si están presentes; en caso contrario, el Juez de lo Familiar suplirá el consentimiento.
 
-Levantada ésta, el Juez del Registro Civil remitirá las constancias de dicho registro a su homologo del lugar donde se levantó el Acta de Nacimiento originaria, para los efectos del artículo 87 de este Código.
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO Y REUBICADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 402.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+La falta de consentimiento del Tutor o Ministerio Público deberá sustentarse en un razonamiento claro de las causas por las que no se otorga. Cuando éstos dos, no consientan la adopción, podrá suplir el consentimiento el Juez competente preponderando en todo momento el interés superior del menor.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 403.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+El procedimiento para tramitar la adopción será fijado en el Código de Procedimientos Civiles.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 404.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+Sin perjuicio de las nulidades que resulten por las contravenciones a las disposiciones de este Código, será objeto de nulidad absoluta la adopción obtenida en violación a los preceptos referentes a:
+
+a) La edad del adoptado;
+
+b) La diferencia de edad entre el adoptante y el adoptado;
+
+c) La adopción que hubiese tenido un hecho ilícito como antecedente necesario, incluido el abandono supuesto o aparente del menor proveniente de la comisión de un delito del cual hubiera sido víctima el mismo o sus padres; y
+
+d) La adopción simultánea por más de una persona, salvo en los supuestos permitidos por la ley.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 405.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+El Juez de lo Familiar que apruebe la adopción remitirá copia de las diligencias respectivas al Registro Civil del Distrito Federal, para que levante el acta respectiva.
+
+En el caso de que el registro de nacimiento del adoptado se hubiese llevado en entidad distinta al Distrito Federal, el Juez de lo Familiar, remitirá las constancias del registro de adopción a su homólogo para los efectos del artículo 87 de este Código.
+
+> <small>(ADICIONADO Y REUBICADO, G.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 406.
 
-(DEROGADO, G.O. 25 DE MAYO DE 2000)
+La resolución judicial se guardará en el apéndice del acta, quedando absolutamente prohibido dar información sobre ella, excepto en los siguientes casos y siempre que sea por orden del Juez competente:
+
+I. Para efectos de impedimento para contraer matrimonio; y
+
+II. Cuando el adoptado mayor de edad desee conocer sus antecedentes familiares; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
+
+(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 25 DE MAYO DE 2000) (REUBICADA, G.O. 15 DE JUNIO DE 2011)
 
 #### SECCION SEGUNDA. De la Adopción Simple
 
@@ -3225,37 +3285,21 @@ Levantada ésta, el Juez del Registro Civil remitirá las constancias de dicho r
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(DEROGADA, G.O. 15 DE JUNIO DE 2011)</small>
 
 #### SECCION TERCERA. De los efectos de la adopción
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2004)</small>
-
 ###### ARTICULO 410-A.
 
-El adoptado en adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos del matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo.
-
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con la familia de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado o tenga una relación de concubinato con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resulten de la filiación consanguínea.
-
-La adopción es irrevocable.
+(DEROGADO, G.O. 15 DE JUNIO DE 2011)
 
 ###### ARTICULO 410-B.
 
 (DEROGADO, G.O. 9 DE JUNIO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE MAYO DE 2000)</small>
-
 ###### ARTICULO 410-C.
 
-El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-I.- Para efectos de impedimento para contraer matrimonio, y
-
-> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 1998)</small>
-
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+(DEROGADO, G.O. 15 DE JUNIO DE 2011)
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14196,3 +14240,11 @@ SEGUNDO.- Se abroga la actual Ley de Propiedad en Condominio de Inmuebles para e
 TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles a partir de la publicación de la presente Ley para emitir su Reglamento.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE JUNIO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Todos los procesos iniciados con anterioridad a la entrada en vigor a la presente reforma se concluirán conforme a las disposiciones anteriores.
+
+Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
