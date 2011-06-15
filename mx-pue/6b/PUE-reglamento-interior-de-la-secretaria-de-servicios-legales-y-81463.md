@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-servicios-legales-y-814
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2011-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS LEGALES Y DEFENSORIA PUBLICA DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS LEGALES Y DEFENSORIA PUBLICA DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA NOTA ACLARATORIA PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE JUNIO DE 2011.</small>
 
 Reglamento publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -61,8 +61,6 @@ IV. Secretario: El titular de la Secretaría; y
 
 V. Dependencias o entidades: Las unidades administrativas de la administración pública estatal, centralizada y paraestatal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 3.
 
 Para la planeación, programación, ejercicio de las atribuciones y despacho de los asuntos de su competencia, la Secretaría se auxiliará y contará, al menos, con la siguiente estructura y unidades administrativas:
@@ -71,7 +69,9 @@ l. Secretaría;
 
 II. Subsecretaría Consultiva;
 
-II.1. Dirección de Convenios y Contrato (sic);
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+II.1. Dirección de Convenios y Contratos;
 
 II.2. Dirección de Normatividad Administrativa;
 
@@ -399,31 +399,39 @@ VIII. Implementar los mecanismos para la localización y recuperación de inform
 
 #### SECCIÓN I. DE LA SUBSECRETARÍA CONTENCIOSA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 15.
 
 La Subsecretaría Contenciosa dependerá directamente del Secretario y para el despacho de los asuntos tendrá, además de las atribuciones previstas en el artículo 8 del presente Reglamento, las siguientes:
 
-l. Proponer los términos de los medios preparatorios de juicio, medidas precautorias, demandas, contestaciones y reconvenciones; ofrecer y desahogar pruebas, articular y absolver posiciones, formular alegatos, solicitar la suspensión o diferimiento de las audiencias, pedir se dicte sentencia, recusar, desistirse de la instancia o de la acción, interponer los recursos que procedan, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar y demás actos de los procedimientos de cualquier materia, en aquellos asuntos en los que el Gobernador o la Secretaría sean parte o tengan interés; además realizar todas las actividades que sean necesarias para la substanciación de los procesos respectivos, pedir se dicte sentencia, incluso colaborar en la ejecución de las resoluciones que se dicten; y en general, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+l. Proponer los términos de los medios preparatorios de juicio, medidas precautorias, demandas, contestaciones y reconvenciones; para ofrecer y desahogar pruebas, articular y absolver posiciones, formular alegatos, solicitar la suspensión o diferimiento de las audiencias, pedir se dicte sentencia, recusar, desistirse de la instancia o de la acción, interponer los recursos que procedan, celebrar transacciones, solicitar la suspensión o diferimiento de las audiencias, alegar y demás actos de los procedimientos de cualquier materia, en aquellos asuntos en los que el Gobernador o la Secretaría sean parte o tengan interés; además para realizar todas las actividades necesarias en la substanciación de los procesos respectivos, incluso colaborar en la ejecución de las resoluciones que se dicten; y cuando proceda, ejercer las mismas atribuciones que un mandatario con todas las facultades generales y particulares que requieran cláusulas especiales conforme a la ley;
 
 II. Instruir los cursos de acción en los litigios, cuando las dependencias y entidades lo soliciten;
 
 III. Proponer los términos de los informes en las controversias constitucionales, acciones de inconstitucionalidad y juicios de amparo en los que sea señalado el Gobernador como autoridad responsable o parte, así como en aquellos donde intervenga la Secretaría;
 
-IV. Intervenir en asuntos en conciliación o contenciosos jurisdiccionales, para lo cual aportará los medios de convicción que estén a su alcance y sean procedentes, en los que el Poder Ejecutivo sea parte o tenga interés y en los que intervenga la Secretaría;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+IV. Intervenir en asuntos en conciliación o contenciosos jurisdiccionales, para lo cual aportará los medios de convicción que estén a su alcance y sean procedentes, en los que el Titular del Poder Ejecutivo sea parte o tenga interés y en los que intervenga la Secretaría;
 
 V. Fungir como delegado en las controversias constitucionales, acciones de inconstitucionalidad y juicios de amparo en los cuales el Secretario sea parte o represente al Gobernador;
 
-VI. Fungir como coadyuvante del Ministerio Público ante las autoridades judiciales federales o del fuero común, en los asuntos en que el Ejecutivo del Estado tenga el carácter de ofendido, para los efectos del pago de la reparación de daños y perjuicios, otorgar el perdón en los casos que proceda y realizar cualquier acto que resulte necesario para la defensa de los intereses del Gobernador o de la Secretaría;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+VI. Fungir como coadyuvante del Ministerio Público ante las autoridades judiciales federales o del fuero común, en los asuntos en que el Ejecutivo del Estado tenga el carácter de ofendido, para los efectos del pago de la reparación de daños y perjuicios; otorgar el perdón en los casos que proceda y realizar cualquier acto que resulte necesario para la defensa de los intereses del Gobernador o de la Secretaría;
 
 VII. Presentar denuncias o querellas y promover demandas y juicios de cualquier naturaleza, dentro o fuera del Estado de Puebla, en contra de personas físicas o morales en defensa de los intereses del Ejecutivo del Estado o del Secretario;
 
 VIII. Establecer con los distintos órdenes de gobierno, en el ámbito de su competencia, la comunicación relativa a los asuntos a su cargo y, en su caso, obtener la información y documentación necesaria para la adecuada tramitación de los mismos;
 
-IX. Instruir la tramitación, sustanciación y eventual conclusión de los recursos administrativos que le correspondan resolver al Gobernador y que no sean competencia de otras dependencias de la administración pública estatal, así como de aquéllos que sean competencia de la propia Secretaría;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
 
-X. Asesorar; por instrucciones del Secretario, a las dependencias y entidades que lo soliciten en materia de procedimientos jurisdiccionales en los que sean parte o tengan interés jurídico; y
+IX. Instruir la tramitación, sustanciación y eventual conclusión de los recursos administrativos que le corresponda resolver al Gobernador y que no sean competencia de otras dependencias de la administración pública estatal, así como de aquellos que sean competencia de la propia Secretaría;
+
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+X. Asesorar, por instrucciones del Secretario, a las dependencias y entidades que lo soliciten en materia de procedimientos jurisdiccionales en los que sean parte o tengan interés jurídico; y
 
 XI. Establecer los criterios de priorización en la atención de los asuntos a las unidades administrativas de su adscripción.
 
@@ -447,15 +455,15 @@ VI. Formular denuncias o querellas en contra de personas físicas o morales en d
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTÍCULO 17.
 
 La Dirección de Procedimiento Contencioso Administrativo formará parte de la Subsecretaría Contenciosa y tendrá, además de las atribuciones previstas en el artículo 10 del presente Reglamento, las siguientes:
 
 l. Emitir opiniones y resolver las consultas que le sean planteadas en materia de procedimiento administrativo contencioso; así como aquellas encomendadas por solicitud de las dependencias y entidades de la administración pública estatal;
 
-II. Elaborar los informes previos y justificados de los juicios de amparo en materia administrativa;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+II. Elaborar los informes previos y justificados de los juicios de amparo en materia administrativa que le sean encomendados;
 
 III. Gestionar aquellos asuntos que le sean encomendados, relacionados con los procedimientos administrativos contenciosos de las dependencias y entidades de la administración pública del Estado;
 
@@ -661,11 +669,11 @@ XI. Formular y proponer al Secretario las estrategias y mecanismos para compilar
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE INVESTIGACIÓN Y COMPILACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
-La Dirección de Análisis y Compilación formará parte de la Dirección General de Estudios y Proyectos Legislativos y tendrá, además de las atribuciones previstas en el artículo 10 del presente Reglamento, las siguientes:
+La Dirección de Investigación y Compilación formará parte de la Dirección General de Estudios y Proyectos Legislativos y tendrá, además de las atribuciones previstas en el artículo 10 del presente Reglamento, las siguientes:
 
 l. Elaborar y proponer materiales y programas de investigación, análisis y difusión tendentes a extender los conocimientos jurídicos en el personal de las dependencias y entidades de la administración pública estatal;
 
@@ -682,8 +690,6 @@ VI. Mantener actualizado el texto de los ordenamientos que conforman el banco de
 VII. Promover la difusión y consulta al banco de datos que integra el orden jurídico estatal, a través de publicaciones y estudios relativos a la investigación jurídica.
 
 #### SECCIÓN V. DE LA DIRECCIÓN GENERAL ADMINISTRATIVA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
 
 ###### ARTÍCULO 28.
 
@@ -727,11 +733,13 @@ XVIII. Coordinar la planeación, desarrollo administrativo e informático de la 
 
 XIX. Coordinar con las demás unidades administrativas la elaboración de las Estadísticas de la Secretaría;
 
-XX. Supervisar, conforme a la normatividad aplicable, el manejo de las cuentas bancarias de la Secretaría para la operación del gasto público de la dependencia;
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
 
-XXI. Coordinar con la Secretaría General de Gobierno, el establecimiento, control y evaluación del Programa Interno de Protección Civil; y
+XX. Supervisar, conforme a la normatividad aplicable, el manejo de las cuentas bancarias de la Secretaría para la operación del gasto público de la dependencia; y
 
-XXII. Coadyuvar, conforme a las normas y políticas aplicables, en el desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo de los servidores públicos de la Secretaría.
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
+
+XXI. Coordinar con la Secretaría General de Gobierno, el establecimiento, control y evaluación del Programa Interno de Protección Civil.
 
 #### SECCIÓN VI. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
 
@@ -799,11 +807,11 @@ II. Los Subsecretarios y los Directores Generales, por los directores que ejerza
 
 III. Los Directores, por los jefes de departamentos adscritos, que los auxilien en el asunto del cual se trate.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P.O. 15 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 34.
 
-En los casos de ausencias temporales por más de quince días de los Subsecretarios y Directores Generales, el Secretario podrá autorizar por escrito a los funcionarios subalternos para que realicen en ausencia del titular las atribuciones que les correspondan.
+En los casos de ausencias temporales por más de quince días de los Subsecretarios, Directores Generales y Directores, el Secretario podrá autorizar por escrito a los funcionarios subalternos para que realicen en ausencia del titular las atribuciones que les correspondan.
 
 En el caso del Secretario, se deberá observar lo dispuesto por la Ley Orgánica de la Administración Pública del Estado.
 
