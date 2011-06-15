@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2010-09-22"
+last_updated: "2011-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -126,6 +126,12 @@ Dentro de estos periodos, el Ministerio Público cuidará de que los tribunales 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 Dentro del procedimiento judicial de primera y segunda instancia, hasta antes de que cause ejecutoria la sentencia, los jueces o magistrados deberán propiciar la conciliación entre las partes, en aquellos delitos que se persigan por querella de parte y que no se trate de delitos graves.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+
+En los delitos a que se refiere el párrafo anterior, el Ministerio Público o el juez, según corresponda, de oficio, harán del conocimiento del inculpado, la víctima y el ofendido, de los beneficios que brindan los procedimientos alternativos de solución de controversias, al presentarse la querella o al emitirse el auto de radicación, en su caso, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda y notificará a las partes para que si es su voluntad se sometan al mismo.
 
 ###### ARTICULO 4o.
 
@@ -2057,9 +2063,11 @@ VI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
 
 VII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acusado;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- La conciliación, prevista en los términos del Código Penal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+
+VIII. La conciliación, prevista en los términos del Código Penal, o la solución del conflicto conforme a la Ley de Justicia Alternativa para el Estado de Nayarit.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3610,3 +3618,7 @@ P.O. 20 DE MARZO DE 2010.
 P.O. 22 DE SEPTIEMBRE DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
