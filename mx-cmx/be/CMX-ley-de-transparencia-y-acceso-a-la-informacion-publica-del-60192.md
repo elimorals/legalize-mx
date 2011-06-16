@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6019
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-28"
-last_updated: "2009-04-13"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60192&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-03-07"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 28 de marzo de 2008.
 
@@ -440,9 +440,13 @@ V. La información que muestre el estado que guardan los bienes asignados, inclu
 
 VI. Sobre el ejercicio del presupuesto deberá publicarse el calendario trimestral sobre la ejecución de las aportaciones federales y locales, pudiendo identificar el programa para el cual se destinaron y, en su caso, el monto del gasto asignado;
 
-VII. En el caso de la información sobre programas de subsidio, se deberá considerar toda aquella información sobre los programas sociales; y
+VII. En el caso de la información sobre programas de subsidio, se deberá considerar toda aquella información sobre los programas sociales; y (sic)
 
 VIII. Los Programas de Desarrollo Delegacionales, vinculados con sus programas operativos anuales y sectoriales y los respectivos indicadores de gestión que permitan conocer las metas, por unidad responsable, así como los avances físico y financiero, para cada una de las metas. Sobre los indicadores de gestión se deberá difundir, además, el método de evaluación con una justificación de los resultados obtenidos y el monto de los recursos públicos asignados para su cumplimiento.
+
+> <small>(ADICIONADA, G.O. 16 DE JUNIO DE 2011)</small>
+
+IX. La información desagregada sobre el presupuesto que destinaran al rubro de mercados, así como el padrón de locatarios, nombre y ubicación de los mercados públicos en su demarcación territorial.
 
 ###### Artículo 19.
 
@@ -1489,3 +1493,9 @@ G.O. 13 DE ABRIL DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 16 DE JUNIO DE 2011.
+
+PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
