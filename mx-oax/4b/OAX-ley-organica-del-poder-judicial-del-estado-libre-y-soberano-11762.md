@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-117
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-16"
-last_updated: "2007-08-31"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de octubre de 1999.
 
@@ -535,9 +535,13 @@ V. Las que se otorguen para comisiones que deban desarrollarse dentro del propio
 
 En el Estado habrá los Juzgados Penales, Civiles, Familiares, de Garantía o de Control de Legalidad, de Juicio Oral para Adultos, Especializados para Adolescentes, de Ejecución de Sanciones y Mixtos que sean necesarios para la pronta y expedita administración de justicia.
 
-> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-La jurisdicción de primera instancia en materia penal adversarial oral y de justicia para adolescentes comprende a los Jueces de Garantía o de Control de Legalidad, a los de Juicio Oral y de Ejecución.
+La jurisdicción de primera instancia en materia penal adversarial oral y de justicia para adolescentes comprende a los Jueces de Garantía, de Control de Legalidad, a los de Juicio Oral y de Ejecución de Sanciones.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+La Jurisdicción de primera instancia en material (sic) penal del sistema tradicional comprende a los Jueces Penales, Mixtos y de Ejecución de Sanciones.
 
 Los Juzgados se identificarán por el orden que les corresponda, según la materia y por el lugar de su residencia; podrán agruparse en circuitos y distritos judiciales en la forma y términos que determine el Pleno.
 
@@ -611,7 +615,9 @@ V. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
 VI. (DEROGADA, P.O. 31 DE AGOSTO DE 2007)
 
-VII. Practicar visitas por lo menos una vez cada quince días si son Jueces Penales o Mixtos a los reclusorios de su territorio, levantando acta, la que remitirán desde luego al Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+VII. Practicar visitas por lo menos una vez cada dos meses si son Jueces Penales o Mixtos a los reclusorios donde se encuentren internados los procesados o sentenciados a su disposición, levantando el acta, la que remitirán desde luego al Presidente del Tribunal Superior de Justicia;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -673,25 +679,43 @@ Los Jueces residirán en el domicilio donde se ubique el Juzgado al que estén a
 
 Cuando el Juez tuviera impedimento legal para conocer en determinados asuntos, será sustituido por el Juez de igual categoría más próximo geográficamente o por el que resulte más próximo atendiendo a la mejor comunicación, o por el que indique la Sala que conozca del impedimento.
 
-(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
-ARTICULO 39 BIS.- En los Juzgados de Garantía o Control de Legalidad y en los Tribunales de Juicio Oral deberá nombrarse un administrador, con las siguientes atribuciones:
+ARTICULO 39 BIS.- En los Juzgados de Garantía, Control de Legalidad, en los Tribunales de Juicio Oral y en los Juzgados de Ejecución de Sanciones del sistema adversarial oral, deberá nombrarse un administrador, con las siguientes atribuciones:
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 I. Dirigir las labores administrativas del Juzgado de su adscripción;
 
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
 II. Vigilar y controlar el buen desempeño de los funcionarios y empleados a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
 
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
 IV. Remitir a la Presidencia del Tribunal Superior, un informe estadístico anual dentro de los primeros cinco días hábiles del mes de enero y otro mensual en igual término sobre los trámites realizados en los juzgados o tribunales, siendo sujeto de responsabilidad administrativa por omisión;
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
 
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
 VI. Custodiar los bienes y valores que se encuentren a disposición del Tribunal con motivo de la tramitación de los asuntos;
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
 
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
+
 VIII. Distribuir los asuntos entre los jueces por turno riguroso, respetando la agenda previamente establecida; y
+
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2007) (F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)
 
 IX. Las demás que determinen las leyes respectivas.
 
@@ -713,9 +737,9 @@ Los requisitos para ser Secretario de Acuerdos, de Estudio y Cuenta y Ejecutores
 
 ARTICULO 40 BIS.- Los Juzgados se integrarán con los Jueces, secretarios, auxiliares, funcionarios y empleados que sean necesarios para el servicio público, conforme determine el Pleno del Tribunal Superior y autorice el presupuesto.
 
-> <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-Los Juzgados de Garantía o Control de Legalidad y Tribunales Orales, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del Juzgado y Tribunal.
+Los Juzgados de Garantía, Control de Legalidad, Tribunales Orales y de Ejecución de Sanciones, se integrarán con los servidores públicos que sean necesarios para el buen funcionamiento del Juzgado y Tribunal.
 
 El Pleno podrá determinar que sean prestados servicios comunes de notificación, ejecución, oficialías de parte y otras áreas para varios juzgados de un mismo distrito o circuito judicial.
 
@@ -1426,3 +1450,17 @@ SEGUNDO.- Queda vigente el artículo séptimo transitorio de la Ley Orgánica de
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente ley.
 
 CUARTO.- El Pleno del Tribunal Superior de Justicia, en cumplimiento a lo dispuesto en la fracción XIX del artículo 13, dentro de los treinta días siguientes al inicio de su vigencia, elaborará y aprobará el Reglamento Interno de la misma; en tanto los problemas de interpretación que surjan serán resueltos por el Presidente del Tribunal Superior de Justicia.
+
+P.O. 16 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Cuando el Código de Procedimientos Penales para el Estado de Oaxaca se refiera al reo, se entenderá que se trata del sentenciado.
+
+TERCERO.- Las personas que hubieren sido sentenciadas con antelación a la entrada en vigor del presente decreto, que se encuentren privadas de su libertad en centros de reinserción social, así como aquellas que estén restringidas de su libertad bajo alguna medida de seguridad, o que estén gozando del beneficio de la libertad anticipada, tratamiento preliberacional o semilibertad concedida en sentencia quedarán a disposición de la autoridad judicial para efectos de la ejecución técnica de la sentencia.
+
+CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades sobre ejecución, modificación y duración de las penas impuestas por la autoridad judicial, que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, otorga a la Dirección de Reinserción Social, serán ejercidas por los Jueces de Ejecución de Sanciones.
+
+QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
+
+SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
