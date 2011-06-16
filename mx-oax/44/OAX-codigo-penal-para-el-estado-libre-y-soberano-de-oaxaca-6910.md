@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-04-07"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -879,7 +879,9 @@ La substitución no se otorgará a los reincidentes en delito doloso.
 
 81.- Para que la substitución surta efectos, el sentenciado: a) Dentro de un plazo de cinco días deberá cubrir el importe de la reparación del daño, de la multa directa y de la multa substitutiva, según el caso; y b) Protestar cumplir las obligaciones señaladas en la fracción III del artículo 85.
 
-El beneficiado que entre a compurgar la prisión conserva el derecho a exhibir los importes mencionados en el párrafo anterior en cualquier momento. Satisfecho el requisito, se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+El beneficiado que entre a compurgar la prisión conserva el derecho a exhibir los importes mencionados en el párrafo anterior en cualquier momento. Satisfecho el requisito, se hará del conocimiento de la Dirección de Reinserción Social para que lo ponga en libertad.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -931,9 +933,9 @@ e).- Observará buena conducta.
 
 86. El juzgador otorgará un plazo de cinco días para que el sentenciado cubra el importe de la reparación del daño, de la multa y de la garantía. Si concluido el plazo no se satisface el requisito mencionado, se procederá a la ejecución de la sentencia.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-87.- El beneficiado conserva el derecho a exhibir el importe de la reparación del daño, de la multa y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
+87.- El beneficiado conserva el derecho a exhibir el importe de la reparación del daño, de la multa y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que se hará del conocimiento de la Dirección de Reinserción Social para que lo ponga en libertad.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -963,9 +965,9 @@ En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a po
 
 Del órgano ejecutor.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-93.- Corresponde al Ejecutivo del Estado la ejecución de las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
+93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1001,9 +1003,9 @@ II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un
 
 96.- Son delitos políticos los previstos en el artículo 151.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-97.- Cuando el reo acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, el Ejecutivo del Estado podrá modificar aquélla, siempre que la modificación no sea esencial.
+97.- Cuando el sentenciado acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la autoridad judicial respectiva podrá modificar aquélla, siempre que la modificación no sea esencial.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1065,9 +1067,9 @@ El perdón del ofendido y del legitimado para otorgarlo también extingue la eje
 
 Reconocimiento de inocencia e indulto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales y se estará a lo dispuesto en el artículo 50 de este Código.
+102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales o Procesal Penal, según sea el caso, y se estará a lo dispuesto en el artículo 50 de este Código.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1083,9 +1085,13 @@ Reconocimiento de inocencia e indulto.
 
 I.- En los delitos políticos, según su prudencia y discreción; y
 
-II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva readaptación social.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciséis años.
+II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva reinserción social.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3698,3 +3704,17 @@ P.O. 2 DE OCTUBRE DE 2010.
 P.O. 7 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Cuando el Código de Procedimientos Penales para el Estado de Oaxaca se refiera al reo, se entenderá que se trata del sentenciado.
+
+TERCERO.- Las personas que hubieren sido sentenciadas con antelación a la entrada en vigor del presente decreto, que se encuentren privadas de su libertad en centros de reinserción social, así como aquellas que estén restringidas de su libertad bajo alguna medida de seguridad, o que estén gozando del beneficio de la libertad anticipada, tratamiento preliberacional o semilibertad concedida en sentencia quedarán a disposición de la autoridad judicial para efectos de la ejecución técnica de la sentencia.
+
+CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades sobre ejecución, modificación y duración de las penas impuestas por la autoridad judicial, que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, otorga a la Dirección de Reinserción Social, serán ejercidas por los Jueces de Ejecución de Sanciones.
+
+QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
+
+SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
