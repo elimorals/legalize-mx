@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-05-03"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -59,7 +59,9 @@ LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE T
 
 1. El Congreso tendrá la organización y funcionamiento que establecen la Constitución General de la República, la Constitución Política del Estado, esta ley y los acuerdos parlamentarios que el propio Poder Legislativo emita en ejercicio de sus atribuciones constitucionales y legales.
 
-2. Esta ley establece las normas de organización interna del Congreso, los preceptos para la integración de los grupos parlamentarios, las disposiciones de comportamiento parlamentario y sanciones aplicables a su infracción, así como los procedimientos para el desahogo de las atribuciones que corresponden al Poder Legislativo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+2. Esta ley establece las normas de organización interna del Congreso, los preceptos para la integración de las diversas formas de agrupación por afiliación partidista, las disposiciones de comportamiento parlamentario y sanciones aplicables a su infracción, así como los procedimientos para el desahogo de las atribuciones que corresponden al Poder Legislativo.
 
 3. Esta ley y sus adiciones y reformas no necesitarán de promulgación del Ejecutivo para tener vigencia, ni podrán ser objeto de observaciones y serán publicadas inmediatamente en el Periódico Oficial del Estado.
 
@@ -139,17 +141,17 @@ El Presidente dirá entonces: "Si así lo hicieran, la nación y el Estado se lo
 
 4. Los diputados electos que no hubieren asistido a la sesión a la que se refiere este artículo, rendirán su protesta ante el presidente de la Mesa Directiva en funciones en la primera sesión a que concurran.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 11.
 
-Conforme a los supuestos previstos por esta ley para la conformación de los grupos parlamentarios, los partidos políticos cuyos candidatos figuren como diputados electos en el informe del Consejo General del Instituto Electoral de Tamaulipas comunicarán al Congreso, a más tardar el 29 de septiembre del año de la elección, la integración de su grupo parlamentario, acompañando lo siguiente:
+Conforme a los supuestos previstos por esta ley para la conformación de las diversas formas de agrupación por afiliación partidista, los partidos políticos cuyos candidatos figuren como diputados electos en el informe del Consejo General del Instituto Electoral de Tamaulipas comunicarán al Congreso, a más tardar el 29 de septiembre del año de la elección, la integración de estas, acompañando lo siguiente:
 
-a) La denominación del grupo parlamentario;
+a) La denominación;
 
-b) El documento en el que consten los nombres de los diputados electos que lo forman; y
+b) El documento en el que consten los nombres de los diputados electos que las forman; y
 
-c) El nombre del coordinador del grupo parlamentario.
+c) El nombre del coordinador o representante.
 
 ###### ARTICULO 12.
 
@@ -239,7 +241,9 @@ b) Asegurar el desarrollo de las sesiones del Pleno;
 
 c) Llevar a cabo la interpretación de las normas de esta ley y de los demás ordenamientos relativos a la actividad parlamentaria que se requiera para el cumplimiento de sus atribuciones, así como para la adecuada conducción de las sesiones;
 
-d) Determinar, durante las sesiones, las formas que puedan adoptarse en los debates, discusiones y deliberaciones, tomando en cuenta las propuestas de los grupos parlamentarios;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+d) Determinar, durante las sesiones, las modalidades que puedan adoptarse en los debates, discusiones y deliberaciones, tomando en cuenta las propuestas de las diversas formas de agrupación por afiliación partidista;
 
 e) Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su formulación y presentación;
 
@@ -263,7 +267,9 @@ h) Las demás que le atribuyen esta ley, los ordenamientos relativos a la activi
 
 2. En materia de dirección parlamentaria, el presidente de la Mesa Directiva conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno del Distrito Federal. También le corresponde la representación protocolaria del Congreso en encuentros con instituciones parlamentarias nacionales y del exterior.
 
-3. Al dirigir las sesiones, el presidente de la Mesa Directiva velará por el equilibrio entre las libertades de los legisladores y los grupos parlamentarios, y la eficacia en el cumplimiento de las funciones constitucionales del Congreso. En todo momento, hará prevalecer el interés general del Congreso por encima de los intereses particulares o de grupo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+3. Al dirigir las sesiones, el presidente de la Mesa Directiva velará por el equilibrio entre las libertades de los legisladores y las diversas formas de agrupación por afiliación partidista, y la eficacia en el cumplimiento de las funciones constitucionales del Congreso. En todo momento, hará prevalecer el interés general del Congreso por encima de los intereses particulares o de grupo.
 
 4. Cuando en el ejercicio de sus atribuciones se aparte de las disposiciones que rigen su desempeño, el presidente de la Mesa Directiva solo responderá ante el Pleno del Congreso.
 
@@ -329,11 +335,15 @@ i) Las demás que les atribuyan la Constitución Política del Estado, esta ley 
 
 2. La Mesa Directiva acordará el orden de actuación y desempeño de los secretarios en las sesiones del Pleno.
 
-### CAPITULO TERCERO. DE LOS GRUPOS PARLAMENTARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2011)</small>
+
+### CAPITULO TERCERO. DE LAS FORMAS DE AGRUPACION POR AFILIACION PARTIDISTA
 
 ###### ARTICULO 24.
 
-1. En términos de lo dispuesto por el artículo 40 de la Constitución Política del Estado, el grupo parlamentario es el conjunto de diputados según su afiliación de partido, con objeto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+1. En términos de lo dispuesto en el artículo 40 de la Constitución Política del Estado, los grupos parlamentarios, las fracciones parlamentarias y las representaciones partidistas constituyen las diversas formas de agrupación por afiliación partidista hacia el interior del Congreso del Estado, a través de las cuales se impulsan los entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones constitucionales que correspondan al Poder Legislativo.
 
 2. El grupo parlamentario se integra por lo menos con tres diputados y solo habrá uno por cada partido político que cuente con legisladores en el Congreso.
 
@@ -347,31 +357,55 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 4. Los documentos constitutivos de los grupos parlamentarios mencionados en el párrafo anterior se publicarán en un número especial del Diario de los Debates.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+5. El coordinador expresa la voluntad del grupo parlamentario en los asuntos inherentes a la dirección política del Congreso, a la luz del ejercicio de sus funciones constitucionales. A su vez, promueve los entendimientos necesarios para la adopción y emisión de resoluciones que competen al Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+6. El coordinador de cada grupo parlamentario participa con voz y voto en la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+7. Si durante el ejercicio de la Legislatura ocurren modificaciones en la integración de los grupos parlamentarios, sus coordinadores harán la comunicación pertinente a la Mesa Directiva. Con base en esas comunicaciones, el presidente de la Mesa Directiva llevará el registro del número de integrantes de cada grupo parlamentario y sus modificaciones. Dicha información se mantendrá al día en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+8. Los grupos parlamentarios proporcionan información, otorgan asesoría y preparan los elementos necesarios para articular el trabajo parlamentario de sus miembros, a fin de proveer al desempeño de las funciones constitucionales que corresponden al Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 25.
 
-1. El coordinador expresa la voluntad del grupo parlamentario en los asuntos inherentes a la dirección política del Congreso, a la luz del ejercicio de sus funciones constitucionales.
+1. La fracción parlamentaria se integra con dos diputados y solo habrá una por cada partido político que cuente con ese número de legisladores.
 
-2. A su vez, promueve los entendimientos necesarios para la adopción y emisión de resoluciones que competen al Poder Legislativo.
+2. Para su constitución las fracciones parlamentarias, observarán en lo conducente las disposiciones inherentes a los grupos parlamentarios establecidas en el artículo que antecede.
 
-3. El coordinador de cada grupo parlamentario participa con voz y voto en la Junta de Coordinación Política.
+3. Uno de los dos diputados que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Coordinación Política, únicamente con voz.
 
-4. Si durante el ejercicio de la Legislatura ocurren modificaciones en la integración de los grupos parlamentarios, sus coordinadores harán la comunicación pertinente a la Mesa Directiva. Con base en esas comunicaciones, el presidente de la Mesa Directiva llevará el registro del número de integrantes de cada grupo parlamentario y sus modificaciones. Dicha información se mantendrá al día en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 26.
 
-Los grupos parlamentarios proporcionan información, otorgan asesoría y preparan los elementos necesarios para articular el trabajo parlamentario de sus miembros, a fin de proveer al desempeño de las funciones constitucionales que corresponden al Congreso.
+1. El diputado que sea único en cuanto a la representación de algún partido político, por si solo constituirá una representación partidista, que al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Coordinación Política, teniendo solo derecho a voz.
+
+2. En lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 27.
 
-1. En términos de la representación de cada grupo parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta dispondrá una subvención mensual para cada grupo parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de diputados que conformen cada grupo.
+1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria o representación partidista, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta dispondrá una subvención mensual para cada forma de organización partidista, integrada por una suma fija de carácter general y otra variable, en función del número de diputados.
 
-2. La cuenta trimestral de las subvenciones que se asignen a los grupos parlamentarios se incorporará a la cuenta pública del Congreso, correspondiente a cada trimestre.
+2. La cuenta trimestral de las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas se incorporará a la cuenta pública del Congreso, correspondiente a cada trimestre.
 
-3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a los grupos parlamentarios estará a cargo de la Mesa Directiva del Congreso. En todo caso, los coordinadores de los grupos parlamentarios formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá con base en la representatividad de cada grupo parlamentario en orden decreciente, el número de grupos conformados y las características del Salón de Sesiones.
+3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Mesa Directiva del Congreso. En todo caso, los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas, formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá lo conducente.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 28.
 
-Los diputados que decidan no pertenecer a un grupo parlamentario o dejar de pertenecer a uno de ellos sin integrarse a otro existente, serán considerados como diputados sin partido. Se les guardarán las mismas consideraciones que a los demás legisladores y, conforme a la disponibilidad material y presupuestal del Congreso, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales.
+Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parlamentaria o representación partidista o dejar de pertenecer a uno de ellos, sin integrarse a otra forma de organización partidista, serán considerados como diputados sin partido. Se les guardarán las mismas consideraciones que a los demás legisladores y, conforme a la disponibilidad material y presupuestal del Congreso, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales.
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
@@ -379,7 +413,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario o dejar de pert
 
 ###### ARTICULO 29.
 
-1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
 
 2. Será presidente de la Junta durante la Legislatura, el coordinador del grupo parlamentario que, por sí mismo, cuente con la mayoría absoluta de los integrantes del Congreso.
 
@@ -391,7 +427,9 @@ Los diputados que decidan no pertenecer a un grupo parlamentario o dejar de pert
 
 1. En caso de ausencia temporal o definitiva del presidente de la Junta de Coordinación Política, el grupo parlamentario al cual pertenezca informará de inmediato al presidente de la Mesa Directiva y a la propia Junta, el nombre del diputado que lo sustituirá.
 
-2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados de las representaciones partidistas que se declaren diputados sin partido, dejaran de formar parte de la Junta de Coordinación Política.
 
 ###### ARTICULO 31.
 
@@ -400,6 +438,8 @@ Los diputados que decidan no pertenecer a un grupo parlamentario o dejar de pert
 2. En la Junta de Coordinación Política se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, a fin de que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
 ###### ARTICULO 32.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JUNIO DE 2011)</small>
 
 1. Son atribuciones de la Junta de Coordinación Política:
 
@@ -419,7 +459,9 @@ g) Impulsar el trabajo de las comisiones ordinarias para la elaboración y el cu
 
 h) Proponer al Pleno los nombramientos de secretario general y demás colaboradores del Congreso, con base en lo que señala esta ley;
 
-i) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, y
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+i) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas; y
 
 j) Las demás que le atribuye esta ley o los ordenamientos relativos a la actividad parlamentaria.
 
@@ -593,9 +635,13 @@ Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
-3. Al proponer la integración de las comisiones, la Junta de Coordinación Política señalará en quienes recaerá la responsabilidad de fungir como presidente y como secretario. Al hacerlo, tomará en cuenta los antecedentes y la experiencia parlamentaria de los diputados, y cuidará que su propuesta incorpore a los diputados pertenecientes a los distintos grupos parlamentarios, de tal suerte que se refleje la proporción que representen en el Pleno.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-4. En su propuesta, la Junta de Coordinación Política buscará incluir dentro de las comisiones de su preferencia a los integrantes de los grupos parlamentarios cuya dimensión no les permita participar en la totalidad de las comisiones establecidas por esta ley.
+3. Al proponer la integración de las comisiones, la Junta de Coordinación Política señalará en quienes recaerá la responsabilidad de fungir como presidente y como secretario. Al hacerlo, tomará en cuenta los antecedentes y la experiencia parlamentaria de los diputados, y cuidará que su propuesta incorpore a los diputados pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que se refleje la proporción que representen en el Pleno.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+4. En su propuesta, la Junta de Coordinación Política buscará incluir dentro de las comisiones de su preferencia a los integrantes de las diversas formas de agrupación por afiliación partidista cuya dimensión no les permita participar en la totalidad de las comisiones establecidas por esta ley.
 
 5. Si un diputado se separa del grupo parlamentario al que pertenecía en el momento de conformarse las comisiones, el coordinador de dicho grupo podrá solicitar su sustitución.
 
@@ -607,7 +653,9 @@ Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate
 
 2. El coordinador del grupo parlamentario al que pertenezcan los diputados miembros de las comisiones podrá solicitar su sustitución temporal, en caso de ausencia que así lo justifique.
 
-3. Las comisiones podrán establecer subcomisiones o grupos de trabajo para atender el cumplimiento de sus tareas. En este caso se buscará, dentro de lo posible, reflejar la pluralidad de los grupos parlamentarios representados en la comisión.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+3. Las comisiones podrán establecer subcomisiones o grupos de trabajo para atender el cumplimiento de sus tareas. En este caso se buscará, dentro de lo posible, reflejar la pluralidad de las diversas formas de agrupación por afiliación partidista que integra la Legislatura.
 
 ###### ARTICULO 41.
 
@@ -1283,7 +1331,9 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 1. Para la presentación, discusión y votación de los dictámenes relacionados con minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, se aplicarán en lo conducente las previsiones en materia de dictámenes, discusiones y votaciones aplicables al procedimiento legislativo ordinario.
 
-2. La Junta de Coordinación Política podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de los grupos parlamentarios en torno al dictamen formulado, sin demérito de los diputados que deseen hacer uso de la palabra en lo individual.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+2. La Junta de Coordinación Política podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de las diversas formas de agrupación por afiliación partidista en torno al dictamen formulado, sin demérito de los diputados que deseen hacer uso de la palabra en lo individual.
 
 3. La determinación del Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República se expresará en un punto de Acuerdo, mismo que deberá publicarse en el Periódico Oficial del Estado.
 
@@ -1591,7 +1641,9 @@ f) El presidente de la Mesa Directiva hará la declaratoria del cómputo y de la
 
 ###### ARTICULO 115.
 
-1. Si cualquiera de las votaciones previstas en esta ley resulta empatada, el Presidente de la Mesa Directiva dispondrá la repetición de la misma. Los grupos parlamentarios, a través de sus coordinadores, alentarán la formación de entendimientos antes de realizarse la segunda votación.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+1. Si cualquiera de las votaciones previstas en esta ley resulta empatada, el Presidente de la Mesa Directiva dispondrá la repetición de la misma. Los grupos parlamentarios, a través de sus coordinadores, conjuntamente con los representantes de las demás formas de agrupación por afiliación partidista, alentarán la formación de entendimientos antes de realizarse la segunda votación.
 
 2. Cuando en la segunda votación el resultado sea empate, se retirará el asunto del orden del día, a fin de tratarse en la sesión inmediata posterior.
 
@@ -1717,9 +1769,13 @@ a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comi
 
 b) El titular de la dependencia de la administración pública estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso;
 
-c) Cada grupo parlamentario dispondrá de 7 minutos para una intervención general en torno a la comparecencia. El orden de las intervenciones será en orden creciente del número de integrantes de cada grupo parlamentario;
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
-d) Habrá dos rondas de preguntas, concediéndose el uso de la voz en orden creciente de integrantes de los distintos grupos parlamentarios. Los diputados representantes de los grupos parlamentarios dispondrán de 3 minutos para formular sus preguntas y cuestionamientos. Al término de la intervención de los representantes de los distintos grupos parlamentarios, el servidor público compareciente dispondrá de 15 minutos para formular sus respuestas y comentarios. Concluida la primera ronda, se dará paso a la segunda, siguiéndose la misma mecánica;
+c) Cada forma de agrupación por afiliación partidista dispondrá de 7 minutos para una intervención general en torno a la comparecencia. El orden de las intervenciones será en orden creciente del número de integrantes de cada una de estas;
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+d) Habrá dos rondas de preguntas, concediéndose el uso de la voz en orden creciente de integrantes de las diversas formas de agrupación por afiliación partidista. Los diputados participantes dispondrán de 3 minutos para formular sus preguntas y cuestionamientos. Al término de su intervención, el servidor público compareciente dispondrá de 15 minutos para formular sus respuestas y comentarios. Concluida la primera ronda, se dará paso a la segunda, siguiéndose la misma mecánica;
 
 e) Al final de la intervención del servidor público compareciente en cada ronda de preguntas y respuestas, los diputados que hubieran intervenido podrán solicitar la palabra por 2 minutos para realizar consideraciones sobre los comentarios y planteamientos recibidos;
 
@@ -2392,3 +2448,9 @@ P.O. 3 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor a partir de su aprobación, y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
