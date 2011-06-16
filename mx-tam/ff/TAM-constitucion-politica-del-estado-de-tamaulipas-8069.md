@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2011-05-26"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -663,7 +663,9 @@ El Congreso se reunirá para celebrar sus sesiones en los términos que le seña
 
 La estructura del Congreso contemplará un órgano de dirección política, un órgano de dirección parlamentaria, el establecimiento de comisiones para la instrucción de los asuntos que corresponde resolver al Pleno y la organización de los servicios parlamentarios y administrativos necesarios para el cumplimiento de sus funciones.
 
-La ley determinará las formas y procedimientos para la integración de los grupos parlamentarios, según la afiliación de partido de los integrantes del Congreso, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el mismo. Los grupos parlamentarios tendrán la participación que señale la ley en la organización y funcionamiento del Congreso; en su desempeño impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones que la Constitución asigna al Poder Legislativo.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+La Ley determinará las formas y procedimientos para la integración de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el mismo. Dichas formas de agrupación por afiliación partidista tendrán la participación que señale la ley en la organización y funcionamiento del Congreso; en su desempeño impulsan entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones que la Constitución asigna al Poder Legislativo.
 
 La ley establecerá los procedimientos para el desahogo de las atribuciones que corresponden al Congreso.
 
@@ -857,7 +859,7 @@ XV. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye un ataque a la soberanía o independencia del Estado o a la Constitución Federal;
 
-XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
+XVII.- Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -3988,6 +3990,22 @@ P.O. 26 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos en donde los servicios públicos de servicio público de agua potable y alcantarillado estén a cargo del Gobierno del Estado, podrán solicitar, en cualquier momento, la transferencia correspondiente, para efecto de que por su conducto se presten los servicios públicos de agua potable, drenaje, alcantarillado, y tratamiento y disposición de agua a la población de sus respectivos municipios, en términos de lo establecido en el artículo 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos y 132 fracción I de la Constitución Política del Estado de Tamaulipas.
+
+El Ejecutivo del Estado, por conducto de la Comisión Estatal del Agua, dispondrá de manera ordenada la transferencia de los organismos operadores estatales a los respectivos ayuntamientos.
+
+###### ARTÍCULO TERCERO.
+
+Previo a incluir en el precio de cada metro cubico de agua el porcentaje relativo a servicios ambientales, el organismo operador deberá presentar el Programa correspondiente ante el Consejo Directivo respectivo.
 
 ###### ARTÍCULO QUINTO.
 
