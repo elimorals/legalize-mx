@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2009-10-15"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -67,11 +67,25 @@ II. Establecer las bases de coordinación entre el Estado y los municipios, y el
 
 III. Establecer la organización, atribuciones y funcionamiento de la Comisión Estatal del Agua de Tamaulipas;
 
-IV. Sentar las bases para la prestación de los servicios públicos inherentes al agua;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-V. Establecer la organización, atribuciones y funcionamiento de los organismos operadores municipales, regionales e intermunicipales, en su caso, responsables de prestar los servicios públicos inherentes al agua, y
+IV. Establecer las bases y emitir las políticas que permitan evaluar el desempeño de los organismos operadores, en la prestación de los servicios públicos inherentes al agua;
 
-VI. Promover el mejoramiento de la eficiencia física y comercial de los prestadores de los servicios públicos inherentes al agua para que logren la autosuficiencia total en la operación, administración, conservación, mantenimiento y crecimiento de los sistemas relativos a los servicios mencionados.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+V. Establecer la organización, atribuciones y funcionamiento de los organismos operadores municipales, descentralizados del Estado, regionales e intermunicipales, en su caso, responsables de prestar los servicios públicos inherentes al agua; y
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+VI. Establecer e implementar un sistema de índices de gestión que permita monitorear y evaluar el desempeño de los prestadores de servicios públicos inherentes al agua, a fin de supervisar el incremento a su eficiencia física y comercial con el propósito de alcanzar y mantener su autosuficiencia en la operación, administración, conservación, mantenimiento y crecimiento de los sistemas relativos a los servicios mencionados.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+3. En el caso de la fracción VI del párrafo anterior, la evaluación y supervisión de los organismos operadores, corresponde a los municipios, salvo en los casos de los organismos operadores de naturaleza estatal, que en todo caso corresponderá a la Comisión Estatal del Agua.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+4. Sin demerito de lo anterior, los municipios podrán suscribir convenios, para que la evaluación y supervisión de sus organismos operadores de agua, sea a cargo de la Comisión Estatal del Agua.
 
 ###### Artículo 2.
 
@@ -121,103 +135,221 @@ XIX. Desperdicio de Agua: La utilización del agua en cantidades que excedan a l
 
 XX. Desechos: Aquellos residuos en solución o suspensión en el agua que se transportan a través de los sistemas de desalojo y recolección de las aguas residuales.
 
-XXI. Drenaje Pluvial: El servicio público que permite desalojar el agua pluvial de los asentamientos humanos.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXII. Eficiencia Comercial: El indicador de gestión que resulta de dividir los ingresos efectivamente cobrados, entre los ingresos facturados.
+XXI. Distritos de Riego: El establecido mediante Decreto Presidencial, conformado por una o varias superficies previamente delimitadas y dentro de cuyo perímetro se ubica la zona de riego, que cuenta con las obras de infraestructura hidráulica superficiales y del subsuelo, así como con sus vasos de almacenamiento, su zona federal, de protección y demás bienes y obras conexas, todo de propiedad federal, pudiendo establecerse también con una o varias unidades de riego, y cuya administración compete a la Comisión Nacional del Agua;
 
-XXIII. Eficiencia Física: El indicador de gestión que resulta de dividir los metros cúbicos de agua facturados entre los metros cúbicos de agua que se capten en las fuentes de abastecimiento.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXIV. Eficiencia Global: El indicador de gestión que resulta de multiplicar la eficiencia comercial por la eficiencia física.
+XXII. Distrito de Temporal Tecnificado: El área geográfica integrada por unidades de temporal, destinada normalmente a las actividades agrícolas que no cuentan con infraestructura de riego, en el cual mediante el uso de diversas técnicas y obras, se aminoran los daños a la producción por causa de ocurrencia de lluvias fuertes y prolongadas o en condiciones de escasez, se aprovecha con mayor eficiencia la lluvia y la humedad en los terrenos adquiridos, y cuya administración compete a la Comisión Nacional del Agua;
 
-XXV. Gasto Corriente: Todos los gastos que ejerza el prestador de los servicios o la Comisión relacionados con la operación, conservación y mantenimiento de la línea de producción de los servicios, así como los relacionados con la comercialización de los servicios, la administración y suministro de insumos humanos, materiales y de servicios y la supervisión y control de obras de infraestructura.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXVI. Gestión Integral del Agua: El proceso sustentado en el conjunto de principios, políticas, actos, recursos, instrumentos, normas formales y no formales, bienes, recursos, derechos, atribuciones y responsabilidades, mediante el cual coordinadamente la Federación, el Estado, los Municipios, las organizaciones de la sociedad, y los usuarios del agua promueven e instrumentan su aprovechamiento para lograr el desarrollo sustentable en beneficio de los seres humanos y su medio social, económico y ambiental.
+XXIII. Drenaje Pluvial: El servicio público que permite desalojar el agua pluvial de los asentamientos humanos;
 
-XXVII. La Comisión: El organismo público descentralizado de la administración pública estatal denominado Comisión Estatal del Agua de Tamaulipas.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXVIII. Licencia de Uso Temporal: El permiso de uso de los servicios públicos de agua potable o alcantarillado sanitario, o de ambos, que realiza el prestador de los servicios públicos con particulares que se dediquen a presentar espectáculos o diversiones públicas temporales.
+XXIV. Eficiencia Comercial: El indicador de gestión que resulta de dividir los ingresos efectivamente cobrados, entre los ingresos facturados;
 
-XXIX. Limitación: La acción de reducir temporalmente los servicios públicos por falta de pago.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXX. Línea de Producción de los Servicios de Agua Potable: La infraestructura hidráulica utilizada para prestar los servicios de agua potable, integrada por los sistemas de captación, conducción, potabilización, almacenamiento, distribución y tomas domiciliarias.
+XXV. Eficiencia Física: El indicador de gestión que resulta de dividir los metros cúbicos de agua facturados entre los metros cúbicos de agua que se capten en las fuentes de abastecimiento;
 
-XXXI. Línea de Producción de los Servicios de Alcantarillado Sanitario: La infraestructura sanitaria utilizada para prestar los servicios de alcantarillado sanitario, integrada por las descargas sanitarias y los sistemas de desalojo y recolección de aguas residuales.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXXII. Llave Reguladora: La válvula que se instala al final de las tomas domiciliarias para regular los flujos de agua que se entregan a un usuario.
+XXVI. Eficiencia Global: El indicador de gestión que resulta de multiplicar la eficiencia comercial por la eficiencia física;
 
-XXXIII. Medidores de Volúmenes de Agua: El instrumento elaborado para medir el agua que fluye por una tubería, canal o cualquier tipo de infraestructura utilizada para transportar o distribuir agua.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXXIV. Normatividad Operativa para el Sector Agua del Estado: La compilación de reglas operativas, técnicas, comerciales y administrativas de los prestadores de los servicios públicos inherentes al agua que conforme a los convenios que éstos tengan celebrados con la Comisión, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones.
+XXVII. Gasto Corriente: Todos los gastos que ejerza el prestador de los servicios o la Comisión relacionados con la operación, conservación y mantenimiento de la línea de producción de los servicios, así como los relacionados con la comercialización de los mismos, la administración y suministro de insumos humanos, materiales y de servicios, y la supervisión y control de obras de infraestructura;
 
-XXXV. Organismo Operador Municipal: La entidad descentralizada de la administración pública municipal responsable de la prestación de los servicios públicos en el territorio de un municipio;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXXVI. Organismo Operador Intermunicipal: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos en el territorio de dos o más municipios conurbados, por medio de una sola línea de producción de los servicios.
+XXVIII. Gestión Integral del Agua: El proceso sustentado en el conjunto de principios, políticas, actos, recursos, instrumentos, normas formales y no formales, bienes, recursos, derechos, atribuciones y responsabilidades, mediante el cual coordinadamente la Federación, el Estado, los Municipios, las organizaciones de la sociedad, y los usuarios del agua, promueven e instrumentan su aprovechamiento para lograr el desarrollo sustentable en beneficio de los seres humanos y su medio social, económico y ambiental;
 
-XXXVII. Organismo Operador Regional: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos en el territorio de dos o más municipios, con diferentes líneas de producción de los servicios.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XXXVIII. Padrón de Usuarios: La base de datos con las características de cada uno de los predios que conforman el área de factibilidad de los servicios y los datos generales de sus propietarios.
+XXIX. La Comisión: El organismo público descentralizado de la administración pública estatal denominado Comisión Estatal del Agua de Tamaulipas;
 
-XXXIX. Programa Estratégico de Desarrollo del Sector Agua del Estado: El documento que contiene la visión a largo plazo del sistema integral del Sector Agua en Tamaulipas, con sus estrategias, programas de inversiones, alternativas de financiamiento, plan de mejoramiento de la productividad, indicadores de gestión, metas y estándares de calidad y productividad.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XL. Programa Hidráulico de la Administración: El documento que contiene el plan de inversiones; plan de financiamiento; plan de mejoramiento de la productividad, metas y políticas a ejecutar por las dependencias y entidades públicas estatales o municipales en materia de agua y de prestación de los servicios públicos, inherentes a la misma, durante el período que corresponda a la administración del Estado o a la de los municipios y que deberá sustentarse en el Plan Estatal o Municipal de Desarrollo respectivo.
+XXX. Licencia de Uso Temporal: El permiso de uso de los servicios públicos de agua potable o alcantarillado sanitario, o de ambos, que realiza el prestador de los servicios públicos con particulares que se dediquen a presentar espectáculos o diversiones públicas temporales;
 
-XLI. Programa Operativo Hidráulico Anual: El documento que contiene el conjunto de acciones y las metas que se pretenden alcanzar en cada ejercicio fiscal, de acuerdo con el Programa Hidráulico de la Administración.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLII. Prestador de los Servicios: La dependencia, entidad o particular responsable de la (sic) proporcionar los servicios públicos inherentes al agua.
+XXXI. Limitación: La acción de reducir temporalmente los servicios públicos por falta de pago;
 
-XLIII. Reincidencia: Cada una de las subsecuentes infracciones a un mismo precepto, cometida por un mismo usuario.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLIV. Reuso de las aguas residuales: La utilización de las aguas residuales sin sanear en diferentes usos antes de entregarse a los cuerpos receptores.
+XXXII. Línea de Producción de los Servicios de Agua Potable: La infraestructura hidráulica utilizada para prestar los servicios de agua potable, integrada por los sistemas de captación, conducción, potabilización, almacenamiento, distribución y tomas domiciliarias;
 
-XLV. Reuso de las aguas residuales tratadas: La utilización de las aguas saneadas en diferentes usos antes de entregarse a los cuerpos receptores.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLVI. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales.
+XXXIII. Línea de Producción de los Servicios de Alcantarillado Sanitario: La infraestructura sanitaria utilizada para prestar los servicios de alcantarillado sanitario, integrada por las descargas sanitarias y los sistemas de desalojo y recolección de aguas residuales;
 
-XLVII. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLVIII. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector.
+XXXIV. Llave Reguladora: La válvula que se instala al final de las tomas domiciliarias para regular los flujos de agua que se entregan a un usuario;
 
-XLIX. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-L. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable.
+XXXV. Medidores de Volúmenes de Agua: El instrumento diseñado para medir el agua que fluye por una tubería, canal o cualquier tipo de infraestructura utilizada para transportar o distribuir agua;
 
-LI. Sistema de Conducción: La infraestructura hidráulica utilizada para trasportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LII. Sistema de Desalojo: La infraestructura sanitaria utilizada para trasportar el agua residual por la calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias y entrega el agua residual a los cuerpos receptores o al sistema de recolección, que forma parte de la línea de producción de los servicios de alcantarillado sanitario.
+XXXVI. Normatividad Operativa para el Sector Agua del Estado: La compilación de reglas operativas, técnicas, comerciales y administrativas de los prestadores de los servicios públicos inherentes al agua que conforme a los convenios que éstos tengan celebrados con la Comisión, se hayan obligado a aplicar para mejorar la eficiencia de sus operaciones;
 
-LIII. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LIV. Sistema de Distribución: La infraestructura hidráulica utilizada para trasportar el agua por la calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable.
+XXXVII. Organismo Operador Estatal: La entidad descentralizada de la administración pública estatal, responsable de prestar los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de aguas en el territorio de dos o más municipios, por medio de una sola línea de producción de los servicios;
 
-LV. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LVI. Sistema de Recolección: La infraestructura sanitaria utilizada para trasportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario.
+XXXVIII. Organismo Operador Intermunicipal: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de agua en el territorio de dos o más municipios conurbados, por medio de una sola línea de producción de los mismos;
 
-LVII. Sistema de Reuso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LVIII. Sistema de Reuso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para trasportar las aguas residuales tratadas hasta los predios donde serán utilizadas.
+XXXIX. Organismo Operador Municipal: La entidad descentralizada de la administración pública municipal responsable de la prestación de los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de agua en el territorio de un municipio;
 
-LIX Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LX. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforman los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años.
+XL. Organismo Operador Regional: La entidad descentralizada de la administración pública de dos o más municipios, responsable de prestar los servicios públicos de agua, drenaje, alcantarillado, y tratamiento y disposición de agua en el territorio de dos o más municipios, con diferentes líneas de producción de los mismos;
 
-LXI. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta ley.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LXII. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos considerando los niveles de consumo y el tipo de usuario.
+XLI. Padrón de Usuarios: La base de datos con las características de cada uno de los predios que conforman el área de factibilidad de los servicios y los datos generales de sus propietarios;
 
-LXIII. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrar agua potable a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LXIV. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios.
+XLII. Programa Estratégico de Desarrollo del Sector Agua del Estado: El documento que contiene la visión a largo plazo del sistema integral del Sector Agua en Tamaulipas, con sus estrategias, programas de inversiones, opciones de financiamiento, programa de mejoramiento de la productividad, indicadores de gestión, metas y estándares de calidad y productividad;
 
-LXV. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LXVI. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar.
+XLIII. Programa Hidráulico de la Administración: El documento que contiene los programas de inversiones; financiamiento y mejoramiento de la productividad, así como las metas y políticas a ejecutar por las dependencias y entidades públicas estatales o municipales en materia de agua y de prestación de los servicios públicos, inherentes a la misma, durante el período que corresponda a la administración del Estado o a la de los municipios y que deberá sustentarse en el Plan Estatal o Municipal de Desarrollo respectivo;
 
-LXVII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-LXVIII. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales.
+XLIV. Programa Operativo Hidráulico Anual: El documento que contiene el conjunto de acciones y las metas que se pretenden alcanzar en cada ejercicio fiscal, de acuerdo con el Programa Hidráulico de la Administración;
 
-LXIX. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLV. Prestador de los Servicios: La dependencia, entidad o particular responsable de proporcionar los servicios públicos inherentes al agua;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVI. Reincidencia: Cada una de las subsecuentes infracciones a un mismo precepto, cometida por un mismo usuario;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVII. Reuso de las aguas residuales: La utilización de las aguas residuales sin sanear en diferentes usos, antes de entregarse a los cuerpos receptores;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVIII. Reuso de las aguas residuales tratadas: La utilización de las aguas saneadas en diferentes usos, antes de entregarse a los cuerpos receptores;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLIX. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+L. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de las aguas residuales, reuso de las aguas residuales tratadas y disposición de las aguas;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LI. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LII. Sistema de Almacenamiento: La infraestructura hidráulica utilizada para almacenar agua potable con objeto de entregarla al sistema de distribución. Puede ser utilizada también para regular presiones en el sistema de distribución que forma parte de la línea de producción de los servicios de agua potable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LIII. Sistema de Captación: La infraestructura hidráulica utilizada para extraer agua cruda de los cuerpos receptores, que forma parte de la línea de producción de los servicios de agua potable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LIV. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LV. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LVI. Sistema de Drenaje Pluvial: La infraestructura hidráulica utilizada para trasportar el agua pluvial de los centros de población o asentamientos humanos hacia los cuerpos receptores;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LVII. Sistema de Distribución: La infraestructura hidráulica utilizada para transportar el agua por las calles de los asentamientos humanos hasta el frente de cada predio. Este sistema puede estar conectado al Sistema de Almacenamiento o directamente al sistema de captación, conducción o potabilización y entrega el (sic) agua a las tomas domiciliarias, que forma parte de la línea de producción de los servicios de agua potable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LVIII. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LIX. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LX. Sistema de Reuso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXI. Sistema de Reuso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXII. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXIII. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXIV. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta ley;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXV. Tarifa: El tabulador autorizado para la determinación del pago por los servicios públicos, considerando los niveles de consumo y el tipo de usuario;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXVI. Toma Domiciliaria: La infraestructura conectada al sistema de distribución de agua potable utilizada para suministrarla a los predios. Esta infraestructura incluye el aparato medidor de volúmenes de agua, llaves y válvulas necesarias para que el prestador de los servicios públicos pueda realizar las funciones de toma de lectura, mantenimiento a los aparatos medidores de volúmenes de agua y de reducción o suspensión del servicio;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXVII. Uso Agrícola: El área agrícola que cuenta con infraestructura y sistema de riego, distinta de un distrito de riego y comúnmente de menor superficie de aquél que puede integrarse por asociaciones de usuarios u otras figuras de productores organizados que se asocian entre sí libremente para prestar el servicio de riego con sistemas de gestión autónoma y operar las obras de infraestructura hidráulica para la captación, derivación, conducción, regulación, distribución y desalojo de las aguas nacionales destinadas al riego agrícola, y cuya administración compete a la Comisión Nacional del Agua;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXVIII. Unidad de Riego: La aplicación de agua para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productores no hayan sido objeto de transformación;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXIX. Uso comercial y de servicios: La utilización del agua de uso público urbano en establecimientos y oficinas, dedicadas a la compra y venta de bienes y prestación de servicios;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXX. Uso de Infraestructura: El precio que cobra el prestador de los servicios públicos por la incorporación de un nuevo asentamiento humano, comercial, de servicios o industrial a la línea de producción de los servicios;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXXI. Uso doméstico: La utilización de agua de uso público urbano para uso particular de las personas y el hogar;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXXII. Uso industrial: La utilización de agua en el proceso productivo de las empresas, industrias o parques industriales;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXXIII. Uso Público: La utilización de agua de uso público urbano para el uso de edificios públicos; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+LXXIV. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -379,13 +511,29 @@ XLII. Impulsar la autosuficiencia técnica, administrativa y financiera de los o
 
 XLlII. Fungir como árbitro en las posibles controversias entre los prestadores de servicios por derechos y obligaciones derivadas de los servicios que presten;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLIV. Prestar directamente o a través de terceros, el servicio de suministro de agua en bloque a los municipios y organismos operadores que la requieran, en los términos de esta ley; y
+XLIV. Prestar directamente o a través de terceros, el servicio de suministro de agua en bloque a los municipios y organismos operadores que la requieran, en los términos de esta ley;
 
-> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XLV. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
+XLV. Coadyuvar y participar con la Comisión Nacional del Agua, en los programas, proyectos, organización y presupuestos de los distritos de riego, distritos de temporal tecnificado y unidades de riego constituidos en el territorio del Estado con base en los acuerdos de coordinación que se suscriban con la Federación;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVI. Orientar a los usuarios, sobre la aplicación de los recursos estatales en los distritos de riego, distritos de temporal tecnificado y unidades de riego constituidos en el territorio del Estado, sin invadir el ámbito de competencia de la Comisión Nacional del Agua;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVII. Apoyar con asesorías técnicas y legales la integración, organización y funcionamiento de las asociaciones de usuarios de los distritos de riego, emitiendo opiniones respecto de la elaboración de sus estatutos, reglamentos internos, así como la composición y actualización de los padrones de usuarios, para que estos reúnan los requisitos legales requeridos y se ajusten a la Ley de Aguas Nacionales y su Reglamento, siempre respetando la potestad que la Comisión Nacional del Agua tiene sobre dichas actividades;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLVIII. Dar aviso a la Comisión Nacional del Agua, por escrito en el término de quince días naturales contados a partir de que tenga conocimiento de los hechos, cuando detecte alguna necesidad o irregularidad de los usuarios y que a su consideración deba intervenir la Federación; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLIX. Las demás que le confiera esta ley, sus reglamentos y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -557,7 +705,9 @@ IV. Una vez nombrado, no deberá prestar sus servicios profesionales en la admin
 
 El Director General de la Comisión tendrá las siguientes facultades y obligaciones:
 
-I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse de los juicios laborales y de amparo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+I. Representar legalmente a la Comisión, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar poderes, formular querellas y denuncias, certificar documentos, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse de los juicios laborales y de amparo;
 
 II. Celebrar convenios y contratos con la Federación, entidades federativas, municipios, organismos descentralizados y particulares que requiera para la consecución de sus fines;
 
@@ -633,13 +783,23 @@ XXXVII. Resolver los recursos administrativos que los usuarios presenten contra 
 
 XXXVIII. Resolver, de conformidad con el Código Fiscal del Estado y con los convenios que para tal efecto se celebren, los recursos administrativos que se presenten contra los actos que dicte dentro del procedimiento administrativo de ejecución, para hacer efectivos los créditos que determinen los organismos operadores a cargo de los usuarios;
 
-XXXIX. Elaborar y ejecutar programas para promover la cultura del agua en toda la entidad federativa; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
-XL. Las demás que se deriven de esta ley y sus reglamentos.
+XXXIX. Elaborar y ejecutar programas para promover la cultura del agua en toda la entidad federativa;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XL. Representar al Ejecutivo del Estado en los Comités Hidráulicos de los Distritos de Riego, Unidades de Riego y Distritos de Temporal Tecnificado, debiendo designar para tal efecto al servidor público que asista en nombre del Gobierno del Estado, y ejercer las funciones que para tal fin se le confieren dentro de los citados Comités; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XLI. Las demás que se deriven de esta ley y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 Artículo 16
 
-La vigilancia de la Comisión estará a cargo de un Contralor, designado por la Contraloría Gubernamental, con las funciones y atribuciones que le confieren las leyes y reglamentos de la materia.
+La vigilancia de la Comisión estará a cargo de un Comisario, designado por la Contraloría Gubernamental, con las funciones y atribuciones que le confieren las leyes y reglamentos de la materia.
 
 ### CAPITULO IV. DE LOS AYUNTAMIENTOS
 
@@ -657,7 +817,9 @@ La vigilancia de la Comisión estará a cargo de un Contralor, designado por la 
 
 Cuando los servicios públicos sean prestados directamente por los municipios, éstos tendrán a su cargo:
 
-I. Realizar los actos necesarios para la prestación de los servicios públicos en todos los asentamientos humanos de su circunscripción territorial, atendiendo a la Ley de Aguas Nacionales y su Reglamento, la legislación de equilibrio ecológico y protección al ambiente, y las normas oficiales mexicanas que se emitan con relación a los mismos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+I. Realizar los actos necesarios para la prestación de los servicios públicos en las comunidades rurales, centros de población y todos los asentamientos humanos de su circunscripción territorial atendiendo a la Ley de Aguas Nacionales y su Reglamento, la legislación de equilibrio ecológico y protección al ambiente, y las normas oficiales mexicanas que se emitan con relación a los mismos;
 
 II. Realizar por sí o a través de terceros, a los que se les concesionen o con quien se celebre contrato de conformidad con esta ley, las obras de infraestructura hidráulica para la prestación, operación, conservación y mantenimiento de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
@@ -665,7 +827,9 @@ III. Realizar una eficaz y adecuada prestación de los servicios públicos;
 
 IV. Programar la prestación de los servicios públicos a que se refiere la presente ley, mediante la elaboración y actualización periódica de los programas sectoriales, institucionales y operativos correspondientes;
 
-V. Celebrar los contratos y convenios necesarios para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+V. Celebrar los contratos y convenios con la Comisión, para el cumplimiento de sus atribuciones, en los términos de la legislación aplicable;
 
 VI. Realizar las gestiones que sean necesarias a fin de obtener los financiamientos que se requieran para la más completa prestación de los servicios públicos, en los términos de la legislación aplicable;
 
@@ -719,9 +883,13 @@ Los municipios podrán celebrar contratos y convenios para la prestación de los
 
 ### CAPITULO V. DE LOS ORGANISMOS OPERADORES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Artículo 22.
 
-La Comisión, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
+1. La Comisión, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
+
+2. En el caso de los órganos de administración de los organismos operadores de naturaleza estatal, les serán aplicables las disposiciones previstas para los organismos operadores municipales, con excepción de la designación del Gerente General que estará a cargo del Ejecutivo del Estado.
 
 ###### Artículo 23.
 
@@ -730,6 +898,10 @@ La Comisión, en coordinación con los ayuntamientos, promoverá la creación de
 2. En el decreto de creación de los organismos descentralizados mencionados, se deberá establecer el área geográfica en la que prestarán los servicios públicos previstos en esta ley.
 
 3. La organización y funcionamiento de estos organismos se regirán por la presente ley, su decreto de creación y el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+4. La integración del Consejo de Administración que se nombrará en cada Organismo Operador, se establecerá en su Decreto de creación.
 
 ###### Artículo 24.
 
@@ -740,6 +912,12 @@ I. Organismos operadores municipales: Cuando sean creados para prestar los servi
 II. Organismos operadores intermunicipales: Cuando sean creados para prestar los servicios públicos en dos o más municipios conurbanos, por medio de una sola línea de producción de los servicios, y
 
 III. Organismo (sic) operadores regionales: Cuando sean creados para prestar los servicios públicos en dos o más municipios con diferentes líneas de producción de los servicios.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+IV. Organismos Operadores Estatales:
+
+Cuando por sus características y complejidad, no puedan ser operados por municipios, previo dictamen de la Comisión; así como aquellos que su infraestructura beneficie a dos o más municipios.
 
 ###### Artículo 25.
 
@@ -2103,13 +2281,13 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 3. En todo caso, el acuerdo tarifario distinguirá el porcentaje del pago correspondiente a los servicios ambientales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Artículo 143.
 
-El precio que se establezca para cada metro cúbico de agua servida será el resultado de la suma de tres elementos: uno correspondiente al cobro del servicio de alcantarillado sanitario, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
+1. Al precio que se establezca para cada metro cúbico de agua servida se le sumarán tres porcentajes: uno para el cobro del servicio de alcantarillado sanitario, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
+
+2. Para llevar a cabo el incremento de tarifas, una vez aprobado el dictamen por el Consejo de Administración del Organismo Operador, deberá remitirlo para su validación, aprobación y publicación en el Periódico Oficial del Estado, a la Comisión Estatal del Agua de Tamaulipas.
 
 ###### Artículo 144.
 
@@ -2772,3 +2950,19 @@ P.O. 15 DE OCTUBRE DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos en donde los servicios públicos de servicio público de agua potable y alcantarillado estén a cargo del Gobierno del Estado, podrán solicitar, en cualquier momento, la transferencia correspondiente, para efecto de que por su conducto se presten los servicios públicos de agua potable, drenaje, alcantarillado, y tratamiento y disposición de agua a la población de sus respectivos municipios, en términos de lo establecido en el artículo 115 fracción III de la Constitución Política de los Estados Unidos Mexicanos y 132 fracción I de la Constitución Política del Estado de Tamaulipas.
+
+El Ejecutivo del Estado, por conducto de la Comisión Estatal del Agua, dispondrá de manera ordenada la transferencia de los organismos operadores estatales a los respectivos ayuntamientos.
+
+###### ARTÍCULO TERCERO.
+
+Previo a incluir en el precio de cada metro cubico de agua el porcentaje relativo a servicios ambientales, el organismo operador deberá presentar el Programa correspondiente ante el Consejo Directivo respectivo.
