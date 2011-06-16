@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2011-05-05"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -109,6 +109,8 @@ Los períodos de instrucción y juicio constituyen el procedimiento judicial, de
 
 Durante estos períodos, el Ministerio Público, en su caso, aportará las pruebas tendientes a demostrar la existencia de los delitos y la responsabilidad de quienes en ellos hubieren participado. Cuidará también de que los tribunales apliquen estrictamente las leyes relativas y de que las resoluciones de aquéllos se cumplan debidamente. Para todos estos efectos tendrá el auxilio de la policía cuando lo estime conveniente.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ### CAPITULO II
 
 DE LAS PRIMERAS DILIGENCIAS.
@@ -117,7 +119,7 @@ DE LAS PRIMERAS DILIGENCIAS.
 
 ###### Art. 4o.
 
-El Poder Ejecutivo, por conducto del órgano que determina la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, ejecutará las sentencias de los Tribunales proveyendo lo necesario para su debido cumplimiento, pudiendo dictar las medidas que estime convenientes para la rehabilitación, readaptación y ocupación de los sentenciados.
+La imposición de las penas y medidas de seguridad, su modificación y duración es propia y exclusiva de la autoridad judicial. El Poder Ejecutivo del Estado, a través del órgano que designe la ley reglamentaria respectiva, tendrá a su cargo el control, administración y dirección de cada uno de los establecimientos destinados al cumplimiento de las sanciones privativas y restrictivas de libertad.
 
 ## TITULO PRIMERO.
 
@@ -3653,6 +3655,8 @@ Interpuesto el recurso, el Tribunal lo resolverá de plano si estimare que no es
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Art. 518.
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó exactamente la ley, si se violaron los preceptos reguladores de la valorización de la prueba o si se alteraron los hechos; debiendo ser el resultado de aquél examen, que el Tribunal de Segunda Instancia confirme, revoque o modifique la resolución apelada, o en su caso, ordene la reposición del procedimiento.
@@ -3913,19 +3917,33 @@ DE LA REHABILITACION.
 
 ###### Art. 554.
 
-La ejecución de las sentencias irrevocables en materia penal, salvo en los casos a que se refiere el artículo siguiente, corresponda al Poder Ejecutivo del Estado, quien por medio de los órganos que designa la ley reglamentaria respectiva, determinará en su caso, el lugar en que deba compurgar el sentenciado la sanción corporal impuesta, dictando todas las demás medidas encaminadas a la ejecución de aquellas.
+La ejecución de las sentencias irrevocables en materia penal, corresponde a la autoridad judicial, quien dictará todas las medidas necesarias encaminadas a la ejecución, modificación y duración de aquellas. El órgano del Poder Ejecutivo del Estado que designe la ley reglamentaria respectiva, determinará en su caso, el lugar en que deba compurgar el sentenciado la pena de prisión impuesta.
 
-Es obligación del Ministerio Público practicar todas las gestiones conducentes al estricto cumplimiento de las sentencias a que se refiere este artículo, y lo hará así, ya gestionando cerca de las autoridades administrativas lo que proceda, o ya exigiendo ante los Tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan cuando se aparten de lo prevenido en la sentencia, en pró o en contra de los individuos objeto de ellas. La representación social procederá conforme a ésta disposición, ya sea por queja del interesado o cuando por cualquier otro medio tenga conocimiento que la autoridad encargada de la ejecución de la sentencia se aparta de lo ordenado en ella o en la ley.
+Es obligación del Ministerio Público practicar todas las gestiones conducentes al estricto cumplimiento de las sentencias a que se refiere este artículo, incluso exigiendo ante los tribunales la represión de todos los abusos que las autoridades penitenciarias o sus subalternos cometan cuando se aparten de lo prevenido en la sentencia, en pro o en contra de los Individuos objeto de ellas. La representación social procederá conforme a esta disposición, ya sea por queja del interesado o cuando por cualquier otro medio tenga conocimiento que la autoridad encargada de la ejecución material de la sentencia se aparta de lo ordenado en ella o en la ley.
+
+La labor del defensor culminará con la sentencia firme, sin perjuicio de que continúe en el ejercicio de la defensa técnica durante la ejecución de la pena. Asimismo, el condenado podrá nombrar un nuevo defensor, o en su defecto se le nombrará uno de oficio. El ejercicio de la defensa durante la ejecución penal consistirá en el asesoramiento al condenado, cuando se requiere para la interposición de las gestiones necesarias en resguardo de sus derechos.
+
+No será deber de la defensa vigilar el cumplimiento de la pena.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+Art. 554 BIS.- El Ministerio Publico, la victima u ofendido, el sentenciado y su defensor podrán plantear ante la autoridad judicial de ejecución, incidentes relativos e la ejecución, sustitución, modificación o extinción de la pena o de las medidas de seguridad, mismos que se tramitarán conforme a las reglas señaladas para los incidentes no especificados. Si fuera necesario introducir elementos de prueba, el juez, aun de oficio, ordenará una investigación sumaria, después de la cual decidirá.
+
+El juez decidirá por resolución fundada y contra lo resuelto, procede el recurso de apelación, cuya interposición no suspenderá la ejecución de la pena, a menos que así lo disponga el Tribunal.
 
 ###### Art. 555.
 
 Las sentencias irrevocables que sean absolutorias o que declaren compurgadas las sanciones en ellas impuestas, deberán ser ejecutadas por el Tribunal que las haya pronunciado, y una vez puesta en los autos la constancia de haber quedado cumplida, ordenará que éstos se archiven.
 
-Cuando en la sentencia se declare la falsedad de un documento público, se ordenará anotar éste y la matriz respectiva en el protocolo, archivo o registro en que se encuentre, sin perjuicio de los demás efectos que deban darse a la sentencia por la autoridad administrativa ejecutora.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+Cuando en la sentencia se declare la falsedad de un documento público, se ordenará anotar éste y la matriz respectiva en el protocolo, archivo o registro en que se encuentre, sin perjuicio de los demás efectos que deban darse a la sentencia por la .autoridad judicial ejecutora.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 556.
 
-Pronunciada una sentencia condenatoria irrevocable, el Tribunal que la dicte remitirá, dentro de los tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará uno de ellos a la autoridad encargada de la ejecución.
+Pronunciada una sentencia condenatoria irrevocable, el Tribunal que la dicte, remitirá, dentro de los tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará uno de ellos a la autoridad encargada de la ejecución material.
 
 Para los efectos de la Estadística criminal y demás efectos legales a que hubiere lugar, el Tribunal respectivo remitirá también a la Procuraduría de Justicia, dos testimonios de las sentencias en que declare compurgada la sanción.
 
@@ -3959,13 +3977,29 @@ El Tribunal podrá aplicar a la Autoridad fiscal el medio de apremio que estime 
 
 Cuando los tribunales decreten el decomiso de instrumentos u objetos de delito los remitirán, con los testimonios de la sentencia, a la Dirección del Fondo para la Administración de Justicia para los efectos del artículo 38 del Código Penal.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Art. 562.
 
-Cuando un sentenciado enloquezca después de dictarse en su contra sentencia irrevocable que le imponga una sanción corporal, se suspenderán los efectos de ésta, mientras no recobre la razón internándosele en Hospital Público o departamento especial para su tratamiento.
+Cuando un sentenciado enloquezca después de dictarse en su contra sentencia irrevocable que le imponga una pena de prisión, se suspenderán los efectos de esta, mientras no recobre la razón internándosele en hospital público o departamento especial para su tratamiento.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 563.
 
-El Ejecutivo del Estado, por medio del órgano que designa la Ley Reglamentaria respectiva determinará en su caso el lugar en que debe compurgar el sentenciado la sanción corporal pudiendo ser dentro o fuera del territorio del Estado; pero siempre dentro del Territorio Nacional, dictando, además todas las medidas que sean eficaces para la recta ejecución de aquellas medidas. El Ejecutivo podrá celebrar con los respectivos Ejecutivo Federal o de los otros Estados de la Unión, los convenios o arreglos que sean necesarios en los casos en que alguno o algunos sentenciados deban compurgar sus sanciones en el lugar de la comprensión Territorial correspondiente a aquellas jurisdicciones.
+El Ejecutivo del Estado, por medio del órgano que designe la ley reglamentaria respectiva, determinará en su caso el lugar en que debe compurgar el sentenciado la pena privativa de libertad pudiendo ser dentro o fuera del territorio del Estado, todas las medidas que sean eficaces para la recta ejecución de aquellas medidas. El Ejecutivo podrá celebrar con los respectivos Ejecutivo Federal o de los otros Estados de la Unión, los convenios o arreglos que sean necesarios en los casos en que alguno o algunos sentenciados deban compurgar sus sanciones en el lugar de la comprensión territorial correspondiente a aquellas jurisdicciones.
+
+La autoridad judicial controlará el cumplimiento del régimen penitenciario y el respeto de las finalidades constitucionales y Iegales de las penas y medidas de seguridad. Podrá hacer comparecer ante si a los sentenciados o a los servidores públicos del sistema penitenciario con fines de vigilancia y control.
+
+Le corresponderá especialmente:
+
+I.- Mantener, sustituir, modificar, o hacer ·cesar la pena .y las medidas de seguridad, así como las condiciones de su cumplimiento;
+
+II.- Visitar los centros de reclusión, por lo menos una vez cada dos meses, con el fin de constatar el respeto de los derechos fundamentales y penitenciarios de los internos, y ordenar las medidas correctivas que estime conveniente;
+
+III.- Resolver, con aplicación del trámite previsto para los incidentes no especificados, las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario en cuanto afecten sus derechos; y
+
+IV.- Resolver los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable, pudiendo suspender provisionalmente las medidas administrativas penitenciarias impugnadas;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3997,15 +4031,13 @@ Recibida la solicitud, la Sala Penal inmediatamente pedirá el proceso o proceso
 
 El día fijado para la vista, dada cuenta por el secretario, se recibirán los medios probatorios, alegará el reo por sí o por su defensor, y el Ministerio Público pedirá lo que en derecho corresponda.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 568.
 
-A los cinco días de celebrada la vista, la Sala declarará si es o no fundada la solicitud del reo.
+A los cinco días de celebrada la vista, la Sala declarará si es o no fundada la solicitud del sentenciado.
 
-En el primer caso, remitirá copia autorizada de la resolución a la Dirección de Prevención y Readaptación Social para que ésta sin más trámites, provea su cumplimiento.
-
-En el segundo caso, se mandarán archivar las diligencias.
+En el primer caso, remitirá copia autorizada de la resolución a la Dirección de Reinserción Social para que esta sin más trámites, provea su cumplimiento.
 
 ###### Art. 569.
 
@@ -4330,3 +4362,17 @@ P.O. 28 DE AGOSTO DE 2010.
 P.O. 5 DE MAYO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Cuando el Código de Procedimientos Penales para el Estado de Oaxaca se refiera al reo, se entenderá que se trata del sentenciado.
+
+TERCERO.- Las personas que hubieren sido sentenciadas con antelación a la entrada en vigor del presente decreto, que se encuentren privadas de su libertad en centros de reinserción social, así como aquellas que estén restringidas de su libertad bajo alguna medida de seguridad, o que estén gozando del beneficio de la libertad anticipada, tratamiento preliberacional o semilibertad concedida en sentencia, quedarán a disposición de la autoridad judicial para efectos de la ejecución técnica de la sentencia.
+
+CUARTO.- A partir de la entrada en vigor del presente decreto, las facultades sobre ejecución, modificación y duración de las penas impuestas por la autoridad judicial, que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca, otorga a la Dirección de Reinserción Social, serán ejercidas por los Jueces de Ejecución de Sanciones.
+
+QUINTO.- La competencia territorial de los jueces de ejecución de sanciones del sistema mixto; será determinada por el Pleno del Tribunal Superior de Justicia atendiendo a la ubicación de los centros de reclusión, si el sentenciado se encuentra privado de su libertad, o en libertad por estar gozando de alguno de los beneficios que el juez o la autoridad administrativa le otorgó.
+
+SEXTO.- En un plazo no mayor a sesenta días, el Congreso del Estado deberá realizar las reformas y adecuaciones pertinentes a las leyes y reglamentos que tengan relación con la ejecución de las penas y medidas de seguridad, a fin de adecuarlas al texto constitucional local y federal.
