@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2006-06-27"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -60,9 +60,11 @@ La política nacional y los programas, así como el conjunto de instrumentos y a
 
 Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 3.
 
-Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil pueda ejercer su derecho constitucional a la vivienda.
+Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión social de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil pueda ejercer su derecho constitucional a la vivienda.
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como el combate a la invasión de predios y al crecimiento irregular de las ciudades.
 
@@ -1039,3 +1041,9 @@ QUINTO.- El personal que, en virtud de este Decreto, pase, de la Comisión Nacio
 México, D.F., a 25 de abril de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 16 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
