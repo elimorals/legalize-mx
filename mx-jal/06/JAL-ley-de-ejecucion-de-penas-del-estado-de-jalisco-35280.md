@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ejecucion-de-penas-del-estado-de-jalisco-35280"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-29"
-last_updated: "2007-01-11"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EJECUCION DE PENAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 29 de noviembre de 2003.
 
@@ -843,6 +843,12 @@ SEGUNDO.- Se abroga el Decreto 9999 de fecha 21 de junio de 1979, que contiene l
 
 TERCERO.- El Ejecutivo deberá aprobar las disposiciones reglamentarias de la presente Ley a los noventa días siguientes a su entrada en vigor.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+CUARTO. El Consejo de Evaluación y Seguimiento y los Consejos Técnicos Interdisciplinarios de los centros penitenciarios continuarán ejerciendo sus atribuciones en asuntos cuyas sentencias hubieren causado ejecutoria hasta el día 18 de junio del año 2011, para lo cual los tramitarán y resolverán hasta su conclusión en los términos que establece la presente ley.
+
+Las autoridades mencionadas seguirán integrando los estudios técnicos interdisciplinarios de los asuntos cuyas sentencias causen ejecutoria después del 18 de junio del año 2011, los cuales se turnarán a los tribunales de ejecución competentes que se establezcan en la ley; una vez que se encuentren en funcionamiento, estos deberán valorarlos al momento de tomar su determinación.
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
 GUADALAJARA, JALISCO, 21 DE OCTUBRE DEL 2003
@@ -904,3 +910,7 @@ OCTAVO. Los asuntos pendientes de trámite de la Procuraduría para Asuntos Ind�
 NOVENO. Si para la fecha de entrada en vigencia de esta Ley, el Estado y los municipios con población indígena hubieren ya concluido su Plan de Desarrollo sin haber incorporado el sentir de los pueblos indígenas, se procederá a escuchar a las comunidades indígenas e incorporar a dichos planes de aportaciones en su caso.
 
 DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decreto, se traduzca a las lenguas de los pueblos indígenas del Estado y ordenará su difusión en sus comunidades.
+
+P.O. 16 DE JUNIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
