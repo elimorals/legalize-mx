@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-05-25"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1116,7 +1116,9 @@ El Gobierno, en el ámbito de sus competencias, realizará, entre otras, las sig
 
 I. Establecer unidades permanentes de atención o servicios para la atención médica y de rehabilitación para las personas con alguna adicción;
 
-II. Impulsar medidas intensivas en materia de educación e información de carácter preventivo de las adicciones, dirigidas particularmente a niños, jóvenes y mujeres;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
+
+II. Impulsar medidas intensivas en materia de educación e información de carácter preventivo de las adicciones y de los daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, dirigidas particularmente a niños, jóvenes y mujeres;
 
 III. Fomentar las actividades cívicas, deportivas y culturales que coadyuven en la lucha contra las adicciones;
 
@@ -1126,11 +1128,13 @@ V. Promover la investigación y la difusión de sus resultados y recomendaciones
 
 VI. Proponer, a las autoridades federales correspondientes, medidas preventivas y de control de las adicciones en materia de publicidad;
 
-VII. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para el desarrollo de acciones contra las adicciones y de conformidad a los convenios respectivos;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
 
-(REFORMADA, G.O. 3 DE MAYO DE 2010) (REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE NOVIEMBRE DE 2010)
+VII. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para el desarrollo de acciones contra las adicciones y de ejecución del Programa Nacional de Prevención y Tratamiento de la Fármacodependencia, de conformidad a los convenios respectivos y en los términos establecidos en la Ley General de Salud;
 
-VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas;
+> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
+
+VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas y para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la fármacodependencia;
 
 > <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
@@ -2465,3 +2469,11 @@ Segundo. El Programa de Semáforo Nutricional será diseñado y aplicado en coon
 G.O. 25 DE MAYO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa del Distrito Federal, instrumentará las acciones establecidas en el presente Decreto.
+
+G.O. 16 DE JUNIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal, salvo el contenido en el Artículo Primero, el cual entrará en vigor a los 60 días hábiles contados a partir de que el H. Congreso de la Unión realice las adecuaciones necesarias a la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
+
+Segundo.- A partir de la entrada en vigor del Artículo Segundo del presente Decreto, el Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles para expedir las disposiciones reglamentarias necesarias para su instrumentación.
+
+Tercero.- Las acciones contenidas en el presente Decreto se realizarán conforme a la suficiencia presupuestal que, para tal efecto, se asignen dentro del Presupuesto de Egresos de la Federación del Ejercicio Fiscal correspondiente, sin menoscabo de los que determine la Asamblea Legislativa del Distrito Federal.
