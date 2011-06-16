@@ -4,7 +4,7 @@ identifier: "LMCCBDC"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-05"
-last_updated: "1991-12-24"
+last_updated: "2011-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMCCBDC"
 
 LEY QUE APRUEBA LA ADHESION DE MEXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL CARIBE Y SU EJECUCION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación el martes 5 de enero de 1982.
 
@@ -54,21 +54,11 @@ El Banco de México hará, con la garantía del Gobierno Federal, la suscripció
 
 De igual manera, el Banco de México hará, con la Garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco de Desarrollo del Caribe, hasta por el equivalente de U.S.DLS. 6'260,946.12 (SEIS MILLONES DOSCIENTOS SESENTA MIL NOVECIENTOS CUARENTA Y SEIS DOLARES 12/100, MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), de los cuales serían pagaderos en efectivo U.S.DLS. 1'254,601.92 (UN MILLON DOSCIENTOS CINCUENTA Y CUATRO MIL SEISCIENTOS UN DOLARES 92/100 MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), correspondientes al Primer Incremento General del Capital Social y Suscripciones de los Países Miembros del Banco de Desarrollo del Caribe, mediante cinco pagos anuales, equivalentes al 20% (VEINTE POR CIENTO) cada una a partir de 1991.
 
+> <small>(REFORMADO, D.O.F. 16 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 4o.
 
-El Banco de México, S. A., cubrirá con la garantía del Gobierno Federal, el equivalente de U. S. dls. 7.000,000.00 (siete millones de dólares, moneda de los Estados Unidos de América) correspondiente a la contribución de México al Fondo Especial para el Desarrollo del Banco de Desarrollo del Caribe, a que se refiere el Artículo 8° del Convenio Constitutivo del propio Banco, mediante 5 (cinco) pagos anuales por el equivalente al 20% (veinte por ciento) cada uno.
-
-> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
-
-Asimismo, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 5'000,000.00 (cinco millones de dólares moneda de los Estados Unidos de América) correspondientes a la primera reposición de capital al citado Fondo Especial para el Desarrollo, mediante cinco pagos anuales a partir de 1985.
-
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1988)</small>
-
-Asimismo el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 3'333,000.00 (tres millones trescientos treinta y tres mil) dólares de los Estados Unidos de América, correspondientes a la segunda reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales a partir de 1988.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1991)</small>
-
-De igual manera, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a 5.000,000.00 (cinco millones) de dólares de los Estados Unidos de América, correspondiente a la tercera reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales, iguales y sucesivos a partir de 1992.
+El Ejecutivo Federal por conducto del Banco de México cubrirá, el equivalente a 3,000,000.00 (tres millones) de dólares de los Estados Unidos de América, correspondiente a la última reposición de capital del Fondo Especial para el Desarrollo del Banco de Desarrollo del Caribe, a que se refiere el artículo 8o del Convenio Constitutivo del propio Banco. En consecuencia, el monto total aportado por México al Fondo Especial para el Desarrollo asciende a la cantidad de 29,333,000.00 (veintinueve millones trescientos treinta y tres mil) dólares de los Estados Unidos de América.
 
 ###### ARTICULO 5o.
 
@@ -129,3 +119,7 @@ SEGUNDO. El Primer Incremento General del Capital Social y Suscripciones de los 
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
