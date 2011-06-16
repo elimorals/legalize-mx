@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-mejora-regulatoria-del-estado-de-durango-57045"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-09"
-last_updated: "2007-08-09"
+last_updated: "2011-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 9 de agosto de 2007.
 
@@ -39,7 +39,7 @@ CONSIDERANDOS
 
 Con base en los anteriores Considerandos, esta H. LXIII Legislatura del Estado, expide el siguiente:
 
-DECRETO No.388
+DECRETO No. 388
 
 LA HONORABLE SEXAGÉSIMA TERCERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
 
@@ -187,9 +187,11 @@ Los acuerdos serán tomados por mayoría simple de los presentes, teniendo el Pr
 
 El Presidente podrá invitar a representantes de otras dependencias de los tres niveles de gobierno, organismos, comisiones, fideicomisos, instituciones académicas, de investigación o del sector privado, y de los ayuntamientos, cuando considere que es necesaria la participación en las sesiones, según sea el asunto a tratar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Artículo 12.
 
-El titular del Poder Ejecutivo del Estado designará al Director General de la Comisión.
+El titular del Poder Ejecutivo del Estado designará y removerá libremente al Director General de la Comisión.
 
 Para ser Director General, se requiere:
 
@@ -200,6 +202,10 @@ II. Ser mayor de treinta años;
 III. Estar en pleno ejercicio de sus derechos civiles y políticos; y
 
 IV. Tener experiencia reconocida en alguna de las materias afines al objeto de la Comisión a partir de una trayectoria profesional destacada en el sector público, académico social o privado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
+
+El Director General deberá presentar dentro de los primeros dos meses de cada año al Consejo de la Secretaría de Desarrollo Económico del Estado de Durango, la Junta Directiva, y al Congreso del Estado, por conducto de la Comisión de Desarrollo Económico, un programa anual de trabajo que deberá contener los planes, proyectos y metas trazados en Mejora Regulatoria; así como de manera semestral, deberá presentar un informe sobre los resultados, avances y logros obtenidos en la materia.
 
 ###### Artículo 13.
 
@@ -477,15 +483,21 @@ En el ámbito de los municipios, el Registro de Personas Acreditadas será opera
 
 ### CAPÍTULO VII. DE LAS SANCIONES ADMINISTRATIVAS POR OBSTRUCCIÓN A LA MEJORA REGULATORIA
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Artículo 40.
 
-El Director General de la Comisión presentará a la Secretaría de la Contraloría y Desarrollo Administrativo del Gobierno del Estado o a la Contraloría Municipal correspondiente, las quejas que se reciban en contra de servidores públicos, por incumplimiento a lo previsto en esta Ley, en los términos acordados en el seno de la Junta Directiva.
+Cualquier persona física o moral podrá interponer su queja ante la Secretaría de Contraloría y Modernización Administrativa, la Contraloría Municipal correspondiente, o ante la Comisión, en los términos y plazos señalados en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, cuando considere que algún funcionario o servidor público estatal o municipal, haya cometido cualquier conducta que obstruya la mejora regulatoria o el establecimiento y operación de cualquier empresa en el territorio del Estado.
+
+Cuando la queja se presente ante la Comisión, el Director General la deberá turnar de inmediato a la Secretaría de Contraloría y Modernización Administrativa o a la Contraloría Municipal que corresponda.
 
 ###### Artículo 41.
 
 Además de los supuestos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, el Director General de la Comisión, previo acuerdo de la Junta Directiva, podrá recomendar a la dependencia competente fincar sanciones administrativas a servidores públicos que obstruyan la mejora regulatoria y el establecimiento y operación de empresas. El procedimiento para presentar los casos de obstrucción empresarial se hará conforme al Reglamento de esta Ley.
 
-Se considerará obstrucción a la mejora regulatoria y al establecimiento y operación de empresas, cualquiera de las conductas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
+
+Para los efectos de esta Ley, se considerará obstrucción, a la mejora regulatoria y al establecimiento y operación de las empresas, cualquiera de las conductas siguientes:
 
 I. Incumplimiento de plazos de respuesta establecidos;
 
@@ -495,7 +507,9 @@ III. Pérdida de documentos;
 
 IV. Solicitud de donaciones o apoyos, para beneficio particular;
 
-V. Alteración de reglas y procedimientos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+V. Alterar o modificar las reglas o procedimientos, o solicitar requisitos no especificados en las regulaciones conducentes del trámite en específico y el Registro de Trámites y Servicios.
 
 VI. Negligencia o negativa en la recepción de documentos;
 
@@ -506,6 +520,18 @@ VIII. Manejo indebido de la firma electrónica que pueda generar el otorgar o ne
 IX. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y,
 
 X. Aquellas que incidan en perjuicio del establecimiento y operación de empresas conforme lo determine la Junta Directiva.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XI. Negarse, sin causa justificada, a realizar acciones para la agilización y perfeccionamiento de los trámites en su dependencia;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XII. Establecer con o sin autorización de los Titulares, del Ejecutivo Estatal, del ente público o del Presidente Municipal que corresponda, regulaciones nuevas o modificaciones de las ya existentes, sin contar con el dictamen positivo del Estudio de Impacto Regulatorio emitido por la Comisión; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2011)</small>
+
+XIII. Negarse a entregar la información requerida para la inscripción o modificación de los trámites en los Registros de Trámites y Servicios.
 
 ###### Artículo 42.
 
@@ -527,17 +553,21 @@ VI. Inhabilitación para desempeñar empleo, cargo o comisión en el servicio p�
 
 La aplicación de las anteriores sanciones se sujetará a lo dispuesto en los artículos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+
 ###### Artículo 43.
 
-La Junta Directiva, a través del Director General, podrá solicitar a la autoridad competente, aplique la sanción correspondiente a los titulares de las unidades y áreas administrativas que en un mismo empleo, cargo o comisión:
+La Junta Directiva, cuando tenga todos los elementos necesarios, a través del Director General, podrá solicitar a la Secretaría de Contraloría y Modernización Administrativa o a la Contraloría Municipal que corresponda, inicie el procedimiento respectivo en contra del funcionario público, que en un mismo empleo, cargo o comisión:
 
-I. Incumpla por dos veces el otorgar respuesta al interesado en el plazo determinado por la legislación, reglamento o decreto aplicable;
+I. Reincida en otorgar la respuesta al solicitante de un trámite, en un tiempo que exceda al plazo determinado en la regulación específica;
 
-II. Incumpla por dos veces lo dispuesto en el artículo 41, fracción II de la presente Ley;
+II. Reincida en hacer uso indebido de la información por atentar contra la naturaleza confidencial de solicitudes y proyectos;
 
-III. Incumpla por dos veces en la entrega de la información para inscribirse o modificar ésta en el Registro de Trámites y Servicios respecto de trámites a realizarse por los particulares para cumplir una obligación, en los plazos señalados en esta Ley; y
+III. Reincida en negarse a entregar la información para inscribir o modificar ésta en los Registros de Trámites y Servicios, respecto de trámites a realizarse por los particulares para cumplir una obligación u obtener un bien o servicio del ente público, en los plazos señalados en esta Ley;
 
-IV. Exija de manera dolosa, trámites, datos o documentos adicionales a los previstos en el Registro de Trámites y Servicios.
+IV. Exija de manera dolosa, trámites, datos o documentos adicionales a los previstos en el Registro de Trámites y Servicios; y
+
+V. Oponerse de manera sistemática e injustificada a aplicar las medidas de mejora regulatoria.
 
 ###### Artículo 44.
 
@@ -580,3 +610,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
