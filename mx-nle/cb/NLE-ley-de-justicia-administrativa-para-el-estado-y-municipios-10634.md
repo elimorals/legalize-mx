@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2009-02-20"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -593,7 +593,7 @@ El cómputo de los términos se sujetará a las reglas siguientes:
 
 I.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación respectiva; serán improrrogables y se incluirá en ellos el día del vencimiento; y
 
-II.- Se contarán por días hábiles.
+II.- Se contarán por días hábiles
 
 ### CAPITULO IV. DE LAS CAUSALES DE ANULACION
 
@@ -698,6 +698,10 @@ I.- Cuando se impugne una negativa ficta;
 II.- Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación;
 
 III.- Cuando el actor manifieste Bajo Protesta de Decir Verdad que no conoce el contenido de la resolución que pretende impugnar y así lo exprese en su demanda, debiendo señalar la autoridad a quien le atribuye, su notificación o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia de la resolución administrativa y de su notificación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El demandante tendrá el derecho de ampliar la demanda o de promover un nuevo juicio dentro de los treinta días hábiles siguientes a aquel en que surta efectos la notificación de la contestación de la misma, cuando en un juicio primigenio iniciado con motivo de combatir una negativa ficta la autoridad demandada acompañe constancia de resolución negativa expresa y de su notificación acompañadas por la autoridad demandada al producir contestación.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -2122,3 +2126,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El funcionamiento integral para la aplicación del Título Tercero "Del Procedimiento Oral", de la Ley de Justicia Administrativa para el Estado de Nuevo León, estará supeditado a la suficiencia presupuestal con motivo del requerimiento de ampliación de personal, instalaciones, equipamiento y capacitación. Su aplicación gradual se hará conforme lo determine el Pleno del Tribunal de lo Contencioso Administrativo.
 
 Tercero.- Los juicios que se encuentren en trámite pendientes de resolución, continuarán su substanciación conforme a las disposiciones vigentes en el momento de su inicio, excepto cuando voluntariamente las partes se sometan a los métodos alternos para la solución de conflictos.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
