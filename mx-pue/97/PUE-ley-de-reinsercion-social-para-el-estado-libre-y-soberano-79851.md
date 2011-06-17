@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-reinsercion-social-para-el-estado-libre-y-soberano-79851
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2011-02-28"
+last_updated: "2011-06-17"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY DE REINSERCION SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE EJECUCION DE SANCIONES PENALES Y DE REINSERCION SOCIAL PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 17 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE FEBRERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTO.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -524,3 +524,23 @@ CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad p
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELlA TAPIA VARGAS.- Rúbrica.- Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Las disposiciones de la presente Ley, no serán aplicables a aquellos asuntos cuya sentencia haya causado ejecutoria antes del 18 de junio de 2011; empero, los beneficios a los que se refiere el artículo 531 del Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, se aplicarán a los ya sentenciados, dando la intervención que corresponda al Juez de Ejecución.
+
+TERCERO.- Se deja sin efecto el Decreto por el que se expide la Ley de Reinserción Social para el Estado de Puebla, publicado en el Periódico Oficial del Estado, el cuatro de febrero de dos mil once.
+
+CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Puebla, publicada en el Periódico Oficial del Estado con fecha treinta de diciembre de mil novecientos setenta y cinco.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO.- El Ejecutivo Estatal expedirá el Reglamento de los centros de reinserción social dentro del plazo de noventa días.
+
+Hasta la expedición de las disposiciones reglamentarias continuará en vigor el Reglamento Interior para los Establecimientos de Reclusión del Estado, en lo que no se oponga al presente Decreto.
+
+SÉPTIMO.- Para el ejercicio y cumplimiento de las atribuciones contenidas en la presente Ley, las autoridades contarán con las instalaciones, personal y presupuesto que se le asignen, de conformidad con la suficiencia presupuestal.
