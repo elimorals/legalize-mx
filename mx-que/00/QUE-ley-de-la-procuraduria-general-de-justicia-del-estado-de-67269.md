@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2011-03-31"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -103,9 +103,15 @@ X. Formular alegatos, interponer recursos y expresar agravios, para el trámite 
 
 XI. Solicitar a la autoridad judicial competente, las medidas de orientación, protección y tratamiento que corresponda imponer al menor, por haberse demostrado su participación en la comisión de conductas tipificadas como delito y sancionadas por las leyes del Estado;
 
-XII. Promover la reparación del daño a favor del ofendido o víctima del delito, desde la integración de la investigación y durante el procedimiento donde por ley tenga intervención, cuando así proceda y realizar en el ámbito de sus atribuciones, todas las acciones legales tendientes a obtenerla; y
+XII. Promover la reparación del daño a favor del ofendido o víctima del delito, desde la integración de la investigación y durante el procedimiento donde por ley tenga intervención, cuando así proceda y realizar en el ámbito de sus atribuciones, todas las acciones legales tendientes a obtenerla; y (sic)
 
-XIII. Ejercer las demás facultades y cumplir las obligaciones que determinen las leyes aplicables.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIII. Participar ante la autoridad judicial especializada en justicia para adolescentes, en los procedimientos relacionados con la ejecución de las medidas aplicadas por la realización de conductas sancionadas, conforme a sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIV. Ejercer las demás facultades y cumplir las obligaciones que determinen las leyes aplicables.
 
 ###### Artículo 6.
 
@@ -193,9 +199,15 @@ III. Aportar los medios de prueba pertinentes y promover, ante el propio órgano
 
 IV. Formular conclusiones en los términos señalados por la ley y solicitar, en su caso, la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación del daño;
 
-V. Interponer los recursos que la ley concede en términos de la misma, expresando los motivos de inconformidad correspondientes y representar los intereses del Estado en los juicios de amparo en que intervenga; y
+V. Interponer los recursos que la ley concede en términos de la misma, expresando los motivos de inconformidad correspondientes y representar los intereses del Estado en los juicios de amparo en que intervenga; y (sic)
 
-VI. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI. Participar como parte, representando los intereses legales del ofendido, víctima y sociedad, en los procedimientos ante la autoridad jurisdiccional competente, a fin de que se cumplan las sanciones impuestas, en términos de la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
 
 ###### Artículo 8.
 
@@ -1386,3 +1398,11 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
