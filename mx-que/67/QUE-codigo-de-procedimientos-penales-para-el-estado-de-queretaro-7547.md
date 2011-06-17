@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2011-05-30"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -55,9 +55,11 @@ El imputado tendrá derecho a la asistencia de un defensor desde que se inicien 
 
 ARTICULO 4 (Confesión).- El imputado no podrá ser compelido, por medio alguno, a declarar en su contra. La confesión coaccionada será nula. No tendrá ninguna validez la confesión de una persona a quien no se le haya dado oportunidad de designar defensor.
 
-ARTICULO 5 (Ministerio Público y Poder Judicial).- La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-La imposición de las penas y las medidas de seguridad es propia y exclusiva del Poder Judicial.
+ARTICULO 5 (Ministerio Público y Poder Judicial).- La persecución de los delitos incumbe al Ministerio Público y a la policía de investigación del delito, la cual estará bajo el mando y conducción de aquél.
+
+La imposición, modificación y duración de las penas y medidas de seguridad son propias y exclusivas de la autoridad judicial.
 
 ARTICULO 6 (Proceso previo).- Nadie podrá ser penado o sometido a una medida de seguridad sino mediante proceso seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
 
@@ -75,7 +77,9 @@ ARTICULO 9 (Órganos Jurisdiccionales; improrrogabilidad de su competencia).- La
 
 La competencia de dichos órganos será improrrogable e irrenunciable.
 
-ARTICULO 10 (Atribuciones de los órganos jurisdiccionales).- Corresponderá a los órganos jurisdiccionales del Estado determinar, con sujeción a las disposiciones de este Código y de las leyes penales, cuando una conducta es o no constitutiva de delito; declarar la responsabilidad o no responsabilidad del imputado; imponer las penas y las medidas de seguridad; y condenar al pago de la reparación de daños y perjuicios.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTICULO 10 (Atribuciones de los órganos jurisdiccionales).- Corresponderá a los órganos jurisdiccionales del Estado determinar, con sujeción a las disposiciones de este Código y de las leyes penales, cuando una conducta es o no constitutiva de delito; declarar la responsabilidad o no responsabilidad del imputado; imponer las penas y las medidas de seguridad: y condenar al pago de la reparación de daños y perjuicios. En la etapa de ejecución, modificar las penas y medidas de seguridad, así como determinar su duración.
 
 ARTICULO 11 (Competencia territorial)- Será competente el juzgador del lugar en que el hecho se hubiere cometido; si se hubiere ejecutado en más de una demarcación, será competente el que haya prevenido en la causa.
 
@@ -251,9 +255,11 @@ VI.- Ofrecer y aportar los medios de prueba pertinentes y promover en el proceso
 
 VII.- Formular conclusiones en los términos señalados por la ley;
 
-VIII.- Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes, y
+VIII.- Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes, y (sic)
 
-IX.- En general, hacer todas las promociones que sean conducentes al desarrollo y terminación regular de los procesos.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX.- En general, hacer todas las promociones que sean conducentes al desarrollo y terminación regular de los procesos, comprendido también la etapa de ejecución de sanciones penales y medidas de seguridad.
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
 
@@ -273,9 +279,13 @@ Cuando un agente del Ministerio Público no se excuse a pesar de tener algún im
 
 En ningún caso se admitirá la recusación sin expresión de causa.
 
-ARTICULO 25 (Funciones de la Policía Judicial).- La Policía Judicial del Estado actuará bajo la autoridad y el mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Federal. De acuerdo con las instrucciones que le dicte el Ministerio Público, la Policía Judicial, llevará a cabo las investigaciones que deban practicarse durante las diligencias de preparación del ejercicio de la acción penal y exclusivamente para los fines de ésta, cumplimentará las citaciones, notificaciones y presentaciones que aquél le ordene.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Asimismo, la Policía Judicial ejecutará las órdenes de aprehensión, de comparecencia, de cateo y demás mandamientos que emita la autoridad judicial.
+ARTICULO 25 (Funciones de la policía de investigación del delito).- La policía de investigación del delito, actuará bajo la conducción y mando del Ministerio Público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Federal.
+
+De acuerdo con las instrucciones que le dicte el Ministerio Público, la policía de investigación del delito llevará a cabo las investigaciones que deban practicarse durante la (sic) diligencias de preparación del ejercicio de la acción penal y exclusivamente para los fines de ésta, cumplimentará las citaciones, notificaciones y presentaciones que aquél le ordene.
+
+Asimismo ejecutará las órdenes de aprehensión, de comparecencia, de cateo y demás mandamientos que emita la autoridad judicial.
 
 ### CAPITULO III. EL IMPUTADO Y EL DEFENSOR
 
@@ -325,17 +335,23 @@ ARTICULO 31 (Obligaciones del defensor).- Son obligaciones del defensor:
 
 I.- Asesorar al imputado sobre la naturaleza y las consecuencias jurídicas de los hechos que se le atribuyen;
 
-II.- Estar presente en las diligencias que se practiquen durante todo el procedimiento penal;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II.- Estar presente en las diligencias que se practiquen durante todo el procedimiento penal, incluidas las jurisdiccionales en la etapa de ejecución de sentencia;
 
 III.- Ofrecer y aportar los medios de prueba necesarios para la defensa del imputado;
 
-IV.- Hacer valer aquellas circunstancias probadas en el procedimiento, que favorezcan la defensa del imputado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV.- Hacer valer aquellas circunstancias probadas en el procedimiento, así como en las actuaciones jurisdiccionales en la etapa de ejecución de sentencia, que favorezcan la defensa del imputado;
 
 V.- Formular las conclusiones, en los términos previstos en el presente Código;
 
 VI.- Interponer los medios de impugnación necesarios para la defensa del imputado;
 
-VII.- Promover todos aquellos actos procesales que sean necesarios para el desarrollo normal del procedimiento y el pronunciamiento de la sentencia, y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII.- Promover todos aquellos actos procesales que sean necesarios para el desarrollo normal del procedimiento y el pronunciamiento de la sentencia, así como en la etapa de ejecución de sentencia; y
 
 VIII.- Las demás que señalen las leyes.
 
@@ -1939,11 +1955,13 @@ IV.- (A solicitud del procesado).- Cuando el procesado lo solicite, poniéndose 
 
 ARTICULO 300 H.- (Formas de revocación de la suspensión).- La revocación de la suspensión a prueba del procedimiento se hará por el juez que la concedió, de oficio o a petición de parte, cuando el beneficiado lo solicite y se ponga a disposición del juzgador, y cuando el fiador lo solicite expresamente, presentando al procesado. En cualquier otro caso, se hará oficio mediante el trámite incidental correspondiente.
 
-La autoridad encargada de la orientación, vigilancia y asistencia, está obligada a informar trimestralmente al juzgador sobre el desarrollo de dicha medida, así como poner en conocimiento del Ministerio Público y del juez, cualquier circunstancia que, a su juicio, amerite la revocación.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+La autoridad encargada de la orientación, vigilancia y asistencia, está obligada a poner en conocimiento del Ministerio Público y del juez, cualquier circunstancia que, a su juicio, amerite la revocación así como la conclusión del plazo estipulado de la suspensión a prueba.
 
-ARTICULO 300 I.-(Información para la vigilancia del beneficiado).- Una vez decretada la suspensión del procedimiento penal a prueba, se prevendrá al procesado para que se presente ante la Dirección de Prevención y Readaptación Social, dentro de los cinco días siguientes, apercibido que de no hacerlo se le revocará el beneficio. De igual forma, el Juez remitirá a la propia Dirección el duplicado del expediente en el que conste el procedimiento penal.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTICULO 300 I.- (Información para la vigilancia del beneficiado).- Una vez decretada la suspensión a prueba del procedimiento penal, se prevendrá al procesado para que se presente ante la Dirección General de Reinserción Social de la Secretaria de Gobierno, dentro de los cinco días siguientes, apercibido que de no hacerlo se le revocará el beneficio. De igual forma, el Juez enviará a la Dirección un oficio en donde informará los términos y condiciones del beneficio concedido.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -2720,3 +2738,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
