@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2011-03-31"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -219,13 +219,17 @@ IX. Publicar las leyes, reglamentos y demás disposiciones jurídicas que deban 
 
 X. Tramitar lo relacionado con los nombramientos, licencias, remociones y renuncias de los magistrados del Tribunal Superior de Justicia;
 
-XI. Otorgar a los tribunales y a las autoridades judiciales, el auxilio que soliciten para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XI. Otorgar a los tribunales y a las autoridades judiciales, dentro de su competencia, el auxilio que soliciten para el debido ejercicio de sus funciones;
 
 XII. Organizar, dirigir, vigilar y llevar un Registro Estatal de Firmas y Sellos de Funcionarios Públicos del ámbito estatal, municipal, educativo, judicial y de fedatarios públicos en el Estado y realizar, en los documentos públicos que calcen dichas firmas y sellos, la legalización o apostilla que corresponda;
 
 XIII. Vigilar y controlar todo lo relacionado con demarcación y conservación de los límites del Estado y sus municipios;
 
-XIV. Intervenir, en auxilio o en coordinación con las autoridades federales, en los términos de las leyes relativas en materia de cultos religiosos, detonantes y pirotecnia, juegos y sorteos, migración y readaptación social;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIV. Intervenir, en auxilio o en coordinación con las autoridades federales, en los términos de las leyes relativas en materia de cultos religiosos, detonantes y pirotecnia, juegos y sorteos, migración y reinserción social;
 
 XV. Proporcionar asesoría jurídica a las dependencias del Poder Ejecutivo del Estado y a las entidades paraestatales que lo soliciten, a través del titular de la dependencia a la que estén sectorizadas;
 
@@ -243,13 +247,21 @@ XXI. Tramitar los recursos administrativos que competa resolver al Gobernador el
 
 XXII. Realizar los actos jurídicos necesarios para reivindicar, administrar y conservar las propiedades del Estado;
 
-XXIII. Elaborar y ejecutar los programas de readaptación social;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XXIV. Administrar los Centros de Readaptación Social y los Centros de Internamiento de Menores;
+XXIII. Elaborar y ejecutar, a través de la Dirección General de Reinserción Social, los programas generales de reinserción social;
 
-XXV. Tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XXVI. Administrar la parte relativa a la ejecución de las medidas impuestas en el Sistema Integral de Justicia para Menores;
+XXIV. Administrar, a través de la Dirección General de Reinserción Social, los Centros de Reinserción Social y los Centros de Internamiento de Adolescentes;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XXV. Tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía e indulto;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XXVI. Ejecutar las penas, medidas de seguridad, sustitutivos de prisión y beneficios preliberacionales impuestos por los tribunales del Estado, tratándose de adultos, y las medidas, en el caso de adolescentes;
 
 XXVII. Organizar, dirigir y controlar el Sistema de Asesoría y Defensa Pública;
 
@@ -1020,3 +1032,11 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
