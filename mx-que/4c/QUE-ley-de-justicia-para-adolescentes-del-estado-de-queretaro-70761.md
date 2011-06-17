@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-justicia-para-adolescentes-del-estado-de-queretaro-70761
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-23"
-last_updated: "2009-10-23"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -287,9 +287,13 @@ I. Procuraduría de la Defensa del Menor y la Familia, a quien corresponde la re
 
 II. Procuraduría General de Justicia del Estado, a través de los agentes del Ministerio Público Especializado en Justicia para Adolescentes, en adelante “Ministerio Público”, a quienes corresponde la procuración de justicia para adolescentes;
 
-III. Secretaría de Gobierno del Poder Ejecutivo del Estado, a través de Defensores Públicos para Adolescentes y la Dirección General de Prevención y Readaptación Social, a quienes corresponde la defensa, ejecución y seguimiento de las medidas impuestas, respectivamente; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IV. Poder Judicial del Estado, a través de Magistrados y Jueces de Primera Instancia Especializados en Justicia para Adolescentes, en adelante “Magistrados”, “Magistrado”, “Jueces” o “Juez”, respectivamente, a quienes corresponde la impartición de justicia, desempeñando estos últimos las funciones de Control, Preparación de Juicio y Juicio, previstas en esta Ley.
+III. Secretaría de Gobierno del Poder Ejecutivo del Estado, a través de Defensores Públicos para Adolescentes y la Dirección General de Reinserción Social, a quienes corresponde la defensa y ejecución de las medidas impuestas, respectivamente; y
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Poder Judicial del Estado, a través de Magistrados y Jueces de Primera Instancia Especializados en Justicia para Adolescentes, en adelante "Magistrados", "Magistrado", “Jueces'' o “Juez", respectivamente, a quienes corresponde la impartición de justicia, modificación y duración de medidas, desempeñando estos últimos las funciones de Control, Preparación de Juicio, Juicio y Ejecución, previstas en esta Ley.
 
 Las autoridades señaladas, tendrán las facultades y obligaciones que le señalen la presente Ley y las demás disposiciones aplicables.
 
@@ -717,9 +721,11 @@ VIII. El monto de la reparación del daño al ofendido o víctima, en su caso; y
 
 IX. El nombre y firma del juez que la emite.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 54.
 
-Una vez concluida la audiencia de sentencia, ésta deberá ser notificada de inmediato a la Dirección General de Prevención y Readaptación Social, a fin de que se inicie el procedimiento de ejecución de la medida impuesta, estableciendo las condiciones y la forma en que el adolescente debe cumplirla, a través de un Programa Personalizado de Ejecución.
+Una vez concluida la audiencia de sentencia, ésta deberá ser notificada de inmediato a la Dirección General de Reinserción Social, a fin de que se inicie el procedimiento de ejecución de la medida impuesta, estableciendo las condiciones y la forma en que el adolescente debe cumplirla, a través de un Programa Personalizado de Ejecución.
 
 ### Capítulo Sexto. De los procedimientos alternativos al juzgamiento
 
@@ -819,9 +825,11 @@ Para fijar las condiciones, el Juez oirá al Ministerio Público, quien solicita
 
 En los casos suspendidos, en virtud de las disposiciones correspondientes a esta sección, el juzgador tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 64.
 
-Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, la Dirección General de Prevención y Readaptación Social notificará de inmediato al juzgador para los efectos legales a que haya lugar.
+Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, la Dirección General de Reinserción Social, notificará de inmediato al juez para los efectos legales a que haya lugar.
 
 ###### Artículo 65.
 
@@ -851,7 +859,9 @@ V. Hecho lo anterior, inmediatamente o dentro del plazo máximo de tres días h�
 
 VI. Las medidas sólo podrán ser de las contempladas en la presente Ley, para orientación y protección, cuya duración no será mayor a un año; y
 
-VII. La resolución se notificará a la Dirección General de Prevención y Readaptación Social para que proceda a la ejecución de las medidas impuestas.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII. La resolución se notificará a la Dirección General de Reinserción Social para que proceda a la ejecución de las medidas impuestas.
 
 ## Título Cuarto. Del procedimiento para personas menores de doce años de edad
 
@@ -919,7 +929,9 @@ Son objeto de medidas, los adolescentes declarados responsables por la comisión
 
 En caso de incumplimiento a lo preceptuado en este Título, la autoridad judicial o administrativa que corresponda impondrá a los responsables de los adolescentes, sanciones administrativas que consistirán en multas de cinco a treinta veces el salario mínimo general vigente en el Estado al momento de su aplicación, las que podrán duplicarse en caso de reincidencia. Tratándose de servidores públicos, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
-Sin perjuicio de que cuando los representantes legales o encargados del adolescente quebranten las medidas a que se refiere este Título, la Dirección General de Prevención y Readaptación Social dará vista al Ministerio Público para que se proceda en contra del rebelde, por el delito de desobediencia y resistencia de particulares.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Sin perjuicio de que cuando los representantes legales o encargados del adolescente quebranten las medidas a que se refiere este Título, la Dirección General de Reinserción Social dará vista al Ministerio Público para que se proceda en contra del rebelde, por el delito de desobediencia y resistencia de particulares.
 
 ### Capítulo Segundo. De las medidas de orientación y protección
 
@@ -927,7 +939,9 @@ Sin perjuicio de que cuando los representantes legales o encargados del adolesce
 
 Las medidas de orientación y protección consisten en apercibimientos, mandamientos o prohibiciones impuestos por el Juez, con el fin de regular el modo de vida de los adolescentes en lo que se refiere a conductas que afectan el interés de la sociedad, protegiendo sus derechos, promoviendo su formación, la comprensión del sentido que tiene la medida, el fomento de vínculos socialmente positivos y el pleno desarrollo de su personalidad.
 
-Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Dirección General de Prevención y Readaptación Social designe, excepto la de apercibimiento y, en lo posible, con la colaboración de la familia y su comunidad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Dirección General de Reinserción Social designe, excepto la de apercibimiento y, en lo posible, con la colaboración de la familia y su comunidad.
 
 #### Sección Primera. Del apercibimiento
 
@@ -949,13 +963,17 @@ La libertad asistida consiste en ordenar al adolescente continuar con su vida co
 
 La duración de esta medida no puede ser menor a tres meses ni mayor a seis años. La finalidad es inculcar en el adolescente el aprecio por la vida en libertad y la importancia que en la convivencia común tiene el respeto a los derechos de los demás; en consecuencia, el Programa Personalizado de Ejecución deberá contener actividades dirigidas al efecto, de modo que se afirme la cultura de legalidad y se aprecien las desventajas de comportamientos irresponsables frente a las leyes y los derechos de otras personas.
 
-El supervisor designado por la Dirección General de Prevención y Readaptación Social, dará seguimiento a la actividad del adolescente mientras dure la medida y tendrá las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El supervisor designado por la Dirección General de Reinserción Social, dará seguimiento a la actividad del adolescente mientras dure la medida y tendrá las siguientes obligaciones:
 
 I. Supervisar la asistencia y aprovechamiento del adolescente a los programas y actividades previstas en el Programa Personalizado de Ejecución y proporcionar la orientación requerida;
 
 II. Promover socialmente al adolescente y a su familia, proporcionándoles orientación; y
 
-III. Presentar los informes que le requieran las autoridades de la Dirección General de Prevención y Readaptación Social o el Juez que corresponda.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Presentar los informes que le requieran las autoridades de la Dirección General de Reinserción Social o el Juez que corresponda.
 
 #### Sección Tercera. De la prestación de servicios a favor de la comunidad
 
@@ -969,9 +987,11 @@ La naturaleza del servicio prestado deberá estar vinculada, cuando sea posible,
 
 La duración de esta medida debe tener relación directa con los daños causados, así como la existencia de voluntad de ocasionarlos, sin que sea menor a tres meses ni exceder de cuatro años.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 80.
 
-Cuando quede firme la resolución del Juez que impuso esta medida, la Dirección General de Prevención y Readaptación Social citará al adolescente para hacer de su conocimiento el contenido del Programa Personalizado de Ejecución, en el que deberá indicarse claramente:
+Cuando quede firme la resolución del Juez que impuso esta medida, la Dirección General de Reinserción Social citará al adolescente para hacer de su conocimiento el contenido del Programa Personalizado de Ejecución, en el que deberá indicarse claramente:
 
 I. El tipo de servicio que debe prestar;
 
@@ -983,13 +1003,17 @@ IV. El número de horas, días, semanas, meses o años durante los cuales debe s
 
 V. Los datos del supervisor del adolescente que debe verificar que la prestación del servicio se realice, conforme a lo establecido en la resolución del Juez.
 
-El supervisor debe visitar periódicamente el lugar donde se presta el servicio e informar a la Dirección General de Prevención y Readaptación Social la forma en que la medida se está cumpliendo.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El supervisor debe visitar periódicamente el lugar donde se presta el servicio e informar a la Dirección General de Reinserción Social la forma en que la medida se está cumpliendo.
 
 El supervisor podrá auxiliarse de un miembro de la institución u organización pública o privada en donde se cumpla con la medida, sin que por ello se entienda delegada la función de inspección.
 
 Para la determinación del servicio, se preferirán las entidades y programas del lugar de origen del adolescente o de donde resida habitualmente.
 
-La entidad, institución u organización donde se esté prestando el servicio, deberá informar semanalmente a la Dirección General de Prevención y Readaptación Social sobre el desempeño del adolescente y cualquier situación que se presente durante la ejecución de la medida.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La entidad, institución u organización donde se esté prestando el servicio, deberá informar semanalmente a la Dirección General de Reinserción Social sobre el desempeño del adolescente y cualquier situación que se presente durante la ejecución de la medida.
 
 La inasistencia injustificada del adolescente por más de tres ocasiones en el lapso de treinta días, así como la mala conducta o falta de disciplina y el bajo rendimiento en el desempeño de la prestación del servicio, serán causa de incumplimiento de esta medida.
 
@@ -1021,7 +1045,9 @@ La limitación o prohibición de residencia consiste en obligar al adolescente a
 
 El Juez, al imponer la medida, debe establecer el lugar donde el adolescente debe residir; dónde le estará prohibido hacerlo; y el tiempo por el cual debe cumplir con la medida, que en ningún caso podrá ser menor de seis meses ni mayor de cuatro años.
 
-La Dirección General de Prevención y Readaptación Social debe informar al Juez sobre las alternativas de residencia para el adolescente y, por lo menos cada tres meses, sobre el cumplimiento y evaluación de la medida.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La Dirección General de Reinserción Social debe informar al Juez sobre las alternativas de residencia para el adolescente y, por lo menos cada tres meses, sobre el cumplimiento y evaluación de la medida.
 
 #### Sección Sexta. Del traslado al lugar donde se encuentre el domicilio familiar
 
@@ -1041,7 +1067,9 @@ La prohibición de relacionarse con determinadas personas, consiste en ordenar a
 
 El Juez, al determinar esta medida, debe indicar, en forma clara y precisa, con qué personas no deberá relacionarse el adolescente, las razones por las cuales se toma esta determinación y el tiempo de vigencia de la misma, que no podrá ser menor de seis meses ni mayor de cuatro años.
 
-El personal especializado de la Dirección General de Prevención y Readaptación Social debe realizar las acciones necesarias para que el adolescente comprenda las inconveniencias y desventajas que para su convivencia social y desarrollo implica relacionarse con las personas señaladas en la resolución.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El personal especializado de la Dirección General de Reinserción Social, debe realizar las acciones necesarias para que el adolescente comprenda las inconveniencias y desventajas que para su convivencia social y desarrollo implica relacionarse con las personas señaladas en la resolución.
 
 ###### Artículo 88.
 
@@ -1057,9 +1085,11 @@ La prohibición de asistir a determinados lugares consiste en ordenar al adolesc
 
 El Juez deberá indicar en forma clara y precisa los lugares que no podrá visitar o frecuentar el adolescente, las razones que motivan esta decisión, así como su duración, que en ningún caso podrá ser menor de tres meses ni mayor de cuatro años.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 91.
 
-La Dirección General de Prevención y Readaptación Social debe comunicar al propietario, administrador o responsable de los establecimientos, que el adolescente tiene prohibido el ingreso a esos lugares.
+La Dirección General de Reinserción Social debe comunicar al propietario, administrador o responsable de los establecimientos, que el adolescente tiene prohibido el ingreso a esos lugares.
 
 #### Sección Novena. De la prohibición de conducir vehículos motorizados
 
@@ -1067,9 +1097,13 @@ La Dirección General de Prevención y Readaptación Social debe comunicar al pr
 
 Cuando al adolescente haya realizado la conducta sancionada conduciendo un vehículo motorizado, el Juez podrá imponerle la prohibición de conducir ese tipo de vehículos.
 
-La medida implica la inhabilitación para obtener permiso o licencia de conducir o la suspensión del mismo si ya hubiera sido obtenido, por lo que la Dirección General de Prevención y Readaptación Social hará del conocimiento de las autoridades competentes esta prohibición, para que nieguen, cancelen o suspendan el permiso del adolescente para conducir vehículos motorizados, durante el tiempo que dure la medida, que no podrá ser menor a un año ni mayor de cuatro años. La finalidad es que el adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Si la autoridad encargada de expedir los permisos o licencias para conducir vehículos automotores tiene conocimiento de que el adolescente ha incumplido con la medida impuesta, debe comunicarlo de inmediato a la Dirección General de Prevención y Readaptación Social, quien procederá en los términos de lo establecido en esta Ley.
+La medida implica la inhabilitación para obtener permiso o licencia de conducir o la suspensión del mismo si ya hubiera sido obtenido, por lo que la Dirección General de Reinserción Social hará del conocimiento de las autoridades competentes esta prohibición, para que nieguen, cancelen o suspendan el permiso del adolescente para conducir vehículos motorizados, durante el tiempo que dure la medida, que no podrá ser menor a un año ni mayor de cuatro años. La finalidad es que el adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Si la autoridad encargada de expedir los permisos o licencias para conducir vehículos automotores tiene conocimiento de que el adolescente ha incumplido con la medida impuesta, debe comunicarlo de inmediato a la Dirección General de Reinserción Social, quien procederá en los términos de lo establecido en esta Ley.
 
 #### Sección Décima. De la obligación de acudir a determinadas instituciones para recibir formación educativa, técnica, orientación o asesoramiento
 
@@ -1083,7 +1117,9 @@ El Juez debe indicar en la sentencia el tiempo durante el cual el adolescente de
 
 Se dará preferencia a los centros educativos que se encuentren más cerca del medio familiar y social del adolescente. En caso de ser una institución privada, se requerirá del consentimiento del adolescente.
 
-Para los efectos del párrafo anterior, el Juez podrá solicitar a la Dirección General de Prevención y Readaptación Social, una lista de las instituciones a las que podría asistir el adolescente, las características de aquéllas, así como una opinión razonada sobre cuál o cuales serían las más convenientes.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Para los efectos del párrafo anterior, el Juez podrá solicitar a la Dirección General de Reinserción Social, una lista de las instituciones a las que podría asistir el adolescente, las características de aquéllas, así como una opinión razonada sobre cuál o cuáles serían las más convenientes.
 
 ###### Artículo 95.
 
@@ -1095,11 +1131,15 @@ II. No divulgar las causas por las cuales el adolescente se encuentra en ese cen
 
 III. No discriminar al adolescente por ningún motivo; y
 
-IV. Brindar toda la información que le requieran el supervisor o a la Dirección General de Prevención y Readaptación Social, respecto del cumplimiento de la medida por parte del adolescente.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Brindar toda la información que le requieran el supervisor o a la Dirección General de Reinserción Social, respecto del cumplimiento de la medida por parte del adolescente
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 96.
 
-La Dirección General de Prevención y Readaptación Social debe designar un supervisor que le informará, por lo menos cada tres meses, sobre la evolución, avances o retrocesos del adolescente.
+La Dirección General de Reinserción Social debe designar un supervisor que le informará, por lo menos cada tres meses, sobre la evolución, avances o retrocesos del adolescente.
 
 ###### Artículo 97.
 
@@ -1117,9 +1157,11 @@ La obligación de obtener un empleo formal, consiste en ordenar al adolescente i
 
 El Juez, al determinar la medida, debe fundar y motivar las razones por las que toma esta determinación; los lugares donde autorice sea cumplida la medida, que podrán ser a propuesta del adolescente; y el tiempo durante el que deberá cumplirla, que no será menor a tres meses ni exceder de cuatro años. En todo caso se preferirán aquellos centros de trabajo que se encuentren cerca del medio familiar o social en el que se desarrolle el adolescente.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 100.
 
-Cuando existan diversas posibilidades, el Juzgador elegirá el centro de trabajo idóneo para el cumplimiento de la medida, sin perjuicio de que solicite opinión fundada a la Dirección General de Prevención y Readaptación Social.
+Cuando existan diversas posibilidades, el Juzgador elegirá el centro de trabajo idóneo para el cumplimiento de la medida, sin perjuicio de que solicite opinión fundada a la Dirección General de Reinserción Social.
 
 ###### Artículo 101.
 
@@ -1131,7 +1173,9 @@ II. No divulgar las causas por las cuales el adolescente se encuentra en ese cen
 
 III. No discriminar al adolescente por ningún motivo; y
 
-IV. Brindar toda la información que le requieran el supervisor o a la Dirección General de Prevención y Readaptación Social, respecto del cumplimiento de la medida por parte del adolescente.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Brindar toda la información que le requieran el supervisor o a la Dirección General de Reinserción Social, respecto del cumplimiento de la medida por parte del adolescente.
 
 ###### Artículo 102.
 
@@ -1147,9 +1191,11 @@ La medida de abstenerse de ingerir bebidas alcohólicas, drogas, estupefacientes
 
 Esta medida no implica ni admite la obligación de someterse a dichos tratamientos, sin perjuicio de que el Programa Personalizado de Ejecución contemple los mecanismos necesarios para conminar al adolescente para que, voluntariamente, admita la intervención que a su problemática corresponda y para que continúe con ella hasta ser dado de alta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 104.
 
-En lo que se refiere a esta medida, la Dirección General de Prevención y Readaptación Social debe:
+En lo que se refiere a esta medida, la Dirección General de Reinserción Social debe:
 
 I. Contar con programas generales destinados a reducir y eliminar el consumo de alcohol y de sustancias prohibidas;
 
@@ -1181,7 +1227,9 @@ El internamiento domiciliario consiste en la obligación para el adolescente de 
 
 La finalidad de esta medida es la privación del derecho a la libertad de tránsito dentro de los límites del propio domicilio, sin afectar el cumplimiento de las obligaciones laborales o escolares del adolescente.
 
-Un supervisor designado por la Dirección General de Prevención y Readaptación Social, vigilará el cumplimiento de esta medida.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Un supervisor designado por la Dirección General de Reinserción Social, vigilará el cumplimiento de esta medida.
 
 ###### Artículo 108.
 
@@ -1237,11 +1285,15 @@ El Centro de Internamiento de Adolescentes es el establecimiento en el cual se l
 
 La etapa de ejecución de las medidas comprende todas las acciones destinadas a asegurar su cumplimiento y lograr el fin que con su aplicación se persigue, así como todo lo relativo al trámite y resolución de los incidentes que se presenten durante esta fase.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 116.
 
-La Dirección General de Prevención y Readaptación Social, es la autoridad responsable del control y supervisión de la legalidad de la ejecución de las medidas, debe, por tanto, vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
+La Dirección General de Reinserción Social, es la autoridad responsable de la ejecución de las medidas.
 
-En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes de la Dirección General de Prevención y Readaptación Social.
+Corresponde al juez en funciones de ejecución, modificar las medidas o su duración, así como resolver su cumplimiento.
+
+En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes de la Dirección General de Reinserción Social.
 
 ###### Artículo 117.
 
@@ -1251,9 +1303,11 @@ Los Directores de los centros de internamiento, tomarán las decisiones administ
 
 Corresponde a la Secretaría de Gobierno del Estado, la emisión de los reglamentos que rijan el cumplimiento de las medidas previstas por esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 119.
 
-Las autoridades de la Dirección General de Prevención y Readaptación Social podrán conminar a quienes ejerzan la patria potestad, tutela o custodia del adolescente, para que brinden apoyo y asistencia a éste durante el cumplimiento de las medidas. Para tal efecto procurarán lo necesario para que se cuente con:
+Las autoridades de la Dirección General de Reinserción Social podrán conminar a quienes ejerzan la patria potestad, tutela o custodia del adolescente, para que brinden apoyo y asistencia a éste durante el cumplimiento de las medidas. Para tal efecto procurarán lo necesario para que se cuente con:
 
 I. Programas de capacitación a quienes ejerzan la patria potestad, tutela, custodia familiares o responsables del adolescente;
 
@@ -1305,15 +1359,45 @@ Se hará constar, en acta circunstanciada, la fecha, hora y lugar en que se inic
 
 #### Sección Primera. De la adecuación y cumplimiento anticipado de la medida
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 122.
 
-A partir de que haya trascurrido la mitad de la duración de la medida impuesta por el Juez, el adolescente o su defensor podrán solicitar a la Dirección General de Prevención y Readaptación Social la adecuación de la medida, que podrá consistir en la modificación, sustitución o cumplimiento anticipado de la misma, así como las obligaciones que, en su caso, deberá cumplir el adolescente.
+A partir de que haya trascurrido la mitad de la duración de la medida impuesta en sentencia, el adolescente o su defensor podrán solicitar al juez en funciones de ejecución, la modificación o duración de la medida en los términos ordenados en sentencia, a través del siguiente procedimiento:
 
-En forma posterior y cuando haya trascurrido cuando menos una décima parte más del tiempo de la duración de la medida impuesta, se podrá resolver sobre nuevas solicitudes de adecuación de la medida que se ejecuta.
+l. Se solicitará por escrito ante el Juez en funciones de ejecución, quien durante el plazo de tres días radicará el expediente que corresponda. La solicitud deberá contener el número de expediente de primera instancia, la conducta sancionable por la cual es responsable el adolescente, el nombre del ofendido y el informe del proceso compurgándose emitido por la Dirección General de Reinserción Social de la Secretaría de Gobierno. En la radicación, el juez dará la intervención que corresponde al Agente del Ministerio Público Especializado en Justicia para Adolescentes.
+
+II. El juez solicitará a la autoridad ejecutora de medidas, los informes relativos al resultado del programa personalizado de ejecución del adolescente de que se trate, mismo que deberá incluir la opinión fundada del Comité Técnico Interdisciplinario respecto de la reintegración social y familiar del adolescente, así como lo relativo al pago de la reparación del daño por parte de éste si es que fue condenado al pago de cantidad específica por concepto de dicha medida, informe que deberá rendirse dentro de los cinco días hábiles siguientes a la recepción de la petición.
+
+III. Recibido el informe anterior, el juez correrá traslado al adolescente, su defensor y al Agente del Ministerio Público Especializado y les concederá un plazo común de cinco días hábiles para realizar las manifestaciones conducentes o, en su caso, para ofrecer medios de prueba.
+
+IV. Fenecido el plazo anterior, el juez citará a las partes a una audiencia que deberá programar dentro de un plazo mínimo de cinco días y máximo de quince días hábiles, si es que la complejidad del asunto lo amerita para la preparación del desahogo de las pruebas si es que se ofrecieron y admitieron.
+
+V. La audiencia se llevará a cabo de la siguiente forma: el juez dará el uso de la voz al solicitante y posteriormente a la contraparte para que realicen su alegato inicial; posteriormente, se procederá al desahogo de medios de prueba, si es que fueron ofrecidas y admitidas, teniendo las partes el derecho de interrogar y, en su caso, contrainterrogar a los órganos de prueba; concluido el desahogo de pruebas, las partes, en el mismo orden, realizarán sus respectivos alegatos de cierre y se declarará cerrado el debate. La audiencia la presidirá el juez, sin que pueda delegar dicha facultad y será pública, oral y continua; no podrá suspenderse sino únicamente para el caso de que no comparezcan, por causa justificada, los órganos de prueba, de quienes se ordenará su presentación forzosa si es que fueron notificados legalmente. La suspensión de la audiencia no podrá exceder de tres días.
+
+VI. Cerrado el debate, el juez podrá decretar un receso y reanudará la audiencia para emitir la resolución oral, que explicará a las partes, independientemente de que con posterioridad realice el engrose correspondiente.
+
+VII. En caso de que no se hayan ofrecido o admitido pruebas, posterior a escuchar en sus planteamientos a las partes, el juez decidirá en la audiencia con base en los informes presentados por la autoridad ejecutora de medidas y lo alegado por las partes.
+
+VIII. Una vez emitida la resolución, el juez la comunicará a la autoridad ejecutora de medidas y, en su caso, ordenará la inmediata libertad del adolescente para el caso de ser procedente el beneficio de modificación de la medida, haciendo de su conocimiento las obligaciones a las cuales queda sujeto el adolescente derivadas del programa personalizado de ejecución y le prevendrá sobre las consecuencias jurídicas para el caso de incumplimiento de las mismas.
+
+La autoridad ejecutora de medidas informará por escrito al juez en funciones de ejecución si existe incumplimiento por parte del adolescente con la medida motivo de la modificación, agregando los documentos que acrediten dicha circunstancia, para lo cual, el juez citará al adolescente, a su defensor y al Agente del Ministerio Público Especializado, a una audiencia en la que procederá a aplicar la medida de mayor gravedad ordenada en sentencia, previa intervención que se dé a las partes para realizar las manifestaciones correspondientes. El juez deberá informar al adolescente las razones de la aplicación de la medida de mayor gravedad.
+
+Si la medida de mayor gravedad por incumplimiento, implica el internamiento definitivo, el juez omitirá la audiencia y procederá a ordenar la detención del adolescente, siempre y cuando esté fundado con documentales el incumplimiento en que haya incurrido el adolescente. Dicha orden la entregará al Agente del Ministerio Público Especializado a efecto de que se ejecute por Agentes Investigadores del Delito especializados, quienes, una vez lograda la detención, lo pondrán a disposición del juez, en funciones de ejecución de manera inmediata a efecto de que éste ordene la celebración de la audiencia correspondiente, con citación de las partes, en la que informará sobre la aplicación de la medida de mayor gravedad y la (sic) razones de ello, comunicando lo procedente a la autoridad ejecutora de medidas, así como también le deberá hacer saber al adolescente que ante el incumplimiento fundado, no será procedente que solicite un nuevo beneficio de modificación de la medida.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 122 Bis.
+
+Si el beneficio se solicitó transcurrida la mitad de la duración de la medida y éste se declara improcedente, podrá solicitarlo nuevamente una vez trascurridos seis meses a partir de la resolución anterior y se sujetará al procedimiento mencionado en el artículo precedente.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 123.
 
-En caso de incumplimiento de la medida, la Dirección General de Prevención y Readaptación Social, previa audiencia concedida al adolescente acompañado de su defensor, determinará si hubo o no incumplimiento de aquélla y, en consecuencia, apercibirá al adolescente para que cumpla en un plazo determinado, o bien, decretará la adecuación de la misma.
+En caso de incumplimiento de medidas de orientación y protección impuestas en sentencia, el Director General de Reinserción Social de la Secretaría de Gobierno, lo hará del conocimiento del juez, en funciones de ejecución, acompañando las constancias que acrediten el incumplimiento y el juez citará a las partes a una audiencia, que deberá celebrarse dentro de los tres días hábiles siguientes a la radicación del informe, en la que, una vez escuchadas a las partes, el juez, determinará si hubo o no incumplimiento de medidas y, en consecuencia, apercibirá al adolescente para que cumpla en un plazo determinado o, en su caso, decretará la adecuación de la medida por la de mayor gravedad, en los términos ordenados en la sentencia.
+
+El auto que deseche la solicitud de modificación o terminación anticipada y la resolución final, así como el que deseche la solicitud de audiencia por incumplimiento de medidas serán apelables en los términos de esta Ley y dicha circunstancia deberá hacerse del conocimiento del adolescente.
 
 #### Sección Segunda. Del control de la medida de internamiento
 
@@ -1393,7 +1477,7 @@ III. Apelación;
 
 IV. Queja; y
 
-V. Reclamación.
+V. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 128.
 
@@ -1473,29 +1557,31 @@ La audiencia se celebrará con las partes que comparezcan, quienes podrán hacer
 
 #### Sección cuarta. Del recurso de queja
 
-###### Artículo 140.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Las quejas pueden ser presentadas por el adolescente sujeto a medida de internamiento o a través de su defensor o quien ejerza la patria potestad, tutela o custodia, contra el personal de los centros de internamiento o quienes estén colaborando en la aplicación de la medida, por la trasgresión o inminente vulneración de sus derechos y garantías.
+###### Articulo 140.
 
-Las quejas pueden ser presentadas de manera oral o escrita ante la Dirección General de Prevención y Readaptación Social o, en su caso, ante el director del centro de internamiento, quienes deberán realizar inmediatamente la investigación respectiva y dictar una resolución en un plazo no mayor a cinco días.
+El recurso de queja se presentará por el adolescente sujeto a medida de internamiento o a través de su defensor o quien ejerza la patria potestad, tutela o custodia, contra el personal de los centros de internamiento o quienes estén colaborando en la aplicación de la medida, por la trasgresión o inminente vulneración de sus derechos consagrados en el artículo 10 de esta Ley.
 
-La Dirección General de Prevención y Readaptación Social dispondrá, en su caso, las medidas precautorias necesarias para salvaguardar los derechos del agraviado mientras se resuelve la queja.
+La queja se presentará por escrito ante el juez en funciones de ejecución, durante los seis días hábiles siguientes a la aplicación del acto que implique trasgresión o vulneración de derechos del adolescente sujeto a medida de internamiento.
+
+Si el juez admite el recurso, deberá solicitar a la autoridad ejecutora los informes necesarios que, en su caso, deberán sustentarse con las documentales que acrediten o desvirtúen la acusación. Dicho informe se rendirá dentro del plazo de tres días hábiles contados a partir del día siguiente de la notificación. Si la autoridad ejecutora no envía los informes solicitados o no comparece a la audiencia, se tendrán por ciertos los hechos materia del recurso.
+
+Recibido el informe o sin él, el juez citará a las partes a una audiencia que deberá celebrarse dentro de los cinco días hábiles siguientes, en la que escuchará a las partes y resolverá de inmediato.
+
+Si la autoridad ejecutora es responsable, se dará vista al superior jerárquico, al órgano interno de control y, en su caso, al Agente del Ministerio Público, para los efectos legales procedentes.
+
+El juez podrá ordenar las medidas necesarias para salvaguardar los derechos del agraviado.
 
 #### Sección Quinta. Del recurso de reclamación
 
 ###### Artículo 141.
 
-Contra las resoluciones dictadas por la Dirección General de Prevención y Readaptación Social o por cualquier autoridad de los centros de internamiento que vulneren los derechos y garantías de los adolescentes; contra la falta de respuesta a una queja presentada en los términos del artículo anterior; y contra las resoluciones de la Dirección General de Prevención y Readaptación Social que adecue o dé por cumplida una medida, procederá el recurso de reclamación.
-
-El recurso debe interponerse por escrito ante el Secretario de Gobierno del Estado, quien podrá ser representado en la audiencia de resolución por el funcionario que designe. Si se califica como procedente el recurso, se citará a la brevedad a una audiencia a la que deberán concurrir el adolescente, quienes ejerzan la patria potestad, tutela o custodia, en su caso, su defensor y la autoridad ejecutora señalada como responsable, para que brevemente manifiesten lo que a su interés convenga. La autoridad competente resolverá de inmediato, una vez que haya oído a los asistentes.
-
-El Secretario de Gobierno podrá solicitar a las autoridades ejecutoras los informes necesarios para sustentar su resolución.
-
-Si la autoridad ejecutora no envía los informes solicitados o no comparece a la audiencia, se tendrán por ciertos los hechos materia del recurso.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 142.
 
-La interposición del recurso de reclamación suspenderá la aplicación de la resolución impugnada, hasta que el mismo se resuelva en definitiva.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ## TRANSITORIOS
 
@@ -1542,3 +1628,13 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
