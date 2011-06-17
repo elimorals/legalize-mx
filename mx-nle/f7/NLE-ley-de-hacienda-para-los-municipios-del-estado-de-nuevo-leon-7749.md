@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2011-06-01"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NLE"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2011.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE JUNIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 200 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2011.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 17 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2215,8 +2213,6 @@ II.- Por registro de regularización que a juicio de los Municipios deban llevar
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 58.
@@ -2325,7 +2321,9 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$55
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$75.00 por unidad.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE MAYO DE 2011)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 17 DE JUNIO DE 2011)
+
+Los derechos previstos en las fracciones I a V, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
 
@@ -2431,8 +2429,6 @@ Se entiende por área de exposición al público, la totalidad de piso de venta 
 
 Los derechos previstos en este Artículo, serán aplicables únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 59.
@@ -2515,7 +2511,9 @@ XVII.- Radiolas, sinfonolas, tocadiscos, juegos electrónicos y futbolitos, N$35
 
 XVIII.- Establecimientos en donde existan mesas de billar, N$50.00 por unidad.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 18 DE MAYO DE 2011)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 17 DE JUNIO DE 2011)
+
+Los derechos previstos en las fracciones I a V, serán aplicables, únicamente a los establecimientos en los que se consuman o expendan bebidas alcohólicas total o parcialmente al público en general.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2011)</small>
 
