@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2011-04-15"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 17 DE JUNIO DE 2011, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -2089,11 +2089,13 @@ Extinción de las penas y medidas de seguridad
 
 Las penas y medidas de seguridad impuestas en sentencia ejecutoria, se extinguirán en la forma, términos y causas señaladas en el Código Penal. En su caso, el Juez de Ejecución otorgará constancia en la que declare que la pena o medida de seguridad impuesta al sentenciado; se ha extinguido.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011, EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T r a n s i t o r i o s
 
 Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2011)</small>
+
+Los artículos de la Ley del Proceso Penal para el Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 141 Tercera Parte, el 3 de septiembre de 2010, que resulten indispensables para la debida aplicación de la presente Ley, entrarán en vigor el día dieciocho de junio de dos mil once."
 
 Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
 
