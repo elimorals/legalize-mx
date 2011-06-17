@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2011-03-02"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO DE FORMA GRADUAL POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2011.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO DE FORMA GRADUAL POR LOS ARTICULOS PRIMERO Y TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGION JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -377,11 +377,11 @@ Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación
 
 Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+
 ###### Artículo 31.
 
 El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 31 Bis.
 
@@ -3751,16 +3751,32 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE FEBRERO DE 2011.
 
-PRIMERO.- El presente Ordenamiento entrará en vigor en forma gradual, iniciando por la región judicial que se establezca en la Ley Orgánica del Poder Judicial del Estado a más tardar el 18 de junio de 2011.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-SEGUNDO.- El Título Décimo del presente Ordenamiento, por ser materia de ejecución de sentencias, entrará en vigor el 18 de junio de 2011.
+PRIMERO.- El presente ordenamiento entrará en vigor en forma gradual, iniciando por la región judicial que se establezca en la Ley Orgánica del Poder Judicial del Estado, a partir del 15 de enero de 2013 y concluyendo el 17 de junio de 2016.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+SEGUNDO.- El Título Décimo del presente Ordenamiento, así como las demás disposiciones aplicables al mismo Título por ser materia de ejecución de sentencias, entrarán en vigor el 18 de junio de 2011.
 
 TERCERO.- Se abroga el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, de forma gradual atendiendo a lo que se disponga en la Ley Orgánica del Poder Judicial del Estado.
 
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+CUARTO.- Las disposiciones del Código en materia de ejecución de sentencias, no serán aplicables a aquellos asuntos cuya sentencia haya causado ejecutoria antes del 18 de junio de 2011; empero, los beneficios a los que se refiere el artículo 531 se aplicarán a los ya sentenciados, dando la intervención que corresponda al Juez de Ejecución.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
 
 P.O. 2 DE MARZO DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
