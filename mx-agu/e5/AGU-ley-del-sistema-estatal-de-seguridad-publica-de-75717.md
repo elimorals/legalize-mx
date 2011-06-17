@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2010-08-02"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -361,7 +361,9 @@ II. La Policía Ministerial;
 
 III. El personal operativo del área de Seguridad Pública y Vialidad de los Municipios;
 
-IV. El personal operativo de los Centros de Reeducación Social en el Estado y del Centro del Desarrollo para el Adolescente; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. El personal operativo de los Centros de Reinserción Social en el Estado y del Centro del Desarrollo para el Adolescente; y
 
 V. Las demás que se constituyan con apego a la Ley.
 
@@ -1259,7 +1261,9 @@ I. El Secretario de Seguridad Pública del Estado, quien la presidirá;
 
 II. El Director General del Instituto Estatal de Seguridad Pública de Aguascalientes;
 
-III. El Director General de Reeducación Social de la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. El Director General de Reinserción Social de la Secretaría;
 
 IV. El Director General de Policial Estatal de la Secretaría;
 
@@ -1650,3 +1654,47 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado de Aguascalientes promoverá, una reforma penitenciaria por medio de los sujetos legitimados para ello, a través de la confección de diagnósticos integrales de la situación penitenciaria y la elaboración de la reglamentación secundaria conducente que atienda los aspectos técnicos de su implementación, así como establezca y canalice los recursos financieros y partidas presupuestales, estatales y federales procedentes, para la operación de los proyectos y programas previstos en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a las necesidades y recursos de la Secretaría de Seguridad Pública del Estado se precisará la estructura administrativa de ejecución material de las penas y medidas de seguridad previstas en la ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán realizar los nombramientos de las autoridades especializadas encargadas de la aplicación de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos penales en fase de ejecución que se encuentren en trámite a la entrada en vigor de esta Ley, serán puestos a conocimiento del Juez de Ejecución para que comience con el ejercicio de sus funciones establecidas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Respecto a la aplicación de sanciones en materia de justicia para adolescentes, se continuará aplicando lo dispuesto por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Mientras no exista la infraestructura necesaria, las áreas a la (sic) que se refiere el Artículo 65 de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
+
+En tanto no se cuente con los centros especiales, precisados en el Artículo 75 de la ley de Ejecución de Sanciones Penales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección General de Reinserción Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
+
+De igual forma, mientras no exista por lo menos un Centro de Ejecución de Medidas de Seguridad Privativas de Libertad, el cumplimiento de dichas medidas se llevará a cabo en los centros existentes con la debida separación y cuando se trate de inimputables que requieran tratamiento, se realizará en la institución de salud mental, pública o privada, que determine la Dirección General de Reinserción Social.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias conducentes dentro de los 180 días contados a partir del 19 de junio del 2011.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la presente Decreto.
