@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2010-05-10"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,11 +43,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles y Penales, Mixtos de Primera Instancia, Familiares y Mixtos Menores, de Justicia para Adolescentes, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles, Penales, de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -286,6 +286,10 @@ Las resoluciones que competan a las Salas se tomarán por unanimidad o mayoría 
 Las Salas conocerán:
 
 I.- De la Segunda Instancia en los términos que establecen las Leyes y de los demás asuntos que les encomienden las Leyes, teniendo facultades para aplicar las correcciones disciplinarias a que se hagan acreedores los litigantes en los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O 17 DE JUNIO DE 2011)</small>
+
+II.- El Magistrado que para el efecto designe el Pleno mediante acuerdo, conocerá y asumirá el carácter de Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad, a fin de resolver el recurso de apelación previsto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, en contra de las resoluciones del Juez de Ejecución.
 
 ###### ARTICULO 18.
 
@@ -813,11 +817,11 @@ II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Habrá en el Estado, los Juzgados de Primera Instancia, Civiles, Familiares, Penales, Mixtos y de Justicia para Adolescentes, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
+Habrá en el Estado los Juzgados de Primera Instancia, Civiles, Familiares, Mixtos de Justicia para Adolescentes, Penales y de Ejecución, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
@@ -825,11 +829,11 @@ Habrá en el Estado, los Juzgados de Primera Instancia, Civiles, Familiares, Pen
 
 Habrá en el Estado los partidos judiciales que sean necesarios para la pronta administración de justicia que apruebe el Consejo de la Judicatura de conformidad con su disponibilidad presupuestal, el cual determinará la competencia territorial y, en su caso, la especialización por materia de los juzgados.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Los jueces de primera instancia, civiles y penales, de justicia para adolescentes, mixtos de primera instancia, familiares y mixtos menores, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
+Los jueces de primera instancia, civiles, penales y de Ejecución, de justicia para adolescentes, mixtos de primera instancia, familiares y mixtos menores, serán nombrados por el Consejo de la Judicatura Estatal, previo concurso de oposición que aprueben y obtendrán un nombramiento definitivo por diez años, durante los cuales serán inamovibles; sólo podrán ser removidos de sus cargos cuando observen mala conducta o previo juicio de responsabilidad respectivo o por falta de alguna de las cualidades que para tales cargos requiere la Ley, así como por ineptitud comprobada para el desempeño del mismo cargo que calificará el Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -913,6 +917,36 @@ XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código C
 
 Los Juzgados Penales conocerán en la Primera Instancia de todos los delitos que no sean de la competencia de los Juzgados Menores Mixtos y del Supremo Tribunal de Justicia, así como de los recursos y demás diligencias que les encomienden las leyes.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 41 Bis.
+
+Los Jueces Penales de Primera Instancia en materia de ejecución de sanciones penales conocerán:
+
+I. De la modificación y duración de las penas y medidas de seguridad impuestas;
+
+II. De las controversias que se susciten entre las autoridades penitenciarias y los internos y terceros con motivo de la ejecución de la sanción;
+
+III. De los recursos que formulen los internos en contra de las determinaciones de los titulares en materia de sanciones disciplinarias, medidas de seguridad y vigilancia especial, régimen y condiciones de vida digna en reclusión;
+
+IV. Sobre la resolución definitiva de los traslados de internos;
+
+V. De las controversias que se susciten entre las autoridades penitenciarias y los internos, visitantes y otros terceros interesados;
+
+VI. Del cómputo correspondiente cuando existan dos o más penas de prisión impuestas en sentencias diferentes respecto de un mismo interno;
+
+VII. De los incidentes de ejecución de la reparación del daño que promueva alguna de las partes y ordenar su ejecución material;
+
+VIII. De los incidentes sobre la reducción de penas, ineficacia o necesidad de la misma;
+
+IX. Del libramiento de las órdenes de aprehensión que procedan en materia de ejecución de sentencias;
+
+X. Del control de la legalidad en la ejecución de las sanciones penales;
+
+XI. Sobre el cumplimiento de la sanción impuesta; y
+
+XII. De las demás atribuciones que le confieran la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes y demás leyes de la materia.
+
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 42.
@@ -928,6 +962,12 @@ El funcionamiento de los Notificadores y de los Ejecutores quedará al arbitrio 
 En los Juzgados de Primera Instancia del ramo penal habrá un Juez, dos Secretarios de Acuerdos y un Secretario de Estudio y Proyectos, un Notificador cuando menos y la planta de empleados que señale el Presupuesto de Egresos.
 
 El funcionamiento de los Notificadores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 43 Bis.
+
+En los Juzgados de Ejecución habrá un Juez, un Secretario de Acuerdos, un Notificador cuando menos y demás personal que acuerde el Consejo de la Judicatura. El Juez de Ejecución de Sanciones Penales deberá estar presente en todas las audiencias y trámites que le competan en el procedimiento de ejecución.
 
 ###### ARTICULO 44.
 
@@ -1656,3 +1696,45 @@ Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que d
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+P.O. 17 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado de Aguascalientes promoverá, una reforma penitenciaria por medio de los sujetos legitimados para ello, a través de la confección de diagnósticos integrales de la situación penitenciaria y la elaboración de la reglamentación secundaria conducente que atienda los aspectos técnicos de su implementación, así como establezca y canalice los recursos financieros y partidas presupuestales, estatales y federales procedentes, para la operación de los proyectos y programas previstos en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a las necesidades y recursos de la Secretaría de Seguridad Pública del Estado se precisará la estructura administrativa de ejecución material de las penas y medidas de seguridad previstas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán realizar los nombramientos de las autoridades especializadas encargadas de la aplicación de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos penales en fase de ejecución que se encuentren en trámite a la entrada en vigor de esta Ley, serán puestos a conocimiento del Juez de Ejecución para que comience con el ejercicio de sus funciones establecidas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Respecto a la aplicación de sanciones en materia de justicia para adolescentes, se continuará aplicando lo dispuesto por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Mientras no exista la infraestructura necesaria, las áreas a la que se refiere el Artículo 65 de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
+
+En tanto no se cuente con los centros especiales precisados en el Artículo 75 de la Ley de Ejecución de Sanciones Penales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección General de Reinserción Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
+
+De igual forma, mientras no exista por lo menos un Centro de Ejecución de Medidas de Seguridad Privativas de Libertad, el cumplimiento de dichas medidas se llevará a cabo en los centros existentes con la debida separación y cuando se trate de inimputables que requieran tratamiento, se realizará en la institución de salud mental, pública o privada, que determine la Dirección General de Reinserción Social.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias conducentes dentro de los 180 días contados a partir del 19 de junio del 2011.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
