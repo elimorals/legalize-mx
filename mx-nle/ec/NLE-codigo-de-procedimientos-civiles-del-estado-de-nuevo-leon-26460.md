@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2011-04-15"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -7357,7 +7357,9 @@ DISPOSICIONES GENERALES.
 
 Se sujetarán al procedimiento oral:
 
-I.- Las controversias que se susciten con motivo de arrendamientos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I.- Las controversias que se susciten con motivo de arrendamientos o de comodatos;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -8359,7 +8361,7 @@ DE LA ADOPCION.
 
 El que pretenda adoptar deberá acreditar las, exigencias del Artículo 390 y demás relativos del Código Civil debiéndose observar lo siguiente:
 
-I. En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre. Nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres o del o los adoptantes. En caso de querer variar el nombre del o los adoptados, en dicha promoción se expresará el nuevo nombre que se pretende asignar.
+I. En la promoción inicial se deberá manifestar el nombre, apellidos, nacionalidad, edad y domicilio del menor que se pretende adoptar, y el nombre, nacionalidad, edad, estado civil y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de la institución de asistencia o beneficencia que lo haya acogido; así como el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes; y el nombre, nacionalidad y domicilio de los padres o del o los adoptantes. En caso de querer variar el nombre del o los adoptados, en dicha promoción se expresará el nuevo nombre que se pretende asignar.
 
 II. El otorgamiento del consentimiento de las personas que deban darlo, conforme a los Artículos 394 y 395 del Código Civil.
 
@@ -9490,3 +9492,7 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 P.O. 15 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
