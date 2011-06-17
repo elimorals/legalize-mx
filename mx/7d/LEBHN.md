@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2010-06-23"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -158,9 +158,11 @@ Aniversario de la promulgación de las Constituciones de 1857 y 1917.
 
 "Día del Ejército Mexicano".
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 24 de febrero:
 
-"Día de la Bandera"
+“Día de la Bandera”.
 
 > <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2007)</small>
 
@@ -170,9 +172,11 @@ Aniversario de la proclamación del Plan de Ayutla.
 
 15 de marzo: (DEROGADO, D.O.F. 3 DE FEBRERO DE 2006)
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 18 de marzo:
 
-Aniversario de la Expropiación Petrolera en 1938.
+Aniversario de la Expropiación Petrolera, en 1938.
 
 21 de marzo:
 
@@ -182,9 +186,11 @@ Aniversario del nacimiento de Benito Juárez en 1806.
 
 Día de la Promulgación del Plan de Guadalupe.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 2 de abril:
 
-Aniversario de la Toma de Puebla en 1867.
+Aniversario de la Toma de Puebla, en 1867.
 
 15 de abril: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
@@ -192,13 +198,17 @@ Aniversario de la Toma de Puebla en 1867.
 
 "Día del Trabajo".
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 5 de mayo:
 
-Aniversario de la Victoria sobre el ejército francés en Puebla en 1862.
+Aniversario de la Victoria sobre el Ejército Francés en Puebla, en 1862.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
 
 8 de mayo:
 
-Aniversario del nacimiento en 1753 de Miguel Hidalgo y Costilla, iniciador de la Independencia de México.
+Aniversario del nacimiento, en 1753, de Miguel Hidalgo y Costilla, iniciador de la Independencia de México.
 
 15 de mayo:
 
@@ -208,19 +218,29 @@ Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867.
 
 "Día de la Marina Nacional".
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 21 de junio:
 
-Aniversario de la Victoria de las armas nacionales sobre el Imperio en 1867.
+Aniversario de la Victoria de las armas nacionales sobre el Imperio, en 1867.
 
-> <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
 
 1o. de septiembre:
 
-Apertura del primer período de sesiones ordinarias del Congreso de la Unión.
+Apertura del primer periodo de sesiones ordinarias del Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
+11 de septiembre:
+
+Aniversario de la Victoria sobre el Ejército Español en Tampico, en 1829.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
 
 14 de septiembre:
 
-Incorporación del Estado de Chiapas, al Pacto Federal.
+Incorporación del estado de Chiapas al Pacto Federal.
 
 15 de septiembre:
 
@@ -230,13 +250,17 @@ Conmemoración del Grito de Independencia.
 
 Aniversario del inicio de la Independencia de México, en 1810.
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 27 de septiembre:
 
-Aniversario de la Consumación de la Independencia en 1821.
+Aniversario de la Consumación de la Independencia, en 1821.
+
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
 
 30 de septiembre:
 
-Aniversario del nacimiento de José María Morelos en 1765.
+Aniversario del nacimiento de José María Morelos, en 1765.
 
 12 de octubre:
 
@@ -256,9 +280,11 @@ Aniversario de la constitución del Ejército Insurgente Libertador, en 1810.
 
 "Día de las Naciones Unidas".
 
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2011)</small>
+
 30 de octubre:
 
-Aniversario del nacimiento de Francisco I. Madero, en 1873.
+Aniversario del nacimiento de Francisco I. Madero, en 1873
 
 1o. de noviembre: (DEROGADO, D.O.F. 9 DE MAYO DE 1995)
 
@@ -761,3 +787,7 @@ D.O.F. 21 DE ENERO DE 2008.
 D.O.F. 23 DE JUNIO DE 2010.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
