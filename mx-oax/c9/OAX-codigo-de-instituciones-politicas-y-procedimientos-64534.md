@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2011-03-23"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
+CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -1261,7 +1261,7 @@ Artículo 85
 
 Los Consejeros Electorales, serán electos conforme a las bases siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 1. Cada grupo parlamentario tendrá derecho a presentar hasta tres candidatos propietarios y suplentes.
 
@@ -1291,11 +1291,17 @@ d) Tener modo honesto de vivir, gozar de buena reputación y no haber sido conde
 
 e) Poseer al día de su designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura, contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
 
-f) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cinco años anteriores a la designación;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-g) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos cinco años anteriores a la designación;
+f) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos dos años anteriores a la designación;
 
-h) No haber desempeñado cargo de servidor público del poder Ejecutivo Federal, del Estado o de los Municipios en cargo de confianza conforme a la legislación correspondiente durante los cinco años anteriores a la fecha de su designación; y
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+g) No haber sido legisladores locales o federales, en los últimos dos años anteriores a la designación;
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+h) No haber desempeñado cargo de servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos durante dos años anteriores a la fecha de su designación; y
 
 i) No desempeñar ni haber desempeñado cargo de dirigente de organismos, instituciones, colegios o agrupaciones ciudadanas afiliadas a algún partido político, en los tres años anteriores a la fecha de su designación.
 
@@ -4021,7 +4027,7 @@ DIP. WILFREDO FIDEL VÁSQUEZ LÓPEZ.
 
 SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 4 DE AGOSTO DE 2009.
 
@@ -4035,7 +4041,7 @@ SEGUNDO.- Para los efectos de la renovación escalonada del Consejo General del 
 
 a) Elegirá a un nuevo Consejero Presidente cuyo mandato concluirá el 08 de abril de 2014, llegado el caso, el así nombrado podrá ser ratificado por una sola vez, en los términos establecidos en el citado artículo 86, párrafo 2 de este Código.
 
-b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del de(sic) 2017.
+b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del de (sic) 2017.
 
 c) Elegirá tres nuevos Consejeros Electorales propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2018.
 
@@ -4054,3 +4060,9 @@ b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cu
 c) Elegirá tres nuevos Consejeros Electorales propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2018.
 
 TERCERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir, del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
