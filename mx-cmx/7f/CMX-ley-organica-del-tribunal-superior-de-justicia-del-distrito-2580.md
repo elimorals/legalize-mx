@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2011-06-16"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -86,41 +86,41 @@ Los demás servidores públicos y auxiliares de la administración de justicia i
 
 Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles para el Distrito Federal, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por la autoridad civil correspondiente, sólo en relación con los requisitos inherentes a su formalidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4o.
 
-Son auxiliares de la administración de justicia y están obligados a cumplir las órdenes que en el ejercicio de sus atribuciones legales, emitan Jueces y Magistrados del Tribunal:
+Son auxiliares de la administración de Justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan jueces y magistrados del Tribunal:
 
-> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1999)</small>
+I. El Registro Civil;
 
-I. La Subsecretaría de Gobierno del Distrito Federal;
+II. El Registro Público de la Propiedad y el Comercio;
 
-II. (DEROGADA, G.O. 14 DE NOVIEMBRE DE 2007)
+III. Los peritos médicos legistas;
 
-III. El Consejo de Menores;
+IV. Los intérpretes oficiales y demás peritos en las ramas que les sean encomendadas;
 
-IV. El Registro Civil;
+V. Los síndicos e interventores de concursos y quiebras;
 
-V. El Registro Público de la Propiedad y del Comercio;
+VI. Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
 
-VI. Los Peritos Médico Legistas;
+VII. La Secretaría de Finanzas;
 
-VII. Los Intérpretes oficiales y demás Peritos en las ramas que les sean encomendadas;
+VIII. La Secretaría del Trabajo y Fomento al Empleo;
 
-VIII. Los Síndicos e Interventores de concursos y quiebras;
+IX. La Secretaría de Salud;
 
-IX. Los Albaceas, Interventores, Depositarios, Tutores, Curadores y Notarios, en las funciones que les encomienden las leyes correspondientes;
+X. La Secretaría de Educación;
 
-X. Los Agentes de la Policía Preventiva y Judicial, y
+XI. La Secretaría de Desarrollo Social;
 
-XI. Todos los demás a quienes las leyes les confieran este carácter.
+XII. Sistema para el Desarrollo Integral de la Familia, y (sic)
 
-Los auxiliares comprendidos en las fracciones III a IX de este artículo están obligados a cumplir las órdenes que, en ejercicio de sus atribuciones legales, emitan los Jueces y Magistrados del Tribunal.
+XIII. La Secretaría de Seguridad Pública y la Policía adscrita a la Procuraduría General de Justicia del Distrito Federal, y
 
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
+XIV. Todos los demás a quienes las leyes les confieran ese carácter.
 
-El Jefe de Gobierno del Distrito Federal, facilitará el ejercicio de las funciones a que se refiere éste artículo.
+El Jefe de Gobierno del Distrito Federal facilitará el ejercicio de las funciones a que se refiere este artículo.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -592,13 +592,17 @@ XII. Las demás que expresamente le confiera esta Ley y otras disposiciones apli
 
 ### CAPITULO III. De las Salas del Tribunal
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 38.
 
-Las Salas del Tribunal Superior de Justicia del Distrito Federal se integrarán cada una por tres Magistrados, y serán designadas por número ordinal, en Salas Civiles, Penales, Familiares y de Justicia para Adolescentes.
+Las Salas del Tribunal del Tribunal (sic) Superior de Justicia del Distrito Federal, se integrarán cada una por tres magistrados, y serán designadas cada una por un número ordinal, en Salas Civiles, Penales, Familiares, Justicia para Adolescentes y Especializadas en Ejecución de Sentencias Penales.
 
 Los Magistrados integrantes de las mismas actuarán en forma unitaria o colegiada en los términos establecidos por esta Ley. El Pleno del Tribunal determinará las materias de las Salas, de acuerdo con los requerimientos de una buena administración de justicia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE JUNIO DE 2011)</small>
+
+La (sic) Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia en el Distrito Federal resolverán en forma colegiada sobre le negativa o el otorgamiento de los beneficios en materia penitenciaria y en todos los demás casos resolverán de manera unitaria.
 
 ###### Artículo 39.
 
@@ -715,6 +719,20 @@ Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones cont
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 44 Ter.
+
+A los Magistrados de las Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia en el Distrito Federal, les corresponde conocer:
+
+I. De los recursos de apelación y denegada apelación interpuestos en contra de las resoluciones de los jueces de ejecución de sanciones penales que dicten en sus funciones de vigilancia de ejecución de la pena, reparación del daño y negación de beneficios penitenciarios;
+
+II. De las excusas y recusaciones de los Jueces de Ejecución de Sanciones Penales;
+
+III. De los conflictos competenciales que se susciten entre Jueces de Ejecución de Sanciones Penales, y
+
+IV. De los demás asuntos que determinen las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -878,11 +896,21 @@ VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de pe
 
 VIII. En general, todas las cuestiones familiares que reclamen la intervención judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 53.
 
-(DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
+A los Jueces de Ejecución de Sanciones Penales en el Distrito Federal les corresponde:
+
+I. Resolver en audiencia oral, todos los incidentes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada de los sentenciados;
+
+II. Resolver todas las cuestiones relacionadas con la ejecución de las consecuencias jurídicas del delito;
+
+III. Realizar todas las acciones necesarias para la vigilancia de la ejecución de las consecuencias jurídicas del delito;
+
+IV. Responder a las consultas formuladas por las autoridades penitenciarias;
+
+V. Todas las demás que establezcan las leyes correspondientes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3671,3 +3699,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente a su publicaci
 Segundo.- A partir de la entrada en vigor del Artículo Segundo del presente Decreto, el Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles para expedir las disposiciones reglamentarias necesarias para su instrumentación.
 
 Tercero.- Las acciones contenidas en el presente Decreto se realizarán conforme a la suficiencia presupuestal que, para tal efecto, se asignen dentro del Presupuesto de Egresos de la Federación del Ejercicio Fiscal correspondiente, sin menoscabo de los que determine la Asamblea Legislativa del Distrito Federal.
+
+G.O. 17 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día diecinueve de junio de dos mil once.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
