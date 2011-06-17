@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2011-05-23"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE EJECUCION DE SANCIONES PENALES Y REINSERCION SOCIAL PARA EL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 17 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -897,3 +899,29 @@ G.O. 23 DE MAYO DE 2011.
 Primero: Publíquese en la Gaceta Oficial del Distrito federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Segundo: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 17 DE JUNIO DE 2011.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor el día 19 de junio de 2011.
+
+TERCERO. Se abroga la Ley de Ejecución de Sanciones Penales del Distrito Federal, publicada el 17 de septiembre de 1999 y vigente a partir de esa fecha, así como los reglamentos derivados de dicha ley; se derogan todas las disposiciones de igual o menor rango que se opongan a esta Ley salvo el reglamento que regula la reclusión domiciliaria mediante el sistema de monitoreo electrónico, hasta en tanto no se emita una nueva disposición reglamentaria; salvo las disposiciones relativas a la Prisión Preventiva y sujetos a proceso de extradición.
+
+CUARTO. La Ley de Ejecución de Sanciones Penales para el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el día 17 de septiembre de 1999 y vigente a partir de esa fecha, seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley, hasta su conclusión.
+
+Los procedimientos que se encuentran en estado de resolución, deberán ser concluídos por la Dirección de Ejecución de Sanciones Penales, antes de la entrada en vigor de la presente ley.
+
+Los expedientes que no se encuentren en ese estado, deberán ser devueltos a los promoventes para que formulen su solicitud ante el Juez de Ejecución, bajo las disposiciones contempladas en la presente ley.
+
+QUINTO. En un plazo de ciento ochenta días hábiles contados a partir de la fecha de entrada en vigor de esta ley, deberá expedirse la normatividad reglamentaria.
+
+SEXTO. El Titular del Gobierno del Distrito Federal, a propuesta de la Subsecretaría, en un plazo de 60 días naturales posteriores a la expedición del Reglamento de la presente Ley, delineará las bases sobre las cuales se incorporarán las autoridades vinculadas en el cumplimiento de la reinserción social y convocará a la creación del Consejo Empresarial para la Reinserción Social a que hace referencia la presente Ley.
+
+El Jefe de Gobierno expedirá el Reglamento que regule la actuación del Consejo Empresarial para la Reinserción Social, en el plazo de 90 días naturales posteriores a su conformación.
+
+SÉPTIMO. La Subsecretaría de Sistema Penitenciario del Distrito Federal establecerá los programas a que hace referencia la presente Ley en un plazo que no exceda de 90 días naturales posteriores a la expedición del Reglamento.
+
+OCTAVO. La Asamblea Legislativa del Distrito Federal, en un plazo no mayor a 20 días naturales a partir del día siguiente de la publicación del presente Decreto, realizará las modificaciones necesarias al Decreto de Presupuesto de Egresos del Distrito Federal para el ejercicio fiscal 2011 a efecto de otorgar a todas las Instituciones encargadas de la operación del nuevo régimen de reinserción social, modificación y duración de penas, los recursos económicos para proveer de recursos humanos y materiales para su funcionamiento, y para la infraestructura que permita la creación y la adecuación de los juzgados de oralidad, así como de salas especializadas en ejecución y para la funcionalidad del Sistema Penitenciario, la Procuraduría General de Justicia y la Defensoría de Oficio todas del Distrito Federal.
+
+NOVENO. Hasta en tanto se creen las Salas Especializadas en materia de Ejecución de Sanciones Penales, conocerán del recurso de apelación a que se refiere esta Ley, por riguroso turno, las Salas Penales del Tribunal Superior de Justicia del Distrito Federal.
