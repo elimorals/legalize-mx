@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-las-normas-minimas-sobre-readaptacion-17122"
 country: "mx"
 rank: "ley"
 publication_date: "1974-01-08"
-last_updated: "2010-07-23"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADOS EN EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD EN EL ESTADO DE CAMPECHE QUEDARA ABROGADA, LA LEY QUE ESTABLECE LAS NORMAS MINIMAS SOBRE READAPTACION SOCIAL DE SENTENCIADO UNA VEZ QUE INICIE LA VIGENCIA DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 23 DE JULIO DE 2010.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 133, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -199,8 +199,18 @@ TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oport
 
 El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
 
-CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
-
-Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
+CUARTO: (DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche contenida en el decreto 48 publicada en el Periódico Oficial del Estado el día 23 de julio de 2010 entrará en vigor el día 18 de junio de 2011.
+
+Al entrar en vigor la Ley de Ejecución en cita se abrogan la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche publicada en el Periódico Oficial del Estado el día 15 de enero de 1982, reformada por decreto publicado en el mismo órgano de difusión oficial local con fecha 11 de junio de 1999, y la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados en el Estado de Campeche, publicada en el Periódico Oficial del Estado el día 8 de enero de 1974.
+
+TERCERO.- La Secretaría de Seguridad Pública y Protección a la Comunidad tendrá 90 días contados a partir de la entrada en vigor de la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche para expedir los reglamentos que resulten necesarios para la aplicación de la norma en mención.
+
+CUARTO.- Para el caso de que al momento de iniciar vigencia la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche la legislación adjetiva penal vigente en la entidad no contenga el sistema acusatorio adversarial para los procesos penales, todas las referencias al juez de control y tribunal de juicio oral contenidas en la Ley de Ejecución en cita, se entenderán hechas a los jueces de primera instancia en materia penal.
