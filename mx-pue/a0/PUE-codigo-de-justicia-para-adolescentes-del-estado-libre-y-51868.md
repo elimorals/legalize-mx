@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-justicia-para-adolescentes-del-estado-libre-y-51868"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2011-02-04"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de septiembre de 2006.
 
@@ -69,31 +71,41 @@ II.- Centro de Internamiento Especializado.- Cualquiera de los lugares exclusivo
 
 III.- Código.- El Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+IV.- Consejo General Técnico Interdisciplinario.- Órgano Colegiado de carácter consultivo, dependiente de la Secretaría General de Gobierno;
 
-IV.- Consejo Técnico Interdisciplinario.- Órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo del Estado y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+V.- Consejo Técnico Interdisciplinario.- Órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo del Estado y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente;
 
-V.- Defensor Público.- Defensor especializado para adolescentes, dependiente de la Procuraduría del Ciudadano;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VI.- DIF.- Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+VI.- Defensor Público.- Defensor especializado en justicia para adolescentes, dependiente de la Secretaría de Servicios Legales y Defensoría Pública del Estado de Puebla;
 
-VII.- Interno.- Toda persona que en términos de este Código esté sujeta a medida de internamiento en algún Centro de Internamiento Especializado, impuesta de manera cautelar o por resolución judicial;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+VII.- DIF.- Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII.- Juez.- La autoridad jurisdiccional de primera instancia especializada en materia de Justicia para Adolescentes, encargada de las etapas de instrucción y ejecución;
+VIII.- Interno.- Toda persona que en términos de este Código esté sujeta a medida de internamiento en algún Centro de Internamiento Especializado, impuesta de manera cautelar o por resolución judicial;
 
-IX.- Magistrado o Sala Unitaria.- La autoridad jurisdiccional de segunda instancia especializada en materia de Justicia para Adolescentes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-X.- Ministerio Público.- Ministerio Público especializado en materia de Justicia para Adolescentes; y
+IX.- Juez.- La autoridad jurisdiccional de primera instancia especializada en materia de Justicia para Adolescentes, encargada de las etapas de instrucción y ejecución;
 
-XI.- Sistema.- El Sistema de Justicia para Adolescentes en el Estado.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+X.- Magistrado o Sala Unitaria.- La autoridad jurisdiccional de segunda instancia especializada en materia de Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XI.- Ministerio Público.- Ministerio Público especializado en materia de Justicia para Adolescentes; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XII.- Sistema.- El Sistema de Justicia para Adolescentes en el Estado.
 
 ###### Artículo 4.
 
@@ -347,11 +359,9 @@ El Estado procurará la participación de la sociedad en la promoción de progra
 
 Para la aplicación del presente Código, serán autoridades competentes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
-
-I.- El Tribunal Superior de Justicia del Estado, el Magistrado, el Juez de Instrucción y el Juez de Ejecución de Medidas;
+I.- El Tribunal Superior de Justicia del Estado, el Magistrado, el Juez encargado de la etapa de Instrucción y el Juez encargado de la etapa de Ejecución de Medidas;
 
 II.- El Ministerio Público;
 
@@ -359,7 +369,13 @@ II.- El Ministerio Público;
 
 III.- (DEROGADA, P.O. 4 DE FEBRERO DE 2011)
 
-IV.- La Secretaría de Seguridad Pública.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV.- La Secretaría General de Gobierno a través de las áreas competentes; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V.- La Secretaría de Seguridad Pública, a través de las áreas competentes.
 
 ###### Artículo 29.
 
@@ -391,9 +407,11 @@ En el ejercicio de las funciones que determina el presente Código, el Ministeri
 
 #### Sección Cuarta: Autoridades Administrativas
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Gobernación y la Secretaría de Seguridad Pública, a través de sus áreas competentes y de acuerdo a las atribuciones que a cada una corresponda, otorgarán al Poder Judicial del Estado el apoyo que requiera para el debido ejercicio de sus funciones y vigilarán el cumplimiento de este Código en el ámbito administrativo, proveyendo lo conducente en términos de la normatividad aplicable.
+La Secretaría General de Gobierno y la Secretaría de Seguridad Pública, a través de sus áreas competentes y de acuerdo a las atribuciones que a cada una corresponda, otorgarán al Poder Judicial del Estado el apoyo que requiera para el debido ejercicio de sus funciones y vigilarán el cumplimiento de este Código en el ámbito administrativo, proveyendo lo conducente en términos de la normatividad aplicable.
 
 #### Sección Quinta: Instituciones Auxiliares
 
@@ -401,15 +419,17 @@ La Secretaría de Gobernación y la Secretaría de Seguridad Pública, a través
 
 Para efectos de este Código, son Instituciones Auxiliares en su aplicación y en la administración de Justicia para Adolescentes:
 
-I.- La Procuraduría del Ciudadano;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-II.- El DIF;
+I.- La Secretaría de Servicios Legales y Defensoría Pública del Estado de Puebla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+II.- El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
-III.- El Consejo Técnico Interdisciplinario;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III.- El Consejo General Técnico Interdisciplinario;
 
 IV.- Los servicios periciales de la Procuraduría General de Justicia, los médicos legistas, los intérpretes y demás peritos de que se allegue el Poder Judicial del Estado;
 
@@ -437,13 +457,17 @@ Los adolescentes que se encuentren en estado de abandono por no contar con famil
 
 Las personas que cumplan dieciocho años durante el procedimiento o la ejecución de una medida y se encuentren en el supuesto previsto en el párrafo anterior, serán sujetos a rehabilitación y asistencia social sólo por las instituciones autorizadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+###### Artículo 38 Bis.
+
+El Consejo General Técnico Interdisciplinario funcionará como un Órgano Colegiado Consultivo, dependiente del área administrativa competente de la Secretaría General de Gobierno, coadyuvante en la ejecución de las acciones tendientes a lograr la reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades de los adolescentes sujetos al presente Código.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 39.
 
-El Consejo Técnico Interdisciplinario funcionará como un Órgano Colegiado, auxiliar del Centro de Internamiento Especializado para Adolescentes y del Juez de Ejecución, responsable de emitir opinión especializada sobre la atención, supervisión y seguimiento en materia de ejecución dé medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios en la ejecución de aquéllas; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de realizar las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+El Consejo Técnico Interdisciplinario funcionará como un Órgano Colegiado, auxiliar del Centro de Internamiento Especializado para Adolescentes y de la autoridad jurisdiccional en la materia, responsable de emitir opinión especializada sobre la atención, supervisión y seguimiento en materia de ejecución de medidas para adolescentes, así como la rehabilitación y asistencia social para personas menores de doce años; formulará los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios en ejecución de aquellas; de coadyuvar pericialmente con las autoridades competentes en materia de menores, y de realizar las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -541,11 +565,9 @@ I.- El de investigación y formulación de la remisión, que comprende todas aqu
 
 II.- El de instrucción, que comprende todas las diligencias practicadas por la autoridad judicial para determinar si radica o no la remisión, para dictar o no la orden de presentación o aprehensión, para resolver la situación jurídica del acusado y para averiguar la existencia legal de las conductas tipificadas como delitos, las circunstancias en que se realizaron y la responsabilidad o irresponsabilidad de los acusados; incluidos el momento procesal en el que el Ministerio Público precisa su acusación y el acusado su defensa, a través de sus respectivas conclusiones, y el acto de comunicación de la resolución, en la que el Juez estima el valor de las pruebas admitidas y desahogadas; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
-
-III.- El de ejecución, que abarca desde el momento en que cause ejecutoria la resolución dictada hasta la extinción completa de las medidas impuestas, cuya aplicación corresponderá al Juez de Ejecución, de acuerdo a las atribuciones que le confiere la Ley Orgánica del Poder Judicial y este Código.
+III.- El de ejecución, que abarca desde el momento en que cause ejecutoria la resolución dictada hasta la extinción completa de las medidas impuestas, cuya aplicación corresponderá al Juez encargado de esta etapa.
 
 ###### Artículo 46.
 
@@ -1075,13 +1097,11 @@ El Juez o la Sala en resolución definitiva, de manera discrecional y razonada, 
 
 IX.- El monto de la reparación del daño a la víctima u ofendido, en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 107.
 
-Una vez firme la resolución, el Juez establecerá las condiciones y la forma en que el adolescente debe cumplir las medidas, y en caso de que alguna de estas sea de internamiento, quedará a cargo de las autoridades del Centro de Internamiento Especializado la elaboración de un Plan Individualizado de Ejecución, que debe ser autorizado por la autoridad administrativa competente.
+Una vez firme la resolución, el Juez establecerá las condiciones y la forma en que el adolescente debe cumplir las medidas, y en caso de que alguna de estas sea de internamiento, quedará a cargo de las autoridades del Centro de Internamiento Especializado la elaboración de un Plan Individualizado de Ejecución, que debe ser autorizado por la Secretaría General de Gobierno a través del área administrativa competente.
 
 ###### Artículo 108.
 
@@ -1119,13 +1139,11 @@ El Juez puede prescindir de toda medida cautelar, cuando la personalidad inofens
 
 Las medidas cautelares podrán levantarse a petición del Ministerio Público en cualquier momento, hasta antes de dictarse sentencia, cuando las circunstancias que dieron origen a la misma hayan desaparecido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 110.
 
-Cuando el adolescente sea entregado a sus padres, tutores o a las personas de quienes dependa o a sus familiares o a un hogar sustituto, la autoridad administrativa competente, con el apoyo del Consejo Técnico Interdisciplinario, deberá prestar la asesoría y efectuar el seguimiento que garantice la eficacia de las medidas adoptadas.
+Cuando el adolescente sea entregado a sus padres, tutores o a las personas de quienes dependa o a sus familiares o a un hogar sustituto, la Secretaría General de Gobierno a través del área administrativa competente, con el apoyo del Consejo Técnico Interdisciplinario, deberá prestar la asesoría y efectuar el seguimiento que garantice la eficacia de las medidas adoptadas.
 
 #### Sección Quinta: Revisión Extraordinaria
 
@@ -1371,13 +1389,11 @@ En el mismo acto, el Juez podrá recordar a los padres, tutores, o a quienes eje
 
 #### Sección Tercera: Suspensión de Derechos y Servicio a Favor de la Comunidad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 135.
 
-Cuando en la resolución ejecutoria que se reciba, se imponga la suspensión de derechos, la autoridad administrativa competente deberá realizar todo lo conducente para que aquélla sea cumplida en todos sus términos, como notificar dicha resolución por escrito y acompañando copia certificada de la misma, a las autoridades o instituciones que corresponda.
+Cuando en la resolución ejecutoria que se reciba, se imponga la suspensión de derechos el Juez encargado de la etapa de Ejecución, deberá realizar todo lo conducente para que aquélla sea cumplida en todos sus términos, como notificar dicha resolución por escrito y acompañando copia certificada de la misma, a las autoridades o instituciones que corresponda.
 
 ###### Artículo 136.
 
@@ -1391,25 +1407,21 @@ Las tareas deberán asignarse según las aptitudes, capacidades y posibilidades 
 
 La medida se mantendrá durante el tiempo necesario para que el servicio fijado se realice efectivamente o sea sustituido, pero sin exceder de un período máximo de un año. Dicho servicio deberá ser estrictamente vigilado por la autoridad competente, a efecto de que se cumpla el objetivo para el cual se impuso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 138.
 
-Toda persona a la que se imponga la medida de prestar servicios a favor de la comunidad o se le hubiere concedido éste como sustitutivo de alguna otra medida, quedará bajo el cuidado y vigilancia de la autoridad administrativa competente, misma que para el cumplimiento de éstos, determinará el lugar, los días y el horario en que deba prestarse y el tipo de servicio a desempeñar por el obligado, de acuerdo con los programas y convenios que establezca la autoridad ejecutora para la aplicación y supervisión de los servicios y bajo las condiciones que fije o imponga la resolución correspondiente.
+Toda persona a la que se imponga la medida de prestar servicios a favor de la comunidad o se le hubiere concedido éste como sustitutivo de alguna otra medida, quedará bajo el cuidado y vigilancia de la Secretaría General de Gobierno a través del área administrativa competente, de acuerdo con los programas y convenios que establezca el Titular del Ejecutivo para la aplicación y supervisión de los servicios bajo las condiciones que fije o imponga el Juez encargado de la etapa de Ejecución.
 
-Los programas y convenios a que se refiere el párrafo anterior, deberán garantizar que los sujetos de la medida, presten sus servicios en dependencias o entidades estatales o municipales, así como en instituciones públicas o privadas de educación, asistencia o servicio social, ubicadas preferentemente en la comunidad del sujeto de la medida y tomando en cuenta los usos y costumbres de la comunidad étnica indígena a que pertenezca, en su caso. Las instituciones en las que presten dichos servicios, deberán informar mensualmente a la autoridad administrativa competente sobre su cumplimiento, en términos de los convenios respectivos.
+Los programas y convenios a que se refiere el párrafo anterior, deberán garantizar que los sujetos de la medida, presten sus servicios en Dependencias o Entidades Estatales o Municipales, así como en instituciones públicas o privadas de educación, asistencia o servicio social, ubicadas preferentemente en la comunidad del sujeto de la medida y tomando en cuenta los usos y costumbres de la comunidad étnica indígena a que pertenezca, en su caso. Las instituciones en las que presten dichos servicios, deberán informar mensualmente al área administrativa competente de la Secretaría General de Gobierno sobre su cumplimiento, en términos de los convenios respectivos.
 
 ###### Artículo 139.
 
 La conmutación de alguna medida por servicio a favor de la comunidad podrá revocarse en cualquier momento, si el favorecido incumple en un periodo de treinta días, con veinte horas de servicio o más, debiendo seguirse para tal efecto el siguiente procedimiento:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
-
-I.- La autoridad administrativa competente enviará al Juez de Ejecución, las constancias del incumplimiento referido, para que emita su resolución, revocando la sustitución de la medida;
+I.- El área administrativa competente de la Secretaría General de Gobierno enviará al Juez encargado de la etapa de Ejecución, las constancias del incumplimiento referido, para que emita su resolución, revocando la sustitución de la medida;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -1459,19 +1471,15 @@ II.- Si el obligado estuviere internado en un Centro de Internamiento Especializ
 
 III.- La persona sujeta de la medida que se considere afectada con los plazos autorizados conforme a la fracción previa para el pago diferido de alguna multa, podrá solicitar su reconsideración ante el Procurador General de Justicia, siendo aplicable supletoriamente el procedimiento que este Código prevé para el recurso administrativo de revisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
-
-IV.- Los pagos de multas deben efectuarse en las cajas de la Secretaría de Finanzas y Administración, la cual ingresará la totalidad de los montos recaudados por este concepto al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos y expedirá los recibos correspondientes, cuyos originales serán para el obligado y las copias se integrarán a los respectivos expedientes de la autoridad administrativa competente la o resolución de que se trate, para constancia;
+IV.- Los pagos de multas deben efectuarse en las cajas de la Secretaría de Finanzas, la cual ingresará la totalidad de los montos recaudados por este concepto al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos y expedirá los recibos correspondientes, cuyos originales serán para el obligado y las copias se integrarán a los respectivos expedientes del Juez encargado de la etapa de Ejecución y del área administrativa competente de la Secretaría General de Gobierno;
 
 V.- Podrán aplicarse al pago de las multas impuestas como sanción o conmutación de medidas de internamiento, los descuentos y retenciones hechos para tal efecto sobre el producto del trabajo conforme lo que dispone el presente Código, así como la garantía que hubiere exhibido en cumplimiento de la medida cautelar impuesta, en su caso, en los
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
-
-VI.- Si algún pago por concepto de sanción pecuniaria no se realiza dentro del plazo correspondiente o el obligado se negare sin causa justificada a cubrir el importe respectivo, el mismo se exigirá y hará efectivo por las oficinas fiscales, a través del procedimiento económico coactivo y a instancias de la autoridad administrativa competente.
+VI.- Si algún pago por concepto de sanción pecuniaria no se realiza dentro del plazo correspondiente o el obligado se negare sin causa justificada a cubrir el importe respectivo, se exigirá y hará efectivo por las oficinas fiscales, a través del procedimiento económico coactivo y a instancias del área administrativa competente de la Secretaría General de Gobierno.
 
 ###### Artículo 144.
 
@@ -1491,13 +1499,11 @@ Una vez que la resolución que imponga la sanción pecuniaria cause ejecutoria, 
 
 Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del sujeto de la medida y de las personas que legalmente compartan la obligación, ni con el producto del trabajo del responsable, ni con la garantía que éste hubiere exhibido en cumplimiento de la medida cautelar impuesta, en su caso, aquéllos seguirán sujetos a la obligación de pagar la parte que falte, debiendo cubrirse de preferencia la reparación del daño y a prorrata entre los ofendidos, de ser el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 148.
 
-Constatada la liquidación de la multa que sustituya alguna medida, así como de las sanciones pecuniarias que se hubieren impuesto, la Procuraduría General de Justicia del Estado y la autoridad administrativa competente, comunicarán esta circunstancia a la autoridad que conmutó la medida de internamiento para que ordene la libertad inmediata del sentenciado.
+Constatada la liquidación de la multa que sustituya alguna medida, así como de las sanciones pecuniarias que se hubieren impuesto, la Procuraduría General de Justicia del Estado y el área administrativa competente de la Secretaría General de Gobierno, comunicarán esta circunstancia a la autoridad que conmutó la medida de internamiento para que ordene la libertad inmediata del sentenciado.
 
 #### Sección Quinta: Medidas Prohibitivas o Restrictivas de Conductas Habituales
 
@@ -1547,35 +1553,29 @@ Esta medida concluye con el informe que al efecto rinda el orientador y con la a
 
 El tratamiento ambulatorio consiste en un modelo de tratamiento integral, en hospitales, casas de salud o centros especializados determinados por la autoridad administrativa competente, que permite la deshabituación o rehabilitación integral del individuo sujeto al consumo de sustancias adictivas u otras prácticas nocivas para su salud, que le dificulten o impidan desarrollarse social, familiar y laboralmente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 156.
 
-Recibida copia de la resolución ejecutoria en la que se establezca que la conducta realizada por el sujeto de la medida fue consecuencia de su adicción o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o substancias que produzcan efectos similares, la autoridad administrativa competente lo remitirá a la institución pública o privada que determine, para que se formule y aplique el tratamiento de deshabituación o desintoxicación, según el caso y por el tiempo necesario para su rehabilitación, mismo internamiento que se le hubiere impuesto, en su caso, computándole el tiempo de detención en el centro de ejecución del tratamiento ambulatorio.
+Recibida copia de la resolución ejecutoria en la que se establezca que la conducta realizada por el sujeto de la medida fue consecuencia de su adicción o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o substancias que produzcan efectos similares, el Juez encargado de la etapa de Ejecución lo remitirá a la institución pública o privada que determine, para que se formule y aplique el tratamiento de deshabituación o desintoxicación, según el caso y por el tiempo necesario para su rehabilitación, mismo internamiento que se le hubiere impuesto, en su caso, computándole el tiempo de detención en el centro de ejecución del tratamiento ambulatorio.
 
-La persona que se considere afectada por la naturaleza y duración del tratamiento de deshabituación o desintoxicación o por no haberse observado las disposiciones aplicables, podrá solicitar la reconsideración de la medida ante la autoridad administrativa competente, quien a través del área correspondiente, remitirá la petición al Juez para que realice lo que sea procedente.
+La persona que se considere afectada por la naturaleza y duración del tratamiento de deshabituación o desintoxicación o por no haberse observado las disposiciones aplicables, podrá solicitar la reconsideración de la medida ante el Juez encargado de la etapa de Ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 157.
 
-La institución a la que haya sido asignado el sujeto de la medida, deberá enviar a la autoridad administrativa competente el programa de tratamiento que aplicará, así como informar quincenalmente y de manera detallada, su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sujeto, así como las dificultades originadas por parte del interno o de quien legalmente se haga cargo de éste. Si éste se evade o ausenta injustificadamente, durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, la autoridad administrativa competente lo hará del conocimiento de la Procuraduría General de Justicia del Estado, para que proceda conforme a sus atribuciones.
+La institución a la que haya sido asignado el sujeto de la medida, deberá enviar al área administrativa competente de la Secretaría General de Gobierno el programa de tratamiento que aplicará, así como informar quincenalmente y de manera detallada, su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sujeto, así como las dificultades originadas por parte del interno o de quien legalmente se haga cargo de éste. Si éste se evade o ausenta injustificadamente, durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, el área administrativa competente de la Secretaría General de Gobierno lo hará del conocimiento del Juez encargado de la etapa de Ejecución.
 
 ###### Artículo 158.
 
 Sólo el Juez podrá resolver sobre la modificación, suspensión, revocación o conclusión de la libertad asistida o del tratamiento ambulatorio de las personas dictaminadas o declaradas enfermas o adictas, conforme a la evolución de su enfermedad o adicción, tomando como base los dictámenes de los médicos legista s y los informes mensuales rendidos por la institución responsable del tratamiento, en su caso, y oyendo al Ministerio Público y al defensor del acusado. Si considera que dichos informes no son suficientes, ordenará la revisión del programa de tratamiento y la elaboración del dictamen pericial correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 159.
 
-Si el tratamiento se modifica provisionalmente o se suspende, deberá establecerse el tiempo que durará la interrupción y las obligaciones que deberán cumplir el sujeto de la medida y las personas que legalmente se hagan cargo de éste. Pero si transcurrido el tiempo señalado, el sujeto no se presenta a la continuación del programa de tratamiento, la autoridad administrativa competente hará del conocimiento del Juez de Ejecución y de la Procuraduría General de Justicia del Estado los hechos, para que se proceda legalmente.
+Si el tratamiento se modifica provisionalmente o se suspende, deberá establecerse el tiempo que durará la interrupción y las obligaciones que deberán cumplir el sujeto de la medida y las personas que legalmente se hagan cargo de éste. Pero si transcurrido el tiempo señalado, el sujeto no se presenta a la continuación del programa de tratamiento, el área administrativa competente de la Secretaría General de Gobierno lo hará del conocimiento del Juez encargado de la etapa de Ejecución.
 
 #### Sección Octava: Internamiento
 
@@ -1589,11 +1589,11 @@ Se considera tiempo libre aquél durante el cual el adolescente no deba cumplir 
 
 El internamiento definitivo consiste en la privación de la libertad y se debe cumplir exclusivamente en los Centros de Internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de la autoridad de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 162.
 
-El internamiento al que se refiere esta sección, sólo puede imponerse a quienes tengan o hayan tenido, al momento de realizar la conducta, una edad entre catorce años cumplidos y menos de dieciocho años no cumplidos, y se trate de alguna de las conductas tipificadas como graves en el Código de Procedimientos en Materia de Defensa Social del Estado Libre y Soberano de Puebla, o la tentativa de éstas:
+El internamiento a que se refiere esta sección sólo se puede imponer a quienes tengan o hayan tenido al momento de realizar la conducta, una edad de catorce años y menos de dieciocho y se trate de alguna de las siguientes conductas tipificadas como graves en el Código de Defensa Social del Estado Libre y Soberano de Puebla, o de la tentativa de estas:
 
 I.- Homicidio por culpa, previsto en los artículos 85 y 86;
 
@@ -1601,25 +1601,61 @@ II.- Rebelión, previsto en los artículos 147 y 149;
 
 III.- Terrorismo, previsto en los artículos 160, 162 Y 165;
 
-IV.- Ataque a los medios de transporte, previsto en los artículos 191 y 192;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-V.- Corrupción de menores o incapaces, previsto en los artículos 218 y 219,224 Bis, 224 Ter y 224 Quáter;
+IV.- Evasión de presos, previsto en el artículo 173;
 
-VI.- Lenocinio, previsto en el artículo 226;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VII.- Violación, previsto en los artículos 267, 268 Y 272;
+V.- Ataque a los medios de transporte, previsto en los artículos 191 y 192;
 
-VIII.- Asalto y atraco, previsto en los artículos 294, 295 Y 298;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IX.- Plagio o secuestro, previsto en el artículo 302, excepto el segundo párrafo de la fracción V;
+VI.- Corrupción y pornografía de menores e incapaces o personas que no pudieren resistir, cuando se encuentren en los supuestos previstos por los artículos 217, 220 y 229 Ter;
 
-X.- Homicidio, previsto en el artículo 312, en relación con los artículos 316, 323, 331, 334 Y 336;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XI.- Robo calificado, previsto en el artículo 373, en relación con los artículos 374, fracciones III y IV, Y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones 1, II, III, X, XI Y XVII del artículo 380;
+VII.- Lenocinio y Trata de Personas previstos en los artículos 226, 228 y 229 Ter;
 
-XII.- Robo, previsto en el artículo 374 fracción V; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XIII.- Daño en propiedad ajena, previsto en los artículos 412 y 413.
+VIII.- Violación, previsto en los artículos 267, 268 y 272;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX.- Asalto y atraco, previsto en los artículos 294, 295 y 298;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+X.- Plagio o secuestro previsto en el artículo 302, excepto el segundo párrafo de la fracción V;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XI.- Homicidio, previsto en el artículo 312, en relación con los artículos 316, 323, 331, 334 y 336;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XII.- Robo calificado previsto en el artículo 373, en relación con los artículos 374 fracciones IV y V, y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones I, II, III, X, XI y XVII del artículo 380;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIII.- Robo de ganado, previsto en el artículo 390, en relación con los artículos 392 fracción I y 393;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIV.- Robo de frutos, previsto en el artículo 391, en relación con el artículo 394 fracción IV;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XV.- Daño en propiedad ajena, previsto en los artículos 412 y 413;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XVI.- Chantaje, previsto en el artículo 415; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XVII.- Tortura, previsto en los artículos 449, 450, 451 y 452.
 
 La duración de esta medida deberá tener relación directa con los daños causados y ser proporcional a la conducta realizada y a la penalidad prevista en el Código de Defensa Social para el Estado Libre y Soberano de Puebla, sin poder exceder de cinco años cuando el sujeto de la medida tuviera una edad de entre catorce años cumplidos y dieciséis no cumplidos al momento de realizar la conducta, y de siete años como máximo cuando tuviera una edad de dieciséis años cumplidos a dieciocho no cumplidos.
 
@@ -1985,25 +2021,21 @@ XI.- Garantizar que los adolescentes sujetos a internamiento definitivo no sean 
 
 XII.- Las demás que determinen las leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 201.
 
-Para la ejecución de las medidas definitivas que ameriten seguimiento, deberá realizarse un plan individualizado de ejecución que será elaborado por la instancia administrativa encargada de la ejecución de medidas para adolescentes, con la activa participación del adolescente, su defensor y sus padres o tutores.
+Para la ejecución de las medidas definitivas, que ameriten seguimiento deberá realizarse un plan individualizado de ejecución que será elaborado por el Consejo Técnico Interdisciplinario y autorizado por el área administrativa competente de la Secretaría General de Gobierno, con la activa participación del adolescente, su defensor y sus padres o tutores.
 
-Este plan comprenderá sus aptitudes y habilidades personales, circunstancias familiares, socioculturales y de género, de modo que establezca objetivos o metas reales para la ejecución de la medida. Deberá estar formulado a más tardar dentro de los quince días siguientes una vez requerido por el Juez de Ejecución.
+Este plan comprenderá sus aptitudes y habilidades personales, circunstancias familiares, socioculturales y de género, de modo que establezca objetivos o metas reales para la ejecución de la medida. Deberá estar formulado a más tardar dentro de los quince días siguientes una vez requerido por el Juez encargado de la etapa de Ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 202.
 
-El Juez de Ejecución aprobará el contenido del plan individualizado de ejecución, sus requisitos y consecuencias, asegurándose de que no limiten derechos o aumenten obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la instancia administrativa encargada de la ejecución de medidas para adolescentes, las modificaciones a las que haya lugar, las cuales deben quedar subsanadas en un término no mayor a cinco días.
+El Juez encargado de la etapa aprobará el contenido del Plan Individualizado de Ejecución, sus requisitos y consecuencias, asegurándose de que no limiten derechos o aumenten obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará las modificaciones a las que haya lugar, las cuales deben quedar subsanadas por el Consejo Técnico Interdisciplinario y autorizado por el área administrativa competente de la Secretaría General de Gobierno, en un término no mayor a cinco días.
 
-La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicado por el Juez al superior administrativo correspondiente, sin perjuicio de las medidas de apremio que el Juez determine.
+La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicada por el Juez encargado de la etapa al superior administrativo correspondiente, sin perjuicio de las medidas de apremio que el Juez determine.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2039,21 +2071,37 @@ IX.- Criterios para considerar el cumplimiento o incumplimiento de las medidas y
 
 El procedimiento jurisdiccional de ejecución de medidas definitivas, se llevará a cabo en los términos siguientes:
 
-I.- Si la sentencia declaró responsable al adolescente y ésta ha causado ejecutoria, el Juez Especializado que la emitió deberá notificarla de inmediato al Juez de Ejecución, así como a la autoridad administrativa de Ejecución de Medidas, remitiendo al primero el expediente original o el testimonio correspondiente, a fin de iniciar el procedimiento de ejecución de la medida impuesta;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I.- Si la sentencia declaró responsable al adolescente y ésta ha causado ejecutoria, el Juez encargado de la etapa de Instrucción que la emitió deberá notificarla de inmediato al Juez encargado de la etapa de Ejecución, así como al área administrativa competente de la Secretaría General de Gobierno, remitiéndole el expediente original y el testimonio respectivamente, a fin de iniciar el procedimiento de ejecución de la medida impuesta;
 
 II.- El Juez de Ejecución, hará constar, en acta circunstanciada, la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente al adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus obligaciones;
 
-III.- Una vez notificada la medida, la autoridad administrativa competente de Ejecución de Medidas elaborará un Plan Individualizado de Ejecución, en un plazo de diez días siguientes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IV.- El Juez de Ejecución, una vez recibido el Plan Individualizado, aprobará el contenido del mismo, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En caso contrario, el Juez de Ejecución ordenará a la autoridad administrativa de Ejecución las modificaciones a las que haya lugar, contando para ello con un término no mayor a cinco días;
+III.- Una vez notificada la medida, el área administrativa competente de la Secretaría General de Gobierno autorizará el Plan Individualizado de Ejecución, en un plazo de diez días siguientes;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV.- El Juez encargado de la etapa de Ejecución, una vez recibido el Plan Individualizado, aprobará el contenido del mismo, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En caso contrario, el Juez encargado de la etapa ordenará las modificaciones a que haya lugar, contando para ello el Consejo Técnico Interdisciplinario y el área administrativa competente de la Secretaría General de Gobierno, con un término no mayor a cinco días;
 
 V.- La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicada por el Juez al superior administrativo correspondiente, sin perjuicio de las sanciones administrativas a las que se haga acreedor;
 
 VI.- El Juez citará al adolescente, a su padre, madre, o a ambos, o su representante, a su Defensor y al Ministerio Público, a una audiencia en la que comunicará el cómputo de las medidas, si es el caso, descontará de ésta el internamiento preventivo cumplido por el sentenciado, y determinará con precisión la fecha en que queden cumplidas la medidas; asimismo, la forma en que serán ejecutadas éstas, conforme al Plan Individual de Ejecución;
 
-VII.- El Titular de la autoridad administrativa correspondiente deberá informar al Juez de Ejecución cada tres meses, sobre los avances u obstáculos para el cumplimiento del plan, así como el entorno familiar y social en que el adolescente se desarrolla. La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicado por el Juez al superior administrativo correspondiente; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII.- Lo relativo a la libertad anticipada, modificación, conmutación, sustitución y extinción de las medidas y aquello que el Juez estime necesario, serán resueltos en audiencia oral, escuchando a las partes, quienes podrán ofrecer las pruebas que estimen conducentes; el Juez decidirá en esa misma audiencia y contra esa resolución no procede recurso alguno.
+VII.- El Titular del área administrativa competente de la Secretaría General de Gobierno deberá informar al Juez encargado de la etapa de Ejecución cada tres meses, sobre los avances u obstáculos para el cumplimiento del Plan, así como el entorno familiar y social en que el adolescente se desarrolla. La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicado por el Juez al superior administrativo correspondiente; y
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VIII.- Lo relativo a la libertad anticipada, modificación, conmutación, sustitución y extinción de las medidas y aquello que el Juez estime necesario, serán resueltos en audiencia oral, escuchando a las partes, quienes podrán ofrecer las pruebas que estimen conducentes; el Juez encargado de la etapa de Ejecución decidirá en esa misma audiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 204 Bis.
+
+Lo relativo a la libertad anticipada, modificación, conmutación, sustitución y extinción de las medidas y aquello que el Juez encargado de la etapa de Ejecución estime necesario, serán resueltos en audiencia oral conforme a las disposiciones aplicables del Título Décimo del Código de Procedimientos Penales del Estado Libre y Soberano de Puebla.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2111,13 +2159,11 @@ Además de aquéllos que le reconozcan las leyes con excepción de los que le fu
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 206.
 
-Corresponde a la Secretaría de Seguridad Pública, en lo que se refiere a este Libro, las siguientes atribuciones:
+Corresponde a la Secretaría General de Gobierno y a la Secretaría de Seguridad Pública, en el ámbito de sus competencias, en lo que se refiere a este Libro, las siguientes atribuciones:
 
 I.- Organizar, supervisar y evaluar el funcionamiento de los Centros de Internamiento Especializado, así como ejercer la vigilancia y el control de los internos, de conformidad con las disposiciones del presente Código y los lineamientos que establezca el Gobernador del Estado, pudiendo proponer a éste los programas y acciones que estime necesarios;
 
@@ -2133,15 +2179,13 @@ VI.- Establecer los criterios de selección, capacitación, evaluación y promoc
 
 VII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y otros instrumentos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 207.
 
-El ejercicio de las atribuciones a que se refiere el artículo anterior, se realizará por las áreas correspondientes en los términos y condiciones que determine el Titular de la Secretaría, conforme a lo dispuesto por los ordenamientos y convenios aplicables, salvo las que éste deba ejercer directamente por disposición legal expresa y sin perjuicio de que intervengan de igual manera en aquellos asuntos que estimen convenientes.
+El ejercicio de las atribuciones a que se refiere el artículo anterior, se realizará por las áreas correspondientes en los términos y condiciones que determine el Titular de cada Secretaría, conforme a lo dispuesto por los ordenamientos y convenios aplicables, salvo las que éste deba ejercer directamente por disposición legal expresa y sin perjuicio de que intervengan de igual manera en aquellos asuntos que estimen convenientes.
 
-La Secretaría de Seguridad Pública, a través de las áreas y servidores competentes, deberán proporcionar la colaboración y brindar el apoyo necesario que les sean solicitados al Juez de Ejecución, los agentes del Ministerio Público, la Procuraduría del Ciudadano y los visitadores de la Comisión Nacional de Derechos Humanos o de la del Estado de Puebla, para el desempeño de sus funciones en materia de Justicia para Adolescentes.
+Las Secretarías General de Gobierno y de Seguridad Pública, en el ámbito de sus respectivas competencias, a través de las áreas y servidores competentes, deberán proporcionar la colaboración y brindar el apoyo necesario que les sean solicitados por el Juez, los agentes del Ministerio Público, la Secretaría de Servicios Legales y Defensoría Pública y los visitadores de la Comisión Nacional de Derechos Humanos o de la del Estado de Puebla, para el desempeño de sus funciones en materia de Justicia para Adolescentes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2175,25 +2219,35 @@ VI.- Los internos deben recibir un trato adecuado y relaciones de estricto respe
 
 VII.- En la interpretación y aplicación del presente Libro y sus disposiciones reglamentarias, se estará a lo más favorable para los internos o personas sujetas a alguna otra medida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 210.
 
-Una vez que la resolución del Juez Especializado cause ejecutoria y se remita copia certificada de la misma al Juez de Ejecución, poniendo a su disposición a la persona sujeta de la medida de internamiento impuesta, ésta será internada en alguno de los Centros destinados para tal efecto, para el cumplimiento de la resolución, practicar el cómputo de tiempo respectivo, así como designar el Centro de Internamiento Especializado donde habrá de cumplir la medida, el cual estará bajo la supervisión y vigilancia de la Secretaría de Seguridad Pública, a través del área competente, para lo cual deberá tomar en cuenta:
+Una vez que la resolución cause ejecutoria y se remita copia certificada de la misma al Juez encargado de la etapa de Ejecución, poniendo a su disposición a la persona sujeto de la medida de internamiento impuesta, ésta será internada en alguno de los centros destinados para tal efecto, para el cumplimiento de la resolución, practicar el cómputo de tiempo respectivo, así como designar el Centro de Internamiento Especializado donde habrá de cumplir la medida, el cual estará bajo la supervisión y vigilancia de la Secretaría de Seguridad Pública, a través de sus áreas administrativas competentes, para lo cual deberá tomar en cuenta:
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 I.- El estudio integral que previamente se realice al sujeto de la medida, acerca de su personalidad, adaptabilidad social y capacidad infractora, a fin de precisar su tratamiento en internación;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
 II.- La individualización de la medida hecha por el juzgador;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 III.- Las circunstancias personales de la persona sujeta de la medida, tales como su condición socioeconómica, sus usos y costumbres tratándose de internos indígenas, su edad, su situación familiar y el medio al que se reintegrará al cumplir o extinguirse la medida de internamiento;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
 IV.- La ubicación del domicilio de la persona sujeta de la medida o de su familia en primer grado; y
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 V.- La opinión del Consejo Técnico Interdisciplinario.
 
-En términos de las leyes aplicables y con las atribuciones que le correspondan, el Consejo Técnico Interdisciplinario coadyuvará con el Juez de Ejecución en el cumplimiento de las medidas que imponga la autoridad competente.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En términos de las leyes aplicables y con las atribuciones que le correspondan, el Consejo General Técnico Interdisciplinario coadyuvará con el Juez encargado de la etapa de Ejecución en el cumplimiento de las medidas que imponga la autoridad competente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2203,13 +2257,11 @@ En términos de las leyes aplicables y con las atribuciones que le correspondan,
 
 El alojamiento, observación y adaptación social de los sujetos a medida de internamiento se sujetará a las condiciones y términos que señala este Código, sin perjuicio de que a falta de disposición expresa se apliquen las disposiciones relativas a la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 212.
 
-Queda prohibida la internación de adolescentes en Centros de Reinserción Social, por lo que si en alguno de estos establecimientos fuere detectado un interno que aún no tenga dieciocho años de edad y se encuentre sujeto a internamiento cautelar, la Secretaría de Seguridad Pública en coordinación con la Procuraduría del Ciudadano, coadyuvará con el Juez competente, remitiéndole las constancias relativas al hecho, para que resuelva lo que en derecho proceda.
+Queda prohibida la internación de adolescentes en Centros de Reinserción Social, por lo que si en alguno de estos establecimientos fuere detectado un interno que aún no tenga dieciocho años de edad y se encuentre sujeto a internamiento, la Secretaría de Seguridad Pública en coordinación con la Secretaría de Servicios Legales y Defensoría Pública, coadyuvará con el Juez competente, remitiéndole las constancias relativas al hecho, para que resuelva lo que en derecho proceda, comunicándole al área administrativa competente de la Secretaría General de Gobierno.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2229,11 +2281,71 @@ Sólo cuando los estudios practicados determinen que la permanencia del interno 
 
 La fase ejecutiva concluirá con el cumplimiento de la medida, a la cual, atendiendo las características individuales de la persona sujeta a la misma y, previa petición formulada al Juez de Ejecución, podrán incorporarse figuras para su modificación, suspensión o extinción anticipada, según lo prescribe el presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
+### CAPÍTULO II. DEL CONSEJO GENERAL TÉCNICO INTERDISCIPLINARIO Y DEL CONSEJO TÉCNICO INTERDISCIPLINARIO
 
-### CAPÍTULO II. DEL CONSEJO TÉCNICO INTERDISCIPLINARIO
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 214 Bis.
+
+El Consejo General Técnico Interdisciplinario funcionará como un órgano colegiado consultivo, dependiente del área administrativa competente de la Secretaría General de Gobierno, coadyuvante en el cumplimiento de las facultades que le confiere el presente Código a dicha Dependencia.
+
+El área administrativa competente de la Secretaría General de Gobierno transmitirá la información contenida en el expediente de cada adolescente, proporcionada por el Consejo General Técnico Interdisciplinario, que solicite la autoridad jurisdiccional.
+
+El Consejo General Técnico Interdisciplinario celebrará sesiones ordinarias por lo menos una vez a la semana; especiales o extraordinarias cuando sea necesario.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 214 Ter.
+
+El Consejo General Técnico Interdisciplinario, estará integrado por especialistas en las siguientes áreas:
+
+I.- Jurídica;
+
+II.- Médica;
+
+III.- Psiquiátrica;
+
+IV.- Trabajo social;
+
+V.- Pedagógica;
+
+VI.- Laboral;
+
+VII.- Psicológica;
+
+VIII.- De seguridad y custodia;
+
+IX.- Criminológica; y
+
+X.- Sociológica.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 214 Quater.
+
+El Consejo General Técnico Interdisciplinario, tendrá las atribuciones siguientes:
+
+I.- Supervisar y evaluar el desempeño de los Consejos Técnicos;
+
+II.- Establecer los programas y las directrices de las medidas de orientación, protección y tratamiento;
+
+III.- En los casos necesarios considerados por la autoridad jurisdiccional, evaluará y emitirá una opinión respecto de los estudios practicados por el Consejo Técnico Interdisciplinario;
+
+IV.- Opinar sobre la viabilidad en los casos de concesión de beneficios de libertad anticipada;
+
+V.- Coadyuvar con el Consejo Técnico Interdisciplinario en el ejercicio y cumplimiento de sus funciones;
+
+VI.- Auxiliar en el establecimiento de lineamientos para el diseño, contenido y elaboración de los dictámenes del Consejo Técnico Interdisciplinario;
+
+VII.- Dictar los acuerdos y resoluciones necesarios para el cumplimiento de sus atribuciones;
+
+VIII.- Capacitar a los integrantes del Consejo Técnico Interdisciplinario;
+
+IX.- Realizar las funciones del Consejo Técnico Interdisciplinario del Centro de Internamiento Especializado en los que no esté conformado; y
+
+X.- Las demás que les confieran las leyes, reglamentos, decretos, acuerdos y convenios aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -2379,7 +2491,9 @@ VIII.- Queda prohibido el uso de prendas y signos característicos, que señalen
 
 IX.- El régimen de internación se basará en la individualización del tratamiento a que debe ser sometido todo interno y estará orientado a modificar sus tendencias, inclinaciones y predisposiciones morbosas o antisociales, y a facilitarles la adquisición de conocimientos y aptitudes útiles para su adaptación, como medios para prevenir su reincidencia;
 
-X.- La autoridad administrativa competente, vigilará que el internamiento esté basado en el trabajo, la capacitación para el mismo, la educación, el deporte y la salud, como medios de reinserción; asimismo, determinará el tratamiento conducente para prevenir o evitar la desadaptación social de los internos, con base en los dictámenes del Consejo Técnico Interdisciplinario;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+X.- Las Secretarías General de Gobierno y de Seguridad Pública, en el ámbito de sus respectivas competencias, vigilarán que el internamiento esté basado en el trabajo, la capacitación para el mismo, la educación, el deporte y la salud, como medios de reinserción; asimismo, determinará el tratamiento conducente para prevenir o evitar la desadaptación social de los internos, con base en los dictámenes del Consejo Técnico Interdisciplinario;
 
 XI.- El dinero, objetos de valor y demás bienes que la persona internada lleve consigo a su ingreso o adquiera con posterioridad y que reglamentariamente no pueda conservar o retener consigo, serán entregados a la persona autorizada por el interno para recibirlos o mantenidos en depósito, previo inventario, para serles devueltos al obtener su liberación;
 
@@ -2439,11 +2553,15 @@ III.- Los internos, sus defensores y las personas que los visiten, deben respeta
 
 IV.- Los internos tienen derecho a ser recibidos en audiencias por los funcionarios del respectivo Centro; así como a formular y entregar o exponer personalmente, en forma pacífica y respetuosa, peticiones y quejas que se refieran al régimen interno o a su trato, ante el Director del Centro, sus superiores jerárquicos, otras autoridades del exterior o las personas que los representen, y solicitar que se tomen las medidas, oportunas del caso;
 
-V.- Los internos tendrán derecho a recibir el apoyo de un defensor, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que se hayan impuesto o con el régimen disciplinario, ante el Juez de Ejecución o la autoridad administrativa competente, según sea el caso;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V.- Los internos tendrán derecho a recibir el apoyo de un defensor, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que se hayan impuesto o con el régimen disciplinario, ante el Juez encargado de la etapa de Ejecución, el área administrativa competente de la Secretaría General de Gobierno o de la Secretaría de Seguridad Pública, según sea el caso;
 
 VI.- En caso de que el interno sea quien promueva juicio de garantías, interponga algún recurso o realice cualquiera otra promoción procesal o administrativa, deberá presentar el documento respectivo ante el Director del Centro, quien lo hará llegar a la autoridad a la que esté dirigido, antes de que venza el término para su admisión de ser posible o dentro de los tres días hábiles siguientes cuando no esté sujeto a plazo, entregando una copia sellada del mismo al recurrente;
 
-VII.- Los internos y sus defensores previa petición formulada ante el Juez de Ejecución, tendrán derecho a acceder a la información contenida de los expedientes personales formados por la autoridad ejecutora a partir del respectivo ingreso;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII.- Los internos y sus defensores, tendrán derecho a acceder a la información contenida en el expediente personal correspondiente formado con motivo del ingreso;
 
 VIII.- La comunicación que el interno tenga con su defensor, se celebrará en espacios apropiados y no podrá ser suspendida o intervenida;
 
@@ -2501,7 +2619,9 @@ I.- Admitir a los sujetos de internamiento con la debida orden previa y escrita 
 
 II.- Aplicar las medidas de internamiento, impuestas por el Juez;
 
-III.- Realizar un Plan Individualizado de Ejecución y someterlo a la aprobación del Juez;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III.- Realizar un Plan Individualizado de Ejecución, que será autorizado por el área administrativa competente de la Secretaría General de Gobierno, y sometido a la aprobación del Juez encargado de la etapa de Ejecución;
 
 IV.- Implementar el programa educativo adaptado a las necesidades de los internos, impartido por maestros especializados, mediante programas integrados al sistema de instrucción pública;
 
@@ -2513,7 +2633,9 @@ VII.- Garantizar a los internos la integración familiar, social y cultural por 
 
 VIII.- Brindar atención médica y psicológica a los internos que la necesiten, estableciendo medidas de rehabilitación y notificando al Director del Centro de Internamiento Especializado, los casos en que dicha atención deba ser otorgada por instituciones de salud externas;
 
-IX.- Integrar un expediente jurídico-administrativo de ejecución de las medidas impuestas por el Juez;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX.- Integrar un expediente jurídico-administrativo de ejecución de las medidas impuestas por el Juez encargado de la etapa; con el apoyo necesario del área administrativa competente de la Secretaría General de Gobierno;
 
 X.- Suscribir convenios con instituciones públicas y privadas, así como con organizaciones sociales y civiles para realizar cursos, talleres y seminarios comunitarios y familiares sobre integración del adolescente; y
 
@@ -2629,15 +2751,15 @@ III.- Reintegración.
 
 El periodo de estudio y diagnóstico y la fase de tratamiento en clasificación, formarán parte de la etapa de observación y clasificación a cargo del Consejo Técnico Interdisciplinario.
 
-Durante el periodo de estudio y diagnóstico, el Consejo Técnico Interdisciplinario realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, social, pedagógico, ocupacional, criminológico, jurídico, de seguridad y custodia el cual servirá para determinar su tratamiento inicial en clasificación, fase en la que los internos serán clasificados periódicamente y de acuerdo con la evolución de su personalidad, en grupos integrados por quienes deben ser sometidos a un mismo tratamiento asistencial y terapéutico, procurándose que los menores de dieciséis años de edad se encuentren separados de los demás.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+Durante el periodo de estudio y diagnóstico, el Consejo Técnico Interdisciplinario realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, social, pedagógico, ocupacional, criminológico, jurídico, sociológico y de seguridad y custodia el cual servirá para determinar su tratamiento inicial en clasificación, fase en la que los internos serán clasificados periódicamente y de acuerdo con la evolución de su personalidad, en grupos integrados por quienes deben ser sometidos a un mismo tratamiento asistencial y terapéutico, procurándose que los menores de dieciséis años de edad se encuentren separados de los demás.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 239.
 
-El tratamiento preliberacional es un periodo del régimen progresivo técnico, que podrá concederse al interno, después de cumplir una parte de la medida que le fue impuesta, consistente en su sujeción a un tratamiento asistencial y terapéutico y a un método gradual de aplicación de las medidas que se consideren más adecuadas para lograr su reinserción o evitar su desadaptación social, de acuerdo a las formas y condiciones de tratamiento y vigilancia que el Juez de Ejecución y la autoridad administrativa respectiva establezcan.
+El tratamiento preliberacional es un periodo del régimen progresivo técnico, que podrá concederse al interno, después de cumplir una parte de la medida que le fue impuesta, consistente en su sujeción a un tratamiento asistencial y terapéutico y a un método gradual de aplicación de las medidas que se consideren más adecuadas para lograr su reinserción o evitar su desadaptación social, de acuerdo a las formas y condiciones de tratamiento que establezca el Juez encargado de la etapa de Ejecución, con la vigilancia del área administrativa competente de la Secretaría General de Gobierno.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -3125,13 +3247,11 @@ Para elaborar, organizar, promover, difundir, desarrollar y controlar programas 
 
 ### CAPÍTULO VI (SIC). AUDIENCIA ORAL ANTE EL JUEZ DE EJECUCIÓN RELATIVA A LA LIBERTAD ANTICIPADA, SUSTITUCIÓN, MODIFICACIÓN, SUSPENSIÓN O EXTINCIÓN DE MEDIDAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 279.
 
-La solicitud relativa a la libertad anticipada, modificación, conmutación, sustitución o extinción de las medidas, podrá ser presentada al Juez de Ejecución por el adolescente, su defensor, los padres del adolescente, el representante legal o persona de confianza.
+La solicitud relativa a la libertad anticipada, modificación, conmutación, sustitución o extinción de las medidas, podrá ser presentada ante el Juez encargado de la etapa de Ejecución por el adolescente, su defensor, los padres del adolescente, el representante legal o persona de confianza.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -3157,13 +3277,11 @@ La audiencia oral deberá ser presidida por el Juez de Ejecución y concurren ob
 
 Las partes podrán ofrecer los elementos probatorios que consideren pertinentes para sustentar su solicitud relativa a la libertad anticipada, modificación, conmutación, sustitución o extinción de las medidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 283.
 
-El Juez de Ejecución se apoyará en el contenido del expediente administrativo que da seguimiento al Plan Individualizado de Ejecución del solicitante y en la opinión del Consejo Técnico Interdisciplinario respectivo.
+El Juez encargado de la etapa de Ejecución se apoyará en el contenido del expediente administrativo que da seguimiento al Plan Individualizado de Ejecución del solicitante y en la opinión del Consejo Técnico Interdisciplinario pudiendo solicitar también la del Consejo General Técnico Interdisciplinario.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -3309,39 +3427,53 @@ V.- Los que desechen cualquier promoción hecha valer conforme al presente Libro
 
 Contra los demás actos y resoluciones de carácter administrativo, dictados con motivo de la aplicación de este Libro y las disposiciones que de él emanen, no procederá ningún recurso en la misma vía, por lo que cualquier promoción en ese sentido deberá ser desechada de plano por la misma autoridad ante la que se promueva, por su superior jerárquico o por el titular del área jurídica que dependa de aquélla, según proceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 291.
 
-Las inconformidades promovidas e incidentes relacionados con las mismas, se desahogarán conforme a las siguientes disposiciones:
+El Recurso a que se refiere este Capítulo se tramitará conforme a las siguientes disposiciones:
 
-I.- El recurso deberá presentarse ante la autoridad responsable o el Secretario de Seguridad Pública, dentro de los diez días hábiles siguientes a la fecha de notificación o aplicación del acto recurrido o, en su defecto, al día en que se hiciere sabedor de éste, y sin que se requieran mayores formalidades para su admisión;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I.- Deberá presentarse ante la Secretaría de Seguridad Pública, dentro de los diez días hábiles siguientes a la fecha de notificación o aplicación del acto recurrido o, en su defecto, al día en que se hiciere sabedor de éste, y sin que se requieran mayores formalidades para su admisión;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 II.- La Secretaría de Seguridad Pública, a través del área competente, será la responsable de conocer, tramitar y poner en estado de resolución el recurso previsto en este Capítulo y los incidentes relacionados con el mismo;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
 III.- Una vez que se dé entrada al recurso, se asentará en el acuerdo de admisión el motivo, contenido y fundamento de la inconformidad que lo suscitó, debiendo suplirse cualquier deficiencia formal de la interposición;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 IV.- La autoridad de conocimiento sólo podrá desechar el recurso si no fue interpuesto en tiempo o si en el mismo se reconoce la conclusión del acto recurrido;
 
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
 V.- En caso de admitirse el recurso y a solicitud del recurrente, deberá decretarse la suspensión provisional del acto recurrido si no se ha ejecutado, salvo que se trate de la negación de alguna solicitud o de un acto de indisciplina tan grave que no deba existir demora en la aplicación de la corrección disciplinaria;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 VI.- En el mismo acuerdo que resuelva sobre la suspensión, se requerirá a la autoridad responsable un informe detallado respecto del acto recurrido, el cual deberá ser rendido dentro de las setenta y dos horas siguientes a la fecha en que se hubiere notificado la solicitud;
 
-VII.- Vencido el término para que la responsable rinda su informe, se practicarán la investigación y diligencias necesarias, incluido el desahogo de las pruebas ofrecidas, dentro del término de cinco días hábiles, y al final del mismo, sin más trámites, se dictará la resolución respectiva, la cual una vez emitida se notificará de manera personal al recurrente por la autoridad administrativa competente;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII.- Vencido el término para que la responsable rinda su informe, se practicarán la investigación y diligencias necesarias, incluido el desahogo de las pruebas ofrecidas, dentro del término de cinco días hábiles, y al final del mismo, sin más trámites, se dictará la resolución respectiva, la cual una vez emitida se notificará de manera personal al recurrente por la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
 VIII.- La resolución que ponga fin al recurso podrá desecharlo por improcedente; confirmar el acto recurrido, suspenderlo definitivamente, dejarla sin efectos o modificarlo, así como revocarlo y dictar un nuevo acto que lo sustituya; pero cualquiera que sea su sentido, la resolución no podrá ser impugnada en la misma vía, quedando subsistentes los derechos de los recurrentes para acudir a otra instancia; y
 
-IX.- De constatarse positivamente los hechos denunciados en el recurso, la autoridad resolverá que se restablezca el derecho conculcado y, en su caso, notificará la resolución a las instancias que deban proveer su cumplimiento y sancionar a quienes ordenaron y ejecutaron el acto indebido.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+IX.- De constatarse positivamente los hechos denunciados en el recurso, la Secretaría de Seguridad Pública resolverá que se restablezca el derecho conculcado y, en su caso, notificará la resolución a las instancias que deban proveer su cumplimiento y sancionar a quienes ordenaron y ejecutaron el acto indebido.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 292.
 
-Para efectos de este Capítulo, los sujetos a alguna providencia o medida podrán ratificar como sus defensores ante la autoridad ejecutora a la persona o personas que hubieren designado ante el Tribunal de la causa o nombrar a otros de su confianza, para que los asesoren, representen e intervengan en cualquier procedimiento, recurso o incidente que se plantee durante la ejecución de las consecuencias jurídicas de la conducta tipificada como delito.
+Para efectos de este Capítulo, los sujetos a alguna providencia o medida disciplinaria, tendrán derecho a nombrar a su defensor ante la autoridad administrativa, para que los asesoren y representen, o en su caso se les designará un defensor público especializado en materia de Justicia para Adolescentes.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
@@ -3486,3 +3618,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 TERCERO.- Las adecuaciones y reformas a las disposiciones reglamentarias de este Código, deberán entrar en vigor simultáneamente al presente Decreto.
 
 CUARTO.- Para la aplicación o modificación de sanción derivadas (sic) de la retroactividad de la Ley, conocerá el Juez de Ejecución.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
