@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-del-76033"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-23"
-last_updated: "2010-07-23"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL PRESENTE ORDENAMIENTO, ENTRARA EN VIGOR EN LA MISMA FECHA EN QUE INICIE LA VIGENCIA DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CAMPECHE.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 23 de julio de 2010.
 
@@ -65,7 +63,9 @@ II. Establecer las bases para la coordinación entre autoridades judiciales, adm
 
 III. La determinación de los medios de prevención y de reinserción social que, en lo conducente, resulten aplicables a la persona sujeta a las sanciones de prisión previstas en el Código Penal del Estado y otras leyes;
 
-IV. Establecer las bases generales del Sistema Estatal Penitenciario, así como de la Organización y funcionamiento de los establecimientos penitenciarios en la Entidad;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Establecer la organización y funcionamiento del sistema estatal penitenciario y de los centros penitenciarios del Estado en base al respeto de los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado en la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevén las Constituciones federal y local, la presente Ley y las demás disposiciones en la materia;
 
 V. Proporcionar los parámetros generales para la prevención especial a través del tratamiento derivado del sistema técnico progresivo, con estricto apego al principio de no discriminación de género y acorde con los instrumentos jurídicos internacionales; y
 
@@ -83,7 +83,9 @@ I. Ley: Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Camp
 
 II. Código Penal: Código Penal del Estado.
 
-III. Código de Procedimientos: Código de Procedimientos Penales del Estado.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Código procesal penal: El código que rige los procedimientos penales.
 
 IV. Dirección: Dirección de Reinserción Social.
 
@@ -99,7 +101,9 @@ IX. Tratamiento: Tratamiento tendiente a la reinserción social.
 
 X. Procesado: cuando se encuentren a disposición del Poder Judicial, desde e omento en que se comunica oficialmente a la Dirección de Ejecución el auto de vinculación a proceso.
 
-XI. Sentenciado: cuando se ha comunicado oficialmente a la Dirección de Ejecución que la sentencia condenatoria dictada en contra del interno ha causado ejecutoria y que aquél ha quedado a disposición de la Dirección o del órgano respectivo, encargado de ejecutar la sanción privativa de libertad que se haya impuesto.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XI. Sentenciado: cuando se ha comunicado oficialmente a la dirección de ejecución que la sentencia condenatoria dictada en contra del procesado ha causado ejecutoria y que aquél ha quedado a disposición de la dirección o del órgano respectivo, encargado de ejecutar la sanción que se haya impuesto.
 
 XII. Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos.
 
@@ -109,33 +113,45 @@ XIII. Inimputable: Toda persona que tiene nula o neutralizada su salud mental ó
 
 El tratamiento penitenciario debe ser aplicado con absoluta imparcialidad, sin ningún tipo de discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencial sexuales, estado civil o cualquier otro que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de tas personas.
 
-El tratamiento debe asegurar el respeto a los derechos fundamentales y debe procurar la reinserción social de los internos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El tratamiento debe asegurar el respeto a los derechos humanos y debe procurar la reinserción social de los internos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 6.
 
-El imputado o el condenado podrá ejercer durante la ejecución de las medidas de seguridad o sanciones impuestas, los derechos y las facultades que las leyes penales, penitenciarias y los reglamentos otorgan, y planteará personalmente, por medio de su defensor o de cualquier persona en quien él delegue, ante el tribunal que corresponda, las observaciones que con fundamento en aquellas reglas estime convenientes.
+El procesado y el sentenciado podrán ejercer, durante la ejecución de las medidas de seguridad o sanciones impuestas, los derechos y las facultades que las leyes penales, penitenciarias y los reglamentos le otorgan. Para tal efecto planteará personalmente, por medio del abogado defensor que él designe, o en su defecto, por un abogado defensor público, ante el tribunal que corresponda, las observaciones que, con fundamento en las leyes penales, penitenciarias y los reglamentos respectivos, estime convenientes.
 
 Los derechos y beneficios que esta Ley prevé para el sentenciado le serán informados a éste por la autoridad penitenciaria desde el momento en que se empiece a ejecutar la sentencia.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 7.
 
-El Juez de Juicio Oral o el Juez de Control, en su caso, será competente para realizar la primera individualización de la sanción o de las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas individualización; extinción, sustitución o modificación de las sanciones o de las medidas de seguridad será competencia, del Juez de Ejecución.
+El tribunal de juicio oral o el juez de control, en su caso, serán competentes para realizar la primera individualización de la sanción o de las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a la sucesiva individualización, extinción, sustitución o modificación de las sanciones o de las medidas de seguridad será competencia del juez de ejecución.
 
 ###### Artículo 8.
 
 El Ejecutivo del Estado podrá celebrar convenios y contratos con el sector privado para que éste participe en la construcción, remodelación, rehabilitación, ampliación y mantenimiento de instalaciones de los centros; en la prestación de servicios de operación en éstos; en la prestación del servicio de tratamiento por farmacodependencia con fines de rehabilitación y en la atención psicológica de los internos, en los términos que se señalen en tales convenios y contratos.
 
-En todo caso, los convenios y contratos que se celebren deberán contener cláusulas que establezcan la confidencialidad en los dispositivos de seguridad de los centros, la relación entre el personal contratado por los particulares y los internos, y el respeto irrestricto a los derechos fundamentales.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En todo caso, los convenios y contratos que se celebren deberán contener cláusulas que establezcan la confidencialidad en los dispositivos de seguridad de los centros, la relación entre el personal contratado por los particulares y los internos, y el respeto irrestricto a los derechos humanos de los internos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 9.
 
-El defensor podrá continuar el ejercicio de la defensa técnica durante la ejecución de la sanción. Asimismo, el condenado podrá nombrar un nuevo defensor, o en su defecto, se le nombrará un defensor público. El ejercicio de la defensa durante la ejecución penal consistirá en el asesoramiento al condenado, cuando se requiera, para la interposición de las gestiones necesarias en resguardo de sus derechos.
+El defensor podrá continuar el ejercicio de la defensa técnica durante la ejecución de la sanción. Asimismo, el sentenciado podrá nombrar un nuevo defensor, o en su defecto, se le nombrará un defensor público. El ejercicio de la defensa durante la ejecución penal consistirá en el asesoramiento al sentenciado, cuando se requiera, para la interposición de las gestiones necesarias en resguardo de sus derechos.
 
 No será deber de la defensa vigilar el cumplimiento de la sanción.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 10.
 
-El Ministerio Público intervendrá en los procesos ejecución de la sanción velando por el respeto de los derechos fundamentales y de las disposiciones de la sentencia.
+El ministerio público intervendrá en los procesos de ejecución de la sanción, velará por el respeto de los derechos humanos de los sentenciados y de las disposiciones de la sentencia.
 
 ###### Artículo 11.
 
@@ -161,75 +177,81 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, 
 
 Los Jueces de Ejecución en el Estado actuarán dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el H. Tribunal Superior de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
 
+> <small>N. DE E. LA REFORMA APROBADA EN EL DECRETO NUMERO 133 MODIFICO DE MANERA SUSTANCIAL EL TEXTO DEL ARTICULO, Y SI BIEN DIVERSOS PARRAFOS O FRACCIONES QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DEL 17 DE JUNIO DE 2011.</small>
+
 ###### Artículo 15.
 
 El Juez de Ejecución vigilará el respeto a las finalidades constitucionales y legales de la sanción y de las medidas de seguridad. Podrá hacer comparecer ante sí a los sentenciados o a los servidores públicos del Sistema, con fines de vigilancia y control de ejecución.
 
 El Juez de Ejecución tendrá las siguientes atribuciones:
 
-I. Controlar que la ejecución de toda sanción o medida de seguridad se realice de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad, los derechos fundamentales, los derechos consignados en los tratados y demás instrumentos jurídicos de carácter internacional ratificados por el Estado Mexicano, que asisten al sentenciado durante la ejecución de las mismas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-II. Vigilar que sea realizada la clasificación adecuada del interno, previo dictamen del personal especializado para lograr la efectividad en el tratamiento de reinserción social;
+I. Controlar que la ejecución de toda sanción o medida de seguridad se realice de conformidad con la sentencia definitiva que la impuso;
 
-III. Mantener, sustituir, modificar, revocar o hacer cesar la sanción y las medidas de seguridad, así como las condiciones de su cumplimiento, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IV. Supervisar el otorgamiento o denegación de cualquier beneficio relacionado con las sanciones o medidas de seguridad impuestas en la sentencia definitiva;
+II. Realizar el cómputo de la duración de las sanciones o medidas de seguridad, en base al dictamen técnico-jurídico de la dirección, así como aplicar la Ley más favorable a los sentenciados;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Mantener, sustituir, modificar, revocar o hacer cesar la sanción y/o las medidas de seguridad, así como las condiciones de su cumplimiento, en base al dictamen emitido por la dirección, que contendrá, al menos, los niveles de intervención aplicados a los sentenciados en los ejes de la reinserción, así como el resultado de la atención técnica interdisciplinaria y, en su caso, en las pruebas que ofrezca el interno;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Conocer, resolver y supervisar el otorgamiento o denegación de cualquier beneficio relacionado con las sanciones o medidas de seguridad impuestas en la sentencia definitiva;
 
 V. Librar las órdenes de detención que procedan en ejecución de sentencia;
 
 VI. Ordenar la cesación de la sanción o medida de seguridad una vez transcurrido el plazo fijado por la sentencia;
 
-VII. Visitar los centros, con el fin de constatar el respeto de los derechos fundamentales y penitenciarios de los internos, y proponer las medidas correctivas que estime convenientes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII. Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario, en cuanto afecten sus derechos y beneficios;
+VII. Garantizar a la víctima u ofendido el cumplimiento de la reparación del daño por parte del sentenciado, acorde a lo dispuesto en la sentencia definitiva;
 
-IX. Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-X. Los Jueces de Ejecución deberán necesariamente resolver en audiencia oral, todas las peticiones o planteamientos de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional y en aquellos casos en que deba resolverse sobe libertad anticipada, libertad preparatoria, remisión parcial de la sanción o libertad, definitiva, y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba; y
+VIII. Solicitar a la dirección cualquier información relativa al programa de reinserción aplicado a los internos; y
 
-XI. Las demás atribuciones que esta ley y otros ordenamientos le asignen.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 16.
 
-La autoridad ejecutora para llevar a cabo la audiencia a que se refiere la fracción X del artículo 15 se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
+Los jueces de ejecución deberán resolver en audiencia oral todas las peticiones o planteamientos de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional y, en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la sanción o libertad definitiva y todas aquellas peticiones que, por su naturaleza o importancia, requieran debate o producción de prueba.
 
-I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, del o de los funcionarios de la Dirección de Ejecución que sean designados para tal efecto, del sentenciado y de su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo, y quedará constancia de ello;
-
-II. Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la sanción o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y este en aptitud de ofrecer prueba de su parte;
-
-III. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral;
-
-IV. La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia previstas en el Código Penal;
-
-V. La (sic) resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el juez podrá retirarse a deliberar su fallo en la forma establecida en el Código de Procedimientos;
-
-VI. El Juez de Ejecución valorará los medios de prueba rendidos en la audiencia conforme a las reglas generales establecidas para las audiencias de debate de juicio oral; y
-
-VII. De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia Certificada a la Dirección de Ejecución y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 17.
 
-El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia del los intervinientes. Verificará las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia. Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público y al funcionario de la Dirección de Ejecución y, si está presente en la audiencia, a la víctima u ofendido, Al arbitrio del Juez de Ejecución quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
+Tratándose de sanciones o medidas de seguridad impuestas por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, el juez de ejecución dará inicio al procedimiento de ejecución penal, y realizará la notificación a la autoridad penitenciaria, al sentenciado, a su defensor y al ministerio público.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 18.
 
-Para emitir sus resoluciones, los Jueces de Ejecución se ajustarán a las normas procesales siguientes:
+Los jueces de ejecución realizarán las notificaciones y los actos procesales relativos a los medios de prueba en el procedimiento de ejecución penal, de conformidad con las reglas señaladas en el título duodécimo de esta Ley.
 
-I. Tratándose de sanción o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al sentenciado; a su defensor y al Ministerio Público; y
-
-II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código de Procedimientos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 19.
 
-Las resoluciones emitidas por los jueces de ejecución serán recurribles mediante el recurso de apelación, en los términos del Código de Procedimientos.
+Las resoluciones emitidas por los jueces de ejecución serán recurribles mediante el recurso de apelación previsto en la presente Ley.
 
 ### CAPÍTULO III. DE LA SALA PENAL
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 20.
 
-Los Magistrados que integran la sala penal son competentes, en materia de ejecución de sanciones, para conocer colegiadamente del recurso de revisión, de conformidad con lo previsto en el Código de Procedimientos y en la Ley Orgánica del Poder Judicial.
+Los magistrados que integran la sala penal son competentes en materia de ejecución de sanciones, para conocer colegiadamente:
 
-Las resoluciones que deriven de este medio de impugnación, que tengan como consecuencia la declaración de inocencia, la anulación de sentencia por absolución del sentenciado o la disminución de la sanción impuesta, serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
+I. Del recurso de revisión, de conformidad con lo previsto en el Código Procesal Penal y en la Ley Orgánica del Poder Judicial. Las resoluciones que deriven de este medio de impugnación que tengan como consecuencia la declaración de inocencia, reconocimiento de inocencia o la disminución de la sanción impuesta, serán comunicadas por la propia sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución se comunicará al juez de ejecución, al defensor del sentenciado y al ministerio público; y
+
+II. Del recurso de apelación interpuesto en contra de resoluciones emitidas por los jueces de ejecución referentes a los procedimientos de ejecución penal, en los términos y condiciones establecidas en la presente ley.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN DE REINSERCIÓN SOCIAL
 
@@ -237,23 +259,57 @@ Las resoluciones que deriven de este medio de impugnación, que tengan como cons
 
 Corresponde a la Dirección las siguientes atribuciones:
 
-I. Dirigir y ordenar las acciones para la prevención del delito en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-II. Organizar, supervisar y administrar los centros en el Estado; expedir la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
+I. Aplicar el procedimiento de clasificación y reclasificación a fin de determinar la atención técnica interdisciplinaria y el nivel de seguridad, custodia e intervención más apropiado para los internos;
 
-III. Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IV. Proponer los reglamentos interiores de los centros, con estricto apego a los derechos fundamentales, especialmente el principio de no discriminación, y vigilar su exacta aplicación;
+II. Entregar al juez de ejecución la información técnico-jurídica para la realización del cómputo de la duración de las sanciones;
 
-V. Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades educativas, culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de cualquier tipo de discriminación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VI. Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de los reos;
+III. Emitir el dictamen que contenga al menos los niveles de intervención aplicados a los sentenciados en los ejes de la reinserción, así como del resultado de la atención técnica interdisciplinaria;
 
-VII. Asistir a las personas liberadas, organizando patronatos, fomentando la formación de cooperativas, fideicomisos u otros entes similares, y celebrar e convenios de coordinación con instituciones de las distintas esferas de gobierno o de la sociedad civil;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII. Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
+IV. Autorizar el acceso a particulares y autoridades a los centros e instalaciones penitenciarias, quienes deberán acatar, sin excepción, en todo momento, las disposiciones reglamentarias y de seguridad aplicables;
 
-IX. Las demás que otras leyes y reglamentos establezcan.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V. Conocer del recurso de queja respecto de las sanciones, impuestas a los internos por violación al régimen de disciplina, por parte del consejo técnico interdisciplinario, conforme lo dispuesto en el reglamento correspondiente;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI. Realizar las propuestas o hacer llegar las solicitudes de beneficios que supongan una modificación a las condiciones de cumplimiento de la sanción o reducción de la misma a favor de los internos;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII. Solicitar a la autoridad jurisdiccional el externamiento del interno que padezca enfermedad mental de tipo crónico, continuo e irreversible; se entenderá por externamiento, el acto a través del cual se autoriza la salida del interno del centro;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VIII. Aplicar las sanciones impuestas por órganos jurisdiccionales del fuero federal y que se cumplan en establecimientos estatales en virtud de los convenios establecidos para ello;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX. Dirigir, organizar, supervisar y controlar el funcionamiento y operación de los centros en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2011)</small>
+
+X. Atender la petición de la autoridad jurisdiccional competente para reubicar a internos a quienes deban aplicarse medidas especiales de protección para garantizar su integridad con motivo de la investigación o proceso correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2011)</small>
+
+XI. Asistir a las personas liberadas, organizando patronatos, fomentando la formación de cooperativas, fideicomisos u otros entes similares, y celebrar convenios de coordinación con instituciones de las distintas esferas de gobierno o de la sociedad civil;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2011)</small>
+
+XII. Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JUNIO DE 2011)</small>
+
+XIII. Las demás que otras leyes o reglamentos establezcan.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD
 
@@ -287,9 +343,11 @@ V. La Secretaría de Salud;
 
 VI. Las Corporaciones de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 24.
 
-En el cumplimiento de las sanciones o medidas judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Juez de Juicio Oral, o el Juez de Ejecución de Sanciones, en su caso, remitirán sus proveídos a la Dirección de Ejecución, quien, de conformidad a la naturaleza de aquéllas, las ejecutará, o bien, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
+En el cumplimiento de las sanciones o medidas judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el juez de control, el tribunal de juicio oral, o el juez de ejecución, en su caso, remitirán sus proveídos a la dirección de ejecución, quien, de conformidad a la naturaleza de aquéllas, las ejecutará, o bien, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
 
 ## TÍTULO TERCERO. EJECUCIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
 
@@ -297,15 +355,19 @@ En el cumplimiento de las sanciones o medidas judiciales dictadas durante el pro
 
 #### SECCIÓN PRIMERA. PRESENTACIÓN DE GARANTÍA ECONÓMICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 25.
 
-Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona constituirán el depósito del monto fijado en alguna de las oficinas recaudadoras de la Secretaría de Finanzas del Estado.
+Cuando durante el procedimiento el juez de control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el procesado u otra persona constituirán el depósito del monto fijado en alguna de las oficinas recaudadoras de la Secretaría de Finanzas del Estado.
 
 El certificado de depósito se presentará dentro del plazo fijado por la autoridad judicial asentándose constancia de ello. Cuando por razón de la hora o por ser día inhábil no pueda verificarse el depósito directamente, el juzgado recibirá la cantidad exhibida, y la mandará depositar el primer día hábil siguiente.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 26.
 
-Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial, determinado por institución o persona autorizada, será cuando menos el de un tanto más del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio juzgado que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
+Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el procesado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial, determinado por institución o persona autorizada, será cuando menos el de un tanto más del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio juzgado que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en el Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
 
 ###### Artículo 27.
 
@@ -333,13 +395,17 @@ Cuando se determine la medida cautelar de prohibición de salir del país, se re
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación, o cancelación de la medida.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 32.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de circunscripción territorial del Estado, se comunicará el proveído a la Dirección de Ejecución y prevendrá al imputado para que se presente ante dicha autoridad con la periodicidad que el propio juez establezca al fijar la medida.
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del procesado o de la circunscripción territorial del Estado, se comunicará el proveído a la dirección de ejecución y prevendrá al procesado para que se presente ante dicha autoridad con la periodicidad que el propio juez establezca al fijar la medida.
 
 Durante la ejecución de esta medida, el imputado deberá comunicar a la Dirección de Ejecución su cambio de domicilio y cualquier otra circunstancia que permita su localización.
 
-En caso de incumplimiento, la Dirección de Ejecución dará aviso oportuno al Juez de Ejecución para los efectos procesales a que haya lugar.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En caso de incumplimiento, la dirección de ejecución dará aviso oportuno al juez competente para los efectos procesales a que haya lugar.
 
 #### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
 
@@ -353,13 +419,17 @@ Cuando durante el procedimiento penal se determine la medida cautelar de someter
 
 Al dictarse la medida cautelar de presentación periódica ante el Juez de Control, el sometido a la medida acudirá ante el administrador de oficina que corresponda, con la periodicidad que la autoridad judicial haya determinado, a efecto de informar sobre sus actividades.
 
-La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el procesado pueda ser requerido en cualquier momento por el juzgador.
 
 ###### Artículo 35.
 
 Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá ante la Dirección de Ejecución, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
 
-La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el sentenciado pueda ser requerido en cualquier momento por el juzgador.
 
 Al dictarse la medida, el juez dará aviso inmediato a la mencionada Dirección de Ejecución, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Dirección de Ejecución no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenía celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
 
@@ -367,17 +437,21 @@ En cualquier caso la Dirección de Ejecución informará oportunamente al Juez d
 
 #### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 36.
 
-Al dictarse la medida cautelar de fijación de localizadores electrónicos al imputado, la resolución del Juez de Control se comunicará directamente a la Dirección de Ejecución, a efecto de que dicha autoridad la ejecute.
+Al dictarse la medida cautelar de fijación de localizadores electrónicos al procesado, la resolución del juez de control se comunicará directamente a la Dirección de Ejecución, a efecto de que dicha autoridad la ejecute.
 
 La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
 
 #### SECCIÓN SEXTA. PROHIBICIÓN DE ACUDIR A DETERMINADAS REUNIONES O DE VISITAR CIERTOS LUGARES
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 37.
 
-Al determinarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Secretaría de Seguridad Pública y Protección a la Comunidad c (sic) a otros Cuerpos de Seguridad Pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas. La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada polla autoridad judicial.
+Al dictarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares se comunicará la resolución a la Secretaría de Seguridad Pública y Protección a la Comunidad o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el procesado en el cumplimiento de esa medida, en la que se especificarán las restricciones impuestas. La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
 
 #### SECCIÓN SÉPTIMA. PROHIBICIÓN DE CONVIVIR O COMUNICARSE CON PERSONAS DETERMINADAS
 
@@ -387,9 +461,11 @@ Al imponerse la medida de prohibición de convivencia o comunicación con person
 
 #### SECCIÓN OCTAVA. SEPARACIÓN DEL DOMICILIO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 39.
 
-Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a la Secretaría de Seguridad Pública y Protección a la Comunidad o a otros Cuerpos de Seguridad Pública en el Estado, para su efectivo cumplimiento.
+Si se decreta la medida cautelar de separación del domicilio al procesado se comunicará el proveído a la Secretaría de Seguridad Pública y Protección a la Comunidad o a otros cuerpos de seguridad pública en el Estado, para su efectivo cumplimiento.
 
 #### SECCIÓN NOVENA. SUSPENSIÓN DE DERECHOS
 
@@ -397,27 +473,43 @@ Si se decreta la medida cautelar de separación del domicilio del imputado, se c
 
 La ejecución de la medida cautelar de suspensión de derechos estará sujeta a las siguientes reglas:
 
-a) Si se trata de suspensión de funciones de un servidor público, se remitirá el proveído al superior jerárquico correspondiente; a efecto de que materialmente ejecute la medida;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-b) Si se trata de suspensión para el ejercicio de una profesión, se dará aviso a la Dirección de Profesiones de la Secretaría de Educación del Gobierno del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes;
+I. Si se trata de suspensión de funciones de un servidor público se remitirá al superior jerárquico correspondiente, a efecto de que materialmente ejecute la medida.
 
-c) Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito de la Federación o del estado o municipio de que se trate; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-d) En caso de imponer la suspensión de otros derechos, la ejecución de la medida quedará sujeta a las particularidades que el propio juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
+II. Si se trata de suspensión para el ejercicio de una profesión se dará aviso a la Dirección de Profesiones de la Secretaría de Educación de la Administración Pública del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública de la administración pública federal, para los efectos conducentes.
 
-En todos los casos, se remitirá junto con el proveído, los datos necesarios para la efectiva ejecución de la medida y se podrá recabar del imputado o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la suspensión.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito de la Federación o del Estado o Municipio de que se trate.
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. En caso de imponer la suspensión de otros derechos, la ejecución de la medida quedará sujeta a las particularidades que el propio juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En todos los casos, se remitirán los datos necesarios para la efectiva ejecución de la medida y se podrá recabar del procesado o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la suspensión.
 
 #### SECCIÓN DÉCIMA. INTERNAMIENTO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 41.
 
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud centro de atención a farmacodependientes u hospital psiquiátrico, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedara la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
+Al pronunciarse sobre la imposición de medidas cautelares, el juez de control podrá decretar el internamiento del procesado en centro de salud, centro de atención a farmacodependientes u hospital psiquiátrico, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud de la administración pública estatal, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del procesado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
 
 #### SECCIÓN DÉCIMA PRIMERA. PRISIÓN PREVENTIVA
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 42.
 
-La Medida cautelar de prisión preventiva podrá imponerse únicamente tratándose de delitos en los que la media aritmética de la sanción de privación de la libertad sea mayor a dos años.
+El ministerio público sólo podrá solicitar al juez la prisión preventiva conforme a lo dispuesto en el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En todo caso, la medida cautelar de prisión preventiva podrá imponerse únicamente tratándose de delitos en los que la media aritmética de la sanción de privación de la libertad sea mayor a un año.
 
 ###### Artículo 43.
 
@@ -429,13 +521,17 @@ El Juez de Control, remitirá su resolución a la Dirección de ejecución la qu
 
 El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la sanción de prisión, del que deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 45.
 
-La observación de los imputados sujetos a prisión preventiva se limitará a recoger la mayor información posible sobre cada uno de ellos, a través de datos documentales y de entrevistas, y mediante la observación directa del comportamiento, para establecer sobre estas bases la separación o clasificación interior en grupos; todo ello con estricto apego al principio de presunción de inocencia.
+La observación de los procesados sujetos a prisión preventiva se limitará a recoger la mayor información posible sobre cada uno de ellos, a través de datos documentales y de entrevistas, y mediante la observación directa del comportamiento, para establecer sobre estas bases la separación o clasificación interior en grupos; todo ello con estricto apego al principio de presunción de inocencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 46.
 
-Los imputados sometidos a prisión preventiva podrán trabajar conforme a sus capacidades y aptitudes.
+Los procesados sometidos a prisión preventiva podrán trabajar conforme a sus capacidades y aptitudes.
 
 La administración penitenciaria les facilitará los medios de ocupación de que disponga y permitirá al interno procurarse a sus expensas otros, siempre que sean compatibles con las garantías procesales y la seguridad y el buen orden del centro penitenciario.
 
@@ -445,9 +541,11 @@ Todo interno deberá contribuir al buen orden, limpieza e higiene del establecim
 
 Desde que el interno quede sujeto a proceso penal deberán realizarse los estudios sobre la personalidad integral en los aspectos médicos, psicológicos, sociales, pedagógicos y ocupacionales, y se enviará un ejemplar del estudio a la autoridad judicial que tiene a su cargo el proceso penal.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 48.
 
-Serán aplicables para el cumplimiento de la prisión preventiva las disposiciones sobre la ejecución de la sanción de prisión y el sistema contemplado en esta ley, así como lo dispuesto en los reglamentos que de ella deriven, siempre que con ello no se transgredan los derechos fundamentales sustantivos y procesales del imputado.
+Serán aplicables para el cumplimiento de la prisión preventiva las disposiciones sobre la ejecución de la sanción de prisión y el sistema contemplado en esta ley, así como lo dispuesto en los reglamentos que de ella deriven, siempre que con ello no se transgredan los derechos humanos del procesado.
 
 ### CAPÍTULO II. MEDIDAS CAUTELARES REALES
 
@@ -469,7 +567,9 @@ III. Sujetarse a las disposiciones de ejecución de las medidas cautelares de pr
 
 IV. Abstenerse de consumir narcóticos o de abusar de las bebidas alcohólicas. Quedará sujeto a la revisión por parte de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, e informará oportunamente de ello, para los efectos procesales conducentes;
 
-V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Quedará sujeto a la revisión por parte de la Secretaría de Educación, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, conocerá sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso e informará oportunamente de ello para los efectos procesales conducentes;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Quedará sujeto a la revisión por parte de la Secretaría de Educación de la administración pública estatal, quien dará seguimiento a la incorporación del procesado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, conocerá sobre los avances programáticos que alcance el procesado, así como de la culminación de los estudios, en su caso, e informará oportunamente de ello a la dirección de ejecución para los efectos procesales conducentes;
 
 VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. Quedará sujeta a la revisión por parte de la Secretaria de Desarrollo Social y Regional, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, supervisará el trabajo del imputado periódicamente e informará sobre su cumplimiento a las autoridades competentes;
 
@@ -507,11 +607,13 @@ La comunicación entre el Juez de Control y las autoridades señaladas como auxi
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Articulo 54.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Para la ejecución de las sanciones y medidas de seguridad, el Juez de Control o el Juez de Juicio Oral que dictó la sentencia, o el Tribunal de Segunda Instancia, según corresponda, deberá:
+###### Artículo 54.
 
-1. Tratándose de sanciones privativas de la libertad.
+Para la ejecución de las sanciones y medidas de seguridad, el juez de control o el tribunal de juicio oral que dictó la sentencia, o el Tribunal de Segunda Instancia, según corresponda, deberá:
+
+I. Tratándose de sanciones privativas de la libertad.
 
 a) Si el sentenciado estuviere sujeto a prisión preventiva, ordenará inmediatamente su internamiento en el centro que corresponda y lo pondrá a disposición jurídica del Juez de Ejecución de Sanciones, remitiéndote el registro donde conste su resolución, a efecto de integrar la carpeta respectiva y dará inicio al procedimiento de ejecución penal, para el debido y exacto cumplimiento de la sanción impuesta.
 
@@ -531,9 +633,11 @@ La sanción privativa de la libertad será cumplida en los Centros de Reinserci�
 
 El sitio destinado para el cumplimiento de las sanciones privativas de la libertad será distinto y completamente separado de aquél destinado a la prisión preventiva, y las mujeres quedarán recluidas en lugares diferentes a los de los hombres.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 57.
 
-En los establecimientos o secciones penitenciarios destinados a las mujeres, la vigilancia estará e cargo, necesariamente, de personal femenino.
+En las áreas de los centros destinadas a las mujeres, la vigilancia estará a cargo de personal femenino.
 
 ###### Artículo 58.
 
@@ -611,7 +715,7 @@ Previos los estudios especializados, el Juez de Ejecución de Sanciones podrá o
 
 ### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
-#### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELlBERACIONAL
+#### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELIBERACIONAL
 
 ###### Artículo 67.
 
@@ -655,11 +759,13 @@ b) Reclusión los sábados y domingos para tratamiento técnico.
 
 #### SECCIÓN SEGUNDA. DE LA LIBERTAD PREPARATORIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 70.
 
-Se concederá libertad preparatoria al sentenciado a sanción privativa de la libertad por más de dos años, previo el informe a que se refiere el Código de Procedimientos, que hubiere cumplido las tres quintas partes de su sentencia, si se trata de delitos intencionales, o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
+Se concederá libertad preparatoria al sentenciado cuando la sanción privativa de la libertad impuesta sea mayor a dos años, previo informe que la dirección de ejecución le remita al juez de ejecución, que el sentenciado haya cumplido las tres quintas partes de su sentencia, si se trata de delitos intencionales, o la mitad de la misma en caso de delitos imprudenciales, siempre y cuando cumpla con los siguientes requisitos:
 
-l. Que haya observado buena conducta durante la ejecución de su sentencia;
+I. Que haya observado buena conducta durante la ejecución de su sentencia;
 
 II. Que del examen de su personalidad se presuma que está socialmente readaptado y en condiciones de no volvera a delinquir; y
 
@@ -677,25 +783,25 @@ d) Sujetarse a las medidas de orientación y supervisión que se le dicten y a l
 
 Para el otorgamiento de la libertad preparatoria no se tendrá en cuenta el haber sido considerado farmacodependiente como antecedente de mala conducta, pero sí se exigirá en todo caso que el sentenciado se someta, al tratamiento médico correspondiente para su rehabilitación o acredite haber concluido satisfactoriamente el mismo, bajo vigilancia de la autoridad ejecutora.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 71.
 
-La libertad preparatoria no se concederá al sentenciado por los siguientes delitos previstos en el Código Penal, tanto si quedaran consumados como en grado de tentativa, en aquellos casos que la permitan:
+No se concederá la libertad preparatoria a la persona que haya sido sentenciada por la comisión de los siguientes delitos previstos en el código penal, tanto si quedaran consumados como en grado de tentativa, en aquellos casos que la permitan:
 
-l. Tortura;
+I. Homicidio doloso;
 
-II. Trata de personas;
+II. Pornografía infantil;
 
-III. Homicidio doloso;
+III. Secuestro;
 
-IV. Pornografía infantil;
+IV. Tortura;
 
 V. Tráfico de menores;
 
-VI. Violación;
+VI. Trata de personas; y
 
-VII. Secuestro; y
-
-VIII. Terrorismo.
+VII. Violación.
 
 ###### Artículo 72.
 
@@ -737,7 +843,9 @@ La remisión parcial de la sanción es un beneficio otorgado por la autoridad ju
 
 I. Que el interno haya observada durante su estancia en prisión buena conducta;
 
-II. Que participe regularmente en las actividades educativas, deportivas o de otra índole que se organicen en el establecimiento; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II. Que participe regularmente en las actividades educativas, deportivas o de otra índole que se organicen en el centro; y,
 
 III. Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la sanción.
 
@@ -763,11 +871,17 @@ El cómputo de los términos para el otorgamiento del beneficio de remisión par
 
 El procedimiento para la concesión de beneficios se iniciará de oficio o a petición de parte. En ambos casos, la Dirección de Ejecución estará obligada a remitir la solicitud al Juez de Ejecución de Sanciones. Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la recepción de la solicitud.
 
-Admitida la solicitud, el Juez de Ejecución de Sanciones solicitará a la Dirección que, por conducto del Consejo, se remitan los estudios de personalidad del sentenciado dentro de los treinta días siguientes a la admisión.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Recibidos los estudios, el Juez de Ejecución de Sanciones emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio.
+Admitida la solicitud, el juez de ejecución solicitará a la dirección que, por conducto del consejo, se remitan los estudios de personalidad del sentenciado dentro de los diez días hábiles siguientes a la admisión.
 
-La resolución a que se refiere el artículo anterior será notificada el día de su emisión a la Dirección de Ejecución, para que la cumpla en sus términos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Recibidos los estudios, el juez de ejecución realizará audiencia oral, en los términos de la presente ley, para la sustanciación de la solicitud.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La resolución será notificada el día de su emisión a la dirección de ejecución, para que la cumpla en sus términos.
 
 ###### Artículo 82.
 
@@ -801,9 +915,11 @@ Al quedar en libertad definitiva una persona, el Juez de Ejecución de Sanciones
 
 Corresponde al Ejecutivo del Estado la facultad de conceder el indulto en los términos de la Constitución Política del Estado de Campeche. Sólo se concederá respecto de las sanciones impuestas en sentencia ejecutoriada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 88.
 
-Podrá concederse el indulto en los delitos del orden común, cuando el interno haya prestado importantes servicios a la Nación o al Estado. También, por razones humanitarias o sociales, a los internos que por la conducta observada en prisión y por su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico del establecimiento penitenciario.
+Podrá concederse el indulto en los delitos del orden común, cuando el interno haya prestado importantes servicios a la Nación o al Estado. También, por razones humanitarias o sociales, a los internos que por la conducta observada en prisión y por su constante dedicación al trabajo, sean ejemplares en el desarrollo armónico del centro.
 
 Es requisito ineludible para realizar la solicitud de indulto, la demostración de que se ha cubierto la reparación del daño.
 
@@ -813,15 +929,19 @@ No procederá el indulto en los delitos de violación y en los imprescriptibles.
 
 El interesado ocurrirá con su petición de indulto ante el Titular del Ejecutivo Estatal, por conducto de la Dirección de Ejecución, y solicitará que se expidan las constancias respectivas. Previa la investigación que realice el Consejo para la verificación de la procedencia del indulto, el Gobernador del Estado emitirá su resolución fundada y motivada.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 90.
 
-Todas las resoluciones que concedan un indulto se publicarán en el Periódico Oficial del Estado y se comunicarán a la autoridad judicial que pronunció la sentencia para que haga la anotación correspondiente en el proceso.
+Todas las resoluciones que concedan un indulto se publicarán en el Periódico Oficial del Estado y se comunicarán al juez de ejecución para que haga la anotación correspondiente en el proceso.
 
 #### SECCIÓN TERCERA. LIBERTAD O DISMINUCIÓN DE LA SANCION POR REVISIÓN DE SENTENCIA
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 91.
 
-La libertad definitiva o disminución de la sanción procederá como consecuencia de la resolución que las determine el recurso de revisión en los términos del Código de Procedimientos.
+La libertad definitiva o disminución de la sanción procederá como consecuencia de la resolución que las determine en el recurso de revisión, en los términos del código procesal penal.
 
 ###### Artículo 92.
 
@@ -851,11 +971,15 @@ La rehabilitación de los derechos será ordenada por el Juez de Ejecución de S
 
 ### CAPÍTULO V. CONDENA CONDICIONAL
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ANÁLISIS REALIZADO SE ADVIERTE QUE EN EL TEXTO ORIGINAL DEL PRESENTE ARTÍCULO [P.O. 23 DE JULIO DE 2010], CONTABA CON DIEZ FRACCIONES Y UN ÚLTIMO PÁRRAFO. MEDIANTE DECRETO NÚMERO 133 [P.O. 17 DE JUNIO DE 2013] EL PODER LEGISLATIVO LOCAL REFORMA LAS FRACCIONES I, IV Y IX, Y PRESCINDE INDICACIÓN RESPECTO AL RESTO DE LAS FRACCIONES. SIN EMBARGO, EL CONTENIDO DE LA ACTUAL FRACCIÓN IX [REFORMADA MEDIANTE DECRETO DE P.O. 23 DE JULIO DE 2010], ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VIII [QUE PROVIENE DE TEXTO ORIGINAL]. POR LO QUE SE SUGIERE CONSULTAR LAS IMÁGENES DE LAS PUBLICACIONES OFICIALES DE DICHAS FECHAS QUE SE UBICAN EN ESTE MEDIO DE CONSULTA, ASÍ COMO EL TEXTO QUE OFRECE EL CONGRESO DEL ESTADO DE CAMPECHE EN http://congresocam.gob.mx/leyes/index.php?option=com_content&view=article&id=172:ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-el-estado&catid=1:leyes&Itemid=7</small>
+
 ###### Artículo 98.
 
 El otorgamiento de los beneficios de la condena condicional se sujetará a las siguientes normas:
 
-I. El juez o tribunal, en su caso, al dictar sentencia de condena o en la hipótesis que establece la Fracción X de este artículo, suspenderán motivadamente la ejecución de las sanciones a petición de parte o de oficio, si concurren estas condiciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
+I. El juez de ejecución, a través del procedimiento de ejecución penal, podrá suspender motivadamente la ejecución de las sanciones dictadas por el juez de control o por el tribunal de juicio oral, a petición de parte o de oficio, si concurren las siguientes condiciones:
 
 a) Que la condena se refiera a sanción privativa de libertad que no exceda de tres años;
 
@@ -877,9 +1001,11 @@ e) Reparar el daño causado;
 
 Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije, esta obligación;
 
-III. La suspensión comprenderá la sanción de prisión y la multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso;
+III. La suspensión comprenderá la sanción de prisión y a multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso;
 
-IV. A los delincuentes a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. A los sentenciados a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo;
 
 V. Los sentenciados que disfruten de los beneficios de la condena condicional quedarán sujetos al cuidado y vigilancia de la Procuraduría General de Justicia, del Estado;
 
@@ -891,7 +1017,9 @@ VII. Si durante el término de tres años, contados desde la fecha de la sentenc
 
 VIII. Los hechos que originen el nuevo proceso interrumpen el plazo de tres años previsto en la fracción anterior, tanto si se trata de delito intencional como imprudencial, hasta que se dicté sentencia firme;
 
-IX. En caso de falta de cumplimiento de las obligaciones contraídas por el condenado, el juez podrá hacer efectiva la sanción suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha obligación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX. Los hechos que originen el nuevo proceso interrumpen el plazo de tres años previsto en la fracción anterior, tanto si se trata de delito intencional como imprudencial, hasta que se dicte sentencia firme; y
 
 X. El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, para lo cual se abrirá el incidente respectivo ante el juez de la causa.
 
@@ -909,9 +1037,11 @@ En toda sentencia deberá resolverse sobre la procedencia de la condena condicio
 
 Los sentenciados que obtengan la condena condicional quedarán sujetos a la vigilancia de la autoridad, en los términos de lo dispuesto por esta ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 102.
 
-Se considerará extinguida la sanción si el reo no diere lugar a nuevo proceso que concluya con sentencia condenatoria, si durante un lapso igual al término de la prisión impuesta, contado a partir del día siguiente hábil al que cause ejecutoria la sentencia que concedió la condena condicional, y haya reparado el daño a que condenado.
+Se considerará extinguida la sanción si el sentenciado no diere lugar a nuevo proceso que concluya con sentencia condenatoria, si durante un lapso igual al término de la prisión impuesta, contado a partir del día siguiente hábil al que cause ejecutoria la sentencia que concedió la condena condicional, y haya reparado el daño a que fue condenado.
 
 ###### Artículo 103.
 
@@ -927,23 +1057,31 @@ En este caso, el trabajo no se considerará para el otorgamiento de algún benef
 
 ### CAPÍTULO VI. REGLAS GENERALES PARA LA SUSTITUCIÓN DE SANCIONES Y CONDENA CONDICIONAL
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 105.
 
-El sentenciado que considere que al dictarse la sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la sanción, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el Juez de Ejecución de Sanciones.
+Si al dictarse la sentencia, por inadvertencia del sentenciado o de la autoridad jurisdiccional, no se pronunció nada respecto de la condena condicional o de la sustitución de la sanción, el sentenciado que considere que reunía las condiciones establecidas en el artículo 98 y además esté apto para cumplir con los requisitos contemplados en el mismo artículo, podrá promover que se le concedan los beneficios respectivos, para lo cual se realizará la audiencia oral correspondiente ante el juez de ejecución.
 
 ### CAPÍTULO VII. SANCIONES RESTRICTIVAS DE LIBERTAD
 
 #### SECCIÓN PRIMERA. TRATAMIENTO EN LIBERTAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 106.
 
-El tratamiento en libertad de imputables consiste en la aplicación, según el caso, de las medidas laborales, educativas, de salud o de cualquier otra índole autorizadas por la ley, orientadas a la reinserción social del sentenciado y bajo la supervisión de la autoridad ejecutora.
+El tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas, deportivas, de salud, o de cualquier otra índole autorizadas por la ley, orientadas a la reinserción social del sentenciado y bajo la supervisión de la autoridad ejecutora.
 
 Esta sanción podrá imponerse como sanción autónoma o sustitutiva de la prisión, sin que su duración pueda exceder de la correspondiente a la sanción de prisión sustituida.
 
-El tratamiento en libertad de imputables podrá imponerse conjuntamente con las medidas de seguridad tendientes al tratamiento por farmacodependencia con fines de rehabilitación del sentenciado, cuando así se requiera.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-En todo caso, sanción y medida deberán garantizar la dignidad del sentenciado.
+El tratamiento en libertad de sentenciados podrá imponerse conjuntamente con las medidas de seguridad tendientes al tratamiento por farmacodependencia con fines de rehabilitación del sentenciado, cuando así se requiera.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En todo caso, sanción y medida deberán garantizar el respeto a los derechos humanos del sentenciado.
 
 ###### Artículo 107.
 
@@ -959,7 +1097,11 @@ La ejecución de la sanción de prohibición de residir o acudir a lugar determi
 
 #### SECCIÓN PRIMERA. REPARACIÓN DEL DAÑO
 
-Artículo. 109. Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos lo dispuesto en el Código de Procedimientos, se enviará constancia de la sentencia firme al Juez de Ejecución de Sanciones, para llevar a cabo el seguimiento correspondiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 109.
+
+Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en los términos de lo dispuesto en el código procesal, se enviará constancia de la sentencia firme al juez de ejecución, para llevar a cabo el seguimiento correspondiente:
 
 I. Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución de Sanciones dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal del Estado;
 
@@ -967,7 +1109,9 @@ II. Si se encontrara garantizada la reparación del daño; el Juez de Ejecución
 
 III. Dentro de los tres días siguientes a la notificación, se enviarán los documentos relativos a la ejecución de la garantía a la Secretaría de Finanzas para que, en un plazo de tres días, mediante resolución fundada y motivada, haga efectiva esa garantía a favor de la víctima u ofendido o su representante; y
 
-IV. Tratándose del delito de Despojo, cuando la autoridad judicial haya ordenado la restitución del bien inmueble a favor del ofendido, el Juez de Ejecución de Sanciones, una vez que reciba la sentencia ejecutoriada, ordenará la comparecencia del sentenciado y lo apercibirá para que en un plazo de tres días haga entrega voluntaria del inmueble al ofendido.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Tratándose del delito de despojo, cuando la autoridad judicial haya ordenado la restitución del bien inmueble a favor de la víctima u ofendido, el juez de ejecución, una vez que reciba la sentencia ejecutoriada, ordenará la comparecencia del sentenciado y lo apercibirá para que en un plazo de tres días haga entrega voluntaria del inmueble a la víctima u ofendido.
 
 En caso de negativa a devolverlo, el Juez de Ejecución de Sanciones ordenará que se ponga en posesión material a la víctima u ofendido o su representante utilizando la fuerza pública necesaria para el cumplimiento de la sentencia.
 
@@ -977,7 +1121,9 @@ En caso de negativa a devolverlo, el Juez de Ejecución de Sanciones ordenará q
 
 Al imponerse multa al sentenciado, el Juez de Ejecución de Sanciones procederá de acuerdo con las siguientes reglas:
 
-I. Notificará inmediatamente al sentenciado que cuenta con un plazo no mayor de veinte días para cubrir la multa impuesta. Para este efecto, se considerará la solvencia económica del condenado; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I. Notificará inmediatamente al sentenciado que cuenta con un plazo no mayor de veinte días para cubrir la multa impuesta. Para este efecto, se considerará la solvencia económica del sentenciado; y
 
 II. Si dentro del plazo concedido, el sentenciado demuestra que carece de recursos para cubrirla o que sólo puede pagar una parte, el Juez de Ejecución de Sanciones podrá sustituir la multa, total o parcialmente, por prestación de trabajo a favor de la comunidad. Por cada jornada de trabajo saldará uno de multa.
 
@@ -991,9 +1137,11 @@ La ejecución de la sanción de suspensión, destitución e inhabilitación para
 
 #### SECCIÓN SEGUNDA. DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 112.
 
-La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, al pago de la reparación de los daños y perjuicios causados, o en su defecto se destinará al Fondo de Apoyo para los Beneficiarios del Instituto Campechano de Acceso a la Justicia.
+La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, al pago de la reparación de los daños y perjuicios causados, o en su defecto se destinará al Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche.
 
 Si las cosas aseguradas o decomisadas son sustancias nocivas, peligrosas, de uso ilícito o consideradas como desecho, la autoridad competente ordenará de inmediato las medidas de precaución que correspondan, incluida su destrucción, confinamiento o, en su caso, conservación para fines de docencia, investigación o terapéuticos, según se estime conveniente.
 
@@ -1005,11 +1153,17 @@ Los productos, rendimientos o beneficios obtenidos por los delincuentes o por ot
 
 Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello en un lapso de treinta días naturales, contados a partir de la notificación al interesado, se venderán de conformidad con las disposiciones legales y administrativas aplicables.
 
-Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo de Apoyo para los Beneficiarios del Instituto Campechano de Acceso a la Justicia, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses, a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo de Apoyo para los Beneficiarios del Instituto Campechano de Acceso a la Justicia.
+Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
 
-Los bienes perecederos de consumo serán entregados al Instituto Campechano de Acceso a la Justicia para su aprovechamiento y distribución, en los términos y condiciones que establezca la legislación correspondiente.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses, a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Los bienes perecederos de consumo serán entregados al Instituto de Acceso a la Justicia del Estado de Campeche para su aprovechamiento y distribución, en los términos y condiciones que establezca la legislación correspondiente.
 
 #### SECCIÓN TERCERA. INHABILITACIÓN, DESTITUCIÓN O SUSPENSIÓN DE CARGOS O EMPLEOS PÚBLICOS
 
@@ -1059,7 +1213,9 @@ III. El Juez de Ejecución de Sanciones determinará el tiempo y forma en que de
 
 IV. En tod os (sic) los casos, la entrega se constituirá a favor del beneficiario expreso.
 
-V. Las cantidades que no sean reclamadas en el plazo de un año, contado a partir de la fecha en que se depositaron, se integrarán directamente al Fondo de Apoyo para los Beneficiarios del Instituto Campechano de Acceso a la Justicia.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V. Las cantidades que no sean reclamadas en el plazo de un año, contado a partir de la fecha en que se depositaron, se integrarán directamente al Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche; y
 
 VI. Una vez cubierta en su totalidad la reparación del daño, concluirá, el procedimiento de ejecución.
 
@@ -1079,7 +1235,7 @@ La ejecución de la sanción de suspensión del derecho para conducir vehículos
 
 Las consecuencias para las personas morales son: Ejecución de la suspensión, disolución, prohibición, remoción e intervención,
 
-I. Disolución: La autoridad judicial designará en el mismo acto un Iiquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación;
+I. Disolución: La autoridad judicial designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación;
 
 II. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total;
 
@@ -1091,7 +1247,9 @@ V. Cuando concluya el período previsto para la administración sustituta, la de
 
 VI. Intervención: Se ejercerá con las atribuciones que la ley confiere al interventor.
 
-Al imponer estas consecuencias jurídicas, la autoridad judicial tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Al imponer estas consecuencias jurídicas, la autoridad judicial tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona moral, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona moral sancionada.
 
 Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medidas a que se refiere el párrafo anterior.
 
@@ -1125,27 +1283,41 @@ El Juez de Ejecución de Sanciones podrá resolver sobre la modificación o conc
 
 Los establecimientos penitenciarios deberán contar con un área especial para aplicar el Tratamiento por Farmacodependencia con fines de rehabilitación, en el cual se proporcionará este servicio a toda persona que lo requiera, con respeto a la integridad y la libre decisión del farmacodependiente en cuanto a su aceptación. La aplicación de dicho tratamiento estará a cargo de la Secretaría de Salud.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 17 DE JUNIO DE 2011)</small>
+
+#### SECCIÓN CUARTA. TRATAMIENTO PSICOLÓGICO, PSIQUIÁTRICO O ESPECIALIZADO PARA ALCOHOLISMO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 126 Bis.
+
+Los centros penitenciarios deberán contar con un área especial para aplicar el Tratamiento Psicológico, Psiquiátrico o Especializado para Alcoholismo, en el cual se proporcionará este servicio a toda persona que lo requiera. La aplicación de dicho tratamiento estará a cargo de la Secretaría de Salud.
 
 ## TÍTULO QUINTO. DE LOS MEDIOS DE PREVENCIÓN Y DE REINSERCIÓN SOCIAL
 
 ### CAPÍTULO I. DE LA PREVENCIÓN
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 127.
 
-La Dirección organizará los establecimientos penitenciarios e instituciones del Sistema y vigilará que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
+La dirección organizará los centros e instituciones del sistema y vigilará que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 128.
 
-A todo imputado o sentenciado que ingrese a un establecimiento penitenciario del Sistema se le respetarán sus derechos fundamentales, de conformidad con las Constituciones Federal y Local, los instrumentos jurídicos internacionales ratificados por el Estado Mexicano y las disposiciones legales que de ellos deriven.
+A todo procesado o sentenciado que ingrese a un centro se le respetarán sus derechos humanos, de conformidad con las Constituciones Federal y Local, los instrumentos jurídicos internacionales ratificados por el Estado Mexicano y las disposiciones legales que de ellos deriven.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 129.
 
-El contenido del presente Título se aplicará a los sentenciados ejecutoriados y, en lo conducente, los imputados de delito, entre quienes se promoverá su participación en los programas de trabajo, capacitación y educación.
+El contenido del presente Título se aplicará a los sentenciados y, en lo conducente, a los procesados por delito, entre quienes se promoverá su participación en los programas de trabajo, capacitación, educación y deporte.
 
 ### CAPÍTULO II. DE LA REINSERCIÓN SOCIAL
 
-#### SECCIÓN SEGUNDA. DEL TRABAJO
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 130.
 
@@ -1159,13 +1331,17 @@ El tratamiento se fundará en las sanciones penales impuestas y en los resultado
 
 Los medios de reinserción social tienen por objeto facilitar la reincorporación de sentenciado a la vida social como una persona útil a la misma.
 
-Se consideran medios orientados a la reinserción social del sentenciado: el trabajo, la capacitación para el mismo y la educación. Tales medios serán requisitos indispensables para quienes deseen acogerse a los beneficios señalados en esta ley.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-#### SECCIÓN TERCERA. DE LA CAPACITACIÓN
+Se consideran medios orientados a la reinserción social del sentenciado: el trabajo, la capacitación para el mismo, la educación y el deporte. Tales medios serán requisitos indispensables para quienes deseen acogerse a los beneficios señalados en esta ley.
+
+#### SECCIÓN SEGUNDA. DEL TRABAJO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 132.
 
-En los establecimientos penitenciarios del Sistema se buscará que el procesado o sentenciado adquiera el hábito del trabajo y que éste sea una fuente de autosuficiencia personal y familiar, tomando en consideración su interés, vocación, aptitudes y capacidad laboral.
+En los centros se buscará que el procesado o sentenciado adquiera el hábito del trabajo y que éste sea una fuente de autosuficiencia personal y familiar, tomando en consideración su interés, vocación, aptitudes y capacidad laboral.
 
 En las actividades laborales se observarán las disposiciones contenidas en el artículo 123 de la Constitución Federal y en su ley reglamentaria, en lo referente a la jornada de trabajo, días de descanso, higiene, seguridad y a la protección de la maternidad.
 
@@ -1179,13 +1355,19 @@ I. Quienes presenten alguna incapacidad, por el tiempo que subsista, siempre y c
 
 II. Las mujeres, durante seis semanas antes del parto y seis semanas posteriores al mismo; y
 
-III. Los imputados sujetos a prisión preventiva, salvo que cumpla el trabajo obligatorio con motivo de la comisión de otro delito.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Los procesados sujetos a prisión preventiva, salvo que cumplan el trabajo obligatorio con motivo de la comisión de otro delito.
 
 ###### Artículo 134.
 
 Quienes sufran alguna discapacidad tendrán una ocupación adecuada a su situación, de acuerdo con las recomendaciones técnicas del caso.
 
-Artículo.135. El trabajo que realicen los internos, dentro afuera de los establecimientos penitenciarios, estará comprendido en alguna de las siguientes modalidades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 135.
+
+El trabajo que realicen los internos, dentro o fuera de los centros, estará comprendido en alguna de las siguientes modalidades:
 
 l. Estudio y formación académica; a las que la administración penitenciaria dará carácter preferente;
 
@@ -1193,7 +1375,9 @@ II. Producción de bienes y servicios, mediante cooperativas o similares, de acu
 
 III. Ocupaciones que formen parte de un tratamiento;
 
-IV. Prestaciones personales en servicios auxiliares comunes del establecimiento;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Prestaciones personales en servicios auxiliares comunes del centro;
 
 V. Artesanales propias de la región; e
 
@@ -1215,11 +1399,13 @@ IV. 10 % para el sostenimiento del interno dentro del centro.
 
 Si no hubiese condena a la reparación del daño o ésta ya hubiera sido cubierta, o no existiesen dependientes económicos, los porcentajes respectivos se destinarán al fondo de ahorro.
 
-#### SECCIÓN CUARTA. DE LA EDUCACIÓN
+#### SECCIÓN TERCERA. DE LA CAPACITACIÓN
 
 ###### Artículo 137.
 
 La capacitación para el trabajo deberá orientarse a desarrollar armónicamente las facultades del interno. La capacitación que se imparta será actualizada, de tal forma que pueda incorporar al interno a una actividad económica, social y culturalmente productiva.
+
+#### SECCIÓN CUARTA. DE LA EDUCACIÓN
 
 ###### Artículo 138.
 
@@ -1231,9 +1417,11 @@ De igual manera; se deberá incluir en los programas educativos, talleres tendie
 
 Las enseñanzas primaria y secundaria serán obligatorias. Se procurará instaurar dentro de los centros la enseñanza preparatoria, así como la educación profesional en su modalidad abierta y cursos de capacitación y adiestramiento técnico conforme a los planes y programas oficiales.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 140.
 
-La documentación de cualquier tipo que expidan los centros escolares de los establecimientos penitenciarios no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la Dirección.
+La documentación de cualquier tipo que expidan los centros escolares de los centros penitenciarios no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la dirección.
 
 ###### Artículo 141.
 
@@ -1243,31 +1431,43 @@ En los centros, los profesores organizarán conferencias, veladas literarias, pr
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS PENITENCIARIOS
 
-Artículo.142. Los establecimientos penitenciarios que integran el Sistema, se dividirán en las siguientes áreas
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 142.
+
+Los centros que integran el sistema, se dividirán en las siguientes áreas:
 
 I. Varoniles y femeniles;
 
-II. Menores y Adultos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II. De visitas personales;
 
 III. Preventiva y de ejecución de sanciones; y
 
 IV. De alta, media y mínima seguridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 143.
 
-Los establecimientos penitenciarios considerados como de alta y media seguridad se ubicarán en la periferia de la ciudad, preferentemente fuera de la zona habitada. Quedarán ubicados en los centros de alta seguridad quienes:
+Los centros considerados como de alta y media seguridad se ubicarán en la periferia de la ciudad, preferentemente fuera de la zona habitada. Quedarán ubicados en los centros de alta seguridad quienes:
 
 I. Estén privados de su libertad por delitos de alto impacto social;
 
 II. Pertenezcan a una asociación delictuosa o a un grupo organizado para delinquir;
 
-III. Presenten conductas, graves o reiteradas de daños, amenazas, actos de molestia, o delitos en perjuicio de otros reclusos, sus familiares, visitantes o personal de las instituciones de seguridad; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Presenten conductas graves o reiteradas de daños, amenazas, actos de molestia, o delitos en perjuicio de otros reclusos, sus familiares, visitantes o personal de las instituciones de seguridad pública; y
 
 IV. Hayan favorecido la evasión de presos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 144.
 
-No podrán ser recluidos en los establecimientos penitenciarios a que se refiere el artículo anterior los inimputables, los enfermes siquiátricos quienes muestren una discapacidad grave, los enfermos terminales o cualquier otra persona que no se encuentre dentro de los criterios establecidos en el artículo anterior.
+No podrán ser recluidos en los centros a que se refiere el artículo anterior los inimputables, los enfermos psiquiátricos, quienes muestren una discapacidad grave, los enfermos terminales o cualquier otra persona que no se encuentre dentro de los criterios establecidos en el artículo anterior.
 
 ###### Artículo 145.
 
@@ -1281,63 +1481,105 @@ En las instituciones de rehabilitación sicosocial sólo se recluirá a los inim
 
 Las sanciones privativas de libertad se cumplirán en los establecimientos penitenciarios, salvo los casos de excepción expresamente señalados en esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 148.
 
-Los establecimientos penitenciarios estarán a cargo de un Director y tendrán el personal administrativo y de vigilancia que sea necesario.
+Los centros estarán a cargo de un director y tendrán el personal administrativo y de vigilancia que sea necesario.
 
-Para los fines de vigilancia y administración, los directivos se ajustarán a la aplicación del Reglamento respectivo y cumplirán las normas de ejecución penal que establece esta Ley.
+Para los fines de vigilancia y administración, los directores se ajustarán a la aplicación del reglamento respectivo y cumplirán las normas de ejecución penal que establece esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 149.
 
-Los establecimientos penitenciarios se denominan Centros de Reinserción Social, dependen de la Dirección, y para su funcionamiento dispondrán, en la medida que lo permita su presupuesto, de las siguientes secciones: Vigilancia, médica; sicológica, tratamientos a farmacodependientes, de seguridad y custodia; pedagógica, trabajo, social y administrativa.
+Los centros contarán para su funcionamiento, con las siguientes secciones:
 
-Artículo. 150. Por ningún motivo se dará entrada a establecimientos penitenciarios para adultos, a adolescentes infractores, los que deberán ser internados, en su caso, en las instituciones especiales que prevé la Ley de Justicia para Adolescentes del Estado.
+I. De Vigilancia médica;
+
+II. De Vigilancia psicológica;
+
+III. De Tratamiento a farmacodependientes;
+
+IV. De seguridad y custodia;
+
+V. De Pedagogía;
+
+VI. De Trabajo social;
+
+VII. De deporte; y
+
+VIII. De Administración.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 150.
+
+Por ningún motivo se dará entrada en los centros para adultos, a adolescentes infractores, los que deberán ser internados, en su caso, en las instituciones especiales que prevé la Ley de Justicia para Adolescentes del Estado.
 
 ### CAPÍTULO II. DEL INGRESO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 151.
 
-El ingreso de un procesado o sentenciado en cualquiera de los establecimientos penitenciarios se hará mediante el mandamiento u orden de la autoridad competente. A cada interno, desde su ingreso, se le abrirá un expediente personal relativo a su situación procesal y penitenciaria, de la que tendrá derecho a ser informado.
+El ingreso de un procesado o sentenciado en cualquiera de los centros se hará mediante el mandamiento u orden de la autoridad competente. A cada interno, desde su ingreso, se le abrirá un expediente personal relativo a su situación procesal y penitenciaria, de la que tendrá derecho a ser informado.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 152.
 
-Al ingresar al establecimiento penitenciario, los procesados o sentenciados serán alojados en el área de ingreso e invariablemente examinados por el médico del lugar, a fin de conocer el estad, de salud que guardan.
+Al ingresar al centro, los procesados o sentenciados serán alojados en el área de ingreso e invariablemente examinados por el médico del lugar, a fin de conocer el estado de salud que guardan.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 153.
 
-El ingreso de alguna persona a cualquiera de los establecimientos penitenciarios se hará se hará únicamente:
+El ingreso de alguna persona a cualquiera de los centros se hará únicamente:
 
 I. Por resolución judicial; y
 
 II. En ejecución de los convenios celebrados por el Ejecutivo Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 154.
 
-Para efectos de control interno, las autoridades del establecimiento integrarán un expediente que contendrá los siguientes datos:
+Para efectos del control de cada procesado o sentenciado, el director, a través del personal administrativo, integrará un expediente que contendrá los siguientes datos:
 
 l. Datos generales del procesado o sentenciado;
 
-II. Número de proceso penal, nombre de la víctima u ofendido, así como de la autoridad que lo turnó a disposición del establecimiento;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II. Número de proceso penal, nombre de la víctima u ofendido, así como de la autoridad que lo turnó a disposición del centro;
 
 III. Fecha y hora del ingreso y egreso, si lo hubiere, así como los datos que originaron su estado privativo de libertad;
 
 IV. Identificación dactiloscópica y antropométrica; y
 
-V: Identificación fotográfica.
+V. Identificación fotográfica.
 
-La información contenida en el expediente quedará sujeta a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La información contenida en el expediente quedará sujeta a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ### CAPÍTULO III. DE LOS TRASLADOS
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 155.
 
-Para el traslado de procesados será necesaria la autorización expresa de la autoridad a cuya disposición se encuentre, salvo los casos de notoria urgencia en los que se ponga en peligro la vida o la integridad física de los internos o la seguridad y el orden del establecimiento, debiendo notificar a dicha autoridad el siguiente día hábil.
+Para el traslado de procesados será necesaria la autorización expresa de la autoridad a cuya disposición se encuentre, salvo los casos de notoria urgencia en los que se ponga en peligro la vida o la integridad física de los internos o la seguridad y el orden del centro, debiendo notificar a dicha autoridad el siguiente día hábil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 156.
 
-La facultad de trasladar a los internos sentenciados ejecutoriadamente a otros establecimientos penitenciarios corresponde a la Dirección, con las modalidades siguientes:
+La facultad de trasladar a los internos sentenciados a otros centros corresponde a la dirección, con las modalidades siguientes:
 
-I. Si el traslado del sentenciado es voluntario, se tomarán en cuenta los motivos que el interno invoque, así como las condiciones generales del establecimiento al que se pretenda trasladar; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I. Si el traslado del sentenciado es voluntario, se tomarán en cuenta los motivos que el interno invoque, así como las condiciones generales del centro al que se pretenda trasladar; y
 
 II. Si el traslado del sentenciado es necesario o urgente, la Dirección lo ejecutará, aún sin el consentimiento del interno, debiendo mediar una razón grave que lo justifique.
 
@@ -1359,29 +1601,37 @@ Para tal fin, se procurará desarrollar en ellos una actitud de respeto a sí mi
 
 Se fomentará la participación del interno en la planificación y ejecución de su tratamiento, para que en el futuro sea capaz de llevar, con conciencia social, una vida sin delitos. La satisfacción de los intereses personales será tomada en cuenta, siempre que ello sea compatible con el tratamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 160.
 
-El tratamiento se inspirará en las siguientes bases:
+El tratamiento se llevará a cabo conforme a las siguientes bases:
 
-I. - E (sic) estudio científico de la constitución, temperamento, carácter, aptitudes y actitudes del sujeto a tratar, así como su sistema dinámico motivacional y el aspecto evolutivo de su personalidad, conducente a una evaluación global de la misma, que se recogerá en el protocolo del interno;
+I. E (sic) estudio científico de la constitución, temperamento, carácter, aptitudes y actitudes del sujeto a tratar, así como su sistema dinámico motivacional y el aspecto evolutivo de su personalidad, conducente a una evaluación global de la misma, que se recogerá en el protocolo del interno;
 
-II. El resumen de su actividad delictiva y de todos los datos, ambientales, ya sea individuales, familiar o social del interno;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II. El resumen de su actividad delictiva y de todos los datos ambientales, ya sea individual, familiar o social del interno;
 
 III. La individualización, partiendo de métodos médico-biológicos, criminológicos, siquiátricos, educativos y sociales, con relación a la personalidad del interno; y
 
 IV. La continuidad y dinamismo, dependientes de las incidencias en la evolución de la personalidad del interno, durante el proceso o el cumplimiento de la condena.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 161.
 
-La individualización del tratamiento, tras la adecuada observación de cada interno, se realizará mediante su clasificación, destinándose al establecimiento cuyo régimen más adecuado al tratamiento que se le haya señalado y, en su caso, al grupo o sección más idónea dentro de aquél.
+La individualización del tratamiento, tras la adecuada observación de cada interno, se realizará mediante su clasificación, destinándose al centro cuyo régimen sea más adecuado al tratamiento que se le haya señalado y, en su caso, al grupo o sección más idónea dentro de aquél.
 
-La clasificación debe tomar en cuenta la personalidad; el historial del interno; la duración de la sanción o medidas judiciales, en su caso; el medio al que probablemente retornará, así como los recursos facilidades y dificultades existentes.
+La clasificación debe tomar en cuenta la personalidad; el historial del interno; la duración de la sanción o medida de seguridad, en su caso; el medio al que probablemente retornará, así como los recursos, facilidades y dificultades existentes.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 162.
 
-La observación de los sujetos a prisión preventiva se limitará a recoger la mayor información posible sobre cada uno de ellos a través de datos documentales y de entrevistas, y mediante la observación directa del comportamiento, estableciendo sobre estas bases la separación o clasificación interior en grupos, todo ello en cuanto sea compatible con el principio de presunción de inocencia.
+La observación de los sujetos en prisión preventiva se limitará a recoger la mayor información posible sobre cada uno de ellos a través de datos documentales y de entrevistas, y mediante la observación directa del comportamiento, estableciendo sobre estas bases la separación o clasificación interior en grupos, y se respetará en todo momento el principio de presunción de inocencia.
 
-Una vez recaída sentencia condenatoria, se completará la información anterior con un estudio científico de la personalidad del observado, formulado sobre la base de dichos estudios e informaciones una determinación del tipo criminológico y de adaptabilidad social; la propuesta razonada de grado de tratamiento, y el destino al tipo de establecimiento penitenciario que corresponda.
+Dictada la sentencia condenatoria, se complementará la información anterior con un estudio científico de la personalidad del observado, se formulará sobre la base de dichos estudios e informaciones una determinación de tipo criminológico y de adaptabilidad social; la propuesta razonada de grado de tratamiento, y el destino al centro que corresponda.
 
 ###### Artículo 163.
 
@@ -1427,9 +1677,11 @@ Los internos estarán autorizados para comunicarse periódicamente, de forma ora
 
 Todo interno tiene derecho a comunicar inmediatamente su detención a su familia o a su defensor, así como a comunicar su traslado a otro establecimiento en el momento de ingresar al mismo.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 171.
 
-Los establecimientos penitenciarios dispondrán de áreas especialmente adecuadas para las visitas personales, las que se concederán en los términos del Reglamento.
+Las visitas personales se concederán y realizarán en los términos del reglamento correspondiente.
 
 ## TÍTULO SÉPTIMO. DE LA ASISTENCIA POSPENITENCIARIA
 
@@ -1467,6 +1719,946 @@ VII. Indulto; y
 
 VIII. Las demás que señale el Código Penal.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+## TÍTULO NOVENO. DEL PROCEDIMIENTO DE EJECUCIÓN PENAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 175.
+
+Para la ejecución de las sanciones y medidas de seguridad, el juez de control o el tribunal de juicio oral que dictó la sentencia, siempre que ésta haya causado ejecutoria, remitirá al juez de ejecución y a la autoridad penitenciaria, copia certificada de la misma, junto con los datos de identificación del sentenciado, para efecto de su cumplimiento.
+
+Cuando el sentenciado esté sujeto a prisión preventiva, el juez de control o tribunal de juicio oral deberá poner a disposición del juez de ejecución al sentenciado, remitiéndole el registro donde conste su resolución, a efecto de integrar el expediente respectivo, dando inicio al procedimiento jurisdiccional de ejecución penal, para el debido cumplimiento de la sanción impuesta.
+
+Si el sentenciado estuviere en libertad, el juez de control o el tribunal de juicio oral deberá ordenar inmediatamente la detención del sentenciado y, una vez efectuada la misma, procederá de conformidad con lo establecido para los sentenciados detenidos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 176.
+
+En caso de sanciones no privativas de la libertad o alternativas, el juez de control o tribunal de juicio oral remitirá copia de la sentencia al juez de ejecución, a efecto de que éste inicie el procedimiento de ejecución penal.
+
+Respecto a las sanciones o medidas de seguridad impuestas por sentencia definitiva que hayan causado ejecutoria, al recibir copia certificada de éstas, el juez de ejecución dará inicio al procedimiento de ejecución penal y notificará a la autoridad penitenciaria, al sentenciado, a su defensor y al ministerio público.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 177.
+
+En aquellos casos en que el sentenciado se encontrara detenido, el juez de ejecución convocará a la audiencia de ejecución de manera inmediata y, de igual forma, notificará previamente a los intervinientes, entre ellos a la víctima u ofendido.
+
+Si el sentenciado se encontrara en libertad, lo mandará a citar, apercibiéndolo de que en caso de no comparecer se hará acreedor a una medida de apremio.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 178.
+
+El juez de ejecución, para llevar a cabo el desarrollo de la audiencia para los casos establecidos en el artículo 16 de esta Ley, se sujetará a los principios que rigen la audiencia oral, establecidos en el título duodécimo de la presente Ley.
+
+La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia oral. Al término de la misma, dictará resolución fundada y motivada, salvo la excepción señalada en el artículo 181 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 179.
+
+Al iniciar el procedimiento, se deberá notificar previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del agente del ministerio público, de los funcionarios de la dirección de ejecución que representen a la autoridad penitenciaria para tal efecto, el sentenciado y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia; cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo, y se levantará constancia de ello.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 180.
+
+Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la sanción o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición y valoración de la prueba se llevará acabo (sic) conforme a lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 181.
+
+La (sic) resoluciones deberán emitirse inmediatamente después de concluido el debate, excepcionalmente, en casos de extrema complejidad, el juez de ejecución podrá retirarse a deliberar su fallo en la forma establecida en el título duodécimo de esta Ley.
+
+De la resolución pronunciada en la audiencia, deberá entregarse copia certificada a la dirección de ejecución y a la Procuraduría General de Justicia del Estado para su conocimiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 182.
+
+La audiencia oral ante el juez de ejecución se desarrollará conforme a lo dispuesto en el título duodécimo de esta Ley.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+## TÍTULO DÉCIMO. DE LOS RECURSOS EN MATERIA DE EJECUCIÓN PENAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 183.
+
+Las resoluciones judiciales serán recurribles sólo por los medios y en los casos expresamente establecidos.
+
+El derecho de recurrir corresponderá sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
+
+Cuando la ley no distinga entre las diversas partes, el recurso podrá ser interpuesto por cualquiera de ellas.
+
+Por el sentenciado podrá recurrir el defensor, pero en ningún caso en contra de su voluntad expresa.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 184.
+
+Las partes sólo podrán impugnar las decisiones judiciales que pudieran causarles agravio, siempre que no hayan contribuido a provocarlo. El recurso deberá sustentarse en el reproche de los defectos que causan la afectación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 185.
+
+Lo no previsto en el presente título en materia de recursos, actividad procesal de los jueces de ejecución y de la sala penal del H. Tribunal Superior de Justicia del Estado, se aplicará supletoriamente el código procesal penal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO II. DEL RECURSO DE APELACIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 186.
+
+El recurso de apelación procederá contra las resoluciones dictadas por el juez de ejecución, siempre que sean declaradas expresamente apelables y sean desfavorables al recurrente.
+
+El recurso de apelación es procedente contra las resoluciones siguientes:
+
+I. Las que decidan sobre la revocación de cualquier beneficio concedido a los sentenciados, sobre la libertad anticipada, tratamiento pre-liberacional, libertad preparatoria y remisión parcial de la sanción, tratamiento en semilibertad y por el uso de localizadores electrónicos;
+
+II. Las que declaren la extinción de la sanción penal;
+
+III. Las que sustituyan la sanción de prisión por una medida de seguridad;
+
+IV. Las que decidan sobre la extinción de la sanción o medida de seguridad impuesta al sentenciado cuando el tipo penal por el que se le condenó sea suprimido por una ley posterior;
+
+V. Las que determinen cuestiones relacionadas con la reparación del daño;
+
+VI. Las que establezcan el cálculo y los términos de la sanción privativa de libertad;
+
+VII. Las que definan sobre las quejas que los internos formulen en relación con el régimen y tratamiento penitenciario; y
+
+VIII. Las que concedan cualquiera de los beneficios de libertad anticipada, tratamiento en semilibertad o mediante el uso de localizadores electrónicos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 187.
+
+El recurso de apelación se interpondrá por escrito ante el mismo juez de ejecución que dictó la resolución dentro de los diez días siguientes a la notificación.
+
+En el escrito en el cual se interponga el recurso se deberán expresar únicamente los conceptos de agravio que se hayan cometido previo al dictado de la resolución o, en su caso, en la audiencia en la que se haya dictado aquella.
+
+La sala penal suplirá la deficiencia de los agravios formulados cuando el recurrente sea el sentenciado o su defensor.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 188.
+
+Presentado el recurso, el juez de ejecución, dentro de las veinticuatro horas siguientes, notificará a las partes y en un plazo máximo de tres días, remitirá las actuaciones y registros a la sala penal del H. Tribunal Superior de Justicia a fin de que resuelva en definitiva.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 189.
+
+Recibidas las actuaciones, la sala penal señalará fecha para la audiencia oral dentro de los cinco días siguientes, con excepción de las resoluciones negativas sobre presuntas violaciones a los derechos fundamentales, en cuyo caso, la fecha para la celebración de la audiencia no podrá exceder del plazo de dos días.
+
+La audiencia se celebrará con las partes que comparezcan, quienes podrán hacer uso de la palabra sin que se admitan réplicas. El sentenciado será representado por su defensor y, en caso de que pueda asistir a la audiencia, se le concederá la palabra en último término. En la audiencia, los magistrados que integran la sala podrán interrogar a los intervinientes sobre las cuestiones planteadas en el recurso.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 190.
+
+Concluido el debate, la sala penal dictará de inmediato resolución y confirmarán, revocarán o modificarán la resolución recurrida, y si ello no fuere posible, la emitirá dentro del plazo de tres días siguientes a la celebración de la audiencia y la dará a conocer a los intervinientes.
+
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+## TÍTULO UNDÉCIMO. DEL PROCEDIMIENTO DE QUEJA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 191.
+
+La queja se interpondrá ante la dirección y procederá por actos realizados por la autoridad penitenciaria en contra del procesado o sentenciado, en los supuestos siguientes:
+
+I. Por la imposición de correcciones disciplinarias excesivas o no previstas en el reglamento correspondiente;
+
+II. Por que fuere sometido a tortura, tratos inhumanos, crueles o degradantes o cualquier otro acto que sea violatorio de derechos humanos; o
+
+III. Por cualquier acto arbitrario o que vaya en contra del reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 192.
+
+La queja se formulará de manera verbal o escrita por el sentenciado o procesado y, en caso de encontrarse impedido, podrá interponerla su abogado o cualquier familiar en su representación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 193.
+
+Es obligación de la autoridad penitenciaria dictar las medidas necesarias para salvaguardar los derechos del procesado o sentenciado, mientras la resolución no se haya emitido.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 194.
+
+La queja deberá ser resuelta por la dirección en un plazo no mayor a cinco días contados a partir de la presentación de la misma. La dirección está obligada a rendirle un informe de cada queja y su resolución a la dirección de asuntos jurídicos, derechos humanos y sistema penitenciario de la Secretaría de Seguridad Pública y Protección a la Comunidad, en un plazo que no excederá de tres días después de notificada la resolución al quejoso. Asimismo, la dirección estará obligada a proporcionar la información que le requieran la Comisión Nacional o la Comisión Estatal de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 195.
+
+La queja se resolverá en una sola audiencia oral, deberán estar presentes las partes involucradas, y no podrá suspenderse por ningún motivo. En la misma audiencia se dictará la resolución, se establecerá por escrito y se cumplirá de manera inmediata.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 196.
+
+Si el acto se sigue cometiendo, de manera total o parcial, aun cuando exista una resolución al respecto, el procesado o sentenciado podrá acudir a la dirección de asuntos jurídicos, derechos humanos y sistema penitenciario de la Secretaría de Seguridad Pública y Protección a la Comunidad, quien resolverá en audiencia oral, en un plazo no mayor a las setenta y dos horas siguientes que tenga conocimiento, dictará la resolución correspondiente y ordenará su ejecución a través de la dirección de ejecución.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 197.
+
+De encontrarse culpable la autoridad penitenciaria, se le seguirá el procedimiento correspondiente, según sea el caso, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 198.
+
+En lo no previsto en el presente título y en los reglamentos de esta Ley, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+## TÍTULO DUODÉCIMO. DE LAS BASES, PRINCIPIOS Y REGLAS DE LA AUDIENCIA ORAL DE EJECUCIÓN
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO I. NOTIFICACIONES, COMUNICACIONES Y CITACIONES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 199.
+
+Las resoluciones y los actos que requieran una intervención de las partes o terceros se notificarán personalmente, por fax, medios electrónicos, y excepcionalmente, por teléfono, de conformidad con las reglas previstas en esta Ley y los acuerdos dictados por el Pleno del Tribunal Superior de Justicia del Estado.
+
+La autoridad judicial debe asegurar que las notificaciones se hagan a la brevedad y que:
+
+I. Transmitan con claridad, precisión y en forma completa el contenido de la resolución o de la actividad requerida y las condiciones o plazos para su cumplimiento;
+
+II. Contengan los elementos necesarios para asegurar la defensa y el ejercicio de los derechos y facultades de las partes; y
+
+III. Adviertan suficientemente al sentenciado y a la víctima u ofendido cuando el ejercicio de un derecho esté sujeto a plazo o condición.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 200.
+
+Las resoluciones pronunciadas durante la audiencia oral se entenderán notificadas a los intervinientes en el procedimiento que hubieren asistido. Los interesados podrán pedir copias de los registros en que constaren estas resoluciones, las que se expedirán sin demora.
+
+Las resoluciones que sean dictadas fuera de audiencia deberán notificarse a quien corresponda, dentro de las veinticuatro horas siguientes a su dictado, salvo las excepciones establecidas en la presente Ley o que la autoridad judicial disponga un plazo menor. No obligarán sino a las personas debidamente notificadas.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 201.
+
+Las notificaciones serán practicadas de acuerdo a lo dispuesto en esta Ley, los reglamentos respectivos o por quien designe especialmente la autoridad judicial.
+
+Cuando deba practicarse una notificación fuera de la sede del juzgado o tribunal, se solicitará el auxilio de la autoridad respectiva, sin perjuicio de que el responsable de la notificación se desplace si así se dispone.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 202.
+
+Al comparecer ante la autoridad judicial, las partes deberán señalar domicilio dentro del lugar del proceso y modo para ser notificadas.
+
+El sentenciado será notificado en el juzgado, tribunal, domicilio señalado o en el lugar de su detención.
+
+Cualquiera de los intervinientes podrá ser notificado personalmente en el juzgado o tribunal. Los servidores públicos que intervengan en el proceso serán notificados en sus respectivas oficinas, siempre que éstas se encuentren en la misma jurisdicción.
+
+Las personas que no señalen domicilio o no informaren de su cambio serán notificadas por estrados.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 203.
+
+Si las partes tienen defensor u otro representante legal, las notificaciones deberán ser dirigidas solamente a éstos, salvo que la ley o la naturaleza del acto exijan que aquéllas también sean notificadas.
+
+El defensor y el representante legal serán responsables de los daños y perjuicios que por negligencia ocasionen a las partes que los hayan autorizado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 204.
+
+Cuando la notificación deba practicarse por medio de lectura, se leerá el contenido de la resolución, y si el interesado solicita copia, se le entregará. En los demás casos, se practicará la notificación entregándole una copia de la resolución al interesado, con indicación del nombre del tribunal y el proceso a que se refiere.
+
+Si el notificado se niega a recibir la copia, ésta será fijada en el lugar donde se practique el acto en presencia de un testigo que firmará la constancia correspondiente.
+
+La persona que notifica dejará constancia del acto, señalará el lugar, el día y la hora de la diligencia y firmará juntamente con quien reciba la copia o indicará que se negó a hacerlo o que no pudo firmar.
+
+Cuando así lo haya solicitado alguna de las partes y, en caso de urgencia, podrá notificarse por teléfono o por cualquier otro medio de comunicación expedito similar. Se dejará constancia sucinta de la conversación y de la persona que dijo recibir el mensaje.
+
+Cuando sea por medio de fax, correo o cualquier otro medio electrónico, se imprimirá la copia de envío y recibido que se agregará al registro.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 205.
+
+Cuando la persona por notificar no sea encontrada en el domicilio señalado, la copia será entregada a cualquier persona mayor de edad que viva o trabaje ahí, debiendo asentarse esa circunstancia y el nombre de la persona que la recibió.
+
+No encontrándose a nadie en el domicilio señalado, se fijará una cita para el día siguiente en la puerta del lugar donde se practique el acto. Si en la fecha indicada no se encontrara a nadie, se fijará la copia de la resolución a notificar en el mismo sitio, se asentará constancia de dicha actuación, sin perjuicio de la obligación de fijar otra copia en los estrados del juzgado o tribunal correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 206.
+
+Cuando se ignore el lugar donde se encuentra la persona que deba ser notificada, la resolución se le hará saber por edictos que se publicarán tres veces con un lapso de siete días entre cada publicación, por lo menos, en dos de los diarios de circulación generalizada estatal, sin perjuicio de ordenar su publicación en un diario de circulación nacional y de la adopción de las medidas convenientes para localizarlo.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 207.
+
+La notificación será nula, siempre que cause indefensión, cuando:
+
+I. Haya existido error sobre la identidad de la persona notificada;
+
+II. La resolución haya sido notificada en forma incompleta;
+
+III. En la diligencia no conste la fecha de su realización o la de entrega de la copia;
+
+IV. Falte alguna de las firmas requeridas;
+
+V. Exista disconformidad entre el original y la copia recibida por el interesado, en su caso; y
+
+VI. En cualquier otro supuesto que cause indefensión.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 208.
+
+Cuando para algún acto procesal sea necesaria la presencia de una persona, la autoridad que conoce del asunto deberá ordenar su citación por cualquier medio de comunicación que garantice la autenticidad y recepción del comunicado. En tal caso, deberá hacerse saber el objeto de la citación y el proceso en el que ésta se dispuso; además, se le prevendrá que en caso de no comparecer, le serán aplicadas las medidas de apremio pertinentes, salvo causa justificada.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO II. PLAZOS
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 209.
+
+Los actos procesales serán cumplidos en los plazos establecidos.
+
+Los plazos judiciales serán fijados conforme a la naturaleza del proceso y a la importancia de la actividad que se deba cumplir, teniendo en cuenta los derechos de las partes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 210.
+
+Los plazos individuales correrán a partir del día siguiente a aquel en que se efectuó la notificación al interesado. Los plazos comunes, desde el día siguiente a la última notificación que se practique.
+
+En los plazos por día, no deberán contarse los días inhábiles. Cuando el plazo concluya en día inhábil, se diferirá hasta el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 211.
+
+Las partes en cuyo favor se haya establecido un plazo, podrán renunciar a él o consentir su abreviación mediante manifestación expresa. En caso de plazo común deben expresar su voluntad todas las partes a las que rige.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 212.
+
+Quien no haya podido observar un plazo por causa no atribuible a él o por un acontecimiento insuperable, podrá solicitar su reposición en comparecencia inmediata posterior, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO III. NULIDADES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 213.
+
+Cualquier dato o medio de prueba obtenido con violación de los derechos fundamentales será nulo.
+
+No podrán ser valorados para fundar una decisión judicial ni utilizados como presupuesto de ella, los actos cumplidos con inobservancia de las formas, que impliquen violación de derechos fundamentales y las garantías del debido proceso previstas en la Constitución Federal y las leyes aplicables, salvo que el defecto haya sido saneado, de acuerdo con las normas que han sido previstas con ese objetivo.
+
+Tampoco podrán ser valorados los actos cumplidos con inobservancia de las formas que obsten el ejercicio del derecho a la tutela judicial de la víctima o impidan el ejercicio de los deberes del ministerio público, salvo que el defecto haya sido convalidado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 214.
+
+Todos los defectos formales deberán ser inmediatamente saneados, se renovará el acto, se rectificará el error o se cumplirá el acto omitido, de oficio o a petición del interesado.
+
+La autoridad judicial que constate un defecto formal saneable en cualquier etapa, recurso o instancia, lo comunicará al interesado y le otorgará un plazo para corregirlo, el cual no será mayor de tres días. Si el defecto formal no se corrige en el plazo conferido, resolverá lo correspondiente.
+
+Se entenderá que el acto se ha saneado cuando, no obstante la irregularidad, ha conseguido su fin respecto de todos los interesados.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 215.
+
+No será necesaria la protesta previa y podrán ser advertidos aun de oficio, bajo sanción de nulidad:
+
+I. Los defectos por violación a derechos fundamentales; y por falta de intervención, asistencia y representación del sentenciado en los casos y formas que la ley establece;
+
+II. Los defectos por incompetencia de los jueces, en relación con el nombramiento, competencia y jurisdicción; y
+
+III. Los defectos por datos o medios de prueba ilícitos obtenidos con violación de los derechos fundamentales.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 216.
+
+Cuando no sea posible sanear o convalidar un acto, el juez de ejecución, de oficio o a petición de parte, deberá, en forma fundada y motivada, declarar su nulidad o señalarla expresamente en la resolución respectiva; especificará, además, a cuáles actos alcanza la nulidad por su relación con el acto anulado y, siendo posible, ordenará que se renueven, rectifiquen o ratifiquen.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO IV. DEL DESARROLLO DE LA AUDIENCIA ORAL DE EJECUCIÓN
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 217.
+
+La audiencia oral es la etapa de decisión de las cuestiones esenciales del procedimiento de ejecución.
+
+Asegurará la concreción de los principios de oralidad, publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 218.
+
+La audiencia oral se desarrollará de la manera siguiente:
+
+I. El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia de los intervinientes.
+
+II. Verificará las condiciones para que se rinda, en su caso, la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia.
+
+III. Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar, al oferente de la petición o solicitud respectiva, ya sea el defensor, o en su caso, el sentenciado; luego al agente del ministerio público y al funcionario de la dirección de ejecución y, si está presente en la audiencia, a la víctima u ofendido.
+
+IV. Al arbitrio del juez de ejecución quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 219.
+
+La audiencia se realizará y los medios de prueba se desahogarán con la presencia ininterrumpida del juez de ejecución y de las demás partes intervinientes, legítimamente constituidas en el proceso, de sus defensores y de sus mandatarios.
+
+El sentenciado no podrá retirarse de la audiencia sin permiso del juez de ejecución. Si después de su declaración rehúsa permanecer en la audiencia, será custodiado en una sala próxima y representado a todos los efectos por su defensor. Cuando sea necesaria su presencia en la audiencia, para la realización de actos particulares, será hecho comparecer.
+
+Si el defensor no comparece al debate o se retira de la audiencia sin autorización, se considerará abandonada la defensa y se procederá a su reemplazo inmediato por un defensor público quien continuará hasta el final, salvo que el sentenciado designe, de inmediato, otro defensor.
+
+Si el ministerio público no comparece a la audiencia o se retira de esta sin autorización, se procederá a su reemplazo inmediato, según los mecanismos propios de la organización de la Procuraduría General de Justicia del Estado, bajo apercibimiento de que si no se le reemplaza en el acto se tendrá por retirada la acusación.
+
+El ministerio público sustituto o el abogado defensor, podrán solicitar al juez de ejecución que aplace el inicio de la audiencia por un plazo razonable para la adecuada preparación de su intervención en la misma. El juez de ejecución resolverá considerando la complejidad del caso, las circunstancias del abandono del ministerio público y las posibilidades de aplazamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 220.
+
+El sentenciado asistirá a la audiencia libre en su persona. El juez de ejecución podrá disponer la vigilancia necesaria para impedir la fuga o actos de violencia por parte del sentenciado.
+
+Si el sentenciado estuviere en libertad, bastará su citación para su presencia en la audiencia. Sin embargo, el juez de ejecución podrá disponer para asegurar la realización de la audiencia o de un acto particular que lo integre, su conducción por la fuerza pública e, incluso, la aplicación de alguna medida cautelar cuando ésta resulte imprescindible o variar las condiciones bajo las cuales goza de libertad.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 221.
+
+La audiencia será pública, sin embargo, el juez de ejecución podrá prohibir el ingreso con equipos de telefonía, grabación y video al recinto oficial.
+
+En casos excepcionales, el juez de ejecución podrá resolver, aun de oficio, que se desarrolle total o parcialmente a puertas cerradas, cuando:
+
+I. Pueda afectar el pudor, la integridad física o la intimidad de alguno de los intervinientes o de alguna persona citada para participar en él;
+
+II. Pueda afectar gravemente el orden público o la seguridad del Estado;
+
+III. Peligre un secreto oficial, particular, comercial o industrial cuya revelación indebida sea punible; y
+
+IV. Esté previsto específicamente en esta ley o en otra ley.
+
+La resolución será fundada y motivada, y deberá constar en los registros. Al término de la audiencia, se hará ingresar nuevamente al público y el juez de ejecución informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva, en lo posible.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 222.
+
+El juez de ejecución ejercerá el poder de policía y disciplina de la audiencia. Por razones de orden, higiene, decoro y eficacia de la audiencia podrá ordenar el retiro de toda persona cuya presencia no sea necesaria.
+
+Se prohibirá el ingreso a miembros de las fuerzas armadas o de seguridad uniformados, salvo que cumplan funciones de vigilancia o custodia.
+
+Del mismo modo, estará vedado el ingreso a la sala de audiencia a personas que porten distintivos gremiales o partidarios.
+
+Los representantes de los medios de información que expresen su voluntad de presenciar la audiencia podrán hacerlo; pero la transmisión simultánea, oral o audiovisual, o la grabación con esos fines de la audiencia, requieren la autorización previa del juez de ejecución, el consentimiento del procesado o sentenciado y en su caso de la víctima u ofendido, si éstos estuvieren presentes.
+
+El tribunal señalará en cada caso las condiciones en que se ejerce el derecho a informar y puede prohibir, mediante auto fundado y motivado, la grabación, fotografía, edición o reproducción de la audiencia cuando puedan resultar afectados algunos de los intereses señalados en el artículo precedente o cuando se limite el derecho del sentenciado y de la víctima u ofendido a un juicio imparcial y justo.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 223.
+
+Quienes asistan a la audiencia deberán permanecer respetuosamente y en silencio mientras no estén autorizados para exponer o deban responder a las preguntas que se les formule.
+
+No podrán portar armas u objetos aptos para molestar u ofender, ni adoptar un comportamiento intimidatorio, provocativo, contrario al decoro, ni producir disturbios o manifestar de cualquier modo opiniones o sentimientos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 224.
+
+La audiencia continuará durante todas las audiencias consecutivas que fueren necesarias hasta su conclusión; se podrá suspender por única vez y por un plazo máximo de diez días hábiles, sólo en los casos siguientes:
+
+I. Para practicar algún acto fuera de la sala de audiencias, incluso cuando una revelación inesperada torne indispensable una investigación suplementaria, siempre que no sea posible cumplir los actos en el intervalo de dos sesiones;
+
+II. Cuando no comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar la audiencia hasta que ellos comparezcan, incluso coactivamente por medio de la fuerza pública;
+
+III. Cuando el juez de ejecución, el procesado o sentenciado, su defensor, o el fiscal se enfermen a tal extremo que no puedan continuar interviniendo en la audiencia, a menos que puedan ser reemplazados inmediatamente; y
+
+IV. Cuando el ministerio público lo requiera o el defensor lo solicite, siempre que por las características del caso, no se pueda continuar inmediatamente.
+
+Excepcionalmente, el juez de ejecución podrá disponer la suspensión de la audiencia, por resolución fundada y motivada, cuando alguna catástrofe o algún hecho extraordinario tornen imposible su continuación.
+
+El juez de ejecución decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todos los intervinientes.
+
+Antes de comenzar la nueva audiencia, el juez de ejecución resumirá brevemente los actos cumplidos con anterioridad.
+
+El juez de ejecución ordenará los aplazamientos diarios, indicando la hora en que continuará la audiencia. No será considerado un aplazamiento el descanso de fin de semana o el día feriado o de asueto, siempre que la audiencia continúe el día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 225.
+
+Si la audiencia no se reanuda dentro de los diez días hábiles siguientes después de la suspensión, se considerará interrumpida y deberá ser realizada de nuevo desde su inicio, previa declaración de nulidad de lo actuado.
+
+La sustracción de la justicia o la incapacidad del sentenciado interrumpirán el debate, salvo que el impedimento se subsane dentro del plazo previsto en el párrafo anterior, o que prosiga la audiencia para la aplicación exclusiva de una medida de seguridad.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 226.
+
+La audiencia será oral, tanto en lo relativo a los alegatos y argumentos de todos los intervinientes como en todas las declaraciones, la recepción de los medios de prueba y, en general, toda intervención de quienes participen en ella.
+
+Las resoluciones del juez de ejecución serán dictadas verbalmente, con expresión de sus fundamentos cuando el caso lo requiera, y quedarán todos notificados por su emisión, pero su parte dispositiva constará luego en el acta de la audiencia.
+
+Quienes no puedan hablar o no lo puedan hacer en el idioma castellano, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete, y se leerán o relatarán las preguntas o las contestaciones en la audiencia.
+
+El acusado carente de capacidad auditiva o que no pueda entender el idioma castellano será dotado de un intérprete para que le transmita el contenido de los actos de la audiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 227.
+
+El juez de ejecución dirigirá la audiencia, ordenará las lecturas pertinentes, hará las advertencias que correspondan, exigirá las ratificaciones solemnes y moderará la discusión; impedirá derivaciones impertinentes o que no resulten admisibles, sin coartar por ello la libertad de defensa.
+
+Deberá corregir en el acto las faltas que se cometieren, para lo cual podrá aplicar cualquiera de las siguientes medidas:
+
+I. Apercibimiento;
+
+II. Expulsión de la sala de audiencia;
+
+III. Desalojo público de la sala de audiencia;
+
+IV. Multa de cinco a veinticinco salarios mínimos; o
+
+V. Arresto hasta por treinta y seis horas.
+
+Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+Si el infractor fuere el ministerio público, el sentenciado, su defensor, la víctima u ofendido, y fuere necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
+
+En caso de que, a pesar de las medidas adoptadas, no pueda restablecerse el orden, el juez de ejecución la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 228.
+
+Si durante la audiencia se comete un delito, el juez de ejecución ordenará levantar un acta con las indicaciones que correspondan y, eventualmente, detendrá al probable responsable.
+
+El juez de ejecución remitirá copia de los antecedentes necesarios al ministerio público y, en su caso, pondrá a su disposición al detenido.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 229.
+
+Si de la apreciación de los hechos durante la audiencia, surge otro delito perseguible de oficio, el juez de ejecución remitirá los antecedentes al ministerio público.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO V. TESTIMONIOS
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 230.
+
+Salvo disposición en contrario, toda persona tendrá la obligación de concurrir a la citación judicial y de declarar la verdad de cuanto conozca y le sea preguntado; asimismo, no deberá ocultar hechos, circunstancias ni elementos, sin perjuicio de la facultad del juez de ejecución para valorar el testimonio de acuerdo con las reglas de la sana crítica.
+
+La obligación de declarar incluye a los oficiales de los cuerpos de policía, los oficiales de la policía de investigación, los peritos oficiales y los peritos privados que han actuado como tales durante el proceso penal, especialmente, si han ofrecido informes o dictámenes que constan en las actas de las audiencias previas y se trata de documentos que, igualmente, fueron admitidos en el proceso.
+
+El testigo no estará en la obligación de declarar sobre hechos que le puedan implicar responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 231.
+
+Podrán abstenerse de declarar, salvo que fueren denunciantes, el cónyuge, concubina o concubinario, ascendientes, descendientes o parientes colaterales del acusado hasta el tercer grado inclusive de consanguinidad o afinidad.
+
+Bajo pena de nulidad, deberá informarse a las personas mencionadas de la facultad de abstención, antes de declarar, pero si aceptan rendir su testimonio no podrán negarse a contestar las preguntas formuladas.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 232.
+
+Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar un secreto particular u oficial por su conocimiento en razón del propio estado, oficio o profesión, tales como los ministros religiosos, abogados y notarios, contadores, médicos, psicólogos, farmacéuticos, enfermeros y demás auxiliares de las ciencias médicas, así como los servidores públicos sobre secretos de Estado.
+
+Sin embargo, estas personas no podrán negar su testimonio cuando sean liberadas por el interesado del deber de guardar secreto.
+
+En caso de ser citadas, estas personas deberán comparecer y explicar el motivo del cual surge la obligación de guardar secreto y de abstenerse de declarar.
+
+Si el tribunal estima que el testigo invoca erróneamente la facultad de abstenerse o la reserva del secreto, ordenará su declaración mediante resolución fundada.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 233.
+
+Para el examen de testigos, se librará orden de citación, salvo en el caso de que la parte interesada se comprometa a presentarlos. En esta última hipótesis, de no cumplir su ofrecimiento, se le tendrá por desistida de la prueba. En los casos de urgencia podrán ser citados verbalmente o por teléfono, lo cual se hará constar. Además, el testigo podrá presentarse a declarar espontáneamente. Si el testigo reside en un lugar lejano a la oficina judicial y carece de medios económicos para trasladarse, se dispondrá lo necesario para asegurar la comparecencia.
+
+Tratándose de testigos que sean empleados públicos o de una empresa del Estado, el organismo público o la empresa respectiva adoptará las medidas correspondientes para facilitar la comparecencia del testigo, sea que se encontrare en el país o en el extranjero.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 234.
+
+Si el testigo no se presenta a la primera citación, se le hará comparecer por medio de la fuerza pública para su inmediata presentación a la sede de la audiencia.
+
+Si el testigo, debidamente citado, no compareciere sin justa causa a la audiencia, el juez de ejecución en el acto acordará su comparecencia por medio de la fuerza pública para su inmediata presentación a la sede de la audiencia, sin que sea necesario enviar nueva cita o agotar previamente algún otro medio de apremio.
+
+Si después de comparecer, se niega a declarar sin derecho a hacerlo, se le dará vista al ministerio público para promover acción penal en su contra por el delito de desobediencia y resistencia de particulares.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 235.
+
+Si el testigo se halla en el extranjero, se procederá conforme a las reglas nacionales o del derecho internacional para la cooperación judicial. Sin embargo, podrá requerirse la autorización del Estado en el cual se encuentre para que sea interrogado por el representante consular, por un juez o por un representante del ministerio público, según sea la fase del proceso y la naturaleza del acto de que se trate.
+
+Si se trata de una declaración que no puede desahogarse en la audiencia se seguirá el procedimiento previsto para la prueba anticipada.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 236.
+
+El juez de ejecución podrá ordenar la aprehensión de un testigo cuando haya temor fundado de que se oculte o se fugue.
+
+Esta medida durará el tiempo indispensable para recibir la declaración y no podrá exceder de veinticuatro horas.
+
+El ministerio público podrá ordenar la retención del testigo por el plazo máximo de seis horas, para gestionar la orden judicial.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 237.
+
+No estarán obligados a concurrir a la citación judicial, aunque sí deberán declarar desde el lugar donde se les facilite, previo señalamiento de la diligencia:
+
+I. El Presidente de la República, los Secretarios de la Administración Pública Federal, los Ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Diputados y Senadores del Congreso de la Unión y el Procurador General de la República;
+
+II. El Gobernador y los servidores públicos que señala el artículo 91 de la Constitución Política del Estado;
+
+III. Los extranjeros que gozaren en el país de inmunidad diplomática de conformidad a los tratados internacionales vigentes sobre la materia; y
+
+IV. Los que por enfermedad grave u otro impedimento calificado por el juez de ejecución, se hallaren en imposibilidad de hacerlo.
+
+Si las personas enumeradas en las fracciones anteriores renunciaren a ese derecho, deberán prestar declaración conforme a las reglas generales.
+
+Caso contrario, su testimonio será trasmitido en la audiencia por sistemas de reproducción a distancia.
+
+De no ser posible, el testimonio se grabará por cualquier medio y se reproducirá en el momento oportuno en la audiencia. Estos procedimientos especiales se llevarán a cabo sin afectar los principios de contradicción, inmediación y defensa.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 238.
+
+Antes de comenzar la diligencia, el testigo será instruido acerca de sus obligaciones y de las responsabilidades por su incumplimiento; se le tomará protesta de decir verdad, se le apercibirá sobre las sanciones en que incurre quien declara falsamente ante la autoridad judicial y será interrogado sobre su nombre, apellido, estado civil, profesión, domicilio y vínculos de parentesco.
+
+Esta forma de proceder no conculcará el derecho a la confrontación y la defensa.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 239.
+
+El juez de ejecución, en casos graves y calificados, podrá disponer medidas especiales destinadas a proteger la seguridad del testigo y sus familiares. Dichas medidas durarán el tiempo que la autoridad judicial disponga y podrán ser renovadas cuantas veces fuere necesario.
+
+De igual forma, el ministerio público deberá adoptar medidas para conferir al testigo o sus familiares, antes o después de prestadas sus declaraciones, la debida protección.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VI. PERITAJES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 240.
+
+La prueba pericial se ajustara a los requisitos y condiciones de desarrollo de la audiencia oral.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 241.
+
+Los peritos no podrán ser recusados. No obstante, durante la audiencia podrán dirigírseles preguntas orientadas a determinar su imparcialidad e idoneidad, así como el rigor técnico o científico de sus conclusiones.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 242.
+
+La declaración de los peritos se regirá por las reglas conducentes a los testigos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 243.
+
+En caso necesario, los peritos y otros terceros que debieren intervenir en la audiencia para efectos probatorios, podrán pedir a la autoridad correspondiente que adopte medidas tendientes a que se les brinde la protección prevista para los testigos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VII. PRUEBA DOCUMENTAL
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 244.
+
+Se considerará documento a todo soporte material que contenga información sobre algún hecho, aunque carezca de suscripción.
+
+No podrá negarse esa condición a las publicaciones de prensa y a toda pieza que sea aceptada generalmente como medio de convicción por la comunidad.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 245.
+
+Salvo prueba en contrario, se considerarán auténticos los documentos públicos suscritos por quien tenga competencia para expedirlos o certificarlos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 246.
+
+El juez de ejecución podrá requerir y las partes solicitar informes a cualquier persona o entidad pública o privada.
+
+La autenticidad e identificación de los documentos no mencionados en el artículo anterior, se probará por los siguientes métodos:
+
+I. Reconocimiento de la persona que lo ha elaborado, manuscrito, mecanografiado, impreso, firmado o producido;
+
+II. Reconocimiento de la parte contra la cual se aduce;
+
+III. Mediante certificación expedida por la entidad certificadora de firmas digitales de personas físicas o morales;
+
+IV. Mediante informe de experto en la respectiva disciplina; y
+
+V. Cualquier otro método que permita probar su autenticidad e identificación o a través de la utilización de aparatos técnicos especializados.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 247.
+
+Cuando alguna de las partes exhiba un documento o lo incorpore en la audiencia para interrogar a testigos o peritos, deberá presentar el original.
+
+Se exceptúan de lo anterior los documentos públicos, o los duplicados auténticos, o aquellos cuyo original se hubiere extraviado o que se encuentran en poder de uno de los intervinientes, o se trata de documentos voluminosos y sólo se requiere una parte o fracción de los mismos o, finalmente, se acuerde innecesario la presentación del original.
+
+Lo anterior no es obstáculo para aquellos casos en que resulte indispensable la presentación del original del documento para la realización de estudios técnicos especializados, o forme parte de la cadena de custodia.
+
+La forma de su incorporación al proceso se adecuará al medio de prueba más análogo a los previstos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VIII. OTROS MEDIOS DE PRUEBA
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 248.
+
+Además de los previstos en esta Ley, podrán utilizarse otros medios probatorios distintos, siempre que no limiten las garantías y facultades de las personas, ni afecten el sistema institucional. La forma de su incorporación al proceso se adecuará al medio de prueba más análogo a los previstos en la presente Ley.
+
+Previa su incorporación al proceso, los objetos y otros medios de convicción podrán ser exhibidos a las partes, para que los reconozcan o informen sobre ellos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO IX. DESAHOGO DE MEDIOS DE PRUEBA
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 249.
+
+Cada parte determinará el orden en que rendirá su prueba, corresponderá recibir primero la ofrecida por el sentenciado y luego la ofrecida por el ministerio público.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 250.
+
+Antes de comenzar la declaración, el testigo o perito será instruido acerca de sus obligaciones y de las responsabilidades por su incumplimiento, prestará protesta o promesa de decir verdad conforme a sus creencias y será interrogado sobre su identidad personal, vínculo de parentesco e interés con las partes así como sobre cualquier otra circunstancia útil para apreciar su veracidad y valorar su testimonio.
+
+En audiencias prolongadas, el juez de ejecución podrá disponer que las diversas personas citadas para incorporar información comparezcan en días distintos.
+
+Las personas que sean interrogadas deberán responder de viva voz, sin consultar notas ni documentos, con excepción de los peritos y oficiales de policía.
+
+Después de declarar, el juez de ejecución dispondrá si ellos continúan en antesala o pueden retirarse, consultando a los intervinientes.
+
+Los intérpretes que sólo cumplan la misión de comunicar al sentenciado aquello que se manifieste en la audiencia, o a la audiencia aquello que manifieste el sentenciado, cuando él no domine el castellano o fuera ciego, sordo o mudo, permanecerán a su lado durante todala (sic) audiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 251.
+
+Realizada su identificación y otorgada la protesta, el juez de ejecución concederá la palabra a la parte que propuso al testigo para que lo interrogue y, con posterioridad, a los demás intervinientes, respetándose siempre el orden asignado.
+
+Durante la audiencia, los peritos y testigos deberán ser interrogados personalmente. Su declaración personal no podrá ser sustituida por la lectura de los registros en que consten anteriores declaraciones o de otros documentos que las contuvieren.
+
+En su interrogatorio, las partes que hayan propuesto a un testigo o perito no podrán formular sus preguntas de tal manera que éstas sugieran la respuesta.
+
+Durante el contrainterrogatorio las otras partes podrán confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos presentados en el juicio.
+
+Los peritos y testigos responderán directamente a las preguntas que les formulen los intervinientes o sus abogados y el juez de ejecución; éste último sólo podrá formular preguntas aclaratorias.
+
+A solicitud de alguna de las partes, el juez de ejecución podrá autorizar un nuevo interrogatorio de los testigos o peritos que ya hayan declarado en la audiencia. En el nuevo interrogatorio las preguntas sólo podrán referirse a las respuestas dadas por el testigo o perito durante el contra interrogatorio.
+
+Al perito se le podrá formular preguntas con el fin de proponerle hipótesis sobre el significado de su experticia pericial, a las que deberá responder ateniéndose a la ciencia, la profesión y los hechos hipotéticos propuestos.
+
+Antes de declarar, los peritos y los testigos no podrán comunicarse entre sí, ni ver, oír o ser informados de lo que ocurriere en la audiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 252.
+
+Las declaraciones rendidas en la etapa de investigación, las entrevistas y actuaciones de los cuerpos de seguridad pública y de la policía ministerial, los actos del ministerio público y los datos de prueba que, en su momento hayan dado fundamento al auto de vinculación al proceso y a las medidas cautelares, no tendrán valor probatorio para efectos de la ejecución de la sentencia, salvo lo dispuesto en este artículo.
+
+Cuando las partes lo soliciten y el juez de ejecución lo estime procedente podrán ser incorporadas a la audiencia por lectura sólo en su parte pertinente:
+
+I. La prueba documental;
+
+II. Los dictámenes de peritos, sin perjuicio de la facultad de los intervinientes de exigir sus declaraciones en la audiencia;
+
+III. Las declaraciones producidas por comisión, exhorto o informe, cuando el acto se haya registrado por cualquier medio que permita su reproducción o lectura y el informante no pueda comparecer a la audiencia; y
+
+IV. Las declaraciones que consten por escrito de testigos o peritos que hayan fallecido, estén ausentes del país, se ignore su residencia actual, siempre que esas declaraciones hayan sido recibidas conforme a las reglas de la prueba anticipada.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 253.
+
+Sólo una vez que el sentenciado, el testigo, los oficiales de policía o el perito hubieren prestado declaración, se podrá leer durante el interrogatorio y el contrainterrogatorio, parte o partes de sus declaraciones anteriores prestadas ante el ministerio público o el juez de control o tribunal de juicio oral, cuando fuere necesario para ayudar a la memoria del respectivo sentenciado o testigo, para demostrar o superar contradicciones o para solicitar las aclaraciones pertinentes.
+
+Con los mismos objetivos, se podrá leer durante la declaración de un perito partes del informe que él hubiere elaborado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 254.
+
+Los testigos y peritos que no puedan concurrir a la audiencia por un impedimento justificado podrán ser examinados en el lugar donde ellos se hallen por el juez de ejecución o por medio de exhorto a otro juez, según los casos, quien levantará el registro correspondiente. En esa diligencia podrán participar los demás intervinientes.
+
+El juez de ejecución podrá decidir, en razón de la distancia, que las declaraciones testimoniales o los dictámenes de peritos sean recibidos en el lugar donde resida el testigo o el perito, por un juez comisionado y de la manera antes prevista, salvo cuando quien ofreció el medio de prueba anticipe todos los gastos necesarios para la comparecencia de la persona propuesta.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 255.
+
+Los documentos e informes serán leídos y exhibidos en la audiencia, con indicación de su origen. Serán presentados y analizados en el orden fijado por las partes, salvo que se requiera su incorporación durante el interrogatorio de testigos o peritos, para su reconocimiento e información sobre ellos.
+
+Las grabaciones, los medios de prueba audiovisuales, computacionales o cualquier otro de carácter electrónico, apto para producir convicción, se reproducirán en la audiencia por cualquier medio idóneo para su percepción por los asistentes.
+
+El juez de ejecución, a solicitud de las partes o de oficio, podrá prescindir de la lectura íntegra de documentos o informes escritos, o de la reproducción total de una grabación, para leer o reproducir parcialmente el documento o la grabación, en la parte pertinente.
+
+Las cosas y otros elementos de convicción asegurados serán exhibidos en la audiencia.
+
+Si para conocer los hechos fuere necesario o conveniente una inspección o una reconstrucción, el juez de ejecución podrá disponerlo, a solicitud de alguno de los intervinientes o de oficio, y ordenará las medidas necesarias para llevar a cabo el acto.
+
+Si el acto se debe realizar fuera del lugar de la audiencia, el juez de ejecución deberá informar sumariamente las diligencias realizadas, cuando se regrese a la sala del debate, salvo que haya sido acompañado por los demás intervinientes.
+
+Cuando se garantice debidamente la identidad de los testigos o intervinientes, la videoconferencia en tiempo real u otras formas de comunicación que se produjeren con nuevas tecnologías, pueden ser utilizadas para la recepción y transmisión de medios de prueba y la realización de actos y diligencias procesales.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 256.
+
+No se podrá invocar, dar lectura ni incorporar como medio de prueba, ningún antecedente que tenga relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de una suspensión del proceso, de un acuerdo de conciliación o mediación o la tramitación de un procedimiento abreviado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 257.
+
+El juez de ejecución podrá ordenar la recepción de pruebas sobre hechos supervenientes o de las que no fueron ofrecidas oportunamente por alguna de las partes, cuando éstas justifiquen no haber sabido de su existencia.
+
+Si con ocasión de la rendición de una prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el juez de ejecución podrá autorizar la presentación de nuevas pruebas destinadas a esclarecer esos puntos, aunque ellas no hubieren sido ofrecidas oportunamente y siempre que no hubiere sido posible prever su necesidad.
+
+En ambos casos, el medio de prueba debe ser ofrecido antes de que se cierre la audiencia y el juez de ejecución deberá salvaguardar la oportunidad de la contraparte del oferente de la prueba superveniente, para preparar los contrainterrogatorios de testigos o peritos, según sea el caso, y para ofrecer la práctica de diversas pruebas encaminadas a controvertirla.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 258.
+
+Cuando lo considere necesario para la adecuada apreciación de determinadas circunstancias relevantes del caso, el juez de ejecución podrá constituirse, con las demás partes procesales, en un lugar distinto de la sala de audiencias, manteniendo todas las formalidades propias de la audiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 259.
+
+Cuando la individualización de la sanción requiera un tratamiento especial, por tratarse de hechos cometidos dentro de un grupo social con normas culturales particulares o cuando por la personalidad o vida del sentenciado sea necesario conocer con mayor detalle sus normas culturales de referencia, el juez de ejecución podrá ordenar un peritaje especial, y, de ser necesario, trasladar la celebración de la audiencia a la comunidad en que ocurrió el hecho, para permitir una mejor defensa y facilitar la valoración de la prueba.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 260.
+
+Terminado el desahogo de los medios de prueba, el juez de ejecución que presida concederá sucesivamente la palabra al abogado defensor del acusado y al ministerio público, para que en ese orden emitan sus alegatos de clausura. Podrán solicitar réplica en el mismo orden.
+
+El ministerio público podrá concluir requiriendo la modificación de la sanción, cuando en esta surjan elementos que conduzcan a esa conclusión, de conformidad con las leyes penales.
+
+La réplica sólo podrá referirse a lo expresado por el defensor en su alegato y la duplica a lo expresado por el ministerio público.
+
+En caso de manifiesto abuso de la palabra, el juez de ejecución llamará la atención al orador y, si éste persiste, podrá limitar racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
+
+En el caso de que la víctima u ofendido esté presente en la audiencia, el juez de ejecución le preguntará si tiene algo que manifestar y, en su caso, le concederá la palabra.
+
+Por último, se le concederá la palabra al sentenciado por si desea agregar algo más; una vez que concluya se declarará cerrado el debate.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO X. DELIBERACIÓN Y SENTENCIA
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 261.
+
+El juez de ejecución sólo podrá deliberar en privado cuando el caso sea de extrema complejidad, sin embargo, hará la deliberación de forma continua y aislada, hasta emitir el fallo correspondiente.
+
+El juez de ejecución apreciará los medios de prueba de forma integral, según su libre convicción, conforme las reglas de la lógica, los conocimientos científicos, la sana crítica y las máximas de la experiencia.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 262.
+
+Una vez concluida la deliberación, el juez de ejecución se presentará nuevamente en la sala de audiencias, después de ser convocadas verbalmente todas las partes, será leída tan sólo la parte resolutiva e informará, taxativamente, los fundamentos de hecho y de derecho que la motivaron.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 263.
+
+La resolución contendrá:
+
+I. La mención del juez de ejecución, su nombre y la fecha en que se dicta;
+
+II. El nombre y apellidos del sentenciado y los demás datos que sirvan para determinar su identidad, así como el nombre y cargo de los otros intervinientes;
+
+III. Una relación clara, precisa, circunstanciada y específica de los hechos que el juez tiene por probados, con una breve y sucinta descripción del contenido de la prueba desahogada en la audiencia, antes de proceder a su valoración;
+
+IV. La parte resolutiva, con mención de los fundamentos de hecho y de derecho; y
+
+V. La firma del juez de ejecución.
+
+Si el juez de ejecución no pudiere suscribir la resolución por impedimento ulterior a la deliberación, ello se hará constar, con resumen de la opinión del juez de ejecución impedido en caso de no coincidir con las emitidas, y la sentencia valdrá sin esa firma.
+
 ## TRANSITORIOS
 
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1477,9 +2669,7 @@ TERCERO: Se faculta al H Tribunal Superior de Justicia en Pleno para fijar oport
 
 El Titular de la Procuraduría General de Justicia del Estado, en el marco de sus atribuciones, deberá emitir os (sic) acuerdos, circulares, instructivos, bases, manuales de organización, procedimientos y/o lineamientos que resulten necesarios para la creación y funcionamiento de Agencias del Ministerio Público especializados en materia de Narcomenudeo, de conformidad con el presupuesto asignado, antes del 21 de Agosto de 2012.
 
-CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche entrará en vigor en la misma fecha en que inicie la vigencia del nuevo Código de Procedimientos Penales del Estado de Campeche, sin perjuicio de su publicación en el Periódico Oficial del Estado.
-
-Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
+CUARTO: (DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
 
@@ -1487,4 +2677,18 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
-Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los treinta días del mes de junio del año dos mil diez.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, WILLlAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los treinta días del mes de junio del año dos mil diez.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche contenida en el decreto 48 publicada en el Periódico Oficial del Estado el día 23 de julio de 2010 entrará en vigor el día 18 de junio de 2011.
+
+Al entrar en vigor la Ley de Ejecución en cita se abrogan la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche publicada en el Periódico Oficial del Estado el día 15 de enero de 1982, reformada por decreto publicado en el mismo órgano de difusión oficial local con fecha 11 de junio de 1999, y la Ley que Establece las Normas Mínimas Sobre Readaptación Social de Sentenciados en el Estado de Campeche, publicada en el Periódico Oficial del Estado el día 8 de enero de 1974.
+
+TERCERO. La Secretaría de Seguridad Pública y Protección a la Comunidad tendrá 90 días contados a partir de la entrada en vigor de la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche para expedir los reglamentos que resulten necesarios para la aplicación de la norma en mención.
+
+CUARTO. Para el caso de que al momento de iniciar vigencia la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Campeche la legislación adjetiva penal vigente en la entidad no contenga el sistema acusatorio adversarial para los procesos penales, todas las referencias al juez de control y tribunal de juicio oral contenidas en la Ley de Ejecución en cita, se entenderán hechas a los jueces de primera instancia en materia penal.
