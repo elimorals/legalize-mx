@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2011-04-15"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VEASE ARTICULO PRIMERO DEL DECRETO NUMERO 160 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011 Y LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, LOS ARTICULOS DE ESTE ORDENAMIENTO QUE RESULTEN INDISPENSABLES PARA LA DEBIDA APLICACION DE LA LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, ENTRARAN EN VIGOR EL DIA DIECIOCHO DE JUNIO DE DOS MIL ONCE.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 17 DE JUNIO DE 2011.</small>
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -5601,9 +5601,11 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 
 P.O. 15 DE ABRIL DE 2011.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P. O. P.O. 17 DE JUNIO DE 2011)</small>
+
+Los artículos de la Ley del Proceso Penal para el Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 141 Tercera Parte, el 3 de septiembre de 2010, que resulten indispensables para la debida aplicación de la presente Ley, entrarán en vigor el día dieciocho de Junio de dos mil once.
 
 Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
 
