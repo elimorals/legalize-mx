@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2008-05-19"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEON
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -75,41 +75,53 @@ VI. Los Juzgados de lo Penal;
 
 VII. Los Juzgados de Preparación de lo Penal;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII. Los Juzgados de Juicio Oral Penal;
+VIII. Los Juzgados de Control;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IX. Los Juzgados de Garantía de Adolescentes Infractores;
+IX. Los Juzgados de Juicio Oral Penal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-X. Los Juzgados de Juicio de Adolescentes Infractores;
+X. Los Juzgados de Ejecución de Sanciones Penales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XI. Los Juzgados de Ejecución de Medidas Sancionatorias de Adolescentes Infractores;
+XI. Los Juzgados de Garantías de Adolescentes Infractores;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XII. Los Juzgados de Jurisdicción Concurrente;
+XII. Los Juzgados de Juicio de Adolescentes Infractores;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XIII. Los Juzgados de Jurisdicción Mixta;
+XIII. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
 
-> <small>(REFORMADA Y REUBICADA, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XIV. Los Juzgados Supernumerarios; y
+XIV. Los Juzgados de Jurisdicción Concurrente;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XV. Los Juzgados Menores.
+XV. Los Juzgados de Jurisdicción Mixta;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XVI. Los Juzgados Supernumerarios; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XVII. Los Juzgados Menores.
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado el cual tendrá las atribuciones que le señala la Constitución Política del Estado y esta Ley.
 
 Para ocupar o desempeñar los cargos de Magistrado, Consejero de la Judicatura, Juez de Primera Instancia o Juez Menor, se deberán reunir los requisitos que establece el artículo 98 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El Consejo de la Judicatura del Estado mediante Acuerdos Generales, determinará los casos en que los Jueces de juicio oral, funcionarán en forma unitaria o colegiada.
 
 ###### ARTÍCULO 3.
 
@@ -159,7 +171,7 @@ Los auxiliares de Impartición de Justicia se regirán por las leyes respectivas
 
 Los auxiliares están obligados a cumplir las órdenes de las autoridades y funcionarios de la impartición de justicia. El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 4.
 
@@ -169,7 +181,7 @@ Las partidas presupuestales asignadas al Poder Judicial serán ejercidas en form
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 5.
+###### ARTÍCULO 5.
 
 En los órganos del Poder Judicial del Estado, se considerarán como días inhábiles: los sábados y domingos, el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 5 de mayo, 16 de septiembre, 20 de noviembre, 25 de diciembre, así como aquellos que se determinen en el calendario oficial o cuando se suspendan las labores por orden del Tribunal Superior de Justicia, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente considerados en la Ley.
 
@@ -187,7 +199,7 @@ Para efectos de la presente Ley, el Estado se divide en los Distritos Judiciales
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTICULO 7.
+###### ARTÍCULO 7.
 
 El Tribunal Superior de Justicia se integrará con dieciséis Magistrados. Las faltas temporales de los Magistrados se suplirán en los términos del Artículo 115 de esta Ley.
 
@@ -231,7 +243,7 @@ Los magistrados asistentes a cada sesión deberán firmar las actas que se levan
 
 Los Magistrados no deberán retirarse del Pleno hasta que el Presidente dé por concluida la sesión, a no ser que sobrevenga una causa justificada, calificada por el mismo Pleno. Tampoco deberán abstenerse de votar, excepto en caso de impedimento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 16.
 
@@ -441,7 +453,7 @@ Los actuarios deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derec
 
 Los Secretarios y Actuarios de Sala realizarán las funciones que determina esta Ley para los de los Juzgados de Primera Instancia, en lo aplicable.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JUNIO DE 2004)</small>
 
 #### SECCIÓN SEGUNDA. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS SALAS COLEGIADAS
 
@@ -551,35 +563,43 @@ V. Los Jueces de lo Penal;
 
 VI. Los Jueces de Preparación de lo Penal;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VII. Los Jueces del Juicio Oral Penal;
+VII. Los Jueces de Control;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-VIII. Los Jueces de Garantías de Adolescentes Infractores;
+VIII. Los Jueces de Juicio Oral Penal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IX. Los Jueces de Juicio de adolescentes Infractores;
+IX. Los Jueces de Ejecución de Sanciones Penales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-X. Loa Jueces de Ejecución de Medidas Sancionatorias de Adolescentes Infractores;
+X. Los Jueces de Garantías de Adolescentes Infractores;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XI. Los Jueces de Jurisdicción Concurrente;
+XI. Los Jueces de Juicio de Adolescentes Infractores;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XII. Los Jueces Mixtos que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+XII. Los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
 
-> <small>(REFORMADA (N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-XIII. Jueces Supernumerarios.
+XIII. Los Jueces de Jurisdicción Concurrente;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XIV. Los Jueces de Jurisdicción Mixta que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XV. Los Jueces Supernumerarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 32.
 
@@ -589,7 +609,7 @@ Los Jueces de Primera Instancia confirmados serán inamovibles durante el perío
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 33.
+###### ARTÍCULO 33.
 
 De acuerdo con el presupuesto de egresos aprobado al Poder Judicial, en los Distritos Judiciales habrá el número de Juzgados que el Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, estime necesarios para que la impartición de justicia sea expedita, pudiendo ser especializados en una materia o mixtos. Cuando en un Distrito Judicial existan dos o más juzgados de la misma materia, estarán numerados progresivamente.
 
@@ -639,7 +659,7 @@ V. De las diligencias preliminares de consignación cuando el valor de la cosa o
 
 VI. De los Interdictos;
 
-VII. (DEROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY DEL NOTARIADO, P.O. 13 DE OCTUBRE DE 2000)
+VII. (DEROGADA POR EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DEL NOTARIADO, P.O. 13 DE OCTUBRE DE 2000)
 
 VIII. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
 
@@ -707,71 +727,125 @@ VI. Dictar sentencia en el procedimiento abreviado; y
 
 VII. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36 Bis 1.
 
-Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León.
+Corresponde a los Jueces de Control:
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
+I. Atender al Ministerio Público, en términos de ley, en la investigación de los delitos;
+
+II. Resolver, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, órdenes de protección precautorias de emergencia y preventivas, así como las técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las victimas u ofendidos;
+
+III. Ejercer el control de detención de imputados puestos a su disposición;
+
+IV. Ordenar la aprehensión o presentación del imputado cuando proceda denuncia acusación o querella de un hecho que la Ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión;
+
+V. Presidir la audiencia de formulación de la imputación;
+
+VI. Resolver la situación jurídica del imputado decretando o no el auto de vinculación a proceso;
+
+VII. Dictar sentencia en el procedimiento abreviado;
+
+VIII. Sancionar los acuerdos reparatorios del daño o perjuicio;
+
+IX. Resolver sobre la suspensión del procedimiento a prueba y en su caso la revocación del mismo, cuando el inculpado incumpla con sus obligaciones;
+
+X. Resolver sobre la admisión o exclusión de pruebas;
+
+XI. Supervisar la ejecución de las obligaciones del imputado en la suspensión del procedimiento a prueba;
+
+XII. Modificar el tipo o la duración de obligaciones del imputado en la suspensión del procedimiento a prueba;
+
+XIII. Resolver sobre el desahogo de la prueba anticipada;
+
+XIV. Resolver las impugnaciones que haga la víctima u ofendido sobre las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensiones del procedimiento, cuando no este satisfecha la reparación del daño;
+
+XV. Resolver sobre la impugnación de los criterios de oportunidad, y
+
+XVI. Ejercer las demás atribuciones que esta Ley o las demás le otorguen.
+
+Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes, en relación con las solicitudes de, medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36 Bis 2.
 
-Los Jueces de Jurisdicción Concurrente conocerán:
+Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León.
 
-(REFORMADA, P.O. 12 DE ABRIL DE 2006) (F. DE E., P.O. 16 DE JUNIO DE 2006)
+El Consejo de la Judicatura del Estado, mediante acuerdos generales determinará los Jueces de Juicio Oral, que funcionarán en el sistema acusatorio y que conocerán del Juicio Oral Penal en los casos que establezca el Código Procesal Penal para el Estado de Nuevo León.
 
-I. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares y que deriven de actos de comercio, sujetos a las leyes mercantiles que no sean competencia de los Juzgados Menores:
-
-II. (DEROGADA, P.O. 12 DE ABRIL DE 2006)
-
-III. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
-
-IV. De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36 Bis 3.
 
-Corresponde a los Jueces de Garantías de Adolescentes Infractores, en los términos de la Ley de la materia:
+Corresponde a los Jueces de Ejecución de Sanciones Penales:
 
-I.- Aprobar los acuerdos reparatorios del daño o perjuicio;
+l. Supervisar que la ejecución de toda pena se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asistan al reo durante la ejecución de la misma;
 
-II.- Resolver sobre la suspensión del proceso a prueba;
+II. Modificar el tipo o la duración de la sanción penal impuesta en la sentencia definitiva;
 
-III.- Resolver sobre el otorgamiento de medidas cautelares;
+III. Ordenar la cesación de la pena una vez transcurrido el plazo fijado por la sentencia;
 
-IV.- Recabar la declaración preparatoria del adolescente a quien se le impute la comisión de un delito;
+IV. Atender las quejas que formulen los condenados por sentencia firme sobre actos de la autoridad administrativa que vulneren sus derechos fundamentales;
 
-V.- Resolver sobre la vinculación a proceso del adolescente a quien se le impute la comisión de un delito;
+V. Visitar los centros de reinserción social, con el fin de cumplir eficazmente con sus atribuciones, y
 
-VI.- Resolver sobre la admisión de las pruebas que se desahogarán en la audiencia del juicio; y
+VI. Las demás atribuciones que ésta y otras leyes le asignen.
 
-VII.- Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36 Bis 4.
 
-Corresponde a los Jueces de Juicio de Adolescentes Infractores conocer del juicio acusatorio conforme a los lineamientos que establezca la ley de la materia.
+Corresponde a los Jueces de Garantías de Adolescentes Infractores, en los términos de la Ley de la materia:
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+I. Aprobar los acuerdos reparatorios del daño o perjuicio;
+
+II. Resolver sobre la suspensión del proceso a prueba;
+
+III. Resolver sobre el otorgamiento de medidas cautelares:
+
+IV. Recabar la declaración preparatoria del adolescente a quien se le impute la comisión de un delito;
+
+V. Resolver sobre la vinculación a proceso del adolescente a quien se le impute la comisión de un delito;
+
+VI. Resolver sobre la admisión de las pruebas que se desahogarán en la audiencia del juicio; y
+
+VII. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 36 Bis 5.
 
-Corresponde a los Jueces (sic) Ejecución de Medidas Sancionadoras de Adolescentes Infractores:
+Corresponde a los Jueces de Juicio de Adolescentes Infractores conocer del juicio acusatorio conforme a los lineamientos que establezca la ley de la materia.
 
-I.- Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la misma;
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-II.- Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas sancionadoras;
+###### ARTÍCULO 36 Bis 6.
 
-III.- Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+Corresponde a los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores:
 
-IV.- Atender las solicitudes que hagan los adolescentes sancionados y determinar lo que corresponda;
+I. Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la misma;
 
-V.- Visitar los centros de cumplimiento de las medidas sancionadoras del adolescente, por lo menos dos veces al mes; y
+II. Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas sancionadoras;
 
-VI.- Las demás atribuciones que ésta y otras leyes le asignen.
+III. Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+
+IV. Atender las solicitudes que hagan los adolescentes sancionados y determinar lo que corresponda;
+
+V. Visitar los centros de cumplimiento de las medidas sancionadoras del adolescente, por lo menos dos veces al mes; y
+
+VI. Las demás atribuciones que ésta y otras leyes le asignen.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 36 BIS 7.- Los Jueces de Jurisdicción Concurrente conocerán:
+
+l. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares y que deriven de actos de comercio, sujetos a las leyes mercantiles que no sean competencia de los Juzgados Menores;
+
+II. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
+
+III. De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -781,11 +855,11 @@ Para el efecto de agilizar y mejorar la impartición de justicia, el Consejo de 
 
 Los Juzgados Supernumerarios conocerán los negocios y casos correspondientes según su materia que constituyan rezago. Agotado éste o en vías de extinguirse, el Consejo de la Judicatura, queda facultado, a propuesta del Tribunal Superior de Justicia, para asignarlo como Juzgado Permanente con el número que corresponda o bien acordar su desaparición.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
-Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de lo Civil, Familiar, Penal, del Juicio Oral Penal, de Preparación de lo Penal y de Jurisdicción Concurrente, así como los demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
+Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de los (sic) Civil, Familiar, Penal; de Preparación de lo Penal, de Control y de Jurisdicción Concurrente, así como las demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
 
 ###### ARTÍCULO 39.
 
@@ -821,7 +895,7 @@ Para ser Secretario de Juzgado de Primera Instancia se necesitan los mismos requ
 
 El Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de acuerdo con las instrucciones y determinaciones del Juez, a quien sustituirá en sus faltas temporales en los términos de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 44.
 
@@ -883,11 +957,11 @@ XXI. Realizar las tareas que el Juez les asigne; y
 
 XXII. Las demás que les confieran las leyes y los reglamentos del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 45.
 
-Los Secretarios de los Juzgados de lo Penal, de Preparación de lo Penal, del Juicio Oral Penal, de Garantías de Adolescentes Infractores, de Juicio de Adolescentes Infractores y de Ejecución de Medidas Sancionadoras de Adolescentes Infractores tendrán, además de las atribuciones a las que se refiere el artículo anterior, siempre que sean aplicables a la materia penal, las siguientes:
+Los Secretarios de los Juzgados de lo Penal, de Preparación de lo Penal, de Juicio Oral, de Garantías de Adolescentes Infractores, de Juicio de Adolescentes Infractores y de Ejecución de Medidas Sancionadoras de Adolescentes Infractores tendrán, además de las aplicables a las que se refiere el artículo anterior, siempre que sean aplicables a la materia penal, las siguientes:
 
 I. Distribuir entre el personal que corresponda las consignaciones que se hagan por parte del Ministerio Público;
 
@@ -896,6 +970,10 @@ II. Asentar en los procesos las certificaciones de los trámites judiciales y la
 III. Hacer las notificaciones, practicar los aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la ley, o por determinación judicial; y,
 
 IV. Las demás que la ley o los otros ordenamientos jurídicos les otorguen.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Los asistentes jurídicos de los Juzgados de Control, Juicio Oral del sistema acusatorio y Ejecución de Sanciones Penales tendrán las facultades que determine el Consejo de la Judicatura mediante acuerdos generales.
 
 ###### ARTÍCULO 46.
 
@@ -949,6 +1027,94 @@ V. La fecha de la devolución del expediente.
 
 Los Magistrados y los Jueces inspeccionarán personalmente, una vez al mes por lo menos, el libro a que se refiere el artículo anterior y si notaren alguna deficiencia deberán hacerlo del conocimiento del Consejo de la Judicatura para los efectos a que hubiere lugar, independientemente de la revisión que el Consejo pudiera hacer en términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis.
+
+Los Juzgados de Juicio Oral Penal Colegiados estarán a cargo de los asuntos que en materia penal establezcan las leyes. Serán integrados por tres jueces de Juicio Oral Penal de Primera Instancia, quienes serán designados anualmente por el pleno del Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, atendiendo el procedimiento siguiente:
+
+I. El Pleno del Consejo de la Judicatura mediante sorteo hará la selección de entre toda la plantilla de jueces de juicio oral penal de primera instancia, con independencia de la adscripción que tengan; y
+
+II. Posteriormente resolverá lo referente a la competencia territorial que tendrán para efectos de la integración del juzgado colegiado.
+
+La función de los jueces que integren los Juzgados de Juicio Oral Penal Colegiados se realizará sin menoscabo de las funciones que les correspondan al frente del juzgado de primera instancia al que estén adscritos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis 1.
+
+Cuando los Juzgados de Juicio Oral Penal se constituyan para actuar en forma colegiada funcionarán en Pleno y contarán con un presidente quien presidirá las sesiones, dirigirá el debate y conservará el orden; la sentencia será siempre redactada por uno de los miembros del Tribunal colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del disidente. Las resoluciones de los Tribunales Colegiados se tomarán por unanimidad o por mayoría de votos. En el caso de que un Juez no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular, expresando sucintamente su opinión.
+
+El Presidente de estos Juzgados durará en dicho cargo un año y no podrá ser reelecto para el periodo inmediato posterior. Los asuntos que se encuentre (sic) sin concluir, al fenecer dicho término se turnarán al siguiente, quien continuará con su tramitación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis 2.
+
+Las sesiones de los Juzgados de Juicio Oral Penal Colegiados se realizarán en los días y horas que estos establezcan mediante acuerdos generales publicados en sus estrados con al menos veinticuatro horas de anticipación.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis 3.
+
+Serán atribuciones del Pleno de los Juzgados de Juicio Oral Penal Colegiados:
+
+I. Elegir de entre sus miembros a su Presidente;
+
+II. Expedir los acuerdos necesarios para el mejor ejercicio de sus funciones;
+
+III. Dictar las sentencias que correspondan dentro de los asuntos que sean de su competencia; y
+
+IV. Las demás que se desprendan de las disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis 4.
+
+Serán atribuciones del Presidente de los Juzgados de Juicio Oral Penal Colegiados:
+
+l. Representar al Juzgado;
+
+II. Presidir las sesiones del Pleno del Juzgado, dirigir los debates y conservar el orden;
+
+III. Turnar a los Jueces los asuntos que sean competencia del Juzgado, mediante acuerdo reservado, para que formulen los proyectos de resolución;
+
+IV. Vigilar el cumplimiento de las determinaciones del Juzgado;
+
+V. Dictar los acuerdos de trámite;
+
+VI. Acordar la correspondencia del Juzgado;
+
+VII. Rendir la información de actividades del Juzgado;
+
+VIII. Proponer al Pleno del Juzgado la designación del personal que les sea común, observando las disposiciones del Titulo Séptimo de la presente Ley; y
+
+IX. Las demás que se desprendan de las disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### ARTÍCULO 48 Bis 5.
+
+Los Jueces de los Juzgados de Juicio Oral Penal Colegiados tendrán atribuciones para:
+
+I. Concurrir, participar y votar en las sesiones y reuniones a las que sean convocados por el Presidente del Juzgado;
+
+II. Designar al personal de su ponencia observando las disposiciones del Titulo Séptimo de la presente Ley;
+
+III. Integrar los Juzgados, para resolver colegiadamente los asuntos de su competencia;
+
+IV. Formular bajo reserva los proyectos de sentencia que recaigan a los expedientes que les sean turnados para tal efecto;
+
+V. Exponer en sesión reservada, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+VI. Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones reservadas;
+
+VII. Realizar los engroses de los fallos aprobados por el Juzgado, cuando en forma reservada sean designados para tales efectos;
+
+VIII. Dar a conocer la sentencia en sesión pública y previa convocatoria a las partes; y
+
+IX. Las demás que se desprendan de las disposiciones de carácter general.
+
 ### CAPÍTULO SEGUNDO. DE LOS JUZGADOS MENORES
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
@@ -957,7 +1123,7 @@ Los Magistrados y los Jueces inspeccionarán personalmente, una vez al mes por l
 
 En cada distrito, en su cabecera o donde lo determine el Pleno del Consejo de la Judicatura, podrá haber uno o más Juzgados Menores, los que ejercerán sus funciones en todo el territorio distrital o de los municipios que acuerde dicho Pleno, considerando las opiniones que al efecto emita el Tribunal Superior de Justicia. Estos juzgados podrán ser especializados o mixtos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 50.
 
@@ -985,13 +1151,13 @@ V. De los demás asuntos que les encomienden las leyes.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 52.
+###### ARTÍCULO 52.
 
 Son aplicables para los juzgados menores lo dispuesto en los artículos del 39 al 44 y del 46 al 48 de esta Ley, en lo conducente.
 
 ### CAPÍTULO TERCERO. DE LAS OFICIALÍAS DE PARTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 53.
 
@@ -1011,7 +1177,7 @@ En aquellos distritos en los que haya mas de dos juzgados en la materia penal, h
 
 Para los efectos anteriores la Oficialía estará dotada de un reloj marcador, equipo de cómputo y de los libros de registro correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 56.
 
@@ -1195,7 +1361,7 @@ El Pleno se integrará con los tres Consejeros, pero bastará la presencia del P
 
 El Pleno del Consejo de la Judicatura sesionará, por convocatoria de su Presidente, en forma ordinaria el segundo día hábil de cada semana y extraordinariamente cuando los asuntos a tratar así lo requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1225,7 +1391,7 @@ Los asuntos tratados en el Pleno o en las Comisiones constarán en actas, las qu
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 91.
+###### ARTÍCULO 91.
 
 Corresponde al Pleno del Consejo de la Judicatura del Estado:
 
@@ -1407,7 +1573,7 @@ La designación de los visitadores se hará por el propio Consejo mediante concu
 
 El Consejo de la Judicatura establecerá los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 107.
 
@@ -1423,7 +1589,7 @@ En las visitas se revisará el periodo que determine el Consejo de la Judicatura
 
 El Consejo procurará que los visitadores no inspeccionen y supervisen a los mismos órganos judiciales en forma consecutiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 109.
 
@@ -1431,7 +1597,7 @@ Los visitadores informarán con diez días hábiles de anticipación al titular 
 
 El aviso hará mención de los días y horas en que se podrán manifestar las quejas y denuncias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 110.
 
@@ -1455,7 +1621,7 @@ VI. Examinarán los expedientes formados con motivo de las causas penales, de ad
 
 VII. Recomendar en caso de advertir que en un proceso se venció el término para dictar sentencia, que ésta se pronuncie a la brevedad, haciéndose constar en el expediente revisado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 111.
 
@@ -1525,13 +1691,13 @@ Los Consejeros no podrán abstenerse de votar sino cuando tuvieren impedimento l
 
 Las faltas temporales y absolutas de los Magistrados, Jueces de Primera Instancia y Jueces Menores se cubrirán de la siguiente manera:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 I. Las faltas temporales del Presidente del Tribunal Superior de Justicia se cubrirán por el Magistrado de la Primera Sala, y ante la ausencia o imposibilidad de éste, por el de la siguiente Sala en orden numérico y así sucesivamente.
 
 Cuando la falta sea absoluta se procederá en los términos del artículo 22 de esta ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 II. Las de los Magistrados de las Salas Unitarias, del Tribunal Superior de Justicia, cuando la ausencia no pase de quince días y se trate del despacho de asuntos urgentes, serán cubiertas por el Magistrado que designe el Pleno, tomando en todo caso las medidas adecuadas para salvaguardar la especialización requerida en materia de asuntos de adolescentes infractores. Cuando la ausencia exceda de quince días se designará por el Tribunal en Pleno un Magistrado interino que la cubra, quien deberá cumplir los requisitos para desempeñar este encargo.
 
@@ -1631,7 +1797,7 @@ En los juzgados penales los períodos de vacaciones se disfrutarán en forma esc
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DEL 2000)</small>
 
-###### ARTICULO 125.
+###### ARTÍCULO 125.
 
 El ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento de los servidores públicos del Poder Judicial del Estado, se dará en el contexto del Sistema de Carrera Judicial que establece el presente Título y las disposiciones aplicables, mismo que se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
@@ -1665,7 +1831,7 @@ El ingreso y promoción para las categorías de Juez de Primera Instancia ya sea
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 129.
+###### ARTÍCULO 129.
 
 El ingreso y permanencia en las categorías señaladas en las fracciones III a VII del artículo 126, se sujetará a lo siguiente:
 
@@ -1771,7 +1937,7 @@ El órgano de Administración y Tesorería del Consejo de la Judicatura, ejercer
 
 Los órganos referidos en el artículo anterior podrán contar con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones y que permita el presupuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 136.
 
@@ -1853,7 +2019,7 @@ La extracción de expedientes o documentos del Archivo Judicial, sólo podrá re
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 142.
+###### ARTÍCULO 142.
 
 El examen de libros, documentos o expedientes del Archivo Judicial solo podrá hacerse dentro de la oficina y en presencia de personal de la misma, por los interesados o sus procuradores, o por cualquier abogado debidamente acreditado, previo oficio del titular del órgano jurisdiccional que los remitió, el que deberá entregarse para su debido registro en el Archivo.
 
@@ -1871,7 +2037,7 @@ El reglamento fijará las atribuciones de los servidores públicos adscritos al 
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 145.
+###### ARTÍCULO 145.
 
 Se publicará diariamente en los días hábiles un instrumento de comunicación oficial denominado Boletín Judicial, en el que se publicarán los acuerdos y resoluciones del día, edictos y avisos de los Juzgados de Primera Instancia, Juzgados Menores y de las Salas del Tribunal Superior de Justicia. Este boletín estará a disposición de los interesados previo el pago correspondiente.
 
@@ -1899,7 +2065,7 @@ El Consejo de la Judicatura designará al titular de la Revista Jurídica.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 150.
+###### ARTÍCULO 150.
 
 La revista estará a disposición de los interesados previo el pago correspondiente y para su consulta habrá suficientes ejemplares en la Biblioteca del Poder Judicial.
 
@@ -1907,7 +2073,7 @@ La revista estará a disposición de los interesados previo el pago correspondie
 
 El Consejo de la Judicatura mediante reglamento o acuerdos generales proveerá lo no establecido en la presente ley en todo lo concerniente a la Revista Jurídica y establecerá todas aquellas disposiciones para la adecuada distribución y difusión de la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JUNIO DE 2004)</small>
 
 ## TÍTULO DÉCIMO PRIMERO. DEL CENTRO ESTATAL DE MÉTODOS ALTERNOS PARA LA SOLUCIÓN DE
 
@@ -1915,7 +2081,7 @@ CONFLICTOS
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 152.
+###### ARTÍCULO 152.
 
 El Consejo de la Judicatura contará con un Centro Estatal de Métodos Alternos para la Solución de Conflictos, responsable de la prestación de este servicio en el Poder Judicial del Estado, conforme a lo dispuesto en esta Ley y en la ley de la materia.
 
@@ -1923,7 +2089,7 @@ La organización y funcionamiento del Centro Estatal se regirá por esta Ley y d
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 153.
+###### ARTÍCULO 153.
 
 El Centro Estatal de Métodos Alternos para la Solución de Conflictos tendrá las siguientes atribuciones:
 
@@ -1943,7 +2109,7 @@ VII. Las demás previstas en los ordenamientos legales aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 154.
+###### ARTÍCULO 154.
 
 El Centro Estatal tendrá como titular a un Director y contará con el personal que determine el Consejo de la Judicatura, de conformidad con las disposiciones presupuestarias.
 
@@ -1951,7 +2117,7 @@ El Director será designado por el Pleno del Consejo de la Judicatura, y deberá
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 155.
+###### ARTÍCULO 155.
 
 Son facultades y obligaciones del Director del Centro Estatal:
 
@@ -2065,7 +2231,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE LUIS COINDREAU GARCIA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE JUNIO DE 2000.
 
@@ -2073,7 +2239,7 @@ P.O. 26 DE JUNIO DE 2000.
 
 P.O. 13 DE OCTUBRE DE 2000
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2122,3 +2288,7 @@ P.O. 19 DE MAYO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Consejo de la Judicatura del Estado deberá remitir dentro de los 30-treinta días naturales contados a partir de la publicación del presente Decreto a la Secretaría de Finanzas y Tesorería General del Estado el presupuesto para la instalación y funcionamiento del Centro Estatal de Convivencia Familiar, a efecto de que ésta determine la factibilidad de reasignación presupuestal dentro del presente ejercicio fiscal.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
