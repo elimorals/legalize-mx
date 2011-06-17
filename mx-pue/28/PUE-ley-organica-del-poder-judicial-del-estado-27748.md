@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2011-02-04"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -343,6 +343,22 @@ Las cabeceras de los Distritos Judiciales a que se refiere el artículo que ante
 
 Las Salas del Tribunal y los Juzgados del Distrito Judicial de Puebla, por acuerdo de Pleno, podrán ubicarse, por razón del servicio, en los Municipios aledaños a la Capital, en el área conurbada o zona metropolitana.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 10 BIS.- Los distritos judiciales se agruparán, a su vez, en las siguientes regiones judiciales:
+
+I.- Sur: comprendiendo los Distritos Judiciales de Acatlán, Chiautla y Matamoros, con sede en este último;
+
+II.- Norte: comprendiendo los Distritos Judiciales de Xicotepec de Juárez, Zacatlán, Alatriste y Huauchinango, con sede en este último;
+
+III.- Oriente: comprendiendo los Distritos Judiciales de Teziutlán, Taltlauquitepec, Zacapoaxtla, San Juan de los Llanos, Tetela y Chalchicomula, con sede en el primero;
+
+IV.- Sur-Oriente: comprendiendo los Distritos Judiciales de Tehuacán, Tecamachalco y Tepexi, con sede en el primero;
+
+V.- Centro-Poniente: comprendiendo los Distritos Judiciales de Huejotzingo, Cholula y Atlixco, con sede en el segundo de ellos; y
+
+VI.- Centro: comprendiendo los Distritos Judiciales de Tepeaca, Tecali y Puebla, con sede en este último.
+
 ## TÍTULO SEGUNDO. DEL TRIBUNAL SUPERIOR DE JUSTICIA Y SU FUNCIONAMIENTO
 
 ### CAPÍTULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
@@ -399,7 +415,9 @@ II.- Nombrar y remover, a propuesta del Presidente, a los Servidores del Tribuna
 
 III.- Decretar la creación de Juzgados en los lugares que, a su juicio, así lo requieran para la buena Administración de Justicia, dando preferencia en estas acciones a las regiones de población indígena mayoritaria;
 
-IV.- Crear el número necesario de Salas para el buen funcionamiento de la Administración de Justicia, determinando su especialización y asignando su adscripción territorial y su composición;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV.- Crear el número necesario de Salas y Juzgados para el buen funcionamiento de la Administración de Justicia, determinando su especialización y asignando su adscripción territorial, el lugar de residencia, integración, y en su caso, el sistema de suplencias;
 
 V.- Separar de su cargo a Jueces, Subalternos y demás Personal del Poder Judicial del Estado, en los casos en que esta Ley lo determine, o por malos servicios o por conducta irregular;
 
@@ -713,15 +731,33 @@ I.- Los Juzgados de lo Civil;
 
 II.- Los Juzgados de lo Familiar;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-III.- Los Juzgados de lo Penal y Especializados en Adolescentes;
+III.- En materia penal, los Juzgados de Control, de Juicio Oral, y de Ejecución de Sanciones;
 
-IV.- Los Juzgados Municipales de lo Civil y de lo Penal;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-V.- Los Juzgados de Paz; y
+IV.- Especializados en Justicia para Adolescentes;
 
-VI.- Los Jueces Supernumerarios.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V.- Los Juzgados de Exhortos;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI.- Los Juzgados de Extinción de Dominio;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VII.- Los Juzgados Municipales;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VIII.- Los Juzgados de Paz Civiles; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IX.- Los Jueces Supernumerarios e Itinerantes.
 
 ### CAPÍTULO II. DE LOS JUZGADOS DE LO CIVIL Y DE LO FAMILIAR
 
@@ -805,77 +841,67 @@ III.- Imponer las correcciones disciplinarias previstas por la fracción XII del
 
 IV.- Las demás que les confieran las leyes.
 
-### CAPÍTULO III. DE LOS JUZGADOS PENALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO III. DE LOS JUZGADORES EN MATERIA PENAL
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 42.
 
-Habrá en la Capital del Estado, por lo menos, nueve Juzgados Penales. Tratándose de Juzgados Especializados en Adolescentes, habrá un Juzgado que tendrá jurisdicción en todo el Estado de Puebla; el Pleno del Honorable Tribunal Superior de Justicia determinará el lugar de su residencia, así como la creación de Juzgados Especializados en Adolescentes.
+Los Tribunales de Juicio Oral ejercerán competencia territorial en cada una de las regiones judiciales señaladas en el artículo 10 Bis de esta Ley; los Jueces de Control y de Ejecución de Sanciones, ejercerán jurisdicción en cada uno de los distritos judiciales que conforman el territorio del Estado; los Jueces Itinerantes tendrán la competencia territorial que se señale en el acuerdo que dicte el Tribunal Pleno, en términos del artículo 70 segundo párrafo.
 
-En los demás Distritos Judiciales, los Jueces de lo Civil ejercerán las funciones que correspondan a los Jueces de lo Penal, dentro del territorio de su respectiva jurisdicción, sin perjuicio de que el Tribunal Pleno, de acuerdo con sus facultades, determine la creación de otros Juzgados Penales, ya sea en la Capital o en los otros Distritos Judiciales.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 43.
 
-Compete a los Juzgados Penales:
+Las atribuciones que corresponden a los Jueces de Control, al Tribunal de Juicio Oral, y de Ejecución de Sanciones son las previstas en el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, en la Ley en materia de ejecución de sanciones correspondiente, así como en las demás disposiciones aplicables.
 
-I.- Procesar, por delitos comunes o por delitos oficiales, que no sean de la competencia de otras Autoridades;
+ARTÍCULO 43 BIS.- (DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
-II.- Conocer de los juicios de amparo que se promuevan contra actos de los Jueces Municipales Penales del mismo Distrito Judicial, conforme al artículo 107, fracción XII, párrafo segundo, de la Constitución General de la República, en los términos que establezcan las leyes federales respectivas, con excepción de los casos en que éstos actúen como Jueces Penales;
-
-III.- Calificar, si media oposición, las inhibiciones por excusa o recusación de sus subalternos o de los Jueces Municipales Penales de su mismo Distrito Judicial, excepción hecha de los casos en que actúen éstos como Jueces Penales;
-
-IV.- Resolver los conflictos de competencia que se susciten entre los Jueces Municipales Penales de su propio Distrito Judicial; y
-
-V.- Conocer de los asuntos penales en los que el Tribunal Superior de Justicia les haya prorrogado jurisdicción.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
-ARTÍCULO 43 BIS.- Compete a los Juzgados Especializados en Adolescentes:
-
-I.- Conocer las causas instauradas en contra de las personas a las que se refiere la ley de la materia;
-
-II.- Velar porque a los adolescentes se les respeten los derechos fundamentales consagrados en las Constituciones Federal y Estatal, y así como en los Tratados Internacionales ratificados por los Estados Unidos Mexicanos;
-
-III.- Dictar, cuando corresponda, en los plazos y términos previstos por la ley de la materia, la sujeción a proceso y las medidas cautelares que solicite el Ministerio Público Especializado, en su caso;
-
-IV.- Ejercer la custodia del adolescente detenido, y asegurarse de que no sea incomunicado, coaccionado, intimidado, torturado o sometido a tratos crueles, inhumanos o degradantes, así como los demás que apliquen en su situación;
-
-V.- Fijar a las partes el plazo para la precisión de los medios de prueba que ofrecerán en el juicio;
-
-VI.- Aprobar los acuerdos reparatorios entre el adolescente probable responsable y la víctima y ofendido, así como declarar la extinción de la acción persecutoria o la reanudación del proceso por incumplimiento cuando procediere;
-
-VII.- Procurar las formas alternativas de justicia, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
-
-VIII.- Presidir las audiencias del procedimiento, y dictar los autos y resoluciones respecto de los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en el Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
-
-IX.- Declarar la responsabilidad o inocencia del adolescente sometido a juicio;
-
-X.- Imponer las medidas sancionadoras, atendiendo a los principios de responsabilidad limitada, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes; y
-
-XI.- Las demás que le confieran las leyes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 44.
 
-Los Jueces Penales y Especializados en Adolescentes, tendrán las mismas facultades que los Jueces de lo Civil y de lo Familiar a que se refiere el artículo 41 de esta Ley.
+Los Jueces Penales tendrán las mismas facultades que los Jueces de lo Civil y de lo Familiar a que se refiere el artículo 41 de esta Ley, serán nombrados en la forma que señala el artículo 37 y suplidos conforme lo determine el Tribunal Pleno en el acuerdo correspondiente.
 
-Asimismo, los Juzgados Penales contarán con personal igual al que se menciona en el artículo 36 de la presente Ley.
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO IV. DE LOS JUECES ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES
 
-### CAPÍTULO IV. DE LOS JUZGADOS MUNICIPALES
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 45.
 
-Los Jueces Penales y Especializados en Adolescentes, serán nombrados y suplidos en las formas que señalan los artículos 37 y 38 de la presente Ley.
+Los Jueces Especializados en Justicia para Adolescentes ejercerán jurisdicción y competencia territorial sobre todo el Estado, y serán de Instrucción y de Ejecución de Sanciones. Sus atribuciones serán las establecidas por el Código de Justicia para Adolescentes del Estado, y demás leyes y reglamentos aplicables.
 
-### CAPÍTULO V. DE LOS JUZGADOS DE PAZ
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO VI. DE LOS JUECES SUPERNUMERARIOS
+ARTÍCULO 45 BIS.- Los Jueces Especializados en Justicia para Adolescentes, tendrán las mismas facultades que los Jueces de lo Civil y de lo Familiar a que se refiere el artículo 41 de esta Ley, serán nombrados en la forma que señala el artículo 37 y suplidos conforme lo determine el Tribunal Pleno en el acuerdo correspondiente.
 
-### CAPÍTULO I. DE LOS SECRETARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO V. DE LOS JUECES DE EXHORTOS
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 45 TER.- El Pleno del Tribunal Superior de Justicia del Estado nombrará Jueces de Exhortos en las materias que se requiera acorde a las necesidades del servicio, cuya competencia será tanta como la necesaria para actuar en auxilio de la autoridad exhortante, regulando sus funciones, atribuciones e integración de la oficina correspondiente mediante la expedición del acuerdo plenario que al efecto se dicte.
+
+La competencia territorial del Juez de Exhortos podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Tribunal Pleno.
+
+En los distritos judiciales en los que no se haya designado Juez de Exhorto, el despacho de las citadas comunicaciones oficiales seguirá a cargo de los Jueces Civil, Familiar, Penal, incluyendo a los Jueces de Control y de Ejecución de Sanciones, Especializados en Justicia para Adolescentes, o de Extinción de Dominio que por materia corresponda, en términos de las leyes aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VI. DE LOS JUZGADOS DE EXTINCIÓN DE DOMINIO
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 45 QUATER.- Los Juzgados de Extinción de Dominio tienen las facultades que la ley de la materia estatal les confiera; su número, estructura, funcionamiento y competencia territorial se determinará por el acuerdo del Tribunal Pleno correspondiente.
+
+> <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTICULOS DEL 46 AL 59], P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VII. DE LOS JUZGADOS MUNICIPALES
 
 ###### ARTÍCULO 46.
 
@@ -927,9 +953,7 @@ VIII.- De la Rectificación de las Actas del Estado Civil de la (sic) Personas;
 
 IX.- De los actos preparatorios de juicio, cuando la cuantía del negocio principal que haya de promoverse, no exceda los límites de su competencia;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2005)</small>
-
-X.- De los delitos que sólo estén sancionados con multa; y de aquéllos cuya sanción máxima de prisión no exceda de cinco años; excepto los comprendidos en el Libro Segundo, Capítulo Primero, Sección Segunda, y en el Libro Segundo, Capítulo Decimonoveno, Secciones Primera y Tercera, del Código de Defensa Social para el Estado Libre y Soberano de Puebla; y
+X.- (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
 XI.- De los demás asuntos que les encomienden las leyes.
 
@@ -951,9 +975,7 @@ Los Jueces, Secretarios y Diligenciarios deberán ser Abogados y tener anteceden
 
 ###### ARTÍCULO 56.
 
-Los Juzgados Municipales de lo Civil conocerán de los asuntos a que se refieren las fracciones de la I a la IX del artículo 52 de esta Ley, y los de lo Penal, de los contenidos en la fracción X del dispositivo antes citado.
-
-En aquellos Municipios donde sólo exista un Juzgado Municipal, éste tendrá competencia para conocer de los asuntos civiles y penales a que se refiere el artículo 52 de la presente Ley.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### ARTÍCULO 57.
 
@@ -965,15 +987,19 @@ II.- En los casos de inhibición, por excusa o recusación de un Juez Municipal,
 
 III.- En los casos de inhibición, por excusa o recusación de un Juez Municipal del Distrito Judicial de Puebla, el asunto pasará al que le siga en número.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 58.
 
-En las cabeceras de los Municipios donde no existan Juzgados de lo Civil o de lo Penal, los Jueces Municipales tendrán facultad para practicar diligencias urgentes y para decretar y ejecutar providencias precautorias, de su competencia, siempre que el no hacerlo cause perjuicios graves a los interesados.
+En las cabeceras de los Municipios donde no existan Juzgados de lo Civil o Jueces de Control, los Jueces Municipales tendrán facultad para practicar diligencias urgentes y para decretar y ejecutar medidas cautelares, de su competencia, siempre que el no hacerlo cause perjuicios graves a los interesados.
 
 ###### ARTÍCULO 59.
 
 La instalación y el funcionamiento de los Juzgados Municipales será a cargo del presupuesto del Municipio respectivo, mediante convenio que deberá suscribir el Presidente del Tribunal Superior de Justicia, en representación del Pleno, con el Ayuntamiento correspondiente.
 
-### CAPÍTULO II. DE LOS OFICIALES MAYORES Y DE SUS AUXILIARES
+> <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTICULOS DEL 60 AL 68], P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VIII. DE LOS JUZGADOS DE PAZ
 
 ###### ARTÍCULO 60.
 
@@ -1025,15 +1051,21 @@ Los Jueces de Paz, para hacer cumplir sus determinaciones, podrán imponer como 
 
 En los casos de inhibición, por excusa o recusación, el asunto será enviado a otro Juez de la misma jurisdicción, en el orden en que corresponda, si hubiere dos o más; y si hubiere sólo uno, al del lugar más cercano.
 
-### CAPÍTULO III. DE LOS DILIGENCIARIOS
+> <small>(ADICIONADO [N. DE E. COMPRENE LOS ARTICULOS DEL 69 AL 71], P.O. 17 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO IX. DE LOS JUECES SUPERNUMERARIOS E ITINERANTES
 
 ###### ARTÍCULO 69.
 
 El Pleno del Tribunal Superior de Justicia podrá designar Jueces con el carácter de Supernumerarios.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 70.
 
-Los Jueces Supernumerarios intervendrán en apoyo de los tribunales que muestren rezago por cargas excesivas de trabajo; se desempeñarán tanto con el carácter de Jueces de Instrucción como de Sentencia; durarán en cada encomienda concreta el tiempo que determine el Tribunal Pleno; cumplirán los mismos requisitos, y contarán con los mismos derechos y facultades que los Jueces de lo Civil, de lo Familiar o de lo Penal, en su caso.
+Los Jueces Supernumerarios intervendrán en apoyo de los tribunales que muestren rezago por cargas excesivas de trabajo, se desempeñarán tanto con el carácter de Jueces de Instrucción como de Sentencia, durarán en el ejercicio de su encargo el período que determine el Tribunal Pleno, cumplirán los mismos requisitos y contarán con los mismos derechos y facultades que los Jueces de lo Civil, de lo Familiar o Especializados en Justicia para Adolescentes, en su caso.
+
+En materia penal, por acuerdo que emita en términos del artículo 17 en la fracción IV de esta Ley, el Tribunal Pleno establecerá Juzgados de Control y de Ejecución de Sanciones Itinerantes. Su competencia e integración serán determinadas en el propio acuerdo.
 
 ###### ARTÍCULO 71.
 
@@ -1041,13 +1073,13 @@ Los Jueces Supernumerarios se identificarán con la palabra Supernumerario, segu
 
 ## TÍTULO CUARTO. DE LOS SUBALTERNOS
 
-### CAPÍTULO IV. DE LOS TAQUIMECANÓGRAFOS O CAPTURISTAS
+### CAPÍTULO I. DE LOS SECRETARIOS
 
 ## TÍTULO QUINTO. DE LA JUNTA DE ADMINISTRACIÓN
 
 DEL PODER JUDICIAL DEL ESTADO
 
-### CAPÍTULO V. DE LOS COMISARIOS
+### CAPÍTULO II. DE LOS OFICIALES MAYORES Y DE SUS AUXILIARES
 
 ###### ARTÍCULO 72.
 
@@ -1087,7 +1119,7 @@ XIII.- Las demás que les señalen las leyes.
 
 Corresponde a los Secretarios de Estudio y Cuenta formular los proyectos de resolución que les encomienden el Magistrado o el Juez de quien dependan, conforme a las instrucciones que reciban de éste.
 
-### CAPÍTULO I. DE SU OBJETO E INTEGRACIÓN
+### CAPÍTULO III. DE LOS DILIGENCIARIOS
 
 ###### ARTÍCULO 75.
 
@@ -1157,9 +1189,7 @@ III.- Auxiliar al Oficial Mayor en las funciones que éste tiene encomendadas; y
 
 IV.- Las demás que les señalen las leyes.
 
-### CAPÍTULO II. DEL COORDINADOR GENERAL DE LA JUNTA DE ADMINISTRACIÓN
-
-DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO IV. DE LOS TAQUIMECANÓGRAFOS O CAPTURISTAS
 
 ###### ARTÍCULO 79.
 
@@ -1177,9 +1207,13 @@ IV.- Las demás que les impongan las leyes.
 
 Las faltas temporales de los Diligenciarios se suplirán por el interino que nombre el Tribunal correspondiente. Las accidentales, por la persona que designe la Sala o el Juez.
 
-### CAPÍTULO III. DEL COORDINADOR DE COMISIONES Y DEL SECRETARIO DE LA JUNTA DE ADMINISTRACIÓN DEL PODER JUDICIAL DEL ESTADO
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+ARTÍCULO 80 BIS.- El Pleno del Tribunal podrá establecer centrales de diligenciarios con competencia que comprenda uno o varios distritos judiciales, que contarán con las atribuciones que establece la presente Ley y las que competan a los de su especie; su integración, estructura y funcionamiento se conformará según lo que establezca el acuerdo de creación correspondiente.
+
+En los demás distritos judiciales, en los que no se hayan creado centrales de diligenciarios, las notificaciones serán practicadas por los diligenciarios adscritos a cada órgano jurisdiccional, en los términos de esta Ley.
+
+### CAPÍTULO V. DE LOS COMISARIOS
 
 ###### ARTÍCULO 81.
 
@@ -1199,9 +1233,7 @@ VI.- Auxiliar en los demás trabajos de la oficina, cuando sus principales ocupa
 
 VII.- Las demás que les impongan las leyes.
 
-### CAPÍTULO IV. DE LA COMISIÓN DE VIGILANCIA
-
-DISCIPLINA Y SELECCIÓN
+### CAPÍTULO I. DE SU OBJETO E INTEGRACIÓN
 
 ###### ARTÍCULO 82.
 
@@ -1225,7 +1257,9 @@ VII.- Las demás que les señalen las leyes.
 
 DE RESPONSABILIDAD ADMINISTRATIVA
 
-### CAPÍTULO V. DE LA COMISIÓN ADMINISTRATIVA
+### CAPÍTULO II. DEL COORDINADOR GENERAL DE LA JUNTA DE ADMINISTRACIÓN
+
+DEL PODER JUDICIAL DEL ESTADO
 
 ###### ARTÍCULO 83.
 
@@ -1239,7 +1273,9 @@ La Junta de Administración del Poder Judicial del Estado será presidida por el
 
 La Junta de Administración deberá contar además con un secretario, designado por la misma Junta y con las siguientes Comisiones: de Vigilancia, Disciplina y Selección; Administrativa; de Carrera Judicial, Formación y Actualización; y una Contraloría Interna del Poder Judicial del Estado.
 
-### CAPÍTULO VI. DE LA COMISIÓN DE CARRERA JUDICIAL, FORMACIÓN Y ACTUALIZACIÓN
+### CAPÍTULO III. DEL COORDINADOR DE COMISIONES Y DEL SECRETARIO DE LA JUNTA DE ADMINISTRACIÓN DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1259,7 +1295,9 @@ IV.- Las demás que le señale la presente Ley o que le encomiende el Pleno del 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JULIO DE 2009)</small>
 
-### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO IV. DE LA COMISIÓN DE VIGILANCIA
+
+DISCIPLINA Y SELECCIÓN
 
 ###### ARTÍCULO 87.
 
@@ -1277,7 +1315,7 @@ II.- Ejecutar los acuerdos adoptados por la Junta; y
 
 III.- Todas las demás que para los Secretarios de Acuerdos establece la presente Ley.
 
-### CAPÍTULO I. DE LA CARRERA JUDICIAL
+### CAPÍTULO V. DE LA COMISIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 89.
 
@@ -1325,9 +1363,7 @@ XII.- Elaborar su propio Reglamento y someterlo a la aprobación del Pleno del T
 
 XIII.- Las demás que sobre vigilancia, disciplina, selección y administración, les confiera esta Ley.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO DE DETERMINACIÓN
-
-DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO VI. DE LA COMISIÓN DE CARRERA JUDICIAL, FORMACIÓN Y ACTUALIZACIÓN
 
 ###### ARTÍCULO 92.
 
@@ -1607,7 +1643,7 @@ El Departamento de Programación tendrá como finalidad diseñar los sistemas co
 
 El Departamento de Mantenimiento y Capacitación tendrá las tareas de conservar y proteger los equipos computacionales, así como de capacitar en forma permanente al personal en el manejo del equipo y de la red del Poder Judicial del Estado.
 
-### CAPÍTULO I. DE LOS REQUISITOS DE ORIGEN Y ELEGIBILIDAD
+### CAPÍTULO VII. DE LA CONTRALORÍA INTERNA
 
 ###### ARTÍCULO 132.
 
@@ -1655,9 +1691,7 @@ La Comisión, en cabal cumplimiento de los criterios a que se hace referencia en
 
 La Comisión organizará la impartición de los cursos de preparación, correspondientes a las distintas categorías que componen la carrera judicial, y para los demás Servidores Públicos del Poder Judicial del Estado.
 
-### CAPÍTULO II. DE LA PROTESTA Y TOMA DE POSESIÓN
-
-DE LOS CARGOS JUDICIALES
+### CAPÍTULO I. DE LA CARRERA JUDICIAL
 
 ###### ARTÍCULO 140.
 
@@ -1697,19 +1731,31 @@ I.- Establecer y operar el sistema de información y autoevaluación permanente 
 
 II.- Diseñar, desarrollar y mantener actualizado el control de las leyes, acuerdos, reglamentos, manuales, instructivos y en general de todas las normas a las que deba sujetarse el Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 144.
 
-La Contraloría Interna, en su función de fiscalización, aplicará las normas, principios y procedimientos relativos a las evaluaciones de la información presupuestal, económica y de resultados del Poder Judicial del Estado, observando, como lineamientos básicos, las siguientes acciones:
+La Contraloría Interna, en su función de fiscalización, aplicará las normas, principios y procedimientos relativos a las evaluaciones de la información presupuestal, económica y de desempeño del Poder Judicial del Estado, observando, como lineamientos básicos, las siguientes acciones:
 
-I.- Auditorías de resultado de programas, las que tendrán por objeto analizar la efectividad y la congruencia alcanzadas en el avance presupuestal, y en el logro de los objetivos y metas establecidos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-II.- Auditorías de operación, que analizarán la eficacia obtenida en relación con la asignación de recursos humanos, materiales y financieros, mediante el análisis de la estructura organizacional de los sistemas operativos y de información; y
+I.- Auditorías de desempeño, que tendrán por objeto analizar la efectividad y la congruencia alcanzadas en el avance presupuestal, y en el logro de los objetivos y metas establecidos, con apego a la normatividad aplicable conforme a los criterios de eficacia, eficiencia y economía;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II.- Auditorías de legalidad, que tendrán por objeto analizar la eficacia obtenida en relación con la asignación de recursos humanos, materiales y financieros, mediante el análisis de la estructura organizacional de los sistemas operativos y de información, y en general, cualquier aspecto relacionado con el sistema contable, presupuestal y patrimonial; y
 
 III.- Auditorías económico-financieras, que comprenderán el examen de las transacciones, operaciones y registros financieros, para determinar si la información que se produce al respecto es confiable, oportuna y útil.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La Contraloría Interna, directamente o con el auxilio del auditor externo, pondrá la documentación correspondiente a la cuenta pública del Poder Judicial en estado de revisión en los términos que establecen las leyes de la materia, para el efecto consecuente; lo que deberá realizar dentro del plazo que prevé la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla.
+
 ## TÍTULO SÉPTIMO. DE LAS DISPOSICIONES GENERALES
 
-### CAPÍTULO III. DE LAS LICENCIAS Y AUSENCIAS
+### CAPÍTULO II. DEL PROCEDIMIENTO DE DETERMINACIÓN
+
+DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTÍCULO 145.
 
@@ -1723,9 +1769,9 @@ La carrera judicial se regirá por los principios de excelencia, profesionalismo
 
 La carrera judicial se integrará por las siguientes categorías:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-I.- Juez Civil, Familiar, Penal, Especializado en Adolescentes o Supernumerario;
+I.- Juez de lo Civil, de lo Familiar, Especializado en Justicia para Adolescentes, de Extinción de Dominio, de Exhortos, Supernumerarios, Itinerantes, y en materia Penal de Control, de Ejecución de Sanciones, e integrante del Tribunal de Juicio Oral;
 
 > <small>(F. DE E., P.O. DE 3 DE FEBRERO DE 2003)</small>
 
@@ -1791,7 +1837,7 @@ V.- Datos de su expediente personal, que acrediten los servicios prestados en la
 
 VI.- Promedio de calificación obtenido en los cursos de especialización judicial, en su caso.
 
-### CAPÍTULO IV. DE LA SEPARACIÓN DEL CARGO Y DE LAS RENUNCIAS
+### CAPÍTULO I. DE LOS REQUISITOS DE ORIGEN Y ELEGIBILIDAD
 
 ###### ARTÍCULO 152.
 
@@ -1939,15 +1985,23 @@ Las quejas formuladas por comparecencia se harán constar en acta, que levantar�
 
 ###### ARTÍCULO 165.
 
-el procedimiento se instruirá en los siguientes términos:
+El procedimiento se instruirá en los siguientes términos:
 
 I.- Se iniciará con la recepción de la queja, o en su caso, del acta de la visita en que se haya advertido la probable responsabilidad, pudiéndose acompañar las pruebas respectivas;
 
-II.- Se le hará saber al Servidor Público involucrado el contenido de la queja o del acta, solicitándole un informe con justificación, que deberá rendir dentro de los siguientes cinco días hábiles, requiriéndole también para que presente las pruebas que estime pertinentes.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2003)</small>
+En caso de que el procedimiento inicie por queja, de alguna de las partes en el procedimiento judicial del que se deriva, el quejoso deberá señalar domicilio para oír y recibir notificaciones en la ciudad de Puebla, so pena que se le hagan por medio de los procedimientos establecidos para aquéllas que no deban ser personales.
 
-Serán admisibles como medios de prueba, los que, con tal carácter, señala el Código de Procedimientos Civiles para el Estado, excepción hecha de la absolución de posiciones respecto al Servidor Público involucrado en la queja o acta;
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Cuando el procedimiento inicie por escrito de parte interesada distinta de la establecida en el párrafo anterior, se le requerirá para que lo ratifique, apercibida que en caso de no hacerlo se tendrá por no interpuesta la queja.
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II.- Se le hará saber al servidor público implicado, el contenido de la queja o del acta, solicitándole un informe con justificación, que deberá rendir dentro de los cinco días hábiles siguientes, requiriéndole también para que presente las pruebas que estime pertinentes; lo anterior, con independencia de las facultades del instructor de ordenar la exhibición de las constancias pertinentes, a fin de que la dictaminadora se encuentre en posibilidades de resolver.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 III.- Transcurrido el término señalado, se citará a los involucrados a una audiencia, la que se realizará dentro de los siguientes tres días hábiles, y en ella se les oirá y serán desahogadas las pruebas ofrecidas. Si el quejoso no comparece a esta audiencia, sin causa justificada y las pruebas aportadas no acreditan plenamente, por sí solas, la responsabilidad del Servidor Público, se sobreseerá el procedimiento;
 
@@ -1955,7 +2009,9 @@ IV.- El instructor podrá desahogar cualquier diligencia probatoria que consider
 
 V.- De no existir diligencias probatorias pendientes de desahogar, el instructor formulará el proyecto de resolución dentro de los diez días hábiles siguientes, y con éste dará cuenta a la Comisión de Vigilancia, Disciplina y Selección, la que resolverá lo procedente; y
 
-VI.- La Comisión de Vigilancia, Disciplina y Selección emitirá la resolución correspondiente dentro de los cinco días hábiles siguientes, y ésta podrá ser recurrida por el Servidor Público involucrado, mediante el recurso de revisión, del que conocerá el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI.- En todo lo no previsto en el procedimiento regulado en este Capítulo, se observarán las disposiciones del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 166.
 
@@ -1983,7 +2039,9 @@ En caso de que las faltas administrativas entrañen simultáneamente posibles co
 
 ## TÍTULO OCTAVO. DE LAS GARANTÍAS DE LA FUNCIÓN JURISDICCIONAL
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES JUDICIALES
+### CAPÍTULO II. DE LA PROTESTA Y TOMA DE POSESIÓN
+
+DE LOS CARGOS JUDICIALES
 
 ###### ARTÍCULO 170.
 
@@ -2001,11 +2059,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que merezca
 
 V.- (DEROGADA, P.O. 4 DE FEBRERO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 171.
 
-Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Especializado en Adolescentes, de Jurisdicción Mixta o Supernumerario, se requiere:
+Para ser Juez de primera instancia, se requiere:
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
@@ -2087,17 +2145,17 @@ II.- Ser mayor de veinte años; y
 
 III.- Poseer los conocimientos necesarios.
 
-### CAPÍTULO VI. DE LAS PROHIBICIONES O INCAPACIDADES DE GOCE
+### CAPÍTULO III. DE LAS LICENCIAS Y AUSENCIAS
 
 ###### ARTÍCULO 178.
 
 Los Magistrados del Tribunal Superior de Justicia, una vez electos por el Congreso del Estado, protestarán su cargo ante la Legislatura en funciones, y en sus recesos, ante la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 179.
 
-Los Jueces Civiles, Familiares, Penales, Especializados en Adolescentes, Mixtos y Supernumerarios, protestarán su cargo ante el Pleno del Tribunal Superior de Justicia.
+Los Jueces de primera instancia protestarán su cargo ante el Pleno del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 180.
 
@@ -2113,11 +2171,13 @@ Los Servidores Públicos del Poder Judicial del Estado, una vez nombrados, tomar
 
 Los Servidores Públicos del Poder Judicial del Estado, nombrados por falta absoluta de los propietarios, también tomarán posesión, previa protesta legal, ante la Autoridad que expidió su nombramiento.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 183.
 
-El Tribunal Superior de Justicia, funcionando en Pleno, dará posesión de sus cargos, al Presidente del propio Tribunal, a los Magistrados y a los Jueces Civiles, Penales, Familiares y especializados en adolescentes.
+El Tribunal Superior de Justicia, funcionando en Pleno, dará posesión de sus cargos, al Presidente del propio Tribunal, a los Magistrados y a los Jueces de primera instancia.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2008)</small>
 
 El Presidente del Tribunal Superior de Justicia, dará posesión de sus cargos a los Directores Administrativos.
 
@@ -2127,7 +2187,7 @@ El Presidente del Tribunal Superior de Justicia, dará posesión de sus cargos a
 
 Los Jueces informarán oportunamente al Tribunal Superior de Justicia los nombramientos que hagan; y tratándose de los Jueces Municipales y de Paz también darán aviso de haber tomado posesión, tanto ellos como los Servidores Públicos que estén a su cargo, comunicándolo al Director General de la Comisión Administrativa, para el control correspondiente.
 
-### CAPÍTULO I. DE LA INTEGRACIÓN DE LAS GARANTÍAS
+### CAPÍTULO IV. DE LA SEPARACIÓN DEL CARGO Y DE LAS RENUNCIAS
 
 ###### ARTÍCULO 185.
 
@@ -2169,7 +2229,7 @@ Los Servidores Públicos del Poder Judicial del Estado que no concurran a la ofi
 
 Las faltas temporales de los Servidores Públicos del Poder Judicial del Estado, excepto las de los Magistrados, cuando sean mayores de quince días serán cubiertas por interinos.
 
-### CAPÍTULO II. DE LA INVIOLABILIDAD DE LOS RECINTOS
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES JUDICIALES
 
 ###### ARTÍCULO 193.
 
@@ -2225,7 +2285,7 @@ Se tendrán por renunciados los cargos y empleos judiciales cuando, durante su e
 
 Calificará la renuncia o excusa que proponga el Servidor Público del Poder Judicial del Estado, la Autoridad de la que dependa su nombramiento.
 
-### CAPÍTULO III. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+### CAPÍTULO VI. DE LAS PROHIBICIONES O INCAPACIDADES DE GOCE
 
 ###### ARTÍCULO 199.
 
@@ -2255,7 +2315,7 @@ VIII.- Protestar el cargo conferido, en los términos que establezca la presente
 
 Son obligaciones de los demás Servidores Públicos y Auxiliares del Poder Judicial del Estado, las que específicamente señala esta Ley.
 
-### CAPÍTULO IV. DE LA ESTABILIDAD, PERMANENCIA, REMUNERACIÓN Y RETIRO
+### CAPÍTULO I. DE LA INTEGRACIÓN DE LAS GARANTÍAS
 
 ###### ARTÍCULO 202.
 
@@ -2307,13 +2367,19 @@ IV.- Adquirir bienes sujetos a remate judicial.
 
 El mismo carácter de prohibiciones o incapacidades de goce tendrán todos los demás impedimentos contenidos en ésta, o en cualquier otra ley que se refiera a los Servidores Públicos del Poder Judicial del Estado.
 
+### CAPÍTULO II. DE LA INVIOLABILIDAD DE LOS RECINTOS
+
 ###### ARTÍCULO 207.
 
 Las garantías de la función jurisdiccional se integran por los mecanismos a través de los que se establecen, reconocen y tutelan las condiciones esenciales que propician el eficaz desempeño de las actividades del Poder Judicial del Estado.
 
+### CAPÍTULO III. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+
 ###### ARTÍCULO 208.
 
 Son inviolables los recintos en donde se ejerce la función jurisdiccional; el Presidente del Tribunal Superior de Justicia velará por el cumplimiento de esta garantía, adoptando todas las medidas necesarias para tal fin.
+
+### CAPÍTULO IV. DE LA ESTABILIDAD, PERMANENCIA, REMUNERACIÓN Y RETIRO
 
 ###### ARTÍCULO 209.
 
@@ -2616,3 +2682,29 @@ P.O. 4 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas la disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Puebla, con las excepciones que se establecen en los presentes artículos transitorios.
+
+SEGUNDO.- Para los efectos del artículo Primero Transitorio del Decreto publicado en el Periódico Oficial del Estado de Puebla el veintiuno de febrero de dos mil once, por el que se expide el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, se establecen, las regiones judiciales y plazos siguientes:
+
+I.- Oriente: el 15 de enero de 2013;
+
+II.- Norte: el 17 de septiembre de 2013;
+
+III.- Sur: el 18 de marzo de 2014;
+
+IV.- Sur-Oriente: el 17 de septiembre de 2014;
+
+V.- Centro-Poniente: el 17 marzo de 2015; y
+
+VI.- Centro: el 17 de junio de 2016.
+
+TERCERO.- La entrada en vigor de las disposiciones contenidas en el presente Decreto relativas a la creación y competencia de los Jueces de Control y de los Tribunales de Juicio Oral de primera instancia en materia penal, estará sujeta a las regiones judiciales y plazos señalados en el artículo transitorio anterior.
+
+Hasta en tanto no se actualicen los plazos previstos en el artículo anterior, continuará en vigor en las regiones judiciales el procedimiento penal establecido en el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado con fecha veintitrés de diciembre de mil novecientos ochenta y seis, de igual forma se entenderán vigentes las disposiciones reformadas por el presente Decreto en la graduación precisada, relativas a la existencia y funcionamiento de los jueces en materia penal.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto, en términos de lo dispuesto en el Artículo Cuarto Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación con fecha dieciocho de junio de 2008.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
