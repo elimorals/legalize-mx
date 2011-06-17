@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2011-02-21"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO PUBLICADO EN LA SEGUNDA SECCION DEL P.O. DE 21 DE FEBRERO DE 2011, LOS CUALES SEÑALAN QUE ENTRARA EN VIGOR EN FORMA GRADUAL, INICIANDO POR LA REGION JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO A MAS TARDAR EL 18 DE JUNIO DE 2011.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO PUBLICADO EN LA SEGUNDA SECCION DEL P.O. DE 21 DE FEBRERO DE 2011, LOS CUALES SEÑALAN QUE ENTRARA EN VIGOR EN FORMA GRADUAL, INICIANDO POR LA REGION JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -5275,35 +5275,55 @@ Las sanciones impuestas en la sentencia se ejecutarán una vez que ésta haya ca
 
 Derechos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 515.
 
-El sentenciado podrá ejercer, durante la ejecución de la pena, los derechos que las leyes penales, penitenciarias y los reglamentos le otorgan y planteará personalmente, por medio de su defensor o cualquier otra persona en quien él delegue, ante el Tribunal que corresponda, las observaciones que, con fundamento en aquellas reglas, estime convenientes.
+El sentenciado podrá ejercer, durante la ejecución de la pena, los derechos que las leyes penales, penitenciarias y los reglamentos le otorgan y planteará personalmente, por medio de su defensor o cualquier otra persona en quien él delegue, ante la autoridad correspondiente, las observaciones que, con fundamento en aquellas reglas, estime convenientes.
 
 Competencia.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 516.
 
-El Tribunal de Juicio Oral será competente para realizar la primera fijación de la pena, así como determinar su cumplimiento.
+Corresponde al Juez de Ejecución resolver con respecto a la modificación, conmutación, duración y extinción de las penas y medidas de seguridad, así como resolver sobre la reparación del daño a la víctima del delito que deba hacerse durante la etapa de ejecución de sentencia.
 
-Corresponde al Juez de Ejecución resolver con respecto a la modificación, conmutación, duración y extinción de las penas y medidas cautelares, así como resolver sobre la reparación del daño a la víctima del delito que deba hacerse durante la etapa de ejecución de sentencia.
+Tratándose de pena o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, el Juez de Ejecución al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución de sentencia, realizando la notificación a la víctima u ofendido, a la autoridad administrativa correspondiente, al sentenciado, a su defensor y al agente del Ministerio Público.
 
-Atribuciones de los Jueces de Ejecución.
+En las notificaciones y los actos procesales relativos a los medios de prueba, que se realicen en el procedimiento de ejecución penal, el Juez de Ejecución se ajustará a las directrices generales que se contienen en este Código.
+
+Autoridad administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 516 BIS.- La Secretaría General de Gobierno a través de la Dirección o Direcciones competentes, en términos de su Reglamento Interior, será la autoridad administrativa correspondiente a la que se refiere este Título.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
+
+Atribuciones de los jueces de ejecución.
 
 ###### ARTÍCULO 517.
 
 El Juez de Ejecución tendrá las facultades siguientes:
 
-I.- Tramitar los incidentes de ejecución promovidos por los sentenciados;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I.- Tramitar y resolver los incidentes de ejecución promovidos por los sentenciados, su defensor, el Ministerio Público o el acusador particular;
 
 II.- Realizar el cómputo de la duración de las penas o medidas de seguridad descontando de aquéllas la prisión preventiva y el arraigo cumplido por el sentenciado, para determinar con precisión la fecha en que queden cumplidas;
 
-III.- Resolver con respecto a la fijación de las sucesivas penas, para lo que deberá fundarse en el dictamen elaborado por el responsable del área jurídica del centro de reclusión;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III.- Resolver con respecto a la fijación de las sucesivas penas, para lo que deberá considerar el dictamen que emita la autoridad administrativa correspondiente;
 
 IV.- Solicitar información a la autoridad competente, con relación al tratamiento de reinserción aplicado a los internos;
 
 V.- Aplicar la ley más favorable a los sentenciados, cuando les resulten benéficas para realizar la modificación de la pena;
 
-VI.- Ordenar, a petición del Ministerio Público o de la autoridad de reinserción social, la detención del sentenciado en libertad, cuando incumpla las obligaciones impuestas con motivo de la concesión de algún beneficio de libertad anticipada;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI.- Revocar, a petición del Ministerio Público o de la autoridad administrativa correspondiente, los beneficios de modificación y conmutación a los que se refiere este Título, cuando el sentenciado incumpla las obligaciones impuestas, dictando las medidas conducentes para hacer efectiva la pena establecida en la sentencia en términos de lo que dispone este mismo Título;
 
 VII.- Librar las órdenes de recaptura que procedan en ejecución de sentencia en los casos de evasión de reos;
 
@@ -5321,17 +5341,47 @@ XIII.- Las demás que este Código y otros ordenamientos legales le establezcan.
 
 Incidentes en la ejecución.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 518.
 
-El Ministerio Público, el acusador particular, el sentenciado y su defensor podrán plantear, ante el Juez de Ejecución, incidentes relativos a la ejecución, sustitución, modificación o extinción de las penas o de las medidas de seguridad impuestas. Éstos deberán ser resueltos dentro del término de cinco días, previo traslado a los interesados.
+El agente del Ministerio Público, el acusador particular, el sentenciado y su defensor, podrán promover ante el Juez de Ejecución, incidentes relativos a la libertad condicional, la modificación de las condiciones del tratamiento penitenciario, conmutación de la prisión por sustitutivos de ésta, la reducción del internamiento por sobrevenir leyes más favorables, extinción de las penas, medidas de seguridad para internos que caigan en estado de incapacidad mental durante el tratamiento penitenciario.
 
-Los incidentes relativos a la libertad anticipada y aquéllos en los cuales, por su importancia, el Juez de Ejecución lo estime necesario, serán resueltos en audiencia oral.
+Así como la víctima u ofendido podrá promover el correspondiente, respecto de la reparación del daño que deba hacerse durante la etapa de la ejecución de sentencia.
 
-Contra lo resuelto por el Juez de Ejecución, procederá recurso de apelación, cuya interposición no suspenderá la ejecución de la pena, a menos que así lo disponga este último Tribunal.
+Del procedimiento de incidentes en la ejecución.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 518 BIS.- El procedimiento de incidentes en la ejecución, se regirá por los principios rectores del proceso penal establecidos en este Código y será resuelto en audiencia oral que se desarrollará conforme a lo siguiente:
+
+I.- La solicitud correspondiente podrá ser presentada por las partes ante la autoridad administrativa correspondiente o ante el Juez de Ejecución directamente; en su caso, el promovente anunciará con su solicitud las pruebas que sustenten su pretensión;
+
+II.- Recibida la solicitud, el Juez de Ejecución la radicará e iniciará el procedimiento;
+
+III.- El Juez de Ejecución sustanciará el expediente respectivo corriendo traslado a las partes interesadas, señalando la hora y el día para llevar a cabo la audiencia, misma que se celebrará a partir del día veinte pero antes del treinta del correspondiente a la emisión del auto de radicación. Si dentro de las pruebas anunciadas por el promovente se encuentra el expediente clínico-criminológico, el Juez de Ejecución proveerá lo conducente a efecto de que el mismo le sea remitido por la autoridad administrativa correspondiente a más tardar cinco días antes de la audiencia incidental;
+
+IV.- La audiencia que se llevará a cabo en la sala que para tal efecto se disponga, será presidida por el Juez de Ejecución y, para su validez, será requisito indispensable la presencia del sentenciado legalmente asistido para su defensa, el agente del Ministerio Público; el representante de la autoridad administrativa correspondiente, podrá asistir previa citación del Juez de Ejecución cuando se suscite controversia. La presencia de la víctima u ofendido, siempre y cuando no sea acusador coadyuvante, no será requisito de validez para la celebración de ésta, quedando constancia de ello;
+
+V.- El Juez verificará las condiciones para que se rindan, en su caso, las pruebas ofrecidas. Declarará iniciada la audiencia e identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la misma;
+
+VI.- Acto seguido, el Juez procederá a dar el uso de la palabra a los intervinientes de la manera siguiente: en primer lugar al oferente de la solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al agente del Ministerio Público, a la autoridad administrativa correspondiente y si está presente en la audiencia, a la víctima u ofendido y, en su caso, al acusador coadyuvante.
+
+El Juez de Ejecución dará la concesión del derecho de réplica y duplica, cuando el debate así lo requiera. Una vez cerrado el debate dictará la resolución procedente;
+
+VII.- Las pruebas se admitirán y desahogarán, conforme a los principios que establece este Código.
+
+El Juez de Ejecución valorará los medios de prueba rendidos en la audiencia, conforme a las reglas de la libre valoración, sin contravenir las reglas de la lógica, las máximas de la experiencia y los conocimientos científicos;
+
+VIII.- El Juez resolverá el incidente planteado inmediatamente después de haber concluido el debate. Sólo en casos de extrema complejidad, el Juez podrá retirarse a reflexionar de manera privada, continua y aislada hasta emitir su fallo; contra lo resuelto por el Juez de Ejecución procederá recurso de apelación, cuya interposición no suspende su ejecución; y
+
+IX.- De la resolución pronunciada en la audiencia a que se refieren las fracciones anteriores, deberá entregarse copia del audio, video y de la resolución a la autoridad administrativa correspondiente y a la Procuraduría General de Justicia del Estado, para su conocimiento.
 
 ### CAPÍTULO TERCERO. EJECUCIÓN DE LA REPARACIÓN DEL DAÑO
 
 Competencia.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 519.
 
@@ -5393,61 +5443,43 @@ Si el sentenciado no cumple con esas condiciones satisfactoriamente durante el p
 
 Vigilancia de la autoridad.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 525.
 
-Los individuos que disfruten de la libertad condicional quedarán sujetos a la vigilancia por parte de la autoridad penitenciaria que designe el Juez de Ejecución y por todo el tiempo que les falte para cumplir su sanción.
+Los individuos que disfruten de la libertad condicional quedarán sujetos a la vigilancia por parte de la autoridad administrativa correspondiente y por todo el tiempo que les falte para cumplir su sanción.
 
 Causas de revocación de la libertad condicional.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 526.
 
-La libertad condicional será revocada por el Juez de Ejecución, en los casos siguientes:
-
-I.- Por haber dejado de cumplir con alguna de las condiciones establecidas; y
-
-II.- Por quedar bajo los efectos de un auto de vinculación a proceso.
-
-Cuando se verifique la condición de alguna de estas circunstancias, el Juez de Ejecución, revocará el beneficio concedido, ordenará su reaprehensión y el infractor cumplirá toda la parte de la pena que falte por compurgar.
+La libertad condicional será revocada por el Juez de Ejecución, por incumplir con alguna de las condiciones establecidas o por recibir sentencia ejecutoriada; en cuyo caso, ordenará su reaprehensión y el infractor cumplirá toda la parte de la pena que falte por compurgar.
 
 Pérdida del derecho a la libertad condicional.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 527.
 
-El interno que intente fugarse, o bien el que habiéndose fugado sea reaprehendido, perderá el derecho a la libertad condicional y quedará sujeto a la determinación del Juez de Ejecución.
+El sentenciado que evada la vigilancia, perderá el derecho a la libertad condicional y quedará sujeto a la determinación del Juez de Ejecución.
 
 Prelibertad.
 
 ###### ARTÍCULO 528.
 
-La prelibertad deberá ser concedida en forma gradual y sistemática por el Juez de Ejecución de sentencias, atendiendo a los dictámenes técnico-jurídicos y estudios de personalidad emitidos por los Consejos Técnicos Interdisciplinarios correspondientes.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 Modalidades de la prelibertad.
 
 ###### ARTÍCULO 529.
 
-Las modalidades de la prelibertad son las siguientes:
-
-I.- Salida del centro de internamiento dos días a la semana;
-
-II.- Salida diurna, reclusión nocturna y de sábados y domingos;
-
-III.- Salida diurna y reclusión nocturna;
-
-IV.- Salida diurna y reclusión nocturna con salida de sábados y domingos;
-
-V.- Reclusión dos días a la semana;
-
-VI.- Presentación semanal al centro de internamiento; y
-
-VII.- Presentación quincenal al centro de internamiento.
-
-Para que se conceda la prisión intermitente, el beneficiado deberá acreditar previamente que cuenta con trabajo honesto y remunerado en el exterior o que se encuentra inscrito en institución pública del Sistema Educativo Nacional o Estatal, o que hará lo uno o lo otro en el plazo que le señale el Juez de Ejecución; en ambos casos, el área responsable de la ejecución de penas y medidas vigilará el cumplimiento de las obligaciones impuestas.
-
-Estas condiciones podrán modificarse cuando a juicio de la autoridad penitenciaria no se cuente con los medios, infraestructura y condiciones de seguridad y tratamiento para los preliberados, pudiéndose cumplir con este beneficio mediante presentaciones en la periodicidad y las modalidades que determine el Juez de Ejecución.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### ARTÍCULO 530.
 
-Al ser concedida la prelibertad, en cualquiera de sus modalidades, el Juez de Ejecución de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 Beneficios de libertad anticipada.
 
@@ -5497,7 +5529,7 @@ Sobre el otorgamiento del beneficio.
 
 ###### ARTÍCULO 534.
 
-El Juez de Ejecución apoyado en el proyecto para otorgar un beneficio que le propone la autoridad administrativa correspondiente, resolverá dentro del término de diez días lo conducente sobre el otorgamiento del beneficio planteado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 Revocación del beneficio.
 
@@ -5507,9 +5539,11 @@ El Juez de Ejecución tiene la facultad de revocar el beneficio otorgado, en cas
 
 Inhabilitación y suspensión.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 536.
 
-Si la pena impuesta al sentenciado contempla la inhabilitación o la suspensión de derechos, ésta se comunicará a la autoridad competente para que se lleve control de la misma y se informe al Juez de Ejecución cuando éste requiera de esa información.
+Si la pena impuesta al sentenciado contempla la inhabilitación o la suspensión de derechos, ésta se comunicará a la autoridad administrativa correspondiente para que se lleve control de la misma y se informe al Juez de Ejecución cuando éste requiera de esa información.
 
 Enfermedad del sentenciado.
 
@@ -5531,7 +5565,7 @@ Cuando durante el procedimiento penal, el Juez de Control o el Juez de Ejecució
 
 ###### ARTÍCULO 539.
 
-La sentencia que condene a restitución o reparación del daño, cuando no sea inmediatamente ejecutada o no pueda serlo por orden del Tribunal que la dictó, se ejecutará por el interesado ante el Juez de Ejecución.
+La sentencia que condene a restitución o reparación del daño, cuando no sea inmediatamente ejecutada o no pueda serlo por orden del Tribunal que la dictó, se ejecutará a solicitud del interesado ante el Juez de Ejecución.
 
 ###### ARTÍCULO 540.
 
@@ -5547,29 +5581,27 @@ Decomiso.
 
 ###### ARTÍCULO 542.
 
-Cuando en la sentencia se ordene el decomiso de algún objeto, el tribunal le dará el destino que corresponda según su naturaleza, conforme a las normas que rigen la materia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 Restitución y retención de bienes asegurados.
 
 ###### ARTÍCULO 543.
 
-Los bienes asegurados no sujetos a decomiso, restitución o embargo, serán devueltos a quien se le aseguraron, inmediatamente después de que la sentencia cause ejecutoria.
-
-Si hubieran sido entregados en depósito provisional, se notificará al depositario la entrega definitiva.
-
-Los bienes asegurados de propiedad del sentenciado podrán ser retenidos en garantía del pago de reparación del daño.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 Controversia.
 
 ###### ARTÍCULO 544.
 
-Si se suscita controversia sobre la restitución o su forma, se dispondrá que los interesados acudan a la jurisdicción civil.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 #### SECCIÓN PRIMERA. DE LA MULTA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 545.
 
-Una vez recibida copia de la sentencia ejecutoria en la que se imponga la pena de multa, o en la que ésta sea sustitutiva de la de prisión, la instancia administrativa correspondiente verificará su monto para el efecto de requerir al sentenciado a su pago voluntario, fijándosele un plazo de quince días hábiles para ello.
+Una vez recibida copia de la sentencia ejecutoria en la que se imponga la pena de multa, o en la que ésta sea sustitutiva de la de prisión, la autoridad administrativa correspondiente, verificará su monto para el efecto de requerir al sentenciado a su pago voluntario, fijándosele un plazo de quince días hábiles para ello.
 
 En el momento de notificar al sentenciado lo anterior se le hará saber que si no puede pagar la cantidad en una sola emisión, podrá, en ese mismo momento o dentro de los tres días siguientes, proponer el tiempo en el cual pueda cubrir la cantidad equivalente a la multa impuesta, lo cual será valorado por la autoridad judicial competente, quien aceptará la propuesta o señalará plazos diferentes para su pago.
 
@@ -5581,9 +5613,11 @@ El sentenciado que se considere afectado con los plazos señalados para el pago 
 
 #### SECCIÓN SEGUNDA. DEL TRABAJO EN FAVOR DE LA COMUNIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 547.
 
-Una vez recibida copia de la sentencia ejecutoria en la que se imponga el sustitutivo de prisión por trabajo en favor de la comunidad, la instancia administrativa correspondiente asignará al sentenciado a la institución, de las señaladas en el Código Sustantivo en la materia, determinando los días y el horario en el que deberá cumplimentarse la pena impuesta, y registrará el inicio del cumplimiento de la ejecución a partir de la primera comparecencia del sentenciado a la prestación del trabajo en favor de la comunidad.
+Una vez recibida copia de la sentencia ejecutoria en la que se imponga el sustitutivo de prisión por trabajo en favor de la comunidad, la autoridad administrativa correspondiente asignará al sentenciado a la institución, de las señaladas en el Código Sustantivo en la materia, determinando los días y el horario en el que deberá cumplimentarse la pena impuesta, y registrará el inicio del cumplimiento de la ejecución a partir de la primera comparecencia del sentenciado a la prestación del trabajo en favor de la comunidad.
 
 Para los electos de este artículo deberá observarse lo establecido en el Código Sustantivo de la materia.
 
@@ -5591,32 +5625,86 @@ Para los electos de este artículo deberá observarse lo establecido en el Códi
 
 El sentenciado que se considere afectado por la naturaleza del trabajo asignado, o por no haberse observado lo establecido en el artículo anterior, podrá solicitar la reconsideración de la medida ante el Juez de Ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 549.
 
-La institución favorecida con la prestación del trabajo en favor de la comunidad deberá rendir mensualmente a la instancia administrativa correspondiente, informe detallado de las actividades realizadas por el sentenciado, debiendo comunicar sus ausencias o faltas disciplinarias.
+La institución favorecida con la prestación del trabajo en favor de la comunidad, deberá rendir mensualmente a la autoridad administrativa correspondiente, informe detallado de las actividades realizadas por el sentenciado, debiendo comunicar sus ausencias o faltas disciplinarias.
 
 Si el sentenciado se ausenta injustificadamente durante tres días en el cumplimiento de la pena, se le notificará al Juez de Ejecución quien ordenará, en su caso, que la pena sustituida se ejecute, computándose los días de trabajo que hayan sido cumplidos en favor de la comunidad.
 
 #### SECCIÓN TERCERA. DE LA SUSPENSIÓN, PRIVACIÓN E INHABILITACIÓN DE DERECHOS, FUNCIONES O EMPLEOS
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 550.
 
-Cuando en la sentencia ejecutoria que se reciba, se imponga la suspensión, privación o inhabilitación de derechos, funciones o empleos, la instancia administrativa correspondiente girará comunicado, acompañando copia certificada de la sentencia, a la autoridad o institución que corresponda, notificándole dicha resolución, y al Juez de Ejecución.
+Cuando en la sentencia ejecutoriada se imponga la suspensión, privación o inhabilitación de derechos, funciones o empleos, el Juez de Ejecución girará comunicado, acompañando copia certificada de la sentencia, a la autoridad o institución que corresponda.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 551.
 
-La autoridad o institución que haya recibido comunicación relacionada con la suspensión, privación e inhabilitación de derechos, funciones o empleos y deba hacerla efectiva, remitirá a la instancia administrativa competente la documentación en la que conste su cumplimentación.
+La autoridad o institución que haya recibido comunicación relacionada con la suspensión, privación e inhabilitación de derechos, funciones o empleos y deba hacerla efectiva, remitirá al Juez de Ejecución constancia de su cumplimiento.
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Ordenamiento entrará en vigor en forma gradual, iniciando por la región judicial que se establezca en la Ley Orgánica del Poder Judicial del Estado a más tardar el 18 de junio de 2011.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-SEGUNDO.- El Título Décimo del presente Ordenamiento, por ser materia de ejecución de sentencias, entrará en vigor el 18 de junio de 2011.
+PRIMERO.- El presente ordenamiento entrará en vigor en forma gradual, iniciando por la región judicial que se establezca en la Ley Orgánica del Poder Judicial del Estado, a partir del 15 de enero de 2013 y concluyendo el 17 de junio de 2016.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+SEGUNDO.- El Título Décimo del presente Ordenamiento, así como las demás disposiciones aplicables al mismo Título por ser materia de ejecución de sentencias, entrarán en vigor el 18 de junio de 2011.
 
 TERCERO.- Se abroga el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, de forma gradual atendiendo a lo que se disponga en la Ley Orgánica del Poder Judicial del Estado.
 
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+CUARTO.- Las disposiciones del Código en materia de ejecución de sentencias, no serán aplicables a aquellos asuntos cuya sentencia haya causado ejecutoria antes del 18 de junio de 2011; empero, los beneficios a los que se refiere el artículo 531 se aplicarán a los ya sentenciados, dando la intervención que corresponda al Juez de Ejecución.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELIA TAPIA VARGAS.-, Rúbrica. Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de enero de dos mil once.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+DECRETO POR EL CUAL SE REFORMAN LOS ARTICULOS 515, 516, LAS FRACCIONES I, III Y VI DEL 517, EL 518, EL 525, EL 526, EL 527, EL 536, EL 539, EL PRIMER PARRAFO DEL 545, EL PRIMER PARRAFO DEL 547, EL PRIMER PARRAFO DEL 549, EL 550, EL 551, LOS ARTICULOS PRIMERO, SEGUNDO Y CUARTO TRANSITORIOS; SE ADICIONAN EL 516 BIS, EL 518 BIS Y EL ARTICULO QUINTO TRANSITORIO; SE DEROGAN EL 528, EL 529, EL 530, EL 534, EL 542, EL 543 Y EL 544, TODOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2011.
+
+DECRETO POR EL CUAL SE REFORMA LA FRACCION IV DEL ARTICULO 17, LAS FRACCIONES III, IV, V Y VI DEL 33, EL 42, EL 43, EL 44, EL 45, EL 58, EL 70, EL PRIMER PARRAFO, LAS FRACCIONES I Y II DEL 144, LA FRACCION I DEL 147, LAS FRACCIONES II Y VI DEL 165, EL PRIMER PARRAFO DEL 171, EL 179, EL PRIMER PARRAFO DEL 183, LA DENOMINACION DEL CAPITULO III "DE LOS JUZGADORES EN MATERIA PENAL" COMPRENDIENDO DEL ARTICULO 42 AL 44, LA DENOMINACION DEL CAPITULO IV "DE LOS JUECES ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES" COMPRENDIENDO EL 45 Y 45 BIS, LA DENOMINACION DEL CAPITULO V "DE LOS JUECES DE EXHORTOS" COMPRENDIENDO EL 45 TER, Y LA DENOMINACION DEL CAPITULO VI "DE LOS JUZGADOS DE EXTINCION DE DOMINIO" COMPRENDIENDO EL ARTICULO 45 QUATER, TODOS DEL TITULO TERCERO; SE ADICIONA EL 10 BIS, LAS FRACCIONES VII, VIII Y IX AL 33, EL 45 BIS, EL 45 TER, EL 45 QUATER; EL 80 BIS, EL ULTIMO PARRAFO DEL 144, EL SEGUNDO Y TERCER PARRAFO DE LA FRACCION I DEL 165, EL CAPITULO VII "DE LOS JUZGADOS MUNICIPALES" COMPRENDIENDO DEL 46 AL 59, EL CAPITULO VIII "DE LOS JUZGADOS·DE PAZ" COMPRENDIENDO DEL 60 AL 68 Y EL CAPITULO IX "DE LOS JUECES SUPERNUMERARIOS E ITINERANTES" COMPRENDIENDO DEL 69 AL 71, TODOS AL TITULO TERCERO; Y SE DEROGA EL 43 BIS, LA FRACCION X AL 52, EL 56, EL SEGUNDO PARRAFO DE LA FRACCION II DEL 165, TODOS DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Puebla, con las excepciones que se establecen en los presentes artículos transitorios.
+
+SEGUNDO.- Para los efectos del artículo Primero Transitorio del Decreto publicado en el Periódico Oficial del Estado de Puebla el veintiuno de febrero de dos mil once, por el que se expide el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, se establecen, las regiones judiciales y plazos siguientes:
+
+I.- Oriente: el 15 de enero de 2013;
+
+II.- Norte: el 17 de septiembre de 2013;
+
+III.- Sur: el 18 de marzo de 2014;
+
+IV.- Sur-Oriente: el 17 de septiembre de 2014;
+
+V.- Centro-Poniente: el 17 marzo de 2015; y
+
+VI.- Centro: el 17 de junio de 2016.
+
+TERCERO.- La entrada en vigor de las disposiciones contenidas en el presente Decreto relativas a la creación y competencia de los Jueces de Control y de los Tribunales de Juicio Oral de primera instancia en materia penal, estará sujeta a las regiones judiciales y plazos señalados en el artículo transitorio anterior.
+
+Hasta en tanto no se actualicen los plazos previstos en el artículo anterior, continuará en vigor en las regiones judiciales el procedimiento penal establecido en el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado con fecha veintitrés de diciembre de mil novecientos ochenta y seis, de igual forma se entenderán vigentes las disposiciones reformadas por el presente Decreto en la graduación precisada, relativas a la existencia y funcionamiento de los jueces en materia penal.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del Sistema Penal Acusatorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto, en términos de lo dispuesto en el Artículo Cuarto Transitorio del Decreto de reformas a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación con fecha dieciocho de junio de 2008.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
