@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2011-05-20"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -200,6 +200,36 @@ Los diputados tendrán derecho a recibir por igual la dieta, así como las compe
 ###### Artículo 18.
 
 Los Diputados tendrán la obligación de cumplir con las Comisiones, trabajos y demás tareas que el Pleno les encomiende.
+
+ADICIONADO, P.O. 17 DE JUNIO DE 2011)
+
+###### Artículo 18 Bis.
+
+Los diputados deberán rendir cuando menos un informe anual de actividades por escrito, ante los ciudadanos de cada uno de los distritos electorales donde resultaron electos.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 18 Bis 1.
+
+El informe deberá ser presentado dentro del receso del segundo periodo ordinario de sesiones, correspondiente a cada año de ejercicio constitucional de la Legislatura.
+
+Una copia del informe deberá ser entregada a la Comisión de Coordinación y Régimen Interno, para su publicación en el portal de internet del Congreso del Estado.
+
+Junto con la copia del informe, deberá ser presentado un presupuesto de gastos para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 18 Bis 2.
+
+Los recursos que se eroguen serán cubiertos por la Comisión de Coordinación y Régimen Interno, considerando las características de cada distrito y los lineamientos aprobados para tal efecto.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 18 Bis 3.
+
+Los Diputados que no acaten esta disposición, serán sancionados con el equivalente a quince días a su percepción diaria bruta.
+
+Los recursos que se obtengan por este concepto serán destinados al objeto que determine la Comisión de Coordinación y Régimen Interno.
 
 ###### Artículo 19.
 
@@ -1725,7 +1755,7 @@ Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Pe
 
 ###### Artículo 126.
 
-Terminada la lectura del dictamen que presente la Comisión, o habiéndose otorgado la dispensa que prevé el artículo 112 Bis, el Presidente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
+Artículo 126.- Terminada la lectura del dictamen que presente la Comisión, o habiéndose otorgado la dispensa que prevé el artículo 112 Bis, el Presidente lo someterá al Pleno del Congreso para su discusión, para lo cual ordenará al Primer Secretario elabore una lista de Diputados en contra del dictamen y una lista de los que deseen participar a favor de éste.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2006)</small>
 
@@ -2280,3 +2310,7 @@ Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta ses
 P.O. 20 DE MAYO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
