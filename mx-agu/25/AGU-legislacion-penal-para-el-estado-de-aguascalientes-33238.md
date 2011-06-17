@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-08-30"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1141,7 +1141,9 @@ IV. Negarse injustificadamente y bajo cualquier pretexto, el encargado de admini
 
 V. Negarse indebidamente el encargado de una fuerza pública, requerida legalmente por una autoridad competente, a proporcionar el auxilio solicitado;
 
-VI. Recibir, sin los requisitos constitucionales y legales, el encargado de cualquier establecimiento, destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, a una persona privada de su libertad y mantenerla en ese lugar, sin informar de ello a la autoridad correspondiente; negar que esté privada de su libertad, si lo estuviere, o no cumplir la orden de libertad girada por la autoridad competente;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI. Recibir, sin los requisitos constitucionales y legales, el encargado de cualquier establecimiento, destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, a una persona privada de su libertad y mantenerla en ese lugar, sin informar de ello a la autoridad correspondiente; negar que esté privada de su libertad, si lo estuviere, o no cumplir la orden de libertad girada por la autoridad competente;
 
 VII. No denunciar de manera inmediata a la autoridad competente de una privación ilegal de libertad o no la haga cesar, si esto último estuviere dentro de sus atribuciones; o
 
@@ -1703,11 +1705,17 @@ Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán 
 
 ## TITULO TERCERO. DEL CONTENIDO DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 98.
 
-La Prisión consiste en la privación de la libertad personal del responsable, con la posibilidad de imposición de trabajo y estudio obligatorios, y se ejecutará en los establecimientos o lugares y con las modalidades que al efecto señale la presente legislación, así como la Ley Orgánica de la Administración Pública del Estado.
+La Prisión consiste en la privación de la libertad personal del responsable, con la posibilidad de imposición de trabajo y estudio obligatorios, y se ejecutará en los establecimientos o lugares y con las modalidades que al efecto señale la presente legislación y la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
 
-En toda pena de prisión, se computará el tiempo de la prisión preventiva a favor del sentenciado.
+Tan pronto como un sentenciado a pena de prisión ingrese a un establecimiento, se le realizará un estudio de su personalidad y se establecerá un programa de reinserción social, teniendo en cuenta los datos obtenidos sobre sus necesidades individuales, su capacidad y sus intereses.
+
+Para efecto de esta legislación la reinserción social se entenderá como un conjunto de condiciones y bases del respeto a los derechos humanos, del trabajo, capacitación para el mismo, educación, salud y deporte como medios para garantizar el desarrollo social del sentenciado, procurando que no vuelva a delinquir y lleve una vida de respeto a la norma, en términos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y la normatividad internacional en materia de derechos humanos del que el Estado Mexicano sea parte.
+
+En toda pena de prisión, se computará el tiempo de la prisión preventiva y el arraigo a favor del sentenciado.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2009)</small>
 
@@ -1793,15 +1801,17 @@ El pago de la reparación de los daños y perjuicios tiene el carácter de pena 
 
 Cuando sean varios los responsables en la comisión del hecho delictivo, el pago de la reparación de los daños y perjuicios, se hará en forma mancomunada y solidaria.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 108.
 
-Los tribunales y autoridades competentes, teniendo en cuenta el monto establecido como pago de los daños y perjuicios ocasionados y la situación económica del responsable, podrán fijar plazos para cubrir su importe, los que en conjunto no excederán de un año, debiendo para ello exigir garantías suficientes. Si se establecen tales pagos diferidos, se fijarán los intereses legales correspondientes, tanto de carácter ordinario como moratorios.
+La autoridad judicial, teniendo en cuenta el monto que haya sido establecido por concepto de pago de daños y perjuicios y la situación económica del responsable, podrá fijar los plazos para cubrir su importe, los que en conjunto no excederán de un año, debiendo para ello exigir garantías suficientes. Si se establecen tales pagos diferidos, se fijaran los intereses legales correspondientes, tanto de carácter ordinario como moratorios.
 
-Esta facultad también podrá observarse por la autoridad ejecutora, cuando el sentenciado se encuentre con la posibilidad de obtener determinados estímulos o beneficios respecto a la pena de prisión que se le haya impuesto.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 109.
 
-Si el responsable se niega a pagar voluntariamente el monto de la reparación de los daños y perjuicios, se estará a lo dispuesto en la presente legislación.
+Si el responsable se niega a pagar voluntariamente el monto de la reparación de los daños y perjuicios, se estará a lo dispuesto en la presente legislación y a la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
 
 ###### Artículo 110.
 
@@ -1881,11 +1891,13 @@ c) Si los objetos no reúnen las características descritas en el inciso anterio
 
 La Caución consiste en la garantía sobre la posesión de las cosas y para no ofender. Será establecida en la sentencia por la autoridad jurisdiccional, a petición del Ministerio Público, en aquellos casos en que sea necesaria, y se hará efectiva cuando el sentenciado altere los objetos de que tenga posesión, o realice actos de molestia a las personas que se ordene no incomodar. El monto se fijará en base al valor de las cosas que se entreguen en posesión o de las características de la persona objeto de protección.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 119.
 
-Cuando en la sentencia se determine la suspensión condicional de la pena de prisión, se podrá ordenar, a petición del Ministerio Público, la Vigilancia de la Autoridad Ejecutora sobre el sentenciado, cuya duración no podrá exceder de la correspondiente a la pena de prisión impuesta.
+Cuando en la sentencia se determine la suspensión condicional de la pena de prisión, la vigilancia de su cumplimiento le corresponderá a la autoridad judicial. Tal vigilancia no podrá exceder a la pena de prisión impuesta.
 
-La vigilancia consistirá en ejercer sobre el sentenciado, observación y orientación de su conducta, por personal especializado dependiente de la autoridad ejecutora, para coadyuvar a la reeducación social del sentenciado y a la protección de la comunidad. El no cumplimiento de las indicaciones de la autoridad ejecutora a cargo del sentenciado, se considera causa suficiente para revocar el beneficio de la suspensión.
+La vigilancia consistirá en ejercer sobre el sentenciado, observación y orientación de su conducta, por personal especializado dependiente del Juez de Ejecución, para coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad. El no cumplimiento de las indicaciones de la autoridad judicial a cargo del sentenciado, se considera causa suficiente para revocar el beneficio de la suspensión.
 
 ###### Artículo 120.
 
@@ -2067,11 +2079,11 @@ A nadie se le aplicará una pena o medida de seguridad, sino después de haberse
 
 Ninguna persona podrá ser procesada, penada o sometida a una medida de seguridad, sino por los tribunales o instituciones designadas y facultadas por la presente Legislación, antes del hecho de la causa.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 142.
 
-Corresponde exclusivamente a los tribunales del Estado todo lo relativo a la imposición de penas y medidas de seguridad, y a las autoridades correspondientes del Poder Ejecutivo, lo concerniente a la exacta aplicación de las mismas en los términos de las leyes de la materia.
+Corresponde exclusivamente a los tribunales del Estado todo lo relativo a la imposición de penas y medidas de seguridad así como la exacta aplicación de las mismas en los términos de las leyes de la materia.
 
 ###### Artículo 143.
 
@@ -2087,9 +2099,9 @@ La instrucción comprende, del auto de formal prisión al auto que la declara ce
 
 III. La del juicio, que comprende del auto que declara cerrada la instrucción a la sentencia ejecutoria. En esta etapa, el Ministerio Público funda su acusación y el inculpado su defensa ante la autoridad judicial, la cual valorará los medios probatorios aportados para pronunciar la sentencia definitiva; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-IV. La de ejecución, que comprende el momento en que el sentenciado es puesto a disposición del Ejecutivo por virtud de sentencia ejecutoriada, para que cumpla con la sentencia, hasta la extinción de las penas y medidas de seguridad aplicadas. En la solicitud de los beneficios de preliberación o de libertad preparatoria deberá intervenir el Ministerio Público, para resolver lo relativo a la adecuación de las penas o medidas de seguridad.
+IV. La de ejecución, que comprende el momento en que el sentenciado es puesto a disposición del Juez de Ejecución por virtud de sentencia ejecutoriada, para que cumpla con la sentencia, hasta la extinción de las penas y medidas de seguridad aplicadas. En la solicitud de los beneficios de preliberación o de libertad preparatoria deberá intervenir el Ministerio Público, para resolver lo relativo a la adecuación de las penas o medidas de seguridad.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2131,7 +2143,9 @@ Reconocida la personalidad procesal de la víctima u ofendidos del hecho punible
 
 Corresponde al Ministerio Público, en los términos previstos por los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos y 60 de la Constitución Política del Estado de Aguascalientes, la investigación de los hechos punibles y la persecución de sus autores, partícipes y cómplices, del ejercicio de la acción penal y de la acusación que corresponda en el procedimiento, ante los tribunales e instituciones facultadas del Estado. Con este propósito, realizará todos los actos necesarios para cumplir este fin, conforme a las disposiciones de esta legislación y a la ley que lo organiza.
 
-Será responsable, específicamente, el de integrar la averiguación previa, dirigir a la policía y a sus auxiliares en tales funciones, y tendrá el carácter de autoridad durante esta fase, con pleno respeto a la investidura jurisdiccional; de sujeto procesal en las fases de la averiguación procesal y del juicio, y de supervisor en la etapa de ejecución. Tratándose de procedimientos penales especiales, el Ministerio Público tendrá la intervención que esta legislación específicamente le señale.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Será responsable, específicamente, el de integrar la averiguación previa, dirigir a la policía y a sus auxiliares en tales funciones, y tendrá el carácter de autoridad durante esta fase, con pleno respeto a la investidura jurisdiccional; de sujeto procesal en las fases de la averiguación procesal, juicio y de ejecución. Tratándose de procedimientos penales especiales, el Ministerio Público tendrá la intervención que esta legislación específicamente le señale.
 
 ###### Artículo 150.
 
@@ -2231,7 +2245,9 @@ I. Determinar cuando un hecho punible constituye o no delito;
 
 II. Declarar sobre la existencia o no existencia de la responsabilidad penal de las personas consideradas como probables responsables en la comisión de un delito; y
 
-III. Imponer las penas y medidas de seguridad que se establecen en la presente Legislación.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Imponer las penas y medidas de seguridad que se establecen en la presente legislación y conforme a lo dispuesto por la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes.
 
 ###### Artículo 163.
 
@@ -2383,13 +2399,17 @@ En la primera oportunidad, el inculpado será identificado por su nombre, datos 
 
 Durante el desarrollo del procedimiento, se tomarán fotografías del inculpado o se podrá recurrir a la identificación dactiloscópica o a otro medio semejante, aún contra su voluntad, pero ello no implicará su ingreso en un registro o antecedente penal, que solamente podrá establecerse con sentencia condenatoria firme. Tal fotografía e identificación dactiloscópica se agregará necesariamente a las constancias de actuación que correspondan, previa la determinación que señale a una persona como posible autor, partícipe o cómplice de un hecho punible, por parte de las autoridades facultadas para la persecución penal.
 
-En todo caso la expedición de constancias de antecedentes penales, le corresponderá a las autoridades encargadas de la ejecución de las penas y medidas de seguridad, y sólo a solicitud de las autoridades judiciales en materia penal, para los efectos procedimentales a que haya lugar, y para aquellos casos en que leyes específicas así lo establezcan.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En todo caso la expedición de constancias de antecedentes penales, le corresponderá al Juez de Ejecución, y sólo a solicitud de otras autoridades judiciales en materia penal, para los efectos procedimentales a que haya lugar, y para aquellos casos en que leyes específicas así lo establezcan.
 
 ###### Artículo 182.
 
 El inculpado deberá proporcionar en la primera oportunidad su domicilio real y fijar su domicilio dentro de la jurisdicción de la autoridad que conozca del asunto, y con posterioridad mantendrá actualizados esos domicilios, comunicando al Ministerio Público o al tribunal, según el caso, las variaciones que sufrieren.
 
-La inexactitud de su domicilio real será considerada como indicio de fuga, con todas las consecuencias legales que ello implique, pero las notificaciones realizadas en el domicilio especial, serán válidas. Si tal situación se presenta en la etapa de ejecución y el sentenciado se encuentra gozando de algún beneficio respecto de la pena de prisión que se le haya impuesto, se informará de ello a la autoridad judicial que conoció del asunto, para el efecto de que se ordene la búsqueda y captura del sentenciado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La inexactitud de su domicilio real será considerada como indicio de fuga, con todas las consecuencias legales que ello implique, pero las notificaciones realizadas en el domicilio especial, serán válidas. Si tal situación se presenta en la etapa de ejecución y el sentenciado se encuentra gozando de algún beneficio respecto de la pena de prisión que se le haya impuesto, se informará de ello al Juez de Ejecución para el efecto de que se ordene la búsqueda y captura del sentenciado.
 
 ###### Artículo 183.
 
@@ -2527,13 +2547,17 @@ II. Participe con el inculpado en una asociación ilícita que guarde relación 
 
 III. Participe en la evasión del inculpado o en su tentativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 204.
 
-Los defensores serán admitidos por el Ministerio Público, por el tribunal o autoridad competente, así como por las autoridades encargadas de la ejecución de las penas y medidas de seguridad.
+Los defensores serán admitidos por el Ministerio Público así como por la autoridad judicial competente.
 
 El defensor designado en la averiguación previa o en el término constitucional fijado para resolver la situación jurídica del inculpado, seguirá teniendo tal carácter en todas las etapas e instancias del procedimiento, mientras no se haga nuevo nombramiento.
 
-Para dictar las resoluciones sobre la exclusión de un defensor y sobre su revocación, será competente el Supremo Tribunal de Justicia. Al efecto, el Ministerio Público, los tribunales de primera instancia o autoridades competentes, incluidas las encargadas de la ejecución de penas y medidas de seguridad, ante las cuales penda el procedimiento, efectuarán la petición, cuando adviertan un motivo de exclusión, con todos los elementos disponibles para fundarla.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Para dictar las resoluciones sobre la exclusión de un defensor y sobre su revocación, será competente el Supremo Tribunal de Justicia. Al efecto, el Ministerio Público, los tribunales de primera instancia, incluido el Juez de Ejecución, ante las cuales penda el procedimiento, efectuarán la petición, cuando adviertan un motivo de exclusión, con todos los elementos disponibles para fundarla.
 
 El Supremo Tribunal de Justicia podrá ordenar en caso necesario, una investigación, encomendando a uno de sus miembros que la lleve a cabo y, previa audiencia del defensor cuestionado, emitirá la decisión. La revocación procederá de oficio o a petición fundada de parte interesada.
 
@@ -2929,17 +2953,21 @@ Las notificaciones personales se harán en el tribunal, o en el domicilio design
 
 Si el que debe ser notificado se niega a recibir al servidor público encargado de hacer la notificación, o las personas que residen en el domicilio se rehusan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará la cédula en la puerta de la entrada, asentándose razón en autos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 270.
 
-Si se probase que una notificación decretada se hizo en forma distinta a lo previsto por este Código, los sujetos procesales interesados podrán promover su nulidad, mediante el trámite previsto para incidente no especificado, nulificándose además, las actuaciones que de dicha mala notificación se deriven y el encargado de hacerla será responsable de los daños y perjuicios que ocasione la falta y se le juzgará con arreglo a la ley si actuó dolosamente. En caso contrario, se le impondrá alguna corrección disciplinaria.
+Si se probase que una notificación decretada se hizo en forma distinta a lo previsto por esta Legislación, los sujetos procesales interesados podrán promover su nulidad, mediante el trámite previsto para incidente no especificado, nulificándose además, las actuaciones que de dicha mala notificación se deriven y el encargado de hacerla será responsable de los daños y perjuicios que ocasione la falta y se le juzgará con arreglo a la ley si actuó dolosamente. En caso contrario, se le impondrá alguna corrección disciplinaria.
 
 Si una notificación que sin ser personal, se notifica de esta forma, surtirá plenos efectos y no habrá lugar a lo previsto en el párrafo anterior.
 
 Si se demuestra que falsamente se asentó como hecha una notificación no realizada, se dará vista al Ministerio Público para lo que legalmente proceda.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 271.
 
-Si a pesar de no haberse hecho la notificación en la forma que previene este código, la persona que debe ser notificada se muestra sabedora de la providencia, se tendrá por hecha la notificación, sin perjuicio de aplicar, en lo conducente, la corrección que corresponda al servidor público encargado de realizarlas.
+Si a pesar de no haberse hecho la notificación en la forma que previene esta Legislación, la persona que debe ser notificada se muestra sabedora de la providencia, se tendrá por hecha la notificación, sin perjuicio de aplicar, en lo conducente, la corrección que corresponda al servidor público encargado de realizarlas.
 
 ###### Artículo 272.
 
@@ -3741,15 +3769,35 @@ La solicitud de aclaración de la sentencia interrumpe el plazo señalado para l
 
 La pena de prisión puede ser sustituida por el juez, en procesos seguidos por hechos punibles no considerados como figuras típicas graves por esta Legislación, atendiendo a las condiciones personales del sentenciado, por:
 
-I. Multa, cuando no exceda de dos años;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+I. Multa o trabajo en favor de la comunidad, cuando no exceda de dos años;
 
 II. Tratamiento en libertad, cuando no exceda de tres años; y
 
 III. Semilibertad, cuando no exceda de cuatro años.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En el caso de la Fracción I, la pena de prisión podrá ser sustituida de uno a dos tantos de la multa impuesta en la sentencia que corresponda.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+###### Artículo 365 Bis.
+
+El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales. Este trabajo se llevara a cabo en jornadas dentro de periodos distintos al horario de las labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Por ningún concepto se desarrollara este trabajo en forma que resulte degradante o humillante para el condenado.
+
+El trabajo en favor de la comunidad puede ser sustitutivo tanto de la prisión o de la multa.
+
+Cada día de prisión será sustituido por una jornada de trabajo en favor de la comunidad.
+
+La extensión de la prestación de las jornadas de trabajo a favor de la comunidad será fijada por el Juez de Ejecución tomando en cuenta las circunstancias del caso, pero no podrá exceder de la correspondiente a la pena de prisión sustituida.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 366.
 
-El Tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas y curativas autorizadas por esta legislación y conducentes a la reeducación social del responsable, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+El tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas, curativas y deportivas conducentes a la reinserción social del sentenciado, bajo la orientación y el cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
 ###### Artículo 367.
 
@@ -3795,9 +3843,13 @@ V. Que no haya necesidad de sustituir la pena de prisión, en función del fin p
 
 Para gozar del beneficio de la suspensión condicional, el sentenciado deberá:
 
-I. Garantizar su comparecencia ante la autoridad ejecutora, cada vez que sea requerido y no causar daños o molestias a la víctima u ofendidos del hecho;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-II. Obligarse a residir en determinado lugar e informar cualquier cambio de residencia a la autoridad ejecutora;
+l. Garantizar su comparecencia ante el Juez de Ejecución, cada vez que sea requerido y no causar daños o molestias a la víctima u ofendidos del hecho;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+II. Obligarse a residir en determinado lugar e informar cualquier cambio de residencia al Juez de Ejecución;
 
 III. Comprobar que desarrollará una ocupación lícita; y
 
@@ -3811,11 +3863,15 @@ La suspensión condicional de la pena de prisión comprenderá la multa que haya
 
 La suspensión condicional tendrá la duración de la pena de prisión suspendida. Transcurrido el término, se considerará extinguida la pena de prisión impuesta, siempre que el sentenciado no diere motivo para un nuevo procedimiento penal que concluya con sentencia condenatoria. Si esto sucediere, se ejecutarán en forma sucesiva ambas sentencias.
 
-Si el beneficiado no cumpliere con las obligaciones contraídas, se podrá hacer efectiva la pena de prisión aplicada en su totalidad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Si el beneficiado no cumpliere con las obligaciones contraídas, se podrá hacer efectiva la pena de prisión aplicada en su totalidad. En este caso, el Juez de Ejecución, con audiencia del interesado, procederá a decidir sobre la revocación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 375.
 
-El sentenciado que considere que al dictarse su sentencia reunía las condiciones para el disfrute de la sustitución o de la suspensión condicional, y por inadvertencia de su parte o del Juez no se le hubieren otorgado, se podrá promover su concesión mediante el trámite de un incidente.
+El sentenciado que considere que al dictarse su sentencia reunía las condiciones para el disfrute de la sustitución de la pena de prisión o de la suspensión condicional, y por inadvertencia de su parte o del Juez no se le hubieren otorgado, podrá promover su concesión mediante el trámite de un incidente ante el Juez de Ejecución conforme a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
 
 Toda resolución relativa a sustitución de prisión u otorgamiento de suspensión condicional de pena de prisión, será notificada inmediatamente a la entidad dependiente del Poder Ejecutivo encargada de la ejecución de las penas y medidas de seguridad, para provocar la participación de ésta en lo que legalmente le corresponda, precisamente para informar si existen las condiciones operativas para llevarla a cabo.
 
@@ -3835,9 +3891,17 @@ Tal acuerdo será notificado personalmente:
 
 I. Al sentenciado;
 
-II. A la Procuraduría General de Justicia en el Estado; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-III. A la autoridad encargada de la ejecución de las penas y medidas de seguridad.
+II. A la Procuraduría General de Justicia en el Estado;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. Al Juez de Ejecución de Penas; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. A la Dirección General de Reinserción Social.
 
 Con tal notificación se les hará entrega de las copias autorizadas de la sentencia y de la declaración de ejecutoria, necesarias para que se inicie la fase de ejecución. En caso de que el sentenciado se encuentre privado de la libertad, se computará el tiempo de privación de libertad preventiva. Si el sentenciado se encuentra privado de la libertad por estar en fase de ejecución diversa pena de prisión, se indicará el momento en que ésta última debe iniciar su propia ejecución. Se encuentra estrictamente prohibida la práctica de ejecutar diversas penas de prisión en forma simultánea.
 
@@ -5079,9 +5143,11 @@ En ningún caso, la Secretaría de Finanzas del Estado podrá disponer del capit
 
 No se ejecutará pena o medida de seguridad sino después de que la sentencia que la imponga haya causado ejecutoria, salvo las medidas de seguridad que expresamente establezca la ley en los procedimientos especiales.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 543.
 
-El Ejecutivo del Estado a través de la Dirección General de Reeducación Social, tendrá a su cargo la ejecución de las penas y medidas de seguridad, en términos de lo previsto por la presente Legislación, con las variables y limitaciones que al efecto se señalen.
+El Ejecutivo del Estado a través de la Dirección General de Reinserción Social, tendrá a su cargo la ejecución material de las penas y medidas de seguridad, en términos de lo previsto por la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, con las variables y limitaciones que al efecto se señalen; y siempre bajo la vigilancia y garantía de los Jueces de Ejecución de penas.
 
 ###### Artículo 544.
 
@@ -5089,275 +5155,147 @@ Es obligación del Ministerio Público, vigilar y promover lo conducente, a fin 
 
 ###### Artículo 545.
 
-Por cada sentencia ejecutoria que sea remitida por los tribunales del Estado a la autoridad ejecutora, se abrirá el correspondiente expediente de ejecución, en el cual se llevará noticia de los acuerdos y del cumplimiento exacto de las penas y medidas de seguridad que se hayan ordenado y ejecutado. Las constancias del expediente de ejecución se ajustarán a las formalidades exigidas para las actuaciones en las primeras fases del procedimiento penal señaladas en la presente legislación. Cumplida alguna pena o medida de seguridad, la autoridad ejecutora lo informará a la autoridad judicial correspondiente y a la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 546.
 
-La pena de prisión se ejecutará en los Centros de Reeducación Social para Varones y para Mujeres en el Estado, destinados para el efecto.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 547.
 
-En los referidos centros, se implantará un régimen de reeducación basado en la individualización del tratamiento y en el estudio y trabajo, cuya finalidad inmediata es la de modificar las tendencias, inclinaciones y predisposiciones antisociales del sentenciado, así como de facilitarles la adquisición de conocimientos que puedan serles útiles en su vida libre.
-
-Para la mejor individualización del tratamiento, se clasificará a los internos en instituciones especializadas entre las que podrán configurar establecimientos de seguridad máxima, media y mínima, así como instituciones psiquiátricas especializadas en el tratamiento de inimputables permanentes o transitorios.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 548.
 
-La pena de prisión no tiene por objeto infligir sufrimientos físicos, ni humillar la dignidad personal de los sentenciados, por lo que el tratamiento que se les aplique deberá estar exento de toda violencia, tortura o maltrato corporal.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 549.
 
-El expediente de ejecución no solamente se integrará con la copia certificada de la sentencia definitiva, sino que debe agregarse necesariamente la identificación mediante la signación antropométrica, ficha dactiloscópica y fotográfica, así como el día y hora de su ingreso al centro de prisión preventiva y al propio para la ejecución de la pena de prisión.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 550.
 
-Toda persona que ingrese a un Centro de Reeducación Social por motivo de ejecución de una pena de prisión, se le abrirá expediente médico en el que se establezca su estado físico y mental y conocer su historia clínica; asimismo se le realizarán los exámenes que sean necesarios para ubicar su nivel cultural y comprobar sus capacidades y habilidades para la realización de actividades laborales.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 551.
 
-A su ingreso al Centro correspondiente, el sentenciado recibirá una información por escrito, seguida de las explicaciones verbales necesarias, acerca del régimen a que se le someterá, de las normas de conducta que debe observar, del sistema disciplinario, de las reglas para formular peticiones o quejas, y toda aquella información relacionada con sus obligaciones al interior del Centro, a fin de permitirles su adaptación a la vida del establecimiento.
-
-El dinero, los objetos de valor y demás bienes propios que el interno posea a su cargo, serán mantenidos en depósito, previo inventario y recibo.
-
-Tales objetos le serán devueltos al obtener su libertad, o antes, a petición del interno o de sus familiares.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 552.
 
-En el expediente de ejecución se incluirán los resultados de los estudios que se le practiquen al sentenciado, así como la copia de los dictámenes de personalidad que se hayan realizado durante el desarrollo de la fase principal del procedimiento.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 553.
 
-En el expediente de ejecución se destacarán, además, las siguientes secciones:
-
-I. De Comportamiento, donde se harán constar los antecedentes sobre la conducta del interno, las sanciones disciplinarias de que haya sido objeto, así como de los estímulos y recompensas que haya recibido;
-
-II. Médico - Psiquiátrico, donde se incluirán los estudios que se le realicen respecto de su estado de salud física y mental;
-
-III. De Desarrollo Humano y Formativo, donde se establecerá el grado inicial de instrucción, así como los progresos y calificaciones durante su estancia en el establecimiento, así como su desarrollo en los valores personales y de convivencia;
-
-IV. Laboral, que comprenderá el grado inicial de aptitud para el trabajo, así como las labores desempeñadas y el grado de capacitación para el trabajo que se obtenga;
-
-V. Social, que comprenderá el estudio del ámbito social y familiar del interno, así como su nivel de vida; y
-
-VI. Psicocriminológico, en donde se establecerán los avances en su tratamiento y el grado de probabilidad de reincidencia.
-
-El régimen penitenciario tendrá carácter progresivo y técnico y constará para su desarrollo de los siguientes períodos:
-
-a) Estudio Inicial;
-
-b) Diagnóstico;
-
-c) Tratamiento; y
-
-d) Reintegración.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 554.
 
-Tomando en cuenta los resultados en la integración de los expedientes de ejecución, el sentenciado será clasificado en grupos de acuerdo con su capacidad, salud mental y física.
-
-El estudio integral de personalidad del sentenciado, deberá de actualizarse con una periodicidad de seis meses a fin de constatar el grado de avance que registre durante dicho período en su proceso de reeducación social.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 555.
 
-Los hechos meritorios del sentenciado serán objeto de los siguientes estímulos y beneficios, que serán debidamente documentados en el expediente de ejecución:
-
-I. Libertad de movimiento dentro del establecimiento;
-
-II. Concesión extraordinaria de comunicaciones y visitas;
-
-III. Exención de servicios manuales no retribuidos;
-
-IV. Empleo de cargos o comisiones auxiliares de confianza;
-
-V. Preliberación;
-
-VI. Libertad Preparatoria; e
-
-VII. Indulto.
-
-El período de reintegración se iniciará con la obtención de la libertad preliberacional, preparatoria o definitiva. Durante este período se proporcionará a los liberados ayuda, a fin de reincorporarlos al medio social por medio de los organismos especializados para ello, sean de carácter privado o público.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 556.
 
-La autoridad de los Centros de Reeducación Social concederá discrecionalmente el estímulo que corresponda, dando al sentenciado la oportunidad de elección entre aquellos que hubiese obtenido por su conducta, sin considerar la Preliberación, la Libertad Preparatoria y el Indulto, cuyo otorgamiento se maneja con criterios legales diferentes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 557.
 
-La libertad preparatoria se otorgará al sentenciado cuando se trate de figura típica no grave y se cumplan los siguientes requisitos:
-
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
-
-I. Que no se trate de interno reincidente, o que no haya sido sentenciado por el delito de secuestro en cualquiera de sus modalidades;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
-
-II. Haber cumplido dos quintas partes de la condena impuesta por el juez de la causa;
-
-III. Haber observado durante su internamiento buena conducta, sin limitarse al simple cumplimiento de los reglamentos del centro, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, y que ello revele un afán constante de reeducación social;
-
-IV. Ofrecer dedicarse en un plazo determinado en el acuerdo de otorgamiento del beneficio, a un oficio, arte, industria, profesión o cualquier otra actividad honesta para vivir; y
-
-V. Que haya reparado totalmente los daños y perjuicios causados o se establezca convenio de pago, en términos de la presente Legislación, ante la autoridad judicial.
-
-Para otorgar tal libertad preparatoria, debe acreditarse que el sentenciado efectivamente se encuentra reeducado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 558.
 
-La preliberación consiste en la obtención de permisos de salida diaria con reclusión nocturna, así como reclusión entre semana con salida de fin de semana (sábado y domingo), y se otorgará a todo sentenciado que cumpla con los requisitos señalados para la libertad preparatoria, y un año antes de que se cumplan los términos de reclusión fijados para el efecto.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 559.
 
-La solicitud del sentenciado que crea tener derecho a los beneficios de la preliberación o de libertad preparatoria, la dirigirá por escrito a la Dirección General de Reeducación Social, con copia a la dirección del Centro de Reeducación correspondiente. Recibida la solicitud, se analizará el expediente de ejecución, el informe que emite el Director del Centro con apoyo del Consejo Técnico Interdisciplinario y se resolverá sobre la procedencia de la misma, en un término no mayor de cinco días. Si se autoriza el beneficio por la autoridad del centro, se dará vista al Ministerio Público responsable de la Ejecución de Penas, para que emita Determinación al respecto en un término de tres días. Con determinación o sin ella, la autoridad encargada resolverá lo conducente en un término no mayor de ocho días, la que se notificará por escrito al interesado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 560.
 
-Los sentenciados que disfruten de la preliberación o de la libertad preparatoria, quedarán sujetos a la vigilancia de Dirección General de Reeducación Social por el tiempo que les faltare para cumplir con la pena de prisión.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 561.
 
-Cuando el beneficiado con la preliberación o la libertad preparatoria deje de cumplir alguna de las condiciones establecidas en la resolución que haya otorgado el beneficio o participe en otro hecho delictivo doloso declarado como tal por sentencia ejecutoria, se le privará nuevamente de la libertad para que extinga toda la parte de la prisión que no se haya ejecutado directamente, con la correspondiente revocación del beneficio concedido.
-
-En su caso, si el sentenciado que incumple con las condiciones establecidas se encuentra gozando de su libertad, la autoridad a cargo de la ejecución solicitará al juez de la causa, gire la correspondiente orden de reaprehensión.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 562.
 
-El indulto es una gracia del titular del Poder Ejecutivo, no constituye derecho en favor de persona alguna.
-
-A. El indulto procede en los casos siguientes:
-
-I. Cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado;
-
-II. Cuando el sentenciado haya alcanzado su efectiva reeducación según el dictamen del área técnica, cumpla con su trabajo, haya observado buena conducta, participado en las actividades educativas que se organicen, que se destaque en alguna actividad a favor de diversa persona o en beneficio del centro correspondiente y que exista la opinión de la Procuraduría General de Justicia en el Estado, en la vista previa dentro del expediente de ejecución;
-
-III. Cuando el sentenciado haya contraído una enfermedad infecciosa y mortal que ya no pueda ser controlada médicamente o se encuentra en estado avanzado de senectud, siempre y cuando esta circunstancia convierta la pena de prisión en una sanción de imposible ejecución por las condiciones de deterioro que presente el sentenciado;
-
-IV. Haber cumplido una quinta parte de la condena impuesta por el juez de la causa, cuando ésta no exceda de quince años; o
-
-V. Que tengan cumplidas las dos quintas partes de la pena, si la sanción es de más de quince años.
-
-B. No se concederá el indulto:
-
-I. Al sentenciado que tenga el carácter de reincidente, y tampoco a quien hubiere sido condenado por sentencia ejecutoria por delito intencional o doloso, aún cuando no fuera grave, durante un lapso de diez años anteriores;
-
-II. Los que hubieren sido condenados por sentencia ejecutoria varias veces, durante los diez años anteriores a partir de la ejecución de la pena o hubieren sido indultados dentro de los propios lapsos;
-
-III. Los que por sus antecedentes o conducta dentro del Centro de Reeducación Social revelen un estado peligroso que haga aconsejable su no reintegración al seno de la sociedad, a juicio del área técnica del Centro; y
-
-IV. Los sentenciados por homicidio calificado, secuestro, secuestro exprés, violación, violación equiparada, abuso sexual, abuso sexual equiparado, corrupción de menores, tráfico de menores, extorsión, robo calificado con violencia física o moral al cometerlo.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 563.
 
-El indulto que otorgue el titular del Poder Ejecutivo, no comprende las penas de inhabilitación, de invalidación o de suspensión para el ejercicio de profesiones, derechos civiles o políticos y para desempeñar determinado cargo o empleo, y es sin perjuicio de la responsabilidad civil en que hubieren incurrido los reos y del derecho de los interesados para exigir en la forma legal el pago de la reparación del daño causado por la comisión de un hecho punible que constituya una figura típica.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 564.
 
-Las solicitudes de indulto deberán ser dirigidas al titular del Poder Ejecutivo, acompañadas de los documentos siguientes:
-
-I. Copia certificada de la parte resolutiva de la sentencia ejecutoria;
-
-II. Informe del Centro correspondiente, de la fecha de ingreso al Centro y de si ha gozado el reo de libertad caucional, así como de la conducta observada por el interesado o interesada y si aparece en los registros del Centro con ingresos anteriores y a las penas a que haya sido condenado o condenada; e
-
-III. Informe sobre antecedentes policíacos y toxicomanía del solicitante; así como si es o no ebrio habitual.
-
-Las autoridades que deban expedir las constancias a que se refiere el párrafo anterior, lo harán sin costo alguno y con carácter urgente, y las remitirán inmediatamente a la autoridad que la solicite; su incumplimiento será causa de responsabilidad administrativa.
-
-La solicitud del indulto, se integrará al expediente respectivo de ejecución, al que se agregarán las pruebas suficientes para comprobar su procedencia. Una vez analizado el expediente de ejecución por las autoridades competentes, el Director del Centro lo remitirá al titular del Poder Ejecutivo del Estado, el cual dictará la resolución que corresponda dentro del término de treinta días.
-
-El titular del Poder Ejecutivo del Estado, regresará el expediente respectivo al Centro correspondiente, acompañando el acuerdo dictado al efecto para su ejecución, que será notificado personalmente al sentenciado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 565.
 
-Una vez declarada la sentencia ejecutoria, que deberá clarificar plenamente el monto relativo a reparación de daños y perjuicios, así como las personas beneficiarias, de oficio o a petición de parte, se requerirá al sentenciado para que realice su pago en forma voluntaria, en un plazo que no excederá de 5 días hábiles, en caso de que tal pago no se haya realizado o que existiera constancia fehaciente de la víctima u ofendidos, de que ya se pagaron tales daños y perjuicios.
-
-En caso de no hacerlo, se tomarán en cuenta las siguientes disposiciones:
-
-I. Si el sentenciado obtuvo durante el trámite del procedimiento el beneficio de la libertad provisional bajo caución, se ordenará la aplicación de la garantía al pago correspondiente. Si fuese depósito ante la Secretaría de Finanzas o Institución de Crédito, se hará la entrega del billete de depósito correspondiente al beneficiario. Si fuese garantía hipotecaría, se realizará el trámite correspondiente de remate, en términos de lo previsto por el Código de Procedimientos Civiles en el Estado. Si se otorgó póliza de garantía de compañía autorizada para ello, iniciará el trámite previsto por la Ley Federal de Instituciones de Fianzas;
-
-II. Si se ordenó se hiciera efectiva la garantía durante el procedimiento y fue depositada en el fondo de apoyo a las víctimas del delito que administrará la unidad o entidad gubernamental que para el efecto se determine, se solicitará a esta, disponga de la cantidad correspondiente del fondo común a su cargo, para ser entregada a los beneficiarios;
-
-III. Si se ordenó el embargo precautorio de bienes durante el procedimiento, se procederá a su remate en términos de lo previsto por el Código de Procedimientos Civiles en el Estado;
-
-IV. Si no existe garantía alguna, se informará de ello a la Dirección General de Reeducación Social, para que en el correspondiente expediente de ejecución del sentenciado, se hagan los descuentos correspondientes para el efecto, en caso de que el obligado al pago, realice actividades laborales remuneradas.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 566.
 
-Todas las cantidades que se reciban por concepto de pago de reparación de daños y perjuicios, serán entregadas inmediatamente a los ofendidos o sus beneficiarios, quienes expedirán los recibos correspondientes, cuyos originales serán entregados al sentenciado, dejando una copia de los mismos en el expediente de ejecución correspondiente de la Dirección General de Reeducación Social, para constancia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 567.
 
-Estas disposiciones serán aplicables, en lo conducente, cuando se trate de ejecutar el pago de reparación de daños y perjuicios en los procedimientos especiales para inimputables.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 568.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, debe ejercitarse por quien tenga derecho a ello, ante el tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los tribunales del fuero civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el procedimiento sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando, concluida la instrucción, no hubiese lugar a juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
-
-Cuando promovidas las dos acciones hubiese concluido el procedimiento sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 569.
 
-Todos los incidentes sobre reparación del daño exigible a terceras personas, que se sigan ante los tribunales penales, se tramitarán y decidirán conforme a lo que disponga el Código de Procedimientos Civiles para los juicios únicos y se tramitará por separado. Las notificaciones se harán en la forma que señala éste Código.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 570.
 
-Si el incidente llega al estado de alegar antes de que se concluya la instrucción, se suspenderá hasta que el procedimiento se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del procedimiento penal.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 571.
 
-En el caso de hallarse prófugo el procesado, se continuará la tramitación del incidente hasta dictarse sentencia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 572.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará el monto de la pena de multa que se haya aplicado, para el efecto de requerir al sentenciado a su pago voluntario, fijándosele un plazo de diez días para ello.
-
-Si el pago no se realiza en tal plazo, se procederá en términos de lo previsto por el Código Fiscal del Estado, en lo relativo al procedimiento administrativo de ejecución, quedando su trámite a cargo del personal de la autoridad ejecutora en colaboración con la Secretaría de Finanzas del Estado.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 573.
 
-Todas las cantidades que perciba el personal de la autoridad ejecutora por concepto de pago de multas, serán remitidas inmediatamente a la Secretaría de Finanzas del Estado, quien expedirá los recibos correspondientes, cuyos originales serán entregados al sentenciado, dejando una copia de los mismos en el expediente de ejecución, para constancia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 574.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si existe alguna pena relativa a suspensión, privación e inhabilitación de derechos, funciones, cargos, comisiones, empleos o profesiones, para el efecto de que mantenga la vigilancia correspondiente sobre el sentenciado durante el tiempo que dure la pena, y se cumpla la misma en los términos que fijen los tribunales.
-
-En cuanto se tenga conocimiento de que alguna entidad pública o privada pretenda habilitar al sentenciado en la función, cargo, comisión, empleo o cargo motivo de la suspensión, privación o inhabilitación, le dará a conocer el contenido de la sentencia para que la misma sea cumplida en todos sus términos.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 575.
 
-Una vez recibida copia de la sentencia ejecutoria por la Dirección General de Reeducación Social, si el tribunal ha ordenado su publicación, la tramitará respecto de sus puntos resolutivos en el Periódico Oficial del Estado y en uno de los de mayor circulación en el Estado, y los gastos se cobrarán al sentenciado, en términos de lo previsto para la pena de multa.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 576.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si el tribunal ha ordenado el confinamiento o la prohibición de ir o residir en lugares determinados. Si así fuere, tal autoridad designará al personal de vigilancia correspondiente, para que en caso de incumplimiento por parte del sentenciado, se levante acta, la cual se remitirá a la Procuraduría General de Justicia en el Estado, para la elaboración de la averiguación previa correspondiente.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 577.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si el tribunal ha ordenado el decomiso, destrucción y pérdida de objetos, instrumentos y productos del delito. En ese caso, se determinarán exactamente los objetos a decomisar o destruir, para el efecto de que se hagan los trámites correspondientes por el personal de tal autoridad, y se logre el decomiso y destrucción correspondientes, informando de su ejecución a la Procuraduría General de Justicia en el Estado y a la autoridad judicial que haya emitido la sentencia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 578.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si el tribunal ha ordenado otorgamiento de caución sobre posesión de las cosas y/o para no ofender, la cual será presentada a la mencionada autoridad en cualquiera de las formas aceptadas por la ley.
-
-Una vez otorgada, se establecerá vigilancia sobre el sentenciado para que no altere dolosamente las cosas de las que tenga posesión o no moleste a las personas que se le ordenó no hacerlo, y en caso de que ello ocurra, se procederá a hacer efectiva la garantía en favor de los beneficiarios, en los términos previstos en esta Ley, dependiendo de la clase de garantía aceptada y se comunicará de lo anterior a la Procuraduría General de Justicia para los efectos legales correspondientes, así como a la autoridad judicial que haya emitido la sentencia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 579.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si el tribunal ha ordenado vigilancia de autoridad sobre el sentenciado, y si así fuere, se procederá a establecer la vigilancia correspondiente en los términos ordenados, por lo que cualquier comportamiento inadecuado del sentenciado será comunicado a la Procuraduría General de Justicia en el Estado para los efectos legales correspondientes.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ###### Artículo 580.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General de Reeducación Social verificará si el tribunal ha ordenado aplicación de multa, pago de reparación de daños y perjuicios y/o publicación especial de sentencia en contra de una persona jurídica colectiva. Si así se establece, se hará la ejecución correspondiente en términos de la presente legislación para cada supuesto.
-
-Si de la sentencia se desprende la intervención, suspensión, disolución o liquidación, prohibición para realizar determinados actos u operaciones o remoción de funcionarios, se ordenará al personal de la autoridad ejecutora la realización de los trámites correspondientes ante los tribunales del orden civil del Estado, para que en términos de la ley aplicable correspondiente, se proceda a hacer efectiva la sentencia de carácter penal.
+(DEROGADO, P.O. 17 DE JUNIO DE 2011)
 
 ## TITULO SEGUNDO. DE LAS CAUSAS DE EXTINCION DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -5397,7 +5335,9 @@ La amnistía extingue la acción penal y la potestad de ejecutar las penas impue
 
 El perdón de la víctima u ofendidos en su caso, en los supuestos descritos en la presente legislación, y extingue la potestad de imponer penas y medidas de seguridad.
 
-El perdón siempre deberá ser otorgado para que tenga efectos legales ante el Juez que conoció del proceso en presencia del Ministerio Público.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+El perdón, en la fase de ejecución, siempre deberá ser otorgado para que tenga efectos legales ante el Juez de Ejecución en presencia del Ministerio Público.
 
 ###### Artículo 586.
 
@@ -5413,23 +5353,27 @@ IV. Cuando dos personas hayan sido sentenciadas por el mismo hecho punible con l
 
 V. Cuando el sentenciado lo hubiere sido por los mismos hechos en dos procedimientos diversos. En este caso, será nula la segunda sentencia.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 587.
 
-El sentenciado que se crea con derecho a obtener el reconocimiento de inocencia, presentará solicitud al Supremo Tribunal de Justicia en el Estado en el que expondrá la causa en que funda su petición, anexando los medios probatorios correspondientes o protestando exhibirlos oportunamente. Solo será admitida la prueba documental, salvo que se trate del caso a que se refiere la fracción III del artículo 586 de la presente legislación.
+El sentenciado que se crea con derecho a obtener el reconocimiento de inocencia, presentará solicitud al Juez de Ejecución, en el que expondrá la causa en que funda su petición, anexando los medios probatorios correspondientes o protestando exhibirlos oportunamente. Solo será admitida la prueba documental, salvo que se trate del caso a que se refiere la Fracción III del Artículo 586 de la presente legislación.
 
 En la misma solicitud, designará al Licenciado en Derecho que lo represente durante el trámite del procedimiento, hasta su total conclusión.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 588.
 
-Recibida la solicitud, el Supremo Tribunal de Justicia solicitará los expedientes relacionados y señalará día y hora para el desahogo de los medios probatorios propuestos, citando al Ministerio Público del tribunal donde se haya tramitado el expediente que dio motivo al trámite.
+Recibida la solicitud, el Juez de Ejecución solicitará los expedientes relacionados y señalará día y hora para audiencia oran (sic) en el que se desahogarán los medios probatorios propuestos, citando al Ministerio Público del tribunal donde se haya tramitado el expediente que dio motivo al trámite.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 589.
 
-Desahogadas las pruebas admitidas, se pondrá el expediente a la vista del promovente para que formule alegatos por escrito; si no lo hace, se declarará improcedente la solicitud. Formulados los alegatos, se pondrán a la vista del Ministerio Público, para que los conteste en igual término.
+Desahogadas las pruebas admitidas, las partes formularán sus alegatos oralmente. Una vez realizado lo anterior se declarará cerrado el debate y el Juez de Ejecución resolverá en el momento o a más tardar en un término que no excederá de diez días.
 
-Con respuesta o sin ella, el Supremo Tribunal de Justicia resolverá lo conducente en un término que no excederá de diez días.
+Contra la resolución que emita el Juez de Ejecución procede el recurso de apelación en términos de lo establecido en la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes.
 
 ###### Artículo 590.
 
@@ -5874,3 +5818,45 @@ P.O. 30 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado de Aguascalientes promoverá, una reforma penitenciaria por medio de los sujetos legitimados para ello, a través de la confección de diagnósticos integrales de la situación penitenciaria y la elaboración de la reglamentación secundaria conducente que atienda los aspectos técnicos de su implementación, así como establezca y canalice los recursos financieros y partidas presupuestales, estatales y federales procedentes, para la operación de los proyectos y programas previstos en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a las necesidades y recursos de la Secretaría de Seguridad Pública del Estado se precisará la estructura administrativa de ejecución material de las penas y medidas de seguridad previstas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán realizar los nombramientos de las autoridades especializadas encargadas de la aplicación de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos penales en fase de ejecución que se encuentren en trámite a la entrada en vigor de esta Ley, serán puestos a conocimiento del Juez de Ejecución para que comience con el ejercicio de sus funciones establecidas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Respecto a la aplicación de sanciones en materia de justicia para adolescentes, se continuará aplicando lo dispuesto por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Mientras no exista la infraestructura necesaria, las áreas a la (sic) que se refiere el Artículo 65 de la ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
+
+En tanto no se cuente con los centros especiales, precisados en el Artículo 75 de la Ley de Ejecución de Sanciones Penales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección General de Reinserción Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
+
+De igual forma, mientras no exista por lo menos un Centro de Ejecución de Medidas de Seguridad Privativas de Libertad, el cumplimiento de dichas medidas se llevará a cabo en los centros existentes con la debida separación y cuando se trate de inimputables que requieran tratamiento, se realizará en la institución de salud mental, pública o privada, que determine la Dirección General de Reinserción Social.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias conducentes dentro de los 180 días contados a partir del 19 de junio del 2011.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la presente Decreto.
