@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2010-07-06"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -47,9 +47,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 La presente Ley es reglamentaria de los artículos relativos 25 y 26 de la Constitución Política del Estado de Querétaro.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 2.
 
-Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para menores, electoral y constitucional del fuero común, así como en materia federal cuando las leyes así lo faculten.
+Es objeto de esta Ley, regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Querétaro, a quien corresponde interpretar y aplicar las leyes en asuntos jurisdiccionales del orden civil, familiar, penal, justicia para adolescentes, ejecución de sanciones penales, electoral y constitucional del fuero común, así como en materia federal cuando las leyes así lo faculten.
 
 Corresponde al Pleno del Tribunal Superior de Justicia, conocer y resolver las controversias contempladas en el artículo 29 fracción VI de la Constitución Política del Estado de Querétaro.
 
@@ -333,7 +335,9 @@ XXI. Distribuir, por riguroso turno, los expedientes a los magistrados de las sa
 
 XXII. En caso de que el Presidente estime trascendental un asunto relacionado con las facultades que este artículo le concede o de la competencia de las salas, podrá someterlo a la consideración del Pleno;
 
-XXIII. Informar al Pleno, en el mes de febrero de cada año, acerca del estado que guarda la administración del Poder Judicial;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+XXIII. Informar al Pleno, en el mes de julio de cada año, acerca del estado que guarda la administración del Poder Judicial.
 
 XXIV. Crear las unidades administrativas auxiliares de la Presidencia que estime convenientes para el adecuado desarrollo de sus funciones y designar a los respectivos titulares y empleados, así como resolver sobre las renuncias que presenten a sus cargos y aprobar su destitución o suspensión;
 
@@ -371,7 +375,9 @@ De acuerdo a la carga de trabajo existente y a las necesidades de servicio, el P
 
 La Sala Electoral podrá auxiliar a otras salas, teniendo las mismas facultades de éstas, aun dentro del proceso electoral, previo acuerdo del Pleno del Tribunal Superior de Justicia, siempre y cuando no se interfiera con la función de aquella.
 
-Las apelaciones en materia de justicia para menores serán resueltas por una Sala Unitaria especializada en la materia.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Las apelaciones en materia de justicia para adolescentes serán resueltas por una Sala Unitaria especializada en la materia.
 
 ###### Artículo 26.
 
@@ -405,9 +411,11 @@ Las salas sesionarán en Pleno los días y en el horario que establezca el Regla
 
 #### Sección Primera. De la competencia de las salas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 33.
 
-Los magistrados de las salas constitucional, civil, penal, electoral, especializada en justicia para menores y las auxiliares, en su caso, en Pleno o de manera unitaria, conocerán en su materia:
+Los magistrados de las salas constitucional, civil, penal, electoral, especializada en justicia para adolescentes y las auxiliares, en su caso, en Pleno o de manera unitaria, conocerán en su materia:
 
 I. De la segunda instancia y de la denegada apelación, en los términos que establecen las leyes;
 
@@ -437,6 +445,10 @@ Los demás asuntos se resolverán de manera unitaria.
 
 La Sala Penal podrá proceder en los mismos términos que establece el segundo párrafo del artículo anterior.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+También conocerá, de manera unitaria, las apelaciones y demás recursos procedentes contra las resoluciones de los jueces especializados en ejecución de sanciones penales.
+
 ###### Artículo 36.
 
 La Sala Electoral tendrá las siguientes atribuciones:
@@ -451,9 +463,11 @@ IV. Elaborar y divulgar la memoria de las resoluciones y criterios de interpreta
 
 V. Las demás que le confieran la presente Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 37.
 
-La Sala especializada en justicia para menores, conocerá de los asuntos que señale la ley de la materia.
+La Sala especializada en justicia para adolescentes, conocerá de los asuntos que señale la ley de la materia.
 
 ###### Artículo 38.
 
@@ -683,13 +697,23 @@ II. Los juzgados penales;
 
 III. Los juzgados familiares;
 
-IV. Los juzgados especializados en justicia para menores; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
 
-V. Los juzgados mixtos.
+IV. Los juzgados especializados en justicia para adolescentes;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+V. Los juzgados especializados en ejecución de sanciones penales, y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+VI. Los juzgados mixtos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 60.
 
-El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, especializados en justicia para menores, mixtos y municipales en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
+El Pleno del Tribunal Superior de Justicia determinará el número de juzgados civiles, familiares, penales, especializados en justicia para adolescentes y en ejecución de sanciones penales, mixtos y menores, con jurisdicción en el Estado o en los distritos judiciales, atendiendo a las necesidades del servicio, así como a las observaciones que sobre el particular haga el Consejo de la Judicatura.
 
 Cuando en un distrito judicial exista más de un juzgado, se designarán por orden numérico.
 
@@ -773,15 +797,39 @@ III. Del recurso de revisión, en los términos del Código de Procedimientos Pe
 
 IV. De los demás asuntos que les señalen las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+
 ###### Artículo 65.
 
-Los juzgados especializados en justicia para menores conocerán de:
+Los juzgados especializados en justicia para adolescentes conocerán de:
 
 I. Los asuntos seguidos en contra de quienes se atribuya la realización de una conducta tipificada como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad en los términos de la ley especial de la materia;
 
-II. La diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes aplicables; y
+II. La diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes aplicables; y (sic)
 
-III. Los demás asuntos que les señalen la ley especializada en la materia y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+III. De la etapa de ejecución de la sentencia para modificar las medidas o su duración, así como para determinar u ordenar su cumplimiento; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+
+IV. Los demás asuntos que les señalen la ley especializada en la materia y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Artículo 65 bis. Los juzgados especializados en ejecución de sanciones penales conocerán de:
+
+I. La modificación de todas las penas y medidas de seguridad impuestas en sentencia ejecutoria;
+
+II. Su duración, la que podrán modificar o dar por cumplida;
+
+III. Las peticiones de libertad anticipada y definitiva;
+
+IV. Los pedimentos de cumplimiento o revocación de los sustitutivos penales;
+
+V. Los pedimentos de cumplimiento o revocación de los beneficios preliberacionales; y
+
+VI. Los demás asuntos que les señalen las leyes y otros ordenamientos aplicables.
 
 ###### Artículo 66.
 
@@ -977,7 +1025,7 @@ IX. Practicar y recibir informaciones testimoniales que se soliciten y que tenga
 
 X. Procurar la conciliación en toda controversia civil o penal que se persiga por querella y le sea planteada, en el ámbito de su competencia;
 
-XI. Conocer y resolver del procedimiento administrativo contemplado en la Ley de Justicia para Menores del Estado de Querétaro; y
+XI. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
 XII. Las demás que les atribuyan la presente Ley, los órganos competentes del Poder Judicial y otras disposiciones aplicables.
 
@@ -1962,3 +2010,11 @@ P.O. 6 DE JULIO DE 2010.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
