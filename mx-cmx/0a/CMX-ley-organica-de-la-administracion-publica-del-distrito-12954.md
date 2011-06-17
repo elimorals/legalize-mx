@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2010-12-27"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -384,9 +384,9 @@ XI. Aplicar las políticas demográficas que fije la Secretaría de Gobernación
 
 XII. Normar, operar y administrar los reclusorios, centros de readaptación social y los centros de internamiento y tratamiento externo para adolescentes;
 
-> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
-XIII. Proveer administrativamente la ejecución de sentencias penales por delitos del fuero común, y ejecutar las medidas de protección, orientación y tratamiento impuestas a los adolescentes en los términos de las normas aplicables;
+XIII. Coadyuvar con el Órgano Judicial del Distrito Federal, en la ejecución de sentencias penales por delitos del fuero común, y ejecutar las medidas de protección, orientación y tratamiento impuestas a los adolescentes en términos de las normas aplicables.
 
 XIV. Vigilar, en el ámbito administrativo, el cumplimiento de los preceptos constitucionales por parte de las autoridades del Distrito Federal, especialmente en lo que se refiere a las garantías individuales y derechos humanos, así como dictar las medidas administrativas que requiera su cumplimiento;
 
@@ -626,7 +626,7 @@ X. Fomentar la participación de las comunidades educativas, de las institucione
 
 > <small>(REFORMADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
 
-XI.- Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobierno de conformidad con la Ley del Deporte para el Distrito Federal; estableciendo los espacios, dentro de las escuelas del Distrito Federal, con la infraestructura humana, inmobiliaria y material necesaria y adecuada para el desarrollo de actividades relacionadas con la Educación Física y la Práctica Deportiva;
+XI. Desarrollar y ejecutar la política deportiva que determine el Jefe de Gobierno de conformidad con la Ley del Deporte para el Distrito Federal; estableciendo los espacios, dentro de las escuelas del Distrito Federal, con la infraestructura humana, inmobiliaria y material necesaria y adecuada para el desarrollo de actividades relacionadas con la Educación Física y la Práctica Deportiva;
 
 XII. Dirigir el Sistema del Deporte del Distrito Federal a través del Instituto del Deporte;
 
@@ -638,9 +638,11 @@ XIV. Desarrollar y ejecutar todo tipo de programas de apoyo social que incidan e
 
 > <small>(ADICIONADA, G.O. 5 DE DICIEMBRE DE 2008)</small>
 
-XV.- Coordinar con los titulares de los Órganos Político Administrativos de cada demarcación territorial, las tareas de rehabilitación y mantenimiento de las escuelas del Distrito Federal, así como el adecuado funcionamiento de todas y cada una de las instalaciones, incluyendo dentro de estas las relativas a la instalación obligatoria de bebederos de agua potable; y
+XV. Coordinar con los titulares de los Órganos Político Administrativos de cada demarcación territorial, las tareas de rehabilitación y mantenimiento de las escuelas del Distrito Federal, así como el adecuado funcionamiento de todas y cada una de las instalaciones, incluyendo dentro de estas las relativas a la instalación obligatoria de bebederos de agua potable; y
 
-XVI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
+
+XVI. Coadyuvar con la Subsecretaría del Sistema Penitenciario del Distrito Federal, en la realización, implementación y certificación de la enseñanza educativa que se imparta al interior de los Centros Penitenciarios del Distrito Federal; así como participar en programas recreativos, culturales y deportivos, éste último a través del Instituto del Deporte del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -812,11 +814,9 @@ XIX. Promover la realización de ferias, exposiciones y congresos, de carácter 
 
 XX. Emitir convocatoria abierta a los habitantes del Distrito Federal para integrar en los órganos político-administrativos Consejos Delegacionales de Verificación Ciudadana que coadyuven con las autoridades en la vigilancia del cumplimiento de la Ley por parte de los establecimientos mercantiles, para lo cual podrán solicitar visitas de verificación y presenciarlas, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
-
-XXI. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXI. Promover en coordinación con la Subsecretaría del Sistema Penitenciario del Distrito Federal, el desarrollo de la industria penitenciaria en el Distrito Federal.
 
 ###### Artículo 26.
 
@@ -954,9 +954,13 @@ XVI. Fomentar la participación de las organizaciones civiles y comunitarias, de
 
 XVII. Apoyar iniciativas y proyectos de la sociedad relacionados con las materias a cargo de la Secretaría;
 
-XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y
+XVIII. Coordinarse con las dependencias, entidades, órganos desconcentrados de la Administración Pública del Distrito Federal, de la Federación y de otras entidades federativas, en los ámbitos de su competencia, de acuerdo con lo establecido por las disposiciones jurídicas de la materia; y (sic)
 
 XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE JUNIO DE 2011)</small>
+
+XX. Coordinar sus programas y actividades con la Subsecretaría del Sistema Penitenciario del Distrito Federal, para el impulso de las actividades y el cumplimiento de los ejes de la reinserción social.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ENERO DE 2008)</small>
 
@@ -2229,3 +2233,9 @@ Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida e
 Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
 
 Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
+
+G.O. 17 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor el día diecinueve de junio de dos mil once.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
