@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "2011-02-28"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "PUE"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DE LA LEY DE REINSERCIÓN SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 4 DE FEBRERO DE 2011 Y SU RESPECTIVA NOTA ACLARATORIA DE 28 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DE LA LEY DE REINSERCIÓN SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 4 DE FEBRERO DE 2011 CON SU RESPECTIVA NOTA ACLARATORIA DE 28 DE FEBRERO DE 2011, Y CUARTO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y DE REINSERCIÓN SOCIAL PARA EL ESTADO DE PUEBLA PUBLICADA EN EL P.O. DE FECHA 17 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE FECHA 4 DE FEBRERO DE 2011 Y SU RESPECTIVA NOTA ACLARATORIA DE 28 DE FEBRERO DE 2011</small>
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -482,3 +480,21 @@ TERCERO.- Las disposiciones reglamentarias de la presente Ley deberán entrar en
 > <small>(F. DE E., P.O. 28 DE FEBRERO DE 2011)</small>
 
 CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Puebla.
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Las disposiciones de la presente Ley, no serán aplicables a aquellos asuntos cuya sentencia haya causado ejecutoria antes del 18 de junio de 2011; empero, los beneficios a los que se refiere el artículo 531 del Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla, se aplicarán a los ya sentenciados, dando la intervención que corresponda al Juez de Ejecución.
+
+TERCERO.- Se deja sin efecto el Decreto por el que se expide la Ley de Reinserción Social para el Estado de Puebla, publicado en el Periódico Oficial del Estado, el cuatro de febrero de dos mil once.
+
+CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Puebla, publicada en el Periódico Oficial del Estado con fecha treinta de diciembre de mil novecientos setenta y cinco.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEXTO.- El Ejecutivo Estatal expedirá el Reglamento de los centros de reinserción social dentro del plazo de noventa días.
+
+Hasta la expedición de las disposiciones reglamentarias continuará en vigor el Reglamento Interior para los Establecimientos de Reclusión del Estado, en lo que no se oponga al presente Decreto.
+
+SÉPTIMO.- Para el ejercicio y cumplimiento de las atribuciones contenidas en la presente Ley, las autoridades contarán con las instalaciones, personal y presupuesto que se le asignen, de conformidad con la suficiencia presupuestal.
