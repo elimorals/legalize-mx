@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-estatal-de-seguridad-publica-17128"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-06"
-last_updated: "2005-08-08"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de marzo de 2000.
 
@@ -47,7 +47,9 @@ LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
 El Instituto Estatal de Seguridad Pública es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Aguascalientes.
 
-Su objeto es el reclutamiento, la selección y la preparación profesional de los integrantes y aspirantes a formar parte de las Instituciones de Seguridad Pública del Estado, entre otros: policías preventivos, policías de vialidad, jueces calificadores, policías ministeriales, agentes del ministerio público y sus secretarios, peritos, personal técnico y de seguridad y custodia de los Centros de Reeducación Social del Estado, en coordinación con cada una de las dependencias involucradas.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Su objeto es el reclutamiento, la selección y la preparación profesional de los integrantes y aspirantes a formar parte de las Instituciones de Seguridad Pública del Estado, entre otros: policías preventivos, policías de vialidad, jueces calificadores, policías ministeriales, agentes del ministerio público y sus secretarios, peritos, personal técnico y de seguridad y custodia de los Centros de Reinserción Social del Estado, en coordinación con cada una de las dependencias involucradas.
 
 ###### ARTICULO 2º.
 
@@ -157,7 +159,9 @@ La Presidencia de la Junta de Gobierno estará a cargo del Gobernador Constituci
 
 La Secretaría Ejecutiva estará a cargo del Secretario de Seguridad Pública del Estado, quien tendrá voz y voto en la misma.
 
-Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario General de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reeducación Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reinserción Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
 
 Los vocales representantes de los Municipios, serán electos de común acuerdo por los Presidentes Municipales de la totalidad de los Municipios del Estado, quienes se reunirán para tal efecto y darán a conocer a la Presidencia de la Junta de Gobierno el resultado de la elección; en caso de que no existiera acuerdo, la selección se llevará a cabo por insaculación en los términos que se establezcan en el Reglamento del la presente Ley. Los representantes de los Municipios ante la Junta de Gobierno, durarán en su encargo dos años, pudiendo ser reelectos.
 
@@ -419,9 +423,9 @@ a). Un representante de la Dirección General de Seguridad Pública y Vialidad d
 
 b).- Un representante de la Procuraduría General de Justicia en el Estado;
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-c). Un representante de la Dirección General de Reeducación Social;
+c).- Un representante de la Dirección General de Reinserción Social;
 
 d).- Un representante del Poder Judicial;
 
@@ -612,3 +616,45 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 17 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal de Coordinación para la Implementación del Sistema de Justicia Penal en el Estado de Aguascalientes promoverá, una reforma penitenciaria por medio de los sujetos legitimados para ello, a través de la confección de diagnósticos integrales de la situación penitenciaria y la elaboración de la reglamentación secundaria conducente que atienda los aspectos técnicos de su implementación, así como establezca y canalice los recursos financieros y partidas presupuestales, estatales y federales procedentes, para la operación de los proyectos y programas previstos en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Conforme a las necesidades y recursos de la Secretaría de Seguridad Pública del Estado se precisará la estructura administrativa de ejecución material de las penas y medidas de seguridad previstas en la ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, los titulares y órganos facultados de los Poderes Ejecutivo y Judicial deberán realizar los nombramientos de las autoridades especializadas encargadas de la aplicación de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos penales en fase de ejecución que se encuentren en trámite a la entrada en vigor de esta Ley, serán puestos a conocimiento del Juez de Ejecución para que comience con el ejercicio de sus funciones establecidas en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Respecto a la aplicación de sanciones en materia de justicia para adolescentes, se continuará aplicando lo dispuesto por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Mientras no exista la infraestructura necesaria, las áreas a la (sic) que se refiere el Artículo 65 de la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, podrán funcionar en un mismo conjunto arquitectónico, siempre que éstos se instalen con la debida separación.
+
+En tanto no se cuente con los centros especiales, precisados en el Artículo 75 de la ley de Ejecución de Sanciones Penales, en los centros existentes se establecerán secciones especiales y, en su defecto, el Ejecutivo del Estado, a través de la Dirección General de Reinserción Social, podrá solicitar la colaboración de las instituciones de salud pública y asistencia social que existan en el Estado, formalizando con ellos los convenios de colaboración procedentes.
+
+De igual forma, mientras no exista por lo menos un Centro de Ejecución de Medidas de Seguridad Privativas de Libertad, el cumplimiento de dichas medidas se llevará a cabo en los centros existentes con la debida separación y cuando se trate de inimputables que requieran tratamiento, se realizará en la institución de salud mental, pública o privada, que determine la Dirección General de Reinserción Social.
+
+###### ARTÍCULO OCTAVO.
+
+El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias conducentes dentro de los 180 días contados a partir del 19 de junio del 2011.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
