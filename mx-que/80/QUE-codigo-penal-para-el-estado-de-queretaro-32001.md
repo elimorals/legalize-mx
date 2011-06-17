@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2011-05-30"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -309,13 +309,15 @@ VIII.- Amonestación, y
 
 IX.- Caución de no ofender.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29.
 
 Las penas y medidas de seguridad se entienden impuestas en los términos y con las modalidades señaladas por este Código y por la ley encargada de su ejecución; serán aplicadas por las autoridades competentes, con los propósitos previstos por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, ajustándose a la resolución judicial respectiva.
 
-Las penas y medidas de seguridad que se impongan, deberán ser las adecuadas para la rehabilitación del sentenciado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Las penas y medidas de seguridad que se impongan, deberán ser las adecuadas para la reinserción social del sentenciado.
 
 SUBTÍTULO PRIMERO
 
@@ -331,11 +333,13 @@ La prisión consiste en la privación de la libertad, su duración será de tres
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 31.
 
-El tratamiento en libertad de imputables, es una medida sustitutiva de prisión fijada por el juez de la causa, consistente en la aplicación de medidas laborales, educativas y curativas, autorizadas por la ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora.
+El tratamiento en libertad de imputables, es una medida sustitutiva de prisión fijada por el juez de la causa, consistente en la aplicación de medidas laborales, educativas y curativas, autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 El juez cuidará que la medida no exceda del tiempo correspondiente a la pena de prisión sustituida e informará al Ejecutivo para que proceda a su cumplimiento.
 
@@ -363,9 +367,13 @@ La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará
 
 Por lo que toca al delito continuado se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
 
-Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella el Ejecutivo a través del órgano que corresponda podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el propio Ejecutivo podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituídos.
+Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, el órgano jurisdiccional podrá substituirla total o parcialmente por prestación de trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+Cada jornada de trabajo saldará un día multa. Cuando no sea posible o conveniente la substitución de la multa por la prestación de servicios, el órgano jurisdiccional podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa substituidos.
 
 Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico-coactivo.
 
@@ -603,13 +611,17 @@ En el caso de los inimputables permanentes el órgano jurisdiccional dispondrá 
 
 Si se trata de internamiento, el sujeto inimputable permanente, será recluido en la institución correspondiente para su tratamiento.
 
-En caso de que los inimputables tengan el hábito o la necesidad de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra substancia tóxica, el órgano jurisdiccional o el encargado de ejecución de sanciones, en su caso, ordenará también el tratamiento que proceda por parte de la autoridad sanitaria competente o de otro servicio médico bajo la supervisión de aquélla, independientemente de la prosecución del proceso o de la ejecución de la pena impuesta por el delito cometido.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+En caso de que los inimputables tengan el hábito o la necesidad de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra substancia tóxica, el juez de la causa o, en su caso, el juez competente de ejecución, ordenará también el tratamiento que proceda por parte de la autoridad sanitaria competente o de otro servicio médico bajo la supervisión de aquélla, independientemente de la prosecución del proceso o de la ejecución de la pena impuesta por el delito cometido.
 
 ###### ARTICULO 63.
 
 Los inimputables permanentes podrán ser entregados por el órgano jurisdiccional o por la autoridad ejecutora, en su caso, a quienes legalmente corresponda hacerse cargo de ellos, siempre que se obliguen a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando, por cualquier medio y a satisfacción de las mencionadas autoridades, el cumplimiento de las obligaciones contraídas.
 
-La autoridad jurisdiccional o ejecutora podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+
+La autoridad jurisdiccional podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
 
 ###### ARTICULO 64.
 
@@ -3914,3 +3926,11 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Articulo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
