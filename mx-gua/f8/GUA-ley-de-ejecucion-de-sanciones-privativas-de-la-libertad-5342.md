@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-5342"
 country: "mx"
 rank: "ley"
 publication_date: "1983-11-04"
-last_updated: "2011-04-15"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE FECHA 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DE 17 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 4 de noviembre de 1983.
 
@@ -641,11 +641,13 @@ Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguien
 
 Artículo Segundo.- A los reos que actualmente se encuentran sentenciados, aunque la sentencia aún no cause ejecutoria, en su caso, les serán aplicables las disposiciones legales anteriores a la entrada en vigor del presente decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 15 DE ABRIL DE 2011.
 
 Artículo Primero. El presente decreto entrará en vigor el día dieciocho de junio de dos mil once, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2011)</small>
+
+Los artículos de la Ley del Proceso Penal para el Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 141 Tercera Parte, el 3 de septiembre de 2010, que resulten indispensables para la debida aplicación de la presente Ley, entrarán en vigor el día dieciocho de Junio de dos mil once.
 
 Artículo Segundo. Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Guanajuato publicada mediante Decreto número 72 del H. Quincuagésimo Segundo Congreso Constitucional del Estado Libre y Soberano de Guanajuato en el Periódico Oficial del Gobierno del Estado de Guanajuato número 88, del 4 de noviembre de 1983.
 
