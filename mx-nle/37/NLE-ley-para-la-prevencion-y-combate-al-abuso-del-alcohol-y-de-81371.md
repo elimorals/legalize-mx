@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-prevencion-y-combate-al-abuso-del-alcohol-y-de-8137
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-18"
-last_updated: "2011-06-01"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA PREVENCION Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACION PARA SU VE
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE JUNIO DE 2011.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de mayo de 2011.
 
@@ -557,15 +557,21 @@ a) Nombre del solicitante y domicilio;
 
 b) Lugar del evento;
 
-> <small>(F. DE E., P.O. 1 DE JUNIO DE 2011)</small>
+(F. DE E., P.O. 1 DE JUNIO DE 2011) (F. DE E., P.O. 17 DE JUNIO DE 2011)
 
 c) Giros que se van a instalar;
 
-c) (sic) Área de servicio o atención al cliente para venta o consumo de bebidas alcohólicas (en metros cuadrados);
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2011)</small>
 
-d) Plano de ubicación de las áreas de servicio o atención; y
+d) Área de servicio o atención al cliente para venta o consumo de bebidas alcohólicas (en metros cuadrados);
 
-e) Motivo del evento o celebración, días de duración y horario solicitado para la venta y consumo de bebidas alcohólicas.
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2011)</small>
+
+e) Plano de ubicación de las áreas de servicio o atención; y
+
+> <small>(F. DE E., P.O. 17 DE JUNIO DE 2011)</small>
+
+f) Motivo del evento o celebración, días de duración y horario solicitado para la venta y consumo de bebidas alcohólicas.
 
 II. Copia de la credencial de elector del solicitante si es persona física o acta constitutiva y el poder del representante legal, si se trata de una persona moral;
 
