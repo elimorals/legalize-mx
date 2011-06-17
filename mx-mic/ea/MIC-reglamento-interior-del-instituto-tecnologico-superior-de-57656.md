@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-57656
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE LOS REYES, MICHOACAN, PUBLICADO EN LA QUINTA SECCION DEL P.O. DE 17 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 26 de noviembre del 2007.
 
@@ -354,3 +356,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+Artículo Primero. El presente Reglamento deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, y entrará en vigor el día siguiente al de su publicación.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Los Reyes, Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 26 de noviembre de 2007, y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
