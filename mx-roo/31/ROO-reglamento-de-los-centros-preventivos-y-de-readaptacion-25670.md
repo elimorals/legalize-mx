@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-los-centros-preventivos-y-de-readaptacion-25670"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-28"
-last_updated: "2002-06-28"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO DE LOS CENTROS PREVENTIVOS Y DE READAPTACION SOCIAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTICULOS OCTAVO Y NOVENO TRANSITORIOS DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, TODA MENCION REFERENTE A LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL, DIRECCION DEL CENTRO DE READAPTACION SOCIAL, CENTRO DE READAPTACION SOCIAL, TODOS DEL ESTADO, PASAN A SER DENOMINADAS, DIRECCION DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES, DIRECCION DEL CENTRO DE REINSERCION SOCIAL, Y CENTRO DE REINSERCION SOCIAL DEL ESTADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 28 de junio de 2002.
 
@@ -1466,3 +1468,47 @@ LIC. JOAQUIN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO
 
 VÍCTOR M. ALCÉRRECA SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRASCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE JUNIO DE 2011.
+
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación, con la salvedad siguiente: todo lo contenido en el presente decreto relacionado con el sistema procesal penal acusatorio, entrará en vigor en las fechas y ámbitos espacial y temporal de validez que determinen la declaratoria que emita el Congreso del Estado o la Diputación Permanente a solicitud expresa del Poder Judicial del Estado, respecto de la vigencia del Código Procesal .Penal del Estado de Quintana Roo.
+
+TERCERO.- Se abroga la Ley de Seguridad Pública del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado, con fecha 28 de marzo del 2005.
+
+CUARTO.- Se deroga el decreto de creación del Instituto de Profesionalización de la Seguridad Pública, de fecha 15 de febrero de 1999
+
+QUINTO.- Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+SEXTO.- A más tardar en el plazo de noventa días deberán de transferirse los recursos humanos, financieros y materiales de la Secretaría Ejecutiva del Sistema Estatal de Seguridad Púbica (sic), a la Secretaría de Gobierno. De conformidad a lo establecido en la ley de Entrega-Recepción vigente en el Estado, se dará el proceso respectivo de los bienes que actualmente tiene asignados la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública.
+
+SÉPTIMO.- La Secretaria de Gobierno del Estado asumirá todos los derechos y obligaciones que hasta ahora correspondían a la Secretaria de Seguridad Pública, respecto a las áreas, acuerdos y convenios comprendidos dentro de la Secretaria Ejecutiva del Sistema Estatal de Seguridad Pública.
+
+OCTAVO.- A partir de la entrada en vigor del presente decreto, toda mención de cualquier disposición legal o reglamentaria, referente a la Dirección de Prevención y Readaptación Social, Dirección del Centro de Readaptación Social, Centro de Readaptación Social, todos del Estado, pasan a ser denominadas, Dirección de Ejecución de Penas y Medidas Judiciales, Dirección del Centro de Reinserción Social, y Centro de Reinserción Social del Estado.
+
+NOVENO.- La Dirección de Prevención de Readaptación Social del Estado, se convierte en la Dirección de Ejecución de Penas y Medidas judiciales con todos sus recursos humanos, financieros y materiales, sin perjuicio de ampliarlos en términos de las disposiciones presupuesta les aplicables
+
+DÉCIMO.- El personal adscrito o que se encuentre laborando en la Dirección de Prevención y Readaptación Social, Dirección del Centro de Readaptación Social y Centros de Readaptación Social del Estado, quedarán a partir de la entrada en vigor del presente decreto, adscritos a la Dirección de EJecuclón de Medidas Judiciales, Dirección de: Centro de Reinserción Social y Centros de Reinserción Social del Estado respectivamente y sus actos como autoridad o como parte en los procesos penales seguirán siendo para todos los efectos legales. No requieren nuevos nombramientos.
+
+DÉCIMO PRIMERO.- A la entrada en vigor de la presente ley, la Dirección de Ejecución de Penas y Medidas Judiciales, dependiente de la Secretaría de Seguridad Pública, informará al Juez de Ejecución competente, cuando una persona que se encuentre recluida en los Centros de Reinserción Social del Estado, esté próxima a compurgar la pena privativa de libertad que se le haya impuesto. Igual obligación tendrán los Directores o los Encargados de las Cárceles Públicas Municipales.
+
+DÉCIMO SEGUNDO.- El Instituto de Profesionalización de la Seguridad Pública transfiere los recursos humanos, materiales y financieros, así como los derechos y obligaciones con que cuente a La Academia Estatal de Seguridad Pública que se crea.
+
+DÉCIMO TERCERO.- Las Comisiones colegiadas a que se refiere la presente Ley deberán instalarse dentro del término improrrogable de noventa días naturales contados a partir del día siguiente de la publicación de la misma,
+
+DÉCIMO CUARTO.- La administración de los Fondos de Apoyo Estatal para la Seguridad Pública, se aplicarán en términos del Reglamento que para el efecto se elabore en un término de noventa días a partir de la publicación de la presente Ley.
+
+DÉCIMO QUINTO.- Los servicios de carrera vigentes en la Secretaría de Seguridad Pública, a la fecha de entrada en vigor de este Decreto, deberán ajustarse a los requisitos, criterios y procedimientos que establece la presente ley en la rama correspondiente en un plazo no mayor de noventa días contados a partir del día siguiente de la publicación.
+
+DÉCIMO SEXTO.- Las personas físicas o morales que cuenten con permiso expedido de autoridades competentes para la prestación de servicios de seguridad privada seguirán operando con base en el mismo, única y exclusivamente por el tiempo concedido en dicho permiso. Sin embargo, en el caso de permisos municipales, en el plazo de seis meses a partir del día siguiente a la publicación de este Decreto, deberán acudir a la Secretaría de Seguridad Pública para homologar su permiso municipal, homologación que será inmediata única y exclusivamente por el tiempo de vigencia del permiso aprobado, y para su modificación o ampliación, cumplir los requisitos que para tal efecto establezca el Reglamento de Servicios de Seguridad Privada que se emita para tal efecto en un término de noventa días hábiles contados a partir de la publicación de este Decreto.
+
+DÉCIMO SÉPTIMO.- Los procedimientos para determinar responsabilidades, iniciados con anterioridad a la vigencia de la presente Ley, se terminarán conforme a las disposiciones legales que los motivaron.
+
+DÉCIMO OCTAVO.- Las Instituciones de Seguridad Pública estatales y municipales emitirán los manuales de operación de las áreas correspondientes, a más tardar en sesenta días naturales contados a partir de la aprobación de los reglamentos.
+
+DÉCIMO NOVENO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias de la presente Ley dentro de los noventa días naturales siguientes a su publicación, entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en los que no se opongan a esta Ley.
+
+VIGÉSIMA.- Para efectos de la presente Ley, se aplicará de manera supletoria la Ley General del Sistema Nacional de Seguridad Pública.
