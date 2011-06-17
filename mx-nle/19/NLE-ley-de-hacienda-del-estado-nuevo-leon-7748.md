@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2011-06-01"
+last_updated: "2011-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NLE"
 ---
 # LEY DE HACIENDA DEL ESTADO, NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2011.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 1 DE JUNIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 200 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2011.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE JUNIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 200 PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
