@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-gaceta-oficial-del-municipio-de-tekax-51325"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2011-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE GACETA OFICIAL DEL MUNICIPIO DE TEKAX
 
-REGLAMENTO DE GACETA OFICIAL DEL MUNICIPIO DE TEKAX
+REGLAMENTO DE GACETA OFICIAL DEL MUNICIPIO DE TEKAX DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA GACETA MUNICIPAL DEL AYUNTAMIENTO DE TEKAX, PUBLICADO EN EL D.O. DE 17 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 31 de mayo del 2006.
 
@@ -228,3 +230,13 @@ PRESIDENTE MUNICIPAL
 MARIO A. SUAREZ CABAÑAS
 
 SECRETARIO MUNICIPAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 17 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se abroga el Reglamento de Gaceta Municipal del Municipio de Tekax, publicado el 31 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+TERCERO. Se faculta al Presidente Municipal y al Secretario Municipal para solicitar el correspondiente número de Registro Estatal de Publicaciones Oficiales, a cargo del Ejecutivo del Estado de Yucatán en un plazo no mayor a 180 días de la publicación de este Reglamento en el Diario Oficial del Gobierno del Estado.
