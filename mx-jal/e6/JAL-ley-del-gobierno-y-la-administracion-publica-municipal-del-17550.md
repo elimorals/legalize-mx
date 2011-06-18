@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2011-03-24"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 23486/LIX/11 PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -337,9 +335,9 @@ IV. Que tenga un local apropiado para la delegación, o que cuente con un terren
 
 V. Que cuente, cuando menos, con una escuela primaria en funciones; y
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
 
 VI. QUE TENGA CAPACIDAD SUFICIENTE PARA APOYAR LA PRESTACIÓN DE LOS SERVICIOS MUNICIPALES CORRESPONDIENTES.
 
@@ -703,9 +701,9 @@ X. Los demás casos que señalen la presente ley y otras leyes.
 
 Son obligaciones de los Ayuntamientos, las siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-I. Presentar al Congreso del Estado, las iniciativas de sus leyes de ingresos antes del día 31 de Agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubiesen regido durante el año fiscal inmediato anterior. Los Ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que a su juicio ameriten sus leyes de ingresos ya aprobadas.
+I. Presentar al Congreso del Estado las iniciativas de sus leyes de ingresos a más tardar el día 31 de agosto de cada año; en caso de no hacerlo, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior. Los ayuntamientos pueden solicitar al Congreso del Estado las ampliaciones que, a su juicio, ameriten sus leyes de ingresos ya aprobadas.
 
 Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la ley estatal en materia de responsabilidades de los servidores públicos;
 
@@ -1439,13 +1437,9 @@ En ningún caso, los ediles a los que se conceda licencia temporal o definitiva,
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-artículo 73. (derogado, p.o. 5 de enero de 2007)
-
 ###### Artículo 73.
 
-Las faltas temporales del Síndico hasta por un mes, deben ser suplidas por el servidor público municipal que designe el Ayuntamiento.
-
-Las faltas del Síndico por licencia de más de un mes, deben ser cubiertas por su suplente.
+(DEROGADO, P.O. 5 DE ENERO DE 2007)
 
 ###### Artículo 74.
 
@@ -2850,5 +2844,9 @@ DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY DEL GO
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 3 DE FEBRERO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE JUNIO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
