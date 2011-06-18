@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2011-03-29"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -279,9 +279,9 @@ XIII. Revisar o, en su caso, elaborar los proyectos de ley, reglamentos y cualqu
 
 XIV. Reivindicar la propiedad del Estado, con la intervención del Procurador General de Justicia;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-XV. Planear, organizar y ejecutar los programas relativos a la protección civil de los habitantes, y a la readaptación social;
+XV. Planear, organizar y ejecutar los programas relativos a la protección civil de los habitantes;
 
 XVI. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
@@ -291,7 +291,9 @@ XVIII. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
 XIX. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
-XX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+XX. Administrar el sistema penitenciario, aplicar el modelo de reinserción social y tramitar por acuerdo del Gobernador las solicitudes de extradición y traslado de reos;
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1608,3 +1610,9 @@ DECRETO NUMERO 537, POR EL QUE SE REFORMA EL ARTICULO 41 QUATER EN SUS FRACCIONE
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
