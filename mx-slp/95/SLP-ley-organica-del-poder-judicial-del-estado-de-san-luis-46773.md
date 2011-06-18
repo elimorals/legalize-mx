@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2010-10-12"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -93,11 +93,11 @@ Asimismo, podrá formar un fondo de apoyo para el mejoramiento de la administrac
 
 ### CAPITULO II. De las Autoridades Judiciales
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 3°.
 
-La potestad de aplicar las leyes del fuero común en materia civil, familiar, penal, de justicia para menores, y electoral en el territorio del Estado, corresponde al Poder Judicial; así como el ejercicio de la función jurisdiccional en todos aquellos casos en que la ley expresamente lo faculte.
+En el ejercicio de la función jurisdiccional, corresponde al Poder Judicial la potestad de interpretar, aplicar y ejecutar las leyes del fuero común en materia civil, familiar, penal, de justicia para menores y electoral en el territorio del Estado.
 
 ###### ARTICULO 4°.
 
@@ -115,9 +115,11 @@ Los jueces auxiliares apoyarán al Poder judicial cuando así lo requiera y cump
 
 El Poder Judicial contará con el Consejo de la Judicatura, que cumplirá las funciones que establecen la Constitución Política del Estado y la presente Ley.
 
-###### ARTICULO 5º.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
-Para ejercer de manera plena sus funciones el Poder Judicial recibirá el auxilio del Poder Ejecutivo del Estado, de las dependencias a su cargo, y de las autoridades municipales.
+###### ARTICULO 5°.
+
+Para ejercer de manera plena sus funciones el Poder Judicial recibirá el auxilio del Poder Ejecutivo del Estado, de las dependencias a su cargo, de las autoridades municipales y de los cuerpos de policía.
 
 ###### ARTICULO 6º.
 
@@ -183,9 +185,11 @@ II. Se retire del desempeño del cargo por haber cumplido quince años en el mis
 
 III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 10.
 
-El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las que podrán residir en la capital del Estado o en otros distritos judiciales.
+El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las que podrán residir en la capital del Estado, en otros distritos judiciales o regiones.
 
 ###### ARTICULO 11.
 
@@ -555,9 +559,11 @@ XIII. Las demás que señalen las disposiciones aplicables, y las que le encomie
 
 ### CAPITULO VI. De los Juzgados de Primera Instancia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 49.
 
-Para los efectos de la presente Ley, el territorio del Estado se divide en los siguientes distritos judiciales:
+Para los efectos de la presente Ley, el territorio del Estado se divide en distritos y regiones judiciales.
 
 I. El Primero, que comprende los municipios de San Luis Potosí, Ahualulco, Villa de Arriaga, Armadillo de los Infante, Mexquitic de Carmona, Soledad de Graciano Sánchez, Cerro de San Pedro y Zaragoza, con residencia en la Ciudad Capital;
 
@@ -585,9 +591,19 @@ XII. El Décimo Segundo, que comprende los municipios de Salinas y Villa de Ramo
 
 XIII. El Décimo Tercero, que comprende los municipios de Santa María del Río, Tierra Nueva y Villa de Reyes, con residencia en la cabecera municipal de Santa María de Río.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+Las regiones judiciales serán determinadas por el Consejo de la Judicatura y comprenderán el ámbito territorial de más de un Distrito.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+Los tribunales o juzgados tendrán jurisdicción en el territorio del Distrito o Región Judicial al que pertenezcan, conforme lo determine el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 50.
 
-En cada Distrito Judicial habrá el número de juzgados que determine el Consejo de la Judicatura, que se distinguirán por números ordinales en cada ramo.
+En cada Distrito o Región Judicial habrá el número de Juzgados que determine el Consejo de la Judicatura, los que tendrán competencia para conocer de los asuntos civiles, penales, de lo familiar, de justicia para menores, de ejecución de penas y medidas de seguridad y demás materias en que ejerzan su jurisdicción y se distinguirán por su denominación o número ordinal que les corresponda.
 
 ###### ARTICULO 51.
 
@@ -645,23 +661,39 @@ VIII. En general de todas las cuestiones familiares que reclamen la intervenció
 
 ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
-ARTICULO 53 TER. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución, tendrán las siguientes:
+ARTICULO 53 TER. Los jueces de ejecución especializados en justicia para menores, tendrán las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 I. Dar seguimiento a las medidas impuestas por el Juez Especializado en Justicia para Menores, y el orden en que deben ser consideradas;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 II. Resolver sobre la modificación, sustitución o adecuación de la medida impuesta a los menores, por parte de los jueces especializados en justicia para menores;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 III. Determinar lo relativo a las medidas coercitivas aplicadas a los menores, en los centros de internamiento;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 IV. Autorizar los convenios de colaboración que firme la Dirección General de Ejecución de Medidas para Menores, los centros de Internamiento Juvenil, y los centros de Ejecución de Medidas en Libertad;
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 V. Controlar y supervisar la legalidad de la aplicación y ejecución de las medidas;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 VI. Vigilar y garantizar el cumplimiento de los objetivos fijados por la Ley de Justicia para Menores del Estado de San Luis Potosí;
 
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 VII. Resolver los incidentes que se presenten durante la fase de ejecución, y
+
+> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 VIII. Las demás que se le atribuyen en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
@@ -669,21 +701,73 @@ VIII. Las demás que se le atribuyen en la Ley de Justicia para Menores del Esta
 
 Los jueces del Ramo Penal conocerán, tramitarán y resolverán los asuntos por delitos comunes que sean de su competencia conforme a la legislación penal del Estado y demás leyes aplicables, así como de asuntos de otro fuero a prevención, cuando así lo dispongan las leyes relativas.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+ARTICULO 54 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución de sanciones penales tendrán las siguientes:
+
+I. Determinar la duración de las penas o medidas de seguridad;
+
+II. Resolver sobre las modificaciones, suspensión o sustitución de las penas o medidas de seguridad;
+
+III. Ordenar el cumplimiento de las sanciones distintas a la privativa de libertad;
+
+IV. Ordenar el cumplimiento de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o concedan el beneficio de la suspensión condicional de la misma;
+
+V. Ordenar el cumplimiento de las medidas impuestas a inimputables;
+
+VI. Decretar como medidas de seguridad, la custodia del interno que padezca enfermedad mental de tipo crónico, continuo e irreversible, en los términos señalados por el Código Penal;
+
+VII. Sustanciar el procedimiento para el cumplimiento de la sanción pecuniaria y de la reparación del daño;
+
+VIII. Garantizar a los sentenciados su defensa en el procedimiento de ejecución;
+
+IX. Revocar los beneficios otorgados cuando ocurra algún supuesto contenido en la ley;
+
+X. Ordenar la reaprehensión del sentenciado cuando proceda;
+
+XI. Aplicar la ley más favorable a los sentenciados;
+
+XII. Solicitar información sobre el Programa de Reinserción aplicado a los internos;
+
+XIII. Vigilar que el tratamiento de reinserción social del sentenciado que aplique el Poder Ejecutivo, se desarrolle sobre la base del trabajo, la capacitación, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado y procurar que no vuelva a delinquir;
+
+XIV. Conocer y resolver sobre las solicitudes de beneficios y tratamientos preliberacionales que impliquen una modificación en las condiciones de cumplimiento de la condena;
+
+XV. Resolver las peticiones de traslado que formulen internos o autoridades de otras entidades federativas;
+
+XVI. Conocer y resolver los incidentes y medios de impugnación que surjan con motivo de la ejecución de las sanciones;
+
+XVII. Resolver de oficio o a petición de parte la extinción de los efectos de la responsabilidad penal;
+
+XVIII. Llevar el registro y control de los sentenciados puestos a su disposición para el cumplimiento de sus sanciones;
+
+XIX. Resolver la prescripción de los antecedentes penales;
+
+XX. Resolver sobre la rehabilitación de derechos que la sentencia hubiere privado al sentenciado;
+
+XXI. Conocer y resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciarios, en cuanto afecten sus derechos y beneficios que les otorgue la ley, y
+
+XXII. Las demás que otros ordenamientos le confieran.
+
 ###### ARTICULO 55.
 
 Los juzgados mixtos de Primera Instancia serán competentes para conocer, tramitar y resolver los asuntos a que se refieren los artículos 52, 53 y 54 de esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 56.
 
-En los diversos distritos judiciales en donde haya varios juzgados de Primera Instancia, el turno de los asuntos se hará en la forma que determine el Consejo de la Judicatura.
+En los diversos distritos o regiones judiciales en donde haya varios juzgados de Primera Instancia o de ejecución de sentencias, el turno de los asuntos se hará en la forma que determine el Consejo de la Judicatura.
 
 ###### ARTICULO 57.
 
 En cada juzgado habrá un Juez, así como el número de secretarios, actuarios y empleados que determine el Consejo de la Judicatura, de acuerdo al presupuesto.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 58.
 
-En caso de impedimento legal, excusa o recusación de un Juez de Primera Instancia en los distritos judiciales donde haya varios, conocerá del asunto el Juez de la misma categoría que corresponda, conforme al turno establecido. Si existe un solo juzgado o todos tuvieren que eximirse, conocerá del negocio el Juez de Primera Instancia con residencia más próxima.
+En caso de impedimento legal, excusa o recusación de un Juez de Primera Instancia en los distritos o regiones judiciales donde haya varios, conocerá del asunto el juez de la misma categoría que corresponda, conforme al turno establecido. Si existe un solo juzgado o todos tuvieren que eximirse, conocerá del negocio el Juez de Primera Instancia con residencia más próxima.
 
 ###### ARTICULO 59.
 
@@ -777,17 +861,25 @@ Las faltas absolutas o temporales de los jueces auxiliares, se cubrirán por los
 
 #### Sección Primera. De los Secretarios de Acuerdos
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 71.
 
-Los secretarios de acuerdos de las salas del Tribunal y de los juzgados, tendrán fe pública en todo lo relativo al ejercicio de su cargo.
+Los secretarios de acuerdos tendrán fe pública en todo lo relativo al ejercicio de su cargo.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 72.
 
-Para ser Secretario de Acuerdos de las salas del Supremo Tribunal de Justicia, se requiere ser ciudadano mexicano, licenciado en derecho con título registrado, y experiencia en el ejercicio profesional de dos años, no haber sido condenado por sentencia irrevocable por delito intencional que amerite pena por más de un año de prisión, pero si se tratare de algún otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y ser seleccionado mediante los procedimientos que establece la presente Ley.
+Para ser Secretario de Acuerdos se requiere ser ciudadano mexicano, licenciado en derecho con título registrado, y experiencia en el ejercicio profesional de dos años, no haber sido condenado por sentencia irrevocable por delito intencional que amerite pena por más de un año de prisión, pero si se tratare de algún otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena~ (sic) y ser seleccionado mediante los procedimientos que establece la presente Ley.
+
+Tratándose de secretarios de acuerdos de juzgado menor, se deberán satisfacer los mismos requisitos a los que alude el párrafo anterior, excepto la experiencia profesional, que deberá ser de un año.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 73.
 
-Son obligaciones y atribuciones de los secretarios de acuerdos del Supremo Tribunal de Justicia, las siguientes:
+Son obligaciones y atribuciones de los secretarios de acuerdos de las salas del Supremo Tribunal de Justicia, las siguientes:
 
 I. Recibir los escritos y anexos que se les entreguen, asentándose razón autorizada con su firma del día y hora de su recepción;
 
@@ -807,11 +899,9 @@ VIII. Cuidar el buen desempeño de los actuarios y empleados de la Sala y juzgad
 
 IX. Las demás que les sean ordenadas por la ley, los reglamentos y acuerdos generales.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 74.
-
-Para ser Secretario de Acuerdos de un juzgado de Primera Instancia, se requiere ser ciudadano mexicano, licenciado en derecho con título registrado, no haber sido condenado por sentencia irrevocable por delito intencional que amerite pena por más de un año de prisión, pero si se tratare de algún otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y ser seleccionado mediante los procedimientos que establece la presente Ley.
-
-###### ARTICULO 75.
 
 Son obligaciones y atribuciones de los secretarios de acuerdos de los juzgados de Primera Instancia, las siguientes:
 
@@ -829,7 +919,43 @@ VI. Expedir y autorizar las copias certificadas que la ley determine o deban dar
 
 VII. Conservar en su poder el sello del Juzgado y vigilar su buen uso;
 
-VIII. Guardar en el secreto del Juzgado los sobres cerrados de posiciones, interrogatorios, consignaciones, escritos y demás documentos que disponga la ley o el Titular del Juzgado;
+VIII. Guardar en el secreto del Juzgado los sobres cerrados de posiciones, interrogatorios, consignaciones, escritos y demás documentos que disponga la ley o el titular del Juzgado;
+
+IX. Cuidar los expedientes a cargo de la Secretaria y proporcionarlos a las partes que lo soliciten, para informarse del estado de los mismos, dentro del local del Juzgado, salvo disposición expresa de la ley;
+
+X. Guardar bajo su responsabilidad los documentos y expedientes inventariados, mientras no se remitan al Archivo Judicial del Estado;
+
+XI. Practicar las diligencias que le sean encomendadas por el titular del Juzgado;
+
+XII. Custodiar el buen desempeño del Juzgado en el orden administrativo, y dirigir las actividades laborales conforme a las instrucciones de su titular;
+
+XIII. Redactar los acuerdos y las actas que el Juez le encomiende;
+
+XIV. Cuidar el buen desempeño de los actuarios del juzgado, y
+
+XV. Las demás que le señalen las leyes, reglamentos y acuerdos generales.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 75.
+
+Son obligaciones y atribuciones de los secretarios de acuerdos de los juzgados menores, en el ámbito de su competencia, las siguientes:
+
+I. Recibir los escritos y anexos que se les entreguen, asentándose razón autorizada con su firma del día y hora de su recepción;
+
+II. Dar cuenta dentro del plazo legal con los escritos, oficios, documentos que se reciban y en general de los negocios que le correspondan, así como redactar el acuerdo respectivo;
+
+III. Autorizar los exhortos, despachos, requisitorias, diligencias, acuerdos y toda clase de resoluciones;
+
+IV. Dar fe de todas las diligencias en que intervengan y autorizar en los términos de ley, las resoluciones dictadas por el Juez;
+
+V. Asentar en los expedientes las certificaciones y constancias relativas a términos procesales, y las demás razones que exprese la ley o el Juez ordene;
+
+VI. Expedir y autorizar las copias certificadas que la ley determine o deban darse a las partes, en virtud de decreto judicial;
+
+VII. Conservar en su poder el sello del Juzgado y vigilar su buen uso;
+
+VIII. Guardar en el secreto del Juzgado los sobres cerrados de posiciones, interrogatorios, consignaciones, escritos y demás documentos que disponga la ley o el titular del Juzgado;
 
 IX. Cuidar los expedientes a cargo de la Secretaría y proporcionarlos a las partes que lo soliciten, para informarse del estado de los mismos, dentro del local del Juzgado, salvo disposición expresa de la ley;
 
@@ -837,7 +963,7 @@ X. Guardar bajo su responsabilidad los documentos y expedientes inventariados, m
 
 XI. Practicar las diligencias que le sean encomendadas por el titular del Juzgado;
 
-XII. Custodiar el buen desempeño del Juzgado en el orden administrativo, y dirigir las actividades laborales conforme a las instrucciones de su Titular;
+XII. Custodiar el buen desempeño del Juzgado en el orden administrativo, y dirigir las actividades laborales conforme a las instrucciones de su titular;
 
 XIII. Redactar los acuerdos y las actas que el Juez le encomiende;
 
@@ -847,45 +973,57 @@ XV. Las demás que le señalen las leyes, reglamentos y acuerdos generales.
 
 #### Sección Segunda. De los Subsecretarios
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 #### Sección Tercera. De los Secretarios de Estudio y Cuenta
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 76.
 
-Para ser Subsecretario de las salas y de los juzgados, se requiere cubrir los mismos requisitos que para ser Secretario de Acuerdos, y ser seleccionado mediante los procedimientos que establece la presente Ley.
+Para ser Subsecretario de las salas y de los juzgados, se requiere cubrir los mismos requisitos previstos en el artículo 72 de esta Ley.
 
 ###### ARTICULO 77.
 
 Son obligaciones y atribuciones de los subsecretarios, las siguientes:
 
-I. Suplir las faltas temporales de los secretarios que no excedan de quince días;
+I. (DEROGADA, P.O. 18 DE JUNIO DE 2011)
 
 II. Llevar libros de registro de expedientes en los cuales se asienten todos los datos sobre trámite y resolución que se dicten en cada negocio, así como organizar los minutarios correspondientes;
 
 III. Inventariar rigurosamente los expedientes que se encuentren en trámite y vigilar el envío de los que pasen al archivo, anotando todos los datos que faciliten su localización;
 
-IV. Sellar, foliar y rubricar las actuaciones, oficios y demás documentos que lo requieran, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+IV. Sellar y foliar las actuaciones, oficios y demás documentos que lo requieran, y
 
 V. Las demás que les señalen las leyes, reglamentos y acuerdos generales.
 
 #### Sección Cuarta. De los Actuarios
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 78.
 
-En cada una de las salas del Supremo Tribunal de Justicia y en los juzgados de Primera Instancia, habrá los secretarios de estudio y cuenta autorizados y nombrados por el Consejo de la Judicatura.
+En cada una de las salas del Supremo Tribunal de Justicia, y en los juzgados, habrá los secretarios de estudio y cuenta autorizados y nombrados por el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 79.
 
-Los secretarios de estudio y cuenta deben reunir los mismos requisitos que se exigen para ser Secretario de Acuerdos, y ser seleccionado mediante los procedimientos que establece la presente Ley.
+Los secretarios de estudio y cuenta deben reunir los mismos requisitos previstos en el artículo 72 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 80.
 
-Los secretarios de estudio y cuenta tienen la obligación de elaborar los proyectos de resolución de los asuntos que les sean encomendados por el Magistrado o Juez, con estricto apego a las constancias procesales y bajo su responsabilidad, guardando el secreto inherente a su cargo.
+Los secretarios de estudio y cuenta tienen la obligación de elaborar, previo estudio íntegro de los asuntos que les sean turnados, dando cuenta de los mismos a la brevedad posible y elaborar de inmediato, con estricto apego a las constancias procesales y bajo su responsabilidad, el respectivo proyecto de resolución, con sujeción al lineamiento indicado por el Superior, guardando el secreto inherente a su cargo.
 
 #### Sección Quinta. Del Personal de Apoyo
 
 ###### ARTICULO 81.
 
-Para ser Actuario se requieren los mismos requisitos señalados para ser Secretario de Acuerdos, y ser seleccionado mediante los procedimientos que establece la presente Ley.
+Para ser Actuario se deberán cubrir los requisitos previstos en el artículo 72 de la presente Ley.
 
 ###### ARTICULO 82.
 
@@ -901,9 +1039,11 @@ III. Las demás que en forma expresa les sean encomendadas por las leyes, reglam
 
 Los actuarios tendrán fe pública en el desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 84.
 
-En los juzgados de Primera Instancia donde no haya Actuario, esa función la desempeñará el Secretario de Acuerdos, o la persona que el Juez habilite para tal efecto.
+En los juzgados donde no haya Actuario, esa función la desempeñará el Secretario de Acuerdos, o la persona que el Juez habilite para tal efecto.
 
 ###### ARTICULO 85.
 
@@ -931,15 +1071,19 @@ El Consejo de la Judicatura contará con aquellas comisiones permanentes o trans
 
 Las comisiones serán colegiadas o unitarias y tendrán las facultades que establezca el reglamento expedido por el Pleno del propio Consejo, en el que además se establecerá la organización y funcionamiento de las mismas.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 89.
 
-El Consejo de la Judicatura estará presidido por el Presidente del Supremo Tribunal de Justicia del Estado, quien ejercerá las atribuciones que le confieren la Constitución Política del Estado y esta Ley.
+El Consejo de la Judicatura estará presidido por el Presidente del Supremo Tribunal de Justicia del Estado y, en ausencia de éste, lo presidirá el Magistrado de mayor antigüedad atendiendo al decreto de su designación, quien ejercerá las atribuciones que le confieren la Constitución Política del Estado y esta Ley.
 
 ### CAPITULO II. De las Sesiones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 90.
 
-El Consejo de la Judicatura sesionará cuando menos una vez a la semana, correspondiendo la convocatoria al Presidente del mismo, a la que se agregará la orden del día, en la que necesariamente se incluirán asuntos generales.
+El Consejo de la Judicatura sesionará cuando menos una vez a la semana, correspondiendo la convocatoria al Presidente del mismo, a la que se agregará el orden del día, en el que necesariamente se incluirán asuntos generales.
 
 El Pleno del Consejo de la Judicatura también podrá sesionar a solicitud de cualquiera de sus integrantes. Dicha solicitud deberá presentarse al Presidente del propio Consejo, a fin de que emita la convocatoria correspondiente en los términos del párrafo anterior.
 
@@ -953,11 +1097,15 @@ Las resoluciones del Pleno del Consejo se tomarán por mayoría calificada de tr
 
 El consejero que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva, si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
-El Pleno del Consejo de la Judicatura calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será sustituido por el Magistrado del Supremo Tribunal de Justicia más antiguo en el orden de su designación o de mayor edad.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+El Pleno del Consejo de la Judicatura calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el Presidente, será sustituido por el Magistrado del Supremo Tribunal de Justicia, en los términos del artículo 89 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 93.
 
-Las resoluciones del Pleno y de las comisiones del Consejo de la Judicatura, constarán en acta y deberán notificarse personalmente a la brevedad posible a las partes interesadas. La notificación y, en su caso, la ejecución de las mismas, deberá realizarse por conducto de los órganos del propio Consejo de la Judicatura o del Juzgado que actúe en auxilio de éste.
+Las resoluciones del Pleno y de las comisiones del Consejo de la Judicatura, constarán en acta y deberán notificarse personalmente a la brevedad posible a las partes interesadas. La ejecución de las mismas, deberá realizarse de inmediato por conducto de los órganos del propio Consejo de la Judicatura o del Juzgado que actúe en auxilio de éste.
 
 Cuando el Pleno del Consejo de la Judicatura estime que sus reglamentos, acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
 
@@ -1153,13 +1301,17 @@ El Secretariado Ejecutivo de Pleno y Carrera Judicial será responsable del Inst
 
 La Contraloría del Poder Judicial dependiente del Consejo de la Judicatura, a través del Secretariado Ejecutivo de Vigilancia y Disciplina, tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a los órganos, servidores públicos y empleados del propio Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 108.
 
-La Contraloría se integra con un Contralor y el personal necesario para el cumplimiento de sus funciones, designado por el Consejo de la Judicatura, a propuesta de su Presidente.
+La Contraloría se integrará con un Contralor y el personal necesario para el cumplimiento de sus funciones, designado por el Consejo de la Judicatura, a propuesta de su Presidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 109.
 
-La Contraloría tiene las siguientes atribuciones:
+La Contraloría tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de las normas de control establecidas por la ley y el Consejo de la Judicatura;
 
@@ -1227,9 +1379,9 @@ III. Comprobar si se encuentran inventariados y asegurados los instrumentos del 
 
 IV. Revisar los libros de gobierno a fin de determinar si se encuentran en orden y contienen los datos requeridos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-V. Hacer constar el número de asuntos penales, civiles, mercantiles, familiares, y de justicia para menores, concluidos y en trámite; y de juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión;
+V. Hacer constar el número de asuntos, penales; civiles; mercantiles; familiares; de justicia para menores; y de ejecución de sentencias y medidas de seguridad, concluidos y en trámite- (sic) así como de los juicios de amparo que se hayan promovido en contra del órgano visitado, durante el lapso que comprende la revisión- (sic)
 
 VI. Determinar si los procesados en libertad caucional han cumplido con la obligación de presentarse en los plazos fijados, y si durante la suspensión de un proceso prescribió la acción penal;
 
@@ -1293,9 +1445,11 @@ El Instituto contará con el área de investigación, la cual tendrá como funci
 
 ### CAPITULO V. De la Oficialía de Partes Común
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 125.
 
-Para el turno de los diversos asuntos que se presenten, existirán oficinas denominadas oficialías de partes común para los diversos juzgados, en los distritos judiciales en que sean necesarias.
+Para el turno de los diversos asuntos que se presenten, existirán oficinas denominadas oficialías de partes común para los diversos juzgados, en los distritos judiciales y regiones en que sean necesarias.
 
 En los juzgados penales del distrito judicial de la Capital del Estado, la distribución de los asuntos se hará diariamente, en forma equitativa y sucesiva, correspondiendo a cada juzgado conocer conforme al orden recibido de un delito grave, y otro que no lo sea.
 
@@ -1371,9 +1525,9 @@ Para la consulta y expedición de documentos que se encuentren depositados en el
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-I. Todos los expedientes del orden civil, familiar, penal, y los relativos a la justicia para menores, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos judiciales;
+I. Todos los expedientes del orden civil, familiar y penal, y los relativos a la justicia para menores, concluidos, tanto por el Supremo Tribunal de Justicia, como por los juzgados de los diversos distritos y regiones judiciales~
 
 II. Los expedientes que aún cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo por un lapso de seis meses;
 
@@ -1419,11 +1573,11 @@ La biblioteca estará al servicio de los funcionarios judiciales y del público 
 
 ### CAPITULO IX. De la Gaceta Judicial
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 145.
 
-El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral; y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar, penal, y en materia de justicia para menores, por las salas y el Pleno del Supremo Tribunal de Justicia; así como los trabajos, artí culos jurí dicos (sic) y ejecutorias de amparo que se estimen importantes.
+El Poder Judicial contará con una Gaceta que publicará por lo menos en forma trimestral- (sic) y tendrá por objeto dar a conocer la jurisprudencia, las tesis aisladas más notables que se pronuncien en el ramo civil, familiar y penal, y en materia de justicia para menores y, de ejecución de sentencias y medidas de seguridad, por las salas y el Pleno del Supremo Tribunal de Justicia- (sic) así como los trabajos, artículos jurídicos y ejecutorias de amparo que se estimen importantes.
 
 ###### ARTICULO 146.
 
@@ -1439,29 +1593,47 @@ El personal de la Gaceta Judicial será designado por el Consejo de la Judicatur
 
 El ingreso y la promoción de los servidores públicos de carácter jurisdiccional del Poder Judicial del Estado, se hará mediante el sistema de carrera judicial, la cual se regirá por los principios de excelencia, profesionalismo, probidad, objetividad, imparcialidad, independencia y antigüedad, en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 148.
 
-La carrera judicial estará integrada por las siguientes categorías:
+La carrera judicial, para efectos jurisdiccionales, estará integrada por las siguientes categorías:
 
 I. Juez de Primera Instancia;
 
 II. Juez Menor;
 
-III. Secretario General del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+III. Secretario General de Acuerdos del Supremo Tribunal de Justicia;
 
 IV. Secretario de Acuerdos;
 
-V. Secretario de Estudio y Cuenta;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-VI. Subsecretario del Supremo Tribunal de Justicia;
+V. Secretario de Acuerdos de Juzgado Menor;
 
-VII. Subsecretario de salas y juzgados, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-VIII. Actuario.
+VI. Secretario de Estudio y Cuenta;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+VII. Subsecretario del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+VIII. Subsecretario, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+IX. Actuario.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 149.
 
-Las designaciones que deban hacerse en las categorías de la carrera judicial a que se refiere el artículo anterior, ya sean definitivas o de carácter interino, deberán ser cubiertas invariablemente mediante concurso de oposición, que podrá ser abierto; en las condiciones y mediante los procedimientos que determine el Consejo de la Judicatura.
+Las designaciones que deban hacerse en las categorías de la carrera judicial a que se refiere el artículo anterior, ya sean definitivas o de carácter interino, deberán ser cubiertas invariablemente mediante concurso de oposición, que podrá ser abierto; en las condiciones y mediante los procedimientos que determine el Consejo de la Judicatura, tomando en consideración la propuesta del titular del órgano jurisdiccional correspondiente donde se genera la vacante, atendiendo el perfil de la persona que lo ocupará, así como su expediente personal.
 
 ###### ARTICULO 150.
 
@@ -2000,3 +2172,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
