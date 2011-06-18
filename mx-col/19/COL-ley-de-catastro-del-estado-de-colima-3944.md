@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "2011-05-21"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2011, EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -627,15 +627,13 @@ La autoridad que reciba el recurso enviará el original del escrito que lo conte
 
 Los recursos deberán ser resueltos en un plazo que no excederá de tres meses, contando a partir de la fecha en que se interpongan, y los efectos de la resolución se retrotraerán a la fecha de interposición de aquéllos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JUNIO DE 2011, EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 ###### ARTICULO 51.
 
 Cuando el recurso sea resuelto favorablemente, se procederá a corregir la resolución o resoluciones impugnadas, de acuerdo al fallo emitido.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2011)</small>
+(ADICIONADO, P.O. 21 DE MAYO DE 2011) (F. DE E., P.O. 18 DE JUNIO DE 2011)
 
-(SIC)
+Las actuaciones a que se refiere este capítulo podrán ser firmadas y autorizadas con la firma autógrafa o electrónica certificada de quien las emite.
 
 ### CAPITULO VIII. DE LAS INFRACCIONES Y SANCIONES
 
