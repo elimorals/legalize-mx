@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2009-12-26"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -1931,9 +1931,11 @@ Es acuerdo, toda resolución del Congreso que no requiera la promulgación del E
 
 El Congreso mediante acuerdo, puede aprobar también votos de censura o de aprobación y pedir informes por escrito a los Poderes Ejecutivo y Judicial, a los Ayuntamientos y a cualquier organismo y persona que maneje fondos públicos.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### Artículo 182.
 
-Tan luego como fuere aprobado un proyecto de ley o decreto o un acuerdo, se mandará al Ejecutivo para su sanción y publicación, en su caso.
+Aprobado un proyecto de ley, decreto o acuerdo, se mandará dentro de los siguientes 5 días hábiles al Ejecutivo para su sanción y publicación, en su caso.
 
 ###### Artículo 183.
 
@@ -2424,3 +2426,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
