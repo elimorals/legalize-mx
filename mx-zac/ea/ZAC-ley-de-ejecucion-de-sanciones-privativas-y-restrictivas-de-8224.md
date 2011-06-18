@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-8224
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2008-12-24"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
 
-LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
+LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DEL SISTEMA PENITENCIARIO Y DE EJECUCIÓN DE SANCIONES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2011.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 10 de julio de 1993.
 
@@ -189,7 +191,7 @@ III.- Que se acrediten las hipótesis contenidas en las fracciones I, II, IV y V
 
 ### Capítulo Primero. De la Dirección de Prevención y Readaptación Social
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -477,7 +479,7 @@ II.- Se oirá en defensa al interno, quien podrá aportar pruebas y formular ale
 
 III.- Se dictará resolución por escrito, debidamente fundada y motivada, misma que se notificará al interesado en términos del reglamento respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -907,7 +909,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. PEDRO GOYTIA ROBLES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 1997.
 
@@ -948,3 +950,35 @@ Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicac
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, de manera sucesiva según las siguientes prevenciones:
+
+1. Sus disposiciones se aplicarán, de manera integral, en el Distrito Judicial de la Capital; y
+
+2. En el resto de los Distritos Judiciales, sus disposiciones se aplicarán en las fechas en que entre en vigor el nuevo Sistema de Justicia Penal en los términos del artículo segundo transitorio del Código Procesal Penal para el Estado de Zacatecas.
+
+Artículo Segundo. Se abroga, conforme al artículo anterior, la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Zacatecas contenida en el decreto número 27, publicado en el Suplemento al número 55 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 10 de julio de 1993.
+
+Artículo Tercero. Los procedimientos de ejecución de sentencia que se encuentren en trámite, al momento de entrar en vigor esta Ley, se continuarán ejecutando de conformidad con (sic) Ley de Ejecución de Sanciones Privativas y Restrictivas del Estado de Zacatecas.
+
+Artículo Cuarto. Las solicitudes de otorgamiento de beneficios de libertad anticipada que se encuentren en trámite en la Dirección de Prevención y Readaptación Social y pendientes de resolución a la entrada en vigor de esta Ley, serán resueltas por el Poder Ejecutivo aplicando la ley más favorable al sentenciado.
+
+Artículo Quinto. Cuando otras disposiciones legales mencionen a la Dirección de Prevención y Readaptación Social se entenderán referidas a la Dirección General de Prevención y Reinserción Social.
+
+Artículo Sexto. Cuando otras disposiciones legales mencionen a los Centros de Readaptación Social se entenderán referidas a los Centros de Reinserción Social.
+
+Artículo Séptimo. El Poder Ejecutivo ajustará los Reglamentos Interiores de los Centros de Reinserción Social a las disposiciones de la presente Ley dentro de los ciento ochenta días naturales posteriores a la entrada en vigor de la misma.
+
+Artículo Octavo. Los Consejos Técnicos Interdisciplinarios, dispondrán de 90 días naturales para la elaboración de su Reglamento Interno.
+
+Artículo Noveno. Constituido el Patronato de Reinserción Social por el Empleo dispondrá de 90 días naturales para la elaboración de su Reglamento Interior.
+
+Artículo Décimo. Dentro de los noventa días hábiles, posteriores al inicio de vigencia de este Decreto, el Pleno del Tribunal Superior de Justicia del Estado, deberá realizar las acciones necesarias a efecto de que los jueces de ejecución puedan conocer, substanciar y resolver los procedimientos previstos en este instrumento legislativo.
+
+Artículo Decimoprimero. En tanto el Pleno del Tribunal Superior de Justicia del Estado realiza las acciones mencionadas en el artículo anterior, podrá habilitar a Jueces de Garantía y Tribunal de Juicio Oral, para conocer, substanciar y resolver los procedimientos previstos en este Decreto.
+
+Artículo Decimosegundo. El Ejecutivo del Estado enviará a esta Legislatura, en el término de 15 días posteriores a la vigencia de este decreto, la ampliación presupuestal del Poder Judicial del Estado de Zacatecas, que garantice la creación de los Juzgados de Ejecución de sentencias en los diferentes Distrito (sic) Judiciales.
+
+Artículo Decimotercero. Se derogan todas las disposiciones que contravengan esta Ley.
