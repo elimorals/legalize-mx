@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-seguridad-e-higiene-en-el-trabajo-del-poder-18866
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-04"
-last_updated: "2000-11-04"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "TAB"
 
 REGLAMENTO DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE SEGURIDAD E HIGIENE EN EL TRABAJO DEL PODER EJECUTIVO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el sábado 4 de noviembre de 2000.
 
@@ -473,3 +475,23 @@ ENF. TAURINO JOSE CRUZ GARCIA
 EL SECRETARIO DE ORGANIZACIÓN Y ESTADÍSTICA
 
 LCE. JAVIER GARCÍA MORALES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento de Seguridad e Higiene en el Trabajo, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Seguridad e Higiene en el Trabajo del Poder Ejecutivo del Estado, Publicado en el Periódico Oficial del Estado, número 6069, de fecha 4 de noviembre del 2000.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección General, proveerá lo necesario para la integración, instalación y funcionamiento de la Comisión Central Mixta y ésta hará lo propio con respecto de la Comisión Auxiliar de Seguridad e Higiene, así como las Comisiones Permanentes que sean necesarias en los centros de trabajo.
+
+###### ARTÍCULO CUARTO.
+
+Este ordenamiento deberá ser revisado y modificado cada dos años, de común acuerdo entre el Ejecutivo y el Sindicato.
