@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2010-08-14"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -75,7 +75,9 @@ Asimismo, tiene la potestad para normar directamente las materias, funciones, pr
 
 Cada municipio será gobernado y administrado por un ayuntamiento cuyos miembros se elegirán por sufragio universal, libre, secreto y directo, mediante los principios de mayoría relativa y de representación proporcional, de conformidad con la Constitución Política estatal y el Código Electoral y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado. Por tanto, el ayuntamiento será reconocido como interlocutor directo con los demás ámbitos de gobierno, en relación a las acciones que incidan en su territorio.
 
-El ayuntamiento es la forma de gobierno municipal mediante la cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+El ayuntamiento es el órgano de gobierno municipal mediante el cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
 Con el propósito de mejorar la calidad de vida de los habitantes de los municipios, las relaciones entre éstos y el gobierno del Estado, se conducirán por los principios de coordinación y descentralización.
 
@@ -102,6 +104,14 @@ A toda solicitud o petición, el ayuntamiento deberá dar respuesta y comunicarl
 a) Hasta treinta días, cuando la decisión corresponda al presidente municipal o a los titulares de las dependencias y entidades de la administración pública municipal y paramunicipal; y
 
 b) Hasta cuarenta y cinco días cuando la decisión corresponda al cabildo.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+En caso de que una solicitud o petición presentada no sea atendida mediante respuesta escrita por la autoridad competente, dentro de los plazos señalados en este precepto, se entenderá contestada en sentido afirmativo o como consentida, por la dependencia o autoridad municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+La figura jurídica de la Afirmativa Ficta a que se refiere el párrafo anterior, sólo operará respecto de los actos regulativos, en términos de la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, siempre y cuando se cumplan con los requisitos que la norma exige para el caso específico y que no se cause perjuicio ni lesión a intereses de terceros, ni al interés público.
 
 ###### ARTICULO 8°.
 
@@ -467,7 +477,9 @@ V. Expedientes fiscales:
 
 Los integrantes del cabildo saliente según sus comisiones, y los titulares de las dependencias municipales, formularán y entregarán a los munícipes y servidores públicos entrantes un listado de las acciones que a su juicio deban emprender o continuar, con el propósito de que no se interrumpa el desarrollo de las tareas municipales.
 
-Compete al ayuntamiento, por conducto del presidente, tesorero, síndico y contralor municipales, la vigilancia en el cumplimiento de la presente disposición; y a la Contaduría Mayor de Hacienda del Congreso dictar, en el ámbito de su competencia, las medidas complementarias, elaborar formatos y fijar los procedimientos que su aplicación requiera.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+Compete al ayuntamiento, por conducto del presidente, tesorero, síndico y contralor municipales, la vigilancia en el cumplimiento de la presente disposición; y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado dictar, en el ámbito de su competencia, las medidas complementarias, elaborar formatos y fijar los procedimientos que su aplicación requiera.
 
 Los miembros del ayuntamiento, el secretario, tesorero y demás servidores públicos municipales, entrantes y salientes, estarán obligados a comparecer ante las comisiones legislativas, cuando se estime necesario recabar alguna información relativa a los ayuntamientos.
 
@@ -545,7 +557,9 @@ I. En materia de gobierno y régimen interior.
 
 a) Aprobar los reglamentos, bandos de policía y gobierno, circulares y disposiciones administrativas de observancia general, que sean de competencia municipal;
 
-b) Presentar ante el Congreso iniciativas de ley en materia municipal, en los términos de la Constitución;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+b) Presentar ante el Congreso iniciativas de ley, en los términos de la Constitución;
 
 c) Elegir de entre sus miembros a los integrantes de las comisiones del ayuntamiento;
 
@@ -623,13 +637,15 @@ a) Administrar libremente su hacienda y los bienes destinados al servicio públi
 
 b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detallada de los ingresos y egresos habidos en el mes anterior;
 
-c) Autorizar y remitir al Congreso, para su aprobación, entre el 1o. y el 15 del mes de noviembre de cada año, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará vigente ley (sic) general de ingresos municipales del ejercicio fiscal vigente;
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+c) Autorizar y remitir anualmente al Congreso para su aprobación, la iniciativa de ley de ingresos municipales para el siguiente año, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, con motivo del cambio de gobierno municipal; en caso de incumplimiento quedará en vigor la ley de ingresos municipales del ejercicio fiscal vigente;
 
-d) Aprobar el dictamen de revisión de los resultados semestrales de la cuenta pública municipal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso dentro de los 30 días naturales siguientes a la conclusión de cada semestre, para los efectos señalados en el artículo 33 fracción XI de la Constitución
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
-Dichos resultados se elaborarán por los meses comprendidos de enero a junio y de julio a diciembre de cada año, debiendo integrar en este último periodo las cifras consolidadas anuales de los resultados de la gestión municipal. Respecto del primer semestre del año, los resultados tendrán carácter provisional, por lo que podrán sufrir ajustes durante el semestre siguiente, mismos que habrán de reflejarse en los resultados anuales.
+d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -683,7 +699,9 @@ VII. En general, promover en la esfera administrativa lo necesario para la aplic
 
 Los ayuntamientos no podrán en ningún caso:
 
-I. Imponer contribuciones que no estén establecidas en las leyes de ingresos municipales;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+I. Imponer contribuciones que no estén establecidas en las leyes de ingresos y de hacienda municipales;
 
 II. Cobrar los impuestos municipales mediante iguala;
 
@@ -751,13 +769,15 @@ b) Prestar a las autoridades judiciales el auxilio que soliciten.
 
 IV. En materia de hacienda municipal:
 
-a) Vigilar que la recaudación en todas las ramas de la hacienda pública municipal, se haga con apego a la ley general de ingresos municipales; y
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+a) Vigilar que la recaudación en todas las ramas de la hacienda pública municipal, se haga con apego a la ley de ingresos y de hacienda municipales; y
 
 b) Vigilar que el gasto y la inversión de los fondos municipales, se haga con estricto apego al presupuesto de egresos;
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
-c) Vigilar que se entregue a la comisión de hacienda y síndico municipal, en tiempo y forma, el proyecto de los resultados semestrales de la cuenta pública municipal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con el síndico municipal elaboren el dictamen de revisión de los resultados semestrales de las cuentas públicas municipales.
+c) Vigilar que se entregue a la comisión de hacienda y síndico municipal, en tiempo y forma, el proyecto de la cuenta pública municipal del ejercicio fiscal que elabore la tesorería municipal, así como el resultado de la revisión practicada por la contraloría municipal a las operaciones contables, financieras, presupuestales y de ejecución de obras públicas, las relativas a programas sociales y a todas las operaciones que afecten al patrimonio, la deuda pública municipal directa o indirecta y sobre las concesiones otorgadas por el ayuntamiento, así como toda la documentación que solicite la citada comisión, con el fin de que la misma conjuntamente con el síndico municipal elaboren el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal.
 
 V. En materia social, cultural y desarrollo comunitario:
 
@@ -793,7 +813,9 @@ Los presidentes municipales no podrán, en ningún caso:
 
 I. Desviar los fondos y bienes municipales de los fines a que estén destinados;
 
-II. Imponer contribución o sanción alguna que no esté señalada en la ley general de ingresos municipales u otras disposiciones legales;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+II. Imponer contribución o sanción alguna que no esté señalada en las leyes de ingresos municipales u otras disposiciones legales;
 
 III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o inmuebles o en cualquier otro asunto de carácter civil, ni decretar sanciones o penas de carácter penal;
 
@@ -827,9 +849,9 @@ V. Asistir a las visitas de inspección que se hagan a la tesorería municipal;
 
 VI. Solicitar y obtener del tesorero municipal, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesarias para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-VII.- Vigilar que se presente al Congreso el dictamen de revisión de los resultados semestrales de la cuenta pública municipal, una vez aprobado por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado;
+VII. Vigilar que se presente al Congreso el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal, una vez aprobado por el cabildo, en las fechas que señala el artículo 95 de la Constitución del Estado;
 
 VIII. Legalizar la propiedad de los bienes municipales e intervenir en la formulación y actualización de los inventarios de bienes muebles e inmuebles del municipio, procurando que se establezcan los registros administrativos necesarios para su control y vigilancia;
 
@@ -1067,9 +1089,9 @@ XI. Establecer convenios de coordinación fiscal con el gobierno del Estado en l
 
 XII. Pagar la nómina al personal que labora en el municipio;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-XIII.- Elaborar el proyecto de los resultados semestrales de la cuenta pública municipal y entregarlo dentro de los 20 días naturales siguientes a la conclusión de cada semestre a la comisión de hacienda y síndico municipal; y
+XIII.- Elaborar el proyecto de la cuenta pública municipal del ejercicio fiscal y entregarlo dentro de los primeros 30 días naturales del año a la comisión de hacienda y síndico municipal; y
 
 XIV. Las demás que les señalen las leyes y reglamentos.
 
@@ -1159,11 +1181,11 @@ IX. Establecer y operar un sistema de quejas, denuncias y sugerencias;
 
 X. Participar en la entrega-recepción de las dependencias y entidades de la administración pública municipal;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-XI.- Apoyar a la comisión de hacienda y síndico municipal en la elaboración del dictamen de revisión de los resultados semestrales de la cuenta pública municipal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
+XI. Apoyar a la comisión de hacienda y síndico municipal en la elaboración del dictamen de revisión de la cuenta pública municipal del ejercicio fiscal, tomando como base el proyecto que presente la tesorería municipal, así como los resultados de la revisión practicada por la propia contraloría de conformidad con lo establecido en el segundo párrafo de la fracción III de este artículo.
 
-Entregar a la comisión de hacienda y síndico municipal el informe de los resultados semestrales de la revisión practicada a las operaciones de la gestión municipal correspondientes a los períodos enero junio y julio diciembre de cada año, a más tardar el día 20 del mes siguiente a la conclusión del semestre de que se trate, así como toda la documentación que soporte dichos resultados;
+Entregar a la comisión de hacienda y síndico municipal el informe de los resultados del ejercicio fiscal de la revisión practicada a las operaciones de la gestión municipal correspondientes, a más tardar el día 30 del mes siguiente a la conclusión del año, así como toda la documentación que soporte dichos resultados;
 
 XII. Vigilar el desarrollo administrativo de las dependencias y entidades de la administración pública municipal, a fin de aplicar con eficiencia los recursos humanos y patrimoniales;
 
@@ -1171,7 +1193,9 @@ XIII. Presentar al presidente municipal un plan anual de trabajo, durante el mes
 
 XIV. Proponer al ayuntamiento al servidor público que fungirá como comisario público en las empresas de participación municipal;
 
-XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el tesorero y el presidente municipal en el cumplimiento de las observaciones que formule la Contaduría Mayor de Hacienda; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el tesorero y el presidente municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Superior Gubernamental del Estado; y
 
 XVI. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos del ayuntamiento.
 
@@ -1334,6 +1358,8 @@ El Congreso podrá ordenar los estudios y análisis técnicos para determinar lo
 Los conflictos que se presenten con motivo de la aplicación de los convenios a que se refiere este capítulo, serán resueltos por el Supremo Tribunal de Justicia, sin perjuicio del derecho de acudir en controversia constitucional en los términos del artículo 105 de la Constitución General.
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 95.
 
@@ -1541,7 +1567,7 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 ###### ARTICULO 110.
 
-La planeación constituye la base de la administración pública municipal y tiene como sustento el sistema de planeación democrática, previsto en la Constitución General, en la Constitución, en la Ley de Planeación del Estado y en esta Ley.
+La planeación constituye la base de la administración pública municipal y tiene como sustento el sistema de planeación democrática, previsto en la Constitución General, en la Constitución, en la Ley de Planeación para el Desarrollo del Estado y en esta Ley.
 
 ###### ARTICULO 111.
 
@@ -1797,11 +1823,11 @@ Las sanciones económicas constituyen créditos fiscales en favor del erario mun
 
 Tratándose de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la ley que regula las relaciones laborales de aquéllos con el municipio.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 136.
 
-La falta de cumplimiento de lo preceptuado en los artículos 45 fracción IV inciso d), 47 fracción IV inciso c), 51 fracción VII, 72 fracción XIII y 78 fracciones III y XI, será responsabilidad imputable a quien motive la no presentación del dictamen de revisión de los resultados semestrales de la cuenta publica municipal al Congreso.
+La falta de cumplimiento de lo preceptuado en los artículos 45 fracción IV inciso d), 47 fracción IV inciso c), 51 fracción VII, 72 fracción XIII y 78 fracciones III y XI, será responsabilidad imputable a quien motive la no presentación del dictamen de revisión de la cuenta pública municipal del ejercicio fiscal al Congreso.
 
 ## TRANSITORIOS
 
@@ -1886,5 +1912,9 @@ P.O. 1 DE MAYO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 14 DE AGOSTO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
