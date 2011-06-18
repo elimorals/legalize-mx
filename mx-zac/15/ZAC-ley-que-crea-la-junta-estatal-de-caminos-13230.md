@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-crea-la-junta-estatal-de-caminos-13230"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-26"
-last_updated: "1986-04-26"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY QUE CREA LA JUNTA ESTATAL DE CAMINOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA JUNTA ESTATAL DE CAMINOS PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 26 de abril de 1986.
 
@@ -168,3 +170,17 @@ MARTHA VEYNA DE GARCÍA
 DIPUTADO SECRETARIO
 
 FELIPE DE JESÚS ORTÍZ HERRERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JUNIO DE 2011.
+
+Artículo primero.- La presente Ley Orgánica entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se abroga la Ley que crea la Junta Estatal de Caminos, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 26 de abril de 1986.
+
+Artículo tercero.- Dentro de los treinta días siguientes a la entrada en vigor de la presente Ley, deberá quedar conformado el Consejo Directivo.
+
+Artículo cuarto.- El Estatuto Orgánico de la Junta deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días siguientes a la entrada en vigor de este ordenamiento. Los manuales o, en su caso, las reformas a los mismos, deberán publicarse dentro de los noventa días siguientes a la entrada en vigor del citado Estatuto.
+
+Artículo quinto.- Se derogan las disposiciones que contravengan la presente Ley.
