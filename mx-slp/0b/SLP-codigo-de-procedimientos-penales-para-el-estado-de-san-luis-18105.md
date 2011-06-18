@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-01-21"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -103,15 +103,19 @@ II. Determinar, con sujeción a las disposiciones de este Código y de las leyes
 
 III. Declarar la responsabilidad o la no responsabilidad de los acusados;
 
-IV. Imponer a los responsables las penas y medidas de seguridad establecidas en las leyes penales;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+IV. Imponer a los responsables las penas y medidas de seguridad establecidas en las leyes penales y determinar sobre su modificación y duración;
 
 V. Declarar de oficio el sobreseimiento, o resolver lo procedente si fuere a petición de parte, y
 
 VI. Las demás que fijen las leyes.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 5.
 
-El Gobernador del Estado, por conducto del órgano correspondiente, ejecutará las sentencias observando las reglas de la Ley de Ejecución de Penas y Medidas de Seguridad del Estado y el Ministerio Público cuidará su cabal cumplimiento.
+La ejecución de las penas y medidas de seguridad corresponde, en el ámbito jurisdiccional al Poder Judicial, a través del juez de ejecución y, en el aspecto penitenciario, al Poder Ejecutivo por conducto de la Dirección General de Prevención y Reinserción Social, de conformidad con las leyes aplicables.
 
 ###### ARTICULO 6.
 
@@ -135,9 +139,11 @@ Todo inculpado se presumirá inocente mientras no se pruebe en el proceso su cul
 
 El estado de duda implica la obligación legal de absolver al acusado cuando no existan elementos racionales respecto a si cometió o no el delito que se le imputa.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Todo individuo tiene derecho a ser juzgado en los plazos señalados por la fracción VIII del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. La prisión preventiva no podrá prolongarse por más tiempo del que fije la Ley como máximo para el delito de que se trate, salvo los casos en que el inculpado por sí o a través de su defensor, solicite mayor plazo para su defensa.
+Todo individuo tiene derecho a ser juzgado en los plazos señalados por el artículo 20, fracción VII, apartado B, de la Constitución Política de los Estados Unidos Mexicanos. La prisión preventiva no podrá prolongarse por más tiempo del que fije la ley como máximo para el delito de que se trate, salvo los casos en que el inculpado por sí o a través de su defensor, solicite mayor plazo para su defensa.
 
 ###### ARTICULO 12.
 
@@ -167,9 +173,13 @@ También será competente para conocer de un asunto, un juez perteneciente a un 
 
 Cuando el Ministerio Público inicie el ejercicio de la acción penal ante un órgano jurisdiccional incompetente, éste en prevención, deberá dictar auto de radicación y llevar a cabo todos los actos inherentes a la preinstrucción, hasta dictar el auto de procesamiento o de libertad por falta de elementos para procesar, dentro del plazo previsto en la fracción II del artículo 3º de este Código. Una vez pronunciado el auto de formal prisión, ordenará se remita el expediente al Juez que considere competente, poniendo a su disposición al inculpado, para que continúe la substanciación del proceso. En este caso, será válido todo lo actuado por el Juez incompetente.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 17.
 
-La competencia por grado y territorio de los órganos jurisdiccionales, se sujetará a las disposiciones de la Ley Orgánica del Poder Judicial del Estado.
+La competencia por grado, territorio y cuantía de los órganos jurisdiccionales, se sujetará a las disposiciones de la Ley Orgánica del Poder Judicial del Estado.
+
+Será competente para resolver sobre los beneficios, el tratamiento, la extinción de las penas y medidas de seguridad, el Juez de Ejecución que tenga competencia en el centro de reinserción donde el sentenciado se encuentre al momento de cumplir con los requisitos que para tales derechos señala la ley.
 
 ###### ARTICULO 18.
 
@@ -289,9 +299,11 @@ V. La condena o absolución que proceda, así como los demás puntos resolutivos
 
 ### CAPITULO III. INTERPRETES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 39.
 
-Cuando el inculpado, el ofendido o el denunciante, los testigos o los peritos no hablen o no entiendan suficientemente el idioma español, se les nombrará a petición de parte o de oficio, uno o más intérpretes, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir. Cuando lo solicite cualquiera de las partes, podrá escribirse la declaración en el idioma, lengua o dialecto del declarante, sin que esto obste para que el intérprete haga la traducción.
+Cuando el inculpado, el sentenciado, el ofendido o el denunciante, los testigos o los peritos no hablen o no entiendan suficientemente el idioma español, se les nombrará a petición de parte o de oficio, uno o más intérpretes, quienes deberán traducir fielmente las preguntas y contestaciones que hayan de transmitir. Cuando lo solicite cualquiera de las partes, podrá escribirse la declaración en el idioma, lengua o dialecto del declarante, sin que esto obste para que el intérprete haga la traducción.
 
 Cuando no pudiere ser habido un intérprete mayor de edad, podrá nombrarse a un menor que haya cumplido quince años.
 
@@ -1263,7 +1275,7 @@ En el caso de que se aboque al conocimiento, le hará saber al detenido que se e
 
 ###### ARTICULO 181.
 
-Tratándose de consignaciones sin detenido, el tribunal ante el cual se ejercite la acción penal, radicará el asunto dentro del término de dos días siguientes a la misma, salvo lo previsto en el párrafo segundo de este articulo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna todas las diligencias que promuevan las partes.
+Tratándose de consignaciones sin detenido, el tribunal ante el cual se ejercite la acción penal, radicará el asunto dentro del término de dos días siguientes a la misma, salvo lo previsto en el párrafo segundo de este artículo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna todas las diligencias que promuevan las partes.
 
 En el caso de los delitos que este Código señala como graves, la radicación se hará de inmediato y el juez ordenará o negará la aprehensión o cateo solicitados por el Ministerio Público, dentro de las veinticuatro horas contadas a partir del momento en que ésta se haya acordado.
 
@@ -3135,87 +3147,525 @@ La resolución que se dicte será apelable en efecto devolutivo.
 
 Cuando en el curso del proceso, el inculpado manifieste, conforme a dictámenes periciales, demencia o cualquier otro trastorno mental que requiera tratamiento, se suspenderá el procedimiento en los términos del artículo 450 fracción III, de este Código remitiéndose al procesado a un establecimiento adecuado para su tratamiento.
 
-## TITULO OCTAVO. EJECUCION DE PENAS Y MEDIDAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2011)</small>
+
+## TITULO OCTAVO. EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 481.
 
-En toda sentencia condenatoria, el tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, lo que se hará en diligencia pública o privada, según parezca prudente al juez. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia y de habitualidad que fueran procedentes.
+La ejecución de las penas y medidas de seguridad se realizará una vez que la sentencia haya causado ejecutoria, debiéndose ajustar a los siguientes lineamientos:
+
+I. Se desarrollará con las garantías y sujeción a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes y demás disposiciones aplicables;
+
+II. Con respeto a la dignidad humana de los sentenciados y sus derechos e intereses jurídicos no afectados por la sentencia, sin establecerse diferencia alguna por origen étnico, raza, idioma, opiniones políticas, creencias religiosas, condición social o cualesquiera otra circunstancia de análoga naturaleza;
+
+III. Las audiencias y actos procesales que se desarrollen en el procedimiento de ejecución deberán realizarse íntegramente bajo la observancia directa del juez de ejecución, con la participación de las partes, sin que aquél pueda delegar en alguna otra persona esa función;
+
+IV. Las decisiones inherentes a la ejecución de las sanciones penales, tendrán fundamento en la información técnico-jurídica que proporcione la autoridad penitenciaria, informes que se regirán por los principios de especialidad y objetividad, y
+
+V. El expediente personal de los sentenciados tendrá tratamiento confidencial y sólo podrán imponerse de su contenido las autoridades competentes, el interno y su defensor, o las personas directamente interesadas en la tramitación del caso.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 482.
 
-El Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, tendrá a su cargo la ejecución de las penas y medidas de seguridad, con las salvedades previstas por la ley.
+Toda resolución condenatoria que cause ejecutoria, se comunicará de manera inmediata al juez de ejecución, enviando copia de la sentencia, del auto que la declaró ejecutoriada, de los datos de identificación del sentenciado, y demás documentos que sean necesarios dejando a su disposición al sentenciado, comunicando lo anterior al responsable del Centro de Reinserción.
+
+Recibidas las constancias anteriores, el Juez de Ejecución dictará las disposiciones necesarias para la ejecución de la sentencia.
+
+El juez de ejecución llevará un registro y formará un expediente particular a cada sentenciado, a fin de darle seguimiento hasta que esté en aptitud de obtener los beneficios o tratamientos que la ley le concede, o hasta la extinción de la pena, y decretará de oficio todas las diligencias y comunicaciones que se requieran para dar total cumplimiento al fallo.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 483.
 
-Es obligación del Ministerio Público vigilar que las sentencias sean estrictamente cumplidas, y para tal efecto, gestionará ante las autoridades administrativas lo que proceda, o exigirá ante los tribunales la represión de todos los abusos de aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido en tales resoluciones, a favor o en contra de los individuos que sean objeto de ellas.
+La autoridad judicial, en la ejecución de las penas y medidas de seguridad, tendrá las atribuciones que señala la Ley Orgánica del Poder Judicial del Estado.
 
-Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá dentro de los tres días siguientes, un testimonio de ella al director de Prevención y Readaptación Social del Estado y otro a la Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 484.
 
-Si en la sentencia se hubiera impuesto una sanción pecuniaria que deba hacerse efectiva por conducto de la autoridad fiscal correspondiente, se enviará a ésta copia autorizada de dicha resolución para que proceda de acuerdo con su facultad económica-coactiva.
+Es obligación del Ministerio Público vigilar que las sentencias sean estrictamente cumplidas y, para tal efecto, gestionará ante el juez de ejecución lo que proceda.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 485.
 
-Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fiscal, dentro del término de tres días, lo comunicará al juzgador para los efectos legales procedentes.
+El defensor conservará tal carácter y sus facultades durante el proceso de ejecución de la sanción penal, sin perjuicio del derecho del sentenciado a nombrar nuevo defensor o, en su defecto, se le nombrará un defensor público.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 486.
 
-La suspensión, privación e inhabilitación de derechos, funciones, cargos, empleos, comisiones o profesiones, se ejecutará mediante la comunicación de la resolución emitida por el juez que conoció del asunto en primera instancia a la autoridad competente, para el efecto de que lleve registro de esa circunstancia y del debido cumplimiento.
+La práctica de las diligencias que deriven de la función del juzgado de ejecución, deberá realizarse por conducto de sus propios órganos o, en su caso, del juzgado que actúe en auxilio de aquél.
 
-De toda resolución que imponga una pena de esta naturaleza, el juzgador enviará copia certificada al Supremo Tribunal de Justicia, quien llevará un registro al respecto y podrá hacer las comunicaciones que estime pertinentes.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 487.
 
-Cuando en la sentencia se decrete el decomiso de los instrumentos del delito o cualquier otra cosa con que se cometió, así como los que sean efecto u objeto de él, incluyendo dinero o valores, previa resolución judicial, se destinarán en definitiva a las instituciones del Estado que puedan servirse de ellos. Tratándose de objetos, cuya adquisición, uso y renta no estén prohibidos, se podrán subastar en pública almoneda, asignándose el producto de la venta al mejoramiento de los servicios de la administración de justicia.
+El juez de ejecución podrá proponer a las partes la mediación y la conciliación, como medio para restaurar las relaciones humanas y sociales afectadas por el delito.
 
-### CAPITULO II. SUSPENSION CONDICIONAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO II. SUSPENSION CONDICIONAL Y SUSTITUCION DE PENAS
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 488.
 
-Las pruebas que se promuevan para acreditar los requisitos establecidos por el Código Penal para la concesión de la suspensión condicional de la sentencia, se rendirán durante la instrucción, sin que el ofrecimiento de esas pruebas, por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
+El sentenciado que considere que al dictarse el fallo reúne las condiciones fijadas para obtener los beneficios de la suspensión condicional, o la sustitución de la pena, o esté en aptitud de cumplir los requisitos que para tal efecto establece el Código Penal, si por inadvertencia de su parte o de los tribunales no obtuvo en la sentencia el otorgamiento de estos beneficios, podrá solicitarlos ante el juez de ejecución.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 489.
 
-Al formular conclusiones el agente del Ministerio Público o el defensor, si estiman procedente la suspensión condicional de la sentencia, lo indicarán así, para el caso en que el tribunal imponga pena privativa de libertad que no exceda de cinco años.
+Cuando después de concedidos los beneficios a que se refiere el artículo anterior, el sentenciado infrinja alguno de los requisitos establecidos para su otorgamiento, el juez de ejecución procederá a celebrar una audiencia en la cual, oyendo al Ministerio Público, al sentenciado y su defensor, resolverá si se comprobó la existencia de dicha causa y, en su caso, revocará el beneficio concedido, ordenando la ejecución de la sanción impuesta.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 490.
 
-Si el procesado o su defensor no hubieran solicitado en sus conclusiones el otorgamiento del beneficio de la suspensión condicional y si no se concediere de oficio, podrán solicitarla y rendir las pruebas respectivas durante la tramitación de la segunda instancia.
+Cuando al sentenciado que goza de libertad se le haya concedido un sustitutivo penal, se le hará saber por el juez de la causa que cuenta con un plazo de treinta días naturales para adherirse al mismo, los que correrán a partir del día siguiente al que se le notifique que ha causado ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta.
+
+El Organo Jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo a sus condiciones personales, podrá prorrogar este término hasta por treinta días más.
+
+Si el sentenciado no se adhirió al sustitutivo dentro del plazo concedido, se ordenará su reaprehensión por el juez de ejecución, para que sea puesto a su disposición en el centro de reinserción social correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 491.
 
-El reo que considere que al dictarse sentencia reúne las condiciones fijadas para obtener el beneficio de la suspensión condicional, o esté en aptitudes de cumplir tales requisitos, si por inadvertencia de su parte o de los tribunales no obtuvo en la sentencia el otorgamiento de la suspensión condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el Juez de la causa.
+El juez de ejecución determinará las condiciones para el cumplimiento de los sustitutivos de la pena concedidos al sentenciado, a que se refiere el Código Penal del Estado.
 
 ### CAPITULO III. REHABILITACION DE DERECHOS
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 492.
 
-Cuando después de concedida la suspensión condicional, el sentenciado infrinja alguno de los requisitos establecidos para su otorgamiento, el juez que la concedió, procederá con audiencia del Ministerio Público, del reo y de su defensor, si fuere posible, a comprobar la existencia de dicha causa y, en su caso revocará el beneficio de la suspensión condicional, ordenando la ejecución de la sanción impuesta.
+El sentenciado que haya sido inhabilitado en el goce y ejercicio de los derechos previstos específicamente por la ley y la sentencia, podrá solicitar su rehabilitación.
+
+La rehabilitación de los derechos políticos se otorgará en la forma y términos que prevé el artículo 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 493.
 
-La rehabilitación de los derechos políticos, se otorgará en la forma y términos que prescriba la Ley Orgánica del artículo 38 de la Constitución General de la República.
+La rehabilitación de los derechos civiles o políticos no procederá mientras el sentenciado esté extinguiendo la sanción privativa de libertad.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 494.
 
-La rehabilitación de los derechos de que la sentencia hubiere privado al condenado, podrá ser acordada por el Supremo Tribunal de Justicia.
+El sentenciado que hubiere extinguido la sanción privativa de libertad o al que se le hubiera dictado sentencia absolutoria firme, podrá solicitar al juez de ejecución la rehabilitación de sus derechos políticos o civiles, acompañando los documentos justificativos.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 495.
 
-La rehabilitación solamente podrá ser solicitada después de que hayan transcurrido tres años, contados a partir de la extinción de la condena.
+El juez de ejecución, con audiencia de las partes, emitirá la declaración respectiva y la comunicará a las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO IV. EJECUCION DE LAS PENAS
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 496.
 
-Recibida por el Supremo Tribunal de Justicia la solicitud de rehabilitación, aquél practicará dentro de los treinta días siguientes una información para cerciorarse si el solicitante ha observado una conducta tal que le haga acreedor a ella.
+El juez de la causa o Tribunal, al dictar la sentencia respectiva, deberá hacer el cómputo de la pena y abonará el tiempo de la prisión cumplidos por el sentenciado, para determinar con precisión la fecha en la que finalizará la condena.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 497.
 
-Recibida la información el Supremo Tribunal de Justicia decidirá, dentro de los treinta días siguientes, previa audiencia del Ministerio Público y del peticionario, si otorga o no la rehabilitación.
+El cómputo será siempre modificable, aún de oficio por el juez de ejecución, bajo su más estricta responsabilidad, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.
 
-La resolución que la conceda, se publicará en el Periódico Oficial del Estado, sólo a petición del interesado.
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 498.
+
+Tratándose de pena privativa de libertad, el juez de ejecución ordenará las providencias necesarias para que se cumpla la sentencia.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 499.
+
+Si el sentenciado se encuentra en libertad y no se le concedió ningún beneficio, el juez de ejecución dispondrá lo necesario para que sea puesto a su disposición.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 500.
+
+La pena de prisión se compurgará en el centro de reinserción que designe el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 501.
+
+Cuando en la sentencia penal se condene al pago de la reparación del daño y al de la sanción pecuniaria, el juez de ejecución requerirá al sentenciado para que realice el pago correspondiente, en los términos dispuestos por el juez de la causa o el Tribunal.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 502.
+
+Si el sentenciado no cumple con reparar el daño y pagar la sanción pecuniaria, se estará a lo dispuesto por las disposiciones aplicables del Código Penal.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 503.
+
+El juez de ejecución cuidará el debido cumplimiento de las penas de: suspensión, privación e inhabilitación de derechos; así como de funciones, empleos, profesiones u oficios, de la conducción de vehículos y de personas morales.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 504.
+
+Cuando en la sentencia se decrete el decomiso de los instrumentos, objetos, dinero y valores relacionados con la comisión del delito, el juez de ejecución cuidará que sean destinados para los fines que se señala en el Código Penal del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO V. EJECUCION DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 505.
+
+El juez de ejecución cuidará la aplicación de las medidas de seguridad previstas en el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 506.
+
+El juez de ejecución examinará periódicamente la situación del sentenciado que cumple una medida de seguridad. Fijará un plazo no mayor de tres meses entre cada examen, previo informe del Director del Centro de Reinserción Social y de los peritos. La decisión versará sobre la cesación o continuación de la medida y, en este último caso, podrá ordenar la modificación del tratamiento.
+
+Cuando el juez tenga conocimiento, por informe fundado, de que desaparecieron las causas que motivaron la internación, procederá a su sustitución o cancelación.
+
+Las reglas establecidas en este artículo regirán para las medidas de seguridad en lo que sean aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 507.
+
+El juez de ejecución amonestará al sentenciado en los términos previstos en el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 508.
+
+El juez de ejecución establecerá las modalidades para la ejecución del tratamiento en libertad, trabajo a favor de la comunidad, y vigilancia de la autoridad, en concordancia con las disposiciones del Código Penal del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO VI. DEL TRATAMIENTO PRELIBERACIONAL
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 509.
+
+El tratamiento preliberacional es un beneficio que permite la libertad anticipada y condicionada del interno, cuyo otorgamiento corresponde al juez de ejecución.
+
+Para su autorización se requiere:
+
+I. El estudio integral de personalidad elaborado por el Consejo Técnico Interdisciplinario respectivo;
+
+II. Que el tiempo transcurrido en reclusión no sea menor al 40 por ciento de la pena de prisión impuesta, o del 50 por ciento en caso de delitos cometidos con agravantes o calificativas;
+
+III. Que el interno haya observado buena conducta durante su internamiento, sin limitarse a las formalidades, sino que también debe acreditar ante el juez de ejecución su mejoramiento cultural y social, además de la superación en el trabajo;
+
+IV. Que del examen de personalidad pueda presumirse que ha alcanzado las metas aceptables para su reinserción;
+
+V. Que, en su caso, haya hecho el pago de la reparación del daño a las víctimas del delito, cuando la sentencia penal así lo consigne, cubierto la sanción pecuniaria que se le haya impuesto, y que presente carta de trabajo, ocupación o actividad lícita a desempeñar durante su vida en libertad, y
+
+VI. Que una persona solvente y honesta, con arraigo en el lugar donde habrá de radicar, se obligue a presentarlo siempre que sea requerido, y a pagar la cantidad que se fije de garantía, la que no será menor al equivalente a quince días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 510.
+
+Cumplidos los anteriores requisitos, el juez de ejecución podrá aprobar la solicitud de libertad preparatoria con sujeción a las siguientes condiciones:
+
+I. Que el liberado resida en lugar determinado, no pudiendo cambiar de domicilio sin autorización previa del juez de ejecución. La ubicación del lugar de residencia se hará considerando las posibilidades de que el liberado pueda mantener su planta de empleo, debiendo observarse que el lugar no resulte un obstáculo para su enmienda;
+
+II. Que el liberado se abstenga del uso de bebidas embriagantes y drogas, a excepción de las que le sean prescritas por el médico, y
+
+III. Que se sujete el liberado al tratamiento y a las medidas de orientación y supervisión que le sean dictadas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 511.
+
+Cuando el resultado del estudio integral de personalidad, emitido por el Consejo Técnico correspondiente, no revele la efectiva readaptación del interno, éste permanecerá bajo tratamiento en clasificación de conformidad al modelo de reinserción social.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 512.
+
+Conforme al avance del interno dentro de las actividades del modelo de reinserción social, el tratamiento preliberacional podrá tener las siguientes modalidades:
+
+I. Permiso de salida el fin de semana o diaria con reclusión nocturna, o bien, de salida en días hábiles con reclusión de fin de semana, y
+
+II. Trabajar en el exterior y reportarse e informar de sí mismo, en los momentos en que la autoridad así lo determine.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 513.
+
+El tratamiento preliberacional se funda en la confianza del sentenciado, por lo que el juez de ejecución atendiendo a las características personales del sujeto y al estudio de personalidad, fijará la modalidad y condiciones en que habrá de cumplirse y que faciliten la reinserción social del liberado.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 514.
+
+El juez de ejecución podrá otorgar la ampliación del tratamiento preliberacional o modificar las condiciones de su cumplimiento, si así lo considera prudente, previa solicitud de parte interesada y mediante la plena justificación de la medida.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 515.
+
+El tratamiento preliberacional será suspendido por el juez de ejecución, previa audiencia, escuchando la opinión del sentenciado y del agente del Ministerio Público, en los siguientes casos:
+
+I. El liberado sea sancionado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo, el juez de ejecución motivadamente y, según la gravedad del hecho, podrá revocar o mantener la libertad;
+
+II. Por incumplimiento sin causa justificada de las condiciones del tratamiento;
+
+III. Cuando esté demostrado que el liberado realiza conductas no acordes al tratamiento preliberacional instaurado, y
+
+IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, salvo que la autoridad judicial determine dar una nueva oportunidad, apercibiendo al sentenciado de que en caso de un nuevo incumplimiento se hará efectiva en su totalidad la pena por compurgar.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 516.
+
+El liberado a quien se haya suspendido el tratamiento preliberacional, reingresará al centro de reinserción y deberá cumplir la totalidad de su sentencia.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO VII. DE LA LIBERTAD PREPARATORIA
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 517.
+
+Se concederá libertad preparatoria al sentenciado que haya cumplido la mitad de la pena si se trata de delitos culposos y, en caso de delitos dolosos, cuando haya cumplido las dos terceras partes de la misma, y acredite los siguientes requisitos y condiciones:
+
+l. Haber observado buena conducta durante la ejecución de la pena y que además acredite su mejoramiento cultural, social, y laboral;
+
+II. Haber alcanzado en los exámenes de personalidad las metas aceptables para su reinserción;
+
+III. Haber dado cumplimiento a la reparación del daño o, en su caso, se comprometa a repararlo, con anuencia de la víctima del delito, y que además haya cubierto la sanción pecuniaria;
+
+IV. Presentar carta de trabajo, ocupación o actividad lícita a desempeñar durante su vida en libertad, y
+
+V. Exhibir carta responsiva de fiador moral quien deberá acreditar que es una persona solvente, honesta y con arraigo en el lugar donde habrá de radicar el sentenciado, obligándose a presentarlo siempre que sea requerido.
+
+Cumplidos los anteriores requisitos, el juez de ejecución podrá aprobar la solicitud de libertad preparatoria, con sujeción a las siguientes condiciones:
+
+a) Que el liberado resida en lugar determinado, no pudiendo cambiar de domicilio sin autorización previa del juez de ejecución. La ubicación del lugar de residencia se hará considerando las posibilidades de que el liberado pueda mantener su planta de empleo, debiendo observarse que el lugar no resulte un obstáculo para su enmienda.
+
+b) Que el liberado se abstenga del consumo de bebidas embriagantes y drogas, a excepción de las que le sean prescritas por el médico.
+
+c) Que se sujete el liberado al tratamiento y a las medidas de orientación y supervisión que le sean dictadas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 518.
+
+Concedida la libertad preparatoria, deberá enviarse copia de la resolución a la Dirección General, para que disponga la vigilancia de la conducta del sentenciado en forma discreta, y pueda informar así al juez de ejecución de su resultado.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 519.
+
+La libertad preparatoria será revocada por el juez de ejecución en los siguientes casos:
+
+I. Cuando el liberado sea sancionado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo, el juez de ejecución motivadamente y, según la gravedad del hecho, podrá revocar o mantener la libertad;
+
+II. Cuando por incumplimiento sin causa justificada de las condiciones del tratamiento;
+
+III. Cuando esté demostrado que el liberado realiza conductas no acordes al tratamiento preliberacional instaurado, y
+
+IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, salvo que la autoridad judicial determine dar una nueva oportunidad, apercibiendo al sentenciado de que en caso de un nuevo incumplimiento se hará efectiva en su totalidad la pena por compurgar.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO VIII. DEL MONITOREO ELECTRONICO A DISTANCIA
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 520.
+
+El beneficio de tratamiento preliberacional mediante el programa de monitoreo electrónico a distancia, es un medio para extinguir la sanción penal hasta en tanto se alcance la libertad definitiva y, se sujetará a los requisitos y condiciones establecidos en este Código para obtener la libertad preparatoria, además de los siguientes:
+
+l. Garantizar mediante depósito en efectivo ante la Dirección de Consignaciones y Garantías, el monto del valor del dispositivo electrónico de monitoreo, por cualquier desperfecto que pudiera ocasionar el beneficiado de forma dolosa o culposa al dispositivo, en cuyo caso se hará efectivo el depósito;
+
+II. Cumplir la obligación mediante un aval, en caso de verse imposibilitado de dar cumplimiento a la fracción anterior;
+
+III. El uso del dispositivo no podrá ser menor de seis meses, ni mayor de dos años;
+
+IV. Si el preliberado deteriora el dispositivo de vigilancia responderá penalmente por el delito de daños, además de la suspensión del beneficio otorgado, y
+
+V. El preliberado deberá informar acerca de la inoperancia o cualquier desperfecto involuntario que llegara a presentar el dispositivo, de lo contrario se podrá dejar sin efecto el beneficio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO IX. DE LA REMISION PARCIAL DE LA PENA
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 521.
+
+Por cada dos días de trabajo, se hará la remisión de un día de prisión, siempre y cuando el interno demuestre buena conducta y haya cumplido con la sanción pecuniaria.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 522.
+
+Para los efectos de la remisión parcial de la pena, se considerará también como trabajo, el desarrollo de actividades artísticas, culturales, deportivas, profesionales, intelectuales y productivas, aprobadas por el Consejo Técnico Interdisciplinario.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 523.
+
+El liberado mediante remisión parcial de la pena, quedará bajo la vigilancia y control del juez de ejecución durante el tiempo que le falte para cumplir su pena, para lo cual se apoyará de la Dirección General de Prevención y Reinserción Social.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 524.
+
+La remisión parcial de la pena será revocada por el juez de ejecución en los siguientes casos:
+
+I. El liberado sea sancionado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo el juez de ejecución motivadamente y, según la gravedad del hecho, podrá revocar o mantener la libertad;
+
+II. Por incumplimiento sin causa justificada de las condiciones del tratamiento;
+
+III. Cuando esté demostrado que el liberado realiza conductas no acordes al tratamiento preliberacional instaurado, y
+
+IV. Cuando el liberado viole las condiciones establecidas en este Ordenamiento, salvo que la autoridad judicial determine dar una nueva oportunidad, apercibiendo al sentenciado de que en caso de un nuevo incumplimiento se hará efectiva en su totalidad la pena por compurgar.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO X. REGLAS COMUNES DE LOS BENEFICIOS
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 525.
+
+No tendrán derecho a los beneficios señalados en los capítulos anteriores, los sentenciados por los delitos de: homicidio simple intencional; homicidio calificado; parricidio; privación ilegal de la libertad; secuestro; secuestro express; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tienen capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo; trata de personas a que se refieren los artículos, 188 Bis, 188 Ter, y 188 Quáter, del Código Penal; robo calificado a que se refieren las fracciones I, VI, VIII, XI, XIII, XIV, XV, XVI y XVII. Tratándose de la fracción III cuando el valor de lo robado exceda de 1500 veces el salario mínimo; robo equiparado que señala el artículo 195 Bis del Código Penal del Estado; extorsión previsto en los artículos 212 y 212 bis de la ley sustantiva penal; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 526.
+
+En caso de revocación de alguno de los beneficios contemplados en el presente Título, el juez de ejecución librará la orden de reaprehensión y una vez que el sentenciado sea puesto a su disposición, continuará compurgando la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 527.
+
+La autoridad que resuelva la amnistía, el indulto, o el reconocimiento de la inocencia del sentenciado, comunicará su resolución al juez de ejecución, quien realizará las actuaciones necesarias para su cumplimiento y otorgando, en su caso, la libertad al sentenciado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO XI. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 528.
+
+Los internos que consideren tener derecho a cualquiera de los beneficios establecidos en los artículos anteriores, presentarán su solicitud ante el juez de ejecución, éste deberá tramitar lo conducente conforme a los requisitos señalados para cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 529.
+
+Acordado el inicio del procedimiento por parte del juez de ejecución, recabará los informes de la autoridad del centro de reinserción respectivo, conjuntamente con el estudio integral de personalidad elaborado por el Consejo Técnico Interdisciplinario, los cuales deberán remitirse en un lapso no mayor de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 530.
+
+Una vez recibidos los documentos señalados en el artículo anterior, el juez de ejecución llevará a cabo una audiencia en la que escuchará a las partes, y emitirá resolución en un plazo que no excederá de quince días hábiles, concediendo o negando el beneficio.
+
+La resolución será notificada el día de su emisión a las partes, así como a la Dirección de Prevención y Reinserción Social.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO XII. DE LOS MEDIOS DE IMPUGNACION
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 531.
+
+Las resoluciones emitidas por los jueces de ejecución de penas, en donde se determine sobre el otorgamiento o negativa de un beneficio de libertad anticipada, suspensión condicional, sustitución de la pena, o modificación de sanción, serán impugnables mediante el recurso de apelación, en el efecto devolutivo.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 532.
+
+La apelación podrá interponerse en el acto de la notificación, o por escrito o comparecencia dentro de los tres días siguientes de notificada la resolución.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 533.
+
+Tienen derecho a apelar, el Agente del Ministerio Público, el sentenciado o su defensor. El ofendido o sus legítimos representantes, únicamente podrán hacerlo sobre actos para efecto de la reparación del daño.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2011)</small>
+
+### CAPITULO XIII. DEL RECURSO DE REVISION
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 534.
+
+La revisión ante el juez de ejecución procederá contra las determinaciones del Director General de Prevención y Reinserción Social, o de los directores o alcaides de los Centros de Reinserción del Estado, que afecten los derechos o beneficios de los internos en relación con el régimen y el tratamiento penitenciario, o en la aplicación de sanciones disciplinarias, y tendrá por objeto valorar su legalidad.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 535.
+
+Los procedimientos de revisión se sustanciarán conforme a las siguientes reglas:
+
+l. El sentenciado o su defensor podrán interponer este recurso, contra las determinaciones que los afecten en sus derechos.
+
+En casos urgentes, podrán interponer este recurso algún familiar del reo;
+
+II. Se interpondrá por escrito ante el juez de ejecución, dentro de los tres días siguientes a partir de que se dicte o concluya su ejecución. Si el recurso se interpone vencido el plazo se desechará de plano, pero si se tratare de causa grave que implique la posible comisión de un delito o de responsabilidad administrativa, el juez de ejecución podrá investigar la causa de inconformidad y, en su caso, tomará las medidas conducentes;
+
+III. Interpuesto el recurso, el juez de ejecución, dentro de las siguientes veinticuatro horas a la recepción del escrito, revisará su contenido desechándolo de plano por improcedente, o lo admitirá y abrirá un plazo común de tres días para el ofrecimiento de pruebas.
+
+Atendiendo a la naturaleza del acto materia de la revisión y de los derechos que con el mismo se pudieran afectar, el juez de ejecución podrá decretar la suspensión del mismo, la cual tendrá vigencia hasta en tanto se resuelva en definitiva la revisión.
+
+Para la procedencia de la suspensión el juez de ejecución podrá establecer las medidas de aseguramiento que estime convenientes.
+
+Decretada la suspensión, se comunicará de inmediato a las autoridades correspondientes para su acatamiento, pudiendo el juez de ejecución emitir las decisiones y tomar las medidas necesarias para el cabal cumplimiento de la misma;
+
+IV. Agotado el término de prueba, inmediatamente el juez de ejecución fijará fecha para dictar su resolución, o si lo considera conveniente, podrá celebrar audiencia de pruebas y alegatos, la cual se deberá celebrar dentro de los siguientes diez días, y
+
+V. Una vez cerrada la audiencia, el juez de ejecución resolverá dentro del término de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 536.
+
+La resolución determinará si el derecho del interno o visitante ha sido violado y, en su caso:
+
+I. La restitución al agraviado en el goce de su derecho, y
+
+II. La adopción de medidas generales para evitar la repetición de los actos u omisiones impugnados, para lo cual se prevendrá a las autoridades penitenciarias.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 537.
+
+El juez en su resolución solicitará a la autoridad penitenciaria que informe del cumplimiento de su medida, en un plazo de cinco días hábiles a partir de la notificación.
+
+Concluido el plazo concedido en el párrafo anterior, el juez de ejecución podrá realizar una inspección para verificar el cumplimiento de cada uno de los puntos de la resolución respectiva. De no acreditarse el cumplimiento, se lo notificará al superior jerárquico de la autoridad penitenciaria responsable, para que proceda a su corrección conforme lo establece la legislación correspondiente.
 
 ## TRANSITORIOS
 
@@ -3310,3 +3760,13 @@ P.O. 21 DE ENERO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+TERCERO. La ejecución de las sentencias que hayan causado estado, antes de la entrada en vigor del presente Decreto, será competencia del juez de la causa.
+
+La ejecución de sentencias que se pronuncien a partir de la entrada en vigor de este Decreto, será competencia del juez de ejecución.
