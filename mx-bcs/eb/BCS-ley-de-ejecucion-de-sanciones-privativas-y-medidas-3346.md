@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ejecucion-de-sanciones-privativas-y-medidas-3346"
 country: "mx"
 rank: "ley"
 publication_date: "1978-05-31"
-last_updated: "1978-05-31"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL NUMERO EXTRAORDINARIO DEL B.O. DE FECHA 18 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de mayo de 1978.
 
@@ -888,3 +890,17 @@ LIC. ANGEL CESAR MENDOZA ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. GUILLERMO MERCADO ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 18 DE JUNIO DE 2011.
+
+PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Baja California Sur, contenida en el Decreto número 108, publicada en el Boletín Oficial del Gobierno del Estado el 31 de mayo de 1978, salvo lo dispuesto en el artículo tercero siguiente.
+
+TERCERO: Los procesos, procedimientos, recursos e incidentes de ejecución de sentencias iniciados con la ley anterior se seguirán rigiendo con la ley que les dio origen hasta su conclusión, a menos que los sentenciados manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable.
+
+CUARTO: Las figuras jurídicas relacionadas con el sistema penal acusatorio, adversarial y oral en el Estado de Baja California Sur, entrarán en vigor de manera simultánea una vez que se publiquen en el Boletín Oficial del Gobierno del Estado, las reformas y adiciones en esta materia en cumplimiento del artículo segundo transitorio de la reforma constitucional federal de fecha 18 de junio de 2008.
+
+QUINTO: Dentro de la vacatio legis del transitorio segundo de la Reforma Constitucional del 18 de junio de 2008, se deberán expedir las disposiciones reglamentarias que conforme a la experiencia de la presente ley se consideren necesarias.
