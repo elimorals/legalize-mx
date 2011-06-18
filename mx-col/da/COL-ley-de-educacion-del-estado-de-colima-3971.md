@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2009-12-05"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -100,6 +100,10 @@ III.- Fomentará en los educandos, conceptos y sentimientos de solidaridad, con 
 IV.- Creará conciencia en torno a la necesidad de un mejor aprovechamiento social del trabajo humano y de los recursos naturales, todo ello con fundamento en un sentido equitativo de la superación personal;
 
 V.- Tenderá a proporcionar a los educandos, conocimientos científicos suficientes y necesarios; así como a desarrollar en ellos aptitudes y actitudes favorables para el trabajo colectivo;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+V Bis.- Fomentará entre los docentes y los educandos actitudes que estimulen la investigación y la innovación científicas y tecnológicas. Asimismo favorecerá la vinculación e intercambio de experiencias en materia de divulgación científica y educación para la ciencia entre los investigadores y docentes de los diferentes niveles y modalidades educativas.
 
 VI.- Combatirá el fanatismo y los prejuicios, ajustando las enseñanzas a la verdad científica, sin restringir las garantías individuales consignadas en la Constitución Política de la República;
 
@@ -1142,3 +1146,7 @@ SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento para la Prevención y 
 P.O. 5 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
