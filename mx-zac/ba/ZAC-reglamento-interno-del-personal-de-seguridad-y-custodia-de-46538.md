@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interno-del-personal-de-seguridad-y-custodia-de-4653
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-03"
-last_updated: "2005-09-03"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO INTERNO DEL PERSONAL DE SEGURIDAD Y CUSTODIA DE LOS CENTROS DE READAPTACION SOCIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de septiembre de 2005.
 
@@ -32,6 +32,8 @@ AMALIA D. GARCÍA MEDINA, Gobernadora del Estado de Zacatecas, en ejercicio de l
 C O N S I D E R A N D O.
 
 Que por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY DEL SISTEMA PENITENCIARIO Y DE EJECUCION DE SANCIONES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. 18 DE JUNIO DE 2011, SE REFORMAN LOS ARTICULOS DEL REGLAMENTO INTERNO DEL PERSONAL DE SEGURIDAD Y CUSTODIA DE LOS CENTROS DE READAPTACION SOCIAL DEL ESTADO DE ZACATECAS, EN LOS QUE SE HAGA MENCION A LOS CENTROS DE READAPTACION SOCIAL PARA EL SOLO EFECTO DE SUSTITUIR EL NOMBRE DEL CITADO ORGANISMO, POR EL DE "CENTROS DE REINSERCION SOCIAL".</small>
 
 REGLAMENTO INTERNO DEL PERSONAL DE SEGURIDAD Y CUSTODIA DE LOS CENTROS DE READAPTACIÓN SOCIAL DEL ESTADO DE ZACATECAS
 
@@ -634,3 +636,37 @@ AMALIA D. GARCÍA MEDINA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 TOMÁS TORRES MERCADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JUNIO DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, de manera sucesiva según las siguientes prevenciones:
+
+1. Sus disposiciones se aplicarán, de manera integral, en el Distrito Judicial de la Capital; y
+
+2. En el resto de los Distritos Judiciales, sus disposiciones se aplicarán en las fechas en que entre en vigor el nuevo Sistema de Justicia Penal en los términos del artículo segundo transitorio del Código Procesal Penal para el Estado de Zacatecas.
+
+Artículo Segundo. Se abroga, conforme al artículo anterior, la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Zacatecas contenida en el decreto número 27, publicado en el Suplemento al número 55 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 10 de julio de 1993.
+
+Artículo Tercero. Los procedimientos de ejecución de sentencia que se encuentren en trámite, al momento de entrar en vigor esta Ley, se continuarán ejecutando de conformidad con Ley (sic) de Ejecución de Sanciones Privativas y Restrictivas del Estado de Zacatecas.
+
+Artículo Cuarto. Las solicitudes de otorgamiento de beneficios de libertad anticipada que se encuentren en trámite en la Dirección de Prevención y Readaptación Social y pendientes de resolución a la entrada en vigor de esta Ley, serán resueltas por el Poder Ejecutivo aplicando la ley más favorable al sentenciado.
+
+Artículo Quinto. Cuando otras disposiciones legales mencionen a la Dirección de Prevención y Readaptación Social se entenderán referidas a la Dirección General de Prevención y Reinserción Social.
+
+Artículo Sexto. Cuando otras disposiciones legales mencionen a los Centros de Readaptación Social se entenderán referidas a los Centros de Reinserción Social.
+
+Artículo Séptimo. El Poder Ejecutivo ajustará los Reglamentos Interiores de los Centros de Reinserción Social a las disposiciones de la presente Ley dentro de los ciento ochenta días naturales posteriores a la entrada en vigor de la misma.
+
+Artículo Octavo. Los Consejos Técnicos Interdisciplinarios, dispondrán de 90 días naturales para la elaboración de su Reglamento Interno.
+
+Artículo Noveno. Constituido el Patronato de Reinserción Social por el Empleo dispondrá de 90 días naturales para la elaboración de su Reglamento Interior.
+
+Artículo Décimo. Dentro de los noventa días hábiles, posteriores al inicio de vigencia de este Decreto, el Pleno del Tribunal Superior de Justicia del Estado, deberá realizar las acciones necesarias a efecto de que los jueces de ejecución puedan conocer, substanciar y resolver los procedimientos previstos en este instrumento legislativo.
+
+Artículo Decimoprimero. En tanto el Pleno del Tribunal Superior de Justicia del Estado realiza las acciones mencionadas en el artículo anterior, podrá habilitar a Jueces de Garantía y Tribunal de Juicio Oral, para conocer, substanciar y resolver los procedimientos previstos en este Decreto.
+
+Artículo Decimosegundo. El Ejecutivo del Estado enviará a esta Legislatura, en el término de 15 días posteriores a la vigencia de este decreto, la ampliación presupuestal del Poder Judicial del Estado de Zacatecas, que garantice la creación de los Juzgados de Ejecución de sentencias en los diferentes Distrito (sic) Judiciales.
+
+Artículo Decimotercero. Se derogan todas las disposiciones que contravengan esta Ley.
