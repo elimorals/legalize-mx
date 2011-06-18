@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2005-03-10"
+last_updated: "2011-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -813,9 +813,9 @@ IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervenci
 
 V. Si el Catastro Municipal respectivo reincide en proyectar una tabla de valores unitarios no apegada a los valores reales o de mercado o es omiso en emitir el proyecto respectivo, el Consejo Técnico Catastral del Estado solicitará a la Dirección de Catastro del Estado, que de manera subsidiaria elabore el proyecto de tablas de valores unitarios respectivo, siguiendo él mismo el procedimiento establecido en las fracciones II y III del presente artículo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
 
-VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado, se remitirán a los Ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
+VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado, se remitirán a los ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar el 31 de agosto del año previo a su aplicación.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1384,3 +1384,7 @@ OCTAVO. Dentro del término de noventa días naturales, contados a partir de la 
 P.O. 10 DE MARZO DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
