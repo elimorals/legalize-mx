@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-12202"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-11"
-last_updated: "2000-10-04"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA PENITENCIARIO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICION EXTRAORDINARIA DEL P.O. DE FECHA 18 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de diciembre de 1995.
 
@@ -638,3 +640,15 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTICULO SEGUNDO.
 
 Los procedimientos para la obtención de los beneficios de tratamiento preliberacional, libertad preparatoria o de remisión parcial de la pena que se encuentren tramitando a la entrada en vigor del presente decreto se continuarán hasta su conclusión conforme a los preceptos vigentes al inicio de la tramitación.
+
+P.O. 18 DE JUNIO DE 2011.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, a través del Decreto 431, del once de diciembre de mil novecientos noventa y cinco, y sus reformas; así como todas las disposiciones legales que se opongan a la presente, a su entrada en vigor.
+
+TERCERO. El Ejecutivo del Estado deberá expedir en un plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley, los reglamentos internos de la Dirección General de Prevención y Reinserción Social; los de los centros estatales de Reinserción de la capital del Estado, Ciudad Valles, Matehuala, Rioverde, Tancanhuitz, Tamazunchale, y para los centros distritales, que regulen las disposiciones de la nueva Ley.
+
+CUARTO. El Poder Ejecutivo del Estado continuará con los trámites de los beneficios de libertad anticipada a favor de aquellos internos sentenciados que deban obtener su libertad antes de la entrada en vigor de esta Ley; debiendo hacer entrega al Poder Judicial de los expedientes de las personas que se encuentran a su disposición gozando de un beneficio de libertad anticipada, a efecto de que a partir de la entrada en vigor de la presente Ley, el juez de ejecución resuelva lo que en derecho proceda.
+
+La Dirección General de Prevención y Readaptación Social notificará a los sentenciados en libertad anticipada, que a partir de la entrada en vigor de esta Ley, quedarán a disposición del juez de ejecución, y continuarán cumpliendo su sanción con las modalidades y condiciones previamente otorgadas.
