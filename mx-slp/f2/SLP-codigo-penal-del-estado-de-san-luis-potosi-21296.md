@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-01-29"
+last_updated: "2011-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SLP"
 ---
 # CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
+CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE ENERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 518 PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -57,13 +55,17 @@ También se aplicará a los delitos permanentes y continuados iniciados fuera de
 
 Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial, se aplicará ésta, observando las disposiciones conducentes del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 3°.
 
-Cuando, entre la perpetración de un delito y la extinción de la pena o medida de seguridad, entre en vigor una nueva ley se estará a lo más favorable al inculpado, procesado o sentenciado. La autoridad que esté conociendo de la causa o bien ejecutando la pena impuesta aplicará la nueva norma de oficio o a petición de parte.
+Cuando, entre la perpetración de un delito y la extinción de la pena o medida de seguridad, entre en vigor una nueva ley, se estará a lo más favorable al inculpado, procesado o sentenciado. La autoridad que esté conociendo de la causa, o bien el juez de ejecución, aplicará la nueva norma de oficio o a petición de parte.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 4°.
 
-Cuando una ley quite a un hecho el carácter de delito que otra anterior le daba, será puesto en absoluta libertad, si se trata de un procesado, mediante el sobreseimiento que la autoridad judicial decretará de oficio; y, si tuviere la calidad de sentenciado, por la autoridad encargada de la ejecución de la pena.
+Cuando una ley suprimió a un hecho el carácter de delito que otra anterior le otorgaba, será puesto en absoluta libertad, si se trata de un procesado, mediante el sobreseimiento que la autoridad judicial decretará de oficio; y si tuviere la calidad de sentenciado, por resolución que dicte el juez de ejecución.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -511,11 +513,15 @@ VII. Intervención de las personas morales.
 
 ### CAPITULO II. TRATAMIENTO EN LIBERTAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 49.
 
-El tratamiento en libertad es una medida sustitutiva de la prisión y consiste en la aplicación de medidas laborales, educativas o curativas, si el reo las requiere, tendientes a su readaptación social.
+El tratamiento en libertad es una medida sustitutiva de la prisión y consiste en la aplicación de medidas, laborales; educativas, o curativas, si el sentenciado las requiere, tendientes a su reinserción.
 
-El juez de la causa la fijará y hará saber al Ejecutivo para que proceda a su cumplimiento.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
+El juez de la causa la fijará y hará saber a la autoridad ejecutora para que proceda a su cumplimiento.
 
 Cuando, transcurrido el término de la pena sustituida, sea notoria la conveniencia de continuar con el tratamiento curativo se podrá prolongar éste, previo el consentimiento del sentenciado.
 
@@ -549,9 +555,11 @@ El internamiento de farmacodependientes para su tratamiento se hará escuchando 
 
 En el caso de que, cumplida la pena de prisión, el sujeto requiriese continuar con el tratamiento, deberá ser puesto a disposición de las autoridades de salud para que continúe con el mismo.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 54.
 
-Los sujetos inimputables o los farmacodependientes a que se refiere el presente Capítulo, cuando no manifiesten alto grado de peligrosidad según la opinión del médico perito, podrán ser entregados a sus familiares, por acuerdo de la autoridad judicial o ejecutora, según el caso, para que los atiendan y vigilen su tratamiento.
+Los sujetos inimputables o los farmacodependientes a que se refiere el presente Capítulo, cuando no manifiesten alto grado de peligrosidad según el resultado del estudio de personalidad, podrán ser entregados a sus familiares, por acuerdo del juez de la causa, o juez de ejecución, según el caso, para que los atiendan y vigilen su tratamiento.
 
 ### CAPITULO V. PROHIBICION DE RESIDIR O ASISTIR A DETERMINADO LUGAR
 
@@ -561,11 +569,15 @@ El juzgador podrá disponer que el procesado o sentenciado, por razones de su se
 
 ### CAPITULO VI. VIGILANCIA DE LA AUTORIDAD
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 56.
 
-El juez podrá disponer que el presunto responsable o el sentenciado, según el caso, queden sujetos a la vigilancia de la autoridad, medida que, cuando la aplique en la sentencia, tendrá la misma duración que la correspondiente a la pena que imponga.
+El juez podrá disponer que el presunto responsable, o el sentenciado, según el caso, queden sujetos a la vigilancia de la autoridad, medida que, cuando la aplique en la sentencia, especificará la modalidad, duración, y circunstancias de cumplimiento.
 
-El personal especializado, dependiente de la autoridad ejecutora, vigilará que la conducta del sentenciado sea orientada a su readaptación social y a la protección de la comunidad.
+En el caso de delito considerado como grave por la ley, la autoridad judicial impondrá necesariamente la medida de vigilancia de la autoridad, que no podrá ser menor a un año, la cual iniciará a cumplir al momento que el sentenciado obtenga su libertad.
+
+El juez de ejecución vigilará que la conducta del sentenciado sea orientada a su reinserción, y a la protección de la comunidad.
 
 ### CAPITULO VII. AMONESTACION
 
@@ -763,9 +775,9 @@ El otorgamiento y disfrute del beneficio de la suspensión condicional de la pen
 
 I. El juzgador, al dictar sentencia, suspenderá motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
-a). Que la condena se refiera a una pena de prisión que no exceda de cuatro años y que no se trate de sentencias dictadas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores;
+a). Que la condena se refiera a una pena de prisión que no exceda de cinco años, y que no se trate de sentencias dictas por los delitos de secuestro atenuado, robo con violencia o a casa habitación, robo de infante atenuado o corrupción de menores;
 
 b). Que sea la primera vez que el sentenciado incurre en un delito doloso y, además, haya evidenciado buena conducta, antes y después del hecho punible, y
 
@@ -789,7 +801,9 @@ III. La suspensión comprenderá la pena de prisión, y en cuanto a la sanción 
 
 IV. A los delincuentes a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo;
 
-V. Los sentenciados que disfruten de los beneficios de la suspensión condicional quedarán sujetos al cuidado y vigilancia de la Dirección de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+
+V. Los sentenciados que disfruten de los beneficios de la suspensión condicional quedarán sujetos al cuidado y vigilancia de la autoridad ejecutora;
 
 VI. En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en los términos de este artículo, la obligación de aquél concluirá seis meses después de transcurrido el término a que se refiere la fracción VII de este artículo, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria. Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al sentenciado para que presente nuevo fiador dentro del plazo que prudentemente le fije, apercibido de que se hará efectiva la sanción si no lo hace. En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del juez para el efecto y bajo el apercibimiento antes expresados;
 
@@ -805,9 +819,11 @@ X. El reo que considere que al dictarse sentencia reunía las condiciones fijada
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 82.
 
-Corresponde al Ejecutivo del Estado la ejecución de las penas y medidas de seguridad impuestas por la autoridad judicial, conforme a lo señalado en las leyes respectivas.
+La ejecución de las penas y medidas de seguridad impuestas dentro de las causas penales, corresponde al Poder Judicial, y al Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias.
 
 Siempre que se imponga una pena pecuniaria y el sentenciado no haga el pago de la misma en un plazo de treinta días, se hará efectiva mediante el procedimiento económico-coactivo.
 
@@ -859,13 +875,21 @@ La amnistía extingue la acción penal, así como las penas y las medidas de seg
 
 ### CAPITULO V. PERDON DEL OFENDIDO EN LOS DELITOS DE QUERELLA NECESARIA
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 88.
 
-El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal respecto de los delitos que solamente puedan perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia en segunda instancia y el imputado no se oponga al otorgamiento. Una vez concedido el perdón, éste no podrá revocarse.
+El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal, y los efectos de la responsabilidad penal respecto de los delitos que solamente puedan perseguirse por querella. Una vez concedido el perdón, éste no podrá revocarse.
+
+El perdón podrá otorgarse en cualquier etapa del procedimiento penal, o durante el de la ejecución de la pena. En la primera etapa será resuelto por el Juez de la Causa.
+
+El perdón del ofendido, en la etapa de la ejecución de la pena, se resolverá en vía incidental ante el juez de ejecución, y surtirá sus efectos previa tramitación que realice el sentenciado.
 
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al inculpado y a su encubridor, el perdón sólo surtirá efectos respecto de quien lo otorga.
 
 El perdón a favor de uno de los inculpados beneficia a todos los participantes en el delito y al encubridor.
+
+El perdón del ofendido no surtirá efectos a favor del reincidente del delito de que se trate.
 
 ### CAPITULO VI. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
@@ -3738,3 +3762,13 @@ P.O. 27 DE ENERO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+TERCERO. La ejecución de las sentencias que hayan causado estado, antes de la entrada en vigor del presente Decreto, será competencia del juez de la causa.
+
+La ejecución de sentencias que se pronuncien a partir de la entrada en vigor del presente Decreto, será competencia del juez de ejecución.
