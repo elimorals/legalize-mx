@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2011-03-17"
+last_updated: "2011-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -565,7 +565,9 @@ Las sesiones del pleno podrán ser ordinarias o extraordinarias y se efectuarán
 
 I. Públicas, las que se efectúan con asistencia del público;
 
-II. Privadas, aquéllas que se efectúen exclusivamente con la asistencia de los integrantes de la legislatura y el personal autorizado para ello;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
+
+II. Privadas.- aquéllas que se efectúen exclusivamente con la asistencia de los integrantes de la legislatura y el personal autorizado para ello; quienes intervengan en dichas sesiones, deberán guardar debida reserva de lo que en las mismas se trate. El Presidente de la Mesa Directiva correspondiente, cuidará de la reserva de lo tratado en dichas sesiones.
 
 III. Solemnes, las que deban efectuarse para celebrar uno o varios actos con determinadas formalidades protocolarias; y
 
@@ -640,6 +642,42 @@ El orden del día de las sesiones solemnes será determinado por el Presidente d
 En el orden del día de la última sesión que le corresponda a una Mesa Directiva, previo al punto de asuntos generales, se agregará el de: Elección de la Mesa Directiva.
 
 En la primera o segunda sesión de cada período, se deberá dar lectura al informe presentado por la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Las sesiones de apertura de los periodos de sesiones, excepto las que correspondan a periodos extraordinarios, tendrán el siguiente orden del día:
+
+I. Lista de asistencia;
+
+II. Declaración del quórum legal;
+
+III. Declaratoria de apertura del período ordinario de sesiones, correspondiente al año de ejercicio constitucional;
+
+V (SIC). Posicionamiento de los representantes de las formas de organización partidista constituidas; y
+
+VI. Clausura de la sesión.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+El posicionamiento de las representaciones parlamentarias se hará tomando el orden ascendente, conforme el número de diputados que las integren, sin embargo, la participación será única por cada partido político representado; cuando dos o más formas de organización partidista tengan dos o más diputados, la prelación en el orden de participación se hará tomando en cuenta el número de votos emitidos en la elección correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+El Presidente de la Mesa Directiva, en la sesión de apertura, solicitando a los asistentes al recinto la más rigurosa solemnidad, hará la siguiente declaratoria:
+
+"Hoy día _____de ______ del (año), la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, abre su (según corresponda) periodo ordinario de sesiones, correspondiente al (según corresponda) año de ejercicio constitucional."
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+La apertura de cualquier (sic) de sesiones deberá constar en el decreto que al efecto se expida y será comunicado a las demás Legislaturas de las Entidades Federativas y del Distrito Federal, a los Poderes Ejecutivo y Judicial del Estado y a los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Las formas de organización partidista, podrán, cuando así lo resuelvan, incluir en el orden del día, un apartado relativo a efemérides para conmemorar fechas alusivas al calendario cívico nacional o estatal.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Una vez acordada la celebración, el acuerdo será hecho del conocimiento de la Mesa Directiva, para que se incluya en la correspondiente Orden del día.
 
 ###### Artículo 65.
 
@@ -1277,7 +1315,9 @@ XXX. Cultura.
 
 Las Comisiones Legislativas ordinarias son las siguientes:
 
-I. Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
+
+I. Vigilancia de la Entidad de Auditoría Superior del Estado;
 
 II. Administración y Contraloría Interna;
 
@@ -1437,7 +1477,11 @@ I. La expedición, reforma o adición a la legislación de los derechos humanos;
 
 II. Analizar y dictaminar sobre el informe anual de la Comisión Estatal de los Derechos Humanos; y
 
-III. Lo relacionado con la promoción y defensa de los derechos humanos en el Estado, proveyendo, de acuerdo a su competencia, que todo ser humano disfrute de los mismos.
+III. Lo relacionado con la promoción y defensa de los derechos humanos en el Estado, proveyendo, de acuerdo a su competencia, que todo ser humano disfrute de los mismos;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2011)</small>
+
+IV. La investigación y resolución del procedimiento relativo a la omisión o incumplimiento de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos que hayan sido emitidas y aceptadas. Para ello, podrá citar a los respectivos servidores públicos a comparecer ante la misma.
 
 ###### Artículo 137.
 
@@ -1560,6 +1604,10 @@ II. Declaración de desaparición de Ayuntamientos;
 III. Revocación de mandato y suspensión de municipios; y
 
 IV. Legislación sobre régimen de responsabilidades de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Las reuniones de la Comisión en las cuales se trate de procedimientos de responsabilidades administrativas, juicio político o declaración de procedencia serán privadas, excepto en el caso de que la Comisión acuerde lo contrario.
 
 ###### Artículo 152.
 
@@ -1741,7 +1789,9 @@ XX. Auxiliar técnicamente al Pleno, a la Mesa Directiva y a la Oficialía Mayor
 
 XXI. Apoyar en la solventación de los procedimientos a su cargo así como a la Oficialía Mayor en los procedimientos de responsabilidad administrativa;
 
-XXII. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, por delegación del Presidente de la Mesa Directiva o el de la Comisión Permanente o la Oficialía Mayor, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la Legislatura, así como presentar denuncia o querella ante el Ministerio Público, de los hechos que lo ameriten;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
+
+XXII. Atender los asuntos legales en sus aspectos consultivo y contencioso; al efecto ejercerá, por delegación del Presidente de la Mesa Directiva o el de la Comisión Permanente o la Oficialía Mayor, la representación jurídica del mismo en los juicios y procedimientos contenciosos en los que éste sea parte, así como los juicios de amparo y su revisión, además atender las acciones de inconstitucionalidad y controversias constitucionales en las que el Congreso tenga interés, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la Legislatura, así como presentar denuncia o querella ante el Ministerio Público de los hechos que así lo ameriten;
 
 XXIII. Proporcionar asesoría jurídica a los Diputados, órganos y unidades técnicas y administrativas de la Legislatura que lo requieran;
 
@@ -1773,11 +1823,21 @@ La Unidad de Enlace de Acceso a la Información Pública estará a cargo de un c
 
 Para el adecuado desempeño de sus funciones, la Unidad de Enlace de Acceso a la Información Publica contará con el personal necesario de acuerdo a las posibilidades presupuestales del Congreso.
 
-### CAPÍTULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VI. DE LA GACETA LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Artículo 165 BIS.- La Gaceta Parlamentaria, es el órgano informativo oficial del Congreso del Estado; estará a cargo de la Oficialía Mayor y tiene por objeto dar difusión pública a las labores parlamentarias.
+
+Las condiciones de edición, publicación y periodicidad serán acordadas por el Pleno, previa propuesta que haga la Gran Comisión.
+
+El contenido de la gaceta tendrá solo efectos informativos, sin que se considere lo publicado con validez legal y efecto jurídico vinculatorio.
 
 ## TÍTULO CUARTO. DEL PROCESO LEGISLATIVO
 
-### CAPÍTULO II. DE LAS INICIATIVAS
+### CAPÍTULO I. DE LAS ETAPAS DEL PROCESO LEGISLATIVO
 
 ###### Artículo 166.
 
@@ -1801,9 +1861,11 @@ V. Entrada en vigor.
 
 El ejercicio de atribuciones o el cumplimiento de obligaciones distintas a las de creación, modificación, derogación o abrogación de leyes o decretos, se regularán en lo conducente por las normas previstas para el proceso legislativo y por las reglas y procedimientos especiales que al efecto se determinen en los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2011)</small>
+
 ###### Artículo 169.
 
-La dispensa de trámites, es la omisión de alguno o algunos de (sic) elementos que integran el proceso legislativo, la cual procederá una vez que sea discutida y votada en sentido aprobatorio por el Pleno.
+La dispensa de trámites, es la omisión de alguno o algunos de los elementos que integran el proceso legislativo, la cual procederá una vez que sea discutida y votada en sentido aprobatorio por el Pleno o por la Comisión Permanente según corresponda.
 
 No podrán solicitarse ni dispensarse en ningún caso, los trámites relativos a:
 
@@ -1813,7 +1875,7 @@ II. Las reformas, adiciones o derogaciones a la Constitución Política de los E
 
 Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acordar la dispensa de trámites, aplicando las reglas para la lectura y discusión de dictámenes de acuerdo.
 
-### CAPÍTULO III. DE LA DICTAMINACIÓN
+### CAPÍTULO II. DE LAS INICIATIVAS
 
 ###### Artículo 170.
 
@@ -1853,17 +1915,23 @@ Las iniciativas serán dirigidas a los secretarios de la Mesa Directiva; deberá
 
 El Oficial Mayor informará al Presidente y a los secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO 113 PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
 ###### Artículo 173.
 
 Las iniciativas presentadas por los diputados, quedarán sujetas al trámite siguiente:
 
-I. Serán leídas una sola vez en la sesión que fueren presentadas, y concluida la lectura, podrá su autor, ampliar los fundamentos y razones de su proposición o proyectos verbalmente;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
 
-II. Inmediatamente después, el presidente abrirá el registro de oradores a favor o en contra de la admisión de la iniciativa presentada; y (sic)
+I.- Se mandarán insertar en la Gaceta Parlamentaria que corresponda a la sesión relativa; el autor podrá ampliar los fundamentos y motivos de su proyecto en forma verbal. Si fueren varios los iniciadores, éstos designaran al que hará la presentación oral.
 
-III. Agotado el registro de oradores, se votará la admisión o no de la iniciativa. En el primer caso, se remitirá a la comisión o comisiones a que corresponda, y en el segundo, se tendrá por desechada;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
 
-IV. Cuando los diputados presenten iniciativas en el periodo de receso la Comisión Permanente reservara su trámite para el siguiente periodo ordinario o extraordinario.
+II.- Una vez agotado lo anterior, la iniciativa será turnada a la comisión que corresponda.
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2011)</small>
+
+III.- las iniciativas de los Diputados que se presenten en el periodo de receso, podrán reservarse para su trámite para el siguiente periodo de sesiones.
 
 ###### Artículo 174.
 
@@ -1877,7 +1945,7 @@ Las iniciativas presentadas por los ciudadanos, se turnarán a las Comisiones le
 
 Toda iniciativa cuyo dictamen haya sido considerado desechado por el pleno, no podrá ser presentada nuevamente en el mismo período de sesiones.
 
-### CAPÍTULO IV. DE LA DISCUSIÓN
+### CAPÍTULO III. DE LA DICTAMINACIÓN
 
 #### SECCIÓN PRIMERA. DE LOS DICTÁMENES
 
@@ -1919,6 +1987,10 @@ Aprobado en lo general y en lo particular, se procederá a la firma del dictamen
 
 Para que los dictámenes tengan validez, deberán estar firmados por la mayoría de los integrantes de la Comisión correspondiente.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Si el dictamen fuera en sentido negativo, se formulara el dictamen que contenga el acuerdo respectivo, que será hecho del conocimiento de la Mesa Directiva, para que resuelva lo conducente.
+
 ###### Artículo 182.
 
 Aprobado el dictamen y recabadas las firmas de la mayoría de los diputados, el Presidente de la Comisión dictaminadora instruirá al Instituto de Investigaciones, para que lo remita a la Oficialía Mayor, para su trámite correspondiente.
@@ -1927,7 +1999,7 @@ Recibido el dictamen, la Oficialía Mayor informará al Presidente de la Mesa Di
 
 Si en el dictamen se efectúan modificaciones a la iniciativa, asunto o petición turnados para su estudio, la Comisión hará una exposición de los argumentos en que apoyó su decisión.
 
-### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
+### CAPÍTULO IV. DE LA DISCUSIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -1969,7 +2041,9 @@ Todo dictamen que conste de más de un artículo, se someterá a debate en lo ge
 
 Los dictámenes que consten de un solo artículo, se someterán a debate en un sólo acto, tanto en lo general como en lo particular.
 
-No se discutirá y votará una ley que se componga de más de cien artículos, en una sola sesión. En ningún caso, podrán discutirse y aprobarse más de cien artículos de una ley en cada sesión.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+No se discutirá y votará en lo particular una ley que se componga de más de cien artículos en una sola sesión.
 
 ###### Artículo 187.
 
@@ -2149,9 +2223,11 @@ Satisfecha la solicitud, el Presidente de la Mesa Directiva continuará el debat
 
 Cuando algún Diputado solicite que sea leído algún artículo o documento para ilustrar el debate, el Presidente instruirá a un Secretario para que atienda la petición.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2011)</small>
+
 ###### Artículo 206.
 
-Cuando se proponga alguna reforma, adición o supresión de algún elemento del dictamen sujeto a debate, una vez escuchados los motivos y fundamentos de su autor o de la Comisión Dictaminadora, se votará su admisión. Aprobada ésta, pasará a formar parte del dictamen; en caso contrario, se tendrá por desechada.
+Cuando se proponga alguna reforma, adición o supresión de algún elemento del dictamen sujeto a debate, serán escuchados los motivos y fundamentos de su autor ó de la comisión dictaminadora y se votará sobre su admisión. Aprobadas éstas por el mismo Pleno, pasarán a formar parte del decreto; en caso contrario, se tendrá por desechada.
 
 ###### Artículo 207.
 
@@ -2183,7 +2259,7 @@ Cuando el Presidente lo considere conveniente, preguntará al pleno, quien por v
 
 Declarado suficientemente debatido o agotado el registro de oradores, se hará la declaratoria de clausura, y enseguida se someterá a votación en lo general, o en lo particular, según corresponda.
 
-### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
+### CAPÍTULO V. DE LA VOTACIÓN Y DE LAS RESOLUCIONES
 
 ###### Artículo 210.
 
@@ -2295,7 +2371,7 @@ Los empates en las votaciones se decidirán repitiéndolas, una sola vez, y si �
 
 La fórmula de expedición de decretos o acuerdos que contengan resoluciones relativas al ejercicio de atribuciones distintas a la creación de nuevas leyes, reformas, adiciones, derogaciones de leyes o decretos vigentes, se adecuará a la naturaleza de las mismas resoluciones.
 
-### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+### CAPÍTULO VI. DE LA PROMULGACIÓN, PUBLICACIÓN Y ENTRADA EN VIGOR
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2387,11 +2463,11 @@ La publicación de las leyes o decretos, se efectuará en el Periódico Oficial 
 
 La entrada en vigor de las leyes y decretos, iniciará a los cinco días hábiles de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo que en aquéllos se señalen otros plazos distintos.
 
-### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
+### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD
 
-### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
+### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
 
 ###### Artículo 237.
 
@@ -2450,6 +2526,8 @@ Si en la causa penal apareciera la inocencia del inculpado, y aún tuviere tiemp
 ###### Artículo 249.
 
 La declaración de procedencia del Congreso, de ninguna manera prejuzga sobre los fundamentos de la imputación.
+
+### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
 
 ###### Artículo 250.
 
@@ -2567,6 +2645,10 @@ Ninguno de los procedimientos previstos en el presente título podrá efectuarse
 
 En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINSITRATIVA (SIC)
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
@@ -2622,6 +2704,68 @@ Decretada la suspensión temporal o revocación del mandato de uno o más de los
 ###### Artículo 281.
 
 En relación con lo dispuesto en el artículo 55, fracción XXXIII, inciso b) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
+
+> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 282.
+
+En los términos que dispone el artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Durango, el Congreso se encuentra facultado para solventar el procedimiento de responsabilidad administrativa a los servidores públicos que dicha disposición legal alude; del mismo modo, lo hará respecto de los servidores públicos de los organismos autónomos por disposición de la ley y de los servidores públicos del Congreso.
+
+Dentro de su competencia constitucional, en el caso de incumplimiento u omisión de recomendaciones emitidas por la Comisión Estatal de Derechos Humanos, el Congreso, por conducto de la comisión respectiva, citará a comparecer a los servidores, públicos involucrados a efecto de que se sirvan justificar las razones de su conducta.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 283.
+
+Los Servidores Públicos señalados en el artículo anterior, serán responsables de los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+En los términos que establece la fracción III del Artículo 117 de la Constitución Política del Estado Libre y Soberano de Durango, el Congreso conocerá de los procedimientos de responsabilidad administrativa interpuestos en contra de los servidores públicos mencionados en el párrafo anterior por las conductas que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia en el servicio público y en materia de materia (sic) de derechos humanos, que deban observar en el cumplimiento de sus cargos.
+
+En el procedimiento administrativo de responsabilidades se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, esta ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE JUNIO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 284.
+
+La Comisión Estatal de Derechos Humanos, en forma oportuna, hará del conocimiento de la comisión legislativa de Derechos Humanos, el incumplimiento u omisión injustificada de las recomendaciones aceptadas por cualquier servidor público, el que tendrá derecho a expresar ante la misma, las razones de su conducta o bien justificar los hechos u omisiones en que hubiere incurrido.
+
+En todo caso deberá observarse lo dispuesto por el último párrafo del artículo 116 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 285.
+
+Los hechos que haga del conocimiento la Comisión Estatal de Derechos Humanos no requerirán de ratificación especial.
+
+El procedimiento iniciará al recibir las razones que obraron en la conducta denunciada o bien en la justificación de los hechos u omisiones que se reclamen y en el extremo, la determinación o no de responsabilidades administrativas o, en su caso, de otra índole.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 286.
+
+Si de las conclusiones de la Comisión de Derechos Humanos del Congreso, se derivara responsabilidad administrativa atribuible al servidor o servidores públicos involucrados, la comisión lo hará del conocimiento del Pleno, el que en sesión privada, determinará si ha lugar o no a instaurar algún procedimiento de responsabilidades; si hubiera lugar a ellas, el desarrollo del procedimiento respectivo lo solventará la comisión de responsabilidades, la que en extremo y una vez concluido aquel, propondrá las sanciones que deban imponerse al implicado.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 287.
+
+De acuerdo a su naturaleza, se aplicarán al procedimiento las prevenciones que en materia de juicio político y declaración de procedencia prevé esta ley y en cuanto fuera aplicable, la ley de Responsabilidades de los Servidores Públicos del estado y Municipios de Durango.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+###### Artículo 288.
+
+En el caso de responsabilidades administrativas se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Durango, asumiendo el Pleno el carácter de superior jerárquico, en tratándose de servidores públicos de extracción popular de carácter municipal, los servidores públicos de mando medio y superior del Congreso y de los servidores públicos de los Organismos autónomos por disposición constitucional. En el caso de munícipes, se estará a lo previsto en el capítulo anterior.
+
+Si las sanciones fueren de sanción económica, inhabilitación, destitución o suspensión, y el servidor público perteneciere a los Poderes Ejecutivo o Judicial, el Congreso en vía de moción de censura, propondrá la imposición de las medidas sancionatorias al órgano que corresponda, previa notificación al Titular del Poder que corresponda.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2011)</small>
+
+Artículo 287 (sic).- Si las sanciones fueren económicas, una vez publicada la resolución en el Periódico Oficial del Gobierno del Estado, la Mesa Directiva instará a la Entidad de Auditoria Superior del Estado a hacer efectivas las sanciones, las que tendrán en todo caso carácter de crédito fiscal, pudiendo solicitar ésta, la intervención de las autoridades extractoras estatales para cumplir tal fin.
 
 T R A N S I T O R I O S
 
@@ -2696,3 +2840,13 @@ Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de D
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 19 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
