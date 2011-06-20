@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-procuraduria-general-de-justicia-del-2588"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-30"
-last_updated: "2009-09-09"
+last_updated: "2011-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 9 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO. (REPUBLICADA SU ABROGACION EN D.O.F. DE 20 DE JUNIO DE 2011).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 1996.
 
@@ -675,3 +675,29 @@ La Asamblea Legislativa asignará y proveerá los recursos necesarios para la in
 ###### ARTÍCULO SÉPTIMO.
 
 Las disposiciones relativas a los exámenes de control de confianza a que hace referencia la ley, se aplicarán en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública y la legislación secundaria.
+
+D.O.F. 20 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal publicada en el Diario Oficial de la Federación el 30 de abril de 1996 y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En ningún caso podrán aplicarse en forma retroactiva normas que afecten la situación administrativa o laboral del personal que presta sus servicios en la Procuraduría.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Federal, emitirá en un lapso de noventa días hábiles, contados a partir de la entrada en vigor de este Decreto, el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal.
+
+###### ARTÍCULO SEXTO.
+
+La Fiscalía de Procesos en Juzgados de Paz Penal a que hace referencia la fracción IV del artículo 31 cambiará su denominación a Fiscalía de Procesos en Juzgados de Delitos No Graves, de conformidad con lo dispuesto en el artículo quinto transitorio del "Decreto por el que se reforma la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal", publicado en la Gaceta Oficial del Distrito Federal el 18 de marzo de 2011.
