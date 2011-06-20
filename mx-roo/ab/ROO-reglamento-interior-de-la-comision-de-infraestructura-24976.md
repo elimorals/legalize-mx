@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-comision-de-infraestructura-24976"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-30"
-last_updated: "2002-04-30"
+last_updated: "2011-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA COMISION DE INFRAESTRUCTURA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O DE 20 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de abril de 2002.
 
@@ -599,3 +601,23 @@ VIII.- Las demás que proponga el Director General de la Comisión y la H. Junta
 TRANSITORIOS (SIC)
 
 ÚNICO.- El presente Reglamento Interior, aprobado en la Tercera Sesión Ordinaria de la H. Junta de Gobierno de la Comisión de Infraestructura Educativa del Gobierno del Estado, celebrada en la ciudad de Chetumal, Quintana Roo, el día veintiocho de noviembre del año dos mil uno, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, encomendándose al Director General de la Comisión, realizar los trámites correspondientes para la publicación aludida, así lo acordaron por unanimidad los miembros de la H. Junta de Gobierno que integraron el quórum legal en la Sesión mencionada, quienes lo suscriben para constancia.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión de Infraestructura Educativa del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo de fecha treinta de abril de dos mil dos.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos pendientes a la entrada en vigor del presente Reglamento, serán resueltos por aquella o aquellas áreas administrativas a las que se les haya atribuido la competencia respectiva en este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El Director General del Instituto deberá dar a conocer dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Reglamento, los formatos, requisitos y criterios de calificación que deberá reunir la Infraestructura Física Educativa para ser evaluada favorablemente y ser certificada.
