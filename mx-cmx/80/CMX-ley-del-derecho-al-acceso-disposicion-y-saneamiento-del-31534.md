@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-derecho-al-acceso-disposicion-y-saneamiento-del-31534"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-27"
-last_updated: "2011-03-31"
+last_updated: "2011-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31534&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-05-09"
 
 LEY DE AGUAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 27 de mayo de 2003.
 
@@ -242,7 +242,9 @@ XI. La determinación del pago de los servicios hidráulicos debe basarse en el 
 
 XII. La consideración de los atributos de accesibilidad, equidad, sustentabilidad y eficiencia económica para las presentes y futuras generaciones que reduzcan el agotamiento de estos recursos y la contaminación de los cuerpos de agua y los ecosistemas; y
 
-XIII. La adopción de medidas para el monitoreo y evaluación de los recursos hídricos, para el establecimiento de indicadores de sustentabilidad, para la evaluación de los impactos de acciones sobre la disponibilidad del agua; para el incremento del uso eficiente de los recursos hídricos por los usuarios, la reducción de la pérdida del agua en su distribución; y para el establecimiento de mecanismos de respuesta a situaciones de emergencia.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2011)</small>
+
+XIII. La adopción de medidas para el monitoreo y control de los recursos hídricos y sistemas de ahorro en el bombeo, para el establecimiento de indicadores de sustentabilidad, para la evaluación de los impactos de acciones sobre la disponibilidad del agua; para el incremento del uso eficiente de los recursos hídricos por los usuarios, la reducción de la pérdida del agua en su distribución; para la evaluación y atención de deficiencias en la operación de los sistemas de la red de distribución de agua y para el establecimiento de mecanismos de respuesta a situaciones de emergencia.
 
 ## TITULO SEGUNDO. DE LA COMPETENCIA
 
@@ -399,6 +401,10 @@ III. Promover, conjuntamente con la Secretaría de Desarrollo Rural y Equidad pa
 IV. Establecer y operar sistemas de monitoreo de la calidad del agua en el Distrito Federal;
 
 V. Fomentar las mejores prácticas posibles para el uso de productos agroquímicos con miras a reducir al mínimo sus efectos en los recursos hídricos;
+
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2011)</small>
+
+V BIS. Establecer y operar sistemas de monitoreo eléctrico y ahorro de energía en la red de distribución del agua en el Distrito Federal, que permitan reducir los consumos eléctricos de los mismos.
 
 VI. Emitir las normas ambientales para el Distrito Federal con relación al manejo integral de los recursos hídricos, la prestación de servicios del agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residuales, con base en lo establecido en la Ley Ambiental;
 
@@ -1146,17 +1152,25 @@ I. Establecer criterios técnicos para el control y la prevención de la contami
 
 II. Ejercer las atribuciones en materia de calidad del agua a través del monitoreo que se lleve a cabo en el Laboratorio Central de Calidad del Agua del sistema hidráulico del Distrito Federal, en cumplimiento a las normas oficiales mexicanas y a las diversas disposiciones legales;
 
-III. Revisar y aprobar los proyectos de los sistemas de tratamiento de aguas residuales;
+> <small>(ADICIONADA, G.O. 20 DE JUNIO DE 2011)</small>
 
-IV. Establecer las condiciones específicas de pretratamiento de las descargas no domésticas que lo requieran para la remoción o reducción de concentraciones de determinados contaminantes;
+III. Ejercer el control electrónico del bombeo en la red de distribución de agua que permita reducir el consumo eléctrico.
 
-V. Otorgar los permisos de descarga de aguas residuales no domésticas al sistema de drenaje;
+IV. Revisar y aprobar los proyectos de los sistemas de tratamiento de aguas residuales;
 
-VI. Registrar, monitorear y vigilar el cumplimiento de las disposiciones de las Normas Oficiales Mexicanas y las disposiciones legales aplicables de la calidad de las descargas de aguas residuales;
+V. Establecer las condiciones específicas de pretratamiento de las descargas no domésticas que lo requieran para la remoción o reducción de concentraciones de determinados contaminantes;
 
-VII. Revisar los proyectos de las obras de los sistemas de tratamiento que se pretendan construir por parte de los particulares, que descarguen a los sistemas de drenaje y, en su caso, recomendar las modificaciones que estime convenientes, y
+VI. Otorgar los permisos de descarga de aguas residuales no domésticas al sistema de drenaje;
 
-VIII. Las demás que expresamente se le otorguen por esta Ley y su Reglamento.
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2011)</small>
+
+VII. Registrar, monitorear y vigilar el cumplimiento de las disposiciones de las Normas Oficiales mexicanas y las disposiciones aplicables de la calidad de las descargas de aguas residuales;
+
+> <small>(REFORMADA, G.O. 20 DE JUNIO DE 2011)</small>
+
+VIII. Revisar los proyectos de las obras de los sistemas de tratamiento que se pretenden construir por parte de los particulares, que descarguen a los sistemas de drenaje y, en su caso, recomendar las modificaciones que estime convenientes, y
+
+IX. Las demás que expresamente se le otorguen por esta Ley y su Reglamento.
 
 ###### Artículo 78.
 
@@ -2157,3 +2171,9 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 TERCERO.- A más tardar en 60 días contados a partir del día siguiente al de su publicación, deberá reformarse la Ley Ambiental del Distrito Federal, el Reglamento de Impacto Ambiental y Riesgo y la Ley de Desarrollo Urbano del Distrito Federal.
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+G.O. 20 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
