@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2003-06-13"
+last_updated: "2011-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -66,15 +66,23 @@ I.- El fortalecimiento de la soberanía, la independencia y autodeterminación n
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo que la Constitución establece; y la consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento económico, social y cultural del pueblo, impulsando su participación activa en la planeación y ejecución de las actividades del gobierno;
 
-> <small>(REFORMADA D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
+III.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población y la mejoría, en todos los aspectos de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
 IV.- El respeto irrestricto de las garantías individuales, y de las libertades y derechos sociales y políticos;
 
-V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del país, promoviendo la descentralización de la vida nacional; y
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
 
-VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social.
+V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un desarrollo equilibrado del país, promoviendo la descentralización de la vida nacional;
+
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+
+VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+
+VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
 
@@ -112,21 +120,21 @@ El Presidente de la República, al enviar a la Cámara de Diputados las iniciati
 
 ###### Artículo 8o.
 
-Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
+Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas. Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social, en función de dichos objetivos y prioridades.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 20 DE JUNIO DE 2011)</small>
 
-Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social y ambiental, en función de dichos objetivos y prioridades.
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social y ambiental, en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE JUNIO DE 2011)</small>
 
 ###### Artículo 9o.
 
-Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea integral y sustentable.
+Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, integral y sustentable.
 
 Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado y Departamentos Administrativos, proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
 
@@ -162,21 +170,29 @@ La Secretaría de Hacienda y Crédito Público tendrá las siguientes atribucion
 
 I.- Coordinar las actividades de Planeación Nacional del Desarrollo;
 
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+
+II.- Elaborar el Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Federal y de los gobiernos de los estados, los planteamientos que se formulen por los grupos sociales y por los pueblos y comunidades indígenas interesados, así como la perspectiva de género;
+
 > <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-II. Elaborar el Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la administración pública federal y de los gobiernos de los estados, así como los planteamientos que se formulen por los grupos sociales y por los pueblos y comunidades indígenas interesados;
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
-
-III. Proyectar y coordinar la planeación regional con la participación que corresponda a los gobiernos estatales y municipales; así como consultar a los grupos sociales y los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen; y elaborar los programas especiales que señale el Presidente de la República;
+III.- Proyectar y coordinar la planeación regional con la participación que corresponda a los gobiernos estatales y municipales; así como consultar a los grupos sociales y los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen; y elaborar los programas especiales que señale el Presidente de la República;
 
 IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido;
 
 V.- Coordinar las actividades que en materia de investigación y capacitación para la planeación realicen las dependencias de la Administración Pública Federal;
 
-VI.- Elaborar los programas anuales globales para la ejecución del Plan y los programas regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras de sector, y los respectivos gobiernos estatales; y
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
 
-VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas regionales y especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, el Plan y los programas respectivos.
+VI.- Elaborar los programas anuales globales para la ejecución del Plan y los programas regionales y especiales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras de sector, y los respectivos gobiernos estatales;
+
+> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+
+VII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas dependencias y entidades de la Administración Pública Federal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan y los programas regionales y especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, el Plan y los programas respectivos, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE JUNIO DE 2011)</small>
+
+VIII.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en mujeres y hombres.
 
 ###### Artículo 15.
 
@@ -479,3 +495,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 D.O.F. 13 DE JUNIO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
