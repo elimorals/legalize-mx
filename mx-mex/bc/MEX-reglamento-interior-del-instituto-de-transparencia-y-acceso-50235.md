@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-transparencia-y-acceso-502
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-06"
-last_updated: "2006-04-06"
+last_updated: "2011-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 20 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 6 de abril de 2006.
 
@@ -450,3 +452,15 @@ TEODORO ANTONIO SERRALDE MEDINA
 SECRETARIO DEL CONSEJO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE JUNIO DE 2011.
+
+Primero. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México Gaceta de Gobierno.
+
+Segundo. El Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México Gaceta de Gobierno.
+
+Tercero. Se abroga el Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de México publicado en el Periódico Oficial del Gobierno del Estado de México Gaceta de Gobierno el 6 de abril de 2006, así como cualquier otra normatividad de menor rango normativo que se contraponga a las disposiciones de este Reglamento.
+
+Cuarto. Asimismo, se abroga el Acuerdo del Pleno No. INFOEM/EXTR/12/2011.II, de fecha 18 de abril de 2011, por el que se establece que la Contraloría Interna será el área encargada de aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios en materia de acceso a la información pública y protección de datos personales.
