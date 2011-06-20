@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-32137"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-06-30"
-last_updated: "2010-08-30"
+last_updated: "2011-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE, PUBLICADA EN LA SEGUNDA SECCION DEL P.O. DE FECHA 20 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2010 NO APLICA AL ARTICULADO DEL DECRETO 48 PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2003.
 
@@ -584,3 +584,19 @@ CUARTO: La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Estad
 Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de-enero de 1974.
 
 QUINTO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 20 DE JUNIO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor el día 19 de junio del año 2011 previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Campeche, expedida por decreto número 236, publicada en el Periódico Oficial del Estado número 2875, de fecha 30 de junio de 2003.
+
+TERCERO: El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley dentro de los noventa días posteriores a la fecha de su publicación en el Periódico Oficial del Estado.
+
+CUARTO: Hasta en tanto entre en vigor el nuevo sistema de justicia penal, en los términos de la reforma constitucional de fecha 18 de junio de 2008, la investigación y persecución de los delitos continuarán realizándose bajo el sistema penal vigente. La actuación de la Procuraduría General de Justicia del Estado en la etapa de ejecución de sanciones será a partir de la entrada en vigor de la ley en la materia.
+
+QUINTO: Los procesos administrativos y judiciales que se iniciaron antes de la entrada en vigor de la presente Ley, continuarán su trámite hasta su conclusión conforme las disposiciones vigentes en el momento de su instalación, sin perjuicio de lo dispuesto por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+SEXTO: Los fiscales, agentes del ministerio público, agentes de la policía ministerial investigadora y peritos que a la entrada en vigor de la presente Ley se encuentren laborando en la institución, deberán dar cumplimiento a los requisitos de permanencia que en ella se señala y contar con su registro actualizado. El Instituto de Formación Profesional deberá emitir los programas para la regularización del personal de la institución.
+
+SÉPTIMO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
