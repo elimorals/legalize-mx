@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-minera-en-materia-de-gas-asociado-a-64743"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-16"
-last_updated: "2008-12-16"
+last_updated: "2011-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-13"
 
 REGLAMENTO DE LA LEY MINERA EN MATERIA DE GAS ASOCIADO A LOS YACIMIENTOS DE CARBON MINERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 16 de diciembre de 2008.
 
@@ -45,7 +45,11 @@ I. Concesionario: el titular de una concesión minera;
 
 II. Carbón mineral: la roca sedimentaria de origen orgánico formada por diagénesis de materia vegetal, compuesta básicamente por carbono, hidrógeno y oxígeno, así como por pequeñas cantidades de azufre y nitrógeno con trazas de dióxido de carbono, metano y compuestos aceitosos;
 
-III. Gas: el asociado a los yacimientos de carbón mineral, formado principalmente por metano, asociado genéticamente al proceso de formación de carbón mineral, y que se encuentra atrapado dentro de los mantos del mismo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+III. Gas: aquél a que se refiere el artículo 4, fracción VIII de la Ley;
 
 IV. Ley: la Ley Minera;
 
@@ -137,7 +141,11 @@ VI. Original y copia de una identificación oficial y del documento que acredite
 
 VII. Indicar si la solicitud es de permiso o de autorización;
 
-VIII. Estudios que se practiquen a las muestras requeridas y que comprueben que se trata de gas, conforme a las disposiciones administrativas de carácter general que emita la SENER, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+VIII. Resultados de los estudios practicados a efecto de comprobar la asociación del gas a los yacimientos de carbón mineral, conforme a las disposiciones de carácter técnico que se emitan por las autoridades competentes, y
 
 IX. Medio de almacenamiento electrónico de datos que contendrá la versión electrónica del documento presentado por escrito, así como todos los datos y documentos anexos que contengan la información y requisitos establecidos en los artículos 19 y 25 de este Reglamento, según corresponda.
 
@@ -163,31 +171,19 @@ Tratándose de ejidos y comunidades agrarias, la representación a que aluden la
 
 En el caso de solicitudes de autorización, se deberá designar a un representante común a todos los integrantes de la asociación, quien será responsable ante la SENER para la realización de los trámites subsecuentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 ###### Artículo 11.
 
 Las solicitudes de permiso y, en su caso, de autorización de asociación para la recuperación y aprovechamiento de gas, o para sus modificaciones, se presentarán ante la unidad administrativa competente de la SENER.
 
-Recibida la solicitud y antes de entregar al promovente el acuse de recibo, se constatará, sin calificar su contenido, que se encuentren completos los datos y documentos requeridos por este Reglamento, y en el mismo acto procederá de la manera siguiente:
+La unidad administrativa competente de la SENER se cerciorará de que la solicitud cumpla con todos los datos y requisitos exigidos por la Ley y el presente Reglamento; en caso de que la solicitud esté incompleta deberá, en un plazo de quince días hábiles, notificar al promovente de la omisión en su solicitud y apercibirlo de que, de no subsanar lo faltante, se desechará la solicitud.
 
-I. Si la solicitud se acompaña de todos los datos y documentos requeridos, se considerará que está completa, lo cual se hará constar en la misma y en el acuse de recibo que se extienda al promovente, y se asentará que la solicitud fue admitida para trámite;
+El promovente deberá entregar a la unidad administrativa competente de la SENER la información faltante en un plazo que no excederá de tres meses. En caso contrario, la solicitud se desechará, debiendo hacerse la notificación correspondiente.
 
-II. Si falta algún dato o documento requerido, la unidad administrativa competente conservará la documentación, recibirá la solicitud y apercibirá al promovente señalando en la solicitud, y en la copia simple que se presente para acuse, lo siguiente:
-
-a) Los datos, documentos o medios faltantes;
-
-b) La leyenda "Documentación incompleta", y
-
-c) El plazo de tres meses para que el interesado presente los datos y documentos faltantes, con la precisión de que, vencido dicho plazo, se producirá la caducidad del procedimiento administrativo.
-
-Si el promovente proporciona los datos, documentos o medios faltantes, la unidad administrativa procederá conforme a la fracción I.
-
-Transcurrido el plazo previsto en el inciso c) anterior sin que el interesado proporcione los faltantes señalados, la unidad administrativa deberá notificarle la declaratoria de caducidad del procedimiento administrativo, dentro de los diez días hábiles siguientes a que ésta se haya producido, de conformidad con el artículo 60 de la Ley Federal de Procedimiento Administrativo.
-
-Si la SENER no realiza el apercibimiento en los términos señalados en el primer párrafo de la fracción II de este artículo, se considerará que tanto la solicitud de permiso o de autorización como la información que la acompaña están completas, y la solicitud se tendrá por admitida para trámite.
-
-El acuse de recibo surtirá efectos de constancia de que la solicitud fue admitida en la fecha que en él se haga constar.
-
-Una vez admitida para trámite la solicitud de permiso o de autorización, la SENER no podrá resolverla en sentido negativo argumentando que la información proporcionada en la solicitud está incompleta.
+Una vez transcurrido el plazo para que se notifique al promovente que la solicitud está incompleta, sin que la SENER lo hubiere requerido, dicha dependencia no podrá resolver en sentido negativo argumentando que la información proporcionada en la solicitud está incompleta.
 
 ###### Artículo 12.
 
@@ -233,6 +229,12 @@ La SE y la SENER establecerán y mantendrán actualizada una base de datos en la
 
 Ambas dependencias establecerán mecanismos de comunicación electrónica para efectuar las notificaciones necesarias a efecto de que la base de datos referida se mantenga debidamente actualizada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+Artículo 18 bis.- Para todo lo no previsto en el presente capítulo, se estará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+
 #### SECCIÓN SEGUNDA. De los Permisos
 
 ###### Artículo 19.
@@ -241,29 +243,57 @@ La información que se deberá adjuntar a la solicitud de permiso para recuperar
 
 I. Copia certificada del título de concesión que ampara el lote en el que se recuperará el gas, acompañado de una copia simple;
 
-II. La manera en que se pretende aprovechar el gas: autoconsumo, entrega a PEMEX o ambas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. El proyecto de recuperación y aprovechamiento del gas. Cuando se pretenda modificar significativamente dicho proyecto, de conformidad con los lineamientos que al efecto emita la SENER, el permisionario deberá solicitar la aprobación de dicha dependencia la que, de estimarlo procedente, realizará la modificación del permiso respectivo;
+II. (DEROGADA, D.O.F. 21 DE JUNIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+III. El proyecto de recuperación y aprovechamiento del gas, el cual deberá incluir:
+
+a) Coordenadas geográficas del proyecto y profundidad máxima, mínima y promedio de los yacimientos para realizar los trabajos de perforación;
+
+b) Alcance del proyecto, que contenga: el plan para la extracción del gas; la descripción de instalaciones para la recuperación, para la medición y para el aprovechamiento del gas; la especificación de la manera en que se pretende aprovechar el gas, ya sea autoconsumo, entrega a PEMEX o ambas, en donde se detalle, para el caso del autoconsumo, el uso que el concesionario dará al gas y, para el caso de la entrega a PEMEX, el punto estimado de la entrega a éste y el cumplimiento de condiciones técnicas o de calidad requeridas en el punto de entrega, y
+
+c) Cualquier otra información o documentación que el promovente estime pertinente presentar con relación al proyecto.
+
+Cuando se pretenda modificar significativamente el proyecto a que se refiere esta fracción, de conformidad con los lineamientos que al efecto emita la SENER, el permisionario deberá solicitar la aprobación de dicha dependencia, la que, de estimarlo procedente, realizará la modificación del permiso respectivo.
 
 IV. Análisis financiero del proyecto, que deberá incluir como mínimo el valor presente neto del mismo y su tasa interna de retorno;
 
 V. Presupuesto del costo global de las obras proyectadas, divididas en inversiones y gasto de operación;
 
-VI. Estados financieros auditados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+VI. (DEROGADA, D.O.F. 21 DE JUNIO DE 2011)
 
 VII. Comprobante de pago por concepto del estudio, trámite y resolución de la solicitud, y
 
 VIII. La indicación, en su caso, de que se está tramitando paralelamente una autorización para asociarse con el objeto de recuperar y aprovechar el gas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 ###### Artículo 20.
 
-La SENER negará los permisos para la recuperación y aprovechamiento de gas en los casos siguientes:
+La SENER negará los permisos para la recuperación y aprovechamiento de gas en cualquiera de los casos siguientes:
 
-I. Cuando se incumpla cualquiera de los requisitos a que se refiere este Reglamento;
+I. Cuando se incumpla cualquiera de los requisitos a que se refiere este Reglamento, o las demás disposiciones aplicables;
 
-II. Cuando, de ejecutarse el proyecto de recuperación y aprovechamiento de gas al que se refiere el artículo 19, fracción III del presente Reglamento, se afecte el desarrollo de las actividades de la industria petrolera, en los términos de lo dispuesto en los artículos 1o., 2o. y 3o. de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, o
+II. Cuando, de ejecutarse el proyecto de recuperación y aprovechamiento de gas al que se refiere el artículo 19, fracción III del presente Reglamento, se afecte el desarrollo de las actividades de la industria petrolera, en los términos de lo dispuesto en los artículos 1o., 2o. y 3o. de la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo;
 
-III. Cuando derivado de la evaluación a que hace referencia el artículo 7, fracción XV de la Ley, con base en la información señalada en las fracciones I, II, III, V y VI del artículo anterior, se concluya que el proyecto no es factible técnicamente.
+III. Cuando derivado de la evaluación técnica a la que hacen referencia los artículos 7, fracción XV de la Ley, y 5, fracción IX de este Reglamento, se concluya que el proyecto no es factible técnicamente.
+
+Se considerará que el proyecto no es factible técnicamente cuando se concluya que:
+
+a) El proyecto presentado por el promovente no permita llevar a cabo la recuperación, medición, autoconsumo o entrega de gas a PEMEX, conforme a la modalidad de aprovechamiento correspondiente, o
+
+b) En el caso de que el aprovechamiento del gas incluya su entrega a PEMEX, la infraestructura incluida en el proyecto no permita el cumplimiento de las condiciones técnicas o de calidad requeridas en el punto de entrega, de conformidad con las disposiciones administrativas aplicables.
+
+IV. Cuando, derivado de los resultados de los estudios que el promovente entregue en cumplimiento del artículo 7, fracción VIII de este ordenamiento, no se demuestre que el gas es asociado a los yacimientos de carbón mineral.
 
 ###### Artículo 21.
 
@@ -279,7 +309,11 @@ Tratándose de asociaciones autorizadas por la SENER, los avisos a que se refier
 
 La SENER revocará los permisos para la recuperación y aprovechamiento de gas, en los casos siguientes:
 
-I. Cuando se incumpla con lo dispuesto en la Ley, en este Reglamento, así como en los términos y condiciones contenidos en el permiso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+I. Cuando se incumpla con lo dispuesto en la Ley, en este Reglamento y demás disposiciones aplicables, así como en los términos y condiciones contenidos en el permiso;
 
 II. Cuando, a pesar de requerirse, no se solicite la modificación del permiso a que hace referencia el artículo 19, fracción III de este Reglamento;
 
@@ -512,3 +546,9 @@ Sexto.- Mientras no se emitan las normas oficiales mexicanas, la SENER deberá i
 La SENER emitirá las disposiciones referidas en el párrafo anterior en un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor de este Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- La Secretaria de Energía, Georgina Yamilet Kessel Martínez.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
