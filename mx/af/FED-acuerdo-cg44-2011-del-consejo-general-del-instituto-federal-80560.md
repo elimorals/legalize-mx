@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg44-2011-del-consejo-general-del-instituto-federal-805
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-04-04"
-last_updated: "2011-04-04"
+last_updated: "2011-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-02-24"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ASIGNAN TIEMPOS EN RADIO Y TELEVISIÓN A LAS AUTORIDADES ELECTORALES DEL ESTADO DE MÉXICO, HIDALGO Y NAYARIT, PARA EL CUMPLIMIENTO DE SUS FINES DENTRO DE LOS PROCESOS ELECTORALES ORDINARIOS A CELEBRARSE EN LAS CITADAS ENTIDADES FEDERATIVAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 4 de abril de 2011.
 
@@ -237,13 +237,21 @@ Instituto Estatal Electoral de Hidalgo: un promedio de 14 minutos 24 segundos pa
 
 Instituto Estatal Electoral de Nayarit: un promedio de 14 minutos 24 segundos para la etapa de precampaña; 19 minutos 12 segundos para la etapa de intercampaña; 12 minutos para la etapa de campaña y 19 minutos 12 segundos para el periodo de reflexión y día de la jornada electoral.
 
-Tribunal Electoral del Estado de México: un promedio de 3 minutos 36 segundos para la etapa de precampaña; 4 minutos 48 segundos para la etapa de intercampaña; 3 minutos para la etapa de campaña y 4 minutos 48 segundos para el periodo de reflexión y día de la jornada electoral.
+> <small>(REFORMADO POR EL ACUERDO CG163/2011 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+Tribunal Electoral del Estado de México: Un promedio diario de 2 minutos para la etapa de campaña y 3 minutos 12 segundos para el periodo de reflexión y día de la jornada electoral.
 
 Sala Constitucional-Electoral del Poder Judicial de Nayarit: un promedio de 3 minutos 36 segundos para la etapa de precampaña; 4 minutos 48 segundos para la etapa de intercampaña; 3 minutos para la etapa de campaña y 4 minutos 48 segundos para el periodo de reflexión y día de la jornada electoral.
 
 Tribunal Electoral del Poder Judicial del Estado de Hidalgo: un promedio de 3 minutos 36 segundos para la etapa de precampaña; 4 minutos 48 segundos para la etapa de intercampaña; 3 minutos para la etapa de campaña y 4 minutos 48 segundos para el periodo de reflexión y día de la jornada electoral.
 
-Fiscalía Especializada para la Atención de Delitos Electorales: un promedio de 3 minutos 36 segundos para la etapa de precampaña; 4 minutos 48 segundos para la etapa de intercampaña; 3 minutos para la etapa de campaña y 4 minutos 48 segundos para el periodo de reflexión y día de la jornada electoral.
+> <small>(REFORMADO POR EL ACUERDO CG163/2011 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+Fiscalía Especializada para la Atención de Delitos Electorales: Un promedio diario de 2 minutos para la etapa de campaña y 3 minutos 12 segundos para el periodo de reflexión y día de la jornada electoral.
+
+> <small>(ADICIONADO POR EL ACUERDO CG163/2011 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+Fiscalía Especializada para la Atención de Delitos Electorales contra el Proceso Electoral dos mil once del Estado de México: Un promedio diario de 2 minutos para la etapa de campaña y 3 minutos 12 segundos para el periodo de reflexión y día de la jornada electoral.
 
 SEGUNDO. Los tiempos asignados en el punto de acuerdo que precede serán transmitidos en mensajes de treinta segundos en las emisoras de radio y televisión previstas en los catálogos aprobados por el Comité de Radio y Televisión CRT/001/2011; CRT/002/2011; CRT/003/2011 y difundidos por el Consejo General del Instituto Federal Electoral mediante los acuerdos CG 41/2011; CG 42/2011 y CG 43/2011, con la obligación de transmitir las pautas para la transmisión de los promocionales de los partidos políticos y de las autoridades electorales con motivo de los procesos electivos que transcurrirán en esas entidades.
 
@@ -256,3 +264,9 @@ QUINTO. Se instruye al Secretario Ejecutivo para que por conducto de las Juntas 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 24 de febrero de dos mil once, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE JUNIO DE 2011.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
