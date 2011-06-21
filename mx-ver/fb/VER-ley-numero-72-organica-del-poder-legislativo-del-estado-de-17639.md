@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2010-11-23"
+last_updated: "2011-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -90,6 +90,14 @@ b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2010)
 ###### Artículo 7.
 
 Al inicio de cada período de sesiones ordinarias, el Presidente del Congreso del Estado declarará en voz alta: "El Congreso del Estado de Veracruz de Ignacio de la Llave abre hoy (fecha) el Primer (o Segundo) Período de Sesiones Ordinarias del (Primer, Segundo o Tercer) Año de ejercicio de la (número ordinal) Legislatura".
+
+> <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2011)</small>
+
+###### Artículo 7 Bis.
+
+En el Congreso del Estado, al inicio y conclusión de cada período de sesiones ordinarias, se entonará el Himno Nacional en términos del artículo 42 de la Ley sobre el Escudo, la Bandera y el Himno nacionales.
+
+Lo establecido en el párrafo anterior se aplicará sólo al inicio de las sesiones extraordinarias o solemnes.
 
 ###### Artículo 8.
 
@@ -1336,5 +1344,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G. O. 23 DE NOVIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor el día cinco de noviembre de dos mil diez, previa publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
