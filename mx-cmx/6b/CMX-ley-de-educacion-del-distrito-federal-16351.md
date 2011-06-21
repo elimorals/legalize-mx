@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2011-02-03"
+last_updated: "2011-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE JUNIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -152,7 +152,9 @@ IX. Promover el español como idioma común para todos los mexicanos, sin dejar 
 
 X. Fomentar el conocimiento y respeto a los derechos fundamentales de la sociedad, de los pueblos y de las personas.
 
-XI. Promover el reconocimiento de los derechos de las minorías y de los discapacitados.
+> <small>(REFORMADA, G.O. 21 DE JUNIO DE 2011)</small>
+
+XI. Promover, fomentar y difundir los derechos humanos, así como el respeto de los derechos de las minorías y de las personas con discapacidad.
 
 XII. Proteger, preservar y fortalecer las lenguas y las manifestaciones culturales y artísticas de las comunidades indígenas que habitan en el Distrito Federal.
 
@@ -1649,3 +1651,9 @@ Artículo Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos
 Artículo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
 
 Artículo Tercero. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 21 DE JUNIO DE 2011.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
