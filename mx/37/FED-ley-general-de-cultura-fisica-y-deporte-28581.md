@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2011-06-01"
+last_updated: "2011-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -138,9 +138,13 @@ La Federación, los Estados, el Distrito Federal, y los Municipios, en el ámbit
 
 Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de sus respectivas competencias, deberán apoyar a la CONADE en el ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+
 ###### Artículo 8.
 
-La CONADE integrará el Programa Nacional de Cultura Física y Deporte, que se sujetará a lo previsto en el Plan Nacional de Desarrollo y el Reglamento de la presente Ley, la Ley de Planeación y especificará los objetivos, prioridades y políticas que normarán al sector.
+En la Planeación Nacional, se deberá incorporar la política de cultura física y deporte que se formule de conformidad con la presente Ley y su Reglamento.
+
+La CONADE, en coordinación con la SEP, integrará el Programa Nacional de Cultura Física y Deporte con base en un diagnóstico nacional, estatal y municipal especificando los objetivos, prioridades, alcances y límites de desarrollo del sector; así como el deber de las dependencias y entidades de la Administración Pública Federal con relación a la cultura física y el deporte, de conformidad con lo señalado en el artículo 27 de la Ley de Planeación.
 
 ## Título Segundo. Del Sistema Nacional de Cultura Física y Deporte
 
@@ -1485,3 +1489,9 @@ D.O.F. 28 DE ENERO DE 2010.
 D.O.F. 1 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las modificaciones al Reglamento de la Ley General de Cultura Física y Deporte, motivo del presente Decreto, deberán realizarse y expedirse en un plazo no mayor a 90 días a la fecha de entrada en vigor del presente Decreto.
