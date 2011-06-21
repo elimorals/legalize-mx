@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2011-01-28"
+last_updated: "2011-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -108,7 +108,9 @@ VII.- Fomentar actitudes que estimulen la investigación y la innovación cient�
 
 VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación;
 
-IX.- Estimular la educación física y la práctica del deporte;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+
+IX.- Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte;
 
 > <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -136,9 +138,9 @@ XIV Bis.- Promover y fomentar la lectura y el libro;
 
 XV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
-XVI.- Realizar acciones educativas y preventivas a fin de evitar que se comentan (sic) ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -1365,3 +1367,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
 
 TERCERO.- La constitución de los sistemas y registros a que hacen referencia la fracción X del artículo 12 y VII del artículo 13, se llevarán a cabo con base en la disponibilidad presupuestal, de manera gradual y con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondientes.
+
+D.O.F. 21 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
