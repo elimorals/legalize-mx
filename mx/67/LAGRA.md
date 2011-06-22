@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2011-06-03"
+last_updated: "2011-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -1230,11 +1230,21 @@ Tendrán preferencia para adquirir terrenos nacionales, a titulo oneroso, los po
 
 Son juicios agrarios los que tienen por objeto sustanciar, dirimir y resolver las controversias que se susciten con motivo de la aplicación de las disposiciones contenidas en esta ley.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2011)</small>
+
 ###### Artículo 164.
 
-En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito.
+En la resolución de las controversias que sean puestas bajo su conocimiento, los tribunales se sujetarán siempre al procedimiento previsto por esta ley y quedará constancia de ella por escrito, además observarán lo siguiente:
 
-En los juicios en que se involucren tierras de los grupos indígenas, los tribunales deberán de considerar las costumbres y usos de cada grupo mientras no contravengan lo dispuesto por esta ley ni se afecten derechos de tercero. Asimismo, cuando se haga necesario, el tribunal se asegurará de que los indígenas cuenten con traductores.
+I.- Los juicios en los que una o ambas partes sean indígenas se considerarán los usos y costumbres de los pueblos o comunidades indígenas a los que pertenezcan mientras no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y esta ley;
+
+II.- Las promociones que los pueblos o comunidades indígenas, o los indígenas en lo individual hicieren en su lengua, no necesitarán acompañarse de la traducción al español. El tribunal la hará de oficio por conducto de persona autorizada para ello;
+
+III.- Los juicios en los que una o ambas partes sean indígenas y no supieran leer el idioma español, el tribunal realizará una versión sintetizada de los puntos esenciales de las actuaciones y de la sentencia dictadas por él, en la lengua o variantes dialectales de la que se trate; debiendo agregarse en los autos constancia de que se cumplió con esta obligación.
+
+En caso de existir contradicción entre la traducción y la resolución, se estará a lo dispuesto por ésta última;
+
+IV.- El tribunal asignará gratuitamente a los indígenas un defensor y un traductor que conozca su cultura, hable su lengua y el idioma español, para que se le explique, en su lengua, el alcance y consecuencias del proceso que se le sigue.
 
 Los tribunales suplirán la deficiencia de las partes en sus planteamientos de derecho cuando se trate de núcleos de población ejidales o comunales, así como ejidatarios y comuneros.
 
@@ -1567,3 +1577,9 @@ D.O.F. 17 DE ABRIL DE 2008.
 D.O.F. 3 DE JUNIO DE 2011.
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JUNIO DE 2011.
+
+Primero. Para el desarrollo de las acciones que deba realizar el tribunal a fin de dar cumplimiento a lo dispuesto por la presente ley, podrá apoyarse en el Instituto Nacional de Lenguas Indígenas, así como en el Instituto Federal de Defensoría Pública, en el ámbito de sus respectivas competencias. Asimismo, deberá sujetarse a su disponibilidad presupuestaria.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
