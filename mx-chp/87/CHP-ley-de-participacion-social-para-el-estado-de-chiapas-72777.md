@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-participacion-social-para-el-estado-de-chiapas-72777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2010-11-17"
+last_updated: "2011-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PARTICIPACION SOCIAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -63,9 +63,9 @@ La participación social se sustentará en los principios de democracia, equidad
 
 Las Asambleas de Barrios, son figuras organizativas ciudadanas que adoptan cada espacio territorial, con la finalidad de recepcionar, analizar, discutir y decidir las demandas solicitadas por la ciudadanía de manera plural, democrática, participativa y solidaria, mismas que se regirán conforme al Reglamento de la presente ley.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
 
-Dichas Asambleas de Barrios, estarán constituidas como persona moral, en términos de la fracción VII, del artículo 23, del Código Civil para el Estado de Chiapas.
+Dichas Asambleas de Barrios, estarán constituidas como personas morales, en términos de la fracción VII, del artículo 23, del Código Civil para el Estado de Chiapas, las cuales en ningún momento perseguirán fines de lucro.
 
 ###### Artículo 6°.
 
@@ -298,6 +298,12 @@ Artículo Sexto.- Para el proceso de elecciones de los integrantes de las Asambl
 Artículo Séptimo.- La Secretaría de Desarrollo y Participación Social, deberá proponer al Titular del Ejecutivo del Estado, la adecuación o en su caso, expedición del Reglamento de la presente Ley.
 
 P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JUNIO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
