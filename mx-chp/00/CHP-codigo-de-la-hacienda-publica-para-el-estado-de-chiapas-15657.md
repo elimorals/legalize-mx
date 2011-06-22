@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-la-hacienda-publica-para-el-estado-de-chiapas-15657"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-23"
-last_updated: "2011-05-11"
+last_updated: "2011-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el jueves 23 de diciembre de 1999.
 
@@ -6799,7 +6799,9 @@ SE ENTIENDE POR INVERSION PUBLICA A TODO RECURSO ORIENTADO A PROGRAMAS Y/O PROYE
 
 SE INCLUYE EN LA INVERSION PUBLICA, LOS GASTOS EN ESTUDIOS DE PREINVERSION Y PREPARACION DEL PROYECTO.
 
-SE ENTENDERA POR INVERSION PUBLICA PRODUCTIVA, AQUELLAS OBRAS O PROYECTOS PUBLICOS, ASI COMO CONTRATOS DE PROYECTOS DE PRESTACION DE SERVICIOS QUE DIRECTA O INDIRECTAMENTE PRODUZCAN UN INCREMENTO O BENEFICIO EN LOS INGRESOS DEL ESTADO O DE SUS MUNICIPIOS, INCLUYENDO LAS ACCIONES DE REESTRUCTURACION O REFINANCIAMIENTO DE, LOS PASIVOS QUE LOS MISMOS HAYAN CONTRAIDO.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+
+SE ENTENDERA POR INVERSION PUBLICA PRODUCTIVA, AQUELLAS OBRAS O PROYECTOS PUBLICOS, CONTRATOS DE PROYECTOS DE PRESTACION DE SERVICIOS QUE DIRECTA O INDIRECTAMENTE PRODUZCAN UN INCREMENTO O BENEFICIO EN LOS INGRESOS DEL ESTADO O DE SUS MUNICIPIOS, INCLUYENDO LAS ACCIONES DE REESTRUCTURACION O REFINANCIAMIENTO DE LOS PASIVOS QUE LOS MISMOS HAYAN CONTRAIDO, ASI COMO LA INVERSION SOCIAL QUE INCIDA EN EL MEJORAMIENTO DE LA CALIDAD DE VIDA Y EN EL INDICE DE DESARROLLO HUMANO DE LA POBLACION.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8140,6 +8142,12 @@ Primero.- El presente Decreto entrará en vigor el día primero de enero de dos 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 P.O. 11 DE MAYO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 22 DE JUNIO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
 
