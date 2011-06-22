@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2011-06-15"
+last_updated: "2011-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1887,7 +1887,7 @@ VIII. Tabla: La relación de narcóticos y la orientación de dosis máximas de 
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 204 TER.- Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+ARTICULO 204 TER. Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
 
 Por la comisión de este delito se impondrá prisión de cuatro a ocho años y sanción pecuniaria de doscientos a cuatrocientos días multa.
 
@@ -3530,6 +3530,26 @@ El homicidio es calificado cuando se comete con premeditación, ventaja, alevos�
 ###### ARTICULO 337.
 
 Al autor de un homicidio calificado se le impondrá una sanción de veinte a cincuenta años de prisión.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2011)</small>
+
+###### ARTICULO 337 Bis.
+
+Comete delito de feminicidio, el hombre que dolosamente, y con uso extremo de violencia, prive de la vida a una mujer por razones de género.
+
+Será sancionado con prisión de treinta a cincuenta años y multa de mil a cinco mil días de salario.
+
+Existen razones de género de parte del sujeto activo cuando se realice por alguno de los supuestos siguientes:
+
+I. Si la víctima presenta indicios de violencia física reiterada; o
+
+II. Que existan antecedentes de violencia moral o acoso del sujeto activo en contra de la mujer.
+
+Existe el uso extremo de la violencia, a la víctima cuando:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo; o
+
+II. Se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida.
 
 ### CAPITULO I. ROBO
 
@@ -5374,6 +5394,12 @@ P.O. 15 DE JUNIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO OCTAVO
 
