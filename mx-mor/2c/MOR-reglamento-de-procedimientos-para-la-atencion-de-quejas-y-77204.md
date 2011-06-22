@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-procedimientos-para-la-atencion-de-quejas-y-77204
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-10"
-last_updated: "2010-11-10"
+last_updated: "2011-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCION DE QUEJAS Y GESTION PERICIAL DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de noviembre de 2010.
 
@@ -785,9 +785,11 @@ II. Laudos, que siempre tendrán el carácter de definitivos.
 
 El pronunciamiento institucional nunca podrá ser entendido como resolución.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+
 ###### Artículo 92.
 
-Todas las resoluciones serán autorizadas con firma entera de quienes las emitan. Los laudos serán emitidos por el Secretario Jurídico o por el presidente del Modulo de Atención y Arbitraje en que se desahogue el procedimiento arbitral.
+Todas las resoluciones serán autorizadas con firma entera de quienes las emitan. Los laudos serán emitidos por el Subcomisionado Jurídico o por el presidente del Módulo de Atención y Arbitraje en que se desahogue el procedimiento arbitral.
 
 ###### Artículo 93.
 
@@ -912,3 +914,11 @@ EL DIRECTOR GENERAL DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
 DR. RAMÓN JOSÉ CUÉ GONZÁLEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
