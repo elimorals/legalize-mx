@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2010-12-29"
+last_updated: "2011-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1217,9 +1217,13 @@ VI. Promover la organización de la sociedad de acuerdo a los lineamientos estab
 
 VII. Promover la organización juvenil comunitaria, para fomentar su responsabilidad social y su sano desarrollo, así como su participación en las actividades del municipio;
 
-VIII. Las demás acciones conducentes al mejoramiento de la calidad de vida y bienestar de la población del Municipio, y aquellas relacionadas que le encargue el Presidente; y
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-IX. Las demás que señalen las leyes, reglamentos y manuales de organización.
+VIII. Fomentar un desarrollo pleno e integral de niñas, niños y adolescentes, mediante la implementación de programas que impliquen la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad;
+
+IX. Las demás acciones conducentes al mejoramiento de la calidad de vida y bienestar de la población del Municipio, y aquellas relacionadas que le encargue el Presidente; y
+
+X. Las demás que señalen las leyes, reglamentos y manuales de organización.
 
 ###### Artículo 81.
 
@@ -1429,17 +1433,17 @@ IX.- Impartir cursos y programas de capacitación y actualización dirigidos al 
 
 X.- Llevar el registro y control de Centros de Bienestar Infantil de Carácter Social, y (sic)
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IX (SIC).- De conformidad con el principio de interés superior de la infancia, promover la integración de un consejo o comité, con la participación de organismos públicos y privados, que procure implementar los mecanismos necesarios para impulsar una cultura de protección de los derechos de la infancia, basada en el contenido de la Convención Sobre los Derechos del Niño y tratados que sobre el tema apruebe el Senado de la República, y que se regirá de conformidad con su Reglamento Interior.
+
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XI. Evaluar el desempeño y resultados de las distintas Direcciones Generales y sus respectivas dependencias, así como los proyectos y programas especiales, y
+XII. Evaluar el desempeño y resultados de las distintas Direcciones Generales y sus respectivas dependencias, así como los proyectos y programas especiales, y
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XII. Las demás que le encomiende el Presidente Municipal, el Honorable Ayuntamiento y demás ordenamientos legales aplicables.
-
-XIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
-
-XIV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
+XIII. Las demás que le encomiende el Presidente Municipal, el Honorable Ayuntamiento y demás ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -1658,3 +1662,7 @@ P.O. 11 DE DICIEMBRE DE 2010.
 P.O. 29 DE DICIEMBRE DE 2010.
 
 UNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 22 DE JUNIO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
