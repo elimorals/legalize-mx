@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-31298
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2003-05-27"
+last_updated: "2011-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31298&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-02-19"
 
 REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO DE INSUMOS DEL SECTOR SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD, PUBLICADO EN EL D.O.F. DE 22 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el martes 27 de mayo de 2003.
 
@@ -446,3 +448,11 @@ PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su pub
 SEGUNDO. Se abroga el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud, publicado en el Diario Oficial de la Federación el 28 de mayo de 1997.
 
 México, D.F., a 19 de febrero de 2003.- Por la Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud: la Secretaria del Consejo de Salubridad General, Mercedes Juan López.- Rúbrica.- El Representante del IMSS, Onofre Muñoz Hernández.- Rúbrica.- El Representante del Sistema Nacional para el Desarrollo Integral de la Familia, Carlos Pérez López.- Rúbrica.- El Representante de la SSA, Ernesto Enríquez Rubio.- Rúbrica.- La Representante del ISSSTE, Elsa Carolina Rojas.- Rúbrica.- El Representante de la Secretaría de la Defensa Nacional, Norberto Manuel Heredia Jarero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud, publicado en el Diario Oficial de la Federación el 27 de mayo de 2003.
