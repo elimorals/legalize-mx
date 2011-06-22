@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-la-comision-estatal-de-arbitraje-medico-69
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-29"
-last_updated: "2009-07-29"
+last_updated: "2011-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGANICO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de julio de 2009.
 
@@ -69,11 +69,17 @@ Para el despacho y cumplimiento de las atribuciones y funciones que corresponden
 
 I. Una Junta de Gobierno;
 
-II. Un Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-III. Secretaría Técnica;
+II. Un Comisionado Estatal;
 
-IV. Secretaría Jurídica;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+III. Subcomisión Médica;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IV. Subcomisión Jurídica;
 
 V. Dirección de Administración;
 
@@ -81,13 +87,19 @@ VI. Comisaría Pública, y
 
 VII. Las unidades administrativas que se precisan en el presente ordenamiento y los manuales de organización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 5.
 
-Se adscriben al Director General las unidades administrativas siguientes:
+Se adscriben a la oficina del Comisionado Estatal las unidades administrativas siguientes:
 
-I. Secretaría Técnica;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-II. Secretaría Jurídica, y
+I. Subcomisión Médica;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+II. Subcomisión Jurídica, y
 
 III. Dirección de Administración.
 
@@ -105,15 +117,21 @@ Las sesiones de la Junta de Gobierno se sujetarán a lo dispuesto en el artícul
 
 El Presidente de la Junta de Gobierno nombrará de entre sus integrantes al Secretario Técnico, el cual tendrá las funciones establecidas en el artículo 15 del Decreto.
 
-### CAPÍTULO IV. DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO IV. DEL COMISIONADO ESTATAL
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 9.
 
-El Director General es el representante legal de la Comisión; asimismo, le corresponde el trámite y resolución de todos los asuntos que determine el Decreto. Para tales efectos, ejercerá todas las facultades y obligaciones que resulten necesarias, en términos de lo que expresamente señala el artículo 18 del Decreto.
+El Comisionado Estatal es el representante legal de la Comisión; asimismo, le corresponde el trámite y resolución de todos los asuntos que determine el Decreto. Para tales efectos, ejercerá todas las facultades y obligaciones que resulten necesarias, en términos de lo que expresamente señala el artículo 18 del Decreto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 10.
 
-Para el debido cumplimiento de las atribuciones que establece el artículo 18 del Decreto, corresponde al Director General, el ejercicio de las siguientes funciones:
+Para el debido cumplimiento de las atribuciones que establece el artículo 18 del Decreto, corresponde al Comisionado Estatal, el ejercicio de las siguientes funciones:
 
 I. Dirigir y controlar la política interna de la Comisión con sujeción a los lineamientos que emita la Junta de Gobierno, de conformidad con la normatividad aplicable, así como en congruencia con los objetivos, estrategias y prioridades que establezca, en la materia objeto de la Comisión, el Plan Estatal de Desarrollo y los programas operativos anuales que correspondan;
 
@@ -131,7 +149,9 @@ VII. Autorizar, con aprobación de la Junta de Gobierno, el nombramiento de los 
 
 VIII. Vigilar que en la resolución de las controversias suscitadas entre los usuarios y los prestadores de los servicios de salud, se hayan observado los principios normativos de la bioética médica de beneficencia, no maleficencia, autonomía y justicia;
 
-IX. Acordar con los Secretarios Técnico y Jurídico de la Comisión los asuntos de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IX. Acordar con los Subcomisionados Médico y Jurídico de la Comisión los asuntos de sus respectivas competencias;
 
 X. Supervisar el ejercicio de las atribuciones de los titulares de las unidades administrativas bajo su dependencia directa;
 
@@ -161,35 +181,55 @@ XXII. Coordinar las tareas de comunicación social de la Comisión, y
 
 XXIII. Las demás que determinen las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 11.
 
-Las ausencias temporales del Director General serán cubiertas por el Secretario Técnico de la Comisión.
+Las ausencias temporales del Comisionado Estatal serán cubiertas por el Subcomisionado Médico de la Comisión.
 
-### CAPÍTULO V. DE LAS FACULTADES GENÉRICAS DE LOS SECRETARIOS Y TITULARES DE LAS DIRECCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO V. DE LAS FACULTADES GENÉRICAS DE LOS SUBCOMISIONADOS Y TITULARES DE LAS DIRECCIONES
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
-Para el adecuado cumplimiento de sus funciones, el Secretario Técnico y el Secretario Jurídico contarán con el apoyo de los Asesores Médicos y Jurídicos, a quienes corresponde coadyuvar con su quehacer, según la materia de su especialidad en las ciencias médica y jurídica.
+Para el adecuado cumplimiento de sus funciones, el Subcomisionado Médico y el Subcomisionado Jurídico contarán con el apoyo de los Asesores Médicos y Jurídicos, a quienes corresponde coadyuvar con su quehacer, según la materia de su especialidad en las ciencias médica y jurídica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
-Los Secretarios tendrán las facultades genéricas siguientes:
+Los Subcomisionados tendrán las facultades genéricas siguientes:
 
-I. Auxiliar al Director General en el ejercicio de sus atribuciones, conforme a sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-II. Desempeñar los cargos que el Director General les encomiende, y representar a la Comisión en los actos que éste determine por acuerdo expreso;
+I. Auxiliar al Comisionado Estatal en el ejercicio de sus atribuciones, conforme a sus respectivos ámbitos de competencia;
 
-III. Apoyar técnicamente y conforme a sus respectivos ámbitos de competencia, en las actividades de las unidades administrativas conforme a las instrucciones del Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-IV. Proporcionar la información, datos y cooperación técnica en sus respectivas materias, que soliciten otras dependencias y entidades de la Administración Pública Estatal, de conformidad con las instrucciones que al efecto gire el Director General;
+II. Desempeñar los cargos qua el Comisionado Estatal les encomiende, y representar a la Comisión en los actos que éste determine por acuerdo expreso;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+III. Apoyar técnicamente y conforme a sus respectivos ámbitos de competencia en las actividades de las unidades administrativas conforme a las instrucciones del Comisionado Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IV. Proporcionar la información, datos y cooperación técnica en sus respectivas materias, que soliciten otras dependencias y entidades de la Administración Pública Estatal, de conformidad con las instrucciones que al efecto gire el Comisionado Estatal;
 
 V. Suscribir los documentos relativos al ejercicio de las facultades que les otorgue el presente ordenamiento y que les hayan sido delegadas, autorizadas o cuando les correspondan por suplencia;
 
 VI. Coordinarse entre sí y con los titulares de las unidades administrativas para el mejor despacho de los asuntos competencia de la Comisión;
 
-VII. Proponer al Director General el ingreso, promociones, licencias y remociones del personal bajo su adscripción;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-VIII. Autorizar por escrito, conforme a las necesidades del servicio y con acuerdo del Director general, a los servidores públicos subalternos para que firmen la documentación relacionada con los asuntos que competan a la unidad administrativa a su cargo;
+VII. Proponer al Comisionado Estatal el ingreso, promociones, licencias y remociones del personal bajo su adscripción;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+VIII. Autorizar por escrito, conforme a las necesidades del servicio y con acuerdo del Comisionado Estatal, a los servidores públicos subalternos para que firmen la documentación relacionada con los asuntos que competan a la unidad administrativa a su cargo;
 
 IX. Verificar que en las resoluciones de las controversias se hayan observado los principios normativos de la bioética médica;
 
@@ -197,7 +237,9 @@ X. Vigilar el cumplimiento de las disposiciones aplicables a los asuntos a su ca
 
 XI. Intervenir de manera directa en la tramitación de los procedimientos arbitrales seguidos ante la Comisión, conforme a sus respectivos ámbitos de competencia y en ausencia de cualquiera de los asesores que integran los módulos de atención y arbitraje, y
 
-XII. Las demás que le señale el Director General, necesarias para el mejor cumplimiento de su gestión.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XII. Las demás que le delegue el Comisionado Estatal, necesarias para el mejor cumplimiento de su gestión.
 
 ###### ARTÍCULO 14.
 
@@ -219,17 +261,23 @@ VII. Formular de conformidad con los lineamientos, los proyectos de programas y 
 
 VIII. Coordinar sus actividades con las demás unidades administrativas cuando así se requiera para el mejor funcionamiento de la Comisión;
 
-IX. Firmar y notificar los acuerdos de trámite, o acuerdos de la Dirección General de la Comisión y aquellos que se emitan con fundamento en las atribuciones que le sean propias;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IX. Firmar y notificar los acuerdos de trámite, o acuerdos del Comisionado Estatal y aquellos que se emitan con fundamento en las atribuciones que le sean propias;
 
 X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que firmen documentación relacionada con los asuntos que competan a la unidad administrativa a su cargo, y
 
 XI. Las demás que les confieran otras disposiciones legales aplicables.
 
-### CAPÍTULO VI. DE LAS FACULTADES ESPECÍFICAS DE LOS SECRETARIOS Y TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA DIRECCIÓN GENERAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO VI. DE LAS FACULTADES ESPECÍFICAS DE LOS SUBCOMISIONADOS Y TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA OFICINA DEL COMISIONADO ESTATAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
-Corresponde al Secretario Técnico el despacho de los siguientes asuntos:
+Corresponde al Subcomisionado Médico el despacho de los siguientes asuntos:
 
 I. Planear, diseñar, organizar y dirigir programas académicos y de investigación relacionados con el quehacer institucional, y coordinar los realizados con participación de otras instituciones;
 
@@ -247,7 +295,9 @@ VII. Vincular y promover a la Comisión ante instituciones, organizaciones y org
 
 VIII. Elaborar, proponer y ejecutar el Programa de Comunicación Social de la Comisión;
 
-IX. Auxiliar al Director General en la conducción de las políticas de comunicación social de la Comisión y su relación con los medios de difusión masiva;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+IX. Auxiliar al Comisionado Estatal en la conducción de las políticas de comunicación social de la Comisión y su relación con los medios de difusión masiva;
 
 X. Compilar y evaluar la información que se difunda en los medios de comunicación sobre la Comisión;
 
@@ -267,13 +317,17 @@ XVII. Vigilar que en elaboración de las opiniones técnicas y peritajes que emi
 
 XVIII. Emitir las opiniones técnicas y peritajes que sean necesarios para la resolución de las quejas presentadas ante la Comisión, y aquellas que sean solicitadas por las autoridades competentes de conformidad con lo que establezca el Reglamento, y
 
-XIX. Las demás que le señale el Director General, necesarias para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XIX. Las demás que le señale el Comisionado Estatal, necesarias para el mejor cumplimiento de sus funciones.
 
 ###### ARTÍCULO 16.
 
-Corresponde a la Secretaría Jurídica el despacho de los siguientes asuntos:
+Corresponde a la Subcomisión Jurídica el despacho de los siguientes asuntos:
 
-I. Ejercer como apoderado legal de la Comisión, tanto en los procedimientos judiciales como en los procedimientos administrativos que el Director General le encomiende;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+I. Ejercer como apoderado legal de la Comisión, tanto en tos procedimientos judiciales como en los procedimientos administrativos que el Comisionado Estatal le encomiende;
 
 II. Brindar asesoría jurídica a todas y cada una de las unidades administrativas de la Comisión, así como establecer los criterios de interpretación de las disposiciones jurídico administrativas que normen su funcionamiento, para efectos de carácter administrativo;
 
@@ -311,15 +365,21 @@ XVIII. Instar a las partes involucradas en la queja a llegar a la conciliación;
 
 XIX. Proponer a las partes el arbitraje de la Comisión, como medida para dirimir el conflicto materia de la queja;
 
-XX. Realizar las investigaciones y estudios que requiera el análisis de la queja, observando en todo momento los principios normativos de la bioética médica, a efecto de someter a consideración del Director General el proyecto de laudo o resolución que corresponda;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XX. Realizar las investigaciones y estudios que requiera al análisis da la queja, observando en todo momento los principios normativos de la bioética médica, a efecto de someter a consideración del Comisionado Estatal el proyecto de laudo o resolución que corresponda;
 
 XXI. Orientar a los usuarios sobre las instancias competentes para resolver conflictos derivados de servicios médicos prestados por quienes carecen de título o cédula profesional;
 
-XXII. Colaborar en la elaboración de los proyectos de procedimientos que deberán aplicarse en materia de orientación, recepción y valoración de quejas, conciliación y arbitraje, y someterlos a consideración del Director General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XXII. Colaborar en la elaboración de los proyectos de procedimientos que deberán aplicarse en materia de orientación, recepción y valoración de quejas, conciliación y arbitraje, y someterlos a consideración del Comisionado Estatal;
 
 XXIII. Dar seguimiento a los acuerdos, laudos y opiniones que emita la Comisión, y
 
-XXIV. Las demás que le señale el Director General, necesarias para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XXIV. Las demás que le delegue el Comisionado Estatal, necesarias para el mejor cumplimiento de sus funciones.
 
 ###### ARTÍCULO 17.
 
@@ -357,9 +417,11 @@ XIV. Las demás atribuciones que determinen las disposiciones legales aplicables
 
 El Comisario Público tendrá las funciones que establece la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+
 ###### ARTÍCULO 19.
 
-El Comisario Público estará adscrito al Director General de la Comisión, y mantendrá una dependencia funcional de la Secretaría de la Contraloría del Ejecutivo del Estado.
+El Comisario Público mantendrá una dependencia funcional de la Secretaría de la Contraloría del Ejecutivo del Estado.
 
 ### CAPÍTULO VII. DE LOS MÓDULOS DE ATENCIÓN
 
@@ -389,7 +451,9 @@ VI. Solicitar y analizar la información relativa a los hechos materia de la que
 
 VII. Turnar a las autoridades o instituciones correspondientes, los casos que no sean de la competencia de la Comisión;
 
-VIII. Informar al Secretario Jurídico sobre la presumible comisión de hechos ilícitos por parte de algún prestador de servicios, cuando de la queja se tengan elementos de convicción suficientes, a fin de que éste lo haga del conocimiento de las autoridades competentes;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+VIII. Informar al Subcomisionado Jurídico sobre la presumible comisión de hechos ilícitos por parte de algún prestador de servicios, cuando de la queja se tengan elementos de convicción suficientes, a fin de que éste lo haga del conocimiento de las autoridades competentes;
 
 IX. Recibir y analizar los expedientes que se consideren procedentes;
 
@@ -407,9 +471,13 @@ XV. Proponer a las partes el procedimiento de arbitraje, en los casos no concili
 
 XVI. Reunir los elementos necesarios para analizar los casos que se sometan al arbitraje;
 
-XVII. Realizar los anteproyectos de laudos que emita el Secretario Jurídico, respecto de los asuntos sometidos a arbitraje;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
 
-XVIII. Coordinarse con la Secretaría Técnica para la emisión de pronunciamientos institucionales en aquellos casos en que no se resuelva la queja mediante conciliación, y
+XVII. Realizar los anteproyectos de laudos que emita el Subcomisionado Jurídico, respecto de los asuntos sometidos a arbitraje;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+XVIII. Coordinarse con la Subcomisión Médica para la emisión de pronunciamientos institucionales en aquellos casos en que no se resuelva la queja mediante conciliación, y
 
 XIX. Las demás atribuciones que determinen las disposiciones legales aplicables.
 
@@ -419,7 +487,9 @@ Corresponde a los Asesores Médicos y Jurídicos adscritos a los Módulos de Ate
 
 I. Dar fe y autorizar con su firma las actuaciones que se lleven a cabo en el proceso de arbitraje médico, conforme a lo establecido en el Reglamento;
 
-II. Informar al Secretario Jurídico y presentarle los proyectos de autos y laudos que sean dictados en el procedimiento arbitral, dentro de los términos establecidos por el Reglamento, junto con las promociones de las partes y documentos oficiales dirigidos a la Comisión;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2011)</small>
+
+II. Informar al Subcomisionado Jurídico y presentarle los proyectos de autos y laudos que sean dictados en el procedimiento arbitral, dentro de los términos establecidos por el Reglamento, junto con las promociones de las partes y documentos oficiales dirigidos a la Comisión;
 
 III. Asentar en autos las certificaciones que procedan de oficio en los términos que establezca el Reglamento;
 
@@ -433,7 +503,9 @@ VII. Archivar los expedientes concluidos debidamente foliados, y
 
 VIII. Las demás que les encomienden el Reglamento.
 
-El Asesor Jurídico deberá auxiliar al Secretario Jurídico en la redacción de los laudos que éste le encomiende, y el Asesor Médico al Secretario Técnico en la elaboración de las opiniones técnicas y dictámenes periciales que le encomiende.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2011)</small>
+
+El Asesor Jurídico deberá auxiliar al Subcomisionado Jurídico en la redacción de los laudos que éste le encomiende, y el Asesor Médico al Subcomisionado Médico en la elaboración de las opiniones técnicas y dictámenes periciales que le encomiende.
 
 ###### ARTÍCULO 24.
 
@@ -472,3 +544,11 @@ EL SECRETARIO DE SALUD
 DR. VÍCTOR MANUEL CABALLERO SOLANO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
