@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-comision-estatal-de-derechos-humanos-de-2298
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-30"
-last_updated: "2008-09-11"
+last_updated: "2011-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -563,6 +563,12 @@ Las recomendaciones se harán públicas a la sociedad.
 
 La autoridad o servidor público que haya aceptado la Recomendación emitida por la Comisión, tendrá la responsabilidad de su total cumplimiento; en caso contrario, se hará del conocimiento de la opinión pública.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 55 bis.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por los servidores públicos, la Comisión Estatal de Derechos Humanos dará vista al Congreso del Estado de tal situación, a fin de que la respectiva Comisión de la Legislatura, a su juicio y con el objeto de que expliquen las razones de su conducta o justifiquen su omisión, se sirva citar a comparecer ante la misma, a los servidores públicos involucrados. Para ello, la Comisión deberá informarle con periodicidad y oportunidad los asuntos correspondientes.
+
+La legislación orgánica del Congreso del Estado regulará el procedimiento al que alude el párrafo anterior.
+
 ###### ARTÍCULO 56.
 
 La Comisión se reservará el derecho de expedir copias o entregar alguna constancia a la autoridad o a algún particular, respecto de un expediente en la que ésta se encuentre involucrada; sin embargo, los Visitadores Generales, previo acuerdo, con el Presidente de la Comisión, podrán determinar discrecionalmente si se accede a la solicitud respectiva.
@@ -840,5 +846,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE SEPTIEMBRE DE 2008.
 
 PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
