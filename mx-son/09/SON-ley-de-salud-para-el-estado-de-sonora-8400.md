@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2010-06-28"
+last_updated: "2011-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE JUNIO DE 2011.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -527,7 +527,7 @@ De acuerdo con lo que señalen las disposiciones legales aplicables, cualquier a
 
 ###### ARTICULO 44.
 
-La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los Sistemas Nacional y Estatal de Salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
+La participación de la comunidad en los programas de protección a la salud y en la prestación de los servicios respectivos, tendrá por objeto fortalecer la estructura y funcionamiento de los Sistemas Nacional y Estatal de Salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
 
 ###### ARTICULO 45.
 
@@ -1359,7 +1359,7 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 ###### ARTICULO 142.
 
-En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
+En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituIdas y registradas ante la Junta de Asistencia Privada.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -1369,15 +1369,33 @@ En el Estado de Sonora, sólo podrán promover y realizar suscripciones de coope
 
 ### CAPITULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2011)</small>
 
-ARTICULO 148 BlS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+ARTICULO 148 BIS.- Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
 
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicaciones de las medidas básicas a toda persona interesada.
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicaciones de las medidas básicas a toda persona interesada;
 
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+II.- La detección y el tratamiento de enfermedades cardiovasculares, obesidad y diabetes;
+
+III.- La educación sobre los efectos de las enfermedades cardiovasculares, obesidad y diabetes en la salud, dirigida especialmente a niños y adolecentes en primarias, secundarias y preparatorias públicas y privadas, así como a adultos a través de medios masivos de comunicación;
+
+IV.- La instrumentación de actividades deportivas y de acondicionamiento físico que contribuyan en la lucha contra las enfermedades cardiovasculares, la obesidad y la diabetes, especialmente en las escuelas primarias, secundarias y preparatorias; y
+
+V.- La formación de un comité de nutriólogos, que a través de la Secretaria de Salud Pública del Estado, visiten periódicamente las primarias, secundarias y preparatorias, públicas y privadas, para evaluar las condiciones individuales de alimentación de los estudiantes y sugerir dietas integrales con copia a sus padres, con el fin de prevenir la obesidad y la diabetes.
 
 El Ejecutivo del Estado procurará las disposiciones presupuestales para el cumplimiento de este programa.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2011)</small>
+
+ARTICULO 148 BIS 1.- Para recabar y actualizar constantemente la información que oriente las acciones contra las enfermedades cardiovasculares, la obesidad y la diabetes, el Gobierno del Estado, a través de la Secretaria de Salud, deberá llevar a cabo actividades de investigación en los siguientes aspectos:
+
+I.- Estadísticas sobre pacientes e individuos en situación de riesgo de padecer diabetes;
+
+II.- Registros sobre la observancia de disposiciones legales orientadas a evitar el consumo y venta de alimentos con baja aportación nutrimental en primarias, secundarias y preparatorias, públicas y privadas, y sus efectos sobre la incidencia de obesidad y diabetes;
+
+III.- Hábitos alimenticios y de ejercitación física en los diferentes grupos de población; y
+
+IV.- Dietas alimenticias y rutinas de ejercicio recomendadas por rango de edad, peso, estatura y diferenciado por género, encaminadas a mejorar la calidad de vida y prevenir enfermedades cardiovasculares, obesidad y diabetes en la población.
 
 ###### ARTICULO 143.
 
@@ -2848,3 +2866,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
+
+P.O. 23 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, deberá realizar las modificaciones que correspondan a los reglamentos respectivos y presentar el programa a que se hace referencia en el Artículo 148 Bis, en un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
