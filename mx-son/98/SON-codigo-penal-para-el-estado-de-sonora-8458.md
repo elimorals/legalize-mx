@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2011-05-16"
+last_updated: "2011-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETIN OFICIAL DEL 16 DE MAYO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE JUNIO DE 2011.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2505,7 +2503,7 @@ Por violencia intrafamiliar se entiende todo acto de poder u omisión intenciona
 
 Comete el delito de violencia intrafamiliar el cónyuge, excónyuge, concubina o concubino, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, tutor o curador que realice cualquiera de los actos descritos en el párrafo anterior.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
 
 Al que cometa el delito de violencia intrafamiliar se le impondrán de seis meses a seis años de prisión y la suspensión del derecho de alimentos.
 
@@ -2515,23 +2513,25 @@ Al que cometa el delito de violencia intrafamiliar se le impondrán de seis mese
 
 Asimismo, cuando la víctima se trate de un menor, será condenado a la perdida, limitación o suspensión de la patria potestad, según las circunstancias del caso, a juicio del juez. Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
 
 En todo caso, el victimario deberá sujetarse a un tratamiento psicológico especializado como una medida para buscar su rehabilitación.
 
-> <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
+> <small>(ADICIONADO, B.O., 17 DE MAYO DE 2001)</small>
 
 Si se rehabilita, podrá recuperar el derecho de alimentos por resolución judicial.
 
-> <small>(REFORMADO, B.O. 6 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
 
-Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad, incapaz o persona mayor de 65 años, en este caso se perseguirá de oficio. Dicho menor, incapaz o persona mayor de 65 años, sólo se reintegrará a la familia, previo certificado o dictamen emitido por peritos psicológicos y/o psiquiátricos, que determinen que la persona o personas que hayan cometido el delito no representan ya un peligro o riesgo para éstos.
+Este delito se perseguirá por querella de la parte ofendida, excepto en los supuestos siguientes: que la víctima sea menor de edad o incapaz o mayor de 65 años; que la víctima presente lesiones; se presente agresión sexual; o cuando para causar daño psicológico, el agresor amenace a la víctima utilizando cualquier tipo de arma, ya sea blanca o de fuego.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 23 DE JUNIO DE 2011)</small>
 
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+En las excepciones señaladas en el párrafo anterior, la acción penal se extinguirá, por única vez, cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en la prosecución de la causa. La manifestación de desinterés jurídico no surtirá efectos cuando la víctima sea menor de edad, incapaz o persona mayor de 65 años. El menor, incapaz o persona mayor de 65 años, sólo se reintegrará a la familia, previo certificado o dictamen emitido por peritos psicológicos y/o psiquiátricos oficiales adscritos a la Procuraduría General de Justicia en el Estado o al Sistema para el Desarrollo Integral de la Familia en el Estado de Sonora, que determinen que la o las personas que hayan cometido el delito no representan un peligro o riesgo para aquellos.
 
-Para que surta efectos legales el perdón de la víctima, el agresor deberá abstenerse de repetir la conducta delictiva por lo menos en un año, cumplir, con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento hasta en tanto se cumpla con dichos requisitos.
+> <small>(ADICIONADO, B.O. 23 DE JUNIO DE 2011)</small>
+
+Para que surta efectos legales el desinterés jurídico citado en el párrafo anterior o el perdón del ofendido en el resto de los supuestos del delito de violencia intrafamiliar, el agresor deberá abstenerse de cometer la conducta delictiva descrita en este artículo por lo menos durante un año, a partir de la manifestación expresa de los mismos, cumplir con sus obligaciones alimenticias, cuando las tuviere, someterse a terapia psicológica y/o psiquiátrica y, en su caso, pagar el tratamiento que requiera la víctima. Para tal efecto se suspenderá el procedimiento en tanto (sic) hasta en tanto se cumpla con dichos requisitos.
 
 > <small>(ADICIONADO, B.O., 17 DE MAYO DEL 2001)</small>
 
@@ -3976,3 +3976,9 @@ B.O. 10 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
