@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-60739"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-06"
-last_updated: "2008-03-06"
+last_updated: "2011-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE CAMPECHE PUBLICADA EN EL P.O. 23 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el jueves 6 de marzo de 2008.
 
@@ -1866,3 +1868,15 @@ En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campeche, a los tres días del mes de marzo del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE JUNIO DE 2011.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO: Se abroga la Ley de Seguridad Pública del Estado de Campeche, expedida mediante decreto número 144 y publicada en el Periódico Oficial del Estado con fecha 6 de marzo de 2008.
+
+TERCERO: Las disposiciones reglamentarias que emanaron de la Ley que se abroga continuarán vigentes, en lo que sea aplicable conforme a lo dispuesto por la presente Ley.
+
+CUARTO: Se derogan todas las disposiciones legales y administrativas que se opongan al cumplimiento del presente decreto.
