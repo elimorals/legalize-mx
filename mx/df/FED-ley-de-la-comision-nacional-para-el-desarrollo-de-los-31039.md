@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-para-el-desarrollo-de-los-31039"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-21"
-last_updated: "2003-05-21"
+last_updated: "2011-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 LEY DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003.
 
@@ -149,9 +149,15 @@ l) Reforma Agraria;
 
 m) Turismo, y
 
-III. El Director General de la Comisión, sólo con derecho a voz.
+> <small>(ADICIONADA, D.O.F. 23 DE JUNIO DE 2011)</small>
 
-En los casos a los que se refiere la fracción II, cada miembro propietario contará con un suplente que deberá tener un nivel jerárquico de Subsecretario de Estado. Los integrantes a los que se refieren las fracciones I y II tendrán derecho a voz y voto. El Presidente podrá invitar a la persona que considere pertinente en relación al asunto a tratar, sólo con derecho a voz.
+III. El Presidente del Consejo Consultivo, y
+
+IV. El Director General de la Comisión, sólo con derecho a voz.
+
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2011)</small>
+
+En los casos a los que se refiere la fracción II, cada miembro propietario contará con un suplente que deberá tener un nivel jerárquico de Subsecretario de Estado. Los integrantes a que se refieren las fracciones I, II y III tendrán derecho a voz y voto. El Presidente podrá invitar a la persona que considere pertinente en relación al asunto a tratar, solo con derecho a voz.
 
 ###### Artículo 7.
 
@@ -245,9 +251,11 @@ Los integrantes a que se refieren las fracciones I a III serán nombrados de con
 
 En la composición del Consejo siempre habrá mayoría de representantes indígenas.
 
+> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2011)</small>
+
 ###### Artículo 13.
 
-El Consejo Consultivo de la Comisión analizará, opinará y hará propuestas a la Junta de Gobierno y al Director General sobre las políticas, programas y acciones públicas para el desarrollo de los pueblos indígenas. El Consejo Consultivo sesionará de manera trimestral y será presidido por un representante indígena.
+El Consejo Consultivo de la Comisión analizará, opinará y hará propuestas a la Junta de Gobierno y al Director General sobre las políticas, programas y acciones públicas para el desarrollo de los pueblos indígenas. El Consejo Consultivo sesionará de manera trimestral y será presidido por un representante indígena, electo democráticamente en sesión plenaria del Consejo.
 
 ###### Artículo 14.
 
@@ -308,3 +316,9 @@ Onceavo. Aquellos programas del Instituto Nacional Indigenista cuya finalidad se
 México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de mayo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE JUNIO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
