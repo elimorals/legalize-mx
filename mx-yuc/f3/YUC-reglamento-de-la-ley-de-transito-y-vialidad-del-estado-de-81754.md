@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2011-06-21"
+last_updated: "2011-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O., DEL ESTADO DE YUCANTAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE YUCATAN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 24 DE JUNIO DE 2011.</small>
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -2445,8 +2445,6 @@ XI. Cruzar las vías públicas sin demora, y
 
 XII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Prohibiciones a los peatones
 
 ###### Artículo 170.
@@ -2479,7 +2477,9 @@ XII. Cruzar intempestivamente la Vía Pública;
 
 XIII. Alterar el orden, la seguridad pública, el Tránsito y la Vialidad;
 
-XIV. No cruzar diagonalmente los cruceros;
+> <small>(F. DE E., P.O. 24 DE JUNIO DE 2011)</small>
+
+XIV. Cruzar diagonalmente los cruceros;
 
 XV. Pasar debajo de los vagones del ferrocarril, aún y cuando éste se encuentre estacionado, y
 
@@ -2809,15 +2809,15 @@ XXI. Las demás que establezca la Ley, este Reglamento y otras disposiciones leg
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Disposiciones generales para los pasajeros
 
 ###### Artículo 198.
 
 Los pasajeros tendrán la obligación de respetar las disposiciones de la Ley, este Reglamento y las indicaciones de los agentes.
 
-Como norma general los pasajeros deberán abordar y descender de los vehículos, por la puerta más próxima al borde la (sic) acera o al extremo de la Vía Pública, percatándose en todo momento que el Vehículo se encuentre completamente detenido.
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+Como norma general los pasajeros deberán abordar y descender de los vehículos, por la puerta más próxima al borde de la acera o al extremo de la Vía Pública, percatándose en todo momento que el Vehículo se encuentre completamente detenido.
 
 Obligaciones específicas de los pasajeros
 
@@ -2905,8 +2905,6 @@ II. Viajar debidamente sentados en el lugar que les corresponde, y
 
 III. Las demás previstas en este Reglamento y otras disposiciones legales y normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Prohibiciones generales para conductores y pasajeros
 
 ###### Artículo 205.
@@ -2923,7 +2921,9 @@ IV. Descender del Vehículo cuando éste se encuentre en movimiento;
 
 V. Obstaculizar o entorpecer las labores de los agentes;
 
-VI. Arrojar colillas de cigarro o embases (sic) de cristal en las vías públicas de jurisdicción estatal, y
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+VI. Arrojar colillas de cigarro o envases de cristal en la (sic) vías públicas de jurisdicción estatal, y
 
 VII. Las demás previstas en este Reglamento y otras disposiciones legales y normativas aplicables.
 
@@ -3179,13 +3179,13 @@ Carril derecho
 
 Los conductores de camiones y autobuses deberán circular siempre por el carril derecho, salvo las excepciones previstas en este Reglamento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Uso de los carriles por vehículos menores
+
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
 ###### Artículo 234.
 
-Podrán transitar hasta dos vehículo (sic) menores o menores motorizados de dos ruedas, uno al lado del otro en un mismo carril de circulación.
+Podrán transitar hasta dos vehículos menores o menores motorizados de dos ruedas, uno al lado del otro en un mismo carril de circulación.
 
 Los conductores de vehículos menores motorizados de tres o más ruedas, no podrán invadir el carril de circulación, cuando en éstos circulen uno o dos vehículos menores o menores motorizados de dos ruedas.
 
@@ -3196,8 +3196,6 @@ Respeto a los límites de velocidad
 ###### Artículo 235.
 
 Los conductores estarán obligados a respetar los límites generales de velocidad establecidos en este Reglamento y en los Dispositivos para el Control del Tránsito y la Vialidad, en las vías públicas.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 Limites generales de velocidad
 
@@ -3225,7 +3223,9 @@ V. Calles: 40 kilómetros por hora máxima y 20 kilómetros por hora mínima, y
 
 VI. Zonas escolares, de hospitales, templos y frente a centros de reunión debidamente indicados: 20 kilómetros por hora máximo.
 
-Las carrozas fúnebres podrán circular a menor velocidad menor a las mínimas, establecida en las fracciones II, III y IV de este artículo.
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+Las carrozas fúnebres podrán circular a menor velocidad a las mínimas establecidas en las fracciones II, III y IV de este artículo.
 
 Cuando un Vehículo sea conducido en una vía a velocidad menor al límite mínimo permitido, deberá circular por su extrema derecha, excepto cuando se esté preparando para dar vuelta a la izquierda.
 
@@ -3431,8 +3431,6 @@ Los vehículos que por sus dimensiones tengan dificultad para realizar las vuelt
 
 ### CAPÍTULO VI. Del adelantamiento
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Adelantamiento
 
 ###### Artículo 255.
@@ -3459,7 +3457,9 @@ a) Tomar su extrema derecha, ya sea por habérsele anunciado con señal de luz d
 
 b) No aumentar la velocidad en su Vehículo hasta que haya sido completamente adelantado, y
 
-c) Disminuir la intensidad de las luces delanteras durante la noche y mantenerla baja, hasta que el otro Vehículo se haya incorporado a una distancia prudente., (sic) y
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+c) Disminuir la intensidad de las luces delanteras durante la noche y mantenerla baja, hasta que el otro Vehículo se haya incorporado a una distancia prudente, y
 
 VII. Cuando el ancho de la superficie de rodamiento sea insuficiente, o su perfil o su estado no permitan adelantar con facilidad y sin peligro a un Vehículo lento de grandes dimensiones o por estar obligado a respetar un límite de velocidad, el conductor de ese último Vehículo deberá reducir su velocidad y, si fuera necesario, apartarse cuanto antes para dejar paso a los vehículos que le sigan.
 
@@ -3473,8 +3473,6 @@ I. Cuando exista raya continua, o el Vehículo ascienda una pendiente o entre en
 
 II. Cuando el Vehículo llegue a una distancia de 15 metros antes de una intersección, cruce de ferrocarril, túnel o paso de desnivel.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Adelantamiento prohibido
 
 ###### Artículo 257.
@@ -3485,7 +3483,9 @@ I. Por el lado derecho en calles o avenidas de doble circulación que tengan sol
 
 II. Por el acotamiento;
 
-III. Por el carril central neutro en las avenidas que cuenten con éste, y (sic)
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+III. Por el carril central neutro en las avenidas que cuenten con éste;
 
 IV. En zonas escolares;
 
@@ -4705,9 +4705,9 @@ En caso de que el resultado de la prueba practicada arroje una tasa de alcohol e
 
 Si el resultado de la prueba de orina practicada fuera positivo y la tasa de alcohol superior a 110 miligramos sobre decilitro, se procederá a la aplicación de la sanción respectiva y, en su caso, se procederá conforme a las disposiciones legales y normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
-Inmobilización (sic) del vehículo, multa y amonestación
+Inmovilización del vehículo, multa y amonestación
 
 ###### Artículo 331.
 
@@ -4779,8 +4779,6 @@ Restricción de horarios y rutas
 
 En los términos de la Ley y este Reglamento, la Secretaría podrá restringir y sujetar a horarios y rutas determinadas, la circulación de vehículos de pasaje y carga, públicos o particulares, con o sin pasaje o carga, en razón de la naturaleza de las vialidades, el tipo de carga, el peso, las dimensiones del vehículo, la intensidad del tránsito y el interés público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Obligaciones de los operadores o conductores de vehículos del servicio público de transporte
 
 ###### Artículo 337.
@@ -4791,7 +4789,9 @@ I. Poseer licencia vigente de conductor u operador del servicio público de tran
 
 II. Satisfacer los requisitos de aseo y presentación personal, conforme a las prescripciones internas, que tenga establecidas el concesionario o permisionario;
 
-III. Negarse a la aplicación de las pruebas para detectar posibles intoxicaciones por el consumo de alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas, durante el desarrollo de su trabajo. Las revisiones serán efectuadas por el personal de la autoridad de transporte del Estado, sin perjuicio de las atribuciones correspondientes a las autoridades de Tránsito;
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+III. No negarse a la aplicación de las pruebas para detectar posibles intoxicaciones por el consumo de alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas, durante el desarrollo de su trabajo. Las revisiones serán efectuadas por el personal de la autoridad de transporte del Estado, sin perjuicio de las atribuciones correspondientes a las autoridades de Tránsito;
 
 IV. Capacitarse conforme a los cursos y periodicidad que determine las disposiciones legales y normativas aplicables;
 
@@ -4847,13 +4847,13 @@ Los conductores deberán sujetarse al cupo de pasajeros correspondiente a dichos
 
 A los autobuses de segunda clase, de servicio púbico (sic) de transporte de pasajeros, de más de 3,500 kilogramos se les permitirá transitar hasta con un 20 por ciento de pasajeros de pie.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Póliza de seguro obligatoria
+
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
 ###### Artículo 342.
 
-Se prohíbe la circulación de vehículos destinados al servicio público de transporte de pasajeros que no cuenten con Póliza de seguro, por los daños que se pudieren ocasionar a los Usuarios de las vías públicas.
+Se prohíbe la circulación de vehículos destinados al servicio público de transporte de pasajeros que no cuenten con Póliza de seguro o autoseguro, por los daños que se pudieren ocasionar a los Usuarios de las vías públicas.
 
 En este caso, el Conductor deberá presentar al Perito que conozca del hecho, la Póliza de seguro vigente.
 
@@ -4881,13 +4881,13 @@ VIII. Permitir el acceso al interior del Vehículo a animales que ocasionen esto
 
 IX. Las demás previstas para los conductores en la Ley, este Reglamento y demás disposiciones legales y normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Obligaciones de los conductores de vehículos de servicio público de transporte de pasajeros
+
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
 ###### Artículo 344.
 
-En sitios, bases de servicio y cierre de circuito ubicados en la Vía Pública, los conductores del servicio público de transporte pasajeros (sic) estarán obligados a:
+En sitios, bases de servicio y cierre de circuito ubicados en la Vía Pública, los conductores del servicio público de transporte de pasajeros estarán obligados a:
 
 I. Estacionarse exclusivamente dentro de la zona señalada al efecto;
 
@@ -4899,9 +4899,13 @@ IV. Respetar los horarios y tiempos de salidas asignados;
 
 V. No consumir bebidas alcohólicas, drogas, estupefacientes, psicotrópicos u otras sustancias análogas;
 
-VI. Permanecer (sic) más tiempo del indispensable para el ascenso y descenso de pasajeros;
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
-VII. Producir (sic) ruidos que molesten a los vecinos, y
+VI. No permanecer más tiempo del indispensable para el ascenso y descenso de pasajeros;
+
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+VII. No producir ruidos que molesten a los vecinos, y
 
 VIII. Las demás previstas en la Ley, este Reglamento y demás disposiciones legales y normativas aplicables.
 
@@ -4978,8 +4982,6 @@ Cuando se transporte maquinaria y otros objetos cuyo peso excesivo pueda ocasion
 En el caso de los vehículos cuyo peso sea mayor a 10,000 kilogramos y sus dimensiones excedan de 12 metros de largo y 4.20 metros de altura, a partir de la superficie, hasta el extremo superior del vehículo o de la carga, para circular dentro de la zona urbana, deberán solicitar a la Secretaría el permiso correspondiente, la cual definirá la ruta y horario para su circulación y maniobras y, en su caso, las medidas de protección que deban adoptarse.
 
 Los agentes podrán impedir la circulación de un vehículo con exceso de peso o de dimensiones, que transite fuera de los horarios autorizados o que no cuente con el permiso respectivo, sin perjuicio de la sanción que corresponda.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 Ingreso a centrales de carga en los municipios
 
@@ -5645,8 +5647,6 @@ III. Prometer o asegurar la obtención del permiso o licencia de conducir, y
 
 IV. Las demás previstas en la Ley, este Reglamento y otras disposiciones legales y normativas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2011 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 Causas de suspensión del permiso de funcionamiento
 
 ###### Artículo 395.
@@ -5669,7 +5669,9 @@ VII. El propietario o el personal directivo de la misma, se niegue a proporciona
 
 VIII. Cualquiera de sus instructores no acepte que se le apliquen los exámenes de rutina correspondientes, para determinar su estado sobre ingestión de bebidas embriagantes o se encuentre bajo la influencia de drogas, psicotrópicos, estupefacientes o cualquier otra sustancia análoga, aún bajo prescripción médica;
 
-IX. El 60 por ciento de os (sic) alumnos egresados de la escuela de manejo, en el término de un año, no acredite el examen de conducción de vehículos que aplique Secretaría (sic), y
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+IX. El 60 por ciento de los alumnos egresados de la escuela de manejo, en el término de un año, no acredite el examen de conducción de vehículos que aplique la Secretaría, y
 
 X. No se ajusten a las disposiciones que establezcan otras disposiciones legales y normativas aplicables.
 
@@ -6403,17 +6405,23 @@ Se entenderá que las infracciones a la Ley o a este Reglamento cometidas por Co
 
 Multa
 
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 451.
 
-Las infracciones leves serán sancionadas con multa de 1 hasta 15 salarios mínimos; las graves con multas de 16 a 25 salarios mínimos; y las muy graves, de 95 a 100 salarios mínimos, de conformidad con lo previsto en el Catálogo de Sanciones, previsto en el Anexo I de este Reglamento.
+Las infracciones leves serán sancionadas con multa de 1 hasta 15 salarios mínimos; las graves con multas de 16 a 25 salarios mínimos; y las muy graves, de 90 a 100 salarios mínimos, de conformidad con lo previsto en el Catálogo de Sanciones, previsto en el Anexo I de este Reglamento.
 
 La cuantía de la multa se determina aplicando la cantidad en pesos que corresponda, a un día de salario mínimo vigente en la ciudad de Mérida, Yucatán, al día de la comisión de la infracción, multiplicada por el número de días fijado en el Catálogo de Sanciones.
 
 El monto de la multa será determinado de la siguiente manera:
 
-I. Si un conductor contraviene una disposición de Tránsito o Vialidad por vez primera, y no contraviene algunas de las disposiciones previstas en las (sic) fracción IV del artículo 449 de este Reglamento, se le podrá aplicar el monto mínimo previsto para esa conducta en el Catálogo de Sanciones;
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
 
-II. Si el conductor contraviene por segunda ocasión la misma disposición de Tránsito o Vialidad de un nivel de la clasificación, señalada en el Artículo 444 de este Reglamento, y además, contraviene alguna de las disposiciones, establecidas en las (sic) fracción IV del artículo 449 de este Reglamento, se le podrá aplicar el monto que resulte de dividir entre dos, la suma de la sanción mínima y máxima correspondiente, y
+I. Si un conductor contraviene una disposición de Tránsito o Vialidad por vez primera, y no contraviene algunas de las disposiciones previstas en la fracción IV del artículo 449 de este Reglamento, se le podrá aplicar el monto mínimo previsto para esa conducta en el Catálogo de Sanciones;
+
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
+II. Si el conductor contraviene por segunda ocasión la misma disposición de Tránsito o Vialidad de un nivel de la clasificación, señalada en el Artículo 444 de este Reglamento, y además, contraviene alguna de las disposiciones, establecidas en la fracción IV del artículo 449 de este Reglamento, se le podrá aplicar el monto que resulte de dividir entre dos, la suma de la sanción mínima y máxima correspondiente, y
 
 III. En el caso de que un conductor contravenga por tercera ocasión la misma disposición de Tránsito o Vialidad de un nivel de la clasificación, señalada en el Artículo 444 de este Reglamento, y contravenga lo dispuesto en la fracción IV del artículo 449 del propio Reglamento, se le podrá aplicar el monto máximo que corresponda a la infracción.
 
@@ -6425,9 +6433,11 @@ Las multas impuestas de conformidad con la Ley y este Reglamento, deberán cubri
 
 Arresto hasta por 36 horas
 
+> <small>(F. DE E., D.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 452.
 
-El arresto administrativo hasta por 36 horas, será aplicado tratándose de infracciones comprendidas en los artículos 170 fracciones IX y XV; 205 fracción V; 326; 328 y 332 de este Reglamento. En todo caso, las primeras ocho horas de arresto administrativo no serán conmutables.
+El arresto administrativo hasta por 36 horas, será aplicado tratándose de infracciones comprendidas en los artículos 170 fracciones VIII y XIII; 205 fracción V; 326; 328 y 332 de este Reglamento. En todo caso, las primeras ocho horas de arresto administrativo no serán conmutables.
 
 El arresto administrativo se cumplirá en las instalaciones preventivas de la Secretaría.
 
@@ -6967,4 +6977,4 @@ C. LUIS FELIPE SAIDÉN OJEDA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. VEASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PAGINAS DE LA 246 A LA 286.</small>
+> <small>N. DE E. VEASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PAGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
