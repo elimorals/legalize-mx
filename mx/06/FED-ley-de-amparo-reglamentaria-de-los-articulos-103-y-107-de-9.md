@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2009-06-17"
+last_updated: "2011-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-12-30"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -1637,6 +1637,10 @@ Cuando al celebrarse la audiencia a que se refieren los artículos 131 y 133 de 
 
 Cuando el amparo se pida contra el cobro de contribuciones y aprovechamientos, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos previo depósito del total en efectivo de la cantidad a nombre de la Tesorería de la Federación o la de la entidad federativa o municipio que corresponda, depósito que tendrá que cubrir el monto de las contribuciones, aprovechamientos, multas y accesorios que se lleguen a causar, asegurando con ello el interés fiscal. En los casos en que se niegue el amparo, cuando exista sobreseimiento del mismo o bien cuando por alguna circunstancia se deje sin efectos la suspensión en el amparo, la autoridad responsable hará efectivos los depósitos.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JUNIO DE 2011)</small>
+
+Si se realizó embargo por las autoridades fiscales, y los bienes embargados son suficientes para asegurar la garantía del interés fiscal, el contribuyente no tendrá que realizar el depósito en efectivo a que se refiere el párrafo anterior, siempre que el embargo sea firme.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 136.
@@ -1733,7 +1737,7 @@ Al tercero perjudicado se le entregará copia de la demanda por conducto del act
 
 ###### ARTICULO 148.
 
-Los jueces de Distrito o las autoridades judiciales que conozcan de los juicios de amparo, con arreglo a esta ley, deberán resolver si admiten o desechan las demandas de amparo dentro del término de veinticuatro horas, contadas desde la en que fueron presentadas.
+Los jueces de Distrito o las autoridades judiciales que conozcan de los juicios de amparo, con arreglo a esta ley, deberán resolver si admiten o desechan las demandas de amparo dentro del término de veinticuatro horas, contadas desde la en (sic) que fueron presentadas.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988) (F. DE E., D.O.F. 22 DE FEBRERO DE 1988)
 
@@ -2225,7 +2229,7 @@ Concluída la audiencia del día en cada una de las Salas, el secretario de Acue
 
 ## TITULO CUARTO. DE LA JURISPRUDENCIA DE LA SUPREMA CORTE Y DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-### Capítulo único. (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+### Capítulo Único. (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### ARTICULO 192.
 
@@ -2449,7 +2453,7 @@ III.- Al quejoso en un juicio de amparo que para darle competencia a un juez de 
 
 ## TITULO UNICO
 
-### Capítulo Unico
+### Capítulo Único
 
 > <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 1976)</small>
 
@@ -2992,5 +2996,9 @@ SEGUNDO.- En tanto se expida el Reglamento de la Ley Federal de Extinción de Do
 TERCERO.- El Consejo de la Judicatura Federal contará con un plazo que no podrá exceder de un año, contado a partir de la publicación del presente Decreto, para crear los juzgados especializados en extinción de dominio a que se refiere el artículo 10 del mismo. En tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura Federal.
 
 D.O.F. 17 DE JUNIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
