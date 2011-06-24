@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2009-05-12"
+last_updated: "2011-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -185,19 +185,31 @@ II.- La Ley General de Asentamientos Humanos;
 
 III.- Esta ley;
 
-IV.- Los Planes Nacional, Estatal y Municipales de Desarrollo;
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-V.- Los planes y programas de desarrollo urbano;
+IV.- La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado;
 
-VI.- (REFORMADA [N. DE E. DEROGADA], P.O. 2 DE NOVIEMBRE DE 2007)
+V.- Los Planes Nacional, Estatal y Municipales de Desarrollo;
 
-VII.- Las declaratorias de conurbación, de conservación y de mejoramiento;
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-VIII.- Las constancias de uso del suelo;
+VI.- Los planes y programas de desarrollo urbano;
 
-IX.- Las resoluciones, criterios y normas que expidan las autoridades competentes; y
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-X.- Las demás leyes y disposiciones aplicables.
+VII.- Los programas de ordenamiento ecológico del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+VIII.- Las declaratorias de provisiones, reservas, destinos y usos de áreas y predios;
+
+IX.- Las declaratorias de conurbación, de conservación y de mejoramiento;
+
+X.- Las constancias de uso del suelo;
+
+XI.- Las resoluciones, criterios y normas que expidan las autoridades competentes; y
+
+XII.- Las demás leyes y disposiciones aplicables.
 
 ###### ARTICULO 5.
 
@@ -208,6 +220,10 @@ I.- El aprovechamiento en beneficio social de los elementos naturales susceptibl
 II.- El desarrollo equilibrado de los asentamientos humanos en el Estado, armonizando la interrelación de la ciudad y del campo, así como distribuyendo equitativamente los beneficios y cargas de los procesos de desarrollo y urbanización;
 
 III.- La distribución equilibrada de los centros de población en el territorio de la entidad, integrándolos en el marco del desarrollo nacional, regional, estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+III Bis.- La evaluación del impacto ambiental de conjuntos habitacionales, fraccionamientos y nuevos centros de población;
 
 IV.- La adecuada interrelación socioeconómica y urbana de los centros de población y las regiones del Estado;
 
@@ -225,7 +241,9 @@ X.- La promoción de obras y servicios para que los habitantes del Estado tengan
 
 XI.- La distribución equilibrada de la población y de las actividades económicas en el territorio estatal, a fin de evitar la concentración y la dispersión desproporcionadas de los centros de población;
 
-XII.- La planeación del desarrollo urbano y de la vivienda;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XII.- La planeación del desarrollo urbano y de la vivienda, así como del ordenamiento ecológico del territorio;
 
 XIII.- La protección de los patrones comunitarios de asentamientos humanos en los centros de poblaciones rurales y su desarrollo;
 
@@ -238,6 +256,10 @@ XVI.- La promoción, aplicación de créditos y financiamientos para el desarrol
 XVII.- La protección del patrimonio natural y cultural y de la imagen urbana de los centros de población de la entidad;
 
 XVIII.- El control del crecimiento de los centros de población, evitando la especulación inmobiliaria y la expansión física en terrenos no aptos para el desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XVIII Bis.- El establecimiento y respeto de zonas intermedias de salvaguardia, con el propósito de proteger a la población y al medio ambiente de riesgos y afectaciones derivadas de la realización de actividades riesgosas y altamente riesgosas, en los términos de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado y de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XIX.- La estricta aplicación de las leyes, normas, reglamentos, planes y programas en materia de desarrollo urbano y vivienda;
 
@@ -263,6 +285,10 @@ II.- La documentación que en los términos que establezcan las normas aplicable
 
 III.- La constancia de libertad de gravámenes expedida por la Oficina del Registro Público que corresponda;
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+III Bis.- La autorización del impacto ambiental que expida la Secretaría, conforme a las disposiciones aplicables de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado;
+
 IV.- La documentación que acredite que el solicitante está al corriente en el pago del impuesto predial;
 
 V.- Si el solicitante actúa a nombre y representación de un tercero, deberá acreditar su mandato en los términos de las leyes aplicables. Sin esta circunstancia se tendrá por no presentada la solicitud.
@@ -271,7 +297,9 @@ V.- Si el solicitante actúa a nombre y representación de un tercero, deberá a
 
 Las autorizaciones, permisos, licencias, constancias y documentos a que se refiere este artículo, deberán estar vigentes conforme a las normas que regulan su expedición a la fecha de presentación de la solicitud. Tratándose de aquellos referidos en las fracciones III y V, la fecha de expedición de los mismos no deberá ser mayor de 90 días.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2011)</small>
+
+La autorización a que se refiere la fracción III Bis de este artículo no será exigible tratándose de solicitudes de constancias de uso del suelo.
 
 ###### ARTICULO 8.
 
@@ -327,6 +355,10 @@ XI.- La redensificación demográfica del área urbana optimización del equipam
 
 XII.- La protección y conservación del ambiente y de las zonas arboladas;
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XII Bis.- Las condiciones y limitaciones establecidas por la Secretaría en las autorizaciones de impacto ambiental, en su caso;
+
 XIII.- La dirección de los vientos dominantes;
 
 XIV.- La capacidad de ingresos y la situación socioeconómica de la población;
@@ -345,7 +377,13 @@ XX.- La prevención y atención de las emergencias urbanas;
 
 XXI.- Las especificaciones en la construcción que garanticen la seguridad de las obras contra los efectos de los fenómenos naturales, tales como sismos, inundaciones y otros análogos;
 
-XXII.- Las normas y requisitos para la construcción y funcionamiento de establecimientos y espectáculos públicos; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XXII.- Las normas y requisitos para la construcción y funcionamiento de establecimientos y espectáculos públicos;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XXII Bis.- Las disposiciones de los programas de desarrollo urbano y del ordenamiento ecológico estatal y municipales, y
 
 XXIII.- Todos aquellos lineamientos, criterios o normas técnicas que se deriven de la legislación y programas en materia de desarrollo urbano y vivienda y demás disposiciones jurídicas aplicables.
 
@@ -365,9 +403,9 @@ Para la aplicación de esta ley, son autoridades competentes:
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-II.- La Secretaría;
+II.- La Secretaría de Medio Ambiente; y
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -497,11 +535,13 @@ XXV.- Autorizar fraccionamientos de urbanización progresiva, cuando se trate de
 
 XXVI.- Apoyar a la Secretaría de Desarrollo Social en la promoción de programas de bienestar social en las colonias y fraccionamientos populares y de interés social;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-XXVII.- Coadyuvar con la Secretaría de Desarrollo Social para impedir el establecimiento de asentamientos humanos irregulares o de fraccionamientos al margen de la ley;
+XXVII.- Impedir, en coordinación con la Secretaría de Desarrollo Social en su caso, el establecimiento de asentamientos humanos irregulares o de fraccionamientos al margen de la ley;
 
-XXVIII.- Aplicar, en el ámbito de su competencia, las normas técnicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+XXVIII.- Aplicar las disposiciones jurídicas en materia de impacto ambiental, a que deberán sujetarse los proyectos de obras públicas o de particulares, de conformidad con la legislación aplicable;
 
 XXIX.- Fijas las restricciones a las que deberán sujetarse las edificaciones y elementos tales como fuentes, esculturas, arcos, columnas, monumentos y similares, localizados en zonas de patrimonio histórico y cultural, sin perjuicio de lo establecido en la Ley del Patrimonio Cultural del Estado;
 
@@ -1249,9 +1289,9 @@ La modificación o abrogación, podrá ser solicitada ante la Autoridad correspo
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
 
-II.- La Secretaría;
+II.- La Secretaría de Medio Ambiente;
 
 III.- Los Ayuntamientos de la entidad, por conducto del Presidente Municipal correspondiente;
 
@@ -1411,7 +1451,13 @@ V.- Las obligaciones a cargo del Gobierno del Estado o del Ayuntamiento y de los
 
 VI.- Los plazos de iniciación, revisión y terminación de las obras;
 
-VII.- Las constancias de uso del suelo; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+VII.- Las constancias de uso del suelo;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+VII Bis.- La autorización del impacto ambiental que corresponda conforme a las disposiciones aplicables de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado, y
 
 VIII.- Las autorizaciones de fraccionamientos o condominios, en su caso.
 
@@ -1431,7 +1477,9 @@ V.- Medios para la satisfacción de la demanda;
 
 VI.- Régimen financiero para la ejecución de la obra;
 
-VII.- El impacto ambiental; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+VII.- El impacto ambiental autorizado; y
 
 VIII.- La estructura vial y el sistema de transporte.
 
@@ -3264,3 +3312,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autorizaciones, permisos y licencias a que se refiere esta Ley, que se encuentren en trámite con anterioridad a la entrada en vigor del presente decreto, se resolverán conforme a las disposiciones jurídicas vigentes al momento de haber ingresado la solicitud correspondiente.
