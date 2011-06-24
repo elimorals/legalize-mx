@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-06-15"
+last_updated: "2011-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1966,13 +1966,17 @@ V. La persona con la que se haya constituido sociedad en convivencia
 
 Se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por este Código y el Código de Procedimientos Penales, ambos para el Distrito Federal; además se sujetará al agente a tratamiento especializado que para personas agresoras de violencia familiar refiere la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, el que en ningún caso excederá del tiempo impuesto en la pena de prisión, independientemente de las sanciones que correspondan por cualquier otro delito.
 
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2011)</small>
+
+En caso de que la víctima padezca algún trastorno mental diagnosticado, se aumentará en una mitad la pena que corresponda, para lo cual el juzgador valorará el tipo de rehabilitación o tratamiento médico al que estuviere sujeta la víctima para la imposición de las sanciones.
+
 > <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
 Este delito se perseguirá por querella, salvo que la víctima sea menor de edad; o incapaz.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2011)</small>
 
-No se justifica en ningún caso como forma de educación o formación el ejercicio de la violencia hacia los menores de edad.
+No se justifica en ningún caso como tratamiento médico o rehabilitación la violencia hacia cualquier persona con algún trastorno mental, ni como forma de educación o formación hacia los menores.
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -4447,3 +4451,9 @@ G.O. 15 DE JUNIO DE 2011.
 Primero: El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE JUNIO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
