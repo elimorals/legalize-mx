@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-al-uso-racional-de-la-energia-para-el-estado-567
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-13"
-last_updated: "2008-06-06"
+last_updated: "2011-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE FOMENTO AL USO RACIONAL DE LA ENERGIA PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2011.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 13 de julio de 2007.
 
@@ -49,6 +49,10 @@ Para los efectos de esta ley se entiende por:
 
 l. Consejo: el Consejo Consultivo para el Ahorro de Energía;
 
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+I Bis. Comisión Intersecretarial: La Comisión Intersecretarial para el Fomento al Uso Racional de la Energía;
+
 II. Energía renovable: es aquélla que se produce de forma continua y es inagotable, se obtiene de fuentes naturales.
 
 III. Entidades privadas: comprende todas aquéllas que formen parte del sector productivo, organismos no gubernamentales y la población en general;
@@ -59,7 +63,9 @@ V. Estado: el Estado de Coahuila de Zaragoza;
 
 VI. Ley: la Ley de Fomento al Uso Racional de la Energía para el Estado de Coahuila;
 
-VII. Recomendación: documento emitido por el Titular del Ejecutivo a través de la instancia que para tal efecto se instale, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional de energía;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+VII. Recomendación: documento emitido por la Comisión Intersecretarial, en el cual se establecerán los criterios y acciones a llevar a cabo, a fin de fomentar el uso racional de energía;
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -77,7 +83,9 @@ XI. Uso racional de energía: Son las acciones, estrategias y hábitos encaminad
 
 El Titular del Ejecutivo tendrá las siguientes atribuciones:
 
-I. Diseñar, difundir y ejecutar el Plan Estatal de Ahorro de Energía;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2011)</small>
+
+I.- Diseñar, expedir, difundir y ejecutar el Plan Estatal de Ahorro de Energía;
 
 II. Promover campañas para concientizar sobre el ahorro y uso racional de la energía a las entidades públicas y privadas;
 
@@ -145,15 +153,19 @@ VI. El mantenimiento periódico de los equipos e instalaciones eléctricas para 
 
 VII. Los demás que determine esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 8.
 
-El Titular del Ejecutivo podrá delegar sus atribuciones mediante la creación de una comisión intersecretarial para la atención directa de las disposiciones previstas en esta ley. La creación e integración de dicha comisión estará a lo dispuesto en el párrafo segundo del artículo 6 de la Ley Orgánica de la Administración Pública del Estado de Coahuila. La coordinación general de dicha comisión intersecretarial será a cargo de la Secretaría.
+El Titular del Ejecutivo ejercerá sus atribuciones a través de la Comisión Intersecretarial, para la atención directa de las disposiciones previstas en esta ley. La integración de dicha Comisión estará a lo dispuesto en el párrafo segundo del artículo 6 de la Ley Orgánica de la Administración Pública del Estado de Coahuila. La coordinación general de dicha Comisión Intersecretarial estará a cargo de la Secretaría.
 
 ### CAPÍTULO TERCERO. EL CONSEJO CONSULTIVO PARA EL AHORRO DE ENERGÍA EN EL ESTADO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 9.
 
-El Consejo será el órgano de consulta y apoyo de la comisión intersecretarial a que se refiere el artículo 8 de esta ley, en materia de ahorro y uso racional de energía y aprovechamiento de las energías renovables. Fomentará la participación ciudadana y podrá integrarse por representantes de los siguientes sectores de la sociedad:
+El Consejo será el órgano de consulta y apoyo de la comisión intersecretarial, en materia de ahorro y uso racional de energía y aprovechamiento de las energías renovables. Fomentará la participación ciudadana y podrá integrarse por representantes de los siguientes sectores de la sociedad:
 
 I. Asociaciones industriales y comerciales;
 
@@ -243,19 +255,25 @@ VII. Promover la investigación y el desarrollo tecnológico en materia de ahorr
 
 VIII. Los demás que determine el Titular del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 16.
 
-La comisión descrita en el artículo 8 de esta ley, podrá solicitar el apoyo y asesoría técnica del Consejo Estatal de Ciencia y Tecnología, para diseñar y difundir tecnología basada en el uso de energía renovable, así como para impulsar los programas y proyectos que se elaboren en materia de uso racional de energía.
+La Comisión Intersecretarial contará con el apoyo y asesoría técnica del Consejo Estatal de Ciencia y Tecnología, para diseñar y difundir tecnología basada en el uso de energía renovable, así como para impulsar los programas y proyectos que se elaboren en materia de uso racional de energía.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2011)</small>
 
 ###### Artículo 17.
 
-El Plan Estatal de Ahorro de Energía deberá publicarse en el Periódico Oficial del Gobierno del Estado, así como en los medios remotos de comunicación con que cuente la comisión prevista en el artículo 8 de esta ley.
+El Plan Estatal de Ahorro de Energía deberá publicarse en el Periódico Oficial del Gobierno del Estado, así como en los medios de comunicación con que cuente la Comisión Intersecretarial.
 
 ### CAPÍTULO QUINTO. EL FOMENTO AL APROVECHAMIENTO DE LA ENERGÍA RENOVABLE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2011)</small>
+
 ###### Artículo 18.
 
-Con el objeto de promover el uso de las fuentes de energía renovables, el Titular del Ejecutivo del Estado y los municipios en el ámbito de sus atribuciones y competencia llevarán a cabo las siguientes acciones:
+Con el objeto de promover el uso de las fuentes de energía renovables, la Comisión Intersecretarial y los municipios en el ámbito de sus atribuciones y competencia llevarán a cabo las siguientes acciones:
 
 I. Difundir mediante programas y acciones, los costos y beneficios socioeconómicos y ambientales del aprovechamiento de la energía renovable;
 
@@ -332,3 +350,9 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Titular del Ejecutivo del Estado deberá expedir el Acuerdo de integración, organización y funcionamiento de la Comisión Intersecretarial, dentro de los tres meses siguientes a la entrada en vigor del presente decreto.
