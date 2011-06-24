@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2011-06-15"
+last_updated: "2011-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2011.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2065,7 +2065,9 @@ IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyug
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición;
 
-VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte. El Juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
+
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
 ###### ARTICULO 268.
 
@@ -3605,17 +3607,25 @@ III.- En los casos de violencia familiar en contra el menor;
 
 IV. El incumplimiento de la obligación alimentaría por más de 90 días, sin causa justificada;
 
+> <small>(ADICIONADO. G.O. 24 DE JUNIO DE 2011)</small>
+
+El cónyuge o concubino que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal adscrito a la Procuraduría General de Justicia del Distrito Federal o por perito en la materia en los términos del último párrafo del artículo 346 del Código de Procedimientos Civiles del Distrito Federal;
+
 > <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
 
 V. Por el abandono que el padre o la madre hicieren de los hijos por más de tres meses, sin causa justificada;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
 
-VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada; y
+VI. Cuando el que la ejerza hubiera cometido contra la persona o bienes de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
 
-VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves.
+VII. Cuando el que la ejerza sea condenado dos o más veces por delitos graves; y
+
+> <small>(ADICIONADA, G.O. 24 DE JUNIO DE 2011)</small>
+
+VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14248,3 +14258,19 @@ Primero. El presente decreto entrará en vigor al día siguiente a su publicaci�
 Segundo. Todos los procesos iniciados con anterioridad a la entrada en vigor a la presente reforma se concluirán conforme a las disposiciones anteriores.
 
 Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 24 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 267 FRACCION VI DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 24 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA UN SEGUNDO PARRAFO A LA FRACCION IV, ASI COMO LAS FRACCIONES VI, VII Y VIII DEL ARTICULO 444 DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL.
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
