@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2009-05-27"
+last_updated: "2011-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -4389,7 +4389,9 @@ IV. Las demás que determine esté código o las leyes que resulten aplicables.
 
 PRIMERO.- El presente Código abroga el Código Electoral para el Estado de Morelos aprobado por la cuadragésima sexta Legislatura del Congreso del Estado de Morelos y publicado en el Periódico Oficial "Tierra y Libertad" No. 3830 de fecha 28 de noviembre de 1996.
 
-SEGUNDO.- En relación al voto de los morelenses en el extranjero contemplado en el Libro Cuarto, Título Cuarto del presente Código para los efectos de su aplicación el Instituto Estatal Electoral deberá prever en el convenio correspondiente con el Instituto Federal Electoral la instrumentación más adecuada para hacer efectivo este derecho a los ciudadanos morelenses residentes en el extranjero y prever en el proyecto de presupuesto de egresos del ejercicio fiscal del año 2011 los recursos necesarios para su aplicación.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2011)</small>
+
+SEGUNDO.- En relación al voto de los morelenses en el extranjero contemplado en el Libro Cuarto, Titulo Cuarto del presente Código para los efectos de su aplicación el Instituto Estatal Electoral deberá prever en el convenio correspondiente con el Instituto Federal Electoral la instrumentación más adecuada para hacer efectivo este derecho a los ciudadanos morelenses residentes en el extranjero y prever en el proyecto de presupuestos de egresos del ejercicio fiscal del año 2017 los recursos necesarios para su aplicación.
 
 TERCERO.- En relación a la creación de nuevas unidades administrativas que requieran incremento en los recursos humanos materiales y financieros por el Instituto Estatal Electoral estos deberán contemplarse en el presupuesto de egresos para el ejercicio fiscal del año 2009.
 
@@ -4464,3 +4466,11 @@ Se derogan las disposiciones legales o reglamentarias que contravengan las dispo
 ###### ARTÍCULO TERCERO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación.
+
+P.O. 24 DE JUNIO DE 2011.
+
+PRIMERO.- Remítase al titular del Poder Ejecutivo, para los efectos de su promulgación y publicación correspondiente.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
