@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-54286"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-03"
-last_updated: "2007-01-03"
+last_updated: "2011-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el martes 3 de enero de 2007.
 
@@ -51,9 +51,11 @@ LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público y de carácter general, reglamentaria de la fracción IV del artículo 65 de la Constitución Política del Estado Libre y Soberano de Zacatecas. Tiene por objeto establecer las bases y requisitos para la concertación y contratación de empréstitos y créditos; su registro y control, así como la administración de los recursos provenientes de las operaciones señaladas, que en su conjunto constituyen la Deuda Pública del Estado de Zacatecas y sus municipios.
+Esta Ley es de orden público y de carácter general, reglamentaria de la fracción XIV del artículo 65 de la Constitución Política del Estado Libre y Soberano de Zacatecas. Tiene por objeto establecer las bases y requisitos para la concertación y contratación de empréstitos y créditos o emisión de valores; así como la administración, gestión, refinanciamiento, reestructuración, registro y control de los recursos provenientes de las operaciones señaladas, que en su conjunto constituyen la Deuda Pública del Estado de Zacatecas y sus municipios.
 
 ###### Artículo 2.
 
@@ -115,7 +117,9 @@ XII. Servicio de la deuda: Son los importes de dinero que se destinen a la amort
 
 XIII. Registro: El Registro Estatal de Deuda;
 
-XIV. Inversión Pública Productiva: La destinada a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos o al mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer, siempre que en forma directa o indirecta, inmediata o mediata, generen un incremento en los ingresos de las entidades. Asimismo, se consideran inversiones públicas productivas para efectos de esta Ley, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales declaradas por el Titular del Poder Ejecutivo Estatal, así como aquélla que contribuye a enfrentar la pobreza financiando proyectos de infraestructura de servicio social y desarrollo comunitario, que permitan aumentar el acceso a los servicios básicos a la población de bajos ingresos.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+XIV. Inversión Pública Productiva: Se entiende por Inversión Pública Productiva, la ejecución de obras públicas, acciones, adquisiciones o manufactura de bienes y prestación de servicios públicos, el mejoramiento de las condiciones, estructura o perfil de la deuda pública vigente o de la que se pretenda contraer o a cualquier otra finalidad de interés público o social, incluyendo el finiquito de los contratos de prestación de servicios multianuales, siempre que puedan producir directa o indirectamente, un ingreso para el Estado de Zacatecas o sus Municipios, incluyendo además, las acciones que se destinen para apoyar el gasto público en materia de educación, salud, asistencia, comunicaciones, desarrollo regional, industria, comercio; tecnologías de la información, cuidado del medio ambiente, fomento agropecuario, turismo, seguridad pública y combate a la pobreza, que fomenten el crecimiento económico y la equidad social; así como, para cubrir un déficit imprevisto en la Hacienda Pública del Estado o de los Municipios, o bien, aquellas acciones que permitan hacer frente a cualquier calamidad o desastre natural.
 
 XV. Programa de Financiamiento: La cantidad total estimada, que al efecto se establezca en la Ley de Ingresos aplicable para la contratación de financiamientos del ejercicio fiscal en curso de que se trate, deduciendo las cantidades que se requieran para pagos a capital de financiamientos. El pago de intereses no formará parte del financiamiento pero deberá incluirse en el Presupuesto de Egresos correspondiente e informarse en la Cuenta Pública.
 
@@ -127,7 +131,7 @@ La Secretaría será la única dependencia del Poder Ejecutivo del Estado, facul
 
 Los financiamientos a que se refiere este artículo no se considerarán dentro de los montos anuales de endeudamiento autorizados.
 
-No será considerada deuda pública a las obligaciones derivadas de los contratos de prestación de servicios multianuales.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE JUNIO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -185,11 +189,35 @@ III. Autorizar al Gobierno del Estado o Municipal para intervenir como aval o de
 
 IV. Ejercer las facultades de vigilancia que tiene conferidas en la Constitución Política del Estado Libre y Soberano de Zacatecas a través de la Auditoria Superior del Estado;
 
-V. Autorizar, en su caso, previo examen las solicitudes de endeudamiento adicionales de las entidades públicas previstas en el artículo 2 de esta Ley, tomando en consideración la información que rinda la Secretaría de Finanzas, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
 
-VI. Solicitar a las entidades públicas la documentación e información complementaria que requiera para el análisis de las solicitudes de crédito;
+V. Autorizar a las entidades públicas a que se refiere el artículo 2 de esta Ley, el ejercicio de montos de obligaciones por deuda pública no previstos o adicionales a los autorizados en la Ley de Ingresos del Estado y en las Leyes de Ingresos de los Municipios que correspondan, que sean necesarios para su financiamiento, mediante reformas a una u otra Ley o a través de decretos específicos, cuando se presenten circunstancias económicas extraordinarias que así lo requieran y/o las entidades cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán;
 
-VII. Las demás que en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley y otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+VI. Autorizar la afectación como fuente o garantía de pago o ambas, de las obligaciones contraídas por el Estado, directamente o como avalista, deudor solidario, subsidiario o sustituto, sus bienes del dominio privado, los derechos e ingresos que obtengan de las participaciones que en ingresos federales le correspondan; así como, sus derechos al cobro e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales, o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+VII. Autorizar a los Municipios, directamente o para que se incorporen al decreto o decretos globales de autorización para contratar créditos o empréstitos para destinarlos a inversión pública productiva y para afectar como fuente o garantía de pago, o ambas, o destinar al servicio de la deuda y/o a las obligaciones a su cargo derivadas de los financiamientos que contraigan directamente, sus bienes del dominio privado, los derechos e ingresos que obtengan por las participaciones y/o aportaciones federales que le correspondan a los Municipios y que puedan utilizar para ese fin, de conformidad con la legislación aplicable; así como, sus derechos al cobro e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable. En el entendido que cada Municipio deberá obtener, de manera previa a la contratación del o los financiamientos, la autorización de su Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+VIII. Adicionalmente, autorizar al Estado y/o a los Municipios a celebrar los instrumentos necesarios para la formalización de los mecanismos mediante los cuales se realicen las afectaciones señaladas en la fracción precedente, para ser utilizados, además, como medio de captación y distribución de las aportaciones federales que les correspondan, en el entendido que cuando los mecanismos se formalicen a través de fideicomisos, éstos no serán considerados en ningún caso, parte de la administración pública paraestatal o paramunicipal. A las autorizaciones señaladas en la presente fracción, se podrán adherir los municipios que así lo consideren conveniente;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+IX. Derivado de la magnitud de los proyectos que constituyan inversión pública productiva en los términos que señala la presente Ley, la Legislatura del Estado podrá autorizar la contratación de financiamientos a dos o más Municipios, bajo el amparo de una línea de crédito global o, en su caso, la emisión de valores conjunta entre dos o más Municipios, las cuales serán negociadas y gestionadas con la asesoría de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+X. Autorizar a las Entidades Públicas, la celebración de operaciones de refinanciamiento y reestructuración de deuda pública.
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+XI. Solicitar a las entidades públicas la documentación e información complementaria que requiera para el análisis de las solicitudes de crédito. Tratándose de empréstitos que soliciten los Municipios o entes paramunicipales, la Legislatura podrá solicitar, previo a la aprobación del empréstito, la opinión técnica de la Secretaría, y
+
+XII. Las demás que en materia de deuda pública, le confiera la Constitución Política del Estado, esta Ley y otras disposiciones legales.
 
 ###### Artículo 10.
 
@@ -205,19 +233,29 @@ III.- Cuidar que los recursos procedentes de financiamientos constitutivos de la
 
 Corresponde al Ejecutivo del Estado, en la materia de deuda pública, por conducto de la Secretaría;
 
-I.- Asesorar técnicamente y apoyar a las entidades públicas en la gestión, concertación y contratación de sus operaciones;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+I.- Asesorar técnicamente y apoyar a las demás entidades públicas previstas en esta Ley, en la gestión, concertación y contratación de sus operaciones de crédito;
+
+Cuando más de una de ellas se lo solicite, gestionar ante la Legislatura la autorización global para el endeudamiento y la celebración de instrumentos legales para formalizar los mecanismos mediante los cuales se realice el pago y/o se garanticen las obligaciones que contraigan, con cargo a los derechos e ingresos que les correspondan, cuya afectación se les autorice de conformidad con la (sic) que dispone la legislación aplicable, a los cuales se podrán adherir aquellas entidades a las que les resulte conveniente, en el entendido que, cada entidad deberá obtener, de manera previa a la contratación del o los financiamientos, la autorización de su Ayuntamiento u Órgano de gobierno, según el caso;
 
 II.- Incluir en las iniciativas de Ley de Ingresos y Presupuesto de Egresos, un programa de financiamiento anual en base al cual se manejará la deuda pública del Estado; en este instrumento se señalarán los montos de endeudamiento neto necesarios para cubrir los requerimientos del ejercicio fiscal correspondiente, y contendrá los elementos de juicio que los sustenten y la mención expresa de las partidas del presupuesto de egresos destinados al servicio de la deuda;
 
 III.- Informar en la Cuenta Pública el estado de la deuda pública;
 
-IV.- Refrendar la solicitud que el Titular del Ejecutivo envíe a la Legislatura para contratar empréstitos directos adicionales a los montos a que se refiere la fracción II de este artículo y, en su caso, para afectar en garantía de pago las participaciones del Estado en ingresos federales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+IV.- Refrendar la solicitud que el Titular del Ejecutivo envíe a la Legislatura para contratar empréstitos directos adicionales a los montos a que se refiere la fracción II de este artículo y, en su caso, para otorgar en garantía y/o fuente de pago de las obligaciones que contraiga, con cargo a los bienes, derechos e ingresos que les correspondan, cuya afectación se les autorice de conformidad con la que dispone la legislación aplicable;
 
 V.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de financiamientos, suscribiendo los documentos y títulos de crédito requeridos; así como las operaciones de reestructuración o de conversión de financiamientos adquiridos por el Estado y sus entidades dentro del ámbito de su competencia;
 
-VI.- Afectar, como fuente o garantía de pago o ambas, previa autorización de la Legislatura, obligaciones contraídas por el Estado, directamente o como avalista, deudor solidario, subsidiario o sustituto, las participaciones que en ingresos federales le correspondan, en los términos dispuestos por la Ley de Coordinación Fiscal;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
 
-VII.- Amortizar obligaciones contraídas directamente o como aval, con los ingresos estatales o las participaciones federales que le correspondan, al sujeto pasivo respectivo, en ejercicio del mandato otorgado por éste a tal efecto;
+VI.- Afectar, previa autorización de la Legislatura, como fuente o garantía de pago, o ambas, sus bienes del dominio privado; así como, sus derechos e ingresos de las participaciones que en ingresos federales le correspondan o aquellos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable, así como celebrar los instrumentos necesarios para la formalización de los mecanismos mediante los cuales se realice la afectación, en su caso, en el entendido que las demás entidades públicas previstas en esta Ley podrán adherirse a los mecanismos que formalice el Estado para pagar o garantizar las obligaciones derivadas de la deuda que contraigan, cuando así convenga;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+VII.- Amortizar obligaciones contraídas directamente o como aval u obligado solidario, con sus derechos e ingresos derivados los ingresos estatales o las participaciones y/o aportaciones federales que le correspondan al sujeto pasivo respectivo, en ejercicio del mandato otorgado por éste a tal efecto, y que sean susceptibles de afectarse para tal fin de conformidad con lo que dispone la legislación aplicable, así como, con sus derechos al cobro e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable;
 
 VIII.- Vigilar que las entidades públicas estatales amorticen su deuda, liquiden intereses y realicen los pagos que se deriven de los empréstitos contratados por las mismas;
 
@@ -245,7 +283,9 @@ A los Municipios les corresponde:
 
 I.- Elaborar y aprobar sus programas de financiamiento anuales dentro de sus presupuestos de egresos, que incluirán todas las operaciones de deuda pública a que se refiere esta Ley, remitiéndolos a la Legislatura para su aprobación, conocimiento y registro;
 
-II.- Solicitar a la Legislatura autorización para contratar empréstitos directos adicionales a los que se refiere la fracción anterior y, en su caso, afectar en garantía de pago las participaciones del Municipio en ingresos federales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+II.- Solicitar a la Legislatura autorización para contratar empréstitos directos adicionales a los que se refiere la fracción anterior y que constituyan deuda pública, en su caso, afectar en garantía o fuente de pago, sus bienes del dominio privado, los derechos e ingresos de las participaciones y/o aportaciones federales que le correspondan al Municipio de conformidad con la legislación aplicable, así como, sus derechos al cobro e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable;
 
 III.- Celebrar en el ámbito de su competencia los contratos, convenios, mandatos, fideicomisos de administración y pago, fideicomisos de garantía, excepto de inmuebles, así como otorgar el instrumento legal idóneo para la obtención de financiamientos, suscribiendo los documentos y títulos de crédito requeridos; así como las operaciones de reestructuración o de conversión de financiamientos adquiridos;
 
@@ -255,7 +295,9 @@ V. Informar a la Legislatura, en la remisión de sus cuentas públicas municipal
 
 VI. Proporcionar la información que la Legislatura le requiera de acuerdo a la Ley, en relación con las operaciones de deuda pública, así como la que le solicite el Ejecutivo, respecto de los empréstitos en que éste se hubiese constituido como su garante o para efectos de su registro;
 
-VII. Aprobar la afectación de las participaciones que le correspondan, cuando sirvan de garantía en las obligaciones de deuda pública, previa autorización de la Legislatura;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+VII.- Afectar, previa autorización de la Legislatura, sus derechos e ingresos derivados de las participaciones y/o aportaciones federales que le correspondan y sean susceptibles de afectación en términos de lo que dispone la legislación aplicable, cuando sirvan de garantía y/o como fuente de pago de las obligaciones derivadas de la deuda pública que contraten, así como sus bienes del dominio privado, sus derechos e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos, aportaciones federales o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable;
 
 VIII. Integrar el Registro Estatal del (sic) Deuda Pública Municipal, en el que deberán inscribir sus obligaciones crediticias, amortización y rescate de sus títulos de deuda;
 
@@ -265,7 +307,11 @@ X. Publicar anualmente el saldo actualizado de la deuda pública;
 
 XI. Autorizar al Presidente o en su caso al Síndico Municipal para que por su conducto, el Ayuntamiento se constituya en avalista, deudor solidario o substituto de las obligaciones crediticias de las entidades municipales, cuando en garantía se afecten las participaciones que en ingresos federales se establezcan en favor del Municipio;
 
-XII. Celebrar convenios en donde se establezcan las bases para la operación de los fideicomisos creados para garantizar, por medio de las participaciones en ingresos federales, el pago de las obligaciones contraídas, así como de cualquier otro mecanismo diseñado para tales efectos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2011)</small>
+
+XII.- Celebrar, previa autorización de la Legislatura, los instrumentos necesarios para la formalización de los mecanismos mediante los cuales se afecten como fuente o garantía de pago de las obligaciones a su cargo, los derechos e ingresos que les correspondan sobre las participaciones y/o aportaciones federales, de conformidad con lo que establece la legislación aplicable, así como, sus derechos e ingresos derivados de contribuciones, cuotas, cooperaciones, derechos, productos, aprovechamientos o cualesquier otros ingresos federales o locales de los que puedan disponer, de conformidad con la legislación aplicable.
+
+Sin perjuicio de lo anterior, los Municipios podrán celebrar por sí mismos los mecanismos para pagar o garantizar las obligaciones derivadas de los empréstitos que contraigan, en el entendido que cuando los mecanismos se formalicen a través de fideicomisos podrán ser utilizados, además, como medio de captación y distribución de sus derechos e ingresos afectados y no serán considerados, en ningún caso, parte de la administración pública paramunicipal;
 
 XIII. Afectar, previa autorización de la Legislatura en garantía de pago de las obligaciones contraídas por el Ayuntamiento, directamente o como avalista, deudor solidario, subsidiario, o sustituto, los bienes del dominio privado, los ingresos propios o de los propios proyectos financiados; y
 
@@ -300,6 +346,10 @@ El Poder Ejecutivo del Estado y sus entidades sólo podrán contratar financiami
 ###### Artículo 16.
 
 Los Financiamientos que se contraten deberán estar incluidos en el Programa de Financiamiento, estar debidamente soportados en el contrato respectivo y disponible para su revisión por la Legislatura al analizar la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2011)</small>
+
+Las Entidades Públicas podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en la presente Ley. Asimismo, para que se lleve a cabo la emisión de valores por parte de las Entidades Públicas, en forma individual o conjunta, éstas podrán obtener la aprobación de dos instituciones calificadoras de valores, que otorguen una calificación que haga atractiva a los mercados financieros la adquisición de valores.
 
 ###### Artículo 17.
 
@@ -415,9 +465,11 @@ El Ejecutivo del Estado y los Ayuntamientos podrán otorgar en garantía de pago
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE DEUDA PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2011)</small>
+
 ###### Artículo 30.
 
-Las entidades públicas estarán obligadas a llevar un control interno de sus operaciones de financiamiento e inscribirlas en el Registro Estatal de Deuda Pública.
+La Secretaría de Finanzas se encuentra facultada para contratar directamente a auditores externos, asesores en materia de deuda pública o agencias calificadoras de valores, a efecto de que dictaminen sus estados financieros, que incluyan la situación de la deuda pública, que funjan como estructuradores de las operaciones financieras que celebren o que emitan opiniones de riesgo. Asimismo, las entidades públicas estarán obligadas a llevar un control interno de sus operaciones de financiamiento e inscribirlas en el Registro Estatal de Deuda Pública.
 
 En el Registro Estatal de Deuda Pública se inscribirán, para efectos declarativos, a solicitud de las entidades, los financiamientos que constituyan deuda pública, directa, indirecta o contingente.
 
@@ -492,3 +544,9 @@ AMALlA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
