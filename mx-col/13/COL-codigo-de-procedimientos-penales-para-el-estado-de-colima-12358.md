@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-04-16"
+last_updated: "2011-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -679,11 +679,9 @@ Si no se hace esa designación, bastará notificar a cualquiera de los defensore
 
 Las personas que intervengan en un proceso designarán en la primera diligencia un domicilio ubicado en el lugar del mismo para recibir notificaciones. Si por cualquier circunstancia no hacen esa designación, cambian de domicilio sin dar aviso al Juzgador o señalan uno falso, las notificaciones, aún las personales, se les harán por lista.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
-
-Las personas que impugnen resoluciones judiciales a través de la apelación, la queja, la denegada apelación o la revisión extraordinaria, deberán señalar domicilio para oír y recibir notificaciones en segunda instancia, en la ciudad de Colima, Colima. Si por cualquier circunstancia no hacen esa designación, las notificaciones, aun las personales, se les harán por lista.
+Cuando se impugnen las resoluciones judiciales a través de la apelación o denegada apelación, el juzgador que admita el recurso, prevendrá al recurrente y a los demás intervinientes en el proceso, para que señalen dentro de los tres días hábiles siguientes, domicilio para oír y recibir notificaciones en segunda instancia, en la ciudad de Colima, Colima. Si por cualquier circunstancia no hacen esa designación, las notificaciones, aun las personales, se les harán por lista que será fijada en los estrados del Tribunal. Tratándose de queja o revisión extraordinaria, la Sala que admita el recurso, bajo apercibimiento a los intervinientes observará las mismas formalidades.
 
 ###### ARTICULO 76.
 
@@ -3408,3 +3406,7 @@ P.O. 16 DE ABRIL DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
 
 El Gobernador del Estado dispondrá se publique, circule Y observe."
+
+P.O. 25 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
