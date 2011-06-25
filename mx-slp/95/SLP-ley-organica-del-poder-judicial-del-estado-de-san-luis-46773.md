@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2011-06-18"
+last_updated: "2011-06-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -361,9 +361,9 @@ El Tribunal Electoral es un órgano especializado del Poder Judicial del Estado,
 
 El Tribunal se compondrá con una Sala de Segunda Instancia, que funcionará en forma colegiada; y con salas de Primera Instancia, que serán regionales y unitarias, en el número y con la competencia territorial que determine el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
 
-El Tribunal Electoral se integrará el tercer domingo del mes de agosto del año anterior al de la elección ordinaria de que se trate; e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y de la Sala Regional de Primera Instancia correspondiente a la zona centro.
+El Tribunal Electoral se integrará el día uno del mes de octubre del año anterior al de la elección ordinaria de que se trate; e iniciará sus funciones con la instalación de la Sala de Segunda Instancia, y da la Sala Regional de Primera Instancia correspondiente a la zona centro.
 
 Las salas de Primera Instancia se instalarán durante el mes de enero del año de la elección, con un magistrado y el personal jurídico y administrativo necesario para el ejercicio de sus funciones; a excepción de la correspondiente a la región centro, que en cuanto al periodo de instalación estará a lo dispuesto en el párrafo anterior de este artículo.
 
@@ -427,9 +427,11 @@ Por lo que toca a los casos de excusas y recusaciones, se estará al procedimien
 
 #### Sección Tercera. De la Sala de Segunda Instancia del Tribunal Electoral
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 36.
 
-La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que deberá presentar el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes del inicio del mes en que la Sala deba integrarse conforme a esta Ley.
+La Sala de Segunda Instancia se integrará con tres magistrados numerarios y tres supernumerarios, designados por el voto de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, de las ternas propuestas que presentará el Pleno del Supremo Tribunal de Justicia del Estado, cuando menos sesenta días antes de la integración del Tribunal Electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
 
@@ -2178,3 +2180,9 @@ P.O. 18 DE JUNIO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 25 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a éste.
