@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2011-02-23"
+last_updated: "2011-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -3485,19 +3485,47 @@ En los juicios en que se ejerciten tales acciones no procede el sobreseimiento p
 
 La adopción confiere al adoptado el estado de hijo y el parentesco que surge, produce efectos legales iguales al consanguíneo.
 
-(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992) (F. DE E., P.O. 29 DE ENERO DE 1993)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 579.
 
-Pueden adoptar los mayores de edad, en pleno ejercicio de sus derechos, que satisfagan los requisitos que se señalan en el mismo Ordenamiento y que tengan más de 16 años que el menor sujeto de la adopción.
+Pueden adoptar los cónyuges o personas solteras que tengan veinticinco años cumplidos y más de diecisiete años que el menor que se pretenda adoptar a la fecha de inicio del procedimiento especial de adopción y que satisfagan los requisitos señalados en este ordenamiento. El requisito de la diferencia de la edad, no es necesario en el caso de la adopción de hijos de uno de los cónyuges ni respecto de la adopción de incapaces.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 Pueden ser adoptados los menores expósitos y los que legalmente sean declarados abandonados.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+
 Cuando los menores tengan más de 6 años deben ser informados ampliamente y obtener su consentimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+###### Artículo 579 Bis.
+
+Para que se autorice la adopción, él o los que pretendan adoptar deberán reunir las condiciones que se establecen en este Capítulo y además acreditar plenamente, los siguientes requisitos:
+
+I.- Que el adoptante o adoptantes tengan medios suficientes para proveer a la subsistencia y educación del adoptado;
+
+II.- Que el adoptante o adoptantes no tengan antecedentes penales por la comisión de un delito doloso;
+
+III.- Que la adopción sea benéfica para la persona que se pretenda adoptar;
+
+IV.- Que el adoptante o adoptantes, sean idóneos para adoptar;
+
+V.- Que el adoptante o adoptantes acrediten que su estado de salud les permitirá cumplir cabalmente con sus responsabilidades de padre o de madre; y
+
+VI.- Las demás que establezcan las Leyes Federales y en su caso, los Tratados Internacionales de los cuales el Estado Mexicano forme parte, en materia de Derechos Humanos, Derechos del Niño y de Adopción.
+
+Los requisitos que se establecen en las fracciones I, III, IV, V y VI quedarán plenamente acreditados con el dictamen técnico o certificado de idoneidad que emita el Consejo Técnico de Adopciones, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado, con base en los estudios técnicos de quienes pretendan adoptar.
+
+En todos los casos, se atenderá al interés superior del menor o incapaz, se considerará su origen étnico, cultural y lingüístico y se procurará dar continuidad en su educación.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 580.
 
-Los cónyuges pueden adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+Las personas solteras podrán adoptar, aún cuando tengan descendientes y, tratándose de cónyuges, siempre que ambos estén conformes con la adopción.
 
 ###### Artículo 581.
 
@@ -3507,35 +3535,23 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo o al mayor incapacitado que estuvo bajo su tutela, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de ésta.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
-
 ###### Artículo 583.
 
-Para que la adopción pueda efectuarse, deberán consentir en ella, en sus respectivos casos:
-
-I.- El que ejerza o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas a que se refiere el Artículo 679;
-
-IV.- El Ministerio Público en el caso del Artículo 681;
-
-V.- El menor que se va a adoptar si tiene más de catorce años.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 584.
 
-Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Juez, cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 585.
 
-El procedimiento para hacer la adopción y para revocarla será fijado en el Código de Procedimientos Civiles. En éste procedimiento será parte el Sistema para el Desarrollo Integral de la Familia y se oirá al Ministerio Público.
+El procedimiento para la adopción será fijado en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-La resolución judicial que apruebe la adopción, ordenará se proceda conforme a lo indicado en el artículo 841; asimismo se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción, con la copia certificada de la misma, para que éste a su vez inscriba en el libro correspondiente la nueva acta en los términos que establece el Libro Segundo, del Capítulo Décimo Tercero, Sección Segunda de este Código, para lo cual deberán comparecer los adoptantes proporcionando los datos necesarios dentro del término de treinta días.
+La resolución judicial que apruebe la adopción, ordenará se proceda conforme a lo indicado en el artículo 841; asimismo, se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción para que éste, a su vez, inscriba en el Libro correspondiente la nueva acta en los términos que establece el Capítulo Décimo Tercero, Sección Segunda del Libro Segundo de este Código, para lo cual deberán comparecer el o los adoptantes proporcionando los datos necesarios dentro del término de quince días.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
@@ -3823,7 +3839,9 @@ IV.- Cuando el padre, madre, abuelo o abuela, en su caso:
 
 a) Expongan a su hijo o nieto;
 
-b) Abandonen a su hijo o nieto por más de tres meses, si éste quedo a cargo de alguna persona;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+b) Abandonen a su hijo o nieto por más de tres meses, si éste quedó a cargo de alguna persona. El plazo no tendrá que agotarse cuando el menor se encuentre bajo la custodia del Sistema para el Desarrollo Integral de la Familia del Estado, y el Organismo cuente con los elementos necesarios y suficientes que acrediten que es imposible o inadecuado, atendiendo al interés superior del menor, la restitución a su núcleo familiar.
 
 c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional.
 
@@ -3835,7 +3853,11 @@ V.- En los casos de divorcio, cuando la ley lo establece;
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-VI.- Por el cumplimiento parcial o insuficiente de la obligación alimentaria sin causa justificada por más de noventa días.
+VI.- Por el cumplimiento parcial o insuficiente de la obligación alimentaria sin causa justificada por más de noventa días;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+VII.- Con la resolución que determine la adopción del menor.
 
 ###### Artículo 629.
 
@@ -3850,6 +3872,10 @@ III.- En el caso de la fracción V, en la sentencia del juicio de divorcio.
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 IV.- En el caso de la fracción VI, cuando el Juez verifique que efectivamente no se ha cubierto su monto total por más de noventa días y que a su prudente arbitrio no exista una causa justificada para ello.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+V.- En el caso de la fracción VII con la resolución que decrete la adopción.
 
 ###### Artículo 630.
 
@@ -4165,15 +4191,21 @@ II.- No será necesario el discernimiento del cargo;
 
 III.- Si el menor que se encuentre en el caso previsto por este Artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en el Artículo 689 y siguientes.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 680.
 
-El Presidente del Patronato del D.I.F. será tutor por ministerio de la ley y sin necesidad del discernimiento del cargo:
+El Presidente del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado, será tutor sin necesidad de discernir el cargo y por ministerio de ley, facultad que podrá delegar a los funcionarios del Organismo:
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
 
 I.- De los menores huérfanos, abandonados por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1990)</small>
+
 II.- De los menores no sujetos a patria potestad o a tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno, el Instituto de Asistencia Pública del Estado o cualquiera otra.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1990)</small>
 
 En el supuesto previsto por la fracción II de este Artículo, los Directores de las Instituciones en que se hallen internados los menores, tendrán únicamente la custodia de éstos y de ella habrán de dar cuenta al tutor.
 
@@ -8557,7 +8589,9 @@ I.- Debe manifestarse claramente;
 
 II.- Puede ser expreso o tácito;
 
-III.- Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+III.- Es expreso cuando se manifiesta verbalmente, en un documento o por signos inequívocos;
 
 IV.- Sólo podrá recurrir a los signos de que habla la fracción anterior, el contratante que tenga imposibilidad física para hablar o escribir, salvo disposición de la ley en otro sentido o costumbre en contrario;
 
@@ -8745,13 +8779,21 @@ Deben constar en escritura pública los contratos por los cuales se transfiera o
 
 Cuando se exija la forma escrita para el contrato, los documentos relativos serán firmados por las personas a quienes la ley impone ese deber; pero si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 1493.
 
-Es nulo el contrato que no tenga la forma establecida por la ley.
+Es nulo el contrato que no tenga la forma establecida por la ley. Si la voluntad de las partes para celebrarlo consta fehacientemente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 1494.
 
-En el caso del artículo anterior, si la voluntad de las partes para celebrarlo consta fehacientemente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+Los contratos celebrados a través de medios electrónicos serán válidos según las reglas siguientes:
+
+I.- Si se trata de contratos para cuya validez la ley requiere que el consentimiento se exprese en documentos privados, siempre que sea posible atribuirlos al interesado y que la información que los constituya esté archivada o disponible para su ulterior consulta; y
+
+II.- Para los contratos para los que la ley requiere que el consentimiento se exprese en documentos públicos se aplicarán las disposiciones de las leyes especiales sobre firma electrónica.
 
 #### Sección Novena.- Disposiciones Generales
 
@@ -19976,3 +20018,31 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
+
+P.O. 27 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 579, EL 580, EL PRIMER Y SEGUNDO PÁRRAFO DEL 585, EL INCISO B) DE LA FRACCIÓN IV DEL 628 Y EL PRIMER PÁRRAFO DEL 680; SE ADICIONAN EL 579 BIS, LA FRACCIÓN VII DEL 628 Y LA FRACCIÓN V DEL 629; Y SE DEROGAN EL 583 Y EL 584, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A los procedimientos de adopción y de pérdida de patria potestad iniciados antes de la entrada en vigor del presente Decreto, les seguirán siendo aplicables hasta su conclusión, las disposiciones vigentes al momento de su inicio.
+
+P.O. 27 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1457, EL 1493 Y EL 1494 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
