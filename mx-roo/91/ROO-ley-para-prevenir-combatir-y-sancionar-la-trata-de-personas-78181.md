@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-781
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2010-12-10"
+last_updated: "2011-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -299,6 +299,8 @@ A fin de facilitar la permanencia, el traslado o repatriación de las víctimas 
 
 Se crea el Comité de carácter permanente cuyo objeto es el de promover, proponer y concertar acciones que prevengan, combatan y procuren la sanción de la trata de personas en el Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 20.
 
 El Comité se integra de la siguiente manera:
@@ -309,15 +311,21 @@ II. La Presidencia del Tribunal Superior de Justicia;
 
 III. El Presidente de las siguientes Comisiones del Congreso del Estado:
 
-a. De Asuntos Indígenas
+a. De Desarrollo Indígena;
 
-b. De Derechos Humanos
+b. De Derechos Humanos;
 
-c. De Equidad y Género
+c. De Equidad y Género;
 
-d. De Asuntos Migratorios y Fronterizos
+d. De Defensa de los Límites de Quintana Roo y Asuntos Fronterizos;
 
-IV. El titular de la Secretaría de Gobierno;
+e. De Trabajo y Previsión Social;
+
+f. De Desarrollo Humano y Poblacional;
+
+g. De Desarrollo Familiar y Grupos Vulnerables.
+
+IV. El titular de la Secretaría de Gobierno
 
 V. El titular de la Procuraduría General de Justicia;
 
@@ -329,23 +337,27 @@ VIII. El titular de la Secretaría de Educación;
 
 IX. El titular de la Secretaría de Salud;
 
-X. El titular de la Consejería Jurídica del Poder Ejecutivo;
+X. El titular de la Secretaría del Trabajo y Previsión Social;
 
-XI. El titular de la Procuraduría de la Defensa del Menor y la Familia;
+XI. El titular de la Consejería Jurídica del Poder Ejecutivo;
 
-XII. La titular de la Dirección del Instituto Quintanarroense de la Mujer;
+XII. El titular de la Procuraduría de la Defensa del Menor y la Familia;
 
-XIII. El titular de la Comisión de Derechos Humanos del Estado de Quintana Roo;
+XIII. La titular de la Dirección del Instituto Quintanarroense de la Mujer;
 
-XIV. Un profesor investigador de alguna de las Instituciones de Educación Superior con sede en el Estado, cuya línea de investigación esté relacionada con la Trata de Personas, la migración, la explotación sexual de niños, niñas y adolescentes, o los derechos humanos;
+XIV. El titular de la Comisión de Derechos Humanos del Estado de Quintana Roo;
 
-XV. Un representante del sector empresarial;
+XV. Un profesor investigador de alguna de las Instituciones de Educación Superior con sede en el Estado, cuya línea de investigación esté relacionada con la Trata de Personas, la migración, la explotación sexual de niños, niñas y adolescentes, o los derechos humanos;
 
-XVI. Un representante de los medios de comunicación; y
+XVI. Dos representantes del sector empresarial;
 
-XVII. Un representante de las organizaciones civiles cuyo objeto sea la realización de actividades encaminadas a prevenir y combatir la trata de personas o que hayan realizado actividades para hacerlo.
+XVII. Dos representantes de los Sindicatos;
 
-Los representantes a que se refieren las fracciones XIV, XV, XVI y XVII del presente artículo serán elegidos por el resto de los miembros del Comité, a propuesta de cualquiera de sus integrantes.
+XVIII. Un representante de los medios de comunicación; y
+
+XIX. Un representante de las organizaciones civiles cuyo objeto sea la realización de actividades encaminadas a prevenir y combatir la trata de personas o que hayan realizado actividades para hacerlo.
+
+Los representantes a que se refieren las fracciones XV, XVI, XVII, XVIII y XIX del presente artículo serán elegidos por el resto de los miembros del Comité, a propuesta de cualquiera de sus integrantes.
 
 ###### Artículo 21.
 
@@ -719,6 +731,26 @@ VII. Las demás establecidas en referencia a sus competencias y funciones por me
 
 VIII. Las demás que se consideren necesarias para el debido cumplimiento de la presente ley y que se encuentren contenidas en otros ordenamientos legales.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+###### Artículo 44
+
+BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social, en materia de trata de personas, lo siguiente:
+
+l. Difundir en sus políticas públicas la trata de personas y en especial la explotación laboral infantil;
+
+II. Desarrollar campañas de información en los Centros de Trabajo sobre el delito de trata de personas y en especial, el de la explotación laboral infantil;
+
+III. Incorporar en todos los programas de capacitación el tema del trabajo infantil como uno de los tipos penales de la trata de personas;
+
+IV. Informar y advertir al personal de hoteles, servicios de transporte público, restaurantes, sindicatos de taxistas, bares y centros nocturnos, entre otros, acerca de la responsabilidad en que pueden incurrir en caso de facilitar o no impedir las conductas inherentes a la trata de personas, así como orientarlos en la prevención de este delito;
+
+V. Celebrar convenios de colaboración con las cámaras empresariales y sindicatos, informen a sus agremiados sobre el delito de trata de personas, y;
+
+VI. Cuando la Secretaría, derivado de su facultad de visitar e inspeccionar los centros de trabajo, se percate o considere que existen situaciones que pudiesen constituir el Delito de Trata de Personas, se levantará acta en donde se hagan constar los hechos posiblemente constitutivos del delito y se procederá, de manera inmediata, a denunciar ante las autoridades competentes tales hechos;
+
+VII. Las demás que se consideren necesarias para el debido cumplimiento de la presente ley y que se encuentren contenidas en otros ordenamientos legales.
+
 ###### Artículo 45.
 
 Corresponde a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo, en materia de trata de personas, lo siguiente:
@@ -940,3 +972,13 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
