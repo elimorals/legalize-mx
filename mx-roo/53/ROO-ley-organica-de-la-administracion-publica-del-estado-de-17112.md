@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-04-04"
+last_updated: "2011-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL EXTRAORDINARIO NÚMERO 33 DEL P.O. DEL 4 DE ABRIL DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 439 PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -837,9 +835,15 @@ XXI.- Fomentar y apoyar la organización social para el trabajo y autoempleo;
 
 XXII.- Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
 
-XXIII.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo; y
+XXIII.- Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo; y (sic)
 
-XXIV.- Las demás que le atribuyen expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXIV.- Cuando, la Secretaría, derivado de su facultad de visitar e inspeccionar los centros de trabajo, se percate o considere que existen situaciones que pudiesen constituir el Delito de Trata de Personas, se levantará acta en donde se hagan constar los hechos posiblemente constitutivos del delito y se procederá, de manera inmediata, a denunciar ante las autoridades competentes tales hechos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXV.- Las demás que le atribuyan expresamente las Leyes y Reglamentos.
 
 ###### ARTICULO 36.
 
@@ -1676,3 +1680,11 @@ P.O. 25 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 27 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
