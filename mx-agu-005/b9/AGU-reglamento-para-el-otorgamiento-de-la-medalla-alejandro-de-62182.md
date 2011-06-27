@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-el-otorgamiento-de-la-medalla-alejandro-de-6218
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2008-07-21"
+last_updated: "2011-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO PARA EL OTORGAMIENTO DE LA MEDALLA "ALEJANDRO DE LA CRUZ SAUCEDO" DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2008.
 
@@ -43,15 +43,15 @@ La Medalla “Alejandro de la Cruz Saucedo”, se entregará en vida a los Jesus
 
 La Medalla “Alejandro de la Cruz Saucedo”, será entregada en Sesión Solemne de Cabildo, los días 25 de julio de cada año, previa votación que hagan los integrantes del citado Cabildo, en sesión que se celebrará para ello, entre los días 18 y 22 de julio, para elegir a la persona que habrá de recibirla, a propuesta del Comité de Postulaciones.
 
-###### ARTÍCULO 3°.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
-La Medalla “Alejandro de la Cruz Saucedo”, comprende sólo una categoría, y se entregará solo una réplica cada año, y tendrá las siguientes características:
+###### ARTÍCULO 3º.
 
-a).- Medalla de oro sólido de 21 kilates, con una onza da (sic) peso;
+La Medalla “Alejandro de la Cruz Saucedo”, comprende sólo una categoría y se entregará cada año, gozando de las siguientes características:
 
-b).- En su anverso aparecerá el perfil izquierdo de Alejandro Cruz Saucedo; en la parte alta, su nombre completo; y en la parte baja, los años correspondientes a su nacimiento y deceso; y
+a).- En su anverso aparecerá el perfil izquierdo de Alejandro de la Cruz Saucedo; en la parte alta, su nombre completo; y en la parte baja, los años correspondientes a su nacimiento y deceso; y
 
-c).- En su reverso, aparecerá el escudo del Municipio de Jesús María, Aguascalientes; en la parte baja, los años 2008-2010.
+b).- En su reverso, aparecerá el escudo del Municipio de Jesús María, Aguascalientes; en la parte baja, los años que correspondan al periodo de la Administración Municipal en turno.
 
 ###### ARTÍCULO 4°.
 
@@ -116,3 +116,9 @@ L.E.P. Jorge Acosta Lozano,
 SECRETARIO DEL H. AYUNTAMIENTO Y DIRECTOR GENERAL DE GOBIERNO.
 
 Jesús María, Aguascalientes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JUNIO DE 2011.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Aguascalientes."
