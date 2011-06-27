@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-06-24"
+last_updated: "2011-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -648,9 +648,11 @@ ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos,
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente, a que se refieren los artículos 345 y 346; y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+Sólo se sancionarán como delitos culposos los siguientes: Homicidio, a que se refiere el artículo 123; Lesiones, a que se refiere el artículo 130 fracciones II a VII; Aborto, a que se refiere la primera parte del párrafo segundo del artículo 145; Lesiones por Contagio, a que se refiere el artículo 159; Daños, a que se refiere el artículo 239; Ejercicio Ilegal del Servicio Público, a que se refieren las fracciones III y IV del artículo 259, en las hipótesis siguientes: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción en los supuestos de la fracción IV del artículo 259; Evasión de Presos, a que se refieren los artículos 304, 305, 306 fracción II y 309 segundo párrafo; Suministro de Medicinas Nocivas o Inapropiadas a que se refieren los artículos 328 y 329; Ataques a las Vías y a los Medios de Comunicación a que se refieren los artículos 330, 331 y 332; Delitos contra el Ambiente a que se refieren los artículos 343, 343 bis, 344, 345, 345 bis y 346, y los demás casos contemplados específicamente en el presente Código y otras disposiciones legales.
 
 ARTÍCULO 77 (Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo). La calificación de la gravedad de la culpa queda al prudente arbitrio del Juez, quien deberá considerar las circunstancias generales señaladas en el artículo 72 de este Código y las especiales siguientes:
 
@@ -2594,7 +2596,11 @@ III. Archivos públicos o notariales;
 
 IV. Bibliotecas, museos, templos, escuelas o edificios, monumentos públicos y aquellos bienes que hayan sido declarados como patrimonio cultural; o
 
-V. Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+V. Mieses o cultivos de cualquier género.
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -2804,13 +2810,19 @@ XVII. Explotación laboral de menores o personas con discapacidad física o ment
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
 
-XVIII. Encubrimiento por receptación, contemplado en el artículo 243 de este Código; o
+XVIII. Encubrimiento por receptación, contemplado en el artículo 243 de este Código; o (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
 
 XIX. Encubrimiento por favorecimiento, previsto en el artículo 320 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+XX. Delitos ambientales previstos en los artículos 343, 344, 345 bis y 345 ter de este Código.
 
 A quien tenga funciones de administración, dirección o supervisión en la delincuencia organizada, se le impondrá de seis a doce años de prisión y de cuatrocientos a dos mil días multa, sin perjuicio de las reglas de concurso para la imposición de sanciones.
 
@@ -3406,7 +3418,9 @@ Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de
 
 ### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 311.
 
@@ -3684,61 +3698,105 @@ Se impondrán de uno a tres años de prisión y de cincuenta a mil días multa a
 
 ###### ARTÍCULO 343.
 
-Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice la ocupación o invasión de:
+Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días de multa a quien realice o permita mediante acciones u omisión la ocupación o invasión de:
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
 II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
 
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
 III. Una barranca; o
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
 IV. Un área verde en suelo urbano.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente realice el cambio del uso del suelo en:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien dolosamente haga un uso distinto al permitido del uso de suelo u obtenga un beneficio económico derivado de éstas conductas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+
+Las penas previstas en el párrafo anterior se aumentarán en una tercera parte, cuando la conducta se lleve a cabo en, o afecte cualquiera de los siguientes lugares:
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
 
 I.- Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
 II.- El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
 
 III.- Una barranca; o
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
 IV.- Un área verde en suelo urbano.
 
-Las penas previstas en este artículo se disminuirán en una mitad cuando, el cambio de uso de suelo se realice de uno a otro de los usos de suelos previstos en el programa o programas de ordenamiento ecológico del Distrito Federal, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+Las penas previstas en este artículo se disminuirán en una mitad cuando, las actividades realizadas, aún siendo diferentes a las previstas en el uso de suelo correspondiente, se encuentren previstas en el programa o programas de ordenamiento ecológico del Distrito Federal, o en el Programa o Programas de Desarrollo Urbano aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 344.
 
-Se le impondrán de 1 a 5 años de prisión y de 300 a 1,500 días multa, a quien ilícitamente descargue o deposite hasta tres metros cúbicos en cualquier estado físico, excepto líquido que se establece en artículo 346 de este mismo capítulo, residuos de la industria de la construcción en:
+Se le impondrán de 1 a 5 años de prisión y de 300 a 1,500 días multa, a quien descargue o deposite hasta un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
 
-I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
-III. Una barranca;
+Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa, a quien descargue o deposite más de un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
 
-IV. Una zona de recarga de mantos acuíferos; o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V. Un área verde en suelo urbano.
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
-Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas o áreas descritas en las fracciones anteriores.
+Las mismas penas señaladas en el presente artículo se aplicarán a quien transporte residuos de la industria de la construcción, sin contar con el pago de derechos respectivo o sin la documentación comprobatoria que acredite su disposición final o reciclaje en un lugar autorizado por las autoridades competentes.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTÍCULO 344 BIS. Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días multa, a quien ilícitamente extraiga suelo o cubierta vegetal por un volumen igual o mayor a dos metros cúbicos, de:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 344 BIS. Se le impondrán de 6 meses a 5 años de prisión y de 500 a 2,000 días multa, a quien extraiga suelo o cubierta vegetal, piedra o tierra natural, por un volumen igual o mayor a dos metros cúbicos, de:
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
 
 I. Un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
 II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Distrito Federal aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
 
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
 III. Una barranca; o
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
 
 IV. Un área verde en suelo urbano.
 
@@ -3758,13 +3816,49 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que derribe, tale, o destruya parcialmente u ocasione la muerte de uno o más árboles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en el párrafo anterior se hayan desarrollado en cualquiera de los siguientes lugares, competencia del Distrito Federal:
+
+I. En un área natural protegida;
+
+II. En un área de valor ambiental;
+
+III. En suelo de conservación;
+
+IV. En una barranca; o
+
+V. En un área verde en suelo urbano.
+
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
-ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles.
-
-Las penas previstas en este artículo se duplicarán cuando uno a (sic) más de las conductas descritas en el párrafo anterior se desarrollen en un área natural protegida o área de valor ambiental de competencia del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables.
-
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 345 TER. Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa a quien transporte hasta 4 metros cúbicos de madera en rollo o su equivalente en madera aserrada.
+
+Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en el párrafo anterior sean producto o se hayan desarrollado en cualquiera de los siguientes lugares, competencia del Distrito Federal:
+
+I. En un área natural protegida;
+
+II. En un área de valor ambiental;
+
+III. En suelo de conservación;
+
+IV. En una barranca; o
+
+V. En un área verde en suelo urbano.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -3808,17 +3902,39 @@ Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días 
 
 ARTÍCULO 347 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, al que:
 
-I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal; o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Ilícitamente venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+II. Venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal; o
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+III. Posea o use un documento que acredite la aprobación de la verificación vehicular, que no haya sido expedido o solicitado con base en el procedimiento establecido para la operación de los Centros de Verificación Vehicular autorizados.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ARTÍCULO 347 TER. Se le impondrán de seis meses a tres años de prisión y de 20 a 500 días multa:
 
-I. Al propietario, responsable o técnico de los centros de verificación vehicular que por sí o por interpósita persona, solicite o reciban indebidamente dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. En calidad de usuario del servicio de verificación vehicular, ilícitamente ofrezca, prometa o entregue dinero o cualquier dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+I. Al propietario, responsable, técnico, empleado o prestador de servicios, dentro de los centros de verificación vehicular, que por sí o por interpósita persona, solicite o reciba dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
+
+II. En calidad de usuario del servicio de verificación vehicular, ofrezca, prometa o entregue dinero o cualquier otra dádiva, con el fin de obtener la aprobación de la verificación vehicular obligatoria.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -3838,6 +3954,12 @@ El Juez, de oficio o a petición de parte, podrá reducir las penas correspondie
 
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo dictamen técnico favorable emitido por la autoridad ambiental competente en el Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+En los casos en que la persona procesada demuestre mediante dictamen técnico, que se ha reparado totalmente el daño ambiental causado y que además se han llevado a cabo acciones tendientes a favorecer el equilibrio ecológico o a establecer medidas permanentes de protección a un ecosistema, el Juez podrá determinar que no se le imponga sanción penal alguna. Sólo se podrá hacer uso de este beneficio por una sola vez.
+
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 349.
@@ -3856,9 +3978,11 @@ II. La suspensión, modificación o demolición de las construcciones, obras o a
 
 ARTÍCULO 349 BIS. Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTÍCULO 349 TER. En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental, con excepción de la reparación de los daños a la salud, integridad de las personas o a la vida.
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
+
+ARTÍCULO 349 TER. En caso de concurso de delitos, en lo referente a la reparación del daño, tiene preferencia la derivada del delito ambiental, sobre el daño patrimonial, con excepción de la reparación del daño a la salud, a la vida o a la integridad de las personas.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -4457,3 +4581,13 @@ G.O. 24 DE JUNIO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE JUNIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Una vez entrado (sic) en vigor las presentes reformas háganse las modificaciones necesarias a los reglamentos de las leyes en que se llevan a cabo las referidas reformas y adiciones.
+
+CUARTO.- El Gobierno del Distrito Federal y los gobiernos delegacionales, llevarán a cabo una campaña de difusión intensa tanto en los medios publicitarios gratuitos a su disposición como en los medios impresos y electrónicos, para dar a conocer a la población el contenido del artículo 344 del Código Penal. Esta campaña dará comienzo al día siguiente de la publicación del presente Decreto.
