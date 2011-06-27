@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2010-01-22"
+last_updated: "2011-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -55,7 +55,15 @@ La mujer y el hombre son iguales ante la Ley. Cuando el empleo gramatical de los
 
 Se reconoce el derecho de los pueblos y comunidades indígenas, de aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, conforme a las disposiciones contenidas en la Ley.
 
-En los procedimientos ordinarios en que intervengan indígenas, el Estado en todo tiempo los proveerá de asesoría jurídica gratuita y de intérpretes que tengan conocimiento de su lengua, cultura y costumbres.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+En los procedimientos ordinarios en que intervengan indígenas, el Estado en todo caso los proveerá de asesoría jurídica gratuita y de intérpretes que tengan conocimiento de su lengua, cultura y costumbres.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 2007)</small>
+
+En los procedimientos civiles en los que intervengan personas con discapacidad o mayores de setenta años, podrán solicitar la asesoría jurídica gratuita por parte del Estado, quien la proveerá, en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE AGOSTO DE 2007)</small>
 
 Para la cooperación procesal internacional, se aplicarán los tratados internacionales signados por los Estados Unidos Mexicanos; las disposiciones contenidas en este Código y únicamente en los casos de remisión expresa de la Ley a disposiciones de origen extranjero.
 
@@ -149,19 +157,31 @@ Además de las promociones del representante común, los interesados podrán ofr
 
 ### CAPÍTULO TERCERO: DE LOS LITIGANTES, REPRESENTANTES Y PATRONOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 19.
 
-Es presupuesto procesal, que todos los escritos y promociones que se presenten por las partes, estén autorizados por un abogado patrono, el que deberá contar necesariamente con título profesional legalmente expedido e inscrito ante las instancias correspondientes. Sin dicho requisito se desecharán de plano.
+Es presupuesto procesal, que todos los escritos y promociones que se presenten por las partes, estén autorizados por un abogado patrono, el que deberá contar necesariamente con título profesional legalmente expedido e inscrito ante las instancias correspondientes.
 
 La disposición anterior no será aplicable:
 
 I.- Cuando en el procedimiento intervenga como parte en sentido material un abogado que reúna los requisitos mencionados;
 
-II.- Cuando las partes no estén en posibilidad de hacerse patrocinar por un abogado particular que reúna los requisitos establecidos en esta Ley, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
 
-III.- Cuando las partes manifiesten que no desean ser patrocinados por abogado particular.
+II.- Cuando las partes no estén en posibilidad de hacerse patrocinar por un abogado particular que reúna los requisitos establecidos en esta Ley;
 
-En los casos de las fracciones II y III del presente artículo, el Estado para asegurar la debida defensa de los intereses del particular, les proveerá un defensor social, sin perjuicio de que puedan ser patrocinados de manera gratuita por abogados de los bufetes de las instituciones públicas o privadas, que prestan tal servicio, los que deberán cubrir los mismos requisitos.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+III.- Cuando las partes manifiesten que no desean ser patrocinadas por abogado particular; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+IV.- Cuando se trate de promociones que no tiendan a impulsar el procedimiento o de aquéllas por las que se interponga algún medio de impugnación.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
+En los casos de las fracciones II y III del presente artículo, el Estado para asegurar la debida defensa de los intereses del particular, le proveerá un Defensor Público, sin perjuicio de que puedan ser patrocinados de manera gratuita por abogados de los bufetes de las instituciones públicas o privadas, que prestan tal servicio, los que deberán cubrir los mismos requisitos.
 
 ###### Artículo 20.
 
@@ -173,9 +193,11 @@ Cuando se desprenda de actuaciones que los abogados patronos que intervengan en 
 
 Las multas que se impongan conforme a este Código, se cuantificarán siempre en días de salario mínimo general, para la zona económica.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 22.
 
-Las partes en el primer escrito o en la primera diligencia en que intervengan, deben expresar el nombre y domicilio del abogado que habrá de patrocinarlas y los datos de registro de su título profesional ante el Tribunal Superior de Justicia, los que se confrontarán con el libro oficial respectivo. El patrono debe estampar su firma autógrafa en señal de aceptación del cargo que le ha sido conferido, protestando su leal desempeño en la primera diligencia en que comparezca.
+Las partes en el primer escrito o en la primera diligencia en que intervengan, deben expresar el nombre y domicilio del abogado que habrá de patrocinarlas y los datos de registro de su título profesional ante el Tribunal Superior de Justicia, los que se confrontarán con el libro oficial respectivo.
 
 ###### Artículo 23.
 
@@ -233,11 +255,15 @@ El Tribunal Superior de Justicia está facultado para firmar convenios con las d
 
 En las actuaciones judiciales y en los escritos, las fechas y cantidades se escribirán con letra y los artículos con su número.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 32.
 
-Salvo casos urgentes, los escritos deben escribirse en máquina u otros medios electrónicos de impresión permanente y ser firmados por quien los presenta y su patrono. Si los primeros no supieren firmar o accidentalmente cualquiera de ellos no pudieren escribir pondrán su huella digital.
+Las promociones deben presentarse por escrito, a máquina u otros medios electrónicos de impresión permanente y ser firmadas por quienes las presentan y, en su caso, por el patrono. Si los primeros no saben firmar o accidentalmente cualquiera de ellos no pueda escribir, pondrán su huella digital.
 
-Las partes y sus patronos, podrán presentar y suscribir promociones por medios cibernéticos, utilizando la firma electrónica, siempre y cuando así lo manifiesten ante el Tribunal y cumplan con los requisitos de encriptación que establezcan las Leyes y las disposiciones reglamentarias que para tal fin emita el Pleno del Tribunal Superior de Justicia.
+En casos urgentes podrán presentarse escritas a mano.
+
+Las partes o sus patronos podrán presentar y suscribir promociones por medios electrónicos, mediante la firma electrónica o algún otro componente que conforme a los avances de la tecnología resulte más apropiado. Para tal efecto, deberán manifestar ante el Tribunal su voluntad y cumplir con los requisitos de encriptación que establezcan las leyes o las disposiciones reglamentarias que para tal fin emita el Tribunal Superior de Justicia.
 
 ###### Artículo 33.
 
@@ -259,9 +285,11 @@ En todo juicio, con los escritos de las partes y las actuaciones judiciales, se 
 
 Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en la Secretaría del juzgado, donde podrá verlos la parte contraria.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 38.
 
-Los documentos que se presenten en juicio podrán devolverse previa copia certificada que quede en autos, o certificación de la copia de ellos si ya existiere.
+Los documentos que se presenten en juicio podrán devolverse previa copia certificada que quede en autos. Se entregarán al interesado o a su abogado patrono.
 
 ###### Artículo 39.
 
@@ -481,6 +509,10 @@ El emplazamiento por edictos procederá, cuando se ignore el domicilio del deman
 
 Procede también en aquellos casos que la Ley así lo determine.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+Los edictos a que se refiere el presente artículo, deberán publicarse por tres ocasiones de manera consecutiva, en el diario de mayor circulación a juicio del Juez.
+
 ###### Artículo 63.
 
 El edicto mediante el cual se manda emplazar al demandado, contendrá:
@@ -545,7 +577,7 @@ En los exhortos y anexos que remitan las autoridades judiciales del Estado al ex
 
 ###### Artículo 70.
 
-La practica de diligencias en país extranjero, para surtir efectos en juicios que se tramiten ante las autoridades judiciales del Estado, sin perjuicio de lo que dispongan las leyes federales, podrán encomendarse, a juicio del Tribunal, a los miembros del Servicio Exterior Mexicano conforme a las disposiciones de este Código y dentro de los límites que se permitan en la esfera internacional.
+La práctica de diligencias en país extranjero, para surtir efectos en juicios que se tramiten ante las autoridades judiciales del Estado, sin perjuicio de lo que dispongan las leyes federales, podrán encomendarse, a juicio del Tribunal, a los miembros del Servicio Exterior Mexicano conforme a las disposiciones de este Código y dentro de los límites que se permitan en la esfera internacional.
 
 ###### Artículo 71.
 
@@ -579,9 +611,11 @@ De encontrarse cerrado el domicilio, se dejará en poder del vecino más próxim
 
 IV.- Si el citado designó en forma previa al citatorio, domicilio para recibir notificaciones, bastará con que se entregue en el mismo a persona capaz que ahí se encuentre.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 73.
 
-Cuando el citatorio tenga por objeto que el demandado acuda al recinto judicial para efectos de conciliar y en su caso ser emplazado, además se remitirá a costa del actor una copia del mismo, mediante correo certificado con acuse de recibo del Servicio Postal Mexicano que se agregará a los autos.
+El citatorio tiene por objeto que el demandado acuda al recinto judicial para efectos de conciliar y en su caso ser emplazado.
 
 ###### Artículo 74.
 
@@ -595,15 +629,25 @@ III.- El ejecutor que hubiere omitido o realizado en forma ilegal la notificaci�
 
 IV.- No obstante lo prevenido en este artículo si la persona notificada se hubiere manifestado en juicio sabedora de la resolución, la notificación surtirá desde entonces sus efectos como si estuviere legalmente hecha.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+###### Artículo 74 Bis.
+
+A excepción de las resoluciones que deban notificarse personalmente o por edictos, las notificaciones podrán hacerse por medios electrónicos a los interesados, cuando así lo soliciten al Tribunal y se cumplan las disposiciones reglamentarias que emita el Tribunal Superior de Justicia.
+
+También podrán realizarse por medios electrónicos las notificaciones, de que trata el párrafo anterior, cuando éstas deban practicarse por medio de exhorto. En este caso, los Tribunales exhortante y exhortado se ajustarán a las disposiciones reglamentarias mencionadas.
+
 ### CAPÍTULO SÉPTIMO: TÉRMINOS JUDICIALES
 
 ###### Artículo 75.
 
 Los términos empezarán a correr al día siguiente en que se hubiere hecho la notificación y se contará en ellos el día del vencimiento.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 76.
 
-Cuando fueren varios los interesados y el término fuere común a todos ellos, aquél se contará desde al día siguiente de la última notificación.
+Cuando fueren varios los interesados y el término fuere común a todos ellos, aquél se contará desde el día siguiente de la última notificación.
 
 ###### Artículo 77.
 
@@ -613,9 +657,11 @@ En los términos sólo se contarán los días en que puedan practicarse actuacio
 
 Salvo los términos que la Ley o el Tribunal fijen a un interesado, los demás son comunes a las partes.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 79.
 
-Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan y los días se entenderán de veinticuatro horas naturales, contadas de las cero a las veinticuatro.
+Para fijar la duración de los términos, los meses se regularán por el número de días que le correspondan y en caso de vencimientos, los días se entenderán de veinticuatro horas naturales, contadas de las cero a las veinticuatro.
 
 ###### Artículo 80.
 
@@ -629,7 +675,9 @@ En los procedimientos familiares, transcurridos los términos, aquellos continua
 
 La caducidad de la instancia tiene lugar, cuando siendo necesario el impulso procesal de las partes, no exista promoción que lo suscite en un lapso de noventa días hábiles, contados a partir del día siguiente de la notificación de la última resolución que se pronuncie con el objeto de continuar con la tramitación.
 
-No procederá la caducidad cuando la continuación del procedimiento dependa de una resolución o actuación judicial pendientes o una vez citadas las partes para sentencia, de primera instancia.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+No procederá la caducidad cuando la continuación del procedimiento dependa de una resolución o actuación judicial pendientes o una vez citadas las partes para sentencia.
 
 La caducidad podrá ser declarada de oficio por el Tribunal o a petición de parte y su efecto será extinguir la instancia y si el asunto se encuentra en grado de apelación, quedará firme la resolución apelada.
 
@@ -671,9 +719,11 @@ Se entiende por notoriamente improcedente, todo escrito que sin necesidad de dem
 
 Según las circunstancias y de advertirse, se instó de mala fe, faltando a los principios de lealtad, honestidad, respeto o verdad, o con el fin deliberado de entorpecer el procedimiento; el Tribunal, podrá imponer al peticionario, alguna de las correcciones disciplinarias que establece esta Ley. Si la corrección disciplinaria consistiere en multa, de su pago será solidariamente responsable el patrono de aquel.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 91.
 
-Los tribunales para hacer cumplir sus determinaciones pueden emplear, conjunta o indistintamente, los medios de apremio siguientes:
+Los Tribunales para hacer cumplir sus determinaciones pueden emplear indistintamente, los medios de apremio siguientes:
 
 I.- Multa hasta por el importe de mil días de salario;
 
@@ -819,15 +869,25 @@ XVII.- Para la designación de tutor, rendición y aprobación de cuentas de és
 
 XVIII.- En los casos de impedimento para contraer matrimonio, el del lugar donde se hayan presentado los contrayentes;
 
-XIX.- En el juicio de alimentos, el del último domicilio familiar o el del lugar de residencia del o de los acreedores alimentarios, a elección de éstos últimos;
+XIX.- En el juicio de alimentos, el del último domicilio familiar o el del lugar de residencia del o de los acreedores alimentarios, a elección de estos últimos;
 
-XX.- En las acciones derivadas de actos celebrados por medios electrónicos, el del domicilio del actor, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
 
-XXI.- En los actos de jurisdicción voluntaria, el que elija quien promueve.
+XX.- En las acciones derivadas de actos celebrados por medios electrónicos, el del domicilio del actor;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXI.- En los actos de jurisdicción voluntaria, el que elija quien promueve; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XXII.- En el procedimiento privilegiado a que se refiere la fracción X del artículo 683, el del domicilio en donde residan las personas que ejercen sobre él la patria potestad o cuando se desconozca, en el domicilio de la Institución que tiene la tutela del menor.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 109.
 
-En los casos, en que un mayor incapaz pretenda otorgar testamento en un momento de lucidez o cuando un tercero impida dictar disposición testamentaria en los términos a que refiere el Código Civil para el Estado Libre y Soberano de Puebla, es competente el Tribunal del lugar donde se encuentre el testador.
+En los casos, en que un mayor incapaz pretenda otorgar testamento en un momento de lucidez o cuando un tercero impida dictar disposición testamentaria en los términos a que se refiere el Código Civil para el Estado Libre y Soberano de Puebla, es competente el Tribunal del lugar donde se encuentre el testador.
 
 ###### Artículo 110.
 
@@ -925,9 +985,11 @@ Las causas de impedimento referidas a las partes, se aplicarán también cuando 
 
 Los magistrados, jueces, peritos nombrados por la autoridad judicial, secretarios y diligenciarios tienen el deber de inhibirse del conocimiento de los negocios, en que ocurra alguna de las causas expresadas, aun cuando no los recusen. La excusa debe expresar concretamente la causa en que se funde.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 123.
 
-Cuando los servidores judiciales y los auxiliares, a que refiere esta sección, no se excusaren a pesar de existir alguno de los impedimentos establecidos por la Ley, procede la recusación que se fundará en causa legal.
+Cuando los servidores judiciales y los auxiliares, a que se refiere esta sección, no se excusaren a pesar de existir alguno de los impedimentos establecidos por la Ley, procede la recusación que se fundará en causa legal.
 
 ###### Artículo 124.
 
@@ -945,7 +1007,9 @@ IV.- Las recusaciones de los secretarios, peritos y diligenciarios se substancia
 
 A la recusación son aplicables las disposiciones siguientes:
 
-I.- Se interpondrá ante el Juez o Tribunal que conozcan del negocio, expresado con claridad y precisión la causa en que se funda, acompañando las pruebas tendientes a justificarla;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+I.- Se interpondrá ante el Juez o Tribunal que conozca del negocio, expresando con claridad y precisión la causa en que se funda, acompañando las pruebas tendientes a justificarla;
 
 II.- El Oficial Mayor turnará inmediatamente al secretario, todo escrito en que se haga valer una recusación, y aquél en igual forma, dará cuenta a quien deba proveer;
 
@@ -1247,7 +1311,7 @@ Cuando no se proceda en los términos del párrafo anterior, se considerarán ex
 
 ###### Artículo 169.
 
-No podrán ejercitarse en la misma demanda acciones incompatibles y, en caso de que así se haga, el Tribunal deberá requerir al promovente para que manifieste por cual de las acciones opta, apercibiéndolo que de no hacerlo se tendrá por no presentada la demanda o la reconvención, en su caso.
+No podrán ejercitarse en la misma demanda acciones incompatibles y, en caso de que así se haga, el Tribunal deberá requerir al promovente para que manifieste por cuál de las acciones opta, apercibiéndolo que de no hacerlo se tendrá por no presentada la demanda o la reconvención, en su caso.
 
 ###### Artículo 170.
 
@@ -1607,6 +1671,12 @@ El juicio se inicia formalmente a partir del auto admisorio de la demanda y conc
 
 En el auto que admita la demanda, se citará al demandado a una audiencia de conciliación procesal, a la que necesariamente deberá comparecer el actor o su representante legal con facultades expresas para transigir, bajo el apercibimiento que de no hacerlo sin justa causa, se decretará el sobreseimiento del juicio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 2007)</small>
+
+Los abogados patronos podrán estar presentes en el desahogo de la audiencia de conciliación.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE AGOSTO DE 2007)</small>
+
 Tratándose de la parte demandada, cuando ésta no acuda, se entenderá su negativa a conciliar y el Juez ordenará su emplazamiento en los términos prevenidos en esta Ley.
 
 ###### Artículo 219.
@@ -1699,7 +1769,7 @@ Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuan
 
 ###### Artículo 232.
 
-El que niega sólo esta obligado a probar, cuando:
+El que niega sólo está obligado a probar, cuando:
 
 I.- La negación envuelva la afirmación expresa de un hecho concreto susceptible de prueba;
 
@@ -1913,9 +1983,15 @@ La declaración sólo produce efectos en lo que perjudica al que la hace y no en
 
 #### SECCIÓN TERCERA: PRUEBA DOCUMENTAL
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 265.
 
-Son documentos, los elementos que por su naturaleza objetiva, consignan en sí mismos la memoria de un hecho, acto o acontecimiento mediante el empleo de un lenguaje escrito, de una imagen, o de un sonido.
+Son documentos los elementos que por su naturaleza objetiva consignan en sí mismos, la memoria de un hecho, acto o acontecimiento, mediante el empleo de un lenguaje escrito, visual o auditivo.
+
+Los mensajes de datos son documentos.
+
+Se considera mensaje de datos la información generada, enviada, recibida o archivada por medios electrónicos, ópticos o similares.
 
 Por su origen, los documentos son públicos o privados.
 
@@ -2095,9 +2171,11 @@ Lo dispuesto en este artículo será independiente de lo que decida la sentencia
 
 Cuando a juicio del Juez, los dictámenes periciales no resulten suficientemente ilustrativos, bien por sus contenidos o porque la naturaleza misma del caso, requiere de operaciones o conocimientos científicos sumamente especializados, para mejor proveer, podrá pedir informe a la Academia, Colegio o Corporación Oficial que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 292.
 
-Cuando los dictámenes periciales, se funden en conocimientos que produzcan un resultado susceptible de comprobación mediante métodos científicos universalmente aceptados y se demuestre que el perito faltó a la verdad, con el único fin de confundir el juicio del Juez, se le impondrá una multa de quinientos a mil días de salario, sin perjuicio de que se le juzgue conforme al Código Defensa Social para el Estado Libre y Soberano de Puebla.
+Cuando los dictámenes periciales, se funden en conocimientos que produzcan un resultado susceptible de comprobación mediante métodos científicos universalmente aceptados y se demuestre que el perito faltó a la verdad, con el único fin de confundir el juicio del Juez, se le impondrá una multa de quinientos a mil días de salario, sin perjuicio de que se le juzgue conforme al Código de Defensa Social para el Estado Libre y Soberano de Puebla.
 
 A los reincidentes, se les impedirá el acceso como peritos a los juicios y a los tribunales.
 
@@ -2281,9 +2359,11 @@ Los interesados, al ofrecer la prueba de presunciones, deberán expresar con pre
 
 #### SECCIÓN PRIMERA: REGLAS GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 323.
 
-Para resolver conforme a la verdad, los jueces deben; valorar las pruebas de las partes, así como de aquellas que se hayan decretado oficiosamente, conforme a las reglas contenidas en este capítulo; en su defecto, atendiendo a las reglas de la lógica y de la experiencia o a la mayor convicción que produzca la confrontación de unas sobre otras.
+Para resolver conforme a la verdad, los jueces deben: valorar las pruebas de las partes, así como de aquéllas que se hayan decretado oficiosamente, conforme a las reglas contenidas en este Capítulo; en su defecto, atendiendo a las reglas de la lógica y de la experiencia o a la mayor convicción que produzca la confrontación de unas sobre otras.
 
 En caso de duda, se atenderá a la conducta procesal de las partes.
 
@@ -2525,7 +2605,9 @@ Para que haya sentencia en las Salas Colegiadas del Tribunal, se requiere cuando
 
 I.- Si no hay mayoría, se llamará al o los Magistrados en el orden que establezca la Ley Orgánica del Poder Judicial;
 
-II.- La designación se hará saber a las partes a fin de que dentro de cuarenta y ocho horas ejerciten, en su caso, el derecho de recusación, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+II.- La designación se hará saber a las partes a fin de que dentro de los dos días siguientes ejerciten, en su caso, el derecho de recusación; y
 
 III.- Si tampoco hubiere mayoría se someterá la opinión del ponente al Tribunal en pleno, y si no la aprobare, resolverá cuál de las otras proposiciones habrá de constituir la sentencia.
 
@@ -2617,7 +2699,9 @@ I.- Bajo el rubro "VIOLACIONES PROCESALES", se expondrán aquéllos, que tiendan
 
 II.- Bajo el rubro "VIOLACIONES SUBSTANCIALES EN EL PROCEDIMIENTO", se expondrán aquellos que tiendan a combatir las resoluciones y actuaciones que afecten la debida defensa del apelante y trasciendan al fallo, y
 
-III.- Bajo el rubro "VIOLACIONES DE FONDO", se expondrán aquellos que tiendan a combatir la resolución apelada, ya sea por aplicación inexacta o por falta de aplicación de leyes, su interpretación jurídica o de los principios generales del derecho; por comprender acciones, excepciones o cosas que no hayan sido objeto del juicio, o por no comprenderlas todas, por omisión o negación expresa.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+III.- Bajo el rubro "VIOLACIONES DE FONDO", se expondrán aquéllas que tiendan a combatir la resolución apelada, ya sea por aplicación inexacta o por falta de aplicación de Leyes, su interpretación jurídica o de los principios generales del derecho; por comprender acciones, excepciones o cosas que no hayan sido objeto del juicio, o por no comprenderlas todas, por omisión o negación expresa.
 
 ###### Artículo 383.
 
@@ -2787,13 +2871,23 @@ Los autos que no fueren apelables, pueden ser reclamados ante el Tribunal que lo
 
 Son aplicables al recurso de reclamación las disposiciones siguientes:
 
-I.- Se interpondrá en el momento de la audiencia o dentro de las cuarenta y ocho horas siguientes, a partir de que surta efectos la notificación del auto impugnado;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+I.- Se interpondrá en el momento de la audiencia o dentro de los dos días siguientes, a partir de que surta efectos la notificación del auto impugnado;
 
 II.- Se formulará por escrito o verbalmente expresando el hecho infractor, las disposiciones legales violadas y los conceptos de violación;
 
-III.- La reclamación no suspende el curso del juicio, se tramitará por cuerda separada y se mandará substanciar con vista de la contraria por el término de cuarenta y ocho horas, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
 
-IV.- La resolución que al efecto se dicte, no admite recurso.
+III.- La reclamación no suspende el curso del juicio, se tramitará por cuerda separada y se mandará substanciar con vista de la contraria por el término de dos días;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+IV.- La resolución que al efecto se dicte, no admite recurso; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+V.- Cuando el estado de los autos lo requiera, se podrá resolver antes de que se turnen los mismos para fallar la cuestión planteada.
 
 ###### Artículo 411.
 
@@ -2817,7 +2911,9 @@ I.- Por escrito, pudiendo ofrecer las pruebas que tengan relación con la cuesti
 
 II.- En cuerda separada y sin suspensión del procedimiento;
 
-III.- Dentro de las sesenta y dos horas siguientes a que se tenga conocimiento del hecho que los motiva;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+III.- Dentro de tres días siguientes a que tenga conocimiento del hecho que los motiva;
 
 IV.- La parte contraria dentro del mismo término, podrá contestarlo ofreciendo su material probatorio;
 
@@ -3107,7 +3203,9 @@ Si el embargo recae sobre muebles, se aplicarán las siguientes disposiciones:
 
 I.- El depositario pondrá en conocimiento del Juez, el lugar en que quede constituido el depósito y recabará la autorización para hacer, en caso necesario, los gastos que el mismo depósito ocasionare;
 
-II.- La autorización para hacer los gastos mencionados en la fracción anterior, se decretará con audiencia de las partes, siendo los gastos a cargo del que obtuvo el secuestro, sin perjuicios de la condenación en costas;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+II.- La autorización para hacer los gastos mencionados en la fracción anterior, se decretará con audiencia de las partes, siendo los gastos a cargo del que obtuvo el secuestro, sin perjuicio de la condenación en costas;
 
 III.- Si los muebles depositados fueren bienes de fácil descomposición, o animales y no se produzcan frutos suficientes para alimentar éstos, el depositario tendrá, además, obligación de informarse del precio que en la plaza tengan esos bienes, a fin de que, si encuentra ocasión favorable para la venta, lo ponga desde luego en conocimiento del Juez, con el objeto de que éste, oyendo a las partes, determine lo que fuere conveniente;
 
@@ -3153,7 +3251,9 @@ IV.- Recaudará oportunamente las pensiones que por arrendamiento rinda la finca
 
 V.- Hará, sin necesidad de previa autorización, los gastos ordinarios de la finca, como el pago de contribuciones y los de necesaria conservación, servicio y aseo, y los incluirá en la cuenta mensual que deberá rendir respecto de los esquilmos y rentas de la finca;
 
-VI.- Presentará a las oficinas respectivas, en tiempo oportuno, las manifestaciones que las leyes prevengan. De no hacerlo así, serán de su responsabilidad los daños y prejuicios que originen, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+VI.- Presentará a las oficinas respectivas, en tiempo oportuno, las manifestaciones que las Leyes prevengan. De no hacerIo así, serán de su responsabilidad los daños y perjuicios que se originen; y
 
 VII.- Hará las reparaciones necesarias, previa licencia del Juez, para lo cual exhibirá los presupuestos respectivos.
 
@@ -3545,7 +3645,7 @@ V.- Siempre que la sentencia que haya de pronunciarse en un proceso, deba tener 
 
 VI.- En los juicios de concurso, y
 
-VII.- En las sucesiones tratándose de acciones intentadas contra aquellos, por cualquier persona, como heredera o legataria, y para que se le reconozca ese carácter.
+VII.- En las sucesiones tratándose de acciones intentadas contra aquéllas, por cualquier persona, como heredera o legataria, y para que se le reconozca ese carácter.
 
 ###### Artículo 504.
 
@@ -3615,7 +3715,7 @@ Los coadyuvantes se considerarán asociados a la parte a cuyo interés coadyuven
 
 ###### Artículo 513.
 
-Los terceros coadyuvantes podrán llevar a acabo todos los actos procesales que estimen pertinentes a partir de que inicien su intervención en el proceso, aun cuando el principal se desistiere, continuando su acción o defensa, pudiendo hacer valer los recursos que contempla la Ley.
+Los terceros coadyuvantes podrán llevar a cabo todos los actos procesales que estimen pertinentes a partir de que inicien su intervención en el proceso, aun cuando el principal se desistiere, continuando su acción o defensa, pudiendo hacer valer los recursos que contempla la Ley.
 
 ###### Artículo 514.
 
@@ -3705,7 +3805,7 @@ II.- Si se pide el embargo de bienes indeterminados, se procederá conforme a la
 
 ###### Artículo 526.
 
-El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algun otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
+El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algún otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
 
 ###### Artículo 527.
 
@@ -3727,9 +3827,11 @@ La medida precautoria se decretará sin audiencia de la contraparte y se ejecuta
 
 Si la medida se decreta antes de iniciarse el juicio, quedará sin efecto si no se presenta la demanda dentro de los tres días siguientes a su ejecución y el Juez ordenará restituir las cosas al estado que tenían antes de decretarse la medida.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 532.
 
-Podrá reclamarse la medida precautoria por la parte contra quien se decrete, o por otra persona que tenga interés. Esta medida no podrá llevarse a cabo cuando el bien apareciere a nombre de una persona distinta de la persona contra quien se decrete, se hará en la vía incidental y dentro de cinco días contados a partir de que tenga conocimiento de ella el reclamante.
+Podrá impugnarse la medida precautoria por la parte contra quien se decrete, o por otra persona que tenga interés, mediante incidente y dentro de tres días contados a partir de que tenga conocimiento de ella el afectado.
 
 ###### Artículo 533.
 
@@ -3887,9 +3989,11 @@ VII.- Para el desahogo de la audiencia respectiva, se aplicarán las disposicion
 
 #### SECCIÓN TERCERA: OFRECIMIENTO DE PAGO SEGUIDO DE CONSIGNACIÓN
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 550.
 
-Si el acreedor rehusare, sin justa causa, recibir la prestación debida o dar el documento justificativo de pago, o si fuera persona incierta o incapaz de recibir podrá el deudor liberarse de la obligación haciendo judicialmente ofrecimiento de pago, seguida de consignación.
+Si el acreedor rehusare, sin justa causa, recibir la prestación debida o dar el documento justificativo de pago, o si fuera persona incierta o incapaz de recibir podrá el deudor liberarse de la obligación haciendo judicialmente ofrecimiento de pago, seguido de consignación.
 
 ###### Artículo 551.
 
@@ -4015,9 +4119,11 @@ IV.- Los demás documentos a los que las leyes den el carácter de ejecutivos.
 
 Si el título ejecutivo contiene obligaciones recíprocas, la parte que solicite la ejecución al presentar la demanda, hará la consignación de las prestaciones ya exigibles debidas al demandado o comprobará haber cumplido con su obligación.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 568.
 
-Si el crédito que se cobra está garantizado con hipoteca el acreedor podrá intentar el juicio ejecutivo, el ordinario o el que en su caso proceda.
+Si el crédito que se cobra está garantizado con hipoteca, el acreedor podrá intentar el juicio ejecutivo, observando las disposiciones de este Código en el Capítulo de secuestro judicial.
 
 ###### Artículo 569.
 
@@ -4041,13 +4147,17 @@ La sentencia, en su caso, mandará hacer trance y remate de los bienes embargado
 
 ### CAPÍTULO SEGUNDO: EL JUICIO ORAL SUMARÍSIMO
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 574.
 
-Pueden las partes por voluntad expresa dirimir su controversia en juicio oral sumarísimo.
+Pueden las partes por voluntad expresa dirimir su controversia en juicio oral sumarísimo, y ser asistidos por abogado patrono si así lo desean.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 575.
 
-La voluntad a que refiere el artículo anterior, deberá constar en la celebración de un acto jurídico anterior a la controversia, siempre que se pacte que para el caso de que ésta surja, las partes se someterán a este procedimiento.
+La voluntad a que se refiere el artículo anterior, deberá constar en la celebración de un acto jurídico anterior a la controversia, o dentro del procedimiento ya iniciado.
 
 ###### Artículo 576.
 
@@ -4227,13 +4337,23 @@ Las perturbaciones o despojos violentos o que impliquen un daño, pueden combati
 
 La acción de usucapión tiene por objeto, obtener la declaración judicial de que quien posee un bien en los plazos y condiciones que establece el Código Civil, ha adquirido la propiedad.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+En estos juicios no procede la conciliación.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 610.
 
-Si el bien estuviere inscrito en el Registro Público de la Propiedad, se enderezará contra quien aparezca en él como propietario, por lo que con la demanda se presentará, precisamente, certificado del registro o de la ausencia de éste.
+Si el bien estuviere inscrito en el Registro Público de la Propiedad, se enderezará contra quien aparezca en él como propietario, por lo que con la demanda se presentará, precisamente, el certificado del registro respectivo.
 
 ###### Artículo 611.
 
 Si el bien no estuviere inscrito en el Registro Público de la Propiedad, se considerará que se trata de persona desconocida y el emplazamiento se hará en la forma consiguiente, sin perjuicio de que se notifique, personalmente, a quien se señalare en la demanda como interesado.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+Además, el actor deberá justificar que el bien de que se trate reúne los requisitos a que se refiere la constancia catastral, en términos de los artículos 46, 47 y 48 de la Ley de Catastro del Estado de Puebla y lo relativo a su Reglamento, así como el certificado de no inscripción en el Registro Público de la Propiedad.
 
 ###### Artículo 612.
 
@@ -4719,11 +4839,21 @@ VIII.- La constitución, ampliación, reducción y extinción del patrimonio de 
 
 IX.- Las cuestiones de violencia familiar, los derechos de convivencia, custodia provisional, retención y recuperación de la posesión de los hijos así como los conflictos que se susciten con motivo de las diferencias por el ejercicio de la patria potestad;
 
-X.- La declaración de estado de minoridad y en su caso el nombramiento y discernimiento de tutor y curador en los términos de Ley, así como la oposición a ese nombramiento, la rendición, aprobación o desaprobación de las cuentas de la tutela y la remoción de tutor y curador;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
 
-XI.- La suspensión y la calificación de las excusas para ejercer la patria potestad, y
+X.- En los casos de pérdida de patria potestad promovidos por el Sistema Estatal para el Desarrollo Integral de la Familia respecto de menores que se encuentren bajo su custodia;
 
-XII.- Todas aquellas cuestiones análogas a las anteriores.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XI.- La declaración de estado de minoridad y en su caso el nombramiento y discernimiento de tutor y curador en los términos de ley, así como la oposición a ese nombramiento, la rendición, aprobación o desaprobación de las cuentas de la tutela y la remoción de tutor y curador;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XII.- La suspensión y la calificación de las excusas para ejercer la patria potestad; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+XIII.- Todas aquellas cuestiones análogas a las anteriores.
 
 ###### Artículo 684.
 
@@ -4733,7 +4863,9 @@ I.- Se formulará solicitud, expresando la causa que origina la necesidad de la 
 
 II.- Se señalará con toda precisión el nombre y domicilio de las personas que tengan interés, en el caso de que deban ser oídas.
 
-No será aplicable el párrafo anterior, en el caso del procedimiento para la designación de tutor en los supuestos previstos por el Código Civil, si se desconoce a quien pudiera corresponder la tutela legítima, supuesto en el que se convocará a éstos, mediante un edicto publicado en el Periódico Oficial del Estado y otro diario de mayor circulación, para que en el plazo de quince días comparezcan.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
+Si se desconoce el nombre, domicilio o ambos de a quien corresponde la tutela o el ejercicio de la patria potestad en los casos de designación de tutor o de pérdida de patria potestad referido en la fracción X del artículo 683, se convocará a las personas que tengan interés mediante un edicto publicado en el Periódico Oficial del Estado y otro en un diario de mayor circulación, para que comparezcan en el plazo de quince días.
 
 III.- Se ofrecerán con la solicitud cuando así se requiera, las pruebas que sustenten la pretensión;
 
@@ -4859,6 +4991,10 @@ IV.- La sentencia producirá efectos de cosa juzgada aun en contra de quienes no
 
 V.- El Tribunal de oficio o a petición de parte, en cualquier estado del juicio, podrá adoptar las medidas cautelares adecuadas para que no se causen perjuicios a los hijos.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+En las acciones a que se refiere este Capítulo, se admitirá todo tipo de pruebas, siendo preferente la del estudio del ADN, mediante su prueba biológica molecular o cualquier otra con igual o mayor grado de certeza, debiendo las partes colaborar en las investigaciones referentes, atendiendo al interés superior del menor y prevaleciendo la presunción legal de ser ciertos los hechos que se pretenden acreditar, si no se permite tomar las muestras necesarias.
+
 ###### Artículo 702.
 
 El allanamiento a la demanda no vincula al Juez, cuando la acción sea de contradicción de paternidad, debiendo agotarse el procedimiento.
@@ -4869,71 +5005,111 @@ Tratándose de las acciones de investigación de la maternidad o de la paternida
 
 #### SECCIÓN TERCERA: ADOPCIÓN
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 704.
 
-Para que se autorice la adopción, deberán quedar satisfechos los requisitos y condiciones que se establecen en el Código Civil y en todo caso deberá acreditarse plenamente:
+El procedimiento especial de adopción se tramitará de manera oral, sujetándose a las disposiciones que se establecen en esta Sección, sin que la economía procesal vulnere o restrinja los principios de seguridad jurídica, legalidad y del interés superior del menor que deben observarse.
 
-I.- Que el adoptante o adoptantes tiene medios bastantes para proveer a la subsistencia y educación del adoptado, como de hijo propio;
-
-II.- Que el adoptante o adoptantes no tengan antecedentes penales;
-
-III.- El buen estado de salud del o de los adoptantes, y
-
-IV.- Las demás que establezcan los reglamentos, leyes federales y los tratados internacionales de los cuales el Estado Mexicano forme parte, en materia de adopción.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 705.
 
-El procedimiento de adopción, puede intentarse por los particulares que tengan interés en ella, o por el Sistema para el Desarrollo Integral de la Familia en el Estado.
+El procedimiento de adopción puede intentarse por las personas que tengan interés en ella.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+En el caso de que un menor o incapacitado, se encuentre bajo los cuidados de algún familiar o persona a quien sus ascendientes o tutores lo hayan dejado en abandono y los cuidados y protección sean los adecuados, el Juez podrá determinar esto como medida precautoria para garantizar la seguridad del menor, además de acordar la guarda y custodia provisional a estas personas en tanto cuanto no se resuelva la situación jurídica del menor concediendo la posibilidad de inicio del juicio de adopción.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 706.
 
-En el procedimiento de adopción, se dará la intervención que conforme a derecho corresponde al Sistema para el Desarrollo Integral de la Familia en el Estado.
+En el procedimiento especial de adopción, se dará la intervención que conforme a derecho corresponde al Sistema para el Desarrollo Integral de la Familia del Estado y al Ministerio Público.
 
 ###### Artículo 707.
 
 Si ambos cónyuges pretenden adoptar, promoverán conjuntamente.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 708.
 
-Con la petición inicial, deberá acompañarse el dictamen técnico que conforme a su normatividad, deberá emitir el Consejo Técnico de Adopciones, dependiente del Sistema para el Desarrollo Integral de la Familia en el Estado, sin cuyo requisito, no se le dará curso.
+Para que la adopción pueda efectuarse, deberán consentir en ella en sus respectivos casos:
+
+I.- El que ejerza o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+
+II.- El tutor del que se va a adoptar;
+
+III.- Las personas a que se refiere el artículo 679 del Código Civil para el Estado Libre y Soberano de Puebla;
+
+IV.- El Ministerio Público en el caso del artículo 681 del Código Civil para el Estado Libre y Soberano de Puebla; y
+
+V.- El menor que se va a adoptar si tiene más de catorce años.
+
+Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III, sin causa justificada no consienten en la adopción, podrá suplir el consentimiento el Juez, cuando ésta sea conveniente en atención al interés superior del menor o incapaz.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2011)</small>
+
+###### Artículo 708 Bis.
+
+Por lo que hace a los menores que se encuentren bajo custodia del Sistema para el Desarrollo Integral de la Familia, el consentimiento de quien o quienes ejerzan la patria potestad, respecto del menor, podrá ser realizado en cualquier momento y deberá otorgarse ante la Autoridad Judicial o Ministerial, con la intervención de funcionarios del Sistema para el Desarrollo Integral de la Familia del Estado y la presencia de dos testigos para dar fe de que se llevó a cabo en forma libre, espontánea y consciente, explicándoles los alcances jurídicos de su decisión; levantándose el acta circunstanciada correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 709.
 
-En la solicitud, se expresará:
+El procedimiento de adopción se llevará a cabo en forma oral y se sujetará a lo siguiente:
 
-I.- El nombre y edad de quien se pretende adoptar, y
+I.- Se presentará el original del Dictamen Técnico o Certificado de Idoneidad que conforme a su normatividad deberá emitir el Consejo Técnico de Adopciones, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado, acompañándolo, para tal efecto, de la documentación siguiente:
 
-II.- Si es menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o tutela o de las instituciones que lo hayan acogido.
+a) La ficha de identificación del menor o incapaz de cuya adopción se trata;
+
+b) La que acredite la situación jurídica en la que se encuentra el menor o incapaz y que permita su adopción;
+
+c) Las actas de nacimiento y, en su caso, el acta de matrimonio del o los promoventes; y
+
+d) Las identificaciones oficiales del o de los promoventes, del representante del Sistema para el Desarrollo Integral de la Familia y, de ser procedente, de las personas que deban consentir la adopción.
+
+II.- Recibida la documentación respectiva en el Juzgado asignado, el o los promoventes, acompañados del representante del Sistema para el Desarrollo Integral de la Familia del Estado y en su caso, de los padres biológicos, manifestarán de viva voz ante el personal judicial actuante y con la intervención del Agente del Ministerio Público adscrito, la pretensión de adoptar al menor o incapaz que se presenta. Expresarán en forma clara y precisa la causa que motiva la solicitud, detallando el nombre, edad, nacionalidad, origen y situación legal del menor o incapaz que se pretende en adopción, declarando que se han cubierto todos y cada uno de los requisitos que en forma taxativa exige la normatividad aplicable para su tramitación, a efecto de que el juzgador en ese momento analice si se satisfacen los presupuestos procesales para su admisión y sustanciación.
+
+Si el menor a adoptar es mayor de seis años deberá ser informado ampliamente de su adopción y expresará su parecer al respecto;
+
+III.- Una vez determinado por el Juez que se han cubierto los requisitos necesarios, dará trámite al Procedimiento Oral de Adopción y en la misma audiencia el o los adoptantes ratificarán su petición, dándoles la intervención que corresponda tanto al Agente del Ministerio Público adscrito como al representante del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla. Si el juzgador no encuentra elementos contrarios a la adopción, la resolverá favorablemente; la resolución del Juez se hará constar por escrito y se notificará personalmente a las partes, dentro de los cinco días hábiles siguientes a la fecha de la audiencia; y
+
+IV.- En la resolución que apruebe la solicitud de adopción, el Juez decretará su seguimiento, encomendándolo al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla.
+
+Contra la sentencia dictada en el procedimiento de adopción, procede el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 710.
 
-Si el menor o incapacitado no está sujeto a patria potestad a tutela o a custodia del Sistema para el Desarrollo Integral de la Familia en el Estado, se le proveerá de tutor especial para que lo represente en el procedimiento de adopción.
+Atendiendo al interés superior del menor o incapaz sujeto de adopción, las actuaciones y los datos contenidos en ellas, particularmente los relativos a las partes, se considerarán como información confidencial, quedando prohibida su difusión por cualquier medio.
 
 ###### Artículo 711.
 
-Aceptada la solicitud, el Juez mandará citar a los promoventes, para que acudan a una audiencia, en la que deberán identificarse en forma plena y ratificarán el contenido de la petición, presentando al que pretende ser adoptado, acompañando fotografías actuales de frente y perfil, las que cotejadas se agregarán al expediente, junto con las impresiones decadactilares que se tomarán en el momento.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 712.
 
-Cuando el que se pretenda adoptar tenga más de seis años de edad, deberá ser informado ampliamente de la pretensión de los solicitantes de la adopción y externará, en todo caso, su consentimiento.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 713.
 
-Cuando quienes no ejercen la patria potestad, deban consentir en la adopción y se niegan injustificadamente a ello, su consentimiento será suplido por el Juez cuando la adopción sea conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 714.
 
-El Juez, en el supuesto previsto en el artículo anterior, para decidir si suple o no el consentimiento, oirá a los interesados en una audiencia en la que recibirá las pruebas que se ofrezcan.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 715.
 
-Satisfechos los requisitos a que se refieren los artículos anteriores, el Juez resolverá dentro del tercer día lo que corresponda.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 716.
 
-En caso de que el Juez, encuentre colmados todos los requisitos que las leyes, los tratados internacionales y los reglamentos, establecen para la adopción, aprobará ésta y remitirá copia certificada de la resolución, al encargado del Registro del Estado Civil de las Personas, para que proceda en los términos que establece el Código Civil para el Estado Libre y Soberano de Puebla.
-
-En la misma resolución, el Juez decretará el seguimiento de la adopción y lo encomendará a las Instituciones que correspondan conforme al Reglamento de Adopciones de Menores del Sistema para el Desarrollo Integral de la Familia.
+(DEROGADO, P.O. 27 DE JUNIO DE 2011)
 
 ###### Artículo 717.
 
@@ -5121,7 +5297,9 @@ I.- Por escrito se expresará la causa de la autorización y el fin que se dará
 
 II.- Bajo responsabilidad del solicitante, en su caso se presentará el avalúo y acreditará la necesidad o el evidente beneficio, y
 
-III.- Se dictará la resolución correspondiente en el que se apruebe o niegue la autorización.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+III.- Se dictará la resolución correspondiente en la que se apruebe o niegue la autorización.
 
 ###### Artículo 747.
 
@@ -5141,13 +5319,17 @@ La enajenación de bienes de un ausente podrá proponerse por su representante, 
 
 El procedimiento de rectificación de acta se tramitará en juicio especial; en él no será necesaria la etapa procesal de conciliación; debiendo acompañar a la demanda lo siguiente:
 
-I.- Copia certificada del acta de nacimiento, cuya rectificación se trate, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2007)</small>
+
+I.- Copia certificada del acta del registro civil, cuya rectificación se trate; y
 
 II.- Declaración bajo protesta de decir verdad que en todos sus actos públicos y privados, ha utilizado el nombre, fecha y lugar de nacimiento que se pretenda corregir; sustentándolo con documentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 751.
 
-En el auto que admita la demanda, se ordenará correr traslado al Juez del Registro del Estado Civil que autorizó el acta cuya rectificación se pida y al Ministerio Público, y por edictos a todos los que tengan interés en contradecirla.
+En el auto que admita la demanda, se dará vista al Juez del Registro del Estado Civil que autorizó el acta cuya rectificación se pida y al Ministerio Público, y por edictos a todos lo que tengan interés en contradecirla.
 
 Si durante el procedimiento un tercero manifiesta su oposición debidamente justificada en el juicio, el Juez suspenderá todo trámite judicial, dejando a salvo los derechos del promovente para hacerlos valer en el procedimiento que legalmente proceda.
 
@@ -5429,9 +5611,11 @@ Contra la resolución dictada, procede apelación en ambos efectos.
 
 Cuando todos los herederos sean mayores de edad, hubieren sido reconocidos judicialmente con tal carácter y se declaren aprobados los inventarios y avalúos, podrán separarse de la prosecución judicial, para aplicar los bienes en los términos que juzguen convenientes.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
 ###### Artículo 783.
 
-Cuando todos los herederos sean mayores de edad y hubieren sido reconocidos judicialmente con tal carácter, éste podrá seguirse tramitando ante notario, de acuerdo con lo que se establece en este Capítulo.
+Cuando todos los herederos sean mayores de edad y hubieren sido reconocidos judicialmente con tal carácter, el procedimiento podrá seguirse tramitando ante notario público, de acuerdo con lo que se establece en este Capítulo.
 
 ###### Artículo 784.
 
@@ -5773,7 +5957,9 @@ Voluntariedad.- La participación en el procedimiento de mediación debe ser por
 
 Confidencialidad.- Lo tratado en mediación no podrá ser divulgado por el mediador, a excepción de los casos en los que la información se refiera a un ilícito penal perseguible de oficio. Las actuaciones que se practiquen en este procedimiento, incluyendo los testimonios o confesiones expresadas por las partes no tendrán valor probatorio, ni incidirán en los juicios que se sigan en los Tribunales.
 
-Flexibilidad.- En el procedimiento de mediación prescindirá de toda forma, para poder responder a las necesidades de los mediados.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
+
+Flexibilidad.- El procedimiento de mediación prescindirá de toda forma, para poder responder a las necesidades de los mediados.
 
 Neutralidad.- El mediador debe mantener una postura y mentalidad equilibrada para no ceder a sus inclinaciones o preferencias.
 
@@ -6087,6 +6273,10 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de julio del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE AGOSTO DE 2007.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -6108,3 +6298,45 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 27 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTICULO 108, LAS FRACCIONES X, XI Y XII DEL 683; EL SEGUNDO PARRAFO DE LA FRACCION II DEL 684, EL 704, EL PRIMER PARRAFO DEL 705, EL 706, EL 708, EL 709 Y EL 710; SE ADICIONAN LA FRACCION XXII AL 108, LA FRACCION XIII AL 683 Y EL 708 BIS Y; SE DEROGAN EL 711, EL 712, EL 713, EL 714, EL 715 Y EL 716, TODOS DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A los procedimientos de adopción y de pérdida de patria potestad iniciados antes de la entrada en vigor del presente Decreto, les seguirán siendo aplicables hasta su conclusión, las disposiciones vigentes al momento de su inicio.
+
+P.O. 27 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 32 Y SE ADICIONA EL ARTICULO 74 BIS, AMBOS DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de la publicación en el mismo medio de difusión de las disposiciones reglamentarias, que al efecto emita el Tribunal Superior de Justicia para su implementación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales de la misma naturaleza que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 265 DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+|
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
