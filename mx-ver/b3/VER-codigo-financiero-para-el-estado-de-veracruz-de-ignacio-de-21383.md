@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2011-02-02"
+last_updated: "2011-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1503,9 +1503,11 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 Es base de este impuesto los ingresos por los premios obtenidos por las personas físicas o morales, correspondientes a cada boleto o billete entero, sin deducción alguna, que den derecho a participar en loterías, rifas, sorteos y concursos efectuados por los organismos a que se refiere el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+
 ###### Artículo 121.
 
-El impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 6% a la base establecida en el artículo anterior.
+El impuesto a que se refiere este capítulo, se determinará aplicando la tasa del 5.21% a la base establecida en el artículo anterior.
 
 El impuesto será retenido al momento de la entrega de los premios de que se trate por los organismos descentralizados a que se refiere el artículo 118 de este Código, quienes lo enterarán a la Secretaría dentro de los primeros 20 días del mes siguiente a aquel en que se hayan cobrado.
 
@@ -8854,3 +8856,9 @@ G.O. 2 DE FEBRERO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+G.O. 27 DE JUNIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
