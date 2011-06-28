@@ -4,7 +4,7 @@ identifier: "MEX-codigo-reglamentario-del-municipio-de-toluca-67842"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-09"
-last_updated: "2009-08-18"
+last_updated: "2011-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MEX"
 
 CODIGO REGLAMENTARIO DEL MUNICIPIO DE TOLUCA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL SEMANAL: 18 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO REGLAMENTARIO DEL MUNICIPIO DE TOLUCA 2011 PUBLICADO EN EL G.G. DE 28 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de marzo de 2009.
 
@@ -9008,3 +9010,27 @@ Cuando alguna dependencia o unidad administrativa pase, conforme a estas reforma
 ###### ARTÍCULO SEXTO.
 
 Cuando en estas reformas reglamentarias se dé denominación nueva o distinta a alguna dependencia o unidad administrativa cuyas funciones estén establecidas en normas jurídicas de vigencia anterior, dichas atribuciones se entenderán concedidas a la dependencia que determinen las presentes modificaciones reglamentarias.
+
+G.G. 28 DE JUNIO DE 2011.
+
+PRIMERO.- Publíquese el presente Código Reglamentario en la Gaceta Municipal de Toluca, en la Gaceta del Gobierno del Estado de México y en el Portal Electrónico del Ayuntamiento.
+
+SEGUNDO.- Este Código Reglamentario entrará en vigor el día de su publicación en la Gaceta Municipal.
+
+TERCERO.- Se abroga el Código Reglamentario del Municipio de Toluca, publicado el 5 de febrero de 2009, con sus reformas y adiciones.
+
+CUARTO.- Se derogan las disposiciones de igual o menor rango, vigentes a la fecha de entrada en vigor del presente Código Reglamentario Municipal, que se opongan al mismo.
+
+QUINTO.- Los actos y procedimientos efectuados con base en el Código que se abroga, que se encuentren en trámite al entrar en vigor este Código, se resolverán conforme a las disposiciones legales anteriores al mismo.
+
+SEXTO.- Lo dispuesto en la Sección Tercera, del Capítulo Décimo Quinto, del Título Séptimo de este Código entrará en vigor el 1 de diciembre de 2011.
+
+SÉPTIMO.- Lo dispuesto en la Sección Cuarta del Capítulo Décimo Quinto, del Título Séptimo de este Código, entrará en vigor el 1 de enero de 2012.
+
+OCTAVO.- Los servicios del Centro Municipal de Salud y Bienestar Animal, adscrito a la Dirección de Educación, Cultura y Fomento a la Salud, de la Dirección General de Desarrollo Social y Participación Ciudadana, serán transferidos al Organismo Público Descentralizado de carácter municipal denominado Sistema Municipal para el Desarrollo Integral de la Familia de Toluca, en la fecha en que entre en vigor este Código Reglamentario Municipal.
+
+NOVENO.- Los Comités, Comisiones y Consejos a que se refiere este Código, que no están integrados, se instalarán dentro de los 30 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+DÉCIMO.- Con la entrada en vigor de este Código, se hará la transferencia del servicio de estacionómetros a la Tesorería Municipal.
+
+DÉCIMO PRIMERO.- Los titulares de las dependencias proveerán lo necesario para actualizar los formatos de sus actas, acuerdos y papelería oficial, conforme a la nueva normatividad municipal.
