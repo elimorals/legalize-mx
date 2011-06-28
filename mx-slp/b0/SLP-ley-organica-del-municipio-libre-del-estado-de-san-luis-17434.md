@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2011-05-21"
+last_updated: "2011-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -267,7 +267,7 @@ Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que estab
 
 ###### ARTICULO 12.
 
-En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
+En cada municipio habrá un ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Para los efectos de esta Ley, por Cabildo se entiende los miembros del Ayuntamiento, reunidos en sesión y como un cuerpo colegiado de gobierno; y por Ayuntamiento se entiende el órgano de gobierno del Municipio, a través del cual sus ciudadanos realizan su voluntad política y la autogestión de los intereses de la comunidad.
 
 La competencia que otorga al gobierno municipal la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y demás ordenamientos, se ejercerá por el Ayuntamiento de manera exclusiva.
 
@@ -927,9 +927,9 @@ X. Cuidar el correcto desempeño de las funciones encomendadas a la policía pre
 
 XI. Vigilar la coordinación y el cumplimiento de los planes nacional, estatal y municipal de desarrollo;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2011)</small>
 
-XII. Observar que se lleve a cabo el Plan Municipal de Desarrollo Urbano en congruencia con los planes estatal y nacional, remitiéndolo al Ejecutivo del Estado para que emita, en su caso, observaciones; y ordenar una vez realizadas las correcciones que el Cabildo considere procedentes, la inscripción del mismo en el Registro Público de la Propiedad y del Comercio;
+XII. Observar que se lleve a cabo el Plan Municipal de Desarrollo Urbano en congruencia con los planes estatal y nacional, remitiéndolo al Ejecutivo del Estado para que emita en su caso observaciones, y ordenar, una vez realizadas las correcciones que el Cabildo considere procedentes, la inscripción del mismo en el Registro Público de la Propiedad;
 
 XIII. Vigilar la recaudación en todas las ramas de la hacienda pública municipal, cuidando que la inversión de los fondos se haga con estricto apego al presupuesto y a las leyes correspondientes;
 
@@ -2326,3 +2326,9 @@ P.O. 21 DE MAYO DE 2011.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
