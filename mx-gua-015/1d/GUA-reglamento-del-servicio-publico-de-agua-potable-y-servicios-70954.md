@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-publico-de-agua-potable-y-servicios-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-06"
-last_updated: "2009-12-18"
+last_updated: "2011-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO PUBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2011.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de noviembre de 2009.
 
@@ -599,6 +597,20 @@ El SIMAPAG será responsable solidario por los daños causados por los servidore
 
 El SIMAPAG, para el estudio, planeación, dirección, ejecución, evaluación y despacho de los asuntos de su competencia, estará dirigido y administrado por un Consejo Directivo, integrado por un Consejero Presidente, un Consejero Secretario, un Consejero Financiero, un Consejero Jurídico y seis Consejeros Vocales quienes durarán en su encargo cuatro años. El Consejo se renovará por mitad cada dos años.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2011)</small>
+
+El Honorable Ayuntamiento a propuesta del Presidente Municipal, designará un Comité de Vigilancia para que sus miembros además del estudio de los asuntos del servicio, puedan acudir a las sesiones del Consejo Directivo. Lo anterior, previa notificación de la convocatoria que en los términos de este Reglamento deberá efectuar el mencionado Consejo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2011)</small>
+
+Dicho Comité deberá integrarse con cuando menos tres miembros del Honorable Ayuntamiento que tengan preferentemente un perfil técnico, jurídico y administrativo respectivamente y tendrán las siguientes atribuciones:
+
+I. Asistir a las sesiones del Consejo, para lo cual deberán ser convocados como si fuesen Consejeros;
+
+II. Participar con derecho a voz pero sin voto en las sesiones del Consejo; y,
+
+III. Solicitar y obtener del Consejo, así como de las áreas operativas del SIMAPAG, toda la información que requieran para cumplir con la finalidad de su función de representante del órgano máximo de Gobierno del Municipio.
+
 ###### Artículo 62.
 
 Con el propósito de renovar el Consejo Directivo en los términos del artículo anterior, el Ayuntamiento designará a propuesta del Presidente Municipal, una Comisión plural. Dicha Comisión será la responsable de establecer las bases para el proceso de convocatoria y dictámenes de integración del Consejo Directivo del SIMAPAG, mismos que deberán ser aprobados por el pleno del Ayuntamiento.
@@ -647,9 +659,13 @@ V. No haber participado como candidato o candidata a puesto de elección popular
 
 VI. No haber sido sujeto de sentencia ejecutoria por delito intencional;
 
-VII. No estar desempeñando ningún cargo o comisión, en la Administración Pública Federal, Estatal o Municipal; y
+VII. No estar desempeñando ningún cargo o comisión, en la Administración Pública Federal, Estatal o Municipal; y (sic)
 
 VIII. Contar con credencial para votar.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2011)</small>
+
+IX. Acreditar una escolaridad mínima de preparatoria terminada, bachillerato o su equivalente.
 
 ###### Artículo 67.
 
@@ -1434,3 +1450,9 @@ PRESIDENTE MUNICIPAL
 LIC. EDUARDO LÓPEZ GOERNE
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JUNIO DE 2011.
+
+ÚNICO: Las adiciones a que se refiere el presente acuerdo surtirán sus efectos y entrarán en vigor a partir del quinto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
