@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-31675"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-09"
-last_updated: "2008-08-12"
+last_updated: "2011-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31675&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2003-05-31"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE REFORMA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL PRESENTE REGLAMENTO DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA MODIFICACION, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de junio de 2003.
 
@@ -2074,3 +2074,39 @@ Décimo séptimo.- Los partidos políticos deberán publicar en sus respectivos 
 Décimo octavo.- Los partidos políticos deberán modificar su normativa interna en materia de transparencia y acceso a la información pública y archivo, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento.
 
 Décimo noveno.- La Dirección Ejecutiva de Administración emitirá dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento, los Lineamientos conforme a los cuales los partidos comprobarán los gastos realizados por la atención de solicitudes de información.
+
+D.O.F. 28 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación por el Consejo General.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado por el Consejo General en sesión del 10 de julio de 2008 y publicado en el Diario Oficial de la Federación de fecha 12 de agosto de 2008.
+
+TERCERO.- La información que de conformidad con el párrafo 1 del artículo 5 del presente Reglamento, no ha sido publicada en la página de Internet del Instituto deberá ser recopilada, actualizada y entregada por los órganos responsables del Instituto al Comité de Gestión, dentro de un plazo no mayor a 60 días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+CUARTO.- A efecto de que la información a que hace referencia el artículo 5, párrafo 2, fracciones VIII y IX, se encuentre debidamente actualizada, los órganos responsables competentes, por medio de la Unidad de Enlace, la requerirán a los partidos políticos dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Reglamento. Los partidos políticos deberán entregarla a los órganos responsables, a través de la Unidad de Enlace dentro de los treinta días hábiles siguientes a que se les notifique el requerimiento correspondiente, previamente revisados para su debida publicación.
+
+QUINTO.- Para el efecto de que la información a que hace referencia el artículo 5, párrafo 2, fracción I, la Comisión de Prerrogativas y Partidos Políticos deberá emitir los Lineamientos en los cuales se establecerán los mecanismos para la verificación y/o revisión de los padrones de militantes y afiliados de los partidos políticos y la obligación de presentarlos actualizados en el plazo que dicha Comisión determine.
+
+SEXTO.- Con la finalidad de implementar la reforma establecida en el artículo 5, párrafo 2, fracción I, la Comisión de Prerrogativas y Partidos Políticos, deberá presentar a consideración del Consejo General del Instituto, a más tardar en 60 días hábiles, posteriores a la conclusión del Proceso Electoral Federal 2011-2012, un proyecto de Lineamientos para el establecimiento del sistema de datos personales de afiliados y militantes de los partidos políticos nacionales.
+
+SEPTIMO.- La Junta General Ejecutiva emitirá, y en su caso actualizará, los "Lineamientos para la Publicación y Gestión del Portal de Internet del Instituto Federal Electoral", a efecto de dar cumplimiento al artículo 7, así como la demás normatividad necesaria para el cumplimiento del presente Reglamento, dentro de los sesenta días siguientes a la entrada en vigor del presente Reglamento.
+
+OCTAVO.- El Comité de Gestión realizará las modificaciones convenientes a sus instrumentos legales y procedimentales, a efecto de dar cumplimiento a su integración y funcionamiento, en el desempeño de sus atribuciones, con fundamento en lo estipulado en el artículo 9, en un plazo no mayor a los noventa días de la entrada en vigor del presente Reglamento.
+
+NOVENO.- El Comité de Información actualizará toda la normatividad secundaria relacionada con la aprobación del presente Reglamento, a fin de cumplir con lo que éste estipula, en un plazo no mayor a los seis meses siguientes a la entrada en vigor del presente Reglamento.
+
+DECIMO.- El Comité de Información, actualizará los "Lineamientos que deberán observar los órganos responsables del Instituto Federal Electoral y la Unidad de Enlace en la recepción, procesamiento y trámite de las solicitudes de acceso a la información pública, a datos personales y corrección de los mismos, que formulen los particulares, así como en su Resolución y notificación, y la entrega de la información en su caso", en cumplimiento con el artículo 36, párrafo 1, en observación del principio de finalidad, dentro de los sesenta días siguientes a la entrada en vigor del presente Reglamento.
+
+DECIMO PRIMERO.- El Organo Garante, con fundamento en el artículo 22, párrafo 1, fracción XII, realizará las diligencias correspondientes para que en un plazo no mayor a los seis meses de la entrada en vigor del presente Reglamento, se lleve a cabo las evaluaciones externas de los portales de Internet, en términos de lo dispuesto en el artículo 9, párrafo 7.
+
+DECIMO SEGUNDO.- Para el cumplimiento de la reforma del párrafo 2 del artículo 32 de éste Reglamento, la Comisión del Registro Federal de Electores deberá presentar a consideración del Consejo General del Instituto, a más tardar en 60 días hábiles, posteriores a la conclusión del Proceso Electoral Federal 2011-2012, un proyecto de nuevos Lineamientos para el acceso, rectificación, cancelación y oposición a los datos personales en posesión del Registro Federal de Electores.
+
+DECIMO TERCERO.- La Unidad de Enlace, el Comité de Información y el Organo Garante de la Transparencia y el Acceso a la Información, respectivamente, sustanciaran las solicitudes de información y los recursos de revisión y de reconsideración, que hayan ingresado en fecha anterior de la entrada en vigor del presente Reglamento, de conformidad con lo establecido en el Reglamento anterior publicado en el Diario Oficial de la Federación el 12 de agosto del 2008.
+
+DECIMO CUARTO.- La Dirección Ejecutiva de Administración emitirá dentro de los treinta días hábiles siguientes de la entrada en vigor del presente ordenamiento, los Lineamientos señalados en el artículo 30, párrafo 5, relativos a la entrega de las cuotas de recuperación generadas por solicitudes de información a los partidos políticos conforme a los cuales comprobarán los gastos realizados por la atención de solicitudes de información".
+
+DECIMO QUINTO.- A efecto de implementar la adición del párrafo 3 del artículo 32 de este Reglamento, la Comisión del Registro Federal de Electores deberá presentar a consideración del Consejo General del Instituto, a más tardar en 90 días hábiles posteriores a la conclusión del Proceso Electoral Federal 2011-2012, un proyecto de Lineamientos de acceso, verificación y entrega de los datos personales en posesión del Registro Federal de Electores por parte de los Consejos General, Locales y Distritales, Comisiones de Vigilancia y Partidos Políticos.
+
+DECIMO SEXTO.- Para la instrumentación de la adición del párrafo 8 del artículo 32, la Comisión de Prerrogativas y Partidos Políticos, deberá presentar a consideración del Consejo General del Instituto, a más tardar en 90 días hábiles, posteriores a la conclusión del Proceso Electoral Federal 2011-2012, un proyecto de Lineamientos para el acceso, corrección, cancelación y oposición de los datos personales de afiliados y militantes de los partidos políticos nacionales.
+
+DECIMO SEPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
