@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-organo-garante-de-la-62168"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-14"
-last_updated: "2008-08-14"
+last_updated: "2011-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62168&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE SESIONES DEL ORGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACION DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -215,7 +215,9 @@ Atribuciones del Organo Garante
 
 1. Son funciones del Organo Garante:
 
-a) Resolver los recursos de revisión y reconsideración previstos en este Reglamento;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+a) Resolver los recursos de revisión, reconsideración y el incidente de incumplimiento previstos en el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información;
 
 b) Con motivo de la resolución de los recursos, requerir a los órganos responsables del Instituto, aquella información que les permita el adecuado cumplimiento de sus atribuciones;
 
@@ -235,7 +237,9 @@ i) Recibir los informes trimestrales de actividades de la Unidad Técnica, del C
 
 j) Requerir cualquier información a la Unidad Técnica, al Comité y a IFETEL para el adecuado cumplimiento de sus funciones;
 
-k) Aprobar el Informe anual que presente el Comité de Publicación y Gestión Electrónica y remitirlo al Consejo;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+k) Recibir el Informe anual que presente el Comité de Gestión y remitirlo al Consejo;
 
 l) Proponer la evaluación del portal de internet del Instituto y de los portales de internet de los partidos políticos, en términos de lo dispuesto por el artículo 8, párrafo 7;
 
@@ -305,7 +309,9 @@ n) Revisar los anteproyectos de Programa Anual de Trabajo e Informe Anual de Act
 
 o) Solicitar a nombre y por acuerdo del Organo Garante, sin perjuicio de su derecho propio, la inclusión de los programas, informes, dictámenes, acuerdos o resoluciones, en el orden del día de las sesiones del Consejo;
 
-p) Designar, para las sesiones, en caso de ausencia temporal, al Consejero integrante del Organo Garante que deba suplirlo;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+p) Designar, para las sesiones, en caso de ausencia temporal, a un integrante con voz y voto del Organo Garante que deba suplirlo;
 
 q) Dar seguimiento y apoyo a las actividades desarrolladas por los grupos de trabajo que integre el Organo Garante, en los términos de este Reglamento, y participar en ellos, por sí o por medio de quien designe, y
 
@@ -327,21 +333,23 @@ f) Participar, por sí o por medio de quienes designen, en los grupos de trabajo
 
 g) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
 
-3. Corresponderá al especialista que designe el Consejo, como integrante del Organo garante:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-h) (sic) Concurrir a las sesiones;
+3. Corresponderá al especialista que designe el Consejo, como integrante del Organo Garante:
 
-i) Participar en las deliberaciones;
+a) Concurrir a las sesiones;
 
-j) Votar los programas, informes, dictámenes, acuerdos o resoluciones;
+b) Participar en las deliberaciones;
 
-k) Solicitar al Presidente la inclusión de asuntos en el orden del día;
+c) Votar los programas, informes, dictámenes, acuerdos o resoluciones;
 
-l) Por mayoría, solicitar se convoque a sesión extraordinaria;
+d) Solicitar al Presidente la inclusión de asuntos en el orden del día;
 
-m) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Organo Garante, y
+e) Por mayoría, solicitar se convoque a sesión extraordinaria;
 
-n) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
+f) Participar, por sí o por medio de quienes designen, en los grupos de trabajo que integre el Organo Garante, y
+
+g) Lo demás que le atribuya el Código, este Reglamento, su acuerdo de creación, el Consejo o el propio Organo Garante.
 
 4. Corresponderá a los Consejeros del Legislativo y Representantes de los partidos políticos:
 
@@ -610,3 +618,11 @@ Primero.- El presente Reglamento entrará en vigor una vez que el Consejo Genera
 Segundo.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE JUNIO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su aprobación por parte del Consejo General.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación
