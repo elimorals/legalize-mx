@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-66877"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-09"
-last_updated: "2010-05-10"
+last_updated: "2011-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -649,7 +649,13 @@ XIV. Tramitar y substanciar para poner en estado de resolución los recursos adm
 
 XV. Representar a la Administración Pública del Gobierno del Estado de México en los juicios en que ésta sea parte.
 
-XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Gobernador del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE JUNIO DE 2011)</small>
+
+XVI. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Titular del Poder Ejecutivo del Estado, en las diferentes ramas de la administración pública, que le sean turnados para su atención.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 28 DE JUNIO DE 2011)</small>
+
+XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario y el Gobernador del Estado.
 
 ###### Artículo 23.
 
@@ -707,7 +713,13 @@ VIII. Tramitar las expropiaciones por causa de utilidad pública y los recursos 
 
 IX. Compilar las leyes, reglamentos, decretos y acuerdos federales y estatales y otras disposiciones de carácter normativo.
 
-X. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Asuntos Jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE JUNIO DE 2011)</small>
+
+X. Dar contestación a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa, al Titular del Poder Ejecutivo del Estado, en las diferentes ramas de la administración pública, que le sean turnados para su atención.
+
+> <small>(ADICIONADA, [N. DE E. REFORMADA] G.G. 28 DE JUNIO DE 2011)</small>
+
+XI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario o el Subsecretario de Asuntos Jurídicos.
 
 ###### Artículo 26.
 
@@ -721,7 +733,9 @@ III. Proporcionar información referente a las leyes, decretos y demás disposic
 
 IV. Vigilar y controlar lo relativo a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes.
 
-V. Coordinar la celebración de los exámenes y tramitar los nombramientos para el ejercicio de la función notarial y supervisar la misma, recibir y procesar dentro del marco legal, las quejas interpuestas en contra de los notarios e implementar las sanciones que se deriven de ellas.
+> <small>(REFORMADA, G.G. 28 DE JUNIO DE 2011)</small>
+
+V. Coordinar la celebración de los exámenes y tramitar los nombramientos para el ejercicio de la función notarial; supervisar la misma, recibir, procesar y resolver dentro del marco legal, las quejas interpuestas en contra de los notarios, imponer e implementar las sanciones que se deriven de ellas; autorizar los volúmenes del protocolo que utilizan los notarios públicos para su actuación.
 
 VI. Llevar el registro de las firmas autógrafas y sellos oficiales de los funcionarios estatales y municipales en el banco de datos del sistema de legalizaciones; legalizar y certificar la autenticidad de las firmas autógrafas y sellos oficiales que se encuentren en un documento público expedido por servidores públicos del Estado de México, así como a los servidores públicos con cargos de elección popular y demás profesionistas, que se encuentren investidos de fe pública.
 
@@ -882,6 +896,14 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 10 DE MAYO DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 28 DE JUNIO DE 2011.
 
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
