@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-61953"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2011-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61953&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-27"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -79,13 +79,17 @@ Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Feder
 
 I. Disposiciones Generales.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
 ###### Artículo 1.
 
 Objeto.
 
-1. El presente Reglamento tiene por objeto regular la celebración y desarrollo de las sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral y la actuación de sus integrantes en las mismas.
+1. El presente Reglamento tiene por objeto regular la celebración y desarrollo de las sesiones de los consejos locales y distritales del Instituto Federal Electoral y la actuación de sus integrantes en las mismas.
 
-2. Las sesiones que celebren los Consejos Locales y Distritales, con motivo de la realización de cómputos locales y distritales, se regirán por lo dispuesto en el Capítulo Tercero, Título Cuarto del Libro Quinto del Código, por las normas establecidas en el presente Reglamento, así como en los lineamientos específicos que para tal efecto apruebe el Consejo General del Instituto Federal Electoral.
+2. Los Consejos Locales y Distritales se integrarán, en términos del artículo 138, párrafos 1 y 2 y 149, párrafos 1 y 2 del Código Federal de Instituciones y Procedimientos Electorales, por el Consejero Presidente, seis Consejeros Electorales, los Representantes de los partidos políticos y el Secretario del Consejo.
+
+3. Las sesiones que celebren los Consejos Locales y Distritales, con motivo de la realización de los Cómputos de entidad federativa y Distritales, se regirán por lo dispuesto en el Capítulo Tercero, Título Cuarto del Libro Quinto del Código Federal de Instituciones y Procedimientos Electorales, por las normas establecidas en el presente Reglamento, así como en los Lineamientos específicos que para tal efecto apruebe el Consejo General del Instituto Federal Electoral.
 
 ###### Artículo 2.
 
@@ -93,11 +97,15 @@ Criterios para su interpretación.
 
 1. Para la interpretación de las disposiciones de este Reglamento, se estará a los criterios establecidos en el párrafo 2 del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales, a las prácticas que mejor garanticen y reflejen la integración de los Consejos Locales y Distritales, la libre expresión y participación de sus integrantes, así como a la eficacia de los acuerdos o resoluciones que se tomen en su seno, en ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
 ###### Artículo 3.
 
 Cómputo de plazos.
 
-1. Para efectos del presente Reglamento, todos los días y horas se considerarán hábiles. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Está disposición será aplicable durante los procesos electorales extraordinarios.
+1. Para efectos del presente Reglamento, todos los días y horas se considerarán hábiles. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Esta disposición será aplicable durante procesos electorales federales ordinarios y extraordinarios.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4.
 
@@ -107,25 +115,25 @@ Glosario.
 
 a) Código: El Código Federal de Instituciones y Procedimientos Electorales;
 
-b) Reglamento: El Reglamento de Sesiones de los Consejos Locales y Distritales;
+b) Cómputo Distrital: La suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas instaladas en un distrito electoral;
 
-c) Reglamento Interior: El Reglamento Interior del Instituto Federal Electoral;
+c) Consejeros: Los Consejeros Electorales de los Consejos Locales o Distritales, según corresponda;
 
-d) Instituto: El Instituto Federal Electoral;
+d) Consejo: Los Consejos Locales o Distritales, respectivos;
 
-e) Consejo: Los Consejos Locales o Distritales respectivos;
+e) Grupo de Trabajo: El integrado por orden del Presidente del Consejo Distrital para realizar el recuento de votos respecto de una elección determinada;
 
-f) Presidente: El Presidente del Consejo Local o Distrital correspondiente;
+f) Instituto: El Instituto Federal Electoral;
 
-g) Consejeros: Los Consejeros Electorales de los Consejos Locales o Distritales que corresponda;
+g) Presidente: El Presidente del Consejo Local o Distrital correspondiente;
 
-h) Representantes: Los Representantes de los Partidos Políticos Nacionales;
+h) Reglamento: El Reglamento de Sesiones de los Consejos Locales y Distritales;
 
-i) Secretario: El Secretario del Consejo Local o Distrital respectivo;
+i) Reglamento Interior: El Reglamento Interior del Instituto Federal Electoral;
 
-j) Cómputo distrital: Suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas instaladas en un distrito electoral; y
+j) Representantes: Los Representantes de los Partidos Políticos Nacionales acreditados ante el Consejo correspondiente; y
 
-k) Grupo de trabajo: El integrado por orden del Presidente del Consejo Distrital para realizar el recuento total de votos respecto de una elección determinada.
+k) Secretario: El Secretario del Consejo Local o Distrital respectivo.
 
 II. De las atribuciones de los integrantes de los Consejos.
 
@@ -145,11 +153,15 @@ d) Iniciar y levantar la sesión, además de declarar los recesos que fueren nec
 
 e) Conducir los trabajos y tomar las medidas necesarias para el adecuado funcionamiento del Consejo;
 
-f) Conceder el uso de la palabra, de acuerdo a este Reglamento;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+f) Conceder el uso de la palabra, de acuerdo con este Reglamento;
 
 g) Consultar a los integrantes del Consejo si los temas del orden del día han sido suficientemente discutidos;
 
-h) Ordenar al Secretario que someta a votación los proyectos de acuerdos y resoluciones del Consejo;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+h) Ordenar al Secretario que someta a votación los proyectos de acuerdo y resoluciones del Consejo;
 
 i) Garantizar el orden en las sesiones, ejerciendo las medidas que se señalan en los artículos 165, párrafo 3 del Código y 13, párrafo 4 de este Reglamento;
 
@@ -171,7 +183,9 @@ q) Salvaguardar los paquetes electorales desde su recepción en la sede del Cons
 
 r) Informar de manera inmediata al Secretario Ejecutivo del Instituto, sobre la realización del recuento total de votos respecto de una elección determinada;
 
-s) Ordenar la creación de grupos de trabajo; y
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+s) Ordenar la creación de Grupos de Trabajo; y
 
 t) Las demás que le otorgue el Código, el Reglamento Interior y este Reglamento.
 
@@ -189,7 +203,9 @@ c) Solicitar al Secretario, de conformidad con las reglas establecidas en este R
 
 d) Integrar las comisiones del Consejo en ejercicio de sus atribuciones conforme al Código, el Reglamento Interior y este Reglamento;
 
-e) Integrar los grupos de trabajo que determine el Presidente; y
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+e) Integrar los Grupos de Trabajo que determine el Presidente; y
 
 f) Las demás que le otorgue el Código, el Reglamento Interior y este Reglamento.
 
@@ -207,7 +223,9 @@ c) Solicitar al Secretario del Consejo, de conformidad con las reglas establecid
 
 d) Participar en los trabajos de las comisiones, de conformidad con el Código, el Reglamento Interior y el presente Reglamento;
 
-e) Integrar los grupos de trabajo que determine el Presidente; y
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+e) Integrar los Grupos de Trabajo que determine el Presidente; y
 
 f) Las demás que le otorgue el Código, el Reglamento Interior y este Reglamento.
 
@@ -233,17 +251,27 @@ g) Dar cuenta con los escritos presentados al Consejo;
 
 h) Tomar las votaciones de los integrantes del Consejo con derecho a voto y dar a conocer el resultado de las mismas;
 
-i) Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-j) Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo;
+i) Informar sobre el cumplimiento de los Acuerdos y Resoluciones del Consejo;
 
-k) Llevar el archivo del Consejo y un registro de las actas, acuerdos y resoluciones aprobados por éste;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+j) Firmar, junto con el Presidente, todos los Acuerdos y Resoluciones que emita el Consejo;
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+k) Llevar el archivo del Consejo y un registro de las actas, Acuerdos y Resoluciones aprobados por éste;
 
 l) Dar fe de lo actuado en las sesiones;
 
-m) Entregar a las instancias de enlace en materia de transparencia las actas, acuerdos y resoluciones aprobadas; votos particulares; así como los informes rendidos en la Sesión del Consejo correspondiente, en términos de lo dispuesto en el reglamento de la materia;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-n) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Locales. Los secretarios de los Consejos Distritales podrán expedir certificaciones de documentos en auxilio del Presidente, en casos excepcionales, y siempre y cuando medie autorización de este último por escrito; y
+m) Entregar a las instancias de enlace en materia de transparencia las actas, Acuerdos y Resoluciones aprobados; votos particulares; así como los informes rendidos en la sesión del Consejo correspondiente, en términos de lo dispuesto en el Reglamento de la materia;
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+n) Expedir las certificaciones que le soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Locales. Los Secretarios de los Consejos Distritales podrán expedir certificaciones de documentos en auxilio del Presidente, en casos excepcionales y siempre y cuando medie autorización de este último por escrito; y
 
 o) Las demás que le otorgue el Código, este Reglamento, el Consejo o su Presidente.
 
@@ -257,23 +285,31 @@ Tipos de sesiones.
 
 a) Son ordinarias aquellas sesiones que deben celebrarse periódicamente de acuerdo con el Código en forma mensual desde la instalación del Consejo, hasta la conclusión de cada proceso electoral.
 
-b) Son extraordinarias aquellas convocadas por el Presidente cuando lo estime necesario o a petición que le formule la mayoría de los Consejeros o de los Representantes, conjunta o indistintamente.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-Será conjunta cuando la petición se formule por la mayoría de los Consejeros y Representantes. La solicitud realizada de forma indistinta será aquella que efectúe la mayoría de los Consejeros o Representantes.
+b) Son extraordinarias aquellas convocadas por el Presidente cuando lo estime necesario o a petición que le formule la mayoría de los consejeros o de los representantes.
 
-c) Son especiales las que se convoquen para un objetivo único y determinado, en términos de lo establecido en los artículos 225, párrafo 5 y 294, párrafo 1 del Código.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+c) Son especiales las que se convoquen para el registro de candidaturas y para los Cómputos Distritales.
 
 Duración de las sesiones.
 
-2. El tiempo límite para la duración de las sesiones será de ocho horas. No obstante, el Consejo podrá decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría de sus integrantes con voto. En su caso, después de cada 3 horas de prolongada la sesión, al concluir el punto respectivo, el Consejo podrá decidir su continuación siguiendo el mismo procedimiento. Aquellas sesiones que sean suspendidas serán citadas para su continuación dentro de las 24 horas siguientes a su suspensión, sin perjuicio de que el propio Consejo acuerde otro plazo para su reanudación.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. El tiempo límite para la duración de las sesiones será de ocho horas. No obstante, el Consejo podrá decidir sin debate, al concluir el punto respectivo, prolongarlas con el acuerdo de la mayoría de sus integrantes con voto. En su caso, después de cada tres horas de prolongada la sesión, al concluir el punto respectivo, el Consejo podrá decidir su continuación siguiendo el mismo procedimiento. Aquellas sesiones que sean suspendidas serán citadas para su continuación dentro de las veinticuatro horas siguientes a su suspensión, sin perjuicio de que el propio Consejo acuerde otro plazo para su reanudación.
 
 Sesión permanente.
 
-3. El Consejo se declarará en sesión permanente en los casos previstos por el Código y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo establecido en el párrafo anterior y el Presidente, previa consulta con el Consejo, podrá declarar los recesos que fueren necesarios, con excepción de las sesiones que celebren los Consejos Distritales para efectuar los cómputos de las elecciones, a fin de que las mismas se desarrollen de manera sucesiva e ininterrumpidamente.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-Lugar en donde celebrar las sesiones.
+3. El Consejo se declarará en sesión permanente en los casos previstos por el Código y cuando así lo estime pertinente. En las sesiones permanentes no operará el límite de tiempo establecido en el párrafo anterior y el Presidente, previa consulta con el Consejo, podrá declarar los recesos que fueren necesarios.
 
-4. Las sesiones se llevarán a cabo en la sala del Consejo salvo que, por causas de fuerza mayor o caso fortuito, en la convocatoria correspondiente se señale un lugar distinto para su celebración.
+Lugar donde se celebrarán las sesiones.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+4. Las sesiones se llevarán a cabo en la sede del Consejo salvo que, por causas de fuerza mayor, caso fortuito o falta de espacio, en la convocatoria correspondiente se señale un lugar distinto para su celebración.
 
 IV. De la Convocatoria de las sesiones.
 
@@ -285,27 +321,41 @@ Convocatoria a sesión ordinaria o especial.
 
 Convocatoria a sesión extraordinaria.
 
-2. Tratándose de las sesiones extraordinarias, la convocatoria mencionada en el párrafo anterior, deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. Sin embargo, en aquellos casos que el Presidente considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria convocatoria por escrito cuando se encuentren presentes en un mismo local todos los integrantes del Consejo.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. Se convocará a sesión extraordinaria cuando el Presidente lo estime necesario o a petición que le formule la mayoría de los Consejeros o de los Representantes, conjunta o indistintamente. Será conjunta cuando la petición se formule por la mayoría de los Consejeros y Representantes. La solicitud realizada de forma indistinta será aquella que efectúe la mayoría de los Consejeros o Representantes.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+3. Tratándose de las sesiones extraordinarias, la convocatoria deberá realizarse por lo menos con cuarenta y ocho horas de anticipación. Sin embargo, en aquellos casos que el Presidente considere de extrema urgencia o gravedad, podrá convocar a sesión extraordinaria fuera del plazo señalado e incluso no será necesaria la convocatoria por escrito cuando se encuentren presentes en un mismo local todos los integrantes del Consejo.
 
 Notificación de la convocatoria.
 
-3. Los integrantes del Consejo deberán designar un domicilio para notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda, y proporcionar su número de fax o dirección de correo electrónico, en caso de contar con dichos medios.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2011)</small>
 
-La notificación de la convocatoria se realizará en el domicilio señalado y, adicionalmente, se publicará en los estrados.
+4. Los integrantes del Consejo deberán designar un domicilio para las notificaciones dentro de la cabecera de distrito o la capital de la entidad, según corresponda. La notificación de la convocatoria se realizará en el domicilio señalado y, adicionalmente, se publicará en los Estrados.
 
 ###### Artículo 11.
 
 Contenido de la convocatoria y del proyecto de orden del día.
 
-1. La convocatoria a sesión deberá contener la fecha, hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria o especial, así como un proyecto de orden del día formulado por el Secretario. A dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo cuenten con información suficiente y oportuna.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-2. Los documentos y anexos se distribuirán, preferentemente, en medios electrónicos o magnéticos, a través de los elementos físicos que al efecto determine el Secretario o, en su caso, conforme a lo que dispongan los acuerdos específicos que sobre el particular decida el Consejo, excepto cuando ello sea materialmente o técnicamente imposible, o bien, cuando la entrega sea solicitada en forma impresa, previa y expresamente mediante escrito dirigido al Secretario, por alguno de los integrantes que hayan de recibirlos.
+1. La convocatoria a sesión deberá contener la fecha, hora y lugar en que la misma se deba celebrar, la mención de ser ordinaria, extraordinaria o especial, así como un proyecto del orden del día formulado por el Secretario. A dicha convocatoria se acompañarán los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, para que los integrantes del Consejo cuenten con información suficiente y oportuna.
 
-3. Los puntos del proyecto del orden del día se enlistarán conforme se presenten al Secretario, quien ordenará los que estén vinculados, antes de someter el proyecto de orden del día a la aprobación del Consejo, atento a lo dispuesto en el artículo 14, párrafo 1 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. Los documentos y anexos se distribuirán, preferentemente, en medios electrónicos o magnéticos, a través de los elementos físicos que al efecto determine el Secretario o, en su caso, conforme a lo que dispongan los acuerdos específicos que sobre el particular decida el Consejo, excepto cuando ello sea material o técnicamente imposible, o bien, cuando la entrega sea solicitada en forma impresa, previa y expresamente mediante escrito dirigido al Secretario, por alguno de los integrantes que hayan de recibirlos.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+3. Los puntos del proyecto del orden del día se enlistarán conforme se presenten al Secretario, quien ordenará los que estén vinculados, antes de someter el proyecto a la aprobación del Consejo, atento a lo dispuesto en el artículo 14, párrafo 1 del presente Reglamento.
 
 4. Con el objeto de que la convocatoria y el proyecto del orden del día puedan ser difundidos a los integrantes del Consejo, con todos y cada uno de los documentos y anexos necesarios para el análisis de los puntos a tratarse en la sesión correspondiente, las diversas áreas y órganos del Instituto involucradas deberán remitirlos al Secretario, por lo menos con dos días de anticipación a la expedición de la convocatoria.
 
-5. Los asuntos del proyecto de orden del día deberán identificar al órgano o integrante de donde provengan.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+5. Los asuntos del proyecto del orden del día deberán identificar al órgano o integrante de donde provengan.
 
 Disponibilidad de la documentación relacionada.
 
@@ -313,15 +363,23 @@ Disponibilidad de la documentación relacionada.
 
 Inclusión de asuntos al proyecto de orden del día.
 
-7. Recibida la convocatoria a una sesión ordinaria, el Presidente, cualquier Consejero o Representante podrá solicitar al Secretario la inclusión de asuntos en el proyecto del orden del día de la sesión, con cuarenta y ocho horas de anticipación a la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos en el proyecto del orden del día, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría remitirá a los integrantes del Consejo un nuevo proyecto que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto de orden del día de la sesión de que se trate.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-8. Recibida la convocatoria a una sesión extraordinaria, el Presidente, cualquier Consejero o Representante podrá solicitar al Secretario del Consejo la inclusión de asuntos en el proyecto del orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría hará del conocimiento de los integrantes del Consejo el nuevo proyecto del orden del día que contenga los asuntos a tratar, y antes de iniciar la sesión entregará los documentos necesarios para su discusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto de orden del día de la sesión de que se trate.
+7. Recibida la convocatoria a una sesión ordinaria, el Presidente, cualquier Consejero o Representante podrá solicitar al Secretario la inclusión de asuntos en el proyecto del orden del día de la sesión, con cuarenta y ocho horas de anticipación a la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos en el proyecto del orden del día, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, la Secretaría remitirá a los integrantes del Consejo un nuevo proyecto que contenga los asuntos que se vayan agregando al original y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto del orden del día de la sesión de que se trate.
 
-9. En el caso de las sesiones extraordinarias y especiales, solamente podrán ventilarse aquellos asuntos para las que fueran convocadas.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+8. Recibida la convocatoria a una sesión extraordinaria, el Presidente, cualquier Consejero o Representante podrá solicitar al Secretario la inclusión de asuntos en el proyecto del orden del día de la sesión con veinticuatro horas de anticipación a la hora señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario estará obligado a incorporar dichos asuntos, con la mención de la instancia o del nombre de la persona que lo solicite. En tal caso, el Secretario hará del conocimiento de los integrantes del Consejo el nuevo proyecto del orden del día que contenga los asuntos a tratar, y antes de iniciar la sesión entregará los documentos necesarios para su discusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto del orden del día de la sesión de que se trate.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+9. En el caso de las sesiones extraordinarias y especiales, solamente podrán tratarse aquellos asuntos para las que fueran convocadas.
 
 Asuntos generales.
 
-10. Unicamente en las sesiones ordinarias, el Presidente, los Consejeros y Representantes podrán solicitar la discusión en “Asuntos Generales” de puntos que no requieran examen previo de documentos, o que el Consejo acuerde que son de obvia y urgente resolución. El Presidente consultará al Consejo inmediatamente después de la aprobación del proyecto de orden del día y al agotarse la discusión del último punto de dicho orden, si existen “Asuntos Generales”, solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, el Secretario dé cuenta de ellos al Consejo. El Presidente someterá dichas solicitudes a la aprobación del Consejo para que éste decida, sin debate, sobre su discusión.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+10. Unicamente en las sesiones ordinarias, el Presidente, los Consejeros y Representantes podrán solicitar la discusión en “Asuntos generales” de puntos que no requieran examen previo de documentos, o que el Consejo acuerde que son de obvia y urgente Resolución. El Presidente consultará al Consejo inmediatamente después de la aprobación del proyecto del orden del día y al agotarse la discusión del último punto, si existen “Asuntos generales”, solicitando en ese segundo momento se indique el tema correspondiente, a fin de que, una vez registrados, el Secretario dé cuenta de ellos al Consejo. El Presidente someterá dichas solicitudes a la aprobación del Consejo para que éste decida, sin debate, sobre su discusión.
 
 V. De la instalación y el desarrollo de la sesión.
 
@@ -333,21 +391,17 @@ Instalación de la sesión.
 
 Quórum.
 
-2. Para que el Consejo pueda sesionar, es necesario que estén presentes cuando menos la mitad más uno de sus integrantes, entre los que deberán estar el Presidente y cuando menos tres de los Consejeros. El Presidente será suplido en sus ausencias momentáneas por el Consejero que él mismo designe.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. Para que el Consejo pueda sesionar, es necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente y cuando menos tres de los Consejeros. El Presidente será suplido en sus ausencias momentáneas por el Consejero que él mismo designe.
 
 3. En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los Consejeros y Representantes que asistan, entre los que deberá estar el Presidente o Secretario. El Secretario informará por escrito sobre la fecha y hora en que se llevará a cabo la sesión a que se refiere este párrafo.
 
 4. Si en el transcurso de la sesión se ausentaran definitivamente de ésta, alguno o algunos de los integrantes del Consejo, y con ello no se alcanzare el quórum legal para continuar con la misma, el Presidente, previa instrucción al Secretario para verificar esta situación, deberá suspenderla y citar para su continuación dentro de las veinticuatro horas siguientes, sin perjuicio de que el propio Consejo decida otro plazo para su continuación. El Secretario informará por escrito sobre la reanudación de la sesión a que se refiere este párrafo.
 
-5. Para el desarrollo de las sesiones de cómputos distritales, se estará a lo siguiente:
+5. (DEROGADO, D.O.F. 28 DE JUNIO DE 2011)
 
-El Presidente será suplido en sus ausencias momentáneas en los términos establecidos en el artículo 15, párrafo 2 de este Reglamento.
-
-En sesión previa a la jornada electoral, los Consejos Distritales podrán acordar que el Secretario del Consejo sea sustituido en sus ausencias por algún miembro del Servicio Profesional Electoral de los que apoyen a la Junta Distrital respectiva. Asimismo, los Consejeros y los Representantes podrán acreditar en sus ausencias a sus suplentes.
-
-6. Para el supuesto de recuento de votos de la totalidad de las casillas instaladas en un distrito, se estará a lo siguiente:
-
-Los Grupos de Trabajo se integrarán con un vocal de la Junta Distrital que los presidirá, Consejeros y Representantes.
+6. (DEROGADO, D.O.F. 28 DE JUNIO DE 2011)
 
 ###### Artículo 13.
 
@@ -357,7 +411,9 @@ Publicidad y orden de las sesiones.
 
 2. En las sesiones sólo podrán participar y hacer uso de la palabra el Presidente, los Consejeros, el Secretario y los Representantes.
 
-Los vocales de Registro Federal de Electores, de Organización Electoral, así como el de Capacitación Electoral y Educación Cívica, podrán participar en términos de lo previsto en el numeral 5 del artículo 16 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+Los Vocales de Registro Federal de Electores, de Organización Electoral, así como el de Capacitación Electoral y Educación Cívica, podrán participar en términos de lo previsto en el numeral 5 del artículo 16 del presente Reglamento.
 
 3. El público asistente deberá guardar el debido orden en el recinto donde se celebren las sesiones, permanecer en silencio y abstenerse de cualquier manifestación.
 
@@ -369,7 +425,9 @@ b) Conminar a abandonar el local, y
 
 c) Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
 
-6 (SIC). El Presidente podrá suspender la sesión por grave alteración del orden en el salón de sesiones, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Presidente decida otro plazo para su continuación.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+5. El Presidente podrá suspender la sesión por grave alteración del orden en el lugar destinado para tal efecto, en tal caso deberán reanudarse antes de veinticuatro horas, salvo que el Presidente decida otro plazo para su continuación.
 
 ###### Artículo 14.
 
@@ -387,7 +445,9 @@ Dispensa de lectura de documentos.
 
 Observaciones, sugerencias o propuestas.
 
-4. Los integrantes del Consejo que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano de dirección, deberán presentarlas por escrito al Secretario, de manera previa o durante el desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones, sugerencias o propuestas verbales o escritas.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+4. Los integrantes del Consejo que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de Acuerdo o Resolución del propio órgano de dirección, deberán presentarlas por escrito al Secretario, de manera previa o durante el desarrollo de la sesión, sin perjuicio de que durante la discusión del punto correspondiente puedan presentar nuevas observaciones, sugerencias o propuestas verbales o escritas.
 
 5. Cuando en el transcurso de la sesión, se presenten propuestas, cuya complejidad hace imposible su redacción inmediata, el Presidente adoptará las medidas pertinentes para efectuar el engrose correspondiente en términos del artículo 23 del presente Reglamento.
 
@@ -413,7 +473,9 @@ Ausencias del Secretario a la sesión.
 
 Mecanismo para la discusión en las sesiones.
 
-1. En la discusión de cada punto del orden del día, el Presidente concederá el uso de la palabra a los miembros del Consejo que quieran hacer uso de ese derecho para ese asunto en particular. Los miembros del Consejo podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Los oradores podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, el Presidente de la Comisión o el integrante del Consejo que proponga el punto, tendrá preferencia de iniciar la primera ronda si así lo solicita.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+1. En la discusión de cada punto del orden del día, el Presidente concederá el uso de la palabra a los miembros del Consejo que quieran hacer uso de ese derecho para el asunto en particular. Los miembros del Consejo podrán intervenir en el orden en que lo soliciten por una sola vez en esta ronda. Los oradores podrán hacer uso de la palabra por diez minutos como máximo. En todo caso, el Presidente o el integrante del Consejo que proponga el punto, tendrá preferencia de iniciar la primera ronda si así lo solicita.
 
 Forma de discusión de los asuntos en la segunda ronda.
 
@@ -425,11 +487,17 @@ Forma de discusión de los asuntos en la tercera ronda.
 
 Intervención en el debate del Secretario.
 
-4. El Secretario podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de oradores. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior, no obsta para que en el transcurso del debate, el Presidente o alguno de los Consejeros soliciten que informe o aclare alguna cuestión.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-Intervención en el debate de los vocales del Registro Federal de Electores, de Organización Electoral y de Capacitación Electoral y Educación Cívica.
+4. El Secretario podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se inscribiere en la lista de oradores. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior, no es obstáculo para que en el transcurso del debate, el Presidente o alguno de los Consejeros soliciten que informe o aclare alguna cuestión.
 
-5. Los vocales del Registro Federal de Electores, de Organización Electoral y, de Capacitación Electoral y Educación Cívica, podrán, sin tomar parte en las deliberaciones, hacer uso de la palabra para rendir informes o ilustrar al Consejo acerca de la materia de su responsabilidad. Sus intervenciones no excederán el tiempo establecido a los oradores para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+Intervención en el debate de los Vocales del Registro Federal de Electores, de Organización Electoral y de Capacitación Electoral y Educación Cívica.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+5. Los Vocales del Registro Federal de Electores, de Organización Electoral y, de Capacitación Electoral y Educación Cívica, podrán, sin tomar parte en las deliberaciones, hacer uso de la palabra para rendir informes o ilustrar al Consejo acerca de la materia de su responsabilidad. Sus intervenciones no excederán el tiempo establecido a los oradores para su primera ronda, sin perjuicio de que el Consejo pueda, en votación económica, prorrogar dicha intervención hasta agotar definitivamente el punto.
 
 Procedimiento cuando nadie pida la palabra.
 
@@ -463,7 +531,9 @@ a) Aplazar la discusión de un asunto pendiente por tiempo determinado o indeter
 
 b) Solicitar algún receso durante la sesión;
 
-c) Solicitar la resolución sobre un aspecto del debate en lo particular;
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+c) Solicitar la Resolución sobre un aspecto del debate en lo particular;
 
 d) Solicitar la suspensión de la sesión por alguna de las causas establecidas en este Reglamento;
 
@@ -481,7 +551,9 @@ Moción de orden (procedimiento).
 
 Moción de procedimiento en la votación.
 
-3. Toda moción establecida en el procedimiento de votación se dirigirá al Presidente del Consejo quien, junto con el Secretario, precisará el punto de acuerdo o resolución que se someta a la consideración del Consejo.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+3. Toda moción establecida en el procedimiento de votación se dirigirá al Presidente del Consejo quien, junto con el Secretario, precisará el punto de Acuerdo o Resolución que se someta a la consideración del Consejo.
 
 ###### Artículo 20.
 
@@ -499,11 +571,17 @@ VII. De las votaciones.
 
 Obligación de votar.
 
-1. El Presidente y los Consejeros deberán votar todo proyecto de acuerdo, programa, dictamen o resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello, salvo cuando hagan del conocimiento del Consejo la existencia de algún impedimento en términos del artículo 8, fracción XI de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o por cualquier otra disposición legal.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-Forma de tomar los acuerdos y resoluciones.
+1. El Presidente y los Consejeros deberán votar todo Proyecto de Acuerdo, programa, Dictamen o Resolución que se ponga a su consideración, y en ningún caso podrán abstenerse de ello, salvo cuando hagan del conocimiento del Consejo la existencia de algún impedimento en términos del artículo 8, fracción XI de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos o por cualquier otra disposición legal.
 
-2. Los acuerdos y resoluciones del Consejo se tomarán por mayoría simple de votos de los integrantes con derecho a ello, salvo en los casos que la ley disponga una mayoría distinta.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+Forma de tomar los Acuerdos y Resoluciones.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. Los Acuerdos y Resoluciones del Consejo se tomarán por mayoría simple de votos de los integrantes con derecho a ello, salvo en los casos que la ley disponga una mayoría distinta.
 
 Votación en lo general y en lo particular.
 
@@ -521,7 +599,9 @@ Procedimiento para la votación.
 
 De los impedimentos, la excusa y la recusación.
 
-1. El Presidente o cualquiera de los Consejeros, estarán impedidos para intervenir, en cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+1. El Presidente o cualquiera de los Consejeros, estarán impedidos para intervenir, en cualquier forma, en la atención, tramitación o Resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
 
 2. Cuando el Presidente o cualquiera de los Consejeros se encuentren en alguno de los supuestos enunciados en el párrafo anterior, deberá excusarse.
 
@@ -531,33 +611,49 @@ a) El Consejero que se considere impedido deberá presentar al Presidente, previ
 
 b) En caso de tratarse del Presidente, deberá manifestarlo en la sesión del Consejo, previo al momento de iniciar la discusión del punto particular.
 
-4. En caso de tener conocimiento de alguna causa que impida al Presidente o a cualquiera de los Consejeros conocer o intervenir en la atención, tramitación o resolución de algún asunto, se podrá formular recusación, siempre y cuando se efectúe previo al momento de iniciar la discusión del caso particular. Para los efectos del presente artículo, se entenderá por recusación, el acto o petición expresa de inhibir para dejar de conocer sobre determinado asunto, que se formule durante las sesiones del Consejo General.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+4. En caso de tener conocimiento de alguna causa que impida al Presidente o a cualquiera de los Consejeros conocer o intervenir en la atención, tramitación o Resolución de algún asunto, se podrá formular recusación, siempre y cuando se efectúe previo al momento de iniciar la discusión del caso particular. Para los efectos del presente artículo, se entenderá por recusación, el acto o petición expresa de inhibir para dejar de conocer sobre determinado asunto, que se formule durante las sesiones del Consejo.
 
 La solicitud de recusación procederá a petición de parte y la podrán formular los Representantes, la cual deberá sustentarse en elementos de prueba idóneos que soporten la causa ostentada, y estar debidamente motivada y fundada.
 
-5. El Consejo deberá resolver de inmediato respecto de la procedencia del impedimento, de la excusa o de la recusación que se haga hacer valer, previo al inicio de la discusión del punto correspondiente.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+5. El Consejo deberá resolver de inmediato respecto de la procedencia del impedimento, de la excusa o de la recusación que se haga valer, previo al inicio de la discusión del punto correspondiente.
 
 ###### Artículo 23.
 
 Engrose, voto particular y devolución.
 
-1. En caso de que el Consejo apruebe argumentos, consideraciones y razonamientos distintos o adicionales a los expresados originalmente en el proyecto, el Secretario realizará el engrose del acuerdo o resolución correspondiente, el cual deberá notificarlo personalmente a cada uno de los miembros del Consejo en un plazo que no exceda de dos días siguientes a la fecha en que éste hubiera sido votado, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-2. En todo caso, la responsabilidad de la elaboración del engrose recaerá en el Secretario, con base en las argumentaciones y acuerdos que sobre el proyecto se hayan propuesto en el seno del Consejo.
+1. Cuando el Consejo apruebe argumentos, consideraciones y razonamientos distintos o adicionales a los expresados originalmente en el proyecto, el Secretario realizará el engrose del Acuerdo o Resolución correspondiente, el cual deberá notificarlo personalmente a cada uno de los miembros del Consejo en un plazo que no exceda de dos días siguientes a la fecha en que éste hubiera sido votado, momento a partir del cual se computarán los plazos para la interposición de medios de impugnación.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. La responsabilidad de la elaboración del engrose recaerá en el Secretario, con base en las argumentaciones y acuerdos que sobre el proyecto se hayan propuesto en el seno del Consejo.
 
 3. En caso de que por su complejidad no sea posible realizar las modificaciones o adiciones al proyecto durante el curso de la sesión, el Secretario deberá realizarlas con posterioridad a la misma, apegándose fielmente al contenido de la versión estenográfica.
 
-4. El Consejero que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del acuerdo o resolución, siempre y cuando se remita al Secretario dentro de los dos días siguientes a su aprobación.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-5. (DEROGADO QUINTO PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 18 DE JULIO DE 2008)
+4. El Consejero que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del Acuerdo o Resolución, siempre y cuando se remita al Secretario dentro de los dos días siguientes a su aprobación.
 
-VIII. Del envío de los acuerdos y resoluciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2011)</small>
+
+5. En el supuesto de que el Consejo rechazara un Proyecto de Resolución relativo a un proyecto administrativo sancionador ordinario, especial o sobre financiamiento y gasto, o en materia de fiscalización de los recursos de los partidos políticos y considerara necesario la elaboración de un nuevo proyecto, se estará a los (sic) dispuesto por el Código y los reglamentos respectivos de la materia.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+VIII. Del envío de los Acuerdos y Resoluciones.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
 ###### Artículo 24.
 
-Envío de los acuerdos y resoluciones.
+Envío de los Acuerdos y Resoluciones.
 
-1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, el Secretario deberá remitir copia simple o en medio electrónico de los acuerdos y resoluciones a los integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones. El Consejo podrá determinar, cuando así lo estime necesario, que la Secretaría realice la remisión de los acuerdos y resoluciones en un plazo más breve.
+1. Dentro de las setenta y dos horas siguientes a la terminación de la sesión en que fueron aprobados, el Secretario deberá remitir copia simple o en medio electrónico de los Acuerdos y Resoluciones a los integrantes del Consejo, y a los órganos locales o distritales de dirección y ejecutivos del Instituto cuando así corresponda para su debido cumplimiento en el ámbito de sus respectivas atribuciones. El Consejo podrá determinar, cuando así lo estime necesario, que el Secretario realice la remisión de los Acuerdos y Resoluciones en un plazo más breve.
 
 IX. De las actas de las sesiones.
 
@@ -569,7 +665,9 @@ Grabación en audio de la sesión.
 
 Integración del acta de la sesión.
 
-2. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo y el sentido de su voto, así como los acuerdos y resoluciones aprobadas.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+2. El acta contendrá íntegramente los datos de identificación de la sesión, la fecha y hora de su inicio y conclusión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones de los integrantes del Consejo y el sentido de su voto, así como los Acuerdos y Resoluciones aprobadas.
 
 Entrega del acta de la sesión.
 
@@ -589,21 +687,35 @@ Nombramiento de comisiones.
 
 Participación de Representantes en comisiones.
 
-2. Los Representantes podrán participar en los trabajos de las comisiones de conformidad a lo establecido en el Código, el Reglamento Interior y el presente Reglamento. Los Representantes no tendrán derecho a votar en la toma de decisiones de las comisiones.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
-XI. De las sesiones de Cómputo Distrital.
+2. Los Representantes podrán participar en los trabajos de las comisiones de conformidad a lo establecido en el Código, el Reglamento Interior y el presente Reglamento. No tendrán derecho a votar en la toma de decisiones de las comisiones.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+XI. De la sesión de Cómputo Distrital.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
 ###### Artículo 27.
 
+Lugar donde se celebrará la sesión.
+
+1. En el caso de los cómputos distritales, el Consejo Distrital previo proceso de planeación conjunta con sus integrantes podrá acordar que se habilite un espacio alterno cuando no sea posible realizar el recuento parcial o total dentro de la sede del órgano distrital ante las circunstancias de falta de espacio. Asimismo, el Presidente deberá informar de dicha situación, con antelación, al Consejo Local correspondiente y al Consejo General. El proceso de planeación incluirá la logística y las medidas de seguridad correspondientes a la habilitación de los espacios para la realización de los recuentos.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 28.
+
 De los actos previos a la sesión de Cómputo Distrital.
 
-1. Previo al inicio de la sesión, el Presidente garantizará que en las sesiones de Cómputos Distritales los integrantes del Consejo Distrital cuenten con copias legibles de las actas de casilla. Para tal efecto sólo se considerarán las actas disponibles, de conformidad con lo dispuesto en el párrafo 3 del artículo 31 de este Reglamento, y no las que se encuentren dentro de los paquetes electorales.
+1. Previo al inicio de la sesión, el Presidente garantizará que en las sesiones de Cómputos Distritales los integrantes del Consejo Distrital cuenten con copias legibles de las actas de casilla. Para tal efecto sólo se considerarán las actas disponibles, de conformidad con lo dispuesto en el párrafo 3 del artículo 34 de este Reglamento, y no las que se encuentren dentro de los paquetes electorales.
 
 2. Las actas deberán estar disponibles en las sedes de los Consejos Distritales a partir de las 10:00 horas del martes siguiente al día de la jornada electoral, para consulta de los Consejeros y Representantes.
 
 3. El Presidente citará, en la convocatoria a la sesión de Cómputo Distrital, a los integrantes de los Consejos, a una reunión de trabajo que se celebrará a partir de las 10:00 horas del martes siguiente al día de la elección, a efecto de que los Representantes presenten sus copias de las actas de escrutinio y cómputo de casilla, con el objeto de identificar las que no sean legibles y las faltantes.
 
-4. El Presidente ordenará la expedición, en su caso, de copias simples de las actas ilegibles o faltantes a cada Representante, mismas que deberán ser entregadas el mismo día.
+4. El Presidente ordenará la expedición, en su caso, de copias simples impresas o en medios electrónicos, de las actas ilegibles o faltantes a cada Representante, las cuales deberán ser entregadas el mismo día.
 
 5. Lo dispuesto en los párrafos anteriores no será obstáculo para que, en ejercicio de sus derechos, los Representantes soliciten copias simples o certificadas de la totalidad de las actas de las casillas instaladas en el distrito. En ese caso, el Presidente garantizará en primer término que cada uno de los Representantes acreditados cuente con un juego completo de actas legibles para fines de verificación de datos durante el desarrollo de los Cómputos Distritales e inmediatamente después, atenderá otras solicitudes.
 
@@ -613,33 +725,67 @@ De los actos previos a la sesión de Cómputo Distrital.
 
 8. Lo dispuesto en los dos párrafos anteriores, no limita el derecho de los integrantes del Consejo Distrital a presentar sus respectivos análisis durante el desarrollo de la sesión de cómputos.
 
-###### Artículo 28.
+9. El Secretario deberá levantar desde el inicio un acta que deje constancia de las actividades desarrolladas en la reunión de trabajo previa a la Sesión de Cómputo Distrital, misma que será firmada al margen y al calce por todos aquellos que intervinieron. Asimismo, agregará los informes que presente el Presidente del Consejo, así como los análisis preliminares que, en su caso, presenten los Representantes.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 29.
 
 Del procedimiento de Cómputo Distrital.
 
 1. Para realizar el Cómputo Distrital de cada una de las elecciones, se seguirá el orden y procedimiento establecido por los artículos 293 al 299 del Código.
 
-###### Artículo 29.
+2. El Presidente garantizará que cada uno de los cómputos se desarrolle de manera sucesiva e ininterrumpida, en los términos establecidos en el Código y en la normatividad que para tal efecto emita el Consejo General.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 30.
+
+Desarrollo de la sesión.
+
+1. Para el desarrollo de la sesión de cómputo distrital se estará a lo siguiente:
+
+a) El Presidente será suplido en sus ausencias momentáneas en los términos establecidos en el artículo 15, párrafo 2 del Reglamento.
+
+b) En sesión previa a la jornada electoral, los Consejos Distritales podrán acordar que el Secretario del Consejo sea sustituido en sus ausencias por algún miembro del Servicio Profesional Electoral de la Junta Distrital respectiva.
+
+c) Asimismo, los Consejeros y los Representantes podrán acreditar en sus ausencias a sus suplentes.
+
+d) En caso de ausencia de los Consejeros a la sesión, el Presidente deberá requerir la presencia de los Consejeros propietarios o suplentes, a fin de garantizar el quórum, sin suspender la sesión.
+
+e) No será aplicable lo dispuesto en el párrafo 4 del artículo 12 del Reglamento.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 31.
 
 Mecanismos de deliberación en la sesión de Cómputo Distrital.
 
 1. Instalada la sesión, se pondrá a consideración del Consejo Distrital el contenido del orden del día.
 
-2. Como primer punto del orden del día el Presidente consultará a los Representantes si desean ejercer el derecho que les concede el artículo 295, párrafo 2 del Código, en caso de que se actualice el supuesto previsto por la referida disposición legal.
+2. Como primer punto del orden del día el Presidente informará de los acuerdos tomados en la reunión de trabajo del día anterior, con base en el acta referida en el artículo 28, párrafo 9; acto seguido consultará a los Representantes si desean ejercer el derecho que les concede el artículo 295, párrafo 2 del Código, en caso de que se actualice el supuesto previsto por la referida disposición legal.
 
 3. En la sesión de Cómputo Distrital, para la discusión de los asuntos en general de su desarrollo, serán aplicables las reglas de participación previstas por el artículo 16 del presente Reglamento.
 
-4. En el caso del debate sobre el contenido específico del acta de escrutinio y cómputo de casilla, se sujetará a las reglas siguientes:
+4. En el caso del debate sobre el contenido específico del acta de escrutinio y cómputo de casilla se sujetará a las reglas siguientes:
 
 a) Se abrirá una primera ronda de intervenciones de tres minutos para exponer su argumentación, correspondiente al asunto respectivo;
 
-b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso se abrirá una segunda ronda de intervenciones de dos minutos para replicas; y
+b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso se abrirá una segunda ronda de intervenciones de dos minutos para réplicas y posteriormente se procederá a votar.
 
-c) Una vez que concluya la segunda ronda, el Presidente consultará al Consejo Distrital si el asunto está suficientemente discutido; de considerarse necesario se abrirá una tercera ronda de dos minutos. Posteriormente se procederá a votar.
+5. En el caso de la validez o nulidad de los votos reservados para ser dirimidos en el pleno del Consejo Distrital, se sujetará a las siguientes reglas:
 
-5. Durante el desarrollo de la sesión de cómputos, a efecto de salvaguardar los derechos de todos los asistentes a la sesión y para garantizar el adecuado curso de las deliberaciones, el Presidente cuidará que los oradores practiquen la moderación en el ejercicio de su derecho al uso de la palabra.
+a) Se abrirá una primera ronda de intervenciones de dos minutos por cada boleta reservada para exponer su argumentación;
 
-###### Artículo 30.
+b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso, se abrirá una segunda ronda de intervenciones de hasta por un minuto para réplicas; y
+
+c) Una vez que concluya la segunda ronda, el Presidente solicitará se proceda a tomar la votación correspondiente.
+
+6. Durante el desarrollo de la sesión de cómputos, a efecto de salvaguardar los derechos de todos los integrantes del Consejo y para garantizar el adecuado curso de las deliberaciones, el Presidente cuidará que los oradores practiquen la moderación en el ejercicio de su derecho al uso de la palabra.
+
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 32.
 
 De las causas para realizar el recuento parcial de votos.
 
@@ -657,11 +803,21 @@ e) Cuando el número de votos nulos sea mayor a la diferencia entre los candidat
 
 f) Cuando todos los votos hayan sido depositados a favor de un mismo partido.
 
-###### Artículo 31.
+> <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 33.
+
+Del recuento parcial de votos en Grupos de Trabajo.
+
+1. El Consejo General emitirá los Lineamientos para determinar la creación y funcionamiento de Grupos de Trabajo para el recuento parcial de votos, cuando estime que existe el riesgo de que la sesión de cómputo distrital no concluya antes del domingo siguiente al de la jornada electoral.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 34.
 
 Del recuento de votos en la totalidad de las casillas.
 
-1. Cuando en una elección exista indicio de que la diferencia de votos en un distrito entre los candidatos que ocupen el primero y el segundo lugar sea igual o menor a un punto porcentual y el Representante del partido que postuló al candidato que ocupa el segundo lugar, solicite al inicio de la sesión de Cómputo Distrital el recuento de votos en la totalidad de las casillas, el Consejo Distrital procederá a realizarlo.
+1. Cuando en una elección exista indicio de que la diferencia de votos en un distrito entre los candidatos que ocupen el primero y el segundo lugar sea igual o menor a un punto porcentual y el Representante que postuló al candidato que ocupa el segundo lugar, solicite al inicio de la sesión de Cómputo Distrital el recuento de votos en la totalidad de las casillas, el Consejo Distrital procederá a realizarlo.
 
 2. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo Distrital de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
 
@@ -675,39 +831,93 @@ c) De la información obtenida de las copias de las actas de escrutinio y cómpu
 
 d) De la información obtenida de las copias de las actas de escrutinio y cómputo de casilla de la elección correspondiente que obren en poder de los Representantes.
 
-4. Cuando el Consejo Distrital tenga duda fundada de la autenticidad de alguna de las copias de las actas presentadas por los Representantes a que se refiere el inciso d) del párrafo anterior, podrá acudir a mecanismos diversos para corroborar su valor de indicio, tales como verificar que reúnan los requisitos de los formatos aprobados por el Consejo General, si presentan datos y firmas que concuerden con los de las Actas de la Jornada Electoral de la misma casilla y sección, u otros adicionales.
+4. Cuando el Consejo Distrital tenga duda fundada de la autenticidad de alguna de las copias de las actas presentadas por los Representantes a que se refiere el inciso d) del párrafo anterior, podrá acudir a mecanismos diversos para corroborar su valor de indicio, tales como verificar que reúnan los requisitos de los formatos aprobados por el Consejo General, si presentan datos y firmas que concuerden con los de las Actas de la Jornada Electoral de la misma casilla, u otros adicionales.
 
 5. Si al término del cómputo, de los resultados contenidos en el Acta de Cómputo Distrital se desprende que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar, es igual o menor a un punto porcentual y el Representante del partido que postuló al candidato que ocupa el segundo lugar solicita el recuento de votos en la totalidad de las casillas instaladas en el distrito, el Consejo Distrital deberá proceder a realizar dicho recuento. En este caso, se excluirán del procedimiento las casillas que ya hubiesen sido objeto de recuento.
 
-###### Artículo 32.
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 35.
 
 De los actos preventivos para la integración de Grupos de Trabajo.
 
-1. Si de la verificación de los resultados preliminares de la elección el Presidente contempla la posible actualización del supuesto a que se refiere el artículo 295, párrafo 4 del Código, estimará el número de grupos de trabajo que podrían hacerse cargo del recuento.
+1. Si de la verificación de los resultados preliminares de la elección el Presidente contempla la posible actualización del supuesto a que se refiere el artículo 295, párrafo 4, del Código, o si se advierte la necesidad de un recuento parcial amplio, informará a los integrantes del Consejo Distrital de la procedencia del recuento en Grupos de Trabajo.
 
-El martes siguiente al día de la elección, durante la reunión de trabajo, lo informara a los integrantes del Consejo. Los partidos políticos, podrán acreditar a partir de ese momento a un Representante y un suplente por cada Grupo de Trabajo, a través de la propia representación ante el Consejo Distrital o por la autoridad estatutaria competente. Los partidos políticos serán los responsables de convocar a sus Representantes y, en su caso, de garantizar su presencia.
+Los partidos políticos, podrán acreditar a sus Representantes por cada Grupo de Trabajo, a través de la propia representación ante el Consejo Distrital o por la autoridad estatutaria competente, de conformidad con los Lineamientos que para tal efecto apruebe el Consejo General. Los partidos políticos serán los responsables de convocar a sus Representantes y, en su caso, de garantizar su presencia.
 
 2. De igual manera, convocará por escrito a los Consejeros suplentes para que asistan a la sesión de Cómputo Distrital, informándoles de las funciones que podrían desempeñar en apoyo de los respectivos Consejos Distritales.
 
-###### Artículo 33.
+3. El Consejo General acordará mediante los linemientos (sic) respectivos que los Grupos de Trabajo cuenten con el personal adscrito a la Junta Distrital o Local Ejecutivas necesario para apoyar su funcionamiento; asimismo determinará la cantidad y funciones específicas que deban desempeñar. Este personal será propuesto por el Presidente y aprobado por el Consejo Distrital al menos un mes antes de la jornada electoral para su oportuna y debida capacitación.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 36.
 
 Del funcionamiento de los Grupos de Trabajo.
 
-1. Los Grupos de Trabajo se integrarán para su funcionamiento con un vocal de la Junta Distrital que los presidirá, al menos un Consejero propietario o, en ausencia de éste, por su suplente convocado para tal fin y los Representantes que hubieran sido acreditados.
+1. En el caso de recuento total o parcial de votos de las casillas instaladas en un distrito, los Grupos de Trabajo se integrarán para su funcionamiento con un Vocal de la Junta Distrital Ejecutiva que los presidirá, al menos un Consejero propietario o suplente convocado para tal fin y los Representantes que hubieran sido acreditados. Asimismo, podrán ser auxiliados en sus funciones por personal de la Junta Distrital Ejecutiva, personal técnico y administrativo, supervisores y capacitadores asistentes electorales, y de ser necesario, de la Junta Local Ejecutiva, con la finalidad de garantizar la continuidad del Cómputo Distrital hasta su conclusión. El personal que designe oficialmente el Consejo Distrital para este fin, deberá portar gafete de identificación con fotografía.
 
-2. El Presidente llevará a cabo las acciones necesarias para convocar y facilitar la oportuna acreditación de los Representantes en dichos grupos. En todo caso, la falta de acreditación o asistencia de los Representantes al momento en que se haya acordado el inicio de las actividades de los grupos de trabajo, no impedirá el funcionamiento de éstos. No se podrá impedir el acceso de los representantes de los Partidos Políticos acreditados ante los grupos de trabajo.
+El personal de la Junta Local y de las Juntas Distritales Ejecutivas, así como el personal técnico, administrativo, supervisores y capacitadores asistentes electorales a que se refiere el párrafo anterior, podrán auxiliar, al Vocal que presida el Grupo de Trabajo, en la instrumentación y desarrollo operativo de los recuentos, bajo la supervisión de éste, consejeros y representantes de partido y conforme a los Lineamientos que al efecto emita el Consejo General, en las siguientes actuaciones:
 
-3. Para realizar el recuento total de los votos respecto de una elección determinada, el Consejo Distrital podrá crear hasta cinco grupos de trabajo.
+a) Colaborar en la apertura de la bodega y traslado de los paquetes electorales a los Grupos de Trabajo;
+
+b) Participar, de ser necesario, en el recuento de los votos;
+
+c) Registrar y suscribir los resultados del recuento de votos de cada casilla sujeta a este procedimiento en los formatos que acuerde el Consejo General para este fin;
+
+d) Turnar, para su integración al acta circunstanciada, el registro de resultados de cada paquete electoral recontado;
+
+e) Validar la información de cada registro con los datos integrados al acta circunstanciada;
+
+f) Reintegrar la documentación a los paquetes electorales de origen y trasladarlos a la bodega del Consejo Distrital.
+
+2. El Presidente llevará a cabo las acciones necesarias para convocar y facilitar la oportuna acreditación de los Representantes en dichos grupos. En todo caso, la falta de acreditación o asistencia de los Representantes al momento en que se haya acordado el inicio de las actividades de los Grupos de Trabajo, no impedirá el funcionamiento de éstos. No se negará el acceso de los Representantes acreditados ante los Grupos de Trabajo.
+
+3. Para realizar el recuento total o parcial de los votos respecto de una elección determinada, el Consejo Distrital podrá crear hasta cinco Grupos de Trabajo.
 
 4. Si durante el recuento de votos realizado en los Grupos de Trabajo se encuentran en el paquete votos de una elección distinta, serán apartados a efecto de que sean contabilizados para la elección de que se trate al momento de que se realice el cómputo respectivo.
 
 5. En caso de que en los Grupos de Trabajo existiera controversia entre sus miembros sobre la validez o nulidad de alguno o algunos de los votos, éstos se reservarán y deberán ser sometidos a consideración y votación del pleno del Consejo para que éste resuelva en definitiva.
 
-6. El vocal de la Junta Distrital, comisionado para presidir cada grupo, levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla, el resultado que arroje la suma de votos por cada partido y candidato, así como el detalle de cada uno de los votos que fueron reservados para que el Consejo se pronuncie sobre su validez o nulidad, identificando la casilla y sección a que pertenecen.
+6. El Vocal comisionado para presidir cada grupo, levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla, el resultado que arroje la suma de votos por cada partido y candidato, así como el detalle de cada uno de los votos que fueron reservados para que el Consejo se pronuncie sobre su validez o nulidad, identificando la casilla y sección a que pertenecen.
 
-7. Al término del recuento, el vocal que hubiera presidido cada grupo deberá entregar de inmediato el acta al Presidente, así como un ejemplar a cada uno de los integrantes del grupo de trabajo, para que sea entregado al Representante en funciones ante el Consejo Distrital. En este momento, y para todo fin, se considerarán concluidos los trabajos y la integración de los propios grupos.
+7. Al término del recuento, el Vocal que hubiera presidido cada grupo deberá entregar de inmediato el acta al Presidente, así como un ejemplar a cada uno de los integrantes del Grupo de Trabajo, para que sea entregado al Representante en funciones ante el Consejo Distrital. En este momento, y para todo fin, se considerarán concluidos los trabajos y la integración de los propios grupos.
 
 8. Una vez que el Consejo Distrital haya decidido en definitiva sobre la validez o nulidad de los votos que hubieran sido reservados, el Presidente realizará en sesión plenaria la suma de los resultados consignados en el acta de cada Grupo de Trabajo y, previa verificación de ésta por los integrantes del Consejo Distrital, asentará el resultado en el Acta Final de Escrutinio y Cómputo de la elección de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+###### Artículo 37.
+
+Previsiones Logísticas
+
+1. Los Consejos Distritales deberán contar con los recursos humanos, materiales, técnicos, logísticos, tecnológicos y financieros necesarios para la realización de los Cómputos Distritales, conforme al presupuesto asignado.
+
+> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 2011)</small>
+
+Artículo 38
+
+Análisis de elegibilidad de candidatos a diputados y senadores, y declaratoria de validez de la elección.
+
+1. Una vez concluido el Cómputo Distrital o de entidad federativa, se hará constar en el acta circunstanciada de la sesión lo siguiente:
+
+a) Los resultados obtenidos;
+
+b) Los incidentes que ocurrieren durante la sesión;
+
+c) La declaración de validez de la elección, para lo cual se verificará el cumplimiento de los requisitos formales de la elección; y
+
+d) La elegibilidad de los candidatos de la fórmula que hubiese obtenido la mayoría de los votos.
+
+2. Para el análisis de la elegibilidad de los candidatos, los Consejos Locales y Distritales verificarán el cumplimiento de los requisitos establecidos en los artículos 55 y 58 de la Constitución Política de los Estados Unidos Mexicanos y 7 del Código.
+
+En el caso de los registros supletorios de las fórmulas de candidatos a Senadores y Diputados por el principio de mayoría relativa que realiza el Consejo General, el Secretario del Consejo General deberá remitir el expediente correspondiente al registro del candidato de que se trate al Consejo respectivo, para que éste pueda realizar la revisión de los requisitos de elegibilidad, con base en la documentación que le haya sido proporcionada.
+
+La determinación que al respecto adopten los Consejos Distritales y Locales deberá estar fundada y motivada.
+
+3. Una vez emitida la declaración de validez de la elección correspondiente, el Presidente expedirá la constancia de mayoría y validez a quien hubiese obtenido el triunfo, salvo el caso de que los integrantes de la fórmula fueren inelegibles.
+
+4. El contenido de este artículo aplicará también para la sesión de Cómputo de entidad federativa a cargo de los Consejos Locales, en el caso de la elección de Senadores.
 
 Segundo.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
@@ -736,3 +946,7 @@ Cuarto.- El presente Reglamento entrará en vigor al día siguiente de su aproba
 Quinto.- El presente Reglamento deberá publicarse en el Diario Oficial de la Federación.
 
 Sexto.- El presente Reglamento deberá publicarse en la Gaceta del Instituto Federal Electoral.
+
+D.O.F. 28 DE JUNIO DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
