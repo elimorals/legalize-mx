@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-a-la-informacion-publica-del-estado-de-40310"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-14"
-last_updated: "2008-08-30"
+last_updated: "2011-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL SUPLEMENTO 4 DEL P.O. DE FECHA 29 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de julio de 2004.
 
@@ -824,3 +826,17 @@ P.O. 30 DE AGOSTO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial Órgano del Gobierno del Estado.
 
 SEGUNDO.- Los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán mediante los instrumentos jurídicos procedentes, los medios para recibir y atender las solicitudes de acceso a la información pública o recursos de revisión y queja a través de sistemas electrónicos, a más tardar un año después de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE JUNIO DE 2011.
+
+Artículo Primero.- La presente Ley entrará en vigor noventa días naturales después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Acceso a la Información Pública del Estado de Zacatecas, emitida mediante decreto número 540, publicado en el Suplemento número del 1 al número 56 del Periódico Oficial, Órgano del Gobierno del Estado, el día catorce de julio del año dos mil cuatro, y se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Dentro del término de quince días naturales siguientes al inicio de la vigencia del presente Decreto, la Comisión deberá emitir la normatividad reglamentaria correspondiente.
+
+Artículo Cuarto.- Para los efectos de lo previsto en el artículo 94 de esta Ley, por única vez, los comisionados durarán en su encargo 5, 6 y 7 años respectivamente. En consecuencia, para la elección de los comisionados, las ternas que al efecto proponga el Titular del Poder Ejecutivo del Estado deberán venir identificadas como A, B y C; de tal manera que el Comisionado que resulte electo de entre la terna A durará en su encargo 5 años, el de la terna B durará 6 años y el de la terna C durará 7 años.
+
+Los comisionados actuales deberán formar parte de las ternas que proponga el Ejecutivo del Estado.
+
+El plazo para que se envíen las ternas será de 30 días naturales contados a partir de la entrada en vigor de esta Ley. Una vez recibidas las ternas, la Legislatura del Estado contará con un plazo de hasta 10 días naturales para la elección de los comisionados.
