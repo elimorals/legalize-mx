@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-recursos-naturales-6336
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-03"
-last_updated: "2008-09-03"
+last_updated: "2011-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y PROTECCION AMBIENTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de septiembre de 2008.
 
@@ -83,49 +83,59 @@ La Secretaría tiene como misión ser una institución que fomente la revaloraci
 
 Para la realización estudios, conducción, planeación, ejecución y despacho de sus atribuciones, la SERNAPAM contará con las siguientes unidades administrativas:
 
-1. SECRETARIO
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
-1.1 Unidad Particular
+1. Secretario
 
-1.2 Secretaría Técnica
+1.1. Unidad Particular
 
-1.3 Unidad de Enlace Interinstitucional
+1.2. Secretaría Técnica
 
-1.4 Dirección de Concertación Social
+1.3. Unidad de Enlace Interinstitucional
 
-1.5 Unidad de Acceso a la Información
+1.4. Dirección de Concertación Social
 
-1.6 Unidad de Planeación Estratégica e Informática
+1.5. Unidad de Acceso a la Información
 
-1.7 Dirección General de Administración
+1.6. Unidad de Planeación Estratégica e Informática
 
-1.8 Dirección de Normatividad y Asuntos Jurídicos
+1.7. Dirección de Normatividad y Asuntos Jurídicos
 
-1.9 Unidad de Seguimiento y Evaluación
+1.8. Unidad de Seguimiento y Evaluación
 
-2. SUBSECRETARÍA DE GESTIÓN PARA LA PROTECCIÓN AMBIENTAL
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2011)</small>
 
-2.1 Dirección de Gestión y Prevención
+2. Dirección General de Administración
 
-2.2 Unidad de Estudios y Evaluación Ambiental
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
-2.3 Dirección de Verificación y Atención de Reclamaciones
+3. Subsecretaria de Gestión para la Protección Ambiental
 
-3. SUBSECRETARÍA DE POLÍTICA AMBIENTAL
+3.1. Dirección de Gestión y Prevención
 
-3.1 Dirección de Fomento de la Política Ambiental
+3.2. Unidad de Estudios y Evaluación Ambiental
 
-3.2 Dirección de Ordenamiento Ecológico
+3.3. Dirección de Verificación y Atención de Reclamaciones
 
-3.3 Dirección de Cultura Ambiental
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
-4. SUBSECRETARÍA DE DESARROLLO SUSTENTABLE
+4. Subsecretaria de Política Ambiental
 
-4.1 Dirección de Participación Social
+4.1. Dirección de Fomento de la Política Ambiental
 
-4.2 Dirección de Desarrollo Comunitario Sustentable
+4.2. Dirección de Ordenamiento Ecológico
 
-4.3 Dirección de Uso y Manejo de los Recursos Naturales
+4.3. Dirección de Cultura Ambiental.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
+
+5. Subsecretaria de Desarrollo Sustentable
+
+5.1. Dirección de Participación Social
+
+5.2. Dirección de Desarrollo Comunitario Sustentable
+
+5.3. Dirección de Uso y Manejo de los Recursos Naturales
 
 ###### Artículo 9.
 
@@ -431,57 +441,7 @@ XX. Las demás que las disposiciones legales y administrativas le confieran o qu
 
 ###### Artículo 18.
 
-Corresponde a la Dirección General de Administración el ejercicio de las siguientes atribuciones:
-
-I. Planear, organizar, dirigir, aplicar y vigilar el cumplimiento de las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales asignados a la .Secretaría;
-
-II. Instrumentar e integrar con las unidades administrativas de la Secretaría los programas de selección, capacitación y desarrollo del personal;
-
-III. Instruir y supervisar que se tramiten los nombramientos, cambio de adscripción, bajas y contratación de personal, de conformidad con las disposiciones legales aplicables;
-
-IV. Definir y vigilar los controles, así como, los medios y formas de identificar al personal en las distintas unidades administrativas que integran esta Secretaría;
-
-V. Resolver con base en las instrucciones del Secretario, los asuntos del personal al servicio de la Secretaría, y realizar los movimientos e incidencias del mismo;
-
-VI. Vigilar el cumplimiento de las leyes y disposiciones administrativas laborales;
-
-VII. Vigilar la aplicación y difusión de las condiciones generales de trabajo y las políticas que señale el Secretario, con apego a las disposiciones legales aplicables;
-
-VIII. Presidir y coordinar el Subcomité de Compras (Estatal) y el Comité de Adquisiciones (Federal) de la Secretaría;
-
-IX. Vigilar el ejercicio del presupuesto de egresos de la Secretaria en los términos que establezca la legislación vigente en la materia, las disposiciones fiscales y la normatividad administrativa;
-
-X. Administrar y autorizar la documentación necesaria, para las erogaciones con cargo al presupuesto de egresos de la Secretaría, así como, vigilar que la documentación comprobatoria del gasto cumpla con las normas y los requisitos de orden legal para su pago;
-
-XI. Supervisar la correcta aplicación y registro de los fondos en efectivo, destinados a la operación de la Secretaría;
-
-XII. Dirigir la realización de la adquisición de bienes y la contratación de servicios para el cumplimiento de los objetivos de la Secretaría, de acuerdo al presupuesto asignado y cumpliendo con las disposiciones legales vigentes;
-
-XIII. Coordinar la elaboración, actualización y control del catálogo de proveedores, de conformidad con la normatividad vigente;
-
-XIV. Coordinar la prestación de los servicios de correspondencia, archivo, fotocopiado, intendencia y vigilancia a las unidades administrativas de la Secretaría;
-
-XV. Supervisar el abasto de insumos y los servicios generales que requieran las unidades administrativas de la Secretaría para su funcionamiento;
-
-XVI. Vigilar el cumplimiento de las normas que en materia de bienes muebles e inmuebles se emitan para su adecuada asignación, distribución y conservación;
-
-XVII. Supervisar el mantenimiento preventivo del parque vehicular de la Secretaría, programándolo en coordinación con las unidades administrativas a las que estén asignados los vehículos;
-
-XVIII. Vigilar que se mantenga actualizado el inventario y controles de resguardos de los activos de la Secretaría;
-
-XIX. Coordinar y supervisar la elaboración, actualización y funcionamiento de los sistemas de control contable, financiero y de procesamiento de información de la Secretaría, de conformidad con las disposiciones vigentes; así como, el ejercicio presupuestal en forma coordinada con la Unidad de Planeación Estratégica e Informática;
-
-XX. Supervisar que se efectúen los pagos a proveedores y demás prestadores de servicios, con los cuales tenga una obligación financiera la Secretaría;
-
-XXI. Coordinar los procesos de entrega-recepción de las unidades administrativas de la Secretaría;
-
-XXII. Colaborar con la Dirección General de Modernización e Innovación Gubernamental en la formulación y ejecución de los programas de mejora regulatoria, calidad y mejora continua, diseño de procesos, simplificación de trámites, medición y evaluación de la gestión pública;
-
-XXIII. Suscribir convenios, contratos y demás actos de carácter administrativo;
-
-XXIV. Asesorar en asuntos de su competencia al Secretario, así como, a las unidades administrativas de la Secretaría; y
-
-XXV. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
+(DEROGADO, P.O. 29 DE JUNIO DE 2011)
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE NORMATIVIDAD Y ASUNTOS JURÍDICOS
 
@@ -567,13 +527,71 @@ XIV. Vigilar que el personal a su cargo cumpla eficientemente con sus funciones;
 
 XV. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2011)</small>
+
+## TÍTULO TERCERO BIS. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE JUNIO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. DE SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2011)</small>
+
+Artículo 20 BIS. Corresponde a la Dirección General de Administración el ejercicio de las siguientes atribuciones:
+
+l. Planear, organizar, dirigir, aplicar y vigilar el cumplimiento de las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales asignados a la Secretaría;
+
+II. Instrumentar e integrar con las unidades administrativas de la Secretaría los programas de selección, capacitación y desarrollo del personal;
+
+III. Instruir y supervisar que se tramiten los nombramientos, cambio de adscripción, bajas y contratación de personal, de conformidad con las disposiciones legales aplicables;
+
+IV. Definir y vigilar los controles, así como, los medios y formas de identificar al personal en las distintas unidades administrativas que integran esta Secretaría;
+
+V. Resolver con base en las instrucciones del Secretario, los asuntos del personal al servicio de la Secretaría, y realizar los movimientos e incidencias del mismo;
+
+VI. Vigilar el cumplimiento de las leyes y disposiciones administrativas laborales;
+
+VII. Vigilar la aplicación y difusión de las condiciones generales de trabajo y las políticas que señale el Secretario, con apego a las disposiciones legales aplicables;
+
+VIII. Presidir y coordinar el Subcomité de Compras (Estatal) y el Comité de Adquisiciones (Federal) de la Secretaría;
+
+IX. Vigilar el ejercicio del presupuesto de egresos de la Secretaría en los términos que establezca la legislación vigente en la materia, las disposiciones fiscales y la normatividad administrativa;
+
+X. Administrar y autorizar la documentación necesaria, para las erogaciones con cargo al presupuesto de egresos de la Secretaría, así como, vigilar que la documentación comprobatoria del gasto cumpla con las normas y los requisitos de orden legal para su pago;
+
+XI. Supervisar la correcta aplicación y registro de los fondos en efectivo, destinados a la operación de la Secretaría;
+
+XII. Dirigir la realización de la adquisición de bienes y la contratación de servicios para el cumplimiento de los objetivos de la Secretaría, de acuerdo al presupuesto asignado y cumpliendo con las disposiciones legales vigentes;
+
+XIII. Coordinar la elaboración, actualización y control del catálogo de proveedores, de conformidad con la normatividad vigente;
+
+XIV. Coordinar la prestación de los servicios de correspondencia, archivo, fotocopiado, intendencia y vigilancia a las unidades administrativas de la Secretaría;
+
+XV. Supervisar el abasto de insumos y los servicios generales que requieran las unidades administrativas de la Secretaría para su funcionamiento;
+
+XVI. Vigilar el cumplimiento de las normas que en materia de bienes muebles e inmuebles se emitan para su adecuada asignación, distribución y conservación;
+
+XVII. Supervisar el mantenimiento preventivo del parque vehicular de la Secretaría, programándolo en coordinación con las unidades administrativas a las que estén asignados los vehículos;
+
+XVIII. Vigilar que se mantenga actualizado el inventario y controles de resguardos de los activos de la Secretaría;
+
+XIX. Coordinar y supervisar la elaboración, actualización y funcionamiento de los sistemas de control contable, financiero y de procesamiento de información de la Secretaría, de conformidad con las disposiciones vigentes; así como, el ejercicio presupuestal en forma coordinada con la Unidad de Planeación Estratégica e Informática;
+
+XX. Supervisar que se efectúen los pagos a proveedores y demás prestadores de servicios, con los cuales tenga una obligación financiera la Secretaría;
+
+XXI. Coordinar los procesos de entrega-recepción de las unidades administrativas de la Secretaría;
+
+XXII. Colaborar con la Dirección General de Modernización e Innovación Gubernamental en la formulación y ejecución de los programas de mejora regulatoria, calidad y mejora continua, diseño de procesos, simplificación de trámites, medición y evaluación de la gestión pública;
+
+XXIII. Suscribir convenios, contratos y demás actos de carácter administrativo;
+
+XXIV. Asesorar en asuntos de su competencia al Secretario, así como, a las unidades administrativas de la Secretaría; y
+
+XXV. Las demás que las disposiciones legales y administrativas le confieran o que le encomiende el Secretario.
+
 ## TÍTULO CUARTO. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS Y DIRECCIONES
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES GENÉRICAS DE LOS SUBSECRETARIOS
-
-## TÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS Y DIRECCIONES
-
-### CAPÍTULO II. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES
 
 ###### Artículo 21.
 
@@ -619,7 +637,7 @@ XIX. Aplicar y vigilar el cumplimiento de las políticas, leyes, normas, reglame
 
 XX. Las demás que le señalen las disposiciones legales y administrativas, así como, las que el Secretario le confiera o encomiende.
 
-### CAPÍTULO I. DE LA SUBSECRETARÍA DE GESTIÓN PARA LA PROTECCIÓN AMBIENTAL
+### CAPÍTULO II. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES
 
 ###### Artículo 22.
 
@@ -651,9 +669,9 @@ XII. Establecer esquemas de coordinación con las áreas afines de la Secretarí
 
 XIII. Las demás que las disposiciones legales y administrativas le confieran y las que le encomiende el Secretario o su superior jerárquico.
 
-## TÍTULO SEXTO. DE LOS SERVIDORES PÚBLICOS
+## TÍTULO QUINTO. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS Y DIRECCIONES
 
-### CAPÍTULO II. DE LA SUBSECRETARÍA DE POLÍTICA AMBIENTAL
+### CAPÍTULO I. DE LA SUBSECRETARÍA DE GESTIÓN PARA LA PROTECCIÓN AMBIENTAL
 
 ###### Artículo 23.
 
@@ -801,7 +819,7 @@ XVIII. Integrar el inventario de pasivos ambientales y dar seguimiento al progra
 
 XIX. Valorar, analizar y/o evaluar los estudios de daños ambientales causados por las obras o actividades públicas o privadas desarrolladas sin contar con la autorización de impacto ambiental correspondiente, así como emitir las medidas que considere pertinentes para mitigar y/o compensar los daños ocasionados.
 
-### CAPÍTULO III. DE LA SUBSECRETARÍA DE DESARROLLO SUSTENTABLE
+### CAPÍTULO II. DE LA SUBSECRETARÍA DE POLÍTICA AMBIENTAL
 
 ###### Artículo 27.
 
@@ -939,7 +957,7 @@ X. Establecer y coordinar el Centro de Documentación, Capacitación y Divulgaci
 
 XI. Promover y difundir el Sistema Estatal de Información Ambiental.
 
-### CAPÍTULO I. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LA SUBSECRETARÍA DE DESARROLLO SUSTENTABLE
 
 ###### Artículo 31.
 
@@ -1067,7 +1085,9 @@ XVI. Promover la participación de los tres órdenes de gobierno y los sectores 
 
 XVII. Ser el órgano asesor en la materia para los municipios que así lo requieran.
 
-### CAPÍTULO II. DE LAS RELACIONES LABORALES
+## TÍTULO SEXTO. DE LOS SERVIDORES PÚBLICOS
+
+### CAPÍTULO I. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 35.
 
@@ -1084,6 +1104,8 @@ Durante las ausencias de los demás titulares de las unidades administrativas, e
 ###### Artículo 38.
 
 En los juicios de amparo en que deba intervenir el Secretario o los servidores públicos de la Secretaría como autoridad responsable, el titular de la Dirección de Normatividad y Asuntos Jurídicos o el servidor público que sea designado al efecto, podrá concurrir a las audiencias, rendir pruebas, formular alegatos, presentar las promociones correspondientes y en general actuar en calidad de delegado, en los términos previstos por la Ley de Amparo en vigor.
+
+### CAPÍTULO II. DE LAS RELACIONES LABORALES
 
 ###### Artículo 39.
 
@@ -1118,3 +1140,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 OCEAN. SILVIA WHIZAR LUGO
 
 SECRETARIA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE JUNIO DE 2011.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
