@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2010-12-11"
+last_updated: "2011-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2011.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -863,13 +863,15 @@ La Legislatura no puede abrir sus sesiones ni funcionar legalmente sin la concur
 
 Los Diputados que no concurran a una sesión, sin causa justificada o sin permiso de la Legislatura, perderán el derecho a la dieta correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 59.
 
-En la apertura del primer periodo ordinario de sesiones el Gobernador o Gobernadora del Estado informará por escrito acerca de las actividades realizadas por el Ejecutivo y el estado que guarden todos los ramos de la Administración Pública, treinta días naturales después el Gobernador o Gobernadora acudirá a la sesión ordinaria de la Legislatura para contestar los cuestionamientos que los diputados hagan respecto al contenido del informe, en los términos previstos por las normas internas que rigen el funcionamiento de la Legislatura.
+En la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio de la Legislatura, el Gobernador o Gobernadora del Estado presentará un informe por escrito en el que manifieste el estado general que guarda la Administración Pública Estatal.
+
+Los diputados realizarán el análisis del informe y podrán solicitar al Gobernador o Gobernadora del Estado, ampliar la información mediante pregunta por escrito y citar a los titulares de las Dependencias y Entidades Paraestatales, así como al Procurador General de Justicia del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley Orgánica del Poder Legislativo y su Reglamento General regularán el ejercicio de esta facultad.
+
+El informe correspondiente al sexto año de ejercicio gubernamental será presentado, a más tardar, el último día del mes de julio del año que corresponda. La Comisión Permanente lo recibirá y convocará al Pleno de la Legislatura a periodo extraordinario de sesiones, el que se realizará dentro de los treinta días naturales siguientes a su recepción, para el sólo efecto de recibir a los titulares de las dependencias y entidades de la Administración Pública Estatal, así como al Procurador General de Justicia del Estado, quienes comparecerán a dar contestación a los cuestionamientos que los Diputados les formulen. Dentro del término referido, la Legislatura podrá solicitar al Titular del Poder Ejecutivo amplíe la información, mediante pregunta por escrito.
 
 #### SECCIÓN SEGUNDA. DE LA INICIATIVA Y FORMACIÓN DE LEYES
 
@@ -2932,3 +2934,7 @@ d) Quienes sean Titulares de las Presidencias de los Municipios integrados en la
 e) Quien sea Titular de la Sindicatura Municipal, integrante del Ayuntamiento, percibirá hasta las dos terceras partes de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal y quien sea Titular de Regiduría, integrante del Ayuntamiento, percibirá hasta la mitad de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal.
 
 SÉPTIMO.- Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, se deberán tipificar y establecer las sanciones que se impondrán, en términos de la legislación penal, administrativa y de responsabilidades, a los servidores públicos cuya conducta tenga por finalidad contravenir o eludir lo dispuesto en las presentes disposiciones.
+
+P.O. 29 DE JUNIO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
