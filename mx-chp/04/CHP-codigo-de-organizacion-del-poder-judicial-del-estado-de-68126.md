@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2011-05-11"
+last_updated: "2011-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -93,9 +93,11 @@ El Consejo de la Judicatura, a través de su Presidente será el órgano encarga
 
 Los acuerdos de la Comisión de Justicia del Poder Judicial se tomarán en pleno respeto a la autonomía e independencia de cada órgano, en los términos de las disposiciones de este Código. Podrán ser publicados en el Periódico Oficial del Estado, cuando se trate de asuntos de interés general.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2011)</small>
+
 ###### Artículo 4°.
 
-Corresponde al Poder Judicial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Chiapas, el desempeño de la función jurisdiccional en los asuntos del orden común, así como en materia de control constitucional local, administrativa, electoral y de justicia especializada para adolescentes; y tratándose del orden federal, en los casos expresamente previstos por las leyes.
+Corresponde al Poder Judicial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Chiapas, el desempeño de la función jurisdiccional en los asuntos del orden común, incluyendo la imposición de penas, su modificación y duración en el ámbito penal, así como en materia de control constitucional local, administrativa, electoral, de justicia especializada para adolescentes; y tratándose del orden federal, en los casos expresamente previstos por las leyes.
 
 De igual manera, atañe al Poder Judicial, la impartición de justicia a través de medios alternativos para la resolución de controversias, en los términos previstos en este Código y demás disposiciones legales aplicables.
 
@@ -853,7 +855,7 @@ VII. Autorizar las actas, los acuerdos y resoluciones, así como expedir constan
 
 VIII. Redactar los acuerdos y actas de los asuntos que se tramiten, recogiendo la firma de los Magistrados de su Sala y firmando, a su vez, dichas actuaciones;
 
-IX. Guardar bajo su responsabilidad los pliegos, expedientes y documentos que las disposiciones legales o el Presidente de la Sala dispongan y devolverlos con las formalidades legales, mientras no se envíen al Archivo Judicial;
+IX. Guardar bajlo su responsabilidad los pliegos, expedientes y documentos que las disposiciones legales o el Presidente de la Sala dispongan y devolverlos con las formalidades legales, mientras no se envíen al Archivo Judicial;
 
 X. Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
 
@@ -969,11 +971,9 @@ Los Juzgados de Primera Instancia Especializados en Justicia para Adolescentes, 
 
 Los Juzgados Especializados en Justicia para Adolescentes, contarán con los funcionarios previstos en el artículo anterior y con un mediador adscrito que será nombrado por el Centro Estatal de Justicia Alternativa; el cual se encargará del procedimiento de mediación como mecanismo alternativo y previo al establecido al adolescente para determinar la existencia de una infracción penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
-
-Los Juzgados de Primera Instancia de Ejecución de Penas, serán aquellos que controlarán la ejecución material de las penas, su duración y modificación; y el estricto cumplimiento de las leyes que regulan la materia.
+Los Juzgados de Primera Instancia de Ejecución de Sentencias, serán aquellos que controlarán la ejecución material de las penas, su duración y modificación; y el estricto cumplimiento de las leyes que regulan la materia.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -1003,7 +1003,9 @@ Los Jueces de Primera Instancia, gozarán de independencia en el ejercicio de su
 
 Son atribuciones de los Jueces de Primera Instancia:
 
-I. Conocer de los asuntos del orden civil, mercantil, familiar, penal, especializado en justicia para adolescentes o de competencia mixta, conforme a la organización jurisdiccional que determine el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2011)</small>
+
+I. Conocer de los asuntos del orden civil, mercantil, familiar, penal, de ejecución de sentencias, especializado en justicia para adolescentes o de competencia mixta, conforme a la organización jurisdiccional que determine el Consejo de la Judicatura;
 
 II. Conocer de los recursos de apelación en contra de las sentencias definitivas dictadas por los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena;
 
@@ -1107,11 +1109,9 @@ VI. Conocer de las diligencias de los exhortos, requisitorias y despachos, relac
 
 VII. De las demás que les reconozcan las disposiciones legales aplicables.
 
-### Capítulo VIII. De las Atribuciones de los Juzgados de Ejecución de Penas
+### Capítulo VIII. De las Atribuciones de los Juzgados de Ejecución de Sentencias
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 82.
 
@@ -1155,23 +1155,41 @@ VII. Las demás que le otorguen este Código, la Ley de la materia y otras dispo
 
 Los Juzgados Mixtos de Primera Instancia tendrán competencia para conocer de los asuntos en materia civil, mercantil, familiar y penal, a que se refiere el presente título y los demás que les reconozcan otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2011)</small>
 
 ### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 85.
 
-Son atribuciones del Juez de Ejecución, las siguientes:
+Son atribuciones del Juez de Ejecución de Sentencias, las siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 I. Mantener o modificar las penas y medidas de seguridad decretadas en sentencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
 II. Controlar la ejecución material de toda pena o medida de seguridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 III. Conocer sobre los beneficios de la libertad anticipada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
+
 IV. Ordenar la cesación de la pena o medida de seguridad, así como su extinción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2011)</small>
 
 V. Las demás atribuciones que el Código de Procedimientos Penales y el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada contemplen.
 
@@ -1323,7 +1341,9 @@ Los Jueces Municipales y sus suplentes, serán nombrados por el Consejo de la Ju
 
 Corresponde a los Jueces Municipales:
 
-I. Conciliar los conflictos en materia civil, mercantil y familiar;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2011)</small>
+
+I. Conocer de los conflictos en materia Civil, Mercantil, Familiar y Penal aplicando para su resolución los medios alternativos de solución de conflictos en los términos de la ley de la materia. El cumplimiento de los acuerdos o convenios que resulten del proceso alternativo de solución de conflictos, serán obligatorios para las partes, en caso de incumplimiento procederá la vía de apremio ante el Juez de Primera Instancia designado por las partes en el propio acuerdo o convenio, a falta de pacto, por el Juez competente del lugar en que se llevó el medio alternativo, y si hubiere varios, por el Juzgado en turno, de conformidad con la ley de la materia en justicia alternativa;
 
 II. Tramitar las prescripciones adquisitivas hasta por el equivalente al monto de ciento ochenta días de salario mínimo vigente en el Estado;
 
@@ -3920,3 +3940,9 @@ Artículo Tercero.- En un término no mayor de sesenta días contados a partir d
 Artículo Cuarto.- Los juicios contenciosos administrativos que se encuentren en trámite hasta antes de la entrada en vigor de la presente reforma, deberán remitirse a la Sala Colegiada de Primera Instancia del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, para su continuación y resolución correspondiente; de igual forma, los recursos de revisión pendientes de resolver serán remitidos a la Sala Colegiada de Segunda Instancia del mismo órgano jurisdiccional.
 
 Artículo Quinto.- Las Salas Colegiadas de Primera y Segunda Instancia del Tribunal de Justicia Electoral y Administrativa, quedarán integradas por los magistrados que sean propuestos por el Presidente de ese órgano jurisdiccional y aprobados por el Pleno del propio Tribunal.
+
+P.O. 29 DE JUNIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
