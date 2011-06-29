@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2010-03-29"
+last_updated: "2011-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -103,33 +103,47 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 Pronósticos dará a conocer oportunamente al público los partidos que integrarán cada concurso, así como el periodo que los comprenda, en los volantes que para el efecto emita Pronósticos.
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 5o.
 
-Se considerará como resultado definitivo de cada partido, el oficial, del cual se tomará conocimiento antes de la Selección de Ganadores. En caso de que por cualquier causa el resultado oficial de un partido no se conozca o se conozca anticipadamente por no haberse iniciado o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos comprendidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido, no se conozca antes de efectuar la Selección de Ganadores, de inmediato se realizará un concurso en los términos de los artículos 10o. y 11o. de este reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Federación de Fútbol correspondiente o cualquiera otra reglamentación.
+Se considerará como resultado definitivo de cada partido, el oficial, del cual se tomará conocimiento antes de la Selección de Ganadores. Para todos los efectos legales, la Selección de Ganadores se realizará con base en los datos de los resultados oficiales de los partidos concluidos en la quiniela, que la Institución obtenga a partir de la consulta a diversas fuentes informativas y noticiosas, y dicha selección de ganadores se realizará el mismo día o al día siguiente de celebrado el último de los partidos incluidos en la quiniela.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+
+###### Artículo 5o.
+
+bis.- En caso de que por cualquier causa el resultado oficial de un partido no se conozca o se conozca anticipadamente por no haberse iniciado o por no haberse concluido en el tiempo reglamentario sea cual fuere el tiempo que faltase, o por haberse adelantado o pospuesto a la fecha de su celebración programada y siempre que aquella fecha salga del lapso de celebración de los otros partidos comprendidos en la quiniela programada o que por cualquier causa, motivo, razón o circunstancia, el resultado oficial de un partido, no se conozca antes de efectuar la selección de ganadores, de inmediato se realizará un sorteo en los términos de los artículos 10o. y 11o. de este reglamento, independientemente de lo que al respecto pudiera señalar la reglamentación de la Federación de Fútbol correspondiente o cualquiera otra reglamentación.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 6o.
 
-En cualquier partido que se programe y que deba concluir con la determinación de un equipo ganador, Pronósticos, para los fines de este reglamento, sólo tomará como resultado definitivo, el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición, que se haya pactado entre los equipos contendientes.
+En cualquier partido que se programe y que deba concluir con la determinación de un equipo ganador, Pronósticos, para los fines de este reglamento, sólo tomará como resultado oficial, el obtenido durante el tiempo reglamentario, excluyendo tiempos extras o cualquier otra condición, que se haya pactado entre los equipos contendientes.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 7o.
 
-La anulación o modificación posterior a la fecha de la Selección de Ganadores de los resultados de un partido de fútbol, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados que se conozcan antes de la Selección de Ganadores, de acuerdo con lo establecido en el artículo 10o. de este Reglamento.
+La anulación o modificación posterior a la fecha de la selección de ganadores de los resultados de un partido de fútbol, por parte de autoridades deportivas o judiciales que tengan competencia para ello, no tendrá efectos en relación con un concurso determinado, el que siempre se basará en los resultados oficiales que se conozcan antes de la selección de ganadores, de acuerdo con lo establecido en el artículo 10o. de este reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 8o.
 
-Si después de iniciado un partido de fútbol programado para un concurso, fuere suspendido por cualquier motivo, y el resultado definitivo de éste no se determinara antes de la Selección de Ganadores, se considerará como resultado válido el que se obtenga mediante el procedimiento señalado en el artículo 10o. de este Reglamento.
+Si después de iniciado un partido de fútbol programado para un concurso, fuere suspendido por cualquier motivo, y el resultado oficial de éste no se determinara antes de la selección de ganadores, se considerará como resultado oficial el que se obtenga mediante el procedimiento señalado en el artículo 10o. de este reglamento.
 
 ###### Artículo 9o.
 
 No se considerará realizado el partido cuando éste no se inicie por cualquier razón, inclusive por falta de comparecencia de los equipos, y que motive la declaratoria de las autoridades deportivas de un resultado oficial en favor del equipo que sí se haya presentado.
 
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+
 ###### Artículo 10o.
 
-En los casos de suspensión, o cuando se considere no realizado un partido, para el solo efecto de llevar a cabo la Selección de Ganadores de un concurso, se realizará a la brevedad posible y antes de la celebración de este acto un sorteo público en la oficina matriz de Pronósticos para obtener un resultado formal del partido no realizado o no concluido, considerándosele, según resulte el sorteo, favorable a alguno de los equipos o bien un empate.
+En los casos de suspensión, o cuando se considere no realizado un partido, para el solo efecto de llevar a cabo la selección de ganadores de un concurso, se realizará a la brevedad posible y antes de la celebración de este acto un sorteo público en la oficina matriz de Pronósticos para obtener un resultado oficial del partido no realizado o no concluido, considerándosele, según resulte el sorteo, favorable a alguno de los equipos o bien un empate.
 
-El resultado del sorteo se tomará en cuenta en la Selección de Ganadores como si el partido se hubiere realizado o concluido.
+El resultado del sorteo se considerará como resultado oficial para la selección de ganadores como si el partido se hubiere realizado o concluido.
 
 ###### Artículo 11o.
 
@@ -331,7 +345,9 @@ En caso de que hubiera alguna reclamación, la Comisión Dictaminadora de Reclam
 
 Las resoluciones se tomarán por mayoría de votos de los integrantes de la Comisión y serán definitivas.
 
-Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2011)</small>
+
+Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que proceda, con cargo al Fondo de Garantía establecido.
 
 ###### Artículo 26o.
 
@@ -680,6 +696,10 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las esta
 D.O.F. 29 DE MARZO DE 2010.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE JUNIO DE 2011.
+
+UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
