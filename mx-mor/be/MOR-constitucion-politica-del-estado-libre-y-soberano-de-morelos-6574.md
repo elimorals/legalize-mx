@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2011-05-25"
+last_updated: "2011-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2011.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1368,19 +1368,23 @@ DEL GOBERNADOR.
 
 Se deposita el ejercicio del Poder Ejecutivo en un solo individuo, que se denominará Gobernador Constitucional del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2011)</small>
 
 ###### Artículo 58.
 
 Para ser Gobernador se requiere:
 
-I.- Ser ciudadano Morelense por nacimiento;
+(NOTA: EL 24 DE OCTUBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II.- Tener 35 años cumplidos el día de la elección;
+I. Ser mexicano por nacimiento E HIJO DE MADRE O PADRE MEXICANO POR NACIMIENTO;
 
-III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección;
+II. Estar en pleno goce de sus derechos;
 
-IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1991)
+III. Ser morelense por nacimiento con residencia efectiva no menor a cinco años antes de la elección, o morelense por residencia con una vecindad habitual efectiva en el estado no menor a cinco años inmediatamente anteriores al día de la elección.
+
+La residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal; y
+
+IV. Tener treinta años de edad cumplidos al día de la elección.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -3032,7 +3036,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
 
-T R A N S I T O R I O S.
+T R A N S I TO R I O S.
 
 Artículo Primero.- Esta Constitución se publicará por bando solemne en la Capital del Estado y en las Cabeceras de los Municipios, el día veinte del mes de noviembre, y entrará en vigor inmediatamente.
 
@@ -4029,3 +4033,9 @@ ARTÍCULO TERCERO (sic). Se derogan todas aquellas disposiciones que contravenga
 P.O. 25 DE MAYO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Tierra y Libertad" órgano de difusión de Gobierno del Estado.
+
+P.O. 29 DE JUNIO DE 2011.
+
+Primero.- Aprobado que sea el presente en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial ''Tierra y Libertad".
+
+Segundo.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
