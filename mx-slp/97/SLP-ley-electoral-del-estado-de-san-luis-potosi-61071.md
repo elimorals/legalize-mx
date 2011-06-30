@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-61071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2011-05-22"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -3806,3 +3808,23 @@ P.O. 22 DE MAYO DE 2011.
 PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 30 DE JUNIO DE 2011.
+
+PRIMERO. Esta Ley entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia del presente Decreto se abroga la Ley Electoral del Estado de San Luis Potosí, expedida como Decreto 362 de la Quincuagésima Octava Legislatura Constitucional del Congreso del Estado de San Luis Potosí, y publicada el 10 de mayo de 2008 en el Periódico Oficial del Estado.
+
+TERCERO. Para garantizar la debida observancia de este Decreto se habrán de seguir las previsiones siguientes:
+
+1a. Por única vez, para los efectos que se establecen en el artículo 91 de la Ley Electoral, los consejeros ciudadanos que sean electos para integrar el Pleno del Consejo en el año 2014, según el orden de prelación en la lista que apruebe el Congreso del Estado, durarán en su encargo, del uno al tres, seis años; del cuatro al seis, cuatro años; y del siete al nueve, dos años; sin perjuicio de que cualquiera de ellos pueda ser nombrado como Presidente del Consejo, en cuyo caso, no podrá ejercerlo después del periodo para el que fuese electo.
+
+En caso de que los consejeros ciudadanos electos para integrar el Pleno del Consejo en el periodo 2011 al 2014, sean ratificados para el periodo inmediato siguiente, éstos no podrán durar en su nuevo encargo más de cuatro años.
+
+2a. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de sesenta días naturales para expedir o adecuar sus disposiciones reglamentarias, administrativas y estatutarias a este mismo Decreto.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor de esta Ley, se concluirán en los términos de la Ley Electoral que se abroga, por las autoridades que, conforme las disposiciones de la misma, y la de la Ley del Sistema de Medios de Impugnación en Materia Electoral, resulten competentes o que sustituyan a las autoridades que dejen de existir.
+
+QUINTO. En el plazo de noventa días naturales siguientes a la entrada en vigor del presente Decreto, los poderes del Estado, los organismos constitucionales autónomos, los ayuntamientos, y cualquier institución pública, en lo que resulte aplicable para la observancia de este Decreto, deberán adecuar su legislación interna y administrativa, a efecto de observar inexcusablemente las disposiciones que en materia de propaganda gubernamental o institucional y poIíticoelectoral se disponen en la sección cuarta del capítulo segundo del Titulo Décimo Segundo de la Ley Electoral del Estado.
+
+SEXTO. Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
