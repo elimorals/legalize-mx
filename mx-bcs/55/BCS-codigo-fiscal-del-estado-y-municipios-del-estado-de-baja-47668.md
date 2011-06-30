@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2011-06-06"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JUNIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JUNIO DE 2011.</small>
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -153,8 +153,6 @@ Cuando las autoridades fiscales del Estado, actúen en funciones de autoridad fi
 
 Las leyes fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado y en cada uno de los municipios, en su caso, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, salvo que en ellas se establezca una fecha posterior.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JUNIO DE 2011)</small>
 
 ###### Artículo 11.
@@ -211,7 +209,19 @@ d) Los directores, titulares, jefes o recaudadores de rentas de las tesorerías;
 
 e) Quienes conforme a las disposiciones municipales, tengan facultades para recaudar y administrar ingresos fiscales.
 
-Son auxiliares de las autoridades fiscales del Estado y los municipios, los siguientes: (sic)
+Son auxiliares de las autoridades fiscales del Estado y los municipios, los siguientes:
+
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 2011)</small>
+
+a) Los visitadores o inspectores fiscales;
+
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 2011)</small>
+
+b) Los notificadores y ejecutores fiscales;
+
+> <small>(F. DE E., B.O. 30 DE JUNIO DE 2011)</small>
+
+c) Quienes conforme a las disposiciones estatales y municipales, tengan facultades similares a las señaladas en los incisos anteriores.
 
 > <small>(ADICIONADO, B.O. 6 DE JUNIO DE 2011)</small>
 
