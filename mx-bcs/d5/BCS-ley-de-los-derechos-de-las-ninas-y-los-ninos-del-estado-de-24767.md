@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2007-12-31"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2011.
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -240,6 +240,10 @@ Y los demás que les reconozcan otros ordenamientos legales.
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 Artículo 5 bis.- Las niñas y los niños gozaran de todos los derechos y garantías contemplados en la Constitución Política de los Estados Unidos Mexicanos, en la Convención sobre los Derechos de la Niñez, en la Ley Federal para la Protección de los Derechos de las Niñas, Niños y Adolescentes, en la Constitución Política del Estado Libre y Soberano de Baja California Sur, en los Principios Generales de Derecho, y en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2011)</small>
+
+Artículo 5 BIS-A.- Las autoridades del Estado implementarán en forma coordinada con la Federación y los Municipios en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate.
 
 ###### Artículo 6.
 
@@ -531,7 +535,7 @@ II. Impulsar dentro de su demarcación las actividades de defensa y representaci
 
 III. Promover la concertación entre los sectores público, privado y social, para mejorar su calidad de vida en la demarcación territorial.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO VI. DEL COMITE ESTATAL DE SEGUIMIENTO Y VIGILANCIA DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN BAJA CALIFORNIA SUR
 
@@ -895,10 +899,20 @@ EL SECRETARIO GENERAL DEL GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 31 DE DICIEMBRE DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se concede un plazo de 120 días naturales a partir de la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado, para que el Comité Estatal de Seguimiento y Vigilancia de los Derechos de las Niñas y Niños en Baja California Sur, expida el Reglamento a que se hace referencia en la misma. De igual forma, se concede dicho plazo al Comité para que proponga al Titular del Poder Ejecutivo, u organismos descentralizados, en su caso, las adecuaciones necesarias a las normas de carácter administrativo a efecto se (sic) que se armonicen con los alcances y objetivos de la presente Ley.
+
+B.O. 30 DE JUNIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se le concede al titular de la Secretaria de Seguridad Pública y las demás Autoridades del Estado un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para que implementen en forma coordinada con la Federación, el Estado y los Municipios, respectivamente, y en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate.
