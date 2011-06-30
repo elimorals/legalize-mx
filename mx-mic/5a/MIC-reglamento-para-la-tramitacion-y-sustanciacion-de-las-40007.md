@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-la-tramitacion-y-sustanciacion-de-las-40007"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-17"
-last_updated: "2011-06-20"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO PARA LA TRAMITACION Y SUSTANCIACION DE LAS FALTAS ADMINISTRATIVAS Y APLICACION DE LAS SANCIONES ESTABLECIDAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA LA TRAMITACION Y SUSTANCIACION DE LAS FALTAS ADMINISTRATIVAS Y APLICACION DE LAS SANCIONES ESTABLECIDAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 30 DE JUNIO DE 2011.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el jueves 17 de junio de 2004.
 
@@ -533,11 +533,9 @@ Inmediatamente transcurrido el plazo para la presentación de los alegatos, el S
 
 Una vez cerrada la instrucción el Secretario General elaborará el Proyecto de Resolución y lo remitirá en un plazo no mayor de veinte días a los integrantes del Consejo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2011) (F. DE E., P.O. 30 DE JUNIO DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 2011)</small>
-
-### CAPÍTULO SÉPTIMO. DE LA RESOLUCIÓN
+### CAPÍTULO SÉPTIMO. DE LA ELABORACIÓN DEL PROYECTO DE RESOLUCIÓN
 
 ###### Artículo 44.
 
@@ -661,11 +659,19 @@ El Consejo, para fijar la sanción correspondiente, tomara en cuenta las circuns
 
 La sanción deberá ser adecuada, eficaz, ejemplar y disuasiva, se entenderá por:
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2011)</small>
+
 Adecuada: Cuando resulta apropiada para la gravedad de la infracción y las circunstancias en que se realizó el hecho ilícito, así como las condiciones particulares de los partidos políticos infractores.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2011)</small>
 
 Eficaz: En la medida en que se acerca a un ideal de consecuencia mínima necesaria para asegurar la vigencia de los bienes jurídicos que fueron puestos en peligro o, en su caso, lesionados con las conductas irregulares y, en consecuencia, restablecer la preeminencia del Estado constitucional democrático de derecho.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2011)</small>
+
 Ejemplar: Cuando coadyuva a la prevención general de los ilícitos por parte de todos los partidos políticos y demás sujetos que se encuentren obligados a realizar conductas que estén de acuerdo con el ordenamiento jurídico electoral y a abstenerse de efectuar aquellas otras que lo vulneren.
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2011)</small>
 
 Disuasiva: En la medida en que inhibe a los sujetos infractores y demás destinatarios para cometer conductas similares que vulneren el ordenamiento jurídico electoral y los persuade de que deben cumplir con sus obligaciones.
 
@@ -704,8 +710,6 @@ Toda resolución deberá ser publicitada en la página de internet del Instituto
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEGUNDO BIS. PROCEDIMIENTO ESPECIAL SANCIONADOR
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2011)</small>
 
@@ -761,7 +765,9 @@ d) Concluido el desahogo, la Secretaría General concederá en forma sucesiva el
 
 12. En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, el Consejo ordenará el cese definitivo del acto violatorio, el retiro físico o la inmediata suspensión de la distribución o difusión de propaganda violatoria del Código, cualquiera que sea su forma, o medio de difusión, salvo radio y televisión, e impondrá las sanciones correspondientes, de acuerdo a lo dispuesto en el artículo 279 del Código.
 
-13. Las medidas cautelares se emitirán de acuerdo a lo establecido en el título sexto de este Reglamento.
+> <small>(F. DE E., P.O. 30 DE JUNIO DE 2011)</small>
+
+13. Las medidas cautelares se emitirán de acuerdo a lo establecido en el título quinto de este Reglamento.
 
 14. Cuando las denuncias se presenten en cualquiera de los órganos desconcentrados del Instituto, deberán remitirse de manera inmediata a la Secretaría General para su trámite y sustanciación; los Secretarios de los comités municipales y distritales deberán realizar las diligencias necesarias, para constatar hechos, impedir el ocultamiento, menoscabo o destrucción de indicios o pruebas, así como para allegarse de elementos probatorios adicionales y enviar el resultado a la Secretaría General en alcance de la denuncia.
 
@@ -933,7 +939,7 @@ Las denuncias presentadas contra funcionarios electorales serán sustanciadas po
 
 ###### Artículo 73.
 
-I. Las quejas o denuncias serán improcedentes:
+1. Las quejas o denuncias serán improcedentes:
 
 I. Cuando se trate de actos u omisiones imputados a una misma persona que hayan sido materia de otra queja o denuncia y que cuenten con resolución definitiva; y,
 
