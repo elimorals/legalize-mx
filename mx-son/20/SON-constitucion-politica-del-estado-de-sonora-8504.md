@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2010-12-16"
+last_updated: "2011-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2011.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -565,7 +565,9 @@ VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto reli
 
 VII. No haber sido diputado propietario en el período en que se fectúe (sic) la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
-VIII. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubiesen estado en ejercicio en el período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2011)</small>
+
+VIlI.- No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
 
 > <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
@@ -1211,7 +1213,7 @@ b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier de
 
 ###### Artículo 74.
 
-En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo, dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
 Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
@@ -3264,6 +3266,14 @@ Una vez realizadas las adecuaciones normativas relativas al marco jurídico en e
 ###### ARTÍCULO QUINTO.
 
 Hasta en tanto se realicen las adecuaciones pertinentes al marco legislativo local, en todos los casos en que la legislación del Estado de Sonora haga referencia al Tribunal Estatal Electoral y de Transparencia Informativa se deberá entender que se hace referencia al Tribunal Estatal Electoral previsto en esta reforma constitucional.
+
+P.O. 30 DE JUNIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+La presente ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
