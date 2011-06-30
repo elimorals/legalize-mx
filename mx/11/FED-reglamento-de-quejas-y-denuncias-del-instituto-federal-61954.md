@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-quejas-y-denuncias-del-instituto-federal-61954"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2009-02-06"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61954&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL POR EL QUE SE APRUEBA EL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 30 DE JUNIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -1850,3 +1852,25 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.
 Segundo.- Las modificaciones al presente Reglamento entrarán en vigor al día siguiente de su aprobación por el Consejo General del Instituto Federal Electoral.
 
 Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+D.O.F. 30 DE JUNIO DE 2011.
+
+DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.
+
+...
+
+Segundo.- Se abroga el Reglamento de Quejas y Denuncias del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 6 de febrero de 2009.
+
+Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+## TRANSITORIOS
+
+Primero.- El presente Reglamento entrará en vigor tres días hábiles posteriores a su aprobación.
+
+Segundo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente acuerdo, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero.- Se derogan todas aquellas disposiciones reglamentarias y demás normatividad que se oponga al presente Reglamento.
+
+Cuarto.- En tanto se expide la ley reglamentaria del derecho de réplica establecido en el primer párrafo del artículo 6° de la Constitución, de acuerdo a lo previsto en el artículo Décimo transitorio del Código Federal de Instituciones y Procedimientos Electorales, los casos de que tenga conocimiento el Instituto sobre esta materia serán tramitados de acuerdo a las reglas del procedimiento especial sancionador previsto en este Reglamento
+
+Quinto.- En un plazo que no exceda de 45 días hábiles, el Consejo General aprobará lineamientos para la notificación electrónica.
