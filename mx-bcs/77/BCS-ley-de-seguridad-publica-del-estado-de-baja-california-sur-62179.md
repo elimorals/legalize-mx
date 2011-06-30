@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-6217
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-08"
-last_updated: "2008-07-08"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -275,7 +275,13 @@ X.- Colaborar por orden del Titular del Ejecutivo Estatal con los servicios de p
 
 XI.- Formar y operar el Centro Estatal de Control de Confianza, instancia con dependencia directa del Secretario de Seguridad Pública, que a través de la aplicación de pruebas poligráficas, toxicologícas, psicológicas, psiquiátricas, de entorno social, de historial profesional y otras, evaluaran la confiabilidad, honorabilidad de los elementos estatales y municipales de las corporaciones de seguridad pública, a solicitud de las autoridades correspondientes; y
 
-XII.- Las demás que señale esta Ley y demás aplicables.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2011)</small>
+
+XII.- La implementación en forma coordinada con la Federación, el Estado y los Municipios en el ámbito de sus respectivas atribuciones, de programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate; y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2011)</small>
+
+XIII.- Las demás que señale esta Ley y demás aplicables.
 
 ## TÍTULO TERCERO. DE LA COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
 
@@ -1580,3 +1586,15 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ARMANDO DÍAZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE JUNIO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se le concede al titular de la Secretaria de Seguridad Pública y las demás Autoridades del Estado un término de sesenta días, contados a partir de la entrada en vigor del presente Decreto, para que implementen en forma coordinada con la Federación, el Estado y los Municipios, respectivamente, y en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos o secuestrados, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización o rescate.
