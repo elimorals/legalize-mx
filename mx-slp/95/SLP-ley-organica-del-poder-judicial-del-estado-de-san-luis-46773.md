@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2011-06-25"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -395,9 +395,11 @@ El Congreso del Estado deberá hacer del conocimiento público la designación q
 
 Las salas de Primera Instancia del Tribunal Electoral, funcionarán únicamente durante el plazo señalado en la presente Ley.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2011)</small>
+
 ###### ARTICULO 31.
 
-Las salas de Primera Instancia tendrán competencia para conocer de los recursos de revisión; así como de los de inconformidad que se presenten para impugnar lo relativo a las fracciones I a V del artículo 191 de la Ley Electoral del Estado, tanto para elecciones ordinarias, como extraordinarias.
+Las salas de Primera Instancia tendrán competencia para conocer de los recursos de revisión que estipula el artículo 45 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado; así como de los juicios de nulidad que se presenten conforme a los artículos, 265, 266, y 267 de la Ley Electoral del Estado, y 50 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado, tanto para elecciones ordinarias, como extraordinarias.
 
 ###### ARTICULO 32.
 
@@ -451,13 +453,13 @@ El Congreso del Estado deberá publicar en el Periódico Oficial del Estado, la 
 
 El Presidente de la Sala de Segunda Instancia será electo por sus integrantes de entre sus miembros, y fungirá a la vez como Presidente del Tribunal Electoral y durará en su cargo un año, pudiendo ser reelecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 40.
 
-La Sala de Segunda Instancia funcionará en forma colegiada, y será competente para conocer durante y fuera del proceso electoral de los recursos de Revisión y Reconsideración.
+La Sala de Segunda Instancia funcionará en forma colegiada y será competente para conocer, fuera del proceso electoral, del recurso de revisión; y durante el proceso electoral, del recurso de reconsideración.
 
-La Sala de Segunda Instancia será la responsable de las tareas de formación, investigación, capacitación y difusión en la materia.
+La Sala de Segunda Instancia será la responsable de las tareas de, formación, investigación, capacitación y difusión en la materia.
 
 ###### ARTICULO 41.
 
@@ -2186,3 +2188,11 @@ P.O. 25 DE JUNIO DE 2011.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a éste.
+
+P.O. 30 DE JUNIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se concede un plazo de sesenta días naturales para que el Consejo Estatal Electoral y de Participación Ciudadana del Estado, y el Poder Judicial del Estado, ajusten la reglamentación interna y administrativa que corresponda, para asegurar el cumplimiento de este Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
