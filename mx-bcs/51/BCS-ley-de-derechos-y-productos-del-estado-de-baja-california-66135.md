@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2008-12-24"
+last_updated: "2011-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL B.O., DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -615,7 +617,7 @@ Servicios prestados por la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 18.
 
-Por los servicios en materia ecológica y ambiental, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios en materia ecológica, ambiental y urbana, se causarán y pagarán derechos conforme a la siguiente:
 
 T A R I F A:
 
@@ -625,27 +627,29 @@ MÍNIMOS VIGENTE
 
 EN EL ESTADO
 
+A. En materia Ambiental y Ecológica:
+
 I. Por verificación y evaluación:
 
-a. Recepción y Evaluación del Informe Preventivo; 40
+a) Recepción y Evaluación del Informe Preventivo; 40
 
 b) Recepción y Evaluación de la Manifestación
 
 de Impacto Ambiental en Modalidad General; 73
 
-c). Recepción y Evaluación de la Manifestación
+c) Recepción y Evaluación de la Manifestación
 
 de Impacto Ambiental en Modalidad Intermedia; 105
 
-d). Recepción y Evaluación de la Manifestación
+d) Recepción y Evaluación de la Manifestación
 
 de Impacto Ambiental en Modalidad Específica; 69
 
 e) Recepción y Evaluación del Estudio de Riesgo; 73
 
-f). Inscripción y Registro de Prestadores de
+f) Inscripción y Registro de Prestadores de
 
-Servicios en Materia Ambiental; 70
+Servicios en Materia Ambiental. 70
 
 II. Recepción y Evaluación de solicitudes de
 
@@ -689,9 +693,11 @@ XI. Emisión de Autorización en materia de
 
 Riesgo Ambiental. 381
 
-XII. En materia Urbana:
+XII. Emisión del Refrendo Anual de la Licencia
 
-I. Autorización de la publicidad destinada
+de Funcionamiento. 40
+
+I (SIC). Autorización de la publicidad destinada
 
 a promover un desarrollo industrial turístico
 
@@ -701,7 +707,7 @@ II. Dictamen Técnico de uso de suelo; 30
 
 a) Dictamen Técnico de Lotificación y/o
 
-Sembrado de Edificios. 30
+Sembrado de Edificios.
 
 ###### Artículo 19.
 
@@ -893,6 +899,10 @@ De los servicios prestados por la Contraloría General del Estado.
 
 Servicios prestados por la Dirección de Planeación Urbana y Ecología.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL B.O., DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2011)</small>
+
 ###### Artículo 30.
 
 Por los servicios prestados por las autoridades fiscales, se causarán y pagarán derechos conforme a la siguiente:
@@ -1072,3 +1082,9 @@ ING. NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 T.C. LUIS ARMANDO DIAZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
