@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-atencion-y-apoyo-a-las-victimas-y-a-568
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-15"
-last_updated: "2007-08-15"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de agosto de 2007.
 
@@ -49,13 +49,15 @@ I. Centro: El Centro de Orientación, Protección y Apoyo a Víctimas de Delitos
 
 II. Código Penal: Código Penal para el Estado de Nuevo León;
 
-III. Comité Técnico: Cuerpo colegiado que será la máxima autoridad del Fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III. Comité Técnico: Cuerpo colegiado que será la máxima autoridad con respecto al Fondo;
 
 IV. Consejo: El Consejo de Atención y Apoyo para las Víctimas y Ofendidos de delitos del Estado de Nuevo León;
 
 V. Daño: Las lesiones, físicas y/o psicológicas, o el menoscabo de su bienestar social y económico como consecuencia de un delito;
 
-VI. Fideicomiso: El Fideicomiso público constituido para la administración y operación del Fondo;
+VI. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 VII. Fondo: Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos del Estado de Nuevo León;
 
@@ -71,7 +73,9 @@ XII. Reglamento: El Reglamento de la Ley de Atención y Apoyo a las Víctimas y 
 
 XIII. Reparación del Daño: La reparación del daño en términos de lo dispuesto por el Código Penal para el Estado de Nuevo León;
 
-XIV. Secretario Técnico: El Secretario Técnico del Consejo de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León así como del Comité Técnico del Fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XIV. Secretario Técnico: El Secretario Técnico del Consejo de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León así como del Comité Técnico del Fondo;
 
 XV. Sistema: El Sistema de Atención, Apoyo y Protección a las Víctimas y a los Ofendidos de Delitos, en los términos de la Ley;
 
@@ -97,13 +101,15 @@ III. El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo Le
 
 IV. La Secretaría de Seguridad Pública;
 
-V. El Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V. La Secretaría de Desarrollo Social;
 
 VI. La Secretaría de Educación;
 
 VII. El Instituto Estatal de las Mujeres;
 
-VIII. La Dirección de Defensoría de Oficio; y,
+VIII. (DEROGADA, P.O. 1 DE JULIO DE 2011); y,
 
 IX. La Procuraduría General de la República, en los términos de los convenios suscritos entre ésta y el Estado.
 
@@ -179,7 +185,7 @@ La atención médica para la víctima u ofendido del delito se gestionará de ma
 
 ###### ARTICULO 12.
 
-El apoyo económico previsto en el artículo 26 segundo párrafo de la Ley será proporcionado de manera excepcional a fin de disminuir el impacto del delito.
+(DEROGADO, P.O. 1 DE JULIO DE 2011)
 
 ### CAPITULO III. CAUSAS DE CONCLUSIÓN DE LOS SERVICIOS DEL SISTEMA
 
@@ -283,33 +289,43 @@ I. Las partidas presupuestales que le asigne el Gobierno del Estado, previstas e
 
 II. La cantidad que se recabe por concepto de cauciones o fianzas otorgadas ante el Ministerio público en la etapa de averiguación previa, cuando se hicieren efectivas, precisamente en dicha etapa, por el incumplimiento de las obligaciones a que estén afectas;
 
-III. Las cantidades que por concepto de pago de la reparación del daño se cubran a las personas que por su carácter de víctimas u ofendidos hayan recibido apoyo económico en términos de esta Ley, en la parte que corresponda a los servicios prestados;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III. Las cantidades que por concepto de apoyo sean devueltas al fondo al comprobarse la mala fe por parte de quien recibió los beneficios del mismo, en los términos del artículo 27 de esta Ley;
 
 IV. Las multas impuestas por el Ministerio Público o por la Visitaduría General de la Procuraduría General de Justicia del Estado de Nuevo León;
 
 V. El producto de la venta de los instrumentos u objetos asegurados o decomisados que no hayan sido recogidos en el plazo de un año y que estén a disposición del Ministerio Público o del Juez de la causa, cumpliendo al efecto con el procedimiento que establece la Ley;
 
-VI. Las aportaciones o donativos que los particulares u organismos públicos, privados y sociales, nacionales o extranjeros otorguen de manera altruista, mediante los procedimientos respectivos; y,
+VI. Las aportaciones o donativos que los particulares u organismos públicos, privados y sociales, nacionales o extranjeros otorguen de manera altruista, mediante los procedimientos respectivos; y, (sic)
 
-VII. Los rendimientos que se obtengan de las inversiones y reinversiones de los recursos del Fondo.
+VII. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 La Secretaría de Finanzas y Tesorería General del Estado será la encargada de recabar y allegar al Fondo dichos recursos.
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
 Los recursos del Fondo se aplicarán para otorgar apoyos de carácter económico a las víctimas y a los ofendidos de delitos o, en su caso, a sus derechohabientes, de acuerdo con la naturaleza del delito, sus consecuencias y los propios recursos del Fondo.
 
-Los recursos económicos a que se refiere el artículo anterior se utilizarán para el otorgamiento de la atención y apoyo a las víctimas y a los ofendidos de delitos que reúnan los requisitos establecidos en el artículo 28 de la Ley, siempre y cuando no se pudiera prestar el servicio por alguna institución pública del Estado, como lo establece la misma. Sólo en casos excepcionales se entregarán recursos en efectivo, en los términos y condiciones establecidos en la Ley.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-### CAPÍTULO VI. DEL FIDEICOMISO Y DEL COMITÉ TÉCNICO
+Los recursos económicos a que se refiere el artículo anterior se utilizarán para el otorgamiento de la atención y apoyo a las víctimas y a los ofendidos de delitos que reúnan los requisitos establecidos en el artículo 28 de la Ley, siempre y cuando no se pudiera prestar el servicio por alguna institución pública del Estado, como lo establece la misma.
 
-###### ARTÍCULO 25.
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 2011)</small>
 
-Los recursos del Fondo serán administrados por la Procuraduría General de Justicia del Estado, por medio de un fideicomiso de orden público constituido por la Secretaría de Finanzas y Tesorería General del Estado.
+### CAPÍTULO VI. DEL COMITÉ TÉCNICO
 
-###### ARTÍCULO 26.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-El Fideicomiso contará con un cuerpo colegiado que será la máxima autoridad, denominado Comité Técnico, y un Secretario Técnico que será el titular del Centro.
+###### ARTICULO 25.
+
+Los recursos del Fondo serán administrados por la Procuraduría General de Justicia del Estado.
+
+###### ARTICULO 26.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+El Fondo contará con un cuerpo colegiado que será la máxima autoridad, denominado Técnico, y un Secretario Técnico que será el titular del Centro.
 
 El Comité Técnico sesionará de forma ordinaria una vez al mes, y de manera extraordinaria cuando así se requiera, para lo cual el Presidente o bien el Secretario Técnico deberán convocar con al menos un día de anticipación, debiendo anexar el orden del día y los asuntos a tratar. La convocatoria podrá realizarse mediante oficio o bien por vía electrónica a través de Internet.
 
@@ -317,15 +333,31 @@ Para que el Comité Técnico pueda sesionar válidamente, se requerirá la asist
 
 Si una sesión ordinaria o extraordinaria, no se realiza por falta de quórum, el Secretario Técnico convocará por segunda ocasión, dentro de las veinticuatro horas siguientes, requiriendo el quórum señalado en el párrafo anterior para que se lleve a cabo válidamente la sesión.
 
-Una vez celebrada la sesión del Comité Técnico para analizar solicitudes de apoyo económico, éste deberá de emitir la opinión respecto de la procedencia, así como la determinación del tipo de apoyo acordado, la cual deberá ser notificada al Ministerio Publico y a la víctima u ofendido en un termino que no podrá exceder de diez días hábiles a partir de la emisión de la resolución, debiéndose instruir a la fiduciaria al respecto.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Una vez celebrada la sesión del Comité Técnico para analizar solicitudes de apoyo económico, éste deberá de emitir la opinión respecto de la procedencia, así como la determinación del tipo de apoyo acordado, la cual deberá ser notificada al Ministerio Publico y a la víctima u ofendido en un termino que no podrá exceder de quince días hábiles a partir de la emisión de la resolución. El Secretario Técnico instruirá, cuando proceda, a la Secretaría de Finanzas y Tesorería General del Estado para que realice el pago en un plazo no mayor de quince días.
 
 El Secretario Técnico deberá levantar un acta en la que se consignen los acuerdos adoptados. En dicha Acta se harán constar los temas tratados y los acuerdos adoptados y deberá de contar con las firmas de los miembros propietarios o suplentes que hubieren participado.
 
 El Comité Técnico podrá adoptar acuerdos sin necesidad de sostener una reunión presencial, siempre y cuando el acta en donde consten dichos acuerdos sea firmada por la mayoría de sus integrantes.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 27.
 
-El Comité Técnico estará integrado por miembros propietarios y sus respectivos suplentes para los casos de ausencia de los primeros, designados por el Titular del Ejecutivo a través de la Secretaría de Finanzas y Tesorería General del Estado en un número no menor de tres y no mayor de siete miembros.
+El Comité Técnico estará integrado por:
+
+I. El Procurador General de Justicia, quien lo presidirá;
+
+II. El Director del Centro de Orientación, Protección y Apoyo a Víctimas u Ofendidos de Delito, que será el Secretario Técnico del Comité Técnico;
+
+III. El Director General de Averiguaciones Previas, como Vocal;
+
+IV. El Director General de Administración de la Procuraduría General de Justicia, como Vocal; y
+
+V. Un representante de la Secretaría de Finanzas y Tesorería General del Estado, como Vocal.
+
+Los servidores públicos que forman el Comité nombrarán por escrito a su respectivo suplente, quien sólo podrá participar en las sesiones en ausencia del titular que represente y desempeñarán sus funciones de manera honorífica en razón de su cargo, por lo que no recibirán remuneración adicional a la que perciban por el mismo.
 
 ###### ARTICULO 28.
 
@@ -333,23 +365,31 @@ El Comité Técnico tendrá las siguientes atribuciones:
 
 I. Analizar y discutir, en sesión, las solicitudes de apoyo económico recibidas y determinar la procedencia o improcedencia de las mismas, de acuerdo con la información otorgada por el Secretario Técnico;
 
-II. Instruir al fiduciario para que realice las entregas de dinero que el propio Comité señale por concepto de apoyos a las víctimas y a los ofendidos del delito o, en su caso, a sus derechohabientes, siempre y cuando dichos apoyos no sean en casos de vital emergencia, en los términos del artículo 35, fracción IV de la Ley; así mismo el Comité Técnico tendrá la obligación de revisar y ratificar en su caso, los apoyos que se hayan otorgado de manera directa por el Secretario Técnico en el ámbito de sus facultades. Dichos apoyos se presentarán en los informes bimestrales que deberá rendir el Secretario Técnico;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II. Instruir a la Secretaría de Finanzas y Tesorería General del Estado por conducto del Secretario Técnico para que realice las entregas de recursos que el propio Comité señale por concepto de apoyos a las víctimas y a los ofendidos del delito o, en su caso, a sus derechohabientes, siempre y cuando dichos apoyos no sean en casos de vital emergencia, en los términos del artículo 35, fracción IV de la Ley; así mismo el Comité Técnico tendrá la obligación de revisar y ratificar en su caso, los apoyos que se hayan otorgado de manera directa por el Secretario Técnico en el ámbito de sus facultades. Dichos apoyos se presentarán en los informes bimestrales que deberá rendir el Secretario Técnico;
 
 III. Decidir la aplicación de los fondos en cumplimiento de los fines establecidos en la Ley;
 
-IV. Instruir al fiduciario respecto de la inversión de los recursos fideicomitidos, que siempre será en valores o instrumentos de inversión sin riesgo;
+IV. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
-V. Emitir y aprobar las reglas de operación del fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI. Revisar y en su caso aprobar los informes bimestrales que le proporcione el Secretario Técnico, así como los reportes del fiduciario, respecto del estado que guarde el patrimonio fideicomitido;
+V. Emitir y aprobar las reglas de operación del Fondo;
 
-VII. Proporcionar oportunamente al fiduciario la información que éste le solicite, para el óptimo cumplimiento de los fines del fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VIII. Instruir al fiduciario para que éste otorgue los poderes generales o especiales que se requieran para la defensa del patrimonio fideicomitido;
+VI. Revisar y en su caso aprobar los informes bimestrales que le proporcione el Secretario Técnico, respecto del estado que guarde el patrimonio del fondo;
 
-IX. Instruir al fiduciario para que celebre los actos que sean necesarios en cumplimiento de los fines del fideicomiso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-X. Informar por escrito al fiduciario sobre cualquier cambio en las personas que integran al comité técnico;
+VII. Proporcionar oportunamente a la Secretaría de Finanzas y Tesorería General del Estado la información que éste le solicite, para el óptimo cumplimiento de los fines del Fondo;
+
+VIII. (DEROGADA, P.O. 1 DE JULIO DE 2011)
+
+IX. (DEROGADA, P.O. 1 DE JULIO DE 2011)
+
+X. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 XI. Llevar una relación de las cantidades entregadas en cumplimiento de los fines de la Ley;
 
@@ -361,15 +401,23 @@ Al Secretario Técnico le corresponde:
 
 I. Apoyar las actividades del Comité Técnico;
 
-II. Realizar el estudio y valoración a fin (sic) determinar a las personas beneficiarias y los montos por los cuales se deberán otorgar apoyos de carácter económico a las víctimas y a los ofendidos del delito o, en su caso, a sus derechohabientes; el Secretario Técnico deberá someter a la consideración del Comité Técnico el informe respecto de los estudios y valoraciones que se hayan realizado para designar algún beneficiario y la cantidad por la que se solicite su apoyo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III. Instruir al fiduciario para que realice las entregas de dinero por concepto de apoyos de carácter económico a las víctimas y a los ofendidos del delito o, en su caso, a sus derechohabientes, siempre y cuando estos apoyos sean en casos de vital emergencia, en los términos del artículo 35, fracción IV de la Ley;
+II. Realizar el estudio y valoración a fin de determinar a las personas beneficiarias y los montos por los cuales se deberán otorgar apoyos de carácter económico a las víctimas y a los ofendidos del delito o, en su caso, a sus derechohabientes; el Secretario Técnico deberá someter a la consideración del Comité Técnico el informe respecto de los estudios y valoraciones que se hayan realizado para designar algún beneficiario y la cantidad por la que se solicite su apoyo;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III. Instruir a la Secretaría de Finanzas y Tesorería General del Estado para que realice las entregas de recursos por concepto de apoyos de carácter económico a las víctimas y a las ofendidos del delito o, en su caso, a sus derechohabientes, siempre y cuando estos apoyos sean en casos de vital emergencia, en los términos del artículo 35, fracción IV de la Ley, dentro del presupuesto autorizado;
 
 IV. Realizar las actividades necesarias para el seguimiento y cumplimiento de los acuerdos que adopte el Comité Técnico;
 
-V. Elaborar los informes bimestrales para la aprobación del Comité Técnico respecto del estado que guarde el patrimonio fideicomitido, dichos informes contendrán un reporte de la valuación que se haya hecho a cada beneficiario, así como la información financiera que al efecto el fiduciario le remita;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI. Proporcionar oportunamente al fiduciario la información que éste le solicite, para el óptimo cumplimiento de los fines del fideicomiso;
+V. Elaborar los informes bimestrales para la aprobación del Comité Técnico respecto del estado que guarde el patrimonio con que cuente el Fondo, previa conciliación con la Secretaría de Finanzas y Tesorería General del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VI. Proporcionar oportunamente a la Secretaría de Finanzas y Tesorería General del Estado la información que éste le solicite, para el óptimo cumplimiento de los fines del Fondo;
 
 VII. Elaborar las actas de las reuniones del Comité Técnico;
 
@@ -399,7 +447,9 @@ VI. Destino y uso del apoyo económico, en su caso.
 
 ###### ARTICULO 31.
 
-El Secretario Técnico, además de las atribuciones que le confiere el artículo 35 de la Ley, así como de las que se deriven del Fideicomiso, deberá formar un expediente de cada una de las solicitudes de apoyo económico que le sean realizadas, el cual deberá contener los siguientes documentos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
+El Secretario Técnico, además de las atribuciones que le confiere el artículo 35 de la Ley, así como de las que se deriven del Fondo, deberá formar un expediente de cada una de las solicitudes de apoyo económico que le sean realizadas, el cual deberá contener los siguientes documentos:
 
 I. Solicitud de apoyo;
 
@@ -423,15 +473,19 @@ Los requisitos señalados en el artículo 28 de la Ley, para conceder los apoyos
 
 I. Respecto a las diligencias realizadas por la Autoridad Ministerial, mediante el oficio del Agente del Ministerio Público que solicite se brinde el apoyo;
 
-II. Respecto a la situación económica del solicitante, con los comprobantes de ingresos o manifestación por escrito hecha ante el Centro bajo protesta de decir verdad sobre los ingresos familiares;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III. Respecto a la falta de beneficios que otorgan las instituciones de seguridad social, exclusivamente por lo que se refiere a los apoyos médicos, con la manifestación por escrito hecha ante el Centro, bajo protesta de decir verdad de no contar con éstos;
+II. Respecto a la situación económica del solicitante, con los comprobantes de ingresos o manifestación por escrito hecha ante el Centro bajo protesta de decir verdad sobre los ingresos diarios de la víctima u ofendido o de quien ésta dependa económicamente;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III. Respecto a la falta de beneficios que otorgan las instituciones de seguridad social, exclusivamente por lo que se refiere a los apoyos médicos, con la manifestación por escrito hecha ante el Centro, bajo protesta de decir verdad de no contar con éstos, exceptuándose a los beneficiarios del Seguro Popular;
 
 IV. Respecto a la falta de carácter de beneficiario de algún seguro que cubra los beneficios que la Ley otorga, con la manifestación por escrito hecha ante el Centro, bajo protesta de decir verdad de no tener derecho a los beneficios de algún seguro;
 
 V. Respecto a la situación de vulnerabilidad en la sociedad, con la manifestación por escrito hecha ante el Centro, bajo protesta de decir verdad de encontrarse en dicha situación;
 
-VI. Con el compromiso por escrito que se realice ante el Centro, bajo protesta de decir verdad, de pagar al Fondo, la cantidad recibida como apoyo para enfrentar la emergencia, en lo (sic) términos que señala la Ley.
+VI. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 Cuando el solicitante acredite lo solicitado en cualquiera de las fracciones II, III, IV y V del artículo 28 de la Ley mediante la manifestación por escrito hecha ante el Centro, bajo protesta de decir verdad, en la misma manifestación se autorizará al Centro para proceder a la comprobación de lo manifestado.
 
@@ -491,11 +545,11 @@ El Comité Técnico, previa valoración, emitirá opinión tomando en cuenta el 
 
 En casos de vital emergencia, o bien de conformidad con el artículo 26 de la Ley, cuando a juicio del Ministerio Público se trate de víctimas u ofendidos de delitos violentos, este lo informará por escrito al Secretario Técnico, a fin de que ésta, en cumplimiento de la atribución a que se refiere la fracción IV del artículo 35 de la Ley, determine de forma directa el otorgamiento de apoyo.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 41.
 
-El apoyo económico establecido en el artículo 38 de la Ley, se otorgará únicamente en los casos en que, por no contarse entre los integrantes del Sistema con los elementos suficientes para poder cubrir la necesidad de la víctima u ofendido, cuando ésta carezca de servicios de seguridad social, y sea necesario remitirla a una institución de carácter privado para atender las consecuencias derivadas de la comisión del delito, entendiéndose que dicho apoyo no será entregado a la víctima u ofendido, sino en calidad de pago a la persona física o moral que brinde el apoyo, anexándose al expediente los comprobantes del pago realizado.
-
-Sólo en casos excepcionales se entregarán recursos en efectivo, los cuales se harán por una sola vez sin que su monto pueda exceder al equivalente de doscientos salarios mínimos.
+El apoyo económico establecido en el artículo 38 de la Ley, se otorgará únicamente en los casos en que, por no contarse entre los integrantes del Sistema con los elementos suficientes para poder cubrir la necesidad de la víctima u ofendido, cuando ésta carezca de servicios de seguridad social, y que sea necesario remitirla a una institución de carácter privado para atender las consecuencias derivadas de la comisión del delito, entendiéndose que dicho apoyo no será entregado a la víctima u ofendido, sino en calidad de pago a la persona física o moral que brinde el apoyo, anexándose al expediente los comprobantes del pago realizado.
 
 ###### ARTICULO 42.
 
@@ -533,15 +587,17 @@ En los casos enunciados, el Comité Técnico fundamentará y motivará la negati
 
 La víctima o el ofendido deberán reintegrar al Fondo los recursos que les hubieren sido entregados, en los siguientes casos:
 
-I. Cuando le hubiere sido reparado el daño, en los términos de la legislación aplicable;
+I. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 II. Cuando se determine que la conducta no sea delictuosa y se hayan realizado erogaciones por parte del Fondo; y
 
 III. Cuando se demuestre la mala fe por parte de quien recibió los beneficios del Fondo sin ser víctima u ofendido.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 46.
 
-Los recursos se recuperarán tomando en cuenta las posibilidades económicas del beneficiario, salvo cuando se hubiere reparado el daño, caso en el cual la víctima u ofendido reintegrará al Fondo la cantidad que hubiere recibido de éste como apoyo.
+Los recursos se recuperarán tomando en cuenta las posibilidades económicas del beneficiario.
 
 ###### ARTÍCULO 47.
 
@@ -600,3 +656,9 @@ DIRECTORA GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 GABRIELA DEL CARMEN CALLES GONZÁLEZ
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO DE LA LEY DE ATENCIÓN Y APOYO A LAS VÍCTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEÓN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JULIO DE 2011.
+
+Artículo Único. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
