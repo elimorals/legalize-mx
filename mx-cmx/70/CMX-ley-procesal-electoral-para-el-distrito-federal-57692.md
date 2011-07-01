@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-para-el-distrito-federal-57692"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-21"
-last_updated: "2007-12-21"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57692&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 21 de diciembre de 2007.
 
@@ -62,13 +62,21 @@ LEY PROCESAL ELECTORAL PARA EL DISTRITO FEDERAL
 
 ### CAPÍTULO I. Ámbito de Aplicación e interpretación
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 1.
+
+Las disposiciones contenidas en la presente ley son de orden público y de observancia obligatoria y general en todo el Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 Para los efectos de esta Ley, se entenderá por:
 
 I. Estatuto de Gobierno: Estatuto de Gobierno del Distrito Federal;
 
-II. Código: Código Electoral del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+II. Código: Código de Instituciones y Procedimientos electorales del Distrito Federal;
 
 III. Ley de Participación: Ley de Participación Ciudadana del Distrito Federal;
 
@@ -84,9 +92,19 @@ VIII. Comisión: Comisión de Conciliación y Arbitraje del Tribunal Electoral d
 
 IX. Reglamento Interior: Reglamento Interior del Tribunal Electoral del Distrito Federal;
 
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
 X. Proceso electoral: el relativo a la renovación periódica por voto universal, libre, secreto y directo del Jefe de Gobierno, Diputados a la Asamblea Legislativa y Jefes Delegacionales del Distrito Federal. Se considerarán también aquellos relativos a la renovación de cargos de elección popular en los pueblos y comunidades indígenas, mediante el sistema de usos y costumbres, cuando guarden similitud con las etapas de los procesos electorales constitucionales, y
 
-XI. Procesos de participación ciudadana: los procesos previstos en la Ley de Participación Ciudadana del Distrito Federal.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+XI. Instrumentos de participación ciudadana: los previstos expresamente en la Ley de Participación, como competencia del Tribunal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JULIO DE 2011)</small>
+
+El servicio de la Gaceta Oficial del Distrito Federal será gratuito para todas las publicaciones del Tribunal Electoral.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 2.
 
@@ -94,41 +112,59 @@ El sistema de medios de impugnación regulado por esta Ley tiene por objeto gara
 
 I. Que los actos y resoluciones electorales se sujeten al principio de legalidad;
 
-II. La legalidad de los actos, acuerdos o resoluciones del Jefe de Gobierno, de la Asamblea Legislativa, del Instituto o de cualquier otra autoridad, para salvaguardar los resultados vinculatorios del plebiscito, del referéndum o el trámite de la iniciativa popular;
+II. La legalidad de los actos, acuerdos o resoluciones del Jefe de Gobierno, de la Asamblea Legislativa, del Instituto o de cualquier otra autoridad, para salvaguardar los resultados vinculantes de los procesos de participación ciudadana competencia del Tribunal;
 
-III. La definitividad de los distintos actos y etapas de los procesos electorales, de los procesos de participación ciudadana; y
+III. La definitividad de los distintos actos y etapas de los procesos electorales; y
 
 IV. La salvaguarda, validez y eficacia de los derechos político-electorales de los ciudadanos.
 
+El Tribunal únicamente tendrá competencia para conocer y resolver los conflictos sometidos a su jurisdicción en los procesos de participación ciudadana que expresamente determine la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 3.
 
-En ningún caso la interposición de los medios de impugnación previstos en esta Ley, producirá efectos suspensivos sobre el acto o resolución impugnada, a excepción de lo establecido en el capítulo VI, Título Quinto de la presente Ley.
+En ningún caso la interposición de los medios de impugnación previstos en esta Ley, producirá efectos suspensivos sobre el acto o resolución impugnada.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 4.
 
-Para el trámite, sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus normas se aplicarán mediante una interpretación gramatical, y ante la duda, la garantista, la sistemática o la funcional de las disposiciones del Código, de la Ley de Participación y demás disposiciones aplicables.
+La interpretación de las normas previstas en esta Ley, y de todas aquellas que resulten aplicables al caso concreto que se resuelva, se realizará atendiendo a los criterios gramatical, sistemático y funcional.
+
+En caso de duda en la ponderación de normas, se aplicará aquella que más beneficie al justiciable sin trastocar el equilibrio procesal.
 
 ### CAPÍTULO II. Del Tribunal
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 5.
 
 El Tribunal, conforme a las disposiciones de esta Ley, resolverá los asuntos de su competencia con plena jurisdicción.
 
+El Tribunal únicamente tendrá competencia para conocer y resolver los conflictos sometidos a su jurisdicción, respecto de los instrumentos de participación ciudadana que expresamente determine la Ley de la materia.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 6.
 
-Todos los trámites, audiencias y sesiones derivados de la interposición de los medios de impugnación y de los juicios especiales serán del conocimiento público, salvo que la ley disponga lo contrario o el Tribunal así lo decida por razones de seguridad u orden público.
+Todos los trámites, audiencias y sesiones derivados de la promoción de los medios de impugnación, juicios y procedimientos previstos en la presente Ley serán del conocimiento público, salvo que la ley disponga lo contrario o el Tribunal así lo decida por razones de seguridad u orden público.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 7.
 
-El acceso a los expedientes quedará reservado sólo a las partes y a las personas autorizadas para ello, y una vez que las resoluciones que se emitan para su resolución hayan causado estado, podrán ser consultados por cualquier persona, en los términos de la ley de la materia.
+El acceso a los expedientes jurisdiccionales competencia del Tribunal quedará reservado sólo a las partes y a las personas autorizadas para ello, y una vez que las sentencias hayan causado estado, podrán ser consultados por cualquier persona, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
-Las autoridades electorales, para el debido cumplimiento de sus funciones, se regirán por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, equidad, publicidad, transparencia y accesibilidad a la información pública.
+El Tribunal, para el debido cumplimiento de sus funciones, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, equidad, publicidad, transparencia y accesibilidad a la información pública.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 8.
 
-Para el ejercicio de sus atribuciones, el Tribunal podrá requerir el auxilio de los Órganos de Gobierno del Distrito Federal, incluidos los jurisdiccionales, quienes estarán obligados a prestarlo de inmediato en los términos que les sea requerido.
+El Tribunal a través del Magistrado Presidente, podrá requerir, en todo momento, el auxilio, apoyo y colaboración de algún órgano de gobierno, autónomo o autoridad administrativa y jurisdiccional del Distrito Federal, quienes estarán obligados a prestarlo de inmediato en los términos que les sea requerido. En caso de incumplimiento, el magistrado presidente del Tribunal dará vista al órgano de control competente a efecto de que se proceda en términos de la ley aplicable en materia de responsabilidades.
 
-En los casos que lo amerite, también podrá solicitar el auxilio de las autoridades federales o de alguna otra entidad federativa.
+Asimismo, también podrán solicitar el apoyo y colaboración de cualquier órgano de gobierno o autoridad administrativa y jurisdiccional de carácter federal, estatal y municipal, para lo cual se estará a lo dispuesto en la legislación aplicable.
 
 ###### Artículo 9.
 
@@ -160,49 +196,73 @@ Las disposiciones de este Título rigen para el trámite, sustanciación y resol
 
 No podrá suspenderse el procedimiento, salvo cuando para su continuación sea imprescindible la resolución de otro medio de impugnación que se tramite en el propio Tribunal o ante el Tribunal Electoral del Poder Judicial de la Federación o por otra causa análoga calificada por el Pleno del Tribunal.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 14.
 
-Las audiencias y todas las actuaciones que deban realizarse con motivo de la sustanciación de un medio de impugnación, estarán bajo la responsabilidad del Magistrado Instructor, quien será asistido por cualesquiera de los Secretarios de Estudio y Cuenta o Auxiliares que tenga adscritos.
+Las audiencias y todas las actuaciones que deban realizarse con motivo de la sustanciación de un medio de impugnación, estarán bajo la responsabilidad del Magistrado Instructor, quien será asistido por la Ponencia a su cargo y, en caso de que el Pleno lo autorice, también podrá ser auxiliado por algún Secretario de Estudio y Cuenta adscrito a otra ponencia.
 
 ### CAPÍTULO II. De los Términos
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 15.
 
-Durante los procesos electorales y los de participación ciudadana, todos los días y horas son hábiles. Los términos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
+Durante los procesos electorales todos los días y horas son hábiles. Los términos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
-Los asuntos generados durante los procesos que no guarden relación con éstos, no se sujetarán a la regla anterior.
+Tratándose de los procesos de participación ciudadana, el párrafo anterior aplicará exclusivamente para aquellos previstos en la ley de la materia como competencia del Tribunal.
+
+Los asuntos generados durante dichos procesos que no guarden relación con éstos, no se sujetarán a la regla anterior.
 
 Durante el tiempo que transcurra entre los procesos referidos en el primer párrafo del presente artículo, el cómputo de los términos se hará contando solamente los días hábiles debiendo entenderse por tales, todos los días a excepción de los sábados, domingos y los inhábiles que determinen las leyes.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 16.
 
-Los medios de impugnación previstos en esta Ley que guarden relación con los procesos electorales y los de participación ciudadana, deberán presentarse dentro de los cuatro días que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en esta Ley; en todos los demás casos, los medios de impugnación deberán interponerse dentro de los ocho días que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en esta Ley.
+Los medios de impugnación previstos en esta Ley que guarden relación con los procesos electorales y los de participación ciudadana, expresamente previstos en la ley de la materia como competencia del Tribunal, deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquel en que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en la norma aplicable. En todos los demás casos, los medios de impugnación deberán promoverse dentro de los ocho días contados a partir del día siguiente a aquel en que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en la norma aplicable.
 
-Los plazos se contarán a partir del día siguiente del que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en esta Ley, salvo las excepciones previstas en el presente ordenamiento.
+Tratándose de omisiones, el impugnante podrá controvertirlas en cualquier momento mientras perdure la misma.
 
 ### CAPÍTULO III. De las Partes
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 17.
 
-Son partes en el procedimiento, las siguientes:
+Son partes en el proceso, las siguientes:
 
 I. El actor, que será quien estando legitimado lo presente por sí mismo o en su caso a través de representante, en los términos establecidos en el presente ordenamiento;
 
-II. La autoridad responsable, partido o asociación política, que haya realizado el acto o emitido la resolución que se impugna;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-III. El tercero interesado, que es el partido político, la coalición, el candidato, la agrupación política o de ciudadanos, según corresponda, con un interés en la causa derivado de un derecho incompatible con el que pretende el actor; y
+II. La autoridad responsable, partido, coalición o agrupación política que haya realizado el acto o emitido la resolución que se impugna; y
 
-IV. Los candidatos podrán participar como coadyuvantes de los partidos políticos, de conformidad con las siguientes reglas:
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga. En caso de que el candidato exprese conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación interpuesto o en el escrito de tercero interesado que hubiere presentado su partido, el magistrado instructor dará vista en forma inmediata a la autoridad responsable y al partido político o coalición correspondiente, para que éstos contesten en un término no mayor a veinticuatro horas siguientes lo que a su derecho convenga. Contestada o no la vista, el Tribunal analizará en su integridad los conceptos ampliados o modificados;
+III. El tercero interesado, que es el partido político, la coalición, el candidato, la agrupación política o de ciudadanos, según corresponda, con un interés en la causa derivado de un derecho incompatible con el que pretende el actor.
 
-b) Los escritos deberán presentarse dentro de los plazos establecidos para la interposición de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES FRACCION IV], G.O. 1 DE JULIO DE 2011)</small>
+
+Los candidatos podrán participar como coadyuvantes de los partidos políticos en los juicios electorales, de conformidad con las siguientes reglas:
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+a) A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso se puedan tomar en cuenta los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+b) Los escritos deberán presentarse dentro de los plazos establecidos para la promoción de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
 
 c) Los escritos deberán ir acompañados del documento con el que acredite su calidad de candidato;
 
-d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley, siempre y cuando estén relacionadas con los hechos invocados en el medio de impugnación interpuesto o en el escrito presentado por el partido político, o con los conceptos que hayan ampliado o modificado; y
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
-e) Deberán agregar la firma autógrafa o la huella digital del promovente.
+d) Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación promovido o en el escrito de tercero interesado presentado por su partido político; y
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+e) Deberán llevar el nombre y la firma autógrafa o la huella digital del promovente.
 
 ###### Artículo 18.
 
@@ -210,7 +270,9 @@ Dentro de setenta y dos horas siguientes, contadas a partir de la publicación e
 
 Tratándose de impugnaciones que no estén vinculadas con el proceso electoral o de los procesos de participación ciudadana, el plazo a que hace referencia el párrafo anterior será de seis días, contados a partir del momento en que sea fijado en los estrados el medio de impugnación.
 
-Los escritos de comparencia (sic) deberán:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+
+Los escritos de comparecencia deberán:
 
 I. Presentarse ante la autoridad u órgano partidario responsable del acto o resolución impugnada;
 
@@ -220,7 +282,9 @@ III. Señalar domicilio para recibir notificaciones;
 
 IV. Acompañar el o los documentos que sean necesarios para acreditar la personería del compareciente, de conformidad con lo previsto en esta Ley;
 
-V. Precisar la razón del interés legítimo en que se funden y las pretensiones concretas del compareciente;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+V. Precisar la razón del interés jurídico que se funden y las pretensiones concretas del compareciente;
 
 VI. Ofrecer y aportar las pruebas dentro del plazo para su presentación; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
 
@@ -254,67 +318,81 @@ IV. Los representantes registrados formalmente ante los órganos electorales en 
 
 ### CAPÍTULO V. Requisitos de los Medios de Impugnación
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 21.
 
-Para la presentación de la demanda se cumplirá con los requisitos siguientes:
+Los medios de impugnación deberán presentarse por escrito y cumplir con los requisitos siguientes:
 
-I. Deberá formularse por escrito;
+I. Interponerse ante la autoridad electoral u órgano del Partido Político o Coalición que dictó o realizó el acto o la resolución. La autoridad u órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al demandante y lo remitirá, sin dilación alguna al que resulte competente;
 
-II. Deberá presentarse ante la autoridad electoral u órgano del Partido Político o Coalición que realizó el acto o dictó la resolución. El órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al demandante o en su defecto lo remitirá de inmediato al que resulte competente;
+II. Mencionar el nombre del actor y señalar domicilio en el Distrito Federal para recibir toda clase de notificaciones y documentos y, en su caso, a quien en su nombre las pueda oír y recibir;
 
-III. Se hará constar el nombre del actor y se señalará domicilio en el Distrito Federal para recibir notificaciones y toda clase de documentos y, en su caso, de quien en su nombre las pueda oír y recibir;
+III. En caso que el promovente no tenga acreditada la personalidad o personería ante la autoridad u órgano responsable, acompañará el o los documentos necesarios para acreditarla. Se entenderá por promovente a quien comparezca con carácter de representante legítimo;
 
-IV. En caso de que el promovente no tenga acreditada la personería ante la autoridad electoral ante la que actúa, acompañará los documentos con los que la acredita; se entenderá por promovente a quien comparezca con carácter de representante legítimo;
+IV. Mencionar de manera expresa el acto o resolución impugnada y la autoridad electoral u órgano del Partido Político o Coalición responsable;
 
-V. Mencionar de manera expresa el acto o resolución impugnada y la autoridad electoral u órgano del Partido Político o Coalición responsable;
+V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación y los agravios que cause el acto o resolución impugnados, así como los preceptos legales presuntamente violados;
 
-VI. Mencionar de manera expresa y clara los preceptos presuntamente violados y los hechos en que se basa la impugnación;
+VI. Ofrecer las pruebas junto con su escrito, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
 
-VII. Ofrecer las pruebas junto con su escrito, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
+VII. Hacer constar el nombre y la firma autógrafa ó huella digital del promovente.
 
-VIII. Hacer constar el nombre y la firma autógrafa ó huella digital del promovente.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 22.
 
-Cuando se omita alguno de los requisitos señalados en las fracciones IV, V ó VI del artículo anterior, el magistrado instructor, requerirá al promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de que se realice la notificación personal del requerimiento correspondiente, bajo el apercibimiento de que de no hacerlo se tendrá por no interpuesto el juicio.
+Cuando se omita alguno de los requisitos señalados en las fracciones IV ó V del artículo anterior, el magistrado instructor requerirá al promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de que se realice la notificación personal del requerimiento correspondiente, con el apercibimiento de que de no hacerlo, se tendrá por no presentado el escrito de demanda.
 
-Cuando no se ofrezcan pruebas, se aplicará la regla del párrafo anterior, salvo cuando no habiéndose ofrecido ni aportado prueba alguna, se esté en el caso de que el juicio verse sobre puntos de derecho. En ningún caso la falta de pruebas será motivo de desechamiento del medio de impugnación.
+En ningún caso la falta de pruebas será motivo de desechamiento del medio de impugnación.
 
 ### CAPÍTULO VI. De la Improcedencia y el Sobreseimiento
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 23.
 
-Los medios de impugnación previstos en este ordenamiento serán improcedentes, y por tanto, se decretará el desechamiento de plano de la demanda, en los siguientes casos:
+Los medios de impugnación previstos en este ordenamiento serán improcedentes, y por tanto, se decretará el desechamiento de plano de la demanda, cuando:
 
-I. Se pretenda impugnar actos o resoluciones que no afecten el interés jurídico o el interés legítimo del actor;
+I. Se pretenda impugnar actos o resoluciones que no afecten el interés jurídico del actor;
 
-II. Se presenten fuera de los plazos señalados en esta Ley;
+II. Se pretenda impugnar actos o resoluciones que se hayan consumado de un modo irreparable;
 
-III. Cuando el promovente carezca de legitimación en los términos del presente ordenamiento;
+III. Se pretenda impugnar actos o resoluciones que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento;
 
-IV. El acto o resolución se hayan consumado de un modo irreparable, o que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento;
+IV. Se presenten fuera de los plazos señalados en esta Ley;
 
-V. No se hayan agotado las instancias previas;
+V. El promovente carezca de legitimación en los términos del presente ordenamiento;
 
-VI. Cuando en un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputados por ambos principios;
+VI. No se hayan agotado todas las instancias previas establecidas en la ley o por las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o las determinaciones de estos últimos, en virtud de los cuales se pudieran haber modificado, revocado o anulado, salvo lo previsto en el artículo 97 de esta ley;
 
-VII. Cuando los agravios manifiestamente no tengan relación directa con el acto o resolución que se pretende combatir, o por la falta de hechos que se expongan no pueda deducirse agravio alguno;
+VII. En un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputados por ambos principios;
 
-VIII. En los demás casos que se desprendan de los ordenamientos legales aplicables;
+VIII. Los agravios no tengan relación directa con el acto o resolución que se combate, o que de los hechos expuestos no pueda deducirse agravio alguno;
 
-IX. Cuando exista la excepción procesal de la cosa juzgada, o
+IX. Se omita mencionar los hechos en que se basa la impugnación;
 
-X. Cuando se omita el requisito señalado en la fracción VIII del artículo 21 de la presente Ley.
+X. Exista la excepción procesal de la cosa juzgada, así como su eficacia refleja;
+
+XI. Se omita hacer constar el nombre y la firma autógrafa ó huella digital del promovente;
+
+XII. El promovente se desista expresamente por escrito, en cuyo caso, únicamente el Magistrado Instructor, sin mayor trámite, requerirá la ratificación del escrito con el apercibimiento que de no comparecer, se le tendrá por ratificado; el desistimiento deberá realizarse ante el Magistrado Instructor.
+
+Los partidos políticos sólo pueden desistirse de las demandas de resarcimiento o reconocimiento de derechos propios, no respecto de derechos públicos o colectivos; y
+
+XIII. En los demás casos que se desprendan de los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 24.
 
 El Pleno del Tribunal podrá decretar el sobreseimiento, cuando habiendo sido admitido el medio de impugnación correspondiente:
 
-I. El promovente se desista expresamente por escrito, en cuyo caso, el magistrado instructor requerirá la ratificación del escrito, apercibido de que de no comparecer se le tendrá por ratificado el desistimiento;
+I. El promovente se desista expresamente por escrito; en cuyo caso, el magistrado instructor requerirá la ratificación del escrito, apercibiéndolo que de no comparecer, se tendrá por ratificado el desistimiento;
 
-II. El acto o resolución impugnado se modifique o revoque, o por cualquier causa, quede totalmente sin materia el medio de impugnación respectivo;
+II. El acto o resolución impugnado se modifique o revoque o, por cualquier causa, quede sin materia el medio de impugnación respectivo;
 
-III. Aparezca o sobrevenga alguna causal de improcedencia en los términos del presente ordenamiento; y
+III. Aparezca o sobrevenga alguna de las causales de improcedencia previstas en el presente ordenamiento; y
 
 IV. El ciudadano agraviado fallezca, sea suspendido o pierda sus derechos político-electorales, antes de que se dicte resolución o sentencia.
 
@@ -327,6 +405,8 @@ El que afirma está obligado a probar. También lo está el que niega, cuando la
 ###### Artículo 26.
 
 Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 27.
 
@@ -344,7 +424,7 @@ V. Instrumental de actuaciones;
 
 VI. La confesional y la testimonial, cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho;
 
-VII. Reconocimiento o inspección judicial; y
+VII. Reconocimiento o inspección; y
 
 VIII. Periciales, cuando la violación reclamada lo amerite, los plazos legalmente establecidos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto o resolución impugnada.
 
@@ -424,13 +504,15 @@ En ningún caso se admitirán las pruebas ofrecidas o aportadas fuera de los pla
 
 ### CAPÍTULO VIII. De las Notificaciones
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 36.
 
-Las notificaciones se podrán hacer personalmente, por estrados, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, correo electrónico o mediante publicación en la Gaceta Oficial del Gobierno del Distrito Federal, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas de esta Ley.
+Las notificaciones se podrán hacer personalmente, por estrados, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, correo electrónico o mediante publicación en la Gaceta Oficial del Distrito Federal, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas de esta Ley.
 
 Las partes que actúen en los medios de impugnación mencionados por esta Ley deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México; de no hacerlo, las notificaciones se realizarán por estrados.
 
-Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto e instalaciones del Tribunal, para que sean colocadas para su notificación, copias del escrito de interposición de la demanda y de los autos y resoluciones que le recaigan.
+Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto e instalaciones del Tribunal, para que sean colocadas para su notificación, copias del escrito de demanda y de los autos y resoluciones que le recaigan.
 
 ###### Artículo 37.
 
@@ -444,7 +526,9 @@ Se realizarán personalmente las notificaciones de los autos, acuerdos o sentenc
 
 I. Formulen un requerimiento a las partes;
 
-II. Desechen o tengan por no interpuesto el medio de impugnación;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+II. Desechen o tengan por no presentado el medio de impugnación;
 
 III. Tengan por no presentado el escrito inicial de un tercero interesado o coadyuvante;
 
@@ -502,9 +586,13 @@ Para que opere dicha notificación y pueda prevalecer sobre cualquier otra que h
 
 No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través de la Gaceta Oficial del Gobierno del Distrito Federal o los diarios o periódicos de circulación en el Distrito Federal ordenadas por la autoridad, o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal o en lugares públicos, en los términos de este ordenamiento.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 43.
 
-Las autoridades siempre serán notificadas mediante oficio, en el que deberá exigirse firma de recibido. En caso de que el destinatario o la persona que reciba el oficio se niegue a firmar, el notificador asentará constancia de dicha circunstancia en la copia del oficio.
+Salvo las resoluciones y acuerdos de mero trámite, las autoridades y partidos políticos, siempre serán notificadas mediante oficio, en el que deberá exigirse firma o sello de recibido. En caso de que el destinatario o la persona que reciba el oficio se niegue a firmar o a sellar, el notificador asentará constancia de dicha circunstancia en la copia del oficio.
+
+Asimismo, en caso de autorizarlo, las autoridades y partidos políticos podrán ser notificadas mediante correo electrónico. Para tal efecto, los actuarios deberán elaborar la razón o constancia respectiva.
 
 ###### Artículo 44.
 
@@ -574,41 +662,43 @@ II. Los motivos, razones y fundamentos jurídicos que consideren pertinentes par
 
 III. El nombre y firma del funcionario que lo rinde.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 53.
 
-Cuando algún órgano del Instituto, autoridad u órgano partidario reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo señalará al actor y lo remitirá de inmediato a la autoridad responsable para los efectos de la tramitación y remisión del medio de impugnación. En ese caso, como la interposición de la demanda ante autoridad diversa a la responsable no interrumpe los plazos de presentación, se tendrá como fecha de interposición del medio de impugnación, el día y hora en que el escrito se presentó ante la autoridad responsable y no la asentada en otra diversa.
+Cuando algún órgano del Instituto, autoridad u órgano partidario reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo señalará al actor y lo remitirá de inmediato a la autoridad responsable para los efectos de la tramitación y remisión del medio de impugnación. En ese caso, como la presentación de la demanda ante autoridad diversa a la responsable no interrumpe los plazos de presentación, se tendrá como fecha de ello, el día y hora en que el escrito se presentó ante la autoridad responsable y no la asentada en otra diversa.
 
 #### SECCIÓN SEGUNDA. De la Sustanciación ante el Tribunal
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 54.
 
-Recibida la documentación que debe remitir la autoridad responsable, en los términos de esta Ley, se estará a lo siguiente:
+Recibida la documentación que debe remitir la autoridad responsable en los términos de esta Ley, se estará a lo siguiente:
 
-I. El Presidente del Tribunal ordenará la integración y registro del expediente y lo turnará de inmediato al (sic) magistrados instructores que corresponda de acuerdo con las reglas del turno, para su sustanciación y la formulación de los proyectos de sentencia que correspondan. En la determinación del turno, se estará al orden de entrada de los expedientes y al orden alfabético del primer apellido de los magistrados integrantes del Pleno. El turno podrá modificarse en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, previo acuerdo del Pleno;
+I. El Presidente del Tribunal ordenará la integración y registro del expediente y lo turnará a la brevedad al magistrado instructor que corresponda de acuerdo con las reglas del turno, para su sustanciación y la formulación del proyecto de sentencia que corresponda. En la determinación del turno, se estará al orden de entrada de los expedientes y al orden alfabético del primer apellido de los magistrados integrantes del Pleno. El turno podrá modificarse en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, previo acuerdo del Presidente;
 
-II. El magistrado instructor revisará de oficio si el medio de impugnación reúne los requisitos generales y especiales de procedencia establecidos en este ordenamiento;
+II. El magistrado instructor radicará el expediente en su ponencia, reservándose la admisión y, en su caso, realizará las prevenciones que procedan, requerirá los documentos e informes que correspondan, y ordenará las diligencias que estime necesarias para resolver;
 
-III. En el caso de que el escrito del coadyuvante no satisfaga el requisito relativo a acreditar la calidad de candidato o su interés en la causa, en términos de lo establecido en esta Ley y no se pueda deducir éste de los elementos que obren en el expediente, se le requerirá, con el apercibimiento de que el escrito no se tomará en cuenta al momento de resolver, si no cumple con tal requisito en un plazo no mayor a cuarenta y ocho horas, contadas a partir de que se le notifique el auto correspondiente;
+III. El magistrado instructor revisará de oficio si el medio de impugnación reúne los requisitos generales y especiales de procedencia establecidos en este ordenamiento;
 
-IV. En los casos que el promovente haya indicado que presentará pruebas dentro del plazo de interposición de la demanda, se reservará la admisión del mismo hasta la presentación de aquéllas o el vencimiento del plazo.
-
-La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso el Tribunal resolverá con los elementos que obren en autos;
+IV. En el supuesto de que el escrito del coadyuvante no satisfaga el requisito relativo a acreditar la calidad de candidato o su interés en la causa, en términos de lo establecido en esta Ley y no se pueda deducir éste de los elementos que obren en el expediente, se le requerirá, con el apercibimiento de que el escrito no se tomará en cuenta al momento de resolver, si no cumple con tal requisito en un plazo no mayor a cuarenta y ocho horas, contadas a partir de que se le notifique el auto correspondiente;
 
 V. Si de la revisión que realice el magistrado instructor encuentra que el medio de impugnación incumple con los requisitos esenciales para sustanciar y resolver el asunto, resulte evidentemente frívolo o encuadre en una de las causales de improcedencia o sobreseimiento, someterá a la consideración del Pleno, la resolución para su desechamiento;
 
-VI. Si el medio de impugnación reúne todos los requisitos establecidos por esta Ley, o en su caso se desahogaron satisfactoriamente las prevenciones, el magistrado instructor dictará el auto de admisión que corresponda. En el mismo auto ordenará se reciban las pruebas ofrecidas por las partes cuando así proceda y, en su caso, requerirá los documentos e informes y ordenará las diligencias que estime necesarias para resolver. De dicho auto se fijará una copia en los estrados del Tribunal;
+VI. En caso de ser necesario, el magistrado instructor podrá ordenar la celebración de una audiencia para el desahogo de las pruebas que a su juicio así lo ameriten;
 
-VII. En caso de ser necesario el magistrado instructor podrá ordenar la celebración de una audiencia para el desahogo de las pruebas que así lo ameriten;
+VII. Si la autoridad u órgano responsable no envía el informe circunstanciado dentro del plazo señalado en la presente Ley, el medio de impugnación se resolverá con los elementos que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con la presente ley u otras disposiciones aplicables;
 
-VIII. Si la autoridad responsable no envía el informe circunstanciado dentro del plazo señalado en la presente Ley, el medio de impugnación se resolverá con los elementos que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con la presente ley u otras disposiciones aplicables; y
+VIII. Una vez sustanciado el expediente, y si el medio de impugnación reúne todos los requisitos establecidos por esta Ley o, en su caso, se desahogaron satisfactoriamente las prevenciones, el magistrado instructor dictará el auto de admisión que corresponda; proveerá sobre las pruebas ofrecidas y aportadas, y declarará el cierre de la instrucción, ordenando la elaboración del correspondiente proyecto de resolución para ser sometido al Pleno del Tribunal. Dicho auto será notificado a las partes mediante los estrados del Tribunal; y
 
-IX. Una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción, el magistrado instructor formulará el proyecto de resolución y lo someterá a la consideración del Pleno.
+IX. De oficio o a petición de cualquiera de las partes, el magistrado instructor podrá ordenar la regularización del procedimiento, siempre y cuando no implique revocar sus propios actos; en caso contrario, solo podrá ser ordenada por el Pleno.
 
-El Pleno podrá ordenar la regularización del procedimiento a petición de las partes, o bien, del magistrado instructor.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 55.
 
-Si la autoridad u órgano partidario responsable incumple con las obligaciones de trámite y remisión previstos en la presente Ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
+Si la autoridad u órgano partidario responsable incumple con las obligaciones de trámite y remisión previstos en la presente Ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo máximo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, se estará a lo siguiente:
 
 I. El magistrado instructor tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, cualquiera de los medios de apremio previstos en el presente ordenamiento;
 
@@ -652,19 +742,25 @@ El Presidente del Tribunal tendrá obligación de ordenar que se fijen en los es
 
 El Pleno determinará la hora y días de sus sesiones públicas.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 61.
 
 En la sesión de resolución, se discutirán los asuntos en el orden en que se hayan listado, o en los términos que para su mejor análisis lo determine el Pleno, de acuerdo con el procedimiento siguiente:
 
-I. El Magistrado ponente presentará, por sí o a través de un Secretario de Estudio y Cuenta, o en forma extraordinaria por un Secretario Auxiliar, el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
+I. El Magistrado ponente presentará, por sí o a través de un Secretario de Estudio y Cuenta, o Secretario Auxiliar, el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que la funda;
 
 II. Los Magistrados podrán discutir el proyecto en turno;
 
-III. Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación; y
+III. Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación;
 
-IV. Los Magistrados podrán presentar voto particular, el cual se agregará al expediente.
+IV. Los Magistrados podrán presentar voto particular en sus diversas modalidades, el cual se agregará al final de la sentencia; y
 
-En casos extraordinarios el Pleno del Tribunal podrá diferir la resolución de un asunto listado.
+V. En el supuesto de que el proyecto sometido a la consideración del Pleno sea rechazado por la mayoría de sus integrantes presentes, se designará a un magistrado encargado de elaborar el engrose respectivo. Si el asunto lo amerita podrá ser returnado.
+
+De considerarlo pertinente, el Pleno del Tribunal podrá diferir la resolución de un asunto listado.
+
+El Pleno adoptará sus determinaciones por mayoría de votos de los Magistrados Electorales presentes en la sesión o reunión que corresponda.
 
 ###### Artículo 62.
 
@@ -682,9 +778,11 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 63.
 
-Al resolver los medios de impugnación establecidos en esta Ley, el Tribunal deberá suplir las deficiencias u omisiones en la argumentación de los agravios cuando los mismos puedan ser deducidos claramente de los hechos expuestos.
+Al resolver los medios de impugnación establecidos en esta Ley, el Tribunal deberá suplir las deficiencias u omisiones en la argumentación de los agravios cuando los mismos puedan ser deducidos claramente de los hechos expuestos, sin que tal suplencia pueda ser total, pues para que opere es necesario que en los agravios, por lo menos se señale con precisión la lesión que ocasiona el acto o resolución impugnada, así como los motivos que originaron ese perjuicio, para que con tal argumento expuesto por el enjuiciante, dirigido a demostrar la ilegalidad de las consideraciones que la responsable tomó en cuenta para resolver en el sentido en que lo hizo, el tribunal lo estudie con base en los preceptos jurídicos aplicables.
 
 ###### Artículo 64.
 
@@ -702,7 +800,9 @@ III. Modificar el acto o resolución impugnada y restituir, según corresponda, 
 
 IV. Reponer el procedimiento del acto o resolución impugnada, siempre que no exista impedimento que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; en cuyo caso deberá resolver plenamente el aspecto que corresponda de acuerdo a las fracciones anteriores;
 
-V. Tener por no interpuestos los juicios;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+V. Tener por no presentados los juicios;
 
 VI. Desechar o sobreseer el medio de impugnación, según el caso, cuando concurra alguna de las causales de improcedencia establecidas en la presente Ley, y
 
@@ -710,9 +810,19 @@ VII. Declarar la existencia de una determinada situación jurídica.
 
 En todo caso, el acto o resolución impugnada o su parte conducente se dejará insubsistente en los términos que establezca el Tribunal en su resolución.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 66.
 
-Las partes podrán solicitar la aclaración de la sentencia, dentro de los cinco días siguientes a aquél en que se les hubiere notificado. El incidente se resolverá de plano y el Pleno dictará las correcciones disciplinarias correspondientes, en aquellos casos en que se utilice la vía incidental para diferir el cumplimiento de una sentencia o plantear frivolidades.
+Las partes podrán solicitar al Tribunal la aclaración de la sentencia, dentro de los tres días siguientes a aquél en que se les hubiera notificado, expresándose, con toda claridad, la contradicción, ambigüedad u oscuridad que se reclame.
+
+Recibida la solicitud de aclaración, el Magistrado Presidente turnará la misma al magistrado ponente de la resolución o, en su caso, al magistrado encargado del engrose, a efecto de que éste, en un plazo de cinco días hábiles someta al Pleno la resolución correspondiente.
+
+El Pleno del tribunal resolverá dentro de los cinco días hábiles siguientes al en que reciba el proyecto, lo que estime procedente, sin que pueda variar el sentido de la sentencia.
+
+La resolución que resuelva sobre la aclaración de una sentencia, se reputará parte integrante de ésta, y no admitirá recurso alguno.
+
+El Pleno dictará las correcciones disciplinarias correspondientes, en aquellos casos en que se utilice la vía de aclaración de sentencia para diferir el cumplimiento de una sentencia o plantear frivolidades. Para tal efecto, podrá hacer uso de cualquiera de los medios de apremio previstos en la presente ley.
 
 ###### Artículo 67.
 
@@ -804,23 +914,39 @@ El juicio electoral tiene por objeto garantizar la legalidad de todos los actos,
 
 El juicio electoral será aplicable y procederá fuera y durante los procesos electorales o de participación ciudadana ordinarios y extraordinarios, en los términos y formas que establece esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 77.
 
-Podrá ser interpuesto el juicio electoral en los siguientes términos:
+Podrá ser promovido el juicio electoral en los siguientes términos:
 
-I. En contra de actos, resoluciones u omisiones de los órganos, unidades o del Consejo General del Instituto, que podrá ser interpuesto por los partidos políticos o coaliciones con interés legítimo, siempre y cuando no exista afectación al interés jurídico de un titular de derechos, en cuyo caso sólo este se encontrará legitimado para impugnar;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+I. En contra de actos, resoluciones u omisiones de los órganos, unidades, direcciones ejecutivas, de unidad, distritales, del Consejo General o Consejos Distritales del Instituto, que podrá ser promovido por algún titular de derechos con interés jurídico o, en su caso, promovido en ejercicio de acciones tuitivas de intereses difusos;
 
 II. Por las asociaciones políticas o coaliciones por violaciones a las normas electorales, cuando hagan valer presuntas violaciones a sus derechos;
 
-III. Por los ciudadanos y las organizaciones de ciudadanos, a través de sus representantes acreditados, en contra de actos, resoluciones u omisiones de los órganos, unidades, Consejos Distritales o del Consejo General del Instituto por violaciones a las normas de participación ciudadana, exclusivamente dentro de dichos procesos. Asimismo, podrá ser interpuesto por los partidos políticos, cuando reclamen violaciones al principio de legalidad;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-IV. Por los partidos políticos y coaliciones en contra de los cómputos totales y entrega de constancias de mayoría o asignación en las elecciones reguladas por el Código y
+(SIC) Por los ciudadanos y las organizaciones ciudadanos (sic) en términos de la Ley de Participación Ciudadana, a través de sus representantes acreditados, en contra de actos, resoluciones u omisiones de los órganos, unidades, Consejos Distritales o del Consejo General del Instituto por violaciones a las normas que rigen los instrumentos de participación ciudadana, exclusivamente dentro de dichos procesos y siempre y cuando sean competencia del Tribunal;
 
-V. En los demás casos, que así se desprendan del Código y de esta Ley.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+IV. Por los partidos políticos y coaliciones en contra de los cómputos totales y entrega de constancias de mayoría o asignación en las elecciones reguladas por el Código; y (sic)
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+V. Aquellos que cuestionen actos y resoluciones dictadas dentro de un procedimiento administrativo sancionador electoral susceptibles de afectar su interés jurídico, siempre y cuando, los derechos reclamados en dicho juicio no se refieran a aquéllos de naturaleza político-electoral concedidos normativamente a los ciudadanos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE JULIO DE 2011)</small>
+
+VI. En los demás casos, que así se desprendan del Código y de esta Ley.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 78.
 
-Cuando el juicio electoral se relacione con los resultados de los cómputos, el plazo para interponer este juicio iniciará al día siguiente a la conclusión del cómputo de la elección de que se trate.
+Cuando el juicio electoral se relacione con los resultados de los cómputos, el plazo para interponer este juicio iniciará al día siguiente a la conclusión del cómputo distrital de la elección de que se trate.
 
 ###### Artículo 79.
 
@@ -844,7 +970,9 @@ No se podrá impugnar más de una elección en un solo escrito, salvo que se tra
 
 El juicio electoral que tenga por objeto controvertir los resultados electorales previstos en el Código, sólo podrá ser promovido por:
 
-I. Los partidos políticos o coaliciones con interés legítimo, y
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+I. Los partidos políticos o coaliciones con interés jurídico, y
 
 II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes.
 
@@ -876,59 +1004,65 @@ Los juicios electorales por los que se impugnen cómputos totales y constancias 
 
 Corresponde en forma exclusiva conocer y decretar las nulidades a que se refiere el presente Capítulo al Tribunal.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 86.
 
 Las nulidades establecidas en este Capítulo podrán afectar:
 
-a) La totalidad de la votación emitida en una casilla y, en consecuencia, los resultados de la elección impugnada;
+I. La totalidad de la votación emitida en una casilla y, en consecuencia, los resultados de la elección impugnada;
 
-b) La votación de algún Partido Político o Coalición emitida en una casilla, cuando se compruebe fehacientemente la responsabilidad del Partido Político o Coalición, siempre que la misma sea determinante para afectar el sentido de la votación;
+II. La votación de algún Partido Político o Coalición emitida en una casilla, cuando se compruebe fehacientemente la responsabilidad del Partido Político o Coalición, siempre que la misma sea determinante para afectar el sentido de la votación;
 
-c) La elección de Jefe de Gobierno del Distrito Federal;
+III. La elección de Jefe de Gobierno del Distrito Federal;
 
-d) La elección de Diputados por los principios de mayoría relativa o representación proporcional;
+IV. La elección de Diputados por los principios de mayoría relativa o representación proporcional;
 
-e) La elección de los Jefes Delegacionales; y
+V. La elección de los Jefes Delegacionales; y
 
-f) Los resultados del procedimiento de participación ciudadana.
+VI. Los resultados del procedimiento de participación ciudadana.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 87.
 
 La votación recibida en una casilla será nula cuando se acrediten circunstancias que afecten las garantías del procedimiento electoral para la emisión libre, secreta, directa y universal del sufragio, o por violación directa a las características con que debe emitirse el sufragio, como son las siguientes:
 
-a) Instalar la casilla o realizar el escrutinio y cómputo, sin causa justificada, en lugar distinto al señalado por el Consejo Distrital correspondiente;
+I. Instalar la casilla o realizar el escrutinio y cómputo, sin causa justificada, en lugar distinto al señalado por el Consejo Distrital correspondiente;
 
-b) Entregar sin causa justificada el paquete electoral que contenga los expedientes electorales al Consejo Distrital, fuera de los plazos que señala el Código;
+II. Entregar sin causa justificada el paquete electoral que contenga los expedientes electorales al Consejo Distrital, fuera de los plazos que señala el Código;
 
-c) La recepción de la votación por personas distintas a los facultados por el Código;
+III. La recepción de la votación por personas distintas a los facultados por el Código;
 
-d) Haber mediado error en la computación de los votos que sea irreparable y esto sea determinante para el resultado de la votación;
+IV. Haber mediado error en la computación de los votos que sea irreparable y esto sea determinante para el resultado de la votación;
 
-e) Permitir sufragar a quien no tenga derecho, en los términos del Código, y siempre que ello sea determinante para el resultado de la votación;
+V. Permitir sufragar a quien no tenga derecho, en los términos del Código, y siempre que ello sea determinante para el resultado de la votación;
 
-f) Haber impedido el acceso a los representantes de los Partidos Políticos o Coaliciones o haberlos expulsado sin causa justificada;
+VI. Haber impedido el acceso a los representantes de los Partidos Políticos o Coaliciones o haberlos expulsado sin causa justificada;
 
-g) Ejercer violencia física o presión sobre los funcionarios de la Mesa Directiva de Casilla, sobre los electores o los representantes de los Partidos Políticos o Coaliciones siempre que esos hechos sean determinantes para el resultado de la votación;
+VII. Ejercer violencia física o presión sobre los funcionarios de la Mesa Directiva de Casilla, sobre los electores o los representantes de los Partidos Políticos o Coaliciones siempre que esos hechos sean determinantes para el resultado de la votación;
 
-h) Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación;
+VIII. Se compruebe que se impidió, sin causa justificada, ejercer el derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación; y
 
-i) Existir irregularidades graves, no reparables durante la jornada electoral o en el cómputo distrital, que en forma evidente hayan afectado las garantías al sufragio.
+IX. Existir irregularidades graves, no reparables durante la jornada electoral o en el cómputo distrital, que en forma evidente hayan afectado las garantías al sufragio.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 88.
 
 Son causas de nulidad de una elección las siguientes:
 
-a) Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas, en el ámbito correspondiente a cada elección;
+I. Cuando alguna o algunas de las causas señaladas en el artículo anterior se acrediten en por lo menos el 20% de las casillas, en el ámbito correspondiente a cada elección;
 
-b) Cuando no se instalen el 20% de las casillas en el ámbito correspondiente a cada elección y consecuentemente la votación no hubiere sido recibida;
+II. Cuando no se instalen el 20% de las casillas en el ámbito correspondiente a cada elección y consecuentemente la votación no hubiere sido recibida;
 
-c) Cuando los dos integrantes de la fórmula de candidatos a Diputados por el principio de mayoría relativa sean inelegibles;
+III. Cuando los dos integrantes de la fórmula de candidatos a Diputados por el principio de mayoría relativa sean inelegibles;
 
-d) Cuando el candidato a Jefe de Gobierno sea inelegible;
+IV. Cuando el candidato a Jefe de Gobierno sea inelegible;
 
-e) Cuando el candidato a Jefe Delegacional sea inelegible; y
+V. Cuando el candidato a Jefe Delegacional sea inelegible; y
 
-f) Cuando el Partido Político o Coalición, sin importar el número de votos obtenido sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice por la autoridad electoral, mediante el procedimiento de revisión preventiva de gastos sujetos a topes, en términos de lo previsto en el Código. En este caso, el candidato o candidatos y el Partido Político o Coalición responsable no podrán participar en la elección extraordinaria respectiva.
+VI. Cuando el Partido Político o Coalición, sin importar el número de votos obtenido sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice por la autoridad electoral, mediante el procedimiento de revisión preventiva de gastos sujetos a topes, en términos de lo previsto en el Código. En este caso, el candidato o candidatos y el Partido Político o Coalición responsable no podrán participar en la elección extraordinaria respectiva.
 
 Sólo podrá ser declarada nula la elección en un distrito electoral o en todo el Distrito Federal, cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la elección.
 
@@ -980,49 +1114,75 @@ d) Deberá acreditarse la existencia de duda fundada sobre la certeza de los res
 
 e) La autoridad electoral administrativa hubiese omitido de realizar el recuento de aquellos paquetes electorales en los cuales se hubiese manifestado duda fundada respecto del resultado por parte del representante del actor y tal hecho hubiese quedado debidamente asentado en al (sic) acta circunstanciada de la sesión de cómputo distrital que correspondan al ámbito de la elección que se impugna.
 
-Cumplidos los requisitos establecidos en los incisos anteriores, el Tribunal Electoral del Distrito Federal llevará a cabo el recuento total de la elección correspondiente y procederá a declarar ganador de la elección en los términos de la Ley respectiva.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
-II.- Para poder decretar la realización de cómputos parciales de votación se observarán lo relativo a los incisos a) al d) de la fracción anterior o bien la autoridad electoral administrativa hubiese omitido de realizar el recuento de aquellos paquetes electorales que en términos de ley se encuentra obligado a realizar.
+Cumplidos los requisitos establecidos en los incisos anteriores, el Pleno del Tribunal acordará los términos en que se llevará a cabo el recuento total de la elección correspondiente y procederá a declarar ganador de la elección en los términos de la Ley respectiva.
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+II. Para poder decretar la realización de cómputos parciales de votación se observarán lo relativo a los incisos b) al d) de la fracción anterior, además deberán señalarse las casillas sobre las que se solicita el recuento o en el caso de que la autoridad electoral administrativa hubiese omitido de realizar el recuento de aquellos paquetes electorales que en términos de ley se encuentra obligado a realizar.
 
 Para los efectos de las dos fracciones anteriores, el hecho que algún representante de partido político o coalición manifieste que la duda se funda en la cantidad de votos nulos sin estar apoyada por elementos adicionales como escritos de incidentes u otros elementos que generen convicción, no será motivo suficiente para decretar la apertura de paquetes y realización de recuentos parciales de votación.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 94.
 
-Cuando el Instituto Electoral del Distrito Federal acuerde la utilización de dispositivos electrónicos para la recepción de la votación, el Tribunal emitirá, dentro de los diez días siguientes, acuerdo en el cual se fijen las bases y los criterios con base en los cuales se aplicará lo relativo a las nulidades establecidas en el presente ordenamiento.
+Cuando el Instituto Electoral acuerde la utilización de dispositivos electrónicos para la recepción de la votación, el Consejo General deberá notificarlo de manera inmediata al Tribunal Electoral, para el efecto de que éste, emita un acuerdo en el cual establecerá las causales de nulidad que serán aplicables, la (sic) cuales no podrán ser distintas o adicionales a las señalada (sic) en la presente Ley. Dicho acuerdo será notificado por oficio al Consejo General, y publicado en la Gaceta Oficial del Distrito Federal, en los estrados, y en el Sitio de Internet del Tribunal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JULIO DE 2011)</small>
+
+###### Artículo 94 Bis.
+
+Con base en el acuerdo mediante el cual el Consejo General establezca los mecanismos, normatividad, documentación, procedimientos, materiales y demás insumos necesarios para promover y recabar el voto de los ciudadanos del Distrito Federal residentes en el extranjero, únicamente para la elección de Jefe de Gobierno, el Pleno del Tribunal Electoral emitirá, a más tardar en el mes de diciembre del año anterior en que se verifique la jornada electoral, el respectivo acuerdo que establezca las causales de nulidad que serán aplicables para esta modalidad de votación.
+
+El acuerdo del Pleno de (sic) Tribunal Electoral será notificado por oficio al Consejo General, y publicado en la Gaceta Oficial del Distrito Federal, en los estrados, y en el Sitio de Internet del Tribunal.
 
 ### CAPÍTULO III. Del Juicio para la Protección de los Derechos Político-Electorales de los Ciudadanos
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 95.
 
 El juicio para la protección de los derechos político-electorales de los ciudadanos en el Distrito Federal, tiene por objeto la protección de los derechos político-electorales, cuando el ciudadano por sí mismo y en forma individual, haga valer presuntas violaciones, entre otros, a los derechos siguientes:
 
-a) Votar y ser votado;
+I. Votar y ser votado;
 
-b) Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la ciudad, y
+II. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la ciudad, y
 
-c) Afiliarse libre e individualmente a las asociaciones políticas, siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
+III. Afiliarse libre e individualmente a las asociaciones políticas, siempre y cuando se hubieren reunido los requisitos constitucionales y los que se señalan en las leyes para el ejercicio de esos derechos.
 
-Asimismo, podrá ser interpuesto:
+Asimismo, podrá ser promovido:
 
-a) En contra de actos o resoluciones de las autoridades partidistas durante los procesos internos de elección de dirigentes y de candidatos a puestos de elección popular, y
+I. En contra de actos o resoluciones de las autoridades partidistas durante los procesos internos de elección de dirigentes y de candidatos a puestos de elección popular;
 
-b) En controversias que se susciten entre diversos órganos partidistas en el Distrito Federal.
+II. En controversias que se susciten entre diversos órganos partidistas en el Distrito Federal.
 
-En los casos señalados en el párrafo segundo de este artículo, para efecto de restituir al ciudadano en el derecho político electoral violado, podrá decretarse la nulidad de los procesos electivos internos correspondientes.
+III. En contra de sanciones impuestas por algún órgano del Instituto o de un partido político, siempre y cuando implique violación a un derecho político - electoral; y
+
+IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales.
+
+En los casos señalados en el párrafo segundo de este artículo, para efecto de restituir al ciudadano en el derecho político electoral violado, podrá decretarse la nulidad de los procesos electivos correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 96.
 
-El juicio será promovido por los ciudadanos con interés jurídico en los casos siguientes:
+El juicio para la protección de los derechos político-electorales de los ciudadanos será promovido por los ciudadanos con interés jurídico en los casos siguientes:
 
 I. Cuando consideren que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulados como candidatos a un cargo de elección popular, por trasgresión a las normas de los estatutos del mismo partido o del convenio de coalición;
 
-II. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales, si también el partido político interpuso el juicio electoral por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal, junto con el juicio promovido por el ciudadano;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+II. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular. En los procesos electorales, si también el partido político promovió el juicio electoral por la negativa del mismo registro, el Instituto remitirá el expediente para que sea resuelto por el Tribunal, junto con el juicio promovido por el ciudadano;
 
 III. Cuando habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como agrupación política;
 
 IV. Cuando estando afiliado a un partido político o agrupación política, considere que un acto o resolución de los órganos partidarios o de la agrupación responsables, es violatorio de cualquiera de sus derechos político-electorales; y
 
 V.- Considere que los actos o resoluciones de la autoridad electoral son violatorios de cualquiera de sus derechos político-electorales.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 97.
 
@@ -1032,19 +1192,23 @@ Se consideran entre otras, como instancias previas las establecidas en los docum
 
 El agotar las instancias previas será obligatorio, siempre y cuando:
 
-a) Los órganos competentes estén establecidos, integrados e instalados con antelación a los hechos litigiosos;
+I. Los órganos competentes estén establecidos, integrados e instalados con antelación a los hechos litigiosos;
 
-b) Se respeten todas las formalidades esenciales del procedimiento exigidas constitucionalmente, y
+II. Se respeten todas las formalidades esenciales del procedimiento exigidas constitucionalmente, y
 
-c) Que formal y materialmente resulten eficaces para restituir a los promoventes en el goce de sus derechos político-electorales transgredidos.
+III. Que formal y materialmente resulten eficaces para restituir a los promoventes en el goce de sus derechos político-electorales transgredidos.
 
-Cuando falte algún requisito de los señalados con anterioridad, acudir a las instancias internas será optativo, por lo que el afectado podrá acudir directamente a la autoridad jurisdiccional, siempre y cuando se corra el riesgo de que la violación alegada se torne irreparable, y en su caso, acredite haberse desistido previamente de las instancias internas que hubiera iniciado, y que aún no se hubieran resuelto, a fin de evitar resoluciones contradictorias.
+Cuando falte algún requisito de los señalados con anterioridad, acudir a las instancias internas será optativo, por lo que el afectado podrá acudir directamente a la autoridad jurisdiccional, siempre y cuando se corra el riesgo de que la violación alegada se torne irreparable y, en su caso, acredite haberse desistido previamente de las instancias internas que hubiera iniciado, y que aún no se hubieran resuelto, a fin de evitar resoluciones contradictorias.
+
+Asimismo, el actor podrá acudir directamente al Tribunal reclamando una omisión, cuando los órganos partidistas competentes no resuelvan los medios de impugnación internos en los plazos previstos en la normativa del partido, o en un tiempo breve y razonable en el caso de que dicha normatividad no contemple plazos para resolver.
+
+De acreditarse la omisión, en la sentencia que se pronuncie, el Tribunal dará vista al Instituto a efecto de que inicie el procedimiento administrativo sancionador que corresponda en contra del partido político infractor.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 98.
 
 El juicio para la protección de los derechos político-electorales de los ciudadanos se presentará, sustanciará y resolverá en los términos que establece la presente Ley.
-
-En la etapa de cómputos y resultados, el candidato agraviado sólo podrá impugnar los resultados electorales a través del juicio electoral, en los términos que se precisan en este ordenamiento.
 
 # LIBRO SEGUNDO. De las controversias laborales y administrativas
 
@@ -1062,9 +1226,11 @@ Las diferencias o conflictos que se susciten entre el Instituto y sus servidores
 
 Los servidores de base podrán optar por la acción de indemnización o de reinstalación, y el Tribunal o el Instituto tendrán el derecho de no reinstalar al servidor demandante mediante el pago de una indemnización consistente en tres meses de salario, más doce días por cada año de servicios prestados y la prima de antigüedad conforme las reglas que para el pago de esta prestación se encuentran reguladas en la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 100.
 
-En lo que no contravenga al régimen laboral previsto en este ordenamiento para el conocimiento y la resolución de los conflictos o diferencias laborales entre el Instituto o el Tribunal y sus servidores, son aplicables, además sus ordenamientos internos, y en forma supletoria y en el siguiente orden:
+En lo que no contravenga al régimen especial laboral de las autoridades electorales previsto en este ordenamiento y en el Código, para el conocimiento y la resolución de los conflictos o diferencias laborales entre el Instituto o el Tribunal y sus servidores, son aplicables, además de sus ordenamientos internos, en forma supletoria y en el siguiente orden:
 
 I. La Ley Federal de (sic) Trabajo;
 
@@ -1078,15 +1244,25 @@ V. Los principios generales de derecho; y
 
 VI. La equidad.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 101.
 
 Para la sustanciación del juicio especial laboral que se suscite entre los servidores del Instituto y los del Tribunal, se entenderá que son partes los propios servidores y el Instituto o el Tribunal, según corresponda, que ejerciten acciones u opongan excepciones.
 
+Las relaciones de trabajo se establecen con el Instituto o con el Tribunal, en su carácter de personas jurídicas públicas, y son sus titulares y sus servidores, quienes materializan las funciones otorgadas a los respectivos órganos; en consecuencia, no existe responsabilidad solidaria entre los servidores y los demandantes, por lo que para la sustanciación del juicio especial laboral que se suscite entre los servidores del Instituto y los del Tribunal, únicamente son partes los servidores y el Instituto o el Tribunal, según corresponda, que ejerciten acciones u opongan excepciones.
+
 Los servidores del Instituto o del Tribunal que puedan ser afectados por la resolución que se pronuncie en un juicio especial laboral, podrán intervenir en él, comprobando su interés jurídico en el mismo, o ser llamados a juicio por el magistrado instructor o por la Comisión de Conciliación y Arbitraje.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 102.
 
-El Tribunal ostentará el carácter de patrón cuando se susciten conflictos laborales entre éste y sus servidores y será representado por la Dirección General de Asuntos Jurídicos, incluyendo a codemandados físicos que laboren para el Tribunal. Asimismo, el Instituto ostentará el carácter de patrón cuando se susciten conflictos laborales entre éste y sus servidores.
+El Tribunal ostentará el carácter de patrón cuando se susciten conflictos laborales entre éste y sus servidores y será representado por la Dirección General Jurídica.
+
+Asimismo, el Instituto ostentará el carácter de patrón cuando se susciten conflictos laborales entre éste y sus servidores y será representado por el secretario ejecutivo.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 103.
 
@@ -1094,11 +1270,15 @@ Las partes podrán comparecer al juicio especial laboral en forma directa o por 
 
 Tratándose de apoderado, la personería se acreditará conforme a las siguientes reglas:
 
-I. Cuando el compareciente actúe como apoderado de un servidor del Instituto o del propio Tribunal, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante ante dos testigos, sin necesidad de ser ratificada ante el magistrado instructor o ante la Comisión de Conciliación y Arbitraje, en el entendido de que dicho poder se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, y las acciones procedentes aunque no se expresen en el mismo; y
+I. Cuando el compareciente actúe como apoderado de un servidor del Instituto o del propio Tribunal, podrá hacerlo mediante poder notarial o carta poder firmada por el otorgante ante dos testigos, sin necesidad de ser ratificada ante el magistrado instructor o ante la Comisión de Conciliación y Arbitraje, en el entendido de que dicho poder se entenderá conferido para demandar todas las prestaciones principales y accesorias que correspondan, y las acciones procedentes aunque no se expresen en el mismo;
 
-II. Cuando el apoderado actúe como representante legal del Instituto o del Tribunal deberá exhibir el testimonio notarial respectivo que así lo acredite.
+II. Cuando el apoderado actúe como representante legal del Instituto o del Tribunal deberá exhibir el testimonio notarial respectivo que así lo acredite;
 
-Los representantes o apoderados podrán acreditar su personería conforme a los lineamientos anteriores, en cada uno de los juicios especiales en los que comparezcan, exhibiendo copia simple fotostática para su cotejo con el documento original o certificado, el cual les será devuelto de inmediato, quedando en autos la copia exhibida.
+III. El magistrado instructor o la Comisión de Conciliación y Arbitraje podrán tener por acreditada la personería de los apoderados de los servidores sin sujetarse a las reglas anteriores, siempre que de los documentos exhibidos lleguen al convencimiento de que efectivamente se representa a la parte interesada; y
+
+IV. Las partes podrán otorgar poder mediante su sola comparecencia, previa identificación ante el Magistrado Instructor o la Comisión de Conciliación y Arbitraje, para que los representen ante éstos; en el caso del Instituto o del Tribunal deberán acreditar facultades para otorgarlo.
+
+Los representantes o apoderados podrán acreditar su personería conforme a los lineamientos anteriores, en cada uno de los juicios especiales en los que comparezcan.
 
 ###### Artículo 104.
 
@@ -1118,25 +1298,37 @@ II. El procedimiento que se sustancie ante el magistrado instructor o ante la Co
 
 Cuando la demanda del servidor del Instituto o del Tribunal sea incompleta, en cuanto a que no comprenda todas las prestaciones que de acuerdo con la ley aplicable deriven de la acción intentada o procedente, conforme a los hechos expuestos por el servidor, el magistrado instructor o la Comisión la subsanarán en el momento de admitirla.
 
-Si el magistrado instructor o la Comisión notaran alguna irregularidad en el escrito de demanda o se desprenda que es obscura o vaga, o que se estuvieren ejercitando acciones contradictorias, al admitirla le señalará al demandante los defectos u omisiones en que haya incurrido y lo apercibirá a que subsane lo anterior, en un plazo de cinco días hábiles.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
-La sola presentación de la demanda interrumpe la prescripción respecto a la acción intentada.
+Si el magistrado instructor o la Comisión de Conciliación y Arbitraje notaran alguna irregularidad en el escrito de demanda o se desprenda que es obscura o vaga, le señalará al demandante los defectos u omisiones en que haya incurrido y lo apercibirá a que subsane lo anterior, en un plazo de cinco días hábiles y en caso de no hacerlo se le tendrá por no presentada la demanda y se enviará al archivo. La solo (sic) presentación de la demanda interrumpe la prescripción respecto a la acción intentada;
 
 III. El servidor deberá indicar el nombre del área interna donde labora o laboró, o en su defecto, precisar el domicilio de la oficina o lugar en donde prestó o presta el servicio, y las funciones generales que desempeñaba.
 
 IV. El magistrado instructor o la Comisión de Conciliación y Arbitraje ordenará que se corrija cualquier irregularidad u omisión que notaren en la sustanciación del proceso, para el efecto de regularizar el procedimiento, sin que ello implique que puedan revocar sus propias resoluciones.
 
-V. Para los asuntos que se susciten entre un servidor y el Tribunal, la Secretaría General, la Secretaría Administrativa, y la Contraloría Interna, del Tribunal, están obligadas, dentro de la esfera de sus respectivas competencias, a auxiliar a la Comisión de Conciliación y Arbitraje.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-VI. En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma determinada, pero las partes deberán precisar los puntos petitorios.
+V. Para los asuntos que se susciten entre un servidor y el Tribunal, la Secretaría General, la Secretaría Administrativa y la Contraloría General, del Tribunal, están obligadas, dentro de la esfera de sus respectivas competencias, a auxiliar a la Comisión de Conciliación y Arbitraje;
 
-VII. En las audiencias que se celebren, se requerirá de la presencia física de las partes o de sus representantes o apoderados.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-VIII. Las declaraciones que rindan las partes, sus apoderados o cualquier persona ante el magistrado instructor o ante la Comisión de Conciliación y Arbitraje, las harán bajo protesta de decir verdad y bajo apercibimiento de las penas en que incurren si declaran falsamente ante autoridad.
+VI. En las comparecencias, escritos, promociones o alegaciones, no se exigirá forma determinada, pero las partes deberán precisar los puntos petitorios. En los escritos y promociones deberá constar la firma autógrafa del actor o de su apoderado;
 
-IX. Todas las actuaciones procesales serán autorizadas, según el caso por el Secretario de Estudio y Cuenta o por el Secretario Técnico de la Comisión de Conciliación y Arbitraje, y certificadas por el Secretario General, excepción hecha de las diligencias encomendadas a otros funcionarios. Lo actuado en las audiencias se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervinieron, quieran y sepan hacerlo. Cuando algún compareciente omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes comparecientes.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-X. El magistrado instructor y la Comisión de Conciliación y Arbitraje, conforme a lo establecido en esta Ley, están obligados a expedir a la parte solicitante, copia de cualquier documento o constancia que obre en el expediente.
+VII. En las audiencias que se celebren, se requerirá de la presencia física de las partes o de sus apoderados; sin embargo, su inasistencia no será motivo de suspensión o diferimiento de aquéllas;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+VIII. Las declaraciones que rindan las partes, sus apoderados, testigos o cualquier persona ante el magistrado instructor o ante la Comisión de Conciliación y Arbitraje, las harán bajo protesta de decir verdad y bajo apercibimiento de las penas en que incurren si declaran falsamente ante autoridad jurisdiccional;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+IX. Todas las actuaciones procesales serán autorizadas o certificadas, según el caso, por el Secretario de Estudio y Cuenta o por el Secretario Técnico de la Comisión de Conciliación y Arbitraje. Lo actuado en las audiencias se hará constar en actas, las que deberán ser firmadas por las personas que en ellas intervinieron, puedan y sepan hacerlo. Cuando algún compareciente omitiere firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. A solicitud de cualquiera de las partes se podrá entregar copia simple de las actas de audiencia;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+X. El magistrado instructor y la Comisión de Conciliación y Arbitraje, conforme a lo establecido en esta Ley, están obligados a expedir a la parte solicitante, copia de cualquier documento o constancia que obre en el expediente, previo pago de derechos;
 
 XI. Previa aprobación del Pleno, para los asuntos que se susciten entre el Tribunal y sus servidores la Comisión de Conciliación y Arbitraje acordará que los expedientes concluidos de manera definitiva sean dados de baja, previa certificación de los mismos o de su conservación, a través de cualquier otro procedimiento técnico científico que permita su consulta.
 
@@ -1144,45 +1336,61 @@ XII. En caso de extravío o desaparición del expediente o de alguna constancia,
 
 El magistrado instructor o la Comisión de Conciliación y Arbitraje, señalaran, dentro de las setenta y dos horas siguientes, fecha y hora para que tenga lugar una audiencia en la que las partes deberán aportar todos los elementos, constancias y copias que obren en su poder.
 
-La Comisión o el magistrado instructor podrán ordenar se practiquen aquellas actuaciones y diligencias necesarias para reponer los autos.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
-La Comisión, de oficio, cuando lo estime conveniente, hará la denuncia correspondiente ante Contraloría Interna del Tribunal, de la desaparición del expediente o actuación, acompañando copia de las actas y demás diligencias practicadas con dicho motivo; asimismo, el magistrado instructor hará la denuncia ante el Ministerio Público correspondiente.
+La Comisión de Conciliación y Arbitraje o el Magistrado Instructor, podrán ordenar se practiquen las actuaciones y diligencias necesarias para reponer los autos.
 
-XIII. El magistrado instructor, los miembros de la Comisión y el Secretario Técnico, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+La Comisión de Conciliación y Arbitraje, o el magistrado instructor, según sea el caso, de oficio o cuando lo estime conveniente, hará la denuncia correspondiente ante la Contraloría General del Tribunal de la desaparición del expediente o actuaciones, acompañando copia de las actas y demás diligencias practicadas con dicho motivo; de ser el caso, deberá informarse al Magistrado Presidente para que, por conducto de la Dirección General Jurídica se presente la denuncia ante la autoridad competente;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+XIII. El magistrado instructor, los miembros de la Comisión de Conciliación y Arbitraje, los Secretarios de Estudio y Cuenta y el Secretario Técnico de la Comisión, podrán imponer correcciones disciplinarias, para mantener el buen orden en el desarrollo de las audiencias o diligencias, y exigir que se les guarde el respeto y la consideración debidos.
 
 Por su orden, las correcciones disciplinarias que pueden imponerse, son:
 
-a. Amonestación;
+a) Amonestación;
 
-b. Multa que no podrá exceder de diez veces el salario mínimo general en el Distrito Federal en el momento en que se cometa a (sic) infracción; y
+b) Multa que no podrá exceder de diez veces el salario mínimo general en el Distrito Federal en el momento en que se cometa la infracción; y
 
-c. Expulsión del local del Tribunal a la persona que se resista a cumplir la orden, y podrá hacerlo con el auxilio de los cuerpos de seguridad.
+c) Expulsión del local del Tribunal a la persona que se resista a cumplir la orden, y podrá hacerlo con el auxilio de los cuerpos de seguridad que resguarda las instalaciones del Tribunal, o bien, por conducto de cualquier elemento de la Secretaría de Seguridad Pública.
 
-Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de una falta administrativa o de un delito, la Comisión levantará un acta circunstanciada y la turnará a la Contraloría Interna, para que ésta realice a su vez los procedimientos específicos y en su caso presente las denuncias correspondientes ante el Ministerio Público para los efectos conducentes. En caso de que la corrección disciplinaria derive de un juicio entre un servidor y el Instituto, el magistrado instructor hará las denuncias correspondientes ante el Ministerio Público.
+Cuando los hechos que motiven la imposición de una corrección disciplinaria, puedan constituir la comisión de una falta administrativa, la Comisión de Conciliación y Arbitraje o el magistrado instructor levantarán un acta circunstanciada y la turnarán a la Contraloría General, para que ésta realice a su vez los procedimientos específicos y, en caso, a través de la Dirección General Jurídica se presenten las denuncias correspondientes ante la autoridad competente.
 
 XIV. Las actuaciones que se celebren ante el magistrado instructor o ante la Comisión deben practicarse en fechas y horas hábiles.
 
-Son días hábiles todos los del año, con excepción de los sábados y domingos, los de descanso obligatorio a los que se refiere la Ley Federal del Trabajo, los festivos que señale el calendario oficial y aquéllos en que el Tribunal suspenda sus labores; o por cargas jurisdiccionales en los procesos electorales o de participación ciudadana, en los cuales por disposición del Pleno, se suspenderá la sustanciación de procedimientos laborales, y no correrán términos procesales, ni podrá ordenarse desahogo de diligencia alguna.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+Son días hábiles todos los del año, con excepción de los sábados y domingos, los de descanso obligatorio a los que se refiere la Ley Federal del Trabajo, los festivos que señale el calendario oficial y aquéllos en que el Tribunal suspenda sus labores; o por cargas jurisdiccionales en los procesos electorales o de participación ciudadana, en los cuales por disposición del Pleno, se suspenderá la sustanciación de juicios laborales y procedimientos paraprocesales, y no correrán términos procesales, ni podrá ordenarse desahogo de diligencia alguna. Cuando el Pleno determine suspender la sustanciación de los juicios laborales, el plazo para interponer la demanda no quedará suspendido, por lo que continuará transcurriendo en términos de lo previsto en la presente ley.
 
 XV. Son horas hábiles las que se determine en el acuerdo que al efecto emita el Tribunal.
 
-XVI. El instructor o la Comisión pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-La audiencia o diligencia que se inicie en fecha y hora hábil podrá continuarse hasta su terminación, sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse en la fecha en que el magistrado instructor o la Comisión ordenen; éstos harán constar en autos las razones de la suspensión y de la nueva fecha para su continuación.
+XVI. El magistrado instructor o la Comisión de Conciliación y Arbitraje pueden habilitar los días y horas inhábiles para que se practiquen diligencias, cuando haya causa justificada, expresando concreta y claramente cuál es ésta, así como las diligencias que hayan de practicarse.
 
-XVII. Cuando en la fecha señalada no se llevare a cabo la práctica de la diligencia, el magistrado instructor o la Comisión harán constar en autos la razón por la cual no se practicó y señalarán en el mismo acuerdo, la fecha y hora para que ésta tenga lugar.
+La audiencia o diligencia que se inicie en fecha y hora hábil podrá continuarse hasta su terminación, sin suspenderla y sin necesidad de habilitación expresa. En caso de que se suspenda deberá continuarse en la fecha en que el magistrado instructor o la Comisión de Conciliación y Arbitraje ordenen; éstos harán constar en autos las razones de la suspensión y de la nueva fecha para su continuación;
 
-El magistrado instructor o la Comisión, podrán emplear cualquiera de los medios de apremio necesarios, para que las personas concurran a las audiencias en las que su presencia sea indispensable o para asegurar el cumplimiento de sus resoluciones.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+XVII. Cuando en la fecha señalada no se llevare a cabo la práctica de la diligencia, el magistrado instructor o la Comisión de Conciliación y Arbitraje harán constar en autos la razón por la cual no se practicó y señalarán en el mismo acuerdo, la fecha y hora para que ésta tenga lugar.
+
+El magistrado instructor o la Comisión de Conciliación y Arbitraje, podrán emplear cualquiera de los medios de apremio necesarios, para que las personas concurran a las audiencias en las que su presencia sea indispensable o para asegurar el cumplimiento de sus resoluciones.
 
 Los medios de apremio que pueden emplearse son:
 
-a. Multa hasta de diez veces el salario mínimo general vigente en el Distrito Federal al momento en que se cometió la infracción;
+a) Multa hasta de diez veces el salario mínimo general vigente en el Distrito Federal al momento en que se cometió la infracción;
 
-b. Presentación de la persona con auxilio de la fuerza pública; y
+b) Presentación de la persona con auxilio de la fuerza pública; y
 
-c. Arresto hasta por treinta y seis horas.
+c) Arresto hasta por treinta y seis horas.
 
 Los medios de apremio se impondrán de plano, sin substanciación alguna, y deberán estar fundados y motivados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE JULIO DE 2011)</small>
+
+XVIII. Las multas que se impongan con motivo de la sustanciación del juicio especial laboral tendrán el carácter de crédito fiscal. Para su cumplimiento de pago se seguirá lo dispuesto por el artículo 72 de esta ley.
 
 ###### Artículo 106.
 
@@ -1194,19 +1402,27 @@ Es optativo que el servidor del Instituto haya agotado, en tiempo y forma, las i
 
 Los incidentes se tramitarán dentro del expediente principal donde se promueven, salvo los casos previstos en esta Ley.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 108.
 
 Se tramitarán como incidentes de previo y especial pronunciamiento las siguientes cuestiones.
 
 I. Nulidad;
 
-II. Competencia; y
+II. Competencia;
 
-III. Personalidad.
+III. Personalidad; y
+
+IV. Excusas
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 109.
 
-Cuando se promueva un incidente dentro de una audiencia o diligencia, se sustanciará y resolverá de plano, oyendo a las partes; continuándose el procedimiento de inmediato. Cuando se trate de nulidad o de competencia, dentro de las setenta y dos horas siguientes se señalarán fecha y hora para la audiencia incidental, en la que se resolverá.
+Cuando se promueva un incidente de previo y especial pronunciamiento dentro de una audiencia o diligencia, se suspenderá la misma y señalará fecha para la audiencia incidental, que deberá celebrarse dentro de los cinco días hábiles siguientes. Hecho lo anterior se elaborará el proyecto de resolución para ser sometido a la consideración del Pleno, a efecto de que éste emita la determinación que corresponda.
+
+Una vez emitida la resolución incidental, se continuará con el proceso.
 
 ###### Artículo 110.
 
@@ -1218,35 +1434,51 @@ Los incidentes que no tengan señalada una tramitación especial en esta Ley, se
 
 #### SECCIÓN SEGUNDA. De la Prescripción
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 112.
 
 Las acciones que se deduzcan entre el Instituto y sus servidores y las correspondientes al Tribunal y sus servidores prescriben en un año contado a partir del día siguiente a la fecha en que la obligación sea exigible, con las excepciones que se consignan a continuación:
 
 I. Prescriben en un mes:
 
-a. Las acciones del Instituto o del Tribunal para cesar o dar por terminada la relación de trabajo, sin su responsabilidad; para disciplinar laboralmente las faltas de sus servidores, y para efectuar descuentos en sus salarios; y
+a) Las acciones del Instituto o del Tribunal para cesar o dar por terminada la relación de trabajo, sin su responsabilidad; para disciplinar laboralmente las faltas de sus servidores, y para efectuar descuentos en sus salarios; y
 
-En esos casos, la prescripción corre, respectivamente, a partir, del día siguiente a la fecha en que se tenga conocimiento de la causa de la separación o de la falta; desde el momento en que se comprueben los errores cometidos imputables al servidor, o desde la fecha en que la sanción sea exigible.
+b) En esos casos, la prescripción transcurre, respectivamente, a partir, del día siguiente a la fecha en que se tenga conocimiento de la causa de la separación o de la falta; desde el momento en que se comprueben los errores cometidos imputables al servidor, o desde la fecha en que la sanción sea exigible.
 
 II. Prescriben en dos meses las acciones de los servidores que sean separados del Instituto o del Tribunal.
 
-La prescripción corre a partir del día siguiente a la separación.
+La prescripción transcurre a partir del día siguiente a la separación.
 
 III. Las acciones para solicitar la ejecución de las resoluciones del Pleno del Tribunal y de los convenios celebrados ante éste, prescriben en seis meses.
 
-La prescripción corre desde el día siguiente a aquel en que hubiese quedado notificada la resolución correspondiente, o aprobado el convenio respectivo.
+La prescripción transcurre desde el día siguiente a aquel en que hubiese quedado notificada la resolución correspondiente, o aprobado el convenio respectivo.
 
 Cuando la resolución imponga la obligación de reinstalar, el Instituto o el Tribunal podrán solicitar al órgano jurisdiccional que fije al servidor un término no mayor de cinco días hábiles para que regrese al trabajo, apercibiéndolo que de no hacerlo, el Instituto o el Tribunal podrán dar por terminada la relación de trabajo.
 
 IV. La prescripción se interrumpe:
 
-a. Por la sola presentación de la demanda o de cualquier promoción ante el Tribunal independientemente de la fecha de la notificación.
+a) Por la sola presentación de la demanda o de cualquier promoción ante el Tribunal independientemente de la fecha de la notificación.
 
-No es obstáculo para la interrupción que el Tribunal sea incompetente; y
+No es obstáculo para la interrupción que el Tribunal o autoridad ante quien se presente la demanda sea incompetente; y
 
-b. Si el Instituto o el Tribunal reconocen el derecho del servidor por escrito o por hechos indudables.
+b) Si el Instituto o el Tribunal reconocen el derecho del servidor por escrito o por hechos indudables.
 
 V. Para los efectos de la prescripción, los meses se regularán por el número de días que les corresponda. El primer día se contará completo, aún cuando no lo sea, pero el último debe ser completo.
+
+La prescripción y oportunidad en la presentación de la demanda, será analizada de oficio por el Tribunal y, en caso de actualizarse, podrá desechar la demanda de manera previa y sin sustanciar el juicio. Lo mismo ocurrirá cuando el escrito de demanda carezca de firma autógrafa o huella digital del promovente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JULIO DE 2011)</small>
+
+###### Artículo 112 Bis.
+
+Los plazos y términos transcurrirán al día siguiente al en que surta efecto la notificación y se contará en ellos el día del vencimiento.
+
+En ningún término se contarán los días en que no puedan tener lugar actuaciones ante el magistrado instructor o ante la Comisión de Conciliación y Arbitraje, salvo disposición contraria.
+
+Cuando la realización o práctica de algún acto procesal o el ejercicio de un derecho, no tengan fijado un término, éste será el de tres días hábiles.
+
+Transcurridos los plazos o términos fijados a las partes, se tendrá por perdido el derecho que debieron ejercitar, sin necesidad de acusar rebeldía.
 
 #### SECCIÓN TERCERA. De la Continuación del Proceso y de la Caducidad
 
@@ -1274,13 +1506,17 @@ I. Señalar nombre completo y domicilio para oír y recibir notificaciones;
 
 II. Señalar el nombre y domicilio del demandado;
 
-III. Expresar el objeto de la demanda;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+III. Expresar el objeto de la demanda y detallar las prestaciones que se reclaman;
 
 IV. Expresar las consideraciones de hecho y de derecho en que se funda la demanda;
 
 V. Podrán ofrecer las pruebas de las que dispongan y que estimen pertinentes, a su elección, desde el momento de la interposición de la demanda o en la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas. Si no concurren de forma personal deberán acompañar el documento con que acrediten su personería en términos de esta Ley; y
 
-VI. Asentar la firma autógrafa del promovente.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+VI. Asentar la firma autógrafa del promovente; en caso de no contener ésta, se tendrá por no presentado el escrito de demanda desechándose de plano.
 
 ###### Artículo 117.
 
@@ -1322,9 +1558,11 @@ VIII. Fotografías y en general, aquellos medios aportados por los descubrimient
 
 El magistrado instructor o la Comisión de Conciliación y Arbitraje desecharán aquellas pruebas que no tengan relación con la litis planteada o resulten inútiles o intrascendentes, expresando el motivo de ello.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 121.
 
-Las partes podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes, y examinar los documentos y objetos que se exhiban.
+Las partes podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes, y examinar los documentos y objetos que se exhiban; así mismo, el magistrado instructor, el Secretario de Estudio y Cuenta, y el Secretario Técnico de la Comisión de Conciliación y Arbitraje, podrán interrogar libremente a las personas que intervengan en el desahogo de las pruebas.
 
 ###### Artículo 122.
 
@@ -1374,23 +1612,27 @@ XIII. Incorporación a los sistemas de seguridad social
 
 Cada parte podrá solicitar se cite a su contraparte para que concurra a absolver posiciones
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 126.
 
-El magistrado instructor o la Comisión de Conciliación y Arbitraje ordenarán se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren en la fecha y hora señaladas, se les tendrá por confesos de las posiciones que articulen y que previamente hubieren sido calificadas de legales
+El magistrado instructor o la Comisión de Conciliación y Arbitraje ordenarán se cite a los absolventes personalmente o por conducto de sus apoderados, apercibiéndolos de que si no concurren en la fecha y hora señaladas, se les tendrá por confesos de las posiciones que se les articulen y que previamente hubieren sido calificadas de legales.
 
 ###### Artículo 127.
 
 Las partes podrán solicitar también que se citen a absolver posiciones, personalmente, a las personas que sean superiores jerárquicos o que ejerzan funciones de dirección en el Instituto o en el Tribunal, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones y atribuciones del área de la que son titulares, les sean conocidos
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 128.
 
 Para el ofrecimiento de la prueba confesional, se observará lo siguiente:
 
-I. Tratándose de un conflicto entre el Tribunal y sus servidores si es a cargo de un Magistrado, del Secretario General del Tribunal, del Secretario Administrativo o, en su caso, de alguno de los Consejeros o del Secretario Ejecutivo del Instituto si el conflicto es con el mismo, sólo será admitida si versa sobre hechos propios que no hayan sido reconocidos en la contestación correspondiente; su desahogo se hará vía oficio y para ello, el oferente deberá presentar el pliego de posiciones respectivo. Una vez calificadas de legales las posiciones por el magistrado instructor, o por la Comisión de Conciliación y Arbitraje, remitirán el pliego al absolvente, para que en un término de tres días hábiles lo conteste por escrito; y
+I. Tratándose de un conflicto entre el Tribunal y sus servidores si es a cargo de un Magistrado, del Secretario General del Tribunal, del Secretario Administrativo o, en su caso, de alguno de los Consejeros, del Secretario Ejecutivo, o del Secretario Administrativo del Instituto si el conflicto es con el mismo, sólo será admitida si versa sobre hechos propios que no hayan sido reconocidos en la contestación correspondiente; su desahogo se hará vía oficio y para ello, el oferente deberá presentar el pliego de posiciones respectivo. Una vez calificadas de legales las posiciones por el magistrado instructor, o por el Secretario de Estudio y Cuenta o por la Comisión de Conciliación y Arbitraje o por el Secretario Técnico de la misma, remitirán el pliego al absolvente, para que en un término de tres días hábiles lo conteste por escrito; y
 
 II. Para los supuestos señalados en la fracción anterior, el oferente deberá presentar el pliego de posiciones respectivo, antes de la fecha señalada para la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas.
 
-En caso de no hacerlo así, se desechará dicha probanza
+En caso de no hacerlo así, se desechará dicha probanza.
 
 ###### Artículo 129.
 
@@ -1444,6 +1686,8 @@ III. Si el testigo radica fuera de la jurisdicción del Tribunal, el oferente de
 
 IV. Si el testigo no acude en la fecha y hora señaladas, en el caso de que la presentación del mismo estuviera a cargo del oferente, se tendrá por desierta la prueba por lo que a tal testigo se refiere; si hubiere sido citado por el magistrado instructor o por la Comisión de Conciliación y Arbitraje, se le hará efectivo el apercibimiento respectivo y se señalará nueva fecha para su desahogo. Si el testigo tampoco acudiere a la segunda cita, podrá hacérsele efectivo el medio de apremio correspondiente y se declarará desierta la prueba por lo que hace a éste.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 134.
 
 Para el desahogo de la prueba testimonial se observará lo siguiente:
@@ -1454,9 +1698,9 @@ II. El testigo deberá identificarse, si no pudiera hacerlo, se tomará su decla
 
 III. Se hará constar el nombre, edad, estado civil, domicilio, ocupación y lugar en que trabaja el testigo, y a continuación, se procederá a tomar su declaración, debiendo expresar la razón de su dicho;
 
-IV. La prueba testimonial será desahogada por el magistrado instructor o por la Comisión de Conciliación y Arbitraje según sea el juicio de que se trate.
+IV. La prueba testimonial será desahogada por el magistrado instructor o por la Comisión de Conciliación y Arbitraje, pudiendo ser auxiliados por el Secretario de Estudio y Cuenta, y por el Secretario Técnico de la referida Comisión, según sea el juicio de que se trate.
 
-Las partes formularán las preguntas en forma verbal, iniciando por el oferente de la prueba; el magistrado instructor o el Coordinador de la Comisión de Conciliación y Arbitraje, respectivamente, calificarán las preguntas, desechando las que no tengan relación directa con el asunto, las que se hayan hecho con anterioridad al mismo testigo, las que lleven implícita la contestación o las que sean insidiosas. En todo momento, el magistrado instructor o el Coordinador de la Comisión, podrán hacer las preguntas que estimen pertinentes;
+Las partes formularán las preguntas en forma verbal, iniciando por el oferente de la prueba; el magistrado instructor, o el Secretario de Estudio y Cuenta, o la Comisión de Conciliación y Arbitraje, o el Secretario Técnico de la misma, calificarán las preguntas, desechando las que no tengan relación directa con el asunto, las que se hayan hecho con anterioridad al mismo testigo, las que lleven implícita la contestación o las que sean insidiosas. En todo momento, el magistrado instructor y/o el Secretario de Estudio y Cuenta que asiste al magistrado, o el Coordinador de la Comisión, y su Secretario Técnico podrán hacer las preguntas que estimen pertinentes;
 
 V. Las preguntas y respuestas se harán constar textualmente en autos; el testigo, antes de firmar el acta correspondiente, podrá solicitar la modificación de la misma, cuando en ella no se hubiere asentado fielmente lo que haya manifestado;
 
@@ -1464,9 +1708,13 @@ VI. Concluidas las preguntas de las partes, el testigo deberá firmar las hojas 
 
 VII. Una vez concluido el desahogo de la prueba testimonial, las partes podrán formular las objeciones o tachas que estimen convenientes en la misma audiencia o en un plazo de tres días hábiles, cuando así lo solicite el interesado.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 135.
 
-Para el ofrecimiento y desahogo de las pruebas documentales, inspecciones, presuncionales, instrumentales de actuación, fotografías y en general, aquellos medios aportados por los descubrimientos de la ciencia; en lo que no contravenga a las reglas especiales establecidas en esta ley, deberán seguir las reglas señaladas para tal efecto en la Ley Federal del Trabajo.
+Para el ofrecimiento y desahogo de las pruebas documentales, inspecciones, presuncionales, instrumentales de actuación, fotografías y en general, aquellos medios aportados por los descubrimientos de la ciencia; en lo que no contravenga a las reglas especiales establecidas en esta ley, deberán seguir las reglas señaladas para tal efecto en el Título Catorce de la Ley Federal del Trabajo.
+
+Para el ofrecimiento y desahogo de la prueba pericial, se estará a lo dispuesto, en lo conducente, en los artículos 33 y 34 de esta ley, con excepción del relativo al momento en que debe ser ofrecida, pues ello podrá ocurrir hasta la fecha señalada para la audiencia de ley.
 
 ### CAPÍTULO IV. De la Audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas
 
@@ -1474,13 +1722,19 @@ Para el ofrecimiento y desahogo de las pruebas documentales, inspecciones, presu
 
 El juicio especial laboral que se sustancie ante la Comisión de Conciliación y Arbitraje o ante el magistrado instructor se sujetará a las siguientes reglas:
 
-I. Se iniciará con la presentación del escrito de demanda, ante la Oficialía de Partes del Tribunal, previo registro e integración del expediente, se turnará al magistrado instructor o a la Comisión de Conciliación y Arbitraje.
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-II. El magistrado instructor o la Comisión, dentro de las setenta y dos horas siguientes, contadas a partir del momento en que reciba el escrito de demanda, dictará acuerdo, en el que señalará fecha y hora para la celebración de la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas, que deberá efectuarse dentro de los quince días siguientes a aquel en que se haya recibido el escrito de demanda, o en su caso se ordenará:
+I. Se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes del Tribunal, previo registro e integración del expediente, se turnará al magistrado instructor o a la Comisión de Conciliación y Arbitraje;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
+
+II. El magistrado instructor o la Comisión de Conciliación y Arbitraje, dentro de los cinco días hábiles, contados a partir del siguiente a aquel en que la Ponencia o la Comisión reciban el expediente, dictará acuerdo, en el que señalará fecha y hora para la celebración de la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas, que deberá efectuarse dentro de los treinta días hábiles siguiente a aquel en que se haya recibido el escrito de demanda, o en su caso, se ordenará:
 
 a) Si el magistrado instructor o la Comisión notaren alguna irregularidad en el escrito de demanda, o que se estuvieren ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y prevendrá al actor para que los subsane dentro de un término de cinco días hábiles; o
 
-b) Se notifique personalmente a las partes, con diez días de anticipación a la audiencia cuando menos, entregando al Instituto o al Tribunal copia cotejada de la demanda, con el apercibimiento a la parte demandada de tenerla por inconforme con todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas, si no concurre a la audiencia en la que deberá contestar la demanda.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+b) Se notifique personalmente a las partes, con cinco días de anticipación a la audiencia cuando menos, entregando al Instituto o al Tribunal copia simple de la demanda, con el apercibimiento a la parte demandada de tenerla por inconforme con todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas, si no concurre a la audiencia en la que deberá contestar la demanda.
 
 III. La falta de notificación de alguno o de todos los demandados, obliga al magistrado instructor y a la Comisión a señalar de oficio nuevas (sic) fecha y hora para la celebración de la audiencia, salvo que las partes concurran a la misma o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hayan sido notificados.
 
@@ -1502,11 +1756,17 @@ La etapa conciliatoria se desarrollará de la siguiente manera:
 
 I. Las partes comparecerán personalmente;
 
-II. El magistrado instructor, el coordinador o algún integrante de la Comisión, intervendrán para la celebración de pláticas entre las partes y las exhortarán para que procuren llegar a un arreglo conciliatorio;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
-III. Las partes, de común acuerdo, podrán solicitar que se suspenda la audiencia con objeto de conciliarse; y la Comisión o el magistrado instructor por una sola vez, la suspenderá y fijará su reanudación dentro de un término máximo de quince días siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley;
+II. El magistrado instructor, el Secretario de Estudio y Cuenta, el coordinador o algún integrante de la Comisión o el Secretario Técnico de la misma, intervendrán para la celebración de pláticas entre las partes y las exhortarán para que procuren llegar a un arreglo conciliatorio;
 
-IV. Si se trata de un juicio entre un servidor y el Tribunal y las partes han quedado conformes con los montos para la celebración de un arreglo conciliatorio, la Dirección General de Asuntos Jurídicos someterá al Presidente del Tribunal, en su carácter de representante legal del mismo, la propuesta sobre los montos del convenio conciliatorio, a efecto de que determine su procedencia o, en su caso, que se continúe con el juicio;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+III. Las partes, de común acuerdo, podrán solicitar que se suspenda la audiencia con objeto de conciliarse, y la Comisión o el Magistrado Instructor la podrá suspender y fijará su reanudación dentro un término máximo de quince días hábiles siguientes quedando notificadas las partes de la nueva fecha con los apercibimientos de ley. Los apoderados del Instituto y el Tribunal, procurarán en todo momento, llegar a un arreglo conciliatorio con los actores para dar por terminado el juicio, estando facultados para realizar las propuestas económicas que consideren pertinentes;
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+IV. Si se trata de un juicio entre un servidor y el Tribunal y las partes han quedado conformes con los montos para la celebración de un arreglo conciliatorio, la Dirección General Jurídica someterá al Presidente del Tribunal, en su carácter de representante legal del mismo, la propuesta sobre los montos del convenio conciliatorio, a efecto de que determine su procedencia o, en su caso, que se continúe con el juicio;
 
 V. Si las partes llegaren a un acuerdo, se dará por terminado el conflicto. El convenio respectivo, aprobado por el Pleno del Tribunal producirá todos los efectos jurídicos inherentes a una resolución;
 
@@ -1540,6 +1800,8 @@ a) Si el actor no comparece al período de demanda y excepciones, se tendrá por
 
 b) Si el demandado no concurre, la demanda se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que el actor no era servidor o que el Instituto o el Tribunal no era patrón; que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 139.
 
 La etapa de ofrecimiento y admisión de pruebas se desarrollará conforme a las normas siguientes:
@@ -1550,47 +1812,41 @@ II. Las partes podrán ofrecer nuevas pruebas, siempre que se relacionen con las
 
 III. Las partes deberán ofrecer sus pruebas, observando las disposiciones del Capítulo III del presente título;
 
-IV. Concluido el ofrecimiento, el magistrado instructor o la Comisión resolverá inmediatamente sobre las pruebas que admita y las que deseche;
+IV. Concluido el ofrecimiento, el magistrado instructor o la Comisión de Conciliación y Arbitraje podrán resolver inmediatamente sobre las pruebas que admitan y las que desechen, o reservarse para acordar sobre las mismas, suspendiendo en este caso la audiencia y señalando nueva fecha y hora para la conclusión de la misma;
 
-V. El magistrado instructor o la Comisión, en el mismo acuerdo en que admita las pruebas, señalará fecha y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los diez días hábiles siguientes, y ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deban expedir el Instituto, la Secretaría Administrativa del Tribunal o cualquier autoridad o persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta ley, y dictará las medidas que sean necesarias, a fin de que en la fecha de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
+V. El magistrado instructor o la Comisión, en el mismo acuerdo en que admita las pruebas, señalará fecha y hora para la celebración de la audiencia de desahogo de pruebas, que deberá efectuarse dentro de los quince días hábiles siguientes, y ordenará, en su caso, se giren los oficios necesarios para recabar los informes o copias que deban expedir el Instituto, la Secretaría Administrativa del Tribunal o cualquier autoridad o persona ajena al juicio y que haya solicitado el oferente, con los apercibimientos señalados en esta ley, y dictará las medidas que sean necesarias, a fin de que en la fecha de la audiencia se puedan desahogar todas las pruebas que se hayan admitido.
 
-Cuando por la naturaleza de las pruebas admitidas, el magistrado instructor o la Comisión consideren que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalarán las fechas y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del actor y después las del demandado. Este período no deberá exceder de treinta días.
+Cuando por la naturaleza de las pruebas admitidas, el magistrado instructor o la Comisión consideren que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalarán las fechas y horas en que deberán desahogarse, aunque no guarden el orden en que fueron ofrecidas, procurando se reciban primero las del actor y después las del demandado. Este período no deberá exceder de treinta días hábiles.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 140.
 
-Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas, siempre que no haya concluido la etapa correspondiente de la audiencia.
+Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas.
 
 ###### Artículo 141.
 
 Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas, se otorgará a las partes término para alegar y se dictará la resolución.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 142.
 
-La etapa de desahogo de pruebas y alegatos se llevará a cabo conforme a las siguientes normas:
+La audiencia de desahogo de pruebas y alegatos se llevará a cabo conforme a las siguientes normas:
 
 I. Abierta la audiencia, se procederá a desahogar todas las pruebas que se encuentren debidamente preparadas, procurando que sean primeramente las del actor e inmediatamente las del demandado o, en su caso, aquellas que hubieren sido señaladas para desahogarse en su fecha;
 
-II. Si faltare por desahogar alguna prueba, por no estar debidamente preparada, se suspenderá la audiencia para continuarla dentro de los diez días siguientes, haciéndose uso de los medios de apremio a que se refiere esta Ley;
+II. Si faltare por desahogar alguna prueba, por no estar debidamente preparada o en su caso lo avanzado de las horas por la naturaleza de las pruebas desahogadas, se suspenderá la audiencia para continuarla dentro de los quince días hábiles siguientes, haciéndose uso de los medios de apremio a que se refiere esta Ley;
 
-III. En caso de que las únicas pruebas que falten por desahogar sean copias o documentos que hayan solicitado las partes, no se suspenderá la audiencia, sino que el magistrado instructor o la Comisión requerirán a la autoridad o servidor omiso, le remita los documentos o copias; si dichas autoridades o funcionarios no cumplieran con esa obligación, a solicitud de parte, el magistrado instructor o la Comisión se lo comunicarán al superior jerárquico o en caso de un juicio que derive de una demanda entre un servidor y el Tribunal, se le comunicará a la Contraloría Interna para las determinancias (sic) establecidas en la ley de la materia.
+III. En caso de que las únicas pruebas que faltaran por desahogar sean copias o documentos que hayan solicitado las partes, no se suspenderá la audiencia, sino que el magistrado instructor o la Comisión requerirán a la autoridad o servidor omiso, le remita los documentos o copias; si dichas autoridades o funcionarios no cumplieran con esa obligación, a solicitud de parte, el magistrado instructor o la Comisión se lo comunicarán al superior jerárquico y a la Contraloría respectiva; en el caso del juicio que derive de una demanda entre un servidor y el Tribunal, se le comunicará a la Contraloría General para que determine lo que corresponda de conformidad con la ley de la materia; y
 
-IV. Concluido el desahogo de pruebas, las partes podrán formular alegatos verbalmente o por escrito en la misma audiencia; o en el término se les otorgue.
+IV. Concluido el desahogo de pruebas, las partes podrán formular alegatos verbalmente o por escrito en la misma audiencia; o en el término que les sea otorgado por el magistrado instructor o la Comisión de Conciliación y Arbitraje, según sea el caso, el cual no deberá exceder de quince días hábiles.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 143.
 
-Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa razón que dicte el Secretario Técnico de la Comisión, o el Secretario de Estudio y Cuenta adscrito a la Ponencia del magistrado instructor, de que ya no quedan pruebas por desahogar, de oficio, declararán cerrada la instrucción, y dentro de los veinte días hábiles siguientes formularán por escrito el proyecto en forma de resolución definitiva, que será enviado al Pleno.
-
-Dicho proyecto deberá contener:
-
-I. Un extracto de la demanda y de la contestación, réplica y contrarréplica; y en su caso, de la reconvención y contestación de la misma;
-
-II. El señalamiento de los hechos controvertidos;
-
-III. Una relación de las pruebas admitidas y desahogadas, y su apreciación en conciencia, señalando los hechos que deban considerarse probados;
-
-IV. Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo alegado y probado; y
-
-V. Los puntos resolutivos.
+Al concluir el desahogo de las pruebas, formulados los alegatos de las partes y previa razón que dicte el Secretario Técnico de la Comisión, o el Secretario de Estudio y Cuenta adscrito a la Ponencia del magistrado instructor, de que ya no quedan pruebas por desahogar, de oficio, declararán cerrada la instrucción, y dentro de los treinta días hábiles siguientes formularán por escrito el proyecto en forma de resolución definitiva, que será enviado al Pleno para su consideración.
 
 ###### Artículo 144.
 
@@ -1604,11 +1860,13 @@ Para conocer y resolver respecto a resoluciones laborales, revisión de los acto
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 146.
 
-Los servidores del Instituto y del Tribunal, podrán demandar mediante juicio de inconformidad, cuando por cualquier causa sean sancionados administrativamente, en términos de la ley de la materia.
+Los servidores del Instituto y del Tribunal, podrán demandar mediante juicio de inconformidad administrativa, cuando por cualquier causa sean sancionados administrativamente, en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-La impugnación de resoluciones emitidas dentro de procedimientos administrativos disciplinarios será conocida por el Tribunal.
+La impugnación de resoluciones emitidas dentro de los procedimientos administrativos disciplinarios será conocida por el Tribunal.
 
 ###### Artículo 147.
 
@@ -1654,17 +1912,19 @@ El magistrado instructor al acordar lo relativo a la autorización a que se refi
 
 ### CAPÍTULO III. De las notificaciones y de los plazos
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 153.
 
 Los acuerdos y las resoluciones serán notificados atendiendo a lo siguiente:
 
-a) Si son personales, dentro del tercer día hábil a partir de aquel en que se pronuncien; y
+I. Si son personales, dentro del tercer día hábil a partir de aquel en que se pronuncien; y
 
-b) Si son por estrados, al día hábil siguiente al de su emisión.
+II. Si son por estrados, al día hábil siguiente al de su emisión.
 
-Se considerarán como hábiles, todos los días con excepción de los sábados y domingos y los inhábiles que determinen las leyes y los acuerdos del Pleno del Tribunal.
+Se considerarán como hábiles, todos los días con excepción de los sábados y domingos y los inhábiles que determinen las leyes, los acuerdos del Pleno del Tribunal y aquellos en que el Tribunal suspenda sus labores.
 
-Son horas hábiles las que medien entre las siete y las diecinueve horas.
+Son horas hábiles las que determine el Pleno mediante acuerdo.
 
 ###### Artículo 154.
 
@@ -1692,11 +1952,17 @@ b) Cerciorado de lo anterior, requerirá la presencia del interesado o de person
 
 Si alguna de las personas mencionadas está presente, se entenderá con ella la diligencia, previa identificación, entregando cédula en la que hará constar la fecha y la hora en que se entregue, levantándose acta de la diligencia, a la que se agregará copia de la cédula, en la que se procurará recabar la firma de aquél con quien se hubiera entendido la actuación; asimismo, se asentarán las demás manifestaciones que haga el que reciba la notificación;
 
-c) En caso de que no se encuentre al interesado o a persona autorizada, se dejará citatorio para que cualquiera de éstas espere al notificador en la hora que se precise y que en todo caso, será después de seis horas de aquella en que se entregó el citatorio y dentro de las veinticuatro horas siguientes.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
-d) En el citatorio se incluirá el apercibimiento de que, en caso, de no esperar al notificador en la fecha y hora señalada, la diligencia se practicará por conducto de los parientes, empleados o domésticos del interesado o de cualquier otra persona que se encuentre en el domicilio o, en su caso, por fijación de la cédula respectiva en el exterior del inmueble, sin perjuicio de practicar la notificación por los estrados; y
+c) En caso de que no se encuentre al interesado o a persona autorizada, se dejará citatorio para que cualquiera de éstas espere al notificador en la hora que se precise y que en todo caso, será en un período de seis a veinticuatro horas después de aquella en que se entregó el citatorio;
 
-e) En los casos en que no se encuentre en el domicilio persona alguna con quien pueda entenderse la diligencia o ésta se negare a recibirla; la notificación podrá hacerse con algún vecino o bien se fijará cédula en la puerta principal del inmueble.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+d) En el citatorio se incluirá el apercibimiento de que, en caso, de no esperar al notificador en la fecha y hora señalada, la diligencia se practicará por conducto de los parientes, empleados o de cualquier otra persona que se encuentre en el domicilio o, en su caso, por fijación de la cédula respectiva en el exterior del inmueble, sin perjuicio de practicar la notificación por los estrados; y
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+e) En los casos que no se encuentre en el domicilio persona alguna con quien pueda entenderse la diligencia o ésta se negare a recibirla; la notificación podrá hacerse con algún vecino, o bien se fijará cédula en la puerta principal del inmueble.
 
 ###### Artículo 156.
 
@@ -1710,29 +1976,33 @@ Practicada la notificación, el actuario asentará la razón respectiva, en la q
 
 La notificación omitida o irregular se entenderá hecha a partir del momento en que el interesado se haga sabedor de la misma, salvo cuando se promueva su nulidad.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 159.
 
 Serán nulas las notificaciones que no fueren hechas en la forma que establecen las disposiciones de este Título.
 
-Las partes afectadas por una notificación irregularmente hecha, podrán solicitar su nulidad ante el magistrado instructor que conozca del asunto que la motivó, hasta antes del cierre de instrucción. El Pleno la resolverá de plano, sin formar expediente.
+Las partes afectadas por una notificación irregularmente hecha, podrán solicitar su nulidad ante el magistrado instructor que conozca del asunto que la motivó, hasta antes del cierre de instrucción.
+
+El Pleno la resolverá de plano, sin formar expediente.
 
 Declarada la nulidad, se repondrá el procedimiento a partir de la notificación irregular.
-
-Si se declara la nulidad de la notificación, se impondrá una multa igual al monto de uno a cinco días de salario mínimo general vigente en el Distrito Federal al servidor público responsable. En caso de reincidencia, podrá ser destituido de su cargo.
-
-Para los efectos del párrafo anterior, deberá seguirse el procedimiento previsto en el titulo cuarto de este Reglamento.
 
 ###### Artículo 160.
 
 El plazo para interponer la demanda en contra de los actos o resoluciones por las que se impongan sanciones administrativas, será de quince días hábiles contados a partir del día hábil siguiente al en que se le hubiese notificado al afectado o del que se hubiere tenido conocimiento u ostentado sabedor de la misma, o de su ejecución.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 161.
 
 El cómputo de los plazos se sujetará a las reglas siguientes:
 
-I. Comenzarán a correr al día hábil siguiente al en que surta sus efectos la notificación; serán improrrogables y se incluirán en ellos el día del vencimiento; y
+I. Comenzarán a transcurrir al día hábil siguiente al en que surta sus efectos la notificación; serán improrrogables y se incluirán en ellos el día del vencimiento; y
 
 II. Se contarán por días hábiles.
+
+Durante los procesos electorales o de participación ciudadana, en razón de las cargas jurisdiccionales, el Pleno podrá suspender la sustanciación de los juicios de inconformidad administrativa y no transcurrirán términos procesales, ni podrá ordenarse desahogo de diligencia alguna; salvo por lo que se refiere a los plazos para la presentación de la demanda, los cuales seguirán transcurriendo.
 
 ### CAPÍTULO IV. De los impedimentos
 
@@ -1778,19 +2048,21 @@ El actor deberá acompañar una copia de la demanda y de los documentos anexos a
 
 Dentro de las veinticuatro horas posteriores a haber recibido la demanda, el Presidente del Tribunal la turnará al magistrado instructor que corresponda.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 166.
 
 Una vez recibida la demanda por el Magistrado instructor ordenará, en su caso, prevenir al actor o propondrá al Pleno su desechamiento de plano.
 
 La demanda se desechará en los casos siguientes:
 
-a) Si se encontrare motivo manifiesto e indudable de improcedencia, y
+I. Si se encontrare motivo manifiesto e indudable de improcedencia, y
 
-b) Si siendo oscura o irregular y prevenido el actor para subsanarla no lo hiciere en el plazo de cinco días.
+II. Si siendo oscura o irregular y prevenido el actor para subsanarla no lo hiciere en el plazo de cinco días.
 
-La oscuridad o irregularidad subsanables, no serán más que aquellas referentes a la falta o imprecisión de los requisitos formales a que se refiere el artículo 111 de este Reglamento, con excepción hecha de lo previsto en la fracción VIII del citado artículo.
+La oscuridad o irregularidad subsanables, no serán más que aquellas referentes a la falta o imprecisión de los requisitos formales a que se refiere el artículo 164 de esta Ley, con excepción hecha de lo previsto en la fracción VIII del citado artículo, pues en todo caso, la falta de firma autógrafa o huella digital del promovente, será causa de desechamiento de plano del escrito de demanda.
 
-Si se encontrare acreditada debidamente alguna causa evidente de improcedencia el magistrado instructor propondrá al Pleno el acuerdo para su desechamiento de plano.
+Si se encontrare acreditada debidamente alguna causa evidente de improcedencia, el magistrado instructor propondrá al Pleno su desechamiento de plano.
 
 ###### Artículo 167.
 
@@ -1844,9 +2116,15 @@ El magistrado instructor podrá recabar de oficio y desahogar las pruebas que es
 
 El magistrado instructor podrá decretar en todo tiempo la repetición o ampliación de cualquier diligencia probatoria, siempre que lo estime necesario. Los hechos notorios no requieren prueba.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 175.
 
-A fin de que las partes puedan rendir oportunamente sus pruebas, las autoridades tienen la obligación de ordenar la expedición inmediata de las copias certificadas de los documentos que le sean solicitados. Si las autoridades no cumplieren con dicha obligación, los interesados solicitarán al magistrado instructor que las requiera para tales efectos, aplazando la audiencia, en su caso, por un plazo que no excederá de diez días. Realizando el requerimiento, si las autoridades no expiden las copias que se les hubieren solicitado con oportunidad, el magistrado instructor hará uso de los medios de apremio conducentes en los términos de este Reglamento o de las demás disposiciones legales aplicables.
+A fin de que las partes puedan rendir oportunamente sus pruebas, las autoridades tienen la obligación de ordenar la expedición inmediata de las copias certificadas de los documentos que le sean solicitados.
+
+Si las autoridades no cumplieren con dicha obligación, los interesados solicitarán al magistrado instructor que las requiera para tales efectos, aplazando la audiencia, en su caso, por un plazo que no excederá de diez días hábiles.
+
+Realizado el requerimiento, si las autoridades no expiden las copias que se les hubieren solicitado con oportunidad, el magistrado instructor hará uso de los medios de apremio conducentes en los términos de esta Ley.
 
 ###### Artículo 176.
 
@@ -1926,19 +2204,21 @@ II. Se desecharán las que el actor debió rendir y no aportó ante las autorida
 
 III. Si de (sic) admitiere la prueba pericial, en caso de discordia, el Magistrado instructor nombrará un perito, quien dictaminará oralmente y por escrito. Las partes y el Magistrado instructor podrán formular observaciones a los peritos y hacerles las preguntas que estimaren pertinentes en relación con los puntos sobre los que dictaminaren.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 183.
 
-Dentro de los tres días hábiles siguientes a aquel en que concluya la audiencia de admisión y desahogo de pruebas, el magistrado instructor señalará fecha y hora para que tenga verificativo la audiencia de alegatos, en la cual, las partes podrán alegar de manera verbal o en forma escrita por sí mismas o por conducto de sus representantes legales.
+Dentro de los diez días hábiles siguientes a aquel en que concluya la audiencia de admisión y desahogo de pruebas, las partes deberán presentar sus respectivos escritos de alegatos, directamente en la Oficialía de Partes del Tribunal.
 
-Una vez concluida la audiencia de alegatos, el magistrado instructor declarará cerrada la instrucción.
+Concluido el plazo anterior, dentro de los cinco días hábiles siguientes, el magistrado instructor, mediante acuerdo, hará constar, en su caso, la presentación de los escritos de alegatos, y declarará cerrada la instrucción.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 184.
 
 Una vez cerrada la instrucción, dentro de los treinta días hábiles siguientes, el magistrado instructor propondrá al Pleno el proyecto de resolución que corresponda.
 
-El plazo señalado en el párrafo anterior, podrá duplicarse en virtud de la complejidad del asunto o del número de las constancias que integren el expediente, lo cual deberá ser notificado a las partes de manera personal.
-
-El Pleno tendrá un plazo de hasta veinte días hábiles para emitir la resolución.
+El plazo señalado en el párrafo anterior, podrá duplicarse mediante acuerdo del magistrado instructor, en virtud de la complejidad del asunto o del número de las constancias que integren el expediente, lo cual deberá ser notificado a las partes de manera personal.
 
 ### CAPÍTULO X. De la sentencia
 
@@ -1946,9 +2226,11 @@ El Pleno tendrá un plazo de hasta veinte días hábiles para emitir la resoluci
 
 El Tribunal, al pronunciar sentencia, suplirá las deficiencias de la demanda, pero en todos los casos se contraerá a los puntos de la controversia planteada.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 186.
 
-Las sentencias que dicte el Pleno del Tribunal en los juicios de inconformidad administrativa serán definitivas e inatacables y tendrán como efectos confirmar, modificar o recovar (sic) el acto o resolución impugnados.
+Las sentencias que dicte el Pleno del Tribunal en los juicios de inconformidad administrativa serán definitivas e inatacables y tendrán como efectos confirmar, modificar o revocar el acto o resolución impugnados.
 
 ###### Artículo 187.
 
@@ -1964,11 +2246,15 @@ IV. Los términos en los que deberá ser cumplida la sentencia por parte de la a
 
 ### CAPÍTULO XI. Del cumplimiento de la sentencia
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 188.
 
 El actor podrá acudir en queja al Pleno, en caso de incumplimiento de la sentencia y se dará vista a la autoridad responsable por el plazo de cinco días hábiles para que manifieste lo que a su derecho convenga.
 
 Una vez transcurrido el plazo referido, el Pleno resolverá a propuesta del magistrado instructor, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso, de renuencia se le impondrá una multa de cincuenta a ciento ochenta días de salario mínimo general vigente en el Distrito Federal.
+
+En todo caso, para hacer cumplir sus resoluciones, el Tribunal podrá proceder en términos de los artículos 67 y 68 de la presente ley.
 
 ### CAPÍTULO XII
 
@@ -1978,23 +2264,25 @@ De la Regularización del Procedimiento.
 
 El magistrado instructor o el Pleno podrá ordenar de oficio, aún fuera de las audiencias, que se subsane toda omisión que notare en la substanciación del juicio, para el sólo efecto de regularizar el procedimiento, con la limitante de que no podrá revocar sus propias determinaciones.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 190.
 
 La regularización del procedimiento es procedente únicamente contra determinaciones de trámite; como serían, de manera enunciativa y no limitativa, los siguientes supuestos:
 
-a) El no proveimiento respecto a una prueba ofrecida por los litigantes;
+I. El no proveimiento respecto a una prueba ofrecida por los litigantes;
 
-b) Cuando no se haya desahogado una prueba que previamente haya sido admitida por el Magistrado instructor;
+II. Cuando no se haya desahogado una prueba que previamente haya sido admitida por el Magistrado instructor;
 
-c) La omisión de no acordar en su totalidad la promoción de alguna de las partes;
+III. La omisión de no acordar en su totalidad la promoción de alguna de las partes;
 
-d) Señalar fecha para audiencia;
+IV. Señalar fecha para audiencia;
 
-e) Corregir el nombre de alguna de las partes;
+V. Corregir el nombre de alguna de las partes;
 
-f) Omita acordar lo relativo a las autorizaciones de los abogados o licenciados en derecho;
+VI. Omita acordar lo relativo a las autorizaciones de los abogados o licenciados en derecho;
 
-g) Todas aquellas que sean de la misma naturaleza.
+VII. Todas aquellas que sean de la misma naturaleza.
 
 ## TRANSITORIOS.
 
@@ -2009,3 +2297,15 @@ CUARTO.- El Tribunal Electoral del Distrito Federal, contará con un plazo de se
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de noviembre del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. RAÚL ALEJANDRO RAMÍREZ RODRÍGUEZ, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintiocho días del mes de noviembre de dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley, entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Remítase al Jefe de Gobierno del Distrito Federal para su Promulgación y Publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+Artículo Tercero. Los procedimientos administrativos y jurisdiccionales que se hayan iniciado anteriormente a la entrada en vigor del presente Decreto, deberán concluirse conforme a la Ley Procesal Electoral para el Distrito Federal, publicada el 21 de diciembre de 2007 en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
