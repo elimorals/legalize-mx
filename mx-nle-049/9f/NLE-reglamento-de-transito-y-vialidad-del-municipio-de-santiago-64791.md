@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-santiago-647
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-01"
-last_updated: "2009-03-06"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de diciembre de 2008.
 
@@ -3787,8 +3789,20 @@ C. LIC. HUMBERTO MIGUEL DE LA ROSA HERNÁNDEZ
 
 SÍNDICO SEGUNDO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE MARZO DE 2009.
 
 Único: El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 1 DE JULIO DE 2011.
+
+Primero.- Se abroga el Reglamento de Tránsito y Vialidad del Municipio de Santiago, Nuevo León, publicado el 1° de diciembre de 2008.
+
+Segundo.- Se derogan todas las disposiciones que contravengan a lo previsto en el presente Reglamento en otros ordenamientos municipales.
+
+Tercero.- En el caso de las infracciones derivadas por circular con vidrios polarizados o tintados, en aquéllos vehículos que no los traigan de fabricación, esta medida comenzara a surtir sus efectos a partir del 5 de julio de 2011.
+
+Cuarto.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Quinto.- De manera simultánea a lo anterior, publíquese en la gaceta municipal y el portal de internet del Gobierno Municipal.
