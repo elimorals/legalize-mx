@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interno-del-tribunal-electoral-del-estado-de-33992"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-26"
-last_updated: "2003-09-26"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO EN MATERIA ELECTORAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. DE 1 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el viernes 26 de septiembre de 2003.
 
@@ -784,3 +786,19 @@ SECRETARIO DE ACUERDOS
 (RUBRICA)
 
 LIC. CESAR PRIETA GAMBOA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O. 1 DE JULIO DE 2011.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Las disposiciones contenidas en este reglamento aplican en materia electoral y en lo conducente en materia contencioso administrativa.
+
+SEGUNDO.- La expedición del presente reglamento no limita al Pleno del Tribunal a emitir nuevas disposiciones reglamentarias en la materia contenciosa administrativa.
+
+TERCERO.- Se abroga el Reglamento Interno del Tribunal Electoral del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado el veintiséis de septiembre de dos mil tres.
+
+CUARTO.- Los acuerdos dictados por el Pleno de este Tribunal para su organización y funcionamiento a partir del uno de marzo de dos mil once, subsisten, debiendo ser remitidos los puntos de acuerdo correspondientes para su publicación en el Diario Oficial del Gobierno del Estado, así como aquellos que se emitan en lo futuro.
+
+QUINTO.- Por esta única ocasión y en congruencia con las disposiciones relativas contenidas en la reforma Constitucional en materia de Seguridad y Justicia dada en el Estado de Yucatán y en la Ley Orgánica del Poder Judicial del Estado, publicadas con fechas diecisiete de mayo y veinticuatro de noviembre ambas de dos mil diez, respectivamente en el Diario Oficial del Gobierno del Estado, el actual Presidente del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, se desempeñará como tal por un lapso de cuatro años que corren a partir del día nueve de septiembre del año dos mil diez como fue electo y hasta el ocho de septiembre del año dos mil catorce.
