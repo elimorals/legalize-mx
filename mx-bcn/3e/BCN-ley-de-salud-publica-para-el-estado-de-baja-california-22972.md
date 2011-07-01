@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2010-10-15"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -97,53 +97,89 @@ III.- La planificación familiar;
 
 IV.- La salud mental;
 
-V.- La vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, como coadyuvante del departamento de profesiones;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI.- La promoción de la formación de recursos humanos para la salud;
+V.- La salud visual;
 
-VII.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VIII.- La información relativa a las condiciones, recursos y servicios de salud en el Estado;
+VI.- La salud auditiva;
 
-IX.- La educación para la salud;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-X.- La orientación y vigilancia en materia de nutrición;
+VII.- La vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, como coadyuvante del departamento de profesiones;
 
-XI.- Coadyuvar con las Autoridades competentes en la prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XII.- La salud ocupacional y el saneamiento básico;
+VIII.- La promoción de la formación de recursos humanos para la salud;
 
-XIII.- La prevención y el control de enfermedades transmisibles;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XIV.- La prevención y el control de enfermedades no transmisibles y accidentes;
+IX.- La coordinación de la investigación para la salud y el control de ésta en los seres humanos;
 
-XV.- La prevención de la discapacidad y rehabilitación de los discapacitados;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XVI.- La asistencia social en su aspecto sanitario y de atención médica;
+X.- La información relativa a las condiciones, recursos y servicios de salud en el Estado;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XVII.- El programa contra el alcoholismo;
+XI.- La educación para la salud;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XVIII.- El programa contra el tabaquismo; y (sic)
+XII.- La orientación y vigilancia en materia de nutrición;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XIX.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
+XIII.- Coadyuvar con las Autoridades competentes en la prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+XIV.- La salud ocupacional y el saneamiento básico;
 
-XX.- La orientación médica o prevención del farmacodependiente o consumidor, respectivamente, cuando reciba del Ministerio Público, el reporte de no ejercicio de la acción penal;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XV.- La prevención y el control de enfermedades transmisibles;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XVII.- La prevención de la discapacidad y rehabilitación de los discapacitados;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XVIII.- La asistencia social en su aspecto sanitario y de atención médica; así como la prevención, atención y erradicación de plagas que afectan la salud de la población;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XIX.- El programa contra el alcoholismo;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XX.- El programa contra la ludopatía;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XXI.- El programa contra la drogadicción;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XXII.- El programa contra el tabaquismo;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XXIII.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XXIV.- La orientación médica o prevención del farmacodependiente o consumidor, respectivamente, cuando reciba del Ministerio Público, el reporte de no ejercicio de la acción penal;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XXV.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -151,7 +187,9 @@ Para los efectos de esta Ley es materia de salubridad local, el control sanitari
 
 I.- Establecimientos dedicados al expendio de alimentos y bebidas alcohólicas y no alcohólicas;
 
-II.- Funerarias y Panteones;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II.- Funerarias, Panteones y cadáveres de seres humanos;
 
 III.- Limpieza Pública;
 
@@ -163,7 +201,9 @@ VI.- Centros de reunión y espectáculos;
 
 VII.- Establecimientos de hospedaje;
 
-VIII.- Establecimientos de belleza;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VIII.- Establecimientos dedicados a la prestación de servicios estéticos, como peluquerías, salas de belleza y de masaje.
 
 IX.- Centros de rehabilitación y reintegración de personas con problemas de alcoholismo y drogadicción;
 
@@ -421,11 +461,25 @@ La atención materno infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III.- La promoción de la integración y del bienestar familiar; y
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
 
-IV.- La atención del preescolar y escolar en los centros educativos.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III.- La detección temprana de la sordera y su tratamiento, en todos sus grados, desde los primeros días del nacimiento;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V.- La promoción de la integración y del bienestar familiar; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VI.- La atención del preescolar y escolar en los centros educativos.
 
 #### SECCION IV. DE LA PLANIFICACION FAMILIAR
 
@@ -881,7 +935,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad y detección oportuna de enfermedades.
 
 ###### ARTÍCULO 70.
 
@@ -910,6 +966,16 @@ ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el pro
 I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
 
 II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
+
+I.- La detección y tratamiento de la ludopatía; y
+
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
+
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
 
 ###### ARTÍCULO 73.
 
@@ -1281,21 +1347,51 @@ Corresponde a los Municipios atender el funcionamiento, conservación y operaci�
 
 La prestación de los servicios de panteones sólo podrá ser concesionado cuando se reúnan los requisitos y condiciones que se determinen en los Reglamentos Municipales.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 114 BIS.- Para los efectos de esta ley se considera:
+
+I.- Panteón: Lugar donde los cadáveres y restos humanos son enterrados; y
+
+II.- Funeraria: Establecimiento dedicado a la venta de ataúdes que presta los servicios de traslado, preparación, velación, inhumación, incineración y exhumación de cadáveres y restos humanos, así como los trámites inherentes a ello, ante las autoridades competentes.
+
 ###### ARTÍCULO 115.
 
 La administración y funcionamiento de los panteones, estarán sujetos a la Ley General de Salud, a lo dispuesto en esta Ley y a los reglamentos municipales.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Los cadáveres no pueden ser objeto de propiedad y siempre serán tratados con respeto, dignidad y consideración; asimismo los cadáveres se clasifican en relación a su identidad de la siguiente manera:
+
+I.- De personas conocidas, y
+
+II.- De personas desconocidas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la pérdida de la vida y aquellos de los que se ignore su identidad serán considerados como de personas desconocidas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción; lo anterior sin perjuicio de las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 116.
 
-Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse entre las doce y las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial.
+Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial.
 
 Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en éste no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que los locales en que se presten los servicios reúnan las condiciones sanitarias exigibles en los términos de los reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 117.
 
-La Autoridad Sanitaria Federal, determinará el plazo mínimo que deben permanecer los restos en las fosas.
-
-Mientras este plazo no termine sólo podrán efectuarse las exhumaciones ordenadas por las Autoridades Sanitarias y Judiciales, mediante los requisitos que se fijen en su caso, por las propias Autoridades Sanitarias.
+La Autoridad Sanitaria Federal, determinará el plazo mínimo que deben permanecer los restos en las fosas. Mientras el plazo señalado no concluya, sólo podrán efectuarse las exhumaciones que aprueben las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, previo el cumplimiento de los requisitos sanitarios correspondientes.
 
 ###### ARTÍCULO 118.
 
@@ -2138,3 +2234,9 @@ P.O. 15 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 1 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado, contará hasta con 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar su reglamento interno.
