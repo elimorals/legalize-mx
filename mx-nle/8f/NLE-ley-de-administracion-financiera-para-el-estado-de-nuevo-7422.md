@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2010-12-24"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -119,9 +119,23 @@ La planeación financiera deberá llevarse a cabo como un medio para la consecuc
 
 I.- El apego estricto a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado y en las leyes y decretos vigentes;
 
-II.- El fortalecimiento de la soberanía del Estado y de la autonomía de los Municipios; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III.- La preservación y el perfeccionamiento del régimen democrático, republicano, representativo, popular y de división de poderes, propugnando por el constante mejoramiento económico, social y cultural del pueblo.
+II.- El fortalecimiento de la Soberanía del Estado y de la autonomía de los Municipios;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III.- La preservación y el perfeccionamiento del régimen democrático, republicano, representativo, popular y de división de poderes, propugnando por el constante mejoramiento económico, social y cultural del pueblo; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- La igualdad de oportunidades entre mujeres y hombres a través de la incorporación de la perspectiva de equidad de género en los programas, proyectos y acciones de la administración pública estatal.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTICULO 10 Bis.
+
+Las dependencias y entidades del Poder Ejecutivo, así como el Poder Judicial y el Poder Legislativo, llevarán a cabo la planeación, el diseño, programación, ejecución y evaluación del presupuesto, en el ámbito de su competencia, con perspectiva de equidad de género, entendiéndose por esto, el enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre hombres y mujeres.
 
 ###### ARTICULO 11.
 
@@ -159,6 +173,10 @@ La programación del gasto público estatal, incluyendo al de los organismos des
 
 En la programación, presupuestación y ejercicio del gasto público, las dependencias, organismos descentralizados y fideicomisos, deberán aplicar los principios de austeridad, optimización, racionalización, disciplina y eficientización de los recursos, estableciendo prioridad al gasto social y de inversión para realizar obras y prestar servicios públicos de beneficio a la comunidad, procurando optimizar, en la medida de lo posible, el gasto de administración.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Las dependencias y entidades aplicarán las perspectivas que fomente la equidad de género en la programación, presupuestación y ejercicio del gasto público.
+
 ###### ARTICULO 16.
 
 El Programa Anual de Gasto Público que se formule, comprenderá los egresos a ejercerse por las entidades y dependencias de la Administración Pública Estatal; se elaborará conforme a los lineamientos que señale la Secretaría de Finanzas y Tesorería General del Estado, considerando los ingresos a ser percibidos en el mismo período, así como la situación financiera y demás circunstancias que pudieran influir en su ejercicio y servirá de base para el Presupuesto de Egresos de dichas entidades y dependencias.
@@ -187,11 +205,37 @@ El gasto de inversión, además de comprender las erogaciones destinadas a propo
 
 La aplicación de estas clasificaciones no será restrictiva. Los conceptos de gasto público no comprendidos en los rubros anteriores, así como aquéllos comprendidos en dos o más de ellos, se incluirán, para efectos de presupuestación y contabilización, en el rubro que corresponda según su finalidad primordial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTICULO 18 Bis.
+
+El Estado impulsará la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de equidad de género en la planeación, diseño, elaboración, ejecución, seguimiento y evaluación del presupuesto a través de las unidades ejecutoras del gasto.
+
+Los titulares de las dependencias y entidades, serán responsables de que se ejecuten con eficiencia, eficacia, efectividad y perspectiva de equidad de género, las acciones previstas en sus respectivos programas y presupuestos.
+
+Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, con un impacto diferenciado de género.
+
+La Contraloría y Transparencia Gubernamental, verificará periódicamente los resultados de la ejecución de los programas y presupuestos de las dependencias y de las entidades, en materia de perspectiva de equidad de género.
+
+Para tal efecto, las unidades responsables del gasto deberán considerar lo siguiente:
+
+I.- Incorporar en sus programas la perspectiva de equidad de género y reflejarla en sus indicadores;
+
+II.- Identificar y registrar la población objetivo y la atendida por dichos programas, desagregada por sexo y grupo de edad en los indicadores y en los padrones de beneficiarias y beneficiarios que corresponda;
+
+III.- Fomentar la perspectiva de equidad de género en el diseño y la ejecución de programas en los que, aún cuando no estén dirigidos a mitigar o solventar desigualdades de género, se pueda identificar de forma diferenciada los beneficios específicos para mujeres y hombres;
+
+IV.- Establecer o consolidar en los programas bajo su responsabilidad, las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con perspectiva de equidad de género;
+
+V.- Aplicar la perspectiva de equidad de género en las evaluaciones de los programas, con los criterios que emitan la Secretaría de Finanzas y Tesorería General del Estado y el Instituto Estatal de las Mujeres; e
+
+VI.- Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación. El Instituto Estatal de las Mujeres coadyuvará con las unidades administrativas responsables del gasto de las dependencias y entidades, en el contenido de estos programas y campañas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 19.
 
-El Presupuesto de Egresos del Estado contenido en la Ley de Egresos del Estado, incluirá los montos asignados a los Poderes Judicial, Legislativo y Ejecutivo, con excepción de sus entidades paraestatales, para su funcionamiento y el desarrollo de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad y publicación.
+El Presupuesto de Egresos del Estado contenido en la Ley de Egresos del Estado, incluirá los montos asignados a los Poderes Judicial, Legislativo y Ejecutivo, con excepción de sus entidades paraestatales, para su funcionamiento y el desarrollo de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad y publicación. Adicionalmente deberá cumplir con lo dispuesto en el Artículo 10 fracción IV de esta Ley.
 
 En consecuencia, el presupuesto se elaborará en función a que los egresos sean equivalentes a los ingresos factibles de ser percibidos en el mismo período; estará contenido en un solo cuerpo presupuestario, sin perjuicio de que posteriormente pueda ser modificado en los términos de esta ley; se clasificará en programas; tendrá una vigencia de un año de calendario; amparará la totalidad del gasto público de las entidades a que se refiere el párrafo anterior; especificará los montos a ejercer en cada uno de los conceptos que lo integran; guardará un esquema que identifique el destino de los fondos públicos; se basará en el catálogo de partidas establecido para tal efecto, en cada uno de los programas y subprogramas y, una vez aprobado por el Congreso del Estado, a través de una Ley de Egresos, se publicará íntegramente en el Periódico Oficial del Estado.
 
@@ -457,9 +501,17 @@ III.- Que las operaciones de la entidad estén debidamente contabilizadas y apli
 
 IV.- Que los activos fijos adquiridos se encuentren inventariados, asignados a las dependencias respectivas y en condiciones acordes a su antigüedad, características y destino;
 
-V.- Que los pasivos hayan sido contratados conforme a las disposiciones constitucionales, legales y administrativas aplicables y se encuentren debidamente contabilizados; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI.- Cualquier evento relevante que por su trascendencia e importancia en las finanzas de la entidad, a criterio del titular del órgano de control, deba ser revisado.
+V.- Que se haya aplicado la perspectiva de equidad de género en las evaluaciones de los programas;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VI.- Que los pasivos hayan sido contratados conforme a las disposiciones constitucionales, legales y administrativas aplicables y se encuentren debidamente contabilizados; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VII.- Cualquier evento relevante que por su trascendencia e importancia en las finanzas de la Entidad a criterio del titular del órgano de control, deba ser revisado.
 
 ###### ARTICULO 55.
 
@@ -521,9 +573,17 @@ f) La situación que guarde la Hacienda Pública, incluyendo lo relativo al cré
 
 g) La conservación de los principios de austeridad, disciplina y equilibrio financiero y su posible mejoramiento;
 
-h) Las perspectivas a corto, mediano y largo plazo de los conceptos mencionados en los incisos precedentes; e
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-i) En general, la situación de las finanzas públicas, conforme a las disposiciones reguladoras de la materia.
+h) Las perspectivas a corto, mediano y largo plazo de los conceptos mencionados en los incisos precedentes;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+i) La incorporación de las perspectivas de equidad de género en los programas. Proyectos y acciones por parte de las entidades a que se refiere el artículo segundo de esta Ley; y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+j) En general, la situación de las finanzas públicas, conforme a las disposiciones reguladoras de la materia.
 
 ###### ARTICULO 63.
 
@@ -1594,3 +1654,9 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2011.
+
+Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entrada en vigor del presente decreto, para que los Poderes Ejecutivo, Legislativo y Judicial comiencen a planear, diseñar, elaborar, ejecutar y evaluar los presupuestos con perspectiva de equidad de género.
