@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2010-10-08"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -811,21 +811,31 @@ La Dirección de Programas será la responsable de expedir los lineamientos y di
 
 ### CAPÍTULO I. DE LA AUTORIDAD JUDICIAL ENCARGADA DE LA EJECUCIÓN DE PENAS
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 111.
 
-El Juez de Ejecución se desempeñará dentro del Partido Judicial correspondiente y no podrá conocer de un asunto donde haya fungido como Juez de Garantía o integrante del Tribunal de Juicio Oral.
+El Juez de Ejecución se desempeñará dentro del Partido Judicial correspondiente y no podrá conocer de un asunto donde haya fungido como Juez de Garantía o integrante del Tribunal de Juicio Oral, salvo cuando éstos últimos resuelvan imponer la medida de seguridad de amonestación al condenado, la sustitución de la pena o la suspensión condicional de su ejecución.
+
+En los casos de beneficios de libertad anticipada señalados en la fracción II del artículo 112 de esta Ley, cuando el solicitante cumpla su pena en un lugar o centro penitenciario ubicado en un partido judicial distinto a aquel en que fue dictada la sentencia que impuso la pena, será competente para resolver el beneficio, un Juez de Ejecución del partido judicial en el que se encuentre el citado lugar o centro. Cuando el lugar o centro penitenciario se encuentre ubicado fuera del Estado, será competente un Juez de Ejecución del partido judicial donde fue dictada la sentencia que da origen al beneficio.
+
+Tratándose de las facultades del Juez de Ejecución que se contienen en las otras fracciones del artículo 112, se atenderá lo dispuesto en el párrafo anterior en lo que resulte aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 112.
 
 El Juez de Ejecución tendrá las siguientes facultades y obligaciones:
 
-I. Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento, en los términos de la Ley y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+I. Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, en los términos de la Ley y demás normatividad aplicable;
 
 II. Conceder los beneficios relacionados con las penas o medidas de seguridad impuestas en la sentencia firme, en términos de esta Ley y las demás que resulten aplicables;
 
 III. Librar las órdenes de detención que procedan en ejecución de sentencia, en los términos de la legislación aplicable;
 
-IV. Visitar los Centros, con el fin de constatar las condiciones de reclusión de los Internos, y proponer las medidas correctivas que estime convenientes;
+IV. (DEROGADA, P.O. 1 DE JULIO DE 2011)
 
 V. Revocar la suspensión condicional de la ejecución de la pena, los sustitutivos penales, la libertad preparatoria, la preliberación, remisión parcial de la pena y la modificación de las condiciones de aplicación de la pena;
 
@@ -833,15 +843,19 @@ VI. Notificar a la Dirección de Ejecución, de todas las resoluciones en materi
 
 VII. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 113.
 
-Los Jueces de Ejecución deberán resolver todas aquellas peticiones que, por su naturaleza o importancia, requieran debate o producción de prueba.
+Los Jueces de Ejecución deberán resolver en audiencia todas aquellas peticiones que, por su naturaleza o importancia, requieran debate o producción de prueba.
 
 Para las resoluciones a que refiere el artículo anterior, será aplicable en lo conducente, de manera supletoria, lo dispuesto en el Código de Procedimientos.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 114.
 
-Serán intervinientes en la audiencia a que refiere el artículo anterior, el defensor, el Agente del Ministerio Público y un funcionario de la Dirección de Ejecución.
+En los casos que proceda la celebración de la audiencia que se señala en el artículo anterior, comparecerán el Defensor, el Agente del Ministerio Público y un funcionario de la Dirección de Ejecución.
 
 ###### ARTÍCULO 115.
 
@@ -1033,9 +1047,11 @@ La suspensión condicional de la ejecución de la pena, así como la sustitució
 
 Ante el incumplimiento de las obligaciones y condiciones impuestas en la sentencia, en los casos previstos en el artículo anterior, se estará a lo dispuesto en el Código Penal para el Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 144.
 
-El Juez de Ejecución podrá sustituir la prisión que reste por cumplir por multa, trabajo en favor de la comunidad o semilibertad, a condición de que el Sentenciado pague el importe de la reparación del daño, en su caso.
+Cuando el sentenciado incumpla las obligaciones y condiciones relativas a la suspensión condicional de la ejecución de la pena, tratándose de delito doloso no grave, el Juez de Ejecución podrá sustituir la prisión que reste por cumplir por trabajo en favor de la comunidad, a condición de que el sentenciado pague el importe de la reparación del daño, en su caso.
 
 Si se revoca por la comisión de nuevo delito y el Sentenciado se encuentra en prisión, el trabajo lo desarrollará dentro del reclusorio. En este caso, el trabajo no se considerará para el otorgamiento de algún beneficio pre liberacional, en relación a la nueva pena que llegare a imponérsele.
 
@@ -1095,9 +1111,13 @@ III.- Abstenerse del uso de bebidas embriagantes y de estupefacientes, psicotró
 
 IV.- Sujetarse a las medidas de orientación y supervisión que se le fijen, y a la vigilancia de alguna persona autorizada por el Juez de Ejecución, que se obligue a informar sobre su conducta y a presentarlo siempre que para ello fuere requerido, independientemente de la vigilancia institucional.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 149.
 
-La Dirección de Ejecución y el Director, revisarán, de oficio o a petición de parte, periódicamente los expedientes y solicitarán al Consejo Técnico emita el dictamen correspondiente de quienes hayan cumplido, o estén próximos a cumplir, las tres quintas partes de su condena. Recabado éste, el Juez de Ejecución, emitirá en un plazo de quince días resolución inimpugnable que, de ser favorable, incluirá las observaciones y antecedentes del dictamen, así como, datos que demuestren que el Interno está en condiciones de reintegrarse a la vida social, y será comunicada al Director para los trámites legales correspondientes.
+La Dirección de Ejecución y el Director, revisarán, de oficio o a petición de parte, periódicamente los expedientes y solicitarán al Consejo Técnico emita el dictamen correspondiente de quienes hayan cumplido, o estén próximos a cumplir, las tres quintas partes de su condena.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 150.
 
@@ -1105,7 +1125,9 @@ La libertad preparatoria se revocará por el Juez de Ejecución, cuando el liber
 
 I.- Es Procesado por la comisión de otro delito, y se le impone medida cautelar de prisión preventiva;
 
-II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se hará de oficio, una vez que se dicte el auto de formal prisión o sujeción a proceso contra el liberado. SI (sic) el nuevo delito es culposo, la Subsecretaria, podrá revocar la libertad preparatoria, de acuerdo a la peligrosidad del sujeto y a la gravedad del daño causado, o apercibir al liberado que si vuelve a realizar un nuevo ilícito imprudencial, le será revocado el beneficio;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se hará de oficio, una vez que se dicte el auto de formal prisión, sujeción o vinculación a proceso contra el liberado. Si el nuevo delito es culposo, el Juez de Ejecución podrá revocar la libertad preparatoria, de acuerdo a la peligrosidad del sujeto y a la gravedad del daño causado, o apercibir al liberado que si vuelve a realizar un nuevo ilícito imprudencial, le será revocado el beneficio;
 
 III.- Moleste reiteradamente y de modo considerable a la víctima u ofendido del delito por el que se le sentenció;
 
@@ -1113,7 +1135,9 @@ Para este efecto, el interesado en revocar el beneficio deberá acreditar los ac
 
 IV.- Deja de presentarse injustificadamente por una ocasión, al lugar que le fue ordenado en sentencia;
 
-V.- Cuando el liberado viole las condiciones establecidas en el artículo 147;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V.- Cuando el liberado viole las condiciones establecidas en el artículo 148.
 
 El Sentenciado cuya libertad preparatoria haya sido revocada, cumplirá en prisión el resto de la pena impuesta.
 
@@ -1125,7 +1149,9 @@ Para dar cumplimiento a lo dispuesto en las fracciones I y II del artículo ante
 
 Los liberados que disfruten del beneficio a que refiere esta sección, estarán sujetos a la vigilancia de la Dirección de Ejecución, por el tiempo que les falte para extinguir su pena en los términos que disponga la autoridad judicial, esta Ley y las disposiciones legales y reglamentarias correspondientes.
 
-Cuando se resuelva no otorgar el beneficio, el Sentenciado podrá solicitarlo nuevamente pasados seis meses de la negativa.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Cuando se resuelva no otorgar el beneficio, el sentenciado podrá solicitarlo nuevamente pasados ciento ochenta días naturales de la negativa.
 
 #### SECCIÓN QUINTA. DE LA PRELIBERACIÓN
 
@@ -1181,17 +1207,35 @@ El procedimiento para la concesión de beneficios se iniciará de oficio o a pet
 
 La Dirección de Ejecución iniciara de oficio el procedimiento cuando de los estudios de personalidad se obtenga un dictamen favorable por parte del Consejo Técnico y además se cumplan los requisitos establecidos en la presente Ley.
 
-En ambos casos, la Dirección de Ejecución estará obligada a remitir la solicitud al Juez de Ejecución. Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la solicitud.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-Admitida la solicitud, el Juez de Ejecución solicitará a la Dirección de Ejecución, que por conducto del Consejo Técnico, se remitan los estudios de personalidad del Sentenciado hasta dentro de un plazo de sesenta días hábiles siguientes a la admisión.
+Cuando el procedimiento se inicie a petición de parte, la Dirección de Ejecución inmediatamente deberá solicitar al Consejo Técnico realice los estudios de personalidad del sentenciado, para lo cual éste último contará con un plazo de hasta sesenta días hábiles siguientes a la solicitud para enviarlo.
 
-Recibidos los estudios, el Juez de Ejecución emitirá resolución en un plazo que no excederá de cinco días hábiles, concediendo o negando el beneficio.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+En ambos casos, la Dirección de Ejecución estará obligada a remitir la solicitud al Juez de Ejecución, acompañada de los estudios de personalidad del sentenciado.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Admitida la solicitud y recibidos los estudios, el Juez de Ejecución emitirá resolución en un plazo que no excederá de quince días hábiles, concediendo o negando el beneficio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
 
 La resolución será notificada el día de su emisión a la Dirección de Ejecución, para que la cumpla en sus términos.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 162.
 
-Las solicitudes de beneficios de libertad anticipada, que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes, serán resueltas de inmediato y notificadas al interesado y a la Dirección de Ejecución.
+Corresponderá a la Dirección de Ejecución resolver en forma inmediata las solicitudes de beneficios de libertad anticipada, que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes o en las cuales los estudios de personalidad hayan resultado desfavorables al sentenciado, y a su vez notificarlas al interesado.
+
+En los casos de negativa por notoria improcedencia o cuando los estudios de personalidad sean desfavorables, el sentenciado podrá presentar recurso de inconformidad, el cual deberá resolverse conforme al artículo 113 de la presente Ley, y substanciarse atendiendo a las reglas siguientes:
+
+I.- El recurso deberá interponerse dentro de diez días hábiles contados a partir de la notificación de la negativa.
+
+II.- El recurso se interpondrá ante la autoridad administrativa que corresponda, quien deberá remitir el escrito del recurso a la autoridad judicial al día hábil siguiente de su recepción, anexando los estudios de personalidad practicados en su caso, señalando el nombre del Juez que dictó la sentencia que dio origen a la solicitud del beneficio, los motivos de la impugnación y el Centro en el que el sentenciado se encuentre compurgando la pena.
+
+III.- El Juez de Ejecución deberá resolver en un plazo no mayor de quince días hábiles.
 
 ###### ARTÍCULO 163.
 
@@ -1265,21 +1309,55 @@ T R A N S I T O R I O S:
 
 La presente Ley entrará en vigor el 18 de Junio de 2011, debidamente publicada en el Periódico Oficial del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Los procedimientos iniciados, de oficio o a petición de parte, con fecha anterior a la entrada en vigor de la presente Ley, continuarán su trámite y serán resueltos de conformidad con las disposiciones previstas con anterioridad a la entrada en vigor de la presente Ley, salvo que el presente ordenamiento otorgue mayores beneficios para el Sentenciado.
+Los procedimientos para otorgar el beneficio de libertad anticipada que hayan iniciado o se encuentren pendientes de resolución al momento de entrar en vigor la presente Ley, continuarán su integración conforme a las disposiciones que se encontraban vigentes cuando estos iniciaron. La integración de los procedimientos estará a cargo de la Dirección de Ejecución de Penas y Medidas Judiciales, y su resolución corresponderá al Juez de Primera Instancia Penal o al Juez de Garantía atendiendo la naturaleza del proceso penal que dio lugar a la sentencia.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO TERCERO.
 
-La sustanciación y resolución de los procedimientos señalados en el artículo transitorio anterior, a partir de la entrada en vigor de la presente Ley, será llevada a cabo por la autoridad judicial competente, de conformidad con las disposiciones legales y Constitucionales aplicables.
+Los procedimientos para otorgar los beneficios de libertad anticipada señalados en esta Ley serán aplicables a las personas que los hayan iniciado con posterioridad a la entrada en vigor de esta última, y que fueron o sean sentenciadas conforme a las disposiciones normativas del Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado con fecha 20 de agosto de 1989. La integración de los procedimientos estará a cargo de la Dirección de Ejecución de Penas y Medidas Judiciales, correspondiendo su resolución a los Jueces Penales de Primera Instancia a que se refiere el Artículo 81 de la Ley Orgánica del Poder Judicial del Estado.
+
+Tratándose de los sentenciados conforme a disposiciones normativas anteriores al Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado con fecha 20 de agosto de 1989, se aplicará lo dispuesto en el párrafo anterior.
+
+Los jueces penales de primera instancia ejercerán las facultades y observarán las obligaciones que esta Ley le señala al Juez de Ejecución, en lo que sea compatible con el Código de Procedimientos Penales para el Estado de Baja California publicado con fecha 20 de agosto de 1989 en el Periódico Oficial del Estado o en su caso, conforme a las disposiciones normativas anteriores a este Código.
 
 ###### ARTÍCULO CUARTO.
 
 A partir de la publicación de la presente Ley, se deberá integrar una Comisión Interinstitucional, la cual estará integrada por los funcionarios que al efecto designen el Poder Ejecutivo y el Poder Judicial, a fin de llevar a cabo la planeación, programación, proyección, evaluación y seguimiento de las acciones necesarias para la correcta implementación del presente Decreto.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO QUINTO.
 
 Se abroga la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, Publicada en el Periódico Oficial No. 37, de fecha 4 de Agosto de 1995.
+
+Hasta en tanto se expidan los Reglamentos de esta Ley, continuarán vigentes las normas reglamentarias de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, publicada en el Periódico Oficial No. 37, de fecha 4 de Agosto de 1995, en lo que no se opongan a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO SEXTO.
+
+En los Partidos Judiciales de Tecate y Playas de Rosarito, los Jueces de Primera Instancia Penal tendrán facultades para resolver los beneficios de libertad anticipada, siempre y cuando las solicitudes que dieron origen a estos, no deriven de sentencias que ellos hayan dictado.
+
+En caso contrario, serán competentes para resolver los Jueces de Primera Instancia Penal adscritos al Partido Judicial de Tijuana.
+
+Lo señalado en el párrafo anterior quedará sin efecto en el caso de que se establezcan nuevos Juzgados Penales en los Partidos Judiciales de Tecate y Playas de Rosarito.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Las solicitudes de los sentenciados contempladas en el supuesto que establece el artículo 111, párrafo segundo de esta Ley, tratándose del Centro de Reinserción Social "El Hongo", se sortearán aleatoriamente entre los Juzgados Penales de los Partidos Judiciales de Tecate y Tijuana.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO OCTAVO.
+
+En caso de conflicto competencial acerca de la autoridad judicial que debe conocer sobre la solicitud de un beneficio de libertad anticipada, será competente el Juez de Ejecución del Partido Judicial del lugar o Centro donde el sentenciado esté compurgando su sentencia.
 
 DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los veinticinco días del mes de septiembre del año dos mil diez.
 
@@ -1302,3 +1380,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el periódico Oficial de Estado.
