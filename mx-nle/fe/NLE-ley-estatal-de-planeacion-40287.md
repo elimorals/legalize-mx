@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-planeacion-40287"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-28"
-last_updated: "2010-12-24"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de julio de 2004.
 
@@ -49,11 +49,17 @@ II. Las bases de integración y funcionamiento del Sistema Estatal de Planeació
 
 III. Las bases de integración y operación del Modelo de Planeación Programática para el Desarrollo;
 
-IV. Las bases conforme a las cuales el Poder Ejecutivo Estatal podrá coordinar actividades de planeación con los otros niveles de gobierno; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+IV. Las bases conforme a las cuales el Poder Ejecutivo Estatal podrá coordinar actividades de planeación con los otros niveles de Gobierno;
 
-V. Crear un Consejo de Planeación y Evaluación del Estado, para la participación de la sociedad en la formulación, evaluación social, técnica y en su caso la económica de las políticas públicas establecidas y las ejecutadas en los planes, programas y proyectos a los que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V. Crear un Consejo de Planeación y Evaluación del Estado, para la participación de la sociedad en la formulación, evaluación social, técnica y en su caso la económica de las políticas públicas establecidas y las ejecutadas en los planes, programas y proyectos a los que se refiere esta Ley; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VI. Las bases para promover y garantizar la igualdad entre mujeres y hombres y la incorporación de la perspectiva de equidad de género en el Plan Estatal de Desarrollo y en los programas a que se refiere esta Ley.
 
 ###### Artículo 2.
 
@@ -79,25 +85,31 @@ IV. Planes, Programas y Proyectos Estatales: son los documentos rectores de la p
 
 V. Proyectos estratégicos Estatales son: proyectos incluidos en los documentos rectores de planeación del Estado como detonantes del desarrollo estatal, con un horizonte de ejecución de mediano y largo plazo.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI. Planes, Programas y Proyectos de Inversión de las dependencias y entidades de la administración pública: son los programas y proyectos que pueden tener un horizonte anual o plurianual. Se proponen en los programas operativos anuales y se plasman para su ejecución en el anteproyecto de Ley de Egresos y en el Programa Anual de Gasto Público.
+VI. Perspectiva de Equidad de Género: Enfoque o herramienta que permite identificar y atender el fenómeno de la desigualdad e inequidad entre mujeres y hombres.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VII. Comité: es el Comité de Planeación Evaluación e Innovación de la Administración Pública del Estado; y
+VII. Planes, Programas y Proyectos de Inversión de las dependencias y entidades de la administración pública: son los programas y proyectos que pueden tener un horizonte anual o plurianual y con perspectiva de equidad de género. Se proponen en los programas operativos anuales y se plasman para su ejecución en el anteproyecto de Ley de Egresos y en el Programa Anual de Gasto Público.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VIII. El Consejo: es el Consejo de Planeación y Evaluación del Estado, y es el órgano ciudadano para promover en coordinación con el Ejecutivo del Estado la participación de la sociedad en la planeación para el desarrollo del Estado, cuidar, evaluar y difundir la ejecución y el impacto social de las políticas públicas.
+VIII. Comité: Es el Comité de Planeación Evaluación e Innovación de la Administración Pública del Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IX. El Consejo: Es el Consejo de Planeación y Evaluación del Estado, y es el Órgano Ciudadano para promover en coordinación con el Ejecutivo del Estado la participación de la sociedad en la planeación para el desarrollo del Estado, cuidar, evaluar y difundir la ejecución y el impacto social de las políticas públicas.
 
 ###### Artículo 4.
 
 Es responsabilidad y atribución del Titular del Ejecutivo del Estado, conducir el proceso de planeación estatal de conformidad con lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 5.
 
-El proceso de planeación normado por la presente Ley conllevará al contenido de un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación, tales como los programas estatales, en sus vertientes regional, sectorial y especial, y los proyectos estratégicos y de inversión.
+El proceso de planeación normado por la presente Ley conllevará al contenido de un instrumento rector denominado Plan Estatal de Desarrollo. Con base en él se elaborarán los demás instrumentos de la planeación, tales como los programas estatales, en sus vertientes regional, sectorial, especial, con perspectiva de equidad de género y los proyectos estratégicos y de inversión.
 
 ###### Artículo 6.
 
@@ -111,17 +123,29 @@ III. La transparencia de los objetivos, metas y acciones de la administración p
 
 IV. El respeto irrestricto a las garantías individuales y sociales;
 
-V. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión en un marco de estabilidad económica y social;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI. La coordinación de esfuerzos, objetivos, estrategias y acciones entre los distintos órdenes de gobierno para obtener un desarrollo sustentable en el Estado;
+V. La igualdad de derechos y oportunidades entre mujeres y hombres; con perspectiva de equidad de género, la atención de las necesidades básicas de la población y la mejoría; en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
-VII. El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación a la planeación para el desarrollo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+VI. EI equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión en un marco de estabilidad económica y social;
 
-VIII. Incrementar el beneficio social de las acciones de Gobierno, mediante la evaluación de programas y proyectos; del análisis de datos e información que, apoyen la toma de decisiones de los actores que participan en el proceso de creación de valor público agregado; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-IX. El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones, basado en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado.
+VII. La coordinación de esfuerzos, objetivos, estrategias y acciones entre los distintos órdenes de Gobierno para obtener un desarrollo sustentable en el Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VIII. EI fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación a la planeación para el desarrollo;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IX. Incrementar el beneficio social de las acciones de Gobierno, mediante la evaluación de programas y proyectos; del análisis de datos e información que, apoyen la toma de decisiones de los actores que participan en el proceso de creación de valor público agregado; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+
+X. El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones, basado en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado.
 
 ###### Artículo 7.
 
@@ -131,9 +155,9 @@ Los planes y programas derivados del proceso de planeación que incluyen la cons
 
 Estos planes, programas y proyectos estratégicos, previo a la presentación al Titular del Ejecutivo del Estado, serán avalados por el Comité y estarán sujetos a un procedimiento de revisión y actualización que permita ajustarlos a la realidad cambiante del Estado.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-Los programas estratégicos y los programas y proyectos de inversión requeridos para implementar las políticas públicas, serán evaluados social, técnica y económicamente de acuerdo a los lineamientos establecidos por el Comité y avalados por el Consejo.
+Los programas estratégicos y los programas y proyectos de inversión requeridos para implementar las políticas públicas, serán evaluados social, técnica, y económicamente, así como, con perspectiva de equidad de género, de acuerdo a los lineamientos establecidos por el Comité y avalados por el Consejo.
 
 ###### Artículo 8.
 
@@ -221,7 +245,9 @@ III. Integrar el Banco de Programas y Proyectos de Inversión del Plan Estatal d
 
 IV. Emitir los lineamientos para elaborar la metodología de evaluación social y técnica, previa a la implementación de los planes, programas y proyectos estratégicos de acuerdo al valor público agregado. En su caso, los programas y proyectos estratégicos serán evaluados además económicamente;
 
-V. Acordar con el Consejo los lineamientos para elaborar los indicadores de desempeño que permitan evaluar social, técnica y económicamente los programas y proyectos derivados de los programas operativos anuales y del programa anual de gasto público;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V. Acordar con el Consejo los lineamientos para elaborar los indicadores de desempeño que permitan evaluar social, técnica y económicamente, así como, con perspectiva de equidad de género, los programas y proyectos derivados de los programas operativos anuales y del programa anual de gasto público;
 
 VI. Dar seguimiento a los avances del Plan Estatal de Desarrollo y de los programas sectoriales, regionales y especiales, y de los proyectos estratégicos y de inversión;
 
@@ -283,19 +309,21 @@ H).- Todos los titulares de las dependencias y entidades de la administración p
 
 I. Cumplir las disposiciones de esta Ley en su dependencia o entidad;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-II. Elaborar y ejecutar los programas estatales en el ámbito de su competencia. Proponer los indicadores para evaluar la gestión y el impacto de políticas públicas para determinar las metas y estrategias a seguir;
+II. Elaborar y ejecutar los programas estatales en el ámbito de su competencia, observando siempre la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de equidad de género, desde su planeación. Proponer los indicadores para evaluar la gestión y el impacto de políticas públicas para determinar las metas y estrategias a seguir;
 
 III. Asegurar la congruencia de los programas sectoriales, regionales y especiales y de los proyectos estratégicos y de inversión en los que participe, con el Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-IV. Elaborar y ejecutar los programas operativos anuales; proponer los indicadores que permitan evaluar el cumplimiento de metas y el impacto social de sus acciones;
+IV. Elaborar y ejecutar los programas operativos anuales; proponer los indicadores que permitan evaluar el cumplimiento de metas y el impacto social de sus acciones, identificando y registrando la población objetivo y la atendida por dichos programas desagregada por sexo y grupo de edad en los indicadores para resultados y en los padrones de beneficiarias y beneficiarios que corresponda;
 
 V. La responsabilidad de considerar en su caso la variable territorial de las acciones previstas en los programas a su cargo, asegurando su congruencia con los objetivos y prioridades del Plan Estatal de Desarrollo;
 
-VI. Conducir y dar seguimiento a los programas y presupuesto de la dependencia o entidad, y del Modelo de Planeación Programática en el ámbito de su competencia, conforme a los objetivos y lineamientos del Plan Estatal de Desarrollo y la legislación aplicable, previendo las acciones que permitan garantizar el impacto social y económico más benéfico;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VI. Conducir y dar seguimiento a los programas y presupuesto de la dependencia o entidad, y del Modelo de Planeación Programática en el ámbito de su competencia, conforme a los objetivos y lineamientos del Plan Estatal de Desarrollo y la legislación aplicable, previendo las acciones que permitan garantizar el impacto social y económico más benéfico, con enfoque de perspectiva de equidad de género;
 
 VII. Participar en la planeación por medio de los gabinetes funcionales; y
 
@@ -329,7 +357,9 @@ I. Un Consejero Ejecutivo que será un especialista reconocido en materia de pla
 
 Es también responsabilidad del Consejero Ejecutivo, citar a las sesiones del Consejo, elaborar y proponer un reglamento interno para la organización, tiempos y formas de las reuniones del Consejo;
 
-II. Ocho Consejeros que representen a la población en materia de planeación y evaluación de resultados y el impacto de las políticas públicas en Desarrollo Social y Democracia, Seguridad Pública, Procuración y Administración de Justicia, Protección Civil; en Seguridad y Tenencia de la Tierra y de la Vivienda, en Desarrollo y Fomento a la Inversión Productiva, al Empleo, al Campo y al Turismo, y en lo correspondiente al Desarrollo Administrativo y de las Finanzas Estatales;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+II. Ocho Consejeros que representen a la población en materia de planeación y evaluación de resultados y el impacto de las políticas públicas en Desarrollo Social y Democracia, Seguridad Pública, Procuración y Administración de Justicia, Protección Civil, en Seguridad y Tenencia de la Tierra y de la Vivienda, en Desarrollo y Fomento a la Inversión Productiva, al Empleo, al Campo y al Turismo, y en lo correspondiente al Desarrollo Administrativo y de las Finanzas Estatales; así como de Equidad de Género;
 
 III. Los acuerdos y recomendaciones del Consejo, serán turnados al Presidente del Comité para su conocimiento y gestión en su caso;
 
@@ -393,11 +423,13 @@ La etapa de programación se refiere a la alineación de los programas estatales
 
 Para efecto de lo previsto por el Artículo anterior, se hará uso de una estructura programática presupuestal, la cual se compondrá de categorías de clasificación en la que a su vez, se alinearán las vertientes programática, funcional, económica y geográfica.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 22.
 
-Las dependencias y entidades de la administración pública estatal incorporarán en su programa operativo anual, objetivos, metas a alcanzar en el ejercicio presupuestario, costos estimados, los beneficios y el impacto social, e incluirán los indicadores que permitan evaluar y dar seguimiento a la gestión y el desempeño.
+Las dependencias y entidades de la administración pública estatal, incorporarán en su programa operativo anual, objetivos, metas a alcanzar en el ejercicio presupuestario, costos estimados, los beneficios entre mujeres y hombres desagregados por sexo y el impacto social, e incluirán los indicadores que permitan evaluar y dar seguimiento a la gestión y el desempeño.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 Los programas operativos anuales incluirán las acciones, proyectos y actividades específicas que una unidad administrativa efectuará en el año, así como deberá comprender las metas definidas en los programas estatales en los que ésta participe de acuerdo a la estructura programática presupuestal.
 
@@ -427,15 +459,21 @@ El Programa Anual de Gasto Público, el anteproyecto de Presupuesto de Egresos, 
 
 #### SECCIÓN CUARTA. DE LA EVALUACIÓN
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 26.
 
-La evaluación se refiere a la etapa de medición de la efectividad y el costo de las políticas públicas que se deriven del Plan Estatal de Desarrollo y de los programas estatales, de acuerdo a los resultados alcanzados. Para tal efecto se hará uso de indicadores, o medidas que relacionen insumos con productos y servicios, y recursos con resultados.
+La evaluación se refiere a la etapa de medición de la efectividad y el costo de las políticas públicas que se deriven del Plan Estatal de Desarrollo y de los programas estatales, de acuerdo a los resultados alcanzados. Para tal efecto se hará uso de indicadores, o medidas que relacionen insumos con productos y servicios, y recursos con resultados, incluyendo el de perspectiva de equidad de género.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 Los indicadores para evaluar el cumplimiento de objetivos de los programas y proyectos estatales; proyectos estratégicos y de inversión, se publicarán en la página de Internet del Gobierno de Nuevo León.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
+
 Los indicadores para evaluar programas y proyectos incluidos en el Programa Anual de Gasto Público, estarán disponibles en la página de Internet de la dependencia o entidad de la Administración Pública a que corresponda.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 La evaluación del desempeño, avance e impacto de las políticas públicas será anual. En programas y proyectos plurianuales el impacto será estimado anualmente y el impacto último será presentado hasta la conclusión del programa o proyecto.
 
@@ -632,3 +670,9 @@ Cuarto. El Reglamento del Consejo deberá aprobarse a más tardar 30 días hábi
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2011.
+
+Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entrada en vigor del presente decreto, para que los Poderes Ejecutivo, Legislativo y Judicial comiencen a planear, diseñar, elaborar, ejecutar y evaluar los presupuestos con perspectiva de equidad de género.
