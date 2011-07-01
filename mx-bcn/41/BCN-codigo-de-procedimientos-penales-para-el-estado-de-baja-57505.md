@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2011-05-27"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -41,7 +41,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO ÚNICO. PRINCIPIOS, GARANTÍAS Y DERECHOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -49,7 +49,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 Finalidad del procedimiento.- El procedimiento penal tiene por objeto que las controversias penales se resuelvan en un marco de respeto de los derechos fundamentales, reconocidos como garantías individuales en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Baja California, en los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y en este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -57,7 +57,7 @@ Finalidad del procedimiento.- El procedimiento penal tiene por objeto que las co
 
 Juicio previo y debido proceso.- Solo por sentencia firme que sea consecuencia de un proceso tramitado conforme a las disposiciones normativas contenidas en este Código, una persona podrá ser condenada a una pena o ser sometida a una medida de seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -69,7 +69,7 @@ Principios rectores.- El proceso penal será acusatorio y oral. Se regirá por l
 
 Regla de interpretación.- Las disposiciones legales que coarten o restrinjan de cualquier forma, incluso cautelarmente, la libertad personal, limiten el ejercicio de un derecho conferido a los sujetos del proceso, establezcan sanciones procesales o exclusiones probatorias, deberán interpretarse restrictivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -81,9 +81,9 @@ En la aplicación de la Ley penal son inadmisibles las presunciones de culpabili
 
 En los casos de quienes se encuentren sustraídos de la acción de la justicia, se admitirá la publicación de los datos indispensables para su aprehensión por orden judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 6.
 
@@ -95,7 +95,7 @@ Con las excepciones previstas en este Código, el imputado tendrá derecho a int
 
 Cuando el imputado esté privado de su libertad, el encargado de custodiarlo comunicará al Juez o al Tribunal, en forma inmediata, las peticiones u observaciones que aquél formule, y le asegurará la comunicación con su defensor. La falta de esta comunicación se sancionará por las leyes respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -131,13 +131,13 @@ Ninguno de los intervinientes en el proceso podrán divulgar datos sensibles o i
 
 Prohibición de la incomunicación y del secreto.- Queda prohibida la incomunicación del imputado, así como el secreto del proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Sólo en los supuestos autorizados por este Código, se podrá disponer el secreto de alguna actuación al imputado y su defensor. El referido secreto concluirá una vez que se hayan ejecutado las diligencias ordenadas o el motivo que justificó esa decisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -149,7 +149,7 @@ Justicia pronta.- Toda persona tendrá derecho a ser juzgada y a que se le resue
 
 Igualdad ante la ley.- Todas las personas son iguales ante la Ley y deben ser tratadas conforme a las mismas reglas. Las autoridades deberán tomar en cuenta las condiciones particulares de las personas y del caso, pero no pueden fundar sus decisiones sobre la base de la nacionalidad, origen étnico, género, edad, discapacidades, credo o religión, ideas políticas, opiniones, estado civil, preferencias u orientación sexual, condición de salud, económica o social u otra con implicaciones discriminatorias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -159,7 +159,7 @@ Igualdad entre las partes.- Se garantizará a las partes el derecho de igualdad 
 
 Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -167,7 +167,7 @@ Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquie
 
 Juzgamiento único.- La persona condenada o absuelta por sentencia ejecutoriada; o cuyo proceso haya sido sobreseído, no podrá ser sometida a otro proceso penal por los mismos hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -177,7 +177,7 @@ Juez competente.- La potestad de aplicar la Ley penal corresponderá sólo a Tri
 
 Nadie podrá ser juzgado por Tribunales especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -187,9 +187,9 @@ Independencia.- En su función de juzgar, los jueces son independientes de los d
 
 Los jueces harán saber al Tribunal Superior de Justicia cualquier acto o hecho proveniente de otro Poder del Estado, del propio Poder Judicial o de otra persona, que pretenda afectar o afecte el principio de independencia judicial. El Tribunal Superior de Justicia del Estado deberá adoptar las medidas necesarias para que cese la interferencia, independientemente de las sanciones administrativas, civiles y penales que pudieran dar lugar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
@@ -199,9 +199,9 @@ Para tal efecto, presidirán y presenciarán en su integridad el desarrollo de l
 
 Desde el inicio del proceso y a lo largo de su desarrollo, las autoridades administrativas y judiciales deberán consignar en sus actuaciones y valorar en sus decisiones no sólo las circunstancias perjudiciales para el imputado, sino también las favorables a él.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -209,7 +209,7 @@ Fundamentación y motivación de las decisiones.- Los órganos jurisdiccionales 
 
 No existe motivación cuando se hayan omitido observar las reglas de la sana crítica, con respecto a medios o elementos probatorios de valor decisivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -219,7 +219,7 @@ Aplicación de garantías del imputado.- La inobservancia de una regla de garant
 
 Tampoco se podrá retrotraer el proceso a etapas anteriores, sobre la base de la violación de un derecho previsto a favor del imputado, salvo cuando él lo consienta expresamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -227,7 +227,7 @@ Tampoco se podrá retrotraer el proceso a etapas anteriores, sobre la base de la
 
 Normas jurídicas de aplicación común.- Las disposiciones normativas que rigen el desarrollo del juicio oral serán aplicables a las audiencias que estén a cargo del Juez de Garantía, salvo las normas especiales que para estas últimas establezca este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -235,7 +235,7 @@ Normas jurídicas de aplicación común.- Las disposiciones normativas que rigen
 
 Facultades comunes.- Durante las audiencias, le corresponderá al Juez de Garantía ejercer las mismas facultades que se le conceden al Juez que dirige la audiencia de juicio oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 22.
 
@@ -343,25 +343,25 @@ Restablecimiento de las cosas a su estado previo.- En cualquier estado de la cau
 
 Lo anterior se hará a solicitud de la víctima u ofendido, siempre que sus derechos estén legalmente justificados y se haya constituido garantía si se le hubiere exigido.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR TRES PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO No. 279, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR TRES PARRAFOS.</small>
 
 ###### Artículo 36.
 
 Resolución de peticiones o planteamientos de las partes.- Todas las peticiones o planteamientos de las partes que, por su naturaleza o importancia, deban ser debatidas, requieran desahogo de prueba o cuando así lo disponga esta Ley expresamente, se resolverán en audiencia, salvo los casos en que se autorice resolver por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 La prueba deberá ofrecerse al solicitarse la celebración de la audiencia, o en su caso, antes de que se lleve a cabo la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 37.
 
@@ -375,7 +375,7 @@ No invalidará las resoluciones el hecho de que el Juez las haya firmado extempo
 
 Las resoluciones que constituyan actos de molestia y sean dictadas verbalmente en audiencia, deberán ser transcritas inmediatamente después de concluida ésta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -393,7 +393,7 @@ Si la resolución ha sido emitida en audiencia, las precisiones a que se refiere
 
 Resolución firme.- Las resoluciones judiciales quedarán firmes y serán ejecutables, sin necesidad de declaración alguna, en cuanto no sean oportunamente recurridas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -405,7 +405,7 @@ Para tal fin, la autoridad judicial podrá ordenar a quien tenga la copia, que s
 
 La reposición también podrá efectuarse utilizando los archivos electrónicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -449,7 +449,7 @@ Notificaciones.- Las resoluciones y los actos que requieran intervención de las
 
 Regla general.- Las resoluciones pronunciadas durante las audiencias judiciales se entenderán notificadas a los intervinientes en el procedimiento que hubieren asistido o debieron asistir a las mismas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -471,13 +471,13 @@ Cualquiera de los intervinientes podrá ser notificado personalmente en el juzga
 
 Los agentes del Ministerio Público y defensores públicos tienen la obligación de concurrir diariamente a los Tribunales a recibir las notificaciones que deban hacérseles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Los servidores públicos que intervengan en el proceso, serán notificados en sus respectivas oficinas, siempre que éstas se encuentren en el lugar del juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -507,7 +507,7 @@ Notificación a persona ausente.- Cuando la persona por notificar no sea encontr
 
 No encontrándose a nadie en el domicilio señalado, se fijará una cita para el día siguiente en la puerta del lugar donde se practique el acto. Si en la fecha indicada no se encontrare a nadie, se fijará la copia de la resolución a notificar en el mismo sitio, asentando constancia de dicha actuación, sin perjuicio de la obligación de fijar otra copia en los estrados del juzgado o Tribunal correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -563,7 +563,7 @@ Cómputo de plazos fijados en protección de la libertad del imputado.- No obsta
 
 Renuncia o abreviación.- Las partes en cuyo favor se haya establecido un plazo, podrán renunciar a él o consentir su abreviación en forma expresa. En caso de plazo común deben expresar su voluntad todas las partes a las que rige.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -589,7 +589,7 @@ Costos del Proceso.- Todos los gastos que se originen con motivo de los actos de
 
 Los gastos de las diligencias solicitadas por el imputado o la defensa serán cubiertos por quienes las promuevan, salvo que el Juez estime que aquél esté imposibilitado para ello, caso en que serán sufragados por el Estado, sin perjuicio de lo dispuesto en el párrafo siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1525,11 +1525,11 @@ En todo caso, el Tribunal puede proceder de oficio cuando favorezca la libertad 
 
 Para la imposición de medidas cautelares, se podrá escuchar la opinión del órgano que para tal efecto se establezca en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 155.
 
-Delitos Graves y Principios de Proporcionalidad.- No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
+Delitos graves y principio de proporcionalidad.- No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1537,9 +1537,9 @@ Delitos Graves y Principios de Proporcionalidad.- No se podrá decretar una medi
 
 El Juez ordenará oficiosamente la prisión preventiva, cuando la imputación se haga respecto de los siguientes delitos:
 
-I.- Homicidio doloso, previsto en los artículos 124, 125, 126 en relación con el
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-147, y sus formas agravadas citadas en los artículos 127 y 128, todos del Código Penal;
+I.- Homicidio por culpa, previsto en el Artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; Homicidio doloso, previsto en los artículos 124, 125, 126 en relación con el 147, y sus formas agravadas citadas en los artículos 127 y 128, todos del Código Penal;
 
 II.- Violación, prevista en el artículo 176, así como su modalidad agravada contenida en el artículo 179; violación equiparada prevista por el artículo 177; y violación impropia prevista por el artículo 178, todos del Código Penal;
 
@@ -4691,11 +4691,11 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 20 DE MARZO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -4742,3 +4742,7 @@ P.O. 9 DE FEBRERO DE 2011.
 P.O. 27 DE MAYO DE 2011.
 
 ÚNICO: La presente reforma entrará en vigor en el municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios, será en los términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado, publicado el 19 de octubre de 2007, en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los Municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado, publicado el 19 de octubre de 2007 en el Periódico Oficial del Estado.
