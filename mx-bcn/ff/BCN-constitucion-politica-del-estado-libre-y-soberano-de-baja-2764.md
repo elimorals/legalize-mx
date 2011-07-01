@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-05-27"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -423,19 +423,21 @@ No pueden ser electos diputados:
 
 I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio, aún cuando se separe de su cargo;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección;
+II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-III.- Los Diputados y Senadores del Congreso de la Unión durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
+III.- Los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
-IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
+IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
-V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
@@ -487,7 +489,9 @@ En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera prefer
 
 Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-En el Primer Período Ordinario de cada año, antes de concluir el año, el Congreso del Estado examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, en los términos de la Ley de la materia.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá, y en su caso, modificará y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, correspondiente al siguiente Ejercicio Fiscal, en los términos de la ley de la materia. Si al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado las leyes de ingresos del Estado y de los Municipios, así como los presupuestos de Egresos correspondientes, en tanto sean expedidas, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
 
 En el Segundo Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
 
@@ -549,9 +553,9 @@ IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayunta
 
 X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, en los términos de la Ley de (sic) materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que se determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos;
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -887,15 +891,17 @@ V.- Estar en pleno goce de sus derechos Políticos.
 
 VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-No podrán ser electos Gobernador del Estado: el Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes de la elección.
+No podrán ser electos Gobernador del Estado:
 
-Los Militares en servicio activo y los titulares de los cuerpos policíacos, no podrán ser electos Gobernador del Estado, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+El Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
 
-Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo.
+Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
+
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -1703,17 +1709,21 @@ La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un 
 
 III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
 
-IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen en forma provisional noventa días antes del día de la elección, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
+IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen, en forma provisional, noventa días antes del día de la elección.
 
-(REFORMADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
 
-Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, durante el periodo para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando estos no estuvieren ejerciendo el cargo.
+V.- No podrán ser electos miembros de un Ayuntamiento:
 
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+1.- El Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo.
 
-Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos en forma provisional noventa días antes de la elección.
+2.- Los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección.
+
+3.- Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+
+4.- Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2075,7 +2085,11 @@ Los Servidores Públicos Titulares de los Poderes Legislativo, Ejecutivo, Judici
 
 ###### ARTICULO 98.
 
-En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los re quisitos (sic) que señale la Ley.
+En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los requisitos que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+El Estado y los Municipios promoverán el desarrollo integral de la juventud; la Ley establecerá los mecanismos para la protección de sus derechos.
 
 ###### ARTICULO 99.
 
@@ -2289,7 +2303,7 @@ XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que h
 
 ###### ARTICULO QUINTO.
 
-El día 5 de Noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
 
 ###### ARTICULO SEXTO.
 
@@ -2349,7 +2363,7 @@ Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
 
-LDip. Presidente,
+Dip. Presidente,
 
 LIC. EVARISTO BONIFAZ GOMEZ
 
@@ -3274,3 +3288,29 @@ SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 
 TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 
 CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
+
+P.O. 1 DE JULIO DE 2011.
+
+DECRETO NUMERO 68, POR EL QUE SE APRUEBA LA REFORMA A LAS FRACCIONES II, III, IV Y V DEL ARTICULO 18, 42 Y 80 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese la presente reforma a los Ayuntamientos del Estado a efecto de que se emita su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, resultando el recuento aprobatorio, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE JULIO DE 2011.
+
+DECRETO NUMERO 69, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTICULOS 22 PARRAFO QUINTO Y 27 FRACCION XI DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese la presente reforma a los Ayuntamientos del Estado a efecto de que se emita su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, y resultando el recuento aprobatorio, la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2011.
+
+DECRETO NUMERO 70, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 98 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ADICIONANDOLE UN PARRAFO SEGUNDO.
+
+PRIMERO.- Córrase traslado a los Ayuntamientos de Baja California, para dar cumplimiento a las disposiciones previstas en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez emitido el voto aprobatorio por la mayoría de los Ayuntamientos, emítase la declaratoria de incorporación Constitucional de las adiciones que contiene el presente decreto.
+
+TERCERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
