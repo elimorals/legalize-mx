@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2011-04-15"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -197,11 +197,17 @@ VI.- Presentar el vehículo de que se trate para su verificación;
 
 VII.- En caso de ser permisionario o concesionario del servicio público, presentar el permiso o concesión vigentes en los términos de las disposiciones legales aplicables;
 
-VIII.- Presentar el formato electrónico de Registro de Comerciantes de Autos, excepto en los vehículos importados directamente por el interesado, así como los adquiridos fuera del Estado, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-IX.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de
+VIII.- Presentar el formato electrónico de Registro de Comerciantes de Autos, excepto en los vehículos importados directamente por el interesado, así como los adquiridos fuera del Estado;
 
-Ingresos.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IX.- Presentar seguro de responsabilidad civil vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+X.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
 
 ###### ARTÍCULO 8.
 
@@ -311,9 +317,15 @@ I.- Estar dado de alta ante el Registro Estatal Vehicular, a excepción de lo es
 
 II.- Portar los elementos de identificación vehicular vigentes que deberán coincidir con el vehículo al que correspondan;
 
-III.- Reunir las condiciones de seguridad y buen funcionamiento mecánico, para la circulación y seguridad pública. La Oficina Recaudadora podrá solicitar al interesado el acreditamiento de este requisito, a través de constancia expedida por la autoridad estatal o municipal competente, y
+III.- Reunir las condiciones de seguridad y buen funcionamiento mecánico, para la circulación y seguridad pública. La Oficina Recaudadora podrá solicitar al interesado el acreditamiento de este requisito, a través de constancia expedida por la autoridad estatal o municipal competente, y (sic)
 
-IV.- Cumplir con las disposiciones municipales respectivas que no contravengan lo establecido en esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- Contar con un seguro de responsabilidad civil vigente que ampare cuando menos, los daños que se lleguen a ocasionar a terceros en su persona y en sus bienes con motivo de un accidente de tránsito, de conformidad con el artículo 18 BIS de este ordenamiento, y
+
+V.- Cumplir con las disposiciones municipales respectivas que no contravengan lo establecido en esta Ley.
 
 ###### ARTÍCULO 18.
 
@@ -324,6 +336,18 @@ No podrán circular en el Estado vehículos de otras entidades federativas que n
 Las medidas establecidas en el presente artículo serán aplicables a los vehículos de procedencia extranjera, siempre y cuando sus elementos de identificación vehicular se encuentren vigentes y se reúnan los requisitos que para su legal estancia en el país establecen las disposiciones respectivas.
 
 La Secretaría y las autoridades municipales de tránsito podrán verificar el debido cumplimiento de lo dispuesto en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 18 BIS.- El seguro de responsabilidad civil a que se refiere este ordenamiento, debe amparar por lo menos, en concepto de daños a terceros en su persona y en sus bienes, el monto de cuatro mil trescientos cincuenta veces el salario mínimo general vigente en el Estado.
+
+El seguro de responsabilidad civil, únicamente será exigible cuando las instituciones o empresas de seguros lo ofrezcan a un costo anual que no exceda de quince veces el salario mínimo general vigente en el Estado.
+
+Se sancionará a quien conduzca un vehículo que no cuente con un seguro de responsabilidad civil vigente; sin embargo, cuando se trate de la primera vez la autoridad municipal competente apercibirá únicamente al conductor; en caso de reincidencia, será acreedor a una multa que será condonada por la citada autoridad municipal, siempre que el propietario del vehículo le presente una póliza de seguro vigente que ampare los conceptos y el monto requerido en este artículo, en el plazo que al efecto establezca dicha autoridad, el cual no podrá exceder de 30 días. En caso de que la póliza de seguro vigente se presente fuera del plazo señalado, la autoridad municipal respectiva podrá reducir el importe de la multa correspondiente.
+
+Los vehículos registrados o procedentes de otras entidades federativas o del extranjero, deben contar con un seguro de responsabilidad civil durante el tiempo que circulen en el Estado, el cual deberá amparar cuando menos, los conceptos y el monto que se señala en este artículo; en caso contrario, se sancionarán a los conductores en términos de la (sic) disposiciones municipales que resulten aplicables.
+
+Los vehículos destinados al transporte público observaran las disposiciones que en dicha materia se establezcan.
 
 ###### ARTÍCULO 19.
 
@@ -379,9 +403,11 @@ Las calcomanías y tarjetas de circulación deberán de contener expresamente su
 
 Se deberá realizar el alta de un vehículo dentro de los 5 días hábiles siguientes a la adquisición o importación correspondiente, excepto cuando se trate de la adquisición realizada por comerciantes de autos usados para su venta, supuesto en el cual, el plazo se considerará a partir de la enajenación del vehículo por parte del comerciante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-La Secretaría a través de las Oficinas Recaudadoras, podrá expedir placas demostradoras, con su respectiva tarjeta de circulación, a los comerciantes dedicados a la venta de vehículos, exclusivamente para que puedan darlos a conocer; las cuales tendrán una vigencia de seis años. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el que fueron expedidas.
+La Secretaría a través de las Oficinas Recaudadoras, podrá expedir placas demostradoras, con su respectiva tarjeta de circulación, a los comerciantes dedicados a la venta de vehículos, exclusivamente para que puedan darlos a conocer, las cuales tendrán una vigencia de seis años. Las calcomanías y tarjetas de circulación estarán vigentes durante el año para el cual fueron expedidas.
 
 El canje de las calcomanías y tarjetas de circulación de las placas demostradoras deberá solicitarse, dentro de los tres primeros meses del ejercicio fiscal siguiente al que fueron expedidas, cumpliendo para ello con los requisitos establecidos en esta Ley y demás disposiciones legales aplicables, incluyendo el pago de las contribuciones respectivas.
 
@@ -405,11 +431,17 @@ VI.- Acreditar encontrarse al corriente de sus obligaciones fiscales ante el Est
 
 VII.- Justificar el número de placas demostradoras que requiere para su negocio;
 
-VIII.- Inscribirse en el Registro de Comerciantes de Autos, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-IX.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de
+VIII.- inscribirse en el Registro de Comerciantes de Autos;
 
-Ingresos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+IX.- Presentar seguro de responsabilidad civil o póliza de plan de piso vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+
+X.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
 
 La Secretaría a través de las Oficinas Recaudadoras determinará el juego de placas demostradoras que expedirá a la negociación que haya cumplido con los requisitos señalados en este artículo, sin que dicha determinación pueda ser impugnada mediante algún medio de defensa.
 
@@ -429,11 +461,17 @@ III.- Presentar certificado de no adeudo municipal, en los términos que se esta
 
 IV.- Acreditar encontrarse al corriente de sus obligaciones fiscales ante el Estado;
 
-V.- Justificar el número de placas demostradoras para su negocio, por las que solicita revalidación de tarjeta de circulación y canje de las mismas, en su caso, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de
+V.- Justificar el número de placas demostradoras para su negocio, por las que solicita revalidación de tarjeta de circulación y canje de las mismas, en su caso;
 
-Ingresos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+VI.- Presentar seguro de responsabilidad civil o póliza de plan de piso vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+
+VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
 
 ###### ARTÍCULO 28.
 
@@ -469,9 +507,17 @@ III.- En el caso de personas morales, presentar comprobante de domicilio, escrit
 
 IV.- Presentar certificado de no adeudo municipal, en los términos que se establezcan en los convenios de colaboración administrativa que en su caso celebre el Estado con los Municipios;
 
-V.- Para vehículos del servicio público de transporte, deberán presentar además el permiso o concesión vigente, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-VI.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
+V.- Para vehículos del servicio público de transporte, deberán presentar además el permiso o concesión vigente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+VI.- Presentar seguro de responsabilidad civil vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+
+VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
 
 ### CAPÍTULO III. DE LA CANCELACIÓN DE LAS PLACAS DE CIRCULACIÓN
 
@@ -805,10 +851,24 @@ CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE ABRIL DE 2011.
 
 PRIMERO.- La presente reforma entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado, realizará las adecuaciones que correspondan a la Ley de Ingresos del Estado de Baja California, para el ejercicio fiscal del año siguiente al que entre en vigor.
+
+P.O. 1 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Lo dispuesto en la fracción IV del artículo 17; fracción IX del artículo 26; fracción VI del artículo 27 y fracción VI del artículo 29 de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, entrarán en vigor a partir del primero de enero de dos mil doce.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo establecido en la fracción IX, del artículo 7, así como en el artículo 18 BIS, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos del Estado deberán adecuar su normatividad de conformidad con lo establecido en las presentes reformas, en un plazo no mayor al de treinta días, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
