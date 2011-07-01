@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-deporte-y-cultura-fisica-para-el-55419"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-27"
-last_updated: "2007-03-27"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE DEPORTE Y CULTURA FISICA PARA EL ESTADO DE GUANAJUATO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de marzo de 2007.
 
@@ -514,3 +516,15 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DE L. S. DIOSDADO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE JULIO DE 2011.
+
+Entrada en vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento
+
+Artículo Segundo. Se abroga el Decreto Gubernativo Numero 20, publicado en el Periódico Oficial del Gobierno del Estado número 50, Quinta Parte, del 27 de marzo de 2007, mediante el cual se expidió el Reglamento de la Ley de Deporte y Cultura Física para el Estado de Guanajuato.
