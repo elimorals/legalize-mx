@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2010-10-15"
+last_updated: "2011-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -41,7 +41,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 1.
 
@@ -229,7 +229,7 @@ El retiro de los Jueces, Secretarios de Acuerdos y Actuarios, así como demás s
 
 ### CAPITULO III. DE LAS PROHIBICIONES, INCOMPATIBILIDADES E INCAPACIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -253,7 +253,7 @@ No podrá recaer ningún nombramiento de la Administración de Justicia en indiv
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 21.
 
@@ -605,7 +605,7 @@ Son Jueces de Unica Instancia, para los efectos que prescribe la Constitución G
 
 Los jueces de Paz, en las resoluciones dictadas en materia Civil o Penal, en contra de los cuales no procede ningún recurso ordinario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 53.
 
@@ -759,7 +759,7 @@ Los jueces de lo Civil, de lo Familiar, de lo Penal, Mixtos de Primera Instancia
 
 Cuando dentro de la jurisdicción territorial de un Juzgado Mixto de Primera Instancia, no hubiere juzgados de Paz, conocerán también de los negocios jurídicos que de acuerdo con la Ley son de la competencia de estos juzgados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 71.
 
@@ -937,19 +937,25 @@ Los jueces de lo Penal tendrán las siguientes atribuciones:
 
 I.- Conocer de todos los asuntos de carácter penal que no estén encomendados por esta Ley a la jurisdicción de los jueces de Paz.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 II.- Designar al personal que durante los periodos vacacionales deban quedar de guardia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 III.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente.
 
-IV.- Las demás que les confieren las leyes.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- Desempeñarse con el carácter de Juez de Ejecución en aquellos asuntos penales que no haya tenido bajo su conocimiento y de conformidad a las disposiciones legales aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+V.- Las demás que les confieren las leyes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -962,6 +968,10 @@ Para el nuevo sistema de justicia penal, se contará con el número de Jueces de
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 Los Jueces de Garantía estarán investidos de fe pública para constancia y certificación de sus actos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2011)</small>
+
+Los Jueces de Garantía podrán desempeñarse como Jueces de Ejecución dentro del Partido Judicial correspondiente, con la condición de que no hayan conocido de ese asunto como Juez de Garantía o Tribunal de Juicio Oral.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -1077,7 +1087,7 @@ I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la prop
 
 II.- En el ramo Penal, de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multa cuyo máximo sea de cuarenta días de salario mínimo, prisión cuyo máximo sea de un año o ambas, de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
-> <small>(ADICIONADO CON SUS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2006)</small>
 
 ### CAPITULO VII. DE LA ORGANIZACION DE LOS JUZGADOS DE PRIMERA INSTANCIA ESPECIALIZADOS PARA ADOLESCENTES
 
@@ -1219,7 +1229,7 @@ Las faltas temporales de los demás empleados se suplirán, cuando así lo deter
 
 Las faltas absolutas de los Jueces, Secretarios y demás servidores públicos de la Administración de Justicia, serán cubiertas mediante nuevas designaciones o nombramientos en los términos que señala la Constitución Política del Estado, esta Ley y demás disposiciones normativas aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
 
 ## TITULO SEPTIMO. DE LOS IMPEDIMENTOS EN LA ADMINISTRACION DE JUSTICIA
 
@@ -1251,7 +1261,7 @@ En todos los casos en que según esta Ley debe suplir a un Juez el que le sigue 
 
 En los casos de impedimento por recusación o excusas de los jueces de Paz, conocerá del negocio el secretario, que a su vez actuará con testigos de asistencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
 
 ## TITULO OCTAVO. DE LAS LICENCIAS DE LOS SERVIDORES PUBLICOS EN LA ADMINISTRACION DE JUSTICIA
 
@@ -1889,11 +1899,11 @@ XLI.- Remitir al Pleno del Tribunal Superior de Justicia, la lista de las person
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-XLlI.- Remitir al Juez que tenga vacantes en los cargos de Secretario de Acuerdos y Actuarios, la lista de las personas que deben ser consideradas para ocupar dichas vacantes.
+XLII.- Remitir al Juez que tenga vacantes en los cargos de Secretario de Acuerdos y Actuarios, la lista de las personas que deben ser consideradas para ocupar dichas vacantes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
-XLlII.- Las demás que la Constitución Política del Estado, esta Ley y otros ordenamientos jurídicos le confieran.
+XLIII.- Las demás que la Constitución Política del Estado, esta Ley y otros ordenamientos jurídicos le confieran.
 
 ###### ARTICULO 169.
 
@@ -1947,7 +1957,7 @@ V.- Certificar, autorizar y dar fe de las actuaciones del Consejo de la Judicatu
 
 VI.- Coordinar las funciones de los titulares de las unidades administrativas del Consejo de la Judicatura.
 
-VII.- Llevar el turno de los Consejeros que por casos de impedimento o excusa. (sic)
+VII.- Llevar el turno de los Consejeros que por casos de impedimento o excusa.
 
 VIII.- Llevar el control y lista de los auxiliares de la administración de justicia.
 
@@ -2029,7 +2039,7 @@ El Instituto de la Judicatura, contará con un área de investigación, la cual 
 
 El Centro Estatal de Justicia Alternativa será el órgano auxiliar del Consejo de la Judicatura del Estado, que tendrá a su cargo la prestación de los siguientes servicios:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2041,7 +2051,7 @@ III.- Promover la mediación y la conciliación como alternativas de prevención
 
 IV.- Las demás que establezcan los ordenamientos legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2089,9 +2099,13 @@ XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren 
 
 XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Garantía, a las unidades judiciales donde deban ejercer su jurisdicción.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XIV.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
+XIV.- Ejercer las facultades y aplicar los procedimientos previstos en las fracciones l, II y IV de este artículo cuando los Jueces de Garantía actúen en calidad de Jueces de Ejecución.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+
+XV.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -2125,7 +2139,7 @@ VI.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 5.- El administrador judicial será considerado para efectos laborales como trabajador de confianza y tendrá adscrito y a su cargo, el personal que le asigne el Consejo de la Judicatura y sea necesario para ejercer adecuadamente sus atribuciones, en particular de apoyo a los Jueces de Garantía y Tribunales de Juicio Oral.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MAYO DE 1998)</small>
 
 TITULO DECIMOSEGUNDO
 
@@ -2289,7 +2303,7 @@ III.- Fuera de la capital del Estado recibir promociones que deben presentarse a
 
 IV.- Las que para el mejor desempeño de la administración de justicia le señalare el Consejo de la Judicatura.
 
-> <small>(REFORMADO EN SU DENOMINACION, P.O. 2 DEJULIO DE 2010)</small>
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2010)</small>
 
 ### CAPITULO II. DE LOS SINDICOS DE CONCURSO
 
@@ -2385,7 +2399,7 @@ IV.- En su caso, el desempeño en el poder judicial, y
 
 V.- El grado académico que comprende el nivel de estudios con que cuente el servidor público así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 207.
 
@@ -2647,13 +2661,13 @@ Los prestadores del servicio social desempeñarán función de notificadores cua
 
 Los encargados de cada programa elaborarán reportes mensuales sobre las actividades de los prestadores del servicio social y evaluarán al término de su prestación, a través de los informes necesarios.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 TITULO DECIMOCUARTO
 
 DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
@@ -2701,7 +2715,7 @@ El Tribunal, para el desempeño de sus funciones y la práctica de diligencias, 
 
 Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzgados de Paz, auxiliarán al Tribunal, en la práctica de las diligencias que les sean encomendadas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
 
@@ -2807,7 +2821,7 @@ XXIV.- Las demás que esta Ley y el Reglamento Interior establezcan.
 
 Las sesiones de resolución del Pleno del Tribunal funcionando en única instancia, serán públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 251.
 
@@ -2817,7 +2831,7 @@ Para que el Pleno del Tribunal sesione válidamente en única instancia, se requ
 
 Para sesionar válidamente en Pleno y resolver cuestiones administrativas internas del funcionamiento del Tribunal, es necesaria la presencia de por lo menos las dos terceras partes de sus integrantes, y sus determinaciones serán válidas con el voto de la mayoría de los presentes.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 #### SECCION SEGUNDA. DE LAS SALAS
 
@@ -2827,7 +2841,7 @@ ARTICULO 251 BIS.- Las Salas del Tribunal serán Unitarias, integradas por un Ma
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-ARTICULO 251 TER.- Las Salas Unitarias del Tribunal son competentes para sustanciar y resolver exclusivamente las denuncias o quejas a que se refiere la fracción 11del artículo 245 de esta Ley, conforme al procedimiento previsto en la Ley Electoral del Estado.
+ARTICULO 251 TER.- Las Salas Unitarias del Tribunal son competentes para sustanciar y resolver exclusivamente las denuncias o quejas a que se refiere la fracción 11 del artículo 245 de esta Ley, conforme al procedimiento previsto en la Ley Electoral del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
@@ -2861,7 +2875,7 @@ ARTICULO 251 SEXIES.- Cuando un Magistrado estuviere impedido a conocer de algun
 
 ARTICULO 251 SEPTIES.- Para el desempeño de los asuntos que tiene encomendados cada Sala Unitaria, tendrá por lo menos en año electoral dos Secretarios de Estudio y Cuenta, un Actuario, y demás personal jurídico que fije el presupuesto de egresos respectivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
@@ -2961,7 +2975,7 @@ XXXVII.- Acordar con el Pleno los lineamientos para selección, capacitación, d
 
 XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
 
@@ -2981,9 +2995,9 @@ Si el número de solicitudes planteadas, conforme a lo dispuesto en esta fracci�
 
 IV.- En el supuesto de que no se aprobasen los dictámenes presentados y habiéndose agotado una segunda ronda de votación, se procederá a nombrarlos mediante el sistema de sorteo, en el cual habrán de considerarse todas aquellas personas cuya solicitud fue aprobada.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 255.
 
@@ -3093,7 +3107,7 @@ XIII.- Revisar los engroses de las resoluciones del Tribunal.
 
 XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
 
@@ -3177,7 +3191,7 @@ XVI.- Suscribir los convenios de servicio social en el Tribunal y vigilar su cum
 
 XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior del Tribunal, le encomienden.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
 
@@ -3203,7 +3217,7 @@ VII.- Firmar los convenios relativos a la prestación del servicio social del Tr
 
 VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales y la Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
 
@@ -3225,7 +3239,7 @@ II.- El cumplimiento de las obligaciones derivadas de las disposiciones en mater
 
 III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
@@ -3281,9 +3295,11 @@ VIII.- Gozar de buena reputación.
 
 IX.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
-ARTICULO269.- Para ser Secretario de Estudio y Cuenta del Tribunal, deberán reunirse los requisitos siguientes:
+###### ARTICULO 269.
+
+Para ser Secretario de Estudio y Cuenta del Tribunal, deberán reunirse los requisitos siguientes:
 
 > <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3312,24 +3328,6 @@ VI.- Gozar de buena reputación.
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
 VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
-
-###### ARTICULO 269.
-
-Para ser Secretario del Tribunal, deberán reunirse los requisitos siguientes:
-
-I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Haber cumplido por lo menos veinticinco años de edad al día de la designación.
-
-III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
-
-IV.- Estar inscrito en el Padrón Estatal Electoral y contar con su Credencial Estatal de Elector.
-
-V.- No haber sido postulado a cargos de elección popular, en los últimos seis años anteriores a la elección.
-
-VI.- Gozar de buena reputación.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -3391,7 +3389,7 @@ El Presidente del Tribunal, a propuesta de la Comisión de Administración, podr
 
 La Comisión de Administración, podrá ser autorizada por el Pleno del Tribunal, para contratar con carácter de eventual el personal necesario, cuando las cargas de trabajo extraordinario lo exijan, de conformidad con las partidas autorizadas en su Presupuesto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 273.
 
@@ -3413,7 +3411,7 @@ Los Magistrados Electorales están impedidos para conocer de los medios de impug
 
 Asimismo, al Secretario General Acuerdos y a los Secretarios de Estudio y Cuenta del Tribunal, les será aplicable, lo dispuesto en el párrafo primero.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 275.
 
@@ -3435,7 +3433,7 @@ Los servidores públicos del Tribunal, estarán obligados a prestar sus servicio
 
 Durante los procesos electorales locales, podrá preverse en el Presupuesto de Egresos compensaciones para los servidores públicos del Tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 278.
 
@@ -3497,7 +3495,7 @@ Las licencias de los servidores públicos del Tribunal, se concederán en los t�
 
 Las licencias se concederán a los servidores públicos del Tribunal, tomando en consideración que durante los procesos electorales todos los días y las horas son hábiles.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 287.
 
@@ -3533,7 +3531,7 @@ III.- El demás personal, ante el Presidente del Tribunal.
 
 La protesta constitucional será rendida en los términos establecidos por los artículos 14 y 61 de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 291.
 
@@ -3593,7 +3591,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE MAYO DE 1997.
 
@@ -3825,7 +3823,7 @@ Para las faltas absolutas de secretarios de acuerdos de los juzgados penales del
 
 ###### ARTICULO SEXTO.
 
-En el caso de faltas temporales o absolutas de actuarios de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto, el Tribunal Superior de Justicia del Estado realizará las suplencias respectivas, dentro de las personas que cumplan con los requisitos que señala Ia ley y formen parte de la lista elaborada por el Consejo de la Judicatura que señale nombres de personas aptas para ocupar el cargo.
+En el caso de faltas temporales o absolutas de actuarios de los juzgados penales del sistema tradicional del Partido Judicial de Mexicali, que se actualicen con posterioridad a la entrada en vigor de este Decreto, el Tribunal Superior de Justicia del Estado realizará las suplencias respectivas, dentro de las personas que cumplan con los requisitos que señala la ley y formen parte de la lista elaborada por el Consejo de la Judicatura que señale nombres de personas aptas para ocupar el cargo.
 
 ###### ARTICULO SEPTIMO.
 
@@ -3845,7 +3843,7 @@ Las reglas establecidas en los artículos transitorios cuarto, quinto, sexto, s�
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 440, SEGUNDO POR EL QUE SE APRUEBA LA ADICION DE UN ARTICULO 95 BIS Y SE REFORMAN LOS ARTICULOS 81 BIS, 81 TER Y 197 BIS-2 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 440, SEGUNDO POR EL QUE SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 95 BIS Y SE REFORMAN LOS ARTÍCULOS 81 BIS, 81 TER Y 197 BIS-2 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 Primero.- La presente adición y las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3853,7 +3851,7 @@ Segundo.- Hasta en tanto este vigente el periodo de la reserva a que se refiere 
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 446, CUARTO POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 81 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 446, CUARTO POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 81 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
@@ -3861,6 +3859,12 @@ SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decre
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 450, POR EL QUE SE REFORMAN LOS ARTICULOS 156 Y 157 Y SE DEROGA LA FRACCION XIII DEL ARTICULO 253 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 450, POR EL QUE SE REFORMAN LOS ARTÍCULOS 156 Y 157 Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 253 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado."
+
+P.O. 1 DE JULIO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los jueces penales de primera instancia ejercerán las facultades y observarán las obligaciones que la Ley de Ejecución de Penas y Medidas Judiciales para el Estado señala para el Juez de Ejecución, en todo aquello que sea compatible con las disposiciones normativas que se contienen en el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989 o en su caso, conforme a las disposiciones normativas anteriores a este Código.
