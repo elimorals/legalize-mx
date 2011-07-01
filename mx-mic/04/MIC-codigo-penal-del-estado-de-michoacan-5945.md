@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2011-06-03"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE JUNIO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -2967,6 +2965,10 @@ IV. Con prisión de cinco a diez años y multa de cien a quinientos días de sal
 
 V. Con prisión de ocho a quince años y multa de cien a quinientos días de salario, si la lesión deja al ofendido, una enfermedad mental o corporal incurable; pérdida o inutilización de un miembro, sentido o función; pérdida permanente del uso de la palabra; deformidad incorregible, incapacidad permanente para el trabajo o la pérdida de la capacidad para engendrar o concebir.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Para efectos de la fracción I de este artículo, este delito se perseguirá por querella.
+
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 271.
@@ -3511,6 +3513,8 @@ XIX. Al que venda, prometa vender o transfiera, mediante fraccionamiento, lotifi
 
 XX. Al que utilizando un documento falso o auténtico se haga pasar por su titular y obtenga un lucro indebido.
 
+Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
+
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 326.
@@ -4018,3 +4022,9 @@ P.O. 8 DE DICIEMBRE DE 2010.
 P.O. 1 DE MARZO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
