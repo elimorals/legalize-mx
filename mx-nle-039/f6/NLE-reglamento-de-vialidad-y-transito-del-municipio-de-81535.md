@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-vialidad-y-transito-del-municipio-de-81535"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-13"
-last_updated: "2010-12-13"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE MONTERREY DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 13 de diciembre de 2010.
 
@@ -313,7 +313,7 @@ de un año, sin que sea preciso que el
 
 individuo conduzca el mismo vehículo,
 
-se aplicará una multa de 200 a 600 cuotas;
+se aplicará una multa de 200 a 600 cuotas.
 
 24 Poseer en el área de pasajeros de un 30 a 200
 
@@ -329,7 +329,27 @@ contenido parcialmente consumido;
 
 26 No pagar la cuota de parquímetro; 1 a 2
 
-27 La violación de cualquier otra 6 a 10
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+27 Circular con cristales polarizados o con 70 a 80
+
+objetos que impidan o limiten la La sanción quedará sin
+
+visibilidad del conductor. efectos si en un plazo de
+
+Con excepción de los vehículos con 15 días naturales posteriores
+
+cristales entintados de fabrica. a la infracción el conductor
+
+demuestre
+
+ante la autoridad competente
+
+el retiro de su polarizado
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+28 La violación de cualquier otra 6 a 10
 
 disposición del presente reglamento.
 
@@ -639,11 +659,9 @@ VI. Abstenerse de utilizar personas para sujetar la carga y abstenerse de transp
 
 ###### ARTÍCULO 32.
 
-La autoridad municipal de tránsito podrá expedir permisos para circular sin placas en los casos siguientes:
+(DEROGADO, P.O. 1 DE JULIO DE 2011)
 
-I. Cuando se trate de vehículos nuevos y el permiso se requiera mientras se realiza el trámite de registro y emplacamiento ante el Instituto de Control Vehicular del Estado; y
-
-II. Cuando se trate de vehículos usados cuyas placas hayan sido dadas de baja ante el Instituto de Control Vehicular.
+ARTÍCULO 33 (DEROGADO, P.O. 1 DE JULIO DE 2011)
 
 ###### ARTÍCULO 33.
 
@@ -669,7 +687,23 @@ Los vehículos destinados al transporte de escolares contarán igualmente con lo
 
 Los vehículos tipo motocicleta contarán igualmente con lo establecido en el primer párrafo de este artículo, sin embargo, las luces delanteras y traseras de éstos no serán pares sino unidades.
 
-En todo caso, deberán encontrarse en perfecto estado y funcionamiento los dispositivos de iluminación y seguridad con que cuente el vehículo según su equipamiento original o de manufactura; los vidrios y ventanas de los mismos, a excepción del frontal, podrán contar con una película o polarizada que no impida u obstruya la visibilidad a través de ellos.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+En todo caso, deberán encontrarse en perfecto estado y funcionamiento los dispositivos de iluminación y seguridad con que cuente el vehículo según su equipamiento original o de manufactura.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Todos los vehículos automotores deberán estar previstos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos, polarizados que impidan o limiten la visibilidad del conductor.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Sólo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+Los vidrios entintados de fábrica sí serán permitidos.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
 Los remolques deberán contar con un sistema de frenado, un par de luces traseras rojas, un par de luces direccionales, luces indicadoras de reversa, llantas en buen estado y un dispositivo de unión al vehículo y cadenas de seguridad y placas.
 
@@ -964,3 +998,9 @@ PRESIDENTE MUNICIPAL
 C. JUAN CARLOS RUÍZ GARCÍA
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2011.
+
+ÚNICO: Las presentes reformas por modificación y derogación del Reglamento de Vialidad y Tránsito del Municipio de Monterrey, Nuevo León, entraran en vigor el día 5 - cinco de julio del 2011- dos mil once.
