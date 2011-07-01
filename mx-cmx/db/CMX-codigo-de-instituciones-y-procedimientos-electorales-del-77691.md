@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-del-77691"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-20"
-last_updated: "2010-12-20"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77691&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-16"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el lunes 20 de diciembre de 2010.
 
@@ -3234,47 +3234,45 @@ V. La obligación de presentar y difundir una plataforma electoral mínima para 
 
 VI. Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas.
 
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
 ###### Artículo 214.
 
 La Agrupación Política Local interesada en constituirse en partido político local, lo notificará al Instituto Electoral, entre el 20 y el 31 de enero del año previo a la jornada electoral, debiendo cumplir con los requisitos señalados en los artículos anteriores y deberá realizar los siguientes actos previos en los plazos señalados por este Código:
 
-(NOTA: EL 7 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. Contar con un número de afiliados no menor al 1.8% de la Lista Nominal del Distrito Federal, distribuidos en por lo menos tres cuartas partes de los Distritos Electorales en que se divide el Distrito Federal;
 
-I. CONTAR CON UN NÚMERO DE AFILIADOS NO MENOR AL 2% DE LA LISTA NOMINAL EN CADA UNA DE LAS 16 DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL;
+II. Celebrar en presencia de un representante del Instituto Electoral acreditado por la Secretaría Ejecutiva y de un Notario Público, una asamblea en por lo menos tres cuartas partes de los Distritos Electorales en que se divide el Distrito Federal. El número mínimo de ciudadanos presentes en cada una de estas asambleas no será inferior a 600 afiliados residentes de cada Distrito Electoral. Para la realización de dicha asamblea el representante del Instituto Electoral deberá registrar, verificar y validar los asistentes, y certificará:
 
-(NOTA: EL 7 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, SÉPTIMO, NOVENO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2011, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+a). El número de afiliados que concurrieron a la asamblea; que conocieron y aprobaron la declaración de principios, estatutos y el programa de acción, y que suscribieron el documento de manifestación formal de afiliación;
 
-II. CELEBRAR EN PRESENCIA DE UN REPRESENTANTE DEL INSTITUTO ELECTORAL ACREDITADO POR LA SECRETARÍA EJECUTIVA Y DE UN NOTARIO PÚBLICO, EN CADA UNA DE LAS DEMARCACIONES TERRITORIALES EN QUE SE DIVIDE EL DISTRITO FEDERAL, UNA ASAMBLEA CUYO NÚMERO DE CIUDADANOS RESIDENTES DE LA MISMA DEMARCACIÓN NO SERÁ INFERIOR A 1000 AFILIADOS. PARA LA REALIZACIÓN DE DICHA ASAMBLEA EL REPRESENTANTE DEL INSTITUTO ELECTORAL DEBERÁ REGISTRAR, VERIFICAR Y VALIDAR LOS ASISTENTES, Y CERTIFICARÁ:
+b). La conformación de las listas de afiliados con las personas mencionadas en la fracción anterior debiendo precisar nombre, apellidos, domicilio, firma de cada uno o huella digital, en caso de no saber escribir, y la clave de la credencial para votar; y
 
-A) EL NÚMERO DE AFILIADOS QUE CONCURRIERON A LA ASAMBLEA; QUE CONOCIERON Y APROBARON LA DECLARACIÓN DE PRINCIPIOS, ESTATUTOS Y EL PROGRAMA DE ACCIÓN, Y QUE SUSCRIBIERON EL DOCUMENTO DE MANIFESTACIÓN FORMAL DE AFILIACIÓN;
+c). La elección de la directiva de la organización, así como delegados para la Asamblea Local Constitutiva del Partido.
 
-B) LA CONFORMACIÓN DE LAS LISTAS DE AFILIADOS CON LAS PERSONAS MENCIONADAS EN LA FRACCIÓN ANTERIOR DEBIENDO PRECISAR NOMBRE, APELLIDOS, DOMICILIO, FIRMA DE CADA UNO O HUELLA DIGITAL, EN CASO DE NO SABER ESCRIBIR, Y LA CLAVE DE LA CREDENCIAL PARA VOTAR; Y
+III. Celebrar una asamblea local constitutiva en presencia de un representante del Instituto Electoral acreditado por la Secretaría Ejecutiva y de un Notario Público quienes certificarán:
 
-C) LA ELECCIÓN DE LA DIRECTIVA DELEGACIONAL DE LA ORGANIZACIÓN, ASÍ COMO DELEGADOS PARA LA ASAMBLEA LOCAL CONSTITUTIVA DEL PARTIDO;
+a) La asistencia de por lo menos el ochenta por ciento de los delegados propietarios o suplentes elegidos en las asambleas distritales;
 
-(NOTA: EL 7 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, SÉPTIMO, NOVENO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2011, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+b) Que se acreditó por medio de las actas correspondientes que las asambleas se celebraron de conformidad con lo establecido en la fracción anterior; y
 
-III. CELEBRAR UNA ASAMBLEA LOCAL CONSTITUTIVA EN PRESENCIA DE UN REPRESENTANTE DEL INSTITUTO ELECTORAL ACREDITADO POR LA SECRETARÍA EJECUTIVA Y DE UN NOTARIO PÚBLICO QUIENES CERTIFICARÁN:
+c) Que se aprobaron su declaración de principios, programa de acción y estatutos.
 
-A) LA ASISTENCIA DE POR LO MENOS EL OCHENTA POR CIENTO DE LOS DELEGADOS PROPIETARIOS O SUPLENTES ELEGIDOS EN LAS ASAMBLEAS DELEGACIONALES;
+A partir de la notificación, la Agrupación Política interesada deberá informar mensualmente al propio Instituto del origen y destino de los recursos que obtenga y utilice para el desarrollo de sus actividades tendentes a la obtención del registro legal. Debiendo el Instituto Electoral establecer los criterios de fiscalización y montos máximos de los recursos a utilizar para realizar las actividades señaladas en este artículo.
 
-B) QUE SE ACREDITÓ POR MEDIO DE LAS ACTAS CORRESPONDIENTES QUE LAS ASAMBLEAS SE CELEBRARON DE CONFORMIDAD CON LO ESTABLECIDO EN EL INCISO B) DE LA FRACCIÓN ANTERIOR; Y
-
-C) QUE SE APROBARON (SIC) SU DECLARACIÓN DE PRINCIPIOS, PROGRAMA DE ACCIÓN Y ESTATUTOS.
-
-A PARTIR DE LA NOTIFICACIÓN, LA AGRUPACIÓN POLÍTICA INTERESADA DEBERÁ INFORMAR MENSUALMENTE AL PROPIO INSTITUTO DEL ORIGEN Y DESTINO DE LOS RECURSOS QUE OBTENGA Y UTILICE PARA EL DESARROLLO DE SUS ACTIVIDADES TENDENTES A LA OBTENCIÓN DEL REGISTRO LEGAL. DEBIENDO EL INSTITUTO ELECTORAL ESTABLECER LOS CRITERIOS DE FISCALIZACIÓN Y MONTOS MÁXIMOS DE LOS RECURSOS A UTILIZAR PARA REALIZAR LAS ACTIVIDADES SEÑALADAS EN ESTE ARTÍCULO.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 215.
 
 Una vez realizados los actos relativos al procedimiento de constitución de un partido político local, la organización interesada deberá presentar al Instituto Electoral, durante julio del año previo a la jornada electoral, la solicitud de registro, acompañándola con los siguientes documentos:
 
-a) La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros en los términos del Artículo anterior;
+a) La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros en los términos del artículo anterior;
 
 b) Las cédulas de afiliación individual y voluntaria de sus miembros, donde conste el nombre, apellidos, domicilio, ocupación, firma y clave de la Credencial para Votar de cada uno de los interesados, bajo el formato que determine el Instituto Electoral;
 
-c) Las listas nominales de afiliados por Delegación, y
+c) Las listas nominales de afiliados por Distrito Electoral, y
 
-d) Las actas de las asambleas celebradas en las delegaciones y de la asamblea constitutiva en el Distrito Federal, certificadas por el representante del Instituto Electoral acreditado por la Secretaría Ejecutiva y de un Notario Público.
+d) Las actas de las asambleas celebradas en los Distritos Electorales y de la asamblea constitutiva en el Distrito Federal, certificadas por el representante del Instituto Electoral acreditado por la Secretaría Ejecutiva y de un Notario Público.
 
 ###### Artículo 216.
 
@@ -3436,7 +3434,9 @@ XXIV. Las demás que establezcan este Código y los ordenamientos aplicables.
 
 Para los efectos del presente Código, se entenderá por:
 
-I. Actividades publicitarias: Son las que realizan los precandidatos por sí o por medio de otras personas, en cualquier medio que permita la divulgación de las ideas y que se efectúan a favor de un precandidato de manera repetida y sistemática en cualquier medio de comunicación ya sea electrónico o impreso, entendidos éstos como radio, televisión, Internet, panorámicos, prensa, folletos, pintas de barda u otros;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+I. Actividades publicitarias: Son las que realizan los precandidatos por sí o por medio de otras personas, en cualquier medio que permita la divulgación de las ideas y que se efectúan a favor de un precandidato de manera repetida y sistemática en cualquier medio de comunicación ya sea electrónico o impreso, entendidos éstos como radio, televisión, panorámicos, prensa, folletos, pintas de barda u otros;
 
 II. Actos de precampaña: Todos aquellos que tienen por objeto promover, publicitar o apoyar la aspiración de una persona para ser postulado candidato a un cargo de elección popular;
 
@@ -3444,25 +3444,35 @@ III. Actos anticipados de precampaña: Todos aquéllos que tienen por objeto pro
 
 IV. Aspirante a candidato o precandidato: Ciudadanos que deciden contender al interior de un determinado Partido Político, con el fin de alcanzar su postulación como candidato a un cargo de elección popular;
 
-V. Procesos de Selección Interna de Candidatos: Conjunto de actos, hechos y actividades establecidas en la convocatoria emitida por los Partidos Políticos con el propósito de elegir o designar a sus candidatos a diversos cargos de elección popular;
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
+
+V. Procesos de Selección Interna de Candidatos: Conjunto de actos, hechos y actividades establecidas en la convocatoria emitida por los Partidos Políticos con el propósito de elegir o designar a sus candidatos a diversos cargos de elección popular; y
+
+> <small>(REFORMADA, G.O. 1 DE JULIO DE 2011)</small>
 
 VI. Precampañas: Actividades de carácter propagandístico que forman parte de los procesos de selección interna de candidatos, y que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan a los candidatos a cargos de elección popular en determinada circunscripción. Estos actos o actividades deberán realizarse dentro del periodo establecido por este Código y estarán sujetas a lo previsto en este mismo ordenamiento y en el Estatuto y demás normatividad interna de los Partidos.
 
-Los precandidatos no podrán contratar, por si o por interpósita persona, publicidad en espacios de Internet a efecto de promover el voto para un cargo de elección popular fuera de los plazos establecidos para las precampañas.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 1 DE JULIO DE 2011)</small>
 
-La usurpación de identidad en Internet del precandidato, así como, la información o propaganda que se difunda en cualquier medio que inhiba el voto, calumnie a las personas, denigre a otros precandidatos, a los partidos políticos o a las instituciones serán conductas sancionadas en los términos del artículo 377, fracción I del presente Código.
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
+
+La usurpación de identidad en Internet del precandidato, así como, la información o propaganda que se difunda en cualquier medio que inhiba el voto, calumnie a las personas, denigre a otros precandidatos, a los partidos políticos o a las instituciones serán conductas sancionadas en los términos del artículo 373 del presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE JULIO DE 2011)</small>
+
+Durante el proceso electoral, cualquier manifestación en ejercicio del derecho a la libertad de expresión, así como, del derecho a la información de los ciudadanos, partidos políticos, precandidatos y candidatos será garantizado por las autoridades competentes, y, en caso de controversia administrativa o jurisdiccional, deberá resolverse en favor de su protección, en términos de lo dispuesto por los artículos 6 y 41 constitucionales en relación con los artículos 223 y 311 del presente Código, por lo que no deberán ser calificadas como propaganda electoral o actividades publicitarias, siempre y cuando no incurran en las restricciones a que se refiere la fracción X del artículo 231 de este Código.
+
+> <small>(REFORMADO, G.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 224.
 
 El inicio de los procesos de selección interna se establecerá en la Convocatoria que emita el partido político para tal efecto, observando los plazos siguientes:
 
-(NOTA: EL 7 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-LAS PRECAMPAÑAS DE CANDIDATOS AL CARGO DE JEFE DE GOBIERNO NO PODRÁN DURAR MÁS DE 50 DÍAS Y NO PODRÁN EXTENDERSE MÁS ALLÁ DEL DÍA 18 DE MARZO DEL AÑO DE LA ELECCIÓN.
+Las precampañas de candidatos al cargo de Jefe de Gobierno no podrán durar más de 40 días y no podrán extenderse más allá del día 18 de marzo del año de la elección.
 
 Las precampañas a Diputados a la Asamblea Legislativa y a Jefes Delegacionales, no podrán durar más de 30 días y no podrán extenderse más allá del 18 de de (sic) marzo del año de la elección.
 
-Todo acto anticipado de precampaña, será sancionado por el Instituto Electoral previo procedimiento establecido en el Artículo 373 fracción II inciso d) de este Código.
+Todo acto anticipado de precampaña, será sancionado por el Instituto Electoral previo procedimiento establecido en el artículo 373 fracción II inciso d) de este Código.
 
 Así mismo, el Instituto Electoral prevendrá la inequidad en la contienda, mediante inspecciones y las medidas cautelares necesarias, siempre y cuando haya queja del ciudadano con interés jurídico y legítimo en el proceso interno de selección.
 
@@ -3526,9 +3536,7 @@ V. Rebasar el período para actos de precampaña autorizado y rebasar el tope m�
 
 VI. Emplear o utilizar recursos, en dinero o en especie, por sí o a través de interpósita persona, cualquiera que sea su origen, antes de que inicie la precampaña;
 
-(NOTA: EL 7 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2011, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JUNIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-VII. Contratar publicidad en los medios de comunicación social, es decir, en televisión, radio, PRENSA, TELÉFONO E INTERNET para las precampañas, por sí o por interpósita persona;
+VII. (DEROGADA, G.O. 1 DE JULIO DE 2011)
 
 VIII. Fijar su propaganda en contravención a lo establecido en el Código;
 
@@ -4502,9 +4510,7 @@ Los Consejos Distritales podrán acordar un cotejo muestral entre las Listas Nom
 
 ###### Artículo 307.
 
-Las urnas en que los electores depositen las boletas, deberán construirse de un material transparente, plegable o armables y llevarán en el exterior y en lugar visible, impresa o adherida en el mismo color de la boleta que corresponda, la denominación de la elección de que se trate. En caso de que se utilicen instrumentos electrónicos para la recepción del voto, el contenedor de los votos deberá ser resistente, preferentemente transparente, formar parte del respectivo instrumento electrónico, y garantizar la secrecía del voto, conforme a las características determinadas por el Instituto Electoral.
-
-Los Consejos Distritales podrán acordar un cotejo muestral entre las Listas Nominales de Electores entregadas a los Partidos Políticos y las que habrán de ser utilizadas el día de la jornada electoral. El cotejo muestral deberá realizarse antes de su distribución a las casillas.
+(DEROGADO, G.O. 1 DE JULIO DE 2011)
 
 ###### Artículo 308.
 
@@ -5651,3 +5657,17 @@ Artículo Décimo Primero. Se derogan todas aquellas disposiciones que se oponga
 Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciséis días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 1 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley, entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Remítase al Jefe de Gobierno del Distrito Federal para su Promulgación y Publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+Artículo Tercero. Por única vez el plazo para la presentación de las solicitudes de registro de partido político local, señalado en el artículo 215 del Código de Instituciones y Procedimientos Electorales del Distrito Federal, se extenderá al mes de agosto de 2011. El Instituto Electoral del Distrito Federal, calificará las solicitudes de constitución de partidos políticos locales conforme los requisitos establecidos en el artículo 214 de ese Código.
+
+Artículo Cuarto. Para los efectos de los artículos 282 y 283 del Código de Instituciones y Procedimientos Electorales del Distrito Federal, se deberá aplicar para el proceso ordinario 2014-2015. En cuanto al término señalado en la fracción I del artículo 282 del Código, por única ocasión, comenzará a correr a partir de la entrega de la información desagregada incluyendo Manzanas del Censo de Población y Vivienda 2010, que el INEGI proporcione al Instituto Electoral del Distrito Federal.
+
+Artículo Quinto. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
