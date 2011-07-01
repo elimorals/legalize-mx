@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-las-delegaciones-regionales-y-69810"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-27"
-last_updated: "2009-08-27"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69810&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-06-29"
 
 REGLAMENTO ORGANICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 1 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 27 de agosto de 2009.
 
@@ -1094,3 +1096,15 @@ Lo que me permito hacer de su conocimiento, para los efectos legales procedentes
 Atentamente
 
 México, D.F., a 29 de junio de 2009.- El Secretario General y Secretario de la Junta Directiva, José Enrique Ampudia Mello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE JULIO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo 50.1318.2009 de la Junta Directiva por el que se aprueba el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 27 de agosto de 2009.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento.
+
+CUARTO. Lo establecido en los artículos 23 apartado C y 28 estarán vigentes hasta en tanto se autoricen y registren las modificaciones a la estructura orgánica del FOVISSSTE.
