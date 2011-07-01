@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-benito-41371
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-11"
-last_updated: "2004-10-11"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE BENITO JUAREZ, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE BENITO JUAREZ, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE BENITO JUÁREZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 11 de octubre de 2004.
 
@@ -400,9 +400,11 @@ III. Tipo de carga y productos.
 
 ### CAPÍTULO QUINTO. DEL EQUIPO Y REQUISITOS PARA LA CIRCULACIÓN Y EL ESTACIONAMIENTO DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-Todos los vehículos que transiten por la vía pública en el Municipio deberán tener en buen estado los dispositivos siguientes:
+Queda prohibido que los vehículos que circulen en la vía pública porten los accesorios o artículos siguientes:
 
 I. LLANTAS.- Los vehículos de cuatro o más ruedas, deberán traer una llanta de refacción, así como herramienta en buen estado para su cambio;
 
@@ -470,7 +472,9 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o un
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar previstos de un cristal parabrisas transparente, inastillable, y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor. Solo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas. Los vidrios entintados de fábrica si serán permitidos.
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -2020,11 +2024,13 @@ Para la entrega de vehículos detenidos, será indispensable la presentación an
 
 IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y cuando el conductor insulte al personal de tránsito en el ejercicio de sus funciones; en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las Fracciones I y II de este Artículo;
 
-V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
+
+V. Multa El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del área metropolitana de Monterrey, y/o Municipio donde se cometa la infracción, multiplicando por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 TABULADOR DE INFRACCIONES
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 137.
 
@@ -2225,3 +2231,13 @@ SÍNDICO PRIMERO
 C. ERIKA VICT (SIC) LOBATON TAMEZ
 
 SÍNDICO SEGUNDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 29 DE JUNIO DE 2011 POR EL QUE SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE JUÁREZ, NUEVO LEÓN".]
+
+PRIMERO.- Las reformas y adiciones a éste Reglamento, entrarán en vigor el día 05-cinco de Julio del año 2011 -dos mil once.
+
+SEGUNDO.- Se mande publicar en el Periódico Oficial del Estado y en la Gaceta Municipal para los efectos jurídicos conducentes, y se informe a la población sobre el contenido de estas disposiciones.
