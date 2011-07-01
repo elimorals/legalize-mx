@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2010-10-08"
+last_updated: "2011-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. 1 DE JULIO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
@@ -1323,18 +1323,56 @@ P.O. 8 DE OCTUBRE DE 2010.
 
 La presente Ley entrará en vigor el 18 de Junio de 2011, debidamente publicada en el Periódico Oficial del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Los procedimientos iniciados, de oficio o a petición de parte, con fecha anterior a la entrada en vigor de la presente Ley, continuarán su trámite y serán resueltos de conformidad con las disposiciones previstas con anterioridad a la entrada en vigor de la presente Ley, salvo que el presente ordenamiento otorgue mayores beneficios para el Sentenciado.
+Los procedimientos para otorgar el beneficio de libertad anticipada que hayan iniciado o se encuentren pendientes de resolución al momento de entrar en vigor la presente Ley, continuarán su integración conforme a las disposiciones que se encontraban vigentes cuando estos iniciaron. La integración de los procedimientos estará a cargo de la Dirección de Ejecución de Penas y Medidas Judiciales, y su resolución corresponderá al Juez de Primera Instancia Penal o al Juez de Garantía atendiendo la naturaleza del proceso penal que dio lugar a la sentencia.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO TERCERO.
 
-La sustanciación y resolución de los procedimientos señalados en el artículo transitorio anterior, a partir de la entrada en vigor de la presente Ley, será llevada a cabo por la autoridad judicial competente, de conformidad con las disposiciones legales y Constitucionales aplicables.
+Los procedimientos para otorgar los beneficios de libertad anticipada señalados en esta Ley serán aplicables a las personas que los hayan iniciado con posterioridad a la entrada en vigor de esta última, y que fueron o sean sentenciadas conforme a las disposiciones normativas del Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado con fecha 20 de agosto de 1989. La integración de los procedimientos estará a cargo de la Dirección de Ejecución de Penas y Medidas Judiciales, correspondiendo su resolución a los Jueces Penales de Primera Instancia a que se refiere el Artículo 81 de la Ley Orgánica del Poder Judicial del Estado.
+
+Tratándose de los sentenciados conforme a disposiciones normativas anteriores al Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado con fecha 20 de agosto de 1989, se aplicará lo dispuesto en el párrafo anterior.
+
+Los jueces penales de primera instancia ejercerán las facultades y observarán las obligaciones que esta Ley le señala al Juez de Ejecución, en lo que sea compatible con el Código de Procedimientos Penales para el Estado de Baja California publicado con fecha 20 de agosto de 1989 en el Periódico Oficial del Estado o en su caso, conforme a las disposiciones normativas anteriores a este Código.
 
 ###### ARTÍCULO CUARTO.
 
 A partir de la publicación de la presente Ley, se deberá integrar una Comisión Interinstitucional, la cual estará integrada por los funcionarios que al efecto designen el Poder Ejecutivo y el Poder Judicial, a fin de llevar a cabo la planeación, programación, proyección, evaluación y seguimiento de las acciones necesarias para la correcta implementación del presente Decreto.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO QUINTO.
 
 Se abroga la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, Publicada en el Periódico Oficial No. 37, de fecha 4 de Agosto de 1995.
+
+Hasta en tanto se expidan los Reglamentos de esta Ley, continuarán vigentes las normas reglamentarias de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, publicada en el Periódico Oficial No. 37, de fecha 4 de Agosto de 1995, en lo que no se opongan a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO SEXTO.
+
+En los Partidos Judiciales de Tecate y Playas de Rosarito, los Jueces de Primera Instancia Penal tendrán facultades para resolver los beneficios de libertad anticipada, siempre y cuando las solicitudes que dieron origen a estos, no deriven de sentencias que ellos hayan dictado.
+
+En caso contrario, serán competentes para resolver los Jueces de Primera Instancia Penal adscritos al Partido Judicial de Tijuana.
+
+Lo señalado en el párrafo anterior quedará sin efecto en el caso de que se establezcan nuevos Juzgados Penales en los Partidos Judiciales de Tecate y Playas de Rosarito.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+Las solicitudes de los sentenciados contempladas en el supuesto que establece el artículo 111, párrafo segundo de esta Ley, tratándose del Centro de Reinserción Social "El Hongo", se sortearán aleatoriamente entre los Juzgados Penales de los Partidos Judiciales de Tecate y Tijuana.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO OCTAVO.
+
+En caso de conflicto competencial acerca de la autoridad judicial que debe conocer sobre la solicitud de un beneficio de libertad anticipada, será competente el Juez de Ejecución del Partido Judicial del lugar o Centro donde el sentenciado esté compurgando su sentencia.
+
+P.O. 1 DE JULIO DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el periódico Oficial de Estado.
