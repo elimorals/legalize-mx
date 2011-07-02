@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2011-06-15"
+last_updated: "2011-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -53,7 +53,11 @@ III.- El de instrucción, comprende las diligencias practicadas por los tribunal
 
 IV.- El de juicio, durante el cual el Ministerio Público, precisa ante los tribunales su acusación, y el acusado su defensa, y el juez apreciando las pruebas aportadas pronuncia sentencia definitiva; y
 
-V.- El de ejecución, que comprende desde el momento en que causa ejecutoria la sentencia de los tribunales hasta el cumplimiento o extinción de las sanciones aplicadas
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+V.- El de ejecución, que comprende desde el momento en que cause ejecutoria la sentencia de los tribunales, hasta el cumplimiento o extinción de las sanciones o medidas de seguridad aplicadas, cuya vigilancia corresponderá al Juez de Ejecución.
 
 ###### ARTICULO 2o.
 
@@ -133,9 +137,13 @@ Dentro del procedimiento judicial de primera y segunda instancia, hasta antes de
 
 En los delitos a que se refiere el párrafo anterior, el Ministerio Público o el juez, según corresponda, de oficio, harán del conocimiento del inculpado, la víctima y el ofendido, de los beneficios que brindan los procedimientos alternativos de solución de controversias, al presentarse la querella o al emitirse el auto de radicación, en su caso, indicando el domicilio del Centro Estatal de Justicia Alternativa o del Centro Regional que corresponda y notificará a las partes para que si es su voluntad se sometan al mismo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 4o.
 
-En el periodo de ejecución, el Poder Ejecutivo, por conducto del órgano que la ley determina, ejecutará las sentencias de los tribunales hasta la extinción de las sanciones.
+En el periodo de ejecución, el Poder Ejecutivo, en los términos de la ley de la materia, ejecutará por conducto del órgano competente, las sentencias de los tribunales hasta la extinción de las sanciones.
 
 El Ministerio Público cuidará de que se cumplan debidamente las sentencias judiciales.
 
@@ -1895,7 +1903,7 @@ II.- Si conocía con anterioridad a la persona a quien atribuye el hecho, o si l
 
 III.- Si después de la ejecución del hecho la ha visto, en qué lugar, por qué motivo y con qué objeto.
 
-Se le llevará frente a las personas que forman el grupo; se le permitirá mirarlas detenidamente y se le prevendrá que toque con la mano a la de que se trate, manifestando las diferencias o semejanzas que tuviere entre el estado actual y el que tenia en el momento a la que se refirió en su declaración.
+Se le llevará frente a las personas que forman el grupo; se le permitirá mirarlas detenidamente y se le prevendrá que toque con la mano a la de que se trate, manifestando las diferencias o semejanzas que tuviere entre el estado actual y el que tenía en el momento a la que se refirió en su declaración.
 
 ###### ARTICULO 248.
 
@@ -2221,9 +2229,11 @@ I.- Las sentencias pronunciadas en primera instancia cuando se hayan consentido 
 
 II.- Las sentencias de segunda instancia y aquellas contra las cuales no dé la ley recurso alguno.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Al declararse la ejecutoriedad de la sentencia, el juez notificará al encargado del lugar en donde se encuentre interno el sentenciado y a la Dirección General de Prevención y Readaptación Social del Gobierno del Estado, para efecto de que ejerzan sus atribuciones de acuerdo a su competencia.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Al declararse la ejecutoriedad de la sentencia, el Juez ordenará poner al sentenciado a disposición del Juez de Ejecución, remitiéndole las constancias necesarias para el procedimiento de ejecución, así como notificar el auto en que se dicte la ejecutoria al centro penitenciario donde se encuentre interno o haya estado internado el sentenciado, así como a la Dirección General de Prevención y Reinserción Social del Estado, para los efectos legales correspondientes.
 
 ## TITULO DECIMO. RECURSOS
 
@@ -2739,7 +2749,7 @@ Las cuestiones de competencia pueden iniciarse por declinatoria o por inhibitori
 
 Cuando se hubiere optado por uno de estos medios, no se podrá abandonar para recurrir al otro, ni emplear los dos simultánea o sucesivamente, pues se deberá pasar por el resultado del que se hubiere preferido.
 
-El que promueva la cuestión de competencia, por cualquiera de lo medios establecidos, protestará en la promoción que haga no haber empleado el otro medio.
+El que promueva la cuestión de competencia, por cualquiera de los medios establecidos, protestará en la promoción que haga no haber empleado el otro medio.
 
 ###### ARTICULO 362.
 
@@ -3271,6 +3281,10 @@ Cuando los tribunales decreten el decomiso de instrumentos u objetos del delito,
 
 ### CAPITULO III. LIBERTAD CONDICIONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 452.
 
 Las pruebas que se promuevan para acreditar los requisitos que exige el artículo 80 del Código Penal para la concesión de la suspensión condicional, se rendirán durante la instrucción, sin que el ofrecimiento de esas pruebas, por parte del procesado, signifique la aceptación de su responsabilidad de los hechos que se le imputan.
@@ -3287,11 +3301,13 @@ Si el procesado o su defensor no hubieren solicitado en sus conclusiones el otor
 
 Cuando por alguna de las causas que señala el artículo 80 del Código Penal deba hacerse efectiva la sanción impuesta, revocándose el beneficio de la suspensión condicional, el tribunal que concedió ésta procederá, con audiencia del Ministerio Público, del reo y de su defensor, sí fuere posible, a comprobar la existencia de dicha causa y, en su caso, ordenará que se ejecute la sanción.
 
-### CAPITULO IV. RETENCION
+### CAPITULO IV
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 456.
 
-La libertad condicional debe solicitarse ante el órgano del Poder Ejecutivo correspondiente, acompañándose al escrito de petición los documentos y demás pruebas que acrediten el derecho a su otorgamiento.
+La libertad condicional debe solicitarse ante el Juez de Ejecución correspondiente, acompañándose al escrito de petición los documentos y demás pruebas que acrediten el derecho a su otorgamiento.
 
 ###### ARTICULO 457.
 
@@ -3331,31 +3347,43 @@ Cuando el que goce de libertad condicional se encuentre en alguno de los casos q
 
 Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad, con el artículo 99 del Código Penal, debiendo recogerse e inutilizarse el salvoconducto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(DEROGADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ### CAPITULO V. CONMUTACION, REDUCCION DE SANCIONES Y CESACION DE SUS EFECTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 464.
 
-Siempre que llegare a conocimiento del órgano del Ejecutivo encargado de la ejecución de las sentencias, cualquiera noticia que pueda motivar que se aplique la retención, procederá a practicar una investigación que deberá concluirse y resolverse antes de que el reo cumpla la condena impuesta.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
 
-Los jefes de las prisiones están obligados a comunicar a la autoridad a que se refiere el párrafo anterior, cualquier hecho que pueda dar motivo a que se aplique la retención.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 465.
 
-En vista de la investigación practicada, se resolverá si procede o no la retención. En la resolución se harán constar los motivos que la funden y el tiempo que deba durar, en caso de decretarse.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 466.
 
-Cuando el fallo considere inaplicable la retención, no impedirá que ésta se decrete posteriormente por causa superveniente, siempre que el reo no haya sido puesto en libertad por haber cumplido su condena.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 467.
 
-La procedencia o improcedencia de la retención se comunicará al reo, al jefe de la prisión donde cumpla su condena y al tribunal que dictó la sentencia.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 ### CAPITULO VI. REVISION EXTRAORDINARIA PARA EL RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
 ###### ARTICULO 468.
 
-El que hubiere sido condenado por sentencia irrevocable, y se encontrare en el caso del artículo 69 del Código Penal, podrá solicitar del órgano del Poder Ejecutivo correspondiente, la conmutación de la sanción que se le hubiere impuesto, acompañando a su solicitud testimonio de la sentencia y, en su caso, las constancias que acrediten plenamente los motivos que tuviere para solicitar dicho beneficio.
+El que hubiere sido condenado por sentencia irrevocable y se encontrare en el caso del artículo 69 del Código Penal, podrá solicitar al Juez de Ejecución, la conmutación de la sanción que se le hubiere impuesto, acompañando a sus (sic) solicitud testimonio de la sentencia, y en su caso, las constancias que acrediten plenamente los motivos que tuviere para solicitar dicho beneficio.
 
 ###### ARTICULO 469.
 
@@ -3374,6 +3402,10 @@ Dentro de los tres días siguientes, se resolverá lo que corresponda.
 (DEROGADO, P.O. 12 DE JULIO DE 2000)
 
 ### CAPITULO VII. REHABILITACION
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO UNICO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 472.
 
@@ -3409,7 +3441,7 @@ Todas las resoluciones en que se reconozca la inocencia del sentenciado, se publ
 
 ###### ARTICULO 477.
 
-Extinguida la sanción impuesta por cualquiera de las formas que establece la Ley, u obtenida su conmutación, o el reconocimiento de su inocencia en su caso, el sentenciado podrá solicitar del órgano del Ejecutivo que corresponda, la declaratoria de rehabilitación.
+Extinguida la sanción impuesta por cualquiera de las formas que establece la ley, u obtenida su conmutación, o el reconocimiento de su inocencia, en su caso, el sentenciado podrá solicitar al Juez de Ejecución, la declaratoria de rehabilitación.
 
 ###### ARTICULO 478.
 
@@ -3622,3 +3654,7 @@ Artículo Único.- El presente decreto entrará en vigor, al día siguiente de s
 P.O. 15 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JULIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día primero de enero de 2012, a excepción del artículo 39 del Código Penal para el Estado de Nayarit, el cual surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
