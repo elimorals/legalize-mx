@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2011-06-04"
+last_updated: "2011-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -383,11 +383,15 @@ VI.- Vigilancia de la Autoridad; y
 
 VII.- Reclusión domiciliaria.
 
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 27.
 
-Las sanciones se entienden impuestas con las modalidades y en los términos previstos por este Código y por la Ley de ejecución correspondiente.
+Las sanciones se entienden impuestas con las modalidades y en los términos previstos por este Código y por la Ley de Ejecución de Sanciones Penales, Medidas de Seguridad y Prisión Preventiva para el Estado de Nayarit.
 
-La Autoridad Judicial aplicará las sanciones y éstas serán ejecutadas por las autoridades competentes con los propósitos de asegurar la defensa social y obtener la readaptación del sentenciado.
+La autoridad judicial aplicará las sanciones y éstas serán ejecutadas por las autoridades competentes, con la vigilancia de la primera, con los propósitos de asegurar la defensa social y obtener la reinserción social del sentenciado y procurar que no vuelva a delinquir.
 
 ### CAPITULO II. PRISION
 
@@ -469,11 +473,11 @@ La multa impuesta se hará efectiva por las oficinas rentísticas mediante la fa
 
 Cuando varias personas cometen el delito, el Juez fijará la multa para cada uno de ellos.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 39.
 
-Las multas impuestas como sanción son un crédito a favor de la Hacienda Pública Estatal, las cuales se destinarán al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+Los montos por concepto de conmutación de la pena, son créditos a favor de la hacienda estatal y se aplicarán a favor del Fondo Auxiliar para la Administración de Justicia.
 
 ### CAPITULO VI. REPARACION DEL DAÑO
 
@@ -937,33 +941,37 @@ ARTICULO 90 F.- El Juez conservará jurisdicción para conocer de las cuestiones
 
 ### CAPITULO I. EJECUCION DE LAS SANCIONES
 
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 91.
 
-Corresponde al Ejecutivo del Estado la ejecución de las sanciones impuestas por sentencia irrevocable.
+Corresponde a los Poderes Ejecutivo y Judicial, en el ámbito de sus competencias la ejecución, vigilancia y modificación de las sanciones impuestas por sentencia irrevocable.
 
-El Ejecutivo, cuando lo juzgue conveniente, podrá señalar el lugar, establecimiento o colonia penal aún fuera del Estado, pero dentro de la República, en que los reos deberán compurgar las sanciones privativas de libertad que excedan de tres años.
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 92.
 
-En la ejecución de las sanciones y medidas preventivas o de seguridad, dentro de los términos que en la sentencia se señalen y atentas las condiciones materiales existentes, el Ejecutivo aplicará al delincuente los procedimientos que se estimen conducentes para su corrección, educación, instrucción y adaptación social, tomando como base las siguientes:
+La ejecución de las sanciones, medidas preventivas o de seguridad, dentro de los términos que en la sentencia se señalen y atentas las condiciones materiales existentes, se realizará con base en las disposiciones de la Ley de Ejecución de Sanciones Penales, Medidas de Seguridad y Prisión Preventiva para el Estado de Nayarit.
 
-I.- Los establecimientos de reclusión, los especiales donde deban cumplirse las detenciones preventivas y las colonias penales, deberán estar organizadas sobre la base del trabajo como medio de regeneración, procurando la industrialización de ellos y el desarrollo del espíritu de cooperación entre los recluidos.
+I.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-Dentro de los principios generales consignados en el párrafo que antecede, el Ejecutivo podrá establecer, con carácter permanente o transitorio, campamentos de trabajo, industriales o agrícolas, a donde se trasladarán los reos que se destinen a trabajos que exijan esa forma de organización;
+II.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-II.- Aparte de la separación de sexos, se procurará la separación de los infractores que revelen diversas tendencias antisociales, teniendo en cuenta las especies de las infracciones cometidas y las causas y móviles que se hubieren averiguado en los procesos, además de las condiciones personales del infractor;
+III.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-III.- La diversificación del tratamiento durante la sanción para cada clase de delincuentes, procurando hasta donde sea posible, la individualización de aquélla;
+IV.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-IV.- La elección de medios adecuados para combatir los factores biológicos, psíquicos y sociales, que más directamente hubieren concurrido en la realización del delito;
+V.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-V.- La orientación del tratamiento en vista de la mejor readaptación del delincuente y de la posibilidad para éste, de subvenir a sus necesidades;
+VI.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-VI.- Se procurará la práctica de los deportes, de la lectura y de la higiene personal, en las condiciones más apropiadas individualmente para los reclusos;
+VII.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
-VII.- Se procurará que los reclusos puedan contar con una biblioteca y disfruten de conferencias, pláticas y actos culturales en general; y,
-
-VIII.- Los reclusos enfermos estarán sujetos a tratamiento médico y en los casos que lo requieran, a tratamiento especial.
+VIII.- (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
 ### CAPITULO II. TRABAJO DE LOS PRESOS
 
@@ -991,9 +999,13 @@ III.- Un veinte por ciento para formar un fondo de reserva al reo.
 
 ### CAPITULO III. LIBERTAD CONDICIONAL Y RETENCION
 
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 97.
 
-El condenado a sanción privativa de libertad por más de dos años, que hubiere cumplido los dos tercios de su condena observando con regularidad los reglamentos cancelarios (sic), podrá obtener su libertad condicional por resolución del Ejecutivo, previos los requisitos que establece el Código de Procedimientos Penales, bajo las siguientes condiciones:
+El condenado a sanción privativa de libertad por mas de dos años, que hubiere cumplido los dos tercios de su condena observando con regularidad los reglamentos carceleros, podrá obtener su libertad condicional por resolución del Juez de Ejecución, previo cumplimiento de los requisitos que establece la Ley de Ejecución de Sanciones Penales, Medidas de Seguridad y Prisión Preventiva para el Estado de Nayarit, debiéndose observar en su caso, los siguientes requisitos:
 
 I.- Que alguna persona solvente, honrada y de arraigo, se obligue a vigilar la conducta del reo y a informar bimestralmente acerca de ella, presentándolo siempre que para ello fuere requerido y a pagar, si no cumple, en los términos que prevenga el respectivo reglamento, la cantidad que se hubiere fijado al conceder la libertad, la cual será de cinco días de salario como mínimo;
 
@@ -1011,13 +1023,17 @@ La libertad condicional no se concederá a los reincidentes ni a los habituales,
 
 Siempre que el agraciado con la libertad condicional observe mala conducta, o deje de cumplir con alguna de las condiciones expresadas en el artículo 97, se le privará nuevamente de la libertad para que extinga toda la parte de la sanción de que se le había hecho gracia, sea cual fuere el tiempo que lleve de estar disfrutando del beneficio.
 
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTICULO 100.
 
-Las sanciones privativas de libertad, siempre que excedan de un año, se entienden impuestas en calidad de retención hasta por una mitad más de su duración; así se expresará en la sentencia, sin que la omisión de este requisito sea obstáculo para hacerla efectiva.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 101.
 
-La retención se hará efectiva cuando a juicio del Ejecutivo el condenado con esa calidad tenga mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo, incurriendo en faltas graves de disciplina o graves infracciones a los reglamentos del establecimiento penal.
+(DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 ### CAPITULO IV. SUSPENSION CONDICIONAL DE LA CONDENA
 
@@ -1191,9 +1207,13 @@ La prescripción de la sanción consistente en multa, se interrumpirá por cualq
 
 La sanción consistente en privación de derechos civiles o políticos prescribirán en cinco años, si se ha impuesto como sanción principal, pero la prescripción comenzará a correr al día siguiente de haber prescrito la sanción de prisión, cuando ésta se imponga con la privación de derechos. La inhabilitación temporal y la suspensión de cualquier otro derecho, prescribirá en un término igual al que deberían durar.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 124 BIS.- Los antecedentes penales prescribirán en un término de cinco años, contando a partir de que se cumpla la sentencia ejecutoriada, siempre y cuando en el transcurso de ese tiempo el sentenciado no cometa nuevo delito en forma dolosa y se resolverá de plano por el juez o por la Dirección General de Prevención y Readaptación Social de Gobierno del Estado, en consecuencia se girarán los oficios respectivos a las autoridades donde registren dichos antecedentes para que se dejen insubsistentes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
+ARTICULO 124 BIS.- Los antecedentes penales prescribirán en un término de cinco años, contando a partir de que se cumpla la sentencia ejecutoriada, siempre y cuando en el transcurso de ese tiempo el sentenciado no cometa nuevo delito en forma dolosa y se resolverá de plano por el Juez de Ejecución; en consecuencia se girarán los oficios respectivos a las autoridades donde registren dichos antecedentes para que se dejen insubsistentes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 La regla anterior no será aplicable cuando el sentenciado cometa otro delito de la misma especie.
 
@@ -4066,3 +4086,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 4 DE JUNIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JULIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día primero de enero de 2012, a excepción del artículo 39 del Código Penal para el Estado de Nayarit, el cual surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
