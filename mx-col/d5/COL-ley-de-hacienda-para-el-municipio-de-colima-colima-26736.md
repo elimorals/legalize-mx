@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2010-12-18"
+last_updated: "2011-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1185,7 +1185,7 @@ Las participaciones federales son aquellos ingresos que recibe el municipio de c
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO III. DE LOS RECURSOS TRANSFERIDOS
+### CAPITULO II. DE LAS APORTACIONES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -1193,9 +1193,9 @@ Las participaciones federales son aquellos ingresos que recibe el municipio de c
 
 Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a las participaciones que obtiene de la Federación, con base en las estimaciones que se tengan de la recaudación federal participable, señaladas en el Presupuesto de Egresos de la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO II. DE LAS APORTACIONES
+### CAPITULO III. DE LOS RECURSOS TRANSFERIDOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -1203,7 +1203,7 @@ Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicion
 
 Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
@@ -1269,11 +1269,21 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-###### ARTICULO SEPTIMO.
+###### ARTÍCULO SÉPTIMO.
 
-Para el ejercicio fiscal 2009, se amplía el plazo hasta el 31 de mayo del citado año, para los casos a que se refiere el artículo 19 de la presente ley.
+Por concepto de estímulo fiscal, a los contribuyentes que paguen Impuesto Predial en el segundo semestre del ejercicio fiscal 2011, se les condonan los recargos generados por la falta de pago oportuno en los ejercicios 2011 y anteriores, así como las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes y periodos que a continuación se señalan:
+
+PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE
+
+BASE 100% 80%
+
+NOVIEMBRE DICIEMBRE
+
+60%
+
+Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y la Tesorería Municipal celebren convenio para pago en parcialidades.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
 
@@ -1366,3 +1376,7 @@ P.O. 19 DE DICIEMBRE DE 2009.
 P.O. 18 DE DICIEMBRE DE 2010
 
 ÚNICO.- El presente Decreto entrará en vigor el 1.° de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE JULIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
