@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-06-18"
+last_updated: "2011-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2399,7 +2399,7 @@ A los trabajadores de instituciones bancarias o crediticias, y a los empleados d
 
 ### CAPITULO IX. DISPOSICIONES COMUNES A LOS DELITOS CONTRA EL PATRIMONIO
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 213.
 
@@ -2485,7 +2485,7 @@ En estos casos se impondrá una pena de uno a cinco años de prisión y sanción
 
 ###### ARTICULO 222.
 
-En los delitos contra el patrimonio, excepto el robo calificado y extorsión, cuando antes de citación para sentencia se restituya el producto del delito, o se pague su valor real y los daños ocasionados, o el delito no se cometió con violencia, y el inculpado no tiene antecedentes penales por delitos contra el patrimonio, se le impondrá una pena de tres meses a cuatro años de prisión y sanción pecuniaria de veinticinco a cuatrocientos días de salario mínimo.
+En los delitos contra el patrimonio, cuando antes de citación para sentencia se restituya el producto del delito, o se pague el valor real y los daños ocasionados, o el delito no se cometió con violencia, y el inculpado no tiene antecedentes penales por delitos contra el patrimonio, se le impondrá una pena de tres meses a cuatro años de prisión y sanción pecuniaria de veinticinco a cuatrocientos días de salario mínimo; excepto el robo calificado, y el fraude cuando el monto de lo defraudado exceda de un mil quinientas veces el salario mínimo, en cuyo caso se aplicarán las penas a las que alude el artículo 206 de este Código.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
@@ -3772,3 +3772,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 TERCERO. La ejecución de las sentencias que hayan causado estado, antes de la entrada en vigor del presente Decreto, será competencia del juez de la causa.
 
 La ejecución de sentencias que se pronuncien a partir de la entrada en vigor del presente Decreto, será competencia del juez de ejecución.
+
+P.O. 2 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
