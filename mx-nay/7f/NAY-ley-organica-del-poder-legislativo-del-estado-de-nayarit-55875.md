@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2009-11-21"
+last_updated: "2011-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -119,9 +119,13 @@ La Legislatura podrá organizar y participar en reuniones nacionales o regionale
 
 ### CAPÍTULO II. INSTALACIÓN DE LA LEGISLATURA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 11.
 
-En el año de la elección ordinaria para la renovación del Congreso, la Mesa Directiva de la Diputación Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá, lo que deberá comunicar por escrito dentro de los primeros 10 días del mes de agosto al Consejo Estatal Electoral y al Tribunal Electoral del Estado.
+En el año de la elección ordinaria para la renovación del Congreso, la Mesa Directiva de la Diputación Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá, lo que deberá comunicar por escrito dentro de los primeros 10 días del mes de agosto al Consejo Local Electoral y a la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado.
 
 ###### Artículo 12.
 
@@ -131,7 +135,11 @@ La Comisión Instaladora registrará las declaratorias de validez y las constanc
 
 Previo a la sesión de instalación la Comisión Instaladora deberá observar las siguientes formalidades:
 
-I. Recibir los documentos mencionados en el artículo anterior entregados a cada diputado o partido político y demás documentación electoral que corresponda en los términos de la Ley Electoral del Estado y en su caso de las resoluciones del Tribunal Estatal Electoral recaídas a los recursos de que haya conocido dentro del proceso electoral para diputados locales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+I. Recibir los documentos mencionados en el artículo anterior entregados a cada diputado o partido político y demás documentación electoral que corresponda en los términos de la Ley Electoral del Estado y en su caso de las resoluciones de la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado recaídas a los recursos de que haya conocido dentro del proceso electoral para diputados locales;
 
 II. Entregar las credenciales de identificación y acceso a los diputados electos que integran la nueva Legislatura;
 
@@ -223,7 +231,11 @@ IX. Intervenir en las discusiones y votaciones conforme a los procedimientos y f
 
 X. Contar cuando así lo soliciten, con el registro de audio, video, y trascripción estenográfica del trabajo plenario y de comisiones;
 
-XI. Recibir con oportunidad, copias simples de los dictámenes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XI.- Recibir con oportunidad los dictámenes, por medio de documento impreso o actuación electrónica, de conformidad a lo establecido en el Reglamento;
 
 XII. Solicitar licencia para separarse del cargo, así como para reincorporarse a sus funciones;
 
@@ -235,7 +247,17 @@ XV. Asistir con derecho a voz a los trabajos de comisiones, previa acreditación
 
 XVI. Solicitar al presidente de la Comisión a la que pertenezca, se convoque a reunión;
 
-XVII. Los demás que contemple la Constitución General, la Constitución Local, esta Ley y el Reglamento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
+
+XVII. Contar con una cuenta de correo electrónico oficial, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA ], P.O. 2 DE JULIO DE 2011)</small>
+
+XVIII. Los demás que contemple la Constitución General, la Constitución Local, esta Ley y el Reglamento.
 
 ###### Artículo 22.
 
@@ -265,7 +287,17 @@ XI. Asistir y cumplir en los términos que determine la Asamblea u órganos de g
 
 XII. Votar cada proyecto en el sentido que estime conveniente; y
 
-XIII. Las demás que contemplen la Constitución General, la Constitución Local, esta Ley y el Reglamento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
+
+XIII. Para los efectos de imponerse de su contenido y acusar recibo electrónico de las iniciativas y comunicaciones turnadas para su conocimiento, revisar su cuenta de correo electrónico oficial, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA ], P.O. 2 DE JULIO DE 2011)</small>
+
+XIV. Las demás que contemplen la Constitución General, la Constitución Local, esta Ley y el Reglamento.
 
 ###### Artículo 23.
 
@@ -511,9 +543,17 @@ IV. Registrar las solicitudes de intervención de los diputados, cuando el presi
 
 V. Recoger y computar las votaciones expresando los resultados que se obtengan;
 
-VI. Cuidar que se entreguen con toda oportunidad a los diputados copias fieles de los dictámenes de las comisiones y de todos los demás documentos que se requieran para la discusión de un proyecto; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VII. Formular y entregar a cada diputado el orden del día de la sesión, comunicando los asuntos en cartera que deban tratarse subsecuentemente.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VI. Cuidar que se entreguen con toda oportunidad a los diputados los dictámenes de las comisiones, al igual que de toda la información necesaria para la discusión de un proyecto por medio de documento impreso o actuación electrónica, de conformidad a lo establecido en el Reglamento, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VII. Formular y entregar a cada diputado el orden del día de la sesión, comunicando los asuntos en cartera que deban tratarse subsecuentemente por medio de documento impreso o actuación electrónica, de conformidad a lo establecido por el Reglamento.
 
 ### CAPÍTULO IV. DIPUTACIÓN PERMANENTE
 
@@ -727,7 +767,11 @@ III. Cuando algún diputado sea miembro simultáneamente de más de una comisió
 
 Las reuniones de comisiones ordinarias en lo particular o en comisiones unidas se realizarán por acuerdo de su presidente, por el presidente de la Mesa Directiva; o por el presidente de la Comisión de Gobierno.
 
-El orden del día que se genere con motivo de un citatorio a reunión de Comisiones ordinarias o especiales, deberá ser publicado en la página de Internet del Congreso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+El orden del día que se genere con motivo de un citatorio a reunión de Comisiones ordinarias o especiales, deberá ser publicado en la página de Internet, de conformidad a lo establecido en el Reglamento.
 
 ## TÍTULO TERCERO. ÓRGANOS TÉCNICOS DEL CONGRESO
 
@@ -773,21 +817,55 @@ V. Coordinación de Comunicación Social.
 
 El proceso legislativo, la investigación y elaboración de los estudios legislativos así como la asistencia y seguimiento de los asuntos jurídicos del Congreso se llevarán a cabo a través de la Secretaría General y cuyo titular se denominará Secretario General.
 
-Para el cumplimiento de dichas funciones, la Secretaría tendrá la estructura siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
+Para el cumplimiento de dichas funciones, la Secretaría General tendrá la estructura siguiente:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
 I. Dirección de Proceso Legislativo;
 
-II. Dirección de Asuntos Jurídicos;
+a) Coordinación de Apoyo Parlamentario;
 
-III. Dirección de Investigación Legislativa y Biblioteca;
+b) Coordinación de la Crónica Parlamentaria, y
 
-IV. Coordinación de la Crónica Parlamentaria;
+c) Departamento de Control Documental y Estadística Parlamentaria.
 
-V. Coordinación de Informática Legislativa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VI. Coordinación de Apoyo Parlamentario; y,
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-VII. Departamento de Archivo.
+II. Dirección de Asuntos Jurídicos, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+III. Dirección de Investigación Legislativa.
+
+a) Coordinación de Informática Legislativa, y
+
+b) Departamento de Biblioteca y Archivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+IV. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+V. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+VI. (DEROGADA, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+VII. (DEROGADA, P.O. 2 DE JULIO DE 2011)
 
 El reglamento establecerá sus respectivas atribuciones, así como los requisitos y procedimiento para la designación de sus titulares.
 
@@ -797,11 +875,19 @@ Para ser Secretario General del Congreso se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos mayor de 30 años;
 
-II. Poseer título profesional de licenciado en derecho debidamente registrado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+II. Poseer al día de la designación, con antigüedad mínima de tres años, título profesional de Licenciado en Derecho o Abogado, expedido por autoridad o institución legalmente facultada para ello y debidamente registrado ante la autoridad competente;
 
 III. Gozar de buena reputación y reconocida honorabilidad;
 
-IV. No haber desempeñado algún cargo de dirección de partido político ni de elección popular, durante los últimos tres años previos a su designación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+IV. No haber desempeñado durante el último año, algún cargo de dirección de partido político, ni de elección popular previo a su designación, y
 
 V. Acreditar ante la Comisión de Gobierno los conocimientos y experiencia necesarios.
 
@@ -825,13 +911,27 @@ V. Departamento de Recursos Materiales y Servicios Generales.
 
 La administración y ejercicio de los recursos financieros estará a cargo de la Tesorería, misma que dará cuenta comprobada de su aplicación a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en los términos de la presente ley.
 
-El avance de gestión financiera y la cuenta pública del Congreso se presentarán, por conducto del Oficial Mayor, a la Comisión de Hacienda, Cuenta Pública y Presupuesto, a más tardar dentro de los tres días previos al vencimiento para la presentación según corresponda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+El avance de gestión financiera y la cuenta pública del Congreso, previa revisión de la Contraloría Interna, se presentarán por conducto de la Oficialía Mayor, a la Comisión de Hacienda, Cuenta Pública y Presupuesto para su remisión al Órgano de Fiscalización Superior, a más tardar en la fecha de vencimiento que disponga la ley de la materia.
 
 #### SECCIÓN CUARTA. CONTRALORÍA INTERNA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 82.
 
-La Contraloría Interna es la dependencia competente para recibir las quejas, realizar investigaciones, auditorias y la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, misma que contará con la estructura siguiente:
+La Contraloría Interna es la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de los servidores públicos de las demás dependencias del Congreso; al efecto podrá recibir las quejas, realizar investigaciones, auditorias y la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, de conformidad a la presente Ley, el Reglamento, la Ley de Responsabilidades de Servidores Públicos del Estado de Nayarit y demás ordenamientos jurídicos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
+La Contraloría Interna para el cumplimiento de sus funciones contará con la estructura siguiente:
 
 I.- Departamento de auditoría financiera; y
 
@@ -845,11 +945,19 @@ Para ser titular de la Oficialía Mayor o de la Contraloría Interna, se deberá
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos, y mayor de 30 años;
 
-II. Contar con título profesional dentro del área económica administrativa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+II. Poseer al día de la designación, con antigüedad mínima de tres años, título profesional del área económica-administrativa, expedido por autoridad o institución legalmente facultada para ello y debidamente registrado ante autoridad competente;
 
 III. Gozar de buena reputación y reconocida honorabilidad;
 
-IV. No haber desempeñado algún cargo de dirección de partido político, ni de elección popular, durante los últimos tres años previos a su designación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+IV. No haber desempeñado durante el último año, algún cargo de dirección de partido político, ni de elección popular previo a su designación, y
 
 V. Acreditar ante la Comisión de Gobierno el perfil, conocimiento y experiencia necesaria de al menos tres años en lo relativo al cargo.
 
@@ -887,17 +995,33 @@ IX. Para su registro oficial, corresponde exclusivamente al Congreso por conduct
 
 El procedimiento legislativo lo constituye la suma de actos concatenados de utilidad instrumental, mediante los cuales se integra la voluntad jurídica del órgano colegiado para dictar las resoluciones que por disposición constitucional competen al Congreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Son medios de difusión oficial de las actividades del Congreso, la Gaceta Parlamentaria y la página de internet. El reglamento establecerá los criterios para su regulación específica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 86.
 
-La iniciativa y formación de leyes, o decretos a que se refiere la Constitución local, así como los acuerdos que son de la competencia exclusiva de los diputados, deberán presentarse invariablemente por conducto de la Secretaría General, quien tendrá bajo su resguardo y custodia el documento original, turnando un duplicado del mismo por acuerdo del presidente de la Mesa Directiva a las comisiones competentes.
+La iniciativa y formación de leyes, o decretos a que se refiere la Constitución local, así como los acuerdos que son de la competencia exclusiva de los diputados, deberán presentarse invariablemente por conducto de la Secretaría General, quien tendrá bajo su resguardo y custodia el documento original y el documento electrónico.
+
+Toda iniciativa por acuerdo del presidente de la Mesa Directiva se turnará por conducto de la Secretaría General a las comisiones competentes en documento impreso o vía actuación electrónica.
 
 ###### Artículo 87.
 
 La Secretaría General por conducto de la Dirección de Proceso Legislativo llevará el control y registro de las iniciativas presentadas al Congreso, cuidando que contengan los requisitos legales para su desahogo legislativo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 88.
 
-Toda iniciativa presentada será publicada en la Gaceta Parlamentaria, en la página electrónica del Congreso y deberá asimismo remitírseles vía sus respectivos correos electrónicos a los integrantes de la Legislatura.
+Toda iniciativa presentada será publicada en la Gaceta Parlamentaria, página de internet y deberá remitirse vía actuación electrónica a los integrantes de la Legislatura.
 
 ###### Artículo 89.
 
@@ -1174,3 +1298,9 @@ P.O. 21 DE NOVIEMBRE DE 2009.
 DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
 
 Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor en treinta días posteriores a la fecha de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá publicarse edición especial de la Gaceta Parlamentaria con el contenido íntegro de la Ley Orgánica del Poder Legislativo y Reglamento para el Gobierno Interior del Congreso.
