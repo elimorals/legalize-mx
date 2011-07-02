@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-11-13"
+last_updated: "2011-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -372,6 +372,10 @@ XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estad
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
 XLI. Promover la creación y dirigir el funcionamiento de un ente gubernamental en el Estado encargado de promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablen en el territorio estatal, así como de la difusión del conocimiento y disfrute de la riqueza cultural de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, a efecto de facilitarles el acceso y permanencia a la educación en general y a la formación para la vida, el trabajo y la productividad.
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XLII. Establecer los mecanismos o instrumentos debidamente reglamentados, que permitan garantizar la atención médica al alumnado menor de edad, así como la cobertura de todos aquellos daños causados a las instalaciones, equipos y material de los centros escolares de educación básica.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2538,3 +2542,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá realizar las previsiones presupuestales correspondientes a fin de que en el proyecto de Presupuesto de Egresos de Gobierno del Estado, para el ejercicio fiscal 2011, se dé suficiencia necesaria al Sistema de Becas, Créditos y Estímulos Educativos.
+
+P.O. 2 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
