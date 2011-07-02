@@ -4,7 +4,7 @@ identifier: "COL-ley-de-mejora-regulatoria-para-el-estado-de-colima-44450"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-02"
-last_updated: "2005-04-02"
+last_updated: "2011-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 2 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el 2 de abril de 2005
 
@@ -464,3 +466,21 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en la Residencia del Poder Ejecutivo, Palacio de Gobierno del Estado de Colima, a los 30 días del mes de marzo del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO, C. ARNOLDO OCHOA GONZÁLEZ Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. CUAUHTÉMOC GÓMEZ CABEZUD. Rúbrica. EL SECRETARIO DE FOMENTO ECONÓMICO, LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+Artículo Segundo.- Se abroga la Ley de Mejora Regulatoria para el Estado de Colima, expedida mediante Decreto número 190 y publicada en el Periódico Oficial "El Estado de Colima" número 25, de fecha 02 de abril del 2005.
+
+Artículo Tercero.- El Reglamento de la presente Ley deberá expedirse en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
+
+Artículo Cuarto.- El Consejo Estatal de Mejora Regulatoria y el Comité de Calidad de la Mejora Regulatoria Interna deberán estar instalados dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Quinto.- El Programa Estatal de Mejora Regulatoria para la actual administración pública estatal, deberá elaborarse y publicarse en el Periódico Oficial "El Estado de Colima", en un lapso máximo de seis meses, contados a partir de la entrada en vigor de la presente Ley, su vigencia será al 31 de octubre del 2015 y no será obligatoria la actualización trianual que señala el artículo 30 de la presente Ley.
+
+Artículo Sexto.- El Programa Operativo Municipal de Mejora Regulatoria para cada una de las actuales administraciones públicas municipales deberán (sic) elaborarse y publicarse en el Periódico Oficial "El Estado de Colima", en un lapso máximo de seis meses, contados a partir de la entrada en vigor de la presente Ley y su vigencia será al 14 de octubre del 2012.
+
+Artículo Séptimo.- El Registro de Trámites y Servicios, y el Registro Estatal de Personas Acreditadas, deberán estar operando en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
