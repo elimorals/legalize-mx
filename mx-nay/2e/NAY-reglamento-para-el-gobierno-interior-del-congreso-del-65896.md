@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2010-06-05"
+last_updated: "2011-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -47,21 +47,101 @@ Los casos no previstos en el presente Reglamento, serán resueltos por la mayor�
 
 Para la adecuada interpretación de este reglamento se entenderá por:
 
-I. Constitución General: Constitución Política de los Estados Unidos Mexicanos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-II. Constitución Local: Constitución Política del Estado Libre y Soberano de Nayarit;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-III. Ley: La Ley Orgánica del Poder Legislativo del Estado de Nayarit;
+I. Actuación electrónica: Es todo acto, notificación, citatorio, turno, solicitud o comunicación que se efectúa al interior del Congreso, mediante el uso de internet;
 
-IV. Reglamento: Reglamento para el Gobierno Interior del Congreso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-V. Congreso, Asamblea, Legislatura o Cámara: Poder Legislativo del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-VI. Comisión de Gobierno: Comisión de Gobierno Legislativo;
+II. Acuse de Recibo Electrónico: Los datos electrónicos que sirven de constancia para conocer la fecha y hora de recepción, descripción de la actuación así como los datos del destinatario y del emisor de una actuación electrónica;
 
-VII. Presidente del Congreso o de la Legislatura: Presidente de la Mesa Directiva del Pleno o de la Diputación Permanente, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-VIII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno Legislativo.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+III. Comisión de Gobierno: Comisión de Gobierno Legislativo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+IV. Congreso, Asamblea, Legislatura o Cámara: Poder Legislativo del Estado de Nayarit;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+V. Constitución General: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VI. Constitución Local: Constitución Política del Estado Libre y Soberano de Nayarit;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VII. Documento Electrónico: Es la información virtual generada, enviada, recibida, archivada o comunicada a través de medios electrónicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VIII. Documento Impreso: Es la información generada, enviada, recibida, archivada o comunicada a través del papel impreso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+IX. Formato Electrónico: Toda información que reciba la Secretaría General a través de correo electrónico o cualquier dispositivo electrónico de almacenamiento compatible con el equipo de cómputo que se utiliza en el Congreso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+X. Ley: La Ley Orgánica del Poder Legislativo del Estado de Nayarit;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XI. Página de Internet: Página Oficial de Internet del Congreso del Estado de Nayarit;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XII. Presidente de la Comisión de Gobierno: Presidente de la Comisión de Gobierno Legislativo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XIII. Presidente del Congreso o de la Legislatura: Presidente de la Mesa Directiva del Pleno o de la Diputación Permanente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XIV. Reglamento: Reglamento para el Gobierno Interior del Congreso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XV. Retardo: Es la llegada de algún Diputado a la Sesión, después del registro de asistencia y hasta antes de dar por clausurada la misma, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XVI. Sistema de Información: Todo programa utilizado para generar, enviar, recibir, archivar o procesar un mensaje de datos interno.
 
 ### Capítulo II. Instalación de la Legislatura
 
@@ -203,9 +283,13 @@ III. Cuando exista motivo o circunstancia de gravedad calificada por la Asamblea
 
 Las faltas injustificadas, conforme lo señala este Reglamento, darán lugar a la suspensión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 17.
 
-La solicitud de justificación deberá atender las siguientes formalidades:
+La solicitud de justificación por inasistencia o retardo deberá atender las siguientes formalidades:
 
 a) El oficio deberá ser suscrito por el diputado interesado o por el Coordinador del Grupo Parlamentario, debiéndose presentar ante la Presidencia, acompañando según corresponda, de la prescripción médica o del documento que avale estar atendiendo una comisión oficial,
 
@@ -235,7 +319,11 @@ De conformidad con la ley, las causales para la aplicación de las medidas disci
 
 I. Apercibimiento por escrito.- Procederá como una medida preventiva cuando se incurra en las siguientes causas:
 
-a) Incumplimiento de las formalidades para solicitar justificante por inasistencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+a) Incumplimiento de las formalidades para solicitar justificante por inasistencia o por retardo;
 
 b) Incurrir en conductas inapropiadas que interrumpan el desahogo de una reunión de trabajo; y
 
@@ -465,7 +553,11 @@ X. Cuidar que cada sesión se desarrolle hasta agotar el despacho de los asuntos
 
 XI. Conforme a la Constitución Local, disponer que, por medio de la Secretaría, se notifique a quienes tienen derecho de iniciativa, sobre la fecha en que se someterán a discusión los asuntos que sean de su interés;
 
-XII. Conceder justificantes a los diputados para que no asistan a las sesiones del Congreso en los términos de la Ley y este Reglamento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+XII. Conceder justificantes por ausencia y retardos a los diputados en las sesiones del Congreso en los términos de la Ley y este Reglamento;
 
 XIII. Designar la integración de las comisiones de protocolo;
 
@@ -489,9 +581,19 @@ XXII. Ordenar el auxilio de la fuerza pública en los casos que resulten necesar
 
 XXIII. Previa solicitud por escrito donde se establezcan los motivos, autorizar a los legisladores para que se retiren en definitiva antes de clausurar la sesión;
 
-XXIV. Para corroborar la permanencia de los legisladores, e identificar a quienes abandonan la sesión sin la autorización correspondiente, podrá en el transcurso de la misma o antes de clausurar los trabajos, ordenar a la secretaría registre de nueva cuenta la asistencia; y
+XXIV. Para corroborar la permanencia de los legisladores, e identificar a quienes abandonan la sesión sin la autorización correspondiente, podrá en el transcurso de la misma o antes de clausurar los trabajos, ordenar a la secretaría registre de nueva cuenta la asistencia; y (sic)
 
-XXV. Las demás que establezca la ley, este reglamento y los acuerdos aprobados por la Legislatura.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
+
+XXV. Declarar abierto y cerrado el registro de asistencia y de votación electrónica, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JULIO DE 2011)</small>
+
+XXVI. Las demás que establezca la ley, este reglamento y los acuerdos aprobados por la Legislatura.
 
 #### Sección Segunda. Vicepresidencia de la Mesa Directiva
 
@@ -527,7 +629,11 @@ IV. Firmar las leyes, decretos, acuerdos y demás disposiciones y documentos que
 
 V. Dar lectura a los documentos contenidos en el orden del día, incluyendo los dictámenes que formulen las comisiones legislativas;
 
-VI. Cuidar que las iniciativas y los dictámenes que vayan a ser objeto de trámite ante la Asamblea, se impriman y entreguen a los diputados en la sesión correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VI. Cuidar que las iniciativas y los dictámenes que vayan a ser objeto de trámite ante la Asamblea, se entreguen a los diputados en la sesión correspondiente en documento impreso o vía actuación electrónica;
 
 VII. Recoger, computar las votaciones y dar a conocer sus resultados cuando así lo disponga el presidente de la Mesa Directiva;
 
@@ -631,11 +737,13 @@ Cuando algún miembro de las comisiones tuviere interés personal justificado, y
 
 #### Sección Segunda. Competencia de las Comisiones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 54.
 
-La competencia de las comisiones ordinarias y especiales se derivará de su denominación, de las que les otorgue la ley y este reglamento, o en su caso, de los asuntos que motivaren su integración.
+La competencia de las comisiones ordinarias y especiales se derivará de su denominación, de las que les otorguen la ley y este reglamento, así como las que les sean delegadas por la Asamblea Legislativa, o en su caso, de los asuntos que motivaren su integración.
 
 Las comisiones dictaminarán conjuntamente cuando la naturaleza del asunto así lo exija y corresponda a su competencia observando las formalidades contenidas por la Ley y este Reglamento.
 
@@ -653,61 +761,115 @@ I. Gobernación y Puntos Constitucionales.
 
 a) Enmiendas a las Constituciones General y Local;
 
-b) (DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-c) Convenios entre el Estado y la federación, o entre aquél y otras entidades federativas o municipios;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+b) Convenios entre el Estado y la federación, o entre aquél y otras entidades federativas o municipios;
 
-d) Expropiaciones, defensoría de oficio, ministerio público, notariado y registro civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-e) Cuestiones electorales, y las relativas al Instituto Estatal Electoral; integración del Consejo y Tribunal Electoral del Estado;
+c) Expropiaciones, defensoría de oficio, ministerio público, notariado y registro civil;
 
-f) Solicitudes de rehabilitación de la ciudadanía;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-g) Convenios de límites relativos al territorio del estado y al de los municipios;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+d) Cuestiones electorales, y las relativas al Instituto Estatal Electoral e integración del Consejo Local Electoral;
 
-h) Facultar al ejecutivo en términos de lo que dispone la Constitución local, para representar al estado y los que le otorguen facultades extraordinarias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-i) Cambio de residencia de los poderes, cabeceras municipales y traslado provisional del recinto oficial del Congreso;
+e) Solicitudes de rehabilitación de la ciudadanía;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-j) Comparecencia de servidores públicos ante el Congreso;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-k) Lo relativo a la designación de Gobernador interino, provisional o sustituto;
+f) Convenios de límites relativos al territorio del estado y al de los municipios;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-l) Renuncias o licencias del Gobernador, diputados, integrantes de Ayuntamientos, magistrados de los órganos jurisdiccionales, y de todos aquellos servidores públicos en que por mandato de ley deba intervenir el Congreso;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-m) Autorizaciones al Gobernador para salir del territorio del Estado en los casos que establece la ley;
+g) Facultar al ejecutivo en términos de lo que dispone la Constitución local, para representar al estado y los que le otorguen facultades extraordinarias;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-n) Ratificación del Procurador General de Justicia;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+h) Cambio en la residencia de los poderes, cabeceras municipales y traslado provisional del recinto oficial del Congreso;
 
-o) Designación de los magistrados de los tribunales locales en los casos en que proceda la intervención del Congreso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-p) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
+i) Comparecencia de servidores públicos ante el Congreso;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-q) Lo relativo a fa prevención de ilícitos, cárceles o sistemas penitenciarios, combate a la drogadicción o a la delincuencia;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-r) La legislación orgánica de los poderes constitucionales del Estado y de los municipios, y
+j) Lo relativo a la designación de Gobernador interino, provisional o sustituto;
 
-s) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+k) Renuncias o licencias del Gobernador, diputados, integrantes de Ayuntamientos, magistrados de los órganos jurisdiccionales, y de todos aquellos servidores públicos en que por mandato de ley deba intervenir el Congreso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+l) Autorizaciones al Gobernador para salir del territorio del Estado en los casos que establece la ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+m) Ratificación del Procurador General de Justicia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+n) Iniciativas sobre la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+ñ) Designación de los magistrados de los tribunales locales en los casos en que proceda la intervención del Congreso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+o) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+p) Lo relativo a la prevención de ilícitos, cárceles o sistemas penitenciarios, combate a la drogadicción o a la delincuencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+q) La legislación orgánica de los poderes constitucionales del Estado y de los municipios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+r) (DEROGADO, P.O. 2 DE JULIO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+s) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 II. Investigación Legislativa.
 
@@ -721,7 +883,9 @@ c) Supervisar las actividades a cargo de la Dirección de Investigación Legisla
 
 d) Los que promuevan el incremento del acervo bibliográfico del Congreso, y
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 III. Justicia y Derechos Humanos.
 
@@ -761,7 +925,9 @@ j) Los de índole judicial y administrativa en los cuales el Congreso fuere part
 
 k) Los que tengan por objeto la determinación de sanciones a los diputados, en los términos de la Ley y el Reglamento, y
 
-l) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+l) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 IV. Asuntos Indígenas.
 
@@ -775,7 +941,9 @@ b) Los relacionados con la aplicación y respeto a los derechos y cultura indíg
 
 c) En general, los asuntos de competencia de la administración estatal y municipal en materia indígena, siempre que deban desahogarse ante el Congreso, y
 
-d) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 V. Hacienda, Cuenta Pública y Presupuesto.
 
@@ -815,7 +983,9 @@ k) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de 
 
 l) Las que le otorgue la legislación hacendaria y fiscal, estatal y municipal; y
 
-m) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+m) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -843,7 +1013,9 @@ j) Conocer concurrentemente de las iniciativas que tengan por objeto otorgar pre
 
 k) La organización del concurso estatal de oratoria "Juan Escutia"; y
 
-l) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+l) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 VII. Trabajo y Previsión Social.
 
@@ -853,7 +1025,9 @@ b) Los que tengan por finalidad crear y fomentar empleos;
 
 c) Los que se vinculen con las relaciones obrero patronales, entre entidades públicas o privadas y sus trabajadores, en el ámbito de la competencia del Congreso, y
 
-d) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 VIII. Salud y Seguridad Social.
 
@@ -865,7 +1039,9 @@ c) Aquellos que se relacionen con el desarrollo y promoción del derecho a la sa
 
 d) Los que en materia de salud sean de competencia local; y
 
-e) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 IX. Administración y Políticas Públicas.
 
@@ -879,7 +1055,9 @@ c) Los relativos al servicio profesional de carrera de los servidores públicos;
 
 d) Conocer concurrentemente los asuntos que tengan por finalidad autorizar al titular del Poder Ejecutivo para gravar, enajenar, ceder o avalar bienes patrimoniales, muebles o inmuebles, o a constituir derechos reales sobre los mismos, y
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 X. Desarrollo Económico y Social.
 
@@ -893,7 +1071,9 @@ c) Los relacionados con la creación de organismos destinados al fomento y desar
 
 d) Los relativos a estudios que tengan por finalidad crear o fomentar empresas que agrupen a campesinos o sectores populares, organizaciones privadas o no gubernamentales en áreas urbanas o rurales, y;
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XI. Asuntos Agropecuarios, Forestales y Mineros.
 
@@ -907,7 +1087,9 @@ d) Los relacionados a la regulación o creación de organismos para el fomento y
 
 e) Los que tengan por objeto fomentar y organizar la explotación forestal y minera del Estado, de conformidad a lo dispuesto por las leyes, y
 
-f) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+f) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XII. Industria, Comercio y Turismo.
 
@@ -915,7 +1097,9 @@ a) Los que se refieran a la expedición de leyes locales de fomento a la industr
 
 b) Los relacionados con el desarrollo turístico del Estado y los municipios, y
 
-c) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XIII. Obras, Comunicaciones y Transportes.
 
@@ -927,7 +1111,9 @@ b) Los relacionados con la regulación o celebración de convenios o concesiones
 
 c) Concurrentemente los asuntos relativos a la preservación de los monumentos y obras del patrimonio cultural, que deba ser declarado con las modalidades que al efecto establezcan las leyes, y
 
-d) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XIV. Asuntos Municipales.
 
@@ -937,7 +1123,9 @@ a) Los asuntos legislativos que se relacionen con el municipio en todos los ramo
 
 b) Conocer concurrentemente los asuntos relativos a la creación, fusión o desaparición de demarcaciones territoriales y las propuestas relativas para determinar nuevas categorías políticas poblacionales en los términos de la ley; y
 
-c) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XV. Seguridad Pública y Sistemas de Protección Civil.
 
@@ -947,7 +1135,9 @@ b) Los vinculados a los cuerpos de seguridad pública en el ámbito local y su c
 
 c) Los relacionados con la organización institucional para la prevención y participación social en los riesgos, desastres naturales o situaciones de emergencia que se produzcan; y
 
-d) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XVI. Desarrollo Urbano y Vivienda.
 
@@ -961,7 +1151,9 @@ c) Los que se refieran al reavalúo de las fincas urbanas o rústicas;
 
 d) Conocer concurrentemente lo relacionado a las tablas de valores unitarios de suelo y construcciones, y
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XVII. Ecología y Protección al Medio Ambiente.
 
@@ -971,7 +1163,9 @@ b) Los que tengan por objeto prevenir el deterioro ambiental y fomentar la prese
 
 c) Los relativos a los planes y programas de desarrollo urbano; y
 
-d) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XVIII. Niñez, Juventud y Deporte.
 
@@ -983,7 +1177,9 @@ b) Los relacionados a políticas legislativas sobre fomento al empleo y activida
 
 c) Los relativos a combatir la drogadicción y delincuencia juvenil, y
 
-d) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XIX. Equidad, Género y Familia.
 
@@ -993,7 +1189,9 @@ b) Los relativos al estudio de la legislación, para establecer y promover la eq
 
 c) En general, los asuntos de competencia de las instituciones públicas estatales y municipales vinculadas con la equidad de género, siempre que tales asuntos deban desahogarse ante el Congreso, y
 
-d) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+d) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XX. Asuntos Migratorios, Gestoría Social y Grupos Vulnerables.
 
@@ -1005,7 +1203,9 @@ c) Los asuntos relacionados con políticas públicas relacionadas con la protecc
 
 d) En materia de legislación, los temas relativos a la protección de los grupos vulnerables; y
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola.
 
@@ -1017,7 +1217,9 @@ a) Los relacionados con el fomento a la organización productiva de la pesca, y 
 
 b) Los relacionados con la creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso y fomento de las actividades productivas pesqueras y desarrollo acuícola, y
 
-c) Las demás que determine la Asamblea legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+c) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 XXII. Transparencia e Información Gubernamental.
 
@@ -1037,7 +1239,9 @@ e) Conocer de los asuntos que por su propia denominación y naturaleza del tema,
 
 f) Los trámites relativos a la obtención de información de las oficinas públicas cuando los diputados la hubiesen solicitado y no les haya sido proporcionada para los efectos previstos por la Constitución local; y
 
-g) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+g) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
@@ -1063,7 +1267,9 @@ i) El Estudio, análisis y dictamen de las iniciativas de ley, decretos y acuerd
 
 j) Las demás que se deriven de su propia denominación en correspondencia con las respectivas áreas de la administración pública; y
 
-k) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+k) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 ###### Artículo 56.
 
@@ -1083,7 +1289,9 @@ c) Los relativos a las propuestas para emitir la declaración de Benemérito del
 
 d) Llevar a cabo las funciones de ceremonial y protocolo que determine el Presidente del Congreso, y las que prevean las normas internas del Congreso; y
 
-e) Las demás que determine la Asamblea Legislativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+e) (DEROGADO, P.O. 2 DE JULIO DE 2011)
 
 II. Gran Jurado.
 
@@ -1247,7 +1455,11 @@ Sólo por causa justificada y mediante acuerdo de las dos terceras partes de los
 
 Durante el receso, las comisiones continuarán el estudio de los asuntos pendientes, hasta producir el correspondiente dictamen. También estudiarán y dictaminarán las iniciativas que les sean turnadas por la Diputación Permanente, cuando ésta se halle en funciones.
 
-Una vez que estén firmados los dictámenes por la mayoría de los miembros de las comisiones encargadas de un asunto, se imprimirán junto con los votos particulares si los hubiere y, conforme a los trámites establecidos en este reglamento, se entregarán en expediente integrado a los diputados para su conocimiento y estudio, en la fecha señalada conforme el orden del día de las sesiones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Una vez que estén firmados los dictámenes por la mayoría de los miembros de las comisiones encargadas de un asunto, junto con los votos particulares si los hubiere conforme a los trámites establecidos en este reglamento, se entregarán a los diputados en documento impreso o vía actuación electrónica para su conocimiento y estudio, en la fecha señalada conforme al orden del día de la sesión.
 
 Los dictámenes que las comisiones produzcan, sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente Legislatura con el carácter de proyecto.
 
@@ -1313,11 +1525,13 @@ Se exceptuarán los casos en que, previamente y con oportunidad, el presidente d
 
 #### Sección Segunda. Orden del Día de las Sesiones
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 78.
 
-El orden del día es el documento que rige los trabajos de la Asamblea, y solo podrá modificarse en el transcurso de la sesión con el voto afirmativo de la mayoría absoluta de los diputados que integran el Congreso.
+El orden del día es el documento que rige los trabajos de la Asamblea, el cual deberá publicarse en la página de internet y solo podrá modificarse en el transcurso de la sesión con el voto afirmativo de la mayoría absoluta de los diputados que integran el Congreso.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1347,7 +1561,11 @@ V. Proposición o presentación de iniciativas, y
 
 VI. Posiciones u opiniones políticas.
 
-Estos asuntos se incluirán en el orden del día previa solicitud por escrito, a más tardar un día antes de cada sesión. El orador contará con un tiempo de hasta 10 minutos para su exposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Estos asuntos se incluirán en el orden del día previa solicitud por escrito, a más tardar las 11:00 horas del día anterior de cada sesión. El orador contará con un tiempo de hasta 10 minutos para su exposición.
 
 Tratándose de iniciativas o proposiciones de Acuerdo con petición de urgente y obvia resolución, la solicitud que se formule deberá acompañar información fehaciente que justifique su contenido, y objeto. La Presidencia de la mesa directiva y la Comisión de Gobierno podrán resolver la improcedencia en los siguientes supuestos:
 
@@ -1501,15 +1719,39 @@ Las iniciativas presentadas se darán a conocer ante la Asamblea por conducto de
 
 La Mesa Directiva a través de la Secretaría General, contará con 10 días hábiles a partir de la fecha en que se informe a la Asamblea o Diputación Permanente para turnar la iniciativa a las comisiones competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Cuando el Gobernador haga uso de su derecho de presentar iniciativa preferente, el Presidente de la Mesa Directiva hará dicha prevención al momento de turnarla a la Comisión competente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+El Presidente de la Mesa Directiva tendrá la atribución de dar seguimiento al trámite legislativo para que se dictamine y resuelva en el plazo que establece la Constitución Local.
+
 ###### Artículo 93.
 
 Los documentos principales que constituyen el proceso legislativo, salvo aquellos que tengan el carácter de reservado o confidencial y los de mero trámite, llevarán el control siguiente:
 
-a) Se asentarán en un Libro de Registros con los datos correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-b) Se dará el aviso al presidente del Congreso o de la Diputación Permanente, en su caso, con la copia respectiva;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-c) Se turnarán copias a los coordinadores de los grupos parlamentarios acreditados en la Legislatura, así como a los diputados que no pertenezcan a ninguno de ellos, cuando lo soliciten, y (sic)
+I. Se asentarán en un Libro de Registros con los datos correspondientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+II. Se dará el aviso al Presidente del Congreso o de la Diputación Permanente, en su caso, por medio de documento impreso o actuación electrónica, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+III. Se turnará documento impreso o actuación electrónica a los coordinadores de los grupos parlamentarios acreditados en la Legislatura, así como, a los diputados que no pertenezcan a ninguno de ellos, cuando lo soliciten.
 
 ###### Artículo 94.
 
@@ -1529,9 +1771,11 @@ Las iniciativas de ley o decreto deberán reunir los siguientes requisitos:
 
 I. El escrito deberá estar dirigido al Diputado Presidente de la Mesa Directiva de la Asamblea o Diputación Permanente;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-II. Se presentará por escrito y en respaldo magnético que concuerde fielmente con el documento impreso, mismo que consignará el nombre, cargo y la firma de su autor o autores, en términos claros y precisos, y deberá entregarse a la Secretaría General del Congreso, quien en el acuse de recibo correspondiente registrará fecha y hora de presentación;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+II. Se presentará por escrito y en formato electrónico que concuerde fielmente con el documento impreso original, mismo que consignará el nombre, cargo y la firma de su autor o autores, en términos claros y precisos, y deberá entregarse a la Secretaría General del Congreso, quien en el acuse de recibo correspondiente registrará fecha y hora de presentación;
 
 III. La personalidad jurídica de quien o quienes las suscriban, en los términos expresamente señalados por la Constitución local;
 
@@ -1543,27 +1787,59 @@ VI. El contenido de la estructura del ordenamiento legal, integrado ordenadament
 
 VII. Las iniciativas de reforma constitucional reunirán los mismos requisitos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Cuando la iniciativa presentada adolezca de alguno de los requisitos establecidos en este artículo, el Presidente de la Mesa Directiva podrá requerir al iniciador para que solvente las observaciones dentro de los 5 días hábiles posteriores a la fecha de notificación, de lo contrario se tendrá por no presentada.
+
 #### Sección Tercera. Iniciativa de Acuerdo
 
 ###### Artículo 96.
 
 Las iniciativas o proposiciones de acuerdo para su presentación deberán reunir las siguientes formalidades:
 
-a) Serán presentadas exclusivamente por diputados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-b) Deberán presentarse por escrito y en respaldo electrónico;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-c) La solicitud deberá estar dirigida a la Presidencia de la Mesa Directiva o de la Comisión de Gobierno;
+I. Serán presentadas exclusivamente por diputados;
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-d) Contendrán fundamento, exposición de los motivos, así como la parte resolutiva, que deberá ordenar la remisión del acuerdo a las autoridades e instancias que amerite la materia del mismo;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+II. Deberán presentarse por escrito y en formato electrónico;
 
-e) Fecha, Nombre y firma del diputado o Comisión que hace la propuesta; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-f) El documento deberá ser entregado a la Secretaría General del Congreso.
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+III. La solicitud deberá estar dirigida a la Presidencia de la Mesa Directiva o de la Comisión de Gobierno;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+IV. Contendrán fundamento, exposición de los motivos, así como la parte resolutiva, que deberá ordenar la remisión del acuerdo a las autoridades e instancias que amerite la materia del mismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+V. Fecha, nombre y firma del diputado o Comisión que hace la propuesta, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+VI. El documento deberá ser entregado a la Secretaría General del Congreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Cuando la iniciativa presentada adolezca de alguno de los requisitos establecidos en este artículo, el Presidente de la Mesa Directiva podrá requerir al iniciador para que solvente las observaciones dentro de los cinco días hábiles posteriores a la fecha de notificación, de lo contrario se tendrá por no presentada.
 
 ###### Artículo 97.
 
@@ -1613,7 +1889,11 @@ II.- Si la solicitud de registro manifiesta únicamente presentación y solicita
 
 a) El expositor contará con un tiempo de hasta 10 minutos para su presentación;
 
-b) La presidencia de la Mesa Directiva dictará el turno a comisiones, y ordenará su publicación en la página electrónica del Congreso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+b) La presidencia de la Mesa Directiva dictará el turno a comisiones, y ordenará su publicación en la página de Internet;
 
 c) El dictamen que en su oportunidad presente la Comisión observará únicamente una lectura y en sesión posterior se pondrá a discusión el proyecto;
 
@@ -1659,15 +1939,39 @@ Tratándose de dictámenes con proyecto de Acuerdo, deberán contener la parte d
 
 Los dictámenes serán elaborados y suscritos por los miembros de las comisiones legislativas. Al efecto, se reunirán cuantas veces sea necesario para analizar y debatir colegiadamente conforme a las reglas previstas por este Reglamento, resolviendo por mayoría de votos el documento final. Si alguno o algunos de sus integrantes no estuvieren conformes con el contenido del dictamen, tendrán derecho a presentar voto particular para análisis de la Asamblea.
 
-Los votos particulares se presentarán por escrito ante la Secretaría General cuando menos con un día de anticipación al señalado para la discusión del dictamen respectivo, a efecto de reproducirlos y hacer entrega de las copias respectivas a cada uno de los diputados. El voto particular contendrá el análisis de la iniciativa y las proposiciones concretas en que se sustenta la oposición o rechazo al dictamen de las comisiones, acompañando el proyecto de resolución correspondiente y el nombre y firma de los diputados promoventes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-Al efecto, antes de discutirse el proyecto dictaminado por las comisiones, se dará lectura al voto particular.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Los votos particulares se presentarán por escrito y en formato electrónico ante la Secretaría General cuando menos con un día de anticipación al señalado para la discusión del dictamen respectivo, a efecto de reproducirlos y hacer entrega de las copias respectivas o enviarlos vía actuación electrónica para el conocimiento de cada uno de los diputados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+El voto particular contendrá el análisis de la iniciativa y las proposiciones concretas en que se sustenta la oposición o rechazo al dictamen de las comisiones, acompañando el proyecto de resolución correspondiente y el nombre y firma de los diputados promoventes. Al efecto, antes de discutirse el proyecto dictaminado por las comisiones, se dará lectura al voto particular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+La comisión mediante acuerdo de trámite podrá establecer la metodología necesaria para resolver los asuntos que sean puestos a su consideración.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+En los términos previstos por la Constitución Local, la consulta a la Sala Constitucional-Electoral del Tribunal Superior de Justicia, se podrá realizar mediante acuerdo de trámite suscrito por la mayoría de los integrantes de la Comisión competente.
 
 ###### Artículo 105.
 
 Los dictámenes elaborados y suscritos por los integrantes de las comisiones, se ajustarán a los trámites siguientes:
 
-I. Turnarse por escrito a la Secretaría de la Mesa Directiva por conducto de la Secretaría General, a efecto de proceder, con la debida anticipación, a integrar y cotejar los documentos, fotocopiando en número igual al de los diputados, para distribuirlos y hacerlos llegar oportunamente; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+I. Turnarse por escrito a la Secretaría de la Mesa Directiva por conducto de la Secretaría General, a efecto de proceder, con la debida anticipación, a integrar y cotejar los documentos para ser entregados oportunamente por medio de documento impreso o actuación electrónica a los diputados para su conocimiento, y
 
 II. Incluirse en los asuntos en cartera para programar su desahogo en sesión plenaria.
 
@@ -1705,9 +2009,15 @@ I. Cuando a juicio del Congreso, el asunto legislativo traiga aparejado un benef
 
 II. Cuando esté inmediatamente próxima la conclusión del periodo de sesiones o exista una situación considerada de emergencia, la tramitación resolutiva del asunto sea de naturaleza fundamental y necesidad prioritaria, a juicio del Congreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 110.
 
-La dispensa de trámite de la segunda lectura de un dictamen se solicitará siempre y cuando se haya efectuado la primera. La solicitud de dispensa se someterá a consideración de la Asamblea, la cual determinará su autorización por el voto de la mayoría de los diputados asistentes.
+La dispensa de trámite de la segunda lectura de un dictamen se solicitará siempre y cuando se haya efectuado la primera y cuando el dictamen haya sido difundido en la página de internet cuando menos un día antes de la sesión correspondiente.
+
+La solicitud de dispensa se someterá a consideración de la Asamblea, la cual determinará su autorización por el voto de la mayoría de los diputados asistentes.
 
 #### Sección Sexta. Debates Legislativos
 
@@ -1771,9 +2081,13 @@ Cuando algún miembro de la Legislatura solicite se dé lectura al articulado de
 
 > <small>(F. DE E., P.O. 20 DE AGOSTO DE 2008)</small>
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 116.
 
-Durante la discusión en lo general, y únicamente los diputados que no estén inscritos en la respectiva lista de oradores podrán solicitar el uso de la palabra para, con autorización del presidente de la mesa, contestar las alusiones personales o rectificar hechos hasta por cinco minutos, siempre y cuando se refieran a los conceptos vertidos por el orador en turno y éste haya concluido su intervención. El orador iniciará su exposición precisando la alusión a contestar o el hecho a rectificar.
+Durante la discusión en lo general, y únicamente los diputados que no estén inscritos en la respectiva lista de oradores podrán solicitar el uso de la palabra para, con autorización del presidente de la mesa, contestar las alusiones personales o rectificar hechos hasta por diez minutos, siempre y cuando se refieran a los conceptos vertidos por el orador en turno y éste haya concluido su intervención. El orador iniciará su exposición precisando la alusión a contestar o el hecho a rectificar.
 
 Después de tres intervenciones con estas características, el Presidente de la Mesa Directiva podrá preguntar al Pleno si el asunto se considera suficientemente discutido; de votar en sentido afirmativo la mayoría de los diputados presentes, se procederá a dar curso al siguiente orador registrado en la lista; o se procederá a la votación, según corresponda.
 
@@ -1905,7 +2219,11 @@ c) El dictamen fuere presentado con inconsistencias de orden técnico, o no hubi
 
 La moción suspensiva se levantará una vez que se subsanen los motivos que la produjeron, a solicitud del diputado o la comisión que la hubiere tramitado, pidiendo su inclusión en el orden del día de la sesión en que deba discutirse si procede o no levantar la moción, requiriéndose el voto de la mayoría de diputados.
 
-Para ese efecto, deberá entregarse previamente a cada uno de los diputados un informe con su respectiva copia, así como los documentos complementarios del dictamen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+Para ese efecto, deberá entregarse previamente a cada uno de los diputados un informe, así como los documentos complementarios del dictamen, por medio de documento impreso o actuación electrónica.
 
 Levantada la moción, el asunto seguirá su trámite ante la Asamblea, en los términos de este Reglamento.
 
@@ -2023,33 +2341,57 @@ Cuando una ley o decreto fueren devueltos por el titular del Poder Ejecutivo del
 
 Con el objeto de asegurar la memoria del trabajo legislativo, así como la difusión del mismo, el Congreso contará con un diario de los debates a cargo de la Coordinación de Crónica Parlamentaria, en el cual deberán asentarse íntegramente: la fecha y tipo de sesión, los nombres de los integrantes de la Mesa Directiva, la lista de asistentes, el orden del día, el acta anterior, la versión de las discusiones y sus resultados, así como los documentos a los que se dé lectura y las resoluciones que se tomen.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 143.
 
-La autenticidad del contenido del diario de los debates así como la oportunidad de su publicación, distribución e inclusión en la página de internet del Congreso, serán coordinadas por la Secretaría General con acuerdo de la Comisión de Gobierno.
+La autenticidad del contenido del diario de los debates así como la oportunidad de su publicación, distribución e inclusión en la página de internet, serán coordinadas por la Secretaría General con acuerdo de la Comisión de Gobierno.
 
-### Capítulo III. Informe de Gobierno
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+### Capítulo III. Análisis del Informe de Gobierno y Evaluación del Plan Estatal de Desarrollo
 
 #### Sección Única. Comparecencias e Interpelaciones
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 144.
 
-De conformidad a lo dispuesto por la Constitución Local, el Congreso recibirá el informe que por escrito presente el Gobernador, sobre el estado general que guarda la Administración Pública.
+De conformidad a lo dispuesto por la Constitución Local, el Congreso recibirá el informe anual que por escrito presente el Gobernador, sobre el estado general que guarda la Administración Pública para efectos de su análisis y correspondiente evaluación del cumplimiento del Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 145.
 
-El análisis del informe se realizará enunciativamente de conformidad a las siguientes prescripciones:
+El análisis del informe de Gobierno y Evaluación del cumplimiento del Plan Estatal de Desarrollo se realizará enunciativamente de conformidad a las siguientes prescripciones:
 
-I. La Asamblea procederá al desahogo del análisis dentro de los quince días naturales de iniciado el periodo ordinario de sesiones respectivo, en los términos del Acuerdo aprobado por la Comisión de Gobierno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
+
+I. La Asamblea procederá al desahogo del análisis del Informe y evaluación del cumplimiento del Plan Estatal de Desarrollo dentro de los quince días naturales de iniciado el periodo ordinario de sesiones respectivo, en los términos del Acuerdo aprobado por la Comisión de Gobierno;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 II. Concluido el análisis, la Asamblea podrá acordar preguntas al Gobernador para que amplíe por escrito la información;
 
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
 III. Igualmente la Asamblea podrá acordar preguntas a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia para que amplíen por escrito la información, las cuales deberán ser respondidas en un término no mayor a quince días naturales a partir de su recepción;
 
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+
 IV. Si del análisis del informe y de las respuestas resultaren elementos para citar a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia, la Asamblea podrá hacerlo para que comparezcan ante ella y rindan un informe sobre el estado que guardan sus respectivos ramos;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 V. Las comparecencias se sujetarán a las siguientes reglas y de resultar necesario al formato que para tal efecto apruebe la Asamblea:
 
@@ -2089,11 +2431,177 @@ A las citadas comparecencias se hará una invitación especial a todos los medio
 
 Las versiones literales de las sesiones de comparecencia serán impresas en los tantos necesarios a fin de que un ejemplar sea remitido al Gobernador del Estado, uno al funcionario que compareció, otro al archivo de la Legislatura y los correspondientes ejemplares por los medios idóneos a los diputados integrantes del Congreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+### Capítulo IV. Del uso de las Tecnologías de Información y Medios de Difusión Oficial
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ### Capítulo I. Estructura Técnica y Administrativa del Congreso
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 150.
+
+Con el objeto de facilitar, simplificar y agilizar el trámite y procedimiento legislativo, se podrá hacer uso de los medios electrónicos, ópticos o cualquier tecnología de comunicación e información.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 151.
+
+El Congreso contará con las herramientas tecnológicas necesarias para efectuar actuaciones electrónicas, las cuales son toda transmisión de documentos electrónicos vía internet y se tendrán por recibidos, para efectos de su eficacia jurídica, al generarse un acuse de recibo electrónico por el sistema de información.
+
+Hace prueba plena de que el documento electrónico se ha enviado y recibido cuando se compruebe la existencia del acuse electrónico.
+
+La Coordinación de Informática Legislativa será la encargada de verificar todos los datos tendientes a acreditar, si el archivo electrónico ha sido enviado y recibido por las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 152.
+
+El acuse de recibo de una actuación electrónica lo constituirán los siguientes elementos:
+
+I.- La fecha y hora de recepción;
+
+II.- La descripción de la actuación;
+
+III.- El nombre y cargo del destinatario, y
+
+IV.- El nombre y cargo del emisor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 153.
+
+Toda actuación electrónica se deberá respaldar y archivar electrónicamente para garantizar su integridad, confiabilidad y conservación.
+
+Cuando derivado del uso de una actuación electrónica no pueda visualizarse el documento electrónico por algún problema técnico atribuible al emisor, el destinatario lo hará de su conocimiento para que se entregue la información mediante documento impreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 154.
+
+Los Diputados para el desarrollo de las sesiones contarán con dispositivos tecnológicos que les permita recibir y transmitir información en tiempo real, así como de un dispositivo de votación y asistencia electrónica, al igual que de audio en su curul, entre otros dispositivos, con el fin de optimizar recursos y tiempo en la labor legislativa y parlamentaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 155.
+
+El Congreso contará con una página de internet que contendrá enunciativamente la siguiente información:
+
+a. Historia del Congreso y del Estado;
+
+b. Muro de Honor;
+
+c. Integración de la Legislatura vigente y anteriores;
+
+d. Directorio general de legisladores y servidores públicos;
+
+e. Las convocatorias que emita el Congreso;
+
+f. Las iniciativas y dictámenes;
+
+g. La Gaceta Parlamentaria y el Diario de Debates;
+
+h. Las leyes, decretos y acuerdos emitidos por la legislatura;
+
+i. Estrado Electrónico;
+
+j. Compilación de la Legislación Estatal vigente;
+
+k. La información relativa a los eventos auspiciados por el Congreso;
+
+l. La transmisión de las sesiones del Congreso en vivo y las audiograbaciones de las sesiones celebradas;
+
+m. La información generada por los Diputados y las Comisiones legislativas;
+
+n. Un apartado para la Biblioteca;
+
+ñ. Información documental histórica digitalizada de las resoluciones del Congreso;
+
+o. Las funciones del Congreso;
+
+p. Vínculo de transparencia y acceso a la información pública conforme a la ley de la materia; y
+
+q. Foro de discusión y consulta ciudadana.
+
+La página de Internet no deberá contener propaganda o publicidad comercial, partidista o de proselitismo político.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 156.
+
+El Congreso podrá difundir las sesiones de la Asamblea o la Diputación Permanente en circuito cerrado y/o por medio de la página de Internet de conformidad a las disposiciones que rigen la naturaleza de las sesiones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 157.
+
+La Gaceta Parlamentaria deberá publicarse cuando menos cada mes, y difundirse en la página de internet. La crónica parlamentaria en donde se contiene el diario de los debates de cada una de las sesiones, deberá publicarse en la página de internet a más tardar en 10 días hábiles posteriores contados a partir del día siguiente a la celebración de cada sesión.
+
+I.- En cuanto a su contenido la Gaceta Parlamentaria se integrará enunciativamente con la información siguiente:
+
+a).- Iniciativas presentadas;
+
+b).-Dictámenes de comisiones;
+
+c).- Acuerdos aprobados por la Asamblea Legislativa, y
+
+d) Acuerdos de la Comisión de Gobierno.
+
+II.- La Gaceta Parlamentaria para efectos de su eficacia y validez jurídica deberá contener los siguientes elementos:
+
+a) Mención en el encabezado “Gaceta Parlamentaria, Órgano de Información del Honorable Congreso del Estado de Nayarit”;
+
+b).- Numero progresivo de cada publicación, cuyo conteo iniciará con la instalación de cada Legislatura;
+
+c).- Sumario y descripción de los documentos que contempla;
+
+d).- Fecha de Publicación;
+
+e).- Número de época, que corresponderá al año y Legislatura en turno;
+
+f).- La relación de las Comisiones ordinarias y especiales con sus integrantes;
+
+g).- Integración de grupos y representaciones parlamentarias;
+
+h).- Integración de la Comisión de Gobierno, e
+
+i).- Certificación de su contenido por parte de la Secretaría General del Congreso.
+
+La Secretaría General, previo acuerdo de la Presidencia de la Comisión de Gobierno, podrá publicar ediciones especiales de la Gaceta Parlamentaria, cumpliendo las formalidades previstas en el presente artículo y cuyo contenido no comprenderá lo previsto en su fracción I.
+
+Para su archivo y resguardo, la Secretaría General llevará un registro y control de las publicaciones de la Gaceta Parlamentaria.
+
+## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
 ### Capítulo II. Secretaría General del Congreso
 
-###### Artículo 150.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 158.
 
 El Congreso contará con las dependencias administrativas y técnicas siguientes:
 
@@ -2105,23 +2613,43 @@ III. La Contraloría Interna, y
 
 IV. El Órgano de Fiscalización Superior.
 
-###### Artículo 151.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 159.
 
 La administración general del Congreso será coordinada por la Comisión de Gobierno, la cual tiene facultades para regular las actividades y el funcionamiento de las dependencias del Congreso, en los términos expresamente previstos en la Ley y este Reglamento. Por lo que respecta al Órgano de Fiscalización Superior, se estará a lo dispuesto por la ley de la materia.
 
-###### Artículo 152.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 160.
 
 Para el despacho ejecutivo, político y administrativo que la Ley confiere a la Comisión de Gobierno, su presidente contará con una secretaría particular; un asistente administrativo y, de conformidad con el presupuesto autorizado, con el personal de apoyo logístico para el debido cumplimiento de sus funciones, los cuales serán de libre designación. De dicha Secretaría dependerá la Oficialía de Partes del Congreso.
 
-###### Artículo 153.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-Los titulares de las dependencias serán nombrados y removidos por la Legislatura. Los directores, jefes de departamento, coordinadores y asesores serán nombrados y removidos en los términos que establezca el Estatuto del Servicio Profesional de Carrera.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-###### Artículo 154.
+###### Artículo 161.
+
+Los titulares de las dependencias serán nombrados y removidos por la Legislatura. Los directores, coordinadores, y jefes de departamento serán nombrados y removidos en los términos que establezca el Estatuto del Servicio Profesional de Carrera.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 162.
 
 La Secretaría General, la Oficialía Mayor y Contraloría Interna son responsables del buen funcionamiento de sus dependencias; sus titulares están obligados a cumplir y hacer cumplir las disposiciones que establecen la Ley y este Reglamento, y entre ellos no habrá preeminencia alguna, debiendo pugnar por la organización y eficiencia en el trabajo de las direcciones, coordinaciones y departamentos a su cargo.
 
-###### Artículo 155.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 163.
 
 Los titulares de las dependencias y demás funcionarios del Congreso tienen prohibido:
 
@@ -2131,11 +2659,21 @@ II. Desempeñar otro empleo, cargo o comisión en los poderes del Estado o la Fe
 
 III. Conducirse con parcialidad en el ejercicio de su encargo, cuando con ello se afecten las funciones del Congreso, conforme lo dispuesto en las normas internas de la Legislatura.
 
-###### Artículo 156.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 164.
 
 La Comisión de Gobierno, por conducto de su presidente, dirigirá y coordinará jerárquicamente las actividades de sus dependencias; para tal efecto, dicha Comisión emitirá los manuales administrativos, circulares o disposiciones administrativas de carácter general, de conformidad a la Ley y este Reglamento, con la finalidad de establecer la organización, evaluar y controlar las funciones de las dependencias y, en general, la política administrativa del Congreso. En ese sentido, presentará a la Legislatura o a la Diputación Permanente, los informes que se le soliciten.
 
-###### Artículo 157.
+### Capítulo III. Oficialía Mayor
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 165.
 
 La Secretaría General del Congreso es la dependencia responsable de las funciones relacionadas con el proceso legislativo, la investigación legislativa y los asuntos jurídicos, en los términos de la Ley.
 
@@ -2143,13 +2681,11 @@ Para ese efecto, se encargará de la recepción, integración, tramitación y co
 
 En su actuación, el Secretario General se rige por lo dispuesto en la Ley y demás ordenamientos que regulan la vida interior del Congreso, así como por las normas, políticas, lineamientos y acuerdos que dicte la Comisión de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
-### Capítulo III. Oficialía Mayor
-
-###### Artículo 158.
+###### Artículo 166.
 
 Al Secretario General le corresponde observar las facultades y obligaciones siguientes:
 
@@ -2161,45 +2697,53 @@ III. Preparar y coordinar las acciones e instrumentos técnicos necesarios para 
 
 IV. Apoyar al presidente de la Mesa Directiva en la elaboración de comunicados para diputados, representantes de los poderes federales, estatales y de la Asamblea Legislativa del Distrito Federal, así como todos aquellos de carácter institucional;
 
-V. Elaborar las actas de sesiones y ordenar su publicación y archivo;
+V. Supervisar la elaboración de las actas de sesiones y ordenar su publicación y archivo;
 
 VI. Llevar el registro y control de las resoluciones emitidas;
 
 VII. Remitir al Poder Ejecutivo las leyes, decretos o acuerdos que apruebe la Asamblea o la Diputación Permanente, para el trámite legal correspondiente;
 
-VIII. Coordinar las funciones del Archivo, procurando mantener y conservar en buen estado la documentación y expedientes, y organizar el control de los registros de la documentación y las resoluciones emitidas por el Congreso;
+VIII Disponer las medidas para el desahogo de las consultas jurídicas o parlamentarias que formulen los órganos de gobierno, las comisiones y los legisladores;
 
-IX. Disponer las medidas para el desahogo de las consultas jurídicas o parlamentarias que formulen los órganos de gobierno, las comisiones y los legisladores;
+IX. Atender las solicitudes de diputados en materia de apoyo parlamentario en aspectos técnico-legislativos vinculados con su función, conforme a la disponibilidad de funcionarios del servicio;
 
-X. Atender las solicitudes de diputados en materia de apoyo parlamentario en aspectos técnico-legislativos vinculados con su función, conforme a la disponibilidad de funcionarios del servicio;
+X. Proponer procedimientos para elevar la calidad del trabajo legislativo;
 
-XI. Proponer procedimientos para elevar la calidad del trabajo legislativo;
+XI. Establecer, en el ámbito de su competencia, los enlaces necesarios con el Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal;
 
-XII. Establecer, en el ámbito de su competencia, los enlaces necesarios con el Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal;
+XII. Preparar los informes de labores y del cumplimiento de atribuciones con el apoyo de las dependencias a su cargo;
 
-XIII. Preparar los informes de labores y del cumplimiento de atribuciones con el apoyo de las dependencias a su cargo;
+XIII. Disponer la publicación, control y registro de la Gaceta Parlamentaria, así como certificar su contenido;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+XIV. Instrumentar los procedimientos para la certificación y autentificación documental;
 
-XIV. Coordinar la elaboración, y difusión de la Gaceta Parlamentaria, cuya publicación deberá realizarse preferentemente en medio electrónico cuando menos una vez al mes;
+XV. Por indicaciones del Presidente de la Junta Directiva o la Presidencia del Congreso, citar por escrito o vía actuación electrónica a los integrantes de la Legislatura que corresponda, a reuniones de comisiones, sesiones de la Asamblea o reuniones de la Diputación Permanente;
 
-XV. Instrumentar los procedimientos para la certificación y autentificación documental;
+XVI. Coordinar la debida atención de los asuntos jurídicos donde participe el Congreso, tanto en lo consultivo como en lo administrativo y lo contencioso;
 
-XVI. Por indicaciones del Presidente de la Junta Directiva, suscribir los citatorios convocando a reunión de comisiones;
+XVII. Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente;
 
-XVII. Coordinar la debida atención de los asuntos jurídicos donde participe el Congreso, tanto en lo consultivo como en lo administrativo y lo contencioso;
-
-XVIII. Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente; y
+XVIII. Instrumentar las actuaciones necesarias, inherentes al cumplimiento de las atribuciones que por disposición de la Ley y el presente reglamento se le confieren a la Diputación Permanente cuando se constituye en Comisión Instaladora, y
 
 XIX. Las demás que se deriven de la Ley, el presente Reglamento y acuerdos aplicables.
 
-###### Artículo 159.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 167.
 
 El Secretario General, para el despacho de los asuntos de su competencia, se auxiliará con una secretaría particular y una secretaría técnica, cuyos titulares serán designados por él.
 
 Durante las ausencias del Secretario General, el despacho y resolución de los asuntos de su dependencia quedará a cargo de alguno de los directores adscritos a la Secretaría General que designe la Comisión de Gobierno.
 
-###### Artículo 160.
+#### Sección Primera. Disposiciones Generales para los Directores y Coordinadores Adscritos a la Secretaría General
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 168.
 
 Son disposiciones comunes para los directores y coordinadores adscritos a la Secretaría General:
 
@@ -2225,13 +2769,21 @@ X. Informar de sus actividades al Secretario General del Congreso, al inicio de 
 
 XI. Las demás que le confiera el Secretario General, las que se deriven del presente Reglamento y de las normas, disposiciones y acuerdos aplicables.
 
-###### Artículo 161.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 169.
 
 Los directores y coordinadores serán designados por la Comisión de Gobierno, por votación ponderada, de entre los candidatos del servicio que hubieren acreditado los requisitos establecidos por el Estatuto del Servicio Profesional de Carrera; en caso de no existir candidatos idóneos, entonces se procederá mediante concurso abierto de oposición.
 
-###### Artículo 162.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-Para ser designado titular de una dirección o coordinación de las adscritas a la Secretaría General, se requiere:
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 170.
+
+Para ser designado titular de una dirección o coordinación de los adscritos a la Secretaría General, se requiere:
 
 I. Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
 
@@ -2241,591 +2793,595 @@ III. Contar con título de licenciatura debidamente registrado ante autoridad co
 
 IV. Preferentemente contar con experiencia en las tareas legislativas o conocimiento de derecho parlamentario por ejercicio profesional, investigación o docencia;
 
-V. Cumplir, en su caso, con los demás requisitos que se establezcan en la convocatoria para el concurso respectivo; y
+V. Cumplir, en su caso, con los demás requisitos que se establezcan en la convocatoria para el concurso respectivo, y
 
 VI. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión.
 
-Las ausencias temporales de los directores y coordinadores serán suplidas por el funcionario que designe el Secretario General, siempre y cuando dependa de éste la Dirección o Coordinación bajo la responsabilidad del ausente. Las faltas definitivas se resolverán en los términos que disponga el Estatuto del Servicio Profesional de Carrera.
-
-###### Artículo 163.
-
-La Dirección de Proceso Legislativo es la dependencia operativa encargada de atender y desahogar las actividades relacionadas con la preparación y desarrollo de los trámites legislativos, con las siguientes funciones:
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
-
-a) Llevar el control y registro de las iniciativas presentadas al Congreso, en el que se consigne enunciativamente los siguientes datos:
-
-I. Autor;
-
-II. Materia;
-
-III. Fecha y hora de presentación;
-
-IV. Fecha de aviso a la Asamblea o Diputación Permanente, y
-
-V. Fecha de turno a Comisiones.
-
-b) Con acuerdo del Secretario General, proporcionar los servicios de asesoría técnico-procesal a las comisiones legislativas, así como a sus miembros; para la elaboración de los estudios y proyectos de dictamen;
-
-c) Preparar la documentación necesaria para las sesiones del Pleno o Diputación Permanente, la guía de las mismas, el proyecto de orden del día y los expedientes correspondientes, conforme a las instrucciones del Secretario General;
-
-d) Elaborar los proyectos de actas de la Legislatura o de la Diputación Permanente, así como las minutas de las reuniones que celebren las comisiones legislativas;
-
-e) Elaborar la propuesta del programa de actividades legislativas y los proyectos de ley, decreto o acuerdo que se le encomienden;
-
-f) Asistir a la Secretaría General en la elaboración y seguimiento de los acuerdos y resoluciones que adopte el pleno, la Diputación Permanente y las Comisiones, e instruir lo conducente a sus áreas de dependencia;
-
-g) Organizar y ordenar el trámite correspondiente a los asuntos de su competencia;
-
-h) Presentar informes de las actividades parlamentarias por periodo de sesiones y año legislativo;
-
-i) Asignar los recursos humanos, materiales y técnicos de los servicios a su cargo, conforme a las disposiciones del presente Reglamento;
-
-j) Proporcionar a la Dirección de Investigación Legislativa y Biblioteca, la información requerida para la publicación de la documentación relativa en la Gaceta Parlamentaria;
-
-k) Recibir y reproducir la documentación legislativa para su envío a comisiones;
-
-l) Llevar los libros de registro de iniciativas, de minutas, resoluciones y actas de las sesiones y reuniones;
-
-m) Integrar la documentación de los expedientes del proceso legislativo;
-
-n) Identificar, registrar y verificar la incorporación a las minutas de ley o de decreto, de las propuestas de modificación aprobadas, y
-
-ñ) Preparar para envío a las oficinas que correspondan, las resoluciones aprobadas por el Congreso.
-
-###### Artículo 164.
-
-La Dirección de Asuntos Jurídicos es la dependencia encargada de atender los asuntos legales del Congreso en sus aspectos consultivo y contencioso; para estos efectos ejercerá, por acuerdo del presidente de la Comisión de Gobierno, la representación jurídica de la misma, en los juicios y procedimientos contenciosos en los que ésta sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la misma, así como denunciar ante el ministerio público y demás autoridades, los hechos que así lo ameriten.
-
-Esta dirección tendrá las siguientes funciones:
-
-a) Prestar al presidente de la Comisión de Gobierno los servicios legales que requiera en el ejercicio de sus facultades;
-
-b) Asesorar en materia jurídica a la Secretaría General, Oficialía Mayor y Contraloría Interna;
-
-c) Auxiliar, en los casos en que le solicite el Secretario General, en el desahogo de consultas jurídico-parlamentarias;
-
-d) Proporcionar apoyo jurídico a las Comisiones Legislativas cuando así se lo soliciten;
-
-e) Formular anteproyectos de informes previos y justificados, en los juicios de amparo en los que el Congreso sea señalado como autoridad responsable, y
-
-f) Revisar que todos los documentos que deban ser suscritos por cualquier servidor público en representación del Congreso, cumplan con los requisitos y las formalidades jurídicas.
-
-### Capítulo IV. Contraloría Interna
-
-###### Artículo 165.
-
-La Dirección de Investigación Legislativa y Biblioteca es la dependencia del Congreso encargada de los asuntos relacionados con la investigación legislativa y del control y administración de la biblioteca. Tendrá a su cargo las siguientes funciones:
-
-a) Llevar a cabo investigaciones y estudios jurídicos de carácter histórico, comparativo y socio-jurídico sobre instituciones parlamentarias, instituciones públicas, derecho público, privado, social y, en general, sobre cualquier rama o disciplina afín, que contribuyan al ejercicio de las funciones legislativas;
-
-b) Dar curso a las solicitudes de investigación, estudios y análisis en materia especializada;
-
-c) Realizar estudios de derecho correlativo y comparado, con la finalidad de proporcionar elementos técnico- jurídicos a los diputados;
-
-d) Proporcionar servicios especializados de información, investigación y análisis a los integrantes del Congreso;
-
-e) Promover la realización de reuniones académicas vinculadas al estudio del derecho e investigaciones parlamentarias;
-
-f) Promover la celebración de convenios de colaboración con centros de estudios parlamentarios e instituciones académicas estatales y nacionales e instituciones afines; para el intercambio de experiencias y de personal, así como con especialistas;
-
-g) Participar en las actividades de capacitación que comprende la formación, actualización y especialización de los funcionarios del Servicio Profesional de Carrera;
-
-h) Llevar a cabo la compilación del marco jurídico federal, local y municipal;
-
-i) Dirigir el funcionamiento del Sistema de Información y Estadística parlamentarias procurando su difusión en cumplimiento con las normas, disposiciones y acuerdos aprobados por la Comisión de Gobierno;
-
-j) Asesorar a las comisiones legislativas en lo relativo al marco jurídico aplicable, así como lo concerniente a la técnica legislativa, en la elaboración de los instrumentos legislativos;
-
-k) Organizar el funcionamiento de la Biblioteca del Congreso, fomentando la consulta y actualización del acervo;
-
-l) Proponer a la Comisión de Gobierno, por conducto de la Secretaría General, criterios para la adquisición de material bibliográfico, a fin de incrementar y mantener actualizado el acervo del Congreso;
-
-m) Elaborar y aplicar un programa editorial y de divulgación sobre estudios especializados en derecho y prácticas parlamentarias;
-
-n) Editar, gestionar la impresión, distribuir y difundir por las redes de comunicación del Congreso, la Gaceta Parlamentaria;
-
-ñ) Mantener actualizada la página web del Congreso, para lo cual contará con el auxilio de la Coordinación de Informática Legislativa, y
-
-o) Analizar el contenido de las disposiciones generales publicadas en el Diario Oficial de la Federación, a fin de identificar las facultades y obligaciones que correspondan a las entidades federativas;
-
-En la Dirección de Investigación Legislativa se dará preferencia a un equipo de investigadores de un perfil multidisciplinario, para atender las funciones jurídico parlamentarias, de conformidad con el Estatuto del Servicio Profesional de Carrera y el presupuesto disponible.
-
-###### Artículo 166.
-
-La Coordinación de la Crónica Parlamentaria tendrá las siguientes funciones:
-
-a) Organizar, integrar y supervisar la taquigrafía parlamentaria;
-
-b) Elaborar el registro y publicación, en forma de memoria, de la crónica parlamentaria, misma que deberá ir sancionada con la firma de los secretarios de la Mesa Directiva;
-
-c) Sistematizar y analizar la información generada en las reuniones de trabajo, foros, conferencias, comparecencias, entrevistas y demás actividades de las comisiones;
-
-d) Editar, gestionar la impresión, distribuir y difundir, por las redes de comunicación internas y otros medios autorizados, el diario de los debates;
-
-e) Prestar los servicios de grabación magnetofónica para las sesiones del pleno, comisiones y, en general, para cualquier reunión de trabajo parlamentario, procesar la versión magnetofónica y proporcionarla y difundirla conforme a las disposiciones o lineamientos correspondientes;
-
-f) Prestar los servicios de corrección y estilo que se requieran para el trabajo editorial y parlamentario del Congreso, y
-
-g) Auxiliar a la Secretaría General en el registro de los acuerdos, precedentes y prácticas parlamentarias.
-
-###### Artículo 167.
-
-La Coordinación de Informática Legislativa tendrá las siguientes funciones:
-
-a) Planear, organizar y supervisar los servicios de informática parlamentaria;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2008)</small>
-
-b) Realizar la digitalización de los documentos que genere el Congreso en ejercicio de sus atribuciones;
-
-c) Administrar los sistemas y equipos informáticos del Congreso y promover su óptimo aprovechamiento, así como proporcionar el apoyo técnico para la adquisición de bienes informáticos;
-
-d) Mantener en óptimo funcionamiento los sistemas de cómputo existentes y solicitar la adquisición de los que sean necesarios para la modernización administrativa;
-
-e) Capacitar al personal en el manejo de los equipos de cómputo, sistemas operativos, paquetería de procesos y lenguaje de programación;
-
-f) Realizar las tareas de apoyo administrativo que le indique la Secretaría General;
-
-g) Desarrollar y promover los servicios de internet y página web del Congreso, aplicando la normatividad que se establezca;
-
-h) Implantar, en coordinación con las unidades administrativas y legislativas, redes de datos y mantenerlos en operación a fin de facilitar la comunicación electrónica, tanto interna como externa;
-
-i) Recomendar a las unidades administrativas y legislativas del Congreso, soluciones tecnológicas e informáticas para optimizar los recursos y procesos operativos, y
-
-j) Formular y aplicar los programas de mantenimiento preventivo y correctivo.
-
-#### Sección Primera. Disposiciones Generales para los Directores y Coordinadores Adscritos a la Secretaría General
-
-###### Artículo 168.
-
-Habrá en el Congreso una Coordinación de Apoyo Parlamentario de carácter colegiado, compuesta por profesionales especializados en diferentes materias relacionadas con las funciones del Poder Legislativo, la cual dependerá, para efectos de coordinación, de la Secretaría General; sus integrantes fungirán en lo individual como secretarios técnicos de hasta tres de las comisiones legislativas del Congreso.
-
-La Coordinación de Apoyo Parlamentario tendrá las siguientes funciones:
-
-a) Prestar los servicios en materia de asistencia técnico-parlamentaria a la presidencia de la Mesa Directiva, para el desempeño de sus atribuciones parlamentarias;
-
-b) Asistir a la presidencia de la Mesa Directiva en la conducción de las relaciones interinstitucionales del Congreso, relaciones públicas, protocolo y diplomacia parlamentaria;
-
-c) Atender las consultas que le formule el presidente de la Legislatura o el de la Diputación Permanente;
-
-d) Asesorar a los grupos parlamentarios, comisiones legislativas y a los diputados que lo requieran para el cumplimiento de sus funciones;
-
-e) Atender y orientar a los particulares, grupos sociales y organismos no gubernamentales, sobre los proyectos de ley o decreto respecto a los cuales tengan interés;
-
-f) Analizar y opinar sobre documentos, proyectos de ley, decretos o acuerdos cuando así sea solicitado por el presidente de la Legislatura, de la Diputación Permanente, o de alguna de las comisiones;
-
-g) Opinar sobre los contenidos que integren el diario de los debates y otras publicaciones auspiciadas por la Legislatura o por sus comisiones ordinarias de trabajo;
-
-h) Actualizar, confrontar y conciliar las leyes y decretos aprobados por la Legislatura, una vez que sean publicadas;
-
-i) Opinar sobre la adecuación de las leyes ordinarias locales y su ámbito de aplicación;
-
-j) Participar en funciones de secretariado técnico, como órgano de consulta y opinión de las comisiones ordinarias y especiales de la Legislatura, que tengan a su cargo la formulación de proyectos de ley o de decreto;
-
-k) Promover la participación de los colegios, asociaciones, barras, y otros organismos integrados por profesionales del derecho, en la elaboración de las leyes;
-
-l) Cuidar que los dictámenes, propuestas y demás escritos de las comisiones cumplan con las normas que regulan su formulación;
-
-m) Llevar y mantener actualizados los registros sobre la integración de las comisiones, sus actividades y el estado que guarden los asuntos que les fueren turnados, y
-
-n) Procesar estudios correlativos y aportar elementos para el análisis y desahogo de asuntos turnados a comisiones.
-
-###### Artículo 169.
-
-La Coordinación de Apoyo Parlamentario será dirigida operativamente por uno de sus integrantes, el cual será designado por la Comisión de Gobierno de conformidad con el Estatuto del Servicio Profesional de Carrera. El titular de la Coordinación de Apoyo Parlamentario efectuará sus trabajos en coordinación con el Secretario General del Congreso.
-
-El titular de la Coordinación de Apoyo Parlamentario efectuará sus trabajos en coordinación con el Secretario General del Congreso.
-
-###### Artículo 170.
-
-Para ser miembro de la Coordinación, se deberán reunir los requisitos previstos en el artículo 162 del presente Reglamento.
+Las ausencias temporales de los directores y coordinadores serán suplidas por el funcionario que designe el Secretario General, siempre y cuando dependa de éste la Dirección, Coordinación o Departamento bajo la responsabilidad del ausente. Las faltas definitivas se resolverán en los términos que disponga el Estatuto del Servicio Profesional de Carrera.
 
 #### Sección Segunda. Dirección de Proceso Legislativo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 ###### Artículo 171.
 
-El coordinador tendrá las siguientes funciones:
+La Dirección de Proceso Legislativo es la dependencia operativa encargada de atender y desahogar las actividades relacionadas con la preparación y desarrollo de los trámites legislativos, con las siguientes funciones:
 
-a) Cuidar que los integrantes cumplan, de manera eficaz y oportuna, con las tareas que les sean encomendadas;
+I. Supervisar el control y registro de las iniciativas presentadas al Congreso;
 
-b) Proponer el personal indispensable y el apoyo técnico que se requiera, para cumplir eficazmente su cometido;
+II. Con acuerdo del Secretario General, dirigir los servicios de asesoría técnico-procesal a la Asamblea Legislativa, Diputación Permanente y a las comisiones legislativas, así como a sus miembros;
 
-c) Acordar con el Secretario General del Congreso, la elaboración de la agenda legislativa, en los casos que corresponda, así como las reuniones de la Coordinación, y
+III. Preparar y distribuir con la debida oportunidad a cada uno de los diputados, la documentación necesaria para la celebración de las sesiones del Pleno y reuniones de la Diputación Permanente, así como las reuniones de las Comisiones;
 
-d) Las demás que le asigne expresamente el presidente de la Comisión de Gobierno y el Secretario General del Congreso.
+IV. Elaborar, registrar y tramitar la publicación de las actas de las sesiones y minutas del trabajo en comisiones;
 
-#### Sección Tercera. Dirección de Asuntos Jurídicos
+V. Elaborar la propuesta del programa de actividades legislativas y los proyectos de ley, decreto o acuerdo que se le encomienden;
+
+VI. Asistir a la Secretaría General en la elaboración y seguimiento de los acuerdos y resoluciones que adopte el pleno, la Diputación Permanente y las Comisiones, e instruir lo conducente a sus áreas de dependencia;
+
+VII. Organizar y ordenar el trámite correspondiente a los asuntos de su competencia;
+
+VIII. Presentar informes de las actividades parlamentarias por periodo de sesiones y año legislativo;
+
+IX. Asignar los recursos humanos, materiales y técnicos de los servicios a su cargo, conforme a las disposiciones del presente Reglamento;
+
+X. Mantener actualizados los libros de registro de iniciativas, de minutas, resoluciones y actas de las sesiones y reuniones;
+
+XI. Dirigir y supervisar la Integración de la documentación de los expedientes del proceso legislativo;
+
+XII. Identificar, registrar y verificar la incorporación a las minutas de ley o de decreto, de las propuestas de modificación aprobadas, y
+
+XIII. Preparar para envío a las oficinas que correspondan, las resoluciones aprobadas por el Congreso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Tercera. Coordinación de Apoyo Parlamentario
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 172.
 
-Al Departamento de Archivo le corresponden las funciones siguientes:
+La Coordinación de Apoyo Parlamentario es una dependencia de la Dirección de Proceso Legislativo de carácter colegiado, compuesta por profesionales especializados en diferentes materias relacionadas con las funciones del Poder Legislativo, sus integrantes fungirán en lo individual como secretarios técnicos de hasta tres de las comisiones legislativas del Congreso. La Coordinación de Apoyo Parlamentario tendrá las siguientes funciones:
 
-a) Operar los lineamientos para la conservación de los archivos y expedientes del proceso legislativo;
+I. Asistir a la presidencia de la Junta Directiva en la conducción de las relaciones interinstitucionales del Congreso, relaciones públicas, protocolo y diplomacia parlamentaria;
 
-b) Integrar, registrar, clasificar y custodiar los expedientes de información del trabajo parlamentario del Pleno, Diputación Permanente y de las comisiones;
+II. Atender las consultas que le formule el presidente de la Legislatura o el de la Diputación Permanente;
 
-c) Poner a disposición los servicios de consulta de expedientes en custodia y desahogar los requerimientos de los legisladores y órganos del Congreso;
+III. Atender y orientar a los particulares, grupos sociales y organismos no gubernamentales, sobre los proyectos de ley o decreto respecto a los cuales tengan interés;
 
-d) Brindar asesoría y asistencia a comisiones para la integración de expedientes y conformación de acervos de sus actividades legislativas;
+IV. Analizar y opinar sobre documentos, proyectos de ley, decretos o acuerdos cuando así sea solicitado por el presidente de la Legislatura, de la Diputación Permanente, o de alguna de las comisiones;
 
-e) Proporcionar los servicios de reproducción documental, así como el cotejo de los documentos que se requieran para el desarrollo de las funciones del Congreso;
+V. Opinar sobre los contenidos que integren el diario de los debates y otras publicaciones auspiciadas por la Legislatura o por sus comisiones ordinarias de trabajo;
 
-f) Integrar, registrar, clasificar y custodiar para su consulta, los ejemplares del Periódico Oficial y del Diario Oficial de la Federación, y
+VI. Opinar sobre la adecuación de las leyes ordinarias locales y su ámbito de aplicación;
 
-g) Las demás que se deriven del presente Reglamento y de las normas, disposiciones y acuerdos de la Comisión de Gobierno y el Secretario General.
+VII. Participar en funciones de secretariado técnico, como órgano de consulta y opinión de las comisiones ordinarias y especiales de la Legislatura, que tengan a su cargo la formulación de proyectos de ley o de decreto;
+
+VIII. Promover la participación de los colegios, asociaciones, barras, y otros organismos integrados por profesionales del derecho, en la elaboración de las leyes;
+
+IX. Llevar y mantener actualizados los registros sobre la integración de las comisiones, sus actividades y el estado que guarden los asuntos que les fueren turnados;
+
+X. Procesar estudios correlativos y aportar elementos para el análisis y desahogo de asuntos turnados a comisiones, y
+
+XI. Elaborar los dictámenes legislativos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 173.
 
-La Oficialía Mayor es la dependencia responsable de la gestión financiera y administrativa interna del Congreso, y su titular tendrá las siguientes facultades y obligaciones:
+La Coordinación de Apoyo Parlamentario será dirigida operativamente por uno de sus integrantes, el cual será designado por la Comisión de Gobierno de conformidad con el Estatuto del Servicio Profesional de Carrera.
 
-a) Llevar la administración del Congreso con el apoyo de la estructura a su cargo;
+El titular de la Coordinación de Apoyo Parlamentario efectuará sus trabajos en coordinación con el Director de Proceso Legislativo.
 
-b) Coordinar la obtención de los recursos financieros, la programación, la elaboración de presupuestos, la administración financiera, la contabilidad y la cuenta pública del Congreso, así como la elaboración de los manuales de organización y procedimientos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-c) Integrar y poner a la disposición de la Comisión de Gobierno, el anteproyecto de Presupuesto de Egresos del Congreso, de acuerdo con las necesidades operativas, las metas, objetivos, mejoras y prioridades que la propia Comisión apruebe;
-
-d) Ejercer el presupuesto del Congreso de acuerdo con los lineamientos, estructuras, programas y calendarización aprobados, así como las normas aplicables para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra, procurando asegurar al Congreso las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
-
-e) Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos;
-
-f) Establecer proyectos de políticas laborales y darlos a conocer a la Comisión de Gobierno para su aprobación;
-
-g) Coordinar las adquisiciones, servicios y suministros de las diversas dependencias del Congreso, conforme a las disposiciones que éste determine;
-
-h) La administración y custodia de los bienes muebles e inmuebles del Poder Legislativo;
-
-i) Establecer y coordinar el sistema de informática para los asuntos administrativos;
-
-j) Someter a la aprobación de la Comisión de Gobierno, los proyectos de manual de organización y funcionamiento; así como el manual de políticas y procedimientos de la Oficialía Mayor;
-
-k) Coordinar la aplicación de las políticas que regulan las relaciones laborales, la administración de los recursos humanos, así como el desarrollo del personal comprendido dentro del Servicio Profesional de Carrera;
-
-l) Participar, asistir y representar al Congreso en los actos de administración, en el ámbito de su competencia;
-
-m) Dirigir la administración de los recursos materiales, inventarios, almacenes, adquisiciones y control de bienes muebles e inmuebles;
-
-ñ (sic)) Proponer a la aprobación de la Comisión de Gobierno, los lineamientos para la realización de licitaciones públicas o por invitación restringida para la adquisición de bienes;
-
-o) Expedir, conforme a las normas aplicables, los nombramientos y las credenciales de identificación de los servidores públicos del Congreso;
-
-p) Coordinar y dirigir la administración de los servicios generales, los servicios de apoyo para la celebración de las reuniones de trabajo del Congreso, así como el de apoyo, equipamiento y operación de comunicaciones;
-
-q) Coordinar el Programa de Seguridad y de Protección Civil del Congreso;
-
-r) Elaborar los directorios de integrantes de cada Legislatura;
-
-s) Llevar el registro histórico con información de la organización y composición de las Legislaturas;
-
-t) Asistir al presidente de la Mesa Directiva o Comisión de Gobierno cuando solicite la intervención de la fuerza pública, coordinándose con los órganos externos de seguridad;
-
-u) Intervenir en los términos del estatuto del servicio profesional de carrera, en la planeación, organización, integración, desarrollo y regulación;
-
-v) Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente; y
-
-w) Los demás que le asigne la Asamblea Legislativa, la Diputación Permanente y la Comisión de Gobierno.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 174.
 
-La Oficialía Mayor, para el despacho de los asuntos de su competencia, se auxiliará con una secretaría particular designado por su titular.
+Para ser miembro de la Coordinación, se deberán reunir los requisitos previstos en el artículo 170 del presente Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 175.
 
-Son disposiciones comunes para el Director de Administración y el Tesorero:
+El coordinador tendrá las siguientes funciones:
 
-a) Acordar con el Oficial Mayor el despacho de los asuntos de su competencia;
+I. Cuidar que los integrantes cumplan, de manera eficaz y oportuna, con las tareas que les sean encomendadas;
 
-b) Asistir al Oficial Mayor en el cumplimiento de sus funciones, representarlo cuando reciba delegación específica para ello o actuar en los casos en que se encuentre ausente;
+II. Proponer el personal indispensable y el apoyo técnico que se requiera, para cumplir eficazmente su cometido;
 
-c) Velar por el desarrollo armónico de las funciones a su cargo; la imparcialidad, eficiencia y honradez en la prestación de las mismas, y el cumplimiento de las disposiciones normativas, lineamientos y acuerdos aplicables;
+III. Acordar con el Director de Proceso Legislativo, la elaboración de la agenda legislativa, en los casos que corresponda, así como las reuniones de la Coordinación, y
 
-d) Formular los planes y programas; dirigir, evaluar y controlar el cumplimiento de funciones y la prestación de los servicios adscritos, y participar en la elaboración de presupuestos;
+IV. Las demás que le asignen expresamente el presidente de la Comisión de Gobierno y el Secretario General del Congreso.
 
-e) Someter a la aprobación del Oficial Mayor las políticas y lineamientos referidos a los servicios que proporcionan las áreas de su responsabilidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-f) Suscribir la documentación relativa al ejercicio de sus atribuciones y aquella que le sea señalada por competencia o le corresponda por delegación específica o necesidad de actuación en los casos en que se encuentre ausente el Oficial Mayor;
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
 
-g) Dirigir los trabajos de las áreas de su adscripción y recibir en acuerdo a los titulares de las oficinas, para el desahogo de los asuntos de su competencia;
+#### Sección Cuarta. Coordinación de la Crónica Parlamentaria
 
-h) Ejecutar las políticas, procedimientos y lineamientos administrativos de las áreas de su responsabilidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-i) Coadyuvar en la definición de normas, políticas y procedimientos de desarrollo informático de los servicios a su cargo, conforme al programa general del Congreso;
-
-j) Presentar al Oficial Mayor, trimestralmente, un informe de sus actividades, y
-
-k) Las demás que le confiera la Comisión de Gobierno, el Oficial Mayor, y las que se deriven del presente reglamento y de los acuerdos aplicables.
-
-#### Sección Cuarta. Dirección de Investigación Legislativa y Biblioteca
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 176.
 
-Corresponden a la Dirección de Administración las siguientes funciones:
+La Coordinación de la Crónica Parlamentaria es una dependencia de la Dirección de Proceso Legislativo que tiene las siguientes funciones:
 
-a) Establecer, coordinar y dirigir las políticas, normas y criterios técnicos de las áreas a su cargo;
+I. Organizar, integrar y supervisar la redacción parlamentaria;
 
-b) Programar, coordinar, dirigir y controlar los procesos para la administración de los recursos humanos, servicios generales, materiales financieros y de informática;
+II. Elaborar el registro y publicación, en forma de memoria, de la crónica parlamentaria, misma que deberá ir sancionada con la firma de los secretarios de la Mesa Directiva;
 
-c) Fomentar la realización de trabajos y otras actividades que se orienten a divulgar los enfoques, modalidades y técnicas del programa de modernización administrativa, y
+III. Sistematizar y analizar la información generada en las reuniones de trabajo, foros, conferencias, comparecencias, entrevistas y demás actividades de las comisiones;
 
-d) Coordinar y dirigir la integración y consolidación del proceso anual del anteproyecto del Presupuesto de Egresos del Congreso, verificando que se cumpla con la normatividad.
+IV. Editar, gestionar la impresión, distribuir y difundir, por las redes de comunicación internas y otros medios autorizados, el diario de los debates;
 
-#### Sección Quinta. Coordinación de la Crónica Parlamentaria
+V. Prestar los servicios de grabación magnetofónica para las sesiones del pleno, comisiones y, en general, para cualquier reunión de trabajo parlamentario, procesar la versión magnetofónica y proporcionarla y difundirla conforme a las disposiciones o lineamientos correspondientes;
+
+VI. Prestar los servicios de corrección y estilo que se requieran para el trabajo editorial y parlamentario del Congreso, y
+
+VII. Redactar, registrar y tramitar la publicación los proyectos de actas de la Asamblea Legislativa o de la Diputación Permanente, así como las minutas de las reuniones que celebren las comisiones legislativas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Quinta. Departamento de Control Documental y Estadística Parlamentaria
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 177.
 
-Corresponde al Departamento de Recursos Humanos:
+El Departamento de Control Documental y Estadística Parlamentaria, es la dependencia de la Dirección de Proceso Legislativo que tendrá las siguientes funciones:
 
-a) Organizar un sistema de control de personal para promover mayor calidad en el trabajo;
+I. Llevar un control, sistematización, estadística y trámite de las iniciativas y comunicaciones que se presentan a la Secretaría General;
 
-b) Evaluar el desempeño laboral tanto por resultados en el trabajo como por años de antigüedad, a efecto de que, previo conocimiento de la Comisión de Gobierno, se otorguen estímulos y recompensas al personal, conforme a la ley y acuerdos de la Comisión de Gobierno;
+II. Organizar y distribuir entre las direcciones, coordinaciones y departamentos de la Secretaría General, la información que por su competencia deben conocer y tramitar conforme a la ley y el Reglamento;
 
-c) Llevar el control del personal, de asistencia, puntualidad y permanencia, vigilando el cumplimiento de las funciones que se le asignen;
+III. Procesar para los efectos del trámite legislativo, la información presentada en documento impreso y/o en formato electrónico;
 
-d) Determinar los mecanismos para el control interno del personal para la elaboración y actualización de plantillas, registros, apertura de expedientes y sistemas de control de asistencia;
+IV. Realizar la revisión, cotejo y autentificación de la documentación que deba ser certificada por la Secretaría General del Congreso;
 
-e) Aplicar medidas disciplinarias cuando sea necesario;
+V. Procesar, registrar, clasificar y llevar la estadística de las resoluciones que emita el Congreso;
 
-f) Aplicar las normas, políticas y lineamientos establecidos en materia de administración de recursos humanos;
+VI. Integrar los expedientes para el desahogo de las sesiones del Pleno, y reuniones de la Diputación Permanente, Comisiones Legislativas y Comisión de Gobierno;
 
-g) Conducir los procesos de reclutamiento, selección, contratación, promoción y evaluación permanente de los servidores públicos que no forman parte del Servicio Profesional de Carrera;
+VII. Integrar los expedientes y remitirlos para su publicación al Periódico Oficial, así como para su resguardo en el archivo del Congreso;
 
-h) Coadyuvar, en el ámbito de su competencia, en lo relativo a los asuntos administrativos del personal adscrito al Servicio Profesional de Carrera;
+VIII. Dar seguimiento a las disposiciones transitorias previstas en reformas legales, constitucionales y leyes de nueva creación;
 
-i) Formular, proponer y ejecutar el presupuesto en el ramo de servicios personales, así como coordinar la operación del sistema de pagos y prestaciones del Congreso;
+IX. Registrar y computar los términos legales en lo relativo al turno de iniciativas, suscripción de dictámenes, y observaciones del Poder Ejecutivo;
 
-j) Coadyuvar en la expedición, conforme a las normas aplicables, de los nombramientos y las credenciales de identificación de los servidores públicos del Congreso y realizar los movimientos que correspondan, así como tramitar los casos de terminación de los nombramientos y contratos;
+X. Confrontar y conciliar las leyes y decretos aprobados por la Legislatura, una vez que sean publicadas;
 
-k) Proponer y ejecutar el programa anual de prestaciones y servicios, con el objeto de fortalecer las relaciones de trabajo, la recreación y el esparcimiento de los servidores públicos del Congreso, y
+XI. Elaborar e integrar el Programa Operativo Anual de la Secretaría General del Congreso y sus dependencias respectivamente, y
 
-l) Realizar los trámites y acciones derivadas de la administración de las relaciones laborales ante las autoridades administrativas correspondientes; participar en la revisión de las condiciones generales de trabajo y convenios de prestaciones, así como llevar a cabo su difusión, y proveer lo necesario para su cumplimiento.
+XII. Las demás que le encomiende la Dirección de Proceso Legislativo.
 
-#### Sección Sexta. Coordinación de Informática Legislativa
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Sexta. Dirección de Asuntos Jurídicos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 178.
 
-Corresponde al titular del Departamento de Recursos Materiales y Servicios Generales las siguientes funciones:
+La Dirección de Asuntos Jurídicos es la dependencia de la Secretaría General encargada de atender los asuntos legales del Congreso en sus aspectos consultivo y contencioso; para estos efectos ejercerá, por acuerdo del Presidente de la Comisión de Gobierno, la representación jurídica de la misma, en los juicios y procedimientos contenciosos en los que ésta sea parte, ejerciendo todas las acciones que sean necesarias para proteger el interés jurídico de la misma, así como denunciar ante el ministerio público y demás autoridades, los hechos que así lo ameriten. Esta dirección tendrá las siguientes funciones:
 
-a) Controlar y vigilar la administración de los recursos materiales, el sistema de abasto y suministro de los bienes e insumos, así como proporcionar los servicios generales por unidad responsable;
+I. Prestar al presidente de la Comisión de Gobierno, por instrucciones del Secretario General, los servicios legales que requiera en el ejercicio de sus facultades;
 
-b) Tramitar las adquisiciones de muebles, equipos y materiales de oficina para el buen funcionamiento de las dependencias de la Legislatura;
+II. Asesorar en materia jurídica a la Secretaría General, Oficialía Mayor y Contraloría Interna;
 
-c) Crear controles de inventarios de bienes de consumo, muebles e inmuebles propiedad del Congreso;
+III. Auxiliar, en los casos en que le solicite el Secretario General, en el desahogo de consultas jurídico-parlamentarias, y
 
-d) Atender la conservación y mantenimiento de las instalaciones y bienes muebles e inmuebles del Poder Legislativo;
+IV. Proporcionar apoyo jurídico a las Comisiones Legislativas cuando así se lo soliciten por conducto de la Secretaría General.
 
-e) Mantener actualizado el inventario de bienes muebles e inmuebles del Poder Legislativo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-f) Formular el anteproyecto anual de adquisiciones de acuerdo con las necesidades de las dependencias para su buen funcionamiento;
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
 
-g) Supervisar y controlar los servicios de intendencia, transporte y vigilancia, así como el sistema de sonido de las salas de sesiones, comisiones y actividades que celebre el Congreso;
+#### Sección Séptima. Dirección de Investigación Legislativa
 
-h) Proponer y aplicar las políticas de administración de recursos materiales y de adquisición de bienes y servicios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-i) Elaborar, proponer y ejecutar el programa y presupuesto anual de adquisiciones, con base en las normas y disposiciones jurídicas aplicables en el Congreso;
-
-j) Proponer y aplicar las políticas de administración de los servicios generales, de apoyo a las reuniones del Congreso;
-
-k) Atender las necesidades de espacios físicos, adaptaciones, mantenimiento, estacionamientos e instalaciones de los inmuebles, y realizar la contratación de obra pública y servicios correlativos a la misma;
-
-l) Establecer la organización para la atención integral de las reuniones que se realicen en el Congreso;
-
-m) Organizar y disponer de los recursos materiales, humanos y técnicos necesarios para proporcionar los servicios de salvaguarda y seguridad del Congreso;
-
-n) Proponer y ejecutar las acciones del programa de protección civil del Congreso, y
-
-ñ) Dar curso a la correspondencia que emita el Congreso.
-
-#### Sección Séptima. Coordinación de Apoyo Parlamentario
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 179.
 
-Corresponde a la Tesorería:
+La Dirección de Investigación Legislativa es la dependencia de la Secretaría General encargada de los asuntos relacionados con la investigación legislativa, el control y administración de la biblioteca y el archivo, así como de la informática legislativa. Tendrá a su cargo las siguientes funciones:
 
-a) Ejercer el Presupuesto de Egresos del Congreso;
+I. Llevar a cabo investigaciones y estudios jurídicos de carácter histórico, comparativo y socio-jurídico sobre instituciones parlamentarias, instituciones públicas, derecho público, privado, social y, en general, sobre cualquier rama o disciplina afín, que contribuyan al ejercicio de las funciones legislativas;
 
-b) Elaborar los estados financieros mensuales y tener bajo su custodia la documentación que soporte y justifique el ejercicio del gasto público del Congreso;
+II. Dar curso a las solicitudes de investigación, estudios y análisis en materia especializada;
 
-c) Presentar a la Comisión de Hacienda, Cuenta Pública y Presupuesto los avances de gestión financiera y la cuenta pública del Congreso, por conducto del Oficial Mayor, dentro de los 20 días siguientes a la conclusión del trimestre al que corresponda su ejercicio, para los efectos que dispone la Ley del Órgano de Fiscalización Superior del Estado;
+III. Realizar estudios de derecho correlativo y comparado, con la finalidad de proporcionar elementos técnico- jurídicos a los diputados;
 
-d) Pagar las remuneraciones de los diputados, sueldos de los empleados y proveedores del Congreso, así como las que determinen la Comisión de Gobierno y el Oficial Mayor;
+IV. Proporcionar servicios especializados de información, investigación y análisis a los integrantes del Congreso;
 
-e) Proponer el anteproyecto de presupuesto anual del Congreso y apoyar al Oficial Mayor en su presentación ante las oficinas y funcionarios correspondientes;
+V. Promover la realización de reuniones académicas vinculadas al estudio del derecho e investigaciones parlamentarias;
 
-f) Tramitar y obtener, de la Secretaría de Finanzas, los recursos financieros autorizados en el presupuesto de egresos del Congreso;
+VI. Promover la celebración de convenios de colaboración con centros de estudios parlamentarios e instituciones académicas estatales y nacionales e instituciones afines; para el intercambio de experiencias y de personal, así como con especialistas;
 
-g) Aplicar los procedimientos para la integración y presentación de la cuenta pública del Congreso, con base en el registro de operaciones presupuestarias y contables efectuadas, y
+VII. Promover la capacitación continua del personal a su cargo y de los asesores de la Secretaría General, e involucrarse con las áreas correspondientes en las actividades relativas a la formación, actualización y especialización de los funcionarios del Servicio Profesional de Carrera;
 
-h) Formular y presentar a la Oficialía Mayor los estudios administrativos, los manuales de organización y de procedimientos administrativos de las áreas que proporcionan los servicios parlamentarios, administrativos y financieros.
+VIII. Conservar la compilación del marco jurídico federal y local vigente;
 
-#### Sección Octava. Archivo
+IX. Asesorar a las comisiones legislativas en lo relativo al marco jurídico aplicable, así como lo concerniente a la técnica legislativa, en la elaboración de los instrumentos legislativos;
+
+X. Supervisar el funcionamiento del Departamento de Biblioteca y Archivo del Congreso, fomentando la consulta, actualización e incremento del acervo biblio-hemerográfico así como la debida organización y resguardo de los expedientes que forman parte del archivo histórico del Congreso;
+
+XI. Proponer a la Comisión de Gobierno, por conducto de la Secretaría General, criterios para la adquisición de material bibliográfico, a fin de incrementar y mantener actualizado el acervo del Congreso;
+
+XII. Elaborar y aplicar un programa editorial y de divulgación sobre estudios especializados en derecho y prácticas parlamentarias;
+
+XIII. Supervisar e instrumentar la edición, impresión, distribución y publicación por las redes de comunicación del Congreso, la Gaceta Parlamentaria;
+
+XIV. Supervisar la actualización de la página de internet del Congreso, para lo cual contará con el auxilio de la Coordinación de Informática Legislativa;
+
+XV. Analizar el contenido de las disposiciones generales publicadas en el Diario Oficial de la Federación, a fin de identificar las facultades y obligaciones que correspondan a las entidades federativas;
+
+XVI. Dirigir los trabajos de la coordinación y departamento de su adscripción, y
+
+XVII. Elaborar y proponer ante la Secretaría General, el programa anual de actividades de la Dirección, Coordinación y Departamento a su cargo.
+
+En la Dirección de Investigación Legislativa se dará preferencia a un equipo de investigadores de un perfil multidisciplinario, para atender las funciones jurídico-parlamentarias, de conformidad con el Estatuto del Servicio Profesional de Carrera y el presupuesto disponible.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Octava. Coordinación de Informática Legislativa
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 180.
 
-Corresponde enunciativamente a la Unidad de Capacitación y Formación Permanente:
+La Coordinación de Informática Legislativa es la dependencia de la Dirección de Investigación Legislativa, responsable entre otras cosas, de implementar el uso y optimización de los recursos tecnológicos de comunicación e información en la realización de las actividades legislativas y administrativas propias del Congreso.
 
-a) Fomentar la eficiencia y eficacia de la gestión pública;
+La Coordinación de Informática Legislativa tendrá las siguientes obligaciones y funciones:
 
-b) Proponer a la Oficialía Mayor, las políticas institucionales relativas al ingreso, capacitación y permanencia;
+I. Planear, organizar y supervisar los servicios de informática parlamentaria;
 
-c) Registrará y procesará la información necesaria para la definición de los perfiles y requerimientos de los cargos previstos en los lineamientos que al efecto expida la Comisión de Gobierno;
+II. Realizar la digitalización de los documentos que genere el Congreso en ejercicio de sus atribuciones;
 
-d) Elaborar los estudios prospectivos para determinar las necesidades de formación y capacitación; y
+III. Mantener en óptimo funcionamiento los sistemas de cómputo existentes y solicitar la adquisición de los que sean necesarios para la modernización administrativa;
 
-e) Analizar y evaluar el desempeño de la gestión pública emitiendo las recomendaciones y conclusiones conducentes
+IV. Capacitar al personal en el manejo de los equipos de cómputo, sistemas operativos, paquetería de procesos y lenguaje de programación;
 
-#### Sección Primera. Dirección de Administración
+V. Realizar las tareas de apoyo administrativo que le indique la Secretaría General;
+
+VI. Recomendar y auxiliar a las dependencias del Congreso, respecto de soluciones tecnológicas e informáticas para optimizar los recursos y procesos operativos;
+
+VII. Editar, diseñar e imprimir la Gaceta Parlamentaria en atención a los plazos y formalidades previstas en el presente reglamento;
+
+VIII. Realizar las publicaciones en la página de internet de los documentos que indique la Secretaría General;
+
+IX. Instrumentar la transmisión en vivo por medio de circuito cerrado y en la página de internet, de las sesiones legislativas en atención a la normativa aplicable;
+
+X. Publicar el Diario de Debates y la versión estenográfica de las sesiones legislativas en la página de internet;
+
+XI. Implementar, operar y administrar en coordinación con las unidades administrativas y legislativas del Congreso, sistemas de comunicación e información, a fin de facilitar la comunicación electrónica y optimizar los recursos y procesos operativos;
+
+XII. En coordinación con la Secretaría General, garantizar la operación de las actuaciones electrónicas en el proceso legislativo;
+
+XIII. Implementar medidas de seguridad y expedir lineamientos que garanticen la integridad, confiabilidad y autenticidad de la información contenida en las actuaciones electrónicas;
+
+XIV. Formular y aplicar los programas de mantenimiento preventivo y correctivo;
+
+XV. Instrumentar, operar y administrar las redes de internet dentro del Congreso a efecto de garantizar a los legisladores y demás servidores públicos el acceso a este servicio;
+
+XVI. Instrumentar, diseñar, operar, administrar y actualizar la página de internet, garantizando que su contenido cumpla las especificaciones previstas en el presente reglamento;
+
+XVII. Evaluar semestralmente las necesidades de asignación, mantenimiento y actualización de equipos computacionales, al igual que de los programas de comunicación e informática necesarios, comunicando sus conclusiones a la Secretaría General;
+
+XVIII. Asesorar y coadyuvar a las instancias competentes del Congreso, en lo relativo a la celebración de convenios institucionales de intercambio de información Legislativa-Parlamentaria por cualquier tipo de tecnología;
+
+XIX. Instrumentar, operar y mantener las tecnologías necesarias para el desarrollo de las sesiones legislativas tales como los sistemas de votación electrónica y audiovisuales, así como los dispositivos necesarios para la visualización y manejo de los documentos electrónicos relacionados con los puntos a desahogar en el orden del día de cada sesión;
+
+XX. Elaborar los diseños e impresiones de los documentos que le sean solicitados por los legisladores y titulares de las dependencias administrativas y técnicas del Congreso, y
+
+XXI. Aquellas relacionadas con su función que deriven de las disposiciones de la Ley y del presente Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Novena. Departamento de Biblioteca y Archivo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 181.
 
-La Contraloría Interna es el órgano técnico encargado de recibir, realizar investigaciones, llevar a cabo auditorias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos de la Cámara, con excepción de los diputados, y su titular tendrá las siguientes facultades y obligaciones:
+El Departamento de Biblioteca y Archivo dependerá de la Dirección de Investigación Legislativa y tendrá las funciones siguientes:
 
-a) Formular el programa anual de control y de auditoría de la Cámara, someterlo a la aprobación de la Comisión de Gobierno y proceder a su ejecución;
+I. Ofrecer y difundir los servicios de información contenida en el acervo de la biblioteca y del archivo que requieran los integrantes y empleados del Congreso, así como a los ciudadanos en general;
 
-b) Diseñar, implantar y supervisar la operación del sistema de control y evaluación de las unidades administrativas de la Cámara;
+II. Controlar y resguardar el acervo bibliográfico, hemerográfico y electrónico de la biblioteca, así como fomentar la adquisición de nuevo material y garantizar la organización y preservación de los documentos resguardados;
 
-c) Verificar que las unidades administrativas de la Cámara cumplan con los acuerdos, normas, políticas y procedimientos aprobados por la Comisión de Gobierno;
+III. Organizar el sistema de préstamo de material biblio-hemerográfico y llevar un control del inventario actualizado;
 
-d) Coadyuvar con la Comisión de Hacienda, Cuenta Pública y Presupuesto en los procedimientos que se establezcan para la revisión de la Cuenta Pública;
+IV. Operar los lineamientos para la conservación de los archivos y expedientes del proceso legislativo y en general de la documentación que se genere en el Congreso en atención al presente reglamento, los acuerdos de Comisión de Gobierno y la Ley de Archivos del Estado;
 
-e) Recibir y atender las quejas y denuncias que conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, se presenten por la probable responsabilidad administrativa de los servidores públicos del Congreso;
+V. Integrar, registrar, clasificar y custodiar los expedientes de información del trabajo parlamentario del Pleno, Diputación Permanente y de las comisiones;
 
-f) Instruir y resolver los recursos que hagan valer los servidores públicos de la Cámara respecto a las resoluciones por las que se impongan sanciones administrativas en su contra;
+VI. Poner a disposición los servicios de consulta de expedientes en custodia y desahogar los requerimientos de los legisladores y dependencias administrativas y técnicas del Congreso;
 
-g) Atender las inconformidades que presenten los proveedores o contratistas en los procedimientos de adjudicación de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública que realice el Congreso;
+VII. Brindar asesoría y asistencia a las comisiones legislativas para la integración de expedientes y conformación de acervos de sus actividades legislativas;
 
-h) Participar, opinar, y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes del Congreso;
+VIII. Facilitar los servicios de reproducción documental, así como el cotejo de los documentos que se requieran para el desarrollo de las funciones del Congreso;
 
-i) En apoyo de la Comisión de Hacienda, Cuenta Pública y Presupuesto, vigilar y dar seguimiento a la situación patrimonial de los servidores públicos del Órgano Superior de Fiscalización, en los términos de la ley de la materia;
+IX. Compilar, registrar, clasificar y custodiar para su consulta la Gaceta Parlamentaria y el Periódico Oficial del Estado donde se contengan las resoluciones emitidas por el Congreso;
 
-j) Intervenir en los actos y procedimientos de la entrega-recepción de las dependencias y unidades técnicas, administrativas y legislativas del Congreso;
+X. Implementar y mantener en operación el sistema informático de organización y localización de la bibliografía y expedientes, para ello, se auxiliará de la Coordinación de Informática Legislativa;
 
-k) Auxiliar a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en la integración e interpretación de la información financiera, presupuestal y administrativa del Congreso y sus dependencias administrativas y técnicas, así como en las demás actividades de su competencia que considere necesario;
+XI. Promover convenios de intercambio de bibliografía y colaboración con instituciones afines; y
 
-l) Proponer a la Comisión de Gobierno, al personal que ha de ser contratado para auxiliar en el desempeño de sus funciones;
+XII. Las demás que se deriven del presente Reglamento y de las disposiciones y acuerdos de la Comisión de Gobierno.
 
-m) Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente; y
+### Capítulo IV. Contraloría Interna
 
-n) Las que le encomiende en la esfera administrativa la Comisión de Gobierno, así como las demás que las disposiciones legales y normativas le faculten.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-### Capítulo V. Áreas de Apoyo Técnico Administrativo
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 182.
 
-Corresponde al Departamento de Auditoría Financiera:
+La Oficialía Mayor es la dependencia responsable de la gestión financiera y administrativa interna del Congreso, y su titular tendrá las siguientes facultades y obligaciones:
 
-a) Evaluar el control interno existente en los sistemas aplicables para el registro contable de las operaciones financieras de la Cámara;
+I. Llevar la administración del Congreso con el apoyo de la estructura a su cargo;
 
-b) Realizar revisiones periódicas, a la información financiera;
+II. Coordinar la obtención de los recursos financieros, la programación, la elaboración de presupuestos, la administración financiera, la contabilidad y la cuenta pública del Congreso, así como la elaboración de los manuales de organización y procedimientos;
 
-c) Vigilar la correcta aplicación de los recursos financieros aprobados al Congreso, conforme al objeto del gasto programado, y las disposiciones legales y normativas aplicables en materia;
+III. Integrar y poner a la disposición de la Comisión de Gobierno, el anteproyecto de Presupuesto de Egresos del Congreso, de acuerdo con las necesidades operativas, las metas, objetivos, mejoras y prioridades que la propia Comisión apruebe;
 
-d) Revisar la cuenta pública de la Cámara y analizar la evolución del gasto; conforme al presupuesto aprobado para el ejercicio vigente;
+IV. Ejercer el presupuesto del Congreso de acuerdo con los lineamientos, estructuras, programas y calendarización aprobados, así como las normas aplicables para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra, procurando asegurar al Congreso las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
 
-e) Proceder con el análisis de las operaciones financieras, realizar evaluaciones, proporcionar asesoría y emitir recomendaciones de mejora; y
+V. Mantener actualizados los sistemas administrativos que sirvan de base para la evaluación y control de los recursos;
 
-f) Las demás que con tal carácter le confiera el Contralor Interno, la Comisión de Gobierno y las disposiciones legales vigentes.
+VI. Establecer proyectos de políticas laborales y darlos a conocer a la Comisión de Gobierno para su aprobación;
+
+VII. Coordinar las adquisiciones, servicios y suministros de las diversas dependencias del Congreso, conforme a las disposiciones que éste determine;
+
+VIII. La administración y custodia de los bienes muebles e inmuebles del Poder Legislativo;
+
+IX. Establecer y coordinar el sistema de informática para los asuntos administrativos;
+
+X. Someter a la aprobación de la Comisión de Gobierno, los proyectos de manual de organización y funcionamiento; así como el manual de políticas y procedimientos de la Oficialía Mayor;
+
+XI. Coordinar la aplicación de las políticas que regulan las relaciones laborales, la administración de los recursos humanos, así como el desarrollo del personal comprendido dentro del Servicio Profesional de Carrera;
+
+XII. Participar, asistir y representar al Congreso en los actos de administración, en el ámbito de su competencia;
+
+XIII. Dirigir la administración de los recursos materiales, inventarios, almacenes, adquisiciones y control de bienes muebles e inmuebles;
+
+XIV. Proponer a la aprobación de la Comisión de Gobierno, los lineamientos para la realización de licitaciones públicas o por invitación restringida para la adquisición de bienes;
+
+XV. Expedir, conforme a las normas aplicables, los nombramientos y las credenciales de identificación de los servidores públicos del Congreso;
+
+XVI. Coordinar y dirigir la administración de los servicios generales, los servicios de apoyo para la celebración de las reuniones de trabajo del Congreso, así como el de apoyo, equipamiento y operación de comunicaciones;
+
+XVII. Coordinar el Programa de Seguridad y de Protección Civil del Congreso;
+
+XVIII. Elaborar los directorios de integrantes de cada Legislatura;
+
+XIX. Llevar el registro histórico con información de la organización y composición de las Legislaturas;
+
+XX. Asistir al presidente de la Mesa Directiva o Comisión de Gobierno cuando solicite la intervención de la fuerza pública, coordinándose con los órganos externos de seguridad;
+
+XXI. Intervenir en los términos del estatuto del servicio profesional de carrera, en la planeación, organización, integración, desarrollo y regulación;
+
+XXII. Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente, y
+
+XXIII. Los demás que le asigne la Asamblea Legislativa, la Diputación Permanente y la Comisión de Gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 183.
 
-Corresponde al Departamento de Auditoría Operacional y Administrativa:
+La Oficialía Mayor, para el despacho de los asuntos de su competencia, se auxiliará con una secretaría particular designado por su titular.
 
-a) Efectuar las revisiones programadas a las unidades administrativas, verificando que el cumplimiento de sus funciones se realicen con apego a las normas y disposiciones aplicables en materia;
+#### Sección Primera. Dirección de Administración
 
-b) Revisar que los métodos, sistemas y procedimientos que siguen las unidades administrativas de la Cámara en todas las fases del proceso administrativo, cumplan con las políticas, planes programas y leyes aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-c) Revisar que los procesos operados por las unidades administrativas para las adquisiciones de materiales, suministros y bienes, así como contratación de servicios diversos, cumplan con las disposiciones legales y normatividad vigente;
-
-d) Proponer normas y procedimientos de control, tendientes a la optimización de los recursos humanos, materiales y financieros de que dispone la cámara, y requerir a las unidades administrativas la instrumentación de normas complementarias en el ejercicio de sus funciones:
-
-e) Diseñar y aplicar el sistema de evaluación del desempeño de los servidores públicos ubicados en las áreas administrativas y técnicas de la Cámara; y
-
-f) Las que le encomiende el Contralor Interno, la Comisión de Gobierno y las demás que las disposiciones legales le faculten.
-
-#### Sección Segunda. Departamento de Recursos Humanos
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 184.
 
-Las áreas de apoyo técnico de la Comisión de Gobierno son las dependencias administrativas que a continuación se enuncian:
+Corresponden a la Dirección de Administración las siguientes funciones:
 
-I. Coordinación de Comunicación Social,
+I. Establecer, coordinar y dirigir las políticas, normas y criterios técnicos de las áreas a su cargo;
 
-II. Unidad de Gestoría Social; y (sic)
+II. Programar, coordinar, dirigir y controlar los procesos para la administración de los recursos humanos, servicios generales, materiales financieros y de informática;
 
-III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
+III. Fomentar la realización de trabajos y otras actividades que se orienten a divulgar los enfoques, modalidades y técnicas del programa de modernización administrativa, y
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+IV. Coordinar y dirigir la integración y consolidación del proceso anual del anteproyecto del Presupuesto de Egresos del Congreso, verificando que se cumpla con la normatividad.
 
-IV. Unidad de Relaciones Públicas y Eventos Especiales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION P.O. 2 DE JULIO DE 2011)</small>
 
-V. Unidad de Asesores.
+#### Sección Segunda. Departamento de Recursos Humanos
 
-#### Sección Tercera. Departamento de Recursos Materiales y Servicios Generales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 185.
 
-La Coordinación de Comunicación Social es la oficina encargada de la difusión de actividades del Congreso; sirve de enlace con los medios de comunicación y su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes.
+Corresponde al Departamento de Recursos Humanos:
 
-#### Sección Cuarta. Tesorería
+I. Organizar un sistema de control de personal para promover mayor calidad en el trabajo;
+
+II. Llevar el control del personal, de asistencia, puntualidad y permanencia, vigilando el cumplimiento de las funciones que se le asignen;
+
+III. Determinar los mecanismos para el control interno del personal para la elaboración y actualización de plantillas, registros, apertura de expedientes y sistemas de control de asistencia;
+
+IV. Aplicar medidas disciplinarias cuando sea necesario;
+
+V. Aplicar las normas, políticas y lineamientos establecidos en materia de administración de recursos humanos;
+
+VI. Conducir los procesos de reclutamiento, selección, contratación, y promoción de los servidores públicos que no forman parte del Servicio Profesional de Carrera;
+
+VII. Coadyuvar, en el ámbito de su competencia, en lo relativo a los asuntos administrativos del personal adscrito al Servicio Profesional de Carrera;
+
+VIII. Formular, proponer y ejecutar el presupuesto en el ramo de servicios personales, así como coordinar la operación del sistema de pagos y prestaciones del Congreso;
+
+IX. Coadyuvar en la expedición, conforme a las normas aplicables, de los nombramientos y las credenciales de identificación de los servidores públicos del Congreso y realizar los movimientos que correspondan, así como tramitar los casos de terminación de los nombramientos y contratos;
+
+X. Proponer y ejecutar el programa anual de prestaciones y servicios, con el objeto de fortalecer las relaciones de trabajo, la recreación y el esparcimiento de los servidores públicos del Congreso, y
+
+XI. Realizar los trámites y acciones derivadas de la administración de las relaciones laborales ante las autoridades administrativas correspondientes; participar en la revisión de las condiciones generales de trabajo y convenios de prestaciones, así como llevar a cabo su difusión, y proveer lo necesario para su cumplimiento.
+
+#### Sección Tercera. Departamento de Recursos Materiales y Servicios Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 186.
 
-La Coordinación de Comunicación Social estará a cargo de un Coordinador, que deberá reunir los requisitos siguientes:
+Corresponde al titular del Departamento de Recursos Materiales y Servicios Generales las siguientes funciones:
 
-I. Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
+I. Controlar y vigilar la administración de los recursos materiales, el sistema de abasto y suministro de los bienes e insumos, así como proporcionar los servicios generales por unidad responsable;
 
-II. Haber cumplido 30 años de edad;
+II. Tramitar las adquisiciones de muebles, equipos y materiales de oficina para el buen funcionamiento de las dependencias de la Legislatura;
 
-III. Contar con título de licenciatura debidamente registrado ante autoridad competente y acreditar conocimiento y experiencia profesional en materia de comunicación social; y
+III. Crear controles de inventarios de bienes de consumo, muebles e inmuebles propiedad del Congreso;
 
-IV. No haber sido condenado por delito intencional que haya ameritado pena privativa de la libertad.
+IV. Atender la conservación y mantenimiento de las instalaciones y bienes muebles e inmuebles del Poder Legislativo;
 
-El titular de la Coordinación de Comunicación Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno.
+V. Mantener actualizado el inventario de bienes muebles e inmuebles del Poder Legislativo;
 
-#### Sección Quinta. Unidad de Capacitación y Formación Permanente
+VI. Formular el anteproyecto anual de adquisiciones de acuerdo con las necesidades de las dependencias para su buen funcionamiento;
+
+VII. Supervisar y controlar los servicios de intendencia, transporte y vigilancia, así como el sistema de sonido de las salas de sesiones, comisiones y actividades que celebre el Congreso;
+
+VIII. Proponer y aplicar las políticas de administración de recursos materiales y de adquisición de bienes y servicios;
+
+IX. Elaborar, proponer y ejecutar el programa y presupuesto anual de adquisiciones, con base en las normas y disposiciones jurídicas aplicables en el Congreso;
+
+X. Proponer y aplicar las políticas de administración de los servicios generales, de apoyo a las reuniones del Congreso;
+
+XI. Atender las necesidades de espacios físicos, adaptaciones, mantenimiento, estacionamientos e instalaciones de los inmuebles, y realizar la contratación de obra pública y servicios correlativos a la misma;
+
+XII. Establecer la organización para la atención integral de las reuniones que se realicen en el Congreso;
+
+XIII. Organizar y disponer de los recursos materiales, humanos y técnicos necesarios para proporcionar los servicios de salvaguarda y seguridad del Congreso;
+
+XIV. Proponer y ejecutar las acciones del programa de protección civil del Congreso, y
+
+XV. Dar curso a la correspondencia que emita el Congreso.
+
+#### Sección Cuarta. Tesorería
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 187.
 
-Al titular de la Coordinación de Comunicación Social le corresponden las funciones siguientes:
+Corresponde a la Tesorería:
 
-a) Auxiliar al presidente de la Comisión de Gobierno en la elaboración y ejecución del programa de comunicación social del Congreso, que permita una difusión sistemática y adecuada de las actividades legislativas, en los medios de comunicación;
+I. Ejercer el Presupuesto de Egresos del Congreso;
 
-b) Fungir como enlace con los representantes de los medios de información, acreditarlos y otorgarles las atenciones necesarias para el cumplimiento de su función;
+II. Elaborar los estados financieros mensuales y tener bajo su custodia la documentación que soporte y justifique el ejercicio del gasto público del Congreso;
 
-c) Asistir al presidente de la Comisión de Gobierno para que informe a los medios de comunicación sobre las iniciativas, proyectos o resoluciones del Congreso;
+III. Presentar a la Comisión de Hacienda, Cuenta Pública y Presupuesto los avances de gestión financiera y la cuenta pública del Congreso, por conducto del Oficial Mayor para los efectos que dispone la Ley del Órgano de Fiscalización Superior del Estado;
 
-d) Integrar, coordinar, ejecutar y supervisar el programa de imagen institucional del Congreso;
+IV. Pagar las remuneraciones de los diputados, sueldos de los empleados y proveedores del Congreso, así como las que determinen la Comisión de Gobierno y el Oficial Mayor;
 
-e) Captar, analizar y difundir entre los diputados, la información de los medios de comunicación referentes a los asuntos de interés del Congreso;
+V. Proponer el anteproyecto de presupuesto anual del Congreso y apoyar al Oficial Mayor en su presentación ante las oficinas y funcionarios correspondientes;
 
-f) Asistir a los diputados en el desarrollo de las acciones necesarias para difundir sus actividades, y
+VI. Tramitar y obtener, de la Secretaría de Administración del Poder Ejecutivo, los recursos financieros autorizados en el presupuesto de egresos del Congreso;
 
-g) (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2008)
+VII. Aplicar los procedimientos para la integración y presentación de la cuenta pública del Congreso, con base en el registro de operaciones presupuestarias y contables efectuadas, y
 
-#### Sección Primera. Departamento de Auditoría Financiera
+VIII. Formular y presentar a la Oficialía Mayor los estudios administrativos, los manuales de organización y de procedimientos administrativos de las áreas que proporcionan los servicios parlamentarios, administrativos y financieros.
+
+#### Sección Quinta. Unidad de Capacitación y Formación Permanente
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 188.
 
-La Unidad de Gestoría Social será la oficina de recepción, organización, control y seguimiento de la gestión de los asuntos que sean turnados por los diputados en el ejercicio de sus funciones, en atención a los problemas de sus distritos y, en general, todos aquellos que impliquen la intervención institucional ante las autoridades federales, estatales y municipales.
+Corresponde enunciativamente a la Dirección de Capacitación y Formación Permanente:
 
-Su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes, y deberá rendir informe mensual al Presidente de la Comisión de Gobierno sobre los asuntos atendidos y los resultados que en su caso obtengan.
+I. Fomentar la eficiencia y eficacia de la gestión pública;
+
+II. Proponer a la Oficialía Mayor, las políticas institucionales relativas al ingreso, capacitación y permanencia;
+
+III. Registrará y procesará la información necesaria para la definición de los perfiles y requerimientos de los cargos previstos en los lineamientos que al efecto expida la Comisión de Gobierno, y
+
+IV. Elaborar los estudios prospectivos para determinar las necesidades de formación y capacitación.
+
+#### Sección Primera. Departamento de Auditoría Financiera
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 #### Sección Segunda. Departamento de Auditoría Operacional y Administrativa
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
 #### Sección Primera. Coordinación de Comunicación Social
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 #### Sección Segunda. Unidad de Gestoría Social
 
-#### Sección Tercera. Unidad de Transparencia y Acceso a la Información
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Tercera. Unidad de Enlace para la Transparencia y Acceso a la Información Pública
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
 
 #### Sección Cuarta. Unidad de Relaciones Públicas y Eventos Especiales
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
 
 #### Sección Quinta. Unidad de Asesores
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
 
 #### Sección Primera. Justificaciones 8
 
@@ -2841,57 +3397,207 @@ Su titular será nombrado por la Comisión de Gobierno por el voto ponderado de 
 
 #### Sección Segunda. Competencia de las Comisiones 23
 
-#### Sección Tercera. Junta Directiva de las Comisiones 35
+### Capítulo V. Áreas de Apoyo Técnico Administrativo
 
-### Capítulo I. Disposiciones Generales 2
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
 
 ###### Artículo 189.
 
-La Unidad de Gestoría Social estará a cargo de un Coordinador, quien deberá reunir los requisitos siguientes:
+La Contraloría Interna es el órgano técnico encargado de recibir, realizar investigaciones, llevar a cabo auditorías y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos de la Cámara, con excepción de los diputados, y su titular tendrá las siguientes facultades y obligaciones:
 
-a) Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
+I. Formular el programa anual de control y de auditoría de la Cámara, someterlo a la aprobación de la Comisión de Gobierno y proceder a su ejecución;
 
-b) Haber cumplido 30 años de edad;
+II. Diseñar, implantar y supervisar la operación del sistema de control y evaluación de las unidades administrativas de la Cámara;
 
-c) Contar con título de licenciatura debidamente registrado ante autoridad competente y acreditar experiencia en la materia, y
+III. Verificar que las unidades administrativas de la Cámara cumplan con los acuerdos, normas, políticas y procedimientos aprobados por la Comisión de Gobierno.
 
-d) No haber sido condenado por delito intencional que haya ameritado pena privativa de la libertad.
+IV. Coadyuvar con la Comisión de Hacienda, Cuenta Pública y Presupuesto en los procedimientos que se establezcan para la revisión de la Cuenta Pública;
 
-El titular de la Unidad de Gestoría Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno.
+V. Recibir y atender las quejas y denuncias que conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, se presenten por la probable responsabilidad administrativa de los servidores públicos del Congreso;
 
-#### Sección Cuarta. Funcionamiento de las Comisiones 36
+VI. Instruir y resolver los recursos que hagan valer los servidores públicos de la Cámara respecto a las resoluciones por las que se impongan sanciones administrativas en su contra;
+
+VII. Atender las inconformidades que presenten los proveedores o contratistas en los procedimientos de adjudicación de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública que realice el Congreso:
+
+VIII. Participar, opinar, y asesorar en su caso, sobre los procedimientos de adquisiciones, prestación de servicios y obra pública, así como en los de enajenación de bienes del Congreso;
+
+IX. En apoyo de la Comisión de Hacienda, Cuenta Pública y Presupuesto, vigilar y dar seguimiento a la situación patrimonial de los servidores públicos del Órgano Superior de Fiscalización, en los términos de la ley de la materia;
+
+X. Intervenir en los actos y procedimientos de la entrega-recepción de las dependencias y unidades técnicas, administrativas y legislativas del Congreso;
+
+XI. Auxiliar a la Comisión de Hacienda, Cuenta Pública y Presupuesto, en la integración e interpretación de la información financiera, presupuestal y administrativa del Congreso y sus dependencias administrativas y técnicas, así como en las demás actividades de su competencia que considere necesario;
+
+XII. Proponer a la Comisión de Gobierno, al personal que ha de ser contratado para auxiliar en el desempeño de sus funciones;
+
+XIII. Rendir cada año por escrito ante la Asamblea un informe de actividades, mismo que deberá remitirse a la Comisión de Gobierno para su conocimiento y evaluación correspondiente;
+
+XIV. Diseñar y supervisar las metodologías que permitan evaluar el desempeño de los servidores públicos del Congreso, y el cumplimiento de los programas de las dependencias, y
+
+XV. Las que le encomiende en la esfera administrativa la Comisión de Gobierno, así como las demás que las disposiciones legales y normativas le faculten.
+
+#### Sección Tercera. Junta Directiva de las Comisiones 35
 
 ###### Artículo 190.
 
-La Unidad de Enlace y Acceso a la Información, es la unidad administrativa responsable de recibir y despachar las solicitudes de información pública que se formulen ante el Congreso, y dependerá directamente de la Comisión de Gobierno.
+Corresponde al Departamento de Auditoría Financiera:
 
-Tendrá las funciones que establece la ley de la materia su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes.
+I. Evaluar el control interno existente en los sistemas aplicables para el registro contable de las operaciones financieras de la Cámara;
 
-#### Sección Primera. Clasificación y Reglas Generales 40
+II. Realizar revisiones periódicas, a la información financiera;
+
+III. Vigilar la correcta aplicación de los recursos financieros aprobados al Congreso, conforme al objeto del gasto programado, y las disposiciones legales y normativas aplicables en materia;
+
+IV. Revisar la cuenta pública de la Cámara y analizar la evolución del gasto; conforme al presupuesto aprobado para el ejercicio vigente;
+
+V. Proceder con el análisis de las operaciones financieras, realizar evaluaciones, proporcionar asesoría y emitir recomendaciones de mejora, y
+
+VI. Las demás que con tal carácter le confiera el Contralor Interno, la Comisión de Gobierno y las disposiciones legales vigentes.
+
+#### Sección Cuarta. Funcionamiento de las Comisiones 36
 
 ###### Artículo 191.
 
-La Unidad de Transparencia y Acceso a la Información estará a cargo de un titular que tendrá las siguientes funciones:
+Corresponde al Departamento de Auditoría Operacional y Administrativa:
 
-a) Recibir, dar trámite y contestar las solicitudes de acceso a la información, referidas en la ley;
+I. Efectuar las revisiones programadas a las unidades administrativas, verificando que el cumplimiento de sus funciones se realicen con apego a las normas y disposiciones aplicables en materia;
 
-b) Recabar y difundir la información pública y propiciar la actualización periódicamente;
+II. Revisar que los métodos, sistemas y procedimientos que siguen las unidades administrativas de la Cámara en todas las fases del proceso administrativo, cumplan con las políticas, planes programas y leyes aplicables;
 
-c) Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las entidades públicas que pudieran tener la información que solicitan;
+III. Revisar que los procesos operados por las unidades administrativas para las adquisiciones de materiales, suministros y bienes, así como contratación de servicios diversos, cumplan con las disposiciones legales y normatividad vigente;
 
-d) Realizar los trámites internos de cada dependencia o ente, necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
+IV. Proponer normas y procedimientos de control, tendientes a la optimización de los recursos humanos, materiales y financieros de que dispone la cámara, y requerir a las unidades administrativas la instrumentación de normas complementarias en el ejercicio de sus funciones, y
 
-e) Proponer a la Comisión de Gobierno por conducto del Presidente, los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+V. Las que le encomiende el Contralor Interno, la Comisión de Gobierno y las demás que las disposiciones legales le faculten.
 
-f) Habilitar a los servidores públicos de la dependencia o ente que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información;
-
-g) Llevar registro de las solicitudes de acceso a la información así, como la eficiencia y eficacia de las respuestas y;
-
-h) Las demás necesarias para garantizar y agilizar el flujo de información entre la entidad pública y los particulares.
-
-### Capítulo II. Instalación de la Legislatura 3
+### Capítulo I. Disposiciones Generales 2
 
 ###### Artículo 192.
+
+Las áreas de apoyo técnico de la Comisión de Gobierno son las dependencias administrativas que a continuación se enuncian:
+
+I. Coordinación de Comunicación Social;
+
+II. Unidad de Gestoría Social;
+
+III. Unidad de Enlace para la Transparencia y Acceso a la Información Pública;
+
+IV. Unidad de Relaciones Públicas y Eventos Especiales, y
+
+V. Unidad de Asesores.
+
+#### Sección Primera. Clasificación y Reglas Generales 40
+
+###### Artículo 193.
+
+La Coordinación de Comunicación Social es la oficina encargada de la difusión de las actividades del Congreso; sirve de enlace con los medios de comunicación y su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 194.
+
+La Coordinación de Comunicación Social estará a cargo de un Coordinador, que deberá reunir los requisitos siguientes:
+
+I. Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
+
+II. Haber cumplido 30 años de edad;
+
+III. Contar con título de licenciatura debidamente registrado ante autoridad competente y acreditar conocimiento y experiencia profesional en materia de comunicación social; y
+
+IV. No haber sido condenado por delito intencional que haya ameritado pena privativa de la libertad.
+
+El titular de la Coordinación de Comunicación Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 195.
+
+Al titular de la Coordinación de Comunicación Social le corresponden las funciones siguientes:
+
+I. Auxiliar al presidente de la Comisión de Gobierno en la elaboración y ejecución del programa de comunicación social del Congreso, que permita una difusión sistemática y adecuada de las actividades legislativas, en los medios de comunicación;
+
+II. Fungir como enlace con los representantes de los medios de información, acreditarlos y otorgarles las atenciones necesarias para el cumplimiento de su función;
+
+III. Asistir al presidente de la Comisión de Gobierno para que informe a los medios de comunicación sobre las iniciativas, proyectos o resoluciones del Congreso;
+
+IV. Integrar, coordinar, ejecutar y supervisar el programa de imagen institucional del Congreso;
+
+V. Captar, analizar y difundir entre los diputados, la información de los medios de comunicación referentes a los asuntos de interés del Congreso, y
+
+VI. Asistir a los diputados en el desarrollo de las acciones necesarias para difundir sus actividades.
+
+#### Sección Segunda. Orden del Día de las Sesiones 42
+
+###### Artículo 196.
+
+La Unidad de Gestoría Social será la oficina de recepción, organización, control y seguimiento de la gestión de los asuntos que sean turnados por los diputados en el ejercicio de sus funciones, en atención a los problemas de sus distritos y, en general, todos aquellos que impliquen la intervención institucional ante las autoridades federales, estatales y municipales.
+
+Su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes, y deberá rendir informe mensual al Presidente de la Comisión de Gobierno sobre los asuntos atendidos y los resultados que en su caso obtengan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 197.
+
+La Unidad de Gestoría Social deberá reunir los requisitos siguientes:
+
+I. Ser mexicano por nacimiento y estar en pleno goce de sus derechos;
+
+II. Haber cumplido 30 años de edad;
+
+III. Contar con título de Licenciatura debidamente registrado ante autoridad competente y acreditar experiencia en la materia, y
+
+IV. No haber sido condenado por delito intencional que haya ameritado pena privativa de la libertad.
+
+El titular de la Unidad de Gestoría Social será sustituido en sus ausencias por el funcionario que designe la Comisión de Gobierno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE JULIO DE 2011)</small>
+
+#### Sección Tercera. Acta de las Sesiones 44
+
+###### Artículo 198.
+
+La Unidad de Enlace para la Transparencia y Acceso a la Información Pública, es la unidad administrativa responsable de recibir y despachar las solicitudes de información pública que se formulen ante el Congreso, y dependerá directamente de la Comisión de Gobierno.
+
+Tendrá las funciones que establece la ley de la materia su titular será nombrado por la Comisión de Gobierno por el voto ponderado de sus integrantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 199.
+
+La Unidad de Enlace para la Transparencia y Acceso a la Información Pública estará a cargo de un titular que tendrá las siguientes funciones:
+
+I. Recibir, dar trámite y contestar las solicitudes de acceso a la información, referidas en la ley;
+
+II. Recabar y difundir la información pública y propiciar la actualización periódicamente;
+
+III. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las entidades públicas que pudieran tener la información que solicitan;
+
+IV. Realizar los trámites internos de cada dependencia o ente, necesarios para entregar la información solicitada, además de efectuar las notificaciones a los particulares;
+
+V. Proponer a la Comisión de Gobierno por conducto del Presidente, los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+VI. Habilitar a los servidores públicos de la dependencia o ente que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VII. Llevar registro de las solicitudes de acceso a la información así, como la eficiencia y eficacia de las respuestas, y
+
+VIII. Las demás necesarias para garantizar y agilizar el flujo de información entre la entidad pública y los particulares.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2011)</small>
+
+###### Artículo 200.
 
 El Poder Legislativo tendrá un Comité de información, que se denominará Comité de Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado. Su integración y funcionamiento lo determinarán las normas de la materia.
 
@@ -2899,27 +3605,21 @@ El Comité será el órgano interno del Congreso y tiene por objeto analizar, di
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
 
-#### Sección Segunda. Orden del Día de las Sesiones 42
+#### Sección Cuarta. Público que Asista a las Sesiones 45
 
-###### Artículo 193.
+###### Artículo 201.
 
 La Unidad de Relaciones Públicas y Eventos Especiales, es la responsable de desarrollar las actividades relacionadas con la atención a los distintos sectores que integran a la sociedad en general, así como planear, organizar y ejecutar la celebración de eventos de conformidad con el programa de actividades que dicte la Comisión de Gobierno.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 27 DE NOVIEMBRE DE 2008)</small>
 
-###### Artículo 194.
+#### Sección Quinta. Ceremonial y Protocolo de las Sesiones 46
+
+###### Artículo 202.
 
 La Unidad de Asesores es la responsable de proporcionar asesoría multidisciplinaria a la Comisión de Gobierno; y por conducto de su Presidente, a los Grupos y Representaciones Parlamentarias.
 
-#### Sección Tercera. Acta de las Sesiones 44
-
-#### Sección Cuarta. Público que Asista a las Sesiones 45
-
-#### Sección Quinta. Ceremonial y Protocolo de las Sesiones 46
-
 #### Sección Primera. Formalidades 47
-
-#### Sección Segunda. Iniciativas de Ley o Decreto 48
 
 ## TRANSITORIOS
 
@@ -2939,21 +3639,23 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ## TÍTULO PRIMERO. Poder Legislativo
 
+### Capítulo II. Instalación de la Legislatura 3
+
 ### Capítulo III. Derechos y Obligaciones de los Diputados 5
 
 ### Capítulo IV. Asistencia, Permanencia y Orden 8
 
 ### Capítulo V. Medidas Disciplinarias 9
 
-### Capítulo I. Asamblea Legislativa 10
+#### Sección Segunda. Iniciativas de Ley o Decreto 48
 
 #### Sección Tercera. Iniciativa de Acuerdo 49
 
-#### Sección Cuarta. Dictámenes Legislativos 50
-
-### Capítulo II. Comisión de Gobierno Legislativo 11
+### Capítulo I. Asamblea Legislativa 10
 
 ## TÍTULO SEGUNDO. Organización y Funcionamiento del Congreso
+
+### Capítulo II. Comisión de Gobierno Legislativo 11
 
 ### Capítulo III. Mesa Directiva 13
 
@@ -2961,19 +3663,19 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 ### Capítulo V. Grupos Parlamentarios 20
 
-### Capítulo VI. Diputación Permanente 21
+#### Sección Cuarta. Dictámenes Legislativos 50
 
 #### Sección Quinta. Dispensa de Trámites 53
 
 #### Sección Sexta. Debates Legislativos 53
 
-#### Sección Séptima. Moción Suspensiva 59
+### Capítulo VI. Diputación Permanente 21
 
 ### Capítulo VII. Comisiones Legislativas 22
 
 ### Capítulo I. Las sesiones 40
 
-### Capítulo II. Procedimiento Legislativo 47
+#### Sección Séptima. Moción Suspensiva 59
 
 #### Sección Octava. Votaciones 60
 
@@ -2981,11 +3683,11 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
 #### Sección Décima. Diario de los Debates 64
 
-#### Sección Única. Comparecencias e Interpelaciones 64
-
 ## TÍTULO TERCERO. Proceso legislativo
 
-### Capítulo III. Informe de Gobierno 64
+### Capítulo II. Procedimiento Legislativo 47
+
+#### Sección Única. Comparecencias e Interpelaciones 64
 
 #### Sección Primera. Disposiciones Generales para los Directores y
 
@@ -2997,9 +3699,9 @@ Coordinadores Adscritos a la Secretaria General 70
 
 #### Sección Cuarta. Dirección de Investigación Legislativa y Biblioteca 73
 
-#### Sección Quinta. Coordinación de la Crónica Parlamentaria 75
+### Capítulo III. Informe de Gobierno 64
 
-### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
+#### Sección Quinta. Coordinación de la Crónica Parlamentaria 75
 
 #### Sección Sexta. Coordinación de Informática Legislativa 75
 
@@ -3021,17 +3723,17 @@ Generales 83
 
 #### Sección Primera. Departamento de Auditoría Financiera 86
 
+### Capítulo I. Estructura Técnica y Administrativa del Congreso 66
+
 #### Sección Segunda. Departamento de Auditoría Operacional y Administrativa 87
-
-### Capítulo II. Secretaría General del Congreso 67
-
-#### Sección Primera. Coordinación de Comunicación Social 88
 
 ## TÍTULO CUARTO. Organización y Funciones Administrativas del Congreso
 
+### Capítulo II. Secretaría General del Congreso 67
+
 ### Capítulo III. Oficialía Mayor 79
 
-### Capítulo IV. Contraloría Interna 85
+#### Sección Primera. Coordinación de Comunicación Social 88
 
 #### Sección Segunda. Unidad de Gestoría Social 89
 
@@ -3060,5 +3762,13 @@ Artículo Segundo.- De conformidad a lo dispuesto por el artículo 35, fracción
 P.O. 5 DE JUNIO DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 2 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor en treinta días posteriores a la fecha de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá publicarse edición especial de la Gaceta Parlamentaria con el contenido íntegro de la Ley Orgánica del Poder Legislativo y Reglamento para el Gobierno Interior del Congreso.
+
+### Capítulo IV. Contraloría Interna 85
 
 ### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
