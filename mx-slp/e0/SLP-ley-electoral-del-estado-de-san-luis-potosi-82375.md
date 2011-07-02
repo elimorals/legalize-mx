@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-82375"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-30"
-last_updated: "2011-06-30"
+last_updated: "2011-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 2 DE JULIO DE 2011.</small>
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de junio de 2011.
 
@@ -1657,9 +1657,9 @@ En la elección del Contralor Interno del Consejo, el Congreso del Estado se suj
 
 l. Nombrará una comisión especial de siete diputados, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección del Contralor Interno, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo; misma que deberá ser publicada en el Periódico Oficial del Estado, y en cuando menos uno de los diarios locales de mayor circulación en la Entidad;
+II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección del Contralor Interno, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo; misma que deberá ser publicada en el Periódico Oficial del Estado, y en cuando menos uno de los diaños locales de mayor circulación en la Entidad;
 
-III. La comisión integrará una lista no menor de tres candidatos, que presentará a la consideración del Pleno del Congreso del Estado;
+III. La comisión integrará una lista no menor de tres candidatos, que presentará a la consideración del Pleno el Congreso del Estado;
 
 IV. De la lista presentada por la comisión especial, el Congreso, en Pleno, elegirá, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes, a quien deberá fungir como Contralor Interno del Consejo, y
 
@@ -1759,11 +1759,11 @@ El Servicio Profesional Electoral es un sistema que garantiza el ingreso, desarr
 
 El Servicio Profesional Electoral será regulado por el Pleno del Consejo, a través del estatuto o reglamento que al efecto emita, el que deberá responder a los principios de claridad, transparencia, imparcialidad y oportunidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 2 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 118.
 
-Las relaciones de trabajo del Consejo con sus trabajadores se regirán por las disposiciones de la Ley de Trabajadores del Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
+Las relaciones de trabajo del Consejo con sus trabajadores se regirán por las disposiciones de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
 
 Los funcionarios que integren los cuerpos del Servicio Profesional Electoral y el Consejo, serán considerados trabajadores de confianza y quedarán sujetos a lo que establece la legislación aplicable y el estatuto o reglamento que expida el Pleno del Consejo.
 
@@ -2805,7 +2805,7 @@ I. Gastos de propaganda:
 
 a) Comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
 
-II. Gastos operativos de la campaña:
+Il. Gastos operativos de la campaña:
 
 a) Comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
 
