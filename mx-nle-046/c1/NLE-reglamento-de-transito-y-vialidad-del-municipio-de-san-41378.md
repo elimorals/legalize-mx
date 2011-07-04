@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-41378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2006-12-15"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de octubre de 2004.
 
@@ -117,7 +117,7 @@ Placa.- Plancha de metal en que figura el número de matrícula que permite indi
 
 Peatón.- Persona que transita a pie por la vía pública o zonas privadas con acceso al público o camina asistiéndose de aparatos o de vehículos no regulados por este reglamento, ésto en el caso de las personas con capacidades diferenciadas.
 
-Permiso de Circulación.- Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas.
+DEROGADO VIGÉSIMO CUARTO PÁRRAFO, P.O. 4 DE JULIO DE 2011)
 
 Purgar.- Acción de evacuar o eliminar un fluido de cualquier depósito utilizado para el transporte de materiales y residuos peligrosos.
 
@@ -275,7 +275,7 @@ II. Tarjeta de circulación vigente original. En el caso de los autobuses de tra
 
 III. Calcomanía de placas y refrendo vigente;
 
-IV. Permiso provisional vigente al carecer de los anteriores requisitos, solo en el caso de vehículos de uso particular.
+IV. (DEROGADA, P.O. 4 DE JULIO DE 2011)
 
 Quedan exentos de esta obligación los vehículos al servicio de las fuerzas armadas del país, los cuales se identificarán mediante los colores oficiales y sus números de matrícula.
 
@@ -353,15 +353,7 @@ En caso de robo o extravío de placas, el propietario del vehículo deberá de h
 
 ###### ARTÍCULO 20.
 
-La Autoridad Municipal podrá expedir permisos para circular sin placas, en los casos siguientes:
-
-I. Cuando su propietario o conductor resida fuera del Municipio, y demuestre la necesidad de permanecer en la ciudad y la(s) placa(s) faltante(s) haya(n) sido robada(s), para lo cual deberá presentar constancia de aviso a la Autoridad Persecutoria del delito;
-
-II. Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas definitivas ante la Secretaría de Finanzas y Tesorería General del Estado;
-
-III. En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes fuera de ella y que requieran trasladarlos a su destino.
-
-Además de lo anterior, deberá presentar: factura y/o carta factura del vehículo, la baja correspondiente, comprobante de domicilio, su credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+(DEROGADO, P.O. 4 DE JULIO DE 2011)
 
 ###### ARTÍCULO 21.
 
@@ -468,6 +460,18 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o un
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
 VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Sólo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Los vidrios entintados de fábrica si serán permitidos.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Se aplicará una sanción de 70 cuotas como límite inferior y de 80 cuotas como límite superior a quien porte polarizados después de la puesta en vigor de esta medida. La sanción quedará sin efecto si en un plazo de quince días naturales siguientes el conductor demuestra ante la autoridad correspondiente el retiro de su polarizado.
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -1901,7 +1905,9 @@ D) Se remitirá al menor al Consejo Estatal de Menores.
 
 Se impedirá la circulación de vehículos y se retirarán de la vía pública, y en su caso se remitirán para depósito mediante el servicio de grúa, al verificarse cualquiera de los siguientes supuestos:
 
-I. Cuando le falten al vehículo ambas placas o el permiso correspondiente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+I. Cuando le falten al vehículo ambas placas,
 
 II. Cuando las placas del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
@@ -2033,9 +2039,11 @@ V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que cor
 
 TABULADOR DE INFRACCIONES
 
-> <small>N. DE E. VEASE TABULADOR DE INFRACCIONES EN EL P. O. DE 1 DE OCTUBRE DE 2004, PAGINAS DE LA 80 A LA 90.</small>
+> <small>N. DE E. VÉASE TABULADOR DE INFRACCIONES EN EL P. O. DE 1 DE OCTUBRE DE 2004, PÁGINAS DE LA 80 A LA 90.</small>
 
-> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 15 DE DICIEMBRE DE 2006, PAGINA 23.</small>
+> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 15 DE DICIEMBRE DE 2006, PÁGINA 23.</small>
+
+> <small>N. DE E. VÉASE REFORMAS AL TABULADOR DE INFRACCIONES EN EL P.O. 4 DE JULIO DE 2011, PÁGINA 36.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2205,10 +2213,14 @@ Lic. Gustavo Ramírez Villarreal
 
 Secretario del Ayuntamiento
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 15 DE DICIEMBRE DE 2006.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Publíquese la presente reforma en la Gaceta Municipal para su debida difusión y en el portal electrónico de Internet del Municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
+
+P.O. 4 DE JULIO DE 2011.
+
+Único: La presente reforma entrará en vigor a partir del 05 de julio del 2011.
