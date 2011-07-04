@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-santa-41181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-29"
-last_updated: "2008-04-23"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de septiembre de 2004.
 
@@ -469,7 +469,13 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o un
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor.
+
+Solo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas.
+
+los vidrios entintados de fábrica si serán permitidos.
 
 IX. TABLERO DEL CONTROL DE VEHÍCULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -2023,7 +2029,7 @@ IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retir
 
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 137.
 
@@ -2182,3 +2188,15 @@ P.O. 23 DE ABRIL DE 2008.
 PRIMERO. Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO. Envíese al Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 4 DE JULIO DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 01 DE JULIO DE 2011 POR EL QUE SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN".]
+
+TANSITORIO (SIC)
+
+La Sanción prevista en el numero 22 del tabulador de Sanciones del Artículo 136, Fracción V, quedara sin efecto si en un plazo de 15 días naturales el conductor demuestra ante la autoridad correspondiente el retiro de su polarizado.
+
+## TRANSITORIOS
+
+ÚNICO.- El presente acuerdo surtirá efectos al momento de su aprobación y Publicación en el Periódico Oficial del Estado.
