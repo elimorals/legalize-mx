@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-los-servicios-de-salud-de-sonora-67943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-26"
-last_updated: "2009-03-26"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de marzo del 2009.
 
@@ -73,25 +73,31 @@ a) La Junta de Gobierno.
 
 b) El Presidente Ejecutivo.
 
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
 II. UNIDADES ADMINISTRATIVAS:
 
-a) Coordinación General de Servicios de Salud
+a) Coordinación General de Servicios de Salud;
 
-b) Coordinación General de Administración
+b) Coordinación General de Administración y Finanzas;
 
-c) Dirección General de Servicios de Salud a la Comunidad
+c) Dirección General de Servicios de Salud a la Comunidad;
 
-d) Dirección General de Servicios de Salud a la Persona
+d) Dirección General de Servicios de Salud a la Persona;
 
-e) Dirección General de Enseñanza y Calidad
+e) Dirección General de Enseñanza y Calidad;
 
-f) Dirección General de Administración
+f) Dirección General de Administración;
 
-g) Dirección General de Innovación y Desarrollo
+g) Dirección General de Planeación y Desarrollo;
 
-h) Dirección General del Régimen de Protección Social en Salud
+h) Dirección General del Régimen de Protección Social en Salud;
 
-i) Unidad de Asuntos Jurídicos
+i) Dirección de Tecnologías de la Información y Comunicaciones;
+
+j) Dirección de Infraestructura Física; y
+
+k) Unidad de Asuntos Jurídicos.
 
 III. ÓRGANOS DESCONCENTRADOS:
 
@@ -113,7 +119,13 @@ h) Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones d
 
 i) Centro de Desarrollo Infantil SNTSA-SECCIÓN 43
 
-j) Jurisdicciones Sanitarias
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+
+j) Unidad de Especialidades Médicas de Cirugía Ambulatoria; y
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+
+k) Jurisdicciones Sanitarias.
 
 Se anexa organigrama estructural.
 
@@ -383,9 +395,11 @@ VIII.- Propiciar el desarrollo de sistemas estratégicos de información dinámi
 
 IX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-A la Coordinación General de Administración le corresponden las siguientes atribuciones:
+A la Coordinación General de Administración y Finanzas le corresponden las siguientes atribuciones:
 
 I.- Coordinar la elaboración del Programa Operativo Anual, del Programa Presupuesto y del Informe Trimestral y Anual de la Cuenta de la Hacienda Pública de los Servicios, de acuerdo a las políticas, normas y procedimientos aplicables;
 
@@ -397,15 +411,23 @@ IV.- Dirigir la operación del recurso humano, en apego a las disposiciones lega
 
 V.- Coordinar la actualización del Reglamento Interior de los Servicios y de sus Manuales de Organización, de Procedimientos y de Servicios al Público, de acuerdo a los lineamientos establecidos por la Secretaría de la Contraloría General;
 
-VI.- Participar en la definición de prioridades del Programa de Inversión con base en el Plan Estatal Maestro de Infraestructura Física en Salud para Población Abierta, con relación a las necesidades priorizadas de las áreas de los Servicios, llevando a cabo el seguimiento programático-presupuestal;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-VII.- Participar en la integración y seguimiento del Programa de Inversión y de equipamiento, coordinadamente con las áreas competentes en esta materia;
+VI.- Participar en la definición de prioridades del Programa de Inversión con base en el Plan Estatal Maestro de Infraestructura Física en Salud, con relación a las necesidades priorizadas de las áreas de los Servicios, llevando a cabo el seguimiento programático-presupuestal;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+VII.- Dirigir la integración y seguimiento del Programa de Inversión y de equipamiento, coordinadamente con las áreas competentes en esta materia;
 
 VIII.- Aprobar el diseño, desarrollo y ejecución de proyectos arquitectónicos de obra nueva y modificaciones de inmuebles, de acuerdo a los criterios y disposiciones de la Secretaría y con la Ley de Obras Públicas y Servicios relacionados con el mismo para el Estado de Sonora;
 
-IX.- Ejecutar los programas de inversión y el de equipamiento, en el ámbito de su competencia;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-X.- Elaborar y vigilar la ejecución de los contratos de obra y prestación de servicios para mantenimiento y conservación de bienes muebles e inmuebles, de acuerdo con la normatividad aplicable;
+IX.- Coordinar los programas de inversión y el de equipamiento, en el ámbito de su competencia;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+X.- Vigilar la ejecución de los contratos de obra y de prestación de servicios para mantenimiento y conservación de bienes muebles e inmuebles, de acuerdo con la normatividad aplicable;
 
 XI.- Fomentar la mejora de los procesos administrativos orientados a mejorar la toma de decisiones en los diferentes campos de acción de los Servicios, así como la prestación de los servicios y optimización de los recursos;
 
@@ -419,17 +441,23 @@ XV.- Validar la información financiera de los recursos del Sistema transferidos
 
 XVI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JULIO DE 2011)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
-Los Directores Generales que estarán al frente de las Direcciones Generales y de la Unidad que constituyan los Servicios, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables de su correcto funcionamiento. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de los Servicios.
+Los Directores Generales que estarán al frente de las Direcciones Generales y de la Unidad y los Directores que constituyan los Servicios, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables de su correcto funcionamiento. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de los Servicios.
 
-Los titulares y el personal de las Direcciones Generales de Servicios de Salud a la Comunidad, de Servicios de Salud a la Persona, de Enseñanza y Calidad, de Administración, y de Innovación y Desarrollo, así como de la Unidad de Asuntos Jurídicos, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado de Sonora.
+Los titulares y el personal de las Direcciones Generales de Servicios de Salud a la Comunidad, de Servicios de Salud a la Persona, de Enseñanza y Calidad, de Administración, y de Planeación y Desarrollo, de la Unidad de Asuntos Jurídicos, así como de las Direcciones de Tecnologías de la Información y Comunicaciones y de Infraestructura Física, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado de Sonora.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 28.
 
-Las Direcciones Generales y la Unidad, tendrán las siguientes atribuciones genéricas:
+Las Direcciones Generales, Direcciones y la Unidad, tendrán las siguientes atribuciones genéricas:
 
 I.- Organizar, dirigir, coordinar, controlar y evaluar el desempeño de las labores encomendadas a las distintas áreas que integren la unidad administrativa correspondiente;
 
@@ -441,19 +469,29 @@ IV.- Acordar con la Coordinación General correspondiente el trámite, resoluci�
 
 V.- Proponer a la Coordinación General respectiva, la organización interna de la unidad administrativa a su cargo, así como la fusión o desaparición de las áreas que integren la misma;
 
-VI.- Establecer los mecanismos de coordinación, programación, información, control, evaluación y de mejoramiento de la eficiencia operativa en la unidad administrativa a su cargo, de acuerdo con las disposiciones que emitan las Coordinaciones Generales y el Presidente Ejecutivo;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-VII.- Participar, conforme a los lineamientos establecidos, en la elaboración y actualización de los manuales de organización, de procedimientos y de servicios al público de la unidad administrativa a su cargo;
+VI.- Establecer los mecanismos de coordinación, programación, información, control, evaluación e implementación de la mejora continua para incrementar la eficiencia y eficacia operativa en la unidad administrativa a su cargo, de acuerdo a la normatividad aplicable y disposiciones que emitan las Coordinaciones Generales y el Presidente Ejecutivo;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+VII.- Participar, conforme a los lineamientos establecidos, en la elaboración y actualización de cartas compromiso al ciudadano, así como de los manuales de organización, de procedimientos y de servicios al público de la unidad administrativa a su cargo;
 
 VIII.- Prestar el apoyo técnico para la definición de las políticas, lineamientos y criterios necesarios para la formulación, revisión, actualización, seguimiento y evaluación de los programas del sector, de los programas y proyectos estratégicos que de ellos se deriven, así como del Programa Operativo Anual;
 
-IX.- Proponer a la Coordinación General de Administración el anteproyecto de Presupuesto de Egresos por Programas que le corresponda a la unidad administrativa y ejecutarlo conforme a las normas y lineamientos aplicables, en los montos y de acuerdo al calendario que haya sido autorizado; así mismo, solicitar las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-X.- Determinar, conforme a sus necesidades, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño de las funciones de la unidad administrativa a su cargo, y remitirlo a la Coordinación General de Administración para su autorización;
+IX.- Proponer a la Coordinación General de Administración y Finanzas el anteproyecto de Presupuesto de Egresos por Programas que le corresponda a la unidad administrativa y ejecutarlo conforme a las normas y lineamientos aplicables, en los montos y de acuerdo al calendario que haya sido autorizado; así mismo, solicitar las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+X.- Determinar, conforme a sus necesidades, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño de las funciones de la unidad administrativa a su cargo, y remitirlo a la Coordinación General de Administración y Finanzas para su autorización;
 
 XI.- Sujetarse en sus actividades de programación, seguimiento y control del gasto asignado a la unidad administrativa a su cargo, de acuerdo a las normas y lineamientos que regulen dichas actividades;
 
-XII.- Someter a la consideración del Presidente Ejecutivo los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XII.- Someter a la consideración del Presidente Ejecutivo o Coordinador General, según corresponda, los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
 XIII.- Proponer a la Coordinación General que corresponda la celebración de bases de cooperación técnica, con las dependencias y entidades de las (sic) Administración Pública Federal, Estatal y Municipal;
 
@@ -489,7 +527,9 @@ XXVIII.- Coadyuvar en el cumplimiento de la normatividad expedida para el contro
 
 XXIX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
-### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
+> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JULIO DE 2011)</small>
+
+### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 29.
 
@@ -499,7 +539,7 @@ I.- Participar en la operación del Sistema de Encuestas Nacionales de Salud que
 
 II.- Operar, dirigir y evaluar las acciones de prevención y control de enfermedades de los programas sustantivos de cólera, VIH-SIDA y otras enfermedades de transmisión sexual, urgencias epidemiológicas, enfermedades transmisibles por vector y zoonosis, tuberculosis, lepra y la vigilancia epidemiológica de las enfermedades transmisibles y no transmisibles de interés para el Estado, así como de los efectos del medio ambiente en la salud;
 
-III.- Coordinar y controlar las acciones en materia de promoción de la salud en sus vertientes de educación saludable, comunidades saludables y cartillas nacionales de salud, para fortalecer el saneamiento básico, la salud familiar y escolar, así como el apoyo a los programas de acción, impulsando la participación social sonorense y la corresponsabilidad ciudadana que contribuya a fortalecer estilos de vida saludables;
+III.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
 IV.- Promover, dirigir, operar, coordinar, controlar y evaluar el Sistema Estatal de Vigilancia Epidemiológica, el Sistema Único de Información para la Vigilancia Epidemiológica (SUIVE), y los Subsistemas Generales de Morbilidad y Mortalidad, así como difundir la información epidemiológica que éste genere;
 
@@ -605,15 +645,19 @@ XX.- Difundir los resultados del monitoreo de indicadores de calidad a las unida
 
 XXI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 32.
 
-La Dirección General de Administración estará adscrita a la Coordinación General de Administración y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Administración estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- Proponer al Coordinador General de Administración las políticas, normas, sistemas y procedimientos para la administración y control de los recursos humanos asignados a los Servicios, de acuerdo a los lineamientos y normatividad aplicable;
 
 II.- Coordinar, operar y supervisar los sistemas de administración y control del personal en apego a las disposiciones legales aplicables;
 
-III.- Recibir y administrar, en coordinación con la Dirección General del Régimen de Protección Social en Salud, así como con la Dirección General de Innovación y Desarrollo, las aportaciones asignadas para operar el Sistema; y radicar, en su caso, los recursos necesarios a los prestadores de servicio, mediante los diversos acuerdos;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+III. Recibir y administrar, en coordinación con la Dirección General del Régimen Protección Social en Salud, así como con la Dirección General de Planeación y Desarrollo, las aportaciones asignadas para operar el Sistema; y radicar, en su caso, los recursos necesarios a los prestadores de servicio, mediante los diversos acuerdos;
 
 IV.- Supervisar que los recursos financieros sean transferidos de manera transparente y oportuna;
 
@@ -625,23 +669,39 @@ VII.- Llevar a cabo los procesos licitatorios para efectuar las adquisiciones de
 
 VIII.- Administrar los almacenes de los Servicios por medio de un sistema de control de inventario, así como vigilar y realizar la distribución de bienes e insumos, de acuerdo a las disponibilidades existentes y, en su caso, determinar y tramitar la baja y destino final de maquinaria y equipo y de los demás bienes, emitiendo al efecto el dictamen técnico y, en su caso, instrumentar el procedimiento respectivo de conformidad con las disposiciones jurídicas aplicables;
 
-IX.- Impulsar la mejora de los procesos administrativos orientados a la toma de decisiones en los diferentes ámbitos de los Servicios, así como la prestación de los servicios y optimización de los recursos;
+IX.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
-X.- Diseñar e implementar proyectos de infraestructura tecnológica y sistematización, atendiendo las necesidades de las diferentes unidades administrativas de los Servicios;
+X.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
-XI.- Detectar las necesidades de equipo de cómputo, mantenimiento e insumos y canalizarlos a las instancias correspondientes;
+XI.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
-XII.- Implementar y mantener el sistema integral de archivos, así como elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos, de acuerdo a la normatividad en la materia; y
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-XIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+XII.- Implementar y mantener el sistema integral de archivos, así como elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos, de acuerdo a la normatividad en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 4 DE JULIO DE 2011)</small>
+
+XIII.- Elaborar los Programas Interno de Protección Civil y de Seguridad e Higiene, en coordinación con las unidades administrativas y médicas de los Servicios;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XIV.- Implementar políticas y procedimientos en materia de seguridad e higiene para la prevención de accidentes y riesgos de salud, de acuerdo a la normatividad establecida en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE JULIO DE 2011)</small>
+
+XV.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 33.
 
-La Dirección General de Innovación y Desarrollo estará adscrita a la Coordinación General de Administración y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Planeación y Desarrollo estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- Participar en la integración y actualización del Programa Estatal de Salud y de los demás programas específicos de los Servicios, de acuerdo a las políticas, normas y procedimientos aplicables, así como coordinar la integración de la información institucional para el Informe anual de Gobierno;
 
-II.- Proyectar, coordinar, integrar y actualizar, en su caso, el Programa Operativo Anual y el Programa-Presupuesto de los Servicios, de acuerdo a las políticas, normas y procedimientos aplicables, así como autorizar sus adecuaciones, asesorando a las diferentes áreas en su manejo y aplicación, y proporcionar la información que solicite al respecto el Coordinador General de Administración;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+II.- Proyectar, coordinar, integrar y actualizar, en su caso, el Programa Operativo Anual y el Programa-Presupuesto de los Servicios, de acuerdo a las políticas, normas y procedimientos aplicables, así como autorizar sus adecuaciones, asesorando a las diferentes áreas en su manejo y aplicación, y proporcionar la infamación que solicite al respecto el Coordinador General de Administración y Finanzas;
 
 III.- Integrar y difundir para su aplicación las políticas, normas y lineamientos para la elaboración, ejercicio y control del presupuesto de egresos;
 
@@ -657,23 +717,49 @@ VIII.- Fungir como Secretario Técnico en las reuniones de la Junta de los Servi
 
 IX.- Procurar la permanente actualización del Reglamento Interior de los Servicios y de los Reglamentos Internos de sus Órganos Desconcentrados;
 
-X.- Coordinar la integración y actualización, en su caso, de los manuales de organización, de procedimientos y de servicios al público de los Servicios y de sus órganos desconcentrados, así como el Directorio institucional, de acuerdo a los lineamientos establecidos por la Secretaría de la Contraloría General;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-XI.- Organizar, operar, coordinar y difundir los sistemas de información, de estadística y de evaluación, requeridos para el funcionamiento de los Servicios, con base en la normatividad establecida;
+X.- Coordinar la integración y actualización, en su caso, de los manuales de organización, de procedimientos y de servicios al público de los Servicios y de sus órganos desconcentrados, así como de las cartas compromiso al ciudadano y el Directorio institucional, de acuerdo a los lineamientos establecidos por la Secretaría de la Contraloría General;
 
-XII.- Diseñar e implementar sistemas para la transformación informática, conforme a las políticas y lineamientos aplicables, atendiendo las necesidades de las diferentes unidades de primer, segundo y tercer nivel de los Servicios;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-XIII.- Proyectar, promover, ejecutar y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales con el propósito de optimizar la asignación de recursos, el mejoramiento de la productividad, la calidad de los servicios y la racionalización de la tecnología en las unidades de primer, segundo y tercer nivel de los Servicios, emitiendo los informes de resultados que apoyen la toma de decisiones;
+XI.- Organizar, operar, coordinar y difundir los sistemas de estadística y de evaluación, requeridos para el funcionamiento de los Servicios, con base en la normatividad establecida;
 
-XIV.- Dar seguimiento a los acuerdos derivados del Consejo Nacional de Salud, así como integrar los informes de avances de los mismos; y
+XII.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
-XV.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XIII.- Proyectar, promover, ejecutar y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, con el propósito de optimizar la asignación de recursos y el mejoramiento de la productividad de los Servicios, emitiendo informes de resultados que apoyen la toma de decisiones;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XIV.- Dar seguimiento a los acuerdos derivados del Consejo Nacional de Salud, así como integrar los informes de avances de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 4 DE JULIO DE 2011)</small>
+
+XV.- Distribuir, controlar y supervisar el uso y manejo de los certificados de nacimiento, en colaboración con las Jurisdicciones Sanitarias;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XVI. - Realizar el análisis, planeación y actualización del Plan Estatal Maestro de Infraestructura Física en Salud, así como proponer las prioridades de inversión y de gasto corriente, de acuerdo a las necesidades de salud de la población y a las propuestas de mejoramiento en la prestación de servicios de salud;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XVII.- Elaborar los anteproyectos de inversión y gestionar la aplicación de recursos en todo tipo de bienes y de actividades que incrementen el patrimonio de los Servicios; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 4 DE JULIO DE 2011)</small>
+
+XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 34.
 
-La Dirección General del Régimen de Protección Social en Salud estará adscrita a la Coordinación General de Administración y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General del Régimen de Protección Social en Salud estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
-I.- Integrar el Programa Operativo Anual del Sistema, en coordinación con la Dirección General de Innovación y Desarrollo, para la consideración de la Coordinación General de Administración y del Presidente Ejecutivo;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+l.- Integrar el Programa Operativo Anual del Sistema en coordinación con la Dirección General de Planeación y Desarrollo, para la consideración de la Coordinación General de Administración y Finanzas y del Presidente Ejecutivo;
 
 II.- Mantener coordinación con la Comisión Nacional de Protección Social en Salud para la instrumentación y adecuado funcionamiento del Sistema en el Estado;
 
@@ -689,9 +775,13 @@ VII.- Coordinar la relación entre el Sistema y otras Instituciones públicas y 
 
 VIII.- Validar los acuerdos de gestión elaborados coordinadamente entre las unidades prestadoras de servicios de salud y el Sistema;
 
-IX.- Validar y autorizar las aportaciones para la operación del Sistema que sean asignadas a las unidades prestadoras de servicios en coordinación con la Dirección General de Innovación y Desarrollo;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
 
-X.- Realizar la programación de metas y presupuesto de las unidades de acuerdo a las obligaciones del Sistema y en coordinación con la Dirección General de Innovación y Desarrollo;
+IX.- Validar y autorizar las aportaciones para la operación del Sistema que sean asignadas a las unidades prestadoras de servicios, en coordinación con la Dirección General de Planeación y Desarrollo;
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+X.- Realizar la programación de metas y presupuesto de las unidades de acuerdo a las obligaciones del Sistema y en coordinación con la Dirección General de Planeación y Desarrollo;
 
 XI.- Supervisar la aplicación de las aportaciones de acuerdo a las (sic) lineamientos de integración del gasto marcados por la Comisión Nacional de Protección Social en Salud en coordinación con la Dirección General de Administración;
 
@@ -711,9 +801,47 @@ XVIII.- Coordinar acciones con las instituciones de seguridad social, con la fin
 
 XIX.- Administrar la integración y actualización del padrón de beneficiarios del Sistema;
 
-XX.- Programar las necesidades de inversión y equipamiento de acuerdo a las necesidades generales de los Servicios, en coordinación con la Dirección General de Innovación y Desarrollo, para su seguimiento y aplicación; y
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+
+XX.- Programar las necesidades de inversión y equipamiento de acuerdo a las necesidades generales de los Servicios, en coordinación con la Dirección General de Planeación y Desarrollo, para su seguimiento y aplicación; y
 
 XXI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO 34 Bis.
+
+La Dirección de Tecnologías de la Información y Comunicaciones estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Conducir el desarrollo informático y promover el aprovechamiento de las tecnologías de la información y comunicaciones como herramienta estratégica para mejorar la productividad y la calidad de los servicios de salud que se proporcionan, en coordinación con la Oficina de Innovación Gubernamental del Ejecutivo Estatal;
+
+II.- Proponer, desarrollar e implementar las políticas y estándares técnicos aplicables para el uso innovador de las tecnologías de la información y comunicaciones en los Servicios, de conformidad con lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
+
+III.- Fomentar el Programa de Capacitación en Informática y Comunicaciones, para fortalecer el uso de las tecnologías de información en los Servicios, con apego a lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
+
+IV.- Determinar acerca de las necesidades de uso de tecnología de la información e infraestructura de telecomunicaciones, así como de proyectos de informática y de desarrollo e implantación de sistemas automatizados de información, gestionando el dictamen técnico ante la Secretaría de la Contraloría General;
+
+V.- Diseñar, operar y mantener vigentes los sistemas que permitan manejar con rapidez y calidad la información que se genera y compartirla en red entre las diversas unidades médicas y administrativas de los Servicios;
+
+VI.- Implementar y dar mantenimiento y seguimiento a la operación del expediente clínico electrónico en el primer y segundo nivel de atención de los Servicios;
+
+VII.- Colaborar con instancias públicas, sociales y privadas en el ámbito estatal, nacional e internacional para el aprovechamiento y desarrollo de la tecnología de la información en materia de salud; y
+
+VIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+
+ARTÍCULO 34 Bis A.- La Dirección de Infraestructura Física estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Asesorar y apoyar técnica y normativamente a las unidades administrativas y médicas de los Servicios, para el seguimiento de proyectos de obra pública y estrategias de modernización y calidad aplicadas a obras y conservación de la infraestructura física;
+
+II.- Realizar los procedimientos de contratación en materia de obra pública y servicios relacionados con las mismas, así como elaborar, formalizar y tramitar los contratos y convenios, sujetándose a la normatividad aplicable según el origen del recurso;
+
+III.- Coordinar y vincular las acciones de obras y proyectos con la Dirección General de Desarrollo de la Infraestructura Física de la Secretaría de Salud del Gobierno Federal, a fin de unificar criterios normativos en el desarrollo de la infraestructura física en salud;
+
+IV.- Coadyuvar con la Dirección General de Planeación y Desarrollo en la elaboración del Plan Estatal Maestro de Infraestructura en Salud, en la integración de los proyectos de inversión tanto en el aspecto técnico como financiero de las obras, así como establecer los mecanismos necesarios para su formulación, evaluación y seguimiento; y
+
+V.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 35.
 
@@ -745,9 +873,11 @@ X.- Las demás que le confieran las disposiciones legales aplicables y el Presid
 
 Para la eficaz atención y eficiente despacho de los asuntos competencia de los Servicios, éste contará con órganos desconcentrados que le estarán jerárquicamente subordinados al Presidente Ejecutivo y gozarán de autonomía técnica y operativa para ejercer las funciones que se les asignen.
 
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 37.
 
-Son órganos desconcentrados de los Servicios: el Hospital General del Estado, el Hospital Infantil del Estado de Sonora, el Hospital Oncológico del Estado de Sonora, el Hospital General de Ciudad Obregón, el Servicio Estatal de Salud Mental, el Laboratorio Estatal de Salud Pública, el Centro Estatal de la Transfusión Sanguínea, los Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual, el Centro de Desarrollo Infantil SNTSA-SECCIÓN 43 y las Jurisdicciones Sanitarias, señalados en el artículo 3º, fracción III de este Reglamento, los cuales se regirán por las disposiciones de este Reglamento, por sus respectivos Reglamentos Internos, y por las que, en su caso, determine el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+Son órganos desconcentrados de los Servicios: el Hospital General del Estado, el Hospital Infantil del Estado de Sonora, el Hospital Oncológico del Estado de Sonora, el Hospital General de Ciudad Obregón, el Servicio Estatal de Salud Mental, el Laboratorio Estatal de Salud Pública, el Centro Estatal de la Transfusión Sanguínea, el Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual, el Centro de Desarrollo Infantil SNTSA-SECCION 43, la Unidad de Especialidades Médicas de Cirugía Ambulatoria y las Jurisdicciones Sanitarias, senalados (sic) en el artículo 3°, fracción III de este Reglamento, los cuales se regirán por las disposiciones de este Reglamento, por sus respectivos Reglamentos Internos, y por las que, en su caso, determine el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 38.
 
@@ -771,9 +901,11 @@ El Hospital General de Ciudad Obregón tiene por objeto prestar los servicios de
 
 El Servicio Estatal de Salud Mental tiene por objeto organizar y operar la prestación de los servicios de salud mental de consulta externa especializada, hospitalización a usuarios agudos y crónicos, clínicas de desintoxicación y tratamiento terapéutico infantil, así como supervisar y evaluar las actividades que en este campo realicen las unidades de primer y segundo nivel de atención para población de responsabilidad.
 
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 43.
 
-Al Laboratorio Estatal de Salud Pública le corresponderá proporcionar el apoyo técnico necesario para el desarrollo de los programas de vigilancia epidemiológica, de regulación y control sanitario de atención médica y tendrá las funciones y atribuciones que le confiera el artículo 2° del Acuerdo de su creación.
+Al Laboratorio Estatal de Salud Pública le corresponderá proporcionar el apoyo técnico necesario para el desarrollo de los programas de vigilancia epidemiológica, de regulación y control sanitario de atención médica.
 
 ###### ARTÍCULO 44.
 
@@ -786,6 +918,12 @@ Al Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones d
 ###### ARTÍCULO 46.
 
 El Centro de Desarrollo Infantil SNTSA-SECCIÓN 43 tiene por objeto establecer las líneas de acción de carácter general a fin de que la atención educativo-asistencial que se brinda a los niños durante su estancia en el Centro, se realice con calidad, oportunidad y orientada a satisfacer las necesidades de crecimiento y desarrollo óptimo que tiene el menor durante esta etapa de la vida.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO 46 Bis.
+
+La Unidad de Especialidades Médicas de Cirugía Ambulatoria tiene como objeto proporcionar servicias quirúrgicos de corta estancia en todas las especialidades médicas a pacientes referidos de unidades de segundo y tercer nivel de los Servicios.
 
 ###### ARTÍCULO 47.
 
@@ -912,3 +1050,15 @@ Oncológico del Estatal de Desarrollo Infantil
 Estado de Sonora Salud Pública S.N.T.S.A.
 
 #### Sección 43
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 4 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y de servicios al público, así como las cartas compromiso al ciudadano y el Reglamento Interno de la Unidad de Especialidades Médicas de Cirugía Ambulatoria, deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Acuerdo.
