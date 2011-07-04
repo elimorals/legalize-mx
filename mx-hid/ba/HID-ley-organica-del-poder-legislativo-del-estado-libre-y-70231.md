@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-05-23"
+last_updated: "2011-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -707,15 +707,17 @@ I.- Comisión Inspectora de la Auditoria Superior del Estado;
 
 II.- Comisión de Legislación y Puntos Constitucionales;
 
-III.- Comisión de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+III.- Comisión de Hacienda y Presupuesto;
 
 IV.- Comisión de Gobernación;
 
 V.- Comisión de Educación;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
-VI.- Comisión de la Niñez, Juventud y del Deporte;
+VI.- Comisión de la Niñez, la Juventud, el Deporte y la Familia;
 
 VII.- Comisión de Seguridad Pública y Justicia;
 
@@ -739,13 +741,17 @@ XVI.- Comisión Instructora;
 
 XVII.- Comisión de Corrección y Estilo;
 
-XVIII.- Comisión de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XVIII.- Comisión para el Desarrollo Integral de los Pueblos Indígenas;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2011)</small>
 
 XIX.- Comisión de Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
-XX.- Comisión de Desarrollo Regional;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XX.- Comisión de Planeación y Desarrollo Regional;
 
 XXI.- Comisión del Trabajo;
 
@@ -801,11 +807,13 @@ Las comisiones serán electas por mayoría simple, estarán integradas, a excepc
 
 A las presidencias de las comisiones, se accederá en forma proporcional a la representación que tengan los Grupos Legislativos.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 83.
 
-Las comisiones de Legislación y Puntos Constitucionales, Instructora y de Hacienda, se integrarán por cinco Diputados; en el caso de la Comisión Instructora fungirá como Presidente y Secretarios de las mismas los electos en primer y segundo término respectivamente, quedando los restantes como vocales.
+Las Comisiones de Legislación y Puntos Constitucionales y de Hacienda, se integrarán por un mínimo de cinco y un máximo de nueve diputados.
 
-La Comisión Instructora tendrá las funciones y atribuciones que le confieren la Constitución Política del Estado de Hidalgo, la Ley de Responsabilidades de los Servidores Públicos, esta Ley, su reglamento y las disposiciones legales aplicables. Asimismo, deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
+La Comisión instructora se integrarán por cinco diputados y fungirá como presidente y secretarios los electos en primer, segundo y tercer término respectivamente, quedando los restantes como vocales. Tendrá las funciones y atribuciones que le confiere la Constitución Política del Estado de Hidalgo, la Ley de Responsabilidades de los Servidores Públicos esta Ley, su Reglamento y las disposiciones legales aplicables. Así mismo deberá estar integrada por Diputados representantes de los Grupos Legislativos reconocidos en la Legislatura.
 
 ###### ARTÍCULO 84.
 
@@ -1115,7 +1123,7 @@ Los Servidores Públicos del Poder Ejecutivo, asistirán a las Sesiones, siempre
 
 Igualmente podrán ser citados en los mismos términos del párrafo anterior, los integrantes y Servidores Públicos de los Ayuntamientos, de los Organismos Autónomos y cualquier persona física o moral, que reciban, por cualquier titulo recursos públicos.
 
-### CAPÍTULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
+### CAPITULO II. DE LA APERTURA Y CLAUSURA DE LOS PERIODOS DE SESIONES
 
 ### CAPÍTULO III. DE LAS INICIATIVAS
 
@@ -1235,7 +1243,7 @@ Toda propuesta de Acuerdo Económico que se dictamine, se someterá a votación 
 
 Cuando en el Congreso se discuta una propuesta de Acuerdo Económico y no fuere aprobada, la Presidencia preguntará si se turna nuevamente a Comisiones, para un nuevo análisis y dictamen, en caso de negativa, se tendrá como asunto concluido.
 
-### CAPITULO VII. DE LAS VOTACIONES
+### CAPÍTULO VII. DE LAS VOTACIONES
 
 ###### ARTÍCULO 139.
 
@@ -1954,3 +1962,7 @@ Segundo.- Envíese copia del mismo, a la Junta de Gobierno del Congreso del Esta
 P.O. 23 DE MAYO DE 2011.
 
 Primero.- Envíese al Ejecutivo del Estado para su Publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2011.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
