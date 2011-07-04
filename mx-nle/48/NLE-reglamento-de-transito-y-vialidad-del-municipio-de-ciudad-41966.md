@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-ciudad-41966
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2007-06-04"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo de León, el viernes 26 de noviembre del 2004.
 
@@ -275,7 +275,7 @@ II. Tarjeta de circulación vigente original. En el caso de los autobuses de tra
 
 III. Calcomanía de placas y refrendo vigente;
 
-IV. Permiso provisional vigente al carecer de los anteriores requisitos, sólo en el caso de vehículos de uso particular.
+IV. (DEROGADA, P.O. 4 DE JULIO DE 2011)
 
 Quedan exentos de esta obligación los vehículos al servicio de las fuerzas armadas del país, los cuales se identificarán mediante los colores oficiales y sus números de matrícula.
 
@@ -355,15 +355,7 @@ En caso de robo o extravío de placas, el propietario del vehículo deberá de h
 
 ###### ARTÍCULO 20.
 
-La Autoridad Municipal podrá expedir permisos para circular sin placas, en los casos siguientes:
-
-I. Cuando su propietario o conductor resida fuera del Municipio, y demuestre la necesidad de permanecer en la ciudad y la(s) placa(s) faltante(s) haya(n) sido robada(s), para lo cual deberá presentar constancia de aviso a la Autoridad Persecutoria del delito;
-
-II. Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas definitivas ante la Secretaría de Finanzas y Tesorería General del Estado;
-
-III. En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes fuera de ella y que requieran trasladarlos a su destino.
-
-Además de lo anterior, deberá presentar: factura y/o carta factura del vehículo, la baja correspondiente, comprobante de domicilio, su credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+(DEROGADO, P.O. 4 DE JULIO DE 2011)
 
 ###### ARTÍCULO 21.
 
@@ -469,7 +461,13 @@ VI. TAPÓN DEL TANQUE DEL COMBUSTIBLE.- Éste deberá ser de diseño original o 
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros.
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos o polarizados que impidan o limiten la visibilidad del conductor y hacia el interior del vehículo.
+
+Solo se permitirá, para efectos de la circulación de vehículos automotores, aplicar recubrimientos transparentes, sin ninguna tonalidad o color, en los demás cristales distintos al cristal parabrisas.
+
+Los vehículos automotores con el cristal parabrisas y demás cristales del vehículo entintados de origen, es decir de producción en fábrica, les esta permitida su circulación;
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante.
 
@@ -1909,7 +1907,9 @@ D) Se remitirá al menor a la Agencia del Ministerio Público Especial en Justic
 
 Se impedirá la circulación de vehículos y se retirarán de la vía pública, y en su caso se remitirán para depósito mediante el servicio de grúa, al verificarse cualquiera de los siguientes supuestos:
 
-I. Cuando le falten al vehículo ambas placas o el permiso correspondiente;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+l. Cuando le falten al vehículo ambas placas.
 
 II. Cuando las placas del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
@@ -2033,17 +2033,19 @@ V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que cor
 
 > <small>N. DE E. VEASE TABULADOR EN EL P.O. DE 26 DE NOVIEMBRE DE 2004, PAGS. 122-129.</small>
 
-> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PAGS. 102-133.</small>
+> <small>N. DE E. VEASE REFORMAS AL TABULADOR DE INFRACCIONES, P.O. 29 DE DICIEMBRE DE 2006, PÁGINAS DE LA 102 A LA 133; 4 DE JULIO DE 2011, PÁGINA 30.</small>
 
 ###### ARTÍCULO 137.
 
 Las infracciones cometidas por los ciclistas y conductores de vehículos de tracción animal serán sancionadas con el veinticinco por ciento los primeros y con cincuenta por ciento los segundos, de lo establecido en el tabulador.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 138.
 
-Toda multa deberá ser pagada antes de treinta días contados a partir de la fecha de la infracción. Después de este plazo, el infractor deberá pagar recargos conforme a la Ley de Ingresos de los Municipios del Estado de Nuevo León, en el ejercicio que corresponda.
+Toda multa deberá ser pagada antes de treinta días contados a partir de la fecha de la Infracción. Las infracciones y las cuotas de sanción contempladas en los numerales No. 21 y 22 del Tabulador de Infracciones del articulo 136, aplicadas a quien circule con objetos que impidan la visibilidad del conductor y hacia el interior del vehículo, y/o con vidrios polarizados, quedarán sin efecto si en un plazo no mayor de 15 días naturales, y en horario normal de oficina, el conductor o su propietario demuestra ante la autoridad municipal correspondiente el retiro de polarizado de (sic) vehículo por el cual se origino la infracción (es).
 
-Si la infracción es cometida por conductores del Servicio Público del Transporte, adicionalmente al pago de la infracción por violación a este reglamento, deberá acreditar haber cubierto la infracción respectiva ante la Agencia para la Racionalización y Modernización del Sistema del Transporte Público de Nuevo León, por violación a la Ley del Transporte para el Estado de Nuevo León y su Reglamento.
+Después de este plazo, el infractor deberá pagar recargos conforme a la Ley de Ingresos de Los Municipios del Estado de Nuevo León, en el ejercicio que corresponda.
 
 ###### ARTÍCULO 139.
 
@@ -2202,3 +2204,11 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 ###### ARTÍCULO SEGUNDO.
 
 Envíese a la C. Presidenta Municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remite para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+P.O. 4 DE JULIO DE 2011.
+
+PRIMERO.- Las presentes reformas por modificación, adición y derogación de diversos artículos del Reglamento de Tránsito y Vialidad del Municipio de Ciudad Guadalupe, Nuevo León entrarán en vigor y serán aplicables a partir de las 00 horas del día 05 -cinco- de julio del 2011 -dos mil once-.
+
+SEGUNDO.- Se derogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas y adiciones al Reglamento de Transito y Vialidad del Municipio de Ciudad Guadalupe, Nuevo León.
+
+TERCERO.- En virtud de que el Reglamento mismo, posee un carácter homologado, y que las presentes reformas fueron acordadas en consenso por los municipios, en el marco de la respetuosa autonomía municipal y de la necesaria coordinación y sinergia de esfuerzos para avanzar en materia de seguridad, este R. Ayuntamiento exhorta a los máximos órganos colegiados de gobierno municipal a la homologación de todos los Reglamentos de Tránsito y Vialidad de los Municipios de la entidad.
