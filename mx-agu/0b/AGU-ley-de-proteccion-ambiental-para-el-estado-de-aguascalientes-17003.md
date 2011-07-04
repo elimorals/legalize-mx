@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2010-10-25"
+last_updated: "2011-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -105,7 +105,9 @@ VI. AMBIENTE: Conjunto de elementos naturales y artificiales o inducidos por el 
 
 VII. ÁREAS NATURALES PROTEGIDAS DE JURISDICCION ESTATAL: Las zonas del territorio de la Entidad no consideradas como federales que han quedado sujetas a la protección estatal, a fin de preservar y restaurar ambientes naturales, salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente;
 
-VIII. ÁREA PRIORITARIA PARA LA CONSERVACIÓN. Sitio o región relevante del Estado, reconocida por el Instituto por su riqueza de especies, ecosistemas y/o por los servicios ambientales que presta, así como por los vestigios paleontológicos y prehispánicos que alberga;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. ÁREA PRIORITARIA PARA LA CONSERVACIÓN: Sitio o región relevante del Estado, reconocida por la Secretaría por su riqueza de especies, ecosistemas y/o por los servicios ambientales que presta, así como por los vestigios paleontológicos y prehispánicos que alberga;
 
 IX. AUDITORÍA AMBIENTAL: Proceso de revisión de las actividades y operaciones, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
@@ -161,7 +163,9 @@ XXXIV. HUELLA GENÉTICA.- Es una especie de Descriptor;
 
 XXXV. INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cuyas emisiones se descargan a través de una chimenea;
 
-XXXVI. INSTITUTO: Instituto del Medio Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XXXVI. SECRETARÍA: Secretaría de Medio Ambiente.
 
 XXXVII. IMPACTO AMBIENTAL: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
@@ -217,7 +221,9 @@ Son autoridades en materia ambiental en el Estado:
 
 I. El Gobernador del Estado;
 
-II. El Instituto del Medio Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. La Secretaría;
 
 III. La Procuraduría Estatal de Protección al Ambiente;
 
@@ -259,79 +265,149 @@ IX. Expedir los reglamentos y demás disposiciones aplicables que tengan por obj
 
 X. Las demás que conforme a esta Ley y otros ordenamientos le correspondan.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 7º.
 
-Corresponde al Instituto del Medio Ambiente del Estado de Aguascalientes, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría, el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Promover y realizar las acciones relacionadas con la prevención de daños y alteraciones en las condiciones ambientales, así como con la conservación, protección, preservación y restauración del ambiente;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Conducir y evaluar la política ambiental en el Estado, así como los planes y programas que de ésta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia y en su caso, hacer uso de los medios de apremio;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Aplicar los instrumentos de política ambiental previstos en esta Ley para prevenir los daños y las alteraciones a las condiciones ambientales, así como para conservar preservar, proteger y restaurar el ambiente en bienes y zonas de su jurisdicción, y en materias de su competencia;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 V. Proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Estado;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 VI. Promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación con la Federación;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 VII. Promover y participar en la elaboración y celebración de convenios o acuerdos de coordinación y colaboración administrativa, que se lleven a cabo entre el Ejecutivo del Estado y otras Entidades Federativas, con el propósito de atender y resolver agendas ambientales comunes;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 VIII. Promover y participar en la elaboración y celebración de convenios de coordinación que se lleven a cabo entre el Ejecutivo del Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 IX. Emitir recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 X. Coordinar la participación de las dependencias y entidades de la administración pública estatal, en las acciones de cultura ambiental, de prevención y control del deterioro ambiental, preservación, protección y restauración del ambiente en el territorio del Estado, así como celebrar con éstas los acuerdos que sean necesarios con el propósito de dar cumplimiento a la legislación ambiental, estableciendo acciones transversales específicas en la materia;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XI. Participar en coordinación con la Federación, en asuntos que afecten significativamente el ambiente del Estado con otras Entidades Federativas;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XII. Coordinar los asuntos que afecten el ambiente de dos o más Municipios del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XIII. Participar conforme a las políticas y programas de protección civil, en las contingencias ambientales cuando se afecten áreas de dos o más Municipios de la Entidad, o bien cuando por su magnitud o repercusiones así se requiera;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XIV. Formular, ejecutar y vigilar los programas de ordenamiento ecológico regionales y estatal e intermunicipales y los planes que de éstos se deriven, con la participación de los Municipios del Entidad;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XV. Evaluar el impacto ambiental de las obras o actividades de su competencia;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XVI. Regular, prevenir y controlar la contaminación lumínica, visual y la atmosférica, por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales al ambiente y a la salud, provenientes de fuentes fijas y móviles que no estén sujetas a la jurisdicción federal;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XVII. Regular el manejo y gestión integral de los residuos de manejo especial, y sólidos urbanos y micro generadores de residuos peligrosos;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XVIII. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos e industriales que no estén considerados como peligrosos;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XIX. Regular las actividades que no sean consideradas altamente riesgosas para el ambiente;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XX. Regular el aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de jurisdicción estatal; así como de las aguas nacionales que tengan asignadas;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXI. Formular, ejecutar, evaluar y seguir el programa estatal de protección al ambiente;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXII. Establecer los mecanismos y sistemas que garanticen la transparencia y acceso ágil a la información ambiental y de recursos naturales;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXIII. Promover y realizar acciones tendientes a lograr, entre los diferentes sectores de la comunidad, un mejor conocimiento de ésta Ley y de los demás ordenamientos que de ella emanen, con el fin de desarrollar en la población una mayor cultura ambiental;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXIV. Ejercer todas aquellas acciones tendientes a la preservación y restauración del ambiente, así como la regulación, prevención y control de la contaminación ambiental que no sean de competencia Federal;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXV. Crear el Plan Estatal de Contingencia Ambiental, el cual se formulará, se someterá a consulta pública, se evaluará y se expedirá conforme a los lineamientos de la Ley de Participación Ciudadana del Estado y las reglas que señale el Reglamento respectivo, con la participación de los sectores empresarial, académico y social, y con la aprobación del Congreso del Estado;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXVI. Promover la creación de estándares e indicadores de calidad ambiental;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXVII. Vigilar el manejo adecuado de los residuos sólidos municipales, verificando en todo momento el cumplimiento de la prohibición de incineración de éstos;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXVIII. Vigilar y promover el cumplimiento de esta Ley y los demás ordenamientos aplicables;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXIX. Las demás atribuciones que conforme a esta u otras leyes o disposiciones reglamentarias le correspondan;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXX. Formular y difundir el "Programa de Sustitución de Plásticos no Biodegradables por productos biodegradables", a que hace mención esta Ley;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXXI. Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, y materiales y residuos de su competencia; cuya información se integrará con los datos y los documentos contenidos en las autorizaciones, cédulas de operación, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Instituto y, en su caso, ante los Municipios;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXXII. Elaborar un catalogo de áreas prioritarias para conservación del Estado, y en las cuales se fomentarán las actividades que sean compatibles con el cuidado, preservación y uso sustentable de sus recursos naturales, en coordinación con las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXXIII. Generar conocimientos que contribuyan al aprovechamiento racional y la conservación de la biodiversidad, vestigios paleontológicos y demás recursos naturales;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 XXXIV. Promover la creación de la Bolsa de Residuos en la Entidad; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 XXXV. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
 
@@ -367,7 +443,9 @@ III. Preservar, proteger y restaurar el ambiente en bienes y zona de su jurisdic
 
 IV. Ejercer las funciones y atribuciones que le transfieran la Federación y el Estado en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación que deberán de celebrarse según las agendas ambientales;
 
-V. Coadyuvar con el Instituto, en la formulación de los programas de ordenamiento ecológico regional, estatal e intermunicipales del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+V. Coadyuvar con la Secretaría, en la formulación de los programas de ordenamiento ecológico regional, estatal e intermunicipales del Estado;
 
 VI. Formular, expedir y vigilar el cumplimiento de los programas de ordenamiento ecológico municipal, así como el control de los usos del suelo que se establezcan en dichos programas, conforme lo disponen la Ley General y esta Ley;
 
@@ -393,7 +471,9 @@ XVI. Aplicar las disposiciones jurídicas relativas a la prevención y control d
 
 XVII. Conservar, preservar, preservar, restaurar y proteger el ambiente en los centros de población, en relación con los efectos derivados de los servicios públicos, de su competencia;
 
-XVIII. Hacer del conocimiento del Instituto los casos concretos en los que se considere necesario su estudio, con el fin de solicitarle la emisión de las recomendaciones dirigidas a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XVIII. Hacer del conocimiento de la Secretaría los casos concretos en los que se considere necesario su estudio, con el fin de solicitarle la emisión de las recomendaciones dirigidas a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 
 XIX. Promover y, en su caso, coordinar la participación de las dependencias y entidades de la administración pública de los demás niveles de gobierno en las acciones de preservación, protección, educación ambiental, prevención y control del deterioro ambiental y restauración del ambiente, en su jurisdicción territorial; así como celebrar con estás los acuerdos que sean necesarios con el propósito de dar cumplimiento a la presente Ley;
 
@@ -413,7 +493,9 @@ XXVI. Atender los demás asuntos relativos a la conservación, preservación y p
 
 XXVII. Establecer los criterios y lineamientos para la regulación de los residuos sólidos urbanos;
 
-XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos efectos se celebren con el Instituto; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XXVIII. Otorgar las autorizaciones y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, acopio, transporte y transferencia, reciclado, reutilización, coprocesamiento, tratamiento y sitios de disposición final de los residuos y de manejo especial y supervisar su buen funcionamiento, conforme a los convenios de coordinación que esos (sic) efectos se celebren con la Secretaría; y
 
 XXIX. Las demás atribuciones que conforme a esta u otras Leyes o disposiciones reglamentarias le correspondan.
 
@@ -465,11 +547,11 @@ En la planeación del desarrollo integral y sustentable estatal y municipal ser�
 
 En concordancia con lo establecido en la Ley Estatal de Planeación y el Plan Estatal de Desarrollo y los principios a que se refiere el párrafo anterior deberá elaborarse el Programa Estatal y los Programas Municipales para la Prevención y Gestión Integral de los Residuos, los Programas de Ordenamiento Ecológico, los Planes de Desarrollo Urbano y los Planes de Control del Uso del Suelo.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
-El instituto formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal; integrará las aportaciones y especificará las acciones de los diferentes sectores.
+La Secretaría formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal e integrará las acciones de los diferentes sectores.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -521,11 +603,11 @@ II. Intermunicipal, cuya extensión rebase la de un Municipio; y
 
 III. Municipal, que abarcan la totalidad o parte de un Municipio.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-El Instituto someterá a consulta ciudadana, evaluará, formulará y expedirá, en los términos que especifique el Reglamento en la materia de ésta Ley, el Programa de Ordenamiento Ecológico Estatal y demás programas de ordenamientos regionales, los cuales tendrán por objeto determinar:
+La Secretaría someterá a consulta ciudadana, evaluará, formulará y expedirá, en los términos que especifique el Reglamento en la materia de esta Ley, el Programa de Ordenamiento Ecológico Estatal y demás programas de ordenamientos regionales, los cuales tendrán por objeto determinar:
 
 I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales; de las actividades productivas que en ella se desarrollen; así como de la ubicación y situación de los asentamientos humanos existentes; y
 
@@ -675,15 +757,17 @@ V. La poca disponibilidad de agua en el Estado.
 
 ### CAPÍTULO IV. Evaluación del Impacto Ambiental
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 31.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual el Instituto establece las condiciones a las que se sujetará la realización de obras o actividades que puedan causar daños al ambiente o rebasar los límites y condiciones establecidas en las disposiciones aplicables para proteger el ambiente; preservar y restaurar los ecosistemas, a fin de evitar o reducir y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a las que se sujetará la realización de obras o actividades que puedan causar daños al ambiente o rebasar los límites y condiciones establecidas en las disposiciones aplicables para proteger el ambiente; preservar y restaurar los ecosistemas, a fin de evitar o reducir y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
 
 Los instrumentos de evaluación del impacto ambiental son el informe preventivo y el Manifiesto de Impacto Ambiental.
 
-Se requiere la autorización del Instituto en materia de impacto ambiental, previamente a la realización de las siguientes obras o actividades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
+Se requiere la autorización de la Secretaría en materia de impacto ambiental, previamente a la realización de las siguientes obras o actividades:
 
 I. Aquéllas que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar deterioro ambiental, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente;
 
@@ -719,11 +803,11 @@ XIV. Microempresas industriales de los giros establecidos en el Reglamento.
 
 No estarán sujetas a la presentación de un Manifiesto de Impacto Ambiental, sino a un informe preventivo, las obras o actividades que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen deterioro ambiental, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente; las obras y actividades que deberán presentar un Informe Preventivo serán determinados en el Reglamento respectivo de ésta Ley y deberán acreditarse de manera fehaciente e indubitable, a través del procedimiento idóneo que el Reglamento mencionado establezca, incluyéndose en éste acciones de inspección a través de la Procuraduría, en uso de la facultad que le concede la Ley de la Procuraduría Estatal de Protección al Ambiente.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 33.
 
-El Ejecutivo Estatal, a propuesta del Instituto, podrá suscribir convenios o acuerdos de coordinación con los Ayuntamientos, con el fin de que éstos evalúen las manifestaciones de impacto ambiental, en los siguientes casos:
+El Gobernador, a propuesta de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con los Ayuntamientos, con el fin de que éstos evalúen las manifestaciones de impacto ambiental, en los siguientes casos:
 
 I. Obras o actividades que estando reservadas a la Federación o al Estado, se descentralicen a favor del Municipio;
 
@@ -745,11 +829,11 @@ IX. Ladrilleras.
 
 En estos casos la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan los reglamentos municipales y disposiciones que de ellos se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatible la política ambiental con la de desarrollo urbano y evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 34.
 
-Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante el Instituto, un informe preventivo o la manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción documentada y fundamentada de los posibles efectos en el ambiente que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que lo conforman, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, un informe preventivo o manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción documentada y fundamentada de los posibles efectos en el ambiente que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que lo conforman, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
 
 Cuando se trate de actividades consideradas riesgosas, según la enumeración hecha en el Reglamento respectivo y de acuerdo con los términos de esta Ley, el manifiesto de impacto ambiental deberá incluir el estudio de riesgo correspondiente.
 
@@ -787,9 +871,13 @@ V. Cuando se trate de plantas de tratamiento de aguas residuales destinadas a la
 
 VI. Las demás que señale el Consejo Consultivo Estatal de Gestión Ambiental.
 
-Los resultados de la consulta pública deberán ser tomados en consideración por el Instituto para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-Durante el proceso de evaluación de impacto ambiental, el Instituto podrá solicitar opiniones técnicas a instituciones y organismos académicos y especializados, en caso de que así lo requiera.
+Los resultados de la consulta pública deberán ser tomados en consideración por la Secretaría para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Durante el proceso de evaluación de impacto ambiental, la Secretaría podrá solicitar opiniones técnicas a instituciones y organismos académicos y especializados, en caso de que así lo requiera.
 
 El esquema y los procedimientos para la consulta pública se llevarán a cabo conforme a lo señalado en el Reglamento respectivo de la presente Ley.
 
@@ -799,11 +887,11 @@ El esquema y los procedimientos para la consulta pública se llevarán a cabo co
 
 Una vez recibido el instrumento de evaluación ambiental, la autoridad competente, en un plazo no mayor a 15 días hábiles, deberá comunicar a los interesados si necesita mayor información o bien emitirá la resolución respectiva dentro del término que ésta Ley señala. En caso de requerir mayor información, la autoridad comunicará al promoverte que cuenta con un plazo de 10 días para cumplir con el requerimiento de proporcionar información adicional. En caso de que el promovente no presente la información solicitada en el término señalado, la autoridad desechará el trámite.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
-El Instituto notificará, dentro de los 3 días hábiles siguientes a la recepción del instrumento de evaluación, a la autoridad ambiental municipal, que ha recibido la manifestación de impacto ambiental o el informe preventivo respectivo, a fin de que ésta manifieste lo que a su derecho convenga, respecto de obras o actividades de competencia estatal, cuando las mismas pretendan realizarse en el ámbito de su circunscripción territorial.
+La Secretaría notificará, dentro de los 3 días hábiles siguientes a la recepción del instrumento de evaluación, a la autoridad ambiental municipal, que ha recibido la manifestación de impacto ambiental o el informe preventivo respectivo, a fin de que ésta manifieste lo que a su derecho convenga, respecto de obras o actividades de competencia estatal, cuando las mismas pretendan realizarse en el ámbito de su circunscripción territorial.
 
 El Municipio deberá emitir su opinión en un término de 7 días hábiles para el informe preventivo y 12 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que el Municipio haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
@@ -839,17 +927,23 @@ e) Se encuentren dentro del área a impactar, ecosistemas frágiles, humedales, 
 
 f) Existan en las zonas sujetas cambios o impactos, aprovechamientos forestales de especies de difícil regeneración.
 
-El Instituto deberá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, cuando durante la realización de las obras o actividades puedan producirse daños graves a los ecosistemas, el ambiente y a los recursos naturales.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-El Instituto deberá emitir la resolución correspondiente en un plazo no mayor de 30 días hábiles contados a partir de la integración completa del expediente.
+La Secretaría deberá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, cuando durante la realización de las obras o actividades puedan producirse daños graves a los ecosistemas, el ambiente y a los recursos naturales.
 
-Los resultados de la consulta pública deberán ser tomados en consideración por el Instituto para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+La Secretaría deberá emitir la resolución correspondiente en un plazo no mayor de 30 días hábiles, contados a partir de la integración completa del expediente.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Los resultados de la consulta pública deberán ser tomados en consideración por la Secretaría para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
-En aquellos casos en los que se inicie el desarrollo de una obra o actividad sin contar con la autorización correspondiente en materia de impacto ambiental, emitida por la autoridad correspondiente en los términos que la presente Ley establece, el Instituto podrá requerir, posteriormente a la intervención de la Procuraduría, un Estudio de Daño Ambiental, en el cual se den a conocer los efectos negativos y/o daños ambientales que se presentaron o se han presentado a consecuencia del desarrollo de la misma, indicando además la forman que serán eliminados, controlados, mitigados o compensados, según sea el caso. Esto sin perjuicio de las sanciones a las que se haga acreedor, de conformidad con lo establecido en la presente Ley, sus reglamentos y demás disposiciones legales aplicables.
+En aquellos casos en los que se inicie el desarrollo de una obra o actividad sin contar con la autorización correspondiente en materia de impacto ambiental, emitida por la autoridad correspondiente en los términos que la presente Ley establece, la Secretaría podrá requerir, posteriormente a la intervención de la Procuraduría, un Estudio de Daño Ambiental, en el cual se den a conocer los efectos negativos y/o daños ambientales que se presentaron o se han presentado a consecuencia del desarrollo de la misma, indicando además la forman (sic) que serán eliminados, controlados, mitigados o compensados, según sea el caso. Esto sin perjuicio de las sanciones a las que se haga acreedor, de conformidad con lo establecido en la presente Ley, sus reglamentos y demás disposiciones legales aplicables.
 
 En el supuesto caso de que las actividades previstas no se hubieren concluido en su totalidad, el Estudio de Daño Ambiental deberá incluir un apartado en el cual se haga una valoración de los impactos ambientales que ésta generara y se indique la forma de evitarlos, mitigarlos o compensarlos.
 
@@ -877,11 +971,11 @@ La regulación de los prestadores de servicios en materia de impacto ambiental e
 
 ### CAPÍTULO V. Autorregulación y Auditoría Ambiental
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 45.
 
-El Instituto fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas.
+La Secretaría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -889,7 +983,9 @@ El Instituto fomentará programas de autorregulación y auditoría ambiental y p
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental respetando la legislación vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-El Instituto en el ámbito su competencia inducirá o concertará:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría en el ámbito su competencia inducirá o concertará:
 
 I. El desarrollo de los procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidas con cámaras de la industria, comercio, y otras actividades productivas; organizaciones de productores, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
@@ -947,23 +1043,25 @@ El Reglamento respectivo de la presente Ley señalará las reglas conforme a las
 
 #### SECCIÓN PRIMERA. Educación Formal
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 50.
 
-El Instituto en coordinación con el Instituto de Educación de Aguascalientes y de manera vinculada con la Secretaría de Medio Ambiente y Recursos Naturales, promoverán la creación de un Programa Estatal de Educación Ambiental. Para ello, promoverán, certificarán y reforzarán la incorporación de actividades didácticas y contenidos en materia ambiental y manejo sustentable de recursos naturales dentro de los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud, como una práctica educativa integrada, continua y permanente. Así mismo, adoptarán las medidas y estrategias necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
+La Secretaría en coordinación con el Instituto de Educación de Aguascalientes y de manera vinculada con la Secretaría de Medio Ambiente y Recursos Naturales, promoverán la creación de un Programa Estatal de Educación Ambiental. Para ello, promoverán, certificarán y reforzarán la incorporación de actividades didácticas y contenidos en materia ambiental y manejo sustentable de recursos naturales dentro de los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud, como una práctica educativa integrada, continua y permanente. Asimismo, adoptarán las medidas y estrategias necesarias para propiciar el fortalecimiento y la formación de nuevos valores y actitudes en relación con el entorno, particularmente, en lo relativo a pautas de consumo, utilizando para ello los medios de comunicación masiva.
 
-El Instituto, en coordinación con el Instituto de Educación de Aguascalientes, fomentará y otorgará diversos incentivos a fin de que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría, en coordinación con el Instituto de Educación de Aguascalientes, fomentará y otorgará diversos incentivos a fin de que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica, establezcan programas académicos con el objeto de fomentar la formación de especialistas en la materia, la capacitación de personal técnico y directivo, además de la investigación de las causas y fenómenos ambientales.
 
 Las autoridades competentes promoverán, certificarán y reforzarán que los programas de educación técnica, licenciatura y posgrado, contengan en sus procesos curriculares los conocimientos y habilidades necesarias, a efecto de que los egresados de los mismos hayan adquirido las aptitudes que prevengan, mitiguen y corrijan los impactos ambientales que cause el ejercicio de su práctica profesional.
 
 La educación ambiental, en cualquiera de sus modalidades, deberá basar sus contenidos en la agenda de prioridades de la problemática ambiental local.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 51.
 
-La Secretaría General de Gobierno, a través de la Dirección General del Trabajo, en coordinación con el Instituto, incorporará como temáticas prioritarias la protección ambiental y el manejo sustentable de los recursos naturales en sus programas de desarrollo de personal, asistencia técnica y mejoramiento de la calidad, productividad y competitividad en las empresas. Así mismo, adoptará las medidas necesarias para que las comisiones mixtas de seguridad e higiene incluyan dentro de sus responsabilidades la protección de la calidad del ambiente.
+La Secretaría de Gobierno, a través de la Dirección General del Trabajo, en coordinación con la Secretaría, incorporará como temáticas prioritarias la protección ambiental y el manejo sustentable de los recursos naturales en sus programas de desarrollo de personal, asistencia técnica y mejoramiento de la calidad, productividad y competitividad en las empresas. Asimismo, adoptará las medidas necesarias para que las comisiones mixtas de seguridad e higiene incluyan dentro de sus responsabilidades la protección de la calidad del ambiente.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1019,11 +1117,11 @@ VII. La implementación de programas que fomenten la separación de residuos des
 
 Los Gobiernos Estatal y Municipales promoverán y reforzarán la creación de espacios de sensibilización, información y educación ambiental en los medios masivos de comunicación. Los contenidos de dichos espacios serán desarrollados por especialistas en las diferentes materias que ello implique y por representantes de los diferentes sectores sociales relacionados con la educación ambiental.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 56.
 
-El Instituto promoverá cursos de formación, sensibilización y actualización dirigidos a los comunicadores encargados de cubrir las fuentes de información ambiental de los diferentes medios masivos de comunicación.
+La Secretaría promoverá cursos de formación, sensibilización y actualización dirigidos a los comunicadores encargados de cubrir las fuentes de información ambiental de los diferentes medios masivos de comunicación.
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1063,7 +1161,9 @@ La Comisión Estatal de Educación Ambiental estará integrada por:
 
 I. Un Presidente, que será el Director General del Instituto de Educación de Aguascalientes;
 
-II. Un Secretario Técnico, que será el Director General del Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. Un Secretario Técnico, que será el Secretario de Medio Ambiente;
 
 III. Un Secretario de Actas, que será quien designe el Director General del Instituto de Educación de Aguascalientes;
 
@@ -1165,13 +1265,15 @@ XII. Asegurar la sustentabilidad integral de las actividades culturales, sociale
 
 XIII. Las demás causas de utilidad pública y las que se establezcan en el Sistema.
 
-En los casos a que se refieren las Fracciones IX y X, cuando se trate de jurisdicción Federal, el Instituto solicitará la intervención de las autoridades competentes.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+En los casos a que se refieren las Fracciones IX y X, cuando se trate de jurisdicción Federal, la Secretaría solicitará la intervención de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 64.
 
-En el establecimiento, administración y manejo de las áreas naturales protegidas de interés estatal y municipal, el Instituto promoverá la participación de sus habitantes, propietarios o poseedores, ayuntamientos y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección, preservación y conservación de los ecosistemas y su biodiversidad.
+En el establecimiento, administración y manejo de las áreas naturales protegidas de interés estatal y municipal, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, ayuntamientos y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección, preservación y conservación de los ecosistemas y su biodiversidad.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1211,7 +1313,9 @@ d) Relevancia, a nivel regional, estatal o municipal de los ecosistemas represen
 
 e) Antecedentes de protección del área; y
 
-f) Ubicación respecto a las áreas prioritarias para la conservación determinadas por el Instituto.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+f) Ubicación respecto a las áreas prioritarias para la conservación determinadas por la Secretaría.
 
 III. Diagnóstico del área, en el que se mencionen:
 
@@ -1263,7 +1367,9 @@ III. Monumento Natural: Son aquellas áreas que contienen un monumento natural c
 
 Su objetivo primario es proteger rasgos naturales específicos sobresalientes y la biodiversidad y los hábitats asociados a ellos. Además también se busca proporcionar protección a la biodiversidad en paisajes terrestres que en ausencia de ella sufrirían cambios sustanciales; proteger lugares naturales específicos con valores espirituales y/o culturales cuando estos también cuentan con valores de biodiversidad y conservar los valores espirituales y culturales tradicionales del lugar. Puede incluir rasgos geológicos y geomorfológicos naturales: como saltos de agua, acantilados, cuevas, lechos fluviales fósiles, formaciones rocosas; rasgos naturales con influencia cultural: como asentamientos en cuevas y caminos antiguos; lugares naturales-culturales: como las muchas formas de lugares sagrados (bosques sagrados, fuentes, saltos de agua, etc.) de importancia para uno o varios grupos de creyentes; lugares culturales asociados con el medio ambiente, en los que la protección de un lugar cultural también protege a una biodiversidad importante y significativa, como lugares arqueológicos/históricos que están vinculados a un área natural protegida.
 
-En esta categoría se permitirá la realización de actividades relacionadas con su conservación, restauración, investigación científica, recreación, educación, usos del suelo y el aprovechamiento sustentable de sus recursos naturales, siempre y cuando sean autorizados por el Instituto.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+En esta categoría se permitirá la realización de actividades relacionadas con su conservación, restauración, investigación científica, recreación, educación, usos del suelo y el aprovechamiento sustentable de sus recursos naturales, siempre y cuando sean autorizados por la Secretaría.
 
 IV. Áreas de Gestión de Hábitat de Especies: Son aquellas áreas donde la protección de hábitats o especies concretas y su gestión refleja dicha prioridad. Dichas áreas van a necesitar intervenciones activas habituales para abordar las necesidades de especies concretas o para mantener hábitats, pero esto no es un requisito de la categoría.
 
@@ -1271,11 +1377,11 @@ Su objetivo primario es mantener, conservar y restaurar especies y hábitats. Ad
 
 En esta categoría se pueden proteger especies concretas, que habitualmente se encuentran amenazadas; protección de hábitats: mantener o restaurar hábitats que a menudo son fragmentos de ecosistemas; gestión activa para mantener especies particulares: mantener poblaciones viables de especies concretas, lo que puede incluir la creación y mantenimiento de hábitats artificiales alimentación suplementaria u otros sistemas de gestión activa; gestión activa de ecosistemas naturales o seminaturales: mantener hábitats naturales o seminaturales que o son demasiado pequeños o están demasiado profundamente afectados como para ser autosustentables y la gestión activa de ecosistemas definidos culturalmente: mantener sistemas de gestión cultural cuando los mismos presentan una biodiversidad asociada singular. La intervención continua resulta necesaria porque el ecosistema ha sido creado o al menos sustancialmente modificado por la gestión. El objetivo primario de gestión es el mantenimiento de la biodiversidad asociada.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 67.
 
-Corresponderá al Instituto o al municipio respectivo según su competencia, la promoción y elaboración de recomendaciones y coordinación con las autoridades federales, con el propósito de hacer efectivas las disposiciones que regulen y limiten las actividades dentro de las áreas naturales protegidas de competencia estatal ó Municipal, tales como: actividades cinegéticas, de aprovechamiento de sus recursos naturales, de investigación y educación ambiental, de la conservación de los ecosistemas y de sus elementos, recreación y turismo, con el propósito de compatibilizar los regímenes de protección correspondientes.
+Corresponderá a la Secretaría o al municipio respectivo según su competencia, la promoción y elaboración de recomendaciones y coordinación con las autoridades federales, con el propósito de hacer efectivas las disposiciones que regulen y limiten las actividades dentro de las áreas naturales protegidas de competencia estatal ó Municipal, tales como: actividades cinegéticas, de aprovechamiento de sus recursos naturales, de investigación y educación ambiental, de la conservación de los ecosistemas y de sus elementos, recreación y turismo, con el propósito de compatibilizar los regímenes de protección correspondientes.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1287,11 +1393,11 @@ I. Los Parques Urbanos son áreas de uso público, constituidos en los centros d
 
 II. Las Zonas de Conservación Ecológicas de los Centros de Población: son áreas dentro de la mancha urbana, que presentan reductos de vegetación original en buen estado de conservación, representada por especies propias de la región y que se recomienda sean conservadas como parte del patrimonio natural.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 69.
 
-Para el establecimiento de las áreas naturales protegidas el Ayuntamiento se ajustará al procedimiento que establece esta Ley y a lo que dicten sus bandos, códigos y/o reglamentos; el programa de manejo del área de que se trate, deberá ser aprobado por el Instituto.
+Para el establecimiento de las áreas naturales protegidas el Ayuntamiento se ajustará al procedimiento que establece esta Ley y a lo que dicten sus bandos, códigos y/o reglamentos; el programa de manejo del área de que se trate, deberá ser aprobado por la Secretaría.
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1325,7 +1431,9 @@ Los municipios no podrán declarar Áreas Naturales Protegidas dentro de aquella
 
 Las áreas prioritarias para la conservación son aquellas regiones relevantes del Estado tanto por su riqueza de especies, ecosistemas y por los servicios ambientales que prestan, así como por los vestigios paleontológicos y prehispánicos que albergan.
 
-El instituto elaborará un catalogo de áreas prioritarias para conservación del estado, en las cuales se fomentarán las actividades que sean compatibles con el cuidado y preservación de sus recursos naturales y culturales entre las que se encuentra el fomento al desarrollo del turismo sustentable, el uso de fuentes alternas de energía, el fomento de servicios de salud; entre otras.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría elaborará un catálogo de áreas prioritarias para conservación del Estado, en las cuales se fomentarán las actividades que sean compatibles con el cuidado y preservación de sus recursos naturales y culturales entre las que se encuentra el fomento al desarrollo del turismo sustentable, el uso de fuentes alternas de energía, el fomento de servicios de salud; entre otras.
 
 Queda prohibido el establecimiento de nuevos centros de población o la expansión de los existentes al momento de incluirse como un área prioritaria para la conservación; la introducción de especies no nativas o exóticas; aquellas actividades que sean incompatibles con el ordenamiento ecológico del territorio; o el desarrollo de actividades que no sean compatibles con los criterios de conservación y cuidado de los recursos naturales y culturales previstos en el presente ordenamiento.
 
@@ -1339,31 +1447,31 @@ Queda prohibido el establecimiento de nuevos centros de población o la expansi�
 
 El Sistema de Áreas Naturales Protegidas del Estado, estará integrado por todas las áreas naturales protegidas establecidas en el territorio Estatal que no sean competencia de la federación.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 75.
 
-El Instituto a través del Sistema de Áreas Naturales Protegidas del Estado, llevará el registro e inventario de las áreas naturales protegidas al Sistema, en los que consignarán los datos de su inscripción en el Registro Público de la Propiedad y el Registro Agrario Nacional que corresponda, así como un resumen de la información contenida en los decretos, programas de manejo y demás instrumentos correspondientes, el cual deberá actualizarse continuamente. Este Sistema estará integrado al Sistema Nacional de Áreas Naturales Protegidas.
+La Secretaría a través del Sistema de Áreas Naturales Protegidas del Estado, llevará el registro e inventario de las áreas naturales protegidas al Sistema, en los que consignarán los datos de su inscripción en el Registro Público de la Propiedad y el Registro Agrario Nacional que corresponda, así como un resumen de la información contenida en los decretos, programas de manejo y demás instrumentos correspondientes, el cual deberá actualizarse continuamente. Este Sistema estará integrado al Sistema Nacional de Áreas Naturales Protegidas.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 76.
 
-Con el propósito de preservar el patrimonio natural en la Entidad, el instituto podrá celebrar convenios o acuerdos de concertación con grupos sociales y particulares interesados, para facilitar el logro de los objetivos bajo los cuales se hubieren establecido áreas naturales protegidas.
+Con el propósito de preservar el patrimonio natural en la Entidad, la Secretaría podrá celebrar convenios o acuerdos de concertación con grupos sociales y particulares interesados, para facilitar el logro de los objetivos bajo los cuales se hubieren establecido áreas naturales protegidas.
 
-Para coadyuvar en la conservación, administración, manejo, desarrollo y vigilancia de las áreas naturales protegidas integradas al Sistema, las autoridades municipales, en coordinación con el Instituto, podrán celebrar acuerdos de coordinación con las autoridades Federales, así como el sector social y privado.
+Para coadyuvar en la conservación, administración, manejo, desarrollo y vigilancia de las áreas naturales protegidas integradas al Sistema, las autoridades municipales, en coordinación con la Secretaría, podrán celebrar acuerdos de coordinación con las autoridades Federales, así como el sector social y privado.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 77.
 
-El Instituto, a través del Sistema y los acuerdos de coordinación que correspondan, podrá ejercer la administración de las Áreas Naturales Protegidas comprendidas dentro del territorio estatal.
+La Secretaría, a través del Sistema y los acuerdos de coordinación que correspondan, podrá ejercer la administración de las Áreas Naturales Protegidas comprendidas dentro del territorio estatal.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 78.
 
-El Instituto podrá establecer el cobro del uso de servicios ambientales provenientes de las áreas naturales protegidas ubicadas en su territorio y dentro de su competencia, los mecanismos de cobro se establecerán en el Reglamento respectivo.
+La Secretaría podrá establecer el cobro del uso de servicios ambientales provenientes de las áreas naturales protegidas ubicadas en su territorio y dentro de su competencia, los mecanismos de cobro se establecerán en el Reglamento respectivo.
 
 El costo de los servicios obedecerá a la dimensión de los programas y proyectos aprobados por las autoridades responsables. Los recursos obtenidos por este concepto pasarán a formar parte del Fondo Ambiental del Estado y se destinarán, de acuerdo a su disponibilidad a los siguientes fines exclusivos:
 
@@ -1389,11 +1497,11 @@ El Instituto, a través del área que el determine coordinará el Sistema de Ár
 
 ### CAPÍTULO V. Áreas de Conservación Privadas y Sociales
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 80.
 
-Las personas físicas o morales, públicas o privadas que acrediten la propiedad y la posesión de un inmueble, podrán voluntariamente destinarlo a acciones de conservación, conservación y restauración de los ecosistemas y su biodiversidad dedicadas a una función de interés público en los términos de esta Ley y mediante el instrumento jurídico que establezca el Instituto, de conformidad con el particular y signado por las partes, el cual deberá de ser registrado en la sección correspondiente del Registro Público de la Propiedad del Estado.
+Las personas físicas o morales, públicas o privadas que acrediten la propiedad y la posesión de un inmueble, podrán voluntariamente destinarlo a acciones de conservación, conservación y restauración de los ecosistemas y su biodiversidad dedicadas a una función de interés público en los términos de esta Ley y mediante el instrumento jurídico que establezca la Secretaría, de conformidad con el particular y signado por las partes, el cual deberá de ser registrado en la sección correspondiente del Registro Público de la Propiedad del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1415,13 +1523,13 @@ VI. Proteger los entornos naturales de zonas, monumentos y vestigios históricos
 
 VII. Propiciar procesos que aseguren la regeneración natural de los recursos bióticos.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 82.
 
-El Instituto expedirá un certificado de reconocimiento del área de conservación privada. El certificado deberá contener, nombre del promovente, objeto de conservación, denominación del área respectiva, ubicación, superficie y colindancias, el régimen de manejo a que se sujetará, datos de registro correspondientes y el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
+La Secretaría expedirá un certificado de reconocimiento del área de conservación privada. El certificado deberá contener, nombre del promotor, objeto de conservación, denominación del área respectiva, ubicación, superficie y colindancias, el régimen de manejo a que se sujetará, datos de registro correspondientes y el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
 
-Asimismo, el Instituto, llevará un registro o padrón de las áreas de conservación privadas y sociales como parte integrante del Sistema de Áreas Naturales Protegidas del Estado, en el que se consignen los datos antes señalados y los de su inscripción en el Registro Público de la Propiedad.
+Asimismo, la Secretaría, llevará un registro o padrón de las áreas de conservación privadas y sociales como parte integrante del Sistema de Áreas Naturales Protegidas del Estado, en el que se consignen los datos antes señalados y los de su inscripción en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1433,7 +1541,9 @@ Asimismo, el Instituto, llevará un registro o padrón de las áreas de conserva
 
 Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal o municipal, se deberán realizar los estudios que lo justifiquen, los cuales deberán ser puestos a disposición del público.
 
-Asimismo, el Instituto o el municipio correspondiente deberá solicitar la opinión de:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
+Asimismo, la Secretaría o el municipio correspondiente deberá solicitar la opinión de:
 
 I. Las dependencias de la administración Pública del Estado que deban intervenir, de conformidad con sus atribuciones;
 
@@ -1441,13 +1551,15 @@ II. Las organizaciones sociales públicas o privadas y demás personas físicas 
 
 III. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado.
 
-En los de competencia estatal, el Instituto deberá consultar a los gobiernos municipales en cuya circunscripción territorial se localiza el área natural de que se trate; (sic)
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+En los de competencia estatal, la Secretaría deberá consultar a los gobiernos municipales en cuya circunscripción territorial se localiza el área natural de que se trate.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 84.
 
-Cualquier persona podrá proponer al Instituto o al Municipio correspondiente, el establecimiento de un área natural protegida, para lo cual deberá presentar los estudios que sustenten su propuesta, así como los elementos determinados por esta Ley para su establecimiento.
+Cualquier persona podrá proponer a la Secretaría o al Municipio correspondiente, el establecimiento de un área natural protegida, para lo cual deberá presentar los estudios que sustenten su propuesta, así como los elementos determinados por esta Ley para su establecimiento.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1495,11 +1607,11 @@ El Gobierno del Estado o el ayuntamiento correspondiente promoverá ante la Fede
 
 El Gobierno del Estado o el municipio correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos, ocasione o pueda ocasionar deterioro al ambiente o daños graves a los recursos naturales.. (sic)
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 89.
 
-El Instituto y el Municipio correspondiente en coordinación con las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias:
+La Secretaría y el Municipio correspondiente en coordinación con las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias:
 
 I. Promoverán las inversiones públicas y privadas para establecimiento y manejo de las áreas naturales protegidas;
 
@@ -1513,11 +1625,11 @@ Para el caso del otorgamiento de incentivos fiscales, o asignación de facultade
 
 ### CAPÍTULO VII. Programas de Manejo
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 90.
 
-La autorización de los Programas de Manejo de las Áreas Naturales protegidas de competencia Estatal ó Municipal están a cargo del Instituto.
+La autorización de los Programas de Manejo de las Áreas Naturales protegidas de competencia Estatal ó Municipal está a cargo de la Secretaría.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1543,11 +1655,11 @@ VIII. El sistema de vigilancia y cuidado de la zona.
 
 Se deberá publicar el Periódico Oficial del Estado, un resumen del programa de manejo que contenga por lo menos la zonificación primaria y secundaria en el cual se incluye un plano de localización del área.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 92.
 
-Corresponde al Ejecutivo del Estado, por conducto del Instituto y la Comisión Estatal para el Conocimiento, Conservación y Uso Sustentable de la Biodiversidad la administración, manejo y vigilancia de las áreas naturales protegidas de competencias estatal en coordinación con las autoridades federales y municipales en los términos de esta Ley y la Ley General.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría y la Comisión Estatal para el Conocimiento, Conservación y Uso Sustentable de la Biodiversidad la administración, manejo y vigilancia de las áreas naturales protegidas de competencias estatal en coordinación con las autoridades federales y municipales en los términos de esta Ley y la Ley General.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1577,19 +1689,19 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 ### CAPÍTULO VIII. Unidades de Manejo Estatales y Municipales para la Conservación de la Vida Silvestre Terrestre y Acuática
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 96.
 
-Son Unidades, aquellas en que la federación haya trasmitido las facultades a las autoridades estatales y municipales; relativas a los predios e instalaciones registrados ante el Instituto que operan de conformidad con un programa de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen.
+Son Unidades, aquellas en que la federación haya trasmitido las facultades a las autoridades estatales y municipales; relativas a los predios e instalaciones registrados ante la Secretaría que operan de conformidad con un programa de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen.
 
 Las Unidades de Manejo Estatales ó municipales para la Conservación de la Vida Silvestre Terrestre y Acuática, tendrán como objetivo general la conservación del hábitat natural, poblaciones y ejemplares de especies silvestres.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 97.
 
-Para registrar los predios como Unidades de Manejo Estatales para la Conservación de la Vida Silvestre Terrestre y Acuática, el Instituto integrará, un expediente con los datos generales, los títulos que acrediten la propiedad o legítima posesión del promovente sobre los predios; la ubicación geográfica, superficie y colindancias de los mismos; y un programa de manejo.
+Para registrar los predios como Unidades de Manejo Estatales para la Conservación de la Vida Silvestre Terrestre y Acuática, la Secretaría integrará, un expediente con los datos generales, los títulos que acrediten la propiedad o legítima posesión del promotor sobre los predios; la ubicación geográfica, superficie y colindancias de los mismos; y un programa de manejo.
 
 El programa de manejo deberá contener:
 
@@ -1611,11 +1723,11 @@ VIII. En su caso, los medios y formas de aprovechamiento y el sistema de marca p
 
 El programa de manejo deberá ser elaborado por el responsable técnico, quien será responsable solidario con el titular de la unidad registrada, de la conservación de la vida silvestre terrestre y acuática, y su hábitat, en caso de otorgarse la autorización y efectuarse el registro.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 98.
 
-Una vez analizada la solicitud, el Instituto, expedirá, en un plazo no mayor de sesenta días, una resolución en la que podrá:
+Una vez analizada la solicitud; la Secretaría, expedirá, en un plazo no mayor de sesenta días, una resolución en la que podrá:
 
 I. Registrar estas unidades y aprobar sus programas de manejo en los términos presentados para el desarrollo de las actividades;
 
@@ -1629,27 +1741,29 @@ III. Negar el desarrollo de las actividades cuando de la ejecución del programa
 
 Las actividades de conservación y aprovechamiento sustentable se realizarán de conformidad con las disposiciones establecidas en esta Ley, las disposiciones que de ella deriven y con base en el programa de manejo respectivo.
 
-Los titulares de las Unidades deberán presentar al Instituto, de conformidad con lo establecido en el Reglamento respectivo de la presente Ley, informes periódicos sobre sus actividades, incidencias y contingencias, logros con base en los indicadores de éxito y, en el caso de aprovechamiento, datos socioeconómicos que se utilizarán únicamente para efectos estadísticos.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+Los titulares de las Unidades deberán presentar a la Secretaría, de conformidad con lo establecido en el Reglamento respectivo de la presente Ley, informes periódicos sobre sus actividades, incidencias y contingencias, logros con base en los indicadores de éxito y, en el caso de aprovechamiento, datos socioeconómicos que se utilizarán únicamente para efectos estadísticos.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 100.
 
-El personal debidamente acreditado por el titular del Instituto realizará, contando con mandamiento escrito expedido fundado y motivado por éste, visitas de supervisión técnica a las Unidades, o cuando se detecte alguna inconsistencia en el programa de manejo, estudios de poblaciones, muestreos, inventarios o informes presentados. La supervisión técnica no implicará actividades de inspección y tendrá por objeto constatar que la infraestructura y las actividades que se desarrollan corresponden con las descritas en el programa de manejo y de conformidad con las autorizaciones respectivas, para estar en posibilidades de asistir técnicamente a los responsables en la adecuada operación de dichas unidades.
+El personal debidamente acreditado por el titular de la Secretaría realizará, contando con mandamiento escrito expedido fundado y motivado por éste, visitas de supervisión técnica a las Unidades, o cuando se detecte alguna inconsistencia en el programa de manejo, estudios de poblaciones, muestreos, inventarios o informes presentados. La supervisión técnica no implicará actividades de inspección y tendrá por objeto constatar que la infraestructura y las actividades que se desarrollan corresponden con las descritas en el programa de manejo y de conformidad con las autorizaciones respectivas, para estar en posibilidades de asistir técnicamente a los responsables en la adecuada operación de dichas unidades.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 101.
 
-El Instituto promoverá el establecimiento y desarrollo de unidades en las zonas de influencia de las áreas naturales protegidas en el territorio estatal, con el propósito de reforzar sus zonas de amortiguamiento y dar continuidad a sus ecosistemas, siempre y cuando sea con flora y fauna nativa.
+La Secretaría promoverá el establecimiento y desarrollo de unidades en las zonas de influencia de las áreas naturales protegidas en el territorio estatal, con el propósito de reforzar sus zonas de amortiguamiento y dar continuidad a sus ecosistemas, siempre y cuando sea con flora y fauna nativa.
 
 Asimismo promoverá que dentro de las áreas naturales protegidas, que cuenten con programa de manejo, las Unidades involucren a los habitantes locales en la ejecución del programa dentro de sus predios, en especial cuando se trate de especies o poblaciones amenazadas o en peligro de extinción.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 102.
 
-En el caso del manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento, de acuerdo con un programa de manejo que deberá ser previamente aprobado por el Instituto y en el que se establecerán las condiciones de seguridad y de contingencia, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre terrestre y acuática y su hábitat.
+En el caso del manejo de ejemplares y poblaciones exóticos sólo se podrá llevar a cabo en condiciones de confinamiento, de acuerdo con un programa de manejo que deberá ser previamente aprobado por la Secretaría y en el que se establecerán las condiciones de seguridad y de contingencia, para evitar los efectos negativos que los ejemplares y poblaciones exóticos pudieran tener para la conservación de los ejemplares y poblaciones nativos de la vida silvestre terrestre y acuática y su hábitat.
 
 El establecimiento de confinamientos sólo se podrá realizar de conformidad con lo establecido en las disposiciones aplicables, con la finalidad de prevenir y minimizar los efectos negativos sobre los procesos biológicos y ecológicos, así como la sustitución o desplazamiento de poblaciones de especies nativas que se distribuyan de manera natural en el sitio.
 
@@ -1657,17 +1771,19 @@ El establecimiento de confinamientos sólo se podrá realizar de conformidad con
 
 ### CAPÍTULO IX. Ejemplares y Poblaciones de Vida Silvestre que se Tornen Perjudiciales
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 103.
 
-EL Gobierno del Estado previo convenio con la Federación, a través del Instituto y con la participación de los ayuntamientos correspondientes, podrá recomendar y en su caso autorizar conforme a las disposiciones aplicables, tomar medidas de control referente a los ejemplares y poblaciones de vida silvestre que se tornen perjudiciales, previo estudio realizado a través del Instituto.
+EL Gobierno del Estado previo convenio con la Federación, a través de la Secretaría y con la participación de los ayuntamientos correspondientes, podrá recomendar y en su caso autorizar conforme a las disposiciones aplicables, tomar medidas de control referente a los ejemplares y poblaciones de vida silvestre que se tornen perjudiciales, previo estudio realizado a través de la Secretaría.
 
 Previamente los interesados deberán proporcionar la información de daños a la autoridad correspondiente, con el objeto de que esta pueda valorar y en su caso autorizar lo que aplique.
 
 Los medios y técnicas deberán ser los adecuados para no afectar a otros ejemplares, a las poblaciones, especies y sus hábitats.
 
-Se evaluará primero la posibilidad de aplicar medidas de control como captura, tras locación o colecta para el desarrollo de proyectos de recuperación, actividades de repoblación, reintroducción, investigación y educación ambiental ó cualquier otra que el Instituto así lo considere.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Se evaluará primero la posibilidad de aplicar medidas de control como captura, tras locación o colecta para el desarrollo de proyectos de recuperación, actividades de repoblación, reintroducción, investigación y educación ambiental ó cualquier otra que la Secretaría así lo considere.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1725,21 +1841,21 @@ Para asegurar la conservación y uso sustentable de la biodiversidad del Estado 
 
 ### CAPÍTULO XI. Registro Estatal de Áreas Naturales Protegidas
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 109.
 
-El Instituto integrará el Registro Estatal de Áreas Naturales Protegidas, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas de competencia estatal y municipal y los instrumentos que los modifiquen. El Registro podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al Sistema Estatal de Información Ambiental.
+La Secretaría integrará el Registro Estatal de Áreas Naturales Protegidas, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas de competencia estatal y municipal y los instrumentos que los modifiquen. El Registro podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al Sistema Estatal de Información Ambiental.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO XII. Comisión Estatal para el Conocimiento, Conservación y Uso Sustentable de la Biodiversidad
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 110.
 
-Se crea la Comisión Estatal Para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad, como un órgano auxiliar del Instituto, cuya estructura administrativa se establecerá en el Reglamento Interior de dicho organismo, teniendo como funciones y facultades las siguientes:
+Se crea la Comisión Estatal Para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad, como un órgano auxiliar de la Secretaría, cuya estructura administrativa se establecerá en el Reglamento Interior de dicho organismo, teniendo como funciones y facultades las siguientes:
 
 I. Generar, compilar y manejar información para el establecimiento de un programa sobre los inventarios biológicos del Estado que aporte elementos para conocer cualitativa y cuantitativamente la distribución de las diversas especies de flora y fauna presentes en todo el territorio del Estado;
 
@@ -1757,25 +1873,29 @@ VII. Generar conocimientos que contribuyan al aprovechamiento racional y la cons
 
 VIII. Dar seguimiento a la implementación de la Estrategia Estatal de Conservación y Uso Sustentable de la Biodiversidad del Estado de Aguascalientes;
 
-IX. Ser el punto de enlace y coordinación entre el Instituto y la CONABIO;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+IX. Ser el punto de enlace y coordinación entre la Secretaría y la CONABIO;
 
 X. Divulgar los resultados de las investigaciones científicas y trabajos que apoye y realice en materia de biodiversidad;
 
 XI. Conformar y mantener actualizado el Sistema Estatal de Información sobre Biodiversidad (SEIB) y aportar información al Sistema Nacional de Información sobre Biodiversidad (SNIB);
 
-XII. Proporcionar capacitación, gestionar y otorgar apoyos para estudios de especialización y postgrado a su personal en las áreas de competencia de la entidad, a través de los convenios que se suscriban al efecto con instituciones educativas nacionales o extranjeras y de conformidad con los lineamientos que al efecto expida el Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XII. Proporcionar capacitación, gestionar y otorgar apoyos para estudios de especialización y post-grado a su personal en las áreas de competencia de la entidad, a través de los convenios que se suscriban al efecto con instituciones educativas nacionales o extranjeras y de conformidad con los lineamientos que al efecto expida la Secretaría;
 
 XIII. Intercambiar información técnica, materiales de investigación y especialistas con organismos nacionales e internacionales, sobre la base de instrumentos jurídicos que al efecto se suscriban; y
 
 XIV. Las demás actividades relacionadas con la investigación básica o aplicada que le correspondan conforme a la presente Ley o demás disposiciones jurídicas relativas y las que sean necesarias o convenientes para la mejor realización de sus objetivos o mandato.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 111.
 
-El Instituto contara con un fondo económico, formado a partir de los recursos que se le otorguen para tal fin a través del presupuesto de egresos del Estado, el cual se destinara al fomento y apoyo de la investigación sobre la biodiversidad estatal.
+La Secretaría contará con un fondo económico, formado a partir de los recursos que se le otorguen para tal fin a través del Presupuesto de Egresos del Estado, el cual se destinará al fomento y apoyo de la investigación sobre la biodiversidad estatal.
 
-El instituto a través de la Comisión Estatal Para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad establecerá el Reglamento de operación de dicho fondo, el cual debe de contemplar la creación de un consejo evaluador y dictaminador de los proyectos de investigación que pretendan ser apoyados a través de dicho fondo.
+La Secretaría a través de la Comisión Estatal Para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad establecerá el Reglamento de operación de dicho fondo, el cual debe de contemplar la creación de un consejo evaluador y dictaminador de los proyectos de investigación que pretendan ser apoyados a través de dicho fondo.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -1785,11 +1905,11 @@ El instituto a través de la Comisión Estatal Para el Conocimiento, Conservaci�
 
 ## TÍTULO QUINTO. APROVECHAMIENTO SUSTENTABLE DE ELEMENTOS NATURALES
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 112.
 
-El Instituto propondrá ante el Ejecutivo del Estado, la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, conforme a los principios establecidos en la presente Ley.
+La Secretaría propondrá ante el Ejecutivo del Estado, la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, conforme a los principios establecidos en la presente Ley.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -1843,11 +1963,11 @@ VII. El diseño de los conjuntos habitacionales.
 
 Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 116.
 
-El Instituto promoverá las acciones necesarias para revertir los procesos antropogénicos que provocan la eutroficación, contaminación o cualquier otro proceso de degradación de las aguas de competencia estatal.
+La Secretaría promoverá las acciones necesarias para revertir los procesos antropogénicos que provocan la eutroficación, contaminación o cualquier otro proceso de degradación de las aguas de competencia estatal.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1861,11 +1981,11 @@ La construcción de nuevos sistemas de abastecimiento de agua o su ampliación r
 
 Los organismos operadores de agua y alcantarillado en coordinación con las autoridades competentes, estimularán la participación ciudadana a través de la aplicación de incentivos para aquellos usuarios que practiquen un uso eficiente y reuso del agua.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 119.
 
-El Instituto, en coordinación con las autoridades competentes, participará y promoverá ante el Consejo de Cuenca, el aprovechamiento sustentable del agua.
+La Secretaría, en coordinación con las autoridades competentes, participará y promoverá ante el Consejo de Cuenca, el aprovechamiento sustentable del agua.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1873,17 +1993,17 @@ El Instituto, en coordinación con las autoridades competentes, participará y p
 
 El Ejecutivo del Estado promoverá que el uso eficiente del agua en las actividades agropecuarias, industriales, de servicios y centros de población, tenga como finalidad alcanzar el equilibrio entre la extracción y la recarga.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 121.
 
-No podrán establecerse en el Estado empresas altamente demandantes de agua, quedando su autorización sujeta a la aprobación por parte del Instituto y los organismos reguladores del agua con base a la evaluación del Manifiesto de Impacto Ambiental.
+No podrán establecerse en el Estado empresas altamente demandantes de agua, quedando su autorización sujeta a la aprobación por parte de la Secretaría y los organismos reguladores del agua con base a la evaluación del Manifiesto de Impacto Ambiental.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 122.
 
-Para la apertura y crecimiento de zonas agrícolas altamente demandantes de agua, el legítimo propietario de la zona agrícola deberá presentar ante el Instituto un Informe Preventivo para su evaluación y dictamen el cual será remitido a las instancias competentes.
+Para la apertura y crecimiento de zonas agrícolas altamente demandantes de agua, el legítimo propietario de la zona agrícola deberá presentar ante la Secretaría un Informe Preventivo para su evaluación y dictamen el cual será remitido a las instancias competentes.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -1937,11 +2057,11 @@ Las actividades de exploración, explotación, extracción y aprovechamiento de 
 
 El desarrollo de estas actividades estará regulado por los procedimientos, lineamientos y acciones en materia de protección y restauración ambiental que para su efecto establezca la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 126.
 
-En aquellas áreas que presenten procesos de degradación o desertificación, o grave deterioro ambiental, el Instituto promoverá ante las autoridades federales competentes, la declaratoria para el establecimiento de zonas de restauración ecológica, en los términos de la Ley General, para lo cual deberán tomarse en cuenta los orígenes de la degradación o el grado de desertificación del suelo.
+En aquellas áreas que presenten procesos de degradación o desertificación, o grave deterioro ambiental, la Secretaría promoverá ante las autoridades federales competentes, la declaratoria para el establecimiento de zonas de restauración ecológica, en los términos de la Ley General, para lo cual deberán tomarse en cuenta los orígenes de la degradación o el grado de desertificación del suelo.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2013,37 +2133,39 @@ Se exceptúan de lo anterior la utilización de bolsas de polietileno por cuesti
 
 Se elaborará y difundirá un "Programa de Sustitución gradual de Plástico No Biodegradable por materiales Biodegradables", con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradables que se utilicen en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 132.
 
-El Instituto y los Municipios, en los términos que señale el Reglamento respectivo de esta Ley, integrarán inventarios de emisiones atmosféricas, de descargas de aguas residuales y de materiales y residuos de su competencia; así mismo, coordinarán los registros que establece esta Ley y la Ley General, y crearán un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse, estableciendo mecanismos de consulta ciudadana que operen de manera ágil.
+La Secretaría y los Municipios, en los términos que señale el Reglamento respectivo de esta Ley, integrarán inventarios de emisiones atmosféricas, de descargas de aguas residuales y de materiales y residuos de su competencia; asimismo, coordinarán los registros que establece esta Ley y la Ley General, y crearán un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse, estableciendo mecanismos de consulta ciudadana que operen de manera ágil.
 
 Por lo señalado en el párrafo anterior, las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del inventario.
 
-El instituto deberá establecer los mecanismos y procedimientos necesarios, para facilitar a los usuarios el cumplimiento de estas disposiciones mediante el establecimiento y la realización de un trámite único, aplicable a los casos de operaciones y funcionamiento de establecimientos industriales, comerciales o de servicios, que requieran obtener permisos diversos, licencias, registros y autorizaciones que estén bajo facultad expresa del Instituto.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+La Secretaría deberá establecer los mecanismos y procedimientos necesarios, para facilitar a los usuarios el cumplimiento de estas disposiciones mediante el establecimiento y la realización de un trámite único, aplicable a los casos de operaciones y funcionamiento de establecimientos industriales, comerciales o de servicios, que requieran obtener permisos diversos, licencias, registros y autorizaciones que estén bajo facultad expresa de la Secretaría.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 133.
 
-El Estado, a través del Instituto y los municipios, deberán integrar un Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente conforme a las disposiciones generales, las normas oficiales mexicanas y demás ordenamientos aplicables.
+El Estado, a través de la Secretaría y los municipios, deberán integrar un Registro de Emisiones y Transferencia de Contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente conforme a las disposiciones generales, las normas oficiales mexicanas y demás ordenamientos aplicables.
 
-La información del registro en mención se integrará con los datos y documentos contenidos en las autorizaciones, cédulas de operación anual, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Instituto y en su caso, ante los Ayuntamientos respectivos.
+La información del registro en mención se integrará con los datos y documentos contenidos en las autorizaciones, cédulas de operación anual, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría y en su caso, ante los Ayuntamientos respectivos.
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información en las fechas que le especifique la autoridad competente, con los datos desagregados por sustancia y por fuente, y documentos necesarios para la integración del registro, anexando nombre y dirección de sus establecimientos sujetos a registro.
 
-La información registrada será pública y tendrá efectos declarativos. El Instituto permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y las difundirá periódicamente, con excepción de la información que por manifestación expresa de la legislación correspondiente se excluya, además de lo establecido en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
+La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y las difundirá periódicamente, con excepción de la información que por manifestación expresa de la legislación correspondiente se excluya, además de lo establecido en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 La información contenida en el registro será útil además, para efectos de coadyuvar con la autoridad ambiental federal, en la integración del registro de Emisiones y Transferencia de Contaminantes a que se refiere la Ley General.
 
-La información registrada en cuanto a residuos sólidos urbanos y de manejo especial se refiere, será parte de la cédula de operación anual entregada por el responsable generador así como de los Planes de Manejo de dichos residuos, esto para el registro de residuos sólidos debiéndose informar en la fecha que el Instituto le señale, de acuerdo con el Reglamento correspondiente.
+La información registrada en cuanto a residuos sólidos urbanos y de manejo especial se refiere, será parte de la cédula de operación anual entregada por el responsable generador así como de los Planes de Manejo de dichos residuos, esto para el registro de residuos sólidos debiéndose informar en la fecha que la Secretaría le señale, de acuerdo con el Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 134.
 
-El Estado a través del Instituto establecerá la Estrategia Estatal de Cambio Climático, para lo cual el Instituto tendrá las siguientes facultades:
+El Estado a través de la Secretaría establecerá la Estrategia Estatal de Cambio Climático, para lo cual la Secretaría tendrá las siguientes facultades:
 
 I. Ser el punto de enlace y colaboración del estado, con la Estrategia Nacional e Internacional para combatir el Cambio Climático;
 
@@ -2129,11 +2251,11 @@ c) Las que no sean de competencia estatal o federal; y
 
 d) Las que el Estado bajo convenio con los Ayuntamientos, se establezcan adicionalmente como de su competencia.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 138.
 
-Para regular, prevenir, controlar, reducir o evitar la contaminación de la atmósfera y sus efectos en el cambio climático, el Instituto tendrá las siguientes facultades:
+Para regular, prevenir, controlar, reducir o evitar la contaminación de la atmósfera y sus efectos en el cambio climático, la Secretaría tendrá las siguientes facultades:
 
 I. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
@@ -2171,7 +2293,9 @@ Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, l
 
 I. Aplicar los criterios generales para la protección de la atmósfera en los planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de industrias;
 
-II. Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con el Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. Establecer las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con la Secretaría;
 
 III. Aplicar las normas oficiales mexicanas para prevenir la contaminación de la atmósfera, en las materias y supuestos de su competencia;
 
@@ -2195,31 +2319,43 @@ VIII. Establecer una estrategia municipal que establezca las medidas contra el c
 
 Queda prohibido emitir contaminantes a la atmósfera, provenientes de fuentes fijas que rebasen los límites máximos permisible establecidos en las normas oficiales mexicanas, y en su caso, en la licencia de funcionamiento correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 141.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá contar con licencia estatal de funcionamiento emitida por el Instituto y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá contar con licencia estatal de funcionamiento emitida por la Secretaría y cumplir además con las siguientes obligaciones:
 
 I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas;
 
-II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine y con la periodicidad que determine el instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine y con la periodicidad que determine la Secretaría;
 
 III. Instalar plataformas y puertos de muestreo en chimeneas, tiros, ductos y descargas;
 
-IV. Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine el Instituto y remitir a ésta los registros, cuando así lo solicite;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
-V. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente o a la salud de los seres vivos, a juicio del Instituto;
+IV. Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría y remitir a ésta los registros, cuando así lo solicite;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+V. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente o a la salud de los seres vivos, a juicio de la Secretaría;
 
 VI. Llevar una bitácora de operación y mantenimiento de sus equipos de proceso que generen emisiones contaminantes y de los equipos de control de anticontaminantes;
 
-VII. Dar aviso anticipado al Instituto del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
-VIII. Dar aviso inmediato al Instituto en el caso de falla del equipo de control, para que ésta determine lo conducente;
+VII. Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. Dar aviso inmediato a la Secretaría en el caso de falla del equipo de control, para que ésta determine lo conducente;
 
 IX. Establecer las medidas y acciones que deberán efectuarse en caso de contingencia;
 
-X. Elaborar y someter a evaluación ante el Instituto un programa de prevención, tratamiento y minimización de contaminantes atmosféricos, así como de tratamiento, disposición y reutilización para el caso de residuos; cuando se requiera, por la cantidad o naturaleza de los contaminantes o residuos generados, de conformidad con la presente Ley y el Reglamento respectivo; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+X. Elaborar y someter a evaluación ante la Secretaría un programa de prevención, tratamiento y minimización de contaminantes atmosféricos, así como de tratamiento, disposición y reutilización para el caso de residuos; cuando se requiera, por la cantidad o naturaleza de los contaminantes o residuos generados, de conformidad con la presente Ley y el Reglamento respectivo; y
 
 XI. Las demás que se establezcan en ésta Ley, los ordenamientos que de ella se deriven o las demás que determinen las autoridades ambientales en el ámbito de sus respectivas competencias.
 
@@ -2255,9 +2391,13 @@ XI. Equipos para el control de la contaminación atmosférica que vayan a utiliz
 
 XII. Programa de acciones para el caso de contingencias ambientales, que contenga las medidas y acciones que se llevarán a cabo cuando tenga lugar alguna, cuando las condiciones meteorológicas de la región no sean favorables o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
 
-La información a que se refiere éste Artículo deberá presentarse en el formato que determine el Instituto, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
-Una vez recibida la solicitud e integrado el expediente respectivo, el instituto contará con el término de 20 días hábiles para dictar la resolución en la que otorgará o negará, de manera fundada y motivada, la licencia de funcionamiento.
+La información a que se refiere este Artículo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Una vez recibida la solicitud e integrado el expediente respectivo, la Secretaría contará con el término de 20 días hábiles para dictar la resolución en la que otorgará o negará, de manera fundada y motivada, la licencia de funcionamiento.
 
 En caso de ser otorgada, la licencia de funcionamiento tendrá una vigencia de dos años, por lo que a su término deberá ser renovada a través del mismo trámite por el cual se otorgó.
 
@@ -2269,7 +2409,9 @@ La licencia estatal de funcionamiento a que se refiere el Artículo anterior, de
 
 I. Los límites máximos permisible de emisión por tipo de contaminantes a que deberá sujetarse la fuente emisora, cuando por sus características especiales de construcción o por sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas;
 
-II. La periodicidad con que deberá remitirse al Instituto el inventario de emisiones;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. La periodicidad con que deberá remitirse a la Secretaría el inventario de emisiones;
 
 III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de las emisiones;
 
@@ -2305,7 +2447,9 @@ El certificado de baja emisión a que se refiere el Artículo anterior, será ex
 
 Las autoridades estatales y municipales conmemorarán el día 5 de junio como el Día Mundial del Medio Ambiente, para lo cual celebrarán de manera coordinada el día sin uso de automóvil en Aguascalientes, bajo las siguientes reglas:
 
-I. El Instituto del Medio Ambiente, en coordinación con la Procuraduría de Protección al Ambiente, los organismos de la materia municipales así como la Secretaria de Gobierno del Estado de Aguascalientes, promoverán el día estatal sin uso de automóvil que se celebrará el primer sábado del mes de junio;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+I. La Secretaría, en coordinación con la Procuraduría de Protección al Ambiente, los organismos de la materia municipales así como la Secretaria de Gobierno del Estado de Aguascalientes, promoverán el día estatal sin uso de automóvil que se celebrará el primer sábado del mes de junio;
 
 II. Para llevar a cabo los festejos, las instituciones participantes realizarán una campaña a fin de invitar a la población para que el primer sábado de junio se abstenga de utilizar vehículos particulares y recurra a medios alternativos de transporte, en especial aquellos que no contaminan;
 
@@ -2327,11 +2471,15 @@ II. Cuando con esta medida se evite un riesgo mayor a la comunidad o a los eleme
 
 III. En caso de quemas agrícolas, cuando no se impacten severamente la calidad del aire, represente un riesgo a la salud o a los ecosistemas, y medie anuencia de alguna autoridad forestal, agraria o pecuaria, de acuerdo con las normas oficiales mexicanas correspondientes;
 
-IV. Tratándose de quemas experimentales para fines de investigación, se deberá obtener la autorización del Instituto; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+IV. Tratándose de quemas experimentales para fines de investigación, se deberá obtener la autorización de la Secretaría; y
 
 V. Todas las demás que contemple las normas oficiales mexicanas correspondientes;
 
-El Instituto o los Municipios, podrán autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría o los Municipios, podrán autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2451,15 +2599,17 @@ III. Aplicar la tecnología disponible para reducir la generación de contaminan
 
 IV. Facilitar el reuso de las aguas residuales;
 
-V. Dar aviso al Instituto o a las autoridades municipales en caso de su compostura o falla de los equipos de control de la contaminación; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+V. Dar aviso a la Secretaría o a las autoridades municipales en caso de su compostura o falla de los equipos de control de la contaminación; y
 
 VI. Las demás que señalen los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 159.
 
-En materia de regulación, prevención y control de la contaminación del agua, el Instituto tendrá las siguientes facultades:
+En materia de regulación, prevención y control de la contaminación del agua, la Secretaría tendrá las siguientes facultades:
 
 I. Prevenir y controlar la contaminación de los cuerpos receptores de competencia estatal;
 
@@ -2525,11 +2675,11 @@ III. La regulación sobre la generación, tratamiento, transferencia, almacenami
 
 IV. La Autorización de los sistemas de recolección, acopio, transporte, transferencia, reciclaje, reutilización, coprocesamiento, tratamiento y disposición final de residuos de manejo especial y sólidos urbanos de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
-Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, el Instituto y los municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, reuso y reciclaje de residuos sólidos, industriales no peligrosos y peligrosos.
+Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, la Secretaría y los municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, reuso y reciclaje de residuos sólidos, industriales no peligrosos y peligrosos.
 
 Asimismo, promoverán la creación y aplicación de incentivos en favor de quienes realicen dichas actividades.
 
@@ -2585,23 +2735,35 @@ IV. El confinamiento o depósito final de residuos no peligrosos que excedan los
 
 La generación, recolección, acopio, almacenamiento, transporte, transferencia, reciclado, reutilización, tratamiento, coprocesamiento y disposición final de los residuos de manejo especial y sólidos urbanos, estará sujeta a las disposiciones de la presente Ley, su Reglamento en materia de prevención y gestión integral de los residuos, las Normas Oficiales Mexicanas y demás disposiciones que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 169.
 
-En materia de residuos no peligrosos, corresponde al Instituto:
+En materia de residuos no peligrosos, corresponde a la Secretaría:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Autorizar a particulares la prestación de servicios a terceros que tengan por objeto la recolección, acopio, transferencia, reciclado, transporte, almacenamiento, reutilización, coprocesamiento, tratamiento y disposición final de residuos sólidos urbanos y de manejo especial de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Autorizar al generador de residuos sólidos urbanos y de manejo especial la instalación y operación de sistemas para el reciclado, reutilizacion, coprocesamiento, tratamiento y disposición final dentro y fuera de la instalación donde se generan dichos residuos;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Realizar acciones para favorecer el cumplimiento de la Normatividad en materia de Prevención y Gestión Integral de los Residuos en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por el inadecuado manejo de residuos no peligrosos;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 V. Aplicar el Reglamento en materia de Prevención y Gestión Integral de Residuos;
 
-VI. Autorizar la recolección, acopio, transporte, transferencia, reciclado, reutilización, coprocesamiento, tratamiento y disposición final de residuos, según los planes de manejo que el Instituto exija al generador; asimismo el Instituto debe autorizar los Planes de Manejo de Residuos Sólidos Urbanos y de manejo especial que señale el Reglamento de esta Ley en materia de Prevención y Gestión Integral de los Residuos.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VI. Autorizar la recolección, acopio, transporte, transferencia, reciclado, reutilización, coprocesamiento, tratamiento y disposición final de residuos, según los planes de manejo que la Secretaría exija al generador; asimismo la Secretaría debe autorizar los Planes de Manejo de Residuos Sólidos Urbanos y de manejo especial que señale el Reglamento de esta Ley en materia de Prevención y Gestión Integral de los Residuos.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2665,11 +2827,11 @@ El Reglamento de esta Ley establecerá la clasificación de las actividades que 
 
 Para la determinación de esta clasificación, se deberá considerar previamente la opinión de las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 176.
 
-Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde al Instituto:
+Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde a la Secretaría:
 
 I. En coordinación con las instancias competentes, evaluar y en su caso aprobar, los estudios de riesgo ambiental, así como los programas para la prevención de accidentes y atención a contingencias;
 
@@ -2823,7 +2985,7 @@ El Consejo funcionará conforme a lo que establece el Reglamento Interno, que é
 
 ### CAPÍTULO IV. Denuncia Ciudadana
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 185.
 
@@ -2835,25 +2997,25 @@ Toda solicitud de información ambiental deberá presentarse por escrito, especi
 
 La respuesta a los solicitantes deberá ser gratuita, por lo que sólo en caso de que se generen gastos por concepto de copias certificadas, deberá cubrir los derechos correspondientes, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 186.
 
-El Instituto con la participación que corresponda a los Municipios, desarrollará el Sistema Estatal de Información Ambiental, en coordinación con el Sistema Nacional de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental en el Estado.
+La Secretaría con la participación que corresponda a los Municipios, desarrollará el Sistema Estatal de Información Ambiental, en coordinación con el Sistema Nacional de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental en el Estado.
 
 En dicho Sistema se integrarán, entre otros aspectos, información relativa a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo, al ordenamiento ecológico del territorio; así como a las emisiones atmosféricas, descargas de aguas residuales y residuos; y la correspondiente a los registros, programas y acciones que se realicen para la preservación y protección del ambiente.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 187.
 
-El Instituto y los Municipios elaborarán conjuntamente un diagnóstico de la situación general existente en la Entidad en materia ambiental, el cual se integrará al Sistema Estatal de Información Ambiental.
+La Secretaría y los Municipios elaborarán conjuntamente un diagnóstico de la situación general existente en la Entidad en materia ambiental, el cual se integrará al Sistema Estatal de Información Ambiental.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 188.
 
-El Instituto de conformidad con el Reglamento respectivo de la presente Ley, publicará una gaceta en la que se darán a conocer las disposiciones jurídicas, tales como reglamentos, decretos, acuerdos y demás actos administrativos, independientemente de su publicación en el Periódico Oficial del Estado o en otros órganos de difusión; así como información de interés general en materia ambiental, que publiquen los Gobiernos Federal, Estatal y Municipales, o documentos internacionales en materia ambiental de interés para la Entidad.
+La Secretaría de conformidad con el Reglamento respectivo de la presente Ley, publicará una gaceta en la que se darán a conocer las disposiciones jurídicas, tales como reglamentos, decretos, acuerdos y demás actos administrativos, independientemente de su publicación en el Periódico Oficial del Estado o en otros órganos de difusión; así como información de interés general en materia ambiental, que publiquen los Gobiernos Federal, Estatal y Municipales, o documentos internacionales en materia ambiental de interés para la Entidad.
 
 Asimismo, se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
 
@@ -2869,11 +3031,11 @@ La autoridad ambiental deberá responder por escrito a los solicitantes de infor
 
 Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 191.
 
-El Instituto o las autoridades municipales competentes negarán la información solicitada cuando:
+La Secretaría o las autoridades municipales competentes negarán la información solicitada cuando:
 
 I. Se considere que la información es confidencial, de acuerdo con la Ley o que por su propia naturaleza su difusión afecta o puede afectar la seguridad de la Entidad o Municipios;
 
@@ -2891,7 +3053,7 @@ IV. Se tenga que respetar la propiedad intelectual de su autor.
 
 ###### ARTÍCULO 192.
 
-Toda persona, física o moral, podrá denunciar ante el Instituto, las autoridades federales o municipales en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
+Toda persona, física o moral, podrá denunciar ante la Secretaría, las autoridades federales o municipales en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
 En caso de presentarse una denuncia ciudadana ante una autoridad ambiental que no sea competente, ésta deberá ser turnada de inmediato a la autoridad facultada para ello.
 
@@ -3167,11 +3329,11 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 En los casos en que se imponga como sanción la clausura temporal, la autoridad ambiental deberá indicar al infractor las medidas correctivas y las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 217.
 
-El Instituto, la Procuraduría o la autoridad municipal correspondiente podrán promover ante las autoridades competentes, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente o los recursos naturales.
+La Secretaría, la Procuraduría o la autoridad municipal correspondiente podrán promover ante las autoridades competentes, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente o los recursos naturales.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3352,6 +3514,12 @@ El "Programa de Sustitución de Plástico No Biodegradable por materiales Biodeg
 ###### ARTÍCULO QUINTO.
 
 El Ejecutivo elaborará junto con el Instituto del Medio Ambiente del Estado de Aguascalientes, los contenidos de las campañas de difusión y concientización para el programa de Sustitución de Plástico no Biodegradable, incluyendo las alternativas con materiales Biodegradables.
+
+P.O. 4 DE JULIO DE 2011
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO 2°.
 
