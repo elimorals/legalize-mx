@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-apodaca-4137
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2004-10-06"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 6 de octubre de 2004.
 
@@ -468,7 +468,11 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o un
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado.
+
+Solo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas. Los vidrios entintados de fábrica si serán permitidos.
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -2020,6 +2024,8 @@ IV. RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retir
 
 V. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 TABULADOR DE INFRACCIONES
 
 No. INFRACCIÓN ARTÍCULO FRACCIÓN INCISO CUOTAS
@@ -2066,9 +2072,7 @@ de pasajeros 98 V 5 a 8
 
 6 Bajar o subir pasaje en
 
-lugar prohibido 39,40
-
-y 52 V 8 a 15
+lugar prohibido 39,40 y 52 V 8 a 15
 
 7 Cambiar de carril en
 
@@ -2076,7 +2080,7 @@ lugar prohibido 86 III 3 a 5
 
 8 Cambiar de carril sin
 
-precaución 86 I 3 a 5
+precaución 86 I 3 a 8
 
 9 Circular a baja de
 
@@ -2158,7 +2162,13 @@ conductor 26 VII 3 a 5
 
 sombreado o carecer
 
-de él 24 VIII 5 a 8
+de él, circular con los
+
+demás cristales sombreados,
+
+polarizados y/o con objetos en
+
+los mismos. 24 VIII 70 a 80
 
 23 Circular con permiso
 
@@ -3296,9 +3306,11 @@ X. Estacionarse en lugares exclusivos de personas con capacidad diferenciada;
 
 XI. Transportar material peligroso.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 141.
 
-Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación referida.
+Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación (sic) póliza de seguro vigente, polarizado en cristales y/o roturas en cristal parabrisas, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal correspondiente la documentación referida o bien, demuestre el retiro del polarizado o reparación del cristal.
 
 ###### ARTÍCULO 142.
 
@@ -3399,3 +3411,9 @@ Presidente Municipal
 LIC. BENITO CABALLERO GARZA
 
 Secretario DEL R. Ayuntamiento
+
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 4 DE JULIO DE 2011
+
+ÚNICO.- La sanción a que se refiere la línea 22 del tabulador de infracciones de la fracción (sic) artículo 136 se aplicará después de la puesta en vigor de esta medida que será el 15 de julio de 2011.
