@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2004-11-12"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -547,7 +547,13 @@ VI TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o uni
 
 VII VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
-VIII CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII CRISTALES.- Todos los cristales de los vehículos automotores deberán estar en buenas condiciones, mantenerse limpios y libres de objetos o materiales que impidan o limiten la visibilidad del exterior al interior y a la inversa, así como libres de cualquier tipo de película o polarizado Solamente se permitirá el polarizado, entintado u obscurecido en los cristales de aquellos vehículos automotores que así provengan de fábrica.
+
+Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin fracturas.
 
 IX TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -2095,7 +2101,7 @@ Cuando una de las partes involucradas en un accidente sin lesionados ni fallecid
 
 ###### ARTICULO 115.
 
-El arrastre de vehículos participantes en accidente se hará por los servicios de grúas cuyos propietarios tengan autorizado este servicio por el Municipio. En todos los casos los vehículos que se detengan serán depositados en los lotes autorizados.
+El arrastre de vehículos participantes en accidentes se hará por los servicios de grúas cuyos propietarios tengan autorizado este servicio por el Municipio. En todos los casos los vehículos que se detengan serán depositados en los lotes autorizados.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 111], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -2317,7 +2323,7 @@ II Cuando a través de dispositivos electrónicos se detecte la comisión de una
 
 A) El dispositivo electrónico realizará la función de fotografiar, grabar, registrar o aquella con la que se demuestre la comisión de la infracción al presente ordenamiento, generando la impresión de la boleta de infracción que contendrá los requisitos señalados en el Artículo 142 en lo que corresponda.
 
-B) Se comunicará a quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiera14 la infracción, en el domicilio que aparezca en las bases de datos de la Autoridad Municipal, la infracción cometida y la sanción impuesta.
+B) Se comunicará a quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiera la infracción, en el domicilio que aparezca en las bases de datos de la Autoridad Municipal, la infracción cometida y la sanción impuesta.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 124], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -2359,7 +2365,7 @@ II Cuando un conductor al circular con un vehículo vaya ingiriendo bebidas alco
 
 III Cuando al realizar un operativo de vigilancia para la prevención de accidentes se detecte que el conductor de un vehículo ha ingerido bebidas alcohólicas, está en estado de ebriedad o en estado de ineptitud para conducir y presente claras y evidentes muestras de estar bajo el influjo de estupefacientes o drogas que alteren su capacidad para la conducción;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 IV. Tratándose de menores que hayan cometido alguna infracción en estado de ebriedad o, en estado de ineptitud para conducir o bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias tóxicas, los Oficiales de Tránsito deberán impedir la circulación del vehículo poniéndolo a disposición del departamento que corresponda, debiéndose observar las siguientes reglas:
 
@@ -2427,7 +2433,7 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ###### ARTICULO 135.
 
-El propietario del vehículo, será responsable de las infracciones que se comentan en la conducción del mismo; excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este reporte haya sido con anticipación a las infracciones cometidas.
+El propietario del vehículo, será responsable de las infracciones que se comentan en la conducción del mismo; excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este repone haya sido con anticipación a las infracciones cometidas.
 
 El conductor será solidariamente responsable, junto con el propietario del vehículo de las infracciones que cometa en la conducción del mismo.
 
@@ -2543,11 +2549,13 @@ Para la entrega de vehículos detenidos, será indispensable la presentación an
 
 IV RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retirada por los elementos de la Autoridad Municipal cuando el conductor infractor sea menor de edad y cuando el conductor insulte al personal de tránsito en el ejercicio de sus funciones; en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las Fracciones II y III de este Artículo;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-V MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente del Área Metropolitana de Monterrey, y/o municipio donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PAGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PAGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PAGINAS DE LA 26 A LA 35.</small>
+V MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente en el Área Metropolitana de Monterrey, donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+
+> <small>N. DE E. VEASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PAGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PAGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PAGINAS DE LA 26 A LA 35; P.O. 4 DE JULIO DE 2011, PAGINA 46.</small>
 
 (REUBICADO [N. DE E. ANTES ARTICULO 132], P.O. 12 DE NOVIEMBRE DE 2004)
 
@@ -2585,7 +2593,7 @@ II Manejar en estado de ebriedad o de ineptitud para conducir, bajo el influjo d
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
 
-III Negarse a dar datos y/o a entregar la licencia de conducir y tarjeta de circulación al personal de tránsito;
+III Negarse a dar datos y/o a entregar la licencia de conducir y tarjeta de circulación al personal de tránsito.
 
 IV Dar datos falsos al personal de tránsito;
 
@@ -2613,7 +2621,7 @@ XI Transportar material peligroso.
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación referida.
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTICULO 137], P.O. 12 DE NOVIEMBRE DE 2004)
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2002) (REUBICADO [N. DE E. ANTES ARTICULO 137 ], P.O. 12 DE NOVIEMBRE DE 2004)
 
 ###### ARTICULO 142.
 
@@ -2715,7 +2723,9 @@ Para garantizar la participación ciudadana en la revisión para la modificació
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+PRIMERO.- Las reformas por modificación y adición al Reglamento de Tránsito y Validad para este municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el 5 de julio de 2011 previa su publicación en el Periódico Oficial del Estado
 
 SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
 
@@ -2756,3 +2766,9 @@ TERCERO.- En lo que refiere el presente reglamento a la emisión de contaminante
 CUARTO.- En virtud de que el presente reglamento ha sido homologado en sus disposiciones con los reglamentos de Tránsito y Vialidad de los Municipios conurbados (Apodaca, García, Gral. Escobedo, Guadalupe, Juárez, Monterrey, Santa Catarina, San Nicolás de los Garza y San Pedro Garza García), para la modificación o derogación del mimo se procurará llevar a cabo bajo el consenso de los Municipios señalados.
 
 QUINTO.- La modificación del horario actualmente vigente, que fija la velocidad de circulación en 30 kilómetro (sic) por hora en Zona Escolar, según la disposición contenida en el segundo párrafo del ARTICULO 41 de este Reglamento, entrará en vigor a los 60 días naturales de la vigencia del presente ordenamiento.
+
+P.O. 4 DE JULIO DE 2011
+
+PRIMERO.- Las reformas por modificación y adición al Reglamento de Tránsito y Validad para este municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el 5 de julio de 2011 previa su publicación en el Periódico Oficial del Estado.
+
+...
