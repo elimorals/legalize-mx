@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-5166
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2006-09-11"
+last_updated: "2011-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE AGUASCALlENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de septiembre de 2006.
 
@@ -81,7 +81,9 @@ XIII. Promover la instalación y operación de una ventanilla única de atenció
 
 XlV. Dotar de mecanismos de coordinación, concertación y cooperación a las Instituciones Estatales y Municipales del Sector Forestal, así como con otras instancias afines;
 
-XV. Garantizar la participación ciudadana, y de las comunidades indígenas del Estado, en la aplicación; evaluación y seguimiento de la política forestal, a través de los mecanismos que para tal fin determine el Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+XV. Garantizar la participación ciudadana en la aplicación; evaluación y seguimiento de la política forestal, a través de los mecanismos que para tal fin determine la Secretaría;
 
 XVI. Promover instrumentos de apoyo económico para fomentar el desarrollo forestal sustentable; y
 
@@ -115,7 +117,9 @@ La propiedad de los recursos forestales comprendidos dentro del territorio estat
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Instituto: Instituto del Medio Ambiente del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+I. Secretaría: Secretaría de Medio Ambiente;
 
 II. Comisión: Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes;
 
@@ -157,7 +161,9 @@ El Servicio Estatal Forestal es un cuerpo colegiado de coordinación entre el Go
 
 El Servicio Estatal Forestal se integrará por:
 
-I. El titular del Instituto quien lo presidirá;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+I. El titular de la Secretaría quien lo presidirá;
 
 II. El titular de la Procuraduría;
 
@@ -371,7 +377,9 @@ VII. Hacer del conocimiento a las autoridades competentes, y en su caso denuncia
 
 VIII. Regular y controlar la disposición final de residuos provenientes de la extracción de materias primas forestales, de acuerdo a lo establecido en el Reglamento de esta Ley; y
 
-IX. Informar anualmente al Instituto y a la Comisión Nacional Forestal los resultados obtenidos, en términos de los convenios o acuerdos de coordinación celebrados.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+IX. Informar anualmente a la Secretaría y a la Comisión Nacional Forestal los resultados obtenidos, en términos de los convenios o acuerdos de coordinación celebrados.
 
 ### CAPITULO III. Del Sector Público Forestal del Estado y su Coordinación
 
@@ -381,15 +389,19 @@ Son Autoridades Forestales del Estado:
 
 I. El Gobernador del Estado;
 
-II. El Instituto del Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+II. La Secretaría;…(sic)
 
 III. La Procuraduría Estatal de Protección al Ambiente; y
 
 IV. La Comisión para el Desarrollo Agropecuario del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 17.
 
-El Instituto, en coordinación con la Federación y con base en los convenios y acuerdos que en la materia se celebren, asume las siguientes funciones y facultades:
+La Secretaría, en coordinación con la Federación y con base en los convenios y acuerdos que en la materia se celebren, asume las siguientes funciones y facultades:
 
 I. Diseñar, formular y aplicar la política estatal forestal, en concordancia con la política forestal nacional y con la participación que corresponda a la Comisión;
 
@@ -555,9 +567,11 @@ II. De proyección de más largo plazo, por 25 años o más, que se expresará e
 
 Dichos programas indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional forestal y deberán ser congruentes con los programas nacionales y el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 26.
 
-El Programa Estratégico Forestal Estatal, deberá ser elaborado por el Instituto con la participación del Consejo y será revisado y en su caso actualizado, cada seis años en el segundo año del periodo constitucional del Gobierno del Estado.
+El Programa Estratégico Forestal Estatal, deberá ser elaborado por la Secretaría con la participación del Consejo y será revisado y en su caso actualizado, cada seis años en el segundo año del periodo constitucional del Gobierno del Estado.
 
 ###### ARTICULO 27.
 
@@ -573,11 +587,15 @@ El Ejecutivo Estatal deberá incluir en sus informes anuales datos sobre la situ
 
 El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal que servirá como base estratégica para la planeación y evaluación del desarrollo forestal sustentable y la cual estará disponible al público para su consulta.
 
-El Instituto integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología que al respecto emita la Secretaría de Medio Ambiente y Recursos Naturales sin perjuicio de las mejoras que pueda incorporar al mismo, en base a las características y necesidades propias del Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología que al respecto emita la Secretaría de Medio Ambiente y Recursos Naturales sin perjuicio de las mejoras que pueda incorporar al mismo, en base a las características y necesidades propias del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 30.
 
-La Autoridad Municipal proporcionará al Instituto en los términos que prevea el Reglamento de esta Ley, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal de Información Forestal.
+La Autoridad Municipal proporcionará a la Secretaría, en los términos que prevea el Reglamento de esta Ley, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal de Información Forestal.
 
 ###### ARTICULO 31.
 
@@ -611,9 +629,11 @@ Toda persona tendrá derecho a que las autoridades en materia forestal pongan a 
 
 #### SECCION TERCERA. Del Inventario Estatal Forestal
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 33.
 
-El Instituto coordinará la integración del Inventario Estatal Forestal y de Suelos, en base a los lineamientos y criterios que para este fin determine, tomando en cuenta los lineamientos bajo los cuales se haga el inventario nacional forestal y de suelos, así como la opinión del Consejo. Dicho inventario deberá relacionar de manera organizada y sistemática los datos estadísticos de los bienes y servicios forestales.
+La Secretaría coordinará la integración del Inventario Estatal Forestal y de Suelos, en base a los lineamientos y criterios que para este fin determine, tomando en cuenta los lineamientos bajo los cuales se haga el inventario nacional forestal y de suelos, así como la opinión del Consejo. Dicho inventario deberá relacionar de manera organizada y sistemática los datos estadísticos de los bienes y servicios forestales.
 
 ###### ARTICULO 34.
 
@@ -647,7 +667,9 @@ III. El ordenamiento forestal y el ordenamiento ecológico del territorio; y
 
 IV La evaluación y seguimiento de los planes y programas forestales a largo, mediano y corto plazo.
 
-El Instituto determinará los criterios, metodología y procedimientos para la integración, organización, actualización y monitoreo de los datos que deberá contener el Inventario Estatal Forestal y de Suelos.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Secretaría determinará los criterios, metodología y procedimientos para la integración, organización, actualización y monitoreo de los datos que deberá contener el Inventario Estatal Forestal y de Suelos.
 
 ###### ARTICULO 36.
 
@@ -667,9 +689,11 @@ IV. Los desequilibrios existentes en los ecosistemas por efecto de las actividad
 
 La zonificación forestal es el instrumento por medio del cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y micro cuencas hidrológico-forestales, por funciones y subfunciones biológicas, ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al desarrollo forestal sustentable.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 38.
 
-El Instituto deberá llevar a cabo la zonificación con base en el Inventario Estatal Forestal y de Suelos y el Programa de Ordenamiento Ecológico del Territorio. La escala mínima de esta zonificación deberá ser 1: 50,000.
+La Secretaría deberá llevar a cabo la zonificación con base en el Inventario Estatal Forestal y de Suelos y el Programa de Ordenamiento Ecológico del Territorio. La escala mínima de esta zonificación deberá ser 1: 50,000.
 
 ###### ARTICULO 39.
 
@@ -691,15 +715,19 @@ El Sistema de Áreas Naturales Protegidas del Estado de Aguascalientes, es el in
 
 El Reglamento de la Ley de Protección Ambiental para el Estado de Aguascalientes, establecerá los criterios, procedimientos, alcances y funcionamiento del Sistema Estatal de Áreas Naturales Protegidas.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 43.
 
-El Sistema de Áreas Naturales Protegidas del Estado de Aguascalientes, estará considerado como una prioridad de la política estatal en materia forestal y el Instituto será el encargado de vigilar por el cumplimiento de los planes y programas de manejo para las áreas protegidas.
+El Sistema de Áreas Naturales Protegidas del Estado de Aguascalientes, estará considerado como una prioridad de la política estatal en materia forestal y la Secretaría será la encargada de vigilar por el cumplimiento de los planes y programas de manejo para las áreas protegidas.
 
 ### CAPITULO III. De las Unidades de Manejo Forestal
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 44.
 
-El Instituto en coordinación con la Comisión Nacional Forestal y los Municipios, fomentarán la creación de Unidades de Manejo Forestal con el propósito de coadyuvar a obtener una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el aprovechamiento sustentable de los recursos forestales.
+La Secretaría, en coordinación con la Comisión Nacional Forestal y los Municipios, fomentará la creación de Unidades de Manejo Forestal con el propósito de coadyuvar a obtener una ordenación forestal sustentable, una planeación ordenada de las actividades forestales y el aprovechamiento sustentable de los recursos forestales.
 
 ###### ARTICULO 45.
 
@@ -727,9 +755,11 @@ Será prioritario para el Estado impulsar la investigación en el Sector Foresta
 
 El Estado fomentará y promoverá la investigación relativa a la materia forestal mediante convenios de colaboración con Instituciones Públicas y Privadas.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 50.
 
-El Instituto, en coordinación con la Comisión Nacional Forestal, promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales maderables y no maderables y bancos de germoplasma.
+La Secretaría, en coordinación con la Comisión Nacional Forestal, promoverá el desarrollo de un sistema de mejoramiento genético forestal, con la evaluación y registro de progenitores, la creación de áreas y huertos semilleros, viveros forestales maderables y no maderables y bancos de germoplasma.
 
 ### CAPITULO III. De la Sanidad Forestal
 
@@ -737,7 +767,9 @@ El Instituto, en coordinación con la Comisión Nacional Forestal, promoverá el
 
 Es responsabilidad de los propietarios o poseedores de los predios forestales y preferentemente forestales, la supervisión, la detección y notificación a la, autoridad competente de la presencia de plagas o enfermedades forestales.
 
-En base a los convenios de coordinación para la descentralización de atribuciones que se firmen entre el Estado y la Federación, el Instituto será la autoridad competente, pero en tanto no existan dichos convenios la autoridad competente será la Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+En base a los convenios de coordinación para la descentralización de atribuciones que se firmen entre el Estado y la Federación, la Secretaría será la autoridad competente, pero en tanto no existan dichos convenios la autoridad competente será la Secretaría de Medio Ambiente y Recursos Naturales.
 
 El Estado y los Municipios, de conformidad con dichos acuerdos y convenios, establecerá un sistema permanente de monitoreo y evaluación de la condición sanitaria de los terrenos forestales y difundirá con la mayor amplitud y oportunidad sus resultados, y promoverá y apoyará la investigación necesaria para resolver los problemas fitosanitarios forestales del Estado.
 
@@ -755,23 +787,29 @@ La erogación que para el efecto se haga, adquirirá el carácter de crédito fi
 
 El Estado, de conformidad con los acuerdos y convenios que a efecto se celebren con la Federación, participará en coordinación con las Dependencias y Entidades de la Administración Pública Federal, en el establecimiento, la planificación, coordinación y ejecución de las medidas precisas para la regulación, prevención, detección, combate y extinción de los Incendios Forestales.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 54.
 
-El Instituto, en caso de que así lo establezcan los acuerdos y convenios que al efecto se celebren con la Federación, elaborará en coordinación con la Procuraduría, un Programa de Protección de Ecosistemas Forestales en materia de prevención y detección de incendios, donde deberán establecerse los mecanismos de coordinación entre el Estado, la Federación y los Municipios para el efecto. Anualmente, derivado de la aplicación del Programa, se harán públicas las medidas de prevención y detección de los incendios forestales.
+La Secretaría, en caso de que así lo establezcan los acuerdos y convenios que al efecto se celebren con la Federación, elaborará en coordinación con la Procuraduría, un Programa de Protección de Ecosistemas Forestales en materia de prevención y detección de incendios, donde deberán establecerse los mecanismos de coordinación entre el Estado, la Federación y los Municipios para el efecto. Anualmente, derivado de la aplicación del Programa, se harán públicas las medidas de prevención y detección de los incendios forestales.
 
 #### SECCION PRIMERA. De la Prevención, Detección, Combate, Control y Extinción de los Incendios Forestales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 55.
 
-El Instituto y la Procuraduría promoverán la celebración de convenios y acuerdos de colaboración con las dependencias y entidades del Gobierno del Estado, la Federación, los Ayuntamientos, Organizaciones y Asociaciones, en las regiones que así se requiera, con la finalidad de constituir Organizaciones de Defensa Forestal que tendrán como objeto el planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
+La Secretaría y la Procuraduría promoverán la celebración de convenios y acuerdos de colaboración con las dependencias y entidades del Gobierno del Estado, la Federación, los Ayuntamientos, Organizaciones y Asociaciones, en las regiones que así se requiera, con la finalidad de constituir Organizaciones de Defensa Forestal que tendrán como objeto el planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
 
 El Gobierno del Estado, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, participará en la realización de actividades para la prevención y detección de incendios forestales a través de una Brigada Estatal, la cual participará en el desarrollo de infraestructura y obras necesarias, además del patrullaje.
 
 Las organizaciones de defensa forestal se constituirán conforme a lo establecido en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 56.
 
-El Instituto, en caso de que así lo establezcan los acuerdos y convenios que al efecto se celebren con la Federación, dictará los lineamientos que deberán observarse en la prevención, detección, combate, control y extinción de los Incendios forestales, para evaluar los daños, rehabilitar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y diversos a los forestales colindantes. Para lo cual, se basará en el marco de la Coordinación Institucional prevista en la Ley General de Desarrollo Forestal Sustentable y deberá estar en concordancia con las Normas Oficiales Mexicanas.
+La Secretaría, en caso de que así lo establezcan los acuerdos y convenios que al efecto se celebren con la Federación, dictará los lineamientos que deberán observarse en la prevención, detección, combate, control y extinción de los Incendios forestales, para evaluar los daños, rehabilitar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y diversos a los forestales colindantes. Para lo cual, se basará en el marco de la Coordinación Institucional prevista en la Ley General de Desarrollo Forestal Sustentable y deberá estar en concordancia con las Normas Oficiales Mexicanas.
 
 ###### ARTICULO 57.
 
@@ -779,9 +817,11 @@ El Gobierno del Estado y los Municipios, procurarán la participación de los or
 
 La autoridad municipal deberá participar activamente en el combate y control de incendios; y en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la Procuraduría y al Gobierno del Estado, y en ambos casos se deberá informar a la Comisión Nacional Forestal, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 58.
 
-Los propietarios, poseedores y usufructuarios de terrenos de uso forestal y preferentemente forestal, están obligados a llevar a cabo en caso de incendio, la rehabilitación de la superficie afectada, conforme el programa que establezcan en coordinación con el Instituto, en el plazo máximo de dos años, con apoyo de las autoridades federales, estatales y municipales. La cubierta vegetal afectada deberá ser rehabilitada mediante la reforestación, cuando la regeneración natural no sea posible, poniendo especial atención a la prevención, control y combate de plagas y enfermedades.
+Los propietarios, poseedores y usufructuarios de terrenos de uso forestal y preferentemente forestal, están obligados a llevar a cabo en caso de incendio, la rehabilitación de la superficie afectada, conforme el programa que establezcan en coordinación con la Secretaría, en el plazo máximo de dos años, con apoyo de las autoridades federales, estatales y municipales. La cubierta vegetal afectada deberá ser rehabilitada mediante la reforestación, cuando la regeneración natural no sea posible, poniendo especial atención a la prevención, control y combate de plagas y enfermedades.
 
 Cuando los dueños o poseedores de los predios dañados no hagan la rehabilitación en el plazo señalado o demuestren su imposibilidad inmediata para cumplirlo directamente, podrán solicitar fundadamente a las autoridades estatales y federales, el apoyo para realizar dichos trabajos, con la obligación de resarcir la erogación, adquiriendo ésta, el carácter de crédito fiscal, cuya recuperación se hará mediante el procedimiento coactivo correspondiente.
 
@@ -795,9 +835,11 @@ Los propietarios y poseedores de los terrenos donde se verifiquen los incendios 
 
 El ingreso de tales equipos podrá realizarse en caso de emergencia para evitar un desastre natural, aún cuando por cualquier circunstancia no pudiera contarse con la autorización expresa de los propietarios.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 61.
 
-El Instituto, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, fomentará la capacitación y formación permanente del personal del Estado y de los Municipios que participen en la defensa contra incendios forestales.
+La Secretaría, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, fomentará la capacitación y formación permanente del personal del Estado y de los Municipios que participen en la defensa contra incendios forestales.
 
 #### SECCION SEGUNDA. Del Control y Uso del Fuego en Terrenos Forestales y Preferentemente Forestales
 
@@ -819,27 +861,33 @@ Quedan prohibidas las quemas en terrenos que estén a una distancia igualo menor
 
 ### CAPITULO V. Regulación de los Aprovechamientos Pecuarios y Agrícolas en Terrenos Forestales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 66.
 
-El Estado, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, establecerá a través de Instituto y la Comisión, los criterios y lineamientos que permitan estabilizar en el territorio estatal el uso agropecuario de los terrenos forestales y evite que la frontera agrícola y el sobre pastoreo crezca a costa de dichos terrenos forestales.
+El Estado, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, establecerá a través de la Secretaría y la Comisión, los criterios y lineamientos que permitan estabilizar en el territorio estatal el uso agropecuario de los terrenos forestales y evite que la frontera agrícola y el sobre pastoreo crezca a costa de dichos terrenos forestales.
 
 No se deberá promover ni autorizar el desmonte con fines agropecuarios salvo que se demuestre que dicha producción agropecuaria es indispensable para el desarrollo de los pobladores involucrados y se asegure una producción rentable y sostenible a largo plazo.
 
 ### CAPITULO VI. De la Forestación y Reforestación
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 67.
 
-La reforestación que se realice en terrenos diversos a los forestales requerirá de autorización del Instituto. Para obtener dicha autorización, el promovente o interesado deberá presentar ante el Instituto un programa detallado sobre dicha reforestación el cual incluya por lo menos la superficie a reforestar, las especies a utilizar, las técnicas que se utilizarán y el programa de mantenimiento.
+La reforestación que se realice en terrenos diversos a los forestales requerirá de autorización de la Secretaría. Para obtener dicha autorización, el promotor o interesado deberá presentar ante la Secretaría un programa detallado sobre dicha reforestación el cual incluya por lo menos la superficie a reforestar, las especies a utilizar, las técnicas que se utilizarán y el programa de mantenimiento.
 
 ###### ARTICULO 68.
 
 El Reglamento de la presente Ley y el Manual de Reforestación Estatal, establecerán los lineamentos y restricciones a que deben sujetarse las reforestaciones que se hagan en terrenos diversos a los forestales dentro del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 69.
 
-La reforestación que se realice en terrenos forestales y preferentemente forestales, con propósitos de conservación y rehabilitación, requerirá, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, de notificación al Instituto, y estarán sujetas a las condicionantes que se determinen como necesarias para no causar un impacto negativo en el ecosistema.
+La reforestación que se realice en terrenos forestales y preferentemente forestales, con propósitos de conservación y rehabilitación, requerirá, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, de notificación a la Secretaría, y estarán sujetas a las condicionantes que se determinen como necesarias para no causar un impacto negativo en el ecosistema.
 
-Dicha notificación deberá hacerse mediante un escrito libre dirigido al director general del Instituto, en el cual se detallen las características de la reforestación que se pretende llevar a cabo. El Instituto analizará la notificación y sólo emitirá respuesta en caso de que considere que debe modificarse en algo el proyecto de reforestación, de lo contrario se entenderá que no hay inconveniente para que se realice dicha reforestación.
+Dicha notificación deberá hacerse mediante un escrito libre dirigido al titular de la Secretaría, en el cual se detallen las características de la reforestación que se pretende llevar a cabo. La Secretaría analizará la notificación y sólo emitirá respuesta en caso de que considere que debe modificarse en algo el proyecto de reforestación, de lo contrario se entenderá que no hay inconveniente para que se realice dicha reforestación.
 
 ###### ARTICULO 70.
 
@@ -861,7 +909,9 @@ Las Autoridades Estatal y Municipal, deberán incluir en sus Planes de Desarroll
 
 Cuando se determine que por causa de utilidad pública es necesario reforestar predios de propiedad particular, el Gobierno del Estado por conducto del Gobernador, podrá realizar la declaratoria correspondiente, coordinándose con el propietario o poseedor e instrumentando lo necesario a fin de llevarlo a cabo, de acuerdo a lo establecido en el Reglamento de la presente Ley.
 
-Para hacer dicha declaratoria se deberá contar con un estudio técnico que justifique y sustente la necesidad de realizar la citada reforestación. El estudio será realizado por el Instituto y deberá hacerse en apego a lo que señale el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Para hacer dicha declaratoria se deberá contar con un estudio técnico que justifique y sustente la necesidad de realizar la citada reforestación. El estudio será realizado por la Secretaría y deberá hacerse en apego a lo que señale el Reglamento de la presente Ley.
 
 ###### ARTICULO 74.
 
@@ -869,27 +919,33 @@ El Estado, a través de la Comisión, promoverá y apoyará el desarrollo de pla
 
 ### CAPITULO VII. Del cambio de Uso de Suelo en los Terrenos Forestales y preferentemente Forestales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 75.
 
-El Instituto, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, autorizará sólo por excepción, el cambio de uso de suelo en terrenos forestales y preferentemente forestales, previa opinión técnica de los Miembros del Consejo y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, ni se provocará la erosión de suelos, el deterioro de la calidad del agua o la disminución en su captación; y que los usos alternativos del suelo que se propongan sean más productivos a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
+La Secretaría, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, autorizará sólo por excepción, el cambio de uso de suelo en terrenos forestales y preferentemente forestales, previa opinión técnica de los Miembros del Consejo y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, ni se provocará la erosión de suelos, el deterioro de la calidad del agua o la disminución en su captación; y que los usos alternativos del suelo que se propongan sean más productivos a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
 
 En las autorizaciones de cambio de uso de suelo en terrenos forestales y preferentemente forestales, la autoridad deberá dar respuesta debidamente fundada y motivada a las propuestas y observaciones planteada por los Miembros del Consejo.
 
 Los estudios técnicos justificativos para el cambio de uso del suelo deberán apegarse a lo que marca la Ley General de Desarrollo Forestal Sustentable y su Reglamento.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 76.
 
-No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado 20 años, a menos que se acredite fehacientemente al Instituto que el ecosistema se ha regenerado completamente, mediante los mecanismos que para tal efecto se establezcan en el Reglamento correspondiente.
+No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado 20 años, a menos que se acredite fehacientemente a la Secretaría que el ecosistema se ha regenerado completamente, mediante los mecanismos que para tal efecto se establezcan en el Reglamento correspondiente.
 
 ###### ARTICULO 77.
 
 Las autorizaciones que se emitan deberán atender lo que, en su caso dispongan los programas de ordenamiento ecológico correspondiente, las Normas Oficiales Mexicanas y demás disposiciones legales y reglamentarías aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 78.
 
-El Instituto con la participación de la Comisión Nacional Forestal y la Comisión, coordinará la política de uso del suelo forestal y preferentemente forestal para estabilizar su uso agropecuario, desarrollando prácticas permanentes de promoción y educación forestal y evitando que la actividad agropecuaria crezca a costa de los terrenos forestales.
+La Secretaría, con la participación de la Comisión Nacional Forestal y la Comisión, coordinará la política de uso del suelo forestal y preferentemente forestal para estabilizar su uso agropecuario, desarrollando prácticas permanentes de promoción y educación forestal y evitando que la actividad agropecuaria crezca a costa de los terrenos forestales.
 
-El Instituto, con la participación de la Comisión Nacional Forestal, se coordinará con diversas entidades públicas para armonizar y eficientar los programas de construcciones de los sectores eléctricos, hidráulicos y de comunicaciones con el cumplimiento de la normatividad correspondiente.
+La Secretaría, con la participación de la Comisión Nacional Forestal, se coordinará con diversas entidades públicas para armonizar y eficientar los programas de construcciones de los sectores eléctricos, hidráulicos y de comunicaciones con el cumplimiento de la normatividad correspondiente.
 
 ###### ARTICULO 79.
 
@@ -897,15 +953,19 @@ Los interesados en el cambio de uso del suelo de terrenos forestales, deberán a
 
 ### CAPITULO VIII. De la Conservación y Restauración
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 80.
 
-El Instituto escuchando la opinión del Consejo y en coordinación con la Comisión Nacional Forestal, así como tomando en cuenta los requerimientos de recuperación de zonas degradadas y las condiciones socioeconómicas de los habitantes de las mismas, promoverán la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hídricas.
+La Secretaría, escuchando la opinión del Consejo y en coordinación con la Comisión Nacional Forestal, así como tomando en cuenta los requerimientos de recuperación de zonas degradadas y las condiciones socioeconómicas de los habitantes de las mismas, promoverán la elaboración y aplicación de programas e instrumentos económicos que se requieran para fomentar las labores de conservación y restauración de los recursos forestales y las cuencas hídricas.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 81.
 
-Cuando se presenten procesos de degradación o desertificación o grandes desequilibrios ecológicos en terrenos forestales o preferentemente forestales, el Instituto, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, formulará y ejecutará en coordinación con los propietarios programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
+Cuando se presenten procesos de degradación o desertificación o grandes desequilibrios ecológicos en terrenos forestales o preferentemente forestales, la Secretaría, de conformidad con los acuerdos y convenios que al efecto se celebren con la Federación, formulará y ejecutará en coordinación con los propietarios programas de restauración ecológica con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollaban, incluyendo el mantenimiento del régimen hidrológico y la prevención de la erosión y la restauración de los suelos forestales degradados.
 
-Los propietarios, poseedores, usufructuarios o usuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de rehabilitación y conservación pertinentes y aquellas que para tal caso dicte la Federación. En el caso de que éstos demuestren carecer de recursos el Instituto en coordinación con la Federación, los incorporará a los programas de apoyo que instrumenten de acuerdo a las asignaciones que para tal fin se contemplen en el Presupuesto de Egresos del Estado y de la Federación; o en su caso realizarán por su cuenta, con acuerdo de los obligados, los trabajos requeridos.
+Los propietarios, poseedores, usufructuarios o usuarios de terrenos forestales o preferentemente forestales están obligados a realizar las acciones de rehabilitación y conservación pertinentes y aquellas que para tal caso dicte la Federación. En el caso de que éstos demuestren carecer de recursos, la Secretaría en coordinación con la Federación, los incorporará a los programas de apoyo que instrumenten de acuerdo a las asignaciones que para tal fin se contemplen en el Presupuesto de Egresos del Estado y de la Federación; o en su caso realizarán por su cuenta, con acuerdo de los obligados, los trabajos requeridos.
 
 ###### ARTICULO 82.
 
@@ -919,7 +979,9 @@ III. Tengan como finalidad la conservación, repoblación, propagación, disemin
 
 Se exceptuarán de las vedas los terrenos en los que se realice el aprovechamiento forestal o la forestación de conformidad con los instrumentos de manejo establecidos en la presente Ley, en tanto no se ponga en riesgo grave e inminente la biodiversidad de acuerdo con los criterios e indicadores que al efecto se emitan.
 
-En este último caso la veda tendrá carácter precautorio, y la veda deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo de la biodiversidad. El Instituto solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Asimismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+En este último caso la veda tendrá carácter precautorio, y la veda deberá referirse en forma específica al programa de manejo respectivo y sólo podrá abarcar la fracción del área forestal afectada por el riesgo de la biodiversidad. La Secretaría solicitará a los titulares la modificación de los programas de manejo respectivos, segregando de los mismos las superficies afectadas. Asimismo se establecerá un programa que tenga como finalidad atacar las causas que originan la veda y asegurarse al término de la misma que dichas causas no se repitan.
 
 ###### ARTICULO 83.
 
@@ -937,17 +999,23 @@ En todos los casos, los propietarios, poseedores usufructuarios o usuarios de te
 
 Los predios que se encuentren en estas áreas de protección, se considerarán que están dedicados a una función de interés público, por lo que en caso de que dichas áreas se encuentren deforestadas deberán ser restauradas mediante la ejecución de programas especiales, independientemente del régimen jurídico al que se encuentren sujetas.
 
-Para tal efecto, el Instituto en coordinación con la Comisión Nacional Forestal y en atención a la solicitud de los interesados, coordinará la elaboración de los estudios técnicos pertinentes, con la participación del Gobierno Estatal, los Municipios, las dependencias o entidades públicas y privadas, así como de los propietarios o poseedores, y propondrá al Gobernador del Estado, la emisión de la declaratoria respectiva.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Para tal efecto, la Secretaría en coordinación con la Comisión Nacional Forestal y en atención a la solicitud de los interesados, coordinará la elaboración de los estudios técnicos pertinentes, con la participación del Gobierno Estatal, los Municipios, las dependencias o entidades públicas y privadas, así como de los propietarios o poseedores, y propondrá al Gobernador del Estado, la emisión de la declaratoria respectiva.
 
 ### CAPITULO IX. De los Servicios Ambientales Forestales
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 85.
 
-El Instituto promoverá el conocimiento y la valorización de los bienes y servicios ambientales que proporcionan los ecosistemas forestales del Estado, e impulsará el desarrollo de un mercado de bienes y servicios ambientales que retribuya a los dueños y poseedores de dichos recursos forestales los beneficios prestados a otros sectores de la sociedad.
+La Secretaría promoverá el conocimiento y la valorización de los bienes y servicios ambientales que proporcionan los ecosistemas forestales del Estado, e impulsará el desarrollo de un mercado de bienes y servicios ambientales que retribuya a los dueños y poseedores de dichos recursos forestales los beneficios prestados a otros sectores de la sociedad.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 86.
 
-El Instituto promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes.
+La Secretaría promoverá la formación de profesionales o técnicos, así como de empresas, los cuales estén capacitados para certificar, evaluar y monitorear los bienes y servicios ambientales para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia y para enlazarlos con los usuarios o beneficiarios de los bienes y servicios ambientales, así como a los mercados correspondientes.
 
 ###### ARTICULO 87.
 
@@ -987,9 +1055,11 @@ El Estado promoverá y en su caso implementará incentivos económicos de acuerd
 
 #### SECCION TERCERA. Del Fondo Forestal Estatal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 93.
 
-El Gobierno del Estado a través del Instituto establecerá el Fondo Forestal Estatal, con el fin de obtener recursos económicos para promover la conservación, aprovechamiento sustentable y rehabilitación de los recursos forestales del Estado y sus recursos asociados, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales.
+El Gobierno del Estado a través de la Secretaría establecerá el Fondo Forestal Estatal, con el fin de obtener recursos económicos para promover la conservación, aprovechamiento sustentable y rehabilitación de los recursos forestales del Estado y sus recursos asociados, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales.
 
 El Fondo Forestal Estatal será operado por un Comité Mixto, en el que habrá una representación equilibrada del sector público y social del Estado, así como de las organizaciones privadas y sociales de productores forestales. El Reglamento de la presente Ley establecerá los lineamientos para la constitución y funcionamiento del Fondo Forestal Estatal y del Comité Mixto.
 
@@ -1009,9 +1079,11 @@ V Los demás recursos legítimos que obtenga por cualquier otro concepto.
 
 ### CAPITULO II. De la Cultura, Educación y Capacitación Forestal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 95.
 
-El Instituto en coordinación con las dependencias competentes de la Administración Pública Federal, Estatal y las correspondientes de los Municipios, así como con organizaciones e instituciones públicas, privadas y sociales, realizará acciones en materia de cultura forestal, dentro de las cuales están las siguientes:
+La Secretaría en coordinación con las dependencias competentes de la Administración Pública Federal, Estatal y las correspondientes de los Municipios, así como con organizaciones e instituciones públicas, privadas y sociales, realizará acciones en materia de cultura forestal, dentro de las cuales están las siguientes:
 
 I. Promover y realizar campañas de difusión y eventos especiales orientados al logro de la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
 
@@ -1027,9 +1099,11 @@ VI. Promover los criterios de política forestal previstos en la presente Ley; y
 
 VII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 96.
 
-En materia de educación y capacitación, el Instituto, en coordinación con la Comisión Nacional Forestal, el Instituto de Educación de Aguascalientes y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará las siguientes acciones:
+En materia de educación y capacitación, la Secretaría, en coordinación con la Comisión Nacional Forestal, el Instituto de Educación de Aguascalientes y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado, realizará las siguientes acciones:
 
 I. Promover la formación, capacitación y certificación de competencia laboral de técnicos y profesionistas forestales;
 
@@ -1049,9 +1123,11 @@ V. Formular programas de becas para la formación y capacitación forestal.
 
 El Estado y los Municipios convocarán periódicamente a foros de consulta a agrupaciones sociales, privadas, de profesionistas, así como académicos y personas físicas, relacionadas con los servicios técnicos forestales con la finalidad de incluir sus propuestas y opiniones a los programas y planes relativos al desarrollo forestal estatal y municipal.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 98.
 
-El titular del Ejecutivo, a través del Instituto o la Procuraduría, podrá celebrar convenios de colaboración con Municipios, Agrupaciones Sociales y Estados vecinos con la finalidad de promover y difundir programas y acciones de forestación, reforestación; aprovechamiento, conservación, ordenación y vigilancia de recursos forestales.
+El titular del Ejecutivo, a través de la Secretaría o la Procuraduría, podrá celebrar convenios de colaboración con Municipios, Agrupaciones Sociales y Estados vecinos con la finalidad de promover y difundir programas y acciones de forestación, reforestación; aprovechamiento, conservación, ordenación y vigilancia de recursos forestales.
 
 ###### ARTICULO 99.
 
@@ -1067,11 +1143,15 @@ El Consejo Forestal del Estado de Aguascalientes es el órgano de carácter cons
 
 El Consejo estará conformado de la siguiente manera:
 
-I. Un Presidente, que será el Director General del Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+I. Un Presidente, que será el titular de la Secretaría;
 
 II. Un Secretario, que será el Gerente Estatal de la Comisión Nacional Forestal;
 
-III. Un Coordinador que será designado por el Director General del Instituto;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+III. Un Coordinador que será designado por el titular de la Secretaría;
 
 IV. Un primer vocal que será Director General de Comisión;
 
@@ -1137,9 +1217,11 @@ El Gobierno del Estado, en coordinación con la Federación y Municipios, y con 
 
 ### CAPITULO II. De la Denuncia Popular
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 106.
 
-Toda persona podrá denunciar ante la Procuraduría, el Instituto, las autoridades Municipales, o ante otras autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
+Toda persona podrá denunciar ante la Procuraduría, la Secretaría, las autoridades Municipales, o ante otras autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos o bienes y servicios ambientales asociados a éstos.
 
 El denunciante deberá aportar todos los elementos con que cuente para sustentar su denuncia y se encauzará conforme al procedimiento establecido en la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
@@ -1149,9 +1231,11 @@ El denunciante deberá aportar todos los elementos con que cuente para sustentar
 
 De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable y previo convenio con la Federación, la Procuraduría por conducto del personal autorizado realizará visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas aplicables y las demás disposiciones que de ellos se deriven.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 108.
 
-Si como resultado de la inspección se detecta una plaga o enfermedad forestal, se notificará de forma inmediata al propietario o poseedor del terreno forestal o preferentemente forestal y al Instituto y se estará a lo dispuesto en el capitulo relativo a la Sanidad Forestal del presente ordenamiento.
+Si como resultado de la inspección se detecta una plaga o enfermedad forestal, se notificará de forma inmediata al propietario o poseedor del terreno forestal o preferentemente forestal y a la Secretaría y se estará a lo dispuesto en el capítulo relativo a la Sanidad Forestal del presente ordenamiento.
 
 ###### ARTICULO 109.
 
@@ -1265,7 +1349,9 @@ Para la imposición de las multas servirá de base el salario mínimo general di
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
-La Procuraduría, tomando en cuenta la opinión del Instituto, el cual deberá otorgarla en un término de tres días, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, que éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales en el Estado.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+
+La Procuraduría, tomando en cuenta la opinión de la Secretaría, el (sic) cual deberá otorgarla en un término de tres días, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, que éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales en el Estado.
 
 ###### ARTICULO 115.
 
@@ -1352,3 +1438,11 @@ Luis Armando Reynoso Femat.
 El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
