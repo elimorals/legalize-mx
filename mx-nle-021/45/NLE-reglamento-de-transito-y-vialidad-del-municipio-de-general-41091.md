@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2010-12-22"
+last_updated: "2011-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -471,7 +471,15 @@ VI. TAPÓN DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o u
 
 VII. VEHÍCULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros;
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS, LATERALES Y POSTERIORES.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente sin polarizado, inastillable y sin roturas.
+
+Los cristales laterales y posteriores deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos o polarizados que impidan o limiten la visibilidad del conductor.
+
+Se exceptúan de lo anterior los vehículos con cristales oscurecidos o entintados de fábrica.
+
+Solo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas.
 
 IX. TABLERO DEL CONTROL DE VEHÍCULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -1621,7 +1629,7 @@ XI. CHOQUE CON MOVIL DE VEHÍCULO.- Ocurre cuando alguna parte de un vehículo e
 
 XII. CHOQUES DIVERSOS.- En esta clasificación queda cualquier accidente no especificado en los puntos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 111.
 
@@ -2079,6 +2087,10 @@ XI. Transportar material peligroso.
 
 Cuando la infracción consista en falta de refrendo, licencia de conducir, tarjeta de circulación y/o póliza de seguro vigente, la multa que se haya impuesto se cancelará si dentro de los quince días siguientes, el infractor obtiene y presenta ante la Autoridad Municipal la documentación referida.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2011)</small>
+
+Cuando la infracción consista en Circular con cristales parabrisas, laterales y posteriores con polarizados que impidan o limiten la visibilidad del conductor, la multa que se haya impuesto se cancelará si dentro de los quince días naturales siguientes, el infractor demuestra ante la Autoridad Municipal el retiro del polarizado de los cristales de su vehículo.
+
 ###### ARTÍCULO 142.
 
 Las infracciones se harán constar en actas sobre formas impresas y foliadas, en la forma tradicional con block de infracciones o mediante métodos electrónicos, en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
@@ -2223,7 +2235,7 @@ LA C. SECRETARIO DEL R. AYUNTAMIENTO.
 
 LIC. CLARA LUZ FLORES CARRALES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE NOVIEMBRE DE 2009.
 
@@ -2242,3 +2254,13 @@ P.O. 8 DE DICIEMBRE DE 2010.
 P.O. 22 DE DICIEMBRE DE 2010.
 
 ÚNICO.- Las presentes reformas por modificación por adición a la fracción III del artículo 111 del Reglamento de tránsito y Vialidad, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Reglamento de Tránsito y Vialidad del Municipio de General Escobedo, Nuevo León, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
