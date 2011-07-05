@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-comite-de-planeacion-para-el-47728"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-10"
-last_updated: "2005-12-10"
+last_updated: "2011-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2011.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de diciembre de 2005.
 
@@ -421,9 +421,41 @@ III. Proponer medidas tendientes al mejor funcionamiento del Subcomité que corr
 
 ### CAPÍTULO X. DE LA INTEGRACIÓN Y ATRIBUCIONES DE LOS GRUPOS DE TRABAJO
 
-###### ARTÍCULO VIGÉSIMO TERCERO.
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2011)</small>
 
-Los Grupos de Trabajo, serán creados por la Asamblea Plenaria, por la Comisión Permanente o al interior de cada Sectoriales, Regionales y Especiales, quienes definirán sus propósitos, objetivos y metas, así como su integración.
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El COPLADEBCS contará con los siguientes Subcomités Sectoriales:
+
+l. Subcomité Sectorial de Salud y Asistencia Social;
+
+II. Subcomité Sectorial de Educación y Cultura;
+
+III. Subcomité Sectorial de Deporte y Juventud;
+
+IV. Subcomité Sectorial de Desarrollo Urbano e Infraestructura;
+
+V. Subcomité Sectorial de Energía y Telecomunicaciones;
+
+VI. Subcomité Sectorial de Agropecuario y Forestal;
+
+VII. Subcomité Sectorial de Pesca y Acuacultura;
+
+VIII. Subcomité Sectorial de Promoción y Desarrollo Empresarial;
+
+IX. Subcomité Sectorial de Turismo; y
+
+X. Subcomité Sectorial de Seguridad Pública y Justicia.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 5 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XI. DE LOS ORGANISMOS AUXILIARES DEL COPLADEBCS
+
+> <small>(ADICIONADO, B.O. 5 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+Los órganos gubernamentales con funciones de planeación, toma de decisión y distribución de recursos, dedicados al fomento de acciones concurrentes del orden federal, estatal y municipal con actividades en materia económica y social, podrán auxiliar al COPLADEBCS en el cumplimiento de sus funciones y objetivos.
 
 ## TRANSITORIOS
 
@@ -452,3 +484,11 @@ VÍCTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE PROMOCIÓN Y DESARROLLO ECONÓMICO Y COORDINADOR GENERAL DEL COPLADDEBCS
 
 JORGE ALBERTO VALE SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 5 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
