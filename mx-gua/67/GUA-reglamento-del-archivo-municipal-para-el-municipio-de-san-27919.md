@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-archivo-municipal-para-el-municipio-de-san-27919
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-06"
-last_updated: "2003-01-06"
+last_updated: "2011-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL ARCHIVO MUNICIPAL PARA EL MUNICIPIO DE SAN JOSE ITURBIDE, GTO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL ARCHIVO GENERAL DEL MUNICIPIO DE SAN JOSE ITURBIDE, GTO., PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el lunes 6 de enero de 2003.
 
@@ -255,7 +257,9 @@ Las personas que no observen las disposiciones de este Reglamento, perderán tod
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
-ARTICULO (sic) 17.- La persona que de acuerdo a lo regulado por el artículo 14 catorce del presente ordenamiento sea responsable de la extracción de un documento y no lo devuelva en el plazo estipulado, podrá ser sancionado con una multa equivalente de 5 a 20 salarios mínimos vigentes en la zona económica, sin perjuicio de las sanciones penales que por su conducta se deriven.
+###### Artículo 17.
+
+La persona que de acuerdo a lo regulado por el artículo 14 catorce del presente ordenamiento sea responsable de la extracción de un documento y no lo devuelva en el plazo estipulado, podrá ser sancionado con una multa equivalente de 5 a 20 salarios mínimos vigentes en la zona económica, sin perjuicio de las sanciones penales que por su conducta se deriven.
 
 ## TRANSITORIOS
 
@@ -280,3 +284,15 @@ PRESIDENTE MUNICIPAL
 LIC. MARTIN VARGAS RIVERA
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento del Archivo Municipal para el Municipio de San José Iturbide, Gto, de fecha 06 de enero de 2003, así como todas las disposiciones anteriores que se opongan al presente Reglamento.
