@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-05-20"
+last_updated: "2011-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -3797,7 +3797,7 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 ### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2011)</small>
 
 ###### Art. 482.
 
@@ -3869,7 +3869,7 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ###### Art. 492.
 
-La Ley coloca a los expósitos y a los menores abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La Ley coloca a los expósitos y a los menores abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores. Para desempeñar tal encargo deberá llevar a cabo el procedimiento establecido en el Código de Procedimientos Civiles vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -16814,6 +16814,24 @@ P.O. 15 DE ABRIL DE 2011.
 P.O. 20 DE MAYO DE 2011.
 
 Único.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Comité Interinstitucional para la regulación y vigilancia de las Instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León, deberá instalarse en un plazo que no podrá exceder de 60-sesenta días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+Tercero.- Las Instituciones Asistenciales que operen en el Estado de Nuevo León al momento de la entrada en vigor de este Decreto, deberán contar con la licencia a que refiere el Artículo 18 de la Ley de Instituciones Asistenciales que tiene Bajo su Guarda, Custodia o ambas a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo no mayor a 180-ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor de este Decreto.
+
+Excepcionalmente, y previa solicitud del interesado, la Procuraduría podrá otorgar por una sola vez prórroga hasta por otros 180-ciento ochenta días naturales a las Instituciones Asistenciales que no hubieren obtenido la licencia dentro del plazo que señala el párrafo anterior, y por motivo de alguna causa no imputable a su responsabilidad.
+
+Las Instituciones Asistenciales que no obtengan la licencia en cualquiera de los plazos señalados en los párrafos anteriores, según sea el caso, serán intervenidas de inmediato y sus establecimientos ocupados administrativamente por la Procuraduría en tanto se tramiten los traslados de los niños, niñas y adolescentes a otras Instituciones Asistenciales que si hubieran obtenido la licencia.
+
+Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince días hábiles siguientes a la entrada en vigor de este Decreto dirigida a los Directores o Titulares de las Instituciones Asistenciales Privadas para efecto de que en ella se señale lugar y fecha para la designación de los vocales integrantes del Comité a que refiere el inciso k), fracción IV del Artículo 9 del Artículo Primero de este Decreto, y quienes serán propuestos y votados de entre la mayoría de los representantes presentes al acto.
+
+Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
 
 ###### ARTICULO TERCERO.
 
