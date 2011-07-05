@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-848-de-transparencia-y-acceso-a-la-informacion-54691
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-27"
-last_updated: "2008-06-27"
+last_updated: "2011-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 27 de febrero de 2007.
 
@@ -883,9 +883,13 @@ Artículo 39
 
 2. Si dicha propuesta es nuevamente rechazada, procederá la presentación de una última propuesta de tres candidatos conforme al procedimiento descrito en el párrafo anterior, en la inteligencia de que, invariablemente, el Congreso del Estado deberá pronunciarse a favor de alguno de los tres candidatos propuestos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2011)</small>
+
 Artículo 40
 
-El cargo de Consejero Presidente será por un término de dos años improrrogables y recaerá en el Decano de los consejeros del Instituto.
+El cargo de consejero presidente tendrá una duración de dos años improrrogables y será elegido por mayoría de votos de los consejeros del Instituto, en sesión que el Consejo celebre para tal efecto.
 
 Artículo 41
 
@@ -915,27 +919,57 @@ Artículo 42
 
 2. La organización y funcionamiento del Consejo General se precisará en el Reglamento Interior del Instituto.
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2011)</small>
 
 Artículo 43
 
-1. Para el cumplimiento de sus atribuciones, el Consejo General contará con un Secretario General quien deberá poseer, además de los requisitos señalados en el artículo 41, título de Licenciado en Derecho expedido por autoridad o Institución legalmente facultada para ello, y una antigüedad mínima de cinco años al día de su nombramiento.
+1. Para el cumplimiento de sus funciones, el Consejo General contará con un secretario Ejecutivo que durará en su cargo tres años, podrá ser ratificado por otro período igual y será designado y removido libremente por la mayoría de los consejeros. El secretario Ejecutivo fungirá como secretario del Consejo General y tendrá a su cargo la dirección del funcionamiento de las diversas áreas administrativas del Instituto, conforme a los acuerdos y órdenes que dicte el Consejo y de acuerdo a la disponibilidad presupuestal aprobada. El secretario Ejecutivo actuará como secretario del Consejo General.
 
-2. El Secretario General tendrá las atribuciones siguientes:
+2. El secretario Ejecutivo deberá ser ciudadano veracruzano, mayor de treinta y cinco años, gozar de buena reputación, prestigio profesional y, al día de su nombramiento, contar con título profesional expedido por autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años. Además, no haber sido condenado por delito doloso ni ser ministro de culto religioso.
 
-I. Asistir al Presidente del Consejo en la representación legal del Instituto;
+3. El secretario Ejecutivo tendrá las atribuciones siguientes:
 
-II. Actuar como Secretario de Acuerdos del Consejo General y proporcionar a los Consejeros el apoyo técnico necesario para la sustanciación de los recursos de revisión y de reconsideración, procedimientos de verificación de falta de respuesta y otros, incluida la revisión de los proyectos de resolución correspondientes y su cumplimiento por parte de los sujetos obligados;
+I. Representar legalmente al Instituto y delegar esta función en el servidor público que designe, mediante acuerdo escrito;
 
-III. Levantar las actas de las sesiones del Consejo General en su función de órgano de gobierno y enviadas a los Consejeros y al titular del Órgano Interno de Control y Comisario del Instituto para su firma;
+II. Ejercer el presupuesto asignado por el Congreso;
 
-IV. Coadyuvar con el Consejero Presidente en la dirección de las labores administrativas del Instituto; y
+III. Suscribir, previa autorización del Congreso General, convenios y contratos en los términos de esta ley;
 
-V. Las demás que expresamente le confieran esta ley, la normatividad interior del Instituto y demás leyes del Estado.
+IV. Designar, con la aprobación del Consejo General, a los titulares de las áreas administrativas del Instituto;
+
+V. Elaborar, actualizar y ejecutar con la aprobación del Consejo General:
+
+a) Las medidas para manejar con eficiencia y probidad los recursos presupuestarios;
+
+b) Las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales; y
+
+c) Los programas para capacitar y actualizar a los servidores públicos en los temas relativos al acceso y protección de la información reservada y confidencial;
+
+VI. Elaborar y someter a la aprobación del Consejo General el proyecto de presupuesto anual y los informes de avance de la gestión financiera y su respectiva cuenta pública;
+
+VII. Ejecutar, por conducto de las áreas administrativas del Instituto, los acuerdos emitidos por el Consejo General; y
+
+VIII. Las demás que expresamente le confieran esta Ley, las Leyes del Estado y demás disposiciones aplicables.
+
+4. El Consejo General, contará con un secretario de Acuerdos, que durará en su cargo tres años, con la posibilidad de ratificación por otro período igual, quien será designado por mayoría de los consejeros. El secretario de Acuerdos actuará como secretario de actas del Consejo General y supervisará las actividades para la integración y sustanciación de los recursos, contando para ello con el personal necesario de acuerdo a la disponibilidad presupuestal.
+
+5. El secretario de Acuerdos deberá ser ciudadano veracruzano, mayor de treinta y cinco años, gozar de buena reputación, prestigio profesional y, al día se su nombramiento, contar con título de licenciado en Derecho expedido por autoridad o institución legalmente facultada para ello, con una antigüedad mínima de cinco años. Además, no haber sido condenado por delito doloso ni ser ministro de culto religioso.
+
+6. El secretario de Acuerdos tendrá las atribuciones siguientes:
+
+I. Asistir a los consejeros en la sustanciación de los recursos de revisión y de reconsideración, en los procedimientos de verificación de falta de respuesta y otros, incluida la revisión de los proyectos de resolución correspondientes;
+
+II. Actuar como secretario de actas del Consejo General;
+
+III. Proveer lo necesario para el cumplimiento de las resoluciones del Consejo General; y
+
+IV. Las demás que expresamente le confieran esta Ley, las Leyes del Estado y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2011)</small>
 
 Artículo 44
 
-Para el cumplimiento de sus atribuciones, el Consejo General del Instituto determinará la organización y estructura interna del Instituto, formulando su propio reglamento interno en el marco de la presente ley, designando a los servidores públicos del Instituto, que considere necesarios para el funcionamiento de la estructura establecida.
+El Consejo General del Instituto aprobará el Reglamento Interior que rija la Organización y Funcionamiento del Instituto, en el marco de la presente Ley.
 
 Artículo 45
 
@@ -945,25 +979,17 @@ Artículo 46
 
 1. El Presidente del Consejo General tendrá las siguientes facultades:
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2011)</small>
 
-I. Fungir como titular y dirigir las labores del Instituto;
+I. Interpretar en el orden administrativo esta ley, de conformidad con el artículo 7;
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+II. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
-II. Representar legalmente al Instituto;
+III. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
+IV. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
-III. Ejercer el presupuesto asignado por el Congreso;
-
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
-
-IV. Suscribir, previa autorización del Consejo General, convenios y contratos en los términos de esta ley;
-
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
-
-V. Designar, con la aprobación del Consejo General a los titulares de las respectivas áreas del Instituto;
+V. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
@@ -973,15 +999,13 @@ a). Los programas para vigilar el cumplimiento de esta ley;
 
 b). El programa operativo anual y los programas administrativos del Instituto;
 
-c). Las medidas para manejar con eficiencia y probidad los recursos presupuestarios;
+c). (DEROGADO, G.O. 5 DE JULIO DE 2011)
 
-d). Las acciones para gestionar y recibir fondos y donaciones de organismos nacionales e internacionales;
+d). (DEROGADO, G.O. 5 DE JULIO DE 2011)
 
-e). Los programas para capacitar y actualizar a los servidores públicos en los temas relativos al acceso y protección de la información reservada y confidencial;
+e). (DEROGADO, G.O. 5 DE JULIO DE 2011)
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
-
-VII. Elaborar y someter a la aprobación del Consejo General el proyecto de presupuesto anual y los informes de avance de la gestión financiera y su respectiva cuenta pública;
+VII. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
 
@@ -997,21 +1021,31 @@ b). Los criterios generales de clasificación y en su caso, los plazos para la d
 
 c). Los lineamientos y los formatos para la presentación de las solicitudes de acceso a la información pública ante las Unidades de Acceso, así como para la corrección de datos estrictamente personales;
 
-> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2008)</small>
-
-X. Ejecutar, por conducto de las áreas administrativas del Instituto, los acuerdos emitidos por el Consejo General;
+X. (DEROGADA, G.O. 5 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
 
 XI. Convocar y presidir las sesiones del Consejo General;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2011)</small>
 
-XII. Vigilar el cumplimiento de los acuerdos aprobados por el propio Consejo General; y
+XII. Vigilar el cumplimiento de los acuerdos aprobados por el propio Consejo General;
 
-> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 5 DE JULIO DE 2011)</small>
 
-XIII. Las demás que expresamente le confieran esta ley, la normatividad interior del Instituto y demás leyes del Estado.
+XIII. Elaborar los formatos de solicitudes de acceso a la información, así como los de corrección de datos personales;
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2011)</small>
+
+XIV. Difundir entre los servidores públicos y los particulares los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta.
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2011)</small>
+
+XV. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia que regula esta Ley; y
+
+> <small>(ADICIONADA, G.O. 5 DE JULIO DE 2011)</small>
+
+XVI. Las demás que expresamente le confieran esta Ley, las Leyes del Estado y demás disposiciones aplicables.
 
 Artículo 47
 
@@ -1279,9 +1313,11 @@ IV. El recurrente interponga, durante la tramitación del recurso, el juicio de 
 
 V. Admitido el recurso aparezca alguna causal de improcedencia en los términos de la presente ley.
 
+> <small>(REFORMADO, G.O. 5 DE JULIO DE 2011)</small>
+
 Artículo 72
 
-Las resoluciones establecerán los plazos para su cumplimiento y los procedimientos para asegurar la ejecución y serán definitivas y obligatorias para los sujetos obligados; debiendo ser notificadas a las partes interesadas de manera inmediata.
+Las resoluciones definitivas que pongan fin al recurso de revisión, una vez que hayan causado estado, deberán cumplirse en un plazo no mayor a quince días, contado a partir de que surta efectos su notificación.
 
 Artículo 73
 
@@ -1410,3 +1446,13 @@ Cuarto. El Consejo General del Instituto emitirá, en un término de treinta dí
 > <small>(F. DE E., G.O. 7 DE JULIO DE 2008)</small>
 
 Quinto. Para los recursos y asuntos que se encuentren en trámite a la entrada en vigor de esta ley y hasta la vigencia de los Lineamientos Generales, se seguirán tramitando y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+G.O. 5 DE JULIO DE 2011.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. La reforma al artículo 40 contenida en el presente Decreto, entrará en vigor una vez agotado el supuesto previsto en el artículo segundo transitorio del Decreto 839 que reforma la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado número extraordinario 31 de 29 de enero de 2007.
+
+Artículo tercero. A partir del inicio de la vigencia del presente Decreto, todas las disposiciones referentes al secretario general del Instituto se entenderán referidas al secretario Ejecutivo.
+
+(Sic) Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
