@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-del-estado-libre-y-soberano-de-morelos-63528"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-10-02"
-last_updated: "2011-06-24"
+last_updated: "2011-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 2 de octubre de 2008.
 
@@ -621,9 +621,13 @@ VII. Tampoco podrán recibir aportaciones de personas no identificadas, con exce
 
 VIII. Las personas o grupos con actividades ilícitas.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 52.
 
 Los partidos políticos deberán tener un órgano interno encargado de la obtención y administración de sus recursos generales, así como de la presentación de los informes financieros. Los partidos políticos deberán mantener permanentemente informado al Instituto Estatal Electoral de quién es el titular del órgano interno a que se refiere este artículo.
+
+La persona designada para estos fines, invariablemente deberá de contar con titulo y cédula profesional para ejercer la carrera de Contador Público o Administración.
 
 ###### ARTÍCULO 53.
 
@@ -1455,6 +1459,8 @@ IV. Elaborar o rendir al Consejo Estatal Electoral los dictámenes derivados del
 
 V. Las demás atribuciones que le confiera este código y el consejo.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 119.
 
 La Comisión de Fiscalización tendrá a su cargo la revisión de los informes anuales de precampaña y campaña de los partidos políticos, así como, la vigilancia del origen y destino de los recursos públicos y privados que les son entregados durante los períodos ordinarios y electorales, contará con un Secretario Técnico mismo que será designado por los integrantes de la comisión; además de las atribuciones siguientes:
@@ -1467,21 +1473,25 @@ III. Revisar los informes que los partidos políticos presenten sobre el origen 
 
 IV. Ordenar, en los términos del presente código, la práctica de auditorías a las finanzas de los partidos políticos, directamente a través de la Comisión de Fiscalización o de terceros;
 
-V. Ordenar cuando así se requiera durante el período de revisión de los informes, visitas de verificación a los archivos contables y documentales de los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
+V. Ordenar cuando así se requiera durante el periodo de revisión de los informes, visitas de verificación a los archivos contables y documentales de los partidos políticos con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
 
 VI. Presentar al consejo los dictámenes que formule respecto a las auditorías y verificaciones practicadas;
 
 VII. Informar al consejo, las irregularidades en que hubiesen incurrido los partidos políticos en el manejo de los recursos públicos así como, el incumplimiento a su obligación de informar sobre la aplicación de los mismos, a efecto de iniciar el procedimiento sobre faltas y sanciones;
 
-VIII. Proporcionar a los partidos políticos la orientación necesaria para el cumplimiento de las obligaciones consignadas en el presente código;
+VIII. Proporcionar a los partidos políticos la orientación, asesoría y en su caso la capacitación necesaria para el cumplimiento de las obligaciones previstas en el presente código;
 
-IX. Intercambiar información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas por este código y,
+IX. Intercambiar información con el Instituto Federal Electoral respecto a los informes y revisiones que se realicen en los respectivos ámbitos de competencia, a efecto de verificar el cumplimiento de las normas establecidas por este código y, (sic)
 
 X. Proporcionar la información suficiente y necesaria para la elaboración del convenio respectivo con el Instituto Federal Electoral.
 
-XI. Llevar el resguardo de los informes de finanzas y recursos de los partidos políticos y presentarlos al consejo para los efectos conducentes;
+XI. Llevar el resguardo de los informes de finanzas y recursos de los partidos políticos y presentarlos al consejo para los efectos conducentes
 
-XII. Las demás que le confiera este ordenamiento y el consejo.
+XII. Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro estatal; y,
+
+XIII. Las demás que le confiera este ordenamiento y el consejo.
+
+Tratándose del ejercicio de sus atribuciones y facultades, cuando requiera de vigilar y fiscalizar los recursos de los partidos políticos pretenda superar la limitación establecida por los secretos bancarios, fiscal o fiduciario establecidos por las leyes federales, pedirá el apoyo del Instituto Federal Electoral.
 
 ### CAPÍTULO VIII. DE LA SECRETARIA EJECUTIVA
 
@@ -4474,3 +4484,13 @@ PRIMERO.- Remítase al titular del Poder Ejecutivo, para los efectos de su promu
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea el presente, remítase para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente decreto.
