@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-10-28"
+last_updated: "2011-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
+CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 5 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO DEJARÁ DE SER APLICABLE EN FORMA GRADUAL Y SUCESIVA, EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO, QUEDANDO ABROGADO A PARTIR DEL 1 DE ENERO DE 2016, CON LAS EXCEPCIONES ESTABLECIDAS EN LOS ARTÍCULOS DEL TERCERO AL SEXTO TRANSITORIOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -201,7 +203,7 @@ XV.- Acordar el archivo provisional del ejercicio de la acción penal, cuando no
 
 XVI.- Dictar reserva de la preparación de la acción penal en los delitos de querella necesaria, cuando se advierta que la personalidad o la legitimación del querellante se encuentra subjúdice. Una vez resuelta la controversia en definitiva por la autoridad competente, el Ministerio Público resolverá a lo que a derecho corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### Artículo 4.
 
@@ -281,7 +283,7 @@ A los Tribunales Penales corresponde la imposición de las sanciones o medidas d
 
 El procedimiento ante el Juez comprenderá los períodos señalados en las fracciones I en su caso, II, III, y IV del artículo 1 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -339,7 +341,7 @@ También corresponde al Ejecutivo declarar, cuando proceda, la prescripción del
 
 ### CAPITULO PRIMERO. JURISDICCION Y COMPETENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 10.
 
@@ -405,7 +407,7 @@ Luego que se conozca el lugar de la comisión del delito, se remitirán al Tribu
 
 Si se cometiera uno o más delitos en dos o más distritos del Estado, será competente para conocer de ellos el Juez que conociera del primero, procediéndose en este caso conforme a las reglas de la acumulación de procesos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 17.
 
@@ -507,7 +509,7 @@ En caso de infracción de las disposiciones contenidas en este capítulo, se san
 
 Cuando a juicio del Juez no se entorpezca el proceso, podrá autorizar al Ministerio Público adscrito para que estudie los expedientes fuera del Tribunal. El inculpado, su defensor y el ofendido podrán enterarse de los autos en la Secretaría del Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 29.
 
@@ -537,7 +539,7 @@ Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a q
 
 ### CAPITULO TERCERO. INTERPRETES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 34.
 
@@ -577,7 +579,7 @@ Los Jueces y Tribunales, en todo lo que la Ley no prohíba o prevenga expresamen
 
 La iniciación de todo procedimiento judicial será comunicada al Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 40.
 
@@ -625,7 +627,7 @@ Cuando cambiare el titular de un Tribunal, no se proveerá decreto alguno hacié
 
 Cuando no tenga que dictarse resolución alguna antes de la sentencia, se hará saber el cambio del titular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 48.
 
@@ -693,7 +695,7 @@ El Ministerio Público, para hacer cumplir sus determinaciones, podrá emplear l
 
 Las cauciones que se otorguen ante los Tribunales o el Ministerio Público, en su caso, se sujetarán a las reglas del Código Civil, y en lo conducente al Capítulo "Libertad Provisional Bajo Caución" de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 54.
 
@@ -909,7 +911,7 @@ Los plazos se reputarán comunes, salvo que por su naturaleza, o por disposició
 
 ### CAPITULO OCTAVO. AUDIENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 91.
 
@@ -1163,7 +1165,7 @@ A los defensores públicos, cuando no se les pueda hacer la notificación person
 
 REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 125.
 
@@ -1247,7 +1249,7 @@ En los casos del artículo anterior, se requerirá a quien haya presentado el do
 
 La acción de la querella se considerará abandonada cuando el querellante no ocurra ante el Ministerio Público a ratificarla sin causa justificada, dentro del término de quince días, contados a partir del día de su presentación.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO SEGUNDO. COMPROBACION DEL CUERPO DEL DELITO, VESTIGIOS, OBJETOS RELACIONADOS CON EL DELITO Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
 
@@ -1327,7 +1329,7 @@ f).- Concedérsele, inmediatamente que lo solicite, su libertad provisional bajo
 
 4) Le hará saber que puede comunicarse inmediatamente con quien lo desee, por cualquier medio disponible;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 5).- Le designará un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero, que no entienda suficientemente el español.
 
@@ -1339,7 +1341,7 @@ El Ministerio Público, en su caso, de oficio o a petición de parte, verificar�
 
 Cuando la detención se efectúe por elementos de instituciones policiales, los servidores públicos encargados de calificar la detención y poner a la persona a disposición del Ministerio Público, deberán proceder a su identificación por los medios que estén a su alcance.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 136.
 
@@ -1367,7 +1369,7 @@ Tratándose de los delitos culposos con motivo del tránsito de vehículos, en d
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 139.
 
@@ -1457,7 +1459,7 @@ Toda persona que haya de rendir declaración en los casos de los artículos 133,
 
 El defensor podrá impugnar las preguntas que se hagan al declarante si éstas son inconducentes o contra derecho. Pero no puede producir ni inducir las respuestas de su asistido.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO TERCERO. CURACION DE HERIDOS Y ENFERMOS
 
@@ -1489,7 +1491,7 @@ Cuando el estado y circunstancias a que se refiere el artículo anterior, no pud
 
 Si para la comprobación de los elementos del delito o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará que se verifique, haciendo constar en el acta la descripción del mismo y todos los detalles que puedan tener significación para la apreciación de los hechos. Así mismo se agregarán las fotografías correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 155.
 
@@ -1507,7 +1509,7 @@ En el caso del artículo anterior, se procederá a levantar el Acta correspondie
 
 En los casos de los dos artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que lo estime necesario para apreciar mejor su relación con el delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 157.
 
@@ -1609,7 +1611,7 @@ En caso de muerte practicarán además de la autopsia del cadáver, el análisis
 
 En el delito de robo, se describirán las características y se detallará el estado del objeto del ilícito, haciéndose también constar todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, verificando cuanto fuere necesario para que los peritos emitan su opinión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 174.
 
@@ -1851,7 +1853,7 @@ El Ministerio Público emitirá determinación de reserva de la preparación de 
 
 ### CAPITULO PRIMERO. REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 193.
 
@@ -1869,7 +1871,7 @@ Tratándose de delitos sexuales, delitos contra la familia, delitos contra la vi
 
 En caso de que la detención de una persona exceda de los términos señalados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 3 fracción IV, tercer párrafo de este Código, se presumirá que estuvo incomunicada y las declaraciones que haya rendido no tendrán validez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 194.
 
@@ -1935,7 +1937,7 @@ Siempre que se lleve a cabo una aprehensión en virtud de orden judicial, la Pol
 
 Si el Juez niega la orden de aprehensión, de comparecencia, de cateo, de arraigo, de presentación o de embargo precautorio, por considerar que no están reunidos los requisitos de los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos, 193 y 197 de este Código, y se solicitare replantear el auto en que se ejercita la acción penal o la práctica de nuevas pruebas, se regresará el expediente al Ministerio Público a efecto de que realice un nuevo auto de ejercicio de la acción penal o desahogue de nuevas pruebas estando facultado para solicitar de nueva cuenta la orden de aprehensión, de comparecencia o de cateo, de arraigo, de presentación o embargo precautorio, con un nuevo planteamiento o en el mismo sentido apoyado en pruebas diversas a las anteriores, ya consideradas por la autoridad judicial, debiendo el juzgador valorar en su conjunto todas y cada una de las pruebas que obran en el expediente, tanto la (sic) nuevas como las anteriores, al emitir un nuevo auto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO CUARTO. AUTO DE FORMAL PRISION, DE SUJECION A PROCESO Y LIBERTAD
 
@@ -1959,7 +1961,7 @@ La declaración preparatoria se desahogará en audiencia pública, sin que en el
 
 En ningún caso y por ningún motivo, podrá el juez emplear la incomunicación, la intimidación, la tortura o cualquier otro medio de coacción para obligar al detenido a declarar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 204.
 
@@ -1991,7 +1993,7 @@ V.- Que tiene derecho a no declarar. O declarar, si ese es su deseo, asistido po
 
 VI.- Que tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad conforme a la Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 VII.- Que tiene derecho a que se le designe un traductor que le hará saber los derechos anteriores y le asistirá en todos los actos procedimentales sucesivos y en la correcta comunicación con el defensor, cuando el detenido sea un indígena o un extranjero que no entienda suficientemente el español.
 
@@ -2089,7 +2091,7 @@ No pueden ser defensores los que se hallen presos ni los que estén procesados. 
 
 ### CAPITULO PRIMERO. PRUEBAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 212.
 
@@ -2543,7 +2545,7 @@ Antes de resolver sobre la objeción planteada por una de las partes, el Juez es
 
 El valor probatorio del testimonio se calificará en la sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 275 Bis.
 
@@ -2561,7 +2563,7 @@ En estas diligencias y durante el proceso, la identidad del testigo se asentará
 
 En caso de que el testigo tenga que comparecer ante el Ministerio Público o la autoridad jurisdiccional en el proceso, si el testigo lo estima pertinente podrá presentarse de tal forma en que no pueda identificarse su apariencia física, su voz, así como otros rasgos particulares que lo hagan inconfundible, y se identificará con su registro de ADN (ácido desoxirribonucleico) que le será proporcionado por el Estado. Dicho registro será suficiente para los efectos de la identificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 275 Bis 1.
 
@@ -2571,7 +2573,7 @@ En caso de que el testigo tenga que comparecer ante el Ministerio Público o la 
 
 La Procuraduría prestará apoyo y protección suficientes a Jueces, Agentes del Ministerio Público, peritos y demás servidores públicos, además a sus auxiliares, cónyuge e hijos, cuando así se requiera por su intervención en un procedimiento penal respecto a los delitos referidos en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 276.
 
@@ -2619,7 +2621,7 @@ Cuando el caso lo permita, podrá enviarse la cédula por correo, en sobre cerra
 
 Si el testigo fuere militar, la citación se hará por conducto del superior jerárquico respectivo; lo mismo se observará cuando se trate de un servidor de la administración pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 281.
 
@@ -2629,7 +2631,7 @@ Si el testigo se encontrare fuera del lugar del juicio, pero dentro de la jurisd
 
 Si no tuviere éxito, se le citará por edictos en el Boletín Judicial, y en un diario de los de mayor circulación en el Estado. Si no compareciere, se declarará sin materia. Lo mismo sucederá si el testigo no se presenta a los requerimientos judiciales, a pesar del apremio judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 282.
 
@@ -3225,7 +3227,7 @@ XII.- Cuando se declare abandonada la acción de la querella.
 
 Solo en el caso de las fracciones I, X y XII de este artículo procederá el sobreseimiento en segunda instancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 370.
 
@@ -3375,7 +3377,7 @@ En el supuesto de que la causa quedare abierta respecto de diverso o diversos im
 
 El original o testimonio debe remitirse dentro de quince días; si no se cumple con esta prevención, el tribunal de apelación, a pedimento del apelante, impondrá al inferior una multa de cinco a diez cuotas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 391.
 
@@ -3651,7 +3653,7 @@ Los magistrados, jueces y secretarios de lo penal, estarán impedidos de conocer
 
 La contravención a esta disposición, se castigará como lo previene el código penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 429.
 
@@ -3677,7 +3679,7 @@ Cuando hubiere oposición, se suspenderá todo procedimiento, y se remitirá la 
 
 Para esto, sólo se oirá al que se excuse, y se resolverá el incidente dentro de las setenta y dos horas siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 433.
 
@@ -4019,7 +4021,7 @@ La resolución que declare procedente este incidente, tendrá los mismos efectos
 
 ### CAPITULO PRIMERO. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 487.
 
@@ -4035,7 +4037,7 @@ Si se pronuncia auto de formal prisión o de sujeción a proceso, el Juez suspen
 
 El procedimiento especial a que se refiere el artículo anterior, constará de dos etapas, y en ellas se dará plena intervención a las partes. La representación legal del indiciado o probable responsable, correrá a cargo del defensor designado en autos y del tutor especial, que para tal caso deberá designar inmediatamente el Juez del proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -4051,7 +4053,7 @@ Se procederá a la declaratoria de apertura del procedimiento especial a que se 
 
 Desahogadas las pruebas, el Juez pronunciará resolución dentro de los quince días siguientes a la recepción de la última prueba. La resolución del Juez resolverá exclusivamente sobre la imputabilidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -4119,7 +4121,7 @@ Cuando proceda la libertad caucional, reunidos los requisitos legales, se decret
 
 En caso de que se niegue la libertad caucional, puede solicitarse de nuevo y ser concedida por causas supervenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 497.
 
@@ -4277,7 +4279,7 @@ En los casos de las fracciones I, II, III y VII del artículo 505, se mandará r
 
 En los casos de las fracciones V y VI del artículo 505 y III del 506 de este Código, se ordenará la reaprehensión del inculpado. En los de las fracciones IV del artículo 505 y II del 506, se remitirá al acusado al establecimiento que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 509.
 
@@ -4307,7 +4309,7 @@ Para revocar la libertad caucional siempre se deberá oír previamente al Minist
 
 ###### ARTICULO 512.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 513.
 
@@ -4367,43 +4369,43 @@ Las resoluciones dictadas en ejecución de sentencia para la reparación y perju
 
 ### CAPITULO TERCERO. CONVERSION, CONMUTACION Y SUBSTITUCION DE SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 517.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 518.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 519.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 520.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 521.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 522.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 523.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 524.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 525.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ### CAPITULO CUARTO. REHABILITACION
 
@@ -4419,11 +4421,11 @@ Lo dispuesto en el artículo anterior excluye la posibilidad de aplicar simultá
 
 ###### ARTICULO 528.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 529.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 530.
 
@@ -4483,11 +4485,11 @@ Tratándose de sentenciados por cualquier delito de carácter sexual, o trata de
 
 ###### ARTICULO 540.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 541.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCIÓN DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 542.
 
@@ -4547,11 +4549,11 @@ De los delitos que cometan los Jueces de primera instancia, Agentes del Minister
 
 Fuera de los casos previstos en este título, para conocer de los delitos cometidos por los servidores públicos, se seguirán las reglas generales señaladas en esta Legislación.
 
-> <small>(ADICIONADO, CON LOS CAPITULOS QUE LO INTEGRAN P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO, CON LOS CAPÍTULOS QUE LO INTEGRAN P.O. 28 DE JULIO DE 2004)</small>
 
 ## TITULO DECIMO CUARTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ABREVIADO
 
@@ -4569,7 +4571,7 @@ I. Los cometidos por culpa;
 
 II .Los de querella previstos en los Artículos 189, 235, 236, 262, 271 bis, 280, 282, 284, 285, 291, 300 en relación con el Artículo 301 fracción I, 300 en relación con el Artículo 301 fracción II, 338, 342, 344, 360, 381 en relación con el 382 fracción I, 382 fracción II, 383 en relación con el 382 fracción I, 383 en relación al 382 fracción II, 384 en relación con el 382 fracción I, 384 en relación al 382 fracción II, 385 fracción I, 385 fracción II, 386 en relación al 385 fracción I, 386 en relación al 385 fracción II, 392, 402 en relación con el 367;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -4577,7 +4579,7 @@ III. Los de oficio previstos en los Artículos 166 fracción I, 168, 171, 172 pr
 
 Este procedimiento ante los Órganos Jurisdiccionales será preponderantemente Oral, se realizará sobre la base de la acusación y se regirá por los principios de oralidad, inmediación, concentración, continuidad, contradicción y publicidad, salvo las excepciones previstas en este Código y las Leyes aplicables. En lo no previsto por este capítulo, se aplicarán supletoriamente las normas comunes de este Código, siempre que las mismas no contravengan los citados principios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 554.
 
@@ -4607,7 +4609,7 @@ El Juez de Preparación de lo Penal resolverá sobre lo solicitado por el Minist
 
 El Juez practicará las diligencias necesarias y resolverá la situación jurídica del inculpado conforme lo disponen el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 212 del presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 556.
 
@@ -4707,7 +4709,7 @@ Dictado el auto de Apertura del Juicio Oral, el Juez devolverá a las partes los
 
 En caso de que se hubiese interpuesto recurso de apelación en forma oral o escrita contra el auto de formal prisión o de sujeción a proceso, contra la admisión de alguna prueba en forma contraría a la ofertada, o contra el desechamiento de alguna prueba, se suspenderá el dictado del Auto de Apertura del Juicio Oral, hasta la resolución del recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 560.
 
@@ -4831,7 +4833,7 @@ La audiencia se realizará, salvo en los recesos acordados, con la presencia ini
 
 La presencia del Ministerio Público y del defensor del inculpado durante la audiencia constituye un requisito de validez de la misma. La falta de comparecencia del Ministerio Público deberá ser subsanada de inmediato por el Juez, poniendo en conocimiento de este hecho al Procurador General de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 567.
 
@@ -4905,7 +4907,7 @@ El Ministerio Público, de oficio o a instancia del interesado también podrá d
 
 La audiencia del Juicio Oral será pública salvo las excepciones previstas en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 575.
 
@@ -4915,7 +4917,7 @@ Cuando las partes planteen cuestiones incidentales y solicitudes relacionadas co
 
 No procederá recurso alguno contra las disposiciones que recayeran sobre estos incidentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 576.
 
@@ -4955,7 +4957,7 @@ Excepcionalmente el tribunal podrá disponer la suspensión del debate, por reso
 
 Las resoluciones de este Capítulo no admiten más recurso que el de apelación tratándose de la negativa de orden de aprehensión, de presentación o de comparecencia, del auto de formal prisión, del auto de sujeción a proceso, del auto de libertad, de la admisión de pruebas en forma contraria a las ofertadas, del desechamiento de pruebas ofrecidas, así como de la sentencia definitiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 578.
 
@@ -4965,7 +4967,7 @@ El debate será oral, tanto en lo relativo a los alegatos y argumentos de todos 
 
 El acusado sordo o que no pueda entender el idioma español será dotado de un intérprete que le transmitirá el contenido de los actos del debate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 579.
 
@@ -5025,7 +5027,7 @@ El acusado si lo solicita prestará declaración. En tal caso, el Juez le permit
 
 En cualquier estado del Juicio el acusado podrá solicitar ser oído, con el fin de aclarar o complementar sus dichos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 582.
 
@@ -5181,13 +5183,13 @@ Se prohíbe el alegato hecho al Juez de la causa, fuera de la audiencia y sin pr
 
 Cuando por vía de Amparo Indirecto se alegue violación los artículos 19 ó 20 de la Constitución Política de los Estados Unidos Mexicanos, una vez que sea enterado el Juez de Preparación de lo Penal, lo comunicará sin demora al Juez del Juicio Oral Penal que conociere del proceso, quien suspenderá la celebración de la audiencia. En caso de que ésta ya se hubiese iniciado se suspenderá su continuación en lo que corresponde al inculpado-quejoso una vez desahogadas las pruebas, y hasta que sea notificada la ejecutoria que recaiga en el Juicio de amparo correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 595.
 
 Tratándose del delito de lesiones para dictar sentencia se estará a lo dispuesto por el artículo 319 de este Código, dejando en todo caso a salvo los derechos de la víctima u ofendido por las consecuencias que pudiesen derivarse de las lesiones inferidas, sin perjuicio de condenar al pago de la indemnización del daño material y moral causado, incluyendo el pago del tratamiento integral dirigido a la rehabilitación médico - psicológica de la víctima, que como consecuencia del delito sea necesario para la recuperación de su salud, conforme al Código Penal.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 596.
 
@@ -5215,7 +5217,7 @@ En el Procedimiento Oral penal, respecto a la sentencia, los recursos y la ejecu
 
 La sentencia se pronunciará siempre en nombre del Estado de Nuevo León, en la forma que prescribe este Código. Redactada la sentencia, el Tribunal se constituirá nuevamente en la sala de la audiencia, después de ser convocadas las partes y el documento será leído ante los presentes, la lectura valdrá en todo caso como notificación y se hará constar en acta. Cuando la complejidad del asunto o lo avanzado de la hora, torne necesario diferir la redacción de la sentencia, ésta deberá redactarse en un plazo máximo de diez días contados a partir de que quede cerrado el debate, y será leída en audiencia pública a la que se convocará a las partes. La lectura surtirá efectos de notificación y se hará constar en el acta.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO TERCERO. DE LA SUSPENSION DEL PROCEDIMIENTO A PRUEBA DEL PROCESADO
 
@@ -5317,7 +5319,7 @@ Si el delito fuere grave, la reducción será de un cuarto de la pena que corres
 
 Las resoluciones en el Procedimiento Abreviado no admiten más recurso que el de apelación tratándose de sentencia definitiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2004)</small>
 
 ### CAPITULO V. DE LOS PROMOVENTES
 
@@ -5335,7 +5337,7 @@ IV.- Que no se haya concedido el mismo beneficio en proceso diverso;
 
 V.- Que de la circunstancia del hecho y personales del inculpado no existan datos que permitan racionalmente presumir que, de concederse la suspensión, se presentarían riesgos graves a los bienes jurídicos de las personas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2005)</small>
 
 VI.- Que el inculpado ante el Juez, celebre con la víctima u ofendido, si los hubiere, un acuerdo reparatorio de daño y/o perjuicio;
 
@@ -5491,7 +5493,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JUNIO DE 1990.
 
@@ -5665,13 +5667,13 @@ SEGUNDO.- Las disposiciones del presente Decreto no serán aplicables a los proc
 
 P.O. 17 DE JULIO DE 2009.
 
-DECRETO No. 399, POR EL QUE SE REFORMA EL ARTICULO 182 BIS 7 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
+DECRETO No. 399, POR EL QUE SE REFORMA EL ARTÍCULO 182 BIS 7 DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE JULIO DE 2009.
 
-DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTICULOS 200, 385 Y 577 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON.
+DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTÍCULOS 200, 385 Y 577 DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5728,3 +5730,45 @@ P.O. 28 DE OCTUBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias de la Ley que Regula para la Ejecución de Sanciones Penales en un plazo no mayor a 180 días naturales contados a partir de la vigencia del presente Decreto.
+
+P.O. 5 DE JULIO DE 2011.
+
+Primero.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del 1 ° de enero del año 2012 y para el procesamiento de los delitos se aplicara de manera gradual y sucesiva considerando como factor el tipo de delito, en los términos que en seguida se precisan:
+
+A partir del 1° de enero del año 2012 para el procesamiento de los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
+
+Artículos 161 Bis 2, 166 primer y último párrafo y fracciones I y II, 170, 171, 172, 178, 180, 180 Bis,182, 183, 184, 186, 189, 196 fracción III inciso e) y fracción IV, 198, 202, 204, 205, 208 fracciones VIII y IX, 211 en relación al 212 fracción I, 2I3, 214 Bis, 215 en relación al 216 fracciones I y II, 216 Bis, 217 en relación al 218 fracciones I y II, 220, 222, 227, 228, 229, 230, 231, 232, 233, 235, 253, 259, 262, 271 Bis, 272, 274, 276, 277, 278, 279, 280, 280 Bis, 282, 284, 285, 291, 295, 300 en relación al 301 fracciones I y II, 306 Bis 1 en relación al 306 Bis 2, 300 en relación con lo establecido en el artículo 65, 308 en relación con lo establecido en el articulo 65, 323, 332, 335, 336, 336 Bis, 337, 338, 342, 343, 344, 359, 360, 376, 377, 378, 379, 380, 381 en relación al artículo 382 fracciones I y II, 383 en relación con la fracción I del artículo 382, 383 en relación con la fracción II del artículo 382, 384 en relación con la fracción I del artículo 382, 384 en relación con la fracción II del artículo 382, 385 fracciones I y II, 386 en relación a la fracción I del artículo 385, 386 en relación a la fracción II del artículo 385, 388, 389, 390, 402, 402 en relación con el artículo 65, 402 Bis, 430.
+
+A partir del 1° de enero de 2013 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
+
+Artículo 195, 206, 206 Bis, 207, 211 en relación con el artículo 212 fracción II, 215 con relación al artículo 216 fracción III, 217 en relación al artículo 218 fracción III, 219 Bis, 222 Bis, 224 Bis, 225 Bis, 244, 287 Bis, 287 Bis 2, 302, 303, 304, 306 Bis 2, 306 Bis 3, 364 en relación al 367 fracciones I y II, 373, 409, 411, 413 Bis, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426.
+
+A partir del 1° de enero de 2014 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
+
+Artículos 174, 175, 177, 187 en relación al 186, 196, 197 Bis, 201 Bis, 201 Bis 2, 208, 209, 223, 224, 225, 225 Bis, 225 Bis 1, 225 Bis 2, 226 Bis, 240, 242, 243, 244 Bis, 245, 247, 254 Bis, 271 Bis 2, 287, 308 en relación al 302, 308 en relación al 313, 308 en relación al 320, 322, 327 en relación al 328, 327 en relación al 329, 327 en relación al 330, 33I Bis.
+
+A partir del 1° de enero de 2015 se adicionarán para su procesamiento los delitos tipificados en los siguientes artículos del Código Penal para el Estado de Nuevo León:
+
+Artículos 150, 151, 152, 153, 154, 158, 160, 161, 163, 164, 165, 265, 266, 267,268, 271,624 en relación al 367 fracción III, 369, 381, 383, 384, 385, 386, 387, 387 Bis, 391, 392, 396,397,401,406 Bis, 410 segundo párrafo en relación al 409 fracción IV, 427, 428, 429, 43I.
+
+A partir de 1° de enero de 2016, se aplicará a todos los delitos tipificados en el Código Penal para el Estado de Nuevo León y a otros delitos especiales previstos en los ordenamientos legales.
+
+Para aquellos delitos que de acuerdo con las reglas anteriores aún no les fuera aplicable el Código establecido en el presente Decreto, se seguirá aplicando el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas.
+
+El Gobernador del Estado, durante el mes de septiembre de cada año a partir del 2012 y hasta el año 2015, evaluará los avances en la implementación del sistema de justicia penal establecido en este Código y, en su caso, propondrá al Congreso del Estado la modificación a las reglas de gradualidad para inicio de vigencia, las figuras delictivas que se regirán bajo este sistema, o bien acordando otra modalidad de gradualidad que establece la Constitución Política de los Estados Unidos Mexicanos. El Titular del Ejecutivo Estatal escuchará la opinión del Presidente del Tribunal Superior de Justicia, Procurador General de Justicia, Secretario de Seguridad Pública, Secretario de Finanzas y Tesorero General del Estado, Director del Instituto de Defensoría Pública y al Director General de la Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal, para hacer alguna modificación.
+
+El Titular del Poder Ejecutivo del Estado al presentar la iniciativa de Ley de Egresos del Estado y el Consejo de la Judicatura al elaborar el presupuesto de Egresos del Poder Judicial especificarán los conceptos y montos destinados para la implementación del sistema Penal Acusatorio.
+
+Segundo.- El Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas, dejará de ser aplicable en forma gradual y sucesiva, en los términos precisados en el artículo transitorio anterior, quedando abrogado a partir del 1° de enero de 2016, con las excepciones establecidas en los Transitorios subsecuentes.
+
+Se aplicarán las reglas procesales que se encuentren vigentes en el momento en que ocurrieron los hechos delictuosos, aún cuando no hayan sido denunciados.
+
+Tercero.- Los delitos permanentes y continuados que inicien su comisión en la vigencia del Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de Marzo de 1990 y sus reformas, se investigarán, procesarán y juzgarán conforme a dicho ordenamiento aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+Cuarto.- No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando alguno de ellos se deba tramitar conforme al presente Código y otro conforme al Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas.
+
+Quinto.- Será aplicable el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de 1990 y sus reformas, si el procedimiento se sigue a dos o más personas y a cualquiera de ellas se le investiga por delito que no se encuentre vigente aun en este Código de acuerdo con lo establecido en el Transitorio Primero. En este caso la inhibitoria será respecto de todos los inculpados.
+
+Sexto.- los exhortos y rogatorias que se reciban en el Estado se diligenciarán según señale la autoridad exhortante de acuerdo con el sistema del Código establecido en el presente Decreto o bien de acuerdo con lo señalado en el Código de Procedimientos Penales del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 28 de marzo de I990 y sus reformas. En caso de que la autoridad exhortante omita hacer la referencia, el Juez se ajustará a las reglas establecidas en el presente Decreto.
+
+Séptimo.- Los epígrafes de cada Artículo de este Código son de carácter indicativo por lo que no definen, interpretan o limitan el contenido de los artículos.
