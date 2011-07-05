@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-consejo-estatal-de-adopciones-10937"
 country: "mx"
 rank: "ley"
 publication_date: "1996-02-09"
-last_updated: "2009-01-14"
+last_updated: "2011-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ADOPCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de febrero de 1996.
 
@@ -53,9 +53,7 @@ I.- Unificar todos los programas de adopción que se apliquen en el Estado, con 
 
 II.- Emitir opinión respecto de las adopciones que se tramiten en la entidad en los casos previstos por la fracción VIII del artículo 390 del Código Civil para el Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
-
-III.- Emitir opinión respecto a los organismos, personas físicas o morales de derecho privado a que se refiere la ley de Beneficencia Privada para el Estado, en el articulo 87 fracción I inciso l) y las constituidas en los términos del Titulo Décimo Primero del Libro Cuarto del Código Civil para el Estado;
+III.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
@@ -73,9 +71,7 @@ VI.- Difundir los objetivos del Consejo Estatal de Adopciones;
 
 VlI.- Llevar un registro de sus miembros:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
-
-VlII.- Instituir y mantener actualizado un padrón de instituciones que tengan en el Estado, menores de edad en guarda, custodia o en ambos supuestos;
+VlII.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
 
@@ -89,13 +85,7 @@ X.- Elaborar y modificar su reglamento interno;
 
 XI.- Difundir la cultura a favor de la Adopción estableciendo sus principios básicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
-
-XII.- Elaborar un manual de políticas, procedimientos y criterios que regulen:
-
-a) La apertura, funcionamiento, suspensión de operación, y cierre de Instituciones que tengan menores de edad, en guarda, custodia o en ambos supuestos; y
-
-b) La apertura, operación y cierre de los expedientes de cada uno de los menores de edad, en guarda, custodia o en ambos supuestos;
+XII.- (DEROGADA, P.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
 
@@ -179,11 +169,9 @@ De cada sesión el Secretario Técnico del Consejo levantará un acta en la que 
 
 A propuesta del Presidente Ejecutivo del Consejo, cuando así se estime conveniente, se podrá invitar con voz, pero sin derecho a votar, a instituciones o especialistas en las disciplinas que interesen al Consejo.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
-
 ###### Artículo 7o.
 
-Para la certificación de las instituciones públicas y privadas referidas en el Artículo 2º, fracción VIII, de esta Ley, se estudiarán y verificarán los programas de adopción utilizados por éstas.
+(DEROGADO, P.O. 5 DE JULIO DE 2011)
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -201,35 +189,15 @@ El informe que señala el párrafo anterior, deberá publicarse en forma permane
 
 ###### Artículo 10.
 
-Las instituciones señaladas en la fracción VII del artículo 2o. de esta ley, darán las facilidades necesarias al Consejo para el cumplimiento de la atribución que se menciona en la misma.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2009)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2011)
 
 ###### Artículo 11.
 
-Para efecto de dar cumplimiento a la disposición contenida en el artículo 2 fracción VIII de esta Ley, se establece que son obligaciones de todas las instituciones que tienen en el Estado, menores de edad, en guarda, custodia o en ambos supuestos, las siguientes:
-
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
-
-a) Registrarse ante el Consejo Estatal de Adopciones dentro de los diez días siguientes a la fecha de iniciación de actividades;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
-
-b) Presentar a dicho Consejo un informe trimestral que incluya, entre otros, los datos generales de los menores de edad que tengan en guarda, custodia o en ambos supuestos y los de quien o quienes autorizaron su ingreso a la Institución respectiva;
-
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
-
-c) Presentar al consejo un aviso de ingreso y egreso de los menores de edad, dentro de los tres días siguientes a que sucedan estos hechos y acompañando al primero una fotografía del menor; y
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
-
-d) Proporcionar al Consejo, a través de las personas que para tal efecto designe, las facilidades de acceso a las instalaciones, registros, expedientes así como a los menores de edad en guarda, custodia o en ambos supuestos, para verificar la información entregada al mismo.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+(DEROGADO, P.O. 5 DE JULIO DE 2011)
 
 ###### Artículo 12.
 
-Para los efectos de esta Ley, se considera que los menores de edad se encuentran bajo la guarda de una persona moral o física cuando cualquiera de éstas se responsabilizan sólo de su cuidado temporal por autorización voluntaria de quien o quienes ejerzan la patria potestad sobre los mismos menores; y se considera que se encuentran bajo custodia, cuando dicho cuidado deriva de una orden de autoridad judicial competente o de una autorización otorgada formalmente ante la Procuraduría de la Defensa del Menor y la Familia o ante Juez competente, por quien o quienes ejerzan la patria potestad, con permiso expreso para ejercer los derechos de posesión o tenencia material, crianza, formación, educación, atención a la salud, protección, socialización y demás necesarios para el adecuado desarrollo integral de los menores de edad.
+(DEROGADO, P.O. 5 DE JULIO DE 2011)
 
 TRANSITORIOS:
 
@@ -294,3 +262,21 @@ Segundo.- En relación a las modificaciones al Artículo 2 de la Ley que Crea el
 Tercero.- El Ejecutivo Estatal emitirá el Reglamento de la Ley que Crea el Consejo Estatal de Adopciones de Nuevo León, dentro de los treinta días naturales una vez recibido el proyecto que dispone el Artículo Transitorio anterior.
 
 Cuarto.- El Ejecutivo del Estado a través de la Secretaría de Finanzas y Tesorería General del Estado, determinará la reasignación presupuestal que corresponda al Consejo Estatal de Adopciones, dentro del Ejercicio Fiscal 2009.
+
+P.O. 5 DE JULIO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Comité Interinstitucional para la regulación y vigilancia de las Instituciones Asistenciales que tienen bajo su guarda, custodia o ambas a niñas, niños y adolescentes en el Estado de Nuevo León, deberá instalarse en un plazo que no podrá exceder de 60-sesenta días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+Tercero.- Las Instituciones Asistenciales que operen en el Estado de Nuevo León al momento de la entrada en vigor de este Decreto, deberán contar con la licencia a que refiere el Artículo 18 de la Ley de Instituciones Asistenciales que tiene Bajo su Guarda, Custodia o ambas a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo no mayor a 180-ciento ochenta días naturales contados a partir del día siguiente de la entrada en vigor de este Decreto.
+
+Excepcionalmente, y previa solicitud del interesado, la Procuraduría podrá otorgar por una sola vez prórroga hasta por otros 180-ciento ochenta días naturales a las Instituciones Asistenciales que no hubieren obtenido la licencia dentro del plazo que señala el párrafo anterior, y por motivo de alguna causa no imputable a su responsabilidad.
+
+Las Instituciones Asistenciales que no obtengan la licencia en cualquiera de los plazos señalados en los párrafos anteriores, según sea el caso, serán intervenidas de inmediato y sus establecimientos ocupados administrativamente por la Procuraduría en tanto se tramiten los traslados de los niños, niñas y adolescentes a otras Instituciones Asistenciales que si hubieran obtenido la licencia.
+
+Cuarto.- La Procuraduría emitirá una convocatoria dentro de los 15-quince días hábiles siguientes a la entrada en vigor de este Decreto dirigida a los Directores o Titulares de las Instituciones Asistenciales Privadas para efecto de que en ella se señale lugar y fecha para la designación de los vocales integrantes del Comité a que refiere el inciso k), fracción IV del Artículo 9 del Artículo Primero de este Decreto, y quienes serán propuestos y votados de entre la mayoría de los representantes presentes al acto.
+
+Quinto.- El Titular del Ejecutivo deberá emitir el Reglamento de la Ley que Regula el Funcionamiento de las Instituciones que tienen bajo su Guarda y Custodia a Niñas, Niños y Adolescentes en el Estado de Nuevo León, en un plazo que no podrá exceder de 90-noventa días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+Sexto.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan al presente Decreto.
