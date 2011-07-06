@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-sustentabilidad-81555"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL, DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 6 DE JULIO DE 2011.</small>
 
 Reglamento publicado en la Décima Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -801,11 +801,11 @@ X. Proponer al Subsecretario del Medio Ambiente, los programas ecológicos cuya 
 
 ### CAPÍTULO XIII. DE LA DIRECCIÓN DE DESARROLLO FORESTAL Y SUELO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+> <small>(F. DE E., P. O. 6 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-El Director de Manejo Forestal y Suelo dependerá directamente del Coordinador General de Recursos Naturales y contará, además de las atribuciones establecidas en el artículo 11 de este Reglamento, con las siguientes:
+El Director de Desarrollo Forestal y Suelo dependerá directamente del Coordinador General de Recursos Naturales y contará, además de las atribuciones establecidas en el artículo 11 de este Reglamento, con las siguientes:
 
 I. Dirigir, coordinar y evaluar los programas de forestación y reforestación, y fomentar y promover la producción de planta de calidad para la forestación, reforestación y plantaciones en los ecosistemas forestales, así como evaluar y operar los programas de rescate de zonas degradadas;
 
