@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2008-09-29"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -62,6 +62,10 @@ El Gobernador del Estado podrá delegar atribuciones que no sean de su ejercicio
 La Administración Centralizada está integrada por las Secretarías de Despacho que establece la presente Ley, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia y la Contraloría General del Estado.
 
 La Administración Pública Centralizada podrá contar con órganos administrativos desconcentrados, dotados de autonomía técnica y funcional, para apoyar la administración de los asuntos competencia de la misma, y estarán subordinados al Gobernador del Estado o a la dependencia que se señale en el acuerdo o decreto respectivo.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+Las Dependencias y Entidades a que se refiere esta Ley, ejercerán sus facultades dentro de la circunscripción territorial del Estado de Baja California Sur.
 
 ###### ARTÍCULO 4.
 
@@ -215,7 +219,9 @@ d) Prestar al Poder Judicial del Estado, el auxilio para el debido cumplimiento 
 
 e) Asesorar y apoyar a los Ayuntamientos, cuando lo soliciten, para el desempeño de sus funciones;
 
-f) (DEROGADO, B.O. 29 DE SEPTIEMBRE DE 2008)
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+f) Coordinar la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública del Consejo Estatal de Seguridad Pública; así como vigilar la debida aplicación de los Fondos que se integren;
 
 g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador del Estado; así como ordenar la publicación en el Boletín Oficial del Gobierno del Estado las leyes, decretos, reglamentos, acuerdos y demás disposiciones de carácter general que deban regir en el Estado;
 
@@ -321,7 +327,7 @@ a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 b) Elaborar y presentar al Gobernador del Estado los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a éste último, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
-c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Ecónomico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
+c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
 d) Establecer los sistemas que permitan una mayor racionalidad en el aprovechamiento de los recursos financieros;
 
@@ -362,6 +368,10 @@ s) Vigilar que los servidores públicos que manejen fondos del Estado caucionen 
 > <small>(ADICIONADO, B.O. 23 DE MAYO DE 2007)</small>
 
 t) Ser coordinadora de Sector del Fondo Social para el Desarrollo de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+u) Requerir de pago el importe de las pólizas de fianza que se expidan a favor de la Secretaría de Finanzas, para garantizar cualquier obligación contraída con el Gobierno del Estado, sus organismos descentralizados y fideicomisos.
 
 II. En materia de administración tributaria:
 
@@ -557,9 +567,21 @@ m) Participar en las actividades de la entidad paraestatal encargada, entre otro
 
 n) Proponer, orientar y estimular el desarrollo de la micro, pequeña y medianas empresas y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
 
-o) Fomentar, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico; y
+o) Fomentar, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico; y (sic)
 
 p) Conducir las acciones de la Administración Pública del Estado, relacionadas con la simplificación administrativa y la desregulación de trámites e instrumentos normativos de carácter estatal.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+q) Proponer al Gobernador políticas, programas y proyectos relativos al fomento de las actividades económicas contextualizadas en el desarrollo sustentable;
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+r) Proponer al desarrollo sustentable como eje rector del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+s) Vigilar que las autoridades estatales correspondientes cumplan y apliquen las normas que regulan la actividad económica con sentido de sustentabilidad.
 
 II. En Materia de Fomento Agrícola:
 
@@ -609,9 +631,27 @@ a) Fomentar y realizar programas de reforestación y restauración ecológica, d
 
 b) Todas las previstas en el Capítulo Segundo, del Título Segundo de la Ley de Desarrollo Forestal Sustentable para el Estado de Baja California Sur.
 
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
+
+V.- En materia de Desarrollo Social:
+
+a) Promover y facilitar la inversión social en proyectos de desarrollo;
+
+b) Coordinar los diversos programas de desarrollo social a nivel estatal;
+
+c) Coordinar y supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado;
+
+d) Llevar un registro de los beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la Administración Pública del Estado;
+
+e) Proponer políticas y lineamientos encaminados a la planeación, financiamiento, ejecución, supervisión y control de los programas de desarrollo social, regional y de combate a la pobreza y desigualdad que realicen las dependencias y entidades de la Administración Pública Estatal;
+
+f) Establecer contactos con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado;
+
+g) Coordinarse con las áreas de desarrollo social de los municipios del Estado.
+
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2007)</small>
 
-V. Las demás que le señalen las leyes aplicables en la entidad.
+VI. Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 26.
 
@@ -715,13 +755,25 @@ t) Organizar, controlar y supervisar, los Módulos de Identificación de persona
 
 u) Colaborar con los servicios de protección civil, en caso de situaciones de riesgo por disturbios sociales o desastre naturales, previo acuerdo con el Gobernador del Estado.
 
-II. En materia de Readaptación Social:
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
 
-a) Diseñar, implementar y avaluar (sic) los programas tendientes a la readaptación social de las personas sujetas a una pena de prisión en los centros de readaptación social estatales;
+v) Coordinar, dirigir y supervisar la operación del Centro Estatal de Control de Confianza.
 
-b) Administrar los centros de readaptación social estatales y vigilar que se cumplan las disposiciones legales en la materia;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2011)</small>
 
-c) Conocer y resolver sobre el otorgamiento y revocación del beneficio de la preliberación y someter a la consideración del Gobernador del Estado lo relativo a la libertad anticipada y la remisión parcial de la sanción, de conformidad con las leyes respectivas;
+II. En materia de reinserción Social:
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+a) Diseñar, implementar y avaluar (sic) los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión en los centros de reinserción social estatales;
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+b) Administrar los centros de reinserción social estatales y vigilar que se cumplan las disposiciones legales en la materia;
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+c) Ejercer las funciones que en la materia establezca la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California Sur;
 
 d) Administrar las instituciones de internamiento para menores infractores, así como vigilar el cumplimiento de las disposiciones legales y reglamentarias respectivas; y (sic)
 
@@ -891,7 +943,9 @@ n) Las demás que le asigne el Ejecutivo del Estado y otras disposiciones legale
 
 II.- En materia de Previsión Social:
 
-a) Participar en la planeación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación de los Trabajadores del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+a) Participar en la planeación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur.
 
 b) Expedir constancias de habilidades laborales, en coordinación con la autoridad educativa;
 
@@ -991,7 +1045,9 @@ c) Fijar las normas de control, fiscalización y evaluación que deban observar 
 
 d) Vigilar que en las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios se observen las disposiciones legales y administrativas correspondientes;
 
-e) Coordinarse con las dependencias y entidades de la Administración Pública del Estado y con el órgano técnico de fiscalización del Congreso del Estado, así como con el Gobierno Federal y los Municipios del Estado, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+e) Coordinarse con las dependencias y entidades de la Administración Pública del Estado y con el Órgano de Fiscalización Superior del Congreso del Estado, así como con el Gobierno Federal y los Municipios del Estado, atendiendo a la naturaleza de sus funciones para el establecimiento de programas, sistemas y procedimientos que permitan el cumplimiento eficaz de sus respectivas responsabilidades;
 
 f) Informar periódicamente al Gobernador del Estado, el resultado de las evaluaciones de los programas gubernamentales de acuerdo a sus objetivos o metas realizadas, proponiendo las medidas correctivas que procedan;
 
@@ -1001,9 +1057,13 @@ h) Fungir como órgano de asesoría y capacitación hacia las demás dependencia
 
 i) Conocer e investigar los actos y omisiones que puedan constituir responsabilidades de los servidores públicos, substanciar el procedimiento administrativo disciplinario que establezca la ley de la materia; y en su caso hacerlo del conocimiento de las autoridades correspondientes;
 
-j) Procurar el resarcimiento de los daños patrimoniales ocasionados a la Administración Pública del Estado por la actividad irregular u omisión de los servidores públicos; y
+j) Procurar el resarcimiento de los daños patrimoniales ocasionados a la Administración Pública del Estado por la actividad irregular u omisión de los servidores públicos; y (sic)
 
-k) Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado.
+k) Conocer de los procedimientos por la vía administrativa en materia de responsabilidad patrimonial y procurar la indemnización a las personas que sin la obligación jurídica de soportarlo sufran una lesión en cualquiera de sus bienes posesiones o derechos como consecuencia de la actividad administrativa del Estado. (sic)
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+l) Integrar, coordinar, supervisar y evaluar a las Contralorías Internas que pertenecen a la Administración Pública Estatal, conforme lo establezca el Reglamento Interior correspondiente.
 
 III. Las demás que le señalen las leyes aplicables en la entidad.
 
@@ -1093,11 +1153,23 @@ El órgano de gobierno estará conformado por integrantes propietarios y sus res
 
 El órgano de gobierno deberá estar integrado por cuando menos la mitad más uno de miembros de la Administración Pública.
 
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando algún organismo descentralizado creado por decreto del Gobernador del Estado deje de cumplir sus fines u objeto, la Secretaría coordinadora de sector que corresponda propondrá al Gobernador del Estado su modificación, liquidación o extinción.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, su existencia resulte inviable para la economía estatal o bien, haya dejado de existir la necesidad pública para la que fue creado, se procederá a su modificación o extinción.
+
+Tratándose de organismos creados por Decreto del Gobernador del Estado, la Secretaría Coordinadora de Sector que corresponda, propondrá al Gobernador del Estado su modificación o extinción, y de considerarlo procedente, expedirá el decreto respectivo, en un plazo no mayor de 30 días conforme la presente Ley.
 
 Tratándose de organismos descentralizados creados por ley, el Gobernador del Estado presentará al Congreso del Estado la iniciativa de reformas o abrogación, según sea el caso.
+
+En casos de urgencia, el Gobernador del Estado podrá decretar la extinción de un organismo descentralizado, creado por el Congreso del Estado, atendiendo a las siguientes condiciones:
+
+I.- El decreto de extinción deberá motivar la urgencia y necesidad de la medida;
+
+II.- Deberá publicarse en el Boletín Oficial del Gobierno del Estado y enviarse al Congreso del Estado para el trámite que corresponda; y
+
+III.- En caso de que el Congreso del Estado omita resolver su aprobación o rechazo dentro del plazo de 30 días hábiles posteriores a su presentación, el Decreto se entenderá ratificado.
 
 ### CAPÍTULO CUARTO. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1353,7 +1425,7 @@ Cuando en la Ley Orgánica del Ministerio Público del Estado de Baja California
 
 ###### ARTICULO SÉPTIMO.
 
-Se abroga el decreto expedido por el Ejecutivo del Estado, el día15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto interdisciplinario de Ciencias Penales.
+Se abroga el decreto expedido por el Ejecutivo del Estado, el día 15 de Enero de 1998, publicado en el Boletín Oficial del Gobierno del Estado, No. 2 el día 20 de Enero de 1998, mediante el que se crea el Órgano Administrativo desconcentrado denominado Instituto interdisciplinario de Ciencias Penales.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1408,3 +1480,7 @@ Para los efectos de las adecuaciones legales relacionadas con el presente artíc
 SEXTO.- La Junta Local de Conciliación y Arbitraje, así como las Juntas Especiales, que se encuentren funcionando al momento de entrada en vigor del presente Decreto, mantendrán la estructura de sus órganos de gobierno, administración y vigilancia, señalados en su documento de creación, y deberán actualizarse en lo que corresponda, a lo dispuesto en el Artículo 29 BIS del presente Decreto, a mas tardar el 1 de enero del 2009, o en su caso en la fecha de entrada de funcionamiento de la Secretaría del Trabajo y Previsión Social.
 
 SÉPTIMO.- El Gobernador del Estado, expedirá el Reglamento de la Secretaría del Trabajo y Previsión Social; así como las adecuaciones necesarias a los Reglamentos Interiores de la Secretaría General de Gobierno y de Oficialía Mayor, según corresponda, a mas tardar el 1 de enero del 2009, o en su caso, en la fecha de entrada en funcionamiento de la Secretaría del Trabajo y Previsión Social. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+B.O. 6 DE JULIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California.
