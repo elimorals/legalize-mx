@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2010-12-31"
+last_updated: "2011-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -5733,7 +5733,9 @@ La solicitud de adopción a que se refiere este artículo así como el consentim
 
 Los infractores de esta disposición incluyendo los términos para llevar a cabo las diligencias que se prevén en la misma, serán destituidos de su cargo sin responsabilidad para el Tribunal Superior de Justicia.
 
-Cuando el menor hubiere sido acogido en una institución pública, los adoptantes recabarán constancia del tiempo de la exposición o abandono para los efectos de la fracción III del artículo 441 del Código Civil. Si hubiere transcurrido menos de dos años de la exposición o abandono, se decretará el depósito del menor con los presuntos adoptantes, entre tanto se consuma dicho plazo, si el menor no tuviera padres conocidos y no hubiera sido acogido por institución pública, se procederá a la adopción.
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+Cuando el menor hubiere sido acogido en una institución pública, los adoptantes recabarán constancia del tiempo de la exposición o abandono para los efectos de la fracción III del artículo 441 del Código Civil. Si hubiere transcurrido los plazos de exposición o abandono a que se refiere la fracción IV del artículo 507 del Código Civil, se decretará el depósito del menor con los presuntos adoptantes, si el menor no tuviera padres conocidos y no hubiera sido acogido por institución pública, se procederá a la adopción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -6292,3 +6294,7 @@ B.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
+
+B.O. 6 DE JULIO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
