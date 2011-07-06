@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-general-de-60287"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2008-02-13"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE COMUNICACION SOCIAL Y RELACIONES PUBLICAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de febrero de 2008.
 
@@ -93,7 +93,9 @@ Para el estudio, planeación y despacho de los asuntos de su competencia el Titu
 
 2.2. DIRECCIÓN DE RELACIONES PÚBLICAS
 
-2.3. DIRECCIÓN TÉCNICA
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
+2.3. DIRECCIÓN TÉCNICA Y PROYECCION
 
 2.4. DIRECCIÓN DE RADIO Y TELEVISIÓN
 
@@ -217,9 +219,11 @@ XIX. Controlar los bienes y recursos asignados a las áreas de la Coordinación 
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-Al frente de cada Dirección habrá un Director que se auxiliará por los Subdirectores, Jefes de Departamentos y por los demás servidores públicos que se requieran por las necesidades del servicio y que se señalen en el Manual de Organización respectivo y en las disposiciones jurídicas aplicables, así como también por los que las necesidades del servicio requieran y que figuren en el presupuesto autorizado.
+Al frente de cada Dirección habrá un Director que se auxiliará por los Jefes de Departamento, Titulares de Unidad y por los demás servidores públicos que se requieran por las necesidades del servicio y que se señalen en el Manual de Organización respectivo y en las disposiciones jurídicas aplicables, así como también por los que las necesidades del servicio requieran y que figuren en el presupuesto autorizado.
 
 ###### ARTÍCULO 14.
 
@@ -303,11 +307,15 @@ VIII. Coordinar y desarrollar el programa de eventos que en materia de Relacione
 
 IX. Atender a los invitados especiales del Gobierno del Estado.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN TÉCNICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE JULIO DE 2011)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN TÉCNICA Y PROYECCIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 17.
 
-Corresponde a la Dirección Técnica:
+Corresponde a la Dirección Técnica y Proyección:
 
 I. Organizar e integrar para su distribución a los titulares de las Dependencias del Ejecutivo, la información diaria, local y nacional, generada por los medios de comunicación impresos a través de Carpetas de Información Básica;
 
@@ -325,9 +333,19 @@ VII. Elaborar estadísticas semanales y gráficas de comportamiento de la Prensa
 
 VIII. Realizar seguimientos de temas relevantes que competen al Gobierno y tenerlas en guarda para consulta de las Dependencias del Ejecutivo;
 
-IX. Coordinar la integración de las memorias de las actividades del Gobernador; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+
+IX. Coordinar la integración de las memorias de las actividades del Gobernador;
 
 X. Controlar y supervisar la correcta operación y prestación del servicio de Hemeroteca a las diversas Dependencias y entidades de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2011)</small>
+
+XI. Supervisar y revisar el contenido de las campañas publicitarias que presenten para su aprobación las diferentes dependencias de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2011)</small>
+
+XII. Desempeñar las funciones y comisiones que el Coordinador General encomiende y mantenerlo informado sobre su desarrollo.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE RADIO Y TELEVISIÓN
 
@@ -359,15 +377,19 @@ Las ausencias de los Directores y Subdirectores serán suplidas por el servidor 
 
 ## TÍTULO QUINTO. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 21.
 
-El personal adscrito a la Coordinación General gozará de los derechos y tendrá las obligaciones previstas en la Ley de los Trabajadores al Servicio del Estado y demás normatividad aplicable.
-
-Se consideran categorías de confianza las de Director, Subdirectores, Jefes de Departamento, Jefes de Área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Coordinación General.
+Las ausencias de los Directores serán suplidas por el servidor público que designe el Titular.
 
 ###### ARTÍCULO 22.
 
 Las faltas administrativas se sancionaran en la forma prevista de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco y demás normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2011)</small>
+
+Se consideran categorías de confianza las de Director, Jefes de Departamento, Titulares de Unidad, Jefes de Área y en general las .que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Coordinación General.
 
 ## TRANSITORIOS
 
@@ -402,3 +424,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 JESÚS A. TARACENA MARTÍNEZ
 
 COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE JULIO DE 2011.
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO, En tanto se expiden los manuales respectivos, el Coordinador General queda facultado para resolver las cuestiones relativas a la aplicación de este ordenamiento.
