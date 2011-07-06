@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2011-06-30"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL B.O., DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE JULIO DE 2011.</small>
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -621,7 +621,7 @@ Por los servicios en materia ecológica, ambiental y urbana, se causarán y paga
 
 T A R I F A:
 
-C O N C E P T O: NÚMERO DE SALARIOS
+C O N C E P T O. NÚMERO DE SALARIOS
 
 MÍNIMOS VIGENTE
 
@@ -647,9 +647,11 @@ de Impacto Ambiental en Modalidad Específica; 69
 
 e) Recepción y Evaluación del Estudio de Riesgo; 73
 
+> <small>(F. DE E., B.O. 6 DE JULIO DE 2011)</small>
+
 f) Inscripción y Registro de Prestadores de
 
-Servicios en Materia Ambiental. 70
+Servicios 70
 
 II. Recepción y Evaluación de solicitudes de
 
@@ -697,7 +699,11 @@ XII. Emisión del Refrendo Anual de la Licencia
 
 de Funcionamiento. 40
 
-I (SIC). Autorización de la publicidad destinada
+> <small>(F. DE E., B.O. 6 DE JULIO DE 2011)</small>
+
+B. En materia Urbana:
+
+I. Autorización de la publicidad destinada
 
 a promover un desarrollo industrial turístico
 
@@ -899,8 +905,6 @@ De los servicios prestados por la Contraloría General del Estado.
 
 Servicios prestados por la Dirección de Planeación Urbana y Ecología.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN EL B.O., DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 2011)</small>
 
 ###### Artículo 30.
@@ -1083,7 +1087,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 T.C. LUIS ARMANDO DIAZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 30 DE JUNIO DE 2011.
 
