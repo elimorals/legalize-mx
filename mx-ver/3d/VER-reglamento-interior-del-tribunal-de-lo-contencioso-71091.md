@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-tribunal-de-lo-contencioso-71091"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2011-06-23"
+last_updated: "2011-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE JULIO DE 2011.</small>
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el miércoles 25 de noviembre de 2009.
 
@@ -175,25 +175,35 @@ El Tribunal de lo Contencioso Administrativo para fortalecer los mecanismos de a
 
 Los servidores públicos del Tribunal de lo Contencioso Administrativo, disfrutarán de dos períodos de vacaciones en el año, de quince días hábiles cada uno, de acuerdo con el calendario establecido por el Consejo de la Judicatura.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2011)</small>
 
 ###### Artículo 11 Bis.
 
 Los servidores públicos referidos en el párrafo segundo del artículo 7 del presente Reglamento quedarán adscritos de la siguiente manera:
 
-I. Al Presidente del Tribunal de lo Contencioso Administrativo: operativamente, los Subdirectores, Jefes de Departamento, Unidades de apoyo y personal administrativo adscritos a la presidencia.
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
 
-II. A los Magistrados de la Sala Superior: Secretario General de Acuerdos de la Sala Superior; Secretaria particular de Magistrado, Secretarios de Estudio y Cuenta, oficiales de apoyo administrativo asignados a su ponencia.
+I. Al Presidente del Tribunal de lo Contencioso Administrativo: operativamente, los Subdirectores, Jefes de Departamento, Unidades de Apoyo y personal administrativo adscritos a la presidencia;
 
-III. A los Magistrados de Sala (sic) Regionales Unitarias: Secretaria particular de Magistrado, Secretarios de Estudio y Cuenta, asignados a su ponencia Secretarios de Acuerdos, Actuarios, Oficiales jurisdiccionales y administrativos adscritos a cada Sala.
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
 
-IV. A los Subdirectores de Presidencia: jefes de departamento, y personal de apoyo administrativo, según corresponda a cada uno de ellos;
+II. A los Magistrados de la Sala Superior: Secretario General de Acuerdos de la Sala Superior, Secretaria particular de Magistrado, Secretario de Estudio y Cuenta, oficiales de apoyo administrativo asignados a su ponencia;
 
-V. Al Secretario General de Acuerdos: normativamente, los Secretarios Adjuntos de Acuerdos, así como operativamente la Actuaría, Oficialía de Partes, Archivo, oficiales jurisdiccionales y administrativos de la Sala Superior.
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
 
-IX (SIC). Al Secretario de Acuerdos de las Salas Regionales: la Actuaría, Oficialía de Partes, Archivo, oficiales jurisdiccionales, administrativos y de intendencia.
+III. A los Magistrados de las Salas Regionales: Secretaria particular de Magistrado, Secretarios de Estudio y Cuenta, asignados a su ponencia Secretarios de Acuerdos, Actuarios, Oficiales jurisdiccionales y administrativos adscritos a cada Sala;
+
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
+
+IV. A los Subdirectores de Presidencia: Jefes de Departamento y personal de apoyo administrativo, según corresponda a cada uno de ellos;
+
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
+
+V. Al Secretario General de Acuerdos: normativamente, los Secretarios Adjuntos de Acuerdos, así como operativamente la Actuaría, Oficialía de Partes, Archivo, oficiales jurisdiccionales y administrativos de la Sala Superior; y
+
+> <small>(F. DE E., G.O. 6 DE JULIO DE 2011)</small>
+
+VI. Al Secretario de Acuerdos de las Salas Regionales: la Actuaría, oficialía de Partes, Archivo, oficiales jurisdiccionales, administrativos y de intendencia.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
 
@@ -589,8 +599,6 @@ XI. Supervisar el correcto funcionamiento de la Oficialía de Partes, Actuaría,
 
 XII. Compilar y difundir los precedentes obligatorios y sentencias del Tribunal de lo Contencioso Administrativo, así como de otros organismos jurídicamente vinculados con las materias fiscal y administrativa.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
-
 XIII. Las demás que se establezcan en las leyes del Estado.
 
 #### SECCIÓN SEGUNDA. De la Secretaria Adjunta de la Sala Superior
@@ -981,7 +989,7 @@ XX. Impartir los programas de actualización en materia informática para el per
 
 > <small>(REFORMADO [N. DE E. ANTES CAPITULO CUARTO], G.O. 23 DE JUNIO DE 2011)</small>
 
-### CAPÍTULO TERCERO. De la Subdirección de Supervisión de los Servicios de Defensoría Jurídica Gratuita
+### CAPÍTULO TERCERO (SIC). De la Subdirección de Supervisión de los Servicios de Defensoría Jurídica Gratuita
 
 > <small>(REFORMADO, G.O. 23 DE JUNIO DE 2011)</small>
 
@@ -1021,13 +1029,11 @@ IV. Acreditar experiencia mínima de tres años en el ejercicio de su profesión
 
 V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JULIO DE 2011 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011)</small>
+(REFORMADO PRIMER PARRAFO, G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
 
 ###### Artículo 56.
 
-Corresponde al Subdirector de la Supervisión de los Servicios de Defensoría Jurídica Gratuita, las atribuciones siguientes:
+Corresponde al Subdirector de la Supervisión de los Servicios de la Defensoría Jurídica y Gratuita, las atribuciones siguientes:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
 
@@ -1037,9 +1043,9 @@ I. Dar cuenta a la Presidencia, con los asuntos de su competencia;
 
 II. Supervisar los servicios de Defensoría jurídica gratuita que preste el Tribunal de lo Contencioso Administrativo, a través del sistema de seguimiento de la defensoría jurídica (SISED);
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011)</small>
+(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
 
-III. Vigilar que el servicio de defensoría jurídica se preste conforme a los Lineamientos aprobados por el Pleno del Tribunal de lo Contencioso Administrativo;
+III. Vigilar que el servicio de defensoría jurídica se preste conforme a los Lineamientos aprobados por el Pleno del Tribunal de lo Contencioso Administrativo.
 
 IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los defensores jurídicos;
 
@@ -1047,7 +1053,7 @@ IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los 
 
 V. Informar a la Presidencia del Tribunal de lo Contencioso Administrativo, de las quejas que se presenten contra los defensores jurídicos y en su caso previo acuerdo, investigar la probable responsabilidad;
 
-VI. Rendir un informe mensual, sobre las actividades integrales desarrolladas por todos los Defensores Jurídicos adscritos a las Sala.
+VI. (DEROGADA, G.O. 23 DE JUNIO DE 2011) (F. DE E., G.O. 6 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2011)</small>
 
