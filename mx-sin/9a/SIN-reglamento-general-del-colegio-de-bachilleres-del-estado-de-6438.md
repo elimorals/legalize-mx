@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-general-del-colegio-de-bachilleres-del-estado-de-643
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-08-17"
-last_updated: "1983-08-17"
+last_updated: "2011-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO GENERAL DEL COLEGIO DE BACHILLERES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 17 de agosto de 1983.
 
@@ -159,7 +159,9 @@ VII.- Aprobar los programas de difusión cultural y actividades deportivas de lo
 
 VIII.- Proponer a la Junta Directiva, el presupuesto anual, las partidas adicionales y los cambios de partida al presupuesto;
 
-IX.- Expedir los diplomas, certificados de estudios y demás documentos que extienda la Institución;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+
+IX.- Expedir los diplomas, certificados de estudios y demás documentos que extienda la institución, mediante firma autógrafa o electrónica con los elementos de seguridad, que garanticen su autenticidad.
 
 X.- Proponer a la Junta Directiva los proyectos de reformas o adiciones a la Reglamentación del Colegio;
 
@@ -227,7 +229,9 @@ I.- Ejecutar los acuerdos de la Junta Directiva y de la Dirección General del C
 
 II.- Suplir las ausencias del Director General cuando éstas no excedan de tres meses;
 
-III.- Certificar la autenticidad de las firmas de los funcionarios del Colegio, así como la idoneidad de los documentos que se expidan;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+
+III.- Certificar la autenticidad de las firmas de los funcionarios del Colegio, así como la idoneidad de los documentos que se expidan; asimismo, expedir por instrucciones del Director General, certificados parciales y totales, constancias de estudio y diplomas a los alumnos de la Institución. En este supuesto, corresponderá la certificación de la autenticidad de la firma y la idoneidad de los documentos, al Director Académico.
 
 IV.- Tramitar la correspondencia oficial del Colegio;
 
@@ -750,3 +754,13 @@ Segundo Vocal
 PROFR. REMBERTO GIL PEREZ
 
 Tercer Vocal.
+
+P.O. 6 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO
+
+Corresponde a la Secretaría General de Gobierno del Estado de Sinaloa, certificar y registrar las firmas autógrafas y electrónicas aludidas en la fracción IX del artículo 10 del Reglamento General del Colegio de Bachilleres del Estado de Sinaloa; así como definir los elementos de seguridad que garanticen la autenticidad de los documentos exprofesos.
