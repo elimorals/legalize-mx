@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2010-12-31"
+last_updated: "2011-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -2893,9 +2893,9 @@ VII.- Cuando quien la ejerza padezca alguna afección originada por enfermedad o
 
 Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
-La Procuraduría de la Defensa del Menor y la Familia en coordinación con el Ministerio Público, podrá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
+La Procuraduría de la Defensa del Menor y la Familia en coordinación con el Ministerio Público, deberá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
 
 ###### Artículo 508.
 
@@ -4705,7 +4705,7 @@ I.- A restituir los frutos percibidos; y
 
 II.- A responder de la pérdida o deterioro del bien sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responde de la pérdida sobrevenida natural e inevitablemente por el solo transcurso del tiempo.
 
-Tiene derecho a que le se reembolsen los gastos necesarios.
+Tiene derecho a que le se (sic) reembolsen los gastos necesarios.
 
 ###### Artículo 821.
 
@@ -15468,3 +15468,7 @@ B.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
+
+B.O. 6 DE JULIO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
