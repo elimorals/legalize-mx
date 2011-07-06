@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2007-08-31"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -678,6 +678,10 @@ XVI. Registro, licencias y permisos de giros comerciales
 XVII. Otorgamiento de licencias y refrendos para establecimientos con venta de bebidas alcohólicas
 
 XVIII. Otorgamiento de licencias, permisos o autorizaciones para anuncios, carteles o publicidad en la vía pública o privada.
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2011)</small>
+
+XIX. Emisión de Dictamenes, autorizaciones e inspección en materia ambiental.
 
 ###### Artículo 60.
 
@@ -2255,11 +2259,43 @@ II. Los que se deriven de las Entidades Gubernamentales en sus funciones de dere
 
 III. El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que éste se localice en los límites de construcción del mismo, sin ser éste la vía pública.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 6 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XX. REGULACIÓN DE ACTIVIDADES DE PROTECCIÓN AL MEDIO AMBIENTE
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+Artículo 150 bis. Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios que generen residuos peligrosos, biológico infecciosos o de manejo especial de acuerdo a la Ley General para la Prevención y Gestión Integral de los residuos, deberán inscribirse en el padron ambiental del Municipio de La Paz, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos.
+
+Los ingresos que por servicios en materia ambiental obtenga el Municipio, serán conforme a la siguiente:
+
+I. Dictamen Técnico de ecología. 5 días de salario mínimo
+
+II. Autorización de derribo de árbol. 3 días de salario mínimo
+
+III. Resolución de Dictamen 3 días de salario mínimo
+
+técnico de ecología para
+
+micro generadores de
+
+residuos peligrosos.
+
+IV. Reportes Técnicos Ambientales. 3 días de salario mínimo
+
+V. Autorización de sonido en giros 3 días de salario mínimo
+
+comerciales, en los horarios y
+
+con el volumen que
+
+determine la autoridad
+
+municipal.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO II. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 151.
 
@@ -2283,9 +2319,7 @@ VIII. Estacionamiento municipal
 
 IX. Productos diversos
 
-### CAPITULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+### CAPÍTULO II. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 152.
 
@@ -2303,19 +2337,21 @@ En todos los casos en los que se autorice la enajenación de bienes del Municipi
 
 Los bienes de uso común o destinados al servicio del Municipio, no podrán ser enajenados mientras tengan ese carácter, el que sólo podrá cambiarse mediante autorización del Cabildo.
 
-### CAPÍTULO IV. VENTA DE BIENES MOSTRENCOS
+### CAPITULO III. ALMACENAJE DE VEHÍCULOS EN LOS CORRALONES DE DEPÓSITO MUNICIPALES
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 155.
 
 Los propietarios de los vehículos de todo tipo que sean almacenados en los terrenos o corralones de depósito del Municipio, pagarán la cantidad equivalente al 0.25 de un salario mínimo, por cada día de almacenaje, a partir del onceavo día de su ingreso, siempre y cuando el vehículo esté a disposición del propietario.
 
-### CAPÍTULO V. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO Y EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
+### CAPÍTULO IV. VENTA DE BIENES MOSTRENCOS
 
 ###### Artículo 156.
 
 Constituyen ingresos en este ramo, el producto liquidado de los bienes mostrencos que sean rematados y vendidos de acuerdo con las disposiciones relativas.
 
-### CAPÍTULO VI. VENTA DE PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
+### CAPÍTULO V. VENTA DE SOLARES PROPIEDAD DEL MUNICIPIO Y EXPEDICIÓN DE TÍTULOS DE PROPIEDAD
 
 ###### Artículo 157.
 
@@ -2325,7 +2361,7 @@ Por la expedición de Títulos de Propiedad, se pagará una cuota equivalente a 
 
 El que done, ceda, traspase, enajene o adquiera predios, en tanto no se otorgue la Escritura o Título de Propiedad que el Ayuntamiento tenga pleno dominio sobre los mismos, se le aplicará una sanción de 30 a 50 salarios mínimos por lote o fracción, sin perjuicio de que la operación será nula de pleno derecho y el inmueble se revertirá en favor del Ayuntamiento.
 
-### CAPÍTULO VII. OCUPACIÓN DE LOCALES, ALMACENES Y/O EL USO DE CUARTOS FRÍOS EN LOS MERCADOS MUNICIPALES
+### CAPÍTULO VI. VENTA DE PAPEL PARA COPIAS DE ACTAS DEL REGISTRO CIVIL
 
 ###### Artículo 158.
 
@@ -2351,7 +2387,7 @@ Los Oficiales del Registro Civil extenderán las certificaciones y copias certif
 
 En caso de que les sean presentadas hojas sin los requisitos indicados en el artículo 160, las recogerán y harán la consignación ante el Ministerio Público.
 
-### CAPÍTULO VIII. VENTA DE FORMATOS OFICIALES
+### CAPÍTULO VII. OCUPACIÓN DE LOCALES, ALMACENES Y/O EL USO DE CUARTOS FRÍOS EN LOS MERCADOS MUNICIPALES
 
 ###### Artículo 163.
 
@@ -2373,19 +2409,19 @@ El gasto de la energía eléctrica y fuerza motriz de los locales arrendados en 
 
 Los causantes sujetos a pagos periódicos presentarán, al efectuar cualquier pago, el recibo anterior, y en caso de ser requeridos para ello, hasta los tres últimos recibos.
 
-### CAPITULO IX. ESTACIONAMIENTO MUNICIPAL
+### CAPÍTULO VIII. VENTA DE FORMATOS OFICIALES
 
 ###### Artículo 166.
 
 Por la expedición de los formatos oficiales para todos los cobros de la Hacienda Municipal, se cobrará una cuota de $2.00
 
-### CAPÍTULO X. PRODUCTOS DIVERSOS
+### CAPITULO IX. ESTACIONAMIENTO MUNICIPAL
 
 ###### Artículo 167.
 
 Por la recepción, guarda y devolución de vehículos de propulsión automotriz en el estacionamiento público propiedad del Municipio, se causará un 20% del salario mínimo general por hora a los usuarios de este servicio.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. PRODUCTOS DIVERSOS
 
 ###### Artículo 168.
 
@@ -2397,7 +2433,7 @@ b) Servicio de fotocopiado 0.03 del salario mínimo
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO. CLASIFICACIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 169.
 
@@ -2441,7 +2477,7 @@ Las multas serán cobradas en los términos de las disposiciones legales que las
 
 ###### Artículo 173.
 
-Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Tránsito, y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
+Las sanciones por desacato al Bando de Policía y Buen Gobierno, Reglamento de Transito, y demás disposiciones vigentes en el Municipio de La Paz, se impondrán de acuerdo a la siguiente clave, concepto y tarifa:
 
 (VEASE TABLA ANEXA)
 
@@ -2479,7 +2515,7 @@ Las aportaciones federales para fines específicos que a través de los diferent
 
 ## TÍTULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
-### CAPÍTULO I. PENSIONADOS Y JUBILADOS
+### CAPÍTULO ÚNICO. CLASIFICACIÓN
 
 ###### Artículo 180.
 
@@ -2489,7 +2525,7 @@ Son ingresos extraordinarios los que se originen de los organismos descentraliza
 
 ## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS ADULTAS MAYORES
 
-### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
+### CAPÍTULO I. PENSIONADOS Y JUBILADOS
 
 ###### Artículo 181.
 
@@ -2533,25 +2569,7 @@ Se establece, en favor de los pensionados y jubilados, una reducción que será 
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en Artículos 183 de esta ley.
 
-### CAPÍTULO III. PERSONAS ADULTAS MAYORES
-
-> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2007)</small>
-
-Artículo 188 bis. Para los efectos de este Capítulo se consideran personas Adultas Mayores aquéllas personas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur, en términos de lo establecido por la Ley de las Personas Adultas Mayores en el Estado y que acrediten dicha calidad con la documentación oficial correspondiente, estableciéndose en su favor una reducción que será del 50% en el pago de las contribuciones que a continuación se indican:
-
-I. Impuesto Predial, únicamente sobre el inmueble donde viva la persona adulta mayor y que sea de su propiedad.
-
-II. Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que preste en materia de propiedad sobre bienes de la persona adulta mayor.
-
-III. Derechos por servicios del Registro Civil, únicamente en actos relativos a la persona adulta mayor, así como de su cónyuge o sus descendientes menores de edad.
-
-IV. Derechos por Legalización de Firmas, expedición de certificados y copias certificadas, únicamente en actos en los que exista interés directo de la persona adulta mayor.
-
-V. Derechos por servicios de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo, propiedad de la persona adulta mayor.
-
-Asimismo se establece, a favor de las personas adultas mayores, una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado, tratamiento y saneamiento.
-
-Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de las personas adultas mayores, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en el párrafo anterior.
+### CAPÍTULO II. PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 186.
 
@@ -2581,7 +2599,25 @@ V. De un 50% de descuento por el servicio de agua potable y alcantarillado, trat
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO III. PERSONAS ADULTAS MAYORES
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2007)</small>
+
+Artículo 188 bis. Para los efectos de este Capítulo se consideran personas Adultas Mayores aquéllas personas que cuentan con sesenta años o más de edad y que se encuentren domiciliadas o de paso en el Estado de Baja California Sur, en términos de lo establecido por la Ley de las Personas Adultas Mayores en el Estado y que acrediten dicha calidad con la documentación oficial correspondiente, estableciéndose en su favor una reducción que será del 50% en el pago de las contribuciones que a continuación se indican:
+
+I. Impuesto Predial, únicamente sobre el inmueble donde viva la persona adulta mayor y que sea de su propiedad.
+
+II. Derechos causados por los servicios que presta el Registro Público de la Propiedad y del Comercio, únicamente por lo que se refiere a los servicios que preste en materia de propiedad sobre bienes de la persona adulta mayor.
+
+III. Derechos por servicios del Registro Civil, únicamente en actos relativos a la persona adulta mayor, así como de su cónyuge o sus descendientes menores de edad.
+
+IV. Derechos por Legalización de Firmas, expedición de certificados y copias certificadas, únicamente en actos en los que exista interés directo de la persona adulta mayor.
+
+V. Derechos por servicios de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanías de un solo vehículo, propiedad de la persona adulta mayor.
+
+Asimismo se establece, a favor de las personas adultas mayores, una reducción que será del 50% en el pago de los derechos causados por la prestación del servicio de Agua Potable y Alcantarillado, tratamiento y saneamiento.
+
+Los Recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de las personas adultas mayores, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en el párrafo anterior.
 
 ## TÍTULO DÉCIMO. ESTÍMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSIÓN PRODUCTIVA Y LA GENERACIÓN DE EMPLEOS
 
@@ -2614,6 +2650,8 @@ VI. El acreditamiento del monto total de la adquisición de predios donde el suj
 Para efectos de lo dispuesto en este Capítulo, se considerarán sujetos beneficiarios para recibir estímulos fiscales, todas aquellas personas físicas o morales o unidades económicas que hayan obtenido resolución favorable a la solicitud de otorgamiento de éstos, conforme al procedimiento establecido en la Ley de Fomento Económico del Estado de Baja California Sur.
 
 ## TÍTULO DÉCIMO PRIMERO. ILÍCITOS FISCALES, INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 191.
 
@@ -2748,3 +2786,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 B.O. 31 DE AGOSTO DE 2007.
 
 ÚNICO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 6 DE JULIO DE 2011.
+
+ÚNICO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
