@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-limpia-y-aseo-publico-del-municipio-de-67743"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-28"
-last_updated: "2009-01-28"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CHP"
 
 REGLAMENTO DE LIMPIA Y ASEO PÚBLICO DEL MUNICIPIO DE ARRIAGA, CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LIMPIA Y ASEO PÚBLICO DEL MUNICIPIO DE ARRIAGA, CHIAPAS, PUBLICADO EN EL P.O. DE 6 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de enero de 2009.
 
@@ -266,3 +268,23 @@ Arriaga, Chiapas; a 16 de enero de 2009.
 Doy fe.
 
 Lic. Carlos Caso Castellanos, Secretario Municipal.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Queda abrogado el Reglamento de Limpia y Aseo Público Municipal del H. Ayuntamiento Municipal Constitucional de Arriaga, Chiapas. Aprobado mediante acuerdo de cabildo que consta en Acta Ordinaria número 12 de fecha 28 de abril de 2008 en su punto cuarto de la orden del día. Así mismo quedan derogadas todas las disposiciones que contravengan al Presente Reglamento de Limpia y Aseo Público Municipal a partir de la fecha que entre en vigor.
+
+###### ARTÍCULO SEGUNDO.
+
+Los aspectos no previstos por este reglamento se resolverán en sesión de cabildo y con apego a la Ley Orgánica Municipal del Estado de Chiapas y demás preceptos legales.
+
+###### ARTÍCULO TERCERO.
+
+Para su debido conocimiento publíquese el presente Reglamento de limpia y aseo público, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal.
+
+###### ARTÍCULO CUARTO.
+
+El presente Reglamento de Limpia y Aseo Público entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
