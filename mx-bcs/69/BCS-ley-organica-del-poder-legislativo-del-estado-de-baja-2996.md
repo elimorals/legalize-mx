@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-06-10"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1253,13 +1253,25 @@ VIII.- Dictámenes en primera lectura.
 
 IX.- Dictámenes en segunda lectura para su discusión y aprobación en su caso.
 
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
-Los asuntos a que se refieren las fracciones IV, V, VI, VIII Y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante el Presidente, o en su defecto, ante el Secretario de la Directiva del Congreso del Estado.
+Los asuntos a que se refieren las fracciones IV, V, VI, Vlll y IX deberán registrarse a más tardar a las tres de la tarde del día anterior a la celebración de la Sesión Ordinaria, ante la Oficialia Mayor del Congreso del Estado.
 
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
 
-El orden del día deberá hacerse público y fijarse en el exterior de la Sala de Sesiones a más tardar a las seis de la tarde del día anterior a la celebración de la Sesión Ordinaria.
+Tratándose de los asuntos enumerados en las fracciones V, VI y VIII del presente artículo, el documento deberá ser entregado físicamente y mediante formato digital, a más tardar a las seis de la tarde del día anterior a la celebración de la sesión ordinaria, ante la Oficialía Mayor del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+No podrá negarse el registro de asuntos legislativos, cuando cumplan con los requisitos señalados en el presente artículo.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 2011)</small>
+
+Para el caso de iniciativas de acuerdo económico o con proyecto de decreto o dictámenes con proyecto de decreto que se presenten para lectura ante el pleno, que fueren distintos a los registrados, en ningún caso podrán dispensarse los tramites a que se refiere la presente ley; para el caso de dictámenes de acuerdo económico el presidente de la Mesa Directiva deberá regresarlo a la comisión dictaminadora.
+
+> <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
+
+El orden del día deberá fijarse en el exterior de la Sala de Sesiones; asimismo el orden del día y los documentos que señalan las fracciones V, VI y VIII del presente articulo, deberán hacerse públicos por los medios electrónicos disponibles del Honorable Congreso del Estado de Baja California Sur, a más tardar a las siete de la tarde del día anterior a la celebración de la Sesión Ordinaria.
 
 ###### ARTICULO 98.
 
@@ -1499,7 +1511,7 @@ Si en el curso de las discusiones, el orador, con el propósito de allegar más 
 
 ###### ARTICULO 133.
 
-Los integrantes de la Comisión Dictaminadora y el o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
+Los integrantes de la Comisión Dictaminadora y él o los Diputados autores de la iniciativa, podrán hacer uso de la palabra en la discusión de un negocio, aún sin haberse inscrito y cuantas veces la soliciten.
 
 ###### ARTICULO 134.
 
@@ -1829,7 +1841,7 @@ Las autoridades y funcionarios públicos en el desempeño de sus cargos, podrán
 
 ###### ARTICULO 187.
 
-El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en éste. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
+El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en este. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
 
 ###### ARTICULO 188.
 
@@ -2388,5 +2400,9 @@ B.O. 27 DE MAYO DE 2011.
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JUNIO DE 2011.
+
+UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 6 DE JULIO DE 2011.
 
 UNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
