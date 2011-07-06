@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-de-ciudad-cadereyta-41871"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-22"
-last_updated: "1997-10-22"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DE CIUDAD CADEREYTA JIMENEZ, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DE CIUDAD CADEREYTA JIMENEZ, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DE CIUDAD CADEREYTA JIMÉNEZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2011.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -211,9 +211,11 @@ VII.- Para vehículos especiales.
 
 Las placas deberán conservarse siempre limpias, sin dobleces, alteraciones ni mutilaciones, debiendo colocarse una en la parte posterior del vehículo bajo la lámpara de iluminación de placa y la otra en la parte delantera exterior del vehículo. Ambas placas deberán estar siempre visibles para que su lectura sea clara y sin confusión, debiendo estar fijas al vehículo para evitar su robo o caída. Para los vehículos que utilicen solo una placa, ésta deberá colocarse en la parte trasera del vehículo bajo la lámpara iluminadora.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
-Los vehículos de procedencia extranjera podrán circular dentro de este Municipio si cuentan con permiso vigente de introducción al país expedido por las Autoridades correspondientes, siempre y cuando el conductor sea la persona registrada en dicho permiso o tenga la misma nacionalidad o calidad migratoria del titular del permiso, o bien que el titular del permiso se encuentre en el vehículo.
+Los vehículos de procedencia extranjera podrán circular dentro de este Municipio si cuentan con permiso vigente de introducción al país expedido por las Autoridades correspondientes.
 
 De lo contrario el vehículo será puesto a disposición de la autoridad competente en la materia.
 
@@ -245,15 +247,7 @@ La pérdida, robo o deterioro total o parcial de una o ambas placas, obliga a ob
 
 ###### ARTÍCULO 21.
 
-Tránsito y Vialidad podrán expedir para circular sin una o ambas placas, en los caso (sic) siguientes:
-
-I.- Cuando su propietario o conductor resida fuera del Municipio, y demuestre la necesidad de permanecer en la ciudad y la(s) placa(s) faltante(s) hayan sido robadas, para lo cual deberá presentar constancia de aviso a la Policía Judicial del Estado y a Tránsito Federal.
-
-II.- Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas definitivas en el Estado.
-
-III.- En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes, fuera de ella y que requieran trasladarlos a su destino.
-
-Nota: Además de lo anterior, deberá presentar: factura del vehículo, comprobante de domicilio, identificación y/o credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+(DEROGADO, P.O. 6 DE JULIO DE 2011)
 
 ###### ARTÍCULO 22.
 
@@ -295,9 +289,11 @@ III.- Tipo de carga y productos.
 
 ### CAPITULO QUINTO. DEL EQUIPO Y REQUISITOS PARA LA CIRCULACIÓN Y EL ESTACIONAMIENTO DE VEHÍCULOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 26.
 
-Todos los vehículos que usen la vía pública en el Municipio deberán tener en buen estado los dispositivos siguientes:
+Todos los vehículos que usen la vía pública en el municipio deberán tener en buen estado los dispositivos siguientes:
 
 I.- LLANTAS.- Los vehículos de cuatro o más ruedas, deberán traer una llanta de refacción, así como herramienta en buen estado para su cambio.
 
@@ -363,9 +359,17 @@ VI.- TAPÓN DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o 
 
 VII.- VEHÍCULOS DE EMERGENCIA.- Los vehículos de emergencia deberán contar con una sirena y uno o varios faros o torretas de color rojo, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros.
 
-VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2011)</small>
 
-Todos éstos deberán mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor.
+VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar previstos (sic) de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos o polarizados que impidan o limiten la visibilidad del conductor.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
+Solo se permitirán aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas. Los vidrios entintados de fábrica si serán permitidos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2011)</small>
+
+Se aplicara una sanción de 70-sententa cuotas como limite inferior y de 80-ochenta cuotas como limite superior a quien porte polarizados después de la puesta en vigor de esta medida. La sanción quedara sin efectos si en un lapso de 15-quince días naturales el conductor demuestra ante la autoridad correspondiente del retiro de su polarizado.
 
 IX.- TABLERO DEL CONTROL DE VEHÍCULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante.
 
@@ -411,7 +415,7 @@ c).- Una puerta de emergencia.
 
 d).- Cumplir con lo dispuesto en la fracción III-K de este artículo.
 
-e).- Tener impreso al frente y atrás un número económico que asignará la Dirección de Transito y Vialidad, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto, por quince centímetros de ancho y también una calcomanía que diga “Quejas”, y además los números de teléfono de la Dirección que regula este Reglamento.
+e).- Tener impreso al frente y atrás un número económico que asignará la Dirección de Transito y Vialidad, mismo que tendrá un tamaño mínimo de veinticinco centímetros de alto, por quince centímetros de ancho y también una calcomanía que diga "Quejas", y además los números de teléfono de la Dirección que regula este Reglamento.
 
 f).- Revisión mecánica cada seis meses.
 
@@ -419,7 +423,7 @@ g).- El conductor deberá someterse a examen médico cada 6 (seis) meses.
 
 h).- El conductor de la unidad, deberá poseer licencia expedida por la Dirección Estatal del Transporte, para este servicio.
 
-XIX.- VEHÍCULOS TRANSPORTADORES DE CARGA PELIGROSA.- Los vehículos transportadores de materiales explosivos, flamables, tóxicos o peligroso (sic) de cualquier índole deberán llevar en la parte posterior y en los costados las leyendas siguientes: “PELIGRO MATERIAL EXPLOSIVO, FLAMABLE, TÓXICO O PELIGROSO”. Lo anterior, además de cumplir con lo que se establece en el Capítulo del Transporte y sus Maniobras. Los cuales por ningún motivo podrán ser estacionados en áreas habitacionales y/o centro de la Ciudad.
+XIX.- VEHÍCULOS TRANSPORTADORES DE CARGA PELIGROSA.- Los vehículos transportadores de materiales explosivos, flamables, tóxicos o peligroso (sic) de cualquier índole deberán llevar en la parte posterior y en los costados las leyendas siguientes: "PELIGRO MATERIAL EXPLOSIVO, FLAMABLE, TÓXICO O PELIGROSO". Lo anterior, además de cumplir con lo que se establece en el Capítulo del Transporte y sus Maniobras. Los cuales por ningún motivo podrán ser estacionados en áreas habitacionales y/o centro de la Ciudad.
 
 XX.- VEHÍCULOS CONDUCIDOS POR PERSONAS CON DISCAPACIDAD.- Los vehículos que sean conducidos por éstos, deberán contar con los dispositivos especiales para cada caso. Estos y los que transporten personas con discapacidad, deberán contar con una calcomanía con el emblema correspondiente. para que puedan hacer uso de los lugares exclusivos.
 
@@ -1771,43 +1775,77 @@ E).- Por insultar o agredir a los pasajeros (conductores de vehículos de servic
 
 F).- Cuando se compruebe que la licencia fue obtenida dando falsa información.
 
-IV.- DETENCIÓN DE VEHÍCULOS.- Serán detenidos los vehículos en los casos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2011)</small>
 
-A).- Cuando el conductor sea menor de edad y no presente su licencia de manejo.
+IV. DETENCIÓN DE VEHÍCULOS.- Serán detenidos y remitidos al lote autorizado, mediante el servicio de grúa por el municipio, los vehículos en los casos siguientes.
 
-B).- Cuando el vehículo carezca de placas o refrendo vigente.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
 
-C).- Cuando las placas, calcomanía o su tarjeta de circulación no correspondan al vehículo que las porte.
+A).- Cuando el conductor sea menor de edad y no presente su licencia de manejo, a fin de salvaguardar su propia integridad y la de terceros;
 
-D).- Cuando el conductor no presente licencia de manejo ni la tarjeta de circulación del vehículo que conduce.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
 
-E).- Cuando notoriamente el vehículo sea un riesgo para la seguridad de terceros.
+B).- Cuando el vehículo carezca de placas.
 
-F).- Cuando se causen daños a terceros.
+C).- (DEROGADO, P.O. 6 DE JULIO DE 2011)
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
+D).- Cuando el conductor no presente licencia de manejo ni la tarjeta de circulación del vehículo que conduce. En el caso de los vehículos de Transporte Público Federal y/o Local ya sea de carga o de pasajeros, la copia certificada de la tarjeta de circulación será el equivalente al original.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
+E).- Cuando notoriamente el vehículo sea un riesgo para la seguridad de su propio conductor, peatones y demás conductores.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
+F).- Cuando se causen daños a terceros y no se llega a un acuerdo satisfactorio para la parte afectada.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2011)</small>
 
 G).- Cuando el vehículo esté indebidamente estacionado.
 
-H).- Cuando el vehículo esté abandonado.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
 
-I).- Cuando el conductor agreda o insulte al personal de tránsito en el ejercicio de sus funciones.
+H).- Cuando el vehículo esté abandonado y este obstruyendo la vialidad.
+
+I).- (DEROGADO, P.O. 6 DE JULIO DE 2011)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2011)</small>
 
 J).- Por orden judicial (mediante oficio).
 
-K).- Cuando el conductor se encuentre en estado de ebriedad o bajo influjo de drogas o estupefacientes.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
 
-NOTA.- Para entrega de vehículos Será indispensable la siguiente documentación:
+K).- En todos los casos, en los que el conductor esté en estado de ebriedad, ó bajo el influjo de drogas o estupefacientes. Se le deberá de practicar un dictamen médico o en su caso prueba con alcoholímetro, demostrada fehacientemente su incapacidad o ineptitud para conducir, a fin de salvaguardar la integridad física y el patrimonio de terceros, y se impedirá la conducción del vehículo.
 
-a).- Factura
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2011)</small>
 
-b).- Tarjeta de Circulación
+L).- Cuando el vehículo sea extranjero y no cumpla con el artículo 15 del presente reglamento.
 
-c).- Póliza de Seguro
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2011)</small>
+
+M).- Tratándose de menores que conduzcan en estado de ebriedad o, bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias tóxicas, y se demuestre fehacientemente su estado y la incapacidad o ineptitud para conducir, los Oficiales de Tránsito deberán impedir la circulación del vehículo. Notificado de inmediato a los padres del menor.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 6 DE JULIO DE 2011)</small>
+
+En los supuestos de los incisos anteriores, para la entrega de vehículos nacionales será indispensable la siguiente documentación:
+
+a).- Factura o Copia Certificada de la misma.
+
+b).- Tarjeta de Circulación o Copia Certificada de la misma
+
+c).- Póliza de Seguro vigente
 
 d).- Visto bueno de no Infracciones
 
 e).- Comprobante de domicilio.
 
-f).- Credencial, de Elector.
+f).- Credencial de Elector con fotografía expedida por el Instituto Federal Electoral, Pasaporte o Licencia para conducir, que se encuentren vigentes al momento de su presentación.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2011)</small>
+
+En los supuestos de los incisos anteriores, para la entrega de vehículos de procedencia extranjera, que se encuentren legalmente internados en el país, la documentación necesaria para la entrega de los mismos, será indispensable la comprobación de su propiedad o legal posesión, con la documentación equivalente a la del país de origen del vehículo.
 
 ###### ARTÍCULO 128.
 
@@ -3052,3 +3090,23 @@ EDELMIRO CANTU SADA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. HECTOR GARZA SALINAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 29 DE JUNIO DE 2011 POR EL QUE SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DE CIUDAD CADEREYTA JIMÉNEZ, NUEVO LEÓN".]
+
+###### ARTICULO PRIMERO.
+
+Se adiciona el Reglamento de Tránsito y Vialidad de Ciudad de Cadereyta Jiménez, Nuevo León, en el párrafo segundo y tercero del artículo 26 fracción VIII, se adicionan los incisos L, y M, del artículo 127 fracción IV; las cuales entraran en vigor a partir del día 5 de julio del 2011, o al día siguiente de su Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTICULO SEGUNDO.
+
+Se modifica el Reglamento de Tránsito y Vialidad de Ciudad de Cadereyta Jiménez, Nuevo León, en el artículo 15, se modifican los incisos A, B, D, E, F, H, K, del artículo 127 fracción IV; la (sic) cuales entraran en vigor a partir del día 5 de julio del 2011, o al día siguiente de su (sic)
+
+Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTICULO TERCERO.
+
+Se derogan los artículos 21 y los incisos C e I, del artículo 127 fracción IV, del Reglamento de Tránsito y Vialidad de Ciudad de Cadereyta Jiménez, Nuevo León, será a partir del día 5 de julio del 2011, o al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
