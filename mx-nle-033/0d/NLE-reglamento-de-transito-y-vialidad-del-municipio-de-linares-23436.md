@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-linares-2343
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-08"
-last_updated: "2002-09-06"
+last_updated: "2011-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE LINARES, N. L
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE LINARES, NUEVO LEON
+REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE LINARES, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de febrero de 2002.
 
@@ -57,7 +57,7 @@ IV.- Las maniobras de carga y descarga de los vehículos.
 
 V.- Las obligaciones de las personas físicas o morales que directa o indirectamente intervengan en hechos derivados del tránsito.
 
-VI.- El cumplimiento de lo establecido en el Manual de dispositivos para el control de transito expedido por la Secretaría de Comunicaciones y Transportes en lo referente a vialidad.
+VI.- El cumplimiento de lo establecido en el Manual de dispositivos para el control de tránsito expedido por la Secretaría de Comunicaciones y Transportes en lo referente a vialidad.
 
 ###### ARTÍCULO 3.
 
@@ -287,17 +287,11 @@ Previo a la obtención de la(s) placa(s), tarjeta de circulación y calcomanía 
 
 La pérdida, robo o deterioro total o parcial de una o ambas placas, obliga a obtener un nuevo juego de las mismas, salvo el caso de que se trate de robo, desuso o destrucción total del vehículo, pues entonces se dará de baja éste y consecuentemente las placas, dando aviso a las Autoridades correspondientes y obligándose el propietario a dar de baja las mismas.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 18.
 
-La Dirección de Tránsito y Vialidad, podrá expedir permisos para circular sin placas, en los casos siguientes:
-
-I.- Cuando su propietario o conductor resida fuera del Municipio, y demuestre la necesidad de permanecer en la ciudad y la(s) placa(s) faltante(s) haya(n) sido robada(s), para lo cual deberá presentar constancia de aviso a la Policía Ministerial del Estado y a Tránsito Federal.
-
-II.- Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas.
-
-III.- En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes fuera de ella y que requieran trasladarlos a su destino
-
-Además de lo anterior, deberá presentar: carta factura del vehículo, la baja correspondiente, comprobante de domicilio, como identificación su credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+Se determina la cancelación de permisos provisionales para circular sin placas, proponiendo que el Instituto de Control Vehicular sea el único organismo autorizado a extender este tipo de permisos.
 
 ###### ARTÍCULO 19.
 
@@ -389,7 +383,11 @@ VI.- TAPÓN DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser diseñado original o u
 
 VII.- VEHÍCULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y uno o varios faros o torretas de color rojo, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros.
 
-VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+
+VIII.- CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas, los demás cristales deberán estar en buenas condiciones. Todos estos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor, o hacia adentro del vehículo, aclarando que se excepcionará el entintado de los cristales de fábrica.
+
+La multa y/o sanción aplicable por incumplimiento a la Fracción VIII del Artículo 20, será de 70 cuotas de salarlo mínimo vigente la primera vez y 80 por reincidencia.
 
 IX.- TABLERO DEL CONTROL DE VEHÍCULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante.
 
@@ -541,7 +539,9 @@ II.- Circular con las puertas de sus vehículos carradas.
 
 III.- Al bajar de su vehículo, antes de abrir la puerta, cerciorarse que puede hacerlo sin ocasionar accidente.
 
-IV.- Utilizar el cinturón de seguridad y hacer que los pasajeros hagan lo mismo. Deberán procurar también, que los niños de hasta dos años utilicen porta bebé y además vayan sujetos por el cinturón de seguridad, cuando esté en movimiento o circulando.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2011)</small>
+
+IV.- Utilizar el cinturón de seguridad y hacer que los pasajeros hagan lo mismo. Deberán asegurarse también que los niños de hasta dos años utilicen porta bebé y además, vayan sujetos por el cinturón de seguridad cuando esté en movimiento o circulando, en el entendido que el porta bebé deberá fijarse exclusivamente en el asiento trasero de cada vehículo, y de acuerdo con las instrucciones del fabricante.
 
 V.- Bajar pasaje en la banqueta o acotamiento a menos que haya vehículos estacionados. En este caso lo harán lo más próximo a la banqueta o acotamiento.
 
@@ -1013,7 +1013,11 @@ Las empresas de autobuses de transporte de pasajeros, los propietarios de vehíc
 
 ###### ARTÍCULO 76.
 
-Todos los vehículos deberán efectuar alto completo cinco metros antes de cruzar las vías de ferrocarril. Antes de iniciar la marcha, deberán cerciorarse de que no se aproxime ningún vehículo que circule sobre rieles, en cuyo caso deberán cederte el paso.
+Todos los vehículos deberán efectuar alto completo cinco metros antes de cruzar las vías de ferrocarril. Antes de iniciar la marcha, deberán cerciorarse de que no se aproxime ningún vehículo que circule sobre rieles, en cuyo caso deberán cederle el paso.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2011)</small>
+
+En cruceros con señal de alto los vehículos deberán detener su movimiento antes de ingresar a una intersección o al alineamiento de edificios, cediendo el paso a peatones o vehículos que se encuentren cruzando la intersección, esto a fin de que no se produzcan accidentes.
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LA CONDUCCIÓN NOCTURNA Y DEL USO DE LUCES
 
@@ -1183,7 +1187,7 @@ II.- CHOQUE DE CRUCERO.- Ocurre entre dos o más vehículos provenientes de arro
 
 III.- CHOQUE DE FRENTE.- Ocurre entre dos o más vehículos provenientes de arroyos de circulación opuestos, los cuales chocan cuando uno de ellos invade parcial o totalmente el canil, arroyo de circulación o trayectoria contraria.
 
-IV.- CHOQUE LATERAL.- Ocurre entre dos o más vehículos cuyos conductores circulan en carriles o con trayectorias paralelas, en el mismo sentido chocando los vehículos entre si, cuando uno(s) de ellas Invada (n) parcial o totalmente el carril o trayectoria donde circula (n) el (los) otro (s).
+IV.- CHOQUE LATERAL.- Ocurre entre dos o más vehículos cuyos conductores circulan en carriles o con trayectorias paralelas, en el mismo sentido chocando los vehículos entre sí, cuando uno(s) de ellas Invada (n) parcial o totalmente el carril o trayectoria donde circula (n) el (los) otro (s).
 
 V.- SALIDA DE ARROYO DE CIRCULACIÓN.- Ocurre cuando un conductor pierde el control de su vehículo y se sale de la calle, avenida o carretera.
 
@@ -1617,8 +1621,12 @@ SECRETARIO DEL R. AYUNTAMIENTO DE LINARES
 
 RÚBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2002.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 6 DE JULIO DE 2011.
+
+ÚNICO.- LAS PRESENTES ADICIONES Y MODIFICACIONES ENTRARÁN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
