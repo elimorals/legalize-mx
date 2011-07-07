@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-liquidacion-y-destino-de-los-bienes-de-los-6232
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-22"
-last_updated: "2008-08-22"
+last_updated: "2011-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62326&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO PARA LIQUIDACION Y DESTINO DE LOS BIENES DE LOS PARTIDOS POLITICOS NACIONALES QUE PIERDAN O LES SEA CANCELADO SU REGISTRO ANTE EL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO PARA LA LIQUIDACION Y DESTINO DE LOS BIENES DE LOS PARTIDOS POLITICOS NACIONALES, PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 22 de agosto de 2008.
 
@@ -460,3 +462,17 @@ Formatos 1 y 2
 (VEASE ARCHIVO ANEXO)
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE JULIO DE 2011.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se abroga el Reglamento para la Liquidación y Destino de los Bienes de los Partidos Políticos Nacionales que pierdan o les sea cancelado su Registro ante el Instituto Federal Electoral, aprobado el veintinueve de agosto de dos mil ocho en sesión extraordinaria del Consejo General del Instituto Federal Electoral, mediante el Acuerdo CG393/2008.
+
+...
+
+TERCERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
