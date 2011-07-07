@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-politecnica-del-valle-643
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-28"
-last_updated: "2008-10-28"
+last_updated: "2011-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE TOLUCA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE JULIO DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 28 de octubre de 2008.
 
@@ -109,23 +109,29 @@ VI. Resolver las dudas que se susciten con motivo de la interpretación o aplica
 
 VII. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende la Junta Directiva.
 
-###### Artículo 11.
+> <small>(REFORMADO, G.G. 7 DE JULIO DE 2011)</small>
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
+###### Articulo 11.
 
-I. Dirección de División de Ingeniería Industrial y de Sistemas.
+Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
+
+l. Dirección de División de Ingeniería Industrial y de Sistemas.
 
 II. Dirección de División de Ingeniería en Informática.
 
 III. Dirección de División de Ingeniería Mecatrónica.
 
-IV. Dirección de Administración y Finanzas.
+IV. Dirección de División de Ingeniería en Biotecnología y Licenciatura en Negocios Internacionales.
 
-V. Departamento de Control Escolar.
+V. Dirección de Planeación y Vinculación.
 
-VI. Departamento de Información, Planeación, Programación y Evaluación.
+VI. Dirección de Administración y Finanzas.
 
-La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicable.
+VII. Departamento de Control Escolar
+
+VIII. Departamento de Tecnologías de la Información
+
+La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS DIRECTORES Y JEFES DE DEPARTAMENTO
 
@@ -203,7 +209,47 @@ XIII. Proponer al Rector estrategias y acciones para incrementar la calidad de l
 
 XIV. Analizar la solicitud de equivalencia y revalidación de estudios de los alumnos procedentes de otras instituciones dentro del sistema educativo y someterla a consideración del Consejo de Calidad.
 
-XV. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Rector.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE JULIO DE 2011)</small>
+
+XV. Participar en las comisiones, comités, consejos y demás grupos de trabajo cuando la naturaleza de sus funciones así lo requieran.
+
+> <small>(ADICIONADA, G.G. 7 DE JULIO DE 2011)</small>
+
+XVI. Proponer al Consejo de Calidad programas de acreditación y de certificación de su programa educativo, así como de mejoramiento integral de los procesos de la Universidad.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 7 DE JULIO DE 2011)</small>
+
+XVII. La (sic) demás que les confieran otras disposiciones legales y aquellas que les encomiende el Rector.
+
+> <small>(ADICIONADO, G.G. 7 DE JULIO DE 2011)</small>
+
+Artículo 14 bis.- Corresponde a la Dirección de Planeación y Vinculación.
+
+I. Proyectar la planeación del Organismo a corto, mediano y largo plazos, con la participación que corresponda a los titulares de las unidades administrativas de la Universidad.
+
+II. Integrar el programa anual de actividades de la Universidad.
+
+III. Proponer criterios y lineamientos para la planeación, presupuestación, organización, control y evaluación de las funciones de la Universidad.
+
+IV. Organizar y controlar, en el ámbito de su competencia, las actividades de programación y evaluación presupuestal de las unidades administrativas a su cargo.
+
+V. Integrar, operar y mantener actualizado el sistema de información de la Universidad.
+
+VI. Evaluar las actividades de la Universidad, presentando los informes correspondientes al Rector.
+
+VII. Participar en la evaluación del desempeño del personal de la Universidad.
+
+VIII. Integrar, ejecutar y evaluar los programas de vinculación de la Universidad.
+
+IX. Impulsar la vinculación entre la Universidad y los sectores público, social y privado para el cumplimiento de los programas y funciones del Organismo.
+
+X. Proponer modificaciones a los programas de estudio de la Universidad, con base en los resultados de las acciones de vinculación del Organismo.
+
+XI. Organizar, previa autorización del Rector, conferencias, seminarios, exposiciones, concursos y otras actividades que contribuyan a la formación profesional de los estudiantes de la Universidad.
+
+XII. Integrar las propuestas de modificaciones a la estructura administrativa de la Universidad y presentarlas a consideración del Rector.
+
+XIII. La (sic) demás que le confieran otras disposiciones legales y aquellas que le encomiende el Rector.
 
 ###### Artículo 15.
 
@@ -269,31 +315,29 @@ VII. Las demás que le confieran otras disposiciones legales y aquellas que le e
 
 ###### Artículo 17.
 
-Corresponde al Departamento de Información, Planeación, Programación y Evaluación:
+(DEROGADO, G.G. 7 DE JULIO DE 2011)
 
-I. Desarrollar, promover e implantar el sistema integral de información, que permita apoyar la gestión administrativa y académica de la Universidad.
+> <small>(ADICIONADO, G.G. 7 DE JULIO DE 2011)</small>
 
-II. Mantener actualizado el inventario del patrimonio documental, así como realizar las acciones correspondientes para su resguardo y conservación.
+Artículo 17 bis.- Corresponde al Departamento de Tecnologías de la Información.
 
-III. Promover el cumplimiento de las obligaciones de la Universidad, establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+I. Elaborar el programa anual de tecnologías de la información de la Universidad, de acuerdo con la normatividad aplicable y someterlo a la consideración del Rector.
 
-IV. Coordinar los procesos institucionales de planeación estratégica, así como la elaboración de los programas de desarrollo institucional, integral de fortalecimiento institucional y operativo anual y someterlos para su aprobación al Rector.
+II. Programar, prestar y controlar los servicios de soporte técnico de los equipos informáticos de la Universidad.
 
-V. Coordinar las evaluaciones programático-presupuestales del Organismo, de conformidad con los lineamientos aplicables.
+III. Desarrollar y actualizar sistemas informáticos, de tecnología y operación de redes, promoviendo la incorporación de nuevas técnicas y metodologías de uso.
 
-VI. Proyectar el desarrollo de la Universidad a corto, mediano y largo plazos, con la participación de las demás unidades administrativas del Organismo.
+IV. Proporcionar asesoría técnica en materia de tecnologías de la información a las unidades administrativas de la Universidad.
 
-VII. Proponer modelos de planeación global de la Universidad, vigilando la congruencia entre sus acciones, objetivos y recursos.
+V. Integrar y mantener actualizado el inventario de los bienes informáticos asignados a las unidades administrativas de la Universidad, en coordinación con la Dirección de Administración y Finanzas.
 
-VIII. Establecer políticas y mecanismos para la ejecución de los procesos de planeación, presupuestación y evaluación de la Universidad.
+VI. Implementar procedimientos de seguridad física y lógica que garanticen la integridad y confiabilidad de los datos que contienen los sistemas informáticos.
 
-IX. Coordinar y definir los mecanismos de estructuración, procesamiento y difusión de la información generada por el Organismo en el ejercicio de sus atribuciones.
+VII. Cumplir y promover el cumplimiento de las disposiciones jurídicas y administrativas emitidas en materia de tecnologías de la información.
 
-X. Programar y dirigir la elaboración de estudios orientados a identificar necesidades de profesionistas que requieran los sectores público y privado.
+VIII. Promover la capacitación de los responsables de los equipos informáticos de la Universidad, a fin de que éstos operen de manera eficaz.
 
-XI. Coordinar los procesos de certificación y acreditación de los procesos de la Universidad.
-
-XII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Rector.
+IX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Rector.
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -324,3 +368,13 @@ DR. LUIS ANTONIO PEREZ GONZALEZ
 ENCARGADO DEL DESPACHO DE LA RECTORIA DE LA UNIVERSIDAD POLlTECNICA DEL VALLE DE TOLUCA Y DE LA SECRETARIA DE LA JUNTA DIRECTIVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 7 DE JULIO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
