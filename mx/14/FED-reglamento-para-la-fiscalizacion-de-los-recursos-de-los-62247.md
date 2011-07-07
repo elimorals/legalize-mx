@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-fiscalizacion-de-los-recursos-de-los-62247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-19"
-last_updated: "2009-03-17"
+last_updated: "2011-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62247&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS NACIONALES QUE FORMEN COALICIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE FISCALIZACIÓN, PUBLICADO EN EL D.O.F. EL 7 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 19 de agosto de 2008.
 
@@ -454,3 +456,39 @@ SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESEN
 SEGUNDO. La modificación al Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales que formen Coaliciones entrará en vigor a partir del día siguiente de su aprobación por el Consejo General.
 
 TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JULIO DE 2011.
+
+A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL ACUERDO QUE TIENEN RELACIÓN CON EL PRESENTE REGLAMENTO.
+
+PRIMERO. Se abrogan los Reglamentos siguientes: Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales, Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Nacionales, Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales que formen Coaliciones, Reglamento para la Fiscalización de los Recursos de las Organizaciones de Observadores Electorales y Reglamento para la Fiscalización de los Recursos de las Organizaciones que pretendan obtener el Registro como Partidos Políticos Nacionales, aprobados el diez de julio de dos mil ocho, en sesión extraordinaria del Consejo General del Instituto Federal Electoral, mediante Acuerdos CG310/2008, CG311/2008, CG312/2008, CG313/2008 y CG314/2008, respectivamente.
+
+SEGUNDO..
+
+TERCERO. El Reglamento entrará en vigor el primero de enero de dos mil doce, salvo para las obligaciones derivadas de los gastos de organización de los procesos internos de precampaña del proceso electoral federal 2011-2012 las que se regirán con base en este reglamento.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial.
+
+## TRANSITORIOS
+
+PRIMERO. Los partidos, las coaliciones y las agrupaciones, continuarán emitiendo en forma impresa recibos por los ingresos que reciban y por reconocimientos que efectúen a las actividades de apoyo político, hasta en tanto la Unidad de Fiscalización no ponga a su disposición el sistema informático creado para la expedición de recibos electrónicos.
+
+El partido político podrá utilizar el sistema para la emisión de recibos electrónicos y simultáneamente los recibos de papel, hasta en tanto la Unidad de Fiscalización disponga de la obligatoriedad del uso del sistema.
+
+Para los sujetos obligados que utilicen el sistema de manera generalizada, se entenderán por cumplidas las disposiciones relativas a: el control de folios, los avisos de impresión y la presentación física de los recibos.
+
+SEGUNDO. Para la elaboración y presentación de los estados financieros, de conformidad con lo señalado en el presente Reglamento, los partidos políticos deberán considerar como saldos iniciales, los activos, pasivos y patrimonio del estado consolidado de situación patrimonial, así como las balanzas de comprobación a que se refieren los artículos 28.4, 28.5 y 28.6 del Reglamento para la Fiscalización de los Recursos de los Partidos Políticos Nacionales, que tengan registrados al treinta y uno de diciembre de dos mil once. Tratándose de las agrupaciones políticas nacionales, deberán considerar la balanza de comprobación señalada en el artículo 18.4 del Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Nacionales.
+
+TERCERO. La Unidad de Fiscalización contará con noventa días a partir de la publicación del presente Reglamento en el Diario Oficial, para emitir el "Manual de contabilidad del sistema de rendición de cuentas para el gasto programado" y los "Lineamientos para la elaboración de programas", a que hace referencia el Reglamento.
+
+Estos documentos, deberán ser elaborados en conjunto con los partidos políticos, a efecto de garantizar que se tutele el principio de vida interna de los mismos.
+
+Asimismo, la Unidad de Fiscalización emitirá los lineamientos correspondientes a la contratación de créditos hipotecarios, dentro de los noventa días contados a partir de la publicación en el Diario Oficial.
+
+CUARTO. La Unidad de Fiscalización, contará con un plazo de ciento veinte días contados a partir de la publicación en el Diario Oficial, para que previo análisis y discusión con los partidos políticos, emita los criterios normativos aplicables a la incorporación de los efectos de las depreciaciones y amortizaciones descritos en el artículo 38 del presente Reglamento, en la información financiera de los partidos políticos.
+
+QUINTO. La Unidad de Fiscalización, antes de la entrada en vigor del presente Reglamento, deberá realizar talleres dirigidos a los sujetos obligados, relativos a:
+
+a) Registro, valuación, depreciación y amortización de activos.
+
+b) Tratamiento para la depuración de cuentas por cobrar y cuentas por pagar, de acuerdo con las NIF´S.
