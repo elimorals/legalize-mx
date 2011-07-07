@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-en-materia-de-fiscalizacion-62096"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-08"
-last_updated: "2010-02-23"
+last_updated: "2011-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62096&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION, PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de agosto de 2008.
 
@@ -568,3 +570,15 @@ D.O.F. 23 DE FEBRERO DE 2010.
 PRIMERO. La modificación al Reglamento que Establece los Lineamientos aplicables a los Procedimientos Oficiosos y de Queja en materia de Origen y Aplicación de los Recursos de los Partidos y Agrupaciones Políticas entrará en vigor el día de su aprobación por el Consejo General.
 
 SEGUNDO. Se instruye al Secretario Ejecutivo del Instituto Federal Electoral para que ordene la publicación del presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JULIO DE 2011.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se abroga el Reglamento de Procedimientos en Materia de Fiscalización, aprobado el veintinueve de enero de dos mil diez en sesión ordinaria del Consejo General del Instituto Federal Electoral, mediante el Acuerdo CG04/2010.
+
+...
+
+TERECERO. (SIC) El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
