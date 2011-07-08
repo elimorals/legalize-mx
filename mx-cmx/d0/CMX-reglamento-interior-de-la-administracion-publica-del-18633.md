@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2011-06-17"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -538,15 +538,15 @@ XIV. A la Contraloría General:
 
 3.1. Dirección de Auditorías Especiales en Dependencias y Órganos Desconcentrados.
 
-3.2. Direcciones de Contralorías Internas en Dependencias y Órganos Desconcentrados, "A", "B" y "C".
+3.2. Direcciones de Contralorías Internas en Dependencias y Órganos Desconcentrados, “A”, “B” y “C”.
 
 4. Dirección General de Contralorías Internas en Delegaciones.
 
-4.1. Direcciones de Contralorías Internas en Delegaciones, "A", y "B".
+4.1. Direcciones de Contralorías Internas en Delegaciones, “A”, y “B”.
 
 5. Dirección General de Contralorías Internas en Entidades.
 
-5.1. Direcciones de Contralorías Internas en Entidades, "A", y "B".
+5.1. Direcciones de Contralorías Internas en Entidades, “A”, y “B”.
 
 5.2. Dirección de Comisarios y Control de Auditores Externos.
 
@@ -1490,9 +1490,9 @@ Corresponde a la Subsecretaría de Servicios Médicos e Insumos:
 
 I. Organizar y operar los servicios de atención médica de la Administración Pública del Distrito Federal orientados a la población abierta;
 
-(REFORMADA, G.O. 26 DE OCTUBRE DE 2007) (F. DE E., G.O. 21 DE DICIEMBRE DE 2007)
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
 
-II. Contribuir al desempeño del Sistema de Salud del Distrito Federal, organizado y coordinado por la Secretaría de Salud del Distrito Federal, mediante la prestación de los servicios de atención médica y de urgencias de las Unidades Hospitalarias y Centros de Atención Toxicológica;
+II. Contribuir al desempeño del Sistema de Salud del Distrito Federal, organizado y coordinado por la Secretaría de Salud del Distrito Federal, mediante la prestación de los servicios de atención médica y de urgencias de las Unidades Hospitalarias;
 
 III. Establecer vinculación entre las unidades de la Secretaría de Salud del Distrito Federal y el Organismo Descentralizado Servicios de Salud Pública del Distrito Federal, para la atención integral del paciente;
 
@@ -3716,9 +3716,9 @@ DE LA SECRETARIA DE SALUD.
 
 Corresponde a la Dirección General de Servicios Médicos y Urgencias:
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
 
-I. Organizar, operar y controlar la prestación de los servicios de atención médica permanentes y de urgencias de las Unidades Hospitalarias a su cargo;
+I. Organizar, operar y controlar la prestación de los servicios de atención médica permanentes y de urgencias de las Unidades Hospitalarias y Centros de Atención Toxicológica a su cargo;
 
 II. Coordinarse con otras unidades de la Secretaría de Salud del Distrito Federal, así como con los organismos coordinados sectorialmente por ésta, especialmente con el Organismo Descentralizado Servicios de Salud Pública del Distrito Federal, en lo relativo a la atención integral del paciente;
 
@@ -3759,6 +3759,10 @@ XIII. Participar en la aplicación de los mecanismos de garantía de la calidad,
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XIV. Desarrollar actividades de capacitación y asesoría adecuada y oportuna a los profesionales de la salud y al público en general para garantizar el uso seguro y costo efectivo de los medicamentos;
+
+> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2011)</small>
+
+XIV Bis. Inscribir al Profesional Técnico de la Salud en Atención Médica Prehospitalaria, en el Registro de Técnicos en Urgencias Médicas de la Secretaría de Salud del Distrito Federal de conformidad con la normatividad aplicable así como expedir la acreditación que contenga los datos de identificación del Técnico, siempre que demuestre su formación y conocimientos, mediante documento legalmente expedido y registrado por Institución integrante del Sistema de Urgencias Médicas.
 
 XV. (DEROGADA, G.O. 19 DE ENERO DE 2007)
 
@@ -14625,3 +14629,7 @@ SEGUNDO.- Los asuntos que se encuentran en trámite en la Dirección de Auditor�
 TERCERO.- Los asuntos que se encuentran en trámite en la Dirección de Servicios de Tecnologías de la Información y Comunicaciones y Sistemas de Información, serán tramitados y resueltos por la Dirección Ejecutiva de Servicios de Tecnologías de la Información y Comunicaciones en términos del presente decreto.
 
 CUARTO.- Los asuntos que se encuentran en trámite en la Dirección de Desarrollo Organizacional y en la Dirección de Evaluación del Objeto y Viabilidad de los Entes de la Administración Pública del Distrito Federal; serán tramitados y resueltos por la Dirección Ejecutiva de Diseño y Dictaminación de Estructuras Orgánicas.
+
+G.O. 8 DE JULIO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación.
