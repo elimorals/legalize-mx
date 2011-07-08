@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-consejos-de-participacion-social-en-la-74813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2010-05-07"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de mayo de 2010.
 
@@ -69,6 +69,14 @@ XI. Autoridad Escolar: Los Supervisores, Inspectores, Directores y Subdirectores
 
 XII. Ingresos propios: Son todos aquellos recursos económicos, en especie y/o servicios que sean aportados para mejorar la calidad educativa de los centros escolares.
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XIII. Sesiones: Las reuniones de trabajo en las que se convoque a los miembros del Consejo Escolar, o bien en las que también participe como invitado el personal que presta sus servicios en el plantel educativo; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XIV. Asambleas: Las reuniones de trabajo, informativas y de coordinación de acciones, a las que convoque el Consejo Escolar a la comunidad educativa.
+
 ###### Artículo 3.
 
 El Consejos de Participación Social se abstendrá de intervenir en aspectos laborales de los planteles educativos y en cuestiones políticas o religiosas, así como de utilizar las instalaciones con el fin de manifestarse e interrumpir o impedir la prestación del servicio educativo.
@@ -77,7 +85,9 @@ El Consejos de Participación Social se abstendrá de intervenir en aspectos lab
 
 La operatividad de los Consejos de Participación Social, estará sujeta a las disposiciones contenidas en el Manual que expida la Autoridad Educativa.
 
-La Autoridad Educativa, a través de la Dirección de Participación Social y Formación Valoral, se encargará de la operación y funcionamiento del Consejo Escolar, de conformidad con las atribuciones que le confiere el Reglamento Interno de la Secretaria de Educación y Bienestar Social.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+La Autoridad Educativa, a través de la unidad administrativa responsable de la Participación Social y Formación Valoral, se encargará de la operación y funcionamiento de los Consejos de Participación Social, de conformidad con las atribuciones legales que le confieren el Reglamento Interno de la Secretaría de Educación y Bienestar Social y el Reglamento Interno del Instituto de Servicios Educativos y Pedagógicos de Baja California.
 
 ###### Artículo 5.
 
@@ -97,7 +107,9 @@ Los Consejos Escolares son la base del Sistema de Participación Social, los cua
 
 El Consejo Escolar tendrá las siguientes atribuciones:
 
-I. Conocer el calendario escolar, las metas educativas, el proyecto Educativo del Estado y el avance de las actividades escolares del centro educativo de nivel básico, con el objeto de coadyuvar con el docente a su mejor realización;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+I. Conocer el calendario escolar, las metas educativas, el Proyecto Educativo del Estado, el Programa Sectorial de Educación y el avance de las actividades escolares del centro educativo de nivel básico, con el objeto de coadyuvar con el docente a su mejor realización;
 
 II. Conocer los resultados de las evaluaciones que realice las Autoridades Educativas;
 
@@ -115,7 +127,7 @@ VIII. Emitir convocatorias para trabajos específicos de mejoramiento de las ins
 
 IX. Presentar ante el Consejo Sectorial, el proyecto escolar a mediano plazo y plan anual de trabajo con el objeto de que se considere dentro del proyecto educativo del sector;
 
-X. Realizar cualquier tipo de actividad que dentro de su competencia, conforme con las comisiones establecidas, y que sea en beneficio de la propia escuela;
+X. (DEROGADA, P.O. 8 DE JULIO DE 2011)
 
 XI. Promover la rendición de cuentas y los mecanismos para asegurar la aplicación oportuna de los recursos provenientes de las aportaciones voluntarias de las madres y padres de familia o tutores, que son recabadas en el plantel educativo por la Asociación de Padres de Familia;
 
@@ -137,7 +149,9 @@ XVIII. Las demás que señale la Ley General, la Ley Estatal y demás ordenamien
 
 El Consejo Escolar se integrará por los siguientes Consejeros:
 
-I. Cinco miembros de la mesa directiva de la Asociación de Padres de Familia que serán: el Presidente, el Tesorero y tres vocales designados por el Presidente de esa Asociación;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+I. Seis miembros de la mesa directiva de la Asociación de Padres de Familia que serán: el Presidente, el Secretario, el Tesorero y tres vocales designados por el Presidente de esa Asociación. Asimismo, sus suplentes en la Asociación de Padres de familia se integrarán con ese carácter al Consejo Escolar;
 
 II. El Director del centro educativo;
 
@@ -149,9 +163,13 @@ V. El representante sindical de los docentes en el plantel;
 
 VI. Un ex-alumno en los casos de primaria y secundaria, previa invitación del director del centro educativo;
 
-VII. Dos miembros de la comunidad donde se encuentra el centro educativo o del comité de vecinos, que no pertenezcan a la mesa directiva de la Asociación de Padres de Familia, invitados por el Consejero Presidente.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-El Consejo Escolar por mayoría de votos de sus integrantes designará al Secretario Técnico de entre sus miembros y requerirá de la misma votación para removerlo.
+VII. Un integrante de la comunidad donde se encuentra el centro educativo o del comité de vecinos, sea o no miembro de la mesa directiva de la Asociación de Padres de Familia, invitado por el Consejero Presidente.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+El Consejo Escolar, por mayoría de votos de sus integrantes, designará a su Consejero Presidente y al secretario Técnico de entre sus miembros. En el caso del Secretario Técnico, se requerirá de la misma votación para removerlo.
 
 Los miembros del Consejo Escolar deberán nombrar un suplente para cubrir sus ausencias. El suplente tendrá los mismos derechos y obligaciones que el consejero propietario, y en caso de ausencia definitiva complementará el periodo del cargo que sustituye.
 
@@ -165,9 +183,11 @@ El Consejo Escolar deberá instalarse dentro de los treinta días naturales sigu
 
 Una vez concluido el plazo de duración del cargo de los miembros del Consejo Escolar a que se refiere el artículo 13 del presente Reglamento, la renovación de los miembros del Consejo Escolar, se realizará dentro del plazo previsto en el artículo anterior. Cuando la permanencia de un consejero derive del desempeño de su cargo, se efectuará la renovación cuando cesen sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 12.
 
-Para el registro del Consejo Escolar, el Secretario Técnico con apoyo del Director del centro educativo, deberá llenar el formato por duplicado del Acta Constitutiva del Consejo Escolar proporcionado por la Autoridad Educativa, que será debidamente requisitada y firmada por todos los consejeros integrantes así como la Autoridad Escolar y remitirá un tanto con firmas originales y sello del centro escolar a la Inspección o Supervisión de Zona, y una vez firmada por el Supervisor o Inspector la enviara para su registro a la Unidad de Atención a Padres de Familia y Consejos de Participación Social de la Delegación Educativa en el municipio, en el término de quince días naturales posteriores a la instalación del Consejo.
+El Acta Constitutiva del Consejo Escolar será proporcionada a la Autoridad Educativa con la finalidad de que sea sellada y validada, además de que se integrará, al igual que las sesiones y las asambleas, en la plataforma para el Registro Público de Consejos Escolares.
 
 ###### Artículo 13.
 
@@ -185,9 +205,13 @@ I.- El Consejero Presidente:
 
 a) Representar al Consejo Escolar;
 
-b) Presidir las sesiones del Consejo Escolar;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-c) Promover la capacitación de los Consejeros e informar de los asuntos, así como coordinar las comisiones de trabajo;
+b) Presidir las sesiones y asambleas del Consejo Escolar;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+c) Promover la capacitación de los Consejeros, informar de los asuntos y coordinar los comités de trabajo;
 
 d) Coordinar y revisar el diseño, seguimiento, ejecución y evaluación del proyecto escolar, así como del programa anual de trabajo; y de participación social;
 
@@ -199,19 +223,29 @@ g) Promover y supervisar el cumplimiento de los acuerdos tomados por el Consejo 
 
 h) Fomentar y fortalecer las relaciones del Consejo Escolar con otros organismos sociales y con el Consejo Sectorial al que pertenezca;
 
-i) Convocar a sesión en cualquier tiempo para analizar y acordar otras acciones en beneficio del plantel escolar que promueva la integración, el conocimiento y los valores entre las familias y los miembros de la comunidad educativa; y,
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+i) Convocar a sesión o asamblea en cualquier tiempo para analizar y acordar otras acciones en beneficio del plantel escolar que promuevan la integración, el conocimiento y los valores entre las familias y los miembros de la comunidad educativa; y,
 
 j) Analizar, tramitar y en su caso resolver lo no previsto en el presente artículo que se relacione con el ejercicio de sus atribuciones.
 
 II.- El Secretario Técnico:
 
-a) Convocar por instrucciones del Consejero Presidente a las sesiones;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-b) Preparar el orden del día de la sesión y levantar acta de la misma;
+a) Convocar, por instrucciones del Consejero Presidente, a las sesiones y a las asambleas;
 
-c) Pasar lista de asistencia y verificar el quórum para sesionar;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-d) Hacer llegar con oportunidad a los consejeros las actas de las sesiones, programas de trabajo, el orden del día y demás documentación necesaria para el ejercicio de sus funciones;
+b) Preparar el orden del día de las sesiones y las asambleas, así como levantar actas de las mismas;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+c) Pasar lista de asistencia y verificar el quórum de las sesiones y las asambleas;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+d) Hacer llegar con oportunidad a los Consejeros las actas de las sesiones y las asambleas, programas de trabajo, el orden del día y demás documentación necesaria para el ejercicio de sus funciones;
 
 e) Colaborar con el Consejero Presidente en el seguimiento y coordinación del diseño, ejecución y evaluación del proyecto escolar y del programa anual de trabajo y de participación social;
 
@@ -223,7 +257,9 @@ h) las demás que le encomiende el Consejero Presidente y se relacionen con sus 
 
 III.- Los Consejeros:
 
-a) Asistir y participar en las sesiones del Consejo Escolar con derecho a voz y voto;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+a) Asistir y participar en las sesiones y asambleas del Consejo Escolar, con derecho a voz y voto;
 
 b) Integrar y participar en las comisiones permanentes;
 
@@ -231,67 +267,81 @@ c) Coordinar el grupo de trabajo que le asigne el Consejo Escolar;
 
 d) Participar en la elaboración ejecución del programa anual de trabajo;
 
-e) Conocer la situación de su escuela, partiendo de las evaluaciones elaboradas por la mesa directiva de la Asociación de Padres de Familia, el Consejo Técnico Consultivo y el Consejo Escolar;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+e) Conocer la situación de su escuela, partiendo de las evaluaciones que realice la Autoridad Educativa;
 
 f) Informar al Consejo Escolar de los resultados de las comisiones permanentes;
 
-g) Firmar las actas de las sesiones en las que tengan participación;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+g) Firmar las actas de las sesiones y las asambleas en las que tengan participación; y,
 
 h) Proponer los mecanismos e instrumentos que considere idóneos para el adecuado funcionamiento del Consejo Escolar.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 15.
 
-La sede de las sesiones de los Consejos Escolares será en las instalaciones del centro educativo al que pertenezca, o el lugar que éstos acuerden.
+La sede de las sesiones y asambleas de los Consejos Escolares será en las instalaciones del centro educativo al que pertenezcan, o en el lugar que dichos Consejos acuerden.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 16.
 
-La convocatoria para sesionar ordinariamente el Consejo Escolar, deberá ser suscrita por el Consejeros Presidente o en su caso, por el Secretario Técnico, y deberá ser notificada a los consejeros por lo menos con tres días hábiles de anticipación. Cuando se trate de sesiones extraordinarias, se deberá convocar por lo menos con veinticuatro horas de anticipación.
+La convocatoria para sesiones y asambleas ordinarias del Consejo Escolar, deberá ser suscrita por el Consejero Presidente, o en su caso, por el Secretario Técnico y, deberá ser notificada a los consejeros por lo menos con tres días hábiles de anticipación. Cuando se trate de sesiones o asambleas extraordinarias, se deberá convocar por lo menos con veinticuatro horas de anticipación.
 
 ###### Artículo 17.
 
 La convocatoria deberá contener como mínimo los siguientes requisitos:
 
-I. Mencionar si la sesión es ordinaria o extraordinaria;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+I. Mencionar si se trata de sesión o asamblea ordinaria o extraordinaria;
 
 II. Si es primera o segunda convocatoria;
 
-III. Lugar, día y hora de la sesión;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+III. Lugar, día y hora de la sesión o asamblea;
 
 IV. Orden del día.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 18.
 
-Para sesionar válidamente se requiere de la presencia de la mitad mas uno de los consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
+Para que las sesiones y asambleas sean válidas se requiere de la presencia de la mitad más uno de los Consejeros, debiendo estar presente el Consejero Presidente o quien lo supla.
 
-En caso de no reunirse el quórum para sesionar en segunda convocatoria, después de veinte minutos de la hora acordada, se efectuará la reunión de los consejeros presentes.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+En caso de no reunir el quórum para realizar las sesiones y asambleas en segunda convocatoria, después de veinte minutos de la hora acordada, se efectuará la reunión con los Consejeros presentes.
 
 Para la validez de los acuerdos del Consejo Escolar, deberán ser aprobados por la mitad mas uno de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 19.
 
-El Consejo Escolar sesionará ordinariamente cada treinta días, y extraordinariamente, cuando así lo determine el Consejero Presidente o, a solicitud de más de la mitad de los consejeros.
+El Consejo Escolar celebrará tres asambleas y cuatro sesiones ordinarias durante el ciclo escolar y, extraordinarias, cuando así lo determine el Consejero Presidente en coordinación con la Autoridad Escolar o cuando así lo solicite más de la mitad de los Consejeros. Las asambleas y sesiones ordinarias se desarrollarán de la siguiente manera:
 
-El Consejo Escolar deberá realizar las siguientes sesiones:
+I. De las Asambleas Ordinarias.
 
-a) Durante la segunda semana del mes de septiembre de cada ciclo escolar, se celebrará una sesión del Consejo Escolar a la que invitará al o los directivos de la escuela, personal docente y de apoyo; asimismo se invitará al Presidente de la Asociación de Padres de Familia o quien dirija la agrupación equivalente en el plantel educativo en caso de que no se hubiera Integrado como miembro del Consejo Escolar La sesión tendrá por objeto conocer el monto y destino de los recursos que, en su caso, se asignaran a la escuela a través de los programas federales, estatales o locales, y tomar nota del monto de las aportaciones voluntarias de las madres y padres de familia o tutores; asimismo, se solicitará al personal directivo, docente y de apoyo que exponga los trabajos específicos que se requieren para el mejoramiento de las instalaciones escolares. En su caso, se promoverá que se conozca el monto de los recursos provenientes de cualquier fuente distinta a las mencionadas anteriormente.
+a) La primera asamblea tendrá verificativo dentro de los primeros 30 días de iniciado el ciclo escolar para instalar o renovar el Consejo Escolar.
 
-El Consejo Escolar promoverá ante la Asociación de Padres de Familia o la agrupación equivalente, que los recursos provenientes de las aportaciones voluntarias de las madres y padres de familia o tutores sean destinados a trabajos específicos para el mejoramiento de las instalaciones escolares, así como a fines complementarios o distintos a los previstos en los diversos programas que, en su caso, beneficien a la escuela.
+b) La segunda asamblea tendrá verificativo durante la cuarta semana del mes de noviembre para presentar el plan anual de trabajo de los comités e informar a la comunidad educativa de los asuntos tratados en las sesiones anteriores.
 
-En la misma sesión, el Consejo Escolar establecerá acciones para crear círculos de lectura entre las madres y padres de familia o tutores, así como con los maestros que deseen ser incorporados a dicha actividad.
+c) La tercera asamblea tendrá verificativo durante la tercera semana del mes de junio para informar a la comunidad educativa sobre lo acontecido en la cuarta sesión del Consejo Escolar.
 
-b) En la cuarta semana del mes de septiembre, el Consejo Escolar convocará a una asamblea de madres y padres de familia o tutores, y a la comunidad escolar en general, para comunicar la información señalada en el inciso anterior.
+II. De las Sesiones Ordinarias.
 
-c) En la primera semana del mes de junio, sesionará para conocer el uso que se dio a los ingresos propios del centro escolar, y propondrá al Presidente de la Asociación de Padres de Familia, o a quien dirija la asociación equivalente que elabore un Informe de Transparencia del uso que se dio a los recursos de las aportaciones voluntarias de la madres y padres de familia o tutores, así como los recibidos de otras fuentes.
+a) La primera sesión tendrá verificativo durante la tercera semana de octubre, a efecto de conocer el informe de la gestión escolar para obtener recursos de programas federales, estatales o locales, el monto y destino de los recursos provenientes de fuentes diferentes a los anteriores, el informe de la Asociación de Padres de Familia sobre el monto y destino de los recursos recabados por las aportaciones voluntarias de los padres y madres de familia o tutores, informar de los trabajos a realizar para mejorar las instalaciones escolares, y para la constitución y activación de los comités.
 
-En caso de que la escuela reciba recursos provenientes de programas federales, estatales o locales que sean responsabilidad del personal directivo o del propio Consejo Escolar, en la misma sesión se informará del uso de los mismos. Asimismo se tomará nota de los resultados de los círculos de lectura, y de los eventos deportivos, recreativos y culturales realizados.
+b) La segunda sesión tendrá verificativo durante la segunda semana de noviembre para tomar de (sic) nota de las evaluaciones que realice la Autoridad Educativa.
 
-d) En la tercera semana del mes de junio de cada ciclo escolar, el Consejo Escolar convocará a una Asamblea de madres y padres de familia o tutores, a la que invitará la autoridad educativa y a la comunidad escolar, para explicar y entregar los informes señalados en el inciso anterior. Los informes serán públicos en la escuela y se pondrán a disposición del municipio, de la autoridad educativa estatal y, en la medida de lo posible, se inscribirán en el Registro Público de los Consejos de Participación Social en la Educación. Igualmente, se comunicará a la Asamblea los resultados de las acciones de los círculos de lectura y de los eventos deportivos, recreativos y culturales.
+c) La tercera sesión tendrá verificativo durante la tercera semana de febrero para conocer el monto y destino de los recursos que se asignen a la escuela a través de los programas federales, estatales o locales.
 
-e) En la segunda semana del mes de noviembre de cada ciclo escolar, el Consejo Escolar invitará al o los directivos de la escuela, los maestros y el personal de apoyo, y sesionará para tomar nota de los resultados de las evaluaciones que realicen las autoridades educativas; adicionalmente el Consejo Escolar exhortará al personal directivo y docente para que con base en dichos resultados establezcan metas en la que se incluyan acciones complementarias que permitan obtener un mejor resultado en la evaluación del ciclo escolar en curso.
-
-f) En la cuarta semana de ese mismo mes, el Consejo Escolar convocará a una asamblea de madres y padres de familia o tutores, así como a la comunidad escolar, para comunicar lo señalado en el inciso anterior.
-
-g) Durante la tercera semana de febrero de cada ciclo escolar, el Consejo Escolar sesionará para discutir y acordar la realización de eventos deportivos, recreativos y culturales que promuevan la convivencia entre las madres y padres de familia o tutores, así como con los alumnos de la escuela.
+d) La cuarta sesión tendrá verificativo durante la primera semana del mes de junio para conocer el uso que se dio a los recursos recabados durante la gestión, así como aquellos recibidos por la escuela a través de programas federales, estatales o locales, para lo cual, elaborará un breve informe de transparencia y de los resultados de las acciones desarrolladas durante el ciclo escolar.
 
 ###### Artículo 20.
 
@@ -344,6 +394,10 @@ VI. Implementar actividades y acciones tendientes a fomentar y difundir la cultu
 VII. Promover actividades de orientación, capacitación y difusión para Padres de Familia que contribuyan a fomentar la participación social; y
 
 VIII. Las demás que señale la Ley General, la Ley Estatal y demás ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2011)</small>
+
+Los miembros de los Consejos Sectoriales ejercerán las mismas facultades previstas para los Consejeros Escolares.
 
 ###### Artículo 25.
 
@@ -423,23 +477,29 @@ Para sesionar válidamente se requiere de la presencia de la mayoría de los con
 
 En caso de no reunirse el quórum y transcurridos treinta minutos de la hora señalada para el inicio de la sesión, ésta podrá realizarse válidamente con los consejeros presentes.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 35.
 
-El Consejo Sectorial sesionará ordinariamente cada cuarenta y cinco días naturales para revisar el avance del plan anual de trabajo y funcionamiento de las comisiones o para tratar asuntos específicos a petición de sus miembros, y extraordinariamente, cuando así lo determine el Consejero Presidente o a solicitud de la mayoría de los consejeros.
+El Consejo Sectorial sesionará ordinariamente cada cuarenta y cinco días naturales para revisar el avance del plan anual de trabajo y el funcionamiento de los comités, o para tratar asuntos específicos a petición de sus miembros y, extraordinariamente, cuando así lo determine el Consejero Presidente o a solicitud de la mayoría de los Consejeros.
 
 ###### Artículo 36.
 
 Para la validez de los acuerdos del Consejo Sectorial, deberán ser aprobados por la mayoría de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 37.
 
-El Consejo Sectorial constituirá las comisiones permanentes o temporales establecidas para los Consejos Escolares y podrá crear aquellas que considere necesarias, así como comisiones temporales, de acuerdo a sus necesidades y características.
+El Consejo Sectorial constituirá los comités permanentes o temporales establecidos para los Consejos Escolares y podrá crear aquellos que considere necesarios, de acuerdo a sus necesidades y características, que coadyuven en el cumplimiento de su trabajo.
 
-Las comisiones que se establezcan sesionarán con la periodicidad que consideren pertinente.
+Los comités que se establezcan sesionarán cuando menos una vez al mes con la periodicidad que consideren pertinente.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 38.
 
-Las comisiones temporales, serán aquellos que se integren para realizar estudios y emitir opiniones sobre asuntos específicos y en su caso promover las gestiones necesarias para su atención.
+Los comités de trabajo temporales serán aquellos que se integren para realizar estudios y emitir opiniones sobre asuntos específicos y en su caso promover las gestiones necesarias para su atención.
 
 ### CAPÍTULO IV. DE LOS CONSEJOS MUNICIPALES
 
@@ -575,9 +635,13 @@ a) Representar al Consejo Municipal;
 
 b) Presidir las sesiones del Consejo Municipal;
 
-c) Presentar al Consejo Municipal un informe semestral por escrito sobre las actividades realizadas por este órgano y de las comisiones de trabajo;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-d) Coordinar y revisar el diseño, ejecución, seguimiento y evaluación del plan anual de trabajo del Consejo Municipal y de las comisiones de Trabajo;
+c) Presentar al Consejo Municipal un informe semestral por escrito sobre las actividades realizadas por este órgano y de los comités de trabajo;
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+d) Coordinar y revisar el diseño, ejecución, seguimiento y evaluación del plan anual de trabajo del Consejo Municipal y de los comités de trabajo;
 
 e) Someter al Consejo Municipal el programa de trabajo y la evaluación del mismo; Informar a la comunidad educativa de los avances del plan anual de trabajo y del proyecto a mediano plazo;
 
@@ -619,7 +683,9 @@ III. Los consejeros:
 
 a) Asistir y participar en las sesiones del Consejo Municipal con derecho a voz y voto;
 
-b) Integrar y participar en las comisiones de trabajo;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+b) Integrar y participar en los comités de trabajo;
 
 c) Coordinar el grupo de trabajo que le asigne el Consejo Municipal;
 
@@ -659,9 +725,11 @@ En caso de no reunirse el quórum y transcurridos treinta minutos de la hora se�
 
 Para la validez de los acuerdos del Consejo Municipal, deberán ser aprobados por la mayoría de los consejeros presentes. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 54.
 
-El Consejo Municipal sesionará ordinariamente por lo menos cada sesenta días naturales para revisar el avance del plan anual de trabajo y funcionamiento de las comisiones o para tratar asuntos específicos a petición de sus miembros.
+El Consejo Municipal sesionará ordinariamente por lo menos cada sesenta días naturales para revisar el avance del plan anual de trabajo y el funcionamiento de los comités de trabajo, o para tratar asuntos específicos a petición de sus miembros.
 
 ###### Artículo 55.
 
@@ -709,21 +777,29 @@ VIII. Presentar un reporte sobre el plan de trabajo del Consejo Estatal en el me
 
 IX. Ejecutar, dar seguimiento y evaluar el proyecto de trabajo sexenal y los planes anuales;
 
-X. Promover un enlace permanente entre los miembros de las comisiones de trabajo y del Consejo Estatal, para el análisis de problemas en la educación, propuestas de solución y seguimientos de acuerdos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+X. Promover un enlace permanente entre los miembros de los comités de trabajo y del Consejo Estatal para el análisis de problemas en la educación, propuestas de solución y seguimiento de acuerdos;
 
 XI. Formular recomendaciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de los proyectos aprobados por el Consejo Estatal;
 
 XII. Promover la vinculación entre los sectores de la sociedad y de gobierno, en apoyo a proyectos que impulsen la calidad en la educación básica;
 
-XIII. Coadyuvar en las acciones y gestiones que emprendan las comisiones que se instituyan en el Consejo Estatal;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-XIV. Procurar la adecuada vinculación entre las distintas comisiones de trabajo, con la participación de la Autoridad Educativa;
+XIII. Coadyuvar en las acciones y gestiones que emprendan los comités de trabajo que se instituyan en el Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XIV. Procurar la adecuada vinculación entre los distintos comités de trabajo, con la participación de la Autoridad Educativa;
 
 XV. Conocer los requerimientos de orden material y financiero necesarios para la ejecución de sus proyectos y planes anuales, realizar gestiones pertinentes para su consecución;
 
 XVI. Asesorar a sus miembros en la orientación de aspectos normativos y técnico educativos;
 
-XVII. Definir y organizar las acciones y tareas a través de comisiones según lo requieran las necesidades propias del Consejo Estatal;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XVII. Definir y organizar las acciones y tareas a través de comités de trabajo, según lo requieran las necesidades propias del Consejo Estatal;
 
 XVIII. Administrar y supervisar el destino de sus recursos;
 
@@ -855,7 +931,9 @@ IV. Promover y supervisar el cumplimiento de los acuerdos tomados por el Consejo
 
 V. Coordinar y revisar el diseño, seguimiento, ejecución y evaluación del proyecto del trabajo sexenal y de los programas anuales de trabajo con los integrantes;
 
-VI. Proponer al Consejo Estatal la creación de comisiones;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VI. Proponer al Consejo Estatal la creación de comités de trabajo;
 
 VII. Rendir al Consejo Estatal informe anual por escrito sobre el desempeño de sus funciones;
 
@@ -881,11 +959,15 @@ V. Dar cuenta al consejo de la correspondencia recibida y despachada;
 
 VI. Informar al Consejero Presidente sobre el cumplimiento de los acuerdos tomados en el Consejo Estatal;
 
-VII. Dar seguimiento y evaluar el cumplimiento del plan anual de trabajo del Consejo Estatal, de los acuerdos tomados en las sesiones y de las tareas que desarrollen las comisiones de trabajo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VII. Dar seguimiento y evaluar el cumplimiento del plan anual de trabajo del Consejo Estatal, de los acuerdos tomados en las sesiones y de las tareas que desarrollen los comités de trabajo;
 
 VIII. Auxiliar al Consejero Presidente en las actividades administrativas para el buen funcionamiento del Consejo Estatal;
 
-IX. Proponer al Consejero Presidente la creación de las comisiones de trabajo y turnar a éstos los asuntos que les hayan sido asignados por resolución del Consejo Estatal;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+IX. Proponer al Consejero Presidente la creación de los comités de trabajo y turnar a éstos los asuntos que les hayan sido asignados por resolución del Consejo Estatal;
 
 X. Organizar las sesiones de trabajo incluyendo el apoyo logístico; cuidando que circulen con oportunidad entre los consejeros las actas de las sesiones y programas de trabajo, el orden del día y la documentación que debe conocerse en las sesiones correspondientes;
 
@@ -905,11 +987,15 @@ II. Participar con voz y voto en las discusiones de los asuntos que se traten;
 
 III. Firmar las actas de las sesiones del Consejo Estatal, en las que tengan participación;
 
-IV. Proponer al consejo la creación de grupos de trabajo, permanentes o temporales;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+IV. Proponer al Consejo la creación de comités de trabajo, permanentes o temporales;
 
 V. Participar en la elaboración del proyecto de trabajo sexenal y en los programas anuales de trabajo del Consejo Estatal;
 
-VI. Formar parte de la Coordinación Ejecutiva o de los grupos de trabajo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VI. Formar parte de la Coordinación Ejecutiva o de los comités de trabajo; y,
 
 VII. Acatar las disposiciones de este Reglamento y los acuerdos del Consejo Estatal.
 
@@ -957,21 +1043,29 @@ El Consejero que deje de asistir a tres sesiones en un año, sin causa justifica
 
 En cada sesión el Consejero Presidente deberá informar al Consejo Estatal, sobre las actividades realizadas, así como de los avances en la ejecución de los acuerdos.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 79.
 
-El Consejo Estatal constituirá las comisiones de trabajo permanentes y temporales, con el objeto de realizar las actividades de análisis, investigación, consulta y opinión, sobre los temas que les sean encomendados, así como formular programas que coadyuven en el cumplimiento de su trabajo.
+El Consejo Estatal constituirá los comités de trabajo, permanentes y temporales, con el objeto de realizar las actividades de análisis, investigación, consulta y opinión sobre los temas que les sean encomendados, así como formular programas que coadyuven en el cumplimiento de su trabajo.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 80.
 
-Las comisiones de trabajo temporales serán aquellos que se integren para realizar estudios y emitir opiniones sobre temas específicos que les encomiende el Consejo Estatal.
+Los comités de trabajo temporales serán aquellos que se integren para realizar estudios y emitir opiniones sobre temas específicos que les encomiende el Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 81.
 
-Cuando en el seno del Consejo Estatal se establezca la creación de un grupo de trabajo permanente o temporal, el acuerdo deberá señalar expresamente el asunto o asuntos a cuya solución se abocará. El responsable de su coordinación podrá ser un consejero o a invitación del Consejo Estatal, un especialista en la materia.
+Cuando en el seno del Consejo Estatal se establezca la creación de un comité de trabajo, permanente o temporal, el acuerdo deberá señalar expresamente el asunto o asuntos a cuya solución se avocará. El responsable de su coordinación podrá ser un Consejero o, a invitación del Consejo Estatal, un especialista en la materia.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 82.
 
-Las comisiones deberán informar al Consejo Estatal, con la periodicidad que éste determine, respecto del avance de las tareas específicas que les sean encomendadas, así como presentar en su oportunidad el resultado de los estudios realizados para su discusión y aprobación.
+Los comités de trabajo deberán informar al Consejo Estatal, con la periodicidad que éste determine, respecto del avance de las tareas específicas que les sean encomendadas, así como presentar en su oportunidad el resultado de los estudios realizados para su discusión y aprobación.
 
 ###### Artículo 83.
 
@@ -1029,9 +1123,11 @@ Constituyen infracciones no graves las conductas que por exclusión a las establ
 
 Por la comisión de infracciones no graves al presente Reglamento es procedente la amonestación por escrito, siendo el Consejo de Participación Social correspondiente el competente para calificar la infracción y aplicar la sanción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 90.
 
-Constituyen omisiones graves cometidas por los miembros, el incumplimiento de las compromisos asumidos de conformidad con las comisiones que integren en los Consejos, cuando dicha omisión impida alcanzar los objetivos propuestos en los planes de trabajo.
+Constituyen omisiones graves cometidas por los miembros de los Consejos de Participación Social en la Educación, el incumplimiento de los compromisos asumidos de conformidad con los comités de trabajo que integren en los Consejos, cuando dicha omisión impida alcanzar los objetivos propuestos en los planes de trabajo.
 
 Por omisiones graves, procede la separación temporal del cargo, siendo el Consejo de Participación Social correspondiente en sesión del órgano colegiado, el competente para calificar la infracción y aplicar la sanción, determinando el término en que deberá permanecer suspendido del cargo el miembro infractor.
 
@@ -1068,3 +1164,9 @@ JOSÉ FRANCISCO BLAKE MORA
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ OSCAR VEGA MARÍN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE JULIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
