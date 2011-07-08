@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2011-02-14"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -113,6 +113,10 @@ IV. Calificación de las actas de visita de verificación;
 V. Ejecución de la resolución dictada en la calificación de las actas de visita de verificación.
 
 En el Reglamento de la Ley se establecerá la forma de substanciación del procedimiento de verificación.
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
+
+La autoridad que ordene las visitas de verificación en el ámbito de competencia a que alude el artículo 7 del presente ordenamiento, substanciará el procedimiento de calificación respectivo y emitirá las resoluciones correspondientes, imponiendo en su caso, las medidas cautelares y de seguridad que correspondan.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -248,7 +252,7 @@ I. Ser ciudadano del Distrito Federal en pleno ejercicio de sus derechos;
 
 II. Residir en el Distrito Federal cuando menos un año antes de la designación;
 
-III. No haber desempeñado cargo público en la Administración Pública Federal ni del Distrito Federal, durante un año anterior a su nombramiento;
+III. (DEROGADA, G.O. 8 DE JULIO DE 2011)
 
 IV. No haber desempeñado cargo de dirigencia de partidos políticos o asociaciones políticas en el ámbito federal o del Distrito Federal, con cuando menos seis meses de antelación a la fecha de la designación;
 
@@ -354,17 +358,27 @@ XIX. Las demás que le atribuya la Ley y las demás normas aplicables.
 
 ### Capítulo III. De la Dirección General
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 17.
 
-El Jefe de Gobierno del Distrito Federal designará al titular de la Dirección General, que tendrá el carácter de órgano ejecutivo del Instituto, quien deberá satisfacer los requisitos que se establecen en el artículo 11 de la presente ley.
+El Jefe de Gobierno del Distrito Federal designará al titular de la Dirección General, que tendrá el carácter de órgano ejecutivo del Instituto, quien deberá satisfacer los siguientes requisitos:
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+I. Residir en el Distrito Federal cuando menos seis meses antes de la designación;
 
-El Director General podrá ser removido por acuerdo del Consejo General a propuesta del Consejero Presidente; el Consejo General deberá informar en sesión extraordinaria las causas de la solicitud de remoción.
+II. No haber sido condenado por la comisión de algún delito doloso;
+
+III. Acreditar estudios terminados de licenciatura, cuando menos; y
+
+IV. No encontrarse destituido ni inhabilitado para el desempeño de empleo, cargo o comisión en el servicio público.
+
+El Director General podrá ser removido por acuerdo del Consejo General a propuesta del Consejero Presidente; el Consejo General deberá informar en sesión ordinaria o extraordinaria las causas de solicitud de la remoción.
+
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
 
 ###### Artículo 18.
 
-Para el ejercicio de las atribuciones que le confiere la Ley, el titular de la Dirección General se auxiliará de las Direcciones Ejecutivas y demás órganos que establezca el Estatuto Orgánico.
+Para el ejercicio de las atribuciones que le confiere la Ley, el titular de la Dirección General se auxiliará de las unidades administrativas y órganos que establezca el Estatuto Orgánico.
 
 ###### Artículo 19.
 
@@ -386,7 +400,9 @@ VII. Requerir a las autoridades competentes copias simples o certificadas de cua
 
 VIII. Establecer los procedimientos de actuación en la realización de visitas de verificación, que deberán contemplar la filmación del desarrollo integral de su realización;
 
-IX. Proponer ante el Consejo General, para su aprobación, el nombramiento, o en su caso, remoción de los Directores Ejecutivos y de los servidores públicos del siguiente nivel jerárquico administrativo, así como nombrar y remover libremente al resto del personal que integre el Instituto;
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
+
+IX. Proponer ante el Consejo General, para su aprobación, el nombramiento, o en su caso, remoción de los servidores públicos del siguiente nivel jerárquico administrativo, así como nombrar y remover libremente al resto del personal que integre el Instituto.
 
 X. Formular el programa anual de trabajo del Instituto, los proyectos de programas y el proyecto de presupuesto y presentarlos ante el Consejo General para su aprobación;
 
@@ -422,11 +438,13 @@ XXIII. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
 ### Capítulo IV. De la Organización del Instituto
 
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
+
 ### Capítulo V. Del Control y Vigilancia del Instituto
 
 ###### Artículo 20.
 
-El Instituto contará con las Direcciones Ejecutivas que determine el Estatuto Orgánico, las cuales estarán adscritas a la demarcación territorial correspondiente y auxiliarán al Director General en el ejercicio de sus funciones.
+El Instituto contará con las Unidades Administrativas que determine el Estatuto Orgánico, y auxiliarán al Director General en el ejercicio de sus funciones.
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -534,7 +552,9 @@ VI.- Contar con la documentación que acredite que posee los conocimientos en la
 
 VII.- Acreditar el proceso de selección que establezca el Instituto;
 
-VIII.- Aprobar los exámenes de conocimientos y aptitudes que a solicitud del Director General, determine la Escuela de Administración Pública del Distrito Federal, y
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
+
+VIII.- Aprobar los exámenes de conocimientos y aptitudes que determine el Consejo General, y
 
 > <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -582,9 +602,13 @@ III. El diseño y ejecución permanente de programas de formación y actualizaci
 
 Para permanecer en el Instituto como personal especializado en las funciones de verificación, se requiere:
 
-I. Participar en los programas de formación y actualización a que sean convocados, y aprobar los procesos de evaluación y los cursos respectivos, que a solicitud del Director General, determine la Escuela de Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
 
-II. Someterse y aprobar las evaluaciones del desempeño que a solicitud del Director General, determine la Escuela de Administración Pública del Distrito Federal, y
+I. Participar en los programas de formación y actualización a que sean convocados, y aprobar los procesos de evaluación y cursos respectivos, que a solicitud del Director General determine el Consejo General;
+
+> <small>(REFORMADA, G.O. 8 DE JULIO DE 2011)</small>
+
+II. Someterse y aprobar las evaluaciones del desempeño, que a solicitud del Director General determine el Consejo General;
 
 III. Someterse y aprobar las evaluaciones que se realicen para comprobar la conservación de los requisitos de ingreso.
 
@@ -649,3 +673,9 @@ Segundo.- Las menciones que en otras disposiciones se hagan de la Secretaria de 
 Tercero.- La Secretaria de Transportes y Vialidad pondrá a disposición del Instituto de Verificación Administrativa la plantilla de servidores públicos que tengan la calidad laboral de verificadores, sin que puedan afectar sus derechos y percepciones, siempre que estos aprueben la evaluación y cumplan con los requisitos establecidos en el articulo 28 de la Ley del Instituto de Verificación Administrativa del Distrito Federal.
 
 Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE JULIO DE 2011.
+
+Primero: Remítase al Jefe de Gobierno del Distrito Federal, para la publicación del presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+Segundo: Este Decreto entrará en vigor al día siguiente de su publicación en el (sic) la Gaceta Oficial del Distrito Federal.
