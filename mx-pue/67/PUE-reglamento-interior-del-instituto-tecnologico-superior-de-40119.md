@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-40119
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-30"
-last_updated: "2004-06-30"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEZIUTLAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE TEZIUTLAN, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 30 de junio de 2004.
 
@@ -414,3 +416,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
 Dado en las instalaciones del Instituto Tecnológico Superior de Zacapoaxtla, a los 17 días del mes de junio de 2004.- Presidente Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- CONTADOR PÚBLICO APOLONIO HERNÁNDEZ VERA.- Rúbrica.- Vocal Suplente, Representante del Gobierno del Estado en el Órgano de Gobierno.- LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- Vocales Suplentes, Representantes del Gobierno Federal en el Órgano de Gobierno.- DOCTOR SAMUEL HIDALGO ORELLANA.- Rúbrica.- PROFESORA LEONOR LUNA VARGAS.- Rúbrica.- Vocal Suplente, Representante del Gobierno Municipal en el Órgano de Gobierno.- PROFESOR FERNANDO DELGADILLO SALAZAR.- Rúbrica.- Vocal Propietario, Representante del Sector Productivo en el Órgano de Gobierno.- LICENCIADO ARMANDO GONZÁLEZ QUIROZ.- Rúbrica.- Comisario Público Suplente en el órgano de Gobierno.- LICENCIADO RAÚL LÓPEZ ROLDÁN.- Rúbrica.- Director General del Instituto Tecnológico Superior de Teziutlán.- INGENIERO ALBERTO SÁNCHEZ SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE JULIO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Teziutlán, publicado en el Periódico Oficial del Estado el día 30 de junio de 2004.
+
+TERCERO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
