@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-06-27"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2878,15 +2878,19 @@ III. Por sí o por interpósita persona, sustraiga, destruya, oculte, altere, ut
 
 IV. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas o a los lugres (sic), instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado; y
 
+> <small>(ADICIONADA, G.O. 8 DE JULIO DE 2011)</small>
+
+IV Bis. Teniendo la obligación de custodiar, vigilar y evitar el asentamiento humano en zonas dictaminadas como de alto riesgo, autorice, permita o tolere la existencia de los mismos.
+
 > <small>(ADICIONADA, G.O. 17 DE ENERO DE 2005)</small>
 
 V. Teniendo un empleo, cargo o comisión en los Centros de Reclusión del Distrito Federal, facilite o fomente en los centros de readaptación social y penitenciarías la introducción, uso, consumo, posesión o comercio de bebidas alcohólicas, sustancias psicotrópicas, así como de teléfonos celulares, radio localizadores o cualquier otro instrumento de comunicación radial o satelital para uso de los internos.
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de veinticinco a doscientos cincuenta días multa.
 
-> <small>(REFORMADO, G.O. 17 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 8 DE JULIO DE 2011)</small>
 
-Al que cometa alguno de los delitos a que se refieren las fracciones III, IV y V de este artículo, se le impondrán de dos a siete años de prisión y de cincuenta a quinientos días multa.
+Al que cometa alguno de los delitos a que se refieren las fracciones III, IV, IV Bis y V de este artículo, se le impondrán de dos a siete años de prisión y de veinticinco a doscientos cincuenta días multa.
 
 ###### ARTÍCULO 260.
 
@@ -2954,9 +2958,9 @@ II. El servidor público que teniendo a su cargo fondos públicos, les dé una a
 
 Al que cometa el delito de uso ilegal de atribuciones y facultades, se le impondrán de tres meses a dos años de prisión y de quinientos a mil días multa.
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+Si la conducta que se señala en la fracción II se hiciere en perjuicio de la protección de la vida, bienes y entorno de la población, la pena será de tres a siete años de prisión y de mil a diez mil días multa.
 
 > <small>(REFORMADO, G.O. 9 DE JUNIO DE 2006)</small>
 
@@ -4591,3 +4595,9 @@ SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difus
 TERCERO.- Una vez entrado (sic) en vigor las presentes reformas háganse las modificaciones necesarias a los reglamentos de las leyes en que se llevan a cabo las referidas reformas y adiciones.
 
 CUARTO.- El Gobierno del Distrito Federal y los gobiernos delegacionales, llevarán a cabo una campaña de difusión intensa tanto en los medios publicitarios gratuitos a su disposición como en los medios impresos y electrónicos, para dar a conocer a la población el contenido del artículo 344 del Código Penal. Esta campaña dará comienzo al día siguiente de la publicación del presente Decreto.
+
+G.O. 8 DE JULIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
