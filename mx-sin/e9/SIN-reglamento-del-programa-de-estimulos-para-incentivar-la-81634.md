@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-programa-de-estimulos-para-incentivar-la-81634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2011-06-08"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DEL PROGRAMA DE ESTIMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de junio de 2011.
 
@@ -429,7 +429,9 @@ d) Desahogar su carga de trabajo con celeridad, oportunidad y calidad.
 
 Atendiendo la diversidad de funciones, jerarquía, grado de responsabilidad, carga de trabajo, complejidad y grado de litigiosidad de los asuntos, productividad, celeridad, calidad y oportunidad del trabajo, para la asignación de los estímulos se establecen los siguientes grupos y niveles:
 
-GRUPO 1. JUZGADORES
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO I. JUZGADORES
 
 A. NIVEL 1
 
@@ -447,9 +449,13 @@ B. NIVEL 2
 
 a) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 75 setenta y cinco asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1400 mil cuatrocientos acuerdos y 45 cuarenta y cinco sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
 
-b) Jueces en Materia Civil cuya carga de trabajo trimestral sea igual o superior a 300 trescientos asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 2400 dos mil cuatrocientos acuerdos y 75 setenta y cinco sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 400 cuatrocientos asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 3000 tres mil acuerdos y 200 doscientas sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
+b) Jueces en Materia Civil cuya carga de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos iniciados y 225 doscientos veinticinco asuntos terminados; haya emitido durante el periodo al menos 2300 dos mil trescientos acuerdos y 70 setenta sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+c) Jueces en Materia Familiar cuya carga de trabajo trimestral sea igual o superior a 400 cuatrocientos asuntos iniciados y 300 trescientos asuntos terminados; haya emitido durante el periodo al menos 3000 tres mil acuerdos y 200 doscientas sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
 
 d) Jueces Mixtos cuya carga de trabajo trimestral sea igual o superior a 250 doscientos cincuenta asuntos en materia civil y familiar y 50 cincuenta en materia penal iniciados e igual número de terminados; haya emitido durante el periodo al menos 1500 mil quinientos acuerdos en materia civil y familiar y 500 quinientos en la penal y 75 sentencias definitivas en la primera de las materias y 25 veinticinco en la segunda; de éstas no se le hayan revocado más del 10 diez por ciento.
 
@@ -463,13 +469,21 @@ h) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Del
 
 C. NIVEL 3
 
-a) Jueces Mixtos cuya carga de trabajo trimestral sea igual o superior a 200 doscientos asuntos en materia civil y familiar y 30 treinta en materia penal iniciados e igual número de terminados; hayan emitido durante el periodo al menos 1250 mil doscientos acuerdos (sic) en ambas materias y 75 sentencias definitivas en la primera de las materias y 15 quince en la segunda; de éstas no se le hayan revocado más del 10 diez por ciento.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+a) Jueces Mixtos cuya carga de trabajo trimestral sea igual o superior a 150 ciento cincuenta asuntos en materia civil, familiar y penal iniciados e igual número de terminados; hayan emitido durante el periodo al menos 900 novecientos acuerdos en todas las materias y 70 sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
 
 b) Juzgadores que durante el periodo hayan tenido una tasa de asuntos terminados y sentencias definitivas emitidas que sea superior al menos en 20 veinte por ciento respecto del número de asuntos terminados y sentencias emitidas en el mismo periodo del año anterior; de éstas no se le hayan revocado más del 10 diez por ciento.
 
 c) Jueces de Vigilancia de la Ejecución de las Consecuencias Jurídicas del Delito que no tengan su residencia en la capital del Estado, que atiendan y desahoguen su carga de trabajo oportunamente y se encuentren al día en la tramitación y diligenciación de los asuntos de su competencia.
 
-GRUPO 2. SECRETARIOS DE ESTUDIO Y CUENTA Y PROYECTISTAS
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+d) Jueces en Materia Penal cuya carga de trabajo trimestral sea igual o superior a 60 sesenta asuntos iniciados e igual número de terminados; haya emitido durante el periodo al menos 1200 mil doscientos acuerdos y 40 cuarenta sentencias definitivas; de éstas no se le hayan revocado más del 10 diez por ciento.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO II. SECRETARIOS DE ESTUDIO Y CUENTA Y PROYECTISTAS
 
 A) NIVEL 1
 
@@ -489,19 +503,27 @@ d) Secretarios de Estudio y Cuenta y Proyectistas en materia civil, cuya carga d
 
 e) Secretarios de Estudio y Cuenta y Proyectistas en materia familiar, cuya carga de trabajo durante el periodo sea igual o superior a 120 ciento veinte asuntos y presente oportunamente y le sean aprobados al menos 120 ciento veinte proyectos de sentencia definitiva.
 
-GRUPO 3. SECRETARIOS DE ACUERDOS
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO III. SECRETARIOS DE ACUERDOS
 
 A. NIVEL 1
 
 a) Secretarios que durante el periodo hayan actuado en al menos 120 ciento veinte audiencias y emitido al menos 500 quinientos acuerdos en materia penal o 1250 mil doscientos cincuenta en materia civil o familiar.
 
-b) Secretarios que durante el periodo hayan desahogado un número de audiencias y emitido un número de acuerdos que resulte superior en al menos el 30% treinta por ciento respecto del mismo periodo del año anterior.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+b) Secretarios que durante el periodo hayan desahogado un número de audiencias y emitido un número de acuerdos que resulte superior en al menos el 25% veinticinco por ciento respecto del mismo periodo del año anterior.
 
 B. NIVEL 2
 
-Secretarios que durante el periodo hayan desahogado un número de audiencias y emitido un número de acuerdos que resulte superior en al menos el 20% veinte por ciento respecto del mismo periodo del año anterior.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-GRUPO 4. ACTUARIOS
+Secretarios que durante el periodo hayan desahogado un número de audiencias y emitido un número de acuerdos que resulte superior en al menos el 15% quince por ciento respecto del mismo periodo del año anterior.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO IV. ACTUARIOS
 
 A. NIVEL 1
 
@@ -511,37 +533,55 @@ B. NIVEL 2
 
 Actuarios adscritos a Salas o Juzgados que realicen las notificaciones que se les asignen en apego estricto al plazo legal; en el orden que los recibieron y regresen los instructivos y expedientes en forma oportuna.
 
-GRUPO 5. PERSONAL DIRECTIVO, DE COORDINACIÓN O SUPERVISIÓN
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO V. PERSONAL DIRECTIVO, DE COORDINACIÓN O SUPERVISIÓN
+
+A) NIVEL 1
+
+Titulares de la Secretaría de Acuerdos y de la Oficialía Mayor del Supremo Tribunal de Justicia.
+
+B) NIVEL 2
+
+Personal Directivo de Coordinación o Supervisión, que obtenga en la evaluación nota sobresaliente en al menos 80% ochenta por ciento de los rubros y en ninguno sea calificado como insuficiente.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO VI. PERSONAL DE MANDOS MEDIOS
+
+NIVEL ÚNICO
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Personal que obtenga en la evaluación nota de sobresaliente en al menos el 80% ochenta por ciento de los rubros y en ninguno sea calificado como insuficiente.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO VII. PERSONAL DE APOYO TÉCNICO Y PROFESIONAL
 
 NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-GRUPO 6. PERSONAL DE MANDOS MEDIOS
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO VIII. PERSONAL DE APOYO TÉCNICO
 
 NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-GRUPO 7. PERSONAL DE APOYO TÉCNICO Y PROFESIONAL
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
+
+GRUPO IX. PERSONAL DE APOYO ADMINISTRATIVO
 
 NIVEL ÚNICO
 
 Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
 
-GRUPO 8. PERSONAL DE APOYO TÉCNICO
+> <small>(REFORMADA SU NUMERACION, P.O. 8 DE JULIO DE 2011)</small>
 
-NIVEL ÚNICO
-
-Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
-
-GRUPO 9. PERSONAL DE APOYO ADMINISTRATIVO
-
-NIVEL ÚNICO
-
-Personal que en la evaluación obtenga la nota de sobresaliente en al menos el 90% noventa por ciento de los rubros evaluados.
-
-GRUPO 10. PERSONAL DE APOYO GENERAL
+GRUPO X. PERSONAL DE APOYO GENERAL
 
 NIVEL ÚNICO
 
@@ -778,3 +818,9 @@ Presidente del Supremo Tribunal de Justicia
 LIC. RAFAEL RODRÍGUEZ OVALLE
 
 Secretario de Acuerdos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE JULIO DE 2011.
+
+ÚNICO.- El presente acuerdo entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Sinaloa".
