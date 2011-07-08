@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "2001-05-24"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -133,11 +133,15 @@ II.- No tener menos de treinta y cinco años de edad el día de su nombramiento;
 
 III.- Gozar de buena reputación, no ser militante de algún partido político, ni haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 9.
 
-El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará el Gobernador del Estado. Para la conformación de la terna, el Gobernador consultará, a través de la Secretaría de Gobierno, la opinión de los organismos y organizaciones a que se refiere el artículo 16, con toda la antelación necesaria para que la correspondiente propuesta se remita oportunamente al Congreso. Quien resulte electo rendirá la protesta de ley ante el Congreso y entre tanto esto acontezca, el presidente saliente continuará ejerciendo el cargo.
+El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará ante el Pleno la comisión especial o en su caso, la Comisión de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos que quede habilitada.
+
+Los candidatos surgirán de una auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como de entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación sólo participarán las organizaciones y organismos legítimamente constituidos.
+
+Para conformar la terna, la Comisión correspondiente, realizará un proceso de selección basado en la comparecencia de los candidatos. Quien resulte electo rendirá la protesta de ley que corresponde y entre tanto esto acontezca, el presidente saliente continuará ejerciendo el cargo.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DEL 2001)</small>
 
@@ -375,7 +379,7 @@ De lograrse una solución satisfactoria o el allanamiento del o de los responsab
 
 ###### ARTICULO 36.
 
-Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de dos requerimientos el quejoso no contesta, se enviará la queja al archivo por falta de interés del propio quejoso.
+Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de dos requerimientos el quejoso no constesta, se enviará la queja al archivo por falta de interés del propio quejoso.
 
 ###### ARTICULO 37.
 
@@ -588,3 +592,9 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 Tercero.- La auscultación para llevar a cabo la elección de los miembros del Consejo Consultivo se aplicará a partir del año 2004; en consecuencia, se faculta a la Comisión de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos para que, por los medios que considere pertinentes, se allegue los elementos necesarios para someter a la consideración del pleno del Congreso, antes del día 31 de mayo de 2001, un listado de personas que satisfagan a plenitud los requisitos para ser electos consejeros.
 
 Cuarto.- Por esta única ocasión, cinco de los consejeros ejercerán su encargo del año 2001 al 2004 y los restantes del año 2001 al 2006. La respectiva determinación se hará en la misma sesión, inmediatamente después de la elección, mediante el procedimiento de insaculación, correspondiendo a los cinco primeros insaculados el ejercer su cargo hasta el año 2004 y a los demás hasta el año 2006.
+
+P.O. 8 DE JULIO DE 2011.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
