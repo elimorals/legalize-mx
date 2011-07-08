@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-transporte-para-la-movilidad-61651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-29"
-last_updated: "2008-06-04"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de noviembre de 2006.
 
@@ -355,13 +355,29 @@ I. Taxi Metropolitano;
 
 II. Taxi Municipal no Metropolitano;
 
-III. Taxi Ejecutivo, y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-IV. Otras modalidades y tipos de servicio que determine la Agencia.
+III. Taxi Ejecutivo,
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+IV. Taxi para personas con discapacidad, y
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+V. Otras modalidades y tipos de servicio que determine la Agencia.
 
 ###### Artículo 22.
 
 El Servicio de Taxi Metropolitano es el que se presta en municipios conurbados del Área Metropolitana de Monterrey en automóviles de color verde con capacete blanco, cuatro puertas, taxímetro verificado por unidad de verificación autorizada por la Agencia, torreta de taxi, números de identificación, tarjeta de identificación del conductor y calcomanías oficiales, operando durante los años que la antigüedad del modelo de facturación del vehículo lo permita en los términos del Artículo 29 fracción V de la Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Previo acuerdo por escrito con la autoridad municipal correspondiente, la Agencia podrá autorizar que los vehículos que presten esta modalidad de servicio y tengan su base física en el territorio del municipio del que se trate, cuenten con determinados colores o con determinada identificación cromática o emblemática, que facilite en el ámbito territorial del municipio a su más fácil rastreo o localización, debiendo cumplir los vehículos con las especificaciones técnicas y características. Además deberán cumplir con los aditamentos y equipo.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Para los efectos del párrafo anterior, en los casos en que los vehículos no tengan una base física registrada en algún municipio, se considerará el domicilio del concesionario.
 
 ###### Artículo 23.
 
@@ -370,6 +386,12 @@ El Servicio de Taxi Municipal no Metropolitano es el que se presta en municipios
 ###### Artículo 24.
 
 El Servicio de Taxi Ejecutivo es el que se presta en automóviles de color blanco, cuatro puertas, taxímetro verificado por unidad de verificación autorizada por la Agencia y tarjeta de identificación del conductor; con modelos de hasta 2-dos años de antigüedad a la fecha de facturación de la unidad, equipados con aire acondicionado, con o sin torreta de taxi y contarán en su caso con emblema de la flotilla o empresa a la que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+###### Artículo 24 Bis.
+
+El Servicio de Taxi para personas con discapacidad es el que se presta en vehículos en colores que definirá la Agencia, equipados con rampas, así como con las especificaciones técnicas, ergonómicas y antropométricas que determine la Agencia y que sean adecuadas para las personas con discapacidad, aire acondicionado, torreta de taxi, con taxímetro verificado por unidad de verificación autorizada por la Agencia y tarjeta de identificación, números de identificación, tarjeta de identificación del conductor y calcomanías oficiales, operando durante los años que la antigüedad del modelo de facturación del vehículo lo permita en los términos del último párrafo del Artículo 29 fracción V de la Ley.
 
 ###### Artículo 25.
 
@@ -1714,3 +1736,7 @@ HOJA DE FIRMAS QUE CORRESPONDE AL REGLAMENTO DE LA LEY DE TRANSPORTE PARA LA MOV
 P.O. 4 DE JUNIO DE 2008.
 
 Único.- La vigencia del presente Decreto inicia a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2011.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
