@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-de-garcia-nuevo-leon-41801"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-15"
-last_updated: "2004-11-15"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DE GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de noviembre de 2004.
 
@@ -274,7 +274,7 @@ II. Tarjeta de circulación vigente original. En el caso de los autobuses de tra
 
 III. Calcomanía de placas y refrendo vigente;
 
-IV. Permiso provisional vigente al carecer de los anteriores requisitos, solo en el caso de vehículos de uso particular.
+IV. (DEROGADA, P.O. 8 DE JULIO DE 2011)
 
 Quedan exentos de esta obligación los vehículos al servicio de las fuerzas armadas del país, los cuales se identificarán mediante los colores oficiales y sus números de matrícula.
 
@@ -354,15 +354,7 @@ En caso de robo o extravió de placas, el propietario del vehículo deberá de h
 
 ###### ARTICULO 20.
 
-La Autoridad Municipal podrá expedir permisos para circular sin placas, en los casos siguientes:
-
-I. Cuando su propietario o conductor resida fuera del Municipio, y demuestre la necesidad de permanecer en la ciudad y la(s) placa(s) faltante(s) haya(n) sido robada(s), para lo cual deberá presentar constancia de aviso a la Autoridad Persecutoria del delito;
-
-II. Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas definitivas ante la Secretaría de Finanzas y Tesorería General del Estado;
-
-III. En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes fuera de ella y que requieran trasladarlos a su destino.
-
-Además de lo anterior, deberá presentar: factura y/o carta factura del vehículo, la baja correspondiente, comprobante de domicilio, su credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+(DEROGADO, P.O. 8 DE JULIO DE 2011)
 
 ###### ARTICULO 21.
 
@@ -398,9 +390,11 @@ III. Tipo de carga y productos.
 
 ### CAPITULO QUINTO. DEL EQUIPO Y REQUISITOS PARA LA CIRCULACIÓN Y EL ESTACIONAMIENTO DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 24.
 
-Todos los vehículos que transiten por la vía pública en el Municipio deberán tener en buen estado los dispositivos siguientes:
+Todos los vehículos que transiten por la vía pública en el municipio deberán cumplir con las siguientes obligaciones y/o prohibiciones y tener en buen estado los dispositivos siguientes:
 
 I. LLANTAS.- Los vehículos de cuatro o más ruedas, deberán traer una llanta de refacción, así como herramienta en buen estado para su cambio;
 
@@ -468,7 +462,11 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser de diseño original o un
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y una o varias torretas de color rojo, azul o ámbar, mismas que deberán ser audibles y visibles, respectivamente desde ciento cincuenta metros.
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos éstos deberán mantenerse limpios y libres de objetos o polarizado que impidan o limiten la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES Y PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente inastillable y sin roturas, los demás cristales deben de estar en buenas condiciones, todos estos deberán mantenerse limpios y libres de objetos o dispositivos pegados o adheridos a ellos así como de polarizado que impidan o limiten la visibilidad del conductor así como al interior del vehículo. Los vidrios entintados de fábrica si serán permitidos.
+
+Solo se permitirá aplicar recubrimientos transparentes sin ninguna tonalidad o color en los cristales distintos al parabrisas
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante;
 
@@ -550,7 +548,9 @@ V. Piezas del vehículo que no estén debidamente sujetas de tal forma que pueda
 
 VI. Sirena o aparatos que emitan sonidos semejantes a ella, torreta y/o luces estroboscópicas de cualquier color con excepción de los vehículos oficiales, de emergencia o especiales;
 
-VII. Artículos u objetos que impidan u obstaculicen la visibilidad del conductor;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VII. objetos o dispositivos de cualquier clase, polarizados pegado o adherido al parabrisas y/o cristales que impidan o limiten la visibilidad del conductor así como al interior del vehículo a excepción de aquellos vidrios entintados que vengan directamente de fabrica.
 
 VIII. Mofles directos, rotos o que emitan un ruido excesivo.
 
@@ -2144,19 +2144,23 @@ sistema de escape
 
 ruidoso o defectuoso 24 XII 5 a 8
 
-21 Circular con objetos que
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2011, PÁGINA 63.]</small>
 
-impiden visibilidad del
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-conductor 26 VII 3 a 5
+21 Circular con objetos o
 
-22 Circular con parabrisas
+dispositivos pegados o
 
-sombreado o carecer
+adheridos al parabrisas y/o
 
-de él 24 VIII 5 a 8
+cristales o polarizado de
 
-23 Circular con permiso
+los mismos. 26 VII 70 a 80
+
+24 VIII
+
+23 (SIC) Circular con permiso
 
 provisional vencido 10 IV 5 a 8
 
@@ -3383,3 +3387,11 @@ PRESIDENTE MUNICIPAL
 C. VIRGILIO OBREGÓN ARREDONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2011.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 28 DE JUNIO DE 2011, POR EL QUE SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN Y DEROGACIÓN AL REGLAMENTO DE TRÁNSITO Y VIALIDAD DE GARCÍA, NUEVO LEÓN".]
+
+ÚNICO: las presentes reformas por modificación y derogación del Reglamento de Vialidad y Tránsito del Municipio de García, Nuevo León, entraran en vigor el día Siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León; Publíquese también en la Pagina Web Oficial del Municipio www.garcia.gob.mx para su debida difusión
