@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICIO OFICIAL: 8 DE JULIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -237,9 +237,17 @@ La Auditoría Superior del Estado será responsable de manera subsidiaria de los
 
 ### Capítulo Segundo. Integración y Organización
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### Artículo 19.
 
-El Titular de la Auditoría Superior del Estado se denominará Auditor Superior del Estado, será nombrado por el Pleno del Congreso, a través de una terna, obteniendo el voto de las dos terceras partes de los miembros presentes de la Legislatura del Congreso del Estado, y será propuesta por la Gran Comisión y la Comisión de Fiscalización. Durará en su encargo siete años y podrá ser nombrado nuevamente para un período más, por una sola vez.
+El Titular de la Auditoría Superior del Estado se denominará Auditor Superior del Estado, será nombrado por el Pleno del Congreso, a través de una terna, obteniendo el voto de las dos terceras partes de los miembros presentes de la Legislatura del Congreso del Estado.
+
+El dictamen que contenga la terna a que se refiere el párrafo anterior, será emitido por la Comisión de Fiscalización respecto al cumplimiento de los requisitos establecidos en esta Ley para desempeñar el cargo de Auditor Superior del Estado, haciéndolo llegar a la Junta de Coordinación Política, quien hará la propuesta al Pleno del Congreso del Estado.
+
+El Auditor Superior del Estado durará en su encargo siete años y podrá ser nombrado nuevamente para un período más, por una sola vez.
+
+El Auditor Superior del Estado estará obligado a comparecer ante comisiones y en el Pleno del Congreso cada dos años para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término. El resultado de esta evaluación será considerado para solicitar la remoción del Auditor Superior del Estado en los términos abajo previstos.
 
 El Auditor Superior del Estado podrá ser removido con la misma votación requerida para su nombramiento, por las causas graves que esta Ley señala, o por las causas y conforme a los procedimientos previstos en el Título VI de la Constitución Política del Estado de Sinaloa, en lo conducente.
 
@@ -247,19 +255,29 @@ El Auditor Superior del Estado podrá ser removido con la misma votación requer
 
 La designación del Auditor Superior del Estado se sujetará al procedimiento siguiente:
 
-l. La Gran Comisión y la Comisión de Fiscalización formularán la convocatoria pública correspondiente a efecto de que, dentro del término de diez días contados a partir de la fecha de su publicación, organismos integrantes de los sectores empresarial, comercial, de servicios, agrupaciones de profesionistas, instituciones de educación superior, y ciudadanos presenten propuestas o autopropuestas para ocupar el cargo de Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-II. Concluido el plazo anterior y recibidas las propuestas, acompañadas con los requisitos y documentos qué señale la convocatoria, la Gran Comisión y la Comisión de Fiscalización, dentro de los cinco días siguientes, procederán a la revisión y análisis de las mismas;
+I. La Comisión de Fiscalización formulará la convocatoria pública correspondiente a efecto de que, dentro del término de diez días contados a partir de la fecha de su publicación, organismos integrantes de los sectores empresarial, comercial, de servicios, agrupaciones de profesionistas, instituciones de educación superior, y ciudadanos presenten propuestas o autopropuestas para ocupar el cargo de Auditor Superior del Estado;
 
-III. Del análisis de las propuestas los integrantes de las Comisiones entrevistarán a los candidatos, por separado, para la evaluación respectiva;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-IV. En un plazo que no deberá de exceder de cinco días, las Comisiones formularán su dictamen, a fin de proponer la terna que considere idónea y que el Pleno del Congreso proceda a la discusión, aprobación y votación para la designación del Auditor Superior del Estado.
+II. Concluido el plazo anterior y recibido (sic) las propuestas, acompañadas con los requisitos y documentos que señale la convocatoria, la Comisión de Fiscalización, dentro de los cinco días siguientes, procederá a la revisión y análisis de las mismas;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+III. Del análisis de las propuestas los integrantes de la Comisión de Fiscalización entrevistarán a los candidatos, por separado, para la evaluación respectiva;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+
+IV. En un plazo que no deberá de exceder de ocho días naturales contados a partir del término de la entrevista, la Comisión de Fiscalización formulará su dictamen, a fin de proponer la terna que considere idónea, lo anterior, a efecto de que la Junta de Coordinación Política agende en el orden del día de la sesión más próxima el asunto, y que el Pleno del Congreso proceda a la discusión, aprobación y votación para la designación del Auditor Superior del Estado.
 
 En caso de que ninguno de los candidatos propuestos en el dictamen haya obtenido la votación de las dos terceras partes de los miembros presentes en la sesión de la Legislatura, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en la terna del dictamen rechazado por el Pleno podrá participar de nuevo en el proceso de selección; y,
 
 V. La persona designada para ocupar el cargo de Auditor Superior del Estado, protestará su cargo ante el Pleno del Congreso del Estado.
 
-La Gran Comisión y la Comisión de Fiscalización, cuarenta y cinco días previos a la conclusión del periodo para el que fue electo el Auditor Superior del Estado, por acuerdo de la mayoría de sus integrantes, podrán proponer su nombramiento nuevamente para un periodo más, por una sola vez, en cuyo caso presentarán el dictamen correspondiente al Presidente de la Gran Comisión, a efecto de que por su conducto, sea sometido a consideración del Pleno, para su discusión y aprobación, en su caso.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+La Junta de Coordinación Política y la Comisión de Fiscalización, cuarenta y cinco días previos a la conclusión del período para el que fue electo el Auditor Superior del Estado, por acuerdo de la mayoría de sus integrantes, podrán proponer su nombramiento nuevamente para un período más, por una sola vez, en cuyo caso presentarán el dictamen correspondiente al Presidente de la Mesa Directiva, a efecto de que por su conducto, sea sometido a consideración del Pleno, para su discusión y aprobación, en su caso.
 
 De no aprobarse el dictamen señalado en el párrafo anterior, o por así acordarlo la Comisión de Fiscalización, se dará inicio al procedimiento de designación del Auditor Superior del Estado, previsto en el presente artículo. En este último supuesto quedarán a salvo los derechos del Auditor Superior para participar en el mismo.
 
@@ -273,7 +291,9 @@ II. No haber sido Secretario de Despacho, Procurador General de Justicia del Est
 
 III. Al momento de su designación, no tener parentesco por consanguinidad o afinidad hasta el tercer grado, con los Titulares de los Poderes o los Secretarios de Despacho; y,
 
-IV. Contar con experiencia mínima de cinco años anteriores a su nombramiento en materia de control, auditoría financiera y de responsabilidad.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+IV. Contar con experiencia mínima de diez años anteriores a su nombramiento en materia de control, auditoría financiera y de responsabilidad.
 
 ###### Artículo 22.
 
@@ -329,9 +349,13 @@ XXIII. Vigilar que quienes administren recursos públicos, hayan caucionado su m
 
 XXIV. Publicar y mantener actualizada la información pública de oficio, así como el resultado de su actuación fiscalizadora una vez que el Congreso apruebe los dictámenes;
 
-XXV. Solicitar ante las autoridades competentes el cobro de multas y sanciones pecuniarias que se impongan en los términos de esta Ley; y,
+XXV. Solicitar ante las autoridades competentes el cobro de multas y sanciones pecuniarias que se impongan en los términos de esta Ley; y, (sic)
 
-XXVI. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XXVI. Comparecer ante comisiones y en el Pleno del Congreso cada dos años para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término; y,
+
+XXVII. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -363,9 +387,17 @@ III. Incumplir la obligación de determinar los daños y perjuicios, y de fincar
 
 IV. Sustraer, destruir o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, así como divulgar la información que deba mantener en reserva con motivo del ejercicio de sus atribuciones;
 
-V. Incumplir injustificadamente con el programa anual de auditorías, visitas e inspecciones; y,
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-VI. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de estas circunstancias, conducirse con parcialidad en la revisión de las cuentas públicas y en los procedimientos de fiscalización e imposición de sanciones a que se refiere la presente Ley.
+V. Incumplir injustificadamente con el programa anual de auditorías, visitas e inspecciones;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VI. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de estas circunstancias, conducirse con parcialidad en la revisión de las cuentas públicas y en los procedimientos de fiscalización e imposición de sanciones a que se refiere la presente Ley; y,
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VII. Obtener una evaluación no satisfactoria en la comparecencia ante comisiones y en el Pleno del Congreso respecto de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término.
 
 Los servidores públicos de la Auditoría Superior del Estado, nombrados por el Auditor Superior, podrán ser removidos por éste, por las causas graves a que se refiere este artículo y las previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado, la Ley de los Trabajadores al Servicio del Estado, cuya aplicación sean de su competencia, o en el Reglamento Interior de la Auditoría Superior del Estado.
 
@@ -403,23 +435,73 @@ VIII. Conocer de las necesidades y requerimientos en materia de personal, equipo
 
 IX. Contratar despachos contables externos para la revisión y fiscalización de los recursos públicos que maneje, custodie, ejerza o administre la Auditoría Superior del Estado;
 
-X. Conocer de las irregularidades que se presenten en el funcionamiento de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+X. Conocer de las irregularidades que se presenten en el funcionamiento de la Auditoría Superior del Estado, analizarlas y desahogarlas haciendo del conocimiento del Pleno del Congreso del Estado las sanciones a que haya lugar;
 
 XI. Vigilar que el funcionamiento de la Auditoría Superior del Estado y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-XII. Conocer de las denuncias que se presenten en contra del Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-XIII. Presentar, conjuntamente con la Gran Comisión, al Pleno del Congreso del Estado el dictamen relativo a la terna para designar al Auditor Superior del Estado;
+XII. Conocer de las denuncias que se presenten en contra del Auditor Superior del Estado, analizarlas y desahogarlas haciendo del conocimiento del Pleno del Congreso del Estado las sanciones a que haya lugar;
 
-XIV. Conocer de las solicitudes de licencia y dictaminar en los casos de remoción del Auditor Superior del Estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-XV. Recibir el informe anual del Auditor Superior del Estado;
+XIII. Presentar, a través de la Junta de Coordinación Política, al Pleno del Congreso del Estado el dictamen relativo a la terna para designar al Auditor Superior del Estado;
 
-XVI. Conocer el programa de trabajo que anualmente deberá presentar el Auditor Superior del Estado, así como el proyecto de presupuesto de egresos a ejercerse;
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
 
-XVII. Una vez recibido el informe final, dar seguimiento y respuesta a las solicitudes de información que los diputados presenten; y recibir los documentos o información que los mismos deseen aportar para enriquecer el dictamen correspondiente; y,
+XIV. Realizar el dictamen correspondiente a la evaluación del desempeño, de las acciones y programas, así como de los resultados de las auditorías practicadas, bajo la gestión del Auditor Superior del Estado, de conformidad con la comparecencia establecida en el artículo 19 de esta Ley;
 
-XVIII. En general, todas las que deriven de esta Ley, de otras legislaciones aplicables y de las disposiciones generales y acuerdos que tome el Congreso del Estado.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XV. Emitir los reglamentos internos y demás disposiciones administrativas necesarias para el cumplimiento de sus funciones y de las unidades y áreas a su cargo;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+XVI. Conocer de las solicitudes de licencia y dictaminar en los casos de remoción del Auditor Superior del Estado;
+
+XVII. Recibir el informe anual del Auditor Superior del Estado;
+
+XVIII. Conocer y revisar el programa de trabajo que anualmente deberá presentar el Auditor Superior del Estado, así como el proyecto de presupuesto de egresos a ejercerse;
+
+XIX. Una vez recibido el informe final, dar seguimiento y respuesta a las solicitudes de información que los diputados presenten; y recibir los documentos o información que los mismos deseen aportar para enriquecer el dictamen correspondiente; y,
+
+XX. En general, todas las que deriven de esta Ley, de otras legislaciones aplicables y de las disposiciones generales y acuerdos que tome el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+###### Artículo 30 Bis.
+
+Para los efectos de la fracción XXII Bis B del artículo 43 de la Constitución Política del Estado de Sinaloa, la Comisión de Fiscalización contará con una Unidad Técnica de Evaluación encargada de auxiliarla en la vigilancia, evaluación y control del desempeño de la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Artículo 30 Bis A. La Unidad Técnica de Evaluación tendrá las siguientes atribuciones:
+
+l. Planear, programar y efectuar auditorías, inspecciones o visitas a las diversas áreas administrativas que integran la Auditoría Superior del Estado;
+
+II. Requerir a las unidades administrativas de la Auditoría Superior del Estado, la información necesaria para cumplir con sus atribuciones;
+
+III. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
+
+IV. A instancia de la Comisión de Fiscalización, podrá practicar auditorías para verificar el desempeño, el cumplimiento de los objetivos y metas de los programas anuales de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta;
+
+V. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
+
+VI. Proponer a la Comisión de Fiscalización, la emisión de reglamentos internos, lineamientos, circulares y demás disposiciones administrativas necesarias para el funcionamiento de la Unidad;
+
+VII. Conocer y desahogar, a instancia de la Comisión de Fiscalización, los procedimientos de responsabilidad administrativa a que haya lugar en los que incurran los servidores públicos de la Auditoría Superior del Estado;
+
+VIII. Implementar y supervisar, de forma permanente, procesos para el mejoramiento, modernización y certificación de los servicios prestados por la Auditoría Superior del Estado; y,
+
+IX. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Artículo 30 Bis B. El Titular de la Unidad Técnica de Evaluación, será propuesto por la Comisión de Fiscalización y designado por el Congreso del Estado, mediante el voto mayoritario de sus miembros presentes en la sesión respectiva, debiendo cumplir los requisitos que esta Ley establece para el Auditor Superior del Estado.
+
+El Titular de la Unidad Técnica de Evaluación durará en su cargo por un período de cuatro años, prorrogable por otro período del mismo término, previa aprobación del Pleno del Congreso.
 
 ###### Artículo 31.
 
@@ -863,7 +945,9 @@ Las sanciones pecuniarias que se finquen a los servidores públicos de los Poder
 
 Las indemnizaciones se establecerán en proporción a los daños y perjuicios patrimoniales causados o de acuerdo al beneficio económico obtenido.
 
-Las sanciones pecuniarias que se impongan, serán cuando menos igual al monto del daño o perjuicio causado o del beneficio obtenido y como máximo al triple de los mismos. Para la imposición de estas sanciones, se tomará en cuenta lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa en materia de sanciones administrativas.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Las sanciones pecuniarias que se impongan, serán cuando menos en una cantidad igual al monto del daño o perjuicio causado o del beneficio obtenido y como máximo al triple de los mismos. Para la imposición de estas sanciones, se tomará en cuenta lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, en materia de sanciones administrativas.
 
 ###### Artículo 89.
 
@@ -884,6 +968,14 @@ VI. Remitir los informes financieros en los plazos establecidos en la Constituci
 VII. Caucionar oportunamente el manejo de los recursos públicos; y,
 
 VIII. Realizar el gasto en base a los presupuestos de egresos en los términos en que hayan sido aprobados.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de que se deba atender el requerimiento respectivo, para lo cual deberá tomarse en cuenta su situación económica, la gravedad de la infracción cometida, el importe o monto del daño o perjuico (sic), y su nivel jerárquico.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
+
+No se impondrán las multas a que se refiere este artículo, cuando el incumplimiento por parte de los servidores públicos se derive de causas ajenas a su responsabilidad.
 
 ###### Artículo 90.
 
@@ -1182,3 +1274,31 @@ El Secretario de Administración y Finanzas
 Lic. Óscar J. Lara Aréchiga.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Auditoría Superior del Estado cuenta con diez días naturales para hacer las modificaciones correspondientes en el Reglamento Interior de la misma, contados a partir del día de inicio de su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos de lo establecido en el párrafo cuarto del artículo 19 de este Decreto, la Junta de Coordinación Política citará a comparecer ante comisiones al Auditor Superior del Estado en un plazo no mayor a quince días naturales posteriores al inicio de su vigencia.
+
+Respecto de la comparecencia ante el Pleno del Congreso, la Junta de Coordinación Política citará a una sesión secreta para el desahogo de la misma, dentro de los treinta días naturales posteriores al inicio de su vigencia.
+
+La bi-anualidad prevista para la comparecencia del titular de la Auditoría regirá a partir de enero de 2012.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio de las atribuciones que tiene conferidas la Unidad Técnica de Evaluación, el Congreso del Estado, en su presupuesto anual, deberá contemplar la suficiencia presupuestal para dotar los recursos humanos, financieros y materiales que correspondan al debido cumplimiento de sus atribuciones.
+
+###### ARTÍCULO QUINTO.
+
+Para efectos de lo anterior, la Comisión de Fiscalización, expedirá dentro de los 90 días siguientes, contados a partir de la entrada en vigencia del presente Decreto, el Reglamento Interior de la Unidad Técnica de Evaluación de la Auditoría Superior del Estado; cuya estructura y organización se realizará conforme a los principios de transparencia, austeridad, racionalidad y disciplina del gasto público.
