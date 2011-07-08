@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-proteccion-civil-para-el-distrito-47184
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2007-12-21"
+last_updated: "2011-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-12-15"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 23 de diciembre de 2005.
 
@@ -1085,3 +1085,31 @@ G.O. 21 DE DICIEMBRE DE 2007.
 Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Este decreto entrará en vigor al día siguiente hábil al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE JULIO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor el al (sic) día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se abroga la Ley de Protección Civil para el Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 23 de julio de 2002, así como el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005; debiendo observarse respecto a este último lo señalado en el Transitorio Séptimo de esta Ley; asimismo se deroga cualquier disposición que contravenga lo dispuesto por esta Ley.
+
+CUARTO.- El Reglamento, los términos de referencia y los lineamientos a los que hace referencia la Ley del Sistema de Protección Civil del Distrito Federal deberán ser publicados en la Gaceta oficial dentro de los 90 días naturales a la entrada en vigor de la presente ley.
+
+QUINTO.- La Secretaría de Finanzas, en el ámbito de sus atribuciones y en el término de 90 días naturales siguientes a la entrada en vigor de la presente Ley, informará a esta H. Asamblea las adecuaciones que se requieran en materia presupuestal para su atención.
+
+SEXTO.- Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los términos de referencia actualizados en base a lo estipulado de esta Ley, estarán vigentes en los términos y con la temporalidad autorizada por la autoridad.
+
+SÉPTIMO.- Hasta en tanto se publica el Reglamento y las disposiciones a las que se refiere el artículo tercero transitorio, estarán vigentes las actuales en lo que no se oponga a la presente Ley.
+
+OCTAVO.- Los registros vigentes de Terceros Acreditados mantendrán tal condición a partir de la entrada en vigor de esta Ley y hasta que se cumpla alguno de los supuestos de los artículos 144 y 145.
+
+NOVENO.- La Secretaría entregará a los Órganos Político Administrativos los padrones a los que hace referencia esta ley, en un término no mayor a 60 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO.- La publicación en los portales institucionales de los padrones a los que hace referencia la presente ley, deberá hacerse en un periodo no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO PRIMERO.- Las obligaciones de capacitación a los (sic) que hace referencia la presente Ley serán exigibles a partir del año 2012.
+
+DÉCIMO SEGUNDO.- La Secretaría contará con un término de 60 días naturales posteriores a la entrada en vigor de la presente ley para integrar y presentar, en los términos de esta ley, la propuesta de integración de los Centros Operativos Regionales, así como lo correspondiente a los lineamientos técnicos operativos para la elaboración de los Atlas Delegacionales.
+
+DÉCIMO TERCERO.- La Secretaría y los Órganos Político Administrativos del Distrito Federal realizarán las adecuaciones necesarias en la estructura orgánica para dar cumplimiento a la conformación que establece la presente Ley, en un término no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
