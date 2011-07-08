@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2011-04-13"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -1472,6 +1472,10 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2011)</small>
+
+Las instituciones que se rijan por la Ley de Instituciones de Beneficencia Privada para el Estado de Veracruz de Ignacio de la Llave, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de las instalaciones donde operen y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
 A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
 
@@ -6282,3 +6286,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Para efectos de lo dispuesto en el Artículo Tercero del presente Decreto, las modificaciones aprobadas serán aplicables a los Códigos Hacendarios Municipales de orden específico de los diversos municipios del Estado, a pesar de las disposiciones en contrario que en éstos existan.
+
+G.O. 8 DE JULIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Congreso del Estado, dentro de los noventa días naturales a partir del inicio de la vigencia de este Decreto, adecuará a éste las disposiciones correspondientes de los Códigos Hacendarios de los Municipios de Alvarado, Córdoba, Boca del Río, Coatepec, Coatzacoalcos, Cosoleacaque, Emiliano Zapata, Medellín, Minatitlán, Orizaba, Tierra Blanca, Veracruz y Xalapa.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
