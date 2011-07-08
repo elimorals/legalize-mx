@@ -1,0 +1,1959 @@
+---
+title: "LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL"
+identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-82130"
+country: "mx"
+rank: "ley"
+publication_date: "2011-07-08"
+last_updated: "2011-07-08"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82130&Vig=1&TPub=6"
+department: "Gaceta Oficial de la Ciudad de México"
+jurisdiction: "mx-cmx"
+scjn_id: "82130"
+scjn_status: "ABROGADO (A)"
+gazette: "Gaceta Oficial de la Ciudad de México"
+original_category: "LEY"
+original_gazette_section: "G.O. 1134"
+reform_count: "3"
+scjn_last_update: "2014-11-28"
+issue_date: "2011-07-06"
+---
+# LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
+
+LEY DEL SISTEMA DE PROTECCION CIVIL DEL DISTRITO FEDERAL
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 8 de julio de 2011.
+
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
+
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura, se ha servido dirigirme el siguiente:
+
+DECRETO
+
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
+
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+V LEGISLATURA.
+
+D E C R E T A
+
+DECRETO POR EL QUE SE EXPIDE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
+
+###### ARTÍCULO PRIMERO
+
+Se expide la Ley del Sistema de Protección Civil del Distrito Federal y se abroga la Ley de Protección Civil para el Distrito Federal, quedando como sigue:
+
+LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
+
+## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés general y tiene por objeto regular la integración, organización, coordinación y funcionamiento del Sistema de Protección Civil del Distrito Federal, así como establecer las obligaciones del gobierno y los derechos y obligaciones de los particulares, en la aplicación de los mecanismos y medidas de prevención, auxilio y recuperación para la salvaguarda de las personas, sus bienes, el entorno y el funcionamiento de los servicios vitales y sistemas estratégicos ante la eventualidad de una emergencia, siniestro o desastre.
+
+###### Artículo 2.
+
+La función de protección civil está a cargo del Sistema de Protección Civil del Distrito Federal, y tiene como fin primordial salvaguardar la vida, bienes y entorno de la población, así como mitigar los efectos destructivos que los fenómenos perturbadores pueden ocasionar a la estructura de los servicios vitales y los sistemas estratégicos de la Ciudad de México.
+
+###### Artículo 3.
+
+El Sistema de Protección Civil contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios necesarios para velar por el cumplimiento de los fines de la materia.
+
+###### Artículo 4.
+
+El funcionamiento del Sistema de Protección Civil, así como la aplicación de la presente Ley, su Reglamento, la aplicación de los Programas y lineamientos de la materia, corresponde al Jefe de Gobierno del Distrito Federal, a la Secretaría de Protección Civil y a las Delegaciones, en su respectivo ámbito de competencia y por conducto de las autoridades que determine la Ley Orgánica de la Administración Pública del Distrito Federal, su Reglamento y esta Ley, en un marco de coordinación y respeto de sus atribuciones.
+
+###### Artículo 5.
+
+Las acciones operativas a que hace referencia la Ley, se consideran urgentes y prioritarias; siendo obligación y responsabilidad del Sistema de Protección Civil, a través de los órganos designados para tal efecto: ejecutar, vigilar, evaluar y en su caso sancionar el incumplimiento.
+
+###### Artículo 6.
+
+Las políticas de la materia de protección civil, se ajustarán a los lineamientos establecidos en el Programa General de Protección Civil y privilegiarán las acciones de difusión y capacitación de la población en lo correspondiente a las medidas de prevención, así como la realización de obras de mitigación para hacer frente a los fenómenos perturbadores que generen un riesgo, priorizando las zonas de mayor vulnerabilidad establecidas en los instrumentos de diagnóstico.
+
+###### Artículo 7.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Atlas Delegacional.- El Atlas de Peligros y Riesgos de cada una de las Delegaciones, que integran el sistema de información que identifica los diferentes riesgos a que está expuesta la población, sus bienes y entorno, así como los servicios vitales y los sistemas estratégicos establecidos en la demarcación.
+
+II. Atlas de Peligros y Riesgos: El Atlas de Peligros y Riesgos del Distrito Federal, instrumento de diagnóstico que conjunta la información de los Atlas Delegacionales para integrar, a través de bases de datos de información geográfica y herramientas para el análisis, el sistema de información que identifica los diferentes riesgos a que está expuesta la población, los bienes y entorno, así como los servicios vitales y los sistemas estratégicos del Distrito Federal.
+
+III. Auxilio: Conjunto de actividades de ayuda y apoyo destinadas primordialmente a salvaguardar la vida, la salud y la integridad física de las personas, la protección de los bienes de la población y de la planta productiva; así como la preservación de los servicios públicos ante la presencia de fenómenos naturales o antropogénicos que ocasionen una o más emergencias o desastres.
+
+IV. Brigadas: Grupos de brigadistas coordinados por las autoridades que aplican sus conocimientos para implementar las medidas de protección civil en un lugar determinado.
+
+V. Brigadista: Persona física que desarrolla actividades de prevención, auxilio y recuperación, previa capacitación y certificación de la autoridad competente.
+
+VI. Capacitación: Conjunto de procesos organizados dirigidos a iniciar, prolongar y complementar los conocimientos de los operativos, coadyuvantes y destinatarios del Sistema de Protección Civil mediante la generación de conocimientos, el desarrollo de habilidades y el cambio de actitudes, con el fin de incrementar la capacidad individual y colectiva para contribuir al cumplimiento de los fines de la protección civil, a la mejor prestación de servicios a la comunidad, al eficaz desempeño del cargo y al desarrollo personal integral.
+
+VII. Carta de Corresponsabilidad: Documento expedido por el tercero acreditado que elabora un Programa Interno o Especial de Protección Civil, para solicitar su aprobación y revalidación, en el que se responsabiliza solidariamente, con la persona física o moral que solicitó su elaboración, del funcionamiento y aplicación del programa elaborado.
+
+VIII. Carta de Responsabilidad: Documento expedido por los obligados a contar con un Programa Interno o Especial de Protección Civil, en el que se obligan a cumplir con las actividades establecidas en dichos programas, responsabilizándose de su incumplimiento.
+
+IX. Consejo Delegacional: El Consejo de Protección Civil Delegacional. Órgano asesor del Sistema de Protección Civil que coordina a las autoridades delegacionales, a representantes del Gobierno del Distrito Federal y de la sociedad civil para velar por la operación de protección civil y sus objetivos en el ámbito delegacional.
+
+X. Consejo de Protección Civil: El Consejo de Protección Civil del Distrito Federal, máximo órgano asesor del Sistema de Protección Civil del Distrito Federal, integrado de forma multidisciplinaria e interinstitucional con autoridades del Distrito Federal, con la participación de organizaciones civiles e instituciones científicas, académicas y profesionales, para velar por la operación de Protección Civil y sus objetivos en el Distrito Federal.
+
+XI. Comité de Emergencias: Al Comité de Emergencias de Protección Civil del Distrito Federal, órgano encargado de la coordinación de acciones y toma de desiciones (sic) en situaciones de emergencia y desastre ocasionadas por la ocurrencia de fenómenos perturbadores, activado a través de la declaratoria de emergencia o la declaratoria de desastre.
+
+XII. Comité de Usuarios del Subsuelo: Órgano consultivo, de apoyo y de coordinación interinstitucional en materia de Protección Civil entre el Gobierno del Distrito Federal, por conducto de la Secretaría de Protección Civil, las dependencias y entidades de la Administración Pública del Distrito Federal y Federal, así como de la iniciativa privada; responsables de la operación de los servicios vitales y sistemas estratégicos que se alojan en el subsuelo del Distrito Federal.
+
+XIII. Declaratoria de Desastre: Acto mediante el cual el Gobierno del Distrito Federal, reconoce que uno o varios fenómenos perturbadores han causado daños que rebasan la capacidad de recuperación de las Delegaciones.
+
+XIV. Declaratoria de Emergencia: Reconocimiento por parte del Gobierno del Distrito Federal de que existe riesgo inminente a que ocurra un desastre que ponga en riesgo la vida humana, el patrimonio de la población, los servicios vitales o los servicios estratégicos; por lo que la actuación expedita del Sistema de Protección Civil se vuelve esencial para evitar la ocurrencia.
+
+XV. Delegaciones: Se refiere a los Órganos político administrativos del Distrito Federal.
+
+XVI. Desastre: Situación en el que la población de una o más Delegaciones, sufre daños no resarcibles o controlables por una sola delegación, derivado del impacto de un fenómeno perturbador que provoca el menoscabo de vidas, bienes o entorno, causando afectaciones en el ambiente, en la estructura productiva, en infraestructura de los servicios vitales o los sistemas estratégicos de la Ciudad que impiden el funcionamiento de los sistemas de subsistencia de manera tal que se alteran las condiciones ordinarias de vida y se pone en riesgo la estructura social, la paz pública y el orden social.
+
+XVII. Emergencia: Situación anormal generada por la inminencia o la presencia de un fenómeno perturbador que altera o ponen en peligro la continuidad de las condiciones ordinarias de vida de la población o el funcionamiento normal de los servicios vitales o los sistemas estratégicos y de no atenderse puede generar un desastre.
+
+XVIII. Evacuación: Medida de seguridad que consiste en el alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población, de manera individual o en grupos, considerando, entre otros aspectos, el desarrollo de las misiones de salvamento, socorro y asistencia social; los medios, los itinerarios y las zonas de concentración y destino, la documentación del transporte para los niños; las instrucciones sobre el equipo familiar; además del esquema de regreso a sus hogares una vez superada la situación de emergencia.
+
+XIX. Fenómenos Perturbadores: Fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico y socio-organizativo que producen un riesgo que implica la posibilidad de generar una o más emergencias o desastres.
+
+XX. Fenómeno Geológico: Agente de carácter natural, catalogado como fenómeno perturbador, que tiene como causa las acciones y movimientos de la corteza terrestre.
+
+XXI. Fenómeno Hidrometeorológico: Agente de carácter natural, catalogado como fenómeno perturbador, que se genera por el impacto de situaciones atmosféricas.
+
+XXII. Fenómeno Químico-Tecnológico: Agente de carácter natural o antropogénico, catalogado como fenómeno perturbador, que se genera por la acción de sustancias derivadas de la acción molecular o nuclear.
+
+XXIII. Fenómeno sanitario-ecológico: Agente de carácter natural o antropogénico, catalogado como fenómeno perturbador que se genera por la acción patógena de agentes biológicos que atacan a la población, causando la alteración de su salud.
+
+XXIV. Fenómeno socio-organizativo: Agente de carácter antropogénico, catalogado como fenómeno perturbador, que se genera por la interacción de los individuos con otros y/o el entorno, motivado por errores humanos o acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población.
+
+XXV. Fideicomiso del FADE: Instrumento que se integra con los recursos presupuestales remanentes, provenientes de los ejercicios financieros anuales del FADE.
+
+XXVI. FIPDE: Fideicomiso Preventivo de Desastres, instrumento financiero operado por el Gobierno del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones preventivas de carácter urgente, surgidas de momento a momento, para evitar afectaciones a la vida y patrimonio de la población o la estructura de la Ciudad ante la inminente ocurrencia de fenómenos perturbadores.
+
+XXVII. FADE: Fondo de Atención a Desastres y Emergencias, instrumento operado por el Gobierno del Distrito Federal, activado mediante las declaratorias de emergencia y desastre, en los términos de esta ley y las Reglas de Operación para el otorgamiento de suministros de auxilio y asistencia por la ocurrencia de fenómenos perturbadores y la recuperación de los daños causados por los mismos.
+
+XXVIII. FOPDE: Fondo de Prevención de Desastres, instrumento financiero operado por Gobierno (sic) del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones programadas de carácter preventivo para mitigar los efectos causados por la posible ocurrencia de fenómenos perturbadores.
+
+XXIX. Instrumentos de la Protección Civil: Herramientas e información utilizadas en la prevención del desastre y protección civil, empleadas por el Sistema, con el fin de alcanzar los objetivos de protección de la vida, bienes y entorno de la población.
+
+XXX. Instrumentos de Diagnóstico: Instrumentos elaborados por las autoridades o los particulares acreditados para tal efecto que conjuntan, exponen y asocian la probabilidad y características de los fenómenos perturbadores que pueden ocurrir y tener consecuencias de desastre, determinando la forma en que estos inciden en los asentamientos humanos, en la infraestructura y el entorno, a partir del estudio de un lugar determinado.
+
+XXXI. Jefe de Gobierno: A la o el Jefe de Gobierno del Distrito Federal.
+
+XXXII. Jefes Delegacionales: A las o los Titulares de los Órganos político administrativos del Distrito Federal.
+
+XXXIII. Ley: Ley del Sistema de Protección Civil del Distrito Federal.
+
+XXXIV. Mitigación: Acciones realizadas con el objetivo de disminuir la vulnerabilidad de uno o varios lugares ante la posibilidad de ocurrencia de un fenómeno perturbador.
+
+XXXV. Norma Técnica: Conjunto de reglas científicas o tecnológicas de carácter obligatorio para el Distrito Federal, en las que se establecen los requisitos, especificaciones, parámetros y límites permisibles que deberán observarse en la aplicación de los proyectos y programas, así como en el desarrollo de actividades o en el uso y destino de bienes que incrementen o tiendan a incrementar los niveles de riesgo. Son complemento de los reglamentos.
+
+XXXVI. Organizaciones Civiles: Asociaciones de personas legalmente constituidas y registradas, cuyo objeto social se vincula a la protección civil.
+
+XXXVII. Peligro: Probabilidad de la ocurrencia de un fenómeno perturbador potencialmente destructivo de cierta intensidad que puede afectar en un lugar.
+
+XXXVIII. Plan Permanente Ante Contingencias: Instrumento preventivo del Sistema de Protección Civil, aprobado en el Pleno del Consejo y elaborado a partir del diagnóstico de la materia, en el que se determinan las acciones y los responsables de ejecutarlas, a partir de la inminencia o presencia de los diferentes fenómenos perturbadores que representan un riesgo para la población, los sistemas estratégicos o los servicios vitales.
+
+XXXIX. Plan Ante Contingencias Delegacional: Instrumento preventivo del Sistema de Protección Civil en el ámbito Delegacional, derivado del Plan Permanente Ante Contingencias, aprobado en el Pleno del Consejo Delegacional y elaborado a partir del diagnóstico de la materia, en el que se determinan las acciones Delegacionales y los responsables de ejecutarlas, a partir de la inminencia o presencia de los diferentes fenómenos perturbadores que representan un riesgo.
+
+XL. Prevención: Conjunto de acciones, planes y mecanismos de mitigación y preparación implementados con anticipación a la emergencia o desastre, tendientes a enfrentar, identificar, reducir, asumir, mitigar y transferir riesgos, así como evitar o disminuir los efectos destructivos de los fenómenos perturbadores sobre la vida, bienes y entorno de la población, así como los servicios estratégicos, los sistemas vitales y la planta productiva.
+
+XLI. Programa Delegacional de Protección Civil: Instrumento de planeación, elaborado a partir del Atlas Delegacional, en el marco del Programa General de Protección Civil del Distrito Federal, para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de fenómenos perturbadores en la población, sus bienes y entorno en el ámbito territorial de cada Delegación.
+
+XLII. Programa Especial de Protección Civil: Instrumento de planeación en cuyo contenido se establecen las medidas de prevención y reacción ante los problemas específicos derivados de actividades, eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, que conllevan un nivel elevado de riesgo.
+
+XLIII. Programa Institucional: Al Programa Institucional de Protección Civil, elaborado, implementado y operado obligatoriamente por las Dependencias, Organismos Descentralizados y Delegaciones cuando organicen, promuevan o produzcan actividades, eventos o espectáculos de afluencia masiva llevadas a cabo en áreas o inmuebles diferentes a su uso habitual.
+
+XLIV. Programa Interno de Protección Civil: Instrumento de planeación que se implementa con la finalidad de determinar las acciones de prevención, auxilio y recuperación, destinadas a salvaguardar la integridad física de las personas que habitan, laboran o concurren a determinados inmuebles, así como para proteger las instalaciones, bienes, entorno e información, ante la ocurrencia de fenómenos perturbadores.
+
+XLV. Programa General de Protección Civil del Distrito Federal: Instrumento de planeación, elaborado a partir del Atlas de Peligros y Riesgos, en el marco del Programa Nacional de Protección Civil, la Ley y la Ley de Planeación del Desarrollo del Distrito Federal, para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de fenómenos perturbadores en la población, sus bienes y entorno. A través de éste instrumento se determinan responsabilidades específicas por caso determinado, estableciendo objetivos, políticas, estrategias, líneas de acción y recursos necesarios para llevarlo a cabo.
+
+XLVI. Protección Civil: Conjunto de disposiciones, planes, programas, medidas y acciones, destinados a salvaguardar la vida y proteger los bienes y entorno de la población, incluyendo su participación con las autoridades en acciones de prevención, auxilio y recuperación ante la presencia de fenómenos perturbadores de origen natural o antropogénico que representen un riesgo.
+
+XLVII. Reglamento: Reglamento de la Ley del Sistema de Protección Civil del Distrito Federal.
+
+XLVIII. Riesgo: Probabilidad medida de que la ocurrencia de un fenómeno perturbador produzca daños en uno o varios lugares que afecten la vida, bienes o entorno de la población.
+
+XLIX. Riesgo Inminente: Riesgo cuya probabilidad de daño se encuentra en desarrollo.
+
+L. Secretaría: A la Secretaría de Protección Civil del Distrito Federal.
+
+LI. Servicios Vitales: Elemento o conjunto de elementos indispensables para el desarrollo de las condiciones ordinarias de vida de la sociedad en el Distrito Federal.
+
+LII. Simulacro: Ejercicio para la toma de decisiones y adiestramiento en protección civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre, para promover una coordinación más efectiva de respuesta, por parte de las autoridades y la población. Estos ejercicios deberán ser evaluados para su mejoramiento.
+
+LIII. Siniestro: Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre.
+
+LIV. Sistema de Protección Civil: Al Sistema de Protección Civil del Distrito Federal, conjunto orgánico, articulado y jerarquizado de relaciones funcionales entre las autoridades del Distrito Federal y la sociedad civil, para efectuar acciones coordinadas que coadyuven a la prevención, atención y recuperación de posibles daños causados a la vida, los bienes y entorno de la población por la presencia de un agente perturbador.
+
+LV. Sistemas estratégicos: Estructura gubernamental de trascendencia prioritaria que tiene como objetivo mantener la paz pública a través del resguardo u operación de servicios o información y elementos indispensables para convivir en un estado de derecho.
+
+LVI. Sustancias y Materiales Peligrosos: Todo (sic) aquella sustancia o material que por sus características: corrosivas, reactivas, explosivas, tóxicas, radioactivas o biológico-infecciosas pueden provocar daños en la vida, o salud de las personas;
+
+LVII. Terceros Acreditados: Personas físicas y morales registradas y autorizadas por la Secretaría para elaborar Programas de Protección Civil, impartir capacitación y realizar estudios de riesgo-vulnerabilidad, así como proporcionar servicios de consultoría y asesoría en la materia;
+
+LVIII. Términos de Referencia: Guía técnica única para la elaboración de los Programas Internos, Especiales e Institucionales de Protección Civil;
+
+LIX. Unidad de Protección Civil: Unidades operativas del Sistema de Protección Civil, adscritas a las Delegaciones, responsables de ejecutar las políticas y acuerdos del Sistema de Protección Civil, así como de elaborar, desarrollar y operar los programas de la materia en el ámbito de su competencia;
+
+LX. Vulnerabilidad: Característica de una persona o grupo desde el punto de vista de su capacidad para anticipar, sobrevivir, resistir y recuperarse del impacto de calamidades ocasionadas por un riesgo, y
+
+LXI. Zona de Desastre: Espacio territorial determinado en el tiempo y en el espacio por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento de las actividades esenciales de la comunidad;
+
+## TÍTULO SEGUNDO. DE LOS INTEGRANTES DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
+
+### CAPÍTULO I. DE LAS ATRIBUCIONES
+
+###### Artículo 8.
+
+El Sistema de Protección Civil se integrará por:
+
+I. El Jefe de Gobierno, quien será Titular del Sistema;
+
+II. La Secretaría, quien será Coordinador General;
+
+III. Las Delegaciones;
+
+IV. El Consejo de Protección Civil;
+
+V. Los Consejos Delegacionales;
+
+VI. En general, las Dependencias, Unidades Administrativas, órganos desconcentrados y organismos descentralizados del Distrito Federal, así como la participación que corresponda a las dependencias y entidades de la Administración Pública Federal.
+
+Las instituciones públicas, organizaciones privadas, civiles y académicas cuyo objeto se vincule a la materia de protección civil, participarán de manera permanente en el Sistema de Protección Civil en los términos de esta Ley.
+
+La participación de los medios de Comunicación masiva, electrónicos y escritos, se realizará por invitación del Titular del Sistema, en el marco de la legislación vigente y los convenios que al efecto se suscriban.
+
+###### Artículo 9.
+
+El objetivo del Sistema de Protección Civil es salvaguardar a las personas ante la eventualidad de una emergencia o un desastre provocado por cualquiera de los fenómenos perturbadores a través de acciones que prevengan, reduzcan o eliminen la posibilidad de que la ocurrencia de los mismos genere afectación:
+
+I. A la integridad física o la pérdida de vidas;
+
+II. De los servicios vitales o de los sistemas estratégicos;
+
+III. En el patrimonio o entorno de la población;
+
+IV. En la prestación de servicios básicos;
+
+V. En el desarrollo de las actividades económicas.
+
+###### Artículo 10.
+
+Los programas, medidas y acciones de los integrantes del Sistema, sin excepción, tomarán en cuenta en cada etapa, las condiciones de vulnerabilidad de los niños, mujeres, adultos mayores, personas con discapacidad y en general a los grupos vulnerables frente a los desastres
+
+###### Artículo 11.
+
+Las políticas, lineamientos y acciones de coordinación entre el Distrito Federal y las Delegaciones se llevarán a cabo con una visión metropolitana, mediante la suscripción de convenios de coordinación, con base en los acuerdos y resoluciones que se tomen en el Consejo y en las demás instancias de coordinación en estricto respeto de la autonomía del Distrito Federal y las Delegaciones, sin perjuicio del cumplimiento de las obligaciones estipuladas en otra legislación aplicable.
+
+Los convenios de coordinación incluirán en su contenido las acciones a realizar, los responsables de ejecutarlas y, en su caso, las aportaciones financieras de los obligados para la prevención y atención de emergencias o desastres.
+
+###### Artículo 12.
+
+El Jefe de Gobierno y los Jefes Delegacionales observarán la instalación, operación y funcionamiento del Consejo y de los Consejos Delegacionales.
+
+###### Artículo 13.
+
+La Secretaría calificará los daños y perjuicios generados a los fines de la protección civil por omisiones en la operación de los Consejos y otras estructuras del Sistema.
+
+###### Artículo 14.
+
+Corresponde al Jefe de Gobierno:
+
+I. Ser Titular del Sistema de Protección Civil, correspondiéndole originalmente las facultades establecidas en la Ley, delegando dichas funciones en los servidores públicos a los que se hace referencia.
+
+II. Establecer las políticas públicas a seguir en las materias de prevención del desastre y protección civil para el Distrito Federal.
+
+III. Constituir los fondos, fideicomisos, instrumentos, contratos y figuras análogas a que se refiere la Ley o que resulten necesarias para su correcta aplicación;
+
+IV. Dictar los lineamientos generales para promover, coordinar y conducir las labores de protección civil en el Distrito Federal.
+
+V. Promover y facilitar la participación de los diversos sectores y grupos de la sociedad en acciones de protección civil.
+
+VI. Incluir en el proyecto de Presupuesto de Egresos del Distrito Federal, los recursos financieros necesarios para las acciones de protección civil, precisando los montos que para la prevención, el auxilio y la recuperación sean necesarios, así como disponer de la utilización y destino de los mismos, con arreglo a lo previsto en las disposiciones de la materia;
+
+VII. Incluir en el proyecto de Presupuesto de Egresos del Distrito Federal, los recursos necesarios para la óptima operación del FADE y del FOPDE, estableciendo los montos para la operación de cada uno conforme a las disposiciones aplicables.
+
+VIII. Disponer la utilización y destino de los recursos del FADE, FOPDE Y FIPDE con arreglo a la regulación que al respecto se emita.
+
+IX. Actualizar, en el ámbito de su competencia, los instrumentos de protección civil.
+
+X. Aprobar y expedir el Programa General de Protección Civil del Distrito Federal.
+
+XI. Resolver, y en su caso emitir, a solicitud de la Secretaría o de los Jefes Delegacionales, las declaratorias de emergencia o desastre del Distrito Federal, informando al Consejo sobre las consideraciones que motivaron la expedición o el rechazo, así como el destino de los recursos erogados con cargo a los fondos, sin perjuicio de los informes que tengan que rendirse a los órganos de vigilancia y control del presupuesto en términos de la legislación vigente;
+
+XII. Solicitar al Titular del Poder Ejecutivo Federal la emisión de la declaratoria de emergencia o de desastre, con arreglo a lo establecido en la Ley General de Protección Civil y demás normatividad aplicable.
+
+XIII. Generar las acciones que vinculen y coordinen el Sistema de Protección Civil con los correspondientes Sistemas de las Entidades Federativas, privilegiando aquellas que impacten de manera directa o indirecta los fines de la protección civil del Distrito Federal.
+
+XIV. Generar las acciones que vinculen y coordinen el Sistema de Protección Civil con el Sistema Nacional de Protección Civil.
+
+XV. Establecer convenios o acuerdos de coordinación y colaboración administrativa con otras Entidades Federativas que amplíen el alcance del Sistema de Protección Civil.
+
+XVI. Presidir, constituir y observar las condiciones para el adecuado funcionamiento del Consejo de Protección Civil.
+
+XVII. Observar, atender, y en su caso, publicar en la Gaceta Oficial del Distrito Federal o el instrumento administrativo correspondiente, los Acuerdos y resoluciones del Consejo;
+
+XVIII. Proponer la integración del FADE, FOPDE y FIPDE;
+
+XIX. Coordinar e instruir el acceso a los recursos del FOPDE y FIPDE;
+
+XX. Instruir, en los términos de las Reglas de Operación, el Fondo Revolvente del FADE para la adquisición de suministros de auxilio en situaciones de emergencia y de desastre, debiendo informar al Consejo sobre el destino de los recursos erogados con cargo al fondo revolvente, sin perjuicio de los informes que tengan que rendirse a los órganos de vigilancia y control del presupuesto en términos de la legislación vigente;
+
+XXI. Las demás que le asigne la presente ley y otras disposiciones normativas.
+
+###### Artículo 15.
+
+Corresponde a la Secretaría:
+
+I. Ser el Coordinador General del Sistema y supervisar que la operación y acciones de los integrantes cumplan con los fines de la protección civil.
+
+II. Instalar y presidir el Comité de Emergencias;
+
+III. Instalar y coordinar el Centro Operativo del Distrito Federal y los Centros Operativos Regionales;
+
+IV. Presidir, por ausencia del Jefe de Gobierno, el Consejo;
+
+V. Ejecutar, cumplir y vigilar el cumplimiento de la ley, el reglamento y otras disposiciones en materia de Protección Civil;
+
+VI. Denunciar, ante las instancias competentes, las faltas y omisiones que impidan el funcionamiento del sistema o generen daños o perjuicios a la vida, bienes y entorno de la población;
+
+VII. Elaborar el Programa General de Protección Civil y ponerlo a consideración del Jefe de Gobierno para su aprobación;
+
+VIII. Elaborar y poner a consideración del Jefe de Gobierno para su instauración obligatoria, previa opinión del Consejo, el Plan Permanente Ante Contingencias;
+
+IX. Auxiliar al Jefe de Gobierno en las labores de coordinación y vigilancia de los programas y acciones en la materia;
+
+X. Coordinar de manera permanente, la información del estado de riesgo que guardan los servicios vitales, los sistemas estratégicos y, en general el Distrito Federal;
+
+XI. Elaborar y poner a consideración del Jefe de Gobierno para su instauración obligatoria, previa opinión del Consejo, los lineamientos técnicos y operativos que serán obligatorios para la elaboración de los Atlas Delegacionales, coadyuvando, a solicitud de las Delegaciones, en su elaboración;
+
+XII. Integrar y actualizar de manera semestral, a partir de los Atlas Delegacionales, el Atlas de Peligros y Riesgos, informando semestralmente al Consejo sobre el cumplimiento de las Delegaciones en el envío de la información;
+
+XIII. Proponer, con base en la información del Atlas de Peligros y Riesgos, la integración de los Centros Operativos Regionales.
+
+XIV. Actualizar, en el ámbito de su competencia, los instrumentos de la protección civil;
+
+XV. Resolver las consultas que los integrantes del Sistema sometan a su consideración;
+
+XVI. Vigilar, inspeccionar y evaluar los avances de los programas en materia de Protección Civil, informando semestralmente de los avances al Consejo;
+
+XVII. Emitir las Normas Técnicas Complementarias y los Términos de Referencia para la Elaboración de Programas Internos, Especiales e Institucionales de Protección Civil;
+
+XVIII. Promover la Cultura de Protección Civil, procurando su integración en los programas educativos y la capacitación de la sociedad en su conjunto;
+
+XIX. Elaborar los planes y programas básicos de prevención, auxilio y recuperación, frente a las emergencias o desastres provocados por los diferentes tipos de fenómenos perturbadores;
+
+XX. Revisar y, en su caso, autorizar los Programas Internos de Protección Civil de los inmuebles que ocupen las autoridades del Distrito Federal.
+
+XXI. Acreditar a los terceros autorizados para la elaboración de programas internos y especiales.
+
+XXII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar la autorización a los terceros acreditados, empresas capacitadotas, de consultoría y de estudios de riesgo vulnerabilidad que incurran en violaciones a la presente Ley o su Reglamento;
+
+XXIII. Brindar, en los términos de esta ley, capacitación al personal adscrito a las Unidades de Protección Civil y vigilar el cumplimiento de las disposiciones correspondientes.
+
+XXIV. Crear el padrón de asociaciones y grupos voluntarios para la atención de emergencias y coordinar la participación de los mismos en la atención a las emergencias y la recuperación del desastre;
+
+XXV. Implementar programas y cursos de capacitación y actualización obligatoria para los terceros acreditados.
+
+XXVI. Registrar, publicar y mantener actualizado en su portal institucional el padrón de terceros acreditados registrados, informando a las Delegaciones de los registros de terceros acreditados con domicilio en la demarcación.
+
+XXVII. Instalar y presidir el Comité de Usuarios del Subsuelo, así como elaborar y poner a consideración del Jefe de Gobierno el reglamento respectivo.
+
+XXVIII. Informar y denunciar, en los términos de esta ley, el establecimiento de asentamientos humanos en zonas previamente identificadas como de riesgo;
+
+XXIX. Instrumentar las acciones necesarias para que, a través del funcionario designado por la normatividad vigente, el Distrito Federal solicite la emisión de las Declaratorias de emergencia o de desastre que establece la Ley General de Protección Civil.
+
+XXX. Solicitar al Jefe de Gobierno la emisión de las declaratorias de emergencia o desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Protección Civil y de los recursos del FIPDE o del FADE, en los términos de las Reglas de Operación de cada instrumento;
+
+XXXI. Auxiliar al Jefe de Gobierno, en la resolución de las solicitudes de declaratorias de emergencia o desastre de las Delegaciones;
+
+XXXII. Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, con cargo al FOPDE, debiendo informar al Consejo sobre el destino de los recursos erogados con cargo al fondo, sin perjuicio de los informes que tengan que rendirse a los órganos de vigilancia y control del presupuesto en términos de la legislación vigente;
+
+XXXIII. Crear las bases de operación de instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, servicios y logística que permitan prevenir y atender la eventualidad de un desastre;
+
+XXXIV. Investigar, estudiar y evaluar riesgos y daños provenientes de fenómenos de origen natural o antropogénico que puedan ocasionar desastres, integrando y ampliando los conocimientos de tales acontecimientos en coordinación con las dependencias responsables;
+
+XXXV. Difundir toda aquella información que tienda a la generación, desarrollo y consolidación de una cultura en la materia;
+
+XXXVI. Asesorar y apoyar en materia de protección civil, a las dependencias y entidades de la Administración Pública del Distrito Federal, así como a otras instituciones de carácter social y privado que se lo soliciten;
+
+XXXVII. Instrumentar, por sí o a través de organismos y dependencias y entidades públicas o privadas especializadas, y en su caso, operar redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con las dependencias responsables;
+
+XXXVIII. Suscribir convenios en materia de protección civil en el ámbito nacional e internacional, en coordinación con las autoridades competentes en la materia;
+
+XXXIX. Suscribir convenios de colaboración administrativa con las Entidades Federativas en materia de prevención y atención de emergencias y desastres;
+
+XL. Participar en la evaluación y cuantificación de los daños cuando así lo determinen las disposiciones específicas aplicables;
+
+XLI. Certificar los Dictámenes Técnicos respecto a las condiciones de riesgo de sitios, inmuebles o actividades, en los términos de esta ley y el Reglamento.
+
+XLII. Promover, apoyar y llevar a cabo, en coordinación con las Delegaciones, la capacitación en la materia, de profesionales, especialistas, técnicos, verificadores, asociaciones, grupos voluntarios y la población;
+
+XLIII. Conformar un padrón de verificadores que tengan los conocimientos necesarios para actuar en materia de protección civil, y
+
+XLIV. Las demás que la presente Ley, así como otras disposiciones le asignen.
+
+###### Artículo 16.
+
+Corresponde a las Delegaciones, en materia de protección civil, las siguientes atribuciones:
+
+I. Representar, a través de su Titular, las Acciones del Sistema en su demarcación;
+
+II. Constituir, presidir y observar el funcionamiento del Consejo Delegacional;
+
+III. Instalar la Unidad de Protección Civil que operará y coordinará las acciones en la materia, en la que se fomentará la integración y participación de mujeres en espacios de toma de decisión;
+
+IV. Formular y ejecutar, de conformidad con el Programa General de Protección Civil del Distrito Federal, el Programa Delegacional de Protección Civil;
+
+V. Ejecutar y observar el cumplimiento del Programa Anual de Operaciones de Protección Civil de la Demarcación;
+
+VI. Formular y ejecutar, de conformidad con el Plan Permanente Ante Contingencias del Distrito Federal, el Plan Ante Contingencias Delegacional.
+
+VII. Elaborar, de conformidad con los lineamientos técnicos y operativos, el Atlas Delegacional y mantenerlo actualizado permanentemente;
+
+VIII. Observar, atender, y en su caso, elaborar en el instrumento administrativo correspondiente para dar cumplimiento a los Acuerdos y resoluciones del Consejo;
+
+IX. Integrar y colaborar en el funcionamiento, de conformidad con las acciones del Sistema, del Centro Operativo del Distrito Federal y del Centro Operativo Regional de su competencia.
+
+X. Informar y enviar a la Secretaría, de manera semestral, las actualizaciones realizadas al Atlas Delegacional.
+
+XI. Ejecutar, cumplir y vigilar, en el ámbito de su competencia, el cumplimiento de la ley, el reglamento y otras disposiciones en materia de protección civil;
+
+XII. Informar, cuando así lo solicite la Secretaría, del estado de riesgo que guardan los servicios vitales y sistemas estratégicos asentados en su demarcación;
+
+XIII. Velar, en el ámbito de su competencia, por el cumplimiento y aplicación de los Programas Internos, Especiales e Institucionales de protección civil;
+
+XIV. Notificar a los interesados en aperturar un establecimiento mercantil, sobre las medidas de protección civil que deben cumplirse para el funcionamiento y apertura de los mismos.
+
+XV. Publicar y actualizar en su portal institucional el padrón de terceros acreditados registrados ante la Secretaría con residencia en su demarcación.
+
+XVI. Recibir, evaluar, y en su caso aprobar los Programas Internos, Especiales e Institucionales que presenten los respectivos obligados, así como registrarlos, clasificarlos y vigilar el cumplimiento de las actividades obligatorias siempre que no correspondan a lo especificado en las atribuciones de la Secretaría;
+
+XVII. Identificar y elaborar los Dictámenes Técnicos respecto a las condiciones de riesgo de sitios, inmuebles o actividades, en los términos de esta ley y el Reglamento.
+
+XVIII. Enviar a la Secretaría, para su certificación, los Dictámenes Técnicos de las Zonas de alto riesgo.
+
+XIX. En coordinación con el Gobierno del Distrito Federal, ejercer las acciones necesarias para impedir asentamientos humanos en Zonas dictaminadas como de alto riesgo;
+
+XX. Solicitar al Jefe de Gobierno, en los términos que establece la presente Ley, la emisión de la declaratoria de emergencia o la declaratoria de desastre;
+
+XXI. Solicitar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres con cargo al FOPDE;
+
+XXII. Las demás que determine esta Ley y su Reglamento.
+
+###### Artículo 17.
+
+La función de Protección Civil de las Delegaciones, se realizará a través de una Unidad de Protección Civil que será instalada en la estructura orgánica con rango de Dirección y dependerá directamente de la Jefatura Delegacional.
+
+Al frente de cada Unidad de Protección Civil estará un titular que en todos los casos deberá contar con una experiencia comprobable de 3 años en materia de protección civil u obtener la acreditación correspondiente por el Centro de Formación y Capacitación de Protección Civil.
+
+En la conformación de la Unidad a la que se refiere el presente artículo, se fomentará la integración de mujeres en espacios de toma de decisiones.
+
+###### Artículo 18.
+
+La Unidad de Protección Civil es la instancia responsable de implementar las acciones de protección civil Delegacional, asistiendo a la población en materia preventiva y atendiendo las emergencias y situaciones de desastre que se presenten en su demarcación.
+
+###### Artículo 19.
+
+Para efectos operativos de la atención de emergencias y desastres, la Unidad de Protección Civil será siempre la primera instancia de respuesta, por lo que en caso de que los efectos del fenómeno perturbador superen su capacidad de respuesta en materia financiera u operativa, se sujetará al procedimiento establecido en la presente ley, privilegiando sin excepción la protección de la vida humana.
+
+###### Artículo 20.
+
+Son atribuciones de las Unidades de Protección Civil de cada Delegación, en el ámbito de sus respectivas competencias, las siguientes:
+
+I. Coadyuvar en la elaboración del Programa Delegacional de Protección Civil;
+
+II. Elaborar, previa opinión del Consejo Delegacional, el Programa Anual de Operaciones de Protección Civil de la Demarcación;
+
+III. Promover la Cultura de Protección Civil, organizando y desarrollando acciones preventivas, observando los aspectos normativos de operación, coordinación y participación con los integrantes del Consejo Delegacional y procurando la extensión al área de educación y capacitación entre la sociedad en su conjunto;
+
+IV. Proporcionar al Consejo Delegacional la información necesaria para el cumplimiento de sus funciones;
+
+V. Fomentar la participación de los integrantes del Consejo Delegacional en acciones encaminadas a incrementar la cultura, educación y capacitación de la sociedad en materia de Protección Civil;
+
+VI. Atender las emergencias y desastres ocurridos en la demarcación de su adscripción y aquellos en los que se solicite su intervención en los términos de esta ley;
+
+VII. Establecer, derivado de los Instrumentos de la Protección Civil, los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de fenómenos perturbadores;
+
+VIII. Determinar y registrar, en el Atlas Delegacional, las zonas que no son susceptibles de habitarse por el riesgo que conlleva el entorno;
+
+IX. Realizar dictámenes técnicos de riesgo de las estructuras, inmuebles y entorno delegacional de su competencia en los términos de esta ley y de conformidad con los lineamientos que especifique el Reglamento;
+
+X. Elaborar y distribuir entre la población manuales de mantenimiento preventivo y correctivo de inmuebles, así como de capacitación en la materia;
+
+XI. Fomentar la constitución de los Comités de Ayuda Mutua, y coadyuvar en las actividades que éstos realicen;
+
+XII. Proponer, previa opinión del Consejo Delegacional, el programa anual de capacitación de la Delegación; y,
+
+XIII. Las demás que le asigne el Jefe Delegacional, la presente ley y otras disposiciones.
+
+###### Artículo 21.
+
+La o el Titular de la Unidad de Protección Civil Delegacional coadyuvará en la elaboración y actualización del Atlas de Riesgos Delegacional apoyándose en el Consejo Delegacional y en el Subconsejo correspondiente.
+
+###### Artículo 22.
+
+Las Unidades de Protección Civil contarán en su estructura con personal que tenga estudios de nivel medio superior, conocimientos y experiencia en la materia de acuerdo al diagnóstico de riesgos de la demarcación.
+
+La vigencia del nombramiento del personal de dicha Unidad dependerá, sin perjuicio de lo establecido en otras legislaciones, del cumplimiento de los requisitos de capacitación establecidos en esta ley.
+
+###### Artículo 23.
+
+Las Unidades de Protección Civil, basarán su operación en los lineamientos, términos e instrumentos que establece esta ley, el reglamento y los Instrumentos del Sistema, apoyando sus acciones en el Consejo Delegacional y los Subconsejos que de él emanen.
+
+### CAPÍTULO II. DE LOS ÓRGANOS ASESORES
+
+###### Artículo 24.
+
+El Consejo y los Consejos Delegacionales son los órganos asesores del Sistema de Protección Civil, cuya estructura concentra la máxima expresión de interinstitucionalidad, coordinación e integración de las autoridades y la sociedad civil en las materias de prevención del desastre y protección civil.
+
+###### Artículo 25.
+
+Los órganos asesores tienen como objetivo coordinar a las autoridades de los diferentes niveles de gobierno y a los especialistas de la sociedad civil de la materia que, respetando su ámbito de competencia, reúnen los conocimientos y las facultades necesarias para resolver de manera inmediata la problemática que impacta el territorio objeto de estudio, a través de acciones coordinadas y direccionadas hacia el objetivo común de la protección civil.
+
+#### SECCIÓN I. DEL CONSEJO DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
+
+###### Artículo 26.
+
+El Consejo estará integrado por:
+
+I. El Jefe de Gobierno, quien lo presidirá;
+
+II. El Titular de la Secretaría, quien fungirá como Secretario Ejecutivo del Consejo;
+
+III. Las y los Titulares de las dependencias de la Administración Pública del Distrito Federal;
+
+IV. Un Vocal Ejecutivo, con funciones de Secretaría Técnica, que será designado por el titular de la Secretaría sin que pueda tener nivel inferior a Director General;
+
+V. El Titular de la Dirección General de Comunicación Social de la Secretaría, que será el Coordinador Informativo y de Enlace;
+
+VI. Los Jefes Delegacionales;
+
+VII. El Procurador General de Justicia del Distrito Federal;
+
+VIII. El Contralor General del Distrito Federal;
+
+IX. El Presidente de la Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal y dos integrantes de la misma;
+
+X. El Coordinador General de Protección Civil del Gobierno Federal, que tendrá el carácter de invitado permanente;
+
+XI. Un representante de cada una de las siguientes instituciones: Universidad Nacional Autónoma de México, Universidad Autónoma Metropolitana, Instituto Politécnico Nacional y Universidad Autónoma de la Ciudad de México;
+
+XII. El Director General del Heroico Cuerpo de Bomberos del Distrito Federal, y;
+
+XIII. Diez representantes de la sociedad civil electos por el voto mayoritario de los integrantes;
+
+Para sesionar se requiere la asistencia de la mayoría de los integrantes, así como la asistencia del Presidente o el Secretario Ejecutivo.
+
+La Presidencia del Consejo invitará a las sesiones a los representantes de las dependencias y entidades de la Administración Pública Federal y de la Zona Metropolitana del Valle de México, así como los representantes de los sectores público, privado, social, académico y especialistas que determine. Los invitados asistirán con derecho a voz y sin derecho a voto.
+
+Los representantes de los medios de comunicación, serán convocados por invitación que formule el Secretario Ejecutivo.
+
+Cada miembro titular nombrará un suplente, en el caso de los Jefes Delegacionales será el Titular de la Unidad de Protección Civil. Una vez integrado el Consejo, deberá informarse a la Asamblea Legislativa del Distrito Federal los resultados de cada reunión en un plazo que no exceda de diez días.
+
+###### Artículo 27.
+
+El Consejo se constituye como el órgano asesor y enlace del Sistema en sus diferentes niveles.
+
+Para el desarrollo de su función, contará con las siguientes atribuciones:
+
+I. Evaluar los instrumentos de la protección civil y proponer medidas para su aplicación, procurando su amplia difusión en el Distrito Federal;
+
+II. Analizar los problemas reales y potenciales de la protección civil, sugerir y promover las investigaciones y estudios que permitan conocer los agentes básicos de las causas de emergencias o desastres y propiciar su solución a través de los medios y recursos del Sistema;
+
+III. Fomentar la participación activa y corresponsable de todos los sectores de la sociedad del Distrito Federal en la formulación, ejecución y evaluación de los programas destinados a satisfacer las necesidades preventivas de protección civil de la población;
+
+IV. Proponer políticas y estrategias en materia de protección civil;
+
+V. Estudiar y determinar la problemática de protección civil y proponer el orden de prioridades para su atención;
+
+VI. Integrar comisiones y emitir recomendaciones para el cumplimiento de esta Ley y demás disposiciones aplicables;
+
+VII. Turnar a los Consejos Delegacionales, para su opinión, los lineamientos técnicos y operativos para la elaboración de los Atlas de Riesgos; el Plan Permanente Ante Contingencias; las Normas Técnicas Complementarias; y los Términos de Referencia que elabore la Secretaría;
+
+VIII. Recibir, evaluar y considerar los Acuerdos y opiniones que emitan los Consejos Delegacionales respecto a las acciones o instrumentos del Sistema;
+
+IX. Recibir y, en su caso, opinar respecto de los reportes de evaluación de los Consejos Delegacionales;
+
+X. Emitir opiniones respecto a los lineamientos técnicos y operativos para la elaboración de los Atlas de Riesgos; el Plan Permanente Ante Contingencias; las Normas Técnicas Complementarias; y los Términos de Referencia que elabore la Secretaría;
+
+XI. Acordar acciones para difundir la ley, el reglamento, las normas técnicas complementarias y demás normatividad que de relevancia para el cumplimiento de los objetivos de la protección civil;
+
+XII. Supervisar y, en su caso, proponer acciones para eficientar el cumplimiento del Programa General de Protección Civil;
+
+XIII. Proponer estrategias para la actualización permanente del Atlas de Riesgos;
+
+XIV. Acordar los mecanismos que promuevan y aseguren la capacitación de la comunidad en materia de protección civil;
+
+XV. Conocer el presupuesto asignado a la ejecución de las acciones del Sistema;
+
+XVI. Opinar respecto de los proyectos que serán ejecutados con cargo al FOPDE;
+
+XVII. Recibir los informes respecto al estado de las acciones realizadas y los recursos erogados con cargo al FADE, al FOPDE y al FIPDE; y en su caso, emitir opiniones respecto a las adquisiciones realizadas;
+
+XVIII. Opinar sobre la integración, los manuales de procedimientos y convenios de coordinación necesarios para la operación de los Centros Operativos Regionales, mismos que serán elaborados por la Secretaría y opinados por los Consejos Delegacionales y, en su caso, publicados por el Jefe de Gobierno.
+
+XIX. Recomendar los mecanismos de coordinación y concertación entre las dependencias y entidades de la Administración Pública Federal, las dependencias, unidades administrativas, órganos desconcentrados y entidades paraestatales del Distrito Federal y las Delegaciones, así como con los sectores privado, social y académico en la materia a que se refiere esta Ley.
+
+XX. Evaluar el nivel de cumplimiento de los organismos privados y sociales con respecto a los compromisos concertados con el Sistema de Protección Civil;
+
+XXI. Promover la inserción de los temas de la protección civil en las plantillas curriculares de educación básica, media, técnica y superior de las Instituciones Educativas del Distrito Federal;
+
+XXII. Informar al Pleno y a los Consejos Delegacionales de manera anual, mediante un reporte de evaluación, de estado del Sistema, en el que se incluirán las actividades realizadas por las Comisiones y el grado de cumplimiento de las obligaciones de los integrantes; y, (sic)
+
+XXIII. Solicitar a cualquiera de los Integrantes del Sistema, la información necesaria para el cumplimiento de sus obligaciones y emitir recomendaciones de los resultados obtenidos;
+
+XXIV. Las demás que determinen la Ley y el Reglamento.
+
+###### Artículo 28.
+
+En los casos en que se requiera la opinión del Consejo para crear obligaciones al Sistema, se requiere la aprobación de la mayoría calificada de los asistentes.
+
+La ausencia de los integrantes no los excluye del cumplimiento de los Acuerdos que tengan los efectos citados en el párrafo anterior.
+
+###### Artículo 29.
+
+Corresponde a la Presidencia del Consejo:
+
+I. Vigilar el cumplimiento de los Acuerdos del Consejo;
+
+II. Convocar y presidir las sesiones ordinarias, extraordinarias y permanentes;
+
+III. Coordinar las acciones que se desarrollen en el seno del Consejo;
+
+IV. Proponer la celebración de Convenios de Coordinación con la Federación y los Estados vecinos para alcanzar los objetivos del Sistema;
+
+V. Turnar a la Comisión competente los asuntos que requieran de opinión del Consejo para la elaboración de la propuesta de Acuerdo;
+
+VI. Las demás funciones que se deriven de esta Ley, sus Reglamentos y disposiciones aplicables.
+
+###### Artículo 30.
+
+Corresponde a la Secretaría Ejecutiva:
+
+I. Dar cumplimiento a los Acuerdos del Consejo;
+
+II. Vigilar el cumplimiento de las disposiciones y Acuerdos del Consejo;
+
+III. Presidir y coordinar las sesiones del Consejo en ausencia del Presidente;
+
+IV. Presentar a consideración del Consejo, el Programa de Trabajo, sus subprogramas, y vigilar el desarrollo de los trabajos correspondientes;
+
+V. Elaborar los trabajos que le encomiende la Presidencia del Consejo y resolver las consultas que se sometan a su consideración;
+
+VI. Rendir un informe anual sobre los trabajos del Consejo;
+
+VII. Orientar las acciones del Sistema en el Distrito Federal y en las Delegaciones, que sean competencia del Consejo;
+
+VIII. Las demás funciones que se deriven de esta Ley, sus Reglamentos y disposiciones aplicables.
+
+###### Artículo 31.
+
+Corresponde a la Secretaría Técnica:
+
+I. Suplir a la Secretaría Ejecutiva;
+
+II. Apoyar los trabajos de la Presidencia y de la Secretaría Ejecutiva;
+
+III. Elaborar y someter a consideración del Pleno del Consejo, el calendario de sesiones;
+
+IV. Verificar la existencia del quórum legal necesario para sesionar y levantar las actas correspondientes;
+
+V. Dar cuenta de los requerimientos de la Secretaría y de la correspondencia;
+
+VI. Registrar los acuerdos del Consejo, sistematizarlos para su seguimiento y, en su caso, turnarlos a las instancias correspondientes;
+
+VII. Coordinar el trabajo de las Comisiones;
+
+VIII. Ordenar y clasificar los programas, estudios e investigaciones que se presenten en el Consejo;
+
+IX. Formular la convocatoria a las sesiones, incluyendo el orden del día; y
+
+X. Las demás funciones que se deriven de esta Ley, sus Reglamentos y disposiciones aplicables.
+
+###### Artículo 32.
+
+El Consejo tendrá órganos de trabajo que distribuirán los asuntos conforme a su denominación, en las que participarán concertada y corresponsablemente la sociedad civil, así como los sectores público, privado y social, contando cuando menos con las siguientes las siguientes (sic) Comisiones Permanentes:
+
+I. Comisión de Coordinación del Sistema del Distrito Federal;
+
+II. Comisión de Ciencia y Tecnología;
+
+III. Comisión de Comunicación Social;
+
+IV. Comisión de Apoyo Financiero a las Organizaciones y Acciones de Protección Civil;
+
+V. Comisión de Participación Ciudadana, y
+
+VI. Comisión de Evaluación y Control.
+
+Sin perjuicio de lo establecido en la normatividad aplicable, la Comisión de Coordinación del Sistema del Distrito Federal será Presidida por el Secretario de Protección Civil, mientras que la Comisión de Evaluación y Control deberá estar presidida por el Contralor General del Distrito Federal.
+
+###### Artículo 33.
+
+El Consejo determinará la necesidad de crear comisiones permanentes adicionales a las establecidas en el artículo 32 o especiales para estudiar asuntos específicos.
+
+###### Artículo 34.
+
+Las comisiones estudiarán los asuntos y elaborarán las propuestas de Acuerdos cuando sea necesaria la opinión del Consejo.
+
+###### Artículo 35.
+
+La presidencia de cualquiera de las Comisiones a que se refiere el artículo anterior será honorífico, recayendo la Secretaría Técnica en la persona que por libre designación determine la Presidencia de cada Comisión.
+
+###### Artículo 36.
+
+Con excepción de las Comisiones de Coordinación del Sistema del Distrito Federal y de Evaluación y Control, los Presidentes de las Comisiones serán nombrados por el voto mayoritario del Pleno del Consejo, a propuesta de la Secretaría Ejecutiva.
+
+###### Artículo 37.
+
+Las normas relativas a la organización y funcionamiento del Consejo, estarán previstas en el Reglamento.
+
+###### Artículo 38.
+
+El Consejo celebrará sesiones ordinarias semestrales y las extraordinarias que se requieran, cuando las convoque su Presidente o el Secretario Ejecutivo.
+
+Con motivo del cambio de administración, la primera sesión ordinaria del Consejo deberá realizarse a más tardar en 120 días naturales después de la toma de posesión del nuevo Jefe de Gobierno.
+
+#### SECCIÓN II. DE LOS CONSEJOS DELEGACIONALES DE PROTECCIÓN CIVIL
+
+###### Artículo 39.
+
+Los Consejos Delegacionales son órganos asesores del Sistema que velan por el cumplimiento de los objetivos del mismo en las Delegaciones y en los que se consolida la estructura del Sistema para sentar las bases para prevenir, proteger y auxiliar a la población ante la ocurrencia de fenómenos perturbadores y dictar las medidas necesarias para el restablecimiento de la normalidad en la comunidad.
+
+###### Artículo 40.
+
+Los Consejos Delegacionales, estarán integrados por:
+
+I. El Jefe Delegacional;
+
+II. Los titulares de las Direcciones Generales de la Delegación;
+
+III. El Director General Jurídico y de Gobierno, será el Secretario Ejecutivo;
+
+IV. Un representante de la Secretaría, que no podrá tener nivel inferior a Director General;
+
+V. Un representante de la Contraloría General del Distrito Federal;
+
+VI. Los servidores públicos designados por las Secretarías de Desarrollo Urbano y Vivienda, Transportes y Vialidad y Seguridad Pública, en cada demarcación, que no podrán tener nivel inferior a Director de Área;
+
+VII. La o el Titular de la Unidad de Protección Civil de la Delegación, quién será el Secretario Técnico, y
+
+VIII. Cinco representantes de Organizaciones Civiles Especializadas.
+
+Para sesionar se requiere la asistencia de la mayoría de los integrantes, así como la asistencia del Presidente o el Secretario Ejecutivo.
+
+El Presidente del Consejo, invitará a las sesiones a los representantes de las dependencias y entidades de la Administración Pública Federal, del Distrito Federal y de la Zona Metropolitana del Valle de México, así como los representantes de los sectores público, privado y social que determine.
+
+Cada miembro titular nombrará un suplente. Una vez integrado el Consejo Delegacional, deberá informarse al Consejo y a la Asamblea Legislativa del Distrito Federal. Los resultados de cada sesión deberán informarse al Consejo en un plazo que no exceda de diez días.
+
+El Presidente del Consejo Delegacional deberá invitar como miembro del mismo y de los Subconsejos, al Delegado Regional de la Procuraduría General de Justicia del Distrito Federal.
+
+###### Artículo 41.
+
+Corresponde a la Presidencia del Consejo Delegacional:
+
+I. Vigilar el cumplimiento de los Acuerdos del Consejo y del Consejo Delegacional;
+
+II. Convocar y presidir las sesiones ordinarias, extraordinarias y permanentes;
+
+III. Coordinar las acciones que se desarrollen en el seno del Consejo Delegacional;
+
+IV. Proponer la celebración de Convenios de Coordinación con las Delegaciones vecinas para alcanzar los objetivos del Sistema en el ámbito de la competencia Delegacional;
+
+V. Turnar a los Subconsejos competentes los asuntos que requieran de opinión del Consejo Delegacional para la elaboración de la propuesta de Acuerdo;
+
+VI. Las demás funciones que se deriven de esta Ley, sus Reglamentos y disposiciones aplicables.
+
+###### Artículo 42.
+
+Corresponde a la Secretaría Ejecutiva suplir al Presidente en caso de ausencia y coordinar, con apoyo de la Secretaría Técnica, los trabajos de los Subconsejos.
+
+###### Artículo 43.
+
+Corresponde a la Secretaría Técnica:
+
+I. Apoyar los trabajos de la Presidencia y de la Secretaría Ejecutiva;
+
+II. Orientar las acciones del Sistema en el ámbito Delegacional para cumplir con los fines de la protección civil;
+
+III. Presentar a consideración del Consejo Delegacional, el Programa de Trabajo y vigilar el desarrollo de los trabajos correspondientes;
+
+IV. Elaborar y someter a consideración del Pleno del Consejo Delegacional, el calendario de sesiones;
+
+V. Elaborar los trabajos que le encomiende el Presidente del Consejo Delegacional y resolver las consultas que se sometan a su consideración;
+
+VI. Verificar la existencia del quórum legal necesario para sesionar y levantar las actas correspondientes;
+
+VII. Dar cuenta de los requerimientos de otros integrantes del Sistema y de la correspondencia;
+
+VIII. Registrar los Acuerdos del Consejo Delegacional, sistematizarlos para su seguimiento y, en su caso, turnarlos a las instancias correspondientes;
+
+IX. Ordenar y clasificar los programas, estudios e investigaciones que se presenten en el Consejo;
+
+X. Formular la convocatoria a las sesiones, incluyendo el orden del día; y
+
+XI. Las demás funciones que se deriven de esta Ley, sus Reglamentos y disposiciones aplicables.
+
+###### Artículo 44.
+
+Las normas relativas a la organización y funcionamiento de los Consejos Delegacionales, estarán previstas en el Reglamento y replicarán las del Consejo en el ámbito de las facultades Delegacionales.
+
+###### Artículo 45.
+
+Los Consejos Delegacionales, tendrán las siguientes atribuciones:
+
+I. Fomentar la participación corresponsable de los sectores y los habitantes de la Delegación, en las acciones de protección civil.
+
+II. Sugerir mecanismos que promuevan la Cultura y aseguren la capacitación de la comunidad, así como la participación de los Grupos Voluntarios en materia de Protección Civil en coordinación con las autoridades de la materia;
+
+III. Coadyuvar en la revisión del Programa Delegacional de Protección Civil;
+
+IV. Identificar, estudiar y determinar la problemática de protección civil en la demarcación y proponer las acciones prioritarias para su atención;
+
+V. Coordinar sus acciones con el Sistema de Protección Civil del Distrito Federal;
+
+VI. Proponer, mediante Acuerdo enviado al Consejo de Protección Civil, modificaciones a los lineamientos técnicos y operativos para la elaboración de los Atlas de Riesgos, las normas técnicas complementarias, los términos de referencia o cualquier otro instrumento de carácter local de cumplimiento obligatorio en las Delegaciones;
+
+VII. Responder y, en su caso, opinar respecto de los asuntos que solicite el Consejo;
+
+VIII. Sugerir acciones de mejora en cualquier ámbito de acción de la Protección Civil que impacte a la demarcación de adscripción, a través de Acuerdos enviados al Consejo;
+
+IX. Proponer y coadyuvar en el desarrollo y acciones de mejora de la capacitación en materia de protección civil;
+
+X. Opinar y, en su caso, proponer acciones de mejora respecto a la formulación y operación del Atlas Delegacional y el Plan Ante Contingencias Delegacional;
+
+XI. Elaborar el manual que regule las funciones de los integrantes en las etapas de diagnóstico, así como las funciones de los subconsejos;
+
+XII. Informar al Consejo de manera anual, mediante un reporte de evaluación, de las actividades realizadas por la demarcación en la materia, en el que se incluirán aquellas realizadas por los subconsejos; y,
+
+XIII. Las demás que le encomiende el Presidente del Consejo, siempre y cuando no contravenga lo dispuesto en la presente Ley y su Reglamento.
+
+###### Artículo 46.
+
+El Pleno del Consejo Delegacional determinará, a propuesta del Presidente, los Subconsejos Delegacionales que sean necesarios para el cumplimiento de sus objetivos, en los que participarán concertada y corresponsablemente los integrantes del mismo, debiendo considerar por lo menos, los siguientes:
+
+I. Subconsejo de Coordinación del Sistema Delegacional;
+
+II. Subconsejo de Actualización de Riesgos;
+
+III. Subconsejo de Capacitación y Participación Ciudadana;
+
+IV. Subconsejo de Prevención;
+
+V. Subconsejo de Evaluación;
+
+VI. Subconsejo de Programación y Asesoría Regulatoria;
+
+Las normas relativas a la organización y funcionamiento de los Consejos Delegacionales, estarán previstas en el Reglamento.
+
+El Subconsejo de Evaluación deberá estar presidido por el representante de la Contraloría General del Distrito Federal.
+
+La información de la evaluación de los Consejos Delegacionales se considera confidencial salvo Acuerdo en contrario del Pleno del Consejo Delegacional.
+
+###### Artículo 47.
+
+El Consejo Delegacional determinará la existencia de Subconsejos adicionales a las establecidas en el artículo anterior.
+
+###### Artículo 48.
+
+Los Subconsejos estudiarán los asuntos y elaborarán las propuestas de Acuerdos cuando sea necesaria la opinión del Consejo Delegacional.
+
+###### Artículo 49.
+
+La presidencia de cualquiera de los Subconsejos será honorífico, recayendo la Secretaría Técnica y la estructura operativa en las personas que por libre designación determine, bajo su responsabilidad, la Presidencia de cada Subconsejo.
+
+###### Artículo 50.
+
+Con excepción del Consejo de Evaluación y Control, los Presidentes de las Comisiones serán nombrados por el Presidente del Consejo Delegacional, a propuesta del Secretario Ejecutivo.
+
+###### Artículo 51.
+
+Los Consejos Delegacionales celebrarán sesiones ordinarias semestrales y las extraordinarias que se requieran, cuando las convoque la Presidencia o la Secretaría Ejecutiva.
+
+Con motivo del cambio de administración, la primera sesión ordinaria del Consejo Delegacional deberá realizarse a más tardar en 90 días naturales después de la toma de posesión del nuevo Jefe Delegacional.
+
+Bajo ningún supuesto la instalación podrá realizarse sin la asistencia de la totalidad de los integrantes que refiere el artículo 40 de esta ley.
+
+## TÍTULO TERCERO. DE LAS MEDIDAS OPERATIVAS DE LA PROTECCIÓN CIVIL
+
+### CAPÍTULO I. DE LA OPERACIÓN GENERAL
+
+###### Artículo 52.
+
+Las acciones de protección civil privilegiarán la realización de acciones preventivas con el objeto de evitar o reducir los efectos del impacto de los fenómenos perturbadores en las condiciones ordinarias de vida de la población, creando los mecanismos de respuesta y coordinación necesarios para enfrentar y resolver las emergencias y desastres.
+
+###### Artículo 53.
+
+La operación de la protección civil se realiza a través del Sistema, asesorado por el Consejo y los Consejos Delegacionales.
+
+###### Artículo 54.
+
+Para efectos operativos del Sistema, las etapas de la Protección Civil son las siguientes:
+
+I. Prevención;
+
+II. Atención de la emergencia; y
+
+III. Recuperación.
+
+###### Artículo 55.
+
+Las acciones operativas del Sistema, así como la ejecución de los planes y actividades contenidas en los instrumentos de la protección civil, están a cargo de las Delegaciones, que serán apoyadas y supervisadas por la Secretaría, en los términos que establece la presente ley.
+
+###### Artículo 56.
+
+Los procedimientos especiales se activarán, a solicitud de las Delegaciones, cuando el impacto de los fenómenos perturbadores supere su capacidad de respuesta operativa o financiera.
+
+En estos casos, la Secretaría dispondrá de todos los recursos materiales y humanos que integran el Sistema.
+
+Esta Ley, el Presupuesto de Egresos del Distrito Federal, así como las demás disposiciones reglamentarias y administrativas en la materia, regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos financieros para la prevención, auxilio y recuperación de emergencias o desastres, los cuales se administrarán de manera transparente a través de los fondos correspondientes.
+
+### CAPÍTULO II. DE LA PREVENCIÓN
+
+###### Artículo 57.
+
+Las acciones de Prevención consisten en:
+
+I. Elaboración de instrumentos de carácter preventivo;
+
+II. Elaboración y práctica de instrumentos reactivos;
+
+III. Ejecución de programas de capacitación e información a la población sobre las acciones a realizar ante el peligro o riesgo de una emergencia o desastre;
+
+IV. Práctica de simulacros;
+
+V. Práctica de verificaciones a establecimientos mercantiles en materia de Protección Civil;
+
+VI. Difusión de información en los medios masivos de comunicación sobre los fenómenos naturales o antropogénicos a los que está expuesta una zona determinada, así como las acciones que la población debe realizar para disminuir los efectos de una emergencia o desastre;
+
+VII. Acciones preventivas para la movilización precautoria de la población y su instalación en refugios temporales.
+
+VIII. Identificación de peligros y zonas de riesgo;
+
+IX. Acciones para mitigar el riesgo;
+
+X. Acciones preventivas programadas de obra pública;
+
+XI. Acciones preventivas emergentes de obra pública; y,
+
+XII. Reubicación de viviendas;
+
+###### Artículo 58.
+
+Las Dependencias, Entidades y las Delegaciones que integren el Sistema de Protección Civil, integrarán en sus Programas Operativos Anuales los recursos necesarios para cumplir, en el ámbito de su competencia, los programas a los que se refiere el artículo anterior.
+
+La Secretaría de Finanzas observará que el Proyecto de Presupuesto de Egresos del Distrito Federal atienda lo establecido en el párrafo anterior.
+
+El Presupuesto de Egresos del Distrito Federal contemplará recursos etiquetados para la erogación de la Secretaría, las Delegaciones, así como otras Dependencias y Entidades de la Administración Pública del Distrito Federal en los rubros a los que se refiere el artículo anterior.
+
+###### Artículo 59.
+
+La elaboración, revisión, actualización y aplicación de los instrumentos de carácter preventivo corresponde al Sistema, a través de sus integrantes, en los términos que establece la presente ley.
+
+###### Artículo 60.
+
+El Programa General de Protección Civil y los Programas Delegacionales de Protección Civil contemplarán, además de lo establecido en la presente ley, las acciones que realizarán para difundir la información necesaria para capacitar a la población sobre la realización de acciones preventivas y reactivas.
+
+La información a la que hace referencia el párrafo anterior se realizará de manera diferenciada, privilegiando aquella que resulte de mayor urgencia para el sector en los términos de la identificación contenida en el Atlas de Peligros y Riesgos.
+
+La Secretaría determinará el contenido de la información que debe hacerse del conocimiento de la población.
+
+###### Artículo 61.
+
+Sin perjuicio de las actividades programadas para el cumplimiento de lo establecido en el artículo anterior, la Secretaría y las Delegaciones deberán publicar en sus portales institucionales dicha información preventiva, así como los lugares que funcionarán como refugios temporales.
+
+###### Artículo 62.
+
+El Gobierno del Distrito Federal destinará los recursos necesarios para promover en los medios de comunicación masiva, campañas permanentes de difusión sobre las medidas preventivas y emergentes para mitigar y enfrentar la ocurrencia de fenómenos perturbadores que contribuyan a avanzar en la conformación de una cultura en la materia, así como a fortalecer la disposición e interés de la población por participar activamente en las acciones que la Secretaría y las Delegaciones desarrollen en materia de protección civil.
+
+La Secretaría definirá el contenido de la información de la promoción a la que hace referencia el artículo anterior
+
+###### Artículo 63.
+
+Los Programas Operativos Anuales en materia de protección civil de las Delegaciones contemplaran las obras de mitigación a realizarse en el transcurso del año, priorizando en aquellas que configuren mayor riesgo.
+
+###### Artículo 64.
+
+Las obras de mitigación, así como la adquisición de equipo especializado para el rescate, transporte, comunicación, alertamiento y atención de emergencias y desastres, que no fuesen presupuestadas, serán sujetas a realizarse con cargo a los recursos del FOPDE, previa opinión del Consejo y desahogo del procedimiento establecido en las Reglas de Operación.
+
+###### Artículo 65.
+
+El FIPDE requiere, para su operación, la solicitud fundada y motivada de la autoridad Delegacional.
+
+###### Artículo 66.
+
+Los recursos del FIPDE se erogarán observando los principios de inmediatez y urgencia ante la inminente presencia o impacto de un fenómeno perturbador.
+
+Las Reglas de Operación determinarán las normas, procedimientos y criterios del ejercicio de estos recursos.
+
+###### Artículo 67.
+
+La operación de los recursos del FIPDE, al ejercerse para mitigar el peligro al orden social, configura excepción a toda regla general de adquisición o realización de obra pública, sin embargo, son sujetos de la fiscalización que realicen los órganos competentes en los términos de esta y otras legislaciones.
+
+###### Artículo 68.
+
+Para efectos de la constitución del FIPDE, los recursos financieros, serán asignados en un 20 por ciento del saldo con el que el FADE cuente al final del ejercicio, destinándose como aportaciones.
+
+Si en el año del ejercicio respectivo no quedara remanente alguno, se podrá utilizar hasta un 20 por ciento de la cantidad que del fideicomiso FADE se hubiere constituido con los remanentes de años inmediatos al anterior.
+
+#### SECCIÓN I. DE LA PROGRAMACIÓN DE PROTECCIÓN CIVIL
+
+###### Artículo 69.
+
+Los programas de protección civil son el instrumento de planeación del sistema en sus diferentes niveles y tienen el objetivo de eficientar la operación de los integrantes, a través de la planificación de acciones.
+
+La observancia, elaboración, revisión y actualización de los programas es obligatorio en los términos que establece la presente ley.
+
+###### Artículo 70.
+
+Se consideran programas de protección civil de observancia obligatoria para los integrantes del Sistema los siguientes:
+
+I. El Programa Nacional de Protección Civil;
+
+II. El Programa General de Protección Civil del Distrito Federal;
+
+III. Los Programas Delegacionales de Protección Civil;
+
+###### Artículo 71.
+
+El Sistema, a través de las Delegaciones y los terceros acreditados para tal efecto, expedirá y, en su caso, autorizará para los inmuebles y conjuntos habitacionales Programas Internos de Protección Civil en los términos de esta Ley, su Reglamento, las Normas Técnicas y los Términos de Referencia.
+
+###### Artículo 72.
+
+El Sistema, a través de las Delegaciones y los terceros acreditados para tal efecto, expedirá y, en su caso, autorizará para la realización de actividades o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, Programas Especiales o Programas Institucionales de Protección Civil en los términos de esta Ley, su Reglamento, las Normas Técnicas y los Términos de Referencia.
+
+###### Artículo 73.
+
+Las políticas y lineamientos para la realización de los Programas Internos, Especiales e Institucionales de Protección Civil estarán determinados en el Reglamento, en los Términos de Referencia y en las Normas Técnicas Complementarias.
+
+Las políticas y lineamientos a que se refiere el párrafo anterior, deberán incluir acciones y medidas pertinentes acorde con las características específicas de cada tipo de discapacidad y de las personas adultas mayores, priorizando la eliminación de barreras físicas en las rutas de evacuación.
+
+###### Artículo 74.
+
+Los Programas Internos, Especiales e Institucionales de Protección Civil se integrarán por tres subprogramas:
+
+I. El subprograma de prevención, que se integrará con las acciones, estrategias y responsabilidades dirigidas a evitar riesgos, mitigar o reducir el impacto destructivo de las emergencias o desastres naturales o humanos sobre la vida y bienes de la población, la planta productiva y los servicios públicos.
+
+II. El subprograma de auxilio, que se integrará con las acciones, estrategias y responsabilidades destinadas a salvaguardar la vida de las personas, sus bienes, la planta productiva y los servicios públicos, durante la presencia de un fenómeno perturbador.
+
+III. El subprograma de recuperación, que se integrara por las acciones orientadas a la evaluación de los daños ocurridos, su reconstrucción y el mejoramiento o reestructuración del inmueble y de los sistemas dañados por la el (sic) impacto del fenómeno perturbador.
+
+Los programas deberán presentarse para conocimiento, aprobación y clasificación de las Delegaciones o la Secretaría, en el ámbito de su competencia.
+
+La omisión de cualquiera de los subprogramas a los que se refiere el presente artículo será causal de que el mismo se considere como no presentado para todos los efectos legales.
+
+###### Artículo 75.
+
+Las Delegaciones asesorarán de manera gratuita a quien lo solicite en la elaboración de los Programas Internos, Especiales e Institucionales de Protección Civil, así como a los particulares para el cumplimiento de sus obligaciones en la materia.
+
+###### Artículo 76.
+
+Toda brigada contemplada en los Programas, deberá integrar un registro del número, ubicación y características de las personas con discapacidad y adultos mayores que habiten, laboren, estudien o visiten los inmuebles respectivos. Asimismo, la brigada será capacitada acerca de los diferentes tipos de discapacidad, sus características, las técnicas de apoyo, momento oportuno de evacuación y medidas de alertamiento.
+
+En la elaboración de los Programas, además de lo establecido en los Términos de Referencia y las Normas Técnicas Complementarias, se tomarán en cuenta las medidas para que las personas adultas mayores y las personas con discapacidad sean capacitadas para su autoprotección.
+
+###### Artículo 77.
+
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que de acuerdo a su actividad representen mediano o alto riesgo, así como en todo inmueble destinado al servicio público, están obligados a: formar, capacitar y equipar brigadas de emergencia, acorde al análisis de riesgo de la instalación; realizar tres simulacros al año, dando aviso al área de protección civil de la delegación; y, participar en los ejercicios preventivos que realice el Sistema.
+
+###### Artículo 78.
+
+Las empresas clasificadas como de mediano o alto riesgo, conforme a lo que establezca el Reglamento, deberán contar con una Póliza de Seguro de Responsabilidad Civil y Daños a Terceros vigente que ampare su actividad y con un monto suficiente para cubrir los daños causados a personas y edificaciones circunvecinas acorde al análisis de riesgos del Programa de Protección Civil correspondiente.
+
+La póliza de seguro a la que se refiere el párrafo anterior se adjuntará al Programa Interno de la empresa.
+
+La omisión del requisito establecido en el párrafo anterior será causal de invalidez del Programa Interno para todos los efectos legales correspondientes.
+
+A) DEL PROGRAMA GENERAL DE PROTECCIÓN CIVIL
+
+###### Artículo 79.
+
+El Programa General de Protección Civil, es el instrumento rector del Sistema de Protección Civil y será el marco de elaboración para los Programas Delegacionales, Internos, Especiales e Institucionales.
+
+###### Artículo 80.
+
+En el Programa General de Protección Civil se tomarán en cuenta los siguientes aspectos:
+
+I. Las acciones del Sistema en las etapas de prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento y reconstrucción ante un fenómeno perturbador;
+
+II. Los alcances, términos de operación y responsabilidades de las estructuras y autoridades responsables de la Protección Civil en el Distrito Federal;
+
+III. La participación privada y social, estableciendo con claridad las reglas de su accionar y fomentar la participación activa y comprometida de la sociedad;
+
+IV. El establecimiento de las acciones de respuesta y las medidas de seguridad que necesariamente deberán instrumentarse en ocasión de riesgo o presentación de fenómenos perturbadores, acotando la responsabilidad del servidor público competente en la toma de decisiones;
+
+V. La evaluación y diagnóstico de riesgos, así como del impacto social, económico y ecológico de un fenómeno perturbador;
+
+VI. La necesidad de que la operatividad de la Protección Civil gira en torno al Sistema de Protección Civil del Distrito Federal y su coordinación con el Sistema Nacional, incluyendo las acciones emprendidas por las Delegaciones, toda vez que son éstas, las responsables de atender, como organismos de primera respuesta, las situaciones de emergencia;
+
+VII. El impulso la investigación científica y el desarrollo tecnológico enfocado específicamente a la prevención y actuación ante los desastres;
+
+VIII. La planeación de los programas básicos de Protección Civil, tomando como marco referencial los mecanismos que permitan su actualización permanente y perfeccionamiento e instrumentación en todo el territorio del Distrito Federal; y,
+
+IX. Las acciones para atender a grupos vulnerables como niños, personas con discapacidad y personas adultas mayores, en caso de emergencia o desastre, incluirán, de forma enunciativa y no limitativa: las condiciones y especificaciones que deberán tener los refugios temporales; instalaciones especiales para su atención médica y psicológica; las medidas de capacitación y prevención para su apoyo en caso de evacuación; y, en general, todas aquellas acciones y medidas tendientes a preservar su bienestar biopsicosocial.
+
+###### Artículo 81.
+
+El Programa General de Protección Civil deberá precisar, en sus aspectos de organización y temporalidad, de manera enunciativa y no limitativa, las siguientes acciones:
+
+I. Definir a los responsables de la evaluación, vigilancia y cumplimiento del programa;
+
+II. Las medidas de prevención aplicables por tipo de fenómeno perturbador;
+
+III. Las actividades de prevención en servicios vitales, sistemas estratégicos, espacios sociales, deportivos y empresariales en al menos:
+
+a. Abasto;
+
+b. Agua potable;
+
+c. Alcantarillado;
+
+d. Comunicaciones;
+
+e. Desarrollo urbano:
+
+f. Energéticos;
+
+g. Electricidad;
+
+h. Salud;
+
+i. Seguridad pública;
+
+j. Transporte;
+
+k. Espacios públicos; y,
+
+l. Edificaciones de riesgo mayor (escuelas y hospitales).
+
+IV. La definición de proyectos de investigación y desarrollo destinados a profundizar en las causas de los fenómenos destructivos, así como a establecer procedimientos de prevención, auxilio y recuperación;
+
+V. El establecimiento y operación de los Sistemas de Monitoreo y Alertamiento Temprano de Desastres en el Distrito Federal;
+
+VI. La coordinación de acciones con los sectores público, privado, social y académico;
+
+VII. La coordinación con las autoridades educativas para integrar contenidos de protección civil en los Programas Oficiales;
+
+VIII. La definición de mecanismos y procedimientos para difundir medidas preventivas de protección civil;
+
+IX. Las acciones para fomentar e incrementar la resiliencia;
+
+X. La definición de procedimientos de comunicación social en caso de emergencia o desastre; y,
+
+XI. La definición de mecanismos y procedimientos para el establecimiento de refugios temporales y su administración, en caso de desastre.
+
+B) DE LOS PROGRAMAS DELEGACIONALES DE PROTECCIÓN CIVIL
+
+###### Artículo 82.
+
+El Programa Delegacional de Protección Civil deberá actualizarse de manera permanente con el diagnóstico de riesgos del Atlas Delegacional y contendrá las acciones específicas, coordinadas y delimitadas, que realicen los sectores público, social y privado en la materia.
+
+###### Artículo 83.
+
+La estructura del Programa Delegacional de Protección Civil se determinará en base a la densidad poblacional y la extensión territorial, debiendo tomar en cuenta la disponibilidad de recursos humanos, materiales y financieros de la demarcación.
+
+###### Artículo 84.
+
+El Programa Delegacional de Protección Civil, deberá contener, de manera enunciativa y no limitativa, lo siguiente:
+
+I. Objetivos del Programa;
+
+II. Identificación general de los riesgos a que está expuesta la población de la Delegación;
+
+III. Estrategias específicas de minimización de los riesgos en niveles de prevención, auxilio y apoyo;
+
+IV. Obligaciones de los participantes del Sistema de Protección Civil para el cumplimiento del Programa;
+
+V. Los antecedentes históricos de desastres en la Delegación;
+
+VI. Naturaleza y dinámica del desarrollo urbano y económico dentro de la demarcación territorial;
+
+VII. Recursos materiales y financieros disponibles. y
+
+VIII. Mecanismos de control y evaluación.
+
+###### Artículo 85.
+
+En la primera sesión ordinaria de los Consejos Delegacionales se presentarán los Programas Delegacionales de Protección Civil para conocimiento de los integrantes.
+
+C) DE LOS PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL
+
+###### Artículo 86.
+
+El Programa Interno de Protección Civil se deberá implementar en:
+
+I. Inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales, por parte de los propietarios o poseedores;
+
+II. Inmuebles destinados al servicio público, por parte del servidor público que designe el Titular;
+
+III. Unidades Habitacionales, por parte de los administradores; y,
+
+IV. Establecimientos mercantiles de mediano y alto riesgo, en términos del Reglamento, los Términos de Referencia y las Normas Técnicas, así como aquellos en donde los usuarios sean predominantemente personas con discapacidad, adultos mayores, mujeres embarazadas o se manejen sustancias o materiales peligrosos;
+
+V. Centros comerciales, donde el administrador del inmueble estará obligado a presentarlo e incluir lo correspondiente para los establecimientos mercantiles que forman parte del centro comercial, por lo que no será necesario que cada uno presente un programa individual, con excepción de aquellos que representen un alto riesgo dictaminado así por la Delegación.
+
+Las Delegaciones promoverán la implementación de los programas a los que se refiere el presente artículo y establecerán cursos de capacitación para la elaboración para los responsables de elaborarlos en Viviendas Plurifamiliares, Conjuntos Habitacionales y Unidades Habitacionales.
+
+Los cursos de capacitación a los que se refiere el párrafo anterior serán obligatorios cuando el responsable de hacerlo omita la presentación del Programa Interno de Protección Civil.
+
+###### Artículo 87.
+
+El Programa Interno de Protección Civil a que se refiere el artículo anterior deberá adecuarse a los Términos de Referencia y a las Normas Técnicas.
+
+Los Programas Internos deberán ser evaluados y en su caso aprobados por la Delegación; si existieren observaciones se dará un plazo de cinco días hábiles para subsanar las deficiencias.
+
+Una vez aprobado el Programa Interno de Protección Civil, la Delegación deberá clasificarlo y registrarlo en una base de datos que enviará a la Secretaría de manera semestral sin perjuicio de integrar una propia.
+
+###### Artículo 88.
+
+El Programa Interno de Protección Civil deberá ir acompañado con una carta de responsabilidad firmada por el obligado a contar con el Programa Interno de Protección Civil y cuando en su elaboración haya intervenido un tercer acreditado, se acompañará al mismo con una carta de corresponsabilidad, ésta última deberá señalar:
+
+I. Nombre, domicilio y número de registro vigente del Tercer Acreditado que la expide;
+
+II. Vigencia de la carta de corresponsabilidad, la cual no podrá ser inferior a un año.
+
+III. Actividades que ampara la carta de corresponsabilidad.
+
+IV. Firma original de otorgamiento.
+
+La falta de existencia de la carta de corresponsabilidad será causal para que el Programa Interno sea rechazado.
+
+La carta de corresponsabilidad podrá ser cancelada, sin responsabilidad para el tercero acreditado, cuando las actividades obligatorias establecidas en el Programa Interno de Protección Civil no sean cumplidas por el obligado.
+
+###### Artículo 89.
+
+Los edificios destinados al servicio público, además de las formas y requisitos que deben cubrir con los programas internos, determinarán y priorizarán las acciones necesarias para la protección de los grupos vulnerables y el resguardo de la información de sus archivos, cuando los hubiere.
+
+En caso de existir daño en las personas citadas en el párrafo anterior o que la información bajo su resguardo se pierda durante o después del impacto de un fenómeno perturbador por la falta de medidas preventivas, el Titular será responsable de los daños causados por las afectaciones y sancionado en los términos de esta ley, sin perjuicio de lo que disponga otra normatividad aplicable.
+
+###### Artículo 90.
+
+Los Programas a que se refiere el artículo anterior, deberán ser presentados ante la Secretaría, que emitirá las observaciones necesarias a fin de que se efectúen las adecuaciones para el óptimo funcionamiento preventivo en materia de protección civil.
+
+Las observaciones que emita la Secretaría se consideran de observancia obligatoria, prioritaria y urgente para todos los efectos.
+
+D) DE LOS PROGRAMAS ESPECIALES DE PROTECCIÓN CIVIL
+
+###### Artículo 91.
+
+Los Programas Especiales deberán presentarse ante la Delegación en donde se realizará la actividad o espectáculo, con 10 días hábiles de anticipación a la realización del evento.
+
+###### Artículo 92.
+
+Toda persona que pretenda realizar alguna actividad o espectáculo en la que se pretenda hacer uso de fuegos pirotécnicos tendrá la obligación de presentar un programa especial, con independencia de contar con un programa interno o cualquier otro instrumento preventivo.
+
+###### Artículo 93.
+
+Para el debido cumplimiento de lo establecido en el artículo anterior, la Delegación analizará y resolverá la autorización del evento, en su caso, en apego al cumplimiento de lo establecido en los Términos de Referencia y las Normas Técnicas.
+
+En caso de que el Programa Especial incumpla con alguno de los requisitos de validez, la Delegación deberá prevenir al particular de las omisiones con 5 días hábiles de anticipación, en cuyo caso, este contará con 3 días para subsanar las observaciones, de no hacerlo, se tendrá por no presentado.
+
+La falta de respuesta de la Delegación configura, para todos los efectos una afirmativa ficta sin responsabilidad para el organizador.
+
+###### Artículo 94.
+
+La falta de aprobación de un Programa Especial será motivo suficiente para clausurar de manera definitiva, sin responsabilidad para la Delegación, cualquier evento que requiera del mismo para su realización.
+
+E) DE LOS PROGRAMAS INSTITUCIONALES DE PROTECCIÓN CIVIL
+
+###### Artículo 95.
+
+El Programa Institucional de Protección Civil, es aquél elaborado, implementado y operado por las Dependencias, Organismos Descentralizados y Delegaciones cuando organicen, promuevan o produzcan actividades, eventos o espectáculos de afluencia masiva llevadas a cabo en áreas o inmuebles diferentes a su uso habitual.
+
+###### Artículo 96.
+
+Los Programas Institucionales deberán cubrir los mismos requisitos que un Programa Especial, sin embargo, será la Secretaría la autoridad que recibirá y en su caso autorizará dicho programa.
+
+La Secretaría cuenta con facultades para clausurar dichos eventos.
+
+#### SECCIÓN II. DE LA CAPACITACIÓN
+
+###### Artículo 97.
+
+Todos los elementos operativos del Sistema, así como las personas acreditadas para la elaboración de programas de protección civil, internos y especiales, tienen derecho a recibir capacitación por parte del Sistema y están obligados a cumplir con los requisitos de impartición gratuita que establece la presente ley.
+
+###### Artículo 98.
+
+Se consideran elementos operativos del Sistema todas y todos los servidores públicos adscritos a las Unidades de Protección Civil de las Delegaciones.
+
+###### Artículo 99.
+
+La Secretaría realizará las acciones necesarias para impartir la capacitación a la que se refiere la presente ley a través del Centro de Formación y Capacitación de Protección Civil.
+
+El Centro de Formación y Capacitación de Protección Civil se constituye como un órgano desconcentrado de la Secretaría que tiene como finalidad impartir capacitación a los operativos del Sistema y la población en general en materia de Protección Civil.
+
+El Centro de Formación y Capacitación de Protección Civil organizará y registrará las obligaciones que en materia de capacitación tengan los obligados que determina esta Ley e informará, de manera semestral a la Secretaría sobre sus acciones, sin perjuicio de lo establecido en la demás normatividad aplicable, teniendo esta última la obligación de actuar en consecuencia a lo establecido en esta y otras legislaciones.
+
+Las labores del Centro de Formación y Capacitación de Protección Civil estarán dirigidas por un Titular con nivel de Director General, que deberá contar, cuando menos, con 5 años de experiencia comprobable en materia de capacitación en materias afines con la protección civil y prevención del desastre.
+
+###### Artículo 100.
+
+La vigencia del nombramiento de los elementos operativos del Sistema requerirá, sin perjuicio de lo establecido en otras leyes, que el servidor público acredite 80 horas anuales de adiestramiento en las materias determinadas por la Secretaría y la impartición de cuando menos 40 horas de cursos básicos de protección civil para los ciudadanos en el territorio de la Delegación a la se encuentre adscrito o en el Centro de Formación y Capacitación de Protección Civil.
+
+###### Artículo 101.
+
+Los Terceros Acreditados por la Secretaría deberán cubrir las especificaciones de capacitación que imparta la Secretaría y establezca el reglamento, así como ofrecer cuando menos 40 horas anuales de cursos de capacitación gratuita para los elementos operativos.
+
+El Centro de Formación y Capacitación de Protección Civil determinará, en coordinación con la Secretaría, las materias de dicha capacitación y programará con el Tercero Acreditado las fechas de impartición, procurando no interferir con las actividades ordinarias del particular.
+
+#### SECCIÓN III. DE LA DIFUSIÓN Y FORTALECIMIENTO DE LA CULTURA DE LA PROTECCIÓN CIVIL
+
+###### Artículo 102.
+
+El Sistema impulsará el fortalecimiento de la cultura de protección civil que convoque y sume el interés de la población, así como su participación individual y colectiva.
+
+###### Artículo 103.
+
+El Titular del Sistema, promoverá que las Dependencias e Instituciones del sector público, con la participación de organizaciones e instituciones de los sectores privado y social, impulsen el desarrollo de una cultura preventiva, así como la educación para la autoprotección y la participación individual y colectiva en las acciones de protección civil.
+
+###### Artículo 104.
+
+El Titular del Sistema, en coordinación con las instituciones y dependencias públicas competentes y con la participación de instituciones y organismos privados y académicos promoverá:
+
+I. La incorporación de la materia de protección civil a los planes de estudio de todos los niveles educativos, públicos y privados en el ámbito del Distrito Federal.
+
+II. La realización de eventos de capacitación de carácter masivo a nivel Distrito Federal, por lo menos una vez cada tres meses, en los que se propagarán conocimientos básicos que permitan el aprendizaje de conductas de autoprotección al mayor número de personas posible;
+
+III. La ejecución de simulacros en los lugares de mayor afluencia de público, principalmente en oficinas públicas, planteles educativos, conjuntos habitacionales, edificios privados e instalaciones industriales, comerciales, de servicios y recreativas;
+
+IV. La formulación y promoción de campañas de difusión masiva y de comunicación con temas específicos de Protección Civil y relativos a cada ámbito geográfico al que vayan dirigidos, poniendo énfasis en las medidas de prevención y autoprotección, debiendo hacerse al nivel del Distrito Federal y Delegacional;
+
+V. El apoyo para el diseño y diseminación de materiales impresos y audiovisuales que promuevan la cultura de la prevención y la autoprotección;
+
+VI. La constitución de los acervos de información técnica y científica sobre fenómenos perturbadores que afecten o puedan afectar a la población y que permitan a ésta un conocimiento más concreto y profundo, así como la forma en que habrá de enfrentarlos en caso de ser necesario;
+
+VII. El establecimiento de programas educativos de difusión dirigidos a toda la población, que les permita conocer los mecanismos de ayuda en caso de emergencia, así como la manera en que pueden colaborar en estas actividades;
+
+VIII. La orientación acerca de los contenidos aplicables en situaciones de emergencia o desastre a toda la población;
+
+IX. La difusión para toda la población de los planes operativos para aprovechar el uso de sistemas de alertamiento;
+
+X. La distribución masiva del Plan Familiar de Protección Civil, así como de aquellos programas relacionados con fenómenos específicos identificados en las comunidades de las Delegaciones, y
+
+XI. Promover en inmuebles destinados a vivienda la práctica de la autoprotección vecinal.
+
+###### Artículo 105.
+
+La Secretaría coordinará campañas permanentes de capacitación y concientización en materia de protección civil, con la intervención que corresponda de los sectores público, social y privado.
+
+### CAPÍTULO III. DE LAS ACCIONES DE ATENCIÓN DE LA EMERGENCIA
+
+###### Artículo 106.
+
+La atención de emergencias comprende el periodo que transcurra desde el momento en que el Sistema tenga conocimiento de la posible ocurrencia de un fenómeno perturbador hasta que los efectos del mismo hayan desaparecido.
+
+###### Artículo 107.
+
+Las Delegaciones, en todos los casos, serán responsables de ejecutar las acciones necesarias para enfrentar las emergencias.
+
+###### Artículo 108.
+
+Las acciones de atención de las emergencias consistirán en:
+
+I. Proveer de alimentos, vestido y refugio temporal a la población;
+
+II. Prestación de servicios de atención médica;
+
+III. Restablecimiento de las vías de comunicación que impliquen facilitar el movimiento de personas y bienes, incluyendo la limpieza inmediata y urgente de escombros en calles, caminos, carreteras y accesos;
+
+IV. La reanudación del servicio eléctrico y el abastecimiento de agua;
+
+V. Evaluación de daños a servicios vitales y sistemas estratégicos; y,
+
+VI. Todas las demás que sean necesarias para proteger la vida, la salud y la integridad física de las personas.
+
+###### Artículo 109.
+
+En caso de existencia de una o más emergencias o riesgo inminente de desastre, sin perjuicio de la emisión de la declaratoria de emergencia o de desastre a la que se refiere esta ley, la Secretaría, las Delegaciones y la autoridad verificadora, en el ámbito de su competencia, ejecutarán las medidas de seguridad necesarias a fin de proteger la vida de la población, sus bienes y la planta productiva para garantizar el funcionamiento de los servicios esenciales de la comunidad.
+
+Las medidas de seguridad a las que se refiere el párrafo anterior podrán ser:
+
+I. El aislamiento temporal o permanente, parcial o total del área afectada;
+
+II. La suspensión de trabajos, actividades, servicios, eventos y espectáculos;
+
+III. La evacuación de inmuebles;
+
+IV. La clausura de establecimientos mercantiles; y,
+
+V. Las demás que sean necesarias para llevar a cabo la protección civil.
+
+Las autoridades podrán hacer uso de la fuerza pública para estos fines, de conformidad con lo dispuesto por la Ley que Regula el uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal.
+
+Asimismo, podrán promover la ejecución de las medidas de seguridad ante la autoridad competente en los términos de las leyes respectivas.
+
+###### Artículo 110.
+
+Cuando los efectos de un fenómeno perturbador superen las capacidades operativas o financieras de una Delegación, esta tendrá la obligación de informar de la situación al Titular del Sistema, adjuntando, en su caso, la solicitud de emisión de la declaratoria de emergencia.
+
+La actuación conjunta del Sistema derivada de lo establecido en el presente artículo, estará sujeta a los procedimientos especiales que establece la ley.
+
+###### Artículo 111.
+
+Cuando las afectaciones de un mismo fenómeno perturbador impactan a 2 o más Delegaciones pero no superan las capacidades operativas o financieras del conjunto, el Coordinador del Sistema tendrá solamente la obligación de integrar y coordinar las actividades, a solicitud de cualquiera de las Delegaciones, del Centro Operativo Regional correspondiente.
+
+#### SECCIÓN I. DE LOS PROCEDIMIENTOS ESPECIALES
+
+###### Artículo 112.
+
+Se considera que el Sistema actúa bajo procedimiento especial cuando existe declaratoria de emergencia o declaratoria de desastre por parte del Jefe de Gobierno.
+
+El Coordinador del Sistema reportará en la sesión ordinaria del Consejo posterior a la resolución de los asuntos que hayan originado el inicio de estos procedimientos, las acciones realizadas y resultados obtenidos.
+
+###### Artículo 113.
+
+Ante la inminencia o alta probabilidad de que ocurra un desastre que ponga en riesgo la vida humana, el patrimonio de la población, los servicios vitales o los servicios estratégicos y cuando la actuación expedita del Sistema de Protección Civil sea esencial, el Jefe de Gobierno podrá emitir, a solicitud de las Delegaciones o de la Secretaría, una declaratoria de emergencia, que se divulgará a través de los medios masivos de comunicación.
+
+Una vez emitida la declaratoria a la que se refiere el párrafo anterior, la Secretaría, por instrucciones del Jefe de Gobierno y en los términos que establezcan las Reglas de Operación, deberá erogar, con cargo al Fondo Revolvente del FADE, los montos necesarios para atenuar los efectos de la emergencia y responder en forma inmediata a las necesidades urgentes generadas por el mismo.
+
+###### Artículo 114.
+
+Esta Ley, el Presupuesto de Egresos del Distrito Federal, así como las disposiciones administrativas en la materia regularán los medios, formalidades y demás requisitos para la emisión de las declaratorias de emergencia y de desastre, y para acceder y hacer uso de los recursos financieros tendientes a la prevención y atención de desastres, atendiendo a la urgencia provocada por la presencia del agente perturbador.
+
+###### Artículo 115.
+
+Las declaratorias previstas en este capítulo, deberán ser publicadas en la Gaceta Oficial del Distrito Federal, sin perjuicio de que se difundan a través de otros medios de información y persistirán hasta en tanto se publique el término de la vigencia de aquellas que hayan iniciado.
+
+La declaratoria de emergencia podrá publicarse en dicho órgano de difusión con posterioridad a su emisión, sin que ello afecte su validez y efectos.
+
+###### Artículo 116.
+
+En caso de falta temporal del Jefe de Gobierno, la o el Secretario de Gobierno en funciones asumirá las atribuciones que el presente capítulo otorga al primero para la emisión de las declaratorias de emergencia y desastre.
+
+#### SECCIÓN II. DEL PROCEDIMIENTO ESPECIAL DE ATENCIÓN DE LA EMERGENCIA
+
+###### Artículo 117.
+
+Con la emisión de la Declaratoria de Emergencia, el Coordinador del Sistema informará del inicio del procedimiento especial de atención de emergencias, solicitará la integración del Comité de Emergencias e instruirá la de los Centros Operativos correspondientes.
+
+###### Artículo 118.
+
+El Comité de Emergencias de Protección Civil del Distrito Federal es el órgano encargado de la coordinación de acciones y toma de decisiones en situaciones de emergencia y desastre ocasionada por la presencia de fenómenos perturbadores que pongan en riesgo a la población, bienes y entorno.
+
+###### Artículo 119.
+
+El Titular del Sistema, a solicitud del Coordinador, instruirá la integración de Comité de Emergencias, que estará constituido por las y los Titulares de las Dependencias y Entidades de la Administración Pública del Distrito Federal, los Jefes Delegacionales y por los invitados que el Sistema considere.
+
+###### Artículo 120.
+
+El Comité de Emergencias estará presidido por el Titular del Sistema, y tendrá las siguientes atribuciones:
+
+I. Analizar la situación de emergencia o desastre que afecta al Distrito Federal, a fin de evaluar el alcance del impacto y formular las recomendaciones necesarias para proteger a la población, sus bienes y su entorno;
+
+II. Determinar las medidas urgentes que deben ponerse en práctica para hacer frente a la situación, así como los recursos indispensables para ello;
+
+III. Evaluar los medios materiales y financieros necesarios para las acciones de auxilio, recuperación y reconstrucción, e instruir su aplicación; y,
+
+IV. Vigilar el cumplimiento de las acciones acordadas y dar seguimiento a la situación de emergencia o desastre hasta que ésta haya sido superada.
+
+###### Artículo 121.
+
+Los esquemas de coordinación del Comité de Emergencias estarán precisados en el Reglamento.
+
+###### Artículo 122.
+
+Las acciones que el Sistema realiza a través de los Centros Operativos Regionales y del Distrito Federal, estarán contemplados en el Plan Permanente Ante Contingencias y las actuaciones estarán a cargo de la Secretaría en su carácter de Coordinador del Sistema.
+
+La integración de uno de los Centros Operativos Regionales, se considera urgente y prioritaria e implica la necesidad de unificar los esfuerzos del Sistema, por lo que las Unidades de Protección Civil de la Región, atendiendo el procedimiento establecido en el Plan Permanente Ante Contingencias, reportarán a dicho Centro y actuarán en beneficio de la Región afectada.
+
+La integración del Centro Operativo del Distrito Federal, se considera urgente y prioritario e implica la necesidad de unificar los esfuerzos del Sistema, por lo que todas las Unidades de Protección Civil del Distrito Federal, atendiendo el procedimiento establecido en el Plan Permanente Ante Contingencias, reportarán al Centro de adscripción y actuarán en beneficio del Distrito Federal.
+
+El Coordinador del Sistema podrá excusar la participación de las Unidades de Protección Civil en los casos establecidos en el Reglamento.
+
+###### Artículo 123.
+
+El presupuesto de egresos del Distrito Federal destinará los recursos necesarios para la operación de los Centros Operativos Regionales y el Centro Operativo del Distrito Federal en el Presupuesto asignado a la Secretaría de Protección Civil.
+
+El Consejo de Protección Civil, a solicitud de cualquiera de sus integrantes, podrá evaluar el gasto al que hace referencia el presente artículo, sin perjuicio de lo establecido en la normatividad de fiscalización vigente.
+
+###### Artículo 124.
+
+Los Centros Operativos Regionales detallarán, a través de un informe avalado por los Titulares de las Unidades de Protección Civil de las Delegaciones correspondientes, las acciones realizadas y los resultados obtenidos en el procedimiento especial.
+
+#### SECCIÓN III. DE LA ATENCIÓN DE DESASTRES
+
+###### Artículo 125.
+
+La atención de desastres se considera en todos los casos para efectos operativos como un procedimiento especial del Sistema.
+
+###### Artículo 126.
+
+La atención de destres (sic) inicia con la declaratoria de desastre que emita el Jefe de Gobierno y comprende hasta el momento en que se culminen las acciones tendientes a cubrir las necesidades básicas para protección de la vida, la salud y la integridad física de las personas.
+
+###### Artículo 127.
+
+La emisión de la declaratoria de desastre es independiente a la declaratoria de emergencia que haya sido emitida, por lo que los efectos de ambas estarán vigentes hasta en tanto se publique su término en la Gaceta Oficial del Distrito Federal.
+
+###### Artículo 128.
+
+Las acciones de atención de desastres corresponden a las Delegaciones y al Gobierno del Distrito Federal y se cubrirán con cargo a los recursos del FADE, en términos de las Reglas de Operación.
+
+###### Artículo 129.
+
+Una vez presentada la solicitud de declaratoria de desastre, la autoridad tendrá un plazo de hasta doce días naturales para su publicación en la Gaceta Oficial del Distrito Federal.
+
+El plazo para que se tenga acceso a los recursos del FADE no será mayor a treinta días naturales, contados a partir del día en que se publique en la Gaceta Oficial del Distrito Federal la declaratoria de desastre.
+
+En los casos en que los recursos del FADE se hayan agotado, sin perjuicio de lo establecido en la legislación vigente, el Gobierno del Distrito Federal hará las transferencias de partidas que correspondan para cubrir el desastre objeto de la declaratoria.
+
+###### Artículo 130.
+
+Durante el desastre, el Centro Operativo del Distrito Federal y los Centros Operativos Regionales estarán instalados y operarán bajo el mando del Sistema, a través de su Coordinador.
+
+###### Artículo 131.
+
+Cuando los efectos de un fenómeno perturbador superen las capacidades operativas o financieras del Sistema, el Jefe de Gobierno solicitará al Titular del Ejecutivo Federal, la expedición de una Declaratoria de Emergencia o una Declaratoria de Desastre, de acuerdo con el procedimiento establecido en la Ley General de Protección Civil.
+
+### CAPÍTULO IV. DE LA RECUPERACIÓN DE DESASTRES
+
+###### Artículo 132.
+
+La recuperación de desastres comprende las acciones tendientes a regresar a la población, su entorno, los servicios vitales, los sistemas estratégicos, la planta productiva y los servicios públicos a las condiciones en que se encontraba antes de que aconteciera el desastre, disminuyendo los agentes de riesgo.
+
+Las acciones de recuperación consistirán en:
+
+I. La ejecución de obra pública para el restablecimiento de avenidas y puentes;
+
+II. La reconstrucción de viviendas, escuelas y centros de salud, cuando sea el caso;
+
+III. La creación de fuentes temporales de trabajo que permitan que la población regrese paulatinamente a sus actividades normales de vida;
+
+IV. La reestructuración o, en su caso, reconstrucción de monumentos arqueológicos y los inmuebles artísticos e históricos que se encuentren bajo custodia del Gobierno del Distrito Federal en los términos de la legislación aplicable.
+
+###### Artículo 133.
+
+Las Reglas de Operación contemplarán la participación de lo (sic) recursos que serán erogados con cargo al FADE, para la operación de las acciones establecidas en el artículo anterior.
+
+###### Artículo 134.
+
+En las acciones de recuperación se otorgará especial atención a los grupos vulnerables y a la reducción de la vulnerabilidad física de la infraestructura dañada.
+
+###### Artículo 135.
+
+Las acciones que el sistema realice durante esta etapa incluirán la participación de la población y todo el servicio público del Distrito Federal.
+
+### CAPÍTULO V. DE LA EJECUCIÓN DE LAS MEDIDAS DE SEGURIDAD
+
+###### Artículo 136.
+
+Cuando las autoridades adviertan, previo dictamen, que alguna propiedad privada representa un riesgo en materia de protección civil, requerirán al propietario, administrador o poseedor del bien que cause el riesgo que realice las obras de mitigación que resulten necesarias. Dicho requerimiento deberá realizarse en los términos establecidos por el procedimiento que para tal efecto deberá contemplarse en el reglamento de la presente ley.
+
+###### Artículo 137.
+
+Los propietarios, administradores, poseedores del bien que cause el riesgo estarán obligados a ejecutar las obras de mitigación necesarias para evitar daños en materia de protección civil a la población sus bienes o entorno, así como aquellas necesarias para impedir el acceso al sitio de riesgo.
+
+###### Artículo 138.
+
+Una vez concluidas las obras de mitigación en materia de protección civil, el propietario, administrador, o poseedor dará aviso de terminación a la autoridad que ordenara los trabajos, la que revisará la ejecución de los mismos, pudiendo, en su caso, ordenar su modificación o corrección.
+
+###### Artículo 139.
+
+La autoridad competente podrá imponer como medida de seguridad la suspensión total de actividades que provoquen riesgo inminente de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal.
+
+###### Artículo 140.
+
+Cuando la autoridad imponga alguna medida de seguridad debe señalar el plazo que concede al visitado para efectuar las obras de mitigación y definir con precisión los trabajos y acciones que tiendan a mitigar las causas que motivaron la imposición de la medida de seguridad.
+
+###### Artículo 141.
+
+Una vez que el propietario, administrador, o poseedor hubiere sido requerido para realizar las obras de mitigación y estas no se realizaran, de existir una situación de riesgo inminente, la autoridad podrá proceder en términos de lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal, haciendo uso de la fuerza pública para garantizar el cumplimiento de la orden incluyendo la desocupación temporal de inmuebles.
+
+###### Artículo 142.
+
+Cualquier afectado por la medida de seguridad impuesta, podrá interponer recurso de inconformidad de acuerdo con lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal. En su caso, una vez confirmada la medida, la autoridad podrá hacer uso de la fuerza pública para hacerla cumplir.
+
+###### Artículo 143.
+
+La orden de desocupación no implica la pérdida de los derechos u obligaciones que existan entre el propietario y los afectados por la medida de seguridad, quienes en su caso deberán ser indemnizados por el causante del riesgo, salvo caso fortuito o fuerza mayor.
+
+###### Artículo 144.
+
+En caso de rebeldía la autoridad podrá ejecutar las medidas de seguridad impuestas en materia de protección civil a costa del propietario, administrador, o poseedor del bien que cause el riesgo. A los gastos derivados de esta ejecución se les dará el tratamiento de crédito fiscal, cuya recuperación será efectuada por la Secretaría de Finanzas.
+
+## TÍTULO CUARTO. DE LA PARTICIPACION PRIVADA Y SOCIAL
+
+### CAPÍTULO I. DE LOS GRUPOS VOLUNTARIOS
+
+###### Artículo 145.
+
+Son grupos voluntarios las agrupaciones legalmente constituidas, cuyo objeto social no tenga fines de lucro y presten sus servicios de manera altruista en actividades vinculadas a la protección civil.
+
+Las Brigadas de Emergencia de instalaciones de los sectores público social y privado podrán registrarse como grupos voluntarios para servicio interno en sus centros de trabajo presentando carta de solicitud firmada por el representante legal de su institución.
+
+###### Artículo 146.
+
+Para que un grupo voluntario pueda ser reconocido por la autoridad, deberá haber obtenido el registro ante la Secretaría.
+
+Los grupos voluntarios cuyo ámbito de actuación sea el Distrito Federal obtendrán su registro mediante la presentación de una solicitud en la que se cumplan los requisitos que establece el Reglamento, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
+
+La Secretaría conformará un padrón e informará a las Delegaciones sobre el registro de los grupos dentro de su jurisdicción.
+
+###### Artículo 147.
+
+El trámite para la obtención del registro como grupo voluntario ante la Secretaría será gratuito.
+
+###### Artículo 148.
+
+Son derechos y obligaciones de los grupos voluntarios:
+
+I. Disponer del reconocimiento oficial una vez obtenido su registro;
+
+II. Recibir capacitación en materia de protección civil, cuando proceda, en los términos de las disposiciones aplicables, así como reconocimientos por acciones realizadas en beneficio de la población;
+
+III. Contar con un directorio actualizado de sus miembros;
+
+IV. Cooperar en la difusión de la Cultura de Protección Civil;
+
+V. Comunicar a las autoridades de Protección Civil la presencia de una situación de probable o inminente riesgo;
+
+VI. Coordinarse bajo el mando de las autoridades en caso de un riesgo de emergencia o desastre;
+
+VII. Abstenerse de solicitar o recibir contraprestación alguna, de las personas a quienes hayan prestado su ayuda en situaciones de riesgo, emergencia o desastre;
+
+VIII. Refrendar anualmente su registro, mediante la renovación de los requisitos que prevean los ordenamientos correspondientes; y,
+
+IX. Participar en todas aquellas actividades del Programa General de Protección Civil que estén en posibilidad de realizar.
+
+### CAPÍTULO II. DE LOS BRIGADISTAS COMUNITARIOS
+
+###### Artículo 149.
+
+Los Brigadistas Comunitarios son las personas capacitadas por la autoridad o por medios propios en materias afines a la protección civil, registradas en la red de brigadistas comunitarios, manteniendo coordinación con las autoridades de protección civil delegacionales o de la Secretaría.
+
+###### Artículo 150.
+
+La Red de Brigadistas Comunitarios del Distrito Federal, es la estructura de organización, preparación y capacitación individual y voluntaria de miembros de la sociedad, con el fin de coordinar y compartir esfuerzos para enfrentar en su entorno riesgos causados por fenómenos de origen natural o humano.
+
+###### Artículo 151.
+
+La Secretaria promoverá y coordinará el funcionamiento de la Red de Brigadistas Comunitarios del Distrito Federal.
+
+###### Artículo 152.
+
+Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse preferentemente en grupos voluntarios o integrarse a los ya registrados, a fin de recibir información y capacitación para realizar en forma coordinada las acciones de Protección Civil
+
+### CAPÍTULO III. DE LOS TERCEROS ACREDITADOS
+
+###### Artículo 153.
+
+Los terceros acreditados que por su actividad y experiencia se vinculen en materia de protección civil, deberán obtener autorización ante la Secretaría, mediante la presentación de una solicitud en la que se acredite:
+
+I. Estudios en materia de protección civil o afines, tales como:
+
+a) Administración, gestión, planeación, prevención o atención de emergencias,
+
+b) Administración, gestión, planeación, prevención o atención de desastres,
+
+c) Administración de Sistemas de Seguridad ocupacional, industrial o laboral.
+
+d) Planeación de la Continuidad de la Operación de Negocios o de Organizaciones del Sector Público.
+
+Para efectos legales serán válidas las constancias de estudios realizados en el extranjero.
+
+II. Experiencia mínima de 3 años en Protección Civil;
+
+III. Medios técnicos mediante los cuales llevarán a cabo, según la modalidad que soliciten, lo siguiente:
+
+a) Los cursos de capacitación;
+
+b) Estudios de riesgo-vulnerabilidad, o
+
+c) La elaboración de programas internos y especiales de protección civil.
+
+IV. Personalidad jurídica, en su caso.
+
+La autorización será obligatoria, tendrá una vigencia de dos años y permitirá a los terceros acreditados y a las empresas capacitadoras, de consultoría y estudios de riesgo vulnerabilidad que cuenten con él, emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas internos o especiales de protección civil que elaboren.
+
+Para solicitar la renovación de la autorización, se deberá observar lo establecido en el artículo 101 de la ley.
+
+###### Artículo 154.
+
+La Secretaría deberá dar respuesta a la solicitud de autorización o de renovación de éste, en un plazo máximo de 15 días hábiles, contados a partir del día siguiente de su presentación. En caso de que la autoridad no conteste en el plazo arriba indicado, se entenderá la respuesta en sentido afirmativo.
+
+La solicitud de renovación de la autorización deberá presentarse ante la Secretaría 30 días naturales antes de que concluya la vigencia del mismo. Para la renovación de la autorización, además de los requisitos que se especifiquen en el Reglamento, deberá acreditar cursos de actualización en materia de protección civil o afines.
+
+###### Artículo 155.
+
+Las modalidades para las cuales se otorgará autorización para prestar los servicios de terceros acreditados son las siguientes:
+
+I. Capacitación;
+
+II. Elaboración de Programas Internos y Especiales de Protección Civil; y,
+
+III. Elaboración de Estudios de Riesgo Vulnerabilidad.
+
+###### Artículo 156.
+
+Los terceros acreditados, solo podrán realizar las actividades expresamente autorizadas.
+
+###### Artículo 157.
+
+Los Terceros Acreditados tendrán las siguientes obligaciones:
+
+I. Apoyar acorde a sus capacidades de manera altruista en la labores de auxilio, ante la ocurrencia de una emergencia o desastre, de manera organizada y coordinados por la Secretaría, cuando sean convocados;
+
+II. Cumplir con las obligaciones de capacitación gratuita que establece el artículo 101 de la ley;
+
+III. Coadyuvar acorde a sus capacidades, en las acciones de evaluación de inmuebles ante la ocurrencia de una emergencia o desastre, de manera organizada y coordinados por las autoridades competentes;
+
+IV. Presentar reporte de actividades bianualmente ante la Secretaría;
+
+V. Mantenerse actualizado en los aspectos técnicos de los temas relacionados con las normas, reglamentos y procedimientos que rigen la especialidad para la cual fue acreditado, mediante los cursos oficiales que impartan la Secretaría, colegios de profesionales, asociaciones, capacitadores, organizaciones educativas o empresas que estén registrados como terceros acreditados para capacitación;
+
+VI. Otorgar una carta de corresponsabilidad por los Programas Internos y Especiales que elaboran;
+
+VII. Mantener bajo estricto control y reserva los documentos, constancias, formularios, registros y certificados que se le proporcionen, para el ejercicio de las funciones que se le han conferido, y
+
+VIII. Dar aviso a la Secretaría cuando después de elaborar el Programa Interno o Especial de Protección Civil para empresas, industrias o establecimientos, éstas no cumplan de manera reiterada y dolosa las obligaciones calendarizadas establecidas en el mismo.
+
+###### Artículo 158.
+
+La carta de corresponsabilidad que emitan los terceros acreditados obliga a estos a supervisar el cumplimiento de las obligaciones calendarizadas a cargo del propietario, gerente o administrador de la empresa, industria o establecimiento para la cual elaboraron el correspondiente Programa Interno o Especial de Protección Civil.
+
+Las acciones de mitigación y operación del Programa Interno de Protección Civil serán obligación de los propietarios, gerentes o administradores de las empresas, industrias o establecimientos que estén obligados a contar con Programa Interno de Protección Civil.
+
+###### Artículo 159.
+
+Los Colegios de Profesionales, Asociaciones, Organizaciones educativas, personas físicas, y empresas de capacitación podrán capacitar al público en general, para que obtengan el registro correspondiente como terceros acreditados, de conformidad con los lineamientos que para el efecto establezca el Reglamento.
+
+### CAPÍTULO IV. DE LOS MEDIOS DE COMUNICACIÓN
+
+###### Artículo 160.
+
+El Jefe de Gobierno, por si o a través de la Secretaría, invitará a representantes de medios de comunicación, a participar en actividades relacionadas con la Protección Civil.
+
+Al efecto, promoverá la suscripción de convenios de concertación de acciones para la capacitación recíproca, el alertamiento, difusión ante situaciones de emergencia o desastre; su incorporación en la elaboración de planes, programas y recomendaciones; así como en el diseño y transmisión de información pública acerca de la Protección Civil.
+
+###### Artículo 161.
+
+En los convenios que se establezcan se planteará el apoyo de los medios de comunicación con la Secretaría en las campañas permanentes de difusión que diseñe sobre temas de protección civil que contribuyan a avanzar en la conformación de una cultura en la materia, así como a fortalecer la disposición e interés de la población por participar activamente en las acciones de protección civil.
+
+### CAPÍTULO V. DE LOS COMITÉS DE AYUDA MUTUA
+
+###### Artículo 162.
+
+Las y los dueños de industrias constituirán conjuntamente con la comunidad, Comités de Ayuda Mutua, cuando al menos cincuenta personas de la población vecina así lo soliciten a la Unidad de Protección Civil correspondiente, con el objetivo de colaborar recíprocamente en materia de Protección Civil.
+
+Todo Comité de Ayuda Mutua se registrará ante la Secretaría, mediando únicamente aviso por escrito en el que se señalará:
+
+I. Razón Social y nombre comercial de las empresas o industrias.
+
+II. Responsable para efectos de comunicación.
+
+III. Copia del acuerdo, acta o cualquier documento en que conste dicho Comité.
+
+La Secretaría notificará dicho registro a las Unidades de Protección Civil correspondiente.
+
+###### Artículo 163.
+
+Las Industrias que por vecindad, giro, o que por cualquier otra característica compartan riesgos similares podrán conformar Comités de Ayuda Mutua de manera voluntaria.
+
+A la vez, podrán constituirse con los establecimientos industriales, comerciales o de servicios que se encuentren adyacentes o con vecindad en un rango de 500 metros, con el objetivo de realizar en conjunto labores de preparación y rehabilitación o prestar material y equipo durante las labores de auxilio y de mitigación de impacto de un fenómeno destructivo.
+
+###### Artículo 164.
+
+Los Comités de Ayuda Mutua deberán:
+
+I. Establecer medidas generales de seguridad.
+
+II. Recibir capacitación.
+
+III. Comunicar a las autoridades de Protección Civil la presencia de una situación de probable o inminente riesgo; y,
+
+IV. Coordinarse bajo el mando de las autoridades en caso de un riesgo, emergencia o desastre.
+
+### CAPÍTULO VI. DE LAS ALERTAS, AVISOS Y QUEJAS EN MATERIA DE PROTECCIÓN CIVIL
+
+###### Artículo 165.
+
+En todo inmueble de la Administración Pública del Distrito Federal deberá existir un Sistema de Alerta Sísmica.
+
+###### Artículo 166.
+
+La Secretaría instalará por sí o a través de personas físicas o morales autorizadas para el efecto, sistemas de alarma audible y visible conectados al Sistema de Alerta Sísmica en puntos de la ciudad, geográficamente estratégicos y de afluencia masiva, con el fin de prevenir a la población en caso de un sismo, en los términos que establezca el Reglamento.
+
+###### Artículo 167.
+
+Los particulares estarán obligados a dar aviso de manera inmediata y veraz a la Secretaría o a las Unidades de Protección Civil, respecto de la existencia de situaciones de alto riesgo, emergencia o desastre.
+
+###### Artículo 168.
+
+Previo al inicio de la celebración de eventos, actividades o espectáculos públicos de afluencia masiva, los promotores, organizadores o responsables del mismo, deberán informar a los asistentes por cualquier medio, las medidas en materia de protección civil con las que cuenta el establecimiento mercantil o el lugar en el que se desarrolla, así como avisar sobre la señalización de salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra una emergencia o desastre.
+
+Toda celebración a la que se refiere el artículo anterior deberá tomar medidas especiales para personas con discapacidad y de la tercera edad.
+
+La omisión de lo establecido en el presente artículo, se sancionará conforme lo establece la Ley para la Celebración de Espectáculos Públicos del Distrito Federal.
+
+###### Artículo 169.
+
+Toda persona tiene derecho a presentar queja por escrito o verbalmente ante la Secretaría o las Delegaciones, por hechos o actos que puedan producir daño o perjuicio en su persona o la de terceros, bienes o entorno, por la omisión de medidas preventivas que generen riesgo en lugares públicos.
+
+Para la procedencia de la queja, es indispensable el señalamiento de los datos necesarios que permitan localizar el lugar, así como el nombre y domicilio del denunciante, para que se efectúen, con oportunidad por parte de las autoridades, las diligencias necesarias para la comprobación de los hechos o actos motivo de la queja y estar en posibilidades de llevar a cabo la evaluación correspondiente y actuar en consecuencia.
+
+La Secretaría o las Delegaciones, a más tardar dentro de los 5 días siguientes a la presentación de la queja, harán del conocimiento del quejoso el trámite que se haya dado a aquella y, dentro de los 10 días hábiles siguientes a la verificación, el resultado de la misma y, en su caso, las medidas impuestas.
+
+### CAPÍTULO VII. DE LOS ESTUDIOS DE RIESGO
+
+###### Artículo 170.
+
+Las autoridades competentes previo al otorgamiento de manifestaciones de construcción o licencia de construcción especial para conjuntos habitacionales, escuelas, estaciones de servicio, gaseras, estaciones de carburación, hospitales, instalaciones subterráneas y en general empresas, industrias o establecimientos que en los términos del Reglamento, sean considerados de alto riesgo, deberán solicitar a los promoventes la autorización de la Secretaría.
+
+Los requisitos para obtener la autorización a que se refiere el párrafo anterior, se establecerán en el Reglamento.
+
+###### Artículo 171.
+
+La Secretaría y las Delegaciones elaborarán, por si o a petición de parte, dictámenes técnicos de riesgo de los sitios, inmuebles o actividades. Las observaciones que se realicen respecto a dicho estudio serán de cumplimiento obligatorio y deberán informarse a la autoridad emisora.
+
+## TÍTULO QUINTO. DEL FINANCIAMIENTO DE LA PROTECCIÓN CIVIL
+
+###### Artículo 172.
+
+Las erogaciones correspondientes al financiamiento del Sistema de Protección Civil, serán previstas en el presupuesto de sus integrantes, y se aplicarán para dicho fin.
+
+###### Artículo 173.
+
+La Administración Pública del Distrito Federal, podrá recibir donaciones para fortalecer la cultura en materia de protección civil de la población, así como para la mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de emergencia o desastre.
+
+###### Artículo 174.
+
+La Secretaría establecerá las bases para recibir, distribuir y aplicar de acuerdo a las prioridades, los donativos y remanentes de estos, que los particulares otorguen para los fines que establece el artículo anterior.
+
+###### Artículo 175.
+
+Corresponde al Gobierno del Distrito Federal impulsar en los procesos de planeación y presupuestación que operan en el Distrito Federal, recursos destinados a la creación y sostenimiento del FADE, del FOPDE y del FIPDE, que permitan el desarrollo de los programas y el cumplimiento de los objetivos del Sistema de Protección Civil.
+
+La totalidad de los recursos obtenidos por el pago de derechos en materia de protección civil a los que se refiere el Código Fiscal del Distrito Federal serán destinados a integrar parte de los recursos del FADE
+
+## TÍTULO SEXTO. DE LAS SANCIONES Y RECURSOS
+
+### CAPÍTULO I. DE LAS SANCIONES
+
+###### Artículo 176.
+
+La Secretaría coadyuvará, en los términos del artículo 13 de esta Ley, con las autoridades responsables en determinar las afectaciones causadas al Sistema.
+
+###### Artículo 177.
+
+Corresponde a la Secretaría denunciar ante las autoridades competentes las conductas que así lo ameriten, ejercitar las acciones que le correspondan, en términos de la legislación aplicable, y representar los intereses del Sistema en los procesos en los que sea requerido.
+
+###### Artículo 178.
+
+La omisión en el cumplimiento de las obligaciones de los servidores públicos será sancionada de acuerdo a lo establecido en la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Para la imposición de las responsabilidades se tomará en cuenta, adicionalmente a lo establecido en la Ley Federal de Responsabilidades de los Servidores Públicos, las afectaciones generadas a las personas y/o al Sistema por las acciones u omisiones de los servidores públicos.
+
+###### Artículo 179.
+
+La omisión en el cumplimiento de las medidas preventivas que generen una afectación a los grupos vulnerables o a la información pública por causas imputables al servidor público responsable del resguardo o expedición de los mismos, se equipara al delito de ejercicio ilegal del servicio público en términos de lo establecidos en el artículo 259 fracción IV del Código Penal para el Distrito Federal.
+
+###### Artículo 180.
+
+El servidor público que teniendo la obligación de custodiar, vigilar y evitar el asentamiento humano en zonas dictaminadas como de alto riesgo, autorice, permita o tolere la existencia de los mismos, será sancionado en los términos que establece el Código Penal para el Distrito Federal, además de las sanciones administrativas a las que haya lugar.
+
+###### Artículo 181.
+
+Se equipara al delito de usurpación de profesión y se sancionará conforme a lo establecido en el artículo 323 del Código Penal para el Distrito Federal, a la persona que sin contar con la acreditación correspondiente se atribuya públicamente el carácter de tercero acreditado u ofrezca o desempeñe públicamente los servicios reservados para los mismos.
+
+###### Artículo 182.
+
+La violación a las disposiciones de esta Ley, su Reglamento y demás disposiciones, por parte de los particulares, será sancionada administrativamente por la Secretaría o la Delegación correspondiente, o por el Juez Cívico conforme a sus respectivas competencias, sin perjuicio de la aplicación de las penas que correspondan, cuando sean constitutivas de delito.
+
+###### Artículo 183.
+
+El servidor público que teniendo a su cargo la administración o ejecución de recursos provenientes de los fondos y el fideicomiso a los que se refiere la ley, y les de un uso diferente o retrace (sic) la aplicación de los mismos, será sancionado de conformidad a lo establecido en el artículo 267 del Código Penal para el Distrito Federal por el perjuicio de la protección de la vida, bienes y entorno de la población.
+
+###### Artículo 184.
+
+Las sanciones de carácter administrativo podrán ser:
+
+I. Multa;
+
+II. Revocación del Registro a Grupos Voluntarios y Terceros Acreditados;
+
+III. Suspensión o clausura de eventos y establecimientos mercantiles; y,
+
+IV. Revocación del nombramiento de funcionarios de protección civil
+
+En el caso de reincidencia, el monto de la multa podrá ser hasta dos veces del monto originalmente impuesto, sin exceder del máximo permitido.
+
+###### Artículo 185.
+
+La falta de existencia de un Programa Interno de Protección Civil para los establecimientos mercantiles y empresas de mediano y alto riesgo, será causal de multa de 20 a 200 veces el Salario Mínimo General Vigente en el Distrito Federal, así como clausura, previo desahogo del procedimiento preventivo que establezca el Reglamento.
+
+###### Artículo 186.
+
+En el caso de las empresas que deban contar con una Póliza de Seguro adicional al Programa Interno de Protección Civil y no lo hagan, se sancionará con multa de 500 a 1000 veces el Salario Mínimo General Vigente en el Distrito Federal y la clausura de las instalaciones hasta en tanto se cubra con dicho requisito.
+
+###### Artículo 187.
+
+La omisión en el cumplimiento de la realización de los simulacros obligatorios que señala la ley será sancionada con multa de 100 a 500 veces el Salario Mínimo General Vigente en el Distrito Federal.
+
+###### Artículo 188.
+
+Las (sic) inasistencia a los cursos de capacitación para la implementación del Programa Interno de Protección Civil, cuando esta sea obligatoria, se sancionará con multa de 20 a 100 veces el Salario Mínimo General Vigente en el Distrito Federal, además de la elaboración del Programa Interno de Protección Civil por parte del tercero acreditado que la Delegación determine, con cargo para los obligados.
+
+Las Delegaciones determinarán la o el tercero acreditado que elaborará dicho programa preferentemente con base en el padrón registrado en su demarcación.
+
+El Reglamento determinará el sistema de rotación para asegurar la igualdad de oportunidades para los terceros acreditados en la elaboración de los programas establecidos en el artículo anterior.
+
+###### Artículo 189.
+
+Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumplimiento las obligaciones de los Grupos Voluntarios se sancionará con la pérdida de su registro.
+
+###### Artículo 190.
+
+Por denuncia ante la Secretaría, debidamente fundada y motivada por el incumplimiento las (sic) obligaciones o deficiencias en el trabajo de los Terceros Acreditados, se sancionará con suspensión o pérdida de su registro.
+
+El Reglamento determinará las causas y efectos de los supuestos del párrafo anterior.
+
+###### Artículo 191.
+
+A las Organizaciones Civiles y Terceros Acreditados que proporcionen información falsa para obtener el registro correspondiente, se les impondrá multa de 1000 a 1500 veces el Salario Mínimo General Vigente en el Distrito Federal.
+
+###### Artículo 192.
+
+Para la imposición de las sanciones a que se refiere este ordenamiento, que aplique la Secretaría y las Delegaciones se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPÍTULO II. DE LOS RECURSOS
+
+###### Artículo 193.
+
+Contra las resoluciones emitidas por la Secretaría o las Delegaciones que impongan una sanción, procederá el recurso de inconformidad, de acuerdo a lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal. De igual manera, los particulares podrán interponer el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente decreto entrará en vigor el al (sic) día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se abroga la Ley de Protección Civil para el Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 23 de julio de 2002, así como el Reglamento de la Ley de Protección Civil para el Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 23 de diciembre de 2005; debiendo observarse respecto a este último lo señalado en el Transitorio Séptimo de esta Ley; asimismo se deroga cualquier disposición que contravenga lo dispuesto por esta Ley.
+
+CUARTO.- El Reglamento, los términos de referencia y los lineamientos a los que hace referencia la Ley del Sistema de Protección Civil del Distrito Federal deberán ser publicados en la Gaceta oficial dentro de los 90 días naturales a la entrada en vigor de la presente ley.
+
+QUINTO.- La Secretaría de Finanzas, en el ámbito de sus atribuciones y en el término de 90 días naturales siguientes a la entrada en vigor de la presente Ley, informará a esta H. Asamblea las adecuaciones que se requieran en materia presupuestal para su atención.
+
+SEXTO.- Los Programas Internos y Especiales de Protección Civil autorizados con anterioridad a la publicación de los términos de referencia actualizados en base a lo estipulado de esta Ley, estarán vigentes en los términos y con la temporalidad autorizada por la autoridad.
+
+SÉPTIMO.- Hasta en tanto se publica el Reglamento y las disposiciones a las que se refiere el artículo tercero transitorio, estarán vigentes las actuales en lo que no se oponga a la presente Ley.
+
+OCTAVO.- Los registros vigentes de Terceros Acreditados mantendrán tal condición a partir de la entrada en vigor de esta Ley y hasta que se cumpla alguno de los supuestos de los artículos 144 y 145.
+
+NOVENO.- La Secretaría entregará a los Órganos Político Administrativos los padrones a los que hace referencia esta ley, en un término no mayor a 60 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO.- La publicación en los portales institucionales de los padrones a los que hace referencia la presente ley, deberá hacerse en un periodo no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO PRIMERO.- Las obligaciones de capacitación a los (sic) que hace referencia la presente Ley serán exigibles a partir del año 2012.
+
+DÉCIMO SEGUNDO.- La Secretaría contará con un término de 60 días naturales posteriores a la entrada en vigor de la presente ley para integrar y presentar, en los términos de esta ley, la propuesta de integración de los Centros Operativos Regionales, así como lo correspondiente a los lineamientos técnicos operativos para la elaboración de los Atlas Delegacionales.
+
+DÉCIMO TERCERO.- La Secretaría y los Órganos Político Administrativos del Distrito Federal realizarán las adecuaciones necesarias en la estructura orgánica para dar cumplimiento a la conformación que establece la presente Ley, en un término no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
+
+.
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los once días del mes de mayo del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. NORBERTO ASCENCIO SOLIS CRUZ, PRESIDENTE, DIP. JOSÉ VALENTÍN MALDONADO SALGADO, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- (Firmas)
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de julio del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.-EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- LA SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSAMÁRQUEZ CABRERA.- FIRMA.
