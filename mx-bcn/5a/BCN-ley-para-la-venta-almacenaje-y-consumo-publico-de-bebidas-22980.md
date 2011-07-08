@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2010-12-27"
+last_updated: "2011-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -43,17 +43,23 @@ LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTA
 
 Del objeto de la ley.- La presente ley es de orden público, interés social y de observancia obligatoria en el Estado de Baja California. Tiene por objeto establecer las disposiciones generales mediante las cuales los municipios regularán la venta, almacenaje para su venta y la venta para consumo de bebidas alcohólicas, dentro de sus jurisdicciones territoriales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 2.
 
-De las atribuciones de los municipios.- En materia de salud y seguridad públicas (sic), así como para la prevención de adicciones dentro de sus respectivas jurisdicciones, los municipios están facultados para:
+De las atribuciones de los municipios.- En materia de salud y seguridad pública, así como la prevención de adicciones dentro de sus respectivas jurisdicciones, los municipios están facultados para:
 
 I.- Regular la venta al público de bebidas alcohólicas en envase cerrado en cualquiera de sus presentaciones, o su almacenaje con ese fin;
 
 II.- Regular la venta de bebidas alcohólicas, en envase abierto para su consumo, al público en general;
 
-III.- Expedir la reglamentación y normas técnicas necesarias para el debido ejercicio de las facultades y atribuciones derivadas de la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
 
-IV.- Autorizar o revocar en su caso, los permisos para la venta, almacenaje para su venta, o venta para consumo de bebidas alcohólicas en establecimientos o giros, o en eventos públicos, así como para la explotación de servicios adicionales de conformidad con el reglamento municipal correspondiente, atendiendo a los siguientes elementos:
+III.- Expedir la reglamentación y normas técnicas necesarias para el debido ejercicio de las facultades y atribuciones derivadas de la presente Ley, así como realizar campañas sanitarias y de seguridad pública en coordinación con las secretarías de salud y seguridad pública.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+IV.- Autorizar, modificar, o revocar en su caso, los permisos para la venta, almacenaje para su venta, o venta para consumo de bebidas alcohólicas en establecimientos o giros, o en eventos públicos, así como para la explotación de servicios adicionales de conformidad con el reglamento municipal correspondiente, atendiendo a los siguientes elementos:
 
 a).- Seguridad pública;
 
@@ -67,7 +73,17 @@ V.- Adoptar las medidas para evitar que la explotación de los giros autorizados
 
 VI.- Realizar las inspecciones y la vigilancia en la materia, imponiendo las sanciones y medidas de seguridad, de conformidad con la reglamentación municipal que expidan.
 
-Las atribuciones que esta ley otorga a los municipios en materia de regulación o en su caso, para el otorgamiento de los permisos a que se refiere la ley, deberán ser ejercidas y autorizadas por los ayuntamientos y por las dependencias o funcionarios que éstos expresamente autoricen, de conformidad con el reglamento correspondiente.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VII.- Formular e implementar programas de control y prevención de ingestión de bebidas alcohólicas en conductores de vehículos que apliquen operativos de alcohometría, con la finalidad de salvaguardar la integridad física de los conductores, la de sus familias y terceros, así como de preservar el orden público y vialidad, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VIII.- Llevar a cabo verificaciones y visitas cuando se desprenda que dentro de un sitio se efectúa la venta clandestina de bebidas alcohólicas o se tengan prácticas que lesionen la salud, los intereses o derechos de los consumidores.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+
+Las atribuciones que esta ley otorga a los municipios en materia de regulación, difusión de campañas, formulación e implementación de programas, o en su caso, para el otorgamiento de los permisos a que se refiere la ley, deberán ser ejercidas y autorizadas por los Ayuntamientos y por las dependencias o funcionarios que éstos expresamente autoricen, de conformidad con el reglamento correspondiente.
 
 ###### ARTÍCULO 3.
 
@@ -269,23 +285,21 @@ No se considerará área de servicio al cliente, los espacios dedicados a estaci
 
 De los servicios adicionales.- Los permisionarios de los establecimientos o giros cuya actividad autorizada incluya la venta para consumo de bebidas alcohólicas, deberán solicitar a la autoridad municipal la autorización para la explotación de servicios adicionales que no se encuentren incluidos en el permiso originario, conforme se establezca en el reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
-###### ARTICULO 17.
+###### ARTÍCULO 17.
 
-De los horarios de la actividad.- Los establecimientos autorizados para realizar las actividades, podrán iniciar la venta o venta para consumo de bebidas alcohólicas a partir de las diez horas del día, no debiendo excederse de la primera hora del día siguiente, de conformidad con los horarios que para las diferentes modalidades de establecimientos o giros, se determinen en el reglamento municipal correspondientes.
+De los horarios de la actividad.- Los establecimientos autorizados para realizar las actividades, iniciarán y terminarán la venta en envase cerrado o en envase abierto para consumo de bebidas alcohólicas de conformidad con los horarios que para las diferentes modalidades de establecimientos o giros señala el permiso otorgado, en los términos de esta Ley y el Reglamento Municipal correspondiente.
 
-Los Municipios podrán autorizar horarios extraordinarios que excedan el límite anterior, en determinadas zonas o establecimientos, o durante la celebración de eventos especiales, verbenas, o festivales, tomando en cuenta la ubicación del evento a realizarse o del establecimiento o giro solicitante, conforme a las recomendaciones que emita el consejo consultivo.
+Los Ayuntamientos, conforme a sus atribuciones, podrán autorizar la ampliación del tiempo de actividad de los establecimientos sin exceder el horario fijado en la presente Ley, aquellos establecimientos que soliciten ampliación de tiempo de actividad deberán acreditar y justificar la necesidad del mismo y ser promotores de programas que comprendan el servicio de taxi, conductor designado y mesero responsable. En ningún caso podrá autorizarse tiempo adicional en establecimientos que se encuentren ubicados fuera de las zonas comerciales o turísticas, cercanas a centros de salud, educativos, lugares de atención o guarda de menores, iglesias, templos y centros deportivos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+De conformidad con los límites y condiciones dispuestos en los Reglamentos Municipales y a través de las dependencias o funcionarios que dicha normatividad establezca, podrán otorgar permisos eventuales, en los términos del artículo 10 de esta Ley, para la promoción turística o realización de ferias, carnavales, vendimias o cualquier tipo de eventos o diversiones análogas. En los permisos eventuales, podrán establecerse horarios especiales para el servicio o consumo de bebidas con graduación alcohólica, acordes a la duración aproximada del evento, espectáculos o diversión de que se trate, siempre que se apliquen las más estrictas medidas de seguridad; sin que en ningún caso, el horario para el expendio o venta de dichas bebidas, autorizado en el permiso eventual, pueda exceder de los horarios máximos previstos en este ordenamiento, para dicha actividad.
 
-Asimismo, podrán reducir los horarios autorizados, sea de manera temporal o definitiva, cuando se afecte el interés social o los permisionarios incurran en infracciones conforme lo estipula esta ley, los reglamentos y demás ordenamientos legales aplicables.
+En ningún caso el horario de actividad iniciará antes de las diez horas del día, ni podrá exceder de las tres horas del día siguiente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+Los Ayuntamientos podrán reducir los horarios autorizados, sea de manera temporal o definitiva, cuando se afecte el interés social o los permisionarios incurran en infracciones conforme lo estipula esta Ley, los reglamentos y demás ordenamientos legales aplicables.
 
-En ningún caso, la autorización de horario extraordinario podrá extenderse a mas de dos horas y solo podrá concederse hasta por tres días a la semana.
-
-La distribución al mayoreo de bebidas alcohólicas en envase cerrado a los establecimientos autorizados para realizar las actividades, se deberá efectuar dentro de los horarios que el ayuntamiento determine para cada zona.
+Los Ayuntamientos determinarán los horarios de distribución y abastecimiento al mayoreo de bebidas alcohólicas en envase cerrado a los establecimientos autorizados.
 
 ###### ARTÍCULO 18.
 
@@ -295,9 +309,21 @@ I.- Permitir el acceso en cualquier día y hora hábil del establecimiento o gir
 
 II.- Adoptar las medidas necesarias para evitar el ingreso al establecimiento de personas menores de dieciocho años de edad, exhibiendo en los lugares visibles al exterior, la prohibición expresa, excepto en establecimientos con permiso expedido exclusivamente para el giro de restaurante o fonda;
 
-III.- Adoptar y mantener en óptimas condiciones, las medidas de seguridad e higiene que la autoridad municipal le determine, y
+III.- Adoptar y mantener en óptimas condiciones, las medidas de seguridad e higiene que la autoridad municipal le determine, y (sic)
 
 IV.- Mostrar las constancias correspondientes a los permisos y autorizaciones, conforme le sea requerido por las autoridades.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+V.- Los establecimientos autorizados cuya actividad exceda la primera hora del día siguiente deberán garantizar el servicio de taxi seguro e implementar programas de consumo responsable,
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VI.- Colaborar dentro de sus establecimientos con campañas sanitarias y de seguridad pública dirigidas por la autoridad correspondiente, principalmente aquellas enfocadas a la cultura de la no violencia, prevención del consumo de drogas y bebidas alcohólicas,
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+
+VII.- Difundir dentro de sus establecimientos los programas implementados por las autoridades correspondientes en materia de salud, seguridad pública y prevención de ingestión excesiva.
 
 ### CAPÍTULO QUINTO. RESTRICCIONES Y PROHIBICIONES
 
@@ -307,7 +333,9 @@ De la afectación del interés social.- Para los efectos de esta Ley, se conside
 
 I.- Se propicie la inseguridad para los consumidores al interior del establecimiento o giro;
 
-II.- Se propicie el consumo inmoderado de bebidas con graduación alcohólica y con ello se generen reiteradamente conductas antisociales, intranquilidad y riesgos para la convivencia, integridad física o pertenencias de los habitantes de una zona determinada o los ciudadanos en general;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2011)</small>
+
+II.- Se propicie el consumo inmoderado de bebidas con graduación alcohólica y con ello se generen reiteradamente conductas antisociales, intranquilidad y riesgos para la convivencia, integridad física o pertenencias de los habitantes de una zona determinada o los ciudadanos en general. En dicho supuesto, quedan prohibidas las denominadas barras libres, o cualquier otra similar, que impliquen la modalidad comercial a través de la cual los usuarios, por medio de un pago único tengan el derecho al consumo ilimitado de bebidas alcohólicas;
 
 III.- Se deteriore la calidad de vida de un determinado asentamiento humano;
 
@@ -578,3 +606,17 @@ CUARTO.- A las personas físicas o morales que hayan solicitado la autorización
 QUINTO.- A las personas físicas o morales que se les haya otorgado permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento en que aquel les haya sido otorgado; pero para su revalidación, en su caso; se estará a lo dispuesto por este decreto.
 
 SEXTO.- Las solicitudes de permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas que se estén substanciando a la entrada en vigor del presente decreto, se seguirán conforme a las disposiciones vigentes al momento de la presentación de dicha solicitud, pero para su revalidación, en su caso, se estará a lo dispuesto por este decreto.
+
+P.O. 8 DE JULIO DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos contarán hasta con 90 días naturales contados a partir de la entrada en vigor del presente decreto para modificar sus Reglamentos.
+
+TERCERO.- Los Ayuntamientos contarán hasta con 90 días naturales, contados a partir de la entrada en vigor del presente decreto, para implementar en sus respectivas jurisdicciones los programas de control y prevención de ingestión de bebidas alcohólicas en conductores de vehículos que apliquen operativos de alcohometría.
+
+CUARTO.- Los Ayuntamientos contarán hasta con 60 días naturales, contados a partir de la entrada en vigor del presente decreto, para realizar en sus respectivas jurisdicciones campañas sanitarias y de seguridad pública en coordinación con las Secretarías de Salud y Seguridad Pública, que contengan los temas específicos señalados en la fracción III del artículo 2 de esta Ley.
+
+QUINTO.- Los permisionarios o quienes atiendan los establecimientos o giros contemplados en los incisos c) y d) de la Fracción VIII del artículo 6 de esta Ley, contarán hasta con 60 días naturales contados a partir de la entrada en vigor del presente decreto para contar con los servicios de uno o más sitios de taxi señalados en la fracción V del artículo 18 de esta Ley.
+
+SEXTO.- Los permisionarios o quienes atiendan los establecimientos o giros contarán hasta con 30 días naturales contados a partir de la implementación de los programas de control y prevención de ingestión de bebidas alcohólicas en conductores de vehículos, para contar dentro de sus establecimientos con la difusión a estos programas conforme a lo señalado en la fracción VII del artículo 18 de esta Ley.
