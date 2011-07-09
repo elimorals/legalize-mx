@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2011-07-02"
+last_updated: "2011-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -2263,9 +2263,9 @@ El Recurso de Apelación Adhesiva tiene por objeto, reforzar los argumentos de h
 
 El plazo para interponer la apelación adhesiva es de tres días al notificársele la admisión de la apelación principal para la expresión de agravios, en ese caso, la adhesiva al recurso principal sigue la suerte de éste, además deberá resolverse simultáneamente.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2011)</small>
 
-El ministerio público, carecerá de legitimación para interponer el recurso de apelación, en tratándose de delitos no graves, en sentencias condenatorias cuando obtuvo lo solicitado. De igual manera, no procederá cuando la resolución respectiva se haya dictado en cumplimiento de una ejecutoria de amparo que estudió el fondo del asunto.
+El ministerio público, carecerá de legitimación para interponer el recurso de apelación cuando recayendo sentencia condenatoria obtuvo lo solicitado. De igual manera, no procederá cuando la resolución respectiva se haya dictado en cumplimiento de una ejecutoria de amparo que estudió el fondo del asunto.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3658,3 +3658,9 @@ Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del
 P.O. 2 DE JULIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día primero de enero de 2012, a excepción del artículo 39 del Código Penal para el Estado de Nayarit, el cual surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE JULIO DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Los asuntos resueltos o en trámite, se seguirán rigiendo conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente decreto.
