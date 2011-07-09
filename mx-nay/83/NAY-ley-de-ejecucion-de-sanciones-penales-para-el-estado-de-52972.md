@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ejecucion-de-sanciones-penales-para-el-estado-de-52972"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2006-12-21"
+last_updated: "2011-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE EJECUCION DE SANCIONES PENALES PARA EL ESTADO DE NAYARIT
 
-LEY DE EJECUCION DE SANCIONES PENALES PARA EL ESTADO DE NAYARIT
+LEY DE EJECUCIÓN DE SANCIONES PENALES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES PARA EL ESTADO DE NAYARIT, PUBLICADA EN LA TERCERA SECCIÓN DEL P.O. DE FECHA 9 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda al Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre de 2006.
 
@@ -770,3 +772,27 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial de este Honora
 Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Angélica C. del Real Chávez, Secretario.- Rúbrica.- Dip. Jesús E. Leyva Barraza, Secretario.- Rúbrica.
 
 y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital a los veintiún días del mes de diciembre del año dos mil seis.- Lic. Ney González Sánchez.- Rúbrica- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JULIO DE 2011.
+
+Artículo Primero.- La presente ley entrará en vigor el día primero de enero del 2012 y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se abroga la Ley de Ejecución de Sanciones Penales para el Estado de Nayarit publicada el 21 de diciembre de 2006, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Tercero.- El procedimiento para resolver por parte del juez de ejecución, con característica de oralidad, tendrá vigencia una vez que el Poder Judicial del Estado cuente con la infraestructura necesaria para las salas de audiencia oral, y así lo declare mediante acuerdo del Consejo de la Judicatura; mientras tanto, el procedimiento se seguirá en la vía incidental en los términos de los artículos 425 a 429 del Código de Procedimientos Penales para el Estado de Nayarit.
+
+Artículo Cuarto.- El trámite de los expedientes de tratamiento de preliberación y los de revocación de ese beneficio cuyos respectivos proyectos de resolución, en la fecha de entrada en vigor de esta ley, ya hubieren sido sometidos a consideración de la Dirección General de Prevención y Readaptación Social, para su aprobación y firma, continuarán verificándose en los términos de la ley que se abroga.
+
+Artículo Quinto.- El trámite de los expedientes integrados con motivo de las solicitudes de indulto, libertad anticipada, remisión parcial y reducción de la sanción, que en la fecha de entrada en vigor de esta ley, ya hubieran sido sometidos a consideración del Gobernador del Estado y de la Dirección General de Prevención y Readaptación Social, según sea el caso, para su resolución, continuarán verificándose en los términos de la ley que se abroga.
+
+Artículo Sexto.- La Secretaría de Seguridad Pública del Gobierno del Estado, dentro del término de quince días a partir de la entrada en vigor de la presente ley, deberá proporcionar al Poder Judicial, un registro de los sentenciados que estén compurgando sanción de prisión o en disfrute de algún beneficio de libertad otorgado en sentencia o concedido por resolución administrativa, así como de aquéllos a quienes se les hubiere aplicado una sanción o medida de seguridad que por cualquier razón aún no esté extinta.
+
+Artículo Séptimo.- Los beneficios de libertad que ya se estén aplicando en la fecha de entrada en vigor de esta ley, continuarán en sus términos.
+
+La Secretaría de Seguridad Pública del Gobierno del Estado, dentro del término de quince días a partir de la entrada en vigor de la presente ley deberá informar al Poder Judicial una relación de las personas qu e (sic) se encuentren en estos supuestos, con los datos correspondientes a las fechas de inicio y conclusión del beneficio otorgado, así como los concernientes al domicilio señalado por el liberado como lugar de su residencia, o el lugar en el que deberá residir conforme a la determinación correspondiente.
+
+Artículo Octavo.- Los incidentes de cancelación de antecedentes penales que se estén tramitando al momento de entrada en vigor de esta ley, continuarán practicándose ante el órgano jurisdiccional que esté conociendo de ellos, hasta su resolución.
+
+Artículo Noveno.- El Gobernador del Estado, dentro de los seis meses contados a partir de la entrada en vigor de la presente ley, deberá expedir la reglamentación correspondiente en las materias de su competencia.
