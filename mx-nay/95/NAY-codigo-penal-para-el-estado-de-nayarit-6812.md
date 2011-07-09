@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2011-07-02"
+last_updated: "2011-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2011.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -315,9 +315,13 @@ XXI. Usura.
 
 XXII. Hostigamiento o acoso sexual, salvo que el sujeto pasivo sea menor de edad o incapaz.
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2011)</small>
 
-XXIII. Las demás que contemple el presente código.
+XXIII. Violación entre cónyuges y concubinos.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2011)</small>
+
+XXIV. Las demás que contemple el presente código.
 
 ## TITULO SEGUNDO
 
@@ -2415,6 +2419,22 @@ La violación cometida por aquél que en ejercicio de sus funciones, valiéndose
 
 Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de cien a trescientos días de salario mínimo.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
+
+Cuando en la violación exista vínculo matrimonial o de concubinato se impondrá la pena prevista en el primer párrafo de este artículo, en este caso el delito será perseguido a petición de parte ofendida.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
+
+Tratándose del supuesto previsto en el párrafo anterior, procederá el perdón de parte ofendida por única vez si el agresor se somete voluntariamente a tratamiento psicológico especializado en institución pública con sede en el Estado, por el tiempo que la autoridad que conozca del asunto determine, el cual no podrá ser menor de seis meses.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
+
+El tratamiento psicológico al que se refiere el párrafo anterior deberá proporcionarse a la familia en los términos que disponga la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2011)</small>
+
+En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el perdón y por tanto continuará el proceso en sus etapas correspondientes.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LA SUPOSICION Y SUPRESION DEL ESTADO CIVIL
@@ -2649,9 +2669,9 @@ Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicar�
 
 A quienes asalten un poblado o ranchería se les sancionará con prisión de, veinte a cuarenta años y multa de cincuenta a doscientos días de salario, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días de salario a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
 
-### CAPITULO VI. SECUESTRO O PLAGIO
+### CAPITULO VI. SECUESTRO
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 283.
 
@@ -2665,27 +2685,17 @@ III.- Al particular que por medio de la violencia obligue ilegítimamente a una 
 
 IV.- Al que de alguna manera viole, con perjuicio de otro, los derechos establecidos por la Constitución General de la República o por la Constitución del Estado, en favor de las personas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2011)</small>
+
 ### CAPITULO VII. RAPTO
 
 ###### ARTICULO 284.
 
-Se impondrá de veinte a cincuenta años de prisión y multa de cincuenta a doscientos días de salario, si la privación de la libertad se realiza en alguna de las formas siguientes:
-
-I. Cuando se trate de obtener rescate o de causar daño o perjuicio al plagiado o a otra persona relacionada con éste;
-
-II. Cuando se haga uso de amenazas graves, de mal trato o de tormento;
-
-III. Cuando la detención se haga en camino público, en paraje solitario o en despoblado;
-
-IV. Cuando el Agente se ostente como autoridad;
-
-V. Cuando se obre en grupo; y
-
-VI. Cuando el secuestrado sea menor de doce años y se le prive de la libertad por un extraño a su familia.
+El delito de secuestro se sancionará conforme a lo establecido por la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 285.
 
-Si el plagiario pone espontáneamente en libertad a la víctima dentro de tres días sin haber causado perjuicio grave, se le impondrán las sanciones que señala el artículo 283.
+(DEROGADO, P.O. 9 DE JULIO DE 2011)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
@@ -2993,7 +3003,7 @@ Al responsable de Homicidio calificado se impondrá de veinte a cincuenta años 
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMAR PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 325.
 
@@ -3527,7 +3537,7 @@ En los casos del Artículo 381, quedan exceptuados de sanción aquellos que no p
 
 ### CAPITULO I. DEL FRACCIONAMIENTO ILEGAL DE INMUEBLES
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 384.
 
@@ -3579,7 +3589,7 @@ III. Cualquier otra conducta de tortura que se cause a un animal.
 
 ### CAPITULO II. DE LA CERTIFICACION, FORMALIZACION, REGISTRO E INSCRIPCIÓN DE INMUEBLES
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 385.
 
@@ -3883,11 +3893,11 @@ VII. Prepare, organice, participe o realice por motivos electorales, actos viole
 
 ###### ARTICULO 393.
 
-Comete el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona, fraccione terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones y permisos que se requieran para ello de las autoridades administrativas competentes, y realice cualquier operación contractual en los lotes divididos.
+Comete el delito de fraccionamiento ilegal de inmuebles el que por sí o por interpósita persona, fraccione terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones o permisos que se requieran para ello de las autoridades administrativas competentes, y realice cualquier operación contractual en los lotes divididos.
 
-Para los efectos de este artículo se entiende por fraccionar, dividir terrenos en lotes que carezcan de la infraestructura de obras y servicios públicos que prevee (sic) la Ley Estatal de Asentamientos Humanos.
+Al responsable de este delito, se le impondrá de seis a diez años de prisión y multa de quinientos a mil días de salario mínimo general vigente en la entidad.
 
-Al responsable de este delito, se le impondrá de tres a ocho años de prisión y multa de cien a quinientos días de salario mínimo general vigente.
+La sanción referida en el párrafo anterior se impondrá también a quien teniendo las licencias, autorizaciones o permisos correspondientes, incumpla con las obligaciones previstas en las fracciones IX, XI y XII, del artículo 151, de la Ley de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
 
@@ -3895,19 +3905,21 @@ Al responsable de este delito, se le impondrá de tres a ocho años de prisión 
 
 Al servidor público, que sin estar facultado o estándolo, permita o autorice el fraccionamiento o construcción de inmuebles que requieran del uso o aprovechamiento de obras y servicios públicos y que los mismos no cuenten con ellos; se les impondrá además de las sanciones que señala el artículo anterior, la destitución o inhabilitación de tres a ocho años, para desempeñar otro empleo, cargo o comisión públicos, siendo nulos de pleno derecho las licencias, permisos y autorizaciones que se hayan otorgado.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 395.
 
-Se aplicarán las mismas sanciones señaladas en el artículo 393 de este Código, a quién construya por sí o por interpósita persona sobre terrenos cualesquiera que sea el régimen jurídico o condición de éstos, sin las licencias, autorizaciones o permisos de las autoridades administrativas competentes.
+(DEROGADO, P.O. 9 DE JULIO DE 2011)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 396.
 
-A quien certifique o participe dando forma a actos, convenios, o contratos con el propósito de transmitir la propiedad o posesión de inmuebles en contravención a lo dispuesto en las normas, planes o programas de desarrollo urbano, o sin comprobar la existencia de las autorizaciones, permisos o licencias de las autoridades competentes, se le impondrá una pena de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente.
+A quien certifique o participe dando forma a actos, convenios, o contratos con el propósito de transmitir la propiedad o posesión de inmuebles en contravención a lo dispuesto en las normas, planes o programas de desarrollo urbano, o sin comprobar la existencia de las autorizaciones, permisos o licencias de las autoridades competentes, se le impondrá una pena de tres a seis años de prisión y multa de trescientos a quinientos días de salario mínimo general vigente en la entidad.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
 
 Cuando la certificación y formalización de actos, convenios o contratos a que se refiere el párrafo anterior, se inscriban o registren por parte de los servidores públicos de Catastro y del Registro Público de la Propiedad y del Comercio sin ajustarse a las disposiciones legales y administrativas aplicables, se impondrá a los responsables una pena de uno a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente. Se le impondrá además de dichas sanciones, la destitución e inhabilitación de uno a cinco años, para desempeñar otro empleo, cargo, o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1998)</small>
 
 Serán nulas de pleno derecho las certificaciones, formalizaciones, registro e inscripciones que se otorguen en contravención a lo dispuesto en este artículo.
 
@@ -4090,3 +4102,13 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 2 DE JULIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día primero de enero de 2012, a excepción del artículo 39 del Código Penal para el Estado de Nayarit, el cual surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE JULIO DE 2011.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- En virtud del cambio de denominación del Capítulo VI, contenido dentro del Título Décimo Séptimo, del Libro Segundo, del Código Penal para el Estado de Nayarit, en lo sucesivo el delito de secuestro o plagio será denominado Secuestro.
+
+Artículo Tercero.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Cuarto.- Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Nayarit, hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante la vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
