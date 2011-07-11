@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2010-10-15"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -869,25 +869,17 @@ X.- Promover, autorizar y vigilar el establecimiento y funcionamiento de los Cen
 
 XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y (sic)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+XII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
-XII.- Asesorar y auxiliar al Ejecutivo del Estado en la fijación, instrumentación, ejecución y evaluación de la política de la juventud en la entidad;
+XlII.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+XIV.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
-XlII.- Promover y ejecutar la política de la juventud en el Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XIV.- Fomentar la participación del sector público, privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte;
+XV.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XV.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Estatal, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y de recreación; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+XII (SIC).- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XIII
 
@@ -1970,6 +1962,24 @@ DECRETO NUMERO 446, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 38 DE LA LEY OR
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 11 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las atribuciones que en materia de atención a la juventud correspondan actualmente a la Secretaría de Educación y Bienestar Social, conforme a la Ley Orgánica de la Administración Pública del Estado, las asumirá el Instituto de la Juventud del Estado de Baja California, una vez que se instituya en los términos de la presente Ley, dejando a salvo los derechos de los trabajadores encargados de llevar a cabo las actividades y labores destinadas a la atención a la juventud.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
