@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2010-10-15"
+last_updated: "2011-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -107,7 +107,9 @@ VIII.- La prestación de servicios funerarios, a personas carentes de recursos;
 
 IX.- La prevención de cualquier tipo de capacidad diferente y su rehabilitación en centros especializados;
 
-X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos y a la población de zonas marginadas;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos, a la población de zonas marginadas y el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -125,13 +127,15 @@ XV.- El fomento de acciones de paternidad responsable, que propicien la preserva
 
 XVI.- Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 5.
 
-Son sujetos a la recepción de los servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
+Son sujetos a la recepción de servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción;
+I.- Personas menores de dieciocho años de edad en estado de abandono, desamparo, desnutrición, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -182,6 +186,10 @@ XVI.- En general, todas las familias, incluyendo a aquellas que, por encontrarse
 ###### ARTÍCULO 6.
 
 De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Poder Ejecutivo del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2011)</small>
+
+Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de la presente Ley, el Ejecutivo Estatal instruirá y fijará los mecanismos de coordinación entre las Secretarías de Salud, de Desarrollo Social y de Educación y Bienestar Social del Estado, para que con el apoyo del Sistema Estatal de Asistencia Social se realicen los planes y programas para el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, iniciando los programas respectivos en aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
@@ -1349,7 +1357,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO BORBON VILCHES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE NOVIEMBRE DE 2005.
 
@@ -1364,3 +1372,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 P.O. 15 DE OCTUBRE DE 2010.
 
 ÚNICO.- La presente reforma y adición entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal deberá adecuar la reglamentación interna en términos de la fracción XVI, del Artículo 49, de la Constitución Política del Estado Libre y Soberano de Baja California, dentro del plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto de reforma de ley, en todo lo necesario para alcanzar el objetivo de la presente Reforma.
