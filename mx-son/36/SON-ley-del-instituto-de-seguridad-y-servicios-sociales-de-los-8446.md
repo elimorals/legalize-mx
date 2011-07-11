@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2010-12-30"
+last_updated: "2011-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -88,6 +88,10 @@ D) Los hijos mayores de 18 años incapacitados física o psíquicamente que no p
 E) Los padres de los trabajadores, en los términos que establece esta Ley; y
 
 Los familiares que se mencionan en esta fracción tendrán los derechos que esta Ley les concede si reúnen los requisitos que para el otorgamiento de dichas prestaciones señala el presente ordenamiento.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2011)</small>
+
+VII.- Maternidad: el estado fisiológico de la mujer originado por el proceso de la reproducción humana, en relación con el embarazo, el parto, el puerperio y la lactancia. En el caso de adopción se equipara el término entre madre adoptiva y biológica, para todos los efectos legales, a partir del parto.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -445,13 +449,19 @@ SEGURO DE MATERNIDAD
 
 La mujer trabajadora, la esposa del trabajador o del pensionista, o a falta de la esposa la concubina de uno u otro, tendrán derecho a las siguientes prestaciones:
 
-I.- Asistencia obstétrica necesaria a partir del día en que los servicios médicos del Instituto certifiquen el estado de embarazo.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
 
-II.- Ayuda para la lactancia sólo para la mujer trabajadora. Esta prestación se hará extensiva a la esposa o concubina del trabajador o pensionista, en los casos en que según dictamen médico exista incapacidad física para amamantar al hijo. Dicha ayuda será proporcionada en especie por un lapso de seis meses con posterioridad al nacimiento y se entregará a la madre, o a falta de ésta, a la persona encargada de alimentar al niño.
+I.- Asistencia obstétrica necesaria a partir del día en que los servicios médicos del Instituto certifiquen el estado de embarazo, o de la fecha en que se otorgue legalmente la adopción, en lo conducente.
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
+
+II.- Ayuda para la lactancia solo para la mujer trabajadora. Esta prestación se hará extensiva a la esposa o concubina del trabajador o pensionista, en los casos en que según dictamen médico exista incapacidad física para amamantar al hijo. Dicha ayuda será proporcionada en especie por un lapso de seis meses con posterioridad al nacimiento y se entregará a la madre, o a falta de ésta, a la persona encargada de alimentar al niño. Los mismos derechos aplicarán en el caso de adopción legalmente otorgada.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011.)</small>
 
 ###### Artículo 28.
 
-Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a las prestaciones que establece el artículo anterior, será necesario que, durante los seis meses anteriores al parto, se hayan mantenido vigentes los derechos de la trabajadora asegurada o del trabajador del que se deriven estas prestaciones.
+Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a las prestaciones que establece el artículo anterior, será necesario que, durante los seis meses anteriores al parto, o de la fecha en que se otorgue legalmente la adopción, se hayan mantenido vigentes los derechos de la trabajadora asegurada o del trabajador del que se deriven estas prestaciones.
 
 SECCION 3a
 
@@ -1345,7 +1355,7 @@ La Junta Directiva del Instituto, está facultada para resolver cualquier caso q
 
 ###### Artículo 91-A.
 
-El fondo colectivo de retiro en beneficio de los trabajadores al servicio del Estado, se otorgará en los siguientes casos:
+El fondo colectivo de retiro de en beneficio de los trabajadores al servicio del Estado, se otorgará en los siguientes casos:
 
 I.- A los trabajadores con 30 años o más de servicio y 15 años de contribución al Instituto, como mínimo, que causen baja definitiva del servicio. En este caso, la suma será de 2.6 veces el salario mínimo general mensual vigente de la capital del Estado.
 
@@ -2228,3 +2238,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones que se contrapongan al mismo.
+
+B.O. 11 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizará las modificaciones pertinentes en las disposiciones reglamentarias de la materia.
