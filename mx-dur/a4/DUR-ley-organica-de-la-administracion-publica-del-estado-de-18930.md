@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2009-06-21"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -73,9 +73,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
 La presente ley tiene por objeto regular la organización y funcionamiento de la administración pública centralizada y paraestatal del Estado Libre y Soberano de Durango.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-El Despacho del Gobernador del Estado, las dependencias del Poder Ejecutivo y la Procuraduría General de Justicia en el Estado, forman parte de la administración pública centralizada.
+El Despacho del Gobernador del Estado, las dependencias del Poder Ejecutivo y la Fiscalía General del Estado, forman parte de la administración pública centralizada.
 
 El Gobernador del Estado, como Titular del Poder Ejecutivo, tiene las atribuciones que le confiere la Constitución Política, esta ley y reglamentos derivados de la misma.
 
@@ -83,9 +83,11 @@ El Gobernador del Estado, como Titular del Poder Ejecutivo, tiene las atribucion
 
 Para los efectos de esta ley, en las disposiciones siguientes se utilizarán indistintamente los términos Ejecutivo del Estado o Titular del Poder Ejecutivo por Gobernador Constitucional del Estado.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 3.
 
-La administración pública centralizada está compuesta por las Secretarías, Procuraduría General de Justicia y demás dependencias y órganos desconcentrados de éstas, las unidades administrativas de apoyo, asesoría y coordinación de cualquier naturaleza, que establezca el Ejecutivo del Estado, conforme a las disposiciones legales respectivas; su estructura y funcionamiento se formalizarán y regirán en lo dispuesto por esta ley y demás normas y reglas aplicables.
+La administración pública centralizada está compuesta por las Secretarías, la Fiscalía General del Estado y demás dependencias y órganos desconcentrados de éstas, las unidades administrativas de apoyo, asesoría y coordinación de cualquier naturaleza, que establezca el Ejecutivo del Estado, conforme a las disposiciones legales respectivas; su estructura y funcionamiento se formalizarán y regirán en lo dispuesto por esta ley y demás normas y reglas aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -279,9 +281,9 @@ XII.- Secretaría de Turismo; y (sic)
 
 XIII.- Secretaría del Trabajo y Previsión Social; y
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XIV.- Procuraduría General de Justicia.
+XIV.- Fiscalía General del Estado.
 
 ###### ARTICULO 29.
 
@@ -1045,9 +1047,9 @@ XV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de l
 
 XVI. Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de la Procuraduría General de Justicia, así como a los de las áreas de auditoria, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría;
+XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de la Fiscalía General del Estado, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
@@ -1283,7 +1285,9 @@ III. Elaborar y ejecutar programas tendientes a prevenir y combatir las conducta
 
 IV. Promover la participación ciudadana en la formulación de programas y acciones en materia de seguridad pública y prevención del delito;
 
-V. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en la entidad. Asimismo, instrumentar los mecanismos de coordinación y colaboración con la Procuraduría General de Justicia del Estado, que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+V. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en la entidad. Asimismo, instrumentar los mecanismos de coordinación y colaboración con la Fiscalía General del Estado, que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
 
 VI. Auxiliar a las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública;
 
@@ -1423,61 +1427,51 @@ XLIV. Desarrollar todas las funciones que le asigne el titular del Poder Ejecuti
 
 XLV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 38.
 
-La Procuraduría General de Justicia, es la dependencia responsable del Ministerio Público y de prestar consejo jurídico al Gobierno del Estado. Le compete el despacho de los siguientes asuntos:
+La Fiscalía General del Estado, es la dependencia responsable del Ministerio Público. Le compete el despacho de los siguientes asuntos:
 
-I. Opinar sobre la constitucionalidad de los proyectos de ley que envía el Gobernador del Estado;
+I. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
-II. Emitir su consejo jurídico, en el orden estrictamente técnico y constitucional, en los asuntos que lo requieran;
+II. La persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los inculpados; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales, exigiendo de quien corresponda, el cumplimiento de las sentencias recaídas;
 
 III. Intervenir de manera preferente y destacada en los procesos de amparo, que planteen cuestiones de relevante interés público;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+IV. Establecer los sistemas y mecanismos que mejoren sustancialmente los servicios, que como atribución constitucional debe brindar a la sociedad; dando respuesta inmediata a las demandas de procuración de justicia, proceso o juicio de amparo, únicamente a quienes garanticen su interés procesal;
 
-IV. Establecer los sistemas y mecanismos que mejoren sustancialmente los servicios, que como atribución constitucional debe brindar a la sociedad; dando respuesta inmediata a las demandas de procuración de justicia, proceso o juicio de garantías, únicamente a quienes garanticen su interés procesal;
+V. Dirigir y coordinar las actividades de la Policía Investigadora de los delitos del Estado;
 
-V. Resolver en definitiva en los siguientes casos:
+VI. Formular criterios generales en materia de supervisión y control, así como los lineamientos de coordinación entre las diferentes unidades administrativas y órganos desconcentrados de la Fiscalía;
 
-a). El no ejercicio de la acción penal.
+VII. Instituir programas administrativos que fortalezcan las medidas conducentes, para detectar, prevenir y combatir la corrupción, las que se someterán a la autorización del Fiscal;
 
-b). El desistimiento de la acción penal.
-
-c). Cuando se formulen conclusiones no acusatorias;
-
-d). Cuando exista la propuesta de conclusiones inacusatorias, parciales, totales o de sobreseimiento en hechos sujetos a investigación judicial, que se cometieran por servidores de la institución.
-
-VI. Formular criterios generales en materia de supervisión y control, así como los lineamientos de coordinación entre las diferentes unidades administrativas y órganos desconcentrados encargados de dichas funciones;
-
-VII. Instituir programas administrativos que fortalezcan las medidas conducentes, para detectar, prevenir y combatir la corrupción, las que se someterán a la autorización del Procurador;
-
-VIII. Analizar, permanentemente, la distribución y el ejercicio de competencias, a fin de diseñar nuevas estructuras de organización, que sean más transparentes, facilitando su supervisión y control, que permitan fortalecer el principio de corresponsabilidad de los servidores públicos.
+VIII. Analizar, permanentemente, la distribución y el ejercicio de competencias, a fin de diseñar nuevas estructuras de organización, que sean más transparentes, facilitando su supervisión y control, que permitan fortalecer el principio de corresponsabilidad de los servidores públicos de la Fiscalía;
 
 IX. Promover ante el Gobernador del Estado, los proyectos y programas en materia de procuración y colaboración policial o judicial;
 
-X. Determinar la organización y funcionamiento de la Procuraduría y adscribir orgánicamente sus Unidades subalternas, así como conferirles las atribuciones necesarias para el cumplimiento de los asuntos de su competencia;
+X. Determinar la organización y funcionamiento de la Fiscalía y adscribir orgánicamente sus Unidades subalternas, así como conferirles las atribuciones necesarias para el cumplimiento de los asuntos de su competencia;
 
-XI. Participar, previo acuerdo expreso del Gobernador del Estado, en reuniones de carácter internacional, sea en foros bilaterales o multilaterales, cuando se traten temas afines a las acciones de la Procuraduría General de Justicia del Estado de Durango;
+XI. Participar, previo acuerdo expreso del Gobernador del Estado, en reuniones de carácter internacional, nacional o regional, sea en foros bilaterales o multilaterales, cuando se traten temas afines a las acciones de la Fiscalía General del Estado de Durango;
 
-XII. Representar al Gobierno del Estado, previo acuerdo del titular del Poder Ejecutivo del Estado, en la celebración de convenios y acuerdos con estados de la república, sobre apoyos y asesorías recíprocos, auxilio al Ministerio Público y a la Policía Judicial, a Servicios Periciales, al sistema de apoyo administrativo y a todos los asuntos que competen a la Procuraduría;
+XII. Representar al Gobierno del Estado, previo acuerdo del Titular del Poder Ejecutivo del Estado, en la celebración de convenios y acuerdos con estados de la república, sobre apoyos y asesorías recíprocos, auxilio al Ministerio Público y a la Policía investigadora de los delitos, a Servicios Periciales, al sistema de apoyo administrativo y a todos los asuntos que competen a la Fiscalía;
 
-XIII. Informar al Gobernador del Estado, sobre los asuntos encomendados a la Procuraduría que sean de su competencia, y recabar y ejecutar, en su caso, los acuerdos y resoluciones que se requieran;
+XIII. Informar al Gobernador del Estado, sobre los asuntos encomendados a la Fiscalía que sean de su competencia, y recabar y ejecutar, en su caso, los acuerdos y resoluciones que se requieran;
 
-XIV. Expedir y disponer la publicación del Manual de Organización de la Procuraduría, así como aprobar y expedir los demás manuales de procedimientos y de servicios al público, necesarios para revisar, fortalecer e integrar los sistemas, mecanismos e instrumentos de control, para generar información suficiente, congruente y oportuna, que facilite la toma de decisiones;
+XIV. Expedir y disponer la publicación del Manual de Organización de la Fiscalía, así como aprobar y expedir los demás manuales de procedimientos y de servicios al público, necesarios para revisar, fortalecer e integrar los sistemas, mecanismos e instrumentos de control, para generar información suficiente, congruente y oportuna, que facilite la toma de decisiones;
 
-XV. Aprobar el anteproyecto de Presupuesto de Egresos de la Procuraduría General de Justicia, y presentarlo oportunamente al titular del Poder Ejecutivo;
+XV. Aprobar el anteproyecto de Presupuesto de Egresos de la Fiscalía General del Estado, y presentarlo oportunamente al Titular del Poder Ejecutivo;
 
-XVI. Fijar los criterios y procedimientos para el ingreso, la adscripción, el cambio, la promoción y la permanencia en el servicio, así como las sanciones a los servidores públicos de la Procuraduría, con arreglo a las disposiciones aplicables;
+XVI. Fijar los criterios y procedimientos para el ingreso, la adscripción, el cambio, la promoción y la permanencia en el servicio, así como las sanciones a los servidores públicos de la Fiscalía, con arreglo a las disposiciones aplicables;
 
-XVII. Resolver en forma oportuna, las dudas que se susciten con motivo de la interpretación y aplicación de la presente ley, así como los casos no previstos en la misma; y
+XVII. Resolver en forma oportuna, las dudas que se susciten con motivo de la interpretación y aplicación de las atribuciones conferidas a la Fiscalía General del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+XVIII. Instrumentar los mecanismos de coordinación y colaboración con la Secretaría de Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones;
 
-XVIII. Instrumentar los mecanismos de coordinación y colaboración con la Secretaría de Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones; y
+XIX. Elaborar estadísticas con relación al índice delictivo de la Entidad y darlos a conocer públicamente cada seis meses; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
-
-XIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ### CAPITULO III. DE LOS ÓRGANOS ADSCRITOS AL TITULAR DEL
 
@@ -1936,3 +1930,9 @@ P.O. 21 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2011.
+
+Primero.- El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, e iniciará su vigencia en el momento que entren en vigor las reformas constitucionales relacionadas con la materia de este Decreto.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
