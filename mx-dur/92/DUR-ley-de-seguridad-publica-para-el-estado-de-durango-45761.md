@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2011-06-09"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -379,9 +379,11 @@ V. Los Subsecretarios de Seguridad Pública;
 
 VI. Los Vicefiscales de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. El Titular de la de División de Investigación de la Secretaría de Seguridad;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+VII. El Director de la Dirección Estatal de Investigación de la Fiscalía General;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -491,9 +493,9 @@ XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias ap
 
 Las autoridades estatales en materia de seguridad pública tendrán las facultades y obligaciones que les señalen la Constitución Federal, la Constitución, la Ley General, la Ley Orgánica de la Administración Pública del Estado de Durango y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-La Secretaría de Seguridad dictará las medias (sic) conducentes para brindar protección necesaria a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a Víctimas del Delito Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Público, Secretario de Seguridad Pública, Subsecretario Operativo, Subsecretario de Prevención Social y Participación Ciudadana, Subsecretario del Sistema Penitenciario Estatal, Subsecretario de Tecnologías de la Información, y demás servidores públicos que así lo requieran, lo cual deberá determinar el Secretario de Seguridad Pública mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
+La Secretaría de Seguridad Publica dictará las medidas conducentes para brindar protección necesaria a los servidores públicos estatales siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Público, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Comisario General de la Policía, Comisario Jefe de la Policía, Director Estatal de Investigación de la Fiscalía General y demás servidores públicos que así lo requieran, lo cual deberá determinar el Secretario de Seguridad Pública mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la Ley.
 
 La protección se brindará durante el tiempo del encargo y respecto de los servidores públicos enunciados en la forma siguiente:
 
@@ -893,15 +895,9 @@ En caso de que la policía se haga cargo de manera directa del mando de alguna p
 
 La investigación de los delitos corresponde al Ministerio Público y a la policía encargada de la investigación de los delitos, la cual actuará bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 47 BIS.- La policía contará con una división de investigación de los delitos, la cual actuará bajo la conducción y mando del Ministerio Público en el ejercicio de esta función, de acuerdo a los protocolos de investigación correspondientes. Así mismo contará con una Unidad de Ejecución de Mandamientos Judiciales para el seguimiento y continuidad de la investigación.
-
-La estructura de la División de Investigación de los Delitos se conformará tomando en consideración los requerimientos de trabajo de la Institución del Ministerio Público.
-
-La División de Investigación de los Delitos tendrá como titular a un Comisario Jefe, el cual será nombrado por el Secretario de Seguridad Pública, previa opinión del Fiscal General, asimismo podrá ser removido, por el Secretario de Seguridad Pública, cuando no cumpla con las órdenes legales en los términos que establezcan los protocolos de investigación respectivos, que le comunique la Institución del Ministerio Público y su conducta se traduzca en una dilación de la procuración de justicia, previa solicitud fundada y motivada del Fiscal General; lo anterior, con independencia de las responsabilidades penales y administrativas a que haya a (sic) lugar.
-
-El Secretario de Seguridad Pública resolverá dentro de un término de tres días hábiles contados a partir de la legal notificación de la solicitud y, en caso de ser negativa la respuesta a dicha solicitud, se elevará la decisión al Titular del Poder Ejecutivo, para que decida la permanencia o remoción del Comisario Jefe.
+ARTÍCULO 47 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2011)</small>
 
@@ -1193,23 +1189,23 @@ VII.- Abstenerse de proporcionar información a los medios de comunicación soci
 
 VIII.- Cumplir dentro del marco de la ley, las órdenes del Ministerio Público que libre con ocasión de la investigación y persecución de los delitos y las que, durante la tramitación del proceso, les dirijan los jueces, sin perjuicio de la autoridad administrativa a la que estén sometidos la autoridad administrativa no podrá revocar, alterar o retardar una orden emitida por el Ministerio Público o por los jueces.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 53 BIS 1.- Las comunicaciones que el Ministerio Público y los cuerpos de seguridad pública deban dirigirse en el marco de la investigación de un delito en particular, se realizarán en la forma y por los medios más expeditos posibles, sin perjuicio de que queden en los registros policiales respectivos.
+###### ARTÍCULO 53 Bis 1.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+(DEROGADO, P.O. 11 DE JULIO DE 2011)
 
-ARTÍCULO 53 BIS 2.- Los policías respetarán las formalidades previstas para la investigación y subordinarán sus actos a las instrucciones que emita el Ministerio Público, sin perjuicio de las facultades que el Código Procesal Penal del Estado de Durango les concede para recopilar y procesar toda la información relevante que conduzca al esclarecimiento de los hechos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los policías actuarán conforme a los principios de actuación de los cuerpos de seguridad pública que contemple la presente ley y demás disposiciones que regulen su actuación.
+###### ARTÍCULO 53 Bis 2.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+(DEROGADO, P.O. 11 DE JULIO DE 2011)
 
-ARTÍCULO 53 BIS 3.- Los integrantes de los cuerpos de seguridad pública que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio de sus funciones de investigación o lo cumplan negligentemente, serán sancionados según las disposiciones legales aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+###### ARTÍCULO 53 Bis 3.
 
-Cuando actúen bajo instrucciones del Ministerio Público, del Fiscal General o de los jueces, éstos impondrán las medidas de apremio previstas en la ley o podrán solicitar al superior jerárquico o autoridad competente que se imponga la medida disciplinaria o sanción administrativa que corresponda, sin perjuicio de iniciar los procedimientos para la imposición de sanciones administrativas o penales.
+(DEROGADO, P.O. 11 DE JULIO DE 2011)
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1971,11 +1967,9 @@ III.- Convocar al Consejo a fin de adoptar las medidas procedentes y resolver ba
 
 IV.- las demás que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo, de acuerdo a la ley.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 19 DE FEBRERO DE 2009)
 
-#### SECCIÓN SEGUNDA. DEL SECRETARIADO EJECUTIVO
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+#### SECCIÓN TERCERA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 97.
 
@@ -2053,7 +2047,9 @@ b) Fiscalía General;
 
 c) Secretaría de Finanzas y de Administración;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 d) Secretaría de Comunicaciones y Obras Públicas; y
 
@@ -2071,9 +2067,11 @@ La Junta Directiva sesionará con la periodicidad que se señale en su reglament
 
 La Junta Directiva podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 19 DE FEBRERO DE 2009)
+(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 19 DE FEBRERO DE 2009)
 
-#### SECCIÓN TERCERA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEGUNDA. DEL SECRETARIADO EJECUTIVO
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2107,7 +2105,7 @@ VII. Un Secretario Ejecutivo, que será nombrado por el Presidente Municipal y r
 
 Para el cumplimiento de los objetivos y operatividad del sistema, los Consejos Municipales, conforme lo establece esta Ley, y demás ordenamientos jurídicos aplicables, se coordinarán con las demás instancias involucradas, en materia de la seguridad pública.
 
-(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 19 DE FEBRERO DE 2009)
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 #### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
 
@@ -2599,7 +2597,9 @@ ARTÍCULO 143 BIS.- El Consejo Ciudadano tendrá las siguientes facultades:
 
 I.- Participar en el Consejo Consultivo de la Secretaría de Seguridad Pública;
 
-II.- Participar en el Consejo Consultivo de la Fiscalía General;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
 III.- Promover la participación ciudadana en materia de seguridad pública;
 
@@ -3230,3 +3230,23 @@ P.O. 9 DE JUNIO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, e iniciará su vigencia en el momento que entren en vigor las reformas constitucionales relacionadas con la materia de este decreto.
+
+SEGUNDO. Los agentes del ministerio público de la Fiscalía General como organismo autónomo, quedarán a partir de la entrada en vigor de las reformas a la Constitución Política del Estado de Durango y de la Ley Orgánica de la Fiscalía General del Estado de Durango, adscritos a la Fiscalía General del Estado del Poder Ejecutivo, y sus actos como autoridad o como parte en los procesos penales seguirán siendo válidos para todos los efectos legales. No requerirán nuevo nombramiento los agentes del ministerio público que lo hayan obtenido por servidores públicos de la Fiscalía General.
+
+La entrada de las reformas mencionadas en este artículo no afectará de ninguna forma la tramitación de las averiguaciones previas, investigaciones o procesos penales iniciados antes de su vigencia, y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos.
+
+TERCERO. La Fiscalía General del Estado del Poder Ejecutivo, asumirá todos los derechos y obligaciones que hasta ahora correspondían a la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública.
+
+CUARTO. El personal que actualmente labora para la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública, se transferirán a la Fiscalía General del Estado, respetando todos sus derechos.
+
+QUINTO. En la readscripción de los empleados y trabajadores de la Fiscalía General como órgano autónomo a la Fiscalía General del Ejecutivo del Estado, se respetarán sus derechos adquiridos.
+
+SEXTO. Cualquier mención establecida en ordenamientos legales a la Fiscalía General del Estado o a la Procuraduría General de Justicia, se entenderán hechas a la Fiscalía General del Estado dependiente del Poder Ejecutivo.
+
+SÉPTIMO. Lo no previsto en los artículos transitorios del presente Decreto, se estará a lo dispuesto en el Decreto Constitucional relacionado con la materia de este mismo.
+
+OCTAVO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
