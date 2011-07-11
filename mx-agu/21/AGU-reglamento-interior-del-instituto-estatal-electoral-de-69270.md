@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-estatal-electoral-de-69270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 11 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -1160,3 +1162,17 @@ T R A N S I T O R I O S :
 PRIMERO. El presente Reglamento entrará en vigor al momento de su aprobación.
 
 SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha 12 de enero de 2004 en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO. Se abroga el Reglamento Interior del Instituto Estatal Electoral, publicado en fecha trece de julio de dos mil nueve en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+TERCERO: Los nombramientos expedidos con anterioridad a la entrada en vigor de este Reglamento, serán respetados y tendrán plena vigencia.
+
+CUARTO: El titular de la Contraloría General tendrá un plazo de seis meses contado a partir de su nombramiento por el Congreso para emitir los reglamentos, normas, lineamientos, procedimientos, métodos, mecanismos, programas y sistemas a que se refiere el artículo 353 del Código.
+
+QUINTO: Se derogan las disposiciones del Reglamento del Servicio Profesional Estatal Electoral que contravengan lo dispuesto en el presente Reglamento.
