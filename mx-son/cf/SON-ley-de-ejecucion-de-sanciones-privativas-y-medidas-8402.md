@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ejecucion-de-sanciones-privativas-y-medidas-8402"
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-22"
-last_updated: "1973-01-03"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y MEDIDAS RESTRICTIVAS DE LIBERTAD, PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en el Alcance al número 42 del Boletín Oficial del Estado de Sonora, el miércoles 22 de noviembre de 1972.
 
@@ -277,9 +277,17 @@ VI
 
 Correspondencia
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 38.
 
-La correspondencia expedida por los internos o la que se dirija a éstos podrá ser interceptada y abierta antes de su entrega a la Oficina de Correos o cuando ya ha dejado de circular por la estafeta postal, pudiendo vedarse el conocimiento de su contenido al interno sólo por razones de seguridad o de tratamiento. La comunicación telefónica se permitirá en casos necesarios y urgentes a juicio de la Dirección y de acuerdo con el Reglamento.
+La correspondencia expedida por los internos o la que se dirija a éstos, podrá ser interceptada y abierta antes de su entrega a la oficina de correos o cuando ya ha dejado de circular por la estafeta postal, pudiendo vedarse el conocimiento de su contenido al interno sólo por razones de seguridad o de tratamiento.
+
+La comunicación telefónica se permitirá en casos necesarios y urgentes a juicio de la Dirección y de acuerdo con el Reglamento.
+
+Para la comunicación telefónica de los internos deberán utilizarse líneas y equipos telefónicos fijos, en los espacios físicos y horarios designados para tal efecto por la Dirección y de acuerdo al Reglamento. Queda prohibida la utilización de dispositivos portátiles de comunicación electrónica por parte de los internos, abogados, visitantes, custodios o el resto del personal, al interior de los centros de readaptación social. El incumplimiento de esta disposición será sancionado en los términos de la ley penal
+
+Deberán instalarse en todos y cada uno de los centros de readaptación del Estado de Sonora, equipos que permitan bloquear las señales de transmisión de voz y datos, con la salvedad que establece este mismo artículo, así como en los casos necesarios para que el personal desempeñe su labor en el ámbito administrativo.
 
 VIII (SIC)
 
@@ -922,3 +930,13 @@ Angel López Gutiérrez.
 B.O. 3 DE ENERO DE 1973.
 
 UNICA.- Esta ley entrará en vigor el día cinco de enero de mil novecientos setenta y tres, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El reglamento a que se refiere el artículo 38 de la ley que se modifica mediante el presente Decreto, deberá expedirse por el Ejecutivo Estatal en un plazo no mayor a 30 días hábiles, contado a partir de la entrada en vigor del presente resolutivo.
