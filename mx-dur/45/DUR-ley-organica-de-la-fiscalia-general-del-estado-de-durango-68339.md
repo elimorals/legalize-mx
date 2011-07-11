@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2010-10-03"
+last_updated: "2011-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -57,21 +57,23 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO.
 
 La presente Ley es de orden público, interés social y tiene por objeto establecer la organización y funcionamiento de la Fiscalía General del Estado de Durango, para el ejercicio de las atribuciones y el despacho de los asuntos que le confieren a la Institución del Ministerio Público la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango y demás disposiciones legales aplicables.
 
-El Ministerio Público tiene autonomía técnica para realizar las funciones de su competencia y se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, oficiosidad, lealtad, unidad de actuación y justicia pronta.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+El Ministerio Público se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, oficiosidad, lealtad, unidad de actuación y justicia pronta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 2.
 
+La Fiscalía General del Estado de Durango, es la dependencia del Ejecutivo del Estado, representada por el Fiscal General del Estado, mediante la cual la Institución del Ministerio Público y sus órganos auxiliares directos ejercen sus funciones de acuerdo con las disposiciones constitucionales y legales de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PARRAFO], P.O. 11 DE JULIO DE 2011)</small>
+
 El Fiscal General, es el titular de la institución del Ministerio Público del Estado y tiene las siguientes atribuciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-I. Establecer los lineamientos generales del Ministerio Público, así como las estrategias que deben orientar la investigación de hechos que se estimen delictivos yb (sic) los criterios para el ejercicio de la acción penal;
+I. Establecer los lineamientos generales del Ministerio Público, así como las estrategias que deben orientar la investigación de hechos que se estimen delictivos y los criterios para el ejercicio de la acción penal;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -85,21 +87,27 @@ II. Emitir circulares, acuerdos, y demás disposiciones técnicas y administrati
 
 III. Suscribir dentro del ámbito de su competencia acuerdos y convenios de colaboración con instituciones federales, estatales y municipales;
 
-IV. Ejercer la disciplina y la administración del Ministerio Público;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+IV. Ejercer la autoridad jerárquica sobre todo el personal de la Fiscalía;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-V. Nombrar y remover libremente al personal de la Fiscalía General;
+V. Presidir el Ministerio Público y ejercer las facultades que correspondan a esta Institución;
 
-VI. Crear coordinaciones, agencias del Ministerio Público, direcciones, unidades y departamentos, de acuerdo con las necesidades del servicio;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-VII. Emitir instrucciones al personal a su cargo, sobre el ejercicio de sus funciones y mediante acuerdos, delegar las atribuciones propias de su cargo a sus subordinados;
+VI. Ejercer mando sobre la Dirección Estatal de Investigación;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+VII. Emitir instrucciones al personal a su cargo, sobre el ejercicio de sus funciones y delegar las atribuciones propias de su cargo al subordinado que corresponda;
 
 VIII. Pronunciarse sobre las inconformidades que se formulen en contra de actuaciones de los agentes del Ministerio Público que no fueran revisables por los jueces de control. Tales impugnaciones deberán hacerse valer dentro de los tres días hábiles siguientes a la fecha de su notificación;
 
-IX. Contratar profesionales, técnicos o expertos, para el mejor ejercicio de las funciones de la institución del Ministerio Público, los que se regirán por las estipulaciones del contrato correspondiente y no por los términos de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+IX. Designar Agentes del Ministerio Público especiales para que intervengan en asuntos en los que a su juicio sea útil esa intervención;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -109,9 +117,29 @@ X. Proponer el anteproyecto de presupuesto anual de egresos de la Institución y
 
 XI. Comparecer ante el Congreso del Estado cuando sea requerido, para informar de los asuntos a su cargo;
 
-XII. Otorgar estímulos y reconocimientos e imponer sanciones al personal de la dependencia, en los términos del reglamento de la presente, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XIII. Las demás que le confieran las disposiciones legales aplicables.
+XII. Otorgar estímulos y reconocimientos e imponer sanciones al personal de la dependencia, en los términos de las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+XIII. Proponer al Ejecutivo del Estado, proyectos de iniciativa de ley o de reformas legislativas que estime necesarias para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, y que estén vinculadas con las materias que sean competencia de la Institución;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+XIV. Acordar con el Gobernador del Estado, los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+XV. Expedir los acuerdos, circulares, instructivos, manuales de organización, de procedimientos y de servicios al público que sean necesarios para el mejor funcionamiento de la Institución;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+XVI. Representar legalmente a la Fiscalía General del Estado en los juicios donde sea parte; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE JULIO DE 2011)</small>
+
+XVII. Las demás que le confieran las disposiciones legales aplicables.
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO SEGUNDO DEL DECRETO NUMERO 3, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
 
@@ -151,13 +179,11 @@ En la investigación de hechos delictuosos, serán auxiliares del Ministerio Pú
 
 ### CAPÍTULO II. ESTRUCTURA ORGÁNICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 5.
 
-La Fiscalía General es un organismo constitucional autónomo, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica de gestión y presupuestaria, en el que se deposita la Institución del Ministerio Público, y se integra por:
+La Fiscalía General es la dependencia del Ejecutivo del Estado, dotada de autonomía técnica de gestión, en el que se deposita la Institución del Ministerio Público, y se integra por:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -207,31 +233,37 @@ IX. Agentes del Ministerio Publico;
 
 X. Dirección de Justicia Restaurativa;
 
-XI. Departamento de Inmediata Atención, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XII. Secretaría Técnica.
+XI. Departamento de Inmediata Atención;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+XII. Dirección de Servicios Periciales;
 
-Artículo 5 BIS.- Son auxiliares directos del ministerio público los peritos y la división de investigación de los delitos a que se refiere la Ley de Seguridad Pública del Estado. Corresponderá a los agentes del Ministerio Público la conducción y mando de dicha división y, en general de cualquier cuerpo de seguridad pública, cuando su actuación se relacione con la investigación de los delitos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XIII. Dirección Estatal de Investigación;
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-Artículo 5 BIS 1.- En caso de incumplimiento de las órdenes emitidas por los Agentes del Ministerio Público a la policía de investigación o cualquier otro cuerpo policiaco, podrá requerirse al Comisario Jefe de la División de Investigación de los delitos de la Policía Estatal o al Servidor Público de más alto rango de la corporación correspondiente, el cumplimiento de las mismas, y en su caso, la imposición de las sanciones a que se refiera la legislación aplicable en el ámbito de sus respectivas competencias sin perjuicio de la responsabilidad penal que le resulte; en caso contrario, deberá señalarse la imposibilidad fundada y motivada del cumplimiento.
+XIV. Secretaría Técnica; y
 
-En caso de que el Comisario Jefe de la División de Investigación de los Delitos de la Policía Estatal no justifique fundada y motivadamente el incumplimiento de las órdenes emitidas por los Agentes del Ministerio Público a la policía de investigación, se dará vista con copia certificada del expediente al Fiscal General para que, en caso de considerarlo procedente, realice la solicitud de remoción en términos de la Ley de Seguridad Pública del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XV. Las demás áreas que establezca el Reglamento Interno de la Fiscalía.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+Artículo 5 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
+
+Artículo 5 BIS 1.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 6.
 
-Para el ejercicio de las funciones sustantivas forman parte de la Fiscalía General las direcciones generales, direcciones, unidades especializadas y departamentos que establezca el Reglamento, así como las que cree el Fiscal General del Estado, previa suficiencia presupuestal, por necesidades del servicio.
+Cada unidad administrativa y órganos desconcentrados de la Fiscalía, contarán con un titular que ejercerá autoridad jerárquica sobre todo el personal que la conforme, y será responsable del cabal cumplimiento de las atribuciones que le confiera esta Ley, su Reglamento y las demás disposiciones aplicables.
+
+El titular de cada área, con la aprobación del Fiscal, se auxiliará en sus funciones por el personal de confianza, técnico y administrativo que se determine conforme a la presente Ley. Las atribuciones de ese personal auxiliar se establecerán en el Reglamento Interno de la Fiscalía.
 
 ### CAPÍTULO III. DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO
 
@@ -239,13 +271,11 @@ Para el ejercicio de las funciones sustantivas forman parte de la Fiscalía Gene
 
 La Institución del Ministerio Público constituye una entidad indivisible que ejercerá sus atribuciones con respecto a la dependencia jerárquica y las actuaciones válidas de sus funcionarios deberán ser acatadas por los demás.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 8.
 
-Tendrán el carácter de Agentes del Ministerio Público para todos los efectos legales y ejercerán las atribuciones que en términos de la presente Ley se le confiere a esta institución, el Fiscal General, los Vicefiscales, el Coordinador General de Agentes del Ministerio Público, los Agentes del Ministerio Público, así como los titulares de las direcciones generales, direcciones, unidades especializadas y departamentos a los que expresamente les confiera ese carácter el Fiscal General.
+Tendrán el carácter de Agentes del Ministerio Público para todos los efectos legales y ejercerán las atribuciones que en términos de la presente Ley se le confiere a esta institución, el Fiscal General, los Vicefiscales, el Coordinador General de Agentes del Ministerio Público, los Agentes del Ministerio Público, así como los titulares de las direcciones generales, direcciones, unidades especializadas y departamentos a los que expresamente les confiera ese carácter el Reglamento Interno de la Fiscalía.
 
 ###### Artículo 9.
 
@@ -271,35 +301,81 @@ A toda persona imputada se le informará, tanto en el momento de su detención p
 
 Toda víctima u ofendido del delito podrá coadyuvar con el Ministerio Público y exigir se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 14.
 
-En las funciones de investigación y persecución de los delitos los agentes de la policía de investigación además de las atribuciones que señalen otros ordenamientos tendrán las siguientes:
+En las funciones de investigación y persecución de los delitos los agentes de la Dirección Estatal de Investigación además de las atribuciones que señalen otros ordenamientos tendrán las siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, e informar inmediatamente de ello al Ministerio Público, realizando las diligencias urgentes e indispensables dependiendo del caso, y actuar bajo la conducción y mando de aquél;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 II. Deberán verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que se encuentren relacionados con los hechos delictivos, siempre y cuando haya mandato de autoridad competente para tal efecto;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IX. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 X. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes y actas necesarias sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes o actas que éste le requiera;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 XI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 XII. Proporcionar atención a víctimas, ofendidos o testigos del delito; para tal efecto deberá:
 
@@ -313,19 +389,25 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 XIV. Cumplir con todas las formalidades a las que se refieren los (sic)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 XV. Las demás que le confieran las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-Artículo 14 BIS.- Las ausencias del Fiscal General serán suplidas, si no exceden de un mes, por el Vicefiscal General. Si la ausencia excediere dicho plazo pero fuere menor a seis meses, se designará a un Fiscal interino, y si fuere mayor a ese término, se nombrará a un Fiscal sustituto para que ocupe el cargo hasta el final del período, por parte del Congreso del Estado.
-
-Las ausencias de los Vicefiscales serán suplidas por quien para el caso concreto designe el Fiscal General.
+Artículo 14 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -345,7 +427,9 @@ I. Encargarse del despacho de los asuntos de la Fiscalía General en las ausenci
 
 II. Coordinar a las Vicefiscalias, con el fin de garantizar el eficaz cumplimiento de los objetivos, políticas y programas establecidos por el Fiscal General; y
 
-III. Las demás que le asigne el Fiscal General o el reglamento de esta ley.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+III. Las demás que le asigne el Fiscal General y otras disposiciones aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -357,11 +441,9 @@ El Vicefiscal de Protección de los Derechos Humanos y Atención a Víctimas del
 
 I. Proponer e instrumentar las políticas institucionales para la observancia, capacitación y promoción en materia de derechos humanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-II. Proponer al Comisario General de la Policía y al Comisario Jefe de la División de Investigación de la Policía, los protocolos necesarios a fin de que los agentes policiales respeten los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Durango y las leyes que de ellas emanen;
+II. Proponer al Comisario General de la Policía Estatal de la Secretaría de Seguridad Pública y al Director Estatal de Investigación, los protocolos necesarios a fin de que los agentes policiales respeten los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Durango y las leyes que de ellas emanen;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -603,73 +685,51 @@ V. Cumplir los requisitos de ingreso durante el servicio, y
 
 VI. Los demás requisitos que establezcan las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 25.
 
-El incumplimiento de cualquiera de los requisitos de ingreso o permanencia por el personal de la Fiscalía General, será suficiente para que el Fiscal General remueva del cargo al servidor público respectivo.
+El incumplimiento de cualquiera de los requisitos de ingreso o permanencia por el personal de la Fiscalía General, será suficiente para que se remueva del cargo al servidor público respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+Los agentes del Ministerio Público, peritos e integrantes de la Dirección Estatal de Investigación, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes y reglamentos vigentes en el momento del acto señalen para permanecer en la Fiscalía General del Estado, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Fiscalía sólo estará obligada a pagar las indemnizaciones a que haya lugar, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 26.
-
-Los Agentes del Ministerio Público y demás personal de la Fiscalía General, atendiendo a la naturaleza de su cargo, podrán ser removidos o destituidos libremente por el Fiscal General, dando por terminado los efectos de su nombramiento sin que proceda su reinstalación o restitución y en su caso, solo procederá cubrir las prestaciones relativas a salarios devengados, parte proporcional de aguinaldo y parte proporcional de vacaciones.
-
-Los agentes del Ministerio Público y peritos, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en la Fiscalía General del Estado, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Fiscalía sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 27.
 
 En cualquier momento, el Fiscal General o el Vicefiscal de Control Interno, Análisis y Evaluación, podrá determinar, como medida provisional, la suspensión temporal del servidor público, siempre que a su juicio así convenga para el mejor cumplimiento del servicio público de procuración de justicia o para la conducción o continuación de las investigaciones; suspensión que cesará si así lo considera el Fiscal General, independientemente de la iniciación, continuación o conclusión en su caso del procedimiento respectivo. La suspensión no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la misma.
 
 Si el servidor público suspendido conforme a este precepto no resultare responsable, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo que se hallara suspendido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 28.
+###### Artículo 27.
 
 Los servidores públicos de la Fiscalía General, los Agentes del Ministerio Público, sus auxiliares y agentes, que estén sujetos a proceso penal como probables responsables de algún delito, serán separados de sus cargos y suspendidos de sus derechos, desde que se dicte el auto de vinculación a proceso y hasta que se pronuncie sentencia ejecutoriada. En caso de que ésta fuere condenatoria serán destituidos en forma definitiva del cargo; si por el contrario, fuese absolutoria, se le reincorporará y restituirá en sus derechos y se le pagarán las prestaciones laborales correspondientes a que hubiere lugar.
 
-Cuando el servidor público obtuvo sentencia absolutoria y hubiere obrado en defensa del titular, o de los intereses de la procuraduría, se le restituirá en su trabajo y se le pagarán los salarios que hubiere dejado de percibir.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 29.
+###### Artículo 28.
 
 La desobediencia o resistencia a cumplir las órdenes del Ministerio Público, dará lugar a la aplicación de las medidas de apremio previstas en este ordenamiento, sin perjuicio de la imposición de otras sanciones establecidas en la ley. Cuando la desobediencia o resistencia constituyan delito, se iniciará la averiguación previa o la carpeta de investigación según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-### CAPÍTULO VIII. DE LA SECRETARÍA TÉCNICA
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 30.
+###### Artículo 29.
 
 La Contraloría Interna es un órgano de control interno en la Fiscalía, encargada de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-Este órgano debe ejercer las normas de control interno de la institución de acuerdo a las políticas establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+Este órgano debe ejercer las normas de control interno de la institución de acuerdo a las disposiciones establecidas en Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+(REUBICADO, P.O. 11 DE JULIO DE 2011)
 
-###### Artículo 31.
+### CAPÍTULO VIII. DE LA SECRETARÍA TÉCNICA
 
-La Secretaría Técnica es el enlace de la Fiscal General Justicia (sic) , con el Poder Judicial del Estado y la Secretaría de Seguridad Pública, con el Sistema Nacional de Seguridad y Plataforma México, así como la Unidad de Enlace Informático e Inteligencia, con la cual deberá generar los protocolos para la interconexión y homologación de las tecnologías, a fin de contar con las plataformas y bases de datos a que se refiere la Ley del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+
+###### ARTÍCULO 30.
+
+La Secretaría Técnica es el enlace de la Fiscalía General, con el Poder Judicial del Estado y la Secretaría de Seguridad Pública, con el Sistema Nacional de Seguridad y Plataforma México, así como la Unidad de Enlace Informático e Inteligencia, con la cual deberá generar los protocolos para la interconexión y homologación de las tecnologías, a fin de contar con las plataformas y bases de datos a que se refiere la Ley del Sistema Nacional de Seguridad Pública y la Ley se (sic) Seguridad Pública del Estado.
 
 Compete a la misma:
 
@@ -683,13 +743,57 @@ IV. En materia de ejecución de sentencias dar seguimiento a la carpeta judicial
 
 V. Recibir las notificaciones de los jueces de ejecución respecto al cumplimiento o no de las condiciones fijadas a los sentenciados que disfrutan del beneficio de la condena condicional y respecto a los que están compurgando la pena de prisión;
 
-VI. Informar respecto si cubren el pago de la reparación del daño y si abonan a la misma, así como si se cumple la pena de prisión, y
+VI. Informar respecto si cubren el pago de la reparación del daño y si abonan a la misma, así como si se cumple la pena de prisión; y,
 
 VII. Dar seguimiento a las medidas cautelares dictadas por los jueces de control coordinadamente con el personal de la subdirección de medidas judiciales de la Secretaría de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2011)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN ESTATAL DE INVESTIGACIÓN
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
+
+###### ARTICULO 31.
+
+Los agentes de la Dirección Estatal de Investigación actuarán bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, debiendo auxiliarlo en la investigación de los delitos del orden común.
+
+El Director Estatal de Investigación tendrá las siguientes atribuciones:
+
+I.- Dirigir los servicios de investigación de los delitos, para la atención de los asuntos que le encomiende el Fiscal, los Vicefiscales, y los Agentes del Ministerio Público;
+
+II.- Vigilar la conducta y desempeño de los elementos de la Dirección;
+
+III.- Realizar la planeación estratégica de la Dirección, así como supervisar y evaluar los resultados de los operativos, a través de la revisión permanente de la información de acciones y hechos que se realicen en cada una de las zonas;
+
+IV.- Supervisar la objetividad y eficiencia de las diligencias policiales que se practiquen de acuerdo a los protocolos de investigación correspondientes;
+
+V.- Ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial y las órdenes que dicte el Ministerio Público en el ejercicio de su función. Invariablemente se actuará con pleno respeto a los derechos humanos, así como de las normas y medidas que rijan esas actuaciones;
+
+VI.- Establecer, vigilar y aplicar los programas y cursos de actualización del personal de la Dirección; y,
+
+VII.- Las demás que establezcan las disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2011)</small>
+
+Artículo 31 BIS.- Sin menoscabo de la autoridad de su Director, son obligaciones de los Agentes de la Dirección Estatal de Investigación, las siguientes:
+
+I.- Cumplir los mandatos del Ministerio Público;
+
+II.- Investigar los delitos del fuero común cometidos dentro del territorio del Estado, bajo la autoridad y mando directo e inmediato del Ministerio Público;
+
+III.- Ejecutar las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial;
+
+IV.- Participar en las tareas de ejecución de la política criminal del Estado y en el combate a la delincuencia, en los términos de lo dispuesto por esta Ley y en su Reglamento;
+
+V.- Colaborar en operativos con otras corporaciones policiales, y otorgarles el apoyo que conforme a derecho proceda y de acuerdo con los convenios que para ese efecto se celebren;
+
+VI.- Observar en el desempeño de sus funciones, respeto absoluto a los derechos humanos; y,
+
+VII.- Las demás que establezca el Fiscal General y las demás disposiciones aplicables.
+
 ## TÍTULO SEGUNDO. DE LA DIRECCIÓN DE SERVICIOS PERICIALES
 
-### CAPÍTULO II. DE LOS SERVICIOS PERICIALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 32.
 
@@ -703,11 +807,7 @@ Cuando no se cuente con peritos en la disciplina, ciencia o arte de que se trate
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO III. DEL INGRESO Y PERMANENCIA
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+### CAPÍTULO II. DE LOS SERVICIOS PERICIALES
 
 ###### Artículo 34.
 
@@ -755,11 +855,11 @@ Para el esclarecimiento de los hechos y con acuerdo del Fiscal General se podrá
 
 El Fiscal General podrá adscribir a los peritos en las agencias del Ministerio Público, las Unidades Especializadas o en áreas centrales de la Institución, atendiendo a las cargas de trabajo y a las necesidades del servicio.
 
-### CAPÍTULO I. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
+### CAPÍTULO III. DEL INGRESO Y PERMANENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -797,7 +897,7 @@ f) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO II. DE LA JUSTICIA RESTAURATIVA E INMEDIATA ATENCIÓN
+### CAPÍTULO I. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -823,7 +923,7 @@ Los procedimientos o sistemas para la selección, ingreso, formación, capacitac
 
 Los servidores públicos de la Fiscalía General serán evaluados periódicamente en su desempeño de conformidad con las normas que establezca el reglamento de la institución. La evaluación determinará su permanencia y promoción en la Fiscalía.
 
-### CAPÍTULO III. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
+### CAPÍTULO II. DE LA JUSTICIA RESTAURATIVA E INMEDIATA ATENCIÓN
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -833,31 +933,27 @@ Los servidores públicos de la Fiscalía General serán evaluados periódicament
 
 La Dirección de Justicia Penal Restaurativa y el Departamento de Inmediata Atención se regirán por lo establecido en la Ley de Justicia Penal Restaurativa y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO IV. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+### CAPÍTULO III. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 42.
 
-El Fiscal General será designado y removido en los términos de la Constitución Política del Estado Libre y Soberano de Durango, y deberá cumplir los requisitos en ella establecidos.
+El Fiscal General será designado y removido por el Gobernador del Estado en los términos de la Constitución Política del Estado Libre y Soberano de Durango y las leyes de la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 43.
 
-Los Vicefiscales serán nombrados y removidos libremente por el Fiscal General y deberán cubrir los requisitos exigidos por la Constitución Política del Estado Libre y Soberano de Durango, para ser Fiscal General.
+Los vicefiscales serán nombrados y removidos libremente por el Gobernador del Estado y deberán cubrir los requisitos exigidos por la Constitución Política del Estado Libre y Soberano de Durango, para ser Fiscal General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 44.
 
-Los demás funcionarios y servidores públicos serán nombrados y removidos libremente por el Fiscal General.
+Los funcionarios y personal de confianza de la Fiscalía General del Estado, serán nombrados y removidos libremente por el Gobernador del Estado, pudiendo delegar tal facultad al Fiscal General.
+
+En la designación de los Agentes del Ministerio Público, de los agentes de la Dirección Estatal de Investigación y de los peritos de la Fiscalía, se atenderá a las disposiciones de esta Ley, sin perjuicio de las normas complementarias.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -889,15 +985,11 @@ Para ser Agente Investigador de la Policía bajo la autoridad y mando del Minist
 
 Para ser perito en la Fiscalía General, es preciso reunir los requisitos de las fracciones I, II y V, además, contar con título o certificado legalmente expedido por la institución o autoridad facultada para ello en la ciencia que ha de intervenir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 46.
 
-Las ausencias temporales del Fiscal General hasta por seis meses serán cubiertas por el Vicefiscal General. En caso de falta de este último será suplido por los servidores públicos en el orden de prelación que establece el artículo 5 de esta ley.
-
-En caso de ausencias temporales mayores a seis meses o ausencias definitivas el H. Congreso del Estado nombrara un Fiscal sustituto para concluir el periodo en los términos establecidos en la Constitución .Política del Estado Libre y Soberano de Durango.
+Las ausencias temporales del Fiscal General hasta por seis meses serán cubiertas por el Vicefiscal General. En caso de falta de este último será suplido por los servidores públicos en el orden de prelación que establece el artículo 5 de esta Ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -917,43 +1009,65 @@ IV. Las de los Agentes del Ministerio Público, por el personal que designe el F
 
 V. En los lugares donde sólo haya un Agente del Ministerio Público, su ausencia será suplida por quien designe su superior. Cuando haya ausencia de un servidor público y no exista determinación expresa de quien deberá suplirla en los términos indicados, en tanto se emite esa determinación, será suplido por el inferior jerárquico inmediato.
 
-### CAPÍTULO V. SANCIONES Y MEDIDAS DISCIPLINARIAS
+### CAPÍTULO IV. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 48.
 
-El Fiscal General, Vicefiscales, Directores, Subdirectores, Jefes de Departamento, Titulares de área, Agentes del Ministerio Público, los elementos de la policía de investigación, personal de la Secretaria Técnica y Peritos, no podrán:
+El Fiscal General, Vicefiscales, Directores, Subdirectores, Jefes de Departamento, Titulares de área, Agentes del Ministerio Público, los elementos de la Dirección Estatal de Investigación, personal de la Secretaría Técnica y Peritos, no podrán:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en dependencias o entidades públicas federales, del Distrito Federal, estatales o municipales, ni trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Institución, siempre y cuando no sean incompatibles con sus funciones en la misma;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 II. Ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Desempeñar funciones electorales federales, estatales o municipales, y
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 VI. En caso de incumplir con estas prohibiciones se aplicarán las sanciones que se establecen en la presente ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 49.
 
-El Fiscal General, los Vicefiscales, Directores, Subdirectores, elementos de la policía de Investigación y los Peritos, no son recusables, pero deben excusarse en los negocios en que intervengan cuando exista alguna causal de las previstas para el caso de los Magistrados o Jueces del orden común, dentro del término de veinticuatro horas de que tengan conocimiento del impedimento; de no hacerlo, serán sancionados en los términos de la legislación vigente.
+El Fiscal General, los Vicefiscales, Directores, Subdirectores, elementos de la Dirección Estatal de Investigación y los Peritos, no son recusables, pero deben excusarse en los negocios en que intervengan cuando exista alguna causal de las previstas para el caso de los Magistrados o Jueces del orden común, dentro del término de veinticuatro horas de que tengan conocimiento del impedimento; de no hacerlo, serán sancionados en los términos de la legislación vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 50.
 
-El Congreso del Estado calificará las excusas del Fiscal General y éste las de los Vicefiscales, y Directores.
+El Gobernador del Estado calificará las excusas del Fiscal General y éste las de los Vicefiscales, y Directores.
 
 Los titulares de las diversas unidades administrativas calificarán las excusas de su personal. El servidor público que califique la excusa, en caso de ser procedente, designará de inmediato al que deba sustituir al impedido.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. SANCIONES Y MEDIDAS DISCIPLINARIAS
 
 ###### Artículo 51.
 
@@ -1023,6 +1137,8 @@ Para la imposición de las sanciones a que se refiere el presente artículo, se 
 
 ## TÍTULO CUARTO. DE LOS FONDOS DE PROCURACIÓN DE JUSTICIA Y DE REPARACIÓN A LAS VÍCTIMAS
 
+### CAPÍTULO ÚNICO
+
 ###### Artículo 53.
 
 Se constituye el patrimonio social denominado Fondo Auxiliar para la Procuración de Justicia, el cual será administrado y vigilado por un Comité Administrador integrado de la siguiente forma:
@@ -1033,11 +1149,9 @@ Se constituye el patrimonio social denominado Fondo Auxiliar para la Procuració
 
 I. El Fiscal General ó la persona en quien delegue esa responsabilidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-II. El Fiscal de Procedimientos Penales;
+II. El Vicefiscal de Procedimientos Penales;
 
 III. El Coordinador de Agentes del Ministerio Público;
 
@@ -1051,7 +1165,9 @@ IV. El encargado de la Administración de la Fiscalía General del Estado;
 
 V. El contralor Interno, y
 
-VI. Un representante de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+VI. Un representante de la Secretaría de Finanzas y de Administración.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1059,7 +1175,9 @@ VI. Un representante de la Secretaría de Finanzas y de Administración del Gobi
 
 El Comité Administrador del Fondo Auxiliar para la Procuración de Justicia, tendrá a su cargo por conducto del encargado de la administración de la Fiscalía General, la vigilancia, administración, manejo y disposición de los bienes del citado fondo, de conformidad con las atribuciones que se establezcan en el reglamento de la presente ley; siendo responsable de aplicar para su operatividad las siguientes bases:
 
-Primera.- Invertirá las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación de la procuraduría, quien será titular de los certificados y documentos que expidan las instituciones financieras con motivo de las inversiones con mayor rendimiento, constituyendo con las instituciones fiduciarias, los fideicomisos de administración de estos recursos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+
+Primera.- Invertirá las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación de la Fiscalía, quien será titular de los certificados y documentos que expidan las instituciones financieras con motivo de las inversiones con mayor rendimiento, constituyendo con las instituciones fiduciarias, los fideicomisos de administración de estos recursos;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1236,3 +1354,23 @@ DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los t�
 DÉCIMO CUARTO.-En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado a la Fiscalía General, se respetarán sus derechos adquiridos.
 
 DÉCIMO QUINTO.- El Secretario de Seguridad Pública, proveerá lo necesario para la conformación del Centro Estatal de Evaluación y Control de Confianza, en los términos del artículo 165 del artículo primero de éste decreto en un plazo que no exceda de treinta días hábiles a partir de la entrada en vigor.
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, e iniciará su vigencia en el momento que entren en vigor las reformas constitucionales relacionadas con la materia de este decreto.
+
+SEGUNDO. Los agentes del ministerio público de la Fiscalía General como organismo autónomo, quedarán a partir de la entrada en vigor de las reformas a la Constitución Política del Estado de Durango y de la Ley Orgánica de la Fiscalía General del Estado de Durango, adscritos a la Fiscalía General del Estado del Poder Ejecutivo, y sus actos como autoridad o como parte en los procesos penales seguirán siendo válidos para todos los efectos legales. No requerirán nuevo nombramiento los agentes del ministerio público que lo hayan obtenido por servidores públicos de la Fiscalía General.
+
+La entrada de las reformas mencionadas en este artículo no afectará de ninguna forma la tramitación de las averiguaciones previas, investigaciones o procesos penales iniciados antes de su vigencia, y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos.
+
+TERCERO. La Fiscalía General del Estado del Poder Ejecutivo, asumirá todos los derechos y obligaciones que hasta ahora correspondían a la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública.
+
+CUARTO. El personal que actualmente labora para la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública, se transferirán a la Fiscalía General del Estado, respetando todos sus derechos.
+
+QUINTO. En la readscripción de los empleados y trabajadores de la Fiscalía General como órgano autónomo a la Fiscalía General del Ejecutivo del Estado, se respetarán sus derechos adquiridos.
+
+SEXTO. Cualquier mención establecida en ordenamientos legales a la Fiscalía General del Estado o a la Procuraduría General de Justicia, se entenderán hechas a la Fiscalía General del Estado dependiente del Poder Ejecutivo.
+
+SÉPTIMO. Lo no previsto en los artículos transitorios del presente Decreto, se estará a lo dispuesto en el Decreto Constitucional relacionado con la materia de este mismo.
+
+OCTAVO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
