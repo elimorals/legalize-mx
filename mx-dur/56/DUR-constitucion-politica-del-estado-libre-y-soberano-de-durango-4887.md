@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2010-11-28"
+last_updated: "2011-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO DECIMO PRIMERO DEL DECRETO NUMERO 11 POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DEL ESTADO, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2010, SE MODIFICA TODA MENCION QUE SE HAGA EN ORDENAMIENTOS LEGALES RESPECTO AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, SE ENTENDERA HECHA AL TRIBUNAL DE JUSTICIA FISCAL.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO DÉCIMO PRIMERO DEL DECRETO NÚMERO 11 POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2010, SE MODIFICA TODA MENCIÓN QUE SE HAGA EN ORDENAMIENTOS LEGALES RESPECTO AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, SE ENTENDERÁ HECHA AL TRIBUNAL DE JUSTICIA FISCAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -53,7 +53,7 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 ## TITULO PRIMERO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO PRIMERO. DE LAS GARANTIAS Y LOS DERECHOS SOCIALES
 
@@ -63,7 +63,7 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 El Estado de Durango reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la ley. Asimismo, en el Estado de Durango todas las personas gozarán de las garantías y derechos sociales tutelados por la Constitución Política de los Estados Unidos Mexicanos; los estipulados en los Tratados Internacionales suscritos por el estado mexicano en materia de derechos humanos y que hayan sido ratificados por el Senado, así como los que señala esta Constitución, los que no podrán suspenderse ni restringirse sino en los casos y condiciones que la misma Constitución federal señala.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 2.
 
@@ -135,7 +135,7 @@ En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad 
 
 Los habitantes del Estado tienen derecho a vivir y crecer en un ambiente saludable y equilibrado. Las autoridades desarrollarán planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 4.
 
@@ -283,7 +283,7 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente reservarán las libertades, el orden y la paz públicos; para tal efecto, podrán celebrar los convenios de coordinación necesarios, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -341,7 +341,7 @@ La operación del sistema estará a cargo de instituciones, tribunales y autorid
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes, se observará la garantía del debido proceso legal así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
@@ -423,7 +423,7 @@ VII. Iniciar leyes ante el Congreso del Estado y participar en los procesos de r
 
 #### SECCION C.- DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 18.
 
@@ -595,7 +595,7 @@ El ejercicio de las funciones que ésta Constitución señala al Poder Legislati
 
 El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 31.
 
@@ -627,7 +627,7 @@ IV.- Ningún partido político podrá contar con más de diecisiete diputados el
 
 La demarcación territorial de los diecisiete distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2006)</small>
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -655,7 +655,7 @@ III. Tener para el día de la elección una edad mínima de veintiún años cump
 
 IV. No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -713,7 +713,7 @@ SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 39.
 
@@ -795,7 +795,7 @@ El 15 de marzo de cada año, el Gobernador del Estado enviará al Congreso, un i
 
 Recibido el informe por escrito y en medio magnético, se turnará a las comisiones legislativas que corresponda; y a más tardar, el día 15 de abril, se efectuará la glosa del mismo en los términos que disponga la Ley Orgánica del Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -901,7 +901,7 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 55.
 
@@ -1001,9 +1001,9 @@ XX. Resolver los conflictos que sobre límites se susciten entre los municipios.
 
 XXI. Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que realice el Consejo Estatal del Instituto Estatal Electoral y de Participación Ciudadana.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-XXII. Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, del Tribunal para Menores Infractores, del Fiscal General, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado.
+XXII. Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -1081,11 +1081,9 @@ XXXV. Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución 
 
 XXXVI. Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
-
-XXXVII. El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, y a los titulares de las entidades de la administración pública estatal y al Fiscal General, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos, debiendo enviarle citatorio con la anticipación razonable y haciéndole saber el motivo exacto de su comparecencia.
+XXXVII. El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Fiscal General y a los titulares de las entidades de la administración pública estatal, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos, debiendo enviarles citatorio con la anticipación razonable y haciéndole saber el motivo exacto de su comparecencia.
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 1994)</small>
 
@@ -1117,9 +1115,9 @@ Son atribuciones de la Comisión Permanente:
 
 I. Llevar la correspondencia.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
-II. Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, al Fiscal General del Estado, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución.
+II. Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, al Titular de la Entidad de Auditoria Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución;
 
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2010)</small>
 
@@ -1139,7 +1137,7 @@ VII. Las demás que le confiere esta Constitución.
 
 SECCION F.- DE LA ENTIDAD DE AUDITORIA SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 58.
 
@@ -1153,7 +1151,7 @@ La facultad de fiscalización será ejercida conforme a los principios de poster
 
 La Entidad de Auditoría Superior del Estado tendrá a su cargo, además de lo establecido en la ley, lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los organismos autónomos y de los municipios, incluyendo los recursos de origen federal, en su caso, a través de los informes que se rendirán en los términos que disponga la ley, así como evaluar el desempeño de la gestión de los sujetos de fiscalización y el cumplimiento de los objetivos y metas de los programas respectivos.
 
@@ -1211,7 +1209,7 @@ b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos �
 
 c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1997)</small>
 
 ## TITULO CUARTO
 
@@ -1219,7 +1217,7 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 SECCION A.- DE SU ORGANIZACION Y COMPETENCIA
 
@@ -1285,7 +1283,7 @@ SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 63.
 
@@ -1295,7 +1293,7 @@ Si el Congreso estuviere en receso, la Comisión Permanente designará un Gobern
 
 Cuando la falta absoluta del Gobernador ocurriese en los cuatro últimos años, el Congreso designará de inmediato al Gobernador Substituto que concluirá el periodo respectivo. Si el Congreso estuviere en receso la Comisión Permanente designará un Gobernador Provisional y procederá a convocar a un período extraordinario de sesiones que tendrá lugar dentro de las 72 setenta y dos horas siguientes, para que haga la designación del Gobernador Substituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 64.
 
@@ -1323,7 +1321,7 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 #### SECCION C.- DE LOS TRIBUNALES ELECTORAL, PARA MENORES INFRACTORES Y DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL PODER JUDICIAL DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
@@ -1385,7 +1383,7 @@ La administración, vigilancia y disciplina del Tribunal de Justicia Fiscal y Ad
 
 El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, propondrá su presupuesto al Presidente del Tribunal Superior de Justicia, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado.
 
-(REUBICADA [N. DE E. ANTES SECCION C], P.O. 26 DE NOVIEMBRE DE 2000)
+(REUBICADA [N. DE E. ANTES SECCIÓN C], P.O. 26 DE NOVIEMBRE DE 2000)
 
 SECCION D.- DE LOS JUECES
 
@@ -1519,11 +1517,11 @@ XXXI. Instrumentar sistemas complementarios de seguridad social del personal del
 
 XXXII. Las demás que expresamente le confiere esta Constitución y las leyes reglamentarias respectivas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 1993)</small>
 
 SECCION D.- DE LAS SECRETARIAS DEL DESPACHO DEL EJECUTIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 71.
 
@@ -1533,7 +1531,7 @@ Para el despacho de asuntos que le competen al Ejecutivo Estatal, habrá las dep
 
 Las facultades de los funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta Constitución; se fijarán en la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 72.
 
@@ -1635,13 +1633,9 @@ Todos los servidores públicos que manejen fondos del erario, deberán otorgar a
 
 En el Estado de Durango no habrá monopolios ni estancos de ninguna clase, ni exención de impuestos, ni prohibiciones a titulo de protección a la industria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2011)</small>
 
 SECCIÓN F.
-
-DEL MINISTERIO PÚBLICO Y LA FISCALÍA GENERAL DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1669,31 +1663,25 @@ VI. Rendir a los poderes del Estado los informes que le pidan sobre asuntos rela
 
 VII. Las demás que le señalan las leyes, tanto federales como del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 83.
 
-El ejercicio de las funciones del Ministerio Público se deposita en un organismo, denominado Fiscalía General del Estado, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica de gestión y presupuestaria cuyo titular es el Fiscal General.
+El ejercicio de las funciones del Ministerio Público estará a cargo de la Fiscalía General del Estado, en los términos de la Ley. La Fiscalía es una dependencia del Poder Ejecutivo.
 
-El Fiscal General será designado por las dos terceras partes del Congreso del Estado a propuesta del Titular del Poder Ejecutivo.
+La Fiscalía General del Estado, se auxiliará de una policía encargada de la investigación de los delitos, la que estará bajo su mando inmediato y directo, así como de los demás cuerpos de seguridad pública y privada, en los términos de las leyes aplicables.
 
-Si el Congreso del Estado no se encontrase reunido, la Comisión Permanente convocará de inmediato a un período extraordinario de sesiones. El Congreso deberá resolver sobre la procedencia o improcedencia, de su nombramiento en el término de cinco días; en caso de que se abstenga de resolver o se declare la improcedencia del nombramiento, el Titular del Ejecutivo en el plazo de quince días realizará una segunda y hasta una tercera propuesta.
+El Fiscal General del Estado, será designado por el Titular del Poder Ejecutivo, sujeto a ratificación del Congreso del Estado. La ratificación se hará por el voto de las dos terceras partes de los Diputados presentes en la sesión que corresponda. Si el Congreso del Estado no se encontrase reunido, la Comisión Permanente convocará de inmediato a un periodo extraordinario de sesiones.
 
-En caso de que la tercera propuesta sea rechazada por el Congreso; corresponderá al Titular del Ejecutivo hacer el nombramiento del Fiscal General, con exclusión de los no aprobados por el Congreso.
+En caso de que, transcurrido el plazo de cinco días, el Congreso del Estado rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación señalada en el párrafo anterior, el Ejecutivo del Estado, en un plazo de diez días, presentará otra propuesta y la aprobación se efectuará por el voto de la mayoría de los Diputados presentes en la sesión que corresponda.
 
-El Fiscal General durará en su encargo cuatro años, podrá ser reelecto por un periodo Igual y sólo podrá ser removido por el Congreso por causa de responsabilidad.
+Si presentada la segunda propuesta, el Congreso del Estado la rechazara, dentro de los plazos señalados, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación del Fiscal General del Estado.
 
-En caso de ausencia del Fiscal General por más de dos meses, el Ejecutivo enviará al Congreso la propuesta respectiva.
+Una vez que el Fiscal General rinda la protesta de ley correspondiente ante el Titular del Poder Ejecutivo, deberá presentarse dentro de los 30 días posteriores a la misma ante el Congreso del Estado, para presentar su proyecto o plan de trabajo, de acuerdo al formato previamente establecido por la Gran Comisión del Congreso del Estado.
 
-Los Vicefiscales y demás servidores públicos de la Fiscalía General serán nombrados y removidos libremente por el Fiscal General, con la salvedad que se establezca en la ley respecto de quienes conforman el servicio profesional de carrera.
+El titular del Poder Ejecutivo nombrará a los Vicefiscales y los removerá libremente al igual que al Fiscal General del Estado.
 
-El Consejo Consultivo del Ministerio Público será presidido por el Fiscal General y estará conformado por los Vicefiscales, un representante del Poder Ejecutivo, uno del Poder Judicial y uno del organismo ciudadano estatal en materia de seguridad pública que establezca la ley, y tendrá como función proponer políticas públicas y de evaluación en materia de procuración de justicia para hacer más eficiente la labor de la Fiscalía, promover la colaboración con los demás cuerpos de seguridad pública del Estado, así como con los de la Federación y los municipios, además de velar por la autonomía de la Institución. En ningún caso podrá opinar sobre la Investigación o persecución de delitos en particular.
-
-El fiscal General deberá comparecer ante el Pleno del Congreso del Estado a rendir un informe anual de su gestión, el día quince de abril, y a más tardar, la segunda quincena de abril, para efectuar la glosa del mismo en los términos que disponga la Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1715,7 +1703,7 @@ IV. No haber sido condenado a más de un año de prisión, excepto el caso de de
 
 Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1723,7 +1711,7 @@ Para ser Agente del Ministerio Público se deben satisfacer los requisitos que a
 
 Los Vicefiscales suplirán al Fiscal General en los términos que establezca la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2009)</small>
 
 SECCION G.- DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
@@ -1773,11 +1761,11 @@ La competencia del Tribunal Superior de Justicia, del Tribunal Electoral del Pod
 
 Se crea un órgano desconcentrado del Tribunal Superior de Justicia que intervendrá como entidad de apoyo administrativo, con las atribuciones y facultades a que se refiere el artículo 102 de esta Constitución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 SECCION B.- DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 91.
 
@@ -1827,7 +1815,7 @@ III. Poseer para ese día y con antigüedad mínima de diez años, título profe
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1903,7 +1891,7 @@ XVII. Defender la Constitución y la soberanía del Estado; y
 
 XVIII. Las demás que le confieren esta Constitución y las leyes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 97.
 
@@ -2067,7 +2055,7 @@ En caso de declararse desaparecido un ayuntamiento, o por renuncia o falta absol
 
 Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 108.
 
@@ -2157,7 +2145,7 @@ La policía preventiva municipal estará al mando del Presidente Municipal en lo
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública, en el lugar donde resida transitoriamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 111.
 
@@ -2257,7 +2245,7 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 A cualquier ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, se le concede acción popular para denunciar por escrito ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo. Si los elementos en que funde su denuncia fueren falsos, el servidor público denunciado podrá acudir ante las autoridades judiciales, en los términos de la legislación penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 118.
 
@@ -2279,7 +2267,7 @@ El Tribunal Superior de Justicia, como Jurado de Sentencia, conocerá de la acus
 
 El procedimiento de juicio político, sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 119.
 
@@ -2335,9 +2323,9 @@ Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párr
 
 ###### ARTICULO 121.
 
-Todo funcionario público, antes de tomar posesión de su cargo, protestará guardar la Constitución General de la República y la del Estado, según la fórmula siguiente: "PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION GENERAL DE LA REPUBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE.... QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NAClON Y DEL ESTADO?". Después de haber contestado el interpelado: "'SI PROTESTO", el que interroga dirá: "SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
+Todo funcionario público, antes de tomar posesión de su cargo, protestará guardar la Constitución General de la República y la del Estado, según la fórmula siguiente: "PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION GENERAL DE LA REPUBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE.... QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NAClON Y DEL ESTADO". Después de haber contestado el interpelado: "'SI PROTESTO", el que interroga dirá: "SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2371,7 +2359,7 @@ El Gobernador, los Magistrados del Tribunal Superior de Justicia, del Tribunal E
 
 Solo se considerará que han desaparecido los Poderes en el Estado de Durango, cuando falten físicamente los titulares de los mismos. En éste caso, el Secretario General de Gobierno, se hará cargo del Poder Ejecutivo y convocará a elecciones que deberán efectuarse en un plazo máximo de seis meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
 
@@ -2413,7 +2401,7 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ## TITULO QUINTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 130.
 
@@ -2485,11 +2473,11 @@ Publíquese, circúlese y comuníquese a quienes corresponda para su exacta obse
 
 Victoria de Durango, octubre 6 de 1917.- Domingo Arrieta- El Srio. Int. de Gob., Ing. A. J. Miranda.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 8 DE ENERO DE 1922.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 20 DE MAYO DE 1923.
 
@@ -2497,15 +2485,15 @@ Artículo único.- Los Diputados que resulten electos en las elecciones que se v
 
 P.O. 28 DE OCTUBRE DE 1923.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 8 DE MAYO DE 1924.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 27 DE DICIEMBRE DE 1925.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 5 DE DICIEMBRE DE 1926.
 
@@ -2565,35 +2553,35 @@ Artículo Unico:- Este Decreto empezará a regir desde la fecha de su publicaci�
 
 P.O. 8 DE DICIEMBRE DE 1935.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 3 DE OCTUBRE DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 7 DE OCTUBRE DE 1937.
 
 DECRETO No. 286.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 7 DE OCTUBRE DE 1937.
 
 DECRETO No. 287.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 17 DE OCTUBRE DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 9 DE MARZO DE 1939.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 26 DE MARZO DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 23 DE DICIEMBRE DE 1943.
 
@@ -2963,7 +2951,7 @@ NOVENO.- Para estar en condiciones de sustituir a los integrantes del Consejo de
 
 DÉCIMO.- Los actuales Magistrados Electorales continuarán en el ejercicio de su encargo hasta su conclusión y bajo la normatividad vigente.
 
-DÉCIMO PRIMERO.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA A LA CONSTITUCION POLITICA LOCAL, P.O. 9 DE MARZO DE 2003)
+DÉCIMO PRIMERO.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA A LA CONSTITUCIÓN POLÍTICA LOCAL, P.O. 9 DE MARZO DE 2003)
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
@@ -3077,7 +3065,7 @@ Se derogan todas las disposiciones que contravengan lo previsto en el presente d
 
 P.O. 12 DE FEBRERO DE 2009.
 
-DECRETO No. 173, POR EL QUE SE REFORMAN Y ADICIONAN LA DENOMINACION DEL CAPITULO PRIMERO DEL TITULO PRIMERO Y LOS ARTICULOS 1, 6, 9, 10,12, 70, 88 Y 110 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO No. 173, POR EL QUE SE REFORMAN Y ADICIONAN LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO Y LOS ARTÍCULOS 1, 6, 9, 10,12, 70, 88 Y 110 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, con excepción de lo siguiente:
 
@@ -3089,7 +3077,7 @@ Artículo Segundo. Los procedimientos penales iniciados con anterioridad a la en
 
 P.O. 12 DE FEBRERO DE 2009.
 
-DECRETO No. 242, POR EL QUE SE REFORMAN LOS ARTICULOS 55, FRACCIONES VI, XVII Y XXII Y 130 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO No. 242, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55, FRACCIONES VI, XVII Y XXII Y 130 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3105,9 +3093,9 @@ SEGUNDO.- Dentro de un plazo de 180 días, contados a partir de la entrada en vi
 
 P.O. 16 DE JUNIO DE 2009.
 
-DECRETO NO. 286, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
+DECRETO NO. 286, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSITUCION
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSTITUCIÓN
 
 .
 
@@ -3147,9 +3135,9 @@ Artículo Octavo. Comuníquese el presente decreto a los Ciudadanos Licenciados 
 
 P.O. 16 DE JUNIO DE 2009.
 
-DECRETO NO. 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 55 Y 58 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
+DECRETO NO. 287, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 55 Y 58 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE DURANGO.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSITUCION
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO QUE SE RELACIONAN CON LA CONSTITUCIÓN
 
 .
 
@@ -3187,7 +3175,7 @@ Se derogan todas las disposiciones que contravengan lo previsto en el presente d
 
 P.O. 9 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 548, POR EL QUE SE REFORMAN LOS PARRAFOS PRIMERO Y TERCERO DEL ARTICULO 13; LA FRACCION III DEL ARTICULO 55; SE ADICIONA UN PARRAFO A LA FRACCION II DEL ARTICULO 58 Y SE RECORREN LOS PARRAFOS SUBSIGUIENTES; SE ADICIONA EL ARTICULO 111; SE ADICIONA UN TERCER PARRAFO AL ARTICULO 125; SE REFORMA EL PRIMER Y CUARTO PARRAFOS DEL ARTICULO 127 Y SE LE ADICIONA UN QUINTO PARRAFO, RECORRIENDOSE EN SU NUMERO EL ANTERIOR PARA SER SEXTO, PARA QUEDAR COMO SIGUE TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO NÚMERO 548, POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 13; LA FRACCIÓN III DEL ARTICULO 55; SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 58 Y SE RECORREN LOS PÁRRAFOS SUBSIGUIENTES; SE ADICIONA EL ARTÍCULO 111; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 125; SE REFORMA EL PRIMER Y CUARTO PÁRRAFOS DEL ARTÍCULO 127 Y SE LE ADICIONA UN QUINTO PÁRRAFO, RECORRIÉNDOSE EN SU NÚMERO EL ANTERIOR PARA SER SEXTO, PARA QUEDAR COMO SIGUE TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3195,7 +3183,7 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 
 P.O. 9 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 554, SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 9; Y SE REFORMAN LOS ARTICULOS: 32, FRACCION V; 48 ULTIMO PARRAFO; 55, FRACCIONES XVII, XXII Y XXXVII; 60, FRACCION VII; 83; 84; 86; 93, FRACCION V; 108·FRACCION IV; 118 PRIMER PARRAFO; 119 PRIMER PARRAFO; 122 Y 125, PARA QUEDAR COMO SIGUE, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO NÚMERO 554, SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 9; Y SE REFORMAN LOS ARTÍCULOS: 32, FRACCIÓN V; 48 ÚLTIMO PÁRRAFO; 55, FRACCIONES XVII, XXII Y XXXVII; 60, FRACCIÓN VII; 83; 84; 86; 93, FRACCIÓN V; 108 FRACCIÓN IV; 118 PRIMER PÁRRAFO; 119 PRIMER PÁRRAFO; 122 Y 125, PARA QUEDAR COMO SIGUE, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 PRIMERO. El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3264,3 +3252,33 @@ I. Las disposiciones transitorias del presente decreto, entrarán en vigor el d�
 II. Las demás disposiciones del presente decreto entrarán en vigor el día 15 (quince) de diciembre del año 2010 (dos mil diez).
 
 DÉCIMO CUARTO. Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
+
+P.O. 11 DE JULIO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Los asuntos que se encuentren en trámite interpuestos ante la Fiscalía General del Estado como un organismo autónomo al momento de la entrada en vigor del presente decreto, serán resueltos por la Fiscalía General del Estado dependiente del Poder Ejecutivo.
+
+CUARTO (SIC). Los recursos financieros, materiales y humanos de la Fiscalía General del Estado como un organismo autónomo, serán transferidos a la Fiscalía General del Estado dependiente del Poder Ejecutivo en la forma y tiempos establecidos por la Ley para la Entrega Recepción de las Administraciones Públicas del Estado y Municipios de Durango a más tardar el 15 de septiembre de 2011.
+
+QUINTO. El titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, efectuará las reasignaciones presupuestales conducentes a efecto de transferir al Poder Ejecutivo el presupuesto asignado á la Fiscalía General del Estado como un organismo autónomo, en la Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal del año 2011.
+
+SEXTO. La Fiscalía General del Estado dependiente del Poder Ejecutivo se subrogará en todos los derechos y obligaciones asumidos por la Fiscalía General del Estado como un organismo autónomo.
+
+SÉPTIMO. El Titular del Ejecutivo proveerá lo necesario para que a la entrada en vigor de las reformas constitucionales y legales la Fiscalía General del Estado, cuente con los recursos humanos, materiales y financieros necesarios para el desempeño de su función.
+
+La Secretaría de Finanzas y de Administración del Estado deberá velar por proporcionar los recursos necesarios para el cumplimiento del presente.
+
+OCTAVO. Los Agentes del Ministerio Público de la Fiscalía General como organismo autónomo, quedarán a partir de la entrada en vigor de las reformas a la Constitución Política del Estado de Durango y de la Ley Orgánica de la Fiscalía General del Estado adscritos a la Fiscalía General del Estado dependiente del Poder Ejecutivo y sus actos como autoridad o como parte en los procesos penales seguirán siendo válidos para todos los efectos legales. No requerirán nuevo nombramiento los agentes del ministerio público que lo hayan obtenido por servidores públicos de la Fiscalía General.
+
+La entrada de las reformas mencionadas en este artículo no afectará de ninguna forma la tramitación de las averiguaciones previas, investigaciones o procesos penales iniciados antes de su vigencia, y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos.
+
+NOVENO. La Fiscalía General del Estado dependiente del Poder Ejecutivo, asumirá todos los derechos y obligaciones que hasta ahora correspondían a la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública.
+
+DÉCIMO. El personal que actualmente labora para la División de la Policía de Investigación de Delitos de la Policía Estatal de la Secretaría de Seguridad Pública, se transferirán a la Fiscalía General del Estado, respetando todos sus derechos.
+
+DÉCIMO PRIMERO. En la readscripción de los empleados y trabajadores de la Fiscalía General como órgano autónomo a la Fiscalía General del Estado dependiente del Poder Ejecutivo del Estado, se respetarán sus derechos adquiridos.
+
+DÉCIMO SEGUNDO. Cualquier mención establecida en ordenamientos legales a la Fiscalía General del Estado o a la Procuraduría General de Justicia, se entenderán hechas a la Fiscalía General del Estado dependiente del Poder Ejecutivo.
+
+DÉCIMO TERCERO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
