@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2011-06-16"
+last_updated: "2011-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -870,7 +870,9 @@ I. El desarrollo de actividades educativas, socioculturales y recreativas que co
 
 II. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
 
-III. La creación de programas de atención médica a la salud mental, incluyendo, entre otros, programas especializados de apoyo psicológico para víctimas de violencia intrafamiliar y abuso infantil, y
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2011)</small>
+
+III. La creación de programas de atención médica a la salud mental, incluyendo, entre otros, programas especializados de apoyo psicológico para víctimas de violencia intrafamiliar y abuso infantil, de prevención de los problemas de salud pública relacionados con la violencia e intimidación en el ámbito escolar que incorpore la atención correspondiente a la víctima, agresor y observadores, y
 
 IV. Las demás acciones que contribuyan al fomento de la salud mental de la población.
 
@@ -1004,9 +1006,9 @@ I. Fomentar en la población el desarrollo de actitudes y conductas que le permi
 
 II. Proporcionar a las personas los conocimientos y la información necesaria sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del medio ambiente en la salud y, en su caso, la manera de prevenirlos y atenderlos, y
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 11 DE JULIO DE 2011)</small>
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, prevención y combate de los problemas alimenticios, salud mental, salud bucal, educación sexual y reproductiva, planificación familiar, riesgos de automedicación, programas contra el tabaquismo y alcoholismo, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las discapacidades y detección oportuna de enfermedades, entre otros.
+III. Orientar y capacitar a la población preferentemente en materia de nutrición, prevención y combate de los problemas alimenticios, salud mental, salud bucal, educación sexual y reproductiva, planificación familiar, riesgos de automedicación, programas contra el tabaquismo y alcoholismo, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las discapacidades y detección oportuna de enfermedades, prevención y atención de la problemática relacionada con la violencia e intimidación en el entorno escolar, entre otros.
 
 ### Capítulo XVII. Nutrición, Obesidad y Trastornos Alimenticios
 
@@ -2477,3 +2479,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente a su publicaci
 Segundo.- A partir de la entrada en vigor del Artículo Segundo del presente Decreto, el Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles para expedir las disposiciones reglamentarias necesarias para su instrumentación.
 
 Tercero.- Las acciones contenidas en el presente Decreto se realizarán conforme a la suficiencia presupuestal que, para tal efecto, se asignen dentro del Presupuesto de Egresos de la Federación del Ejercicio Fiscal correspondiente, sin menoscabo de los que determine la Asamblea Legislativa del Distrito Federal.
+
+G.O. 11 DE JULIO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en la (sic) presente Decreto.
