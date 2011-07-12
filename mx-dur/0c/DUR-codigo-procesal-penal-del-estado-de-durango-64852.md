@@ -4,7 +4,7 @@ identifier: "DUR-codigo-procesal-penal-del-estado-de-durango-64852"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-05"
-last_updated: "2011-02-20"
+last_updated: "2011-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ENTRARÁ EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL CONTENIDO EN EL DECRETO NÚMERO 232.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2011.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Durango, el viernes 5 de diciembre de 2008.
 
@@ -5773,11 +5775,19 @@ Rechazo.
 
 La no aceptación de la solicitud de revisión no impedirá la interposición del recurso fundado en motivos distintos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ## TÍTULO DÉCIMO PRIMERO. ETAPA DE EJECUCIÓN DE SENTENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ### CAPÍTULO I. EJECUCIÓN PENAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 NORMAS GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 481.
 
@@ -5785,17 +5795,23 @@ Derechos.
 
 El sentenciado podrá ejercer, durante la ejecución de la sentencia, los derechos y las facultades que las leyes penales de ejecución, penitenciarias y los reglamentos le otorgan y planteará personalmente, por medio de su defensor o de cualquier persona en quien él delegue, ante el tribunal que corresponda, las observaciones que con fundamento en aquellas reglas, estime convenientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 482.
 
 Unificación de penas.
 
 El tribunal que dictó la última sentencia, de oficio o a solicitud de parte, deberá unificar las penas cuando se hayan dictado varias condenas contra una misma persona.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 483.
 
 Competencia.
 
 El juez o Tribunal será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. Lo relativo a las sucesivas fijaciones, extinción, sustitución o modificación de aquellas será competencia del Juez de Ejecución de Sentencia que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 484.
 
@@ -5817,11 +5833,15 @@ Las reglas para llevar a cabo la audiencia precedente se fijarán en la ley resp
 
 El juez decidirá por resolución fundada y motivada. Contra lo resuelto procede el recurso de apelación, cuya interposición no suspenderá la ejecución de sentencia, a menos que así lo disponga el tribunal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 485.
 
 Suspensión de medidas administrativas.
 
 Durante el trámite de los incidentes, el juez competente en la ejecución de la sentencia podrá ordenar la suspensión provisional de las medidas de la administración penitenciaria que sean impugnadas en el proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 486.
 
@@ -5833,11 +5853,15 @@ El ejercicio de la defensa durante la ejecución penal consistirá en el asesora
 
 No será deber de la defensa vigilar el cumplimiento de la pena.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 487.
 
 Intervención del Ministerio Público en la ejecución.
 
 El Ministerio Público intervendrá en los procesos de ejecución de la pena y de las disposiciones de la sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 488.
 
@@ -5855,7 +5879,11 @@ III. Resolver, con aplicación del procedimiento previsto para los incidentes de
 
 IV. Resolver los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ### CAPÍTULO II. PENAS Y MEDIDAS DE SEGURIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 489.
 
@@ -5866,6 +5894,8 @@ Inmediatamente después de quedar firme una sentencia condenatoria y realizadas 
 Tratándose de pena privativa de libertad y si el sentenciado se encuentra libre, se dispondrá lo necesario para su detención.
 
 El tribunal ordenará las providencias necesarias para que se cumpla la sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 490.
 
@@ -5883,6 +5913,8 @@ La fecha del vencimiento de la pena se comunicará inmediatamente al sentenciado
 
 El incumplimiento de las anteriores disposiciones se considerará falta grave.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 491.
 
 Libertad anticipada.
@@ -5896,6 +5928,8 @@ Cuando el sentenciado lo promueva directamente ante el Director del establecimie
 El Juez de Ejecución de Sentencia podrá rechazar sin trámite la solicitud, cuando sea manifiestamente improcedente o cuando no haya transcurrido el tiempo suficiente y siempre que no hayan variado las condiciones que motivaron el rechazo anterior.
 
 Cuando la libertad sea otorgada, el auto que la ordene fijará las condiciones que debe cumplir el sentenciado, según lo establecido por la ley respectiva. El liberado fijará domicilio y recibirá un certificado en el que conste que obtuvo su libertad anticipada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 492.
 
@@ -5911,6 +5945,8 @@ El juez decidirá por auto fundado y motivado y, en su caso, practicará nuevo c
 
 La resolución que revoca la libertad es apelable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 493.
 
 Condena condicional.
@@ -5918,6 +5954,8 @@ Condena condicional.
 El Juez de Ejecución de Sentencia controlará las condiciones dispuestas por el juez o tribunal que dictó la sentencia para el cumplimiento de la condena condicional.
 
 Si durante la vigencia de la condena condicional surge algún motivo justificado para revocarla, el Juez de Ejecución, con audiencia del interesado, procederá a decidir sobre la revocación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 494.
 
@@ -5931,6 +5969,8 @@ Si el sentenciado no paga la multa dentro del plazo que fija la sentencia, será
 
 Si es necesario, el juez procederá al embargo y a la venta pública de los bienes embargados, conforme al Código de Procedimientos Civiles del Estado de Durango o hará efectivas las cauciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 495.
 
 Trámite del indulto.
@@ -5943,11 +5983,15 @@ El Ejecutivo del Estado de conformidad con la ley de la materia remitirá al Tri
 
 Recibida la comunicación, el Tribunal Superior de Justicia remitirá la decisión del Ejecutivo al Juez de Ejecución quien ordenará inmediatamente la libertad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 496.
 
 Ley más benigna.
 
 Cuando el Juez de Ejecución advierta que debe quedar sin efecto o ser modificada la pena impuesta, o las condiciones de su cumplimiento, por haber entrado en vigencia una ley más benigna, promoverá de oficio, la revisión del caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 497.
 
@@ -5958,6 +6002,8 @@ Si durante la ejecución de la pena privativa de libertad, el sentenciado sufre 
 El Director del Centro de Reinserción Social tendrá iguales facultades, cuando se trate de casos urgentes; pero la medida deberá ser comunicada de inmediato al juez que podrá confirmarla o revocarla. Estas reglas serán aplicables a la prisión preventiva, en relación con el tribunal que conozca del proceso y a las restantes penas en cuanto sean susceptibles de ser suspendidas por enfermedad.
 
 El tiempo de internación se computará a los fines de la pena, siempre que el sentenciado esté privado de la libertad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 498.
 
@@ -5979,6 +6025,8 @@ II. Si el sentenciado se encuentra gravemente enfermo y la ejecución de la pena
 
 Cuando cesen estas condiciones, la sentencia continuará ejecutándose.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 499.
 
 Medidas de seguridad.
@@ -5989,7 +6037,11 @@ El juez examinará periódicamente, la situación del sentenciado que cumple una
 
 Cuando el juez tenga conocimiento, por informe fundado, de que desaparecieron las causas que motivaron la internación, procederá a su sustitución o cancelación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ### CAPÍTULO III. EJECUCIÓN CIVIL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 500.
 
@@ -5997,17 +6049,23 @@ Competencia.
 
 La sentencia que condene a restitución, indemnización o reparación de daños y perjuicios, cuando no sea inmediatamente ejecutada, se tramitará por el interesado ante el juez civil según corresponda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 501.
 
 Decomiso.
 
 Cuando en la sentencia se ordene el decomiso de algún objeto, el juez o tribunal le dará el destino que corresponda según su naturaleza, conforme a las normas que rigen la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
+
 ###### Artículo 502.
 
 Restitución y retención de cosas aseguradas.
 
 Las cosas aseguradas no sujetas a decomiso o embargo, serán devueltas a quien se le aseguraron, inmediatamente después de que la sentencia quede firme. Si hubieran sido entregadas en depósito provisional, se notificará al depositario la entrega definitiva. Las cosas aseguradas propiedad del sentenciado podrán ser retenidas en garantía de los gastos del proceso y de la responsabilidad pecuniaria impuesta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011.</small>
 
 ###### Artículo 503.
 
@@ -6242,3 +6300,17 @@ P.O. 20 DE FEBRERO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 12 DE JULIO DE 2011.
+
+PRIMERO. Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Así mismo, la presente declaratoria surtirá sus efectos legales a partir de su publicación en el Periódico en mención.
+
+SEGUNDO. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE ENTRADA EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, DE EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL CONTENIDO EN EL DECRETO NÚMERO 232.
+
+###### ARTÍCULO ÚNICO.
+
+Con fundamento en lo dispuesto por los artículos 18, 21 y Quinto Transitorio del Decreto por el que se reformó la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 (dieciocho) de junio de 2008 (dos mil ocho); 6, párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango; primero transitorio fracción II del Decreto No. 232 de la LXIV Legislatura, por el que se expidió el Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 11 de fecha 5 de diciembre de 2008, segundo transitorio del Decreto No. 416 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 47, de fecha 10 de diciembre de 2009, por el cual se expidió la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, y 9, fracción XLI, de la Ley Orgánica del Poder Judicial del Estado de Durango, y 3, fracción I, y 7, fracción III de la Ley para la Reforma Penal del Estado de Durango, por lo que esta LXV Legislatura del H. Congreso del Estado de Durango, declara la entrada en vigor del Título Décimo Primero del Código Procesal Penal contenido en el decreto número 232, así como del decreto No. 416, que contiene la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, ambos de la LXIV Legislatura, publicados en las fechas antes citadas en el ámbito espacial y temporal de validez de los distritos judiciales, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primero, Décimo Segundo, y Décimo Tercero del Estado de Durango.
