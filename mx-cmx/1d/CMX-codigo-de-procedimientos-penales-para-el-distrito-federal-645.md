@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2011-03-18"
+last_updated: "2011-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JULIO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -192,9 +192,9 @@ XI.- A comparecer ante el Ministerio Público para poner a su disposición todos
 
 XII.- A tener acceso al expediente para informarse sobre el estado y avance de la averiguación previa;
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2011)</small>
 
-XIII.- A que se le preste la atención médica de urgencia cuando lo requiera; en los casos de violencia contra las mujeres, menores de edad y adultos mayores de sesenta años de edad, el Ministerio Público solicitará a la institución de salud, cuando proceda, la atención especializada de conformidad con los protocolos, normas oficiales mexicanas o cualquier otro instrumento jurídico vigente;
+XIII.- A que se le proporcione la asistencia legal, médica y psicológica especializada. Tratándose de menores de edad dicha asistencia se prestará de forma inmediata cuando intervenga en cualquier etapa del procedimiento.
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -224,9 +224,9 @@ XIX.- A impugnar las determinaciones de no ejercicio de la acción penal; y (sic
 
 XX.- En caso de que deseen otorgar el perdón, a ser informadas claramente del significado y trascendencia jurídica de ese acto;
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2011)</small>
 
-XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico, así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite, y
+XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves y en aquellos delitos cometidos en contra menores (sic) de edad, e igualmente en caso de delitos no graves cuando así lo solicite.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 18 DE MARZO DE 2011)</small>
 
@@ -277,6 +277,10 @@ VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las c
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
 VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos (sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+En los casos en que la víctima sea menor de edad se dará una intervención por parte de personal especializado en el tratamiento de menores mediante mecanismos que faciliten la declaración del menor y aseguren pericia para comprender lo que el menor manifiesta.
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -482,15 +486,17 @@ Por ningún acto procedimental se pagarán costas. El empleado que las cobrare o
 
 Todos los gastos que se originen por las diligencias en un proceso, se pagarán por la parte que las promueva, con excepción de aquéllas decretadas por un Tribunal o Juez, o promovidas por el Ministerio Público o el Defensor de Oficio o por el mismo inculpado cuando se encuentre asesorado por un Defensor de Oficio.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 24.
 
-Los peritos, intérpretes y demás personas que intervengan en los procedimientos, sin recibir sueldo o retribución del erario, cobrarán sus honorarios conforme a los aranceles vigentes; si no hubiere éstos, los honorarios se fijarán por personas del mismo arte u oficio.
+Los peritos, intérpretes o personal especializado y demás personas que intervengan en los procedimientos, sin recibir sueldo o retribución del erario, cobrarán sus honorarios conforme a los aranceles vigentes si no hubiere éstos, los honorarios se fijarán por personas del mismo arte u oficio.
+
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 25.
 
-Cuando los peritos que gocen sueldo del Erario emitan un dictamen, sobre puntos decretados de oficio o a petición del Ministerio Público, no podrán cobrar honorarios.
+Cuando los peritos o personal especializado que gocen sueldo (sic) del erario emitan un dictamen, sobre puntos decretados de oficio o a petición del Ministerio Público, no podrán cobrar honorarios.
 
 ###### ARTICULO 26.
 
@@ -521,6 +527,10 @@ Si en la secuela de un proceso apareciere que se ha cometido un delito distinto 
 Las promociones verbales de las partes durante el procedimiento, aun fuera del caso de que se hagan en las notificaciones, podrán realizarse ante los secretarios, así como la ratificación de las que se hagan por escrito, cuando ésta se ordene.
 
 En caso de urgencia, los magistrados, jueces o Ministerio Público, podrán comisionar a sus secretarios para que tomen las declaraciones de testigos determinados expresamente.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+En los casos de urgencia en donde deban declarar testigos menores de edad los secretarios deberán observar en todo momento las disposiciones aplicables en el presente código.
 
 ###### ARTICULO 31.
 
@@ -590,11 +600,11 @@ Cuando se haya negado la orden de aprehensión o de comparecencia, o dictado el 
 
 Cuando aparezca que el hecho o hechos que motivan la averiguación previa no tienen el carácter de delictuosos, el Juez motivará su resolución y devolverá los autos originales de la indagatoria al Ministerio Público, para que éste determine si prosigue en su integración o propone el no ejercicio temporal o definitivo de la acción penal.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 37.
 
-Los jueces, tribunales y Ministerio Público, en todo lo que la ley no prohíba o prevenga expresamente, podrán dictar en asuntos sujetos a su competencia, los trámites y providencias necesarios para la pronta y eficaz administración y procuración de justicia, según corresponda.
+Los jueces, tribunales y Ministerio Público, en todo lo que la ley no prohíba o prevenga expresamente, podrán dictar en asuntos sujetos a su competencia, los trámites y providencias necesarios para la pronta y eficaz administración y procuración de justicia, según corresponda, dando prioridad a los casos en que la víctima sea un menor de edad.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -840,11 +850,11 @@ El juez o presidente de la audiencia, o el Ministerio Público, según el caso, 
 
 Si algún inculpado tuviere varios defensores, no se oirá más que a uno en la defensa y al mismo o a otro en la réplica.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 70.
 
-La víctima o el ofendido o su representante pueden comparecer en la audiencia y alegar lo que a su derecho convenga, en las mismas condiciones que los defensores.
+La víctima o el ofendido o su representante pueden comparecer en la audiencia y alegar lo que a su derecho convenga, en las mismas condiciones que los defensores. En caso de la (sic) víctima o testigo sea un menor de edad se tomaran en cuenta las provisiones a las que se refiere el presente Código.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -1111,6 +1121,10 @@ Los médicos darán aviso al Ministerio Público o al juez, tan luego como advie
 ###### ARTICULO 109 Bis.
 
 La exploración y atención médica psiquiátrica, ginecológica o cualquiera otra que se practique a la víctima de un delito que atente contra la libertad y el normal desarrollo psicosexual, estará a cargo de persona facultativa de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+Cuando la víctima sea menor de edad, dicha atención será proporcionada por personal especializado en el tratamiento de menores.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1910,11 +1924,11 @@ Si no supiere o no quisiere firmar, se hará constar esta circunstancia.
 
 Siempre que se tome declaración a un menor de edad, a un pariente del inculpado, o a cualquiera otra persona que por circunstancias especiales sea sospechosa de falta de veracidad o de exactitud en su dicho, se hará constar esto en el acta.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 213.
 
-A los menores de edad se les exhortará para que digan la verdad, explicándoles claramente de manera que puedan entender el alcance de la misma y el objetivo de la diligencia.
+A los menores de edad se les prevendrá por medio del personal capacitado en tratamiento de menores designado por el Ministerio Público o Juez que digan la verdad, explicándoles claramente de manera que puedan entender el alcance de la misma y el objetivo de la diligencia, observando en todo momento el interés superior del menor y evitando atemorizarlo.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1985,6 +1999,18 @@ Se conducirá entonces al declarante frente a las personas que formen la fila; s
 ###### ARTICULO 224.
 
 Cuando sean varios los declarantes o las personas confrontadas, se verificarán tantos actos separados cuantas sean las confrontaciones que deban hacerse.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+###### ARTICULO 224 Bis.
+
+Cuando el declarante sea menor de edad, además de lo previsto por el artículo 9, fracción XIV, el Ministerio Público o Juez deberán:
+
+I. Asegurarse que las personas objeto de la confrontación no vean ni escuchen o puedan identificar al declarante;
+
+II. Asegurarse que el declarante no escuche a las personas objeto de la confrontación, y
+
+III. No presionar ni obligar al menor de edad para que señale a persona alguna.
 
 ### CAPITULO XI. Careos
 
@@ -2256,13 +2282,15 @@ Sólo podrán perseguirse a petición de la parte ofendida, los siguientes delit
 
 I.- Hostigamiento sexual, estupro y privación ilegal de la libertad con propósitos sexuales;
 
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
-
-II.- Difamación y calumnia; y
+II.- (DEROGADA, G.O. 12 DE JULIO DE 2011)
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
 III.- Los demás que determine el Nuevo Código Penal para el Distrito Federal.
+
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
+
+En los casos de delitos contemplados en el Libro Segundo, Título Quinto y Sexto del Código Penal para el Distrito Federal, cometidos en contra de menores de edad, cualquier persona podrá denunciar ante el Ministerio Público.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
@@ -3777,6 +3805,12 @@ XIII.- Por no haberse formado el Jurado del número de personas que este Código
 XIV.- Por haber contradicción notoria y substancial en las declaraciones del Jurado, si por tal contradicción no pueden tomarse en cuenta en la sentencia los hechos votados;
 
 XV.- En todos los casos en que este Código declare expresamente la nulidad de alguna diligencia.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+###### ARTICULO 431 Bis.
+
+Cuando por alguna causa prevista en el artículo anterior se resuelva que habrá lugar a la reposición de procedimientos se salvaguardarán las diligencias en las que haya participado una víctima o testigo menor de edad, sin que se puedan repetir de manera injustificada, salvo juicio contrario del Juez mismo que deberá estar fundado, procurando siempre no afectar la estabilidad emocional y psicológica del menor, dicha reposición se llevara tomando en cuenta las provisiones a las que se refiere el presente Código.
 
 ###### ARTICULO 432.
 
@@ -6045,3 +6079,9 @@ PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pro
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de publicación.
+
+G.O. 12 DE JULIO DE 2011.
+
+Primero.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
