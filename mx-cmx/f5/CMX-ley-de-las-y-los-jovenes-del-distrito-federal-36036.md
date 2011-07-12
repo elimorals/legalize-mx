@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2011-02-03"
+last_updated: "2011-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -90,7 +90,9 @@ XI. Plan. Al Plan Estratégico para el Desarrollo Integral de la Juventud del Di
 
 XII. Fondo. Fondo de Apoyo a Proyectos juveniles del Distrito Federal y,
 
-XIII. Ley. La Ley de la Juventud del Distrito Federal.
+> <small>(REFORMADA, G.O. 12 DE JULIO DE 2011)</small>
+
+XIII. Ley. La Ley de las y los Jóvenes del Distrito Federal
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS JOVENES
 
@@ -257,6 +259,10 @@ VIII. Informar y promover la detección temprana, la atención y el tratamiento 
 ###### Artículo 15.
 
 Todas las y los jóvenes tienen el derecho al acceso y a la protección de la salud, tomando en cuenta que ésta se traduce en el estado de bienestar físico, mental y social.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+Igualmente, tienen derecho a vivir y desarrollarse en un ambiente sano y libre de drogas.
 
 ###### Artículo 16.
 
@@ -506,69 +512,133 @@ Artículo 46 SEPTER.- En el caso de las y los jóvenes en situación de calle, e
 
 El gobierno deberá crear los albergues necesarios en donde se puedan alojar a todos aquellos que se encuentran en situación de calle y así lo requieran.
 
-### CAPITULO XVI. DEBERES DE LAS Y LOS JOVENES
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XVI. DEL DERECHO A LA FAMILIA
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 47.
 
-Es deber de todo joven respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos y el marco jurídico del Distrito Federal, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad capitalina, todo ello a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social.
+Todas las y los jóvenes tienen derecho a gozar de una familia.
 
-### CAPITULO I. DEL INSTITUTO
+Los jóvenes tienen el derecho de contar con una familia, que fomente y siembre en ellos la responsabilidad, afecto, respeto y valores y donde las relaciones se encuentren libres de violencia y se estimule y oriente el desarrollo de sus capacidades.
+
+El Gobierno promoverá la importancia de los valores y principios de las familias de la Ciudad de México, así como de las obligaciones de los padres y madres o tutores legales, de fomentar el responsable ejercicio de los derechos que contiene esta Ley.
+
+De igual manera, reconoce el derecho de las y los jóvenes de elegir pareja y el momento de ejercer vida en común, contraer matrimonio y ejercer una paternidad responsable, garantizando la seguridad de sus decisiones, y fomentando la responsabilidad y consecuencia de éstas, en virtud de un sano desarrollo social y familiar
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XVII. DEL DERECHO A LA PROTECCIÓN SOCIAL
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 48.
 
-El Instituto de la Juventud del Distrito Federal es un órgano descentralizado del Gobierno del Distrito Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, el cual cuenta con autonomía técnica y tiene a su cargo la aplicación de las disposiciones de la presente Ley.
+Todas las y los jóvenes tienen derecho a la protección social.
 
-### CAPITULO II. DE LA JUNTA DE GOBIERNO
+Los jóvenes tienen derecho a la protección social en caso de enfermedad, invalidez, accidente, incapacidad para el trabajo, orfandad y viudez, la cual será necesaria para sortear las adversas circunstancias que impiden su plena inclusión en la sociedad.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XVIII. DEL DERECHO AL DESARROLLO
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 49.
+
+Todas las y los jóvenes tienen derecho al desarrollo.
+
+Debe garantizarse el desarrollo social, económico, político y cultural de todos los jóvenes y a ser considerados como sujetos prioritarios de las iniciativas gubernamentales que se implementen para tal fin.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XIX. DEL DERECHO A LA VIVIENDA
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 50.
+
+Todas las y los jóvenes tienen el derecho a una vivienda.
+
+Los jóvenes tienen el derecho a vivir en una vivienda que constituya un espacio digno y decoroso, que les permita un desarrollo armónico con su proyecto de vida y favorezca sus relaciones con la familia y la comunidad.
+
+El gobierno debe formular las políticas de promoción y construcción de viviendas, además de establecer los mecanismos para que a través de créditos accesibles las y los jóvenes puedan acceder a ellas.
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XX. DEL DERECHO A LA INTIMIDAD E IMAGEN PROPIA
+
+> <small>(ADICIONADO, G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 51.
+
+Las y los jóvenes tienen derecho a la intimidad y a una imagen propia.
+
+Los jóvenes tienen derecho a elegir de manera libre, la forma y características de su imagen, cualquiera que esta adopte.
+
+El gobierno garantizará y fomentará que los jóvenes no sean objeto de trato indigno o prácticas discriminatorias debido a su imagen; así también para que en el medio en que se desarrollen, se evite la invasión a su intimidad y a que ésta sea respetada.
+
+> <small>(REFORMADO, G.O. 12 DE JULIO DE 2011)</small>
+
+### CAPÍTULO XXI. DEBERES DE LAS Y LOS JÓVENES
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 47], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 52.
+
+Es deber de todo joven respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos y el marco jurídico del Distrito Federal, en concordancia con el respecto (sic) irrestricto de los derechos de los demás grupos y segmentos de la sociedad capitalina, todo ello a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social.
+
+## TITULO TERCERO. DEL INSTITUTO DE LA JUVENTUD DEL DISTRITO FEDERAL
+
+### CAPITULO I. DEL INSTITUTO
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 48], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 53.
+
+El Instituto de la Juventud del Distrito Federal es un órgano descentralizado del Gobierno del Distrito Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, el cual cuenta con autonomía técnica y tiene a su cargo la aplicación de las disposiciones de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 49], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 54.
 
 El Instituto tiene las siguientes atribuciones:
 
 I. Elaborar el Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal;
 
-II. Crear mecanismos de coordinación institucional entre instancias de Gobierno Federal, del Gobierno Central del Distrito Federal, Demarcaciones Territoriales, Organismos No Gubernamentales, Instituciones de Asistencia Privada y Asociaciones Civiles que realizan trabajo con jóvenes o que tengan relación con las temáticas juveniles;
+II. Crear mecanismos de coordinación institucional entre instancias de Gobierno Federal, del Gobierno Central de (sic) Distrito Federal, Demarcaciones Territoriales, Organismos No Gubernamentales, Instituciones de Asistencia Privada y Asociaciones Civiles que realizan trabajo con jóvenes o que tengan relación con las temáticas juveniles;
 
 III. Promover, potenciar, mejorar y actualizar permanentemente el desarrollo integral de la juventud del Distrito Federal;
 
-IV. Fomentar entre las y los jóvenes el ejercicio de la libre asociación garantizada por el artículo 9º de la Constitución Política de los Estados Unidos Mexicanos;
+IV. Fomentar entre las y los jóvenes el ejercicio de la libre asociación garantizada por el artículo 9º. de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Coordinar y desarrollar un sistema de información e investigación sobre la juventud del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
-
-VI. Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
-
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
+VI.- Fomentar el establecimiento de vínculos de amistad y de cooperación nacional e internacional en materia de juventud;
 
 VII. Plantear y coordinar programas de actualización y capacitación para servidores públicos encargados de la aplicación de los programas de atención a la juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
-
 VIII. Representar al Gobierno del Distrito Federal en materia de juventud, ante el Gobierno Federal, los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal, organizaciones privadas, sociales y organismos internacionales; en encuentros, convenciones y demás reuniones en las que el Jefe de Gobierno solicite su participación;
 
-> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
-
-IX. Concertar acuerdos y convenios con los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal y los sectores social y privado, para promover acciones y programas tendientes al desarrollo integral de la juventud en el Distrito Federal, y (sic)
-
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
+IX. Concertar acuerdos y convenios con los Gobiernos Estatales, las Demarcaciones Territoriales del Distrito Federal y los sectores social y privado, para promover acciones y programas tendientes al desarrollo integral de la juventud en el Distrito Federal;
 
 X. Entregar el Premio de la Juventud bajo las normas establecidas en esta ley;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2009)</small>
+XI. Detectar y denunciar ante las instancias correspondientes, las conductas y/o prácticas violatorias de derechos humanos o laborales, así como aquellas discriminatorias y de violencia hacia los jóvenes, y
 
-XI. Las demás que determine la presente ley.
+XII. Las demás que determine la presente Ley.
 
-### CAPITULO III. DEL DIRECTOR DEL INSTITUTO
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 50], G.O. 12 DE JULIO DE 2011)</small>
 
-###### Artículo 50.
+###### Artículo 55.
 
 El patrimonio del Instituto está constituido por los bienes, derechos y obligaciones que haya adquirido, que se le asignen o adjudiquen; los que adquiera por cualquier otro título jurídico; las ministraciones presupuestales y donaciones que se le otorguen; los rendimientos por virtud de sus operaciones financieras y los ingresos que reciba por cualquier otro concepto.
 
-### CAPITULO I. DEL CONSEJO DEL INSTITUTO
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 51], G.O. 12 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
-
-###### Artículo 51.
+###### Artículo 56.
 
 Para el cumplimiento de sus fines corresponde al Instituto llevar a cabo las siguientes funciones:
 
@@ -576,45 +646,41 @@ I. Cooperar con el Gobierno en la planeación, coordinación, ejecución, seguim
 
 II. Elaborar y difundir encuestas, estudios, investigaciones, informes y demás trabajos que sobre la juventud se realicen;
 
-III. Prestar todos aquellos servicios que como funciones sustantivas del Instituto, resulten necesarios para garantizar el cabal cumplimiento de sus fines específicos;
+III. Prestar todos aquellos servicios que como funciones sustantivas del Instituto resulten necesarios para garantizar el cabal cumplimiento de sus fines específicos;
 
 IV. Fomentar los intercambios académicos, políticos, culturales y deportivos a nivel nacional e internacional;
 
 V. Elaborar y ejecutar programas culturales que propicien la mayor expresión de sus realidades y la comunicación cultural entre las y los jóvenes;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2006)</small>
-
 VI. Promover y coordinar la práctica de aquellas actividades educativas que resulten prioritarias para desarrollar armónicamente todas las facultades del ser humano, fomentando entre los jóvenes el amor a la ciudad y a la patria, el respeto a los derechos humanos y civiles, la solidaridad internacional, y la promoción de la justicia;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
 
 VII. Fungir como órgano de consulta y asesoría en materia de Juventud de las dependencias y entidades de la Administración Pública del Distrito Federal, así como de las autoridades delegacionales y de los sectores social privado cuando así lo requieran, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
-
 VIII. Las demás que establezca la presente Ley.
 
-### CAPITULO II. DE LA RED DE INTERCAMBIO DE INFORMACION SOBRE LA REALIDAD JUVENIL DEL DISTRITO FEDERAL
+### CAPITULO II. DE LA JUNTA DE GOBIERNO
 
-###### Artículo 52.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 52], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 57.
 
 La administración del Instituto está a cargo de una Junta de Gobierno y de un Director General.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 53], G.O. 12 DE JULIO DE 2011)</small>
 
-## TITULO TERCERO. DEL INSTITUTO DE LA JUVENTUD DEL DISTRITO FEDERAL
-
-### CAPITULO III. EL PLAN ESTRATEGICO PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL DISTRITO FEDERAL
-
-###### Artículo 53.
+###### Artículo 58.
 
 La Junta está integrada por cinco miembros propietarios y cinco suplentes, los cuales serán preferentemente menores de 35 años y serán designados por el Jefe de Gobierno a propuesta de la (sic) Secretarías de Ecuación (sic), Salud y Desarrollo Social, de entre los cuales se elegirá a su Presidente.
 
-###### Artículo 54.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 54], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 59.
 
 El cargo de miembro de la Junta tiene una duración máxima de seis años. Dicho cargo es estrictamente personal y no puede desempeñarse por medio de representantes.
 
-###### Artículo 55.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 55], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 60.
 
 En ningún caso pueden ser miembros de la Junta:
 
@@ -628,7 +694,9 @@ IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para 
 
 V. Los Diputados Federales y Senadores, así como los Diputados Locales de la Asamblea Legislativa del Distrito Federal.
 
-###### Artículo 56.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 56], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 61.
 
 Son atribuciones de la Junta:
 
@@ -646,8 +714,6 @@ VI. Aprobar la creación de centros, sistemas y dependencias necesarias que tien
 
 VII. Aprobar, crear, suprimir o modificar políticas y programas de fomento para el desarrollo de la juventud;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
-
 VIII. Emitir la convocatoria del Premio de la Juventud del Distrito Federal bajo las normas establecidas en esta ley;
 
 IX. Conferir títulos honoríficos;
@@ -658,63 +724,53 @@ XI. Vigilar el cumplimiento de los fines del Instituto, y
 
 XII. Las demás que establezca la presente Ley.
 
-### CAPITULO UNICO. DEL PREMIO DE LA JUVENTUD DEL DISTRITO FEDERAL
+### CAPITULO III. DEL DIRECTOR DEL INSTITUTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 57], G.O. 12 DE JULIO DE 2011)</small>
 
-###### Artículo 57.
+###### Artículo 62.
 
 Para ser Director del Instituto se requiere:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
-
 II. Contar con buena fama pública y con conocimiento y experiencia en la materia, ser preferentemente menor de 29 años el día de su designación, y
 
-III. No encontrarse en alguno de los impedimentos para ser miembro de la Junta, señalados en las fracciones II, III, IV y V del artículo 55 de esta ley.
+III. No encontrarse en alguno de los impedimentos para ser miembros de la Junta, señalados en las fracciones II, III, IV y V del artículo 60 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 58], G.O. 12 DE JULIO DE 2011)</small>
 
-###### Artículo 58.
+###### Artículo 63.
 
-El Director es nombrado y removido libremente por el Jefe de Gobierno el cual ejercerá las siguientes atribuciones:
+El Director es nombrado y removido libremente por el Jefe de Gobierno el cual ejercerá las siguientes atribuciones
 
-I. Representar legalmente al Instituto;
+I. Representar Legalmente al Instituto;
 
 II. Cumplir las decisiones de la Junta;
 
-III. Dirigir la administración del Instituto, formular los presupuestos anuales de ingresos y egresos, y autorizar el ejercicio de las partidas correspondientes;
+III. Dirigir la administración del Instituto, formular los Presupuestos Anuales de Ingresos y Egresos, y autorizar el ejercicio de las partidas correspondientes;
 
 IV. Promover el mejoramiento técnico, administrativo y patrimonial del Instituto;
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
-
 V. Requerir los informes de labores de las oficinas de atención y orientación de la juventud de las demarcaciones territoriales y de los responsables de las distintas áreas del Instituto para consignarlos anualmente en su propio informe, que debe rendir ante la Junta y el Consejo Consultivo, y entregar copia del informe a la Comisión de Juventud de la Asamblea Legislativa para su revisión, la última semana del mes de febrero de cada año;
 
-VI. Proponer y ejecutar las medidas generales sobre el régimen interior, sobre el cumplimiento de las políticas y programas para el desarrollo de la juventud y sobre el buen gobierno del Instituto;
+VI. Proponer y ejecutar las medidas generales sobre el régimen interior, sobre el cumplimiento de las políticas y Programas para el Desarrollo de la Juventud y sobre el buen gobierno del Instituto;
 
-VII. Acordar en los casos que se requiera con el Jefe de Gobierno y cumplir los acuerdos en forma coordinada con la Junta del Instituto, y (sic)
+VII. Acordar en los casos que se requiera con el Jefe de Gobierno y cumplir los acuerdos en forma coordinada con la Junta del Instituto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2006)</small>
+VIII. Aprobar la contratación del personal del Instituto;
 
-VIII.- Aprobar la contratación del personal del Instituto;
+IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
 
-> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
+X. Emitir informes y opiniones, siempre que la Asamblea Legislativa del Distrito Federal así se lo requiera, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del Instituto, y
 
-IX.- Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
+XI. Las demás que establezca la presente Ley.
 
-> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 59], G.O. 12 DE JULIO DE 2011)</small>
 
-X.- Emitir informes y opiniones, siempre que la Asamblea Legislativa del Distrito Federal así se lo requiera, cuando se discuta un proyecto de Ley o se estudie un asunto del ámbito de competencia del Instituto; y
+###### Artículo 64.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE FEBRERO DE 2006)</small>
-
-XI.- Las demás que establezca la presente Ley.
-
-###### Artículo 59.
-
-Dependen de la Dirección las siguientes unidades, cuyos titulares son nombrados y removidos libremente por el Director, los cuales deben reunir los mismos requisitos para ser Director:
+Dependen de la Dirección las siguientes unidades cuyos titulares son nombrados y removidos libremente por el Director, los cuales deben reunir los mismos requisitos para ser Director:
 
 I. La Subdirección General;
 
@@ -724,7 +780,9 @@ III. El Oficial Mayor, y
 
 IV. Los Directores Regionales.
 
-###### Artículo 60.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 60], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 65.
 
 Son atribuciones del Subdirector General:
 
@@ -732,225 +790,241 @@ I. Autorizar conjuntamente con el Director las constancias, certificaciones y de
 
 II. Suplir las faltas temporales del Director, haciéndose cargo del despacho;
 
-III. Llevar a cabo la gestión económica, financiera y dirigir las relaciones laborales del Instituto, dándose a la tarea de elaborar proyectos de presupuestos de ingresos y egresos, y
+III. Llevar a cabo la gestión económica, financiera y dirigir las relaciones laborales del Instituto, dándose a la tarea de elaborar proyectos de Presupuestos de Ingresos y Egresos, y
 
 IV. Las demás que establezca la presente Ley.
 
-###### Artículo 61.
+## TITULO CUARTO. DE LA PARTICIPACION CIUDADANA EN LAS POLITICAS SOBRE JUVENTUD
+
+### CAPITULO I. DEL CONSEJO DEL INSTITUTO
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 61], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 66.
 
 El Instituto contará con un Consejo de carácter consultivo, el cual tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+I. Asesorar, proponer, opinar y apoyar al instituto en la elaboración y ejecución de diagnósticos y del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal, y
 
-I. Asesorar, proponer, opinar y apoyar al instituto en la elaboración y ejecución de diagnósticos y del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
+II. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley, en términos de una efectiva ejecución del Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal.
 
-II. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley en términos de una efectiva ejecución del Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 62], G.O. 12 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO. G.O. 27 DE ENERO DE 2004)</small>
+###### Artículo 67.
 
-### CAPITULO UNICO
+El Consejo estará integrado de la siguiente forma:
 
-DE LAS SANCIONES APLICABLES A LOS SERVIDORES PUBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 76], G.O. 13 DE ENERO DE 2009)
-
-###### Artículo 62.
-
-El Consejo está integrado de la siguiente forma:
-
-I. Por el Director o el Subdirector del Instituto, en su caso;
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2007)</small>
+I. Por el Director o el subdirector del Instituto, en su caso;
 
 II. Por el diputado presidente de la Comisión de Juventud y por tres diputados integrantes de la Asamblea Legislativa;
 
 III. Por un representante de una organización no gubernamental que tenga estrecha vinculación con la problemática juvenil;
 
-IV. Por dos representantes de organizaciones juveniles del Distrito Federal; y
+IV. Por dos representantes de organizaciones juveniles del Distrito Federal, y
 
 V. Por un representante de los sectores económico y productivo del Distrito Federal, el cual tenga participación activa y directa en el desarrollo de programas para jóvenes.
 
-###### Artículo 63.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 63], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 68.
 
 El Director del Instituto preside y coordina de manera cotidiana los trabajos del Consejo.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 64], G.O. 12 DE JULIO DE 2011)</small>
 
-###### Artículo 64.
+###### Artículo 69.
 
-Los representantes de los diversos sectores sociales que establece el artículo 62 de esta Ley, se integran a propuesta e invitación del Jefe de Gobierno, excepto los que se establecen en los incisos II y III del mismo artículo, a quienes propone e invita la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, por haberse destacado por su trabajo y estudio en la materia juvenil. El Jefe de Gobierno, a su vez, funge como Presidente Honorario del Consejo.
+Los representantes de los diversos sectores sociales que establece el artículo 67 de esta Ley, se integran a propuesta e invitación del Jefe de Gobierno, excepto los que se establecen en los incisos II y III del mismo artículo, a quienes propone e invita la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, por haberse destacado por su trabajo y estudio en la materia juvenil. El Jefe de Gobierno, a su vez, funge como Presidente Honorario del Consejo.
 
 I. La duración de los integrantes del Consejo será de tres años y el Director del Instituto durará el tiempo que ocupe dicho cargo.
 
 II. Causarán baja del Consejo aquellos integrantes que presenten su renuncia o acumulen 3 inasistencias injustificadas, excepto el Director del Instituto.
 
-###### Artículo 65.
+### CAPITULO II. DE LA RED DE INTERCAMBIO DE INFORMACION SOBRE LA REALIDAD JUVENIL DEL DISTRITO FEDERAL
 
-El Instituto debe promover la organización libre, democrática y autogestionaria de los jóvenes en el Distrito Federal, en un marco de total respeto a la autonomía de los mismos.
-
-## TITULO CUARTO. DE LA PARTICIPACION CIUDADANA EN LAS POLITICAS SOBRE JUVENTUD
-
-###### Artículo 66.
-
-El Instituto debe contar con un sistema de difusión, información e investigación sobre las y los jóvenes en el Distrito Federal.
-
-###### Artículo 67.
-
-El sistema de difusión, información e investigación debe crear un banco de datos de las organizaciones de jóvenes en el Distrito Federal, así como otras instancias de gobierno, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada cuya materia de trabajo sean las temáticas de la juventud, que permita el intercambio de conocimientos y experiencias de relevancia para las realidades juveniles. A este banco de datos se denomina la Red de Intercambio de Información sobre la realidad juvenil del Distrito Federal.
-
-###### Artículo 68.
-
-Los integrantes de la Red tienen derecho a proponer y presentar diagnósticos, planes, programas y proyectos ante el Instituto que tengan que ver con las temáticas juveniles, y en particular, a ser consultados y convocados a participar en la elaboración del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
-
-###### Artículo 69.
-
-El Jefe de Gobierno, a través del Director del Instituto tiene la obligación de elaborar, presentar y supervisar el Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 65], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 70.
 
-El Plan debe ser elaborado a partir de la más amplia participación de las organizaciones juveniles, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada representantes populares y demás sectores sociales que tienen que ver con la temática juvenil para la cual se deben llevar a cabo foros, conferencias, seminarios, reuniones de trabajo, recorridos y demás mecanismos que se consideren necesarios para cumplir con este fin.
+El Instituto debe promover la organización libre, democrática y autogestionaria de los jóvenes en el Distrito Federal, en un marco de total respeto a la autonomía de los mismos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 66], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 71.
 
-En la elaboración y consulta del Plan se debe tomar en cuenta al menos la opinión y propuestas de las siguientes instancias:
+El Instituto debe contar con un sistema de difusión, información e investigación sobre las y los jóvenes en el Distrito Federal.
 
-I. La Junta de Gobierno;
-
-II. El Consejo del Instituto;
-
-III. La Red, y (sic)
-
-IV. La Asamblea;
-
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2006)</small>
-
-V. El Instituto de Ciencia y Tecnología del Distrito Federal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE FEBRERO DE 2007)</small>
-
-VI. Los titulares de las oficinas de atención y orientación de la juventud de las demarcaciones territoriales.
-
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 67], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 72.
 
-Las Demarcaciones Territoriales contarán con una Oficina de Atención y Orientación a la Juventud dentro de su estructura de gobierno, cuyo responsable será designado por el titular de la demarcación y deberá contar con buena fama pública, experiencia y conocimiento en la materia. El titular de la Oficina de Atención y Orientación a la Juventud será responsable de presentar, ejecutar y evaluar un plan de trabajo para su demarcación, que deberá sujetarse a las bases que establezca el Plan Estratégico para el Desarrollo Integral de la Juventud.
+El sistema de difusión, información e investigación debe crear un banco de datos de las organizaciones de jóvenes en el Distrito Federal, así como otras instancias de gobierno, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada cuya materia de trabajo sean las temáticas de la juventud, que permita el intercambio de conocimientos y experiencias de relevancia para las realidades juveniles. A este banco de datos se denomina la Red de Intercambio de Información sobre la realidad juvenil del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 68], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 73.
 
-El Gobierno del Distrito Federal, en coordinación con las demarcaciones territoriales, promoverá la constitución de un Fondo de Apoyo a Proyectos Juveniles, con la participación de los sectores público, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que surjan desde las y los jóvenes y que den respuesta a sus intereses reales.
+Los integrantes de la Red tienen derecho a proponer y presentar diagnósticos, planes, programas y proyectos ante el instituto que tengan que ver con las temáticas juveniles, y en particular, a ser consultados y convocados a participar en la elaboración del Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
+
+### CAPITULO III. EL PLAN ESTRATEGICO PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 69], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 74.
 
-El Instituto en coordinación con los Gobiernos de las Demarcaciones Territoriales operarán un Fondo de Financiamiento para Proyectos Juveniles, el cual será operado por el Instituto, con la colaboración de organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada.
+El Jefe de Gobierno, a través del Director del Instituto tiene la obligación de elaborar, presentar y supervisar el Plan Estratégico para el Desarrollo Integral de la Juventud del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 70], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 75.
 
-Las autoridades competentes del Gobierno gestionarán ante las autoridades fiscales correspondientes la deducibilidad de los donativos de las personas físicas o morales, de los sectores social y privado destinados al apoyo de iniciativas con real participación juvenil.
+El Plan debe ser elaborado a partir de la más amplia participación de las organizaciones juveniles, especialistas, instituciones académicas, organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada representantes populares y demás sectores sociales que tienen que ver con la temática juvenil para la cual se deben llevar a cabo foros, conferencias, seminarios, reuniones de trabajo, recorridos y demás mecanismos que se consideren necesarios para cumplir con este fin.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 71], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 76.
 
-El Premio de la Juventud del Distrito Federal será convocado una vez al año y será entregado a jóvenes cuya edad quede comprendida entre los catorce y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El premio de la Juventud del Distrito Federal se otorgará en las siguientes distinciones:
+En la elaboración y consulta del Plan se debe tomar en cuenta al menos la opinión y propuestas de las siguientes instancias:
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
+I.- La Junta de Gobierno;
 
-I. Actividades académicas, científicas o profesionales.
+II.- El Consejo del Instituto;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
+III.- La Red;
 
-II. Actividades culturales o artísticas.
+IV.- La Asamblea;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
+V.- El Instituto de Ciencia y Tecnología del Distrito Federal, y
 
-III. Actividades deportivas.
+VI.- Los titulares de las oficinas de atención y orientación de la juventud de las demarcaciones territoriales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2011)</small>
-
-IV. Mérito cívico, ambiental y de labor social.
-
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 72], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 77.
 
-El órgano encargado de emitir la convocatoria y las bases respectivas será la Junta de Gobierno del Instituto de la Juventud del Distrito Federal, emitiendo la misma a más tardar el día quince de septiembre y cerrando la misma obligatoriamente el quince de noviembre del mismo año.
+Las Demarcaciones Territoriales contarán con una Oficina de Atención y Orientación a la Juventud dentro de su estructura de gobierno, cuyo responsable será designado por el titular de la demarcación y deberá contar con buena fama pública, experiencia y conocimiento en la materia. El titular de la Oficina de Atención y Orientación a la Juventud será responsable de presentar, ejecutar y evaluar un plan de trabajo para su demarcación, que deberá sujetarse a las bases que establezca el Plan Estratégico para el Desarrollo Integral de la Juventud.
 
-La convocatoria deberá ser publicada por lo menos en dos diarios de circulación nacional y en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal. El Instituto de la Juventud del Distrito Federal podrá establecer convenios con las instituciones educativas para que contribuyan con la difusión de la convocatoria entre los jóvenes estudiantes.
-
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 73], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 78.
 
-El órgano encargado de evaluar las propuestas para este premio, será un Jurado Calificador, el cual estará compuesto por:
+El Gobierno del Distrito Federal, en coordinación con las demarcaciones territoriales, promoverá la constitución de un Fondo de Apoyo a Proyectos Juveniles, con la participación de los sectores público, social y privado. Dicho Fondo tendrá el objetivo de apoyar iniciativas juveniles autónomas, que surjan desde las y los jóvenes y que den respuesta a sus intereses reales.
 
-I. El Director del Instituto de la Juventud del Distrito Federal o un representante de éste.
-
-II. El Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal.
-
-III. El Rector de la Universidad Nacional Autónoma de México o un representante de éste.
-
-IV. El Rector de la Universidad Autónoma de la Ciudad de México o un representante de éste.
-
-V. El Director del Instituto Mexicano de la Juventud o un representante de éste.
-
-VI. Tres diputados de la Asamblea Legislativa electos en el Pleno.
-
-El Presidente del Jurado Calificador será el Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, quien será el responsable de convocar a las sesiones.
-
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 74], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 79.
 
-El Jurado sesionará válidamente, tomará, dictaminará y votará con la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos, y, en caso de empate, el Presidente tendrá voto de calidad.
+El Instituto en coordinación con los Gobiernos de las Demarcaciones Territoriales operarán un Fondo de Financiamiento para Proyectos Juveniles, el cual será operado por el Instituto, con la colaboración de organizaciones no gubernamentales, asociaciones civiles e instituciones de asistencia privada.
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 75], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 80.
 
-El Jurado tendrá las siguientes atribuciones:
+La autoridades competentes del Gobierno gestionarán ante las autoridades fiscales correspondientes la deducibilidad de los donativos de las personas físicas o morales, de los sectores social y privado destinados al apoyo de iniciativas con real participación juvenil.
 
-I. Sujetarse a la periodicidad de sus sesiones, que dictaminarán ellos mismos por medio de acuerdo en acta.
-
-II. Compilar los dictámenes que formulen.
-
-III. Autentificar con la firma de sus integrantes los dictámenes que emita y turnarlos a la Junta de Gobierno del Instituto de la Juventud del Distrito Federal.
-
-IV. Declarar el premio desierto cuando así lo consideren pertinente.
-
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2009)</small>
 
 ## TITULO QUINTO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2009)</small>
 
+### CAPITULO UNICO. DEL PREMIO DE LA JUVENTUD DEL DISTRITO FEDERAL
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 76], G.O. 12 DE JULIO DE 2011)</small>
+
 ###### Artículo 81.
 
-Los miembros del Jurado están obligados a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
+El Premio de la Juventud del Distrito Federal será convocado una vez al año y será entregado a jóvenes cuya edad quede comprendida entre los catorce y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El premio de la Juventud del Distrito Federal se otorgará en las siguientes distinciones:
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+I. Actividades académicas, científicas o profesionales;
+
+II. Actividades culturales o artísticas;
+
+III. Actividades deportivas, y
+
+IV. Mérito cívico, ambiental y de labor social.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 77], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 82.
 
-El Premio de la Juventud del Distrito Federal será entregado en sesión solemne que deberá celebrarse, con este único objeto, dentro del mes de enero de cada año.
+El órgano encargado de emitir anualmente la convocatoria y las bases respectivas será la Junta de Gobierno del Instituto de la Juventud del Distrito Federal, las cuales serán publicadas por los medios idóneos para su difusión a los jóvenes, debiendo emitir las mismas a más tardar el 12 de mayo y cerrando la misma obligatoriamente el 12 de julio del mismo año.
 
-(REUBICADO [N. DE E. ANTES TITULO QUINTO], G.O. 13 DE ENERO DE 2009)
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 78], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 83.
 
-El incumplimiento de las disposiciones contenidas en esta Ley por parte de los servidores públicos responsables de su aplicación, se sancionará conforme a la Ley Federal de Responsabilidad de los Servidores Públicos.
+El órgano encargado de evaluar las propuestas para este premio, será un Jurado Calificador, el cual estará compuesto por:
 
-(REUBICADO [N. DE E. ANTES ARTICULO 77], G.O. 13 DE ENERO DE 2009)
+I. El Director del Instituto de la Juventud del Distrito Federal o un representante de éste;
+
+II. El Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal;
+
+III. El Rector de la Universidad Nacional Autónoma de México o un representante de éste;
+
+IV. El Rector de la Universidad Autónoma de la Ciudad de México o un representante de éste;
+
+V. El Director del Instituto Mexicano de la Juventud o un representante de éste, y
+
+VI. Tres diputados de la Asamblea Legislativa electos en el Pleno.
+
+El Presidente del Jurado Calificador será el Presidente de la Comisión de Juventud de la Asamblea Legislativa del Distrito Federal, quien será el responsable de convocar a las sesiones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 79], G.O. 12 DE JULIO DE 2011)</small>
 
 ###### Artículo 84.
 
-La violación a los Derechos Humanos de las y los jóvenes se sancionarán conforme a lo establecido en el Código Penal del Distrito Federal.
+El Jurado sesionará válidamente, tomará, dictaminará y votará con la mayoría de sus integrantes; sus decisiones se tomarán por mayoría de votos, y, en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 80], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 85.
+
+El Jurado tendrá las siguientes atribuciones:
+
+I. Sujetarse a la periodicidad de sus sesiones, que dictaminarán ellos mismos por medio de acuerdo en acta;
+
+II. Compilar los dictámenes que formulen;
+
+III. Autentificar con la firma de sus integrantes los dictámenes que emita y turnarlos a la Junta de Gobierno del Instituto de la Juventud del Distrito Federal, y
+
+IV. Declarar el premio desierto cuando así lo consideren pertinente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 81], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 86.
+
+Los miembros del Jurado están obligados a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 82], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 87.
+
+El Premio de la Juventud del Distrito Federal será entregado en sesión solemne que deberá celebrarse, con este único objeto, el 12 de agosto de cada año. En caso de ser día inhábil, el Premio se entregará al día siguiente hábil.
+
+La Asamblea Legislativa deberá considerar dentro del presupuesto anual asignado al Instituto de la Juventud, el monto de los reconocimientos que en efectivo o en especie se deriven del Premio de la Juventud del Distrito Federal.
+
+(REUBICADO [N. DE E. ANTES TITULO QUINTO], G.O. 13 DE ENERO DE 2009)
 
 ## TITULO SEXTO
 
 > <small>(REFORMADO Y REUBICADO, G.O. 13 DE ENERO DE 2009)</small>
+
+### CAPITULO UNICO
+
+DE LAS SANCIONES APLICABLES A LOS SERVIDORES PUBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 83], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 88.
+
+El incumplimiento de las disposiciones contenidas en esta Ley por parte de los servidores públicos responsables de su aplicación, se sancionará conforme a la Ley Federal de Responsabilidad de los Servidores Públicos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTICULO 84], G.O. 12 DE JULIO DE 2011)</small>
+
+###### Artículo 89.
+
+La violación a los Derechos Humanos de las y los jóvenes se sancionarán conforme a lo establecido en el Código Penal del Distrito Federal.
 
 ## TRANSITORIOS
 
@@ -1091,3 +1165,11 @@ Artículo Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos
 Artículo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
 
 Artículo Tercero. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+D.O.F. 12 DE JULIO DE 2011.
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+Artículo Segundo. Por única ocasión, el "Premio de la Juventud del Distrito Federal 2011", se entregará el 13 de agosto de 2012 y premiará las actividades de los jóvenes que correspondan al período comprendido de enero de 2011 a junio de 2012. Para los premios subsecuentes, el calendario de actividades se computará de septiembre a junio del año siguiente.
+
+Artículo Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
