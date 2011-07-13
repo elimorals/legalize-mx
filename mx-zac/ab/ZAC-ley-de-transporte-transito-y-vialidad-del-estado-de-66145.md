@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-66145"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2009-01-17"
+last_updated: "2011-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRANSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -380,6 +380,10 @@ Las personas con discapacidad, adultos mayores, niños y niñas, así como mujer
 La Dirección en coordinación con los ayuntamientos, promoverán y vigilarán permanentemente que en donde existan espacios de estacionamientos, se reserven cajones para personas con discapacidad, adultos mayores y mujeres embarazadas.
 
 Se pondrá especial atención en que se cumpla este mandato en edificios de oficinas públicas.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2011)</small>
+
+Los conductores que ocupen, nieguen, impidan u obstaculicen el acceso de los cajones de estacionamientos destinados para las personas con discapacidad, serán sancionados con multas, de cien a ciento veinte cuotas de salario mínimo vigente para el Estado.
 
 Arrendadoras de Vehículos
 
@@ -1704,3 +1708,11 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2011.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
