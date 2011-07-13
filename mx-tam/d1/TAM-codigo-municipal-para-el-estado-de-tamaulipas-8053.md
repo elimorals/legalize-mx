@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-12-29"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -435,11 +435,11 @@ Los Consejos Municipales estarán integrados con el mismo número de miembros y 
 
 ### CAPITULO V. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuando menos una vez al mes; en los municipios que cuenten con más de ciento cincuenta mil habitantes, sesionarán preferentemente por lo menos dos veces por mes. En todo caso, cuando existan asuntos de urgente resolución o a petición de la tercera parte de sus miembros, sesionarán cuantas veces sea necesario. Asimismo, podrán declararse en sesión permanente, cuando la importancia del asunto así lo amerite.
+Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán por lo menos una vez por mes en los municipios que cuenten con menos de cien mil habitantes; por lo menos dos veces por mes en los municipios que cuenten con más de cien mil y hasta doscientos mil habitantes; y, por lo menos tres veces por mes en los municipios que cuenten con más de doscientos mil habitantes. En todo caso, cuando existan asuntos de urgente resolución o a petición de la tercera parte de sus miembros, sesionarán cuantas veces sea necesario. Asimismo, podrán declararse en sesión permanente, cuando la importancia del asunto así lo amerite.
 
 ###### ARTICULO 43.
 
@@ -3960,5 +3960,11 @@ El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apar
 P.O. 29 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
