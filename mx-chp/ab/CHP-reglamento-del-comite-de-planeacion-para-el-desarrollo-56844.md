@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-comite-de-planeacion-para-el-desarrollo-56844"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-23"
-last_updated: "2007-05-23"
+last_updated: "2011-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO REGIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO DECIMO TRANSITORIO DEL REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO REGIONAL, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 23 de mayo de 2007.
 
@@ -508,3 +510,29 @@ Artículo Sexto.- Las situaciones particulares no previstas en el presente Regla
 Se expide el presente Reglamento, en la Residencia Oficial del Poder Ejecutivo, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los treinta días del mes de abril del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Jaime Valls Esponda, Secretario de Planeación y Desarrollo Sustentable.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- La Secretaría de Hacienda, como responsable de establecer y conducir el Sistema Estatal de Planeación Democrática, dará seguimiento puntual al proceso de planeación regional y proporcionará los elementos de apoyo normativos, para su eficiente desempeño.
+
+Artículo Tercero.- Las figuras organizativas que se conforman en las regiones y municipios de la entidad, que se deriven de las funciones emanadas de las leyes de Planeación, Desarrollo Rural Sustentable, Desarrollo Social, de Aguas Nacionales y la Ley de Desarrollo Urbano del Estado de Chiapas; para fines de coordinación institucional, consulta, participación social, desarrollo social y sustentable y de planeación en la ejecución de proyectos o recursos públicos, deberán de integrarse a la estructura del COPLADE, en el nivel que para tal efecto corresponda el ámbito de su operatividad, independientemente de la denominación que para tal efecto se establezca.
+
+Artículo Cuarto.- Los representantes del sector social y privado que conformarán la Comisión de Observancia del COPLADER, serán seleccionados de forma consensuada por la Comisión Regional, de acuerdo a criterios establecidos por la misma.
+
+Artículo Quinto.- Solo en casos de fuerza mayor, el Coordinador Regional, Secretario Técnico y los Coordinadores de los Consejos, podrán designar un suplente, para llevar a cabo el proceso de validación regional y la realización de la Asamblea Plenaria.
+
+Artículo Sexto.- El marco normativo vigente que comprende entre otros, a la Ley de Planeación para el Estado de Chiapas y su Reglamento, el Código de la Hacienda Pública y su Reglamento y los Lineamientos para la Integración y Operación del Programa de Inversión Anual del Estado, y formatos utilizados en el proceso de validación, podrán ser consultados en las oficinas regionales del organismo público responsable de coordinar al COPLADER.
+
+Artículo Séptimo.- Se le llamará propuesta de Programa de Inversión Regional, a la integración de los proyectos regionales validadas técnicamente por los Consejos del COPLADER, y una vez presentado y validado socialmente ante la Asamblea Plenaria se le denominará Programa de Inversión Regional.
+
+Artículo Octavo.- Las situaciones particulares no previstas en el presente Reglamento, que limiten la operatividad del COPLADER, serán sometidas a consideración de la Coordinación del COPLADE, misma que determinará el curso que deberán seguir éstas, en apego a la normatividad vigente.
+
+Artículo Noveno.- Las situaciones particulares con respecto a la operatividad del COPLADER, no señaladas en el presente reglamento, se someterán a lo dispuesto en los Lineamientos para la Operatividad de los Comités de Planeación para el Desarrollo Regional.
+
+Artículo Décimo.- El presente Reglamento, abroga la publicación No. 166-A-2007, en la que fue expedido el Reglamento del Comité de Planeación de Desarrollo Regional, publicada en el Periódico Oficial No. 029, de fecha 23 de mayo de 2007.
+
+Artículo Décimo Primero.- En cumplimiento de lo dispuesto por el artículo 13, segundo párrafo de la Ley Orgánica de la Administración Pública del Estado de Chiapas. Publíquese en el Periódico Oficial.
