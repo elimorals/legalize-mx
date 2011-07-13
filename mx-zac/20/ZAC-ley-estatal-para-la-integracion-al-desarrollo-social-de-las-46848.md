@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2006-06-03"
+last_updated: "2011-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -1039,6 +1039,10 @@ El Ejecutivo del Estado, a través del (sic) Comisión y la Dirección de Transp
 
 Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la entidad.
 
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2011)</small>
+
+La Dirección de Transporte Público y Vialidad, de conformidad con la Ley de Transporte, Tránsito y Vialidad del Estado, sancionará a los conductores que ocupen los cajones destinados a las personas con discapacidad.
+
 ###### Artículo 98.
 
 La Dirección de Transporte Público y Vialidad y la Contraloría Interna del Estado, promoverán y vigilarán que en las licitaciones de concesión del servicio de transporte público, las unidades incluyan especificaciones técnicas y antropométricas en materia de discapacidad.
@@ -1174,3 +1178,9 @@ N. DE EL A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETO
 P.O. 3 DE JUNIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 13 DE JULIO DE 2011.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
