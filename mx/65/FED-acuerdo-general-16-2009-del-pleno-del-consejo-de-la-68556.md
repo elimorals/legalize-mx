@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2009-10-23"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACION Y DIFUSION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -91,9 +91,11 @@ Cada ponencia entregará a las otras dos con tres días de anticipación, el lis
 
 Este listado se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán de conformidad con el acuerdo al que hace referencia el artículo 5, fracción IV, de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+
 ###### Artículo 7.
 
-El Presidente del tribunal, previo al inicio de la sesión, ordenará al Secretario de Acuerdos o a la persona designada que active el sistema de grabación de audio y video; hecho lo anterior, hará la declaración de inicio.
+El Presidente del tribunal, previo al inicio de la sesión, ordenará al Secretario de Acuerdos o a la persona designada que active el sistema de grabación de audio y video; hecho lo anterior, hará la declaración de inicio, haciendo mención de la fecha y la hora correspondientes.
 
 ###### Artículo 8.
 
@@ -173,9 +175,11 @@ En caso de que no sea factible videograbar la sesión, el funcionario anterior t
 
 Los asuntos se fallarán en el orden en que se listen. Si no pudieran despacharse en la sesión todos los asuntos listados, los restantes figurarán en la lista siguiente en primer lugar, sin perjuicio de que el tribunal acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 24/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE JULIO DE 2011)</small>
+
 ###### Artículo 17.
 
-Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que tratar, el Presidente declarará concluida la sesión y ordenará al secretario que levante el acta correspondiente.
+Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que tratar, el Presidente declarará concluida la sesión, señalando la hora de su terminación y ordenará al secretario que levante el acta correspondiente.
 
 ### Capítulo 2. De la Videograbación
 
@@ -268,3 +272,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, que Regula las Sesiones de los Tribunales Colegiados de Circuito y Establece los Lineamientos para su Videograbación y Difusión.
+
+D.O.F. 13 DE JULIO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los Tribunales Colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
