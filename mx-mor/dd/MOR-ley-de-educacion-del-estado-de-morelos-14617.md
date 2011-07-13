@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2005-05-04"
+last_updated: "2011-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-LEY DE EDUCACION DEL ESTADO DE MORELOS
+LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -145,9 +145,11 @@ El Gobierno del Estado creará los organismos descentralizados, desconcentrados 
 
 Las inversiones que en materia educativa realicen los Gobiernos Estatal y Municipal y sus Organismos Descentralizados son de interés social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 12.
 
-La educación que imparta el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos, tendrá además de los fines establecidos en el segundo párrafo del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 7º de la Ley General de Educación, los siguientes:
+La educación que imparta el Estado, los Municipios sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos, tendrá además de los fines establecidos en el segundo párrafo del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 7º de la Ley General de Educación, los siguientes:
 
 I.- Fomentar el desarrollo integral y armónico del individuo, resaltando los valores éticos y espirituales de la persona, así como los de solidaridad y bien común para que ejerza en plenitud su capacidad humana;
 
@@ -175,7 +177,9 @@ XII.- Impulsar la creación artística y propiciar el enriquecimiento y la difus
 
 XIII.- Estimular y propiciar las condiciones indispensables para el impulso de la educación física y la práctica del deporte, la recreación artística y la difusión de la cultura;
 
-XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, la vida, la institución y planeación familiar, y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
+
+XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, el fomento de los valores, la prevención de las adicciones, la institución y planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos;
 
 XV.- Crear conciencia sobre los valores morales, la sexualidad y prevenir sobre los perjuicios que causan al hombre y a la sociedad las conductas delictivas, e informar y orientar a los educandos sobre el daño que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, propiciando el rechazo a los vicios;
 
@@ -189,9 +193,11 @@ Los Gobiernos Estatal y Municipal deben en forma permanente, evaluar, adecuar, a
 
 ### CAPITULO II. DISTRIBUCION DE LA FUNCION SOCIAL EDUCATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las leyes y reglamentos que de ellas se deriven, las siguientes:
+Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las Leyes y reglamentos que de ellas se deriven, las siguientes:
 
 I.- Prestar los servicios de educación inicial, básica, normal y demás para la formación, actualización, capacitación y superación de docentes, incluyendo la indígena y especial, y de manera concurrente los de media superior, superior y demás servicios educativos distintos a los anteriores de acuerdo a las necesidades del Estado en la forma y términos que señalen las leyes respectivas;
 
@@ -199,7 +205,9 @@ II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educa
 
 III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo Estatal, de conformidad con lo dispuesto por la Ley General de Educación. Pudiendo delegar esta función en sus organismos descentralizados, conforme a lo que determine esta Ley o la normatividad que al efecto se expida;
 
-IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
+
+IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales y al magisterio estatal. Dentro de éstas propuestas podrá incluirse el tema de fomento a los valores y prevención de las adicciones;
 
 V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
 
@@ -749,9 +757,11 @@ V.- Líneas de acción, y
 
 VI.- Participación directa de la sociedad.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 83.
 
-El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura y el bienestar personal, familiar y social en la comunidad, para lo cual tomará como base la Ley General de Educación y la presente Ley.
+El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura, los valores, la prevención de las adicciones, el bienestar personal y el respeto a los derechos humanos.
 
 ###### ARTICULO 84.
 
@@ -841,9 +851,11 @@ V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos se�
 
 VI.- La organización y el funcionamiento de las asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades escolares municipales y estatales se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 92.
 
-Son atribuciones de las asociaciones de padres de familia:
+Son atribuciones de las asociaciones de Padres de Familia:
 
 I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos y de su funcionamiento;
 
@@ -851,7 +863,9 @@ II.- Reunir fondos con aportaciones voluntarias y/o actividades de sus miembros 
 
 III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos;
 
-IV.- Colaborar con las autoridades educativas en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2011)</small>
+
+IV.- Colaborar con las autoridades educativas en las actividades y campañas de fomento a los valores, beneficio social, cultural y prevención de las adicciones, sanitaria y ecológica que se efectúen en sus comunidades; y
 
 V.- Informar por escrito a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
@@ -1105,7 +1119,7 @@ En contra de las resoluciones de las autoridades educativas dictadas con fundame
 
 (DEROGADO, P.O. 23 DE MAYO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 123.
 
@@ -1171,7 +1185,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE DICIEMBRE DE 1998.
 
@@ -1206,3 +1220,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
 
 TERCERO. El gobierno del Estado celebrará con el gobierno Federal un convenio de colaboración que le permita cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en el artículo anterior.
+
+P.O. 13 DE JULIO DE 2011.
+
+ÚNICO.- Aprobado que sea el presente decreto, entrara en vigor al siguiente día de su publicación, remítase al Poder Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
