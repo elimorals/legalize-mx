@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2011-05-27"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2353,7 +2353,7 @@ La pena aplicable a estos últimos, será de uno a cinco años de prisión. Esta
 
 ## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-### CAPITULO III. TRATA DE PERSONAS
+### CAPITULO III
 
 ###### ARTICULO 249.
 
@@ -2625,15 +2625,13 @@ Al que explote el comercio carnal de otro, se mantenga de este comercio u obteng
 
 Si el agente fuere ascendiente, tutor, curador, cónyuge, concubinario o concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá prisión de seis meses a diez años y además será privado de todo derecho sobre los bienes de aquélla en su caso, e inhabilitado el tutor o curador, para el ejercicio de la patria potestad o para ejercer la función u ocupación en virtud de las cuales ejercía aquella autoridad.
 
+> <small>(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ESTATAL PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS, P.O. 13 DE JULIO DE 2011)</small>
+
 ### CAPITULO VI (SIC). PECULADO
 
 ###### ARTICULO 276.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de seis meses a ocho años y de cien a quinientos días multa.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
-
-Si se empleare la violencia o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta una mitad.
+(DEROGADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ESTATAL PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS, P.O. 13 DE JULIO DE 2011)
 
 ## TITULO QUINTO. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
 
@@ -3758,3 +3756,15 @@ P.O. 27 DE MAYO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- La Comisión interinstitucional, así como sus Subcomisiones, deberán instalarse en los primeros noventa días a partir de la entrada en vigencia de la presente Ley.
+
+Artículo Tercero.- El titular del Poder Ejecutivo Estatal contará con un plazo de sesenta días a partir de la entrada en vigor de la presente Ley para expedir el reglamento de la misma.
+
+Artículo Cuarto.- La Comisión Interinstitucional, una vez instalada, contará con un plazo de cuarenta y cinco días a partir de la entrada en vigor de la presente Ley para elaborar el Programa Estatal para Combatir, Prevenir y Sancionar la Trata de Personas y Proteger a sus Víctimas.
+
+Artículo Quinto.- Se deroga el Capítulo III, del Título Cuarto, Sección Tercera, del Libro Segundo y el artículo 276 del Código Penal para el Estado de Sinaloa y aquellas disposiciones que se opongan al presente Decreto.
