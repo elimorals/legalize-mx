@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-comite-de-planeacion-para-el-desarrollo-54512"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-03"
-last_updated: "2007-01-03"
+last_updated: "2011-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITE DE PLANEACION PARA EL DESARROLLO, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de enero de 2007.
 
@@ -564,3 +566,17 @@ Artículo Cuarto.- Se derogan las disposiciones de igual o menor jerarquía, que
 Se expide el presente Reglamento, en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, Tuxtla Gutiérrez, Chiapas; a los 31 treinta y uno días del mes de diciembre del año 2006, dos mil seis.
 
 Juan José Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Jaime Valls Esponda, Secretario de Planeación y Desarrollo Sustentable.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE JULIO DE 2011.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Con el propósito de vincular la estructura operativa del COPLADE, con el eje político de este Gobierno, el COPLADE, se identificará con la denominación de COPLADE-Chiapas Solidario, mediando un guión para distinguirlos.
+
+Artículo Tercero.- Se abroga el Reglamento del Comité de Planeación para el Desarrollo, publicado en el Periódico Oficial número 006-2ª Sección, Tomo III, de fecha 3 de enero de 2007.
+
+Artículo Cuarto.- De (sic) derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Reglamento.
+
+Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado, publíquese el presente Reglamento.
