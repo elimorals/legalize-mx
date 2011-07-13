@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2011-06-27"
+last_updated: "2011-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1869,17 +1869,511 @@ Este impuesto se liquidará formando parte de los impuestos y derechos sobre los
 
 El ingreso que se perciba se aplicará íntegramente al fomento de la educación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+### CAPÍTULO SEXTO. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO I
+
+DISPOSICIONES GENERALES
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE JULIO DE 2011)</small>
 
-###### Artículo 136.
+###### Articulo 136.
 
-(DEROGADO, G.O. 27 DE DICIEMBRE DE 2010)
+Están obligadas al pago del impuesto establecido en este Capítulo las personas físicas y las morales tenedoras o usuarias de los vehículos a que se refiere el mismo y que se hayan dado de alta en los registros del Estado.
+
+Para los efectos de este Capítulo, se presume que el tenedor o usuario del vehículo es propietario.
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los cuatro primeros meses del ejercicio; sin embargo, en el caso de que enteren la contribución dentro de los primeros dos meses del año, gozarán de un beneficio del 5% de disminución del impuesto a su cargo en el mes de enero y del 3% durante el mes de febrero.
+
+Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el tercer párrafo de este artículo.
+
+En la enajenación de vehículos nuevos de año modelo posterior al de aplicación de este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este Capítulo se pagará como si aquél fuere nuevo.
+
+Cuando la enajenación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+TABLA
+
+Mes de Factor Aplicable al
+
+Adquisición Impuesto Causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 A. Para efectos de este Capítulo, se entiende por:
+
+I. Vehículo nuevo: El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos.
+
+II. Valor total del vehículo: El precio de enajenación del fabricante, ensamblador, distribuidor autorizado, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III. Marca: Las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+
+IV. Año Modelo: el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1° de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+V. Modelo: todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea.
+
+VI. Carrocería básica: el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VII. Versión: cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VIII. Línea:
+
+a). Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b). Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c). Automóviles con motor diesel.
+
+d). Camiones con motor de gasolina, gas o diesel.
+
+e). Tractores no agrícolas tipo quinta rueda.
+
+f). Autobuses integrales.
+
+g). Automóviles eléctricos.
+
+IX. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 B. Las dependencias, las entidades, los organismos autónomos, los Municipios, los organismos descentralizados, la Federación, los Poderes Estatales o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 C. Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I. Quienes por cualquier título, adquieran la propiedad, posesión, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aun cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III. Las autoridades competentes, que autoricen el registro de vehículos, permisos provisionales, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+Las autoridades estatales competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en su territorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 D. Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO II
+
+AUTOMÓVILES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 E. Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo la siguiente:
+
+TABLA
+
+Límite Límites Cuota fija Tasa para
+
+Inferior superior aplicarse
+
+sobre el
+
+excedente
+
+del
+
+límite
+
+inferior
+
+$ $ $ %
+
+0.01 175,000.00 0.00 2.5
+
+175,000.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1'109,080.70 47,347.45 13.3
+
+1'109,080.71 1'393,020.60 85,111.46 16.8
+
+1'393,020.61 En adelante 132,813.36 19.1
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados «taxis» el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
+
+En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasís, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+III. Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 F. No se pagará el impuesto en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
+
+I. Los eléctricos utilizados para el transporte público de personas.
+
+II. Los vehículos de la Federación, del Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+III. Los automóviles al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sean exclusivamente para uso oficial y exista reciprocidad.
+
+IV. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones anteriores, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO III
+
+OTROS VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 G. Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 H. Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 I. Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TABLA
+
+Límite Límite Cuota Tasa para
+
+Inferior superior fija aplicarse sobre
+
+el excedente
+
+del límite
+
+inferior
+
+$ $ $ %
+
+0.01 200,000.00 0.00 3
+
+200,000.01 275,046.93 6,000.00 8.7
+
+275,046.94 369,693.57 12,529.08 13.3
+
+369,693.58 En adelante 25,117.08 16.8
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 J. Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de este Capítulo, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULOS CUOTA $
+
+AERONAVES:
+
+Hélice 448.00
+
+Turbohélice 2,480.00
+
+Reacción 3,583.00
+
+HELICÓPTEROS 551.00
+
+Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 K. Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 L. No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
+
+I. Los vehículos de la Federación, del Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquier institución de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+II. Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos.
+
+III. Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+IV. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
+
+V. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO IV
+
+VEHÍCULOS USADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 M. Tratándose de los vehículos señalados en los artículos 136 E, fracción II, y 136 K de este Capítulo, así como de aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 N. Tratándose de automóviles de servicio particular que posteriormente se empleen para el servicio público de transporte denominados «taxis», el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquel en el que se de esta circunstancia, conforme al siguiente procedimiento.
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo anterior; y
+
+II. El resultado obtenido se multiplicará por 0.245%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 Ñ. Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de este Capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) Al resultado se le aplicará la tarifa a que hace referencia el artículo 136 E de este Capítulo.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 O. Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 0.0375
+
+b) Al resultado se le aplicará la tasa a que hace referencia el artículo 136 H.
+
+Para los efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 P. Tratándose de motocicletas de fabricación nacional o importadas de hasta nueve años modelos anteriores al de aplicación de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 136 de este Código.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO V
+
+Obligaciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 Q. Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a la Secretaría, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el Estado en el mes inmediato anterior, a través de los formatos que se expidan para tales efectos.
+
+Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada municipio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+
+APARTADO VI
+
+Destino del Impuesto
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
+
+Artículo 136 R. La recaudación del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución. Al efecto, el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
+
+El Comité Técnico del Fideicomiso se integrará con representantes de los sectores público y privado de la entidad. Dicho Comité tendrá representación de los Poderes Ejecutivo y Legislativo Estatales, de Municipios y del Sector Privado, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 137.
 
@@ -1905,9 +2399,7 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado considere conveniente que el pago del servicio prestado, deba hacerse ante la propia dependencia que lo preste, deberá mediar acuerdo emitido por la Secretaría, que se publicará en la Gaceta Oficial del Estado, previamente a la vigencia de la autorización respectiva.
 
-### CAPITULO SEGUNDO BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO Y REUBICADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO
 
 ###### Artículo 140.
 
@@ -2593,7 +3085,9 @@ No causarán los derechos a que se refiere este artículo, la legalización de f
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-### CAPÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
+### CAPITULO SEGUNDO BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 142.
 
@@ -2615,7 +3109,7 @@ Registro Individual 5 salarios mínimos.
 
 Revalidación individual 5 salarios mínimos.
 
-### CAPÍTULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES
+### CAPÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
 
 ###### Artículo 143.
 
@@ -2961,9 +3455,7 @@ VIII. Por la realización de estudios
 
 socioeconómicos a solicitante de lote. 0.16 salarios mínimos
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
-
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2010)</small>
+### CAPÍTULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES
 
 ###### Artículo 144.
 
@@ -2979,7 +3471,9 @@ II. Abonados. Telefónicos en línea comunal de magneto, mensualmente. 1 salario
 
 (REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2010
 
-### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE
+### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2010)</small>
 
 ###### Artículo 145.
 
@@ -3181,7 +3675,7 @@ No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualq
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO SÉPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE
 
 ###### Artículo 146.
 
@@ -3639,13 +4133,13 @@ de construcción 64
 
 Para las fracciones intermedias entre cada 1,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
 
-### CAPÍTULO OCTAVO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
+### CAPÍTULO SÉPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO
 
 ###### Artículo 149.
 
 Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados Menores y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción. 0.25 salario mínimo
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
 
 ###### Artículo 150.
 
@@ -3813,7 +4307,7 @@ d) El excedente de 200 has en adelante 2.2 salarios mínimos
 
 ## TÍTULO CUARTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 153.
 
@@ -3861,7 +4355,7 @@ XII. Aprovechamientos diversos.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 493.
 
@@ -4177,9 +4671,7 @@ IV. Las medidas y acciones que deberán llevar se a cabo en el caso de una conti
 
 V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
 
-### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
+### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO
 
 ###### Artículo 154.
 
@@ -4263,7 +4755,9 @@ El gasto público se ejercerá con base en los calendarios financieros y de meta
 
 Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unidades presupuestales los criterios y los lineamientos para la formulación del presupuesto.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 164.
 
@@ -4305,7 +4799,9 @@ El Gobernador del Estado, a través de la Secretaría, proporcionará al Congres
 
 ## TÍTULO SEGUNDO. DEL GASTO PÚBLICO
 
-### CAPÍTULO III. Circulaciones en las Construcciones
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 512.
 
@@ -4719,7 +5215,7 @@ XX. Las demás que establezca el presente Código y las leyes respectivas.
 
 El mando de los elementos (sic) Secretaría de Seguridad Pública y Tránsito Municipal está a cargo del Presidente Municipal quien lo ejerce por sí o a través del Secretario de Seguridad Pública y Tránsito Municipal.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 171.
 
@@ -4873,7 +5369,7 @@ X.- Coordinar sus acciones con otras autoridades para prevenir y combatir la del
 
 XI.- Ejercer las facultades y obligaciones previstas en la reglamentación vigente.
 
-### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
 ###### Artículo 176.
 
@@ -5077,7 +5573,7 @@ En el caso de la Secretaría, las funciones que corresponden a la unidad adminis
 
 El Gobernador del Estado podrá disponer que los fondos o pagos de alguna dependencia o entidad, así como su registro, sean manejados temporal o permanentemente de manera centralizada por la Secretaría.
 
-### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
 ###### Artículo 189.
 
@@ -5199,7 +5695,7 @@ De los movimientos que se efectúen en los términos de este artículo, se infor
 
 Los recursos excedentes podrán destinarse a cubrir gastos contingentes no previstos y a proyectos de inversión adicionales.
 
-### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
+### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
 ###### Artículo 202.
 
@@ -5275,7 +5771,7 @@ Las unidades administrativas informarán a la Secretaría y a la Contraloría en
 
 Respecto a los contratos por honorarios vigentes de un año a otro, las dependencias solicitarán autorización a la Secretaría, misma que se otorgará si se cuenta con los recursos suficientes, está debidamente justificada y si se considera indispensable. Esta autorización se tramitará durante el mes de enero de cada año.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
 
 ###### ARTÍCULO 354.
 
@@ -6453,9 +6949,7 @@ P.O. 12 DE MAYO DE 2008.
 
 DECRETO QUE REFORMA LA FRACION VI DEL ARTICULO 1358 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
 
-### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
-
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### ARTÍCULO 360.
 
@@ -6571,7 +7065,9 @@ Las instituciones bancarias o terceros pagarán intereses, por concepto de indem
 
 Cuando la ley destine los fondos a un fin determinado, con objeto de aprovecharlos en actividades de la administración pública estatal, sólo podrá disponerse de ellos mediante asignación presupuestal. Los Fideicomisos Públicos constituidos para administrar recursos derivados de contribuciones estatales ejercerán los montos incorporados a sus patrimonios fideicomitidos a través de las instrucciones que generen sus Comités Técnicos.
 
-### CAPÍTULO TERCERO. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 361.
 
@@ -6731,9 +7227,7 @@ Todo pago o salida de valores se registrará en la contabilidad de la Secretarí
 
 Las unidades administrativas solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LAS GARANTÍAS A FAVOR O A CARGO DEL ESTADO
-
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+### CAPÍTULO TERCERO. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### ARTÍCULO 369.
 
@@ -6775,7 +7269,9 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas de gobierno no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO QUINTO. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO CUARTO. DE LAS GARANTÍAS A FAVOR O A CARGO DEL ESTADO
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 375.
 
@@ -6837,7 +7333,7 @@ Las garantías que se otorguen a favor del gobierno estatal, podrán sustituirse
 
 Tratándose de créditos fiscales a cargo de contribuyentes sujetos a control presupuestal y de adeudos a favor del gobierno estatal distintos de contribuciones y sus accesorios, se dispensará el otorgamiento de garantía observando lo dispuesto en el Libro Segundo de éste Código y en el Código de Procedimientos Administrativos para el Estado de Veracruz.
 
-### CAPÍTULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
+### CAPÍTULO QUINTO. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### ARTÍCULO 378.
 
@@ -6933,7 +7429,7 @@ II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegr
 
 ## TÍTULO QUINTO. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-### CAPÍTULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+### CAPÍTULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ###### ARTÍCULO 381.
 
@@ -7133,7 +7629,7 @@ Los estados financieros y demás información financiera presupuestal y contable
 
 El registro de las operaciones y la preparación de informes financieros de las unidades presupuestales, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte la Secretaría.
 
-### CAPÍTULO TERCERO. DE LOS ESTADOS FINANCIEROS
+### CAPÍTULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
 ###### ARTÍCULO 401.
 
@@ -7305,7 +7801,7 @@ Las dependencias y entidades que participen en la realización de programas de c
 
 Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Estado, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las unidades administrativas por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las unidades presupuestales informarán con el mismo detalle a la Secretaría, del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
 
-### CAPÍTULO CUARTO. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO TERCERO. DE LOS ESTADOS FINANCIEROS
 
 ###### ARTÍCULO 409.
 
@@ -7387,7 +7883,7 @@ El Titular del Ejecutivo, en los términos establecidos en la Constitución Pol�
 
 ## TÍTULO SEXTO. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-### CAPÍTULO QUINTO. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO DEL ESTADO
+### CAPÍTULO CUARTO. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### ARTÍCULO 410.
 
@@ -7471,7 +7967,7 @@ III. Fincamiento de las responsabilidades que procedan, y
 
 IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
 
-### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
+### CAPÍTULO QUINTO. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO DEL ESTADO
 
 ###### ARTÍCULO 411.
 
@@ -7715,7 +8211,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES RELACIONADAS CON EL EJERCICIO DEL GASTO PÚBLICO
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
+### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
 
 ###### ARTÍCULO 428.
 
@@ -7901,7 +8397,7 @@ La Contraloría, en los términos de la Ley de Responsabilidades de los Servidor
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES RELACIONADAS CON LA DEUDA PÚBLICA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
 
 ###### ARTÍCULO 449.
 
@@ -8041,8 +8537,6 @@ En ningún caso se autorizarán financiamientos que generen obligaciones que exc
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
-
 ###### ARTÍCULO 454.
 
 Son obligaciones de los administradores de los panteones, las siguientes:
@@ -8139,7 +8633,7 @@ El Ejecutivo del Estado podrá solicitar al Congreso la contratación de montos 
 
 ###### Artículo 325.
 
-Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del sistema nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
+Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del Sistema Nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
 
 ###### Artículo 326.
 
@@ -8149,9 +8643,9 @@ Las operaciones de endeudamiento que realice el Estado, los municipios y sus ent
 
 En el presupuesto anual se señalarán los montos autorizados para las operaciones de endeudamiento que generen deuda pública; así como para efectuar la amortización de los mismos.
 
-### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 465.
 
@@ -8225,7 +8719,9 @@ Las entidades municipales al contratar operaciones de endeudamiento o reestructu
 
 Los municipios y sus entidades presentarán periódicamente, en la forma en que lo determine la Secretaría, los documentos que permitan analizar su capacidad de pago. La aplicación de los recursos económicos provenientes de las operaciones de endeudamiento avaladas por el Estado, será supervisado por la Secretaría.
 
-### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
+### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ###### ARTÍCULO 471.
 
@@ -8359,9 +8855,7 @@ En todo lo referente al manejo y operación de los instrumentos bursátiles enun
 
 ## TÍTULO TERCERO. DEL REGISTRO PÚBLICO DE DEUDA ESTATAL
 
-### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
-
-(REFORMADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
 
 ###### ARTÍCULO 480.
 
@@ -8429,9 +8923,9 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ## TÍTULO CUARTO. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+(REFORMADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
 
 ###### ARTÍCULO 481.
 
@@ -8499,7 +8993,7 @@ De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogac
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 487.
 
@@ -8862,3 +9356,9 @@ G.O. 27 DE JUNIO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE JULIO DE 2011.
+
+Artículo primero. El presente decreto entrará en vigor el día primero de enero de dos mil doce.
+
+Artículo segundo. Sólo durante el primer año de entrada en vigor de este decreto, y para efectos de los cálculos relativos al artículo 136M, cuando se haga referencia al impuesto causado en el ejercicio inmediato anterior, se considerará como tal, el impuesto causado en términos de la Ley del Impuesto sobre Tenencia o Uso de Vehículos publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980.
