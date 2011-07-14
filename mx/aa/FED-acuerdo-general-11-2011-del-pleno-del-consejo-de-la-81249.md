@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2011-06-30"
+last_updated: "2011-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -689,7 +689,9 @@ QUINTO. Se contará con:
 
 1. El Centro Auxiliar de la Primera Región, se integrará por ocho tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, dos con sede en Cuernavaca, Morelos y dos con residencia en Naucalpan de Juárez, Estado de México y siete juzgados de Distrito Auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
 
-2. El Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y nueve juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 19/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+
+2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y ocho juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y un juzgado de Distrito Auxiliar, con residencia en Puebla, Puebla.
 
 3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco y, cinco juzgados de Distrito Auxiliares, tres con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco.
 
@@ -748,3 +750,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 14 DE JULIO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
