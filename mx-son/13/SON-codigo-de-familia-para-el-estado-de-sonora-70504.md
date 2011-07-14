@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2011-03-31"
+last_updated: "2011-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CODlGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE MARZO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 31 DE MARZO DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2011.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -241,13 +239,13 @@ No estará obligado a contribuir económicamente el cónyuge que se encuentre im
 
 Cuando ambos cónyuges trabajen y cooperen al sostenimiento de la familia, entonces las labores domésticas, así como la protección y educación de los hijos, constituirán una responsabilidad compartida, en los términos que fijen de común acuerdo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 29.
 
-El hombre y la mujer mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge, pero cuando la casa que sirva de habitación a la familia sea bien propio de uno de ellos, no podrá ser enajenada ni gravada sin autorización de ambos, hasta que el obligado asegure a sus miembros un lugar decoroso en donde habitar. Para ello, previo juicio de jurisdicción voluntaria promovido por una o ambas partes, deberá inscribirse tal circunstancia en la Oficina del Instituto Catastral y Registral del Estado de Sonora que corresponda, considerando una sola casa habitación.
+El hombre y la mujer mayores de edad, tienen capacidad para administrar y disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin necesidad de autorización del otro cónyuge o concubino, pero cuando la casa que sirva de habitación a la familia sea bien propio de uno de ellos, no podrá ser enajenada ni gravada sin autorización de ambos.
 
-Esta prerrogativa familiar opera también en el concubinato.
+A fin garantizar este aspecto del derecho de alimentos, es necesario que el cónyuge o concubino interesado, tramite por vía judicial o notarial, una jurisdicción voluntaria para acreditar que habitan la casa y registren la resolución o testimonio notarial en la oficina del Instituto Registral y Catastral del Estado de Sonora que corresponda, caso en el cual será necesaria la autorización del otro cónyuge o concubino, para vender o gravar dicho inmueble. En ausencia de dicha inscripción, el propietario podrá disponer libremente del mismo.
 
 ###### Artículo 30.
 
@@ -3862,3 +3860,9 @@ A falta de disposición expresa en cuanto a los términos o plazos que establece
 ###### ARTÍCULO QUINTO.
 
 En tanto entre en vigor el Código Procesal en materia familiar se aplicará en lo conducente el Código de Procedimientos Civiles para el Estado de Sonora.
+
+B.O. 14 DE JULIO DE 2011.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
