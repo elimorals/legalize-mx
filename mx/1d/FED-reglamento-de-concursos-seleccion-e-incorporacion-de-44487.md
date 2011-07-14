@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-concursos-seleccion-e-incorporacion-de-44487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-20"
-last_updated: "2008-06-20"
+last_updated: "2011-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-04-05"
 
 REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 20 de abril de 2005.
 
@@ -32,6 +32,20 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 ACUERDO GENERAL 2/2005, DEL PLENO DEL TRIBUNAL SUPERIOR AGRARIO, QUE APRUEBA EL REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS.
 
 El Tribunal Superior Agrario, en uso de las facultades que le confieren las fracciones VII y X del artículo 8o. de la Ley Orgánica de los Tribunales Agrarios, en relación con el artículo 26 del mismo ordenamiento, y 5o. del Reglamento Interior de los Tribunales Agrarios, y
+
+CONSIDERANDO
+
+Que de conformidad con el artículo 69 del Reglamento Interior de los Tribunales Agrarios, los servidores públicos de los Tribunales, tienen la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión.
+
+Que para lograr lo anterior, desde el inicio de sus funciones el Tribunal Superior Agrario estableció como criterio, la designación de sus servidores jurisdiccionales mediante concursos públicos, en los que se seleccionen a los aspirantes que acrediten los mejores conocimientos, aptitudes y experiencia.
+
+Que la práctica de reclutamiento, selección y promoción de personal de los Tribunales Agrarios, a través de concursos en los que mediante exámenes los aspirantes acrediten sus merecimientos, fue incluido en las reformas a la Ley Orgánica de los Tribunales Agrarios, publicadas en el Diario Oficial de la Federación el 9 de julio de 1993, quedando precisado en el numeral 26.
+
+Que este procedimiento permite estimular a los servidores judiciales de los Tribunales Agrarios y fortalecer el ingreso de profesionistas por mérito propio, debidamente acreditado. En este sentido, el objetivo es que la designación de servidores públicos suceda una vez que las personas acrediten no sólo que cuentan con experiencia, sino también por haberse realizado una evaluación objetiva de su desempeño y conocimientos, logrando así avanzar en la profesionalización de los servidores públicos de los Tribunales Agrarios y sentar las bases para una carrera jurisdiccional en materia agraria, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.
+
+Que después de once años de vigencia del Reglamento de Selección e Incorporación de Personal de los Tribunales Agrarios, la experiencia obtenida permite concluir que es conveniente precisar y adecuar algunos aspectos con el objeto de optimizar y fortalecer la carrera jurisdiccional. En consecuencia, con fundamento en las disposiciones legales invocadas el Tribunal Superior Agrario, expide el siguiente:
+
+REGLAMENTO DE CONCURSOS, SELECCION E INCORPORACION DE PERSONAL Y CARRERA JURISDICCIONAL EN LOS TRIBUNALES AGRARIOS
 
 CONSIDERANDO
 
@@ -81,27 +95,47 @@ Las convocatorias con base en las cuales se celebrarán concursos abiertos, se p
 
 Las convocatorias internas para celebrar concursos cerrados, se fijarán en los estrados y tableros de avisos de los Tribunales Unitarios, así como en sus sedes alternas, el Tribunal Superior y el portal de Internet de la institución.
 
-Las convocatorias señalarán las categorías y número de plazas vacantes sujetas a concurso; el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo y lugar de inscripción.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+Las convocatorias señalarán las categorías y número de plazas vacantes sujetas a concurso, de acuerdo con la disponibilidad presupuestal; el lugar, día y hora en que se llevarán a cabo los exámenes; así como el plazo y lugar de inscripción. Además llevarán anexo un temario de estudios para cada una de las plazas a concursar.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 6o.
 
-Los interesados en participar en los concursos abiertos deberán presentar ante la Dirección General de Recursos Humanos de la Oficialía Mayor del Tribunal Superior, o en su defecto vía correo electrónico o fax dirigidos a la citada Dirección, los siguientes documentos:
+Los interesados en participar en los concursos deberán presentar ante la Dirección General de Recursos Humanos de la Oficialía Mayor del Tribunal Superior, o en su defecto vía correo electrónico, fax o mensajería, los siguientes documentos:
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
 
 I. Copia certificada del acta de nacimiento del aspirante;
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
+
 II. Copia certificada ante notario público del título profesional y de la cédula correspondiente;
 
-III. Constancia escolar oficial con promedio mínimo de ocho;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
 
-IV. Curriculum vitae; al que se anexen las constancias que acrediten los grados académicos del aspirante, así como publicaciones de su autoría, cursos de actualización y en general los documentos adicionales que avalen su experiencia;
+III. Historial académico o constancia oficial de la licenciatura.
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
+
+IV. Currículum vítae; al que se anexen las constancias que acrediten los grados académicos del aspirante. Además, deberá acreditar ante la Oficialía Mayor, conocimientos básicos sobre un procesador de textos electrónico.
+
+Tratándose de aspirantes a mandos medios y superiores, publicaciones de su autoría, cursos de actualización y en general los documentos adicionales que avalen su experiencia;
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
 
 V. Escrito no mayor a tres cuartillas en el que conste la exposición de motivos del aspirante para acceder al puesto, y
 
-VI. Carta de presentación suscrita por el Magistrado titular de la adscripción en donde el sustentante se encuentre activo o haya prestado sus servicios, o en su defecto de algún otro Magistrado, Juez de Distrito o servidor público vinculado con la actividad jurisdiccional que respalde su trayectoria profesional, acreditando su experiencia y aptitudes para el puesto a que aspira.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
+
+VI. Escrito bajo protesta de decir verdad en el que manifieste no haber sido condenado por delito intencional que amerite pena privativa de libertad mayor de un año; no estar inhabilitado para el servicio público y que la documentación que presenta es auténtica.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
 
 Los mismos documentos deberán ser presentados por el personal que preste o haya prestado sus servicios en los Tribunales Agrarios y que aspiren a ocupar alguna de las plazas sujetas a concurso abierto o cerrado, con excepción del documento señalado en la fracción III del que se podrá dispensar por el Pleno del Tribunal Superior, tomando en cuenta datos curriculares, antecedes de carrera jurisdiccional, antigüedad y desempeño en los Tribunales Agrarios y cursos de actualización.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2005)</small>
 
 En caso de que el aspirante esté adscrito al Tribunal Superior, deberá exhibir carta de presentación con las características antes enunciadas, suscrita por el superior jerárquico del área en que labore.
 
@@ -115,7 +149,9 @@ II. Ser licenciado en derecho con título debidamente registrado, expedido cuand
 
 III. Comprobar una práctica profesional mínima de cinco años.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad mayor de un año.
 
 ###### Artículo 8o.
 
@@ -127,7 +163,9 @@ II. Ser licenciado en derecho con título debidamente registrado, expedido cuand
 
 III. Comprobar una práctica profesional mínima de dos años, y
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad mayor de un año.
 
 Los requisitos de las fracciones II y III se podrán dispensar en el caso de que el aspirante acredite, con documentos públicos, haber ocupado un cargo similar en algún órgano jurisdiccional por dos años como mínimo.
 
@@ -139,7 +177,9 @@ I. Ser ciudadanos mexicanos en pleno ejercicio de sus derechos.
 
 II. Ser licenciado en derecho o ingeniero con experiencia en materia de topografía, -en caso de plazas de ingenieros agrarios y peritos- con título debidamente registrado y cédula profesional correspondiente.
 
-III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2011)</small>
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad mayor de un año.
 
 ###### Artículo 10.
 
@@ -171,17 +211,27 @@ En caso de urgencia, cuando menos tres Magistrado (sic) del Tribunal Superior Ag
 
 Para cada concurso se deberán de formular los exámenes teóricos y prácticos correspondientes, los cuales se guardarán en sobre cerrado.
 
-Los exámenes serán diferentes para cada categoría de plazas que se concursen, tomando en cuenta el perfil necesario para cada puesto y constarán en dos etapas, la primera de ellas integrada de la siguiente forma:
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
 
-1. Examen Teórico.- Que se conformará por un cuestionario planteado en base a reactivos de opción múltiple sobre conocimientos generales del derecho o ingeniería en caso de actuarios ejecutores y peritos, así como temas relativos a las funciones de la categoría a la que se aspire.
+Los exámenes serán diferentes para cada categoría de plazas que se concursen, tomando en cuenta el perfil necesario para cada puesto y constarán en tres etapas, de la siguiente forma:
 
-2. Examen práctico sobre uso básico de computadoras.
+1. La primera etapa se conformará por un cuestionario planteado en base a reactivos de opción múltiple sobre conocimientos generales de derecho o ingeniería, según sea el caso, relativos al cargo que se aspire; así como temas relacionados con las funciones de la categoría que se concurse.
 
-Quienes obtengan una calificación aprobatoria igual o superior a ochenta, pasarán a la segunda etapa; que comprende las siguientes evaluaciones:
+Pasarán a la siguiente etapa el número de aspirantes que hayan obtenido un mínimo aprobatorio de ochenta puntos en el cuestionario.
+
+2. La segunda etapa consistirá en:
 
 a) Examen Práctico.- Donde se planteará un problema a resolver, que versará sobre cuestiones propias de la categoría a la que se aspire.
 
 b) Examen Oral.- Que se practicará mediante preguntas e interpelaciones que realicen los miembros del jurado, sobre cuestiones relativas a la función del puesto que se concursa y en referencia al caso práctico.
+
+Pasarán a la siguiente etapa los aspirantes que hayan obtenido una calificación superior a ochenta puntos correctos en el promedio de los exámenes de las dos etapas anteriores, y en el número de plazas que se estén concursando.
+
+En caso de que el número de aspirantes aprobados en estas dos etapas sea superior al número de plazas convocadas, aquéllos quedarán integrados en la lista de reserva a que se refiere el artículo 21 del presente Reglamento.
+
+En el supuesto de que el número de aspirantes que alcancen el promedio calificación (sic) señalado en este artículo sea inferior a las plazas convocadas al concurso, éste se declarará desierto respecto a las que hayan quedado vacantes y formarán parte del próximo concurso.
+
+3. La tercera etapa comprenderá una práctica forense, durante sesenta días naturales en la plaza a la que aspire, en el tribunal unitario agrario que determine el Tribunal Superior Agrario.
 
 ###### Artículo 15.
 
@@ -207,7 +257,7 @@ El jurado calificará a los concursantes en una escala de cero a cien. Para que 
 
 Cuando ningún sustentante alcance el porcentaje mínimo requerido, el concurso se declarará desierto y se expedirá nueva convocatoria. En caso de que no se alcance a cubrir la totalidad de las plazas en el concurso correspondiente se declararán vacantes y quedarán sujetas a nuevo concurso, que tendrá verificativo dentro de los seis meses siguientes.
 
-En caso de que una persona repruebe alguno de los exámenes en tres ocasiones, no podrá presentarse nuevamente, sino hasta dos años después.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -221,25 +271,37 @@ El jurado emitirá un acta en donde consten los resultados de todos los exámene
 
 El dictamen referido en el párrafo anterior se someterá al Pleno junto con la propuesta de adscripción; a fin de que se ordene la expedición del nombramiento correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JULIO DE 2011)</small>
+
+Quienes hayan sido nombrados funcionarios por el Tribunal Superior Agrario, rendirán la protesta constitucional en sesión solemne o frente al magistrado del tribunal unitario al cual haya sido adscrito, en los siguientes términos:
+
+--- “¿Protestáis desempeñar leal y patrióticamente el cargo de --- que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión y la impartición de la justicia agraria de manera expedita y honesta?”
+
+--- : “Sí protesto”
+
+Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
+
 ###### Artículo 19.
 
 Los resultados del proceso se comunicarán por escrito a los examinados y se publicarán en el Boletín Judicial Agrario, los estrados del Tribunal Superior, así como a las sedes principales y alternas de los Tribunales Unitarios, el portal de Internet de la institución, en los siguientes cinco días hábiles a la celebración de los exámenes.
 
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
+
 ###### Artículo 20.
 
-Una vez transcurridos cuatro meses desde el nombramiento, se llevará a cabo una evaluación sobre el desempeño y aptitudes del servidor público a fin de resolver sobre su permanencia y definitividad en la plaza.
+La tercera etapa del examen se realizará en un tribunal unitario agrario que determine el Tribunal Superior y consistirá en el desempeño del cargo al cual se concursó, durante un periodo de sesenta días naturales. El magistrado titular del tribunal unitario agrario al cual se encuentre adscrito el aspirante, emitirá opinión del desempeño del concursante, conforme a los lineamientos determinados por el Jurado. Dicha opinión no será vinculante para la calificación definitiva que haga el Jurado.
+
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 ###### Artículo 21.
 
-La Oficialía Mayor del Tribunal Superior conservará constancia del número de concursantes externos, así como los datos personales y resultados obtenidos en los exámenes, los cuales permanecerán en el archivo durante dos años.
+La Oficialía Mayor del Tribunal Superior conservará la documentación aportada por los concursantes y los resultados de los exámenes por un periodo de seis meses.
 
-Aquellos sustentantes que obtengan calificaciones superiores a ochenta y no resulten seleccionados, formarán parte de una lista de reserva, en la que se anotará el lugar obtenido por cada uno de los sustentantes.
+Aquellos sustentantes que obtengan las calificaciones más altas y no alcancen a cubrir una plaza de las sometidas a concurso, formarán parte de una lista de reserva, en la que se anotará el lugar obtenido por cada uno de ellos.
 
-La lista se conservará por dos años en los archivos de la Oficialía Mayor.
+De la lista mencionada, la Oficialía Mayor propondrá al Tribunal Superior la designación de los concursantes que hayan obtenido las más altas calificaciones, en orden decreciente, para que ocupen las vacantes que se vayan presentando, en la categoría que hayan participado, para que cubran el requisito de la tercera etapa del concurso. Una vez vencido el plazo y emitida la opinión a que se refiere el artículo anterior, el Tribunal Superior en caso de que lo considere procedente, hará la designación definitiva y señalará la adscripción.
 
-La lista antes mencionada se pondrá a la vista de los titulares de los Tribunales en que existan vacantes temporales, los Magistrados podrán solicitar el expediente personal de los enlistados a fin de proponer al Pleno la persona que a su criterio debe ocupar la vacante de manera interina en tanto se celebre el concurso correspondiente en un lapso no mayor a cinco meses. El servidor que desempeñe en los términos antes señalados, una función temporal o interna, no generará derechos para su asignación definitiva.
-
-En el supuesto de que un integrante de la lista que haya sido nombrado para ocupar alguna vacante temporal o interina, concluya sus funciones, volverá a formar parte de la lista sin necesidad de otro requisito, siempre y cuando la conclusión de sus funciones no haya ocurrido por causa imputable a él.
+En el supuesto de que un integrante de la lista haya sido nombrado para ocupar alguna vacante temporal o interina, concluya sus funciones y cubra el plazo a que se refiere el artículo 20, será sometido a la opinión a que se refiere el párrafo anterior y si el Tribunal Superior lo considera procedente, volverá a formar parte de la lista sin necesidad de otro requisito, siempre y cuando la conclusión de sus funciones no haya ocurrido por causa imputable a él. En caso de que surja una vacante permanente, el Tribunal Superior lo designará de manera definitiva, en los términos del artículo anterior.
 
 ###### Artículo 22.
 
@@ -278,3 +340,7 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO EMITIDOS POR EL PLENO DEL TRIBUNAL SUPERIO
 SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JULIO DE 2011.
+
+UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
