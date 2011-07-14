@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2008-del-pleno-del-consejo-de-la-60478"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2008-04-14"
+last_updated: "2011-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "2008-03-26"
 ---
 # ACUERDO GENERAL 10/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN] -ANTES CREA EL CENTRO AUXILIAR SEGUNDA REGION, EN SAN ANDRES CHOLULA, PUEBLA-
 
-ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN
+ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno
 
-ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, CON RESIDENCIA EN SAN ANDRES CHOLULA, PUEBLA, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
+> <small>(REFORMADA SU DENOMINACION POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+
+ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
 CONSIDERANDO
 
@@ -55,9 +57,13 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, conformado por cuatro tribunales colegiados Auxiliares y nueve juzgados de Distrito Auxiliares, su domicilio será el ubicado en avenida Osa Menor Número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcayótl, código postal 72810, San Andrés Cholula, Puebla, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
-Los Juzgados Tercero y Cuarto de Distrito Auxiliares, creados mediante Acuerdos Generales 43/2007 y 47/2007 del Pleno del Consejo de la Judicatura Federal, cambiarán su denominación a Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Segunda Región; asimismo, los juzgados de Distrito Auxiliares que fueron creados por Acuerdo del Pleno del Consejo de la Judicatura Federal aprobado en sesión de seis de febrero de dos mil ocho, ahora se denominarán Juzgados Tercero y Cuarto de Distrito del Centro Auxiliar de la Segunda Región, y los restantes se nombrarán:
+PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Segunda Región, conformado por cuatro tribunales colegiados auxiliares y ocho juzgados de Distrito auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcayótl, código postal 72810, San Andrés Cholula, Puebla, y un juzgado de Distrito auxiliar, con residencia en Puebla, Puebla; su domicilio será en avenida 23 poniente número 2509, colonia Los Volcanes, código postal 72410, en Puebla, Puebla.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+
+Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Quinto de Distrito del Centro Auxiliar de la Segunda Región.
 
@@ -79,9 +85,13 @@ Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
 Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
-SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
-TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
+SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Segunda Región.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+
+TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Segunda Región, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
@@ -127,13 +137,15 @@ OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente,
 
 NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos relativos a las disposiciones necesarias, tendentes a regular el turno y tipo de los asuntos de la competencia de los órganos jurisdiccionales que conforman el Centro Auxiliar de la Segunda Región, así como el apoyo y el diverso auxilio que se preste a otros órganos jurisdiccionales.
 
-DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
-DECIMOPRIMERO. DEL ACUERDO GENERAL 57/2006. Se reforma el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, de veintitrés de agosto de dos mil seis, en el punto QUINTO, recorriéndose en su numeración, pasando el QUINTO a ser SEXTO y el SEXTO a SEPTIMO, para quedar como sigue:
+DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
 
-“QUINTO.- Se contará con el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, el cual se integrará por nueve juzgados de Distrito Auxiliares y cuatro tribunales colegiados Auxiliares, dichos órganos jurisdiccionales tendrán jurisdicción en toda la República Mexicana y su competencia será mixta.”
+DECIMOPRIMERO. (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)
 
-DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
+
+DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Segunda Región.
 
 DECIMOTERCERO. CIRCUNSTANCIAS NO PREVISTAS. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Disciplina, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
 
@@ -144,3 +156,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 10/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crea el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, así como los Organos Jurisdiccionales que lo Integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiséis de marzo de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, María Teresa Herrera Tello, Indalfer Infante Gonzales, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a nueve de abril de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE JULIO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 10/2008, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, así como los órganos jurisdiccionales que lo integrarán.
