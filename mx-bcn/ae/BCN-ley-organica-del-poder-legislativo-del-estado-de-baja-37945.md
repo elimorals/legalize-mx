@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2011-06-03"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1211,9 +1211,15 @@ En las deliberaciones de las comisiones participarán con derecho a voz los titu
 
 En las resoluciones de las Comisiones solo podrán participar los Diputados y únicamente votarán los que sean miembros de las mismas.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 74.
 
-Quien presente una iniciativa podrá solicitar por escrito anexo o en el plazo de diez días naturales siguientes a su lectura en el recinto parlamentario, audiencia por sí o designando un representante en la sesión de trabajo de la comisión que conozca de la iniciativa para el solo efecto de informar respecto de los motivos y razonamientos que fundan y sustentan la misma y defender los argumentos en contrario, adquiriendo por este hecho, el derecho de voz en la sesión de trabajo sobre el tema correspondiente, mas no el de voto.
+Quien presente una iniciativa podrá participar por sí o por conducto de su representante designado por escrito, en la sesión de trabajo, de la comisión que conozca de la iniciativa.
+
+El Presidente de la Comisión respectiva, además de la convocatoria que expida a los integrantes de la comisión, deberá invitar al inicialista.
+
+Su participación será para efecto de informar, respecto de los motivos y razonamientos que fundan y sustentan su iniciativa, y defender los argumentos en contrario, adquiriendo por este hecho, el derecho de voz en la sesión de trabajo sobre el tema correspondiente, más no el de voto.
 
 ###### ARTICULO 75.
 
@@ -2470,3 +2476,7 @@ P.O. 3 DE JUNIO DE 2011.
 PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California, "Órgano del Gobierno Constitucional del Estado de Baja California".
+
+P.O. 15 DE JULIO DE 2011.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California, "Órgano del Gobierno Constitucional del Estado de Baja California".
