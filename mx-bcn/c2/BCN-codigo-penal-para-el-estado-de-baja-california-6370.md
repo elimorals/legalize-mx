@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-06-10"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2277,7 +2277,7 @@ Abigeato por querella.- Es aplicable al delito de abigeato lo dispuesto en el ar
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 214.
 
@@ -2589,7 +2589,7 @@ Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una
 
 ###### Artículo 235.
 
-Tipo y punibilidad.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cuatro años y suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cuatro años y de diez a cincuenta días multa, así como suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
 
@@ -2599,9 +2599,13 @@ Igual pena se impondrá a las personas que no proporcionen atención geriátrica
 
 El delito se perseguirá por querella del ofendido o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el obligado a proporcionar los medios indispensables de subsistencia pague todas las cantidades que hubiere dejado de ministrar por el concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora en su caso, determinen, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer.
+No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el obligado a proporcionar los alimentos pague todas las cantidades que hubiere dejado de ministrar por dicho concepto, o se someta al régimen de pago que el Juez o la autoridad ejecutora en su caso, determinen. En ambos casos, se deberá garantizar el pago de las cantidades que en el futuro le corresponda satisfacer, por un periodo de seis meses.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
+
+Se tendrá por consumado el delito previsto en este artículo, con independencia de si el o los acreedores alimentarios con motivo del incumplimiento del deudor alimentista, obtiene por cualquier medio sus alimentos, los reciben de un tercero o se ven obligados a allegarse de recursos para satisfacer sus requerimientos indispensables, independientemente de que exista o no una determinación o sanción judicial de un juez civil.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -4722,3 +4726,7 @@ P.O. 29 DE ABRIL DE 2011.
 P.O. 10 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto iniciará su vigencia del (sic) día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
