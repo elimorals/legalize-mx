@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2011-06-17"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1327,9 +1327,9 @@ CUIDADO
 
 Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en peligro manifiesto en su persona, cuando conforme a las circunstancias pudiere hacerlo sin riesgo propio ni de terceros, o al que no estando en condiciones de prestarlo no diere aviso inmediato a la autoridad o no solicitare auxilio a quienes pudieren prestarlo, se le impondrá prisión de tres a cinco meses o trabajo en favor de la comunidad hasta por el mismo tiempo.
 
-### CAPITULO III. RAPTO
+### CAPITULO III. TRATA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 144.
 
@@ -1371,11 +1371,15 @@ La pena prevista en el Artículo anterior se aumentará hasta en una mitad más 
 
 I.- Que se realice con violencia o se veje a la víctima;
 
-II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente, y
+II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente, y (sic)
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
 
 III.- Que la privación se prolongue por más de 48 horas.
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2011)</small>
+
+IV. Que la privación de la libertad tenga el propósito de realizar un acto erótico o sexual.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1467,6 +1471,8 @@ Las conductas previstas por este artículo, serán perseguibles por querella, cu
 
 En los demás casos será perseguible por oficio.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+
 ### CAPITULO II. ACCESO ILICITO A SISTEMAS DE INFORMATICA
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2011)</small>
@@ -1485,21 +1491,69 @@ Al que sin autorización conozca o copie información contenida en sistemas o eq
 
 A quien sin autorización conozca, obtenga, copie o utilice información contenida en cualquier sistema, equipo o medio de almacenamiento informáticos de seguridad pública, protegido o no por algún medio de seguridad, se le impondrá pena de cuatro a diez años de prisión y multa de quinientos a setecientos cincuenta días multa. Si el responsable es o hubiera sido servidor público en una institución de seguridad pública, se impondrá además, destitución e inhabilitación de cuatro a diez años para desempeñarse en cualquier empleo, puesto, cargo o comisión de carácter público.
 
-###### ARTICULO 151.
+###### Artículo 151.
 
-Al que sustraiga o retenga a una persona por medio de violencia, seducción o engaño, para realizar algún acto erótico sexual o para casarse, se le impondrá prisión de tres meses a cuatro años.
+Se le impondrá de 10 a 18 años de prisión y de 100 a 350 días multa a quién capte, reclute, enganche, traslade, entregue o reciba a una o varias personas a través del engaño, la violencia física o moral, privación de la libertad, el abuso de poder o el abuso de una situación de vulnerabilidad, con fines de:
 
-###### ARTICULO 152.
+I. Explotación sexual;
 
-Al que con los fines a que se refiere el Artículo precedente sustraiga o retenga a una persona menor de doce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pudiera resistir, se le impondrá prisión de un año a seis años.
+II. Explotación laboral;
 
-###### ARTICULO 153.
+III. Explotación económica;
 
-Cuando el agente contraiga matrimonio con la persona ofendida se extinguirán la pretensión punitiva o la ejecución de la pena en su caso; en relación con él o con los demás que intervengan en el delito, salvo que se declare nulo o inexistente el matrimonio.
+IV. Trabajos o servicios forzados;
 
-###### ARTICULO 154.
+V. Esclavitud;
 
-El delito de rapto se perseguirá por querella.
+VI. Servidumbre;
+
+VII. Venta de personas;
+
+VIII. Matrimonio forzado o servil; o
+
+IX. Extracción de órganos, tejidos o componentes.
+
+El consentimiento otorgado por la víctima, cualquiera que sea su edad y en cualquier modalidad del delito no excluye de responsabilidad.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+###### Artículo 152.
+
+Cuando este delito sea cometido en contra de una persona menor de 18 años de edad o en contra de quien no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, no se requerirá acreditación de los medios comisivos señalados en el párrafo primero del artículo anterior.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+###### Artículo 153.
+
+Se equipara a trata de personas y se sancionará con prisión de 12 a 20 años y de 250 a 750 días multa, a quien:
+
+I. Obtenga algún beneficio económico o de cualquier otra índole, para sí o para una tercera persona, de la explotación sexual, la explotación laboral, la explotación económica, los trabajos o servicios forzados, la esclavitud, la servidumbre, la venta o el matrimonio forzado o servil, de una o más personas;
+
+II. Ofrezca o solicite para sí o para una tercera persona, la explotación sexual, explotación laboral, explotación económica, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonios forzados o serviles de una o más personas;
+
+III. Promueva, facilite, procure, favorezca o induzca la explotación sexual, explotación laboral, explotación económica, los trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil de una o más personas;
+
+IV. Mantenga o retenga a una o más personas en explotación sexual, explotación laboral, explotación económica, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil; o
+
+V. Celebre con otro un acuerdo que prive a éste de la libertad o le imponga condiciones que lo sujeten a explotación sexual, explotación laboral, trabajos o servicios forzados, esclavitud, servidumbre, venta o matrimonio forzado o servil.
+
+Si se empleara engaño, violencia física o moral, abuso de poder o el sujeto activo se aproveche de una situación de vulnerabilidad del pasivo, la pena aplicable será de 12 a 25 años de prisión y de 500 a 750 días de multa.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+###### Artículo 154.
+
+Las penas a las que hacen referencia los artículos 151 y 153 de este Código, se incrementarán en una mitad más, cuando se trate de:
+
+I. Persona menor de 18 años o mayor de 60 años de edad o no tenga la capacidad para comprender el significado del hecho o capacidad de resistirlo;
+
+II. Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlos, por un tiempo igual al de la pena de prisión impuesta, la cual iniciará una vez que haya compurgado la pena privativa de libertad;
+
+III. Cuando el sujeto activo tenga parentesco por consanguinidad o afinidad hasta en el cuarto grado o parentesco civil o habite en el mismo domicilio con la víctima o tenga una relación sentimental o de hecho con el sujeto pasivo. Además, en su caso, perderá el ejercicio de la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta;
+
+IV. Cuando exista entre el sujeto pasivo y el activo una relación de confianza, cuidado, guarda o educación; o
+
+V. Cuando el sujeto activo sea un ministro de culto religioso.
 
 ## TITULO QUINTO. DELITOS CONTRA LA PAZ Y
 
@@ -1507,7 +1561,7 @@ SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO I. VIOLACIÓN
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 155.
 
@@ -1532,6 +1586,8 @@ En caso de que el asaltante logre su fin, se acumulará a la pena señalada en e
 Cuando el asalto se cometa contra un poblado se les penará con prisión de seis a veinte años.
 
 ### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ## TITULO SEXTO. DELITO CONTRA LA
 
@@ -1591,25 +1647,31 @@ E INEXPERIENCIA SEXUALES
 
 ### CAPITULO III. DISPOSICIONES COMUNES
 
-###### ARTICULO 160.
+###### Artículo 160.
 
-Al que por medio de la violencia realice cópula con una persona sin el consentimiento de ésta, se le impondrá pena de 3 a 10 años de prisión.
+Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo sin el consentimiento de ésta, se le impondrá pena de 5 a 12 años de prisión.
 
-Se impondrán las mismas penas señaladas en el párrafo anterior al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+Se entiende por cópula, la introducción del órgano sexual masculino en el cuerpo humano por vía vaginal, anal o bucal.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991) (F. DE E., 27 DE FEBRERO DE 1992)
+Se impondrán las mismas penas señaladas en este artículo al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-###### ARTICULO 161.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Cuando las conductas previstas en el artículo anterior se realicen sin emplear violencia con persona impúber o que no tenga capacidad para comprender, o que por cualquier causa no pueda resistir la conducta delictuosa se le impondrá al agente prisión de 3 a 10 años.
+###### Artículo 161.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+Se equipara a la violación y se sancionará con pena de 8 a 20 años de prisión al que:
 
-Cuando las conductas se realicen por medio de la violencia en los casos del párrafo anterior, la pena se aumentará hasta en una mitad más.
+I. Realice cópula con persona menor de doce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo; o
 
-###### ARTICULO 162.
+II. Introduzca por vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, sea cual fuere el sexo del ofendido, en una persona menor de doce años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
 
-Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, la pena prevista en el Artículo anterior podrá aumentarse conforme a lo señalado en el Segundo párrafo del mismo precepto, y será privado además del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto del ofendido.
+Si se ejerciera violencia física o moral o la conducta delictiva sea cometida por dos o más personas, la pena prevista se aumentará en una mitad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
+
+###### Artículo 162.
+
+Cuando la violación se realice aprovechando la autoridad que se ejerza legalmente sobre la víctima, la pena prevista en el artículo anterior se aumentará hasta en una mitad más y el agente será privado del ejercicio de la patria potestad, de la tutela o custodia y, en su caso, de los derechos sucesorios con respecto del ofendido.
 
 Si la violación es cometida aprovechando los medios o circunstancias que le proporcione el empleo, cargo o profesión que se ejerce, se aplicará la misma pena de prisión señalada en el párrafo que antecede y se le privará del cargo o empleo o se le suspenderá del ejercicio del empleo, cargo o profesión por el término de cinco años.
 
@@ -1617,9 +1679,11 @@ Si la violación es cometida aprovechando los medios o circunstancias que le pro
 
 Cuando la violación sea cometida por dos o más personas se impondrá prisión de ocho a veinte años.
 
-###### ARTICULO 164.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-La violación entre cónyuges sólo se perseguirá por querella.
+###### Artículo 164.
+
+Si entre el activo y el pasivo de la violación existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella.
 
 ### CAPITULO I. ROBO
 
@@ -1633,9 +1697,11 @@ Si mediare la violencia, se aumentará hasta una mitad más la pena de prisión 
 
 Si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano o hermana contra su colateral, el tutor con su pupilo o por cualquier persona que habite en el mismo domicilio que la víctima, la pena prevista se aumentará en una mitad más. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, sin perjuicio del concurso de delitos.
 
-###### ARTICULO 166.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
-Al que sin el propósito de llegar a la cópula ejecute un acto erótico sexual en persona impúber, o que no tenga capacidad de comprender, o que por cualquier causa no pueda resistir dichos actos, o la obligue a ejecutarlos, se le impondrá prisión de 2 a 4 años.
+###### Artículo 166.
+
+Al que sin el propósito de llegar a la cópula, ejecute un acto erótico sexual en persona menor de doce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o la obligue a ejecutarlos, se le impondrá prisión de 2 a 7 años.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1645,9 +1711,11 @@ La pena se aumentará en una mitad más cuando se empleare violencia o si el del
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-###### ARTICULO 167.
+###### Artículo 167.
 
-Al que por medio de la seducción o engaño realice cópula con mujer casta y honesta, púber, menor de 17 años, se le impondrá prisión de 4 meses a 6 años.
+Al que tenga cópula con persona mayor de 12 años y menor de 18 años, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de 4 meses a 6 años de prisión.
+
+Este delito se perseguirá por querella de la persona ofendida o de quienes ejerzan la patria potestad o a falta de éstos, de sus legítimos representantes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2003)</small>
 
@@ -1659,7 +1727,9 @@ Al que por medio de la seducción o engaño realice cópula con mujer casta y ho
 
 Los delitos previstos en este Título, con excepción de la violación, y tomando en cuenta lo señalado en el Artículo 164 de este Código, serán perseguidos por querella.
 
-En el delito de estupro, el matrimonio del agente con el ofendido extingue la pretensión punitiva y la potestad de ejecución con relación a todos los participantes.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+
+Se procederá de oficio a la persecución de los delitos previstos en este Título, cuando las víctimas sean personas menores de edad o que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo, con excepción del delito de estupro.
 
 ###### ARTICULO 169.
 
@@ -1857,7 +1927,7 @@ II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descri
 
 III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
 
-> <small>(REFORMADO, P.O.15 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 190.
 
@@ -1976,6 +2046,8 @@ Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta 
 Se entenderá que los intereses o lucros son usurarios, cuando sean superiores a las tasas de interés bancario autorizadas en la fecha de la celebración del acto jurídico.
 
 ### CAPITULO III. TRAFICO DE MENORES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 197.
 
@@ -2133,33 +2205,31 @@ Si el agente devuelve al menor o incapaz espontáneamente, dentro de los 3 días
 
 ###### ARTICULO 213.
 
-Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva a cambio de un beneficio económico, se le aplicará prisión de 2 a 9 años y de 100 a 400 días multa.
+Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia o tutela de un menor o persona que no tenga capacidad para comprender el significado del hecho, aunque aquéllas no hayan sido declaradas, ilegítimamente lo entregue a un tercero para su custodia definitiva a cambio de un beneficio económico, se le aplicará prisión de 2 a 9 años y de 100 a 400 días multa.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo, al tercero que reciba al menor y a todas aquellas personas que colaboren en la comisión del ilícito.
+Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo, al tercero que reciba al menor o a la persona que no tenga capacidad para comprender el significado del hecho y a todas aquellas personas que colaboren en la comisión del ilícito.
 
-Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de 1 a 3 años de prisión.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+Si la entrega definitiva del menor o de la persona que no tenga capacidad para comprender el significado del hecho se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de 1 a 3 años de prisión.
 
-Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal situación, se le impondrá prisión de 2 a 5 años y de 80 a 200 días de multa.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+Si se acredita que quien recibió al menor o a la persona que no tenga capacidad para comprender el significado del hecho lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal situación, se le impondrá prisión de 2 a 5 años y de 80 a 200 días de multa.
 
-Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial o la persona que trafique o reciba al menor sea pariente en línea recta sin limitación de grado y en línea transversal hasta el tercer grado, las penas se aumentarán hasta el doble de las previstas en aquél.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial o la persona que trafique o reciba al menor o a la persona que no tenga capacidad para comprender el significado del hecho sea pariente en línea recta sin limitación de grado y en línea transversal hasta el tercer grado, las penas se aumentarán hasta el doble de las previstas en aquél.
 
-Si quien recibe al menor lo hace para efectos de explotarlo sexualmente, la pena será de 5 a 25 años de prisión. Si la comisión del delito tiene por objeto la extracción y uso de órganos del menor, la pena será de 7 a 30 años de prisión.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
+Cuando el menor o la persona que no tenga capacidad para comprender el significado del hecho sean trasladados fuera del Estado, la pena que resulte aplicable se aumentará en una tercera parte y si dicho traslado es fuera del territorio mexicano, el incremento de la pena será de la mitad.
 
-Cuando el menor sea trasladado fuera del Estado, la pena que resulte aplicable se aumentará en una tercera parte y si dicho traslado es fuera del territorio mexicano, el incremento de la pena será de la mitad.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
-
-Si el menor es restituido espontáneamente al seno familiar del que se sustrajo o es entregado a la autoridad dentro del plazo de siete días de ocurrido el hecho, sin haberle causado algún daño, se impondrá una tercera parte de la pena que corresponda.
+Si el menor o la persona que no tenga capacidad para comprender el significado del hecho es restituido espontáneamente al seno familiar del que se sustrajo o es entregado a la autoridad dentro del plazo de siete días después de ocurrido el hecho, sin haberle causado algún daño, se impondrá una tercera parte de la pena que corresponda.
 
 A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este Artículo, se les sancionará, además, con privación de aquel y de los derechos de familia en relación con el ofendido.
 
@@ -2317,9 +2387,9 @@ MEDIOS DE TRANSPORTE Y DE LA VÍAS
 
 DE COMUNICACIÓN
 
-### CAPITULO I. CORRUPCION Y EXPLOTACION DE MENORES O INCAPACES
+### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 222.
 
@@ -2351,7 +2421,9 @@ Al que por cualquier medio destruya total o parcialmente un vehículo de servici
 
 Cuando se cause algún daño por medio de cualquier vehículo de motor, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO II. LENOCINIO
+### CAPITULO II. PORNOGRAFIA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 228.
 
@@ -2373,7 +2445,15 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 En ambos casos se estará a lo dispuesto en el Artículo 227 de esta Ley.
 
-### CAPITULO III. TRATA DE PERSONAS
+### CAPITULO III. TURISMO SEXUAL CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER El SIGNIFICADO DEL HECHO
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
+
+Artículo 238 BIS.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viajen al interior o exterior del territorio del Estado, con la finalidad de que sostengan actos erótico sexuales con menores de dieciocho años de edad o con personas que no tengan capacidad para comprender el significado del hecho o para que éste o éstos viajen con esa finalidad o financie cualquiera de las actividades antes descritas, se le impondrá una pena de 4 a 8 años de prisión y de 100 a 400 días multa.
+
+A quien tenga actos erótico sexuales con persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de 6 a 12 años de prisión y de 200 a 500 días multa.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 229.
 
@@ -2385,17 +2465,13 @@ En tratándose de cónyuges, concubinos, ascendientes y descendientes, hermanos,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO IV. PORNOGRAFIA CON MENORES O INCAPACES
+### CAPITULO IV. RELACIONES SEXUALES REMUNERADAS CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
 
-ARTICULO 239 BIS.- Al que por cualquier medio filme, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales de menores de dieciocho años de edad o de incapaces, con el fin de exhibirlos, difundirlos, o trasmitirlos por cualquier medio impreso o electrónico, se le impondrá prisión de 2 a 10 años, de 20 a 600 días multa y se la inhabilitará para ser tutor o curador.
+Artículo 238 TER.- Al que pague con dinero o en especie, a la víctima o a un tercero, para obtener cópula o sostener actos erótico sexuales con una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrá pena de 6 a 12 años de prisión y de 200 a 500 días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-La misma pena se le impondrá a quién:
-
-I. Elabore, reproduzca, venda, arriende, exponga, publique o transmita el material a que se refiere este tipo penal, además de decomiso de los objetos, instrumentos y productos del delito.
-
-II. Procure o facilite la realización de las conductas ilícitas señaladas en el presente artículo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO ÚNICO. DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
@@ -2541,69 +2617,95 @@ Al que haga uso de un documento falso o alterado para obtener un beneficio o cau
 
 Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
 
-## TITULO CUARTO. DELITOS CONTRA LA MORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
 
-PUBLICA
+## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO II. MOTÍN
 
-###### ARTICULO 236.
+###### Artículo 236.
 
-Al que induzca, incite o auxilie a un menor de dieciocho años de edad o a un incapaz a la práctica de la mendicidad, se le impondrá prisión de 6 meses a 4 años y de 30 a 200 días multa.
+Comete el delito de corrupción, el que procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de una persona menor de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho o capacidad de resistirlo, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de 2 a 10 años de prisión y de 100 a 350 días multa.
 
-Al que procure o facilite la depravación sexual de un menor de dieciocho años de edad o un incapaz, o lo induzca, incite o auxilie a realizar actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, consumo de sustancias prohibidas, a formar parte de una asociación delictuosa o a cometer cualquier otra conducta o hechos previstos por la Ley como delitos, se le impondrá prisión de 2 a 10 años, y de 200 a 750 días multa.
+La misma pena se impondrá a quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo reiterado de bebidas embriagantes o la generación o práctica de algún otro vicio o que induzca a persona menor de dieciocho años de edad a formar parte de grupos de delincuencia organizada, involucrarse en una asociación delictuosa o pandilla o a cometer cualquier delito.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de una persona menor de edad o que no tengan la capacidad de comprender el significado del hecho, se le aplicará pena de 3 a 12 años de prisión y de 150 a 450 días multa.
 
-Las sanciones que señalan los dos párrafos anteriores se duplicarán cuando el infractor tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiera parentesco alguno, así como por el tutor o curador; asimismo, perderá el ejercicio de la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondieran por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
+Cuando los actos de corrupción se realicen reiteradamente sobre la misma persona menor de edad o que no tenga capacidad para comprender el significado del hecho y, debido a ello, éstos adquieren los hábitos del alcoholismo, de adicción a narcóticos, de sustancias tóxicas u otras que produzcan efectos similares o a formar parte de delincuencia organizada, asociación delictuosa o pandilla, la sanción señalada en los párrafos anteriores se aumentará en un tercio de la misma.
 
-En los supuestos citados, además de la penalidad señalada, se inhabilitará al sujeto activo para ser tutor o curador.
+Todo sujeto pasivo de este delito, quedará sujeto a los tratamientos médicos y psicológicos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ser ratificadas o modificadas por el juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-###### ARTICULO 237.
+###### Artículo 237.
 
-Al que emplee a un menor de dieciocho años de edad o a un incapaz, en lugares que por su naturaleza sean nocivos a su formación moral, psicológica, o su óptimo desarrollo físico, se le impondrá prisión de 3 meses a 1 año, sin perjuicio de la aplicación de sanciones administrativas a que haya lugar.
+Al que emplee a una persona menor de dieciocho años de edad o a quienes no tuvieren capacidad para comprender el significado del hecho, en lugares que por su naturaleza sean nocivos a su formación moral, psicológica, o su óptimo desarrollo físico, se le impondrá prisión de 3 meses a 1 año, sin perjuicio de la aplicación de· las sanciones administrativas a que haya lugar.
 
-A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de 6 meses a 2 años y se les privará o suspenderá o inhabilitará hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
+A los padres o tutores que acepten que las personas menores de edad o que no tengan capacidad para comprender el significado del hecho, sujetas a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de 6 meses a 2 años.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+Para los efectos de este precepto se considerará que es empleado, la persona menor de 18 años de edad o la que no tuvieren (sic) capacidad para comprender el significado del hecho que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
 
-Para los efectos de este precepto se considerará que es empleado, el menor de 18 años de edad que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
+Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
+
+Artículo 237 BIS.- A quien permita el acceso de una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de 1 a 3 años y de 20 a 200 días multa.
+
+Las mismas penas se impondrán al que ejecute o haga ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho.
+
+A quien por cualesquier medio venda, difunda o exhiba material pornográfico entre menores de edad o personas que no tengan capacidad para comprender el significado del hecho, se le impondrá prisión de 6 meses a 1 año y de 10 a 150 días multa.
+
+Se impondrá pena de 4 a 8 años de prisión y de 100 a 300 días multa a quien induzca, facilite, procure, propicie u obligue a una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, a realizar, por cualquier medio y sin fines comerciales, actos o exhibiciones eróticos o sexuales, públicos o privados.
+
+No se actualizarán estos delitos tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO III. REBELIÓN
 
-###### ARTICULO 238.
+###### Artículo 238.
 
-Al que explote el comercio sexual de otro, se mantenga de este comercio u obtenga de él un beneficio cualquiera o administre o sostenga lugares dedicados a explotar la prostitución, se le impondrá prisión de 6 meses a 8 años y hasta 500 días multa.
+Comete el delito de pornografía de personas menores de dieciocho años de edad o que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo:
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+I. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas;
 
-Si la persona objeto de la explotación fuere menor de dieciocho años de edad o incapaz, la pena de prisión se aumentará hasta en una mitad.
+II. Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas;
+
+III. Quien posea intencionalmente imágenes, sonidos o la voz de personas menores de edad o que no tengan la capacidad de comprender el significado del hecho o capacidad para resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades de exhibicionismo corporal, sexuales o eróticas, explícitas o no, reales o simuladas; y
+
+IV. Quien financie, dirija, administre o supervise cualquiera de las actividades previstas en las fracciones anteriores.
+
+Al autor de los delitos previstos en las fracciones I y II, se le impondrá la pena de 2 a 10 años de prisión y de 100 a 600 días multa. Al autor de los delitos previstos en la fracción III, se le impondrá la pena de un 1 a 5 años de prisión y de 100 a 300 días multa. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de 2 a 12 años y de 300 a 600 días multa.
+
+Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO IV. TERRORISMO
 
 ### CAPITULO V. SABOTAJE
 
-###### ARTICULO 239.
+###### Artículo 239.
 
-Se le impondrá prisión de 6 meses a 8 años y hasta 500 días multa:
+Las penas que resulten aplicables por los delitos previstos en los Capítulos I, II, III y IV de este Título, se aumentarán en una tercera parte si concurre alguna de las circunstancias siguientes:
 
-I.- Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, y
+I. Que el sujeto activo se valga de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En el primer caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro; si el sujeto activo fuera un profesionista, se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; para el caso de que el sujeto activo realice funciones de servicio público y privadas respecto de alguna profesión, podrá ser destituido del empleo cargo o comisión públicos e inhabilitado para desempeñar otro y se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; o
 
-II.- Al que por cualquier medio, retenga a una persona en la práctica de la prostitución contra su voluntad.
+II. Que el sujeto activo del delito tenga parentesco por consanguinidad o afinidad hasta el cuarto grado o habite ocasional o permanentemente en el mismo domicilio que la víctima o tenga una relación análoga al parentesco con el sujeto pasivo.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+Los sujetos activos de los delitos a que se refieren los Capítulos I, II, III y IV de este Título, quedarán inhabilitados para ser tutores o curadores hasta por cinco años y serán privados, en su caso, del ejercicio de la patria potestad sobre la víctima.
 
-Si el sujeto pasivo fuere menor de 18 años de edad o incapaz, la prisión se aumentará hasta en la mitad.
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+ARTICULO 239 BIS.- Al que por cualquier medio filme, grabe o imprima actos de exhibicionismo corporal, lascivos o sexuales de menores de dieciocho años de edad o de incapaces, con el fin de exhibirlos, difundirlos, o trasmitirlos por cualquier medio impreso o electrónico, se le impondrá prisión de 2 a 10 años, de 20 a 600 días multa y se la inhabilitará para ser tutor o curador.
 
-Si se emplease violencia o el sujeto activo fuere servidor público o ascendiente, cónyuge, concubino, hermano, tutor, profesor o docente del sujeto pasivo y se valiese de su función para cometerlo, la pena se aumentará de tres meses a tres años más de prisión.
+La misma pena se le impondrá a quién:
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE OCTUBRE DE 2002)</small>
+I. Elabore, reproduzca, venda, arriende, exponga, publique o transmita el material a que se refiere este tipo penal, además de decomiso de los objetos, instrumentos y productos del delito.
+
+II. Procure o facilite la realización de las conductas ilícitas señaladas en el presente artículo.
 
 ## TITULO QUINTO. DELITOS CONTRA EL RESPETO A
 
@@ -3934,3 +4036,9 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Articulo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 15 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
