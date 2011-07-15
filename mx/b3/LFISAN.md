@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2010-12-31"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 31 DE DICIEMBRE DE 2010.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 15 DE JULIO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2011, D.O.F. DEL 15 DE JULIO DE 2011.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $186,732.90. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2011, D.O.F. DEL 15 DE JULIO DE 2011.</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2581,3 +2581,43 @@ G. Código de Claves Vehiculares:
 1. Autorizadas.
 
 > <small>N. DE E. VEASE CODIGO DE CLAVES VEHICULARES EN LA SEGUNDA SECCION DEL D.O.F. DE 31 DE DICIEMBRE DE 2010, PAGINAS DE LA 28 A LA 41.</small>
+
+D.O.F. 15 DE JULIO DE 2011.
+
+LA RESOLUCION DE MODIFICACIONES A LA MISCELANEA FISCAL PARA 2011 CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+Anexo 15 de la Resolución Miscelánea Fiscal para 2011
+
+Contenido
+
+Impuesto sobre Tenencia o Uso de Vehículos
+
+A. Tarifa para determinar el impuesto sobre tenencia o uso de vehículos nuevos para el año 2011
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 73.</small>
+
+B. Tarifa para determinar el impuesto sobre tenencia o uso de motocicletas nuevas para el año 2011.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 73.</small>
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2002.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 73.</small>
+
+D. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2011.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 74.</small>
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2011.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 74.</small>
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2011.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINA 74.</small>
+
+G. Código de Claves Vehiculares:
+
+1. Autorizadas.
+
+> <small>N. DE E. VEASE TARIFA EN LA SEGUNDA, TERCERA Y CUARTA SECCION DEL D.O.F. DE 15 DE JULIO DE 2011, PAGINAS DE LA 74 A LA 112, 1 A LA 112 Y 1 A LA 112 RESPECTIVAMENTE.</small>
