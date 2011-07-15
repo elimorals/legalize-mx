@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-publica-del-31414"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-05-20"
-last_updated: "2008-10-31"
+last_updated: "2011-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31414&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-07"
 
 LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JULIO DE 2011.
 
 Ley Orgánica publicada en la Gaceta Oficial del Distrito Federal, el martes 20 de mayo de 2003.
 
@@ -140,11 +140,11 @@ XXVII. Establecer las características de la identificación oficial de los serv
 
 XXVIII. Autorizar los procedimientos administrativos de la Secretaría en materia de administración de recursos humanos, materiales y servicios generales de la misma, atendiendo los lineamientos y normas que al efecto emita la Oficialía Mayor del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2011)</small>
 
-XXIX. Difundir a la sociedad los resultados de la supervisión de la actuación policial y de la verificación del cumplimiento de las obligaciones de los elementos de policía, así como de los mecanismos de medición de su desempeño;
+XXIX. Difundir a la sociedad a través de los órganos de representación ciudadana, comités ciudadanos, consejos del pueblo y comités delegacionales de seguridad publica, los resultados de la supervisión de la actuación policial y de la verificación del cumplimiento de las obligaciones de los elementos de policía, así como de los mecanismos de medición de su desempeño;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1022,7 +1022,11 @@ VI. La realización de actividades de colaboración para el desempeño de accion
 
 En los programas cuya formulación, instrumentación, control o evaluación correspondan a la Secretaría, se contemplarán acciones tendientes a:
 
-I. Lograr el respeto de la comunidad a los elementos de la Policía y el reconocimiento de sus funciones, mediante la participación en reuniones a que fueren convocados por los órganos de representación vecinal o por vecinos organizados residentes de las áreas geográficas de atención correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 15 DE JULIO DE 2011)</small>
+
+I. Lograr el respeto de la comunidad a los elementos de la Policía y el reconocimiento de sus funciones, mediante la participación en reuniones a que fueren convocados por los órganos de representación ciudadana electos en las colonias y pueblos o por vecinos organizados residentes de las áreas geográficas de atención correspondientes;
 
 II. Difundir las labores que se realizan, incluyendo investigaciones, evaluaciones y mecanismos de medición de desempeño, escuchar y atender las peticiones que les fueran formuladas y en general dar respuesta a las inquietudes que fueren planteadas, relacionadas con la función que desempeñan,
 
@@ -1040,13 +1044,21 @@ VII. Realizar y difundir semestralmente, por unidades y coordinaciones territori
 
 La Secretaría podrá celebrar los convenios necesarios con las instancias competentes, para implementar dichas jornadas de difusión, prevención, educación y comunicación, respecto de los temas previstos en esta fracción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
+
 ###### Artículo 63.
 
-La Secretaría difundirá entre los habitantes de las áreas geográficas de atención, los cuadrantes de patrullaje, los vehículos asignados para el mismo así como los elementos responsables de llevarlo a cabo y promoverá entre los mismos la elección, en asamblea vecinal convocada al efecto, de un coordinador de seguridad vecinal.
+La Secretaría difundirá entre los vecinos y habitantes de las áreas geográficas de atención, los cuadrantes de patrullaje, los vehículos asignados para el mismo así como los elementos responsables de llevarlo a cabo y promoverá entre los mismos la elección, mediante asamblea ciudadana convocada para tal efecto por el comité ciudadano o consejo del pueblo electo, y esta será preparada a través del coordinador interno que haya sido asignado en la coordinación de seguridad ciudadana y prevención del delito dentro del comité o consejo del pueblo, sin menoscabar la función y responsabilidad del presidente del comité o consejo del pueblo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 64.
 
-Los titulares de las Unidades de Protección Ciudadana convocarán bimestralmente a los órganos de representación vecinal y a los vecinos organizados residentes de las áreas geográficas de atención correspondientes, a reuniones que se celebrarán en las instalaciones de las propias unidades en las que se rendirá un informe respecto a la actuación policial en la zona de que se trate referente a:
+Los titulares de las Unidades de Protección Ciudadana convocarán bimestralmente a los órganos de representación ciudadana electos en las colonias, pueblos y vecinos organizados residentes de las áreas geográficas de atención correspondientes, a reuniones que se celebrarán en las instalaciones de las propias unidades en las que se rendirá un informe respecto a la actuación policial en la zona de que se trate referente a:
 
 I. La capacidad de respuesta a los llamados para la intervención de las unidades,
 
@@ -1056,13 +1068,21 @@ III. Tiempos de respuesta a las llamadas de auxilio o solicitud de presencia.
 
 A dichas reuniones acudirán el titular de la Unidad de Protección Ciudadana de que se trate, el oficial a cargo del grupo que actúa en la zona de que se trate y un elemento del mismo grupo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
+
 ###### Artículo 65.
 
-Los órganos de representación vecinal y los vecinos organizados a que se refiere el artículo anterior designaran un representante que fungirá como enlace entre la Unidad de Protección Ciudadana y los habitantes del cuadrante de patrullaje, a efecto de poner en conocimiento de la misma las necesidades en materia de acciones policiales de prevención del delito, referentes principalmente a la identificación de lugares o zonas de comisión recurrente de ilícitos, detección de presuntos delincuentes o infractores, funcionamiento deficiente o insuficiente de los elementos de la Policía y en general a la adopción de acciones y medidas tendientes a incrementar los niveles de seguridad vecinal.
+Los órganos de representación ciudadana electos en las colonias y pueblos a que se refiere el artículo anterior, mediante sesión interna de comité ciudadano o consejo del pueblo designarán al coordinador interno que se hará cargo de la coordinación de seguridad ciudadana y de prevención del delito dentro del comité ciudadano o consejo del pueblo en los términos de la ley de participación ciudadana; que a su vez fungirá como enlace entre la Unidad de Protección Ciudadana y los vecinos y habitantes del cuadrante de patrullaje, a efecto de poner en conocimiento de la misma las necesidades en materia de acciones policiales de prevención del delito, referentes principalmente a la identificación de lugares o zonas de comisión recurrente de ilícitos, detección de presuntos delincuentes o infractores, funcionamiento deficiente o insuficiente de los elementos de la Policía y en general a la adopción de acciones y medidas tendientes a incrementar los niveles de seguridad vecinal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 66.
 
-La Secretaría establecerá mecanismos de medición y difusión del desempeño de los elementos de la Policía en cada una de las áreas geográficas de atención en que se divida el Distrito Federal, con el objeto de que las representaciones vecinales que se establezcan en las colonias de la Ciudad de México evalúen el desempeño de dicho elementos, considerando factores como:
+La Secretaría establecerá mecanismos de medición y difusión del desempeño de los elementos de la Policía en cada una de las áreas geográficas de atención en que se divida el Distrito Federal, con el objeto de que los representantes ciudadanos a través de los comités ciudadanos o consejos del pueblo electos en las colonias de la Ciudad de México evalúen el desempeño de dicho (sic) elementos, considerando factores como:
 
 I. Respuesta a llamadas de auxilio o a solicitudes de presencia;
 
@@ -1147,3 +1167,9 @@ TERCERO.- De conformidad con el artículo 39 de la Ley Orgánica de la Secretar�
 ...
 
 QUINTO.- La Secretaría de Seguridad Pública del Gobierno del Distrito Federal, establecerá la estructura administrativa, así como los recursos humanos y materiales necesarios para la creación del cuerpo de policía ambiental con los recursos adicionales que le sean autorizados.
+
+G.O. 15 DE JULIO DE 2011.
+
+PRIMERO. Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrara en vigor a los noventa días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
