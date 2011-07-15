@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2011-07-08"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 8 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -179,9 +177,9 @@ La Ley garantizará al Procurador su independencia y autonomía en el desempeño
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
 
@@ -2059,7 +2057,7 @@ No se requerirá declaración de procedencia del Congreso del Estado cuando algu
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -3316,3 +3314,17 @@ PRIMERO.- Córrase traslado a los Ayuntamientos de Baja California, para dar cum
 SEGUNDO.- Una vez emitido el voto aprobatorio por la mayoría de los Ayuntamientos, emítase la declaratoria de incorporación Constitucional de las adiciones que contiene el presente decreto.
 
 TERCERO.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, con las consideraciones que se establezcan en los artículos subsecuentes.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto los alumnos y las personas de nuevo ingreso a los espacios educativos pertenecientes a los subsistemas estatales de educación media superior, y que en base a la realización de estudio socioeconómico que lo justifique serán exentas de la obligación del pago de cuotas.
+
+TERCERO.- La gratuidad en los espacios de los subsistemas estatales de educación media superior será de forma gradual conforme a los siguientes plazos:
+
+El monto de la cuantía que por concepto de cuotas realizan los subsistemas, se reducirá, el veinticinco por ciento para el Ciclo Escolar 2011-2012, el cincuenta por ciento para el Ciclo Escolar 2012-2013, el setenta y cinco por ciento para el Ciclo Escolar 2013-2014, a partir del Ciclo Escolar 2014-2015 no se realizará cobro alguno de servicio educativo.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, y de forma simultánea a los descuentos señalados en el artículo transitorio anterior, las instituciones educativas pertenecientes a los subsistemas estatales de educación media superior, implementarán esquemas que faciliten o sustituyan el pago de las cuotas de inscripción a todos los alumnos o personas que deseen ingresar a los espacios educativos, y que no se encuentren en el supuesto del Transitorio Segundo del presente Decreto.
+
+QUINTO.- Córrase el trámite que señala el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California a los Municipios para que emitan su opinión, en los términos de Ley.
