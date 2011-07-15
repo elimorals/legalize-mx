@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2010-02-22"
+last_updated: "2011-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY ESTATAL DE PROTECCION AMBIENTAL
 
-LEY NUMERO 62 ESTATAL DE PROTECCION AMBIENTAL
+LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JULIO DE 2011.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -757,7 +757,7 @@ VII.- El uso de materiales y tecnologías de construcción apropiados al medio a
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -1015,7 +1015,7 @@ XII. Diseñar, editar y producir materiales de difusión, divulgación, informac
 
 XIII. Promover la coordinación entre las diferentes instancias oficiales y no gubernamentales, involucradas con el quehacer ambiental y educativo en la entidad, con la finalidad de optimizar recursos humanos, materiales y económicos, para así estar en posibilidad de lograr en un menor tiempo la concientización de la sociedad sobre los problemas ambientales y su participación en las posibles alternativas de solución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 59.
 
@@ -1345,7 +1345,7 @@ Declarada un área natural protegida, solo podrá modificarse su extensión y lo
 
 El Registro Estatal de Espacios Naturales Protegidos estará conformado por el Sistema Estatal de Áreas Naturales Protegidas y el Sistema Estatal de Áreas Privadas y Sociales de Conservación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 96.
 
@@ -1819,7 +1819,7 @@ En el ámbito de competencia de la Secretaría, tanto para las fuentes fijas o m
 
 Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 146 Bis.
 
@@ -2285,7 +2285,7 @@ Corresponde a los municipios:
 
 I.- Proporcionar a la Secretaría, la información y apoyo que requiera para la realización de los estudios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE FEBRERO DE 2007)</small>
 
 II.- Con base en la comunicación, que en los términos del párrafo último del artículo anterior, le haga la Secretaría:
 
@@ -2333,11 +2333,13 @@ IV.- Promoverá el establecimiento de reconocimiento a los esfuerzos más destac
 
 V.- Impulsará el fortalecimiento de la conciencia ecológica a través de la realización de acciones conjuntas con la comunidad para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales y el correcto manejo de desechos. Para ello, podrá en forma coordinada con los municipios, celebrar convenios, de concertación con comunidades urbanas, rurales e indígenas, así como con diversas organizaciones sociales.
 
-VI.- Propondrá a las Comisiones Municipales de Ecología, mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
 
-### CAPÍTULO III. COMISIONES MUNICIPALES DE ECOLOGÍA
+VI.- Propondrá a los Consejos Municipales de Medio Ambiente y Desarrollo Sustentable mecanismos adecuados para intensificar la participación de representantes de los sectores de la sociedad, así como de organizaciones e instituciones.
 
-> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2007)</small>
+### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 184.
 
@@ -2347,13 +2349,63 @@ VI.- Propondrá a las Comisiones Municipales de Ecología, mecanismos adecuados 
 
 (DEROGADO, G.O. 7 DE FEBRERO DE 2007)
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JULIO DE 2011)</small>
+
 ### CAPÍTULO IV. DERECHO A LA INFORMACIÓN AMBIENTAL
 
 ###### Artículo 186.
 
-En cada municipio se integrará una Comisión Municipal de Ecología, que estará presidida por el Presidente Municipal y como Secretario Técnico fungirá el edil encargado de la Comisión de Ecología o en su caso, un ciudadano destacado en el área ambiental que no sea servidor público. Los vocales podrán ser servidores públicos de dependencia y organismos auxiliares del Gobierno; representantes de instituciones educativas y de investigación; representantes de organizaciones sociales; delegados de dependencias y entidades federales, y especialistas en la materia.
+En cada municipio del Estado se integrará un Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, como órgano de consulta, asesoría, promoción y proposición de acciones, dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable, en términos de esta Ley y demás disposiciones aplicables.
 
-Corresponderá a las Comisiones Municipales de Ecología, identificar las acciones para preservar y restaurar el equilibrio ecológico y la protección al ambiente en el municipio, proponer prioridades y programas para su atención, así como impulsar la participación en estas tareas, de los sectores público, social y privado.
+Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable se integrarán por:
+
+I. El Presidente Municipal, quien lo presidirá;
+
+II. El Edil que tenga a su cargo la Comisión Municipal de Ecología del Ayuntamiento;
+
+III. Un representante del sector académico, preferentemente especializado en la materia;
+
+IV. Dos representantes del sector privado, comercial o empresarial;
+
+V. Dos representantes de la sociedad civil;
+
+VI. Un servidor público municipal, designado por el Presidente, responsable de una de las áreas administrativas que tenga relación con la materia; y
+
+VII. Un representante, en su caso, de los pueblos o comunidades indígenas que se ubiquen en el municipio.
+
+Todos los integrantes del Consejo Consultivo Municipal tendrán derecho a voz y voto, a excepción del servidor público mencionado en la fracción VI anterior. Los cargos de los integrantes del Consejo son de carácter honorario.
+
+Los representantes de la sociedad civil ante el Consejo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, mayores de edad y contar con méritos científicos, técnicos, académicos o sociales en materia de protección ambiental y aprovechamiento sustentable de los recursos naturales.
+
+Los integrantes serán designados por cada Ayuntamiento, a propuesta del Presidente Municipal, a más tardar en el mes de febrero del año en que inicie sus funciones, por un periodo de tres años y podrán ser ratificados por un periodo más. Los Consejos deberán instalarse formalmente en sesión de Cabildo. Cada consejero titular deberá nombrar a un sustituto, el cual deberá ser aprobado por el Presidente del Consejo.
+
+El Consejo Consultivo podrá invitar, con derecho a voz pero sin voto, a las instituciones y representantes de la sociedad, en particular, a organizaciones académicas, de investigación y de profesionales especialistas en la materia, así como a ciudadanos que puedan exponer conocimientos, experiencias o propuestas para el cumplimiento de los objetivos de este órgano. Asimismo, podrá ser invitado cualquier edil que lo solicite.
+
+El Consejo designará de entre sus miembros a un Secretario Técnico, quien será responsable de convocar a las sesiones, previo acuerdo con el Presidente, así como de dar seguimiento a los acuerdos emitidos y los demás asuntos que le encomiende el Consejo.
+
+El Consejo Consultivo sesionará de manera ordinaria, por lo menos, cada tres meses y de manera extraordinaria las veces que sean necesarias para el cumplimiento de sus fines. Sus decisiones se tomarán por mayoría de votos, privilegiando en todo momento el diálogo. En caso de empate, quien presida tendrá voto de calidad. El Ayuntamiento podrá emitir el reglamento interior del Consejo Consultivo.
+
+> <small>(ADICIONADO, G.O. 15 DE JULIO DE 2011)</small>
+
+###### Artículo 186 Bis.
+
+Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable tendrán las siguientes atribuciones:
+
+l. Proponer al Ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable en sus municipios;
+
+II. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental de los municipios;
+
+III. Constituirse en un vínculo con la ciudadanía y sus organizaciones sociales, procurando su participación en la solución de los problemas ambientales;
+
+IV. Fomentar la cultura de la protección al ambiente y programas de educación ambiental en sus municipios;
+
+V. Coadyuvar en la evaluación de las acciones y programas que, en la materia, se efectúen por las áreas administrativas del Ayuntamiento;
+
+VI. Proponer a la autoridad estatal en materia ambiental, líneas estratégicas en los temas relacionados con el objeto de esta ley en el ámbito territorial del municipio;
+
+VII. Dar aviso al Ayuntamiento o a las autoridades competentes en la materia sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio; y
+
+VIII. Las demás que determinen esta Ley y otros ordenamientos legales aplicables en la materia o el Ayuntamiento.
 
 ### CAPÍTULO I. DE LA COMPETENCIA
 
@@ -2787,7 +2839,7 @@ Gobernador del Estado
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 7 DE FEBRERO DE 2007.
 
@@ -2814,3 +2866,9 @@ Tercero. Los procedimientos y recursos administrativos relacionados con las mate
 Cuarto. Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto seguirán vigentes por el término en que fueron otorgados; su prórroga, en su caso, se sujetará a las disposiciones del presente Decreto.
 
 Quinto. Los titulares de concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto, tendrán derecho de prelación respecto a las autorizaciones a que se refiere el artículo 146 Bis, para instalar centros de verificación vehicular o verificentros.
+
+G.O. 15 DE JULIO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable deberán quedar instalados dentro de un término de 90 días a partir de la entrada en vigor del presente Decreto.
