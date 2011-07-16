@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2011-06-22"
+last_updated: "2011-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -231,21 +231,25 @@ XIII. Intervenir en aquellas cuestiones que se refieran al cumplimiento de las l
 
 XIV. Reunir los datos necesarios para la elaboración de los informes que el Presidente deba rendir al Ayuntamiento y a los Poderes Legislativo y Ejecutivo del Estado;
 
-XV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2011)</small>
+
+XV. Vigilar el cumplimiento de las disposiciones aplicables en materia de regulación de actividades comerciales en el Municipio, y
 
 XVI. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 16.
 
 Para el mejor desempeño de sus atribuciones, el Secretario se auxiliará de las siguientes Direcciones de Área:
 
-l. Dirección Jurídica;
+I. Dirección Jurídica;
 
-II. Dirección de Gobierno, y
+II. Dirección de Gobierno;
 
-III. Dirección de Oficialía Jurídica y Barandilla.
+III. Dirección de Comercio, y
+
+IV. Dirección de Oficialía Jurídica y Barandilla.
 
 ###### Artículo 17.
 
@@ -289,9 +293,29 @@ El Director de Gobierno se encargará de atender y tramitar los permisos para la
 
 El Director de Gobierno llevará el libro de actas de las Sesiones del Ayuntamiento, el registro necesario para el cumplimiento de las obligaciones en materia de servicio militar, y el de las personas que estén en aptitud de ser nombradas tutores. Se encargará de coordinar al Tribunal Para Menores, al Consejo Local de Tutelas y las demás áreas que le delegue el Secretario. Además el ejercicio de las atribuciones que le confieran las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2011)</small>
+
 ###### Artículo 22.
 
-(DEROGADO, P.O. 2 DE AGOSTO DE 2008)
+Son atribuciones del Director de Comercio:
+
+I. Regular la actividad comercial desarrollada dentro del Municipio;
+
+II. Autorizar, otorgar y revalidar los permisos para ejercer la actividad de comercio, de acuerdo a la administración del desarrollo urbano;
+
+III. Administrar los mercados públicos municipales;
+
+IV. Regular, vigilar y sancionar el funcionamiento de los mercados públicos y privados de conformidad con las disposiciones legales aplicables;
+
+V. Autorizar, otorgar y regular los permisos temporales para el ejercicio del comercio en eventos festivos;
+
+VI. La aplicación, previa autorización del Presidente Municipal, de las disposiciones contenidas en la Ley que Regula el Funcionamiento de Establecimientos en los que se Expenden, Distribuyen o Ingieren Bebidas Alcohólicas;
+
+VII. Llevar a cabo la práctica de inspecciones para verificar el cumplimiento de las disposiciones aplicables en materia de ejercicio del comercio, comisionando para ello al personal necesario;
+
+VIII. Vigilar el funcionamiento de los servicios funerarios y de las salas de masaje que operan en el Municipio, y
+
+IX. Las demás que le señalen las Leyes, Reglamentos y manuales de organización.
 
 ###### Artículo 23.
 
@@ -1087,7 +1111,7 @@ La Dirección General de Promoción Financiera y Económica estará encargada de
 
 Son atribuciones del Director General de Promoción Financiera y Económica:
 
-I. Gestionar ante las dependencias federales y estatales encargadas de la asignación de los presupuestos, el otorgamiento de recursos para el Municipio;
+I. (DEROGADA, P.O. 16 DE JULIO DE 2011)
 
 II. Intervenir ante los organismos internacionales competentes para solicitar la aportación de recursos a programas de desarrollo municipal;
 
@@ -1105,43 +1129,21 @@ VIII. Propiciar la organización de agrupaciones con objeto de desarrollar activ
 
 IX. Diseñar y evaluar proyectos de desarrollo económico municipal y promover su realización con la participación de los agentes económicos privados;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-X. Vigilar el cumplimiento de las disposiciones aplicables en materia de regulación de actividades comerciales en el Municipio, y
+X. (DEROGADA, P.O. 16 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 XI. Las demás que le señalen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 73.
 
 Para el cumplimiento de las atribuciones señaladas en las fracciones I, II y III del artículo que antecede, el Director General tendrá a su cargo la dirección de área denominada, Dirección de Promoción Financiera.
 
-Para el ejercicio de las fracciones IV a la IX, contará con la dirección de área que se denominará, Dirección de Fomento Económico; y para el ejercicio de la fracción X, contará con la Dirección de Comercio, que tendrá las atribuciones previstas en el siguiente artículo.
+Para el ejercicio de las fracciones IV a la IX, contará con la dirección de área que se denominará, Dirección de Fomento Económico.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-Artículo 73 bis.- Son atribuciones del Director de Comercio:
-
-I. Regular la actividad comercial desarrollada dentro del Municipio;
-
-II. Autorizar, otorgar y revalidar los permisos para ejercer la actividad de comercio, de acuerdo a la administración del desarrollo urbano;
-
-III. Administrar los mercados públicos municipales;
-
-IV. Regular, vigilar y sancionar el funcionamiento de los mercados públicos y privados de conformidad con las disposiciones legales aplicables;
-
-V. Autorizar, otorgar y regular los permisos temporales para el ejercicio del comercio en eventos festivos;
-
-VI. Vigilar, regular y sancionar previo (sic) autorización del Presidente, el incumplimiento de las disposiciones contenidas en la Ley que Regula el Funcionamiento de los Establecimientos en los que Expenden, Distribuyen o Ingieren Bebidas Alcohólicas;
-
-VII. Llevar a cabo la práctica de inspecciones para verificar el cumplimiento de las disposiciones aplicables en materia de ejercicio del comercio, comisionando para ello al personal necesario;
-
-VIII. Vigilar el funcionamiento de los servicios funerarios y de las salas de masaje que operan en el Municipio, y
-
-IX. Las demás que le señalen las Leyes, Reglamentos y manuales de organización.
+Artículo 73 bis.- (DEROGADO, P.O. 16 DE JULIO DE 2011)
 
 DIRECCION GENERAL DE ASENTAMIENTOS HUMANOS
 
@@ -1519,7 +1521,9 @@ IV. Evaluar la relación que guarden los programas y presupuestos de las diversa
 
 V. Apoyar las actividades que en materia de investigación y asesoría para la planeación, realicen las dependencias y entidades de la Administración Pública Municipal;
 
-VI. Gestionar ante la Federación y el Estado la autorización de inversiones que contribuyan a consolidar el desarrollo económico y social del municipio;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
+
+VI. Gestionar ante la Federación y el Estado la autorización de inversiones y el otorgamiento de recursos para el Municipio, ante las dependencias encargadas de la asignación de los presupuestos, que contribuyan a consolidar el desarrollo económico y social del municipio;
 
 VII. Cumplir con la normatividad en materia de planeación y programación del desarrollo social en la aplicación de los programas municipales directos y concertados;
 
@@ -1666,3 +1670,7 @@ UNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente d
 P.O. 22 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 16 DE JULIO DE 2011.
+
+ÚNICO.- Las reformas contenidas en el presente acuerdo, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
