@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2011-05-14"
+last_updated: "2011-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -251,7 +251,7 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simp
 
 ###### Artículo 30.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria.
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria..
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
@@ -517,9 +517,9 @@ III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia;
 
 IV.- A los Ayuntamientos; y
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
 
-V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 3% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
+V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 2% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -917,7 +917,7 @@ El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Juz
 
 La Ley Orgánica del Poder Judicial del Estado fijará las atribuciones de los Tribunales y establecerá los procedimientos a que deben sujetarse en la impartición de justicia.
 
-La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la ley orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
+La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por esta Constitución y la Ley Orgánica respectiva, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado; ejercerán las funciones jurisdiccionales y su ejecución con autonomía absoluta.
 
 Los recintos del pleno del Supremo Tribunal, de sus salas y de los juzgados, son inviolables.
 
@@ -1537,11 +1537,11 @@ Los Ayuntamientos presentarán al Congreso del Estado su cuenta pública anual, 
 
 La aprobación del dictamen de revisión por el Cabildo no impide que, en su caso, el Congreso del Estado finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 96.
 
-Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 4% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la ley respectiva.
+Los ciudadanos de un municipio debidamente identificados, podrán presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el 3% de los inscritos en el padrón electoral municipal respectivo. Las iniciativas presentadas conforme a este párrafo, deberán ser dictaminadas a más tardar seis meses después de que se reciban. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2879,7 +2879,7 @@ Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Es
 
 CUARTO.- En tanto se nombra al Auditor Superior del Estado, fungirá como tal el Titular de la Contaduría Mayor de Hacienda del Congreso del Estado por un término de hasta 120 días posterior a la entrada en vigor del presente Decreto. Si al concluir dicho plazo, el Congreso del Estado no ha nombrado al Auditor Superior del Estado en los términos de la Ley, el actual será sustituido por la C.P. Ma. Cristina González Márquez, Subcontadora Mayor de Hacienda del Estado de Colima, hasta en tanto se designe al definitivo.
 
-QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría..
+QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría.
 
 SEXTO.- La presentación, revisión, fiscalización y dictamen de las cuentas públicas del segundo semestre del ejercicio fiscal 2008, primero y segundo del ejercicio fiscal 2009, se tramitarán hasta su conclusión en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima y demás legislación vigente antes de la entrada en vigor del presente Decreto.
 
@@ -2892,6 +2892,10 @@ El Gobernador del Estado dispondrá que se publique, circule y observe".
 P.O. 14 DE MAYO DE 2011.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE JULIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
