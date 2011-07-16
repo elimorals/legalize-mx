@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-448
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-07"
-last_updated: "2005-05-07"
+last_updated: "2011-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de mayo de 2005.
 
@@ -431,9 +431,87 @@ XXVIII. Coordinar y supervisar la ejecución de las actividades catastrales en e
 
 XXIX. Coordinar y supervisar las funciones de la Oficina de Enlace Estatal, con la Secretaría de Relaciones Exteriores;
 
-XXX. Recaudar los ingresos provenientes de los estacionamientos, propiedad del Gobierno del Estado; y,
+XXX. Recaudar los ingresos provenientes de los estacionamientos, propiedad del Gobierno del Estado; y, (sic)
 
-XXXI. Las demás contenidas en otras disposiciones fiscales y administrativas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2011)</small>
+
+XXXI. Revisar y en su caso, modificar o revocar las resoluciones administrativas de carácter individual no favorables a un particular, emitidas por las Direcciones, Subdirecciones y Jefes inferiores jerárquicamente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE JULIO DE 2011)</small>
+
+XXXII. Las demás contenidas en otras disposiciones fiscales y administrativas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2011)</small>
+
+Artículo 14 bis.- La Dirección General de Ingresos, en materia de comercio exterior, atenderá además el despacho de los siguientes asuntos y tendrá las siguientes facultades:
+
+I.- Establecer, previo acuerdo con el Secretario, las políticas y lineamientos que se deben seguir en las materias de: comprobación del cumplimiento de las obligaciones aduaneras; embargo precautorio de mercancías extranjeras respecto de las cuales no se acredite la legal importación, tenencia o estancia en el país; procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación; visitas domiciliarias, auditorias y revisiones de escritorio efectuadas con el objeto de verificar la legal importación, almacenaje, estancia o tenencia en territorio nacional de toda clase de mercancías de procedencia extranjera; verificaciones de origen; determinación de la base del impuesto general de importación; liquidación de los impuestos que se causen por la introducción ilegal de mercancías y vehículos a territorio nacional que se encuentren dentro de la circunscripción territorial del Estado de San Luis Potosí, determinación de derechos de trámite aduanero, aplicación de cuotas compensatorias e imposición de multas por infracciones a las disposiciones fiscales y aduaneras; habilitación de los lugares en que se depositen las mercancías y vehículos embargados con motivo del ejercicio de facultades de comprobación; destrucción, donación, asignación o venta de mercancías de procedencia extranjera; así como de la verificación del cumplimiento de las regulaciones y restricciones no arancelarias y normas oficiales mexicanas aplicables;
+
+II. Elaborar las propuestas de programación para la práctica de visitas domiciliarias, revisiones de escritorio y verificación de mercancías y vehículos de procedencia extranjera, a efecto de presentadas a los comités y subcomités correspondientes, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal;
+
+III. Ordenar y practicar visitas domiciliarias, verificación de mercancías, auditorías, revisiones de escritorio y verificaciones de origen dentro de la circunscripción territorial del Estado de San Luis Potosí, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+IV. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, que se encuentren dentro de la circunscripción territorial del Estado de San Luis Potosí, incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera de conformidad con la legislación aplicable;
+
+V. Ordenar y practicar la verificación de vehículos de procedencia extranjera en circulación dentro de la circunscripción territorial del Estado de San Luis Potosí, aun cuando no se encuentren en movimiento, a fin dé comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera, de conformidad con la legislación aplicable;
+
+VI. Ordenar, firmar, decretar, practicar el aseguramiento, así como el embargo precautorio de mercancías de comercio exterior y sus medios de transporte, en los supuestos que establece la Ley Aduanera y demás legislación federal aplicable; cuando no se acredite su legal importación, tenencia o estancia en el país, así como respecto de los vehículos de origen o procedencia extranjera que no acrediten su legal estancia en el país;
+
+VII. Iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de sus facultades de comprobación, en los términos que establece la legislación aduanera;
+
+VIII. Verificar el cumplimiento de las regulaciones y restricciones no arancelarias en las mercancías de comercio exterior, cuotas compensatorias e inclusive respecto de las normas oficiales mexicanas aplicables;
+
+IX. Determinar los impuestos, derechos de trámite aduanero y aplicar las cuotas compensatorias que se originen por la introducción ilegal a territorio nacional de mercancías o vehículos extranjeros, así como su actualización, recargos y demás accesorios, y determinar en cantidad liquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, con motivo de la práctica de visitas domiciliarias, actos de verificación, auditorias y revisiones de escritorio, de conformidad con las disposiciones fiscales y aduaneras aplicables;
+
+X. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados los hechos u omisiones imputables a éstos, conocidos con motivo de las visitas domiciliarias, haciendo constar dichos hechos y omisiones en la última acta parcial que se levante, así como emitir el oficio de observaciones y el de conclusión tratándose de revisiones de escritorio y prorrogar en su caso, los plazos en que se deban concluir las visitas domiciliarias, auditorias o revisiones de escritorio; así como dejar sin efectos las órdenes correspondientes y reponer, cuando proceda, el procedimiento de visita domiciliaria en términos del Código Fiscal de la Federación;
+
+XI. Recibir y, en su caso, requerir de los contribuyentes, responsables solidarios y terceros con ellos relacionados, para que exhiban y, cuando proceda, proporcionen la contabilidad, los avisos, declaraciones, pedimentos, manifestaciones y demás datos, documentos e informes de conformidad con las disposiciones legales aplicables, a efecto de llevar a cabo su revisión; así como autorizar prórrogas para su presentación;
+
+XII. Recabar de las autoridades competentes y de los fedatarios, los informes y datos con que cuenten a fin de verificar el cumplimiento de las disposiciones legales en materia aduanera;
+
+XIII. Notificar al interesado los actos administrativos y las resoluciones dictadas en el ámbito de su competencia, a través de las cuales se determinen los créditos fiscales correspondientes y sus accesorios;
+
+XIV. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución de los mismos;
+
+XV. Expedir las cartas credenciales o constancias de identificación de los servidores públicos que se autoricen para la práctica de las visitas domiciliarias, notificaciones, verificaciones, para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
+
+XVI. Emitir las cartas credenciales o constancias respectivas a los servidores públicos que realicen los actos de fiscalización relacionados con la verificación del cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de las mercancías y los vehículos de procedencia extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país cuando circulen en el estado de San Luis Potosí; así como para las notificaciones, verificaciones y para la realización de embargos precautorios, así como para los demás actos derivados del ejercicio de sus atribuciones;
+
+XVII. Designar a los visitadores, auditores, verificadores, clasificadores arancelarios y notificadores, así como al demás personal necesario para la práctica de los actos de su competencia;
+
+XVIII. Declarar que las mercancías o vehículos objeto del procedimiento administrativo en materia aduanera, pasan a propiedad del Fisco Federal;
+
+XIX. Determinar, previo acuerdo con el Secretario, el destino de las mercancías y vehículos que hayan sido asignados a favor del Estado;
+
+XX. Imponer las multas que correspondan por el incumplimiento de las obligaciones fiscales y aduaneras, incluidas las derivadas de la determinación de devoluciones improcedentes y, en su caso, previo acuerdo con el Secretario, reducirlas o condonarlas en términos de la normatividad fiscal y aduanera aplicable;
+
+XXI. Intercambiar, previo acuerdo con el Secretario, los vehículos que hayan sido asignados a favor del Estado con otras entidades federativas, de conformidad con la normatividad que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+XXII. Enajenar, previo acuerdo con el Secretario los vehículos que hayan sido asignados a favor del Estado, siempre que éstos estén inutilizados permanentemente para la circulación, en los términos de la normatividad que emita la Secretaría de Hacienda y Crédito Público;
+
+XXIII. Remitir a la Procuraduría Fiscal del Estado los asuntos en los que proceda formular querellas y declaratoria de perjuicio del fisco derivados de los actos relativos al ejercicio de sus atribuciones;
+
+XXIV. Resolver el levantamiento del embargo precautorio y la entrega de las mercancías, medios de transporte o vehículos embargados precautoriamente, antes de la conclusión del procedimiento aduanero;
+
+XXV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
+
+XXVI. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
+
+XXVII. Solicitar la colaboración de las instituciones de seguridad pública, procuración e impartición de justicia, y demás autoridades competentes, en los términos de las disposiciones legales aplicables;
+
+XXVIII. Designar depositarias de las mercancías embargadas dentro del procedimiento administrativo en materia aduanera a las autoridades fiscales de los municipios con quienes así se acuerde o a terceras personas e incluso al propio interesado, conforme a lo dispuesto en la Ley Aduanera;
+
+XXIX. Verificar el correcto cumplimiento de las obligaciones derivadas del régimen aduanero al que hayan sido sometidas las mercancías y los vehículos de procedencia extranjera, excepto aeronaves: incluso aquellas derivadas de los programas de fomento a la exportación otorgados por la Secretaría de Economía;
+
+XXX. Determinar la destrucción, donación, asignación o venta, antes de emitir la resolución definitiva del procedimiento administrativo correspondiente de las mercancías perecederas, de fácil descomposición o deterioro o los animales vivos embargados precautoriamente, de conformidad con lo dispuesto en la legislación federal aplicable;
+
+XXXI. Declarar que las mercancías y vehículos embargados precautoriamente han causado abandono a favor del Fisco Federal, de conformidad con lo establecido en la Ley Aduanera y demás legislación federal aplicable;
+
+XXXII. Habilitar los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados precautoriamente, los cuales adquirirán la categoría de recintos fiscales;
+
+XXXIII. Ejercer las demás facultades que resulten necesarias para la ejecución de las disposiciones estipuladas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y su Anexo en materia de comercio exterior; y
+
+XXXIV. Las demás que le señalen las Leyes Fiscales, de Comercio Exterior, y aduaneras, decretos, convenios, acuerdos, reglamentos y manuales vigentes en la Secretaria y en general toda la legislación y normatividad aplicable en Comercio Exterior vigente.
 
 ###### Artículo 15.
 
@@ -661,19 +739,45 @@ XI. Mantener actualizado el Padrón de Contribuyentes, debidamente coordinado co
 
 XII. Coordinar con los organismos federales y estatales que corresponda, los controles y los avances de las actividades en materia fiscalizadora;
 
-XIII. Vigilar el cumplimiento de las Leyes Federales y Estatales de la materia y los acuerdos emanados de los órganos del Sistema Nacional de Coordinación Fiscal y ejercer las facultades de comprobación contenidas en estas disposiciones fiscales;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
 
-XIV. Ordenar y practicar el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, vigilando que sea suficiente para garantizar el interés fiscal determinable, así como levantarlo cuando proceda;
+XIII. Vigilar, aplicar y promover el cumplimiento de las leyes federales y estatales de la materia y los convenios y sus anexos, acuerdos emanados de los órganos del Sistema Nacional de Coordinación Fiscal y ejercer las facultades de comprobación contenidas en estas disposiciones fiscales;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
+
+XIV. Ordenar, firmar y practicar el aseguramiento de los bienes o la negociación de los contribuyentes de conformidad con lo previsto en el articulo 145-A del Código Fiscal de la Federación; así como el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, vigilando que sea suficiente para garantizar el interés fiscal determinable, así como levantarlo cuando proceda;
 
 XV. Expedir las credenciales o constancias de identificación personal que se autorice para la práctica de las visitas domiciliarias, auditorias, notificaciones, inspecciones, verificaciones y demás actos de comprobación de las obligaciones fiscales;
 
 XVI. Certificar la autenticidad y procedencia de documentos relacionados con las funciones de la Dirección a su cargo;
 
-XVII. Determinar los créditos fiscales omitidos por los contribuyentes e imponer sanciones por incumplimiento a las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
+
+XVII.- Determinar y suscribir los créditos fiscales sobre contribuciones a los contribuyentes e imponer sanciones por incumplimiento a las disposiciones fiscales; en cuanto a las multas, previo acuerdo con el Secretario y/o Director General de Ingresos, condonarlas total o parcialmente en términos de la normatividad fiscal aplicable;
 
 XVIII. Certificar hechos y expedir las constancias correspondientes, así como expedir certificaciones de los expedientes relativos a los asuntos de su competencia; y,
 
-XIX. Los demás que le señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Secretaría.
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2011)</small>
+
+XIX. Coordinarse en materia de su competencia con las autoridades fiscales de otras entidades federativas para el mejor ejercicio de sus facultades;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2011)</small>
+
+XX. Gestionar ante los órganos federales y estatales, así como particulares, la capacitación del personal adscrito a la Dirección; y
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
+
+XXI. Los demás que les señalen las leyes, decretos, acuerdos, reglamentos y manuales vigentes en la Secretaria.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2011)</small>
+
+Artículo 20 bis.- La Dirección de Fiscalización, en materia de comercio exterior, atenderá además el despacho de los siguientes asuntos y tendrá además las siguientes facultades:
+
+I.- Las expresamente señaladas en todo el artículo 14 bis de este Reglamento; y
+
+II.- Las demás que le señalen las leyes fiscales, de comercio exterior y aduaneras, decretos, convenios, acuerdos, reglamentos y manuales vigentes en la Secretaria y en general toda la legislación y normatividad aplicable en Comercio Exterior vigente.
+
+La Dirección de Fiscalización, se auxiliará, en el ejercicio de sus facultades, de verificadores quienes tendrán facultades para requerir y recibir documentación y demás elementos de los particulares; así como identificar, determinar el valor y clasificación arancelaria de mercancías de procedencia extranjera, en términos de las disposiciones aplicables en materia aduanera; además para llevar a cabo los actos necesarios para cerciorarse del cumplimiento de las disposiciones legales que regulan y gravan la entrada al territorio nacional de mercancías y medios de transporte.
 
 ###### Artículo 21.
 
@@ -1134,3 +1238,11 @@ EL SECRETARIO DE FINANZAS
 C.P.C. JOEL AZUARA ROBLES
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2011.
+
+Primero: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo: Se derogan todas las disposiciones legales que se opongan a la entrada en vigor del presente Decreto.
