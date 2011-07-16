@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2011-07-02"
+last_updated: "2011-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -379,17 +379,33 @@ La Asamblea es la instancia resolutiva de las leyes, decretos y acuerdos que com
 
 ### CAPÍTULO II. COMISIÓN DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+
 ###### Artículo 34.
 
-Al inicio del período constitucional del Congreso, se conformará la Comisión de Gobierno que estará integrada por un presidente y tantos vicepresidentes como grupos parlamentarios existan en la Legislatura y un secretario, que serán aprobados por la Asamblea.
+Al inicio del período del Congreso, previa declaratoria de constitución de los grupos y representaciones parlamentarias, el pleno aprobará la conformación de la Comisión de Gobierno que fungirá durante el ejercicio constitucional de la Legislatura, misma que estará integrada en los siguientes términos:
 
-Será presidente de la misma, por el término de la Legislatura, el diputado coordinador de aquel grupo parlamentario que por sí mismo cuente con la mayoría absoluta de la Cámara. En caso de que ningún grupo parlamentario se encuentre en el supuesto señalado, la responsabilidad de presidirla corresponderá de manera sucesiva a los coordinadores de los grupos parlamentarios acreditados en la Legislatura, previa aprobación del pleno, en orden decreciente del número de diputados que los integren. Esta encomienda tendrá un período de duración de acuerdo al número de grupos parlamentarios existentes en la Cámara de Diputados, dividiendo entre éstos el tiempo que dura el período constitucional.
+a) Presidente; Coordinador del Grupo Parlamentario con mayor número de diputados;
+
+b) Vicepresidentes; Coordinadores del resto de los Grupos Parlamentarios;
+
+c) Vocales; Diputados con representación parlamentaria; y
+
+d) Secretario.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 El Presidente del Congreso hará la declaratoria de constitución de este órgano de gobierno, el cual a partir de ese momento ejercerá sus atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2011)</small>
+
 ###### Artículo 35.
 
-La Comisión de Gobierno fungirá como una instancia de dirección a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión se adoptarán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada partido, respecto del total de la Asamblea; y tendrá las siguientes atribuciones:
+La Comisión de Gobierno fungirá como una instancia de dirección a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas de la Cámara de Diputados. Los acuerdos que tome esta Comisión se adoptarán por votación ponderada, es decir en atención al porcentaje de representación que corresponda al número de diputados de cada· partido, respecto del total de la Asamblea, y en caso de empate el presidente tendrá voto de calidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PARRAFO], P.O. 16 DE JULIO DE 2011)</small>
+
+La Comisión de Gobierno tendrá las siguientes atribuciones:
 
 I. Representar la pluralidad de los partidos políticos acreditados en el Congreso en los términos de la presente ley.
 
@@ -1304,3 +1320,7 @@ P.O. 2 DE JULIO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor en treinta días posteriores a la fecha de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá publicarse edición especial de la Gaceta Parlamentaria con el contenido íntegro de la Ley Orgánica del Poder Legislativo y Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 16 DE JULIO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial, órgano del Gobierno del Estado.
