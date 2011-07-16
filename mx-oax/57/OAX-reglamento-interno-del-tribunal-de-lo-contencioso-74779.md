@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-tribunal-de-lo-contencioso-74779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-09"
-last_updated: "2010-04-09"
+last_updated: "2011-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el viernes 9 de abril de 2010.
 
@@ -425,27 +425,13 @@ XX. Las demás que le encomiende el Pleno, la Presidencia y la Sala Superior.
 
 Las ausencias del Secretario General de Acuerdos serán cubiertas por el Secretario de Estudio y Cuenta o el Actuario de la adscripción correspondiente.
 
-#### SECCIÓN SEGUNDA. DE LOS JUECES INSTRUCTORES
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JULIO DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS JUECES INSTRUCTORES Y DEL PROCEDIMIENTO DE MEDIACIÓN Y CONCILIACIÓN
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2011)</small>
 
 ###### Artículo 33.
-
-Los Jueces Instructores tendrán las siguientes funciones y atribuciones:
-
-I. Formular los proyectos de resolución que le encomiende la Sala Superior;
-
-II. Llevar a cabo audiencias conciliatorias o de mediación en primera instancia si las partes lo solicitan y sean habilitados para el efecto;
-
-III. Suplir a los Magistrados Ausentes o cuando éstos se excusen;
-
-IV. Excusarse de conocer de los juicios por las causas que prevé el artículo 128 de la Ley, cuando esté comisionado por el Pleno, para resolver los procedimientos en los supuestos de las fracciones IV y VI del artículo 111 de la Ley;
-
-V. Recibir los asuntos que se les asignen, debiendo llevar un adecuado control de los mismos en la instrucción del procedimiento y del recurso;
-
-VI. Auxiliar a los Magistrados de la Sala Superior, en la realización de diversas actividades de la misma, y
-
-VII. Los demás que le encomiende el Pleno, la Presidencia y la Sala Superior.
-
-###### Artículo 34.
 
 Para ser juez se requiere:
 
@@ -456,6 +442,56 @@ II. Tener cuando menos, 25 años de edad a la fecha de su nombramiento, contar c
 III. Tener dos años de ejercicio profesional cuando menos, el día de su nombramiento; y
 
 IV. No haber sido condenado por la comisión de algún delito, excepto culposos por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol, drogas o enervantes.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2011)</small>
+
+###### Artículo 34.
+
+Los Jueces Instructores tendrán las siguientes funciones y atribuciones:
+
+I. Formular los proyectos de resolución de los recursos de revisión que le encomiende la Sala Superior;
+
+II. Llevar a cabo audiencias conciliatorias o de mediación en primera instancia si las partes lo solicitan y sean habilitados para el efecto;
+
+III. Suplir a los Magistrados Ausentes o cuando éstos se excusen;
+
+IV. Excusarse de conocer de los juicios por las causas que prevé el artículo 128 de la Ley, cuando esté comisionado por el Pleno, para resolver los procedimientos en los supuestos de las fracciones IV y VI del artículo 111 de la Ley;
+
+V. Recibir los asuntos que se les asignen por las Salas de Primera Instancia y Sala Superior, debiendo llevar un adecuado control de los mismos en la instrucción del procedimiento y del recurso;
+
+VI. Auxiliar a los Magistrados de la Sala Superior, en la realización de diversas actividades de la misma, y
+
+VII. Los demás que le encomiende el Pleno, la Presidencia y la Sala Superior.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2011)</small>
+
+Artículo 34 BIS.- El procedimiento de mediación o conciliación que lleven a cabo los jueces instructores, se realizará conforme al siguiente procedimiento:
+
+1. La parte que quiera someterse al procedimiento de mediación o conciliación, deberá hacerlo del conocimiento de la Sala de Primera Instancia que conozca del asunto, en cualquier momento del juicio, pero antes de que se cite para sentencia.
+
+2. Con la solicitud, la Sala de Primera Instancia dará vista a la contraparte, para que en el término de tres días contados a partir del día siguiente al en que surta efectos la notificación manifieste si acepta someterse al procedimiento de mediación o conciliación.
+
+3. Cuando la contraparte acepte la mediación o conciliación, la Sala de Primera Instancia formará el cuaderno por separado y lo remitirá a la Secretaría General de Acuerdos del Tribunal.
+
+4. La Secretaría General de Acuerdos conforme al turno correspondiente informará a la Sala de Primera Instancia quien es el Juez Instructor que corresponda mediar o conciliar.
+
+5. La Secretaría General de Acuerdos llevará un control del turno de los Jueces del Tribunal de lo Contencioso Administrativo que corresponda mediar.
+
+6. La Secretaría General de Acuerdos, informará a la Sala de Primera Instancia quien es el Juez que llevará a cabo la mediación o conciliación; de igual manera, requerirá a la Sala un informe sobre el nombre de las partes que se someterán a mediación o conciliación, el domicilio para oír y recibir notificaciones, así como el estado en el que se encuentra el expediente, y si se tienen fechas señaladas para el desahogo de la audiencia final.
+
+7. Con la designación del Juez Instructor la Sala de Primera Instancia dará vista a las partes, para que dentro del término de tres días siguientes manifiesten lo que a sus derechos convenga; transcurrido dicho plazo la Sala enviará el informe correspondiente a la Secretaría General de Acuerdos.
+
+8. La Secretaría General de Acuerdos incorporará al cuaderno de mediación o conciliación la información que remita la Sala de Primera Instancia y remitirá el cuaderno al Juez Instructor.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2011)</small>
+
+Artículo 34 TER. Una vez que el Juez Instructor, reciba el cuaderno de mediación, emitirá acuerdo dentro de los tres días hábiles siguientes y citará a las partes para la audiencia de conciliación o mediación la que deberá celebrarse dentro de los ochos días siguientes a la fecha del citatorio.
+
+El procedimiento de conciliación o mediación podrá desahogarse hasta en tres sesiones, que se realizarán dentro de los ochos días hábiles siguientes a la anterior. Si agotadas las tres sesiones las partes no alcanzan un acuerdo, se dará por concluido el procedimiento.
+
+Cuando las partes hayan alcanzado el acuerdo y celebrado el convenio con la aprobación del juez, o bien cuando no se hubiere alcanzado acuerdo alguno o no hubiere asistido alguna de las partes a las sesiones, el juez agregará al cuaderno de mediación o conciliación todas las actuaciones que hubiere realizado, así como en su caso, el convenio que hubieren suscrito las partes; y lo remitirá a la Sala de Primera Instancia.
+
+Recibido el cuaderno de mediación o conciliación, la Secretaría General de Acuerdos, dará cuenta a la Presidencia para el efecto de remitir a la Sala de Primera Instancia, en su caso, el convenio aprobado y se proceda en términos del artículo 132, fracción VII, de la Ley de Justicia administrativa o bien informarle que no se alcanzó ningún acuerdo para la continuación del procedimiento.
 
 #### SECCIÓN TERCERA. DE LOS SECRETARIOS DE ACUERDOS DE LAS SALAS DE PRIMERA INSTANCIA
 
@@ -1286,3 +1322,9 @@ Que el presente Reglamento Interno del Tribunal de lo Contencioso Administrativo
 LIC. MAYOLO GARCÍA GARCÍA
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE JULIO DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
