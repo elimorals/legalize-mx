@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2011-06-15"
+last_updated: "2011-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -107,7 +107,7 @@ XV. Zona Escolar: Es el área de 100 metros a la redonda a partir de un centro e
 
 XVI. Salarios Mínimos: Son los salarios mínimos generales diarios vigentes en la zona geográfica del Municipio de Juárez, Estado de Chihuahua.
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2011)</small>
 
 XVII. Carril confinado: Carril destinado exclusivamente a la circulación del transporte semimasivo.
 
@@ -1067,11 +1067,11 @@ XXXIII. Cumplir con las sanciones impuestas por la autoridad, por infracciones c
 
 XXXIV. Presentarse ante las autoridades de tránsito cuando así sea requerido; y (sic)
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2011)</small>
 
 XXXV. No conducir, maniobrar, obstruir o invadir por cualquier causa el carril confinado, paraderos o terminales de uso exclusivo del transporte semimasivo, y
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2011)</small>
 
 XXXVI. Las demás que establezca la Ley y el presente Reglamento.
 
@@ -1525,7 +1525,7 @@ XVI. En sentido contrario;
 
 XVII. En batería no permitida;
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2011)</small>
 
 XVIII. En el carril confinado, paraderos o terminales de uso exclusivo del transporte semimasivo.
 
@@ -2190,5 +2190,9 @@ ACUERDO NUMERO 080, POR EL QUE SE ADICIONAN LOS ARTICULOS 77 BIS, 77 TER, 77 QUA
 ÚNICO.- Las condiciones contenidas en el presente acuerdo, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
 
 P.O. 15 DE JUNIO DE 2011.
+
+ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 16 DE JULIO DE 2011.
 
 ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
