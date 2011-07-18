@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2010-10-06"
+last_updated: "2011-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -1399,141 +1399,117 @@ La Secretaría de Seguridad deberá llevar un registro del diseño, implementaci
 
 La Secretaría de Seguridad atenderá en el ámbito de su competencia a las víctimas y a los ofendidos; implementando programas de prevención del delito enfocados a evitar la victimización, los cuales deberán estar a lo dispuesto en este ordenamiento, en la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos y a las demás disposiciones aplicables en la materia.
 
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
+
 # LIBRO DECIMO PRIMERO. DEL ORGANO SANCIONADOR
+
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ## TITULO PRIMERO. DE LA COMISION DE HONOR Y JUSTICIA
 
 ### CAPITULO I. DE SU COMPETENCIA
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 125.
 
-La Comisión de Honor y Justicia tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia.
+La Comisión de Honor y Justicia en materia de Seguridad Municipal tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia; dicho Órgano estará adscrito a la Secretaría de la Contraloría y Transparencia Municipal, y su actuación se regulará de conformidad a lo contemplado en el Reglamento Interior de dicha Secretaría.
+
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ### CAPITULO II. DE SU INTEGRACION
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
-
 ###### ARTÍCULO 126.
 
-La Comisión de Honor y Justicia estará integrada por cinco miembros;
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-I. Un Presidente preferentemente Licenciado en Ciencias Jurídicas, el cual contará con voto de calidad;
-
-II. Cuatro vocales; y
-
-III. Contará además con un Coordinador de Asuntos Internos, quién deberá ser Licenciado en Ciencias Jurídicas, con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus atribuciones.
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ### CAPITULO III. DE LA DESIGNACION DE SUS INTEGRANTES
 
 ###### ARTÍCULO 127.
 
-El Presidente de la Comisión de Honor y Justicia será designado y removido por el Presidente Municipal.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 128.
 
-Los cuatro vocales serán designados o removidos por el Republicano Ayuntamiento. Uno de ellos será un miembro del cuerpo de Policía; otro será miembro del cuerpo de Tránsito; y los dos restantes, serán vecinos del Municipio, de reconocida capacidad y solvencia moral.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 129.
 
-Los vocales integrantes de la Comisión miembros de los cuerpos de Policía y de Tránsito, serán designados por el Republicano Ayuntamiento de entre aquellos que se hayan distinguido en el cumplimiento de su función. La Comisión de Seguridad del Republicano Ayuntamiento analizará los expedientes correspondientes y propondrá al Pleno mediante dictamen razonado su designación.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 130.
 
-Los vocales pertenecientes a las Direcciones de Policía y Tránsito duraran en su cargo un año y podrán ser reelectos las veces que el Republicano Ayuntamiento considere necesario.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 131.
 
-El Coordinador de Asuntos Internos y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia serán designados o removidos por el Presidente de la misma.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
+
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ### CAPITULO IV. DE LOS ACUERDOS Y RESOLUCIONES
 
 ###### ARTÍCULO 132.
 
-Los asuntos competencia de la Comisión de Honor y Justicia se resolverán por mayoría de votos de sus integrantes.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 133.
 
-El Presidente tendrá voto de calidad.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 134.
 
-El quórum necesario para la validez de los acuerdos y resoluciones de la Comisión de Honor y Justicia se integrará con la mayoría de sus miembros.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 135.
 
-El Coordinador de Asuntos Internos del Comité de Honor y Justicia o el servidor público que designe el Pleno del mismo, sustanciará los procedimientos y será el ejecutor de sus acuerdos o resoluciones.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ### CAPITULO III BIS (SIC). DE SU FUNCIONAMIENTO Y ATRIBUCIONES
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+ARTÍCULO 135 BIS. (DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-ARTÍCULO 135 BIS. El funcionamiento y operación interna de la Comisión de Honor y Justicia se llevará a cabo de acuerdo al Manual de Operaciones que para el efecto expida.
+ARTÍCULO 135 BIS 1. (DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+ARTÍCULO 135 BIS 2. (DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-ARTÍCULO 135 BIS 1. Los integrantes de la Comisión de Honor y Justicia deberán excusarse de conocer de un asunto, en los siguientes casos:
+ARTÍCULO 135 BIS 3. (DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-I. Tenga una relación conyugal, o de parentesco por consanguinidad o afinidad del cuarto grado, con el servidor público sujeto a procedimiento; y
+ARTÍCULO 135 BIS 4. (DEROGADO, P.O. 18 DE JULIO DE 2011)
 
-II. Demás causas que se justifiquen en legal forma, tomando como base los impedimentos que señalan el Código de Procedimientos Civiles del Estado.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 135 BIS 2. De toda sesión de la Comisión de Honor y Justicia, el Coordinador de Asuntos Internos levantará acta debidamente suscrita por los que en ella intervengan y así quisieren hacerlo, levantándose constancia en caso de negativa a suscribir el acta.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 135 BIS 3. La Comisión de Honor y Justicia tendrá atribuciones para:
-
-I. Si el caso lo permite, aplicar los medios alternos para la solución de conflictos; y
-
-II. Requerir a las dependencias administrativas municipales para que le proporcionen la información que considere necesaria para el cumplimiento de sus atribuciones.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
-
-ARTÍCULO 135 BIS 4. La Comisión de Honor y Justicia informará a la Secretaria de la Contraloría y Transparencia Municipal y a la dependencia del Gobierno del Estado que corresponda las sanciones administrativas que imponga, en cumplimiento a lo dispuesto por el artículo 94 de la . Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+> <small>(DEROGADO, P.O. 18 DE JULIO DE 2011)</small>
 
 ### CAPITULO V. DEL PROCEDIMIENTO
 
 ###### ARTÍCULO 136.
 
-Las quejas y denuncias en contra del personal adscrito, deben reunir como mínimo, los siguientes requisitos:
-
-I. Generales de la persona que presenta la queja o denuncia;
-
-II. El señalamiento, si lo supiera, del nombre del servidor público, o su media filiación;
-
-III. Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron indebidamente cometidos por el servidor público;
-
-IV. En caso de contar con pruebas, acompañarlas a su queja o denuncia; y
-
-V. No darán inicio al procedimiento administrativo las quejas o denuncias anónimas, pero estas se harán del conocimiento de los titulares de la Secretaría de Seguridad Municipal y Contraloría Municipal.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 137.
 
-La solicitud de instauración de procedimiento administrativo debe formularse por escrito, ser suscrita por el servidor público que la formula acreditando su designación, narración de los hechos que le den origen, el fundamento legal en que se apoya y las pruebas que correspondan.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 138.
 
-La sustanciación del procedimiento de responsabilidad administrativa y la imposición de sanciones se regirá por las Leyes aplicables.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 ###### ARTÍCULO 139.
 
-Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrito y ser suscritas por quienes las autorizaron.
+(DEROGADO, P.O. 18 DE JULIO DE 2011)
 
 # LIBRO DECIMO SEGUNDO. DE LOS RECURSOS
 
 ### CAPITULO UNICO. DEL RECURSO DE REVOCACION
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 140.
 
-El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
+Las resoluciones adoptadas por la Comisión serán impugnables, en la forma y términos que establezca el Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal.
 
 # LIBRO DECIMO TERCERO. DEL PROCEDIMIENTO DE MODIFICACION AL REGLAMENTO
 
@@ -1598,3 +1574,9 @@ Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN Y ADICION AL REGLAM
 Articulo Segundo.- El Comité de Honor y Justicia deberá aprobar en un plazo no mayor a 90 días naturales contados a partir del inicio de la vigencia de este ordenamiento, el Manual de Operaciones a que se refiere el artículo 135 BIS del presente Reglamento.
 
 Artículo Tercero.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 18 DE JULIO DE 2011.
+
+Artículo Primero.- Las presentes reformas modificación y derogación al Reglamento en Materia de Seguridad Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
