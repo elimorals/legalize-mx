@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-proteccion-ambiental-y-desarrollo-65915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-17"
-last_updated: "2009-10-14"
+last_updated: "2011-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2008.
 
@@ -259,7 +259,9 @@ II. El Presidente Municipal.
 
 III. El Secretario del Republicano Ayuntamiento.
 
-IV. La Secretaría de Desarrollo Urbano y Ecología, y;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+
+IV. La Secretaría del Medio Ambiente y Desarrollo Sustentable, y;
 
 V. Las dependencias municipales de la administración pública que al efecto sean designadas por el Republicano Ayuntamiento, previo acuerdo del mismo.
 
@@ -543,7 +545,7 @@ i. Deberá mantener un control permanente y adecuado en cada una de las etapas y
 
 ii. Deberá contar con medidas de contención para evitar la dispersión de materiales de construcción, sobrantes, desperdicios, empaques u otros materiales por fenómenos climáticos como viento, lluvia y otros agentes;
 
-iii. Deberá tener atención especial en el control de ruido derivado de las actividades propias de la obra (movimiento de maquinaria, de camiones, carga y descarga de materiales, de trabajadores, perforaciones, etc). El nivel de ruido no deberá exceder los 68 dB (A), conforme a la Norma Oficial Mexicana NOM-O81-SEMARNAT-1994, en el horario de operación señalado en el Reglamento de Zonificación y Usos de Suelo para el Municipio de San Pedro Garza García, Nuevo León, para lo cual deberá implementar las acciones necesarias, tales como mantenimiento y operación adecuada de equipo y maquinaria, colocación de mamparas, etc.
+iii. Deberá tener atención especial en el control de ruido derivado de las actividades propias de la obra (movimiento de maquinaria, de camiones, carga y descarga de materiales, de trabajadores, perforaciones, etc). El nivel de ruido no deberá exceder los 68 dB (A), conforme a la Norma Oficial Mexicana NOM-081-SEMARNAT-1994, en el horario de operación señalado en el Reglamento de Zonificación y Usos de Suelo para el Municipio de San Pedro Garza García, Nuevo León, para lo cual deberá implementar las acciones necesarias, tales como mantenimiento y operación adecuada de equipo y maquinaria, colocación de mamparas, etc.
 
 iv. Deberán evitarse las actividades de corte y pulido de materiales, estos deberán adquirirse listos para su uso o colocación o en su defecto efectuar los acondicionamientos mencionados en un lugar adecuado y autorizado; en el caso da ser realizados en el predio deberá acondicionarse un área especial, aislada a fin de mitigar emisiones de polvo, ruido o vibraciones que afecte o causen molestias a vecinos.
 
@@ -813,7 +815,7 @@ II. La operación de los sistemas de limpia, manejo y disposición final de resi
 
 III. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje, y;
 
-IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje. (sic)
+IV. El uso de sistemas de reciclamiento de desechos sólidos que permitan disminuir su cantidad, a través de la separación y la clasificación, así como en la operación de otros sistemas de reciclaje.
 
 ###### Artículo 69.
 
@@ -1211,9 +1213,7 @@ Los recursos captados por concepto de reposición de arbolado deberán ser consi
 
 La reposición en especie de arbolado deberá ser conforme a la siguiente Tabla de Reposición de Arbolado; los árboles nativos deberán estar establecidos y su tronco deberá tener 5-cinco centímetros de diámetro de tronco medido a 1.20 un metro veinte centímetros medidos a partir del nivel del suelo.
 
-> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 107 A LA 109.</small>
-
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 14 DE OCTUBRE DE 2009, PÁGINAS DE LA 33 A LA 36.</small>
+> <small>N. DE E. VÉASE LA TABLA EN EL P. O. DE 17 DE DICIEMBRE DE 2008, PÁGINAS DE LA 107 A LA 109; REFORMAS A LA TABLA, P.O. 14 DE OCTUBRE DE 2009, PÁGINAS DE LA 33 A LA 36.</small>
 
 a) Condiciones buenas.- Árbol sano, vigoroso, sin riesgos aparentes de daños mecánicos, biológicos o químicos.
 
@@ -1371,9 +1371,7 @@ Los cargos de los integrantes del Consejo Ciudadano para la Protección Ambienta
 
 El Presidente del Consejo o Secretario Ejecutivo no podrán ejercer otra función similar en materia ambiental en un Consejo Consultivo Ciudadano distinto al que pertenece (sic).
 
-## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES, INSPECCIÓN Y
-
-VIGILANCIA Y PROCEDIMIENTO ADMINISTRATIVO
+## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES, INSPECCIÓN Y VIGILANCIA Y PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO II. DEL INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -1505,6 +1503,8 @@ En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces 
 
 Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+
 ###### Artículo 163.
 
 Se consideran infracciones al presente Reglamento, las siguientes:
@@ -1513,11 +1513,11 @@ I. Dañar un área natural protegida, violar o incumplir las condicionantes, los
 
 II. Durante la construcción y la operación cuando se emitan polvos, partículas u otro material distinto, sin control hacia la vía pública, que afecten o causen molestias a vecinos de predios colindantes durante actividades de construcción;
 
-III. No contar durante la construcción y la operación con medidas de contención para que en caso de algún fenómeno climático se pueda evitar la dispersión de materiales de constricción, sobrantes, desperdicios, empaques u otros materiales;
+III. No contar durante la construcción y la operación con medidas de contención para que en caso de algún fenómeno climático se pueda evitar la dispersión de materiales de construcción, sobrantes, desperdicios, empaques u otros materiales;
 
 IV. No mitigar emisiones de polvo, ruido o vibraciones que afecte o causen molestias a vecinos, por actividades de corte y pulido de materiales de construcción;
 
-V. Colocar afuera del predio o de los contenedores los residuos tanto los de construcción y o (sic) los equiparables a domésticos generados por el personal durante las actividades de construcción;
+V. Colocar afuera del predio o de los contenedores los residuos tanto los de construcción y o los equiparables a domésticos generados por el personal durante las actividades de construcción;
 
 VI. Utilizar los árboles como mesas de trabajo, talado, maltratarlos o podarlos durante las actividades de construcción;
 
@@ -1537,7 +1537,7 @@ XIII. Realizar la quema a cielo abierto de los residuos sólidos urbanos, así c
 
 XIV. Realizar quemas o combustiones que se efectúen con fines de capacitación o adiestramiento de personal para combate de incendios, sin la autorización de la Coordinación de Protección Civil y/o el Visto Bueno de la Secretaría;
 
-XV. Desmontar en forma excesiva o mantener terrenos baldíos en condiciones tales que propicien o generen emisiones de partículas y polvo al aire (“tolvaneras”);
+XV. Desmontar en forma excesiva o mantener terrenos baldíos en condiciones tales que propicien o generen emisiones de partículas y polvo al aire ("tolvaneras");
 
 XVI. Carecer los establecimientos industriales de áreas verdes, ajardinadas o cubierta vegetal que permitan minimizar o eliminar la erosión del suelo y sus consecuentes efectos en la calidad del aire;
 
@@ -1563,7 +1563,7 @@ XXVI. Los establecimientos que generen aceites o grasas lubricantes, solventes g
 
 XXVII. Contaminar el ambiente, causar daños al territorio o bienes, instalaciones, patrimonio municipal por escurrimiento, fuga, derrame o descarga de lixiviados, emisión de olores, dispersión de residuos durante su almacenamiento temporal, recolección o transporte;
 
-XXVIII. Los laboratorios clínicos, consultorios médicos y dentales, clínicas, hospitales y similares cuyo manejo de los residuos peligrosos biológicos-infecciosos no cumplan con lo señalada (sic) en la NOM-087-SEMARNAT-SSA1 2002;
+XXVIII. Los laboratorios clínicos, consultorios médicos y dentales, clínicas, hospitales y similares cuyo manejo de los residuos peligrosos biológico-infecciosos no cumplan con lo señalada (sic) en la NOM-087-SEMARNAT-SSA1 2002;
 
 XXIX. Los establecimientos de servicio, comerciales o industriales donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994;
 
@@ -1597,13 +1597,17 @@ XLIII. No plantar los árboles requeridos para el área de estacionamiento o no 
 
 XLIV. Cuando se realice la tala, mutilación (despunte o desmoche) o poda excesiva o innecesaria de algún árbol, sin la autorización por escrito de la Secretaría;
 
-XLV. Cuando se realice la tala, mutilación (despunte o desmoche), la poda excesiva o innecesaria o se provoque la “muerte” de uno o algunos árboles con una edad mayor a los cien años;
+XLV. Cuando se realice la tala, mutilación (despunte o desmoche), la poda excesiva o innecesaria o se provoque la "muerte" de uno o algunos árboles con una edad mayor a los cien años;
 
 XLVI. Cuando se provoque la muerte de alguno o algunos árboles;
 
-XLVII. Cuando no se efectúe el riego, o este sea insuficiente, de los árboles que se plantaron o se deben plantar en las áreas abiertas destinadas a estacionamientos, o no se protejan para evitar que sean dañados, y;
+XLVII. Cuando no se efectúe el riego, o este sea insuficiente, de los árboles que se plantaron o se deben plantar en las áreas abiertas destinadas a estacionamientos, o no se protejan para evitar que sean dañados;
 
-XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento.
+XLVIII. Cuando no se efectúe el área radicular para la plantación de los árboles que deban ubicarse en el estacionamiento, en las banquetas o en el área de parques o jardines que se cederán al Municipio, o esas áreas radiculares no tengan las medidas que establece este Reglamento y; (sic)
+
+XLIX. Causar ruidos o sonidos que molesten, perjudiquen o afecten la tranquilidad de uno o más vecinos; y
+
+L. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso de propagación y por su intensidad sobrepasen en los ambientes señalados los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y ocho decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y cinco decibeles en el horario comprendido de las veintidós a las seis horas.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -1769,7 +1773,7 @@ Por lo anteriormente expuesto y fundado, se somete a la consideración del pleno
 
 A C U E R D O:
 
-PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCION AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
+PRIMERO. Es de aprobarse EL REGLAMENTO PARA LA PROTECCIÓN AMBIENTAL Y DESARROLLO SUSTENTABLE PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, en la forma y términos anteriormente señalados.
 
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado de Nuevo León. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
@@ -1811,7 +1815,7 @@ LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE OCTUBRE DE 2009.
 
@@ -1822,3 +1826,17 @@ Las presentes REFORMAS POR MODIFICACIÓN, ADICIÓN Y DEROGACIÓN AL REGLAMENTO P
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 18 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas por modificación y adición al Reglamento para la Protección al Ambiente y Desarrollo Sustentable para el Municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente publicar en la Gaceta Municipal para su divulgación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualesquier disposición que contravenga el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Gírense las instrucciones al Presidente Municipal y al Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo
