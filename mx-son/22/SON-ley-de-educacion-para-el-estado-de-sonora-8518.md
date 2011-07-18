@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-12-20"
+last_updated: "2011-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -599,15 +599,27 @@ Las Instituciones del Sistema Educativo expedirán certificados y otorgarán con
 
 Los estudios realizados fuera del Sistema Educativo Nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios realizados dentro del Sistema Educativo.
 
-La revalidación podrá otorgarse por niveles educativos, por grados escolares, o por asignaturas y otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2011)</small>
+
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 53.
 
-Los estudios realizados dentro del Sistema Educativo podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+Los estudios realizados dentro del Sistema Educativo podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 54.
 
-Las revalidaciones y equivalencias otorgadas por el Estado a través de la Secretaria, se llevarán a cabo de acuerdo a la normatividad que para estos efectos, establezca la Federación para todo el país.
+Las revalidaciones y equivalencias otorgadas por el Estado a través de la Secretaría, deberán referirse a planes y programas de estudio del Sistema Educativo, y se llevarán a cabo de acuerdo a la normatividad que para estos efectos, establezca la Federación para todo el país.
+
+> <small>(ADICIONADO, B.O. 18 DE JULIO DE 2011)</small>
+
+ARTICULO 54 BIS.- La Secretaría, por acuerdo de su titular, podrá establecer procedimientos por medio de los cuales se expidan certificados, constancias, diplomas o títulos a quienes acrediten conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar del Sistema Educativo, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos.
+
+Los acuerdos secretariales respectivos señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
 ### CAPITULO VIII. DE LA COORDINACION DE LA EDUCACION SUPERIOR
 
@@ -1080,3 +1092,9 @@ Dentro de un plazo de 90 días, contado a partir de la entrada en vigor del pres
 ###### ARTÍCULO TERCERO.
 
 En virtud de que a la fecha de aprobación del presente Decreto, el Ejecutivo del Estado ha presentado la iniciativa de presupuesto de egresos del gobierno del Estado para el ejercicio fiscal del año 2011, el Congreso del Estado deberá realizar las reasignaciones que resulten necesarias para que puedan materializarse las disposiciones del presente Decreto.
+
+B.O. 18 DE JULIO DE 2011.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
