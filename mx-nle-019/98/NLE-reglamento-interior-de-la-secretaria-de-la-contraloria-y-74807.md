@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-la-contraloria-y-74807"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-15"
-last_updated: "2010-03-15"
+last_updated: "2011-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA Y TRANSPARENCIA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de marzo de 2010.
 
@@ -89,17 +89,23 @@ Para los efectos del presente Reglamento, se entenderá por:
 
 2. Ayuntamiento: El Republicano Ayuntamiento de San Pedro Garza García, Nuevo León.
 
-3. Contralor: El Secretario de la Contraloría y Transparencia Municipal.
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
 
-4. Contraloría: La Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
+3. Comisión de Honor y Justicia: La Comisión de Honor y Justicia en Materia de Seguridad Municipal.
 
-5. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+4. Contralor: El Secretario de la Contraloría y Transparencia Municipal.
 
-6. Municipio: El Municipio de San Pedro Garza García, Nuevo León.
+5. Contraloría: La Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
 
-7. Reglamento: Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
+6. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-8. Reglamento Orgánico: Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García.
+7. Municipio: El Municipio de San Pedro Garza García, Nuevo León.
+
+8. Reglamento: Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+
+9. Reglamento Orgánico: Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -269,7 +275,9 @@ IV.- Analistas; y,
 
 V.- El demás personal administrativo necesario para su funcionamiento, de acuerdo a las determinaciones presupuestales.
 
-### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA CONTRALORÍA
+### CAPÍTULO VIII BIS. DEL ÓRGANO SANCIONADOR
+
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 16.
 
@@ -289,9 +297,191 @@ VI.- Controlar el uso de los vehículos oficiales asignados a la Contraloría; y
 
 VII.- Las demás que le asigne el Contralor.
 
-### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
+> <small>(ADICIONADO CON LOS TITULOS, DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
 
-### CAPÍTULO XI. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+### CAPÍTULO IX. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA CONTRALORÍA
+
+## TÍTULO PRIMERO. DE LA COMISIÓN DE HONOR Y JUSTICIA EN MATERIA DE SEGURIDAD MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis.
+
+La Comisión de Honor y Justicia tendrá competencia para conocer y sustanciar los procedimientos de responsabilidad administrativa derivados del incumplimiento a los deberes u obligaciones profesionales del personal adscrito, de las quejas y denuncias que en su contra se presenten, la aplicación de sanciones y los acuerdos necesarios para su funcionamiento, preservando el derecho a la garantía de audiencia.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
+
+DE SU INTEGRACIÓN
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 1.
+
+La Comisión de Honor y Justicia estará integrada por cinco miembros:
+
+I. Un Presidente preferentemente Licenciado en Ciencias Jurídicas, el cual contará con voto de calidad;
+
+II. Cuatro vocales; y
+
+III. Contará además con un Coordinador de Asuntos Internos, quién deberá ser Licenciado en Ciencias Jurídicas, con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+
+DE LA DESIGNACIÓN DE SUS INTEGRANTES
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 2.
+
+El Presidente de la Comisión de Honor y Justicia será designado y removido por el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 3.
+
+Los cuatro vocales serán designados o removidos por el Republicano Ayuntamiento. Uno de ellos será un miembro del cuerpo de Policía; otro será miembro del cuerpo de Tránsito; y los dos restantes, serán vecinos del Municipio, de reconocida capacidad y solvencia moral.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 4.
+
+Los vocales integrantes de la Comisión miembros de los cuerpos de Policía y de Tránsito, serán designados por el Republicano Ayuntamiento de entre aquellos que se hayan distinguido en el cumplimiento de su función. La Comisión de Seguridad del Republicano Ayuntamiento analizará los expedientes correspondientes y propondrá al Pleno mediante dictamen razonado su designación.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 5.
+
+Los vocales pertenecientes a las Direcciones de Policía y Tránsito durarán en su cargo un año y podrán ser reelectos las veces que el Republicano Ayuntamiento considere necesario.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 6.
+
+El Coordinador de Asuntos Internos y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia serán designados o removidos por el Presidente de la misma, y tendrá el carácter de confianza.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+
+DE LOS ACUERDOS Y RESOLUCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 7.
+
+Los asuntos competencia de la Comisión de Honor y Justicia se resolverán por mayoría de votos de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 8.
+
+El Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 9.
+
+El quórum necesario para la validez de los acuerdos y resoluciones de la Comisión de Honor y Justicia se integrará con la mayoría de sus miembros.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 10.
+
+El Coordinador de Asuntos Internos del Comité de Honor y Justicia o el servidor público que designe el Pleno del mismo, sustanciará los procedimientos y será el ejecutor de sus acuerdos o resoluciones.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+
+DE SU FUNCIONAMIENTO Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 11.
+
+El funcionamiento y operación interna de la Comisión de Honor y Justicia se llevará a cabo de acuerdo al Manual de Operaciones que para el efecto expida la misma, previa aprobación del Cabildo, en el cual debe de garantizarse la confidencialidad de la información en términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 12.
+
+Los integrantes de la Comisión de Honor y Justicia deberán excusarse de conocer de un asunto, en los siguientes casos:
+
+I. Tenga una relación conyugal o de las preceptuadas en el Código Civil vigente en el Estado, o de parentesco por consanguinidad o afinidad hasta cuarto grado, con el servidor público sujeto a procedimiento; y
+
+II. Demás causas que se justifiquen en legal forma, tomando como base los impedimentos que señalan el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 13.
+
+De toda sesión de la Comisión de Honor y Justicia, el Coordinador de Asuntos Internos levantará acta debidamente suscrita por los que en ella intervengan y así quisieren hacerlo, levantándose constancia en caso de negativa a suscribir el acta.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 14.
+
+La Comisión de Honor y Justicia tendrá atribuciones para:
+
+I. Recibir quejas y denuncias que se presenten en contra de los elementos adscritos a los Cuerpos de Seguridad Municipal;
+
+II. Substanciar el procedimiento de responsabilidad originado con motivo de las quejas o denuncias que se presenten en contra de los elementos adscritos a los Cuerpos de Seguridad Municipal hasta su conclusión;
+
+III. Si el caso lo permite, aplicar los medios alternos para la solución de conflictos; y
+
+IV. Requerir a las dependencias administrativas municipales para que le proporcionen la información que considere necesaria para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 15.
+
+La Comisión de Honor y Justicia informará a la Secretaría de la Contraloría y Transparencia Municipal y a la dependencia del Gobierno del Estado que corresponda las sanciones administrativas que imponga, en cumplimiento a lo dispuesto por el artículo 94 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2011)</small>
+
+DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 16.
+
+Las quejas y denuncias en contra del personal adscrito a la Secretaría de Seguridad Municipal, deben reunir como mínimo, los siguientes requisitos:
+
+I. Generales de la persona que presenta la queja o denuncia;
+
+II. El señalamiento, si lo supiera, del nombre del servidor público, o su media filiación;
+
+III. Señalar fecha, hora y lugar de los hechos u omisiones que considere fueron cometidos indebidamente por el servidor público;
+
+IV. En caso de contar con pruebas, acompañarlas a su queja o denuncia; y
+
+V. No darán inicio al procedimiento administrativo las quejas o denuncias anónimas, pero estas se harán del conocimiento de los titulares de la Secretaría de Seguridad Municipal y Contraloría Municipal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 17.
+
+La solicitud de instauración de procedimiento administrativo debe formularse por escrito, ser suscrita por el servidor público que la formula acreditando su designación, narración de los hechos que le den origen, el fundamento legal en que se apoya y las pruebas que correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 18.
+
+La sustanciación del procedimiento de responsabilidad administrativa y la imposición de sanciones se regirá por las Leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 19.
+
+Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrito y ser suscritas por quienes las autorizaron.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2011)</small>
+
+## TÍTULO SEGUNDO. DEL RECURSO DE REVOCACIÓN
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+###### Artículo 16 Bis 20.
+
+El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia y se substanciará en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
+
+### CAPÍTULO X. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 17.
 
@@ -300,6 +490,8 @@ Durante la ausencia temporal del Contralor, la cual no deberá exceder de 8-ocho
 ###### Artículo 18.
 
 Las ausencias temporales de Directores, Coordinadores y Jefes de Unidad, serán suplidas por la persona que asigne el Contralor.
+
+### CAPÍTULO XI. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
 ###### Artículo 19.
 
@@ -394,3 +586,15 @@ C. PRESIDENTE MUNICIPAL
 LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE JULIO DE 2011.
+
+Artículo Primero.- Las presentes reformas modificación y adición al Reglamento Interior de la Secretaría de la Contraloría y Transparencia Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
+
+Artículo Tercero.- Lo no previsto en este reglamento se sujetará a las disposiciones de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García Nuevo León.
+
+Artículo Cuarto.- El manual de Operaciones a que se refiere el artículo 16 Bis 11 del presente reglamento, deberá expedirse dentro del término de 30 días hábiles contados a partir de la entrada en vigor de las presentes reformas.
