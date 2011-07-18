@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2007-12-10"
+last_updated: "2011-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 2011.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -681,7 +681,9 @@ No obstante lo dispuesto en el primer párrafo de este artículo, el pago de la 
 
 ARTICULO 61 BIS.- Tratándose de predios ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieran cosechado, debiéndose anexar a la declaración de que se trate la copia del permiso de siembra y copia de la factura o liquidación correspondiente.
 
-De la recaudación correspondiente al impuesto efectivamente pagado, conforme al párrafo anterior, los municipios entregarán el 50% al ejido o comunidad propietario o poseedor de los predios donde se genere el gravamen.
+> <small>(REFORMADO, B.O. 18 DE JULIO DE 2011)</small>
+
+A más tardar dentro de los 30 días naturales siguientes al de la recaudación correspondiente al impuesto efectivamente pagado conforme al párrafo anterior, los ayuntamientos entregarán el 50% al ejido o comunidad propietario o poseedor de los predios donde se genere el gravamen.
 
 ###### ARTICULO 62.
 
@@ -1951,7 +1953,7 @@ W).- Abarrotes.
 
 Deberá considerarse el caso de expedición de anuencias municipales por cambio de domicilio.
 
-Il.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
+lI.- Para la expedición de autorizaciones eventuales, por día, si se trata de:
 
 A).- Fiestas sociales o familiares,
 
@@ -2890,3 +2892,9 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos del Estado deberán presentar su propuesta de cuotas o tarifas por el servicio de alumbrado público para el ejercicio fiscal del año dos mil ocho, atendiendo las disposiciones contenidas en este Decreto.
+
+B.O. 18 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
