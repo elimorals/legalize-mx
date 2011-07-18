@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-iturbide-757
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-25"
-last_updated: "2010-06-25"
+last_updated: "2011-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD PARA EL MUNICIPIO DE ITURBIDE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de junio de 2010.
 
@@ -155,15 +155,9 @@ ART. 15.- Previo a la obtención de la (s) placa (s), tarjeta de circulación y 
 
 ART. 16.- La pérdida, robo o deterioro total o parcial de una o ambas placas, obliga a obtener un nuevo juego de las mismas, salvo el caso de que se trate de robo, desuso o destrucción total del vehículo, pues entonces se dará de baja éste y consecuentemente las placas.
 
-ART. 17.- La Dirección de Policía y Tránsito, podrá expedir permisos para circular sin placas, en los casos siguientes:
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
 
-l. Cuando su propietario o conductor resida fuera del Municipio y demuestre la necesidad de permanecer en la ciudad y la (s) placas (s) faltante (s) haya (n) sido robada(s), para lo cual deberá presentar constancia de aviso a la Policía Judicial del Estado y a Tránsito Federal.
-
-II. Cuando por circunstancias especiales el propietario del vehículo siendo residente de la ciudad, no pueda obtener placas.
-
-III. En igual forma se podrán expedir permisos para circular sin placas o placas provisionales para vehículos que carezcan de ellas y que hayan sido comprados dentro de la ciudad por personas físicas o morales residentes fuera de ella y que requieran trasladarlos a su destino.
-
-Además de lo anterior, deberá presentar: carta factura del vehículo, la baja correspondiente, comprobante de domicilio, como identificación su credencial de elector. El permiso será por una sola vez y por una vigencia máxima de treinta días.
+ART. 17.- Se suspende el otorgamiento de permisos provisionales para circular sin placas
 
 ART. 18.- Los propietarios de los vehículos están obligados a reportar en forma inmediata a la Tesorería General del Estado y a la Autoridad Municipal los siguientes movimientos o eventos sobre vehículos:
 
@@ -251,7 +245,9 @@ VI. TAPON DEL TANQUE DEL COMBUSTIBLE.- Este deberá ser diseñado original o uni
 
 VII. VEHICULOS DE EMERGENCIA.- Todos los vehículos de emergencia deberán contar con una sirena y uno o varios faros o torretas de color rojo, mismos que deberán ser audibles y visibles respectivamente desde doscientos cincuenta metros.
 
-VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar previstos (sic) de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. Todos Estos deberán mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+
+VIII. CRISTALES PARABRISAS.- Todos los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas. Los demás cristales deberán estar en buenas condiciones. No se permite traer polarizados en los cristales y parabrisas o cualquier otro objeto o aditamento que impida la visibilidad al interior del vehículo.
 
 IX. TABLERO DEL CONTROL DE VEHICULOS.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna según fabricante.
 
@@ -331,7 +327,9 @@ V. Piezas del vehículo que no estén debidamente sujetas de tal forma que pueda
 
 VI. Sirena.
 
-VII. Articulos u objetos que impidan u obstaculicen la visibilidad del conductor.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+
+VII. cristales o parabrisas astillados, vidrios polarizados o cualquier otro objeto o aditamento que impida la visibilidad del conductor y la visibilidad al interior del vehiculo excepto con polarizado de agencia.
 
 VIII. Mofles directos, rotos o que emiten un ruido excesivo.
 
@@ -1117,6 +1115,8 @@ VI. MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que co
 
 > <small>N. DE E. VEASE TABULADOR EN EL P. O. DE 25 DE JUNIO DE 2010, PAGINAS DE LA 41 A LA 45.</small>
 
+> <small>N. DE E. VEASE REFORMAS A LA TABLA, P.O. DE 18 DE JULIO DE 2011, PAGINA 51.</small>
+
 ART. 90.- Al aplicarse la multa, deberá tomarse en consideración, la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica, la condición social, educación y antecedentes del infractor. Si el infractor fuese jornalero, obrero o trabajador la multa no deberá exceder del importe de su jornal o salario de un día.
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
@@ -1140,6 +1140,10 @@ VII. Insultar y/o agredir al personal de transito.
 VIII. Circular con placas sobrepuestas.
 
 IX. Prestar placas.
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2011)</small>
+
+X. Tratandose de vehículos que porten vidrios que no sea polarizado (sic) de agencia o cualquier otro objeto o aditamento que impidan la visibilidad al interior, el ciudadano tendrá 15 días después de impuesta la infracción para retirar el polarizado o los objetos o aditamentos de los cristales o vidrios y la sanción será cancelada
 
 ART. 92.- Las infracciones se harán constar en actas sobre formas impresas y foliadas en los tantos que señale la Autoridad Municipal. Estas actas deberán contener los siguientes datos:
 
@@ -1192,3 +1196,9 @@ PROFR. JUAN FRANCISCO TIENDA ESPINOSA
 SECRETARIO DEL H. AYUNTAMIENTO
 
 T.M.E. NICANDRO CARREON RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+P.O. 18 DE JULIO DE 2011.
+
+SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
