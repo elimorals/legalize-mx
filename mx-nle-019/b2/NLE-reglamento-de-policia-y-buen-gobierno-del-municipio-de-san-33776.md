@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-san-3377
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-25"
-last_updated: "2010-05-26"
+last_updated: "2011-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 25 de agosto de 2003.
 
@@ -209,7 +209,7 @@ VIII. Realizar manifestaciones o cualquier otro acto público en contravención 
 
 IX. Efectuar bailes en domicilio particular para el público en general con fines lucrativos sin previo permiso de la autoridad competente;
 
-X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos;
+X. (DEROGADA, P.O. 18 DE JULIO DE 2011)
 
 Xl. Efectuar bailes en salones clubes y centros sociales sin el permiso correspondiente;
 
@@ -221,9 +221,7 @@ XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios 
 
 XIV. Comprar bebidas alcohólicas en cualquier establecimiento fuera de los horarios permitidos por los Reglamentos Municipales y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
-
-XV. Generar en residencias, casa habitación o cualquier lugar público o privado donde se utilicen aparatos de sonido, reproductoras de música de cualquier tipo o instrumentos musicales, con bocinas, altoparlantes u otros equipos de amplificación de sonido o por cualquier medio y en cualquier lugar sonidos que por su proceso sobrepasen los límites máximos permisibles establecidos en la NOM-SEMARNAT-081-1994, y que estos sean con una intensidad mayor a los sesenta y cinco decibeles en el horario comprendido de las seis a las veintidós horas y a los sesenta y ocho decibeles en el horario comprendido de las veintidós a las seis horas.
+XV. (DEROGADA, P.O. 18 DE JULIO DE 2011)
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
@@ -930,3 +928,7 @@ TERCERO. Gírense las instrucciones al C. Lic. Fernando Margáin Berlanga, Presi
 P.O. 26 DE MAYO DE 2010.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 18 DE JULIO DE 2011.
+
+> <small>N. DE E. LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 7 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.</small>
