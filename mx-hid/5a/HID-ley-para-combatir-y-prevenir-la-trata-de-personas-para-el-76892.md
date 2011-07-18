@@ -4,7 +4,7 @@ identifier: "HID-ley-para-combatir-y-prevenir-la-trata-de-personas-para-el-76892
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2010-11-15"
+last_updated: "2011-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA COMBATIR Y PREVENIR LA TRATA DE PERSONAS PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 4 de octubre de 2010.
 
@@ -78,6 +78,10 @@ En todo lo no previsto por esta Ley, serán aplicables supletoriamente las dispo
 ###### Artículo 5.
 
 Comete el delito de trata de personas, quien incurra en la captación, trasporte, traslado, acogida o la recepción de personas; recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra y con fines de explotación. Esa explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+La persona que contrate publicidad por cualquier medio de comunicación, así como la persona que ordene publicar o difundir anuncios que encuadren en alguna de las conductas de trata de personas, será sancionada conforme a lo dispuesto por el artículo 7 de esta Ley.
 
 ###### Artículo 6.
 
@@ -265,7 +269,13 @@ XIII.- Integrar conforme a las atribuciones de sus miembros a las Subcomisiones 
 
 XIV.- Servir de Órgano asesor y recomendar la realización de acciones a las Dependencias y Entidades de la Administración Pública Estatal; y
 
-XV.- Las demás que se establezcan en esta Ley o en el Programa Estatal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JULIO DE 2011)</small>
+
+XV. Monitorear y vigilar que los anuncios que se difundan en el Estado por cualquier medio, no inserten contenido que ofrezcan servicios sexuales.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 18 DE JULIO DE 2011)</small>
+
+XVI.- Las demás que se establezcan en esta Ley o en el Programa Estatal.
 
 ## Título Tercero. De la Política en Materia de Prevención y Protección de Víctimas
 
@@ -462,3 +472,7 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JULIO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
