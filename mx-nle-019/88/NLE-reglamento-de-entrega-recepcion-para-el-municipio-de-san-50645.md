@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-entrega-recepcion-para-el-municipio-de-san-50645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-22"
-last_updated: "2009-09-23"
+last_updated: "2011-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ENTREGA-RECEPCION PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de mayo de 2006.
 
@@ -47,7 +47,9 @@ El presente Reglamento tiene por objeto fijar las normas generales para la Entre
 
 Para los efectos del presente Reglamento se entenderá por:
 
-I. Contraloría.- La Contraloría Municipal;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2011)</small>
+
+l. Contraloría.- La Secretaría de la Contraloría y Transparencia Municipal;
 
 II. Dependencias.- Las señaladas en el artículo 23 del Reglamento Orgánico de la Administración Pública Municipal;
 
@@ -127,9 +129,11 @@ La información a que se refiere este artículo deberá detallarse de tal manera
 
 Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, honradez, transparencia, lealtad, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones, debiendo mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su empleo, cargo o comisión.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2011)</small>
+
 ###### Artículo 9.
 
-Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos, de la Administración Pública Municipal, serán los directamente responsables de preparar y revisar los anexos descritos en el artículo 7 de este Reglamento y autorizarlos con su rúbrica.
+Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos, de la Administración Pública Municipal, serán los directamente responsables de preparar y revisar los anexos descritos en el artículo 7 de este Reglamento, mismos que serán consignados en dispositivos de almacenamiento magnético, óptico, magneto-óptico, tarjetas de memoria u otro análogo permitido por la Contraloría, con los datos generados por el sistema electrónico de Información autorizado por la Contraloría y éstos serán rubricados por el servidor público entrante, el saliente y un representante de la Secretaría de la Contraloría y Transparencia Municipal.
 
 ###### Artículo 10.
 
@@ -166,6 +170,14 @@ XII. En caso de no existir formato especial de acta, ésta se debe levantar en p
 XIII. Las cantidades deben ser asentadas en número y letra; y,
 
 XIV. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así como los anexos, deben foliarse en forma consecutiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2011)</small>
+
+Dicha acta administrativa, de entrega-recepción, será generada por el sistema electrónico de información, autorizado por la Contraloría.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2011)</small>
+
+Artículo 11 bis.- Es de carácter obligatorio para todos los servidores públicos de la Administración Municipal, actualizar mensualmente lo requerido en los anexos a que hace referencia el Artículo 7 del presente Reglamento en el sistema electrónico de información autorizado por la Contraloría, así como contar con los documentos y archivos relativos al cargo que les corresponda, con la finalidad de hacer posible y de manera oportuna, el relevo de funciones de los servidores públicos.
 
 ### CAPÍTULO SEGUNDO. DE LA ENTREGA-RECEPCIÓN GENERAL DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -293,15 +305,21 @@ En el caso que no exista nombramiento o designación del Titular entrante, la En
 
 El acto de Entrega-Recepción del Titular de una Dependencia, Unidad Administrativa u Organismo deberá formalizarse a más tardar a los 3-tres días hábiles siguientes en que el Titular Saliente sea removido o se separe del cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2011)</small>
+
 ###### Artículo 34.
 
-El Acta de Entrega-Recepción y sus Anexos serán integrados en original y 2-dos copias para distribuirse de la siguiente forma:
+El Acta de Entrega-Recepción será integrada en original y 2-dos copias para distribuirse de la siguiente forma:
 
 I. Un original para el Archivo de la Contraloría;
 
 II. Una copia para el Titular Entrante; y,
 
 III. Una copia para el Titular Saliente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2011)</small>
+
+Los anexos correspondientes al acta de entrega recepción, serán consignados en dispositivos de almacenamiento magnéticos, ópticos, magneto-ópticos, tarjetas de memoria u otros medios análogos, cuyos datos generará el sistema electrónico de información autorizado por la Contraloría y éstos se entregarán, uno al titular entrante y uno al saliente.
 
 ###### Artículo 35.
 
@@ -408,3 +426,11 @@ PRIMERO. Se aprueban las REFORMAS POR MODIFICACIÓN AL REGLAMENTO DE ENTREGA-REC
 SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
 TERCERO. Gírense las instrucciones al C. Lic. Fernando Margáin Berlanga, Presidente Municipal y a la C. Lic. Ma. Emilda Ortiz Caballero, Secretario del Republicano Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 18 DE JULIO DE 2011.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- La Secretaría de la Contraloría y Transparencia Municipal deberá instaurar el sistema electrónico de entrega recepción en un término que no exceda de 90 días naturales, contados a partir de la fecha de publicación de las presentes reformas.
+
+Tercero.- Los servidores públicos que realicen el acto de entrega recepción, dentro del término de 90 días naturales referido en el artículo anterior, lo realizarán con apego a las disposiciones aplicables con anterioridad a la entrada en vigor de las presentes reformas y adiciones.
