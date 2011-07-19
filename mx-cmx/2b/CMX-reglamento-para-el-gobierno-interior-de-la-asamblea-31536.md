@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2011-04-18"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ABRIL DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2152,9 +2152,13 @@ I.- Al Mérito Ciudadano;
 
 II.- Al mérito en Ciencias, Artes, Ejecución Musical y Artística;
 
-III.- Al Mérito Policial; y
+III.- Al Mérito Policial; y (sic)
 
 IV.- Al Mérito Deportivo.
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2011)</small>
+
+V.- Al Mérito de Protección Civil.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2170,9 +2174,9 @@ Las preseas se otorgarán como reconocimiento público a una conducta o trayecto
 
 Para los efectos del presente título, se entenderá por:
 
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2011)</small>
 
-I.- Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias, Artes, Ejecución Musical y Artística, Policial o Deportivo de la Asamblea Legislativa del Distrito Federal;
+I. Medalla: Medalla al Mérito, ya sea Ciudadano, en Ciencias, Artes, Ejecución Musical y Artística, Policial, Deportivo o en Protección Civil de la Asamblea Legislativa del Distrito Federal;
 
 II.- Comisiones: Las diferentes Comisiones dictaminadoras de las medallas, que son:
 
@@ -2180,9 +2184,17 @@ a) Comisión Especial para otorgar la Medalla al Mérito Ciudadano de la Asamble
 
 b) Comisiones Unidas de Ciencia y Tecnología y de Cultura de la Asamblea Legislativa del Distrito Federal;
 
-c) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal; y
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2011)</small>
 
-d) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal.
+c) Comisión de Seguridad Pública de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2011)</small>
+
+d) Comisión del Deporte de la Asamblea Legislativa del Distrito Federal; y
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+e) Comisión de Protección Civil de la Asamblea Legislativa del Distrito Federal.
 
 III.- Candidato: Toda persona propuesta para recibir la presea y el reconocimiento que otorga la Asamblea Legislativa, que actúe en forma individual o colectiva, ya sea en asociación o institución pública o privada propuesta.
 
@@ -2223,6 +2235,10 @@ e) "MEDALLA AL MÉRITO DEPORTIVO"
 > <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
 
 f) “MEDALLA AL MÉRITO EN EJECUCIÓN MUSICAL Y ARTÍSTICA”
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+g) “MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL”
 
 En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso; y
 
@@ -2566,9 +2582,9 @@ La Sesión Solemne para entregar la Medalla al Mérito Policial se realizará en
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
 
-### CAPÍTULO VI. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
+### CAPÍTULO VI. DE LA MEDALLA AL MÉRITO DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
 
 ###### Artículo 205.
 
@@ -2626,7 +2642,57 @@ II.- Características personales, aptitudes naturales y nivel deportivo.
 
 La Sesión Solemne para la entrega del Reconocimiento al Mérito Deportivo se celebrará dentro de la segunda quincena del mes de marzo del año que corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 19 DE JULIO DE 2011)</small>
+
+### CAPÍTULO VII. DEL PROCESO DE ELECCIÓN DE CANDIDATOS
+
+> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+
+###### Artículo 212 Bis.
+
+La Medalla al Mérito de Protección Civil, se concederá a quienes hayan destacado en el aspecto técnico científico que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, a quienes destacaron en la labor de bombero y finalmente aquellos que signifiquen por su labor ejemplar en la prevención y/o ayuda a la población ante la eventualidad de un desastre.
+
+Se otorgará dicho reconocimiento a las dependencias y entidades de la Administración Pública del Distrito Federal, a Unidades de Protección Civil de los Órganos político administrativos, así como agrupaciones de los sectores privado y social.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 212 Ter.
+
+El Reconocimiento se otorgará en los casos siguientes:
+
+I. La prevención, a través de avances técnico científicos, que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, o bien, por la dedicación y empeño en la propagación de la cultura de la protección civil, respaldada en una trayectoria al servicio de la materia,
+
+II. Labor de bombero, y
+
+III. El auxilio, por las acciones que se hayan llevado a cabo en las tareas de auxilio a la población en caso de desastre.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 212 Quater.
+
+Corresponderá a la Comisión de Protección Civil de la Asamblea Legislativa convocar y efectuar el proceso de la elección de los candidatos a recibir el reconocimiento y ponerlo a la consideración del Pleno de la Asamblea Legislativa para su aprobación. Dicha Comisión presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado por consenso al interior de la propia Comisión.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+Artículo 212 Quintus.- El reconocimiento se podrá otorgar hasta un máximo de seis personas del sector público, privado y/o social, o bien aumentar el número de galardonados, a consideración de la Comisión de Protección Civil, del cual se respetará que el 50 por ciento deba ser de un mismo sexo.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+Artículo 212 Sextus.- La Comisión de Protección Civil, deberá formular la convocatoria correspondiente en la primera quincena del mes de junio del año que corresponda, publicándose en por lo menos dos diarios de circulación nacional, con sujeción a las presentes bases.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 212 Septies.
+
+Las propuestas y la documentación correspondiente de los candidatos para ser merecedores a la Medalla de Protección Civil, serán presentadas ante la comunidad, del dieciséis de julio al quince de agosto del año que corresponda. Además de los requisitos señalados en el artículo 180 se deberá tomar en cuenta a los elementos que se hayan distinguido por su dedicación, espíritu de servicio, ayuda a la sociedad.
+
+> <small>(ADICIONADO, G.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 212 Octies.
+
+La Sesión Solemne para entregar la Medalla al Mérito de Protección Civil se realizará en la fecha en que se conmemore el «Día Nacional de Protección Civil» del año que corresponda.
+
+(MODIFICADO EN SU NUMERACION [N. DE E. ANTES CAPITULO VI], G.O. 19 DE JULIO DE 2011)
 
 ###### Artículo 213.
 
@@ -2871,3 +2937,15 @@ G.O. 18 DE ABRIL DE 2011.
 PRIMERO.- El presente decreto entrará en vigor a partir de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor publicidad en el Diario Oficial de la Federación.
+
+G.O. 19 DE JULIO DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Para la primera entrega de la Medalla al Mérito de Protección Civil, los términos contemplados en los artículos 212 Sextus y 212 Septies serán:
+
+A. La primera quincena del mes de julio para la emisión de la convocatoria.
+
+B. Del 1 al 30 de agosto para la presentación ante la comunidad de las propuestas y la documentación correspondiente de los candidatos a recibir la Medalla al Mérito de Protección Civil.
