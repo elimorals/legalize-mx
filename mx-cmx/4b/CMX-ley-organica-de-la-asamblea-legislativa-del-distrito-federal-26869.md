@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2010-12-14"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -180,37 +180,43 @@ XXIV.- Otorgar la Medalla al Mérito Deportivo de la Asamblea Legislativa del Di
 
 XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública y de la Policía de Investigación del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-XXVI.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2011)</small>
 
-XXVII.- Expedir el Reglamento para su Gobierno Interior y enviarlo al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
+XXVI.- Otorgar la medalla al Mérito de Protección Civil, a quienes hayan destacado en el aspecto técnico científico que permitan alertar y proteger a la población frente a fenómenos naturales o de origen humano, a quienes destacaron en la labor de bombero y finalmente aquellos que signifiquen por su labor ejemplar en la prevención y/o auxilio a la población ante la eventualidad de un desastre;
 
-XXVIII.- Establecer los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones de su personal administrativo de mandos medios y superiores previstas en la Ley de la materia, así como aplicar las sanciones establecidas en dicho ordenamiento, conforme a la legislación respectiva, y por lo que hace a su competencia;
+XXVII.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
-XXIX.- Acordar por las dos terceras partes de sus miembros presentes, si somete o no a referéndum el proyecto del ordenamiento legal en proceso de creación, modificación, derogación o abrogación, en términos de lo dispuesto por el Estatuto de Gobierno del Distrito Federal así como las leyes correspondientes; y (sic)
+XXVIII.- Expedir el Reglamento para su Gobierno Interior y enviarlo al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
+
+XXIX.- Establecer los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones de su personal administrativo de mandos medios y superiores previstas en la Ley de la materia, así como aplicar las sanciones establecidas en dicho ordenamiento, conforme a la legislación respectiva, y por lo que hace a su competencia;
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2011)</small>
+
+XXX.- Acordar por las dos terceras partes de sus miembros presentes, si somete o no a referéndum el proyecto del ordenamiento legal en proceso de creación, modificación, derogación o abrogación, en términos de lo dispuesto por el Estatuto de Gobierno del Distrito Federal así como las leyes correspondientes
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XXX.- Dictar los acuerdos necesarios a fin de resolver las cuestiones que no estén previstas por ésta y las demás leyes aplicables o por el Reglamento para su Gobierno Interior, siempre y cuando no exceda sus atribuciones constitucionales y estatutarias;
+XXXI.- Dictar los acuerdos necesarios a fin de resolver las cuestiones que no estén previstas por ésta y las demás leyes aplicables o por el Reglamento para su Gobierno Interior, siempre y cuando no exceda sus atribuciones constitucionales y estatutarias;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XXXI.- Invitar a particulares que puedan aportar información relevante para el objeto de la investigación, previo acuerdo de los integrantes de la Comisión de Investigación, Especial o Jurisdiccional, respectiva;
+XXXII.- Invitar a particulares que puedan aportar información relevante para el objeto de la investigación, previo acuerdo de los integrantes de la Comisión de Investigación, Especial o Jurisdiccional, respectiva;
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXII.- Designar a los Comisionados Ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
+XXXIII.- Designar a los Comisionados Ciudadanos que integrarán el Instituto de Acceso a la Información Pública del Distrito Federal, de conformidad con la Ley respectiva;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XXXIII.- Remover a los Jefes Delegacionales conforme al procedimiento que se establezca en la presente ley;
+XXXIV.- Remover a los Jefes Delegacionales conforme al procedimiento que se establezca en la presente ley;
 
 > <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
 
-XXXIV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
+XXXV.- Remover a los Comisionados Ciudadanos del Instituto de Acceso a la Información Pública del Distrito Federal conforme al procedimiento que se establezca en la presente ley, y
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
-XXXV.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
+XXXVI.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, la presente Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -1811,3 +1817,15 @@ DECRETO POR EL QUE SE ADICIONA EL ARTICULO 64 BIS A LA LEY ORGANICA DE LA ASAMBL
 PRIMERO.- La presente reforma de ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 19 DE JULIO DE 2011.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Para la primera entrega de la Medalla al Mérito de Protección Civil, los términos contemplados en los artículos 212 Sextus y 212 Septies serán:
+
+A. La primera quincena del mes de julio para la emisión de la convocatoria.
+
+B. Del 1 al 30 de agosto para la presentación ante la comunidad de las propuestas y la documentación correspondiente de los candidatos a recibir la Medalla al Mérito de Protección Civil.
