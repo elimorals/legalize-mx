@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-pronosticos-para-la-asistencia-51088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-01"
-last_updated: "2009-11-26"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-23"
 
 REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2011.
 
 Reglamento publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 1 de agosto de 2006.
 
@@ -239,11 +239,11 @@ En aquellos casos que lo estime procedente, el Consejo Directivo de Pronósticos
 
 Pronósticos podrá aumentar los concursos, sorteos, productos o servicios que deba comercializar y prestar el agente, notificándole los términos y el porcentaje de la comisión correspondiente mediante las formas establecidas en el artículo 10o. del presente Reglamento.
 
-> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2011)</small>
 
 ###### Artículo 19o.
 
-El importe mínimo de ventas semanales deberá ser la cantidad equivalente a 57 días de salario mínimo general vigente en el Distrito Federal, para lo cual el Agente pondrá toda su actividad, diligencia y capacidad de venta, sin embargo por estrategia comercial la Entidad podrá mantener como máximo el 5% del total de las Agencias vendiendo por debajo del mínimo requerido.
+El importe mínimo de ventas semanales que deberá cubrir el Agente, será la cantidad equivalente a los días de salario mínimo general vigente en el Distrito Federal, acordado previamente por las partes mediante contrato de comisión mercantil, con base en los criterios emitidos por la Subdirección General de Ventas, para lo cual el Agente pondrá toda su actividad, diligencia y capacidad de venta; sin embargo, por estrategia comercial la Entidad podrá mantener como máximo el 5% del total de las Agencias vendiendo por debajo del mínimo requerido establecido en el contrato de comisión mercantil.
 
 ###### Artículo 20o.
 
@@ -392,3 +392,7 @@ D.O.F. 26 DE NOVIEMBRE DE 2009.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las establecidas en el presente Decreto.
+
+D.O.F. 19 DE JULIO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
