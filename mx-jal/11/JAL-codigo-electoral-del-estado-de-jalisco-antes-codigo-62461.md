@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2009-12-31"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2011.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -147,7 +147,9 @@ I. Podrán participar sólo cuando hayan obtenido oportunamente su acreditación
 
 II. Los ciudadanos que pretendan actuar como observadores deberán señalar en el escrito de solicitud los datos de identificación personal, anexando fotocopia de su credencial para votar y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad y sin vínculos a partido u organización política alguna;
 
-III. La solicitud de registro para participar como observador electoral, podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el Presidente del Consejo General o Distrital correspondiente a su domicilio, a partir del inicio del proceso electoral y hasta el 31 de Mayo del año de la elección. Los Presidentes de los Consejos Generales y Distritales, según el caso, darán cuenta de las solicitudes a los propios Consejos, para su aprobación, en la siguiente sesión que celebren. La resolución que se emita deberá ser notificada a los solicitantes. El Consejo General garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de los ciudadanos o las organizaciones interesadas;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. La solicitud de registro para participar como observador electoral, podrá presentarse en forma personal o a través de la organización a la que pertenezcan, ante el Presidente del Consejo General o Distrital correspondiente a su domicilio, a partir del inicio del proceso electoral y hasta el 31 de Mayo del año de la elección. El Presidente del Consejo General o Distrital según sea el caso, dará cuenta de las solicitudes a los propios Consejos, para su aprobación en la siguiente sesión que celebren. La resolución que se emita deberá ser notificada a los solicitantes. El Consejo General garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de los ciudadanos o las organizaciones interesadas;
 
 IV. Sólo se otorgará la acreditación a quien cumpla los siguientes requisitos:
 
@@ -167,7 +169,13 @@ b) Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o can
 
 c) Externar cualquier expresión de ofensa, difamación o calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y
 
-d) Declarar el triunfo de partido político o candidato alguno.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+d) Declarar el triunfo de partido político o candidato alguno; y
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+e) Realizar encuestas o sondeos de opinión en las etapas de preparación de la elección y de la jornada electoral entre los electores que se presenten a emitir su voto.
 
 VI. La observación podrá realizarse en cualquier ámbito territorial del Estado de Jalisco;
 
@@ -196,6 +204,10 @@ X. Los observadores podrán presentar, ante la autoridad electoral, informe de s
 5. Las organizaciones a las que pertenezcan los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo General del Instituto.
 
 6. El Instituto Electoral podrá celebrar convenio con el Instituto Federal Electoral para simplificar los procesos de registro, acreditación y capacitación de observadores electorales y visitantes extranjeros.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+7. El incumplimiento por los observadores electorales de las normas establecidas para la realización de su función, dará lugar a las sanciones que establece este Código.
 
 Artículo 7º
 
@@ -233,9 +245,17 @@ VIII. No estar en servicio activo en el Ejército Nacional, ni tener mando en la
 
 IX. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia del Estado, Procurador Social, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura del Estado o Magistrado del Tribunal de Arbitraje y Escalafón; a no ser que se separe del cargo noventa días antes al de la jornada electoral;
 
-X. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura del Estado, Presidente Municipal, Síndico, Secretario de Ayuntamiento, titular de alguna dependencia de recaudación fiscal de la Federación, del Estado o Municipal, a menos que se separe de su cargo en los términos que previene la fracción anterior; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XI. En caso de haberse desempeñado como servidor público, acreditar que cumplió con la obligación de presentar declaración de situación patrimonial en los términos de ley.
+X. No ser Juez, Secretario de Juzgado, Secretario del Consejo de la Judicatura del Estado, Presidente Municipal, Regidor, Síndico, Secretario de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XI. En caso de haberse desempeñado como servidor público, acreditar que cumplió con la obligación de presentar declaración de situación patrimonial siempre y cuando esté obligado, en los términos de ley.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Los servidores públicos de elección popular que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después de la entrega de constancias de mayoría.
 
 Artículo 9º
 
@@ -253,7 +273,9 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Tener cuando menos treinta años de edad el día de la elección;
 
-III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmediatamente anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmediatos anteriores al día de la elección;
 
 IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas de seguridad pública del Estado, cuando menos noventa días anteriores al día de la elección;
 
@@ -267,7 +289,9 @@ Artículo 11
 
 I. Ser ciudadano mexicano;
 
-II. Ser nativo del municipio o área metropolitana correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos al día de la elección;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Ser nativo del Municipio o área metropolitana correspondiente, o acreditar ser vecino de aquellos, cuando menos tres años inmediatos anteriores al día de la elección;
 
 III. Estar en pleno ejercicio de sus derechos;
 
@@ -531,13 +555,17 @@ V. Se dé la falta absoluta de Gobernador del Estado;
 
 VI. Ocurra la falta absoluta de la totalidad de los integrantes de los ayuntamientos, o bien, no se logre la integración que permita el funcionamiento del órgano de gobierno municipal; y
 
-VII. Haya falta absoluta de la totalidad de los Diputados por el principio de representación proporcional y de la lista única de suplentes, o bien no se logre la integración que permita el funcionamiento del Congreso.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VII. Haya falta absoluta de la totalidad de los Diputados por el principio de representación proporcional, o bien no se logre la integración que permita el funcionamiento del Congreso.
 
 Artículo 33
 
 1. El decreto que expida el Congreso del Estado, en caso de elecciones extraordinarias, no podrá restringir los derechos que la Constitución Política del Estado y el presente Código otorgan a los ciudadanos y partidos políticos acreditados o registrados ante el Instituto Electoral, ni alterar los procedimientos y formalidades instituidos.
 
-2. En ningún caso podrá participar en elecciones ordinarias o extraordinarias el partido político que hubiere perdido su registro o acreditación con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido que hubiese perdido su registro o acreditación, siempre y cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. En ningún caso podrá participar en elecciones ordinarias el partido político que hubiere perdido su registro o acreditación con anterioridad a la fecha en que éstas deban realizarse. En elecciones extraordinarias sólo podrá participar el partido que hubiese perdido su registro o acreditación, cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
 
 Artículo 34
 
@@ -577,29 +605,25 @@ Artículo 37
 
 #### Sección Segunda. Partidos Políticos Nacionales
 
-Artículo 38
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. Los partidos políticos nacionales previamente a su participación en cada elección local, en el mes de septiembre del año anterior al de los comicios, deben ante el Instituto Electoral:
+###### Artículo 38.
 
-I. Acreditar la vigencia de su registro como partido político nacional, con la certificación que expida el Instituto Federal Electoral;
+1. Previamente a su participación en cada elección local, en el mes de septiembre del año anterior al de los comicios, el Secretario Ejecutivo del Instituto Electoral, verificará que los partidos políticos nacionales cuenten con:
 
-II. Adjuntar los siguientes documentos actualizados y certificados por la propia autoridad federal electoral:
+I. Registro vigente ante el Instituto Federal Electoral;
 
-a) Declaración de principios;
+II. Documentos actualizados y certificados ante la autoridad federal;
 
-b) Programa de acción; y
+III. Domicilio en el Estado;
 
-c) Estatutos.
+IV. La integración de su comité directivo u organismo equivalente en el Estado, adjuntando copias certificadas de los documentos en que aparezcan las designaciones de los titulares de sus órganos de representación, así como una relación de los demás integrantes de sus estructuras distritales y municipales, en donde se encuentre organizado, expedidos con una antigüedad no mayor a dos meses a la fecha de su presentación al organismo electoral; y
 
-III. Comprobar domicilio en el Estado;
+V. Acreditación del titular de su órgano interno responsable de la obtención y administración de su financiamiento público y privado, para lo cual:
 
-IV. Documentar la integración de su comité directivo u organismo equivalente en el Estado, adjuntando copias certificadas de los documentos en que aparezcan las designaciones de los titulares de sus órganos de representación, así como una relación de los demás integrantes de sus estructuras distritales y municipales, en donde se encuentre organizado, expedidos con una antigüedad no mayor a dos meses a la fecha de su presentación al organismo electoral; y
+a) La persona designada para estos fines, invariablemente deberá contar con título profesional para ejercer las carreras de contaduría pública, administración, derecho o afines; y
 
-V. Acreditar al titular de su órgano interno responsable de la obtención y administración de su financiamiento público y privado.
-
-2. La persona designada para estos fines, invariablemente deberá contar con título profesional para ejercer las carreras de contaduría pública, administración, derecho o afines.
-
-3. El responsable de la obtención y administración del financiamiento público y privado, tendrá el carácter de síndico solidario en caso de pérdida de registro, de acreditamiento, disolución o fusión, siendo responsable de ejecutar el procedimiento de reintegro de activos del partido político, así como el cumplimiento de las obligaciones previstas en este Código.
+b) El responsable de la obtención y administración del financiamiento público y privado, tendrá el carácter de síndico solidario en caso de pérdida de registro, de acreditamiento, disolución o fusión, siendo responsable de ejecutar el procedimiento de reintegro de activos del partido político, así como el cumplimiento de las obligaciones previstas en este Código.
 
 Artículo 39
 
@@ -789,7 +813,9 @@ Artículo 53
 
 1. Las agrupaciones políticas estatales interesadas en solicitar su registro como partido político estatal, deberán necesariamente satisfacer la totalidad de los requisitos a que se refiere este capítulo, presentando para tal efecto, a más tardar en el mes de marzo del año anterior al de la elección ordinaria, las siguientes constancias:
 
-a) Los documentos en los que consten:
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Los documentos en los que consten:
 
 a) La declaración de principios;
 
@@ -799,21 +825,33 @@ c) Los estatutos; y
 
 d) La vigencia de su registro como agrupación política estatal.
 
-b) La solicitud de afiliación individual de cada uno de los integrantes de la organización, en la que conste el nombre completo, domicilio, ocupación, clave y folio de su credencial para votar con fotografía y la firma o huella digital, así como una copia simple de la credencial para votar;
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
-c) Las listas nominales de afiliados por municipio o por distritos electorales, esta información deberá presentarse en documento físico y en archivos en medio digital;
+II. La solicitud de afiliación individual de cada uno de los integrantes de la organización, en la que conste el nombre completo, domicilio, ocupación, clave y folio de su credencial para votar con fotografía y la firma o huella digital, así como una copia simple de la credencial para votar;
 
-d) Las listas de afiliados asistentes a cada una de las asambleas Municipales celebradas;
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
 
-e) Las actas levantadas por notario público de las asambleas celebradas en los municipios, en las que deberá hacerse constar la participación de los representantes del Instituto Electoral; y
+III. Las listas nominales de afiliados por municipio o por distritos electorales, ésta información deberá presentarse en documento físico y en archivos en medio digital;
 
-f) El acta levantada por notario público de la asamblea estatal constitutiva, en la que deberá hacerse constar la participación de los representantes del Instituto Electoral.
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. Las listas de afiliados asistentes a cada una de las asambleas Municipales celebradas;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V. Las actas levantadas por notario público de las asambleas celebradas en los municipios, en las que deberá hacerse constar la participación de los representantes del Instituto Electoral; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI. El acta levantada por notario público de la asamblea estatal constitutiva, en la que deberá hacerse constar la participación de los representantes del Instituto Electoral.
 
 Artículo 54
 
 1. El Consejo General del Instituto, al conocer la solicitud de la organización que pretenda su registro como partido político local, integrará una comisión de tres consejeros electorales para examinar los documentos a que se refiere el artículo anterior a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en este Código. La comisión formulará el proyecto de dictamen de registro dentro de los cuarenta y cinco días naturales siguientes a la presentación de dicha solicitud.
 
-2. El Consejo General, por conducto de la comisión a que se refiere el párrafo anterior, verificará la autenticidad de las afiliaciones al nuevo partido, ya sea en su totalidad o a través del establecimiento de un método aleatorio, conforme al cual se verifique que cuando menos el 0.026 cero punto cero veintiséis por ciento corresponda al padrón electoral actualizado a la fecha de la solicitud de que se trate, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. El Consejo General, por conducto de la comisión a que se refiere el párrafo anterior, verificará la autenticidad de las afiliaciones al nuevo partido, ya sea en su totalidad o a través del establecimiento de un método aleatorio, conforme al cual se verifique que cuando menos el 0. 026 cero punto cero veintiséis por ciento corresponda al padrón electoral actualizado a la fecha de la solicitud de que se trate, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido político de nueva creación, en relación a la fecha de presentación del aviso a que se refiere el artículo 47 del Código.
 
 Artículo 55
 
@@ -921,7 +959,9 @@ Artículo 63
 
 1. Para obtener el registro como agrupación política estatal, quien lo solicite deberá acreditar ante el Instituto los siguientes requisitos:
 
-I. Contar con un mínimo de 500 asociados en el Estado y con un órgano directivo de carácter estatal; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Contar con un mínimo del 0. 1 % del Padrón Electoral de la entidad, actualizado al año en que se pretenda realizar el registro y con un órgano directivo de carácter estatal; y
 
 II. Contar con documentos básicos, así como una denominación distinta a cualquier otra agrupación o partido.
 
@@ -937,21 +977,7 @@ II. Contar con documentos básicos, así como una denominación distinta a cualq
 
 7. El informe a que se refiere el párrafo anterior deberá presentarse a más tardar dentro de los noventa días siguientes al último día de Diciembre del año del ejercicio que se reporte.
 
-8. La agrupación política estatal o nacional perderá su registro o acreditación por las siguientes causas:
-
-I. Cuando se haya acordado su disolución por la mayoría de sus miembros;
-
-II. Haberse dado las causas de disolución conforme a sus documentos básicos;
-
-III. Omitir rendir el informe anual del origen y aplicación de sus recursos;
-
-IV. No acreditar actividad alguna durante un año calendario, en los términos que establezca el reglamento;
-
-V. Por incumplir de manera grave con las disposiciones contenidas en este Código;
-
-VI. Haber dejado de cumplir con los requisitos necesarios para obtener el registro; y
-
-VII. Las demás que establezca este Código.
+8. (DEROGADO, P.O. 19 DE JULIO DE 2011)
 
 #### Sección Tercera. Agrupaciones Políticas Nacionales
 
@@ -1004,6 +1030,10 @@ I. Haber perdido su registro como agrupación política nacional;
 II. No contar con domicilio en el Estado; y
 
 III. No tener un comité directivo u organismo equivalente en el Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. En los casos a que se refieren las fracciones III a la VII, del párrafo primero de este artículo y V del artículo 111, la resolución del Consejo General del Instituto sobre la pérdida del registro de una Agrupación Política, según sea el caso, se publicará en el Periódico Oficial "El Estado de Jalisco". No podrá resolverse sobre la pérdida de registro en los supuestos previstos en las fracciones V y VI de éste artículo y fracciones III y IV del artículo 111, sin que previamente se oiga en defensa a la Agrupación Política interesada.
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1063,7 +1093,9 @@ XIV. Actuar y conducirse sin ligas de dependencia o subordinación con partidos 
 
 XV. Aplicar el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en este Código, exclusivamente para el sostenimiento de sus actividades ordinarias, para sufragar los gastos de precampaña y campaña, así como para realizar las actividades específicas;
 
-XVI. Abstenerse, en su propaganda política o electoral, de cualquier expresión que denigre a las instituciones y a los partidos o que calumnie a las personas. Las quejas por violaciones a este precepto serán presentadas ante la secretaría ejecutiva del Instituto, la que instruirá un procedimiento expedito de investigación en los términos establecidos en el Libro Sexto de este Código. En todo caso, al resolver sobre la denuncia se observará lo dispuesto por el primer párrafo del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVI. Abstenerse, en su propaganda política o electoral, de cualquier expresión que denigre a las instituciones y a los partidos o que calumnie a las personas. Las quejas por violaciones a este precepto serán presentadas ante el Instituto, quien instruirá un procedimiento expedito de investigación en los términos establecidos en el Libro Sexto de este Código. En todo caso, al resolver sobre la denuncia se observará lo dispuesto por el primer párrafo del artículo 6.° de la Constitución Política de los Estados Unidos Mexicanos;
 
 XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -1077,7 +1109,9 @@ XXI. Obtener el registro, en los términos de este Código, de fórmulas de cand
 
 XXII. Obtener el registro de la lista de candidatos a Diputados por el principio de representación proporcional en la circunscripción y conservar cuando menos a las dos terceras partes de sus integrantes hasta el día de la elección;
 
-XXIII. Rendir informes al organismo electoral sobre sus ingresos, egresos, y sobre el destino y utilización del financiamiento público y privado en forma semestral en año no electoral y mensual durante el año electoral;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIII. Rendir informes al organismo electoral sobre sus ingresos, egresos, y sobre el destino y utilización del financiamiento público y privado en forma semestral en año no electoral y trimestral durante el año electoral;
 
 XXIV. Reintegrar al Instituto Electoral los activos adquiridos con financiamiento público estatal en caso de pérdida de registro, acreditación o disolución;
 
@@ -1277,7 +1311,7 @@ Artículo 86
 
 3. El Instituto dispondrá lo necesario para la producción técnica y difusión de los debates. Las señales de radio y televisión que el Instituto genere para este fin podrán ser utilizadas, en vivo, en forma gratuita, por los concesionarios y permisionarios de radio y televisión. El Instituto realizará las gestiones necesarias a fin de propiciar la transmisión de los debates en el mayor número posible de estaciones y canales.
 
-4. Las estaciones y canales que decidan transmitir, en vivo, los debates a que se refiere el presente artículo, quedan autorizadas a suspender, durante el tiempo correspondiente, la transmisión de los mensajes que correspondan a los partidos políticos y a las autoridades electorales.
+4. (DEROGADO, P.O. 19 DE JULIO DE 2011)
 
 5. Las reglas para los debates serán determinadas por el Consejo General, escuchando previamente las propuestas de los partidos políticos.
 
@@ -1301,9 +1335,13 @@ I. Por el representante propietario y su suplente, designados por cada partido p
 
 II. Tres Consejeros Electorales, que serán quienes integren la Comisión de Prerrogativas a Partidos Políticos a que se refiere el presente Código; y
 
-III. El Director de la Unidad de Fiscalización, que actuará como su secretario técnico; en sus ausencias será suplido por quien legalmente deba sustituirlo.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-3. El Comité será presidido por el Consejero Electoral que ejerza la misma función en la Comisión a que se refiere el (sic) fracción II del párrafo anterior.
+III. El Director de Prerrogativas a Partidos Políticos, que actuará como su secretario técnico; en sus ausencias será suplido por quien legalmente deba sustituirlo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. El Comité será presidido por el Consejero Electoral que ejerza la misma función en la Comisión a que se refiere la fracción II del párrafo anterior.
 
 4. Las decisiones del Comité se tomarán, preferentemente, por consenso de sus integrantes. En caso de votación solamente ejercerán el derecho a voto los tres Consejeros Electorales.
 
@@ -1425,9 +1463,13 @@ b) Las cuentas, fondos y fideicomisos que se constituyan serán manejados a trav
 
 c) En todo caso, las cuentas, fondos o fideicomisos no estarán protegidos por los secretos bancario o fiduciario, por lo que el Instituto, con la colaboración y por medio del Instituto Federal Electoral, obtendrá información detallada sobre su manejo y operaciones; y
 
-d) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-4. En todo caso, la suma que cada partido puede obtener anualmente de los recursos provenientes de las fuentes señaladas en las fracciones I), II) y IV), y los obtenidos mediante colectas realizadas en mítines o en la vía pública, no podrá ser mayor al diez por ciento anual del monto establecido como tope de gasto de campaña para la elección de Gobernador inmediata anterior.
+d) Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político, y no deberán ser considerados, financiamiento privado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. En todo caso, la cantidad que cada partido puede obtener anualmente de los recursos provenientes de la fuente señalada en la fracción I del párrafo 3, no podrá ser mayor al diez por ciento anual del monto establecido como tope de gasto de campaña para la elección de Gobernador inmediata anterior. Adicionalmente, la suma de los recursos provenientes de las fuentes señaladas en las fracciones II, III y IV del párrafo 3 y los obtenidos mediante colectas realizadas en mítines o en la vía pública, tampoco podrá ser mayor al 10% antes señalado.
 
 ### Capítulo Tercero. De la Fiscalización de los Recursos de los Partidos Políticos
 
@@ -1439,9 +1481,11 @@ Artículo 91
 
 3. En el desempeño de sus facultades y atribuciones la Unidad solicitará la colaboración y apoyo de la Unidad de Fiscalización de los Recursos de los partidos Políticos del Instituto Federal Electoral a fin de superar los secretos bancario, fiscal o fiduciario. Las autoridades competentes están obligadas a atender y resolver, en un plazo máximo de treinta días hábiles, los requerimientos de información que en esas materias les presente la Unidad.
 
-Artículo 92
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. El director general de la Unidad será designado por el Consejo General, deberá reunir los mismos requisitos que en el Reglamento Interior se establecen para los demás directores del Instituto, además de comprobar experiencia en tareas de dirección de fiscalización, con al menos tres años de antigüedad.
+###### Artículo 92.
+
+1. El director de la Unidad será designado por el Consejo General, deberá reunir los mismos requisitos que en el Reglamento Interior se establecen para los demás directores del Instituto, además de comprobar experiencia en tareas de fiscalización, con al menos tres años de antigüedad.
 
 Artículo 93
 
@@ -1453,7 +1497,9 @@ II. Emitir las normas generales de contabilidad y registro de operaciones aplica
 
 III. Vigilar que los recursos de los partidos tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en este Código;
 
-IV. Recibir los informes trimestrales y anuales, así como de gastos de precampaña y campaña, de los partidos políticos y sus candidatos y los demás informes de ingresos y gastos establecidos por este Código;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. Recibir los informes semestrales y anuales, así como de gastos de precampaña y campaña, de los partidos políticos y sus candidatos y los demás informes de ingresos y gastos establecidos por este Código;
 
 V. Revisar los informes señalados en la fracción anterior;
 
@@ -1471,7 +1517,9 @@ XI. Fiscalizar y vigilar los ingresos y gastos de las organizaciones de ciudadan
 
 XII. Revisar los informes de ingresos y gastos que le presenten las agrupaciones políticas y las organizaciones de observadores electorales, de conformidad a lo que establezca el Reglamento que al efecto apruebe el Consejo General;
 
-XIII. Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro o acreditación;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIII. Ser responsable de los procedimientos de liquidación y reintegro de activos de los partidos políticos que pierdan su registro o acreditación;
 
 XIV. Presentar al Consejo General para su aprobación el proyecto de Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos; dichas quejas deberán ser presentadas ante la Unidad;
 
@@ -1481,7 +1529,9 @@ XVI. Celebrar convenios de coordinación con las autoridades competentes en mate
 
 XVII. Prestar y recibir los apoyos establecidos en los convenios a que se refiere la fracción anterior;
 
-XVIII. Requerir de las personas, físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en este Código; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVIII. Requerir de las personas físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en este Código; y
 
 XIX. Las demás que le confiera este Código o el Consejo General.
 
@@ -1495,15 +1545,21 @@ Artículo 95
 
 1. Los partidos políticos deberán presentar ante la Unidad los informes del origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
-I. Informes trimestrales de avance del ejercicio:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
 
-a) Serán presentados a más tardar dentro de los treinta días siguientes a la conclusión del trimestre que corresponda;
+I. Informes semestrales de avance del ejercicio:
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+a) Serán presentados a más tardar dentro de los treinta días siguientes a la conclusión del semestre que corresponda;
 
 b) En el informe será reportado el resultado de los ingresos y gastos ordinarios que los partidos hayan obtenido y realizado durante el periodo que corresponda;
 
-c) Si de la revisión que realice la Unidad se encuentran anomalías errores u omisiones, se notificará al partido a fin de que las subsane o realice las aclaraciones conducentes. En todo caso los informes trimestrales tienen carácter exclusivamente informativo para la autoridad, y
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-d) Durante el año del proceso electoral federal se suspenderá la obligación establecida en esta fracción.
+c) Si de la revisión que realice la Unidad se encuentran anomalías errores u omisiones, se notificará al partido a fin de que las subsane o realice las aclaraciones conducentes. En todo caso los informes semestrales tienen carácter exclusivamente informativo para la autoridad, y
+
+d) (DEROGADO, P.O. 19 DE JULIO DE 2011)
 
 II. Informes anuales:
 
@@ -1647,13 +1703,17 @@ VII. Aceptación expresa de la persona o personas en quienes recae la representa
 
 Artículo 105
 
-1. Coalición es la alianza o unión transitoria de dos o más partidos políticos, de uno o más partidos políticos con una o más agrupaciones políticas, con el propósito de postular candidatos comunes para la elección de Diputados por el principio de mayoría relativa, o en la de Diputados por el principio de representación proporcional, o en uno o varios municipios para la elección de Munícipes y en la elección de Gobernador.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Coalición es la alianza o unión transitoria de dos o más partidos políticos, de uno o más partidos políticos con una o más agrupaciones políticas, con el propósito de postular candidatos comunes para la elección de diputados por el principio de mayoría relativa o en uno o varios municipios para la elección de Munícipes y en la elección de Gobernador.
 
 2. Para que dos o más partidos políticos puedan postular a un mismo candidato a cualquier cargo, será requisito indispensable que celebren convenio de coalición en los términos que señala el presente capítulo.
 
 3. En la elección de Diputados por el principio de representación proporcional, cada uno de los partidos coaligados deberá registrar lista propia.
 
-4. La coalición por la que se postule candidato a Gobernador del Estado, tiene efectos sobre la totalidad de los distritos electorales uninominales y los municipios en que se divide el territorio de la entidad, por lo que los partidos políticos coaligados tendrán que presentar candidatos de la propia coalición en todas las elecciones para Diputados por el principio de mayoría relativa y de Munícipes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. La coalición por la que se postule a candidato a Gobernador del Estado, tiene efectos sobre la totalidad de los municipios de la entidad, por lo que los partidos políticos coaligados tendrán que presentar candidatos de la propia coalición en todas las elecciones de munícipes.
 
 Artículo 106
 
@@ -1743,9 +1803,13 @@ VI. Haberse fusionado con otro partido político, en los términos del artículo
 
 Artículo 112
 
-1. Para la pérdida del registro a que se refieren las fracciones I) a la III) del artículo anterior, el Consejo General del Instituto emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los Consejos del Instituto, así como en las resoluciones del Tribunal Electoral, debiéndola publicar en el Periódico Oficial del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-2. En los casos a que se refieren las fracciones III) a la VII), del párrafo 9 del artículo 63, y V) a la VII) del párrafo 1 del artículo anterior, la resolución del Consejo General del Instituto sobre la pérdida del registro de una agrupación política o de un partido político, según sea el caso, se publicará en el Periódico Oficial del Estado de Jalisco. No podrá resolverse sobre la pérdida de registro en los supuestos previstos en las fracciones V) y VI) del párrafo 9 del artículo 63 y IV) y V), del párrafo 1 del artículo 111, sin que previamente se oiga en defensa a la agrupación política o al partido político interesado.
+1. Para la pérdida del registro a que se refieren las fracciones I a la III del artículo anterior, el Consejo General del Instituto emitirá la declaratoria correspondiente, misma que deberá fundarse en los resultados de los cómputos y declaraciones de validez respectivas de los Consejos del Instituto, así como en las resoluciones del Tribunal Electoral, debiéndola publicar en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. En los casos a que se refiere la fracción VI del artículo anterior, la resolución del Consejo General del Instituto sobre la pérdida del registro de un Partido Político, se publicará en el Periódico Oficial "El Estado de Jalisco". No podrá resolverse sobre la pérdida de registro en los supuestos previstos en las fracciones V y VI del artículo 65 y fracción IV del artículo 111, sin que previamente se oiga en defensa al Partido Político interesado.
 
 3. La pérdida del registro de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones.
 
@@ -1837,9 +1901,21 @@ c) La Comisión de Adquisiciones y Enajenaciones;
 
 d) La Comisión de Capacitación Electoral y Educación Cívica.
 
-e) La Comisión de Organización Electoral; y
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-f) La Comisión de Investigación y Estudios Electorales.
+e) La Comisión de Organización Electoral;
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+f) La Comisión de Investigación y Estudios Electorales;
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+g) La Comisión de Quejas y Denuncias; y
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+h) La Comisión de Participación Ciudadana.
 
 IV. Órganos desconcentrados, que son:
 
@@ -2041,7 +2117,9 @@ III. Designar al secretario ejecutivo por el voto de cuando menos cinco de los c
 
 IV. Designar en caso de ausencia del secretario, a propuesta del Consejero Presidente la persona que fungirá como secretario del Consejo en la sesión;
 
-V. Designar a los directores del Instituto y al director general de la Unidad de Fiscalización, a propuesta que presente el Consejero Presidente;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V. Designar a los directores del Instituto y al director de la Unidad de Fiscalización, a propuesta que presente el Consejero Presidente;
 
 VI. Designar a los funcionarios que durante los procesos electorales actuarán como Consejeros en los Consejos Municipales y Distritales;
 
@@ -2325,7 +2403,9 @@ Artículo 142
 
 Artículo 143
 
-1. El Secretarios (sic) Ejecutivo del Instituto también lo es del Consejo General.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. El Secretario Ejecutivo del Instituto también lo es del Consejo General.
 
 2. Corresponde al secretario ejecutivo:
 
@@ -2341,17 +2421,33 @@ V. Recibir y sustanciar los recursos de revisión que se interpongan en contra d
 
 VI. Recibir y dar el trámite previsto en la ley de la materia, a los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo, informándole sobre los mismos en la sesión inmediata;
 
-VII. Informar al Consejo General de las resoluciones que le competan dictadas por el Tribunal Electoral;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-VIII. Llevar el archivo del Consejo General;
+VII. Determinar el procedimiento administrativo sancionador ordinario o especial, por el que se debe sustanciar las quejas y denuncias que se presenten, así como clasificar los hechos denunciados;
 
-IX. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-X. Firmar, junto con el Presidente del Consejo General, todos los acuerdos y resoluciones que emita el propio Consejo;
+VIII. Informar al Consejo General de las resoluciones que le competan dictadas por el Tribunal Electoral;
 
-XI. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XII. Llevar el libro de registros y acreditaciones de:
+IX. Llevar el archivo del Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+X. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XI. Firmar, junto con el Presidente del Consejo General, todos los acuerdos y resoluciones que emita el propio Consejo;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XII. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIII. Llevar el libro de registros y acreditaciones de:
 
 a) Partidos políticos que cumplan con los extremos previstos en este Código;
 
@@ -2363,47 +2459,89 @@ d) Convenios de fusiones; y
 
 e) Agrupaciones Políticas que cumplan con lo previsto en este Código.
 
-XIII. Elaborar y mantener actualizado el registro de los integrantes del Consejo General y de los Consejos Distritales y Municipales Electorales del Instituto Electoral;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XIV. Expedir los documentos que acrediten la personería de los integrantes del Consejo General y de los Consejos Distritales y Municipales Electorales del Instituto Electoral;
+XIV. Elaborar y mantener actualizado el registro de los integrantes del Consejo General y de los Consejos Distritales y Municipales Electorales del Instituto Electoral;
 
-XV. Expedir los documentos que acrediten el cargo y la relación con el Instituto del personal administrativo;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XVI. Recabar las actas de sesiones y demás documentos relativos a la actuación de los Consejos Distritales y Municipales Electorales;
+XV. Expedir los documentos que acrediten la personería de los integrantes del Consejo General y de los Consejos Distritales y Municipales Electorales del Instituto Electoral;
 
-XVII. Proveer a los órganos del Instituto Electoral de los elementos materiales para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XVIII. Proponer al Consejo General del Instituto Electoral los proyectos de diseño para la impresión de las formas de la documentación electoral, boletas electorales y ejecutar los acuerdos que en esta materia emita el propio Consejo General;
+XVI. Expedir los documentos que acrediten el cargo y la relación con el Instituto del personal administrativo;
 
-XIX. Recibir las solicitudes de registros de candidatos de los partidos políticos y coaliciones, y presentar al Consejo General el proyecto de dictamen que resuelva sobre la procedencia;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XX. Promover y coordinar la capacitación de los funcionarios y observadores electorales;
+XVII. Recabar las actas de sesiones y demás documentos relativos a la actuación de los Consejos Distritales y Municipales Electorales;
 
-XXI. Coadyuvar con el Consejero Presidente en la organización administrativa del Instituto Electoral;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXII. Rendir informes y atender los requerimientos que las autoridades jurisdiccionales le soliciten al Instituto Electoral o a los Municipales, cuando estos se encuentren desinstalados;
+XVIII. Proveer a los órganos del Instituto Electoral de los elementos materiales para el cumplimiento de sus funciones;
 
-XXIII. Representar al Instituto Electoral, con facultades de apoderado para pleitos y cobranzas, en los casos que el Presidente así lo determine;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXIV. Solicitar al Tribunal Electoral la expedición de copias certificadas de los expedientes que se hayan integrado con motivo de los medios de impugnación jurisdiccionales interpuestos;
+XIX. Proponer al Consejo General del Instituto Electoral los proyectos de diseño para la impresión de las formas de la documentación electoral, boletas electorales, así como los correspondientes a los sistemas electrónicos para la recepción del voto, y en su caso, ejecutar los acuerdos que en esta materia emita el propio Consejo General;
 
-XXV. Integrar los expedientes para los procedimientos de cómputo y asignación de las fórmulas electorales de la competencia del Consejo General;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXVI. Recabar documentación sobre la calificación de las elecciones de Diputados por el principio de mayoría relativa efectuadas por los Consejos Distritales Electorales;
+XX. Recibir las solicitudes de registros de candidatos de los partidos políticos y coaliciones, y presentar al Consejo General el proyecto de dictamen que resuelva sobre la procedencia;
 
-XXVII. Dirigir, operar, organizar y manejar el archivo del Instituto Electoral, conforme a técnicas modernas, elaborando las estadísticas electorales de cada una de las elecciones que se celebren en el Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXVIII. Vigilar el cumplimiento de las disposiciones legales que en materia de transparencia e información pública apruebe el Congreso del Estado y el reglamento en la materia que expida el Consejo General;
+XXI. Promover y coordinar la capacitación de los funcionarios y observadores electorales;
 
-XXIX. Dar fe de las actuaciones de los órganos de dirección, ejecutivos, técnicos y desconcentrados del Instituto Electoral y levantar las actas correspondientes;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXX. Expedir y entregar sin dilación alguna, copia certificada de registros, nombramientos, documentos, actas y actuaciones que le soliciten por escrito los Consejeros Electorales y representantes de los partidos políticos, recabando la constancia de recibo, salvo el caso de que tal expedición amerite acuerdo expreso de los integrantes del Consejo General;
+XXII. Coadyuvar con el Consejero Presidente en la organización administrativa del Instituto Electoral;
 
-XXXI. Encargarse del despacho de la presidencia del Instituto Electoral, en los casos de ausencias temporales del Consejero Presidente en los términos previstos en este Código;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XXXII. Designar a los servidores públicos del Instituto para que lo auxilien en el ejercicio de las atribuciones que le confieren a este Código; y
+XXIII. Rendir informes y atender los requerimientos que las autoridades jurisdiccionales le soliciten al Instituto Electoral o a los Municipales, cuando estos se encuentren desinstalados;
 
-XXXIII. Las demás que le sean conferidas por este Código, el Consejo General o por el Consejero Presidente en ejercicio de sus atribuciones legales.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIV. Representar al Instituto Electoral, con facultades de apoderado para pleitos y cobranzas, en los casos que el Presidente así lo determine;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXV. Solicitar al Tribunal Electoral la expedición de copias certificadas de los expedientes que se hayan integrado con motivo de los medios de impugnación jurisdiccionales interpuestos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXVI Integrar los expedientes para los procedimientos de cómputo y asignación de las fórmulas electorales de la competencia del Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXVII. Recabar documentación sobre la calificación de las elecciones de Diputados por el principio de mayoría relativa efectuadas por los Consejos Distritales Electorales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXVIII. Dirigir, operar, organizar y manejar el archivo del Instituto Electoral, conforme a técnicas modernas, elaborando las estadísticas electorales de cada una de las elecciones que se celebren en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIX. Vigilar el cumplimiento de las disposiciones legales que en materia de transparencia e información pública apruebe el Congreso del Estado y el reglamento en la materia que expida el Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXX. Dar fe de las actuaciones de los órganos de dirección, ejecutivos, técnicos y desconcentrados del Instituto Electoral y levantar las actas correspondientes;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXI. Expedir y entregar sin dilación alguna, copia certificada de registros, nombramientos, documentos, actas y actuaciones que le soliciten por escrito los Consejeros Electorales y representantes de los partidos políticos, recabando la constancia de recibo, salvo el caso de que tal expedición amerite acuerdo expreso de los integrantes del Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXII. Encargarse del despacho de la presidencia del Instituto Electoral, en los casos de ausencias temporales del Consejero Presidente en los términos previstos en este Código;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXIII. Designar a los servidores públicos del Instituto para que lo auxilien en el ejercicio de las atribuciones que le confieren a este Código; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXIV. Las demás que le sean conferidas por este Código, el Consejo General o por el Consejero Presidente en ejercicio de sus atribuciones legales.
 
 ## Título Quinto. Consejos Distritales y Municipales Electorales
 
@@ -2455,7 +2593,9 @@ Artículo 149
 
 Artículo 150
 
-1. Los Consejeros Distritales y Municipales están impedidos de intervenir en el proceso electoral de su competencia, cuando participe con el carácter de candidato su cónyuge o algún pariente consanguíneo en línea recta sin límite de grado; o colateral por consanguinidad, hasta el cuarto grado; o por afinidad hasta el segundo grado; o se presente alguna circunstancia de la que se deduzca o se presuma parcialidad en detrimento del proceso.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los Consejeros Distritales y Municipales están impedidos de intervenir en el proceso electoral de su competencia, cuando participe con el carácter de candidato su cónyuge o algún pariente consanguíneo hasta el cuarto grado en línea colateral.
 
 2. En este supuesto, el Consejero cesará en su función y se llamará al suplente general, en atención al orden de prelación.
 
@@ -2523,11 +2663,15 @@ Artículo 157
 
 Artículo 158
 
-1. Los partidos políticos acreditarán, ante el Instituto Electoral, a los ciudadanos que los representarán en los Consejos Distritales Electorales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-2. Igualmente, acreditarán ante los Consejos Distritales Electorales a los ciudadanos que los representarán en los Consejos Municipales Electorales.
+1. Los partidos políticos acreditarán, ante el Instituto Electoral, a los ciudadanos que los representarán en los Consejos Distritales Electorales y Municipales Electorales.
 
-3. El acreditamiento a que se refiere el párrafo anterior se hará por los partidos políticos dentro de los cinco días siguientes al en que se nombren los Consejeros Distritales y Municipales de los Consejos Distritales y Municipales Electorales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. La acreditación a que se refiere el párrafo anterior se hará por los partidos políticos, a partir de la instalación formal de dichos Consejos.
+
+3. (DEROGADO, P.O. 19 DE JULIO DE 2011)
 
 4. Si no lo hacen dentro de dicho plazo, los podrán acreditar con posterioridad, sin que tengan derecho a combatir los actos o resoluciones dictados con antelación por los citados órganos.
 
@@ -2673,7 +2817,9 @@ XVI. Remitir al Instituto Electoral, los expedientes Electorales y el acta del c
 
 XVII. Remitir al Instituto Electoral la documentación correspondiente al cómputo de la elección de Munícipes realizado en forma supletoria;
 
-XVIII. Remitir al Tribunal Electoral las demandas de juicio de inconformidad que se presenten en contra del cómputo, calificación y expedición de constancias de la elección de Diputados por el principio de mayoría relativa, en un plazo máximo de setenta y dos horas anexando el correspondiente informe circunstanciado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVIII. Remitir al Tribunal Electoral las demandas de juicio de inconformidad que se presenten en contra del cómputo, calificación y expedición de constancias de la elección de Diputados por el principio de mayoría relativa, en un plazo máximo de veinticuatro horas anexando el correspondiente informe circunstanciado;
 
 XIX. Solicitar auxilio a las autoridades de seguridad pública estatal o Municipales para garantizar el desarrollo pacífico del proceso electoral; y
 
@@ -2839,13 +2985,19 @@ Artículo 177
 
 1. Salvo los casos establecidos en el presente Código, toda resolución se tomará por mayoría de votos de los Consejeros que tengan este derecho y que asistan a la sesión correspondiente. En caso de empate, el Consejero Presidente tendrá voto de calidad.
 
-Artículo 178
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. A los Consejeros representantes de los partidos políticos que asistan a la sesión se les tendrá por formal y legalmente notificados de los acuerdos y resoluciones que aprueben los Consejos Distritales y Municipales Electorales.
+###### Artículo 178.
+
+1. A los consejeros representantes de los partidos políticos se les deben notificar, en términos de lo dispuesto en el artículo 132, los acuerdos y resoluciones que aprueben los Consejos Distritales y Municipales Electorales.
 
 Artículo 179
 
 1. Cuando un partido político deje de estar representado en las sesiones de los Consejos Distritales y Municipales Electorales por tres ocasiones consecutivas, sin que medie causa justificada, dejará de formar parte del órgano desconcentrado respectivo, durante el proceso electoral de que se trate. La resolución que en estos casos emita el Presidente del Consejo Distrital o Municipal correspondiente, se notificará al partido político respectivo.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Los Consejos Distritales y Municipales Electorales notificarán al Instituto Electoral de cada ausencia, con el propósito de que éste entere a los representantes de los partidos políticos que forman parte del Consejo General.
 
 ### Capítulo Décimo. De las Faltas y Suplencias
 
@@ -2861,6 +3013,10 @@ Artículo 180
 
 5. En el caso de faltas absolutas, se seguirá el mismo procedimiento que señala el párrafo anterior para nombrar al Presidente sustituto.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+6. Cuando un Consejero Distrital Electoral Propietario deje de asistir a las sesiones de los Consejos Distritales Electorales por dos ocasiones consecutivas, sin que medie causa justificada, cesará en su función y se llamará al consejero suplente en atención al orden de prelación para asumir el cargo del consejero electoral propietario hasta el término del proceso electoral; al efecto, será citado para que concurra a la siguiente sesión del Consejo Distrital de que se trate a rendir la protesta de ley.
+
 Artículo 181
 
 1. Las faltas de los Presidentes de los Consejos Municipales Electorales podrán ser temporales o absolutas.
@@ -2870,6 +3026,10 @@ Artículo 181
 3. En el caso de que las faltas temporales excedan de quince días, se requerirá de licencia otorgada por el Consejo Distrital Electoral, quien llamará en el orden de prelación al Consejero electoral suplente para que asuma las funciones de propietario. A propuesta de su Presidente el Consejo Distrital Electoral nombrará al Presidente interino.
 
 4. En el caso de faltas absolutas, se seguirá el mismo procedimiento que señala el párrafo anterior para nombrar al Presidente sustituto.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+5. Cuando un Consejero Municipal Electoral Propietario deje de asistir a las sesiones de los Consejos Municipales Electorales por dos ocasiones consecutivas, sin que medie causa justificada, cesará en su función y se llamará al suplente en atención al orden de prelación para asumir el cargo del consejero electoral propietario hasta el término del proceso electoral; al efecto, será citado para que concurra a la siguiente sesión del Municipal de que se trate a rendir la protesta de ley.
 
 Artículo 182
 
@@ -2945,7 +3105,9 @@ VII. Informar al Consejo Distrital y Municipal sobre las casillas que no se inst
 
 VIII. Auxiliar a los funcionarios de las mesas directivas de casilla en la remisión de los paquetes Electorales al Consejo Distrital o Municipal Electoral o al centro de acopio correspondiente, sin interferir ni suplantarlos en sus funciones;
 
-IX. Apoyar a los Consejos Distritales y Municipales Electorales durante la sesión de cómputo y en la remisión de los paquetes Electorales al Instituto Electoral; sin interferir ni suplantarlos en sus funciones; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IX. Apoyar a los Consejos Distritales y Municipales Electorales durante la sesión de cómputo y, en caso de ser procedente, los recuentos, así como en la remisión de los paquetes Electorales al Instituto Electoral; sin interferir ni suplantarlos en sus funciones; y
 
 X. Las demás que determine el Consejo Distrital o Municipal Electoral para el ejercicio de sus funciones que establece este Código.
 
@@ -2986,6 +3148,10 @@ II. Un secretario;
 III. Dos escrutadores; y
 
 IV. Tres suplentes generales.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. En el caso de contar con dispositivos de recepción electrónica del voto, el Consejo General por mayoría calificada determinará la conformación de las mesas directivas de casilla.
 
 Artículo 194
 
@@ -3507,7 +3673,9 @@ Artículo 255
 
 Artículo 239
 
-1. Las solicitudes de registro de candidatos se presentarán ante el secretario ejecutivo del Instituto Electoral, y son:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Las solicitudes de registro de candidatos sólo podrán presentarse en el formato aprobado por el Consejo General debidamente requisitados, tal y como lo establece el artículo 241, ante el Secretario Ejecutivo del Instituto Electoral, y son:
 
 I. Fórmulas de candidatos a Diputados por el principio de mayoría relativa;
 
@@ -3537,7 +3705,9 @@ IV. Para las planillas de Munícipes, a partir del día dieciséis de Marzo y ha
 
 Artículo 241
 
-1. Las solicitudes de registro de candidatos deben contener:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Las solicitudes de registro de candidatos deberán presentarse por escrito en el formato aprobado por el Consejo General del Instituto y contener:
 
 I. Respecto de cada uno de los ciudadanos propuestos a candidatos propietarios y suplentes, la información siguiente:
 
@@ -3553,7 +3723,9 @@ e) Clave de elector de la credencial para votar; y
 
 f) Cargo al que se solicita su registro como candidato.
 
-II. De cada uno de los ciudadanos propuestos a candidatos propietarios y suplentes, se acompañarán los documentos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+II. A la solicitud de cada uno de los ciudadanos propuestos a candidatos propietarios y suplentes, se deberá acompañar sin excepción los documentos siguientes:
 
 a) Escrito con firma autógrafa en el que los ciudadanos propuestos como candidatos manifiesten su aceptación para ser registrados y en el que bajo protesta de decir verdad expresen que cumplen con todos y cada uno de los requisitos que establecen la Constitución Política del Estado y este Código;
 
@@ -3579,11 +3751,17 @@ Artículo 244
 
 1. Recibida una solicitud de registro de candidaturas, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en los artículos 241 y 242.
 
-2. Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente, para que dentro de las 48 horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre y cuando se esté dentro de los plazos que señala el artículo 240 de este Código.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-3. Para el caso de que los partidos políticos excedan el número de candidaturas simultáneas señaladas en el artículo 17 párrafo 2, de este Código, el secretario del Consejo General, requerirá al partido político a efecto de que informe en un término de cuarenta y ocho horas, las candidaturas o las fórmulas que deban excluirse de sus listas; con la prevención de que el incumplimiento faculta al Instituto a suprimir las fórmulas necesarias hasta ajustar el límite de candidaturas permitidas por la ley, iniciando con los registros simultáneos ubicados en los últimos lugares de cada una de las listas, una después de otra, en su orden, hasta ajustar el número antes referido.
+2. Si de la verificación realizada a la solicitud de registro se advierte que se omitió el cumplimiento de los requisitos establecidos en los incisos b), c), d) y e) de la fracción II del párrafo 1 del artículo 241 de este Código, se notificará de inmediato al partido político o coalición correspondiente previniéndolo para que dentro del término de las 48 horas siguientes a la notificación, subsane el o los requisitos omitidos, aporte la documentación faltante o sustituya la candidatura, con el apercibimiento de que de no hacerlo dentro de dicho término, le será negado el registro de la candidatura o candidaturas propuestas y le será devuelta la documentación presentada. El instituto no podrá bajo ninguna circunstancia, requerir al partido o coalición, cuando se trate de faltantes en los requisitos establecidos en la fracción I; inciso a) de la fracción II y lo previsto en la fracción III del párrafo 1 del artículo 241 del presente Código.
 
-4. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 240 será desechada de plano y no será registrada la candidatura o candidaturas que no satisfagan los requisitos que exige este Código.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. Para el caso de que los partidos políticos o coaliciones excedan el número de candidaturas simultáneas señaladas en el artículo 17 párrafo 2, de este Código, el secretario ejecutivo del Consejo General, requerirá al partido político o coalición, a efecto de que informe en un término de cuarenta y ocho horas, las candidaturas o las fórmulas que deban excluirse de sus listas; con la prevención de que el incumplimiento faculta al Instituto a suprimir las fórmulas necesarias hasta ajustar el límite de candidaturas permitidas por la ley, iniciando con los registros simultáneos ubicados en los últimos lugares de cada una de las formulas, una después de otra, en su orden, hasta ajustar el número antes referido.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 240 y el párrafo primero de este mismo artículo será desechada de plano y no será registrada la candidatura o candidaturas que no satisfagan los requisitos que exige este Código.
 
 Artículo 245
 
@@ -3655,7 +3833,9 @@ Artículo 254
 
 Artículo 285
 
-1. Los partidos políticos, una vez registrados sus candidatos, fórmulas y listas, y hasta trece días antes del día de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante cada mesa directiva de casilla, y representantes generales propietarios.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los partidos políticos, una vez registrados sus candidatos, fórmulas y listas, y hasta diez días antes del día de la elección, tendrán derecho a nombrar dos representantes propietarios y un suplente, ante cada mesa directiva de casilla, y representantes generales propietarios.
 
 2. Los partidos políticos podrán acreditar en cada uno de los distritos electorales uninominales un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas ubicadas en zonas rurales.
 
@@ -3735,7 +3915,9 @@ I. Las estatales y Municipales deberán dar un trato equitativo en el uso de los
 
 II. Los partidos políticos deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos en materia de iluminación y sonido, y el nombre del ciudadano autorizado por el partido político o el candidato en cuestión que se responsabilice del buen uso del local y sus instalaciones.
 
-3. El Presidente del Consejo General podrá solicitar a las autoridades competentes las medidas de seguridad personal para los candidatos que lo requieran, así como a los candidatos a Gobernador, desde el momento en que de acuerdo con los mecanismos internos de su partido, se ostenten con tal carácter. Las medidas que adopte la autoridad competente serán informadas al Consejero Presidente.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. El Presidente del Consejo General podrá solicitar a las autoridades competentes las medidas de seguridad personal para los candidatos que lo requieran, así como para los precandidatos a Gobernador, desde el momento en que de acuerdo con los mecanismos internos de su partido, se ostenten con tal carácter. Las medidas que adopte la autoridad competente serán informadas al Consejero Presidente.
 
 Artículo 258
 
@@ -3748,6 +3930,10 @@ Artículo 259
 1. La propaganda impresa que los candidatos utilicen durante la campaña electoral deberá contener identificación precisa del partido político o partidos coaligados que registraron la candidatura.
 
 2. La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrá más límite, en los términos del artículo 7o. de la Constitución Política de los Estados Unidos Mexicanos, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. La autoridad electoral deberá retirar la publicidad y propaganda electoral sin logotipo.
 
 Artículo 260
 
@@ -3777,17 +3963,29 @@ II. Podrá colocarse o fijarse en inmuebles de propiedad privada, siempre que me
 
 III. Podrá colocarse o fijarse en los bastidores y mamparas de uso común que determine el Consejo General del Instituto, previo acuerdo con las autoridades correspondientes;
 
-IV. No podrá colocarse, fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-V. No podrá colocarse, fijarse o pintarse en monumentos ni en edificios públicos.
+IV. No podrá colocarse, fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico;
 
-2. Los partidos, coaliciones y candidatos deberán utilizar en su propaganda impresa y demás elementos promociónales, materiales que no dañen el medio ambiente, preferentemente reciclables y de fácil degradación natural. Sólo podrá usarse material plástico reciclable en la propaganda electoral impresa.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V. No podrá colocarse, fijarse o pintarse en monumentos ni en edificios públicos; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI. Los aspirantes, precandidatos y candidatos deberán retirar y borrar totalmente cualquier propaganda electoral referente a su propia campaña o precampaña, en un plazo máximo de 30 días naturales posteriores a la jornada electoral o a la fecha de selección de candidatos. El cumplimiento de esta disposición es responsabilidad solidaria de los partidos políticos.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Los partidos, coaliciones y candidatos deberán utilizar en su propaganda impresa y demás elementos promocionales, materiales que no dañen el medio ambiente, preferentemente reciclables y de fácil degradación natural. Sólo podrá usarse material plástico reciclable en la propaganda electoral impresa.
 
 3. Los bastidores y mamparas de uso común serán repartidos por sorteo en forma equitativa de conformidad a lo que corresponda a los partidos políticos registrados y acreditados, conforme al procedimiento acordado en la sesión del Consejo Electoral Distrital respectivo, que al efecto celebre en Enero del año de la elección.
 
 4. El Consejo General del Instituto hará cumplir estas disposiciones y adoptará las medidas a que hubiere lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia.
 
-5. Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Secretario Ejecutivo del Consejo General del Instituto. El que ordenará la verificación de los hechos, integrará el expediente y someterá a la aprobación del Consejo General el proyecto de resolución. Contra la que procederá impugnación ante el Tribunal Electoral.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+5. Las quejas motivadas por la propaganda impresa de los partidos políticos y candidatos serán presentadas al Instituto, el que ordenará la verificación de los hechos, integrará el expediente y someterá a la aprobación del Consejo General el proyecto de resolución. Contra la que procederá impugnación ante el Tribunal Electoral.
 
 ### Capítulo Quinto. Duración de las Campañas
 
@@ -3829,7 +4027,9 @@ Artículo 268
 
 Artículo 269
 
-1. Las publicaciones de las listas de integrantes de las mesas directivas y ubicación de las casillas se fijarán en los edificios y lugares públicos más concurridos del distrito y en los medios electrónicos de que disponga el Instituto.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Las publicaciones de las listas de integrantes de las mesas directivas y ubicación de las casillas se fijarán en los edificios y lugares públicos más concurridos del distrito, y se publicarán en uno de los diarios de mayor circulación en el Estado y en los medios electrónicos de que disponga el Instituto.
 
 2. El secretario del Consejo Distrital entregará una copia impresa y otra en medio magnético de la lista a cada uno de los representantes de los partidos políticos, haciendo constar la entrega.
 
@@ -4029,7 +4229,9 @@ Artículo 290
 
 1. El registro de los nombramientos de los representantes ante las mesas directivas de casilla y de los representantes generales se sujetará a las reglas siguientes:
 
-I. A partir del día siguiente al de la publicación de las listas de casilla y hasta trece días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y por triplicado ante el Instituto Electoral, a sus representantes generales y de casilla. La documentación deberá reunir los requisitos que establece este Código y mediante el formato que apruebe el Consejo General;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. A partir del día siguiente al de la publicación de las listas de casilla y hasta diez días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y por triplicado ante el Instituto Electoral, a sus representantes generales y de casilla. La documentación deberá reunir los requisitos que establece este Código y mediante el formato que apruebe el Consejo General;
 
 II. El Instituto Electoral devolverá a los partidos políticos dos ejemplares debidamente sellados, conservando para sí un ejemplar; y
 
@@ -4043,13 +4245,17 @@ Artículo 291
 
 3. En caso de que posteriormente llegare el representante de casilla acreditado, el que ocupa su lugar ya no tendrá derecho a intervenir en la casilla para la elección estatal.
 
-4. En ningún caso podrá haber más de dos representantes de partido o coalición de casilla ante cada mesa directiva.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. En ningún caso podrá haber más de dos representantes de partido o coalición de casilla ante cada mesa directiva. Excepto durante la presencia del representante general, que de manera simultánea al representante de casilla o coalición permanezca en ella.
 
 5. Lo establecido en los párrafos 2, 3 y 4 anteriores sólo será posible siempre y cuando los partidos políticos hayan registrado representantes en la casilla correspondiente, haciéndose las anotaciones respectivas en la hoja de incidentes debiendo anotarse además el carácter y las generales de su nombramiento.
 
 Artículo 292
 
-1. Los partidos políticos podrán sustituir a sus representantes hasta con quince días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento, el original del anterior.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los partidos políticos podrán sustituir a sus representantes hasta con ocho días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento, el original del anterior.
 
 2. La devolución a que refiere el párrafo anterior se sujetará a las reglas siguientes:
 
@@ -4067,9 +4273,11 @@ Artículo 293
 
 1. Para la emisión del voto se imprimirán las boletas electorales, conforme al modelo que apruebe el Consejo General del Instituto Electoral.
 
-Artículo 294
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. El Consejo General del Instituto Electoral, aprobará el modelo de boleta electrónica, cuando previamente haya determinado la recepción de la votación en un modelo o sistema cibernético, acorde con las disposiciones de este Código.
+###### Artículo 294.
+
+1. El Consejo General del Instituto Electoral, aprobará el modelo de boleta electrónica, así como de las actas, cuando previamente haya determinado la recepción de la votación en un modelo o sistema electrónico, acorde con las disposiciones de este Código.
 
 Artículo 295
 
@@ -4101,11 +4309,15 @@ Artículo 306
 
 1. Los funcionarios de mesa directiva de casilla, no podrán retirarse sino hasta que ésta sea clausurada, salvo los casos de fuerza mayor, que calificarán el Consejo Distrital o Municipal Electoral correspondiente.
 
-2. Cualquier sustitución de funcionarios, será hecha constar en el acta de la jornada electoral, en su apartado de incidentes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Cualquier sustitución de funcionarios, se hará constar en el apartado de incidentes del acta de la jornada electoral.
 
 Artículo 307
 
-1. Los representantes de los partidos políticos o coaliciones deberán firmar los diversos apartados del acta de la jornada electoral. En caso de ausencia o negativa de éstos, el secretario de la mesa directiva de casilla asentará dicha circunstancia en el apartado de incidentes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los representantes de los partidos políticos o coaliciones deberán firmar los diversos apartados del acta de la jornada electoral. En caso de ausencia o negativa de éstos, el Secretario de la Mesa Directiva de Casilla asentará dicha circunstancia en el acta de incidentes, que forma parte integral del acta de la jornada electoral.
 
 2. La falta de firma de alguno de los representantes de partidos políticos no afectará la validez del acta de la jornada electoral y sus diversos apartados.
 
@@ -4119,7 +4331,9 @@ I. Entidad, distrito electoral uninominal y municipio;
 
 II. Elección de que se trate;
 
-III. Emblema y color o colores de cada partido político;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Emblema y color o colores de cada partido político que haya registrado candidatos para la elección que corresponda;
 
 IV. Nombre(s) y apellidos del candidato o candidatos;
 
@@ -4161,11 +4375,15 @@ II. El secretario del Consejo Distrital levantará acta pormenorizada de la entr
 
 III. A continuación, los miembros presentes del Consejo Distrital acompañarán al Presidente a depositar la documentación recibida, en el lugar previamente asignado dentro de la sede del Consejo Distrital, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
 
-IV. El mismo día o a más tardar el siguiente, el Presidente del Consejo, el secretario y los Consejeros Electorales procederán a contar las boletas para precisar la cantidad recibida, consignando el número de los folios, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General para ellas. El secretario registrará los datos de esta distribución; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. El mismo día o a mas tardar el siguiente, el Presidente del Consejo, el Secretario Ejecutivo y los Consejeros Electorales, procederán a contar las boletas para precisar la cantidad recibida, consignando el número de los folios, y agruparlas en razón del número de electores que corresponda en cada una de las casillas a instalar, incluyendo las de las casillas especiales según el número que acuerde el Consejo General para ellas. El secretario registrará los datos de esta distribución; y
 
 V. Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
 
-3. Los representantes de los partidos políticos o coaliciones, bajo su más estricta responsabilidad, si por mayoría lo acuerdan, podrán firmar o rubricar las boletas Electorales a través de uno de los representantes acreditados ante el Consejo Distrital, quien será designado por sorteo, el procedimiento de firma necesariamente se hará ante la presencia de los integrantes del Consejo Distrital, al efecto se levantará acta en la que se hará constar la cantidad de boletas y los números de folios que se le dio a firmar, el número de las firmadas y, en su caso, el número de boletas faltantes después de haber realizado el procedimiento de firma. Caso en el que de inmediato se hará del conocimiento a la autoridad competente.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. Los representantes de los partidos políticos, bajo su más estricta responsabilidad, si por mayoría lo acuerdan, podrán firmar o rubricar las boletas electorales a través de uno de los representantes acreditados ante el Consejo Distrital, quien será designado por sorteo, el procedimiento de firma necesariamente se hará ante la presencia de los integrantes del Consejo Distrital, al efecto se levantará acta en la que se hará constar la cantidad de boletas y los números de folios que se le dio a firmar, el número de las firmadas y en su caso el número de las boletas faltantes después de haber realizado el procedimiento de firma. Caso en el que de inmediato se hará del conocimiento a la autoridad competente
 
 4. La falta de firma de los representantes en las boletas no impedirá su oportuna distribución.
 
@@ -4209,11 +4427,19 @@ Artículo 302
 
 2. Las urnas llevarán en el exterior y en lugar visible, impresa o adherida en el mismo color de la boleta que corresponda, la denominación de la elección de que se trate.
 
-3. El líquido indeleble seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-Artículo 303
+3. En el caso de que se utilicen modelos o sistemas electrónicos para la recepción del voto, el contenedor de los votos deberá ser transparente, resistente y garantizar la secrecía del voto, conforme a las características determinadas por el Consejo del Instituto electoral.
 
-1. El Presidente y el secretario de cada casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la votación, garantizar la libertad y el secreto del voto, y asegurar el orden en la elección. En el local de la casilla y en su exterior en un radio de cincuenta metros no deberá haber propaganda partidaria; de haberla, la mandarán retirar.
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. El líquido indeleble seleccionado deberá garantizar plenamente su eficacia. Los envases que lo contengan deberán contar con elementos que identifiquen el producto.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 303.
+
+1. El Presidente y el Secretario de cada casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la votación, garantizar la libertad y el secreto del voto, y asegurar el orden en la elección. En el local de la casilla y en su exterior en un radio de cincuenta metros no deberá haber propaganda partidaria; de haberla, la mandarán retirar.
 
 #### Sección Primera. De los Cómputos
 
@@ -4257,25 +4483,7 @@ I. Los que afecten directamente cuando menos a la mitad más uno de los municipi
 
 II. Los que afecten a las dos terceras partes de la población del estado o del municipio según sea el caso.
 
-Artículo 387
-
-1. Son leyes, reglamentos o decretos del Congreso del Estado trascendentes para el orden público y el interés social las que regulen las materias de:
-
-I. Medio ambiente, ecología y agua;
-
-II. Salud, asistencia social y beneficencia privada;
-
-III. Derechos humanos, seguridad pública, comunicaciones, vialidad y transporte;
-
-IV. Educación, cultura, turismo y deportes;
-
-V. Electoral;
-
-f) (sic). Responsabilidades de los servidores públicos;
-
-g). Civil; y
-
-h). Penal.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Segundo. Instalación de Casillas
 
@@ -4311,15 +4519,19 @@ Artículo 310
 
 1. Las urnas se colocarán a la vista de los funcionarios de mesa directiva de casilla y representantes de partidos políticos o coaliciones y en lugar de fácil acceso a los electores.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 Artículo 311
 
-1. Los representantes de los partidos políticos o coaliciones, podrán rubricar o firmar las boletas electorales, a través de uno de los representantes de partido acreditado ante la mesa directiva de casilla, quien será designado por sorteo.
+1. Los representantes de los partidos políticos o coaliciones, podrán rubricar o firmar las boletas electorales, a través de uno de los representantes acreditado ante la mesa directiva de casilla, quien será designado por sorteo.
 
-2. El representante de partido político seleccionado deberá firmar o rubricar todas las boletas, lo podrá hacer por partes para no obstaculizar el desarrollo de la votación.
+2. El representante de partido político o coalición seleccionado deberá firmar o rubricar todas las boletas, lo podrá hacer por partes para no obstaculizar el desarrollo de la votación.
 
 Artículo 312
 
-1. De no instalarse la casilla, a las ocho horas con quince minutos conforme al artículo anterior, se estará a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. De no instalarse la casilla, a las ocho horas con quince minutos conforme al artículo 309, se estará a lo siguiente:
 
 I. Si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración, recorriendo, en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes presentes para sustituir a los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren formados para votar;
 
@@ -4331,7 +4543,9 @@ IV. Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de Pr
 
 V. Si no asistiera ninguno de los funcionarios de la casilla, el Consejo Distrital tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
 
-VI. Cuando por razones de distancia o dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Electoral designado, a las diez horas, los representantes de los partidos políticos ante las mesas directivas de casilla designarán por mayoría, a los funcionarios necesarios para integrar la casilla de entre los electores formados para votar, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI. Cuando por razones de distancia o dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Instituto Electoral designado, a las diez horas, los representantes de los partidos políticos ante las mesas directivas de casilla designarán por mayoría, a los funcionarios necesarios para integrar la casilla de entre los electores formados para votar, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar; siempre y cuando, cuenten con los materiales y documentación electoral necesaria que permita la recepción de la votación; y
 
 VII. En todo caso, integrada conforme a los anteriores supuestos, la mesa directiva de casilla, iniciará sus actividades, recibirá válidamente la votación y funcionará hasta su clausura.
 
@@ -4399,9 +4613,13 @@ Artículo 318
 
 Artículo 319
 
-1. Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su credencial para votar, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto marque en la boleta únicamente el cuadro correspondiente al partido político por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-2. Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas de voto, se podrán asistir por una persona de su confianza.
+1. Una vez comprobado que el elector aparece en las listas nominales y que haya exhibido su credencial para votar, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto marque en la boleta únicamente el cuadro correspondiente al partido político por el que sufraga, o anote el nombre del candidato no registrado por el que desea emitir su voto; en el caso de que se utilice el sistema electrónico de recepción del voto, una vez que se verifique que el elector aparece en la lista nominal, pasará a emitir su sufragio, garantizando que lo haga en plena libertad y secreto.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Aquellos electores que no sepan leer o que se encuentren impedidos físicamente para sufragar, se podrán asistir por una persona de su confianza.
 
 3. Acto seguido, el elector doblará sus boletas y se dirigirá a depositarlas en la urna correspondiente.
 
@@ -4436,6 +4654,10 @@ IV. Los funcionarios del Instituto Electoral que fueren enviados por el Consejo 
 5. En ningún caso se permitirá el acceso a las casillas a personas que se encuentren privadas de sus facultades mentales, intoxicadas, bajo el influjo de enervantes, embozadas o armadas.
 
 6. Tampoco tendrán acceso a las casillas, salvo que sea para ejercer su derecho al voto, miembros de corporaciones o fuerzas de seguridad pública, dirigentes de partidos políticos, candidatos o representantes populares.
+
+ADICIONADO, P.O. 19 DE JULIO DE 2011)
+
+7. Las empresas encuestadoras registradas ante el Instituto para fungir como tal el día de la jornada electoral, tendrán que realizar sus actividades fuera del espacio de la mesa directiva de casilla, cuidando en todo momento no interferir en el desarrollo de la votación.
 
 Artículo 321
 
@@ -4501,9 +4723,21 @@ Artículo 327
 
 1. El apartado del cierre de votación del acta de la jornada electoral, contendrá:
 
-I. Hora de cierre de la votación; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-II. En su caso, el motivo por el que la casilla se cerró antes o después de las dieciocho horas.
+I. Hora de cierre de la votación;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. En su caso, el motivo por el que la casilla se cerró antes o después de las dieciocho horas;
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+III. Nombre y firma de los representantes de los partidos políticos; y
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+IV. Nombre y firma de los funcionarios de la casilla.
 
 ### Capítulo Sexto. Del Escrutinio y Cómputo en Casillas
 
@@ -4527,7 +4761,9 @@ IV. El número de boletas sobrantes de cada elección.
 
 I. Aquel expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político; y
 
-II. Cuando el elector marque dos o más cuadros.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Cuando el elector marque dos o más cuadros, salvo en el caso de que dicho sufragio sea emitido en favor de partidos coaligados.
 
 3. Se entiende por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
 
@@ -4565,7 +4801,9 @@ Artículo 332
 
 1. Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
 
-I. Se contará un voto válido por la marca que haga el elector en un solo cuadro en el que se contenga el emblema de un partido político;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Se contará un voto válido por la marca que haga el elector en un solo cuadro en el que se contenga el emblema de un partido político, o en dos o más cuadros cuando se trate de partidos coaligados;
 
 II. Se contará como nulo cualquier voto emitido en forma distinta a la señalada; y
 
@@ -4655,9 +4893,13 @@ III. Los escritos de protesta que se hubieren recibido.
 
 3. La lista nominal de electores se remitirá en sobre por separado.
 
-4. Para garantizar la inviolabilidad de la documentación anterior, con el expediente de cada una de las elecciones y los sobres, se formará un paquete en cuya envoltura firmarán los integrantes de la mesa directiva de casilla y los representantes que desearen hacerlo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-5. La denominación expediente de casilla corresponderá al que se hubiese formado con las actas y los escritos de protesta referidos en el párrafo 1 de este artículo.
+4. La denominación expediente de casilla corresponderá al que se hubiese formado con las actas y los escritos de protesta referidos en el párrafo 1 de este artículo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+5. Para garantizar la inviolabilidad de la documentación anterior, los expedientes de las elecciones y los sobres, se depositarán en dos paquetes en cuya superficie firmarán los integrantes de la mesa directiva de casilla y los representantes que desearen hacerlo. En uno de los paquetes se depositará el expediente correspondiente a la elección de munícipes; en el otro, los correspondientes a las elecciones de diputados y Gobernador, de esta última cuando se celebre.
 
 Artículo 341
 
@@ -4677,7 +4919,9 @@ Artículo 343
 
 Artículo 344
 
-1. Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad, harán llegar al Consejo Distrital que corresponda los paquetes y los expedientes de casilla dentro de los plazos siguientes, contados a partir de la hora de clausura:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Una vez clausuradas las casillas, los Presidentes de las mismas, bajo su responsabilidad, harán llegar al Consejo Distrital, Municipal o en su caso, centro de acopio que corresponda, de conformidad con el mecanismo referido con el párrafo 4 de este articulo, que corresponda, los paquetes y los expedientes de casilla dentro de los plazos siguientes, contados a partir de la hora de clausura:
 
 I. Tres horas, cuando se trate de casillas ubicadas en la cabecera del distrito;
 
@@ -4687,11 +4931,15 @@ III. Hasta veinticuatro horas cuando se trate de casillas ubicadas en zonas rura
 
 2. Los Consejos Distritales, previamente al día de la elección, podrán determinar la ampliación de los plazos anteriores para aquellas casillas que lo justifiquen.
 
-3. Los Consejos Distritales adoptarán previamente al día de la elección, las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados dentro de los plazos establecidos y para que puedan ser recibidos en forma simultánea.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. Los Consejos Distritales adoptarán previamente al día de la elección, las medidas necesarias para que los paquetes con los expedientes de las elecciones sean entregados dentro de los plazos establecidos y para que puedan ser recibidos en forma simultánea, así como, en su caso, del resguardo y distribución de los medios electrónicos aprobados por el Consejo General del Instituto para la emisión del voto.
 
 4. Los Consejos Distritales podrán acordar que se establezca un mecanismo para la recolección de la documentación de las casillas cuando fuere necesario en los términos de este Código. Lo anterior se realizará bajo la vigilancia de los partidos políticos que así desearen hacerlo.
 
-5. Se considerará que existe causa justificada para que los paquetes con los expedientes de casilla sean entregados al Consejo Distrital fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+5. Se considerará que existe causa justificada para que los paquetes con los expedientes de casilla o medios electrónicos para la recepción de la votación, sean entregados al Consejo Distrital fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor.
 
 ### Capítulo Décimo. Recepción, Depósito y Salvaguarda de los Paquetes Electorales
 
@@ -4735,9 +4983,17 @@ I. Los magistrados del Supremo Tribunal de Justicia;
 
 II. El procurador de justicia, los subprocuradores y los agentes del ministerio público del Estado;
 
-III. El secretario de seguridad pública del Estado, los jefes de las policías Municipales y los miembros de las corporaciones de seguridad pública estatales y Municipales; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-IV. El Consejo de notarios y los notarios públicos del Estado.
+III. El secretario de seguridad pública del estado, los jefes de las policías municipales y los miembros de las corporaciones de seguridad pública estatal y municipales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. El Consejo de notarios y los notarios públicos del estado; y
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+V. Tratándose de elecciones extraordinarias, el Consejo General determinará, mediante acuerdo, lo conducente en relación con lo señalado en las fracciones anteriores.
 
 Artículo 350
 
@@ -4750,6 +5006,10 @@ Artículo 350
 4. El Consejo del Colegio de Notarios, publicará en el Periódico Oficial “El Estado de Jalisco” y en uno de los diarios de mayor circulación en el estado, los nombres, domicilios y teléfonos de sus integrantes que se encuentren en ejercicio, cinco días antes del día de la elección.
 
 5. Los servicios que presten los notarios públicos durante y relacionados con la jornada electoral no causarán pago de honorarios, derechos o contribución fiscal alguna.
+
+ADICIONADO, P.O. 19 DE JULIO DE 2011)
+
+6. Tratándose de elecciones extraordinarias, el Consejo General determinará, mediante acuerdo, lo conducente en relación con lo señalado en las fracciones anteriores.
 
 Artículo 351
 
@@ -4781,47 +5041,7 @@ Artículo 353
 
 1. Cómputo Municipal es el procedimiento que ejecuta el Consejo Municipal Electoral consistente en realizar la suma de los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral, de cada una de las casillas en el municipio, para obtener el resultado de la votación total en la elección de Munícipes.
 
-Artículo 354
-
-1. Cómputo Distrital es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral de cada una de las casillas en el distrito, para obtener el resultado de la votación total en la elección de Diputados por el principio de mayoría relativa.
-
-Artículo 355
-
-1. Cómputo estatal parcial de la elección de Diputados por el principio de representación proporcional, es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral de cada una de las casillas en el distrito, para obtener el resultado de esa votación en la delimitación del distrito.
-
-Artículo 356
-
-1. Cómputo estatal parcial de la elección de Gobernador es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el apartado de escrutinio y cómputo del acta de la jornada electoral de cada una de las casillas en el distrito, para obtener el resultado de la votación en la elección de Gobernador, en la delimitación del distrito.
-
-Artículo 357
-
-1. Cómputo estatal de la elección de Diputados por el principio de representación proporcional, es el procedimiento que ejecuta el Consejo General del Instituto Electoral, consistente en realizar la suma de los resultados asentados en las actas de cómputo estatal parcial de la elección de Diputados por ese principio.
-
-Artículo 358
-
-1. Cómputo estatal de la elección de Gobernador, es el procedimiento que ejecuta el Consejo General del Instituto Electoral, consistente en realizar la suma de los resultados asentados en las actas de cómputo estatal parcial de la elección de Gobernador.
-
-Artículo 359
-
-1. Los cómputos previstos en este capítulo se asentarán en los formatos de acta que al efecto, hayan sido aprobados por el Consejo General del Instituto Electoral.
-
-Artículo 360
-
-1. Son resultados oficiales de las elecciones:
-
-I. Los cómputos Municipales levantados por los Consejos Municipales Electorales;
-
-II. Los cómputos Distritales levantados por los Consejos Distritales Electorales; y
-
-III. Los cómputos estatales levantados por el Consejo General del Instituto Electoral.
-
-Artículo 361
-
-1. Cuando los cómputos estatales parciales para representación proporcional o para Gobernador, contengan errores aritméticos, estos serán corregidos reponiéndose el acta respectiva por el Consejo General del Instituto Electoral, previamente a la calificación de las elecciones.
-
-Artículo 362
-
-1. Los resultados de los cómputos previstos en este capítulo, se asentarán en los formatos de acta aprobados por el Consejo General del Instituto Electoral y el desarrollo del procedimiento respectivo se establecerá en las actas circunstanciadas de las sesiones especiales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Décimo Segundo. Programa de Resultados Electorales Preliminares
 
@@ -4853,11 +5073,59 @@ Artículo 367
 
 1. Los funcionarios de mesa directiva de casilla anexarán por fuera del paquete electoral, un ejemplar del apartado de escrutinio y cómputo del acta de la jornada electoral, para el programa de resultados Electorales preliminares.
 
+###### Artículo 354.
+
+1. Cómputo Distrital es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el acta de escrutinio y cómputo de cada una de las casillas en el distrito, para obtener el resultado de la votación total en la elección de Diputados por el principio de mayoría relativa.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 355.
+
+1. Cómputo estatal parcial de la elección de Diputados por el principio de representación proporcional, es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el acta de escrutinio y cómputo de cada una de las casillas en el distrito, para obtener el resultado de esa votación en la delimitación del distrito.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 356.
+
+1. Cómputo estatal parcial de la elección de Gobernador es el procedimiento que ejecuta el Consejo Distrital Electoral, consistente en realizar la suma de los resultados asentados en el acta de escrutinio y cómputo de cada una de las casillas en el distrito, para obtener el resultado de la votación en la elección de Gobernador, en la delimitación del distrito.
+
+Artículo 357
+
+1. Cómputo estatal de la elección de Diputados por el principio de representación proporcional, es el procedimiento que ejecuta el Consejo General del Instituto Electoral, consistente en realizar la suma de los resultados asentados en las actas de cómputo estatal parcial de la elección de Diputados por ese principio.
+
+Artículo 358
+
+1. Cómputo estatal de la elección de Gobernador, es el procedimiento que ejecuta el Consejo General del Instituto Electoral, consistente en realizar la suma de los resultados asentados en las actas de cómputo estatal parcial de la elección de Gobernador.
+
+Artículo 359
+
+1. Los cómputos previstos en este capítulo se asentarán en los formatos de acta que al efecto, hayan sido aprobados por el Consejo General del Instituto Electoral.
+
+Artículo 360
+
+1. Son resultados oficiales de las elecciones:
+
+I. Los cómputos Municipales levantados por los Consejos Municipales Electorales;
+
+II. Los cómputos Distritales levantados por los Consejos Distritales Electorales; y
+
+III. Los cómputos estatales levantados por el Consejo General del Instituto Electoral.
+
+Artículo 361
+
+1. Cuando los cómputos estatales parciales para representación proporcional o para Gobernador, contengan errores aritméticos, estos serán corregidos reponiéndose el acta respectiva por el Consejo General del Instituto Electoral, previamente a la calificación de las elecciones.
+
+Artículo 362
+
+1. Los resultados de los cómputos previstos en este capítulo, se asentarán en los formatos de acta aprobados por el Consejo General del Instituto Electoral y el desarrollo del procedimiento respectivo se establecerá en las actas circunstanciadas de las sesiones especiales.
+
 ### Capítulo Décimo Tercero. De la Información Preliminar de los Resultados
 
 Artículo 368
 
-1. Los Consejos Distritales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes Electorales, conforme a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los Consejos Distritales y municipales harán las sumas de las actas de escrutinio y cómputo de las casillas conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes que contengan los expedientes electorales, conforme a las siguientes reglas:
 
 I. El Consejo Distrital o Municipal autorizará al personal necesario para la recepción continua y simultánea de los paquetes Electorales. Los partidos políticos podrán acreditar a sus representantes suplentes para que estén presentes durante dicha recepción;
 
@@ -5007,63 +5275,7 @@ Artículo 391
 
 1. El referéndum derogatorio podrá ser de naturaleza total o parcial, en atención a la solicitud que se formule.
 
-Artículo 392
-
-1. La solicitud de referéndum se presentará dentro de los siguientes treinta días a la fecha de la publicación de la ley, reglamento o decreto que expida el Congreso del Estado o el acuerdo de carácter general, reglamento o decreto que emita el Gobernador del Estado, en el Periódico Oficial “El Estado de Jalisco”, o reglamento o disposición de carácter general, impersonal y abstracta que emita el Ayuntamiento.
-
-Artículo 393
-
-1. Las solicitudes de referéndum deberán presentarse ante el Instituto Electoral, el que asignará un número consecutivo de registro en el que indicará el orden en que éstos han sido presentados y la fecha de su inscripción.
-
-Artículo 394
-
-1. La solicitud que formulen los ciudadanos deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
-
-I. Nombre del representante común de los promoventes;
-
-II. Manifestación de conducirse bajo protesta de decir verdad;
-
-III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
-
-IV. Especificación precisa y detallada de la ley, reglamento o decreto del Congreso del Estado, el acuerdo de carácter general, reglamento o decreto del Gobernador del Estado, o reglamento o disposición de carácter general, impersonal y abstracta del Ayuntamiento, según corresponda, se pretenda someter a referéndum;
-
-V. Autoridad o autoridades de las que emana el acto materia de referéndum;
-
-VI. Exposición de motivos precisa y detallada por los cuales se considera necesario derogar el acto materia de referéndum; y
-
-VII. Los siguientes datos en orden de columnas:
-
-a) Nombre completo de los ciudadanos solicitantes;
-
-b) Número de folio de la credencial para votar de los solicitantes;
-
-c) Clave de elector de los solicitantes;
-
-d) Sección electoral a la que pertenecen los solicitantes; y
-
-e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
-
-2. En caso de que no exista forma oficial, se deberá presentar en escrito que reúna los requisitos que establece este artículo.
-
-Artículo 395
-
-1. Los escritos que presente el Gobernador o el Congreso del Estado para solicitar el referéndum deberán contener lo siguiente:
-
-I. Nombre de la autoridad que lo promueve. En el caso del Congreso del Estado el acuerdo legislativo que apruebe la presentación de solicitud de referéndum;
-
-II. El precepto legal en el que se fundamente la solicitud;
-
-III. Especificación precisa del acto que se pretende someter a referéndum;
-
-IV. Autoridad o autoridades de las que emana el acto materia del referéndum;
-
-V. Exposición de motivos precisa y detallada por los cuales se considera necesario derogar el acto materia de referéndum; y
-
-VI. Nombre y firma del titular del Poder Ejecutivo o de los Diputados Presidente y secretario del Congreso del Estado.
-
-Artículo 396
-
-1. El desistimiento de la solicitud sólo podrá hacerse valer desde su presentación y hasta los 10 días naturales después de publicada la convocatoria.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 #### Sección Segunda. Calificación de las Elecciones de Diputados por el Principio de Representación Proporcional
 
@@ -5137,9 +5349,249 @@ VII. Expedirá las constancias de mayoría a las planillas de Munícipes que obt
 
 ### Capítulo Segundo. Del Trámite de la Solicitud y Resolución
 
-Artículo 397
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. Recibida la solicitud de referéndum, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días siguientes, que cumpla con los requisitos que establecen los artículos 394 o 395, según corresponda. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
+###### Artículo 387.
+
+1. Son leyes, reglamentos o decretos del Congreso del Estado trascendentes para el orden público y el interés social las que regulen las materias de:
+
+I. Medio ambiente, ecología y agua;
+
+II. Salud, asistencia social y beneficencia privada;
+
+III. Derechos humanos, seguridad pública, comunicaciones, vialidad y transporte;
+
+IV. Educación, cultura, turismo y deportes;
+
+V. Electoral;
+
+VI. Responsabilidades de los servidores públicos;
+
+VII. Civil; y
+
+VIII. Penal.
+
+## Título Tercero. Plebiscito
+
+### Capítulo Primero. De la Solicitud
+
+Artículo 402
+
+1. Podrán solicitar plebiscito al Instituto Electoral:
+
+I. El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes, y durante los treinta días anteriores o posteriores al inicio de la decisión o acto de gobierno del Poder Ejecutivo, cuando se consideren como trascendentes para el orden público o el interés social, excepto los nombramientos de los titulares de las secretarías o dependencias del ejecutivo, así como la determinación de algún precio, tarifa o contribución;
+
+II. El Gobernador del Estado, cuando considere que las propuestas o decisiones de su gobierno son trascendentes para el orden público o el interés social;
+
+III. El Presidente Municipal, o los Ayuntamientos o Consejos Municipales, con la aprobación de las dos terceras partes de sus integrantes y antes de la ejecución de la obra pública o enajenación del patrimonio Municipal; y
+
+IV. Un número de ciudadanos jaliscienses antes de la ejecución de la obra pública o enajenación del patrimonio municipal, que represente cuando menos a:
+
+a) Un cinco por ciento de los inscritos en el Padrón Electoral en los municipios cuyo número de habitantes sea inferior a trescientos mil; o
+
+b) Un tres por ciento de los inscritos en el Padrón electoral en los municipios cuyo número de habitantes sea superior a trescientos mil.
+
+Artículo 403
+
+1. La solicitud de plebiscito se presentará ante el Instituto Electoral, se le asignará el número consecutivo de registro que deberá indicar el orden de presentación y fecha de inscripción.
+
+Artículo 404
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los escritos para promover el proceso de plebiscito presentados por el Congreso del Estado, el titular del Poder Ejecutivo, Presidente Municipal, los Ayuntamientos o los Concejos Municipales, deben contener:
+
+I. Nombre de la autoridad que lo promueve. En caso de tratarse de un organismo colegiado, el acuerdo que apruebe la promoción del proceso respectivo;
+
+II. El precepto legal en el que fundamente su solicitud;
+
+III. Especificación precisa y detallada del acto de autoridad, objeto del plebiscito;
+
+IV. Autoridad o autoridades de las que emana el acto o decisión de gobierno materia de plebiscito;
+
+V. Exposición de motivos por los cuales se considera que el acto de autoridad no debe realizarse; y
+
+VI. Nombre y firma del titular del Ejecutivo; de los Diputados Presidente y secretario del Congreso del Estado; del Presidente Municipal del ayuntamiento o del Concejo Municipal y del funcionario encargado de la Secretaría, según sea el caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. En caso que el plebiscito sea promovido por ciudadanos en contra de obra pública, municipal o estatal, o enajenación de patrimonio Municipal, la solicitud deberá presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
+
+I. Nombre del representante común de los promoventes;
+
+II. Manifestación de conducirse bajo protesta de decir verdad;
+
+III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
+
+IV. Especificación de la obra pública o enajenación de patrimonio Municipal que se pretende someter a plebiscito;
+
+V. Autoridad o autoridades que pretendan llevar a cabo los acto (sic) señalados en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI. Exposición de motivos por los cuales se considera que los actos señalados en la fracción IV no deben llevarse a cabo; y
+
+VII. Los siguientes datos en orden de columnas:
+
+a) Nombre completo de los ciudadanos solicitantes;
+
+b) Número de folio de la credencial para votar de los solicitantes;
+
+c) Clave de elector de los solicitantes;
+
+d) Sección electoral a la que pertenecen los solicitantes; y
+
+e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
+
+3. En caso de que no exista forma oficial, se deberá presentar en escrito que reúna los requisitos que establece este artículo.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+## Título Cuarto. Disposiciones Comunes del Referéndum y Plebiscito
+
+### Capítulo Segundo. Del Trámite de la Solicitud y Resolución
+
+Artículo 406
+
+1. Recibida la solicitud de plebiscito, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días siguientes, que cumpla con los requisitos que establece el artículo 404. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación, con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
+
+Artículo 407
+
+1. Si la solicitud de plebiscito cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, el Presidente del Instituto Electoral, a más tardar al cuarto día de la presentación, o séptimo día en caso de haber mediado requerimiento al promovente, notificará su recepción a la autoridad de la que presuntamente emanó el acto objeto de la solicitud de plebiscito, acompañando una copia de dicha solicitud. La notificación deberá contener:
+
+I. La mención precisa y detallada de la decisión o acto de gobierno que se pretende someter a plebiscito;
+
+II. Autoridad o autoridades de las que emana el acto materia de plebiscito; y
+
+III. La exposición de motivos contenida en la solicitud del promovente.
+
+2. La autoridad de la que emanó el acto objeto de la solicitud de plebiscito dispondrá de un plazo de cinco días naturales para hacer llegar la exposición de motivos, así como las causales de improcedencia que considere pertinentes.
+
+Artículo 408
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Trascurrido el plazo a que se refiere el párrafo 2 del artículo anterior, en el plazo de treinta días naturales el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto que se pretende someter a plebiscito es un acto o decisión de gobierno.
+
+2. Si el acto materia de la solicitud de plebiscito no es un acto o decisión de gobierno se resolverá la improcedencia del plebiscito.
+
+3. Si se resuelve que el acto materia de la solicitud de plebiscito es un acto o decisión de gobierno, el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto materia de la solicitud de plebiscito es trascendente para el orden público o el interés social, o se trata de obra pública o enajenación de patrimonio Municipal.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. Si el acto materia de la solicitud de plebiscito no es trascendente para el orden público o el interés social, o no se trata de obra pública o enajenación de patrimonio municipal, se resolverá la improcedencia del plebiscito.
+
+5. Cuando se trate de obra pública o enajenación de patrimonio municipal, el Consejo General acordará el procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y deberá adoptar técnicas de muestreo científicamente sustentadas.
+
+6. Si como resultado del procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud, se obtiene que no se reúnen el número de ciudadanos que se establecen en párrafo 1, fracción IV del artículo 402, el Consejo General desechará por improcedente la solicitud de plebiscito.
+
+Artículo 409
+
+1. Con independencia de lo dispuesto en el artículo anterior, el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, decretará la improcedencia de la solicitud del proceso de plebiscito en los casos siguientes:
+
+I. El acto o decisión de gobierno materia del plebiscito no sea trascendente para el orden público o interés social;
+
+II. El escrito de solicitud se haya presentado en forma extemporánea;
+
+III. El acto materia del plebiscito se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
+
+IV. El acto no se haya realizado o no se pretenda realizar por las autoridades;
+
+V. La exposición de motivos sea frívola, inverosímil, subjetiva o no contenga una relación directa causa-efecto entre los motivos expuestos y el acto o decisión de gobierno;
+
+VI. El escrito de solicitud sea insultante, atente contra de las instituciones o sea ilegible; y
+
+VII. La solicitud respectiva no cumpla con todos los requisitos y formalidades que se establecen en el presente ordenamiento.
+
+Artículo 410
+
+1. Si el Consejo General resuelve la procedencia de la solicitud de plebiscito deberá emitir el acuerdo correspondiente.
+
+2. El acuerdo que declare la procedencia del plebiscito será publicado en el periódico oficial “El Estado de Jalisco”, o en su caso en la Gaceta Municipal, o en el medio oficial de divulgación previsto por el reglamento Municipal aplicable, incluyendo la convocatoria que contendrá:
+
+I. Fecha, lugar y hora de la jornada de consulta;
+
+II. Especificación precisa y detallada del acto de autoridad objeto del plebiscito;
+
+III. La pregunta o preguntas elaboradas por el Instituto Electoral;
+
+IV. La autoridad o autoridades de las que emana el acto o decisión de gobierno objeto del plebiscito;
+
+V. El ámbito territorial de aplicación del proceso, anexando una relación completa de las secciones Electorales donde se sufragará;
+
+VI. La exposición de motivos por los cuales los promoventes consideran que el acto o decisión de gobierno debe ser llevado a cabo, revocado o suspendido;
+
+VII. La exposición de motivos y de circunstancias especiales por las cuales la autoridad de la que emana el acto sujeto al proceso de plebiscito considera que los ciudadanos deben emitir su voto a favor del acto o decisión de gobierno;
+
+VIII. El número de electores que tiene derecho a participar, así como el porcentaje mínimo requerido para que el acto o decisión materia del plebiscito sea revocado o suspendido;
+
+IX. Consecuencias de los resultados que arrojaría la consulta; y
+
+X. Las demás disposiciones reglamentarias del procedimiento respectivo y particular que se consideren pertinentes.
+
+###### Artículo 392.
+
+1. La solicitud de referéndum se presentará dentro de los siguientes treinta días hábiles a la fecha de la publicación de la ley, reglamento o decreto que expida el Congreso del Estado o el acuerdo de carácter general, reglamento o decreto que emita el Gobernador del Estado, en el Periódico Oficial "El Estado de Jalisco", o reglamento o disposición de carácter general, impersonal y abstracta que apruebe el Ayuntamiento y sea publicada en su gaceta municipal, en su caso, o en el medio oficial de publicación con el que cuente.
+
+Artículo 393
+
+1. Las solicitudes de referéndum deberán presentarse ante el Instituto Electoral, el que asignará un número consecutivo de registro en el que indicará el orden en que éstos han sido presentados y la fecha de su inscripción.
+
+Artículo 394
+
+1. La solicitud que formulen los ciudadanos deberán presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
+
+I. Nombre del representante común de los promoventes;
+
+II. Manifestación de conducirse bajo protesta de decir verdad;
+
+III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
+
+IV. Especificación precisa y detallada de la ley, reglamento o decreto del Congreso del Estado, el acuerdo de carácter general, reglamento o decreto del Gobernador del Estado, o reglamento o disposición de carácter general, impersonal y abstracta del Ayuntamiento, según corresponda, se pretenda someter a referéndum;
+
+V. Autoridad o autoridades de las que emana el acto materia de referéndum;
+
+VI. Exposición de motivos precisa y detallada por los cuales se considera necesario derogar el acto materia de referéndum; y
+
+VII. Los siguientes datos en orden de columnas:
+
+a) Nombre completo de los ciudadanos solicitantes;
+
+b) Número de folio de la credencial para votar de los solicitantes;
+
+c) Clave de elector de los solicitantes;
+
+d) Sección electoral a la que pertenecen los solicitantes; y
+
+e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
+
+2. En caso de que no exista forma oficial, se deberá presentar en escrito que reúna los requisitos que establece este artículo.
+
+Artículo 395
+
+1. Los escritos que presente el Gobernador o el Congreso del Estado para solicitar el referéndum deberán contener lo siguiente:
+
+I. Nombre de la autoridad que lo promueve. En el caso del Congreso del Estado el acuerdo legislativo que apruebe la presentación de solicitud de referéndum;
+
+II. El precepto legal en el que se fundamente la solicitud;
+
+III. Especificación precisa del acto que se pretende someter a referéndum;
+
+IV. Autoridad o autoridades de las que emana el acto materia del referéndum;
+
+V. Exposición de motivos precisa y detallada por los cuales se considera necesario derogar el acto materia de referéndum; y
+
+VI. Nombre y firma del titular del Poder Ejecutivo o de los Diputados Presidente y secretario del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 396.
+
+1. El desistimiento de la solicitud sólo podrá hacerse valer desde su presentación y hasta los 10 días naturales después de publicada la convocatoria debiendo ser ratificado ante el Secretario Ejecutivo.
+
+###### Artículo 397.
+
+1. Recibida la solicitud de referéndum, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días hábiles, que cumpla con los requisitos que establecen los artículos 394 o 395, según corresponda. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
 
 Artículo 398
 
@@ -5155,7 +5607,9 @@ III. La exposición de motivos contenida en la solicitud del promovente.
 
 Artículo 399
 
-1. Trascurrido el plazo a que se refiere el párrafo 2 del artículo anterior, en el plazo de treinta días naturales el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá si el acto que se pretende someter a referéndum es o no un acto materialmente legislativo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Trascurrido el plazo a que se refiere el párrafo 2 del artículo anterior, en el plazo de treinta días naturales el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá si el acto que se pretende someter a referéndum es un acto materialmente legislativo.
 
 2. Si el acto materia de la solicitud de referéndum no es un acto materialmente legislativo se resolverá la improcedencia del referéndum.
 
@@ -5223,156 +5677,6 @@ X. Consecuencias de los resultados de la consulta; y
 
 XI. Las demás disposiciones reglamentarias del proceso respectivo y particulares que se consideren pertinentes.
 
-## Título Tercero. Plebiscito
-
-### Capítulo Primero. De la Solicitud
-
-Artículo 402
-
-1. Podrán solicitar plebiscito al Instituto Electoral:
-
-I. El Congreso del Estado, con la aprobación de cuando menos las dos terceras partes de sus integrantes, y durante los treinta días anteriores o posteriores al inicio de la decisión o acto de gobierno del Poder Ejecutivo, cuando se consideren como trascendentes para el orden público o el interés social, excepto los nombramientos de los titulares de las secretarías o dependencias del ejecutivo, así como la determinación de algún precio, tarifa o contribución;
-
-II. El Gobernador del Estado, cuando considere que las propuestas o decisiones de su gobierno son trascendentes para el orden público o el interés social;
-
-III. El Presidente Municipal, o los Ayuntamientos o Consejos Municipales, con la aprobación de las dos terceras partes de sus integrantes y antes de la ejecución de la obra pública o enajenación del patrimonio Municipal; y
-
-IV. Un número de ciudadanos jaliscienses antes de la ejecución de la obra pública o enajenación del patrimonio municipal, que represente cuando menos a:
-
-a) Un cinco por ciento de los inscritos en el Padrón Electoral en los municipios cuyo número de habitantes sea inferior a trescientos mil; o
-
-b) Un tres por ciento de los inscritos en el Padrón electoral en los municipios cuyo número de habitantes sea superior a trescientos mil.
-
-Artículo 403
-
-1. La solicitud de plebiscito se presentará ante el Instituto Electoral, se le asignará el número consecutivo de registro que deberá indicar el orden de presentación y fecha de inscripción.
-
-Artículo 404
-
-1. Los escritos para promover el proceso de plebiscito presentados por el Congreso del Estado, el titular del Poder Ejecutivo, Presidente Municipal, los Ayuntamientos o los Consejos Municipales, deben contener:
-
-I. Nombre de la autoridad que lo promueve. En caso de tratarse de un organismo colegiado, el acuerdo que apruebe la promoción del proceso respectivo;
-
-II. El precepto legal en el que fundamente su solicitud;
-
-III. Especificación precisa y detallada del acto de autoridad, objeto del plebiscito;
-
-IV. Autoridad o autoridades de las que emana el acto o decisión de gobierno materia de plebiscito;
-
-V. Exposición de motivos por los cuales se considera que el acto de autoridad no debe realizarse; y
-
-VI. Nombre y firma del titular del Ejecutivo; de los Diputados Presidente y secretario del Congreso del Estado; del Presidente Municipal del ayuntamiento o del Concejo Municipal y del funcionario encargado de la Secretaría, según sea el caso.
-
-2. En caso que el plebiscito sea promovido por ciudadanos en contra de obra pública o enajenación de patrimonio Municipal, la solicitud deberá presentarse en las formas oficiales que elabore y distribuya en forma gratuita el Instituto Electoral, las que deben contener:
-
-I. Nombre del representante común de los promoventes;
-
-II. Manifestación de conducirse bajo protesta de decir verdad;
-
-III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
-
-IV. Especificación de la obra pública o enajenación de patrimonio Municipal que se pretende someter a plebiscito;
-
-V. Autoridad o autoridades que pretendan llevar a cabo los acto (sic) señalados en la fracción anterior;
-
-VI. Exposición de motivos por los cuales se considera que los actos señalados en la fracción III no deben llevarse a cabo; y
-
-VII. Los siguientes datos en orden de columnas:
-
-a) Nombre completo de los ciudadanos solicitantes;
-
-b) Número de folio de la credencial para votar de los solicitantes;
-
-c) Clave de elector de los solicitantes;
-
-d) Sección electoral a la que pertenecen los solicitantes; y
-
-e) Firma de cada elector solicitante, que concuerde con la que aparece en la credencial para votar.
-
-3. En caso de que no exista forma oficial, se deberá presentar en escrito que reúna los requisitos que establece este artículo.
-
-Artículo 405
-
-1. El desistimiento de la solicitud sólo podrá hacerse valer desde su presentación y hasta los 10 días naturales después de publicada la convocatoria.
-
-## Título Cuarto. Disposiciones Comunes del Referéndum y Plebiscito
-
-### Capítulo Segundo. Del Trámite de la Solicitud y Resolución
-
-Artículo 406
-
-1. Recibida la solicitud de plebiscito, el secretario ejecutivo del Instituto Electoral verificará dentro de los tres días siguientes, que cumpla con los requisitos que establece el artículo 404. A falta de algún requisito, se requerirá al promovente previniéndolo para que lo subsane dentro de los tres días siguientes al de la notificación, con el apercibimiento que de no cumplir con la prevención se desechará la solicitud.
-
-Artículo 407
-
-1. Si la solicitud de plebiscito cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, el Presidente del Instituto Electoral, a más tardar al cuarto día de la presentación, o séptimo día en caso de haber mediado requerimiento al promovente, notificará su recepción a la autoridad de la que presuntamente emanó el acto objeto de la solicitud de plebiscito, acompañando una copia de dicha solicitud. La notificación deberá contener:
-
-I. La mención precisa y detallada de la decisión o acto de gobierno que se pretende someter a plebiscito;
-
-II. Autoridad o autoridades de las que emana el acto materia de plebiscito; y
-
-III. La exposición de motivos contenida en la solicitud del promovente.
-
-2. La autoridad de la que emanó el acto objeto de la solicitud de plebiscito dispondrá de un plazo de cinco días naturales para hacer llegar la exposición de motivos, así como las causales de improcedencia que considere pertinentes.
-
-Artículo 408
-
-1. Trascurrido el plazo a que se refiere el párrafo 2 del artículo anterior, en el plazo de treinta días naturales el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto que se pretende someter a plebiscito es o no un acto o decisión de gobierno.
-
-2. Si el acto materia de la solicitud de plebiscito no es un acto o decisión de gobierno se resolverá la improcedencia del plebiscito.
-
-3. Si se resuelve que el acto materia de la solicitud de plebiscito es un acto o decisión de gobierno, el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, determinará si el acto materia de la solicitud de plebiscito es trascendente para el orden público o el interés social, o se trata de obra pública o enajenación de patrimonio Municipal.
-
-4. Si el acto materia de la solicitud de plebiscito no es trascendente para el orden público o el interés social, o no se trata de obra pública o enajenación de patrimonio Municipal, se resolverá la improcedencia del referéndum.
-
-5. Cuando se trate de obra pública o enajenación de patrimonio municipal, el Consejo General acordará el procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud respectiva. Dicho procedimiento se realizará invariablemente de manera aleatoria y deberá adoptar técnicas de muestreo científicamente sustentadas.
-
-6. Si como resultado del procedimiento para la verificación de la autenticidad de los datos de los ciudadanos que respalden y apoyen la solicitud, se obtiene que no se reúnen el número de ciudadanos que se establecen en párrafo 1, fracción IV del artículo 402, el Consejo General desechará por improcedente la solicitud de plebiscito.
-
-Artículo 409
-
-1. Con independencia de lo dispuesto en el artículo anterior, el Consejo General del Instituto Electoral, con el voto de cuando menos las dos terceras partes de sus integrantes, decretará la improcedencia de la solicitud del proceso de plebiscito en los casos siguientes:
-
-I. El acto o decisión de gobierno materia del plebiscito no sea trascendente para el orden público o interés social;
-
-II. El escrito de solicitud se haya presentado en forma extemporánea;
-
-III. El acto materia del plebiscito se haya consumado y no puedan restituirse las cosas a la situación que guardaban con anterioridad;
-
-IV. El acto no se haya realizado o no se pretenda realizar por las autoridades;
-
-V. La exposición de motivos sea frívola, inverosímil, subjetiva o no contenga una relación directa causa-efecto entre los motivos expuestos y el acto o decisión de gobierno;
-
-VI. El escrito de solicitud sea insultante, atente contra de las instituciones o sea ilegible; y
-
-VII. La solicitud respectiva no cumpla con todos los requisitos y formalidades que se establecen en el presente ordenamiento.
-
-Artículo 410
-
-1. Si el Consejo General resuelve la procedencia de la solicitud de plebiscito deberá emitir el acuerdo correspondiente.
-
-2. El acuerdo que declare la procedencia del plebiscito será publicado en el periódico oficial “El Estado de Jalisco”, o en su caso en la Gaceta Municipal, o en el medio oficial de divulgación previsto por el reglamento Municipal aplicable, incluyendo la convocatoria que contendrá:
-
-I. Fecha, lugar y hora de la jornada de consulta;
-
-II. Especificación precisa y detallada del acto de autoridad objeto del plebiscito;
-
-III. La pregunta o preguntas elaboradas por el Instituto Electoral;
-
-IV. La autoridad o autoridades de las que emana el acto o decisión de gobierno objeto del plebiscito;
-
-V. El ámbito territorial de aplicación del proceso, anexando una relación completa de las secciones Electorales donde se sufragará;
-
-VI. La exposición de motivos por los cuales los promoventes consideran que el acto o decisión de gobierno debe ser llevado a cabo, revocado o suspendido;
-
-VII. La exposición de motivos y de circunstancias especiales por las cuales la autoridad de la que emana el acto sujeto al proceso de plebiscito considera que los ciudadanos deben emitir su voto a favor del acto o decisión de gobierno;
-
-VIII. El número de electores que tiene derecho a participar, así como el porcentaje mínimo requerido para que el acto o decisión materia del plebiscito sea revocado o suspendido;
-
-IX. Consecuencias de los resultados que arrojaría la consulta; y
-
-X. Las demás disposiciones reglamentarias del procedimiento respectivo y particular que se consideren pertinentes.
-
 ## Título Quinto. Iniciativa Popular
 
 ### Capítulo Primero. Preparación del Proceso
@@ -5394,6 +5698,10 @@ Artículo 412
 1. El Instituto Electoral podrá ampliar o modificar los plazos y términos establecidos para el desarrollo del proceso de referéndum y plebiscito, cuando a su juicio exista imposibilidad material para realizar los actos previstos para su desarrollo, o así resulte conveniente para un mejor cumplimiento de las diversas etapas de estos procesos.
 
 2. El acuerdo del Consejo General del Instituto Electoral que determine ampliaciones o modificaciones a los plazos y términos se publicará en el periódico oficial “El Estado de Jalisco” dentro de los cinco días siguientes a la fecha de su aprobación.
+
+###### Artículo 405.
+
+1. El desistimiento de la solicitud sólo podrá hacerse valer desde su presentación y hasta los 10 días naturales después de publicada la convocatoria. En todos los casos, el desistimiento que presente el promovente, deberá ser ratificado por escrito ante el Secretario Ejecutivo del Instituto Electoral, dentro de los tres días hábiles siguientes al de su presentación.
 
 ## Título Quinto (sic). Recursos
 
@@ -5447,7 +5755,9 @@ Artículo 418
 
 1. Para la emisión del voto se imprimirán las boletas Electorales conforme al modelo que apruebe el Instituto Electoral, debiendo contener:
 
-I. Entidad y municipio, de conformidad con la naturaleza del sufragio y la aplicación territorial del proceso cuando se efectúe en uno o varios municipios;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Entidad, Municipio y Distrito, de conformidad con la naturaleza del sufragio y la aplicación territorial del proceso cuando se efectúe en uno o varios municipios;
 
 II. Sello del Instituto Electoral y firmas impresas del Consejero Presidente y Secretario Ejecutivo;
 
@@ -5458,6 +5768,10 @@ IV. La pregunta sobre si el ciudadano ratifica o no el acto materia de referénd
 V. Cuadros o círculos para el SI y para el NO; y
 
 VI. El acto sometido a referéndum o plebiscito.
+
+ADICIONADO, P.O. 19 DE JULIO DE 2011)
+
+2. En caso de que se utilice el dispositivo de recepción electrónica, el Instituto aprobará el modelo que corresponda.
 
 ## Título Primero. Sistema de Medios de Impugnación
 
@@ -5480,6 +5794,26 @@ III. Decretará la continuación del proceso, previo a que el Consejero Presiden
 2. Cuando se determine la suspensión de la consulta, el Consejo General del Instituto Electoral enviará al Congreso del Estado un informe justificado de la suspensión.
 
 3. El acuerdo que determine la suspensión podrá ser impugnado ante el Tribunal Electoral del Estado.
+
+###### Artículo 428.
+
+1. Toda iniciativa popular que sea desechada, sólo se podrá volver a presentar una vez transcurridos seis meses contados a partir de la fecha en que fue rechazada a través del acuerdo legislativo respectivo.
+
+Artículo 429
+
+1. Para el estudio, análisis y dictaminación de una iniciativa popular se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado.
+
+Artículo 430
+
+1. Toda iniciativa popular que se presente deberá ir acompañada de su exposición de motivos, cumpliendo con los requisitos que para las iniciativas establece la Ley Orgánica del Poder Legislativo del estado de Jalisco.
+
+Artículo 431
+
+1. Una vez presentada la iniciativa popular, los promoventes no tendrán la atribución de retirarla de su estudio.
+
+Artículo 432
+
+1. Para lo no establecido en el presente título se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Jalisco.
 
 ### Capítulo Séptimo. Votación y Adopción de la Decisión
 
@@ -5523,25 +5857,7 @@ Artículo 427
 
 2. Los ayuntamientos pueden establecer la iniciativa popular en sus respectivos ordenamientos municipales, pudiéndose regir para tal efecto por lo dispuesto en el siguiente artículo.
 
-Artículo 428
-
-1. Toda iniciativa popular que sea desechada, solo se podrá volver a presentar una vez transcurridos seis meses de la fecha en que fue rechazada a través del acuerdo legislativo respectivo.
-
-Artículo 429
-
-1. Para el estudio, análisis y dictaminación de una iniciativa popular se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado.
-
-Artículo 430
-
-1. Toda iniciativa popular que se presente deberá ir acompañada de su exposición de motivos, cumpliendo con los requisitos que para las iniciativas establece la Ley Orgánica del Poder Legislativo del estado de Jalisco.
-
-Artículo 431
-
-1. Una vez presentada la iniciativa popular, los promoventes no tendrán la atribución de retirarla de su estudio.
-
-Artículo 432
-
-1. Para lo no establecido en el presente título se estará a lo dispuesto por la Ley Orgánica del Poder Legislativo del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Segundo. Materia de la Iniciativa Popular
 
@@ -5585,7 +5901,9 @@ I. Nombre del representante común de los promoventes;
 
 II. Manifestación de conducirse bajo protesta de decir verdad;
 
-III. Domicilio legal para recibir notificaciones, el cual invariablemente se localizará en la zona conurbada de la capital del Estado;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Domicilio legal para recibir notificaciones;
 
 IV. Exposición de motivos de la iniciativa y propuesta de articulado del ordenamiento legal correspondiente; y
 
@@ -5613,7 +5931,9 @@ Artículo 440
 
 Artículo 441
 
-1. Si la solicitud de iniciativa popular cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, dentro de los treinta días siguientes el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá si la propuesta de reforma o proyecto de ley o Código, es o no materia de iniciativa popular.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Si la solicitud de iniciativa popular cumple con los requisitos o fue subsanada por el promovente en los términos previstos por el artículo anterior, dentro de los treinta días siguientes el Consejo General, con el voto de cuando menos las dos terceras partes de sus integrantes, resolverá si la propuesta de reforma o proyecto de ley o Código, es materia de iniciativa popular.
 
 2. Si la propuesta o proyecto no es materia de iniciativa popular se resolverá la improcedencia.
 
@@ -5681,9 +6001,13 @@ I. El incumplimiento de las obligaciones señaladas en el artículo 68 y demás 
 
 II. El incumplimiento de las resoluciones o acuerdos del Instituto Electoral;
 
-III. El incumplimiento de las obligaciones o incurrir en las conductas prohibidas y exceder los topes que en materia de financiamiento y fiscalización les impone el presente Código;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-IV. No presentar los informes trimestrales, anuales, de precampaña o de campaña, o no atender los requerimientos de información de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, en los términos y plazos previstos en este Código y sus reglamentos;
+III. El incumplimiento de las obligaciones o incurrir en las conductas prohibidas o exceder los topes que en materia de financiamiento y fiscalización les impone el presente Código;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. No presentar los informes semestrales, anuales, de precampaña o de campaña, o no atender los requerimientos de información de la Unidad de Fiscalización de los Recursos de los Partidos Políticos, en los términos y plazos previstos en este Código y sus reglamentos;
 
 V. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos;
 
@@ -5703,7 +6027,17 @@ XII. El incumplimiento de las reglas establecidas para el manejo y comprobación
 
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral; y
 
-XIV. La comisión de cualquiera otra falta de las previstas en este Código.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIV. El incumplimiento a su responsabilidad solidaria, de las obligaciones establecidas por el presente Código en el artículo 263 la fracción VI del párrafo 1 en materia de retiro y borrado de propaganda electoral de sus candidatos;
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+XV. Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, ya sea que por su naturaleza sean inviables, dolosas, incurran en falsedad o sean contrarias al régimen jurídico; y
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+XVI. La comisión de cualquiera otra falta de las previstas en este Código.
 
 ## Título Tercero. Medios de Impugnación en Materia Electoral
 
@@ -5735,9 +6069,21 @@ III. Omitir información de los recursos recibidos, en dinero o en especie, dest
 
 IV. No presentar el informe de gastos de precampaña o campaña a que obliga este Código;
 
-V. Exceder el tope de gastos de precampaña o campaña que haya acordado el Consejo General; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-VI. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
+V. Exceder el tope de gastos de precampaña o campaña que haya acordado el Consejo General;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI. El incumplimiento de las obligaciones establecidas por el presente Código en el artículo 263 la fracción VI del párrafo 1 en materia de retiro y borrado de propaganda electoral;
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+VII. Realizar propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, ya sea que por su naturaleza sean inviables, dolosas, incurran en falsedad o sean contrarias al régimen jurídico; y
+
+ADICIONADA, P.O. 19 DE JULIO DE 2011)
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en este Código.
 
 ## Título Quinto. Recurso de Revisión
 
@@ -5809,7 +6155,9 @@ Artículo 455
 
 I. No informar mensualmente al Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendientes a la obtención del registro;
 
-II. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas nacionales, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito; y
 
 III. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
 
@@ -5831,9 +6179,13 @@ Artículo 457
 
 I. La inducción a la abstención, a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
 
-II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidato a cargo de elección popular; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-III. El incumplimiento, de cualquiera de las disposiciones contenidas (sic) este Código.
+II. Realizar o promover aportaciones económicas a un partido político, aspirante, precandidato o candidato a cargo de elección popular; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Incurrir en cualquier conducta que les sea prohibida por este Código.
 
 ### Capítulo Décimo Tercero. De las Sanciones
 
@@ -5855,7 +6207,9 @@ e) Con la interrupción de la transmisión de la propaganda política o electora
 
 f) Con multa de hasta diez mil días de salario mínimo general vigente para la zona metropolitana de Guadalajara, la violación a lo dispuesto en la fracción XVI del párrafo 1 del artículo 68 de este Código. La reincidencia durante las precampañas y campañas Electorales, se podrá sancionar hasta con la supresión total de las prerrogativas de acceso a radio y televisión por un mes; y
 
-g) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+g) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución y de este Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos.
 
 II. Respecto de las agrupaciones políticas:
 
@@ -5905,7 +6259,9 @@ b) Con multa de hasta cinco mil días de salario mínimo general vigente para la
 
 Artículo 459
 
-1. Cuando las autoridades federales, estatales o municipales incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto Electoral, se estará a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Cuando las autoridades federales, estatales o municipales incumplan la presente legislación o incurran en alguna de las infracciones contempladas por el artículo 452, se estará a lo siguiente:
 
 I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
 
@@ -5915,11 +6271,17 @@ III. Si la autoridad infractora no tuviese superior jerárquico, el requerimient
 
 IV. Si la autoridad infractora no tuviese superior jerárquico y fuese de carácter federal, el requerimiento será turnado a la Auditoria Superior de la Federación, si la autoridad infractora es de alguna otra entidad federativa, el requerimiento será turnado a su equivalente en la entidad federativa de que se trate, a fin de que se proceda en los términos de las leyes aplicables.
 
-2. Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente Código les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-3. Cuando el Instituto tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato a la Secretaría de Gobernación, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
+2. Cuando el Instituto conozca del incumplimiento por parte de los notarios públicos a las obligaciones que el presente Código les impone, de inmediato y sin realizar mayor trámite, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
 
-4. Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará a la Secretaría de Gobernación para los efectos legales conducentes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. Cuando el Instituto tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato y sin realizar mayor trámite a la Secretaría de Gobernación, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará de inmediato y sin realizar mayor trámite a la Secretaría de Gobernación para los efectos legales conducentes.
 
 5. Para la individualización de las sanciones a que se refiere este Libro, acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre las que considerará las siguientes:
 
@@ -5953,11 +6315,15 @@ III. La Secretaría Ejecutiva del Consejo General.
 
 2. Los Consejos Distritales y Municipales, en sus respectivos ámbitos de competencia fungirán como órganos auxiliares para la tramitación de los procedimientos sancionadores.
 
-3. La Comisión mencionada en la fracción II del párrafo anterior se integrará por tres Consejeros Electorales, quienes serán designados por el Consejo General para un periodo de tres años. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. La Comisión mencionada en la fracción II del párrafo 1 de este artículo se integrará por tres Consejeros Electorales, quienes serán designados por el Consejo General para un periodo de tres años. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo General.
 
 Artículo 461
 
-1. Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos al día siguiente en que fueron realizadas.
 
 2. Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del Instituto o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
 
@@ -5977,7 +6343,9 @@ III. Extracto de la resolución que se notifica;
 
 IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega; y
 
-V. El señalamiento de la hora a la que al día siguiente, deberá esperar la notificación.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V. El señalamiento del día y la hora en la que deberá esperar la notificación.
 
 7. Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente.
 
@@ -5987,11 +6355,15 @@ V. El señalamiento de la hora a la que al día siguiente, deberá esperar la no
 
 10. La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes de aquel en que se dicten, entregando al denunciante y al denunciado copia certificada de la resolución.
 
-11. Los plazos se contarán de momento a momento, si están señalados por días se considerarán de veinticuatro horas. Durante los procesos Electorales todos los días y horas son hábiles. En el caso de los procedimientos incoados antes del proceso electoral, los plazos se computarán por días hábiles, respecto de aquellos que se presenten una vez iniciado aquél, por días naturales.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+11. Los plazos se contarán de momento a momento, si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de los procedimientos incoados antes del proceso electoral, los plazos se computarán por días hábiles, respecto de aquellos que se presenten una vez iniciado aquél, por días naturales.
 
 Artículo 462
 
-1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría como el Consejo podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio de contradicción de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos. Tanto la Secretaría como el Consejo General podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio de contradicción de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
 
 2. Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que tratan de acreditar, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
 
@@ -6017,9 +6389,13 @@ VI. Instrumental de actuaciones.
 
 7. Admitida una prueba superveniente, se dará vista al quejoso o denunciado, según corresponda, para que en el plazo de cinco días manifieste lo que a su derecho convenga.
 
-8. La Secretaría o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento, hayan sido solicitadas previamente a las instancias correspondientes y no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo apercibirá a las autoridades que no atiendan en tiempo y forma, el requerimiento de las pruebas.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-9. El Consejo podrá admitir aquellos elementos probatorios que hayan sido solicitados por los órganos del Instituto dentro de la investigación correspondiente y no se hubiesen recibido, sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo ordenará la devolución del expediente a la Secretaría para los efectos del párrafo 1 del artículo 470 del presente Código.
+8. La Secretaría o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento, hayan sido solicitadas previamente a las instancias correspondientes y no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General apercibirá a las autoridades que no atiendan en tiempo y forma, el requerimiento de las pruebas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+9. El Consejo General podrá admitir aquellos elementos probatorios que hayan sido solicitados por los órganos del Instituto dentro de la investigación correspondiente y no se hubiesen recibido, sino hasta veinticuatro horas antes de la sesión respectiva. En estos casos el Consejo General ordenará la devolución del expediente a la Secretaría para los efectos del párrafo 1 del artículo 470 del presente Código.
 
 10. Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
 
@@ -6047,7 +6423,9 @@ Artículo 465
 
 Artículo 466
 
-1. Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante los órganos centrales o desconcentrados del Instituto; las personas jurídicas lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Cualquier persona podrá presentar quejas o denuncias por presuntas violaciones a la normatividad electoral ante los órganos centrales o desconcentrados del Instituto; las personas jurídicas lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho, debiendo ser ratificadas las denuncias ante el Secretario Ejecutivo.
 
 2. La queja o denuncia podrá ser presentada por escrito, en forma oral o por medios de comunicación electrónicos y deberá cumplir con los siguientes requisitos:
 
@@ -6089,11 +6467,15 @@ Artículo 467
 
 1. La queja o denuncia será improcedente cuando:
 
-I. Se trate de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, el quejoso o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Se trate de quejas o denuncias que versen sobre presuntas violaciones a la normatividad interna de un partido político, y el quejoso o denunciante no acredite su pertenencia al partido de que se trate o su interés jurídico;
 
 II. El quejoso o denunciante no haya agotado previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
 
-III. Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia a la que haya recaído resolución del Consejo respecto al fondo y ésta no se hubiere impugnado ante el Tribunal Electoral del Poder Judicial de la Federación, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja o denuncia a la que haya recaído resolución del Consejo General respecto al fondo y ésta no se hubiere impugnado ante el Tribunal Electoral del Poder Judicial de la Federación, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y
 
 IV. Se denuncien actos de los que el Instituto resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones al presente Código.
 
@@ -6103,7 +6485,9 @@ I. Habiendo sido admitida la queja, sobrevenga alguna de las causales de improce
 
 II. El denunciado sea un partido político que haya perdido el registro con posterioridad a la admisión de la queja o denuncia; y
 
-III. El denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría y que a juicio de esta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. El denunciante presente escrito de desistimiento debidamente ratificado ante la Secretaría Ejecutiva del Consejo, siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría y que a juicio de esta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
 
 3. El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia se realizará de oficio. La Secretaría elaborará el proyecto de resolución, en caso de advertir que se actualiza una de ellas.
 
@@ -6149,13 +6533,17 @@ Artículo 470
 
 3. El Consejero electoral coordinador de la citada Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a los demás integrantes a sesión, la que deberá tener lugar no antes de veinticuatro horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el proyecto de resolución, atendiendo a lo siguiente:
 
-I. Si el proyecto de la Secretaría propone el desechamiento o sobreseimiento de la investigación, o la imposición de una sanción y la Comisión está de acuerdo con el sentido del mismo, será turnado al Consejo General para su estudio y votación;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Si el proyecto de la Secretaría propone el desechamiento o sobreseimiento de la investigación, o la imposición de una sanción y la Comisión está de acuerdo con el sentido del mismo, será turnado al Consejero Presidente;
 
 II. En el caso de que la Comisión no apruebe el proyecto propuesto, lo devolverá al Secretario, exponiendo las razones o sugiriendo las diligencias que estime pertinentes para el perfeccionamiento de la investigación;
 
 III. En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría emitirá un nuevo proyecto de resolución en el que deberá considerar los razonamientos y argumentos que formule la Comisión.
 
-4. El Consejero Presidente al recibir el proyecto de resolución, lo hará del conocimiento de los integrantes del Consejo General en la sesión más próxima.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+4. El Consejero Presidente al recibir el proyecto de resolución, lo hará del conocimiento de los integrantes del Consejo General en sesión especial que deberá celebrar para tal efecto, dentro de los siguientes cinco días contados a partir de la presentación del proyecto de resolución al Consejo General.
 
 5. En la sesión en que conozca del proyecto de resolución, el Consejo General determinará:
 
@@ -6189,7 +6577,9 @@ III. Constituyan actos anticipados de precampaña o campaña.
 
 Artículo 472
 
-1. Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el estado, el Instituto Electoral presentará la denuncia ante el Instituto Federal Electoral.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Cuando una conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el Estado, el Instituto Electoral presentará la denuncia ante el Instituto Federal Electoral, dentro de las veinticuatro horas siguientes al momento en que tuvo conocimiento del hecho.
 
 2. Los procedimientos sancionadores relacionados con la difusión de propaganda que denigre o calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada.
 
@@ -6221,13 +6611,23 @@ IV. La materia de la denuncia resulte irreparable.
 
 6. En los casos anteriores la Secretaría notificará al denunciante su resolución, por el medio más expedito a su alcance, dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito.
 
-7. Cuando la denuncia sea admitida, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-8. Si la Secretaría considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del plazo antes señalado, en los términos establecidos en el artículo 469, párrafo 4, de este Código.
+7. La Secretaría contará con un plazo de 24 horas para emitir el acuerdo de admisión o la propuesta de desechamiento, contado a partir del momento en que reciba la queja o denuncia.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+8. Cuando la denuncia sea admitida, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+9. Si la Secretaría considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del plazo antes señalado, en los términos establecidos en el artículo 469, párrafo 4, de este Código.
 
 Artículo 473
 
-1. La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría debiéndose levantar constancia de su desarrollo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría debiéndose levantar constancia de su desarrollo. Para el desahogo de la audiencia los partidos políticos, personas morales o instituciones públicas, podrán acreditar a un representante.
 
 2. En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
 
@@ -6245,7 +6645,9 @@ Artículo 474
 
 1. Celebrada la audiencia, la Secretaría deberá formular un proyecto de resolución dentro de las veinticuatro horas siguientes y lo presentará al Consejero Presidente, para que éste convoque a los miembros del Consejo General a una sesión que deberá celebrarse, a más tardar, dentro de las setenta y dos horas posteriores a la entrega del citado proyecto.
 
-2. En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de este Código, cualquiera que sea su forma, o medio de difusión, siempre y cuando no se trate de radio y televisión, e impondrá las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. En la sesión respectiva el Consejo General conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, el Consejo ordenará el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de este Código, cualquiera que sea su forma, o medio de difusión, siempre y cuando no se trate de radio y televisión cuya competencia corresponde exclusivamente al Instituto Federal Electoral, e impondrá las sanciones correspondientes.
 
 Artículo 475
 
@@ -6269,7 +6671,9 @@ II. La Unidad de Fiscalización; y
 
 III. La Secretaría del Consejo General.
 
-2. El órgano competente para tramitar, substanciar y formular el proyecto de resolución relativo a las quejas a que se refiere el párrafo anterior será la Unidad de Fiscalización, la que podrá solicitar la colaboración de la Secretaría.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. El órgano competente para tramitar, substanciar y formular el proyecto de resolución relativo a las quejas a que se refiere el párrafo anterior será la Unidad de Fiscalización, quien actuará de manera conjunta con la Secretaría.
 
 3. Las notificaciones surtirán sus efectos el mismo día, y podrán hacerse:
 
@@ -6389,7 +6793,9 @@ XI. Las demás que determine este Código o las leyes que resulten aplicables.
 
 Artículo 485
 
-1. El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto Electoral a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o cuando sea de su competencia por el Ministerio Público. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo prescriben en tres años.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto Electoral a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o cuando sea de su competencia por el Ministerio Público. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo prescriben en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 2. Son de aplicación supletoria al presente capítulo las reglas de sustanciación y resolución del procedimiento sancionador, previsto en el Título Segundo del presente Libro y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
@@ -6409,7 +6815,9 @@ III. Cuando los actos u omisiones denunciados no constituyan causas de responsab
 
 I. Cuando habiendo sido incoado el procedimiento, sobrevenga una causa de improcedencia; y
 
-II. Cuando el denunciante presente escrito de desistimiento, siempre y cuando lo exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Cuando el denunciante presente escrito de desistimiento, ratificado ante el Secretario Ejecutivo, siempre y cuando lo exhiba antes de que se dicte resolución. En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
 
 4. El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
 
@@ -6417,9 +6825,13 @@ Artículo 487
 
 1. Para la determinación de las responsabilidades a que se refiere este capítulo deberá seguirse el siguiente procedimiento:
 
-I. Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia o de desechamiento, se enviará copia con sus anexos, al servidor público probable responsable para que en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas que considere pertinentes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-II. Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas a las que se haya hecho acreedor, se notificará la resolución al servidor público y al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II, IV a la VI, y VIII a la XI del artículo 484 de este Código;
+I. Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia o de desechamiento, la contraloría, enviará copia con sus anexos, al servidor público probable responsable para que en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas que considere pertinentes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Recibido el informe y desahogadas las pruebas, la contraloría, resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas a las que se haya hecho acreedor, se notificará la resolución al servidor público y al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II, IV a la VI, y VIII a la XI del artículo 484 de este Código;
 
 III. Cuando se trate de los casos comprendidos en las fracciones I, III y VII del artículo 484 de este Código, el contralor general citará al probable responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
@@ -6499,7 +6911,9 @@ V. No pertenecer o haber pertenecido en los cuatro años anteriores a su designa
 
 Artículo 494
 
-1. El contralor general incurrirá en causa grave de responsabilidad administrativa y será sancionado conforme a los artículos 485 al 489 de este Código en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. El contralor general incurrirá en causa grave de responsabilidad administrativa y será sancionado conforme a lo previsto en el Título Octavo de la Constitución Política del Estado de Jalisco en los siguientes casos:
 
 I. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos del presente Código y de la legislación en la materia;
 
@@ -6511,7 +6925,9 @@ IV. Conducirse con parcialidad en los procedimientos de supervisión e imposici�
 
 V. Incurrir en alguna de las infracciones mencionadas en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-2. A solicitud del Consejo General, el Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor general, incluida entre estas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros integrantes del Congreso del Estado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. A solicitud del Consejo General, el Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor general, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros integrantes del Congreso del Estado.
 
 Artículo 495
 
@@ -6597,7 +7013,9 @@ Artículo 502
 
 1. Corresponde conocer:
 
-I. Del recurso de revisión al Consejo General del Instituto Electoral o al Pleno del Tribunal Electoral, en el caso previsto en el artículo 580; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Del recurso de revisión al Consejo General del Instituto Electoral o al Pleno del Tribunal Electoral, en el caso previsto en el artículo 590; y
 
 II. Al Tribunal Electoral, los demás medios de impugnación previstos en el artículo anterior, los que serán resueltos en la forma y términos establecidos por este Código.
 
@@ -6631,9 +7049,7 @@ Artículo 505
 
 5. En los de los medios de impugnación que sean aplicables para dirimir controversias respecto de los procesos de plebiscito, referéndum e iniciativa popular, se estará a los plazos que establece el párrafo anterior.
 
-Artículo 506
-
-1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación o se haya tenido conocimiento del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Tercero. Requisitos de los Medios de Impugnación
 
@@ -6765,9 +7181,17 @@ b) Los miembros de los comités estatales, Distritales, Municipales, o sus equiv
 
 c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello;
 
-II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable.
+II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable; y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. Las personas morales a través de sus representantes legítimos.
 
 ### Capítulo Séptimo. Pruebas
 
@@ -6997,9 +7421,11 @@ I. El Presidente del Tribunal Electoral tomará las medidas necesarias para su c
 
 II. En el caso de los recursos de aclaración o revisión, el Consejo General del Instituto Electoral aplicará la sanción correspondiente en los términos del presente Código.
 
-Artículo 540
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. El Presidente del Instituto Electoral, los órganos de éste, o en su caso, los Magistrados del Tribunal Electoral, en los asuntos que se sometan a su conocimiento y que sean de su competencia, podrán requerir a las autoridades estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación.
+###### Artículo 540.
+
+1. El Consejero Presidente del Instituto Electoral, los órganos de éste, o en su caso, los Magistrados del Tribunal Electoral, en los asuntos que se sometan a su conocimiento y que sean de su competencia, podrán requerir a las autoridades estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y a personas físicas o morales, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación.
 
 Artículo 541
 
@@ -7027,9 +7453,19 @@ Artículo 543
 
 1. Cuando lo juzguen necesario, el Pleno o la Sala Permanente del Tribunal Electoral podrán, de oficio o a petición de parte, aclarar un concepto o precisar los efectos de una sentencia, siempre y cuando esto no implique una alteración sustancial de los puntos resolutivos o del sentido del fallo.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+2. Las partes dentro de las veinticuatro horas siguientes a la notificación o constancia de que se tuvo conocimiento de la resolución, podrán solicitar la aclaración de sentencia, expresando con toda claridad la contradicción, ambigüedad, obscuridad de las disposiciones o de las palabras cuya aclaración se solicite.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+3. El tribunal resolverá la solicitud de aclaración dentro de las veinticuatro horas siguientes, sin que pueda variar la sustancia de la resolución.
+
 Artículo 544
 
-1. Al resolver los medios de impugnación establecidos en este Código, el Tribunal Electoral o el órgano del Instituto Electoral suplirán las deficiencias u omisiones en los agravios cuando puedan ser deducidos claramente de los hechos expuestos.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Al resolver los medios de impugnación establecidos en este Código, el Tribunal Electoral o el Consejo General del Instituto Electoral suplirán las deficiencias u omisiones en los agravios cuando puedan ser deducidos claramente de los hechos expuestos.
 
 2. En todo caso, si se omitieron los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el órgano competente del Instituto Electoral o del Tribunal Electoral resolverán tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
@@ -7105,21 +7541,9 @@ Artículo 556
 
 2. Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presidan los órganos competentes, las notificaciones que se ordenen podrán hacerse a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o el acuse de recibido.
 
-Artículo 557
+###### Artículo 506.
 
-1. El partido político cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
-
-Artículo 558
-
-1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
-
-I. El periódico oficial de la entidad;
-
-II. Los diarios o periódicos de circulación local;
-
-III. Lugares públicos; o
-
-IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
+1. Los medios de impugnación previstos en este Código deberán presentarse dentro de los seis días contados a partir del siguiente al en que surta efectos la notificación del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
 ### Capítulo Décimo Segundo. Acumulación y Separacion de Expedientes
 
@@ -7183,15 +7607,7 @@ Artículo 569
 
 1. El responsable podrá solicitar, dentro de las veinticuatro horas siguientes, audiencia ante el órgano jurisdiccional que determinó el medio de apremio o corrección disciplinaria, para solicitar sea reconsiderada la determinación.
 
-Artículo 570
-
-1. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Finanzas de la entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
-
-Artículo 571
-
-1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
-
-2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Único. Disposiciones Generales
 
@@ -7205,21 +7621,7 @@ II. El recurso de revisión; y
 
 III. El recurso de apelación.
 
-Artículo 573
-
-1. Durante el proceso electoral, para garantizar la legalidad de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el artículo anterior, se podrá interponer el juicio de inconformidad, en los términos previstos en este Código.
-
-Artículo 574
-
-1. Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el artículo anterior, debiendo sujetarse a las reglas señaladas en el presente ordenamiento y a las leyes aplicables.
-
-Artículo 575
-
-1. En cualquier tiempo, serán procedentes los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
-
-Artículo 576
-
-1. Durante la celebración de los procedimientos de plebiscito, referéndum e iniciativa popular son procedentes los medios de impugnación previstos en este Libro, en los términos que se precisan en el Título Décimo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Único. Procedencia y Competencia
 
@@ -7247,29 +7649,7 @@ II. Los Consejos Distritales y Municipales Electorales; y
 
 III. Las instancias calificadoras o municipales en los procesos de plebiscito y referéndum.
 
-Artículo 581
-
-1. En contra de la resolución que dicte el órgano superior de dirección del Instituto Electoral al resolver un recurso de revisión, procede el recurso de apelación.
-
-Artículo 582
-
-1. Podrán interponer el recurso de revisión:
-
-I. Los representantes de los partidos políticos o coaliciones acreditados ante el Instituto Electoral y sus órganos;
-
-II. Quienes hubieren solicitado el registro de alguna coalición, en contra de la resolución que lo niegue; y
-
-III. Los promoventes de los procesos de plebiscito, referéndum e iniciativa popular.
-
-2. En todos los casos, el recurso deberá interponerse a través del representante común que hubieren designado al presentar su solicitud.
-
-Artículo 583
-
-1. El recurso de revisión deberá interponerse dentro de los tres días siguientes a aquél en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
-
-Artículo 584
-
-1. Los órganos electorales ante quienes se presente el recurso de revisión, lo deberán remitir al Instituto Electoral dentro de las veinticuatro horas siguientes a su recepción, adjuntando el informe respectivo. No será aplicable esta disposición a los casos en que el recurso se hubiese interpuesto directamente ante el Instituto Electoral.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Segundo. Sustanciación y Resolución
 
@@ -7279,7 +7659,9 @@ Artículo 585
 
 I. El Presidente del Instituto Electoral, lo turnará al Secretario Ejecutivo, para que verifique el cumplimiento de lo establecido en el artículo 507 (sic) este Código;
 
-II. El Secretario Ejecutivo propondrá al Instituto Electoral desechar de plano el medio de impugnación, cuando se presente cualquiera de los supuestos previstos en el artículo 508 o se acredite alguna de las causales de notoria improcedencia señaladas en el artículo 509, ambos de este Código;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. El Secretario Ejecutivo propondrá al Consejo General desechar de plano el medio de impugnación, cuando se presente cualquiera de los supuestos previstos en el artículo 508 o se acredite alguna de las causales de notoria improcedencia señaladas en el artículo 509, ambos de este Código;
 
 III. Cuando el promovente incumpla los requisitos señalados en las fracciones III y IV del artículo 507, y no sea posible deducirlos de los elementos que obran en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación, si no se cumple con lo apercibido dentro de las veinticuatro horas siguientes, contadas a partir del momento de la notificación;
 
@@ -7293,7 +7675,9 @@ VII. Si se cumplen todos los requisitos, el Secretario Ejecutivo procederá a fo
 
 Artículo 586
 
-1. Los recursos de revisión, deberán resolverse en la siguiente sesión ordinaria que celebre el Instituto Electoral posterior al acuerdo que lo tenga por debidamente integrado, siempre y cuando se hubiesen recibido con la suficiente antelación para su sustanciación.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. Los recursos de revisión, deberán resolverse en la siguiente sesión ordinaria o extraordinaria que celebre el Consejo General posterior al acuerdo que lo tenga por debidamente integrado, siempre y cuando se hubiesen recibido con la suficiente antelación para su sustanciación.
 
 2. La resolución del recurso de revisión deberá dictarse en la sesión en la que se presente el proyecto.
 
@@ -7313,17 +7697,7 @@ Artículo 590
 
 1. Los recursos de revisión que puedan incidir en los resultados Electorales o en la calificación de la elección, y que sean interpuestos dentro de los cinco días anteriores a la celebración de la jornada electoral, serán enviados al Tribunal Electoral, para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El promovente deberá señalar la conexidad de la causa al interponer el juicio de inconformidad.
 
-Artículo 591
-
-1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos a la autoridad electoral competente a efecto de que los tramite y resuelva.
-
-Artículo 592
-
-1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
-
-Artículo 593
-
-1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ### Capítulo Tercero. Notificaciones
 
@@ -7365,7 +7739,9 @@ Artículo 599
 
 1. Durante el tiempo que transcurra entre dos procesos Electorales, y dentro de la etapa de preparación de la elección, el recurso de apelación será procedente para impugnar:
 
-I. Las resoluciones del Instituto Electoral que recaigan a los recursos de revisión; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I. Las resoluciones del Consejo General que recaigan a los recursos de revisión; y
 
 II. Los actos o resoluciones de cualquiera de los órganos del Instituto Electoral que no sean impugnables a través del recurso de revisión y que causen un perjuicio real y directo al ciudadano; candidato, partido político o agrupación política con registro, que teniendo interés jurídico lo promueva.
 
@@ -7387,7 +7763,9 @@ Artículo 602
 
 I. Los partidos políticos, coaliciones, candidatos o agrupaciones políticas con registro, a través de sus representantes legítimos; y
 
-II. En el caso de imposición de sanciones, además de los legitimados en el párrafo anterior:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+II. En el caso de imposición de sanciones, además de los legitimados en la fracción anterior:
 
 a) Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna;
 
@@ -7398,6 +7776,24 @@ c) Las personas físicas o morales, por su propio derecho o a través de sus rep
 Artículo 603
 
 1. Será requisito de procedencia para la apelación, el que se hubiesen agotado los recursos administrativos que señala este Código para cada caso concreto; de lo contrario se desechará de plano.
+
+###### Artículo 557.
+
+(DEROGADO, P.O. 19 DE JULIO DE 2011)
+
+Artículo 558
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
+1. No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación en estrados, los actos o resoluciones que, en los términos de las leyes aplicables o por acuerdo del órgano competente, deban hacerse públicos a través de:
+
+I. El periódico oficial de la entidad;
+
+II. Los diarios o periódicos de circulación local;
+
+III. Lugares públicos; o
+
+IV. La fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal Electoral.
 
 ### Capítulo Segundo. Competencia y Sustanciación
 
@@ -7411,9 +7807,11 @@ Artículo 605
 
 1. Los recursos de apelación interpuestos por partidos políticos o coaliciones dentro de los cinco días anteriores a la jornada electoral, serán enviados al Tribunal Electoral para que sean resueltos junto con los juicios de inconformidad con los que guarden relación. El recurrente deberá señalar la causa de conexidad con los citados juicios.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 Artículo 606
 
-1. Cuando los recursos a que se refiere el párrafo anterior no guarden relación con ningún juicio de inconformidad, serán archivados como asuntos total y definitivamente concluidos.
+1. Cuando los recursos a que se refiere el artículo anterior no guarden relación con ningún juicio de inconformidad, serán archivados como asuntos total y definitivamente concluidos.
 
 Artículo 607
 
@@ -7434,6 +7832,16 @@ I. Al actor, por correo certificado, por telegrama o personalmente;
 II. Al órgano del Instituto Electoral que hubiere realizado el acto o dictado la resolución impugnada, por correo certificado, por telegrama, personalmente o por oficio acompañando copia de la resolución; y
 
 III. A los terceros interesados, por correo certificado, telegrama o personalmente.
+
+###### Artículo 570.
+
+I. Las multas que fije el Tribunal Electoral se harán efectivas ante la Secretaría de Finanzas de la Entidad, en un plazo improrrogable de quince días contados a partir de la notificación a la persona sancionada, aquella deberá informar del debido cumplimiento, para efectos de ordenar el archivo del asunto.
+
+Artículo 571
+
+1. Los medios de apremio y las correcciones disciplinarias a que se refiere el artículo 561, serán aplicados de conformidad con las reglas previstas en este capítulo.
+
+2. Para hacer cumplir las disposiciones del presente ordenamiento y las resoluciones que dicten los órganos del Instituto Electoral, el Consejo General podrá aplicar discrecionalmente las sanciones a que le faculta este Código.
 
 ### Capítulo Primero. Procedencia
 
@@ -7471,27 +7879,23 @@ a) De Diputados de representación proporcional; y
 
 b) De Munícipes por el principio de representación proporcional.
 
-Artículo 613
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-1. Las determinaciones de las autoridades Electorales locales en los procedimientos de plebiscito y referéndum, que se establecen en el artículo 652 del presente Código.
+###### Artículo 573.
 
-Artículo 614
+1. Durante el proceso electoral, para garantizar la legalidad y certeza de los actos, resoluciones y resultados electorales, además de los medios de impugnación señalados en el artículo anterior, se podrá interponer el juicio de inconformidad, en los términos previstos en este Código.
 
-1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos Electorales, y los relativos al plebiscito y referéndum.
+Artículo 574
 
-Artículo 615
+1. Durante los procesos electorales extraordinarios, serán procedentes los medios de impugnación a que se refiere el artículo anterior, debiendo sujetarse a las reglas señaladas en el presente ordenamiento y a las leyes aplicables.
 
-1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
+Artículo 575
 
-I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
+1. En cualquier tiempo, serán procedentes los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
 
-II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
+Artículo 576
 
-2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
-
-Artículo 616
-
-1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
+1. Durante la celebración de los procedimientos de plebiscito, referéndum e iniciativa popular son procedentes los medios de impugnación previstos en este Libro, en los términos que se precisan en el Título Décimo.
 
 ### Capítulo Segundo. Requisitos Especiales del Escrito de Demanda
 
@@ -7557,6 +7961,34 @@ Artículo 621
 
 4. De presentarse discrepancia entre el representante o representantes reconocidos por el Instituto Electoral y sus órganos con los relacionados ante el Tribunal Electoral, prevalecerán los que como tales reconozca el organismo electoral.
 
+###### Artículo 581.
+
+1. En contra de la resolución que dicte el Consejo General al resolver un recurso de revisión, procede el recurso de apelación.
+
+Artículo 582
+
+1. Podrán interponer el recurso de revisión:
+
+I. Los representantes de los partidos políticos o coaliciones acreditados ante el Instituto Electoral y sus órganos;
+
+II. Quienes hubieren solicitado el registro de alguna coalición, en contra de la resolución que lo niegue; y
+
+III. Los promoventes de los procesos de plebiscito, referéndum e iniciativa popular.
+
+2. En todos los casos, el recurso deberá interponerse a través del representante común que hubieren designado al presentar su solicitud.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 583.
+
+1. El recurso de revisión deberá interponerse dentro de los tres días siguientes a aquél en que se hubiese notificado el acto o la resolución que se recurra.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### Artículo 584.
+
+1. Los órganos electorales ante quienes se presente el recurso de revisión, lo deberán remitir al Consejo General dentro de las veinticuatro horas siguientes a su recepción, adjuntando el informe respectivo. No será aplicable esta disposición a los casos en que el recurso se hubiese interpuesto directamente ante el Instituto Electoral.
+
 ### Capítulo Cuarto. Partes y Trámite de la Demanda
 
 Artículo 622
@@ -7590,6 +8022,18 @@ Artículo 626
 Artículo 627
 
 1. En el caso de que al escrito de demanda no se haya acompañado el documento que acredite la personería del promovente, no se requerirá por su exhibición, cuando aparezca legalmente acreditada la personería en las constancias o informes que obren en la documentación anexa al medio de impugnación que remita la autoridad responsable.
+
+###### Artículo 591.
+
+1. Cuando a juicio del Tribunal Electoral los recursos de revisión que le hubieran sido remitidos, no guarden relación con algún juicio de inconformidad, procederá a reenviarlos al Consejo General a efecto de que los tramite y resuelva.
+
+Artículo 592
+
+1. La no aportación de las pruebas ofrecidas no será causa de desechamiento del recurso de revisión o del escrito del tercero interesado. En este caso, se resolverá con los elementos que obren en autos.
+
+Artículo 593
+
+1. Las resoluciones que recaigan a los recursos de revisión tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnado.
 
 ### Capítulo Quinto. Sentencias y sus Efectos
 
@@ -7699,9 +8143,13 @@ II. Se ejerza violencia física, exista cohecho, soborno o presión de alguna au
 
 III. Hubiese mediado error grave o dolo manifiesto en el cómputo de votos que altere sustancialmente el resultado de la votación;
 
-IV. El paquete electoral, sea entregado fuera de los plazos establecidos por este Código, sin causa justificada, a los organismos electorales;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-V. Se hubiese permitido sufragar sin credencial para votar con fotografía, o, a quienes teniendo credencial no aparezcan en el listado nominal de electores, siempre que ello sea determinante para el resultado de la elección, se exceptúan de lo anterior los casos que así determine mediante resolución el Tribunal Electoral del Poder Judicial de la Federación, indicando cuáles ciudadanos pueden sufragar sin la credencial para votar, siempre y cuando aparezcan en el listado nominal;
+IV. El paquete electoral, sea entregado fuera de los plazos establecidos por este Código, sin causa justificada, a los Consejos Distritales y Municipales electorales;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V. Se hubiese permitido sufragar sin credencial para votar con fotografía, o, a quienes teniendo credencial no aparezcan en el listado nominal de electores, siempre que ello sea determinante para el resultado de la elección, se exceptúan de lo anterior los casos que así determine mediante resolución el Tribunal Electoral del Poder Judicial de la Federación, indicando cuáles ciudadanos pueden sufragar sin aparecer en la lista nominal de electores o sin contar con credencial para votar, o en ambos casos;
 
 VI. Se hubiera impedido el acceso a los representantes de los partidos políticos o se les hubiese expulsado sin causa justificada;
 
@@ -7711,7 +8159,9 @@ VIII. Se haya recibido la votación en fecha distinta a la señalada para la cel
 
 IX. Se haya realizado, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el órgano electoral correspondiente.
 
-X. Hubieran existido irregularidades graves y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo, que en forma evidente y a juicio de la Sala competente del Tribunal Electoral, pongan en duda la certeza de la votación;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+X. Hubieran existido irregularidades graves y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo, que en forma evidente y a juicio del Pleno o de la Sala competente del Tribunal Electoral, pongan en duda la certeza de la votación;
 
 XI. Se hubieren instalado en lugar oculto las urnas electorales durante la jornada electoral;
 
@@ -7726,6 +8176,8 @@ Artículo 637
 I. Recuento total: El procedimiento de apertura de la totalidad de los paquetes Electorales relativos a: la elección de Gobernador, Diputados por el principio de mayoría relativa o Munícipes, con el objeto de realizar el escrutinio y cómputo de los votos en ellos contenidos y la elaboración de las respectivas actas.
 
 II. Recuento parcial Distrital: El procedimiento de apertura de la totalidad de los paquetes Electorales relativos a la elección de Diputados por el principio de mayoría relativa o de Gobernador cuyo cómputo incide en el resultado de la elección de Diputados de representación proporcional o de Gobernador.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 19 DE JULIO DE 2011)</small>
 
 2. Recuentos de la competencia de los Consejos Distritales Electorales:
 
@@ -7749,15 +8201,21 @@ II. El Consejo General realizara el cómputo de las actas de recuentos parciales
 
 I. Declaración de procedencia por el órgano competente. Solo podrá declararse la procedencia del recuento de una elección, cuando se reúnan las siguientes condiciones:
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 a) La diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar sea menor a un punto porcentual, tomando como referencia la votación total emitida y así lo solicite el representante del candidato que haya obtenido el segundo lugar al momento de firmar el acta de cómputo Municipal o Distrital; o
 
 b) La diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar sea igual o_menor (sic) a los votos nulos y así lo solicite el representante del candidato que haya obtenido el segundo lugar al momento de firmar el acta de cómputo Municipal o Distrital;
 
-II. Designación del personal que intervendrá en la apertura de los paquetes y operaciones de 206 escrutinio y cómputo, el acuerdo relativo deberá ser aprobado por el Consejo General;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. Designación del personal que intervendrá en la apertura de los paquetes y operaciones de escrutinio y cómputo, el acuerdo relativo deberá ser aprobado por el Consejo General, o en su defecto, por el Consejo respectivo. De la misma forma, debe aprobarse a los representantes de los partidos políticos que acrediten ante las mesas de recuento que en su caso se instalen;
 
 III. Escrutinio y cómputo de cada uno de los paquetes electorales, atendiendo a las disposiciones que resulten aplicables del Libro Cuarto, Título Sexto, Capítulo Sexto de este ordenamiento; y
 
-IV. Elaboración de acta circunstanciada.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV. Elaboración de acta circunstanciada, así como de las actas de recuento de votación.
 
 Artículo 638
 
@@ -7785,7 +8243,11 @@ Artículo 639
 
 I. La realización de los escrutinios y cómputos en lugares distintos a los determinados previamente por el Instituto Electoral y sus órganos, salvo casos fortuitos o de fuerza mayor;
 
-II. La recepción de la votación en fecha distinta a la señalada por el presente Código para la celebración de las elecciones; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. La recepción de la votación en fecha distinta a la señalada por el presente Código para la celebración de las elecciones ordinarias o señalada en la convocatoria respectiva, en el caso de elecciones extraordinarias; y
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
 III. La recepción de la votación por personas u organismos distintos a los facultados por este Código.
 
@@ -7890,6 +8352,28 @@ Artículo 653
 2. Tratándose de los procesos de plebiscito y referéndum, se estará a los plazos y términos que establezcan las convocatorias respectivas.
 
 3. Es aplicable lo previsto para las pruebas; suplencia en la deficiencia de expresión de agravios; y lo relativo a las notificaciones y a las reglas comunes para los medios de impugnación que se establecen en el Título Segundo del presente Libro.
+
+###### Artículo 613.
+
+1. El juicio de inconformidad también procederá contra las determinaciones de las autoridades electorales locales en los procedimientos de plebiscito, y referéndum que se establecen en el artículo 652 del presente Código.
+
+Artículo 614
+
+1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos Electorales, y los relativos al plebiscito y referéndum.
+
+Artículo 615
+
+1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
+
+I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
+
+II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
+
+2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
+
+Artículo 616
+
+1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
 
 ### Capítulo Primero. Reglas Especiales
 
@@ -8138,3 +8622,9 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE JULIO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. De conformidad con el artículo 33 de la Constitución Política del Estado de Jalisco, el Congreso del Estado anuncia al Titular del Poder Ejecutivo del Estado, que el término para que, en su caso, pueda hacer observaciones al presente decreto, será de tres días.
