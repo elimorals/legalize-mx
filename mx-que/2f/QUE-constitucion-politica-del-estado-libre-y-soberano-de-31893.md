@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2010-01-30"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2011.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -403,9 +403,9 @@ VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz pre
 
 IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-X. Rendir ante la Legislatura, el 25 de julio de cada año, por escrito, un informe del estado general que guarda la administración pública, en los términos que establezca la Ley;
+X. Rendir ante la Legislatura, el cuarto domingo del mes de julio de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1290,3 +1290,11 @@ Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día s
 Artículo Tercero. La legislación secundaria que corresponda, deberá adecuarse al contenido de la presente Constitución, en un plazo no mayor de 180 días; en tanto se realiza dicha modificación se estará a lo dispuesto por la presente Ley.
 
 Artículo Cuarto. Se derogan todos los ordenamientos que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 19 DE JULIO DE 2011.
+
+Artículo Primero. Aprobada que sea la presente Ley, en los términos de lo dispuesto por el artículo 39 de la Constitución Política del Estado de Querétaro, procédase a la aprobación del Constituyente Permanente, consistente en el voto favorable de las dos terceras partes del número total de integrantes de la Legislatura y las dos terceras partes de los Ayuntamientos.
+
+Artículo Segundo. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
