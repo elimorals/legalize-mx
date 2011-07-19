@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2008-07-29"
+last_updated: "2011-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 129
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO 763, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS CIENTO VEINTE DIAS SIGUIENTES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -87,13 +89,21 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 1
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley es de orden público y de observancia general, tiene por objeto la organización y regulación del funcionamiento del Poder Judicial del Estado, a quien corresponde interpretar y aplicar las leyes en asuntos civiles, familiares y penales del Fuero Común, así como en materia federal, cuando la Constitución de los Estados Unidos Mexicanos y las leyes federales lo faculten; y ejercer las atribuciones de carácter administrativo.
+Esta Ley es de orden público y de observancia general, tiene por objeto la organización y regulación del funcionamiento del Poder Judicial del Estado, a quien corresponde interpretar y aplicar las leyes en asuntos civiles, familiares y penales del Fuero Común y en materia de justicia para adolescentes; así como en materia federal, cuando la Constitución de los Estados Unidos Mexicanos y las leyes federales lo faculten, y ejercer las atribuciones de carácter administrativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-El Poder Judicial del Estado se integra por el Tribunal Superior de Justicia, el Consejo de la Judicatura, los Juzgados de Primera Instancia, Juzgados de Paz y demás órganos relativos a la Administración de Justicia que establece esta Ley.
+El Poder Judicial del Estado se integra por el Tribunal Superior de Justicia, el Consejo de la Judicatura, los Juzgados de Primera Instancia, Juzgados de Justicia Integral para Adolescentes, Juzgados de Control, Juzgados de Apelaciones, Juzgados de Paz y demás órganos relativos a la Administración de Justicia que establece esta Ley.
 
 ###### ARTICULO 3o.
 
@@ -123,11 +133,23 @@ IX.- Los Tutores, los Curadores y los Notarios Públicos en las funciones que co
 
 X.- Los depositarios e interventores judiciales;
 
-XI.- Los servidores públicos de las instituciones de Prevención y Readaptación Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XII.- El Consejo Tutelar para Menores Infractores;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-XIII.- La Secretaría de Seguridad Pública y Protección Ciudadana;
+XI.- Los servidores públicos de las instituciones de Prevención, Readaptación y Reinserción Social, para mayores de edad, instituciones de orientación, protección y tratamiento para mayores de 12 y menores de 18 años y, las instituciones de rehabilitación y asistencia social, para menores de 12 años;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XII.- El Director General de Ejecución de Medidas para Adolescentes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIII.- La Secretaría de Seguridad Pública y Protección Civil;
 
 XIV.- Las Direcciones de Transito Municipal;
 
@@ -139,6 +161,12 @@ XVII.- Los corredores públicos en las funciones que les encomiende el Código P
 
 Los auxiliares señalados están obligados a cumplir las órdenes que dicten las Autoridades Judiciales en ejercicio de sus atribuciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVIII.- Los abogados del Instituto de Defensoría Pública de la Secretaría General de Gobierno del Estado.
+
 ## TITULO SEGUNDO. DE LA SEDE Y COMPETENCIA DE LOS ORGANOS JURISDICCIONALES
 
 ### CAPITULO UNICO. DEL PODER JUDICIAL DEL ESTADO
@@ -147,9 +175,19 @@ Los auxiliares señalados están obligados a cumplir las órdenes que dicten las
 
 El Tribunal Superior de Justicia tiene jurisdicción en todo el territorio del Estado y su sede en la Capital del mismo, excepto en los casos previstos en la Constitución Política Local.
 
-La competencia de cada uno de los órganos jurisdiccionales, se fijará con arreglo a esta Ley, Códigos Procesal Civil, Penal y demás leyes aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+La competencia de cada uno de los órganos jurisdiccionales, se fijará con arreglo a esta Ley, Códigos Procesal Civil, Penal, Ley de Justicia para Adolescentes, Ley de Ejecución de las Penas, Sanciones y Medidas de Seguridad y demás leyes aplicables.
 
 Para conocer de los asuntos jurisdiccionales funcionará en Salas Penales, Salas Civiles y Sala Familiar, integradas por tres Magistrados cada una; y la Sala Auxiliar integrada por tres Magistrados Supernumerarios que conocerá de los asuntos que determine el Pleno del Tribunal y funcionará únicamente durante los períodos que éste acuerde.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+Las Salas Penales conocerán también en segunda instancia de los asuntos relacionados con la justicia para adolescentes con sujeción a lo dispuesto en la Ley de la materia. En estos casos, podrán funcionar en forma colegiada o unitaria, según lo determine el Pleno del Tribunal.
 
 ###### ARTICULO 6o.
 
@@ -167,11 +205,19 @@ V.- La Sala Familiar tendrá su jurisdicción y competencia en todo el Estado y 
 
 VI.- La Sala Auxiliar, cuando exista, tendrá su sede en Chilpancingo de los Bravo y conocerá de los asuntos que determine el Tribunal en Pleno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 7o.
 
-Los Jueces de Primera Instancia tienen jurisdicción y competencia en el Distrito Judicial de su adscripción y residirán en la cabecera distrital del mismo.
+Los Jueces de Primera Instancia tienen jurisdicción y competencia en el Distrito Judicial de su adscripción y residirán en la cabecera distrital del mismo, con excepción de los jueces especializados en justicia para adolescentes, que residirán en la capital del Estado y tendrán jurisdicción y competencia en todo el territorio estatal.
 
-Los Jueces de Paz tienen jurisdicción y competencia en el Municipio o demarcación municipal para los cuales fueron designados y residirán en la cabecera municipal respectiva.
+Los Jueces de Paz y de Control tienen jurisdicción y competencia en el Municipio o demarcación municipal para los cuales fueron designados y residirán en la cabecera municipal respectiva.
+
+El Pleno del Tribunal Superior de Justicia podrá crear juzgados regionales cuando así se requiera.
+
+Podrá haber Jueces de Primera Instancia itinerantes, con jurisdicción y competencia en todo el territorio del Estado, cuando así lo acuerde el Pleno del Tribunal Superior de Justicia conforme a las necesidades del servicio.
 
 ###### ARTICULO 8o.
 
@@ -185,13 +231,17 @@ ALDAMA, comprende las municipalidades de: Apaxtla, Cuetzala del Progreso, Genera
 
 ALLENDE, comprende las municipalidades de: Ayutla de los Libres, Florencio Villarreal y Tecoanapa; su cabecera en Ayutla de los Libres.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ALTAMIRANO, comprende las municipalidades de: Azoyú, Copala, Cuautepec, Juchitán, Marquelia y San Luis Acatlán; su cabecera en Marquelia.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+ALTAMIRANO, comprende las municipalidades de: Azoyú, Cópala, Cuautepec, Juchitan, Marquelia y San Luis Acatlán; su cabecera en San Luis Acatlán.
 
-ALVAREZ, comprende las municipalidades de: Ahuacuotzingo, Atlixtac, Chilapa de Álvarez, José Joaquín de Herrera y Zitlala; su cabecera en Chilapa de Álvarez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+ALVAREZ, comprende las municipalidades de: Ahuacuotzingo, Atlixtac, Chilapa de Álvarez, José Joaquín Herrera y Zitlala; su cabecera en Chilapa de Álvarez.
 
 AZUETA, comprende las municipalidades de: José Azueta y Petatlán; su cabecera en Zihuatanejo.
 
@@ -205,9 +255,11 @@ GUERRERO, comprende las municipalidades de: Mártir de Cuilapan y Tixtla de Guer
 
 HIDALGO, comprende las municipalidades de: Atenango del Río, Buenavista de Cuellar, Cocula, Copalillo, Huitzuco de los Figueroa, Iguala de la Independencia, y Tepecoacuilco de Trujano; su cabecera en Iguala de la Independencia.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Malinaltepec, Tlacoapa e Iliatenco; su cabecera en Malinaltepec.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+LA MONTAÑA, comprende las municipalidades de: Atlamajalcingo del Monte, Cochoapa El Grande, Iliatenco, Malinaltepec y Tlacoapa; su cabecera en Malinaltepec.
 
 MINA, comprende las municipalidades de: Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Pungarabato y Zirándaro; su cabecera en Coyuca de Catalán.
 
@@ -231,9 +283,15 @@ El Tribunal Superior de Justicia del Estado, estará integrado por diecinueve Ma
 
 Los Magistrados Supernumerarios percibirán sueldo igual al que señale el presupuesto a los Numerarios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 10.
 
-El Presidente del Tribunal Superior de Justicia, será electo por el Pleno en la última sesión de cada año judicial, excepto en el primer año del sexenio gubernamental, que será en la sesión del día uno del mes de mayo; pudiendo ser reelecto.
+El Presidente del Tribunal Superior de Justicia, será electo por el Pleno de entre sus miembros en la última sesión del mes de abril del año que corresponda; iniciará sus funciones el día uno de mayo del mismo año previa protesta que rinda ante el Pleno del Tribunal.
+
+El Presidente del Tribunal durará en su cargo tres años, pudiendo ser reelecto por otro periodo igual.
 
 ###### ARTICULO 11.
 
@@ -277,13 +335,21 @@ VI.- Conocer y calificar la recusación o la excusa conjunta o de la mayoría de
 
 VII.- Resolver los conflictos de competencia o de cualquier otra índole que surjan entre las diversas Salas del Tribunal, teniendo voz pero no voto, los Magistrados de las Salas en conflicto;
 
-VIII.- Nombrar y remover a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia y demás personal necesario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VIII.- Nombrar y remover al Administrador General de los Tribunales, a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia y demás personal necesario;
 
 IX.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los Juzgados; crear y suprimir plazas de servidores públicos del Poder Judicial de acuerdo a la disponibilidad presupuestal;
 
 X.- Conocer, en sesión pública y solemne, el informe anual de labores del Poder Judicial, que rinda el Presidente del Tribunal Superior de Justicia, en los términos previstos por la fracción VII, segundo párrafo, del artículo 89 de la Constitución Política del Estado Libre y Soberano de Guerrero;
 
-XI.- Nombrar, ratificar, suspender o destituir a los Jueces de Primera Instancia y de Paz del Estado, a propuesta del Consejo de la Judicatura;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XI.- Nombrar, ratificar, suspender o destituir a los Jueces, a propuesta del Consejo de la Judicatura;
 
 XII.- Nombrar a los Secretarios de Acuerdos, Auxiliares, Proyectistas, Actuarios y demás Personal de confianza de las Salas del Tribunal Superior de Justicia;
 
@@ -293,23 +359,43 @@ XIV.- Crear las comisiones necesarias que coadyuven a la buena marcha de la impa
 
 XV.- Designar al Magistrado y Juez de Primera Instancia para que integren el Consejo de la Judicatura Estatal, por el voto de cuando menos doce de sus integrantes, conforme a lo dispuesto en la Constitución Política Local;
 
-XVI.- Adscribir y cambiar la adscripción de los Jueces de Primera Instancia, de Paz, y de los Secretarios de Acuerdos, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial, cuando las necesidades del servicio así lo exijan;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVII.- Vigilar el funcionamiento jurisdiccional de las Salas, Juzgados de Primera Instancia y de Paz;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVI.- Adscribir, readscribir y comisionar a los Jueces y a los Secretarios de Acuerdos, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial, cuando las necesidades del servicio así lo exijan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XVII.- Vigilar el funcionamiento jurisdiccional de las Salas y Juzgados;
 
 XVIII.- Podrá acordar la práctica de visitas a los Juzgados; reclusorios preventivos y de ejecución de sanciones, designando al Magistrado que deba encargarse de esta visita o al Juez de Primera Instancia, cuando se trate de Juzgado de Paz; sin perjuicio, de lo que la Ley establece sobre esta materia, para el Consejo de la Judicatura;
 
-XIX.- Llamar a su presencia, o pedir informes a los Jueces de Primera Instancia y de Paz, sobre asuntos relacionados con la administración de justicia; así como solicitar en cualquier tiempo, expedientes o copia de ellos, siempre que no se interrumpan los términos de Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIX.- Llamar a su presencia, o pedir informes a los Jueces, sobre asuntos relacionados con la administración de justicia; así como solicitar en cualquier tiempo, expedientes o copia de ellos, siempre que no se interrumpan los términos de Ley;
 
 XX.- Conocer y resolver las excitativas de justicia que se promuevan en contra de los Magistrados Numerarios y Supernumerarios;
 
-XXI.- Resolver sobre las renuncias de los Jueces de Primera Instancia, de Paz; Secretario General de Acuerdos, Auxiliares, Secretarios de Acuerdos de las Salas, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXI.- Resolver sobre las renuncias de los Jueces; Secretario General de Acuerdos, Auxiliares, Secretarios de Acuerdos de las Salas, Actuarios, Proyectistas y demás personal de confianza del Poder Judicial;
 
 XXII.- Resolver sobre las licencias con o sin goce de sueldo que soliciten los Magistrados por más de quince días y hasta dos meses;
 
 XXIII.- Conceder licencia al Presidente del Tribunal hasta por dos meses;
 
-XXIV.- Conceder licencias con goce de sueldo o sin él, por más de quince días y hasta dos meses, a los Jueces de Primera Instancia y de Paz;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIV.- Conceder a los jueces licencias con goce de sueldo o sin él, por más de quince días y hasta por dos meses;
 
 XXV.- Expedir los reglamentos para el funcionamiento del Poder Judicial y modificarlos, en su caso, cuando sea necesario para mejorar la administración de justicia;
 
@@ -359,7 +445,11 @@ I.- Vigilar que se cumplan con los fines propios de la Administración de Justic
 
 II.- Convocar a los Magistrados a Pleno ordinario o extraordinario; presidirlo, dirigir los debates y conservar el orden;
 
-III.- Representar al Poder Judicial del Estado en los actos oficiales o designar, en su caso, comisiones para tal efecto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III.- Representar legalmente al Poder Judicial del Estado, así como en los actos oficiales, pudiendo designar, en su caso, comisiones para este último efecto;
 
 IV.- Llevar el registro, control y seguimiento de la correspondencia oficial con las Autoridades Federales, de las Entidades Federativas, Estatales y Municipales;
 
@@ -443,9 +533,17 @@ VII.- Vigilar que los Secretarios y demás servidores públicos de la Sala, cump
 
 Quedan adscritos respectivamente:
 
-I.- A las Salas Civiles, los Juzgados de Primera Instancia del Ramo Civil, y los Juzgados Mixtos de Primera Instancia, por lo que toca a dicha materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- A las Salas Penales, los Juzgados de Primera Instancia del Ramo Penal, y los Juzgados Mixtos de Primera Instancia, en esta materia conforme a la jurisdicción que les competa;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I.- A las Salas Civiles, los Juzgados de Primera Instancia del Ramo Civil, y los Juzgados Mixtos de Primera Instancia, por lo que toca a dicha materia, de acuerdo con la jurisdicción que les corresponda;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II.- A las Salas Penales, los Juzgados de Primera Instancia del Ramo Penal, los juzgados de control, los de ejecución de las penas y medidas de seguridad, los de justicia para adolescentes y los Juzgados Mixtos de Primera Instancia, en esta materia conforme a la jurisdicción que les competa;
 
 III.- A la Sala Familiar, los Juzgados de Primera Instancia del Ramo de lo Familiar, y los Juzgados Mixtos de Primera Instancia por lo que hace a dicha materia;
 
@@ -471,13 +569,29 @@ VI.- De los demás asuntos que les encomiende el Pleno, las leyes y el Reglament
 
 Las Salas Penales, en los asuntos de los Juzgados de su adscripción, conocerán:
 
-I.- De los recursos de apelación y denegada apelación que se interpongan contra las resoluciones de los Jueces de Primera Instancia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- De los recursos de queja que se interpongan en contra de los Jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-III.- De los impedimentos, excusas y recusaciones de sus propios miembros y de los Jueces de Primera Instancia;
+I. De los recursos de apelación que se interpongan contra los autos y sentencias de los jueces de control, de justicia para adolescentes y, de los jueces de ejecución de las penas y medidas de seguridad;
 
-IV.- Resolver de las excitativas de justicia que se presenten en contra de los Jueces de Primera Instancia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II. De los recursos de casación y revisión que se interpongan contra las sentencias que emitan los jueces de justicia para adolescentes y los jueces de Primera Instancia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+III.- De los impedimentos, excusas y recusaciones de sus propios miembros y de los Jueces;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IV.- Resolver de las excitativas de justicia que se presenten en contra de los Jueces;
 
 V.- De los conflictos de competencia entre juzgadores de la misma materia; y
 
@@ -515,15 +629,29 @@ Cuando funcione como Sala de Adscripción, conocerá de los asuntos de los Juzga
 
 Las Salas del Tribunal Superior de Justicia, tendrán Secretarios de Acuerdos, Secretarios de Acuerdos Auxiliares, Actuarios, Proyectistas y demás personal que sea necesario de conformidad a la capacidad presupuestal.
 
-### CAPITULO V. DE LOS JUECES DE PRIMERA INSTANCIA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2011)</small>
+
+### CAPÍTULO V. DE LOS JUECES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 32.
 
-En cada Cabecera de Distrito habrá cuando menos un Juzgado de Primera Instancia de jurisdicción mixta; excepto en aquellos en que la demanda del servicio exija el establecimiento de Juzgados por materia, que podrá ser Civil, Familiar o Penal.
+En cada Cabecera de Distrito habrá cuando menos un Juzgado de Primera Instancia de jurisdicción mixta; excepto en aquellos en que la demanda del servicio exija el establecimiento de Juzgados por materia, que podrá ser Civil, Familiar, Penal o de justicia para adolescentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 33.
 
-Los Juzgados de Primera Instancia, se integrarán con un Juez, Secretarios de Acuerdos y demás personal que sea necesario para el cumplimiento de sus funciones.
+Los Juzgados de Primera Instancia, se integrarán con un Juez, Secretarios de Acuerdos y demás personal que sea necesario para el cumplimiento de sus funciones. No obstante, los juzgados de Primera Instancia en materia penal y de justicia para adolescentes podrán integrarse con más de un Juez cuando así lo determine el pleno del Tribunal Superior de Justicia conforme a las necesidades del servicio.
+
+Cuando los jueces, por disposición de la ley, sean fedatarios de sus propios actos, podrá prescindirse de los secretarios de acuerdos.
 
 ###### ARTICULO 34.
 
@@ -531,35 +659,119 @@ Los Jueces de Primera Instancia, durarán en su cargo seis años contados a part
 
 Podrán ser designados nuevamente por otro período de seis años y en caso de que fueran ratificados concluído este segundo período, solamente podrán ser privados de sus cargos en los términos del Título Décimo Tercero de la Constitución Política local.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 35.
 
-Para ser Juez de Primera Instancia se requiere:
+Para ser Juez de Primera Instancia, se requiere cumplir con los mismos requisitos de los Magistrados del Tribunal Superior de Justicia, con excepción de la edad y tiempo de ejercicio de la profesión, que serán de veinticinco años de edad y tener tres años de práctica profesional.
+
+Tratándose del Juez de Control, de Ejecución de las Penas y Medidas de Seguridad, de Justicia Integral para Adolecentes y de Paz del Estado de Guerrero, deberán cumplir con los requisitos siguientes:
 
 I.- Ser Ciudadano Mexicano por nacimiento, de preferencia Guerrerense, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Tener cuando menos veinticinco años de edad cumplidos el día de la designación;
 
-III.- Poseer el día de la designación, título de licenciado en derecho y cédula profesional;
+III.- Poseer el día de la designación, título de licenciado en derecho y cédula profesional, con seis años de práctica profesional, salvo que se trate de funcionarios judiciales con práctica judicial mínima de tres años;
 
-IV.- Tener tres años de práctica profesional contados a partir de su examen profesional o cuando sea por titulación expedita o análoga a ésta, desde la fecha en que se levante el acta correspondiente del reconocimiento oficial;
+IV.- Gozar de buena reputación, no haber sido condenado por delito que amerite pena corporal; ni estar inhabilitado para desempeñar empleo, cargo o comisión públicos;
 
-V.- Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-VI.- No estar inhabilitado para desempeñar empleo, cargo o comisión públicos; y
-
-VII.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
+V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
 
 Estarán impedidos para ocupar el cargo de Juez, los que hayan ocupado el cargo de Secretario de Despacho Auxiliar del Titular del Poder Ejecutivo o su equivalente, Procurador General de Justicia o Diputado Local, durante el año previo al día de su nombramiento.
 
-Los nombramientos de Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios como Actuarios, Jueces de Paz, Secretarios de Acuerdos, o Proyectistas de los Juzgados o Salas del Tribunal, y que se hayan conducido con eficiencia y probidad en la administración de justicia o que lo merezcan por honorabilidad, competencia y antecedentes en otras ramas de profesión jurídica.
+Los nombramientos de Jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios como funcionario profesional judicial y que se hayan conducido con eficiencia y probidad en la administración de justicia o que lo merezcan por honorabilidad, competencia y antecedentes en otras ramas de profesión jurídica.
 
 Los aspirantes a ocupar el cargo, deberán someterse a examen de oposición teórico-práctico que aplicará el Consejo de la Judicatura Estatal, conforme al reglamento correspondiente.
 
 Se exceptuarán del examen de oposición a quienes hayan fungido como Jueces de Primera Instancia o Magistrados del Tribunal Superior de Justicia, siempre que no exceda de seis años de la separación del cargo a la fecha en que solicita su nuevo ingreso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 35 Bis.
+
+Son atribuciones y facultades de los jueces, las siguientes:
+
+l. Acordar y dictar sentencia de manera oportuna, fundada y motivada, con sujeción a las normas aplicables en cada caso;
+
+II. Dictar dentro de los términos y plazos previstos en la ley, los decretos, autos y sentencias que correspondan dentro del procedimiento respectivo;
+
+III. Remitir periódicamente los informes de labores al Consejo de la Judicatura por conducto de su Presidente, o eventualmente al Tribunal Superior de Justicia, cuando así lo requiera; y
+
+IV. Enviar oportunamente al archivo judicial los expedientes concluidos y cuya entrega no deba hacerse a otra dependencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 35 Ter.
+
+Los tribunales estarán integrados por el número de jueces necesarios para un servicio público, independiente, eficiente, e imparcial.
+
+Cuando en un tribunal existan das o más jueces, entre ellos se elegirá un juez coordinador del órgano y si los despachos jurisdiccionales se organizaren en un circuito judicial, los jueces nombrarán entre ellos al coordinador general. El Juez coordinador será nombrado por un período de tres años, puede ser reelecto, y tendrá las funciones que le señalen esta ley y el Tribunal Superior de Justicia del Estado. A falta de acuerdo interno de elección, luego de realizadas cinco votaciones, el Tribunal Superior de Justicia del Estado designará al juez coordinador.
+
+El juez que conozca de un proceso tendrá la facultad de ordenar lo que corresponda, para el cumplimiento de sus funciones y, en cada asunto, tendrá la potestad de ejercer el régimen disciplinario. En los demás casos, esa potestad le corresponde al cuerpo de jueces y los acuerdos se tomarán por mayoría; si hubiere empate, el coordinador tendrá doble voto.
+
+En las resoluciones y las actuaciones, deberán consignarse el nombre y los apellidos del funcionario a cargo del proceso.
+
+Los tribunales colegiados estarán conformados por el número de jueces que se requieran para el buen servicio publico y actuarán individualmente o en colegios de tres de ellos, salvo que la ley disponga otra forma de integración.
+
+El coordinador distribuirá la carga de trabajo, aplicando los criterios que hayan fijado los jueces con anterioridad y buscando siempre la mayor equidad, especialmente para asumir las responsabilidades del turno del tribunal o del Circuito. Cuando no se pongan de acuerdo, el Tribunal Superior de Justicia del Estado, fijará las reglas.
+
+Los tribunales podrán tener competencia y jurisdicción en dos o más de diferentes Circuitos, en uno o en varios Circuitos y aun en todo el territorio del Estado. El Consejo de la Judicatura del Estado regulará la distribución de los asuntos, por razón de la materia o territorio, entre los tribunales, para equiparar el trabajo, con el objeto de mejorar el servicio y obtener el resultado más eficiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 35 Quáter.
+
+Corresponde a los jueces coordinadores:
+
+I. Tramitar y diligenciar todos los asuntos del despacho, con independencia funcional y responsabilidad propia;
+
+II. Conformar tribunales colegiados, o designar por turno al juez que corresponde conocer cada uno de los asuntos determinados o suplir, con otro juez o quien esté de turno, en caso de ausencia de asignado, para el desarrollo de las diligencias previamente señaladas;
+
+III, Consignar en los autos todas las certificaciones y constancias referentes a las actuaciones judiciales;
+
+IV. Extender certificaciones;
+
+V. Diligenciar los exhortos, suplicatorias, requisitorias y despachos dentro de los plazos legales y conforme a los criterios que deriven de las disposiciones de la ley y los acuerdos superiores;
+
+VI. Notificar a los interesados que concurran al despacho, las respectivas resoluciones, cuando corresponda;
+
+VII. Firmar la razón de recibido de los escritos, los documentos y las copias que sean presentadas al despacho, sin menoscabo que esta atribución pueda delegarla en otros servidores;
+
+VIII. Llevar la contabilidad de los depósitos judiciales, con todas las obligaciones inherentes al cargo, en los despachos donde no exista contador, o no se haya organizado una oficina centralizada de tesorería;
+
+IX. Vigilar porque los servidores subalternos cumplan a cabalidad con todos sus deberes y obligaciones, para obtener la mayor eficiencia;
+
+X. Habilitar a cualquiera de los secretarios como Actuario, cuando lo considere necesario y así lo requiera la prestación del servicio;
+
+XI. Conocer de las excusas y recusaciones de los secretarios;
+
+XII. Remitir a la Dirección del Fondo Auxiliar para la Administración de Justicia, las cantidades o documentos que reciba el Juzgado por multas, fianzas, pensiones alimenticias, depósitos, consignaciones o por cualquier otro concepto, dentro del plazo de setenta y dos horas que para tal efecto se fija;
+
+XIII. Proveer lo necesario para la adecuada función administrativo-jurisdiccional del Juzgado, coordinando el desempeño armónico del personal, el respeto mutuo, la atención al público, la lealtad al Poder Judicial del Estado y a la administración de justicia, buscando siempre privilegiar la razón y el trato con dignidad y cortesía;
+
+XIV. Vigilar el correcto manejo de los libros de control autorizados y custodiarlos, bajo su más estricta responsabilidad;
+
+XV. Partícipar en los cursos y seminarios que se organicen para la capacitación y actualización del personal jurídico, otorgando para ese efecto discrecionalmente, los permisos necesarios al personal del Tribunal, en función de la prestación del servicio; y
+
+XVI. Proponer, junto con los demás jueces del Despacho, a los servidores públicos de su adscripción como candidatos a recibir estímulos y recompensas.
+
+En razón de la carga administrativa que corresponde al Juez Coordinador, éste puede no adjudicarse causas para trámite jurisdiccional. Sin embargo, cuando haya ausencia de jueces, no podrá prescindir de esta función.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 36.
 
-Los Jueces de Primera Instancia, protestarán ante el Presidente del Tribunal Superior de Justicia del Estado.
+Los Jueces, protestarán ante el Presidente del Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 37.
 
@@ -619,31 +831,127 @@ VIII.- De los demás asuntos que les competan de acuerdo con las leyes.
 
 Los Jueces de Primera Instancia en materia Penal, conocerán:
 
-I.- De los asuntos que le consigne el Ministerio Público y que le correspondan conforme a la Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+I.- De los asuntos que, por delito del orden común, les remitan los Juzgados de Control con Auto de Apertura a Juicio, que le correspondan conforme a la Ley;
 
 II.- De la diligenciación de exhortos, requisitorias, despachos y extradiciones, cuando estén ajustadas a derecho;
 
-III.- De los conflictos de competencia que se susciten en asuntos del orden penal entre los Jueces de Paz en las Cabeceras Municipales que integran el Distrito Judicial, y de las recusaciones y excusas que se planteen en dichos asuntos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las cuestiones de competencia entre Jueces de Paz de las Cabeceras Municipales de Distritos diferentes, serán resueltas por la Sala Penal de adscripción; y en el caso de que sean de diferentes Salas, resolverá la Sala de mayor antigüedad.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-Cuando haya dos o más Jueces de Primera Instancia en materia Penal en el mismo Distrito, conocerán de los asuntos a que se refieren las fracciones I, II y III párrafo primero de este artículo, por turno que llevará la Oficialía de Partes Común.
-
-De los asuntos a que se refiere el primer párrafo de esta fracción conocerá el Juez al que corresponda la adscripción del que sea recusado, se excuse o no acepte el asunto que se le envíe por incompetencia de otro.
+III.- De los conflictos de competencia que se susciten en asuntos del orden penal entre los Jueces de Control y de Paz en las Cabeceras Municipales que integran el Distrito Judicial, y de las recusaciones y excusas que se planteen en dichos asuntos;
 
 IV.- Actuar en auxilio de la justicia militar, practicando las diligencias necesarias e indispensables hasta el auto de plazo Constitucional, y remitir el expediente a la instancia correspondiente; y
 
 V.- De los demás asuntos que les competan de acuerdo con las leyes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+Los Jueces de Primera Instancia con competencia en materia penal tendrán, a su vez, competencia para conocer de la materia de justicia para adolescentes en los términos que determine el Pleno del Tribunal Superior de Justicia del Estado conforme a sus atribuciones y siempre que cumplan con los requisitos establecidos en la Ley de la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 40 Bis.
+
+Los Jueces de primera instancia en materia penal y en materia de justicia para adolescentes podrán ser de control, de juicio oral y de ejecución.
+
+En ningún caso un juez de control podrá fungir como juez de juicio oral en un mismo asunto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 40 Ter.
+
+Los Jueces de Primera Instancia en materia de justicia para adolescentes conocerán de los asuntos que le consigne el Ministerio Público especializado en dicha materia y que les correspondan de acuerdo con la Ley, así como de los demás casos que esta Ley y otros ordenamientos aplicables les confieran.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 40 Quáter.
+
+Los Jueces de control dictaran las resoluciones y realizaran los actos de carácter jurisdiccional que corresponda en las etapas de investigación e intermedia o de preparación del juicio, y resolverán respecto de las solicitudes de medidas cautelares, providencias precautorias y técnicas, y de procedimientos de investigación de la autoridad que requieran control judicial, con sujeción a lo que disponga el Código Procesal Penal, la Ley de Justicia para Adolescentes del Estado y demás disposiciones aplicables.
+
+Los jueces de juicio oral presidirán la audiencia de juicio oral y determinaran la responsabilidad en que hubieren incurrido los imputados por algún delito conforme a las leyes aplicables.
+
+Los jueces de ejecución tendrán a su cargo el control y supervisión de la legalidad en la aplicación y ejecución de las sanciones y medidas impuestas conforme a las leyes respectivas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+ARTICULO 40 Quintus.- Los juzgados de Control tendrán las siguientes atribuciones:
+
+I. Controlar, a solicitud de las víctimas, ofendidos o imputados, las acciones del Ministerio Público y los Cuerpos de Policía, durante la etapa de investigación en el sistema procesal acusatorio;
+
+II. Autorizar las solicitudes del Ministerio Público, cuando es conveniente realizar diligencias o actuaciones que priven, limiten, restrinjan o perturben los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero y los convenios y tratados internacionales vigentes en el país;
+
+III. Resolver por escrito o, mediante audiencias orales, las solicitudes del Ministerio Público, de la víctima u ofendido, del imputado o su abogado defensor, en las etapas de investigación e intermedia y resolver los incidentes que se promuevan en ellas;
+
+IV. Proteger los derechos de libertad de los imputados sometidos a proceso y decidir sobre las medidas cautelares, cuando la libertad haya sido limitada por acción de los particulares, los cuerpos de policía o el Ministerio Público;
+
+V. Resolver en relación con la aplicación de criterios de oportunidad, los mecanismos alternativos de solución de controversias, la suspensión condicional del proceso y el procedimiento abreviado;
+
+VI. Controlar la detención de los imputados cuando se justifique por flagrancia o caso urgente y resolver sobre la vinculación a proceso;
+
+VII. Facilitar, de oficio o a solicitud de parte la solución de las controversias a través de mecanismo (sic) alternativos de solución de controversias de (sic) conforme a lo dispuesto en la ley; y
+
+VIII. Las demás que le otorgue la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+ARTICULO 40 Sextus.- Los juzgados de Ejecución de las Penas y Medidas de Seguridad tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
+
+I. Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento;
+
+II. Decidir sobre la libertad anticipada y su revocación;
+
+III. Proveer sobre la reducción de penas;
+
+IV. Resolver las propuestas que se formulen para modificar las condiciones de cumplimiento de la condena o su reducción;
+
+V. Inspeccionar el lugar y condiciones en que se deban cumplir las penas y medidas de seguridad y ordenar, en su caso, las medidas correctivas que se estimen pertinentes;
+
+VI. Vigilar el cumplimiento en sus términos de las medidas de seguridad impuestas a los inimputables;
+
+VII. Resolver sobre la extinción de la sanción penal;
+
+VIII. Decidir respecto a la ineficacia de la sentencia condenatoria cuando el tipo penal se suprima o se declare inconstitucional;
+
+IX. Proveer, con aplicación del procedimiento previsto para los incidentes de ejecución, las peticiones o quejas que los internos formulen con relación al régimen y el tratamiento penitenciario en cuanto afecten sus derechos;
+
+X. Resolver, por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias; y
+
+XI. Las demás que le otorgue la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 41.
 
-Todos los Juzgados en Materia Penal realizarán guardias en días inhábiles.
+Los Juzgados en Materia Penal y de justicia para adolescentes realizarán guardias en días inhábiles.
 
-Cuando en una Cabecera de Distrito Judicial funcionen dos o más Juzgados en materia Penal, todos realizarán guardias en días inhábiles.
+Cuando en una Cabecera de Distrito Judicial funcionen dos o más Juzgados en materia Penal o de justicia para adolescentes, todos realizarán guardias en días inhábiles.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-Los Jueces Mixtos de Primera Instancia conocerán de los mismos asuntos que, conforme a los artículos 38, 39 y 40 de esta Ley, conozcan los Jueces de Primera Instancia en Materia Civil, Familiar y Penal.
+Los Jueces Mixtos de Primera Instancia conocerán de los mismos asuntos que, conforme a los artículos 38, 39, 40 y 40 ter de esta Ley, conozcan los Jueces de Primera Instancia en Materia Civil, Familiar, Penal y de justicia para adolescentes.
 
 También les es aplicable lo previsto en el párrafo primero del artículo anterior.
 
@@ -665,13 +973,21 @@ IV.- Reunirse mensualmente con los Jueces de Paz de su adscripción, a efecto de
 
 V.- Remitir oportunamente al archivo judicial del Estado, los expedientes que ordena esta Ley;
 
-VI.- Disponer lo necesario a efecto de que se continúe el trámite de las causas penales, asuntos civiles y familiares hasta su terminación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI.- Disponer lo necesario a efecto de que se continúe el trámite de las causas penales y de justicia para adolescentes, asuntos civiles y familiares hasta su terminación;
 
 VII.- Practicar las diligencias que les encomiende el Tribunal Superior de Justicia y las autoridades judiciales de la Federación; así como cumplimentar los exhortos, despachos y requisitorias que oficialmente reciban y estuvieren legalmente requisitados;
 
 VIII.- Dentro del plazo de tres días dar aviso al Tribunal Superior de Justicia de las causas o expedientes que radiquen;
 
-IX.- Dentro de los primeros cinco días del mes, remitir al Tribunal Superior de Justicia un informe detallado de las causas penales, de los asuntos civiles, mercantiles y familiares en que hubieren actuado; así como rendir con la debida oportunidad, los datos estadísticos que les soliciten las autoridades Federales y Estatales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IX.- Dentro de los primeros cinco días del mes, remitir al Tribunal Superior de Justicia un informe detallado de las causas penales y de justicia para adolescentes, de los asuntos civiles, mercantiles y familiares en que hubieren actuado; así como rendir con la debida oportunidad, los datos estadísticos que les soliciten las autoridades Federales y Estatales;
 
 X.- Llevar los libros de control que señale el Reglamento Interior del Tribunal Superior de Justicia;
 
@@ -689,9 +1005,13 @@ XVI.- De los impedimentos, excusas y recusaciones de los Jueces de Paz; y
 
 XVII.- Las demás que les señalen las leyes, el Reglamento Interior del Tribunal Superior de Justicia y las que les confiera el Tribunal en Pleno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 45.
 
-Los Jueces de Primera Instancia, actuarán con Secretarios de Acuerdos y a falta de éstos, con testigos de asistencia, que al igual que aquéllos, tendrán fe pública.
+Los Jueces de Primera Instancia, actuarán con Secretarios de Acuerdos y a falta de éstos, con testigos de asistencia, que al igual que aquéllos, tendrán fe pública, salvo en los casos en que por disposición de Ley, los jueces sean fedatarios de sus propios actos.
 
 ### CAPITULO VI. DE LOS JUECES DE PAZ
 
@@ -733,7 +1053,11 @@ III.- Conceder licencias con goce de sueldo o sin él, hasta por cinco días, al
 
 IV.- Conocer de los negocios civiles y mercantiles de acuerdo con la competencia que señale el Código Procesal Civil, de las informaciones testimoniales para registros extemporáneos de nacimiento y de las diligencias de apeo y deslinde;
 
-V.- Conocer en materia penal de los delitos cuya competencia les señale el Código de Procedimientos Penales del Estado de Guerrero;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V.- Conocer en materia penal, con funciones de juez de control, de todos los delitos que se cometan en su jurisdicción, cuando no se haya asignado juzgados de control y, en aquellos delitos cuya competencia les señale el Código de Procedimientos Penales del Estado de Guerrero;
 
 VI.- Conocer de la acción correccional, en los términos que establece el Código de Procedimientos Penales;
 
@@ -855,7 +1179,11 @@ XI.- Tener a su cargo la guarda y custodia de los expedientes de los asuntos en 
 
 XII.- En tratándose de asuntos penales el Secretario de Acuerdos, en ausencia del Juez de Primera Instancia, podrá librar la orden de aprehensión, reaprehensión, orden de cateo y arraigo de las personas, en los términos que establece el Código de Procedimientos Penales;
 
-XIII.- Concluidos definitivamente los expedientes, remitirlos al archivo del Tribunal Superior de Justicia, para su guarda definitiva; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XIII.- Concluidos definitivamente los expedientes, remitirlos al archivo del Tribunal Superior de Justicia, para su guarda definitiva a excepción de los expedientes en materia de justicia para adolescentes, en que se observará lo estipulado en la Ley de esta materia; y
 
 XIV.- Las que les señale el Reglamento Interior del Tribunal Superior de Justicia y demás leyes aplicables.
 
@@ -909,13 +1237,23 @@ V.- Los programas para la capacitación, actualización y desarrollo de los serv
 
 La carrera judicial comprende las siguientes categorías:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
 I.- Titulares de los órganos:
 
 a).- Magistrado;
 
 b).- Juez de Primera Instancia del Estado;
 
-c).- Juez de Paz;
+c).- Juez de Control;
+
+d) Juez de Ejecución de las Penas y Medidas de Seguridad;
+
+e) Juez de Justicia Integral para Adolescentes; y
+
+f).- Juez de Paz;
 
 II.- Auxiliares de los órganos:
 
@@ -929,15 +1267,23 @@ d).- Secretario de Acuerdos y Proyectista de Juzgado de Paz; y
 
 e).- Actuario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 67.
 
-Las designaciones para cubrir las plazas vacantes de Jueces de Primera Instancia, Jueces de Paz, Secretarios de Acuerdos, Proyectistas y Actuarios de Primera Instancia, ya sean definitivas o de carácter interino, deberán realizarse en la forma y bajo las condiciones establecidas en la presente Ley y en el Reglamento correspondiente.
+Las designaciones para cubrir las plazas vacantes de Jueces de Primera Instancia, Jueces de Control, de Ejecución y de Justicia Integral para Adolescentes, Jueces de Paz, Secretarios de Acuerdos, Proyectistas y Actuarios de Primera Instancia, ya sean definitivas o de carácter interino, deberán realizarse en la forma y bajo las condiciones establecidas en la presente Ley y en el Reglamento correspondiente.
 
 ### CAPITULO IX. DE LOS IMPEDIMENTOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 68.
 
-Los Magistrados, Jueces de Primera Instancia, Jueces de Paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
+Los Magistrados, Jueces de Primera Instancia, Jueces de Control, de Ejecución, de Justicia Integral para Adolescentes y Jueces de Paz y los miembros del Consejo de la Judicatura, independientemente de las causas de impedimento que señalen las normas procedimentales, están impedidos para conocer de los asuntos sometidos a su consideración, por alguna de las siguientes causas:
 
 I.- Tener parentesco por consanguinidad en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado y por afinidad hasta el segundo grado, con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -1085,6 +1431,14 @@ Tratándose de los Consejeros designados por el Pleno del Tribunal Superior de J
 
 El Consejo de la Judicatura Estatal, funcionará en Pleno o en comisiones y tendrá competencia para proponer al Pleno del Tribunal Superior de Justicia todas las medidas que estime conducentes para eficientar la administración de justicia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 78 Bis.
+
+El Pleno del Consejo de la Judicatura se integrará con los cinco consejeros, pero bastará la presencia del presidente y dos más de sus miembros para que haya quórum para sesionar y validos (sic) los acuerdos que ahí se tomen.
+
 ### CAPITULO II. ATRIBUCIONES DEL CONSEJO DE LA JUDICATURA ESTATAL
 
 ###### ARTICULO 79.
@@ -1137,7 +1491,11 @@ XXI.- Conceder licencia por más de quince días, con goce de sueldo o sin él, 
 
 XXII.- Nombrar y remover, a propuesta del titular del área, al personal administrativo del Poder Judicial;
 
-XXIII.- Establecer las bases para la formación y actualización profesional de los servidores públicos del Poder Judicial, auxiliándose para tal efecto del Instituto para el Mejoramiento Judicial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXIII.- Establecer las bases para el ingreso, la formación, capacitación, actualización, especialización y certificación de los servidores públicos del Poder Judicial y de quienes aspiren a pertenecer al mismo, así como de los programas académicos y de investigación, y expedir los documentos oficiales que acrediten estos, auxiliándose para tal efecto del Instituto para el Mejoramiento Judicial;
 
 XXIV.- Supervisar la aplicación y evaluación de los exámenes de oposición que se practiquen a los aspirantes de nuevo ingreso o para promover al personal en funciones a cargo superior, se hagan con imparcialidad, objetividad y excelencia académica, en los términos del reglamento de examen de oposición;
 
@@ -1159,7 +1517,17 @@ XXXII.- Designar a los Jueces de Primera Instancia de los Ramos Civil y Penal, r
 
 XXXIII.- Establecer los Libros de Gobierno que habrán de llevar las Salas y los Juzgados; así como, los datos que se habrán de consignar en los mismos, proponiendo al H. Pleno expida para tal efecto el Reglamento correspondiente; y
 
-XXXIV.- Las demás facultades que las Leyes o Reglamentos le otorguen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXIV.- Dictar las medidas necesarias para el correcto funcionamiento del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y ejercer las demás atribuciones en materia de mecanismos alternativos de solución de controversias que deriven en esta Ley y la ley de la materia, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+XXXV.- Las demás facultades que las Leyes o Reglamentos le otorguen.
 
 ###### ARTICULO 80.
 
@@ -1245,19 +1613,53 @@ I.- La Dirección General de Administración y Finanzas;
 
 II.- El Instituto para el Mejoramiento Judicial;
 
-III.- La Unidad de Estadística, Evaluación y Seguimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- La Coordinación General de Peritos;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-V.- La Unidad de Auditoría Interna;
+III.- El Centro Estatal de Mecanismos Alternativos de Solución de Controversias;
 
-VI.- La Visitaduría General;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII.- El Archivo Judicial;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
-VIII.- La Oficina Editorial; y
+IV.- La Unidad de Estadística, Evaluación y Seguimiento;
 
-IX.- Las demás unidades administrativas que se requieran para el desempeño de las funciones del Poder Judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+V.- La Coordinación General de Peritos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI.- La Unidad de Auditoría Interna;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VII.- La Visitaduría General;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VIII.- El Archivo Judicial;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+IX.- La Oficina Editorial; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2011)</small>
+
+X.- Las demás unidades administrativas que se requieran para el desempeño de las funciones del Poder Judicial.
 
 ###### ARTICULO 86.
 
@@ -1309,7 +1711,11 @@ El Instituto para el Mejoramiento Judicial es un órgano de auxilio y apoyo téc
 
 I.- Coordinar los trabajos relativos al nombramiento de servidores públicos del Poder Judicial;
 
-II.- Realizar estudios de investigación y programas de actualización;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+II.- Llevar a cabo la formación, capacitación, actualización, especialización y certificación de los servidores públicos judiciales y de quienes aspiren a serlo, así como diseñar y ejecutar los programas académicos de educación superior especializada y de investigación científica básica y aplicada necesarios para el desarrollo y mejoramiento de las funciones sustantivas del Poder Judicial del Estado, contando para ello con las unidades académicas y administrativas que se requieran;
 
 III.- Realizar estudios para la organización y funcionamiento eficaz del Poder Judicial;
 
@@ -1342,6 +1748,46 @@ II.- Poseer Título y Cédula Profesional de Licenciado en Derecho y tener por l
 III.- Contar con la experiencia docente, por lo menos de tres años, a nivel de licenciatura, y
 
 IV.- Gozar de buena reputación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 91 Bis.
+
+El Centro Estatal de Mecanismos Alternativos de Solución de Controversias se regirá por la Ley de la materia y demás disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 91 Ter.
+
+El Director del Centro Estatal y demás servidores públicos del mismo, serán nombrados por el Pleno del Consejo de la Judicatura a propuesta de su presidente, quienes decidirán también sobre sus ausencias y remociones conforme a las disposiciones de esta Ley y demás ordenamientos legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2011)</small>
+
+###### ARTICULO 91 Quáter.
+
+Para ser Director del Centro Estatal de Mecanismos Alternativos de Solución de Controversias se requiere:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Contar con título profesional de licenciado en derecho;
+
+III.- Tener cuando menos veintiocho años de edad al día (sic) designación;
+
+IV.- Tener cinco años de práctica profesional, contados a partir de su examen profesional, o cuando sea por titulación expedita o análoga a esta, desde la fecha en que se levanten el acta correspondiente de de (sic) reconocimiento oficial;
+
+V.- No haber sido condenado por delito doloso;
+
+VI.- No estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público; y
+
+VII.- Haber aprobado los programas de capacitación y evolución, tanto psicométricos como técnicos, que autorice el Consejo de la Judicatura Estatal.
+
+Los responsables de los centros regionales de mecanismos alternativos de solución de controversias deberán satisfacer los mismos requisitos que se exigen para ser director, con excepción de los previstos en las fracciones III y IV de este artículo, bastando con que tengan veinticinco años de edad y práctica profesional de tres años.
 
 ### CAPITULO VII. DE LA UNIDAD DE ESTADISTICA, EVALUACION Y SEGUIMIENTO
 
@@ -1477,7 +1923,11 @@ IV.- Revisar los Libros de Gobierno a fin de comprobar si se encuentran en orden
 
 V.- Verificar que los procesados con libertad caucional estén cumpliendo con la obligación de presentarse en los plazos fijados;
 
-VI.- Examinar si en forma y términos establecidos por la Ley, se han dictado las resoluciones y acuerdos en las causas penales y expedientes civiles o familiares, y si se han practicado, en igual forma, las notificaciones y diligencias ordenadas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VI.- Examinar si en forma y términos establecidos por la Ley, se han dictado las resoluciones y acuerdos en las causas penales y de justicia para adolescentes, así como en los expedientes civiles o familiares, y si se han practicado, en igual forma, las notificaciones y diligencias ordenadas;
 
 VII.- De toda visita de inspección deberá levantarse acta circunstanciada, en la cual se harán constar las irregularidades que se hubiesen encontrado, las quejas o denuncias presentadas en contra de los titulares y demás servidores del órgano de que se trate. Asimismo, los titulares y demás servidores públicos del órgano podrán hacer las manifestaciones que estimen pertinentes respecto de la visita o del contenido de ésta.
 
@@ -1587,7 +2037,11 @@ V.- No concurrir sin causa justificada al desempeño de sus labores oficiales;
 
 VI.- Dedicar a los servidores públicos de la Administración de Justicia de su dependencia, al desempeño de labores ajenas a las funciones oficiales;
 
-VII.- No remitir el archivo del Tribunal al terminar el año, los expedientes cuya tramitación ha concluido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+
+VII.- No remitir el archivo del Tribunal, al terminar el año, los expedientes cuya tramitación ha concluido, pero si se trata de causas de justicia para adolescentes deberán estarse a los plazos y términos que establezca la Ley de la materia, en su caso.
 
 Las faltas comprendidas en las fracciones II, III, IV, V y VI de este artículo, se sancionarán cuando se cometa por primera vez con apercibimiento, cuando se cometan por segunda vez, con multa hasta de cincuenta días de salario mínimo. La falta comprendida en la fracción I, se sancionará por primera vez, con suspensión hasta de treinta días y por segunda vez, con suspensión hasta de tres meses.
 
@@ -1648,6 +2102,10 @@ Las faltas en que incurran los Magistrados serán sancionadas por el Tribunal en
 Todas las disposiciones contenidas en este capítulo, serán aplicadas a los servidores públicos del Poder Judicial que en el ejercicio de sus funciones cometan infracciones, sin perjuicio de las sanciones que previene el Código Penal y la Ley de Responsabilidades de los Servidores Públicos.
 
 ### CAPITULO UNICO. DE LAS VISITAS GENERALES, ESPECIALES Y EXTRAORDINARIAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 122.
 
@@ -1771,13 +2229,21 @@ En caso de incumplimiento a la excitativa de justicia, el servidor público se h
 
 En contra de esta resolución no procede recurso alguno.
 
-## TITULO SEXTO. DE LAS VISITAS A LOS JUZGADOS Y CENTROS DE READAPTACION SOCIAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DENOMINACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2011)</small>
+
+## TITULO SEXTO. DE LAS VISITAS A LOS JUZGADOS, CENTROS DE REINSERCION SOCIAL Y CENTROS DE INTERNAMIENTO PARA ADOLESCENTES
 
 ###### ARTICULO 141.
 
-El Consejo de la Judicatura Estatal, mandará practicar por lo menos cada seis meses visitas generales a los Juzgados, pudiendo designar a un Juez de Primera Instancia, cuando se trate de un Juzgado de Paz y a los Visitadores Judiciales cuando se trate de un Juzgado de Primera Instancia.
+El Consejo de la Judicatura Estatal, mandará practicar por lo menos cada seis meses visitas generales a los Juzgados, pudiendo designar a un Juez de Primera Instancia, cuando se trate de un Juzgado de Paz y a los Visitadores Judiciales cuando se trate de un Juzgado de Primera Instancia, cuando se trate de un Juzgado de Control, de Justicia Integral para Adolescentes, de Ejecución y de Paz y a los Visitadores Judiciales cuando se trate de un Juzgado de Primera Instancia.
 
-La visita general tendrá por objeto percatarse del despacho de los negocios radicados en el Juzgado, anotando las irregularidades que se observen y las quejas que se presenten, para lo cual se anunciará con la anticipación debida, en la puerta del Juzgado, estrados y lugares públicos que se acostumbre, indicándose que se presenten los que tengan quejas y denuncias para exponer. Cuando se trate de Juzgado Penal o Mixto se practicará además una visita en el Centro de Readaptación Social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+La visita general tendrá por objeto percatarse del despacho de los negocios radicados en el Juzgado, anotando las irregularidades que se observen y las quejas que se presenten, para lo cual se anunciará con la anticipación debida, en la puerta del Juzgado, estrados y lugares públicos que se acostumbre, indicándose que se presenten los que tengan quejas y denuncias para exponer. Cuando se trate de Juzgado Penal o Mixto, o de Ejecución de medidas para Adolescentes, se practicará además una visita en el Centro de Reinserción Social o al Centro de Internamiento para Adolescentes, según corresponda.
 
 Las visitas especiales tendrán por objeto percatarse de las irregularidades que se hayan denunciado en determinados asuntos; y las extraordinarias percatarse del funcionamiento del Juzgado, las cuales se practicarán cuando el Consejo de la Judicatura lo estime conveniente, sin que para éstas se requiera anuncio previo.
 
@@ -1785,9 +2251,15 @@ Las visitas especiales tendrán por objeto percatarse de las irregularidades que
 
 Las visitas de que trata el artículo anterior, serán presididas por el Visitador designado y autorizadas por sus respectivos Secretarios. En caso de que el Consejo de la Judicatura estime conveniente que no asista el Secretario, el Visitador que la presida, designará a los testigos de asistencia, con quienes actuará.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 143.
 
-Las visitas a los Centros de Readaptación Social, tendrán por objeto que los indiciados, procesados y sentenciados, manifiesten las quejas que tuvieren tanto por lo que respecta al estado de sus procesos, como al tratamiento que reciban dentro de la prisión.
+Las visitas a los Centros de Reinserción Social, tendrán por objeto que los indiciados, procesados y sentenciados, manifiesten las quejas que tuvieren tanto por lo que respecta al estado de sus procesos, como al tratamiento que reciban dentro de la prisión.
+
+Igual finalidad tendrán las visitas a los centros de internamiento para adolecentes (sic).
 
 ###### ARTICULO 144.
 
@@ -1799,7 +2271,11 @@ El Consejo de la Judicatura Estatal, por las irregularidades observadas en las v
 
 Si de las visitas practicadas a los Juzgados, el Consejo de la Judicatura Estatal advirtiera alguna irregularidad en los procesos, imputables a los Agentes del Ministerio Público o Defensores de Oficio adscritos, mediante oficio le hará saber al Superior de éstos de las irregularidades, para que proceda conforme a derecho.
 
-Igualmente procederá el Consejo, cuando de la visita practicada a los Centros de Readaptación Social, advierta irregularidades en el trato a los internos, o se reciban quejas de éstos, en contra del personal de dicho Centro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
+
+Igualmente procederá el Consejo, cuando de la visita practicada a los Centros de Reinserción Social o Centros de Internamiento para Adolescentes, advierta irregularidades en el trato a los internos, o se reciban quejas de éstos, en contra del personal de dichos Centros.
 
 T R A N S I T O R I O S
 
@@ -1882,3 +2358,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 TERCERO.- Comuníquese el presente Decreto al Pleno del Tribunal Superior de Justicia del Estado para su conocimiento y efectos legales conducentes.
+
+P.O. 19 DE JULIO DE 2011.
+
+PRIMERO.- Este Decreto estará en vigor a los cientos (sic) veinte días siguientes a su publicación en el periódico oficial del gobierno del estado, con las excepciones que se establecen en los artículos segundo y tercero siguiente.
+
+SEGUNDO.- La reforma al artículos (sic) 8°, entrara en vigor al día siguiente de su publicación en el periódico oficial del gobierno del estado.
+
+TERCERO.- Las adiciones a los artículos 79, 85, 91 bis, 91 ter y 91 quater, en materia de mecanismos alternativos de solución de controversias, entraran en vigor en la misma fecha que entre en vigor la ley de la materia respectiva.
+
+CUARTO.- Los Poderes Ejecutivo y Judicial deberán realizar los ajustes necesarios al Presupuesto de Egresos del Estado para el ejercicio fiscal dos mil once, para la asignación de los recursos que se requieran para implementar las reformas contempladas en el presente Decreto.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
