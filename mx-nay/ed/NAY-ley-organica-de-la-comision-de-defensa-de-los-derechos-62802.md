@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2008-08-16"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -339,9 +339,13 @@ Para ser designado Presidente de la Comisión se deberán satisfacer los siguien
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos 35 años de edad cumplidos al día de su designación;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
 
-III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Abogado o Licenciado en Derecho, expedido por autoridad o Institución legalmente autorizada para ello;
+II. Tener cuando menos 28 años de edad cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+III. Poseer al día de su designación, con antigüedad mínima de 3 años, título profesional de Abogado o Licenciado en Derecho, expedido por autoridad o institución legalmente autorizada para ello;
 
 IV. Gozar de buena reputación en la sociedad y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedaría inhabilitado para el cargo cualquiera que haya sido la pena;
 
@@ -615,13 +619,21 @@ El Secretario Ejecutivo para su designación deberá reunir los siguientes requi
 
 I. Ser mexicano en pleno ejercicio de sus derechos ciudadanos;
 
-II. Tener, cuando menos, 30 años de edad cumplidos al día de su nombramiento;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
 
-III. Contar con Título de Licenciado en Derecho expedido legalmente y acreditar un mínimo de cinco años de ejercicio profesional;
+II. Tener cuando menos 25 años de edad cumplidos al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+III. Contar con título profesional de Abogado o Licenciado en Derecho expedido legalmente y acreditar un mínimo de tres años de ejercicio profesional;
 
 IV. Haber residido en el Estado cuando menos los 2 años anteriores a la fecha de la designación, y
 
 V. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2011)</small>
+
+VI. No haber sido Consejero Ciudadano de la Comisión durante los últimos 2 años.
 
 ###### ARTÍCULO 47.
 
@@ -675,9 +687,11 @@ II. Atender, recibir, tramitar y realizar el proyecto de resolución de las quej
 
 La Visitaduría General tendrá su sede en la ciudad de Tepic, Nayarit.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 49.
 
-El Visitador General de la Comisión, deberá reunir los mismos requisitos que se exigen para ser Presidente de la Comisión.
+El Visitador General deberá reunir los mismos requisitos que se exigen para ser Presidente de la Comisión, a excepción de la edad, la cual deberá ser de 25 años cumplidos al día de la designación.
 
 ###### ARTICULO 50.
 
@@ -1410,3 +1424,9 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial de est
 Dip. Rafael Vega Herrera, Presidente.- Rúbrica.- Dip. Bertha Armida Arcadia Gómez, Secretaria.- Rúbrica.- Dip. Angélica Cristina Del Real Chávez, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los catorce días del mes de agosto del año dos mil ocho.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2011.
+
+Artículo Único.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
