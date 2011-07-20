@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-planeacion-demografica-y-estadistica-para-la-64245"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2008-11-10"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-11-05"
 
 LEY DE PLANEACION DEMOGRAFICA Y ESTADISTICA PARA LA POBLACION DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 10 de noviembre de 2008.
 
@@ -84,7 +84,9 @@ X.- POLÍTICA DE POBLACIÓN: Las medidas explicitas o implícitas instituidas po
 
 XI.- ESTRUCTURA: Composición de la población según diversas características específicamente demográficas (sexo, edad, estado civil, etc.) o no (grado de instrucción, actividad económica, etc.) considerada de manera aislada o asociada;
 
-XII.- POBLACIÓN: Suma de individuos que coexisten en un momento dado y delimitado en el territorio del Distrito Federal de acuerdo con los criterios variados de pertenencia; (sic)
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+
+XII.- POBLACIÓN: Suma de individuos que residen en un momento dado y delimitado en el territorio del Distrito Federal de acuerdo con los criterios variados de pertenencia; (sic)
 
 ###### ARTÍCULO 3.
 
@@ -136,11 +138,13 @@ La acreditación a que se refiere el párrafo anterior podrá hacerse mediante p
 
 ### CAPITULO II. DE LA POLÍTICA DE POBLACIÓN Y DESARROLLO
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 13.
 
-La Política de Población y Desarrollo del Distrito Federal consistirá en una serie de acciones, planes y programas que efectúe el Jefe de Gobierno, a través del Consejo de Población del Distrito Federal, las Dependencias y Entidades locales, en el marco de lo dispuesto por el Plan de Desarrollo para el Distrito Federal, orientadas a contribuir para mejorar la calidad de vida de los habitantes.
+La Política de Población del Distrito Federal consistirá en una serie de acciones, planes y programas que efectúe el Jefe de Gobierno, a través del Consejo de Población del Distrito Federal, las Dependencias y Entidades locales, en el marco de lo dispuesto por el Plan de Desarrollo para el Distrito Federal, las cuales estarán orientadas a una distribución demográfica sustentable de su población dentro de su territorio, promover el equilibrio en la tasa de dependencia, tender a su ordenamiento territorial y aportar elementos estadísticos sociodemográficos para la planeación de las políticas públicas, que contribuyan en la mejora de la calidad de vida de sus habitantes.
 
-La política de población vinculará directamente las políticas de salud, educación, protección al trabajo familiar, a la institución de la familia y respeto a los derechos humanos y civiles de las familias.
+La política de población se articulará directamente a las políticas de salud, educación, protección al trabajo familiar, a la institución de la familia y respeto a los derechos humanos y civiles de las familias.
 
 ###### ARTÍCULO 14.
 
@@ -164,9 +168,11 @@ VIII.- La preservación del equilibrio ecológico y el respeto al medio ambiente
 
 IX.- La promoción de los valores culturales de los habitantes del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 15.
 
-Para la formulación de la política de población de la Ciudad de México, el Ejecutivo local tomará en cuenta los siguientes aspectos:
+Para la formulación de la política de población de la Ciudad de México, el Ejecutivo local, a través de la Secretaría, tomará en cuenta los siguientes aspectos:
 
 I.- La información demográfica actualizada que exista a nivel nacional, regional y delegacional;
 
@@ -190,9 +196,11 @@ Para el debido cumplimiento de los fines de la política de población del Distr
 
 ### CAPITULO I. BASES PARA LA PLANEACIÓN
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 18.
 
-Con el propósito de planear y aplicar adecuadamente las políticas y acciones en materia de población, el Jefe de Gobierno, promulgará el programa, el cual deberá enmarcarse dentro de los lineamientos del Programa Nacional de Población.
+Con el propósito de planear y aplicar adecuadamente las políticas y acciones en materia de población, el Jefe de Gobierno, promulgará el programa, el cual deberá contribuir, conforme a sus mismos lineamientos, a la consecución de los objetivos del Programa Nacional de Población.
 
 ###### ARTÍCULO 19.
 
@@ -200,9 +208,13 @@ El Consejo, en coordinación con las dependencias, órganos y entidades de la Ad
 
 Para tal efecto, implementarán un diagnóstico de la población de permanente actualización, enfocado en los siguientes objetivos:
 
-I.- La promoción y difusión dentro del núcleo familiar de los valores que la sustentan y los principios relacionados con la responsabilidad de la pareja en la procreación y espaciamiento de los hijos, estableciendo como finalidad la paternidad y maternidad responsables.
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-II.- Promover las condiciones adecuadas para el desarrollo económico;
+II.- Promover la vinculación del análisis de la estructura poblacional y la orientación de oportunidades para el desarrollo económico;
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+
+III.- Proyectar la estructura poblacional en el mediano y corto plazos, que contribuyan a impulsar el desarrollo sostenido y sustentable
 
 III.- Impulsar el desarrollo sostenido y sustentable
 
@@ -260,9 +272,11 @@ IX.- Los demás que sean necesarios para conseguir que la población de la Ciuda
 
 El programa tendrá una duración igual al periodo constitucional del encargo del Jefe de Gobierno correspondiente, y será publicado en la Gaceta Oficial del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 23.
 
-El Jefe de Gobierno del Distrito Federal informará anualmente y por escrito entregado de manera personal o por conducto del Consejo, sobre los resultados que se hayan obtenido de la aplicación del Programa durante el lapso correspondiente.
+El Secretario de Gobierno, en su carácter de Presidente del Consejo informará anualmente por escrito a la Asamblea Legislativa del Distrito Federal, los resultados obtenidos de la aplicación del Programa así como una evaluación de la implementación del mismo.
 
 ###### ARTÍCULO 24.
 
@@ -284,7 +298,9 @@ III.- Las acciones y estrategias especificas;
 
 IV.- Los subprogramas, las líneas específicas, la forma en que contribuirán al desarrollo del Distrito Federal;
 
-V.- Los compromisos de las Dependencias y Entidades Publicas que deban intervenir en su ejecución u observancia;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+
+V.- Las acciones a realizar por las Dependencias y Entidades Públicas que deban intervenir en su ejecución u observancia;
 
 VI.- Las relaciones con otros instrumentos de planeación;
 
@@ -320,17 +336,21 @@ Corresponde al Jefe de Gobierno:
 
 I.- Promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, dentro de un proceso de desarrollo integral del individuo y la sociedad en su conjunto;
 
-II.- Aplicar la presente ley por conducto del Consejo, quien será el responsable directo de aplicar las disposiciones de este ordenamiento sin perjuicio de la intervención que se atribuya a otras Dependencias, Entidades y órganos desconcentrados de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-III.- Nombrar al Presidente de la Junta Directiva del Consejo;
+II.- Aplicar la presente ley por conducto del Consejo, quien será el responsable a través de la Secretaría, de aplicar las disposiciones de este ordenamiento sin perjuicio de la intervención que se atribuya a otras Dependencias, Entidades y órganos desconcentrados de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias;
 
-IV.- Aprobar el Programa elaborado por del Consejo, el cual deberá expedirse dentro del término establecido en el artículo 22 del presente ordenamiento.
+III.- (DEROGADA, G.O. 20 DE JULIO DE 2011)
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+
+IV.- Aprobar y promulgar el Programa elaborado por del (sic) Consejo, el cual deberá expedirse dentro del término establecido en el artículo 22 del presente ordenamiento.
 
 V.- Suscribir convenios de coordinación y colaboración con la Federación, otros
 
 Estados y los Municipios para los efectos que establece el artículo 17 de esta ley;
 
-VI.- Promulgar el programa; y
+VI.- (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
 VII.- Promover, ejecutar, supervisar y evaluar, en coordinación con el Consejo, las acciones necesarias para resolver los problemas demográficos en el Distrito Federal.
 
@@ -338,13 +358,15 @@ VII.- Promover, ejecutar, supervisar y evaluar, en coordinación con el Consejo,
 
 OBJETIVO Y ATRIBUCIONES DEL CONSEJO
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 29.
 
-Se crea el Consejo de Población del Distrito Federal como un organismo publico descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, teniendo a su cargo la instrumentación de las políticas de población que el Ejecutivo Local determine a través de la planeación demográfica, con el objeto de incluir a la población dentro de los programas generales de desarrollo económico y social.
+Se crea el Consejo de Población del Distrito Federal como un órgano desconcentrado de la Secretaría de Gobierno, que tiene a su cargo la instrumentación de las políticas de población a través de la planeación demográfica, con el objeto de incluir a la población dentro de los programas generales de desarrollo económico y social.
 
-El Ejecutivo Local, aplicará la presente ley por conducto del Consejo, quien será el responsable directo de emplear las disposiciones de este ordenamiento sin perjuicio de la intervención que se atribuya a otras Dependencias y Entidades, tanto locales como federales, en el ámbito de sus respectivas competencias.
+El Ejecutivo Local, aplicará la presente ley por conducto del Consejo, quien será responsable por conducto de la Secretaría de ejecutar las disposiciones de este ordenamiento sin perjuicio de la intervención que se atribuya a otras Dependencias y Entidades, tanto locales como federales, en el ámbito de sus respectivas competencias.
 
-El Consejo es el órgano encargado de cuidar que la población sea uno de los elementos principales de los programas de desarrollo económico, social, cultural y político de la Administración Publica del Distrito Federal, así como de vigilar que los objetivos de estos programas se vinculen a las necesidades que los fenómenos demográficos planteen.
+El Consejo es el órgano encargado de cuidar que la población sea uno de los elementos principales de los programas de desarrollo económico, social, cultural y político de la Administración Pública del Distrito Federal, así como de vigilar que los objetivos de estos programas se vinculen a las necesidades que los fenómenos demográficos planteen.
 
 ###### ARTÍCULO 30.
 
@@ -392,17 +414,7 @@ Las dependencias y entidades del Ejecutivo Local, deberán coordinarse con el Co
 
 ###### ARTÍCULO 35.
 
-El patrimonio del Consejo se conformará de la siguiente manera:
-
-I.- Los bienes muebles e inmuebles que por cualquier título obtenga;
-
-II.- Los recursos que se le asignen en el Presupuesto de Egresos del Gobierno del Distrito Federal;
-
-III. Las aportaciones, donaciones, bienes, legados y demás análogos que reciba del sector público y privado;
-
-V.- Los ingresos obtenidos en la prestación de servicios por concepto de investigaciones y estudios sociodemográficos, cursos, talleres, así como por la venta de documentos ofrecidos a los sectores público y privado; y,
-
-V.- En general, por todos los derechos del Consejo que entrañen utilidad económica.
+(DEROGADO, G.O. 20 DE JULIO DE 2011)
 
 ###### ARTÍCULO 36.
 
@@ -424,49 +436,59 @@ VI.- Las demás que esta u otra Ley disponga.
 
 La presente Ley no es aplicable en los casos de extranjería cuya competencia se le reconoce al Ejecutivo Federal.
 
-### CAPITULO III. DE LA INTEGRACIÓN DEL CONSEJO Y SU JUNTA DIRECTIVA
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE JULIO DE 2011)</small>
+
+### CAPITULO III. DE LA INTEGRACIÓN DEL CONSEJO
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
-El Consejo estará integrado por una Junta Directiva, la cual será la máxima autoridad de éste y se integrará por:
+El Consejo estará integrado por los siguientes miembros:
 
-I.- Un Presidente, que será el Titular del Consejo de Población del Distrito Federal; y,
+I. El Secretario de Gobierno, quien fungirá como presidente.
 
-II.- Los siguientes Vocales con los debidos nombramientos:
+II. El Secretario de Educación;
 
-a) El Secretario de Gobierno;
+III. El Secretario de Desarrollo Urbano y Vivienda;
 
-b) El Secretario de Educación;
+IV. El Secretario de Finanzas;
 
-c) El Secretario de Desarrollo Urbano y Vivienda;
+V. El Secretario de Desarrollo Económico;
 
-d) El Secretario de Finanzas;
+VI. El Secretario de Desarrollo Social;
 
-e) El Secretario de Desarrollo Económico;
+VII. El Secretario de Salud; y
 
-f) El Secretario de Desarrollo Social; y
-
-g) El Secretario de Salud.
+VIII. Un Diputado Integrante de la Comisión de Población y Desarrollo de la Asamblea Legislativa del Distrito Federal.
 
 Cada integrante de la Junta Directiva, nombrará por escrito un suplente con funciones de propietario para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en la misma persona.
 
 El suplente deberá tener el nivel jerárquico inmediato inferior al representante propietario.
 
+Para el auxilio en el desahogo de los asuntos, el Consejo, contará con un Secretario Técnico que será el Subsecretario de Coordinación Metropolitano y Enlace Gubernamental de la Secretaría de Gobierno.
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 39.
 
-Los integrantes de la Junta Directiva ejercerán sus funciones en forma honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+Los integrantes del Consejo ejercerán sus funciones en forma honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 40.
 
-La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente, o lo solicite la mayoría de sus integrantes.
+El Consejo sesionará de manera ordinaria por lo menos cada seis meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente o lo solicite la mayoría de sus integrantes.
 
 El quórum para sesionar válidamente será con la asistencia de la mayoría simple de sus integrantes. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
 Los integrantes de la Junta Directiva tendrán derecho a voz y voto. En sus ausencias este derecho corresponderá a sus suplentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 41.
 
-Son obligaciones de la Junta Directiva:
+Son obligaciones del Consejo:
 
 I.- Analizar, discutir y en su caso, aprobar el Programa, así como las modificaciones que proceda al mismo, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico de la Ciudad a través de sus áreas específicas;
 
@@ -482,51 +504,31 @@ VI.- Promover y apoyar las investigaciones sobre la dinámica poblacional y sus 
 
 VII.- Instrumentar acciones específicas para la integración de las políticas de población en la planeación del desarrollo socioeconómico y cultural de la ciudad
 
-VIII.- Analizar los informes trimestrales que rinda el titular del Consejo, con el objetivo de evaluar el cumplimiento de sus objetivos;
+VIII.- (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
 IX.- Aprobar y presentar ante el titular del Ejecutivo Local, para su expedición, el proyecto de Reglamento Interno del Consejo y sus reformas, así como autorizar los manuales administrativos necesarios para su operación, y las modificaciones que procedan; y
 
 X.- Las demás que resulten necesarias para el adecuado cumplimiento de su objeto así como las que le señalen otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 42.
 
-El Presidente de la Junta Directiva tendrá las siguientes facultades y obligaciones:
+El Presidente del Consejo tendrá las siguientes facultades y obligaciones:
 
-I.- Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva y asumir la representación de la misma;
+I. Presidir las sesiones ordinarias o extraordinarias del Consejo y asumir la representación del mismo;
 
-II.- Promover la participación de las dependencias y entidades de la Administración Pública del Distrito Federal que correspondan dentro del Programa;
+II. Promover la participación de las dependencias y entidades de la Administración Pública del Distrito Federal que correspondan dentro del Programa;
 
-III.- Verificar los avances y resultados del Programa;
+III. Verificar los avances y resultados del Programa
 
-IV.- Las demás que le encomiende la Junta Directiva.
+IV. (DEROGADA, G.O. 20 DE JULIO DE 2011)
+
+> <small>(REFORMADO, G.O. 20 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 43.
 
-Para el mejor análisis y estudio de los diferentes temas que deberá analizar para cumplir los diversos objetivos de este ordenamiento, el Consejo se organizará, por lo menos, en las siguientes Comisiones:
-
-I.- Comisión de Planeación y Programación;
-
-II.- Comisión de Estudios Jurídicos;
-
-III.- Comisión de Población y Desarrollo;
-
-IV.- Comisión de Dinámica, Estructura, Distribución y Migración Interna;
-
-V.- Comisión para la Panificación Familiar y Salud Reproductiva;
-
-VI.- Comisión para el Fortalecimiento de la Familia;
-
-VII.- Comisión para la Atención a Grupos Vulnerables;
-
-VIII.- Comisión de Educación y Comunicación para la Población;
-
-IX.- Comisión de Medio Ambiente y Desarrollo Sustentable;
-
-X.- Comisión de Desarrollo Económico y Fomento del Empleo;
-
-XI.- Comisión de Desarrollo Urbano y Vivienda;
-
-Las Comisiones se sujetarán a lo dispuesto en el Reglamento de la presente ley.
+Para el mejor análisis y estudio de los diferentes temas que deberá analizar para cumplir los diversos objetivos de este ordenamiento, el Consejo se organizará en las Comisiones que establezca el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 44.
 
@@ -539,6 +541,10 @@ II.- Proponer y turnar al Jefe de Gobierno los anteproyectos de leyes, reglament
 III.- Gestionar ante la Consejería Jurídica y de Servicios Legales que el Registro Civil del Distrito Federal proporcione periódicamente al Consejo, información sobre los Registros de Actas del Estado Civil de las personas y demás información que se requiera;
 
 IV.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE JULIO DE 2011)</small>
+
+V.- Ejecutar, por conducto de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, el Programa y los acuerdos adoptados por el Consejo y sus comisiones.
 
 ###### ARTÍCULO 45.
 
@@ -608,9 +614,11 @@ III.- Participar y apoyar las campañas de difusión del Consejo, utilizando opo
 
 IV.- Fortalecer los objetivos institucionales del Consejo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
+
 ###### ARTÍCULO 51.
 
-Con el propósito de que en la planeación demográfica de la ciudad participen los diferentes sectores e instituciones del Distrito Federal, el Presidente de la Junta Directiva podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, local o delegacional, con el fin de:
+Con el propósito de que en la planeación demográfica de la ciudad participen los diferentes sectores e instituciones del Distrito Federal, el Presidente del Consejo podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, local o delegacional, con el fin de:
 
 I.- Concretar acuerdos para realizar proyectos de investigación en la materia;
 
@@ -620,61 +628,77 @@ III.- Apoyar las campañas de difusión del Consejo, utilizando oportunamente lo
 
 IV.- Integrar de acuerdo a la naturaleza de las acciones programáticas, grupos interinstitucionales con el fin de aglutinar, coordinar e impulsar acciones de población hacia el desarrollo.
 
-### CAPITULO IV. DEL TITULAR DEL CONSEJO DE POBLACIÓN
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE JULIO DE 2011)</small>
+
+### CAPITULO IV. DEL PRESIDENTE DEL CONSEJO DE POBLACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 52.
 
-El Consejo para la adecuada operación y desarrollo de sus actividades contará con un Titular, mismo que será nombrado y en su caso, removido por el Jefe de Gobierno del Distrito Federal o a indicación de éste, por el Secretario de Gobierno, y tendrá las siguientes facultades y obligaciones:
+El Secretario de Gobierno fungirá como Presidente del Consejo y tendrá las siguientes facultades y obligaciones:
 
-I.- Dirigir y administrar al Consejo, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-II.- Ejecutar las disposiciones y acuerdos que la Junta Directiva le encomiende;
+I. Dirigir y administrar al Consejo, dando cumplimiento a su objeto, conforme a los acuerdos adoptados por éste.
 
-III.- Elaborar y someter a consideración de la Junta Directiva, el Programa, los proyectos de Programa Institucional, así como las modificaciones que estime necesarias;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-IV.- Presentar ante la Junta Directiva, un informe trimestral que refleje la situación programática, presupuestal y financiera del Consejo, rindiendo los informes que le sean requeridos por la misma;
+II. Ejecutar, por conducto de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, las disposiciones y acuerdos que adopte el Consejo;
 
-V.- Coordinar las acciones que en materia de población realicen las dependencias y entidades de la Administración Pública Local, así como los sectores social y privado;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-VI.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
+III. Elaborar y someter a consideración del Consejo, el Programa, los proyectos y las modificaciones que estime necesarias;
 
-VII.- Convocar a los integrantes de la Junta Directiva a sesiones, así como a los representantes del sector privado, cuando así se considere pertinente;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-VIII.- Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva;
+IV. Presentar anualmente por escrito a la Comisión de Población y Desarrollo de la Asamblea Legislativa del Distrito Federal, los resultados obtenidos de la aplicación del Programa así como una evaluación de la implementación del mismo.
 
-IX.- Proponer a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetos del Consejo;
+V. Coordinar las acciones que en materia de población realicen las dependencias y entidades de la Administración Pública Local, así como los sectores social y privado;
 
-X.- Elaborar y someter a consideración de la Junta Directiva, el anteproyecto de presupuesto de egresos del Consejo, así como las modificaciones que estime necesarias;
+VI. Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
 
-XI.- Formular, ejecutar y controlar el presupuesto del Consejo, en los términos de esta Ley y demás disposiciones legales aplicables;
+VII. (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
-XII.- Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el Informe General de las actividades, así como las cuentas de su administración;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-XIII.- Rendir los informes y cuentas parciales que la Junta Directiva le solicite;
+VIII. Presidir las sesiones ordinarias o extraordinarias del Consejo;
 
-XIV.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento del objeto del Consejo;
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
-XV.- Proponer y promover la concertación de acciones conjuntas entre los sectores público y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes de la Ciudad de México y, en especial de aquellos grupos que se encuentren marginados de los beneficios del desarrollo;
+IX. Proponer al Consejo las medidas que considere más adecuadas para el logro de sus objetivos;
 
-XVI.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
+X. (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
-XVII.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área;
+XI. (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
-XVIII.- Elaborar y someter a consideración de la Junta Directiva, para su análisis y aprobación, el Proyecto de Reglamento Interno del Consejo y sus reformas, así como los manuales administrativos necesarios para la operación del mismo y las modificaciones que se requieran.
+XII. (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
-XIX.- Presentar ante a Junta Directiva, los estados financieros y el cierre del ejercicio presupuestal del Consejo; y,
+XIII. (DEROGADA, G.O. 20 DE JULIO DE 2011)
 
-XX.- Las demás que le otorguen la Junta Directiva, y otras disposiciones aplicables.
+XIV. Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento del objeto del Consejo;
+
+XV. Proponer y promover la concertación de acciones conjuntas entre los sectores público y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes de la Ciudad de México y, en especial de aquellos grupos que se encuentren marginados de los beneficios del desarrollo;
+
+XVI. Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
+
+XVII. Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área;
+
+XVIII. (DEROGADA, G.O. 20 DE JULIO DE 2011)
+
+XIX. (DEROGADA, G.O. 20 DE JULIO DE 2011)
+
+> <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
+
+XX. Las demás que le otorgue el Consejo cuando se requieran implícitamente para el cumplimiento de sus facultades, así como las establecidas en otras disposiciones aplicables.
 
 ###### ARTÍCULO 53.
 
-Para nombrar al Titular del Consejo de Población del Distrito Federal, se deberá tener en cuenta las bases establecidas en el Reglamento de la presente Ley.
+(DEROGADO, G.O. 20 DE JULIO DE 2011)
 
 ###### ARTÍCULO 54.
 
-El Consejo contará con el personal técnico y administrativo que requiere para sus funciones de acuerdo con el presupuesto que se le asigne.
-
-Las relaciones laborales de los trabajadores se regirán por el apartado B del artículo 123 de la Constitución.
+(DEROGADO, G.O. 20 DE JULIO DE 2011)
 
 ### CAPITULO V. DE LOS CONSEJOS DELEGACIONALES DE POBLACIÓN
 
@@ -722,13 +746,13 @@ Los Jefes Delegacionales, en su carácter de presidentes de los Consejos de Pobl
 
 La violación de esta Ley, su Reglamento, del Programa o de los Programas Delegacionales, se considerara una infracción administrativa y traerá como consecuencia la imposición de sanciones conforme a las normas que regulen las responsabilidades de los servidores públicos.
 
-## TITULO VI. DE LA EXTINCIÓN O FUSIÓN
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 20 DE JULIO DE 2011)</small>
+
+## TITULO VI
 
 ###### ARTÍCULO 61.
 
-Cuando el Consejo deje de cumplir con el objeto para el que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista del interés público, la Secretaría, propondrá al Ejecutivo Local, la disolución, liquidación o extinción de este organismo.
-
-Así mismo, podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+(DEROGADO, G.O. 20 DE JULIO DE 2011)
 
 ## TRANSITORIOS
 
@@ -747,3 +771,21 @@ SEXTO.- Se abroga el acuerdo por el que se crea el Consejo de Población del Dis
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiocho días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de noviembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE JULIO DE 2011.
+
+PRIMERO.- Túrnese el presente decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las reglas específicas de organización y funcionamiento interno no previstas en esta Ley, serán establecidas en el reglamento correspondiente.
+
+CUARTO.- La organización, instalación, estructura y funcionamiento de las Comisiones a que se refiere el artículo 43 del presente ordenamiento, serán materia exclusiva del Reglamento, toda vez que su finalidad es coadyuvar en el análisis de los diversos temas relacionados con el objeto de la Ley, lo cual denota su naturaleza de carácter operativo - administrativo.
+
+QUINTO.- En un plazo no mayor de noventa días, a partir de la entrada en vigor de esta Ley, el Titular del Ejecutivo del Distrito Federal expedirá el Reglamento respectivo.
+
+SEXTO.- En un plazo no mayor a noventa días hábiles, el Titular del Ejecutivo expedirá las reformas necesarias al Reglamento Interior de la Administración Pública del Distrito Federal, para dotar a la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental las áreas y facultades necesarias para el cumplimiento de esta Ley.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor circulación en el Diario Oficial de la Federación.
