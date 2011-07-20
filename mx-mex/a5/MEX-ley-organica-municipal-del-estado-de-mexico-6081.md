@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-03-30"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1031,11 +1031,15 @@ XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y 
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
 
+> <small>N. DE E. LA APLICACION DE ESTA FRACCION SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACION, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARAN A CABO DENTRO DE LOS PRIMEROS DIEZ DIAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
+
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
-> <small>(REFORMADA, G.G. 11 DE AGOSTO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA APLICABILIDAD DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Informar por escrito al ayuntamiento, el 1 de agosto de cada año, en sesión solemne de cabildo, del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
+> <small>(REFORMADA, G.G. 20 DE JULIO DE 2011)</small>
+
+XV. Informar por escrito al ayuntamiento, dentro de los primeros tres días hábiles del mes de diciembre de cada año, en sesión solemne de cabildo, del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
@@ -3188,3 +3192,13 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 20 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma de la fracción XV del artículo 48 de la Ley Orgánica Municipal del Estado de México, contenida en el presente decreto será aplicable a partir del primero de enero de 2012; previo a su aplicación, los informes de los Presidentes Municipales se llevarán a cabo dentro de los primeros diez días del mes de agosto, con las formalidades establecidas en la Ley.
