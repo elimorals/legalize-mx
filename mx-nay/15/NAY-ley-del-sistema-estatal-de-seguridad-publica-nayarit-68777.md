@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-estatal-de-seguridad-publica-nayarit-68777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-23"
-last_updated: "2009-05-23"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de mayo de 2009.
 
@@ -52,6 +52,14 @@ Sus disposiciones son de orden público y observancia general en toda la entidad
 La seguridad pública es una función a cargo de la Federación, el Estado y los Municipios en el ámbito de su competencia, que tiene como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, la investigación de los delitos y la persecución de quienes los cometen, así como la reinserción social del individuo, en términos de esta Ley, atendiendo al sistema de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
 El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2011)</small>
+
+La Secretaría de Seguridad Pública Estatal en el ámbito de su competencia, atenderá las políticas de seguridad pública y coadyuvará en el desarrollo de los programas institucionales que tengan por finalidad, preservar la tranquilidad y la paz social del estado, con la prevención y combate del delito, en concurrencia con los municipios en la prestación del servicio de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2011)</small>
+
+Para la designación del titular de la Secretaría de Seguridad Pública, el Gobernador remitirá a la Cámara de Diputados la propuesta para su ratificación, acompañando los datos y documentos curriculares con los cuales se demuestre el cumplimiento de los requisitos constitucionales. La ratificación en su caso, se hará dentro del plazo de diez días naturales, contados a partir de la presentación de la propuesta.
 
 ###### Artículo 3°.
 
@@ -97,7 +105,9 @@ XIV.- Registro Nacional: el Registro Nacional de Personal de las Instituciones d
 
 XV.- Registro Estatal: el Registro Estatal de Personal de las Instituciones de Seguridad Pública;
 
-XVI.- Secretaría: a la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+XVI.- Secretaría: a la Secretaría de Seguridad Pública;
 
 XVII.- Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Consejo estatal; y
 
@@ -175,7 +185,9 @@ El Consejo Estatal será la instancia superior de coordinación del Sistema Esta
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+II.- El Secretario de Seguridad Pública;
 
 III.- El Procurador General de Justicia;
 
@@ -189,13 +201,17 @@ VII.- Un representante de la Secretaria de Marina;
 
 VIII.- Un representante de la Procuraduría General de la República;
 
-IX.- Un representante de la Secretaria de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+IX.- Un representante de la Secretaría de Seguridad Pública del Gobierno Federal, y
 
 X.- Un Representante Ciudadano.
 
 Los Consejeros señalados de las fracciones I a la V contarán con derecho a voz y voto y los restantes solo con voz en las sesiones del Consejo Estatal.
 
-El Presidente del Consejo será suplido en sus ausencias por el Secretario General de Gobierno. Los demás integrantes del Consejo deberán asistir personalmente.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
+El Presidente del Consejo será suplido en sus ausencias por el Secretario de Seguridad Pública. Los demás integrantes del Consejo deberán asistir personalmente.
 
 Con carácter honorifico y atendiendo la naturaleza de los asuntos a tratar, el Consejo Estatal podrá invitar a las personas, instituciones y representantes de la sociedad civil que tengan capacidad y experiencia en materia de seguridad pública. Así mismo el Presidente de la Comisión Estatal de Derechos Humanos será invitado permanente de dicho Consejo.
 
@@ -381,9 +397,11 @@ X.- Las demás que establezcan otras disposiciones, el Consejo Estatal y su Pres
 
 ### CAPÍTULO IV. De la Conferencia Estatal de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 19.
 
-La Conferencia de Seguridad Pública estará integrada por los titulares de las dependencias encargadas de la Seguridad Pública en el Estado y los Municipios y será presidida por el Procurador General de Justicia.
+La Conferencia de Seguridad Pública estará integrada por los titulares de las dependencias encargadas de la Seguridad Pública en el Estado y los Municipios y será presidida por el Secretario de Seguridad Pública.
 
 La Conferencia contará con un Secretario Técnico que será nombrado y removido por el presidente de la misma.
 
@@ -1779,9 +1797,11 @@ Son consideradas violaciones graves a la Constitución y a las leyes que de ella
 
 Corresponde al Estado la normatividad y control de los servicios privados de seguridad que operen dentro de la entidad.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 147.
 
-Para su funcionamiento, además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, la Ley General del Sistema Nacional de Seguridad Pública los particulares que presten servicios de seguridad, deberán obtener autorización previa de la Secretaría General de Gobierno a través de la Dirección General de Seguridad Pública.
+Para su funcionamiento, además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, la Ley General del Sistema Nacional de Seguridad Pública los particulares que presten servicios de seguridad, deberán obtener autorización previa de la Secretaría.
 
 ###### Artículo 148.
 
@@ -1815,9 +1835,11 @@ VII.- Cualquier actividad distinta a las anteriores, relacionada y vinculada dir
 
 Los particulares que deseen prestar estos servicios deberán ajustarse a lo establecido en esta ley y el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 152.
 
-Los prestadores de servicios de seguridad privada, a quienes se les haya otorgado la autorización correspondiente, deberán cumplir, ante la Secretaría General de Gobierno, con las siguientes obligaciones:
+Los prestadores de servicios de seguridad privada, a quienes se les haya otorgado la autorización correspondiente, deberán cumplir, ante la Secretaría, con las siguientes obligaciones:
 
 I.- Dar aviso por escrito de las modificaciones que se realicen a su acta constitutiva, en un plazo no mayor de treinta días naturales;
 
@@ -1847,7 +1869,9 @@ XI.- Las demás que le señalen esta ley y demás ordenamientos legales aplicabl
 
 Los particulares que se dediquen a la prestación del Servicio Privado de Seguridad, deberán sujetarse a los siguientes lineamientos:
 
-I.- Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana, que hayan obtenido le autorización y el registro ante la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+I.- Sólo podrán prestar este servicio las personas físicas o morales de nacionalidad mexicana, que hayan obtenido la autorización y el registro ante la Secretaría;
 
 II.- Queda estrictamente prohibida la realización de funciones que constitucional o legalmente sean de competencia exclusiva de los Cuerpos de Seguridad Pública o de las Fuerzas Armadas, salvo que se realicen en coadyuvancia de las instituciones de seguridad pública;
 
@@ -1861,15 +1885,19 @@ VI.- Únicamente podrán prestar sus servicios a las personas que acrediten feha
 
 VII.- Las personas que intervengan en la prestación de los servicios privados de seguridad, deberán cumplir con los requisitos de selección, capacitación y adiestramiento que al efecto señale el ordenamiento respectivo; se exceptúan de lo dispuesto en esta fracción aquellos que desempeñen funciones meramente administrativas;
 
-VIII.- Elaborar cada año el programa de capacitación y adiestramiento para su personal y presentarlo para su aprobación y supervisión ante la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+VIII.- Elaborar cada año el programa de capacitación y adiestramiento para su personal y presentarlo para su aprobación y supervisión ante la Secretaría;
 
 IX.- Deberán cumplir todas y cada una de las obligaciones que le imponga el reglamento respectivo y la autorización correspondiente; y,
 
 X.- Responderán solidariamente de los daños y perjuicios que causen su personal al prestar los servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 154.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría:
 
 I.- Autorizar el funcionamiento de las empresas que prestan servicios privados de seguridad y llevar su registro;
 
@@ -1905,7 +1933,9 @@ III.- Clausura temporal del registro, hasta que se corrija el incumplimiento, co
 
 IV.- Cancelación de la autorización con difusión pública.
 
-En este último caso, la Secretaría General de Gobierno, notificará la cancelación a la Empresa o Prestador del servicio sancionado, así como a las autoridades correspondientes.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
+En este último caso, la Secretaría, notificará la cancelación a la Empresa o Prestador del servicio sancionado, así como a las autoridades correspondientes.
 
 El procedimiento para la imposición de las sanciones a que se refiere este artículo se establecerá en el reglamento correspondiente.
 
@@ -1938,3 +1968,9 @@ D A D O en la Universidad Tecnológica de Nayarit, decretada Recinto Provisional
 Dip. Rodolfo Coronado Montaño, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. Miguel Antonio Fregozo Rivera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintidós días del mes de mayo del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2011.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
