@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-seguridad-publica-47725
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2011-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PUBLICADO EN EL B.O. DE 20 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -382,3 +384,35 @@ NARCISO AGÚNDEZ MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 73, de fecha 30 de diciembre del 2005.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario de Seguridad Pública, en un plazo que no exceda de 30 días contados a partir de la entrada en vigor del presente Reglamento someterá a consideración del Gobernador del Estado y su posterior publicación en el Boletín Oficial del Gobierno del Estado, los reglamentos o disposiciones administrativas para el funcionamiento y operación de los órganos desconcentrados siguientes: Academia Estatal de Policía, Policía Estatal Preventiva y Centro Estatal de Control de Confianza.
+
+###### ARTÍCULO CUARTO.
+
+El Secretario acordará que programas institucionales derivados del Sistema Nacional de Seguridad Pública, deberán contar con disposiciones específicas para su operación y debida aplicación.
+
+###### ARTÍCULO QUINTO.
+
+El Secretario de Seguridad Pública, en un plazo que no exceda de 15 días contados a partir de la entrada en vigor del presente Reglamento, deberá integrar las Comisiones de Honor y Justicia; así como los Consejos de Consulta y Participación Ciudadana Estatal y Municipales.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán atender los asuntos presupuestales y administrativos que resulten de la reorganización de las dependencias y entidades de la Secretaría de Seguridad Pública.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
