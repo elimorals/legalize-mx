@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-2914"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-10"
-last_updated: "2011-06-30"
+last_updated: "2011-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EDUCACION PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE JULIO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 1920 PUBLICADO EN EL B.O. DE 30 DE JUNIO DE 2010.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 1994.
 
