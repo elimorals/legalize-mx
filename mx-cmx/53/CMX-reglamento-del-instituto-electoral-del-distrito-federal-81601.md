@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-del-distrito-federal-81601"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2011-06-08"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81601&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2011-05-25"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2011 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL PARA LA FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 20 DE JULIO DE 2011.</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 8 de junio de 2011.
 
@@ -1030,15 +1030,21 @@ Las erogaciones que se efectúen con cargo a las cuentas “Materiales y Suminis
 
 Los gastos con cargo a la cuenta “Servicios de Información Pública”, deberán ser contabilizados en subcuentas por el tipo de gasto. Los comprobantes deberán estar requisitados con el nombre, cargo, firma de quien recibió el bien o servicio y de quien lo autorizó, así como la fecha de recepción y el número de solicitud de información pública con la que se vincula el gasto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2011 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 80.
 
 Para efectos de la propaganda electoral, la propaganda utilitaria, las tareas editoriales se utilizará la cuenta “Gastos por Amortizar” como cuenta de almacén, abriendo las subcuentas que se requieran, tanto en esta cuenta, como en las correspondientes a las cuentas de los rubros de gastos. Los bienes adquiridos deberán inventariarse, y su control se llevará mediante notas de entradas y salidas de almacén debidamente foliadas y autorizadas, señalando su origen y destino, así como nombre y firma de quien entrega y recibe y la fecha de recepción. Se deberá llevar un control adecuado a través de kardex de almacén y practicar al cierre del ejercicio un inventario físico valuado, el cual estará a disposición de la Unidad de Fiscalización cuando ésta lo solicite.
 
-Se entenderá como destino la distribución final que el partido político o coalición realice de dichos bienes, es decir cuando salen definitivamente de cualquier instancia del partido político o coalición.
+> <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
 
-Para el caso de la propaganda electoral y utilitaria, las notas de salidas de almacén de estos materiales deberán ser identificadas específicamente en las campañas políticas en que se emplearon, con objeto de aplicar el gasto por este concepto en cada una de ellas.
+Se entenderá como destino la distribución final que el partido político o coalición realice de dichos bienes, es decir cuando salen definitivamente de cualquier instancia del partido o coalición.
+
+> <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
+
+En el caso de los gastos en propaganda utilitaria, el partido político deberá informar por escrito, cuando menos con tres días de anticipación, el lugar y la hora en que se llevará a cabo la recepción de estos productos, así como el nombre de la persona con quien se atenderá la diligencia, para que esta Unidad de Fiscalización comisione personal de la misma, a efecto de presentar dichos eventos.
+
+> <small>(F. DE E., G.O. 20 DE JULIO DE 2011)</small>
+
+Para el caso de la propaganda electoral y utilitaria, las notas de salida del almacén de estos materiales deberán ser identificadas específicamente en las campañas políticas en que se emplearon, con objeto de aplicar el gasto por este concepto en cada una de ellas.
 
 Si un evento específico, donde se distribuyan este tipo de bienes, tiene relación con las campañas de diversos candidatos, deberá utilizarse el criterio de prorrateo establecido en los artículos 69, 70 y 71 del presente Reglamento, según sea el caso.
 
