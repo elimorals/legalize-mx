@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-coordinacion-general-de-espacios-4001
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-14"
-last_updated: "2004-06-14"
+last_updated: "2011-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COORDINACION GENERAL DE ESPACIOS EDUCATIVOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 14 de junio de 2004.
 
@@ -310,3 +312,13 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE JULIO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Coordinación General de Espacios Educativos publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 14 de junio de 2004.
+
+Artículo Tercero. Se dejan sin efecto las disposiciones administrativas en lo que se opongan al presente Reglamento Interior.
