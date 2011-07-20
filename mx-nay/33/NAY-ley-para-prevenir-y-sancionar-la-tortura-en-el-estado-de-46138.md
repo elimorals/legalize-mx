@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-46138"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-27"
-last_updated: "2005-08-27"
+last_updated: "2011-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 27 de agosto de 2005.
 
@@ -39,23 +39,35 @@ DECRETA:
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE NAYARIT
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto la prevención y sanción de la tortura. Se aplicará en el territorio del Estado en materia de fuero común.
+La presente Ley es de orden público e interés social y de observancia obligatoria en el Estado de Nayarit. Tiene por objeto la prevención y sanción de la tortura.
 
 ###### Artículo 2.
 
 Los órganos de la administración pública del Estado y de sus municipios relacionados con la procuración de justicia y la seguridad pública, llevarán a cabo programas permanentes y establecerán los procedimientos, que se harán del conocimiento público por los medios de comunicación masiva idóneos, para:
 
-I. La orientación y asistencia a la población con la finalidad de vigilar la exacta observancia de las garantías individuales de aquellas personas involucradas en la comisión de algún ilícito penal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
 
-II. La organización de cursos de capacitación de su personal para que conozca y fomente el respeto a los derechos humanos, primordialmente los relativos a la vida, la dignidad, la libertad y la seguridad de las personas. El seguimiento y la aprobación de estos cursos son requisitos que deben cumplir previamente quienes pretenden ingresar a cualquiera de los cuerpos policíacos.
+l. La orientación y asistencia a la población con la finalidad de vigilar la exacta observancia de las garantías individuales y derechos humanos de aquellas personas involucradas en la comisión de algún ilícito penal.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+II. La organización de cursos de capacitación de su personal para que conozca y fomente el respeto a las garantías individuales y derechos humanos, primordialmente los relativos a la vida, la dignidad, la libertad y la seguridad de las personas. El seguimiento y la aprobación de estos cursos son requisitos que deben cumplir previamente quienes pretenden ingresar a cualquiera de los cuerpos policíacos, independientemente de los demás exigidos por las leyes de la materia.
 
 III. La profesionalización de los cuerpos policiales, y
 
-IV. La profesionalización de los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a aprehensión, arresto o prisión.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+IV. La profesionalización de los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a aprehensión, arresto o pena privativa de la libertad.
 
 La Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, en el ámbito de su competencia, participará en la ejecución de los programas que se mencionan en este artículo, previo convenio de colaboración suscrito con el Poder Ejecutivo y los Ayuntamientos del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2011)</small>
+
+Los convenios a que se hace referencia deberán celebrarse y ratificarse anualmente, y deberán ser publicados en el periódico de mayor circulación en Nayarit.
 
 ###### Artículo 3.
 
@@ -75,13 +87,19 @@ b) Los servidores públicos que ordenen, instiguen, compelan o induzcan a su com
 
 c) Los terceros instigados o autorizados implícita o explícitamente por alguno de los servidores públicos señalados en los incisos anteriores; y,
 
-d) Todos los que participen en la comisión del delito de tortura, ya sea en su planeación, ejecución o consentimiento.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
+d) Todos los que participen en la comisión del delito de tortura, ya sea en su planeación, ejecución, consentimiento o encubrimiento.
 
 Para todos los efectos legales se califica como grave el delito de tortura a que se refiere el artículo 3 de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 5.
 
-A quien cometa el delito de tortura se le sancionará con pena privativa de libertad de los dos a diez años y de doscientos a quinientos días de salario mínimo general vigente en el Estado, en el momento de aplicar la multa e inhabilitación para el desempeño de cualquier cargo, empleo, comisión o servicio público, hasta por dos tantos del lapso de privación de libertad impuesta.
+A quien cometa el delito de tortura se le sancionará con pena privativa de libertad de los dos a diez años y multa de doscientos a quinientos días de salario mínimo general vigente en el Estado, en el momento de aplicar la multa e inhabilitación para el desempeño de cualquier cargo, empleo, comisión o servicio público, hasta por dos tantos del lapso de privación de libertad impuesta.
+
+La sanción establecida en el párrafo anterior, se aplicará independientemente de la correspondiente a otros delitos que se configuren, aplicándose al caso las reglas del concurso de delitos, en los términos establecidos por el Código Penal para el Estado de Nayarit.
 
 ###### Artículo 6.
 
@@ -93,9 +111,27 @@ Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigad
 
 Para la imposición de penas deberá tomarse en cuenta:
 
-I. El grado del daño o lesión infligido al torturado; y
+I. El grado del daño o lesión infligido al torturado; y (sic)
 
-II. En caso de corresponsabilidad, el grado de participación en la comisión del mismo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2011)</small>
+
+II. Los medios empleados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2011)</small>
+
+III. La conducta precedente del presunto responsable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2011)</small>
+
+IV. las circunstancias personales del presunto responsable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2011)</small>
+
+V. Las circunstancias de tiempo, lugar, modo y ocasión que demuestren la mayor o menor temeridad del presunto responsable, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE JULIO DE 2011)</small>
+
+VI. En caso de corresponsabilidad, el grado de participación en la comisión del mismo.
 
 ###### Artículo 8.
 
@@ -111,9 +147,17 @@ IV. La supuesta peligrosidad atribuida a la persona privada de su libertad;
 
 Inseguridad del establecimiento carcelario o penitenciario;
 
-V. Haber recibido la orden para aplicar la tortura de un superior jerárquico o de otra autoridad; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2011)</small>
 
-VI. Ni circunstancia de naturaleza similar.
+V. Inseguridad del establecimiento carcelario o penitenciario;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+
+VI. Haber recibido la orden para aplicar la tortura de un superior jerárquico o de otra autoridad, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE JULIO DE 2011)</small>
+
+VII. Ni circunstancia de naturaleza similar.
 
 ###### Artículo 9.
 
@@ -121,9 +165,11 @@ En el momento que lo solicite cualquier detenido o reo deberá ser reconocido po
 
 La solicitud de reconocimiento médico puede formularla el defensor o persona de confianza del detenido o reo, la Comisión de la Defensa de los Derechos Humanos para el Estado de Nayarit, o un tercero.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 10.
 
-El responsable del delito previsto en esta ley estará obligado a cubrir los gastos de asesoría legal, atención médica, psiquiátrica y hospitalarios, gastos funerarios, de rehabilitación o de cualquier otra índole erogados por la víctima, sus familiares o terceros, como consecuencia del delito.
+El responsable del delito previsto en esta ley estará obligado a cubrir los gastos de asesoría legal, atención médica, psiquiátrica y hospitalaria, gastos funerarios, de rehabilitación o de cualquier otra índole erogados por la víctima, sus familiares o terceros, como consecuencia del delito.
 
 Asimismo, estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima o a sus dependientes económicos en los siguientes casos:
 
@@ -155,9 +201,11 @@ El agente del ministerio público que en ejercicio de sus funciones tenga conoci
 
 Los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a investigación, arresto, detención o prisión, deberán asegurar la plena protección de su salud e integridad física y en particular tomarán medidas inmediatas para proporcionarle atención médica cuando sea necesario.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2011)</small>
+
 ###### Artículo 13.
 
-Ninguna declaración que haya sido obtenida mediante tortura podrá invocarse como prueba en un proceso penal, salvo que la misma se ofrezca en contra de funcionario o servidor público acusado de tortura, como prueba de que dicha declaración fue dada bajo presión.
+Ninguna declaración que haya sido obtenida mediante tortura podrá invocarse como prueba en un proceso penal, salvo que la misma se ofrezca en contra de funcionario o servidor público acusado de tortura, a efecto de acreditar que dicha declaración fue dada bajo presión.
 
 ###### Artículo 14.
 
@@ -186,3 +234,9 @@ DADO en la sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del
 Dip. Presidente, Yolanda del Real Ureña.- Rubrica.- Dip. Secretario, Everardo Sánchez Parra.- Rubrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rubrica.
 
 Y en cumplimiento a lo dispuesto de la fracción II del artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintidós días del mes de agosto del año dos mil cinco.- C.P. ANTONIO ECHEVARRIA DOMINGUEZ.- Rubrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE JULIO DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
