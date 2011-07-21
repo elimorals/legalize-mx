@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2011-03-29"
+last_updated: "2011-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -364,6 +364,10 @@ Las autoridades ejecutarán programas para conservar, proteger y mejorar los rec
 La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales y a la propagación de la flora y de la fauna existentes en el Estado.
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2011)</small>
+
+La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente aprobado por la Legislatura a propuesta del Gobernador, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2001)</small>
 
@@ -3458,3 +3462,13 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición u ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 21 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
