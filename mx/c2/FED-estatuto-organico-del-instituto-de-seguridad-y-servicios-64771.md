@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2011-03-14"
+last_updated: "2011-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -187,11 +187,11 @@ f) Delegaciones Estatales y Regionales; y,
 
 g) Escuela de Dietética y Nutrición.
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 5.
 
-A nivel central, el Instituto contará con un Organo Interno de Control que se regirá conforme a los artículos 85 y 86 de este Estatuto Orgánico.
-
-Las Delegaciones Estatales y Regionales del Instituto, así como el FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE contarán, respectivamente, con un órgano interno de control, que se regirán conforme a los artículos 87, 88 y 89 de este Estatuto Orgánico.
+El Instituto contará con una Contraloría Interna denominada también Organo Interno de Control, que se regirá conforme a los artículos 85 y 86 de este Estatuto Orgánico.
 
 ###### ARTICULO 6.
 
@@ -1453,9 +1453,11 @@ XI. Las demás que le confieran el presente Estatuto y la normatividad aplicable
 
 #### SECCION CUARTA. Del Sistema de Agencias Turísticas TURISSSTE
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 71.
 
-El Sistema de Agencias Turísticas TURISSSTE tiene por objeto planear, normar, dirigir y realizar los servicios turísticos que establece la Ley para beneficio de la derechohabiencia y del público en general, incluyendo lo relativo tanto al ámbito personal y familiar como a los servicios a grupos y convenciones.
+El Sistema de Agencias Turísticas TURISSSTE tiene por objeto planear, normar, dirigir y realizar los servicios turísticos que establece la Ley para beneficio de los derechohabientes.
 
 ###### ARTICULO 72.
 
@@ -1655,37 +1657,37 @@ VIII. Las demás que le confieran el presente Estatuto y la normatividad aplicab
 
 ## TITULO CUARTO. De los Organos Internos de Control
 
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
+
 ###### ARTICULO 85.
 
-El Instituto cuenta con un Organo Interno de Control, cuyo Titular será designado por la Secretaría de la Función Pública, de la que dependerá jerárquica y funcionalmente, en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal.
+El Instituto contará con una Contraloría Interna denominada también Organo Interno de Control, al frente del cual estará su Titular, quien será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, se auxiliará en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
-Para el ejercicio de sus atribuciones, el Organo Interno de Control contará además con titulares de las Areas de Responsabilidades, de Auditoría Interna, de Auditoría de Control, Evaluación y Apoyo al Buen Gobierno y de Quejas, quienes serán designados en los mismos términos que el Titular del Organo Interno de Control e igualmente dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 86.
 
-Los servidores públicos señalados en el artículo anterior tendrán las facultades establecidas en los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública, así como las previstas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y por los demás ordenamientos legales y administrativos aplicables.
+Los servidores públicos a que se refiere el artículo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
+
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el Reglamento Interior de la mencionada Secretaría.
 
 ###### ARTICULO 87.
 
-El Organo Interno de Control en el Instituto coordinará en el ejercicio de sus funciones a los Organos Internos de Control en las Delegaciones Estatales y Regionales, encabezados por sus respectivos titulares, quienes serán designados por la Secretaría de la Función Pública en los términos previstos por el artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, ejerciendo las facultades establecidas por el artículo 66 del Reglamento Interior de la Secretaría de la Función Pública.
+(DEROGADO, D.O.F. 21 DE JULIO DE 2011)
 
 ###### ARTICULO 88.
 
-Los titulares de los Organos Internos de Control en las Delegaciones Estatales y Regionales del Instituto tendrán las siguientes atribuciones:
+(DEROGADO, D.O.F. 21 DE JULIO DE 2011)
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, darles seguimiento y llevar a cabo las investigaciones que en su caso procedan;
-
-II. Desahogar la audiencia a que se refiere la fracción I del artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en los procedimientos administrativos disciplinarios instruidos por el Area de Responsabilidades en el Organo Interno de Control en el Instituto, recepcionando los elementos de prueba que en su caso ofrezcan los servidores públicos dentro del plazo que para tal efecto concede la ley de la materia; y,
-
-III. Desahogar las diligencias probatorias que ordene el titular del Area de Responsabilidades del Organo Interno de Control en el Instituto.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 89.
 
-El FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE, como Unidades Administrativas Desconcentradas del Instituto, podrán contar con su respectivo Organo Interno de Control, cuyos Titulares serán designados por la Secretaría de la Función Pública, en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, dependiendo de ella jerárquica y funcionalmente.
+El FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE, como Unidades Administrativas Desconcentradas del Instituto contarán con una Contraloría Interna denominada también Organo Interno de Control, al frente del cual su Titular, quien será designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, se auxiliará en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
 
-Para el ejercicio de sus atribuciones, estos Organos Internos de Control contarán además con titulares de las Areas de Responsabilidades, de Auditoría Interna, de Auditoría de Control, Evaluación y Apoyo al Buen Gobierno y de Quejas, quienes serán designados en los mismos términos que el Titular del Organo Interno de Control en la respectiva Unidad, dependiendo también jerárquica y funcionalmente de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-Los servidores públicos arriba señalados tendrán las facultades establecidas en los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública, así como las previstas por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables.
+Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el Reglamento Interior de la mencionada Secretaría.
 
 ###### ARTICULO 90.
 
@@ -1795,12 +1797,24 @@ Atentamente
 
 México, D.F., a 26 de junio de 2008.- El Secretario, José Enrique Ampudia Mello.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 14 DE MAYO DE 2009.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 14 DE MARZO DE 2011.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 71 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2011.
+
+ACUERDO POR EL QUE SE REFORMA LOS ARTÍCULOS 5, 85, 86, 87, 88 Y 89 DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
