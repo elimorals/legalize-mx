@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2011-05-21"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -279,7 +279,7 @@ XXIV. Verificar que se inscriban en el Registro Público Estatal de Derechos de 
 
 XXV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales y sus bienes inherentes;
 
-XXVI. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio, para el cumplimiento de sus. objetivos, en los términos de la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí;
+XXVI. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio, para el cumplimiento de sus objetivos, en los términos de la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí;
 
 XXVII. Asesorar, previa solicitud de los ayuntamientos, en la elaboración de los programas municipales de servicios hídricos; así como prestar apoyo y asesoría técnica a los organismos operadores del servicio;
 
@@ -437,9 +437,9 @@ a) El cumplimiento de acuerdos de la Junta de Gobierno o su estado de avance.
 
 b) Los estados financieros.
 
-c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí.
+c) Evaluación y control de las metas establecidas en los instrumentos documentales referidos en el Capítulo II de la Ley de Planeación para el Estado y municipios de San Luis Potosí;
 
-d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance;
+d) Cumplimiento de los programas de obras y erogaciones en las mismas o su estado de avance.
 
 XIII. Presentar a la Junta de Gobierno, para su aprobación, antes del quince de noviembre de cada año, los proyectos de presupuestos de ingresos y egresos, así como el programa de labores para el siguiente ejercicio;
 
@@ -453,7 +453,7 @@ XVII. Someter a la aprobación de la Junta de Gobierno el proyecto de Reglamento
 
 XVIII. Supervisar la ejecución de los concursos en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado y municipios de San Luis Potosí, las obras autorizadas por la Junta de Gobierno y someter a ésta, para su autorización o rechazo, las obras extraordinarias;
 
-XIX. Nombrar, promover, remover y suspender al personal a su cargo, previo informe a la Junta de. Gobierno, señalando sus adscripciones, funciones y remuneraciones correspondientes, conforme al presupuesto aprobado y el Reglamento;
+XIX. Nombrar, promover, remover y suspender al personal a su cargo, previo informe a la Junta de Gobierno, señalando sus adscripciones, funciones y remuneraciones correspondientes, conforme al presupuesto aprobado y el Reglamento;
 
 XX. Determinar y cobrar, a través del procedimiento administrativo de ejecución en términos de lo previsto en la presente Ley, los adeudos que resulten de aplicar las cuotas o tarifas por los servicios que preste;
 
@@ -665,83 +665,163 @@ Para el cumplimiento del Programa Estatal Hídrico deberá formularse el respect
 
 El Ejecutivo del Estado será quien apruebe el Programa Estatal Hídrico y sus programas operativos anuales, a propuesta de la Comisión.
 
-### CAPITULO IV. De la Participación Ciudadana
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 2011)</small>
+
+### CAPITULO IV. Consejo Hídrico Estatal
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 29.
 
-La elaboración, seguimiento, evaluación y actualización de la planeación y programación hídrica en el Estado, se llevará a cabo por parte de la Comisión, con el concurso de las autoridades estatales, municipales, los prestadores de servicios y particularmente la participación ciudadana.
+La elaboración, seguimiento, evaluación y actualización de la programación hídrica en el Estado, se llevará a cabo por parte de la Comisión, con la participación ciudadana a través del Consejo Hídrico Estatal.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 30.
 
-La Comisión en coordinación con los ayuntamientos promoverá la participación ciudadana en los asuntos del agua.
+El Consejo Hídrico Estatal será un órgano colegiado de participación ciudadana, conformado por los representantes de los usuarios de aguas, las organizaciones de la sociedad y la Comisión.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 31.
 
-Para los efectos del artículo anterior, la Comisión y el ayuntamiento promoverán y apoyarán la constitución y operación de:
+El Consejo Hídrico Estatal se conformará con representantes de los siguientes sectores:
 
-I. El Consejo Hídrico Estatal, y
+I. Un representante de las instituciones educativas de sus diferentes niveles en el Estado;
 
-II El Consejo Técnico Consultivo del Agua.
+II. Un representante de organizaciones empresariales;
 
-Dichos consejos formarán parte del Sistema Estatal de Planeación Democrática, en los términos que establece la Ley de Planeación del Estado y municipios de San Luis Potosí.
+III. Un representante de las organizaciones de la sociedad civil, involucradas con el tema hídrico;
+
+IV. Un representante de asociaciones de usuarios;
+
+V. Un representante del Consejo Consultivo de Organismos Operadores de Agua en el Estado;
+
+VI. Un representante de organizaciones campesinas, y
+
+VII. Un representante de las comunidades indígenas.
+
+Los miembros del Consejo, no percibirán emolumento alguno por su labor.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 32.
 
-La Comisión en coordinación con los ayuntamientos, convocará a las organizaciones locales o regionales de usuarios del agua, instituciones educativas, organizaciones ciudadanas o no gubernamentales y personas interesadas, para la constitución del Consejo Hídrico Estatal.
+El Consejo Hídrico Estatal tendrá las siguientes atribuciones:
+
+I. Presentar a la Comisión la priorización de problemas relativos al agua para su atención;
+
+II. Contribuir en la elaboración de programas de mejoramiento de la gestión del recurso hídrico, con énfasis en la sustentabilidad;
+
+III. Colaborar en conjunto con la Comisión para realizar acciones concretas en el tema de Cultura del Agua;
+
+IV. Emitir opiniones por sí o a petición del Titular del Ejecutivo, de los ayuntamientos o de la Comisión, sobre las condiciones hídricas del Estado;
+
+V. Conocer y difundir en conjunto con la Comisión, la política hídrica estatal con el fin de promover, la participación ciudadana;
+
+VI. Promover la participación de las autoridades estatales y municipales en el fortalecimiento de los procesos de participación de los usuarios y de la sociedad en la atención de los asuntos relacionados con el agua, su aprovechamiento y preservación, particularmente en la gestión de conflictos en materia hídrica;
+
+VII. Promover los consensos entre los usuarios respecto de la explotación, uso y aprovechamiento racional del agua, así como en su protección y conservación y su corresponsabilidad en el desarrollo de los programas del sector, y
+
+VIII. Colaborar con la Comisión a efecto de promover modificaciones a la ley, reglamentos y lineamientos en materia del recurso hídrico.
+
+Cuando así lo considere conveniente el Consejo Hídrico Estatal, podrá invitar a sus sesiones a las dependencias y entidades de la administración pública que estén involucradas en materia de agua y protección al ambiente.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 33.
 
-El Consejo Hídrico Estatal será un órgano colegiado de participación ciudadana, de coordinación y concertación, apoyo y consulta entre los representantes de los usuarios de aguas, las organizaciones de la sociedad y la Comisión.
+Para llevar a cabo la elección de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado a través de la Comisión del Agua, emitirá una convocatoria pública dentro de los primeros treinta días naturales del mes de julio de cada dos años, para la elección y designación de los miembros del Consejo Hídrico Estatal, de entre los cuales se designará a las personas titulares de la Presidencia, Secretaría y cinco vocalías.
 
-Corresponde al Consejo Hídrico Estatal analizar los problemas relativos de la materia, sugerir prioridades para su atención, proponer programas, promover acciones, emitir opiniones por sí o a requerimiento del Titular del Ejecutivo del Estado, de la Comisión o del ayuntamiento, e impulsar la participación social.
+La convocatoria deberá exhortar a las organizaciones, asociaciones e instituciones involucradas en el tema hídrico a participar en el procedimiento de selección y obligatoriamente debe reflejar de forma clara y precisa, los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas seleccionadas como integrantes del Consejo Hídrico Estatal.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 34.
 
-El Consejo Hídrico Estatal se conformará preferentemente con representantes de:
+El Consejo Hídrico Estatal estará integrado por:
 
-I. Instituciones educativas;
+I. Una Presidencia;
 
-II. Organizaciones empresariales;
+II. Una Secretaría, y
 
-III. Organizaciones de la sociedad civil;
+III. Cinco Vocalías.
 
-IV. Asociaciones de habitantes y de usuarios;
-
-V. Consejos consultivos de organismos operadores, y
-
-VI. Organizaciones de ciudadanos previstas en la Ley de Aguas Nacionales.
-
-La Comisión llevará un registro de las instituciones, organismos y asociaciones, tanto públicas como privadas, que deseen participar en las acciones para la planeación, gestión, conservación y preservación de las aguas de jurisdicción estatal.
-
-Una vez integrado el Consejo Hídrico Estatal, cuando así lo considere conveniente, podrá invitar a sus sesiones a las dependencias y entidades de la administración pública que estén involucradas en materia de agua y protección al ambiente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 35.
 
-El Consejo Hídrico Estatal podrá establecerse a nivel estatal y por cada una de las cuatro regiones económicas del Estado, en los términos que para tal efecto señale el reglamento interior.
+El Consejo Hídrico Estatal se reunirá por lo menos una vez cada cuatro meses para la celebración de sesiones ordinarias y cuantas veces fuere convocado por su Presidente o por la mayoría de sus integrantes.
+
+Para la celebración de las sesiones del Consejo, la convocatoria correspondiente deberá ir acompañada del orden del día y deberá ser recibida por sus miembros con una anticipación de cinco días hábiles tratándose de sesiones ordinarias y de dos días hábiles en caso de sesiones extraordinarias.
+
+La Comisión proporcionará al Consejo los elementos indispensables para que esté en condiciones de sesionar.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 35 BIS. Las sesiones del Consejo se desarrollarán en el siguiente orden:
+
+I. Verificación del Quórum Legal;
+
+II. Pase de lista de asistencia;
+
+III. Lectura y aprobación del Orden del Día;
+
+IV. Lectura del Acta de la sesión anterior;
+
+V. Lectura, discusión y, en su caso aprobación de asuntos agendados;
+
+VI. Asuntos generales, y
+
+VII. Clausura.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 35 TER. El Congreso del Estado elegirá a las personas que fungirán como consejeros titulares y suplentes. Sólo a falta definitiva de un Consejero titular, pasará a ocupar el cargo la persona primera de la lista de suplentes y, así sucesivamente, cuando haya una nueva ausencia definitiva.
+
+Las mismas reglas aplicadas para seleccionar a las y los consejeros titulares, se usarán para designar a quienes sean suplentes.
+
+Las y los consejeros serán designados por el Congreso del Estado, y durarán tres años en su cargo; podrán ser reelectos por única ocasión para un segundo periodo de tres años.
+
+Los miembros del Consejo tendrán derecho a voz y voto en la toma de acuerdos, respecto a los asuntos que se traten, los que deberán ser votados por la mitad más uno de las personas que integren (sic).
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Los integrantes del Consejo Hídrico Estatal serán electos cada seis años, en el tercer año de la administración estatal, ejerciendo su cargo de manera honorífica.
+La persona quien presida el Consejo tendrá las siguientes facultades:
 
-Los integrantes del Consejo designarán por mayoría de votos, de entre ellos, a un Presidente, un Secretario, un Tesorero y un Vocal, quienes desempeñarán su cargo también de manera honorífica, durante dos años, y podrán ser reelectos hasta por un periodo igual.
-
-La Comisión proveerá al Consejo de los elementos necesarios para su funcionamiento.
-
-###### ARTICULO 37.
-
-El Presidente del Consejo Estatal Hídrico tendrá las siguientes facultades:
-
-I. Convocar a las sesiones del Consejo por sí, a petición de la Comisión, o a solicitud de por lo menos una tercera parte de sus miembros, por lo menos una vez cada seis meses de manera ordinaria, y las veces que sea necesario de manera extraordinaria;
+I. Convocar a las sesiones del Consejo, por sí, a petición de la comisión, o a solicitud de por lo menos una tercera parte de sus miembros por lo menos una vez cada cuatro meses de manera ordinaria, y las veces que sea necesario de manera ordinaria;
 
 II. Someter a la consideración del Consejo la orden del día de las sesiones;
 
-III. Proponer al Consejo la instalación de las comisiones de estudio y evaluación de políticas y acciones en la materia;
+III. Presentar ante los integrantes del Consejo el proyecto de reglamento interior para su aprobación;
 
-IV. Asistir con voz, voto y voto de calidad a las sesiones del Consejo;
+IV. Proponer al Consejo la instalación de comisiones de estudio y evaluación de políticas y acciones en la materia;
 
-V. Asistir con voz a las sesiones de la Junta de Gobierno de la Comisión, a las que deberá ser citado, y
+V. Asistir con voz y voto de calidad a las sesiones del Consejo;
 
-VI. Las que le confiera el propio Consejo, de conformidad con la normatividad aplicable.
+VI. Asistir con voz y voto a las sesiones de la Junta de Gobierno de la Comisión, y
+
+VII. Rendir para la aprobación en su caso, a los miembros del Consejo un informe de actividades al término de su ejercicio.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+ARTICULO 36 BIS. Son funciones de los miembros del Consejo:
+
+I. Asistir a las sesiones a que fueren convocados;
+
+II. Analizar los asuntos que sean sometidos a su consideración, en los términos del orden del día de cada sesión y en su caso, hacer las observaciones y recomendaciones que consideren pertinentes;
+
+III. Participar en las acciones que hayan sido acordadas por el Consejo, y
+
+IV. Rendir un informe al Presidente de los resultados de las gestiones que les hubieren sido comisionadas.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+###### ARTICULO 37.
+
+El Consejo Hídrico Estatal podrá establecerse a nivel estatal y por cada una de las regiones económicas del Estado, en los términos que para el efecto señale su reglamento interior.
 
 ###### ARTICULO 38.
 
@@ -2886,3 +2966,15 @@ P.O. 21 DE MAYO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 22 DE JULIO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado emitirá el 29 de julio del 2011 la Convocatoria Pública, para realizar el proceso de selección de los miembros del Consejo Hídrico Estatal.
+
+El Consejo Hídrico Estatal será electo por el Congreso del Estado a más tardar el uno de septiembre de 2011. El primer Consejo Hídrico Estatal, electo por el Congreso del Estado, durará en su encargo hasta el uno de septiembre de 2012. A partir del año 2012, las personas integrantes del Consejo Hídrico Estatal, durarán en su encargo tres años, de acuerdo a lo estipulado en el artículo 35 TER de la presente Ley.
+
+TERCERO. Una vez integrado el Consejo Hídrico Estatal, tendrá un plazo de ciento ochenta días para la elaboración de su reglamento interno.
+
+CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
