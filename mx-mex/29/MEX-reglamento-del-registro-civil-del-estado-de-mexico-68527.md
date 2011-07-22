@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-registro-civil-del-estado-de-mexico-68527"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-28"
-last_updated: "2006-09-28"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 22 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 28 de septiembre de 2006.
 
@@ -1544,3 +1546,19 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 22 DE JULIO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento del Registro Civil del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 28 de septiembre de 2006.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+QUINTO.- La utilización de libros en el Registro Civil y su automatización a través de un sistema informático, se realizarán de manera gradual, de conformidad con el programa que al efecto establezca la Secretaría General de Gobierno, por conducto de la Dirección General.
+
+SEXTO.- Hasta en tanto la automatización de todas y cada una de las Oficialías se lleve a cabo, las actas se asentarán en formatos oficiales y autorizados. En forma paralela se digitalizarán dichos documentos y se archivarán en medios electrónicos.
