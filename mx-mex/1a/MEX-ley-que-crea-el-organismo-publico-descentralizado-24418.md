@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-24418"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "1999-01-18"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COMISION DEL AGUA DEL ESTADO DE MEXICO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE FECHA 15 DE ABRIL DE 2011, EL PRESENTE ORDENAMIENTO SERA ABROGADO, A LOS TREINTA DIAS NATURALES SIGUIENTES A SU PUBLICACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JULIO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de enero de 1999.
 
@@ -268,3 +270,39 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ARTURO UGALDE MENESES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Agua del Estado de México, publicada en la "Gaceta del Gobierno", el diez de marzo de mil novecientos noventa y nueve.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley que crea el Organismo Público Descentralizado denominado Comisión del Agua del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" de fecha dieciocho de enero de mil novecientos noventa y nueve.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la vigencia del presente Decreto, se dispondrá de noventa días naturales, para emitir el Reglamento de esta Ley. En tanto se expida el nuevo Reglamento seguirá siendo aplicable en lo que no se oponga a las disposiciones de esta Ley a que se refiere el artículo tercero transitorio, el Reglamento de la Ley que se abroga.
+
+###### ARTÍCULO SEXTO.
+
+Se dispondrá de hasta noventa días naturales contados a partir de la vigencia de este Decreto para que se constituya la Comisión Reguladora del Agua del Estado de México.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas físicas y jurídicas colectivas que no cuentan con el título de concesión para la prestación de los servicios, deberán tramitarlo ante las autoridades competentes, en un plazo máximo de sesenta días hábiles contados a partir de la fecha en que entre en vigor este ordenamiento. Las personas físicas o jurídicas colectivas que transcurrido el plazo mencionado no hayan obtenido la concesión, entregarán al Municipio los bienes afectos a la prestación del servicio, para que el mismo determine lo conducente.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en esta Ley.
