@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-45552"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-09"
-last_updated: "2005-07-09"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado, el sábado 9 de julio de 2005.
 
@@ -41,9 +41,11 @@ LEY DE TURISMO DEL ESTADO DE OAXACA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de interés público y de observancia general en todo el Estado de Oaxaca, corresponde su aplicación al Titular del Poder Ejecutivo Estatal, a través de la Secretaría de Desarrollo Turístico del Estado de Oaxaca, las autoridades establecidas en la presente Ley, sus Reglamentos y demás ordenamientos jurídicos aplicables.
+La presente Ley es de interés público y de observancia general en todo el Estado de Oaxaca, corresponde su aplicación al Titular del Poder Ejecutivo Estatal, a través de la Secretaría de Turismo y Desarrollo Económico, las autoridades establecidas en la presente Ley, sus Reglamentos y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 2.
 
@@ -79,7 +81,9 @@ III.- Patrimonio turístico: El conjunto de bienes que generan el interés del m
 
 IV.- Prestador de Servicios Turísticos.- La persona física o moral que permanente o eventualmente proporciona, sirva de intermediario o contrata con el turista la prestación de los servicios establecidos en esta Ley; ya sea en locales fijos o semifijos y que cuenta con los permisos, autorizaciones, licencias y acreditación que la legislación, los reglamentos y las normas oficiales en vigor le imponen para operar;
 
-V.- Secretaría: La Secretaría de Desarrollo Turístico del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+V.- Secretaría: La Secretaría de Turismo y Desarrollo Económico.
 
 VI.- Turista: Persona que viaja desplazándose temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley general de Población.
 
@@ -217,9 +221,11 @@ XX.- La participación y el beneficio económico para que las comunidades integr
 
 XXI.- La desconcentración de atribuciones para dotar de mayores facultades a los municipios en materia de fomento y desarrollo de la actividad turística, así como la orientación de sus actividades en este rubro al desarrollo económico en cada demarcación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 13.
 
-La planeación de la actividad turística preservará el patrimonio cultural, histórico, artístico y natural del Estado de Oaxaca, en armonía con los sectores productivos. La Secretaría recomendará a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado de Oaxaca y a los Ayuntamientos, para que en las autorizaciones de construcción y uso de suelo para la actividad turística se respeten las particularidades del paisaje, históricas, arqueológicas, típicas o tradicionales y que no limiten el campo visual para contemplar las bellezas naturales, atendiendo lo dispuesto en los programas de desarrollo urbano y el Programa General de Ordenamiento Ecológico del Estado de Oaxaca.
+La planeación de la actividad turística preservará el patrimonio cultural, histórico, artístico y natural del Estado de Oaxaca, en armonía con los sectores productivos. La Secretaría recomendará a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y a los Ayuntamientos, para que en las autorizaciones de construcción y uso de suelo para la actividad turística se respeten las particularidades del paisaje, históricas, arqueológicas, típicas o tradicionales y que no limiten el campo visual para contemplar las bellezas naturales, atendiendo lo dispuesto en los programas de desarrollo urbano y el Programa General de Ordenamiento Ecológico del Estado de Oaxaca.
 
 Para estos efectos se adoptarán las determinaciones y medidas reglamentarias contenidas en los lineamientos de planificación de los productos turísticos y la actividad turística, explotación del patrimonio turístico y los instrumentos de apoyo a la inversión que se desarrollen.
 
@@ -229,9 +235,11 @@ La Secretaría propondrá la expedición de criterios técnicos de carácter obl
 
 ### CAPITULO II. DE LAS ZONAS DE DESARROLLO TURISTICO PRIORITARIO
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 15.
 
-La Secretaría solicitará a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Gobierno del Estado de Oaxaca y al Instituto Estatal de Ecología y a los ayuntamientos, cuando corresponda, la delimitación de las áreas de actuación y la determinación de zonas de uso y destino turístico, observando las disposiciones establecidas en los Programas de Desarrollo Urbano, el Programa de Ordenamiento Ecológico del Estado de Oaxaca y el Sistema de Áreas Naturales Protegidas del Estado de Oaxaca.
+La Secretaría solicitará a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y al Instituto Estatal de Ecología y Desarrollo Sustentable y a los ayuntamientos, cuando corresponda, la delimitación de las áreas de actuación y la determinación de zonas de uso y destino turístico, observando las disposiciones establecidas en los Programas de Desarrollo Urbano, el Programa de Ordenamiento Ecológico del Estado de Oaxaca y el Sistema de Áreas Naturales Protegidas del Estado de Oaxaca.
 
 ###### Artículo 16.
 
@@ -245,9 +253,11 @@ La Secretaría, con las dependencias involucradas de los tres niveles de gobiern
 
 Podrán ser consideradas como zonas de desarrollo turístico prioritario aquellas que por sus características naturales, históricas o culturales constituyan un atractivo turístico, esto a juicio de la Secretaría y con la colaboración de las dependencias de los tres niveles de gobierno involucrados.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 19.
 
-Cuando se trate de proyectos de inversión en zonas de desarrollo turístico prioritario, la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Gobierno del Estado y los Ayuntamientos, considerarán para efectos del otorgamiento de los permisos correspondientes, la opinión que emita la Secretaría, procurando siempre la armonía del desarrollo con el medio físico, urbano, ecológico y panorámico de la zona.
+Cuando se trate de proyectos de inversión en zonas de desarrollo turístico prioritario, la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y los Ayuntamientos, considerarán para efectos del otorgamiento de los permisos correspondientes, la opinión que emita la Secretaria, procurando siempre la armonía del desarrollo con el medio físico, urbano, ecológico y panorámico de la zona.
 
 ### CAPITULO III. DEL TURISMO SOCIAL
 
@@ -303,17 +313,25 @@ IV. Las demás que establezcan los reglamentos de la presente Ley.
 
 En todo lo no dispuesto en el presente Capítulo serán aplicables las disposiciones que las normas oficiales mexicanas establecen sobre la materia.
 
-Para todo lo previsto en el presente Capítulo, la Secretaría, el Instituto Estatal de Ecología, la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Gobierno del Estado y, en su caso, los Municipios involucrados, elaborarán un mecanismo de coordinación con el objeto de evitar la duplicidad de funciones y la invasión de facultades que para cada una establece la presente Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+Para todo lo previsto en el presente Capítulo, la Secretaría, el Instituto Estatal de Ecología y Desarrollo Sustentable, la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y, en su caso, los Municipios involucrados, elaborarán un mecanismo de coordinación con el objeto de evitar la duplicidad de funciones y la invasión de facultades que para cada una establece la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 27.
 
 Los prestadores de servicios turísticos que esta Ley establece, así como toda persona, organización o institución pública o privada que desee realizar una actividad de turismo alternativo en el Estado de Oaxaca, requerirá de un permiso expedido por la Secretaría, con la opinión del o los Ayuntamientos Municipales, en cuyas demarcaciones territoriales se pretenda realizar dicha actividad.
 
-Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas o las áreas de valor ambiental, el Instituto Estatal de Ecología será el encargado de otorgar los permisos correspondientes, siguiendo el mismo procedimiento que establece el Reglamento.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
-En todos los casos, el Instituto Estatal de Ecología, definirá las áreas potenciales para el desarrollo del turismo alternativo en suelo de conservación, a las cuales se sujetará la aprobación del permiso correspondiente.
+Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas o las áreas de valor ambiental, el Instituto Estatal de Ecología y Desarrollo Sustentable será el encargado de otorgar los permisos correspondientes, siguiendo el mismo procedimiento que establece el Reglamento.
 
-Esta información deberá ser remitida anualmente a la Secretaría y a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, para los efectos que correspondan.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+En todos los casos, el Instituto Estatal de Ecología y Desarrollo Sustentable, definirá las áreas potenciales para el desarrollo del turismo alternativo en suelo de conservación, a las cuales se sujetará la aprobación del permiso correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+Esta información deberá ser remitida anualmente a la Secretaría y a la Secretaría de las Infraestructuras y Ordenamiento Territorial Sustentable, para los efectos que correspondan.
 
 ###### Artículo 28.
 
@@ -321,7 +339,9 @@ Para la prestación de servicios turísticos y el desarrollo del turismo alterna
 
 I.- La solicitud en la cual se indique la o las categorías de turismo alternativo que desea prestar;
 
-II.- El estudio de capacidad de carga de la zona aprobada por el Instituto Estatal de Ecología;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+II.- El estudio de capacidad de carga de la zona aprobada por el Instituto Estatal de Ecología y Desarrollo Sustentable.
 
 III.- La autorización de la evaluación de impacto ambiental, cuando corresponda; y
 
@@ -359,9 +379,11 @@ VIII. La prohibición a los prestadores de servicios turísticos y turistas de i
 
 Para los efectos de este Capítulo, queda prohibido todo tipo de actividad turística cinegética, en términos de las leyes federales y estatales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 31.
 
-La Secretaría, en coordinación con el Instituto Estatal de Ecología, y ambas con los Ayuntamientos cuando corresponda, fomentarán la promoción de las actividades del turismo alternativo a través de programas y convenios en la materia.
+La Secretaría, en coordinación con el Instituto Estatal de Ecología y Desarrollo Sustentable, y ambas con los Ayuntamientos cuando corresponda, fomentarán la promoción de las actividades del turismo alternativo a través de programas y convenios en la materia.
 
 Asimismo, ambas instancias de manera coordinada, propondrán al Titular del Ejecutivo Estatal, la expedición de criterios técnicos de carácter obligatorio, que todo prestador de servicios o desarrollador de actividades debe cumplir al dedicarse a cualquiera de las modalidades de turismo alternativo.
 
@@ -379,7 +401,9 @@ III. Elaborar y divulgar estudios que realice sobre turismo alternativo; y
 
 IV. Las demás que establezcan esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
-La Secretaría conjuntamente con el Instituto Estatal de Ecología expedirán (sic) las disposiciones administrativas y técnicas para las actividades de turismo alternativo y vigilará su cumplimiento.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+La Secretaría conjuntamente con el Instituto Estatal de Ecología y Desarrollo Sustentable expedirán las disposiciones administrativas y técnicas para las actividades de turismo alternativo y vigilará su cumplimiento.
 
 ## TITULO TERCERO
 
@@ -471,7 +495,9 @@ XII.- Desarrollar destinos de turismo alternativo.
 
 La Secretaría contará con un sistema de información turística que permita proporcionar los servicios de orientación que auxilien en la toma de decisiones y planificación integral de la actividad turística. Los gobiernos municipales enviarán toda la información relevante con la que cuenten en materia turística para ser integrada en el sistema.
 
-La Secretaria enviará al Instituto Estatal de Ecología la información relevante que involucre aspectos ambientales.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+La Secretaría enviará al Instituto Estatal de Ecología y Desarrollo Sustentable la información relevante que involucre aspectos ambientales.
 
 ###### Artículo 42.
 
@@ -513,9 +539,11 @@ La Secretaría promoverá además otros apoyos mediante la coordinación con el 
 
 Los instrumentos fiscales tendrán por objeto impulsar nuevas inversiones productivas mediante la reducción y exención de impuestos, de conformidad con el Código Fiscal, la Ley de Ingresos y el Presupuesto de Egresos del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 47.
 
-La Secretaría, escuchando a los organismos del sector, someterá a la consideración de la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado de Oaxaca y de los Ayuntamientos del Estado, los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Estado de Oaxaca, para delimitar las zonas de desarrollo turístico prioritario.
+La Secretaría, escuchando a los organismos del sector, someterá a la consideración de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y de los Ayuntamientos del Estado, los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Estado de Oaxaca, para delimitar las zonas de desarrollo turístico prioritario.
 
 ### CAPITULO III. DE LOS ESTIMULOS A LA INVERSION TURISTICA
 
@@ -555,9 +583,11 @@ I.- Identificará las posibilidades de inversión, factibilidad económica, y fi
 
 II.- Tratará que exista el equilibrio entre las necesidades específicas de la zona y la protección y conservación de los recursos naturales y culturales.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 55.
 
-La Secretaría podrá someter a la consideración de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Gobierno del Estado de Oaxaca y de los Ayuntamientos, los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Estado de Oaxaca, para delimitar las zonas de desarrollo turístico prioritario.
+La Secretaría podrá someter a la consideración de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y de los Ayuntamientos, los criterios generales para la elaboración de los estudios pertinentes sobre proyectos de inversión turística en el Estado de Oaxaca, para delimitar las zonas de desarrollo turístico prioritario.
 
 ## TITULO CUARTO
 
@@ -617,19 +647,21 @@ V.- Proponer a la autoridad competente, a los prestadores de servicios turístic
 
 ### CAPITULO UNICO. DE LA CAPACITACION TURISTICA
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 61.
 
-La Secretaría, en coordinación con el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, participarán en la elaboración de programas de capacitación turística para prestadores de servicios turísticos y servidores públicos y promoverá acciones de coordinación con las dependencias del Estado de Oaxaca y del Gobierno Federal involucradas, así como con organismos públicos y privados para el establecimiento de escuelas, centros de educación y de capacitación para la formación de profesionales y técnicos en todas las ramas de la actividad turística, contemplando en los programas la capacitación especializada en la atención de las personas con discapacidad y de las personas mayores en plenitud.
-
-Igualmente, promoverán acciones de coordinación con las dependencias y organismos correspondientes para elevar el nivel académico de sus egresados y vigilar que los centros educativos mencionados cumplan con la normatividad vigente en cuanto a la validez de los estudios que en ellos se realicen y para su operación.
+La Secretaría, en coordinación con el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, participarán en la elaboración de programas de capacitación turística para prestadores de servicios turísticos y servidores públicos y promoverá acciones de coordinación con las dependencias del Estado de Oaxaca y del Gobierno Federal involucradas, así como con organismos públicos y privados nacionales e internacionales para el establecimiento de escuelas, centros de educación y de capacitación para la formación de profesionales y técnicos en todas las ramas de la actividad turística, contemplando en los programas la capacitación especializada en la atención de las personas con discapacidad y de las personas mayores en plenitud. Asimismo establecerán lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
 
 ###### Artículo 62.
 
 La Secretaría llevará un registro de centros de enseñanza, dedicados a la especialidad del turismo, reconocidos oficialmente por el Instituto Estatal de Educación Pública de Oaxaca y la Secretaría de Educación Pública, con el objeto de dar a conocer a los servidores turísticos que así lo soliciten sobre la validez oficial y el nivel académico de dichos planteles educativos.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 63.
 
-La Secretaría propondrá la celebración de acuerdos, con la Secretaría de Trabajo y Previsión Social para el desarrollo de programas relacionados a la capacitación, y adiestramiento, que tengan como finalidad instruir a aquellos trabajadores y empleados de negocios turísticos, con el conocimiento necesario, para el desarrollo de sus actividades, de acuerdo a los términos que marque nuestra legislación federal en materia de trabajo.
+La Secretaría propondrá la celebración de acuerdos, con la Secretaría de Trabajo y Previsión Social para el desarrollo de programas relacionados a la profesionalización, capacitación, y adiestramiento mediante cursos, enseñanza de lenguas extranjeras y certificaciones, con la finalidad de instruir a aquellos trabajadores y empleados de negocios turísticos con el conocimiento necesario para el desarrollo de sus actividades de acuerdo a los términos que marque nuestra legislación federal en materia de trabajo.
 
 ###### Artículo 64.
 
@@ -776,3 +808,17 @@ Oaxaca de Juárez, Oax., a 08 de diciembre del 2004.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JORGE F. FRANCO VARGAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 2011.
+
+DECRETO NUMERO 574 POR EL QUE SE REFORMAN LOS ARTICULOS 1, 3 FRACCION V, 13, 15, 19, 26 ULTIMO PARRAFO, 27 SEGUNDO, TERCERO Y CUARTO PARRAFOS, 28 FRACCION II, 31 PRIMER PARRAFO, 32 ULTIMO PARRAFO, 41 SEGUNDO PARRAFO, 47 Y 55 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2011.
+
+DECRETO NUMERO 575 POR EL QUE SE REFORMAN LOS ARTICULOS 61 Y 63 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
