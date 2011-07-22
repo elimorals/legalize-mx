@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-agua-del-estado-de-mexico-14161"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-10"
-last_updated: "2010-11-10"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DEL AGUA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIOS DE LA LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS, PUBLICADA EN LA SECCION TERCERA DE LA G.G. DE FECHA 22 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarte de la Gaceta del Gobierno del Estado de México, el miércoles 10 de marzo de 1999.
 
@@ -1672,3 +1674,37 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Las reglas del Programa de Sustitución de Medidores Convencionales por Medidores Electrónicos Inteligentes para el Consumo de Agua, deberán publicarse y entrar en vigor a más tardar el primero de enero de 2011.
 
 CUARTO.- El primer día hábil de octubre de 2011, el Gobierno del Estado de México, a través de las secretarías de Finanzas y del Agua y Obra Pública, esta por conducto de la Comisión del Agua del Estado de México y en el ámbito de sus respectivas competencias, enviaran a la Legislatura un informe que dé a conocer el número de usuarios que participaron en el Programa de Sustitución de Medidores del Suministro de Agua Potable en cada Municipio, la magnitud y modalidad del subsidio que hubiese acordado otorgar, así como el endeudamiento registrado que contrajeron para adquirir los medidores inteligentes de agua.
+
+G.G. 22 DE JULIO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley del Agua del Estado de México, publicada en la "Gaceta del Gobierno", el diez de marzo de mil novecientos noventa y nueve.
+
+###### ARTICULO CUARTO.
+
+Se abroga la Ley que crea el Organismo Público Descentralizado denominado Comisión del Agua del Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" de fecha dieciocho de enero de mil novecientos noventa y nueve.
+
+###### ARTICULO QUINTO.
+
+A partir de la vigencia del presente Decreto, se dispondrá de noventa días naturales, para emitir el Reglamento de esta Ley. En tanto se expida el nuevo Reglamento seguirá siendo aplicable en lo que no se oponga a las disposiciones de esta Ley a que se refiere el artículo tercero transitorio, el Reglamento de la Ley que se abroga.
+
+###### ARTICULO SEXTO.
+
+Se dispondrá de hasta noventa días naturales contados a partir de la vigencia de este Decreto para que se constituya la Comisión Reguladora del Agua del Estado de México.
+
+###### ARTICULO SÉPTIMO.
+
+Las personas físicas y jurídicas colectivas que no cuentan con el título de concesión para la prestación de los servicios, deberán tramitarlo ante las autoridades competentes, en un plazo máximo de sesenta días hábiles contados a partir de la fecha en que entre en vigor este ordenamiento. Las personas físicas o jurídicas colectivas que transcurrido el plazo mencionado no hayan obtenido la concesión, entregarán al Municipio los bienes afectos a la prestación del servicio, para que el mismo determine lo conducente.
+
+###### ARTICULO OCTAVO.
+
+Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía que sean contrarias a las establecidas en esta Ley.
