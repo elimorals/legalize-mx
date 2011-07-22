@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2011-03-01"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -400,24 +400,6 @@ El Congreso sesionará por años legislativos, comprendidos del día quince del 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 En los meses de septiembre a diciembre, se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
-
-También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.
-
-(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
-
-###### Artículo 31.
-
-El Congreso sesionará por años legislativos, comprendidos del día quince del mes de septiembre al día catorce del mes de septiembre del año siguiente.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-En los meses de septiembre a diciembre el Congreso se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -1105,19 +1087,29 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, menores y comunales.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 La administración, vigilancia y disciplina del Poder Judicial del Estado está a cargo del Consejo del Poder Judicial, que posee autonomía técnica y de gestión.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+
 El Consejo del Poder Judicial se integra con cinco miembros, de los cuales uno es el Presidente del Supremo Tribunal de Justicia, quien lo preside; uno electo por el Congreso del Estado; uno designado por el Gobernador del Estado, un Magistrado y un Juez de Primera Instancia, ambos electos por sus pares, en los términos que fije la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 Los Consejeros no representan a quienes los eligen o designen, por lo que ejercen su función con independencia e imparcialidad. Su encargo será por cinco años, con excepción del Presidente. Los requisitos y condiciones para ser Consejero son los mismos que para ser Magistrado del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+
 El Consejo del Poder Judicial funciona en Pleno o en comisiones. El Pleno resuelve sobre la designación, adscripción y remoción de jueces, emitirá su reglamento interior, los acuerdos y resoluciones para el cumplimiento de sus funciones. Cuenta con comisiones permanentes y transitorias. Las comisiones permanentes son: administración, carrera judicial y vigilancia y disciplina.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 Se establece la Carrera Judicial, a cargo del Consejo del Poder Judicial, en los términos que señale la Ley Orgánica.
 
@@ -1309,7 +1301,9 @@ h) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva; y,
 
 II.- Conocer en Salas:
 
-a) De los negocios civiles, penales y de jurisdicción concurrente como tribunal de apelación;
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+a) De los negocios civiles, penales y de jurisdicción concurrente como tribunal de apelación y casación;
 
 b) De los recursos de queja en negocios civiles y penales; y,
 
@@ -1331,11 +1325,15 @@ El Presidente del Supremo Tribunal de Justicia rendirá ante y en nombre del Ple
 
 El Presidente del Supremo Tribunal será responsable de la buena marcha de la administración de justicia; tendrá la representación del Poder Judicial y las facultades que le señale la Ley Orgánica.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
-###### Artículo 86
+###### Artículo 86.
 
-La administración de justicia en primera instancia estará a cargo de jueces. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales. Los Juzgados de Primera Instancia residirán en la cabecera de distrito que señale la Ley Orgánica.
+La administración de justicia en primera instancia estará a cargo de jueces. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de cubrir sus faltas absolutas o temporales. Los juzgados de primera instancia residirán en la cabecera de distrito o región que señale la Ley Orgánica.
+
+En materia penal la primera instancia corresponde, además, a los juzgados de control de garantías y tribunales de juicio oral; los que el Consejo del Poder Judicial podrá acordar que sean itinerantes, cuando así se requiera, en todo el Estado.
+
+También son jueces de primera instancia los especializados en justicia penal para adolescentes y los de ejecución de sanciones.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1361,33 +1359,41 @@ III.- Tener el día de la elección, con antigüedad mínima de tres años, tít
 
 IV.- No haber sido sentenciado por delito doloso.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 89.
 
-Son atribuciones de los Jueces de Primera Instancia:
+Son atribuciones de los tribunales y jueces de primera instancia:
 
-I.- Conocer en primera instancia de los negocios civiles, penales y de jurisdicción concurrente de su Distrito Judicial;
+I. Conocer en primera instancia de los negocios civiles, penales y de jurisdicción concurrente de su región o distrito judicial, según corresponda;
 
-II.- Conocer de las cuestiones de competencia y las de acumulación que se susciten entre los jueces de cuantía menor del mismo Distrito;
+II. Conocer de las cuestiones de competencia y de acumulación que se susciten entre los jueces menores de materia civil del mismo distrito;
 
-III.- Tener a su cargo al personal de su juzgado y poner en conocimiento del Consejo del Poder Judicial las irregularidades por estos cometidas; y,
+III. Tener a su cargo al personal de su juzgado y poner en conocimiento del Consejo del Poder Judicial las irregularidades por éstos cometidas;
 
-IV.- Desempeñar las demás funciones que les confieran las leyes.
+IV. Conocer, a los que corresponda, de la ejecución del cumplimiento de las sanciones penales, medidas de seguridad y de las inconformidades que conforme a la Ley, deban conocer; y,
+
+V. Desempeñar las demás funciones que les confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2006)</small>
 
 #### SECCION III. De los Jueces Menores y Comunales
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 90.
 
-Habrá jueces menores en los municipios que determine la Ley Orgánica, durarán en su encargo tres años cumplirán con los requisitos y tendrán la competencia y atribuciones que la misma señale.
+Habrá jueces menores en materia civil en los municipios que determine la Ley Orgánica, durarán en su encargo tres años, con la competencia y atribuciones que la misma Ley les señale.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 El Consejo del Poder Judicial determinará su nombramiento, adscripción, el número que habrá en cada municipio y el procedimiento para cubrir sus faltas temporales o absolutas.
 
-Los Jueces menores podrán ser ratificados previo dictamen de evaluación y privados de su encargo, conforme al artículo 77 de esta Constitución.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+Estos jueces podrán ser ratificados previo dictamen de evaluación y privados de su encargo, conforme a la Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
 El Consejo del Poder Judicial, establecerá juzgados comunales en las poblaciones que por sus características lo requieran. La competencia y atribuciones de estos juzgados se establecerá en la Ley Orgánica.
 
@@ -1415,7 +1421,15 @@ Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para 
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; cuidando que los procedimientos y los términos establecidos por la ley hagan eficaz esta garantía. Su servicio será gratuito.
 
-La ley establecerá los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+El Estado adopta e incorpora el sistema procesal penal acusatorio y oral; la Ley establecerá las garantías y procedimientos que regulen la forma y términos en que se sustanciará, rigiéndose en todo momento, por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+La Ley establecerá medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -1425,9 +1439,23 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces.
 
-La ley determinará la competencia de los jueces menores y comunales.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
+La Ley determinará la competencia de los juzgados menores de materia civil y comunales.
 
 En todos los casos se procederá con audiencia de parte y comprobación de los hechos. Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o mediador, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde. Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
+
+> <small>(REFORMADO [N. DE E ADICIONADO], P.O. 22 DE JULIO DE 2011)</small>
+
+El Consejo del Poder Judicial, en el ámbito de su jurisdicción y competencia, tomará las medidas para que existan en el Estado centros especializados en mecanismos alternativos de solución de controversias.
+
+> <small>(REFORMADO [N. DE E ADICIONADO], P.O. 22 DE JULIO DE 2011)</small>
+
+Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o mediador, aún cuando se halla (sic) sometido a juicio y sea cual fuere el estado que éste guarde.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1578,6 +1606,10 @@ En los casos en que debe intervenir el Ministerio Público, el Procurador Genera
 La Ley Orgánica de la institución fijará el número, adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren.
 
 El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto a las acciones y resultados de la institución a su cargo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -2143,7 +2175,7 @@ La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditorí
 
 El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -3242,3 +3274,17 @@ El Presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO CUARTO.
 
 Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones constitucionales y legales vigentes, hasta su total conclusión.
+
+P.O. 22 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase a los ayuntamientos del Estado, la Minuta proyecto de Decreto, para que, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo, con excepción de lo dispuesto en el artículo transitorio siguiente.
+
+###### ARTÍCULO TERCERO.
+
+El nuevo sistema de reinserción social previsto en el párrafo segundo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder el plazo de tres años, contados a partir del día siguiente de la publicación de este Decreto.
