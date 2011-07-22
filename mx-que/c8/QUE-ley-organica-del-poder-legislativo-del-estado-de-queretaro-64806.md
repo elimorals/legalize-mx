@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2010-07-06"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -157,7 +157,7 @@ II. Abstenerse de actuar en representación de otro Poder estatal o desempeñar 
 
 III. Dar aviso a la Presidencia de la Legislatura, a través de sus coordinadores de Grupo Legislativo, Fracción Legislativa o a nombre propio, cuando se ausenten hasta por quince días naturales del territorio nacional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEXTO TRANSITORIO DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEXTO TRANSITORIO DE LA LEY.</small>
 
 IV. Solicitar autorización de la Mesa Directiva, a través de sus coordinadores de Grupo Legislativo, Fracción Legislativa o a nombre propio, cuando se ausenten por más de quince días y hasta por treinta días naturales del territorio nacional;
 
@@ -1255,7 +1255,7 @@ Primera Parte
 
 Integración y competencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO OCTAVO TRANSITORIO DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO OCTAVO TRANSITORIO DE LA LEY.</small>
 
 #### Sección Primera. Disposiciones generales
 
@@ -1343,7 +1343,9 @@ XXII. Seguridad pública y protección civil: Tiene a su cargo la atención de a
 
 XXIII. Trabajo y previsión social: Tiene a su cargo la atención de asuntos en materia de decretos de jubilaciones y pensiones, y de reformas a la legislación laboral local;
 
-XXIV. Tránsito, vialidad y auto transporte público: Tiene a su cargo la atención de asuntos en materia de ordenamiento del transporte, vialidades y normatividad de tránsito; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+XXIV. Movilidad Sustentable. Tiene a su cargo la atención de asuntos en materia de sustentabilidad y ordenamiento de transporte, vialidades y normatividad de tránsito, y
 
 XXV. Transparencia y rendición de cuentas: Tiene a su cargo vigilar que todo el trabajo administrativo y gasto público que realicen la Dirección de Servicios Administrativos y la Dirección de Servicios Financieros, se ejerza con base en los programas aprobados y en el presupuesto de ingresos y egresos de la Legislatura, pero sin interrumpir el normal desarrollo de la institución; solicitar de cualquier órgano y dependencia del Poder Legislativo los informes que requiera; supervisar y observar, en los términos de la ley de la materia, la rendición del informe de la cuenta pública de la Legislatura; detectar y, en su caso, notificar a la Contraloría Interna, todas y cada una de las presuntas irregularidades e inconsistencias legales en que incurran los funcionarios de los órganos y dependencias del Poder Legislativo.
 
@@ -1669,7 +1671,7 @@ XIII. Requerir a los diputados electos, con al menos un mes de anticipación a l
 
 XIV. Auxiliar a las comisiones, participar y colaborar en la elaboración de los proyectos de dictamen y demás asuntos de que conozcan. Para tal efecto podrá solicitar el apoyo de la Dirección de Investigación y Estadística Legislativa en el ámbito de sus facultades, así como de personal externo, cuando se requieran conocimientos técnicos específicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMO TRANSITORIO DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO DECIMO TRANSITORIO DE LA LEY.</small>
 
 XV. Tener a su cargo, la Unidad de Información Gubernamental, área encargada de proporcionar la información pública institucional en los términos de la Ley de la materia;
 
@@ -1945,10 +1947,18 @@ PRIMER SECRETARIO
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE JULIO DE 2010.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. Esta Ley entrará en vigor el día de su aprobación por el Pleno de la Quincuagésima Sexta Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones, de igual o menor jerarquía, que se opongan a la presente Ley.
+
+Artículo Tercero. Procédase a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
