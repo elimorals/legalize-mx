@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -137,11 +137,13 @@ La Secretaría de Gobierno del Estado publicará anualmente, en el Periódico Of
 
 ### Capítulo Primero. De los organismos descentralizados
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 14.
 
-Son organismos descentralizados las entidades de la administración pública creados conforme los requisitos, características y organización establecidos en la presente Ley. La Ley General de Organismos Descentralizados del Estado de Querétaro será el instrumento de creación y compilación de dichos organismos.
+Son organismos descentralizados, las entidades de la administración pública creados conforme a los requisitos, características y organización establecidos en la presente Ley.
 
-Los organismos descentralizados contarán con personalidad jurídica y patrimonio propios; cualquiera que sea la estructura que adopten; en cuanto a su funcionamiento operación, desarrollo y control, se sujetarán a las disposiciones de esta Ley.
+Los organismos descentralizados, contarán con personalidad jurídica y patrimonio propios; cualquiera que sea la estructura que adopten, en cuanto a su funcionamiento, operación, desarrollo y control, se sujetarán a las disposiciones de esta Ley.
 
 ###### Artículo 15.
 
@@ -155,9 +157,11 @@ III. La obtención o aplicación de recursos para fines de asistencia o segurida
 
 IV. La realización de actividades de promoción del desarrollo, en materia de salud, vivienda, educación e investigación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 16.
 
-Los organismos descentralizados se crearán por la Legislatura del Estado mediante reforma o adición a la Ley General de Organismos Descentralizados del Estado de Querétaro.
+Los organismos descentralizados se crearán por la Legislatura del Estado.
 
 Quedan exceptuados de lo anterior, aquellas entidades cuyo objeto sea el de impartir educación en el Estado, mismas que estarán a lo dispuesto en la ley que les dé origen; sin embargo, para su creación, deberán satisfacer los requisitos a que se refiere el artículo 17 de la presente Ley.
 
@@ -608,3 +612,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
