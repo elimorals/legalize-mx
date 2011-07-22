@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-caminos-y-puentes-federales-de-52406"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-13"
-last_updated: "2008-12-17"
+last_updated: "2011-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-06-01"
 
 ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS, PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de diciembre de 2006.
 
@@ -1548,3 +1550,19 @@ D.O.F. 17 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 22 DE JULIO DE 2011.
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas funciones se entenderán concedidas a la unidad administrativa que determine este Estatuto Orgánico.
+
+TERCERO. La estructura orgánica autorizada deberá presentarse para su registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura no contendrá ningún incremento al presupuesto regularizable de servicios personales.
+
+CUARTO. Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se les haya atribuido en este instrumento, la competencia correspondiente.
+
+QUINTO. Se derogan todas las disposiciones emitidas al interior de CAPUFE que se opongan al presente Estatuto.
+
+SEXTO. Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingresos y Servicios Conexos, publicado en el Diario Oficial de la Federación el 13 de diciembre de 2006.
+
+SEPTIMO. El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
