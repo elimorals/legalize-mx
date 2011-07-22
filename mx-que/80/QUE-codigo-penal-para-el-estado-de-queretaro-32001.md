@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2011-07-15"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -2047,7 +2047,7 @@ Se entenderá que los intereses o lucros son usurarios, cuando sean superiores a
 
 ### CAPITULO III. TRAFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 197.
 
@@ -2985,11 +2985,19 @@ VII.- Autorice o contrate a quien se encuentre inhabilitado por resolución firm
 
 VIII.- Otorgue un nombramiento o de cualquier modo autorice a alguien para el desempeño de un empleo, cargo o comisión sin que el designado satisfaga los requisitos exigidos por la Ley.
 
-IX.- Otorgue cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla, o
+IX.- Otorgue cualquier identificación en que se acredite como servidor público a quien realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en aquélla, o (sic)
 
 X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo impedimento legal para hacerlo.
 
+(ADICIONADA, P.O. 22 DE JULIO DE 2011
+
+XI.- Apruebe, autorice o permita cambios de uso de suelo contrarios a las normas urbanísticas, ambientales y a los planes y programas de desarrollo urbano respectivos, que afecten áreas protegidas o de preservación ecológica en los términos de la legislación ambiental;
+
 Cuando el monto del producto del delito o de los daños o perjuicios causados exceda de mil veces el salario, la sanción será de tres a nueve años de prisión y de 180 a 500 días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+Además de la (sic) penas establecidas en el primer párrafo de este artículo, en el caso de las conductas previstas en la fracción XI, se impondrá al servidor público que resulte responsable de ellas, la destitución e inhabilitación de seis meses a tres años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
 
@@ -4042,3 +4050,9 @@ P.O. 15 DE JULIO DE 2011.
 Artículo Primero. La presente Ley entrará en vigor treinta días naturales después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. La presente reforma entrará en vigor treinta días naturales posteriores a la publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
