@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2011-03-31"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -667,89 +667,207 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 ### Capítulo Quinto. De las notificaciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 109.
 
-Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que les prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa que no excederá de diez veces el salario mínimo general diario vigente en la zona.
+Las notificaciones se harán:
+
+I. Personalmente;
+
+II. Por cédula;
+
+III. Por correo electrónico;
+
+IV. Por correo;
+
+V. Por edictos;
+
+VI. Por lista;
+
+VII. Por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado; y
+
+VIII. Por telégrafo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 110.
 
-A solicitud de parte legítima podrán practicarse notificaciones, recepción de pruebas u otras diligencias similares, necesarias en procesos extranjeros en los términos del artículo 938.
+Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los cinco días siguientes al en que se dicten las resoluciones que les prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa de acuerdo a lo que establezcan las disposiciones legales aplicables.
+
+Para los efectos anteriores, cada actuario llevará un registro diario de los asuntos que se le entreguen, debiendo recibirlos bajo su firma y devolverlos con la constancia del acta respectiva, dentro del plazo señalado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 111.
 
-Las notificaciones se harán personalmente, por cédula, por lista, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
+A solicitud de parte legítima, podrán practicarse notificaciones, recepción de pruebas u otras diligencias similares, necesarias en procesos, extranjeros en los términos del artículo 938.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 112.
 
-Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+Todos los litigantes, en el primer escrito en que comparezcan a la causa, deberán señalar domicilio en el lugar del juicio, para que en él se hagan las notificaciones y diligencias que sean necesarias; manifestar su voluntad para notificarse a través del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado o señalar un correo electrónico donde se les puedan realizar notificaciones.
 
-Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+Si habiendo señalado domicilio, éste no existe o se encontrare desocupado o se encontrare cerrado tras dos búsquedas en fecha distinta o de negativa para recibir notificaciones, previa constancia que de ello asiente el actuario en el acta circunstanciada que levante, el juez o tribunal acordará de oficio que las notificaciones, aún las personales, surtirán efectos por lista.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo o señalare para tal efecto los estrados del juzgado, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por lista; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueve, hasta que se subsane la omisión.
+De no señalar domicilio o el correo electrónico señalado por las partes no reciba las notificaciones, éstas le surtirán efectos por lista y las diligencias en que debiere tener intervención se practicarán en el local del juzgado, aún sin su presencia.
+
+Igualmente, deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan o a las que les interese que se lotifique, por la intervención que deban tener en el asunto.
+
+De no señalar el domicilio de la persona o personas señaladas en el párrafo anterior, no se hará notificación alguna hasta que se subsane la omisión.
+
+Sólo serán válidas las notificaciones realizadas a través del sistema de expediente electrónico o por correo electrónico que hayan sido ordenadas con posterioridad a la fecha en que sea otorgada dicha autorización por escrito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 113.
 
-Mientras que cualquiera de las partes no hiciere nueva designación de domicilio, en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndose en el que para ello hubieren designado. En caso de no existir dicho domicilio, que el mismo se encuentre desocupado o de negativa para recibirlas en el señalado, previa constancia que de ello asiente el actuario en autos, las notificaciones le surtirán efectos por lista y las diligencias en que debiere tener intervención se practicarán en el local del juzgado aún sin su presencia.
+Las partes podrán autorizar, en cualquier momento del proceso, que se les realicen notificaciones, aún las de carácter personal, por correo electrónico o por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, lo que implicará la autorización expresa del solicitante en el sentido de que se tendrán por legalmente practicadas y surtirán sus efectos desde la fecha en que se hagan o desde el día en que se ingrese a consultar el expediente electrónico, según sea el caso.
 
-Cuando se encuentre cerrado el domicilio que el interesado señaló para recibir notificaciones, tras dos búsquedas en éste, en fechas distintas, el actuario se cerciorará de si aún acude alguien al mismo y, en caso de que se le informe que está desocupado o que en ese lugar no conocen al buscado, lo hará saber al juez de la causa, para que haga la declaración de que las notificaciones le surtirán efectos en lista.
+Queda excluida de esta forma de notificación el emplazamiento a juicio y las notificaciones que el juez considere conveniente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 114.
 
-Será notificado personalmente en el domicilio de los litigantes:
+Se acreditará la notificación realizada mediante correo electrónico o por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, con la constancia foliada que para tal efecto levante el secretario de acuerdos del juez o tribunal, en la que se hará constar, el juzgado, el número de expediente, el tipo de notificación, la fecha de la resolución a notificar, la fecha y la hora de la notificación, así como la fecha y la hora de recepción o revisión de la notificación y, en el caso de notificación por correo electrónico, el correo al cual fue enviada la notificación, siendo obligación de la parte que señaló el correo electrónico el buen funcionamiento de su sistema informático.
 
-I. El emplazamiento del demandado, siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
+Dicha constancia será agregada a los autos y a partir de su emisión surtirá efectos la notificación.
 
-II. El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+La hora de envío y de recepción de la notificación será sincronizada con el Centro Nacional de Metrología.
 
-III. La primera resolución que se dicte, cuando se dejare de actuar más de cuatro meses por cualquier motivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Cuando se trate de situaciones graves o urgentes, a juicio del juez. En este caso, podrá ordenarse la notificación en el domicilio particular de las partes, si su ubicación se desprende de autos, aún cuando no se haya señalado domicilio procesal;
-
-V. El requerimiento de un acto a la parte que deba cumplirlo;
-
-VI. Las sentencias definitivas; y
-
-VII. En los demás casos en que la ley lo disponga.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 115.
 
-Cuando variare el personal de un Tribunal no se proveerá decreto haciendo saber el cambio, sino que, al margen del primer proveído que se dictare después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios.
+Las notificaciones deberán hacerse de la siguiente forma:
 
-Si el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacerlo saber a las partes.
+I. Será notificado personalmente el emplazamiento en el domicilio del demandado, siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
+
+II. Será notificado personalmente o cuando por acuerdo se haya establecido, por correo electrónico o por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado:
+
+a) El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+
+b) La primera resolución que se dicte, cuando se dejare de actuar más de cuatro meses, por cualquier motivo;
+
+c) Cuando se trate de situaciones graves o urgentes, a juicio del juez.
+
+En este caso, podrá ordenarse la notificación en el domicilio particular de las partes, si su ubicación se desprende de autos, aún cuando no se haya señalado domicilio procesal;
+
+d) El requerimiento de un acto a la parte que deba cumplirlo;
+
+e) Las sentencias definitivas; y
+
+f) En los demás casos en que la ley lo disponga.
+
+Se tendrá por efectuada la notificación por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, a la parte que vía consulta electrónica acceda al expediente y conozca el contenido del auto, acuerdo o resolución judicial que ordene su notificación personal o vía correo electrónico, en los términos del Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 116.
 
-La primera notificación y las demás que tengan el carácter de personales, se harán directamente al interesado o a su representante o procurador o autorizado para ello, en el domicilio designado para tal efecto.
+Cuando variare el personal de un juzgado o tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacer saber a las partes mediante proveído que surtirá efectos por lista.
 
-No encontrándolo, en el acto, previa identificación del actuario, se cerciorará éste de estar en el domicilio del buscado, asentando en el acta respectiva los datos y signos exteriores del inmueble que sirvan para acreditar que acudió al domicilio señalado. Enseguida, el notificador dejará con quien entienda la diligencia, copia simple de la resolución que se ordena notificar y cédula en la que hará constar la fecha y hora de su entrega, el nombre y apellido del promovente, el juez o Tribunal que manda practicar la diligencia, descripción de los documentos que se acompañen a la cédula y el nombre y apellido de la persona a quien se entrega para que la haga llegar al interesado, recogiendo la firma de aquél o haciendo constar su negativa o imposibilidad de firmar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si la notificación no pudiera realizarse, el notificador se informará con los vecinos más cercanos sobre la certeza de que el demandado vive en el domicilio señalado y expresará las causas o la oposición que hubo para ello, para que el juez, con vista al resultado, adopte las medidas necesarias e imponga las correcciones disciplinarias y medidas de apremio que correspondan.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 117.
 
-Tratándose de la notificación de la demanda, cerciorado el notificador de hallarse en el domicilio de la persona que debe ser notificada, si a la primera búsqueda no se encontrare ésta o su representante legal, se le dejará citatorio para que espere al funcionario judicial en el domicilio designado, a hora fija del día siguiente, en el entendido que de no esperarlo se le hará la notificación por cédula.
+No será necesario que el juez o tribunal entregue al actuario el expediente respectivo, sino únicamente la cédula de notificación y los documentos justificativos, debidamente sellados, cotejados y foliados, mismos que deberá entregar al notificado o citado, cuando la ley así lo indique.
 
-Si el buscado fue omiso en la espera, la notificación se realizará por medio de cédula con la persona que se encuentre en el domicilio; documento en el que se hará constar los datos de identificación de la persona con quien se entienda la diligencia, la fecha y hora de su entrega, el tipo de procedimiento que se sigue, los nombres y apellidos de las partes y el juez o Tribunal que mande practicar la diligencia, acompañando copia simple de la resolución que se ordena notificar y, en su caso, las copias de traslado respectivas. De lo anterior se levantará acta circunstanciada, que deberán firmar los que en ella intervengan, asentándose la razón de quienes se negaren a hacerlo. Se agregará al proceso copia de la cédula entregada, para los correspondientes efectos legales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 118.
 
-Si tras cerciorarse el notificador de que el buscado no tiene su domicilio en el lugar señalado o teniéndolo se negare aquél con quien se entiende la notificación a recibirla, si obra en autos el domicilio donde habitualmente trabaja el buscado, se trasladará a éste sin necesidad de previo mandamiento, a efectuar el emplazamiento y entregar las copias del traslado. En caso de negativa a recibirlas o a atender el llamado del actuario, se procederá en los términos de los artículos que anteceden.
+La primera notificación se hará directamente al interesado, su representante, su procurador o autorizado para ello, en su domicilio, siempre que se trate de emplazamiento; las demás notificaciones que tengan el carácter de personales, podrán ser notificadas, además de en el domicilio procesal que hayan señalado, en el correo electrónico que designen para tal efecto o mediante notificación por consulta en línea del expediente a través del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado.
+
+Tratándose de notificaciones en el domicilio y no encontrándose al interesado, en el acto, previa identificación del actuario, éste se cerciorará de estar en el domicilio del buscado, asentando en el acta respectiva los datos y signos exteriores del inmueble que sirvan para acreditar que acudió al domicilio señalado. Enseguida, el notificador dejará con quien entienda la diligencia, copia simple de la resolución que se ordena notificar y cédula en la que hará constar la fecha y hora de su entrega, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, descripción de los documentos que se acompañen a la cédula y el nombre y apellido de la persona a quien se entrega, para que la haga llegar al interesado, recogiendo la firma de aquél o haciendo constar su negativa o imposibilidad de firmar.
+
+Si la notificación no pudiera realizarse, el notificador se informará con los vecinos más cercanos sobre la certeza de que el buscado vive en el domicilio señalado y expresará las causas o la oposición que hubo para ello, para que el juez, con vista al resultado, adopte las medidas necesarias e imponga las correcciones disciplinarias y medidas de apremio que correspondan.
+
+Si el correo electrónico señalado por cualquiera de las partes no admite las notificaciones, el actuario deberá intentar la notificación en dos ocasiones, asentando la constancia correspondiente. En este caso:
+
+I. El actuario deberá elaborar la minuta electrónica en la que precise el auto, acuerdo o resolución a notificar. Dicha minuta contendrá la fecha y hora en que se efectúe el envío señalado y la firma electrónica del actuario, que deberá imprimir para adjuntarla al expediente;
+
+II. El actuario enviará a la dirección de correo electrónico de la o las partes·a notificar, un aviso informándole que se ha dictado un auto, acuerdo o resolución en el expediente en que actúan;
+
+III. El Sistema de Justicia en Línea del Tribunal, registrará la fecha y hora en que se efectúe el envío señalado en la fracción anterior; y
+
+IV. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el actuario genere el acuse de recibo electrónico donde conste la fecha y hora en que se envió el auto, acuerdo o resolución a las partes notificadas.
+
+En caso de que la parte interesada consulte un acuerdo, del que el juez o tribunal haya ordenado su notificación personal o por correo electrónico, por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, el secretario de acuerdos levantará constancia con la impresión de los datos electrónicos que indiquen el día y hora que la parte interesada accesó al expediente electrónico y conoció el auto, acuerdo o resolución, indicando la procedencia de la notificación por consulta en línea, en términos del Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 119.
 
-Cuando no se conociere el lugar en que la persona que debe notificarse, tenga el principal asiento de sus negocios y en la habitación no se pudiere hacer notificación, conforme a los artículos anteriores, se podrá hacer ésta en el lugar en donde se encuentre.
+En las notificaciones de emplazamiento, se seguirán las siguientes reglas:
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo aplicación de multa de tres a cinco veces el salario mínimo general diario vigente en la zona.
+I. Si se tratare de personas físicas, directamente o por conducto de apoderado que acredite tener facultades para pleitos y cobranzas;
+
+II. Si se tratare de personas morales, por conducto de las personas que las representen. Si fueren varios, el emplazamiento se tendrá por válido cuando se haga a cualquiera de ellos. Si la persona moral tiene sucursales, el emplazamiento podrá hacerse en el domicilio de cualquiera de ellas;
+
+III. El actuario debe cerciorarse de que la persona que deba ser notificada, habita, trabaja o tiene su domicilio en el inmueble señalado en autos, lo cual se hará constar en el acta respectiva, mencionando los datos y signos exteriores del inmueble y de los medios que le sirvieron para cerciorarse de ello, agregando al expediente copia del acta, copia de la cédula entregada y copia de la constancia levantada, para los efectos legales correspondientes.
+
+Encontrando a la persona buscada, el actuario le pedirá una identificación, anotando los datos de la misma y, en caso de no exhibirla, hará constar sus características físicas. Cuando se trate de personas morales, además de lo anterior, el representante deberá comprobar su personalidad.
+
+El actuario explicará a la persona buscada el motivo de la diligencia, le entregará copia simple de la resolución que se ordena notificar, cédula en la que conste el domicilio donde se actúa, fecha y hora de la diligencia, los nombres de las partes en el juicio, el juzgado o tribunal que manda practicar la diligencia, el número del expediente y la mención de la entrega de las copias de traslado que se acompañen.
+
+Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y el domicilio donde habita no se pudiere hacer la notificación conforme a las fracciones anteriores, la notificación personal podrá realizarla el actuario, en su caso, en el lugar donde se encuentre la persona que deba ser notificada, siempre que el actuario se cerciore de la identidad del mismo, a solicitud de la parte interesada cuando se haga acompañar de ella, lo que hará sin necesidad de que el juez dicte una determinación especial para ello.
+
+Todo vecino o encargado de la vigilancia del lugar donde habrá de practicarse la notificación, tiene la obligación de coadyuvar con el actuario para realizar la diligencia, pudiendo éste, en caso de negativa, apercibirles sobre la aplicación de medidas de apremio que señala (sic) ley:
+
+El actuario, en caso de ser necesario, podrá utilizar el uso de fuerza pública y rompimiento de cerraduras, previo decreto judicial.
+
+De lo anterior se levantará acta circunstanciada, que firmarán quienes hayan intervenido. Si la persona o las personas que intervinieron se niegan o están imposibilitadas de firmar, así lo hará constar el actuario.
+
+IV. Si a la primera búsqueda no se encontrare la persona buscada o su representante legal, una vez que el actuario se haya cerciorado de que es el domicilio del buscado, se le dejará citatorio para que espere a una hora determinada al día hábil siguiente.
+
+Si el buscado o su representante legal no esperaren el día y hora fijado, se realizará la notificación en los términos del artículo anterior, con la persona que se encuentre.
+
+Si el día y hora fijado no se encuentra persona alguna en el domicilio o éste se encontrare cerrado, la notificación se realizará por medio de cédula que se fijará en lugar visible en la puerta principal del domicilio, haciéndolo constar así el actuario, surtiendo todos sus efectos legales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 120.
 
-Cuando se trate de citar a peritos y personas que no sean parte en el juicio, se puede hacer personalmente o por cédula, conteniendo la determinación del juez o Tribunal que mande practicar la diligencia. Estas cédulas pueden entregarse por conducto de la policía, de las partes mismas y de los notificadores, recogiendo la firma del notificado en la copia del citatorio, la que será devuelta para agregarse a los autos.
+La segunda y ulteriores notificaciones surtirán efectos en lista para los interesados, al día siguiente de su publicación, excepto en los casos en que el interesado consulte el expediente por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado o que sea notificado por medio de correo electrónico, en los cuales surtirá efectos a partir de la fecha en que haga la consulta del expediente electrónico o de la fecha en que se envíe el correo electrónico, según sea el caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 121.
 
-Cuando se trate de citar testigos o peritos o terceros que no constituyan parte, también pueden ser citados por correo certificado o por telégrafo, en ambos casos a costa del promovente.
+Cuando se trate de citar a peritos, testigos o terceros que no sean parte en el juicio, se podrá hacer por notificación personal o por oficio que la parte interesada deberá recoger en el juzgado o tribunal y entregar al citado, recabando su firma en la copia del citatorio, la cual será devuelta para agregarse a los autos, apercibido el interesado de que deberá regresar el citatorio, dentro de los tres días siguientes en el que haya recibido.
 
-Cuando se haga por telegrama, se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá con el correspondiente recibo, uno de los ejemplares que se agregará al expediente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 122.
 
@@ -759,31 +877,49 @@ I. Cuando se trate de personas inciertas;
 
 II. Cuando se trate de personas cuyo domicilio se ignora; y
 
-III. En todos los demás casos previstos por la ley.
+III. En los demás casos previsto (sic) por la ley.
 
-En los casos de las fracciones I y II los edictos se publicarán por tres veces, de siete en siete días hábiles, en uno de los periódicos de mayor circulación en la Entidad, haciéndose saber al citado que debe presentarse dentro de un plazo que no bajará de quince ni excederá de treinta días hábiles.
+En los casos de las fracciones I y II, los edictos se publicarán por tres veces, de tres en tres días hábiles, es decir, mediado dos días hábiles entre una y otra publicación, en los estrados del juzgado o tribunal y en uno de los periódicos de mayor circulación en la Entidad, haciéndole saber al notificado que deberá presentarse a hacer valer sus derechos, dentro de un plazo de quince días hábiles, contados a partir de la última publicación.
 
-Lo anterior sin perjuicio de que el juez pueda ordenar otras publicaciones cuando lo estime necesario.
+No se ordenará el emplazamiento por edictos, si previamente no se comprueba, mediante los informes que vía oficio se soliciten y rindan el Instituto Federal Electoral, la Secretaría de Seguridad Ciudadana, la Procuraduría General de Justicia, la Secretaría de Seguridad Pública Municipal y la Secretaría del Ayuntamiento del Municipio, en el sentido de que a la persona buscada no se le ubicó ningún domicilio o si una vez agotada la búsqueda en el o los domicilios proporcionados por estas dependencias, no se localizó en éstos a la persona buscada.
 
-No se autorizará el emplazamiento por edictos, si previamente no se comprueba, mediante los informes que rinda el Instituto Federal Electoral y las autoridades estatales y municipales que el juez determine, que de la persona a notificar no se ubicó domicilio en el lugar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
-
-Tratándose del emplazamiento por edictos en los juicios de pérdida de patria potestad, se estará a lo establecido por el artículo 452 de este Código.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 123.
 
-La segunda y ulteriores notificaciones surtirán efectos en lista para los interesados, al día siguiente de su publicación.
+Los secretarios del tribunal y de los juzgados, harán constar en los autos respectivos, la fecha de su publicación.
+
+De igual forma están obligados, antes de las diez de la mañana de los días laborales, a colocar en lugar visible de las oficinas del tribunal o juzgado, la lista de los asuntos que se hayan acordado el día anterior, que contendrá el número de expediente, los nombres y apellidos de las partes y un extracto de la resolución que emite el órgano jurisdiccional. Las listas estarán a la vista de las partes por un periodo de un mes, para resolver cualquier cuestión que se suscite sobre la omisión de alguna publicación.
+
+Sólo por errores u omisiones sustanciales que hagan no identificable el juicio, podrá pedirse la nulidad de las notificaciones hechas por lista.
+
+La inobservancia al contenido de este artículo, motivará la imposición de las sanciones que al efecto establezcan las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO. (REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 124.
 
-Antes de las diez de la mañana, se fijará en lugar visible de las oficinas del Tribunal o juzgados, una lista de los negocios que se hayan acordado el día anterior.
+Los actuarios deberán realizar las diligencias con estricto apego a los términos precisados en este Capítulo, su inobservancia motivará la imposición de las sanciones que al efecto establezcan las disposiciones legales aplicables.
+
+Independientemente de las sanciones antes señaladas, cuando los actuarios cometan errores u omisiones en las actas que levanten, que produzcan la nulidad de la actuación, deberán pagar los daños y perjuicios que en su caso genere su indebida actuación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 125.
 
-En el Tribunal y en los juzgados, los secretarios harán constar en los autos respectivos las fechas de su publicación. La inobservancia a lo anterior motivará la imposición de multa de tres veces el salario mínimo general diario vigente en la zona, por la primera falta; de cinco a diez veces del mencionado salario, por la segunda y suspensión del empleo hasta de treinta días, por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+Cualquier notificación podrá realizarse en las oficinas del juzgado ante el secretario de acuerdos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+###### Artículo 125 Bis.
+
+Toda notificación personal realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio respectivo.
 
 ### Capítulo Sexto. De los plazos judiciales
 
@@ -1884,6 +2020,26 @@ Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se a
 En las resoluciones a que se refieren los artículos 266 y 269, si debiera seguirse el juicio, el juez mandará recibir el juicio a prueba. Si el juez no decidiere nada sobre el particular, se entenderá que se recibe a prueba, corriendo, desde luego, el plazo para ofrecerlas.
 
 Contra la determinación que manda a abrir el juicio a prueba, no hay más recurso que el de responsabilidad, la que lo niegue será apelable en ambos efectos, si fuere apelable la sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
+
+###### Artículo 275 Bis.
+
+Contestada que sea la demanda y en su caso, la reconvención, el juez de oficio citará personalmente a las partes para que dentro de los diez días siguientes acudan a una audiencia oral conciliatoria ante el Centro de Mediación del Poder Judicial del Estado de Querétaro. Dicha audiencia se verificará sin que se suspenda el procedimiento.
+
+Las partes deberán comparecer personalmente o a través de representante facultado para transigir.
+
+La audiencia será única e indiferible y lo tratado en el proceso de mediación será confidencial, conforme lo establece el Reglamento del Centro de Mediación del Poder Judicial del Estado de Querétaro.
+
+El Director del Centro de Mediación, al concluir la audiencia, hará saber de inmediato al juzgador si las partes llegaron a un acuerdo o no. En el caso de que las partes lo hayan hecho, tendrá la obligación de entregar al juez el original del convenio para que sea ratificado en ese mismo momento.
+
+El juez, dentro de los tres días siguientes a la ratificación del convenio, lo calificará y, en su caso, lo aprobará, adquiriendo éste la categoría de cosa juzgada.
+
+Al citar a las partes a esta audiencia, se les apercibirá de que, en caso de no asistir sin justa causa; se les impondrá una multa por el equivalente a 100 días de salario mínimo.
+
+La causa para no comparecer, deberá hacerse del conocimiento del juzgador por lo menos un día antes de la fecha señalada para la audiencia, exhibiendo los comprobantes respectivos. Si se tratare de una enfermedad, el correspondiente certificado deberá ratificarse ante la presencia judicial por el médico que lo expida, el mismo día fijado para la audiencia. El juzgador podrá autorizar que el mediador se traslade, en compañía del colitigante, al lugar en que se encuentre el enfermo y ahí se llevará a cabo la audiencia.
 
 ### Capítulo Segundo. De la prueba
 
@@ -4751,9 +4907,13 @@ Si no se exhiben las copias para el traslado, se requerirá al apelante para que
 
 Si transcurrido el plazo señalado en el párrafo anterior no se hubieren exhibido las copias, el juez, de oficio, hará efectivo el apercibimiento. Contra esta resolución no procede recurso alguno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+
 ###### Artículo 741.
 
-En el escrito de interposición del recurso, el apelante señalará domicilio para recibir notificaciones en la segunda instancia y lo mismo hará el colitigante en el escrito de contestación de agravios.
+En el escrito de interposición del recurso, el apelante señalará domicilio para recibir notificaciones en la segunda instancia y, en caso de que así lo desee, un correo electrónico para recibirlos. Lo mismo hará el colitigante en el escrito de contestación de agravios.
 
 ###### Artículo 742.
 
@@ -6608,3 +6768,11 @@ Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple
 Artículo Cuarto. El Poder Ejecutivo del Estado de Querétaro, proporcionará los recursos necesarios para asegurar la efectiva aplicación de esta Ley y la operatividad de las autoridades involucradas.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El Poder Judicial del Estado de Querétaro deberá contar con el Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Tercero. Los asuntos que se encuentren en los Juzgados o en Oficialía de Partes del Poder Judicial del Estado de Querétaro, que no hayan sido notificados a la fecha de entrada en vigor de la presente Ley, deberán atender al contenido de este ordenamiento legal.
