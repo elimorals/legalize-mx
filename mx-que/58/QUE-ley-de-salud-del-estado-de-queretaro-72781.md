@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2010-11-26"
+last_updated: "2011-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE SALUD DEL ESTADO DE QUERETARO
 
-LEY DE SALUD DEL ESTADO DE QUERETARO
+LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -865,7 +865,9 @@ La salud reproductiva tiene carácter prioritario. Los servicios que se presten 
 
 Los servicios de salud reproductiva comprenden:
 
-I. La promoción de programas en materia de servicios de salud reproductiva y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2011)</small>
+
+l. La promoción y difusión de programas en materia de servicios de planificación familiar, salud reproductiva, educación sexual y de prevención de enfermedades de transmisión sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
 
 II. La atención de los solicitantes de servicios de salud reproductiva;
 
@@ -1793,7 +1795,7 @@ Secretario de Salud
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
@@ -1807,7 +1809,7 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO SEGUNDO.
 
-SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTICULO 3; SE ADICIONA UNA FRACCION XI AL ARTICULO 19, RECORRIENDO LA ACTUAL FRACCION XI; SE ADICIONA UNA FRACCION V AL ARTICULO 20, RECORRIENDO LA ACTUAL FRACCION V; SE REFORMA LA FRACCION IX DEL ARTICULO 30; SE REFORMA LA FRACCION II Y SE ADICIONA UNA FRACCION X AL ARTICULO 59; SE REFORMA LA FRACCION II DEL ARTICULO 63; SE ADICIONA UNA FRACCION IV AL ARTICULO 67, RECORRIENDO LA ACTUAL FRACCION IV; SE REFORMA EL ARTICULO 98; SE ADICIONA LA FRACCION IV, AL ARTICULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERETARO.
+SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTICULO 3; SE ADICIONA UNA FRACCIÓN XI AL ARTICULO 19, RECORRIENDO LA ACTUAL FRACCIÓN XI; SE ADICIONA UNA FRACCIÓN V AL ARTICULO 20, RECORRIENDO LA ACTUAL FRACCIÓN V; SE REFORMA LA FRACCIÓN IX DEL ARTICULO 30; SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN X AL ARTICULO 59; SE REFORMA LA FRACCIÓN II DEL ARTICULO 63; SE ADICIONA UNA FRACCIÓN IV AL ARTICULO 67, RECORRIENDO LA ACTUAL FRACCIÓN IV; SE REFORMA EL ARTICULO 98; SE ADICIONA LA FRACCIÓN IV, AL ARTICULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -1819,10 +1821,16 @@ Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios t
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
-SE REFORMAN LAS FRACCIONES IV, VII Y IX DEL ARTICULO 111 DE LA LEY DE SALUD DEL ESTADO DE QUERETARO.
+SE REFORMAN LAS FRACCIONES IV, VII Y IX DEL ARTÍCULO 111 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE JULIO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
